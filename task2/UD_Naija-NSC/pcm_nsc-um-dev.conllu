@@ -1,0 +1,1680 @@
+# sent_id = IBA_13_M_72
+# text = # hope still dey sey [ dem go born anoder pikin ] //
+# text_en = There is hope that they would have given birth to another child.
+1	#	#	_	_	_	_	_	_	_
+2	hope	hope	_	_	N	_	_	_	_
+3	still	still	_	_	ADV	_	_	_	_
+4	dey	dey	_	_	V	_	_	_	_
+5	sey	sey	_	_	CONJ	_	_	_	_
+6	[	[	_	_	_	_	_	_	_
+7	dem	dem	_	_	PRO	_	_	_	_
+8	go	go	_	_	V	_	_	_	_
+9	born	born	_	_	V	_	_	_	_
+10	anoder	anoder	_	_	DET	_	_	_	_
+11	pikin	pikin	_	_	N	_	_	_	_
+12	]	]	_	_	_	_	_	_	_
+13	//	//	_	_	_	_	_	_	_
+
+# sent_id = IBA_07_D_291
+# speaker = 1
+# text = # no babe !//
+# text_en = No babe!
+1	#	#	_	_	_	_	_	_	_
+2	no	no	_	_	PART	_	_	_	_
+3	babe	babe	_	_	N	_	_	_	_
+4	!//	!//	_	_	_	_	_	_	_
+
+# sent_id = IBA_07_D_158
+# speaker = 1
+# text = # come tell me sey [ eh # eh H come follow S // ] //
+# text_en = He told me “ Uh-uh, an H follows the S.”
+1	#	#	_	_	_	_	_	_	_
+2	come	come	_	_	V	_	_	_	_
+3	tell	tell	_	_	V	_	_	_	_
+4	me	me	_	_	PRO	_	_	_	_
+5	sey	sey	_	_	CONJ	_	_	_	_
+6	[	[	_	_	_	_	_	_	_
+7	eh	eh	_	_	INTJ	_	_	_	_
+8	#	#	_	_	_	_	_	_	_
+9	eh	eh	_	_	INTJ	_	_	_	_
+10	H	H	_	_	PROPN	_	_	_	_
+11	come	come	_	_	V	_	_	_	_
+12	follow	follow	_	_	V	_	_	_	_
+13	S	S	_	_	PROPN	_	_	_	_
+14	//	//	_	_	_	_	_	_	_
+15	]	]	_	_	_	_	_	_	_
+16	//	//	_	_	_	_	_	_	_
+
+# sent_id = DEU_C01_D_127
+# speaker = 1
+# text = na only God >+ know //
+# text_en = It is only God that knows.
+1	na	na	_	_	PART	_	_	_	_
+2	only	only	_	_	ADJ	_	_	_	_
+3	God	God	_	_	PROPN	_	_	_	_
+4	>+	>+	_	_	_	_	_	_	_
+5	know	know	_	_	V	_	_	_	_
+6	//	//	_	_	_	_	_	_	_
+
+# sent_id = IBA_07_D_144
+# speaker = 1
+# text = # im get money ?//
+# text_en = Is he rich?
+1	#	#	_	_	_	_	_	_	_
+2	im	im	_	_	PRO	_	_	_	_
+3	get	get	_	_	V	_	_	_	_
+4	money	money	_	_	N	_	_	_	_
+5	?//	?//	_	_	_	_	_	_	_
+
+# sent_id = IBA_07_D_252
+# speaker = 1
+# text = I go give you later //
+# text_en = I will give it to you later.
+1	I	I	_	_	PRO	_	_	_	_
+2	go	go	_	_	V	_	_	_	_
+3	give	give	_	_	V	_	_	_	_
+4	you	you	_	_	PRO	_	_	_	_
+5	later	later	_	_	ADV	_	_	_	_
+6	//	//	_	_	_	_	_	_	_
+
+# sent_id = DEU_A01_M_20
+# text = # derefore # dis small one wey just happen so < na sample di rain take am show { landlord dem |c # and local government |c and even state government dem } # to make dem quick repair all di road dem # wey don spoil finish //
+# text_en = Therefore this little thing that happened is only a sample that the rain has shown landlords and local and even state governments in order to make them repair all the roads that are completely spoilt.
+1	#	#	_	_	_	_	_	_	_
+2	derefore	derefore	_	_	ADV	_	_	_	_
+3	#	#	_	_	_	_	_	_	_
+4	dis	dis	_	_	DET	_	_	_	_
+5	small	small	_	_	ADJ	_	_	_	_
+6	one	one	_	_	NUM	_	_	_	_
+7	wey	wey	_	_	CONJ	_	_	_	_
+8	just	just	_	_	ADV	_	_	_	_
+9	happen	happen	_	_	V	_	_	_	_
+10	so	so	_	_	ADV	_	_	_	_
+11	<	<	_	_	_	_	_	_	_
+12	na	na	_	_	PART	_	_	_	_
+13	sample	sample	_	_	N	_	_	_	_
+14	di	di	_	_	DET	_	_	_	_
+15	rain	rain	_	_	N	_	_	_	_
+16	take	take	_	_	V	_	_	_	_
+17	am	am	_	_	PRO	_	_	_	_
+18	show	show	_	_	V	_	_	_	_
+19	{	{	_	_	_	_	_	_	_
+20	landlord	landlord	_	_	N	_	_	_	_
+21	dem	dem	_	_	PART	_	_	_	_
+22	|c	|c	_	_	_	_	_	_	_
+23	#	#	_	_	_	_	_	_	_
+24	and	and	_	_	CONJ	_	_	_	_
+25	local	local	_	_	ADJ	_	_	_	_
+26	government	government	_	_	N	_	_	_	_
+27	|c	|c	_	_	_	_	_	_	_
+28	and	and	_	_	CONJ	_	_	_	_
+29	even	even	_	_	ADV	_	_	_	_
+30	state	state	_	_	N	_	_	_	_
+31	government	government	_	_	N	_	_	_	_
+32	dem	dem	_	_	PART	_	_	_	_
+33	}	}	_	_	_	_	_	_	_
+34	#	#	_	_	_	_	_	_	_
+35	to	to	_	_	PART	_	_	_	_
+36	make	make	_	_	V	_	_	_	_
+37	dem	dem	_	_	PRO	_	_	_	_
+38	quick	quick	_	_	ADJ	_	_	_	_
+39	repair	repair	_	_	V	_	_	_	_
+40	all	all	_	_	DET	_	_	_	_
+41	di	di	_	_	DET	_	_	_	_
+42	road	road	_	_	N	_	_	_	_
+43	dem	dem	_	_	PART	_	_	_	_
+44	#	#	_	_	_	_	_	_	_
+45	wey	wey	_	_	CONJ	_	_	_	_
+46	don	don	_	_	V	_	_	_	_
+47	spoil	spoil	_	_	V	_	_	_	_
+48	finish	finish	_	_	V	_	_	_	_
+49	//	//	_	_	_	_	_	_	_
+
+# sent_id = IBA_07_D_106
+# speaker = 1
+# text = ah ah { no |r no |r no } //
+# text_en = Uh-uh, no, no, no!
+1	ah	ah	_	_	INTJ	_	_	_	_
+2	ah	ah	_	_	INTJ	_	_	_	_
+3	{	{	_	_	_	_	_	_	_
+4	no	no	_	_	INTJ	_	_	_	_
+5	|r	|r	_	_	_	_	_	_	_
+6	no	no	_	_	INTJ	_	_	_	_
+7	|r	|r	_	_	_	_	_	_	_
+8	no	no	_	_	INTJ	_	_	_	_
+9	}	}	_	_	_	_	_	_	_
+10	//	//	_	_	_	_	_	_	_
+
+# sent_id = IBA_07_D_68
+# speaker = 1
+# text = # na dem >+ dey go spread dat kind rumour //
+# text_en = They are the ones who go about spreading such rumour.
+1	#	#	_	_	_	_	_	_	_
+2	na	na	_	_	PART	_	_	_	_
+3	dem	dem	_	_	PRO	_	_	_	_
+4	>+	>+	_	_	_	_	_	_	_
+5	dey	dey	_	_	V	_	_	_	_
+6	go	go	_	_	V	_	_	_	_
+7	spread	spread	_	_	V	_	_	_	_
+8	dat	dat	_	_	DET	_	_	_	_
+9	kind	kind	_	_	N	_	_	_	_
+10	rumour	rumour	_	_	N	_	_	_	_
+11	//	//	_	_	_	_	_	_	_
+
+# sent_id = IBA_07_D_360
+# speaker = 2
+# text = # but in di morning > you go go fetch wata //
+# text_en = But in the morning, you will fetch water.
+1	#	#	_	_	_	_	_	_	_
+2	but	but	_	_	CONJ	_	_	_	_
+3	in	in	_	_	ADP	_	_	_	_
+4	di	di	_	_	DET	_	_	_	_
+5	morning	morning	_	_	N	_	_	_	_
+6	>	>	_	_	_	_	_	_	_
+7	you	you	_	_	PRO	_	_	_	_
+8	go	go	_	_	V	_	_	_	_
+9	go	go	_	_	V	_	_	_	_
+10	fetch	fetch	_	_	V	_	_	_	_
+11	wata	wata	_	_	N	_	_	_	_
+12	//	//	_	_	_	_	_	_	_
+
+# sent_id = DEU_C01_D_2
+# speaker = 1
+# text = I just tire for dem o //
+# text_en = I'm just tired of them.
+1	I	I	_	_	PRO	_	_	_	_
+2	just	just	_	_	ADV	_	_	_	_
+3	tire	tire	_	_	V	_	_	_	_
+4	for	for	_	_	ADP	_	_	_	_
+5	dem	dem	_	_	PRO	_	_	_	_
+6	o	o	_	_	PART	_	_	_	_
+7	//	//	_	_	_	_	_	_	_
+
+# sent_id = IBA_07_D_137
+# speaker = 2
+# text = # you ma talk sey na since hundred level you don dey pursue me //
+# text_en = You said you have been wooing me since hundred level.
+1	#	#	_	_	_	_	_	_	_
+2	you	you	_	_	PRO	_	_	_	_
+3	ma	ma	_	_	PRO	_	_	_	_
+4	talk	talk	_	_	V	_	_	_	_
+5	sey	sey	_	_	CONJ	_	_	_	_
+6	na	na	_	_	PART	_	_	_	_
+7	since	since	_	_	CONJ	_	_	_	_
+8	hundred	hundred	_	_	NUM	_	_	_	_
+9	level	level	_	_	N	_	_	_	_
+10	you	you	_	_	PRO	_	_	_	_
+11	don	don	_	_	V	_	_	_	_
+12	dey	dey	_	_	V	_	_	_	_
+13	pursue	pursue	_	_	V	_	_	_	_
+14	me	me	_	_	PRO	_	_	_	_
+15	//	//	_	_	_	_	_	_	_
+
+# sent_id = DEU_C01_D_187
+# speaker = 2
+# text = shey you no see { Obasan~ || "uh" Abacha } so ?//
+# text_en = Haven’t you seen Obasan... er Abacha?
+1	shey	shey	_	_	ADV	_	_	_	_
+2	you	you	_	_	PRO	_	_	_	_
+3	no	no	_	_	PART	_	_	_	_
+4	see	see	_	_	V	_	_	_	_
+5	{	{	_	_	_	_	_	_	_
+6	Obasan~	Obasan~	_	_	_	_	_	_	_
+7	||	||	_	_	_	_	_	_	_
+8	"uh"	"uh"	_	_	INTJ	_	_	_	_
+9	Abacha	Abacha	_	_	PROPN	_	_	_	_
+10	}	}	_	_	_	_	_	_	_
+11	so	so	_	_	ADV	_	_	_	_
+12	?//	?//	_	_	_	_	_	_	_
+
+# sent_id = IBA_13_M_189
+# text = # ehn { one thing |r one thing } //
+# text_en = Er, one thing or another.
+1	#	#	_	_	_	_	_	_	_
+2	ehn	ehn	_	_	INTJ	_	_	_	_
+3	{	{	_	_	_	_	_	_	_
+4	one	one	_	_	DET	_	_	_	_
+5	thing	thing	_	_	N	_	_	_	_
+6	|r	|r	_	_	_	_	_	_	_
+7	one	one	_	_	DET	_	_	_	_
+8	thing	thing	_	_	N	_	_	_	_
+9	}	}	_	_	_	_	_	_	_
+10	//	//	_	_	_	_	_	_	_
+
+# sent_id = IBA_07_D_266
+# speaker = 2
+# text = a'ah !//
+# text_en = Uh-uh!
+1	a'ah	a'ah	_	_	INTJ	_	_	_	_
+2	!//	!//	_	_	_	_	_	_	_
+
+# sent_id = DEU_C01_D_14
+# speaker = 1
+# text = I go just dey comot for compound o //
+# text_en = I will just leave the compound.
+1	I	I	_	_	PRO	_	_	_	_
+2	go	go	_	_	V	_	_	_	_
+3	just	just	_	_	ADV	_	_	_	_
+4	dey	dey	_	_	V	_	_	_	_
+5	comot	comot	_	_	V	_	_	_	_
+6	for	for	_	_	ADP	_	_	_	_
+7	compound	compound	_	_	N	_	_	_	_
+8	o	o	_	_	PART	_	_	_	_
+9	//	//	_	_	_	_	_	_	_
+
+# sent_id = IBA_07_D_63
+# speaker = 1
+# text = so I beg I no want wahala //
+# text_en = So please, I don't want any trouble
+1	so	so	_	_	ADV	_	_	_	_
+2	I	I	_	_	PRO	_	_	_	_
+3	beg	beg	_	_	V	_	_	_	_
+4	I	I	_	_	PRO	_	_	_	_
+5	no	no	_	_	PART	_	_	_	_
+6	want	want	_	_	V	_	_	_	_
+7	wahala	wahala	_	_	N	_	_	_	_
+8	//	//	_	_	_	_	_	_	_
+
+# sent_id = IBA_13_M_134
+# text = you no know sey [ di driver wey dey drive di car wey you want overtake < dat one no even look mirror ] //
+# text_en = You don’t know that the driver you want to quickly overtake is not paying attention, is not looking at the mirror.
+1	you	you	_	_	PRO	_	_	_	_
+2	no	no	_	_	PART	_	_	_	_
+3	know	know	_	_	V	_	_	_	_
+4	sey	sey	_	_	CONJ	_	_	_	_
+5	[	[	_	_	_	_	_	_	_
+6	di	di	_	_	DET	_	_	_	_
+7	driver	driver	_	_	N	_	_	_	_
+8	wey	wey	_	_	CONJ	_	_	_	_
+9	dey	dey	_	_	V	_	_	_	_
+10	drive	drive	_	_	V	_	_	_	_
+11	di	di	_	_	DET	_	_	_	_
+12	car	car	_	_	N	_	_	_	_
+13	wey	wey	_	_	CONJ	_	_	_	_
+14	you	you	_	_	PRO	_	_	_	_
+15	want	want	_	_	V	_	_	_	_
+16	overtake	overtake	_	_	V	_	_	_	_
+17	<	<	_	_	_	_	_	_	_
+18	dat	dat	_	_	DET	_	_	_	_
+19	one	one	_	_	N	_	_	_	_
+20	no	no	_	_	PART	_	_	_	_
+21	even	even	_	_	ADV	_	_	_	_
+22	look	look	_	_	V	_	_	_	_
+23	mirror	mirror	_	_	N	_	_	_	_
+24	]	]	_	_	_	_	_	_	_
+25	//	//	_	_	_	_	_	_	_
+
+# sent_id = DEU_C01_D_38
+# speaker = 2
+# text = im say [ im dey go & ] //
+# text_en = He said he would...
+1	im	im	_	_	PRO	_	_	_	_
+2	say	say	_	_	V	_	_	_	_
+3	[	[	_	_	_	_	_	_	_
+4	im	im	_	_	PRO	_	_	_	_
+5	dey	dey	_	_	V	_	_	_	_
+6	go	go	_	_	V	_	_	_	_
+7	&	&	_	_	_	_	_	_	_
+8	]	]	_	_	_	_	_	_	_
+9	//	//	_	_	_	_	_	_	_
+
+# sent_id = IBA_13_M_166
+# text = im go come reach Ogere now < # im go press brake //
+# text_en = On reaching Ogere, he will step on the brakes.
+1	im	im	_	_	PRO	_	_	_	_
+2	go	go	_	_	V	_	_	_	_
+3	come	come	_	_	V	_	_	_	_
+4	reach	reach	_	_	V	_	_	_	_
+5	Ogere	Ogere	_	_	PROPN	_	_	_	_
+6	now	now	_	_	ADV	_	_	_	_
+7	<	<	_	_	_	_	_	_	_
+8	#	#	_	_	_	_	_	_	_
+9	im	im	_	_	PRO	_	_	_	_
+10	go	go	_	_	V	_	_	_	_
+11	press	press	_	_	V	_	_	_	_
+12	brake	brake	_	_	N	_	_	_	_
+13	//	//	_	_	_	_	_	_	_
+
+# sent_id = IBA_13_M_86
+# text = # many driver go tell you sey [ na di time wey dem drink >+ naim dem dey sharp pass ] //
+# text_en = Many drivers will tell you that it is when they have taken alcohol that they are sharper.
+1	#	#	_	_	_	_	_	_	_
+2	many	many	_	_	ADJ	_	_	_	_
+3	driver	driver	_	_	N	_	_	_	_
+4	go	go	_	_	V	_	_	_	_
+5	tell	tell	_	_	V	_	_	_	_
+6	you	you	_	_	PRO	_	_	_	_
+7	sey	sey	_	_	CONJ	_	_	_	_
+8	[	[	_	_	_	_	_	_	_
+9	na	na	_	_	PART	_	_	_	_
+10	di	di	_	_	DET	_	_	_	_
+11	time	time	_	_	N	_	_	_	_
+12	wey	wey	_	_	CONJ	_	_	_	_
+13	dem	dem	_	_	PRO	_	_	_	_
+14	drink	drink	_	_	V	_	_	_	_
+15	>+	>+	_	_	_	_	_	_	_
+16	naim	naim	_	_	PRO	_	_	_	_
+17	dem	dem	_	_	PRO	_	_	_	_
+18	dey	dey	_	_	V	_	_	_	_
+19	sharp	sharp	_	_	ADJ	_	_	_	_
+20	pass	pass	_	_	V	_	_	_	_
+21	]	]	_	_	_	_	_	_	_
+22	//	//	_	_	_	_	_	_	_
+
+# sent_id = DEU_A01_M_74
+# text = e don turn upside down now o //
+# text_en = It has turned upside down now.
+1	e	e	_	_	PRO	_	_	_	_
+2	don	don	_	_	V	_	_	_	_
+3	turn	turn	_	_	V	_	_	_	_
+4	upside	upside	_	_	N	_	_	_	_
+5	down	down	_	_	ADP	_	_	_	_
+6	now	now	_	_	ADV	_	_	_	_
+7	o	o	_	_	PART	_	_	_	_
+8	//	//	_	_	_	_	_	_	_
+
+# sent_id = DEU_A01_M_46
+# text = # dem fit { fall down from motor |c wound |c or even get accident |c or die sef } //
+# text_en = They can even fall down, get injured or even die.
+1	#	#	_	_	_	_	_	_	_
+2	dem	dem	_	_	PRO	_	_	_	_
+3	fit	fit	_	_	V	_	_	_	_
+4	{	{	_	_	_	_	_	_	_
+5	fall	fall	_	_	V	_	_	_	_
+6	down	down	_	_	ADP	_	_	_	_
+7	from	from	_	_	ADP	_	_	_	_
+8	motor	motor	_	_	N	_	_	_	_
+9	|c	|c	_	_	_	_	_	_	_
+10	wound	wound	_	_	V	_	_	_	_
+11	|c	|c	_	_	_	_	_	_	_
+12	or	or	_	_	CONJ	_	_	_	_
+13	even	even	_	_	ADV	_	_	_	_
+14	get	get	_	_	V	_	_	_	_
+15	accident	accident	_	_	N	_	_	_	_
+16	|c	|c	_	_	_	_	_	_	_
+17	or	or	_	_	CONJ	_	_	_	_
+18	die	die	_	_	V	_	_	_	_
+19	sef	sef	_	_	PART	_	_	_	_
+20	}	}	_	_	_	_	_	_	_
+21	//	//	_	_	_	_	_	_	_
+
+# sent_id = IBA_13_M_257
+# text = im dey important //
+# text_en = It is important.
+1	im	im	_	_	PRO	_	_	_	_
+2	dey	dey	_	_	V	_	_	_	_
+3	important	important	_	_	ADJ	_	_	_	_
+4	//	//	_	_	_	_	_	_	_
+
+# sent_id = IBA_07_D_58
+# speaker = 2
+# text = # two of una dey date //
+# text_en = The two of you are in a relationship.
+1	#	#	_	_	_	_	_	_	_
+2	two	two	_	_	NUM	_	_	_	_
+3	of	of	_	_	ADP	_	_	_	_
+4	una	una	_	_	PRO	_	_	_	_
+5	dey	dey	_	_	V	_	_	_	_
+6	date	date	_	_	V	_	_	_	_
+7	//	//	_	_	_	_	_	_	_
+
+# sent_id = DEU_C01_D_169
+# speaker = 1
+# text = na wa o //
+# text_en = That’s amazing!
+1	na	na	_	_	PART	_	_	_	_
+2	wa	wa	_	_	INTJ	_	_	_	_
+3	o	o	_	_	PART	_	_	_	_
+4	//	//	_	_	_	_	_	_	_
+
+# sent_id = IBA_07_D_45
+# speaker = 2
+# text = # ahn !//
+# text_en = Ah!
+1	#	#	_	_	_	_	_	_	_
+2	ahn	ahn	_	_	INTJ	_	_	_	_
+3	!//	!//	_	_	_	_	_	_	_
+
+# sent_id = DEU_C01_D_183
+# speaker = 2
+# text = no & //
+# text_en = It’s not...
+1	no	no	_	_	PART	_	_	_	_
+2	&	&	_	_	_	_	_	_	_
+3	//	//	_	_	_	_	_	_	_
+
+# sent_id = IBA_07_D_272
+# speaker = 2
+# text = # make we go Shoprite //
+# text_en = Let us go to Shoprite.
+1	#	#	_	_	_	_	_	_	_
+2	make	make	_	_	V	_	_	_	_
+3	we	we	_	_	PRO	_	_	_	_
+4	go	go	_	_	V	_	_	_	_
+5	Shoprite	Shoprite	_	_	PROPN	_	_	_	_
+6	//	//	_	_	_	_	_	_	_
+
+# sent_id = IBA_13_M_229
+# text = # so I believe sey dese thing wey I don tell you < { im go fit help us || # it will go a long way } make im just guide us on how we suppose dey use di road so dat accident no go dey happen //
+# text_en = So, I believe that these things I have told you, they can help us, it will go a long way to guide us on how we are supposed to use the road so that accidents won't happen.
+1	#	#	_	_	_	_	_	_	_
+2	so	so	_	_	CONJ	_	_	_	_
+3	I	I	_	_	PRO	_	_	_	_
+4	believe	believe	_	_	V	_	_	_	_
+5	sey	sey	_	_	CONJ	_	_	_	_
+6	dese	dese	_	_	DET	_	_	_	_
+7	thing	thing	_	_	N	_	_	_	_
+8	wey	wey	_	_	CONJ	_	_	_	_
+9	I	I	_	_	PRO	_	_	_	_
+10	don	don	_	_	V	_	_	_	_
+11	tell	tell	_	_	V	_	_	_	_
+12	you	you	_	_	PRO	_	_	_	_
+13	<	<	_	_	_	_	_	_	_
+14	{	{	_	_	_	_	_	_	_
+15	im	im	_	_	PRO	_	_	_	_
+16	go	go	_	_	V	_	_	_	_
+17	fit	fit	_	_	V	_	_	_	_
+18	help	help	_	_	V	_	_	_	_
+19	us	us	_	_	PRO	_	_	_	_
+20	||	||	_	_	_	_	_	_	_
+21	#	#	_	_	_	_	_	_	_
+22	it	it	_	_	PRO	_	_	_	_
+23	will	will	_	_	V	_	_	_	_
+24	go	go	_	_	V	_	_	_	_
+25	a	a	_	_	DET	_	_	_	_
+26	long	long	_	_	ADJ	_	_	_	_
+27	way	way	_	_	N	_	_	_	_
+28	}	}	_	_	_	_	_	_	_
+29	make	make	_	_	V	_	_	_	_
+30	im	im	_	_	PRO	_	_	_	_
+31	just	just	_	_	ADV	_	_	_	_
+32	guide	guide	_	_	V	_	_	_	_
+33	us	us	_	_	PRO	_	_	_	_
+34	on	on	_	_	ADP	_	_	_	_
+35	how	how	_	_	ADV	_	_	_	_
+36	we	we	_	_	PRO	_	_	_	_
+37	suppose	suppose	_	_	V	_	_	_	_
+38	dey	dey	_	_	V	_	_	_	_
+39	use	use	_	_	V	_	_	_	_
+40	di	di	_	_	DET	_	_	_	_
+41	road	road	_	_	N	_	_	_	_
+42	so	so	_	_	CONJ	_	_	_	_
+43	dat	dat	_	_	CONJ	_	_	_	_
+44	accident	accident	_	_	N	_	_	_	_
+45	no	no	_	_	PART	_	_	_	_
+46	go	go	_	_	V	_	_	_	_
+47	dey	dey	_	_	V	_	_	_	_
+48	happen	happen	_	_	V	_	_	_	_
+49	//	//	_	_	_	_	_	_	_
+
+# sent_id = DEU_C01_D_103
+# speaker = 2
+# text = im know dem dey & //
+# text_en = He knows that they...
+1	im	im	_	_	PRO	_	_	_	_
+2	know	know	_	_	V	_	_	_	_
+3	dem	dem	_	_	PRO	_	_	_	_
+4	dey	dey	_	_	V	_	_	_	_
+5	&	&	_	_	_	_	_	_	_
+6	//	//	_	_	_	_	_	_	_
+
+# sent_id = IBA_07_D_311
+# speaker = 1
+# text = shey na Tantis ?//
+# text_en = Hope it is Tantis?
+1	shey	shey	_	_	ADV	_	_	_	_
+2	na	na	_	_	PART	_	_	_	_
+3	Tantis	Tantis	_	_	PROPN	_	_	_	_
+4	?//	?//	_	_	_	_	_	_	_
+
+# sent_id = IBA_07_D_344
+# speaker = 2
+# text = # na wa for you o //
+# text_en = It is a pity.
+1	#	#	_	_	_	_	_	_	_
+2	na	na	_	_	PART	_	_	_	_
+3	wa	wa	_	_	ADJ	_	_	_	_
+4	for	for	_	_	ADP	_	_	_	_
+5	you	you	_	_	PRO	_	_	_	_
+6	o	o	_	_	PART	_	_	_	_
+7	//	//	_	_	_	_	_	_	_
+
+# sent_id = IBA_07_D_4
+# speaker = 1
+# text = # I no dey o //
+# text_en = I am not fine.
+1	#	#	_	_	_	_	_	_	_
+2	I	I	_	_	PRO	_	_	_	_
+3	no	no	_	_	PART	_	_	_	_
+4	dey	dey	_	_	V	_	_	_	_
+5	o	o	_	_	PART	_	_	_	_
+6	//	//	_	_	_	_	_	_	_
+
+# sent_id = IBA_13_M_65
+# text = # na so >+ di man take waka //
+# text_en = That was how the man left.
+1	#	#	_	_	_	_	_	_	_
+2	na	na	_	_	PART	_	_	_	_
+3	so	so	_	_	ADV	_	_	_	_
+4	>+	>+	_	_	_	_	_	_	_
+5	di	di	_	_	DET	_	_	_	_
+6	man	man	_	_	N	_	_	_	_
+7	take	take	_	_	V	_	_	_	_
+8	waka	waka	_	_	V	_	_	_	_
+9	//	//	_	_	_	_	_	_	_
+
+# sent_id = IBA_07_D_368
+# speaker = 2
+# text = # which oder room ?//
+# text_en = Which other room?
+1	#	#	_	_	_	_	_	_	_
+2	which	which	_	_	DET	_	_	_	_
+3	oder	oder	_	_	ADJ	_	_	_	_
+4	room	room	_	_	N	_	_	_	_
+5	?//	?//	_	_	_	_	_	_	_
+
+# sent_id = IBA_07_D_238
+# speaker = 1
+# text = me sef > dey barb ah //
+# text_en = Myself, I do hairdressing.
+1	me	me	_	_	PRO	_	_	_	_
+2	sef	sef	_	_	PART	_	_	_	_
+3	>	>	_	_	_	_	_	_	_
+4	dey	dey	_	_	V	_	_	_	_
+5	barb	barb	_	_	V	_	_	_	_
+6	ah	ah	_	_	INTJ	_	_	_	_
+7	//	//	_	_	_	_	_	_	_
+
+# sent_id = IBA_07_D_242
+# speaker = 1
+# text = # sey you sef < love me < make we forget about material thing //
+# text_en = If you also love me, let us forget about material things.
+1	#	#	_	_	_	_	_	_	_
+2	sey	sey	_	_	CONJ	_	_	_	_
+3	you	you	_	_	PRO	_	_	_	_
+4	sef	sef	_	_	PART	_	_	_	_
+5	<	<	_	_	_	_	_	_	_
+6	love	love	_	_	V	_	_	_	_
+7	me	me	_	_	PRO	_	_	_	_
+8	<	<	_	_	_	_	_	_	_
+9	make	make	_	_	V	_	_	_	_
+10	we	we	_	_	PRO	_	_	_	_
+11	forget	forget	_	_	V	_	_	_	_
+12	about	about	_	_	ADP	_	_	_	_
+13	material	material	_	_	ADJ	_	_	_	_
+14	thing	thing	_	_	N	_	_	_	_
+15	//	//	_	_	_	_	_	_	_
+
+# sent_id = IBA_07_D_247
+# speaker = 2
+# text = # okay !//
+# text_en = OK.
+1	#	#	_	_	_	_	_	_	_
+2	okay	okay	_	_	INTJ	_	_	_	_
+3	!//	!//	_	_	_	_	_	_	_
+
+# sent_id = IBA_07_D_359
+# speaker = 2
+# text = # di wife na < her work na just to cook //
+# text_en = The wife’s work is just to cook.
+1	#	#	_	_	_	_	_	_	_
+2	di	di	_	_	DET	_	_	_	_
+3	wife	wife	_	_	N	_	_	_	_
+4	na	na	_	_	PART	_	_	_	_
+5	<	<	_	_	_	_	_	_	_
+6	her	her	_	_	PRO	_	_	_	_
+7	work	work	_	_	N	_	_	_	_
+8	na	na	_	_	PART	_	_	_	_
+9	just	just	_	_	ADV	_	_	_	_
+10	to	to	_	_	PART	_	_	_	_
+11	cook	cook	_	_	V	_	_	_	_
+12	//	//	_	_	_	_	_	_	_
+
+# sent_id = IBA_07_D_150
+# speaker = 1
+# text = I be person wey be sey [ I get free mind ] //
+# text_en = See, I am a person who has a free mind.
+1	I	I	_	_	PRO	_	_	_	_
+2	be	be	_	_	V	_	_	_	_
+3	person	person	_	_	N	_	_	_	_
+4	wey	wey	_	_	CONJ	_	_	_	_
+5	be	be	_	_	V	_	_	_	_
+6	sey	sey	_	_	CONJ	_	_	_	_
+7	[	[	_	_	_	_	_	_	_
+8	I	I	_	_	PRO	_	_	_	_
+9	get	get	_	_	V	_	_	_	_
+10	free	free	_	_	ADJ	_	_	_	_
+11	mind	mind	_	_	N	_	_	_	_
+12	]	]	_	_	_	_	_	_	_
+13	//	//	_	_	_	_	_	_	_
+
+# sent_id = IBA_13_M_174
+# text = we no want make you die //
+# text_en = We do not want you to die.
+1	we	we	_	_	PRO	_	_	_	_
+2	no	no	_	_	PART	_	_	_	_
+3	want	want	_	_	V	_	_	_	_
+4	make	make	_	_	V	_	_	_	_
+5	you	you	_	_	PRO	_	_	_	_
+6	die	die	_	_	V	_	_	_	_
+7	//	//	_	_	_	_	_	_	_
+
+# sent_id = IBA_13_M_82
+# text = # dem dey drink { kainkain | ogogoro | # alcohol } //
+# text_en = They drink kainkain, ogogoro, alcohol.
+1	#	#	_	_	_	_	_	_	_
+2	dem	dem	_	_	PRO	_	_	_	_
+3	dey	dey	_	_	V	_	_	_	_
+4	drink	drink	_	_	V	_	_	_	_
+5	{	{	_	_	_	_	_	_	_
+6	kainkain	kainkain	_	_	N	_	_	_	_
+7	|	|	_	_	_	_	_	_	_
+8	ogogoro	ogogoro	_	_	N	_	_	_	_
+9	|	|	_	_	_	_	_	_	_
+10	#	#	_	_	_	_	_	_	_
+11	alcohol	alcohol	_	_	N	_	_	_	_
+12	}	}	_	_	_	_	_	_	_
+13	//	//	_	_	_	_	_	_	_
+
+# sent_id = IBA_13_M_99
+# text = because # you don lose # { your think | your think } faculty //
+# text_en = You have lost your intellectual, your intellectual faculties.
+1	because	because	_	_	CONJ	_	_	_	_
+2	#	#	_	_	_	_	_	_	_
+3	you	you	_	_	PRO	_	_	_	_
+4	don	don	_	_	V	_	_	_	_
+5	lose	lose	_	_	V	_	_	_	_
+6	#	#	_	_	_	_	_	_	_
+7	{	{	_	_	_	_	_	_	_
+8	your	your	_	_	PRO	_	_	_	_
+9	think	think	_	_	N	_	_	_	_
+10	|	|	_	_	_	_	_	_	_
+11	your	your	_	_	PRO	_	_	_	_
+12	think	think	_	_	N	_	_	_	_
+13	}	}	_	_	_	_	_	_	_
+14	faculty	faculty	_	_	N	_	_	_	_
+15	//	//	_	_	_	_	_	_	_
+
+# sent_id = IBA_13_M_209
+# text = # why people no go die ?//
+# text_en = Why wouldn’t people die?
+1	#	#	_	_	_	_	_	_	_
+2	why	why	_	_	ADV	_	_	_	_
+3	people	people	_	_	N	_	_	_	_
+4	no	no	_	_	PART	_	_	_	_
+5	go	go	_	_	V	_	_	_	_
+6	die	die	_	_	V	_	_	_	_
+7	?//	?//	_	_	_	_	_	_	_
+
+# sent_id = IBA_13_M_204
+# text = na wetin we dey buy >+ be dat ?//
+# text_en = Now, is that what are we buying?
+1	na	na	_	_	ADV	_	_	_	_
+2	wetin	wetin	_	_	PRO	_	_	_	_
+3	we	we	_	_	PRO	_	_	_	_
+4	dey	dey	_	_	V	_	_	_	_
+5	buy	buy	_	_	V	_	_	_	_
+6	>+	>+	_	_	_	_	_	_	_
+7	be	be	_	_	V	_	_	_	_
+8	dat	dat	_	_	PRO	_	_	_	_
+9	?//	?//	_	_	_	_	_	_	_
+
+# sent_id = IBA_13_M_211
+# text = and anoder thing be sey if perhaps sey { your tyre go low |c # you get blow out tire for # road as you dey travel } <+ # im get one thing wey you no suppose do < # na make you no press brake //
+# text_en = And another thing is that, if, perhaps your tire goes flat, or blows out, on the road as you are travelling, there is one thing you are not supposed to do, that is step on the brakes.
+1	and	and	_	_	CONJ	_	_	_	_
+2	anoder	anoder	_	_	DET	_	_	_	_
+3	thing	thing	_	_	N	_	_	_	_
+4	be	be	_	_	V	_	_	_	_
+5	sey	sey	_	_	CONJ	_	_	_	_
+6	if	if	_	_	CONJ	_	_	_	_
+7	perhaps	perhaps	_	_	ADV	_	_	_	_
+8	sey	sey	_	_	CONJ	_	_	_	_
+9	{	{	_	_	_	_	_	_	_
+10	your	your	_	_	PRO	_	_	_	_
+11	tyre	tyre	_	_	N	_	_	_	_
+12	go	go	_	_	V	_	_	_	_
+13	low	low	_	_	ADJ	_	_	_	_
+14	|c	|c	_	_	_	_	_	_	_
+15	#	#	_	_	_	_	_	_	_
+16	you	you	_	_	PRO	_	_	_	_
+17	get	get	_	_	V	_	_	_	_
+18	blow	blow	_	_	V	_	_	_	_
+19	out	out	_	_	ADV	_	_	_	_
+20	tire	tire	_	_	N	_	_	_	_
+21	for	for	_	_	ADP	_	_	_	_
+22	#	#	_	_	_	_	_	_	_
+23	road	road	_	_	N	_	_	_	_
+24	as	as	_	_	CONJ	_	_	_	_
+25	you	you	_	_	PRO	_	_	_	_
+26	dey	dey	_	_	V	_	_	_	_
+27	travel	travel	_	_	V	_	_	_	_
+28	}	}	_	_	_	_	_	_	_
+29	<+	<+	_	_	_	_	_	_	_
+30	#	#	_	_	_	_	_	_	_
+31	im	im	_	_	PRO	_	_	_	_
+32	get	get	_	_	V	_	_	_	_
+33	one	one	_	_	NUM	_	_	_	_
+34	thing	thing	_	_	N	_	_	_	_
+35	wey	wey	_	_	CONJ	_	_	_	_
+36	you	you	_	_	PRO	_	_	_	_
+37	no	no	_	_	PART	_	_	_	_
+38	suppose	suppose	_	_	V	_	_	_	_
+39	do	do	_	_	V	_	_	_	_
+40	<	<	_	_	_	_	_	_	_
+41	#	#	_	_	_	_	_	_	_
+42	na	na	_	_	PART	_	_	_	_
+43	make	make	_	_	V	_	_	_	_
+44	you	you	_	_	PRO	_	_	_	_
+45	no	no	_	_	PART	_	_	_	_
+46	press	press	_	_	V	_	_	_	_
+47	brake	brake	_	_	N	_	_	_	_
+48	//	//	_	_	_	_	_	_	_
+
+# sent_id = IBA_07_D_178
+# speaker = 1
+# text = # dat one wey you dey dream < na dream //
+# text_en = What you are dreaming is just a dream.
+1	#	#	_	_	_	_	_	_	_
+2	dat	dat	_	_	DET	_	_	_	_
+3	one	one	_	_	PRO	_	_	_	_
+4	wey	wey	_	_	CONJ	_	_	_	_
+5	you	you	_	_	PRO	_	_	_	_
+6	dey	dey	_	_	V	_	_	_	_
+7	dream	dream	_	_	V	_	_	_	_
+8	<	<	_	_	_	_	_	_	_
+9	na	na	_	_	PART	_	_	_	_
+10	dream	dream	_	_	N	_	_	_	_
+11	//	//	_	_	_	_	_	_	_
+
+# sent_id = IBA_13_M_225
+# text = because na di tyre >+ dey carry { di load | di weight of di vehicle } //
+# text_en = Because it’s the tires that carry the load, the weight of the vehicle.
+1	because	because	_	_	CONJ	_	_	_	_
+2	na	na	_	_	PART	_	_	_	_
+3	di	di	_	_	DET	_	_	_	_
+4	tyre	tyre	_	_	N	_	_	_	_
+5	>+	>+	_	_	_	_	_	_	_
+6	dey	dey	_	_	V	_	_	_	_
+7	carry	carry	_	_	V	_	_	_	_
+8	{	{	_	_	_	_	_	_	_
+9	di	di	_	_	DET	_	_	_	_
+10	load	load	_	_	N	_	_	_	_
+11	|	|	_	_	_	_	_	_	_
+12	di	di	_	_	DET	_	_	_	_
+13	weight	weight	_	_	N	_	_	_	_
+14	of	of	_	_	ADP	_	_	_	_
+15	di	di	_	_	DET	_	_	_	_
+16	vehicle	vehicle	_	_	N	_	_	_	_
+17	}	}	_	_	_	_	_	_	_
+18	//	//	_	_	_	_	_	_	_
+
+# sent_id = IBA_13_M_97
+# text = wey be sey you go comot for where you go flex //= you just know sey [ you drive | you reach house ] | but you no remember # how you take reach house //
+# text_en = That is to say you left where you went to have a good time, you just know that you drove and got home, but you can't remember how you got home.
+1	wey	wey	_	_	CONJ	_	_	_	_
+2	be	be	_	_	V	_	_	_	_
+3	sey	sey	_	_	CONJ	_	_	_	_
+4	you	you	_	_	PRO	_	_	_	_
+5	go	go	_	_	V	_	_	_	_
+6	comot	comot	_	_	V	_	_	_	_
+7	for	for	_	_	ADP	_	_	_	_
+8	where	where	_	_	ADV	_	_	_	_
+9	you	you	_	_	PRO	_	_	_	_
+10	go	go	_	_	V	_	_	_	_
+11	flex	flex	_	_	V	_	_	_	_
+12	//=	//=	_	_	_	_	_	_	_
+13	you	you	_	_	PRO	_	_	_	_
+14	just	just	_	_	ADV	_	_	_	_
+15	know	know	_	_	V	_	_	_	_
+16	sey	sey	_	_	CONJ	_	_	_	_
+17	[	[	_	_	_	_	_	_	_
+18	you	you	_	_	PRO	_	_	_	_
+19	drive	drive	_	_	V	_	_	_	_
+20	|	|	_	_	_	_	_	_	_
+21	you	you	_	_	PRO	_	_	_	_
+22	reach	reach	_	_	V	_	_	_	_
+23	house	house	_	_	N	_	_	_	_
+24	]	]	_	_	_	_	_	_	_
+25	|	|	_	_	_	_	_	_	_
+26	but	but	_	_	CONJ	_	_	_	_
+27	you	you	_	_	PRO	_	_	_	_
+28	no	no	_	_	PART	_	_	_	_
+29	remember	remember	_	_	V	_	_	_	_
+30	#	#	_	_	_	_	_	_	_
+31	how	how	_	_	ADV	_	_	_	_
+32	you	you	_	_	PRO	_	_	_	_
+33	take	take	_	_	V	_	_	_	_
+34	reach	reach	_	_	V	_	_	_	_
+35	house	house	_	_	N	_	_	_	_
+36	//	//	_	_	_	_	_	_	_
+
+# sent_id = IBA_07_D_226
+# speaker = 1
+# text = # ah !//
+# text_en = Ah!
+1	#	#	_	_	_	_	_	_	_
+2	ah	ah	_	_	INTJ	_	_	_	_
+3	!//	!//	_	_	_	_	_	_	_
+
+# sent_id = DEU_A01_M_6
+# text = # make God send down di rain //
+# text_en = Let God send down the rain
+1	#	#	_	_	_	_	_	_	_
+2	make	make	_	_	V	_	_	_	_
+3	God	God	_	_	PROPN	_	_	_	_
+4	send	send	_	_	V	_	_	_	_
+5	down	down	_	_	ADP	_	_	_	_
+6	di	di	_	_	DET	_	_	_	_
+7	rain	rain	_	_	N	_	_	_	_
+8	//	//	_	_	_	_	_	_	_
+
+# sent_id = IBA_07_D_303
+# speaker = 2
+# text = so na Mamaput //
+# text_en = So, “mamaput” it is!
+1	so	so	_	_	ADV	_	_	_	_
+2	na	na	_	_	PART	_	_	_	_
+3	Mamaput	Mamaput	_	_	N	_	_	_	_
+4	//	//	_	_	_	_	_	_	_
+
+# sent_id = DEU_C01_D_29
+# speaker = 1
+# text = how you see di man //
+# text_en = How do you see this man?
+1	how	how	_	_	ADV	_	_	_	_
+2	you	you	_	_	PRO	_	_	_	_
+3	see	see	_	_	V	_	_	_	_
+4	di	di	_	_	DET	_	_	_	_
+5	man	man	_	_	N	_	_	_	_
+6	//	//	_	_	_	_	_	_	_
+
+# sent_id = IBA_07_D_283
+# speaker = 1
+# text = # na only place wey dey >+ be dat now //
+# text_en = That is the only place available now.
+1	#	#	_	_	_	_	_	_	_
+2	na	na	_	_	PART	_	_	_	_
+3	only	only	_	_	ADJ	_	_	_	_
+4	place	place	_	_	N	_	_	_	_
+5	wey	wey	_	_	CONJ	_	_	_	_
+6	dey	dey	_	_	V	_	_	_	_
+7	>+	>+	_	_	_	_	_	_	_
+8	be	be	_	_	PART	_	_	_	_
+9	dat	dat	_	_	PRO	_	_	_	_
+10	now	now	_	_	ADV	_	_	_	_
+11	//	//	_	_	_	_	_	_	_
+
+# sent_id = IBA_07_D_168
+# speaker = 2
+# text = God don show me sey [ na dat person >+ I go marry ] //
+# text_en = But the thing is that I, myself I have,
+1	God	God	_	_	PROPN	_	_	_	_
+2	don	don	_	_	V	_	_	_	_
+3	show	show	_	_	V	_	_	_	_
+4	me	me	_	_	PRO	_	_	_	_
+5	sey	sey	_	_	CONJ	_	_	_	_
+6	[	[	_	_	_	_	_	_	_
+7	na	na	_	_	PART	_	_	_	_
+8	dat	dat	_	_	DET	_	_	_	_
+9	person	person	_	_	N	_	_	_	_
+10	>+	>+	_	_	_	_	_	_	_
+11	I	I	_	_	PRO	_	_	_	_
+12	go	go	_	_	V	_	_	_	_
+13	marry	marry	_	_	V	_	_	_	_
+14	]	]	_	_	_	_	_	_	_
+15	//	//	_	_	_	_	_	_	_
+
+# sent_id = IBA_07_D_299
+# speaker = 1
+# text = # see your teeth !//= see your eye ah !//= see di kind hair now ah ah !//= # see di sexy eye mstchew !//
+# text_en = See your teeth, see your eyes, ah! See the kind hair now ah! See the sexy eyes! Come on!
+1	#	#	_	_	_	_	_	_	_
+2	see	see	_	_	V	_	_	_	_
+3	your	your	_	_	PRO	_	_	_	_
+4	teeth	teeth	_	_	N	_	_	_	_
+5	!//=	!//=	_	_	_	_	_	_	_
+6	see	see	_	_	V	_	_	_	_
+7	your	your	_	_	PRO	_	_	_	_
+8	eye	eye	_	_	N	_	_	_	_
+9	ah	ah	_	_	INTJ	_	_	_	_
+10	!//=	!//=	_	_	_	_	_	_	_
+11	see	see	_	_	V	_	_	_	_
+12	di	di	_	_	DET	_	_	_	_
+13	kind	kind	_	_	N	_	_	_	_
+14	hair	hair	_	_	N	_	_	_	_
+15	now	now	_	_	ADV	_	_	_	_
+16	ah	ah	_	_	INTJ	_	_	_	_
+17	ah	ah	_	_	INTJ	_	_	_	_
+18	!//=	!//=	_	_	_	_	_	_	_
+19	#	#	_	_	_	_	_	_	_
+20	see	see	_	_	V	_	_	_	_
+21	di	di	_	_	DET	_	_	_	_
+22	sexy	sexy	_	_	ADJ	_	_	_	_
+23	eye	eye	_	_	N	_	_	_	_
+24	mstchew	mstchew	_	_	INTJ	_	_	_	_
+25	!//	!//	_	_	_	_	_	_	_
+
+# sent_id = IBA_07_D_293
+# speaker = 1
+# text = I love you now ah ah //
+# text_en = I love you now!
+1	I	I	_	_	PRO	_	_	_	_
+2	love	love	_	_	V	_	_	_	_
+3	you	you	_	_	PRO	_	_	_	_
+4	now	now	_	_	ADV	_	_	_	_
+5	ah	ah	_	_	INTJ	_	_	_	_
+6	ah	ah	_	_	INTJ	_	_	_	_
+7	//	//	_	_	_	_	_	_	_
+
+# sent_id = DEU_C01_D_96
+# speaker = 2
+# text = wheder dis deir kini & //
+# text_en = Whether it’s their kini...
+1	wheder	wheder	_	_	CONJ	_	_	_	_
+2	dis	dis	_	_	DET	_	_	_	_
+3	deir	deir	_	_	PRO	_	_	_	_
+4	kini	kini	_	_	N	_	_	_	_
+5	&	&	_	_	_	_	_	_	_
+6	//	//	_	_	_	_	_	_	_
+
+# sent_id = DEU_A01_M_72
+# text = # sotay # when di tory of how our { road |c and bridge } dem fine { reach cross border | enter country dem like { Ghana | Togo | Benin Republic | # and oder country dem wey near us } } <+ # come see as dem people dey rush come our country # to come take deir eye see dat Africa wonder # wey everybody dey talk about //
+# text_en = To the extent that when the story of how fine our roads and bridges were, crossed the borders and reached our neighbours like Ghana, Togo, Benin Republic and others that are very close, imagine how people would be rushing to our country to see the African wonder that people talked about.
+1	#	#	_	_	_	_	_	_	_
+2	sotay	sotay	_	_	CONJ	_	_	_	_
+3	#	#	_	_	_	_	_	_	_
+4	when	when	_	_	ADV	_	_	_	_
+5	di	di	_	_	DET	_	_	_	_
+6	tory	tory	_	_	N	_	_	_	_
+7	of	of	_	_	ADP	_	_	_	_
+8	how	how	_	_	ADV	_	_	_	_
+9	our	our	_	_	PRO	_	_	_	_
+10	{	{	_	_	_	_	_	_	_
+11	road	road	_	_	N	_	_	_	_
+12	|c	|c	_	_	_	_	_	_	_
+13	and	and	_	_	CONJ	_	_	_	_
+14	bridge	bridge	_	_	N	_	_	_	_
+15	}	}	_	_	_	_	_	_	_
+16	dem	dem	_	_	PART	_	_	_	_
+17	fine	fine	_	_	ADJ	_	_	_	_
+18	{	{	_	_	_	_	_	_	_
+19	reach	reach	_	_	V	_	_	_	_
+20	cross	cross	_	_	V	_	_	_	_
+21	border	border	_	_	N	_	_	_	_
+22	|	|	_	_	_	_	_	_	_
+23	enter	enter	_	_	V	_	_	_	_
+24	country	country	_	_	N	_	_	_	_
+25	dem	dem	_	_	PART	_	_	_	_
+26	like	like	_	_	ADP	_	_	_	_
+27	{	{	_	_	_	_	_	_	_
+28	Ghana	Ghana	_	_	PROPN	_	_	_	_
+29	|	|	_	_	_	_	_	_	_
+30	Togo	Togo	_	_	PROPN	_	_	_	_
+31	|	|	_	_	_	_	_	_	_
+32	Benin	Benin	_	_	PROPN	_	_	_	_
+33	Republic	Republic	_	_	PROPN	_	_	_	_
+34	|	|	_	_	_	_	_	_	_
+35	#	#	_	_	_	_	_	_	_
+36	and	and	_	_	CONJ	_	_	_	_
+37	oder	oder	_	_	ADJ	_	_	_	_
+38	country	country	_	_	N	_	_	_	_
+39	dem	dem	_	_	PART	_	_	_	_
+40	wey	wey	_	_	CONJ	_	_	_	_
+41	near	near	_	_	ADP	_	_	_	_
+42	us	us	_	_	PRO	_	_	_	_
+43	}	}	_	_	_	_	_	_	_
+44	}	}	_	_	_	_	_	_	_
+45	<+	<+	_	_	_	_	_	_	_
+46	#	#	_	_	_	_	_	_	_
+47	come	come	_	_	V	_	_	_	_
+48	see	see	_	_	V	_	_	_	_
+49	as	as	_	_	CONJ	_	_	_	_
+50	dem	dem	_	_	PRO	_	_	_	_
+51	people	people	_	_	N	_	_	_	_
+52	dey	dey	_	_	V	_	_	_	_
+53	rush	rush	_	_	V	_	_	_	_
+54	come	come	_	_	V	_	_	_	_
+55	our	our	_	_	PRO	_	_	_	_
+56	country	country	_	_	N	_	_	_	_
+57	#	#	_	_	_	_	_	_	_
+58	to	to	_	_	PART	_	_	_	_
+59	come	come	_	_	V	_	_	_	_
+60	take	take	_	_	V	_	_	_	_
+61	deir	deir	_	_	PRO	_	_	_	_
+62	eye	eye	_	_	N	_	_	_	_
+63	see	see	_	_	V	_	_	_	_
+64	dat	dat	_	_	DET	_	_	_	_
+65	Africa	Africa	_	_	PROPN	_	_	_	_
+66	wonder	wonder	_	_	N	_	_	_	_
+67	#	#	_	_	_	_	_	_	_
+68	wey	wey	_	_	CONJ	_	_	_	_
+69	everybody	everybody	_	_	N	_	_	_	_
+70	dey	dey	_	_	V	_	_	_	_
+71	talk	talk	_	_	V	_	_	_	_
+72	about	about	_	_	ADP	_	_	_	_
+73	//	//	_	_	_	_	_	_	_
+
+# sent_id = IBA_07_D_263
+# speaker = 1
+# text = # { im be like sey || # im be like sey } [ Tedder neva come || Tedder neva come ] //
+# text_en = It seems like Tedder hasn't come, Tedder hasn't come.
+1	#	#	_	_	_	_	_	_	_
+2	{	{	_	_	_	_	_	_	_
+3	im	im	_	_	PRO	_	_	_	_
+4	be	be	_	_	V	_	_	_	_
+5	like	like	_	_	ADP	_	_	_	_
+6	sey	sey	_	_	CONJ	_	_	_	_
+7	||	||	_	_	_	_	_	_	_
+8	#	#	_	_	_	_	_	_	_
+9	im	im	_	_	PRO	_	_	_	_
+10	be	be	_	_	V	_	_	_	_
+11	like	like	_	_	ADP	_	_	_	_
+12	sey	sey	_	_	CONJ	_	_	_	_
+13	}	}	_	_	_	_	_	_	_
+14	[	[	_	_	_	_	_	_	_
+15	Tedder	Tedder	_	_	PROPN	_	_	_	_
+16	neva	neva	_	_	V	_	_	_	_
+17	come	come	_	_	V	_	_	_	_
+18	||	||	_	_	_	_	_	_	_
+19	Tedder	Tedder	_	_	PROPN	_	_	_	_
+20	neva	neva	_	_	V	_	_	_	_
+21	come	come	_	_	V	_	_	_	_
+22	]	]	_	_	_	_	_	_	_
+23	//	//	_	_	_	_	_	_	_
+
+# sent_id = IBA_07_D_26
+# speaker = 1
+# text = # ehen > Shully ?//
+# text_en = Eh, Shully?
+1	#	#	_	_	_	_	_	_	_
+2	ehen	ehen	_	_	INTJ	_	_	_	_
+3	>	>	_	_	_	_	_	_	_
+4	Shully	Shully	_	_	PROPN	_	_	_	_
+5	?//	?//	_	_	_	_	_	_	_
+
+# sent_id = IBA_13_M_2
+# text = em na we |a FRSC < as una know < # our work na to ensure sey # [ accident no too happen for road ] //
+# text_en = Er, we, the FRSC, as you all know, our work is to ensure that accidents do not happen too often on the road.
+1	em	em	_	_	INTJ	_	_	_	_
+2	na	na	_	_	ADV	_	_	_	_
+3	we	we	_	_	PRO	_	_	_	_
+4	|a	|a	_	_	_	_	_	_	_
+5	FRSC	FRSC	_	_	PROPN	_	_	_	_
+6	<	<	_	_	_	_	_	_	_
+7	as	as	_	_	CONJ	_	_	_	_
+8	una	una	_	_	PRO	_	_	_	_
+9	know	know	_	_	V	_	_	_	_
+10	<	<	_	_	_	_	_	_	_
+11	#	#	_	_	_	_	_	_	_
+12	our	our	_	_	PRO	_	_	_	_
+13	work	work	_	_	N	_	_	_	_
+14	na	na	_	_	PART	_	_	_	_
+15	to	to	_	_	PART	_	_	_	_
+16	ensure	ensure	_	_	V	_	_	_	_
+17	sey	sey	_	_	CONJ	_	_	_	_
+18	#	#	_	_	_	_	_	_	_
+19	[	[	_	_	_	_	_	_	_
+20	accident	accident	_	_	N	_	_	_	_
+21	no	no	_	_	PART	_	_	_	_
+22	too	too	_	_	ADV	_	_	_	_
+23	happen	happen	_	_	V	_	_	_	_
+24	for	for	_	_	ADP	_	_	_	_
+25	road	road	_	_	N	_	_	_	_
+26	]	]	_	_	_	_	_	_	_
+27	//	//	_	_	_	_	_	_	_
+
+# sent_id = DEU_A01_M_54
+# text = # dis plan work well well # when e first begin //
+# text_en = This plan was very successful in the beginning.
+1	#	#	_	_	_	_	_	_	_
+2	dis	dis	_	_	DET	_	_	_	_
+3	plan	plan	_	_	N	_	_	_	_
+4	work	work	_	_	V	_	_	_	_
+5	well	well	_	_	ADV	_	_	_	_
+6	well	well	_	_	ADV	_	_	_	_
+7	#	#	_	_	_	_	_	_	_
+8	when	when	_	_	ADV	_	_	_	_
+9	e	e	_	_	PRO	_	_	_	_
+10	first	first	_	_	ADV	_	_	_	_
+11	begin	begin	_	_	V	_	_	_	_
+12	//	//	_	_	_	_	_	_	_
+
+# sent_id = IBA_07_D_51
+# speaker = 1
+# text = # so all dose girl wey you dey see < na tutorial //
+# text_en = So, all the girls you have been seeing, it was tutorials.
+1	#	#	_	_	_	_	_	_	_
+2	so	so	_	_	ADV	_	_	_	_
+3	all	all	_	_	DET	_	_	_	_
+4	dose	dose	_	_	DET	_	_	_	_
+5	girl	girl	_	_	N	_	_	_	_
+6	wey	wey	_	_	CONJ	_	_	_	_
+7	you	you	_	_	PRO	_	_	_	_
+8	dey	dey	_	_	V	_	_	_	_
+9	see	see	_	_	V	_	_	_	_
+10	<	<	_	_	_	_	_	_	_
+11	na	na	_	_	PART	_	_	_	_
+12	tutorial	tutorial	_	_	N	_	_	_	_
+13	//	//	_	_	_	_	_	_	_
+
+# sent_id = IBA_13_M_81
+# text = and when we say drink < no be drink of { wata | or sprite | or pepsi } //
+# text_en = And when we say drink, we are not talking about water, or Sprite or Pepsi.
+1	and	and	_	_	CONJ	_	_	_	_
+2	when	when	_	_	ADV	_	_	_	_
+3	we	we	_	_	PRO	_	_	_	_
+4	say	say	_	_	V	_	_	_	_
+5	drink	drink	_	_	V	_	_	_	_
+6	<	<	_	_	_	_	_	_	_
+7	no	no	_	_	PART	_	_	_	_
+8	be	be	_	_	V	_	_	_	_
+9	drink	drink	_	_	N	_	_	_	_
+10	of	of	_	_	ADP	_	_	_	_
+11	{	{	_	_	_	_	_	_	_
+12	wata	wata	_	_	N	_	_	_	_
+13	|	|	_	_	_	_	_	_	_
+14	or	or	_	_	CONJ	_	_	_	_
+15	sprite	sprite	_	_	N	_	_	_	_
+16	|	|	_	_	_	_	_	_	_
+17	or	or	_	_	CONJ	_	_	_	_
+18	pepsi	pepsi	_	_	N	_	_	_	_
+19	}	}	_	_	_	_	_	_	_
+20	//	//	_	_	_	_	_	_	_
+
+# sent_id = DEU_C01_D_174
+# speaker = 1
+# text = money dey dis country //
+# text_en = There is money in this country.
+1	money	money	_	_	N	_	_	_	_
+2	dey	dey	_	_	V	_	_	_	_
+3	dis	dis	_	_	DET	_	_	_	_
+4	country	country	_	_	N	_	_	_	_
+5	//	//	_	_	_	_	_	_	_
+
+# sent_id = IBA_13_M_32
+# text = # em na distraction >+ naim oyibo man go call am //
+# text_en = It is distraction White People will call it.
+1	#	#	_	_	_	_	_	_	_
+2	em	em	_	_	INTJ	_	_	_	_
+3	na	na	_	_	PART	_	_	_	_
+4	distraction	distraction	_	_	N	_	_	_	_
+5	>+	>+	_	_	_	_	_	_	_
+6	naim	naim	_	_	PART	_	_	_	_
+7	oyibo	oyibo	_	_	N	_	_	_	_
+8	man	man	_	_	N	_	_	_	_
+9	go	go	_	_	V	_	_	_	_
+10	call	call	_	_	V	_	_	_	_
+11	am	am	_	_	PRO	_	_	_	_
+12	//	//	_	_	_	_	_	_	_
+
+# sent_id = DEU_C01_D_51
+# speaker = 1
+# text = if you hear sey [ im don start im business ] < you fit come meet am say [ ah which you dey o // ] //
+# text_en = If you hear that he has started his business, you can go and see him and say hello.
+1	if	if	_	_	CONJ	_	_	_	_
+2	you	you	_	_	PRO	_	_	_	_
+3	hear	hear	_	_	V	_	_	_	_
+4	sey	sey	_	_	CONJ	_	_	_	_
+5	[	[	_	_	_	_	_	_	_
+6	im	im	_	_	PRO	_	_	_	_
+7	don	don	_	_	V	_	_	_	_
+8	start	start	_	_	V	_	_	_	_
+9	im	im	_	_	PRO	_	_	_	_
+10	business	business	_	_	N	_	_	_	_
+11	]	]	_	_	_	_	_	_	_
+12	<	<	_	_	_	_	_	_	_
+13	you	you	_	_	PRO	_	_	_	_
+14	fit	fit	_	_	V	_	_	_	_
+15	come	come	_	_	V	_	_	_	_
+16	meet	meet	_	_	V	_	_	_	_
+17	am	am	_	_	PRO	_	_	_	_
+18	say	say	_	_	V	_	_	_	_
+19	[	[	_	_	_	_	_	_	_
+20	ah	ah	_	_	INTJ	_	_	_	_
+21	which	which	_	_	PRO	_	_	_	_
+22	you	you	_	_	PRO	_	_	_	_
+23	dey	dey	_	_	V	_	_	_	_
+24	o	o	_	_	PART	_	_	_	_
+25	//	//	_	_	_	_	_	_	_
+26	]	]	_	_	_	_	_	_	_
+27	//	//	_	_	_	_	_	_	_
+
+# sent_id = DEU_A01_M_56
+# text = # and even sef < di motor sef no come reach //
+# text_en = And also, the vehicles are not sufficient.
+1	#	#	_	_	_	_	_	_	_
+2	and	and	_	_	CONJ	_	_	_	_
+3	even	even	_	_	ADV	_	_	_	_
+4	sef	sef	_	_	PART	_	_	_	_
+5	<	<	_	_	_	_	_	_	_
+6	di	di	_	_	DET	_	_	_	_
+7	motor	motor	_	_	N	_	_	_	_
+8	sef	sef	_	_	PART	_	_	_	_
+9	no	no	_	_	PART	_	_	_	_
+10	come	come	_	_	V	_	_	_	_
+11	reach	reach	_	_	V	_	_	_	_
+12	//	//	_	_	_	_	_	_	_
+
+# sent_id = IBA_07_D_108
+# speaker = 1
+# text = you know sey [ I love you now ] //
+# text_en = You know that I love you now.
+1	you	you	_	_	PRO	_	_	_	_
+2	know	know	_	_	V	_	_	_	_
+3	sey	sey	_	_	CONJ	_	_	_	_
+4	[	[	_	_	_	_	_	_	_
+5	I	I	_	_	PRO	_	_	_	_
+6	love	love	_	_	V	_	_	_	_
+7	you	you	_	_	PRO	_	_	_	_
+8	now	now	_	_	ADV	_	_	_	_
+9	]	]	_	_	_	_	_	_	_
+10	//	//	_	_	_	_	_	_	_
+
+# sent_id = IBA_07_D_82
+# speaker = 1
+# text = serious now < I don tell am your name now //
+# text_en = Serious now, I have told her your name now.
+1	serious	serious	_	_	ADV	_	_	_	_
+2	now	now	_	_	ADV	_	_	_	_
+3	<	<	_	_	_	_	_	_	_
+4	I	I	_	_	PRO	_	_	_	_
+5	don	don	_	_	V	_	_	_	_
+6	tell	tell	_	_	V	_	_	_	_
+7	am	am	_	_	PRO	_	_	_	_
+8	your	your	_	_	PRO	_	_	_	_
+9	name	name	_	_	N	_	_	_	_
+10	now	now	_	_	ADV	_	_	_	_
+11	//	//	_	_	_	_	_	_	_
+
+# sent_id = IBA_07_D_287
+# speaker = 2
+# text = # I go chop am like dat //
+# text_en = I will eat it like that.
+1	#	#	_	_	_	_	_	_	_
+2	I	I	_	_	PRO	_	_	_	_
+3	go	go	_	_	V	_	_	_	_
+4	chop	chop	_	_	V	_	_	_	_
+5	am	am	_	_	PRO	_	_	_	_
+6	like	like	_	_	ADP	_	_	_	_
+7	dat	dat	_	_	PRO	_	_	_	_
+8	//	//	_	_	_	_	_	_	_
+
+# sent_id = IBA_07_D_175
+# speaker = 2
+# text = # so dat one ( no argument at all ) na im >+ I go marry //
+# text_en = So, like this, there is no argument at all, “ He is the one I am getting married to.”
+1	#	#	_	_	_	_	_	_	_
+2	so	so	_	_	ADV	_	_	_	_
+3	dat	dat	_	_	DET	_	_	_	_
+4	one	one	_	_	PRO	_	_	_	_
+5	(	(	_	_	_	_	_	_	_
+6	no	no	_	_	PART	_	_	_	_
+7	argument	argument	_	_	N	_	_	_	_
+8	at	at	_	_	ADP	_	_	_	_
+9	all	all	_	_	ADV	_	_	_	_
+10	)	)	_	_	_	_	_	_	_
+11	na	na	_	_	PART	_	_	_	_
+12	im	im	_	_	PRO	_	_	_	_
+13	>+	>+	_	_	_	_	_	_	_
+14	I	I	_	_	PRO	_	_	_	_
+15	go	go	_	_	V	_	_	_	_
+16	marry	marry	_	_	V	_	_	_	_
+17	//	//	_	_	_	_	_	_	_
+
+# sent_id = DEU_A01_M_8
+# text = sotay # for oder area dem sef # wey sun too dey catch < e dey kill people too much //
+# text_en = In some places where it shines very harshly, it leads to many people's death
+1	sotay	sotay	_	_	CONJ	_	_	_	_
+2	#	#	_	_	_	_	_	_	_
+3	for	for	_	_	ADP	_	_	_	_
+4	oder	oder	_	_	ADJ	_	_	_	_
+5	area	area	_	_	N	_	_	_	_
+6	dem	dem	_	_	PART	_	_	_	_
+7	sef	sef	_	_	PART	_	_	_	_
+8	#	#	_	_	_	_	_	_	_
+9	wey	wey	_	_	CONJ	_	_	_	_
+10	sun	sun	_	_	N	_	_	_	_
+11	too	too	_	_	ADV	_	_	_	_
+12	dey	dey	_	_	V	_	_	_	_
+13	catch	catch	_	_	V	_	_	_	_
+14	<	<	_	_	_	_	_	_	_
+15	e	e	_	_	PRO	_	_	_	_
+16	dey	dey	_	_	V	_	_	_	_
+17	kill	kill	_	_	V	_	_	_	_
+18	people	people	_	_	N	_	_	_	_
+19	too	too	_	_	ADV	_	_	_	_
+20	much	much	_	_	ADV	_	_	_	_
+21	//	//	_	_	_	_	_	_	_
+
+# sent_id = IBA_13_M_150
+# text = as tire burst <+ you know wetin go dey happen ?//
+# text_en = As the tire burst, do you know what happened?
+1	as	as	_	_	CONJ	_	_	_	_
+2	tire	tire	_	_	N	_	_	_	_
+3	burst	burst	_	_	V	_	_	_	_
+4	<+	<+	_	_	_	_	_	_	_
+5	you	you	_	_	PRO	_	_	_	_
+6	know	know	_	_	V	_	_	_	_
+7	wetin	wetin	_	_	PRO	_	_	_	_
+8	go	go	_	_	V	_	_	_	_
+9	dey	dey	_	_	V	_	_	_	_
+10	happen	happen	_	_	V	_	_	_	_
+11	?//	?//	_	_	_	_	_	_	_
+
+# sent_id = IBA_07_D_244
+# speaker = 1
+# text = # pure love < make we follow pure love first //
+# text_en = Pure love, let us share pure love first.
+1	#	#	_	_	_	_	_	_	_
+2	pure	pure	_	_	ADJ	_	_	_	_
+3	love	love	_	_	N	_	_	_	_
+4	<	<	_	_	_	_	_	_	_
+5	make	make	_	_	V	_	_	_	_
+6	we	we	_	_	PRO	_	_	_	_
+7	follow	follow	_	_	V	_	_	_	_
+8	pure	pure	_	_	ADJ	_	_	_	_
+9	love	love	_	_	N	_	_	_	_
+10	first	first	_	_	ADV	_	_	_	_
+11	//	//	_	_	_	_	_	_	_
+
+# sent_id = IBA_07_D_200
+# speaker = 1
+# text = im be like sey I go &//
+# text_en = It seems like, I will...
+1	im	im	_	_	PRO	_	_	_	_
+2	be	be	_	_	V	_	_	_	_
+3	like	like	_	_	ADP	_	_	_	_
+4	sey	sey	_	_	CONJ	_	_	_	_
+5	I	I	_	_	PRO	_	_	_	_
+6	go	go	_	_	V	_	_	_	_
+7	&//	&//	_	_	_	_	_	_	_
+
+# sent_id = DEU_C01_D_150
+# speaker = 1
+# text = na so-so gari >+ we just dey soak for house //
+# text_en = It is only gari we prepare in our house.
+1	na	na	_	_	PART	_	_	_	_
+2	so-so	so-so	_	_	ADJ	_	_	_	_
+3	gari	gari	_	_	N	_	_	_	_
+4	>+	>+	_	_	_	_	_	_	_
+5	we	we	_	_	PRO	_	_	_	_
+6	just	just	_	_	ADV	_	_	_	_
+7	dey	dey	_	_	V	_	_	_	_
+8	soak	soak	_	_	V	_	_	_	_
+9	for	for	_	_	ADP	_	_	_	_
+10	house	house	_	_	N	_	_	_	_
+11	//	//	_	_	_	_	_	_	_
+
+# sent_id = IBA_07_D_157
+# speaker = 1
+# text = I come dey [ ah # which S >+ I come like for department o ?// ] //
+# text_en = I said “Ah! Which S do I like in my department?”
+1	I	I	_	_	PRO	_	_	_	_
+2	come	come	_	_	V	_	_	_	_
+3	dey	dey	_	_	V	_	_	_	_
+4	[	[	_	_	_	_	_	_	_
+5	ah	ah	_	_	INTJ	_	_	_	_
+6	#	#	_	_	_	_	_	_	_
+7	which	which	_	_	DET	_	_	_	_
+8	S	S	_	_	PROPN	_	_	_	_
+9	>+	>+	_	_	_	_	_	_	_
+10	I	I	_	_	PRO	_	_	_	_
+11	come	come	_	_	V	_	_	_	_
+12	like	like	_	_	V	_	_	_	_
+13	for	for	_	_	ADP	_	_	_	_
+14	department	department	_	_	N	_	_	_	_
+15	o	o	_	_	PART	_	_	_	_
+16	?//	?//	_	_	_	_	_	_	_
+17	]	]	_	_	_	_	_	_	_
+18	//	//	_	_	_	_	_	_	_
+
+# sent_id = IBA_13_M_237
+# text = because if im don drop <+ di person don go be dat //
+# text_en = Because if it drops, the person is gone like that.
+1	because	because	_	_	CONJ	_	_	_	_
+2	if	if	_	_	CONJ	_	_	_	_
+3	im	im	_	_	PRO	_	_	_	_
+4	don	don	_	_	V	_	_	_	_
+5	drop	drop	_	_	V	_	_	_	_
+6	<+	<+	_	_	_	_	_	_	_
+7	di	di	_	_	DET	_	_	_	_
+8	person	person	_	_	N	_	_	_	_
+9	don	don	_	_	V	_	_	_	_
+10	go	go	_	_	V	_	_	_	_
+11	be	be	_	_	V	_	_	_	_
+12	dat	dat	_	_	PRO	_	_	_	_
+13	//	//	_	_	_	_	_	_	_
+
+# sent_id = DEU_A01_M_87
+# text = # e good too make dem begin dey repair di road dem # wey pass on top di bridge now wey rain neva begin # so dat accident go stop small on top di bridge dem //
+# text_en = The roads that pass on the bridges should be soon repaired before the rains begin so that accidents will stop on the bridges.
+1	#	#	_	_	_	_	_	_	_
+2	e	e	_	_	PRO	_	_	_	_
+3	good	good	_	_	ADJ	_	_	_	_
+4	too	too	_	_	ADV	_	_	_	_
+5	make	make	_	_	V	_	_	_	_
+6	dem	dem	_	_	PRO	_	_	_	_
+7	begin	begin	_	_	V	_	_	_	_
+8	dey	dey	_	_	V	_	_	_	_
+9	repair	repair	_	_	V	_	_	_	_
+10	di	di	_	_	DET	_	_	_	_
+11	road	road	_	_	N	_	_	_	_
+12	dem	dem	_	_	PART	_	_	_	_
+13	#	#	_	_	_	_	_	_	_
+14	wey	wey	_	_	CONJ	_	_	_	_
+15	pass	pass	_	_	V	_	_	_	_
+16	on	on	_	_	ADP	_	_	_	_
+17	top	top	_	_	N	_	_	_	_
+18	di	di	_	_	DET	_	_	_	_
+19	bridge	bridge	_	_	N	_	_	_	_
+20	now	now	_	_	ADV	_	_	_	_
+21	wey	wey	_	_	CONJ	_	_	_	_
+22	rain	rain	_	_	N	_	_	_	_
+23	neva	neva	_	_	V	_	_	_	_
+24	begin	begin	_	_	V	_	_	_	_
+25	#	#	_	_	_	_	_	_	_
+26	so	so	_	_	CONJ	_	_	_	_
+27	dat	dat	_	_	CONJ	_	_	_	_
+28	accident	accident	_	_	N	_	_	_	_
+29	go	go	_	_	V	_	_	_	_
+30	stop	stop	_	_	V	_	_	_	_
+31	small	small	_	_	ADJ	_	_	_	_
+32	on	on	_	_	ADP	_	_	_	_
+33	top	top	_	_	N	_	_	_	_
+34	di	di	_	_	DET	_	_	_	_
+35	bridge	bridge	_	_	N	_	_	_	_
+36	dem	dem	_	_	PART	_	_	_	_
+37	//	//	_	_	_	_	_	_	_
+
+# sent_id = IBA_07_D_317
+# speaker = 2
+# text = make we just { take icecream | take shawarma } //
+# text_en = Let us just get some ice-cream, a sharwarma.
+1	make	make	_	_	V	_	_	_	_
+2	we	we	_	_	PRO	_	_	_	_
+3	just	just	_	_	ADV	_	_	_	_
+4	{	{	_	_	_	_	_	_	_
+5	take	take	_	_	V	_	_	_	_
+6	icecream	icecream	_	_	N	_	_	_	_
+7	|	|	_	_	_	_	_	_	_
+8	take	take	_	_	V	_	_	_	_
+9	shawarma	shawarma	_	_	N	_	_	_	_
+10	}	}	_	_	_	_	_	_	_
+11	//	//	_	_	_	_	_	_	_
+
+# sent_id = IBA_07_D_15
+# speaker = 2
+# text = I no dey interested at all //
+# text_en = I am not interested at all.
+1	I	I	_	_	PRO	_	_	_	_
+2	no	no	_	_	PART	_	_	_	_
+3	dey	dey	_	_	V	_	_	_	_
+4	interested	interested	_	_	ADJ	_	_	_	_
+5	at	at	_	_	ADP	_	_	_	_
+6	all	all	_	_	ADV	_	_	_	_
+7	//	//	_	_	_	_	_	_	_
+
+# sent_id = IBA_07_D_267
+# speaker = 1
+# text = # where you come dey <+ dey chop !//
+# text_en = Where do you eat now?
+1	#	#	_	_	_	_	_	_	_
+2	where	where	_	_	ADV	_	_	_	_
+3	you	you	_	_	PRO	_	_	_	_
+4	come	come	_	_	V	_	_	_	_
+5	dey	dey	_	_	V	_	_	_	_
+6	<+	<+	_	_	_	_	_	_	_
+7	dey	dey	_	_	V	_	_	_	_
+8	chop	chop	_	_	V	_	_	_	_
+9	!//	!//	_	_	_	_	_	_	_
+
+# sent_id = DEU_C01_D_105
+# speaker = 2
+# text = { dem want || dem want } just spoil Obasanjo government //
+# text_en = They want... they want to destroy Obasanjo's administration.
+1	{	{	_	_	_	_	_	_	_
+2	dem	dem	_	_	PRO	_	_	_	_
+3	want	want	_	_	V	_	_	_	_
+4	||	||	_	_	_	_	_	_	_
+5	dem	dem	_	_	PRO	_	_	_	_
+6	want	want	_	_	V	_	_	_	_
+7	}	}	_	_	_	_	_	_	_
+8	just	just	_	_	ADV	_	_	_	_
+9	spoil	spoil	_	_	V	_	_	_	_
+10	Obasanjo	Obasanjo	_	_	PROPN	_	_	_	_
+11	government	government	_	_	N	_	_	_	_
+12	//	//	_	_	_	_	_	_	_
+
+# sent_id = DEU_C01_D_54
+# speaker = 1
+# text = di thing just come dere now //
+# text_en = That’s what it has come to now!
+1	di	di	_	_	DET	_	_	_	_
+2	thing	thing	_	_	N	_	_	_	_
+3	just	just	_	_	ADV	_	_	_	_
+4	come	come	_	_	V	_	_	_	_
+5	dere	dere	_	_	ADV	_	_	_	_
+6	now	now	_	_	ADV	_	_	_	_
+7	//	//	_	_	_	_	_	_	_
+
+# sent_id = IBA_13_M_222
+# text = you go come park //
+# text_en = You will park.
+1	you	you	_	_	PRO	_	_	_	_
+2	go	go	_	_	V	_	_	_	_
+3	come	come	_	_	V	_	_	_	_
+4	park	park	_	_	V	_	_	_	_
+5	//	//	_	_	_	_	_	_	_
+
+# sent_id = IBA_07_D_155
+# speaker = 1
+# text = I come talk sey [ hey # ah pastor < which kind babe >+ you come dey follow me talk like dis ?// ] //
+# text_en = I said “Hey! Ah! Pastor, which kind of girl are you telling me about?”
+1	I	I	_	_	PRO	_	_	_	_
+2	come	come	_	_	V	_	_	_	_
+3	talk	talk	_	_	V	_	_	_	_
+4	sey	sey	_	_	CONJ	_	_	_	_
+5	[	[	_	_	_	_	_	_	_
+6	hey	hey	_	_	INTJ	_	_	_	_
+7	#	#	_	_	_	_	_	_	_
+8	ah	ah	_	_	INTJ	_	_	_	_
+9	pastor	pastor	_	_	N	_	_	_	_
+10	<	<	_	_	_	_	_	_	_
+11	which	which	_	_	DET	_	_	_	_
+12	kind	kind	_	_	N	_	_	_	_
+13	babe	babe	_	_	N	_	_	_	_
+14	>+	>+	_	_	_	_	_	_	_
+15	you	you	_	_	PRO	_	_	_	_
+16	come	come	_	_	V	_	_	_	_
+17	dey	dey	_	_	V	_	_	_	_
+18	follow	follow	_	_	V	_	_	_	_
+19	me	me	_	_	PRO	_	_	_	_
+20	talk	talk	_	_	V	_	_	_	_
+21	like	like	_	_	ADP	_	_	_	_
+22	dis	dis	_	_	PRO	_	_	_	_
+23	?//	?//	_	_	_	_	_	_	_
+24	]	]	_	_	_	_	_	_	_
+25	//	//	_	_	_	_	_	_	_
+
+# sent_id = IBA_07_D_145
+# speaker = 2
+# text = # of course now < { di guy get || im get } money plenty //
+# text_en = Of course now, the guy has, he is very rich.
+1	#	#	_	_	_	_	_	_	_
+2	of	of	_	_	ADP	_	_	_	_
+3	course	course	_	_	N	_	_	_	_
+4	now	now	_	_	ADV	_	_	_	_
+5	<	<	_	_	_	_	_	_	_
+6	{	{	_	_	_	_	_	_	_
+7	di	di	_	_	DET	_	_	_	_
+8	guy	guy	_	_	N	_	_	_	_
+9	get	get	_	_	V	_	_	_	_
+10	||	||	_	_	_	_	_	_	_
+11	im	im	_	_	PRO	_	_	_	_
+12	get	get	_	_	V	_	_	_	_
+13	}	}	_	_	_	_	_	_	_
+14	money	money	_	_	N	_	_	_	_
+15	plenty	plenty	_	_	ADV	_	_	_	_
+16	//	//	_	_	_	_	_	_	_
+
+# sent_id = IBA_07_D_43
+# speaker = 2
+# text = tutorial !//
+# text_en = Tutorial!
+1	tutorial	tutorial	_	_	N	_	_	_	_
+2	!//	!//	_	_	_	_	_	_	_
+
+# sent_id = IBA_07_D_240
+# speaker = 1
+# text = ah school fee < me sef neva see money pay school fee //
+# text_en = Ah, school fees, I haven’t paid my own school fees.
+1	ah	ah	_	_	INTJ	_	_	_	_
+2	school	school	_	_	N	_	_	_	_
+3	fee	fee	_	_	N	_	_	_	_
+4	<	<	_	_	_	_	_	_	_
+5	me	me	_	_	PRO	_	_	_	_
+6	sef	sef	_	_	PART	_	_	_	_
+7	neva	neva	_	_	V	_	_	_	_
+8	see	see	_	_	V	_	_	_	_
+9	money	money	_	_	N	_	_	_	_
+10	pay	pay	_	_	V	_	_	_	_
+11	school	school	_	_	N	_	_	_	_
+12	fee	fee	_	_	N	_	_	_	_
+13	//	//	_	_	_	_	_	_	_
+
+# sent_id = IBA_13_M_52
+# text = we see di man //
+# text_en = We saw the man.
+1	we	we	_	_	PRO	_	_	_	_
+2	see	see	_	_	V	_	_	_	_
+3	di	di	_	_	DET	_	_	_	_
+4	man	man	_	_	N	_	_	_	_
+5	//	//	_	_	_	_	_	_	_
+
+# sent_id = DEU_C01_D_1
+# speaker = 1
+# text = brado < how you see all dis NEPA sef //
+# text_en = Brado, how do you see all these NEPA?
+1	brado	brado	_	_	N	_	_	_	_
+2	<	<	_	_	_	_	_	_	_
+3	how	how	_	_	ADV	_	_	_	_
+4	you	you	_	_	PRO	_	_	_	_
+5	see	see	_	_	V	_	_	_	_
+6	all	all	_	_	ADV	_	_	_	_
+7	dis	dis	_	_	DET	_	_	_	_
+8	NEPA	NEPA	_	_	PROPN	_	_	_	_
+9	sef	sef	_	_	PART	_	_	_	_
+10	//	//	_	_	_	_	_	_	_
+
+# sent_id = IBA_13_M_215
+# text = # just dey hold di steer //
+# text_en = Just hold the steering wheel.
+1	#	#	_	_	_	_	_	_	_
+2	just	just	_	_	ADV	_	_	_	_
+3	dey	dey	_	_	V	_	_	_	_
+4	hold	hold	_	_	V	_	_	_	_
+5	di	di	_	_	DET	_	_	_	_
+6	steer	steer	_	_	N	_	_	_	_
+7	//	//	_	_	_	_	_	_	_
+

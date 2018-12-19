@@ -1,0 +1,406 @@
+# sent_id = schachter-otanes-67-1
+# text = Nagluto na ng pagkain ang nanay.
+# text_en = Mother has cooked some food.
+1	Nagluto	luto	_	_	PFV;IND;V	_	_	_	_
+2	na	na	_	_	ADV	_	_	_	_
+3	ng	ng	_	_	ADP;ERG	_	_	_	_
+4	pagkain	pagkain	_	_	N	_	_	_	_
+5	ang	ang	_	_	ABS;DET;DEF	_	_	_	_
+6	nanay	nanay	_	_	N;SG	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = schachter-otanes-62-1
+# text = Artista ang nagluto ng pagkain.
+# text_en = The one who cooked some food is an actress.
+1	Artista	artista	_	_	N;SG	_	_	_	_
+2	ang	ang	_	_	ADP;ABS	_	_	_	_
+3	nagluto	luto	_	_	PFV;IND;V	_	_	_	_
+4	ng	ng	_	_	PART;ERG	_	_	_	_
+5	pagkain	pagkain	_	_	N	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = schachter-otanes-65-5
+# text = Nasa kusina ang mesa.
+# text_en = The table is in the kitchen.
+1	Nasa	nasa	_	_	ADP;ESS	_	_	_	_
+2	kusina	kusina	_	_	N;SG	_	_	_	_
+3	ang	ang	_	_	ABS;DET;DEF	_	_	_	_
+4	mesa	mesa	_	_	N;SG	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = schachter-otanes-61-5
+# text = Yumaman ang babae.
+# text_en = The woman got rich.
+1	Yumaman	yaman	_	_	PFV;IND;V	_	_	_	_
+2	ang	ang	_	_	ABS;DET;DEF	_	_	_	_
+3	babae	babae	_	_	N;SG	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = schachter-otanes-64-2
+# text = Si Juan ang bunso.
+# text_en = Juan's the youngest child.
+1	Si	ang	_	_	ABS;DET;SG	_	_	_	_
+2	Juan	Juan	_	_	SG;PROPN	_	_	_	_
+3	ang	ang	_	_	DET;DEF	_	_	_	_
+4	bunso	bunso	_	_	N	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = schachter-otanes-62-0
+# text = Artista ang yumaman.
+# text_en = The one who got rich is an actress.
+1	Artista	artista	_	_	N;SG	_	_	_	_
+2	ang	ang	_	_	ABS;DET;DEF	_	_	_	_
+3	yumaman	yaman	_	_	PFV;IND;V	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = schachter-otanes-69-1
+# text = Binabasa ng diyaryo ang titser.
+# text_en = The teacher is reading the newspaper.
+1	Binabasa	basa	_	_	IPFV;IND;V	_	_	_	_
+2	ng	ng	_	_	ADP;ERG	_	_	_	_
+3	diyaryo	diyaryo	_	_	N;SG	_	_	_	_
+4	ang	ang	_	_	ABS;DET;DEF	_	_	_	_
+5	titser	titser	_	_	N;SG	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = schachter-otanes-65-0
+# text = Bagong-bago ang bahay.
+# text_en = The house is very new.
+1	Bagong	bago	_	_	ADJ	_	_	_	_
+2	-	-	_	_	_	_	_	_	_
+3	bago	bago	_	_	ADJ;RL	_	_	_	_
+4	ang	ang	_	_	ABS;DET;DEF	_	_	_	_
+5	bahay	bahay	_	_	N;SG	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = schachter-otanes-70-4
+# text = Binili ng mangingisda ang bangka.
+# text_en = The fisherman bought the boat.
+1	Binili	bili	_	_	PFV;IND;V	_	_	_	_
+2	ng	ng	_	_	ADP;ERG	_	_	_	_
+3	mangingisda	mangingisda	_	_	N;SG	_	_	_	_
+4	ang	ang	_	_	ABS;DET;DEF	_	_	_	_
+5	bangka	bangka	_	_	N;SG	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = schachter-otanes-64-7
+# text = Bago ang bahay.
+# text_en = The house is new.
+1	Bago	bago	_	_	ADJ	_	_	_	_
+2	ang	ang	_	_	ABS;DET;DEF	_	_	_	_
+3	bahay	bahay	_	_	N;SG	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = schachter-otanes-67-0
+# text = Nagluto ng pagkain ang nanay.
+# text_en = Mother cooked some food.
+1	Nagluto	luto	_	_	PFV;IND;V	_	_	_	_
+2	ng	ng	_	_	ADP;ERG	_	_	_	_
+3	pagkain	pagkain	_	_	N	_	_	_	_
+4	ang	ang	_	_	ABS;DET;DEF	_	_	_	_
+5	nanay	nanay	_	_	N;SG	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = schachter-otanes-69-3
+# text = Humihinga pa ang pasyente.
+# text_en = The patient is still breathing.
+1	Humihinga	hinga	_	_	IPFV;IND;V	_	_	_	_
+2	pa	pa	_	_	ADV	_	_	_	_
+3	ang	ang	_	_	ABS;DET;DEF	_	_	_	_
+4	pasyente	pasyente	_	_	N;SG	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = schachter-otanes-70-5
+# text = Sinalpok ng alon ang bangka.
+# text_en = The wave struck the boat.
+1	Sinalpok	salpok	_	_	PFV;IND;V	_	_	_	_
+2	ng	ng	_	_	ADP;ERG	_	_	_	_
+3	alon	alon	_	_	N	_	_	_	_
+4	ang	ang	_	_	ABS;DET;DEF	_	_	_	_
+5	bangka	bangka	_	_	N;SG	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = schachter-otanes-70-3
+# text = Binigyan ng titser ng premyo ang istudyante.
+# text_en = The teacher gave the student a prize.
+1	Binigyan	bigay	_	_	PFV;IND;V	_	_	_	_
+2	ng	ng	_	_	ADP;ERG	_	_	_	_
+3	titser	titser	_	_	N;SG	_	_	_	_
+4	ng	ng	_	_	ADP;ERG	_	_	_	_
+5	premyo	premyo	_	_	N;SG	_	_	_	_
+6	ang	ang	_	_	ABS;DET;DEF	_	_	_	_
+7	istudyante	istudyante	_	_	N;SG	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = schachter-otanes-69-0
+# text = Bumabasa ng diyaryo ang titser.
+# text_en = The teacher is reading a newspaper.
+1	Bumabasa	basa	_	_	IPFV;IND;V	_	_	_	_
+2	ng	ng	_	_	ADP;ERG	_	_	_	_
+3	diyaryo	diyaryo	_	_	N;SG	_	_	_	_
+4	ang	ang	_	_	ABS;DET;DEF	_	_	_	_
+5	titser	titser	_	_	N;SG	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = schachter-otanes-60-0
+# text = Gumising ang bata.
+# text_en = The child awoke.
+1	Gumising	gising	_	_	PFV;IND;V	_	_	_	_
+2	ang	ang	_	_	ABS;DET;DEF	_	_	_	_
+3	bata	bata	_	_	N;SG	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = schachter-otanes-65-10
+# text = Sa istudyante ang libro.
+# text_en = The book belongs to the student.
+1	Sa	sa	_	_	ADP;DAT	_	_	_	_
+2	istudyante	istudyante	_	_	N;SG	_	_	_	_
+3	ang	ang	_	_	ABS;DET;DEF	_	_	_	_
+4	libro	libro	_	_	N;SG	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = schachter-otanes-67-6
+# text = Magluluto ng pagkain ang nanay bukas.
+# text_en = Mother will some food tomorrow.
+1	Magluluto	luto	_	_	IND;PROSP;V	_	_	_	_
+2	ng	ng	_	_	ADP;ERG	_	_	_	_
+3	pagkain	pagkain	_	_	N	_	_	_	_
+4	ang	ang	_	_	ABS;DET;DEF	_	_	_	_
+5	nanay	nanay	_	_	N;SG	_	_	_	_
+6	bukas	bukas	_	_	ADV	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = schachter-otanes-97-0
+# text = Biyudo ang maestro.
+# text_en = The teacher is a widower.
+1	Biyudo	biyudo	_	_	N;MASC	_	_	_	_
+2	ang	ang	_	_	ABS;DET;DEF	_	_	_	_
+3	maestro	maestro	_	_	N;MASC	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = schachter-otanes-64-4
+# text = Isda ang pagkain niya.
+# text_en = His meal is some fish.
+1	Isda	isda	_	_	N;SG	_	_	_	_
+2	ang	ang	_	_	ABS;DET;INDF	_	_	_	_
+3	pagkain	pagkain	_	_	N;SG	_	_	_	_
+4	niya	ng	_	_	PRO;ERG	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = schachter-otanes-64-1
+# text = Iyan ang bahay.
+# text_en = That's the house.
+1	Iyan	ang	_	_	PRO;SG	_	_	_	_
+2	ang	ang	_	_	DET;DEF	_	_	_	_
+3	bahay	bahay	_	_	N;SG	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = schachter-otanes-70-2
+# text = Ibinigay ng titser sa istudyante ang premyo.
+# text_en = The teacher gave the student the prize.
+1	Ibinigay	bigay	_	_	PFV;IND;V	_	_	_	_
+2	ng	ng	_	_	ADP;ERG	_	_	_	_
+3	titser	titser	_	_	N;SG	_	_	_	_
+4	sa	sa	_	_	ADP;DAT	_	_	_	_
+5	istudyante	istudyante	_	_	N;SG	_	_	_	_
+6	ang	ang	_	_	ABS;DET;DEF	_	_	_	_
+7	premyo	premyo	_	_	N;SG	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = devos-71-0
+# text = Nakita kita.
+# text_en = I saw you.
+1	Nakita	kita	_	_	PFV;IND;V	_	_	_	_
+2	kita	ang	_	_	PRO;ABS;DU	_	_	_	_
+3	.	.	_	_	_	_	_	_	_
+
+# sent_id = schachter-otanes-65-8
+# text = May gulayan ang babae.
+# text_en = The woman has a vegetable garden.
+1	May	may	_	_	V	_	_	_	_
+2	gulayan	gulayan	_	_	N	_	_	_	_
+3	ang	ang	_	_	ABS;DET;DEF	_	_	_	_
+4	babae	babae	_	_	N;SG	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = schachter-otanes-97-1
+# text = Biyuda ang maestra.
+# text_en = The teacher is a widow.
+1	Biyuda	biyuda	_	_	N;FEM	_	_	_	_
+2	ang	ang	_	_	ABS;DET;DEF	_	_	_	_
+3	maestra	maestra	_	_	N;FEM	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = schachter-otanes-70-1
+# text = Tumatanda ang aso.
+# text_en = The dog is growing old.
+1	Tumatanda	magtanda	_	_	IPFV;IND;V	_	_	_	_
+2	ang	ang	_	_	ABS;DET;DEF	_	_	_	_
+3	aso	aso	_	_	N;SG	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = schachter-otanes-61-4
+# text = Maganda ang babae.
+# text_en = The woman is beautiful.
+1	Maganda	ganda	_	_	ADJ	_	_	_	_
+2	ang	ang	_	_	ABS;DET;DEF	_	_	_	_
+3	babae	babae	_	_	N;SG	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = schachter-otanes-65-4
+# text = Pagod ang bata.
+# text_en = The child is tired.
+1	Pagod	pagod	_	_	ADJ	_	_	_	_
+2	ang	ang	_	_	DET;DEF	_	_	_	_
+3	bata	bata	_	_	N;SG	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = schachter-otanes-61-3
+# text = Artista ang babae.
+# text_en = The woman is an actress.
+1	Artista	artista	_	_	N;SG	_	_	_	_
+2	ang	ang	_	_	ABS;DET;DEF	_	_	_	_
+3	babae	babae	_	_	N;SG	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = schachter-otanes-64-0
+# text = Siya ang Amerikano.
+# text_en = He's the American.
+1	Siya	ang	_	_	3;SG;PRO;ABS	_	_	_	_
+2	ang	ang	_	_	ABS;DET;DEF	_	_	_	_
+3	Amerikano	amerikano	_	_	N;SG	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = schachter-otanes-65-3
+# text = Matamis ang kendi.
+# text_en = The candy is sweet.
+1	Matamis	tamis	_	_	ADJ	_	_	_	_
+2	ang	ang	_	_	DET;DEF	_	_	_	_
+3	kendi	kendi	_	_	N;SG	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = schachter-otanes-64-6
+# text = Bato ang bahay.
+# text_en = The house is stone.
+1	Bato	bato	_	_	N;SG	_	_	_	_
+2	ang	ang	_	_	ABS;DET;DEF	_	_	_	_
+3	bahay	bahay	_	_	N;SG	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = schachter-otanes-71-0
+# text = Binalikan niya ang Maynila.
+# text_en = He returned to Manila.
+1	Binalikan	balik	_	_	PFV;IND;V	_	_	_	_
+2	niya	ng	_	_	PRO;ERG	_	_	_	_
+3	ang	ang	_	_	ABS;DET;DEF	_	_	_	_
+4	Maynila	Maynila	_	_	PROPN	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = schachter-otanes-95-10
+# text = Mansanas ito.
+# text_en = This is an apple.
+1	Mansanas	mansanas	_	_	N	_	_	_	_
+2	ito	ang	_	_	PRO;SG	_	_	_	_
+3	.	.	_	_	_	_	_	_	_
+
+# sent_id = schachter-otanes-67-2
+# text = Nagluto na ng pagkain ang nanay noong dumating ako.
+# text_en = Mother had cooked some food when I arrived.
+1	Nagluto	luto	_	_	PFV;IND;V	_	_	_	_
+2	na	na	_	_	ADV	_	_	_	_
+3	ng	ng	_	_	ADP;ERG	_	_	_	_
+4	pagkain	pagkain	_	_	N	_	_	_	_
+5	ang	ang	_	_	ABS;DET;DEF	_	_	_	_
+6	nanay	nanay	_	_	N;SG	_	_	_	_
+7	noong	nang	_	_	CONJ	_	_	_	_
+8	dumating	dating	_	_	PFV;IND;V	_	_	_	_
+9	ako	ang	_	_	PRO;SG;ABS;1	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = schachter-otanes-64-5
+# text = Isda ang paborito niya.
+# text_en = His favorite is fish.
+1	Isda	isda	_	_	N;SG	_	_	_	_
+2	ang	ang	_	_	ABS;DET;DEF	_	_	_	_
+3	paborito	paborito	_	_	N;SG	_	_	_	_
+4	niya	ng	_	_	PRO;ERG	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = schachter-otanes-64-3
+# text = Isda ang bakalaw.
+# text_en = The cod is a fish.
+1	Isda	isda	_	_	N;SG	_	_	_	_
+2	ang	ang	_	_	ABS;DET;DEF	_	_	_	_
+3	bakalaw	bakalaw	_	_	N;SG	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = schachter-otanes-71-1
+# text = Tinakasan niya ang bilangguan.
+# text_en = He escaped from the prison.
+1	Tinakasan	takas	_	_	PFV;IND;V	_	_	_	_
+2	niya	ng	_	_	PRO;ERG	_	_	_	_
+3	ang	ang	_	_	ABS;DET;DEF	_	_	_	_
+4	bilangguan	bilangguan	_	_	N;SG	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = schachter-otanes-70-0
+# text = Nauuhaw ang sanggol.
+# text_en = The baby is getting thirsty.
+1	Nauuhaw	uhaw	_	_	IPFV;IND;V	_	_	_	_
+2	ang	ang	_	_	ABS;DET;DEF	_	_	_	_
+3	sanggol	sanggol	_	_	N;SG	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = schachter-otanes-65-9
+# text = Kailangan ko ang kuwalta.
+# text_en = I need the money.
+1	Kailangan	kailangan	_	_	HAB;IND;V;NFIN	_	_	_	_
+2	ko	ko	_	_	PRO;SG;ERG;1	_	_	_	_
+3	ang	ang	_	_	ABS;DET;DEF	_	_	_	_
+4	kuwalta	kuwalta	_	_	N;SG	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = schachter-otanes-67-7
+# text = Hindi pa nagluluto ng pagkain ang nanay.
+# text_en = Mother has not cooked any food yet.
+1	Hindi	hindi	_	_	PART;NEG	_	_	_	_
+2	pa	pa	_	_	ADV	_	_	_	_
+3	nagluluto	luto	_	_	IPFV;IND;V	_	_	_	_
+4	ng	ng	_	_	ADP;ERG	_	_	_	_
+5	pagkain	pagkain	_	_	N	_	_	_	_
+6	ang	ang	_	_	ABS;DET;DEF	_	_	_	_
+7	nanay	nanay	_	_	N;SG	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = schachter-otanes-60-3
+# text = Sinulatan ko ang titser.
+# text_en = I wrote to the teacher.
+1	Sinulatan	sulat	_	_	PFV;IND;V	_	_	_	_
+2	ko	ng	_	_	PRO;SG;ERG;1	_	_	_	_
+3	ang	ang	_	_	ABS;DET;DEF	_	_	_	_
+4	titser	titser	_	_	N;SG	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = schachter-otanes-67-3
+# text = Nagluluto ng pagkain ang nanay araw-araw.
+# text_en = Mother is cooking some food everyday.
+1	Nagluluto	luto	_	_	IPFV;IND;V	_	_	_	_
+2	ng	ng	_	_	ADP;ERG	_	_	_	_
+3	pagkain	pagkain	_	_	N	_	_	_	_
+4	ang	ang	_	_	ABS;DET;DEF	_	_	_	_
+5	nanay	nanay	_	_	N;SG	_	_	_	_
+6	araw	araw	_	_	ADV	_	_	_	_
+7	-	-	_	_	_	_	_	_	_
+8	araw	araw	_	_	N;PL	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = schachter-otanes-70-7
+# text = Sumalpok sa bangka ang alon.
+# text_en = The wave struck the boat.
+1	Sumalpok	salpok	_	_	PFV;IND;V	_	_	_	_
+2	sa	sa	_	_	ADP;DAT	_	_	_	_
+3	bangka	bangka	_	_	N;SG	_	_	_	_
+4	ang	ang	_	_	ABS;DET;DEF	_	_	_	_
+5	alon	alon	_	_	N	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+

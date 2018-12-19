@@ -1,0 +1,2831 @@
+# sent_id = 994
+# text = Fuair sé freagra na ceiste.
+1	Fuair	faigh	_	_	IND;PST;V	_	_	_	_
+2	sé	sé	_	_	MASC;SG;3;PRO	_	_	_	_
+3	freagra	freagra	_	_	MASC;SG;N	_	_	_	_
+4	na	na	_	_	DEF;SG;FEM;DET;GEN	_	_	_	_
+5	ceiste	ceist	_	_	DEF;SG;FEM;N;GEN	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = 129
+# text = An bhfuil cead agam mo chéad cheist a chur: Cé hiad féin agus céard a tharlós dóibh?
+1	An	an	_	_	PART	_	_	_	_
+2	bhfuil	bí	_	_	V;PRS;IND	_	_	_	_
+3	cead	cead	_	_	SG;N;MASC	_	_	_	_
+4	agam	ag	_	_	SG;1;ADP	_	_	_	_
+5	mo	mo	_	_	DET;SG;1	_	_	_	_
+6	chéad	céad	_	_	NUM	_	_	_	_
+7	cheist	ceist	_	_	SG;N;FEM	_	_	_	_
+8	a	a	_	_	PART	_	_	_	_
+9	chur	cur	_	_	N;NFIN	_	_	_	_
+10	:	:	_	_	_	_	_	_	_
+11	Cé	cé	_	_	PRO	_	_	_	_
+12	hiad	iad	_	_	PL;PRO;3	_	_	_	_
+13	féin	féin	_	_	PRO;REFL	_	_	_	_
+14	agus	agus	_	_	CONJ	_	_	_	_
+15	céard	cé	_	_	PRO	_	_	_	_
+16	a	a	_	_	PART	_	_	_	_
+17	tharlós	tarlaigh	_	_	V;IND;FUT	_	_	_	_
+18	dóibh	do	_	_	PL;3;ADP	_	_	_	_
+19	?	?	_	_	_	_	_	_	_
+
+# sent_id = 213
+# text = Is eisean atá ag cabhrú liom.
+1	Is	is	_	_	PRS;V	_	_	_	_
+2	eisean	é	_	_	SG;PRO;MASC;3	_	_	_	_
+3	atá	bí	_	_	V;PRS;IND	_	_	_	_
+4	ag	ag	_	_	ADP	_	_	_	_
+5	cabhrú	cabhrú	_	_	N;V.MSDR	_	_	_	_
+6	liom	le	_	_	SG;1;ADP	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = 366
+# text = Ar dhá chúis ar a laghad.
+1	Ar	ar	_	_	ADP	_	_	_	_
+2	dhá	dó	_	_	NUM	_	_	_	_
+3	chúis	cúis	_	_	SG;N;FEM	_	_	_	_
+4	ar	ar	_	_	ADP	_	_	_	_
+5	a	a	_	_	PART	_	_	_	_
+6	laghad	laghad	_	_	SG;N;MASC	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = 848
+# text = Chomh maith leis na comórtais sa lúthchleasaíocht, imríodh cluiche peile leis.
+1	Chomh	chomh	_	_	ADV	_	_	_	_
+2	maith	maith	_	_	ADJ	_	_	_	_
+3	leis	le	_	_	ADP	_	_	_	_
+4	na	na	_	_	PL;DEF;DET	_	_	_	_
+5	comórtais	comórtas	_	_	DEF;N;PL;MASC	_	_	_	_
+6	sa	i	_	_	ADP;SG	_	_	_	_
+7	lúthchleasaíocht	lúthchleasaíocht	_	_	DEF;SG;FEM;N	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	imríodh	imir	_	_	IND;PST;V	_	_	_	_
+10	cluiche	cluiche	_	_	MASC;SG;N	_	_	_	_
+11	peile	peil	_	_	SG;FEM;N;GEN	_	_	_	_
+12	leis	le	_	_	ADP;SG;3;MASC	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = 545
+# text = Ní hé amháin sin ach bhí de thoradh ar an dá bheart fadbhreathnaitheacha sin aige gur mhaolaigh ar naimhdeas na Fraince don Eaglais.
+1	Ní	is	_	_	V;PRS;NEG	_	_	_	_
+2	hé	é	_	_	MASC;SG;3;PRO	_	_	_	_
+3	amháin	amháin	_	_	ADJ	_	_	_	_
+4	sin	sin	_	_	PRO	_	_	_	_
+5	ach	ach	_	_	CONJ	_	_	_	_
+6	bhí	bí	_	_	IND;PST;V	_	_	_	_
+7	de	de	_	_	ADP	_	_	_	_
+8	thoradh	toradh	_	_	N;SG;MASC	_	_	_	_
+9	ar	ar	_	_	ADP	_	_	_	_
+10	an	an	_	_	SG;DEF;DET	_	_	_	_
+11	dá	dó	_	_	DEF;NUM	_	_	_	_
+12	bheart	beart	_	_	N;SG;MASC	_	_	_	_
+13	fadbhreathnaitheacha	fadbhreathnaitheach	_	_	ADJ;PL	_	_	_	_
+14	sin	sin	_	_	DET	_	_	_	_
+15	aige	ag	_	_	ADP;SG;3;MASC	_	_	_	_
+16	gur	gur	_	_	PART;PST	_	_	_	_
+17	mhaolaigh	maolaigh	_	_	IND;PST;V	_	_	_	_
+18	ar	ar	_	_	ADP	_	_	_	_
+19	naimhdeas	naimhdeas	_	_	MASC;SG;N	_	_	_	_
+20	na	na	_	_	DEF;SG;FEM;DET;GEN	_	_	_	_
+21	Fraince	Frainc	_	_	FEM;PROPN;GEN	_	_	_	_
+22	don	do	_	_	ADP;SG	_	_	_	_
+23	Eaglais	Eaglais	_	_	DEF;SG;FEM;N	_	_	_	_
+24	.	.	_	_	_	_	_	_	_
+
+# sent_id = 345
+# text = Nílim á rá gur chloígh gach aon duine leis na rialacha i gcónaí - agus ar chaoi ar bith b'fhurusta cead eisceachta a fháil de bharr easláinte, nó sclábhaíocht throm nó a leithéid - ach bhí dlí choitianta an troscaidh ceangailte ar gach uile Chaitliceach idir a seacht mbliana agus trí scór bliain d'aois.
+1	Nílim	bí	_	_	V;SG;NEG;1;IND;PRS	_	_	_	_
+2	á	do	_	_	SG;ADP;MASC;3	_	_	_	_
+3	rá	rá	_	_	N;NFIN	_	_	_	_
+4	gur	gur	_	_	PST;PART	_	_	_	_
+5	chloígh	cloígh	_	_	V;IND;PST	_	_	_	_
+6	gach	gach	_	_	DET;DEF	_	_	_	_
+7	aon	aon	_	_	DET	_	_	_	_
+8	duine	duine	_	_	SG;N;MASC	_	_	_	_
+9	leis	le	_	_	ADP	_	_	_	_
+10	na	na	_	_	DET;DEF;PL	_	_	_	_
+11	rialacha	riail	_	_	PL;N;DEF;FEM	_	_	_	_
+12	i	i	_	_	ADP	_	_	_	_
+13	gcónaí	cónaí	_	_	SG;N;MASC	_	_	_	_
+14	-	-	_	_	_	_	_	_	_
+15	agus	agus	_	_	CONJ	_	_	_	_
+16	ar	ar	_	_	ADP	_	_	_	_
+17	chaoi	caoi	_	_	SG;N;FEM	_	_	_	_
+18	ar	ar	_	_	ADP	_	_	_	_
+19	bith	bith	_	_	SG;N	_	_	_	_
+20	b'	is	_	_	PST;V	_	_	_	_
+21	fhurusta	furasta	_	_	ADJ	_	_	_	_
+22	cead	cead	_	_	SG;N;MASC	_	_	_	_
+23	eisceachta	eisceacht	_	_	GEN;N;FEM;SG	_	_	_	_
+24	a	a	_	_	PART	_	_	_	_
+25	fháil	fáil	_	_	N;NFIN	_	_	_	_
+26	de	de	_	_	ADP	_	_	_	_
+27	bharr	bharr	_	_	ADP	_	_	_	_
+28	easláinte	easláinte	_	_	SG;N;FEM	_	_	_	_
+29	,	,	_	_	_	_	_	_	_
+30	nó	nó	_	_	CONJ	_	_	_	_
+31	sclábhaíocht	sclábhaíocht	_	_	SG;N;FEM	_	_	_	_
+32	throm	trom	_	_	SG;ADJ;FEM	_	_	_	_
+33	nó	nó	_	_	CONJ	_	_	_	_
+34	a	a	_	_	SG;DET;MASC;3	_	_	_	_
+35	leithéid	leithéid	_	_	SG;N;FEM	_	_	_	_
+36	-	-	_	_	_	_	_	_	_
+37	ach	ach	_	_	CONJ	_	_	_	_
+38	bhí	bí	_	_	V;IND;PST	_	_	_	_
+39	dlí	dlí	_	_	SG;N;MASC	_	_	_	_
+40	choitianta	coitianta	_	_	ADJ	_	_	_	_
+41	an	an	_	_	DET;DEF;SG	_	_	_	_
+42	troscaidh	troscadh	_	_	GEN;N;SG;MASC	_	_	_	_
+43	ceangailte	ceangailte	_	_	ADJ;V.PTCP	_	_	_	_
+44	ar	ar	_	_	ADP	_	_	_	_
+45	gach	gach	_	_	DET;DEF	_	_	_	_
+46	uile	uile	_	_	DET	_	_	_	_
+47	Chaitliceach	Caitliceach	_	_	SG;N;MASC	_	_	_	_
+48	idir	idir	_	_	ADP	_	_	_	_
+49	a	a	_	_	PART	_	_	_	_
+50	seacht	seacht	_	_	NUM	_	_	_	_
+51	mbliana	bliain	_	_	N;FEM	_	_	_	_
+52	agus	agus	_	_	CONJ	_	_	_	_
+53	trí	trí	_	_	NUM	_	_	_	_
+54	scór	scór	_	_	SG;N;MASC	_	_	_	_
+55	bliain	bliain	_	_	SG;N;FEM	_	_	_	_
+56	d'	de	_	_	ADP	_	_	_	_
+57	aois	aois	_	_	SG;N;FEM	_	_	_	_
+58	.	.	_	_	_	_	_	_	_
+
+# sent_id = 579
+# text = Agus as go brách leo.
+1	Agus	agus	_	_	CONJ	_	_	_	_
+2	as	as	_	_	ADP	_	_	_	_
+3	go	go	_	_	ADP	_	_	_	_
+4	brách	brách	_	_	SG;N	_	_	_	_
+5	leo	le	_	_	ADP;3;PL	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = 332
+# text = Leoga, tá aitheantas tugtha do chaighdeán ard na cumadóireachta cheana féin agus duais an Oireachtais tabhaithe ag bunlámhscríbhinn na díolama i 2001.
+1	Leoga	leoga	_	_	INTJ	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	tá	bí	_	_	V;PRS;IND	_	_	_	_
+4	aitheantas	aitheantas	_	_	SG;N;MASC	_	_	_	_
+5	tugtha	tugtha	_	_	ADJ;V.PTCP	_	_	_	_
+6	do	do	_	_	ADP	_	_	_	_
+7	chaighdeán	caighdeán	_	_	SG;N;MASC	_	_	_	_
+8	ard	ard	_	_	SG;ADJ;MASC	_	_	_	_
+9	na	na	_	_	SG;DEF;FEM;DET;GEN	_	_	_	_
+10	cumadóireachta	cumadóireacht	_	_	SG;N;DEF;FEM;GEN	_	_	_	_
+11	cheana	cheana	_	_	ADV	_	_	_	_
+12	féin	féin	_	_	PRO;REFL	_	_	_	_
+13	agus	agus	_	_	CONJ	_	_	_	_
+14	duais	duais	_	_	SG;N;FEM	_	_	_	_
+15	an	an	_	_	DET;DEF;SG	_	_	_	_
+16	Oireachtais	oireachtas	_	_	SG;N;DEF;GEN;MASC	_	_	_	_
+17	tabhaithe	tabhaithe	_	_	ADJ;V.PTCP	_	_	_	_
+18	ag	ag	_	_	ADP	_	_	_	_
+19	bunlámhscríbhinn	lámhscríbhinn	_	_	SG;N;FEM	_	_	_	_
+20	na	na	_	_	SG;DEF;FEM;DET;GEN	_	_	_	_
+21	díolama	díolaim	_	_	SG;N;DEF;FEM;GEN	_	_	_	_
+22	i	i	_	_	ADP	_	_	_	_
+23	2001	2001	_	_	NUM	_	_	_	_
+24	.	.	_	_	_	_	_	_	_
+
+# sent_id = 343
+# text = Bhí cónaí ar Cháit agus ar a fear, Donncha, i gCluain na hAbhann, timpeall ceithre mhíle siar ón mbaile.
+1	Bhí	bí	_	_	V;IND;PST	_	_	_	_
+2	cónaí	cónaí	_	_	SG;N;MASC	_	_	_	_
+3	ar	ar	_	_	ADP	_	_	_	_
+4	Cháit	Cáit	_	_	PROPN;SG;FEM	_	_	_	_
+5	agus	agus	_	_	CONJ	_	_	_	_
+6	ar	ar	_	_	ADP	_	_	_	_
+7	a	a	_	_	SG;FEM;DET;3	_	_	_	_
+8	fear	fear	_	_	SG;N;MASC	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	Donncha	Donncha	_	_	PROPN;SG;MASC	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	i	i	_	_	ADP	_	_	_	_
+13	gCluain	cluain	_	_	SG;N;FEM	_	_	_	_
+14	na	na	_	_	SG;DEF;FEM;DET;GEN	_	_	_	_
+15	hAbhann	abhainn	_	_	SG;N;DEF;FEM;GEN	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	timpeall	timpeall	_	_	ADV	_	_	_	_
+18	ceithre	ceathair	_	_	NUM	_	_	_	_
+19	mhíle	míle	_	_	SG;N;MASC	_	_	_	_
+20	siar	siar	_	_	ADV	_	_	_	_
+21	ón	ó	_	_	SG;ADP	_	_	_	_
+22	mbaile	baile	_	_	SG;N;MASC	_	_	_	_
+23	.	.	_	_	_	_	_	_	_
+
+# sent_id = 470
+# text = (2) Faoi féir fho-alt (3) den alt seo, ní bheidh aon deontas a a thabharfar faoin alt seo do dhuine - (a) i leith oibreacha den chineál a shonraítear i mír (a), (c) nó (f) d'fho-alt (1) den alt seo níos mó - (i) i gcás ina n-athfhoirgneoidh an duine teach chun é féin á áitiú agus gurb í an talmhaíocht go haonarach nó go formhór a shlí bheatha agus nach mó ná seasca punt luacháil inrátaithe nó comhiomlán luachálacha inrátaithe na talún (más ann) agus na bhfoirgneamh a áitíonn sé, ná dhá thrian den mhéid a measfaidh an tAire gurb é costas na n-oibreacha é, agus (ii) in aon chás eile, ná trian den mhéid a measfaidh an tAire gurb é costas na n-oibreacha é, (b) i leith oibreacha den chineál a shonraítear i mír (b) d'fho-alt (1) den alt seo, ná trian den mhéid a measfaidh an tAire gurb é costas na n-oibreacha é, (c) i leith oibreacha den chineál a shonraítear i mír (d) d'fho-alt (1) den alt seo, ná (d) i leith oibreacha den chineál a shonraítear i mír (e) d'fho-alt (1) den alt seo, ná (a) i gcás teach nach bhfuil níos mó ná trí sheomra ann, ná céad punt, (b) i gcás teach a bhfuil ceithre sheomra ann, ná céad is fiche punt, nó (c) i gcás teach a bhfuil cúig sheomra nó níos mó ann, ná céad is daichead punt.
+1	(2)	(2)	_	_	_	_	_	_	_
+2	Faoi	faoi	_	_	ADP	_	_	_	_
+3	féir	féar	_	_	MASC;SG;N;GEN	_	_	_	_
+4	fho-alt	alt	_	_	N;SG;MASC	_	_	_	_
+5	(3)	(3)	_	_	_	_	_	_	_
+6	den	de	_	_	ADP;SG	_	_	_	_
+7	alt	alt	_	_	N;SG;MASC	_	_	_	_
+8	seo	seo	_	_	DET	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	ní	ní	_	_	PART;NEG	_	_	_	_
+11	bheidh	bí	_	_	IND;FUT;NEG;V	_	_	_	_
+12	aon	aon	_	_	DET	_	_	_	_
+13	deontas	deontas	_	_	MASC;SG;N	_	_	_	_
+14	a	a	_	_	PART	_	_	_	_
+15	a	a	_	_	PART	_	_	_	_
+16	thabharfar	tabhair	_	_	IND;FUT;V	_	_	_	_
+17	faoin	faoi	_	_	ADP;SG	_	_	_	_
+18	alt	alt	_	_	MASC;SG;N	_	_	_	_
+19	seo	seo	_	_	DET	_	_	_	_
+20	do	do	_	_	ADP	_	_	_	_
+21	dhuine	duine	_	_	N;SG;MASC	_	_	_	_
+22	-	-	_	_	_	_	_	_	_
+23	(a)	(a)	_	_	_	_	_	_	_
+24	i	i	_	_	ADP	_	_	_	_
+25	leith	leith	_	_	SG;FEM;N	_	_	_	_
+26	oibreacha	obair	_	_	FEM;PL;N;GEN	_	_	_	_
+27	den	de	_	_	ADP;SG	_	_	_	_
+28	chineál	cineál	_	_	N;SG;MASC	_	_	_	_
+29	a	a	_	_	PART	_	_	_	_
+30	shonraítear	sonraigh	_	_	IND;PRS;V	_	_	_	_
+31	i	i	_	_	ADP	_	_	_	_
+32	mír	mír	_	_	SG;FEM;N	_	_	_	_
+33	(a)	(a)	_	_	_	_	_	_	_
+34	,	,	_	_	_	_	_	_	_
+35	(c)	(c)	_	_	_	_	_	_	_
+36	nó	nó	_	_	CONJ	_	_	_	_
+37	(f)	(f)	_	_	_	_	_	_	_
+38	d'	de	_	_	ADP	_	_	_	_
+39	fho-alt	alt	_	_	N;SG;MASC	_	_	_	_
+40	(1)	(1)	_	_	_	_	_	_	_
+41	den	de	_	_	ADP;SG	_	_	_	_
+42	alt	alt	_	_	N;SG;MASC	_	_	_	_
+43	seo	seo	_	_	DET	_	_	_	_
+44	níos	níos	_	_	SG;N	_	_	_	_
+45	mó	mó	_	_	ADJ	_	_	_	_
+46	-	-	_	_	_	_	_	_	_
+47	(i)	(i)	_	_	_	_	_	_	_
+48	i	i	_	_	ADP	_	_	_	_
+49	gcás	cás	_	_	N;SG;MASC	_	_	_	_
+50	ina	i	_	_	PART	_	_	_	_
+51	n-athfhoirgneoidh	n-athfhoirgn	_	_	IND;V;FUT	_	_	_	_
+52	an	an	_	_	SG;DEF;DET	_	_	_	_
+53	duine	duine	_	_	DEF;N;SG;MASC	_	_	_	_
+54	teach	teach	_	_	MASC;SG;N	_	_	_	_
+55	chun	chun	_	_	ADP	_	_	_	_
+56	é	é	_	_	MASC;SG;3;PRO	_	_	_	_
+57	féin	féin	_	_	PRO;REFL	_	_	_	_
+58	á	do	_	_	SG;3;ADP;MASC	_	_	_	_
+59	áitiú	áitiú	_	_	NFIN;N	_	_	_	_
+60	agus	agus	_	_	CONJ	_	_	_	_
+61	gurb	is	_	_	V;PRS	_	_	_	_
+62	í	í	_	_	SG;FEM;3;PRO	_	_	_	_
+63	an	an	_	_	SG;DEF;DET	_	_	_	_
+64	talmhaíocht	talmhaíocht	_	_	SG;FEM;N	_	_	_	_
+65	go	go	_	_	PART	_	_	_	_
+66	haonarach	aonarach	_	_	ADJ	_	_	_	_
+67	nó	nó	_	_	CONJ	_	_	_	_
+68	go	go	_	_	ADP	_	_	_	_
+69	formhór	formhór	_	_	MASC;SG;N	_	_	_	_
+70	a	a	_	_	SG;3;DET;MASC	_	_	_	_
+71	shlí	slí	_	_	SG;FEM;N	_	_	_	_
+72	bheatha	beatha	_	_	SG;FEM;N;GEN	_	_	_	_
+73	agus	agus	_	_	CONJ	_	_	_	_
+74	nach	is	_	_	NEG;PRS;V	_	_	_	_
+75	mó	mó	_	_	ADJ	_	_	_	_
+76	ná	ná	_	_	CONJ	_	_	_	_
+77	seasca	seasca	_	_	NUM	_	_	_	_
+78	punt	punt	_	_	MASC;SG;N	_	_	_	_
+79	luacháil	luacháil	_	_	SG;FEM;N	_	_	_	_
+80	inrátaithe	inrátaithe	_	_	SG;FEM;ADJ	_	_	_	_
+81	nó	nó	_	_	CONJ	_	_	_	_
+82	comhiomlán	comhiomlán	_	_	MASC;SG;N	_	_	_	_
+83	luachálacha	lacha	_	_	SG;FEM;N	_	_	_	_
+84	inrátaithe	inrátaithe	_	_	SG;FEM;ADJ	_	_	_	_
+85	na	na	_	_	DEF;SG;FEM;DET;GEN	_	_	_	_
+86	talún	talamh	_	_	DEF;SG;FEM;N;GEN	_	_	_	_
+87	(	(	_	_	_	_	_	_	_
+88	más	má	_	_	CONJ	_	_	_	_
+89	ann	i	_	_	ADP;SG;3;MASC	_	_	_	_
+90	)	)	_	_	_	_	_	_	_
+91	agus	agus	_	_	CONJ	_	_	_	_
+92	na	na	_	_	DEF;SG;FEM;DET;GEN	_	_	_	_
+93	bhfoirgneamh	foirgneamh	_	_	DEF;N;PL;MASC;GEN	_	_	_	_
+94	a	a	_	_	PART	_	_	_	_
+95	áitíonn	áitigh	_	_	IND;PRS;V	_	_	_	_
+96	sé	sé	_	_	MASC;SG;3;PRO	_	_	_	_
+97	,	,	_	_	_	_	_	_	_
+98	ná	ná	_	_	CONJ	_	_	_	_
+99	dhá	dó	_	_	NUM	_	_	_	_
+100	thrian	trian	_	_	N;SG;MASC	_	_	_	_
+101	den	de	_	_	ADP;SG	_	_	_	_
+102	mhéid	méid	_	_	DEF;N;SG;MASC	_	_	_	_
+103	a	a	_	_	PART	_	_	_	_
+104	measfaidh	meas	_	_	IND;V;FUT	_	_	_	_
+105	an	an	_	_	SG;DEF;DET	_	_	_	_
+106	tAire	aire	_	_	DEF;N;SG;MASC	_	_	_	_
+107	gurb	is	_	_	V;PRS	_	_	_	_
+108	é	é	_	_	MASC;SG;3;PRO	_	_	_	_
+109	costas	costas	_	_	MASC;SG;N	_	_	_	_
+110	na	na	_	_	DEF;SG;FEM;DET;GEN	_	_	_	_
+111	n-oibreacha	obair	_	_	FEM;PL;N;GEN	_	_	_	_
+112	é	é	_	_	MASC;SG;3;PRO	_	_	_	_
+113	,	,	_	_	_	_	_	_	_
+114	agus	agus	_	_	CONJ	_	_	_	_
+115	(ii)	(ii)	_	_	_	_	_	_	_
+116	in	i	_	_	ADP	_	_	_	_
+117	aon	aon	_	_	DET	_	_	_	_
+118	chás	cás	_	_	N;SG;MASC	_	_	_	_
+119	eile	eile	_	_	DET	_	_	_	_
+120	,	,	_	_	_	_	_	_	_
+121	ná	ná	_	_	CONJ	_	_	_	_
+122	trian	trian	_	_	MASC;SG;N	_	_	_	_
+123	den	de	_	_	ADP;SG	_	_	_	_
+124	mhéid	méid	_	_	DEF;N;SG;MASC	_	_	_	_
+125	a	a	_	_	PART	_	_	_	_
+126	measfaidh	meas	_	_	IND;V;FUT	_	_	_	_
+127	an	an	_	_	SG;DEF;DET	_	_	_	_
+128	tAire	aire	_	_	DEF;N;SG;MASC	_	_	_	_
+129	gurb	is	_	_	V;PRS	_	_	_	_
+130	é	é	_	_	MASC;SG;3;PRO	_	_	_	_
+131	costas	costas	_	_	MASC;SG;N	_	_	_	_
+132	na	na	_	_	PL;DEF;DET	_	_	_	_
+133	n-oibreacha	obair	_	_	FEM;PL;N;GEN	_	_	_	_
+134	é	é	_	_	MASC;SG;3;PRO	_	_	_	_
+135	,	,	_	_	_	_	_	_	_
+136	(b)	(b)	_	_	_	_	_	_	_
+137	i	i	_	_	ADP	_	_	_	_
+138	leith	leith	_	_	SG;FEM;N	_	_	_	_
+139	oibreacha	obair	_	_	FEM;PL;N;GEN	_	_	_	_
+140	den	de	_	_	ADP;SG	_	_	_	_
+141	chineál	cineál	_	_	N;SG;MASC	_	_	_	_
+142	a	a	_	_	PART	_	_	_	_
+143	shonraítear	sonraigh	_	_	IND;PRS;V	_	_	_	_
+144	i	i	_	_	ADP	_	_	_	_
+145	mír	mír	_	_	SG;FEM;N	_	_	_	_
+146	(b)	(b)	_	_	_	_	_	_	_
+147	d'	de	_	_	ADP	_	_	_	_
+148	fho-alt	alt	_	_	N;SG;MASC	_	_	_	_
+149	(1)	(1)	_	_	_	_	_	_	_
+150	den	de	_	_	ADP;SG	_	_	_	_
+151	alt	alt	_	_	N;SG;MASC	_	_	_	_
+152	seo	seo	_	_	DET	_	_	_	_
+153	,	,	_	_	_	_	_	_	_
+154	ná	ná	_	_	CONJ	_	_	_	_
+155	trian	trian	_	_	MASC;SG;N	_	_	_	_
+156	den	de	_	_	ADP;SG	_	_	_	_
+157	mhéid	méid	_	_	DEF;N;SG;MASC	_	_	_	_
+158	a	a	_	_	PART	_	_	_	_
+159	measfaidh	meas	_	_	IND;V;FUT	_	_	_	_
+160	an	an	_	_	SG;DEF;DET	_	_	_	_
+161	tAire	aire	_	_	DEF;N;SG;MASC	_	_	_	_
+162	gurb	is	_	_	V;PRS	_	_	_	_
+163	é	é	_	_	MASC;SG;3;PRO	_	_	_	_
+164	costas	costas	_	_	MASC;SG;N	_	_	_	_
+165	na	na	_	_	DEF;SG;FEM;DET;GEN	_	_	_	_
+166	n-oibreacha	obair	_	_	FEM;PL;N;GEN	_	_	_	_
+167	é	é	_	_	MASC;SG;3;PRO	_	_	_	_
+168	,	,	_	_	_	_	_	_	_
+169	(c)	(c)	_	_	_	_	_	_	_
+170	i	i	_	_	ADP	_	_	_	_
+171	leith	leith	_	_	SG;FEM;N	_	_	_	_
+172	oibreacha	obair	_	_	FEM;PL;N;GEN	_	_	_	_
+173	den	de	_	_	ADP;SG	_	_	_	_
+174	chineál	cineál	_	_	N;SG;MASC	_	_	_	_
+175	a	a	_	_	PART	_	_	_	_
+176	shonraítear	sonraigh	_	_	IND;PRS;V	_	_	_	_
+177	i	i	_	_	ADP	_	_	_	_
+178	mír	mír	_	_	SG;FEM;N	_	_	_	_
+179	(d)	(d)	_	_	_	_	_	_	_
+180	d'	de	_	_	ADP	_	_	_	_
+181	fho-alt	alt	_	_	N;SG;MASC	_	_	_	_
+182	(1)	(1)	_	_	_	_	_	_	_
+183	den	de	_	_	ADP;SG	_	_	_	_
+184	alt	alt	_	_	DEF;N;SG;MASC	_	_	_	_
+185	seo	seo	_	_	DET	_	_	_	_
+186	,	,	_	_	_	_	_	_	_
+187	ná	ná	_	_	CONJ	_	_	_	_
+188	(d)	(d)	_	_	_	_	_	_	_
+189	i	i	_	_	ADP	_	_	_	_
+190	leith	leith	_	_	SG;FEM;N	_	_	_	_
+191	oibreacha	obair	_	_	FEM;PL;N;GEN	_	_	_	_
+192	den	de	_	_	ADP;SG	_	_	_	_
+193	chineál	cineál	_	_	N;SG;MASC	_	_	_	_
+194	a	a	_	_	PART	_	_	_	_
+195	shonraítear	sonraigh	_	_	IND;PRS;V	_	_	_	_
+196	i	i	_	_	ADP	_	_	_	_
+197	mír	mír	_	_	SG;FEM;N	_	_	_	_
+198	(e)	(e)	_	_	_	_	_	_	_
+199	d'	de	_	_	ADP	_	_	_	_
+200	fho-alt	alt	_	_	N;SG;MASC	_	_	_	_
+201	(1)	(1)	_	_	_	_	_	_	_
+202	den	de	_	_	ADP;SG	_	_	_	_
+203	alt	alt	_	_	DEF;N;SG;MASC	_	_	_	_
+204	seo	seo	_	_	DET	_	_	_	_
+205	,	,	_	_	_	_	_	_	_
+206	ná	ná	_	_	CONJ	_	_	_	_
+207	(a)	(a)	_	_	_	_	_	_	_
+208	i	i	_	_	ADP	_	_	_	_
+209	gcás	cás	_	_	N;SG;MASC	_	_	_	_
+210	teach	teach	_	_	MASC;SG;N	_	_	_	_
+211	nach	nach	_	_	PART;NEG	_	_	_	_
+212	bhfuil	bí	_	_	IND;PRS;V	_	_	_	_
+213	níos	níos	_	_	SG;N	_	_	_	_
+214	mó	mó	_	_	ADJ	_	_	_	_
+215	ná	ná	_	_	CONJ	_	_	_	_
+216	trí	trí	_	_	NUM	_	_	_	_
+217	sheomra	seomra	_	_	N;SG;MASC	_	_	_	_
+218	ann	i	_	_	ADP;SG;3;MASC	_	_	_	_
+219	,	,	_	_	_	_	_	_	_
+220	ná	ná	_	_	CONJ	_	_	_	_
+221	céad	céad	_	_	NUM	_	_	_	_
+222	punt	punt	_	_	MASC;SG;N	_	_	_	_
+223	,	,	_	_	_	_	_	_	_
+224	(b)	(b)	_	_	_	_	_	_	_
+225	i	i	_	_	ADP	_	_	_	_
+226	gcás	cás	_	_	N;SG;MASC	_	_	_	_
+227	teach	teach	_	_	MASC;SG;N	_	_	_	_
+228	a	a	_	_	PART	_	_	_	_
+229	bhfuil	bí	_	_	IND;PRS;V	_	_	_	_
+230	ceithre	ceathair	_	_	NUM	_	_	_	_
+231	sheomra	seomra	_	_	N;SG;MASC	_	_	_	_
+232	ann	i	_	_	ADP;SG;3;MASC	_	_	_	_
+233	,	,	_	_	_	_	_	_	_
+234	ná	ná	_	_	CONJ	_	_	_	_
+235	céad	céad	_	_	NUM	_	_	_	_
+236	is	agus	_	_	CONJ	_	_	_	_
+237	fiche	fiche	_	_	NUM	_	_	_	_
+238	punt	punt	_	_	MASC;SG;N	_	_	_	_
+239	,	,	_	_	_	_	_	_	_
+240	nó	nó	_	_	CONJ	_	_	_	_
+241	(c)	(c)	_	_	_	_	_	_	_
+242	i	i	_	_	ADP	_	_	_	_
+243	gcás	cás	_	_	N;SG;MASC	_	_	_	_
+244	teach	teach	_	_	MASC;SG;N	_	_	_	_
+245	a	a	_	_	PART	_	_	_	_
+246	bhfuil	bí	_	_	IND;PRS;V	_	_	_	_
+247	cúig	cúig	_	_	NUM	_	_	_	_
+248	sheomra	seomra	_	_	N;SG;MASC	_	_	_	_
+249	nó	nó	_	_	CONJ	_	_	_	_
+250	níos	níos	_	_	SG;N	_	_	_	_
+251	mó	mó	_	_	ADJ	_	_	_	_
+252	ann	i	_	_	ADP;SG;3;MASC	_	_	_	_
+253	,	,	_	_	_	_	_	_	_
+254	ná	ná	_	_	CONJ	_	_	_	_
+255	céad	céad	_	_	NUM	_	_	_	_
+256	is	agus	_	_	CONJ	_	_	_	_
+257	daichead	daichead	_	_	NUM	_	_	_	_
+258	punt	punt	_	_	MASC;SG;N	_	_	_	_
+259	.	.	_	_	_	_	_	_	_
+
+# sent_id = 725
+# text = Níor tháinig sé go fóill.
+1	Níor	níor	_	_	PART;PST;NEG	_	_	_	_
+2	tháinig	tar	_	_	IND;NEG;PST;V	_	_	_	_
+3	sé	sé	_	_	MASC;SG;3;PRO	_	_	_	_
+4	go	go	_	_	PART	_	_	_	_
+5	fóill	fóill	_	_	ADJ	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = 875
+# text = Tá cáil ar leith air féin agus ar a bheirt deartháir mar phíobairí agus measann go leor gurb é an píobaire is mó in Albain é.
+1	Tá	bí	_	_	IND;PRS;V	_	_	_	_
+2	cáil	cáil	_	_	SG;FEM;N	_	_	_	_
+3	ar	ar	_	_	ADP	_	_	_	_
+4	leith	leith	_	_	SG;FEM;N	_	_	_	_
+5	air	ar	_	_	ADP;SG;3;MASC	_	_	_	_
+6	féin	féin	_	_	PRO;REFL	_	_	_	_
+7	agus	agus	_	_	CONJ	_	_	_	_
+8	ar	ar	_	_	ADP	_	_	_	_
+9	a	a	_	_	SG;3;DET;MASC	_	_	_	_
+10	bheirt	beirt	_	_	SG;FEM;N	_	_	_	_
+11	deartháir	deartháir	_	_	MASC;SG;N;GEN	_	_	_	_
+12	mar	mar	_	_	ADP	_	_	_	_
+13	phíobairí	píobaire	_	_	N;PL;MASC	_	_	_	_
+14	agus	agus	_	_	CONJ	_	_	_	_
+15	measann	meas	_	_	IND;PRS;V	_	_	_	_
+16	go	go	_	_	SG;N	_	_	_	_
+17	leor	leor	_	_	N	_	_	_	_
+18	gurb	is	_	_	V;PRS	_	_	_	_
+19	é	é	_	_	MASC;SG;3;PRO	_	_	_	_
+20	an	an	_	_	SG;DEF;DET	_	_	_	_
+21	píobaire	píobaire	_	_	DEF;N;SG;MASC	_	_	_	_
+22	is	is	_	_	PART	_	_	_	_
+23	mó	mór	_	_	ADJ;{CMPR/RL}	_	_	_	_
+24	in	i	_	_	ADP	_	_	_	_
+25	Albain	Albain	_	_	SG;PROPN;MASC	_	_	_	_
+26	é	é	_	_	MASC;SG;3;PRO	_	_	_	_
+27	.	.	_	_	_	_	_	_	_
+
+# sent_id = 530
+# text = Chuir na hÉireannaigh Aontaithe ina luí ar Rialtas na Fraince go mbeadh céad míle díobh, ar a laghad, ag feitheamh le hArm na Fraince.
+1	Chuir	cuir	_	_	IND;PST;V	_	_	_	_
+2	na	na	_	_	PL;DEF;DET	_	_	_	_
+3	hÉireannaigh	Éireannach	_	_	PROPN;DEF;PL;MASC	_	_	_	_
+4	Aontaithe	aontaithe	_	_	ADJ;V.PTCP	_	_	_	_
+5	ina	i	_	_	ADP;3;PL	_	_	_	_
+6	luí	luí	_	_	NFIN;N	_	_	_	_
+7	ar	ar	_	_	ADP	_	_	_	_
+8	Rialtas	rialtas	_	_	MASC;SG;N	_	_	_	_
+9	na	na	_	_	DEF;SG;FEM;DET;GEN	_	_	_	_
+10	Fraince	Frainc	_	_	FEM;PROPN;GEN	_	_	_	_
+11	go	go	_	_	PART	_	_	_	_
+12	mbeadh	bí	_	_	COND;V	_	_	_	_
+13	céad	céad	_	_	NUM	_	_	_	_
+14	míle	míle	_	_	NUM	_	_	_	_
+15	díobh	de	_	_	ADP;3;PL	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	ar	ar	_	_	ADP	_	_	_	_
+18	a	a	_	_	SG;3;DET;MASC	_	_	_	_
+19	laghad	laghad	_	_	MASC;SG;N	_	_	_	_
+20	,	,	_	_	_	_	_	_	_
+21	ag	ag	_	_	ADP	_	_	_	_
+22	feitheamh	feitheamh	_	_	V.MSDR;N	_	_	_	_
+23	le	le	_	_	ADP	_	_	_	_
+24	hArm	arm	_	_	MASC;SG;N	_	_	_	_
+25	na	na	_	_	DEF;SG;FEM;DET;GEN	_	_	_	_
+26	Fraince	Frainc	_	_	FEM;PROPN;GEN	_	_	_	_
+27	.	.	_	_	_	_	_	_	_
+
+# sent_id = 199
+# text = 'Éist leis.
+1	'	'	_	_	_	_	_	_	_
+2	Éist	éist	_	_	SG;V;IMP;2	_	_	_	_
+3	leis	le	_	_	SG;3;ADP;MASC	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = 279
+# text = 1 Ní mór teorainn a bheith le samplaí de mhíreanna ar leith anseo, toisc a thábhachtaí is atá sé iomláine na trialach a choinneáil le húsáid amach anseo.
+1	1	1	_	_	NUM	_	_	_	_
+2	Ní	ní	_	_	NEG;PRS;V	_	_	_	_
+3	mór	mór	_	_	ADJ	_	_	_	_
+4	teorainn	teorainn	_	_	SG;N;FEM	_	_	_	_
+5	a	a	_	_	PART	_	_	_	_
+6	bheith	bheith	_	_	N;NFIN	_	_	_	_
+7	le	le	_	_	ADP	_	_	_	_
+8	samplaí	sampla	_	_	PL;N;MASC	_	_	_	_
+9	de	de	_	_	ADP	_	_	_	_
+10	mhíreanna	mír	_	_	PL;N;FEM	_	_	_	_
+11	ar	ar	_	_	ADP	_	_	_	_
+12	leith	leith	_	_	SG;N;FEM	_	_	_	_
+13	anseo	anseo	_	_	ADV	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	toisc	toisc	_	_	SG;N;FEM	_	_	_	_
+16	a	a	_	_	PART	_	_	_	_
+17	thábhachtaí	tábhachtach	_	_	ADJ;{CMPR/RL}	_	_	_	_
+18	is	agus	_	_	CONJ	_	_	_	_
+19	atá	bí	_	_	V;PRS;IND	_	_	_	_
+20	sé	sé	_	_	SG;PRO;3;MASC	_	_	_	_
+21	iomláine	iomláine	_	_	SG;N;FEM	_	_	_	_
+22	na	na	_	_	SG;DEF;FEM;DET;GEN	_	_	_	_
+23	trialach	triail	_	_	GEN;N;FEM;SG	_	_	_	_
+24	a	a	_	_	PART	_	_	_	_
+25	choinneáil	coinneáil	_	_	N;NFIN	_	_	_	_
+26	le	le	_	_	ADP	_	_	_	_
+27	húsáid	úsáid	_	_	N;NFIN	_	_	_	_
+28	amach	amach	_	_	ADV	_	_	_	_
+29	anseo	anseo	_	_	ADV	_	_	_	_
+30	.	.	_	_	_	_	_	_	_
+
+# sent_id = 161
+# text = Is leabhar a thug sí do Mháire.
+1	Is	is	_	_	PRS;V	_	_	_	_
+2	leabhar	leabhar	_	_	SG;N;MASC	_	_	_	_
+3	a	a	_	_	PART	_	_	_	_
+4	thug	tabhair	_	_	V;IND;PST	_	_	_	_
+5	sí	sí	_	_	SG;PRO;FEM;3	_	_	_	_
+6	do	do	_	_	ADP	_	_	_	_
+7	Mháire	Máire	_	_	PROPN;SG;FEM	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = 980
+# text = Níor thada é sin le hais na hoíche ar fhéach Cóil le himeacht le bean Mhicil Choilm thiar as a teach féin agus an bhainis dhá caitheamh, an oíche sul ar pósadh le Micil í....
+1	Níor	is	_	_	V;PST;NEG	_	_	_	_
+2	thada	tada	_	_	N;SG;MASC	_	_	_	_
+3	é	é	_	_	MASC;SG;3;PRO	_	_	_	_
+4	sin	sin	_	_	PRO	_	_	_	_
+5	le	le	_	_	ADP	_	_	_	_
+6	hais	hais	_	_	ADP	_	_	_	_
+7	na	na	_	_	DEF;SG;FEM;DET;GEN	_	_	_	_
+8	hoíche	oíche	_	_	DEF;SG;FEM;N;GEN	_	_	_	_
+9	ar	ar	_	_	PART;PST	_	_	_	_
+10	fhéach	féach	_	_	IND;PST;V	_	_	_	_
+11	Cóil	Cóil	_	_	SG;PROPN;MASC	_	_	_	_
+12	le	le	_	_	ADP	_	_	_	_
+13	himeacht	imeacht	_	_	NFIN;N	_	_	_	_
+14	le	le	_	_	ADP	_	_	_	_
+15	bean	bean	_	_	SG;FEM;N	_	_	_	_
+16	Mhicil	Mhicil	_	_	SG;PROPN;MASC	_	_	_	_
+17	Choilm	colm	_	_	N;SG;MASC;GEN	_	_	_	_
+18	thiar	thiar	_	_	ADV	_	_	_	_
+19	as	as	_	_	ADP	_	_	_	_
+20	a	a	_	_	SG;3;FEM;DET	_	_	_	_
+21	teach	teach	_	_	MASC;SG;N	_	_	_	_
+22	féin	féin	_	_	PRO;REFL	_	_	_	_
+23	agus	agus	_	_	CONJ	_	_	_	_
+24	an	an	_	_	SG;DEF;DET	_	_	_	_
+25	bhainis	bainis	_	_	DEF;SG;FEM;N	_	_	_	_
+26	dhá	do	_	_	ADP;3	_	_	_	_
+27	caitheamh	caitheamh	_	_	NFIN;N	_	_	_	_
+28	,	,	_	_	_	_	_	_	_
+29	an	an	_	_	SG;DEF;DET	_	_	_	_
+30	oíche	oíche	_	_	DEF;SG;FEM;N	_	_	_	_
+31	sul	sul	_	_	MASC;SG;N	_	_	_	_
+32	ar	ar	_	_	PART;PST	_	_	_	_
+33	pósadh	pós	_	_	IND;PST;V	_	_	_	_
+34	le	le	_	_	ADP	_	_	_	_
+35	Micil	Micil	_	_	SG;PROPN;MASC	_	_	_	_
+36	í	í	_	_	SG;FEM;3;PRO	_	_	_	_
+37	...	...	_	_	_	_	_	_	_
+38	.	.	_	_	_	_	_	_	_
+
+# sent_id = 544
+# text = Goilleann a sean-aois uirthi go mór agus, go speisialta, siocair tráú radharc a súl.
+1	Goilleann	goill	_	_	IND;PRS;V	_	_	_	_
+2	a	a	_	_	SG;3;FEM;DET	_	_	_	_
+3	sean-aois	aois	_	_	SG;FEM;N	_	_	_	_
+4	uirthi	ar	_	_	ADP;SG;FEM;3	_	_	_	_
+5	go	go	_	_	PART	_	_	_	_
+6	mór	mór	_	_	ADJ	_	_	_	_
+7	agus	agus	_	_	CONJ	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	go	go	_	_	PART	_	_	_	_
+10	speisialta	speisialta	_	_	ADJ	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	siocair	siocair	_	_	SG;FEM;N	_	_	_	_
+13	tráú	tráú	_	_	NFIN;N	_	_	_	_
+14	radharc	radharc	_	_	MASC;SG;N	_	_	_	_
+15	a	a	_	_	SG;3;FEM;DET	_	_	_	_
+16	súl	súil	_	_	FEM;PL;N;GEN	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = 347
+# text = Labhair Éire le Donn ansin.
+1	Labhair	labhair	_	_	V;IND;PST	_	_	_	_
+2	Éire	Éire	_	_	PROPN;FEM;SG	_	_	_	_
+3	le	le	_	_	ADP	_	_	_	_
+4	Donn	Donn	_	_	PROPN;SG;MASC	_	_	_	_
+5	ansin	ansin	_	_	ADV	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = 325
+# text = Bhí sí ina suí sa mbaic ag coinneáil coic le raingléara de bhean thanaí a chuir píce féar i mo chloigeann seafóideach.
+1	Bhí	bí	_	_	V;IND;PST	_	_	_	_
+2	sí	sí	_	_	SG;PRO;FEM;3	_	_	_	_
+3	ina	i	_	_	SG;ADP;FEM;3	_	_	_	_
+4	suí	suí	_	_	N;NFIN	_	_	_	_
+5	sa	i	_	_	SG;ADP	_	_	_	_
+6	mbaic	baic	_	_	SG;N	_	_	_	_
+7	ag	ag	_	_	ADP	_	_	_	_
+8	coinneáil	coinneáil	_	_	N;V.MSDR	_	_	_	_
+9	coic	coic	_	_	SG;N;FEM	_	_	_	_
+10	le	le	_	_	ADP	_	_	_	_
+11	raingléara	raingléara	_	_	SG;N;MASC	_	_	_	_
+12	de	de	_	_	ADP	_	_	_	_
+13	bhean	bean	_	_	SG;N;FEM	_	_	_	_
+14	thanaí	tanaí	_	_	SG;ADJ;FEM	_	_	_	_
+15	a	a	_	_	PART	_	_	_	_
+16	chuir	cuir	_	_	V;IND;PST	_	_	_	_
+17	píce	píce	_	_	SG;N;MASC	_	_	_	_
+18	féar	féar	_	_	SG;N;MASC	_	_	_	_
+19	i	i	_	_	ADP	_	_	_	_
+20	mo	mo	_	_	DET;SG;1	_	_	_	_
+21	chloigeann	cloigeann	_	_	SG;N;MASC	_	_	_	_
+22	seafóideach	seafóideach	_	_	SG;ADJ;MASC	_	_	_	_
+23	.	.	_	_	_	_	_	_	_
+
+# sent_id = 600
+# text = Níor chúis iontais í go hiomlán gur ghlaoigh sé ar Melissa.
+1	Níor	is	_	_	V;PST;NEG	_	_	_	_
+2	chúis	cúis	_	_	SG;FEM;N	_	_	_	_
+3	iontais	iontas	_	_	MASC;SG;N;GEN	_	_	_	_
+4	í	í	_	_	SG;FEM;3;PRO	_	_	_	_
+5	go	go	_	_	PART	_	_	_	_
+6	hiomlán	iomlán	_	_	ADJ	_	_	_	_
+7	gur	gur	_	_	PART;PST	_	_	_	_
+8	ghlaoigh	glaoigh	_	_	IND;PST;V	_	_	_	_
+9	sé	sé	_	_	MASC;SG;3;PRO	_	_	_	_
+10	ar	ar	_	_	ADP	_	_	_	_
+11	Melissa	Melissa	_	_	SG;PROPN;MASC	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = 522
+# text = Mar is léir, eisíodh roinnt mhaith CallCards ó foilsíodh an bróisiúr deireanach do Chlub Bailitheoirí CallCard, ina measc Garth Brooks, Tia Maria agus dhá CallCard do Chorn an Domhain 1994 i S.A.M. Mar sin, cé nár tharraing Teresa ceangal díreach idir an teas agus an chumha, úsáideann sí an briathar 'fuaraigh' le trácht ar chumha a bheadh ag trá de réir a chéile, i ndiaidh duine a gheobhadh bás.
+1	Mar	mar	_	_	CONJ	_	_	_	_
+2	is	is	_	_	V;PRS	_	_	_	_
+3	léir	léir	_	_	ADJ	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	eisíodh	eisigh	_	_	IND;PST;V	_	_	_	_
+6	roinnt	roinnt	_	_	SG;FEM;N	_	_	_	_
+7	mhaith	maith	_	_	SG;FEM;ADJ	_	_	_	_
+8	CallCards	CallCards	_	_	MASC;N;GEN;PL	_	_	_	_
+9	ó	ó	_	_	ADP	_	_	_	_
+10	foilsíodh	foilsigh	_	_	IND;PST;V	_	_	_	_
+11	an	an	_	_	SG;DEF;DET	_	_	_	_
+12	bróisiúr	bróisiúr	_	_	DEF;N;SG;MASC	_	_	_	_
+13	deireanach	deireanach	_	_	SG;ADJ;MASC	_	_	_	_
+14	do	do	_	_	ADP	_	_	_	_
+15	Chlub	club	_	_	N;SG;MASC	_	_	_	_
+16	Bailitheoirí	bailitheoir	_	_	N;PL;MASC;GEN	_	_	_	_
+17	CallCard	CallCard	_	_	MASC;SG;N;GEN	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	ina	i	_	_	ADP;3;PL	_	_	_	_
+20	measc	measc	_	_	MASC;SG;N	_	_	_	_
+21	Garth	Garth	_	_	SG;PROPN;MASC	_	_	_	_
+22	Brooks	Brooks	_	_	SG;PROPN;MASC	_	_	_	_
+23	,	,	_	_	_	_	_	_	_
+24	Tia	Tia	_	_	SG;PROPN;MASC	_	_	_	_
+25	Maria	Maria	_	_	SG;FEM;PROPN;GEN	_	_	_	_
+26	agus	agus	_	_	CONJ	_	_	_	_
+27	dhá	dó	_	_	NUM	_	_	_	_
+28	CallCard	CallCard	_	_	MASC;SG;N	_	_	_	_
+29	do	do	_	_	ADP	_	_	_	_
+30	Chorn	corn	_	_	N;SG;MASC	_	_	_	_
+31	an	an	_	_	SG;DEF;DET	_	_	_	_
+32	Domhain	domhan	_	_	MASC;SG;N;GEN	_	_	_	_
+33	1994	1994	_	_	NUM	_	_	_	_
+34	i	i	_	_	ADP	_	_	_	_
+35	S.A.M.	S.A.M.	_	_	_	_	_	_	_
+36	Mar	mar	_	_	ADP	_	_	_	_
+37	sin	sin	_	_	PRO	_	_	_	_
+38	,	,	_	_	_	_	_	_	_
+39	cé	cé	_	_	CONJ	_	_	_	_
+40	nár	nár	_	_	PART;NEG;PST	_	_	_	_
+41	tharraing	tarraing	_	_	IND;NEG;PST;V	_	_	_	_
+42	Teresa	Teresa	_	_	SG;FEM;PROPN	_	_	_	_
+43	ceangal	ceangal	_	_	MASC;SG;N	_	_	_	_
+44	díreach	díreach	_	_	ADJ	_	_	_	_
+45	idir	idir	_	_	ADP	_	_	_	_
+46	an	an	_	_	SG;DEF;DET	_	_	_	_
+47	teas	teas	_	_	DEF;N;SG;MASC	_	_	_	_
+48	agus	agus	_	_	CONJ	_	_	_	_
+49	an	an	_	_	SG;DEF;DET	_	_	_	_
+50	chumha	cumha	_	_	N;SG;MASC	_	_	_	_
+51	,	,	_	_	_	_	_	_	_
+52	úsáideann	úsáid	_	_	IND;PRS;V	_	_	_	_
+53	sí	sí	_	_	SG;FEM;3;PRO	_	_	_	_
+54	an	an	_	_	SG;DEF;DET	_	_	_	_
+55	briathar	briathar	_	_	DEF;N;SG;MASC	_	_	_	_
+56	'	'	_	_	_	_	_	_	_
+57	fuaraigh	fuaraigh	_	_	SG;IMP;V;2	_	_	_	_
+58	'	'	_	_	_	_	_	_	_
+59	le	le	_	_	ADP	_	_	_	_
+60	trácht	trácht	_	_	NFIN;N	_	_	_	_
+61	ar	ar	_	_	ADP	_	_	_	_
+62	chumha	cumha	_	_	N;SG;MASC	_	_	_	_
+63	a	a	_	_	PART	_	_	_	_
+64	bheadh	bí	_	_	COND;V	_	_	_	_
+65	ag	ag	_	_	ADP	_	_	_	_
+66	trá	trá	_	_	V.MSDR;N	_	_	_	_
+67	de	de	_	_	ADP	_	_	_	_
+68	réir	réir	_	_	ADP	_	_	_	_
+69	a	a	_	_	SG;3;DET;MASC	_	_	_	_
+70	chéile	céile	_	_	N;SG;MASC;GEN	_	_	_	_
+71	,	,	_	_	_	_	_	_	_
+72	i	i	_	_	ADP	_	_	_	_
+73	ndiaidh	ndiaidh	_	_	ADP	_	_	_	_
+74	duine	duine	_	_	MASC;SG;N	_	_	_	_
+75	a	a	_	_	PART	_	_	_	_
+76	gheobhadh	faigh	_	_	COND;V	_	_	_	_
+77	bás	bás	_	_	MASC;SG;N	_	_	_	_
+78	.	.	_	_	_	_	_	_	_
+
+# sent_id = 533
+# text = Ba chiallmhar, ba riachtanach agus ba chuí gach focal a dúirt Potter faoi chórais theilifíse an domhain - an BBC ina measc; faoin gcaoi ina bhfuil siad tite i léig; agus faoin dochar atá á dhéanamh do na meáin chumarsáide go léir ag polaiteoirí agus lucht rachmais - go háirithe, Rupert Murdoch.
+1	Ba	is	_	_	V;PST	_	_	_	_
+2	chiallmhar	ciallmhar	_	_	ADJ	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	ba	is	_	_	V;PST	_	_	_	_
+5	riachtanach	riachtanach	_	_	ADJ	_	_	_	_
+6	agus	agus	_	_	CONJ	_	_	_	_
+7	ba	is	_	_	V;PST	_	_	_	_
+8	chuí	cuí	_	_	ADJ	_	_	_	_
+9	gach	gach	_	_	DEF;DET	_	_	_	_
+10	focal	focal	_	_	MASC;SG;N	_	_	_	_
+11	a	a	_	_	PART	_	_	_	_
+12	dúirt	abair	_	_	IND;PST;V	_	_	_	_
+13	Potter	Potter	_	_	SG;PROPN;MASC	_	_	_	_
+14	faoi	faoi	_	_	ADP	_	_	_	_
+15	chórais	córas	_	_	N;SG;MASC;GEN	_	_	_	_
+16	theilifíse	teilifís	_	_	SG;FEM;N;GEN	_	_	_	_
+17	an	an	_	_	SG;DEF;DET	_	_	_	_
+18	domhain	domhan	_	_	MASC;SG;N;GEN	_	_	_	_
+19	-	-	_	_	_	_	_	_	_
+20	an	an	_	_	SG;DEF;DET	_	_	_	_
+21	BBC	BBC	_	_	_	_	_	_	_
+22	ina	i	_	_	ADP;3;PL	_	_	_	_
+23	measc	measc	_	_	MASC;SG;N	_	_	_	_
+24	;	;	_	_	_	_	_	_	_
+25	faoin	faoi	_	_	ADP;SG	_	_	_	_
+26	gcaoi	caoi	_	_	SG;FEM;N;GEN	_	_	_	_
+27	ina	i	_	_	PART	_	_	_	_
+28	bhfuil	bí	_	_	IND;PRS;V	_	_	_	_
+29	siad	siad	_	_	3;PRO;PL	_	_	_	_
+30	tite	ti	_	_	ADJ;V.PTCP	_	_	_	_
+31	i	i	_	_	ADP	_	_	_	_
+32	léig	léig	_	_	SG;FEM;N	_	_	_	_
+33	;	;	_	_	_	_	_	_	_
+34	agus	agus	_	_	CONJ	_	_	_	_
+35	faoin	faoi	_	_	ADP;SG	_	_	_	_
+36	dochar	dochar	_	_	DEF;N;SG;MASC	_	_	_	_
+37	atá	bí	_	_	IND;PRS;V	_	_	_	_
+38	á	do	_	_	SG;3;ADP;MASC	_	_	_	_
+39	dhéanamh	déanamh	_	_	NFIN;N	_	_	_	_
+40	do	do	_	_	ADP	_	_	_	_
+41	na	na	_	_	PL;DEF;DET	_	_	_	_
+42	meáin	meán	_	_	DEF;N;PL;MASC	_	_	_	_
+43	chumarsáide	cumarsáid	_	_	SG;FEM;N;GEN	_	_	_	_
+44	go	go	_	_	PART	_	_	_	_
+45	léir	léir	_	_	ADJ	_	_	_	_
+46	ag	ag	_	_	ADP	_	_	_	_
+47	polaiteoirí	polaiteoir	_	_	MASC;N;PL	_	_	_	_
+48	agus	agus	_	_	CONJ	_	_	_	_
+49	lucht	lucht	_	_	MASC;SG;N	_	_	_	_
+50	rachmais	rachmas	_	_	MASC;SG;N;GEN	_	_	_	_
+51	-	-	_	_	_	_	_	_	_
+52	go	go	_	_	PART	_	_	_	_
+53	háirithe	áirithe	_	_	ADJ	_	_	_	_
+54	,	,	_	_	_	_	_	_	_
+55	Rupert	Rupert	_	_	SG;PROPN;MASC	_	_	_	_
+56	Murdoch	Murdoch	_	_	SG;PROPN;MASC	_	_	_	_
+57	.	.	_	_	_	_	_	_	_
+
+# sent_id = 797
+# text = Tá buíon cheoil amuigh ar cheann an chalaidh agus tá tionól den Arm Slánaithe i gcúlsráid beagáinín thíos uathu síos an caladh.
+1	Tá	bí	_	_	IND;PRS;V	_	_	_	_
+2	buíon	buíon	_	_	SG;FEM;N	_	_	_	_
+3	cheoil	ceol	_	_	N;SG;MASC;GEN	_	_	_	_
+4	amuigh	amuigh	_	_	ADV	_	_	_	_
+5	ar	ar	_	_	ADP	_	_	_	_
+6	cheann	ceann	_	_	N;SG;MASC	_	_	_	_
+7	an	an	_	_	SG;DEF;DET	_	_	_	_
+8	chalaidh	caladh	_	_	DEF;N;SG;MASC;GEN	_	_	_	_
+9	agus	agus	_	_	CONJ	_	_	_	_
+10	tá	bí	_	_	IND;PRS;V	_	_	_	_
+11	tionól	tionól	_	_	MASC;SG;N	_	_	_	_
+12	den	de	_	_	ADP;SG	_	_	_	_
+13	Arm	arm	_	_	MASC;SG;N	_	_	_	_
+14	Slánaithe	slánaithe	_	_	ADJ;V.PTCP	_	_	_	_
+15	i	i	_	_	ADP	_	_	_	_
+16	gcúlsráid	sráid	_	_	SG;FEM;N	_	_	_	_
+17	beagáinín	beagán	_	_	MASC;SG;N	_	_	_	_
+18	thíos	thíos	_	_	ADV	_	_	_	_
+19	uathu	ó	_	_	ADP;3;PL	_	_	_	_
+20	síos	síos	_	_	ADV	_	_	_	_
+21	an	an	_	_	SG;DEF;DET	_	_	_	_
+22	caladh	caladh	_	_	DEF;N;SG;MASC	_	_	_	_
+23	.	.	_	_	_	_	_	_	_
+
+# sent_id = 303
+# text = Aon uair amháin a bheidh na páistí ar obair ag léamh agus ag scríobh agus le linn na ngníomhaíochtaí réamhléitheoireachta agus réamh-scríbhneoireachta, caithfidh an múinteoir spéis a léiriú, fuinneamh a chaitheamh, dea-shampla a thabhairt, atmaisféar sócúlach a chruthú agus leas a bhaint as na straitéisí uilig a dtig leis smaoineamh orthu.
+1	Aon	aon	_	_	DET	_	_	_	_
+2	uair	uair	_	_	SG;N;FEM	_	_	_	_
+3	amháin	amháin	_	_	ADJ	_	_	_	_
+4	a	a	_	_	PART	_	_	_	_
+5	bheidh	bí	_	_	V;IND;FUT	_	_	_	_
+6	na	na	_	_	DET;DEF;PL	_	_	_	_
+7	páistí	páiste	_	_	PL;N;DEF;MASC	_	_	_	_
+8	ar	ar	_	_	ADP	_	_	_	_
+9	obair	obair	_	_	N;NFIN	_	_	_	_
+10	ag	ag	_	_	ADP	_	_	_	_
+11	léamh	léamh	_	_	N;NFIN	_	_	_	_
+12	agus	agus	_	_	CONJ	_	_	_	_
+13	ag	ag	_	_	ADP	_	_	_	_
+14	scríobh	scríobh	_	_	N;V.MSDR	_	_	_	_
+15	agus	agus	_	_	CONJ	_	_	_	_
+16	le	le	_	_	ADP	_	_	_	_
+17	linn	linn	_	_	ADP	_	_	_	_
+18	na	na	_	_	DET;DEF;PL	_	_	_	_
+19	ngníomhaíochtaí	gníomhaíocht	_	_	PL;N;DEF;FEM;GEN	_	_	_	_
+20	réamhléitheoireachta	léitheoireacht	_	_	GEN;N;FEM;SG	_	_	_	_
+21	agus	agus	_	_	CONJ	_	_	_	_
+22	réamh-scríbhneoireachta	scríbhneoireacht	_	_	GEN;N;FEM;SG	_	_	_	_
+23	,	,	_	_	_	_	_	_	_
+24	caithfidh	caith	_	_	V;IND;FUT	_	_	_	_
+25	an	an	_	_	DET;DEF;SG	_	_	_	_
+26	múinteoir	múinteoir	_	_	SG;N;MASC	_	_	_	_
+27	spéis	spéis	_	_	SG;N;FEM	_	_	_	_
+28	a	a	_	_	PART	_	_	_	_
+29	léiriú	léirigh	_	_	N;NFIN	_	_	_	_
+30	,	,	_	_	_	_	_	_	_
+31	fuinneamh	fuinneamh	_	_	SG;N;MASC	_	_	_	_
+32	a	a	_	_	PART	_	_	_	_
+33	chaitheamh	caitheamh	_	_	N;NFIN	_	_	_	_
+34	,	,	_	_	_	_	_	_	_
+35	dea-shampla	sampla	_	_	SG;N;MASC	_	_	_	_
+36	a	a	_	_	PART	_	_	_	_
+37	thabhairt	tabhairt	_	_	N;NFIN	_	_	_	_
+38	,	,	_	_	_	_	_	_	_
+39	atmaisféar	atmaisféar	_	_	SG;N;MASC	_	_	_	_
+40	sócúlach	sócúlach	_	_	SG;ADJ;MASC	_	_	_	_
+41	a	a	_	_	PART	_	_	_	_
+42	chruthú	cruthú	_	_	N;NFIN	_	_	_	_
+43	agus	agus	_	_	CONJ	_	_	_	_
+44	leas	leas	_	_	SG;N;MASC	_	_	_	_
+45	a	a	_	_	PART	_	_	_	_
+46	bhaint	baint	_	_	N;NFIN	_	_	_	_
+47	as	as	_	_	ADP	_	_	_	_
+48	na	na	_	_	DET;DEF;PL	_	_	_	_
+49	straitéisí	straitéis	_	_	PL;N;FEM	_	_	_	_
+50	uilig	uile	_	_	DET	_	_	_	_
+51	a	a	_	_	PART	_	_	_	_
+52	dtig	tar	_	_	V;PRS;IND	_	_	_	_
+53	leis	le	_	_	SG;3;ADP;MASC	_	_	_	_
+54	smaoineamh	smaoineamh	_	_	N;NFIN	_	_	_	_
+55	orthu	ar	_	_	PL;3;ADP	_	_	_	_
+56	.	.	_	_	_	_	_	_	_
+
+# sent_id = 243
+# text = Éiríonn, carnann agus roinneann.
+1	Éiríonn	éirigh	_	_	V;PRS;IND	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	carnann	carn	_	_	V;PRS;IND	_	_	_	_
+4	agus	agus	_	_	CONJ	_	_	_	_
+5	roinneann	roinn	_	_	V;PRS;IND	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = 298
+# text = I measc na n-aíonna a bheidh i láthair beidh Aiden Coffey, Jackie Daly, Máire O Keefe, Séamus Creagh, Tony Linnane, Breándán Ó Beaglaoich, Denis Doody, agus Eamonn Coyne.
+1	I	I	_	_	ADP	_	_	_	_
+2	measc	measc	_	_	SG;N;MASC	_	_	_	_
+3	na	na	_	_	SG;DEF;FEM;DET;GEN	_	_	_	_
+4	n-aíonna	aoi	_	_	GEN;N;MASC;PL	_	_	_	_
+5	a	a	_	_	PART	_	_	_	_
+6	bheidh	bí	_	_	V;IND;FUT	_	_	_	_
+7	i	i	_	_	ADP	_	_	_	_
+8	láthair	láthair	_	_	ADP	_	_	_	_
+9	beidh	bí	_	_	V;IND;FUT	_	_	_	_
+10	Aiden	Aiden	_	_	PROPN;SG;MASC	_	_	_	_
+11	Coffey	Coffey	_	_	PROPN;MASC;GEN;SG	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	Jackie	Jackie	_	_	PROPN;SG;MASC	_	_	_	_
+14	Daly	Daly	_	_	PROPN;MASC;GEN;SG	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	Máire	Máire	_	_	PROPN;FEM;SG	_	_	_	_
+17	O	o	_	_	PART	_	_	_	_
+18	Keefe	Keefe	_	_	PROPN;MASC;GEN;SG	_	_	_	_
+19	,	,	_	_	_	_	_	_	_
+20	Séamus	Séamus	_	_	PROPN;SG;MASC	_	_	_	_
+21	Creagh	Creagh	_	_	PROPN;MASC;GEN;SG	_	_	_	_
+22	,	,	_	_	_	_	_	_	_
+23	Tony	Tony	_	_	PROPN;SG;MASC	_	_	_	_
+24	Linnane	Linnane	_	_	PROPN;MASC;GEN;SG	_	_	_	_
+25	,	,	_	_	_	_	_	_	_
+26	Breándán	breándán	_	_	PROPN;SG;MASC	_	_	_	_
+27	Ó	ó	_	_	PART	_	_	_	_
+28	Beaglaoich	Beaglaoich	_	_	PROPN;SG;MASC	_	_	_	_
+29	,	,	_	_	_	_	_	_	_
+30	Denis	Denis	_	_	PROPN;SG;MASC	_	_	_	_
+31	Doody	Doody	_	_	PROPN;MASC;GEN;SG	_	_	_	_
+32	,	,	_	_	_	_	_	_	_
+33	agus	agus	_	_	CONJ	_	_	_	_
+34	Eamonn	Eamonn	_	_	PROPN;SG;MASC	_	_	_	_
+35	Coyne	Coyne	_	_	PROPN;MASC;GEN;SG	_	_	_	_
+36	.	.	_	_	_	_	_	_	_
+
+# sent_id = 806
+# text = Fágann Mícheál na daltaí crom os cionn a gcuid foghlama.
+1	Fágann	fág	_	_	IND;PRS;V	_	_	_	_
+2	Mícheál	Mícheál	_	_	SG;PROPN;MASC	_	_	_	_
+3	na	na	_	_	PL;DEF;DET	_	_	_	_
+4	daltaí	dalta	_	_	MASC;N;PL	_	_	_	_
+5	crom	crom	_	_	ADJ	_	_	_	_
+6	os	os	_	_	ADP	_	_	_	_
+7	cionn	cionn	_	_	ADP	_	_	_	_
+8	a	a	_	_	PL;3;DET	_	_	_	_
+9	gcuid	cuid	_	_	SG;FEM;N	_	_	_	_
+10	foghlama	foghlaim	_	_	SG;FEM;N;GEN	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = 204
+# text = Fuair an chathair a raibh sí ina cónaí inti - Anaconda- a hainm ón nathair nimhe a bhí flúirseach timpeall an cheantair sin.
+1	Fuair	faigh	_	_	V;IND;PST	_	_	_	_
+2	an	an	_	_	DET;DEF;SG	_	_	_	_
+3	chathair	cathair	_	_	SG;N;DEF;FEM	_	_	_	_
+4	a	a	_	_	PART	_	_	_	_
+5	raibh	bí	_	_	V;IND;PST	_	_	_	_
+6	sí	sí	_	_	SG;PRO;FEM;3	_	_	_	_
+7	ina	i	_	_	SG;ADP;FEM;3	_	_	_	_
+8	cónaí	cónaí	_	_	N;NFIN	_	_	_	_
+9	inti	i	_	_	SG;3;FEM;ADP	_	_	_	_
+10	-	-	_	_	_	_	_	_	_
+11	Anaconda-	Anaconda-	_	_	PROPN;SG;MASC	_	_	_	_
+12	a	a	_	_	SG;FEM;DET;3	_	_	_	_
+13	hainm	ainm	_	_	SG;N;MASC	_	_	_	_
+14	ón	ó	_	_	SG;ADP	_	_	_	_
+15	nathair	nathair	_	_	SG;N;DEF;FEM	_	_	_	_
+16	nimhe	nimh	_	_	GEN;N;FEM;SG	_	_	_	_
+17	a	a	_	_	PART	_	_	_	_
+18	bhí	bí	_	_	V;IND;PST	_	_	_	_
+19	flúirseach	flúirseach	_	_	ADJ	_	_	_	_
+20	timpeall	timpeall	_	_	SG;N;MASC	_	_	_	_
+21	an	an	_	_	DET;DEF;SG	_	_	_	_
+22	cheantair	ceantar	_	_	SG;N;DEF;GEN;MASC	_	_	_	_
+23	sin	sin	_	_	DET	_	_	_	_
+24	.	.	_	_	_	_	_	_	_
+
+# sent_id = 238
+# text = (2) Faoi réir fho-alt (3) den alt seo, is iad a bheidh ar an mBuanchoiste Eolaíochta cibé líon comhaltaí is cuí leis an gCoimisiún agus féadfar daoine nach comhaltaí den Choimisiún a áireamh ar a chomhaltaí.
+1	(2)	(2)	_	_	_	_	_	_	_
+2	Faoi	faoi	_	_	ADP	_	_	_	_
+3	réir	réir	_	_	SG;N;FEM	_	_	_	_
+4	fho-alt	alt	_	_	PL;N;GEN;MASC	_	_	_	_
+5	(3)	(3)	_	_	_	_	_	_	_
+6	den	de	_	_	SG;ADP	_	_	_	_
+7	alt	alt	_	_	SG;N;MASC	_	_	_	_
+8	seo	seo	_	_	DET	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	is	is	_	_	PRS;V	_	_	_	_
+11	iad	iad	_	_	PL;PRO;3	_	_	_	_
+12	a	a	_	_	PART	_	_	_	_
+13	bheidh	bí	_	_	V;IND;FUT	_	_	_	_
+14	ar	ar	_	_	ADP	_	_	_	_
+15	an	an	_	_	DET;DEF;SG	_	_	_	_
+16	mBuanchoiste	buanchoiste	_	_	SG;N;MASC	_	_	_	_
+17	Eolaíochta	eolaíocht	_	_	GEN;N;FEM;SG	_	_	_	_
+18	cibé	cibé	_	_	DET	_	_	_	_
+19	líon	líon	_	_	SG;N;MASC	_	_	_	_
+20	comhaltaí	comhalta	_	_	PL;N;GEN;MASC	_	_	_	_
+21	is	is	_	_	PRS;V	_	_	_	_
+22	cuí	cuí	_	_	ADJ	_	_	_	_
+23	leis	le	_	_	ADP	_	_	_	_
+24	an	an	_	_	DET;DEF;SG	_	_	_	_
+25	gCoimisiún	gcoimisiún	_	_	SG;N;MASC	_	_	_	_
+26	agus	agus	_	_	CONJ	_	_	_	_
+27	féadfar	féad	_	_	V;IND;FUT	_	_	_	_
+28	daoine	duine	_	_	PL;N;MASC	_	_	_	_
+29	nach	is	_	_	NEG;PRS;V	_	_	_	_
+30	comhaltaí	comhalta	_	_	PL;N;MASC	_	_	_	_
+31	den	de	_	_	SG;ADP	_	_	_	_
+32	Choimisiún	choimisiún	_	_	SG;N;MASC	_	_	_	_
+33	a	a	_	_	PART	_	_	_	_
+34	áireamh	áireamh	_	_	N;NFIN	_	_	_	_
+35	ar	ar	_	_	ADP	_	_	_	_
+36	a	a	_	_	SG;DET;MASC;3	_	_	_	_
+37	chomhaltaí	comhalta	_	_	PL;N;MASC	_	_	_	_
+38	.	.	_	_	_	_	_	_	_
+
+# sent_id = 39
+# text = D'éirigh sé as an Dublin and Banagher Distillery agus chuaigh sé ag obair ar fad leis an nGaeilge.
+1	D'	do	_	_	PART	_	_	_	_
+2	éirigh	éirigh	_	_	V;IND;PST	_	_	_	_
+3	sé	sé	_	_	SG;PRO;3;MASC	_	_	_	_
+4	as	as	_	_	ADP	_	_	_	_
+5	an	an	_	_	DET;DEF;SG	_	_	_	_
+6	Dublin	Dublin	_	_	PROPN	_	_	_	_
+7	and	and	_	_	SG;N;MASC	_	_	_	_
+8	Banagher	Banagher	_	_	PROPN	_	_	_	_
+9	Distillery	Distillery	_	_	PROPN;SG;MASC	_	_	_	_
+10	agus	agus	_	_	CONJ	_	_	_	_
+11	chuaigh	téigh	_	_	V;IND;PST	_	_	_	_
+12	sé	sé	_	_	SG;PRO;3;MASC	_	_	_	_
+13	ag	ag	_	_	ADP	_	_	_	_
+14	obair	obair	_	_	N;V.MSDR	_	_	_	_
+15	ar	ar	_	_	ADP	_	_	_	_
+16	fad	fad	_	_	SG;N;MASC	_	_	_	_
+17	leis	le	_	_	ADP	_	_	_	_
+18	an	an	_	_	DET;DEF;SG	_	_	_	_
+19	nGaeilge	Gaeilge	_	_	PROPN;SG;FEM	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# sent_id = 286
+# text = Seachtain níos déanaí áfach léirigh John a dhiongbháilteacht nuair a rith sé sa 5,000 m - tháinig sé sa cheathrú háit ina dhreas, agus sa cheathrú háit sa rás leathcheannais inar rith sé na 400 m deiridh i 55 soic.
+1	Seachtain	seachtain	_	_	SG;N;FEM	_	_	_	_
+2	níos	níos	_	_	SG;N	_	_	_	_
+3	déanaí	déanach	_	_	ADJ;{CMPR/RL}	_	_	_	_
+4	áfach	áfach	_	_	ADV	_	_	_	_
+5	léirigh	léirigh	_	_	V;IND;PST	_	_	_	_
+6	John	John	_	_	PROPN;SG;MASC	_	_	_	_
+7	a	a	_	_	SG;DET;MASC;3	_	_	_	_
+8	dhiongbháilteacht	dhiongbháilteacht	_	_	SG;N;FEM	_	_	_	_
+9	nuair	nuair	_	_	CONJ	_	_	_	_
+10	a	a	_	_	PART	_	_	_	_
+11	rith	rith	_	_	V;IND;PST	_	_	_	_
+12	sé	sé	_	_	SG;PRO;3;MASC	_	_	_	_
+13	sa	i	_	_	SG;ADP	_	_	_	_
+14	5,000	5,000	_	_	NUM	_	_	_	_
+15	m	m	_	_	_	_	_	_	_
+16	-	-	_	_	_	_	_	_	_
+17	tháinig	tar	_	_	V;IND;PST	_	_	_	_
+18	sé	sé	_	_	SG;PRO;3;MASC	_	_	_	_
+19	sa	i	_	_	SG;ADP	_	_	_	_
+20	cheathrú	ceathair	_	_	NUM	_	_	_	_
+21	háit	áit	_	_	SG;N;FEM	_	_	_	_
+22	ina	i	_	_	SG;ADP;MASC;3	_	_	_	_
+23	dhreas	dreas	_	_	SG;N;MASC	_	_	_	_
+24	,	,	_	_	_	_	_	_	_
+25	agus	agus	_	_	CONJ	_	_	_	_
+26	sa	i	_	_	SG;ADP	_	_	_	_
+27	cheathrú	ceathair	_	_	NUM	_	_	_	_
+28	háit	áit	_	_	SG;N;FEM	_	_	_	_
+29	sa	i	_	_	SG;ADP	_	_	_	_
+30	rás	rás	_	_	SG;N;DEF;MASC	_	_	_	_
+31	leathcheannais	ceannas	_	_	GEN;N;SG;MASC	_	_	_	_
+32	inar	i	_	_	PART	_	_	_	_
+33	rith	rith	_	_	V;IND;PST	_	_	_	_
+34	sé	sé	_	_	SG;PRO;3;MASC	_	_	_	_
+35	na	na	_	_	DET;DEF;PL	_	_	_	_
+36	400	400	_	_	NUM	_	_	_	_
+37	m	m	_	_	_	_	_	_	_
+38	deiridh	deireadh	_	_	GEN;N;SG;MASC	_	_	_	_
+39	i	i	_	_	ADP	_	_	_	_
+40	55	55	_	_	NUM	_	_	_	_
+41	soic	soc	_	_	PL;N;MASC	_	_	_	_
+42	.	.	_	_	_	_	_	_	_
+
+# sent_id = 631
+# text = Ach níor fhéach mé lena dhochar a dhéanamh sa Fhrainc in am ar bith.
+1	Ach	ach	_	_	CONJ	_	_	_	_
+2	níor	níor	_	_	PART;PST;NEG	_	_	_	_
+3	fhéach	féach	_	_	IND;NEG;PST;V	_	_	_	_
+4	mé	mé	_	_	SG;1;PRO	_	_	_	_
+5	lena	le	_	_	SG;3;ADP;MASC	_	_	_	_
+6	dhochar	dochar	_	_	N;SG;MASC	_	_	_	_
+7	a	a	_	_	PART	_	_	_	_
+8	dhéanamh	déanamh	_	_	NFIN;N	_	_	_	_
+9	sa	i	_	_	ADP;SG	_	_	_	_
+10	Fhrainc	Frainc	_	_	PROPN;SG;FEM	_	_	_	_
+11	in	i	_	_	ADP	_	_	_	_
+12	am	am	_	_	MASC;SG;N	_	_	_	_
+13	ar	ar	_	_	ADP	_	_	_	_
+14	bith	bith	_	_	SG;N	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = 11
+# text = Plunket Greene.
+1	Plunket	Plunket	_	_	PROPN;SG;MASC	_	_	_	_
+2	Greene	Greene	_	_	PROPN;SG;MASC	_	_	_	_
+3	.	.	_	_	_	_	_	_	_
+
+# sent_id = 478
+# text = Tugadh thart ar phríomhfhoirgneamh poiblí an Ionaid muid agus thug Ihab, lena chuid Araibise blasta (agus Pól as Gaeilge) cuntas dúinn ar bhunú an ionaid i gCluain Sceach, an méid áiseanna éagsúla atá ar fáil ann (ionad spóirt, scoil náisiúnta, bialann, siopa, srl.).
+1	Tugadh	tabhair	_	_	IND;PST;V	_	_	_	_
+2	thart	thart	_	_	ADV	_	_	_	_
+3	ar	ar	_	_	ADP	_	_	_	_
+4	phríomhfhoirgneamh	foirgneamh	_	_	N;SG;MASC	_	_	_	_
+5	poiblí	poiblí	_	_	ADJ	_	_	_	_
+6	an	an	_	_	SG;DEF;DET	_	_	_	_
+7	Ionaid	ionad	_	_	DEF;N;SG;MASC;GEN	_	_	_	_
+8	muid	muid	_	_	1;PRO;PL	_	_	_	_
+9	agus	agus	_	_	CONJ	_	_	_	_
+10	thug	tabhair	_	_	IND;PST;V	_	_	_	_
+11	Ihab	Ihab	_	_	SG;PROPN;MASC	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	lena	le	_	_	SG;3;ADP;MASC	_	_	_	_
+14	chuid	cuid	_	_	SG;FEM;N	_	_	_	_
+15	Araibise	Araibise	_	_	SG;PROPN;MASC;GEN	_	_	_	_
+16	blasta	blasta	_	_	ADJ	_	_	_	_
+17	(	(	_	_	_	_	_	_	_
+18	agus	agus	_	_	CONJ	_	_	_	_
+19	Pól	Pól	_	_	SG;PROPN;MASC	_	_	_	_
+20	as	as	_	_	ADP	_	_	_	_
+21	Gaeilge	Gaeilge	_	_	SG;FEM;PROPN	_	_	_	_
+22	)	)	_	_	_	_	_	_	_
+23	cuntas	cuntas	_	_	MASC;SG;N	_	_	_	_
+24	dúinn	do	_	_	ADP;1;PL	_	_	_	_
+25	ar	ar	_	_	ADP	_	_	_	_
+26	bhunú	bunú	_	_	NFIN;N	_	_	_	_
+27	an	an	_	_	SG;DEF;DET	_	_	_	_
+28	ionaid	ionad	_	_	DEF;N;SG;MASC;GEN	_	_	_	_
+29	i	i	_	_	ADP	_	_	_	_
+30	gCluain	cluain	_	_	SG;FEM;N	_	_	_	_
+31	Sceach	sceach	_	_	FEM;PL;N;GEN	_	_	_	_
+32	,	,	_	_	_	_	_	_	_
+33	an	an	_	_	SG;DEF;DET	_	_	_	_
+34	méid	méid	_	_	DEF;N;SG;MASC	_	_	_	_
+35	áiseanna	áis	_	_	FEM;PL;N;GEN	_	_	_	_
+36	éagsúla	éagsúil	_	_	PL;ADJ;GEN	_	_	_	_
+37	atá	bí	_	_	IND;PRS;V	_	_	_	_
+38	ar	ar	_	_	ADP	_	_	_	_
+39	fáil	fáil	_	_	NFIN;N	_	_	_	_
+40	ann	i	_	_	ADP;SG;3;MASC	_	_	_	_
+41	(	(	_	_	_	_	_	_	_
+42	ionad	ionad	_	_	MASC;SG;N	_	_	_	_
+43	spóirt	spórt	_	_	MASC;SG;N;GEN	_	_	_	_
+44	,	,	_	_	_	_	_	_	_
+45	scoil	scoil	_	_	SG;FEM;N	_	_	_	_
+46	náisiúnta	náisiúnta	_	_	ADJ	_	_	_	_
+47	,	,	_	_	_	_	_	_	_
+48	bialann	bialann	_	_	SG;FEM;N	_	_	_	_
+49	,	,	_	_	_	_	_	_	_
+50	siopa	siopa	_	_	MASC;SG;N	_	_	_	_
+51	,	,	_	_	_	_	_	_	_
+52	srl.	srl.	_	_	_	_	_	_	_
+53	)	)	_	_	_	_	_	_	_
+54	.	.	_	_	_	_	_	_	_
+
+# sent_id = 215
+# text = AN DARA BUACHAILL BÁN: An fhírinne choíche, deirim, an fhírinne choíche.
+1	AN	an	_	_	DET;DEF;SG	_	_	_	_
+2	DARA	dara	_	_	NUM	_	_	_	_
+3	BUACHAILL	buachaill	_	_	SG;N;DEF;MASC	_	_	_	_
+4	BÁN	bán	_	_	SG;ADJ;MASC	_	_	_	_
+5	:	:	_	_	_	_	_	_	_
+6	An	an	_	_	DET;DEF;SG	_	_	_	_
+7	fhírinne	fírinne	_	_	SG;N;FEM	_	_	_	_
+8	choíche	choíche	_	_	ADV	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	deirim	abair	_	_	V;SG;1;IND;PRS	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	an	an	_	_	DET;DEF;SG	_	_	_	_
+13	fhírinne	fírinne	_	_	SG;N	_	_	_	_
+14	choíche	choíche	_	_	ADV	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = 944
+# text = Ní raibh inti ach cúpla focal á rá go raibh sé ar tí bogadh ó Chaisleán Dracula.
+1	Ní	ní	_	_	PART;NEG	_	_	_	_
+2	raibh	bí	_	_	IND;NEG;PST;V	_	_	_	_
+3	inti	i	_	_	ADP;SG;FEM;3	_	_	_	_
+4	ach	ach	_	_	CONJ	_	_	_	_
+5	cúpla	cúpla	_	_	MASC;SG;N	_	_	_	_
+6	focal	focal	_	_	N;PL;MASC;GEN	_	_	_	_
+7	á	do	_	_	SG;3;FEM;ADP	_	_	_	_
+8	rá	rá	_	_	NFIN;N	_	_	_	_
+9	go	go	_	_	PART	_	_	_	_
+10	raibh	bí	_	_	IND;V;PST	_	_	_	_
+11	sé	sé	_	_	MASC;SG;3;PRO	_	_	_	_
+12	ar	ar	_	_	ADP	_	_	_	_
+13	tí	tí	_	_	SG;FEM;N	_	_	_	_
+14	bogadh	bogadh	_	_	NFIN;N	_	_	_	_
+15	ó	ó	_	_	ADP	_	_	_	_
+16	Chaisleán	caisleán	_	_	N;SG;MASC	_	_	_	_
+17	Dracula	Dracula	_	_	SG;PROPN;MASC	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = 306
+# text = B'fhearr leis go mbeadh dorchadas fionnuar ann a choinneodh faoi cheilt é nó bhí eagla air go bhfeicfeadh sé trua ar aghaidh duine éigin.
+1	B'	is	_	_	PST;V	_	_	_	_
+2	fhearr	maith	_	_	ADJ;{CMPR/RL}	_	_	_	_
+3	leis	le	_	_	SG;3;ADP;MASC	_	_	_	_
+4	go	go	_	_	PART	_	_	_	_
+5	mbeadh	bí	_	_	V;COND	_	_	_	_
+6	dorchadas	dorchadas	_	_	SG;N;MASC	_	_	_	_
+7	fionnuar	fionnuar	_	_	SG;ADJ;MASC	_	_	_	_
+8	ann	i	_	_	SG;3;ADP;MASC	_	_	_	_
+9	a	a	_	_	PART	_	_	_	_
+10	choinneodh	coinnigh	_	_	V;COND	_	_	_	_
+11	faoi	faoi	_	_	ADP	_	_	_	_
+12	cheilt	ceilt	_	_	SG;N;FEM	_	_	_	_
+13	é	é	_	_	SG;PRO;3;MASC	_	_	_	_
+14	nó	nó	_	_	CONJ	_	_	_	_
+15	bhí	bí	_	_	V;IND;PST	_	_	_	_
+16	eagla	eagla	_	_	SG;N;FEM	_	_	_	_
+17	air	ar	_	_	SG;3;ADP;MASC	_	_	_	_
+18	go	go	_	_	PART	_	_	_	_
+19	bhfeicfeadh	feic	_	_	V;COND	_	_	_	_
+20	sé	sé	_	_	SG;PRO;3;MASC	_	_	_	_
+21	trua	trua	_	_	SG;N;FEM	_	_	_	_
+22	ar	ar	_	_	ADP	_	_	_	_
+23	aghaidh	aghaidh	_	_	SG;N;FEM	_	_	_	_
+24	duine	duine	_	_	SG;N;MASC	_	_	_	_
+25	éigin	éigin	_	_	SG;ADJ;MASC	_	_	_	_
+26	.	.	_	_	_	_	_	_	_
+
+# sent_id = 267
+# text = A Phádraig Uí Chaiticín beirim an sbhae duit Ar a bhfaca mé féin de bhádóirín fóill Le féile, le hoineach, le tuiscint is le méin mhaith Is ní fhaca mé féin do shárú go fóill.
+1	A	a	_	_	PART	_	_	_	_
+2	Phádraig	Pádraig	_	_	PROPN;MASC;VOC	_	_	_	_
+3	Uí	uí	_	_	PART	_	_	_	_
+4	Chaiticín	chaiticín	_	_	SG;N;MASC	_	_	_	_
+5	beirim	beir	_	_	V;SG;1;IND;PRS	_	_	_	_
+6	an	an	_	_	DET;DEF;SG	_	_	_	_
+7	sbhae	svae	_	_	SG;N;MASC	_	_	_	_
+8	duit	do	_	_	SG;2;ADP	_	_	_	_
+9	Ar	ar	_	_	ADP	_	_	_	_
+10	a	a	_	_	PART	_	_	_	_
+11	bhfaca	feic	_	_	V;IND;PST	_	_	_	_
+12	mé	mé	_	_	SG;PRO;1	_	_	_	_
+13	féin	féin	_	_	PRO;REFL	_	_	_	_
+14	de	de	_	_	ADP	_	_	_	_
+15	bhádóirín	bádóir	_	_	SG;N;MASC	_	_	_	_
+16	fóill	fóill	_	_	ADJ	_	_	_	_
+17	Le	le	_	_	ADP	_	_	_	_
+18	féile	féile	_	_	SG;N;FEM	_	_	_	_
+19	,	,	_	_	_	_	_	_	_
+20	le	le	_	_	ADP	_	_	_	_
+21	hoineach	oineach	_	_	SG;N;MASC	_	_	_	_
+22	,	,	_	_	_	_	_	_	_
+23	le	le	_	_	ADP	_	_	_	_
+24	tuiscint	tuiscint	_	_	SG;N;FEM	_	_	_	_
+25	is	agus	_	_	CONJ	_	_	_	_
+26	le	le	_	_	ADP	_	_	_	_
+27	méin	méin	_	_	SG;N;FEM	_	_	_	_
+28	mhaith	maith	_	_	SG;ADJ;FEM	_	_	_	_
+29	Is	agus	_	_	CONJ	_	_	_	_
+30	ní	ní	_	_	NEG;PART	_	_	_	_
+31	fhaca	feic	_	_	V;NEG;IND;PST	_	_	_	_
+32	mé	mé	_	_	SG;PRO;1	_	_	_	_
+33	féin	féin	_	_	PRO;REFL	_	_	_	_
+34	do	do	_	_	DET;SG;2	_	_	_	_
+35	shárú	sárú	_	_	SG;N;MASC	_	_	_	_
+36	go	go	_	_	PART	_	_	_	_
+37	fóill	fóill	_	_	ADJ	_	_	_	_
+38	.	.	_	_	_	_	_	_	_
+
+# sent_id = 436
+# text = 'Conas ab fhéidir liom sin a dhéanamh?
+1	'	'	_	_	_	_	_	_	_
+2	Conas	conas	_	_	ADV	_	_	_	_
+3	ab	is	_	_	PST;V	_	_	_	_
+4	fhéidir	féidir	_	_	SG;N	_	_	_	_
+5	liom	le	_	_	SG;1;ADP	_	_	_	_
+6	sin	sin	_	_	PRO	_	_	_	_
+7	a	a	_	_	PART	_	_	_	_
+8	dhéanamh	déanamh	_	_	N;NFIN	_	_	_	_
+9	?	?	_	_	_	_	_	_	_
+
+# sent_id = 489
+# text = Ar fhágaint slán agus beannacht age cé na Coise an tráthnóna aoibhinn caithiseach Domhnaigh seo dhúinn, agus agena a raibh do dhaoine ina seasamh ann, cé go raibh cuid mhaith ann san am gcéanna, ní raibh cuma na hainnise ná na bochtanacht ar aon duine acu, rud ná beadh im chumas do rá leo anois dá mbeinn ann, comh fada lem thuairim.
+1	Ar	ar	_	_	ADP	_	_	_	_
+2	fhágaint	fágáil	_	_	NFIN;N	_	_	_	_
+3	slán	slán	_	_	MASC;SG;N	_	_	_	_
+4	agus	agus	_	_	CONJ	_	_	_	_
+5	beannacht	beannacht	_	_	SG;FEM;N	_	_	_	_
+6	age	ag	_	_	_	_	_	_	_
+7	cé	cé	_	_	SG;FEM;N	_	_	_	_
+8	na	na	_	_	DEF;SG;FEM;DET;GEN	_	_	_	_
+9	Coise	Coise	_	_	SG;PROPN;MASC;GEN	_	_	_	_
+10	an	an	_	_	SG;DEF;DET	_	_	_	_
+11	tráthnóna	tráthnóna	_	_	DEF;N;SG;MASC	_	_	_	_
+12	aoibhinn	aoibhinn	_	_	SG;ADJ;MASC	_	_	_	_
+13	caithiseach	caithiseach	_	_	SG;ADJ;MASC	_	_	_	_
+14	Domhnaigh	Domhnach	_	_	MASC;SG;N;GEN	_	_	_	_
+15	seo	seo	_	_	DET	_	_	_	_
+16	dhúinn	do	_	_	ADP;1;PL	_	_	_	_
+17	,	,	_	_	_	_	_	_	_
+18	agus	agus	_	_	CONJ	_	_	_	_
+19	agena	ag	_	_	ADP;1;PL	_	_	_	_
+20	a	a	_	_	PART	_	_	_	_
+21	raibh	bí	_	_	IND;V;PST	_	_	_	_
+22	do	do	_	_	ADP	_	_	_	_
+23	dhaoine	duine	_	_	N;PL;MASC	_	_	_	_
+24	ina	i	_	_	ADP;3;PL	_	_	_	_
+25	seasamh	seasamh	_	_	NFIN;N	_	_	_	_
+26	ann	i	_	_	ADP;SG;3;MASC	_	_	_	_
+27	,	,	_	_	_	_	_	_	_
+28	cé	cé	_	_	CONJ	_	_	_	_
+29	go	go	_	_	PART	_	_	_	_
+30	raibh	bí	_	_	IND;V;PST	_	_	_	_
+31	cuid	cuid	_	_	SG;FEM;N	_	_	_	_
+32	mhaith	maith	_	_	SG;FEM;ADJ	_	_	_	_
+33	ann	i	_	_	ADP;SG;3;MASC	_	_	_	_
+34	san	i	_	_	ADP;SG	_	_	_	_
+35	am	am	_	_	MASC;SG;N	_	_	_	_
+36	gcéanna	céanna	_	_	ADJ	_	_	_	_
+37	,	,	_	_	_	_	_	_	_
+38	ní	ní	_	_	PART;NEG	_	_	_	_
+39	raibh	bí	_	_	IND;NEG;PST;V	_	_	_	_
+40	cuma	cuma	_	_	SG;FEM;N	_	_	_	_
+41	na	na	_	_	DEF;SG;FEM;DET;GEN	_	_	_	_
+42	hainnise	ainnise	_	_	DEF;SG;FEM;N;GEN	_	_	_	_
+43	ná	ná	_	_	CONJ	_	_	_	_
+44	na	na	_	_	DEF;SG;FEM;DET;GEN	_	_	_	_
+45	bochtanacht	bochtanacht	_	_	SG;FEM;N;GEN	_	_	_	_
+46	ar	ar	_	_	ADP	_	_	_	_
+47	aon	aon	_	_	DET	_	_	_	_
+48	duine	duine	_	_	MASC;SG;N	_	_	_	_
+49	acu	ag	_	_	ADP;3;PL	_	_	_	_
+50	,	,	_	_	_	_	_	_	_
+51	rud	rud	_	_	MASC;SG;N	_	_	_	_
+52	ná	ná	_	_	PART;IMP	_	_	_	_
+53	beadh	bí	_	_	COND;V	_	_	_	_
+54	im	i_mo	_	_	ADP;SG;1	_	_	_	_
+55	chumas	cumas	_	_	N;SG;MASC	_	_	_	_
+56	do	do	_	_	ADP	_	_	_	_
+57	rá	rá	_	_	NFIN;N	_	_	_	_
+58	leo	le	_	_	ADP;3;PL	_	_	_	_
+59	anois	anois	_	_	ADV	_	_	_	_
+60	dá	dá	_	_	CONJ	_	_	_	_
+61	mbeinn	bí	_	_	1;SG;V;COND	_	_	_	_
+62	ann	i	_	_	ADP;SG;3;MASC	_	_	_	_
+63	,	,	_	_	_	_	_	_	_
+64	comh	chomh	_	_	ADV	_	_	_	_
+65	fada	fada	_	_	ADJ	_	_	_	_
+66	lem	le_mo	_	_	ADP;SG;1	_	_	_	_
+67	thuairim	tuairim	_	_	SG;FEM;N	_	_	_	_
+68	.	.	_	_	_	_	_	_	_
+
+# sent_id = 353
+# text = Ach cluinfidh tú.
+1	Ach	ach	_	_	CONJ	_	_	_	_
+2	cluinfidh	cluin	_	_	V;IND;FUT	_	_	_	_
+3	tú	tú	_	_	SG;PRO;2	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = 406
+# text = 'Nuair a bhí sin déanta tháinig oibrithe ón taobhlach i gcabhair uirthi.
+1	'	'	_	_	_	_	_	_	_
+2	Nuair	nuair	_	_	CONJ	_	_	_	_
+3	a	a	_	_	PART	_	_	_	_
+4	bhí	bí	_	_	V;IND;PST	_	_	_	_
+5	sin	sin	_	_	PRO	_	_	_	_
+6	déanta	déanta	_	_	ADJ;V.PTCP	_	_	_	_
+7	tháinig	tar	_	_	V;IND;PST	_	_	_	_
+8	oibrithe	oibriú	_	_	PL;N;MASC	_	_	_	_
+9	ón	ó	_	_	SG;ADP	_	_	_	_
+10	taobhlach	taobhlach	_	_	SG;N;MASC	_	_	_	_
+11	i	i	_	_	ADP	_	_	_	_
+12	gcabhair	cabhair	_	_	SG;N;FEM	_	_	_	_
+13	uirthi	ar	_	_	SG;3;FEM;ADP	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = 151
+# text = Níor cúisíodh duine ar bith ina mharú.
+1	Níor	níor	_	_	NEG;PART;PST	_	_	_	_
+2	cúisíodh	cúisigh	_	_	V;IND;PST	_	_	_	_
+3	duine	duine	_	_	SG;N;MASC	_	_	_	_
+4	ar	ar	_	_	ADP	_	_	_	_
+5	bith	bith	_	_	SG;N	_	_	_	_
+6	ina	i	_	_	SG;ADP;MASC;3	_	_	_	_
+7	mharú	marú	_	_	N;NFIN	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = 382
+# text = Is contúirt, áfach, an iomarca muiníne a chur i bpobalbhreith.
+1	Is	is	_	_	PRS;V	_	_	_	_
+2	contúirt	contúirt	_	_	SG;N;FEM	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	áfach	áfach	_	_	ADV	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	an	an	_	_	DET;DEF;SG	_	_	_	_
+7	iomarca	iomarca	_	_	SG;N;DEF;FEM	_	_	_	_
+8	muiníne	muinín	_	_	GEN;N;FEM;SG	_	_	_	_
+9	a	a	_	_	PART	_	_	_	_
+10	chur	cur	_	_	N;NFIN	_	_	_	_
+11	i	i	_	_	ADP	_	_	_	_
+12	bpobalbhreith	pobalbhreith	_	_	SG;N;FEM	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = 516
+# text = An tseachtain seo caite phléigh muid domhan saibhir an iarnua-aimsearachais mar mhodh machnaimh agus thug muid faoi deara: imní faoin taobh 'dorcha' den réasúnachas nua-aimseartha; agus spéis i ndíthógáil na gcoincheapa nua-aimseartha a bhfuil cuma chomh socair orthu ar nós 'normáltacht' agus 'féiniúlacht'.
+1	An	an	_	_	SG;DEF;DET	_	_	_	_
+2	tseachtain	seachtain	_	_	DEF;SG;FEM;N	_	_	_	_
+3	seo	seo	_	_	DET	_	_	_	_
+4	caite	caite	_	_	ADJ;V.PTCP	_	_	_	_
+5	phléigh	pléigh	_	_	IND;PST;V	_	_	_	_
+6	muid	muid	_	_	1;PRO;PL	_	_	_	_
+7	domhan	domhan	_	_	MASC;SG;N	_	_	_	_
+8	saibhir	saibhir	_	_	SG;ADJ;MASC	_	_	_	_
+9	an	an	_	_	SG;DEF;DET	_	_	_	_
+10	iarnua-aimsearachais	iarnua-aimsearachais	_	_	MASC;SG;N	_	_	_	_
+11	mar	mar	_	_	ADP	_	_	_	_
+12	mhodh	modh	_	_	N;SG;MASC	_	_	_	_
+13	machnaimh	machnamh	_	_	MASC;SG;N;GEN	_	_	_	_
+14	agus	agus	_	_	CONJ	_	_	_	_
+15	thug	tabhair	_	_	IND;PST;V	_	_	_	_
+16	muid	muid	_	_	1;PRO;PL	_	_	_	_
+17	faoi	faoi	_	_	ADP	_	_	_	_
+18	deara	deara	_	_	SG;N	_	_	_	_
+19	:	:	_	_	_	_	_	_	_
+20	imní	imní	_	_	SG;FEM;N	_	_	_	_
+21	faoin	faoi	_	_	ADP;SG	_	_	_	_
+22	taobh	taobh	_	_	DEF;N;SG;MASC	_	_	_	_
+23	'	'	_	_	_	_	_	_	_
+24	dorcha	dorcha	_	_	ADJ	_	_	_	_
+25	'	'	_	_	_	_	_	_	_
+26	den	de	_	_	ADP;SG	_	_	_	_
+27	réasúnachas	réasúnachas	_	_	MASC;SG;N	_	_	_	_
+28	nua-aimseartha	nua-aimseartha	_	_	ADJ	_	_	_	_
+29	;	;	_	_	_	_	_	_	_
+30	agus	agus	_	_	CONJ	_	_	_	_
+31	spéis	spéis	_	_	DEF;SG;FEM;N	_	_	_	_
+32	i	i	_	_	ADP	_	_	_	_
+33	ndíthógáil	tógáil	_	_	SG;FEM;N	_	_	_	_
+34	na	na	_	_	DEF;SG;FEM;DET;GEN	_	_	_	_
+35	gcoincheapa	coincheap	_	_	N;SG;MASC;GEN	_	_	_	_
+36	nua-aimseartha	nua-aimseartha	_	_	ADJ	_	_	_	_
+37	a	a	_	_	PART	_	_	_	_
+38	bhfuil	bí	_	_	IND;PRS;V	_	_	_	_
+39	cuma	cuma	_	_	SG;FEM;N	_	_	_	_
+40	chomh	chomh	_	_	ADV	_	_	_	_
+41	socair	socair	_	_	ADJ	_	_	_	_
+42	orthu	ar	_	_	ADP;3;PL	_	_	_	_
+43	ar	ar	_	_	ADP	_	_	_	_
+44	nós	nós	_	_	ADP	_	_	_	_
+45	'	'	_	_	_	_	_	_	_
+46	normáltacht	normáltacht	_	_	SG;FEM;N	_	_	_	_
+47	'	'	_	_	_	_	_	_	_
+48	agus	agus	_	_	CONJ	_	_	_	_
+49	'	'	_	_	_	_	_	_	_
+50	féiniúlacht	féiniúlacht	_	_	SG;FEM;N	_	_	_	_
+51	'	'	_	_	_	_	_	_	_
+52	.	.	_	_	_	_	_	_	_
+
+# sent_id = 217
+# text = Seo an fear a d'ionsaigh iad.
+1	Seo	seo	_	_	V	_	_	_	_
+2	an	an	_	_	DET;DEF;SG	_	_	_	_
+3	fear	fear	_	_	SG;N;DEF;MASC	_	_	_	_
+4	a	a	_	_	PART	_	_	_	_
+5	d'	do	_	_	PART	_	_	_	_
+6	ionsaigh	ionsaigh	_	_	V;IND;PST	_	_	_	_
+7	iad	iad	_	_	PL;PRO;3	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = 297
+# text = Bíodh toirt in do phóca nó beidh snaidhm ar na snaidhm ar na putógaí.
+1	Bíodh	bí	_	_	SG;V;IMP;3	_	_	_	_
+2	toirt	toirt	_	_	SG;N;FEM	_	_	_	_
+3	in	i	_	_	ADP	_	_	_	_
+4	do	do	_	_	DET;SG;2	_	_	_	_
+5	phóca	póca	_	_	SG;N;MASC	_	_	_	_
+6	nó	nó	_	_	CONJ	_	_	_	_
+7	beidh	bí	_	_	V;IND;FUT	_	_	_	_
+8	snaidhm	snaidhm	_	_	SG;N;FEM	_	_	_	_
+9	ar	ar	_	_	ADP	_	_	_	_
+10	na	na	_	_	DET;DEF;PL	_	_	_	_
+11	snaidhm	snaidhm	_	_	SG;N;FEM	_	_	_	_
+12	ar	ar	_	_	ADP	_	_	_	_
+13	na	na	_	_	DET;DEF;PL	_	_	_	_
+14	putógaí	putógaí	_	_	PL;N;FEM	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = 733
+# text = Tá taibhsí fear agus ban ann, tá an Bás ina phearsa, agus léirítear an choimhlint in aigne cheannfort na stailce trí úsáid an chóir.
+1	Tá	bí	_	_	IND;PRS;V	_	_	_	_
+2	taibhsí	taibhse	_	_	FEM;N;PL	_	_	_	_
+3	fear	fear	_	_	N;PL;MASC;GEN	_	_	_	_
+4	agus	agus	_	_	CONJ	_	_	_	_
+5	ban	bean	_	_	FEM;PL;N;GEN	_	_	_	_
+6	ann	i	_	_	ADP;SG;3;MASC	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	tá	bí	_	_	IND;PRS;V	_	_	_	_
+9	an	an	_	_	SG;DEF;DET	_	_	_	_
+10	Bás	bás	_	_	DEF;N;SG;MASC	_	_	_	_
+11	ina	i	_	_	ADP	_	_	_	_
+12	phearsa	pearsa	_	_	SG;FEM;N	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	agus	agus	_	_	CONJ	_	_	_	_
+15	léirítear	léirigh	_	_	IND;PRS;V	_	_	_	_
+16	an	an	_	_	SG;DEF;DET	_	_	_	_
+17	choimhlint	coimhlint	_	_	DEF;SG;FEM;N	_	_	_	_
+18	in	i	_	_	ADP	_	_	_	_
+19	aigne	aigne	_	_	SG;FEM;N	_	_	_	_
+20	cheannfort	ceannfort	_	_	N;PL;MASC;GEN	_	_	_	_
+21	na	na	_	_	DEF;SG;FEM;DET;GEN	_	_	_	_
+22	stailce	stailc	_	_	SG;FEM;N;GEN	_	_	_	_
+23	trí	trí	_	_	ADP	_	_	_	_
+24	úsáid	úsáid	_	_	NFIN;N	_	_	_	_
+25	an	an	_	_	SG;DEF;DET	_	_	_	_
+26	chóir	cóir	_	_	DEF;SG;FEM;N	_	_	_	_
+27	.	.	_	_	_	_	_	_	_
+
+# sent_id = 587
+# text = Nach bhfuil carr an duine acu.
+1	Nach	nach	_	_	PART;NEG	_	_	_	_
+2	bhfuil	bí	_	_	IND;NEG;PRS;V	_	_	_	_
+3	carr	carr	_	_	MASC;SG;N	_	_	_	_
+4	an	an	_	_	SG;DEF;DET	_	_	_	_
+5	duine	duine	_	_	MASC;SG;N;GEN	_	_	_	_
+6	acu	ag	_	_	ADP;3;PL	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = 51
+# text = Níor leasc leis siúd, áfach, a mheon cathrach sofaisticiúil féin a chur in iúl trí leas a bhaint as an traidisiún fileata is mó a sheachain filí maithe eile, traidisiún an 18ú céad.
+1	Níor	is	_	_	NEG;V;PST	_	_	_	_
+2	leasc	leasc	_	_	ADJ	_	_	_	_
+3	leis	le	_	_	SG;3;ADP;MASC	_	_	_	_
+4	siúd	siúd	_	_	PRO	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	áfach	áfach	_	_	ADV	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	a	a	_	_	SG;DET;MASC;3	_	_	_	_
+9	mheon	meon	_	_	SG;N;MASC	_	_	_	_
+10	cathrach	cathair	_	_	GEN;N;FEM;SG	_	_	_	_
+11	sofaisticiúil	sofaisticiúil	_	_	ADJ	_	_	_	_
+12	féin	féin	_	_	PRO;REFL	_	_	_	_
+13	a	a	_	_	PART	_	_	_	_
+14	chur	cur	_	_	N;NFIN	_	_	_	_
+15	in	i	_	_	ADP	_	_	_	_
+16	iúl	iúl	_	_	SG;N;MASC	_	_	_	_
+17	trí	trí	_	_	ADP	_	_	_	_
+18	leas	leas	_	_	SG;N;MASC	_	_	_	_
+19	a	a	_	_	PART	_	_	_	_
+20	bhaint	baint	_	_	N;NFIN	_	_	_	_
+21	as	as	_	_	ADP	_	_	_	_
+22	an	an	_	_	DET;DEF;SG	_	_	_	_
+23	traidisiún	traidisiún	_	_	SG;N;DEF;MASC	_	_	_	_
+24	fileata	fileata	_	_	ADJ	_	_	_	_
+25	is	is	_	_	PART	_	_	_	_
+26	mó	mór	_	_	ADJ;{CMPR/RL}	_	_	_	_
+27	a	a	_	_	PART	_	_	_	_
+28	sheachain	seachain	_	_	V;IND;PST	_	_	_	_
+29	filí	file	_	_	PL;N;MASC	_	_	_	_
+30	maithe	maith	_	_	PL;ADJ	_	_	_	_
+31	eile	eile	_	_	DET	_	_	_	_
+32	,	,	_	_	_	_	_	_	_
+33	traidisiún	traidisiún	_	_	SG;N;MASC	_	_	_	_
+34	an	an	_	_	DET;DEF;SG	_	_	_	_
+35	18ú	18	_	_	NUM	_	_	_	_
+36	céad	céad	_	_	N	_	_	_	_
+37	.	.	_	_	_	_	_	_	_
+
+# sent_id = 840
+# text = Tá an leabhar léite agam.
+1	Tá	bí	_	_	IND;PRS;V	_	_	_	_
+2	an	an	_	_	SG;DEF;DET	_	_	_	_
+3	leabhar	leabhar	_	_	DEF;N;SG;MASC	_	_	_	_
+4	léite	léite	_	_	ADJ;V.PTCP	_	_	_	_
+5	agam	ag	_	_	ADP;SG;1	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = 586
+# text = Bhí an fear ag an doras.
+1	Bhí	bí	_	_	IND;PST;V	_	_	_	_
+2	an	an	_	_	SG;DEF;DET	_	_	_	_
+3	fear	fear	_	_	DEF;N;SG;MASC	_	_	_	_
+4	ag	ag	_	_	ADP	_	_	_	_
+5	an	an	_	_	SG;DEF;DET	_	_	_	_
+6	doras	doras	_	_	DEF;N;SG;MASC	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = 148
+# text = Ní mheastar go mbaineann an t-eolas breise a lorgaíodh le gné ar bith den obair theicniúil a bhaineann le tógáil an stáisiúin agus níl fáth ar bith nach mbeadh cead foirmiúil le fáil ag deireadh na míosa seo nó go luath an mhí seo chugainn.
+1	Ní	ní	_	_	NEG;PART	_	_	_	_
+2	mheastar	meas	_	_	V;NEG;IND;PRS	_	_	_	_
+3	go	go	_	_	PART	_	_	_	_
+4	mbaineann	bain	_	_	V;PRS;IND	_	_	_	_
+5	an	an	_	_	DET;DEF;SG	_	_	_	_
+6	t-eolas	eolas	_	_	SG;N;DEF;MASC	_	_	_	_
+7	breise	breis	_	_	GEN;N;FEM;SG	_	_	_	_
+8	a	a	_	_	PART	_	_	_	_
+9	lorgaíodh	lorg	_	_	V;IND;PST	_	_	_	_
+10	le	le	_	_	ADP	_	_	_	_
+11	gné	gné	_	_	SG;N;FEM	_	_	_	_
+12	ar	ar	_	_	ADP	_	_	_	_
+13	bith	bith	_	_	SG;N	_	_	_	_
+14	den	de	_	_	SG;ADP	_	_	_	_
+15	obair	obair	_	_	SG;N;DEF;FEM	_	_	_	_
+16	theicniúil	teicniúil	_	_	SG;ADJ;FEM	_	_	_	_
+17	a	a	_	_	PART	_	_	_	_
+18	bhaineann	bain	_	_	V;PRS;IND	_	_	_	_
+19	le	le	_	_	ADP	_	_	_	_
+20	tógáil	tógáil	_	_	SG;N;FEM	_	_	_	_
+21	an	an	_	_	DET;DEF;SG	_	_	_	_
+22	stáisiúin	stáisiún	_	_	SG;N;DEF;GEN;MASC	_	_	_	_
+23	agus	agus	_	_	CONJ	_	_	_	_
+24	níl	bí	_	_	V;PRS;IND;NEG	_	_	_	_
+25	fáth	fáth	_	_	SG;N;MASC	_	_	_	_
+26	ar	ar	_	_	ADP	_	_	_	_
+27	bith	bith	_	_	SG;N	_	_	_	_
+28	nach	nach	_	_	NEG;PART	_	_	_	_
+29	mbeadh	bí	_	_	V;COND	_	_	_	_
+30	cead	cead	_	_	SG;N;MASC	_	_	_	_
+31	foirmiúil	foirmiúil	_	_	SG;ADJ;MASC	_	_	_	_
+32	le	le	_	_	ADP	_	_	_	_
+33	fáil	fáil	_	_	N;NFIN	_	_	_	_
+34	ag	ag	_	_	ADP	_	_	_	_
+35	deireadh	deireadh	_	_	SG;N;MASC	_	_	_	_
+36	na	na	_	_	SG;DEF;FEM;DET;GEN	_	_	_	_
+37	míosa	mí	_	_	SG;N;DEF;FEM;GEN	_	_	_	_
+38	seo	seo	_	_	DET	_	_	_	_
+39	nó	nó	_	_	CONJ	_	_	_	_
+40	go	go	_	_	PART	_	_	_	_
+41	luath	luath	_	_	ADJ	_	_	_	_
+42	an	an	_	_	DET;DEF;SG	_	_	_	_
+43	mhí	mí	_	_	SG;N;FEM	_	_	_	_
+44	seo	seo	_	_	DET	_	_	_	_
+45	chugainn	chuig	_	_	PL;1;ADP	_	_	_	_
+46	.	.	_	_	_	_	_	_	_
+
+# sent_id = 801
+# text = Gearradh téarma príosúnachta air, beart a chuir fearg ar an tír.
+1	Gearradh	gearr	_	_	IND;PST;V	_	_	_	_
+2	téarma	téarma	_	_	MASC;SG;N	_	_	_	_
+3	príosúnachta	príosúnacht	_	_	SG;FEM;N;GEN	_	_	_	_
+4	air	ar	_	_	ADP;SG;3;MASC	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	beart	beart	_	_	MASC;SG;N	_	_	_	_
+7	a	a	_	_	PART	_	_	_	_
+8	chuir	cuir	_	_	IND;PST;V	_	_	_	_
+9	fearg	fearg	_	_	SG;FEM;N	_	_	_	_
+10	ar	ar	_	_	ADP	_	_	_	_
+11	an	an	_	_	SG;DEF;DET	_	_	_	_
+12	tír	tír	_	_	SG;FEM;N	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = 732
+# text = Cailín deas ab fhearr liom a bheith ar láimh liom thar a bhfeacaíos riamh, 'Gus dá bpósfainn cailleach ghránna mo lánchreach ná mairfinn bliain, Ach phósfainn thusa, a ghrá ghil, a chúil fáinneach na dtrioplaí siar, Is do bhainfinnse binse breá duit chomh hálainn is a chonaic tú ariamh.
+1	Cailín	cailín	_	_	MASC;SG;N	_	_	_	_
+2	deas	deas	_	_	SG;ADJ;MASC	_	_	_	_
+3	ab	is	_	_	PST;V	_	_	_	_
+4	fhearr	maith	_	_	ADJ;{CMPR/RL}	_	_	_	_
+5	liom	le	_	_	ADP;SG;1	_	_	_	_
+6	a	a	_	_	PART	_	_	_	_
+7	bheith	bheith	_	_	NFIN;N	_	_	_	_
+8	ar	ar	_	_	ADP	_	_	_	_
+9	láimh	lámh	_	_	SG;FEM;DAT;INDF;N	_	_	_	_
+10	liom	le	_	_	ADP;SG;1	_	_	_	_
+11	thar	thar	_	_	ADP	_	_	_	_
+12	a	a	_	_	PART	_	_	_	_
+13	bhfeacaíos	bhfeacaíos	_	_	IND;1;SG;PST;V	_	_	_	_
+14	riamh	riamh	_	_	ADV	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	'	'	_	_	_	_	_	_	_
+17	Gus	agus	_	_	CONJ	_	_	_	_
+18	dá	dá	_	_	CONJ	_	_	_	_
+19	bpósfainn	pós	_	_	1;SG;V;COND	_	_	_	_
+20	cailleach	cailleach	_	_	SG;FEM;N	_	_	_	_
+21	ghránna	gránna	_	_	SG;FEM;ADJ	_	_	_	_
+22	mo	mo	_	_	SG;1;DET	_	_	_	_
+23	lánchreach	creach	_	_	SG;FEM;N	_	_	_	_
+24	ná	ná	_	_	CONJ	_	_	_	_
+25	mairfinn	mair	_	_	1;SG;V;COND	_	_	_	_
+26	bliain	bliain	_	_	SG;FEM;N	_	_	_	_
+27	,	,	_	_	_	_	_	_	_
+28	Ach	ach	_	_	CONJ	_	_	_	_
+29	phósfainn	pós	_	_	1;SG;V;COND	_	_	_	_
+30	thusa	tú	_	_	SG;PRO;2	_	_	_	_
+31	,	,	_	_	_	_	_	_	_
+32	a	a	_	_	PART	_	_	_	_
+33	ghrá	grá	_	_	VOC;N;SG;MASC	_	_	_	_
+34	ghil	geal	_	_	SG;ADJ;MASC	_	_	_	_
+35	,	,	_	_	_	_	_	_	_
+36	a	a	_	_	PART	_	_	_	_
+37	chúil	cúl	_	_	VOC;N;SG;MASC	_	_	_	_
+38	fáinneach	fáinneach	_	_	SG;ADJ;MASC	_	_	_	_
+39	na	na	_	_	DEF;SG;FEM;DET;GEN	_	_	_	_
+40	dtrioplaí	dtrioplaí	_	_	FEM;N;GEN;PL	_	_	_	_
+41	siar	siar	_	_	ADV	_	_	_	_
+42	,	,	_	_	_	_	_	_	_
+43	Is	agus	_	_	CONJ	_	_	_	_
+44	do	do	_	_	PART	_	_	_	_
+45	bhainfinnse	bain	_	_	1;SG;V;COND	_	_	_	_
+46	binse	binse	_	_	MASC;SG;N	_	_	_	_
+47	breá	breá	_	_	SG;ADJ;MASC	_	_	_	_
+48	duit	do	_	_	ADP;SG;2	_	_	_	_
+49	chomh	chomh	_	_	ADV	_	_	_	_
+50	hálainn	álainn	_	_	ADJ	_	_	_	_
+51	is	agus	_	_	CONJ	_	_	_	_
+52	a	a	_	_	PART	_	_	_	_
+53	chonaic	feic	_	_	IND;PST;V	_	_	_	_
+54	tú	tú	_	_	SG;PRO;2	_	_	_	_
+55	ariamh	ariamh	_	_	ADV	_	_	_	_
+56	.	.	_	_	_	_	_	_	_
+
+# sent_id = 640
+# text = Arís cruinniú Béarla ar fad a bhí anseo agus bheadh cuntas ar na himeachtaí go léir thar admhainn an tsaothair seo.
+1	Arís	arís	_	_	ADV	_	_	_	_
+2	cruinniú	cruinniú	_	_	MASC;SG;N	_	_	_	_
+3	Béarla	béarla	_	_	MASC;SG;N;GEN	_	_	_	_
+4	ar	ar	_	_	ADP	_	_	_	_
+5	fad	fad	_	_	MASC;SG;N	_	_	_	_
+6	a	a	_	_	PART	_	_	_	_
+7	bhí	bí	_	_	IND;PST;V	_	_	_	_
+8	anseo	anseo	_	_	ADV	_	_	_	_
+9	agus	agus	_	_	CONJ	_	_	_	_
+10	bheadh	bí	_	_	COND;V	_	_	_	_
+11	cuntas	cuntas	_	_	MASC;SG;N	_	_	_	_
+12	ar	ar	_	_	ADP	_	_	_	_
+13	na	na	_	_	PL;DEF;DET	_	_	_	_
+14	himeachtaí	imeacht	_	_	DEF;N;PL;MASC	_	_	_	_
+15	go	go	_	_	PART	_	_	_	_
+16	léir	léir	_	_	ADJ	_	_	_	_
+17	thar	thar	_	_	ADP	_	_	_	_
+18	admhainn	aidhm	_	_	SG;FEM;N	_	_	_	_
+19	an	an	_	_	SG;DEF;DET	_	_	_	_
+20	tsaothair	saothar	_	_	DEF;N;SG;MASC;GEN	_	_	_	_
+21	seo	seo	_	_	DET	_	_	_	_
+22	.	.	_	_	_	_	_	_	_
+
+# sent_id = 314
+# text = Chas m'athair air sa tábhairne, O' Shea's i nDomhnach Broc - tá aithne ar an áit anois mar Madigan's agus bhí Bhreandán ag caitheamh a chuid airgid 'wet-time' ann.
+1	Chas	Cas	_	_	PROPN;FEM;GEN;SG	_	_	_	_
+2	m'	mo	_	_	DET;SG;1	_	_	_	_
+3	athair	athair	_	_	SG;N;MASC	_	_	_	_
+4	air	ar	_	_	SG;3;ADP;MASC	_	_	_	_
+5	sa	i	_	_	SG;ADP	_	_	_	_
+6	tábhairne	tábhairne	_	_	SG;N;MASC	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	O'	O'	_	_	PART	_	_	_	_
+9	Shea's	Shea's	_	_	PROPN;SG;MASC	_	_	_	_
+10	i	i	_	_	ADP	_	_	_	_
+11	nDomhnach	Domhnach	_	_	SG;N;MASC	_	_	_	_
+12	Broc	Broc	_	_	PROPN;SG;MASC	_	_	_	_
+13	-	-	_	_	_	_	_	_	_
+14	tá	bí	_	_	V;PRS;IND	_	_	_	_
+15	aithne	aithne	_	_	SG;N;FEM	_	_	_	_
+16	ar	ar	_	_	ADP	_	_	_	_
+17	an	an	_	_	DET;DEF;SG	_	_	_	_
+18	áit	áit	_	_	SG;N;DEF;FEM	_	_	_	_
+19	anois	anois	_	_	ADV	_	_	_	_
+20	mar	mar	_	_	ADP	_	_	_	_
+21	Madigan's	Madigan's	_	_	PROPN;SG;MASC	_	_	_	_
+22	agus	agus	_	_	CONJ	_	_	_	_
+23	bhí	bí	_	_	V;IND;PST	_	_	_	_
+24	Bhreandán	Breandán	_	_	PROPN;SG;MASC	_	_	_	_
+25	ag	ag	_	_	ADP	_	_	_	_
+26	caitheamh	caitheamh	_	_	N;V.MSDR	_	_	_	_
+27	a	a	_	_	SG;DET;MASC;3	_	_	_	_
+28	chuid	cuid	_	_	SG;N;FEM	_	_	_	_
+29	airgid	airgead	_	_	GEN;N;SG;MASC	_	_	_	_
+30	'	'	_	_	_	_	_	_	_
+31	wet-time	wet-time	_	_	_	_	_	_	_
+32	'	'	_	_	_	_	_	_	_
+33	ann	i	_	_	SG;3;ADP;MASC	_	_	_	_
+34	.	.	_	_	_	_	_	_	_
+
+# sent_id = 175
+# text = Molaim a gcuid iarrachtaí sa ghnó fhiúntach sin ach bhí easpa ina gcuid oibre, sa dóigh is gur cuireadh béim láidir ar ghnéithe éagsúla den Eaglais.
+1	Molaim	mol	_	_	V;SG;1;IND;PRS	_	_	_	_
+2	a	a	_	_	DET;3;PL	_	_	_	_
+3	gcuid	cuid	_	_	SG;N;FEM	_	_	_	_
+4	iarrachtaí	iarracht	_	_	PL;N;FEM	_	_	_	_
+5	sa	i	_	_	SG;ADP	_	_	_	_
+6	ghnó	gnó	_	_	SG;N;MASC	_	_	_	_
+7	fhiúntach	fiúntach	_	_	SG;ADJ;MASC	_	_	_	_
+8	sin	sin	_	_	DET	_	_	_	_
+9	ach	ach	_	_	CONJ	_	_	_	_
+10	bhí	bí	_	_	V;IND;PST	_	_	_	_
+11	easpa	easpa	_	_	SG;N;FEM	_	_	_	_
+12	ina	i	_	_	PL;3;ADP	_	_	_	_
+13	gcuid	cuid	_	_	SG;N;FEM	_	_	_	_
+14	oibre	obair	_	_	GEN;N;FEM;SG	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	sa	i	_	_	SG;ADP	_	_	_	_
+17	dóigh	dóigh	_	_	SG;N;FEM	_	_	_	_
+18	is	agus	_	_	CONJ	_	_	_	_
+19	gur	is	_	_	PST;V	_	_	_	_
+20	cuireadh	cuir	_	_	V;IND;PST	_	_	_	_
+21	béim	béim	_	_	SG;N;FEM	_	_	_	_
+22	láidir	láidir	_	_	SG;ADJ;FEM	_	_	_	_
+23	ar	ar	_	_	ADP	_	_	_	_
+24	ghnéithe	gné	_	_	PL;N;FEM	_	_	_	_
+25	éagsúla	éagsúil	_	_	PL;ADJ	_	_	_	_
+26	den	de	_	_	SG;ADP	_	_	_	_
+27	Eaglais	Eaglais	_	_	PROPN;FEM;SG	_	_	_	_
+28	.	.	_	_	_	_	_	_	_
+
+# sent_id = 939
+# text = Ina measc siúd a bhí gníomhach i ngabháil na gCeithre Cúirteanna bhí Ó Conchubhair agus Ó Maoilíosa, Earnán Ó Máille, Seán Lemass, Seán Mac Giolla Bhríde agus Aindrias Mac Domhnaill.
+1	Ina	i	_	_	ADP;3;PL	_	_	_	_
+2	measc	measc	_	_	MASC;SG;N	_	_	_	_
+3	siúd	siúd	_	_	PRO	_	_	_	_
+4	a	a	_	_	PART	_	_	_	_
+5	bhí	bí	_	_	IND;PST;V	_	_	_	_
+6	gníomhach	gníomhach	_	_	ADJ	_	_	_	_
+7	i	i	_	_	ADP	_	_	_	_
+8	ngabháil	gabháil	_	_	NFIN;N	_	_	_	_
+9	na	na	_	_	DEF;SG;FEM;DET;GEN	_	_	_	_
+10	gCeithre	ceathair	_	_	NUM	_	_	_	_
+11	Cúirteanna	cúirt	_	_	FEM;PL;N;GEN	_	_	_	_
+12	bhí	bí	_	_	IND;PST;V	_	_	_	_
+13	Ó	ó	_	_	PART	_	_	_	_
+14	Conchubhair	Conchubhair	_	_	SG;PROPN;MASC	_	_	_	_
+15	agus	agus	_	_	CONJ	_	_	_	_
+16	Ó	ó	_	_	PART	_	_	_	_
+17	Maoilíosa	Maoilíosa	_	_	SG;PROPN;MASC	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	Earnán	Earnán	_	_	SG;PROPN;MASC	_	_	_	_
+20	Ó	ó	_	_	PART	_	_	_	_
+21	Máille	Máille	_	_	SG;PROPN;MASC	_	_	_	_
+22	,	,	_	_	_	_	_	_	_
+23	Seán	Seán	_	_	SG;PROPN;MASC	_	_	_	_
+24	Lemass	Lemass	_	_	SG;PROPN;MASC	_	_	_	_
+25	,	,	_	_	_	_	_	_	_
+26	Seán	Seán	_	_	SG;PROPN;MASC	_	_	_	_
+27	Mac	mac	_	_	PART	_	_	_	_
+28	Giolla	Giolla	_	_	SG;PROPN;MASC	_	_	_	_
+29	Bhríde	Bríd	_	_	FEM;PROPN;GEN	_	_	_	_
+30	agus	agus	_	_	CONJ	_	_	_	_
+31	Aindrias	aindrias	_	_	SG;PROPN;MASC	_	_	_	_
+32	Mac	mac	_	_	PART	_	_	_	_
+33	Domhnaill	Domhnaill	_	_	SG;PROPN;MASC;GEN	_	_	_	_
+34	.	.	_	_	_	_	_	_	_
+
+# sent_id = 89
+# text = Cé atá ag comóradh a lá breithe an tseachtain seo?
+1	Cé	cé	_	_	PRO	_	_	_	_
+2	atá	bí	_	_	V;PRS;IND	_	_	_	_
+3	ag	ag	_	_	ADP	_	_	_	_
+4	comóradh	comóradh	_	_	N;V.MSDR	_	_	_	_
+5	a	a	_	_	SG;DET;MASC;3	_	_	_	_
+6	lá	lá	_	_	SG;N;MASC	_	_	_	_
+7	breithe	breith	_	_	GEN;N;FEM;SG	_	_	_	_
+8	an	an	_	_	DET;DEF;SG	_	_	_	_
+9	tseachtain	seachtain	_	_	SG;N;DEF;FEM	_	_	_	_
+10	seo	seo	_	_	DET	_	_	_	_
+11	?	?	_	_	_	_	_	_	_
+
+# sent_id = 35
+# text = litir chuig na bráithre sa fhrainc.
+1	litir	litir	_	_	SG;N;FEM	_	_	_	_
+2	chuig	chuig	_	_	ADP	_	_	_	_
+3	na	na	_	_	DET;DEF;PL	_	_	_	_
+4	bráithre	bráthair	_	_	PL;N;DEF;MASC	_	_	_	_
+5	sa	i	_	_	SG;ADP	_	_	_	_
+6	fhrainc	fhrainc	_	_	SG;N;FEM	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = 444
+# text = Ach chuadar leis an bpolaitíocht, céard nár chóir airgeadas mór a bheith mar aidhm acu siúd a thaithíonn í.
+1	Ach	ach	_	_	CONJ	_	_	_	_
+2	chuadar	téigh	_	_	PL;V;IND;PST;3	_	_	_	_
+3	leis	le	_	_	ADP	_	_	_	_
+4	an	an	_	_	DET;DEF;SG	_	_	_	_
+5	bpolaitíocht	polaitíocht	_	_	SG;N;FEM	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	céard	céard	_	_	PRO	_	_	_	_
+8	nár	is	_	_	NEG;PST;V	_	_	_	_
+9	chóir	cóir	_	_	ADJ	_	_	_	_
+10	airgeadas	airgeadas	_	_	SG;N;MASC	_	_	_	_
+11	mór	mór	_	_	SG;ADJ;MASC	_	_	_	_
+12	a	a	_	_	PART	_	_	_	_
+13	bheith	bheith	_	_	N;NFIN	_	_	_	_
+14	mar	mar	_	_	ADP	_	_	_	_
+15	aidhm	aidhm	_	_	SG;N;FEM	_	_	_	_
+16	acu	ag	_	_	PL;3;ADP	_	_	_	_
+17	siúd	siúd	_	_	PRO	_	_	_	_
+18	a	a	_	_	PART	_	_	_	_
+19	thaithíonn	taithigh	_	_	V;PRS;IND	_	_	_	_
+20	í	í	_	_	SG;PRO;FEM;3	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# sent_id = 159
+# text = Tagann a ráiteas tar éis don chomhlacht a rá le hoibrithe an iarnróid mí ó shin go raibh sí le dúnadh: 'Chuamar ag cruinniú i mBaile Átha an Rí agus dúirt an bhainistíocht linn ansin go raibh deireadh leis an tseirbhís lasta agus go raibh baol ann dár bpostanna,' a deir Pat McDonagh, oibrí ar an líne le 25 bliain anuas.
+1	Tagann	tar	_	_	V;PRS;IND	_	_	_	_
+2	a	a	_	_	SG;DET;MASC;3	_	_	_	_
+3	ráiteas	ráiteas	_	_	SG;N;MASC	_	_	_	_
+4	tar	tar	_	_	ADP	_	_	_	_
+5	éis	éis	_	_	ADP	_	_	_	_
+6	don	do	_	_	SG;ADP	_	_	_	_
+7	chomhlacht	comhlacht	_	_	SG;N;MASC	_	_	_	_
+8	a	a	_	_	PART	_	_	_	_
+9	rá	rá	_	_	N;NFIN	_	_	_	_
+10	le	le	_	_	ADP	_	_	_	_
+11	hoibrithe	oibriú	_	_	PL;N;DEF;MASC	_	_	_	_
+12	an	an	_	_	DET;DEF;SG	_	_	_	_
+13	iarnróid	iarnród	_	_	SG;N;DEF;GEN;MASC	_	_	_	_
+14	mí	mí	_	_	SG;N;FEM	_	_	_	_
+15	ó	ó	_	_	ADP	_	_	_	_
+16	shin	sin	_	_	PRO	_	_	_	_
+17	go	go	_	_	PART	_	_	_	_
+18	raibh	bí	_	_	V;IND;PST	_	_	_	_
+19	sí	sí	_	_	SG;PRO;FEM;3	_	_	_	_
+20	le	le	_	_	ADP	_	_	_	_
+21	dúnadh	dúnadh	_	_	N;NFIN	_	_	_	_
+22	:	:	_	_	_	_	_	_	_
+23	'	'	_	_	_	_	_	_	_
+24	Chuamar	téigh	_	_	PL;V;1;IND;PST	_	_	_	_
+25	ag	ag	_	_	ADP	_	_	_	_
+26	cruinniú	cruinniú	_	_	SG;N;DEF;MASC	_	_	_	_
+27	i	i	_	_	ADP	_	_	_	_
+28	mBaile	Baile	_	_	PL;PROPN;GEN;MASC	_	_	_	_
+29	Átha	Átha	_	_	PROPN;SG;GEN;MASC	_	_	_	_
+30	an	an	_	_	DET;DEF;SG	_	_	_	_
+31	Rí	rí	_	_	SG;N;DEF;GEN;MASC	_	_	_	_
+32	agus	agus	_	_	CONJ	_	_	_	_
+33	dúirt	abair	_	_	V;IND;PST	_	_	_	_
+34	an	an	_	_	DET;DEF;SG	_	_	_	_
+35	bhainistíocht	bainistíocht	_	_	SG;N;DEF;FEM	_	_	_	_
+36	linn	le	_	_	PL;1;ADP	_	_	_	_
+37	ansin	ansin	_	_	ADV	_	_	_	_
+38	go	go	_	_	PART	_	_	_	_
+39	raibh	bí	_	_	V;IND;PST	_	_	_	_
+40	deireadh	deireadh	_	_	SG;N;MASC	_	_	_	_
+41	leis	le	_	_	ADP	_	_	_	_
+42	an	an	_	_	DET;DEF;SG	_	_	_	_
+43	tseirbhís	seirbhís	_	_	SG;N;DEF;FEM	_	_	_	_
+44	lasta	lasta	_	_	GEN;N;SG;MASC	_	_	_	_
+45	agus	agus	_	_	CONJ	_	_	_	_
+46	go	go	_	_	PART	_	_	_	_
+47	raibh	bí	_	_	V;IND;PST	_	_	_	_
+48	baol	baol	_	_	SG;N;MASC	_	_	_	_
+49	ann	i	_	_	SG;3;ADP;MASC	_	_	_	_
+50	dár	do	_	_	PL;1;ADP	_	_	_	_
+51	bpostanna	bpost	_	_	PL;N;MASC	_	_	_	_
+52	,	,	_	_	_	_	_	_	_
+53	'	'	_	_	_	_	_	_	_
+54	a	a	_	_	PART	_	_	_	_
+55	deir	abair	_	_	V;PRS;IND	_	_	_	_
+56	Pat	Pat	_	_	PROPN;SG;MASC	_	_	_	_
+57	McDonagh	McDonagh	_	_	PROPN;SG;MASC	_	_	_	_
+58	,	,	_	_	_	_	_	_	_
+59	oibrí	oibrí	_	_	SG;N;MASC	_	_	_	_
+60	ar	ar	_	_	ADP	_	_	_	_
+61	an	an	_	_	DET;DEF;SG	_	_	_	_
+62	líne	líne	_	_	SG;N;DEF;FEM	_	_	_	_
+63	le	le	_	_	ADP	_	_	_	_
+64	25	25	_	_	NUM	_	_	_	_
+65	bliain	bliain	_	_	SG;N;FEM	_	_	_	_
+66	anuas	anuas	_	_	ADV	_	_	_	_
+67	.	.	_	_	_	_	_	_	_
+
+# sent_id = 309
+# text = Níor chuireas ceist ar mo mháthair cad ba bhun leis an scréachach mar bhí a fhios agam cén freagra a thabharfadh sí orm: 'Seo, seo anois a pheaitín bán mo chroí.
+1	Níor	níor	_	_	NEG;PART;PST	_	_	_	_
+2	chuireas	cuir	_	_	V;PRS;IND	_	_	_	_
+3	ceist	ceist	_	_	SG;N;FEM	_	_	_	_
+4	ar	ar	_	_	ADP	_	_	_	_
+5	mo	mo	_	_	DET;SG;1	_	_	_	_
+6	mháthair	máthair	_	_	SG;N;FEM	_	_	_	_
+7	cad	cad	_	_	PRO	_	_	_	_
+8	ba	is	_	_	V;PST	_	_	_	_
+9	bhun	bun	_	_	SG;N;MASC	_	_	_	_
+10	leis	le	_	_	ADP	_	_	_	_
+11	an	an	_	_	DET;DEF;SG	_	_	_	_
+12	scréachach	scréachach	_	_	N;NFIN	_	_	_	_
+13	mar	mar	_	_	CONJ	_	_	_	_
+14	bhí	bí	_	_	V;IND;PST	_	_	_	_
+15	a	a	_	_	SG;DET;MASC;3	_	_	_	_
+16	fhios	fios	_	_	SG;N;MASC	_	_	_	_
+17	agam	ag	_	_	SG;1;ADP	_	_	_	_
+18	cén	cé	_	_	SG;PRO	_	_	_	_
+19	freagra	freagra	_	_	SG;N;MASC	_	_	_	_
+20	a	a	_	_	PART	_	_	_	_
+21	thabharfadh	tabhair	_	_	V;COND	_	_	_	_
+22	sí	sí	_	_	SG;PRO;FEM;3	_	_	_	_
+23	orm	ar	_	_	SG;1;ADP	_	_	_	_
+24	:	:	_	_	_	_	_	_	_
+25	'	'	_	_	_	_	_	_	_
+26	Seo	seo	_	_	PRO	_	_	_	_
+27	,	,	_	_	_	_	_	_	_
+28	seo	seo	_	_	PRO	_	_	_	_
+29	anois	anois	_	_	ADV	_	_	_	_
+30	a	a	_	_	PART	_	_	_	_
+31	pheaitín	peata	_	_	SG;N;MASC;VOC	_	_	_	_
+32	bán	bán	_	_	SG;ADJ;MASC	_	_	_	_
+33	mo	mo	_	_	DET;SG;1	_	_	_	_
+34	chroí	croí	_	_	SG;N;MASC	_	_	_	_
+35	.	.	_	_	_	_	_	_	_
+
+# sent_id = 572
+# text = Seo cúpla ceann eile.
+1	Seo	seo	_	_	PRO	_	_	_	_
+2	cúpla	cúpla	_	_	MASC;SG;N	_	_	_	_
+3	ceann	ceann	_	_	MASC;SG;N	_	_	_	_
+4	eile	eile	_	_	DET	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = 196
+# text = Chuir an scéala a bhí ag Seosamh Ó Cearbhaill di gruaim agus dubhachas uirthi.
+1	Chuir	cuir	_	_	V;IND;PST	_	_	_	_
+2	an	an	_	_	DET;DEF;SG	_	_	_	_
+3	scéala	scéala	_	_	SG;N;DEF;MASC	_	_	_	_
+4	a	a	_	_	PART	_	_	_	_
+5	bhí	bí	_	_	V;IND;PST	_	_	_	_
+6	ag	ag	_	_	ADP	_	_	_	_
+7	Seosamh	Seosamh	_	_	PROPN;SG;MASC	_	_	_	_
+8	Ó	ó	_	_	PART	_	_	_	_
+9	Cearbhaill	Cearbhaill	_	_	PROPN;SG;MASC	_	_	_	_
+10	di	do	_	_	SG;3;FEM;ADP	_	_	_	_
+11	gruaim	gruaim	_	_	SG;N;FEM	_	_	_	_
+12	agus	agus	_	_	CONJ	_	_	_	_
+13	dubhachas	dubhachas	_	_	SG;N;MASC	_	_	_	_
+14	uirthi	ar	_	_	SG;3;FEM;ADP	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = 231
+# text = Máirseach Sergeant major de bhean.
+1	Máirseach	máirseach	_	_	SG;N;FEM	_	_	_	_
+2	Sergeant	Sergeant	_	_	PL;PROPN;GEN;MASC	_	_	_	_
+3	major	major	_	_	PROPN	_	_	_	_
+4	de	de	_	_	ADP	_	_	_	_
+5	bhean	bean	_	_	SG;N;FEM	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = 90
+# text = Is ise a chuir Dick Spring i mbun na Roinne Oideachais, nuair a bunaíodh an chéad Chomhrialtas idir Fianna Fáil agus an Lucht Oibre sa bhliain 1992.
+1	Is	is	_	_	PRS;V	_	_	_	_
+2	ise	ise	_	_	SG;PRO;FEM;3	_	_	_	_
+3	a	a	_	_	PART	_	_	_	_
+4	chuir	cuir	_	_	V;IND;PST	_	_	_	_
+5	Dick	Dick	_	_	PROPN;SG;MASC	_	_	_	_
+6	Spring	Spring	_	_	PROPN;SG;MASC	_	_	_	_
+7	i	i	_	_	ADP	_	_	_	_
+8	mbun	mbun	_	_	ADP	_	_	_	_
+9	na	na	_	_	SG;DEF;FEM;DET;GEN	_	_	_	_
+10	Roinne	roinn	_	_	GEN;N;FEM;SG	_	_	_	_
+11	Oideachais	oideachas	_	_	GEN;N;SG;MASC	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	nuair	nuair	_	_	CONJ	_	_	_	_
+14	a	a	_	_	PART	_	_	_	_
+15	bunaíodh	bunaigh	_	_	V;IND;PST	_	_	_	_
+16	an	an	_	_	DET;DEF;SG	_	_	_	_
+17	chéad	céad	_	_	NUM	_	_	_	_
+18	Chomhrialtas	comhrialtas	_	_	SG;N;MASC	_	_	_	_
+19	idir	idir	_	_	ADP	_	_	_	_
+20	Fianna	Fianna	_	_	PROPN;SG;MASC	_	_	_	_
+21	Fáil	Fáil	_	_	PROPN	_	_	_	_
+22	agus	agus	_	_	CONJ	_	_	_	_
+23	an	an	_	_	DET;DEF;SG	_	_	_	_
+24	Lucht	Lucht	_	_	PROPN;SG;MASC	_	_	_	_
+25	Oibre	Oibre	_	_	PROPN	_	_	_	_
+26	sa	i	_	_	SG;ADP	_	_	_	_
+27	bhliain	bliain	_	_	SG;N;DEF;FEM	_	_	_	_
+28	1992	1992	_	_	NUM	_	_	_	_
+29	.	.	_	_	_	_	_	_	_
+
+# sent_id = 378
+# text = 'SLUA: Go n-imí an diabhal do bhóthar, imigh leat is ná tar arís!
+1	'	'	_	_	_	_	_	_	_
+2	SLUA	slua	_	_	SG;N;MASC	_	_	_	_
+3	:	:	_	_	_	_	_	_	_
+4	Go	go	_	_	SBJV;PART	_	_	_	_
+5	n-imí	imigh	_	_	SBJV;V;PRS	_	_	_	_
+6	an	an	_	_	DET;DEF;SG	_	_	_	_
+7	diabhal	diabhal	_	_	SG;N;DEF;MASC	_	_	_	_
+8	do	do	_	_	DET;SG;2	_	_	_	_
+9	bhóthar	bóthar	_	_	SG;N;MASC	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	imigh	imigh	_	_	SG;V;IMP;2	_	_	_	_
+12	leat	le	_	_	SG;2;ADP	_	_	_	_
+13	is	agus	_	_	CONJ	_	_	_	_
+14	ná	ná	_	_	IMP;PART	_	_	_	_
+15	tar	tar	_	_	V;SG;IMP;NEG;2	_	_	_	_
+16	arís	arís	_	_	ADV	_	_	_	_
+17	!	!	_	_	_	_	_	_	_
+
+# sent_id = 21
+# text = Is fíor gur láidre Fianna Fáil ag cosaint na neodrachta ná Fine Gael faoi láthair agus go fiú i bhFine Gael tá maolú tagtha ag na ceisteanna a chuireann a cheannairí faoin bpolasaí náisiúnta seo.
+1	Is	is	_	_	PRS;V	_	_	_	_
+2	fíor	fíor	_	_	ADJ	_	_	_	_
+3	gur	is	_	_	PRS;V	_	_	_	_
+4	láidre	láidir	_	_	ADJ;{CMPR/RL}	_	_	_	_
+5	Fianna	Fianna	_	_	PROPN;SG;MASC	_	_	_	_
+6	Fáil	Fáil	_	_	PROPN	_	_	_	_
+7	ag	ag	_	_	ADP	_	_	_	_
+8	cosaint	cosaint	_	_	N;V.MSDR	_	_	_	_
+9	na	na	_	_	SG;DEF;FEM;DET;GEN	_	_	_	_
+10	neodrachta	neodracht	_	_	SG;N;DEF;FEM;GEN	_	_	_	_
+11	ná	ná	_	_	CONJ	_	_	_	_
+12	Fine	Fine	_	_	PROPN;SG;MASC	_	_	_	_
+13	Gael	Gael	_	_	PROPN	_	_	_	_
+14	faoi	faoi	_	_	ADP	_	_	_	_
+15	láthair	láthair	_	_	SG;N;FEM	_	_	_	_
+16	agus	agus	_	_	CONJ	_	_	_	_
+17	go	go	_	_	ADP	_	_	_	_
+18	fiú	fiú	_	_	SG;N	_	_	_	_
+19	i	i	_	_	ADP	_	_	_	_
+20	bhFine	fine	_	_	SG;N;FEM	_	_	_	_
+21	Gael	gael	_	_	GEN;N;SG;MASC	_	_	_	_
+22	tá	bí	_	_	V;PRS;IND	_	_	_	_
+23	maolú	maolú	_	_	N;NFIN	_	_	_	_
+24	tagtha	tagtha	_	_	ADJ;V.PTCP	_	_	_	_
+25	ag	ag	_	_	ADP	_	_	_	_
+26	na	na	_	_	DET;DEF;PL	_	_	_	_
+27	ceisteanna	ceist	_	_	PL;N;DEF;FEM	_	_	_	_
+28	a	a	_	_	PART	_	_	_	_
+29	chuireann	cuir	_	_	V;PRS;IND	_	_	_	_
+30	a	a	_	_	SG;DET;MASC;3	_	_	_	_
+31	cheannairí	ceannaire	_	_	PL;N;MASC	_	_	_	_
+32	faoin	faoi	_	_	SG;ADP	_	_	_	_
+33	bpolasaí	polasaí	_	_	SG;N;MASC	_	_	_	_
+34	náisiúnta	náisiúnta	_	_	ADJ	_	_	_	_
+35	seo	seo	_	_	DET	_	_	_	_
+36	.	.	_	_	_	_	_	_	_
+
+# sent_id = 833
+# text = I measc na n-ábhar a mbeidh taighde á dhéanamh ag na mic léinn orthu, tá forbairtí a bhaineann leis an nGaeltacht agus an tIdirlíon, forbairt suímh idirlín a bhaineann le foilsitheoireacht agus Gaeilge, pleananna gnó d'ionaid oidhreachta, chultúrtha agus Ghaeilge.
+1	I	I	_	_	ADP	_	_	_	_
+2	measc	measc	_	_	MASC;SG;N	_	_	_	_
+3	na	na	_	_	DEF;SG;FEM;DET;GEN	_	_	_	_
+4	n-ábhar	ábhar	_	_	DEF;N;PL;MASC;GEN	_	_	_	_
+5	a	a	_	_	PART	_	_	_	_
+6	mbeidh	bí	_	_	IND;V;FUT	_	_	_	_
+7	taighde	taighde	_	_	MASC;SG;N	_	_	_	_
+8	á	do	_	_	SG;3;ADP;MASC	_	_	_	_
+9	dhéanamh	déanamh	_	_	NFIN;N	_	_	_	_
+10	ag	ag	_	_	ADP	_	_	_	_
+11	na	na	_	_	PL;DEF;DET	_	_	_	_
+12	mic	mac	_	_	MASC;N;PL	_	_	_	_
+13	léinn	léann	_	_	MASC;SG;N;GEN	_	_	_	_
+14	orthu	ar	_	_	ADP;3;PL	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	tá	bí	_	_	IND;PRS;V	_	_	_	_
+17	forbairtí	forbairt	_	_	FEM;N;PL	_	_	_	_
+18	a	a	_	_	PART	_	_	_	_
+19	bhaineann	bain	_	_	IND;PRS;V	_	_	_	_
+20	leis	le	_	_	ADP	_	_	_	_
+21	an	an	_	_	SG;DEF;DET	_	_	_	_
+22	nGaeltacht	gaeltacht	_	_	SG;FEM;N	_	_	_	_
+23	agus	agus	_	_	CONJ	_	_	_	_
+24	an	an	_	_	SG;DEF;DET	_	_	_	_
+25	tIdirlíon	líon	_	_	DEF;N;SG;MASC	_	_	_	_
+26	,	,	_	_	_	_	_	_	_
+27	forbairt	forbairt	_	_	SG;FEM;N	_	_	_	_
+28	suímh	suíomh	_	_	MASC;SG;N;GEN	_	_	_	_
+29	idirlín	líon	_	_	MASC;SG;N;GEN	_	_	_	_
+30	a	a	_	_	PART	_	_	_	_
+31	bhaineann	bain	_	_	IND;PRS;V	_	_	_	_
+32	le	le	_	_	ADP	_	_	_	_
+33	foilsitheoireacht	foilsitheoireacht	_	_	SG;FEM;N	_	_	_	_
+34	agus	agus	_	_	CONJ	_	_	_	_
+35	Gaeilge	Gaeilge	_	_	SG;FEM;PROPN	_	_	_	_
+36	,	,	_	_	_	_	_	_	_
+37	pleananna	plean	_	_	MASC;N;PL	_	_	_	_
+38	gnó	gnó	_	_	MASC;SG;N;GEN	_	_	_	_
+39	d'	do	_	_	ADP	_	_	_	_
+40	ionaid	ionad	_	_	MASC;N;PL	_	_	_	_
+41	oidhreachta	oidhreacht	_	_	SG;FEM;N;GEN	_	_	_	_
+42	,	,	_	_	_	_	_	_	_
+43	chultúrtha	cultúrtha	_	_	ADJ	_	_	_	_
+44	agus	agus	_	_	CONJ	_	_	_	_
+45	Ghaeilge	Gaeilge	_	_	PROPN;SG;FEM	_	_	_	_
+46	.	.	_	_	_	_	_	_	_
+
+# sent_id = 713
+# text = Sin an fear a bhfuil a mhac ag imeacht.
+1	Sin	sin	_	_	V	_	_	_	_
+2	an	an	_	_	SG;DEF;DET	_	_	_	_
+3	fear	fear	_	_	DEF;N;SG;MASC	_	_	_	_
+4	a	a	_	_	PART	_	_	_	_
+5	bhfuil	bí	_	_	IND;PRS;V	_	_	_	_
+6	a	a	_	_	SG;3;DET;MASC	_	_	_	_
+7	mhac	mac	_	_	N;SG;MASC	_	_	_	_
+8	ag	ag	_	_	ADP	_	_	_	_
+9	imeacht	imeacht	_	_	V.MSDR;N	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = 188
+# text = Is gnáthach leis an dTaoiseach, Bertie Ahern, tamall de laethanta a chaitheamh san óstán seo gach bliain agus thug sé cúpla lá ann le déanaí.
+1	Is	is	_	_	PRS;V	_	_	_	_
+2	gnáthach	gnáthach	_	_	SG;N;MASC	_	_	_	_
+3	leis	le	_	_	ADP	_	_	_	_
+4	an	an	_	_	DET;DEF;SG	_	_	_	_
+5	dTaoiseach	taoiseach	_	_	PL;N;DEF;GEN;MASC	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	Bertie	Bertie	_	_	PROPN;SG;MASC	_	_	_	_
+8	Ahern	Ahern	_	_	PROPN;SG;MASC	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	tamall	tamall	_	_	SG;N;MASC	_	_	_	_
+11	de	de	_	_	ADP	_	_	_	_
+12	laethanta	lá	_	_	PL;N;MASC	_	_	_	_
+13	a	a	_	_	PART	_	_	_	_
+14	chaitheamh	caitheamh	_	_	N;NFIN	_	_	_	_
+15	san	i	_	_	SG;ADP	_	_	_	_
+16	óstán	óstán	_	_	SG;N;MASC	_	_	_	_
+17	seo	seo	_	_	DET	_	_	_	_
+18	gach	gach	_	_	DET;DEF	_	_	_	_
+19	bliain	bliain	_	_	SG;N;FEM	_	_	_	_
+20	agus	agus	_	_	CONJ	_	_	_	_
+21	thug	tabhair	_	_	V;IND;PST	_	_	_	_
+22	sé	sé	_	_	SG;PRO;3;MASC	_	_	_	_
+23	cúpla	cúpla	_	_	SG;N;MASC	_	_	_	_
+24	lá	lá	_	_	SG;N;MASC	_	_	_	_
+25	ann	i	_	_	SG;3;ADP;MASC	_	_	_	_
+26	le	le	_	_	ADP	_	_	_	_
+27	déanaí	déanach	_	_	GEN;ADJ;FEM;SG	_	_	_	_
+28	.	.	_	_	_	_	_	_	_
+
+# sent_id = 111
+# text = Bhí Tomás Óg bailithe leis go Meiriceá siar, Cáit imithe chun a pósta ar Thomás Ó Maoileoin sa Dún Mór.
+1	Bhí	bí	_	_	V;IND;PST	_	_	_	_
+2	Tomás	Tomás	_	_	PROPN;SG;MASC	_	_	_	_
+3	Óg	óg	_	_	SG;ADJ;MASC	_	_	_	_
+4	bailithe	bailithe	_	_	ADJ;V.PTCP	_	_	_	_
+5	leis	le	_	_	SG;3;ADP;MASC	_	_	_	_
+6	go	go	_	_	ADP	_	_	_	_
+7	Meiriceá	Meiriceá	_	_	PROPN;FEM;SG	_	_	_	_
+8	siar	siar	_	_	ADV	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	Cáit	Cáit	_	_	PROPN;FEM;SG	_	_	_	_
+11	imithe	imithe	_	_	ADJ;V.PTCP	_	_	_	_
+12	chun	chun	_	_	ADP	_	_	_	_
+13	a	a	_	_	SG;FEM;DET;3	_	_	_	_
+14	pósta	pósadh	_	_	GEN;N;SG;MASC	_	_	_	_
+15	ar	ar	_	_	ADP	_	_	_	_
+16	Thomás	Tomás	_	_	PROPN;SG;MASC	_	_	_	_
+17	Ó	ó	_	_	PART	_	_	_	_
+18	Maoileoin	Maoileoin	_	_	PROPN;SG;MASC	_	_	_	_
+19	sa	i	_	_	SG;ADP	_	_	_	_
+20	Dún	dún	_	_	SG;N;MASC	_	_	_	_
+21	Mór	Mór	_	_	PROPN;FEM;SG	_	_	_	_
+22	.	.	_	_	_	_	_	_	_
+
+# sent_id = 166
+# text = Ba leor an teoiric seo i gcúrsaí eolaíochta agus teicneolaíochta ar feadh dhá chéad bliain ach bhí sí fabhtach chun cur síos ar ghluaisní le luas gar do luas an tsolais nó le feiniméin ar scála idir-réaltach.
+1	Ba	is	_	_	PST;V	_	_	_	_
+2	leor	leor	_	_	ADJ	_	_	_	_
+3	an	an	_	_	DET;DEF;SG	_	_	_	_
+4	teoiric	teoiric	_	_	SG;N;FEM	_	_	_	_
+5	seo	seo	_	_	DET	_	_	_	_
+6	i	i	_	_	ADP	_	_	_	_
+7	gcúrsaí	cúrsa	_	_	PL;N;MASC	_	_	_	_
+8	eolaíochta	eolaíocht	_	_	GEN;N;FEM;SG	_	_	_	_
+9	agus	agus	_	_	CONJ	_	_	_	_
+10	teicneolaíochta	teicneolaíocht	_	_	GEN;N;FEM;SG	_	_	_	_
+11	ar	ar	_	_	ADP	_	_	_	_
+12	feadh	feadh	_	_	ADP	_	_	_	_
+13	dhá	dó	_	_	NUM	_	_	_	_
+14	chéad	céad	_	_	NUM	_	_	_	_
+15	bliain	bliain	_	_	SG;N;FEM	_	_	_	_
+16	ach	ach	_	_	CONJ	_	_	_	_
+17	bhí	bí	_	_	V;IND;PST	_	_	_	_
+18	sí	sí	_	_	SG;PRO;FEM;3	_	_	_	_
+19	fabhtach	fabhtach	_	_	ADJ	_	_	_	_
+20	chun	chun	_	_	ADP	_	_	_	_
+21	cur	cur	_	_	N;NFIN	_	_	_	_
+22	síos	síos	_	_	ADV	_	_	_	_
+23	ar	ar	_	_	ADP	_	_	_	_
+24	ghluaisní	ní	_	_	SG;N;FEM	_	_	_	_
+25	le	le	_	_	ADP	_	_	_	_
+26	luas	luas	_	_	SG;N;MASC	_	_	_	_
+27	gar	gar	_	_	SG;N;MASC	_	_	_	_
+28	do	do	_	_	ADP	_	_	_	_
+29	luas	luas	_	_	SG;N;MASC	_	_	_	_
+30	an	an	_	_	DET;DEF;SG	_	_	_	_
+31	tsolais	solas	_	_	SG;N;DEF;GEN;MASC	_	_	_	_
+32	nó	nó	_	_	CONJ	_	_	_	_
+33	le	le	_	_	ADP	_	_	_	_
+34	feiniméin	feiniméan	_	_	PL;N;MASC	_	_	_	_
+35	ar	ar	_	_	ADP	_	_	_	_
+36	scála	scála	_	_	SG;N;MASC	_	_	_	_
+37	idir-réaltach	idir-réalt	_	_	ADJ	_	_	_	_
+38	.	.	_	_	_	_	_	_	_
+
+# sent_id = 860
+# text = Athmhuintearas an aidhm.
+1	Athmhuintearas	athmhuintearas	_	_	MASC;SG;N	_	_	_	_
+2	an	an	_	_	SG;DEF;DET	_	_	_	_
+3	aidhm	aidhm	_	_	DEF;SG;FEM;N	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = 20
+# text = Tá ceist eile ag an Scéaltacht.
+1	Tá	bí	_	_	V;PRS;IND	_	_	_	_
+2	ceist	ceist	_	_	SG;N;FEM	_	_	_	_
+3	eile	eile	_	_	DET	_	_	_	_
+4	ag	ag	_	_	ADP	_	_	_	_
+5	an	an	_	_	DET;DEF;SG	_	_	_	_
+6	Scéaltacht	scéaltacht	_	_	SG;N;FEM	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = 33
+# text = Is ag déanamh cáca atá mé.
+1	Is	is	_	_	PRS;V	_	_	_	_
+2	ag	ag	_	_	ADP	_	_	_	_
+3	déanamh	déanamh	_	_	N;V.MSDR	_	_	_	_
+4	cáca	cáca	_	_	GEN;N;SG;MASC	_	_	_	_
+5	atá	bí	_	_	V;PRS;IND	_	_	_	_
+6	mé	mé	_	_	SG;PRO;1	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = 880
+# text = suas san aer.
+1	suas	suas	_	_	ADV	_	_	_	_
+2	san	i	_	_	ADP;SG	_	_	_	_
+3	aer	aer	_	_	MASC;SG;N	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = 333
+# text = Is i 1993 agus é ina uachtarán ar an gcomhluadar i Mhainistir Éimhín, Co. Chill Dara agus ina phríomhoide sa bhunscoil ann a cuireadh in iúl don Bhr.
+1	Is	is	_	_	PRS;V	_	_	_	_
+2	i	i	_	_	ADP	_	_	_	_
+3	1993	1993	_	_	NUM	_	_	_	_
+4	agus	agus	_	_	CONJ	_	_	_	_
+5	é	é	_	_	SG;PRO;3;MASC	_	_	_	_
+6	ina	i	_	_	SG;ADP;FEM;3	_	_	_	_
+7	uachtarán	uachtarán	_	_	SG;N;MASC	_	_	_	_
+8	ar	ar	_	_	ADP	_	_	_	_
+9	an	an	_	_	DET;DEF;SG	_	_	_	_
+10	gcomhluadar	comhluadar	_	_	SG;N;MASC	_	_	_	_
+11	i	i	_	_	ADP	_	_	_	_
+12	Mhainistir	mainistir	_	_	SG;N;FEM	_	_	_	_
+13	Éimhín	Éimhín	_	_	PROPN;MASC;GEN	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	Co.	Co.	_	_	_	_	_	_	_
+16	Chill	Cill	_	_	PROPN;SG;GEN;MASC	_	_	_	_
+17	Dara	Dara	_	_	PROPN	_	_	_	_
+18	agus	agus	_	_	CONJ	_	_	_	_
+19	ina	i	_	_	SG;ADP;MASC;3	_	_	_	_
+20	phríomhoide	príomhoide	_	_	SG;N;MASC	_	_	_	_
+21	sa	i	_	_	SG;ADP	_	_	_	_
+22	bhunscoil	bunscoil	_	_	SG;N;DEF;FEM	_	_	_	_
+23	ann	i	_	_	SG;3;ADP;MASC	_	_	_	_
+24	a	a	_	_	PART	_	_	_	_
+25	cuireadh	cuir	_	_	V;IND;PST	_	_	_	_
+26	in	i	_	_	ADP	_	_	_	_
+27	iúl	iúl	_	_	SG;N;MASC	_	_	_	_
+28	don	do	_	_	SG;ADP	_	_	_	_
+29	Bhr	Bhr	_	_	_	_	_	_	_
+30	.	.	_	_	_	_	_	_	_
+
+# sent_id = 352
+# text = Ach nílirse sásta, bóthar geal atá uait!
+1	Ach	ach	_	_	CONJ	_	_	_	_
+2	nílirse	bí	_	_	V;SG;NEG;2;IND;PRS	_	_	_	_
+3	sásta	sásta	_	_	ADJ	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	bóthar	bóthar	_	_	SG;N;MASC	_	_	_	_
+6	geal	geal	_	_	SG;ADJ;MASC	_	_	_	_
+7	atá	bí	_	_	V;PRS;IND	_	_	_	_
+8	uait	ó	_	_	SG;2;ADP	_	_	_	_
+9	!	!	_	_	_	_	_	_	_
+
+# sent_id = 959
+# text = D'fhéach sé orthu siúd atá ag seasamh le saoirse a dtíre agus a muintire mar mhéirligh agus mar sceimhlitheoirí.
+1	D'	do	_	_	PART	_	_	_	_
+2	fhéach	féach	_	_	IND;PST;V	_	_	_	_
+3	sé	sé	_	_	MASC;SG;3;PRO	_	_	_	_
+4	orthu	ar	_	_	ADP;3;PL	_	_	_	_
+5	siúd	siúd	_	_	PRO	_	_	_	_
+6	atá	bí	_	_	IND;PRS;V	_	_	_	_
+7	ag	ag	_	_	ADP	_	_	_	_
+8	seasamh	seasamh	_	_	V.MSDR;N	_	_	_	_
+9	le	le	_	_	ADP	_	_	_	_
+10	saoirse	saoirse	_	_	SG;FEM;N	_	_	_	_
+11	a	a	_	_	PL;3;DET	_	_	_	_
+12	dtíre	tír	_	_	SG;FEM;N;GEN	_	_	_	_
+13	agus	agus	_	_	CONJ	_	_	_	_
+14	a	a	_	_	PL;3;DET	_	_	_	_
+15	muintire	muintir	_	_	SG;FEM;N;GEN	_	_	_	_
+16	mar	mar	_	_	ADP	_	_	_	_
+17	mhéirligh	meirleach	_	_	SG;FEM;N	_	_	_	_
+18	agus	agus	_	_	CONJ	_	_	_	_
+19	mar	mar	_	_	ADP	_	_	_	_
+20	sceimhlitheoirí	sceimhlitheoir	_	_	MASC;N;PL	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# sent_id = 547
+# text = Ar mhaith leat teach a cheannach.
+1	Ar	is	_	_	V;PST	_	_	_	_
+2	mhaith	maith	_	_	ADJ	_	_	_	_
+3	leat	le	_	_	ADP;SG;2	_	_	_	_
+4	teach	teach	_	_	MASC;SG;N	_	_	_	_
+5	a	a	_	_	PART	_	_	_	_
+6	cheannach	ceannach	_	_	NFIN;N	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = 573
+# text = Sin a bhfuil ann.
+1	Sin	sin	_	_	V	_	_	_	_
+2	a	a	_	_	PART	_	_	_	_
+3	bhfuil	bí	_	_	IND;PRS;V	_	_	_	_
+4	ann	i	_	_	ADP;SG;3;MASC	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = 25
+# text = Bhí gá leis an gcogadh sin cé gur trua i gcónaí nuair nach mbíonn aon bhealach eile ann chun saoirse a bhaint amach seachas an lámh láidir.
+1	Bhí	bí	_	_	V;IND;PST	_	_	_	_
+2	gá	gá	_	_	SG;N;MASC	_	_	_	_
+3	leis	le	_	_	ADP	_	_	_	_
+4	an	an	_	_	DET;DEF;SG	_	_	_	_
+5	gcogadh	cogadh	_	_	SG;N;MASC	_	_	_	_
+6	sin	sin	_	_	DET	_	_	_	_
+7	cé	cé	_	_	CONJ	_	_	_	_
+8	gur	is	_	_	PRS;V	_	_	_	_
+9	trua	trua	_	_	SG;N;FEM	_	_	_	_
+10	i	i	_	_	ADP	_	_	_	_
+11	gcónaí	cónaí	_	_	SG;N;MASC	_	_	_	_
+12	nuair	nuair	_	_	CONJ	_	_	_	_
+13	nach	nach	_	_	NEG;PART	_	_	_	_
+14	mbíonn	bí	_	_	V	_	_	_	_
+15	aon	aon	_	_	DET	_	_	_	_
+16	bhealach	bealach	_	_	SG;N;MASC	_	_	_	_
+17	eile	eile	_	_	DET	_	_	_	_
+18	ann	i	_	_	SG;3;ADP;MASC	_	_	_	_
+19	chun	chun	_	_	ADP	_	_	_	_
+20	saoirse	saoirse	_	_	SG;N;FEM	_	_	_	_
+21	a	a	_	_	PART	_	_	_	_
+22	bhaint	baint	_	_	N;NFIN	_	_	_	_
+23	amach	amach	_	_	ADV	_	_	_	_
+24	seachas	seachas	_	_	ADP	_	_	_	_
+25	an	an	_	_	DET;DEF;SG	_	_	_	_
+26	lámh	lámh	_	_	SG;N;DEF;FEM	_	_	_	_
+27	láidir	láidir	_	_	SG;ADJ;FEM	_	_	_	_
+28	.	.	_	_	_	_	_	_	_
+
+# sent_id = 616
+# text = Éileofar air nó uirthi, áfach, taisteal chuig an Ionad de réir mar is gá.
+1	Éileofar	éiligh	_	_	IND;V;FUT	_	_	_	_
+2	air	ar	_	_	ADP;SG;3;MASC	_	_	_	_
+3	nó	nó	_	_	CONJ	_	_	_	_
+4	uirthi	ar	_	_	ADP;SG;FEM;3	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	áfach	áfach	_	_	ADV	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	taisteal	taisteal	_	_	NFIN;N	_	_	_	_
+9	chuig	chuig	_	_	ADP	_	_	_	_
+10	an	an	_	_	SG;DEF;DET	_	_	_	_
+11	Ionad	ionad	_	_	MASC;SG;N	_	_	_	_
+12	de	de	_	_	ADP	_	_	_	_
+13	réir	réir	_	_	ADP	_	_	_	_
+14	mar	mar	_	_	ADP	_	_	_	_
+15	is	is	_	_	V;PRS	_	_	_	_
+16	gá	gá	_	_	MASC;SG;N	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = 979
+# text = Imím liom soir Ar thóir an phictiúir.
+1	Imím	imigh	_	_	IND;1;SG;PRS;V	_	_	_	_
+2	liom	le	_	_	ADP;SG;1	_	_	_	_
+3	soir	soir	_	_	ADV	_	_	_	_
+4	Ar	ar	_	_	ADP	_	_	_	_
+5	thóir	tóir	_	_	SG;FEM;N	_	_	_	_
+6	an	an	_	_	SG;DEF;DET	_	_	_	_
+7	phictiúir	pictiúr	_	_	DEF;N;SG;MASC;GEN	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = 825
+# text = den chopail) sa chanúint, agus sin mar atá sé go hiondúil ag an bPiarsach.
+1	den	de	_	_	ADP;SG	_	_	_	_
+2	chopail	copail	_	_	DEF;SG;FEM;N	_	_	_	_
+3	)	)	_	_	_	_	_	_	_
+4	sa	i	_	_	ADP;SG	_	_	_	_
+5	chanúint	canúint	_	_	DEF;SG;FEM;N	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	agus	agus	_	_	CONJ	_	_	_	_
+8	sin	sin	_	_	PRO	_	_	_	_
+9	mar	mar	_	_	CONJ	_	_	_	_
+10	atá	bí	_	_	IND;PRS;V	_	_	_	_
+11	sé	sé	_	_	MASC;SG;3;PRO	_	_	_	_
+12	go	go	_	_	PART	_	_	_	_
+13	hiondúil	iondúil	_	_	ADJ	_	_	_	_
+14	ag	ag	_	_	ADP	_	_	_	_
+15	an	an	_	_	SG;DEF;DET	_	_	_	_
+16	bPiarsach	bpiarsach	_	_	MASC;SG;N	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = 521
+# text = (Leanann sé ar aghaidh ag rá gur ceadmhach taibléidí a mhúchann an phian a úsáid fiú má bhíonn seans go dtabharfadh sin an bás níos giorra, ach nach ceadmhach iad a úsáid d'aon turas le bás a thabhairt.
+1	(	(	_	_	_	_	_	_	_
+2	Leanann	lean	_	_	IND;PRS;V	_	_	_	_
+3	sé	sé	_	_	MASC;SG;3;PRO	_	_	_	_
+4	ar	ar	_	_	ADP	_	_	_	_
+5	aghaidh	aghaidh	_	_	SG;FEM;N	_	_	_	_
+6	ag	ag	_	_	ADP	_	_	_	_
+7	rá	rá	_	_	V.MSDR;N	_	_	_	_
+8	gur	is	_	_	V;PRS	_	_	_	_
+9	ceadmhach	ceadmhach	_	_	ADJ	_	_	_	_
+10	taibléidí	taibléid	_	_	FEM;N;PL	_	_	_	_
+11	a	a	_	_	PART	_	_	_	_
+12	mhúchann	múch	_	_	IND;PRS;V	_	_	_	_
+13	an	an	_	_	SG;DEF;DET	_	_	_	_
+14	phian	pian	_	_	DEF;SG;FEM;N	_	_	_	_
+15	a	a	_	_	PART	_	_	_	_
+16	úsáid	úsáid	_	_	NFIN;N	_	_	_	_
+17	fiú	fiú	_	_	SG;N	_	_	_	_
+18	má	má	_	_	CONJ	_	_	_	_
+19	bhíonn	bí	_	_	V	_	_	_	_
+20	seans	seans	_	_	MASC;SG;N	_	_	_	_
+21	go	go	_	_	PART	_	_	_	_
+22	dtabharfadh	tabhair	_	_	COND;V	_	_	_	_
+23	sin	sin	_	_	PRO	_	_	_	_
+24	an	an	_	_	SG;DEF;DET	_	_	_	_
+25	bás	bás	_	_	DEF;N;SG;MASC	_	_	_	_
+26	níos	níos	_	_	SG;N	_	_	_	_
+27	giorra	gearr	_	_	ADJ;{CMPR/RL}	_	_	_	_
+28	,	,	_	_	_	_	_	_	_
+29	ach	ach	_	_	CONJ	_	_	_	_
+30	nach	is	_	_	NEG;PRS;V	_	_	_	_
+31	ceadmhach	ceadmhach	_	_	ADJ	_	_	_	_
+32	iad	iad	_	_	3;PRO;PL	_	_	_	_
+33	a	a	_	_	PART	_	_	_	_
+34	úsáid	úsáid	_	_	NFIN;N	_	_	_	_
+35	d'	de	_	_	ADP	_	_	_	_
+36	aon	aon	_	_	DET	_	_	_	_
+37	turas	turas	_	_	MASC;SG;N	_	_	_	_
+38	le	le	_	_	ADP	_	_	_	_
+39	bás	bás	_	_	MASC;SG;N	_	_	_	_
+40	a	a	_	_	PART	_	_	_	_
+41	thabhairt	tabhairt	_	_	NFIN;N	_	_	_	_
+42	.	.	_	_	_	_	_	_	_
+
+# sent_id = 42
+# text = is laistigh de bhliain o am rithte an Achta so a déanfar é.
+1	is	is	_	_	PRS;V	_	_	_	_
+2	laistigh	laistigh	_	_	ADV	_	_	_	_
+3	de	de	_	_	ADP	_	_	_	_
+4	bhliain	bliain	_	_	SG;N;FEM	_	_	_	_
+5	o	ó	_	_	ADP	_	_	_	_
+6	am	am	_	_	SG;N;MASC	_	_	_	_
+7	rithte	rithte	_	_	ADJ;V.PTCP	_	_	_	_
+8	an	an	_	_	DET;DEF;SG	_	_	_	_
+9	Achta	acht	_	_	SG;N;DEF;GEN;MASC	_	_	_	_
+10	so	seo	_	_	_	_	_	_	_
+11	a	a	_	_	PART	_	_	_	_
+12	déanfar	déan	_	_	V;IND;FUT	_	_	_	_
+13	é	é	_	_	SG;PRO;3;MASC	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = 635
+# text = As ucht Dé oraibh... Athbheochan na Gaeilge.
+1	As	as	_	_	ADP	_	_	_	_
+2	ucht	ucht	_	_	MASC;SG;N	_	_	_	_
+3	Dé	dia	_	_	MASC;SG;N;GEN	_	_	_	_
+4	oraibh	ar	_	_	ADP;2;PL	_	_	_	_
+5	...	...	_	_	_	_	_	_	_
+6	Athbheochan	athbheochan	_	_	SG;FEM;N	_	_	_	_
+7	na	na	_	_	DEF;SG;FEM;DET;GEN	_	_	_	_
+8	Gaeilge	Gaeilge	_	_	SG;FEM;PROPN;GEN	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = 134
+# text = Mínigh an chaoi a dtéann a gcuid suíomh chun tairbhe dá gcuid feidhmeanna.
+1	Mínigh	mínigh	_	_	SG;V;IMP;2	_	_	_	_
+2	an	an	_	_	DET;DEF;SG	_	_	_	_
+3	chaoi	caoi	_	_	SG;N;DEF;FEM	_	_	_	_
+4	a	a	_	_	PART	_	_	_	_
+5	dtéann	téigh	_	_	V;PRS;IND	_	_	_	_
+6	a	a	_	_	DET;3;PL	_	_	_	_
+7	gcuid	cuid	_	_	SG;N;FEM	_	_	_	_
+8	suíomh	suíomh	_	_	PL;N;GEN;MASC	_	_	_	_
+9	chun	chun	_	_	ADP	_	_	_	_
+10	tairbhe	tairbhe	_	_	SG;N;FEM	_	_	_	_
+11	dá	do	_	_	PL;3;ADP	_	_	_	_
+12	gcuid	cuid	_	_	SG;N;FEM	_	_	_	_
+13	feidhmeanna	feidhm	_	_	PL;N;FEM	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = 92
+# text = Báid iomartha adhmaid a bhíodh ann.
+1	Báid	bád	_	_	PL;N;MASC	_	_	_	_
+2	iomartha	iomramh	_	_	GEN;N;NFIN	_	_	_	_
+3	adhmaid	adhmad	_	_	GEN;N;SG;MASC	_	_	_	_
+4	a	a	_	_	PART	_	_	_	_
+5	bhíodh	bí	_	_	V;PST;IMP	_	_	_	_
+6	ann	i	_	_	SG;3;ADP;MASC	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = 745
+# text = Féachaimis anois, mar sin, ar chuid de na hiarrachtaí a rinneadh leis an Eabhrais a chur chun cinn mar theanga theaghlaigh agus scolaíochta mar shampla den bhealach inar éirigh leis na luath-athbheochantóirí an t-athrú teanga (ón nGiúdais go hEabhrais) a chur i gcrích chomh tapa sin.
+1	Féachaimis	féach	_	_	1;IMP;V;PL	_	_	_	_
+2	anois	anois	_	_	ADV	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	mar	mar	_	_	ADP	_	_	_	_
+5	sin	sin	_	_	PRO	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	ar	ar	_	_	ADP	_	_	_	_
+8	chuid	cuid	_	_	SG;FEM;N	_	_	_	_
+9	de	de	_	_	ADP	_	_	_	_
+10	na	na	_	_	PL;DEF;DET	_	_	_	_
+11	hiarrachtaí	iarracht	_	_	DEF;FEM;PL;N	_	_	_	_
+12	a	a	_	_	PART	_	_	_	_
+13	rinneadh	déan	_	_	IND;PST;V	_	_	_	_
+14	leis	le	_	_	ADP	_	_	_	_
+15	an	an	_	_	SG;DEF;DET	_	_	_	_
+16	Eabhrais	Eabhrais	_	_	SG;PROPN;MASC	_	_	_	_
+17	a	a	_	_	PART	_	_	_	_
+18	chur	cur	_	_	NFIN;N	_	_	_	_
+19	chun	chun	_	_	ADP	_	_	_	_
+20	cinn	ceann	_	_	MASC;SG;N;GEN	_	_	_	_
+21	mar	mar	_	_	ADP	_	_	_	_
+22	theanga	teanga	_	_	SG;FEM;N	_	_	_	_
+23	theaghlaigh	teaghlach	_	_	N;SG;MASC;GEN	_	_	_	_
+24	agus	agus	_	_	CONJ	_	_	_	_
+25	scolaíochta	scolaíocht	_	_	SG;FEM;N;GEN	_	_	_	_
+26	mar	mar	_	_	ADP	_	_	_	_
+27	shampla	sampla	_	_	N;SG;MASC	_	_	_	_
+28	den	de	_	_	ADP;SG	_	_	_	_
+29	bhealach	bealach	_	_	N;SG;MASC	_	_	_	_
+30	inar	i	_	_	PART	_	_	_	_
+31	éirigh	éirigh	_	_	IND;PST;V	_	_	_	_
+32	leis	le	_	_	ADP	_	_	_	_
+33	na	na	_	_	PL;DEF;DET	_	_	_	_
+34	luath-athbheochantóirí	athbheochantóir	_	_	MASC;N;PL	_	_	_	_
+35	an	an	_	_	SG;DEF;DET	_	_	_	_
+36	t-athrú	athrú	_	_	DEF;N;SG;MASC	_	_	_	_
+37	teanga	teanga	_	_	SG;FEM;N;GEN	_	_	_	_
+38	(	(	_	_	_	_	_	_	_
+39	ón	ó	_	_	ADP;SG	_	_	_	_
+40	nGiúdais	giúdais	_	_	SG;FEM;N	_	_	_	_
+41	go	go	_	_	ADP	_	_	_	_
+42	hEabhrais	heabhrais	_	_	SG;FEM;N	_	_	_	_
+43	)	)	_	_	_	_	_	_	_
+44	a	a	_	_	PART	_	_	_	_
+45	chur	cur	_	_	NFIN;N	_	_	_	_
+46	i	i	_	_	ADP	_	_	_	_
+47	gcrích	críoch	_	_	SG;FEM;DAT;N	_	_	_	_
+48	chomh	chomh	_	_	ADV	_	_	_	_
+49	tapa	tapa	_	_	ADJ	_	_	_	_
+50	sin	sin	_	_	PRO	_	_	_	_
+51	.	.	_	_	_	_	_	_	_
+
+# sent_id = 304
+# text = Sular chrom sé ar an bpéintéireacht mar shlí bheatha bhí clú ar John Fisher mar éadaitheoir olla i Liobartaí Bhaile Átha Cliath, gar do Theampall Phádraig, rud annamh ag ealaíontóir san aois sin.
+1	Sular	sula	_	_	PST;CONJ	_	_	_	_
+2	chrom	crom	_	_	V;IND;PST	_	_	_	_
+3	sé	sé	_	_	SG;PRO;3;MASC	_	_	_	_
+4	ar	ar	_	_	ADP	_	_	_	_
+5	an	an	_	_	DET;DEF;SG	_	_	_	_
+6	bpéintéireacht	péintéireacht	_	_	SG;N;FEM	_	_	_	_
+7	mar	mar	_	_	ADP	_	_	_	_
+8	shlí	slí	_	_	SG;N;FEM	_	_	_	_
+9	bheatha	beatha	_	_	SG;N;FEM;GEN	_	_	_	_
+10	bhí	bí	_	_	V;IND;PST	_	_	_	_
+11	clú	clú	_	_	SG;N;MASC	_	_	_	_
+12	ar	ar	_	_	ADP	_	_	_	_
+13	John	John	_	_	PROPN;SG;MASC	_	_	_	_
+14	Fisher	Fisher	_	_	PROPN;SG;MASC	_	_	_	_
+15	mar	mar	_	_	ADP	_	_	_	_
+16	éadaitheoir	éadaitheoir	_	_	SG;N;MASC	_	_	_	_
+17	olla	olann	_	_	GEN;N;FEM;SG	_	_	_	_
+18	i	i	_	_	ADP	_	_	_	_
+19	Liobartaí	lioba	_	_	V;IMP;PST	_	_	_	_
+20	Bhaile	Baile	_	_	PROPN;SG;GEN;MASC	_	_	_	_
+21	Átha	Átha	_	_	PROPN;MASC;GEN;SG	_	_	_	_
+22	Cliath	Cliath	_	_	PROPN	_	_	_	_
+23	,	,	_	_	_	_	_	_	_
+24	gar	gar	_	_	ADJ	_	_	_	_
+25	do	do	_	_	ADP	_	_	_	_
+26	Theampall	teampall	_	_	SG;N;MASC	_	_	_	_
+27	Phádraig	Pádraig	_	_	PROPN;MASC;GEN	_	_	_	_
+28	,	,	_	_	_	_	_	_	_
+29	rud	rud	_	_	SG;N;MASC	_	_	_	_
+30	annamh	annamh	_	_	SG;ADJ;MASC	_	_	_	_
+31	ag	ag	_	_	ADP	_	_	_	_
+32	ealaíontóir	ealaíontóir	_	_	SG;N;MASC	_	_	_	_
+33	san	i	_	_	SG;ADP	_	_	_	_
+34	aois	aois	_	_	SG;N;FEM	_	_	_	_
+35	sin	sin	_	_	DET	_	_	_	_
+36	.	.	_	_	_	_	_	_	_
+
+# sent_id = 727
+# text = ESPERANTO MAR LINGUA FRANCA san AE AN tAONTAS EORPACH agus an GHAEILGE: FÉINIÚLACHT agus ÉAGSÚLACHT TEANGA / Faightear fuinneamh na gréine ón ngrian.
+1	ESPERANTO	esperanto	_	_	MASC;SG;N	_	_	_	_
+2	MAR	mar	_	_	ADP	_	_	_	_
+3	LINGUA	lingu	_	_	MASC;N;PL	_	_	_	_
+4	FRANCA	franc	_	_	MASC;N;PL	_	_	_	_
+5	san	i	_	_	ADP;SG	_	_	_	_
+6	AE	AE	_	_	_	_	_	_	_
+7	AN	an	_	_	SG;DEF;DET	_	_	_	_
+8	tAONTAS	taontas	_	_	MASC;SG;N	_	_	_	_
+9	EORPACH	Eorpach	_	_	SG;ADJ;MASC	_	_	_	_
+10	agus	agus	_	_	CONJ	_	_	_	_
+11	an	an	_	_	SG;DEF;DET	_	_	_	_
+12	GHAEILGE	Gaeilge	_	_	PROPN;DEF;SG;FEM	_	_	_	_
+13	:	:	_	_	_	_	_	_	_
+14	FÉINIÚLACHT	féiniúlacht	_	_	SG;FEM;N	_	_	_	_
+15	agus	agus	_	_	CONJ	_	_	_	_
+16	ÉAGSÚLACHT	éagsúlacht	_	_	SG;FEM;N	_	_	_	_
+17	TEANGA	teanga	_	_	SG;FEM;N;GEN	_	_	_	_
+18	/	/	_	_	_	_	_	_	_
+19	Faightear	faigh	_	_	IND;PRS;V	_	_	_	_
+20	fuinneamh	fuinneamh	_	_	MASC;SG;N	_	_	_	_
+21	na	na	_	_	DEF;SG;FEM;DET;GEN	_	_	_	_
+22	gréine	grian	_	_	DEF;SG;FEM;N;GEN	_	_	_	_
+23	ón	ó	_	_	ADP;SG	_	_	_	_
+24	ngrian	grian	_	_	SG;FEM;N	_	_	_	_
+25	.	.	_	_	_	_	_	_	_
+
+# sent_id = 202
+# text = Taisce ábhair léitheoireachta (11).
+1	Taisce	taisce	_	_	SG;N;FEM	_	_	_	_
+2	ábhair	ábhar	_	_	GEN;N;SG;MASC	_	_	_	_
+3	léitheoireachta	léitheoireacht	_	_	GEN;N;FEM;SG	_	_	_	_
+4	(11)	(11)	_	_	_	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = 108
+# text = 'Is ea,' ar seisean.
+1	'	'	_	_	_	_	_	_	_
+2	Is	is	_	_	PRS;V	_	_	_	_
+3	ea	ea	_	_	SG;PRO;3	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	'	'	_	_	_	_	_	_	_
+6	ar	ar	_	_	V;IND;PST	_	_	_	_
+7	seisean	seisean	_	_	SG;PRO;MASC;3	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = 671
+# text = Dar leo, sa chás seo, bheidís ag géilleadh an iomarca dá neamhspleáchas náisiúnta don Aontas.
+1	Dar	dar	_	_	IND;PRS;V	_	_	_	_
+2	leo	le	_	_	ADP;3;PL	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	sa	i	_	_	ADP;SG	_	_	_	_
+5	chás	cás	_	_	N;SG;MASC	_	_	_	_
+6	seo	seo	_	_	DET	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	bheidís	bí	_	_	3;V;PL;COND	_	_	_	_
+9	ag	ag	_	_	ADP	_	_	_	_
+10	géilleadh	géilleadh	_	_	V.MSDR;N	_	_	_	_
+11	an	an	_	_	SG;DEF;DET	_	_	_	_
+12	iomarca	iomarca	_	_	SG;FEM;N;GEN	_	_	_	_
+13	dá	de	_	_	ADP;3;PL	_	_	_	_
+14	neamhspleáchas	neamhspleáchas	_	_	MASC;SG;N	_	_	_	_
+15	náisiúnta	náisiúnta	_	_	SG;ADJ;MASC	_	_	_	_
+16	don	do	_	_	ADP;SG	_	_	_	_
+17	Aontas	aontas	_	_	MASC;SG;N	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = 224
+# text = 'Níl cuid ar bith den nua-aimsearthacht bhréagach atá á shantú ag Béal Feirste le go dtig leis a bheith ar chomhchéim le Quartier Latin Phárais.
+1	'	'	_	_	_	_	_	_	_
+2	Níl	bí	_	_	V;PRS;IND;NEG	_	_	_	_
+3	cuid	cuid	_	_	SG;N;FEM	_	_	_	_
+4	ar	ar	_	_	ADP	_	_	_	_
+5	bith	bith	_	_	SG;N	_	_	_	_
+6	den	de	_	_	SG;ADP	_	_	_	_
+7	nua-aimsearthacht	nua-aimsearthacht	_	_	SG;N;FEM	_	_	_	_
+8	bhréagach	bréagach	_	_	SG;ADJ;FEM	_	_	_	_
+9	atá	bí	_	_	V;PRS;IND	_	_	_	_
+10	á	do	_	_	SG;ADP;MASC;3	_	_	_	_
+11	shantú	santú	_	_	N;NFIN	_	_	_	_
+12	ag	ag	_	_	ADP	_	_	_	_
+13	Béal	Béal	_	_	SG;N;MASC	_	_	_	_
+14	Feirste	Feirste	_	_	N	_	_	_	_
+15	le	le	_	_	CONJ	_	_	_	_
+16	go	go	_	_	CONJ	_	_	_	_
+17	dtig	tar	_	_	V;PRS;IND	_	_	_	_
+18	leis	le	_	_	SG;3;ADP;MASC	_	_	_	_
+19	a	a	_	_	PART	_	_	_	_
+20	bheith	bheith	_	_	N;NFIN	_	_	_	_
+21	ar	ar	_	_	ADP	_	_	_	_
+22	chomhchéim	céim	_	_	SG;N;FEM	_	_	_	_
+23	le	le	_	_	ADP	_	_	_	_
+24	Quartier	Quartier	_	_	PROPN;SG;MASC	_	_	_	_
+25	Latin	Latin	_	_	PROPN;SG;MASC	_	_	_	_
+26	Phárais	Páras	_	_	GEN;N;SG;MASC	_	_	_	_
+27	.	.	_	_	_	_	_	_	_
+

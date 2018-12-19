@@ -1,0 +1,2506 @@
+# sent_id = n01057036
+# text = Но осталось еще много неотвеченных вопросов.
+# english_text = Still, there are questions left unanswered.
+1	Но	но	_	_	CONJ	_	_	_	_
+2	осталось	остаться	_	_	SG;IND;PST;NEUT;V;PFV	_	_	_	_
+3	еще	еще	_	_	ADV	_	_	_	_
+4	много	много	_	_	GEN;PL;INAN;ADV	_	_	_	_
+5	неотвеченных	неотвеченный	_	_	PL;GEN;ADJ;INAN;MASC	_	_	_	_
+6	вопросов	вопрос	_	_	PL;N;GEN;INAN;MASC	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n02017
+# sent_id = n02017008
+# text = На фотографии четко видна узкая панель сенсорного дисплея над клавиатурой, о которой ходило много слухов.
+# english_text = The photo clearly shows the narrow touch display bar above the keyboard that has been anticipated in rumors.
+1	На	на	_	_	ADP	_	_	_	_
+2	фотографии	фотография	_	_	SG;N;INAN;FEM	_	_	_	_
+3	четко	четко	_	_	ADV	_	_	_	_
+4	видна	видный	_	_	SG;FEM;NOM;ADJ;INAN	_	_	_	_
+5	узкая	узкий	_	_	SG;FEM;NOM;ADJ;INAN	_	_	_	_
+6	панель	панель	_	_	SG;FEM;N;NOM;INAN	_	_	_	_
+7	сенсорного	сенсорный	_	_	SG;GEN;ADJ;INAN;MASC	_	_	_	_
+8	дисплея	дисплей	_	_	SG;N;GEN;INAN;MASC	_	_	_	_
+9	над	над	_	_	ADP	_	_	_	_
+10	клавиатурой	клавиатура	_	_	SG;FEM;N;INS;INAN	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	о	о	_	_	ADP	_	_	_	_
+13	которой	который	_	_	SG;DET;INAN;FEM	_	_	_	_
+14	ходило	ходить	_	_	SG;IND;PST;NEUT;IPFV;V	_	_	_	_
+15	много	много	_	_	GEN;DET;INAN;PL	_	_	_	_
+16	слухов	слух	_	_	PL;N;GEN;INAN;MASC	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01046057
+# text = Он также отметил, что Роджерс недавно представил новый инструмент приложения, который помогает клиентам контролировать использование данных.
+# english_text = He also pointed out that Rogers recently introduced a new app tool that helps customers monitor their data usage.
+1	Он	он	_	_	SG;NOM;3;PRO;MASC	_	_	_	_
+2	также	также	_	_	ADV	_	_	_	_
+3	отметил	отметить	_	_	SG;IND;PST;V;PFV;MASC	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	что	что	_	_	CONJ	_	_	_	_
+6	Роджерс	Роджерс	_	_	SG;NOM;PROPN;MASC;ANIM	_	_	_	_
+7	недавно	недавно	_	_	ADV	_	_	_	_
+8	представил	представить	_	_	SG;IND;PST;V;PFV;MASC	_	_	_	_
+9	новый	новый	_	_	SG;ADJ;INAN;ACC;MASC	_	_	_	_
+10	инструмент	инструмент	_	_	SG;N;INAN;ACC;MASC	_	_	_	_
+11	приложения	приложение	_	_	SG;N;NEUT;GEN;INAN	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	который	который	_	_	SG;NOM;DET;INAN;MASC	_	_	_	_
+14	помогает	помогать	_	_	SG;IND;IPFV;V;3;PRS	_	_	_	_
+15	клиентам	клиент	_	_	PL;N;DAT;MASC;ANIM	_	_	_	_
+16	контролировать	контролировать	_	_	IPFV;V	_	_	_	_
+17	использование	использование	_	_	SG;N;NEUT;INAN;ACC	_	_	_	_
+18	данных	данные	_	_	GEN;N;INAN;PL	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# sent_id = w05007080
+# text = Попытки достичь мира наконец завершились весной 1415 года, и Энрике решил выполнить свой план: завоевание всего Королевства Франция.
+# english_text = The attempts at making peace finally ended in spring of 1415 and Enrique decided to execute his plan: an invasion of the entire Kingdom of France.
+1	Попытки	попытка	_	_	PL;FEM;N;NOM;INAN	_	_	_	_
+2	достичь	достичь	_	_	PFV;V;NFIN	_	_	_	_
+3	мира	мир	_	_	SG;N;GEN;INAN;MASC	_	_	_	_
+4	наконец	наконец	_	_	ADV	_	_	_	_
+5	завершились	завершиться	_	_	PL;IND;PST;V;PFV	_	_	_	_
+6	весной	весна	_	_	ADV	_	_	_	_
+7	1415	1415	_	_	SG;GEN;NUM;INAN;MASC	_	_	_	_
+8	года	год	_	_	SG;N;GEN;INAN;MASC	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	и	и	_	_	CONJ	_	_	_	_
+11	Энрике	Энрике	_	_	SG;NOM;PROPN;MASC;ANIM	_	_	_	_
+12	решил	решить	_	_	SG;IND;PST;V;PFV;MASC	_	_	_	_
+13	выполнить	выполнить	_	_	PFV;V	_	_	_	_
+14	свой	свой	_	_	SG;REFL;DET;ACC;MASC	_	_	_	_
+15	план	план	_	_	SG;N;INAN;ACC;MASC	_	_	_	_
+16	:	:	_	_	_	_	_	_	_
+17	завоевание	завоевание	_	_	SG;N;NOM;NEUT;INAN	_	_	_	_
+18	всего	весь	_	_	SG;NEUT;GEN;DET;INAN	_	_	_	_
+19	Королевства	королевство	_	_	SG;N;NEUT;GEN;INAN	_	_	_	_
+20	Франция	Франция	_	_	SG;FEM;NOM;INAN;PROPN	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n05005
+# sent_id = n05005002
+# text = Федерико Феллини однажды сказал: «Клоун для человечества — это то же, что тень для человека».
+# english_text = Federico Fellini once said: "The clown is to humanity as the shadow is to man".
+1	Федерико	Федерико	_	_	SG;NOM;PROPN;MASC;ANIM	_	_	_	_
+2	Феллини	Феллини	_	_	SG;NOM;PROPN;MASC;ANIM	_	_	_	_
+3	однажды	однажды	_	_	ADV	_	_	_	_
+4	сказал	сказать	_	_	SG;IND;PST;V;PFV;MASC	_	_	_	_
+5	:	:	_	_	_	_	_	_	_
+6	«	«	_	_	_	_	_	_	_
+7	Клоун	клоун	_	_	SG;N;NOM;MASC;ANIM	_	_	_	_
+8	для	для	_	_	ADP	_	_	_	_
+9	человечества	человечество	_	_	SG;N;NEUT;GEN;INAN	_	_	_	_
+10	—	—	_	_	_	_	_	_	_
+11	это	это	_	_	SG;NOM;NEUT;DET;INAN	_	_	_	_
+12	то	то	_	_	SG;NOM;NEUT;DET;INAN	_	_	_	_
+13	же	же	_	_	PART	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	что	что	_	_	PRO;NOM;INAN;NEUT	_	_	_	_
+16	тень	тень	_	_	SG;FEM;N;NOM;INAN	_	_	_	_
+17	для	для	_	_	ADP	_	_	_	_
+18	человека	человек	_	_	SG;N;GEN;MASC;ANIM	_	_	_	_
+19	»	»	_	_	_	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01013
+# sent_id = w01013083
+# text = Очень незначительное влияние и заимствование из датского произошло в исландском языке, несмотря на то что Исландия находилась под контролем Дании гораздо дольше (до 1918 г.).
+# english_text = Although Iceland was under the political control of Denmark until a much later date (1918), very little influence and borrowing from Danish has occurred in the Icelandic language.
+1	Очень	очень	_	_	ADV	_	_	_	_
+2	незначительное	незначительный	_	_	SG;NOM;NEUT;ADJ;INAN	_	_	_	_
+3	влияние	влияние	_	_	SG;N;NOM;NEUT;INAN	_	_	_	_
+4	и	и	_	_	CONJ	_	_	_	_
+5	заимствование	заимствование	_	_	SG;N;NOM;NEUT;INAN	_	_	_	_
+6	из	из	_	_	ADP	_	_	_	_
+7	датского	датский	_	_	SG;N;GEN;INAN;MASC	_	_	_	_
+8	произошло	произойти	_	_	SG;IND;PST;NEUT;V;PFV	_	_	_	_
+9	в	в	_	_	ADP	_	_	_	_
+10	исландском	исландский	_	_	SG;ADJ;INAN;MASC	_	_	_	_
+11	языке	язык	_	_	N;INAN;SG;MASC	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	несмотря	несмотря	_	_	ADP	_	_	_	_
+14	на	на	_	_	ADP	_	_	_	_
+15	то	то	_	_	SG;NEUT;INAN;ACC;PRO	_	_	_	_
+16	что	что	_	_	ADP	_	_	_	_
+17	Исландия	Исландия	_	_	SG;FEM;NOM;INAN;PROPN	_	_	_	_
+18	находилась	находиться	_	_	SG;FEM;IND;PST;IPFV;V	_	_	_	_
+19	под	под	_	_	ADP	_	_	_	_
+20	контролем	контроль	_	_	SG;N;INS;INAN;MASC	_	_	_	_
+21	Дании	Дания	_	_	SG;FEM;GEN;INAN;PROPN	_	_	_	_
+22	гораздо	гораздо	_	_	ADV	_	_	_	_
+23	дольше	долго	_	_	ADV	_	_	_	_
+24	(	(	_	_	_	_	_	_	_
+25	до	до	_	_	ADP	_	_	_	_
+26	1918	1918	_	_	SG;GEN;NUM;INAN;MASC	_	_	_	_
+27	г.	г.	_	_	SG;N;GEN;INAN;MASC	_	_	_	_
+28	)	)	_	_	_	_	_	_	_
+29	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01069094
+# text = Эта борьба против Османской империи в Средиземном море значительно ограничила военную мощь, которая могла быть направлена против повстанцев в Нидерландах.
+# english_text = Its struggle against the Ottoman Empire in the Mediterranean Sea put serious limits on the military power it could deploy against the rebels in the Netherlands.
+1	Эта	этот	_	_	SG;FEM;NOM;DET;INAN	_	_	_	_
+2	борьба	борьба	_	_	SG;FEM;N;NOM;INAN	_	_	_	_
+3	против	против	_	_	ADP	_	_	_	_
+4	Османской	османский	_	_	SG;FEM;GEN;ADJ;INAN	_	_	_	_
+5	империи	империя	_	_	SG;FEM;N;GEN;INAN	_	_	_	_
+6	в	в	_	_	ADP	_	_	_	_
+7	Средиземном	средиземный	_	_	SG;NEUT;ADJ;INAN	_	_	_	_
+8	море	море	_	_	NEUT;N;INAN;SG	_	_	_	_
+9	значительно	значительно	_	_	ADV	_	_	_	_
+10	ограничила	ограничить	_	_	SG;FEM;IND;PST;V;PFV	_	_	_	_
+11	военную	военный	_	_	SG;FEM;ADJ;INAN;ACC	_	_	_	_
+12	мощь	мощь	_	_	SG;FEM;N;INAN;ACC	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	которая	который	_	_	SG;FEM;NOM;DET;INAN	_	_	_	_
+15	могла	мочь	_	_	SG;FEM;IND;PST;IPFV;V	_	_	_	_
+16	быть	быть	_	_	V;IPFV	_	_	_	_
+17	направлена	направить	_	_	SG;FEM;PASS;PST;NOM;V;INAN;PFV	_	_	_	_
+18	против	против	_	_	ADP	_	_	_	_
+19	повстанцев	повстанец	_	_	PL;N;GEN;MASC;ANIM	_	_	_	_
+20	в	в	_	_	ADP	_	_	_	_
+21	Нидерландах	Нидерланды	_	_	PROPN;INAN;PL	_	_	_	_
+22	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01138
+# sent_id = n01138007
+# text = Как одному из лучших парней Нигана (Джеффри Дина Моргана), ему позволено то, что не позволено другим.
+# english_text = As one of Negan's (Jeffrey Dean Morgan) top guys, he's afforded certain freedoms.
+1	Как	как	_	_	ADP	_	_	_	_
+2	одному	один	_	_	SG;NUM;DAT;MASC;ANIM	_	_	_	_
+3	из	из	_	_	ADP	_	_	_	_
+4	лучших	хороший	_	_	GEN;PL;ADJ;ANIM	_	_	_	_
+5	парней	парень	_	_	PL;N;GEN;MASC;ANIM	_	_	_	_
+6	Нигана	Ниган	_	_	SG;GEN;PROPN;MASC;ANIM	_	_	_	_
+7	(	(	_	_	_	_	_	_	_
+8	Джеффри	Джеффри	_	_	SG;GEN;PROPN;MASC;ANIM	_	_	_	_
+9	Дина	Дин	_	_	SG;GEN;PROPN;MASC;ANIM	_	_	_	_
+10	Моргана	Морган	_	_	SG;GEN;PROPN;MASC;ANIM	_	_	_	_
+11	)	)	_	_	_	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	ему	он	_	_	SG;3;PRO;DAT;MASC	_	_	_	_
+14	позволено	позволить	_	_	SG;PASS;PST;NOM;NEUT;V;INAN;PFV	_	_	_	_
+15	то	то	_	_	SG;NEUT;INAN;ACC;PRO	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	что	что	_	_	PRO;NOM;INAN;NEUT	_	_	_	_
+18	не	не	_	_	PART;NEG	_	_	_	_
+19	позволено	позволить	_	_	SG;PASS;PST;NOM;NEUT;V;INAN;PFV	_	_	_	_
+20	другим	другой	_	_	PL;ADJ;DAT;ANIM	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# sent_id = w03005016
+# text = Примерно с 8 века до н. э. начали появляться города-государства: небольшие поселения с самоуправлением в рамках собственных политических систем.
+# english_text = From about the 8th century BC city states began to appear: small, self-governing territories with their own political systems.
+1	Примерно	примерно	_	_	ADV	_	_	_	_
+2	с	с	_	_	ADP	_	_	_	_
+3	8	8	_	_	SG;GEN;ADJ;INAN;MASC	_	_	_	_
+4	века	век	_	_	SG;N;GEN;INAN;MASC	_	_	_	_
+5	до	до	_	_	ADP	_	_	_	_
+6	н.	н.	_	_	PSSP;1;SG;FEM;GEN;DET	_	_	_	_
+7	э.	э.	_	_	SG;FEM;N;GEN;INAN	_	_	_	_
+8	начали	начать	_	_	PL;IND;PST;V;PFV	_	_	_	_
+9	появляться	появляться	_	_	IPFV;V	_	_	_	_
+10	города	город	_	_	PL;N;NOM;INAN;MASC	_	_	_	_
+11	-	-	_	_	_	_	_	_	_
+12	государства	государство	_	_	PL;N;NOM;NEUT;INAN	_	_	_	_
+13	:	:	_	_	_	_	_	_	_
+14	небольшие	небольшой	_	_	PL;NOM;ADJ;INAN	_	_	_	_
+15	поселения	поселение	_	_	PL;N;NOM;NEUT;INAN	_	_	_	_
+16	с	с	_	_	ADP	_	_	_	_
+17	самоуправлением	самоуправление	_	_	SG;N;INS;NEUT;INAN	_	_	_	_
+18	в	в	_	_	ADP	_	_	_	_
+19	рамках	рамка	_	_	PL;N;INAN;FEM	_	_	_	_
+20	собственных	собственный	_	_	PL;GEN;ADJ;INAN	_	_	_	_
+21	политических	политический	_	_	PL;GEN;ADJ;INAN	_	_	_	_
+22	систем	система	_	_	PL;FEM;N;GEN;INAN	_	_	_	_
+23	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01095
+# sent_id = n01095004
+# text = Во времена нашей молодости таких вещей не было, и сейчас те, у кого нет детей, через недовольство выражают всю свою ненависть к современным методам воспитания.
+# english_text = They didn’t have them in our day, and people without children express through their disapproval all their hatred of modern parenting.
+1	Во	во	_	_	ADP	_	_	_	_
+2	времена	время	_	_	PL;N;NEUT;INAN;ACC	_	_	_	_
+3	нашей	наш	_	_	PSSP;1;SG;FEM;GEN;DET	_	_	_	_
+4	молодости	молодость	_	_	SG;FEM;N;GEN;INAN	_	_	_	_
+5	таких	такой	_	_	PL;GEN;DET;INAN	_	_	_	_
+6	вещей	вещь	_	_	PL;FEM;N;GEN;INAN	_	_	_	_
+7	не	не	_	_	PART;NEG	_	_	_	_
+8	было	быть	_	_	SG;IND;PST;NEUT;IPFV;V	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	и	и	_	_	CONJ	_	_	_	_
+11	сейчас	сейчас	_	_	ADV	_	_	_	_
+12	те	тот	_	_	NOM;PL;DET;ANIM	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	у	у	_	_	ADP	_	_	_	_
+15	кого	кто	_	_	PRO;GEN;SG;MASC	_	_	_	_
+16	нет	нет	_	_	IPFV;V	_	_	_	_
+17	детей	ребенок	_	_	PL;N;GEN;MASC;ANIM	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	через	через	_	_	ADP	_	_	_	_
+20	недовольство	недовольство	_	_	SG;N;NEUT;INAN;ACC	_	_	_	_
+21	выражают	выражать	_	_	PL;IND;IPFV;V;3;PRS	_	_	_	_
+22	всю	весь	_	_	SG;FEM;DET;INAN;ACC	_	_	_	_
+23	свою	свой	_	_	SG;FEM;REFL;DET;ACC	_	_	_	_
+24	ненависть	ненависть	_	_	SG;FEM;N;INAN;ACC	_	_	_	_
+25	к	к	_	_	ADP	_	_	_	_
+26	современным	современный	_	_	PL;ADJ;INAN;DAT	_	_	_	_
+27	методам	метод	_	_	PL;N;INAN;DAT;MASC	_	_	_	_
+28	воспитания	воспитание	_	_	SG;N;NEUT;GEN;INAN	_	_	_	_
+29	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01083
+# sent_id = n01083013
+# text = Аргументирует она это тем, что это не обеспечивает достаточной защиты интересов американских рабочих и может негативно сказаться на их уровне жизни и условиях труда.
+# english_text = Her reason is that it provides insufficient protection to American workers whose jobs and living standards it might harm.
+1	Аргументирует	аргументировать	_	_	SG;IND;IPFV;V;3;PRS	_	_	_	_
+2	она	она	_	_	SG;FEM;NOM;3;PRO	_	_	_	_
+3	это	это	_	_	SG;NEUT;INAN;ACC;PRO	_	_	_	_
+4	тем	то	_	_	SG;INS;NEUT;DET;INAN	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	что	что	_	_	CONJ	_	_	_	_
+7	это	это	_	_	SG;NOM;NEUT;INAN;PRO	_	_	_	_
+8	не	не	_	_	PART;NEG	_	_	_	_
+9	обеспечивает	обеспечивать	_	_	SG;IND;IPFV;V;3;PRS	_	_	_	_
+10	достаточной	достаточный	_	_	SG;FEM;GEN;ADJ;INAN	_	_	_	_
+11	защиты	защита	_	_	SG;FEM;N;GEN;INAN	_	_	_	_
+12	интересов	интерес	_	_	PL;N;GEN;INAN;MASC	_	_	_	_
+13	американских	американский	_	_	PL;GEN;ADJ;ANIM	_	_	_	_
+14	рабочих	рабочий	_	_	PL;N;GEN;MASC;ANIM	_	_	_	_
+15	и	и	_	_	CONJ	_	_	_	_
+16	может	мочь	_	_	SG;IND;IPFV;V;3;PRS	_	_	_	_
+17	негативно	негативно	_	_	ADV	_	_	_	_
+18	сказаться	сказаться	_	_	PFV;V	_	_	_	_
+19	на	на	_	_	ADP	_	_	_	_
+20	их	их	_	_	DET;PL;3	_	_	_	_
+21	уровне	уровень	_	_	N;INAN;SG;MASC	_	_	_	_
+22	жизни	жизнь	_	_	SG;FEM;N;GEN;INAN	_	_	_	_
+23	и	и	_	_	CONJ	_	_	_	_
+24	условиях	условие	_	_	NEUT;N;INAN;PL	_	_	_	_
+25	труда	труд	_	_	SG;N;GEN;INAN;MASC	_	_	_	_
+26	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01003010
+# text = В начале октября переходная команда использовала то же место для встреч с технологическими лоббистами, с приглашением представителей из Убер, Американской Ассоциации Кинокомпаний, Ассоциации производителей бытовой техники и других групп.
+# english_text = In early October, the transition team used the same venue to meet with technology lobbyists, inviting representatives from Uber, the Motion Picture Association of America, the Consumer Technology Association and other groups.
+1	В	в	_	_	ADP	_	_	_	_
+2	начале	начало	_	_	NEUT;N;INAN;SG	_	_	_	_
+3	октября	октябрь	_	_	SG;N;GEN;INAN;MASC	_	_	_	_
+4	переходная	переходный	_	_	SG;FEM;NOM;ADJ;INAN	_	_	_	_
+5	команда	команда	_	_	SG;FEM;N;NOM;INAN	_	_	_	_
+6	использовала	использовать	_	_	SG;FEM;IND;PST;IPFV;V	_	_	_	_
+7	то	то	_	_	SG;NEUT;DET;INAN;ACC	_	_	_	_
+8	же	же	_	_	PART	_	_	_	_
+9	место	место	_	_	SG;N;NEUT;INAN;ACC	_	_	_	_
+10	для	для	_	_	ADP	_	_	_	_
+11	встреч	встреча	_	_	PL;FEM;N;GEN;INAN	_	_	_	_
+12	с	с	_	_	ADP	_	_	_	_
+13	технологическими	технологический	_	_	PL;INS;ADJ;ANIM	_	_	_	_
+14	лоббистами	лоббист	_	_	PL;N;INS;MASC;ANIM	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	с	с	_	_	ADP	_	_	_	_
+17	приглашением	приглашение	_	_	SG;N;INS;NEUT;INAN	_	_	_	_
+18	представителей	представитель	_	_	PL;N;GEN;MASC;ANIM	_	_	_	_
+19	из	из	_	_	ADP	_	_	_	_
+20	Убер	Убер	_	_	SG;GEN;INAN;PROPN;MASC	_	_	_	_
+21	,	,	_	_	_	_	_	_	_
+22	Американской	Американский	_	_	SG;FEM;GEN;ADJ;INAN	_	_	_	_
+23	Ассоциации	Ассоциация	_	_	SG;FEM;N;GEN;INAN	_	_	_	_
+24	Кинокомпаний	Кинокомпания	_	_	SG;FEM;N;GEN;INAN	_	_	_	_
+25	,	,	_	_	_	_	_	_	_
+26	Ассоциации	Ассоциация	_	_	SG;FEM;N;GEN;INAN	_	_	_	_
+27	производителей	производитель	_	_	PL;N;GEN;MASC;ANIM	_	_	_	_
+28	бытовой	бытовой	_	_	SG;FEM;N;GEN;INAN	_	_	_	_
+29	техники	техника	_	_	SG;FEM;N;GEN;INAN	_	_	_	_
+30	и	и	_	_	CONJ	_	_	_	_
+31	других	другой	_	_	PL;GEN;ADJ;INAN	_	_	_	_
+32	групп	группа	_	_	PL;FEM;N;GEN;INAN	_	_	_	_
+33	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01081
+# sent_id = n01081022
+# text = Мы не можем позволить Дональду Трампу стать президентом, чтобы такой расист, сексист и невероятный непрофессионал получил полномочия главнокомандующего.
+# english_text = We can’t let the presidency go to Donald Trump, someone so racist, sexist and incredibly unqualified to be commander-in-chief.
+1	Мы	мы	_	_	PRO;NOM;1;PL	_	_	_	_
+2	не	не	_	_	PART;NEG	_	_	_	_
+3	можем	мочь	_	_	1;PL;IND;IPFV;V;PRS	_	_	_	_
+4	позволить	позволить	_	_	PFV;V	_	_	_	_
+5	Дональду	Дональд	_	_	SG;PROPN;DAT;MASC;ANIM	_	_	_	_
+6	Трампу	Трамп	_	_	SG;PROPN;DAT;MASC;ANIM	_	_	_	_
+7	стать	стать	_	_	PFV;V	_	_	_	_
+8	президентом	президент	_	_	SG;N;INS;MASC;ANIM	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	чтобы	чтобы	_	_	CONJ	_	_	_	_
+11	такой	такой	_	_	SG;NOM;DET;MASC;ANIM	_	_	_	_
+12	расист	расист	_	_	SG;N;NOM;MASC;ANIM	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	сексист	сексист	_	_	SG;N;NOM;MASC;ANIM	_	_	_	_
+15	и	и	_	_	CONJ	_	_	_	_
+16	невероятный	невероятный	_	_	SG;NOM;ADJ;MASC;ANIM	_	_	_	_
+17	непрофессионал	непрофессионал	_	_	SG;N;NOM;MASC;ANIM	_	_	_	_
+18	получил	получить	_	_	SG;IND;PST;V;PFV;MASC	_	_	_	_
+19	полномочия	полномочие	_	_	PL;N;NEUT;INAN;ACC	_	_	_	_
+20	главнокомандующего	главнокомандующий	_	_	SG;N;GEN;MASC;ANIM	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n02002
+# sent_id = n02002007
+# text = Офицерам полиции удалось задержать 53-летнюю женщину утром в воскресенье.
+# english_text = The officers were able to subdue the 53 year old during the act on Sunday morning.
+1	Офицерам	офицер	_	_	PL;N;DAT;MASC;ANIM	_	_	_	_
+2	полиции	полиция	_	_	SG;FEM;N;GEN;INAN	_	_	_	_
+3	удалось	удаться	_	_	SG;IND;PST;NEUT;V;PFV	_	_	_	_
+4	задержать	задержать	_	_	PFV;V	_	_	_	_
+5	53-летнюю	53-летний	_	_	SG;FEM;ADJ;ACC;ANIM	_	_	_	_
+6	женщину	женщина	_	_	SG;FEM;N;ACC;ANIM	_	_	_	_
+7	утром	утро	_	_	ADV	_	_	_	_
+8	в	в	_	_	ADP	_	_	_	_
+9	воскресенье	воскресение	_	_	SG;N;NEUT;INAN;ACC	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01050069
+# text = Юань Шикай, президент Китайской Республики, считал, что новая республика станет преемницей Цин.
+# english_text = Yuan Shikai, the President of the Republic of China, considered the new republic to be the successor of the Qing.
+1	Юань	Юань	_	_	SG;NOM;PROPN;MASC;ANIM	_	_	_	_
+2	Шикай	Шикай	_	_	SG;NOM;PROPN;MASC;ANIM	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	президент	президент	_	_	SG;N;NOM;MASC;ANIM	_	_	_	_
+5	Китайской	китайский	_	_	SG;FEM;GEN;ADJ;INAN	_	_	_	_
+6	Республики	республика	_	_	SG;FEM;N;GEN;INAN	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	считал	считать	_	_	SG;IND;PST;IPFV;V;MASC	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	что	что	_	_	ADP	_	_	_	_
+11	новая	новый	_	_	SG;FEM;NOM;ADJ;INAN	_	_	_	_
+12	республика	республика	_	_	SG;FEM;N;NOM;INAN	_	_	_	_
+13	станет	стать	_	_	SG;FUT;IND;V;3;PFV	_	_	_	_
+14	преемницей	преемница	_	_	SG;FEM;N;INS;ANIM	_	_	_	_
+15	Цин	Цин	_	_	SG;FEM;GEN;INAN;PROPN	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01089068
+# text = С распространением греческих колоний на запад к Сицилии и Италии (Питекуссаи, Кумаи) влияние их нового алфавита распространилось дальше.
+# english_text = As Greece sent out colonies west towards Sicily and Italy (Pithekoussae, Cumae), the influence of their new alphabet extended further.
+1	С	с	_	_	ADP	_	_	_	_
+2	распространением	распространение	_	_	SG;N;INS;NEUT;INAN	_	_	_	_
+3	греческих	греческий	_	_	PL;GEN;ADJ;INAN	_	_	_	_
+4	колоний	колония	_	_	PL;FEM;N;GEN;INAN	_	_	_	_
+5	на	на	_	_	ADP	_	_	_	_
+6	запад	запад	_	_	SG;N;INAN;ACC;MASC	_	_	_	_
+7	к	к	_	_	ADP	_	_	_	_
+8	Сицилии	Сицилия	_	_	SG;FEM;INAN;PROPN;DAT	_	_	_	_
+9	и	и	_	_	CONJ	_	_	_	_
+10	Италии	Италия	_	_	SG;FEM;INAN;PROPN;DAT	_	_	_	_
+11	(	(	_	_	_	_	_	_	_
+12	Питекуссаи	Питекуссаи	_	_	SG;NOM;INAN;PROPN;MASC	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	Кумаи	Кумай	_	_	SG;NOM;INAN;PROPN;MASC	_	_	_	_
+15	)	)	_	_	_	_	_	_	_
+16	влияние	влияние	_	_	SG;N;NOM;NEUT;INAN	_	_	_	_
+17	их	они	_	_	PSSP;GEN;DET;3	_	_	_	_
+18	нового	новый	_	_	SG;GEN;ADJ;INAN;MASC	_	_	_	_
+19	алфавита	алфавит	_	_	SG;N;GEN;INAN;MASC	_	_	_	_
+20	распространилось	распространиться	_	_	SG;IND;PST;NEUT;V;PFV	_	_	_	_
+21	дальше	далеко	_	_	ADV	_	_	_	_
+22	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01023120
+# text = Какими бы ни были правила, бои часто приводили к гибели одного из жеребцов.
+# english_text = Whatever the rules were, the fights often resulted in the death of one of the stallions.
+1	Какими	какой	_	_	PL;DET;INAN;INS	_	_	_	_
+2	бы	бы	_	_	PART	_	_	_	_
+3	ни	ни	_	_	PART;NEG	_	_	_	_
+4	были	быть	_	_	PL;IND;PST;IPFV;V	_	_	_	_
+5	правила	правило	_	_	PL;N;NOM;NEUT;INAN	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	бои	бой	_	_	PL;N;NOM;INAN;MASC	_	_	_	_
+8	часто	часто	_	_	ADV	_	_	_	_
+9	приводили	приводить	_	_	PL;IND;PST;IPFV;V	_	_	_	_
+10	к	к	_	_	ADP	_	_	_	_
+11	гибели	гибель	_	_	SG;FEM;N;INAN;DAT	_	_	_	_
+12	одного	один	_	_	SG;GEN;NUM;MASC;ANIM	_	_	_	_
+13	из	из	_	_	ADP	_	_	_	_
+14	жеребцов	жеребец	_	_	PL;N;GEN;MASC;ANIM	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = w03001058
+# text = История Каркассона напрямую связана с историей этого города-крепости.
+# english_text = The history of Carcassonne is directly linked to that of its fortified city.
+1	История	история	_	_	SG;FEM;N;NOM;INAN	_	_	_	_
+2	Каркассона	Каркассон	_	_	SG;GEN;INAN;PROPN;MASC	_	_	_	_
+3	напрямую	напрямую	_	_	ADV	_	_	_	_
+4	связана	связанный	_	_	SG;FEM;PASS;PST;NOM;V;INAN;PFV	_	_	_	_
+5	с	с	_	_	ADP	_	_	_	_
+6	историей	история	_	_	SG;FEM;N;INS;INAN	_	_	_	_
+7	этого	этот	_	_	SG;GEN;DET;INAN;MASC	_	_	_	_
+8	города	город	_	_	SG;N;GEN;INAN;MASC	_	_	_	_
+9	-	-	_	_	_	_	_	_	_
+10	крепости	крепость	_	_	PL;FEM;N;GEN;INAN	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01089
+# sent_id = w01089017
+# text = Большая часть информации об этом периоде получена из мест захоронений и предметов, содержащихся в захоронениях.
+# english_text = Most of the information about the period comes from burial sites and the grave goods contained within them.
+1	Большая	большой	_	_	SG;FEM;NOM;ADJ;INAN	_	_	_	_
+2	часть	часть	_	_	SG;FEM;N;NOM;INAN	_	_	_	_
+3	информации	информация	_	_	SG;FEM;N;GEN;INAN	_	_	_	_
+4	об	об	_	_	ADP	_	_	_	_
+5	этом	этот	_	_	DET;INAN;SG;MASC	_	_	_	_
+6	периоде	период	_	_	N;INAN;SG;MASC	_	_	_	_
+7	получена	получить	_	_	SG;FEM;PASS;PST;NOM;V;INAN;PFV	_	_	_	_
+8	из	из	_	_	ADP	_	_	_	_
+9	мест	место	_	_	PL;N;NEUT;GEN;INAN	_	_	_	_
+10	захоронений	захоронение	_	_	PL;N;NEUT;GEN;INAN	_	_	_	_
+11	и	и	_	_	CONJ	_	_	_	_
+12	предметов	предмет	_	_	PL;N;GEN;INAN;MASC	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	содержащихся	содержаться	_	_	PL;IPFV;V;GEN;INAN;PRS;ACT;V.PTCP	_	_	_	_
+15	в	в	_	_	ADP	_	_	_	_
+16	захоронениях	захоронение	_	_	NEUT;N;INAN;PL	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01053036
+# text = В свои 20 она категорически протестует против притеснений и активно помогает девушкам принимать свои собственные стандарты красоты.
+# english_text = At just 20, she is a strong voice against bullying and a positive one in helping girls embrace their own standards of beauty.
+1	В	в	_	_	ADP	_	_	_	_
+2	свои	свой	_	_	REFL;PL;DET;ACC	_	_	_	_
+3	20	20	_	_	NUM;ACC	_	_	_	_
+4	она	она	_	_	SG;FEM;NOM;3;PRO	_	_	_	_
+5	категорически	категорически	_	_	ADV	_	_	_	_
+6	протестует	протестовать	_	_	SG;IND;IPFV;V;3;PRS	_	_	_	_
+7	против	против	_	_	ADP	_	_	_	_
+8	притеснений	притеснение	_	_	PL;N;NEUT;GEN;INAN	_	_	_	_
+9	и	и	_	_	CONJ	_	_	_	_
+10	активно	активно	_	_	ADV	_	_	_	_
+11	помогает	помогать	_	_	SG;IND;IPFV;V;3;PRS	_	_	_	_
+12	девушкам	девушка	_	_	FEM;PL;N;DAT;ANIM	_	_	_	_
+13	принимать	принимать	_	_	IPFV;V	_	_	_	_
+14	свои	свой	_	_	REFL;PL;DET;ACC	_	_	_	_
+15	собственные	собственный	_	_	PL;ADJ;INAN;ACC	_	_	_	_
+16	стандарты	стандарт	_	_	PL;N;INAN;ACC;MASC	_	_	_	_
+17	красоты	красота	_	_	SG;FEM;N;GEN;INAN	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = w04010031
+# text = В некоторых совместных работах не ясно, кто из двоих пришел к определенным стилистическим решениям в аранжировках, которые позже характеризовали стиль обоих музыкантов.
+# english_text = During their various collaborations, it is not clear who between the two conceived of some stylistic solutions in the arrangements that later on characterised both artists' style.
+1	В	в	_	_	ADP	_	_	_	_
+2	некоторых	некоторый	_	_	DET;INAN;PL	_	_	_	_
+3	совместных	совместный	_	_	ADJ;INAN;PL	_	_	_	_
+4	работах	работа	_	_	PL;N;INAN;FEM	_	_	_	_
+5	не	не	_	_	PART;NEG	_	_	_	_
+6	ясно	ясно	_	_	V	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	кто	кто	_	_	PRO;NOM;MASC;ANIM	_	_	_	_
+9	из	из	_	_	ADP	_	_	_	_
+10	двоих	двое	_	_	GEN;NUM;MASC;ANIM	_	_	_	_
+11	пришел	прийти	_	_	SG;IND;PST;V;PFV;MASC	_	_	_	_
+12	к	к	_	_	ADP	_	_	_	_
+13	определенным	определенный	_	_	PL;ADJ;INAN;DAT	_	_	_	_
+14	стилистическим	стилистический	_	_	PL;ADJ;INAN;DAT	_	_	_	_
+15	решениям	решение	_	_	PL;N;NEUT;INAN;DAT	_	_	_	_
+16	в	в	_	_	ADP	_	_	_	_
+17	аранжировках	аранжировка	_	_	PL;N;INAN;FEM	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	которые	который	_	_	NOM;DET;INAN;PL	_	_	_	_
+20	позже	поздно	_	_	ADV	_	_	_	_
+21	характеризовали	характеризовать	_	_	PL;IND;PST;IPFV;V	_	_	_	_
+22	стиль	стиль	_	_	SG;N;INAN;ACC;MASC	_	_	_	_
+23	обоих	оба	_	_	GEN;NUM;MASC;ANIM	_	_	_	_
+24	музыкантов	музыкант	_	_	PL;N;GEN;MASC;ANIM	_	_	_	_
+25	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n03006
+# sent_id = n03006003
+# text = Каковы пределы, которые могут ограничивать выражение религиозных верований в частных компаниях?
+# english_text = What are the limits that could inhibit the expression of religious beliefs in private companies?
+1	Каковы	каков	_	_	NOM;DET;INAN;PL	_	_	_	_
+2	пределы	предел	_	_	PL;N;NOM;INAN;MASC	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	которые	который	_	_	NOM;DET;INAN;PL	_	_	_	_
+5	могут	мочь	_	_	PL;IND;IPFV;V;3;PRS	_	_	_	_
+6	ограничивать	ограничивать	_	_	IPFV;V	_	_	_	_
+7	выражение	выражение	_	_	SG;N;NEUT;INAN;ACC	_	_	_	_
+8	религиозных	религиозный	_	_	PL;GEN;ADJ;INAN	_	_	_	_
+9	верований	верование	_	_	PL;N;NEUT;GEN;INAN	_	_	_	_
+10	в	в	_	_	ADP	_	_	_	_
+11	частных	частный	_	_	ADJ;INAN;PL	_	_	_	_
+12	компаниях	компания	_	_	PL;N;INAN;FEM	_	_	_	_
+13	?	?	_	_	_	_	_	_	_
+
+# sent_id = n01058052
+# text = После принятия законопроекта, ограничивающего права голоса в Северной Каролине в 2013 году, Кэмпбелл в церквях встречался с людьми и учил их, как преодолевать проблемы, связанные с регистрацией.
+# english_text = After North Carolina passed its restrictive voting-rights bill in 2013, Campbell went around to churches teaching people how to deal with challenges to their registration.
+1	После	после	_	_	ADP	_	_	_	_
+2	принятия	принятие	_	_	SG;N;NEUT;GEN;INAN	_	_	_	_
+3	законопроекта	законопроект	_	_	SG;N;GEN;INAN;MASC	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	ограничивающего	ограничивать	_	_	SG;IPFV;V;GEN;INAN;PRS;ACT;MASC;V.PTCP	_	_	_	_
+6	права	право	_	_	SG;N;NEUT;INAN;ACC	_	_	_	_
+7	голоса	голос	_	_	SG;N;GEN;INAN;MASC	_	_	_	_
+8	в	в	_	_	ADP	_	_	_	_
+9	Северной	Северный	_	_	SG;FEM;ADJ;INAN	_	_	_	_
+10	Каролине	Каролина	_	_	PROPN;SG;INAN;FEM	_	_	_	_
+11	в	в	_	_	ADP	_	_	_	_
+12	2013	2013	_	_	SG;NUM;INAN;MASC	_	_	_	_
+13	году	год	_	_	SG;N;ESS;INAN;MASC	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	Кэмпбелл	Кэмпбелл	_	_	SG;NOM;PROPN;MASC;ANIM	_	_	_	_
+16	в	в	_	_	ADP	_	_	_	_
+17	церквях	церковь	_	_	PL;N;INAN;FEM	_	_	_	_
+18	встречался	встречаться	_	_	SG;IND;PST;IPFV;V;MASC	_	_	_	_
+19	с	с	_	_	ADP	_	_	_	_
+20	людьми	человек	_	_	PL;N;INS;MASC;ANIM	_	_	_	_
+21	и	и	_	_	CONJ	_	_	_	_
+22	учил	учить	_	_	SG;IND;PST;IPFV;V;MASC	_	_	_	_
+23	их	они	_	_	PRO;PL;3;ACC	_	_	_	_
+24	,	,	_	_	_	_	_	_	_
+25	как	как	_	_	CONJ	_	_	_	_
+26	преодолевать	преодолевать	_	_	IPFV;V	_	_	_	_
+27	проблемы	проблема	_	_	FEM;PL;N;INAN;ACC	_	_	_	_
+28	,	,	_	_	_	_	_	_	_
+29	связанные	связать	_	_	PL;PASS;PST;V;INAN;ACC;PFV;V.PTCP	_	_	_	_
+30	с	с	_	_	ADP	_	_	_	_
+31	регистрацией	регистрация	_	_	SG;FEM;N;INS;INAN	_	_	_	_
+32	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01059019
+# text = Экономисты-республиканцы предупреждали, что эти данные будут приниматься как доказательство, что экономическая политика их партии является некомпетентной.
+# english_text = Republican economists caution against taking this data as proof that their party is lousy at economic policy.
+1	Экономисты	экономист	_	_	PL;N;NOM;MASC;ANIM	_	_	_	_
+2	-	-	_	_	_	_	_	_	_
+3	республиканцы	республиканец	_	_	PL;N;NOM;MASC;ANIM	_	_	_	_
+4	предупреждали	предупреждать	_	_	PL;IND;PST;IPFV;V	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	что	что	_	_	CONJ	_	_	_	_
+7	эти	этот	_	_	NOM;DET;INAN;PL	_	_	_	_
+8	данные	данные	_	_	NOM;N;INAN;PL	_	_	_	_
+9	будут	быть	_	_	FUT;PL;IND;V;IPFV;3	_	_	_	_
+10	приниматься	приниматься	_	_	IPFV;V	_	_	_	_
+11	как	как	_	_	ADP	_	_	_	_
+12	доказательство	доказательство	_	_	SG;N;NOM;NEUT;INAN	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	что	что	_	_	CONJ	_	_	_	_
+15	экономическая	экономический	_	_	SG;FEM;NOM;ADJ;INAN	_	_	_	_
+16	политика	политика	_	_	SG;FEM;N;NOM;INAN	_	_	_	_
+17	их	их	_	_	PSSP;GEN;DET;3	_	_	_	_
+18	партии	партия	_	_	SG;FEM;N;GEN;INAN	_	_	_	_
+19	является	являться	_	_	SG;IND;IPFV;V;3;PRS	_	_	_	_
+20	некомпетентной	некомпетентный	_	_	SG;FEM;INS;ADJ;INAN	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w02002
+# sent_id = w02002032
+# text = В 1882 году была введена в эксплуатацию система телеграфной связи с 34 пожарными сигналами.
+# english_text = In 1882, a telegraphic system equipped with 34 fire alarm signals was put in operation.
+1	В	в	_	_	ADP	_	_	_	_
+2	1882	1882	_	_	SG;NUM;INAN;MASC	_	_	_	_
+3	году	год	_	_	SG;N;ESS;INAN;MASC	_	_	_	_
+4	была	быть	_	_	SG;FEM;IND;PST;V;IPFV	_	_	_	_
+5	введена	ввести	_	_	SG;FEM;PASS;PST;NOM;V;INAN;PFV	_	_	_	_
+6	в	в	_	_	ADP	_	_	_	_
+7	эксплуатацию	эксплуатация	_	_	SG;FEM;N;INAN;ACC	_	_	_	_
+8	система	система	_	_	SG;FEM;N;NOM;INAN	_	_	_	_
+9	телеграфной	телеграфный	_	_	SG;FEM;GEN;ADJ;INAN	_	_	_	_
+10	связи	связь	_	_	SG;FEM;N;GEN;INAN	_	_	_	_
+11	с	с	_	_	ADP	_	_	_	_
+12	34	34	_	_	NUM;INS	_	_	_	_
+13	пожарными	пожарный	_	_	PL;INS;ADJ;INAN	_	_	_	_
+14	сигналами	сигнал	_	_	PL;N;INS;INAN;MASC	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01025085
+# text = Однако это привело к отказу от важных видов тяжелой артиллерии, и по-прежнему широко обсуждается, почему железная дорога в Фленсбург никогда не использовалось должным образом для эвакуации.
+# english_text = It resulted, however, in the abandonment of important pieces of heavy artillery, and it remains a matter of historical debate why the railway to Flensburg was never properly used for the evacuation.
+1	Однако	однако	_	_	ADV	_	_	_	_
+2	это	этот	_	_	SG;NOM;NEUT;DET;INAN	_	_	_	_
+3	привело	приводить	_	_	SG;IND;PST;NEUT;V;PFV	_	_	_	_
+4	к	к	_	_	ADP	_	_	_	_
+5	отказу	отказ	_	_	SG;N;INAN;DAT;MASC	_	_	_	_
+6	от	от	_	_	ADP	_	_	_	_
+7	важных	важный	_	_	PL;GEN;ADJ;INAN	_	_	_	_
+8	видов	вид	_	_	PL;N;GEN;INAN;MASC	_	_	_	_
+9	тяжелой	тяжелый	_	_	SG;FEM;GEN;ADJ;INAN	_	_	_	_
+10	артиллерии	артиллерия	_	_	SG;FEM;N;GEN;INAN	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	и	и	_	_	CONJ	_	_	_	_
+13	по-прежнему	по-прежнему	_	_	ADV	_	_	_	_
+14	широко	широко	_	_	ADV	_	_	_	_
+15	обсуждается	обсуждаться	_	_	SG;IND;IPFV;V;3;PRS	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	почему	почему	_	_	ADV	_	_	_	_
+18	железная	железный	_	_	SG;FEM;NOM;ADJ;INAN	_	_	_	_
+19	дорога	дорога	_	_	SG;FEM;N;NOM;INAN	_	_	_	_
+20	в	в	_	_	ADP	_	_	_	_
+21	Фленсбург	Фленсбург	_	_	SG;INAN;ACC;PROPN;MASC	_	_	_	_
+22	никогда	никогда	_	_	ADV	_	_	_	_
+23	не	не	_	_	PART;NEG	_	_	_	_
+24	использовалось	использоваться	_	_	SG;IND;PST;NEUT;IPFV;V	_	_	_	_
+25	должным	должный	_	_	SG;INS;ADJ;INAN;MASC	_	_	_	_
+26	образом	образ	_	_	SG;N;INS;INAN;MASC	_	_	_	_
+27	для	для	_	_	ADP	_	_	_	_
+28	эвакуации	эвакуация	_	_	SG;FEM;N;GEN;INAN	_	_	_	_
+29	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01075039
+# text = Выражаясь иначе, юноши (которые составляют подавляющее большинство воюющих людей во время гражданских войн) с меньшей вероятностью примут участие в восстании, если они получают образование или достойную зарплату, а также уверены в своем будущем.
+# english_text = Phrased another way: young males (who make up the vast majority of combatants in civil wars) are less likely to join a rebellion if they are getting an education or have a comfortable salary, and can reasonably assume that they will prosper in the future.
+1	Выражаясь	выражаться	_	_	IPFV;V;V.PTCP	_	_	_	_
+2	иначе	иначе	_	_	ADV	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	юноши	юноша	_	_	PL;N;NOM;MASC;ANIM	_	_	_	_
+5	(	(	_	_	_	_	_	_	_
+6	которые	который	_	_	NOM;PL;DET;ANIM	_	_	_	_
+7	составляют	составлять	_	_	PL;IND;IPFV;V;3;PRS	_	_	_	_
+8	подавляющее	подавлять	_	_	SG;NEUT;IPFV;V;INAN;ACC;PRS;ACT;V.PTCP	_	_	_	_
+9	большинство	большинство	_	_	SG;N;NEUT;INAN;ACC	_	_	_	_
+10	воюющих	воевать	_	_	PL;V.PTCP;IPFV;V;GEN;PRS;ACT;ANIM	_	_	_	_
+11	людей	человек	_	_	PL;N;GEN;MASC;ANIM	_	_	_	_
+12	во	во	_	_	ADP	_	_	_	_
+13	время	время	_	_	SG;N;NEUT;INAN;ACC	_	_	_	_
+14	гражданских	гражданский	_	_	PL;GEN;ADJ;INAN	_	_	_	_
+15	войн	война	_	_	PL;FEM;N;GEN;INAN	_	_	_	_
+16	)	)	_	_	_	_	_	_	_
+17	с	с	_	_	ADP	_	_	_	_
+18	меньшей	меньший	_	_	SG;FEM;INS;ADJ;INAN	_	_	_	_
+19	вероятностью	вероятность	_	_	SG;FEM;N;INS;INAN	_	_	_	_
+20	примут	принять	_	_	FUT;PL;IND;V;3;PFV	_	_	_	_
+21	участие	участие	_	_	SG;N;NEUT;INAN;ACC	_	_	_	_
+22	в	в	_	_	ADP	_	_	_	_
+23	восстании	восстание	_	_	NEUT;N;INAN;SG	_	_	_	_
+24	,	,	_	_	_	_	_	_	_
+25	если	если	_	_	CONJ	_	_	_	_
+26	они	они	_	_	PRO;NOM;3;PL	_	_	_	_
+27	получают	получать	_	_	PL;IND;IPFV;V;3;PRS	_	_	_	_
+28	образование	образование	_	_	SG;N;NEUT;INAN;ACC	_	_	_	_
+29	или	или	_	_	CONJ	_	_	_	_
+30	достойную	достойный	_	_	SG;FEM;ADJ;INAN;ACC	_	_	_	_
+31	зарплату	зарплата	_	_	SG;FEM;N;INAN;ACC	_	_	_	_
+32	,	,	_	_	_	_	_	_	_
+33	а	а	_	_	CONJ	_	_	_	_
+34	также	также	_	_	CONJ	_	_	_	_
+35	уверены	уверенный	_	_	PL;NOM;ADJ;ANIM	_	_	_	_
+36	в	в	_	_	ADP	_	_	_	_
+37	своем	свой	_	_	NEUT;REFL;DET;SG	_	_	_	_
+38	будущем	будущее	_	_	NEUT;N;INAN;SG	_	_	_	_
+39	.	.	_	_	_	_	_	_	_
+
+# sent_id = w05005085
+# text = Индейцы прибыли из Канады, ведомые Джозефом Брантом; они поддерживали британцев, потому что колонисты забирали все больше и больше их земель.
+# english_text = Indians arrived from Canada, led by Joseph Brant; they supported the British because the colonists were expropriating more and more of their lands.
+1	Индейцы	индеец	_	_	PL;N;NOM;MASC;ANIM	_	_	_	_
+2	прибыли	прибыть	_	_	PL;IND;PST;V;PFV	_	_	_	_
+3	из	из	_	_	ADP	_	_	_	_
+4	Канады	Канада	_	_	SG;FEM;GEN;INAN;PROPN	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	ведомые	вести	_	_	PL;PASS;V.PTCP;NOM;IPFV;V;PRS;ANIM	_	_	_	_
+7	Джозефом	Джозеф	_	_	SG;INS;PROPN;MASC;ANIM	_	_	_	_
+8	Брантом	Брант	_	_	SG;INS;PROPN;MASC;ANIM	_	_	_	_
+9	;	;	_	_	_	_	_	_	_
+10	они	они	_	_	PRO;NOM;3;PL	_	_	_	_
+11	поддерживали	поддерживать	_	_	PL;IND;PST;IPFV;V	_	_	_	_
+12	британцев	британец	_	_	PL;N;ACC;MASC;ANIM	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	потому	потому	_	_	ADV	_	_	_	_
+15	что	что	_	_	ADP	_	_	_	_
+16	колонисты	колонист	_	_	PL;N;NOM;MASC;ANIM	_	_	_	_
+17	забирали	забирать	_	_	PL;IND;PST;IPFV;V	_	_	_	_
+18	все	все	_	_	ADV	_	_	_	_
+19	больше	много	_	_	CMPR;NUM	_	_	_	_
+20	и	и	_	_	CONJ	_	_	_	_
+21	больше	много	_	_	CMPR;NUM	_	_	_	_
+22	их	они	_	_	PSSP;GEN;DET;3	_	_	_	_
+23	земель	земля	_	_	PL;FEM;N;GEN;INAN	_	_	_	_
+24	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01044
+# sent_id = w01044010
+# text = В Неваде развиты такие отрасли, как туризм, горнодобывающая промышленность, машиностроение, полиграфия, пищевая промышленность и электрическое оборудование.
+# english_text = Nevada's industrial outputs are tourism, mining, machinery, printing and publishing, food processing, and electric equipment.
+1	В	в	_	_	ADP	_	_	_	_
+2	Неваде	Невада	_	_	PROPN;SG;INAN;FEM	_	_	_	_
+3	развиты	развить	_	_	PL;PASS;PST;NOM;V;INAN;PFV	_	_	_	_
+4	такие	такой	_	_	PL;NOM;DET;INAN	_	_	_	_
+5	отрасли	отрасль	_	_	PL;FEM;N;NOM;INAN	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	как	как	_	_	CONJ	_	_	_	_
+8	туризм	туризм	_	_	SG;N;NOM;INAN;MASC	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	горнодобывающая	горнодобывающий	_	_	SG;FEM;NOM;ADJ;INAN	_	_	_	_
+11	промышленность	промышленность	_	_	SG;FEM;N;NOM;INAN	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	машиностроение	машиностроение	_	_	SG;N;NOM;NEUT;INAN	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	полиграфия	полиграфия	_	_	SG;FEM;N;NOM;INAN	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	пищевая	пищевой	_	_	SG;FEM;NOM;ADJ;INAN	_	_	_	_
+18	промышленность	промышленность	_	_	SG;FEM;N;NOM;INAN	_	_	_	_
+19	и	и	_	_	CONJ	_	_	_	_
+20	электрическое	электрический	_	_	SG;NOM;NEUT;ADJ;INAN	_	_	_	_
+21	оборудование	оборудование	_	_	SG;N;NOM;NEUT;INAN	_	_	_	_
+22	.	.	_	_	_	_	_	_	_
+
+# sent_id = w04001053
+# text = Острова расположены в районе Индо-Австралийского разлома; разлом возник в результате столкновения Индийской и Австралийской плит.
+# english_text = The islands are located at the Indo-Australian Fault; the Fault arose due to the collision of the Indian and Australian plates.
+1	Острова	остров	_	_	PL;N;NOM;INAN;MASC	_	_	_	_
+2	расположены	расположить	_	_	PL;PASS;PST;NOM;V;INAN;PFV	_	_	_	_
+3	в	в	_	_	ADP	_	_	_	_
+4	районе	район	_	_	N;INAN;SG;MASC	_	_	_	_
+5	Индо-Австралийского	индо-австралийский	_	_	SG;GEN;ADJ;INAN;MASC	_	_	_	_
+6	разлома	разлом	_	_	SG;N;GEN;INAN;MASC	_	_	_	_
+7	;	;	_	_	_	_	_	_	_
+8	разлом	разлом	_	_	SG;N;NOM;INAN;MASC	_	_	_	_
+9	возник	возникнуть	_	_	SG;IND;PST;V;PFV;MASC	_	_	_	_
+10	в	в	_	_	ADP	_	_	_	_
+11	результате	результат	_	_	N;INAN;SG;MASC	_	_	_	_
+12	столкновения	столкновение	_	_	SG;N;NEUT;GEN;INAN	_	_	_	_
+13	Индийской	индийский	_	_	SG;FEM;GEN;ADJ;INAN	_	_	_	_
+14	и	и	_	_	CONJ	_	_	_	_
+15	Австралийской	австралийский	_	_	SG;FEM;GEN;ADJ;INAN	_	_	_	_
+16	плит	плита	_	_	PL;FEM;N;GEN;INAN	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01029083
+# text = Христианские церкви в северо-западной части Европы и Украины часто используют вербы вместо пальм, присутствующих во время церемоний в Вербное воскресенье.
+# english_text = Christian churches in northwestern Europe and Ukraine often used willow branches in place of palms in the ceremonies on Palm Sunday.
+1	Христианские	христианский	_	_	PL;NOM;ADJ;INAN	_	_	_	_
+2	церкви	церковь	_	_	PL;FEM;N;NOM;INAN	_	_	_	_
+3	в	в	_	_	ADP	_	_	_	_
+4	северо-западной	северо-западный	_	_	SG;FEM;ESS;ADJ;INAN	_	_	_	_
+5	части	часть	_	_	SG;N;INAN;FEM	_	_	_	_
+6	Европы	Европа	_	_	SG;FEM;GEN;INAN;PROPN	_	_	_	_
+7	и	и	_	_	CONJ	_	_	_	_
+8	Украины	Украина	_	_	SG;FEM;GEN;INAN;PROPN	_	_	_	_
+9	часто	часто	_	_	ADV	_	_	_	_
+10	используют	использовать	_	_	PL;IND;IPFV;V;3;PRS	_	_	_	_
+11	вербы	верба	_	_	FEM;PL;N;INAN;ACC	_	_	_	_
+12	вместо	вместо	_	_	ADP	_	_	_	_
+13	пальм	пальма	_	_	PL;FEM;N;GEN;INAN	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	присутствующих	присутствовать	_	_	PL;IPFV;V;GEN;INAN;PRS;ACT;V.PTCP	_	_	_	_
+16	во	во	_	_	ADP	_	_	_	_
+17	время	время	_	_	SG;N;NEUT;INAN;ACC	_	_	_	_
+18	церемоний	церемония	_	_	PL;FEM;N;GEN;INAN	_	_	_	_
+19	в	в	_	_	ADP	_	_	_	_
+20	Вербное	вербный	_	_	SG;NEUT;ADJ;INAN;ACC	_	_	_	_
+21	воскресенье	воскресение	_	_	SG;N;NEUT;INAN;ACC	_	_	_	_
+22	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01025084
+# text = Это отступление стало неожиданностью для австро-прусской армии, и почти вся датская армия смогла удачно завершить эвакуацию.
+# english_text = This retreat came as a surprise to the Austro-Prussian army, and almost all of the Danish army succeeded in completing the evacuation.
+1	Это	этот	_	_	SG;NOM;NEUT;DET;INAN	_	_	_	_
+2	отступление	отступление	_	_	SG;N;NOM;NEUT;INAN	_	_	_	_
+3	стало	стать	_	_	SG;IND;PST;NEUT;V;PFV	_	_	_	_
+4	неожиданностью	неожиданность	_	_	SG;FEM;N;INS;INAN	_	_	_	_
+5	для	для	_	_	ADP	_	_	_	_
+6	австро-прусской	австро-прусский	_	_	SG;FEM;GEN;ADJ;INAN	_	_	_	_
+7	армии	армия	_	_	SG;FEM;N;GEN;INAN	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	и	и	_	_	CONJ	_	_	_	_
+10	почти	почти	_	_	ADV	_	_	_	_
+11	вся	весь	_	_	SG;FEM;NOM;DET;INAN	_	_	_	_
+12	датская	датский	_	_	SG;FEM;NOM;ADJ;INAN	_	_	_	_
+13	армия	армия	_	_	SG;FEM;N;NOM;INAN	_	_	_	_
+14	смогла	смочь	_	_	SG;FEM;IND;PST;V;PFV	_	_	_	_
+15	удачно	удачно	_	_	ADV	_	_	_	_
+16	завершить	завершить	_	_	PFV;V	_	_	_	_
+17	эвакуацию	эвакуация	_	_	SG;FEM;N;INAN;ACC	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = w02009087
+# text = Во время своего бегства король не соблюдал особую осторожность, поэтому его часто узнавали, когда он останавливался на ночлег.
+# english_text = The king did not take special precautions during his escape and was recognized multiple times during his stays.
+1	Во	во	_	_	ADP	_	_	_	_
+2	время	время	_	_	SG;N;NEUT;INAN;ACC	_	_	_	_
+3	своего	свой	_	_	SG;REFL;GEN;DET;MASC	_	_	_	_
+4	бегства	бегство	_	_	SG;N;NEUT;GEN;INAN	_	_	_	_
+5	король	король	_	_	SG;N;NOM;MASC;ANIM	_	_	_	_
+6	не	не	_	_	PART;NEG	_	_	_	_
+7	соблюдал	соблюдать	_	_	SG;IND;PST;IPFV;V;MASC	_	_	_	_
+8	особую	особый	_	_	SG;FEM;ADJ;INAN;ACC	_	_	_	_
+9	осторожность	осторожность	_	_	SG;FEM;N;INAN;ACC	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	поэтому	поэтому	_	_	ADV	_	_	_	_
+12	его	он	_	_	SG;3;ACC;PRO;MASC	_	_	_	_
+13	часто	часто	_	_	ADV	_	_	_	_
+14	узнавали	узнавать	_	_	PL;IND;PST;IPFV;V	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	когда	когда	_	_	ADV	_	_	_	_
+17	он	он	_	_	SG;NOM;3;PRO;MASC	_	_	_	_
+18	останавливался	останавливаться	_	_	SG;IND;PST;IPFV;V;MASC	_	_	_	_
+19	на	на	_	_	ADP	_	_	_	_
+20	ночлег	ночлег	_	_	SG;N;INAN;ACC;MASC	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01059
+# sent_id = n01059008
+# text = Это рассогласование между экономическими данными и политической риторикой знакомо или должно быть таковым.
+# english_text = This discordance between economic data and political rhetoric is familiar, or should be.
+1	Это	этот	_	_	SG;NOM;NEUT;DET;INAN	_	_	_	_
+2	рассогласование	рассогласование	_	_	SG;N;NOM;NEUT;INAN	_	_	_	_
+3	между	между	_	_	ADP	_	_	_	_
+4	экономическими	экономический	_	_	PL;INS;ADJ;INAN	_	_	_	_
+5	данными	данные	_	_	PL;N;INAN;INS	_	_	_	_
+6	и	и	_	_	CONJ	_	_	_	_
+7	политической	политический	_	_	SG;FEM;INS;ADJ;INAN	_	_	_	_
+8	риторикой	риторика	_	_	SG;FEM;N;INS;INAN	_	_	_	_
+9	знакомо	знакомый	_	_	SG;NOM;NEUT;ADJ;INAN	_	_	_	_
+10	или	или	_	_	CONJ	_	_	_	_
+11	должно	должен	_	_	SG;NOM;NEUT;ADJ;INAN	_	_	_	_
+12	быть	быть	_	_	V;IPFV	_	_	_	_
+13	таковым	таковой	_	_	SG;INS;NEUT;ADJ;INAN	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01080132
+# text = Закрепившись в пограничных регионах Македонии, Филип собрал большую македонскую армию и пошел вглубь Фракии с большим завоевательным походом.
+# english_text = Having secured the bordering regions of Macedon, Philip assembled a large Macedonian army and marched deep into Thrace for a long conquering campaign.
+1	Закрепившись	закрепиться	_	_	PFV;V;V.PTCP	_	_	_	_
+2	в	в	_	_	ADP	_	_	_	_
+3	пограничных	пограничный	_	_	ADJ;INAN;PL	_	_	_	_
+4	регионах	регион	_	_	N;INAN;PL;MASC	_	_	_	_
+5	Македонии	Македония	_	_	SG;FEM;GEN;INAN;PROPN	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	Филип	Филип	_	_	SG;NOM;PROPN;MASC;ANIM	_	_	_	_
+8	собрал	собрать	_	_	SG;IND;PST;V;PFV;MASC	_	_	_	_
+9	большую	большой	_	_	SG;FEM;ADJ;INAN;ACC	_	_	_	_
+10	македонскую	македонский	_	_	SG;FEM;ADJ;INAN;ACC	_	_	_	_
+11	армию	армия	_	_	SG;FEM;N;INAN;ACC	_	_	_	_
+12	и	и	_	_	CONJ	_	_	_	_
+13	пошел	пойти	_	_	SG;IND;PST;V;PFV;MASC	_	_	_	_
+14	вглубь	вглубь	_	_	ADP	_	_	_	_
+15	Фракии	Фракия	_	_	SG;FEM;GEN;INAN;PROPN	_	_	_	_
+16	с	с	_	_	ADP	_	_	_	_
+17	большим	большой	_	_	SG;INS;ADJ;INAN;MASC	_	_	_	_
+18	завоевательным	завоевательный	_	_	SG;INS;ADJ;INAN;MASC	_	_	_	_
+19	походом	поход	_	_	SG;N;INS;INAN;MASC	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01133
+# sent_id = n01133014
+# text = Голландским студентам еще предстоит решить, будут ли они зарабатывать на своих электромотоциклах.
+# english_text = The Dutch students have yet to decide if they will be commercializing their electric motorcycle.
+1	Голландским	голландский	_	_	PL;ADJ;DAT;ANIM	_	_	_	_
+2	студентам	студент	_	_	PL;N;DAT;MASC;ANIM	_	_	_	_
+3	еще	еще	_	_	ADV	_	_	_	_
+4	предстоит	предстоять	_	_	SG;IND;IPFV;V;3;PRS	_	_	_	_
+5	решить	решить	_	_	PFV;V	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	будут	быть	_	_	FUT;PL;IND;V;IPFV;3	_	_	_	_
+8	ли	ли	_	_	PART	_	_	_	_
+9	они	они	_	_	PRO;NOM;3;PL	_	_	_	_
+10	зарабатывать	зарабатывать	_	_	IPFV;V	_	_	_	_
+11	на	на	_	_	ADP	_	_	_	_
+12	своих	свой	_	_	REFL;DET;PL	_	_	_	_
+13	электромотоциклах	электромотоцикл	_	_	N;INAN;PL;MASC	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = w04003054
+# text = Чеканка монет в основном имеет нумизматическое значение и ведется главным образом в целях продажи коллекционерам.
+# english_text = The issuing of coinage is predominantly numismatic in nature, with the intention of being sold mainly to collectors.
+1	Чеканка	чеканка	_	_	SG;FEM;N;NOM;INAN	_	_	_	_
+2	монет	монета	_	_	PL;FEM;N;GEN;INAN	_	_	_	_
+3	в	в	_	_	ADP	_	_	_	_
+4	основном	основное	_	_	NEUT;N;INAN;SG	_	_	_	_
+5	имеет	иметь	_	_	SG;IND;IPFV;V;3;PRS	_	_	_	_
+6	нумизматическое	нумизматический	_	_	SG;NEUT;ADJ;INAN;ACC	_	_	_	_
+7	значение	значение	_	_	SG;N;NEUT;INAN;ACC	_	_	_	_
+8	и	и	_	_	CONJ	_	_	_	_
+9	ведется	вестись	_	_	SG;IND;IPFV;V;3;PRS	_	_	_	_
+10	главным	главный	_	_	SG;INS;ADJ;INAN;MASC	_	_	_	_
+11	образом	образ	_	_	SG;N;INS;INAN;MASC	_	_	_	_
+12	в	в	_	_	ADP	_	_	_	_
+13	целях	цель	_	_	PL;N;INAN;FEM	_	_	_	_
+14	продажи	продажа	_	_	SG;FEM;N;GEN;INAN	_	_	_	_
+15	коллекционерам	коллекционер	_	_	PL;N;DAT;MASC;ANIM	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01070034
+# text = Еще четыре указывают на минимальное и максимальное отклонения полной Луны: летом и зимой.
+# english_text = Four more give the minimum and maximum declinations of the full moon: in summer, and in winter.
+1	Еще	еще	_	_	ADV	_	_	_	_
+2	четыре	четыре	_	_	NOM;NUM;INAN	_	_	_	_
+3	указывают	указывать	_	_	PL;IND;IPFV;V;3;PRS	_	_	_	_
+4	на	на	_	_	ADP	_	_	_	_
+5	минимальное	минимальный	_	_	SG;NEUT;ADJ;INAN;ACC	_	_	_	_
+6	и	и	_	_	CONJ	_	_	_	_
+7	максимальное	максимальный	_	_	SG;NEUT;ADJ;INAN;ACC	_	_	_	_
+8	отклонения	отклонение	_	_	PL;N;NEUT;INAN;ACC	_	_	_	_
+9	полной	полный	_	_	SG;FEM;GEN;ADJ;INAN	_	_	_	_
+10	Луны	Луна	_	_	SG;FEM;GEN;INAN;PROPN	_	_	_	_
+11	:	:	_	_	_	_	_	_	_
+12	летом	лето	_	_	ADV	_	_	_	_
+13	и	и	_	_	CONJ	_	_	_	_
+14	зимой	зима	_	_	ADV	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01053
+# sent_id = w01053015
+# text = Точный год брака Ирода Антипы и Иродиады является предметом споров среди ученых.
+# english_text = The exact year of the marriage of Herod Antipas and Herodias is subject to debate among scholars.
+1	Точный	точный	_	_	SG;NOM;ADJ;INAN;MASC	_	_	_	_
+2	год	год	_	_	SG;N;NOM;INAN;MASC	_	_	_	_
+3	брака	брак	_	_	SG;N;GEN;INAN;MASC	_	_	_	_
+4	Ирода	Ирод	_	_	SG;GEN;PROPN;MASC;ANIM	_	_	_	_
+5	Антипы	Антипа	_	_	SG;GEN;PROPN;MASC;ANIM	_	_	_	_
+6	и	и	_	_	CONJ	_	_	_	_
+7	Иродиады	Иродиада	_	_	SG;FEM;GEN;PROPN;ANIM	_	_	_	_
+8	является	являться	_	_	SG;IND;IPFV;V;3;PRS	_	_	_	_
+9	предметом	предмет	_	_	SG;N;INS;INAN;MASC	_	_	_	_
+10	споров	спор	_	_	PL;N;GEN;INAN;MASC	_	_	_	_
+11	среди	среди	_	_	ADP	_	_	_	_
+12	ученых	ученый	_	_	PL;N;GEN;MASC;ANIM	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01096074
+# text = Сухопутные сражения изменились, по сравнению со статичными линиями фронта во время Первой мировой войны, в сторону повышенной мобильности и комбинированного вооружения.
+# english_text = Land warfare changed from the static front lines of World War I to increased mobility and combined arms.
+1	Сухопутные	сухопутный	_	_	PL;NOM;ADJ;INAN	_	_	_	_
+2	сражения	сражение	_	_	PL;N;NOM;NEUT;INAN	_	_	_	_
+3	изменились	измениться	_	_	PL;IND;PST;V;PFV	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	по	по	_	_	ADP	_	_	_	_
+6	сравнению	сравнение	_	_	SG;N;NEUT;INAN;DAT	_	_	_	_
+7	со	со	_	_	ADP	_	_	_	_
+8	статичными	статичный	_	_	PL;INS;ADJ;INAN	_	_	_	_
+9	линиями	линия	_	_	FEM;PL;N;INS;INAN	_	_	_	_
+10	фронта	фронт	_	_	SG;N;GEN;INAN;MASC	_	_	_	_
+11	во	во	_	_	ADP	_	_	_	_
+12	время	время	_	_	SG;N;NEUT;INAN;ACC	_	_	_	_
+13	Первой	первый	_	_	SG;FEM;GEN;ADJ;INAN	_	_	_	_
+14	мировой	мировой	_	_	SG;FEM;GEN;ADJ;INAN	_	_	_	_
+15	войны	война	_	_	SG;FEM;N;GEN;INAN	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	в	в	_	_	ADP	_	_	_	_
+18	сторону	сторона	_	_	SG;FEM;N;INAN;ACC	_	_	_	_
+19	повышенной	повышенный	_	_	SG;FEM;GEN;ADJ;INAN	_	_	_	_
+20	мобильности	мобильность	_	_	SG;FEM;N;GEN;INAN	_	_	_	_
+21	и	и	_	_	CONJ	_	_	_	_
+22	комбинированного	комбинированный	_	_	SG;NEUT;GEN;ADJ;INAN	_	_	_	_
+23	вооружения	вооружение	_	_	SG;N;NEUT;GEN;INAN	_	_	_	_
+24	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01108015
+# text = Однако у подобного финансирования будут пределы, поскольку правительство все еще работает при значительном дефиците бюджета.
+# english_text = There will be limits to his ability to spend, however, as the Government is still running a substantial budget deficit.
+1	Однако	однако	_	_	ADV	_	_	_	_
+2	у	у	_	_	ADP	_	_	_	_
+3	подобного	подобный	_	_	SG;NEUT;GEN;ADJ;INAN	_	_	_	_
+4	финансирования	финансирование	_	_	SG;N;NEUT;GEN;INAN	_	_	_	_
+5	будут	быть	_	_	FUT;PL;IND;IPFV;V;3	_	_	_	_
+6	пределы	предел	_	_	PL;N;NOM;INAN;MASC	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	поскольку	поскольку	_	_	ADP	_	_	_	_
+9	правительство	правительство	_	_	SG;N;NOM;NEUT;INAN	_	_	_	_
+10	все	все	_	_	ADV	_	_	_	_
+11	еще	еще	_	_	ADV	_	_	_	_
+12	работает	работать	_	_	SG;IND;IPFV;V;3;PRS	_	_	_	_
+13	при	при	_	_	ADP	_	_	_	_
+14	значительном	значительный	_	_	SG;ADJ;INAN;MASC	_	_	_	_
+15	дефиците	дефицит	_	_	N;INAN;SG;MASC	_	_	_	_
+16	бюджета	бюджет	_	_	SG;N;GEN;INAN;MASC	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n02027
+# sent_id = n02027007
+# text = По словам Паркера, в Великобритании задействовано большое количество российских агентов секретной службы.
+# english_text = According to Parker, Russian Secret Service agents are active in large numbers in Great Britain.
+1	По	по	_	_	ADP	_	_	_	_
+2	словам	слово	_	_	PL;N;NEUT;INAN;DAT	_	_	_	_
+3	Паркера	Паркер	_	_	SG;GEN;PROPN;MASC;ANIM	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	в	в	_	_	ADP	_	_	_	_
+6	Великобритании	Великобритания	_	_	PROPN;SG;INAN;FEM	_	_	_	_
+7	задействовано	задействовать	_	_	SG;PASS;PST;NOM;NEUT;V;INAN;PFV	_	_	_	_
+8	большое	большой	_	_	SG;NOM;NEUT;ADJ;INAN	_	_	_	_
+9	количество	количество	_	_	SG;N;NOM;NEUT;INAN	_	_	_	_
+10	российских	российский	_	_	PL;GEN;ADJ;ANIM	_	_	_	_
+11	агентов	агент	_	_	PL;N;GEN;MASC;ANIM	_	_	_	_
+12	секретной	секретный	_	_	SG;FEM;GEN;ADJ;INAN	_	_	_	_
+13	службы	служба	_	_	SG;FEM;N;GEN;INAN	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n02076
+# sent_id = n02076003
+# text = Аднан Амин, генеральный директор Международного агентства по возобновляемым источникам энергии (IRENA), уверен, что «береговая ветроэнергетика может стать главным источником энергии в условиях глобальной безуглевой экономики».
+# english_text = Adnan Z. Amin, General Director of the International Organization for Renewable Energies (IRENA) is certain: "Offshore wind power can become the top power generator in a global economy that is free of coal-based energy."
+1	Аднан	Аднан	_	_	SG;NOM;PROPN;MASC;ANIM	_	_	_	_
+2	Амин	Амин	_	_	SG;NOM;PROPN;MASC;ANIM	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	генеральный	генеральный	_	_	SG;NOM;ADJ;MASC;ANIM	_	_	_	_
+5	директор	директор	_	_	SG;N;NOM;MASC;ANIM	_	_	_	_
+6	Международного	международный	_	_	SG;NEUT;GEN;ADJ;INAN	_	_	_	_
+7	агентства	агентство	_	_	SG;N;NEUT;GEN;INAN	_	_	_	_
+8	по	по	_	_	ADP	_	_	_	_
+9	возобновляемым	возобновлять	_	_	PRS;PL;PASS;IPFV;V;INAN;DAT;V.PTCP	_	_	_	_
+10	источникам	источник	_	_	PL;N;INAN;DAT;MASC	_	_	_	_
+11	энергии	энергия	_	_	SG;FEM;N;GEN;INAN	_	_	_	_
+12	(	(	_	_	_	_	_	_	_
+13	IRENA	Irena	_	_	SG;NOM;NEUT;INAN	_	_	_	_
+14	)	)	_	_	_	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	уверен	уверенный	_	_	SG;NOM;ADJ;MASC;ANIM	_	_	_	_
+17	,	,	_	_	_	_	_	_	_
+18	что	что	_	_	ADP	_	_	_	_
+19	«	«	_	_	_	_	_	_	_
+20	береговая	береговой	_	_	SG;FEM;NOM;ADJ;INAN	_	_	_	_
+21	ветроэнергетика	ветроэнергетика	_	_	SG;FEM;N;NOM;INAN	_	_	_	_
+22	может	мочь	_	_	SG;IND;IPFV;V;3;PRS	_	_	_	_
+23	стать	стать	_	_	PFV;V	_	_	_	_
+24	главным	главный	_	_	SG;INS;ADJ;INAN;MASC	_	_	_	_
+25	источником	источник	_	_	SG;N;INS;INAN;MASC	_	_	_	_
+26	энергии	энергия	_	_	SG;FEM;N;GEN;INAN	_	_	_	_
+27	в	в	_	_	ADP	_	_	_	_
+28	условиях	условие	_	_	NEUT;N;INAN;PL	_	_	_	_
+29	глобальной	глобальный	_	_	SG;FEM;GEN;ADJ;INAN	_	_	_	_
+30	безуглевой	безуглевой	_	_	SG;FEM;GEN;ADJ;INAN	_	_	_	_
+31	экономики	экономика	_	_	SG;FEM;N;GEN;INAN	_	_	_	_
+32	»	»	_	_	_	_	_	_	_
+33	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01091
+# sent_id = w01091016
+# text = Бананы и плантаны, впервые окультуренные в Юго-Восточной Азии, скорее всего, в Папуа — Новой Гвинее, были повторно окультурены в Африке уже 5000 лет назад.
+# english_text = Bananas and plantains, which were first domesticated in Southeast Asia, most likely Papua New Guinea, were re-domesticated in Africa possibly as early as 5,000 years ago.
+1	Бананы	банан	_	_	PL;N;NOM;INAN;MASC	_	_	_	_
+2	и	и	_	_	CONJ	_	_	_	_
+3	плантаны	плантан	_	_	PL;N;NOM;INAN;MASC	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	впервые	впервые	_	_	ADV	_	_	_	_
+6	окультуренные	окультурить	_	_	PL;PASS;PST;NOM;V;INAN;PFV;V.PTCP	_	_	_	_
+7	в	в	_	_	ADP	_	_	_	_
+8	Юго-Восточной	юго-восточный	_	_	SG;FEM;ESS;ADJ;INAN	_	_	_	_
+9	Азии	Азия	_	_	PROPN;SG;INAN;FEM	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	скорее	скоро	_	_	ADV	_	_	_	_
+12	всего	все	_	_	SG;NEUT;GEN;DET;INAN	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	в	в	_	_	ADP	_	_	_	_
+15	Папуа	Папуа	_	_	PROPN;SG;INAN;FEM	_	_	_	_
+16	—	—	_	_	_	_	_	_	_
+17	Новой	новый	_	_	SG;FEM;ADJ;INAN	_	_	_	_
+18	Гвинее	Гвинея	_	_	PROPN;SG;INAN;FEM	_	_	_	_
+19	,	,	_	_	_	_	_	_	_
+20	были	быть	_	_	PL;IND;PST;V;IPFV	_	_	_	_
+21	повторно	повторно	_	_	ADV	_	_	_	_
+22	окультурены	окультурить	_	_	PL;PASS;PST;NOM;V;INAN;PFV	_	_	_	_
+23	в	в	_	_	ADP	_	_	_	_
+24	Африке	Африка	_	_	PROPN;SG;INAN;FEM	_	_	_	_
+25	уже	уже	_	_	ADV	_	_	_	_
+26	5000	5000	_	_	FEM;PL;NUM;INAN;ACC	_	_	_	_
+27	лет	год	_	_	PL;N;GEN;INAN;MASC	_	_	_	_
+28	назад	назад	_	_	ADV	_	_	_	_
+29	.	.	_	_	_	_	_	_	_
+
+# sent_id = n05003019
+# text = Несмотря на них, не все в партии понимали, что президент пытался сказать им вчера.
+# english_text = In spite of them, not everyone in the party understood the messages that the president tried to send to them yesterday.
+1	Несмотря	несмотря	_	_	ADP	_	_	_	_
+2	на	на	_	_	ADP	_	_	_	_
+3	них	они	_	_	PRO;PL;3;ACC	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	не	не	_	_	PART;NEG	_	_	_	_
+6	все	все	_	_	NOM;PL;DET;ANIM	_	_	_	_
+7	в	в	_	_	ADP	_	_	_	_
+8	партии	партия	_	_	SG;N;INAN;FEM	_	_	_	_
+9	понимали	понимать	_	_	PL;IND;PST;IPFV;V	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	что	что	_	_	PRO;INAN;ACC;NEUT	_	_	_	_
+12	президент	президент	_	_	SG;N;NOM;MASC;ANIM	_	_	_	_
+13	пытался	пытаться	_	_	SG;IND;PST;IPFV;V;MASC	_	_	_	_
+14	сказать	сказать	_	_	PFV;V	_	_	_	_
+15	им	он	_	_	PRO;DAT;3;PL	_	_	_	_
+16	вчера	вчера	_	_	ADV	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01057
+# sent_id = w01057006
+# text = Каждое стихотворение повествует только о некотором эпизоде войны.
+# english_text = Each poem narrates only a part of the war.
+1	Каждое	каждый	_	_	SG;NOM;NEUT;DET;INAN	_	_	_	_
+2	стихотворение	стихотворение	_	_	SG;N;NOM;NEUT;INAN	_	_	_	_
+3	повествует	повествовать	_	_	SG;IND;IPFV;V;3;PRS	_	_	_	_
+4	только	только	_	_	ADV	_	_	_	_
+5	о	о	_	_	ADP	_	_	_	_
+6	некотором	некоторый	_	_	SG;DET;INAN;MASC	_	_	_	_
+7	эпизоде	эпизод	_	_	N;INAN;SG;MASC	_	_	_	_
+8	войны	война	_	_	SG;FEM;N;GEN;INAN	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01144056
+# text = Президентская гонка 1980 года между Рейганом и действующим президентом Джимми Картером проходила на фоне внутренних волнений и захвата американских заложников в Иране.
+# english_text = The 1980 presidential campaign between Reagan and incumbent President Jimmy Carter was conducted during domestic concerns and the ongoing Iran hostage crisis.
+1	Президентская	президентский	_	_	SG;FEM;NOM;ADJ;INAN	_	_	_	_
+2	гонка	гонка	_	_	SG;FEM;N;NOM;INAN	_	_	_	_
+3	1980	1980	_	_	SG;GEN;NUM;INAN;MASC	_	_	_	_
+4	года	год	_	_	SG;N;GEN;INAN;MASC	_	_	_	_
+5	между	между	_	_	ADP	_	_	_	_
+6	Рейганом	Рейган	_	_	SG;INS;PROPN;MASC;ANIM	_	_	_	_
+7	и	и	_	_	CONJ	_	_	_	_
+8	действующим	действующий	_	_	SG;INS;ADJ;MASC;ANIM	_	_	_	_
+9	президентом	президент	_	_	SG;N;INS;MASC;ANIM	_	_	_	_
+10	Джимми	Джимми	_	_	SG;INS;PROPN;MASC;ANIM	_	_	_	_
+11	Картером	Картер	_	_	SG;INS;PROPN;MASC;ANIM	_	_	_	_
+12	проходила	проходить	_	_	SG;FEM;IND;PST;IPFV;V	_	_	_	_
+13	на	на	_	_	ADP	_	_	_	_
+14	фоне	фон	_	_	N;INAN;SG;MASC	_	_	_	_
+15	внутренних	внутренний	_	_	PL;GEN;ADJ;INAN	_	_	_	_
+16	волнений	волнение	_	_	PL;N;NEUT;GEN;INAN	_	_	_	_
+17	и	и	_	_	CONJ	_	_	_	_
+18	захвата	захват	_	_	SG;N;GEN;INAN;MASC	_	_	_	_
+19	американских	американский	_	_	PL;GEN;ADJ;ANIM	_	_	_	_
+20	заложников	заложник	_	_	PL;N;GEN;MASC;ANIM	_	_	_	_
+21	в	в	_	_	ADP	_	_	_	_
+22	Иране	Иран	_	_	PROPN;SG;INAN;MASC	_	_	_	_
+23	.	.	_	_	_	_	_	_	_
+
+# sent_id = w05010025
+# text = В это время его место трибуна занимал Марк Антоний, который оставался в этой должности до декабря.
+# english_text = Meanwhile, his place in tribune was occupied by Marco Antonio, who held the position until December.
+1	В	в	_	_	ADP	_	_	_	_
+2	это	этот	_	_	SG;NEUT;DET;INAN;ACC	_	_	_	_
+3	время	время	_	_	SG;N;NEUT;INAN;ACC	_	_	_	_
+4	его	его	_	_	PSSS;DET;3;ACC	_	_	_	_
+5	место	место	_	_	SG;N;NEUT;INAN;ACC	_	_	_	_
+6	трибуна	трибуна	_	_	SG;N;GEN;MASC;ANIM	_	_	_	_
+7	занимал	занимать	_	_	SG;IND;PST;IPFV;V;MASC	_	_	_	_
+8	Марк	Марк	_	_	SG;NOM;PROPN;MASC;ANIM	_	_	_	_
+9	Антоний	Антоний	_	_	SG;NOM;PROPN;MASC;ANIM	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	который	который	_	_	SG;NOM;DET;MASC;ANIM	_	_	_	_
+12	оставался	оставаться	_	_	SG;IND;PST;IPFV;V;MASC	_	_	_	_
+13	в	в	_	_	ADP	_	_	_	_
+14	этой	этот	_	_	SG;DET;INAN;FEM	_	_	_	_
+15	должности	должность	_	_	SG;N;INAN;FEM	_	_	_	_
+16	до	до	_	_	ADP	_	_	_	_
+17	декабря	декабрь	_	_	SG;N;GEN;INAN;MASC	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01042
+# sent_id = w01042055
+# text = Гроза является редким явлением: городские инстанции фиксируют наступающий гром всего семь дней в год.
+# english_text = Thunderstorms are rare, as the city reports thunder on just seven days per year.
+1	Гроза	гроза	_	_	SG;FEM;N;NOM;INAN	_	_	_	_
+2	является	являться	_	_	SG;IND;IPFV;V;3;PRS	_	_	_	_
+3	редким	редкий	_	_	SG;INS;NEUT;ADJ;INAN	_	_	_	_
+4	явлением	явление	_	_	SG;N;INS;NEUT;INAN	_	_	_	_
+5	:	:	_	_	_	_	_	_	_
+6	городские	городской	_	_	PL;NOM;ADJ;INAN	_	_	_	_
+7	инстанции	инстанция	_	_	PL;FEM;N;NOM;INAN	_	_	_	_
+8	фиксируют	фиксировать	_	_	PL;IND;IPFV;V;3;PRS	_	_	_	_
+9	наступающий	наступать	_	_	SG;ADJ;INAN;ACC;MASC	_	_	_	_
+10	гром	гром	_	_	SG;N;INAN;ACC;MASC	_	_	_	_
+11	всего	всего	_	_	PART	_	_	_	_
+12	семь	семь	_	_	NUM;ACC	_	_	_	_
+13	дней	день	_	_	PL;N;GEN;INAN;MASC	_	_	_	_
+14	в	в	_	_	ADP	_	_	_	_
+15	год	год	_	_	SG;N;INAN;ACC;MASC	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01134078
+# text = В конце жизни Мисима стал приверженцем крайне специфической ветви национализма.
+# english_text = Mishima espoused a very individual brand of nationalism towards the end of his life.
+1	В	в	_	_	ADP	_	_	_	_
+2	конце	конец	_	_	N;INAN;SG;MASC	_	_	_	_
+3	жизни	жизнь	_	_	SG;FEM;N;GEN;INAN	_	_	_	_
+4	Мисима	Мисима	_	_	SG;NOM;PROPN;MASC;ANIM	_	_	_	_
+5	стал	стать	_	_	SG;IND;PST;V;PFV;MASC	_	_	_	_
+6	приверженцем	приверженец	_	_	SG;N;INS;MASC;ANIM	_	_	_	_
+7	крайне	крайне	_	_	ADV	_	_	_	_
+8	специфической	специфический	_	_	SG;FEM;GEN;ADJ;INAN	_	_	_	_
+9	ветви	ветвь	_	_	SG;FEM;N;GEN;INAN	_	_	_	_
+10	национализма	национализм	_	_	SG;N;GEN;INAN;MASC	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01127130
+# text = Спустя два года Джаттинг, представший перед судом первой инстанции в Гонконге, выглядит довольно-таки спокойно.
+# english_text = In Hong Kong's High Court, two years later, Jutting appeared largely composed.
+1	Спустя	спустя	_	_	ADP	_	_	_	_
+2	два	два	_	_	NUM;INAN;ACC;MASC	_	_	_	_
+3	года	год	_	_	SG;N;GEN;INAN;MASC	_	_	_	_
+4	Джаттинг	Джаттинг	_	_	SG;NOM;PROPN;MASC;ANIM	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	представший	предстать	_	_	SG;V.PTCP;PST;NOM;V;PFV;ACT;MASC;ANIM	_	_	_	_
+7	перед	перед	_	_	ADP	_	_	_	_
+8	судом	суд	_	_	SG;N;INS;INAN;MASC	_	_	_	_
+9	первой	первый	_	_	SG;FEM;GEN;ADJ;INAN	_	_	_	_
+10	инстанции	инстанция	_	_	SG;FEM;N;GEN;INAN	_	_	_	_
+11	в	в	_	_	ADP	_	_	_	_
+12	Гонконге	Гонконг	_	_	PROPN;SG;INAN;MASC	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	выглядит	выглядеть	_	_	SG;IND;IPFV;V;3;PRS	_	_	_	_
+15	довольно-таки	довольно-таки	_	_	ADV	_	_	_	_
+16	спокойно	спокойно	_	_	ADV	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01129010
+# text = Это очень важный вопрос национальной безопасности.
+# english_text = This is a homeland security issue of the most existential kind.
+1	Это	это	_	_	SG;NOM;NEUT;INAN;PRO	_	_	_	_
+2	очень	очень	_	_	ADV	_	_	_	_
+3	важный	важный	_	_	SG;NOM;ADJ;INAN;MASC	_	_	_	_
+4	вопрос	вопрос	_	_	SG;N;NOM;INAN;MASC	_	_	_	_
+5	национальной	национальный	_	_	SG;FEM;GEN;ADJ;INAN	_	_	_	_
+6	безопасности	безопасность	_	_	SG;FEM;N;GEN;INAN	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01116
+# sent_id = w01116036
+# text = Первое издание было напечатано тиражом всего 3000 экземпляров.
+# english_text = Only 3000 copies were published of the first edition.
+1	Первое	первый	_	_	SG;NOM;NEUT;ADJ;INAN	_	_	_	_
+2	издание	издание	_	_	SG;N;NOM;NEUT;INAN	_	_	_	_
+3	было	быть	_	_	SG;IND;PST;V;IPFV;NEUT	_	_	_	_
+4	напечатано	напечатать	_	_	SG;PASS;PST;NOM;NEUT;V;INAN;PFV	_	_	_	_
+5	тиражом	тираж	_	_	SG;N;INS;INAN;MASC	_	_	_	_
+6	всего	всего	_	_	PART	_	_	_	_
+7	3000	3000	_	_	PL;FEM;NOM;NUM;INAN	_	_	_	_
+8	экземпляров	экземпляр	_	_	PL;N;GEN;INAN;MASC	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01044
+# sent_id = n01044004
+# text = Гомери, который возглавлял комиссию по расследованию федерального спонсорского скандала между 2004 и 2006 годами, сказал, что такие органы имеют важное значение, чтобы помочь восстановить общественное доверие к верховенству закона.
+# english_text = Gomery, who led the commission of inquiry into the federal sponsorship scandal between 2004 and 2006, said such bodies are essential to help restore public confidence in the rule of law.
+1	Гомери	Гомери	_	_	SG;NOM;PROPN;MASC;ANIM	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	который	который	_	_	SG;NOM;DET;MASC;ANIM	_	_	_	_
+4	возглавлял	возглавлять	_	_	SG;IND;PST;IPFV;V;MASC	_	_	_	_
+5	комиссию	комиссия	_	_	SG;FEM;N;INAN;ACC	_	_	_	_
+6	по	по	_	_	ADP	_	_	_	_
+7	расследованию	расследование	_	_	SG;N;NEUT;INAN;DAT	_	_	_	_
+8	федерального	федеральный	_	_	SG;GEN;ADJ;INAN;MASC	_	_	_	_
+9	спонсорского	спонсорский	_	_	SG;GEN;ADJ;INAN;MASC	_	_	_	_
+10	скандала	скандал	_	_	SG;N;GEN;INAN;MASC	_	_	_	_
+11	между	между	_	_	ADP	_	_	_	_
+12	2004	2004	_	_	SG;INS;NUM;INAN;MASC	_	_	_	_
+13	и	и	_	_	CONJ	_	_	_	_
+14	2006	2006	_	_	SG;INS;NUM;INAN;MASC	_	_	_	_
+15	годами	год	_	_	PL;N;INS;INAN;MASC	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	сказал	сказать	_	_	SG;IND;PST;V;PFV;MASC	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	что	что	_	_	CONJ	_	_	_	_
+20	такие	такой	_	_	PL;NOM;DET;INAN	_	_	_	_
+21	органы	орган	_	_	PL;N;NOM;INAN;MASC	_	_	_	_
+22	имеют	иметь	_	_	PL;IND;IPFV;V;3;PRS	_	_	_	_
+23	важное	важный	_	_	SG;NEUT;ADJ;INAN;ACC	_	_	_	_
+24	значение	значение	_	_	SG;N;NEUT;INAN;ACC	_	_	_	_
+25	,	,	_	_	_	_	_	_	_
+26	чтобы	чтобы	_	_	ADP	_	_	_	_
+27	помочь	помочь	_	_	PFV;V	_	_	_	_
+28	восстановить	восстановить	_	_	PFV;V	_	_	_	_
+29	общественное	общественный	_	_	SG;NEUT;ADJ;INAN;ACC	_	_	_	_
+30	доверие	доверие	_	_	SG;N;NEUT;INAN;ACC	_	_	_	_
+31	к	к	_	_	ADP	_	_	_	_
+32	верховенству	верховенство	_	_	SG;N;NEUT;INAN;DAT	_	_	_	_
+33	закона	закон	_	_	SG;N;GEN;INAN;MASC	_	_	_	_
+34	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01020018
+# text = В связи с общим климатом, геологией и доступом к морю, страны, сосредоточенные на Средиземноморском побережье, как правило, характеризуются в некоторой степени смешением культуры и истории.
+# english_text = Due to the shared climate, geology, and access to the sea, cultures centered on the Mediterranean tended to have some extent of intertwined culture and history.
+1	В	в	_	_	ADP	_	_	_	_
+2	связи	связь	_	_	SG;N;INAN;FEM	_	_	_	_
+3	с	с	_	_	ADP	_	_	_	_
+4	общим	общий	_	_	SG;INS;ADJ;INAN;MASC	_	_	_	_
+5	климатом	климат	_	_	SG;N;INS;INAN;MASC	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	геологией	геология	_	_	SG;FEM;N;INS;INAN	_	_	_	_
+8	и	и	_	_	CONJ	_	_	_	_
+9	доступом	доступ	_	_	SG;N;INS;INAN;MASC	_	_	_	_
+10	к	к	_	_	ADP	_	_	_	_
+11	морю	море	_	_	SG;N;NEUT;INAN;DAT	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	страны	страна	_	_	PL;FEM;N;NOM;INAN	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	сосредоточенные	сосредоточить	_	_	PL;PASS;PST;NOM;V;INAN;PFV;V.PTCP	_	_	_	_
+16	на	на	_	_	ADP	_	_	_	_
+17	Средиземноморском	средиземноморский	_	_	SG;NEUT;ADJ;INAN	_	_	_	_
+18	побережье	побережье	_	_	NEUT;N;INAN;SG	_	_	_	_
+19	,	,	_	_	_	_	_	_	_
+20	как	как	_	_	CONJ	_	_	_	_
+21	правило	правило	_	_	SG;N;NOM;NEUT;INAN	_	_	_	_
+22	,	,	_	_	_	_	_	_	_
+23	характеризуются	характеризоваться	_	_	PL;IND;IPFV;V;3;PRS	_	_	_	_
+24	в	в	_	_	ADP	_	_	_	_
+25	некоторой	некоторый	_	_	SG;FEM;DET;INAN	_	_	_	_
+26	степени	степень	_	_	SG;N;INAN;FEM	_	_	_	_
+27	смешением	смешение	_	_	SG;N;INS;NEUT;INAN	_	_	_	_
+28	культуры	культура	_	_	SG;FEM;N;GEN;INAN	_	_	_	_
+29	и	и	_	_	CONJ	_	_	_	_
+30	истории	история	_	_	SG;FEM;N;GEN;INAN	_	_	_	_
+31	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01122064
+# text = Достигнув пика карьеры в Австралии, Гейер вернулась и поселилась в Лос-Анжелесе в 1984 году, чтобы сконцентрироваться на завоевании музыкальной сцены в Америке.
+# english_text = Having enjoyed a career peak at home in Australia, Geyer returned to live in Los Angeles in 1984 to concentrate on breaking into the musical scene there.
+1	Достигнув	достигнуть	_	_	PFV;V;V.PTCP	_	_	_	_
+2	пика	пик	_	_	SG;N;GEN;INAN;MASC	_	_	_	_
+3	карьеры	карьера	_	_	SG;FEM;N;GEN;INAN	_	_	_	_
+4	в	в	_	_	ADP	_	_	_	_
+5	Австралии	Австралия	_	_	SG;FEM;ESS;INAN;PROPN	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	Гейер	Гейер	_	_	SG;FEM;NOM;PROPN;ANIM	_	_	_	_
+8	вернулась	вернуться	_	_	SG;FEM;IND;PST;V;PFV	_	_	_	_
+9	и	и	_	_	CONJ	_	_	_	_
+10	поселилась	поселиться	_	_	SG;FEM;IND;PST;V;PFV	_	_	_	_
+11	в	в	_	_	ADP	_	_	_	_
+12	Лос-Анжелесе	Лос-Анжелес	_	_	SG;ESS;INAN;PROPN;MASC	_	_	_	_
+13	в	в	_	_	ADP	_	_	_	_
+14	1984	1984	_	_	SG;NUM;INAN;MASC	_	_	_	_
+15	году	год	_	_	SG;N;ESS;INAN;MASC	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	чтобы	чтобы	_	_	ADP	_	_	_	_
+18	сконцентрироваться	сконцентрироваться	_	_	PFV;V	_	_	_	_
+19	на	на	_	_	ADP	_	_	_	_
+20	завоевании	завоевание	_	_	NEUT;N;INAN;SG	_	_	_	_
+21	музыкальной	музыкальный	_	_	SG;FEM;GEN;ADJ;INAN	_	_	_	_
+22	сцены	сцена	_	_	SG;FEM;N;GEN;INAN	_	_	_	_
+23	в	в	_	_	ADP	_	_	_	_
+24	Америке	Америка	_	_	PROPN;SG;INAN;FEM	_	_	_	_
+25	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n03004
+# sent_id = n03004003
+# text = В четверг 3 ноября мэр города Сан-Годан (в регионе Верхняя Гаронна) принял решение прервать действие соглашения по городскому развитию, заключенного с правительством, сформированным в 2014 году.
+# english_text = On Thursday, the 3rd of November, the mayor of Saint-Gaudens (in the Haute-Garonne region) decided to suspend the urban development agreement with the government formed in 2014.
+1	В	в	_	_	ADP	_	_	_	_
+2	четверг	четверг	_	_	SG;N;INAN;ACC;MASC	_	_	_	_
+3	3	3	_	_	SG;GEN;ADJ;INAN;MASC	_	_	_	_
+4	ноября	ноябрь	_	_	SG;N;GEN;INAN;MASC	_	_	_	_
+5	мэр	мэр	_	_	SG;N;NOM;MASC;ANIM	_	_	_	_
+6	города	город	_	_	SG;N;GEN;INAN;MASC	_	_	_	_
+7	Сан-Годан	Сан-Годан	_	_	SG;NOM;INAN;PROPN;MASC	_	_	_	_
+8	(	(	_	_	_	_	_	_	_
+9	в	в	_	_	ADP	_	_	_	_
+10	регионе	регион	_	_	N;INAN;SG;MASC	_	_	_	_
+11	Верхняя	верхний	_	_	SG;FEM;NOM;ADJ;INAN	_	_	_	_
+12	Гаронна	Гаронна	_	_	SG;FEM;NOM;INAN;PROPN	_	_	_	_
+13	)	)	_	_	_	_	_	_	_
+14	принял	принять	_	_	SG;IND;PST;V;PFV;MASC	_	_	_	_
+15	решение	решение	_	_	SG;N;NEUT;INAN;ACC	_	_	_	_
+16	прервать	прервать	_	_	PFV;V;NFIN	_	_	_	_
+17	действие	действие	_	_	SG;N;NEUT;INAN;ACC	_	_	_	_
+18	соглашения	соглашение	_	_	SG;N;NEUT;GEN;INAN	_	_	_	_
+19	по	по	_	_	ADP	_	_	_	_
+20	городскому	городской	_	_	SG;NEUT;ADJ;INAN;DAT	_	_	_	_
+21	развитию	развитие	_	_	SG;N;NEUT;INAN;DAT	_	_	_	_
+22	,	,	_	_	_	_	_	_	_
+23	заключенного	заключить	_	_	SG;PASS;PST;NEUT;V;INAN;PFV;DAT;V.PTCP	_	_	_	_
+24	с	с	_	_	ADP	_	_	_	_
+25	правительством	правительство	_	_	SG;N;INS;NEUT;INAN	_	_	_	_
+26	,	,	_	_	_	_	_	_	_
+27	сформированным	сформировать	_	_	SG;PASS;PST;INS;NEUT;V;INAN;PFV;V.PTCP	_	_	_	_
+28	в	в	_	_	ADP	_	_	_	_
+29	2014	2014	_	_	SG;NUM;INAN;MASC	_	_	_	_
+30	году	год	_	_	SG;N;ESS;INAN;MASC	_	_	_	_
+31	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01144086
+# text = Рейган верил, что Бог сохранил его жизнь для того, чтобы он мог достичь великой цели.
+# english_text = Reagan believed that God had spared his life so that he might go on to fulfill a greater purpose.
+1	Рейган	Рейган	_	_	SG;NOM;PROPN;MASC;ANIM	_	_	_	_
+2	верил	верить	_	_	SG;IND;PST;IPFV;V;MASC	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	что	что	_	_	ADP	_	_	_	_
+5	Бог	Бог	_	_	SG;NOM;PROPN;MASC;ANIM	_	_	_	_
+6	сохранил	сохранить	_	_	SG;IND;PST;V;PFV;MASC	_	_	_	_
+7	его	его	_	_	PSSS;DET;3;ACC	_	_	_	_
+8	жизнь	жизнь	_	_	SG;FEM;N;INAN;ACC	_	_	_	_
+9	для	для	_	_	ADP	_	_	_	_
+10	того	то	_	_	SG;NEUT;GEN;DET;INAN	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	чтобы	чтобы	_	_	ADP	_	_	_	_
+13	он	он	_	_	SG;NOM;3;PRO;MASC	_	_	_	_
+14	мог	мочь	_	_	SG;IND;PST;IPFV;V;MASC	_	_	_	_
+15	достичь	достичь	_	_	PFV;V	_	_	_	_
+16	великой	великий	_	_	SG;FEM;GEN;ADJ;INAN	_	_	_	_
+17	цели	цель	_	_	SG;FEM;N;GEN;INAN	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01078
+# sent_id = w01078013
+# text = В частности, на протяжении нескольких абзацев обсуждается дегенеративное в социальном и культурном плане влияние войны на человечество в целом.
+# english_text = It specifically discusses in several passages the socially and culturally degenerative effects of war on humanity itself.
+1	В	в	_	_	ADP	_	_	_	_
+2	частности	частность	_	_	SG;N;INAN;FEM	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	на	на	_	_	ADP	_	_	_	_
+5	протяжении	протяжение	_	_	NEUT;N;INAN;SG	_	_	_	_
+6	нескольких	несколько	_	_	PL;GEN;NUM;INAN	_	_	_	_
+7	абзацев	абзац	_	_	PL;N;GEN;INAN;MASC	_	_	_	_
+8	обсуждается	обсуждаться	_	_	SG;IND;IPFV;V;3;PRS	_	_	_	_
+9	дегенеративное	дегенеративный	_	_	SG;NOM;NEUT;ADJ;INAN	_	_	_	_
+10	в	в	_	_	ADP	_	_	_	_
+11	социальном	социальный	_	_	SG;ADJ;INAN;MASC	_	_	_	_
+12	и	и	_	_	CONJ	_	_	_	_
+13	культурном	культурный	_	_	SG;ADJ;INAN;MASC	_	_	_	_
+14	плане	план	_	_	N;INAN;SG;MASC	_	_	_	_
+15	влияние	влияние	_	_	SG;N;NOM;NEUT;INAN	_	_	_	_
+16	войны	война	_	_	SG;FEM;N;GEN;INAN	_	_	_	_
+17	на	на	_	_	ADP	_	_	_	_
+18	человечество	человечество	_	_	SG;N;NEUT;INAN;ACC	_	_	_	_
+19	в	в	_	_	ADP	_	_	_	_
+20	целом	целое	_	_	NEUT;N;INAN;SG	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01040102
+# text = Мелкие частицы, лежащие на открытой земле, начинают вибрировать сразу после появления устойчивого ветра.
+# english_text = As a steady wind begins to blow, fine particles lying on the exposed ground begin to vibrate.
+1	Мелкие	мелкий	_	_	PL;NOM;ADJ;INAN	_	_	_	_
+2	частицы	частица	_	_	PL;FEM;N;NOM;INAN	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	лежащие	лежать	_	_	PL;NOM;IPFV;V;INAN;PRS;ACT;V.PTCP	_	_	_	_
+5	на	на	_	_	ADP	_	_	_	_
+6	открытой	открытый	_	_	SG;FEM;ADJ;INAN	_	_	_	_
+7	земле	земля	_	_	SG;N;INAN;FEM	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	начинают	начинать	_	_	PL;IND;IPFV;V;3;PRS	_	_	_	_
+10	вибрировать	вибрировать	_	_	IPFV;V	_	_	_	_
+11	сразу	сразу	_	_	ADV	_	_	_	_
+12	после	после	_	_	ADP	_	_	_	_
+13	появления	появление	_	_	SG;N;NEUT;GEN;INAN	_	_	_	_
+14	устойчивого	устойчивый	_	_	SG;GEN;ADJ;INAN;MASC	_	_	_	_
+15	ветра	ветер	_	_	SG;N;GEN;INAN;MASC	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01045003
+# text = После открытия Америки Христофором Колумбом в 1492 году испанский термин «Антиллас» применялся к землям; исходя из этого, «Море Антильских островов» стало распространенным альтернативным названием «Карибского моря» на различных европейских языках.
+# english_text = After the discovery of America by Christopher Columbus in 1492, the Spanish term Antillas applied to the lands; stemming from this, "Sea of the Antilles" became a common alternative name for "Caribbean Sea" in various European languages.
+1	После	после	_	_	ADP	_	_	_	_
+2	открытия	открытие	_	_	SG;N;NEUT;GEN;INAN	_	_	_	_
+3	Америки	Америка	_	_	SG;FEM;GEN;INAN;PROPN	_	_	_	_
+4	Христофором	Христофор	_	_	SG;INS;PROPN;MASC;ANIM	_	_	_	_
+5	Колумбом	Колумб	_	_	SG;INS;PROPN;MASC;ANIM	_	_	_	_
+6	в	в	_	_	ADP	_	_	_	_
+7	1492	1492	_	_	SG;NUM;INAN;MASC	_	_	_	_
+8	году	год	_	_	SG;N;ESS;INAN;MASC	_	_	_	_
+9	испанский	испанский	_	_	SG;NOM;ADJ;INAN;MASC	_	_	_	_
+10	термин	термин	_	_	SG;N;NOM;INAN;MASC	_	_	_	_
+11	«	«	_	_	_	_	_	_	_
+12	Антиллас	Антиллас	_	_	SG;NOM;PROPN;MASC;ANIM	_	_	_	_
+13	»	»	_	_	_	_	_	_	_
+14	применялся	применяться	_	_	SG;IND;PST;IPFV;V;MASC	_	_	_	_
+15	к	к	_	_	ADP	_	_	_	_
+16	землям	земля	_	_	PL;FEM;N;INAN;DAT	_	_	_	_
+17	;	;	_	_	_	_	_	_	_
+18	исходя	исходить	_	_	IPFV;V;V.PTCP	_	_	_	_
+19	из	из	_	_	ADP	_	_	_	_
+20	этого	это	_	_	SG;NEUT;GEN;DET;INAN	_	_	_	_
+21	,	,	_	_	_	_	_	_	_
+22	«	«	_	_	_	_	_	_	_
+23	Море	море	_	_	SG;N;NOM;NEUT;INAN	_	_	_	_
+24	Антильских	антильский	_	_	PL;GEN;ADJ;INAN	_	_	_	_
+25	островов	остров	_	_	PL;N;GEN;INAN;MASC	_	_	_	_
+26	»	»	_	_	_	_	_	_	_
+27	стало	стать	_	_	SG;IND;PST;NEUT;V;PFV	_	_	_	_
+28	распространенным	распространенный	_	_	SG;INS;NEUT;ADJ;INAN	_	_	_	_
+29	альтернативным	альтернативный	_	_	SG;INS;NEUT;ADJ;INAN	_	_	_	_
+30	названием	название	_	_	SG;N;INS;NEUT;INAN	_	_	_	_
+31	«	«	_	_	_	_	_	_	_
+32	Карибского	карибский	_	_	SG;NEUT;GEN;ADJ;INAN	_	_	_	_
+33	моря	море	_	_	SG;N;NEUT;GEN;INAN	_	_	_	_
+34	»	»	_	_	_	_	_	_	_
+35	на	на	_	_	ADP	_	_	_	_
+36	различных	различный	_	_	ADJ;INAN;PL	_	_	_	_
+37	европейских	европейский	_	_	ADJ;INAN;PL	_	_	_	_
+38	языках	язык	_	_	N;INAN;PL;MASC	_	_	_	_
+39	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01043
+# sent_id = n01043005
+# text = Руководители также получили так называемую «сдельную заработную плату» за выполнение или превышение ожиданий, разделив между собой сумму в 1,5 миллиона долларов США, или, в среднем 15 000 долларов США каждый.
+# english_text = The executives also received so-called "performance pay" for succeeding or surpassing expectations, sharing a pot of $1.5 million among them, or an estimated $15,000 each on average.
+1	Руководители	руководитель	_	_	PL;N;NOM;MASC;ANIM	_	_	_	_
+2	также	также	_	_	ADV	_	_	_	_
+3	получили	получить	_	_	PL;IND;PST;V;PFV	_	_	_	_
+4	так	так	_	_	ADV	_	_	_	_
+5	называемую	называть	_	_	SG;FEM;PASS;IPFV;V;INAN;ACC;PRS;V.PTCP	_	_	_	_
+6	«	«	_	_	_	_	_	_	_
+7	сдельную	сдельный	_	_	SG;FEM;ADJ;INAN;ACC	_	_	_	_
+8	заработную	заработный	_	_	SG;FEM;ADJ;INAN;ACC	_	_	_	_
+9	плату	плата	_	_	SG;FEM;N;INAN;ACC	_	_	_	_
+10	»	»	_	_	_	_	_	_	_
+11	за	за	_	_	ADP	_	_	_	_
+12	выполнение	выполнение	_	_	SG;N;NEUT;INAN;ACC	_	_	_	_
+13	или	или	_	_	CONJ	_	_	_	_
+14	превышение	превышение	_	_	SG;N;NEUT;INAN;ACC	_	_	_	_
+15	ожиданий	ожидание	_	_	PL;N;NEUT;GEN;INAN	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	разделив	разделить	_	_	PFV;V;V.PTCP	_	_	_	_
+18	между	между	_	_	ADP	_	_	_	_
+19	собой	себя	_	_	PRO;REFL;INS	_	_	_	_
+20	сумму	сумма	_	_	SG;FEM;N;INAN;ACC	_	_	_	_
+21	в	в	_	_	ADP	_	_	_	_
+22	1,5	1,5	_	_	NUM;ACC	_	_	_	_
+23	миллиона	миллион	_	_	SG;N;GEN;INAN;MASC	_	_	_	_
+24	долларов	доллар	_	_	PL;N;GEN;INAN;MASC	_	_	_	_
+25	США	США	_	_	PL;GEN;INAN;PROPN;MASC	_	_	_	_
+26	,	,	_	_	_	_	_	_	_
+27	или	или	_	_	CONJ	_	_	_	_
+28	,	,	_	_	_	_	_	_	_
+29	в	в	_	_	ADP	_	_	_	_
+30	среднем	среднее	_	_	NEUT;N;INAN;SG	_	_	_	_
+31	15 000	15000	_	_	PL;FEM;N;GEN;INAN	_	_	_	_
+32	долларов	доллар	_	_	PL;N;GEN;INAN;MASC	_	_	_	_
+33	США	США	_	_	PL;GEN;INAN;PROPN;MASC	_	_	_	_
+34	каждый	каждый	_	_	SG;NOM;ADJ;MASC;ANIM	_	_	_	_
+35	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01101
+# sent_id = w01101020
+# text = Ламарр сопровождала Мандла на деловые встречи, где тот разговаривал с учеными и другими специалистами, занимающимися военными технологиями.
+# english_text = Lamarr accompanied Mandl to business meetings where he conferred with scientists and other professionals involved in military technology.
+1	Ламарр	Ламарр	_	_	SG;FEM;NOM;PROPN;ANIM	_	_	_	_
+2	сопровождала	сопровождать	_	_	SG;FEM;IND;PST;IPFV;V	_	_	_	_
+3	Мандла	Мандл	_	_	SG;ACC;PROPN;MASC;ANIM	_	_	_	_
+4	на	на	_	_	ADP	_	_	_	_
+5	деловые	деловой	_	_	PL;ADJ;INAN;ACC	_	_	_	_
+6	встречи	встреча	_	_	FEM;PL;N;INAN;ACC	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	где	где	_	_	ADV	_	_	_	_
+9	тот	тот	_	_	SG;NOM;DET;MASC;ANIM	_	_	_	_
+10	разговаривал	разговаривать	_	_	SG;IND;PST;IPFV;V;MASC	_	_	_	_
+11	с	с	_	_	ADP	_	_	_	_
+12	учеными	ученый	_	_	PL;N;INS;MASC;ANIM	_	_	_	_
+13	и	и	_	_	CONJ	_	_	_	_
+14	другими	другой	_	_	PL;INS;ADJ;ANIM	_	_	_	_
+15	специалистами	специалист	_	_	PL;N;INS;MASC;ANIM	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	занимающимися	заниматься	_	_	PL;V.PTCP;INS;IPFV;V;PRS;ACT;ANIM	_	_	_	_
+18	военными	военный	_	_	PL;INS;ADJ;INAN	_	_	_	_
+19	технологиями	технология	_	_	FEM;PL;N;INS;INAN	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01097098
+# text = Моей следующей остановкой был Беллингхем, рядом с канадской границей.
+# english_text = My next stop was Bellingham, right up near the Canadian border.
+1	Моей	мой	_	_	PSSS;1;SG;FEM;INS;DET	_	_	_	_
+2	следующей	следующий	_	_	SG;FEM;INS;ADJ;INAN	_	_	_	_
+3	остановкой	остановка	_	_	SG;FEM;N;INS;INAN	_	_	_	_
+4	был	быть	_	_	SG;IND;PST;IPFV;V;MASC	_	_	_	_
+5	Беллингхем	Беллингхем	_	_	SG;NOM;INAN;PROPN;MASC	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	рядом	рядом	_	_	ADV	_	_	_	_
+8	с	с	_	_	ADP	_	_	_	_
+9	канадской	канадский	_	_	SG;FEM;INS;ADJ;INAN	_	_	_	_
+10	границей	граница	_	_	SG;FEM;N;INS;INAN	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = n04001013
+# text = Будучи всегда близкой к Католическому союзу, Тина Ансельми в основном занималась правами рабочих текстильной промышленности и учителей.
+# english_text = Having always been close to the Catholic Union, Tina Anselmi attended particularly to the rights of textile workers and teachers.
+1	Будучи	быть	_	_	IPFV;V;V.PTCP	_	_	_	_
+2	всегда	всегда	_	_	ADV	_	_	_	_
+3	близкой	близкий	_	_	SG;FEM;INS;ADJ;ANIM	_	_	_	_
+4	к	к	_	_	ADP	_	_	_	_
+5	Католическому	католический	_	_	SG;ADJ;INAN;DAT;MASC	_	_	_	_
+6	союзу	союз	_	_	SG;N;INAN;DAT;MASC	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	Тина	Тина	_	_	SG;FEM;NOM;PROPN;ANIM	_	_	_	_
+9	Ансельми	Ансельми	_	_	SG;FEM;NOM;PROPN;ANIM	_	_	_	_
+10	в	в	_	_	ADP	_	_	_	_
+11	основном	основной	_	_	NEUT;N;INAN;SG	_	_	_	_
+12	занималась	заниматься	_	_	SG;FEM;IND;PST;IPFV;V	_	_	_	_
+13	правами	право	_	_	PL;N;INS;NEUT;INAN	_	_	_	_
+14	рабочих	рабочий	_	_	PL;N;GEN;MASC;ANIM	_	_	_	_
+15	текстильной	текстильный	_	_	SG;FEM;GEN;ADJ;INAN	_	_	_	_
+16	промышленности	промышленность	_	_	SG;FEM;N;GEN;INAN	_	_	_	_
+17	и	и	_	_	CONJ	_	_	_	_
+18	учителей	учитель	_	_	PL;N;GEN;MASC;ANIM	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01133016
+# text = Одновременно в середине 1970-х гг. Старлин создал несколько историй для независимой научно-фантастической антологии «Star Reach».
+# english_text = Concurrently in the mid-1970s, Starlin contributed a cache of stories to the independently published science-fiction anthology Star Reach.
+1	Одновременно	одновременно	_	_	ADV	_	_	_	_
+2	в	в	_	_	ADP	_	_	_	_
+3	середине	середина	_	_	SG;N;INAN;FEM	_	_	_	_
+4	1970-х	1970-й	_	_	PL;GEN;ADJ;INAN	_	_	_	_
+5	гг	гг	_	_	PL;N;GEN;INAN;MASC	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+7	Старлин	Старлин	_	_	SG;NOM;PROPN;MASC;ANIM	_	_	_	_
+8	создал	создать	_	_	SG;IND;PST;V;PFV;MASC	_	_	_	_
+9	несколько	несколько	_	_	GEN;NUM;INAN;PL	_	_	_	_
+10	историй	история	_	_	PL;FEM;N;GEN;INAN	_	_	_	_
+11	для	для	_	_	ADP	_	_	_	_
+12	независимой	независимый	_	_	SG;FEM;GEN;ADJ;INAN	_	_	_	_
+13	научно-фантастической	научно-фантастический	_	_	SG;FEM;GEN;ADJ;INAN	_	_	_	_
+14	антологии	антология	_	_	SG;FEM;N;GEN;INAN	_	_	_	_
+15	«	«	_	_	_	_	_	_	_
+16	Star	star	_	_	SG;NOM;INAN;MASC	_	_	_	_
+17	Reach	Reach	_	_	SG;GEN;INAN;MASC	_	_	_	_
+18	»	»	_	_	_	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01057
+# sent_id = n01057014
+# text = Обломки образовали кольцо вокруг экватора земли и в конечном итоге соединились, таким образом образовав луну.
+# english_text = The debris formed a ring around the Earth's equator and was eventually drawn together by gravity to form the moon.
+1	Обломки	обломок	_	_	PL;N;NOM;INAN;MASC	_	_	_	_
+2	образовали	образовать	_	_	PL;IND;PST;V;PFV	_	_	_	_
+3	кольцо	кольцо	_	_	SG;N;NEUT;INAN;ACC	_	_	_	_
+4	вокруг	вокруг	_	_	ADP	_	_	_	_
+5	экватора	экватор	_	_	SG;N;GEN;INAN;MASC	_	_	_	_
+6	земли	земля	_	_	SG;FEM;N;GEN;INAN	_	_	_	_
+7	и	и	_	_	CONJ	_	_	_	_
+8	в	в	_	_	ADP	_	_	_	_
+9	конечном	конечный	_	_	SG;ADJ;INAN;MASC	_	_	_	_
+10	итоге	итог	_	_	N;INAN;SG;MASC	_	_	_	_
+11	соединились	соединиться	_	_	PL;IND;PST;V;PFV	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	таким	таким	_	_	SG;INS;DET;INAN;MASC	_	_	_	_
+14	образом	образом	_	_	SG;N;INS;INAN;MASC	_	_	_	_
+15	образовав	образовать	_	_	PFV;V;V.PTCP	_	_	_	_
+16	луну	луна	_	_	SG;FEM;N;INAN;ACC	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01132
+# sent_id = n01132006
+# text = Мы, конечно же, говорим про выборы, а не про «Игру Престолов».
+# english_text = It's the election, of course, not "Game of Thrones."
+1	Мы	мы	_	_	PRO;NOM;1;PL	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	конечно	конечно	_	_	PART	_	_	_	_
+4	же	же	_	_	PART	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	говорим	говорить	_	_	1;PL;IND;IPFV;V;PRS	_	_	_	_
+7	про	про	_	_	ADP	_	_	_	_
+8	выборы	выборы	_	_	PL;N;INAN;ACC	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	а	а	_	_	CONJ	_	_	_	_
+11	не	не	_	_	PART;NEG	_	_	_	_
+12	про	про	_	_	ADP	_	_	_	_
+13	«	«	_	_	_	_	_	_	_
+14	Игру	игра	_	_	SG;FEM;N;INAN;ACC	_	_	_	_
+15	Престолов	престол	_	_	PL;N;GEN;INAN;MASC	_	_	_	_
+16	»	»	_	_	_	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01031
+# sent_id = w01031003
+# text = Изучением вулканов занимается вулканология.
+# english_text = The study of volcanoes is called volcanology, sometimes spelled vulcanology.
+1	Изучением	изучение	_	_	SG;N;INS;NEUT;INAN	_	_	_	_
+2	вулканов	вулкан	_	_	PL;N;GEN;INAN;MASC	_	_	_	_
+3	занимается	заниматься	_	_	SG;IND;IPFV;V;3;PRS	_	_	_	_
+4	вулканология	вулканология	_	_	SG;FEM;N;NOM;INAN	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01067103
+# text = Несмотря на это, они оба, кажется, правили по крайней мере территориями нижнего Египта.
+# english_text = Despite this, they both seem to have held at least parts of lower Egypt.
+1	Несмотря	несмотря	_	_	ADP	_	_	_	_
+2	на	на	_	_	ADP	_	_	_	_
+3	это	это	_	_	SG;NEUT;INAN;ACC;PRO	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	они	они	_	_	PRO;NOM;3;PL	_	_	_	_
+6	оба	оба	_	_	NOM;NUM;MASC;ANIM	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	кажется	кажется	_	_	SG;IND;IPFV;V;3;PRS	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	правили	править	_	_	PL;IND;PST;IPFV;V	_	_	_	_
+11	по	по	_	_	ADP	_	_	_	_
+12	крайней	крайний	_	_	SG;FEM;ADJ;INAN;DAT	_	_	_	_
+13	мере	мера	_	_	SG;FEM;N;INAN;DAT	_	_	_	_
+14	территориями	территория	_	_	FEM;PL;N;INS;INAN	_	_	_	_
+15	нижнего	нижний	_	_	SG;GEN;ADJ;INAN;MASC	_	_	_	_
+16	Египта	Египет	_	_	SG;GEN;INAN;PROPN;MASC	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n05002
+# sent_id = n05002004
+# text = Впервые за шесть лет уровень безработицы упал ниже 20%, и уже сейчас работу имеют на 600 000 человек больше, чем год назад.
+# english_text = For the first time in the last six years the rate of unemployment has dropped below 20%, and there are already 600,000 more people employed than there were a year ago.
+1	Впервые	впервые	_	_	ADV	_	_	_	_
+2	за	за	_	_	ADP	_	_	_	_
+3	шесть	шесть	_	_	NUM;ACC	_	_	_	_
+4	лет	год	_	_	PL;N;GEN;INAN;MASC	_	_	_	_
+5	уровень	уровень	_	_	SG;N;NOM;INAN;MASC	_	_	_	_
+6	безработицы	безработица	_	_	SG;FEM;N;GEN;INAN	_	_	_	_
+7	упал	упасть	_	_	SG;IND;PST;V;PFV;MASC	_	_	_	_
+8	ниже	низко	_	_	ADV	_	_	_	_
+9	20	20	_	_	GEN;NUM	_	_	_	_
+10	%	%	_	_	_	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	и	и	_	_	CONJ	_	_	_	_
+13	уже	уже	_	_	ADV	_	_	_	_
+14	сейчас	сейчас	_	_	ADV	_	_	_	_
+15	работу	работа	_	_	SG;FEM;N;INAN;ACC	_	_	_	_
+16	имеют	иметь	_	_	PL;IND;IPFV;V;3;PRS	_	_	_	_
+17	на	на	_	_	ADP	_	_	_	_
+18	600 000	600000	_	_	FEM;PL;N;INAN;ACC	_	_	_	_
+19	человек	человек	_	_	PL;N;GEN;MASC;ANIM	_	_	_	_
+20	больше	много	_	_	ADV	_	_	_	_
+21	,	,	_	_	_	_	_	_	_
+22	чем	чем	_	_	CONJ	_	_	_	_
+23	год	год	_	_	SG;N;INAN;ACC;MASC	_	_	_	_
+24	назад	назад	_	_	ADV	_	_	_	_
+25	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01049033
+# text = Но без законодательной базы, а также учитывая общественные корни марихуаны как народного целебного средства, изменяющего настроение, ситуация для компаний остается неопределенной.
+# english_text = But without a legislative framework, and with the grassroots origins of pot as a mood-altering folk remedy, companies are left guessing.
+1	Но	но	_	_	CONJ	_	_	_	_
+2	без	без	_	_	ADP	_	_	_	_
+3	законодательной	законодательный	_	_	SG;FEM;GEN;ADJ;INAN	_	_	_	_
+4	базы	база	_	_	SG;FEM;N;GEN;INAN	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	а	а	_	_	CONJ	_	_	_	_
+7	также	также	_	_	CONJ	_	_	_	_
+8	учитывая	учитывать	_	_	IPFV;V	_	_	_	_
+9	общественные	общественный	_	_	PL;ADJ;INAN;ACC	_	_	_	_
+10	корни	корень	_	_	PL;N;INAN;ACC;MASC	_	_	_	_
+11	марихуаны	марихуана	_	_	SG;FEM;N;GEN;INAN	_	_	_	_
+12	как	как	_	_	CONJ	_	_	_	_
+13	народного	народный	_	_	SG;NEUT;GEN;ADJ;INAN	_	_	_	_
+14	целебного	целебный	_	_	SG;NEUT;GEN;ADJ;INAN	_	_	_	_
+15	средства	средство	_	_	SG;N;NEUT;GEN;INAN	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	изменяющего	изменять	_	_	SG;NEUT;IPFV;V;GEN;INAN;PRS;ACT;V.PTCP	_	_	_	_
+18	настроение	настроение	_	_	SG;N;NEUT;INAN;ACC	_	_	_	_
+19	,	,	_	_	_	_	_	_	_
+20	ситуация	ситуация	_	_	SG;FEM;N;NOM;INAN	_	_	_	_
+21	для	для	_	_	ADP	_	_	_	_
+22	компаний	компания	_	_	PL;FEM;N;GEN;INAN	_	_	_	_
+23	остается	оставаться	_	_	SG;IND;IPFV;V;3;PRS	_	_	_	_
+24	неопределенной	неопределенный	_	_	SG;FEM;INS;ADJ;INAN	_	_	_	_
+25	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01123024
+# text = Возможно, это не будет иметь значения, ведь я не буду долго о нем заботиться.
+# english_text = Perhaps it won’t matter as I won’t be troubled long.
+1	Возможно	возможно	_	_	V	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	это	это	_	_	SG;NOM;NEUT;DET;INAN	_	_	_	_
+4	не	не	_	_	PART;NEG	_	_	_	_
+5	будет	быть	_	_	SG;FUT;IND;V;IPFV;3	_	_	_	_
+6	иметь	иметь	_	_	IPFV;V	_	_	_	_
+7	значения	значение	_	_	SG;N;NEUT;GEN;INAN	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	ведь	ведь	_	_	CONJ	_	_	_	_
+10	я	я	_	_	PRO;NOM;SG;1	_	_	_	_
+11	не	не	_	_	PART;NEG	_	_	_	_
+12	буду	быть	_	_	1;SG;FUT;IND;V;IPFV	_	_	_	_
+13	долго	долго	_	_	ADV	_	_	_	_
+14	о	о	_	_	ADP	_	_	_	_
+15	нем	он	_	_	PRO;SG;MASC;3	_	_	_	_
+16	заботиться	заботиться	_	_	IPFV;V	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = w03010100
+# text = Во время отпуска у него началась внебрачная связь с молодой девушкой, в чем он вскоре признался.
+# english_text = During the holiday, he began an extra-marital affair with the young girl, which he admitted shortly after.
+1	Во	во	_	_	ADP	_	_	_	_
+2	время	время	_	_	SG;N;NEUT;INAN;ACC	_	_	_	_
+3	отпуска	отпуск	_	_	SG;N;GEN;INAN;MASC	_	_	_	_
+4	у	у	_	_	ADP	_	_	_	_
+5	него	он	_	_	SG;GEN;3;PRO;MASC	_	_	_	_
+6	началась	начаться	_	_	SG;FEM;IND;PST;V;PFV	_	_	_	_
+7	внебрачная	внебрачный	_	_	SG;FEM;NOM;ADJ;INAN	_	_	_	_
+8	связь	связь	_	_	SG;FEM;N;NOM;INAN	_	_	_	_
+9	с	с	_	_	ADP	_	_	_	_
+10	молодой	молодой	_	_	SG;FEM;INS;ADJ;ANIM	_	_	_	_
+11	девушкой	девушка	_	_	SG;FEM;N;INS;ANIM	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	в	в	_	_	ADP	_	_	_	_
+14	чем	чем	_	_	PRO;INAN;NEUT	_	_	_	_
+15	он	он	_	_	SG;NOM;3;PRO;MASC	_	_	_	_
+16	вскоре	вскоре	_	_	ADV	_	_	_	_
+17	признался	признаться	_	_	SG;IND;PST;V;PFV;MASC	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01007
+# sent_id = n01007012
+# text = Нужно провести параллель между играми и нашей повседневной жизнью.
+# english_text = There are parallels to draw here between games and our everyday lives.
+1	Нужно	нужно	_	_	V	_	_	_	_
+2	провести	провести	_	_	PFV;V	_	_	_	_
+3	параллель	параллель	_	_	SG;FEM;N;INAN;ACC	_	_	_	_
+4	между	между	_	_	ADP	_	_	_	_
+5	играми	игра	_	_	FEM;PL;N;INS;INAN	_	_	_	_
+6	и	и	_	_	CONJ	_	_	_	_
+7	нашей	наш	_	_	PSSP;1;SG;FEM;INS;DET	_	_	_	_
+8	повседневной	повседневный	_	_	SG;FEM;INS;ADJ;INAN	_	_	_	_
+9	жизнью	жизнь	_	_	SG;FEM;N;INS;INAN	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w04003
+# sent_id = w04003025
+# text = В августе 1969 года Папа Павел VI исключил смертную казнь из законодательства Ватикана и отменил это наказание для всех преступлений.
+# english_text = In August 1969, Pope Paul VI removed the death penalty from the Vatican law and revoked it from all offences.
+1	В	в	_	_	ADP	_	_	_	_
+2	августе	август	_	_	N;INAN;SG;MASC	_	_	_	_
+3	1969	1969	_	_	SG;GEN;NUM;INAN;MASC	_	_	_	_
+4	года	год	_	_	SG;N;GEN;INAN;MASC	_	_	_	_
+5	Папа	папа	_	_	SG;N;NOM;MASC;ANIM	_	_	_	_
+6	Павел	Павел	_	_	SG;NOM;PROPN;MASC;ANIM	_	_	_	_
+7	VI	VI	_	_	SG;NOM;ADJ;MASC;ANIM	_	_	_	_
+8	исключил	исключить	_	_	SG;IND;PST;V;PFV;MASC	_	_	_	_
+9	смертную	смертный	_	_	SG;FEM;ADJ;INAN;ACC	_	_	_	_
+10	казнь	казнь	_	_	SG;FEM;N;INAN;ACC	_	_	_	_
+11	из	из	_	_	ADP	_	_	_	_
+12	законодательства	законодательство	_	_	SG;N;NEUT;GEN;INAN	_	_	_	_
+13	Ватикана	Ватикан	_	_	SG;GEN;INAN;PROPN;MASC	_	_	_	_
+14	и	и	_	_	CONJ	_	_	_	_
+15	отменил	отменить	_	_	SG;IND;PST;V;PFV;MASC	_	_	_	_
+16	это	этот	_	_	SG;NEUT;DET;INAN;ACC	_	_	_	_
+17	наказание	наказание	_	_	SG;N;NEUT;INAN;ACC	_	_	_	_
+18	для	для	_	_	ADP	_	_	_	_
+19	всех	весь	_	_	GEN;DET;INAN;PL	_	_	_	_
+20	преступлений	преступление	_	_	PL;N;NEUT;GEN;INAN	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# sent_id = n05003022
+# text = Барон де Кларе — единственный обладатель дворянского титула в правительстве.
+# english_text = Barón de Claret, the only one in Government with a noble title.
+1	Барон	Барон	_	_	SG;NOM;PROPN;MASC;ANIM	_	_	_	_
+2	де	де	_	_	SG;NOM;PROPN;MASC;ANIM	_	_	_	_
+3	Кларе	Кларе	_	_	SG;NOM;PROPN;MASC;ANIM	_	_	_	_
+4	—	—	_	_	_	_	_	_	_
+5	единственный	единственный	_	_	SG;NOM;ADJ;MASC;ANIM	_	_	_	_
+6	обладатель	обладатель	_	_	SG;N;NOM;MASC;ANIM	_	_	_	_
+7	дворянского	дворянский	_	_	SG;GEN;ADJ;INAN;MASC	_	_	_	_
+8	титула	титул	_	_	SG;N;GEN;INAN;MASC	_	_	_	_
+9	в	в	_	_	ADP	_	_	_	_
+10	правительстве	правительство	_	_	NEUT;N;INAN;SG	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01048
+# sent_id = n01048008
+# text = Эти оценки совпадают с процентами новых квартирных домов, поступающих на рынок аренды после завершения, что указывает на важную роль, которую (отечественные) инвесторы играют на рынке жилья Большого Торонто.
+# english_text = "These estimates coincide with the percentages of new condos entering the rental market upon completion, indicating the important role (domestic) investors play in the GTA housing market."
+1	Эти	этот	_	_	NOM;DET;INAN;PL	_	_	_	_
+2	оценки	оценка	_	_	PL;FEM;N;NOM;INAN	_	_	_	_
+3	совпадают	совпадать	_	_	PL;IND;IPFV;V;3;PRS	_	_	_	_
+4	с	с	_	_	ADP	_	_	_	_
+5	процентами	процент	_	_	PL;N;INS;INAN;MASC	_	_	_	_
+6	новых	новый	_	_	PL;GEN;ADJ;INAN	_	_	_	_
+7	квартирных	квартирный	_	_	PL;GEN;ADJ;INAN	_	_	_	_
+8	домов	дом	_	_	PL;N;GEN;INAN;MASC	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	поступающих	поступать	_	_	PL;IPFV;V;GEN;INAN;PRS;ACT;V.PTCP	_	_	_	_
+11	на	на	_	_	ADP	_	_	_	_
+12	рынок	рынок	_	_	SG;N;INAN;ACC;MASC	_	_	_	_
+13	аренды	аренда	_	_	SG;FEM;N;GEN;INAN	_	_	_	_
+14	после	после	_	_	ADP	_	_	_	_
+15	завершения	завершение	_	_	SG;N;NEUT;GEN;INAN	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	что	что	_	_	PRO;NOM;INAN;NEUT	_	_	_	_
+18	указывает	указывать	_	_	SG;IND;IPFV;V;3;PRS	_	_	_	_
+19	на	на	_	_	ADP	_	_	_	_
+20	важную	важный	_	_	SG;FEM;ADJ;INAN;ACC	_	_	_	_
+21	роль	роль	_	_	SG;FEM;N;INAN;ACC	_	_	_	_
+22	,	,	_	_	_	_	_	_	_
+23	которую	который	_	_	SG;FEM;DET;INAN;ACC	_	_	_	_
+24	(	(	_	_	_	_	_	_	_
+25	отечественные	отечественный	_	_	PL;NOM;ADJ;ANIM	_	_	_	_
+26	)	)	_	_	_	_	_	_	_
+27	инвесторы	инвестор	_	_	PL;N;NOM;MASC;ANIM	_	_	_	_
+28	играют	играть	_	_	PL;IND;IPFV;V;3;PRS	_	_	_	_
+29	на	на	_	_	ADP	_	_	_	_
+30	рынке	рынок	_	_	N;INAN;SG;MASC	_	_	_	_
+31	жилья	жилье	_	_	SG;N;NEUT;GEN;INAN	_	_	_	_
+32	Большого	Большой	_	_	SG;GEN;ADJ;INAN;MASC	_	_	_	_
+33	Торонто	Торонто	_	_	SG;GEN;INAN;PROPN;MASC	_	_	_	_
+34	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01139
+# sent_id = n01139006
+# text = «В городах, где мы запустили продажи или находимся в стадии подготовки, наша работа будет продолжена», — сказал Барратт.
+# english_text = "In the cities where we've launched or are under construction, our work will continue," Barratt said.
+1	«	«	_	_	_	_	_	_	_
+2	В	в	_	_	ADP	_	_	_	_
+3	городах	город	_	_	N;INAN;PL;MASC	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	где	где	_	_	ADV	_	_	_	_
+6	мы	мы	_	_	PRO;NOM;1;PL	_	_	_	_
+7	запустили	запустить	_	_	PL;IND;PST;V;PFV	_	_	_	_
+8	продажи	продажа	_	_	FEM;PL;N;INAN;ACC	_	_	_	_
+9	или	или	_	_	CONJ	_	_	_	_
+10	находимся	находиться	_	_	1;PL;IND;IPFV;V;PRS	_	_	_	_
+11	в	в	_	_	ADP	_	_	_	_
+12	стадии	стадия	_	_	SG;N;INAN;FEM	_	_	_	_
+13	подготовки	подготовка	_	_	SG;FEM;N;GEN;INAN	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	наша	наш	_	_	PSSP;1;SG;FEM;NOM;DET	_	_	_	_
+16	работа	работа	_	_	SG;FEM;N;NOM;INAN	_	_	_	_
+17	будет	быть	_	_	SG;FUT;IND;V;IPFV;3	_	_	_	_
+18	продолжена	продолжить	_	_	SG;FEM;PASS;PST;NOM;V;INAN;PFV	_	_	_	_
+19	»	»	_	_	_	_	_	_	_
+20	,	,	_	_	_	_	_	_	_
+21	—	—	_	_	_	_	_	_	_
+22	сказал	сказать	_	_	SG;IND;PST;V;PFV;MASC	_	_	_	_
+23	Барратт	Барратт	_	_	SG;NOM;PROPN;MASC;ANIM	_	_	_	_
+24	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01095
+# sent_id = w01095089
+# text = Этот обычай стал немного менее обязательным в наше время, и сейчас все еще принято использовать имена при общении с друзьями, хотя использование фамилий до сих пор является частым.
+# english_text = This convention is only slightly relaxed in modern age and now it is still unadvisable among friends to use the given name, but use of the family name is still common.
+1	Этот	этот	_	_	SG;NOM;DET;INAN;MASC	_	_	_	_
+2	обычай	обычай	_	_	SG;N;NOM;INAN;MASC	_	_	_	_
+3	стал	стать	_	_	SG;IND;PST;V;PFV;MASC	_	_	_	_
+4	немного	немного	_	_	DET	_	_	_	_
+5	менее	мало	_	_	ADV	_	_	_	_
+6	обязательным	обязательный	_	_	SG;INS;ADJ;INAN;MASC	_	_	_	_
+7	в	в	_	_	ADP	_	_	_	_
+8	наше	наш	_	_	PSSP;1;SG;NEUT;DET;ACC	_	_	_	_
+9	время	время	_	_	SG;N;NEUT;INAN;ACC	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	и	и	_	_	CONJ	_	_	_	_
+12	сейчас	сейчас	_	_	ADV	_	_	_	_
+13	все	все	_	_	ADV	_	_	_	_
+14	еще	еще	_	_	ADV	_	_	_	_
+15	принято	принять	_	_	SG;PASS;PST;NOM;NEUT;V;INAN;PFV	_	_	_	_
+16	использовать	использовать	_	_	IPFV;V	_	_	_	_
+17	имена	имя	_	_	PL;N;NEUT;INAN;ACC	_	_	_	_
+18	при	при	_	_	ADP	_	_	_	_
+19	общении	общение	_	_	NEUT;N;INAN;SG	_	_	_	_
+20	с	с	_	_	ADP	_	_	_	_
+21	друзьями	друг	_	_	PL;N;INS;MASC;ANIM	_	_	_	_
+22	,	,	_	_	_	_	_	_	_
+23	хотя	хотя	_	_	ADP	_	_	_	_
+24	использование	использование	_	_	SG;N;NOM;NEUT;INAN	_	_	_	_
+25	фамилий	фамилия	_	_	PL;N;GEN;INAN;MASC	_	_	_	_
+26	до	до	_	_	ADP	_	_	_	_
+27	сих	сих	_	_	GEN;DET;INAN;PL	_	_	_	_
+28	пор	пор	_	_	PL;FEM;N;GEN;INAN	_	_	_	_
+29	является	являться	_	_	SG;IND;IPFV;V;3;PRS	_	_	_	_
+30	частым	частый	_	_	SG;INS;NEUT;ADJ;INAN	_	_	_	_
+31	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01020017
+# text = Он обеспечивал маршруты для торговли, войны, а также добычи продовольствия (за счет рыболовства и сбора других морепродуктов) для многочисленных общин на протяжении веков.
+# english_text = It provided routes for trade, colonisation, and war, as well as food (from fishing and the gathering of other seafood) for numerous communities throughout the ages.
+1	Он	он	_	_	SG;NOM;3;PRO;MASC	_	_	_	_
+2	обеспечивал	обеспечивать	_	_	SG;IND;PST;IPFV;V;MASC	_	_	_	_
+3	маршруты	маршрут	_	_	PL;N;INAN;ACC;MASC	_	_	_	_
+4	для	для	_	_	ADP	_	_	_	_
+5	торговли	торговля	_	_	SG;FEM;N;GEN;INAN	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	войны	война	_	_	SG;FEM;N;GEN;INAN	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	а	а	_	_	CONJ	_	_	_	_
+10	также	также	_	_	CONJ	_	_	_	_
+11	добычи	добыча	_	_	SG;FEM;N;GEN;INAN	_	_	_	_
+12	продовольствия	продовольствие	_	_	SG;N;NEUT;GEN;INAN	_	_	_	_
+13	(	(	_	_	_	_	_	_	_
+14	за	за	_	_	ADP	_	_	_	_
+15	счет	счет	_	_	SG;N;INAN;ACC;MASC	_	_	_	_
+16	рыболовства	рыболовство	_	_	SG;N;NEUT;GEN;INAN	_	_	_	_
+17	и	и	_	_	CONJ	_	_	_	_
+18	сбора	сбор	_	_	SG;N;GEN;INAN;MASC	_	_	_	_
+19	других	другой	_	_	PL;GEN;ADJ;INAN	_	_	_	_
+20	морепродуктов	морепродукт	_	_	PL;N;GEN;INAN;MASC	_	_	_	_
+21	)	)	_	_	_	_	_	_	_
+22	для	для	_	_	ADP	_	_	_	_
+23	многочисленных	многочисленный	_	_	PL;GEN;ADJ;INAN	_	_	_	_
+24	общин	община	_	_	PL;FEM;N;GEN;INAN	_	_	_	_
+25	на	на	_	_	ADP	_	_	_	_
+26	протяжении	протяжение	_	_	NEUT;N;INAN;SG	_	_	_	_
+27	веков	век	_	_	PL;N;GEN;INAN;MASC	_	_	_	_
+28	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w05002
+# sent_id = w05002014
+# text = Еще до формирования Анд на западном побережье Южной Америки уже шло несколько процессов горообразования.
+# english_text = Before the Andes were formed, the western margin of South America had already been the site of several orogenies.
+1	Еще	еще	_	_	ADV	_	_	_	_
+2	до	до	_	_	ADP	_	_	_	_
+3	формирования	формирование	_	_	SG;N;NEUT;GEN;INAN	_	_	_	_
+4	Анд	Анды	_	_	PROPN;GEN;INAN;PL	_	_	_	_
+5	на	на	_	_	ADP	_	_	_	_
+6	западном	западный	_	_	SG;NEUT;ADJ;INAN	_	_	_	_
+7	побережье	побережье	_	_	NEUT;N;INAN;SG	_	_	_	_
+8	Южной	южный	_	_	SG;FEM;GEN;ADJ;INAN	_	_	_	_
+9	Америки	Америка	_	_	SG;FEM;GEN;INAN;PROPN	_	_	_	_
+10	уже	уже	_	_	ADV	_	_	_	_
+11	шло	идти	_	_	SG;IND;PST;NEUT;IPFV;V	_	_	_	_
+12	несколько	несколько	_	_	GEN;NUM;INAN;PL	_	_	_	_
+13	процессов	процесс	_	_	PL;N;GEN;INAN;MASC	_	_	_	_
+14	горообразования	горообразование	_	_	SG;N;NEUT;GEN;INAN	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01024016
+# text = Королевское садоводческое общество получило комментарии, присланные школьниками и учителями, участвующими в эксперименте.
+# english_text = The RHS collected comments sent in by schoolchildren and teachers involved in the experiment.
+1	Королевское	Королевский	_	_	SG;NOM;NEUT;ADJ;INAN	_	_	_	_
+2	садоводческое	садоводческий	_	_	SG;NOM;NEUT;ADJ;INAN	_	_	_	_
+3	общество	общество	_	_	SG;N;NOM;NEUT;INAN	_	_	_	_
+4	получило	получить	_	_	SG;IND;PST;NEUT;V;PFV	_	_	_	_
+5	комментарии	комментарий	_	_	PL;N;INAN;ACC;MASC	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	присланные	прислать	_	_	PL;PASS;PST;V;INAN;ACC;PFV;V.PTCP	_	_	_	_
+8	школьниками	школьник	_	_	PL;N;INS;MASC;ANIM	_	_	_	_
+9	и	и	_	_	CONJ	_	_	_	_
+10	учителями	учитель	_	_	PL;N;INS;MASC;ANIM	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	участвующими	участвовать	_	_	PL;V.PTCP;INS;IPFV;V;PRS;ACT;ANIM	_	_	_	_
+13	в	в	_	_	ADP	_	_	_	_
+14	эксперименте	эксперимент	_	_	N;INAN;SG;MASC	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01107006
+# text = Все это также сделало «Фольксваген» привлекательной целью для огромных судебных исков, на которые пришлось потратить более 16 миллиардов евро из резервов компании.
+# english_text = It has also opened VW up to huge compensation claims, legal action and has seen it take more than €16bn of provisions.
+1	Все	все	_	_	SG;NOM;NEUT;DET;INAN	_	_	_	_
+2	это	это	_	_	SG;NOM;NEUT;DET;INAN	_	_	_	_
+3	также	также	_	_	ADV	_	_	_	_
+4	сделало	сделать	_	_	SG;IND;PST;NEUT;V;PFV	_	_	_	_
+5	«	«	_	_	_	_	_	_	_
+6	Фольксваген	Фольксваген	_	_	SG;INAN;ACC;PROPN;MASC	_	_	_	_
+7	»	»	_	_	_	_	_	_	_
+8	привлекательной	привлекательный	_	_	SG;FEM;INS;ADJ;INAN	_	_	_	_
+9	целью	цель	_	_	SG;FEM;N;INS;INAN	_	_	_	_
+10	для	для	_	_	ADP	_	_	_	_
+11	огромных	огромный	_	_	PL;GEN;ADJ;INAN	_	_	_	_
+12	судебных	судебный	_	_	PL;GEN;ADJ;INAN	_	_	_	_
+13	исков	иск	_	_	PL;N;GEN;INAN;MASC	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	на	на	_	_	ADP	_	_	_	_
+16	которые	который	_	_	PL;DET;INAN;ACC	_	_	_	_
+17	пришлось	прийтись	_	_	SG;IND;PST;NEUT;V;PFV	_	_	_	_
+18	потратить	потратить	_	_	PFV;V	_	_	_	_
+19	более	много	_	_	ADV	_	_	_	_
+20	16	16	_	_	GEN;NUM	_	_	_	_
+21	миллиардов	миллиард	_	_	PL;N;GEN;INAN;MASC	_	_	_	_
+22	евро	евро	_	_	PL;N;GEN;INAN;MASC	_	_	_	_
+23	из	из	_	_	ADP	_	_	_	_
+24	резервов	резерв	_	_	PL;N;GEN;INAN;MASC	_	_	_	_
+25	компании	компания	_	_	SG;FEM;N;GEN;INAN	_	_	_	_
+26	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01036020
+# text = Он также выступает за то, чтобы Совет по недвижимости Онтарио (RECO), который регулирует работу агентов в провинции, был наделен большими правоприменительными и следственными полномочиями.
+# english_text = He'd also like to see greater enforcement and investigative powers for the Real Estate Council of Ontario (RECO), which regulates agents in the province.
+1	Он	он	_	_	SG;NOM;3;PRO;MASC	_	_	_	_
+2	также	также	_	_	ADV	_	_	_	_
+3	выступает	выступать	_	_	SG;IND;IPFV;V;3;PRS	_	_	_	_
+4	за	за	_	_	ADP	_	_	_	_
+5	то	то	_	_	SG;NEUT;DET;INAN;ACC	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	чтобы	чтобы	_	_	ADP	_	_	_	_
+8	Совет	совет	_	_	SG;N;NOM;INAN;MASC	_	_	_	_
+9	по	по	_	_	ADP	_	_	_	_
+10	недвижимости	недвижимость	_	_	SG;FEM;N;INAN;DAT	_	_	_	_
+11	Онтарио	Онтарио	_	_	SG;NEUT;GEN;INAN;PROPN	_	_	_	_
+12	(	(	_	_	_	_	_	_	_
+13	RECO	RECO	_	_	SG;NOM;INAN;MASC	_	_	_	_
+14	)	)	_	_	_	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	который	который	_	_	SG;NOM;DET;INAN;MASC	_	_	_	_
+17	регулирует	регулировать	_	_	SG;IND;IPFV;V;3;PRS	_	_	_	_
+18	работу	работа	_	_	SG;FEM;N;INAN;ACC	_	_	_	_
+19	агентов	агент	_	_	PL;N;GEN;MASC;ANIM	_	_	_	_
+20	в	в	_	_	ADP	_	_	_	_
+21	провинции	провинция	_	_	SG;N;INAN;FEM	_	_	_	_
+22	,	,	_	_	_	_	_	_	_
+23	был	быть	_	_	SG;IND;PST;V;IPFV;MASC	_	_	_	_
+24	наделен	наделить	_	_	SG;PASS;PST;NOM;V;INAN;PFV;MASC	_	_	_	_
+25	большими	большой	_	_	PL;INS;ADJ;INAN	_	_	_	_
+26	правоприменительными	правоприменительный	_	_	PL;INS;ADJ;INAN	_	_	_	_
+27	и	и	_	_	CONJ	_	_	_	_
+28	следственными	следственный	_	_	PL;INS;ADJ;INAN	_	_	_	_
+29	полномочиями	полномочие	_	_	PL;N;INS;NEUT;INAN	_	_	_	_
+30	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01117034
+# text = Переход к беллетристике дался ей легко, она говорила: «Ты учишься с каждой книгой, и надо быть открытым для нового».
+# english_text = She found the transition to fiction easy, explaining, "Every book is a learning curve, and you have to keep an open mind."
+1	Переход	переход	_	_	SG;N;NOM;INAN;MASC	_	_	_	_
+2	к	к	_	_	ADP	_	_	_	_
+3	беллетристике	беллетристика	_	_	SG;FEM;N;INAN;DAT	_	_	_	_
+4	дался	даться	_	_	SG;IND;PST;V;PFV;MASC	_	_	_	_
+5	ей	она	_	_	SG;FEM;3;PRO;DAT	_	_	_	_
+6	легко	легко	_	_	ADV	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	она	она	_	_	SG;FEM;NOM;3;PRO	_	_	_	_
+9	говорила	говорить	_	_	SG;FEM;IND;PST;IPFV;V	_	_	_	_
+10	:	:	_	_	_	_	_	_	_
+11	«	«	_	_	_	_	_	_	_
+12	Ты	ты	_	_	PRO;NOM;2;SG	_	_	_	_
+13	учишься	учиться	_	_	2;SG;IND;IPFV;V;PRS	_	_	_	_
+14	с	с	_	_	ADP	_	_	_	_
+15	каждой	каждый	_	_	SG;FEM;INS;DET;INAN	_	_	_	_
+16	книгой	книга	_	_	SG;FEM;N;INS;INAN	_	_	_	_
+17	,	,	_	_	_	_	_	_	_
+18	и	и	_	_	CONJ	_	_	_	_
+19	надо	надо	_	_	V	_	_	_	_
+20	быть	быть	_	_	IPFV;V	_	_	_	_
+21	открытым	открытый	_	_	SG;INS;ADJ;MASC;ANIM	_	_	_	_
+22	для	для	_	_	ADP	_	_	_	_
+23	нового	новый	_	_	SG;NEUT;GEN;ADJ;INAN	_	_	_	_
+24	»	»	_	_	_	_	_	_	_
+25	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01079077
+# text = Испания выслала населяющих ее сефардов в 1492 году; многие из испанских евреев переехали из Испании в Португалию, но в конце концов подвергались преследованию и там.
+# english_text = Spain had expelled its Sephardic population in 1492; many of these Spanish Jews left Spain for Portugal but eventually were targeted there as well.
+1	Испания	Испания	_	_	SG;FEM;NOM;INAN;PROPN	_	_	_	_
+2	выслала	выслать	_	_	SG;FEM;IND;PST;V;PFV	_	_	_	_
+3	населяющих	населять	_	_	PL;V.PTCP;IPFV;V;ACC;PRS;ACT;ANIM	_	_	_	_
+4	ее	она	_	_	SG;FEM;3;ACC;PRO	_	_	_	_
+5	сефардов	сефард	_	_	PL;N;ACC;MASC;ANIM	_	_	_	_
+6	в	в	_	_	ADP	_	_	_	_
+7	1492	1492	_	_	SG;NUM;INAN;MASC	_	_	_	_
+8	году	год	_	_	SG;N;ESS;INAN;MASC	_	_	_	_
+9	;	;	_	_	_	_	_	_	_
+10	многие	многие	_	_	PL;NOM;ADJ;ANIM	_	_	_	_
+11	из	из	_	_	ADP	_	_	_	_
+12	испанских	испанский	_	_	PL;GEN;ADJ;ANIM	_	_	_	_
+13	евреев	еврей	_	_	PL;N;GEN;MASC;ANIM	_	_	_	_
+14	переехали	переехать	_	_	PL;IND;PST;V;PFV	_	_	_	_
+15	из	из	_	_	ADP	_	_	_	_
+16	Испании	Испания	_	_	SG;FEM;GEN;INAN;PROPN	_	_	_	_
+17	в	в	_	_	ADP	_	_	_	_
+18	Португалию	Португалия	_	_	SG;FEM;INAN;ACC;PROPN	_	_	_	_
+19	,	,	_	_	_	_	_	_	_
+20	но	но	_	_	CONJ	_	_	_	_
+21	в	в	_	_	ADP	_	_	_	_
+22	конце	конец	_	_	N;INAN;SG;MASC	_	_	_	_
+23	концов	конец	_	_	PL;N;GEN;INAN;MASC	_	_	_	_
+24	подвергались	подвергаться	_	_	PL;IND;PST;IPFV;V	_	_	_	_
+25	преследованию	преследование	_	_	SG;N;NEUT;INAN;DAT	_	_	_	_
+26	и	и	_	_	PART	_	_	_	_
+27	там	там	_	_	ADV	_	_	_	_
+28	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01084036
+# text = То есть в теории доступ к своим деньгам можно получить в любой момент.
+# english_text = With this, in theory, you are able to access your money whenever you like.
+1	То	то	_	_	SG;NOM;NEUT;INAN;PRO	_	_	_	_
+2	есть	есть	_	_	SG;IND;IPFV;V;3;PRS	_	_	_	_
+3	в	в	_	_	ADP	_	_	_	_
+4	теории	теория	_	_	SG;N;INAN;FEM	_	_	_	_
+5	доступ	доступ	_	_	SG;N;INAN;ACC;MASC	_	_	_	_
+6	к	к	_	_	ADP	_	_	_	_
+7	своим	свой	_	_	DAT;REFL;DET;PL	_	_	_	_
+8	деньгам	деньги	_	_	DAT;N;INAN;PL	_	_	_	_
+9	можно	можно	_	_	V	_	_	_	_
+10	получить	получить	_	_	PFV;V	_	_	_	_
+11	в	в	_	_	ADP	_	_	_	_
+12	любой	любой	_	_	SG;DET;INAN;ACC;MASC	_	_	_	_
+13	момент	момент	_	_	SG;N;INAN;ACC;MASC	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w04009
+# sent_id = w04009042
+# text = Этот человек сказал ему, что грядет война между двумя вселенными, как предсказали они с Уолтером; именно по этой причине Оливию и других тренировали в детстве.
+# english_text = The man told him that a war between the two universes is coming, as he and Walter had predicted; it is for this reason that Olivia, among others, was trained as a child.
+1	Этот	этот	_	_	SG;NOM;DET;MASC;ANIM	_	_	_	_
+2	человек	человек	_	_	SG;N;NOM;MASC;ANIM	_	_	_	_
+3	сказал	сказать	_	_	SG;IND;PST;V;PFV;MASC	_	_	_	_
+4	ему	он	_	_	SG;3;PRO;DAT;MASC	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	что	что	_	_	ADP	_	_	_	_
+7	грядет	грясти	_	_	SG;IND;IPFV;V;3;PRS	_	_	_	_
+8	война	война	_	_	SG;FEM;N;NOM;INAN	_	_	_	_
+9	между	между	_	_	ADP	_	_	_	_
+10	двумя	два	_	_	FEM;NUM;INAN;INS	_	_	_	_
+11	вселенными	вселять	_	_	FEM;PL;N;INS;INAN	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	как	как	_	_	ADV	_	_	_	_
+14	предсказали	предсказать	_	_	PL;IND;PST;V;PFV	_	_	_	_
+15	они	они	_	_	PRO;NOM;3;PL	_	_	_	_
+16	с	с	_	_	ADP	_	_	_	_
+17	Уолтером	Уолтер	_	_	SG;INS;PROPN;MASC;ANIM	_	_	_	_
+18	;	;	_	_	_	_	_	_	_
+19	именно	именно	_	_	ADV	_	_	_	_
+20	по	по	_	_	ADP	_	_	_	_
+21	этой	этот	_	_	SG;FEM;DET;INAN;DAT	_	_	_	_
+22	причине	причина	_	_	SG;FEM;N;INAN;DAT	_	_	_	_
+23	Оливию	Оливия	_	_	SG;FEM;ACC;PROPN;ANIM	_	_	_	_
+24	и	и	_	_	CONJ	_	_	_	_
+25	других	другой	_	_	PL;GEN;ADJ;ANIM	_	_	_	_
+26	тренировали	тренировать	_	_	PL;IND;PST;IPFV;V	_	_	_	_
+27	в	в	_	_	ADP	_	_	_	_
+28	детстве	детство	_	_	NEUT;N;INAN;SG	_	_	_	_
+29	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01043065
+# text = В то же время дополнительный контроль бассейна Нила способствовал развитию острова Гезира и побережья города.
+# english_text = Meanwhile, additional controls of the Nile fostered development within Gezira Island and along the city's waterfront.
+1	В	в	_	_	ADP	_	_	_	_
+2	то	тот	_	_	SG;NEUT;DET;INAN;ACC	_	_	_	_
+3	же	же	_	_	PART	_	_	_	_
+4	время	время	_	_	SG;N;NEUT;INAN;ACC	_	_	_	_
+5	дополнительный	дополнительный	_	_	SG;NOM;ADJ;INAN;MASC	_	_	_	_
+6	контроль	контроль	_	_	SG;N;NOM;INAN;MASC	_	_	_	_
+7	бассейна	бассейн	_	_	SG;N;GEN;INAN;MASC	_	_	_	_
+8	Нила	Нил	_	_	SG;GEN;INAN;PROPN;MASC	_	_	_	_
+9	способствовал	способствовать	_	_	SG;IND;PST;IPFV;V;MASC	_	_	_	_
+10	развитию	развитие	_	_	SG;N;NEUT;INAN;DAT	_	_	_	_
+11	острова	остров	_	_	SG;N;GEN;INAN;MASC	_	_	_	_
+12	Гезира	Гезир	_	_	SG;GEN;INAN;PROPN;MASC	_	_	_	_
+13	и	и	_	_	CONJ	_	_	_	_
+14	побережья	побережье	_	_	SG;N;NEUT;GEN;INAN	_	_	_	_
+15	города	город	_	_	SG;N;GEN;INAN;MASC	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01013096
+# text = Также существуют языки, которые произошли от финского и развивались отдельно; oни известны как меянкиели в Швеции и квен в Норвегии.
+# english_text = There are also languages derived from Finnish, having evolved separately, known as Meänkieli in Sweden and Kven in Norway.
+1	Также	также	_	_	ADV	_	_	_	_
+2	существуют	существовать	_	_	PL;IND;IPFV;V;3;PRS	_	_	_	_
+3	языки	язык	_	_	PL;N;NOM;INAN;MASC	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	которые	который	_	_	NOM;DET;INAN;PL	_	_	_	_
+6	произошли	произойти	_	_	PL;IND;PST;V;PFV	_	_	_	_
+7	от	от	_	_	ADP	_	_	_	_
+8	финского	финский	_	_	SG;N;GEN;INAN;MASC	_	_	_	_
+9	и	и	_	_	CONJ	_	_	_	_
+10	развивались	развиваться	_	_	PL;IND;PST;IPFV;V	_	_	_	_
+11	отдельно	отдельно	_	_	ADV	_	_	_	_
+12	;	;	_	_	_	_	_	_	_
+13	oни	они	_	_	PRO;NOM;3;PL	_	_	_	_
+14	известны	известный	_	_	PL;NOM;ADJ;INAN	_	_	_	_
+15	как	как	_	_	CONJ	_	_	_	_
+16	меянкиели	меянкиель	_	_	SG;N;NOM;INAN;MASC	_	_	_	_
+17	в	в	_	_	ADP	_	_	_	_
+18	Швеции	Швеция	_	_	PROPN;SG;INAN;FEM	_	_	_	_
+19	и	и	_	_	CONJ	_	_	_	_
+20	квен	квен	_	_	SG;N;GEN;INAN;MASC	_	_	_	_
+21	в	в	_	_	ADP	_	_	_	_
+22	Норвегии	Норвегия	_	_	PROPN;SG;INAN;FEM	_	_	_	_
+23	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01021
+# sent_id = n01021007
+# text = К сожалению, как это бывает, из-за опасных действий нескольких человек ресурс закрыли для всех, пишет Джесси LaBrocca, основательница Hack Forums, в сообщении, объясняющем, почему раздел был закрыт.
+# english_text = "Unfortunately once again the few ruin it for the many," wrote Jesse LaBrocca, founder of Hack Forums, in a message explaining why the section was being closed.
+1	К	к	_	_	ADP	_	_	_	_
+2	сожалению	сожаление	_	_	SG;N;NEUT;INAN;DAT	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	как	как	_	_	ADV	_	_	_	_
+5	это	это	_	_	SG;NOM;NEUT;INAN;PRO	_	_	_	_
+6	бывает	бывать	_	_	SG;IND;IPFV;V;3;PRS	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	из-за	из-за	_	_	ADP	_	_	_	_
+9	опасных	опасный	_	_	PL;GEN;ADJ;INAN	_	_	_	_
+10	действий	действие	_	_	PL;N;NEUT;GEN;INAN	_	_	_	_
+11	нескольких	несколько	_	_	PL;GEN;NUM;ANIM	_	_	_	_
+12	человек	человек	_	_	PL;N;GEN;MASC;ANIM	_	_	_	_
+13	ресурс	ресурс	_	_	SG;N;INAN;ACC;MASC	_	_	_	_
+14	закрыли	закрыть	_	_	PL;IND;PST;V;PFV	_	_	_	_
+15	для	для	_	_	ADP	_	_	_	_
+16	всех	все	_	_	PRO;GEN;PL;ANIM	_	_	_	_
+17	,	,	_	_	_	_	_	_	_
+18	пишет	писать	_	_	SG;IND;IPFV;V;3;PRS	_	_	_	_
+19	Джесси	Джесси	_	_	SG;FEM;NOM;PROPN;ANIM	_	_	_	_
+20	LaBrocca	LaBrocca	_	_	SG;FEM;NOM;ANIM	_	_	_	_
+21	,	,	_	_	_	_	_	_	_
+22	основательница	основательница	_	_	SG;FEM;N;NOM;ANIM	_	_	_	_
+23	Hack	Hack	_	_	SG;GEN;INAN;MASC	_	_	_	_
+24	Forums	Forums	_	_	PL;GEN;INAN;MASC	_	_	_	_
+25	,	,	_	_	_	_	_	_	_
+26	в	в	_	_	ADP	_	_	_	_
+27	сообщении	сообщение	_	_	NEUT;N;INAN;SG	_	_	_	_
+28	,	,	_	_	_	_	_	_	_
+29	объясняющем	объяснять	_	_	SG;NEUT;IPFV;V;INAN;PRS;ACT;V.PTCP	_	_	_	_
+30	,	,	_	_	_	_	_	_	_
+31	почему	почему	_	_	ADV	_	_	_	_
+32	раздел	раздел	_	_	SG;N;NOM;INAN;MASC	_	_	_	_
+33	был	быть	_	_	SG;IND;PST;V;IPFV;MASC	_	_	_	_
+34	закрыт	закрыть	_	_	SG;PASS;PST;NOM;V;INAN;PFV;MASC	_	_	_	_
+35	.	.	_	_	_	_	_	_	_
+
+# sent_id = w02015086
+# text = Монастырь Рупертсберг был разрушен шведскими войсками в 1632 году во время Тридцатилетней войны.
+# english_text = The Rupertsberg cloister was destroyed during the Thirty Years' War in 1632 by Swedish troops.
+1	Монастырь	монастырь	_	_	SG;N;NOM;INAN;MASC	_	_	_	_
+2	Рупертсберг	Рупертсберг	_	_	SG;NOM;INAN;PROPN;MASC	_	_	_	_
+3	был	быть	_	_	SG;IND;PST;V;IPFV;MASC	_	_	_	_
+4	разрушен	разрушить	_	_	SG;PASS;PST;NOM;V;INAN;PFV;MASC	_	_	_	_
+5	шведскими	шведский	_	_	PL;INS;ADJ;INAN	_	_	_	_
+6	войсками	войско	_	_	PL;N;INS;NEUT;INAN	_	_	_	_
+7	в	в	_	_	ADP	_	_	_	_
+8	1632	1632	_	_	SG;NUM;INAN;MASC	_	_	_	_
+9	году	год	_	_	SG;N;ESS;INAN;MASC	_	_	_	_
+10	во	во	_	_	ADP	_	_	_	_
+11	время	время	_	_	SG;N;NEUT;INAN;ACC	_	_	_	_
+12	Тридцатилетней	тридцатилетний	_	_	SG;FEM;GEN;ADJ;INAN	_	_	_	_
+13	войны	война	_	_	SG;FEM;N;GEN;INAN	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01058
+# sent_id = n01058037
+# text = В городке Хиллсборо, который находится сразу за Чапел-Хиллом, неизвестные забросали в прошлом месяце зажигательными бомбами штаб-квартиру Республиканской партии.
+# english_text = In the town of Hillsborough, just outside Chapel Hill, someone firebombed the Republican Party headquarters last month.
+1	В	в	_	_	ADP	_	_	_	_
+2	городке	городок	_	_	N;INAN;SG;MASC	_	_	_	_
+3	Хиллсборо	Хиллсборо	_	_	PROPN;SG;INAN;MASC	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	который	который	_	_	SG;NOM;DET;INAN;MASC	_	_	_	_
+6	находится	находиться	_	_	SG;IND;IPFV;V;3;PRS	_	_	_	_
+7	сразу	сразу	_	_	ADV	_	_	_	_
+8	за	за	_	_	ADP	_	_	_	_
+9	Чапел-Хиллом	Чапел-Хилл	_	_	SG;INS;INAN;PROPN;MASC	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	неизвестные	неизвестный	_	_	PL;N;NOM;MASC;ANIM	_	_	_	_
+12	забросали	забросать	_	_	PL;IND;PST;V;PFV	_	_	_	_
+13	в	в	_	_	ADP	_	_	_	_
+14	прошлом	прошлый	_	_	SG;ADJ;INAN;MASC	_	_	_	_
+15	месяце	месяц	_	_	N;INAN;SG;MASC	_	_	_	_
+16	зажигательными	зажигательный	_	_	PL;INS;ADJ;INAN	_	_	_	_
+17	бомбами	бомба	_	_	FEM;PL;N;INS;INAN	_	_	_	_
+18	штаб-квартиру	штаб-квартира	_	_	N	_	_	_	_
+19	Республиканской	Республиканский	_	_	SG;FEM;GEN;ADJ;INAN	_	_	_	_
+20	партии	партия	_	_	SG;FEM;N;GEN;INAN	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01095009
+# text = И я неспроста называю его зверем.
+# english_text = I don’t call it a beast lightly.
+1	И	и	_	_	CONJ	_	_	_	_
+2	я	я	_	_	PRO;NOM;SG;1	_	_	_	_
+3	неспроста	неспроста	_	_	ADV	_	_	_	_
+4	называю	называть	_	_	1;SG;IND;IPFV;V;PRS	_	_	_	_
+5	его	он	_	_	SG;3;ACC;PRO;MASC	_	_	_	_
+6	зверем	зверь	_	_	SG;N;INS;MASC;ANIM	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01001
+# sent_id = n01001011
+# text = «Если передача цифровых технологий сегодня в США происходит впервые, то о мирной передаче власти такого не скажешь», – написала Кори Шульман, специальный помощник президента Обамы в своем блоге в понедельник.
+# english_text = “While much of the digital transition is unprecedented in the United States, the peaceful transition of power is not,” Obama special assistant Kori Schulman wrote in a blog post Monday.
+1	«	«	_	_	_	_	_	_	_
+2	Если	если	_	_	CONJ	_	_	_	_
+3	передача	передача	_	_	SG;FEM;N;NOM;INAN	_	_	_	_
+4	цифровых	цифровой	_	_	PL;GEN;ADJ;INAN	_	_	_	_
+5	технологий	технология	_	_	PL;FEM;N;GEN;INAN	_	_	_	_
+6	сегодня	сегодня	_	_	ADV	_	_	_	_
+7	в	в	_	_	ADP	_	_	_	_
+8	США	США	_	_	PROPN;INAN;PL;MASC	_	_	_	_
+9	происходит	происходить	_	_	SG;IND;IPFV;V;3;PRS	_	_	_	_
+10	впервые	впервые	_	_	ADV	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	то	то	_	_	CONJ	_	_	_	_
+13	о	о	_	_	ADP	_	_	_	_
+14	мирной	мирный	_	_	SG;FEM;ADJ;INAN	_	_	_	_
+15	передаче	передача	_	_	SG;N;INAN;FEM	_	_	_	_
+16	власти	власть	_	_	SG;FEM;N;GEN;INAN	_	_	_	_
+17	такого	такой	_	_	SG;NEUT;GEN;INAN;PRO	_	_	_	_
+18	не	не	_	_	PART;NEG	_	_	_	_
+19	скажешь	сказать	_	_	2;SG;FUT;IND;V;PFV	_	_	_	_
+20	»	»	_	_	_	_	_	_	_
+21	,	,	_	_	_	_	_	_	_
+22	–	–	_	_	_	_	_	_	_
+23	написала	написать	_	_	SG;FEM;IND;PST;V;PFV	_	_	_	_
+24	Кори	Кори	_	_	SG;FEM;NOM;PROPN;ANIM	_	_	_	_
+25	Шульман	Шульман	_	_	SG;FEM;NOM;PROPN;ANIM	_	_	_	_
+26	,	,	_	_	_	_	_	_	_
+27	специальный	специальный	_	_	SG;NOM;ADJ;MASC;ANIM	_	_	_	_
+28	помощник	помощник	_	_	SG;N;NOM;MASC;ANIM	_	_	_	_
+29	президента	президент	_	_	SG;N;GEN;MASC;ANIM	_	_	_	_
+30	Обамы	Обама	_	_	SG;GEN;PROPN;MASC;ANIM	_	_	_	_
+31	в	в	_	_	ADP	_	_	_	_
+32	своем	свой	_	_	REFL;DET;MASC;SG	_	_	_	_
+33	блоге	блог	_	_	N;INAN;SG;MASC	_	_	_	_
+34	в	в	_	_	ADP	_	_	_	_
+35	понедельник	понедельник	_	_	SG;N;INAN;ACC;MASC	_	_	_	_
+36	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01133
+# sent_id = w01133014
+# text = Старлин приступил к работе над историями со следующего номера и начал разрабатывать сложный комплекс сюжетов вокруг злодея Таноса, распространившийся на несколько комиксов компании «Марвел».
+# english_text = Starlin took over as plotter the following issue, and began developing an elaborate story arc centered on the villainous Thanos, and spread across a number of Marvel titles.
+1	Старлин	Старлин	_	_	SG;NOM;PROPN;MASC;ANIM	_	_	_	_
+2	приступил	приступить	_	_	SG;IND;PST;V;PFV;MASC	_	_	_	_
+3	к	к	_	_	ADP	_	_	_	_
+4	работе	работа	_	_	SG;FEM;N;INAN;DAT	_	_	_	_
+5	над	над	_	_	ADP	_	_	_	_
+6	историями	история	_	_	FEM;PL;N;INS;INAN	_	_	_	_
+7	со	со	_	_	ADP	_	_	_	_
+8	следующего	следующий	_	_	SG;GEN;ADJ;INAN;MASC	_	_	_	_
+9	номера	номер	_	_	SG;N;GEN;INAN;MASC	_	_	_	_
+10	и	и	_	_	CONJ	_	_	_	_
+11	начал	начать	_	_	SG;IND;PST;V;PFV;MASC	_	_	_	_
+12	разрабатывать	разрабатывать	_	_	IPFV;V	_	_	_	_
+13	сложный	сложный	_	_	SG;ADJ;INAN;ACC;MASC	_	_	_	_
+14	комплекс	комплекс	_	_	SG;N;INAN;ACC;MASC	_	_	_	_
+15	сюжетов	сюжет	_	_	PL;N;GEN;INAN;MASC	_	_	_	_
+16	вокруг	вокруг	_	_	ADP	_	_	_	_
+17	злодея	злодей	_	_	SG;N;GEN;MASC;ANIM	_	_	_	_
+18	Таноса	Танос	_	_	SG;GEN;PROPN;MASC;ANIM	_	_	_	_
+19	,	,	_	_	_	_	_	_	_
+20	распространившийся	распространиться	_	_	SG;PST;V;INAN;ACC;PFV;ACT;MASC;V.PTCP	_	_	_	_
+21	на	на	_	_	ADP	_	_	_	_
+22	несколько	несколько	_	_	GEN;NUM;INAN;PL	_	_	_	_
+23	комиксов	комикс	_	_	PL;N;GEN;INAN;MASC	_	_	_	_
+24	компании	компания	_	_	SG;FEM;N;GEN;INAN	_	_	_	_
+25	«	«	_	_	_	_	_	_	_
+26	Марвел	Марвел	_	_	SG;NOM;INAN;PROPN;MASC	_	_	_	_
+27	»	»	_	_	_	_	_	_	_
+28	.	.	_	_	_	_	_	_	_
+
+# sent_id = w03010099
+# text = Летом Джордж и его жена вернулись в Швейцарию в сопровождении Розаны, восемнадцатилетней дочери одного из друзей Жермена.
+# english_text = In the summer, Georges and his wife returned to Switzerland, accompanied by Rosane, an 18 year old who was the daughter of one of Germaine's friends.
+1	Летом	лето	_	_	ADV	_	_	_	_
+2	Джордж	Джордж	_	_	SG;NOM;PROPN;MASC;ANIM	_	_	_	_
+3	и	и	_	_	CONJ	_	_	_	_
+4	его	его	_	_	PSSS;NOM;DET;3	_	_	_	_
+5	жена	жена	_	_	SG;FEM;N;NOM;ANIM	_	_	_	_
+6	вернулись	вернуться	_	_	PL;IND;PST;V;PFV	_	_	_	_
+7	в	в	_	_	ADP	_	_	_	_
+8	Швейцарию	Швейцария	_	_	SG;FEM;INAN;ACC;PROPN	_	_	_	_
+9	в	в	_	_	ADP	_	_	_	_
+10	сопровождении	сопровождение	_	_	NEUT;N;INAN;SG	_	_	_	_
+11	Розаны	Розана	_	_	SG;FEM;GEN;PROPN;ANIM	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	восемнадцатилетней	восемнадцатилетний	_	_	SG;FEM;GEN;ADJ;ANIM	_	_	_	_
+14	дочери	дочь	_	_	SG;FEM;N;GEN;ANIM	_	_	_	_
+15	одного	один	_	_	SG;GEN;NUM;MASC;ANIM	_	_	_	_
+16	из	из	_	_	ADP	_	_	_	_
+17	друзей	друг	_	_	PL;N;GEN;MASC;ANIM	_	_	_	_
+18	Жермена	Жермен	_	_	SG;GEN;PROPN;MASC;ANIM	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01033025
+# text = Он был объявлен природным заповедником в 1975 году.
+# english_text = It was declared a wildlife sanctuary in 1975.
+1	Он	он	_	_	SG;NOM;3;PRO;MASC	_	_	_	_
+2	был	быть	_	_	SG;IND;PST;V;IPFV;MASC	_	_	_	_
+3	объявлен	объявить	_	_	SG;PASS;PST;NOM;V;INAN;PFV;MASC	_	_	_	_
+4	природным	природный	_	_	SG;INS;ADJ;INAN;MASC	_	_	_	_
+5	заповедником	заповедник	_	_	SG;N;INS;INAN;MASC	_	_	_	_
+6	в	в	_	_	ADP	_	_	_	_
+7	1975	1975	_	_	SG;NUM;INAN;MASC	_	_	_	_
+8	году	год	_	_	SG;N;ESS;INAN;MASC	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01097104
+# text = Некоторые историки, такие как Чендлер и Веллер, считают, что британская тяжелая кавалерия как значимая сила была уничтожена в первой большой атаке.
+# english_text = Some historians, such as Chandler and Weller, assert that the British heavy cavalry were destroyed as a viable force following their first, epic charge.
+1	Некоторые	некоторый	_	_	PL;NOM;DET;ANIM	_	_	_	_
+2	историки	историк	_	_	PL;N;NOM;MASC;ANIM	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	такие	такой	_	_	PL;NOM;ADJ;ANIM	_	_	_	_
+5	как	как	_	_	CONJ	_	_	_	_
+6	Чендлер	Чендлер	_	_	SG;NOM;PROPN;MASC;ANIM	_	_	_	_
+7	и	и	_	_	CONJ	_	_	_	_
+8	Веллер	Веллер	_	_	SG;NOM;PROPN;MASC;ANIM	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	считают	считать	_	_	PL;IND;IPFV;V;3;PRS	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	что	что	_	_	ADP	_	_	_	_
+13	британская	британский	_	_	SG;FEM;NOM;ADJ;INAN	_	_	_	_
+14	тяжелая	тяжелый	_	_	SG;FEM;NOM;ADJ;INAN	_	_	_	_
+15	кавалерия	кавалерия	_	_	SG;FEM;N;NOM;INAN	_	_	_	_
+16	как	как	_	_	ADP	_	_	_	_
+17	значимая	значимый	_	_	SG;FEM;NOM;ADJ;INAN	_	_	_	_
+18	сила	сила	_	_	SG;FEM;N;NOM;INAN	_	_	_	_
+19	была	быть	_	_	SG;FEM;IND;PST;V;IPFV	_	_	_	_
+20	уничтожена	уничтожить	_	_	SG;FEM;PASS;PST;NOM;V;INAN;PFV	_	_	_	_
+21	в	в	_	_	ADP	_	_	_	_
+22	первой	первый	_	_	SG;FEM;ADJ;INAN	_	_	_	_
+23	большой	большой	_	_	SG;FEM;ADJ;INAN	_	_	_	_
+24	атаке	атака	_	_	SG;N;INAN;FEM	_	_	_	_
+25	.	.	_	_	_	_	_	_	_
+

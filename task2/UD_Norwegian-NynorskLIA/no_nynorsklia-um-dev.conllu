@@ -1,0 +1,1778 @@
+# sent_id =  000491
+# text = ja vel # mykje kosta ein sånn lastebil da du ?
+1	ja	ja	_	_	INTJ	_	_	_	_
+2	vel	vel	_	_	ADV	_	_	_	_
+3	#	#	_	_	_	_	_	_	_
+4	mykje	mykje	_	_	SG;INDF;ADJ;NEUT	_	_	_	_
+5	kosta	koste	_	_	IND;PST;V;FIN	_	_	_	_
+6	ein	ein	_	_	MASC;SG;DET	_	_	_	_
+7	sånn	sånn	_	_	MASC;SG;DET	_	_	_	_
+8	lastebil	lastebil	_	_	INDF;N;MASC;SG	_	_	_	_
+9	da	da	_	_	ADV	_	_	_	_
+10	du	du	_	_	SG;2;PRO;NOM;HUM	_	_	_	_
+11	?	$?	_	_	_	_	_	_	_
+
+# sent_id =  001029
+# text = ja ## eg har # tre utav barna .
+1	ja	ja	_	_	INTJ	_	_	_	_
+2	##	##	_	_	_	_	_	_	_
+3	eg	eg	_	_	SG;PRO;1;NOM;HUM	_	_	_	_
+4	har	ha	_	_	IND;PRS;V;FIN	_	_	_	_
+5	#	#	_	_	_	_	_	_	_
+6	tre	tre	_	_	PL;NUM	_	_	_	_
+7	utav	utav	_	_	ADP	_	_	_	_
+8	barna	barn	_	_	NEUT;N;PL;DEF	_	_	_	_
+9	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000877
+# text = men det var mest fiske ## det var større og mindre båtar .
+1	men	men	_	_	CONJ	_	_	_	_
+2	det	det	_	_	SG;PRO;3;NEUT	_	_	_	_
+3	var	vere	_	_	IND;PST;V;FIN	_	_	_	_
+4	mest	mykje	_	_	INDF;ADJ;RL	_	_	_	_
+5	fiske	fiske	_	_	INDF;N;PL;NEUT	_	_	_	_
+6	##	##	_	_	_	_	_	_	_
+7	det	det	_	_	SG;PRO;3;NEUT	_	_	_	_
+8	var	vere	_	_	IND;PST;V;FIN	_	_	_	_
+9	større	stor	_	_	ADJ	_	_	_	_
+10	og	og	_	_	CONJ	_	_	_	_
+11	mindre	liten	_	_	ADJ	_	_	_	_
+12	båtar	båt	_	_	INDF;N;MASC;PL	_	_	_	_
+13	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  001212
+# text = og så sitte og køyre og ut å arbeide .
+1	og	og	_	_	CONJ	_	_	_	_
+2	så	så	_	_	ADV	_	_	_	_
+3	sitte	sitte	_	_	NFIN;V	_	_	_	_
+4	og	og	_	_	CONJ	_	_	_	_
+5	køyre	køyre	_	_	NFIN;V	_	_	_	_
+6	og	og	_	_	CONJ	_	_	_	_
+7	ut	ut	_	_	ADP	_	_	_	_
+8	å	å	_	_	PART	_	_	_	_
+9	arbeide	arbeide	_	_	NFIN;V	_	_	_	_
+10	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000471
+# text = å .
+1	å	å	_	_	INTJ	_	_	_	_
+2	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000980
+# text = jaha ja .
+1	jaha	jaha	_	_	INTJ	_	_	_	_
+2	ja	ja	_	_	INTJ	_	_	_	_
+3	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000946
+# text = ja det # M1 vel ja .
+1	ja	ja	_	_	INTJ	_	_	_	_
+2	det	det	_	_	SG;PRO;3;NEUT	_	_	_	_
+3	#	#	_	_	_	_	_	_	_
+4	M1	M1	_	_	PROPN	_	_	_	_
+5	vel	vel	_	_	ADV	_	_	_	_
+6	ja	ja	_	_	INTJ	_	_	_	_
+7	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000349
+# text = krigen så kjøpte eg ein sånn Hesselman .
+1	krigen	krig	_	_	N;MASC;SG;DEF	_	_	_	_
+2	så	så	_	_	ADV	_	_	_	_
+3	kjøpte	kjøpe	_	_	IND;PST;V;FIN	_	_	_	_
+4	eg	eg	_	_	SG;PRO;1;NOM;HUM	_	_	_	_
+5	ein	ein	_	_	MASC;SG;DET	_	_	_	_
+6	sånn	sånn	_	_	MASC;SG;DET	_	_	_	_
+7	Hesselman	Hesselman	_	_	PROPN	_	_	_	_
+8	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000513
+# text = eg reiste med # ein ifrå Hevrøya .
+1	eg	eg	_	_	SG;PRO;1;NOM;HUM	_	_	_	_
+2	reiste	reise	_	_	IND;PST;V;FIN	_	_	_	_
+3	med	med	_	_	ADP	_	_	_	_
+4	#	#	_	_	_	_	_	_	_
+5	ein	ein	_	_	SG;PRO;NOM;HUM	_	_	_	_
+6	ifrå	ifrå	_	_	ADP	_	_	_	_
+7	Hevrøya	Hevrøya	_	_	PROPN	_	_	_	_
+8	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000408
+# text = men så hadde eg ein Volvo # med bensinvolvo som m måtte sette på vedavgass den var e .
+1	men	men	_	_	CONJ	_	_	_	_
+2	så	så	_	_	ADV	_	_	_	_
+3	hadde	ha	_	_	IND;PST;V;FIN	_	_	_	_
+4	eg	eg	_	_	SG;PRO;1;NOM;HUM	_	_	_	_
+5	ein	ein	_	_	MASC;SG;DET	_	_	_	_
+6	Volvo	Volvo	_	_	PROPN	_	_	_	_
+7	#	#	_	_	_	_	_	_	_
+8	med	med	_	_	ADP	_	_	_	_
+9	bensinvolvo	bensinvolvo	_	_	PROPN	_	_	_	_
+10	som	som	_	_	PRO	_	_	_	_
+11	m	m	_	_	INTJ	_	_	_	_
+12	måtte	måtte	_	_	IND;PST;V;FIN	_	_	_	_
+13	sette	sette	_	_	NFIN;V	_	_	_	_
+14	på	på	_	_	ADP	_	_	_	_
+15	vedavgass	vedavgass	_	_	INDF;N;MASC;SG	_	_	_	_
+16	den	den	_	_	SG;PRO;3;NOM	_	_	_	_
+17	var	vere	_	_	IND;PST;V;FIN	_	_	_	_
+18	e	e	_	_	_	_	_	_	_
+19	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000402
+# text = mm .
+1	mm	mm	_	_	INTJ	_	_	_	_
+2	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000880
+# text = har dei stort sett fiska utanfor her vardøværingane ?
+1	har	ha	_	_	IND;PRS;V;FIN	_	_	_	_
+2	dei	dei	_	_	PRO;3;NOM;HUM;PL	_	_	_	_
+3	stort	stor	_	_	SG;INDF;ADJ;NEUT	_	_	_	_
+4	sett	sjå	_	_	INDF;NEUT;ADJ;SG	_	_	_	_
+5	fiska	fiske	_	_	V.PTCP;V	_	_	_	_
+6	utanfor	utanfor	_	_	ADP	_	_	_	_
+7	her	her	_	_	ADV	_	_	_	_
+8	vardøværingane	vardøværing	_	_	N;MASC;PL;DEF	_	_	_	_
+9	?	$?	_	_	_	_	_	_	_
+
+# sent_id =  000748
+# text = ja av dei som er reportarar da vil eg seie .
+1	ja	ja	_	_	INTJ	_	_	_	_
+2	av	av	_	_	ADP	_	_	_	_
+3	dei	dei	_	_	PRO;3;NOM;HUM;PL	_	_	_	_
+4	som	som	_	_	PRO	_	_	_	_
+5	er	vere	_	_	IND;PRS;V;FIN	_	_	_	_
+6	reportarar	reportar	_	_	INDF;N;MASC;PL	_	_	_	_
+7	da	da	_	_	ADV	_	_	_	_
+8	vil	vilje	_	_	IND;PRS;V;FIN	_	_	_	_
+9	eg	eg	_	_	SG;PRO;1;NOM;HUM	_	_	_	_
+10	seie	seie	_	_	NFIN;V	_	_	_	_
+11	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000142
+# text = da var det ein s- fem stykke som skulle rømme til Sverige .
+1	da	da	_	_	ADV	_	_	_	_
+2	var	vere	_	_	IND;PST;V;FIN	_	_	_	_
+3	det	det	_	_	SG;PRO;3;NEUT	_	_	_	_
+4	ein	ein	_	_	MASC;SG;DET	_	_	_	_
+5	s-	s-	_	_	_	_	_	_	_
+6	fem	fem	_	_	PL;NUM	_	_	_	_
+7	stykke	stykke	_	_	INDF;N;PL;NEUT	_	_	_	_
+8	som	som	_	_	PRO	_	_	_	_
+9	skulle	skulle	_	_	IND;PST;V;FIN	_	_	_	_
+10	rømme	rømme	_	_	NFIN;V	_	_	_	_
+11	til	til	_	_	ADP	_	_	_	_
+12	Sverige	Sverige	_	_	PROPN	_	_	_	_
+13	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000269
+# text = og hadde ein to tre griser da veit du som dei hadde i gamle dagar .
+1	og	og	_	_	CONJ	_	_	_	_
+2	hadde	ha	_	_	IND;PST;V;FIN	_	_	_	_
+3	ein	ein	_	_	MASC;SG;DET	_	_	_	_
+4	to	to	_	_	PL;NUM	_	_	_	_
+5	tre	tre	_	_	PL;NUM	_	_	_	_
+6	griser	gris	_	_	INDF;N;MASC;PL	_	_	_	_
+7	da	da	_	_	ADV	_	_	_	_
+8	veit	vite	_	_	IND;PRS;V;FIN	_	_	_	_
+9	du	du	_	_	SG;2;PRO;NOM;HUM	_	_	_	_
+10	som	som	_	_	PRO	_	_	_	_
+11	dei	dei	_	_	PRO;3;NOM;HUM;PL	_	_	_	_
+12	hadde	ha	_	_	IND;PST;V;FIN	_	_	_	_
+13	i	i	_	_	ADP	_	_	_	_
+14	gamle	gammal	_	_	PL;ADJ	_	_	_	_
+15	dagar	dag	_	_	INDF;N;MASC;PL	_	_	_	_
+16	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000908
+# text = og det hugsar eg når eg prata med # både den eine og andre var # så sa eg altså # « du er ifrå ifrå Harstad » sa eg .
+1	og	og	_	_	CONJ	_	_	_	_
+2	det	det	_	_	SG;PRO;3;NEUT	_	_	_	_
+3	hugsar	hugse	_	_	IND;PRS;V;FIN	_	_	_	_
+4	eg	eg	_	_	SG;PRO;1;NOM;HUM	_	_	_	_
+5	når	når	_	_	CONJ	_	_	_	_
+6	eg	eg	_	_	SG;PRO;1;NOM;HUM	_	_	_	_
+7	prata	prate	_	_	IND;PST;V;FIN	_	_	_	_
+8	med	med	_	_	ADP	_	_	_	_
+9	#	#	_	_	_	_	_	_	_
+10	både	både	_	_	CONJ	_	_	_	_
+11	den	den	_	_	MASC;SG;DET	_	_	_	_
+12	eine	eine	_	_	DEF;NUM;SG	_	_	_	_
+13	og	og	_	_	CONJ	_	_	_	_
+14	andre	annan	_	_	SG;DET;DEF	_	_	_	_
+15	var	vere	_	_	IND;PST;V;FIN	_	_	_	_
+16	#	#	_	_	_	_	_	_	_
+17	så	så	_	_	ADV	_	_	_	_
+18	sa	seie	_	_	IND;PST;V;FIN	_	_	_	_
+19	eg	eg	_	_	SG;PRO;1;NOM;HUM	_	_	_	_
+20	altså	altså	_	_	ADV	_	_	_	_
+21	#	#	_	_	_	_	_	_	_
+22	«	«	_	_	_	_	_	_	_
+23	du	du	_	_	SG;2;PRO;NOM;HUM	_	_	_	_
+24	er	vere	_	_	IND;PRS;V;FIN	_	_	_	_
+25	ifrå	ifrå	_	_	ADP	_	_	_	_
+26	ifrå	ifrå	_	_	CONJ	_	_	_	_
+27	Harstad	Harstad	_	_	PROPN	_	_	_	_
+28	»	»	_	_	_	_	_	_	_
+29	sa	seie	_	_	IND;PST;V;FIN	_	_	_	_
+30	eg	eg	_	_	SG;PRO;1;NOM;HUM	_	_	_	_
+31	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000606
+# text = da var vel ho var vel ganske tung ?
+1	da	da	_	_	ADV	_	_	_	_
+2	var	vere	_	_	IND;PST;V;FIN	_	_	_	_
+3	vel	vel	_	_	ADV	_	_	_	_
+4	ho	ho	_	_	SG;PRO;3;NOM;FEM	_	_	_	_
+5	var	vere	_	_	IND;PST;V;FIN	_	_	_	_
+6	vel	vel	_	_	ADV	_	_	_	_
+7	ganske	ganske	_	_	ADV	_	_	_	_
+8	tung	tung	_	_	INDF;SG;ADJ	_	_	_	_
+9	?	$?	_	_	_	_	_	_	_
+
+# sent_id =  000762
+# text = den er for tung # denne ja ja når det er trekkspel da # er det interessant .
+1	den	den	_	_	SG;PRO;3;NOM	_	_	_	_
+2	er	vere	_	_	IND;PRS;V;FIN	_	_	_	_
+3	for	for	_	_	ADV	_	_	_	_
+4	tung	tung	_	_	INDF;SG;ADJ	_	_	_	_
+5	#	#	_	_	_	_	_	_	_
+6	denne	denne	_	_	SG;PRO;3;NOM	_	_	_	_
+7	ja	ja	_	_	INTJ	_	_	_	_
+8	ja	ja	_	_	INTJ	_	_	_	_
+9	når	når	_	_	CONJ	_	_	_	_
+10	det	det	_	_	SG;PRO;3;NEUT	_	_	_	_
+11	er	vere	_	_	IND;PRS;V;FIN	_	_	_	_
+12	trekkspel	trekkspel	_	_	INDF;N;SG;NEUT	_	_	_	_
+13	da	da	_	_	ADV	_	_	_	_
+14	#	#	_	_	_	_	_	_	_
+15	er	vere	_	_	IND;PRS;V;FIN	_	_	_	_
+16	det	det	_	_	SG;PRO;3;NEUT	_	_	_	_
+17	interessant	interessant	_	_	SG;INDF;ADJ;NEUT	_	_	_	_
+18	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000506
+# text = var fjorten år .
+1	var	vere	_	_	IND;PST;V;FIN	_	_	_	_
+2	fjorten	fjorten	_	_	PL;NUM	_	_	_	_
+3	år	år	_	_	INDF;N;PL;NEUT	_	_	_	_
+4	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  001272
+# text = ja .
+1	ja	ja	_	_	INTJ	_	_	_	_
+2	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000175
+# text = å ikkje var det så mykje bygd som det er nå .
+1	å	å	_	_	INTJ	_	_	_	_
+2	ikkje	ikkje	_	_	PART;NEG	_	_	_	_
+3	var	vere	_	_	IND;PST;V;FIN	_	_	_	_
+4	det	det	_	_	SG;PRO;3;NEUT	_	_	_	_
+5	så	så	_	_	ADV	_	_	_	_
+6	mykje	mykje	_	_	SG;INDF;ADJ;NEUT	_	_	_	_
+7	bygd	bygge	_	_	INDF;NEUT;ADJ;SG	_	_	_	_
+8	som	som	_	_	PRO	_	_	_	_
+9	det	det	_	_	SG;PRO;3;NEUT	_	_	_	_
+10	er	vere	_	_	IND;PRS;V;FIN	_	_	_	_
+11	nå	nå	_	_	ADV	_	_	_	_
+12	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  001215
+# text = men e i alle fall så veit eg mange som har sett pris på køyringa hans eidsberg_uio_0301 i alle desse åra og ein av dei det er # kongen sjølv for han har gitt han eidsberg_uio_0301 fortenestemedaljen # eg ser diplomet på veggen # og det trur eg nok heilt sikkert var fortent # har du vore inne hos kongen og takka for den ?
+1	men	men	_	_	CONJ	_	_	_	_
+2	e	e	_	_	_	_	_	_	_
+3	i	i	_	_	ADP	_	_	_	_
+4	alle	all	_	_	PL;DET	_	_	_	_
+5	fall	fall	_	_	N;PL;NEUT;INDF	_	_	_	_
+6	så	så	_	_	ADV	_	_	_	_
+7	veit	vite	_	_	FIN;IND;V;PRS	_	_	_	_
+8	eg	eg	_	_	NOM;SG;PRO;HUM;1	_	_	_	_
+9	mange	mange	_	_	ADJ;PL	_	_	_	_
+10	som	som	_	_	PRO	_	_	_	_
+11	har	ha	_	_	FIN;IND;V;PRS	_	_	_	_
+12	sett	sette	_	_	V.PTCP;V	_	_	_	_
+13	pris	pris	_	_	SG;N;MASC;INDF	_	_	_	_
+14	på	på	_	_	ADP	_	_	_	_
+15	køyringa	køyring	_	_	SG;N;DEF;FEM	_	_	_	_
+16	hans	hans	_	_	FEM;SG;PRO	_	_	_	_
+17	eidsberg_uio_0301	eidsberg_uio_0301	_	_	PROPN	_	_	_	_
+18	i	i	_	_	ADP	_	_	_	_
+19	alle	all	_	_	PL;DET	_	_	_	_
+20	desse	desse	_	_	PL;DET	_	_	_	_
+21	åra	år	_	_	N;DEF;PL;NEUT	_	_	_	_
+22	og	og	_	_	CONJ	_	_	_	_
+23	ein	ein	_	_	NOM;SG;PRO;HUM	_	_	_	_
+24	av	av	_	_	ADP	_	_	_	_
+25	dei	dei	_	_	NOM;PL;PRO;HUM;3	_	_	_	_
+26	det	det	_	_	NEUT;SG;PRO;3	_	_	_	_
+27	er	vere	_	_	FIN;IND;V;PRS	_	_	_	_
+28	#	#	_	_	_	_	_	_	_
+29	kongen	kong	_	_	SG;N;DEF;MASC	_	_	_	_
+30	sjølv	sjølv	_	_	ADV	_	_	_	_
+31	for	for	_	_	CONJ	_	_	_	_
+32	han	han	_	_	NOM;SG;PRO;MASC;3	_	_	_	_
+33	har	ha	_	_	FIN;IND;V;PRS	_	_	_	_
+34	gitt	gi	_	_	V.PTCP;V	_	_	_	_
+35	han	han	_	_	SG;ACC;PRO;MASC;3	_	_	_	_
+36	eidsberg_uio_0301	eidsberg_uio_0301	_	_	PROPN	_	_	_	_
+37	fortenestemedaljen	fortenestemedalje	_	_	SG;N;DEF;MASC	_	_	_	_
+38	#	#	_	_	_	_	_	_	_
+39	eg	eg	_	_	NOM;SG;PRO;HUM;1	_	_	_	_
+40	ser	sjå	_	_	FIN;IND;V;PRS	_	_	_	_
+41	diplomet	diplom	_	_	SG;N;DEF;NEUT	_	_	_	_
+42	på	på	_	_	ADP	_	_	_	_
+43	veggen	vegg	_	_	SG;N;DEF;MASC	_	_	_	_
+44	#	#	_	_	_	_	_	_	_
+45	og	og	_	_	CONJ	_	_	_	_
+46	det	det	_	_	NEUT;SG;PRO;3	_	_	_	_
+47	trur	tru	_	_	FIN;IND;V;PRS	_	_	_	_
+48	eg	eg	_	_	NOM;SG;PRO;HUM;1	_	_	_	_
+49	nok	nok	_	_	ADV	_	_	_	_
+50	heilt	heil	_	_	NEUT;ADJ;INDF;SG	_	_	_	_
+51	sikkert	sikker	_	_	NEUT;ADJ;INDF;SG	_	_	_	_
+52	var	vere	_	_	FIN;IND;V;PST	_	_	_	_
+53	fortent	fortene	_	_	SG;ADJ;NEUT;INDF	_	_	_	_
+54	#	#	_	_	_	_	_	_	_
+55	har	ha	_	_	FIN;IND;V;PRS	_	_	_	_
+56	du	du	_	_	NOM;2;SG;PRO;HUM	_	_	_	_
+57	vore	vere	_	_	V.PTCP;V	_	_	_	_
+58	inne	inne	_	_	ADP	_	_	_	_
+59	hos	hos	_	_	ADP	_	_	_	_
+60	kongen	kong	_	_	SG;N;DEF;MASC	_	_	_	_
+61	og	og	_	_	CONJ	_	_	_	_
+62	takka	takke	_	_	V.PTCP;V	_	_	_	_
+63	for	for	_	_	ADP	_	_	_	_
+64	den	den	_	_	SG;ACC;PRO;3	_	_	_	_
+65	?	$?	_	_	_	_	_	_	_
+
+# sent_id =  000441
+# text = men du hadde kvote da med dieselolje ?
+1	men	men	_	_	CONJ	_	_	_	_
+2	du	du	_	_	SG;2;PRO;NOM;HUM	_	_	_	_
+3	hadde	ha	_	_	IND;PST;V;FIN	_	_	_	_
+4	kvote	kvote	_	_	INDF;N;SG;FEM	_	_	_	_
+5	da	da	_	_	ADV	_	_	_	_
+6	med	med	_	_	ADP	_	_	_	_
+7	dieselolje	dieselolje	_	_	INDF;N;SG;FEM	_	_	_	_
+8	?	$?	_	_	_	_	_	_	_
+
+# sent_id =  000786
+# text = og styremaskin eller kva det heiter nå det kan eg ikkje komme på i farten så at .
+1	og	og	_	_	CONJ	_	_	_	_
+2	styremaskin	styremaskin	_	_	INDF;N;MASC;SG	_	_	_	_
+3	eller	eller	_	_	CONJ	_	_	_	_
+4	kva	kva	_	_	PRO	_	_	_	_
+5	det	det	_	_	SG;PRO;3;NEUT	_	_	_	_
+6	heiter	heite	_	_	IND;PRS;V;FIN	_	_	_	_
+7	nå	nå	_	_	ADV	_	_	_	_
+8	det	det	_	_	SG;PRO;3;NEUT	_	_	_	_
+9	kan	kunne	_	_	IND;PRS;V;FIN	_	_	_	_
+10	eg	eg	_	_	SG;PRO;1;NOM;HUM	_	_	_	_
+11	ikkje	ikkje	_	_	PART;NEG	_	_	_	_
+12	komme	komme	_	_	NFIN;V	_	_	_	_
+13	på	på	_	_	ADP	_	_	_	_
+14	i	i	_	_	ADP	_	_	_	_
+15	farten	fart	_	_	N;MASC;SG;DEF	_	_	_	_
+16	så	så	_	_	ADV	_	_	_	_
+17	at	at	_	_	CONJ	_	_	_	_
+18	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000070
+# text = ja .
+1	ja	ja	_	_	INTJ	_	_	_	_
+2	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000716
+# text = veit du # det var # Botnen var jo nok sønste garden i Austevoll her på øya .
+1	veit	vite	_	_	IND;PRS;V;FIN	_	_	_	_
+2	du	du	_	_	SG;2;PRO;NOM;HUM	_	_	_	_
+3	#	#	_	_	_	_	_	_	_
+4	det	det	_	_	SG;PRO;3;NEUT	_	_	_	_
+5	var	vere	_	_	IND;PST;V;FIN	_	_	_	_
+6	#	#	_	_	_	_	_	_	_
+7	Botnen	Botnen	_	_	PROPN	_	_	_	_
+8	var	vere	_	_	IND;PST;V;FIN	_	_	_	_
+9	jo	jo	_	_	ADV	_	_	_	_
+10	nok	nok	_	_	ADV	_	_	_	_
+11	sønste	_	_	_	ADJ	_	_	_	_
+12	garden	gard	_	_	N;MASC;SG;DEF	_	_	_	_
+13	i	i	_	_	ADP	_	_	_	_
+14	Austevoll	Austevoll	_	_	PROPN	_	_	_	_
+15	her	her	_	_	ADV	_	_	_	_
+16	på	på	_	_	ADP	_	_	_	_
+17	øya	øy	_	_	N;SG;DEF;FEM	_	_	_	_
+18	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000219
+# text = kven var det som var dei største mjølkeleverandørane her da ?
+1	kven	kven	_	_	PRO;HUM;ACC	_	_	_	_
+2	var	vere	_	_	IND;PST;V;FIN	_	_	_	_
+3	det	det	_	_	SG;PRO;3;NEUT	_	_	_	_
+4	som	som	_	_	PRO	_	_	_	_
+5	var	vere	_	_	IND;PST;V;FIN	_	_	_	_
+6	dei	dei	_	_	PL;DET	_	_	_	_
+7	største	stor	_	_	RL;ADJ;DEF	_	_	_	_
+8	mjølkeleverandørane	mjølkeleverandør	_	_	N;MASC;PL;DEF	_	_	_	_
+9	her	her	_	_	ADV	_	_	_	_
+10	da	da	_	_	ADV	_	_	_	_
+11	?	$?	_	_	_	_	_	_	_
+
+# sent_id =  000674
+# text = men e snurpa de da ifrå doryane ?
+1	men	men	_	_	CONJ	_	_	_	_
+2	e	e	_	_	_	_	_	_	_
+3	snurpa	snurpe	_	_	IND;PST;V;FIN	_	_	_	_
+4	de	de	_	_	2;PRO;NOM;HUM;PL	_	_	_	_
+5	da	da	_	_	ADV	_	_	_	_
+6	ifrå	ifrå	_	_	ADP	_	_	_	_
+7	doryane	dory	_	_	N;MASC;PL;DEF	_	_	_	_
+8	?	$?	_	_	_	_	_	_	_
+
+# sent_id =  001251
+# text = ja # og vi har … .
+1	ja	ja	_	_	INTJ	_	_	_	_
+2	#	#	_	_	_	_	_	_	_
+3	og	og	_	_	CONJ	_	_	_	_
+4	vi	vi	_	_	NOM;PRO;HUM;1;PL	_	_	_	_
+5	har	ha	_	_	FIN;IND;V;PRS	_	_	_	_
+6	…	…	_	_	_	_	_	_	_
+7	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000523
+# text = å ja .
+1	å	å	_	_	INTJ	_	_	_	_
+2	ja	ja	_	_	INTJ	_	_	_	_
+3	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000746
+# text = det er jo dei same karane # som sit og jattar # oppatt og oppatt kvart einaste år veit du .
+1	det	det	_	_	SG;PRO;3;NEUT	_	_	_	_
+2	er	vere	_	_	IND;PRS;V;FIN	_	_	_	_
+3	jo	jo	_	_	ADV	_	_	_	_
+4	dei	dei	_	_	PL;DET	_	_	_	_
+5	same	same	_	_	DEF;DET	_	_	_	_
+6	karane	kar	_	_	N;MASC;PL;DEF	_	_	_	_
+7	#	#	_	_	_	_	_	_	_
+8	som	som	_	_	PRO	_	_	_	_
+9	sit	sitte	_	_	IND;PRS;V;FIN	_	_	_	_
+10	og	og	_	_	CONJ	_	_	_	_
+11	jattar	jatte	_	_	IND;PRS;V;FIN	_	_	_	_
+12	#	#	_	_	_	_	_	_	_
+13	oppatt	oppatt	_	_	ADP	_	_	_	_
+14	og	og	_	_	CONJ	_	_	_	_
+15	oppatt	oppatt	_	_	ADP	_	_	_	_
+16	kvart	kvar	_	_	NEUT;SG;DET	_	_	_	_
+17	einaste	einaste	_	_	DEF;NUM	_	_	_	_
+18	år	år	_	_	INDF;N;SG;NEUT	_	_	_	_
+19	veit	vite	_	_	IND;PRS;V;FIN	_	_	_	_
+20	du	du	_	_	SG;2;PRO;NOM;HUM	_	_	_	_
+21	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  001127
+# text = og det gjekk jo bra .
+1	og	og	_	_	CONJ	_	_	_	_
+2	det	det	_	_	NEUT;SG;PRO;3	_	_	_	_
+3	gjekk	gå	_	_	FIN;IND;V;PST	_	_	_	_
+4	jo	jo	_	_	ADV	_	_	_	_
+5	bra	bra	_	_	NEUT;ADJ;INDF;SG	_	_	_	_
+6	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000873
+# text = mm .
+1	mm	mm	_	_	INTJ	_	_	_	_
+2	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  001216
+# text = ja # der har eg vore .
+1	ja	ja	_	_	INTJ	_	_	_	_
+2	#	#	_	_	_	_	_	_	_
+3	der	der	_	_	ADV	_	_	_	_
+4	har	ha	_	_	FIN;IND;V;PRS	_	_	_	_
+5	eg	eg	_	_	NOM;SG;PRO;HUM;1	_	_	_	_
+6	vore	vere	_	_	V.PTCP;V	_	_	_	_
+7	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000536
+# text = mm .
+1	mm	mm	_	_	INTJ	_	_	_	_
+2	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000211
+# text = han var med i sju år .
+1	han	han	_	_	MASC;SG;PRO;3;NOM	_	_	_	_
+2	var	vere	_	_	IND;PST;V;FIN	_	_	_	_
+3	med	med	_	_	ADP	_	_	_	_
+4	i	i	_	_	ADP	_	_	_	_
+5	sju	sju	_	_	PL;NUM	_	_	_	_
+6	år	år	_	_	INDF;N;PL;NEUT	_	_	_	_
+7	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000165
+# text = veldig mykje greier # og ein fæl trafikk .
+1	veldig	veldig	_	_	SG;INDF;ADJ;NEUT	_	_	_	_
+2	mykje	mykje	_	_	PL;ADJ	_	_	_	_
+3	greier	greie	_	_	INDF;N;PL;FEM	_	_	_	_
+4	#	#	_	_	_	_	_	_	_
+5	og	og	_	_	CONJ	_	_	_	_
+6	ein	ein	_	_	MASC;SG;DET	_	_	_	_
+7	fæl	fæl	_	_	INDF;SG;ADJ	_	_	_	_
+8	trafikk	trafikk	_	_	INDF;N;MASC;SG	_	_	_	_
+9	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  001055
+# text = ja frå var vi ## barn ja .
+1	ja	ja	_	_	INTJ	_	_	_	_
+2	frå	frå	_	_	ADP	_	_	_	_
+3	var	vere	_	_	IND;PST;V;FIN	_	_	_	_
+4	vi	vi	_	_	PRO;1;NOM;HUM;PL	_	_	_	_
+5	##	##	_	_	_	_	_	_	_
+6	barn	barn	_	_	INDF;N;PL;NEUT	_	_	_	_
+7	ja	ja	_	_	INTJ	_	_	_	_
+8	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000820
+# text = ja da berre prat i veg du .
+1	ja	ja	_	_	INTJ	_	_	_	_
+2	da	da	_	_	ADV	_	_	_	_
+3	berre	berre	_	_	ADV	_	_	_	_
+4	prat	prate	_	_	IMP;V;FIN	_	_	_	_
+5	i	i	_	_	CONJ	_	_	_	_
+6	veg	vege	_	_	IND;PRS;V;FIN	_	_	_	_
+7	du	du	_	_	SG;2;PRO;NOM;HUM	_	_	_	_
+8	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000582
+# text = seksogtretti veit eg # jau eg var nå gjerne før kanskje lite grann .
+1	seksogtretti	seksogtretti	_	_	PL;NUM	_	_	_	_
+2	veit	vite	_	_	IND;PRS;V;FIN	_	_	_	_
+3	eg	eg	_	_	SG;PRO;1;NOM;HUM	_	_	_	_
+4	#	#	_	_	_	_	_	_	_
+5	jau	jau	_	_	INTJ	_	_	_	_
+6	eg	eg	_	_	SG;PRO;1;NOM;HUM	_	_	_	_
+7	var	vere	_	_	IND;PST;V;FIN	_	_	_	_
+8	nå	nå	_	_	ADV	_	_	_	_
+9	gjerne	gjerne	_	_	ADV	_	_	_	_
+10	før	før	_	_	ADP	_	_	_	_
+11	kanskje	kanskje	_	_	ADV	_	_	_	_
+12	lite	liten	_	_	SG;INDF;ADJ;NEUT	_	_	_	_
+13	grann	grann	_	_	INDF;N;SG;NEUT	_	_	_	_
+14	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000640
+# text = seks sju tusen kasser .
+1	seks	seks	_	_	PL;NUM	_	_	_	_
+2	sju	sju	_	_	PL;NUM	_	_	_	_
+3	tusen	tusen	_	_	PL;NUM	_	_	_	_
+4	kasser	kasse	_	_	INDF;N;PL;FEM	_	_	_	_
+5	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000806
+# text = da låg eg # isjias fekk eg streng isjias var verste sort .
+1	da	da	_	_	ADV	_	_	_	_
+2	låg	ligge	_	_	IND;PST;V;FIN	_	_	_	_
+3	eg	eg	_	_	SG;PRO;1;NOM;HUM	_	_	_	_
+4	#	#	_	_	_	_	_	_	_
+5	isjias	isjias	_	_	INDF;N;MASC;SG	_	_	_	_
+6	fekk	få	_	_	IND;PST;V;FIN	_	_	_	_
+7	eg	eg	_	_	SG;PRO;1;NOM;HUM	_	_	_	_
+8	streng	streng	_	_	INDF;SG;ADJ	_	_	_	_
+9	isjias	isjias	_	_	INDF;N;MASC;SG	_	_	_	_
+10	var	vere	_	_	IND;PST;V;FIN	_	_	_	_
+11	verste	verre	_	_	RL;ADJ;DEF	_	_	_	_
+12	sort	sort	_	_	INDF;N;MASC;SG	_	_	_	_
+13	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000439
+# text = å ja # .
+1	å	å	_	_	INTJ	_	_	_	_
+2	ja	ja	_	_	INTJ	_	_	_	_
+3	#	#	_	_	_	_	_	_	_
+4	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000113
+# text = det var fire øre hugsar eg var .
+1	det	det	_	_	SG;PRO;3;NEUT	_	_	_	_
+2	var	vere	_	_	IND;PST;V;FIN	_	_	_	_
+3	fire	fire	_	_	PL;NUM	_	_	_	_
+4	øre	øre	_	_	INDF;N;PL;NEUT	_	_	_	_
+5	hugsar	hugse	_	_	IND;PRS;V;FIN	_	_	_	_
+6	eg	eg	_	_	SG;PRO;1;NOM;HUM	_	_	_	_
+7	var	vere	_	_	IND;PST;V;FIN	_	_	_	_
+8	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000345
+# text = jaså .
+1	jaså	jaså	_	_	ADV	_	_	_	_
+2	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000993
+# text = så da var det her resten av … ?
+1	så	så	_	_	CONJ	_	_	_	_
+2	da	da	_	_	ADV	_	_	_	_
+3	var	vere	_	_	IND;PST;V;FIN	_	_	_	_
+4	det	det	_	_	SG;PRO;3;NEUT	_	_	_	_
+5	her	her	_	_	ADV	_	_	_	_
+6	resten	rest	_	_	N;MASC;SG;DEF	_	_	_	_
+7	av	av	_	_	ADP	_	_	_	_
+8	…	…	_	_	_	_	_	_	_
+9	?	$?	_	_	_	_	_	_	_
+
+# sent_id =  000036
+# text = på # venstre hand .
+1	på	på	_	_	ADP	_	_	_	_
+2	#	#	_	_	_	_	_	_	_
+3	venstre	venstre	_	_	INDF;SG;ADJ	_	_	_	_
+4	hand	hand	_	_	INDF;N;SG;FEM	_	_	_	_
+5	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000150
+# text = men så ha- var eg # kjente eg ein kall i heimefronten .
+1	men	men	_	_	CONJ	_	_	_	_
+2	så	så	_	_	ADV	_	_	_	_
+3	ha-	ha-	_	_	_	_	_	_	_
+4	var	vere	_	_	IND;PST;V;FIN	_	_	_	_
+5	eg	eg	_	_	SG;PRO;1;NOM;HUM	_	_	_	_
+6	#	#	_	_	_	_	_	_	_
+7	kjente	kjenne	_	_	IND;PST;V;FIN	_	_	_	_
+8	eg	eg	_	_	SG;PRO;1;NOM;HUM	_	_	_	_
+9	ein	ein	_	_	MASC;SG;DET	_	_	_	_
+10	kall	kall	_	_	INDF;N;MASC;SG	_	_	_	_
+11	i	i	_	_	ADP	_	_	_	_
+12	heimefronten	heimefront	_	_	N;MASC;SG;DEF	_	_	_	_
+13	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  001221
+# text = å så sa han det han likte seg betre på garden enn # enn han gjorde når han sat inni e på slottet sa han .
+1	å	å	_	_	INTJ	_	_	_	_
+2	så	så	_	_	ADV	_	_	_	_
+3	sa	seie	_	_	FIN;IND;V;PST	_	_	_	_
+4	han	han	_	_	NOM;SG;PRO;MASC;3	_	_	_	_
+5	det	det	_	_	NEUT;SG;PRO;3	_	_	_	_
+6	han	han	_	_	NOM;SG;PRO;MASC;3	_	_	_	_
+7	likte	like	_	_	FIN;IND;V;PST	_	_	_	_
+8	seg	seg	_	_	ACC;PRO;REFL	_	_	_	_
+9	betre	god	_	_	ADJ	_	_	_	_
+10	på	på	_	_	ADP	_	_	_	_
+11	garden	gard	_	_	SG;N;DEF;MASC	_	_	_	_
+12	enn	enn	_	_	CONJ	_	_	_	_
+13	#	#	_	_	_	_	_	_	_
+14	enn	enn	_	_	CONJ	_	_	_	_
+15	han	han	_	_	NOM;SG;PRO;MASC;3	_	_	_	_
+16	gjorde	gjere	_	_	FIN;IND;V;PST	_	_	_	_
+17	når	når	_	_	ADV	_	_	_	_
+18	han	han	_	_	NOM;SG;PRO;MASC;3	_	_	_	_
+19	sat	sitte	_	_	FIN;IND;V;PST	_	_	_	_
+20	inni	inni	_	_	ADP	_	_	_	_
+21	e	e	_	_	_	_	_	_	_
+22	på	på	_	_	ADP	_	_	_	_
+23	slottet	slott	_	_	SG;N;DEF;NEUT	_	_	_	_
+24	sa	seie	_	_	FIN;IND;V;PST	_	_	_	_
+25	han	han	_	_	NOM;SG;PRO;MASC;3	_	_	_	_
+26	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000324
+# text = ja .
+1	ja	ja	_	_	INTJ	_	_	_	_
+2	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000528
+# text = så dreiv de gardsbruk òg ?
+1	så	så	_	_	ADV	_	_	_	_
+2	dreiv	drive	_	_	IND;PST;V;FIN	_	_	_	_
+3	de	de	_	_	2;PRO;NOM;HUM;PL	_	_	_	_
+4	gardsbruk	gardsbruk	_	_	INDF;N;SG;NEUT	_	_	_	_
+5	òg	òg	_	_	ADV	_	_	_	_
+6	?	$?	_	_	_	_	_	_	_
+
+# sent_id =  001360
+# text = det er jo merkeleg når dei har sendar og alt # ja .
+1	det	det	_	_	NEUT;SG;PRO;3	_	_	_	_
+2	er	vere	_	_	FIN;IND;V;PRS	_	_	_	_
+3	jo	jo	_	_	ADV	_	_	_	_
+4	merkeleg	merkeleg	_	_	NEUT;ADJ;INDF;SG	_	_	_	_
+5	når	når	_	_	CONJ	_	_	_	_
+6	dei	dei	_	_	NOM;PL;PRO;HUM;3	_	_	_	_
+7	har	ha	_	_	FIN;IND;V;PRS	_	_	_	_
+8	sendar	sendar	_	_	SG;N;MASC;INDF	_	_	_	_
+9	og	og	_	_	CONJ	_	_	_	_
+10	alt	all	_	_	SG;NEUT;DET	_	_	_	_
+11	#	#	_	_	_	_	_	_	_
+12	ja	ja	_	_	INTJ	_	_	_	_
+13	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000403
+# text = var det kraftig motor ?
+1	var	vere	_	_	IND;PST;V;FIN	_	_	_	_
+2	det	det	_	_	SG;PRO;3;NEUT	_	_	_	_
+3	kraftig	kraftig	_	_	INDF;SG;ADJ	_	_	_	_
+4	motor	motor	_	_	INDF;N;MASC;SG	_	_	_	_
+5	?	$?	_	_	_	_	_	_	_
+
+# sent_id =  001339
+# text = kor de tok det ?
+1	kor	kor	_	_	ADV	_	_	_	_
+2	de	de	_	_	NOM;2;PRO;HUM;PL	_	_	_	_
+3	tok	ta	_	_	FIN;IND;V;PST	_	_	_	_
+4	det	det	_	_	NEUT;SG;PRO;3	_	_	_	_
+5	?	$?	_	_	_	_	_	_	_
+
+# sent_id =  000484
+# text = jaså .
+1	jaså	jaså	_	_	ADV	_	_	_	_
+2	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  001104
+# text = det va- # var stadig stadig stadig .
+1	det	det	_	_	NEUT;SG;PRO;3	_	_	_	_
+2	va-	va-	_	_	_	_	_	_	_
+3	#	#	_	_	_	_	_	_	_
+4	var	vere	_	_	FIN;IND;V;PST	_	_	_	_
+5	stadig	stadig	_	_	NEUT;ADJ;INDF;SG	_	_	_	_
+6	stadig	stadig	_	_	NEUT;ADJ;INDF;SG	_	_	_	_
+7	stadig	stadig	_	_	NEUT;ADJ;INDF;SG	_	_	_	_
+8	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000351
+# text = å ja .
+1	å	å	_	_	INTJ	_	_	_	_
+2	ja	ja	_	_	INTJ	_	_	_	_
+3	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000245
+# text = ja vel .
+1	ja	ja	_	_	INTJ	_	_	_	_
+2	vel	vel	_	_	ADV	_	_	_	_
+3	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000971
+# text = ja .
+1	ja	ja	_	_	INTJ	_	_	_	_
+2	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000102
+# text = eg kjøpte han ikkje opp # det var folk som sendte han med .
+1	eg	eg	_	_	SG;PRO;1;NOM;HUM	_	_	_	_
+2	kjøpte	kjøpe	_	_	IND;PST;V;FIN	_	_	_	_
+3	han	han	_	_	MASC;SG;PRO;3;ACC	_	_	_	_
+4	ikkje	ikkje	_	_	PART;NEG	_	_	_	_
+5	opp	opp	_	_	ADP	_	_	_	_
+6	#	#	_	_	_	_	_	_	_
+7	det	det	_	_	SG;PRO;3;NEUT	_	_	_	_
+8	var	vere	_	_	IND;PST;V;FIN	_	_	_	_
+9	folk	folk	_	_	INDF;N;PL;NEUT	_	_	_	_
+10	som	som	_	_	PRO	_	_	_	_
+11	sendte	sende	_	_	IND;PST;V;FIN	_	_	_	_
+12	han	han	_	_	MASC;SG;PRO;3;ACC	_	_	_	_
+13	med	med	_	_	ADP	_	_	_	_
+14	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000681
+# text = nesten så nokre skøyter .
+1	nesten	nesten	_	_	ADV	_	_	_	_
+2	så	så	_	_	ADV	_	_	_	_
+3	nokre	nokon	_	_	PL;DET	_	_	_	_
+4	skøyter	skøyte	_	_	INDF;N;PL;FEM	_	_	_	_
+5	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000607
+# text = ja gyseleg .
+1	ja	ja	_	_	INTJ	_	_	_	_
+2	gyseleg	gyseleg	_	_	SG;INDF;ADJ;NEUT	_	_	_	_
+3	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  001353
+# text = og fleire båtar var i lag på sjøen # ikkje ## omkom sporlaust dei har funne fått to utav mennene som rodde med han har nå trålarane fått opp e i trålen .
+1	og	og	_	_	CONJ	_	_	_	_
+2	fleire	mange	_	_	ADJ	_	_	_	_
+3	båtar	båt	_	_	N;MASC;PL;INDF	_	_	_	_
+4	var	vere	_	_	FIN;IND;V;PST	_	_	_	_
+5	i	i	_	_	ADP	_	_	_	_
+6	lag	lag	_	_	SG;N;NEUT;INDF	_	_	_	_
+7	på	på	_	_	ADP	_	_	_	_
+8	sjøen	sjø	_	_	SG;N;DEF;MASC	_	_	_	_
+9	#	#	_	_	_	_	_	_	_
+10	ikkje	ikkje	_	_	PART;NEG	_	_	_	_
+11	##	##	_	_	_	_	_	_	_
+12	omkom	omkomme	_	_	FIN;IND;V;PST	_	_	_	_
+13	sporlaust	sporlaus	_	_	NEUT;ADJ;INDF;SG	_	_	_	_
+14	dei	dei	_	_	NOM;PL;PRO;HUM;3	_	_	_	_
+15	har	ha	_	_	FIN;IND;V;PRS	_	_	_	_
+16	funne	finne	_	_	V.PTCP;V	_	_	_	_
+17	fått	få	_	_	V.PTCP;V	_	_	_	_
+18	to	to	_	_	PL;NUM	_	_	_	_
+19	utav	utav	_	_	ADP	_	_	_	_
+20	mennene	mann	_	_	N;DEF;MASC;PL	_	_	_	_
+21	som	som	_	_	PRO	_	_	_	_
+22	rodde	ro	_	_	FIN;IND;V;PST	_	_	_	_
+23	med	med	_	_	ADP	_	_	_	_
+24	han	han	_	_	NOM;SG;PRO;MASC;3	_	_	_	_
+25	har	ha	_	_	FIN;IND;V;PRS	_	_	_	_
+26	nå	nå	_	_	ADV	_	_	_	_
+27	trålarane	trålar	_	_	N;DEF;MASC;PL	_	_	_	_
+28	fått	få	_	_	V.PTCP;V	_	_	_	_
+29	opp	opp	_	_	ADP	_	_	_	_
+30	e	e	_	_	_	_	_	_	_
+31	i	i	_	_	ADP	_	_	_	_
+32	trålen	trål	_	_	SG;N;DEF;MASC	_	_	_	_
+33	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  001167
+# text = hadde vi med alle varene der # om vi køyrde med oss heim ifrå byen .
+1	hadde	ha	_	_	FIN;IND;V;PST	_	_	_	_
+2	vi	vi	_	_	NOM;PRO;HUM;1;PL	_	_	_	_
+3	med	med	_	_	ADP	_	_	_	_
+4	alle	all	_	_	PL;DET	_	_	_	_
+5	varene	vare	_	_	N;DEF;PL;FEM	_	_	_	_
+6	der	der	_	_	ADV	_	_	_	_
+7	#	#	_	_	_	_	_	_	_
+8	om	om	_	_	CONJ	_	_	_	_
+9	vi	vi	_	_	NOM;PRO;HUM;1;PL	_	_	_	_
+10	køyrde	køyre	_	_	FIN;IND;V;PST	_	_	_	_
+11	med	med	_	_	ADP	_	_	_	_
+12	oss	vi	_	_	ACC;PRO;HUM;1;PL	_	_	_	_
+13	heim	heim	_	_	ADP	_	_	_	_
+14	ifrå	ifrå	_	_	ADP	_	_	_	_
+15	byen	by	_	_	SG;N;DEF;MASC	_	_	_	_
+16	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000246
+# text = til kjøpmennene på Mysen han .
+1	til	til	_	_	ADP	_	_	_	_
+2	kjøpmennene	kjøpmann	_	_	N;MASC;PL;DEF	_	_	_	_
+3	på	på	_	_	ADP	_	_	_	_
+4	Mysen	Mysen	_	_	PROPN	_	_	_	_
+5	han	han	_	_	MASC;SG;PRO;3;NOM	_	_	_	_
+6	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000568
+# text = ja .
+1	ja	ja	_	_	INTJ	_	_	_	_
+2	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000794
+# text = ja # det var det .
+1	ja	ja	_	_	INTJ	_	_	_	_
+2	#	#	_	_	_	_	_	_	_
+3	det	det	_	_	SG;PRO;3;NEUT	_	_	_	_
+4	var	vere	_	_	IND;PST;V;FIN	_	_	_	_
+5	det	det	_	_	SG;PRO;3;NEUT	_	_	_	_
+6	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000917
+# text = for eksempel ## elleve .
+1	for	for	_	_	ADP	_	_	_	_
+2	eksempel	eksempel	_	_	INDF;N;PL;NEUT	_	_	_	_
+3	##	##	_	_	_	_	_	_	_
+4	elleve	elleve	_	_	PL;NUM	_	_	_	_
+5	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000776
+# text = det som kallast for banken altså # tre timar frå Vardø og der omkring men så var vi så langt ut at det var ein e fem seks sju timar .
+1	det	det	_	_	SG;PRO;3;NEUT	_	_	_	_
+2	som	som	_	_	PRO	_	_	_	_
+3	kallast	kalle	_	_	NFIN;PASS;V	_	_	_	_
+4	for	for	_	_	ADP	_	_	_	_
+5	banken	bank	_	_	N;MASC;SG;DEF	_	_	_	_
+6	altså	altså	_	_	ADV	_	_	_	_
+7	#	#	_	_	_	_	_	_	_
+8	tre	tre	_	_	PL;NUM	_	_	_	_
+9	timar	time	_	_	INDF;N;MASC;PL	_	_	_	_
+10	frå	frå	_	_	ADP	_	_	_	_
+11	Vardø	Vardø	_	_	PROPN	_	_	_	_
+12	og	og	_	_	CONJ	_	_	_	_
+13	der	der	_	_	ADV	_	_	_	_
+14	omkring	omkring	_	_	ADP	_	_	_	_
+15	men	men	_	_	CONJ	_	_	_	_
+16	så	så	_	_	ADV	_	_	_	_
+17	var	vere	_	_	IND;PST;V;FIN	_	_	_	_
+18	vi	vi	_	_	PRO;1;NOM;HUM;PL	_	_	_	_
+19	så	så	_	_	ADV	_	_	_	_
+20	langt	lang	_	_	SG;INDF;ADJ;NEUT	_	_	_	_
+21	ut	ut	_	_	ADP	_	_	_	_
+22	at	at	_	_	CONJ	_	_	_	_
+23	det	det	_	_	SG;PRO;3;NEUT	_	_	_	_
+24	var	vere	_	_	IND;PST;V;FIN	_	_	_	_
+25	ein	ein	_	_	MASC;SG;DET	_	_	_	_
+26	e	e	_	_	_	_	_	_	_
+27	fem	fem	_	_	PL;NUM	_	_	_	_
+28	seks	seks	_	_	PL;NUM	_	_	_	_
+29	sju	sju	_	_	PL;NUM	_	_	_	_
+30	timar	time	_	_	INDF;N;MASC;PL	_	_	_	_
+31	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  001001
+# text = .
+1	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000372
+# text = ja måtte gjere han rein med sot og skrapa han ordentleg rein .
+1	ja	ja	_	_	INTJ	_	_	_	_
+2	måtte	måtte	_	_	IND;PST;V;FIN	_	_	_	_
+3	gjere	gjere	_	_	NFIN;V	_	_	_	_
+4	han	han	_	_	MASC;SG;PRO;3;ACC	_	_	_	_
+5	rein	rein	_	_	INDF;SG;ADJ	_	_	_	_
+6	med	med	_	_	ADP	_	_	_	_
+7	sot	sot	_	_	INDF;N;PL;NEUT	_	_	_	_
+8	og	og	_	_	CONJ	_	_	_	_
+9	skrapa	skrape	_	_	IND;PST;V;FIN	_	_	_	_
+10	han	han	_	_	MASC;SG;PRO;3;NOM	_	_	_	_
+11	ordentleg	ordentleg	_	_	SG;INDF;ADJ;NEUT	_	_	_	_
+12	rein	rein	_	_	INDF;SG;ADJ	_	_	_	_
+13	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  001386
+# text = og mykje fisk var det på lina hans og så vi # vi sette nå ned vår slo nå staur på lina vår og sette ned og så drog vi hans line var vel ein # par tusen liner # og bra med fisk var det .
+1	og	og	_	_	CONJ	_	_	_	_
+2	mykje	mykje	_	_	ADJ;SG;INDF	_	_	_	_
+3	fisk	fisk	_	_	SG;N;MASC;INDF	_	_	_	_
+4	var	vere	_	_	FIN;IND;V;PST	_	_	_	_
+5	det	det	_	_	NEUT;SG;PRO;3	_	_	_	_
+6	på	på	_	_	ADP	_	_	_	_
+7	lina	line	_	_	SG;N;DEF;FEM	_	_	_	_
+8	hans	hans	_	_	FEM;SG;PRO	_	_	_	_
+9	og	og	_	_	CONJ	_	_	_	_
+10	så	så	_	_	ADV	_	_	_	_
+11	vi	vi	_	_	NOM;PRO;HUM;1;PL	_	_	_	_
+12	#	#	_	_	_	_	_	_	_
+13	vi	vi	_	_	NOM;PRO;HUM;1;PL	_	_	_	_
+14	sette	sette	_	_	FIN;IND;V;PST	_	_	_	_
+15	nå	nå	_	_	ADV	_	_	_	_
+16	ned	ned	_	_	ADP	_	_	_	_
+17	vår	vår	_	_	FEM;SG;PRO	_	_	_	_
+18	slo	slå	_	_	FIN;IND;V;PST	_	_	_	_
+19	nå	nå	_	_	ADV	_	_	_	_
+20	staur	staur	_	_	SG;N;MASC;INDF	_	_	_	_
+21	på	på	_	_	ADP	_	_	_	_
+22	lina	line	_	_	SG;N;DEF;FEM	_	_	_	_
+23	vår	vår	_	_	FEM;SG;PRO	_	_	_	_
+24	og	og	_	_	CONJ	_	_	_	_
+25	sette	sette	_	_	FIN;IND;V;PST	_	_	_	_
+26	ned	ned	_	_	ADP	_	_	_	_
+27	og	og	_	_	CONJ	_	_	_	_
+28	så	så	_	_	ADV	_	_	_	_
+29	drog	dra	_	_	FIN;IND;V;PST	_	_	_	_
+30	vi	vi	_	_	NOM;PRO;HUM;1;PL	_	_	_	_
+31	hans	hans	_	_	FEM;SG;PRO	_	_	_	_
+32	line	line	_	_	SG;N;INDF;FEM	_	_	_	_
+33	var	vere	_	_	FIN;IND;V;PST	_	_	_	_
+34	vel	vel	_	_	ADV	_	_	_	_
+35	ein	ein	_	_	SG;MASC;DET	_	_	_	_
+36	#	#	_	_	_	_	_	_	_
+37	par	par	_	_	SG;N;NEUT;INDF	_	_	_	_
+38	tusen	tusen	_	_	PL;NUM	_	_	_	_
+39	liner	line	_	_	N;PL;INDF;FEM	_	_	_	_
+40	#	#	_	_	_	_	_	_	_
+41	og	og	_	_	CONJ	_	_	_	_
+42	bra	bra	_	_	NEUT;ADJ;INDF;SG	_	_	_	_
+43	med	med	_	_	ADP	_	_	_	_
+44	fisk	fisk	_	_	SG;N;MASC;INDF	_	_	_	_
+45	var	vere	_	_	FIN;IND;V;PST	_	_	_	_
+46	det	det	_	_	NEUT;SG;PRO;3	_	_	_	_
+47	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000772
+# text = femten år .
+1	femten	femten	_	_	PL;NUM	_	_	_	_
+2	år	år	_	_	INDF;N;PL;NEUT	_	_	_	_
+3	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000051
+# text = hm ?
+1	hm	hm	_	_	INTJ	_	_	_	_
+2	?	$?	_	_	_	_	_	_	_
+
+# sent_id =  000701
+# text = den tid som eg reiste .
+1	den	den	_	_	SG;DET;FEM	_	_	_	_
+2	tid	tid	_	_	INDF;N;SG;FEM	_	_	_	_
+3	som	som	_	_	PRO	_	_	_	_
+4	eg	eg	_	_	SG;PRO;1;NOM;HUM	_	_	_	_
+5	reiste	reise	_	_	IND;PST;V;FIN	_	_	_	_
+6	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000104
+# text = og så selde eg han for dei .
+1	og	og	_	_	CONJ	_	_	_	_
+2	så	så	_	_	ADV	_	_	_	_
+3	selde	selje	_	_	IND;PST;V;FIN	_	_	_	_
+4	eg	eg	_	_	SG;PRO;1;NOM;HUM	_	_	_	_
+5	han	han	_	_	MASC;SG;PRO;3;ACC	_	_	_	_
+6	for	for	_	_	ADP	_	_	_	_
+7	dei	dei	_	_	PRO;3;HUM;ACC;PL	_	_	_	_
+8	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000155
+# text = var det norske som kontrollerte eller var det tyske ?
+1	var	vere	_	_	IND;PST;V;FIN	_	_	_	_
+2	det	det	_	_	SG;PRO;3;NEUT	_	_	_	_
+3	norske	norsk	_	_	PL;ADJ	_	_	_	_
+4	som	som	_	_	PRO	_	_	_	_
+5	kontrollerte	kontrollere	_	_	IND;PST;V;FIN	_	_	_	_
+6	eller	eller	_	_	CONJ	_	_	_	_
+7	var	vere	_	_	IND;PST;V;FIN	_	_	_	_
+8	det	det	_	_	SG;PRO;3;NEUT	_	_	_	_
+9	tyske	tysk	_	_	PL;ADJ	_	_	_	_
+10	?	$?	_	_	_	_	_	_	_
+
+# sent_id =  000334
+# text = å stod på hallen var der i gjerne sånn ved femtida om morgonen og så stod der da til eg fekk lest av .
+1	å	å	_	_	INTJ	_	_	_	_
+2	stod	stå	_	_	IND;PST;V;FIN	_	_	_	_
+3	på	på	_	_	ADP	_	_	_	_
+4	hallen	hall	_	_	N;MASC;SG;DEF	_	_	_	_
+5	var	vere	_	_	IND;PST;V;FIN	_	_	_	_
+6	der	der	_	_	ADV	_	_	_	_
+7	i	i	_	_	ADP	_	_	_	_
+8	gjerne	gjerne	_	_	ADV	_	_	_	_
+9	sånn	sånn	_	_	ADV	_	_	_	_
+10	ved	ved	_	_	ADP	_	_	_	_
+11	femtida	femtid	_	_	N;SG;DEF;FEM	_	_	_	_
+12	om	om	_	_	ADP	_	_	_	_
+13	morgonen	morgon	_	_	N;MASC;SG;DEF	_	_	_	_
+14	og	og	_	_	CONJ	_	_	_	_
+15	så	så	_	_	ADV	_	_	_	_
+16	stod	stå	_	_	IND;PST;V;FIN	_	_	_	_
+17	der	der	_	_	ADV	_	_	_	_
+18	da	da	_	_	ADV	_	_	_	_
+19	til	til	_	_	CONJ	_	_	_	_
+20	eg	eg	_	_	SG;PRO;1;NOM;HUM	_	_	_	_
+21	fekk	få	_	_	IND;PST;V;FIN	_	_	_	_
+22	lest	lesse	_	_	V.PTCP;V	_	_	_	_
+23	av	av	_	_	ADP	_	_	_	_
+24	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000125
+# text = .
+1	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  001000
+# text = jaha ## ja vel .
+1	jaha	jaha	_	_	INTJ	_	_	_	_
+2	##	##	_	_	_	_	_	_	_
+3	ja	ja	_	_	INTJ	_	_	_	_
+4	vel	vel	_	_	ADV	_	_	_	_
+5	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000661
+# text = det var e to doryar og så hadde du .
+1	det	det	_	_	SG;PRO;3;NEUT	_	_	_	_
+2	var	vere	_	_	IND;PST;V;FIN	_	_	_	_
+3	e	e	_	_	_	_	_	_	_
+4	to	to	_	_	PL;NUM	_	_	_	_
+5	doryar	dory	_	_	INDF;N;MASC;PL	_	_	_	_
+6	og	og	_	_	CONJ	_	_	_	_
+7	så	så	_	_	ADV	_	_	_	_
+8	hadde	ha	_	_	IND;PST;V;FIN	_	_	_	_
+9	du	du	_	_	SG;2;PRO;NOM;HUM	_	_	_	_
+10	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000085
+# text = jaha .
+1	jaha	jaha	_	_	INTJ	_	_	_	_
+2	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000718
+# text = e ja # vi ## vi laut betale inn til kommunen .
+1	e	e	_	_	_	_	_	_	_
+2	ja	ja	_	_	INTJ	_	_	_	_
+3	#	#	_	_	_	_	_	_	_
+4	vi	vi	_	_	PRO;1;NOM;HUM;PL	_	_	_	_
+5	##	##	_	_	_	_	_	_	_
+6	vi	vi	_	_	PRO;1;NOM;HUM;PL	_	_	_	_
+7	laut	lyte	_	_	IND;PST;V;FIN	_	_	_	_
+8	betale	betale	_	_	NFIN;V	_	_	_	_
+9	inn	inn	_	_	ADP	_	_	_	_
+10	til	til	_	_	ADP	_	_	_	_
+11	kommunen	kommune	_	_	N;MASC;SG;DEF	_	_	_	_
+12	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  001350
+# text = mm .
+1	mm	mm	_	_	INTJ	_	_	_	_
+2	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  001090
+# text = men det var han far som dreiv garden da ja # han M12 ?
+1	men	men	_	_	CONJ	_	_	_	_
+2	det	det	_	_	NEUT;SG;PRO;3	_	_	_	_
+3	var	vere	_	_	FIN;IND;V;PST	_	_	_	_
+4	han	han	_	_	NOM;SG;PRO;MASC;3	_	_	_	_
+5	far	far	_	_	SG;N;MASC;INDF	_	_	_	_
+6	som	som	_	_	PRO	_	_	_	_
+7	dreiv	drive	_	_	FIN;IND;V;PST	_	_	_	_
+8	garden	gard	_	_	SG;N;DEF;MASC	_	_	_	_
+9	da	da	_	_	ADV	_	_	_	_
+10	ja	ja	_	_	INTJ	_	_	_	_
+11	#	#	_	_	_	_	_	_	_
+12	han	han	_	_	NOM;SG;PRO;MASC;3	_	_	_	_
+13	M12	M12	_	_	PROPN	_	_	_	_
+14	?	$?	_	_	_	_	_	_	_
+
+# sent_id =  000359
+# text = å da gjorde eg vendinga # byvendinga for tre kroner og femogtjue øre .
+1	å	å	_	_	INTJ	_	_	_	_
+2	da	da	_	_	ADV	_	_	_	_
+3	gjorde	gjere	_	_	IND;PST;V;FIN	_	_	_	_
+4	eg	eg	_	_	SG;PRO;1;NOM;HUM	_	_	_	_
+5	vendinga	vending	_	_	N;SG;DEF;FEM	_	_	_	_
+6	#	#	_	_	_	_	_	_	_
+7	byvendinga	byvending	_	_	N;SG;DEF;FEM	_	_	_	_
+8	for	for	_	_	ADP	_	_	_	_
+9	tre	tre	_	_	PL;NUM	_	_	_	_
+10	kroner	krone	_	_	INDF;N;PL;FEM	_	_	_	_
+11	og	og	_	_	CONJ	_	_	_	_
+12	femogtjue	femogtjue	_	_	PL;NUM	_	_	_	_
+13	øre	øre	_	_	INDF;N;PL;NEUT	_	_	_	_
+14	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000486
+# text = ja .
+1	ja	ja	_	_	INTJ	_	_	_	_
+2	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000153
+# text = gjekk eg klar eg .
+1	gjekk	gå	_	_	IND;PST;V;FIN	_	_	_	_
+2	eg	eg	_	_	SG;PRO;1;NOM;HUM	_	_	_	_
+3	klar	klar	_	_	INDF;SG;ADJ	_	_	_	_
+4	eg	eg	_	_	SG;PRO;1;NOM;HUM	_	_	_	_
+5	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  001036
+# text = jaha .
+1	jaha	jaha	_	_	INTJ	_	_	_	_
+2	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000956
+# text = ja # mm .
+1	ja	ja	_	_	INTJ	_	_	_	_
+2	#	#	_	_	_	_	_	_	_
+3	mm	mm	_	_	INTJ	_	_	_	_
+4	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000565
+# text = da var dei regjerte da .
+1	da	da	_	_	ADV	_	_	_	_
+2	var	vere	_	_	IND;PST;V;FIN	_	_	_	_
+3	dei	dei	_	_	PRO;3;NOM;HUM;PL	_	_	_	_
+4	regjerte	regjere	_	_	PL;ADJ	_	_	_	_
+5	da	da	_	_	ADV	_	_	_	_
+6	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  001237
+# text = e eg budde altså i øvste gata oppfor samvirkelaget som er nedi gata nå .
+1	e	e	_	_	_	_	_	_	_
+2	eg	eg	_	_	NOM;SG;PRO;HUM;1	_	_	_	_
+3	budde	bu	_	_	FIN;IND;V;PST	_	_	_	_
+4	altså	altså	_	_	ADV	_	_	_	_
+5	i	i	_	_	ADP	_	_	_	_
+6	øvste	øvre	_	_	ADJ;DEF;RL	_	_	_	_
+7	gata	gate	_	_	SG;N;DEF;FEM	_	_	_	_
+8	oppfor	oppfor	_	_	ADP	_	_	_	_
+9	samvirkelaget	samvirkelag	_	_	SG;N;DEF;NEUT	_	_	_	_
+10	som	som	_	_	PRO	_	_	_	_
+11	er	vere	_	_	FIN;IND;V;PRS	_	_	_	_
+12	nedi	nedi	_	_	ADP	_	_	_	_
+13	gata	gate	_	_	SG;N;DEF;FEM	_	_	_	_
+14	nå	nå	_	_	ADV	_	_	_	_
+15	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000696
+# text = for som oftast så ville dei ha deg med på Island om sommaren .
+1	for	for	_	_	CONJ	_	_	_	_
+2	som	som	_	_	ADP	_	_	_	_
+3	oftast	ofte	_	_	RL;ADJ	_	_	_	_
+4	så	så	_	_	ADV	_	_	_	_
+5	ville	vilje	_	_	IND;PST;V;FIN	_	_	_	_
+6	dei	dei	_	_	PRO;3;NOM;HUM;PL	_	_	_	_
+7	ha	ha	_	_	NFIN;V	_	_	_	_
+8	deg	du	_	_	SG;2;PRO;HUM;ACC	_	_	_	_
+9	med	med	_	_	ADP	_	_	_	_
+10	på	på	_	_	ADP	_	_	_	_
+11	Island	Island	_	_	PROPN	_	_	_	_
+12	om	om	_	_	ADP	_	_	_	_
+13	sommaren	sommar	_	_	N;MASC;SG;DEF	_	_	_	_
+14	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  001260
+# text = ja vel .
+1	ja	ja	_	_	INTJ	_	_	_	_
+2	vel	vel	_	_	ADV	_	_	_	_
+3	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  001329
+# text = mm .
+1	mm	mm	_	_	INTJ	_	_	_	_
+2	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000617
+# text = hadde de spel på den e ?
+1	hadde	ha	_	_	IND;PST;V;FIN	_	_	_	_
+2	de	de	_	_	2;PRO;NOM;HUM;PL	_	_	_	_
+3	spel	spel	_	_	INDF;N;SG;NEUT	_	_	_	_
+4	på	på	_	_	ADP	_	_	_	_
+5	den	den	_	_	SG;PRO;3;ACC	_	_	_	_
+6	e	e	_	_	_	_	_	_	_
+7	?	$?	_	_	_	_	_	_	_
+
+# sent_id =  000981
+# text = og e vel kanskje det at # det var ein del som evakuerte og deriblant evakuerte vi til Kongsfjord .
+1	og	og	_	_	CONJ	_	_	_	_
+2	e	e	_	_	_	_	_	_	_
+3	vel	vel	_	_	ADV	_	_	_	_
+4	kanskje	kanskje	_	_	ADV	_	_	_	_
+5	det	det	_	_	SG;PRO;3;NEUT	_	_	_	_
+6	at	at	_	_	CONJ	_	_	_	_
+7	#	#	_	_	_	_	_	_	_
+8	det	det	_	_	SG;PRO;3;NEUT	_	_	_	_
+9	var	vere	_	_	IND;PST;V;FIN	_	_	_	_
+10	ein	ein	_	_	MASC;SG;DET	_	_	_	_
+11	del	del	_	_	INDF;N;MASC;SG	_	_	_	_
+12	som	som	_	_	PRO	_	_	_	_
+13	evakuerte	evakuere	_	_	IND;PST;V;FIN	_	_	_	_
+14	og	og	_	_	CONJ	_	_	_	_
+15	deriblant	deriblant	_	_	ADV	_	_	_	_
+16	evakuerte	evakuere	_	_	IND;PST;V;FIN	_	_	_	_
+17	vi	vi	_	_	PRO;1;NOM;HUM;PL	_	_	_	_
+18	til	til	_	_	ADP	_	_	_	_
+19	Kongsfjord	Kongsfjord	_	_	PROPN	_	_	_	_
+20	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  001363
+# text = m .
+1	m	m	_	_	INTJ	_	_	_	_
+2	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  001195
+# text = ifrå Rikshospitalet og dit # å tilbake igjen .
+1	ifrå	ifrå	_	_	ADP	_	_	_	_
+2	Rikshospitalet	Rikshospitalet	_	_	PROPN	_	_	_	_
+3	og	og	_	_	CONJ	_	_	_	_
+4	dit	dit	_	_	ADV	_	_	_	_
+5	#	#	_	_	_	_	_	_	_
+6	å	_	_	_	_	_	_	_	_
+7	tilbake	tilbake	_	_	ADP	_	_	_	_
+8	igjen	igjen	_	_	ADV	_	_	_	_
+9	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000525
+# text = ja # men elles em var det mest om vinteren ein dreiv fiske ?
+1	ja	ja	_	_	INTJ	_	_	_	_
+2	#	#	_	_	_	_	_	_	_
+3	men	men	_	_	CONJ	_	_	_	_
+4	elles	elles	_	_	ADV	_	_	_	_
+5	em	em	_	_	_	_	_	_	_
+6	var	vere	_	_	IND;PST;V;FIN	_	_	_	_
+7	det	det	_	_	SG;PRO;3;NEUT	_	_	_	_
+8	mest	mykje	_	_	INDF;ADJ;RL	_	_	_	_
+9	om	om	_	_	ADP	_	_	_	_
+10	vinteren	vinter	_	_	N;MASC;SG;DEF	_	_	_	_
+11	ein	ein	_	_	SG;PRO;NOM;HUM	_	_	_	_
+12	dreiv	drive	_	_	IND;PST;V;FIN	_	_	_	_
+13	fiske	fiske	_	_	INDF;N;PL;NEUT	_	_	_	_
+14	?	$?	_	_	_	_	_	_	_
+
+# sent_id =  000648
+# text = ja det vart ein heilt annan måte # da rodde du òg nota ut til begynne med .
+1	ja	ja	_	_	INTJ	_	_	_	_
+2	det	det	_	_	SG;PRO;3;NEUT	_	_	_	_
+3	vart	bli	_	_	IND;PST;V;FIN	_	_	_	_
+4	ein	ein	_	_	MASC;SG;DET	_	_	_	_
+5	heilt	heil	_	_	SG;INDF;ADJ;NEUT	_	_	_	_
+6	annan	annan	_	_	MASC;SG;DET;INDF	_	_	_	_
+7	måte	måte	_	_	INDF;N;MASC;SG	_	_	_	_
+8	#	#	_	_	_	_	_	_	_
+9	da	da	_	_	ADV	_	_	_	_
+10	rodde	ro	_	_	IND;PST;V;FIN	_	_	_	_
+11	du	du	_	_	SG;2;PRO;NOM;HUM	_	_	_	_
+12	òg	òg	_	_	ADV	_	_	_	_
+13	nota	not	_	_	N;SG;DEF;FEM	_	_	_	_
+14	ut	ut	_	_	CONJ	_	_	_	_
+15	til	til	_	_	CONJ	_	_	_	_
+16	begynne	begynne	_	_	NFIN;V	_	_	_	_
+17	med	med	_	_	ADP	_	_	_	_
+18	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000138
+# text = for å komme forbi den kontrollen .
+1	for	for	_	_	ADP	_	_	_	_
+2	å	å	_	_	PART	_	_	_	_
+3	komme	komme	_	_	NFIN;V	_	_	_	_
+4	forbi	forbi	_	_	ADP	_	_	_	_
+5	den	den	_	_	MASC;SG;DET	_	_	_	_
+6	kontrollen	kontroll	_	_	N;MASC;SG;DEF	_	_	_	_
+7	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  001116
+# text = ja .
+1	ja	ja	_	_	INTJ	_	_	_	_
+2	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000691
+# text = og dei som e hadde gardsbruk som attåtnæring her .
+1	og	og	_	_	CONJ	_	_	_	_
+2	dei	dei	_	_	PRO;3;NOM;HUM;PL	_	_	_	_
+3	som	som	_	_	PRO	_	_	_	_
+4	e	e	_	_	_	_	_	_	_
+5	hadde	ha	_	_	IND;PST;V;FIN	_	_	_	_
+6	gardsbruk	gardsbruk	_	_	INDF;N;PL;NEUT	_	_	_	_
+7	som	som	_	_	ADP	_	_	_	_
+8	attåtnæring	attåtnæring	_	_	INDF;N;SG;FEM	_	_	_	_
+9	her	her	_	_	ADV	_	_	_	_
+10	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000770
+# text = ja ja all mi tid frå # frå i nittenhundreogfe- f- -atten ## s- ordinært fiske så # berre det ikkje noko anna .
+1	ja	ja	_	_	INTJ	_	_	_	_
+2	ja	ja	_	_	INTJ	_	_	_	_
+3	all	all	_	_	MASC;SG;DET	_	_	_	_
+4	mi	min	_	_	SG;PRO;FEM	_	_	_	_
+5	tid	tid	_	_	INDF;N;SG;FEM	_	_	_	_
+6	frå	frå	_	_	ADP	_	_	_	_
+7	#	#	_	_	_	_	_	_	_
+8	frå	frå	_	_	ADP	_	_	_	_
+9	i	i	_	_	ADP	_	_	_	_
+10	nittenhundreogfe-	nittenhundreogfe-	_	_	_	_	_	_	_
+11	f-	f-	_	_	_	_	_	_	_
+12	-atten	_	_	_	_	_	_	_	_
+13	##	##	_	_	_	_	_	_	_
+14	s-	s-	_	_	_	_	_	_	_
+15	ordinært	ordinær	_	_	SG;INDF;ADJ;NEUT	_	_	_	_
+16	fiske	fiske	_	_	INDF;N;SG;NEUT	_	_	_	_
+17	så	så	_	_	ADV	_	_	_	_
+18	#	#	_	_	_	_	_	_	_
+19	berre	berre	_	_	ADV	_	_	_	_
+20	det	det	_	_	SG;PRO;3;NEUT	_	_	_	_
+21	ikkje	ikkje	_	_	PART;NEG	_	_	_	_
+22	noko	nokon	_	_	NEUT;SG;DET	_	_	_	_
+23	anna	annan	_	_	SG;DET;INDF;NEUT	_	_	_	_
+24	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000875
+# text = det var vel ikkje andre moglegheiter ?
+1	det	det	_	_	SG;PRO;3;NEUT	_	_	_	_
+2	var	vere	_	_	IND;PST;V;FIN	_	_	_	_
+3	vel	vel	_	_	ADV	_	_	_	_
+4	ikkje	ikkje	_	_	PART;NEG	_	_	_	_
+5	andre	annen	_	_	PL;DET	_	_	_	_
+6	moglegheiter	moglegheit	_	_	INDF;N;PL;FEM	_	_	_	_
+7	?	$?	_	_	_	_	_	_	_
+
+# sent_id =  001014
+# text = mm .
+1	mm	mm	_	_	INTJ	_	_	_	_
+2	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000069
+# text = var tyskerane er p- # full heile vegen med tyskarar .
+1	var	vere	_	_	IND;PST;V;FIN	_	_	_	_
+2	tyskerane	tysker	_	_	N;MASC;PL;DEF	_	_	_	_
+3	er	vere	_	_	IND;PRS;V;FIN	_	_	_	_
+4	p-	p-	_	_	_	_	_	_	_
+5	#	#	_	_	_	_	_	_	_
+6	full	full	_	_	INDF;SG;ADJ	_	_	_	_
+7	heile	heil	_	_	SG;ADJ;DEF	_	_	_	_
+8	vegen	veg	_	_	N;MASC;SG;DEF	_	_	_	_
+9	med	med	_	_	ADP	_	_	_	_
+10	tyskarar	tyskar	_	_	INDF;N;MASC;PL	_	_	_	_
+11	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  001078
+# text = ja .
+1	ja	ja	_	_	INTJ	_	_	_	_
+2	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000703
+# text = ja .
+1	ja	ja	_	_	INTJ	_	_	_	_
+2	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000485
+# text = å vi køyrde # fast veit du for # for det var e dårlege krefter i desse her .
+1	å	å	_	_	INTJ	_	_	_	_
+2	vi	vi	_	_	PRO;1;NOM;HUM;PL	_	_	_	_
+3	køyrde	køyre	_	_	IND;PST;V;FIN	_	_	_	_
+4	#	#	_	_	_	_	_	_	_
+5	fast	fast	_	_	SG;INDF;ADJ;NEUT	_	_	_	_
+6	veit	vite	_	_	IND;PRS;V;FIN	_	_	_	_
+7	du	du	_	_	SG;2;PRO;NOM;HUM	_	_	_	_
+8	for	for	_	_	CONJ	_	_	_	_
+9	#	#	_	_	_	_	_	_	_
+10	for	for	_	_	CONJ	_	_	_	_
+11	det	det	_	_	SG;PRO;3;NEUT	_	_	_	_
+12	var	vere	_	_	IND;PST;V;FIN	_	_	_	_
+13	e	e	_	_	_	_	_	_	_
+14	dårlege	dårleg	_	_	PL;ADJ	_	_	_	_
+15	krefter	kraft	_	_	INDF;N;PL;FEM	_	_	_	_
+16	i	i	_	_	ADP	_	_	_	_
+17	desse	desse	_	_	PRO;3;ACC;PL	_	_	_	_
+18	her	her	_	_	ADV	_	_	_	_
+19	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000826
+# text = frå den hadde eg eigen båt .
+1	frå	frå	_	_	ADP	_	_	_	_
+2	den	den	_	_	SG;PRO;3;ACC	_	_	_	_
+3	hadde	ha	_	_	IND;PST;V;FIN	_	_	_	_
+4	eg	eg	_	_	SG;PRO;1;NOM;HUM	_	_	_	_
+5	eigen	eigen	_	_	MASC;SG;DET;INDF	_	_	_	_
+6	båt	båt	_	_	INDF;N;MASC;SG	_	_	_	_
+7	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  001233
+# text = ja .
+1	ja	ja	_	_	INTJ	_	_	_	_
+2	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  001334
+# text = det var nå i i sjuogførti da var vi ute ved hos han # mannen som eigde båten han bur her nedfor # M3 ja han er kjent namn over over heile Finnmark for og ikkje berre Finnmark men andre plassar også .
+1	det	det	_	_	NEUT;SG;PRO;3	_	_	_	_
+2	var	vere	_	_	FIN;IND;V;PST	_	_	_	_
+3	nå	nå	_	_	ADV	_	_	_	_
+4	i	i	_	_	ADP	_	_	_	_
+5	i	i	_	_	ADP	_	_	_	_
+6	sjuogførti	sjuogførti	_	_	PL;NUM	_	_	_	_
+7	da	da	_	_	ADV	_	_	_	_
+8	var	vere	_	_	FIN;IND;V;PST	_	_	_	_
+9	vi	vi	_	_	NOM;PRO;HUM;1;PL	_	_	_	_
+10	ute	ute	_	_	ADP	_	_	_	_
+11	ved	ved	_	_	ADP	_	_	_	_
+12	hos	hos	_	_	ADP	_	_	_	_
+13	han	han	_	_	SG;ACC;PRO;MASC;3	_	_	_	_
+14	#	#	_	_	_	_	_	_	_
+15	mannen	mann	_	_	SG;N;DEF;MASC	_	_	_	_
+16	som	som	_	_	PRO	_	_	_	_
+17	eigde	eige	_	_	FIN;IND;V;PST	_	_	_	_
+18	båten	båt	_	_	SG;N;DEF;MASC	_	_	_	_
+19	han	han	_	_	NOM;SG;PRO;MASC;3	_	_	_	_
+20	bur	bu	_	_	FIN;IND;V;PRS	_	_	_	_
+21	her	her	_	_	ADV	_	_	_	_
+22	nedfor	nedfor	_	_	ADV	_	_	_	_
+23	#	#	_	_	_	_	_	_	_
+24	M3	M3	_	_	PROPN	_	_	_	_
+25	ja	ja	_	_	INTJ	_	_	_	_
+26	han	han	_	_	NOM;SG;PRO;MASC;3	_	_	_	_
+27	er	vere	_	_	FIN;IND;V;PRS	_	_	_	_
+28	kjent	kjenne	_	_	SG;ADJ;NEUT;INDF	_	_	_	_
+29	namn	namn	_	_	SG;N;NEUT;INDF	_	_	_	_
+30	over	over	_	_	ADP	_	_	_	_
+31	over	over	_	_	ADP	_	_	_	_
+32	heile	heil	_	_	ADJ;PL	_	_	_	_
+33	Finnmark	Finnmark	_	_	PROPN	_	_	_	_
+34	for	for	_	_	ADP	_	_	_	_
+35	og	og	_	_	CONJ	_	_	_	_
+36	ikkje	ikkje	_	_	PART;NEG	_	_	_	_
+37	berre	berre	_	_	ADV	_	_	_	_
+38	Finnmark	Finnmark	_	_	PROPN	_	_	_	_
+39	men	men	_	_	CONJ	_	_	_	_
+40	andre	annan	_	_	PL;DET	_	_	_	_
+41	plassar	plass	_	_	N;MASC;PL;INDF	_	_	_	_
+42	også	også	_	_	ADV	_	_	_	_
+43	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  001094
+# text = nei .
+1	nei	nei	_	_	INTJ	_	_	_	_
+2	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000238
+# text = men så måtte eg # overta den au .
+1	men	men	_	_	CONJ	_	_	_	_
+2	så	så	_	_	ADV	_	_	_	_
+3	måtte	måtte	_	_	IND;PST;V;FIN	_	_	_	_
+4	eg	eg	_	_	SG;PRO;1;NOM;HUM	_	_	_	_
+5	#	#	_	_	_	_	_	_	_
+6	overta	overta	_	_	NFIN;V	_	_	_	_
+7	den	den	_	_	SG;PRO;3;ACC	_	_	_	_
+8	au	au	_	_	ADV	_	_	_	_
+9	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000792
+# text = mm # ja .
+1	mm	mm	_	_	INTJ	_	_	_	_
+2	#	#	_	_	_	_	_	_	_
+3	ja	ja	_	_	INTJ	_	_	_	_
+4	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  001171
+# text = å kvar # laurdag .
+1	å	å	_	_	INTJ	_	_	_	_
+2	kvar	kvar	_	_	SG;MASC;DET	_	_	_	_
+3	#	#	_	_	_	_	_	_	_
+4	laurdag	laurdag	_	_	SG;N;MASC;INDF	_	_	_	_
+5	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000658
+# text = jau .
+1	jau	jau	_	_	INTJ	_	_	_	_
+2	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  001157
+# text = ifrå meieriet ?
+1	ifrå	ifrå	_	_	ADP	_	_	_	_
+2	meieriet	meieri	_	_	SG;N;DEF;NEUT	_	_	_	_
+3	?	$?	_	_	_	_	_	_	_
+
+# sent_id =  001325
+# text = joda og # eg rodde # fiske eller vore med og fiska etter krigen også .
+1	joda	joda	_	_	INTJ	_	_	_	_
+2	og	og	_	_	CONJ	_	_	_	_
+3	#	#	_	_	_	_	_	_	_
+4	eg	eg	_	_	NOM;SG;PRO;HUM;1	_	_	_	_
+5	rodde	ro	_	_	FIN;IND;V;PST	_	_	_	_
+6	#	#	_	_	_	_	_	_	_
+7	fiske	fiske	_	_	SG;N;NEUT;INDF	_	_	_	_
+8	eller	eller	_	_	CONJ	_	_	_	_
+9	vore	vere	_	_	V.PTCP;V	_	_	_	_
+10	med	med	_	_	ADP	_	_	_	_
+11	og	og	_	_	CONJ	_	_	_	_
+12	fiska	fiske	_	_	FIN;IND;V;PST	_	_	_	_
+13	etter	etter	_	_	ADP	_	_	_	_
+14	krigen	krig	_	_	SG;N;DEF;MASC	_	_	_	_
+15	også	også	_	_	ADV	_	_	_	_
+16	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000881
+# text = fer dei ikkje til Lofoten og er med i … ?
+1	fer	fare	_	_	IND;PRS;V;FIN	_	_	_	_
+2	dei	dei	_	_	PRO;3;NOM;HUM;PL	_	_	_	_
+3	ikkje	ikkje	_	_	PART;NEG	_	_	_	_
+4	til	til	_	_	ADP	_	_	_	_
+5	Lofoten	Lofoten	_	_	PROPN	_	_	_	_
+6	og	og	_	_	ADV	_	_	_	_
+7	er	vere	_	_	IND;PRS;V;FIN	_	_	_	_
+8	med	med	_	_	ADP	_	_	_	_
+9	i	i	_	_	ADP	_	_	_	_
+10	…	…	_	_	_	_	_	_	_
+11	?	$?	_	_	_	_	_	_	_
+
+# sent_id =  001193
+# text = heiter Prestevillaen .
+1	heiter	heite	_	_	FIN;IND;V;PRS	_	_	_	_
+2	Prestevillaen	Prestevillaen	_	_	PROPN	_	_	_	_
+3	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  001105
+# text = .
+1	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  001028
+# text = har de nokre av barna dykkar her ?
+1	har	ha	_	_	IND;PRS;V;FIN	_	_	_	_
+2	de	de	_	_	2;PRO;NOM;HUM;PL	_	_	_	_
+3	nokre	nokre	_	_	PRO;3;ACC;PL	_	_	_	_
+4	av	av	_	_	ADP	_	_	_	_
+5	barna	barn	_	_	NEUT;N;PL;DEF	_	_	_	_
+6	dykkar	dykkar	_	_	PRO;PL	_	_	_	_
+7	her	her	_	_	ADV	_	_	_	_
+8	?	$?	_	_	_	_	_	_	_
+
+# sent_id =  000919
+# text = dei seier Harstad er e # ein gong du høyrt nokon seie « elleve » .
+1	dei	dei	_	_	PRO;3;NOM;HUM;PL	_	_	_	_
+2	seier	seie	_	_	IND;PRS;V;FIN	_	_	_	_
+3	Harstad	Harstad	_	_	PROPN	_	_	_	_
+4	er	vere	_	_	IND;PRS;V;FIN	_	_	_	_
+5	e	e	_	_	_	_	_	_	_
+6	#	#	_	_	_	_	_	_	_
+7	ein	ein	_	_	MASC;SG;DET	_	_	_	_
+8	gong	gong	_	_	INDF;N;MASC;SG	_	_	_	_
+9	du	du	_	_	SG;2;PRO;NOM;HUM	_	_	_	_
+10	høyrt	høyre	_	_	V.PTCP;V	_	_	_	_
+11	nokon	nokon	_	_	MASC;SG;PRO;3;ACC	_	_	_	_
+12	seie	seie	_	_	NFIN;V	_	_	_	_
+13	«	«	_	_	_	_	_	_	_
+14	elleve	elleve	_	_	PL;NUM	_	_	_	_
+15	»	»	_	_	_	_	_	_	_
+16	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000233
+# text = M6 .
+1	M6	M6	_	_	PROPN	_	_	_	_
+2	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000847
+# text = ja .
+1	ja	ja	_	_	INTJ	_	_	_	_
+2	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000159
+# text = dei var verre enn enn tyskarane .
+1	dei	dei	_	_	PRO;3;NOM;HUM;PL	_	_	_	_
+2	var	vere	_	_	IND;PST;V;FIN	_	_	_	_
+3	verre	verre	_	_	ADJ	_	_	_	_
+4	enn	enn	_	_	ADP	_	_	_	_
+5	enn	enn	_	_	ADP	_	_	_	_
+6	tyskarane	tyskar	_	_	N;MASC;PL;DEF	_	_	_	_
+7	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000807
+# text = mm .
+1	mm	mm	_	_	INTJ	_	_	_	_
+2	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000177
+# text = det er jo ikkje snakke om å kjenne seg igjen i byen nå i forhold til den tid .
+1	det	det	_	_	SG;PRO;3;NEUT	_	_	_	_
+2	er	vere	_	_	IND;PRS;V;FIN	_	_	_	_
+3	jo	jo	_	_	ADV	_	_	_	_
+4	ikkje	ikkje	_	_	PART;NEG	_	_	_	_
+5	snakke	snakke	_	_	NFIN;V	_	_	_	_
+6	om	om	_	_	CONJ	_	_	_	_
+7	å	å	_	_	PART	_	_	_	_
+8	kjenne	kjenne	_	_	NFIN;V	_	_	_	_
+9	seg	seg	_	_	PRO;ACC;REFL	_	_	_	_
+10	igjen	igjen	_	_	ADV	_	_	_	_
+11	i	i	_	_	ADP	_	_	_	_
+12	byen	by	_	_	N;MASC;SG;DEF	_	_	_	_
+13	nå	nå	_	_	ADV	_	_	_	_
+14	i	i	_	_	ADP	_	_	_	_
+15	forhold	forhold	_	_	INDF;N;PL;NEUT	_	_	_	_
+16	til	til	_	_	ADP	_	_	_	_
+17	den	den	_	_	SG;DET;FEM	_	_	_	_
+18	tid	tid	_	_	INDF;N;SG;FEM	_	_	_	_
+19	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000476
+# text = ja # .
+1	ja	ja	_	_	INTJ	_	_	_	_
+2	#	#	_	_	_	_	_	_	_
+3	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000904
+# text = og det var e det kallast for # er det på nå ?
+1	og	og	_	_	CONJ	_	_	_	_
+2	det	det	_	_	SG;PRO;3;NEUT	_	_	_	_
+3	var	vere	_	_	IND;PST;V;FIN	_	_	_	_
+4	e	e	_	_	_	_	_	_	_
+5	det	det	_	_	SG;PRO;3;NEUT	_	_	_	_
+6	kallast	kalle	_	_	NFIN;PASS;V	_	_	_	_
+7	for	for	_	_	ADP	_	_	_	_
+8	#	#	_	_	_	_	_	_	_
+9	er	vere	_	_	IND;PRS;V;FIN	_	_	_	_
+10	det	det	_	_	SG;PRO;3;NEUT	_	_	_	_
+11	på	på	_	_	ADP	_	_	_	_
+12	nå	nå	_	_	ADV	_	_	_	_
+13	?	$?	_	_	_	_	_	_	_
+
+# sent_id =  000152
+# text = og så reiste eg bortom han og så sa eg til han sånn som det var og så sa han det at « eg skal reise opp og tale ved dei » sa han så .
+1	og	og	_	_	CONJ	_	_	_	_
+2	så	så	_	_	ADV	_	_	_	_
+3	reiste	reise	_	_	IND;PST;V;FIN	_	_	_	_
+4	eg	eg	_	_	SG;PRO;1;NOM;HUM	_	_	_	_
+5	bortom	bortom	_	_	ADP	_	_	_	_
+6	han	han	_	_	MASC;SG;PRO;3;ACC	_	_	_	_
+7	og	og	_	_	CONJ	_	_	_	_
+8	så	så	_	_	ADV	_	_	_	_
+9	sa	seie	_	_	IND;PST;V;FIN	_	_	_	_
+10	eg	eg	_	_	SG;PRO;1;NOM;HUM	_	_	_	_
+11	til	til	_	_	ADP	_	_	_	_
+12	han	han	_	_	MASC;SG;PRO;3;ACC	_	_	_	_
+13	sånn	sånn	_	_	ADV	_	_	_	_
+14	som	som	_	_	PRO	_	_	_	_
+15	det	det	_	_	SG;PRO;3;NEUT	_	_	_	_
+16	var	vere	_	_	IND;PST;V;FIN	_	_	_	_
+17	og	og	_	_	CONJ	_	_	_	_
+18	så	så	_	_	ADV	_	_	_	_
+19	sa	seie	_	_	IND;PST;V;FIN	_	_	_	_
+20	han	han	_	_	MASC;SG;PRO;3;NOM	_	_	_	_
+21	det	det	_	_	SG;PRO;3;NEUT	_	_	_	_
+22	at	at	_	_	CONJ	_	_	_	_
+23	«	«	_	_	_	_	_	_	_
+24	eg	eg	_	_	SG;PRO;1;NOM;HUM	_	_	_	_
+25	skal	skulle	_	_	IND;PRS;V;FIN	_	_	_	_
+26	reise	reise	_	_	NFIN;V	_	_	_	_
+27	opp	opp	_	_	ADP	_	_	_	_
+28	og	og	_	_	CONJ	_	_	_	_
+29	tale	tale	_	_	NFIN;V	_	_	_	_
+30	ved	ved	_	_	ADP	_	_	_	_
+31	dei	dei	_	_	PRO;3;HUM;ACC;PL	_	_	_	_
+32	»	»	_	_	_	_	_	_	_
+33	sa	seie	_	_	IND;PST;V;FIN	_	_	_	_
+34	han	han	_	_	MASC;SG;PRO;3;NOM	_	_	_	_
+35	så	så	_	_	ADV	_	_	_	_
+36	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000774
+# text = og til å begynne med så drifta vi her utfor Vardø # ein time og # der omkring .
+1	og	og	_	_	CONJ	_	_	_	_
+2	til	til	_	_	ADP	_	_	_	_
+3	å	å	_	_	PART	_	_	_	_
+4	begynne	begynne	_	_	NFIN;V	_	_	_	_
+5	med	med	_	_	ADP	_	_	_	_
+6	så	så	_	_	ADV	_	_	_	_
+7	drifta	drifte	_	_	IND;PST;V;FIN	_	_	_	_
+8	vi	vi	_	_	PRO;1;NOM;HUM;PL	_	_	_	_
+9	her	her	_	_	ADV	_	_	_	_
+10	utfor	utfor	_	_	ADP	_	_	_	_
+11	Vardø	Vardø	_	_	PROPN	_	_	_	_
+12	#	#	_	_	_	_	_	_	_
+13	ein	ein	_	_	MASC;SG;DET	_	_	_	_
+14	time	time	_	_	INDF;N;MASC;SG	_	_	_	_
+15	og	og	_	_	CONJ	_	_	_	_
+16	#	#	_	_	_	_	_	_	_
+17	der	der	_	_	ADV	_	_	_	_
+18	omkring	omkring	_	_	ADP	_	_	_	_
+19	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  001164
+# text = jaha .
+1	jaha	jaha	_	_	INTJ	_	_	_	_
+2	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  000164
+# text = så det var mykje g- e mykje greier .
+1	så	så	_	_	CONJ	_	_	_	_
+2	det	det	_	_	SG;PRO;3;NEUT	_	_	_	_
+3	var	vere	_	_	IND;PST;V;FIN	_	_	_	_
+4	mykje	mykje	_	_	SG;INDF;ADJ;NEUT	_	_	_	_
+5	g-	g-	_	_	_	_	_	_	_
+6	e	e	_	_	_	_	_	_	_
+7	mykje	mykje	_	_	PL;ADJ	_	_	_	_
+8	greier	greie	_	_	INDF;N;PL;FEM	_	_	_	_
+9	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  001015
+# text = det kan eg hugse som i dag og jada der der stod dei og prata # den eine husmora med den andre og slo av ein prat .
+1	det	det	_	_	SG;PRO;3;NEUT	_	_	_	_
+2	kan	kunne	_	_	IND;PRS;V;FIN	_	_	_	_
+3	eg	eg	_	_	SG;PRO;1;NOM;HUM	_	_	_	_
+4	hugse	hugse	_	_	NFIN;V	_	_	_	_
+5	som	som	_	_	ADP	_	_	_	_
+6	i	i	_	_	ADP	_	_	_	_
+7	dag	dag	_	_	INDF;N;MASC;SG	_	_	_	_
+8	og	og	_	_	CONJ	_	_	_	_
+9	jada	jada	_	_	INTJ	_	_	_	_
+10	der	der	_	_	ADV	_	_	_	_
+11	der	der	_	_	ADV	_	_	_	_
+12	stod	stå	_	_	IND;PST;V;FIN	_	_	_	_
+13	dei	dei	_	_	PRO;3;NOM;HUM;PL	_	_	_	_
+14	og	og	_	_	CONJ	_	_	_	_
+15	prata	prate	_	_	IND;PST;V;FIN	_	_	_	_
+16	#	#	_	_	_	_	_	_	_
+17	den	den	_	_	SG;DET;FEM	_	_	_	_
+18	eine	eine	_	_	DEF;NUM;SG	_	_	_	_
+19	husmora	husmor	_	_	N;SG;DEF;FEM	_	_	_	_
+20	med	med	_	_	ADP	_	_	_	_
+21	den	den	_	_	SG;DET;FEM	_	_	_	_
+22	andre	annen	_	_	SG;DET;DEF	_	_	_	_
+23	og	og	_	_	CONJ	_	_	_	_
+24	slo	slå	_	_	IND;PST;V;FIN	_	_	_	_
+25	av	av	_	_	ADP	_	_	_	_
+26	ein	ein	_	_	MASC;SG;DET	_	_	_	_
+27	prat	prat	_	_	INDF;N;MASC;SG	_	_	_	_
+28	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  001166
+# text = ja visst .
+1	ja	ja	_	_	INTJ	_	_	_	_
+2	visst	visst	_	_	ADV	_	_	_	_
+3	.	$.	_	_	_	_	_	_	_
+
+# sent_id =  001068
+# text = ja .
+1	ja	ja	_	_	INTJ	_	_	_	_
+2	.	$.	_	_	_	_	_	_	_
+

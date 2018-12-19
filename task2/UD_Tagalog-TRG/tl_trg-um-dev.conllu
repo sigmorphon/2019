@@ -1,0 +1,45 @@
+# sent_id = schachter-otanes-197-0
+# text = Komika si Linda.
+# text_en = Linda is funny.
+1	Komika	komika	_	_	ADJ;FEM	_	_	_	_
+2	si	ang	_	_	ABS;DET;SG	_	_	_	_
+3	Linda	Linda	_	_	SG;PROPN;FEM	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = schachter-otanes-60-1
+# text = Ginising ng ingay ang bata.
+# text_en = A noise awakened the child.
+1	Ginising	gising	_	_	PFV;IND;V	_	_	_	_
+2	ng	ng	_	_	ADP;ERG	_	_	_	_
+3	ingay	ingay	_	_	N	_	_	_	_
+4	ang	ang	_	_	ABS;DET;DEF	_	_	_	_
+5	bata	bata	_	_	N;SG	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = schachter-otanes-65-2
+# text = Mabuti ang panahon.
+# text_en = The weather is good.
+1	Mabuti	buti	_	_	ADJ	_	_	_	_
+2	ang	ang	_	_	DET;DEF	_	_	_	_
+3	panahon	panahon	_	_	N;SG	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = schachter-otanes-65-6
+# text = Para sa bata ang laruan.
+# text_en = The toy is for the child.
+1	Para	para	_	_	ADV	_	_	_	_
+2	sa	sa	_	_	ADP;DAT	_	_	_	_
+3	bata	bata	_	_	N;SG	_	_	_	_
+4	ang	ang	_	_	ABS;DET;DEF	_	_	_	_
+5	laruan	laruan	_	_	N;SG	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = schachter-otanes-60-2
+# text = Sinulat ko ang liham.
+# text_en = I wrote the letter.
+1	Sinulat	sulat	_	_	PFV;IND;V	_	_	_	_
+2	ko	ng	_	_	PRO;SG;ERG;1	_	_	_	_
+3	ang	ang	_	_	ABS;DET;DEF	_	_	_	_
+4	liham	liham	_	_	N;SG	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+

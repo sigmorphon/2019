@@ -1,0 +1,258 @@
+# sent_id = babylon7_amel-marduk_6_01
+# text = 3 1/3 NINDA
+1	3	3	_	_	NUM	_	_	_	_
+2	1/3	1/3	_	_	NUM	_	_	_	_
+3	NINDA	akalu	_	_	N	_	_	_	_
+
+# sent_id = babylon8_Cyrus_II_01_8a
+# text = D-AMAR-UTU EN GAL lìb-bi ri-it-pa-šu ša ra-⸢im⸣ TIN-TIR-KI ši-⸢ma-a-tiš iš-ku-na⸣ -an-ni- -ma u₄-mi-šam a-še-eʾ-a pa-la-⸢aḫ⸣ -šú
+# text_en =  The god Marduk, the great lord, established for me as (my) des[ti]ny the great magnanimity of one who loves Babylon and daily I strive to revere him.
+1	D-AMAR-UTU	Marduk	_	_	PROPN	_	_	_	_
+2	EN	bēlu	_	_	N	_	_	_	_
+3	GAL	rabû	_	_	ADJ	_	_	_	_
+4	lìb-bi	libbu	_	_	N	_	_	_	_
+5	ri-it-pa-šu	ritpāšu	_	_	ADJ	_	_	_	_
+6	ša	ša	_	_	DET	_	_	_	_
+7	ra-⸢im⸣	rāʾimu	_	_	N	_	_	_	_
+8	TIN-TIR-KI	Babili	_	_	PROPN	_	_	_	_
+9	ši-⸢ma-a-tiš	šīmātiš	_	_	ADV	_	_	_	_
+10	iš-ku-na⸣	šakānu	_	_	V	_	_	_	_
+11	-an-ni-	-anni-	_	_	ADP	_	_	_	_
+12	-ma	-ma	_	_	CONJ	_	_	_	_
+13	u₄-mi-šam	ūmišam	_	_	ADV	_	_	_	_
+14	a-še-eʾ-a	šeʾû	_	_	V	_	_	_	_
+15	pa-la-⸢aḫ⸣	palāhu	_	_	N	_	_	_	_
+16	-šú	-šu	_	_	PRO	_	_	_	_
+
+# sent_id = babylon7_nabopolassar_11_02
+# text = KAR a-na d-AMAR-UTU MUNUS-SIG₅ -šu qí-bi
+1	KAR	kāru	_	_	N	_	_	_	_
+2	a-na	ana	_	_	ADP	_	_	_	_
+3	d-AMAR-UTU	Marduk	_	_	PROPN	_	_	_	_
+4	MUNUS-SIG₅	damqu	_	_	N	_	_	_	_
+5	-šu	-šu	_	_	PRO	_	_	_	_
+6	qí-bi	qabû	_	_	V	_	_	_	_
+
+# sent_id = babylon7_nabopolassar_03_08
+# text = im-gur-d-EN-LÍL BÀD ra-ba-a šá ba-bi-lim-KI ⸢BULUG⸣ reš-ta-a šá iš-tu ṣa-a-tim šu-pu-ú ki-sur-ra-a šu-úr-šu-du ša la-bar du-úr UD-MEŠ ki-in-na-a zaq-ru šá šit-nu-nu šá-ma-mi tuk-šu dan-nu e-di-il pi-i KUR a-a-bi TÙR šum-du-lu ša d-i-gi₄-gi₄ ki-sal-lu pal-ka-a ša d-a-nun-na-ki mé-lit ša-ma-mi sim-mi-lat ga-an-zèr ⸢na⸣-an-za-az d-lugal-gìr-ra ù d-mes-lam-ta-è ib-rat šá d-INANNA šar-rat ra-bi-tim maš-kan til-pa-nu ša d-da-gan qu-ra-du TÙR ka-ra-šu šá qar-ra-du d-MAŠ É ki-di-ni šá d-a-nu-um ù d-EN-LÍL a-šar GIŠ-ḪUR-MEŠ nak-la-a-ti ša d-é-a EN eridu-KI qaq-qar ni-ṣir-tim šá DINGIR-MEŠ GAL-MEŠ ša d-i-gi₄-gi₄ ù d-a-nun-na-ki i-na nu-ug ŠÀ -šú-nu ú-kin-nu te-me-en -šu nak-liš uš-ta-aṣ-bu-ú ú-ul-lu-ú SAG -šú i-na la-bar UD-MEŠ i-ni-iš i-qu-up -ma i-na zu-un-nim ù ra-a-di ra-bu-tú ut-ta-as-sú-ú i-ga-ru -šú te-mé-en -šu ik-kam-ru -ma iš-ša-ap-ku ti-la-ni-iš
+1	im-gur-d-EN-LÍL	Imgur-Enlil	_	_	PROPN	_	_	_	_
+2	BÀD	dūru	_	_	N	_	_	_	_
+3	ra-ba-a	rabû	_	_	ADJ	_	_	_	_
+4	šá	ša	_	_	DET	_	_	_	_
+5	ba-bi-lim-KI	Babili	_	_	PROPN	_	_	_	_
+6	⸢BULUG⸣	pulukku	_	_	N	_	_	_	_
+7	reš-ta-a	rēštû	_	_	ADJ	_	_	_	_
+8	šá	ša	_	_	DET	_	_	_	_
+9	iš-tu	ištu	_	_	ADP	_	_	_	_
+10	ṣa-a-tim	ṣiātu	_	_	N	_	_	_	_
+11	šu-pu-ú	šūpû	_	_	ADJ	_	_	_	_
+12	ki-sur-ra-a	kisurrû	_	_	N	_	_	_	_
+13	šu-úr-šu-du	šuršudu	_	_	ADJ	_	_	_	_
+14	ša	ša	_	_	DET	_	_	_	_
+15	la-bar	labāru	_	_	N	_	_	_	_
+16	du-úr	dūru	_	_	N	_	_	_	_
+17	UD-MEŠ	ūmu	_	_	N	_	_	_	_
+18	ki-in-na-a	kinnû	_	_	N	_	_	_	_
+19	zaq-ru	zaqru	_	_	ADJ	_	_	_	_
+20	šá	ša	_	_	DET	_	_	_	_
+21	šit-nu-nu	šitnunu	_	_	ADJ	_	_	_	_
+22	šá-ma-mi	šamāmū	_	_	N	_	_	_	_
+23	tuk-šu	tukšu	_	_	N	_	_	_	_
+24	dan-nu	dannu	_	_	ADJ	_	_	_	_
+25	e-di-il	edlu	_	_	ADJ	_	_	_	_
+26	pi-i	pû	_	_	N	_	_	_	_
+27	KUR	mātu	_	_	N	_	_	_	_
+28	a-a-bi	ayyābu	_	_	N	_	_	_	_
+29	TÙR	tarbaṣu	_	_	N	_	_	_	_
+30	šum-du-lu	šuddulu	_	_	ADJ	_	_	_	_
+31	ša	ša	_	_	DET	_	_	_	_
+32	d-i-gi₄-gi₄	Igigi	_	_	PROPN	_	_	_	_
+33	ki-sal-lu	kisallu	_	_	N	_	_	_	_
+34	pal-ka-a	palkû	_	_	ADJ	_	_	_	_
+35	ša	ša	_	_	DET	_	_	_	_
+36	d-a-nun-na-ki	Anunnaku	_	_	PROPN	_	_	_	_
+37	mé-lit	mēlītu	_	_	N	_	_	_	_
+38	ša-ma-mi	šamāmū	_	_	N	_	_	_	_
+39	sim-mi-lat	simmiltu	_	_	N	_	_	_	_
+40	ga-an-zèr	ganzer	_	_	N	_	_	_	_
+41	⸢na⸣-an-za-az	nanzāzu	_	_	N	_	_	_	_
+42	d-lugal-gìr-ra	Lugal-girra	_	_	PROPN	_	_	_	_
+43	ù	u	_	_	CONJ	_	_	_	_
+44	d-mes-lam-ta-è	Meslamtaʾea	_	_	PROPN	_	_	_	_
+45	ib-rat	ibratu	_	_	N	_	_	_	_
+46	šá	ša	_	_	DET	_	_	_	_
+47	d-INANNA	Ištar	_	_	PROPN	_	_	_	_
+48	šar-rat	šarratu	_	_	N	_	_	_	_
+49	ra-bi-tim	rabû	_	_	ADJ	_	_	_	_
+50	maš-kan	maškanu	_	_	N	_	_	_	_
+51	til-pa-nu	tilpānu	_	_	N	_	_	_	_
+52	ša	ša	_	_	DET	_	_	_	_
+53	d-da-gan	Dagan	_	_	PROPN	_	_	_	_
+54	qu-ra-du	qurādu	_	_	N	_	_	_	_
+55	TÙR	tarbaṣu	_	_	N	_	_	_	_
+56	ka-ra-šu	karāšu	_	_	N	_	_	_	_
+57	šá	ša	_	_	DET	_	_	_	_
+58	qar-ra-du	qarrādu	_	_	N	_	_	_	_
+59	d-MAŠ	Ninurta	_	_	PROPN	_	_	_	_
+60	É	bītu	_	_	N	_	_	_	_
+61	ki-di-ni	kidinnu	_	_	N	_	_	_	_
+62	šá	ša	_	_	DET	_	_	_	_
+63	d-a-nu-um	Anu	_	_	PROPN	_	_	_	_
+64	ù	u	_	_	CONJ	_	_	_	_
+65	d-EN-LÍL	Enlil	_	_	PROPN	_	_	_	_
+66	a-šar	ašru	_	_	N	_	_	_	_
+67	GIŠ-ḪUR-MEŠ	uṣurtu	_	_	N	_	_	_	_
+68	nak-la-a-ti	uṣurtu	_	_	ADJ	_	_	_	_
+69	ša	ša	_	_	DET	_	_	_	_
+70	d-é-a	Ea	_	_	PROPN	_	_	_	_
+71	EN	bēlu	_	_	N	_	_	_	_
+72	eridu-KI	Eridu	_	_	PROPN	_	_	_	_
+73	qaq-qar	qaqqaru	_	_	N	_	_	_	_
+74	ni-ṣir-tim	niṣirtu	_	_	N	_	_	_	_
+75	šá	ša	_	_	DET	_	_	_	_
+76	DINGIR-MEŠ	ilu	_	_	N	_	_	_	_
+77	GAL-MEŠ	rabû	_	_	ADJ	_	_	_	_
+78	ša	ša	_	_	CONJ	_	_	_	_
+79	d-i-gi₄-gi₄	Igigi	_	_	PROPN	_	_	_	_
+80	ù	u	_	_	CONJ	_	_	_	_
+81	d-a-nun-na-ki	Anunnaku	_	_	PROPN	_	_	_	_
+82	i-na	ina	_	_	ADP	_	_	_	_
+83	nu-ug	nūgu	_	_	N	_	_	_	_
+84	ŠÀ	libbu	_	_	N	_	_	_	_
+85	-šú-nu	-šunu	_	_	PRO	_	_	_	_
+86	ú-kin-nu	kânu	_	_	V	_	_	_	_
+87	te-me-en	temmēnu	_	_	N	_	_	_	_
+88	-šu	-šu	_	_	PRO	_	_	_	_
+89	nak-liš	nakliš	_	_	ADV	_	_	_	_
+90	uš-ta-aṣ-bu-ú	ṣubbû	_	_	V	_	_	_	_
+91	ú-ul-lu-ú	elû	_	_	V	_	_	_	_
+92	SAG	rēšu	_	_	N	_	_	_	_
+93	-šú	-šu	_	_	PRO	_	_	_	_
+94	i-na	ina	_	_	ADP	_	_	_	_
+95	la-bar	labāru	_	_	N	_	_	_	_
+96	UD-MEŠ	ūmu	_	_	N	_	_	_	_
+97	i-ni-iš	enēšu	_	_	V	_	_	_	_
+98	i-qu-up	qâpu	_	_	V	_	_	_	_
+99	-ma	-ma	_	_	CONJ	_	_	_	_
+100	i-na	ina	_	_	ADP	_	_	_	_
+101	zu-un-nim	zunnu	_	_	N	_	_	_	_
+102	ù	u	_	_	CONJ	_	_	_	_
+103	ra-a-di	rādu	_	_	N	_	_	_	_
+104	ra-bu-tú	rabû	_	_	ADJ	_	_	_	_
+105	ut-ta-as-sú-ú	nesû	_	_	V	_	_	_	_
+106	i-ga-ru	igāru	_	_	N	_	_	_	_
+107	-šú	-šu	_	_	PRO	_	_	_	_
+108	te-mé-en	temmēnu	_	_	N	_	_	_	_
+109	-šu	-šu	_	_	PRO	_	_	_	_
+110	ik-kam-ru	kamāru	_	_	V	_	_	_	_
+111	-ma	-ma	_	_	CONJ	_	_	_	_
+112	iš-ša-ap-ku	šapāku	_	_	V	_	_	_	_
+113	ti-la-ni-iš	tīlāniš	_	_	ADV	_	_	_	_
+
+# sent_id = babylon7_nabopolassar_03_07
+# text = ì-nu-šu d-AG-IBILA-ÙRU LUGAL ba-bi-lu-KI mu-ṭib ŠÀ d-AG ù d-AMAR-UTU a-na-ku
+1	ì-nu-šu	inūšu	_	_	ADV	_	_	_	_
+2	d-AG-IBILA-ÙRU	Nabu-apla-uṣur	_	_	PROPN	_	_	_	_
+3	LUGAL	šarru	_	_	N	_	_	_	_
+4	ba-bi-lu-KI	Babili	_	_	PROPN	_	_	_	_
+5	mu-ṭib	muṭibbu	_	_	N	_	_	_	_
+6	ŠÀ	libbu	_	_	N	_	_	_	_
+7	d-AG	Nabu	_	_	PROPN	_	_	_	_
+8	ù	u	_	_	CONJ	_	_	_	_
+9	d-AMAR-UTU	Marduk	_	_	PROPN	_	_	_	_
+10	a-na-ku	anāku	_	_	PRO	_	_	_	_
+
+# sent_id = babylon8_Cyrus_II_01_4c
+# text = UN-MEŠ ṣal-mat SAG-DU ša ú-ša-ak-ši-du qa-ta-a -šú i-na ki-it-tim ù mi-šá-ru iš-te-né-eʾ-e-ši-na-a-tim
+# text_en =  (As for) the black-headed people whom he allowed his hand to conquer, he was assiduous towards their welfare in truth and justice.
+1	UN-MEŠ	nišu	_	_	N	_	_	_	_
+2	ṣal-mat	ṣalmu	_	_	ADJ	_	_	_	_
+3	SAG-DU	qaqqadu	_	_	N	_	_	_	_
+4	ša	ša	_	_	CONJ	_	_	_	_
+5	ú-ša-ak-ši-du	kašādu	_	_	V	_	_	_	_
+6	qa-ta-a	qātu	_	_	N	_	_	_	_
+7	-šú	-šu	_	_	PRO	_	_	_	_
+8	i-na	ina	_	_	ADP	_	_	_	_
+9	ki-it-tim	kittu	_	_	N	_	_	_	_
+10	ù	u	_	_	CONJ	_	_	_	_
+11	mi-šá-ru	mīšaru	_	_	N	_	_	_	_
+12	iš-te-né-eʾ-e-ši-na-a-tim	šeʾû	_	_	V	_	_	_	_
+
+# sent_id = babylon7_nabopolassar_03_05
+# text = d-NÈ-ERI₁₁-GAL dan-dan-ni DINGIR-MEŠ ú-ša-li-ik i-da -a-a i-na-ar a-a-bi -ia ú-ša-am-qì-it ga-ri -ia
+1	d-NÈ-ERI₁₁-GAL	Nergal	_	_	PROPN	_	_	_	_
+2	dan-dan-ni	dandannu	_	_	ADJ	_	_	_	_
+3	DINGIR-MEŠ	ilu	_	_	N	_	_	_	_
+4	ú-ša-li-ik	alāku	_	_	V	_	_	_	_
+5	i-da	idu	_	_	N	_	_	_	_
+6	-a-a	-ia	_	_	PRO	_	_	_	_
+7	i-na-ar	nêru	_	_	V	_	_	_	_
+8	a-a-bi	ayyābu	_	_	N	_	_	_	_
+9	-ia	-ia	_	_	PRO	_	_	_	_
+10	ú-ša-am-qì-it	maqātu	_	_	V	_	_	_	_
+11	ga-ri	gērû	_	_	N	_	_	_	_
+12	-ia	-ia	_	_	PRO	_	_	_	_
+
+# sent_id = babylon8_Cyrus_II_01_1b
+# text = ta-am-ši-li é-sag-íl i-te-[pu-uš -ma xx]-⸢tim⸣ a-na úri-KI ù si-it-ta-tì ma-ḫa-za
+# text_en =  He bu[ilt] a replica of Esagil [and ...] for (the city) Ur and the rest of the cult-center(s).
+1	ta-am-ši-li	tamšīlu	_	_	N	_	_	_	_
+2	é-sag-íl	Esagil	_	_	PROPN	_	_	_	_
+3	i-te-[pu-uš	epēšu	_	_	V	_	_	_	_
+4	-ma	-ma	_	_	CONJ	_	_	_	_
+5	xx]-⸢tim⸣	_	_	_	_	_	_	_	_
+6	a-na	ana	_	_	ADP	_	_	_	_
+7	úri-KI	Uri	_	_	PROPN	_	_	_	_
+8	ù	u	_	_	CONJ	_	_	_	_
+9	si-it-ta-tì	šittu	_	_	N	_	_	_	_
+10	ma-ḫa-za	māhāzu	_	_	N	_	_	_	_
+
+# sent_id = babylon7_nabopolassar_07_01
+# text = a-na d-AMAR-UTU EN -šú d-MUATI-A-ÙRU LUGAL KÁ-DIŠ-DIŠ-KI KAR a-gur-ru ana ki-da-nu BÀD ba-li-i-lu ú-šá-as-ḫir
+1	a-na	ana	_	_	ADP	_	_	_	_
+2	d-AMAR-UTU	Marduk	_	_	PROPN	_	_	_	_
+3	EN	bēlu	_	_	N	_	_	_	_
+4	-šú	-šu	_	_	PRO	_	_	_	_
+5	d-MUATI-A-ÙRU	Nabu-apla-uṣur	_	_	PROPN	_	_	_	_
+6	LUGAL	šarru	_	_	N	_	_	_	_
+7	KÁ-DIŠ-DIŠ-KI	Babili	_	_	PROPN	_	_	_	_
+8	KAR	kāru	_	_	N	_	_	_	_
+9	a-gur-ru	agurru	_	_	N	_	_	_	_
+10	ana	ana	_	_	ADP	_	_	_	_
+11	ki-da-nu	kīdānu	_	_	ADV	_	_	_	_
+12	BÀD	dūru	_	_	N	_	_	_	_
+13	ba-li-i-lu	Babili	_	_	PROPN	_	_	_	_
+14	ú-šá-as-ḫir	sahāru	_	_	V	_	_	_	_
+
+# sent_id = babylon7_nabopolassar_02_02
+# text = im-gur-d-EN-LÍL BÀD ra-ba-a ša ba-bi-lim-KI ul-tu GÚ ÍD-a-ra-aḫ-tim UŠ AN-TA šá KÁ-GAL-d-INANNA a-di UŠ KI-TA ša KÁ-GAL-duraš te-me-en -šu la-bi-ri ú-ṣab-bi -ma mi-it-ḫa-ri-iš a-na d-AMAR-UTU EN -ia lu-ú e-pu-uš
+1	im-gur-d-EN-LÍL	Imgur-Enlil	_	_	PROPN	_	_	_	_
+2	BÀD	dūru	_	_	N	_	_	_	_
+3	ra-ba-a	rabû	_	_	ADJ	_	_	_	_
+4	ša	ša	_	_	DET	_	_	_	_
+5	ba-bi-lim-KI	Babili	_	_	PROPN	_	_	_	_
+6	ul-tu	ištu	_	_	ADP	_	_	_	_
+7	GÚ	kišādu	_	_	N	_	_	_	_
+8	ÍD-a-ra-aḫ-tim	Arahtu	_	_	PROPN	_	_	_	_
+9	UŠ	šiddu	_	_	N	_	_	_	_
+10	AN-TA	elû	_	_	ADJ	_	_	_	_
+11	šá	ša	_	_	DET	_	_	_	_
+12	KÁ-GAL-d-INANNA	Abul-Ištar	_	_	PROPN	_	_	_	_
+13	a-di	adi	_	_	ADP	_	_	_	_
+14	UŠ	šiddu	_	_	N	_	_	_	_
+15	KI-TA	šaplû	_	_	ADJ	_	_	_	_
+16	ša	ša	_	_	DET	_	_	_	_
+17	KÁ-GAL-duraš	Abul-Uraš	_	_	PROPN	_	_	_	_
+18	te-me-en	temmēnu	_	_	N	_	_	_	_
+19	-šu	-šu	_	_	PRO	_	_	_	_
+20	la-bi-ri	labīru	_	_	ADJ	_	_	_	_
+21	ú-ṣab-bi	ṣubbû	_	_	V	_	_	_	_
+22	-ma	-ma	_	_	CONJ	_	_	_	_
+23	mi-it-ḫa-ri-iš	mithāriš	_	_	ADV	_	_	_	_
+24	a-na	ana	_	_	ADP	_	_	_	_
+25	d-AMAR-UTU	Marduk	_	_	PROPN	_	_	_	_
+26	EN	bēlu	_	_	N	_	_	_	_
+27	-ia	-ia	_	_	PRO	_	_	_	_
+28	lu-ú	lū	_	_	PART	_	_	_	_
+29	e-pu-uš	epēšu	_	_	V	_	_	_	_
+

@@ -1,0 +1,4719 @@
+# sent_id = test-326
+# text = Igyekezetét segítheti, hogy ezzel egy időben Dél-Korea kilábalni látszik az ország történetének legsúlyosabb gazdasági válságából, az 1997. végi pénzügyi krachból.
+1	Igyekezetét	igyekezet	_	_	PSS3S;SG;N;ACC	_	_	_	_
+2	segítheti	segíthet	_	_	FIN;POT;3;PRS;SG;DEF;V;ACT	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	hogy	hogy	_	_	CONJ	_	_	_	_
+5	ezzel	ez	_	_	PRO;3;SG;INS	_	_	_	_
+6	egy	egy	_	_	NUM;NOM;SG	_	_	_	_
+7	időben	idő	_	_	N;IN+ESS;SG	_	_	_	_
+8	Dél-Korea	Dél-Korea	_	_	PROPN;NOM;SG	_	_	_	_
+9	kilábalni	kilábal	_	_	NFIN;V;ACT	_	_	_	_
+10	látszik	látszik	_	_	FIN;3;INDF;SG;PRS;IND;V;ACT	_	_	_	_
+11	az	az	_	_	DEF;DET	_	_	_	_
+12	ország	ország	_	_	N;NOM;SG	_	_	_	_
+13	történetének	történet	_	_	PSS3S;GEN;SG;N	_	_	_	_
+14	legsúlyosabb	súlyos	_	_	RL;ADJ;NOM;SG	_	_	_	_
+15	gazdasági	gazdasági	_	_	ADJ;NOM;SG	_	_	_	_
+16	válságából	válság	_	_	PSS3S;SG;IN+ABL;N	_	_	_	_
+17	,	,	_	_	_	_	_	_	_
+18	az	az	_	_	DEF;DET	_	_	_	_
+19	1997.	1997.	_	_	ADJ;NOM;SG	_	_	_	_
+20	végi	végi	_	_	ADJ;NOM;SG	_	_	_	_
+21	pénzügyi	pénzügyi	_	_	ADJ;NOM;SG	_	_	_	_
+22	krachból	krach	_	_	IN+ABL;N;SG	_	_	_	_
+23	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-434
+# text = A Seattle Coffeet 1995-ben Scott és Ally Svenson alapította, a korábban éppen Seattle-ben élt amerikai házaspárnak ugyanis hiányzott a Starbucksnál megszokott kávékínálat.
+1	A	a	_	_	DEF;DET	_	_	_	_
+2	Seattle	Seattle	_	_	PROPN;NOM;SG	_	_	_	_
+3	Coffeet	Coffee	_	_	ACC;PROPN;SG	_	_	_	_
+4	1995-ben	1995	_	_	NUM;IN+ESS;SG	_	_	_	_
+5	Scott	Scott	_	_	PROPN;NOM;SG	_	_	_	_
+6	és	és	_	_	CONJ	_	_	_	_
+7	Ally	Ally	_	_	PROPN;NOM;SG	_	_	_	_
+8	Svenson	Svenson	_	_	PROPN;NOM;SG	_	_	_	_
+9	alapította	alapít	_	_	FIN;3;SG;IND;DEF;PST;V;ACT	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	a	a	_	_	DEF;DET	_	_	_	_
+12	korábban	korán	_	_	CMPR;ADV	_	_	_	_
+13	éppen	éppen	_	_	ADV	_	_	_	_
+14	Seattle-ben	Seattle	_	_	PROPN;IN+ESS;SG	_	_	_	_
+15	élt	élt	_	_	SG;ADJ;NOM	_	_	_	_
+16	amerikai	amerikai	_	_	ADJ;NOM;SG	_	_	_	_
+17	házaspárnak	házaspár	_	_	N;DAT;SG	_	_	_	_
+18	ugyanis	ugyanis	_	_	CONJ	_	_	_	_
+19	hiányzott	hiányzik	_	_	FIN;3;INDF;SG;IND;PST;V;ACT	_	_	_	_
+20	a	a	_	_	DEF;DET	_	_	_	_
+21	Starbucksnál	Starbucks	_	_	PROPN;AT+ESS;SG	_	_	_	_
+22	megszokott	megszokott	_	_	SG;ADJ;NOM	_	_	_	_
+23	kávékínálat	kávékínálat	_	_	N;NOM;SG	_	_	_	_
+24	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-105
+# text = Az LB tegnap felfüggesztette a tárgyalást az RTL Klub kereskedelmi televízió műsor-szolgáltatási szerződésével kapcsolatos felülvizsgálati eljárásban.
+1	Az	az	_	_	DET;DEF	_	_	_	_
+2	LB	LB	_	_	PSSD;SG;NOM;PROPN	_	_	_	_
+3	tegnap	tegnap	_	_	ADV	_	_	_	_
+4	felfüggesztette	fel+függeszt	_	_	SG;3;FIN;V;DEF;PST;ACT;IND	_	_	_	_
+5	a	a	_	_	DET;DEF	_	_	_	_
+6	tárgyalást	tárgyalás	_	_	PSSD;SG;N;ACC	_	_	_	_
+7	az	az	_	_	DET;DEF	_	_	_	_
+8	RTL	RTL	_	_	PSSD;SG;NOM;PROPN	_	_	_	_
+9	Klub	Klub	_	_	PSSD;SG;NOM;PROPN	_	_	_	_
+10	kereskedelmi	kereskedelmi	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+11	televízió	televízió	_	_	PSSD;SG;N;NOM	_	_	_	_
+12	műsor-szolgáltatási	műsor-szolgáltatási	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+13	szerződésével	szerződés	_	_	PSS3S;SG;INS;N	_	_	_	_
+14	kapcsolatos	kapcsolatos	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+15	felülvizsgálati	felülvizsgálati	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+16	eljárásban	eljárás	_	_	PSSD;SG;N;IN+ESS	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-30
+# text = Miként hat a világgazdasági környezet Magyarországra?
+1	Miként	miként	_	_	ADV	_	_	_	_
+2	hat	hat	_	_	INDF;ACT;3;V;IND;FIN;SG;PRS	_	_	_	_
+3	a	a	_	_	DET;DEF	_	_	_	_
+4	világgazdasági	világgazdasági	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+5	környezet	környezet	_	_	PSSD;NOM;N;SG	_	_	_	_
+6	Magyarországra	Magyarország	_	_	PSSD;ON+ALL;PROPN;SG	_	_	_	_
+7	?	?	_	_	_	_	_	_	_
+
+# sent_id = train-281
+# text = A Vezér például bevallotta, hogy számára a szerelem hozza el a szublimálás élményét, miután az alkoholtól — ami merőben idegen a balkáni lélektől — semminemű feloldódást nem nyer.
+1	A	a	_	_	DET;DEF	_	_	_	_
+2	Vezér	vezér	_	_	PSSD;NOM;N;SG	_	_	_	_
+3	például	például	_	_	ADV	_	_	_	_
+4	bevallotta	be+vall	_	_	DEF;PST;ACT;3;V;IND;FIN;SG	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	hogy	hogy	_	_	CONJ	_	_	_	_
+7	számára	számára	_	_	PSSD;NOM;PRO;3;SG	_	_	_	_
+8	a	a	_	_	DET;DEF	_	_	_	_
+9	szerelem	szerelem	_	_	PSSD;NOM;N;SG	_	_	_	_
+10	hozza	hoz	_	_	DEF;ACT;3;V;IND;FIN;SG;PRS	_	_	_	_
+11	el	el	_	_	ADV	_	_	_	_
+12	a	a	_	_	DET;DEF	_	_	_	_
+13	szublimálás	szublimálás	_	_	PSSD;NOM;N;SG	_	_	_	_
+14	élményét	élmény	_	_	PSS3S;N;ACC;SG	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	miután	miután	_	_	CONJ	_	_	_	_
+17	az	az	_	_	DET;DEF	_	_	_	_
+18	alkoholtól	alkohol	_	_	PSSD;AT+ABL;N;SG	_	_	_	_
+19	—	—	_	_	_	_	_	_	_
+20	ami	ami	_	_	PSSD;NOM;PRO;3;SG	_	_	_	_
+21	merőben	merőben	_	_	ADV	_	_	_	_
+22	idegen	idegen	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+23	a	a	_	_	DET;DEF	_	_	_	_
+24	balkáni	balkáni	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+25	lélektől	lélek	_	_	PSSD;AT+ABL;N;SG	_	_	_	_
+26	—	—	_	_	_	_	_	_	_
+27	semminemű	semminemű	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+28	feloldódást	feloldódás	_	_	PSSD;N;ACC;SG	_	_	_	_
+29	nem	nem	_	_	ADV	_	_	_	_
+30	nyer	nyer	_	_	INDF;ACT;3;V;IND;FIN;SG;PRS	_	_	_	_
+31	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-192
+# text = A mostani teljesítményem még inkább arra ösztönöz, hogy a jövő évi sydneyi olimpián, ahol először szerepel hivatalosan a női súlyemelés, én is ott legyek.
+1	A	a	_	_	DEF;DET	_	_	_	_
+2	mostani	mostani	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+3	teljesítményem	teljesítmény	_	_	PSS1S;SG;N;NOM	_	_	_	_
+4	még	még	_	_	ADV	_	_	_	_
+5	inkább	inkább	_	_	ADV	_	_	_	_
+6	arra	az	_	_	PSSD;ON+ALL;PRO;3;SG	_	_	_	_
+7	ösztönöz	ösztönöz	_	_	FIN;3;INDF;SG;PRS;IND;V;ACT	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	hogy	hogy	_	_	CONJ	_	_	_	_
+10	a	a	_	_	DEF;DET	_	_	_	_
+11	jövő	jövő	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+12	évi	évi	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+13	sydneyi	sydneyi	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+14	olimpián	olimpia	_	_	PSSD;SG;N;ON+ESS	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	ahol	ahol	_	_	ADV	_	_	_	_
+17	először	először	_	_	ADV	_	_	_	_
+18	szerepel	szerepel	_	_	FIN;3;INDF;SG;PRS;IND;V;ACT	_	_	_	_
+19	hivatalosan	hivatalos	_	_	PSSD;SG;FRML;ADJ	_	_	_	_
+20	a	a	_	_	DEF;DET	_	_	_	_
+21	női	női	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+22	súlyemelés	súlyemelés	_	_	PSSD;SG;N;NOM	_	_	_	_
+23	,	,	_	_	_	_	_	_	_
+24	én	én	_	_	PSSD;PRO;1;SG;NOM	_	_	_	_
+25	is	is	_	_	CONJ	_	_	_	_
+26	ott	ott	_	_	ADV	_	_	_	_
+27	legyek	lesz	_	_	FIN;1;INDF;SG;PRS;V;IMP;ACT	_	_	_	_
+28	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-250
+# text = A magyar élelmiszeriparban dolgozó 8600 vállalkozás az ipari termelés 17, az export 10 százalékát adja, és összesen 1300 milliárd forint termelési értéket állít elő — mondta Fórián Zoltán, a Rabobank elemzési osztályvezetője.
+1	A	a	_	_	DET;DEF	_	_	_	_
+2	magyar	magyar	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+3	élelmiszeriparban	élelmiszeripar	_	_	PSSD;SG;N;IN+ESS	_	_	_	_
+4	dolgozó	dolgozó	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+5	8600	8600	_	_	PSSD;SG;NOM;NUM	_	_	_	_
+6	vállalkozás	vállalkozás	_	_	PSSD;SG;N;NOM	_	_	_	_
+7	az	az	_	_	DET;DEF	_	_	_	_
+8	ipari	ipari	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+9	termelés	termelés	_	_	PSSD;SG;N;NOM	_	_	_	_
+10	17	17	_	_	PSSD;SG;NOM;NUM	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	az	az	_	_	DET;DEF	_	_	_	_
+13	export	export	_	_	PSSD;SG;N;NOM	_	_	_	_
+14	10	10	_	_	PSSD;SG;NOM;NUM	_	_	_	_
+15	százalékát	százalék	_	_	PSS3S;SG;N;ACC	_	_	_	_
+16	adja	ad	_	_	SG;3;FIN;V;DEF;ACT;PRS;IND	_	_	_	_
+17	,	,	_	_	_	_	_	_	_
+18	és	és	_	_	CONJ	_	_	_	_
+19	összesen	összesen	_	_	ADV	_	_	_	_
+20	1300	1300	_	_	PSSD;SG;NOM;NUM	_	_	_	_
+21	milliárd	milliárd	_	_	PSSD;SG;NOM;NUM	_	_	_	_
+22	forint	forint	_	_	PSSD;SG;N;NOM	_	_	_	_
+23	termelési	termelési	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+24	értéket	érték	_	_	PSSD;SG;N;ACC	_	_	_	_
+25	állít	állít	_	_	SG;3;FIN;INDF;V;ACT;PRS;IND	_	_	_	_
+26	elő	elő	_	_	ADV	_	_	_	_
+27	—	—	_	_	_	_	_	_	_
+28	mondta	mond	_	_	SG;3;FIN;V;DEF;PST;ACT;IND	_	_	_	_
+29	Fórián	Fórián	_	_	PSSD;SG;NOM;PROPN	_	_	_	_
+30	Zoltán	Zoltán	_	_	PSSD;SG;NOM;PROPN	_	_	_	_
+31	,	,	_	_	_	_	_	_	_
+32	a	a	_	_	DET;DEF	_	_	_	_
+33	Rabobank	Rabobank	_	_	PSSD;SG;NOM;PROPN	_	_	_	_
+34	elemzési	elemzési	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+35	osztályvezetője	osztályvezető	_	_	PSS3S;SG;N;NOM	_	_	_	_
+36	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-619
+# text = A megbeszélésen a felek elhatározták, hogy konkrét javaslatokat dolgoznak ki az adósság rendezésére.
+1	A	a	_	_	DET;DEF	_	_	_	_
+2	megbeszélésen	megbeszélés	_	_	PSSD;ON+ESS;N;SG	_	_	_	_
+3	a	a	_	_	DET;DEF	_	_	_	_
+4	felek	fél	_	_	PSSD;NOM;N;PL	_	_	_	_
+5	elhatározták	el+határoz	_	_	DEF;PST;ACT;3;V;IND;PL;FIN	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	hogy	hogy	_	_	CONJ	_	_	_	_
+8	konkrét	konkrét	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+9	javaslatokat	javaslat	_	_	PSSD;N;PL;ACC	_	_	_	_
+10	dolgoznak	dolgozik	_	_	INDF;ACT;3;V;IND;PL;FIN;PRS	_	_	_	_
+11	ki	ki	_	_	ADV	_	_	_	_
+12	az	az	_	_	DET;DEF	_	_	_	_
+13	adósság	adósság	_	_	PSSD;NOM;N;SG	_	_	_	_
+14	rendezésére	rendezés	_	_	PSS3S;N;ON+ALL;SG	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-89
+# text = A hollandok összeállításában hiába keressük Timmant, nélküle a Piket és Van Wely vezette csapat csak a tisztes helytállásban reménykedhet.
+1	A	a	_	_	DEF;DET	_	_	_	_
+2	hollandok	holland	_	_	PSSD;N;PL;NOM	_	_	_	_
+3	összeállításában	összeállítás	_	_	PSS3S;IN+ESS;SG;N	_	_	_	_
+4	hiába	hiába	_	_	ADV	_	_	_	_
+5	keressük	keres	_	_	FIN;1;PRS;IND;DEF;PL;V;ACT	_	_	_	_
+6	Timmant	Timman	_	_	PSSD;SG;PROPN;ACC	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	nélküle	nélkül	_	_	PSSD;PRO;3;SG;NOM	_	_	_	_
+9	a	a	_	_	DEF;DET	_	_	_	_
+10	Piket	Piket	_	_	PSSD;SG;PROPN;NOM	_	_	_	_
+11	és	és	_	_	CONJ	_	_	_	_
+12	Van	Van	_	_	PSSD;SG;PROPN;NOM	_	_	_	_
+13	Wely	Wely	_	_	PSSD;SG;PROPN;NOM	_	_	_	_
+14	vezette	vezette	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+15	csapat	csapat	_	_	PSSD;SG;N;NOM	_	_	_	_
+16	csak	csak	_	_	ADV	_	_	_	_
+17	a	a	_	_	DEF;DET	_	_	_	_
+18	tisztes	tisztes	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+19	helytállásban	helytállás	_	_	PSSD;IN+ESS;SG;N	_	_	_	_
+20	reménykedhet	reménykedik	_	_	FIN;POT;3;INDF;SG;PRS;V;ACT	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-279
+# text = A légzési és a szívritmust szabályozó gyakorlatok, a különféle relaxációs módszerek alkalmazása szinte kicserélték Josip Brozt.
+1	A	a	_	_	DET;DEF	_	_	_	_
+2	légzési	légzési	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+3	és	és	_	_	CONJ	_	_	_	_
+4	a	a	_	_	DET;DEF	_	_	_	_
+5	szívritmust	szívritmus	_	_	PSSD;N;ACC;SG	_	_	_	_
+6	szabályozó	szabályozó	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+7	gyakorlatok	gyakorlat	_	_	PSSD;NOM;N;PL	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	a	a	_	_	DET;DEF	_	_	_	_
+10	különféle	különféle	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+11	relaxációs	relaxációs	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+12	módszerek	módszer	_	_	PSSD;NOM;N;PL	_	_	_	_
+13	alkalmazása	alkalmazás	_	_	PSS3S;NOM;N;SG	_	_	_	_
+14	szinte	szinte	_	_	ADV	_	_	_	_
+15	kicserélték	ki+cserél	_	_	DEF;PST;ACT;3;V;IND;PL;FIN	_	_	_	_
+16	Josip	Josip	_	_	PSSD;NOM;PROPN;SG	_	_	_	_
+17	Brozt	Broz	_	_	PSSD;ACC;PROPN;SG	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-20
+# text = A közelmúlt regionális gazdasági krízisei — a távol-keleti, az orosz vagy a dél-amerikai válság — rövid idő alatt lokalizálódtak, majd megszűntek.
+1	A	a	_	_	DET;DEF	_	_	_	_
+2	közelmúlt	közelmúlt	_	_	PSSD;NOM;N;SG	_	_	_	_
+3	regionális	regionális	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+4	gazdasági	gazdasági	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+5	krízisei	krízis	_	_	PSS3S;NOM;N;PL	_	_	_	_
+6	—	—	_	_	_	_	_	_	_
+7	a	a	_	_	DET;DEF	_	_	_	_
+8	távol-keleti	távol-keleti	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	az	az	_	_	DET;DEF	_	_	_	_
+11	orosz	orosz	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+12	vagy	vagy	_	_	CONJ	_	_	_	_
+13	a	a	_	_	DET;DEF	_	_	_	_
+14	dél-amerikai	dél-amerikai	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+15	válság	válság	_	_	PSSD;NOM;N;SG	_	_	_	_
+16	—	—	_	_	_	_	_	_	_
+17	rövid	rövid	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+18	idő	idő	_	_	PSSD;NOM;N;SG	_	_	_	_
+19	alatt	alatt	_	_	ADP	_	_	_	_
+20	lokalizálódtak	lokalizálódik	_	_	PST;INDF;ACT;3;V;IND;PL;FIN	_	_	_	_
+21	,	,	_	_	_	_	_	_	_
+22	majd	majd	_	_	ADV	_	_	_	_
+23	megszűntek	meg+szűnik	_	_	PST;INDF;ACT;3;V;IND;PL;FIN	_	_	_	_
+24	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-396
+# text = A muzsikus-zeneszerző több mint negyedszázaddal ezelőtt végzett a Liszt Ferenc Zeneművészeti Főiskolán, s 1979-ben alapítója volt a 180-as csoportnak.
+1	A	a	_	_	DET;DEF	_	_	_	_
+2	muzsikus-zeneszerző	muzsikus-zeneszerző	_	_	PSSD;NOM;N;SG	_	_	_	_
+3	több	több	_	_	DET;INDF	_	_	_	_
+4	mint	mint	_	_	CONJ	_	_	_	_
+5	negyedszázaddal	negyedszázad	_	_	PSSD;INS;N;SG	_	_	_	_
+6	ezelőtt	ezelőtt	_	_	ADP	_	_	_	_
+7	végzett	végez	_	_	PST;INDF;ACT;3;V;IND;FIN;SG	_	_	_	_
+8	a	a	_	_	DET;DEF	_	_	_	_
+9	Liszt	Liszt	_	_	PSSD;NOM;PROPN;SG	_	_	_	_
+10	Ferenc	Ferenc	_	_	PSSD;NOM;PROPN;SG	_	_	_	_
+11	Zeneművészeti	Zeneművészeti	_	_	PSSD;NOM;PROPN;SG	_	_	_	_
+12	Főiskolán	Főiskola	_	_	PSSD;ON+ESS;PROPN;SG	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	s	s	_	_	CONJ	_	_	_	_
+15	1979-ben	1979	_	_	PSSD;NUM;IN+ESS;SG	_	_	_	_
+16	alapítója	alapító	_	_	PSS3S;NOM;N;SG	_	_	_	_
+17	volt	van	_	_	PST;INDF;ACT;V;3;IND;FIN;SG	_	_	_	_
+18	a	a	_	_	DET;DEF	_	_	_	_
+19	180-as	180-as	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+20	csoportnak	csoport	_	_	PSSD;N;GEN;SG	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-356
+# text = Először Don Alfonsót alakítottam benne, majd Guglielmo lettem, több év elteltével pedig ismét megkaptam az öreg filozófus szerepét.
+1	Először	először	_	_	ADV	_	_	_	_
+2	Don	Don	_	_	PSSD;NOM;PROPN;SG	_	_	_	_
+3	Alfonsót	Alfonso	_	_	PSSD;ACC;PROPN;SG	_	_	_	_
+4	alakítottam	alakít	_	_	DEF;PST;ACT;V;IND;FIN;SG;1	_	_	_	_
+5	benne	ő	_	_	PSSD;IN+ESS;PRO;3;SG	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	majd	majd	_	_	CONJ	_	_	_	_
+8	Guglielmo	Guglielmo	_	_	PSSD;NOM;PROPN;SG	_	_	_	_
+9	lettem	lesz	_	_	PST;INDF;ACT;V;IND;FIN;SG;1	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	több	több	_	_	DET;INDF	_	_	_	_
+12	év	év	_	_	PSSD;NOM;N;SG	_	_	_	_
+13	elteltével	eltelte	_	_	PSS3S;INS;N;SG	_	_	_	_
+14	pedig	pedig	_	_	CONJ	_	_	_	_
+15	ismét	ismét	_	_	ADV	_	_	_	_
+16	megkaptam	meg+kap	_	_	DEF;PST;ACT;V;IND;FIN;SG;1	_	_	_	_
+17	az	az	_	_	DET;DEF	_	_	_	_
+18	öreg	öreg	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+19	filozófus	filozófus	_	_	PSSD;NOM;N;SG	_	_	_	_
+20	szerepét	szerep	_	_	PSS3S;N;ACC;SG	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-178
+# text = Lezárásának határideje: 2000. január 12.
+1	Lezárásának	lezárás	_	_	PSS3S;GEN;SG;N	_	_	_	_
+2	határideje	határidő	_	_	PSS3S;SG;N;NOM	_	_	_	_
+3	:	:	_	_	_	_	_	_	_
+4	2000.	2000.	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+5	január	január	_	_	PSSD;SG;N;NOM	_	_	_	_
+6	12.	12.	_	_	PSS3S;SG;N;NOM	_	_	_	_
+
+# sent_id = train-357
+# text = Nagyon szeretem a darabot, s most is rendszeresen színpadra lépek benne.
+1	Nagyon	nagyon	_	_	ADV	_	_	_	_
+2	szeretem	szeret	_	_	DEF;PRS;ACT;V;IND;FIN;SG;1	_	_	_	_
+3	a	a	_	_	DET;DEF	_	_	_	_
+4	darabot	darab	_	_	PSSD;N;ACC;SG	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	s	s	_	_	CONJ	_	_	_	_
+7	most	most	_	_	ADV	_	_	_	_
+8	is	is	_	_	CONJ	_	_	_	_
+9	rendszeresen	rendszeres	_	_	PSSD;FRML;ADJ;SG	_	_	_	_
+10	színpadra	színpad	_	_	PSSD;N;ON+ALL;SG	_	_	_	_
+11	lépek	lép	_	_	PRS;INDF;ACT;V;IND;FIN;SG;1	_	_	_	_
+12	benne	ő	_	_	PSSD;IN+ESS;PRO;3;SG	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-282
+# text = A kormányzat 6,3 százalékos inflációs várakozása ugyanis hordónkénti 18 dolláros olajáron alapszik.
+1	A	a	_	_	DET;DEF	_	_	_	_
+2	kormányzat	kormányzat	_	_	PSSD;SG;N;NOM	_	_	_	_
+3	6,3	6,3	_	_	PSSD;SG;NOM;NUM	_	_	_	_
+4	százalékos	százalékos	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+5	inflációs	inflációs	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+6	várakozása	várakozás	_	_	PSS3S;SG;N;NOM	_	_	_	_
+7	ugyanis	ugyanis	_	_	CONJ	_	_	_	_
+8	hordónkénti	hordónkénti	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+9	18	18	_	_	PSSD;SG;NOM;NUM	_	_	_	_
+10	dolláros	dolláros	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+11	olajáron	olajár	_	_	PSSD;SG;ON+ESS;N	_	_	_	_
+12	alapszik	alapszik	_	_	SG;3;FIN;INDF;V;ACT;PRS;IND	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-432
+# text = A kiállítás egyik szenzációja az az egy méter magas, áttört Zsolnay-díszváza, amely ezen a kiállításon látható először.
+1	A	a	_	_	DET;DEF	_	_	_	_
+2	kiállítás	kiállítás	_	_	PSSD;NOM;N;SG	_	_	_	_
+3	egyik	egyik	_	_	DET;DEF	_	_	_	_
+4	szenzációja	szenzáció	_	_	PSS3S;NOM;N;SG	_	_	_	_
+5	az	az	_	_	PSSD;DET;NOM;3;SG	_	_	_	_
+6	az	az	_	_	DET;DEF	_	_	_	_
+7	egy	egy	_	_	PSSD;NUM;NOM;SG	_	_	_	_
+8	méter	méter	_	_	PSSD;NOM;N;SG	_	_	_	_
+9	magas	magas	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	áttört	áttört	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+12	Zsolnay-díszváza	Zsolnay-díszváza	_	_	PSSD;NOM;N;SG	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	amely	amely	_	_	PSSD;NOM;PRO;3;SG	_	_	_	_
+15	ezen	ez	_	_	PSSD;ON+ESS;DET;3;SG	_	_	_	_
+16	a	a	_	_	DET;DEF	_	_	_	_
+17	kiállításon	kiállítás	_	_	PSSD;ON+ESS;N;SG	_	_	_	_
+18	látható	látható	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+19	először	először	_	_	ADV	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-850
+# text = A hét végén több mint két tucat SPD-s képviselő írta alá azt a memorandumot, amelyben egész egyszerűen megfenyegetik Schrödert, nem fogják megszavazni a "Jövőprogram 2000"-nek elkeresztelt takarékossági csomagtervet, ha nem változtatnak rajta.
+1	A	a	_	_	DET;DEF	_	_	_	_
+2	hét	hét	_	_	SG;NUM;NOM	_	_	_	_
+3	végén	vég	_	_	PSS3S;ON+ESS;N;SG	_	_	_	_
+4	több	több	_	_	SG;NUM;NOM	_	_	_	_
+5	mint	mint	_	_	CONJ	_	_	_	_
+6	két	két	_	_	SG;NUM;NOM	_	_	_	_
+7	tucat	tucat	_	_	SG;NOM;N	_	_	_	_
+8	SPD-s	SPD-s	_	_	ADJ;NOM;SG	_	_	_	_
+9	képviselő	képviselő	_	_	SG;NOM;N	_	_	_	_
+10	írta	ír	_	_	DEF;PST;ACT;3;V;IND;FIN;SG	_	_	_	_
+11	alá	alá	_	_	ADP	_	_	_	_
+12	azt	az	_	_	PRO;3;ACC;SG	_	_	_	_
+13	a	a	_	_	DET;DEF	_	_	_	_
+14	memorandumot	memorandum	_	_	SG;N;ACC	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	amelyben	amely	_	_	IN+ESS;PRO;3;SG	_	_	_	_
+17	egész	egész	_	_	ADV	_	_	_	_
+18	egyszerűen	egyszerű	_	_	ADJ;SG;FRML	_	_	_	_
+19	megfenyegetik	megfenyeget	_	_	DEF;ACT;3;V;IND;PL;FIN;PRS	_	_	_	_
+20	Schrödert	Schröder	_	_	PROPN;SG;ACC	_	_	_	_
+21	,	,	_	_	_	_	_	_	_
+22	nem	nem	_	_	ADV	_	_	_	_
+23	fogják	fog	_	_	DEF;ACT;V;3;IND;PL;FIN;PRS	_	_	_	_
+24	megszavazni	megszavaz	_	_	V;NFIN;ACT	_	_	_	_
+25	a	a	_	_	DET;DEF	_	_	_	_
+26	"Jövőprogram	"Jövőprogram	_	_	PROPN;SG;NOM	_	_	_	_
+27	2000"-nek	2000"	_	_	PROPN;SG;DAT	_	_	_	_
+28	elkeresztelt	elkeresztelt	_	_	NOM;ADJ;SG	_	_	_	_
+29	takarékossági	takarékossági	_	_	ADJ;NOM;SG	_	_	_	_
+30	csomagtervet	csomagterv	_	_	SG;N;ACC	_	_	_	_
+31	,	,	_	_	_	_	_	_	_
+32	ha	ha	_	_	CONJ	_	_	_	_
+33	nem	nem	_	_	ADV	_	_	_	_
+34	változtatnak	változtat	_	_	INDF;CAUS;3;V;IND;PL;FIN;PRS	_	_	_	_
+35	rajta	rajta	_	_	ON+ESS;PRO;3;SG	_	_	_	_
+36	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-238
+# text = Európában a szerkezetátalakítás a végéhez közeledik, így a nagyvállalkozások most arra törekednek, hogy a konkurencia felvásárlásával mérsékeljék a piaci versenyt és hogy új fogyasztókat szerezzenek maguknak.
+1	Európában	Európa	_	_	PSSD;SG;PROPN;IN+ESS	_	_	_	_
+2	a	a	_	_	DET;DEF	_	_	_	_
+3	szerkezetátalakítás	szerkezetátalakítás	_	_	PSSD;SG;N;NOM	_	_	_	_
+4	a	a	_	_	DET;DEF	_	_	_	_
+5	végéhez	vég	_	_	PSS3S;SG;N;AT+ALL	_	_	_	_
+6	közeledik	közeledik	_	_	SG;3;FIN;INDF;V;ACT;PRS;IND	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	így	így	_	_	CONJ	_	_	_	_
+9	a	a	_	_	DET;DEF	_	_	_	_
+10	nagyvállalkozások	nagyvállalkozás	_	_	PSSD;N;PL;NOM	_	_	_	_
+11	most	most	_	_	ADV	_	_	_	_
+12	arra	az	_	_	PSSD;SG;3;PRO;ON+ALL	_	_	_	_
+13	törekednek	törekedik	_	_	3;FIN;INDF;V;PL;ACT;PRS;IND	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	hogy	hogy	_	_	CONJ	_	_	_	_
+16	a	a	_	_	DET;DEF	_	_	_	_
+17	konkurencia	konkurencia	_	_	PSSD;SG;N;NOM	_	_	_	_
+18	felvásárlásával	felvásárlás	_	_	PSS3S;SG;INS;N	_	_	_	_
+19	mérsékeljék	mérsékel	_	_	3;FIN;V;DEF;PL;ACT;IMP;PRS	_	_	_	_
+20	a	a	_	_	DET;DEF	_	_	_	_
+21	piaci	piaci	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+22	versenyt	verseny	_	_	PSSD;SG;N;ACC	_	_	_	_
+23	és	és	_	_	CONJ	_	_	_	_
+24	hogy	hogy	_	_	CONJ	_	_	_	_
+25	új	új	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+26	fogyasztókat	fogyasztó	_	_	PSSD;N;PL;ACC	_	_	_	_
+27	szerezzenek	szerez	_	_	3;FIN;INDF;V;PL;ACT;IMP;PRS	_	_	_	_
+28	maguknak	maga	_	_	PSSD;3;PL;REFL;PRO;DAT	_	_	_	_
+29	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-450
+# text = Kiemelkedik az aukcióban részt vevő darabok közül egy ezüstből készült emeletes szédertál, amelyet cizellált arany elemekkel díszítettek és a súlya megközelíti a négy kilót.
+1	Kiemelkedik	ki+emelkedik	_	_	INDF;ACT;3;V;IND;FIN;SG;PRS	_	_	_	_
+2	az	az	_	_	DET;DEF	_	_	_	_
+3	aukcióban	aukció	_	_	PSSD;IN+ESS;N;SG	_	_	_	_
+4	részt	rész	_	_	PSSD;N;ACC;SG	_	_	_	_
+5	vevő	vevő	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+6	darabok	darab	_	_	PSSD;NOM;N;PL	_	_	_	_
+7	közül	közül	_	_	ADP	_	_	_	_
+8	egy	egy	_	_	DET;INDF	_	_	_	_
+9	ezüstből	ezüst	_	_	PSSD;N;IN+ABL;SG	_	_	_	_
+10	készült	készült	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+11	emeletes	emeletes	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+12	szédertál	szédertál	_	_	PSSD;NOM;N;SG	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	amelyet	amely	_	_	PSSD;PRO;3;ACC;SG	_	_	_	_
+15	cizellált	cizellált	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+16	arany	arany	_	_	PSSD;NOM;N;SG	_	_	_	_
+17	elemekkel	elem	_	_	PSSD;INS;N;PL	_	_	_	_
+18	díszítettek	díszít	_	_	PST;INDF;ACT;3;V;IND;PL;FIN	_	_	_	_
+19	és	és	_	_	CONJ	_	_	_	_
+20	a	a	_	_	DET;DEF	_	_	_	_
+21	súlya	súly	_	_	PSS3S;NOM;N;SG	_	_	_	_
+22	megközelíti	meg+közelít	_	_	DEF;ACT;3;V;IND;FIN;SG;PRS	_	_	_	_
+23	a	a	_	_	DET;DEF	_	_	_	_
+24	négy	négy	_	_	PSSD;NUM;NOM;SG	_	_	_	_
+25	kilót	kiló	_	_	PSSD;N;ACC;SG	_	_	_	_
+26	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-399
+# text = — Aki valami miatt személyesen nem lehet jelen ezen az esten, az is meghallgathatja majd ennek a koncertanyagát, hiszen ezekből a szerzeményekből lemezfelvétel is készül.
+1	—	—	_	_	_	_	_	_	_
+2	Aki	aki	_	_	PSSD;NOM;PRO;3;SG	_	_	_	_
+3	valami	valami	_	_	PSSD;NOM;PRO;3;SG	_	_	_	_
+4	miatt	miatt	_	_	ADP	_	_	_	_
+5	személyesen	személyes	_	_	PSSD;FRML;ADJ;SG	_	_	_	_
+6	nem	nem	_	_	ADV	_	_	_	_
+7	lehet	lesz	_	_	INDF;ACT;3;V;POT;FIN;SG;PRS	_	_	_	_
+8	jelen	jelen	_	_	ADV	_	_	_	_
+9	ezen	ez	_	_	PSSD;ON+ESS;DET;3;SG	_	_	_	_
+10	az	az	_	_	DET;DEF	_	_	_	_
+11	esten	est	_	_	PSSD;ON+ESS;N;SG	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	az	az	_	_	PSSD;NOM;PRO;3;SG	_	_	_	_
+14	is	is	_	_	CONJ	_	_	_	_
+15	meghallgathatja	meg+hallgat	_	_	DEF;ACT;3;V;POT;FIN;SG;PRS	_	_	_	_
+16	majd	majd	_	_	ADV	_	_	_	_
+17	ennek	ez	_	_	PSSD;PRO;3;GEN;SG	_	_	_	_
+18	a	a	_	_	DET;DEF	_	_	_	_
+19	koncertanyagát	koncertanyag	_	_	PSS3S;N;ACC;SG	_	_	_	_
+20	,	,	_	_	_	_	_	_	_
+21	hiszen	hiszen	_	_	CONJ	_	_	_	_
+22	ezekből	ez	_	_	PSSD;DET;3;IN+ABL;PL	_	_	_	_
+23	a	a	_	_	DET;DEF	_	_	_	_
+24	szerzeményekből	szerzemény	_	_	PSSD;N;IN+ABL;PL	_	_	_	_
+25	lemezfelvétel	lemezfelvétel	_	_	PSSD;NOM;N;SG	_	_	_	_
+26	is	is	_	_	CONJ	_	_	_	_
+27	készül	készül	_	_	INDF;ACT;3;V;IND;FIN;SG;PRS	_	_	_	_
+28	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-113
+# text = A szervezők úgy vélik, mindenkinek egységesen fel kell lépnie a szélsőjobb előretörése ellen, mert "vétkesek közt cinkos, aki néma".
+1	A	a	_	_	DET;DEF	_	_	_	_
+2	szervezők	szervező	_	_	PSSD;N;PL;NOM	_	_	_	_
+3	úgy	úgy	_	_	ADV	_	_	_	_
+4	vélik	vél	_	_	3;FIN;V;DEF;PL;ACT;PRS;IND	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	mindenkinek	mindenki	_	_	PSSD;SG;3;PRO;DAT	_	_	_	_
+7	egységesen	egységes	_	_	PSSD;SG;ADJ;FRML	_	_	_	_
+8	fel	fel	_	_	ADV	_	_	_	_
+9	kell	kell	_	_	SG;3;FIN;INDF;V;ACT;PRS;IND	_	_	_	_
+10	lépnie	lép	_	_	SG;3;V;ACT;NFIN	_	_	_	_
+11	a	a	_	_	DET;DEF	_	_	_	_
+12	szélsőjobb	szélsőjobb	_	_	PSSD;SG;N;NOM	_	_	_	_
+13	előretörése	előretörés	_	_	PSS3S;SG;N;NOM	_	_	_	_
+14	ellen	ellen	_	_	ADP	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	mert	mert	_	_	CONJ	_	_	_	_
+17	"	"	_	_	_	_	_	_	_
+18	vétkesek	vétkes	_	_	PSSD;N;PL;NOM	_	_	_	_
+19	közt	közt	_	_	ADP	_	_	_	_
+20	cinkos	cinkos	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+21	,	,	_	_	_	_	_	_	_
+22	aki	aki	_	_	PSSD;SG;3;PRO;NOM	_	_	_	_
+23	néma	néma	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+24	"	"	_	_	_	_	_	_	_
+25	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-223
+# text = Pontot érő ütésből (20), kettős hibából (5), s ki nem kényszerített hibából (29) is többet csinált Agassinál, aki ez utóbbiból mindössze hatot vétett.
+1	Pontot	pont	_	_	PSSD;SG;N;ACC	_	_	_	_
+2	érő	érő	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+3	ütésből	ütés	_	_	PSSD;SG;IN+ABL;N	_	_	_	_
+4	(	(	_	_	_	_	_	_	_
+5	20	20	_	_	PSSD;NUM;SG;NOM	_	_	_	_
+6	)	)	_	_	_	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	kettős	kettős	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+9	hibából	hiba	_	_	PSSD;SG;IN+ABL;N	_	_	_	_
+10	(5)	(5)	_	_	PSSD;NUM;SG;NOM	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	s	s	_	_	CONJ	_	_	_	_
+13	ki	ki	_	_	ADV	_	_	_	_
+14	nem	nem	_	_	ADV	_	_	_	_
+15	kényszerített	kényszerített	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+16	hibából	hiba	_	_	PSSD;SG;IN+ABL;N	_	_	_	_
+17	(	(	_	_	_	_	_	_	_
+18	29	29	_	_	PSSD;NUM;SG;NOM	_	_	_	_
+19	)	)	_	_	_	_	_	_	_
+20	is	is	_	_	CONJ	_	_	_	_
+21	többet	több	_	_	ACC;INDF;DET	_	_	_	_
+22	csinált	csinál	_	_	FIN;3;INDF;SG;IND;PST;V;ACT	_	_	_	_
+23	Agassinál	Agassi	_	_	PSSD;AT+ESS;SG;PROPN	_	_	_	_
+24	,	,	_	_	_	_	_	_	_
+25	aki	aki	_	_	PSSD;PRO;3;SG;NOM	_	_	_	_
+26	ez	ez	_	_	PSSD;DET;3;SG;NOM	_	_	_	_
+27	utóbbiból	utóbbi	_	_	PSSD;CMPR;SG;IN+ABL;ADJ	_	_	_	_
+28	mindössze	mindössze	_	_	ADV	_	_	_	_
+29	hatot	hat	_	_	PSSD;NUM;SG;ACC	_	_	_	_
+30	vétett	vét	_	_	FIN;3;INDF;SG;IND;PST;V;ACT	_	_	_	_
+31	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-392
+# text = — Egészséget, ha már az ember ilyen kort megért, és a nézők észrevették, megszerették.
+1	—	—	_	_	_	_	_	_	_
+2	Egészséget	egészség	_	_	PSSD;N;ACC;SG	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	ha	ha	_	_	CONJ	_	_	_	_
+5	már	már	_	_	ADV	_	_	_	_
+6	az	az	_	_	DET;DEF	_	_	_	_
+7	ember	ember	_	_	PSSD;NOM;N;SG	_	_	_	_
+8	ilyen	ilyen	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+9	kort	kor	_	_	PSSD;N;ACC;SG	_	_	_	_
+10	megért	meg+ér	_	_	PST;INDF;ACT;3;V;IND;FIN;SG	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	és	és	_	_	CONJ	_	_	_	_
+13	a	a	_	_	DET;DEF	_	_	_	_
+14	nézők	néző	_	_	PSSD;NOM;N;PL	_	_	_	_
+15	észrevették	észrevesz	_	_	DEF;PST;ACT;3;V;IND;PL;FIN	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	megszerették	meg+szeret	_	_	DEF;PST;ACT;3;V;IND;PL;FIN	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-121
+# text = Ez pedig megegyezik a kormány által prognosztizált infláció mértékével.
+1	Ez	ez	_	_	PSSD;SG;3;PRO;NOM	_	_	_	_
+2	pedig	pedig	_	_	CONJ	_	_	_	_
+3	megegyezik	meg+egyezik	_	_	SG;3;FIN;INDF;V;ACT;PRS;IND	_	_	_	_
+4	a	a	_	_	DET;DEF	_	_	_	_
+5	kormány	kormány	_	_	PSSD;SG;N;NOM	_	_	_	_
+6	által	által	_	_	ADP	_	_	_	_
+7	prognosztizált	prognosztizált	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+8	infláció	infláció	_	_	PSSD;SG;N;NOM	_	_	_	_
+9	mértékével	mérték	_	_	PSS3S;SG;INS;N	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-173
+# text = Olyan sokan kerestek bérkocsit, hogy csak a szerencsések juthattak járműhöz.
+1	Olyan	olyan	_	_	ADV	_	_	_	_
+2	sokan	sokan	_	_	ADV	_	_	_	_
+3	kerestek	keres	_	_	PST;INDF;ACT;3;V;IND;PL;FIN	_	_	_	_
+4	bérkocsit	bérkocsi	_	_	PSSD;N;ACC;SG	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	hogy	hogy	_	_	CONJ	_	_	_	_
+7	csak	csak	_	_	ADV	_	_	_	_
+8	a	a	_	_	DET;DEF	_	_	_	_
+9	szerencsések	szerencsés	_	_	PSSD;NOM;PL;ADJ	_	_	_	_
+10	juthattak	jut	_	_	PST;INDF;ACT;3;V;POT;PL;FIN	_	_	_	_
+11	járműhöz	jármű	_	_	PSSD;N;AT+ALL;SG	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-324
+# text = Közülük az egyik a Szent Koronáról és az államalapítás 1000. évfordulójáról szóló, személyesen Orbán Viktor által kezdeményezett (a nemzeti ereklye parlamenti elhelyezését indítványozó) törvényjavaslat, amely a jelek szerint még komoly vitákat gerjeszthet.
+1	Közülük	közüle	_	_	3;PL;PRO;NOM	_	_	_	_
+2	az	az	_	_	DET;DEF	_	_	_	_
+3	egyik	egyik	_	_	SG;3;PRO;NOM	_	_	_	_
+4	a	a	_	_	DET;DEF	_	_	_	_
+5	Szent	Szent	_	_	SG;NOM;PROPN	_	_	_	_
+6	Koronáról	Korona	_	_	SG;PROPN	_	_	_	_
+7	és	és	_	_	CONJ	_	_	_	_
+8	az	az	_	_	DET;DEF	_	_	_	_
+9	államalapítás	államalapítás	_	_	SG;NOM;N	_	_	_	_
+10	1000.	1000.	_	_	SG;NOM;ADJ	_	_	_	_
+11	évfordulójáról	évforduló	_	_	PSS3S;SG;N	_	_	_	_
+12	szóló	szóló	_	_	SG;ADJ;NOM	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	személyesen	személyes	_	_	FRML;ADJ;SG	_	_	_	_
+15	Orbán	Orbán	_	_	SG;NOM;PROPN	_	_	_	_
+16	Viktor	Viktor	_	_	SG;NOM;PROPN	_	_	_	_
+17	által	által	_	_	ADP	_	_	_	_
+18	kezdeményezett	kezdeményezett	_	_	SG;ADJ;NOM	_	_	_	_
+19	(	(	_	_	_	_	_	_	_
+20	a	a	_	_	DET;DEF	_	_	_	_
+21	nemzeti	nemzeti	_	_	NOM;ADJ;SG	_	_	_	_
+22	ereklye	ereklye	_	_	SG;NOM;N	_	_	_	_
+23	parlamenti	parlamenti	_	_	NOM;ADJ;SG	_	_	_	_
+24	elhelyezését	elhelyezés	_	_	PSS3S;SG;N;ACC	_	_	_	_
+25	indítványozó	indítványozó	_	_	SG;ADJ;NOM	_	_	_	_
+26	)	)	_	_	_	_	_	_	_
+27	törvényjavaslat	törvényjavaslat	_	_	SG;NOM;N	_	_	_	_
+28	,	,	_	_	_	_	_	_	_
+29	amely	amely	_	_	SG;3;PRO;NOM	_	_	_	_
+30	a	a	_	_	DET;DEF	_	_	_	_
+31	jelek	jel	_	_	NOM;N;PL	_	_	_	_
+32	szerint	szerint	_	_	ADP	_	_	_	_
+33	még	még	_	_	ADV	_	_	_	_
+34	komoly	komoly	_	_	NOM;ADJ;SG	_	_	_	_
+35	vitákat	vita	_	_	ACC;N;PL	_	_	_	_
+36	gerjeszthet	gerjeszthet	_	_	SG;3;POT;INDF;V;FIN;ACT;PRS	_	_	_	_
+37	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-201
+# text = A válogatottba visszatérő Nagy Dóra pedig a védekezésben nyújtott kiválót.
+1	A	a	_	_	DEF;DET	_	_	_	_
+2	válogatottba	válogatott	_	_	PSSD;SG;IN+ALL;N	_	_	_	_
+3	visszatérő	visszatérő	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+4	Nagy	Nagy	_	_	PSSD;SG;PROPN;NOM	_	_	_	_
+5	Dóra	Dóra	_	_	PSSD;SG;PROPN;NOM	_	_	_	_
+6	pedig	pedig	_	_	CONJ	_	_	_	_
+7	a	a	_	_	DEF;DET	_	_	_	_
+8	védekezésben	védekezés	_	_	PSSD;IN+ESS;SG;N	_	_	_	_
+9	nyújtott	nyújtott	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+10	kiválót	kiváló	_	_	PSSD;SG;ACC;ADJ	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-515
+# text = Az édesanyám Micurinak becézett, amit én csak Mituinak tudtam kiejteni.
+1	Az	az	_	_	DET;DEF	_	_	_	_
+2	édesanyám	édesanya	_	_	PSS1S;NOM;N;SG	_	_	_	_
+3	Micurinak	Micuri	_	_	PSSD;PROPN;SG;DAT	_	_	_	_
+4	becézett	becéz	_	_	PST;INDF;ACT;3;V;IND;FIN;SG	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	amit	ami	_	_	PSSD;PRO;3;ACC;SG	_	_	_	_
+7	én	én	_	_	PSSD;NOM;PRO;SG;1	_	_	_	_
+8	csak	csak	_	_	ADV	_	_	_	_
+9	Mituinak	Mitui	_	_	PSSD;PROPN;SG;DAT	_	_	_	_
+10	tudtam	tud	_	_	DEF;PST;ACT;V;IND;FIN;SG;1	_	_	_	_
+11	kiejteni	ki+ejt	_	_	V;NFIN;ACT	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-418
+# text = Az olajcégek szerint a kiviteli korlátozások következtében aligha növekszik az üzemanyag-kínálat a belső piacon, mert a benzinár-emelkedés alapvető oka a világpiaci és a belső árak közötti másfél-kétszeres különbség.
+1	Az	az	_	_	DET;DEF	_	_	_	_
+2	olajcégek	olajcég	_	_	NOM;N;PL	_	_	_	_
+3	szerint	szerint	_	_	ADP	_	_	_	_
+4	a	a	_	_	DET;DEF	_	_	_	_
+5	kiviteli	kiviteli	_	_	NOM;ADJ;SG	_	_	_	_
+6	korlátozások	korlátozás	_	_	NOM;N;PL	_	_	_	_
+7	következtében	következtében	_	_	ADP	_	_	_	_
+8	aligha	aligha	_	_	ADV	_	_	_	_
+9	növekszik	növekszik	_	_	SG;3;FIN;INDF;V;ACT;PRS;IND	_	_	_	_
+10	az	az	_	_	DET;DEF	_	_	_	_
+11	üzemanyag-kínálat	üzemanyag-kínálat	_	_	SG;NOM;N	_	_	_	_
+12	a	a	_	_	DET;DEF	_	_	_	_
+13	belső	belső	_	_	NOM;ADJ;SG	_	_	_	_
+14	piacon	piac	_	_	SG;ON+ESS;N	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	mert	mert	_	_	CONJ	_	_	_	_
+17	a	a	_	_	DET;DEF	_	_	_	_
+18	benzinár-emelkedés	benzinár-emelkedés	_	_	SG;NOM;N	_	_	_	_
+19	alapvető	alapvető	_	_	NOM;ADJ;SG	_	_	_	_
+20	oka	ok	_	_	PSS3S;SG;N;NOM	_	_	_	_
+21	a	a	_	_	DET;DEF	_	_	_	_
+22	világpiaci	világpiaci	_	_	NOM;ADJ;SG	_	_	_	_
+23	és	és	_	_	CONJ	_	_	_	_
+24	a	a	_	_	DET;DEF	_	_	_	_
+25	belső	belső	_	_	NOM;ADJ;SG	_	_	_	_
+26	árak	ár	_	_	NOM;N;PL	_	_	_	_
+27	közötti	közötti	_	_	NOM;ADJ;SG	_	_	_	_
+28	másfél-kétszeres	másfél-kétszeres	_	_	NOM;ADJ;SG	_	_	_	_
+29	különbség	különbség	_	_	SG;NOM;N	_	_	_	_
+30	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-237
+# text = A Legfelsőbb Bíróság a nyáron felderítési és indoklási hiányosságok miatt hatályon kívül helyezte az ítéletet, és új eljárás lefolytatására, újabb tanúk meghallgatására utasította a megyei bíróságot.
+1	A	a	_	_	DEF;DET	_	_	_	_
+2	Legfelsőbb	Legfelsőbb	_	_	PSSD;SG;PROPN;NOM	_	_	_	_
+3	Bíróság	Bíróság	_	_	PSSD;SG;PROPN;NOM	_	_	_	_
+4	a	a	_	_	DEF;DET	_	_	_	_
+5	nyáron	nyár	_	_	PSSD;SG;N;ON+ESS	_	_	_	_
+6	felderítési	felderítési	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+7	és	és	_	_	CONJ	_	_	_	_
+8	indoklási	indoklási	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+9	hiányosságok	hiányosság	_	_	PSSD;N;PL;NOM	_	_	_	_
+10	miatt	miatt	_	_	ADP	_	_	_	_
+11	hatályon	hatály	_	_	PSSD;SG;N;ON+ESS	_	_	_	_
+12	kívül	kívül	_	_	ADP	_	_	_	_
+13	helyezte	helyez	_	_	FIN;3;SG;IND;DEF;PST;V;ACT	_	_	_	_
+14	az	az	_	_	DEF;DET	_	_	_	_
+15	ítéletet	ítélet	_	_	PSSD;SG;N;ACC	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	és	és	_	_	CONJ	_	_	_	_
+18	új	új	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+19	eljárás	eljárás	_	_	PSSD;SG;N;NOM	_	_	_	_
+20	lefolytatására	lefolytatás	_	_	PSS3S;ON+ALL;SG;N	_	_	_	_
+21	,	,	_	_	_	_	_	_	_
+22	újabb	új	_	_	PSSD;CMPR;SG;ADJ;NOM	_	_	_	_
+23	tanúk	tanú	_	_	PSSD;N;PL;NOM	_	_	_	_
+24	meghallgatására	meghallgatás	_	_	PSS3S;ON+ALL;SG;N	_	_	_	_
+25	utasította	utasít	_	_	FIN;3;SG;IND;DEF;PST;V;ACT	_	_	_	_
+26	a	a	_	_	DEF;DET	_	_	_	_
+27	megyei	megyei	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+28	bíróságot	bíróság	_	_	PSSD;SG;N;ACC	_	_	_	_
+29	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-32
+# text = Ez alkalmazkodási hajlandósággal jár.
+1	Ez	ez	_	_	PSSD;NOM;PRO;3;SG	_	_	_	_
+2	alkalmazkodási	alkalmazkodási	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+3	hajlandósággal	hajlandóság	_	_	PSSD;INS;N;SG	_	_	_	_
+4	jár	jár	_	_	INDF;ACT;3;V;IND;FIN;SG;PRS	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-83
+# text = Az elisztai sakkolimpián bronzérmet szerzett ukránok is a legerősebb összeállításukban szerepelnek: Ivancsuk, Oniscsuk, Ponomarjov és Romanisin ül majd sakkasztalhoz.
+1	Az	az	_	_	DEF;DET	_	_	_	_
+2	elisztai	elisztai	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+3	sakkolimpián	sakkolimpia	_	_	PSSD;SG;N;ON+ESS	_	_	_	_
+4	bronzérmet	bronzérem	_	_	PSSD;SG;N;ACC	_	_	_	_
+5	szerzett	szerzett	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+6	ukránok	ukrán	_	_	PSSD;N;PL;NOM	_	_	_	_
+7	is	is	_	_	CONJ	_	_	_	_
+8	a	a	_	_	DEF;DET	_	_	_	_
+9	legerősebb	erős	_	_	PSSD;SG;RL;ADJ;NOM	_	_	_	_
+10	összeállításukban	összeállítás	_	_	PSS3P;IN+ESS;SG;N	_	_	_	_
+11	szerepelnek	szerepel	_	_	FIN;3;INDF;PRS;IND;PL;V;ACT	_	_	_	_
+12	:	:	_	_	_	_	_	_	_
+13	Ivancsuk	Ivancsuk	_	_	PSSD;SG;PROPN;NOM	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	Oniscsuk	Oniscsuk	_	_	PSSD;SG;PROPN;NOM	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	Ponomarjov	Ponomarjov	_	_	PSSD;SG;PROPN;NOM	_	_	_	_
+18	és	és	_	_	CONJ	_	_	_	_
+19	Romanisin	Romanisin	_	_	PSSD;SG;PROPN;NOM	_	_	_	_
+20	ül	ül	_	_	FIN;3;INDF;SG;PRS;IND;V;ACT	_	_	_	_
+21	majd	majd	_	_	ADV	_	_	_	_
+22	sakkasztalhoz	sakkasztal	_	_	PSSD;SG;N;AT+ALL	_	_	_	_
+23	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-14
+# text = A tűzoltók szokásos készültségben lesznek, ők nem várnak jelentősen több bejelentést — mondta Dobson Tibor szóvivő.
+1	A	a	_	_	DEF;DET	_	_	_	_
+2	tűzoltók	tűzoltó	_	_	PSSD;N;PL;NOM	_	_	_	_
+3	szokásos	szokásos	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+4	készültségben	készültség	_	_	PSSD;IN+ESS;SG;N	_	_	_	_
+5	lesznek	lesz	_	_	FIN;3;INDF;PRS;IND;PL;V;ACT	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	ők	ők	_	_	PSSD;PRO;3;PL;NOM	_	_	_	_
+8	nem	nem	_	_	ADV	_	_	_	_
+9	várnak	vár	_	_	FIN;3;INDF;PRS;IND;PL;V;ACT	_	_	_	_
+10	jelentősen	jelentős	_	_	PSSD;SG;FRML;ADJ	_	_	_	_
+11	több	több	_	_	INDF;DET	_	_	_	_
+12	bejelentést	bejelentés	_	_	PSSD;SG;N;ACC	_	_	_	_
+13	—	—	_	_	_	_	_	_	_
+14	mondta	mond	_	_	FIN;3;SG;IND;DEF;PST;V;ACT	_	_	_	_
+15	Dobson	Dobson	_	_	PSSD;SG;PROPN;NOM	_	_	_	_
+16	Tibor	Tibor	_	_	PSSD;SG;PROPN;NOM	_	_	_	_
+17	szóvivő	szóvivő	_	_	PSSD;SG;N;NOM	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-704
+# text = Idén eddig 2,6 millió áldozatot szedett a gyógyíthatatlan immunbetegség, az AIDS — adta hírül a France 2 televízió az Egészségügyi Világszervezet jelentésére hivatkozva.
+1	Idén	idén	_	_	ADV	_	_	_	_
+2	eddig	eddig	_	_	ADV	_	_	_	_
+3	2,6	2,6	_	_	PSSD;NUM;NOM;SG	_	_	_	_
+4	millió	millió	_	_	PSSD;NUM;NOM;SG	_	_	_	_
+5	áldozatot	áldozat	_	_	PSSD;N;ACC;SG	_	_	_	_
+6	szedett	szed	_	_	PST;INDF;ACT;3;V;IND;FIN;SG	_	_	_	_
+7	a	a	_	_	DET;DEF	_	_	_	_
+8	gyógyíthatatlan	gyógyíthatatlan	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+9	immunbetegség	immunbetegség	_	_	PSSD;NOM;N;SG	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	az	az	_	_	DET;DEF	_	_	_	_
+12	AIDS	AIDS	_	_	PSSD;NOM;N;SG	_	_	_	_
+13	—	—	_	_	_	_	_	_	_
+14	adta	ad	_	_	DEF;PST;ACT;3;V;IND;FIN;SG	_	_	_	_
+15	hírül	hír	_	_	PSSD;FRML;N;SG	_	_	_	_
+16	a	a	_	_	DET;DEF	_	_	_	_
+17	France	France	_	_	PSSD;NOM;PROPN;SG	_	_	_	_
+18	2	2	_	_	PSSD;NOM;PROPN;SG	_	_	_	_
+19	televízió	televízió	_	_	PSSD;NOM;N;SG	_	_	_	_
+20	az	az	_	_	DET;DEF	_	_	_	_
+21	Egészségügyi	Egészségügyi	_	_	PSSD;NOM;PROPN;SG	_	_	_	_
+22	Világszervezet	Világszervezet	_	_	PSSD;NOM;PROPN;SG	_	_	_	_
+23	jelentésére	jelentés	_	_	PSS3S;N;ON+ALL;SG	_	_	_	_
+24	hivatkozva	hivatkozva	_	_	V.CVB;ADV	_	_	_	_
+25	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-857
+# text = Az SPD viszont — legalábbis a közvélemény-kutatások szerint — most ezen az úton jár: tavaly őszi győzelme óta 8 százalékot veszített népszerűségéből, s ha most vasárnap lennének parlamenti választások, csupán a szavazatok 32,5 százalékára számíthatna.
+1	Az	az	_	_	DET;DEF	_	_	_	_
+2	SPD	SPD	_	_	PROPN;SG;NOM	_	_	_	_
+3	viszont	viszont	_	_	CONJ	_	_	_	_
+4	—	—	_	_	_	_	_	_	_
+5	legalábbis	legalábbis	_	_	ADV	_	_	_	_
+6	a	a	_	_	DET;DEF	_	_	_	_
+7	közvélemény-kutatások	közvélemény-kutatás	_	_	NOM;N;PL	_	_	_	_
+8	szerint	szerint	_	_	ADP	_	_	_	_
+9	—	—	_	_	_	_	_	_	_
+10	most	most	_	_	ADV	_	_	_	_
+11	ezen	ez	_	_	ON+ESS;PRO;3;SG	_	_	_	_
+12	az	az	_	_	DET;DEF	_	_	_	_
+13	úton	út	_	_	ON+ESS;SG;N	_	_	_	_
+14	jár	jár	_	_	INDF;ACT;3;V;IND;FIN;SG;PRS	_	_	_	_
+15	:	:	_	_	_	_	_	_	_
+16	tavaly	tavaly	_	_	ADV	_	_	_	_
+17	őszi	őszi	_	_	ADJ;NOM;SG	_	_	_	_
+18	győzelme	győzelem	_	_	PSS3S;NOM;N;SG	_	_	_	_
+19	óta	óta	_	_	ADP	_	_	_	_
+20	8	8	_	_	SG;NUM;NOM	_	_	_	_
+21	százalékot	százalék	_	_	SG;N;ACC	_	_	_	_
+22	veszített	veszít	_	_	PST;INDF;ACT;3;V;IND;FIN;SG	_	_	_	_
+23	népszerűségéből	népszerűség	_	_	PSS3S;N;IN+ABL;SG	_	_	_	_
+24	,	,	_	_	_	_	_	_	_
+25	s	s	_	_	CONJ	_	_	_	_
+26	ha	ha	_	_	CONJ	_	_	_	_
+27	most	most	_	_	ADV	_	_	_	_
+28	vasárnap	vasárnap	_	_	ADV	_	_	_	_
+29	lennének	lesz	_	_	INDF;COND;ACT;3;V;PL;FIN;PRS	_	_	_	_
+30	parlamenti	parlamenti	_	_	ADJ;NOM;SG	_	_	_	_
+31	választások	választás	_	_	NOM;N;PL	_	_	_	_
+32	,	,	_	_	_	_	_	_	_
+33	csupán	csupán	_	_	ADV	_	_	_	_
+34	a	a	_	_	DET;DEF	_	_	_	_
+35	szavazatok	szavazat	_	_	NOM;N;PL	_	_	_	_
+36	32,5	32,5	_	_	SG;NUM;NOM	_	_	_	_
+37	százalékára	százalék	_	_	PSS3S;N;ON+ALL;SG	_	_	_	_
+38	számíthatna	számíthat	_	_	INDF;ACT;3;V;{COND/POT};FIN;SG;PRS	_	_	_	_
+39	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-406
+# text = De eddig inkább vitte, mint hozta a pénzt a Gazprom által 1996 óta felépített médiabirodalom is, amelynek éppúgy része az NTV tévétársaság — a részvények 30 százaléka a gázipari cégé —, mint a Tribuna és Trud nevű moszkvai napilap vagy a több tucat egyéb regionális tömegtájékoztatási eszköz.
+1	De	de	_	_	CONJ	_	_	_	_
+2	eddig	eddig	_	_	ADV	_	_	_	_
+3	inkább	inkább	_	_	CMPR;ADV	_	_	_	_
+4	vitte	visz	_	_	FIN;3;SG;IND;DEF;PST;V;ACT	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	mint	mint	_	_	CONJ	_	_	_	_
+7	hozta	hoz	_	_	FIN;3;SG;V;IND;DEF;PST;ACT	_	_	_	_
+8	a	a	_	_	DEF;DET	_	_	_	_
+9	pénzt	pénz	_	_	N;ACC;SG	_	_	_	_
+10	a	a	_	_	DEF;DET	_	_	_	_
+11	Gazprom	Gazprom	_	_	PROPN;NOM;SG	_	_	_	_
+12	által	által	_	_	ADP	_	_	_	_
+13	1996	1996	_	_	NUM;NOM;SG	_	_	_	_
+14	óta	óta	_	_	ADP	_	_	_	_
+15	felépített	felépített	_	_	SG;ADJ;NOM	_	_	_	_
+16	médiabirodalom	médiabirodalom	_	_	N;NOM;SG	_	_	_	_
+17	is	is	_	_	CONJ	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	amelynek	amely	_	_	PRO;GEN;3;SG	_	_	_	_
+20	éppúgy	éppúgy	_	_	ADV	_	_	_	_
+21	része	rész	_	_	PSS3S;SG;N;NOM	_	_	_	_
+22	az	az	_	_	DEF;DET	_	_	_	_
+23	NTV	NTV	_	_	PROPN;NOM;SG	_	_	_	_
+24	tévétársaság	tévétársaság	_	_	N;NOM;SG	_	_	_	_
+25	—	—	_	_	_	_	_	_	_
+26	a	a	_	_	DEF;DET	_	_	_	_
+27	részvények	részvény	_	_	N;NOM;PL	_	_	_	_
+28	30	30	_	_	NUM;NOM;SG	_	_	_	_
+29	százaléka	százalék	_	_	PSS3S;SG;N;NOM	_	_	_	_
+30	a	a	_	_	DEF;DET	_	_	_	_
+31	gázipari	gázipari	_	_	ADJ;NOM;SG	_	_	_	_
+32	cégé	cég	_	_	N;NOM;SG	_	_	_	_
+33	—	—	_	_	_	_	_	_	_
+34	,	,	_	_	_	_	_	_	_
+35	mint	mint	_	_	CONJ	_	_	_	_
+36	a	a	_	_	DEF;DET	_	_	_	_
+37	Tribuna	Tribuna	_	_	PROPN;NOM;SG	_	_	_	_
+38	és	és	_	_	CONJ	_	_	_	_
+39	Trud	Trud	_	_	PROPN;NOM;SG	_	_	_	_
+40	nevű	nevű	_	_	ADJ;NOM;SG	_	_	_	_
+41	moszkvai	moszkvai	_	_	ADJ;NOM;SG	_	_	_	_
+42	napilap	napilap	_	_	N;NOM;SG	_	_	_	_
+43	vagy	vagy	_	_	CONJ	_	_	_	_
+44	a	a	_	_	DEF;DET	_	_	_	_
+45	több	több	_	_	NUM;NOM;SG	_	_	_	_
+46	tucat	tucat	_	_	N;NOM;SG	_	_	_	_
+47	egyéb	egyéb	_	_	PRO;3;SG;NOM	_	_	_	_
+48	regionális	regionális	_	_	ADJ;NOM;SG	_	_	_	_
+49	tömegtájékoztatási	tömegtájékoztatási	_	_	ADJ;NOM;SG	_	_	_	_
+50	eszköz	eszköz	_	_	N;NOM;SG	_	_	_	_
+51	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-902
+# text = A Szerb Tudományos Akadémia több neves tudósa által három évvel ezelőtt kidolgozott terv akkor azonnal lekerült a napirendről, ám most Momcsilo Trajkovics, a koszovói Szerb Ellenállási Mozgalom vezetője azt javasolta a koszovói nemzeti közösségek és az ENSZ képviselőiből álló Átmeneti Tanács ülésén, hogy a tartományt osszák három vagy öt kantonra.
+1	A	a	_	_	DET;DEF	_	_	_	_
+2	Szerb	Szerb	_	_	PROPN;SG;NOM	_	_	_	_
+3	Tudományos	Tudományos	_	_	PROPN;SG;NOM	_	_	_	_
+4	Akadémia	Akadémia	_	_	PROPN;SG;NOM	_	_	_	_
+5	több	több	_	_	SG;NUM;NOM	_	_	_	_
+6	neves	neves	_	_	ADJ;NOM;SG	_	_	_	_
+7	tudósa	tudós	_	_	PSS3S;NOM;N;SG	_	_	_	_
+8	által	által	_	_	ADP	_	_	_	_
+9	három	három	_	_	SG;NUM;NOM	_	_	_	_
+10	évvel	év	_	_	SG;N;INS	_	_	_	_
+11	ezelőtt	ezelőtt	_	_	ADP	_	_	_	_
+12	kidolgozott	kidolgozott	_	_	ADJ;NOM;SG	_	_	_	_
+13	terv	terv	_	_	SG;NOM;N	_	_	_	_
+14	akkor	akkor	_	_	ADV	_	_	_	_
+15	azonnal	azonnal	_	_	ADV	_	_	_	_
+16	lekerült	lekerül	_	_	PST;INDF;ACT;3;V;IND;FIN;SG	_	_	_	_
+17	a	a	_	_	DET;DEF	_	_	_	_
+18	napirendről	napirend	_	_	SG;N	_	_	_	_
+19	,	,	_	_	_	_	_	_	_
+20	ám	ám	_	_	CONJ	_	_	_	_
+21	most	most	_	_	ADV	_	_	_	_
+22	Momcsilo	Momcsilo	_	_	PROPN;SG;NOM	_	_	_	_
+23	Trajkovics	Trajkovics	_	_	PROPN;SG;NOM	_	_	_	_
+24	,	,	_	_	_	_	_	_	_
+25	a	a	_	_	DET;DEF	_	_	_	_
+26	koszovói	koszovói	_	_	ADJ;NOM;SG	_	_	_	_
+27	Szerb	Szerb	_	_	PROPN;SG;NOM	_	_	_	_
+28	Ellenállási	Ellenállási	_	_	PROPN;SG;NOM	_	_	_	_
+29	Mozgalom	Mozgalom	_	_	PROPN;SG;NOM	_	_	_	_
+30	vezetője	vezető	_	_	PSS3S;NOM;N;SG	_	_	_	_
+31	azt	az	_	_	PRO;3;ACC;SG	_	_	_	_
+32	javasolta	javasol	_	_	DEF;PST;ACT;3;V;IND;FIN;SG	_	_	_	_
+33	a	a	_	_	DET;DEF	_	_	_	_
+34	koszovói	koszovói	_	_	ADJ;NOM;SG	_	_	_	_
+35	nemzeti	nemzeti	_	_	ADJ;NOM;SG	_	_	_	_
+36	közösségek	közösség	_	_	NOM;N;PL	_	_	_	_
+37	és	és	_	_	CONJ	_	_	_	_
+38	az	az	_	_	DET;DEF	_	_	_	_
+39	ENSZ	ENSZ	_	_	PROPN;SG;NOM	_	_	_	_
+40	képviselőiből	képviselő	_	_	PSS3S;N;IN+ABL;PL	_	_	_	_
+41	álló	álló	_	_	NOM;ADJ;SG	_	_	_	_
+42	Átmeneti	Átmeneti	_	_	PROPN;SG;NOM	_	_	_	_
+43	Tanács	Tanács	_	_	PROPN;SG;NOM	_	_	_	_
+44	ülésén	ülés	_	_	PSS3S;ON+ESS;N;SG	_	_	_	_
+45	,	,	_	_	_	_	_	_	_
+46	hogy	hogy	_	_	CONJ	_	_	_	_
+47	a	a	_	_	DET;DEF	_	_	_	_
+48	tartományt	tartomány	_	_	SG;N;ACC	_	_	_	_
+49	osszák	oszt	_	_	DEF;ACT;IMP;3;V;PL;FIN;PRS	_	_	_	_
+50	három	három	_	_	SG;NUM;NOM	_	_	_	_
+51	vagy	vagy	_	_	CONJ	_	_	_	_
+52	öt	öt	_	_	SG;NUM;NOM	_	_	_	_
+53	kantonra	kanton	_	_	ON+ALL;SG;N	_	_	_	_
+54	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-344
+# text = A mélységbe pedig most kellene belebámulni ahhoz, hogy később bele name szédüljön az ember.
+1	A	a	_	_	DET;DEF	_	_	_	_
+2	mélységbe	mélység	_	_	PSSD;N;IN+ALL;SG	_	_	_	_
+3	pedig	pedig	_	_	CONJ	_	_	_	_
+4	most	most	_	_	ADV	_	_	_	_
+5	kellene	kell	_	_	INDF;COND;ACT;3;V;FIN;SG;PRS	_	_	_	_
+6	belebámulni	bele+bámul	_	_	V;NFIN;ACT	_	_	_	_
+7	ahhoz	az	_	_	PSSD;PRO;3;AT+ALL;SG	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	hogy	hogy	_	_	CONJ	_	_	_	_
+10	később	későn	_	_	ADV	_	_	_	_
+11	bele	ő	_	_	PSSD;PRO;3;IN+ALL;SG	_	_	_	_
+12	name	ne	_	_	ADV	_	_	_	_
+13	szédüljön	szédül	_	_	INDF;ACT;IMP;3;V;FIN;SG;PRS	_	_	_	_
+14	az	az	_	_	DET;DEF	_	_	_	_
+15	ember	ember	_	_	PSSD;NOM;N;SG	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-453
+# text = A judaika-árverés szervezői azt remélik, hogy ez az újfajta, tematikus aukció új színfoltot hoz az őszi árverési dömpingbe, és új távlatokat nyit a gyűjtők előtt.
+1	A	a	_	_	DET;DEF	_	_	_	_
+2	judaika-árverés	judaika-árverés	_	_	PSSD;NOM;N;SG	_	_	_	_
+3	szervezői	szervező	_	_	PSS3S;NOM;N;PL	_	_	_	_
+4	azt	az	_	_	PSSD;PRO;3;ACC;SG	_	_	_	_
+5	remélik	remél	_	_	DEF;ACT;3;V;IND;PL;FIN;PRS	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	hogy	hogy	_	_	CONJ	_	_	_	_
+8	ez	ez	_	_	PSSD;DET;NOM;3;SG	_	_	_	_
+9	az	az	_	_	DET;DEF	_	_	_	_
+10	újfajta	újfajta	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	tematikus	tematikus	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+13	aukció	aukció	_	_	PSSD;NOM;N;SG	_	_	_	_
+14	új	új	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+15	színfoltot	színfolt	_	_	PSSD;N;ACC;SG	_	_	_	_
+16	hoz	hoz	_	_	INDF;ACT;3;V;IND;FIN;SG;PRS	_	_	_	_
+17	az	az	_	_	DET;DEF	_	_	_	_
+18	őszi	őszi	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+19	árverési	árverési	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+20	dömpingbe	dömping	_	_	PSSD;N;IN+ALL;SG	_	_	_	_
+21	,	,	_	_	_	_	_	_	_
+22	és	és	_	_	CONJ	_	_	_	_
+23	új	új	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+24	távlatokat	távlat	_	_	PSSD;N;PL;ACC	_	_	_	_
+25	nyit	nyit	_	_	INDF;ACT;3;V;IND;FIN;SG;PRS	_	_	_	_
+26	a	a	_	_	DET;DEF	_	_	_	_
+27	gyűjtők	gyűjtő	_	_	PSSD;NOM;N;PL	_	_	_	_
+28	előtt	előtt	_	_	ADP	_	_	_	_
+29	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-729
+# text = Az egyesület alapítója és elnöke a Németországból az 1990-es évek elején hazatért gróf Nyáry János, aki most Csapody Miklós MDF-es képviselővel közösen arra készül, hogy hatályon kívül helyeztetik az 1947-es 4. törvényt, amely a nemesi rangok és címek eltörléséről szól.
+1	Az	az	_	_	DET;DEF	_	_	_	_
+2	egyesület	egyesület	_	_	SG;NOM;N	_	_	_	_
+3	alapítója	alapító	_	_	PSS3S;NOM;N;SG	_	_	_	_
+4	és	és	_	_	CONJ	_	_	_	_
+5	elnöke	elnök	_	_	PSS3S;NOM;N;SG	_	_	_	_
+6	a	a	_	_	DET;DEF	_	_	_	_
+7	Németországból	Németország	_	_	PROPN;SG;IN+ABL	_	_	_	_
+8	az	az	_	_	DET;DEF	_	_	_	_
+9	1990-es	1990-es	_	_	ADJ;NOM;SG	_	_	_	_
+10	évek	év	_	_	NOM;N;PL	_	_	_	_
+11	elején	eleje	_	_	PSS3S;ON+ESS;N;SG	_	_	_	_
+12	hazatért	hazatért	_	_	NOM;ADJ;SG	_	_	_	_
+13	gróf	gróf	_	_	SG;NOM;N	_	_	_	_
+14	Nyáry	Nyáry	_	_	PROPN;SG;NOM	_	_	_	_
+15	János	János	_	_	PROPN;SG;NOM	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	aki	aki	_	_	NOM;PRO;3;SG	_	_	_	_
+18	most	most	_	_	ADV	_	_	_	_
+19	Csapody	Csapody	_	_	PROPN;SG;NOM	_	_	_	_
+20	Miklós	Miklós	_	_	PROPN;SG;NOM	_	_	_	_
+21	MDF-es	MDF-es	_	_	ADJ;NOM;SG	_	_	_	_
+22	képviselővel	képviselő	_	_	SG;N;INS	_	_	_	_
+23	közösen	közös	_	_	ADJ;SG;FRML	_	_	_	_
+24	arra	az	_	_	PRO;3;ON+ALL;SG	_	_	_	_
+25	készül	készül	_	_	INDF;ACT;3;V;IND;FIN;SG;PRS	_	_	_	_
+26	,	,	_	_	_	_	_	_	_
+27	hogy	hogy	_	_	CONJ	_	_	_	_
+28	hatályon	hatály	_	_	ON+ESS;SG;N	_	_	_	_
+29	kívül	kívül	_	_	ADP	_	_	_	_
+30	helyeztetik	helyeztet	_	_	DEF;CAUS;3;V;IND;PL;FIN;PRS	_	_	_	_
+31	az	az	_	_	DET;DEF	_	_	_	_
+32	1947-es	1947-es	_	_	ADJ;NOM;SG	_	_	_	_
+33	4.	4.	_	_	ADJ;NOM;SG	_	_	_	_
+34	törvényt	törvény	_	_	SG;N;ACC	_	_	_	_
+35	,	,	_	_	_	_	_	_	_
+36	amely	amely	_	_	NOM;PRO;3;SG	_	_	_	_
+37	a	a	_	_	DET;DEF	_	_	_	_
+38	nemesi	nemesi	_	_	ADJ;NOM;SG	_	_	_	_
+39	rangok	rang	_	_	NOM;N;PL	_	_	_	_
+40	és	és	_	_	CONJ	_	_	_	_
+41	címek	cím	_	_	NOM;N;PL	_	_	_	_
+42	eltörléséről	eltörlés	_	_	PSS3S;N;SG	_	_	_	_
+43	szól	szól	_	_	INDF;ACT;3;V;IND;FIN;SG;PRS	_	_	_	_
+44	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-108
+# text = Berzi Sándor, az MLSZ főtitkára arról tájékoztatott, hogy a válogatottat június első hetében meghívták Luxemburgba, egy nemzetközi tornára.
+1	Berzi	Berzi	_	_	PSSD;SG;PROPN;NOM	_	_	_	_
+2	Sándor	Sándor	_	_	PSSD;SG;PROPN;NOM	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	az	az	_	_	DEF;DET	_	_	_	_
+5	MLSZ	MLSZ	_	_	PSSD;SG;PROPN;NOM	_	_	_	_
+6	főtitkára	főtitkár	_	_	PSS3S;SG;N;NOM	_	_	_	_
+7	arról	az	_	_	PSSD;PRO;3;SG	_	_	_	_
+8	tájékoztatott	tájékozódik	_	_	FIN;3;INDF;SG;IND;PST;CAUS;V	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	hogy	hogy	_	_	CONJ	_	_	_	_
+11	a	a	_	_	DEF;DET	_	_	_	_
+12	válogatottat	válogatott	_	_	PSSD;SG;N;ACC	_	_	_	_
+13	június	június	_	_	PSSD;SG;N;NOM	_	_	_	_
+14	első	első	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+15	hetében	hét	_	_	PSS3S;IN+ESS;SG;N	_	_	_	_
+16	meghívták	meg+hív	_	_	FIN;3;IND;DEF;PST;PL;V;ACT	_	_	_	_
+17	Luxemburgba	Luxemburg	_	_	PSSD;SG;IN+ALL;PROPN	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	egy	egy	_	_	INDF;DET	_	_	_	_
+20	nemzetközi	nemzetközi	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+21	tornára	torna	_	_	PSSD;ON+ALL;SG;N	_	_	_	_
+22	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-510
+# text = — Hová akar eljutni művészként?
+1	—	—	_	_	_	_	_	_	_
+2	Hová	hová	_	_	ADV	_	_	_	_
+3	akar	akar	_	_	INDF;ACT;3;V;IND;FIN;SG;PRS	_	_	_	_
+4	eljutni	el+jut	_	_	V;NFIN;ACT	_	_	_	_
+5	művészként	művész	_	_	PSSD;ABS;N;SG	_	_	_	_
+6	?	?	_	_	_	_	_	_	_
+
+# sent_id = dev-310
+# text = Miközben 1995 tavaszán például 110, most hasonló időszak alatt csak 82 ellenzéki interpelláció hangzott el a Házban a HVG számítása szerint, igaz, a kormánypárti interpellációk száma az előző ciklus második fél évéhez képest tizenötszörösére (3-ról 47-re) emelkedett.
+1	Miközben	miközben	_	_	ADV	_	_	_	_
+2	1995	1995	_	_	SG;NOM;NUM	_	_	_	_
+3	tavaszán	tavasz	_	_	PSS3S;SG;ON+ESS;N	_	_	_	_
+4	például	például	_	_	ADV	_	_	_	_
+5	110	110	_	_	SG;NOM;NUM	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	most	most	_	_	ADV	_	_	_	_
+8	hasonló	hasonló	_	_	NOM;ADJ;SG	_	_	_	_
+9	időszak	időszak	_	_	SG;NOM;N	_	_	_	_
+10	alatt	alatt	_	_	ADP	_	_	_	_
+11	csak	csak	_	_	ADV	_	_	_	_
+12	82	82	_	_	SG;NOM;NUM	_	_	_	_
+13	ellenzéki	ellenzéki	_	_	NOM;ADJ;SG	_	_	_	_
+14	interpelláció	interpelláció	_	_	SG;NOM;N	_	_	_	_
+15	hangzott	hangzik	_	_	SG;3;FIN;INDF;V;PST;ACT;IND	_	_	_	_
+16	el	el	_	_	ADV	_	_	_	_
+17	a	a	_	_	DET;DEF	_	_	_	_
+18	Házban	Ház	_	_	SG;IN+ESS;PROPN	_	_	_	_
+19	a	a	_	_	DET;DEF	_	_	_	_
+20	HVG	HVG	_	_	SG;NOM;PROPN	_	_	_	_
+21	számítása	számítás	_	_	PSS3S;SG;N;NOM	_	_	_	_
+22	szerint	szerint	_	_	ADP	_	_	_	_
+23	,	,	_	_	_	_	_	_	_
+24	igaz	igaz	_	_	NOM;ADJ;SG	_	_	_	_
+25	,	,	_	_	_	_	_	_	_
+26	a	a	_	_	DET;DEF	_	_	_	_
+27	kormánypárti	kormánypárti	_	_	NOM;ADJ;SG	_	_	_	_
+28	interpellációk	interpelláció	_	_	NOM;N;PL	_	_	_	_
+29	száma	szám	_	_	PSS3S;SG;N;NOM	_	_	_	_
+30	az	az	_	_	DET;DEF	_	_	_	_
+31	előző	előző	_	_	SG;ADJ;NOM	_	_	_	_
+32	ciklus	ciklus	_	_	SG;NOM;N	_	_	_	_
+33	második	második	_	_	SG;NOM;ADJ	_	_	_	_
+34	fél	fél	_	_	SG;NOM;NUM	_	_	_	_
+35	évéhez	év	_	_	PSS3S;SG;N;AT+ALL	_	_	_	_
+36	képest	képest	_	_	ADP	_	_	_	_
+37	tizenötszörösére	tizenötszörös	_	_	PSS3S;SG;ADJ;ON+ALL	_	_	_	_
+38	(	(	_	_	_	_	_	_	_
+39	3-ról	3	_	_	SG;NUM	_	_	_	_
+40	47-re	47	_	_	SG;ON+ALL;NUM	_	_	_	_
+41	)	)	_	_	_	_	_	_	_
+42	emelkedett	emelkedik	_	_	SG;3;FIN;INDF;V;PST;ACT;IND	_	_	_	_
+43	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-186
+# text = Az új magyar csúcsot érő koloncot is már megingathatatlan technikai biztonsággal röpítette a feje fölé, a honi női súlyemelés harmadik vb-aranyát produkálva ezzel a korábbi összetett világbajnok Takács Erika, és a szintén szakításban világelső Dankó Ilona után.
+1	Az	az	_	_	DEF;DET	_	_	_	_
+2	új	új	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+3	magyar	magyar	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+4	csúcsot	csúcs	_	_	PSSD;SG;N;ACC	_	_	_	_
+5	érő	érő	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+6	koloncot	kolonc	_	_	PSSD;SG;N;ACC	_	_	_	_
+7	is	is	_	_	CONJ	_	_	_	_
+8	már	már	_	_	ADV	_	_	_	_
+9	megingathatatlan	megingathatatlan	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+10	technikai	technikai	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+11	biztonsággal	biztonság	_	_	PSSD;SG;N;INS	_	_	_	_
+12	röpítette	röpít	_	_	FIN;3;SG;IND;DEF;PST;V;ACT	_	_	_	_
+13	a	a	_	_	DEF;DET	_	_	_	_
+14	feje	fej	_	_	PSS3S;SG;N;NOM	_	_	_	_
+15	fölé	fölé	_	_	ADP	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	a	a	_	_	DEF;DET	_	_	_	_
+18	honi	honi	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+19	női	női	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+20	súlyemelés	súlyemelés	_	_	PSSD;SG;N;NOM	_	_	_	_
+21	harmadik	harmadik	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+22	vb-aranyát	vb-arany	_	_	PSS3S;SG;N;ACC	_	_	_	_
+23	produkálva	produkálva	_	_	V.CVB;ADV	_	_	_	_
+24	ezzel	ez	_	_	PSSD;PRO;3;SG;INS	_	_	_	_
+25	a	a	_	_	DEF;DET	_	_	_	_
+26	korábbi	korábbi	_	_	PSSD;CMPR;SG;ADJ;NOM	_	_	_	_
+27	összetett	összetett	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+28	világbajnok	világbajnok	_	_	PSSD;SG;N;NOM	_	_	_	_
+29	Takács	Takács	_	_	PSSD;SG;PROPN;NOM	_	_	_	_
+30	Erika	Erika	_	_	PSSD;SG;PROPN;NOM	_	_	_	_
+31	,	,	_	_	_	_	_	_	_
+32	és	és	_	_	CONJ	_	_	_	_
+33	a	a	_	_	DEF;DET	_	_	_	_
+34	szintén	szintén	_	_	CONJ	_	_	_	_
+35	szakításban	szakítás	_	_	PSSD;IN+ESS;SG;N	_	_	_	_
+36	világelső	világelső	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+37	Dankó	Dankó	_	_	PSSD;SG;PROPN;NOM	_	_	_	_
+38	Ilona	Ilona	_	_	PSSD;SG;PROPN;NOM	_	_	_	_
+39	után	után	_	_	ADP	_	_	_	_
+40	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-590
+# text = Állták a szavukat: a szerződés ratifikálása után a szlovák aranykincs várhatóan a jövő év elején, azt követően kerülhet Pozsonyba, hogyha az egyezményt már a két parlament is ratifikálta.
+1	Állták	áll	_	_	DEF;PST;ACT;3;V;IND;PL;FIN	_	_	_	_
+2	a	a	_	_	DET;DEF	_	_	_	_
+3	szavukat	szó	_	_	PSS3P;N;ACC;SG	_	_	_	_
+4	:	:	_	_	_	_	_	_	_
+5	a	a	_	_	DET;DEF	_	_	_	_
+6	szerződés	szerződés	_	_	PSSD;NOM;N;SG	_	_	_	_
+7	ratifikálása	ratifikálás	_	_	PSS3S;NOM;N;SG	_	_	_	_
+8	után	után	_	_	ADP	_	_	_	_
+9	a	a	_	_	DET;DEF	_	_	_	_
+10	szlovák	szlovák	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+11	aranykincs	aranykincs	_	_	PSSD;NOM;N;SG	_	_	_	_
+12	várhatóan	várható	_	_	PSSD;FRML;ADJ;SG	_	_	_	_
+13	a	a	_	_	DET;DEF	_	_	_	_
+14	jövő	jövő	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+15	év	év	_	_	PSSD;NOM;N;SG	_	_	_	_
+16	elején	eleje	_	_	PSS3S;ON+ESS;N;SG	_	_	_	_
+17	,	,	_	_	_	_	_	_	_
+18	azt	az	_	_	PSSD;PRO;3;ACC;SG	_	_	_	_
+19	követően	követő	_	_	PSSD;FRML;ADJ;SG	_	_	_	_
+20	kerülhet	kerül	_	_	INDF;ACT;3;V;POT;FIN;SG;PRS	_	_	_	_
+21	Pozsonyba	Pozsony	_	_	PSSD;PROPN;IN+ALL;SG	_	_	_	_
+22	,	,	_	_	_	_	_	_	_
+23	hogyha	hogyha	_	_	CONJ	_	_	_	_
+24	az	az	_	_	DET;DEF	_	_	_	_
+25	egyezményt	egyezmény	_	_	PSSD;N;ACC;SG	_	_	_	_
+26	már	már	_	_	ADV	_	_	_	_
+27	a	a	_	_	DET;DEF	_	_	_	_
+28	két	két	_	_	PSSD;NUM;NOM;SG	_	_	_	_
+29	parlament	parlament	_	_	PSSD;NOM;N;SG	_	_	_	_
+30	is	is	_	_	CONJ	_	_	_	_
+31	ratifikálta	ratifikál	_	_	DEF;PST;ACT;3;V;IND;FIN;SG	_	_	_	_
+32	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-68
+# text = A fővároshoz közeli kisvárosokban, községekben élőknek azonban alighanem újdonság, hogy ezúttal vagy fél napon át ki sem mozdulhattak otthonukból.
+1	A	a	_	_	DET;DEF	_	_	_	_
+2	fővároshoz	főváros	_	_	PSSD;N;AT+ALL;SG	_	_	_	_
+3	közeli	közeli	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+4	kisvárosokban	kisváros	_	_	PSSD;IN+ESS;N;PL	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	községekben	község	_	_	PSSD;IN+ESS;N;PL	_	_	_	_
+7	élőknek	élő	_	_	PSSD;PL;ADJ;DAT	_	_	_	_
+8	azonban	azonban	_	_	CONJ	_	_	_	_
+9	alighanem	alighanem	_	_	ADV	_	_	_	_
+10	újdonság	újdonság	_	_	PSSD;NOM;N;SG	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	hogy	hogy	_	_	CONJ	_	_	_	_
+13	ezúttal	ezúttal	_	_	ADV	_	_	_	_
+14	vagy	vagy	_	_	ADV	_	_	_	_
+15	fél	fél	_	_	PSSD;NUM;NOM;SG	_	_	_	_
+16	napon	nap	_	_	PSSD;ON+ESS;N;SG	_	_	_	_
+17	át	át	_	_	ADP	_	_	_	_
+18	ki	ki	_	_	ADV	_	_	_	_
+19	sem	sem	_	_	ADV	_	_	_	_
+20	mozdulhattak	mozdul	_	_	PST;INDF;ACT;3;V;POT;PL;FIN	_	_	_	_
+21	otthonukból	otthon	_	_	PSS3P;N;IN+ABL;SG	_	_	_	_
+22	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-279
+# text = A hajóról történt kirakodás után lopták el a tévéket, a homokot pedig azért töltötték a helyükre, hogy a súlyhiány name tűnjön fel.
+1	A	a	_	_	DEF;DET	_	_	_	_
+2	hajóról	hajó	_	_	PSSD;SG;N	_	_	_	_
+3	történt	történt	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+4	kirakodás	kirakodás	_	_	PSSD;SG;N;NOM	_	_	_	_
+5	után	után	_	_	ADP	_	_	_	_
+6	lopták	lop	_	_	FIN;3;IND;DEF;PST;PL;V;ACT	_	_	_	_
+7	el	el	_	_	ADV	_	_	_	_
+8	a	a	_	_	DEF;DET	_	_	_	_
+9	tévéket	tévé	_	_	PSSD;N;PL;ACC	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	a	a	_	_	DEF;DET	_	_	_	_
+12	homokot	homok	_	_	PSSD;SG;N;ACC	_	_	_	_
+13	pedig	pedig	_	_	CONJ	_	_	_	_
+14	azért	az	_	_	PSSD;PRO;3;SG	_	_	_	_
+15	töltötték	tölt	_	_	FIN;3;IND;DEF;PST;PL;V;ACT	_	_	_	_
+16	a	a	_	_	DEF;DET	_	_	_	_
+17	helyükre	hely	_	_	PSS3P;ON+ALL;SG;N	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	hogy	hogy	_	_	CONJ	_	_	_	_
+20	a	a	_	_	DEF;DET	_	_	_	_
+21	súlyhiány	súlyhiány	_	_	PSSD;SG;N;NOM	_	_	_	_
+22	name	ne	_	_	ADV	_	_	_	_
+23	tűnjön	tűnik	_	_	FIN;3;INDF;SG;PRS;V;IMP;ACT	_	_	_	_
+24	fel	fel	_	_	ADV	_	_	_	_
+25	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-449
+# text = A kegytárgyak, műtárgyak sajátos szépsége és történeti értéke mellett az anyag finomsága és a megformálás egyedisége is megragadhatja az érdeklődőket.
+1	A	a	_	_	DET;DEF	_	_	_	_
+2	kegytárgyak	kegytárgy	_	_	PSSD;NOM;N;PL	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	műtárgyak	műtárgy	_	_	PSSD;NOM;N;PL	_	_	_	_
+5	sajátos	sajátos	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+6	szépsége	szépség	_	_	PSS3S;NOM;N;SG	_	_	_	_
+7	és	és	_	_	CONJ	_	_	_	_
+8	történeti	történeti	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+9	értéke	érték	_	_	PSS3S;NOM;N;SG	_	_	_	_
+10	mellett	mellett	_	_	ADP	_	_	_	_
+11	az	az	_	_	DET;DEF	_	_	_	_
+12	anyag	anyag	_	_	PSSD;NOM;N;SG	_	_	_	_
+13	finomsága	finomság	_	_	PSS3S;NOM;N;SG	_	_	_	_
+14	és	és	_	_	CONJ	_	_	_	_
+15	a	a	_	_	DET;DEF	_	_	_	_
+16	megformálás	megformálás	_	_	PSSD;NOM;N;SG	_	_	_	_
+17	egyedisége	egyediség	_	_	PSS3S;NOM;N;SG	_	_	_	_
+18	is	is	_	_	CONJ	_	_	_	_
+19	megragadhatja	meg+ragad	_	_	DEF;ACT;3;V;POT;FIN;SG;PRS	_	_	_	_
+20	az	az	_	_	DET;DEF	_	_	_	_
+21	érdeklődőket	érdeklődő	_	_	PSSD;N;PL;ACC	_	_	_	_
+22	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-673
+# text = A Maticni utcai "etnikai elválasztófal" megszüntetéséről kedden hozott döntést Ústi nad Labem városi tanácsa.
+1	A	a	_	_	DET;DEF	_	_	_	_
+2	Maticni	Maticni	_	_	PSSD;NOM;PROPN;SG	_	_	_	_
+3	utcai	utcai	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+4	"	"	_	_	_	_	_	_	_
+5	etnikai	etnikai	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+6	elválasztófal	elválasztófal	_	_	PSSD;NOM;N;SG	_	_	_	_
+7	"	"	_	_	_	_	_	_	_
+8	megszüntetéséről	megszüntetés	_	_	PSS3S;N;SG	_	_	_	_
+9	kedden	kedd	_	_	PSSD;ON+ESS;N;SG	_	_	_	_
+10	hozott	hoz	_	_	PST;INDF;ACT;3;V;IND;FIN;SG	_	_	_	_
+11	döntést	döntés	_	_	PSSD;N;ACC;SG	_	_	_	_
+12	Ústi	Ústi	_	_	PSSD;NOM;PROPN;SG	_	_	_	_
+13	nad	nad	_	_	PSSD;NOM;PROPN;SG	_	_	_	_
+14	Labem	Labem	_	_	PSSD;NOM;PROPN;SG	_	_	_	_
+15	városi	városi	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+16	tanácsa	tanács	_	_	PSS3S;NOM;N;SG	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-347
+# text = Így szólt egy rádiókritika az 1949. október 18-i Carmen-előadás Moraleséről, Melis György első operaházi fellépéséről.
+1	Így	így	_	_	ADV	_	_	_	_
+2	szólt	szól	_	_	PST;INDF;ACT;3;V;IND;FIN;SG	_	_	_	_
+3	egy	egy	_	_	DET;INDF	_	_	_	_
+4	rádiókritika	rádiókritika	_	_	PSSD;NOM;N;SG	_	_	_	_
+5	az	az	_	_	DET;DEF	_	_	_	_
+6	1949.	1949.	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+7	október	október	_	_	PSSD;NOM;N;SG	_	_	_	_
+8	18-i	18-i	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+9	Carmen-előadás	Carmen-előadás	_	_	PSSD;NOM;N;SG	_	_	_	_
+10	Moraleséről	Morales	_	_	PSS3S;PROPN;SG	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	Melis	Melis	_	_	PSSD;NOM;PROPN;SG	_	_	_	_
+13	György	György	_	_	PSSD;NOM;PROPN;SG	_	_	_	_
+14	első	első	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+15	operaházi	operaházi	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+16	fellépéséről	fellépés	_	_	PSS3S;N;SG	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-392
+# text = A tavaly augusztusi pénzügyi válság következményeit súlyosbította, hogy 1998-ban a világpiacon nyomott maradt a szénhidrogének ára.
+1	A	a	_	_	DEF;DET	_	_	_	_
+2	tavaly	tavaly	_	_	ADV	_	_	_	_
+3	augusztusi	augusztusi	_	_	ADJ;NOM;SG	_	_	_	_
+4	pénzügyi	pénzügyi	_	_	ADJ;NOM;SG	_	_	_	_
+5	válság	válság	_	_	N;NOM;SG	_	_	_	_
+6	következményeit	következmény	_	_	PSS3S;N;PL;ACC	_	_	_	_
+7	súlyosbította	súlyosbít	_	_	FIN;3;SG;IND;DEF;PST;V;ACT	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	hogy	hogy	_	_	CONJ	_	_	_	_
+10	1998-ban	1998	_	_	NUM;IN+ESS;SG	_	_	_	_
+11	a	a	_	_	DEF;DET	_	_	_	_
+12	világpiacon	világpiac	_	_	N;ON+ESS;SG	_	_	_	_
+13	nyomott	nyomott	_	_	ADJ;NOM;SG	_	_	_	_
+14	maradt	marad	_	_	FIN;3;INDF;SG;V;IND;PST;ACT	_	_	_	_
+15	a	a	_	_	DEF;DET	_	_	_	_
+16	szénhidrogének	szénhidrogén	_	_	N;NOM;PL	_	_	_	_
+17	ára	ár	_	_	PSS3S;SG;N;NOM	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-14
+# text = A miniszter fel akarja menteni Kovácsot.
+1	A	a	_	_	DET;DEF	_	_	_	_
+2	miniszter	miniszter	_	_	PSSD;SG;N;NOM	_	_	_	_
+3	fel	fel	_	_	ADV	_	_	_	_
+4	akarja	akar	_	_	SG;3;FIN;V;DEF;ACT;PRS;IND	_	_	_	_
+5	menteni	ment	_	_	NFIN;V;ACT	_	_	_	_
+6	Kovácsot	Kovács	_	_	PSSD;SG;ACC;PROPN	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-160
+# text = A hófúvás a MÁV teljes hálózatán fennakadásokat okozott, mindenütt legalább 30 percet késtek a vonatok.
+1	A	a	_	_	DET;DEF	_	_	_	_
+2	hófúvás	hófúvás	_	_	PSSD;NOM;N;SG	_	_	_	_
+3	a	a	_	_	DET;DEF	_	_	_	_
+4	MÁV	MÁV	_	_	PSSD;NOM;PROPN;SG	_	_	_	_
+5	teljes	teljes	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+6	hálózatán	hálózat	_	_	PSS3S;ON+ESS;N;SG	_	_	_	_
+7	fennakadásokat	fennakadás	_	_	PSSD;N;PL;ACC	_	_	_	_
+8	okozott	okoz	_	_	PST;INDF;ACT;3;V;IND;FIN;SG	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	mindenütt	mindenütt	_	_	ADV	_	_	_	_
+11	legalább	legalább	_	_	ADV	_	_	_	_
+12	30	30	_	_	PSSD;NUM;NOM;SG	_	_	_	_
+13	percet	perc	_	_	PSSD;N;ACC;SG	_	_	_	_
+14	késtek	késik	_	_	PST;INDF;ACT;3;V;IND;PL;FIN	_	_	_	_
+15	a	a	_	_	DET;DEF	_	_	_	_
+16	vonatok	vonat	_	_	PSSD;NOM;N;PL	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-278
+# text = A vizsgálat során eddig mindössze annyi derült ki, hogy Ázsiából Budapestre, a csepeli szabadkikötőbe valószínűleg még eredeti tartalommal érkezett a konténer.
+1	A	a	_	_	DEF;DET	_	_	_	_
+2	vizsgálat	vizsgálat	_	_	PSSD;SG;N;NOM	_	_	_	_
+3	során	sor	_	_	PSS3S;SG;N;ON+ESS	_	_	_	_
+4	eddig	eddig	_	_	ADV	_	_	_	_
+5	mindössze	mindössze	_	_	ADV	_	_	_	_
+6	annyi	annyi	_	_	PSSD;PRO;3;SG;NOM	_	_	_	_
+7	derült	derül	_	_	FIN;3;INDF;SG;IND;PST;V;ACT	_	_	_	_
+8	ki	ki	_	_	ADV	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	hogy	hogy	_	_	CONJ	_	_	_	_
+11	Ázsiából	Ázsia	_	_	PSSD;SG;IN+ABL;PROPN	_	_	_	_
+12	Budapestre	Budapest	_	_	PSSD;ON+ALL;SG;PROPN	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	a	a	_	_	DEF;DET	_	_	_	_
+15	csepeli	csepeli	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+16	szabadkikötőbe	szabadkikötő	_	_	PSSD;SG;IN+ALL;N	_	_	_	_
+17	valószínűleg	valószínűleg	_	_	ADV	_	_	_	_
+18	még	még	_	_	ADV	_	_	_	_
+19	eredeti	eredeti	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+20	tartalommal	tartalom	_	_	PSSD;SG;N;INS	_	_	_	_
+21	érkezett	érkezik	_	_	FIN;3;INDF;SG;IND;PST;V;ACT	_	_	_	_
+22	a	a	_	_	DEF;DET	_	_	_	_
+23	konténer	konténer	_	_	PSSD;SG;N;NOM	_	_	_	_
+24	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-92
+# text = A vezető leszállította az utasokat, azután a feldühödött tömeg összetörte a busz reflektorait, de jó néhány ablakát is.
+1	A	a	_	_	DET;DEF	_	_	_	_
+2	vezető	vezető	_	_	PSSD;NOM;N;SG	_	_	_	_
+3	leszállította	le+szállít	_	_	DEF;PST;ACT;3;V;IND;FIN;SG	_	_	_	_
+4	az	az	_	_	DET;DEF	_	_	_	_
+5	utasokat	utas	_	_	PSSD;N;PL;ACC	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	azután	azután	_	_	ADV	_	_	_	_
+8	a	a	_	_	DET;DEF	_	_	_	_
+9	feldühödött	feldühödött	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+10	tömeg	tömeg	_	_	PSSD;NOM;N;SG	_	_	_	_
+11	összetörte	össze+tör	_	_	DEF;PST;ACT;3;V;IND;FIN;SG	_	_	_	_
+12	a	a	_	_	DET;DEF	_	_	_	_
+13	busz	busz	_	_	PSSD;NOM;N;SG	_	_	_	_
+14	reflektorait	reflektor	_	_	PSS3S;N;PL;ACC	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	de	de	_	_	CONJ	_	_	_	_
+17	jó	jó	_	_	ADV	_	_	_	_
+18	néhány	néhány	_	_	DET;INDF	_	_	_	_
+19	ablakát	ablak	_	_	PSS3S;N;ACC;SG	_	_	_	_
+20	is	is	_	_	CONJ	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-301
+# text = A belgyógyász-pszichiátert azonban a jugoszláv nagykövetség invitálta, miáltal nem a magyar, hanem a jugoszláv fogadócsoportban állt.
+1	A	a	_	_	DET;DEF	_	_	_	_
+2	belgyógyász-pszichiátert	belgyógyász-pszichiáter	_	_	PSSD;N;ACC;SG	_	_	_	_
+3	azonban	azonban	_	_	CONJ	_	_	_	_
+4	a	a	_	_	DET;DEF	_	_	_	_
+5	jugoszláv	jugoszláv	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+6	nagykövetség	nagykövetség	_	_	PSSD;NOM;N;SG	_	_	_	_
+7	invitálta	invitál	_	_	DEF;PST;ACT;3;V;IND;FIN;SG	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	miáltal	miáltal	_	_	ADV	_	_	_	_
+10	nem	nem	_	_	ADV	_	_	_	_
+11	a	a	_	_	DET;DEF	_	_	_	_
+12	magyar	magyar	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	hanem	hanem	_	_	CONJ	_	_	_	_
+15	a	a	_	_	DET;DEF	_	_	_	_
+16	jugoszláv	jugoszláv	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+17	fogadócsoportban	fogadócsoport	_	_	PSSD;IN+ESS;N;SG	_	_	_	_
+18	állt	áll	_	_	PST;INDF;ACT;3;V;IND;FIN;SG	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-285
+# text = Pedig egy háborúban — bizonygatta a marsall — minden megesik, lám, őt is el akarják tenni láb alól; a németek nyolcszáz légideszantost küldtek ellene.
+1	Pedig	pedig	_	_	CONJ	_	_	_	_
+2	egy	egy	_	_	DET;INDF	_	_	_	_
+3	háborúban	háború	_	_	PSSD;IN+ESS;N;SG	_	_	_	_
+4	—	—	_	_	_	_	_	_	_
+5	bizonygatta	bizonyít	_	_	DEF;PST;ITER;ACT;3;V;IND;FIN;SG	_	_	_	_
+6	a	a	_	_	DET;DEF	_	_	_	_
+7	marsall	marsall	_	_	PSSD;NOM;N;SG	_	_	_	_
+8	—	—	_	_	_	_	_	_	_
+9	minden	minden	_	_	PSSD;NOM;PRO;3;SG	_	_	_	_
+10	megesik	meg+esik	_	_	INDF;ACT;3;V;IND;FIN;SG;PRS	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	lám	lám	_	_	INTJ	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	őt	ő	_	_	PSSD;PRO;3;ACC;SG	_	_	_	_
+15	is	is	_	_	CONJ	_	_	_	_
+16	el	el	_	_	ADV	_	_	_	_
+17	akarják	akar	_	_	DEF;ACT;3;V;IND;PL;FIN;PRS	_	_	_	_
+18	tenni	tesz	_	_	V;NFIN;ACT	_	_	_	_
+19	láb	láb	_	_	PSSD;NOM;N;SG	_	_	_	_
+20	alól	alól	_	_	ADP	_	_	_	_
+21	;	;	_	_	_	_	_	_	_
+22	a	a	_	_	DET;DEF	_	_	_	_
+23	németek	német	_	_	PSSD;NOM;N;PL	_	_	_	_
+24	nyolcszáz	nyolcszáz	_	_	PSSD;NUM;NOM;SG	_	_	_	_
+25	légideszantost	légideszantos	_	_	PSSD;N;ACC;SG	_	_	_	_
+26	küldtek	küld	_	_	PST;INDF;ACT;3;V;IND;PL;FIN	_	_	_	_
+27	ellene	ellen	_	_	PSSD;NOM;PRO;3;SG	_	_	_	_
+28	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-749
+# text = A tavalyi fideszes győzelem után Simicska megvált gazdasági tisztségeitől.
+1	A	a	_	_	DET;DEF	_	_	_	_
+2	tavalyi	tavalyi	_	_	ADJ;NOM;SG	_	_	_	_
+3	fideszes	fideszes	_	_	ADJ;NOM;SG	_	_	_	_
+4	győzelem	győzelem	_	_	SG;NOM;N	_	_	_	_
+5	után	után	_	_	ADP	_	_	_	_
+6	Simicska	Simicska	_	_	PROPN;SG;NOM	_	_	_	_
+7	megvált	megválik	_	_	PST;INDF;ACT;3;V;IND;FIN;SG	_	_	_	_
+8	gazdasági	gazdasági	_	_	ADJ;NOM;SG	_	_	_	_
+9	tisztségeitől	tisztség	_	_	PSS3S;AT+ABL;N;PL	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-376
+# text = Megy vagy nem megy Vjahirev?
+1	Megy	megy	_	_	FIN;3;INDF;SG;PRS;IND;V;ACT	_	_	_	_
+2	vagy	vagy	_	_	CONJ	_	_	_	_
+3	nem	nem	_	_	ADV	_	_	_	_
+4	megy	megy	_	_	FIN;3;INDF;SG;PRS;IND;V;ACT	_	_	_	_
+5	Vjahirev	Vjahirev	_	_	PROPN;NOM;SG	_	_	_	_
+6	?	?	_	_	_	_	_	_	_
+
+# sent_id = test-254
+# text = A tervek szerint december 16-án sor kerülhet az elsőfokú ítélethirdetésre.
+1	A	a	_	_	DEF;DET	_	_	_	_
+2	tervek	terv	_	_	PSSD;N;PL;NOM	_	_	_	_
+3	szerint	szerint	_	_	ADP	_	_	_	_
+4	december	december	_	_	PSSD;SG;N;NOM	_	_	_	_
+5	16-án	16.	_	_	PSS3S;SG;N;ON+ESS	_	_	_	_
+6	sor	sor	_	_	PSSD;SG;N;NOM	_	_	_	_
+7	kerülhet	kerül	_	_	FIN;POT;3;INDF;SG;PRS;V;ACT	_	_	_	_
+8	az	az	_	_	DEF;DET	_	_	_	_
+9	elsőfokú	elsőfokú	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+10	ítélethirdetésre	ítélethirdetés	_	_	PSSD;ON+ALL;SG;N	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-424
+# text = Ebben az évadban nagyon érdekes feladat volt számomra, hogy Valló Péter két Dosztojevszkij-rendezéséhez komponálhattam muzsikát a Kamaraszínházban, s készülök egy következő bemutatóra is: Kaposváron Réthly Attila színpadra állításában láthatják majd az érdeklődők a Heilbronni Katicát, s ehhez a produkcióhoz is én komponálom a zenét.
+1	Ebben	ez	_	_	PSSD;IN+ESS;DET;3;SG	_	_	_	_
+2	az	az	_	_	DET;DEF	_	_	_	_
+3	évadban	évad	_	_	PSSD;IN+ESS;N;SG	_	_	_	_
+4	nagyon	nagyon	_	_	ADV	_	_	_	_
+5	érdekes	érdekes	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+6	feladat	feladat	_	_	PSSD;NOM;N;SG	_	_	_	_
+7	volt	van	_	_	PST;INDF;ACT;V;3;IND;FIN;SG	_	_	_	_
+8	számomra	számára	_	_	PSSD;NOM;PRO;SG;1	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	hogy	hogy	_	_	CONJ	_	_	_	_
+11	Valló	Valló	_	_	PSSD;NOM;PROPN;SG	_	_	_	_
+12	Péter	Péter	_	_	PSSD;NOM;PROPN;SG	_	_	_	_
+13	két	két	_	_	PSSD;NUM;NOM;SG	_	_	_	_
+14	Dosztojevszkij-rendezéséhez	Dosztojevszkij-rendezés	_	_	PSS3S;N;AT+ALL;SG	_	_	_	_
+15	komponálhattam	komponál	_	_	PST;INDF;ACT;V;POT;FIN;SG;1	_	_	_	_
+16	muzsikát	muzsika	_	_	PSSD;N;ACC;SG	_	_	_	_
+17	a	a	_	_	DET;DEF	_	_	_	_
+18	Kamaraszínházban	Kamaraszínház	_	_	PSSD;IN+ESS;PROPN;SG	_	_	_	_
+19	,	,	_	_	_	_	_	_	_
+20	s	s	_	_	CONJ	_	_	_	_
+21	készülök	készül	_	_	PRS;INDF;ACT;V;IND;FIN;SG;1	_	_	_	_
+22	egy	egy	_	_	DET;INDF	_	_	_	_
+23	következő	következő	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+24	bemutatóra	bemutató	_	_	PSSD;N;ON+ALL;SG	_	_	_	_
+25	is	is	_	_	CONJ	_	_	_	_
+26	:	:	_	_	_	_	_	_	_
+27	Kaposváron	Kaposvár	_	_	PSSD;ON+ESS;PROPN;SG	_	_	_	_
+28	Réthly	Réthly	_	_	PSSD;NOM;PROPN;SG	_	_	_	_
+29	Attila	Attila	_	_	PSSD;NOM;PROPN;SG	_	_	_	_
+30	színpadra	színpad	_	_	PSSD;N;ON+ALL;SG	_	_	_	_
+31	állításában	állítás	_	_	PSS3S;IN+ESS;N;SG	_	_	_	_
+32	láthatják	lát	_	_	DEF;ACT;3;V;POT;PL;FIN;PRS	_	_	_	_
+33	majd	majd	_	_	ADV	_	_	_	_
+34	az	az	_	_	DET;DEF	_	_	_	_
+35	érdeklődők	érdeklődő	_	_	PSSD;NOM;N;PL	_	_	_	_
+36	a	a	_	_	DET;DEF	_	_	_	_
+37	Heilbronni	Heilbronni	_	_	PSSD;NOM;PROPN;SG	_	_	_	_
+38	Katicát	Katica	_	_	PSSD;ACC;PROPN;SG	_	_	_	_
+39	,	,	_	_	_	_	_	_	_
+40	s	s	_	_	CONJ	_	_	_	_
+41	ehhez	ez	_	_	PSSD;DET;3;AT+ALL;SG	_	_	_	_
+42	a	a	_	_	DET;DEF	_	_	_	_
+43	produkcióhoz	produkció	_	_	PSSD;N;AT+ALL;SG	_	_	_	_
+44	is	is	_	_	CONJ	_	_	_	_
+45	én	én	_	_	PSSD;NOM;PRO;SG;1	_	_	_	_
+46	komponálom	komponál	_	_	DEF;PRS;ACT;V;IND;FIN;SG;1	_	_	_	_
+47	a	a	_	_	DET;DEF	_	_	_	_
+48	zenét	zene	_	_	PSSD;N;ACC;SG	_	_	_	_
+49	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-438
+# text = Pénteken késő este lemondott hivataláról Robert Mroziewicz, a lengyel hadsereg NATO-ba való integrálásáért felelős védelmi miniszterhelyettes, miután a vezető politikai tisztségek betöltőinek átvilágítását végző egyik ügyész megkérdőjelezte azt az állítását, hogy nem működött együtt az 1989 előtti kommunista időszak titkosszolgálatával.
+1	Pénteken	péntek	_	_	SG;ON+ESS;N	_	_	_	_
+2	késő	késő	_	_	ADV	_	_	_	_
+3	este	este	_	_	ADV	_	_	_	_
+4	lemondott	lemond	_	_	SG;3;FIN;INDF;V;PST;ACT;IND	_	_	_	_
+5	hivataláról	hivatal	_	_	PSS3S;SG;N	_	_	_	_
+6	Robert	Robert	_	_	SG;NOM;PROPN	_	_	_	_
+7	Mroziewicz	Mroziewicz	_	_	SG;NOM;PROPN	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	a	a	_	_	DET;DEF	_	_	_	_
+10	lengyel	lengyel	_	_	NOM;ADJ;SG	_	_	_	_
+11	hadsereg	hadsereg	_	_	SG;NOM;N	_	_	_	_
+12	NATO-ba	NATO	_	_	SG;PROPN;IN+ALL	_	_	_	_
+13	való	való	_	_	SG;ADJ;NOM	_	_	_	_
+14	integrálásáért	integrálás	_	_	PSS3S;SG;N	_	_	_	_
+15	felelős	felelős	_	_	NOM;ADJ;SG	_	_	_	_
+16	védelmi	védelmi	_	_	NOM;ADJ;SG	_	_	_	_
+17	miniszterhelyettes	miniszterhelyettes	_	_	SG;NOM;N	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	miután	miután	_	_	CONJ	_	_	_	_
+20	a	a	_	_	DET;DEF	_	_	_	_
+21	vezető	vezető	_	_	SG;ADJ;NOM	_	_	_	_
+22	politikai	politikai	_	_	NOM;ADJ;SG	_	_	_	_
+23	tisztségek	tisztség	_	_	NOM;N;PL	_	_	_	_
+24	betöltőinek	betöltő	_	_	PSS3S;N;PL;GEN	_	_	_	_
+25	átvilágítását	átvilágítás	_	_	PSS3S;SG;N;ACC	_	_	_	_
+26	végző	végző	_	_	SG;ADJ;NOM	_	_	_	_
+27	egyik	egyik	_	_	SG;3;PRO;NOM	_	_	_	_
+28	ügyész	ügyész	_	_	SG;NOM;N	_	_	_	_
+29	megkérdőjelezte	megkérdőjelez	_	_	SG;3;FIN;V;DEF;PST;ACT;IND	_	_	_	_
+30	azt	az	_	_	SG;3;ACC;PRO	_	_	_	_
+31	az	az	_	_	DET;DEF	_	_	_	_
+32	állítását	állítás	_	_	PSS3S;SG;N;ACC	_	_	_	_
+33	,	,	_	_	_	_	_	_	_
+34	hogy	hogy	_	_	CONJ	_	_	_	_
+35	nem	nem	_	_	ADV	_	_	_	_
+36	működött	működik	_	_	SG;3;FIN;INDF;V;PST;ACT;IND	_	_	_	_
+37	együtt	együtt	_	_	ADV	_	_	_	_
+38	az	az	_	_	DET;DEF	_	_	_	_
+39	1989	1989	_	_	SG;NOM;NUM	_	_	_	_
+40	előtti	előtti	_	_	NOM;ADJ;SG	_	_	_	_
+41	kommunista	kommunista	_	_	NOM;ADJ;SG	_	_	_	_
+42	időszak	időszak	_	_	SG;NOM;N	_	_	_	_
+43	titkosszolgálatával	titkosszolgálat	_	_	PSS3S;SG;INS;N	_	_	_	_
+44	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-28
+# text = Felvetődik a kérdés: vajon végtelenné válik?
+1	Felvetődik	fel+vetődik	_	_	INDF;ACT;3;V;IND;FIN;SG;PRS	_	_	_	_
+2	a	a	_	_	DET;DEF	_	_	_	_
+3	kérdés	kérdés	_	_	PSSD;NOM;N;SG	_	_	_	_
+4	:	:	_	_	_	_	_	_	_
+5	vajon	vajon	_	_	ADV	_	_	_	_
+6	végtelenné	végtelen	_	_	PSSD;TRANS;ADJ;SG	_	_	_	_
+7	válik	válik	_	_	INDF;ACT;3;V;IND;FIN;SG;PRS	_	_	_	_
+8	?	?	_	_	_	_	_	_	_
+
+# sent_id = test-174
+# text = Ismerem mindkét gyereket, szimpatikus fiúk, tehetséges labdarúgók, s olyan neves ellenféllel szemben, mint a Barcelona, jól helytálltak — mondta elismerő bólogatások közepette Puskás, aki tegnap hazautazott, hogy ma Orbán Viktor miniszterelnöknél vizitáljon.
+1	Ismerem	ismer	_	_	FIN;1;PRS;SG;IND;DEF;V;ACT	_	_	_	_
+2	mindkét	mindkét	_	_	DEF;DET	_	_	_	_
+3	gyereket	gyerek	_	_	PSSD;SG;N;ACC	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	szimpatikus	szimpatikus	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+6	fiúk	fiú	_	_	PSSD;N;PL;NOM	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	tehetséges	tehetséges	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+9	labdarúgók	labdarúgó	_	_	PSSD;N;PL;NOM	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	s	s	_	_	CONJ	_	_	_	_
+12	olyan	olyan	_	_	ADV	_	_	_	_
+13	neves	neves	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+14	ellenféllel	ellenfél	_	_	PSSD;SG;N;INS	_	_	_	_
+15	szemben	szemben	_	_	ADP	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	mint	mint	_	_	CONJ	_	_	_	_
+18	a	a	_	_	DEF;DET	_	_	_	_
+19	Barcelona	Barcelona	_	_	PSSD;SG;PROPN;NOM	_	_	_	_
+20	,	,	_	_	_	_	_	_	_
+21	jól	jól	_	_	ADV	_	_	_	_
+22	helytálltak	helytáll	_	_	FIN;3;INDF;IND;PST;PL;V;ACT	_	_	_	_
+23	—	—	_	_	_	_	_	_	_
+24	mondta	mond	_	_	FIN;3;SG;IND;DEF;PST;V;ACT	_	_	_	_
+25	elismerő	el+ismerő	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+26	bólogatások	bólogatás	_	_	PSSD;N;PL;NOM	_	_	_	_
+27	közepette	közepette	_	_	ADP	_	_	_	_
+28	Puskás	Puskás	_	_	PSSD;SG;PROPN;NOM	_	_	_	_
+29	,	,	_	_	_	_	_	_	_
+30	aki	aki	_	_	PSSD;PRO;3;SG;NOM	_	_	_	_
+31	tegnap	tegnap	_	_	ADV	_	_	_	_
+32	hazautazott	haza+utazik	_	_	FIN;3;INDF;SG;IND;PST;V;ACT	_	_	_	_
+33	,	,	_	_	_	_	_	_	_
+34	hogy	hogy	_	_	CONJ	_	_	_	_
+35	ma	ma	_	_	ADV	_	_	_	_
+36	Orbán	Orbán	_	_	PSSD;SG;PROPN;NOM	_	_	_	_
+37	Viktor	Viktor	_	_	PSSD;SG;PROPN;NOM	_	_	_	_
+38	miniszterelnöknél	miniszterelnök	_	_	PSSD;AT+ESS;SG;N	_	_	_	_
+39	vizitáljon	vizitál	_	_	FIN;3;INDF;SG;PRS;V;IMP;ACT	_	_	_	_
+40	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-906
+# text = A Trajkovics-tervezet a szerbeket hozná kedvezőbb helyzetbe, hiszen épp ezekben a körzetekben találhatóak a tartomány legjobb bányái és legnagyobb ipari üzemei.
+1	A	a	_	_	DET;DEF	_	_	_	_
+2	Trajkovics-tervezet	Trajkovics-tervezet	_	_	SG;NOM;N	_	_	_	_
+3	a	a	_	_	DET;DEF	_	_	_	_
+4	szerbeket	szerb	_	_	PL;N;ACC	_	_	_	_
+5	hozná	hoz	_	_	DEF;COND;ACT;3;V;FIN;SG;PRS	_	_	_	_
+6	kedvezőbb	kedvező	_	_	ADJ;NOM;CMPR;SG	_	_	_	_
+7	helyzetbe	helyzet	_	_	IN+ALL;SG;N	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	hiszen	hiszen	_	_	CONJ	_	_	_	_
+10	épp	épp	_	_	ADV	_	_	_	_
+11	ezekben	ez	_	_	IN+ESS;PRO;3;PL	_	_	_	_
+12	a	a	_	_	DET;DEF	_	_	_	_
+13	körzetekben	körzet	_	_	N;IN+ESS;PL	_	_	_	_
+14	találhatóak	található	_	_	NOM;PL;ADJ	_	_	_	_
+15	a	a	_	_	DET;DEF	_	_	_	_
+16	tartomány	tartomány	_	_	SG;NOM;N	_	_	_	_
+17	legjobb	jó	_	_	ADJ;NOM;RL;SG	_	_	_	_
+18	bányái	bánya	_	_	PSS3S;NOM;N;PL	_	_	_	_
+19	és	és	_	_	CONJ	_	_	_	_
+20	legnagyobb	nagy	_	_	ADJ;NOM;RL;SG	_	_	_	_
+21	ipari	ipari	_	_	ADJ;NOM;SG	_	_	_	_
+22	üzemei	üzem	_	_	PSS3S;NOM;N;PL	_	_	_	_
+23	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-320
+# text = Legalább részlegesen a Ház fideszes vezetőinek tulajdonítható végül az is, hogy a parlamenti többség nem keveredett hosszú és kíméletlen konfliktusba különféle alkotmányos intézményekkel: időben sikerült lokalizálni például a radikális kisgazdák által az adatvédelmi biztos ellen indított támadást.
+1	Legalább	legalább	_	_	ADV	_	_	_	_
+2	részlegesen	részleges	_	_	FRML;ADJ;SG	_	_	_	_
+3	a	a	_	_	DET;DEF	_	_	_	_
+4	Ház	Ház	_	_	SG;NOM;PROPN	_	_	_	_
+5	fideszes	fideszes	_	_	NOM;ADJ;SG	_	_	_	_
+6	vezetőinek	vezető	_	_	PSS3S;DAT;N;PL	_	_	_	_
+7	tulajdonítható	tulajdonítható	_	_	SG;ADJ;NOM	_	_	_	_
+8	végül	végül	_	_	ADV	_	_	_	_
+9	az	az	_	_	SG;3;PRO;NOM	_	_	_	_
+10	is	is	_	_	CONJ	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	hogy	hogy	_	_	CONJ	_	_	_	_
+13	a	a	_	_	DET;DEF	_	_	_	_
+14	parlamenti	parlamenti	_	_	NOM;ADJ;SG	_	_	_	_
+15	többség	többség	_	_	SG;NOM;N	_	_	_	_
+16	nem	nem	_	_	ADV	_	_	_	_
+17	keveredett	keveredik	_	_	SG;3;FIN;INDF;V;PST;ACT;IND	_	_	_	_
+18	hosszú	hosszú	_	_	NOM;ADJ;SG	_	_	_	_
+19	és	és	_	_	CONJ	_	_	_	_
+20	kíméletlen	kíméletlen	_	_	NOM;ADJ;SG	_	_	_	_
+21	konfliktusba	konfliktus	_	_	SG;N;IN+ALL	_	_	_	_
+22	különféle	különféle	_	_	NOM;ADJ;SG	_	_	_	_
+23	alkotmányos	alkotmányos	_	_	NOM;ADJ;SG	_	_	_	_
+24	intézményekkel	intézmény	_	_	INS;N;PL	_	_	_	_
+25	:	:	_	_	_	_	_	_	_
+26	időben	idő	_	_	SG;IN+ESS;N	_	_	_	_
+27	sikerült	sikerül	_	_	SG;3;FIN;INDF;V;PST;ACT;IND	_	_	_	_
+28	lokalizálni	lokalizál	_	_	NFIN;V;ACT	_	_	_	_
+29	például	például	_	_	ADV	_	_	_	_
+30	a	a	_	_	DET;DEF	_	_	_	_
+31	radikális	radikális	_	_	NOM;ADJ;SG	_	_	_	_
+32	kisgazdák	kisgazda	_	_	NOM;N;PL	_	_	_	_
+33	által	által	_	_	ADP	_	_	_	_
+34	az	az	_	_	DET;DEF	_	_	_	_
+35	adatvédelmi	adatvédelmi	_	_	NOM;ADJ;SG	_	_	_	_
+36	biztos	biztos	_	_	SG;NOM;N	_	_	_	_
+37	ellen	ellen	_	_	ADP	_	_	_	_
+38	indított	indított	_	_	SG;ADJ;NOM	_	_	_	_
+39	támadást	támadás	_	_	SG;ACC;N	_	_	_	_
+40	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-149
+# text = Kamionok okoznak fennakadást az ország más pontjain is.
+1	Kamionok	kamion	_	_	PSSD;NOM;N;PL	_	_	_	_
+2	okoznak	okoz	_	_	INDF;ACT;3;V;IND;PL;FIN;PRS	_	_	_	_
+3	fennakadást	fennakadás	_	_	PSSD;N;ACC;SG	_	_	_	_
+4	az	az	_	_	DET;DEF	_	_	_	_
+5	ország	ország	_	_	PSSD;NOM;N;SG	_	_	_	_
+6	más	más	_	_	DET;INDF	_	_	_	_
+7	pontjain	pont	_	_	PSS3S;ON+ESS;N;PL	_	_	_	_
+8	is	is	_	_	CONJ	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-900
+# text = A Szlobodan Milosevics jugoszláv elnök vezette belgrádi rezsim pedig azért cenzúrázza a szerbek megpróbáltatásairól és tömeges meneküléséről szóló híreket, hogy továbbra is azt állíthassa: Szerbia megvédte Koszovót, s így megnyerte a NATO elleni háborút.
+1	A	a	_	_	DET;DEF	_	_	_	_
+2	Szlobodan	Szlobodan	_	_	PROPN;SG;NOM	_	_	_	_
+3	Milosevics	Milosevics	_	_	PROPN;SG;NOM	_	_	_	_
+4	jugoszláv	jugoszláv	_	_	ADJ;NOM;SG	_	_	_	_
+5	elnök	elnök	_	_	SG;NOM;N	_	_	_	_
+6	vezette	vezette	_	_	ADJ;NOM;SG	_	_	_	_
+7	belgrádi	belgrádi	_	_	ADJ;NOM;SG	_	_	_	_
+8	rezsim	rezsim	_	_	SG;NOM;N	_	_	_	_
+9	pedig	pedig	_	_	CONJ	_	_	_	_
+10	azért	az	_	_	PRO;3;SG	_	_	_	_
+11	cenzúrázza	cenzúráz	_	_	DEF;ACT;3;V;IND;FIN;SG;PRS	_	_	_	_
+12	a	a	_	_	DET;DEF	_	_	_	_
+13	szerbek	szerb	_	_	NOM;N;PL	_	_	_	_
+14	megpróbáltatásairól	megpróbáltatás	_	_	PSS3S;N;PL	_	_	_	_
+15	és	és	_	_	CONJ	_	_	_	_
+16	tömeges	tömeges	_	_	ADJ;NOM;SG	_	_	_	_
+17	meneküléséről	menekülés	_	_	PSS3S;N;SG	_	_	_	_
+18	szóló	szóló	_	_	NOM;ADJ;SG	_	_	_	_
+19	híreket	hír	_	_	PL;N;ACC	_	_	_	_
+20	,	,	_	_	_	_	_	_	_
+21	hogy	hogy	_	_	CONJ	_	_	_	_
+22	továbbra	továbbra	_	_	CMPR;ADV	_	_	_	_
+23	is	is	_	_	CONJ	_	_	_	_
+24	azt	az	_	_	PRO;3;ACC;SG	_	_	_	_
+25	állíthassa	állíthat	_	_	DEF;ACT;3;{IMP/POT};V;FIN;SG;PRS	_	_	_	_
+26	:	:	_	_	_	_	_	_	_
+27	Szerbia	Szerbia	_	_	PROPN;SG;NOM	_	_	_	_
+28	megvédte	megvéd	_	_	DEF;PST;ACT;3;V;IND;FIN;SG	_	_	_	_
+29	Koszovót	Koszovó	_	_	PROPN;SG;ACC	_	_	_	_
+30	,	,	_	_	_	_	_	_	_
+31	s	s	_	_	CONJ	_	_	_	_
+32	így	így	_	_	ADV	_	_	_	_
+33	megnyerte	megnyer	_	_	DEF;PST;ACT;3;V;IND;FIN;SG	_	_	_	_
+34	a	a	_	_	DET;DEF	_	_	_	_
+35	NATO	NATO	_	_	PROPN;SG;NOM	_	_	_	_
+36	elleni	elleni	_	_	ADJ;NOM;SG	_	_	_	_
+37	háborút	háború	_	_	SG;N;ACC	_	_	_	_
+38	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-217
+# text = A lomposan megfogalmazott jogi szövegek korlátlanul megnyitották az utat az önkényes nyelvhasználat előtt, mely mögött nincs s nem is lehet gondolt, ami feltételezné a jogi nyelven túl érvényes szótár létét.
+1	A	a	_	_	DET;DEF	_	_	_	_
+2	lomposan	lompos	_	_	PSSD;FRML;ADJ;SG	_	_	_	_
+3	megfogalmazott	megfogalmazott	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+4	jogi	jogi	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+5	szövegek	szöveg	_	_	PSSD;NOM;N;PL	_	_	_	_
+6	korlátlanul	korlátlan	_	_	PSSD;FRML;ADJ;SG	_	_	_	_
+7	megnyitották	meg+nyit	_	_	DEF;PST;ACT;3;V;IND;PL;FIN	_	_	_	_
+8	az	az	_	_	DET;DEF	_	_	_	_
+9	utat	út	_	_	PSSD;N;ACC;SG	_	_	_	_
+10	az	az	_	_	DET;DEF	_	_	_	_
+11	önkényes	önkényes	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+12	nyelvhasználat	nyelvhasználat	_	_	PSSD;NOM;N;SG	_	_	_	_
+13	előtt	előtt	_	_	ADP	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	mely	mely	_	_	PSSD;NOM;PRO;3;SG	_	_	_	_
+16	mögött	mögött	_	_	ADP	_	_	_	_
+17	nincs	nincs	_	_	INDF;ACT;3;V;IND;FIN;SG;PRS	_	_	_	_
+18	s	s	_	_	CONJ	_	_	_	_
+19	nem	nem	_	_	ADV	_	_	_	_
+20	is	is	_	_	ADV	_	_	_	_
+21	lehet	lesz	_	_	INDF;ACT;3;V;POT;FIN;SG;PRS	_	_	_	_
+22	gondolt	gondolat	_	_	PSSD;NOM;N;SG	_	_	_	_
+23	,	,	_	_	_	_	_	_	_
+24	ami	ami	_	_	PSSD;NOM;PRO;3;SG	_	_	_	_
+25	feltételezné	feltételez	_	_	DEF;COND;ACT;3;V;FIN;SG;PRS	_	_	_	_
+26	a	a	_	_	DET;DEF	_	_	_	_
+27	jogi	jogi	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+28	nyelven	nyelv	_	_	PSSD;ON+ESS;N;SG	_	_	_	_
+29	túl	túl	_	_	ADP	_	_	_	_
+30	érvényes	érvényes	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+31	szótár	szótár	_	_	PSSD;NOM;N;SG	_	_	_	_
+32	létét	lét	_	_	PSS3S;N;ACC;SG	_	_	_	_
+33	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-640
+# text = Az orosz légierő gépei és a tüzérségi egységek ismét hevesen támadták Urusz-Martan környékét, de a várostól nyugatra elhelyezkedő csecsen erők szemmel láthatóan állták a sarat.
+1	Az	az	_	_	DET;DEF	_	_	_	_
+2	orosz	orosz	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+3	légierő	légierő	_	_	PSSD;NOM;N;SG	_	_	_	_
+4	gépei	gép	_	_	PSS3S;NOM;N;PL	_	_	_	_
+5	és	és	_	_	CONJ	_	_	_	_
+6	a	a	_	_	DET;DEF	_	_	_	_
+7	tüzérségi	tüzérségi	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+8	egységek	egység	_	_	PSSD;NOM;N;PL	_	_	_	_
+9	ismét	ismét	_	_	ADV	_	_	_	_
+10	hevesen	heves	_	_	PSSD;FRML;ADJ;SG	_	_	_	_
+11	támadták	támad	_	_	DEF;PST;ACT;3;V;IND;PL;FIN	_	_	_	_
+12	Urusz-Martan	Urusz-Martan	_	_	PSSD;NOM;PROPN;SG	_	_	_	_
+13	környékét	környék	_	_	PSS3S;N;ACC;SG	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	de	de	_	_	CONJ	_	_	_	_
+16	a	a	_	_	DET;DEF	_	_	_	_
+17	várostól	város	_	_	PSSD;AT+ABL;N;SG	_	_	_	_
+18	nyugatra	nyugatra	_	_	ADV	_	_	_	_
+19	elhelyezkedő	elhelyezkedő	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+20	csecsen	csecsen	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+21	erők	erő	_	_	PSSD;NOM;N;PL	_	_	_	_
+22	szemmel	szem	_	_	PSSD;INS;N;SG	_	_	_	_
+23	láthatóan	látható	_	_	PSSD;FRML;ADJ;SG	_	_	_	_
+24	állták	áll	_	_	DEF;PST;ACT;3;V;IND;PL;FIN	_	_	_	_
+25	a	a	_	_	DET;DEF	_	_	_	_
+26	sarat	sár	_	_	PSSD;N;ACC;SG	_	_	_	_
+27	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-231
+# text = Ha oroszt tanítana, nyilván azt mondaná tanítványainak hogy Tatyjána levelét voltaképpen Anyegin írta, netán Lenszkijnek.
+1	Ha	ha	_	_	CONJ	_	_	_	_
+2	oroszt	orosz	_	_	PSSD;N;ACC;SG	_	_	_	_
+3	tanítana	tanít	_	_	INDF;COND;ACT;3;V;FIN;SG;PRS	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	nyilván	nyilván	_	_	ADV	_	_	_	_
+6	azt	az	_	_	PSSD;PRO;3;ACC;SG	_	_	_	_
+7	mondaná	mond	_	_	DEF;COND;ACT;3;V;FIN;SG;PRS	_	_	_	_
+8	tanítványainak	tanítvány	_	_	PSS3S;N;PL;DAT	_	_	_	_
+9	hogy	hogy	_	_	CONJ	_	_	_	_
+10	Tatyjána	Tatyjána	_	_	PSSD;NOM;PROPN;SG	_	_	_	_
+11	levelét	levél	_	_	PSS3S;N;ACC;SG	_	_	_	_
+12	voltaképpen	voltaképpen	_	_	ADV	_	_	_	_
+13	Anyegin	Anyegin	_	_	PSSD;NOM;PROPN;SG	_	_	_	_
+14	írta	ír	_	_	DEF;PST;ACT;3;V;IND;FIN;SG	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	netán	netán	_	_	ADV	_	_	_	_
+17	Lenszkijnek	Lenszkij	_	_	PSSD;PROPN;SG;DAT	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-109
+# text = Az aszfalton feltehetőleg irigy pillantásokat vonzó autócsoda hamarosan tehetetlen vasdarabbá válik, alaposan beragad a hócsapdába.
+1	Az	az	_	_	DET;DEF	_	_	_	_
+2	aszfalton	aszfalt	_	_	PSSD;ON+ESS;N;SG	_	_	_	_
+3	feltehetőleg	feltehetőleg	_	_	ADV	_	_	_	_
+4	irigy	irigy	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+5	pillantásokat	pillantás	_	_	PSSD;N;PL;ACC	_	_	_	_
+6	vonzó	vonzó	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+7	autócsoda	autócsoda	_	_	PSSD;NOM;N;SG	_	_	_	_
+8	hamarosan	hamarosan	_	_	ADV	_	_	_	_
+9	tehetetlen	tehetetlen	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+10	vasdarabbá	vasdarab	_	_	PSSD;N;TRANS;SG	_	_	_	_
+11	válik	válik	_	_	INDF;ACT;3;V;IND;FIN;SG;PRS	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	alaposan	alapos	_	_	PSSD;FRML;ADJ;SG	_	_	_	_
+14	beragad	be+ragad	_	_	INDF;ACT;3;V;IND;FIN;SG;PRS	_	_	_	_
+15	a	a	_	_	DET;DEF	_	_	_	_
+16	hócsapdába	hócsapda	_	_	PSSD;N;IN+ALL;SG	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-354
+# text = Ugyanakkor Burány Sándor, az MSZP frakcióvezető-helyettese egyenesen egy újabb megszorító Járai-csomagot vélt kiolvasni a 2000-re szóló költségvetési kormányjavaslatokból.
+1	Ugyanakkor	ugyanakkor	_	_	ADV	_	_	_	_
+2	Burány	Burány	_	_	SG;NOM;PROPN	_	_	_	_
+3	Sándor	Sándor	_	_	SG;NOM;PROPN	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	az	az	_	_	DET;DEF	_	_	_	_
+6	MSZP	MSZP	_	_	SG;NOM;PROPN	_	_	_	_
+7	frakcióvezető-helyettese	frakcióvezető-helyettes	_	_	PSS3S;SG;N;NOM	_	_	_	_
+8	egyenesen	egyenesen	_	_	ADV	_	_	_	_
+9	egy	egy	_	_	DET;INDF	_	_	_	_
+10	újabb	új	_	_	SG;NOM;CMPR;ADJ	_	_	_	_
+11	megszorító	megszorító	_	_	SG;ADJ;NOM	_	_	_	_
+12	Járai-csomagot	Járai-csomag	_	_	SG;ACC;N	_	_	_	_
+13	vélt	vél	_	_	SG;3;FIN;INDF;V;PST;ACT;IND	_	_	_	_
+14	kiolvasni	kiolvas	_	_	NFIN;V;ACT	_	_	_	_
+15	a	a	_	_	DET;DEF	_	_	_	_
+16	2000-re	2000	_	_	SG;ON+ALL;NUM	_	_	_	_
+17	szóló	szóló	_	_	SG;ADJ;NOM	_	_	_	_
+18	költségvetési	költségvetési	_	_	NOM;ADJ;SG	_	_	_	_
+19	kormányjavaslatokból	kormányjavaslat	_	_	N;PL;IN+ABL	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-235
+# text = Az európai húsipar nemrégiben komoly túltermelési válsággal küszködött, és emiatt a vágóhidak nem erejük egyesítésével, inkább a szerkezetátalakítással vannak elfoglalva.
+1	Az	az	_	_	DET;DEF	_	_	_	_
+2	európai	európai	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+3	húsipar	húsipar	_	_	PSSD;SG;N;NOM	_	_	_	_
+4	nemrégiben	nemrégiben	_	_	ADV	_	_	_	_
+5	komoly	komoly	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+6	túltermelési	túltermelési	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+7	válsággal	válság	_	_	PSSD;SG;INS;N	_	_	_	_
+8	küszködött	küszködik	_	_	SG;3;FIN;INDF;V;PST;ACT;IND	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	és	és	_	_	CONJ	_	_	_	_
+11	emiatt	emiatt	_	_	ADV	_	_	_	_
+12	a	a	_	_	DET;DEF	_	_	_	_
+13	vágóhidak	vágóhíd	_	_	PSSD;N;PL;NOM	_	_	_	_
+14	nem	nem	_	_	ADV	_	_	_	_
+15	erejük	erő	_	_	PSS3P;SG;N;NOM	_	_	_	_
+16	egyesítésével	egyesítés	_	_	PSS3S;SG;INS;N	_	_	_	_
+17	,	,	_	_	_	_	_	_	_
+18	inkább	inkább	_	_	ADV	_	_	_	_
+19	a	a	_	_	DET;DEF	_	_	_	_
+20	szerkezetátalakítással	szerkezetátalakítás	_	_	PSSD;SG;INS;N	_	_	_	_
+21	vannak	van	_	_	V;3;FIN;INDF;PL;ACT;PRS;IND	_	_	_	_
+22	elfoglalva	elfoglalva	_	_	V.CVB;ADV	_	_	_	_
+23	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-348
+# text = Az azóta eltelt évtizedek alatt a fiatal baritonistából a magyar zenei élet egyik vezető alakja, élő legenda vált.
+1	Az	az	_	_	DET;DEF	_	_	_	_
+2	azóta	azóta	_	_	ADV	_	_	_	_
+3	eltelt	eltelt	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+4	évtizedek	évtized	_	_	PSSD;NOM;N;PL	_	_	_	_
+5	alatt	alatt	_	_	ADP	_	_	_	_
+6	a	a	_	_	DET;DEF	_	_	_	_
+7	fiatal	fiatal	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+8	baritonistából	baritonista	_	_	PSSD;N;IN+ABL;SG	_	_	_	_
+9	a	a	_	_	DET;DEF	_	_	_	_
+10	magyar	magyar	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+11	zenei	zenei	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+12	élet	élet	_	_	PSSD;NOM;N;SG	_	_	_	_
+13	egyik	egyik	_	_	DET;DEF	_	_	_	_
+14	vezető	vezető	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+15	alakja	alak	_	_	PSS3S;NOM;N;SG	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	élő	élő	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+18	legenda	legenda	_	_	PSSD;NOM;N;SG	_	_	_	_
+19	vált	válik	_	_	PST;INDF;ACT;3;V;IND;FIN;SG	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-128
+# text = Ugatják a telet.
+1	Ugatják	ugat	_	_	DEF;ACT;3;V;IND;PL;FIN;PRS	_	_	_	_
+2	a	a	_	_	DET;DEF	_	_	_	_
+3	telet	tél	_	_	PSSD;N;ACC;SG	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-375
+# text = A várakozások ellenére szenzáció nélkül zárult a Gazprom rendkívüli közgyűlése: nem távozott tisztéről a céget irányító Vjahirev, a néhány héten belül másodszor újjáválasztott igazgatótanács élére pedig ismét a cég alapító atyját, Viktor Csernomirgyin exkormányfőt választották.
+1	A	a	_	_	DEF;DET	_	_	_	_
+2	várakozások	várakozás	_	_	N;NOM;PL	_	_	_	_
+3	ellenére	ellenére	_	_	ADP	_	_	_	_
+4	szenzáció	szenzáció	_	_	N;NOM;SG	_	_	_	_
+5	nélkül	nélkül	_	_	ADP	_	_	_	_
+6	zárult	zárul	_	_	FIN;3;INDF;SG;IND;PST;V;ACT	_	_	_	_
+7	a	a	_	_	DEF;DET	_	_	_	_
+8	Gazprom	Gazprom	_	_	PROPN;NOM;SG	_	_	_	_
+9	rendkívüli	rendkívüli	_	_	ADJ;NOM;SG	_	_	_	_
+10	közgyűlése	közgyűlés	_	_	PSS3S;SG;N;NOM	_	_	_	_
+11	:	:	_	_	_	_	_	_	_
+12	nem	nem	_	_	ADV	_	_	_	_
+13	távozott	távozik	_	_	FIN;3;INDF;SG;IND;PST;V;ACT	_	_	_	_
+14	tisztéről	tiszt	_	_	PSS3S;SG;N	_	_	_	_
+15	a	a	_	_	DEF;DET	_	_	_	_
+16	céget	cég	_	_	N;ACC;SG	_	_	_	_
+17	irányító	irányító	_	_	SG;ADJ;NOM	_	_	_	_
+18	Vjahirev	Vjahirev	_	_	PROPN;NOM;SG	_	_	_	_
+19	,	,	_	_	_	_	_	_	_
+20	a	a	_	_	DEF;DET	_	_	_	_
+21	néhány	néhány	_	_	PRO;3;SG;NOM	_	_	_	_
+22	héten	hét	_	_	N;ON+ESS;SG	_	_	_	_
+23	belül	belül	_	_	ADP	_	_	_	_
+24	másodszor	másod	_	_	ADV	_	_	_	_
+25	újjáválasztott	újjáválasztott	_	_	SG;ADJ;NOM	_	_	_	_
+26	igazgatótanács	igazgatótanács	_	_	N;NOM;SG	_	_	_	_
+27	élére	él	_	_	PSS3S;ON+ALL;SG;N	_	_	_	_
+28	pedig	pedig	_	_	CONJ	_	_	_	_
+29	ismét	ismét	_	_	ADV	_	_	_	_
+30	a	a	_	_	DEF;DET	_	_	_	_
+31	cég	cég	_	_	N;NOM;SG	_	_	_	_
+32	alapító	alapító	_	_	SG;ADJ;NOM	_	_	_	_
+33	atyját	atya	_	_	PSS3S;SG;N;ACC	_	_	_	_
+34	,	,	_	_	_	_	_	_	_
+35	Viktor	Viktor	_	_	PROPN;NOM;SG	_	_	_	_
+36	Csernomirgyin	Csernomirgyin	_	_	PROPN;NOM;SG	_	_	_	_
+37	exkormányfőt	exkormányfő	_	_	N;ACC;SG	_	_	_	_
+38	választották	választ	_	_	FIN;3;IND;DEF;PST;PL;V;ACT	_	_	_	_
+39	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-112
+# text = "Elmegy ez, elmegy ez — hajtogatják, aztán mi tologatjuk őket ide-oda."
+1	"	"	_	_	_	_	_	_	_
+2	Elmegy	el+megy	_	_	INDF;ACT;3;V;IND;FIN;SG;PRS	_	_	_	_
+3	ez	ez	_	_	PSSD;NOM;PRO;3;SG	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	elmegy	el+megy	_	_	INDF;ACT;3;V;IND;FIN;SG;PRS	_	_	_	_
+6	ez	ez	_	_	PSSD;NOM;PRO;3;SG	_	_	_	_
+7	—	—	_	_	_	_	_	_	_
+8	hajtogatják	hajt	_	_	DEF;ITER;ACT;3;V;IND;PL;FIN;PRS	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	aztán	aztán	_	_	ADV	_	_	_	_
+11	mi	mi	_	_	PSSD;NOM;PRO;PL;1	_	_	_	_
+12	tologatjuk	tol	_	_	DEF;ITER;ACT;V;IND;PL;FIN;PRS;1	_	_	_	_
+13	őket	ők	_	_	PSSD;PRO;3;PL;ACC	_	_	_	_
+14	ide-oda	ide-oda	_	_	ADV	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+16	"	"	_	_	_	_	_	_	_
+
+# sent_id = train-88
+# text = Tették ezt zokszó nélkül.
+1	Tették	tesz	_	_	DEF;PST;ACT;3;V;IND;PL;FIN	_	_	_	_
+2	ezt	ez	_	_	PSSD;PRO;3;ACC;SG	_	_	_	_
+3	zokszó	zokszó	_	_	PSSD;NOM;N;SG	_	_	_	_
+4	nélkül	nélkül	_	_	ADP	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-112
+# text = A szervezők petíciót nyújtanak át Áder Jánosnak, az Országgyűlés elnökének, amelyben figyelmeztetnek az egyre elterjedtebbé vált antiszemita, rasszista megnyilvánulások veszélyére.
+1	A	a	_	_	DET;DEF	_	_	_	_
+2	szervezők	szervező	_	_	PSSD;N;PL;NOM	_	_	_	_
+3	petíciót	petíció	_	_	PSSD;SG;N;ACC	_	_	_	_
+4	nyújtanak	nyújt	_	_	3;FIN;INDF;V;PL;ACT;PRS;IND	_	_	_	_
+5	át	át	_	_	ADV	_	_	_	_
+6	Áder	Áder	_	_	PSSD;SG;NOM;PROPN	_	_	_	_
+7	Jánosnak	János	_	_	PSSD;SG;DAT;PROPN	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	az	az	_	_	DET;DEF	_	_	_	_
+10	Országgyűlés	országgyűlés	_	_	PSSD;SG;N;NOM	_	_	_	_
+11	elnökének	elnök	_	_	PSS3S;SG;N;DAT	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	amelyben	amely	_	_	PSSD;SG;3;PRO;IN+ESS	_	_	_	_
+14	figyelmeztetnek	figyelmeztet	_	_	3;FIN;INDF;V;PL;ACT;PRS;IND	_	_	_	_
+15	az	az	_	_	DET;DEF	_	_	_	_
+16	egyre	egyre	_	_	ADV	_	_	_	_
+17	elterjedtebbé	elterjedt	_	_	PSSD;SG;TRANS;ADJ;CMPR	_	_	_	_
+18	vált	vált	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+19	antiszemita	antiszemita	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+20	,	,	_	_	_	_	_	_	_
+21	rasszista	rasszista	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+22	megnyilvánulások	megnyilvánulás	_	_	PSSD;N;PL;NOM	_	_	_	_
+23	veszélyére	veszély	_	_	PSS3S;SG;N;ON+ALL	_	_	_	_
+24	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-197
+# text = Több párt képviselője szerint is az új elképzelés kidolgozatlan, ellentétes a Munka törvénykönyve előírásaival.
+1	Több	több	_	_	DET;INDF	_	_	_	_
+2	párt	párt	_	_	PSSD;SG;N;NOM	_	_	_	_
+3	képviselője	képviselő	_	_	PSS3S;SG;N;NOM	_	_	_	_
+4	szerint	szerint	_	_	ADP	_	_	_	_
+5	is	is	_	_	CONJ	_	_	_	_
+6	az	az	_	_	DET;DEF	_	_	_	_
+7	új	új	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+8	elképzelés	elképzelés	_	_	PSSD;SG;N;NOM	_	_	_	_
+9	kidolgozatlan	kidolgozatlan	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	ellentétes	ellentétes	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+12	a	a	_	_	DET;DEF	_	_	_	_
+13	Munka	Munka	_	_	PSSD;SG;NOM;PROPN	_	_	_	_
+14	törvénykönyve	törvénykönyve	_	_	PSSD;SG;NOM;PROPN	_	_	_	_
+15	előírásaival	előírás	_	_	PSS3S;INS;N;PL	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-216
+# text = Az építmény legmagasabb pontja egy méterrel lehet magasabb az Erzsébet tér térszintjénél.
+1	Az	az	_	_	DET;DEF	_	_	_	_
+2	építmény	építmény	_	_	PSSD;SG;N;NOM	_	_	_	_
+3	legmagasabb	magas	_	_	PSSD;SG;RL;ADJ;NOM	_	_	_	_
+4	pontja	pont	_	_	PSS3S;SG;N;NOM	_	_	_	_
+5	egy	egy	_	_	PSSD;SG;NOM;NUM	_	_	_	_
+6	méterrel	méter	_	_	PSSD;SG;INS;N	_	_	_	_
+7	lehet	lesz	_	_	V;SG;3;POT;INDF;FIN;ACT;PRS	_	_	_	_
+8	magasabb	magas	_	_	PSSD;SG;ADJ;NOM;CMPR	_	_	_	_
+9	az	az	_	_	DET;DEF	_	_	_	_
+10	Erzsébet	Erzsébet	_	_	PSSD;SG;NOM;PROPN	_	_	_	_
+11	tér	tér	_	_	PSSD;SG;NOM;PROPN	_	_	_	_
+12	térszintjénél	térszint	_	_	PSS3S;SG;N;AT+ESS	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-866
+# text = Amikor az SPD 1969-ben, a második világháború után először megnyerte a választásokat, az annak volt köszönhető, hogy Willy Brandt meg tudta győzni a választókat, mondhatni szociáldemokratákat csinált belőlük.
+1	Amikor	amikor	_	_	ADV	_	_	_	_
+2	az	az	_	_	DET;DEF	_	_	_	_
+3	SPD	SPD	_	_	PROPN;SG;NOM	_	_	_	_
+4	1969-ben	1969	_	_	SG;NUM;IN+ESS	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	a	a	_	_	DET;DEF	_	_	_	_
+7	második	második	_	_	ADJ;NOM;SG	_	_	_	_
+8	világháború	világháború	_	_	SG;NOM;N	_	_	_	_
+9	után	után	_	_	ADP	_	_	_	_
+10	először	először	_	_	ADV	_	_	_	_
+11	megnyerte	megnyer	_	_	DEF;PST;ACT;3;V;IND;FIN;SG	_	_	_	_
+12	a	a	_	_	DET;DEF	_	_	_	_
+13	választásokat	választás	_	_	PL;N;ACC	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	az	az	_	_	NOM;PRO;3;SG	_	_	_	_
+16	annak	az	_	_	PRO;3;SG;DAT	_	_	_	_
+17	volt	van	_	_	PST;INDF;ACT;V;3;IND;FIN;SG	_	_	_	_
+18	köszönhető	köszönhető	_	_	NOM;ADJ;SG	_	_	_	_
+19	,	,	_	_	_	_	_	_	_
+20	hogy	hogy	_	_	CONJ	_	_	_	_
+21	Willy	Willy	_	_	PROPN;SG;NOM	_	_	_	_
+22	Brandt	Brandt	_	_	PROPN;SG;NOM	_	_	_	_
+23	meg	meg	_	_	PART	_	_	_	_
+24	tudta	tud	_	_	DEF;PST;ACT;3;V;IND;FIN;SG	_	_	_	_
+25	győzni	győz	_	_	V;NFIN;ACT	_	_	_	_
+26	a	a	_	_	DET;DEF	_	_	_	_
+27	választókat	választó	_	_	PL;N;ACC	_	_	_	_
+28	,	,	_	_	_	_	_	_	_
+29	mondhatni	mondhat	_	_	V;POT;NFIN;ACT	_	_	_	_
+30	szociáldemokratákat	szociáldemokrata	_	_	PL;N;ACC	_	_	_	_
+31	csinált	csinál	_	_	PST;INDF;ACT;3;V;IND;FIN;SG	_	_	_	_
+32	belőlük	belőle	_	_	PRO;3;IN+ABL;PL	_	_	_	_
+33	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-148
+# text = Először a Barcelona vezető gólja után, másodszor pedig akkor, amikor kifutottunk a második félidőre és nemhogy oszlott volna, még lejjebb is ereszkedett a köd a pályára.
+1	Először	először	_	_	ADV	_	_	_	_
+2	a	a	_	_	DEF;DET	_	_	_	_
+3	Barcelona	Barcelona	_	_	PSSD;SG;PROPN;NOM	_	_	_	_
+4	vezető	vezető	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+5	gólja	gól	_	_	PSS3S;SG;N;NOM	_	_	_	_
+6	után	után	_	_	ADP	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	másodszor	másod	_	_	ADV	_	_	_	_
+9	pedig	pedig	_	_	CONJ	_	_	_	_
+10	akkor	akkor	_	_	ADV	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	amikor	amikor	_	_	ADV	_	_	_	_
+13	kifutottunk	ki+fut	_	_	FIN;1;INDF;IND;PST;PL;V;ACT	_	_	_	_
+14	a	a	_	_	DEF;DET	_	_	_	_
+15	második	második	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+16	félidőre	félidő	_	_	PSSD;ON+ALL;SG;N	_	_	_	_
+17	és	és	_	_	CONJ	_	_	_	_
+18	nemhogy	nemhogy	_	_	CONJ	_	_	_	_
+19	oszlott	oszlik	_	_	FIN;3;INDF;SG;IND;PST;V;ACT	_	_	_	_
+20	volna	volna	_	_	3;INDF;SG;V;PRS;COND;ACT	_	_	_	_
+21	,	,	_	_	_	_	_	_	_
+22	még	még	_	_	ADV	_	_	_	_
+23	lejjebb	le	_	_	ADV	_	_	_	_
+24	is	is	_	_	CONJ	_	_	_	_
+25	ereszkedett	ereszkedik	_	_	FIN;3;INDF;SG;IND;PST;V;ACT	_	_	_	_
+26	a	a	_	_	DEF;DET	_	_	_	_
+27	köd	köd	_	_	PSSD;SG;N;NOM	_	_	_	_
+28	a	a	_	_	DEF;DET	_	_	_	_
+29	pályára	pálya	_	_	PSSD;ON+ALL;SG;N	_	_	_	_
+30	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-746
+# text = Sokan őt okolták ugyanis a vereségért, hiszen a nevéhez fűződött például az 1993-as, nagy port kavart MDF-Fidesz-székházügy.
+1	Sokan	sokan	_	_	ADV	_	_	_	_
+2	őt	ő	_	_	PRO;3;ACC;SG	_	_	_	_
+3	okolták	okol	_	_	DEF;PST;ACT;3;V;IND;PL;FIN	_	_	_	_
+4	ugyanis	ugyanis	_	_	CONJ	_	_	_	_
+5	a	a	_	_	DET;DEF	_	_	_	_
+6	vereségért	vereség	_	_	SG;N	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	hiszen	hiszen	_	_	CONJ	_	_	_	_
+9	a	a	_	_	DET;DEF	_	_	_	_
+10	nevéhez	név	_	_	PSS3S;N;AT+ALL;SG	_	_	_	_
+11	fűződött	fűződik	_	_	PST;INDF;ACT;3;V;IND;FIN;SG	_	_	_	_
+12	például	például	_	_	ADV	_	_	_	_
+13	az	az	_	_	DET;DEF	_	_	_	_
+14	1993-as	1993-as	_	_	ADJ;NOM;SG	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	nagy	nagy	_	_	ADJ;NOM;SG	_	_	_	_
+17	port	por	_	_	SG;N;ACC	_	_	_	_
+18	kavart	kavart	_	_	NOM;ADJ;SG	_	_	_	_
+19	MDF-Fidesz-székházügy	MDF-Fidesz-székházügy	_	_	SG;NOM;N	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-313
+# text = Akkor már diligyógyász volt a Lipótmezőn.
+1	Akkor	akkor	_	_	ADV	_	_	_	_
+2	már	már	_	_	ADV	_	_	_	_
+3	diligyógyász	diligyógyász	_	_	PSSD;NOM;N;SG	_	_	_	_
+4	volt	van	_	_	PST;INDF;ACT;V;3;IND;FIN;SG	_	_	_	_
+5	a	a	_	_	DET;DEF	_	_	_	_
+6	Lipótmezőn	Lipótmező	_	_	PSSD;ON+ESS;PROPN;SG	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-362
+# text = Szenvedélyes vitáktól lesz tehát hangos ősszel a képviselőház, hiszen a stabilitást hangsúlyozó, a kormányprogramban 2000-re ígért adó- és egészségügyireformlépéseket elodázó, mindenféle karakterisztikus változást nélkülöző büdzsé mögé egyelőre még a kormánykoalíciós pártokat sem sikerült felsorakoztatni.
+1	Szenvedélyes	szenvedélyes	_	_	NOM;ADJ;SG	_	_	_	_
+2	vitáktól	vita	_	_	AT+ABL;N;PL	_	_	_	_
+3	lesz	lesz	_	_	V;SG;3;FIN;INDF;ACT;PRS;IND	_	_	_	_
+4	tehát	tehát	_	_	CONJ	_	_	_	_
+5	hangos	hangos	_	_	NOM;ADJ;SG	_	_	_	_
+6	ősszel	ősz	_	_	SG;INS;N	_	_	_	_
+7	a	a	_	_	DET;DEF	_	_	_	_
+8	képviselőház	képviselőház	_	_	SG;NOM;N	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	hiszen	hiszen	_	_	CONJ	_	_	_	_
+11	a	a	_	_	DET;DEF	_	_	_	_
+12	stabilitást	stabilitás	_	_	SG;ACC;N	_	_	_	_
+13	hangsúlyozó	hangsúlyozó	_	_	SG;ADJ;NOM	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	a	a	_	_	DET;DEF	_	_	_	_
+16	kormányprogramban	kormányprogram	_	_	SG;IN+ESS;N	_	_	_	_
+17	2000-re	2000	_	_	SG;ON+ALL;NUM	_	_	_	_
+18	ígért	ígért	_	_	SG;ADJ;NOM	_	_	_	_
+19	adó-	adó-	_	_	SG;NOM;N	_	_	_	_
+20	és	és	_	_	CONJ	_	_	_	_
+21	egészségügyireformlépéseket	egészségügyireformlépéseket	_	_	ACC;N;PL	_	_	_	_
+22	elodázó	elodázó	_	_	SG;ADJ;NOM	_	_	_	_
+23	,	,	_	_	_	_	_	_	_
+24	mindenféle	mindenféle	_	_	SG;3;PRO;NOM	_	_	_	_
+25	karakterisztikus	karakterisztikus	_	_	NOM;ADJ;SG	_	_	_	_
+26	változást	változás	_	_	SG;ACC;N	_	_	_	_
+27	nélkülöző	nélkülöző	_	_	SG;ADJ;NOM	_	_	_	_
+28	büdzsé	büdzsé	_	_	SG;NOM;N	_	_	_	_
+29	mögé	mögé	_	_	ADP	_	_	_	_
+30	egyelőre	egyelőre	_	_	ADV	_	_	_	_
+31	még	még	_	_	ADV	_	_	_	_
+32	a	a	_	_	DET;DEF	_	_	_	_
+33	kormánykoalíciós	kormánykoalíciós	_	_	NOM;ADJ;SG	_	_	_	_
+34	pártokat	párt	_	_	ACC;N;PL	_	_	_	_
+35	sem	sem	_	_	ADV	_	_	_	_
+36	sikerült	sikerül	_	_	SG;3;FIN;INDF;V;PST;ACT;IND	_	_	_	_
+37	felsorakoztatni	felsorakoztat	_	_	CAUS;NFIN;V	_	_	_	_
+38	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-794
+# text = Az IMF 330 millió, a Világbank 220 millió dolláros kedvezményes kölcsönt helyezett kilátásba, az Európai Unió 40 millió eurós építési segélyt ígért.
+1	Az	az	_	_	DET;DEF	_	_	_	_
+2	IMF	IMF	_	_	PROPN;SG;NOM	_	_	_	_
+3	330	330	_	_	SG;NUM;NOM	_	_	_	_
+4	millió	millió	_	_	SG;NUM;NOM	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	a	a	_	_	DET;DEF	_	_	_	_
+7	Világbank	Világbank	_	_	PROPN;SG;NOM	_	_	_	_
+8	220	220	_	_	SG;NUM;NOM	_	_	_	_
+9	millió	millió	_	_	SG;NUM;NOM	_	_	_	_
+10	dolláros	dolláros	_	_	ADJ;NOM;SG	_	_	_	_
+11	kedvezményes	kedvezményes	_	_	ADJ;NOM;SG	_	_	_	_
+12	kölcsönt	kölcsön	_	_	SG;N;ACC	_	_	_	_
+13	helyezett	helyez	_	_	PST;INDF;ACT;3;V;IND;FIN;SG	_	_	_	_
+14	kilátásba	kilátás	_	_	IN+ALL;SG;N	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	az	az	_	_	DET;DEF	_	_	_	_
+17	Európai	Európai	_	_	PROPN;SG;NOM	_	_	_	_
+18	Unió	Unió	_	_	PROPN;SG;NOM	_	_	_	_
+19	40	40	_	_	SG;NUM;NOM	_	_	_	_
+20	millió	millió	_	_	SG;NUM;NOM	_	_	_	_
+21	eurós	eurós	_	_	ADJ;NOM;SG	_	_	_	_
+22	építési	építési	_	_	ADJ;NOM;SG	_	_	_	_
+23	segélyt	segély	_	_	SG;N;ACC	_	_	_	_
+24	ígért	ígér	_	_	PST;INDF;ACT;3;V;IND;FIN;SG	_	_	_	_
+25	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-275
+# text = De az is előfordult, hogy valaki hosszan tartó, súlyos betegsége miatt kérte felmentését beosztásából.
+1	De	de	_	_	CONJ	_	_	_	_
+2	az	az	_	_	PSSD;PRO;3;SG;NOM	_	_	_	_
+3	is	is	_	_	CONJ	_	_	_	_
+4	előfordult	elő+fordul	_	_	FIN;3;INDF;SG;IND;PST;V;ACT	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	hogy	hogy	_	_	CONJ	_	_	_	_
+7	valaki	valaki	_	_	PSSD;PRO;3;SG;NOM	_	_	_	_
+8	hosszan	hosszú	_	_	PSSD;SG;FRML;ADJ	_	_	_	_
+9	tartó	tartó	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	súlyos	súlyos	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+12	betegsége	betegség	_	_	PSS3S;SG;N;NOM	_	_	_	_
+13	miatt	miatt	_	_	ADP	_	_	_	_
+14	kérte	kér	_	_	FIN;3;SG;IND;DEF;PST;V;ACT	_	_	_	_
+15	felmentését	felmentés	_	_	PSS3S;SG;N;ACC	_	_	_	_
+16	beosztásából	beosztás	_	_	PSS3S;SG;IN+ABL;N	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-55
+# text = "Nem akarok elébe menni a Fidesz-MPP országos választmánya döntésének, a párt tagjaként várom, hogy ki akarnak -e zárni", mondta Helmeczy László fideszes országgyűlési képviselő, a Szabolcs-Szatmár-Bereg megyei közgyűlés elnöke lapunknak arra a kérdésére válaszolva, hogy nem kíván -e elébe menni a várható kizárásának, nem lép -e ki önként.
+1	"	"	_	_	_	_	_	_	_
+2	Nem	nem	_	_	ADV	_	_	_	_
+3	akarok	akar	_	_	1;SG;FIN;INDF;V;ACT;PRS;IND	_	_	_	_
+4	elébe	elébe	_	_	PSSD;SG;3;PRO;NOM	_	_	_	_
+5	menni	megy	_	_	NFIN;V;ACT	_	_	_	_
+6	a	a	_	_	DET;DEF	_	_	_	_
+7	Fidesz-MPP	Fidesz-MPP	_	_	PSSD;SG;NOM;PROPN	_	_	_	_
+8	országos	országos	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+9	választmánya	választmány	_	_	PSS3S;SG;N;NOM	_	_	_	_
+10	döntésének	döntés	_	_	PSS3S;SG;N;DAT	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	a	a	_	_	DET;DEF	_	_	_	_
+13	párt	párt	_	_	PSSD;SG;N;NOM	_	_	_	_
+14	tagjaként	tag	_	_	PSS3S;SG;N;ABS	_	_	_	_
+15	várom	vár	_	_	SG;1;FIN;V;DEF;ACT;PRS;IND	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	hogy	hogy	_	_	CONJ	_	_	_	_
+18	ki	ki	_	_	ADV	_	_	_	_
+19	akarnak	akar	_	_	3;FIN;INDF;V;PL;ACT;PRS;IND	_	_	_	_
+20	-e	-e	_	_	ADV	_	_	_	_
+21	zárni	zár	_	_	NFIN;V;ACT	_	_	_	_
+22	"	"	_	_	_	_	_	_	_
+23	,	,	_	_	_	_	_	_	_
+24	mondta	mond	_	_	SG;3;FIN;V;DEF;PST;ACT;IND	_	_	_	_
+25	Helmeczy	Helmeczy	_	_	PSSD;SG;NOM;PROPN	_	_	_	_
+26	László	László	_	_	PSSD;SG;NOM;PROPN	_	_	_	_
+27	fideszes	fideszes	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+28	országgyűlési	országgyűlési	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+29	képviselő	képviselő	_	_	PSSD;SG;N;NOM	_	_	_	_
+30	,	,	_	_	_	_	_	_	_
+31	a	a	_	_	DET;DEF	_	_	_	_
+32	Szabolcs-Szatmár-Bereg	Szabolcs-Szatmár-Bereg	_	_	PSSD;SG;NOM;PROPN	_	_	_	_
+33	megyei	megyei	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+34	közgyűlés	közgyűlés	_	_	PSSD;SG;N;NOM	_	_	_	_
+35	elnöke	elnök	_	_	PSS3S;SG;N;NOM	_	_	_	_
+36	lapunknak	lapu	_	_	PSS1P;SG;N;GEN	_	_	_	_
+37	arra	az	_	_	PSSD;SG;3;DET;ON+ALL	_	_	_	_
+38	a	a	_	_	DET;DEF	_	_	_	_
+39	kérdésére	kérdés	_	_	PSS3S;SG;N;ON+ALL	_	_	_	_
+40	válaszolva	válaszolva	_	_	V.CVB;ADV	_	_	_	_
+41	,	,	_	_	_	_	_	_	_
+42	hogy	hogy	_	_	CONJ	_	_	_	_
+43	nem	nem	_	_	ADV	_	_	_	_
+44	kíván	kíván	_	_	SG;3;FIN;INDF;V;ACT;PRS;IND	_	_	_	_
+45	-e	-e	_	_	ADV	_	_	_	_
+46	elébe	elébe	_	_	PSSD;SG;3;PRO;NOM	_	_	_	_
+47	menni	megy	_	_	NFIN;V;ACT	_	_	_	_
+48	a	a	_	_	DET;DEF	_	_	_	_
+49	várható	várható	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+50	kizárásának	kizárás	_	_	PSS3S;SG;N;DAT	_	_	_	_
+51	,	,	_	_	_	_	_	_	_
+52	nem	nem	_	_	ADV	_	_	_	_
+53	lép	lép	_	_	SG;3;FIN;INDF;V;ACT;PRS;IND	_	_	_	_
+54	-e	-e	_	_	ADV	_	_	_	_
+55	ki	ki	_	_	ADV	_	_	_	_
+56	önként	önként	_	_	ADV	_	_	_	_
+57	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-234
+# text = A cégek minden élelmiszer-ipari ágazatban más-más célt szeretnének elérni erőik egyesítésével — jelentette ki a Mark Voorbergen vezető elemző a Rabobank Hungária Rt. által szervezett, az élemiszeriparban zajló hazai és nemzetközi folyamatokkal foglalkozó konferencián.
+1	A	a	_	_	DET;DEF	_	_	_	_
+2	cégek	cég	_	_	PSSD;N;PL;NOM	_	_	_	_
+3	minden	minden	_	_	DET;INDF	_	_	_	_
+4	élelmiszer-ipari	élelmiszer-ipari	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+5	ágazatban	ágazat	_	_	PSSD;SG;N;IN+ESS	_	_	_	_
+6	más-más	más-más	_	_	DET;INDF	_	_	_	_
+7	célt	cél	_	_	PSSD;SG;N;ACC	_	_	_	_
+8	szeretnének	szeret	_	_	3;FIN;INDF;V;PL;COND;ACT;PRS	_	_	_	_
+9	elérni	el+ér	_	_	NFIN;V;ACT	_	_	_	_
+10	erőik	erő	_	_	PSS3P;N;PL;NOM	_	_	_	_
+11	egyesítésével	egyesítés	_	_	PSS3S;SG;INS;N	_	_	_	_
+12	—	—	_	_	_	_	_	_	_
+13	jelentette	jelent	_	_	SG;3;FIN;V;DEF;PST;ACT;IND	_	_	_	_
+14	ki	ki	_	_	ADV	_	_	_	_
+15	a	a	_	_	DET;DEF	_	_	_	_
+16	Mark	Mark	_	_	PSSD;SG;NOM;PROPN	_	_	_	_
+17	Voorbergen	Voorbergen	_	_	PSSD;SG;NOM;PROPN	_	_	_	_
+18	vezető	vezető	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+19	elemző	elemző	_	_	PSSD;SG;N;NOM	_	_	_	_
+20	a	a	_	_	DET;DEF	_	_	_	_
+21	Rabobank	Rabobank	_	_	PSSD;SG;NOM;PROPN	_	_	_	_
+22	Hungária	Hungária	_	_	PSSD;SG;NOM;PROPN	_	_	_	_
+23	Rt.	Rt.	_	_	PSSD;SG;NOM;PROPN	_	_	_	_
+24	által	által	_	_	ADP	_	_	_	_
+25	szervezett	szervezett	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+26	,	,	_	_	_	_	_	_	_
+27	az	az	_	_	DET;DEF	_	_	_	_
+28	élemiszeriparban	élelmiszeripar	_	_	PSSD;SG;N;IN+ESS	_	_	_	_
+29	zajló	zajló	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+30	hazai	hazai	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+31	és	és	_	_	CONJ	_	_	_	_
+32	nemzetközi	nemzetközi	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+33	folyamatokkal	folyamat	_	_	PSSD;INS;N;PL	_	_	_	_
+34	foglalkozó	foglalkozó	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+35	konferencián	konferencia	_	_	PSSD;SG;ON+ESS;N	_	_	_	_
+36	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-38
+# text = — Nem az én hetem volt az utóbbi három — merengett a profiként veretlen amatőr olimpiai, világ- és Európa-bajnok kiválóság.
+1	—	—	_	_	_	_	_	_	_
+2	Nem	nem	_	_	ADV	_	_	_	_
+3	az	az	_	_	DEF;DET	_	_	_	_
+4	én	én	_	_	PSSD;PRO;1;SG;NOM	_	_	_	_
+5	hetem	hét	_	_	PSS1S;SG;N;NOM	_	_	_	_
+6	volt	van	_	_	FIN;3;INDF;SG;V;IND;PST;ACT	_	_	_	_
+7	az	az	_	_	DEF;DET	_	_	_	_
+8	utóbbi	utóbbi	_	_	PSSD;CMPR;SG;ADJ;NOM	_	_	_	_
+9	három	három	_	_	PSSD;NUM;SG;NOM	_	_	_	_
+10	—	—	_	_	_	_	_	_	_
+11	merengett	mereng	_	_	FIN;3;INDF;SG;IND;PST;V;ACT	_	_	_	_
+12	a	a	_	_	DEF;DET	_	_	_	_
+13	profiként	profi	_	_	PSSD;ABS;SG;N	_	_	_	_
+14	veretlen	veretlen	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+15	amatőr	amatőr	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+16	olimpiai	olimpiai	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+17	,	,	_	_	_	_	_	_	_
+18	világ-	világ-	_	_	PSSD;SG;N;NOM	_	_	_	_
+19	és	és	_	_	CONJ	_	_	_	_
+20	Európa-bajnok	Európa-bajnok	_	_	PSSD;SG;N;NOM	_	_	_	_
+21	kiválóság	kiválóság	_	_	PSSD;SG;N;NOM	_	_	_	_
+22	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-716
+# text = Brazíliában 300 millió dollárt fordítottak 75 ezer ember kezelésére.
+1	Brazíliában	Brazília	_	_	PSSD;IN+ESS;PROPN;SG	_	_	_	_
+2	300	300	_	_	PSSD;NUM;NOM;SG	_	_	_	_
+3	millió	millió	_	_	PSSD;NUM;NOM;SG	_	_	_	_
+4	dollárt	dollár	_	_	PSSD;N;ACC;SG	_	_	_	_
+5	fordítottak	fordít	_	_	PST;INDF;ACT;3;V;IND;PL;FIN	_	_	_	_
+6	75	75	_	_	PSSD;NUM;NOM;SG	_	_	_	_
+7	ezer	ezer	_	_	PSSD;NUM;NOM;SG	_	_	_	_
+8	ember	ember	_	_	PSSD;NOM;N;SG	_	_	_	_
+9	kezelésére	kezelés	_	_	PSS3S;N;ON+ALL;SG	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-432
+# text = Az amerikai cégre az igazi megmérettetés mindazonáltal Európában vár, ahol a legtöbb országban kialakult kávézási szokásokkal kell fölvenniük a versenyt a tradicionalisták által a terjeszkedésben példaként tekintett McDonald's egyentermékeinek mintájára McCoffeenak csúfolt kínálatukkal.
+1	Az	az	_	_	DEF;DET	_	_	_	_
+2	amerikai	amerikai	_	_	ADJ;NOM;SG	_	_	_	_
+3	cégre	cég	_	_	N;ON+ALL;SG	_	_	_	_
+4	az	az	_	_	DEF;DET	_	_	_	_
+5	igazi	igazi	_	_	ADJ;NOM;SG	_	_	_	_
+6	megmérettetés	megmérettetés	_	_	N;NOM;SG	_	_	_	_
+7	mindazonáltal	mindazonáltal	_	_	CONJ	_	_	_	_
+8	Európában	Európa	_	_	PROPN;IN+ESS;SG	_	_	_	_
+9	vár	vár	_	_	FIN;3;INDF;SG;PRS;IND;V;ACT	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	ahol	ahol	_	_	ADV	_	_	_	_
+12	a	a	_	_	DEF;DET	_	_	_	_
+13	legtöbb	legtöbb	_	_	NUM;NOM;SG	_	_	_	_
+14	országban	ország	_	_	N;IN+ESS;SG	_	_	_	_
+15	kialakult	kialakult	_	_	SG;ADJ;NOM	_	_	_	_
+16	kávézási	kávézási	_	_	ADJ;NOM;SG	_	_	_	_
+17	szokásokkal	szokás	_	_	N;INS;PL	_	_	_	_
+18	kell	kell	_	_	FIN;3;INDF;SG;PRS;IND;V;ACT	_	_	_	_
+19	fölvenniük	fölvesz	_	_	NFIN;3;PRS;PL;V;ACT	_	_	_	_
+20	a	a	_	_	DEF;DET	_	_	_	_
+21	versenyt	verseny	_	_	N;ACC;SG	_	_	_	_
+22	a	a	_	_	DEF;DET	_	_	_	_
+23	tradicionalisták	tradicionalista	_	_	N;NOM;PL	_	_	_	_
+24	által	által	_	_	ADP	_	_	_	_
+25	a	a	_	_	DEF;DET	_	_	_	_
+26	terjeszkedésben	terjeszkedés	_	_	N;IN+ESS;SG	_	_	_	_
+27	példaként	példa	_	_	ABS;N;SG	_	_	_	_
+28	tekintett	tekintett	_	_	SG;ADJ;NOM	_	_	_	_
+29	McDonald's	McDonald's	_	_	PROPN;NOM;SG	_	_	_	_
+30	egyentermékeinek	egyentermék	_	_	PSS3S;GEN;N;PL	_	_	_	_
+31	mintájára	minta	_	_	PSS3S;ON+ALL;SG;N	_	_	_	_
+32	McCoffeenak	McCoffee	_	_	PROPN;DAT;SG	_	_	_	_
+33	csúfolt	csúfolt	_	_	SG;ADJ;NOM	_	_	_	_
+34	kínálatukkal	kínálat	_	_	PSS3P;SG;N;INS	_	_	_	_
+35	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-394
+# text = Márpedig a Gazprom számára a kivitel létfontosságú, hiszen a belföldi és a FÁK-piacon hagyományosan bajok vannak a fizetéssel.
+1	Márpedig	márpedig	_	_	CONJ	_	_	_	_
+2	a	a	_	_	DEF;DET	_	_	_	_
+3	Gazprom	Gazprom	_	_	PROPN;NOM;SG	_	_	_	_
+4	számára	számára	_	_	ADP	_	_	_	_
+5	a	a	_	_	DEF;DET	_	_	_	_
+6	kivitel	kivitel	_	_	N;NOM;SG	_	_	_	_
+7	létfontosságú	létfontosságú	_	_	ADJ;NOM;SG	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	hiszen	hiszen	_	_	CONJ	_	_	_	_
+10	a	a	_	_	DEF;DET	_	_	_	_
+11	belföldi	belföldi	_	_	ADJ;NOM;SG	_	_	_	_
+12	és	és	_	_	CONJ	_	_	_	_
+13	a	a	_	_	DEF;DET	_	_	_	_
+14	FÁK-piacon	FÁK-piac	_	_	N;ON+ESS;SG	_	_	_	_
+15	hagyományosan	hagyományos	_	_	FRML;ADJ;SG	_	_	_	_
+16	bajok	baj	_	_	N;NOM;PL	_	_	_	_
+17	vannak	van	_	_	FIN;3;INDF;PRS;IND;PL;V;ACT	_	_	_	_
+18	a	a	_	_	DEF;DET	_	_	_	_
+19	fizetéssel	fizetés	_	_	N;INS;SG	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-167
+# text = A megyei mentési feladatokkal a megyei védelmi bizottságokat bízták meg, ezek irányítását és az információszolgáltatást pedig az operatív bizottság végzi.
+1	A	a	_	_	DET;DEF	_	_	_	_
+2	megyei	megyei	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+3	mentési	mentési	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+4	feladatokkal	feladat	_	_	PSSD;INS;N;PL	_	_	_	_
+5	a	a	_	_	DET;DEF	_	_	_	_
+6	megyei	megyei	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+7	védelmi	védelmi	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+8	bizottságokat	bizottság	_	_	PSSD;N;PL;ACC	_	_	_	_
+9	bízták	bíz	_	_	DEF;PST;ACT;3;V;IND;PL;FIN	_	_	_	_
+10	meg	meg	_	_	PART	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	ezek	ez	_	_	PSSD;NOM;PRO;3;PL	_	_	_	_
+13	irányítását	irányítás	_	_	PSS3S;N;ACC;SG	_	_	_	_
+14	és	és	_	_	CONJ	_	_	_	_
+15	az	az	_	_	DET;DEF	_	_	_	_
+16	információszolgáltatást	információszolgáltatás	_	_	PSSD;N;ACC;SG	_	_	_	_
+17	pedig	pedig	_	_	CONJ	_	_	_	_
+18	az	az	_	_	DET;DEF	_	_	_	_
+19	operatív	operatív	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+20	bizottság	bizottság	_	_	PSSD;NOM;N;SG	_	_	_	_
+21	végzi	végez	_	_	DEF;ACT;3;V;IND;FIN;SG;PRS	_	_	_	_
+22	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-689
+# text = Az illetékesek elejétől fogva óvatosan kezelték a Nyugatra szökött volt KGB-ügynök "leleplezéseit", ezért az olaszokra vonatkozó listát ugyan közreadták, de az igazságügyi szervek azóta alaposan tanulmányozzák azt.
+1	Az	az	_	_	DET;DEF	_	_	_	_
+2	illetékesek	illetékes	_	_	PSSD;NOM;N;PL	_	_	_	_
+3	elejétől	eleje	_	_	PSS3S;AT+ABL;N;SG	_	_	_	_
+4	fogva	fogva	_	_	ADP	_	_	_	_
+5	óvatosan	óvatos	_	_	PSSD;FRML;ADJ;SG	_	_	_	_
+6	kezelték	kezel	_	_	DEF;PST;ACT;3;V;IND;PL;FIN	_	_	_	_
+7	a	a	_	_	DET;DEF	_	_	_	_
+8	Nyugatra	Nyugat	_	_	PSSD;ON+ALL;PROPN;SG	_	_	_	_
+9	szökött	szökött	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+10	volt	volt	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+11	KGB-ügynök	KGB-ügynök	_	_	PSSD;NOM;N;SG	_	_	_	_
+12	"	"	_	_	_	_	_	_	_
+13	leleplezéseit	leleplezés	_	_	PSS3S;N;PL;ACC	_	_	_	_
+14	"	"	_	_	_	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	ezért	ezért	_	_	CONJ	_	_	_	_
+17	az	az	_	_	DET;DEF	_	_	_	_
+18	olaszokra	olasz	_	_	PSSD;N;PL;ON+ALL	_	_	_	_
+19	vonatkozó	vonatkozó	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+20	listát	lista	_	_	PSSD;N;ACC;SG	_	_	_	_
+21	ugyan	ugyan	_	_	CONJ	_	_	_	_
+22	közreadták	közre+ad	_	_	DEF;PST;ACT;3;V;IND;PL;FIN	_	_	_	_
+23	,	,	_	_	_	_	_	_	_
+24	de	de	_	_	CONJ	_	_	_	_
+25	az	az	_	_	DET;DEF	_	_	_	_
+26	igazságügyi	igazságügyi	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+27	szervek	szerv	_	_	PSSD;NOM;N;PL	_	_	_	_
+28	azóta	azóta	_	_	ADV	_	_	_	_
+29	alaposan	alapos	_	_	PSSD;FRML;ADJ;SG	_	_	_	_
+30	tanulmányozzák	tanulmányoz	_	_	DEF;ACT;3;V;IND;PL;FIN;PRS	_	_	_	_
+31	azt	az	_	_	PSSD;PRO;3;ACC;SG	_	_	_	_
+32	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-509
+# text = Lelkileg is jót tett: érzem, nem dolgoztam hiába egy évig.
+1	Lelkileg	lelki	_	_	PSSD;FRML;ADJ;SG	_	_	_	_
+2	is	is	_	_	CONJ	_	_	_	_
+3	jót	jó	_	_	PSSD;N;ACC;SG	_	_	_	_
+4	tett	tesz	_	_	PST;INDF;ACT;3;V;IND;FIN;SG	_	_	_	_
+5	:	:	_	_	_	_	_	_	_
+6	érzem	érez	_	_	DEF;PRS;ACT;V;IND;FIN;SG;1	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	nem	nem	_	_	ADV	_	_	_	_
+9	dolgoztam	dolgozik	_	_	PST;INDF;ACT;V;IND;FIN;SG;1	_	_	_	_
+10	hiába	hiába	_	_	ADV	_	_	_	_
+11	egy	egy	_	_	PSSD;NUM;NOM;SG	_	_	_	_
+12	évig	év	_	_	PSSD;N;SG	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-318
+# text = Hacsak a jugoszláv utakon, némi hatósági közreműködéssel, lába nem kél a szállítmánynak.
+1	Hacsak	hacsak	_	_	CONJ	_	_	_	_
+2	a	a	_	_	DET;DEF	_	_	_	_
+3	jugoszláv	jugoszláv	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+4	utakon	út	_	_	PSSD;ON+ESS;N;PL	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	némi	némi	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+7	hatósági	hatósági	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+8	közreműködéssel	közreműködés	_	_	PSSD;INS;N;SG	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	lába	láb	_	_	PSS3S;NOM;N;SG	_	_	_	_
+11	nem	nem	_	_	ADV	_	_	_	_
+12	kél	kél	_	_	INDF;ACT;3;V;IND;FIN;SG;PRS	_	_	_	_
+13	a	a	_	_	DET;DEF	_	_	_	_
+14	szállítmánynak	szállítmány	_	_	PSSD;N;GEN;SG	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-164
+# text = Nem közlekedett a Volán az M1-es autópályán sem, mivel azt a rendőrség lezárta.
+1	Nem	nem	_	_	ADV	_	_	_	_
+2	közlekedett	közlekedik	_	_	PST;INDF;ACT;3;V;IND;FIN;SG	_	_	_	_
+3	a	a	_	_	DET;DEF	_	_	_	_
+4	Volán	Volán	_	_	PSSD;NOM;PROPN;SG	_	_	_	_
+5	az	az	_	_	DET;DEF	_	_	_	_
+6	M1-es	M1-es	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+7	autópályán	autópálya	_	_	PSSD;ON+ESS;N;SG	_	_	_	_
+8	sem	sem	_	_	CONJ	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	mivel	mivel	_	_	CONJ	_	_	_	_
+11	azt	az	_	_	PSSD;PRO;3;ACC;SG	_	_	_	_
+12	a	a	_	_	DET;DEF	_	_	_	_
+13	rendőrség	rendőrség	_	_	PSSD;NOM;N;SG	_	_	_	_
+14	lezárta	le+zár	_	_	DEF;PST;ACT;3;V;IND;FIN;SG	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-67
+# text = Az MSZP parlamenti frakciója az Országgyűlés külügyi bizottsága mai ülésén — napirend előtt — kezdeményezi, hogy a testületnek beszámoló Martonyi János külügyminiszter mondja el véleményét Jeszenszky Géza washingtoni nagykövet Fábry Pálhoz, a Pulitzer-emlékdíj alapítójához írt leveléről, melyben újságírókat kritizál.
+1	Az	az	_	_	DET;DEF	_	_	_	_
+2	MSZP	MSZP	_	_	PSSD;SG;NOM;PROPN	_	_	_	_
+3	parlamenti	parlamenti	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+4	frakciója	frakció	_	_	PSS3S;SG;N;NOM	_	_	_	_
+5	az	az	_	_	DET;DEF	_	_	_	_
+6	Országgyűlés	Országgyűlés	_	_	PSSD;SG;NOM;PROPN	_	_	_	_
+7	külügyi	külügyi	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+8	bizottsága	bizottság	_	_	PSS3S;SG;N;NOM	_	_	_	_
+9	mai	mai	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+10	ülésén	ülés	_	_	PSS3S;SG;ON+ESS;N	_	_	_	_
+11	—	—	_	_	_	_	_	_	_
+12	napirend	napirend	_	_	PSSD;SG;N;NOM	_	_	_	_
+13	előtt	előtt	_	_	ADP	_	_	_	_
+14	—	—	_	_	_	_	_	_	_
+15	kezdeményezi	kezdeményez	_	_	SG;3;FIN;V;DEF;ACT;PRS;IND	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	hogy	hogy	_	_	CONJ	_	_	_	_
+18	a	a	_	_	DET;DEF	_	_	_	_
+19	testületnek	testület	_	_	PSSD;SG;N;DAT	_	_	_	_
+20	beszámoló	beszámoló	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+21	Martonyi	Martonyi	_	_	PSSD;SG;NOM;PROPN	_	_	_	_
+22	János	János	_	_	PSSD;SG;NOM;PROPN	_	_	_	_
+23	külügyminiszter	külügyminiszter	_	_	PSSD;SG;N;NOM	_	_	_	_
+24	mondja	mond	_	_	SG;3;FIN;V;DEF;ACT;IMP;PRS	_	_	_	_
+25	el	el	_	_	ADV	_	_	_	_
+26	véleményét	vélemény	_	_	PSS3S;SG;N;ACC	_	_	_	_
+27	Jeszenszky	Jeszenszky	_	_	PSSD;SG;NOM;PROPN	_	_	_	_
+28	Géza	Géza	_	_	PSSD;SG;NOM;PROPN	_	_	_	_
+29	washingtoni	washingtoni	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+30	nagykövet	nagykövet	_	_	PSSD;SG;N;NOM	_	_	_	_
+31	Fábry	Fábry	_	_	PSSD;SG;NOM;PROPN	_	_	_	_
+32	Pálhoz	Pál	_	_	PSSD;SG;AT+ALL;PROPN	_	_	_	_
+33	,	,	_	_	_	_	_	_	_
+34	a	a	_	_	DET;DEF	_	_	_	_
+35	Pulitzer-emlékdíj	Pulitzer-emlékdíj	_	_	PSSD;SG;NOM;PROPN	_	_	_	_
+36	alapítójához	alapító	_	_	PSS3S;SG;N;AT+ALL	_	_	_	_
+37	írt	írt	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+38	leveléről	levél	_	_	PSS3S;SG;N	_	_	_	_
+39	,	,	_	_	_	_	_	_	_
+40	melyben	mely	_	_	PSSD;SG;3;PRO;IN+ESS	_	_	_	_
+41	újságírókat	újságíró	_	_	PSSD;N;PL;ACC	_	_	_	_
+42	kritizál	kritizál	_	_	SG;3;FIN;INDF;V;ACT;PRS;IND	_	_	_	_
+43	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-377
+# text = Más kérdés, hogy a határőrség egyelőre új státusokat sem kapott az új feladatok mellé; a több munkát — mint Krisán Attila mondta — rugalmas helyi munkaszervezéssel kívánják ellátni.
+1	Más	más	_	_	SG;3;PRO;NOM	_	_	_	_
+2	kérdés	kérdés	_	_	SG;NOM;N	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	hogy	hogy	_	_	CONJ	_	_	_	_
+5	a	a	_	_	DET;DEF	_	_	_	_
+6	határőrség	határőrség	_	_	SG;NOM;N	_	_	_	_
+7	egyelőre	egyelőre	_	_	ADV	_	_	_	_
+8	új	új	_	_	NOM;ADJ;SG	_	_	_	_
+9	státusokat	státus	_	_	ACC;N;PL	_	_	_	_
+10	sem	sem	_	_	ADV	_	_	_	_
+11	kapott	kap	_	_	SG;3;FIN;INDF;V;PST;ACT;IND	_	_	_	_
+12	az	az	_	_	DET;DEF	_	_	_	_
+13	új	új	_	_	NOM;ADJ;SG	_	_	_	_
+14	feladatok	feladat	_	_	NOM;N;PL	_	_	_	_
+15	mellé	mellé	_	_	ADP	_	_	_	_
+16	;	;	_	_	_	_	_	_	_
+17	a	a	_	_	DET;DEF	_	_	_	_
+18	több	több	_	_	SG;NOM;NUM	_	_	_	_
+19	munkát	munka	_	_	SG;ACC;N	_	_	_	_
+20	—	—	_	_	_	_	_	_	_
+21	mint	mint	_	_	ADV	_	_	_	_
+22	Krisán	Krisán	_	_	SG;NOM;PROPN	_	_	_	_
+23	Attila	Attila	_	_	SG;NOM;PROPN	_	_	_	_
+24	mondta	mond	_	_	SG;3;FIN;V;DEF;PST;ACT;IND	_	_	_	_
+25	—	—	_	_	_	_	_	_	_
+26	rugalmas	rugalmas	_	_	NOM;ADJ;SG	_	_	_	_
+27	helyi	helyi	_	_	NOM;ADJ;SG	_	_	_	_
+28	munkaszervezéssel	munkaszervezés	_	_	SG;INS;N	_	_	_	_
+29	kívánják	kíván	_	_	3;FIN;V;DEF;PL;ACT;PRS;IND	_	_	_	_
+30	ellátni	ellát	_	_	NFIN;V;ACT	_	_	_	_
+31	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-388
+# text = — Nem hiszem, bár nagyon izgalmas, érdekes kirándulások voltak ezek a forgatások.
+1	—	—	_	_	_	_	_	_	_
+2	Nem	nem	_	_	ADV	_	_	_	_
+3	hiszem	hisz	_	_	DEF;PRS;ACT;V;IND;FIN;SG;1	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	bár	bár	_	_	CONJ	_	_	_	_
+6	nagyon	nagyon	_	_	ADV	_	_	_	_
+7	izgalmas	izgalmas	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	érdekes	érdekes	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+10	kirándulások	kirándulás	_	_	PSSD;NOM;N;PL	_	_	_	_
+11	voltak	van	_	_	PST;INDF;ACT;V;3;IND;PL;FIN	_	_	_	_
+12	ezek	ez	_	_	PSSD;DET;NOM;3;PL	_	_	_	_
+13	a	a	_	_	DET;DEF	_	_	_	_
+14	forgatások	forgatás	_	_	PSSD;NOM;N;PL	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-303
+# text = Gyerevék arra hivatkoznak, hogy az elnökválasztás május 16-ai második fordulójában tömeges szabálytalanságok történtek, így például a zömmel karacsájok és oroszok lakta választási körzetekben több tízezren előre leadták a voksukat (többnyire azzal az ürüggyel, hogy a szavazás napján a hegyekben legeltetik a juhokat).
+1	Gyerevék	Gyerev	_	_	PROPN;NOM;PL	_	_	_	_
+2	arra	az	_	_	ON+ALL;PRO;3;SG	_	_	_	_
+3	hivatkoznak	hivatkozik	_	_	FIN;3;INDF;PRS;IND;PL;V;ACT	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	hogy	hogy	_	_	CONJ	_	_	_	_
+6	az	az	_	_	DEF;DET	_	_	_	_
+7	elnökválasztás	elnökválasztás	_	_	N;NOM;SG	_	_	_	_
+8	május	május	_	_	N;NOM;SG	_	_	_	_
+9	16-ai	16-ai	_	_	ADJ;NOM;SG	_	_	_	_
+10	második	második	_	_	ADJ;NOM;SG	_	_	_	_
+11	fordulójában	forduló	_	_	PSS3S;IN+ESS;SG;N	_	_	_	_
+12	tömeges	tömeges	_	_	ADJ;NOM;SG	_	_	_	_
+13	szabálytalanságok	szabálytalanság	_	_	N;NOM;PL	_	_	_	_
+14	történtek	történik	_	_	FIN;3;INDF;IND;PST;PL;V;ACT	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	így	így	_	_	CONJ	_	_	_	_
+17	például	például	_	_	ADV	_	_	_	_
+18	a	a	_	_	DEF;DET	_	_	_	_
+19	zömmel	zöm	_	_	N;INS;SG	_	_	_	_
+20	karacsájok	karacsáj	_	_	N;NOM;PL	_	_	_	_
+21	és	és	_	_	CONJ	_	_	_	_
+22	oroszok	orosz	_	_	N;NOM;PL	_	_	_	_
+23	lakta	lakta	_	_	ADJ;NOM;SG	_	_	_	_
+24	választási	választási	_	_	ADJ;NOM;SG	_	_	_	_
+25	körzetekben	körzet	_	_	N;IN+ESS;PL	_	_	_	_
+26	több	több	_	_	NUM;NOM;SG	_	_	_	_
+27	tízezren	tízezer	_	_	NUM;NOM;SG	_	_	_	_
+28	előre	előre	_	_	ADV	_	_	_	_
+29	leadták	lead	_	_	FIN;3;IND;DEF;PST;PL;V;ACT	_	_	_	_
+30	a	a	_	_	DEF;DET	_	_	_	_
+31	voksukat	voks	_	_	PSS3P;SG;N;ACC	_	_	_	_
+32	(	(	_	_	_	_	_	_	_
+33	többnyire	többnyire	_	_	ADV	_	_	_	_
+34	azzal	az	_	_	PRO;3;SG;INS	_	_	_	_
+35	az	az	_	_	DEF;DET	_	_	_	_
+36	ürüggyel	ürügy	_	_	N;INS;SG	_	_	_	_
+37	,	,	_	_	_	_	_	_	_
+38	hogy	hogy	_	_	CONJ	_	_	_	_
+39	a	a	_	_	DEF;DET	_	_	_	_
+40	szavazás	szavazás	_	_	N;NOM;SG	_	_	_	_
+41	napján	nap	_	_	PSS3S;SG;N;ON+ESS	_	_	_	_
+42	a	a	_	_	DEF;DET	_	_	_	_
+43	hegyekben	hegy	_	_	N;IN+ESS;PL	_	_	_	_
+44	legeltetik	legeltet	_	_	FIN;3;PRS;IND;DEF;PL;CAUS;V	_	_	_	_
+45	a	a	_	_	DEF;DET	_	_	_	_
+46	juhokat	juh	_	_	N;ACC;PL	_	_	_	_
+47	)	)	_	_	_	_	_	_	_
+48	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-168
+# text = Legalábbis így emlegette mindenki Puskás Ferencet, aki a világkiállításra készülő magyar pavilon úgynevezett bokrétaünnepségének volt a díszvendége, s aki még mindig a legismertebb magyar Németországban.
+1	Legalábbis	legalábbis	_	_	ADV	_	_	_	_
+2	így	így	_	_	ADV	_	_	_	_
+3	emlegette	emleget	_	_	FIN;3;SG;IND;DEF;PST;V;ACT	_	_	_	_
+4	mindenki	mindenki	_	_	PSSD;PRO;3;SG;NOM	_	_	_	_
+5	Puskás	Puskás	_	_	PSSD;SG;PROPN;NOM	_	_	_	_
+6	Ferencet	Ferenc	_	_	PSSD;SG;PROPN;ACC	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	aki	aki	_	_	PSSD;PRO;3;SG;NOM	_	_	_	_
+9	a	a	_	_	DEF;DET	_	_	_	_
+10	világkiállításra	világkiállítás	_	_	PSSD;ON+ALL;SG;N	_	_	_	_
+11	készülő	készülő	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+12	magyar	magyar	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+13	pavilon	pavilon	_	_	PSSD;SG;N;NOM	_	_	_	_
+14	úgynevezett	úgynevezett	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+15	bokrétaünnepségének	bokrétaünnepség	_	_	PSS3S;GEN;SG;N	_	_	_	_
+16	volt	van	_	_	FIN;3;INDF;SG;V;IND;PST;ACT	_	_	_	_
+17	a	a	_	_	DEF;DET	_	_	_	_
+18	díszvendége	díszvendég	_	_	PSS3S;SG;N;NOM	_	_	_	_
+19	,	,	_	_	_	_	_	_	_
+20	s	s	_	_	CONJ	_	_	_	_
+21	aki	aki	_	_	PSSD;PRO;3;SG;NOM	_	_	_	_
+22	még	még	_	_	ADV	_	_	_	_
+23	mindig	mindig	_	_	ADV	_	_	_	_
+24	a	a	_	_	DEF;DET	_	_	_	_
+25	legismertebb	ismert	_	_	PSSD;SG;RL;ADJ;NOM	_	_	_	_
+26	magyar	magyar	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+27	Németországban	Németország	_	_	PSSD;IN+ESS;SG;PROPN	_	_	_	_
+28	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-756
+# text = A Corso talpra állítása a társaságot 1994-ben privatizáló — a cég vezetőiből és alkalmazottaiból álló — konzorciumnak sem sikerült (a vételár mindössze 198 millió forint volt, amelynek csak a 30 százalékát kellett készpénzben kifizetni).
+1	A	a	_	_	DET;DEF	_	_	_	_
+2	Corso	Corso	_	_	PROPN;SG;NOM	_	_	_	_
+3	talpra	talp	_	_	ON+ALL;SG;N	_	_	_	_
+4	állítása	állítás	_	_	PSS3S;NOM;N;SG	_	_	_	_
+5	a	a	_	_	DET;DEF	_	_	_	_
+6	társaságot	társaságot	_	_	SG;N;ACC	_	_	_	_
+7	1994-ben	1994	_	_	SG;NUM;IN+ESS	_	_	_	_
+8	privatizáló	privatizáló	_	_	NOM;ADJ;SG	_	_	_	_
+9	—	—	_	_	_	_	_	_	_
+10	a	a	_	_	DET;DEF	_	_	_	_
+11	cég	cég	_	_	SG;NOM;N	_	_	_	_
+12	vezetőiből	vezetőiből	_	_	PSS3S;N;IN+ABL;PL	_	_	_	_
+13	és	és	_	_	CONJ	_	_	_	_
+14	alkalmazottaiból	alkalmazott	_	_	PSS3S;N;IN+ABL;PL	_	_	_	_
+15	álló	álló	_	_	NOM;ADJ;SG	_	_	_	_
+16	—	—	_	_	_	_	_	_	_
+17	konzorciumnak	konzorcium	_	_	SG;DAT;N	_	_	_	_
+18	sem	sem	_	_	ADV	_	_	_	_
+19	sikerült	sikerül	_	_	PST;INDF;ACT;3;V;IND;FIN;SG	_	_	_	_
+20	(	(	_	_	_	_	_	_	_
+21	a	a	_	_	DET;DEF	_	_	_	_
+22	vételár	vételár	_	_	SG;NOM;N	_	_	_	_
+23	mindössze	mindössze	_	_	ADV	_	_	_	_
+24	198	198	_	_	SG;NUM;NOM	_	_	_	_
+25	millió	millió	_	_	SG;NUM;NOM	_	_	_	_
+26	forint	forint	_	_	SG;NOM;N	_	_	_	_
+27	volt	van	_	_	PST;INDF;ACT;V;3;IND;FIN;SG	_	_	_	_
+28	,	,	_	_	_	_	_	_	_
+29	amelynek	amely	_	_	PRO;3;GEN;SG	_	_	_	_
+30	csak	csak	_	_	ADV	_	_	_	_
+31	a	a	_	_	DET;DEF	_	_	_	_
+32	30	30	_	_	SG;NUM;NOM	_	_	_	_
+33	százalékát	százalék	_	_	PSS3S;N;ACC;SG	_	_	_	_
+34	kellett	kell	_	_	PST;INDF;ACT;3;V;IND;FIN;SG	_	_	_	_
+35	készpénzben	készpénz	_	_	SG;N;IN+ESS	_	_	_	_
+36	kifizetni	kifizet	_	_	V;NFIN;ACT	_	_	_	_
+37	)	)	_	_	_	_	_	_	_
+38	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-201
+# text = A szociális és munkaügyi törvények módosítása lehetőséget ad arra, hogy a munkavállalókat akár a minimálbérnél kevesebb pénzért dolgoztassák.
+1	A	a	_	_	DET;DEF	_	_	_	_
+2	szociális	szociális	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+3	és	és	_	_	CONJ	_	_	_	_
+4	munkaügyi	munkaügyi	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+5	törvények	törvény	_	_	PSSD;N;PL;NOM	_	_	_	_
+6	módosítása	módosítás	_	_	PSS3S;SG;N;NOM	_	_	_	_
+7	lehetőséget	lehetőség	_	_	PSSD;SG;N;ACC	_	_	_	_
+8	ad	ad	_	_	SG;3;FIN;INDF;V;ACT;PRS;IND	_	_	_	_
+9	arra	az	_	_	PSSD;SG;3;PRO;ON+ALL	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	hogy	hogy	_	_	CONJ	_	_	_	_
+12	a	a	_	_	DET;DEF	_	_	_	_
+13	munkavállalókat	munkavállaló	_	_	PSSD;N;PL;ACC	_	_	_	_
+14	akár	akár	_	_	ADV	_	_	_	_
+15	a	a	_	_	DET;DEF	_	_	_	_
+16	minimálbérnél	minimálbér	_	_	PSSD;SG;N;AT+ESS	_	_	_	_
+17	kevesebb	kevesebb	_	_	DET;INDF	_	_	_	_
+18	pénzért	pénz	_	_	PSSD;SG;N	_	_	_	_
+19	dolgoztassák	dolgozik	_	_	3;FIN;V;DEF;PL;IMP;CAUS;PRS	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-489
+# text = Jung mondta, ha az autó befordul a sarkon, nem látjuk, de attól még létezik.
+1	Jung	Jung	_	_	PSSD;NOM;PROPN;SG	_	_	_	_
+2	mondta	mond	_	_	DEF;PST;ACT;3;V;IND;FIN;SG	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	ha	ha	_	_	CONJ	_	_	_	_
+5	az	az	_	_	DET;DEF	_	_	_	_
+6	autó	autó	_	_	PSSD;NOM;N;SG	_	_	_	_
+7	befordul	be+fordul	_	_	INDF;ACT;3;V;IND;FIN;SG;PRS	_	_	_	_
+8	a	a	_	_	DET;DEF	_	_	_	_
+9	sarkon	sarok	_	_	PSSD;ON+ESS;N;SG	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	nem	nem	_	_	ADV	_	_	_	_
+12	látjuk	lát	_	_	DEF;ACT;V;IND;PL;FIN;PRS;1	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	de	de	_	_	CONJ	_	_	_	_
+15	attól	az	_	_	PSSD;AT+ABL;PRO;3;SG	_	_	_	_
+16	még	még	_	_	ADV	_	_	_	_
+17	létezik	létezik	_	_	INDF;ACT;3;V;IND;FIN;SG;PRS	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-172
+# text = A vészhelyzetből egyedül a taxisok húztak hasznot.
+1	A	a	_	_	DET;DEF	_	_	_	_
+2	vészhelyzetből	vészhelyzet	_	_	PSSD;N;IN+ABL;SG	_	_	_	_
+3	egyedül	egyedül	_	_	ADV	_	_	_	_
+4	a	a	_	_	DET;DEF	_	_	_	_
+5	taxisok	taxis	_	_	PSSD;NOM;N;PL	_	_	_	_
+6	húztak	húz	_	_	PST;INDF;ACT;3;V;IND;PL;FIN	_	_	_	_
+7	hasznot	haszon	_	_	PSSD;N;ACC;SG	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-302
+# text = Míg azonban a szocialista politikus 19 parlamenti tanácskozásra ment be négy évvel ezelőtt, Orbán Viktor az idén eddig összesen 13 alkalommal tett látogatást az ülésteremben.
+1	Míg	míg	_	_	ADV	_	_	_	_
+2	azonban	azonban	_	_	CONJ	_	_	_	_
+3	a	a	_	_	DET;DEF	_	_	_	_
+4	szocialista	szocialista	_	_	NOM;ADJ;SG	_	_	_	_
+5	politikus	politikus	_	_	SG;NOM;N	_	_	_	_
+6	19	19	_	_	SG;NOM;NUM	_	_	_	_
+7	parlamenti	parlamenti	_	_	NOM;ADJ;SG	_	_	_	_
+8	tanácskozásra	tanácskozás	_	_	SG;ON+ALL;N	_	_	_	_
+9	ment	megy	_	_	SG;3;FIN;INDF;V;PST;ACT;IND	_	_	_	_
+10	be	be	_	_	ADV	_	_	_	_
+11	négy	négy	_	_	SG;NOM;NUM	_	_	_	_
+12	évvel	év	_	_	SG;INS;N	_	_	_	_
+13	ezelőtt	ezelőtt	_	_	ADP	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	Orbán	Orbán	_	_	SG;NOM;PROPN	_	_	_	_
+16	Viktor	Viktor	_	_	SG;NOM;PROPN	_	_	_	_
+17	az	az	_	_	DET;DEF	_	_	_	_
+18	idén	idén	_	_	ADV	_	_	_	_
+19	eddig	eddig	_	_	ADV	_	_	_	_
+20	összesen	összesen	_	_	ADV	_	_	_	_
+21	13	13	_	_	SG;NOM;NUM	_	_	_	_
+22	alkalommal	alkalom	_	_	SG;INS;N	_	_	_	_
+23	tett	tesz	_	_	SG;3;FIN;INDF;V;PST;ACT;IND	_	_	_	_
+24	látogatást	látogatás	_	_	SG;ACC;N	_	_	_	_
+25	az	az	_	_	DET;DEF	_	_	_	_
+26	ülésteremben	ülésterem	_	_	SG;IN+ESS;N	_	_	_	_
+27	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-634
+# text = A csecsen fegyveresek katonai parancsnoka cáfolta, hogy az orosz erők csaknem teljesen körbevették Groznijt, amint azt Moszkva állítja.
+1	A	a	_	_	DET;DEF	_	_	_	_
+2	csecsen	csecsen	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+3	fegyveresek	fegyveres	_	_	PSSD;NOM;N;PL	_	_	_	_
+4	katonai	katonai	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+5	parancsnoka	parancsnok	_	_	PSS3S;NOM;N;SG	_	_	_	_
+6	cáfolta	cáfol	_	_	DEF;PST;ACT;3;V;IND;FIN;SG	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	hogy	hogy	_	_	CONJ	_	_	_	_
+9	az	az	_	_	DET;DEF	_	_	_	_
+10	orosz	orosz	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+11	erők	erő	_	_	PSSD;NOM;N;PL	_	_	_	_
+12	csaknem	csaknem	_	_	ADV	_	_	_	_
+13	teljesen	teljes	_	_	PSSD;FRML;ADJ;SG	_	_	_	_
+14	körbevették	körbevesz	_	_	DEF;PST;ACT;3;V;IND;PL;FIN	_	_	_	_
+15	Groznijt	Groznij	_	_	PSSD;ACC;PROPN;SG	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	amint	amint	_	_	ADV	_	_	_	_
+18	azt	az	_	_	PSSD;PRO;3;ACC;SG	_	_	_	_
+19	Moszkva	Moszkva	_	_	PSSD;NOM;PROPN;SG	_	_	_	_
+20	állítja	állít	_	_	DEF;ACT;3;V;IND;FIN;SG;PRS	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-110
+# text = A több országos szakszervezet és civil ifjúsági szervezetek részvételével megrendezésre kerülő, Kézfogással egy új évezredért című demonstráción az antiszemitizmus ellen kívánnak fellépni.
+1	A	a	_	_	DET;DEF	_	_	_	_
+2	több	több	_	_	DET;INDF	_	_	_	_
+3	országos	országos	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+4	szakszervezet	szakszervezet	_	_	PSSD;SG;N;NOM	_	_	_	_
+5	és	és	_	_	CONJ	_	_	_	_
+6	civil	civil	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+7	ifjúsági	ifjúsági	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+8	szervezetek	szervezet	_	_	PSSD;N;PL;NOM	_	_	_	_
+9	részvételével	részvétel	_	_	PSS3S;SG;INS;N	_	_	_	_
+10	megrendezésre	megrendezés	_	_	PSSD;SG;N;ON+ALL	_	_	_	_
+11	kerülő	kerülő	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	Kézfogással	kézfogás	_	_	PSSD;SG;INS;N	_	_	_	_
+14	egy	egy	_	_	DET;INDF	_	_	_	_
+15	új	új	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+16	évezredért	évezred	_	_	PSSD;SG;N	_	_	_	_
+17	című	című	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+18	demonstráción	demonstráció	_	_	PSSD;SG;ON+ESS;N	_	_	_	_
+19	az	az	_	_	DET;DEF	_	_	_	_
+20	antiszemitizmus	antiszemitizmus	_	_	PSSD;SG;N;NOM	_	_	_	_
+21	ellen	ellen	_	_	ADP	_	_	_	_
+22	kívánnak	kíván	_	_	3;FIN;INDF;V;PL;ACT;PRS;IND	_	_	_	_
+23	fellépni	fel+lép	_	_	NFIN;V;ACT	_	_	_	_
+24	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-430
+# text = Bár a Starbucks nyitott kávébárt Kuvaitban, Thaiföldön és Új-Zélandon is, a legnagyobb reményeket Kínához fűzi.
+1	Bár	bár	_	_	CONJ	_	_	_	_
+2	a	a	_	_	DEF;DET	_	_	_	_
+3	Starbucks	Starbucks	_	_	PROPN;NOM;SG	_	_	_	_
+4	nyitott	nyit	_	_	FIN;3;INDF;SG;IND;PST;V;ACT	_	_	_	_
+5	kávébárt	kávébár	_	_	N;ACC;SG	_	_	_	_
+6	Kuvaitban	Kuvait	_	_	PROPN;IN+ESS;SG	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	Thaiföldön	Thaiföld	_	_	ON+ESS;PROPN;SG	_	_	_	_
+9	és	és	_	_	CONJ	_	_	_	_
+10	Új-Zélandon	Új-Zéland	_	_	ON+ESS;PROPN;SG	_	_	_	_
+11	is	is	_	_	CONJ	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	a	a	_	_	DEF;DET	_	_	_	_
+14	legnagyobb	nagy	_	_	RL;ADJ;NOM;SG	_	_	_	_
+15	reményeket	remény	_	_	N;ACC;PL	_	_	_	_
+16	Kínához	Kína	_	_	PROPN;AT+ALL;SG	_	_	_	_
+17	fűzi	fűz	_	_	FIN;3;PRS;SG;IND;DEF;V;ACT	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-286
+# text = A benzin hozzávetőleg mintegy 200 forintos literenkénti árából jövőre több mint 130 forintot von majd el a kormány.
+1	A	a	_	_	DET;DEF	_	_	_	_
+2	benzin	benzin	_	_	PSSD;SG;N;NOM	_	_	_	_
+3	hozzávetőleg	hozzávetőleg	_	_	ADV	_	_	_	_
+4	mintegy	mintegy	_	_	ADV	_	_	_	_
+5	200	200	_	_	PSSD;SG;NOM;NUM	_	_	_	_
+6	forintos	forintos	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+7	literenkénti	literenkénti	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+8	árából	ár	_	_	PSS3S;SG;N;IN+ABL	_	_	_	_
+9	jövőre	jövőre	_	_	ADV	_	_	_	_
+10	több	több	_	_	DET;INDF	_	_	_	_
+11	mint	mint	_	_	CONJ	_	_	_	_
+12	130	130	_	_	PSSD;SG;NOM;NUM	_	_	_	_
+13	forintot	forint	_	_	PSSD;SG;N;ACC	_	_	_	_
+14	von	von	_	_	SG;3;FIN;INDF;V;ACT;PRS;IND	_	_	_	_
+15	majd	majd	_	_	ADV	_	_	_	_
+16	el	el	_	_	ADV	_	_	_	_
+17	a	a	_	_	DET;DEF	_	_	_	_
+18	kormány	kormány	_	_	PSSD;SG;N;NOM	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-103
+# text = A vastagon behavazott úton tényleg ez a helyzet.
+1	A	a	_	_	DET;DEF	_	_	_	_
+2	vastagon	vastag	_	_	PSSD;ON+ESS;ADJ;SG	_	_	_	_
+3	behavazott	behavazott	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+4	úton	út	_	_	PSSD;ON+ESS;N;SG	_	_	_	_
+5	tényleg	tényleg	_	_	ADV	_	_	_	_
+6	ez	ez	_	_	PSSD;NOM;PRO;3;SG	_	_	_	_
+7	a	a	_	_	DET;DEF	_	_	_	_
+8	helyzet	helyzet	_	_	PSSD;NOM;N;SG	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-39
+# text = Az államnak csupán a gazdaság szervezésében, az információ közvetítésében, az alkalmazkodás segítésében kell részt vennie, nem szabad közvetlenül beavatkoznia a gazdaságba.
+1	Az	az	_	_	DET;DEF	_	_	_	_
+2	államnak	állam	_	_	PSSD;N;SG;DAT	_	_	_	_
+3	csupán	csupán	_	_	ADV	_	_	_	_
+4	a	a	_	_	DET;DEF	_	_	_	_
+5	gazdaság	gazdaság	_	_	PSSD;NOM;N;SG	_	_	_	_
+6	szervezésében	szervezés	_	_	PSS3S;IN+ESS;N;SG	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	az	az	_	_	DET;DEF	_	_	_	_
+9	információ	információ	_	_	PSSD;NOM;N;SG	_	_	_	_
+10	közvetítésében	közvetítés	_	_	PSS3S;IN+ESS;N;SG	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	az	az	_	_	DET;DEF	_	_	_	_
+13	alkalmazkodás	alkalmazkodás	_	_	PSSD;NOM;N;SG	_	_	_	_
+14	segítésében	segítés	_	_	PSS3S;IN+ESS;N;SG	_	_	_	_
+15	kell	kell	_	_	INDF;ACT;3;V;IND;FIN;SG;PRS	_	_	_	_
+16	részt	rész	_	_	PSSD;N;ACC;SG	_	_	_	_
+17	vennie	vesz	_	_	NFIN;ACT;3;V;SG	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	nem	nem	_	_	ADV	_	_	_	_
+20	szabad	szabad	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+21	közvetlenül	közvetlen	_	_	PSSD;FRML;ADJ;SG	_	_	_	_
+22	beavatkoznia	be+avatkozik	_	_	NFIN;ACT;3;V;SG	_	_	_	_
+23	a	a	_	_	DET;DEF	_	_	_	_
+24	gazdaságba	gazdaság	_	_	PSSD;N;IN+ALL;SG	_	_	_	_
+25	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-328
+# text = Az SPO első embere, Vuk Draskovics semmit sem jelentett be, csak a szankciók feloldását sürgette.
+1	Az	az	_	_	DET;DEF	_	_	_	_
+2	SPO	SPO	_	_	PSSD;NOM;PROPN;SG	_	_	_	_
+3	első	első	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+4	embere	ember	_	_	PSS3S;NOM;N;SG	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	Vuk	Vuk	_	_	PSSD;NOM;PROPN;SG	_	_	_	_
+7	Draskovics	Draskovics	_	_	PSSD;NOM;PROPN;SG	_	_	_	_
+8	semmit	semmi	_	_	PSSD;PRO;3;ACC;SG	_	_	_	_
+9	sem	sem	_	_	ADV	_	_	_	_
+10	jelentett	jelent	_	_	PST;INDF;ACT;3;V;IND;FIN;SG	_	_	_	_
+11	be	be	_	_	ADV	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	csak	csak	_	_	ADV	_	_	_	_
+14	a	a	_	_	DET;DEF	_	_	_	_
+15	szankciók	szankció	_	_	PSSD;NOM;N;PL	_	_	_	_
+16	feloldását	feloldás	_	_	PSS3S;N;ACC;SG	_	_	_	_
+17	sürgette	sürget	_	_	DEF;PST;ACT;3;V;IND;FIN;SG	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-893
+# text = A szerbek nem csak Orahovacban érzik magukat szorongatva: múlt hét elején a tartományi székhelyen, Pristinában, három szerb nőt bántalmaztak albán támadók, s ismeretlen fegyveresek rálőttek két cigány férfire is.
+1	A	a	_	_	DET;DEF	_	_	_	_
+2	szerbek	szerb	_	_	NOM;N;PL	_	_	_	_
+3	nem	nem	_	_	ADV	_	_	_	_
+4	csak	csak	_	_	ADV	_	_	_	_
+5	Orahovacban	Orahovac	_	_	PROPN;SG;IN+ESS	_	_	_	_
+6	érzik	érez	_	_	DEF;ACT;3;V;IND;PL;FIN;PRS	_	_	_	_
+7	magukat	maga	_	_	PRO;3;PL;ACC;REFL	_	_	_	_
+8	szorongatva	szorongatva	_	_	V.CVB;ADV	_	_	_	_
+9	:	:	_	_	_	_	_	_	_
+10	múlt	múlt	_	_	ADJ;NOM;SG	_	_	_	_
+11	hét	hét	_	_	SG;NOM;N	_	_	_	_
+12	elején	eleje	_	_	PSS3S;ON+ESS;N;SG	_	_	_	_
+13	a	a	_	_	DET;DEF	_	_	_	_
+14	tartományi	tartományi	_	_	ADJ;NOM;SG	_	_	_	_
+15	székhelyen	székhely	_	_	ON+ESS;SG;N	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	Pristinában	Pristina	_	_	PROPN;SG;IN+ESS	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	három	három	_	_	SG;NUM;NOM	_	_	_	_
+20	szerb	szerb	_	_	ADJ;NOM;SG	_	_	_	_
+21	nőt	nő	_	_	SG;N;ACC	_	_	_	_
+22	bántalmaztak	bántalmaz	_	_	PST;INDF;ACT;3;V;IND;PL;FIN	_	_	_	_
+23	albán	albán	_	_	ADJ;NOM;SG	_	_	_	_
+24	támadók	támadó	_	_	NOM;N;PL	_	_	_	_
+25	,	,	_	_	_	_	_	_	_
+26	s	s	_	_	CONJ	_	_	_	_
+27	ismeretlen	ismeretlen	_	_	ADJ;NOM;SG	_	_	_	_
+28	fegyveresek	fegyveres	_	_	NOM;N;PL	_	_	_	_
+29	rálőttek	rálő	_	_	PST;INDF;ACT;3;V;IND;PL;FIN	_	_	_	_
+30	két	két	_	_	SG;NUM;NOM	_	_	_	_
+31	cigány	cigány	_	_	ADJ;NOM;SG	_	_	_	_
+32	férfire	férfi	_	_	ON+ALL;SG;N	_	_	_	_
+33	is	is	_	_	CONJ	_	_	_	_
+34	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-98
+# text = Az akkor feltárt hiányosságokat a terminál üzemeltetése során felszámolták.
+1	Az	az	_	_	DET;DEF	_	_	_	_
+2	akkor	akkor	_	_	ADV	_	_	_	_
+3	feltárt	feltárt	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+4	hiányosságokat	hiányosság	_	_	PSSD;N;PL;ACC	_	_	_	_
+5	a	a	_	_	DET;DEF	_	_	_	_
+6	terminál	terminál	_	_	PSSD;SG;N;NOM	_	_	_	_
+7	üzemeltetése	üzemeltetés	_	_	PSS3S;SG;N;NOM	_	_	_	_
+8	során	sor	_	_	PSS3S;SG;ON+ESS;N	_	_	_	_
+9	felszámolták	fel+számol	_	_	3;FIN;V;DEF;PL;PST;ACT;IND	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-380
+# text = 1992. augusztus 21-én társai megvonták az aláírási jogot György Sándortól, mondván, "nem megfelelő intézkedéseket hajtott végre", 1996. május 29-étől pedig kizárólag Györök Anita vezeti a céget, amelynek a felszámolása 1997 áprilisában kezdődött.
+1	1992.	1992.	_	_	SG;NOM;ADJ	_	_	_	_
+2	augusztus	augusztus	_	_	SG;NOM;N	_	_	_	_
+3	21-én	21.	_	_	PSS3S;SG;ON+ESS;N	_	_	_	_
+4	társai	társ	_	_	PSS3S;N;PL;NOM	_	_	_	_
+5	megvonták	megvon	_	_	3;FIN;V;DEF;PL;PST;ACT;IND	_	_	_	_
+6	az	az	_	_	DET;DEF	_	_	_	_
+7	aláírási	aláírási	_	_	NOM;ADJ;SG	_	_	_	_
+8	jogot	jog	_	_	SG;ACC;N	_	_	_	_
+9	György	György	_	_	SG;NOM;PROPN	_	_	_	_
+10	Sándortól	Sándor	_	_	SG;AT+ABL;PROPN	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	mondván	mondván	_	_	V.CVB;ADV	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	"	"	_	_	_	_	_	_	_
+15	nem	nem	_	_	ADV	_	_	_	_
+16	megfelelő	megfelelő	_	_	NOM;ADJ;SG	_	_	_	_
+17	intézkedéseket	intézkedés	_	_	ACC;N;PL	_	_	_	_
+18	hajtott	hajt	_	_	SG;3;FIN;INDF;V;PST;ACT;IND	_	_	_	_
+19	végre	végre	_	_	ADV	_	_	_	_
+20	"	"	_	_	_	_	_	_	_
+21	,	,	_	_	_	_	_	_	_
+22	1996.	1996.	_	_	SG;NOM;ADJ	_	_	_	_
+23	május	május	_	_	SG;NOM;N	_	_	_	_
+24	29-étől	29.	_	_	PSS3S;SG;N;AT+ABL	_	_	_	_
+25	pedig	pedig	_	_	CONJ	_	_	_	_
+26	kizárólag	kizárólag	_	_	ADV	_	_	_	_
+27	Györök	Györök	_	_	SG;NOM;PROPN	_	_	_	_
+28	Anita	Anita	_	_	SG;NOM;PROPN	_	_	_	_
+29	vezeti	vezet	_	_	SG;3;FIN;V;DEF;ACT;PRS;IND	_	_	_	_
+30	a	a	_	_	DET;DEF	_	_	_	_
+31	céget	cég	_	_	SG;ACC;N	_	_	_	_
+32	,	,	_	_	_	_	_	_	_
+33	amelynek	amely	_	_	SG;3;PRO;GEN	_	_	_	_
+34	a	a	_	_	DET;DEF	_	_	_	_
+35	felszámolása	felszámolás	_	_	PSS3S;SG;N;NOM	_	_	_	_
+36	1997	1997	_	_	SG;NOM;NUM	_	_	_	_
+37	áprilisában	április	_	_	PSS3S;SG;N;IN+ESS	_	_	_	_
+38	kezdődött	kezdődik	_	_	SG;3;FIN;INDF;V;PST;ACT;IND	_	_	_	_
+39	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-187
+# text = Oregon állam egyik havas, csúszós autópályáján több mint 80 jármű — köztük diákokat szállító négy busz — szaladt egymásba.
+1	Oregon	Oregon	_	_	PSSD;NOM;PROPN;SG	_	_	_	_
+2	állam	állam	_	_	PSSD;NOM;PROPN;SG	_	_	_	_
+3	egyik	egyik	_	_	DET;DEF	_	_	_	_
+4	havas	havas	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	csúszós	csúszós	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+7	autópályáján	autópálya	_	_	PSS3S;ON+ESS;N;SG	_	_	_	_
+8	több	több	_	_	DET;INDF	_	_	_	_
+9	mint	mint	_	_	CONJ	_	_	_	_
+10	80	80	_	_	PSSD;NUM;NOM;SG	_	_	_	_
+11	jármű	jármű	_	_	PSSD;NOM;N;SG	_	_	_	_
+12	—	—	_	_	_	_	_	_	_
+13	köztük	közt	_	_	PSSD;NOM;PRO;3;PL	_	_	_	_
+14	diákokat	diák	_	_	PSSD;N;PL;ACC	_	_	_	_
+15	szállító	szállító	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+16	négy	négy	_	_	PSSD;NUM;NOM;SG	_	_	_	_
+17	busz	busz	_	_	PSSD;NOM;N;SG	_	_	_	_
+18	—	—	_	_	_	_	_	_	_
+19	szaladt	szalad	_	_	PST;INDF;ACT;3;V;IND;FIN;SG	_	_	_	_
+20	egymásba	egymás	_	_	PSSD;PRO;3;IN+ALL;SG	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-397
+# text = Az együttes 1990-es feloszlása óta főleg zeneszerzői tevékenységet folytat: komponált balettzenét, két kamaraoperát, nagyzenekari és kamaraművet, valamint több tucatnyi filmnek, színházi előadásnak is ő a zeneszerzője.
+1	Az	az	_	_	DET;DEF	_	_	_	_
+2	együttes	együttes	_	_	PSSD;NOM;N;SG	_	_	_	_
+3	1990-es	1990-es	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+4	feloszlása	feloszlás	_	_	PSS3S;NOM;N;SG	_	_	_	_
+5	óta	óta	_	_	ADP	_	_	_	_
+6	főleg	főleg	_	_	ADV	_	_	_	_
+7	zeneszerzői	zeneszerzői	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+8	tevékenységet	tevékenység	_	_	PSSD;N;ACC;SG	_	_	_	_
+9	folytat	folytat	_	_	INDF;ACT;3;V;IND;FIN;SG;PRS	_	_	_	_
+10	:	:	_	_	_	_	_	_	_
+11	komponált	komponál	_	_	PST;INDF;ACT;3;V;IND;FIN;SG	_	_	_	_
+12	balettzenét	balettzene	_	_	PSSD;N;ACC;SG	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	két	két	_	_	PSSD;NUM;NOM;SG	_	_	_	_
+15	kamaraoperát	kamaraopera	_	_	PSSD;N;ACC;SG	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	nagyzenekari	nagyzenekari	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+18	és	és	_	_	CONJ	_	_	_	_
+19	kamaraművet	kamaramű	_	_	PSSD;N;ACC;SG	_	_	_	_
+20	,	,	_	_	_	_	_	_	_
+21	valamint	valamint	_	_	CONJ	_	_	_	_
+22	több	több	_	_	DET;INDF	_	_	_	_
+23	tucatnyi	tucatnyi	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+24	filmnek	film	_	_	PSSD;N;GEN;SG	_	_	_	_
+25	,	,	_	_	_	_	_	_	_
+26	színházi	színházi	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+27	előadásnak	előadás	_	_	PSSD;N;GEN;SG	_	_	_	_
+28	is	is	_	_	CONJ	_	_	_	_
+29	ő	ő	_	_	PSSD;NOM;PRO;3;SG	_	_	_	_
+30	a	a	_	_	DET;DEF	_	_	_	_
+31	zeneszerzője	zeneszerző	_	_	PSS3S;NOM;N;SG	_	_	_	_
+32	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-459
+# text = A kiállítás jövő év január végéig tart nyitva.
+1	A	a	_	_	DET;DEF	_	_	_	_
+2	kiállítás	kiállítás	_	_	PSSD;NOM;N;SG	_	_	_	_
+3	jövő	jövő	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+4	év	év	_	_	PSSD;NOM;N;SG	_	_	_	_
+5	január	január	_	_	PSSD;NOM;N;SG	_	_	_	_
+6	végéig	vég	_	_	PSS3S;N;SG	_	_	_	_
+7	tart	tart	_	_	INDF;ACT;3;V;IND;FIN;SG;PRS	_	_	_	_
+8	nyitva	nyitva	_	_	V.CVB;ADV	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-225
+# text = Mindezt a levél írója zárójelbe teszi, s rövidre zárva feljelentését, a magyar társadalmat két osztályra bontja.
+1	Mindezt	mindez	_	_	PSSD;PRO;3;ACC;SG	_	_	_	_
+2	a	a	_	_	DET;DEF	_	_	_	_
+3	levél	levél	_	_	PSSD;NOM;N;SG	_	_	_	_
+4	írója	író	_	_	PSS3S;NOM;N;SG	_	_	_	_
+5	zárójelbe	zárójel	_	_	PSSD;N;IN+ALL;SG	_	_	_	_
+6	teszi	tesz	_	_	DEF;ACT;3;V;IND;FIN;SG;PRS	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	s	s	_	_	CONJ	_	_	_	_
+9	rövidre	rövid	_	_	PSSD;ON+ALL;ADJ;SG	_	_	_	_
+10	zárva	zárva	_	_	V.CVB;ADV	_	_	_	_
+11	feljelentését	feljelentés	_	_	PSS3S;N;ACC;SG	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	a	a	_	_	DET;DEF	_	_	_	_
+14	magyar	magyar	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+15	társadalmat	társadalom	_	_	PSSD;N;ACC;SG	_	_	_	_
+16	két	két	_	_	PSSD;NUM;NOM;SG	_	_	_	_
+17	osztályra	osztály	_	_	PSSD;N;ON+ALL;SG	_	_	_	_
+18	bontja	bont	_	_	DEF;ACT;3;V;IND;FIN;SG;PRS	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-23
+# text = A virtuális gazdaság tehát képes az önkorrekcióra, ugyanakkor egyéb jellemzőivel is számolni kell.
+1	A	a	_	_	DET;DEF	_	_	_	_
+2	virtuális	virtuális	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+3	gazdaság	gazdaság	_	_	PSSD;NOM;N;SG	_	_	_	_
+4	tehát	tehát	_	_	CONJ	_	_	_	_
+5	képes	képes	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+6	az	az	_	_	DET;DEF	_	_	_	_
+7	önkorrekcióra	önkorrekció	_	_	PSSD;N;ON+ALL;SG	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	ugyanakkor	ugyanakkor	_	_	ADV	_	_	_	_
+10	egyéb	egyéb	_	_	DET;INDF	_	_	_	_
+11	jellemzőivel	jellemző	_	_	PSS1S;INS;N;PL	_	_	_	_
+12	is	is	_	_	CONJ	_	_	_	_
+13	számolni	számol	_	_	V;NFIN;ACT	_	_	_	_
+14	kell	kell	_	_	INDF;ACT;3;V;IND;FIN;SG;PRS	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-17
+# text = Az elsőben tételesen cáfolták a cikkünkben leírtakat, és helyreigazítási kérelemmel fordultak a szerkesztőséghez.
+1	Az	az	_	_	DET;DEF	_	_	_	_
+2	elsőben	első	_	_	PSSD;SG;N;IN+ESS	_	_	_	_
+3	tételesen	tételes	_	_	PSSD;SG;ADJ;FRML	_	_	_	_
+4	cáfolták	cáfol	_	_	3;FIN;V;DEF;PL;PST;ACT;IND	_	_	_	_
+5	a	a	_	_	DET;DEF	_	_	_	_
+6	cikkünkben	cikk	_	_	PSS1P;SG;N;IN+ESS	_	_	_	_
+7	leírtakat	leírt	_	_	PSSD;N;PL;ACC	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	és	és	_	_	CONJ	_	_	_	_
+10	helyreigazítási	helyreigazítási	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+11	kérelemmel	kérelem	_	_	PSSD;SG;INS;N	_	_	_	_
+12	fordultak	fordul	_	_	3;FIN;INDF;V;PL;PST;ACT;IND	_	_	_	_
+13	a	a	_	_	DET;DEF	_	_	_	_
+14	szerkesztőséghez	szerkesztőség	_	_	PSSD;SG;N;AT+ALL	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-319
+# text = Pozitív fejlemény az is, hogy a képviselők végre megtárgyaltak egy sor olyan, a parlamentnek készített beszámolót is — például a Magyar Nemzeti Bank elnökéét, a legfőbb ügyészét és a Gazdasági Versenyhivatalét —, amely az elmúlt nyolc évben többnyire olvasatlanul hevert az országgyűlési irattárakban.
+1	Pozitív	pozitív	_	_	NOM;ADJ;SG	_	_	_	_
+2	fejlemény	fejlemény	_	_	SG;NOM;N	_	_	_	_
+3	az	az	_	_	SG;3;PRO;NOM	_	_	_	_
+4	is	is	_	_	CONJ	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	hogy	hogy	_	_	CONJ	_	_	_	_
+7	a	a	_	_	DET;DEF	_	_	_	_
+8	képviselők	képviselő	_	_	NOM;N;PL	_	_	_	_
+9	végre	végre	_	_	ADV	_	_	_	_
+10	megtárgyaltak	megtárgyal	_	_	3;FIN;INDF;V;PL;PST;ACT;IND	_	_	_	_
+11	egy	egy	_	_	DET;INDF	_	_	_	_
+12	sor	sor	_	_	SG;NOM;N	_	_	_	_
+13	olyan	olyan	_	_	SG;3;PRO;NOM	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	a	a	_	_	DET;DEF	_	_	_	_
+16	parlamentnek	parlament	_	_	SG;DAT;N	_	_	_	_
+17	készített	készített	_	_	SG;ADJ;NOM	_	_	_	_
+18	beszámolót	beszámoló	_	_	SG;ACC;N	_	_	_	_
+19	is	is	_	_	CONJ	_	_	_	_
+20	—	—	_	_	_	_	_	_	_
+21	például	például	_	_	ADV	_	_	_	_
+22	a	a	_	_	DET;DEF	_	_	_	_
+23	Magyar	Magyar	_	_	SG;NOM;PROPN	_	_	_	_
+24	Nemzeti	Nemzeti	_	_	SG;NOM;PROPN	_	_	_	_
+25	Bank	Bank	_	_	SG;NOM;PROPN	_	_	_	_
+26	elnökéét	elnök	_	_	PSS3S;SG;N;ACC	_	_	_	_
+27	,	,	_	_	_	_	_	_	_
+28	a	a	_	_	DET;DEF	_	_	_	_
+29	legfőbb	fő	_	_	SG;NOM;RL;ADJ	_	_	_	_
+30	ügyészét	ügyész	_	_	PSS3S;SG;N;ACC	_	_	_	_
+31	és	és	_	_	CONJ	_	_	_	_
+32	a	a	_	_	DET;DEF	_	_	_	_
+33	Gazdasági	Gazdasági	_	_	SG;NOM;PROPN	_	_	_	_
+34	Versenyhivatalét	Versenyhivatal	_	_	SG;ACC;PROPN	_	_	_	_
+35	—	—	_	_	_	_	_	_	_
+36	,	,	_	_	_	_	_	_	_
+37	amely	amely	_	_	SG;3;PRO;NOM	_	_	_	_
+38	az	az	_	_	DET;DEF	_	_	_	_
+39	elmúlt	elmúlt	_	_	SG;ADJ;NOM	_	_	_	_
+40	nyolc	nyolc	_	_	SG;NOM;NUM	_	_	_	_
+41	évben	év	_	_	SG;IN+ESS;N	_	_	_	_
+42	többnyire	többnyire	_	_	ADV	_	_	_	_
+43	olvasatlanul	olvasatlan	_	_	FRML;ADJ;SG	_	_	_	_
+44	hevert	hever	_	_	SG;3;FIN;INDF;V;PST;ACT;IND	_	_	_	_
+45	az	az	_	_	DET;DEF	_	_	_	_
+46	országgyűlési	országgyűlési	_	_	NOM;ADJ;SG	_	_	_	_
+47	irattárakban	irattár	_	_	IN+ESS;N;PL	_	_	_	_
+48	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-168
+# text = Több általános iskolát készül bezárni, illetve összevonni a II. kerületi önkormányzat a megfogyatkozott diáklétszámra és a kevés pénzre hivatkozva.
+1	Több	több	_	_	DET;INDF	_	_	_	_
+2	általános	általános	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+3	iskolát	iskola	_	_	PSSD;SG;N;ACC	_	_	_	_
+4	készül	készül	_	_	SG;3;FIN;INDF;V;ACT;PRS;IND	_	_	_	_
+5	bezárni	be+zár	_	_	NFIN;V;ACT	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	illetve	illetve	_	_	CONJ	_	_	_	_
+8	összevonni	össze+von	_	_	NFIN;V;ACT	_	_	_	_
+9	a	a	_	_	DET;DEF	_	_	_	_
+10	II.	2.	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+11	kerületi	kerületi	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+12	önkormányzat	önkormányzat	_	_	PSSD;SG;N;NOM	_	_	_	_
+13	a	a	_	_	DET;DEF	_	_	_	_
+14	megfogyatkozott	megfogyatkozott	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+15	diáklétszámra	diáklétszám	_	_	PSSD;SG;N;ON+ALL	_	_	_	_
+16	és	és	_	_	CONJ	_	_	_	_
+17	a	a	_	_	DET;DEF	_	_	_	_
+18	kevés	kevés	_	_	DET;INDF	_	_	_	_
+19	pénzre	pénz	_	_	PSSD;SG;N;ON+ALL	_	_	_	_
+20	hivatkozva	hivatkozva	_	_	V.CVB;ADV	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-398
+# text = A belföldi nemfizetések problémáját jól érzékelteti, hogy az oroszországi fogyasztók össztartozása nem egészen 20 milliárd rubellel meghaladta a tavalyi folyó vásárlásaik értékét.
+1	A	a	_	_	DEF;DET	_	_	_	_
+2	belföldi	belföldi	_	_	ADJ;NOM;SG	_	_	_	_
+3	nemfizetések	nemfizetés	_	_	N;NOM;PL	_	_	_	_
+4	problémáját	probléma	_	_	PSS3S;SG;N;ACC	_	_	_	_
+5	jól	jól	_	_	ADV	_	_	_	_
+6	érzékelteti	érzékeltet	_	_	FIN;3;PRS;SG;IND;DEF;CAUS;V	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	hogy	hogy	_	_	CONJ	_	_	_	_
+9	az	az	_	_	DEF;DET	_	_	_	_
+10	oroszországi	oroszországi	_	_	ADJ;NOM;SG	_	_	_	_
+11	fogyasztók	fogyasztó	_	_	N;NOM;PL	_	_	_	_
+12	össztartozása	össztartozás	_	_	PSS3S;SG;N;NOM	_	_	_	_
+13	nem	nem	_	_	ADV	_	_	_	_
+14	egészen	egészen	_	_	ADV	_	_	_	_
+15	20	20	_	_	NUM;NOM;SG	_	_	_	_
+16	milliárd	milliárd	_	_	NUM;NOM;SG	_	_	_	_
+17	rubellel	rubel	_	_	N;INS;SG	_	_	_	_
+18	meghaladta	meghalad	_	_	FIN;3;SG;IND;DEF;PST;V;ACT	_	_	_	_
+19	a	a	_	_	DEF;DET	_	_	_	_
+20	tavalyi	tavalyi	_	_	ADJ;NOM;SG	_	_	_	_
+21	folyó	folyó	_	_	SG;ADJ;NOM	_	_	_	_
+22	vásárlásaik	vásárlás	_	_	PSS3P;N;PL;NOM	_	_	_	_
+23	értékét	érték	_	_	PSS3S;SG;N;ACC	_	_	_	_
+24	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-697
+# text = "Ikar" ekkor belement mindenbe, hajlandó volt együttműködni.
+1	"	"	_	_	_	_	_	_	_
+2	Ikar	Ikar	_	_	PSSD;NOM;PROPN;SG	_	_	_	_
+3	"	"	_	_	_	_	_	_	_
+4	ekkor	ekkor	_	_	ADV	_	_	_	_
+5	belement	bele+megy	_	_	PST;INDF;ACT;3;V;IND;FIN;SG	_	_	_	_
+6	mindenbe	minden	_	_	PSSD;PRO;3;IN+ALL;SG	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	hajlandó	hajlandó	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+9	volt	van	_	_	PST;INDF;ACT;V;3;IND;FIN;SG	_	_	_	_
+10	együttműködni	együtt+működik	_	_	V;NFIN;ACT	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-694
+# text = Mitrohin azt írja Babiucról, hogy a KGB annak idején kompromittáló anyagok alapján szervezte be őt Moszkvában.
+1	Mitrohin	Mitrohin	_	_	PSSD;NOM;PROPN;SG	_	_	_	_
+2	azt	az	_	_	PSSD;PRO;3;ACC;SG	_	_	_	_
+3	írja	ír	_	_	DEF;ACT;3;V;IND;FIN;SG;PRS	_	_	_	_
+4	Babiucról	Babiuc	_	_	PSSD;PROPN;SG	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	hogy	hogy	_	_	CONJ	_	_	_	_
+7	a	a	_	_	DET;DEF	_	_	_	_
+8	KGB	KGB	_	_	PSSD;NOM;PROPN;SG	_	_	_	_
+9	annak	az	_	_	PSSD;PRO;3;GEN;SG	_	_	_	_
+10	idején	idő	_	_	PSS3S;ON+ESS;N;SG	_	_	_	_
+11	kompromittáló	kompromittáló	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+12	anyagok	anyag	_	_	PSSD;NOM;N;PL	_	_	_	_
+13	alapján	alap	_	_	PSS3S;ON+ESS;N;SG	_	_	_	_
+14	szervezte	szervez	_	_	DEF;PST;ACT;3;V;IND;FIN;SG	_	_	_	_
+15	be	be	_	_	ADV	_	_	_	_
+16	őt	ő	_	_	PSSD;PRO;3;ACC;SG	_	_	_	_
+17	Moszkvában	Moszkva	_	_	PSSD;IN+ESS;PROPN;SG	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-263
+# text = A bíróságot új eljárás lefolytatására szólították fel.
+1	A	a	_	_	DEF;DET	_	_	_	_
+2	bíróságot	bíróság	_	_	PSSD;SG;N;ACC	_	_	_	_
+3	új	új	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+4	eljárás	eljárás	_	_	PSSD;SG;N;NOM	_	_	_	_
+5	lefolytatására	lefolytatás	_	_	PSS3S;ON+ALL;SG;N	_	_	_	_
+6	szólították	szólít	_	_	FIN;3;IND;DEF;PST;PL;V;ACT	_	_	_	_
+7	fel	fel	_	_	ADV	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-244
+# text = A holttestet Szentes mellett egy csatornába rejtette, ahonnan a tetem csak a következő évben került elő.
+1	A	a	_	_	DEF;DET	_	_	_	_
+2	holttestet	holttest	_	_	PSSD;SG;N;ACC	_	_	_	_
+3	Szentes	Szentes	_	_	PSSD;SG;PROPN;NOM	_	_	_	_
+4	mellett	mellett	_	_	ADP	_	_	_	_
+5	egy	egy	_	_	INDF;DET	_	_	_	_
+6	csatornába	csatorna	_	_	PSSD;SG;IN+ALL;N	_	_	_	_
+7	rejtette	rejt	_	_	FIN;3;SG;IND;DEF;PST;V;ACT	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	ahonnan	ahonnan	_	_	ADV	_	_	_	_
+10	a	a	_	_	DEF;DET	_	_	_	_
+11	tetem	tetem	_	_	PSSD;SG;N;NOM	_	_	_	_
+12	csak	csak	_	_	ADV	_	_	_	_
+13	a	a	_	_	DEF;DET	_	_	_	_
+14	következő	következő	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+15	évben	év	_	_	PSSD;IN+ESS;SG;N	_	_	_	_
+16	került	kerül	_	_	FIN;3;INDF;SG;IND;PST;V;ACT	_	_	_	_
+17	elő	elő	_	_	ADV	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-190
+# text = — Kislányom, Krisztina is nagyon fog örülni a két érmemnek, sietek haza hozzá Szombathelyre — mondta boldogan az eredményhirdetés után a versenyzőből gyorsan édesanyává viszszalényegülő Márkus.
+1	—	—	_	_	_	_	_	_	_
+2	Kislányom	kislány	_	_	PSS1S;SG;N;NOM	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	Krisztina	Krisztina	_	_	PSSD;SG;PROPN;NOM	_	_	_	_
+5	is	is	_	_	CONJ	_	_	_	_
+6	nagyon	nagyon	_	_	ADV	_	_	_	_
+7	fog	fog	_	_	3;INDF;SG;V;PRS;IND;ACT	_	_	_	_
+8	örülni	örül	_	_	NFIN;V;ACT	_	_	_	_
+9	a	a	_	_	DEF;DET	_	_	_	_
+10	két	két	_	_	PSSD;NUM;SG;NOM	_	_	_	_
+11	érmemnek	érem	_	_	PSS1S;SG;N;DAT	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	sietek	siet	_	_	FIN;1;INDF;SG;PRS;IND;V;ACT	_	_	_	_
+14	haza	haza	_	_	ADV	_	_	_	_
+15	hozzá	ő	_	_	PSSD;PRO;3;SG;AT+ALL	_	_	_	_
+16	Szombathelyre	Szombathely	_	_	PSSD;ON+ALL;SG;PROPN	_	_	_	_
+17	—	—	_	_	_	_	_	_	_
+18	mondta	mond	_	_	FIN;3;SG;IND;DEF;PST;V;ACT	_	_	_	_
+19	boldogan	boldog	_	_	PSSD;SG;FRML;ADJ	_	_	_	_
+20	az	az	_	_	DEF;DET	_	_	_	_
+21	eredményhirdetés	eredményhirdetés	_	_	PSSD;SG;N;NOM	_	_	_	_
+22	után	után	_	_	ADP	_	_	_	_
+23	a	a	_	_	DEF;DET	_	_	_	_
+24	versenyzőből	versenyző	_	_	PSSD;SG;IN+ABL;N	_	_	_	_
+25	gyorsan	gyors	_	_	PSSD;SG;FRML;ADJ	_	_	_	_
+26	édesanyává	édesanya	_	_	PSSD;TRANS;SG;N	_	_	_	_
+27	viszszalényegülő	visszalényegülő	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+28	Márkus	Márkus	_	_	PSSD;SG;PROPN;NOM	_	_	_	_
+29	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-564
+# text = Így például Bécsben és Budapesten is tíz-tíz számozott kötet kerül kalapács alá, s az árverésen összegyűlt összeget tíz-tíz alapítványnak ajánlják fel.
+1	Így	így	_	_	ADV	_	_	_	_
+2	például	például	_	_	ADV	_	_	_	_
+3	Bécsben	Bécs	_	_	PSSD;IN+ESS;PROPN;SG	_	_	_	_
+4	és	és	_	_	CONJ	_	_	_	_
+5	Budapesten	Budapest	_	_	PSSD;ON+ESS;PROPN;SG	_	_	_	_
+6	is	is	_	_	CONJ	_	_	_	_
+7	tíz-tíz	tíz-tíz	_	_	PSSD;NUM;NOM;SG	_	_	_	_
+8	számozott	számozott	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+9	kötet	kötet	_	_	PSSD;NOM;N;SG	_	_	_	_
+10	kerül	kerül	_	_	INDF;ACT;3;V;IND;FIN;SG;PRS	_	_	_	_
+11	kalapács	kalapács	_	_	PSSD;NOM;N;SG	_	_	_	_
+12	alá	alá	_	_	ADP	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	s	s	_	_	CONJ	_	_	_	_
+15	az	az	_	_	DET;DEF	_	_	_	_
+16	árverésen	árverés	_	_	PSSD;ON+ESS;N;SG	_	_	_	_
+17	összegyűlt	összegyűlt	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+18	összeget	összeg	_	_	PSSD;N;ACC;SG	_	_	_	_
+19	tíz-tíz	tíz-tíz	_	_	PSSD;NUM;NOM;SG	_	_	_	_
+20	alapítványnak	alapítvány	_	_	PSSD;N;SG;DAT	_	_	_	_
+21	ajánlják	ajánl	_	_	DEF;ACT;3;V;IND;PL;FIN;PRS	_	_	_	_
+22	fel	fel	_	_	ADV	_	_	_	_
+23	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-258
+# text = A szesz- és söriparban, a növényolajiparban és a jégkrémgyártásban már nem kell komoly változásokra számítani.
+1	A	a	_	_	DET;DEF	_	_	_	_
+2	szesz-	szesz-	_	_	PSSD;SG;N;NOM	_	_	_	_
+3	és	és	_	_	CONJ	_	_	_	_
+4	söriparban	söripar	_	_	PSSD;SG;N;IN+ESS	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	a	a	_	_	DET;DEF	_	_	_	_
+7	növényolajiparban	növényolajipar	_	_	PSSD;SG;N;IN+ESS	_	_	_	_
+8	és	és	_	_	CONJ	_	_	_	_
+9	a	a	_	_	DET;DEF	_	_	_	_
+10	jégkrémgyártásban	jégkrémgyártás	_	_	PSSD;SG;N;IN+ESS	_	_	_	_
+11	már	már	_	_	ADV	_	_	_	_
+12	nem	nem	_	_	ADV	_	_	_	_
+13	kell	kell	_	_	SG;3;FIN;INDF;V;ACT;PRS;IND	_	_	_	_
+14	komoly	komoly	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+15	változásokra	változás	_	_	PSSD;N;PL;ON+ALL	_	_	_	_
+16	számítani	számít	_	_	NFIN;V;ACT	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-484
+# text = A bonyolult válasz: az emberiség történetén végighúzódik egy spirituális mítoszrendszer, ami viszonyítási pontként, világmagyarázatként szolgált az archaikus kor népei számára.
+1	A	a	_	_	DET;DEF	_	_	_	_
+2	bonyolult	bonyolult	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+3	válasz	válasz	_	_	PSSD;NOM;N;SG	_	_	_	_
+4	:	:	_	_	_	_	_	_	_
+5	az	az	_	_	DET;DEF	_	_	_	_
+6	emberiség	emberiség	_	_	PSSD;NOM;N;SG	_	_	_	_
+7	történetén	történet	_	_	PSS3S;ON+ESS;N;SG	_	_	_	_
+8	végighúzódik	végig+húzódik	_	_	INDF;ACT;3;V;IND;FIN;SG;PRS	_	_	_	_
+9	egy	egy	_	_	DET;INDF	_	_	_	_
+10	spirituális	spirituális	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+11	mítoszrendszer	mítoszrendszer	_	_	PSSD;NOM;N;SG	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	ami	ami	_	_	PSSD;NOM;PRO;3;SG	_	_	_	_
+14	viszonyítási	viszonyítási	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+15	pontként	pont	_	_	PSSD;ABS;N;SG	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	világmagyarázatként	világmagyarázat	_	_	PSSD;ABS;N;SG	_	_	_	_
+18	szolgált	szolgál	_	_	PST;INDF;ACT;3;V;IND;FIN;SG	_	_	_	_
+19	az	az	_	_	DET;DEF	_	_	_	_
+20	archaikus	archaikus	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+21	kor	kor	_	_	PSSD;NOM;N;SG	_	_	_	_
+22	népei	nép	_	_	PSS3S;NOM;N;PL	_	_	_	_
+23	számára	számára	_	_	ADP	_	_	_	_
+24	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-231
+# text = A cégeknek azonban nem csupán ágazaton belüli versenytársaikkal, hanem az egyre erősebb multinacionális kiskereskedelmi láncokkal is szembe kell nézniük.
+1	A	a	_	_	DET;DEF	_	_	_	_
+2	cégeknek	cég	_	_	PSSD;N;PL;DAT	_	_	_	_
+3	azonban	azonban	_	_	CONJ	_	_	_	_
+4	nem	nem	_	_	ADV	_	_	_	_
+5	csupán	csupán	_	_	ADV	_	_	_	_
+6	ágazaton	ágazat	_	_	PSSD;SG;ON+ESS;N	_	_	_	_
+7	belüli	belüli	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+8	versenytársaikkal	versenytárs	_	_	PSS3P;INS;N;PL	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	hanem	hanem	_	_	CONJ	_	_	_	_
+11	az	az	_	_	DET;DEF	_	_	_	_
+12	egyre	egyre	_	_	ADV	_	_	_	_
+13	erősebb	erős	_	_	PSSD;SG;ADJ;NOM;CMPR	_	_	_	_
+14	multinacionális	multinacionális	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+15	kiskereskedelmi	kiskereskedelmi	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+16	láncokkal	lánc	_	_	PSSD;INS;N;PL	_	_	_	_
+17	is	is	_	_	CONJ	_	_	_	_
+18	szembe	szembe	_	_	ADV	_	_	_	_
+19	kell	kell	_	_	SG;3;FIN;INDF;V;ACT;PRS;IND	_	_	_	_
+20	nézniük	néz	_	_	3;V;PL;ACT;NFIN	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-216
+# text = A világelső Andre Agassi a játékosság, az attraktivitás, a kreativitás megtestesítője, míg az elmúlt hat évben a világranglista élén végzett Pete Sampras az állandóságé, a tökéletességé.
+1	A	a	_	_	DEF;DET	_	_	_	_
+2	világelső	világelső	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+3	Andre	Andre	_	_	PSSD;SG;PROPN;NOM	_	_	_	_
+4	Agassi	Agassi	_	_	PSSD;SG;PROPN;NOM	_	_	_	_
+5	a	a	_	_	DEF;DET	_	_	_	_
+6	játékosság	játékosság	_	_	PSSD;SG;N;NOM	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	az	az	_	_	DEF;DET	_	_	_	_
+9	attraktivitás	attraktivitás	_	_	PSSD;SG;N;NOM	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	a	a	_	_	DEF;DET	_	_	_	_
+12	kreativitás	kreativitás	_	_	PSSD;SG;N;NOM	_	_	_	_
+13	megtestesítője	megtestesítő	_	_	PSS3S;SG;ADJ;NOM	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	míg	míg	_	_	ADV	_	_	_	_
+16	az	az	_	_	DEF;DET	_	_	_	_
+17	elmúlt	elmúlt	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+18	hat	hat	_	_	PSSD;NUM;SG;NOM	_	_	_	_
+19	évben	év	_	_	PSSD;IN+ESS;SG;N	_	_	_	_
+20	a	a	_	_	DEF;DET	_	_	_	_
+21	világranglista	világranglista	_	_	PSSD;SG;N;NOM	_	_	_	_
+22	élén	él	_	_	PSS3S;SG;N;ON+ESS	_	_	_	_
+23	végzett	végzett	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+24	Pete	Pete	_	_	PSSD;SG;PROPN;NOM	_	_	_	_
+25	Sampras	Sampras	_	_	PSSD;SG;PROPN;NOM	_	_	_	_
+26	az	az	_	_	DEF;DET	_	_	_	_
+27	állandóságé	állandóság	_	_	PSSD;SG;N;NOM	_	_	_	_
+28	,	,	_	_	_	_	_	_	_
+29	a	a	_	_	DEF;DET	_	_	_	_
+30	tökéletességé	tökéletesség	_	_	PSSD;SG;N;NOM	_	_	_	_
+31	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-526
+# text = A magyarországi nézők többek között a történelmi fordulat után Budapestre látogató kolozsvári társulat A buszmegálló című produkciójában láthatták.
+1	A	a	_	_	DET;DEF	_	_	_	_
+2	magyarországi	magyarországi	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+3	nézők	néző	_	_	PSSD;NOM;N;PL	_	_	_	_
+4	többek	több	_	_	DET;INDF	_	_	_	_
+5	között	között	_	_	ADP	_	_	_	_
+6	a	a	_	_	DET;DEF	_	_	_	_
+7	történelmi	történelmi	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+8	fordulat	fordulat	_	_	PSSD;NOM;N;SG	_	_	_	_
+9	után	után	_	_	ADP	_	_	_	_
+10	Budapestre	Budapest	_	_	PSSD;ON+ALL;PROPN;SG	_	_	_	_
+11	látogató	látogató	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+12	kolozsvári	kolozsvári	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+13	társulat	társulat	_	_	PSSD;NOM;N;SG	_	_	_	_
+14	A	A	_	_	PSSD;NOM;PROPN;SG	_	_	_	_
+15	buszmegálló	buszmegálló	_	_	PSSD;NOM;PROPN;SG	_	_	_	_
+16	című	című	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+17	produkciójában	produkció	_	_	PSS3S;IN+ESS;N;SG	_	_	_	_
+18	láthatták	lát	_	_	DEF;PST;ACT;3;V;POT;PL;FIN	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-23
+# text = A zárt ülésen Györgyi azokat az elmúlt egy hónapban készített dokumentumokat ismerteti, amelyeket Orbán Viktor miniszterelnök október 25-i kérése alapján az Országgyűlésnek állított össze.
+1	A	a	_	_	DET;DEF	_	_	_	_
+2	zárt	zárt	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+3	ülésen	ülés	_	_	PSSD;SG;ON+ESS;N	_	_	_	_
+4	Györgyi	Györgyi	_	_	PSSD;SG;NOM;PROPN	_	_	_	_
+5	azokat	az	_	_	PSSD;3;PL;ACC;DET	_	_	_	_
+6	az	az	_	_	DET;DEF	_	_	_	_
+7	elmúlt	elmúlt	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+8	egy	egy	_	_	PSSD;SG;NOM;NUM	_	_	_	_
+9	hónapban	hónap	_	_	PSSD;SG;N;IN+ESS	_	_	_	_
+10	készített	készített	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+11	dokumentumokat	dokumentum	_	_	PSSD;N;PL;ACC	_	_	_	_
+12	ismerteti	ismer	_	_	SG;3;FIN;V;DEF;CAUS;PRS;IND	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	amelyeket	amely	_	_	PSSD;3;PL;ACC;PRO	_	_	_	_
+15	Orbán	Orbán	_	_	PSSD;SG;NOM;PROPN	_	_	_	_
+16	Viktor	Viktor	_	_	PSSD;SG;NOM;PROPN	_	_	_	_
+17	miniszterelnök	miniszterelnök	_	_	PSSD;SG;N;NOM	_	_	_	_
+18	október	október	_	_	PSSD;SG;N;NOM	_	_	_	_
+19	25-i	25-i	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+20	kérése	kérés	_	_	PSS3S;SG;N;NOM	_	_	_	_
+21	alapján	alap	_	_	PSS3S;SG;ON+ESS;N	_	_	_	_
+22	az	az	_	_	DET;DEF	_	_	_	_
+23	Országgyűlésnek	Országgyűlés	_	_	PSSD;SG;DAT;PROPN	_	_	_	_
+24	állított	állít	_	_	SG;3;FIN;INDF;V;PST;ACT;IND	_	_	_	_
+25	össze	össze	_	_	ADV	_	_	_	_
+26	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-336
+# text = A beláthatatlan következményekkel járó csőd helyett a kormány nyomására a többségében állami kézben lévő hazai hitelező bankok a konglomerátum feldarabolására kötöttek megállapodást augusztus elején a Daewooval.
+1	A	a	_	_	DEF;DET	_	_	_	_
+2	beláthatatlan	beláthatatlan	_	_	ADJ;NOM;SG	_	_	_	_
+3	következményekkel	következmény	_	_	N;INS;PL	_	_	_	_
+4	járó	járó	_	_	SG;ADJ;NOM	_	_	_	_
+5	csőd	csőd	_	_	N;NOM;SG	_	_	_	_
+6	helyett	helyett	_	_	ADP	_	_	_	_
+7	a	a	_	_	DEF;DET	_	_	_	_
+8	kormány	kormány	_	_	N;NOM;SG	_	_	_	_
+9	nyomására	nyomás	_	_	PSS3S;ON+ALL;SG;N	_	_	_	_
+10	a	a	_	_	DEF;DET	_	_	_	_
+11	többségében	többség	_	_	N;IN+ESS;SG	_	_	_	_
+12	állami	állami	_	_	ADJ;NOM;SG	_	_	_	_
+13	kézben	kéz	_	_	N;IN+ESS;SG	_	_	_	_
+14	lévő	lévő	_	_	SG;ADJ;NOM	_	_	_	_
+15	hazai	hazai	_	_	ADJ;NOM;SG	_	_	_	_
+16	hitelező	hitelező	_	_	SG;ADJ;NOM	_	_	_	_
+17	bankok	bank	_	_	N;NOM;PL	_	_	_	_
+18	a	a	_	_	DEF;DET	_	_	_	_
+19	konglomerátum	konglomerátum	_	_	N;NOM;SG	_	_	_	_
+20	feldarabolására	feldarabolás	_	_	PSS3S;ON+ALL;SG;N	_	_	_	_
+21	kötöttek	köt	_	_	FIN;3;INDF;IND;PST;PL;V;ACT	_	_	_	_
+22	megállapodást	megállapodás	_	_	N;ACC;SG	_	_	_	_
+23	augusztus	augusztus	_	_	N;NOM;SG	_	_	_	_
+24	elején	eleje	_	_	PSS3S;SG;N;ON+ESS	_	_	_	_
+25	a	a	_	_	DEF;DET	_	_	_	_
+26	Daewooval	Daewoo	_	_	INS;PROPN;SG	_	_	_	_
+27	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-82
+# text = Szerdán azt közöltük, hogy az LRI igazgatója, Kovács Péter megbízásából készített, napokban elkészült szakértői jelentés megállapítja: annak ellenére, hogy a kanadai CCC többször sürgette a terminál átadását szentesítő szerződés, az "Értesítés a Végső Befejezésről" című okmány aláírását, a cég korábbi, felmentett igazgatója, Erdei Tamás ezt megtagadta.
+1	Szerdán	szerda	_	_	PSSD;SG;ON+ESS;N	_	_	_	_
+2	azt	az	_	_	PSSD;SG;3;ACC;PRO	_	_	_	_
+3	közöltük	közöl	_	_	1;FIN;V;DEF;PL;PST;ACT;IND	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	hogy	hogy	_	_	CONJ	_	_	_	_
+6	az	az	_	_	DET;DEF	_	_	_	_
+7	LRI	LRI	_	_	PSSD;SG;NOM;PROPN	_	_	_	_
+8	igazgatója	igazgató	_	_	PSS3S;SG;N;NOM	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	Kovács	Kovács	_	_	PSSD;SG;NOM;PROPN	_	_	_	_
+11	Péter	Péter	_	_	PSSD;SG;NOM;PROPN	_	_	_	_
+12	megbízásából	megbízás	_	_	PSS3S;SG;N;IN+ABL	_	_	_	_
+13	készített	készített	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	napokban	nap	_	_	PSSD;N;PL;IN+ESS	_	_	_	_
+16	elkészült	elkészült	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+17	szakértői	szakértői	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+18	jelentés	jelentés	_	_	PSSD;SG;N;NOM	_	_	_	_
+19	megállapítja	meg+állapít	_	_	SG;3;FIN;V;DEF;ACT;PRS;IND	_	_	_	_
+20	:	:	_	_	_	_	_	_	_
+21	annak	az	_	_	PSSD;SG;3;PRO;GEN	_	_	_	_
+22	ellenére	ellenére	_	_	ADP	_	_	_	_
+23	,	,	_	_	_	_	_	_	_
+24	hogy	hogy	_	_	CONJ	_	_	_	_
+25	a	a	_	_	DET;DEF	_	_	_	_
+26	kanadai	kanadai	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+27	CCC	CCC	_	_	PSSD;SG;NOM;PROPN	_	_	_	_
+28	többször	több	_	_	ADV	_	_	_	_
+29	sürgette	sürget	_	_	SG;3;FIN;V;DEF;PST;ACT;IND	_	_	_	_
+30	a	a	_	_	DET;DEF	_	_	_	_
+31	terminál	terminál	_	_	PSSD;SG;N;NOM	_	_	_	_
+32	átadását	átadás	_	_	PSS3S;SG;N;ACC	_	_	_	_
+33	szentesítő	szentesítő	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+34	szerződés	szerződés	_	_	PSSD;SG;N;NOM	_	_	_	_
+35	,	,	_	_	_	_	_	_	_
+36	az	az	_	_	DET;DEF	_	_	_	_
+37	"	"	_	_	_	_	_	_	_
+38	Értesítés	értesítés	_	_	PSSD;SG;N;NOM	_	_	_	_
+39	a	a	_	_	DET;DEF	_	_	_	_
+40	Végső	végső	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+41	Befejezésről	befejezés	_	_	PSSD;SG;N	_	_	_	_
+42	"	"	_	_	_	_	_	_	_
+43	című	című	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+44	okmány	okmány	_	_	PSSD;SG;N;NOM	_	_	_	_
+45	aláírását	aláírás	_	_	PSS3S;SG;N;ACC	_	_	_	_
+46	,	,	_	_	_	_	_	_	_
+47	a	a	_	_	DET;DEF	_	_	_	_
+48	cég	cég	_	_	PSSD;SG;N;NOM	_	_	_	_
+49	korábbi	korábbi	_	_	PSSD;SG;ADJ;NOM;CMPR	_	_	_	_
+50	,	,	_	_	_	_	_	_	_
+51	felmentett	felmentett	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+52	igazgatója	igazgató	_	_	PSS3S;SG;N;NOM	_	_	_	_
+53	,	,	_	_	_	_	_	_	_
+54	Erdei	Erdei	_	_	PSSD;SG;NOM;PROPN	_	_	_	_
+55	Tamás	Tamás	_	_	PSSD;SG;NOM;PROPN	_	_	_	_
+56	ezt	ez	_	_	PSSD;SG;3;ACC;PRO	_	_	_	_
+57	megtagadta	meg+tagad	_	_	SG;3;FIN;V;DEF;PST;ACT;IND	_	_	_	_
+58	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-26
+# text = — A karácsonyfák legnagyobb részét ma már elektromos gyertyákkal díszítik, ezért tüzek nagyon ritkán keletkeznek.
+1	—	—	_	_	_	_	_	_	_
+2	A	a	_	_	DEF;DET	_	_	_	_
+3	karácsonyfák	karácsonyfa	_	_	PSSD;N;PL;NOM	_	_	_	_
+4	legnagyobb	nagy	_	_	PSSD;SG;RL;ADJ;NOM	_	_	_	_
+5	részét	rész	_	_	PSS3S;SG;N;ACC	_	_	_	_
+6	ma	ma	_	_	ADV	_	_	_	_
+7	már	már	_	_	ADV	_	_	_	_
+8	elektromos	elektromos	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+9	gyertyákkal	gyertya	_	_	PSSD;N;PL;INS	_	_	_	_
+10	díszítik	díszít	_	_	FIN;3;PRS;IND;DEF;PL;V;ACT	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	ezért	ezért	_	_	CONJ	_	_	_	_
+13	tüzek	tűz	_	_	PSSD;N;PL;NOM	_	_	_	_
+14	nagyon	nagyon	_	_	ADV	_	_	_	_
+15	ritkán	ritka	_	_	PSSD;SG;FRML;ADJ	_	_	_	_
+16	keletkeznek	keletkezik	_	_	FIN;3;INDF;PRS;IND;PL;V;ACT	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-773
+# text = A cég 1997-ben 1 milliárd forint körüli árbevétel mellett 500 millió forintos adózás előtti nyereséget ért el, míg tavaly az orosz válság hatására árbevételük 600 millió forintra, eredményük 140 millió forintra csökkent.
+1	A	a	_	_	DET;DEF	_	_	_	_
+2	cég	cég	_	_	SG;NOM;N	_	_	_	_
+3	1997-ben	1997	_	_	SG;NUM;IN+ESS	_	_	_	_
+4	1	1	_	_	SG;NUM;NOM	_	_	_	_
+5	milliárd	milliárd	_	_	SG;NUM;NOM	_	_	_	_
+6	forint	forint	_	_	SG;NOM;N	_	_	_	_
+7	körüli	körüli	_	_	ADJ;NOM;SG	_	_	_	_
+8	árbevétel	árbevétel	_	_	SG;NOM;N	_	_	_	_
+9	mellett	mellett	_	_	ADP	_	_	_	_
+10	500	500	_	_	SG;NUM;NOM	_	_	_	_
+11	millió	millió	_	_	SG;NUM;NOM	_	_	_	_
+12	forintos	forintos	_	_	ADJ;NOM;SG	_	_	_	_
+13	adózás	adózás	_	_	SG;NOM;N	_	_	_	_
+14	előtti	előtti	_	_	ADJ;NOM;SG	_	_	_	_
+15	nyereséget	nyereség	_	_	SG;N;ACC	_	_	_	_
+16	ért	ér	_	_	PST;INDF;ACT;3;V;IND;FIN;SG	_	_	_	_
+17	el	el	_	_	ADV	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	míg	míg	_	_	ADV	_	_	_	_
+20	tavaly	tavaly	_	_	ADV	_	_	_	_
+21	az	az	_	_	DET;DEF	_	_	_	_
+22	orosz	orosz	_	_	ADJ;NOM;SG	_	_	_	_
+23	válság	válság	_	_	SG;NOM;N	_	_	_	_
+24	hatására	hatás	_	_	PSS3S;N;ON+ALL;SG	_	_	_	_
+25	árbevételük	árbevétel	_	_	PSS3P;NOM;N;SG	_	_	_	_
+26	600	600	_	_	SG;NUM;NOM	_	_	_	_
+27	millió	millió	_	_	SG;NUM;NOM	_	_	_	_
+28	forintra	forint	_	_	ON+ALL;SG;N	_	_	_	_
+29	,	,	_	_	_	_	_	_	_
+30	eredményük	eredmény	_	_	PSS3P;NOM;N;SG	_	_	_	_
+31	140	140	_	_	SG;NUM;NOM	_	_	_	_
+32	millió	millió	_	_	SG;NUM;NOM	_	_	_	_
+33	forintra	forint	_	_	ON+ALL;SG;N	_	_	_	_
+34	csökkent	csökken	_	_	PST;INDF;ACT;3;V;IND;FIN;SG	_	_	_	_
+35	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-128
+# text = A tanárok keresete jelentősen a nemzetgazdasági átlag alatt van — jelentette ki Varga László.
+1	A	a	_	_	DET;DEF	_	_	_	_
+2	tanárok	tanár	_	_	PSSD;N;PL;NOM	_	_	_	_
+3	keresete	kereset	_	_	PSS3S;SG;N;NOM	_	_	_	_
+4	jelentősen	jelentős	_	_	PSSD;SG;ADJ;FRML	_	_	_	_
+5	a	a	_	_	DET;DEF	_	_	_	_
+6	nemzetgazdasági	nemzetgazdasági	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+7	átlag	átlag	_	_	PSSD;SG;N;NOM	_	_	_	_
+8	alatt	alatt	_	_	ADP	_	_	_	_
+9	van	van	_	_	SG;3;FIN;INDF;V;ACT;PRS;IND	_	_	_	_
+10	—	—	_	_	_	_	_	_	_
+11	jelentette	jelent	_	_	SG;3;FIN;V;DEF;PST;ACT;IND	_	_	_	_
+12	ki	ki	_	_	ADV	_	_	_	_
+13	Varga	Varga	_	_	PSSD;SG;NOM;PROPN	_	_	_	_
+14	László	László	_	_	PSSD;SG;NOM;PROPN	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-222
+# text = Az RTL Klub szeretné elkerülni, hogy a riportjait ilyen kifogással lehessen illetni.
+1	Az	az	_	_	DET;DEF	_	_	_	_
+2	RTL	RTL	_	_	PSSD;SG;NOM;PROPN	_	_	_	_
+3	Klub	Klub	_	_	PSSD;SG;NOM;PROPN	_	_	_	_
+4	szeretné	szeret	_	_	SG;3;FIN;V;DEF;COND;ACT;PRS	_	_	_	_
+5	elkerülni	el+kerül	_	_	NFIN;V;ACT	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	hogy	hogy	_	_	CONJ	_	_	_	_
+8	a	a	_	_	DET;DEF	_	_	_	_
+9	riportjait	riport	_	_	PSS3S;N;PL;ACC	_	_	_	_
+10	ilyen	ilyen	_	_	PSSD;SG;3;DET;NOM	_	_	_	_
+11	kifogással	kifogás	_	_	PSSD;SG;INS;N	_	_	_	_
+12	lehessen	lesz	_	_	SG;3;{IMP/POT};INDF;V;FIN;ACT;PRS	_	_	_	_
+13	illetni	illet	_	_	NFIN;V;ACT	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-167
+# text = A magyar futballkirály körül.
+1	A	a	_	_	DEF;DET	_	_	_	_
+2	magyar	magyar	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+3	futballkirály	futballkirály	_	_	PSSD;SG;N;NOM	_	_	_	_
+4	körül	körül	_	_	ADP	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-328
+# text = Ennek alapján közgazdászok az egész évre legalább 7 százalékos növekedést jósolnak, miután tavaly 5,8 százalékos recessziót mértek.
+1	Ennek	ez	_	_	PRO;GEN;3;SG	_	_	_	_
+2	alapján	alap	_	_	PSS3S;SG;N;ON+ESS	_	_	_	_
+3	közgazdászok	közgazdász	_	_	N;NOM;PL	_	_	_	_
+4	az	az	_	_	DEF;DET	_	_	_	_
+5	egész	egész	_	_	ADJ;NOM;SG	_	_	_	_
+6	évre	év	_	_	N;ON+ALL;SG	_	_	_	_
+7	legalább	legalább	_	_	ADV	_	_	_	_
+8	7	7	_	_	NUM;NOM;SG	_	_	_	_
+9	százalékos	százalékos	_	_	ADJ;NOM;SG	_	_	_	_
+10	növekedést	növekedés	_	_	N;ACC;SG	_	_	_	_
+11	jósolnak	jósol	_	_	FIN;3;INDF;PRS;IND;PL;V;ACT	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	miután	miután	_	_	CONJ	_	_	_	_
+14	tavaly	tavaly	_	_	ADV	_	_	_	_
+15	5,8	5,8	_	_	NUM;NOM;SG	_	_	_	_
+16	százalékos	százalékos	_	_	ADJ;NOM;SG	_	_	_	_
+17	recessziót	recesszió	_	_	N;ACC;SG	_	_	_	_
+18	mértek	mér	_	_	FIN;3;INDF;IND;PST;PL;V;ACT	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-445
+# text = A XVIII. században Lengyelországban készült, a Lemberg melletti Libahara faluból származik.
+1	A	a	_	_	DET;DEF	_	_	_	_
+2	XVIII.	18.	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+3	században	század	_	_	PSSD;IN+ESS;N;SG	_	_	_	_
+4	Lengyelországban	Lengyelország	_	_	PSSD;IN+ESS;PROPN;SG	_	_	_	_
+5	készült	készül	_	_	PST;INDF;ACT;3;V;IND;FIN;SG	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	a	a	_	_	DET;DEF	_	_	_	_
+8	Lemberg	Lemberg	_	_	PSSD;NOM;PROPN;SG	_	_	_	_
+9	melletti	melletti	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+10	Libahara	Libahara	_	_	PSSD;NOM;PROPN;SG	_	_	_	_
+11	faluból	falu	_	_	PSSD;N;IN+ABL;SG	_	_	_	_
+12	származik	származik	_	_	INDF;ACT;3;V;IND;FIN;SG;PRS	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-65
+# text = Ennek során fel kell hívni a tagok figyelmét, hogy a párt alapszabálya szerint a kizárási indítványt a soron következő választmányi ülésen meg kell tárgyalni.
+1	Ennek	ez	_	_	PSSD;SG;3;PRO;GEN	_	_	_	_
+2	során	sor	_	_	PSS3S;SG;ON+ESS;N	_	_	_	_
+3	fel	fel	_	_	ADV	_	_	_	_
+4	kell	kell	_	_	SG;3;FIN;INDF;V;ACT;PRS;IND	_	_	_	_
+5	hívni	hív	_	_	NFIN;V;ACT	_	_	_	_
+6	a	a	_	_	DET;DEF	_	_	_	_
+7	tagok	tag	_	_	PSSD;N;PL;NOM	_	_	_	_
+8	figyelmét	figyelem	_	_	PSS3S;SG;N;ACC	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	hogy	hogy	_	_	CONJ	_	_	_	_
+11	a	a	_	_	DET;DEF	_	_	_	_
+12	párt	párt	_	_	PSSD;SG;N;NOM	_	_	_	_
+13	alapszabálya	alapszabály	_	_	PSS3S;SG;N;NOM	_	_	_	_
+14	szerint	szerint	_	_	ADP	_	_	_	_
+15	a	a	_	_	DET;DEF	_	_	_	_
+16	kizárási	kizárási	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+17	indítványt	indítvány	_	_	PSSD;SG;N;ACC	_	_	_	_
+18	a	a	_	_	DET;DEF	_	_	_	_
+19	soron	sor	_	_	PSSD;SG;ON+ESS;N	_	_	_	_
+20	következő	következő	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+21	választmányi	választmányi	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+22	ülésen	ülés	_	_	PSSD;SG;ON+ESS;N	_	_	_	_
+23	meg	meg	_	_	PART	_	_	_	_
+24	kell	kell	_	_	SG;3;FIN;INDF;V;ACT;PRS;IND	_	_	_	_
+25	tárgyalni	tárgyal	_	_	NFIN;V;ACT	_	_	_	_
+26	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-748
+# text = Akkoriban a cég — átmeneti sikerrel — megszerezte a Magyar Nemzet, az Esti Hírlap és az Expressz kiadói jogát, 1997 végén pedig megindította a Napi Magyarország című napilapot.
+1	Akkoriban	akkoriban	_	_	ADV	_	_	_	_
+2	a	a	_	_	DET;DEF	_	_	_	_
+3	cég	cég	_	_	SG;NOM;N	_	_	_	_
+4	—	—	_	_	_	_	_	_	_
+5	átmeneti	átmeneti	_	_	ADJ;NOM;SG	_	_	_	_
+6	sikerrel	siker	_	_	SG;N;INS	_	_	_	_
+7	—	—	_	_	_	_	_	_	_
+8	megszerezte	megszerez	_	_	DEF;PST;ACT;3;V;IND;FIN;SG	_	_	_	_
+9	a	a	_	_	DET;DEF	_	_	_	_
+10	Magyar	Magyar	_	_	PROPN;SG;NOM	_	_	_	_
+11	Nemzet	Nemzet	_	_	PROPN;SG;NOM	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	az	az	_	_	DET;DEF	_	_	_	_
+14	Esti	Esti	_	_	PROPN;SG;NOM	_	_	_	_
+15	Hírlap	Hírlap	_	_	PROPN;SG;NOM	_	_	_	_
+16	és	és	_	_	CONJ	_	_	_	_
+17	az	az	_	_	DET;DEF	_	_	_	_
+18	Expressz	Expressz	_	_	PROPN;SG;NOM	_	_	_	_
+19	kiadói	kiadói	_	_	ADJ;NOM;SG	_	_	_	_
+20	jogát	jog	_	_	PSS3S;N;ACC;SG	_	_	_	_
+21	,	,	_	_	_	_	_	_	_
+22	1997	1997	_	_	SG;NUM;NOM	_	_	_	_
+23	végén	vég	_	_	PSS3S;ON+ESS;N;SG	_	_	_	_
+24	pedig	pedig	_	_	CONJ	_	_	_	_
+25	megindította	megindít	_	_	DEF;PST;ACT;3;V;IND;FIN;SG	_	_	_	_
+26	a	a	_	_	DET;DEF	_	_	_	_
+27	Napi	Napi	_	_	PROPN;SG;NOM	_	_	_	_
+28	Magyarország	Magyarország	_	_	PROPN;SG;NOM	_	_	_	_
+29	című	című	_	_	ADJ;NOM;SG	_	_	_	_
+30	napilapot	napilap	_	_	SG;N;ACC	_	_	_	_
+31	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-658
+# text = Ezért siettették az ítélet meghozatalával az ügy lezárását, és arra is számíthattak: az önálló Szlovákia megteremtésének láza el is tereli a figyelmet a gyanús körülményekről.
+1	Ezért	ezért	_	_	ADV	_	_	_	_
+2	siettették	siet	_	_	DEF;PST;CAUS;3;V;IND;PL;FIN	_	_	_	_
+3	az	az	_	_	DET;DEF	_	_	_	_
+4	ítélet	ítélet	_	_	PSSD;NOM;N;SG	_	_	_	_
+5	meghozatalával	meghozatal	_	_	PSS3S;INS;N;SG	_	_	_	_
+6	az	az	_	_	DET;DEF	_	_	_	_
+7	ügy	ügy	_	_	PSSD;NOM;N;SG	_	_	_	_
+8	lezárását	lezárás	_	_	PSS3S;N;ACC;SG	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	és	és	_	_	CONJ	_	_	_	_
+11	arra	az	_	_	PSSD;PRO;3;ON+ALL;SG	_	_	_	_
+12	is	is	_	_	CONJ	_	_	_	_
+13	számíthattak	számít	_	_	PST;INDF;ACT;3;V;POT;PL;FIN	_	_	_	_
+14	:	:	_	_	_	_	_	_	_
+15	az	az	_	_	DET;DEF	_	_	_	_
+16	önálló	önálló	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+17	Szlovákia	Szlovákia	_	_	PSSD;NOM;PROPN;SG	_	_	_	_
+18	megteremtésének	megteremtés	_	_	PSS3S;N;GEN;SG	_	_	_	_
+19	láza	láz	_	_	PSS3S;NOM;N;SG	_	_	_	_
+20	el	el	_	_	ADV	_	_	_	_
+21	is	is	_	_	ADV	_	_	_	_
+22	tereli	terel	_	_	DEF;ACT;3;V;IND;FIN;SG;PRS	_	_	_	_
+23	a	a	_	_	DET;DEF	_	_	_	_
+24	figyelmet	figyelem	_	_	PSSD;N;ACC;SG	_	_	_	_
+25	a	a	_	_	DET;DEF	_	_	_	_
+26	gyanús	gyanús	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+27	körülményekről	körülmény	_	_	PSSD;N;PL	_	_	_	_
+28	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-184
+# text = A többi sem tudott pontosan elindulni, félórás, órás késéseket regisztráltak.
+1	A	a	_	_	DET;DEF	_	_	_	_
+2	többi	többi	_	_	PSSD;NOM;N;SG	_	_	_	_
+3	sem	sem	_	_	ADV	_	_	_	_
+4	tudott	tud	_	_	PST;INDF;ACT;3;V;IND;FIN;SG	_	_	_	_
+5	pontosan	pontos	_	_	PSSD;FRML;ADJ;SG	_	_	_	_
+6	elindulni	el+indul	_	_	V;NFIN;ACT	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	félórás	félórás	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	órás	órás	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+11	késéseket	késés	_	_	PSSD;N;PL;ACC	_	_	_	_
+12	regisztráltak	regisztrál	_	_	PST;INDF;ACT;3;V;IND;PL;FIN	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-317
+# text = Ha nem sikerül kordában tartani az indulatokat, s netán megszólalnak a fegyverek, a karacsájok és a cserkeszek vitájába előbb-utóbb beavatkoznak a szomszédos rokon népek, ami a régió mozaikszerű etnikai összetétele miatt a konfrontáció kiterjedésével fenyeget.
+1	Ha	ha	_	_	CONJ	_	_	_	_
+2	nem	nem	_	_	ADV	_	_	_	_
+3	sikerül	sikerül	_	_	FIN;3;INDF;SG;PRS;IND;V;ACT	_	_	_	_
+4	kordában	korda	_	_	N;IN+ESS;SG	_	_	_	_
+5	tartani	tart	_	_	NFIN;V;ACT	_	_	_	_
+6	az	az	_	_	DEF;DET	_	_	_	_
+7	indulatokat	indulat	_	_	N;ACC;PL	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	s	s	_	_	CONJ	_	_	_	_
+10	netán	netán	_	_	ADV	_	_	_	_
+11	megszólalnak	megszólal	_	_	FIN;3;INDF;PRS;IND;PL;V;ACT	_	_	_	_
+12	a	a	_	_	DEF;DET	_	_	_	_
+13	fegyverek	fegyver	_	_	N;NOM;PL	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	a	a	_	_	DEF;DET	_	_	_	_
+16	karacsájok	karacsáj	_	_	N;NOM;PL	_	_	_	_
+17	és	és	_	_	CONJ	_	_	_	_
+18	a	a	_	_	DEF;DET	_	_	_	_
+19	cserkeszek	cserkesz	_	_	N;NOM;PL	_	_	_	_
+20	vitájába	vita	_	_	PSS3S;SG;IN+ALL;N	_	_	_	_
+21	előbb-utóbb	előbb-utóbb	_	_	ADV	_	_	_	_
+22	beavatkoznak	beavatkozik	_	_	FIN;3;INDF;PRS;IND;PL;V;ACT	_	_	_	_
+23	a	a	_	_	DEF;DET	_	_	_	_
+24	szomszédos	szomszédos	_	_	ADJ;NOM;SG	_	_	_	_
+25	rokon	rokon	_	_	ADJ;NOM;SG	_	_	_	_
+26	népek	nép	_	_	N;NOM;PL	_	_	_	_
+27	,	,	_	_	_	_	_	_	_
+28	ami	ami	_	_	PRO;3;SG;NOM	_	_	_	_
+29	a	a	_	_	DEF;DET	_	_	_	_
+30	régió	régió	_	_	N;NOM;SG	_	_	_	_
+31	mozaikszerű	mozaikszerű	_	_	ADJ;NOM;SG	_	_	_	_
+32	etnikai	etnikai	_	_	ADJ;NOM;SG	_	_	_	_
+33	összetétele	összetétel	_	_	PSS3S;SG;N;NOM	_	_	_	_
+34	miatt	miatt	_	_	ADP	_	_	_	_
+35	a	a	_	_	DEF;DET	_	_	_	_
+36	konfrontáció	konfrontáció	_	_	N;NOM;SG	_	_	_	_
+37	kiterjedésével	kiterjedés	_	_	PSS3S;SG;N;INS	_	_	_	_
+38	fenyeget	fenyeget	_	_	FIN;3;INDF;SG;PRS;IND;V;ACT	_	_	_	_
+39	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-760
+# text = A felügyelet már augusztus 18-a óta vizsgálódik a London Brókernél, amelynek megromlott a likviditási helyzete.
+1	A	a	_	_	DET;DEF	_	_	_	_
+2	felügyelet	felügyelet	_	_	SG;NOM;N	_	_	_	_
+3	már	már	_	_	ADV	_	_	_	_
+4	augusztus	augusztus	_	_	SG;NOM;N	_	_	_	_
+5	18-a	18.	_	_	PSS3S;NOM;N;SG	_	_	_	_
+6	óta	óta	_	_	ADP	_	_	_	_
+7	vizsgálódik	vizsgálódik	_	_	INDF;ACT;3;V;IND;FIN;SG;PRS	_	_	_	_
+8	a	a	_	_	DET;DEF	_	_	_	_
+9	London	London	_	_	PROPN;SG;NOM	_	_	_	_
+10	Brókernél	Bróker	_	_	PROPN;SG;AT+ESS	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	amelynek	amely	_	_	PRO;3;GEN;SG	_	_	_	_
+13	megromlott	megromlik	_	_	PST;INDF;ACT;3;V;IND;FIN;SG	_	_	_	_
+14	a	a	_	_	DET;DEF	_	_	_	_
+15	likviditási	likviditási	_	_	ADJ;NOM;SG	_	_	_	_
+16	helyzete	helyzet	_	_	PSS3S;NOM;N;SG	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-569
+# text = Az alkotmányerejű törvénnyel lehetőség nyílik arra, hogy name váltsák le tisztségéből Franjo Tudjman köztársasági elnököt, akit 24. napja súlyos állapotban kórházban ápolnak.
+1	Az	az	_	_	DET;DEF	_	_	_	_
+2	alkotmányerejű	alkotmányerejű	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+3	törvénnyel	törvény	_	_	PSSD;INS;N;SG	_	_	_	_
+4	lehetőség	lehetőség	_	_	PSSD;NOM;N;SG	_	_	_	_
+5	nyílik	nyílik	_	_	INDF;ACT;3;V;IND;FIN;SG;PRS	_	_	_	_
+6	arra	az	_	_	PSSD;PRO;3;ON+ALL;SG	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	hogy	hogy	_	_	CONJ	_	_	_	_
+9	name	ne	_	_	ADV	_	_	_	_
+10	váltsák	vált	_	_	DEF;ACT;IMP;3;V;PL;FIN;PRS	_	_	_	_
+11	le	le	_	_	ADV	_	_	_	_
+12	tisztségéből	tisztség	_	_	PSS3S;N;IN+ABL;SG	_	_	_	_
+13	Franjo	Franjo	_	_	PSSD;NOM;PROPN;SG	_	_	_	_
+14	Tudjman	Tudjman	_	_	PSSD;NOM;PROPN;SG	_	_	_	_
+15	köztársasági	köztársasági	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+16	elnököt	elnök	_	_	PSSD;N;ACC;SG	_	_	_	_
+17	,	,	_	_	_	_	_	_	_
+18	akit	aki	_	_	PSSD;PRO;3;ACC;SG	_	_	_	_
+19	24.	24.	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+20	napja	nap	_	_	PSS3S;NOM;N;SG	_	_	_	_
+21	súlyos	súlyos	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+22	állapotban	állapot	_	_	PSSD;IN+ESS;N;SG	_	_	_	_
+23	kórházban	kórház	_	_	PSSD;IN+ESS;N;SG	_	_	_	_
+24	ápolnak	ápol	_	_	INDF;ACT;3;V;IND;PL;FIN;PRS	_	_	_	_
+25	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-416
+# text = A Starbuckshoz érkezve azt vette a fejébe, hogy olyan vállalkozást farag a cégből, amely jól fizető kuncsaftoknak minőségi és változatos ízesítésű kávét kínál, országszerte azonos mintára épített bárjaiban.
+1	A	a	_	_	DEF;DET	_	_	_	_
+2	Starbuckshoz	Starbucks	_	_	PROPN;AT+ALL;SG	_	_	_	_
+3	érkezve	érkezve	_	_	V.CVB;ADV	_	_	_	_
+4	azt	az	_	_	PRO;3;SG;ACC	_	_	_	_
+5	vette	vesz	_	_	FIN;3;SG;IND;DEF;PST;V;ACT	_	_	_	_
+6	a	a	_	_	DEF;DET	_	_	_	_
+7	fejébe	fej	_	_	PSS3S;SG;IN+ALL;N	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	hogy	hogy	_	_	CONJ	_	_	_	_
+10	olyan	olyan	_	_	PRO;3;SG;NOM	_	_	_	_
+11	vállalkozást	vállalkozás	_	_	N;ACC;SG	_	_	_	_
+12	farag	farag	_	_	FIN;3;INDF;SG;PRS;IND;V;ACT	_	_	_	_
+13	a	a	_	_	DEF;DET	_	_	_	_
+14	cégből	cég	_	_	IN+ABL;N;SG	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	amely	amely	_	_	PRO;3;SG;NOM	_	_	_	_
+17	jól	jól	_	_	ADV	_	_	_	_
+18	fizető	fizető	_	_	ADJ;NOM;SG	_	_	_	_
+19	kuncsaftoknak	kuncsaft	_	_	N;DAT;PL	_	_	_	_
+20	minőségi	minőségi	_	_	ADJ;NOM;SG	_	_	_	_
+21	és	és	_	_	CONJ	_	_	_	_
+22	változatos	változatos	_	_	ADJ;NOM;SG	_	_	_	_
+23	ízesítésű	ízesítésű	_	_	ADJ;NOM;SG	_	_	_	_
+24	kávét	kávé	_	_	N;ACC;SG	_	_	_	_
+25	kínál	kínál	_	_	FIN;3;INDF;SG;PRS;IND;V;ACT	_	_	_	_
+26	,	,	_	_	_	_	_	_	_
+27	országszerte	országszerte	_	_	ADV	_	_	_	_
+28	azonos	azonos	_	_	ADJ;NOM;SG	_	_	_	_
+29	mintára	minta	_	_	N;ON+ALL;SG	_	_	_	_
+30	épített	épített	_	_	SG;ADJ;NOM	_	_	_	_
+31	bárjaiban	bár	_	_	PSS3S;IN+ESS;N;PL	_	_	_	_
+32	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-394
+# text = A tőkeemelés célja a bank hitelintézeti törvénynek megfelelő működése, hiszen így nő a Konzumbank saját tőkéje a jegyzettel azonos szintre, 5 milliárd forintra.
+1	A	a	_	_	DET;DEF	_	_	_	_
+2	tőkeemelés	tőkeemelés	_	_	SG;NOM;N	_	_	_	_
+3	célja	cél	_	_	PSS3S;SG;N;NOM	_	_	_	_
+4	a	a	_	_	DET;DEF	_	_	_	_
+5	bank	bank	_	_	SG;NOM;N	_	_	_	_
+6	hitelintézeti	hitelintézeti	_	_	NOM;ADJ;SG	_	_	_	_
+7	törvénynek	törvény	_	_	SG;DAT;N	_	_	_	_
+8	megfelelő	megfelelő	_	_	NOM;ADJ;SG	_	_	_	_
+9	működése	működés	_	_	PSS3S;SG;N;NOM	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	hiszen	hiszen	_	_	CONJ	_	_	_	_
+12	így	így	_	_	ADV	_	_	_	_
+13	nő	nő	_	_	SG;3;FIN;INDF;V;ACT;PRS;IND	_	_	_	_
+14	a	a	_	_	DET;DEF	_	_	_	_
+15	Konzumbank	Konzumbank	_	_	SG;NOM;PROPN	_	_	_	_
+16	saját	saját	_	_	SG;3;PRO;NOM	_	_	_	_
+17	tőkéje	tőke	_	_	PSS3S;SG;N;NOM	_	_	_	_
+18	a	a	_	_	DET;DEF	_	_	_	_
+19	jegyzettel	jegyzet	_	_	SG;INS;N	_	_	_	_
+20	azonos	azonos	_	_	NOM;ADJ;SG	_	_	_	_
+21	szintre	szint	_	_	SG;ON+ALL;N	_	_	_	_
+22	,	,	_	_	_	_	_	_	_
+23	5	5	_	_	SG;NOM;NUM	_	_	_	_
+24	milliárd	milliárd	_	_	SG;NOM;NUM	_	_	_	_
+25	forintra	forint	_	_	SG;ON+ALL;N	_	_	_	_
+26	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-309
+# text = Noha Gyerev ügyvédje még aznap beadta a fellebbezést, annak nincs halasztó hatálya.
+1	Noha	noha	_	_	CONJ	_	_	_	_
+2	Gyerev	Gyerev	_	_	PROPN;NOM;SG	_	_	_	_
+3	ügyvédje	ügyvéd	_	_	PSS3S;SG;N;NOM	_	_	_	_
+4	még	még	_	_	ADV	_	_	_	_
+5	aznap	aznap	_	_	ADV	_	_	_	_
+6	beadta	bead	_	_	FIN;3;SG;IND;DEF;PST;V;ACT	_	_	_	_
+7	a	a	_	_	DEF;DET	_	_	_	_
+8	fellebbezést	fellebbezés	_	_	N;ACC;SG	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	annak	az	_	_	PRO;GEN;3;SG	_	_	_	_
+11	nincs	nincs	_	_	FIN;3;INDF;SG;PRS;IND;V;ACT	_	_	_	_
+12	halasztó	halasztó	_	_	SG;ADJ;NOM	_	_	_	_
+13	hatálya	hatály	_	_	PSS3S;SG;N;NOM	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-494
+# text = — A szobor hálós szerkezetű, a háló adja ki a jaguár formáját, ami tehát belül üres.
+1	—	—	_	_	_	_	_	_	_
+2	A	a	_	_	DET;DEF	_	_	_	_
+3	szobor	szobor	_	_	PSSD;NOM;N;SG	_	_	_	_
+4	hálós	hálós	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+5	szerkezetű	szerkezetű	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	a	a	_	_	DET;DEF	_	_	_	_
+8	háló	háló	_	_	PSSD;NOM;N;SG	_	_	_	_
+9	adja	ad	_	_	DEF;ACT;3;V;IND;FIN;SG;PRS	_	_	_	_
+10	ki	ki	_	_	ADV	_	_	_	_
+11	a	a	_	_	DET;DEF	_	_	_	_
+12	jaguár	jaguár	_	_	PSSD;NOM;N;SG	_	_	_	_
+13	formáját	forma	_	_	PSS3S;N;ACC;SG	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	ami	ami	_	_	PSSD;NOM;PRO;3;SG	_	_	_	_
+16	tehát	tehát	_	_	CONJ	_	_	_	_
+17	belül	belül	_	_	ADV	_	_	_	_
+18	üres	üres	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-188
+# text = Két utas életét vesztette, és rengeteg amerikait súlyos sérüléssel kellett kórházba szállítani.
+1	Két	két	_	_	PSSD;NUM;NOM;SG	_	_	_	_
+2	utas	utas	_	_	PSSD;NOM;N;SG	_	_	_	_
+3	életét	élet	_	_	PSS3S;N;ACC;SG	_	_	_	_
+4	vesztette	veszt	_	_	DEF;PST;ACT;3;V;IND;FIN;SG	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	és	és	_	_	CONJ	_	_	_	_
+7	rengeteg	rengeteg	_	_	DET;INDF	_	_	_	_
+8	amerikait	amerikai	_	_	PSSD;N;ACC;SG	_	_	_	_
+9	súlyos	súlyos	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+10	sérüléssel	sérülés	_	_	PSSD;INS;N;SG	_	_	_	_
+11	kellett	kell	_	_	PST;INDF;ACT;3;V;IND;FIN;SG	_	_	_	_
+12	kórházba	kórház	_	_	PSSD;N;IN+ALL;SG	_	_	_	_
+13	szállítani	szállít	_	_	V;NFIN;ACT	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-107
+# text = A jogegységi döntés várhatóan decemberben születik meg.
+1	A	a	_	_	DET;DEF	_	_	_	_
+2	jogegységi	jogegységi	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+3	döntés	döntés	_	_	PSSD;SG;N;NOM	_	_	_	_
+4	várhatóan	várható	_	_	PSSD;SG;ADJ;FRML	_	_	_	_
+5	decemberben	december	_	_	PSSD;SG;N;IN+ESS	_	_	_	_
+6	születik	születik	_	_	SG;3;FIN;INDF;V;ACT;PRS;IND	_	_	_	_
+7	meg	meg	_	_	PART	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-421
+# text = A Starbucks részvénye 1992. június 26-án debütált az amerikai elektronikus tőzsdén, a Nasdaqon, a 17 dolláros kibocsátási ár a kereskedés első perceiben 21 dollárra emelkedett, a papír az aznapi adásvételben a második legkeresettebbnek bizonyult.
+1	A	a	_	_	DEF;DET	_	_	_	_
+2	Starbucks	Starbucks	_	_	PROPN;NOM;SG	_	_	_	_
+3	részvénye	részvény	_	_	PSS3S;SG;N;NOM	_	_	_	_
+4	1992.	1992.	_	_	ADJ;NOM;SG	_	_	_	_
+5	június	június	_	_	N;NOM;SG	_	_	_	_
+6	26-án	26.	_	_	PSS3S;SG;N;ON+ESS	_	_	_	_
+7	debütált	debütál	_	_	FIN;3;INDF;SG;IND;PST;V;ACT	_	_	_	_
+8	az	az	_	_	DEF;DET	_	_	_	_
+9	amerikai	amerikai	_	_	ADJ;NOM;SG	_	_	_	_
+10	elektronikus	elektronikus	_	_	ADJ;NOM;SG	_	_	_	_
+11	tőzsdén	tőzsde	_	_	N;ON+ESS;SG	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	a	a	_	_	DEF;DET	_	_	_	_
+14	Nasdaqon	Nasdaq	_	_	ON+ESS;PROPN;SG	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	a	a	_	_	DEF;DET	_	_	_	_
+17	17	17	_	_	NUM;NOM;SG	_	_	_	_
+18	dolláros	dolláros	_	_	ADJ;NOM;SG	_	_	_	_
+19	kibocsátási	kibocsátási	_	_	ADJ;NOM;SG	_	_	_	_
+20	ár	ár	_	_	N;NOM;SG	_	_	_	_
+21	a	a	_	_	DEF;DET	_	_	_	_
+22	kereskedés	kereskedés	_	_	N;NOM;SG	_	_	_	_
+23	első	első	_	_	ADJ;NOM;SG	_	_	_	_
+24	perceiben	perc	_	_	PSS3S;IN+ESS;N;PL	_	_	_	_
+25	21	21	_	_	NUM;NOM;SG	_	_	_	_
+26	dollárra	dollár	_	_	N;ON+ALL;SG	_	_	_	_
+27	emelkedett	emelkedik	_	_	FIN;3;INDF;SG;IND;PST;V;ACT	_	_	_	_
+28	,	,	_	_	_	_	_	_	_
+29	a	a	_	_	DEF;DET	_	_	_	_
+30	papír	papír	_	_	N;NOM;SG	_	_	_	_
+31	az	az	_	_	DEF;DET	_	_	_	_
+32	aznapi	aznapi	_	_	ADJ;NOM;SG	_	_	_	_
+33	adásvételben	adásvétel	_	_	N;IN+ESS;SG	_	_	_	_
+34	a	a	_	_	DEF;DET	_	_	_	_
+35	második	második	_	_	ADJ;NOM;SG	_	_	_	_
+36	legkeresettebbnek	keresett	_	_	RL;ADJ;DAT;SG	_	_	_	_
+37	bizonyult	bizonyul	_	_	FIN;3;INDF;SG;IND;PST;V;ACT	_	_	_	_
+38	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-552
+# text = A nagy elődök (Sean Connery, Roger Moore) játékában fellelhető irónia Brosnannek ugyan nem az erőssége, de hál ' isten nem is erőlteti sem ő, sem a történet kiagyalói.
+1	A	a	_	_	DET;DEF	_	_	_	_
+2	nagy	nagy	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+3	elődök	előd	_	_	PSSD;NOM;N;PL	_	_	_	_
+4	(	(	_	_	_	_	_	_	_
+5	Sean	Sean	_	_	PSSD;NOM;PROPN;SG	_	_	_	_
+6	Connery	Connery	_	_	PSSD;NOM;PROPN;SG	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	Roger	Roger	_	_	PSSD;NOM;PROPN;SG	_	_	_	_
+9	Moore	Moore	_	_	PSSD;NOM;PROPN;SG	_	_	_	_
+10	)	)	_	_	_	_	_	_	_
+11	játékában	játék	_	_	PSS3S;IN+ESS;N;SG	_	_	_	_
+12	fellelhető	fellelhető	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+13	irónia	irónia	_	_	PSSD;NOM;N;SG	_	_	_	_
+14	Brosnannek	Brosnan	_	_	PSSD;GEN;PROPN;SG	_	_	_	_
+15	ugyan	ugyan	_	_	ADV	_	_	_	_
+16	nem	nem	_	_	ADV	_	_	_	_
+17	az	az	_	_	DET;DEF	_	_	_	_
+18	erőssége	erősség	_	_	PSS3S;NOM;N;SG	_	_	_	_
+19	,	,	_	_	_	_	_	_	_
+20	de	de	_	_	CONJ	_	_	_	_
+21	hál	hál	_	_	PSSD;NOM;N;SG	_	_	_	_
+22	'	'	_	_	_	_	_	_	_
+23	isten	isten	_	_	PSSD;NOM;N;SG	_	_	_	_
+24	nem	nem	_	_	ADV	_	_	_	_
+25	is	is	_	_	ADV	_	_	_	_
+26	erőlteti	erőltet	_	_	DEF;ACT;3;V;IND;FIN;SG;PRS	_	_	_	_
+27	sem	sem	_	_	CONJ	_	_	_	_
+28	ő	ő	_	_	PSSD;NOM;PRO;3;SG	_	_	_	_
+29	,	,	_	_	_	_	_	_	_
+30	sem	sem	_	_	CONJ	_	_	_	_
+31	a	a	_	_	DET;DEF	_	_	_	_
+32	történet	történet	_	_	PSSD;NOM;N;SG	_	_	_	_
+33	kiagyalói	kiagyalói	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+34	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-269
+# text = Az ügy végére tegnap került pont a Legfelsőbb Bíróságon.
+1	Az	az	_	_	DEF;DET	_	_	_	_
+2	ügy	ügy	_	_	PSSD;SG;N;NOM	_	_	_	_
+3	végére	vég	_	_	PSS3S;ON+ALL;SG;N	_	_	_	_
+4	tegnap	tegnap	_	_	ADV	_	_	_	_
+5	került	kerül	_	_	FIN;3;INDF;SG;IND;PST;V;ACT	_	_	_	_
+6	pont	pont	_	_	PSSD;SG;N;NOM	_	_	_	_
+7	a	a	_	_	DEF;DET	_	_	_	_
+8	Legfelsőbb	Legfelsőbb	_	_	PSSD;SG;PROPN;NOM	_	_	_	_
+9	Bíróságon	Bíróság	_	_	PSSD;SG;ON+ESS;PROPN	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-193
+# text = És ha továbbra is jól megy, és jönnek az eredmények, miért name csinálnám néhány esztendeig azt, amihez a legjobban értek.
+1	És	és	_	_	CONJ	_	_	_	_
+2	ha	ha	_	_	CONJ	_	_	_	_
+3	továbbra	továbbra	_	_	ADV	_	_	_	_
+4	is	is	_	_	CONJ	_	_	_	_
+5	jól	jól	_	_	ADV	_	_	_	_
+6	megy	meg+y	_	_	FIN;3;INDF;SG;PRS;IND;V;ACT	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	és	és	_	_	CONJ	_	_	_	_
+9	jönnek	jön	_	_	FIN;3;INDF;PRS;IND;PL;V;ACT	_	_	_	_
+10	az	az	_	_	DEF;DET	_	_	_	_
+11	eredmények	eredmény	_	_	PSSD;N;PL;NOM	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	miért	miért	_	_	ADV	_	_	_	_
+14	name	ne	_	_	ADV	_	_	_	_
+15	csinálnám	csinál	_	_	FIN;3;COND;PRS;DEF;PL;V;ACT	_	_	_	_
+16	néhány	néhány	_	_	INDF;DET	_	_	_	_
+17	esztendeig	esztendő	_	_	PSSD;SG;N	_	_	_	_
+18	azt	az	_	_	PSSD;PRO;3;SG;ACC	_	_	_	_
+19	,	,	_	_	_	_	_	_	_
+20	amihez	ami	_	_	PSSD;PRO;3;SG;AT+ALL	_	_	_	_
+21	a	a	_	_	DEF;DET	_	_	_	_
+22	legjobban	jól	_	_	ADV	_	_	_	_
+23	értek	ért	_	_	FIN;1;INDF;SG;PRS;IND;V;ACT	_	_	_	_
+24	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-40
+# text = Emiatt nem léphettem ringbe, nem kereshettem pénzt, sőt még vesztettem is, hiszen játékszenvedélyemből adódóan minden nyerőautomatánál megálltam egy körre.
+1	Emiatt	emiatt	_	_	ADV	_	_	_	_
+2	nem	nem	_	_	ADV	_	_	_	_
+3	léphettem	lép	_	_	FIN;POT;1;INDF;SG;PST;V;ACT	_	_	_	_
+4	ringbe	ring	_	_	PSSD;SG;IN+ALL;N	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	nem	nem	_	_	ADV	_	_	_	_
+7	kereshettem	keres	_	_	FIN;POT;1;INDF;SG;PST;V;ACT	_	_	_	_
+8	pénzt	pénz	_	_	PSSD;SG;N;ACC	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	sőt	sőt	_	_	CONJ	_	_	_	_
+11	még	még	_	_	ADV	_	_	_	_
+12	vesztettem	veszt	_	_	FIN;1;INDF;SG;IND;PST;V;ACT	_	_	_	_
+13	is	is	_	_	CONJ	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	hiszen	hiszen	_	_	CONJ	_	_	_	_
+16	játékszenvedélyemből	játékszenvedély	_	_	PSS1S;SG;IN+ABL;N	_	_	_	_
+17	adódóan	adódó	_	_	PSSD;SG;FRML;ADJ	_	_	_	_
+18	minden	minden	_	_	INDF;DET	_	_	_	_
+19	nyerőautomatánál	nyerőautomata	_	_	PSSD;ON+ALL;SG;N	_	_	_	_
+20	megálltam	meg+áll	_	_	FIN;1;INDF;SG;IND;PST;V;ACT	_	_	_	_
+21	egy	egy	_	_	INDF;DET	_	_	_	_
+22	körre	kör	_	_	PSSD;ON+ALL;SG;N	_	_	_	_
+23	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-856
+# text = Márpedig az NSZK-ban szinte mindig vannak valahol vagy helyhatósági, vagy tartományi választások — ezen az őszön például a Saar-vidéken és Brandenburgban —, s hosszabb távon egyetlen párt sem veszhet össze a választóival.
+1	Márpedig	márpedig	_	_	CONJ	_	_	_	_
+2	az	az	_	_	DET;DEF	_	_	_	_
+3	NSZK-ban	NSZK	_	_	PROPN;SG;IN+ESS	_	_	_	_
+4	szinte	szinte	_	_	ADV	_	_	_	_
+5	mindig	mindig	_	_	ADV	_	_	_	_
+6	vannak	van	_	_	INDF;ACT;3;V;IND;PL;FIN;PRS	_	_	_	_
+7	valahol	valahol	_	_	ADV	_	_	_	_
+8	vagy	vagy	_	_	CONJ	_	_	_	_
+9	helyhatósági	helyhatósági	_	_	ADJ;NOM;SG	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	vagy	vagy	_	_	CONJ	_	_	_	_
+12	tartományi	tartományi	_	_	ADJ;NOM;SG	_	_	_	_
+13	választások	választás	_	_	NOM;N;PL	_	_	_	_
+14	—	—	_	_	_	_	_	_	_
+15	ezen	ez	_	_	ON+ESS;PRO;3;SG	_	_	_	_
+16	az	az	_	_	DET;DEF	_	_	_	_
+17	őszön	ősz	_	_	ON+ESS;SG;N	_	_	_	_
+18	például	például	_	_	ADV	_	_	_	_
+19	a	a	_	_	DET;DEF	_	_	_	_
+20	Saar-vidéken	Saar-vidék	_	_	PROPN;SG;ON+ESS	_	_	_	_
+21	és	és	_	_	CONJ	_	_	_	_
+22	Brandenburgban	Brandenburg	_	_	PROPN;SG;IN+ESS	_	_	_	_
+23	—	—	_	_	_	_	_	_	_
+24	,	,	_	_	_	_	_	_	_
+25	s	s	_	_	CONJ	_	_	_	_
+26	hosszabb	hosszú	_	_	ADJ;NOM;CMPR;SG	_	_	_	_
+27	távon	táv	_	_	ON+ESS;SG;N	_	_	_	_
+28	egyetlen	egyetlen	_	_	ADJ;NOM;SG	_	_	_	_
+29	párt	párt	_	_	SG;NOM;N	_	_	_	_
+30	sem	sem	_	_	ADV	_	_	_	_
+31	veszhet	veszhet	_	_	INDF;ACT;3;V;POT;FIN;SG;PRS	_	_	_	_
+32	össze	össze	_	_	ADV	_	_	_	_
+33	a	a	_	_	DET;DEF	_	_	_	_
+34	választóival	választó	_	_	PSS3S;INS;N;PL	_	_	_	_
+35	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-374
+# text = S bár nagyon jó viszonyban voltunk, és meghatározó volt életemben ez a vendégszereplés, nemet mondtam.
+1	S	s	_	_	CONJ	_	_	_	_
+2	bár	bár	_	_	CONJ	_	_	_	_
+3	nagyon	nagyon	_	_	ADV	_	_	_	_
+4	jó	jó	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+5	viszonyban	viszony	_	_	PSSD;IN+ESS;N;SG	_	_	_	_
+6	voltunk	van	_	_	PST;INDF;ACT;V;IND;PL;FIN;1	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	és	és	_	_	CONJ	_	_	_	_
+9	meghatározó	meghatározó	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+10	volt	van	_	_	PST;INDF;ACT;V;3;IND;FIN;SG	_	_	_	_
+11	életemben	élet	_	_	PSS1S;IN+ESS;N;SG	_	_	_	_
+12	ez	ez	_	_	PSSD;DET;NOM;3;SG	_	_	_	_
+13	a	a	_	_	DET;DEF	_	_	_	_
+14	vendégszereplés	vendégszereplés	_	_	PSSD;NOM;N;SG	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	nemet	nem	_	_	PSSD;N;ACC;SG	_	_	_	_
+17	mondtam	mond	_	_	DEF;PST;ACT;V;IND;FIN;SG;1	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-360
+# text = A vártnál jóval gyorsabban lábal ki a délkelet-ázsiai térség az 1997-es pénzügyi válságból, amit mi sem jelez jobban, mint a régió tőzsdéinek szárnyalása.
+1	A	a	_	_	DEF;DET	_	_	_	_
+2	vártnál	várt	_	_	AT+ESS;SG;ADJ	_	_	_	_
+3	jóval	jóval	_	_	ADV	_	_	_	_
+4	gyorsabban	gyors	_	_	CMPR;FRML;ADJ;SG	_	_	_	_
+5	lábal	lábal	_	_	FIN;3;INDF;SG;PRS;IND;V;ACT	_	_	_	_
+6	ki	ki	_	_	ADV	_	_	_	_
+7	a	a	_	_	DEF;DET	_	_	_	_
+8	délkelet-ázsiai	délkelet-ázsiai	_	_	ADJ;NOM;SG	_	_	_	_
+9	térség	térség	_	_	N;NOM;SG	_	_	_	_
+10	az	az	_	_	DEF;DET	_	_	_	_
+11	1997-es	1997-es	_	_	ADJ;NOM;SG	_	_	_	_
+12	pénzügyi	pénzügyi	_	_	ADJ;NOM;SG	_	_	_	_
+13	válságból	válság	_	_	IN+ABL;N;SG	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	amit	ami	_	_	PRO;3;SG;ACC	_	_	_	_
+16	mi	mi	_	_	PRO;3;SG;NOM	_	_	_	_
+17	sem	sem	_	_	ADV	_	_	_	_
+18	jelez	jelez	_	_	FIN;3;INDF;SG;PRS;IND;V;ACT	_	_	_	_
+19	jobban	jól	_	_	CMPR;ADV	_	_	_	_
+20	,	,	_	_	_	_	_	_	_
+21	mint	mint	_	_	CONJ	_	_	_	_
+22	a	a	_	_	DEF;DET	_	_	_	_
+23	régió	régió	_	_	N;NOM;SG	_	_	_	_
+24	tőzsdéinek	tőzsde	_	_	PSS3S;GEN;N;PL	_	_	_	_
+25	szárnyalása	szárnyalás	_	_	PSS3S;SG;N;NOM	_	_	_	_
+26	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-350
+# text = A birodalmat öt nagy egységre bontják fel — mindegyik élére az alapító egy-egy fiúgyermeke kerül.
+1	A	a	_	_	DEF;DET	_	_	_	_
+2	birodalmat	birodalom	_	_	N;ACC;SG	_	_	_	_
+3	öt	öt	_	_	NUM;NOM;SG	_	_	_	_
+4	nagy	nagy	_	_	ADJ;NOM;SG	_	_	_	_
+5	egységre	egység	_	_	N;ON+ALL;SG	_	_	_	_
+6	bontják	bont	_	_	FIN;3;PRS;IND;DEF;PL;V;ACT	_	_	_	_
+7	fel	fel	_	_	ADV	_	_	_	_
+8	—	—	_	_	_	_	_	_	_
+9	mindegyik	mindegyik	_	_	PRO;3;SG;NOM	_	_	_	_
+10	élére	él	_	_	PSS3S;ON+ALL;SG;N	_	_	_	_
+11	az	az	_	_	DEF;DET	_	_	_	_
+12	alapító	alapító	_	_	N;NOM;SG	_	_	_	_
+13	egy-egy	egy-egy	_	_	NUM;NOM;SG	_	_	_	_
+14	fiúgyermeke	fiúgyermek	_	_	PSS3S;SG;N;NOM	_	_	_	_
+15	kerül	kerül	_	_	FIN;3;INDF;SG;PRS;IND;V;ACT	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-243
+# text = A kiskereskedelemben teljesen más okra vezethető vissza a mamutvállalkozások létrejötte, mint az élelmiszeriparban.
+1	A	a	_	_	DET;DEF	_	_	_	_
+2	kiskereskedelemben	kiskereskedelem	_	_	PSSD;SG;N;IN+ESS	_	_	_	_
+3	teljesen	teljes	_	_	PSSD;SG;ADJ;FRML	_	_	_	_
+4	más	más	_	_	DET;INDF	_	_	_	_
+5	okra	ok	_	_	PSSD;SG;N;ON+ALL	_	_	_	_
+6	vezethető	vezethető	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+7	vissza	vissza	_	_	ADV	_	_	_	_
+8	a	a	_	_	DET;DEF	_	_	_	_
+9	mamutvállalkozások	mamutvállalkozás	_	_	PSSD;N;PL;NOM	_	_	_	_
+10	létrejötte	létrejötte	_	_	PSS3S;SG;N;NOM	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	mint	mint	_	_	CONJ	_	_	_	_
+13	az	az	_	_	DET;DEF	_	_	_	_
+14	élelmiszeriparban	élelmiszeripar	_	_	PSSD;SG;N;IN+ESS	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-19
+# text = Ezért a bejelentés leggyorsabb módja, ha valaki az első hívást tartja.
+1	Ezért	ezért	_	_	CONJ	_	_	_	_
+2	a	a	_	_	DEF;DET	_	_	_	_
+3	bejelentés	bejelentés	_	_	PSSD;SG;N;NOM	_	_	_	_
+4	leggyorsabb	gyors	_	_	PSSD;SG;RL;ADJ;NOM	_	_	_	_
+5	módja	mód	_	_	PSS3S;SG;N;NOM	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	ha	ha	_	_	CONJ	_	_	_	_
+8	valaki	valaki	_	_	PSSD;PRO;3;SG;NOM	_	_	_	_
+9	az	az	_	_	DEF;DET	_	_	_	_
+10	első	első	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+11	hívást	hívás	_	_	PSSD;SG;N;ACC	_	_	_	_
+12	tartja	tart	_	_	FIN;3;PRS;SG;IND;DEF;V;ACT	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-374
+# text = Növelheti a sorállást, hogy a közúti határátkelőhelyek közül egyelőre csak a tiszabecsin van automata útlevélolvasó gép, a határállomások nagy többségén az adatokat kézzel kell begépelni a rendőrségi körözési adatbázissal összeköttetésben lévő számítógépbe.
+1	Növelheti	növelhet	_	_	SG;3;POT;V;DEF;FIN;ACT;PRS	_	_	_	_
+2	a	a	_	_	DET;DEF	_	_	_	_
+3	sorállást	sorállás	_	_	SG;ACC;N	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	hogy	hogy	_	_	CONJ	_	_	_	_
+6	a	a	_	_	DET;DEF	_	_	_	_
+7	közúti	közúti	_	_	NOM;ADJ;SG	_	_	_	_
+8	határátkelőhelyek	határátkelőhely	_	_	NOM;N;PL	_	_	_	_
+9	közül	közül	_	_	ADP	_	_	_	_
+10	egyelőre	egyelőre	_	_	ADV	_	_	_	_
+11	csak	csak	_	_	ADV	_	_	_	_
+12	a	a	_	_	DET;DEF	_	_	_	_
+13	tiszabecsin	tiszabecsi	_	_	SG;ON+ESS;N	_	_	_	_
+14	van	van	_	_	SG;3;FIN;INDF;V;ACT;PRS;IND	_	_	_	_
+15	automata	automata	_	_	NOM;ADJ;SG	_	_	_	_
+16	útlevélolvasó	útlevélolvasó	_	_	SG;ADJ;NOM	_	_	_	_
+17	gép	gép	_	_	SG;NOM;N	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	a	a	_	_	DET;DEF	_	_	_	_
+20	határállomások	határállomás	_	_	NOM;N;PL	_	_	_	_
+21	nagy	nagy	_	_	NOM;ADJ;SG	_	_	_	_
+22	többségén	többség	_	_	PSS3S;SG;ON+ESS;N	_	_	_	_
+23	az	az	_	_	DET;DEF	_	_	_	_
+24	adatokat	adat	_	_	ACC;N;PL	_	_	_	_
+25	kézzel	kéz	_	_	SG;INS;N	_	_	_	_
+26	kell	kell	_	_	SG;3;FIN;INDF;V;ACT;PRS;IND	_	_	_	_
+27	begépelni	begépel	_	_	NFIN;V;ACT	_	_	_	_
+28	a	a	_	_	DET;DEF	_	_	_	_
+29	rendőrségi	rendőrségi	_	_	NOM;ADJ;SG	_	_	_	_
+30	körözési	körözési	_	_	NOM;ADJ;SG	_	_	_	_
+31	adatbázissal	adatbázis	_	_	SG;INS;N	_	_	_	_
+32	összeköttetésben	összeköttetés	_	_	SG;IN+ESS;N	_	_	_	_
+33	lévő	lévő	_	_	SG;ADJ;NOM	_	_	_	_
+34	számítógépbe	számítógép	_	_	SG;N;IN+ALL	_	_	_	_
+35	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-607
+# text = A magyar és az orosz külügyi tárca vezetője utoljára tavaly februárban Budapesten folytatott eszmecserét.
+1	A	a	_	_	DET;DEF	_	_	_	_
+2	magyar	magyar	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+3	és	és	_	_	CONJ	_	_	_	_
+4	az	az	_	_	DET;DEF	_	_	_	_
+5	orosz	orosz	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+6	külügyi	külügyi	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+7	tárca	tárca	_	_	PSSD;NOM;N;SG	_	_	_	_
+8	vezetője	vezető	_	_	PSS3S;NOM;N;SG	_	_	_	_
+9	utoljára	utoljára	_	_	ADV	_	_	_	_
+10	tavaly	tavaly	_	_	ADV	_	_	_	_
+11	februárban	február	_	_	PSSD;IN+ESS;N;SG	_	_	_	_
+12	Budapesten	Budapest	_	_	PSSD;ON+ESS;PROPN;SG	_	_	_	_
+13	folytatott	folytat	_	_	PST;INDF;ACT;3;V;IND;FIN;SG	_	_	_	_
+14	eszmecserét	eszmecsere	_	_	PSSD;N;ACC;SG	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-548
+# text = Az egész estés rajzfilm készítői egyszerű, kedves történetet mesélnek egy lényről, aki az állatok között tapasztalja meg a szeretet, a családi összetartozás erejét, s aki ember mivoltára ébredve is inkább a dzsungelt választja.
+1	Az	az	_	_	DET;DEF	_	_	_	_
+2	egész	egész	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+3	estés	estés	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+4	rajzfilm	rajzfilm	_	_	PSSD;NOM;N;SG	_	_	_	_
+5	készítői	készítő	_	_	PSS3S;NOM;N;PL	_	_	_	_
+6	egyszerű	egyszerű	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	kedves	kedves	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+9	történetet	történet	_	_	PSSD;N;ACC;SG	_	_	_	_
+10	mesélnek	mesél	_	_	INDF;ACT;3;V;IND;PL;FIN;PRS	_	_	_	_
+11	egy	egy	_	_	DET;INDF	_	_	_	_
+12	lényről	lény	_	_	PSSD;N;SG	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	aki	aki	_	_	PSSD;NOM;PRO;3;SG	_	_	_	_
+15	az	az	_	_	DET;DEF	_	_	_	_
+16	állatok	állat	_	_	PSSD;NOM;N;PL	_	_	_	_
+17	között	között	_	_	ADP	_	_	_	_
+18	tapasztalja	tapasztal	_	_	DEF;ACT;3;V;IND;FIN;SG;PRS	_	_	_	_
+19	meg	meg	_	_	PART	_	_	_	_
+20	a	a	_	_	DET;DEF	_	_	_	_
+21	szeretet	szeretet	_	_	PSSD;NOM;N;SG	_	_	_	_
+22	,	,	_	_	_	_	_	_	_
+23	a	a	_	_	DET;DEF	_	_	_	_
+24	családi	családi	_	_	PSSD;NOM;ADJ;SG	_	_	_	_
+25	összetartozás	összetartozás	_	_	PSSD;NOM;N;SG	_	_	_	_
+26	erejét	erő	_	_	PSS3S;N;ACC;SG	_	_	_	_
+27	,	,	_	_	_	_	_	_	_
+28	s	s	_	_	CONJ	_	_	_	_
+29	aki	aki	_	_	PSSD;NOM;PRO;3;SG	_	_	_	_
+30	ember	ember	_	_	PSSD;NOM;N;SG	_	_	_	_
+31	mivoltára	mivolta	_	_	PSS3S;N;ON+ALL;SG	_	_	_	_
+32	ébredve	ébredve	_	_	V.CVB;ADV	_	_	_	_
+33	is	is	_	_	CONJ	_	_	_	_
+34	inkább	inkább	_	_	ADV	_	_	_	_
+35	a	a	_	_	DET;DEF	_	_	_	_
+36	dzsungelt	dzsungel	_	_	PSSD;N;ACC;SG	_	_	_	_
+37	választja	választ	_	_	DEF;ACT;3;V;IND;FIN;SG;PRS	_	_	_	_
+38	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-104
+# text = Bakó Lajos ezzel jogerős módon a kuratórium elnöke, a másik három elnökségi tag nyilvántartásba vétele és a tavaly nyáron leköszönt tagok törlése pedig folyamatban van.
+1	Bakó	Bakó	_	_	PSSD;SG;NOM;PROPN	_	_	_	_
+2	Lajos	Lajos	_	_	PSSD;SG;NOM;PROPN	_	_	_	_
+3	ezzel	ez	_	_	PSSD;SG;INS;3;PRO	_	_	_	_
+4	jogerős	jogerős	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+5	módon	mód	_	_	PSSD;SG;ON+ESS;N	_	_	_	_
+6	a	a	_	_	DET;DEF	_	_	_	_
+7	kuratórium	kuratórium	_	_	PSSD;SG;N;NOM	_	_	_	_
+8	elnöke	elnök	_	_	PSS3S;SG;N;NOM	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	a	a	_	_	DET;DEF	_	_	_	_
+11	másik	másik	_	_	DET;INDF	_	_	_	_
+12	három	három	_	_	PSSD;SG;NOM;NUM	_	_	_	_
+13	elnökségi	elnökségi	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+14	tag	tag	_	_	PSSD;SG;N;NOM	_	_	_	_
+15	nyilvántartásba	nyilvántartás	_	_	PSSD;SG;N;IN+ALL	_	_	_	_
+16	vétele	vétel	_	_	PSS3S;SG;N;NOM	_	_	_	_
+17	és	és	_	_	CONJ	_	_	_	_
+18	a	a	_	_	DET;DEF	_	_	_	_
+19	tavaly	tavaly	_	_	ADV	_	_	_	_
+20	nyáron	nyár	_	_	PSSD;SG;ON+ESS;N	_	_	_	_
+21	leköszönt	leköszönt	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+22	tagok	tag	_	_	PSSD;N;PL;NOM	_	_	_	_
+23	törlése	törlés	_	_	PSS3S;SG;N;NOM	_	_	_	_
+24	pedig	pedig	_	_	CONJ	_	_	_	_
+25	folyamatban	folyamat	_	_	PSSD;SG;N;IN+ESS	_	_	_	_
+26	van	van	_	_	SG;3;FIN;INDF;V;ACT;PRS;IND	_	_	_	_
+27	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-75
+# text = A nyelvtudományok doktora 1970 óta nagymester, 1980-ban Adorján András és Portisch Lajos ellen is nyert világbajnok-jelölti párosmérkőzést.
+1	A	a	_	_	DEF;DET	_	_	_	_
+2	nyelvtudományok	nyelvtudomány	_	_	PSSD;N;PL;NOM	_	_	_	_
+3	doktora	doktor	_	_	PSS3S;SG;N;NOM	_	_	_	_
+4	1970	1970	_	_	PSSD;NUM;SG;NOM	_	_	_	_
+5	óta	óta	_	_	ADP	_	_	_	_
+6	nagymester	nagymester	_	_	PSSD;SG;N;NOM	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	1980-ban	1980	_	_	PSSD;NUM;IN+ESS;SG	_	_	_	_
+9	Adorján	Adorján	_	_	PSSD;SG;PROPN;NOM	_	_	_	_
+10	András	András	_	_	PSSD;SG;PROPN;NOM	_	_	_	_
+11	és	és	_	_	CONJ	_	_	_	_
+12	Portisch	Portisch	_	_	PSSD;SG;PROPN;NOM	_	_	_	_
+13	Lajos	Lajos	_	_	PSSD;SG;PROPN;NOM	_	_	_	_
+14	ellen	ellen	_	_	ADP	_	_	_	_
+15	is	is	_	_	CONJ	_	_	_	_
+16	nyert	nyer	_	_	FIN;3;INDF;SG;IND;PST;V;ACT	_	_	_	_
+17	világbajnok-jelölti	világbajnok-jelölti	_	_	PSSD;SG;ADJ;NOM	_	_	_	_
+18	párosmérkőzést	párosmérkőzés	_	_	PSSD;SG;N;ACC	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+

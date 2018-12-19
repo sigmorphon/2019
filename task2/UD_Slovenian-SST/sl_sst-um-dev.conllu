@@ -1,0 +1,4077 @@
+# sent_id = gos.237-0088
+# text = kdo je imel denar je preživel kdo ga ni imel je bil revež tako kot je in danes ne
+1	kdo	kdo	_	_	PRO;SG;MASC;NOM	_	_	_	_
+2	je	biti	_	_	3;IND;SG;POS;V;FIN;PRS	_	_	_	_
+3	imel	imeti	_	_	SG;IPFV;V.PTCP;MASC;V	_	_	_	_
+4	denar	denar	_	_	ACC;SG;INAN;N;MASC	_	_	_	_
+5	je	biti	_	_	3;IND;SG;POS;V;FIN;PRS	_	_	_	_
+6	preživel	preživeti	_	_	PFV;SG;V.PTCP;MASC;V	_	_	_	_
+7	kdo	kdo	_	_	PRO;SG;MASC;NOM	_	_	_	_
+8	ga	on	_	_	3;PRO;SG;GEN;MASC	_	_	_	_
+9	ni	biti	_	_	3;IND;SG;NEG;V;FIN;PRS	_	_	_	_
+10	imel	imeti	_	_	SG;IPFV;V.PTCP;MASC;V	_	_	_	_
+11	je	biti	_	_	3;IND;SG;POS;V;FIN;PRS	_	_	_	_
+12	bil	biti	_	_	MASC;V.PTCP;V;SG	_	_	_	_
+13	revež	revež	_	_	MASC;NOM;SG;N	_	_	_	_
+14	tako	tako	_	_	ADV	_	_	_	_
+15	kot	kot	_	_	CONJ	_	_	_	_
+16	je	biti	_	_	3;IND;SG;POS;V;FIN;PRS	_	_	_	_
+17	in	in	_	_	CONJ	_	_	_	_
+18	danes	danes	_	_	ADV	_	_	_	_
+19	ne	ne	_	_	PART	_	_	_	_
+
+# sent_id = gos.154-0206
+# text = ob tem vivaldijevem stavku sem se spomnila kako so nekdaj plesali in se priklanjali drug drugemu
+1	ob	ob	_	_	ESS;ADP	_	_	_	_
+2	tem	ta	_	_	MASC;DET;ESS;SG	_	_	_	_
+3	vivaldijevem	Vivaldijev	_	_	MASC;ADJ;ESS;SG	_	_	_	_
+4	stavku	stavek	_	_	ESS;N;MASC;SG	_	_	_	_
+5	sem	biti	_	_	IND;POS;V;1;PRS;SG;FIN	_	_	_	_
+6	se	se	_	_	PRO	_	_	_	_
+7	spomnila	spomniti	_	_	PFV;V.PTCP;FEM;V;SG	_	_	_	_
+8	kako	kako	_	_	ADV	_	_	_	_
+9	so	biti	_	_	IND;PL;POS;3;V;PRS;FIN	_	_	_	_
+10	nekdaj	nekdaj	_	_	ADV	_	_	_	_
+11	plesali	plesati	_	_	V.PTCP;V;PL;MASC;IPFV	_	_	_	_
+12	in	in	_	_	CONJ	_	_	_	_
+13	se	se	_	_	PRO	_	_	_	_
+14	priklanjali	priklanjati	_	_	V.PTCP;V;PL;MASC;IPFV	_	_	_	_
+15	drug	drug	_	_	MASC;NOM;ADJ;INDF;SG	_	_	_	_
+16	drugemu	drug	_	_	ADJ;MASC;DAT;SG	_	_	_	_
+
+# sent_id = gos.033-0031
+# text = kaj naj rečem vesel sem da nisem med njimi ne jim pa saj pravim nič ne zavidam
+1	kaj	kaj	_	_	ACC;PRO;SG;NEUT	_	_	_	_
+2	naj	naj	_	_	PART	_	_	_	_
+3	rečem	reči	_	_	PFV;IND;SG;1;V;FIN;PRS	_	_	_	_
+4	vesel	vesel	_	_	SG;ADJ;INDF;MASC;NOM	_	_	_	_
+5	sem	biti	_	_	IND;SG;1;POS;V;FIN;PRS	_	_	_	_
+6	da	da	_	_	CONJ	_	_	_	_
+7	nisem	biti	_	_	IND;SG;1;NEG;V;FIN;PRS	_	_	_	_
+8	med	med	_	_	ADP;INS	_	_	_	_
+9	njimi	on	_	_	3;PRO;INS;MASC;PL	_	_	_	_
+10	ne	ne	_	_	PART	_	_	_	_
+11	jim	on	_	_	3;PRO;DAT;MASC;PL	_	_	_	_
+12	pa	pa	_	_	CONJ	_	_	_	_
+13	saj	saj	_	_	CONJ	_	_	_	_
+14	pravim	pravi	_	_	INS;SG;ADJ;MASC	_	_	_	_
+15	nič	nič	_	_	ACC;SG;DET;NEUT	_	_	_	_
+16	ne	ne	_	_	NEG;PART	_	_	_	_
+17	zavidam	zavidati	_	_	IND;SG;IPFV;1;V;FIN;PRS	_	_	_	_
+
+# sent_id = gos.232-0090
+# text = ja če bi bil v petek bi šla
+1	ja	ja	_	_	PART	_	_	_	_
+2	če	če	_	_	CONJ	_	_	_	_
+3	bi	biti	_	_	FIN;COND;V	_	_	_	_
+4	bil	biti	_	_	MASC;V.PTCP;SG;V	_	_	_	_
+5	v	v	_	_	ACC;ADP	_	_	_	_
+6	petek	petek	_	_	MASC;N;ACC;INAN;SG	_	_	_	_
+7	bi	biti	_	_	FIN;COND;V	_	_	_	_
+8	šla	iti	_	_	V.PTCP;SG;FEM;V	_	_	_	_
+
+# sent_id = gos.261-0071
+# text = [gap] se mi zdi da to ta veza no
+1	[gap]	[gap]	_	_	_	_	_	_	_
+2	se	se	_	_	PRO	_	_	_	_
+3	mi	jaz	_	_	1;DAT;SG;PRO	_	_	_	_
+4	zdi	zdeti	_	_	IND;V;IPFV;3;PRS;SG;FIN	_	_	_	_
+5	da	da	_	_	CONJ	_	_	_	_
+6	to	ta	_	_	NOM;NEUT;DET;SG	_	_	_	_
+7	ta	ta	_	_	FEM;NOM;DET;SG	_	_	_	_
+8	veza	veza	_	_	SG;N;NOM;FEM	_	_	_	_
+9	no	no	_	_	PART	_	_	_	_
+
+# sent_id = gos.161-0161
+# text = je pa res da tole ni fino samo zaradi izgleda ampak se tudi omaka boljše prime na rebraste njoke
+1	je	biti	_	_	IND;V;POS;3;PRS;SG;FIN	_	_	_	_
+2	pa	pa	_	_	CONJ	_	_	_	_
+3	res	res	_	_	ADV	_	_	_	_
+4	da	da	_	_	CONJ	_	_	_	_
+5	tole	tale	_	_	NOM;NEUT;DET;SG	_	_	_	_
+6	ni	biti	_	_	IND;NEG;3;V;PRS;SG;FIN	_	_	_	_
+7	fino	fin	_	_	NOM;NEUT;ADJ;SG	_	_	_	_
+8	samo	samo	_	_	PART	_	_	_	_
+9	zaradi	zaradi	_	_	GEN;ADP	_	_	_	_
+10	izgleda	izgled	_	_	MASC;SG;N;GEN	_	_	_	_
+11	ampak	ampak	_	_	CONJ	_	_	_	_
+12	se	se	_	_	PRO	_	_	_	_
+13	tudi	tudi	_	_	PART	_	_	_	_
+14	omaka	omaka	_	_	SG;N;NOM;FEM	_	_	_	_
+15	boljše	dobro	_	_	CMPR;ADV	_	_	_	_
+16	prime	prijeti	_	_	PFV;IND;V;3;PRS;SG;FIN	_	_	_	_
+17	na	na	_	_	ACC;ADP	_	_	_	_
+18	rebraste	rebrast	_	_	PL;MASC;ACC;ADJ	_	_	_	_
+19	njoke	njok	_	_	PL;MASC;N;ACC	_	_	_	_
+
+# sent_id = gos.145-0213
+# text = vsaj ne iz glave ne ?
+1	vsaj	vsaj	_	_	PART	_	_	_	_
+2	ne	ne	_	_	NEG;PART	_	_	_	_
+3	iz	iz	_	_	GEN;ADP	_	_	_	_
+4	glave	glava	_	_	SG;N;GEN;FEM	_	_	_	_
+5	ne	ne	_	_	PART	_	_	_	_
+6	?	?	_	_	_	_	_	_	_
+
+# sent_id = gos.277-0061
+# text = kar tako je [:voice] [all:laughter]
+1	kar	kar	_	_	ADV	_	_	_	_
+2	tako	tako	_	_	ADV	_	_	_	_
+3	je	biti	_	_	IND;V;POS;3;PRS;SG;FIN	_	_	_	_
+4	[:voice]	[:voice]	_	_	_	_	_	_	_
+5	[all:laughter]	[all:laughter]	_	_	_	_	_	_	_
+
+# sent_id = gos.143-0120
+# text = sicer imate najbrž na spletni strani napisano kdaj in kje se vas da ujeti v živo ne
+1	sicer	sicer	_	_	PART	_	_	_	_
+2	imate	imeti	_	_	IND;V;PL;IPFV;POS;FIN;PRS;2	_	_	_	_
+3	najbrž	najbrž	_	_	PART	_	_	_	_
+4	na	na	_	_	ESS;ADP	_	_	_	_
+5	spletni	spleten	_	_	FEM;ADJ;ESS;SG	_	_	_	_
+6	strani	stran	_	_	ESS;N;SG;FEM	_	_	_	_
+7	napisano	napisan	_	_	V.PTCP;FEM;ACC;ADJ;SG	_	_	_	_
+8	kdaj	kdaj	_	_	ADV	_	_	_	_
+9	in	in	_	_	CONJ	_	_	_	_
+10	kje	kje	_	_	ADV	_	_	_	_
+11	se	se	_	_	PRO	_	_	_	_
+12	vas	ti	_	_	PL;ACC;2;PRO	_	_	_	_
+13	da	dati	_	_	PFV;IND;V;3;PRS;SG;FIN	_	_	_	_
+14	ujeti	ujeti	_	_	PFV;NFIN;V	_	_	_	_
+15	v	v	_	_	ACC;ADP	_	_	_	_
+16	živo	živo	_	_	ADV	_	_	_	_
+17	ne	ne	_	_	PART	_	_	_	_
+
+# sent_id = gos.250-0462
+# text = seveda ni
+1	seveda	seveda	_	_	PART	_	_	_	_
+2	ni	biti	_	_	3;IND;SG;NEG;V;FIN;PRS	_	_	_	_
+
+# sent_id = gos.135-0649
+# text = ni [name:personal] je [name:personal]
+1	ni	biti	_	_	IND;NEG;3;V;PRS;SG;FIN	_	_	_	_
+2	[name:personal]	[name:personal]	_	_	PROPN	_	_	_	_
+3	je	biti	_	_	IND;POS;3;V;PRS;SG;FIN	_	_	_	_
+4	[name:personal]	[name:personal]	_	_	PROPN	_	_	_	_
+
+# sent_id = gos.187-0071
+# text = [pause]
+1	[pause]	[pause]	_	_	_	_	_	_	_
+
+# sent_id = gos.063-0542
+# text = kako frekvenčno območje pa mi slišimo ?
+1	kako	kak	_	_	ACC;SG;DET;NEUT	_	_	_	_
+2	frekvenčno	frekvenčen	_	_	ACC;SG;ADJ;NEUT	_	_	_	_
+3	območje	območje	_	_	ACC;NEUT;SG;N	_	_	_	_
+4	pa	pa	_	_	CONJ	_	_	_	_
+5	mi	jaz	_	_	PRO;1;MASC;NOM;PL	_	_	_	_
+6	slišimo	slišati	_	_	IND;1;PRS;V;FIN;PL	_	_	_	_
+7	?	?	_	_	_	_	_	_	_
+
+# sent_id = gos.069-0014
+# text = [pause]
+1	[pause]	[pause]	_	_	_	_	_	_	_
+
+# sent_id = gos.181-0398
+# text = to je kasneje
+1	to	ta	_	_	NOM;NEUT;DET;SG	_	_	_	_
+2	je	biti	_	_	IND;V;POS;3;PRS;SG;FIN	_	_	_	_
+3	kasneje	kasno	_	_	CMPR;ADV	_	_	_	_
+
+# sent_id = gos.285-0207
+# text = zakaj če je praznik jutri ali pojutrišnjem
+1	zakaj	zakaj	_	_	ADV	_	_	_	_
+2	če	če	_	_	CONJ	_	_	_	_
+3	je	biti	_	_	3;IND;SG;POS;V;FIN;PRS	_	_	_	_
+4	praznik	praznik	_	_	MASC;NOM;SG;N	_	_	_	_
+5	jutri	jutri	_	_	ADV	_	_	_	_
+6	ali	ali	_	_	CONJ	_	_	_	_
+7	pojutrišnjem	pojutrišnjem	_	_	ADV	_	_	_	_
+
+# sent_id = gos.246-0357
+# text = mhm
+1	mhm	mhm	_	_	INTJ	_	_	_	_
+
+# sent_id = gos.014-0640
+# text = m [gap] m [gap] ja
+1	m	_	_	_	_	_	_	_	_
+2	[gap]	[gap]	_	_	_	_	_	_	_
+3	m	_	_	_	_	_	_	_	_
+4	[gap]	[gap]	_	_	_	_	_	_	_
+5	ja	ja	_	_	PART	_	_	_	_
+
+# sent_id = gos.225-0350
+# text = kaj imaš to
+1	kaj	kaj	_	_	ACC;PRO;SG;NEUT	_	_	_	_
+2	imaš	imeti	_	_	IND;SG;IPFV;POS;2;V;FIN;PRS	_	_	_	_
+3	to	ta	_	_	SG;DET;NOM;NEUT	_	_	_	_
+
+# sent_id = gos.056-0465
+# text = [gap]
+1	[gap]	[gap]	_	_	_	_	_	_	_
+
+# sent_id = gos.274-0028
+# text = kaj ?
+1	kaj	kaj	_	_	NOM;NEUT;SG;PRO	_	_	_	_
+2	?	?	_	_	_	_	_	_	_
+
+# sent_id = gos.019-0006
+# text = pa imam jaz tudi svoje obveznosti
+1	pa	pa	_	_	CONJ	_	_	_	_
+2	imam	imeti	_	_	IND;SG;IPFV;1;POS;V;FIN;PRS	_	_	_	_
+3	jaz	jaz	_	_	PRO;SG;1;NOM	_	_	_	_
+4	tudi	tudi	_	_	PART	_	_	_	_
+5	svoje	svoj	_	_	ACC;FEM;DET;PL	_	_	_	_
+6	obveznosti	obveznost	_	_	ACC;FEM;PL;N	_	_	_	_
+
+# sent_id = gos.273-0090
+# text = nobenega hostla nisva imela rezerviranega pač ne tako tako da je bilo kar kul
+1	nobenega	noben	_	_	MASC;GEN;DET;SG	_	_	_	_
+2	hostla	hostel	_	_	MASC;SG;N;GEN	_	_	_	_
+3	nisva	biti	_	_	IND;NEG;V;1;DU;PRS;FIN	_	_	_	_
+4	imela	imeti	_	_	V.PTCP;V;MASC;IPFV;DU	_	_	_	_
+5	rezerviranega	rezerviran	_	_	V.PTCP;GEN;NEUT;ADJ;SG	_	_	_	_
+6	pač	pač	_	_	PART	_	_	_	_
+7	ne	ne	_	_	PART	_	_	_	_
+8	tako	tako	_	_	ADV	_	_	_	_
+9	tako	tako	_	_	CONJ	_	_	_	_
+10	da	da	_	_	CONJ	_	_	_	_
+11	je	biti	_	_	IND;POS;3;V;PRS;SG;FIN	_	_	_	_
+12	bilo	biti	_	_	V.PTCP;SG;NEUT;V	_	_	_	_
+13	kar	kar	_	_	ADV	_	_	_	_
+14	kul	kul	_	_	ADV	_	_	_	_
+
+# sent_id = gos.258-0075
+# text = mid [gap] on je mene pol ure spraševal
+1	mid	_	_	_	_	_	_	_	_
+2	[gap]	[gap]	_	_	_	_	_	_	_
+3	on	on	_	_	3;PRO;SG;MASC;NOM	_	_	_	_
+4	je	biti	_	_	3;IND;SG;POS;V;FIN;PRS	_	_	_	_
+5	mene	jaz	_	_	PRO;SG;GEN;1	_	_	_	_
+6	pol	pol	_	_	DET	_	_	_	_
+7	ure	ura	_	_	FEM;SG;N;GEN	_	_	_	_
+8	spraševal	spraševati	_	_	SG;IPFV;V.PTCP;MASC;V	_	_	_	_
+
+# sent_id = gos.173-0021
+# text = da si ti nonstop na onemu n [gap] je premočno
+1	da	da	_	_	CONJ	_	_	_	_
+2	si	biti	_	_	IND;SG;POS;2;V;FIN;PRS	_	_	_	_
+3	ti	ti	_	_	PRO;SG;2;NOM	_	_	_	_
+4	nonstop	nonstop	_	_	ADV	_	_	_	_
+5	na	na	_	_	ADP;ESS	_	_	_	_
+6	onemu	oni	_	_	SG;DAT;DET;NEUT	_	_	_	_
+7	n	_	_	_	_	_	_	_	_
+8	[gap]	[gap]	_	_	_	_	_	_	_
+9	je	biti	_	_	3;IND;SG;POS;V;FIN;PRS	_	_	_	_
+10	premočno	premočen	_	_	SG;ADJ;NOM;NEUT	_	_	_	_
+
+# sent_id = gos.275-0128
+# text = vsak obraz mi bo znan še od slaščičarne saj veš da me še zmeraj preganja
+1	vsak	vsak	_	_	SG;DET;MASC;NOM	_	_	_	_
+2	obraz	obraz	_	_	MASC;NOM;SG;N	_	_	_	_
+3	mi	jaz	_	_	PRO;SG;DAT;1	_	_	_	_
+4	bo	biti	_	_	3;IND;SG;FUT;POS;V;FIN	_	_	_	_
+5	znan	znan	_	_	SG;V.PTCP;ADJ;INDF;MASC;NOM	_	_	_	_
+6	še	še	_	_	PART	_	_	_	_
+7	od	od	_	_	ADP;GEN	_	_	_	_
+8	slaščičarne	slaščičarna	_	_	FEM;SG;N;GEN	_	_	_	_
+9	saj	saj	_	_	CONJ	_	_	_	_
+10	veš	vedeti	_	_	IND;SG;IPFV;2;V;FIN;PRS	_	_	_	_
+11	da	da	_	_	CONJ	_	_	_	_
+12	me	jaz	_	_	PRO;SG;GEN;1	_	_	_	_
+13	še	še	_	_	PART	_	_	_	_
+14	zmeraj	zmeraj	_	_	ADV	_	_	_	_
+15	preganja	preganjati	_	_	3;IND;SG;IPFV;V;FIN;PRS	_	_	_	_
+
+# sent_id = gos.040-0149
+# text = letos sem jaz prekinila pisanje pravljic kjer kjer je obvezen srečen konec
+1	letos	letos	_	_	ADV	_	_	_	_
+2	sem	biti	_	_	IND;SG;1;POS;V;FIN;PRS	_	_	_	_
+3	jaz	jaz	_	_	PRO;SG;1;NOM	_	_	_	_
+4	prekinila	prekiniti	_	_	FEM;PFV;SG;V.PTCP;V	_	_	_	_
+5	pisanje	pisanje	_	_	ACC;NEUT;SG;N	_	_	_	_
+6	pravljic	pravljica	_	_	FEM;PL;N;GEN	_	_	_	_
+7	kjer	kjer	_	_	CONJ	_	_	_	_
+8	kjer	kjer	_	_	CONJ	_	_	_	_
+9	je	biti	_	_	3;IND;SG;POS;V;FIN;PRS	_	_	_	_
+10	obvezen	obvezen	_	_	SG;ADJ;INDF;MASC;NOM	_	_	_	_
+11	srečen	srečen	_	_	SG;ADJ;INDF;MASC;NOM	_	_	_	_
+12	konec	konec	_	_	MASC;NOM;SG;N	_	_	_	_
+
+# sent_id = gos.046-0010
+# text = na obletnico titove smrti eee pa tudi na vašo taščo ste se spomnili
+1	na	na	_	_	ACC;ADP	_	_	_	_
+2	obletnico	obletnica	_	_	N;ACC;SG;FEM	_	_	_	_
+3	titove	Titov	_	_	FEM;GEN;ADJ;SG	_	_	_	_
+4	smrti	smrt	_	_	SG;N;GEN;FEM	_	_	_	_
+5	eee	eee	_	_	INTJ	_	_	_	_
+6	pa	pa	_	_	CONJ	_	_	_	_
+7	tudi	tudi	_	_	PART	_	_	_	_
+8	na	na	_	_	ACC;ADP	_	_	_	_
+9	vašo	vaš	_	_	PSSP;FEM;ACC;DET;SG;2	_	_	_	_
+10	taščo	tašča	_	_	N;ACC;SG;FEM	_	_	_	_
+11	ste	biti	_	_	IND;PL;POS;V;FIN;PRS;2	_	_	_	_
+12	se	se	_	_	PRO	_	_	_	_
+13	spomnili	spomniti	_	_	PFV;V.PTCP;V;PL;MASC	_	_	_	_
+
+# sent_id = gos.252-0366
+# text = samo da ne bi kakih štren začeli mešati
+1	samo	samo	_	_	PART	_	_	_	_
+2	da	da	_	_	CONJ	_	_	_	_
+3	ne	ne	_	_	NEG;PART	_	_	_	_
+4	bi	biti	_	_	V;FIN;COND	_	_	_	_
+5	kakih	kak	_	_	FEM;GEN;DET;PL	_	_	_	_
+6	štren	štrena	_	_	FEM;PL;N;GEN	_	_	_	_
+7	začeli	začeti	_	_	PFV;V.PTCP;MASC;V;PL	_	_	_	_
+8	mešati	mešati	_	_	V;NFIN;IPFV	_	_	_	_
+
+# sent_id = gos.206-0138
+# text = iskalnik je po krajih po imenih po po po po ukrepih ne in tam lahko če greste na ukrep ne pogledate eee k [gap] j [gap] recimo pasivna hiša je se vam odprejo primeri pasivne hiše eee v eee v sloveniji ne
+1	iskalnik	iskalnik	_	_	MASC;SG;N;NOM	_	_	_	_
+2	je	biti	_	_	IND;V;POS;3;PRS;SG;FIN	_	_	_	_
+3	po	po	_	_	ESS;ADP	_	_	_	_
+4	krajih	kraj	_	_	PL;ESS;N;MASC	_	_	_	_
+5	po	po	_	_	ESS;ADP	_	_	_	_
+6	imenih	ime	_	_	PL;ESS;N;NEUT	_	_	_	_
+7	po	po	_	_	ESS;ADP	_	_	_	_
+8	po	po	_	_	ESS;ADP	_	_	_	_
+9	po	po	_	_	ESS;ADP	_	_	_	_
+10	po	po	_	_	ESS;ADP	_	_	_	_
+11	ukrepih	ukrep	_	_	PL;ESS;N;MASC	_	_	_	_
+12	ne	ne	_	_	PART	_	_	_	_
+13	in	in	_	_	CONJ	_	_	_	_
+14	tam	tam	_	_	ADV	_	_	_	_
+15	lahko	lahko	_	_	ADV	_	_	_	_
+16	če	če	_	_	CONJ	_	_	_	_
+17	greste	iti	_	_	IND;V;PL;FIN;PRS;2	_	_	_	_
+18	na	na	_	_	ACC;ADP	_	_	_	_
+19	ukrep	ukrep	_	_	MASC;N;ACC;INAN;SG	_	_	_	_
+20	ne	ne	_	_	PART	_	_	_	_
+21	pogledate	pogledati	_	_	PFV;IND;V;PL;FIN;PRS;2	_	_	_	_
+22	eee	eee	_	_	INTJ	_	_	_	_
+23	k	_	_	_	_	_	_	_	_
+24	[gap]	[gap]	_	_	_	_	_	_	_
+25	j	_	_	_	_	_	_	_	_
+26	[gap]	[gap]	_	_	_	_	_	_	_
+27	recimo	reči	_	_	PFV;V;PL;1;IMP;FIN	_	_	_	_
+28	pasivna	pasiven	_	_	FEM;NOM;ADJ;SG	_	_	_	_
+29	hiša	hiša	_	_	SG;N;NOM;FEM	_	_	_	_
+30	je	biti	_	_	IND;V;POS;3;PRS;SG;FIN	_	_	_	_
+31	se	se	_	_	PRO	_	_	_	_
+32	vam	ti	_	_	PL;DAT;2;PRO	_	_	_	_
+33	odprejo	odpreti	_	_	PFV;IND;V;PL;3;PRS;FIN	_	_	_	_
+34	primeri	primer	_	_	PL;MASC;N;NOM	_	_	_	_
+35	pasivne	pasiven	_	_	FEM;GEN;ADJ;SG	_	_	_	_
+36	hiše	hiša	_	_	SG;N;GEN;FEM	_	_	_	_
+37	eee	eee	_	_	INTJ	_	_	_	_
+38	v	v	_	_	ESS;ADP	_	_	_	_
+39	eee	eee	_	_	INTJ	_	_	_	_
+40	v	v	_	_	ESS;ADP	_	_	_	_
+41	sloveniji	Slovenija	_	_	ESS;SG;FEM;PROPN	_	_	_	_
+42	ne	ne	_	_	PART	_	_	_	_
+
+# sent_id = gos.277-0065
+# text = ja nekako tako je ja
+1	ja	ja	_	_	PART	_	_	_	_
+2	nekako	nekako	_	_	ADV	_	_	_	_
+3	tako	tako	_	_	ADV	_	_	_	_
+4	je	biti	_	_	IND;V;POS;3;PRS;SG;FIN	_	_	_	_
+5	ja	ja	_	_	PART	_	_	_	_
+
+# sent_id = gos.223-0345
+# text = take robe [speaker:laughter]
+1	take	tak	_	_	FEM;PL;NOM;DET	_	_	_	_
+2	robe	roba	_	_	PL;N;NOM;FEM	_	_	_	_
+3	[speaker:laughter]	[speaker:laughter]	_	_	_	_	_	_	_
+
+# sent_id = gos.069-0017
+# text = a vidite takole je ne a vidite takole se dogaja
+1	a	a	_	_	ADV	_	_	_	_
+2	vidite	videti	_	_	IND;V;PL;FIN;PRS;2	_	_	_	_
+3	takole	takole	_	_	ADV	_	_	_	_
+4	je	biti	_	_	IND;V;POS;3;PRS;SG;FIN	_	_	_	_
+5	ne	ne	_	_	PART	_	_	_	_
+6	a	a	_	_	ADV	_	_	_	_
+7	vidite	videti	_	_	IND;V;PL;FIN;PRS;2	_	_	_	_
+8	takole	takole	_	_	ADV	_	_	_	_
+9	se	se	_	_	PRO	_	_	_	_
+10	dogaja	dogajati	_	_	IND;V;IPFV;3;PRS;SG;FIN	_	_	_	_
+
+# sent_id = gos.019-0009
+# text = jutri pa v petek pa naj potem učiteljica z vami [gap]
+1	jutri	jutri	_	_	ADV	_	_	_	_
+2	pa	pa	_	_	CONJ	_	_	_	_
+3	v	v	_	_	ACC;ADP	_	_	_	_
+4	petek	petek	_	_	ACC;SG;INAN;N;MASC	_	_	_	_
+5	pa	pa	_	_	CONJ	_	_	_	_
+6	naj	naj	_	_	PART	_	_	_	_
+7	potem	potem	_	_	ADV	_	_	_	_
+8	učiteljica	učiteljica	_	_	FEM;NOM;SG;N	_	_	_	_
+9	z	z	_	_	ADP;INS	_	_	_	_
+10	vami	ti	_	_	PRO;INS;2;PL	_	_	_	_
+11	[gap]	[gap]	_	_	_	_	_	_	_
+
+# sent_id = gos.125-0071
+# text = in bi rekel to je ena izmed temeljnih značilnosti sodobne politike
+1	in	in	_	_	CONJ	_	_	_	_
+2	bi	biti	_	_	FIN;COND;V	_	_	_	_
+3	rekel	reči	_	_	PFV;V.PTCP;V;MASC;SG	_	_	_	_
+4	to	ta	_	_	NOM;NEUT;DET;SG	_	_	_	_
+5	je	biti	_	_	IND;POS;3;V;PRS;SG;FIN	_	_	_	_
+6	ena	en	_	_	FEM;NUM;NOM;SG	_	_	_	_
+7	izmed	izmed	_	_	GEN;ADP	_	_	_	_
+8	temeljnih	temeljen	_	_	FEM;PL;GEN;ADJ	_	_	_	_
+9	značilnosti	značilnost	_	_	PL;N;GEN;FEM	_	_	_	_
+10	sodobne	sodoben	_	_	FEM;GEN;ADJ;SG	_	_	_	_
+11	politike	politika	_	_	SG;N;GEN;FEM	_	_	_	_
+
+# sent_id = gos.204-0057
+# text = aha
+1	aha	aha	_	_	INTJ	_	_	_	_
+
+# sent_id = gos.014-0632
+# text = liste
+1	liste	list	_	_	PL;MASC;N;ACC	_	_	_	_
+
+# sent_id = gos.154-0204
+# text = nasvidenje
+1	nasvidenje	nasvidenje	_	_	INTJ	_	_	_	_
+
+# sent_id = gos.069-0015
+# text = da se mu sploh nismo uspeli umakniti
+1	da	da	_	_	CONJ	_	_	_	_
+2	se	se	_	_	PRO	_	_	_	_
+3	mu	on	_	_	MASC;3;DAT;SG;PRO	_	_	_	_
+4	sploh	sploh	_	_	PART	_	_	_	_
+5	nismo	biti	_	_	IND;PL;NEG;V;1;PRS;FIN	_	_	_	_
+6	uspeli	uspeti	_	_	PFV;V.PTCP;V;PL;MASC	_	_	_	_
+7	umakniti	umakniti	_	_	PFV;NFIN;V	_	_	_	_
+
+# sent_id = gos.186-0137
+# text = tam kjer so večji premiki
+1	tam	tam	_	_	ADV	_	_	_	_
+2	kjer	kjer	_	_	CONJ	_	_	_	_
+3	so	biti	_	_	IND;PL;POS;3;V;PRS;FIN	_	_	_	_
+4	večji	velik	_	_	CMPR;PL;MASC;NOM;ADJ	_	_	_	_
+5	premiki	premik	_	_	PL;MASC;N;NOM	_	_	_	_
+
+# sent_id = gos.240-0090
+# text = ja zdajle ima kolektivnega imajo v naš pa tistih eee eee plače je petdeset procentov kar si doma ne
+1	ja	ja	_	_	PART	_	_	_	_
+2	zdajle	zdajle	_	_	ADV	_	_	_	_
+3	ima	imeti	_	_	IND;V;IPFV;POS;3;PRS;SG;FIN	_	_	_	_
+4	kolektivnega	kolektiven	_	_	MASC;ACC;ADJ;SG	_	_	_	_
+5	imajo	imeti	_	_	IND;V;PL;IPFV;POS;3;PRS;FIN	_	_	_	_
+6	v	v	_	_	ESS;ADP	_	_	_	_
+7	naš	naš	_	_	PSSP;MASC;ACC;DET;1;SG	_	_	_	_
+8	pa	pa	_	_	CONJ	_	_	_	_
+9	tistih	tisti	_	_	PL;MASC;GEN;DET	_	_	_	_
+10	eee	eee	_	_	INTJ	_	_	_	_
+11	eee	eee	_	_	INTJ	_	_	_	_
+12	plače	plača	_	_	SG;N;GEN;FEM	_	_	_	_
+13	je	biti	_	_	IND;POS;3;V;PRS;SG;FIN	_	_	_	_
+14	petdeset	petdeset	_	_	PL;NUM;NOM	_	_	_	_
+15	procentov	procent	_	_	PL;MASC;N;GEN	_	_	_	_
+16	kar	kar	_	_	ADV	_	_	_	_
+17	si	biti	_	_	IND;V;POS;FIN;PRS;SG;2	_	_	_	_
+18	doma	doma	_	_	ADV	_	_	_	_
+19	ne	ne	_	_	PART	_	_	_	_
+
+# sent_id = gos.017-0281
+# text = in sta našla ?
+1	in	in	_	_	CONJ	_	_	_	_
+2	sta	biti	_	_	IND;POS;V;3;DU;PRS;FIN	_	_	_	_
+3	našla	najti	_	_	PFV;V.PTCP;V;MASC;DU	_	_	_	_
+4	?	?	_	_	_	_	_	_	_
+
+# sent_id = gos.223-0344
+# text = in se smejem kot matasta tipo ki že costi ti ga bi bujeri ser [all:laughter]
+1	in	in	_	_	CONJ	_	_	_	_
+2	se	se	_	_	PRO	_	_	_	_
+3	smejem	smejati	_	_	IND;V;IPFV;1;PRS;SG;FIN	_	_	_	_
+4	kot	kot	_	_	CONJ	_	_	_	_
+5	matasta	matast	_	_	FEM;NOM;ADJ;SG	_	_	_	_
+6	tipo	tipo	_	_	PART	_	_	_	_
+7	ki	ki	_	_	CONJ	_	_	_	_
+8	že	že	_	_	PART	_	_	_	_
+9	costi	costi	_	_	_	_	_	_	_
+10	ti	ti	_	_	_	_	_	_	_
+11	ga	ga	_	_	_	_	_	_	_
+12	bi	bi	_	_	_	_	_	_	_
+13	bujeri	bujeri	_	_	_	_	_	_	_
+14	ser	ser	_	_	_	_	_	_	_
+15	[all:laughter]	[all:laughter]	_	_	_	_	_	_	_
+
+# sent_id = gos.225-0346
+# text = naj daj naj požri
+1	naj	naj	_	_	PART	_	_	_	_
+2	daj	dati	_	_	PFV;SG;IMP;2;V;FIN	_	_	_	_
+3	naj	naj	_	_	PART	_	_	_	_
+4	požri	požreti	_	_	PFV;SG;IMP;2;V;FIN	_	_	_	_
+
+# sent_id = gos.141-0333
+# text = jaz pa zdaj tule gledam eno položnico in mi je prav zanimivo prizidek si želi [name:personal] pa me zanima če zato da se loči od tašče
+1	jaz	jaz	_	_	PRO;SG;1;NOM	_	_	_	_
+2	pa	pa	_	_	CONJ	_	_	_	_
+3	zdaj	zdaj	_	_	ADV	_	_	_	_
+4	tule	tule	_	_	ADV	_	_	_	_
+5	gledam	gledati	_	_	IND;SG;IPFV;1;V;FIN;PRS	_	_	_	_
+6	eno	en	_	_	ACC;FEM;SG;NUM	_	_	_	_
+7	položnico	položnica	_	_	ACC;FEM;SG;N	_	_	_	_
+8	in	in	_	_	CONJ	_	_	_	_
+9	mi	jaz	_	_	PRO;SG;DAT;1	_	_	_	_
+10	je	biti	_	_	3;IND;SG;POS;V;FIN;PRS	_	_	_	_
+11	prav	prav	_	_	PART	_	_	_	_
+12	zanimivo	zanimiv	_	_	SG;ADJ;NOM;NEUT	_	_	_	_
+13	prizidek	prizidek	_	_	ACC;SG;INAN;N;MASC	_	_	_	_
+14	si	se	_	_	PRO;DAT	_	_	_	_
+15	želi	želeti	_	_	3;IND;SG;IPFV;V;FIN;PRS	_	_	_	_
+16	[name:personal]	[name:personal]	_	_	PROPN	_	_	_	_
+17	pa	pa	_	_	CONJ	_	_	_	_
+18	me	jaz	_	_	ACC;PRO;SG;1	_	_	_	_
+19	zanima	zanimati	_	_	3;IND;SG;IPFV;V;FIN;PRS	_	_	_	_
+20	če	če	_	_	CONJ	_	_	_	_
+21	zato	zato	_	_	ADV	_	_	_	_
+22	da	da	_	_	CONJ	_	_	_	_
+23	se	se	_	_	PRO	_	_	_	_
+24	loči	ločiti	_	_	3;IND;SG;V;FIN;PRS	_	_	_	_
+25	od	od	_	_	ADP;GEN	_	_	_	_
+26	tašče	tašča	_	_	FEM;SG;N;GEN	_	_	_	_
+
+# sent_id = gos.252-0363
+# text = ker oni naprej svoje terajo denar držijo
+1	ker	ker	_	_	CONJ	_	_	_	_
+2	oni	on	_	_	3;PRO;MASC;NOM;PL	_	_	_	_
+3	naprej	naprej	_	_	ADV	_	_	_	_
+4	svoje	svoj	_	_	ACC;DET;MASC;PL	_	_	_	_
+5	terajo	terati	_	_	3;IND;IPFV;PRS;V;FIN;PL	_	_	_	_
+6	denar	denar	_	_	ACC;SG;INAN;N;MASC	_	_	_	_
+7	držijo	držati	_	_	3;IND;IPFV;PRS;V;FIN;PL	_	_	_	_
+
+# sent_id = gos.252-0350
+# text = kdo vodi to ?
+1	kdo	kdo	_	_	PRO;SG;MASC;NOM	_	_	_	_
+2	vodi	voditi	_	_	3;IND;SG;IPFV;V;FIN;PRS	_	_	_	_
+3	to	ta	_	_	ACC;SG;DET;NEUT	_	_	_	_
+4	?	?	_	_	_	_	_	_	_
+
+# sent_id = gos.020-0404
+# text = tako so jih pobili
+1	tako	tako	_	_	ADV	_	_	_	_
+2	so	biti	_	_	IND;PL;POS;3;V;PRS;FIN	_	_	_	_
+3	jih	on	_	_	PL;MASC;3;ACC;PRO	_	_	_	_
+4	pobili	pobiti	_	_	PFV;V.PTCP;V;PL;MASC	_	_	_	_
+
+# sent_id = gos.180-0286
+# text = meni se zdi pa škoda da je
+1	meni	jaz	_	_	PRO;SG;DAT;1	_	_	_	_
+2	se	se	_	_	PRO	_	_	_	_
+3	zdi	zdeti	_	_	3;IND;SG;IPFV;V;FIN;PRS	_	_	_	_
+4	pa	pa	_	_	CONJ	_	_	_	_
+5	škoda	škoda	_	_	FEM;NOM;SG;N	_	_	_	_
+6	da	da	_	_	CONJ	_	_	_	_
+7	je	biti	_	_	3;IND;SG;POS;V;FIN;PRS	_	_	_	_
+
+# sent_id = gos.074-0277
+# text = [gap]
+1	[gap]	[gap]	_	_	_	_	_	_	_
+
+# sent_id = gos.162-0490
+# text = mmm
+1	mmm	mmm	_	_	INTJ	_	_	_	_
+
+# sent_id = gos.124-0040
+# text = tako da prihajamo do informacij sama sem pa večkrat bila v gazi tako da seveda imam določene eee kontakte in vire da skušam priti do kar se da največ informacij
+1	tako	tako	_	_	CONJ	_	_	_	_
+2	da	da	_	_	CONJ	_	_	_	_
+3	prihajamo	prihajati	_	_	IND;V;PL;IPFV;1;PRS;FIN	_	_	_	_
+4	do	do	_	_	GEN;ADP	_	_	_	_
+5	informacij	informacija	_	_	PL;N;GEN;FEM	_	_	_	_
+6	sama	sam	_	_	FEM;NOM;ADJ;SG	_	_	_	_
+7	sem	biti	_	_	IND;POS;V;1;PRS;SG;FIN	_	_	_	_
+8	pa	pa	_	_	CONJ	_	_	_	_
+9	večkrat	večkrat	_	_	CMPR;ADV	_	_	_	_
+10	bila	biti	_	_	V.PTCP;SG;FEM;V	_	_	_	_
+11	v	v	_	_	ESS;ADP	_	_	_	_
+12	gazi	Gaza	_	_	ESS;SG;FEM;PROPN	_	_	_	_
+13	tako	tako	_	_	CONJ	_	_	_	_
+14	da	da	_	_	CONJ	_	_	_	_
+15	seveda	seveda	_	_	PART	_	_	_	_
+16	imam	imeti	_	_	IND;V;IPFV;POS;1;PRS;SG;FIN	_	_	_	_
+17	določene	določen	_	_	V.PTCP;PL;MASC;ACC;ADJ	_	_	_	_
+18	eee	eee	_	_	INTJ	_	_	_	_
+19	kontakte	kontakt	_	_	PL;MASC;N;ACC	_	_	_	_
+20	in	in	_	_	CONJ	_	_	_	_
+21	vire	vir	_	_	PL;MASC;N;ACC	_	_	_	_
+22	da	da	_	_	CONJ	_	_	_	_
+23	skušam	skušati	_	_	IND;V;IPFV;1;PRS;SG;FIN	_	_	_	_
+24	priti	priti	_	_	PFV;NFIN;V	_	_	_	_
+25	do	do	_	_	GEN;ADP	_	_	_	_
+26	kar	kar	_	_	ADV	_	_	_	_
+27	se	se	_	_	PRO	_	_	_	_
+28	da	dati	_	_	PFV;IND;V;3;PRS;SG;FIN	_	_	_	_
+29	največ	največ	_	_	DET	_	_	_	_
+30	informacij	informacija	_	_	PL;N;GEN;FEM	_	_	_	_
+
+# sent_id = gos.029-0112
+# text = zanimivo [name:personal] se strinjamo
+1	zanimivo	zanimivo	_	_	ADV	_	_	_	_
+2	[name:personal]	[name:personal]	_	_	PROPN	_	_	_	_
+3	se	se	_	_	PRO	_	_	_	_
+4	strinjamo	strinjati	_	_	IND;V;PL;IPFV;1;PRS;FIN	_	_	_	_
+
+# sent_id = gos.057-0248
+# text = [:voice]
+1	[:voice]	[:voice]	_	_	_	_	_	_	_
+
+# sent_id = gos.219-0099
+# text = [name:personal] ja … tisti so t [gap] pa ti so tako vsi čisto isti
+1	[name:personal]	[name:personal]	_	_	PROPN	_	_	_	_
+2	ja	ja	_	_	PART	_	_	_	_
+3	…	…	_	_	_	_	_	_	_
+4	tisti	tisti	_	_	DET;MASC;NOM;PL	_	_	_	_
+5	so	biti	_	_	3;IND;PRS;POS;V;FIN;PL	_	_	_	_
+6	t	_	_	_	_	_	_	_	_
+7	[gap]	[gap]	_	_	_	_	_	_	_
+8	pa	pa	_	_	CONJ	_	_	_	_
+9	ti	ta	_	_	DET;MASC;NOM;PL	_	_	_	_
+10	so	biti	_	_	3;IND;PRS;POS;V;FIN;PL	_	_	_	_
+11	tako	tako	_	_	ADV	_	_	_	_
+12	vsi	ves	_	_	DET;MASC;NOM;PL	_	_	_	_
+13	čisto	čisto	_	_	ADV	_	_	_	_
+14	isti	isti	_	_	DET;MASC;NOM;PL	_	_	_	_
+
+# sent_id = gos.153-0025
+# text = to je pa res fenomenalna ne samo žurka ampak nasploh spektakel
+1	to	ta	_	_	SG;DET;NOM;NEUT	_	_	_	_
+2	je	biti	_	_	3;IND;SG;POS;V;FIN;PRS	_	_	_	_
+3	pa	pa	_	_	CONJ	_	_	_	_
+4	res	res	_	_	ADV	_	_	_	_
+5	fenomenalna	fenomenalen	_	_	FEM;SG;ADJ;NOM	_	_	_	_
+6	ne	ne	_	_	PART	_	_	_	_
+7	samo	samo	_	_	PART	_	_	_	_
+8	žurka	žurka	_	_	FEM;NOM;SG;N	_	_	_	_
+9	ampak	ampak	_	_	CONJ	_	_	_	_
+10	nasploh	nasploh	_	_	ADV	_	_	_	_
+11	spektakel	spektakel	_	_	MASC;NOM;SG;N	_	_	_	_
+
+# sent_id = gos.164-0492
+# text = mislim da še ne glih ampak eee glede na to da eee res je lepo zakaj pa ne
+1	mislim	misliti	_	_	IND;V;IPFV;1;PRS;SG;FIN	_	_	_	_
+2	da	da	_	_	CONJ	_	_	_	_
+3	še	še	_	_	PART	_	_	_	_
+4	ne	ne	_	_	PART	_	_	_	_
+5	glih	glih	_	_	ADV	_	_	_	_
+6	ampak	ampak	_	_	CONJ	_	_	_	_
+7	eee	eee	_	_	INTJ	_	_	_	_
+8	glede	glede	_	_	ADV	_	_	_	_
+9	na	na	_	_	ACC;ADP	_	_	_	_
+10	to	ta	_	_	ACC;NEUT;DET;SG	_	_	_	_
+11	da	da	_	_	CONJ	_	_	_	_
+12	eee	eee	_	_	INTJ	_	_	_	_
+13	res	res	_	_	ADV	_	_	_	_
+14	je	biti	_	_	IND;V;POS;3;PRS;SG;FIN	_	_	_	_
+15	lepo	lepo	_	_	ADV	_	_	_	_
+16	zakaj	zakaj	_	_	ADV	_	_	_	_
+17	pa	pa	_	_	CONJ	_	_	_	_
+18	ne	ne	_	_	PART	_	_	_	_
+
+# sent_id = gos.281-0267
+# text = in on je imel ta sos ali pa nekaj
+1	in	in	_	_	CONJ	_	_	_	_
+2	on	on	_	_	3;PRO;SG;MASC;NOM	_	_	_	_
+3	je	biti	_	_	3;IND;SG;POS;V;FIN;PRS	_	_	_	_
+4	imel	imeti	_	_	SG;IPFV;V.PTCP;MASC;V	_	_	_	_
+5	ta	ta	_	_	ACC;SG;DET;MASC	_	_	_	_
+6	sos	SOS	_	_	ACC;SG;INAN;N;MASC	_	_	_	_
+7	ali	ali	_	_	CONJ	_	_	_	_
+8	pa	pa	_	_	CONJ	_	_	_	_
+9	nekaj	nekaj	_	_	ACC;SG;DET;NEUT	_	_	_	_
+
+# sent_id = gos.063-0549
+# text = se pravi ta logična enka na tem vhodu ta oscilator zaoscilira s to frekvenco ki jo določata dva moja elementa [gap] logična ena
+1	se	se	_	_	PRO	_	_	_	_
+2	pravi	praviti	_	_	3;IND;SG;V;FIN;PRS	_	_	_	_
+3	ta	ta	_	_	FEM;SG;DET;NOM	_	_	_	_
+4	logična	logičen	_	_	FEM;SG;ADJ;NOM	_	_	_	_
+5	enka	enka	_	_	FEM;NOM;SG;N	_	_	_	_
+6	na	na	_	_	ADP;ESS	_	_	_	_
+7	tem	ta	_	_	SG;DET;ESS;MASC	_	_	_	_
+8	vhodu	vhod	_	_	MASC;ESS;SG;N	_	_	_	_
+9	ta	ta	_	_	SG;DET;MASC;NOM	_	_	_	_
+10	oscilator	oscilator	_	_	ACC;SG;INAN;N;MASC	_	_	_	_
+11	zaoscilira	zaoscilirati	_	_	3;IND;SG;IPFV;V;FIN;PRS	_	_	_	_
+12	s	z	_	_	ADP;INS	_	_	_	_
+13	to	ta	_	_	FEM;INS;SG;DET	_	_	_	_
+14	frekvenco	frekvenca	_	_	FEM;INS;SG;N	_	_	_	_
+15	ki	ki	_	_	CONJ	_	_	_	_
+16	jo	on	_	_	3;ACC;FEM;PRO;SG	_	_	_	_
+17	določata	določati	_	_	3;IND;DU;IPFV;V;FIN;PRS	_	_	_	_
+18	dva	dva	_	_	NUM;DU;MASC;NOM	_	_	_	_
+19	moja	moj	_	_	PSSS;DU;1;DET;MASC;NOM	_	_	_	_
+20	elementa	element	_	_	MASC;NOM;DU;N	_	_	_	_
+21	[gap]	[gap]	_	_	_	_	_	_	_
+22	logična	logičen	_	_	FEM;SG;ADJ;NOM	_	_	_	_
+23	ena	en	_	_	FEM;SG;NUM;NOM	_	_	_	_
+
+# sent_id = gos.038-0272
+# text = eee eem ministrstvo za zunanje zadeve eee v [gap] seveda deluje v v okviru svojih pristojnosti
+1	eee	eee	_	_	INTJ	_	_	_	_
+2	eem	eem	_	_	INTJ	_	_	_	_
+3	ministrstvo	ministrstvo	_	_	NOM;NEUT;SG;N	_	_	_	_
+4	za	za	_	_	ACC;ADP	_	_	_	_
+5	zunanje	zunanji	_	_	ACC;FEM;ADJ;PL	_	_	_	_
+6	zadeve	zadeva	_	_	ACC;FEM;PL;N	_	_	_	_
+7	eee	eee	_	_	INTJ	_	_	_	_
+8	v	_	_	_	_	_	_	_	_
+9	[gap]	[gap]	_	_	_	_	_	_	_
+10	seveda	seveda	_	_	PART	_	_	_	_
+11	deluje	delovati	_	_	3;IND;SG;IPFV;V;FIN;PRS	_	_	_	_
+12	v	v	_	_	ADP;ESS	_	_	_	_
+13	v	v	_	_	ADP;ESS	_	_	_	_
+14	okviru	okvir	_	_	MASC;ESS;SG;N	_	_	_	_
+15	svojih	svoj	_	_	FEM;GEN;DET;PL	_	_	_	_
+16	pristojnosti	pristojnost	_	_	FEM;PL;N;GEN	_	_	_	_
+
+# sent_id = gos.287-0053
+# text = četrt sirove pa četrt neke [:voice] take neke z mesom no
+1	četrt	četrt	_	_	DET	_	_	_	_
+2	sirove	sirov	_	_	FEM;GEN;ADJ;SG	_	_	_	_
+3	pa	pa	_	_	CONJ	_	_	_	_
+4	četrt	četrt	_	_	DET	_	_	_	_
+5	neke	nek	_	_	FEM;GEN;DET;SG	_	_	_	_
+6	[:voice]	[:voice]	_	_	_	_	_	_	_
+7	take	tak	_	_	FEM;GEN;DET;SG	_	_	_	_
+8	neke	nek	_	_	FEM;GEN;DET;SG	_	_	_	_
+9	z	z	_	_	INS;ADP	_	_	_	_
+10	mesom	meso	_	_	INS;N;SG;NEUT	_	_	_	_
+11	no	no	_	_	PART	_	_	_	_
+
+# sent_id = gos.200-0073
+# text = aha
+1	aha	aha	_	_	INTJ	_	_	_	_
+
+# sent_id = gos.074-0285
+# text = tako kot so
+1	tako	tako	_	_	ADV	_	_	_	_
+2	kot	kot	_	_	CONJ	_	_	_	_
+3	so	biti	_	_	IND;V;PL;POS;3;PRS;FIN	_	_	_	_
+
+# sent_id = gos.266-0152
+# text = to bo
+1	to	ta	_	_	SG;DET;NOM;NEUT	_	_	_	_
+2	bo	biti	_	_	3;IND;SG;FUT;POS;V;FIN	_	_	_	_
+
+# sent_id = gos.260-0243
+# text = ja [name:personal] [name:personal] je tako lepa ej tako lepa je
+1	ja	ja	_	_	PART	_	_	_	_
+2	[name:personal]	[name:personal]	_	_	PROPN	_	_	_	_
+3	[name:personal]	[name:personal]	_	_	PROPN	_	_	_	_
+4	je	biti	_	_	IND;POS;3;V;PRS;SG;FIN	_	_	_	_
+5	tako	tako	_	_	ADV	_	_	_	_
+6	lepa	lep	_	_	FEM;NOM;ADJ;SG	_	_	_	_
+7	ej	ej	_	_	INTJ	_	_	_	_
+8	tako	tako	_	_	ADV	_	_	_	_
+9	lepa	lep	_	_	FEM;NOM;ADJ;SG	_	_	_	_
+10	je	biti	_	_	IND;POS;3;V;PRS;SG;FIN	_	_	_	_
+
+# sent_id = gos.055-0403
+# text = prvo besedilo a ga lahko kar prebere nekdo
+1	prvo	prvi	_	_	NOM;NEUT;ADJ;SG	_	_	_	_
+2	besedilo	besedilo	_	_	SG;N;NOM;NEUT	_	_	_	_
+3	a	a	_	_	ADV	_	_	_	_
+4	ga	on	_	_	3;ACC;NEUT;SG;PRO	_	_	_	_
+5	lahko	lahko	_	_	ADV	_	_	_	_
+6	kar	kar	_	_	ADV	_	_	_	_
+7	prebere	prebrati	_	_	PFV;IND;V;3;PRS;SG;FIN	_	_	_	_
+8	nekdo	nekdo	_	_	MASC;NOM;SG;PRO	_	_	_	_
+
+# sent_id = gos.287-0063
+# text = še kaj drugega tako kaj si delala po šihtu ?
+1	še	še	_	_	PART	_	_	_	_
+2	kaj	kaj	_	_	NOM;NEUT;SG;PRO	_	_	_	_
+3	drugega	drug	_	_	ADJ;SG;GEN;NEUT	_	_	_	_
+4	tako	tako	_	_	CONJ	_	_	_	_
+5	kaj	kaj	_	_	ACC;NEUT;SG;PRO	_	_	_	_
+6	si	biti	_	_	IND;POS;V;FIN;PRS;SG;2	_	_	_	_
+7	delala	delati	_	_	V.PTCP;FEM;V;IPFV;SG	_	_	_	_
+8	po	po	_	_	ESS;ADP	_	_	_	_
+9	šihtu	šiht	_	_	ESS;N;MASC;SG	_	_	_	_
+10	?	?	_	_	_	_	_	_	_
+
+# sent_id = gos.266-0151
+# text = ja … čeprav ne prej je pa bilo ne da je treba prositi za ta dar
+1	ja	ja	_	_	PART	_	_	_	_
+2	…	…	_	_	_	_	_	_	_
+3	čeprav	čeprav	_	_	CONJ	_	_	_	_
+4	ne	ne	_	_	PART	_	_	_	_
+5	prej	prej	_	_	CMPR;ADV	_	_	_	_
+6	je	biti	_	_	3;IND;SG;POS;V;FIN;PRS	_	_	_	_
+7	pa	pa	_	_	CONJ	_	_	_	_
+8	bilo	biti	_	_	SG;IPFV;V.PTCP;V;NEUT	_	_	_	_
+9	ne	ne	_	_	PART	_	_	_	_
+10	da	da	_	_	CONJ	_	_	_	_
+11	je	biti	_	_	3;IND;SG;POS;V;FIN;PRS	_	_	_	_
+12	treba	treba	_	_	ADV	_	_	_	_
+13	prositi	prositi	_	_	V;NFIN;IPFV	_	_	_	_
+14	za	za	_	_	ACC;ADP	_	_	_	_
+15	ta	ta	_	_	ACC;SG;DET;MASC	_	_	_	_
+16	dar	dar	_	_	ACC;SG;INAN;N;MASC	_	_	_	_
+
+# sent_id = gos.225-0360
+# text = kaj tako si da bi dala ona kaj noter ne vem ko ima [gap] kaj jaz vem
+1	kaj	kaj	_	_	PRO;SG;NOM;NEUT	_	_	_	_
+2	tako	tako	_	_	ADV	_	_	_	_
+3	si	biti	_	_	IND;SG;POS;2;V;FIN;PRS	_	_	_	_
+4	da	da	_	_	CONJ	_	_	_	_
+5	bi	biti	_	_	V;FIN;COND	_	_	_	_
+6	dala	dati	_	_	FEM;PFV;SG;V.PTCP;V	_	_	_	_
+7	ona	on	_	_	3;FEM;PRO;SG;NOM	_	_	_	_
+8	kaj	kaj	_	_	ACC;PRO;SG;NEUT	_	_	_	_
+9	noter	noter	_	_	ADV	_	_	_	_
+10	ne	ne	_	_	NEG;PART	_	_	_	_
+11	vem	vedeti	_	_	IND;SG;IPFV;1;V;FIN;PRS	_	_	_	_
+12	ko	ko	_	_	CONJ	_	_	_	_
+13	ima	imeti	_	_	3;IND;SG;IPFV;POS;V;FIN;PRS	_	_	_	_
+14	[gap]	[gap]	_	_	_	_	_	_	_
+15	kaj	kaj	_	_	ACC;PRO;SG;NEUT	_	_	_	_
+16	jaz	jaz	_	_	PRO;SG;1;NOM	_	_	_	_
+17	vem	vedeti	_	_	IND;SG;IPFV;1;V;FIN;PRS	_	_	_	_
+
+# sent_id = gos.163-0231
+# text = kaj ne gre ?
+1	kaj	kaj	_	_	NOM;NEUT;SG;PRO	_	_	_	_
+2	ne	ne	_	_	NEG;PART	_	_	_	_
+3	gre	iti	_	_	IND;V;3;PRS;SG;FIN	_	_	_	_
+4	?	?	_	_	_	_	_	_	_
+
+# sent_id = gos.207-0008
+# text = ja no to je pa dobra novica tako da [speaker:laughter] [gap] da ne bo dolga seansa ja ker imamo pol saj veš tisto [gap] in tako naprej ja
+1	ja	ja	_	_	PART	_	_	_	_
+2	no	no	_	_	PART	_	_	_	_
+3	to	ta	_	_	SG;DET;NOM;NEUT	_	_	_	_
+4	je	biti	_	_	3;IND;SG;POS;V;FIN;PRS	_	_	_	_
+5	pa	pa	_	_	CONJ	_	_	_	_
+6	dobra	dober	_	_	FEM;SG;ADJ;NOM	_	_	_	_
+7	novica	novica	_	_	FEM;NOM;SG;N	_	_	_	_
+8	tako	tako	_	_	CONJ	_	_	_	_
+9	da	da	_	_	CONJ	_	_	_	_
+10	[speaker:laughter]	[speaker:laughter]	_	_	_	_	_	_	_
+11	[gap]	[gap]	_	_	_	_	_	_	_
+12	da	da	_	_	CONJ	_	_	_	_
+13	ne	ne	_	_	NEG;PART	_	_	_	_
+14	bo	biti	_	_	3;IND;SG;FUT;POS;V;FIN	_	_	_	_
+15	dolga	dolg	_	_	FEM;SG;ADJ;NOM	_	_	_	_
+16	seansa	seansa	_	_	FEM;NOM;SG;N	_	_	_	_
+17	ja	ja	_	_	PART	_	_	_	_
+18	ker	ker	_	_	CONJ	_	_	_	_
+19	imamo	imeti	_	_	IND;IPFV;1;PRS;POS;V;FIN;PL	_	_	_	_
+20	pol	pol	_	_	ADV	_	_	_	_
+21	saj	saj	_	_	CONJ	_	_	_	_
+22	veš	vedeti	_	_	IND;SG;IPFV;2;V;FIN;PRS	_	_	_	_
+23	tisto	tisti	_	_	ACC;SG;DET;NEUT	_	_	_	_
+24	[gap]	[gap]	_	_	_	_	_	_	_
+25	in	in	_	_	CONJ	_	_	_	_
+26	tako	tako	_	_	ADV	_	_	_	_
+27	naprej	naprej	_	_	ADV	_	_	_	_
+28	ja	ja	_	_	PART	_	_	_	_
+
+# sent_id = gos.280-0021
+# text = ja saj veš da
+1	ja	ja	_	_	PART	_	_	_	_
+2	saj	saj	_	_	CONJ	_	_	_	_
+3	veš	vedeti	_	_	IND;V;IPFV;FIN;PRS;SG;2	_	_	_	_
+4	da	da	_	_	CONJ	_	_	_	_
+
+# sent_id = gos.167-0138
+# text = mi recimo doma mi recimo doma tule je moja eee edina žena tule je moj edini sin
+1	mi	jaz	_	_	PL;MASC;NOM;1;PRO	_	_	_	_
+2	recimo	reči	_	_	PFV;V;PL;1;IMP;FIN	_	_	_	_
+3	doma	doma	_	_	ADV	_	_	_	_
+4	mi	jaz	_	_	PL;MASC;NOM;1;PRO	_	_	_	_
+5	recimo	reči	_	_	PFV;V;PL;1;IMP;FIN	_	_	_	_
+6	doma	doma	_	_	ADV	_	_	_	_
+7	tule	tule	_	_	ADV	_	_	_	_
+8	je	biti	_	_	IND;V;POS;3;PRS;SG;FIN	_	_	_	_
+9	moja	moj	_	_	PSSS;FEM;NOM;DET;1;SG	_	_	_	_
+10	eee	eee	_	_	INTJ	_	_	_	_
+11	edina	edin	_	_	FEM;NOM;ADJ;SG	_	_	_	_
+12	žena	žena	_	_	SG;N;NOM;FEM	_	_	_	_
+13	tule	tule	_	_	ADV	_	_	_	_
+14	je	biti	_	_	IND;V;POS;3;PRS;SG;FIN	_	_	_	_
+15	moj	moj	_	_	PSSS;MASC;NOM;DET;1;SG	_	_	_	_
+16	edini	edin	_	_	SG;DEF;MASC;NOM;ADJ	_	_	_	_
+17	sin	sin	_	_	MASC;SG;N;NOM	_	_	_	_
+
+# sent_id = gos.249-0192
+# text = poklicno tehnologijo so imeli praktični del to ko sem šel to sem to sem obvladal to je bilo prav dobro skoraj odlično
+1	poklicno	poklicen	_	_	FEM;ACC;ADJ;SG	_	_	_	_
+2	tehnologijo	tehnologija	_	_	N;ACC;SG;FEM	_	_	_	_
+3	so	biti	_	_	IND;PL;POS;3;V;PRS;FIN	_	_	_	_
+4	imeli	imeti	_	_	V.PTCP;V;PL;MASC;IPFV	_	_	_	_
+5	praktični	praktičen	_	_	SG;DEF;MASC;ACC;ADJ	_	_	_	_
+6	del	del	_	_	MASC;N;ACC;INAN;SG	_	_	_	_
+7	to	ta	_	_	ACC;NEUT;DET;SG	_	_	_	_
+8	ko	ko	_	_	CONJ	_	_	_	_
+9	sem	biti	_	_	IND;POS;V;1;PRS;SG;FIN	_	_	_	_
+10	šel	iti	_	_	MASC;V.PTCP;SG;V	_	_	_	_
+11	to	ta	_	_	ACC;NEUT;DET;SG	_	_	_	_
+12	sem	biti	_	_	IND;POS;V;1;PRS;SG;FIN	_	_	_	_
+13	to	ta	_	_	ACC;NEUT;DET;SG	_	_	_	_
+14	sem	biti	_	_	IND;POS;V;1;PRS;SG;FIN	_	_	_	_
+15	obvladal	obvladati	_	_	MASC;V.PTCP;SG;V	_	_	_	_
+16	to	ta	_	_	NOM;NEUT;DET;SG	_	_	_	_
+17	je	biti	_	_	IND;POS;3;V;PRS;SG;FIN	_	_	_	_
+18	bilo	biti	_	_	NEUT;V.PTCP;SG;V	_	_	_	_
+19	prav	prav	_	_	PART	_	_	_	_
+20	dobro	dober	_	_	NOM;NEUT;ADJ;SG	_	_	_	_
+21	skoraj	skoraj	_	_	PART	_	_	_	_
+22	odlično	odličen	_	_	NOM;NEUT;ADJ;SG	_	_	_	_
+
+# sent_id = gos.022-0134
+# text = tu daš na premico puščico ja in pravokotnico
+1	tu	tu	_	_	ADV	_	_	_	_
+2	daš	dati	_	_	PFV;IND;V;FIN;PRS;SG;2	_	_	_	_
+3	na	na	_	_	ACC;ADP	_	_	_	_
+4	premico	premica	_	_	N;ACC;SG;FEM	_	_	_	_
+5	puščico	puščica	_	_	N;ACC;SG;FEM	_	_	_	_
+6	ja	ja	_	_	PART	_	_	_	_
+7	in	in	_	_	CONJ	_	_	_	_
+8	pravokotnico	pravokotnica	_	_	N;ACC;SG;FEM	_	_	_	_
+
+# sent_id = gos.016-0590
+# text = moške spolne celice
+1	moške	moški	_	_	FEM;ADJ;NOM;PL	_	_	_	_
+2	spolne	spolen	_	_	FEM;ADJ;NOM;PL	_	_	_	_
+3	celice	celica	_	_	FEM;NOM;PL;N	_	_	_	_
+
+# sent_id = gos.281-0275
+# text = ja ja ja to sem jaz naredil samo pol p [gap] kot ta petega ne sem se pa z [name:personal] menil
+1	ja	ja	_	_	PART	_	_	_	_
+2	ja	ja	_	_	PART	_	_	_	_
+3	ja	ja	_	_	PART	_	_	_	_
+4	to	ta	_	_	ACC;SG;DET;NEUT	_	_	_	_
+5	sem	biti	_	_	IND;SG;1;POS;V;FIN;PRS	_	_	_	_
+6	jaz	jaz	_	_	PRO;SG;1;NOM	_	_	_	_
+7	naredil	narediti	_	_	PFV;SG;V.PTCP;MASC;V	_	_	_	_
+8	samo	samo	_	_	PART	_	_	_	_
+9	pol	pol	_	_	ADV	_	_	_	_
+10	p	_	_	_	_	_	_	_	_
+11	[gap]	[gap]	_	_	_	_	_	_	_
+12	kot	kot	_	_	CONJ	_	_	_	_
+13	ta	ta	_	_	SG;DET;MASC;NOM	_	_	_	_
+14	petega	pet	_	_	ACC;SG;V.PTCP;ADJ;MASC	_	_	_	_
+15	ne	ne	_	_	PART	_	_	_	_
+16	sem	biti	_	_	IND;SG;1;POS;V;FIN;PRS	_	_	_	_
+17	se	se	_	_	PRO	_	_	_	_
+18	pa	pa	_	_	CONJ	_	_	_	_
+19	z	z	_	_	ADP;INS	_	_	_	_
+20	[name:personal]	[name:personal]	_	_	PROPN	_	_	_	_
+21	menil	meniti	_	_	SG;IPFV;V.PTCP;MASC;V	_	_	_	_
+
+# sent_id = gos.002-0110
+# text = zdaj kako naj zdaj to razumemo
+1	zdaj	zdaj	_	_	ADV	_	_	_	_
+2	kako	kako	_	_	ADV	_	_	_	_
+3	naj	naj	_	_	PART	_	_	_	_
+4	zdaj	zdaj	_	_	ADV	_	_	_	_
+5	to	ta	_	_	ACC;NEUT;DET;SG	_	_	_	_
+6	razumemo	razumeti	_	_	IND;V;PL;1;PRS;FIN	_	_	_	_
+
+# sent_id = gos.225-0364
+# text = ti bom jaz jutri na [gap] tule na računalniku
+1	ti	ti	_	_	PRO;SG;DAT;2	_	_	_	_
+2	bom	biti	_	_	IND;SG;1;FUT;POS;V;FIN	_	_	_	_
+3	jaz	jaz	_	_	PRO;SG;1;NOM	_	_	_	_
+4	jutri	jutri	_	_	ADV	_	_	_	_
+5	na	na	_	_	ADP;ESS	_	_	_	_
+6	[gap]	[gap]	_	_	_	_	_	_	_
+7	tule	tule	_	_	ADV	_	_	_	_
+8	na	na	_	_	ADP;ESS	_	_	_	_
+9	računalniku	računalnik	_	_	MASC;ESS;SG;N	_	_	_	_
+
+# sent_id = gos.232-0082
+# text = čakaj mp3 je meni se zdi
+1	čakaj	čakati	_	_	V;IPFV;FIN;IMP;SG;2	_	_	_	_
+2	mp3	mp3	_	_	MASC;SG;N;NOM	_	_	_	_
+3	je	biti	_	_	IND;POS;3;V;PRS;SG;FIN	_	_	_	_
+4	meni	jaz	_	_	1;DAT;SG;PRO	_	_	_	_
+5	se	se	_	_	PRO	_	_	_	_
+6	zdi	zdeti	_	_	IND;V;IPFV;3;PRS;SG;FIN	_	_	_	_
+
+# sent_id = gos.145-0222
+# text = zmenjeno ?
+1	zmenjeno	zmenjen	_	_	V.PTCP;NOM;NEUT;ADJ;SG	_	_	_	_
+2	?	?	_	_	_	_	_	_	_
+
+# sent_id = gos.164-0536
+# text = še vedno rajši tako v malih zasedbah bolj ne ?
+1	še	še	_	_	PART	_	_	_	_
+2	vedno	vedno	_	_	ADV	_	_	_	_
+3	rajši	raje	_	_	CMPR;ADV	_	_	_	_
+4	tako	tako	_	_	ADV	_	_	_	_
+5	v	v	_	_	ESS;ADP	_	_	_	_
+6	malih	mali	_	_	FEM;PL;ADJ;ESS	_	_	_	_
+7	zasedbah	zasedba	_	_	PL;ESS;N;FEM	_	_	_	_
+8	bolj	bolj	_	_	CMPR;ADV	_	_	_	_
+9	ne	ne	_	_	PART	_	_	_	_
+10	?	?	_	_	_	_	_	_	_
+
+# sent_id = gos.164-0529
+# text = a pa te je kaj potegnilo to ? [audience:laughter]
+1	a	a	_	_	ADV	_	_	_	_
+2	pa	pa	_	_	CONJ	_	_	_	_
+3	te	ti	_	_	ACC;SG;2;PRO	_	_	_	_
+4	je	biti	_	_	IND;POS;3;V;PRS;SG;FIN	_	_	_	_
+5	kaj	kaj	_	_	ADV	_	_	_	_
+6	potegnilo	potegniti	_	_	PFV;V.PTCP;V;NEUT;SG	_	_	_	_
+7	to	ta	_	_	NOM;NEUT;DET;SG	_	_	_	_
+8	?	?	_	_	_	_	_	_	_
+9	[audience:laughter]	[audience:laughter]	_	_	_	_	_	_	_
+
+# sent_id = gos.021-0155
+# text = [pause]
+1	[pause]	[pause]	_	_	_	_	_	_	_
+
+# sent_id = gos.059-0105
+# text = [pause]
+1	[pause]	[pause]	_	_	_	_	_	_	_
+
+# sent_id = gos.246-0350
+# text = pa s tem da je včasih bil v [name:organisation] v [name:organisation] delal ne
+1	pa	pa	_	_	CONJ	_	_	_	_
+2	s	z	_	_	ADP;INS	_	_	_	_
+3	tem	ta	_	_	INS;SG;DET;NEUT	_	_	_	_
+4	da	da	_	_	CONJ	_	_	_	_
+5	je	biti	_	_	3;IND;SG;POS;V;FIN;PRS	_	_	_	_
+6	včasih	včasih	_	_	ADV	_	_	_	_
+7	bil	biti	_	_	SG;IPFV;V.PTCP;MASC;V	_	_	_	_
+8	v	v	_	_	ADP;ESS	_	_	_	_
+9	[name:organisation]	[name:organisation]	_	_	PROPN	_	_	_	_
+10	v	v	_	_	ADP;ESS	_	_	_	_
+11	[name:organisation]	[name:organisation]	_	_	PROPN	_	_	_	_
+12	delal	delati	_	_	SG;IPFV;V.PTCP;MASC;V	_	_	_	_
+13	ne	ne	_	_	PART	_	_	_	_
+
+# sent_id = gos.057-0254
+# text = [gap]
+1	[gap]	[gap]	_	_	_	_	_	_	_
+
+# sent_id = gos.020-0411
+# text = samo da torej v delovnih taboriščih so še kaj prej naredili z njimi ? … izmučili so jih do v bistvu do zadnjega atoma njihovega telesa a ne kolikor se še lahko delali in so na koncu od onemoglosti umrli
+1	samo	samo	_	_	PART	_	_	_	_
+2	da	da	_	_	CONJ	_	_	_	_
+3	torej	torej	_	_	ADV	_	_	_	_
+4	v	v	_	_	ESS;ADP	_	_	_	_
+5	delovnih	deloven	_	_	PL;NEUT;ADJ;ESS	_	_	_	_
+6	taboriščih	taborišče	_	_	PL;ESS;N;NEUT	_	_	_	_
+7	so	biti	_	_	IND;PL;POS;3;V;PRS;FIN	_	_	_	_
+8	še	še	_	_	PART	_	_	_	_
+9	kaj	kaj	_	_	ACC;NEUT;SG;PRO	_	_	_	_
+10	prej	prej	_	_	CMPR;ADV	_	_	_	_
+11	naredili	narediti	_	_	PFV;V.PTCP;V;PL;MASC	_	_	_	_
+12	z	z	_	_	INS;ADP	_	_	_	_
+13	njimi	on	_	_	PL;MASC;3;INS;PRO	_	_	_	_
+14	?	?	_	_	_	_	_	_	_
+15	…	…	_	_	_	_	_	_	_
+16	izmučili	izmučiti	_	_	PFV;V.PTCP;V;PL;MASC	_	_	_	_
+17	so	biti	_	_	IND;PL;POS;3;V;PRS;FIN	_	_	_	_
+18	jih	on	_	_	PL;MASC;3;ACC;PRO	_	_	_	_
+19	do	do	_	_	GEN;ADP	_	_	_	_
+20	v	v	_	_	ESS;ADP	_	_	_	_
+21	bistvu	bistvo	_	_	ESS;N;SG;NEUT	_	_	_	_
+22	do	do	_	_	GEN;ADP	_	_	_	_
+23	zadnjega	zadnji	_	_	MASC;GEN;ADJ;SG	_	_	_	_
+24	atoma	atom	_	_	MASC;SG;N;GEN	_	_	_	_
+25	njihovega	njihov	_	_	PSSP;3;GEN;NEUT;DET;SG	_	_	_	_
+26	telesa	telo	_	_	SG;N;GEN;NEUT	_	_	_	_
+27	a	a	_	_	ADV	_	_	_	_
+28	ne	ne	_	_	PART	_	_	_	_
+29	kolikor	kolikor	_	_	CONJ	_	_	_	_
+30	se	se	_	_	PRO	_	_	_	_
+31	še	še	_	_	PART	_	_	_	_
+32	lahko	lahko	_	_	ADV	_	_	_	_
+33	delali	delati	_	_	V.PTCP;V;PL;MASC;IPFV	_	_	_	_
+34	in	in	_	_	CONJ	_	_	_	_
+35	so	biti	_	_	IND;PL;POS;3;V;PRS;FIN	_	_	_	_
+36	na	na	_	_	ESS;ADP	_	_	_	_
+37	koncu	konec	_	_	ESS;N;MASC;SG	_	_	_	_
+38	od	od	_	_	GEN;ADP	_	_	_	_
+39	onemoglosti	onemoglost	_	_	SG;N;GEN;FEM	_	_	_	_
+40	umrli	umreti	_	_	PFV;V.PTCP;V;PL;MASC	_	_	_	_
+
+# sent_id = gos.280-0034
+# text = ja nič nič hudega
+1	ja	ja	_	_	PART	_	_	_	_
+2	nič	nič	_	_	NOM;NEUT;DET;SG	_	_	_	_
+3	nič	nič	_	_	NOM;NEUT;DET;SG	_	_	_	_
+4	hudega	hud	_	_	GEN;NEUT;ADJ;SG	_	_	_	_
+
+# sent_id = gos.219-0090
+# text = [speaker:laughter] … v božjah v božjah gor
+1	[speaker:laughter]	[speaker:laughter]	_	_	_	_	_	_	_
+2	…	…	_	_	_	_	_	_	_
+3	v	v	_	_	ADP;ESS	_	_	_	_
+4	božjah	Božje	_	_	FEM;PROPN;PL;ESS	_	_	_	_
+5	v	v	_	_	ADP;ESS	_	_	_	_
+6	božjah	Božje	_	_	FEM;PROPN;PL;ESS	_	_	_	_
+7	gor	gor	_	_	ADV	_	_	_	_
+
+# sent_id = gos.116-0086
+# text = no poglejte kar se tega nacionalnega interesa tiče mislim pa mmm da mi res podtikajo meni pa tudi še gospodu turnšku ki je pred mano vodil to podjetje
+1	no	no	_	_	PART	_	_	_	_
+2	poglejte	pogledati	_	_	PFV;IMP;2;V;FIN;PL	_	_	_	_
+3	kar	kar	_	_	PRO;SG;NOM;NEUT	_	_	_	_
+4	se	se	_	_	PRO	_	_	_	_
+5	tega	ta	_	_	SG;GEN;DET;MASC	_	_	_	_
+6	nacionalnega	nacionalen	_	_	SG;GEN;ADJ;MASC	_	_	_	_
+7	interesa	interes	_	_	MASC;SG;N;GEN	_	_	_	_
+8	tiče	tikati	_	_	3;IND;SG;IPFV;V;FIN;PRS	_	_	_	_
+9	mislim	misliti	_	_	IND;SG;IPFV;1;V;FIN;PRS	_	_	_	_
+10	pa	pa	_	_	CONJ	_	_	_	_
+11	mmm	mmm	_	_	INTJ	_	_	_	_
+12	da	da	_	_	CONJ	_	_	_	_
+13	mi	jaz	_	_	PRO;SG;DAT;1	_	_	_	_
+14	res	res	_	_	ADV	_	_	_	_
+15	podtikajo	podtikati	_	_	3;IND;IPFV;PRS;V;FIN;PL	_	_	_	_
+16	meni	jaz	_	_	PRO;SG;DAT;1	_	_	_	_
+17	pa	pa	_	_	CONJ	_	_	_	_
+18	tudi	tudi	_	_	PART	_	_	_	_
+19	še	še	_	_	PART	_	_	_	_
+20	gospodu	gospod	_	_	MASC;SG;N;DAT	_	_	_	_
+21	turnšku	Turnšek	_	_	MASC;PROPN;SG;DAT	_	_	_	_
+22	ki	ki	_	_	CONJ	_	_	_	_
+23	je	biti	_	_	3;IND;SG;POS;V;FIN;PRS	_	_	_	_
+24	pred	pred	_	_	ADP;INS	_	_	_	_
+25	mano	jaz	_	_	PRO;INS;SG;1	_	_	_	_
+26	vodil	voditi	_	_	SG;IPFV;V.PTCP;MASC;V	_	_	_	_
+27	to	ta	_	_	ACC;SG;DET;NEUT	_	_	_	_
+28	podjetje	podjetje	_	_	ACC;NEUT;SG;N	_	_	_	_
+
+# sent_id = gos.005-0007
+# text = [gap]
+1	[gap]	[gap]	_	_	_	_	_	_	_
+
+# sent_id = gos.231-0059
+# text = ja ja
+1	ja	ja	_	_	PART	_	_	_	_
+2	ja	ja	_	_	PART	_	_	_	_
+
+# sent_id = gos.248-0182
+# text = ja ker so to ženske ki so delale na polju in so navajene bolj ne v mestu je mogoče drugače ne
+1	ja	ja	_	_	PART	_	_	_	_
+2	ker	ker	_	_	CONJ	_	_	_	_
+3	so	biti	_	_	3;IND;PRS;POS;V;FIN;PL	_	_	_	_
+4	to	ta	_	_	SG;DET;NOM;NEUT	_	_	_	_
+5	ženske	ženska	_	_	FEM;NOM;PL;N	_	_	_	_
+6	ki	ki	_	_	CONJ	_	_	_	_
+7	so	biti	_	_	3;IND;PRS;POS;V;FIN;PL	_	_	_	_
+8	delale	delati	_	_	FEM;IPFV;V.PTCP;V;PL	_	_	_	_
+9	na	na	_	_	ADP;ESS	_	_	_	_
+10	polju	polje	_	_	ESS;NEUT;SG;N	_	_	_	_
+11	in	in	_	_	CONJ	_	_	_	_
+12	so	biti	_	_	3;IND;PRS;POS;V;FIN;PL	_	_	_	_
+13	navajene	navajen	_	_	FEM;V.PTCP;ADJ;NOM;PL	_	_	_	_
+14	bolj	bolj	_	_	CMPR;ADV	_	_	_	_
+15	ne	ne	_	_	PART	_	_	_	_
+16	v	v	_	_	ADP;ESS	_	_	_	_
+17	mestu	mesto	_	_	ESS;NEUT;SG;N	_	_	_	_
+18	je	biti	_	_	3;IND;SG;POS;V;FIN;PRS	_	_	_	_
+19	mogoče	mogoče	_	_	ADV	_	_	_	_
+20	drugače	drugače	_	_	ADV	_	_	_	_
+21	ne	ne	_	_	PART	_	_	_	_
+
+# sent_id = gos.256-0089
+# text = a da
+1	a	a	_	_	INTJ	_	_	_	_
+2	da	da	_	_	PART	_	_	_	_
+
+# sent_id = gos.160-0156
+# text = čakaj
+1	čakaj	čakati	_	_	SG;IMP;IPFV;2;V;FIN	_	_	_	_
+
+# sent_id = gos.194-0599
+# text = super
+1	super	super	_	_	ADV	_	_	_	_
+
+# sent_id = gos.226-0088
+# text = [gap]
+1	[gap]	[gap]	_	_	_	_	_	_	_
+
+# sent_id = gos.243-0097
+# text = na paranoid
+1	na	na	_	_	ACC;ADP	_	_	_	_
+2	paranoid	Paranoid	_	_	MASC;PROPN;ACC;INAN;SG	_	_	_	_
+
+# sent_id = gos.135-0640
+# text = tako pravi [name:personal] hvala lepa za tvoje mnenje
+1	tako	tako	_	_	ADV	_	_	_	_
+2	pravi	praviti	_	_	IND;V;3;PRS;SG;FIN	_	_	_	_
+3	[name:personal]	[name:personal]	_	_	PROPN	_	_	_	_
+4	hvala	hvala	_	_	SG;N;NOM;FEM	_	_	_	_
+5	lepa	lep	_	_	FEM;NOM;ADJ;SG	_	_	_	_
+6	za	za	_	_	ACC;ADP	_	_	_	_
+7	tvoje	tvoj	_	_	PSSS;ACC;NEUT;DET;SG;2	_	_	_	_
+8	mnenje	mnenje	_	_	N;ACC;SG;NEUT	_	_	_	_
+
+# sent_id = gos.052-0256
+# text = [pause]
+1	[pause]	[pause]	_	_	_	_	_	_	_
+
+# sent_id = gos.136-0393
+# text = ja … [:voice] … tako
+1	ja	ja	_	_	PART	_	_	_	_
+2	…	…	_	_	_	_	_	_	_
+3	[:voice]	[:voice]	_	_	_	_	_	_	_
+4	…	…	_	_	_	_	_	_	_
+5	tako	tako	_	_	ADV	_	_	_	_
+
+# sent_id = gos.139-0175
+# text = kaj pa ne poznal sem
+1	kaj	kaj	_	_	ADV	_	_	_	_
+2	pa	pa	_	_	CONJ	_	_	_	_
+3	ne	ne	_	_	NEG;PART	_	_	_	_
+4	poznal	poznati	_	_	V.PTCP;V;MASC;IPFV;SG	_	_	_	_
+5	sem	biti	_	_	IND;POS;V;1;PRS;SG;FIN	_	_	_	_
+
+# sent_id = gos.012-0232
+# text = a ne na a ne na list ?
+1	a	a	_	_	ADV	_	_	_	_
+2	ne	ne	_	_	PART	_	_	_	_
+3	na	na	_	_	ACC;ADP	_	_	_	_
+4	a	a	_	_	ADV	_	_	_	_
+5	ne	ne	_	_	NEG;PART	_	_	_	_
+6	na	na	_	_	ACC;ADP	_	_	_	_
+7	list	list	_	_	MASC;N;ACC;INAN;SG	_	_	_	_
+8	?	?	_	_	_	_	_	_	_
+
+# sent_id = gos.238-0164
+# text = [pause]
+1	[pause]	[pause]	_	_	_	_	_	_	_
+
+# sent_id = gos.280-0024
+# text = aja
+1	aja	aja	_	_	INTJ	_	_	_	_
+
+# sent_id = gos.048-0112
+# text = eem sicer pa jaz mislim da še bo več odzivov glede na to da je razstava komaj se začela
+1	eem	eem	_	_	INTJ	_	_	_	_
+2	sicer	sicer	_	_	CONJ	_	_	_	_
+3	pa	pa	_	_	CONJ	_	_	_	_
+4	jaz	jaz	_	_	NOM;1;SG;PRO	_	_	_	_
+5	mislim	misliti	_	_	IND;V;IPFV;1;PRS;SG;FIN	_	_	_	_
+6	da	da	_	_	CONJ	_	_	_	_
+7	še	še	_	_	PART	_	_	_	_
+8	bo	biti	_	_	IND;V;POS;FUT;3;SG;FIN	_	_	_	_
+9	več	več	_	_	DET	_	_	_	_
+10	odzivov	odziv	_	_	PL;MASC;N;GEN	_	_	_	_
+11	glede	glede	_	_	ADV	_	_	_	_
+12	na	na	_	_	ACC;ADP	_	_	_	_
+13	to	ta	_	_	ACC;NEUT;DET;SG	_	_	_	_
+14	da	da	_	_	CONJ	_	_	_	_
+15	je	biti	_	_	IND;POS;3;V;PRS;SG;FIN	_	_	_	_
+16	razstava	razstava	_	_	SG;N;NOM;FEM	_	_	_	_
+17	komaj	komaj	_	_	ADV	_	_	_	_
+18	se	se	_	_	PRO	_	_	_	_
+19	začela	začeti	_	_	PFV;V.PTCP;FEM;V;SG	_	_	_	_
+
+# sent_id = gos.156-0018
+# text = ideja ja to je bila pa eee to sta pa eee začetnika ko sta bila ko sta ustanovila ta bend
+1	ideja	ideja	_	_	SG;N;NOM;FEM	_	_	_	_
+2	ja	ja	_	_	PART	_	_	_	_
+3	to	ta	_	_	NOM;NEUT;DET;SG	_	_	_	_
+4	je	biti	_	_	IND;POS;3;V;PRS;SG;FIN	_	_	_	_
+5	bila	biti	_	_	V.PTCP;SG;FEM;V	_	_	_	_
+6	pa	pa	_	_	CONJ	_	_	_	_
+7	eee	eee	_	_	INTJ	_	_	_	_
+8	to	ta	_	_	NOM;NEUT;DET;SG	_	_	_	_
+9	sta	biti	_	_	IND;V;POS;3;DU;PRS;FIN	_	_	_	_
+10	pa	pa	_	_	CONJ	_	_	_	_
+11	eee	eee	_	_	INTJ	_	_	_	_
+12	začetnika	začetnik	_	_	MASC;DU;N;NOM	_	_	_	_
+13	ko	ko	_	_	CONJ	_	_	_	_
+14	sta	biti	_	_	IND;POS;V;3;DU;PRS;FIN	_	_	_	_
+15	bila	biti	_	_	MASC;DU;V.PTCP;V	_	_	_	_
+16	ko	ko	_	_	CONJ	_	_	_	_
+17	sta	biti	_	_	IND;POS;V;3;DU;PRS;FIN	_	_	_	_
+18	ustanovila	ustanoviti	_	_	PFV;V.PTCP;V;MASC;DU	_	_	_	_
+19	ta	ta	_	_	MASC;ACC;DET;SG	_	_	_	_
+20	bend	bend	_	_	MASC;N;ACC;INAN;SG	_	_	_	_
+
+# sent_id = gos.030-0024
+# text = skratka o teh stvareh smo nekaj reči rekli z [name:personal] [name:surname]
+1	skratka	skratka	_	_	ADV	_	_	_	_
+2	o	o	_	_	ESS;ADP	_	_	_	_
+3	teh	ta	_	_	FEM;PL;DET;ESS	_	_	_	_
+4	stvareh	stvar	_	_	PL;ESS;N;FEM	_	_	_	_
+5	smo	biti	_	_	IND;PL;POS;V;1;PRS;FIN	_	_	_	_
+6	nekaj	nekaj	_	_	DET	_	_	_	_
+7	reči	reč	_	_	PL;N;ACC;FEM	_	_	_	_
+8	rekli	reči	_	_	PFV;V.PTCP;V;PL;MASC	_	_	_	_
+9	z	z	_	_	INS;ADP	_	_	_	_
+10	[name:personal]	[name:personal]	_	_	INS;MASC;SG;PROPN	_	_	_	_
+11	[name:surname]	[name:surname]	_	_	INS;MASC;SG;PROPN	_	_	_	_
+
+# sent_id = gos.136-0399
+# text = zapleta se torej inšpektor pepe je dobil policista ga ustavil mu preprečil pot in eee ne vem
+1	zapleta	zapletati	_	_	3;IND;SG;IPFV;V;FIN;PRS	_	_	_	_
+2	se	se	_	_	PRO	_	_	_	_
+3	torej	torej	_	_	ADV	_	_	_	_
+4	inšpektor	inšpektor	_	_	MASC;NOM;SG;N	_	_	_	_
+5	pepe	Pepe	_	_	MASC;PROPN;NOM;SG	_	_	_	_
+6	je	biti	_	_	3;IND;SG;POS;V;FIN;PRS	_	_	_	_
+7	dobil	dobiti	_	_	PFV;SG;V.PTCP;MASC;V	_	_	_	_
+8	policista	policist	_	_	ACC;SG;ANIM;N;MASC	_	_	_	_
+9	ga	on	_	_	3;ACC;PRO;SG;MASC	_	_	_	_
+10	ustavil	ustaviti	_	_	PFV;SG;V.PTCP;MASC;V	_	_	_	_
+11	mu	on	_	_	3;PRO;SG;DAT;MASC	_	_	_	_
+12	preprečil	preprečiti	_	_	PFV;SG;V.PTCP;MASC;V	_	_	_	_
+13	pot	pot	_	_	ACC;FEM;SG;N	_	_	_	_
+14	in	in	_	_	CONJ	_	_	_	_
+15	eee	eee	_	_	INTJ	_	_	_	_
+16	ne	ne	_	_	NEG;PART	_	_	_	_
+17	vem	vedeti	_	_	IND;SG;IPFV;1;V;FIN;PRS	_	_	_	_
+
+# sent_id = gos.232-0083
+# text = ja pol ga daš lahko v peugeota
+1	ja	ja	_	_	PART	_	_	_	_
+2	pol	pol	_	_	ADV	_	_	_	_
+3	ga	on	_	_	MASC;3;ACC;SG;PRO	_	_	_	_
+4	daš	dati	_	_	PFV;IND;V;FIN;PRS;SG;2	_	_	_	_
+5	lahko	lahko	_	_	ADV	_	_	_	_
+6	v	v	_	_	ACC;ADP	_	_	_	_
+7	peugeota	peugeot	_	_	MASC;N;ACC;ANIM;SG	_	_	_	_
+
+# sent_id = gos.178-0178
+# text = [gap] jaz tudi ne vem [gap] tako ko kompliciraš pol ure [speaker:laughter]
+1	[gap]	[gap]	_	_	_	_	_	_	_
+2	jaz	jaz	_	_	PRO;SG;1;NOM	_	_	_	_
+3	tudi	tudi	_	_	PART	_	_	_	_
+4	ne	ne	_	_	NEG;PART	_	_	_	_
+5	vem	vedeti	_	_	IND;SG;IPFV;1;V;FIN;PRS	_	_	_	_
+6	[gap]	[gap]	_	_	_	_	_	_	_
+7	tako	tako	_	_	ADV	_	_	_	_
+8	ko	ko	_	_	CONJ	_	_	_	_
+9	kompliciraš	komplicirati	_	_	IND;SG;IPFV;2;V;FIN;PRS	_	_	_	_
+10	pol	pol	_	_	DET	_	_	_	_
+11	ure	ura	_	_	FEM;SG;N;GEN	_	_	_	_
+12	[speaker:laughter]	[speaker:laughter]	_	_	_	_	_	_	_
+
+# sent_id = gos.144-0287
+# text = eee testosteron je hormon
+1	eee	eee	_	_	INTJ	_	_	_	_
+2	testosteron	testosteron	_	_	MASC;NOM;SG;N	_	_	_	_
+3	je	biti	_	_	3;IND;SG;POS;V;FIN;PRS	_	_	_	_
+4	hormon	hormon	_	_	MASC;NOM;SG;N	_	_	_	_
+
+# sent_id = gos.285-0202
+# text = aha ja z mano bo šla nazaj
+1	aha	aha	_	_	INTJ	_	_	_	_
+2	ja	ja	_	_	PART	_	_	_	_
+3	z	z	_	_	ADP;INS	_	_	_	_
+4	mano	jaz	_	_	PRO;INS;SG;1	_	_	_	_
+5	bo	biti	_	_	3;IND;SG;FUT;POS;V;FIN	_	_	_	_
+6	šla	iti	_	_	V.PTCP;V;SG;FEM	_	_	_	_
+7	nazaj	nazaj	_	_	ADV	_	_	_	_
+
+# sent_id = gos.228-0059
+# text = ti in kaj ugotovimo ne ti triestini pridejo ob enajstih začnejo jesti primo ne tako ali pa antipasto
+1	ti	ti	_	_	PRO;SG;2;NOM	_	_	_	_
+2	in	in	_	_	CONJ	_	_	_	_
+3	kaj	kaj	_	_	ACC;PRO;SG;NEUT	_	_	_	_
+4	ugotovimo	ugotoviti	_	_	PFV;IND;1;PRS;V;FIN;PL	_	_	_	_
+5	ne	ne	_	_	PART	_	_	_	_
+6	ti	ta	_	_	DET;MASC;NOM;PL	_	_	_	_
+7	triestini	Triestin	_	_	MASC;PROPN;NOM;PL	_	_	_	_
+8	pridejo	priti	_	_	3;PFV;IND;PRS;V;FIN;PL	_	_	_	_
+9	ob	ob	_	_	ADP;ESS	_	_	_	_
+10	enajstih	enajst	_	_	PL;NUM;ESS	_	_	_	_
+11	začnejo	začeti	_	_	3;PFV;IND;PRS;V;FIN;PL	_	_	_	_
+12	jesti	jesti	_	_	V;NFIN;IPFV	_	_	_	_
+13	primo	primo	_	_	ACC;SG;INAN;N;MASC	_	_	_	_
+14	ne	ne	_	_	PART	_	_	_	_
+15	tako	tako	_	_	ADV	_	_	_	_
+16	ali	ali	_	_	CONJ	_	_	_	_
+17	pa	pa	_	_	CONJ	_	_	_	_
+18	antipasto	antipasto	_	_	ACC;SG;INAN;N;MASC	_	_	_	_
+
+# sent_id = gos.246-0345
+# text = [pause]
+1	[pause]	[pause]	_	_	_	_	_	_	_
+
+# sent_id = gos.055-0418
+# text = ja da n [gap] da nas o neki stvari pouči
+1	ja	ja	_	_	PART	_	_	_	_
+2	da	da	_	_	CONJ	_	_	_	_
+3	n	_	_	_	_	_	_	_	_
+4	[gap]	[gap]	_	_	_	_	_	_	_
+5	da	da	_	_	CONJ	_	_	_	_
+6	nas	jaz	_	_	PL;ACC;1;PRO	_	_	_	_
+7	o	o	_	_	ESS;ADP	_	_	_	_
+8	neki	nek	_	_	FEM;DET;ESS;SG	_	_	_	_
+9	stvari	stvar	_	_	ESS;N;SG;FEM	_	_	_	_
+10	pouči	poučiti	_	_	PFV;IND;V;3;PRS;SG;FIN	_	_	_	_
+
+# sent_id = gos.121-0023
+# text = ja vas sem vprašal prosim
+1	ja	ja	_	_	PART	_	_	_	_
+2	vas	ti	_	_	ACC;PRO;2;PL	_	_	_	_
+3	sem	biti	_	_	IND;SG;1;POS;V;FIN;PRS	_	_	_	_
+4	vprašal	vprašati	_	_	PFV;SG;V.PTCP;MASC;V	_	_	_	_
+5	prosim	prositi	_	_	IND;SG;IPFV;1;V;FIN;PRS	_	_	_	_
+
+# sent_id = gos.258-0077
+# text = zag [gap] zagovora ne zaradi tega ker je samo dvajset procentov
+1	zag	_	_	_	_	_	_	_	_
+2	[gap]	[gap]	_	_	_	_	_	_	_
+3	zagovora	zagovor	_	_	MASC;SG;N;GEN	_	_	_	_
+4	ne	ne	_	_	NEG;PART	_	_	_	_
+5	zaradi	zaradi	_	_	ADP;GEN	_	_	_	_
+6	tega	ta	_	_	SG;GEN;DET;NEUT	_	_	_	_
+7	ker	ker	_	_	CONJ	_	_	_	_
+8	je	biti	_	_	3;IND;SG;POS;V;FIN;PRS	_	_	_	_
+9	samo	samo	_	_	PART	_	_	_	_
+10	dvajset	dvajset	_	_	PL;NUM;NOM	_	_	_	_
+11	procentov	procent	_	_	MASC;PL;N;GEN	_	_	_	_
+
+# sent_id = gos.011-0225
+# text = zavaruje se pred vremenskimi pojavi in nevarnostmi
+1	zavaruje	zavarovati	_	_	3;PFV;IND;SG;V;FIN;PRS	_	_	_	_
+2	se	se	_	_	PRO	_	_	_	_
+3	pred	pred	_	_	ADP;INS	_	_	_	_
+4	vremenskimi	vremenski	_	_	INS;ADJ;MASC;PL	_	_	_	_
+5	pojavi	pojav	_	_	MASC;PL;INS;N	_	_	_	_
+6	in	in	_	_	CONJ	_	_	_	_
+7	nevarnostmi	nevarnost	_	_	FEM;PL;INS;N	_	_	_	_
+
+# sent_id = gos.112-0008
+# text = ja ja
+1	ja	ja	_	_	PART	_	_	_	_
+2	ja	ja	_	_	PART	_	_	_	_
+
+# sent_id = gos.158-0114
+# text = daš eee luknjico v glavo
+1	daš	dati	_	_	PFV;IND;SG;2;V;FIN;PRS	_	_	_	_
+2	eee	eee	_	_	INTJ	_	_	_	_
+3	luknjico	luknjica	_	_	ACC;FEM;SG;N	_	_	_	_
+4	v	v	_	_	ACC;ADP	_	_	_	_
+5	glavo	glava	_	_	ACC;FEM;SG;N	_	_	_	_
+
+# sent_id = gos.051-0264
+# text = kje zdaj to izvemo glejte avtobiografsko ozadje pa ta to ljubezensko doživetje v katerih kiticah se najbolj izrazi ?
+1	kje	kje	_	_	ADV	_	_	_	_
+2	zdaj	zdaj	_	_	ADV	_	_	_	_
+3	to	ta	_	_	ACC;NEUT;DET;SG	_	_	_	_
+4	izvemo	izvedeti	_	_	PFV;IND;V;PL;1;PRS;FIN	_	_	_	_
+5	glejte	gledati	_	_	V;PL;IPFV;FIN;IMP;2	_	_	_	_
+6	avtobiografsko	avtobiografski	_	_	NOM;NEUT;ADJ;SG	_	_	_	_
+7	ozadje	ozadje	_	_	SG;N;NOM;NEUT	_	_	_	_
+8	pa	pa	_	_	CONJ	_	_	_	_
+9	ta	ta	_	_	FEM;NOM;DET;SG	_	_	_	_
+10	to	ta	_	_	NOM;NEUT;DET;SG	_	_	_	_
+11	ljubezensko	ljubezenski	_	_	NOM;NEUT;ADJ;SG	_	_	_	_
+12	doživetje	doživetje	_	_	SG;N;NOM;NEUT	_	_	_	_
+13	v	v	_	_	ESS;ADP	_	_	_	_
+14	katerih	kateri	_	_	FEM;PL;DET;ESS	_	_	_	_
+15	kiticah	kitica	_	_	PL;ESS;N;FEM	_	_	_	_
+16	se	se	_	_	PRO	_	_	_	_
+17	najbolj	najbolj	_	_	ADV;RL	_	_	_	_
+18	izrazi	izraziti	_	_	PFV;IND;V;3;PRS;SG;FIN	_	_	_	_
+19	?	?	_	_	_	_	_	_	_
+
+# sent_id = gos.159-0575
+# text = ja ja ja aaa
+1	ja	ja	_	_	PART	_	_	_	_
+2	ja	ja	_	_	PART	_	_	_	_
+3	ja	ja	_	_	PART	_	_	_	_
+4	aaa	aaa	_	_	INTJ	_	_	_	_
+
+# sent_id = gos.048-0119
+# text = gospa [name:personal] [name:surname] [name:surname] je mmm še vedno mmm z mano v studiu
+1	gospa	gospa	_	_	SG;N;NOM;FEM	_	_	_	_
+2	[name:personal]	[name:personal]	_	_	PROPN	_	_	_	_
+3	[name:surname]	[name:surname]	_	_	PROPN	_	_	_	_
+4	[name:surname]	[name:surname]	_	_	PROPN	_	_	_	_
+5	je	biti	_	_	IND;V;POS;3;PRS;SG;FIN	_	_	_	_
+6	mmm	mmm	_	_	INTJ	_	_	_	_
+7	še	še	_	_	PART	_	_	_	_
+8	vedno	vedno	_	_	ADV	_	_	_	_
+9	mmm	mmm	_	_	INTJ	_	_	_	_
+10	z	z	_	_	INS;ADP	_	_	_	_
+11	mano	jaz	_	_	1;INS;SG;PRO	_	_	_	_
+12	v	v	_	_	ESS;ADP	_	_	_	_
+13	studiu	studio	_	_	ESS;N;MASC;SG	_	_	_	_
+
+# sent_id = gos.164-0504
+# text = [pause]
+1	[pause]	[pause]	_	_	_	_	_	_	_
+
+# sent_id = gos.285-0195
+# text = kaj sploh delate ?
+1	kaj	kaj	_	_	ACC;PRO;SG;NEUT	_	_	_	_
+2	sploh	sploh	_	_	PART	_	_	_	_
+3	delate	delati	_	_	IND;IPFV;PRS;2;V;FIN;PL	_	_	_	_
+4	?	?	_	_	_	_	_	_	_
+
+# sent_id = gos.176-0772
+# text = pa sem pozabil
+1	pa	pa	_	_	CONJ	_	_	_	_
+2	sem	biti	_	_	IND;POS;V;1;PRS;SG;FIN	_	_	_	_
+3	pozabil	pozabiti	_	_	PFV;V.PTCP;V;MASC;SG	_	_	_	_
+
+# sent_id = gos.071-0029
+# text = seveda je pohvalno da imamo eee več eee ministric v tej vladi vendar pa jaz sama eem ne ocenjujem ljudi na takšnih položajih po spolu ampak po tem eee kako učinkoviti so eee ali dovolj dobro poznajo resor na katerem so predvsem pa ali znajo v nekem trenutku odreagirati eee pravilno
+1	seveda	seveda	_	_	PART	_	_	_	_
+2	je	biti	_	_	IND;POS;3;V;PRS;SG;FIN	_	_	_	_
+3	pohvalno	pohvalen	_	_	NOM;NEUT;ADJ;SG	_	_	_	_
+4	da	da	_	_	CONJ	_	_	_	_
+5	imamo	imeti	_	_	IND;V;PL;IPFV;POS;1;PRS;FIN	_	_	_	_
+6	eee	eee	_	_	INTJ	_	_	_	_
+7	več	več	_	_	DET	_	_	_	_
+8	eee	eee	_	_	INTJ	_	_	_	_
+9	ministric	ministrica	_	_	PL;N;GEN;FEM	_	_	_	_
+10	v	v	_	_	ESS;ADP	_	_	_	_
+11	tej	ta	_	_	FEM;DET;ESS;SG	_	_	_	_
+12	vladi	vlada	_	_	ESS;N;SG;FEM	_	_	_	_
+13	vendar	vendar	_	_	CONJ	_	_	_	_
+14	pa	pa	_	_	CONJ	_	_	_	_
+15	jaz	jaz	_	_	NOM;1;SG;PRO	_	_	_	_
+16	sama	sam	_	_	FEM;NOM;ADJ;SG	_	_	_	_
+17	eem	eem	_	_	INTJ	_	_	_	_
+18	ne	ne	_	_	NEG;PART	_	_	_	_
+19	ocenjujem	ocenjevati	_	_	IND;V;IPFV;1;PRS;SG;FIN	_	_	_	_
+20	ljudi	človek	_	_	PL;MASC;N;GEN	_	_	_	_
+21	na	na	_	_	ESS;ADP	_	_	_	_
+22	takšnih	takšen	_	_	PL;MASC;DET;ESS	_	_	_	_
+23	položajih	položaj	_	_	PL;ESS;N;MASC	_	_	_	_
+24	po	po	_	_	ESS;ADP	_	_	_	_
+25	spolu	spol	_	_	ESS;N;MASC;SG	_	_	_	_
+26	ampak	ampak	_	_	CONJ	_	_	_	_
+27	po	po	_	_	ESS;ADP	_	_	_	_
+28	tem	ta	_	_	NEUT;DET;ESS;SG	_	_	_	_
+29	eee	eee	_	_	INTJ	_	_	_	_
+30	kako	kako	_	_	ADV	_	_	_	_
+31	učinkoviti	učinkovit	_	_	PL;MASC;NOM;ADJ	_	_	_	_
+32	so	biti	_	_	IND;PL;POS;3;V;PRS;FIN	_	_	_	_
+33	eee	eee	_	_	INTJ	_	_	_	_
+34	ali	ali	_	_	ADV	_	_	_	_
+35	dovolj	dovolj	_	_	DET	_	_	_	_
+36	dobro	dobro	_	_	ADV	_	_	_	_
+37	poznajo	poznati	_	_	IND;V;PL;IPFV;3;PRS;FIN	_	_	_	_
+38	resor	resor	_	_	MASC;N;ACC;INAN;SG	_	_	_	_
+39	na	na	_	_	ESS;ADP	_	_	_	_
+40	katerem	kateri	_	_	MASC;DET;ESS;SG	_	_	_	_
+41	so	biti	_	_	IND;V;PL;POS;3;PRS;FIN	_	_	_	_
+42	predvsem	predvsem	_	_	PART	_	_	_	_
+43	pa	pa	_	_	CONJ	_	_	_	_
+44	ali	ali	_	_	ADV	_	_	_	_
+45	znajo	znati	_	_	IND;V;PL;IPFV;3;PRS;FIN	_	_	_	_
+46	v	v	_	_	ESS;ADP	_	_	_	_
+47	nekem	nek	_	_	MASC;DET;ESS;SG	_	_	_	_
+48	trenutku	trenutek	_	_	ESS;N;MASC;SG	_	_	_	_
+49	odreagirati	odreagirati	_	_	PFV;NFIN;V	_	_	_	_
+50	eee	eee	_	_	INTJ	_	_	_	_
+51	pravilno	pravilno	_	_	ADV	_	_	_	_
+
+# sent_id = gos.057-0255
+# text = ja kretnje na obrazu
+1	ja	ja	_	_	PART	_	_	_	_
+2	kretnje	kretnja	_	_	PL;N;NOM;FEM	_	_	_	_
+3	na	na	_	_	ESS;ADP	_	_	_	_
+4	obrazu	obraz	_	_	ESS;N;MASC;SG	_	_	_	_
+
+# sent_id = gos.260-0231
+# text = [name:personal] ja … baje baje
+1	[name:personal]	[name:personal]	_	_	PROPN	_	_	_	_
+2	ja	ja	_	_	PART	_	_	_	_
+3	…	…	_	_	_	_	_	_	_
+4	baje	baje	_	_	PART	_	_	_	_
+5	baje	baje	_	_	PART	_	_	_	_
+
+# sent_id = gos.227-0070
+# text = ne kaži nimam pojma
+1	ne	ne	_	_	PART	_	_	_	_
+2	kaži	kazati	_	_	SG;IMP;IPFV;2;V;FIN	_	_	_	_
+3	nimam	imeti	_	_	IND;SG;IPFV;1;NEG;V;FIN;PRS	_	_	_	_
+4	pojma	pojem	_	_	MASC;SG;N;GEN	_	_	_	_
+
+# sent_id = gos.232-0086
+# text = ja jaz tudi ja
+1	ja	ja	_	_	PART	_	_	_	_
+2	jaz	jaz	_	_	NOM;1;SG;PRO	_	_	_	_
+3	tudi	tudi	_	_	PART	_	_	_	_
+4	ja	ja	_	_	PART	_	_	_	_
+
+# sent_id = gos.173-0017
+# text = nisi edini veš ki imaš taka vprašanja [gap] [speaker:laughter] to s [gap] … ja
+1	nisi	biti	_	_	IND;SG;NEG;2;V;FIN;PRS	_	_	_	_
+2	edini	edin	_	_	SG;DEF;ADJ;MASC;NOM	_	_	_	_
+3	veš	vedeti	_	_	IND;SG;IPFV;2;V;FIN;PRS	_	_	_	_
+4	ki	ki	_	_	CONJ	_	_	_	_
+5	imaš	imeti	_	_	IND;SG;IPFV;POS;2;V;FIN;PRS	_	_	_	_
+6	taka	tak	_	_	ACC;DET;NEUT;PL	_	_	_	_
+7	vprašanja	vprašanje	_	_	ACC;PL;NEUT;N	_	_	_	_
+8	[gap]	[gap]	_	_	_	_	_	_	_
+9	[speaker:laughter]	[speaker:laughter]	_	_	_	_	_	_	_
+10	to	ta	_	_	SG;DET;NOM;NEUT	_	_	_	_
+11	s	_	_	_	_	_	_	_	_
+12	[gap]	[gap]	_	_	_	_	_	_	_
+13	…	…	_	_	_	_	_	_	_
+14	ja	ja	_	_	PART	_	_	_	_
+
+# sent_id = gos.014-0633
+# text = skozi liste izloči vodo ja
+1	skozi	skozi	_	_	ACC;ADP	_	_	_	_
+2	liste	list	_	_	PL;MASC;N;ACC	_	_	_	_
+3	izloči	izločiti	_	_	PFV;IND;V;3;PRS;SG;FIN	_	_	_	_
+4	vodo	voda	_	_	N;ACC;SG;FEM	_	_	_	_
+5	ja	ja	_	_	PART	_	_	_	_
+
+# sent_id = gos.282-0254
+# text = [gap] ja kaj je rekel mmm kao ona pri onih je bil doma ne tisto ko sta mož pa žena kako že
+1	[gap]	[gap]	_	_	_	_	_	_	_
+2	ja	ja	_	_	PART	_	_	_	_
+3	kaj	kaj	_	_	ACC;NEUT;SG;PRO	_	_	_	_
+4	je	biti	_	_	IND;POS;3;V;PRS;SG;FIN	_	_	_	_
+5	rekel	reči	_	_	PFV;V.PTCP;V;MASC;SG	_	_	_	_
+6	mmm	mmm	_	_	INTJ	_	_	_	_
+7	kao	kao	_	_	ADV	_	_	_	_
+8	ona	oni	_	_	MASC;NOM;DET;DU	_	_	_	_
+9	pri	pri	_	_	ESS;ADP	_	_	_	_
+10	onih	oni	_	_	MASC;DET;ESS;DU	_	_	_	_
+11	je	biti	_	_	IND;POS;3;V;PRS;SG;FIN	_	_	_	_
+12	bil	biti	_	_	MASC;V.PTCP;SG;V	_	_	_	_
+13	doma	doma	_	_	ADV	_	_	_	_
+14	ne	ne	_	_	PART	_	_	_	_
+15	tisto	tisti	_	_	NOM;NEUT;DET;SG	_	_	_	_
+16	ko	ko	_	_	CONJ	_	_	_	_
+17	sta	biti	_	_	IND;V;POS;3;DU;PRS;FIN	_	_	_	_
+18	mož	mož	_	_	MASC;SG;N;NOM	_	_	_	_
+19	pa	pa	_	_	CONJ	_	_	_	_
+20	žena	žena	_	_	SG;N;NOM;FEM	_	_	_	_
+21	kako	kako	_	_	ADV	_	_	_	_
+22	že	že	_	_	PART	_	_	_	_
+
+# sent_id = gos.173-0018
+# text = ravno prav ravno pravšnja eee eee moč mora biti a ne
+1	ravno	ravno	_	_	PART	_	_	_	_
+2	prav	prav	_	_	PART	_	_	_	_
+3	ravno	ravno	_	_	PART	_	_	_	_
+4	pravšnja	pravšnji	_	_	FEM;SG;ADJ;NOM	_	_	_	_
+5	eee	eee	_	_	INTJ	_	_	_	_
+6	eee	eee	_	_	INTJ	_	_	_	_
+7	moč	moč	_	_	FEM;NOM;SG;N	_	_	_	_
+8	mora	morati	_	_	3;IND;SG;IPFV;V;FIN;PRS	_	_	_	_
+9	biti	biti	_	_	V;NFIN	_	_	_	_
+10	a	a	_	_	ADV	_	_	_	_
+11	ne	ne	_	_	PART	_	_	_	_
+
+# sent_id = gos.073-0380
+# text = če bo potrebno ne glede za ceno
+1	če	če	_	_	CONJ	_	_	_	_
+2	bo	biti	_	_	IND;POS;FUT;3;V;SG;FIN	_	_	_	_
+3	potrebno	potrebno	_	_	ADV	_	_	_	_
+4	ne	ne	_	_	PART	_	_	_	_
+5	glede	glede	_	_	ADV	_	_	_	_
+6	za	za	_	_	ACC;ADP	_	_	_	_
+7	ceno	cena	_	_	N;ACC;SG;FEM	_	_	_	_
+
+# sent_id = gos.121-0019
+# text = to morate vprašati gospoda ministra
+1	to	ta	_	_	ACC;SG;DET;NEUT	_	_	_	_
+2	morate	morati	_	_	IND;IPFV;PRS;2;V;FIN;PL	_	_	_	_
+3	vprašati	vprašati	_	_	V;PFV;NFIN	_	_	_	_
+4	gospoda	gospod	_	_	ACC;SG;ANIM;N;MASC	_	_	_	_
+5	ministra	minister	_	_	ACC;SG;ANIM;N;MASC	_	_	_	_
+
+# sent_id = gos.157-0151
+# text = aha aha ja ja ja ja ja
+1	aha	aha	_	_	INTJ	_	_	_	_
+2	aha	aha	_	_	INTJ	_	_	_	_
+3	ja	ja	_	_	PART	_	_	_	_
+4	ja	ja	_	_	PART	_	_	_	_
+5	ja	ja	_	_	PART	_	_	_	_
+6	ja	ja	_	_	PART	_	_	_	_
+7	ja	ja	_	_	PART	_	_	_	_
+
+# sent_id = gos.268-0218
+# text = ja
+1	ja	ja	_	_	PART	_	_	_	_
+
+# sent_id = gos.130-0166
+# text = upam da ste seveda posadili le tisto zelenjavo ki prenese ohladitve ker zdajle se je kar precej ohladilo ponekod na nič stopinj in tudi eee nekaj snega imajo v višjih legah gorenjske recimo v ratečah je to jutro snežilo
+1	upam	upati	_	_	IND;V;IPFV;1;PRS;SG;FIN	_	_	_	_
+2	da	da	_	_	CONJ	_	_	_	_
+3	ste	biti	_	_	IND;PL;POS;V;FIN;PRS;2	_	_	_	_
+4	seveda	seveda	_	_	PART	_	_	_	_
+5	posadili	posaditi	_	_	PFV;V.PTCP;V;PL;MASC	_	_	_	_
+6	le	le	_	_	PART	_	_	_	_
+7	tisto	tisti	_	_	FEM;ACC;DET;SG	_	_	_	_
+8	zelenjavo	zelenjava	_	_	N;ACC;SG;FEM	_	_	_	_
+9	ki	ki	_	_	CONJ	_	_	_	_
+10	prenese	prenesti	_	_	PFV;IND;V;3;PRS;SG;FIN	_	_	_	_
+11	ohladitve	ohladitev	_	_	PL;N;ACC;FEM	_	_	_	_
+12	ker	ker	_	_	CONJ	_	_	_	_
+13	zdajle	zdajle	_	_	ADV	_	_	_	_
+14	se	se	_	_	PRO	_	_	_	_
+15	je	biti	_	_	IND;POS;3;V;PRS;SG;FIN	_	_	_	_
+16	kar	kar	_	_	ADV	_	_	_	_
+17	precej	precej	_	_	ADV	_	_	_	_
+18	ohladilo	ohladiti	_	_	PFV;V.PTCP;V;NEUT;SG	_	_	_	_
+19	ponekod	ponekod	_	_	ADV	_	_	_	_
+20	na	na	_	_	ACC;ADP	_	_	_	_
+21	nič	nič	_	_	ACC;NEUT;DET;SG	_	_	_	_
+22	stopinj	stopinja	_	_	PL;N;GEN;FEM	_	_	_	_
+23	in	in	_	_	CONJ	_	_	_	_
+24	tudi	tudi	_	_	PART	_	_	_	_
+25	eee	eee	_	_	INTJ	_	_	_	_
+26	nekaj	nekaj	_	_	DET	_	_	_	_
+27	snega	sneg	_	_	MASC;SG;N;GEN	_	_	_	_
+28	imajo	imeti	_	_	IND;V;PL;IPFV;POS;3;PRS;FIN	_	_	_	_
+29	v	v	_	_	ESS;ADP	_	_	_	_
+30	višjih	visok	_	_	CMPR;FEM;PL;ADJ;ESS	_	_	_	_
+31	legah	lega	_	_	PL;ESS;N;FEM	_	_	_	_
+32	gorenjske	Gorenjska	_	_	SG;GEN;FEM;PROPN	_	_	_	_
+33	recimo	reči	_	_	PFV;V;PL;1;IMP;FIN	_	_	_	_
+34	v	v	_	_	ESS;ADP	_	_	_	_
+35	ratečah	Rateče	_	_	PL;ESS;FEM;PROPN	_	_	_	_
+36	je	biti	_	_	IND;POS;3;V;PRS;SG;FIN	_	_	_	_
+37	to	ta	_	_	ACC;NEUT;DET;SG	_	_	_	_
+38	jutro	jutro	_	_	N;ACC;SG;NEUT	_	_	_	_
+39	snežilo	snežiti	_	_	V.PTCP;V;IPFV;NEUT;SG	_	_	_	_
+
+# sent_id = gos.275-0132
+# text = ja pol enkrat moramo iti še v albanijo to bo pol kot da bi šla delati v bistvu
+1	ja	ja	_	_	PART	_	_	_	_
+2	pol	pol	_	_	ADV	_	_	_	_
+3	enkrat	enkrat	_	_	ADV	_	_	_	_
+4	moramo	morati	_	_	IND;IPFV;1;PRS;V;FIN;PL	_	_	_	_
+5	iti	iti	_	_	V;NFIN	_	_	_	_
+6	še	še	_	_	PART	_	_	_	_
+7	v	v	_	_	ACC;ADP	_	_	_	_
+8	albanijo	Albanija	_	_	ACC;PROPN;SG;FEM	_	_	_	_
+9	to	ta	_	_	SG;DET;NOM;NEUT	_	_	_	_
+10	bo	biti	_	_	3;IND;SG;FUT;POS;V;FIN	_	_	_	_
+11	pol	pol	_	_	ADV	_	_	_	_
+12	kot	kot	_	_	CONJ	_	_	_	_
+13	da	da	_	_	CONJ	_	_	_	_
+14	bi	biti	_	_	V;FIN;COND	_	_	_	_
+15	šla	iti	_	_	V.PTCP;V;SG;FEM	_	_	_	_
+16	delati	delati	_	_	V;NFIN;IPFV	_	_	_	_
+17	v	v	_	_	ADP;ESS	_	_	_	_
+18	bistvu	bistvo	_	_	ESS;NEUT;SG;N	_	_	_	_
+
+# sent_id = gos.135-0648
+# text = [name:personal]
+1	[name:personal]	[name:personal]	_	_	PROPN	_	_	_	_
+
+# sent_id = gos.061-0416
+# text = oče
+1	oče	oče	_	_	MASC;NOM;SG;N	_	_	_	_
+
+# sent_id = gos.038-0275
+# text = oziroma je bil obravnavan eee dokument eee že v devetdesetih letih ne govorimo o memorandumu o piranskem zalivu
+1	oziroma	oziroma	_	_	CONJ	_	_	_	_
+2	je	biti	_	_	3;IND;SG;POS;V;FIN;PRS	_	_	_	_
+3	bil	biti	_	_	MASC;V.PTCP;V;SG	_	_	_	_
+4	obravnavan	obravnavan	_	_	SG;V.PTCP;ADJ;INDF;MASC;NOM	_	_	_	_
+5	eee	eee	_	_	INTJ	_	_	_	_
+6	dokument	dokument	_	_	MASC;NOM;SG;N	_	_	_	_
+7	eee	eee	_	_	INTJ	_	_	_	_
+8	že	že	_	_	PART	_	_	_	_
+9	v	v	_	_	ADP;ESS	_	_	_	_
+10	devetdesetih	devetdeseti	_	_	ADJ;ESS;NEUT;PL	_	_	_	_
+11	letih	leto	_	_	ESS;PL;NEUT;N	_	_	_	_
+12	ne	ne	_	_	PART	_	_	_	_
+13	govorimo	govoriti	_	_	IND;IPFV;1;PRS;V;FIN;PL	_	_	_	_
+14	o	o	_	_	ADP;ESS	_	_	_	_
+15	memorandumu	memorandum	_	_	MASC;ESS;SG;N	_	_	_	_
+16	o	o	_	_	ADP;ESS	_	_	_	_
+17	piranskem	piranski	_	_	SG;ADJ;ESS;MASC	_	_	_	_
+18	zalivu	zaliv	_	_	MASC;ESS;SG;N	_	_	_	_
+
+# sent_id = gos.013-0167
+# text = ja
+1	ja	ja	_	_	PART	_	_	_	_
+
+# sent_id = gos.022-0131
+# text = torej
+1	torej	torej	_	_	CONJ	_	_	_	_
+
+# sent_id = gos.162-0502
+# text = če bosta seveda šla vidva če ne [gap] ojo šle punce ali
+1	če	če	_	_	CONJ	_	_	_	_
+2	bosta	biti	_	_	IND;POS;FUT;V;3;DU;FIN	_	_	_	_
+3	seveda	seveda	_	_	PART	_	_	_	_
+4	šla	iti	_	_	V.PTCP;SG;FEM;V	_	_	_	_
+5	vidva	ti	_	_	MASC;NOM;DU;2;PRO	_	_	_	_
+6	če	če	_	_	CONJ	_	_	_	_
+7	ne	ne	_	_	NEG;PART	_	_	_	_
+8	[gap]	[gap]	_	_	_	_	_	_	_
+9	ojo	_	_	_	_	_	_	_	_
+10	šle	iti	_	_	PL;V.PTCP;FEM;V	_	_	_	_
+11	punce	punca	_	_	PL;N;NOM;FEM	_	_	_	_
+12	ali	ali	_	_	CONJ	_	_	_	_
+
+# sent_id = gos.063-0548
+# text = [gap] frekvenca piskanja
+1	[gap]	[gap]	_	_	_	_	_	_	_
+2	frekvenca	frekvenca	_	_	FEM;NOM;SG;N	_	_	_	_
+3	piskanja	piskanje	_	_	NEUT;SG;N;GEN	_	_	_	_
+
+# sent_id = gos.148-0066
+# text = to je nekaj božanskega kajne ?
+1	to	ta	_	_	NOM;NEUT;DET;SG	_	_	_	_
+2	je	biti	_	_	IND;POS;3;V;PRS;SG;FIN	_	_	_	_
+3	nekaj	nekaj	_	_	NOM;NEUT;DET;SG	_	_	_	_
+4	božanskega	božanski	_	_	GEN;NEUT;ADJ;SG	_	_	_	_
+5	kajne	kajne	_	_	PART	_	_	_	_
+6	?	?	_	_	_	_	_	_	_
+
+# sent_id = gos.184-0158
+# text = mhm
+1	mhm	mhm	_	_	INTJ	_	_	_	_
+
+# sent_id = gos.155-0095
+# text = adijo lahko noč
+1	adijo	adijo	_	_	INTJ	_	_	_	_
+2	lahko	lahek	_	_	FEM;ACC;ADJ;SG	_	_	_	_
+3	noč	noč	_	_	N;ACC;SG;FEM	_	_	_	_
+
+# sent_id = gos.262-0118
+# text = [pause]
+1	[pause]	[pause]	_	_	_	_	_	_	_
+
+# sent_id = gos.021-0154
+# text = preskok barve … torej moder rdeč
+1	preskok	preskok	_	_	ACC;SG;INAN;N;MASC	_	_	_	_
+2	barve	barva	_	_	FEM;SG;N;GEN	_	_	_	_
+3	…	…	_	_	_	_	_	_	_
+4	torej	torej	_	_	CONJ	_	_	_	_
+5	moder	moder	_	_	SG;ADJ;INDF;MASC;NOM	_	_	_	_
+6	rdeč	rdeč	_	_	SG;ADJ;INDF;MASC;NOM	_	_	_	_
+
+# sent_id = gos.205-0067
+# text = mhm mhm … ja ja da je čim bolj tako da se pol … nadaljuje ja
+1	mhm	mhm	_	_	INTJ	_	_	_	_
+2	mhm	mhm	_	_	INTJ	_	_	_	_
+3	…	…	_	_	_	_	_	_	_
+4	ja	ja	_	_	PART	_	_	_	_
+5	ja	ja	_	_	PART	_	_	_	_
+6	da	da	_	_	CONJ	_	_	_	_
+7	je	biti	_	_	IND;V;POS;3;PRS;SG;FIN	_	_	_	_
+8	čim	čim	_	_	ADV	_	_	_	_
+9	bolj	bolj	_	_	CMPR;ADV	_	_	_	_
+10	tako	tako	_	_	ADV	_	_	_	_
+11	da	da	_	_	CONJ	_	_	_	_
+12	se	se	_	_	PRO	_	_	_	_
+13	pol	pol	_	_	ADV	_	_	_	_
+14	…	…	_	_	_	_	_	_	_
+15	nadaljuje	nadaljevati	_	_	IND;V;IPFV;3;PRS;SG;FIN	_	_	_	_
+16	ja	ja	_	_	PART	_	_	_	_
+
+# sent_id = gos.009-0229
+# text = cimer moški
+1	cimer	cimer	_	_	MASC;NOM;SG;N	_	_	_	_
+2	moški	moški	_	_	MASC;NOM;SG;N	_	_	_	_
+
+# sent_id = gos.208-0050
+# text = a zdaj pa še za [gap] za za [gap] izpite za fonetiko za kaj za celo dva tisoč deset enajst
+1	a	a	_	_	ADV	_	_	_	_
+2	zdaj	zdaj	_	_	ADV	_	_	_	_
+3	pa	pa	_	_	CONJ	_	_	_	_
+4	še	še	_	_	PART	_	_	_	_
+5	za	za	_	_	ACC;ADP	_	_	_	_
+6	[gap]	[gap]	_	_	_	_	_	_	_
+7	za	za	_	_	ADV	_	_	_	_
+8	za	za	_	_	ACC;ADP	_	_	_	_
+9	[gap]	[gap]	_	_	_	_	_	_	_
+10	izpite	izpit	_	_	PL;MASC;N;ACC	_	_	_	_
+11	za	za	_	_	ACC;ADP	_	_	_	_
+12	fonetiko	fonetika	_	_	N;ACC;SG;FEM	_	_	_	_
+13	za	za	_	_	ACC;ADP	_	_	_	_
+14	kaj	kaj	_	_	ACC;NEUT;SG;PRO	_	_	_	_
+15	za	za	_	_	ACC;ADP	_	_	_	_
+16	celo	cel	_	_	ACC;NEUT;ADJ;SG	_	_	_	_
+17	dva	dva	_	_	MASC;ACC;NUM;DU	_	_	_	_
+18	tisoč	tisoč	_	_	PL;ACC;NUM	_	_	_	_
+19	deset	deset	_	_	PL;ACC;NUM	_	_	_	_
+20	enajst	enajst	_	_	PL;ACC;NUM	_	_	_	_
+
+# sent_id = gos.286-0382
+# text = ful ja
+1	ful	ful	_	_	ADV	_	_	_	_
+2	ja	ja	_	_	PART	_	_	_	_
+
+# sent_id = gos.161-0141
+# text = kaj ? [speaker:laughter] a nama je ušlo tole zdajle ?
+1	kaj	kaj	_	_	ADV	_	_	_	_
+2	?	?	_	_	_	_	_	_	_
+3	[speaker:laughter]	[speaker:laughter]	_	_	_	_	_	_	_
+4	a	a	_	_	ADV	_	_	_	_
+5	nama	jaz	_	_	1;DAT;DU;PRO	_	_	_	_
+6	je	biti	_	_	IND;POS;3;V;PRS;SG;FIN	_	_	_	_
+7	ušlo	uiti	_	_	PFV;V.PTCP;V;NEUT;SG	_	_	_	_
+8	tole	tale	_	_	NOM;NEUT;DET;SG	_	_	_	_
+9	zdajle	zdajle	_	_	ADV	_	_	_	_
+10	?	?	_	_	_	_	_	_	_
+
+# sent_id = gos.155-0080
+# text = od viktorije
+1	od	od	_	_	GEN;ADP	_	_	_	_
+2	viktorije	Viktorija	_	_	SG;GEN;FEM;PROPN	_	_	_	_
+
+# sent_id = gos.025-0098
+# text = u zanimivo
+1	u	u	_	_	INTJ	_	_	_	_
+2	zanimivo	zanimivo	_	_	ADV	_	_	_	_
+
+# sent_id = gos.014-0619
+# text = eee to je eem eee rastlina oddaja kisik ki ga j [gap] eee ogljikov dioksid ki ga ne potrebuje
+1	eee	eee	_	_	INTJ	_	_	_	_
+2	to	ta	_	_	NOM;NEUT;DET;SG	_	_	_	_
+3	je	biti	_	_	IND;V;POS;3;PRS;SG;FIN	_	_	_	_
+4	eem	eem	_	_	INTJ	_	_	_	_
+5	eee	eee	_	_	INTJ	_	_	_	_
+6	rastlina	rastlina	_	_	SG;N;NOM;FEM	_	_	_	_
+7	oddaja	oddajati	_	_	IND;V;IPFV;3;PRS;SG;FIN	_	_	_	_
+8	kisik	kisik	_	_	MASC;N;ACC;INAN;SG	_	_	_	_
+9	ki	ki	_	_	CONJ	_	_	_	_
+10	ga	on	_	_	MASC;3;ACC;SG;PRO	_	_	_	_
+11	j	_	_	_	_	_	_	_	_
+12	[gap]	[gap]	_	_	_	_	_	_	_
+13	eee	eee	_	_	INTJ	_	_	_	_
+14	ogljikov	ogljikov	_	_	SG;MASC;NOM;ADJ;INDF	_	_	_	_
+15	dioksid	dioksid	_	_	MASC;N;ACC;INAN;SG	_	_	_	_
+16	ki	ki	_	_	CONJ	_	_	_	_
+17	ga	on	_	_	MASC;3;GEN;SG;PRO	_	_	_	_
+18	ne	ne	_	_	NEG;PART	_	_	_	_
+19	potrebuje	potrebovati	_	_	IND;V;IPFV;3;PRS;SG;FIN	_	_	_	_
+
+# sent_id = gos.137-0585
+# text = kaj finega boš eee pojedel v kruharni izola lep dan ti želimo
+1	kaj	kaj	_	_	ACC;NEUT;SG;PRO	_	_	_	_
+2	finega	fin	_	_	GEN;NEUT;ADJ;SG	_	_	_	_
+3	boš	biti	_	_	IND;POS;FUT;V;FIN;SG;2	_	_	_	_
+4	eee	eee	_	_	INTJ	_	_	_	_
+5	pojedel	pojesti	_	_	PFV;V.PTCP;V;MASC;SG	_	_	_	_
+6	v	v	_	_	ESS;ADP	_	_	_	_
+7	kruharni	kruharna	_	_	N;ACC;SG;FEM	_	_	_	_
+8	izola	Izola	_	_	SG;NOM;FEM;PROPN	_	_	_	_
+9	lep	lep	_	_	SG;MASC;ACC;ADJ;INDF	_	_	_	_
+10	dan	dan	_	_	MASC;N;ACC;INAN;SG	_	_	_	_
+11	ti	ti	_	_	DAT;SG;2;PRO	_	_	_	_
+12	želimo	želeti	_	_	IND;V;PL;IPFV;1;PRS;FIN	_	_	_	_
+
+# sent_id = gos.056-0454
+# text = kar
+1	kar	kar	_	_	ADV	_	_	_	_
+
+# sent_id = gos.199-0325
+# text = ne to imamo mi že eee tako imava navodila kako se naloga oblikuje
+1	ne	ne	_	_	PART	_	_	_	_
+2	to	ta	_	_	ACC;NEUT;DET;SG	_	_	_	_
+3	imamo	imeti	_	_	IND;V;PL;IPFV;POS;1;PRS;FIN	_	_	_	_
+4	mi	jaz	_	_	PL;MASC;NOM;1;PRO	_	_	_	_
+5	že	že	_	_	PART	_	_	_	_
+6	eee	eee	_	_	INTJ	_	_	_	_
+7	tako	tako	_	_	ADV	_	_	_	_
+8	imava	imeti	_	_	IND;V;IPFV;POS;1;DU;PRS;FIN	_	_	_	_
+9	navodila	navodilo	_	_	PL;N;ACC;NEUT	_	_	_	_
+10	kako	kako	_	_	ADV	_	_	_	_
+11	se	se	_	_	PRO	_	_	_	_
+12	naloga	naloga	_	_	SG;N;NOM;FEM	_	_	_	_
+13	oblikuje	oblikovati	_	_	IND;V;IPFV;3;PRS;SG;FIN	_	_	_	_
+
+# sent_id = gos.063-0545
+# text = od dvajset herzov do dvajset kiloherzov
+1	od	od	_	_	ADP;GEN	_	_	_	_
+2	dvajset	dvajset	_	_	ACC;PL;NUM	_	_	_	_
+3	herzov	herz	_	_	MASC;PL;N;GEN	_	_	_	_
+4	do	do	_	_	ADP;GEN	_	_	_	_
+5	dvajset	dvajset	_	_	ACC;PL;NUM	_	_	_	_
+6	kiloherzov	kiloherz	_	_	MASC;PL;N;GEN	_	_	_	_
+
+# sent_id = gos.176-0774
+# text = [:voice] samo od uze [gap] izobraževanja samo še to da zdaj je pa marec sredina marca in mislim da moram da razen datumov za junijsko izobraževanje nimamo nič drugega še in da je zdaj pač čas da eem pač dorečemo kaj bomo in kako bomo a ne
+1	[:voice]	[:voice]	_	_	_	_	_	_	_
+2	samo	samo	_	_	PART	_	_	_	_
+3	od	od	_	_	GEN;ADP	_	_	_	_
+4	uze	_	_	_	_	_	_	_	_
+5	[gap]	[gap]	_	_	_	_	_	_	_
+6	izobraževanja	izobraževanje	_	_	SG;N;GEN;NEUT	_	_	_	_
+7	samo	samo	_	_	PART	_	_	_	_
+8	še	še	_	_	PART	_	_	_	_
+9	to	ta	_	_	NOM;NEUT;DET;SG	_	_	_	_
+10	da	da	_	_	CONJ	_	_	_	_
+11	zdaj	zdaj	_	_	ADV	_	_	_	_
+12	je	biti	_	_	IND;POS;3;V;PRS;SG;FIN	_	_	_	_
+13	pa	pa	_	_	CONJ	_	_	_	_
+14	marec	marec	_	_	MASC;SG;N;NOM	_	_	_	_
+15	sredina	sredina	_	_	SG;N;NOM;FEM	_	_	_	_
+16	marca	marec	_	_	MASC;SG;N;GEN	_	_	_	_
+17	in	in	_	_	CONJ	_	_	_	_
+18	mislim	misliti	_	_	IND;V;IPFV;1;PRS;SG;FIN	_	_	_	_
+19	da	da	_	_	CONJ	_	_	_	_
+20	moram	morati	_	_	IND;V;IPFV;1;PRS;SG;FIN	_	_	_	_
+21	da	da	_	_	CONJ	_	_	_	_
+22	razen	razen	_	_	GEN;ADP	_	_	_	_
+23	datumov	datum	_	_	PL;MASC;N;GEN	_	_	_	_
+24	za	za	_	_	ACC;ADP	_	_	_	_
+25	junijsko	junijski	_	_	ACC;NEUT;ADJ;SG	_	_	_	_
+26	izobraževanje	izobraževanje	_	_	N;ACC;SG;NEUT	_	_	_	_
+27	nimamo	imeti	_	_	IND;V;PL;NEG;IPFV;1;PRS;FIN	_	_	_	_
+28	nič	nič	_	_	ACC;NEUT;DET;SG	_	_	_	_
+29	drugega	drug	_	_	ADJ;SG;GEN;NEUT	_	_	_	_
+30	še	še	_	_	PART	_	_	_	_
+31	in	in	_	_	CONJ	_	_	_	_
+32	da	da	_	_	CONJ	_	_	_	_
+33	je	biti	_	_	IND;POS;3;V;PRS;SG;FIN	_	_	_	_
+34	zdaj	zdaj	_	_	ADV	_	_	_	_
+35	pač	pač	_	_	PART	_	_	_	_
+36	čas	čas	_	_	MASC;SG;N;NOM	_	_	_	_
+37	da	da	_	_	CONJ	_	_	_	_
+38	eem	eem	_	_	INTJ	_	_	_	_
+39	pač	pač	_	_	PART	_	_	_	_
+40	dorečemo	doreči	_	_	PFV;IND;V;PL;1;PRS;FIN	_	_	_	_
+41	kaj	kaj	_	_	ACC;NEUT;SG;PRO	_	_	_	_
+42	bomo	biti	_	_	IND;V;PL;POS;FUT;1;FIN	_	_	_	_
+43	in	in	_	_	CONJ	_	_	_	_
+44	kako	kako	_	_	ADV	_	_	_	_
+45	bomo	biti	_	_	IND;V;PL;POS;FUT;1;FIN	_	_	_	_
+46	a	a	_	_	ADV	_	_	_	_
+47	ne	ne	_	_	PART	_	_	_	_
+
+# sent_id = gos.214-0099
+# text = aha aha
+1	aha	aha	_	_	INTJ	_	_	_	_
+2	aha	aha	_	_	INTJ	_	_	_	_
+
+# sent_id = gos.167-0144
+# text = saj potem si je v bistvu sama kupila ne ali kako ?
+1	saj	saj	_	_	CONJ	_	_	_	_
+2	potem	potem	_	_	ADV	_	_	_	_
+3	si	se	_	_	DAT;PRO	_	_	_	_
+4	je	biti	_	_	IND;POS;3;V;PRS;SG;FIN	_	_	_	_
+5	v	v	_	_	ESS;ADP	_	_	_	_
+6	bistvu	bistvo	_	_	ESS;N;SG;NEUT	_	_	_	_
+7	sama	sam	_	_	FEM;NOM;ADJ;SG	_	_	_	_
+8	kupila	kupiti	_	_	PFV;V.PTCP;FEM;V;SG	_	_	_	_
+9	ne	ne	_	_	PART	_	_	_	_
+10	ali	ali	_	_	CONJ	_	_	_	_
+11	kako	kako	_	_	ADV	_	_	_	_
+12	?	?	_	_	_	_	_	_	_
+
+# sent_id = gos.262-0115
+# text = da hodiš po sredi lahko ne in še tam pri kraju lahko daš
+1	da	da	_	_	CONJ	_	_	_	_
+2	hodiš	hoditi	_	_	IND;V;IPFV;FIN;PRS;SG;2	_	_	_	_
+3	po	po	_	_	ESS;ADP	_	_	_	_
+4	sredi	sreda	_	_	ESS;N;SG;FEM	_	_	_	_
+5	lahko	lahko	_	_	ADV	_	_	_	_
+6	ne	ne	_	_	PART	_	_	_	_
+7	in	in	_	_	CONJ	_	_	_	_
+8	še	še	_	_	PART	_	_	_	_
+9	tam	tam	_	_	ADV	_	_	_	_
+10	pri	pri	_	_	ESS;ADP	_	_	_	_
+11	kraju	kraj	_	_	ESS;N;MASC;SG	_	_	_	_
+12	lahko	lahko	_	_	ADV	_	_	_	_
+13	daš	dati	_	_	PFV;IND;V;FIN;PRS;SG;2	_	_	_	_
+
+# sent_id = gos.116-0081
+# text = poglejte mi smo re [gap] mmm mmm narobe me interpretirate
+1	poglejte	pogledati	_	_	PFV;IMP;2;V;FIN;PL	_	_	_	_
+2	mi	jaz	_	_	PRO;1;MASC;NOM;PL	_	_	_	_
+3	smo	biti	_	_	IND;1;PRS;POS;V;FIN;PL	_	_	_	_
+4	re	_	_	_	_	_	_	_	_
+5	[gap]	[gap]	_	_	_	_	_	_	_
+6	mmm	mmm	_	_	INTJ	_	_	_	_
+7	mmm	mmm	_	_	INTJ	_	_	_	_
+8	narobe	narobe	_	_	ADV	_	_	_	_
+9	me	jaz	_	_	ACC;PRO;SG;1	_	_	_	_
+10	interpretirate	interpretirati	_	_	PL;IND;2;V;FIN;PRS	_	_	_	_
+
+# sent_id = gos.009-0227
+# text = mojo cimro mojega cimra
+1	mojo	moj	_	_	PSSS;ACC;FEM;SG;1;DET	_	_	_	_
+2	cimro	cimra	_	_	ACC;FEM;SG;N	_	_	_	_
+3	mojega	moj	_	_	PSSS;ACC;SG;1;DET;MASC	_	_	_	_
+4	cimra	cimer	_	_	ACC;SG;ANIM;N;MASC	_	_	_	_
+
+# sent_id = gos.241-0152
+# text = iz postaje na postajo motor skozi ali pospešuje pol zavira gre energija v nič a ne
+1	iz	iz	_	_	GEN;ADP	_	_	_	_
+2	postaje	postaja	_	_	SG;N;GEN;FEM	_	_	_	_
+3	na	na	_	_	ACC;ADP	_	_	_	_
+4	postajo	postaja	_	_	N;ACC;SG;FEM	_	_	_	_
+5	motor	motor	_	_	MASC;SG;N;NOM	_	_	_	_
+6	skozi	skozi	_	_	ADV	_	_	_	_
+7	ali	ali	_	_	CONJ	_	_	_	_
+8	pospešuje	pospeševati	_	_	IND;V;IPFV;3;PRS;SG;FIN	_	_	_	_
+9	pol	pol	_	_	ADV	_	_	_	_
+10	zavira	zavirati	_	_	IND;V;IPFV;3;PRS;SG;FIN	_	_	_	_
+11	gre	iti	_	_	IND;V;3;PRS;SG;FIN	_	_	_	_
+12	energija	energija	_	_	SG;N;NOM;FEM	_	_	_	_
+13	v	v	_	_	ACC;ADP	_	_	_	_
+14	nič	nič	_	_	ACC;NEUT;DET;SG	_	_	_	_
+15	a	a	_	_	ADV	_	_	_	_
+16	ne	ne	_	_	PART	_	_	_	_
+
+# sent_id = gos.036-0007
+# text = jah kar prosim
+1	jah	jah	_	_	INTJ	_	_	_	_
+2	kar	kar	_	_	ADV	_	_	_	_
+3	prosim	prositi	_	_	IND;V;IPFV;1;PRS;SG;FIN	_	_	_	_
+
+# sent_id = gos.247-0335
+# text = pa so bile eem
+1	pa	pa	_	_	CONJ	_	_	_	_
+2	so	biti	_	_	IND;PL;POS;3;V;PRS;FIN	_	_	_	_
+3	bile	biti	_	_	PL;V.PTCP;FEM;V	_	_	_	_
+4	eem	eem	_	_	INTJ	_	_	_	_
+
+# sent_id = gos.137-0591
+# text = dobro jutro
+1	dobro	dober	_	_	ACC;NEUT;ADJ;SG	_	_	_	_
+2	jutro	jutro	_	_	N;ACC;SG;NEUT	_	_	_	_
+
+# sent_id = gos.123-0086
+# text = jaz mislim da je danes prav da se zahvalimo tudi policistom in tem vojakom
+1	jaz	jaz	_	_	NOM;1;SG;PRO	_	_	_	_
+2	mislim	misliti	_	_	IND;V;IPFV;1;PRS;SG;FIN	_	_	_	_
+3	da	da	_	_	CONJ	_	_	_	_
+4	je	biti	_	_	IND;V;POS;3;PRS;SG;FIN	_	_	_	_
+5	danes	danes	_	_	ADV	_	_	_	_
+6	prav	prav	_	_	ADV	_	_	_	_
+7	da	da	_	_	CONJ	_	_	_	_
+8	se	se	_	_	PRO	_	_	_	_
+9	zahvalimo	zahvaliti	_	_	PFV;IND;V;PL;1;PRS;FIN	_	_	_	_
+10	tudi	tudi	_	_	PART	_	_	_	_
+11	policistom	policist	_	_	DAT;MASC;PL;N	_	_	_	_
+12	in	in	_	_	CONJ	_	_	_	_
+13	tem	ta	_	_	PL;MASC;DET;DAT	_	_	_	_
+14	vojakom	vojak	_	_	DAT;MASC;PL;N	_	_	_	_
+
+# sent_id = gos.063-0547
+# text = to je zdaj mi jim lahko višino tona s tem določamo ne
+1	to	ta	_	_	SG;DET;NOM;NEUT	_	_	_	_
+2	je	biti	_	_	3;IND;SG;POS;V;FIN;PRS	_	_	_	_
+3	zdaj	zdaj	_	_	ADV	_	_	_	_
+4	mi	jaz	_	_	PRO;1;MASC;NOM;PL	_	_	_	_
+5	jim	on	_	_	3;PRO;DAT;MASC;PL	_	_	_	_
+6	lahko	lahko	_	_	ADV	_	_	_	_
+7	višino	višina	_	_	ACC;FEM;SG;N	_	_	_	_
+8	tona	ton	_	_	MASC;SG;N;GEN	_	_	_	_
+9	s	z	_	_	ADP;INS	_	_	_	_
+10	tem	ta	_	_	INS;SG;DET;NEUT	_	_	_	_
+11	določamo	določati	_	_	IND;IPFV;1;PRS;V;FIN;PL	_	_	_	_
+12	ne	ne	_	_	PART	_	_	_	_
+
+# sent_id = gos.015-0075
+# text = kako so se ohranjale ljudske pesmi ?
+1	kako	kako	_	_	ADV	_	_	_	_
+2	so	biti	_	_	IND;PL;POS;3;V;PRS;FIN	_	_	_	_
+3	se	se	_	_	PRO	_	_	_	_
+4	ohranjale	ohranjati	_	_	V.PTCP;FEM;V;PL;IPFV	_	_	_	_
+5	ljudske	ljudski	_	_	FEM;PL;NOM;ADJ	_	_	_	_
+6	pesmi	pesem	_	_	PL;N;NOM;FEM	_	_	_	_
+7	?	?	_	_	_	_	_	_	_
+
+# sent_id = gos.248-0185
+# text = ja to bi bilo zanimivo primerjati ja … v mestu imajo tudi te ?
+1	ja	ja	_	_	PART	_	_	_	_
+2	to	ta	_	_	ACC;SG;DET;NEUT	_	_	_	_
+3	bi	biti	_	_	V;FIN;COND	_	_	_	_
+4	bilo	biti	_	_	V.PTCP;V;NEUT;SG	_	_	_	_
+5	zanimivo	zanimiv	_	_	SG;ADJ;NOM;NEUT	_	_	_	_
+6	primerjati	primerjati	_	_	V;NFIN;IPFV	_	_	_	_
+7	ja	ja	_	_	PART	_	_	_	_
+8	…	…	_	_	_	_	_	_	_
+9	v	v	_	_	ADP;ESS	_	_	_	_
+10	mestu	mesto	_	_	ESS;NEUT;SG;N	_	_	_	_
+11	imajo	imeti	_	_	3;IND;IPFV;PRS;POS;V;FIN;PL	_	_	_	_
+12	tudi	tudi	_	_	PART	_	_	_	_
+13	te	ta	_	_	ACC;DET;MASC;PL	_	_	_	_
+14	?	?	_	_	_	_	_	_	_
+
+# sent_id = gos.146-0146
+# text = ne to je pač to leto bivola in kaj to točno pomeni
+1	ne	ne	_	_	PART	_	_	_	_
+2	to	ta	_	_	SG;DET;NOM;NEUT	_	_	_	_
+3	je	biti	_	_	3;IND;SG;POS;V;FIN;PRS	_	_	_	_
+4	pač	pač	_	_	PART	_	_	_	_
+5	to	ta	_	_	SG;DET;NOM;NEUT	_	_	_	_
+6	leto	leto	_	_	NOM;NEUT;SG;N	_	_	_	_
+7	bivola	bivol	_	_	MASC;SG;N;GEN	_	_	_	_
+8	in	in	_	_	CONJ	_	_	_	_
+9	kaj	kaj	_	_	ACC;PRO;SG;NEUT	_	_	_	_
+10	to	ta	_	_	SG;DET;NOM;NEUT	_	_	_	_
+11	točno	točno	_	_	ADV	_	_	_	_
+12	pomeni	pomeniti	_	_	3;IND;SG;V;FIN;PRS	_	_	_	_
+
+# sent_id = gos.287-0059
+# text = z [name:personal] sva zamenjali četrt
+1	z	z	_	_	INS;ADP	_	_	_	_
+2	[name:personal]	[name:personal]	_	_	PROPN	_	_	_	_
+3	sva	biti	_	_	IND;POS;V;1;DU;PRS;FIN	_	_	_	_
+4	zamenjali	zamenjati	_	_	PFV;V.PTCP;FEM;V;DU	_	_	_	_
+5	četrt	četrt	_	_	DET	_	_	_	_
+
+# sent_id = gos.214-0096
+# text = ja … mhm mhm
+1	ja	ja	_	_	PART	_	_	_	_
+2	…	…	_	_	_	_	_	_	_
+3	mhm	mhm	_	_	INTJ	_	_	_	_
+4	mhm	mhm	_	_	INTJ	_	_	_	_
+
+# sent_id = gos.269-0078
+# text = [name:personal] pa ful gleda komu si to rekel ? [speaker:laughter]
+1	[name:personal]	[name:personal]	_	_	PROPN	_	_	_	_
+2	pa	pa	_	_	CONJ	_	_	_	_
+3	ful	ful	_	_	ADV	_	_	_	_
+4	gleda	gledati	_	_	3;IND;SG;IPFV;V;FIN;PRS	_	_	_	_
+5	komu	kdo	_	_	PRO;SG;DAT;MASC	_	_	_	_
+6	si	biti	_	_	IND;SG;POS;2;V;FIN;PRS	_	_	_	_
+7	to	ta	_	_	ACC;SG;DET;NEUT	_	_	_	_
+8	rekel	reči	_	_	PFV;SG;V.PTCP;MASC;V	_	_	_	_
+9	?	?	_	_	_	_	_	_	_
+10	[speaker:laughter]	[speaker:laughter]	_	_	_	_	_	_	_
+
+# sent_id = gos.001-0012
+# text = eee iz tega časa so ohranjena še razna železna orodja tudi pri nas grobišča in tudi gradišča tako imenovana na hribih
+1	eee	eee	_	_	INTJ	_	_	_	_
+2	iz	iz	_	_	ADP;GEN	_	_	_	_
+3	tega	ta	_	_	SG;GEN;DET;MASC	_	_	_	_
+4	časa	čas	_	_	MASC;SG;N;GEN	_	_	_	_
+5	so	biti	_	_	3;IND;PRS;POS;V;FIN;PL	_	_	_	_
+6	ohranjena	ohranjen	_	_	V.PTCP;ADJ;NOM;NEUT;PL	_	_	_	_
+7	še	še	_	_	PART	_	_	_	_
+8	razna	razen	_	_	ADJ;NOM;NEUT;PL	_	_	_	_
+9	železna	železen	_	_	ADJ;NOM;NEUT;PL	_	_	_	_
+10	orodja	orodje	_	_	NOM;NEUT;PL;N	_	_	_	_
+11	tudi	tudi	_	_	PART	_	_	_	_
+12	pri	pri	_	_	ADP;ESS	_	_	_	_
+13	nas	jaz	_	_	PRO;1;ESS;PL	_	_	_	_
+14	grobišča	grobišče	_	_	NOM;NEUT;PL;N	_	_	_	_
+15	in	in	_	_	CONJ	_	_	_	_
+16	tudi	tudi	_	_	PART	_	_	_	_
+17	gradišča	gradišče	_	_	NOM;NEUT;PL;N	_	_	_	_
+18	tako	tako	_	_	ADV	_	_	_	_
+19	imenovana	imenovan	_	_	V.PTCP;ADJ;NOM;NEUT;PL	_	_	_	_
+20	na	na	_	_	ADP;ESS	_	_	_	_
+21	hribih	hrib	_	_	MASC;ESS;PL;N	_	_	_	_
+
+# sent_id = gos.243-0083
+# text = [pause]
+1	[pause]	[pause]	_	_	_	_	_	_	_
+
+# sent_id = gos.015-0073
+# text = avtor ni znan
+1	avtor	avtor	_	_	MASC;SG;N;NOM	_	_	_	_
+2	ni	biti	_	_	IND;NEG;3;V;PRS;SG;FIN	_	_	_	_
+3	znan	znan	_	_	SG;V.PTCP;MASC;NOM;ADJ;INDF	_	_	_	_
+
+# sent_id = gos.162-0494
+# text = dve črni ovci
+1	dve	dva	_	_	FEM;NUM;NOM;DU	_	_	_	_
+2	črni	črn	_	_	FEM;NOM;ADJ;DU	_	_	_	_
+3	ovci	ovca	_	_	DU;N;NOM;FEM	_	_	_	_
+
+# sent_id = gos.016-0597
+# text = potem je pikastocvetna kukavica
+1	potem	potem	_	_	ADV	_	_	_	_
+2	je	biti	_	_	3;IND;SG;POS;V;FIN;PRS	_	_	_	_
+3	pikastocvetna	pikastocveten	_	_	FEM;SG;ADJ;NOM	_	_	_	_
+4	kukavica	kukavica	_	_	FEM;NOM;SG;N	_	_	_	_
+
+# sent_id = gos.189-0051
+# text = ker vse leto sem bila tako lepo zbrana devet skozi povprečje in vse skupaj
+1	ker	ker	_	_	CONJ	_	_	_	_
+2	vse	ves	_	_	ACC;NEUT;DET;SG	_	_	_	_
+3	leto	leto	_	_	N;ACC;SG;NEUT	_	_	_	_
+4	sem	biti	_	_	IND;POS;V;1;PRS;SG;FIN	_	_	_	_
+5	bila	biti	_	_	FEM;V.PTCP;SG;V	_	_	_	_
+6	tako	tako	_	_	ADV	_	_	_	_
+7	lepo	lepo	_	_	ADV	_	_	_	_
+8	zbrana	zbran	_	_	V.PTCP;FEM;NOM;ADJ;SG	_	_	_	_
+9	devet	devet	_	_	PL;NUM;NOM	_	_	_	_
+10	skozi	skozi	_	_	ADV	_	_	_	_
+11	povprečje	povprečje	_	_	SG;N;NOM;NEUT	_	_	_	_
+12	in	in	_	_	CONJ	_	_	_	_
+13	vse	ves	_	_	NOM;NEUT;DET;SG	_	_	_	_
+14	skupaj	skupaj	_	_	ADV	_	_	_	_
+
+# sent_id = gos.018-0305
+# text = eden naj govori ššš !
+1	eden	eden	_	_	SG;NUM;MASC;NOM	_	_	_	_
+2	naj	naj	_	_	PART	_	_	_	_
+3	govori	govoriti	_	_	3;IND;SG;IPFV;V;FIN;PRS	_	_	_	_
+4	ššš	ššš	_	_	INTJ	_	_	_	_
+5	!	!	_	_	_	_	_	_	_
+
+# sent_id = gos.262-0126
+# text = samo pol da tam ne bi bilo pa nič ljudi ne
+1	samo	samo	_	_	PART	_	_	_	_
+2	pol	pol	_	_	ADV	_	_	_	_
+3	da	da	_	_	CONJ	_	_	_	_
+4	tam	tam	_	_	ADV	_	_	_	_
+5	ne	ne	_	_	NEG;PART	_	_	_	_
+6	bi	biti	_	_	FIN;COND;V	_	_	_	_
+7	bilo	biti	_	_	V.PTCP;SG;NEUT;V	_	_	_	_
+8	pa	pa	_	_	CONJ	_	_	_	_
+9	nič	nič	_	_	GEN;NEUT;DET;SG	_	_	_	_
+10	ljudi	človek	_	_	PL;MASC;N;GEN	_	_	_	_
+11	ne	ne	_	_	PART	_	_	_	_
+
+# sent_id = gos.172-0201
+# text = pol bomo mi ponovili tisto kar naj bi oni bili vprašani in ponovili bomo čase
+1	pol	pol	_	_	ADV	_	_	_	_
+2	bomo	biti	_	_	IND;1;FUT;POS;V;FIN;PL	_	_	_	_
+3	mi	jaz	_	_	PRO;1;MASC;NOM;PL	_	_	_	_
+4	ponovili	ponoviti	_	_	PFV;V.PTCP;MASC;V;PL	_	_	_	_
+5	tisto	tisti	_	_	ACC;SG;DET;NEUT	_	_	_	_
+6	kar	kar	_	_	ACC;PRO;SG;NEUT	_	_	_	_
+7	naj	naj	_	_	PART	_	_	_	_
+8	bi	biti	_	_	V;FIN;COND	_	_	_	_
+9	oni	on	_	_	3;PRO;MASC;NOM;PL	_	_	_	_
+10	bili	biti	_	_	MASC;V.PTCP;V;PL	_	_	_	_
+11	vprašani	vprašan	_	_	V.PTCP;ADJ;MASC;NOM;PL	_	_	_	_
+12	in	in	_	_	CONJ	_	_	_	_
+13	ponovili	ponoviti	_	_	PFV;V.PTCP;MASC;V;PL	_	_	_	_
+14	bomo	biti	_	_	IND;1;FUT;POS;V;FIN;PL	_	_	_	_
+15	čase	čas	_	_	MASC;ACC;PL;N	_	_	_	_
+
+# sent_id = gos.015-0072
+# text = prosim
+1	prosim	prositi	_	_	IND;V;IPFV;1;PRS;SG;FIN	_	_	_	_
+
+# sent_id = gos.168-0205
+# text = anja parson torej prva smučarka ki je ostala danes brez uvrstitve in tako je morda tudi zapravila tretje mesto bronasto medaljo v skupnem seštevku svetovnega pokala kajti kathrin zettel zaostaja petinštirideset točk za parsonovo
+1	anja	Anja	_	_	SG;NOM;FEM;PROPN	_	_	_	_
+2	parson	Parson	_	_	SG;NOM;FEM;PROPN	_	_	_	_
+3	torej	torej	_	_	ADV	_	_	_	_
+4	prva	prvi	_	_	FEM;NOM;ADJ;SG	_	_	_	_
+5	smučarka	smučarka	_	_	SG;N;NOM;FEM	_	_	_	_
+6	ki	ki	_	_	CONJ	_	_	_	_
+7	je	biti	_	_	IND;POS;3;V;PRS;SG;FIN	_	_	_	_
+8	ostala	ostati	_	_	PFV;V.PTCP;FEM;V;SG	_	_	_	_
+9	danes	danes	_	_	ADV	_	_	_	_
+10	brez	brez	_	_	GEN;ADP	_	_	_	_
+11	uvrstitve	uvrstitev	_	_	SG;N;GEN;FEM	_	_	_	_
+12	in	in	_	_	CONJ	_	_	_	_
+13	tako	tako	_	_	ADV	_	_	_	_
+14	je	biti	_	_	IND;POS;3;V;PRS;SG;FIN	_	_	_	_
+15	morda	morda	_	_	PART	_	_	_	_
+16	tudi	tudi	_	_	PART	_	_	_	_
+17	zapravila	zapraviti	_	_	PFV;V.PTCP;FEM;V;SG	_	_	_	_
+18	tretje	tretji	_	_	ACC;NEUT;ADJ;SG	_	_	_	_
+19	mesto	mesto	_	_	N;ACC;SG;NEUT	_	_	_	_
+20	bronasto	bronast	_	_	FEM;ACC;ADJ;SG	_	_	_	_
+21	medaljo	medalja	_	_	N;ACC;SG;FEM	_	_	_	_
+22	v	v	_	_	ESS;ADP	_	_	_	_
+23	skupnem	skupen	_	_	MASC;ADJ;ESS;SG	_	_	_	_
+24	seštevku	seštevek	_	_	ESS;N;MASC;SG	_	_	_	_
+25	svetovnega	svetoven	_	_	MASC;GEN;ADJ;SG	_	_	_	_
+26	pokala	pokal	_	_	MASC;SG;N;GEN	_	_	_	_
+27	kajti	kajti	_	_	CONJ	_	_	_	_
+28	kathrin	Kathrin	_	_	SG;NOM;FEM;PROPN	_	_	_	_
+29	zettel	Zettel	_	_	SG;NOM;FEM;PROPN	_	_	_	_
+30	zaostaja	zaostajati	_	_	IND;V;IPFV;3;PRS;SG;FIN	_	_	_	_
+31	petinštirideset	petinštirideset	_	_	PL;ACC;NUM	_	_	_	_
+32	točk	točka	_	_	PL;N;GEN;FEM	_	_	_	_
+33	za	za	_	_	ACC;ADP	_	_	_	_
+34	parsonovo	Parsonov	_	_	FEM;ACC;ADJ;SG	_	_	_	_
+
+# sent_id = gos.050-0147
+# text = eee mi smo lani obiskali malto navezali stik eee z lokalnim klubom in je bilo druženje prav prijetno
+1	eee	eee	_	_	INTJ	_	_	_	_
+2	mi	jaz	_	_	PL;MASC;NOM;1;PRO	_	_	_	_
+3	smo	biti	_	_	IND;PL;POS;V;1;PRS;FIN	_	_	_	_
+4	lani	lani	_	_	ADV	_	_	_	_
+5	obiskali	obiskati	_	_	PFV;V.PTCP;V;PL;MASC	_	_	_	_
+6	malto	Malta	_	_	ACC;SG;FEM;PROPN	_	_	_	_
+7	navezali	navezati	_	_	PFV;V.PTCP;V;PL;MASC	_	_	_	_
+8	stik	stik	_	_	MASC;N;ACC;INAN;SG	_	_	_	_
+9	eee	eee	_	_	INTJ	_	_	_	_
+10	z	z	_	_	INS;ADP	_	_	_	_
+11	lokalnim	lokalen	_	_	MASC;ADJ;INS;SG	_	_	_	_
+12	klubom	klub	_	_	INS;N;MASC;SG	_	_	_	_
+13	in	in	_	_	CONJ	_	_	_	_
+14	je	biti	_	_	IND;POS;3;V;PRS;SG;FIN	_	_	_	_
+15	bilo	biti	_	_	NEUT;V.PTCP;SG;V	_	_	_	_
+16	druženje	druženje	_	_	SG;N;NOM;NEUT	_	_	_	_
+17	prav	prav	_	_	PART	_	_	_	_
+18	prijetno	prijeten	_	_	NOM;NEUT;ADJ;SG	_	_	_	_
+
+# sent_id = gos.164-0490
+# text = okej bom gledal v prihodnosti [audience:laughter]
+1	okej	okej	_	_	ADV	_	_	_	_
+2	bom	biti	_	_	IND;POS;FUT;V;1;SG;FIN	_	_	_	_
+3	gledal	gledati	_	_	V.PTCP;V;MASC;IPFV;SG	_	_	_	_
+4	v	v	_	_	ESS;ADP	_	_	_	_
+5	prihodnosti	prihodnost	_	_	ESS;N;SG;FEM	_	_	_	_
+6	[audience:laughter]	[audience:laughter]	_	_	_	_	_	_	_
+
+# sent_id = gos.220-0063
+# text = še bolj … ma daj [speaker:laughter]
+1	še	še	_	_	PART	_	_	_	_
+2	bolj	bolj	_	_	CMPR;ADV	_	_	_	_
+3	…	…	_	_	_	_	_	_	_
+4	ma	ma	_	_	PART	_	_	_	_
+5	daj	dati	_	_	PFV;V;FIN;IMP;SG;2	_	_	_	_
+6	[speaker:laughter]	[speaker:laughter]	_	_	_	_	_	_	_
+
+# sent_id = gos.181-0402
+# text = glej naše otroke ki so tisto pismo ravnateljici napisali
+1	glej	gledati	_	_	V;IPFV;FIN;IMP;SG;2	_	_	_	_
+2	naše	naš	_	_	PSSP;PL;MASC;ACC;DET;1	_	_	_	_
+3	otroke	otrok	_	_	PL;MASC;N;ACC	_	_	_	_
+4	ki	ki	_	_	CONJ	_	_	_	_
+5	so	biti	_	_	IND;PL;POS;3;V;PRS;FIN	_	_	_	_
+6	tisto	tisti	_	_	ACC;NEUT;DET;SG	_	_	_	_
+7	pismo	pismo	_	_	N;ACC;SG;NEUT	_	_	_	_
+8	ravnateljici	ravnateljica	_	_	DAT;N;SG;FEM	_	_	_	_
+9	napisali	napisati	_	_	PFV;V.PTCP;V;PL;MASC	_	_	_	_
+
+# sent_id = gos.174-0022
+# text = tako ime ja tako da mi to objavimo ne tako da … ta ki bo odprl internetno stran da takoj vidi ne
+1	tako	tako	_	_	ADV	_	_	_	_
+2	ime	ime	_	_	N;ACC;SG;NEUT	_	_	_	_
+3	ja	ja	_	_	PART	_	_	_	_
+4	tako	tako	_	_	ADV	_	_	_	_
+5	da	da	_	_	CONJ	_	_	_	_
+6	mi	jaz	_	_	PL;MASC;NOM;1;PRO	_	_	_	_
+7	to	ta	_	_	ACC;NEUT;DET;SG	_	_	_	_
+8	objavimo	objaviti	_	_	PFV;IND;V;PL;1;PRS;FIN	_	_	_	_
+9	ne	ne	_	_	PART	_	_	_	_
+10	tako	tako	_	_	ADV	_	_	_	_
+11	da	da	_	_	CONJ	_	_	_	_
+12	…	…	_	_	_	_	_	_	_
+13	ta	ta	_	_	MASC;NOM;DET;SG	_	_	_	_
+14	ki	ki	_	_	CONJ	_	_	_	_
+15	bo	biti	_	_	IND;POS;FUT;3;V;SG;FIN	_	_	_	_
+16	odprl	odpreti	_	_	PFV;V.PTCP;V;MASC;SG	_	_	_	_
+17	internetno	interneten	_	_	FEM;ACC;ADJ;SG	_	_	_	_
+18	stran	stran	_	_	N;ACC;SG;FEM	_	_	_	_
+19	da	da	_	_	CONJ	_	_	_	_
+20	takoj	takoj	_	_	ADV	_	_	_	_
+21	vidi	videti	_	_	IND;V;3;PRS;SG;FIN	_	_	_	_
+22	ne	ne	_	_	PART	_	_	_	_
+
+# sent_id = gos.267-0014
+# text = eee
+1	eee	eee	_	_	INTJ	_	_	_	_
+
+# sent_id = gos.252-0349
+# text = ja
+1	ja	ja	_	_	PART	_	_	_	_
+
+# sent_id = gos.223-0357
+# text = ja
+1	ja	ja	_	_	PART	_	_	_	_
+
+# sent_id = gos.020-0405
+# text = a so tisti ki so šli v delovna taborišča eem imeli več sreče od tistih ki so šli v uničevalna ?
+1	a	a	_	_	ADV	_	_	_	_
+2	so	biti	_	_	IND;PL;POS;3;V;PRS;FIN	_	_	_	_
+3	tisti	tisti	_	_	PL;MASC;NOM;DET	_	_	_	_
+4	ki	ki	_	_	CONJ	_	_	_	_
+5	so	biti	_	_	IND;PL;POS;3;V;PRS;FIN	_	_	_	_
+6	šli	iti	_	_	PL;MASC;V.PTCP;V	_	_	_	_
+7	v	v	_	_	ACC;ADP	_	_	_	_
+8	delovna	deloven	_	_	PL;ACC;NEUT;ADJ	_	_	_	_
+9	taborišča	taborišče	_	_	PL;N;ACC;NEUT	_	_	_	_
+10	eem	eem	_	_	INTJ	_	_	_	_
+11	imeli	imeti	_	_	V.PTCP;V;PL;MASC;IPFV	_	_	_	_
+12	več	več	_	_	DET	_	_	_	_
+13	sreče	sreča	_	_	SG;N;GEN;FEM	_	_	_	_
+14	od	od	_	_	GEN;ADP	_	_	_	_
+15	tistih	tisti	_	_	PL;MASC;GEN;DET	_	_	_	_
+16	ki	ki	_	_	CONJ	_	_	_	_
+17	so	biti	_	_	IND;PL;POS;3;V;PRS;FIN	_	_	_	_
+18	šli	iti	_	_	PL;MASC;V.PTCP;V	_	_	_	_
+19	v	v	_	_	ACC;ADP	_	_	_	_
+20	uničevalna	uničevalen	_	_	PL;ACC;NEUT;ADJ	_	_	_	_
+21	?	?	_	_	_	_	_	_	_
+
+# sent_id = gos.052-0253
+# text = [pause]
+1	[pause]	[pause]	_	_	_	_	_	_	_
+
+# sent_id = gos.139-0178
+# text = smo takšni mali mlajši bili pa smo tu nekaj letali pa so ta stari oča tam krave pasli te so venak že bolj takšni malo puklavi kakor če bi bili pa so gučali ka naša [name:personal] nazium hodi
+1	smo	biti	_	_	IND;PL;POS;V;1;PRS;FIN	_	_	_	_
+2	takšni	takšen	_	_	PL;MASC;NOM;DET	_	_	_	_
+3	mali	mali	_	_	PL;MASC;NOM;ADJ	_	_	_	_
+4	mlajši	mlad	_	_	CMPR;PL;MASC;NOM;ADJ	_	_	_	_
+5	bili	biti	_	_	PL;MASC;V.PTCP;V	_	_	_	_
+6	pa	pa	_	_	CONJ	_	_	_	_
+7	smo	biti	_	_	IND;PL;POS;V;1;PRS;FIN	_	_	_	_
+8	tu	tu	_	_	ADV	_	_	_	_
+9	nekaj	nekaj	_	_	DET	_	_	_	_
+10	letali	letati	_	_	V.PTCP;V;PL;MASC;IPFV	_	_	_	_
+11	pa	pa	_	_	CONJ	_	_	_	_
+12	so	biti	_	_	IND;PL;POS;3;V;PRS;FIN	_	_	_	_
+13	ta	ta	_	_	MASC;NOM;DET;SG	_	_	_	_
+14	stari	star	_	_	SG;DEF;MASC;NOM;ADJ	_	_	_	_
+15	oča	oča	_	_	MASC;SG;N;NOM	_	_	_	_
+16	tam	tam	_	_	ADV	_	_	_	_
+17	krave	krava	_	_	PL;N;ACC;FEM	_	_	_	_
+18	pasli	pasti	_	_	V.PTCP;V;PL;MASC;IPFV	_	_	_	_
+19	te	te	_	_	ADV	_	_	_	_
+20	so	biti	_	_	IND;PL;POS;3;V;PRS;FIN	_	_	_	_
+21	venak	venak	_	_	ADV	_	_	_	_
+22	že	že	_	_	PART	_	_	_	_
+23	bolj	bolj	_	_	CMPR;ADV	_	_	_	_
+24	takšni	takšen	_	_	PL;MASC;NOM;DET	_	_	_	_
+25	malo	malo	_	_	DET	_	_	_	_
+26	puklavi	puklav	_	_	PL;MASC;NOM;ADJ	_	_	_	_
+27	kakor	kakor	_	_	CONJ	_	_	_	_
+28	če	če	_	_	CONJ	_	_	_	_
+29	bi	biti	_	_	FIN;COND;V	_	_	_	_
+30	bili	biti	_	_	PL;MASC;V.PTCP;V	_	_	_	_
+31	pa	pa	_	_	CONJ	_	_	_	_
+32	so	biti	_	_	IND;PL;POS;3;V;PRS;FIN	_	_	_	_
+33	gučali	gučati	_	_	V.PTCP;V;PL;MASC;IPFV	_	_	_	_
+34	ka	ka	_	_	CONJ	_	_	_	_
+35	naša	naš	_	_	PSSP;FEM;NOM;DET;1;SG	_	_	_	_
+36	[name:personal]	[name:personal]	_	_	PROPN	_	_	_	_
+37	nazium	nazium	_	_	MASC;N;ACC;INAN;SG	_	_	_	_
+38	hodi	hoditi	_	_	IND;V;IPFV;3;PRS;SG;FIN	_	_	_	_
+
+# sent_id = gos.189-0054
+# text = vse nas malo povleče ven ne te še moremo malo potem še tiste zadnje moči da nekako pridemo k sebi v redu ne … mhm
+1	vse	ves	_	_	PL;MASC;ACC;DET	_	_	_	_
+2	nas	jaz	_	_	PL;ACC;1;PRO	_	_	_	_
+3	malo	malo	_	_	DET	_	_	_	_
+4	povleče	povleči	_	_	PFV;IND;V;3;PRS;SG;FIN	_	_	_	_
+5	ven	ven	_	_	ADV	_	_	_	_
+6	ne	ne	_	_	PART	_	_	_	_
+7	te	te	_	_	ADV	_	_	_	_
+8	še	še	_	_	PART	_	_	_	_
+9	moremo	moči	_	_	IND;V;PL;IPFV;1;PRS;FIN	_	_	_	_
+10	malo	malo	_	_	DET	_	_	_	_
+11	potem	potem	_	_	ADV	_	_	_	_
+12	še	še	_	_	PART	_	_	_	_
+13	tiste	tisti	_	_	FEM;PL;ACC;DET	_	_	_	_
+14	zadnje	zadnji	_	_	FEM;PL;ACC;ADJ	_	_	_	_
+15	moči	moč	_	_	PL;N;ACC;FEM	_	_	_	_
+16	da	da	_	_	CONJ	_	_	_	_
+17	nekako	nekako	_	_	ADV	_	_	_	_
+18	pridemo	priti	_	_	PFV;IND;V;PL;1;PRS;FIN	_	_	_	_
+19	k	k	_	_	DAT;ADP	_	_	_	_
+20	sebi	se	_	_	DAT;PRO	_	_	_	_
+21	v	v	_	_	ESS;ADP	_	_	_	_
+22	redu	red	_	_	ESS;N;MASC;SG	_	_	_	_
+23	ne	ne	_	_	PART	_	_	_	_
+24	…	…	_	_	_	_	_	_	_
+25	mhm	mhm	_	_	INTJ	_	_	_	_
+
+# sent_id = gos.028-0039
+# text = se smešno obnašajo no zadnje čase mislim sami so pripeljali do takih odnosov kakršni so se mi zdi nismo mi nič naredili pri temu
+1	se	se	_	_	PRO	_	_	_	_
+2	smešno	smešno	_	_	ADV	_	_	_	_
+3	obnašajo	obnašati	_	_	IND;V;PL;IPFV;3;PRS;FIN	_	_	_	_
+4	no	no	_	_	PART	_	_	_	_
+5	zadnje	zadnji	_	_	PL;MASC;ACC;ADJ	_	_	_	_
+6	čase	čas	_	_	PL;MASC;N;ACC	_	_	_	_
+7	mislim	misliti	_	_	IND;V;IPFV;1;PRS;SG;FIN	_	_	_	_
+8	sami	sam	_	_	PL;MASC;NOM;ADJ	_	_	_	_
+9	so	biti	_	_	IND;PL;POS;3;V;PRS;FIN	_	_	_	_
+10	pripeljali	pripeljati	_	_	PFV;V.PTCP;V;PL;MASC	_	_	_	_
+11	do	do	_	_	GEN;ADP	_	_	_	_
+12	takih	tak	_	_	PL;MASC;GEN;DET	_	_	_	_
+13	odnosov	odnos	_	_	PL;MASC;N;GEN	_	_	_	_
+14	kakršni	kakršen	_	_	PL;MASC;NOM;DET	_	_	_	_
+15	so	biti	_	_	IND;PL;POS;3;V;PRS;FIN	_	_	_	_
+16	se	se	_	_	PRO	_	_	_	_
+17	mi	jaz	_	_	1;DAT;SG;PRO	_	_	_	_
+18	zdi	zdeti	_	_	IND;V;IPFV;3;PRS;SG;FIN	_	_	_	_
+19	nismo	biti	_	_	IND;PL;NEG;V;1;PRS;FIN	_	_	_	_
+20	mi	jaz	_	_	PL;MASC;NOM;1;PRO	_	_	_	_
+21	nič	nič	_	_	ACC;NEUT;DET;SG	_	_	_	_
+22	naredili	narediti	_	_	PFV;V.PTCP;V;PL;MASC	_	_	_	_
+23	pri	pri	_	_	ESS;ADP	_	_	_	_
+24	temu	ta	_	_	MASC;DET;DAT;SG	_	_	_	_
+
+# sent_id = gos.015-0064
+# text = mmm [gap]
+1	mmm	mmm	_	_	INTJ	_	_	_	_
+2	[gap]	[gap]	_	_	_	_	_	_	_
+
+# sent_id = gos.275-0130
+# text = res ker itak mislim so tako joj res
+1	res	res	_	_	ADV	_	_	_	_
+2	ker	ker	_	_	CONJ	_	_	_	_
+3	itak	itak	_	_	PART	_	_	_	_
+4	mislim	misliti	_	_	IND;SG;IPFV;1;V;FIN;PRS	_	_	_	_
+5	so	biti	_	_	3;IND;PRS;POS;V;FIN;PL	_	_	_	_
+6	tako	tako	_	_	ADV	_	_	_	_
+7	joj	joj	_	_	INTJ	_	_	_	_
+8	res	res	_	_	ADV	_	_	_	_
+
+# sent_id = gos.135-0643
+# text = to je pesmica torej green green grass of home in trije znani recimo temu svetovno slavni zvezdniki
+1	to	ta	_	_	NOM;NEUT;DET;SG	_	_	_	_
+2	je	biti	_	_	IND;POS;3;V;PRS;SG;FIN	_	_	_	_
+3	pesmica	pesmica	_	_	SG;N;NOM;FEM	_	_	_	_
+4	torej	torej	_	_	CONJ	_	_	_	_
+5	green	green	_	_	_	_	_	_	_
+6	green	green	_	_	_	_	_	_	_
+7	grass	grass	_	_	_	_	_	_	_
+8	of	of	_	_	_	_	_	_	_
+9	home	home	_	_	_	_	_	_	_
+10	in	in	_	_	CONJ	_	_	_	_
+11	trije	trije	_	_	PL;MASC;NUM;NOM	_	_	_	_
+12	znani	znan	_	_	V.PTCP;PL;MASC;NOM;ADJ	_	_	_	_
+13	recimo	reči	_	_	PFV;V;PL;1;IMP;FIN	_	_	_	_
+14	temu	ta	_	_	NEUT;DET;DAT;SG	_	_	_	_
+15	svetovno	svetovno	_	_	ADV	_	_	_	_
+16	slavni	slaven	_	_	PL;MASC;NOM;ADJ	_	_	_	_
+17	zvezdniki	zvezdnik	_	_	PL;MASC;N;NOM	_	_	_	_
+
+# sent_id = gos.252-0365
+# text = nič jih ne briga kaj rečeš
+1	nič	nič	_	_	ADV	_	_	_	_
+2	jih	on	_	_	3;PRO;GEN;MASC;PL	_	_	_	_
+3	ne	ne	_	_	NEG;PART	_	_	_	_
+4	briga	brigati	_	_	3;IND;SG;IPFV;V;FIN;PRS	_	_	_	_
+5	kaj	kaj	_	_	ACC;PRO;SG;NEUT	_	_	_	_
+6	rečeš	reči	_	_	PFV;IND;SG;2;V;FIN;PRS	_	_	_	_
+
+# sent_id = gos.022-0121
+# text = eee to je zdaj tisto kje jo bomo pa narisali
+1	eee	eee	_	_	INTJ	_	_	_	_
+2	to	ta	_	_	NOM;NEUT;DET;SG	_	_	_	_
+3	je	biti	_	_	IND;POS;3;V;PRS;SG;FIN	_	_	_	_
+4	zdaj	zdaj	_	_	ADV	_	_	_	_
+5	tisto	tisti	_	_	NOM;NEUT;DET;SG	_	_	_	_
+6	kje	kje	_	_	ADV	_	_	_	_
+7	jo	on	_	_	FEM;3;ACC;SG;PRO	_	_	_	_
+8	bomo	biti	_	_	IND;PL;POS;FUT;V;1;FIN	_	_	_	_
+9	pa	pa	_	_	CONJ	_	_	_	_
+10	narisali	narisati	_	_	PFV;V.PTCP;V;PL;MASC	_	_	_	_
+
+# sent_id = gos.008-0062
+# text = [pause]
+1	[pause]	[pause]	_	_	_	_	_	_	_
+
+# sent_id = gos.051-0260
+# text = [gap]
+1	[gap]	[gap]	_	_	_	_	_	_	_
+
+# sent_id = gos.022-0123
+# text = narisali jo boste pa takole eee tako dol
+1	narisali	narisati	_	_	PFV;V.PTCP;V;PL;MASC	_	_	_	_
+2	jo	on	_	_	FEM;3;ACC;SG;PRO	_	_	_	_
+3	boste	biti	_	_	IND;PL;POS;FUT;V;FIN;2	_	_	_	_
+4	pa	pa	_	_	CONJ	_	_	_	_
+5	takole	takole	_	_	ADV	_	_	_	_
+6	eee	eee	_	_	INTJ	_	_	_	_
+7	tako	tako	_	_	ADV	_	_	_	_
+8	dol	dol	_	_	ADV	_	_	_	_
+
+# sent_id = gos.050-0151
+# text = eee to se bo očitno razmahnilo
+1	eee	eee	_	_	INTJ	_	_	_	_
+2	to	ta	_	_	NOM;NEUT;DET;SG	_	_	_	_
+3	se	se	_	_	PRO	_	_	_	_
+4	bo	biti	_	_	IND;POS;FUT;3;V;SG;FIN	_	_	_	_
+5	očitno	očitno	_	_	ADV	_	_	_	_
+6	razmahnilo	razmahniti	_	_	PFV;V.PTCP;V;NEUT;SG	_	_	_	_
+
+# sent_id = gos.156-0023
+# text = eee torej on [gap] o [gap]
+1	eee	eee	_	_	INTJ	_	_	_	_
+2	torej	torej	_	_	CONJ	_	_	_	_
+3	on	_	_	_	_	_	_	_	_
+4	[gap]	[gap]	_	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	[gap]	[gap]	_	_	_	_	_	_	_
+
+# sent_id = gos.130-0160
+# text = jaz sem pa to že zjutraj o tem razglabljal ne
+1	jaz	jaz	_	_	NOM;1;SG;PRO	_	_	_	_
+2	sem	biti	_	_	IND;POS;V;1;PRS;SG;FIN	_	_	_	_
+3	pa	pa	_	_	CONJ	_	_	_	_
+4	to	ta	_	_	ACC;NEUT;DET;SG	_	_	_	_
+5	že	že	_	_	PART	_	_	_	_
+6	zjutraj	zjutraj	_	_	ADV	_	_	_	_
+7	o	o	_	_	ESS;ADP	_	_	_	_
+8	tem	ta	_	_	NEUT;DET;ESS;SG	_	_	_	_
+9	razglabljal	razglabljati	_	_	V.PTCP;V;MASC;IPFV;SG	_	_	_	_
+10	ne	ne	_	_	PART	_	_	_	_
+
+# sent_id = gos.160-0163
+# text = to pa kar lahko z roko
+1	to	ta	_	_	ACC;SG;DET;NEUT	_	_	_	_
+2	pa	pa	_	_	CONJ	_	_	_	_
+3	kar	kar	_	_	ADV	_	_	_	_
+4	lahko	lahko	_	_	ADV	_	_	_	_
+5	z	z	_	_	ADP;INS	_	_	_	_
+6	roko	roka	_	_	FEM;INS;SG;N	_	_	_	_
+
+# sent_id = gos.239-0007
+# text = aha
+1	aha	aha	_	_	INTJ	_	_	_	_
+
+# sent_id = gos.001-0015
+# text = bomo videli če bo to potegnilo ja
+1	bomo	biti	_	_	IND;1;FUT;POS;V;FIN;PL	_	_	_	_
+2	videli	videti	_	_	MASC;V.PTCP;V;PL	_	_	_	_
+3	če	če	_	_	CONJ	_	_	_	_
+4	bo	biti	_	_	3;IND;SG;FUT;POS;V;FIN	_	_	_	_
+5	to	ta	_	_	SG;DET;NOM;NEUT	_	_	_	_
+6	potegnilo	potegniti	_	_	PFV;SG;V.PTCP;V;NEUT	_	_	_	_
+7	ja	ja	_	_	PART	_	_	_	_
+
+# sent_id = gos.236-0360
+# text = pol pa v oklepaju piše le za ta to pa to vizo lahko trideset dni ostaneš
+1	pol	pol	_	_	ADV	_	_	_	_
+2	pa	pa	_	_	CONJ	_	_	_	_
+3	v	v	_	_	ESS;ADP	_	_	_	_
+4	oklepaju	oklepaj	_	_	ESS;N;MASC;SG	_	_	_	_
+5	piše	pisati	_	_	IND;V;IPFV;3;PRS;SG;FIN	_	_	_	_
+6	le	le	_	_	PART	_	_	_	_
+7	za	za	_	_	ACC;ADP	_	_	_	_
+8	ta	ta	_	_	MASC;ACC;DET;SG	_	_	_	_
+9	to	ta	_	_	FEM;ACC;DET;SG	_	_	_	_
+10	pa	pa	_	_	CONJ	_	_	_	_
+11	to	ta	_	_	FEM;ACC;DET;SG	_	_	_	_
+12	vizo	viza	_	_	N;ACC;SG;FEM	_	_	_	_
+13	lahko	lahko	_	_	ADV	_	_	_	_
+14	trideset	trideset	_	_	PL;ACC;NUM	_	_	_	_
+15	dni	dan	_	_	PL;MASC;N;GEN	_	_	_	_
+16	ostaneš	ostati	_	_	PFV;IND;V;FIN;PRS;SG;2	_	_	_	_
+
+# sent_id = gos.032-0073
+# text = ampak pri nas mislim da je glede na to da je manjši zapor eee da je več ali manj bolj en šef na vrhu
+1	ampak	ampak	_	_	CONJ	_	_	_	_
+2	pri	pri	_	_	ESS;ADP	_	_	_	_
+3	nas	jaz	_	_	PL;1;ESS;PRO	_	_	_	_
+4	mislim	misliti	_	_	IND;V;IPFV;1;PRS;SG;FIN	_	_	_	_
+5	da	da	_	_	CONJ	_	_	_	_
+6	je	biti	_	_	IND;V;POS;3;PRS;SG;FIN	_	_	_	_
+7	glede	glede	_	_	ADV	_	_	_	_
+8	na	na	_	_	ACC;ADP	_	_	_	_
+9	to	ta	_	_	ACC;NEUT;DET;SG	_	_	_	_
+10	da	da	_	_	CONJ	_	_	_	_
+11	je	biti	_	_	IND;V;POS;3;PRS;SG;FIN	_	_	_	_
+12	manjši	majhen	_	_	CMPR;DEF;MASC;NOM;ADJ;SG	_	_	_	_
+13	zapor	zapor	_	_	MASC;SG;N;NOM	_	_	_	_
+14	eee	eee	_	_	INTJ	_	_	_	_
+15	da	da	_	_	CONJ	_	_	_	_
+16	je	biti	_	_	IND;V;POS;3;PRS;SG;FIN	_	_	_	_
+17	več	več	_	_	DET	_	_	_	_
+18	ali	ali	_	_	CONJ	_	_	_	_
+19	manj	manj	_	_	DET	_	_	_	_
+20	bolj	bolj	_	_	CMPR;ADV	_	_	_	_
+21	en	en	_	_	MASC;NUM;NOM;SG	_	_	_	_
+22	šef	šef	_	_	MASC;SG;N;NOM	_	_	_	_
+23	na	na	_	_	ESS;ADP	_	_	_	_
+24	vrhu	vrh	_	_	ESS;N;MASC;SG	_	_	_	_
+
+# sent_id = gos.043-0081
+# text = kot bomo slišali v nadaljevanju ekonomista vašega kolega [name:personal] [name:surname] [name:surname] je eee slovenija v tej finančni krizi nemočna je odvisna od dinamike na globalnem trgu lahko pa kot pravi eee [name:personal] [name:surname] [name:surname] ublažimo posledice krize
+1	kot	kot	_	_	CONJ	_	_	_	_
+2	bomo	biti	_	_	IND;PL;POS;FUT;V;1;FIN	_	_	_	_
+3	slišali	slišati	_	_	PL;MASC;V.PTCP;V	_	_	_	_
+4	v	v	_	_	ESS;ADP	_	_	_	_
+5	nadaljevanju	nadaljevanje	_	_	ESS;N;SG;NEUT	_	_	_	_
+6	ekonomista	ekonomist	_	_	MASC;N;ACC;ANIM;SG	_	_	_	_
+7	vašega	vaš	_	_	PSSP;MASC;ACC;DET;SG;2	_	_	_	_
+8	kolega	kolega	_	_	MASC;N;ACC;ANIM;SG	_	_	_	_
+9	[name:personal]	[name:personal]	_	_	PROPN	_	_	_	_
+10	[name:surname]	[name:surname]	_	_	PROPN	_	_	_	_
+11	[name:surname]	[name:surname]	_	_	PROPN	_	_	_	_
+12	je	biti	_	_	IND;POS;3;V;PRS;SG;FIN	_	_	_	_
+13	eee	eee	_	_	INTJ	_	_	_	_
+14	slovenija	Slovenija	_	_	SG;NOM;FEM;PROPN	_	_	_	_
+15	v	v	_	_	ESS;ADP	_	_	_	_
+16	tej	ta	_	_	FEM;DET;ESS;SG	_	_	_	_
+17	finančni	finančen	_	_	FEM;ADJ;ESS;SG	_	_	_	_
+18	krizi	kriza	_	_	ESS;N;SG;FEM	_	_	_	_
+19	nemočna	nemočen	_	_	FEM;NOM;ADJ;SG	_	_	_	_
+20	je	biti	_	_	IND;POS;3;V;PRS;SG;FIN	_	_	_	_
+21	odvisna	odvisen	_	_	FEM;NOM;ADJ;SG	_	_	_	_
+22	od	od	_	_	GEN;ADP	_	_	_	_
+23	dinamike	dinamika	_	_	SG;N;GEN;FEM	_	_	_	_
+24	na	na	_	_	ESS;ADP	_	_	_	_
+25	globalnem	globalen	_	_	MASC;ADJ;ESS;SG	_	_	_	_
+26	trgu	trg	_	_	ESS;N;MASC;SG	_	_	_	_
+27	lahko	lahko	_	_	ADV	_	_	_	_
+28	pa	pa	_	_	CONJ	_	_	_	_
+29	kot	kot	_	_	CONJ	_	_	_	_
+30	pravi	praviti	_	_	IND;V;3;PRS;SG;FIN	_	_	_	_
+31	eee	eee	_	_	INTJ	_	_	_	_
+32	[name:personal]	[name:personal]	_	_	PROPN	_	_	_	_
+33	[name:surname]	[name:surname]	_	_	PROPN	_	_	_	_
+34	[name:surname]	[name:surname]	_	_	PROPN	_	_	_	_
+35	ublažimo	ublažiti	_	_	PFV;IND;V;PL;1;PRS;FIN	_	_	_	_
+36	posledice	posledica	_	_	PL;N;ACC;FEM	_	_	_	_
+37	krize	kriza	_	_	SG;N;GEN;FEM	_	_	_	_
+
+# sent_id = gos.013-0161
+# text = se pravi iztisneš zrak ven ne
+1	se	se	_	_	PRO	_	_	_	_
+2	pravi	praviti	_	_	IND;V;3;PRS;SG;FIN	_	_	_	_
+3	iztisneš	iztisniti	_	_	PFV;IND;V;FIN;PRS;SG;2	_	_	_	_
+4	zrak	zrak	_	_	MASC;N;ACC;INAN;SG	_	_	_	_
+5	ven	ven	_	_	ADV	_	_	_	_
+6	ne	ne	_	_	PART	_	_	_	_
+
+# sent_id = gos.167-0145
+# text = eee letos sem ji lep kostimček kupil se [gap] … eee da [audience:laughter]
+1	eee	eee	_	_	INTJ	_	_	_	_
+2	letos	letos	_	_	ADV	_	_	_	_
+3	sem	biti	_	_	IND;POS;V;1;PRS;SG;FIN	_	_	_	_
+4	ji	on	_	_	FEM;3;DAT;SG;PRO	_	_	_	_
+5	lep	lep	_	_	SG;MASC;ACC;ADJ;INDF	_	_	_	_
+6	kostimček	kostimček	_	_	MASC;N;ACC;INAN;SG	_	_	_	_
+7	kupil	kupiti	_	_	PFV;V.PTCP;V;MASC;SG	_	_	_	_
+8	se	_	_	_	_	_	_	_	_
+9	[gap]	[gap]	_	_	_	_	_	_	_
+10	…	…	_	_	_	_	_	_	_
+11	eee	eee	_	_	INTJ	_	_	_	_
+12	da	da	_	_	PART	_	_	_	_
+13	[audience:laughter]	[audience:laughter]	_	_	_	_	_	_	_
+
+# sent_id = gos.013-0162
+# text = no napiši daj
+1	no	no	_	_	PART	_	_	_	_
+2	napiši	napisati	_	_	PFV;V;FIN;IMP;SG;2	_	_	_	_
+3	daj	dati	_	_	PFV;V;FIN;IMP;SG;2	_	_	_	_
+
+# sent_id = gos.110-0001
+# text = da bi to izvedeli obiščemo prvega delovnega inšpektorja v državi ki nam pove da pri delavcih domačih in tujih vsako leto odkrijejo nekaj sto kršitev delovnih pravic največ prav na gradbiščih
+1	da	da	_	_	CONJ	_	_	_	_
+2	bi	biti	_	_	V;FIN;COND	_	_	_	_
+3	to	ta	_	_	ACC;SG;DET;NEUT	_	_	_	_
+4	izvedeli	izvedeti	_	_	PFV;V.PTCP;MASC;V;PL	_	_	_	_
+5	obiščemo	obiskati	_	_	PFV;IND;1;PRS;V;FIN;PL	_	_	_	_
+6	prvega	prvi	_	_	ACC;SG;ADJ;MASC	_	_	_	_
+7	delovnega	deloven	_	_	ACC;SG;ADJ;MASC	_	_	_	_
+8	inšpektorja	inšpektor	_	_	ACC;SG;ANIM;N;MASC	_	_	_	_
+9	v	v	_	_	ADP;ESS	_	_	_	_
+10	državi	država	_	_	ESS;FEM;SG;N	_	_	_	_
+11	ki	ki	_	_	CONJ	_	_	_	_
+12	nam	jaz	_	_	PRO;DAT;1;PL	_	_	_	_
+13	pove	povedati	_	_	3;PFV;IND;SG;V;FIN;PRS	_	_	_	_
+14	da	da	_	_	CONJ	_	_	_	_
+15	pri	pri	_	_	ADP;ESS	_	_	_	_
+16	delavcih	delavec	_	_	MASC;ESS;PL;N	_	_	_	_
+17	domačih	domač	_	_	GEN;ADJ;MASC;PL	_	_	_	_
+18	in	in	_	_	CONJ	_	_	_	_
+19	tujih	tuj	_	_	GEN;ADJ;MASC;PL	_	_	_	_
+20	vsako	vsak	_	_	ACC;SG;DET;NEUT	_	_	_	_
+21	leto	leto	_	_	ACC;NEUT;SG;N	_	_	_	_
+22	odkrijejo	odkriti	_	_	3;PFV;IND;PRS;V;FIN;PL	_	_	_	_
+23	nekaj	nekaj	_	_	DET	_	_	_	_
+24	sto	sto	_	_	ACC;PL;NUM	_	_	_	_
+25	kršitev	kršitev	_	_	FEM;PL;N;GEN	_	_	_	_
+26	delovnih	deloven	_	_	FEM;GEN;ADJ;PL	_	_	_	_
+27	pravic	pravica	_	_	FEM;PL;N;GEN	_	_	_	_
+28	največ	največ	_	_	DET	_	_	_	_
+29	prav	prav	_	_	PART	_	_	_	_
+30	na	na	_	_	ADP;ESS	_	_	_	_
+31	gradbiščih	gradbišče	_	_	ESS;PL;NEUT;N	_	_	_	_
+
+# sent_id = gos.214-0097
+# text = to pa več ali manj že imajo vsi trekingi od tistega recimo bom rekel od štiristo evrov naprej
+1	to	ta	_	_	ACC;NEUT;DET;SG	_	_	_	_
+2	pa	pa	_	_	CONJ	_	_	_	_
+3	več	več	_	_	DET	_	_	_	_
+4	ali	ali	_	_	CONJ	_	_	_	_
+5	manj	manj	_	_	DET	_	_	_	_
+6	že	že	_	_	PART	_	_	_	_
+7	imajo	imeti	_	_	IND;V;PL;IPFV;POS;3;PRS;FIN	_	_	_	_
+8	vsi	ves	_	_	PL;MASC;NOM;DET	_	_	_	_
+9	trekingi	treking	_	_	PL;MASC;N;NOM	_	_	_	_
+10	od	od	_	_	GEN;ADP	_	_	_	_
+11	tistega	tisti	_	_	MASC;GEN;DET;SG	_	_	_	_
+12	recimo	reči	_	_	PFV;V;PL;1;IMP;FIN	_	_	_	_
+13	bom	biti	_	_	IND;POS;FUT;V;1;SG;FIN	_	_	_	_
+14	rekel	reči	_	_	PFV;V.PTCP;V;MASC;SG	_	_	_	_
+15	od	od	_	_	GEN;ADP	_	_	_	_
+16	štiristo	štiristo	_	_	PL;ACC;NUM	_	_	_	_
+17	evrov	evro	_	_	PL;MASC;N;GEN	_	_	_	_
+18	naprej	naprej	_	_	ADV	_	_	_	_
+
+# sent_id = gos.074-0278
+# text = ja no [speaker:laughter] tajkunov seveda ni ustvaril janez janša … če ste njega mislili ne
+1	ja	ja	_	_	PART	_	_	_	_
+2	no	no	_	_	PART	_	_	_	_
+3	[speaker:laughter]	[speaker:laughter]	_	_	_	_	_	_	_
+4	tajkunov	tajkun	_	_	PL;MASC;N;GEN	_	_	_	_
+5	seveda	seveda	_	_	PART	_	_	_	_
+6	ni	biti	_	_	IND;NEG;3;V;PRS;SG;FIN	_	_	_	_
+7	ustvaril	ustvariti	_	_	PFV;V.PTCP;V;MASC;SG	_	_	_	_
+8	janez	Janez	_	_	MASC;SG;NOM;PROPN	_	_	_	_
+9	janša	Janša	_	_	MASC;SG;NOM;PROPN	_	_	_	_
+10	…	…	_	_	_	_	_	_	_
+11	če	če	_	_	CONJ	_	_	_	_
+12	ste	biti	_	_	IND;PL;POS;V;FIN;PRS;2	_	_	_	_
+13	njega	on	_	_	MASC;3;ACC;SG;PRO	_	_	_	_
+14	mislili	misliti	_	_	V.PTCP;V;PL;MASC;IPFV	_	_	_	_
+15	ne	ne	_	_	PART	_	_	_	_
+
+# sent_id = gos.032-0072
+# text = ponava [gap] ponavadi če je seveda z večji zapor eee lahko gre tudi za več teh eee skupin eee mmm ki se pač med sabo bojujejo za za dobiček eee p [gap] ki ga dobivajo seveda pri nelegalne dejavnosti kot predvsem trgovanje z mamili
+1	ponava	_	_	_	_	_	_	_	_
+2	[gap]	[gap]	_	_	_	_	_	_	_
+3	ponavadi	ponavadi	_	_	ADV	_	_	_	_
+4	če	če	_	_	CONJ	_	_	_	_
+5	je	biti	_	_	IND;V;POS;3;PRS;SG;FIN	_	_	_	_
+6	seveda	seveda	_	_	PART	_	_	_	_
+7	z	z	_	_	INS;ADP	_	_	_	_
+8	večji	velik	_	_	CMPR;DEF;MASC;NOM;ADJ;SG	_	_	_	_
+9	zapor	zapor	_	_	MASC;SG;N;NOM	_	_	_	_
+10	eee	eee	_	_	INTJ	_	_	_	_
+11	lahko	lahko	_	_	ADV	_	_	_	_
+12	gre	iti	_	_	IND;V;3;PRS;SG;FIN	_	_	_	_
+13	tudi	tudi	_	_	PART	_	_	_	_
+14	za	za	_	_	ACC;ADP	_	_	_	_
+15	več	več	_	_	DET	_	_	_	_
+16	teh	ta	_	_	FEM;PL;GEN;DET	_	_	_	_
+17	eee	eee	_	_	INTJ	_	_	_	_
+18	skupin	skupina	_	_	PL;N;GEN;FEM	_	_	_	_
+19	eee	eee	_	_	INTJ	_	_	_	_
+20	mmm	mmm	_	_	INTJ	_	_	_	_
+21	ki	ki	_	_	CONJ	_	_	_	_
+22	se	se	_	_	PRO	_	_	_	_
+23	pač	pač	_	_	PART	_	_	_	_
+24	med	med	_	_	INS;ADP	_	_	_	_
+25	sabo	se	_	_	INS;PRO	_	_	_	_
+26	bojujejo	bojevati	_	_	IND;V;PL;IPFV;3;PRS;FIN	_	_	_	_
+27	za	za	_	_	ACC;ADP	_	_	_	_
+28	za	za	_	_	ACC;ADP	_	_	_	_
+29	dobiček	dobiček	_	_	MASC;N;ACC;INAN;SG	_	_	_	_
+30	eee	eee	_	_	INTJ	_	_	_	_
+31	p	_	_	_	_	_	_	_	_
+32	[gap]	[gap]	_	_	_	_	_	_	_
+33	ki	ki	_	_	CONJ	_	_	_	_
+34	ga	on	_	_	MASC;3;ACC;SG;PRO	_	_	_	_
+35	dobivajo	dobivati	_	_	IND;V;PL;IPFV;3;PRS;FIN	_	_	_	_
+36	seveda	seveda	_	_	PART	_	_	_	_
+37	pri	pri	_	_	ESS;ADP	_	_	_	_
+38	nelegalne	nelegalen	_	_	FEM;PL;NOM;ADJ	_	_	_	_
+39	dejavnosti	dejavnost	_	_	PL;N;NOM;FEM	_	_	_	_
+40	kot	kot	_	_	CONJ	_	_	_	_
+41	predvsem	predvsem	_	_	PART	_	_	_	_
+42	trgovanje	trgovanje	_	_	SG;N;NOM;NEUT	_	_	_	_
+43	z	z	_	_	INS;ADP	_	_	_	_
+44	mamili	mamilo	_	_	PL;INS;N;NEUT	_	_	_	_
+
+# sent_id = gos.236-0372
+# text = ne vem
+1	ne	ne	_	_	NEG;PART	_	_	_	_
+2	vem	vedeti	_	_	IND;V;IPFV;1;PRS;SG;FIN	_	_	_	_
+
+# sent_id = gos.164-0485
+# text = ne bo tako hudo [speaker:laughter]
+1	ne	ne	_	_	NEG;PART	_	_	_	_
+2	bo	biti	_	_	IND;POS;FUT;3;V;SG;FIN	_	_	_	_
+3	tako	tako	_	_	ADV	_	_	_	_
+4	hudo	hud	_	_	NOM;NEUT;ADJ;SG	_	_	_	_
+5	[speaker:laughter]	[speaker:laughter]	_	_	_	_	_	_	_
+
+# sent_id = gos.244-0415
+# text = to ne bo problem ne
+1	to	ta	_	_	NOM;NEUT;DET;SG	_	_	_	_
+2	ne	ne	_	_	NEG;PART	_	_	_	_
+3	bo	biti	_	_	IND;POS;FUT;3;V;SG;FIN	_	_	_	_
+4	problem	problem	_	_	MASC;SG;N;NOM	_	_	_	_
+5	ne	ne	_	_	PART	_	_	_	_
+
+# sent_id = gos.186-0139
+# text = mhm
+1	mhm	mhm	_	_	INTJ	_	_	_	_
+
+# sent_id = gos.188-0139
+# text = potem mi pa potem mi boste pa pripravili na strani in pol vaš komentar
+1	potem	potem	_	_	ADV	_	_	_	_
+2	mi	jaz	_	_	PL;MASC;NOM;1;PRO	_	_	_	_
+3	pa	pa	_	_	CONJ	_	_	_	_
+4	potem	potem	_	_	ADV	_	_	_	_
+5	mi	jaz	_	_	1;DAT;SG;PRO	_	_	_	_
+6	boste	biti	_	_	IND;PL;POS;FUT;V;FIN;2	_	_	_	_
+7	pa	pa	_	_	CONJ	_	_	_	_
+8	pripravili	pripraviti	_	_	PFV;V.PTCP;V;PL;MASC	_	_	_	_
+9	na	na	_	_	ESS;ADP	_	_	_	_
+10	strani	stran	_	_	ESS;N;SG;FEM	_	_	_	_
+11	in	in	_	_	CONJ	_	_	_	_
+12	pol	pol	_	_	DET	_	_	_	_
+13	vaš	vaš	_	_	PSSP;MASC;ACC;DET;SG;2	_	_	_	_
+14	komentar	komentar	_	_	MASC;N;ACC;INAN;SG	_	_	_	_
+
+# sent_id = gos.268-0213
+# text = [gap] ga ima takrat [speaker:laughter]
+1	[gap]	[gap]	_	_	_	_	_	_	_
+2	ga	on	_	_	MASC;3;ACC;SG;PRO	_	_	_	_
+3	ima	imeti	_	_	IND;V;IPFV;POS;3;PRS;SG;FIN	_	_	_	_
+4	takrat	takrat	_	_	ADV	_	_	_	_
+5	[speaker:laughter]	[speaker:laughter]	_	_	_	_	_	_	_
+
+# sent_id = gos.051-0262
+# text = [gap] doživetje
+1	[gap]	[gap]	_	_	_	_	_	_	_
+2	doživetje	doživetje	_	_	N;ACC;SG;NEUT	_	_	_	_
+
+# sent_id = gos.194-0598
+# text = ja
+1	ja	ja	_	_	PART	_	_	_	_
+
+# sent_id = gos.141-0337
+# text = jutro
+1	jutro	jutro	_	_	NOM;NEUT;SG;N	_	_	_	_
+
+# sent_id = gos.219-0092
+# text = aja oni je bil tu v zrečah nekaj pri eni teti ali kako
+1	aja	aja	_	_	INTJ	_	_	_	_
+2	oni	oni	_	_	SG;DET;MASC;NOM	_	_	_	_
+3	je	biti	_	_	3;IND;SG;POS;V;FIN;PRS	_	_	_	_
+4	bil	biti	_	_	MASC;V.PTCP;V;SG	_	_	_	_
+5	tu	tu	_	_	ADV	_	_	_	_
+6	v	v	_	_	ADP;ESS	_	_	_	_
+7	zrečah	Zreče	_	_	FEM;PROPN;PL;ESS	_	_	_	_
+8	nekaj	nekaj	_	_	DET	_	_	_	_
+9	pri	pri	_	_	ADP;ESS	_	_	_	_
+10	eni	en	_	_	FEM;SG;NUM;ESS	_	_	_	_
+11	teti	teta	_	_	ESS;FEM;SG;N	_	_	_	_
+12	ali	ali	_	_	CONJ	_	_	_	_
+13	kako	kako	_	_	ADV	_	_	_	_
+
+# sent_id = gos.154-0205
+# text = [pause]
+1	[pause]	[pause]	_	_	_	_	_	_	_
+
+# sent_id = gos.229-0319
+# text = ja pa če pomislim nazaj
+1	ja	ja	_	_	PART	_	_	_	_
+2	pa	pa	_	_	CONJ	_	_	_	_
+3	če	če	_	_	CONJ	_	_	_	_
+4	pomislim	pomisliti	_	_	PFV;IND;V;1;PRS;SG;FIN	_	_	_	_
+5	nazaj	nazaj	_	_	ADV	_	_	_	_
+
+# sent_id = gos.193-0143
+# text = ali pa recimo eee tudi kako voskanje recimo z onim [gap] naj bi bolele ne
+1	ali	ali	_	_	CONJ	_	_	_	_
+2	pa	pa	_	_	CONJ	_	_	_	_
+3	recimo	reči	_	_	PFV;V;PL;1;IMP;FIN	_	_	_	_
+4	eee	eee	_	_	INTJ	_	_	_	_
+5	tudi	tudi	_	_	PART	_	_	_	_
+6	kako	kak	_	_	NOM;NEUT;DET;SG	_	_	_	_
+7	voskanje	voskanje	_	_	SG;N;NOM;NEUT	_	_	_	_
+8	recimo	reči	_	_	PFV;V;PL;1;IMP;FIN	_	_	_	_
+9	z	z	_	_	INS;ADP	_	_	_	_
+10	onim	oni	_	_	NEUT;DET;INS;SG	_	_	_	_
+11	[gap]	[gap]	_	_	_	_	_	_	_
+12	naj	naj	_	_	PART	_	_	_	_
+13	bi	biti	_	_	FIN;COND;V	_	_	_	_
+14	bolele	boleti	_	_	V.PTCP;FEM;V;PL;IPFV	_	_	_	_
+15	ne	ne	_	_	PART	_	_	_	_
+
+# sent_id = gos.170-0135
+# text = torej to kar nam kaže za zdaj zadnja vrsta poljakov ni kdove kako obetavno
+1	torej	torej	_	_	CONJ	_	_	_	_
+2	to	ta	_	_	NOM;NEUT;DET;SG	_	_	_	_
+3	kar	kar	_	_	ACC;NEUT;SG;PRO	_	_	_	_
+4	nam	jaz	_	_	PL;1;DAT;PRO	_	_	_	_
+5	kaže	kazati	_	_	IND;V;IPFV;3;PRS;SG;FIN	_	_	_	_
+6	za	za	_	_	ACC;ADP	_	_	_	_
+7	zdaj	zdaj	_	_	ADV	_	_	_	_
+8	zadnja	zadnji	_	_	FEM;NOM;ADJ;SG	_	_	_	_
+9	vrsta	vrsta	_	_	SG;N;NOM;FEM	_	_	_	_
+10	poljakov	Poljak	_	_	PL;MASC;GEN;PROPN	_	_	_	_
+11	ni	biti	_	_	IND;NEG;3;V;PRS;SG;FIN	_	_	_	_
+12	kdove	kdove	_	_	ADV	_	_	_	_
+13	kako	kako	_	_	ADV	_	_	_	_
+14	obetavno	obetaven	_	_	NOM;NEUT;ADJ;SG	_	_	_	_
+
+# sent_id = gos.158-0109
+# text = ja … okej [audience:laughter]
+1	ja	ja	_	_	PART	_	_	_	_
+2	…	…	_	_	_	_	_	_	_
+3	okej	okej	_	_	ADV	_	_	_	_
+4	[audience:laughter]	[audience:laughter]	_	_	_	_	_	_	_
+
+# sent_id = gos.246-0356
+# text = ena bo še pa z [gap] pa [name:personal] zrihtala ne eno zvezo
+1	ena	en	_	_	FEM;SG;NUM;NOM	_	_	_	_
+2	bo	biti	_	_	3;IND;SG;FUT;POS;V;FIN	_	_	_	_
+3	še	še	_	_	PART	_	_	_	_
+4	pa	pa	_	_	CONJ	_	_	_	_
+5	z	_	_	_	_	_	_	_	_
+6	[gap]	[gap]	_	_	_	_	_	_	_
+7	pa	pa	_	_	CONJ	_	_	_	_
+8	[name:personal]	[name:personal]	_	_	PROPN	_	_	_	_
+9	zrihtala	zrihtati	_	_	FEM;PFV;SG;V.PTCP;V	_	_	_	_
+10	ne	ne	_	_	PART	_	_	_	_
+11	eno	en	_	_	ACC;FEM;SG;NUM	_	_	_	_
+12	zvezo	zveza	_	_	ACC;FEM;SG;N	_	_	_	_
+
+# sent_id = gos.136-0382
+# text = no pri opaz [gap] pri opazovanju je treba zaznati razbrati poimenovati in interpretirati znake ki jih opazimo
+1	no	no	_	_	PART	_	_	_	_
+2	pri	pri	_	_	ADP;ESS	_	_	_	_
+3	opaz	_	_	_	_	_	_	_	_
+4	[gap]	[gap]	_	_	_	_	_	_	_
+5	pri	pri	_	_	ADP;ESS	_	_	_	_
+6	opazovanju	opazovanje	_	_	ESS;NEUT;SG;N	_	_	_	_
+7	je	biti	_	_	3;IND;SG;POS;V;FIN;PRS	_	_	_	_
+8	treba	treba	_	_	ADV	_	_	_	_
+9	zaznati	zaznati	_	_	V;PFV;NFIN	_	_	_	_
+10	razbrati	razbrati	_	_	V;PFV;NFIN	_	_	_	_
+11	poimenovati	poimenovati	_	_	V;PFV;NFIN	_	_	_	_
+12	in	in	_	_	CONJ	_	_	_	_
+13	interpretirati	interpretirati	_	_	V;NFIN	_	_	_	_
+14	znake	znak	_	_	MASC;ACC;PL;N	_	_	_	_
+15	ki	ki	_	_	CONJ	_	_	_	_
+16	jih	on	_	_	3;ACC;PRO;MASC;PL	_	_	_	_
+17	opazimo	opaziti	_	_	PFV;IND;1;PRS;V;FIN;PL	_	_	_	_
+
+# sent_id = gos.254-0600
+# text = ja to že pomeni
+1	ja	ja	_	_	PART	_	_	_	_
+2	to	ta	_	_	SG;DET;NOM;NEUT	_	_	_	_
+3	že	že	_	_	PART	_	_	_	_
+4	pomeni	pomeniti	_	_	3;IND;SG;V;FIN;PRS	_	_	_	_
+
+# sent_id = gos.185-0161
+# text = ja v bistvu je podobno
+1	ja	ja	_	_	PART	_	_	_	_
+2	v	v	_	_	ESS;ADP	_	_	_	_
+3	bistvu	bistvo	_	_	ESS;N;SG;NEUT	_	_	_	_
+4	je	biti	_	_	IND;V;POS;3;PRS;SG;FIN	_	_	_	_
+5	podobno	podobno	_	_	ADV	_	_	_	_
+
+# sent_id = gos.014-0635
+# text = v zrak
+1	v	v	_	_	ACC;ADP	_	_	_	_
+2	zrak	zrak	_	_	MASC;N;ACC;INAN;SG	_	_	_	_
+
+# sent_id = gos.219-0097
+# text = [name:personal] tisti ki je malo bolj droben pa malo bolj velik je čelavi
+1	[name:personal]	[name:personal]	_	_	PROPN	_	_	_	_
+2	tisti	tisti	_	_	SG;DET;MASC;NOM	_	_	_	_
+3	ki	ki	_	_	CONJ	_	_	_	_
+4	je	biti	_	_	3;IND;SG;POS;V;FIN;PRS	_	_	_	_
+5	malo	malo	_	_	DET	_	_	_	_
+6	bolj	bolj	_	_	CMPR;ADV	_	_	_	_
+7	droben	droben	_	_	SG;ADJ;INDF;MASC;NOM	_	_	_	_
+8	pa	pa	_	_	CONJ	_	_	_	_
+9	malo	malo	_	_	DET	_	_	_	_
+10	bolj	bolj	_	_	CMPR;ADV	_	_	_	_
+11	velik	velik	_	_	SG;ADJ;INDF;MASC;NOM	_	_	_	_
+12	je	biti	_	_	3;IND;SG;POS;V;FIN;PRS	_	_	_	_
+13	čelavi	čelav	_	_	SG;DEF;ADJ;MASC;NOM	_	_	_	_
+
+# sent_id = gos.135-0653
+# text = bil … bil
+1	bil	biti	_	_	MASC;V.PTCP;SG;V	_	_	_	_
+2	…	…	_	_	_	_	_	_	_
+3	bil	biti	_	_	MASC;V.PTCP;SG;V	_	_	_	_
+
+# sent_id = gos.170-0130
+# text = danes kot sem že rekel igra na levi in se bo z lewandowskym ki bo prihajal pred severnoirski gol po poljski desni strani bržkone večkrat srečal
+1	danes	danes	_	_	ADV	_	_	_	_
+2	kot	kot	_	_	CONJ	_	_	_	_
+3	sem	biti	_	_	IND;POS;V;1;PRS;SG;FIN	_	_	_	_
+4	že	že	_	_	PART	_	_	_	_
+5	rekel	reči	_	_	PFV;V.PTCP;V;MASC;SG	_	_	_	_
+6	igra	igrati	_	_	IND;V;IPFV;3;PRS;SG;FIN	_	_	_	_
+7	na	na	_	_	ESS;ADP	_	_	_	_
+8	levi	lev	_	_	FEM;ADJ;ESS;SG	_	_	_	_
+9	in	in	_	_	CONJ	_	_	_	_
+10	se	se	_	_	PRO	_	_	_	_
+11	bo	biti	_	_	IND;POS;FUT;3;V;SG;FIN	_	_	_	_
+12	z	z	_	_	INS;ADP	_	_	_	_
+13	lewandowskym	Lewandowsky	_	_	INS;MASC;SG;PROPN	_	_	_	_
+14	ki	ki	_	_	CONJ	_	_	_	_
+15	bo	biti	_	_	IND;POS;FUT;3;V;SG;FIN	_	_	_	_
+16	prihajal	prihajati	_	_	V.PTCP;V;MASC;IPFV;SG	_	_	_	_
+17	pred	pred	_	_	ACC;ADP	_	_	_	_
+18	severnoirski	severnoirski	_	_	SG;DEF;MASC;ACC;ADJ	_	_	_	_
+19	gol	gol	_	_	MASC;N;ACC;INAN;SG	_	_	_	_
+20	po	po	_	_	ESS;ADP	_	_	_	_
+21	poljski	poljski	_	_	FEM;ADJ;ESS;SG	_	_	_	_
+22	desni	desen	_	_	FEM;ADJ;ESS;SG	_	_	_	_
+23	strani	stran	_	_	ESS;N;SG;FEM	_	_	_	_
+24	bržkone	bržkone	_	_	PART	_	_	_	_
+25	večkrat	večkrat	_	_	CMPR;ADV	_	_	_	_
+26	srečal	srečati	_	_	PFV;V.PTCP;V;MASC;SG	_	_	_	_
+
+# sent_id = gos.159-0571
+# text = ali kaj je kaj je pri koaliciji slovenija podobno podobno [incident] čki jaz ne razumem glej to je kao to je najbolj odmevna satirična izjava eee eee in jaz sploh ne razumem zakaj koalicija slovenija s [incident] čko … ja
+1	ali	ali	_	_	ADV	_	_	_	_
+2	kaj	kaj	_	_	NOM;NEUT;SG;PRO	_	_	_	_
+3	je	biti	_	_	IND;V;POS;3;PRS;SG;FIN	_	_	_	_
+4	kaj	kaj	_	_	NOM;NEUT;SG;PRO	_	_	_	_
+5	je	biti	_	_	IND;POS;3;V;PRS;SG;FIN	_	_	_	_
+6	pri	pri	_	_	ESS;ADP	_	_	_	_
+7	koaliciji	koalicija	_	_	ESS;N;SG;FEM	_	_	_	_
+8	slovenija	Slovenija	_	_	SG;NOM;FEM;PROPN	_	_	_	_
+9	podobno	podoben	_	_	NOM;NEUT;ADJ;SG	_	_	_	_
+10	podobno	podoben	_	_	NOM;NEUT;ADJ;SG	_	_	_	_
+11	[incident]	[incident]	_	_	_	_	_	_	_
+12	čki	čka	_	_	DAT;N;SG;FEM	_	_	_	_
+13	jaz	jaz	_	_	NOM;1;SG;PRO	_	_	_	_
+14	ne	ne	_	_	NEG;PART	_	_	_	_
+15	razumem	razumeti	_	_	IND;V;1;PRS;SG;FIN	_	_	_	_
+16	glej	gledati	_	_	V;IPFV;FIN;IMP;SG;2	_	_	_	_
+17	to	ta	_	_	NOM;NEUT;DET;SG	_	_	_	_
+18	je	biti	_	_	IND;V;POS;3;PRS;SG;FIN	_	_	_	_
+19	kao	kao	_	_	ADV	_	_	_	_
+20	to	ta	_	_	NOM;NEUT;DET;SG	_	_	_	_
+21	je	biti	_	_	IND;POS;3;V;PRS;SG;FIN	_	_	_	_
+22	najbolj	najbolj	_	_	ADV;RL	_	_	_	_
+23	odmevna	odmeven	_	_	FEM;NOM;ADJ;SG	_	_	_	_
+24	satirična	satiričen	_	_	FEM;NOM;ADJ;SG	_	_	_	_
+25	izjava	izjava	_	_	SG;N;NOM;FEM	_	_	_	_
+26	eee	eee	_	_	INTJ	_	_	_	_
+27	eee	eee	_	_	INTJ	_	_	_	_
+28	in	in	_	_	CONJ	_	_	_	_
+29	jaz	jaz	_	_	NOM;1;SG;PRO	_	_	_	_
+30	sploh	sploh	_	_	PART	_	_	_	_
+31	ne	ne	_	_	NEG;PART	_	_	_	_
+32	razumem	razumeti	_	_	IND;V;1;PRS;SG;FIN	_	_	_	_
+33	zakaj	zakaj	_	_	ADV	_	_	_	_
+34	koalicija	koalicija	_	_	SG;N;NOM;FEM	_	_	_	_
+35	slovenija	Slovenija	_	_	SG;NOM;FEM;PROPN	_	_	_	_
+36	s	z	_	_	INS;ADP	_	_	_	_
+37	[incident]	[incident]	_	_	_	_	_	_	_
+38	čko	čka	_	_	INS;N;SG;FEM	_	_	_	_
+39	…	…	_	_	_	_	_	_	_
+40	ja	ja	_	_	PART	_	_	_	_
+
+# sent_id = gos.152-0136
+# text = eee zanimivo [gap]
+1	eee	eee	_	_	INTJ	_	_	_	_
+2	zanimivo	zanimivo	_	_	ADV	_	_	_	_
+3	[gap]	[gap]	_	_	_	_	_	_	_
+
+# sent_id = gos.058-0304
+# text = [name:personal] prosim
+1	[name:personal]	[name:personal]	_	_	PROPN	_	_	_	_
+2	prosim	prositi	_	_	IND;V;IPFV;1;PRS;SG;FIN	_	_	_	_
+
+# sent_id = gos.157-0141
+# text = kaj sem bil v [gap] vnet jaz sem bil vnet ja
+1	kaj	kaj	_	_	ADV	_	_	_	_
+2	sem	biti	_	_	IND;SG;1;POS;V;FIN;PRS	_	_	_	_
+3	bil	biti	_	_	MASC;V.PTCP;V;SG	_	_	_	_
+4	v	_	_	_	_	_	_	_	_
+5	[gap]	[gap]	_	_	_	_	_	_	_
+6	vnet	vnet	_	_	SG;V.PTCP;ADJ;INDF;MASC;NOM	_	_	_	_
+7	jaz	jaz	_	_	PRO;SG;1;NOM	_	_	_	_
+8	sem	biti	_	_	IND;SG;1;POS;V;FIN;PRS	_	_	_	_
+9	bil	biti	_	_	MASC;V.PTCP;V;SG	_	_	_	_
+10	vnet	vnet	_	_	SG;V.PTCP;ADJ;INDF;MASC;NOM	_	_	_	_
+11	ja	ja	_	_	PART	_	_	_	_
+
+# sent_id = gos.137-0567
+# text = [speaker:laughter] ja ne ?
+1	[speaker:laughter]	[speaker:laughter]	_	_	_	_	_	_	_
+2	ja	ja	_	_	PART	_	_	_	_
+3	ne	ne	_	_	PART	_	_	_	_
+4	?	?	_	_	_	_	_	_	_
+
+# sent_id = gos.284-0110
+# text = tako ka sem jaz zdaj to v glavnem tako na grobo naredila pa eee posadila
+1	tako	tako	_	_	ADV	_	_	_	_
+2	ka	ka	_	_	CONJ	_	_	_	_
+3	sem	biti	_	_	IND;POS;V;1;PRS;SG;FIN	_	_	_	_
+4	jaz	jaz	_	_	NOM;1;SG;PRO	_	_	_	_
+5	zdaj	zdaj	_	_	ADV	_	_	_	_
+6	to	ta	_	_	ACC;NEUT;DET;SG	_	_	_	_
+7	v	v	_	_	ESS;ADP	_	_	_	_
+8	glavnem	glaven	_	_	NEUT;ADJ;ESS;SG	_	_	_	_
+9	tako	tako	_	_	ADV	_	_	_	_
+10	na	na	_	_	ACC;ADP	_	_	_	_
+11	grobo	grobo	_	_	ADV	_	_	_	_
+12	naredila	narediti	_	_	PFV;V.PTCP;FEM;V;SG	_	_	_	_
+13	pa	pa	_	_	CONJ	_	_	_	_
+14	eee	eee	_	_	INTJ	_	_	_	_
+15	posadila	posaditi	_	_	PFV;V.PTCP;FEM;V;SG	_	_	_	_
+
+# sent_id = gos.073-0378
+# text = on je on je dobro izpostavil da da cena tu n [gap] eee nima nobene zveze da je potrebno da pride spet ponovno nazaj v roke države
+1	on	on	_	_	MASC;3;NOM;SG;PRO	_	_	_	_
+2	je	biti	_	_	IND;POS;3;V;PRS;SG;FIN	_	_	_	_
+3	on	on	_	_	MASC;3;NOM;SG;PRO	_	_	_	_
+4	je	biti	_	_	IND;POS;3;V;PRS;SG;FIN	_	_	_	_
+5	dobro	dobro	_	_	ADV	_	_	_	_
+6	izpostavil	izpostaviti	_	_	PFV;V.PTCP;V;MASC;SG	_	_	_	_
+7	da	da	_	_	CONJ	_	_	_	_
+8	da	da	_	_	CONJ	_	_	_	_
+9	cena	cena	_	_	SG;N;NOM;FEM	_	_	_	_
+10	tu	tu	_	_	ADV	_	_	_	_
+11	n	_	_	_	_	_	_	_	_
+12	[gap]	[gap]	_	_	_	_	_	_	_
+13	eee	eee	_	_	INTJ	_	_	_	_
+14	nima	imeti	_	_	IND;V;NEG;IPFV;3;PRS;SG;FIN	_	_	_	_
+15	nobene	noben	_	_	FEM;GEN;DET;SG	_	_	_	_
+16	zveze	zveza	_	_	SG;N;GEN;FEM	_	_	_	_
+17	da	da	_	_	CONJ	_	_	_	_
+18	je	biti	_	_	IND;POS;3;V;PRS;SG;FIN	_	_	_	_
+19	potrebno	potreben	_	_	NOM;NEUT;ADJ;SG	_	_	_	_
+20	da	da	_	_	CONJ	_	_	_	_
+21	pride	priti	_	_	PFV;IND;V;3;PRS;SG;FIN	_	_	_	_
+22	spet	spet	_	_	ADV	_	_	_	_
+23	ponovno	ponovno	_	_	ADV	_	_	_	_
+24	nazaj	nazaj	_	_	ADV	_	_	_	_
+25	v	v	_	_	ACC;ADP	_	_	_	_
+26	roke	roka	_	_	PL;N;ACC;FEM	_	_	_	_
+27	države	država	_	_	SG;N;GEN;FEM	_	_	_	_
+
+# sent_id = gos.038-0278
+# text = eee potekajo pa razprave v tej smeri to to je znano in te priprave potekajo
+1	eee	eee	_	_	INTJ	_	_	_	_
+2	potekajo	potekati	_	_	3;IND;IPFV;PRS;V;FIN;PL	_	_	_	_
+3	pa	pa	_	_	CONJ	_	_	_	_
+4	razprave	razprava	_	_	FEM;NOM;PL;N	_	_	_	_
+5	v	v	_	_	ADP;ESS	_	_	_	_
+6	tej	ta	_	_	FEM;SG;DET;ESS	_	_	_	_
+7	smeri	smer	_	_	ESS;FEM;SG;N	_	_	_	_
+8	to	ta	_	_	SG;DET;NOM;NEUT	_	_	_	_
+9	to	ta	_	_	SG;DET;NOM;NEUT	_	_	_	_
+10	je	biti	_	_	3;IND;SG;POS;V;FIN;PRS	_	_	_	_
+11	znano	znan	_	_	SG;V.PTCP;ADJ;NOM;NEUT	_	_	_	_
+12	in	in	_	_	CONJ	_	_	_	_
+13	te	ta	_	_	FEM;DET;NOM;PL	_	_	_	_
+14	priprave	priprava	_	_	FEM;NOM;PL;N	_	_	_	_
+15	potekajo	potekati	_	_	3;IND;IPFV;PRS;V;FIN;PL	_	_	_	_
+
+# sent_id = gos.233-0356
+# text = a v t [gap] a bomo kupili eee tole
+1	a	a	_	_	ADV	_	_	_	_
+2	v	v	_	_	ESS;ADP	_	_	_	_
+3	t	_	_	_	_	_	_	_	_
+4	[gap]	[gap]	_	_	_	_	_	_	_
+5	a	a	_	_	ADV	_	_	_	_
+6	bomo	biti	_	_	IND;PL;POS;FUT;V;1;FIN	_	_	_	_
+7	kupili	kupiti	_	_	PFV;V.PTCP;V;PL;MASC	_	_	_	_
+8	eee	eee	_	_	INTJ	_	_	_	_
+9	tole	tale	_	_	FEM;ACC;DET;SG	_	_	_	_
+
+# sent_id = gos.263-0269
+# text = potem se je pa še mogla noter v avto spraviti
+1	potem	potem	_	_	ADV	_	_	_	_
+2	se	se	_	_	PRO	_	_	_	_
+3	je	biti	_	_	IND;POS;3;V;PRS;SG;FIN	_	_	_	_
+4	pa	pa	_	_	CONJ	_	_	_	_
+5	še	še	_	_	PART	_	_	_	_
+6	mogla	moči	_	_	V.PTCP;FEM;V;IPFV;SG	_	_	_	_
+7	noter	noter	_	_	ADV	_	_	_	_
+8	v	v	_	_	ACC;ADP	_	_	_	_
+9	avto	avto	_	_	MASC;N;ACC;INAN;SG	_	_	_	_
+10	spraviti	spraviti	_	_	PFV;NFIN;V	_	_	_	_
+
+# sent_id = gos.280-0036
+# text = aja
+1	aja	aja	_	_	INTJ	_	_	_	_
+
+# sent_id = gos.158-0104
+# text = ne ne ne zapirati … [gap] ja vem vem dol s kleti ne
+1	ne	ne	_	_	PART	_	_	_	_
+2	ne	ne	_	_	PART	_	_	_	_
+3	ne	ne	_	_	NEG;PART	_	_	_	_
+4	zapirati	zapirati	_	_	V;NFIN;IPFV	_	_	_	_
+5	…	…	_	_	_	_	_	_	_
+6	[gap]	[gap]	_	_	_	_	_	_	_
+7	ja	ja	_	_	PART	_	_	_	_
+8	vem	vedeti	_	_	IND;SG;IPFV;1;V;FIN;PRS	_	_	_	_
+9	vem	vedeti	_	_	IND;SG;IPFV;1;V;FIN;PRS	_	_	_	_
+10	dol	dol	_	_	ADV	_	_	_	_
+11	s	z	_	_	ADP;GEN	_	_	_	_
+12	kleti	klet	_	_	FEM;SG;N;GEN	_	_	_	_
+13	ne	ne	_	_	PART	_	_	_	_
+
+# sent_id = gos.157-0163
+# text = ja imela sem take goste tako kot imata zdaj vidva tukaj mene
+1	ja	ja	_	_	PART	_	_	_	_
+2	imela	imeti	_	_	FEM;SG;IPFV;V.PTCP;V	_	_	_	_
+3	sem	biti	_	_	IND;SG;1;POS;V;FIN;PRS	_	_	_	_
+4	take	tak	_	_	ACC;DET;MASC;PL	_	_	_	_
+5	goste	gost	_	_	MASC;ACC;PL;N	_	_	_	_
+6	tako	tako	_	_	ADV	_	_	_	_
+7	kot	kot	_	_	CONJ	_	_	_	_
+8	imata	imeti	_	_	3;IND;DU;IPFV;POS;V;FIN;PRS	_	_	_	_
+9	zdaj	zdaj	_	_	ADV	_	_	_	_
+10	vidva	ti	_	_	PRO;DU;2;MASC;NOM	_	_	_	_
+11	tukaj	tukaj	_	_	ADV	_	_	_	_
+12	mene	jaz	_	_	ACC;PRO;SG;1	_	_	_	_
+
+# sent_id = gos.137-0565
+# text = ja ne vem povej izberi
+1	ja	ja	_	_	PART	_	_	_	_
+2	ne	ne	_	_	NEG;PART	_	_	_	_
+3	vem	vedeti	_	_	IND;V;IPFV;1;PRS;SG;FIN	_	_	_	_
+4	povej	povedati	_	_	PFV;V;FIN;IMP;SG;2	_	_	_	_
+5	izberi	izbrati	_	_	PFV;V;FIN;IMP;SG;2	_	_	_	_
+
+# sent_id = gos.002-0112
+# text = zdaj lahko gremo lahko gremo naprej da dobimo še kakšno sled bi pa za začetek opozoril samo na en izraz in to je diese dialektische bewegung to dialektično gibanje
+1	zdaj	zdaj	_	_	ADV	_	_	_	_
+2	lahko	lahko	_	_	ADV	_	_	_	_
+3	gremo	iti	_	_	IND;V;PL;1;PRS;FIN	_	_	_	_
+4	lahko	lahko	_	_	ADV	_	_	_	_
+5	gremo	iti	_	_	IND;V;PL;1;PRS;FIN	_	_	_	_
+6	naprej	naprej	_	_	ADV	_	_	_	_
+7	da	da	_	_	CONJ	_	_	_	_
+8	dobimo	dobiti	_	_	PFV;IND;V;PL;1;PRS;FIN	_	_	_	_
+9	še	še	_	_	PART	_	_	_	_
+10	kakšno	kakšen	_	_	FEM;ACC;DET;SG	_	_	_	_
+11	sled	sled	_	_	N;ACC;SG;FEM	_	_	_	_
+12	bi	biti	_	_	FIN;COND;V	_	_	_	_
+13	pa	pa	_	_	CONJ	_	_	_	_
+14	za	za	_	_	ACC;ADP	_	_	_	_
+15	začetek	začetek	_	_	MASC;N;ACC;INAN;SG	_	_	_	_
+16	opozoril	opozoriti	_	_	PFV;V.PTCP;V;MASC;SG	_	_	_	_
+17	samo	samo	_	_	PART	_	_	_	_
+18	na	na	_	_	ACC;ADP	_	_	_	_
+19	en	en	_	_	MASC;ACC;NUM;SG	_	_	_	_
+20	izraz	izraz	_	_	MASC;N;ACC;INAN;SG	_	_	_	_
+21	in	in	_	_	CONJ	_	_	_	_
+22	to	ta	_	_	NOM;NEUT;DET;SG	_	_	_	_
+23	je	biti	_	_	IND;POS;3;V;PRS;SG;FIN	_	_	_	_
+24	diese	diese	_	_	_	_	_	_	_
+25	dialektische	dialektische	_	_	_	_	_	_	_
+26	bewegung	Bewegung	_	_	_	_	_	_	_
+27	to	ta	_	_	NOM;NEUT;DET;SG	_	_	_	_
+28	dialektično	dialektičen	_	_	NOM;NEUT;ADJ;SG	_	_	_	_
+29	gibanje	gibanje	_	_	SG;N;NOM;NEUT	_	_	_	_
+
+# sent_id = gos.223-0340
+# text = ki ona je z rijeke se mi zdi ne vem
+1	ki	ki	_	_	CONJ	_	_	_	_
+2	ona	on	_	_	FEM;3;NOM;SG;PRO	_	_	_	_
+3	je	biti	_	_	IND;V;POS;3;PRS;SG;FIN	_	_	_	_
+4	z	z	_	_	GEN;ADP	_	_	_	_
+5	rijeke	Rijeka	_	_	SG;GEN;FEM;PROPN	_	_	_	_
+6	se	se	_	_	PRO	_	_	_	_
+7	mi	jaz	_	_	1;DAT;SG;PRO	_	_	_	_
+8	zdi	zdeti	_	_	IND;V;IPFV;3;PRS;SG;FIN	_	_	_	_
+9	ne	ne	_	_	NEG;PART	_	_	_	_
+10	vem	vedeti	_	_	IND;V;IPFV;1;PRS;SG;FIN	_	_	_	_
+
+# sent_id = gos.277-0070
+# text = ja bil je ja
+1	ja	ja	_	_	PART	_	_	_	_
+2	bil	biti	_	_	MASC;V.PTCP;SG;V	_	_	_	_
+3	je	biti	_	_	IND;POS;3;V;PRS;SG;FIN	_	_	_	_
+4	ja	ja	_	_	PART	_	_	_	_
+
+# sent_id = gos.216-0237
+# text = zdaj če greva klasična polena reči potem je takoj potem je to peč kjer se zdaj te ki so novejše so take da v bistvu eee da v bistvu imate dve neke vrste spodnji kurišči kjer u [gap] uplinjate to ta les in potem se v bistvu [gap] ti plini izgoreva
+1	zdaj	zdaj	_	_	ADV	_	_	_	_
+2	če	če	_	_	CONJ	_	_	_	_
+3	greva	iti	_	_	IND;DU;1;V;FIN;PRS	_	_	_	_
+4	klasična	klasičen	_	_	ACC;ADJ;NEUT;PL	_	_	_	_
+5	polena	poleno	_	_	ACC;PL;NEUT;N	_	_	_	_
+6	reči	reči	_	_	V;PFV;NFIN	_	_	_	_
+7	potem	potem	_	_	ADV	_	_	_	_
+8	je	biti	_	_	3;IND;SG;POS;V;FIN;PRS	_	_	_	_
+9	takoj	takoj	_	_	ADV	_	_	_	_
+10	potem	potem	_	_	ADV	_	_	_	_
+11	je	biti	_	_	3;IND;SG;POS;V;FIN;PRS	_	_	_	_
+12	to	ta	_	_	SG;DET;NOM;NEUT	_	_	_	_
+13	peč	peč	_	_	FEM;NOM;SG;N	_	_	_	_
+14	kjer	kjer	_	_	CONJ	_	_	_	_
+15	se	se	_	_	PRO	_	_	_	_
+16	zdaj	zdaj	_	_	ADV	_	_	_	_
+17	te	ta	_	_	FEM;DET;NOM;PL	_	_	_	_
+18	ki	ki	_	_	CONJ	_	_	_	_
+19	so	biti	_	_	3;IND;PRS;POS;V;FIN;PL	_	_	_	_
+20	novejše	nov	_	_	FEM;CMPR;ADJ;NOM;PL	_	_	_	_
+21	so	biti	_	_	3;IND;PRS;POS;V;FIN;PL	_	_	_	_
+22	take	tak	_	_	FEM;DET;NOM;PL	_	_	_	_
+23	da	da	_	_	CONJ	_	_	_	_
+24	v	v	_	_	ADP;ESS	_	_	_	_
+25	bistvu	bistvo	_	_	ESS;NEUT;SG;N	_	_	_	_
+26	eee	eee	_	_	INTJ	_	_	_	_
+27	da	da	_	_	CONJ	_	_	_	_
+28	v	v	_	_	ADP;ESS	_	_	_	_
+29	bistvu	bistvo	_	_	ESS;NEUT;SG;N	_	_	_	_
+30	imate	imeti	_	_	IND;IPFV;PRS;POS;2;V;FIN;PL	_	_	_	_
+31	dve	dva	_	_	ACC;FEM;NUM;DU	_	_	_	_
+32	neke	nek	_	_	FEM;SG;GEN;DET	_	_	_	_
+33	vrste	vrsta	_	_	FEM;SG;N;GEN	_	_	_	_
+34	spodnji	spodnji	_	_	ACC;DU;ADJ;NEUT	_	_	_	_
+35	kurišči	kurišče	_	_	ACC;NEUT;DU;N	_	_	_	_
+36	kjer	kjer	_	_	CONJ	_	_	_	_
+37	u	_	_	_	_	_	_	_	_
+38	[gap]	[gap]	_	_	_	_	_	_	_
+39	uplinjate	uplinjati	_	_	IND;IPFV;PRS;2;V;FIN;PL	_	_	_	_
+40	to	ta	_	_	ACC;SG;DET;NEUT	_	_	_	_
+41	ta	ta	_	_	ACC;SG;DET;MASC	_	_	_	_
+42	les	les	_	_	ACC;SG;INAN;N;MASC	_	_	_	_
+43	in	in	_	_	CONJ	_	_	_	_
+44	potem	potem	_	_	ADV	_	_	_	_
+45	se	se	_	_	PRO	_	_	_	_
+46	v	v	_	_	ADP;ESS	_	_	_	_
+47	bistvu	bistvo	_	_	ESS;NEUT;SG;N	_	_	_	_
+48	[gap]	[gap]	_	_	_	_	_	_	_
+49	ti	ta	_	_	DET;MASC;NOM;PL	_	_	_	_
+50	plini	plin	_	_	MASC;NOM;PL;N	_	_	_	_
+51	izgoreva	izgorevati	_	_	3;IND;SG;IPFV;V;FIN;PRS	_	_	_	_
+
+# sent_id = gos.162-0489
+# text = to je igra ki jo igrajo eee ti eee člani družine
+1	to	ta	_	_	NOM;NEUT;DET;SG	_	_	_	_
+2	je	biti	_	_	IND;POS;3;V;PRS;SG;FIN	_	_	_	_
+3	igra	igra	_	_	SG;N;NOM;FEM	_	_	_	_
+4	ki	ki	_	_	CONJ	_	_	_	_
+5	jo	on	_	_	FEM;3;ACC;SG;PRO	_	_	_	_
+6	igrajo	igrati	_	_	IND;V;PL;IPFV;3;PRS;FIN	_	_	_	_
+7	eee	eee	_	_	INTJ	_	_	_	_
+8	ti	ta	_	_	PL;MASC;NOM;DET	_	_	_	_
+9	eee	eee	_	_	INTJ	_	_	_	_
+10	člani	član	_	_	PL;MASC;N;NOM	_	_	_	_
+11	družine	družina	_	_	SG;N;GEN;FEM	_	_	_	_
+
+# sent_id = gos.209-0072
+# text = eem lahka obutev v vsakem primeru
+1	eem	eem	_	_	INTJ	_	_	_	_
+2	lahka	lahek	_	_	FEM;NOM;ADJ;SG	_	_	_	_
+3	obutev	obutev	_	_	SG;N;NOM;FEM	_	_	_	_
+4	v	v	_	_	ESS;ADP	_	_	_	_
+5	vsakem	vsak	_	_	MASC;DET;ESS;SG	_	_	_	_
+6	primeru	primer	_	_	ESS;N;MASC;SG	_	_	_	_
+
+# sent_id = gos.133-0094
+# text = še dobrih pet minut do sedmih do novic na belviju v katerih tudi o tem da bo ljubljana spet dobila titovo cesto
+1	še	še	_	_	PART	_	_	_	_
+2	dobrih	dober	_	_	FEM;PL;GEN;ADJ	_	_	_	_
+3	pet	pet	_	_	PL;NUM;NOM	_	_	_	_
+4	minut	minuta	_	_	PL;N;GEN;FEM	_	_	_	_
+5	do	do	_	_	GEN;ADP	_	_	_	_
+6	sedmih	sedem	_	_	PL;GEN;NUM	_	_	_	_
+7	do	do	_	_	GEN;ADP	_	_	_	_
+8	novic	novica	_	_	PL;N;GEN;FEM	_	_	_	_
+9	na	na	_	_	ESS;ADP	_	_	_	_
+10	belviju	Belvi	_	_	ESS;MASC;SG;PROPN	_	_	_	_
+11	v	v	_	_	ESS;ADP	_	_	_	_
+12	katerih	kateri	_	_	FEM;PL;GEN;DET	_	_	_	_
+13	tudi	tudi	_	_	PART	_	_	_	_
+14	o	o	_	_	ESS;ADP	_	_	_	_
+15	tem	ta	_	_	NEUT;DET;ESS;SG	_	_	_	_
+16	da	da	_	_	CONJ	_	_	_	_
+17	bo	biti	_	_	IND;POS;FUT;3;V;SG;FIN	_	_	_	_
+18	ljubljana	Ljubljana	_	_	SG;NOM;FEM;PROPN	_	_	_	_
+19	spet	spet	_	_	ADV	_	_	_	_
+20	dobila	dobiti	_	_	PFV;V.PTCP;FEM;V;SG	_	_	_	_
+21	titovo	Titov	_	_	FEM;ACC;ADJ;SG	_	_	_	_
+22	cesto	cesta	_	_	N;ACC;SG;FEM	_	_	_	_
+
+# sent_id = gos.245-0579
+# text = ja se mi zdi tako ful tako folk zanimiv v lokalu res
+1	ja	ja	_	_	PART	_	_	_	_
+2	se	se	_	_	PRO	_	_	_	_
+3	mi	jaz	_	_	1;DAT;SG;PRO	_	_	_	_
+4	zdi	zdeti	_	_	IND;V;IPFV;3;PRS;SG;FIN	_	_	_	_
+5	tako	tako	_	_	ADV	_	_	_	_
+6	ful	ful	_	_	ADV	_	_	_	_
+7	tako	tako	_	_	ADV	_	_	_	_
+8	folk	folk	_	_	MASC;SG;N;NOM	_	_	_	_
+9	zanimiv	zanimiv	_	_	SG;MASC;NOM;ADJ;INDF	_	_	_	_
+10	v	v	_	_	ESS;ADP	_	_	_	_
+11	lokalu	lokal	_	_	ESS;N;MASC;SG	_	_	_	_
+12	res	res	_	_	ADV	_	_	_	_
+
+# sent_id = gos.244-0413
+# text = vsaj ta eee to razumem … ja
+1	vsaj	vsaj	_	_	PART	_	_	_	_
+2	ta	ta	_	_	FEM;NOM;DET;SG	_	_	_	_
+3	eee	eee	_	_	INTJ	_	_	_	_
+4	to	ta	_	_	ACC;NEUT;DET;SG	_	_	_	_
+5	razumem	razumeti	_	_	IND;V;1;PRS;SG;FIN	_	_	_	_
+6	…	…	_	_	_	_	_	_	_
+7	ja	ja	_	_	PART	_	_	_	_
+
+# sent_id = gos.156-0022
+# text = ja
+1	ja	ja	_	_	PART	_	_	_	_
+
+# sent_id = gos.233-0352
+# text = ja
+1	ja	ja	_	_	PART	_	_	_	_
+
+# sent_id = gos.164-0530
+# text = ja hahaha vidiš ta smeh [all:laughter]
+1	ja	ja	_	_	PART	_	_	_	_
+2	hahaha	hahaha	_	_	INTJ	_	_	_	_
+3	vidiš	videti	_	_	IND;V;FIN;PRS;SG;2	_	_	_	_
+4	ta	ta	_	_	MASC;ACC;DET;SG	_	_	_	_
+5	smeh	smeh	_	_	MASC;N;ACC;INAN;SG	_	_	_	_
+6	[all:laughter]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.060-0625
+# text = tako da [gap] postopku smo to včrtali v kocko a ne pa je osnovna ploskev kvadrat
+1	tako	tako	_	_	CONJ	_	_	_	_
+2	da	da	_	_	CONJ	_	_	_	_
+3	[gap]	[gap]	_	_	_	_	_	_	_
+4	postopku	postopek	_	_	MASC;ESS;SG;N	_	_	_	_
+5	smo	biti	_	_	IND;1;PRS;POS;V;FIN;PL	_	_	_	_
+6	to	ta	_	_	ACC;SG;DET;NEUT	_	_	_	_
+7	včrtali	včrtati	_	_	PFV;V.PTCP;MASC;V;PL	_	_	_	_
+8	v	v	_	_	ACC;ADP	_	_	_	_
+9	kocko	kocka	_	_	ACC;FEM;SG;N	_	_	_	_
+10	a	a	_	_	ADV	_	_	_	_
+11	ne	ne	_	_	PART	_	_	_	_
+12	pa	pa	_	_	CONJ	_	_	_	_
+13	je	biti	_	_	3;IND;SG;POS;V;FIN;PRS	_	_	_	_
+14	osnovna	osnoven	_	_	FEM;SG;ADJ;NOM	_	_	_	_
+15	ploskev	ploskev	_	_	FEM;NOM;SG;N	_	_	_	_
+16	kvadrat	kvadrat	_	_	MASC;NOM;SG;N	_	_	_	_
+
+# sent_id = gos.142-0170
+# text = eee tam je tudi eee pač eee kontakt
+1	eee	eee	_	_	INTJ	_	_	_	_
+2	tam	tam	_	_	ADV	_	_	_	_
+3	je	biti	_	_	IND;V;POS;3;PRS;SG;FIN	_	_	_	_
+4	tudi	tudi	_	_	PART	_	_	_	_
+5	eee	eee	_	_	INTJ	_	_	_	_
+6	pač	pač	_	_	PART	_	_	_	_
+7	eee	eee	_	_	INTJ	_	_	_	_
+8	kontakt	kontakt	_	_	MASC;SG;N;NOM	_	_	_	_
+
+# sent_id = gos.238-0170
+# text = [pause]
+1	[pause]	[pause]	_	_	_	_	_	_	_
+
+# sent_id = gos.102-0006
+# text = ministrstvo sindikat računsko sodišče ravnatelji to je po mnenju učitelja [name:personal] [name:surname] seznam tistih ki bi za nezakonito izplačane plače morali prevzeti odgovornost pa kot pravi niso
+1	ministrstvo	ministrstvo	_	_	NOM;NEUT;SG;N	_	_	_	_
+2	sindikat	sindikat	_	_	MASC;NOM;SG;N	_	_	_	_
+3	računsko	računski	_	_	SG;ADJ;NOM;NEUT	_	_	_	_
+4	sodišče	sodišče	_	_	NOM;NEUT;SG;N	_	_	_	_
+5	ravnatelji	ravnatelj	_	_	MASC;NOM;PL;N	_	_	_	_
+6	to	ta	_	_	SG;DET;NOM;NEUT	_	_	_	_
+7	je	biti	_	_	3;IND;SG;POS;V;FIN;PRS	_	_	_	_
+8	po	po	_	_	ADP;ESS	_	_	_	_
+9	mnenju	mnenje	_	_	ESS;NEUT;SG;N	_	_	_	_
+10	učitelja	učitelj	_	_	MASC;SG;N;GEN	_	_	_	_
+11	[name:personal]	[name:personal]	_	_	PROPN	_	_	_	_
+12	[name:surname]	[name:surname]	_	_	PROPN	_	_	_	_
+13	seznam	seznam	_	_	MASC;NOM;SG;N	_	_	_	_
+14	tistih	tisti	_	_	GEN;DET;MASC;PL	_	_	_	_
+15	ki	ki	_	_	CONJ	_	_	_	_
+16	bi	biti	_	_	V;FIN;COND	_	_	_	_
+17	za	za	_	_	ACC;ADP	_	_	_	_
+18	nezakonito	nezakonito	_	_	ADV	_	_	_	_
+19	izplačane	izplačan	_	_	ACC;FEM;V.PTCP;ADJ;PL	_	_	_	_
+20	plače	plača	_	_	ACC;FEM;PL;N	_	_	_	_
+21	morali	morati	_	_	IPFV;V.PTCP;MASC;V;PL	_	_	_	_
+22	prevzeti	prevzeti	_	_	V;PFV;NFIN	_	_	_	_
+23	odgovornost	odgovornost	_	_	ACC;FEM;SG;N	_	_	_	_
+24	pa	pa	_	_	CONJ	_	_	_	_
+25	kot	kot	_	_	CONJ	_	_	_	_
+26	pravi	praviti	_	_	3;IND;SG;V;FIN;PRS	_	_	_	_
+27	niso	biti	_	_	3;IND;NEG;PRS;V;FIN;PL	_	_	_	_
+
+# sent_id = gos.060-0633
+# text = polmer bo treba izračunati ne
+1	polmer	polmer	_	_	ACC;SG;INAN;N;MASC	_	_	_	_
+2	bo	biti	_	_	3;IND;SG;FUT;POS;V;FIN	_	_	_	_
+3	treba	treba	_	_	ADV	_	_	_	_
+4	izračunati	izračunati	_	_	V;PFV;NFIN	_	_	_	_
+5	ne	ne	_	_	PART	_	_	_	_
+
+# sent_id = gos.179-0163
+# text = mhm okej [gap]
+1	mhm	mhm	_	_	INTJ	_	_	_	_
+2	okej	okej	_	_	ADV	_	_	_	_
+3	[gap]	[gap]	_	_	_	_	_	_	_
+
+# sent_id = gos.240-0096
+# text = ja
+1	ja	ja	_	_	PART	_	_	_	_
+
+# sent_id = gos.233-0350
+# text = saj tamle ljubi je tudi fizikalec
+1	saj	saj	_	_	CONJ	_	_	_	_
+2	tamle	tamle	_	_	ADV	_	_	_	_
+3	ljubi	ljub	_	_	SG;DEF;MASC;NOM;ADJ	_	_	_	_
+4	je	biti	_	_	IND;POS;3;V;PRS;SG;FIN	_	_	_	_
+5	tudi	tudi	_	_	PART	_	_	_	_
+6	fizikalec	fizikalec	_	_	MASC;SG;N;NOM	_	_	_	_
+
+# sent_id = gos.255-0253
+# text = to to je in še danes jo vidim to brodarico ne in te me ona čez odpeljala in jaz lepo pa skoz šumo dete malo pa p [gap] skozi
+1	to	ta	_	_	SG;DET;NOM;NEUT	_	_	_	_
+2	to	ta	_	_	SG;DET;NOM;NEUT	_	_	_	_
+3	je	biti	_	_	3;IND;SG;POS;V;FIN;PRS	_	_	_	_
+4	in	in	_	_	CONJ	_	_	_	_
+5	še	še	_	_	PART	_	_	_	_
+6	danes	danes	_	_	ADV	_	_	_	_
+7	jo	on	_	_	3;ACC;FEM;PRO;SG	_	_	_	_
+8	vidim	videti	_	_	IND;SG;1;V;FIN;PRS	_	_	_	_
+9	to	ta	_	_	ACC;FEM;SG;DET	_	_	_	_
+10	brodarico	brodarica	_	_	ACC;FEM;SG;N	_	_	_	_
+11	ne	ne	_	_	PART	_	_	_	_
+12	in	in	_	_	CONJ	_	_	_	_
+13	te	te	_	_	ADV	_	_	_	_
+14	me	jaz	_	_	ACC;PRO;SG;1	_	_	_	_
+15	ona	on	_	_	3;FEM;PRO;SG;NOM	_	_	_	_
+16	čez	čez	_	_	ADV	_	_	_	_
+17	odpeljala	odpeljati	_	_	FEM;PFV;SG;V.PTCP;V	_	_	_	_
+18	in	in	_	_	CONJ	_	_	_	_
+19	jaz	jaz	_	_	PRO;SG;1;NOM	_	_	_	_
+20	lepo	lepo	_	_	ADV	_	_	_	_
+21	pa	pa	_	_	CONJ	_	_	_	_
+22	skoz	skoz	_	_	ACC;ADP	_	_	_	_
+23	šumo	šuma	_	_	ACC;FEM;SG;N	_	_	_	_
+24	dete	dete	_	_	NOM;NEUT;SG;N	_	_	_	_
+25	malo	mali	_	_	SG;ADJ;NOM;NEUT	_	_	_	_
+26	pa	pa	_	_	CONJ	_	_	_	_
+27	p	_	_	_	_	_	_	_	_
+28	[gap]	[gap]	_	_	_	_	_	_	_
+29	skozi	skozi	_	_	ADV	_	_	_	_
+
+# sent_id = gos.060-0622
+# text = r je a krat [gap]
+1	r	r	_	_	MASC;NOM;SG;N	_	_	_	_
+2	je	biti	_	_	3;IND;SG;POS;V;FIN;PRS	_	_	_	_
+3	a	a	_	_	MASC;NOM;SG;N	_	_	_	_
+4	krat	krat	_	_	ADV	_	_	_	_
+5	[gap]	[gap]	_	_	_	_	_	_	_
+
+# sent_id = gos.174-0024
+# text = [name:personal] ime eee kaj ose [gap] osebe zadolžene ali pa odgovorne za ne odgovorne za
+1	[name:personal]	[name:personal]	_	_	PROPN	_	_	_	_
+2	ime	ime	_	_	SG;N;NOM;NEUT	_	_	_	_
+3	eee	eee	_	_	INTJ	_	_	_	_
+4	kaj	kaj	_	_	NOM;NEUT;SG;PRO	_	_	_	_
+5	ose	_	_	_	_	_	_	_	_
+6	[gap]	[gap]	_	_	_	_	_	_	_
+7	osebe	oseba	_	_	SG;N;GEN;FEM	_	_	_	_
+8	zadolžene	zadolžen	_	_	V.PTCP;FEM;GEN;ADJ;SG	_	_	_	_
+9	ali	ali	_	_	CONJ	_	_	_	_
+10	pa	pa	_	_	CONJ	_	_	_	_
+11	odgovorne	odgovoren	_	_	FEM;GEN;ADJ;SG	_	_	_	_
+12	za	za	_	_	ACC;ADP	_	_	_	_
+13	ne	ne	_	_	PART	_	_	_	_
+14	odgovorne	odgovoren	_	_	FEM;GEN;ADJ;SG	_	_	_	_
+15	za	za	_	_	ACC;ADP	_	_	_	_
+
+# sent_id = gos.053-0471
+# text = tretja
+1	tretja	tretji	_	_	FEM;SG;ADJ;NOM	_	_	_	_
+
+# sent_id = gos.161-0152
+# text = mogoče je še kdo med vami pred petdesetimi leti ročno pobiral koloradske hrošče ki so ogrožali pridelek škrobnatih in okusnih gomoljev
+1	mogoče	mogoče	_	_	ADV	_	_	_	_
+2	je	biti	_	_	IND;POS;3;V;PRS;SG;FIN	_	_	_	_
+3	še	še	_	_	PART	_	_	_	_
+4	kdo	kdo	_	_	MASC;NOM;SG;PRO	_	_	_	_
+5	med	med	_	_	INS;ADP	_	_	_	_
+6	vami	ti	_	_	PL;INS;2;PRO	_	_	_	_
+7	pred	pred	_	_	INS;ADP	_	_	_	_
+8	petdesetimi	petdeset	_	_	PL;NUM;INS	_	_	_	_
+9	leti	leto	_	_	PL;INS;N;NEUT	_	_	_	_
+10	ročno	ročno	_	_	ADV	_	_	_	_
+11	pobiral	pobirati	_	_	V.PTCP;V;MASC;IPFV;SG	_	_	_	_
+12	koloradske	koloradski	_	_	PL;MASC;ACC;ADJ	_	_	_	_
+13	hrošče	hrošč	_	_	PL;MASC;N;ACC	_	_	_	_
+14	ki	ki	_	_	CONJ	_	_	_	_
+15	so	biti	_	_	IND;PL;POS;3;V;PRS;FIN	_	_	_	_
+16	ogrožali	ogrožati	_	_	V.PTCP;V;PL;MASC;IPFV	_	_	_	_
+17	pridelek	pridelek	_	_	MASC;N;ACC;INAN;SG	_	_	_	_
+18	škrobnatih	škrobnat	_	_	PL;MASC;GEN;ADJ	_	_	_	_
+19	in	in	_	_	CONJ	_	_	_	_
+20	okusnih	okusen	_	_	PL;MASC;GEN;ADJ	_	_	_	_
+21	gomoljev	gomolj	_	_	PL;MASC;N;GEN	_	_	_	_
+
+# sent_id = gos.191-0439
+# text = in dol
+1	in	in	_	_	CONJ	_	_	_	_
+2	dol	dol	_	_	ADV	_	_	_	_
+
+# sent_id = gos.159-0582
+# text = to je isto klekljanje to je ist [gap]
+1	to	ta	_	_	NOM;NEUT;DET;SG	_	_	_	_
+2	je	biti	_	_	IND;POS;3;V;PRS;SG;FIN	_	_	_	_
+3	isto	isto	_	_	ADV	_	_	_	_
+4	klekljanje	klekljanje	_	_	SG;N;NOM;NEUT	_	_	_	_
+5	to	ta	_	_	NOM;NEUT;DET;SG	_	_	_	_
+6	je	biti	_	_	IND;V;POS;3;PRS;SG;FIN	_	_	_	_
+7	ist	_	_	_	_	_	_	_	_
+8	[gap]	[gap]	_	_	_	_	_	_	_
+
+# sent_id = gos.037-0125
+# text = koliko knjig je izdala
+1	koliko	koliko	_	_	DET	_	_	_	_
+2	knjig	knjiga	_	_	FEM;PL;N;GEN	_	_	_	_
+3	je	biti	_	_	3;IND;SG;POS;V;FIN;PRS	_	_	_	_
+4	izdala	izdati	_	_	FEM;PFV;SG;V.PTCP;V	_	_	_	_
+
+# sent_id = gos.254-0597
+# text = koliko koliko jaz bom še pa ne načrtovala meni je samo lepi bil tam [gap]
+1	koliko	koliko	_	_	DET	_	_	_	_
+2	koliko	koliko	_	_	DET	_	_	_	_
+3	jaz	jaz	_	_	PRO;SG;1;NOM	_	_	_	_
+4	bom	biti	_	_	IND;SG;1;FUT;POS;V;FIN	_	_	_	_
+5	še	še	_	_	PART	_	_	_	_
+6	pa	pa	_	_	CONJ	_	_	_	_
+7	ne	ne	_	_	NEG;PART	_	_	_	_
+8	načrtovala	načrtovati	_	_	FEM;SG;IPFV;V.PTCP;V	_	_	_	_
+9	meni	jaz	_	_	PRO;SG;DAT;1	_	_	_	_
+10	je	biti	_	_	3;IND;SG;POS;V;FIN;PRS	_	_	_	_
+11	samo	samo	_	_	PART	_	_	_	_
+12	lepi	lep	_	_	SG;DEF;ADJ;MASC;NOM	_	_	_	_
+13	bil	biti	_	_	MASC;V.PTCP;V;SG	_	_	_	_
+14	tam	tam	_	_	ADV	_	_	_	_
+15	[gap]	[gap]	_	_	_	_	_	_	_
+
+# sent_id = gos.143-0119
+# text = ja kar redno se dobivamo eee vadimo pa tudi skoraj tako redno kot se dobivamo
+1	ja	ja	_	_	PART	_	_	_	_
+2	kar	kar	_	_	ADV	_	_	_	_
+3	redno	redno	_	_	ADV	_	_	_	_
+4	se	se	_	_	PRO	_	_	_	_
+5	dobivamo	dobivati	_	_	IND;V;PL;IPFV;1;PRS;FIN	_	_	_	_
+6	eee	eee	_	_	INTJ	_	_	_	_
+7	vadimo	vaditi	_	_	IND;V;PL;IPFV;1;PRS;FIN	_	_	_	_
+8	pa	pa	_	_	CONJ	_	_	_	_
+9	tudi	tudi	_	_	PART	_	_	_	_
+10	skoraj	skoraj	_	_	PART	_	_	_	_
+11	tako	tako	_	_	ADV	_	_	_	_
+12	redno	redno	_	_	ADV	_	_	_	_
+13	kot	kot	_	_	CONJ	_	_	_	_
+14	se	se	_	_	PRO	_	_	_	_
+15	dobivamo	dobivati	_	_	IND;V;PL;IPFV;1;PRS;FIN	_	_	_	_
+
+# sent_id = gos.256-0083
+# text = da da
+1	da	da	_	_	PART	_	_	_	_
+2	da	da	_	_	PART	_	_	_	_
+
+# sent_id = gos.057-0250
+# text = razlike med njimi ?
+1	razlike	razlika	_	_	PL;N;NOM;FEM	_	_	_	_
+2	med	med	_	_	INS;ADP	_	_	_	_
+3	njimi	on	_	_	PL;MASC;3;INS;PRO	_	_	_	_
+4	?	?	_	_	_	_	_	_	_
+
+# sent_id = gos.003-0209
+# text = [pause]
+1	[pause]	[pause]	_	_	_	_	_	_	_
+
+# sent_id = gos.018-0319
+# text = [gap]
+1	[gap]	[gap]	_	_	_	_	_	_	_
+
+# sent_id = gos.113-0089
+# text = no … pa so pa tudi konkretni ukrepi o katerih smo jih brali v eee napovedi
+1	no	no	_	_	PART	_	_	_	_
+2	…	…	_	_	_	_	_	_	_
+3	pa	pa	_	_	CONJ	_	_	_	_
+4	so	biti	_	_	3;IND;PRS;POS;V;FIN;PL	_	_	_	_
+5	pa	pa	_	_	CONJ	_	_	_	_
+6	tudi	tudi	_	_	PART	_	_	_	_
+7	konkretni	konkreten	_	_	ADJ;MASC;NOM;PL	_	_	_	_
+8	ukrepi	ukrep	_	_	MASC;NOM;PL;N	_	_	_	_
+9	o	o	_	_	ADP;ESS	_	_	_	_
+10	katerih	kateri	_	_	DET;ESS;MASC;PL	_	_	_	_
+11	smo	biti	_	_	IND;1;PRS;POS;V;FIN;PL	_	_	_	_
+12	jih	on	_	_	3;ACC;PRO;MASC;PL	_	_	_	_
+13	brali	brati	_	_	IPFV;V.PTCP;MASC;V;PL	_	_	_	_
+14	v	v	_	_	ADP;ESS	_	_	_	_
+15	eee	eee	_	_	INTJ	_	_	_	_
+16	napovedi	napoved	_	_	ESS;FEM;SG;N	_	_	_	_
+
+# sent_id = gos.162-0505
+# text = a misliš da vem ?
+1	a	a	_	_	ADV	_	_	_	_
+2	misliš	misliti	_	_	IND;V;IPFV;FIN;PRS;SG;2	_	_	_	_
+3	da	da	_	_	CONJ	_	_	_	_
+4	vem	vedeti	_	_	IND;V;IPFV;1;PRS;SG;FIN	_	_	_	_
+5	?	?	_	_	_	_	_	_	_
+
+# sent_id = gos.257-0124
+# text = eee o [gap] eee italijani imajo to dobro narejeno oni imajo vse proge ko ti prideš ko si kupiš smučarsko karto ne je to vse s številkami označeno
+1	eee	eee	_	_	INTJ	_	_	_	_
+2	o	_	_	_	_	_	_	_	_
+3	[gap]	[gap]	_	_	_	_	_	_	_
+4	eee	eee	_	_	INTJ	_	_	_	_
+5	italijani	Italijan	_	_	PL;MASC;NOM;PROPN	_	_	_	_
+6	imajo	imeti	_	_	IND;V;PL;IPFV;POS;3;PRS;FIN	_	_	_	_
+7	to	ta	_	_	ACC;NEUT;DET;SG	_	_	_	_
+8	dobro	dobro	_	_	ADV	_	_	_	_
+9	narejeno	narejen	_	_	V.PTCP;ACC;NEUT;ADJ;SG	_	_	_	_
+10	oni	on	_	_	PL;MASC;3;NOM;PRO	_	_	_	_
+11	imajo	imeti	_	_	IND;V;PL;IPFV;POS;3;PRS;FIN	_	_	_	_
+12	vse	ves	_	_	FEM;PL;ACC;DET	_	_	_	_
+13	proge	proga	_	_	PL;N;ACC;FEM	_	_	_	_
+14	ko	ko	_	_	CONJ	_	_	_	_
+15	ti	ti	_	_	NOM;SG;2;PRO	_	_	_	_
+16	prideš	priti	_	_	PFV;IND;V;FIN;PRS;SG;2	_	_	_	_
+17	ko	ko	_	_	CONJ	_	_	_	_
+18	si	se	_	_	DAT;PRO	_	_	_	_
+19	kupiš	kupiti	_	_	PFV;IND;V;FIN;PRS;SG;2	_	_	_	_
+20	smučarsko	smučarski	_	_	FEM;ACC;ADJ;SG	_	_	_	_
+21	karto	karta	_	_	N;ACC;SG;FEM	_	_	_	_
+22	ne	ne	_	_	PART	_	_	_	_
+23	je	biti	_	_	IND;POS;3;V;PRS;SG;FIN	_	_	_	_
+24	to	ta	_	_	NOM;NEUT;DET;SG	_	_	_	_
+25	vse	vse	_	_	ADV	_	_	_	_
+26	s	z	_	_	INS;ADP	_	_	_	_
+27	številkami	številka	_	_	PL;INS;N;FEM	_	_	_	_
+28	označeno	označen	_	_	V.PTCP;NOM;NEUT;ADJ;SG	_	_	_	_
+
+# sent_id = gos.169-0155
+# text = precej se je ustavila in težko bo oziroma sploh nemogoče je nadoknaditi potem tisto hitrost ki bi jo lahko seveda nesla s seboj
+1	precej	precej	_	_	ADV	_	_	_	_
+2	se	se	_	_	PRO	_	_	_	_
+3	je	biti	_	_	IND;POS;3;V;PRS;SG;FIN	_	_	_	_
+4	ustavila	ustaviti	_	_	PFV;V.PTCP;FEM;V;SG	_	_	_	_
+5	in	in	_	_	CONJ	_	_	_	_
+6	težko	težko	_	_	ADV	_	_	_	_
+7	bo	biti	_	_	IND;V;POS;FUT;3;SG;FIN	_	_	_	_
+8	oziroma	oziroma	_	_	CONJ	_	_	_	_
+9	sploh	sploh	_	_	PART	_	_	_	_
+10	nemogoče	nemogoč	_	_	NOM;NEUT;ADJ;SG	_	_	_	_
+11	je	biti	_	_	IND;POS;3;V;PRS;SG;FIN	_	_	_	_
+12	nadoknaditi	nadoknaditi	_	_	PFV;NFIN;V	_	_	_	_
+13	potem	potem	_	_	ADV	_	_	_	_
+14	tisto	tisti	_	_	FEM;ACC;DET;SG	_	_	_	_
+15	hitrost	hitrost	_	_	N;ACC;SG;FEM	_	_	_	_
+16	ki	ki	_	_	CONJ	_	_	_	_
+17	bi	biti	_	_	FIN;COND;V	_	_	_	_
+18	jo	on	_	_	FEM;3;ACC;SG;PRO	_	_	_	_
+19	lahko	lahko	_	_	ADV	_	_	_	_
+20	seveda	seveda	_	_	PART	_	_	_	_
+21	nesla	nesti	_	_	V.PTCP;FEM;V;IPFV;SG	_	_	_	_
+22	s	z	_	_	INS;ADP	_	_	_	_
+23	seboj	se	_	_	INS;PRO	_	_	_	_
+
+# sent_id = gos.158-0121
+# text = obražček daš [gap] lahko pa na stopničko stopiš veš tukajle
+1	obražček	obražček	_	_	ACC;SG;INAN;N;MASC	_	_	_	_
+2	daš	dati	_	_	PFV;IND;SG;2;V;FIN;PRS	_	_	_	_
+3	[gap]	[gap]	_	_	_	_	_	_	_
+4	lahko	lahko	_	_	ADV	_	_	_	_
+5	pa	pa	_	_	CONJ	_	_	_	_
+6	na	na	_	_	ACC;ADP	_	_	_	_
+7	stopničko	stopnička	_	_	ACC;FEM;SG;N	_	_	_	_
+8	stopiš	stopiti	_	_	PFV;IND;SG;2;V;FIN;PRS	_	_	_	_
+9	veš	vedeti	_	_	IND;SG;IPFV;2;V;FIN;PRS	_	_	_	_
+10	tukajle	tukajle	_	_	ADV	_	_	_	_
+
+# sent_id = gos.226-0091
+# text = pa pol ni … ja baje da lahko jaz sem se štirinajst dni s potrdilom vozila preden sem si šla vozniško narediti
+1	pa	pa	_	_	CONJ	_	_	_	_
+2	pol	pol	_	_	ADV	_	_	_	_
+3	ni	biti	_	_	3;IND;SG;NEG;V;FIN;PRS	_	_	_	_
+4	…	…	_	_	_	_	_	_	_
+5	ja	ja	_	_	PART	_	_	_	_
+6	baje	baje	_	_	PART	_	_	_	_
+7	da	da	_	_	CONJ	_	_	_	_
+8	lahko	lahko	_	_	ADV	_	_	_	_
+9	jaz	jaz	_	_	PRO;SG;1;NOM	_	_	_	_
+10	sem	biti	_	_	IND;SG;1;POS;V;FIN;PRS	_	_	_	_
+11	se	se	_	_	PRO	_	_	_	_
+12	štirinajst	štirinajst	_	_	ACC;PL;NUM	_	_	_	_
+13	dni	dan	_	_	MASC;PL;N;GEN	_	_	_	_
+14	s	z	_	_	ADP;INS	_	_	_	_
+15	potrdilom	potrdilo	_	_	NEUT;INS;SG;N	_	_	_	_
+16	vozila	voziti	_	_	FEM;SG;IPFV;V.PTCP;V	_	_	_	_
+17	preden	preden	_	_	CONJ	_	_	_	_
+18	sem	biti	_	_	IND;SG;1;POS;V;FIN;PRS	_	_	_	_
+19	si	se	_	_	PRO;DAT	_	_	_	_
+20	šla	iti	_	_	V.PTCP;V;SG;FEM	_	_	_	_
+21	vozniško	vozniški	_	_	ACC;FEM;SG;ADJ	_	_	_	_
+22	narediti	narediti	_	_	V;PFV;NFIN	_	_	_	_
+
+# sent_id = gos.234-0139
+# text = [pause]
+1	[pause]	[pause]	_	_	_	_	_	_	_
+
+# sent_id = gos.131-0143
+# text = upam da no
+1	upam	upati	_	_	IND;SG;IPFV;1;V;FIN;PRS	_	_	_	_
+2	da	da	_	_	CONJ	_	_	_	_
+3	no	no	_	_	PART	_	_	_	_
+
+# sent_id = gos.139-0171
+# text = suša venar ali kako a gvišno ka suša aj pa veš če snega ne tako bilo vidiš dež že tudi celo leto ne
+1	suša	suša	_	_	SG;N;NOM;FEM	_	_	_	_
+2	venar	venar	_	_	ADV	_	_	_	_
+3	ali	ali	_	_	CONJ	_	_	_	_
+4	kako	kako	_	_	ADV	_	_	_	_
+5	a	a	_	_	INTJ	_	_	_	_
+6	gvišno	gvišno	_	_	ADV	_	_	_	_
+7	ka	ka	_	_	CONJ	_	_	_	_
+8	suša	suša	_	_	SG;N;NOM;FEM	_	_	_	_
+9	aj	aj	_	_	CONJ	_	_	_	_
+10	pa	pa	_	_	CONJ	_	_	_	_
+11	veš	vedeti	_	_	IND;V;IPFV;FIN;PRS;SG;2	_	_	_	_
+12	če	če	_	_	CONJ	_	_	_	_
+13	snega	sneg	_	_	MASC;SG;N;GEN	_	_	_	_
+14	ne	ne	_	_	NEG;PART	_	_	_	_
+15	tako	tako	_	_	ADV	_	_	_	_
+16	bilo	biti	_	_	V.PTCP;SG;NEUT;V	_	_	_	_
+17	vidiš	videti	_	_	IND;V;FIN;PRS;SG;2	_	_	_	_
+18	dež	dež	_	_	MASC;SG;N;NOM	_	_	_	_
+19	že	že	_	_	PART	_	_	_	_
+20	tudi	tudi	_	_	PART	_	_	_	_
+21	celo	cel	_	_	ACC;NEUT;ADJ;SG	_	_	_	_
+22	leto	leto	_	_	N;ACC;SG;NEUT	_	_	_	_
+23	ne	ne	_	_	PART	_	_	_	_
+
+# sent_id = gos.141-0334
+# text = mhm
+1	mhm	mhm	_	_	INTJ	_	_	_	_
+
+# sent_id = gos.268-0208
+# text = ali ne ?
+1	ali	ali	_	_	CONJ	_	_	_	_
+2	ne	ne	_	_	NEG;PART	_	_	_	_
+3	?	?	_	_	_	_	_	_	_
+
+# sent_id = gos.118-0084
+# text = in vidimo da jih je nekaj pa spet ne toliko ne da je razmerje vendarle precej močnejše v prid eee javnim kakor kje eee
+1	in	in	_	_	CONJ	_	_	_	_
+2	vidimo	videti	_	_	IND;V;PL;1;PRS;FIN	_	_	_	_
+3	da	da	_	_	CONJ	_	_	_	_
+4	jih	on	_	_	FEM;PL;3;GEN;PRO	_	_	_	_
+5	je	biti	_	_	IND;V;POS;3;PRS;SG;FIN	_	_	_	_
+6	nekaj	nekaj	_	_	DET	_	_	_	_
+7	pa	pa	_	_	CONJ	_	_	_	_
+8	spet	spet	_	_	ADV	_	_	_	_
+9	ne	ne	_	_	NEG;PART	_	_	_	_
+10	toliko	toliko	_	_	DET	_	_	_	_
+11	ne	ne	_	_	PART	_	_	_	_
+12	da	da	_	_	CONJ	_	_	_	_
+13	je	biti	_	_	IND;POS;3;V;PRS;SG;FIN	_	_	_	_
+14	razmerje	razmerje	_	_	SG;N;NOM;NEUT	_	_	_	_
+15	vendarle	vendarle	_	_	CONJ	_	_	_	_
+16	precej	precej	_	_	ADV	_	_	_	_
+17	močnejše	močen	_	_	CMPR;NOM;NEUT;ADJ;SG	_	_	_	_
+18	v	v	_	_	ACC;ADP	_	_	_	_
+19	prid	prid	_	_	MASC;N;ACC;INAN;SG	_	_	_	_
+20	eee	eee	_	_	INTJ	_	_	_	_
+21	javnim	javen	_	_	FEM;PL;DAT;ADJ	_	_	_	_
+22	kakor	kakor	_	_	CONJ	_	_	_	_
+23	kje	kje	_	_	ADV	_	_	_	_
+24	eee	eee	_	_	INTJ	_	_	_	_
+
+# sent_id = gos.142-0168
+# text = lahko seveda
+1	lahko	lahko	_	_	ADV	_	_	_	_
+2	seveda	seveda	_	_	PART	_	_	_	_
+
+# sent_id = gos.195-0111
+# text = ona gospa reče [gap] [all:laughter]
+1	ona	oni	_	_	FEM;SG;DET;NOM	_	_	_	_
+2	gospa	gospa	_	_	FEM;NOM;SG;N	_	_	_	_
+3	reče	reči	_	_	3;PFV;IND;SG;V;FIN;PRS	_	_	_	_
+4	[gap]	[gap]	_	_	_	_	_	_	_
+5	[all:laughter]	[all:laughter]	_	_	_	_	_	_	_
+
+# sent_id = gos.190-0079
+# text = katere to ?
+1	katere	kateri	_	_	PL;MASC;ACC;DET	_	_	_	_
+2	to	ta	_	_	NOM;NEUT;DET;SG	_	_	_	_
+3	?	?	_	_	_	_	_	_	_
+

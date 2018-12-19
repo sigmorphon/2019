@@ -1,0 +1,2398 @@
+# sent_id = n01062049
+# text = Sen tar reklamen slut.
+# text_en = Then the commercial ends.
+1	Sen	sen	_	_	ADV	_	_	_	_
+2	tar	ta	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+3	reklamen	reklam	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+4	slut	slut	_	_	NOM;ADJ	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01018040
+# text = Strategin ger intäkter genom sponsorer och marknadsföring.
+# text_en = The scheme makes money through sponsorship and advertising.
+1	Strategin	strategi	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+2	ger	ge	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+3	intäkter	intäkt	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+4	genom	genom	_	_	ADP	_	_	_	_
+5	sponsorer	sponsor	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+6	och	och	_	_	CONJ	_	_	_	_
+7	marknadsföring	marknadsföring	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w05010
+# sent_id = w05010023
+# text = Pompejus tog kommando över två legioner i Capua och började uppbåda trupper illegalt, en handling som, vilket var förutsägbart, drog fördel av de caesarianer som stod i hans gunst.
+# text_en = Pompey took command of two legions in Capua and began to raise levies illegally, an act that, as was predictable, took advantage of the Caesarians who were in his favor.
+1	Pompejus	Pompejus	_	_	PROPN;NOM	_	_	_	_
+2	tog	ta	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+3	kommando	kommando	_	_	NEUT;SG;INDF;N;NOM	_	_	_	_
+4	över	över	_	_	ADP	_	_	_	_
+5	två	två	_	_	NOM;NUM	_	_	_	_
+6	legioner	legion	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+7	i	i	_	_	ADP	_	_	_	_
+8	Capua	Capua	_	_	PROPN;NOM	_	_	_	_
+9	och	och	_	_	CONJ	_	_	_	_
+10	började	börja	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+11	uppbåda	uppbåda	_	_	ACT;V;NFIN	_	_	_	_
+12	trupper	trupp	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+13	illegalt	illegalt	_	_	ADV	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	en	en	_	_	INDF;MASC+FEM;SG;DET	_	_	_	_
+16	handling	handling	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+17	som	som	_	_	PRO	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	vilket	vilket	_	_	NEUT;SG;INDF;PRO	_	_	_	_
+20	var	vara	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+21	förutsägbart	förutsägbar	_	_	NEUT;SG;ADJ;INDF;NOM	_	_	_	_
+22	,	,	_	_	_	_	_	_	_
+23	drog	dra	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+24	fördel	fördel	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+25	av	av	_	_	ADP	_	_	_	_
+26	de	den	_	_	PL;DEF;DET	_	_	_	_
+27	caesarianer	caesarian	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+28	som	som	_	_	PRO	_	_	_	_
+29	stod	stå	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+30	i	i	_	_	ADP	_	_	_	_
+31	hans	hans	_	_	DEF;PRO	_	_	_	_
+32	gunst	gunst	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+33	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01127130
+# text = I Hong Kongs högsta domstol, två år senare, verkade Jutting mestadels samlad.
+# text_en = In Hong Kong's High Court, two years later, Jutting appeared largely composed.
+1	I	i	_	_	ADP	_	_	_	_
+2	Hong	Hong	_	_	PROPN;NOM	_	_	_	_
+3	Kongs	Kong	_	_	PROPN;GEN	_	_	_	_
+4	högsta	hög	_	_	DEF;NOM;RL;ADJ	_	_	_	_
+5	domstol	domstol	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	två	två	_	_	NOM;NUM	_	_	_	_
+8	år	år	_	_	NEUT;PL;INDF;N;NOM	_	_	_	_
+9	senare	sent	_	_	ADV;CMPR	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	verkade	verka	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+12	Jutting	Jutting	_	_	PROPN;NOM	_	_	_	_
+13	mestadels	mestadels	_	_	ADV	_	_	_	_
+14	samlad	samlad	_	_	V.PTCP;SG;ADJ;PST;INDF;MASC+FEM;NOM	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01022027
+# text = Det är fantastiskt att de fick Parisavtalet men deras insatser är för tillfället inte i närheten av målet på 1,5 grader.
+# text_en = It's fantastic that they got the Paris Agreement but their contributions at the moment are nowhere near the 1.5-degree target.
+1	Det	det	_	_	SG;DEF;NEUT;PRO	_	_	_	_
+2	är	vara	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+3	fantastiskt	fantastisk	_	_	NEUT;SG;ADJ;INDF;NOM	_	_	_	_
+4	att	att	_	_	CONJ	_	_	_	_
+5	de	de	_	_	PL;NOM;DEF;PRO	_	_	_	_
+6	fick	få	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+7	Parisavtalet	parisavtal	_	_	NEUT;SG;DEF;N;NOM	_	_	_	_
+8	men	men	_	_	CONJ	_	_	_	_
+9	deras	deras	_	_	DEF;PRO	_	_	_	_
+10	insatser	insats	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+11	är	vara	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+12	för	för	_	_	ADP	_	_	_	_
+13	tillfället	tillfälle	_	_	NEUT;SG;DEF;N;NOM	_	_	_	_
+14	inte	inte	_	_	NEG;PART	_	_	_	_
+15	i	i	_	_	ADP	_	_	_	_
+16	närheten	närhet	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+17	av	av	_	_	ADP	_	_	_	_
+18	målet	mål	_	_	NEUT;SG;DEF;N;NOM	_	_	_	_
+19	på	på	_	_	ADP	_	_	_	_
+20	1,5	1,5	_	_	NOM;NUM	_	_	_	_
+21	grader	grad	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+22	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n02082
+# sent_id = n02082017
+# text = "Föroreningarna attackerar inte bara de outvecklade lungorna på de små; de kan även leda till långvarig nedsättning i utvecklingen av den uppväxande hjärnan."
+# text_en = The contaminants not only attack the undeveloped lungs of the little ones; they can also lead to long-term impairment in the development of the adolescent brain.
+1	"	"	_	_	_	_	_	_	_
+2	Föroreningarna	förorening	_	_	DEF;PL;MASC+FEM;NOM;N	_	_	_	_
+3	attackerar	attackera	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+4	inte	inte	_	_	NEG;PART	_	_	_	_
+5	bara	bara	_	_	ADV	_	_	_	_
+6	de	den	_	_	PL;DEF;DET	_	_	_	_
+7	outvecklade	outvecklad	_	_	NOM;ADJ;PL	_	_	_	_
+8	lungorna	lunga	_	_	DEF;PL;MASC+FEM;NOM;N	_	_	_	_
+9	på	på	_	_	ADP	_	_	_	_
+10	de	den	_	_	PL;DEF;DET	_	_	_	_
+11	små	liten	_	_	NOM;ADJ;PL	_	_	_	_
+12	;	;	_	_	_	_	_	_	_
+13	de	de	_	_	PL;NOM;DEF;PRO	_	_	_	_
+14	kan	kunna	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+15	även	även	_	_	ADV	_	_	_	_
+16	leda	leda	_	_	ACT;V;NFIN	_	_	_	_
+17	till	till	_	_	ADP	_	_	_	_
+18	långvarig	långvarig	_	_	SG;ADJ;INDF;MASC+FEM;NOM	_	_	_	_
+19	nedsättning	nedsättning	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+20	i	i	_	_	ADP	_	_	_	_
+21	utvecklingen	utveckling	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+22	av	av	_	_	ADP	_	_	_	_
+23	den	den	_	_	MASC+FEM;SG;DEF;DET	_	_	_	_
+24	uppväxande	uppväxande	_	_	V.PTCP;PRS;ADJ;IND;NOM	_	_	_	_
+25	hjärnan	hjärna	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+26	.	.	_	_	_	_	_	_	_
+27	"	"	_	_	_	_	_	_	_
+
+# sent_id = n01105023
+# text = Jag undrar också om Davis Cup spelade in.
+# text_en = I also wonder whether the Davis Cup played a part.
+1	Jag	jag	_	_	SG;DEF;MASC+FEM;NOM;PRO	_	_	_	_
+2	undrar	undra	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+3	också	också	_	_	ADV	_	_	_	_
+4	om	om	_	_	CONJ	_	_	_	_
+5	Davis	Davis	_	_	PROPN;NOM	_	_	_	_
+6	Cup	Cup	_	_	PROPN;NOM	_	_	_	_
+7	spelade	spela	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+8	in	in	_	_	ADV	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01031
+# sent_id = n01031005
+# text = Forskare har undersökt potentialen för manliga hormonella preventivmedel i ungefär 20 år.
+# text_en = Researchers have been investigating potential for male hormonal contraceptives for around 20 years.
+1	Forskare	forskare	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+2	har	ha	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+3	undersökt	undersöka	_	_	ACT;V;V.CVB	_	_	_	_
+4	potentialen	potential	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+5	för	för	_	_	ADP	_	_	_	_
+6	manliga	manlig	_	_	NOM;ADJ;PL	_	_	_	_
+7	hormonella	hormonell	_	_	NOM;ADJ;PL	_	_	_	_
+8	preventivmedel	preventivmedel	_	_	NEUT;PL;INDF;N;NOM	_	_	_	_
+9	i	i	_	_	ADP	_	_	_	_
+10	ungefär	ungefär	_	_	ADV	_	_	_	_
+11	20	20	_	_	NOM;NUM	_	_	_	_
+12	år	år	_	_	NEUT;PL;INDF;N;NOM	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01133
+# sent_id = w01133014
+# text = Starlin tog över som historieplanerare följande utgåva, och började utveckla en utstuderad historieföljd som centrerades på den skurkaktige Thanos, och spreds ut över flera Marvel-titlar.
+# text_en = Starlin took over as plotter the following issue, and began developing an elaborate story arc centered on the villainous Thanos, and spread across a number of Marvel titles.
+1	Starlin	Starlin	_	_	PROPN;NOM	_	_	_	_
+2	tog	ta	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+3	över	över	_	_	ADV	_	_	_	_
+4	som	som	_	_	ADP	_	_	_	_
+5	historieplanerare	historieplanerare	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+6	följande	följande	_	_	V.PTCP;PRS;ADJ;IND;NOM	_	_	_	_
+7	utgåva	utgåva	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	och	och	_	_	CONJ	_	_	_	_
+10	började	börja	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+11	utveckla	utveckla	_	_	ACT;V;NFIN	_	_	_	_
+12	en	en	_	_	INDF;MASC+FEM;SG;DET	_	_	_	_
+13	utstuderad	utstuderad	_	_	SG;ADJ;INDF;MASC+FEM;NOM	_	_	_	_
+14	historieföljd	historieföljd	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+15	som	som	_	_	PRO	_	_	_	_
+16	centrerades	centrera	_	_	PASS;FIN;V;PST;IND	_	_	_	_
+17	på	på	_	_	ADP	_	_	_	_
+18	den	den	_	_	MASC+FEM;SG;DEF;DET	_	_	_	_
+19	skurkaktige	skurkaktig	_	_	SG;MASC;DEF;ADJ;NOM	_	_	_	_
+20	Thanos	Thanos	_	_	PROPN;NOM	_	_	_	_
+21	,	,	_	_	_	_	_	_	_
+22	och	och	_	_	CONJ	_	_	_	_
+23	spreds	sprida	_	_	PASS;FIN;V;PST;IND	_	_	_	_
+24	ut	ut	_	_	ADV	_	_	_	_
+25	över	över	_	_	ADP	_	_	_	_
+26	flera	flera	_	_	ADJ;PL;INDF;NOM	_	_	_	_
+27	Marvel-titlar	marvel-titel	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+28	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01063
+# sent_id = n01063011
+# text = Miami Bass producenter var kliniska i konsten att förflytta rumpor – deras främsta intresse.
+# text_en = Miami Bass producers were clinical in the art of moving butts—their main concern.
+1	Miami	Miami	_	_	PROPN;NOM	_	_	_	_
+2	Bass	Bas	_	_	PROPN;GEN	_	_	_	_
+3	producenter	producent	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+4	var	vara	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+5	kliniska	klinisk	_	_	NOM;ADJ;PL	_	_	_	_
+6	i	i	_	_	ADP	_	_	_	_
+7	konsten	konst	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+8	att	att	_	_	PART	_	_	_	_
+9	förflytta	förflytta	_	_	ACT;V;NFIN	_	_	_	_
+10	rumpor	rumpa	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+11	–	–	_	_	_	_	_	_	_
+12	deras	deras	_	_	DEF;PRO	_	_	_	_
+13	främsta	främst	_	_	DEF;NOM;RL;ADJ	_	_	_	_
+14	intresse	intresse	_	_	NEUT;SG;INDF;N;NOM	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01062
+# sent_id = w01062037
+# text = Tiberius rapporteras ha ångrat sin avfärd och anhöll om att få återvända till Rom flera gånger, men varje gång avslog Augustus hans anhållan.
+# text_en = Tiberius reportedly regretted his departure and requested to return to Rome several times, but each time Augustus refused his requests.
+1	Tiberius	Tiberius	_	_	PROPN;NOM	_	_	_	_
+2	rapporteras	rapportera	_	_	PRS;PASS;FIN;V;IND	_	_	_	_
+3	ha	ha	_	_	ACT;V;NFIN	_	_	_	_
+4	ångrat	ångra	_	_	ACT;V;V.CVB	_	_	_	_
+5	sin	sin	_	_	SG;DEF;MASC+FEM;PRO	_	_	_	_
+6	avfärd	avfärd	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+7	och	och	_	_	CONJ	_	_	_	_
+8	anhöll	anhålla	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+9	om	om	_	_	ADP	_	_	_	_
+10	att	att	_	_	PART	_	_	_	_
+11	få	få	_	_	ACT;V;NFIN	_	_	_	_
+12	återvända	återvända	_	_	ACT;V;NFIN	_	_	_	_
+13	till	till	_	_	ADP	_	_	_	_
+14	Rom	Rom	_	_	PROPN;NOM	_	_	_	_
+15	flera	flera	_	_	ADJ;PL;INDF;NOM	_	_	_	_
+16	gånger	gång	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+17	,	,	_	_	_	_	_	_	_
+18	men	men	_	_	CONJ	_	_	_	_
+19	varje	varje	_	_	INDF;SG;DET	_	_	_	_
+20	gång	gång	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+21	avslog	avslå	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+22	Augustus	Augustus	_	_	PROPN;NOM	_	_	_	_
+23	hans	hans	_	_	DEF;PRO	_	_	_	_
+24	anhållan	anhållan	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+25	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01060
+# sent_id = w01060037
+# text = Shen Kuo imponerade snart Wang Anshi med sina färdigheter och förmågor som administratör och statlig agent.
+# text_en = Shen Kuo soon impressed Wang Anshi with his skills and abilities as an administrator and government agent.
+1	Shen	Shen	_	_	PROPN;NOM	_	_	_	_
+2	Kuo	Kuo	_	_	PROPN;NOM	_	_	_	_
+3	imponerade	imponera	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+4	snart	snart	_	_	ADV	_	_	_	_
+5	Wang	Wang	_	_	PROPN;NOM	_	_	_	_
+6	Anshi	Anshi	_	_	PROPN;NOM	_	_	_	_
+7	med	med	_	_	ADP	_	_	_	_
+8	sina	sin	_	_	PL;DEF;PRO	_	_	_	_
+9	färdigheter	färdighet	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+10	och	och	_	_	CONJ	_	_	_	_
+11	förmågor	förmåga	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+12	som	som	_	_	CONJ	_	_	_	_
+13	administratör	administratör	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+14	och	och	_	_	CONJ	_	_	_	_
+15	statlig	statlig	_	_	SG;ADJ;INDF;MASC+FEM;NOM	_	_	_	_
+16	agent	agent	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01091
+# sent_id = n01091013
+# text = Som bäst är det naivt och som värst skulle det återigen låta skyttelobbyn komma undan.
+# text_en = At best it is naive and at worst it would yet again let the shooting lobby off the hook.
+1	Som	som	_	_	CONJ	_	_	_	_
+2	bäst	god	_	_	INDF;NOM;RL;ADJ	_	_	_	_
+3	är	vara	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+4	det	det	_	_	SG;DEF;NEUT;PRO	_	_	_	_
+5	naivt	naiv	_	_	NEUT;SG;ADJ;INDF;NOM	_	_	_	_
+6	och	och	_	_	CONJ	_	_	_	_
+7	som	som	_	_	CONJ	_	_	_	_
+8	värst	illa	_	_	ADV;RL	_	_	_	_
+9	skulle	skola	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+10	det	det	_	_	SG;DEF;NEUT;PRO	_	_	_	_
+11	återigen	återigen	_	_	ADV	_	_	_	_
+12	låta	låta	_	_	ACT;V;NFIN	_	_	_	_
+13	skyttelobbyn	skyttelobby	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+14	komma	komma	_	_	ACT;V;NFIN	_	_	_	_
+15	undan	undan	_	_	ADV	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01003
+# sent_id = w01003051
+# text = Exempel är Linjeöarna i Stilla havet och Maldiverna i Indiska oceanen.
+# text_en = Examples are the Line Islands in the Pacific and the Maldives in the Indian Ocean.
+1	Exempel	exempel	_	_	NEUT;SG;INDF;N;NOM	_	_	_	_
+2	är	vara	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+3	Linjeöarna	linjeö	_	_	DEF;PL;MASC+FEM;NOM;N	_	_	_	_
+4	i	i	_	_	ADP	_	_	_	_
+5	Stilla	stilla	_	_	NOM;ADJ	_	_	_	_
+6	havet	hav	_	_	NEUT;SG;DEF;N;NOM	_	_	_	_
+7	och	och	_	_	CONJ	_	_	_	_
+8	Maldiverna	Maldiverna	_	_	PROPN;NOM	_	_	_	_
+9	i	i	_	_	ADP	_	_	_	_
+10	Indiska	indisk	_	_	SG;DEF;ADJ;NOM	_	_	_	_
+11	oceanen	ocean	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01069014
+# text = Samtidigt har den frånskilda frun till en av regeringens inpiskare lanserat sin kampanj för att ta platsen.
+# text_en = Meanwhile, the estranged wife of a government whip has launched her campaign to take the seat.
+1	Samtidigt	samtidigt	_	_	ADV	_	_	_	_
+2	har	ha	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+3	den	den	_	_	MASC+FEM;SG;DEF;DET	_	_	_	_
+4	frånskilda	frånskild	_	_	V.PTCP;SG;DEF;ADJ;PST;NOM	_	_	_	_
+5	frun	fru	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+6	till	till	_	_	ADP	_	_	_	_
+7	en	en	_	_	INDF;MASC+FEM;SG;PRO	_	_	_	_
+8	av	av	_	_	ADP	_	_	_	_
+9	regeringens	regering	_	_	SG;DEF;GEN;N;MASC+FEM	_	_	_	_
+10	inpiskare	inpiskare	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+11	lanserat	lansera	_	_	ACT;V;V.CVB	_	_	_	_
+12	sin	sin	_	_	SG;DEF;MASC+FEM;PRO	_	_	_	_
+13	kampanj	kampanj	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+14	för	för	_	_	ADP	_	_	_	_
+15	att	att	_	_	PART	_	_	_	_
+16	ta	ta	_	_	ACT;V;NFIN	_	_	_	_
+17	platsen	plats	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01116100
+# text = Några kristna forskare kritiserar Tolles läror medan andra hyllar dem.
+# text_en = Some Christian scholars criticize Tolle's teachings, while others praise them.
+1	Några	någon	_	_	INDF;PL;DET	_	_	_	_
+2	kristna	kristen	_	_	NOM;ADJ;PL	_	_	_	_
+3	forskare	forskare	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+4	kritiserar	kritisera	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+5	Tolles	Tolle	_	_	PROPN;GEN	_	_	_	_
+6	läror	lära	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+7	medan	medan	_	_	CONJ	_	_	_	_
+8	andra	andra	_	_	INDF;PL;PRO	_	_	_	_
+9	hyllar	hylla	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+10	dem	de	_	_	PL;DEF;ACC;PRO	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01134062
+# text = 1955 började Mishima träna med vikter och hans träningsrutin med tre pass i veckan avbröts inte under de sista 15 åren av hans liv.
+# text_en = In 1955, Mishima took up weight training and his workout regimen of three sessions per week was not disrupted for the final 15 years of his life.
+1	1955	1955	_	_	NOM;NUM	_	_	_	_
+2	började	börja	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+3	Mishima	Mishima	_	_	PROPN;NOM	_	_	_	_
+4	träna	träna	_	_	ACT;V;NFIN	_	_	_	_
+5	med	med	_	_	ADP	_	_	_	_
+6	vikter	vikt	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+7	och	och	_	_	CONJ	_	_	_	_
+8	hans	hans	_	_	DEF;PRO	_	_	_	_
+9	träningsrutin	träningsrutin	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+10	med	med	_	_	ADP	_	_	_	_
+11	tre	tre	_	_	NOM;NUM	_	_	_	_
+12	pass	pass	_	_	NEUT;PL;INDF;N;NOM	_	_	_	_
+13	i	i	_	_	ADP	_	_	_	_
+14	veckan	vecka	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+15	avbröts	avbryta	_	_	PASS;FIN;V;PST;IND	_	_	_	_
+16	inte	inte	_	_	NEG;PART	_	_	_	_
+17	under	under	_	_	ADP	_	_	_	_
+18	de	den	_	_	PL;DEF;DET	_	_	_	_
+19	sista	sist	_	_	DEF;NOM;RL;ADJ	_	_	_	_
+20	15	15	_	_	NOM;NUM	_	_	_	_
+21	åren	år	_	_	NEUT;DEF;PL;N;NOM	_	_	_	_
+22	av	av	_	_	ADP	_	_	_	_
+23	hans	hans	_	_	DEF;PRO	_	_	_	_
+24	liv	liv	_	_	NEUT;SG;INDF;N;NOM	_	_	_	_
+25	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01022005
+# text = Många vetenskapsmän säger att teknologi för att avlägsna kol från luften nu kommer behövas för att möta målen från Paris.
+# text_en = Many scientists say that technology to remove carbon from the air will now be needed to meet the Paris targets.
+1	Många	mången	_	_	NOM;ADJ;PL	_	_	_	_
+2	vetenskapsmän	vetenskapsman	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+3	säger	säga	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+4	att	att	_	_	CONJ	_	_	_	_
+5	teknologi	teknologi	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+6	för	för	_	_	ADP	_	_	_	_
+7	att	att	_	_	PART	_	_	_	_
+8	avlägsna	avlägsna	_	_	ACT;V;NFIN	_	_	_	_
+9	kol	kol	_	_	NEUT;SG;INDF;N;NOM	_	_	_	_
+10	från	från	_	_	ADP	_	_	_	_
+11	luften	luft	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+12	nu	nu	_	_	ADV	_	_	_	_
+13	kommer	komma	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+14	behövas	behöva	_	_	V;NFIN;PASS	_	_	_	_
+15	för	för	_	_	ADP	_	_	_	_
+16	att	att	_	_	PART	_	_	_	_
+17	möta	möta	_	_	ACT;V;NFIN	_	_	_	_
+18	målen	mål	_	_	NEUT;DEF;PL;N;NOM	_	_	_	_
+19	från	från	_	_	ADP	_	_	_	_
+20	Paris	Paris	_	_	PROPN;NOM	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01150045
+# text = Vid inledningen av Londonkonferensen i december 1912 förkastade ambassadörerna för alla sex av stormakterna planen för att etablera ett självständigt Albanien.
+# text_en = At the beginning of the London conference in December 1912 the ambassadors of all six Great Powers rejected the plan for establishing an independent Albania.
+1	Vid	vid	_	_	ADP	_	_	_	_
+2	inledningen	inledning	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+3	av	av	_	_	ADP	_	_	_	_
+4	Londonkonferensen	londonkonferens	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+5	i	i	_	_	ADP	_	_	_	_
+6	december	december	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+7	1912	1912	_	_	NOM;NUM	_	_	_	_
+8	förkastade	förkasta	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+9	ambassadörerna	ambassadör	_	_	DEF;PL;MASC+FEM;NOM;N	_	_	_	_
+10	för	för	_	_	ADP	_	_	_	_
+11	alla	all	_	_	PL;DET	_	_	_	_
+12	sex	sex	_	_	NOM;NUM	_	_	_	_
+13	av	av	_	_	ADP	_	_	_	_
+14	stormakterna	stormakt	_	_	DEF;PL;MASC+FEM;NOM;N	_	_	_	_
+15	planen	plan	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+16	för	för	_	_	ADP	_	_	_	_
+17	att	att	_	_	PART	_	_	_	_
+18	etablera	etablera	_	_	ACT;V;NFIN	_	_	_	_
+19	ett	en	_	_	INDF;SG;NEUT;DET	_	_	_	_
+20	självständigt	självständig	_	_	NEUT;SG;ADJ;INDF;NOM	_	_	_	_
+21	Albanien	Albanien	_	_	PROPN;NOM	_	_	_	_
+22	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01148
+# sent_id = n01148029
+# text = Det drivs också av uppväxten av moderna skyskrapor – som den visionära MahaNakhon, Bangkoks högsta byggnad.
+# text_en = It's also fuelled the emergence of modern high-rises -- like the visionary MahaNakhon, Bangkok's tallest building.
+1	Det	det	_	_	SG;DEF;NEUT;PRO	_	_	_	_
+2	drivs	driva	_	_	PRS;PASS;FIN;V;IND	_	_	_	_
+3	också	också	_	_	ADV	_	_	_	_
+4	av	av	_	_	ADP	_	_	_	_
+5	uppväxten	uppväxt	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+6	av	av	_	_	ADP	_	_	_	_
+7	moderna	modern	_	_	NOM;ADJ;PL	_	_	_	_
+8	skyskrapor	skyskrapa	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+9	–	–	_	_	_	_	_	_	_
+10	som	som	_	_	ADP	_	_	_	_
+11	den	den	_	_	MASC+FEM;SG;DEF;DET	_	_	_	_
+12	visionära	visionär	_	_	SG;DEF;ADJ;NOM	_	_	_	_
+13	MahaNakhon	MahaNakho	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	Bangkoks	Bangkok	_	_	PROPN;GEN	_	_	_	_
+16	högsta	hög	_	_	DEF;NOM;RL;ADJ	_	_	_	_
+17	byggnad	byggnad	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01130
+# sent_id = w01130099
+# text = Rafferty släppte två album till under 1990-talet i vad musikern Tom Robinson senare beskrev som ”en ordentlig återkomst till högform”.
+# text_en = Rafferty released two further albums in the 1990s in what musician Tom Robinson later described as "a major return to form".
+1	Rafferty	Rafferty	_	_	PROPN;NOM	_	_	_	_
+2	släppte	släppa	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+3	två	två	_	_	NOM;NUM	_	_	_	_
+4	album	album	_	_	NEUT;PL;INDF;N;NOM	_	_	_	_
+5	till	till	_	_	ADP	_	_	_	_
+6	under	under	_	_	ADP	_	_	_	_
+7	1990-talet	1990-tal	_	_	NEUT;SG;DEF;N;NOM	_	_	_	_
+8	i	i	_	_	ADP	_	_	_	_
+9	vad	vad	_	_	NEUT;SG;INDF;PRO	_	_	_	_
+10	musikern	musiker	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+11	Tom	Tom	_	_	PROPN;NOM	_	_	_	_
+12	Robinson	Robinson	_	_	PROPN;NOM	_	_	_	_
+13	senare	sent	_	_	ADV;CMPR	_	_	_	_
+14	beskrev	beskriva	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+15	som	som	_	_	CONJ	_	_	_	_
+16	”	”	_	_	_	_	_	_	_
+17	en	en	_	_	INDF;MASC+FEM;SG;DET	_	_	_	_
+18	ordentlig	ordentlig	_	_	SG;ADJ;INDF;MASC+FEM;NOM	_	_	_	_
+19	återkomst	återkomst	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+20	till	till	_	_	ADP	_	_	_	_
+21	högform	högform	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+22	”	”	_	_	_	_	_	_	_
+23	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01125016
+# text = Londons landmärke South Bank Tower anlitade inredningsarkitekten Rachel Winham för att designa visningslägenheten.
+# text_en = London’s landmark South Bank Tower commissioned interior designer Rachel Winham to design the show apartment.
+1	Londons	London	_	_	PROPN;GEN	_	_	_	_
+2	landmärke	landmärke	_	_	NEUT;SG;INDF;N;NOM	_	_	_	_
+3	South	South	_	_	PROPN;NOM	_	_	_	_
+4	Bank	Bank	_	_	PROPN;NOM	_	_	_	_
+5	Tower	Tower	_	_	PROPN;NOM	_	_	_	_
+6	anlitade	anlita	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+7	inredningsarkitekten	inredningsarkitekt	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+8	Rachel	Rachel	_	_	PROPN;NOM	_	_	_	_
+9	Winham	Winham	_	_	PROPN;NOM	_	_	_	_
+10	för	för	_	_	ADP	_	_	_	_
+11	att	att	_	_	PART	_	_	_	_
+12	designa	designa	_	_	ACT;V;NFIN	_	_	_	_
+13	visningslägenheten	visningslägenhet	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w04010
+# sent_id = w04010027
+# text = Båda studenter till Goffredo Petrassi, träffades Ennio Morricone och Bruno Nicolai vid Santa Cecelia-konservatoriet.
+# text_en = Both students of Goffredo Petrassi, Ennio Morricone and Bruno Nicolai met at the Santa (Saint) Cecelia conservatory.
+1	Båda	båda	_	_	NOM;ADJ;PL	_	_	_	_
+2	studenter	student	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+3	till	till	_	_	ADP	_	_	_	_
+4	Goffredo	Goffredo	_	_	PROPN;NOM	_	_	_	_
+5	Petrassi	Petrassi	_	_	PROPN;NOM	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	träffades	träffas	_	_	PASS;FIN;V;PST;IND	_	_	_	_
+8	Ennio	Ennio	_	_	PROPN;NOM	_	_	_	_
+9	Morricone	Morricone	_	_	PROPN;NOM	_	_	_	_
+10	och	och	_	_	CONJ	_	_	_	_
+11	Bruno	Bruno	_	_	PROPN;NOM	_	_	_	_
+12	Nicolai	Nicolai	_	_	PROPN;NOM	_	_	_	_
+13	vid	vid	_	_	ADP	_	_	_	_
+14	Santa	Santa	_	_	PROPN;NOM	_	_	_	_
+15	Cecelia-konservatoriet	cecelia-konservatorium	_	_	NEUT;SG;DEF;N;NOM	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01135036
+# text = Samma år syntes hon kort i Disneys The Muppets, som Miss Piggys receptionist.
+# text_en = Also that year, she briefly appeared in Disney's The Muppets, as Miss Piggy's receptionist.
+1	Samma	samma	_	_	INDF;DET	_	_	_	_
+2	år	år	_	_	NEUT;SG;INDF;N;NOM	_	_	_	_
+3	syntes	synas	_	_	PASS;FIN;V;PST;IND	_	_	_	_
+4	hon	hon	_	_	SG;DEF;MASC+FEM;NOM;PRO	_	_	_	_
+5	kort	kort	_	_	SG;ADJ;INDF;MASC+FEM;NOM	_	_	_	_
+6	i	i	_	_	ADP	_	_	_	_
+7	Disneys	Disney	_	_	PROPN;GEN	_	_	_	_
+8	The	The	_	_	DEF;DET	_	_	_	_
+9	Muppets	Muppets	_	_	N;PL	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	som	som	_	_	CONJ	_	_	_	_
+12	Miss	miss	_	_	SG;GEN;INDF;N;MASC+FEM	_	_	_	_
+13	Piggys	Piggy	_	_	PROPN;GEN	_	_	_	_
+14	receptionist	receptionist	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = w02015085
+# text = Idag kan omfattande ruiner bevittnas där.
+# text_en = Today, expansive ruins can be viewed there.
+1	Idag	idag	_	_	ADV	_	_	_	_
+2	kan	kunna	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+3	omfattande	omfattande	_	_	V.PTCP;PRS;ADJ;IND;NOM	_	_	_	_
+4	ruiner	ruin	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+5	bevittnas	bevittna	_	_	PRS;PASS;FIN;V;IND	_	_	_	_
+6	där	där	_	_	ADV	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01132013
+# text = Martin har fortfarande två böcker kvar att avsluta i sin hyllade serie, vilka i nuläget har namnen ”The Winds of Winter” och ”A Dream of Spring”.
+# text_en = Martin has yet to finish two of the remaining books in his acclaimed series, currently billed as "The Winds of Winter" and "A Dream of Spring."
+1	Martin	Martin	_	_	PROPN;NOM	_	_	_	_
+2	har	ha	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+3	fortfarande	fortfarande	_	_	ADV	_	_	_	_
+4	två	två	_	_	NOM;NUM	_	_	_	_
+5	böcker	bok	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+6	kvar	kvar	_	_	ADV	_	_	_	_
+7	att	att	_	_	PART	_	_	_	_
+8	avsluta	avsluta	_	_	ACT;V;NFIN	_	_	_	_
+9	i	i	_	_	ADP	_	_	_	_
+10	sin	sin	_	_	SG;DEF;MASC+FEM;PRO	_	_	_	_
+11	hyllade	hyllad	_	_	V.PTCP;SG;DEF;ADJ;PST;NOM	_	_	_	_
+12	serie	serie	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	vilka	vilka	_	_	INDF;PL;PRO	_	_	_	_
+15	i	i	_	_	ADP	_	_	_	_
+16	nuläget	nuläge	_	_	NEUT;SG;DEF;N;NOM	_	_	_	_
+17	har	ha	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+18	namnen	namn	_	_	NEUT;DEF;PL;N;NOM	_	_	_	_
+19	”	”	_	_	_	_	_	_	_
+20	The	The	_	_	DEF;DET	_	_	_	_
+21	Winds	Winds	_	_	N;SG	_	_	_	_
+22	of	Of	_	_	ADP	_	_	_	_
+23	Winter	Winter	_	_	N;SG	_	_	_	_
+24	”	”	_	_	_	_	_	_	_
+25	och	och	_	_	CONJ	_	_	_	_
+26	”	”	_	_	_	_	_	_	_
+27	A	A	_	_	DEF;DET	_	_	_	_
+28	Dream	Dream	_	_	N;SG	_	_	_	_
+29	of	Of	_	_	ADP	_	_	_	_
+30	Spring	spring	_	_	N;SG	_	_	_	_
+31	”	”	_	_	_	_	_	_	_
+32	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w03006
+# sent_id = w03006024
+# text = Under medeltiden hade inte de flesta kristna tillgång till bibeln på sina modersmål.
+# text_en = In the Middle Ages, most Christians did not have access to the Bible in their mother tongue.
+1	Under	under	_	_	ADP	_	_	_	_
+2	medeltiden	medeltid	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+3	hade	ha	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+4	inte	inte	_	_	NEG;PART	_	_	_	_
+5	de	den	_	_	PL;DEF;DET	_	_	_	_
+6	flesta	fler	_	_	RL;DEF;ADJ;PL;NOM	_	_	_	_
+7	kristna	kristen	_	_	NOM;ADJ;PL	_	_	_	_
+8	tillgång	tillgång	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+9	till	till	_	_	ADP	_	_	_	_
+10	bibeln	bibel	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+11	på	på	_	_	ADP	_	_	_	_
+12	sina	sin	_	_	PL;DEF;PRO	_	_	_	_
+13	modersmål	modersmål	_	_	NEUT;PL;INDF;N;NOM	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01095093
+# text = Utanför Japan, med början med kejsar Shōwa, har kejsarna ofta omtalats med sina förnamn, både medan de lever och postumt.
+# text_en = Outside Japan, beginning with Emperor Shōwa, the Emperors are often referred to by their given names, both whilst alive and posthumously.
+1	Utanför	utanför	_	_	ADP	_	_	_	_
+2	Japan	Japan	_	_	PROPN;NOM	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	med	med	_	_	ADP	_	_	_	_
+5	början	början	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+6	med	med	_	_	ADP	_	_	_	_
+7	kejsar	kejsar	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+8	Shōwa	Shōwa	_	_	PROPN;NOM	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	har	ha	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+11	kejsarna	kejsare	_	_	DEF;PL;MASC+FEM;NOM;N	_	_	_	_
+12	ofta	ofta	_	_	ADV	_	_	_	_
+13	omtalats	omtala	_	_	PASS;V;V.CVB	_	_	_	_
+14	med	med	_	_	ADP	_	_	_	_
+15	sina	sin	_	_	PL;DEF;PRO	_	_	_	_
+16	förnamn	förnamn	_	_	NEUT;SG;INDF;N;NOM	_	_	_	_
+17	,	,	_	_	_	_	_	_	_
+18	både	både	_	_	CONJ	_	_	_	_
+19	medan	medan	_	_	CONJ	_	_	_	_
+20	de	de	_	_	PL;NOM;DEF;PRO	_	_	_	_
+21	lever	leva	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+22	och	och	_	_	CONJ	_	_	_	_
+23	postumt	postumt	_	_	ADV	_	_	_	_
+24	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01029083
+# text = Kristna kyrkor i nordvästra Europa och Ukraina använde ofta pilkvistar i stället för palmer vid ceremonierna på palmsöndagen.
+# text_en = Christian churches in northwestern Europe and Ukraine often used willow branches in place of palms in the ceremonies on Palm Sunday.
+1	Kristna	kristen	_	_	NOM;ADJ;PL	_	_	_	_
+2	kyrkor	kyrka	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+3	i	i	_	_	ADP	_	_	_	_
+4	nordvästra	nordväster	_	_	SG;DEF;ADJ;NOM	_	_	_	_
+5	Europa	Europa	_	_	PROPN;NOM	_	_	_	_
+6	och	och	_	_	CONJ	_	_	_	_
+7	Ukraina	Ukraina	_	_	PROPN;NOM	_	_	_	_
+8	använde	använda	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+9	ofta	ofta	_	_	ADV	_	_	_	_
+10	pilkvistar	pilkvist	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+11	i	i	_	_	ADP	_	_	_	_
+12	stället	ställe	_	_	NEUT;SG;DEF;N;NOM	_	_	_	_
+13	för	för	_	_	ADP	_	_	_	_
+14	palmer	palm	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+15	vid	vid	_	_	ADP	_	_	_	_
+16	ceremonierna	ceremoni	_	_	DEF;PL;MASC+FEM;NOM;N	_	_	_	_
+17	på	på	_	_	ADP	_	_	_	_
+18	palmsöndagen	palmsöndag	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01053
+# sent_id = w01053015
+# text = Det exakta året för giftermålet mellan Herodes Antipas och Herodias är föremål för debatt mellan forskare.
+# text_en = The exact year of the marriage of Herod Antipas and Herodias is subject to debate among scholars.
+1	Det	den	_	_	SG;DEF;NEUT;DET	_	_	_	_
+2	exakta	exakt	_	_	SG;DEF;ADJ;NOM	_	_	_	_
+3	året	år	_	_	NEUT;SG;DEF;N;NOM	_	_	_	_
+4	för	för	_	_	ADP	_	_	_	_
+5	giftermålet	giftermål	_	_	NEUT;SG;DEF;N;NOM	_	_	_	_
+6	mellan	mellan	_	_	ADP	_	_	_	_
+7	Herodes	Herode	_	_	PROPN;GEN	_	_	_	_
+8	Antipas	Antipas	_	_	PROPN;NOM	_	_	_	_
+9	och	och	_	_	CONJ	_	_	_	_
+10	Herodias	Herodias	_	_	PROPN;NOM	_	_	_	_
+11	är	vara	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+12	föremål	föremål	_	_	NEUT;PL;INDF;N;NOM	_	_	_	_
+13	för	för	_	_	ADP	_	_	_	_
+14	debatt	debatt	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+15	mellan	mellan	_	_	ADP	_	_	_	_
+16	forskare	forskare	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01137010
+# text = Jag hade inte sett flera avsnitt och så började min telefon tändas.
+# text_en = I hadn't seen a lot of the episodes and then my phone started lighting up.
+1	Jag	jag	_	_	SG;DEF;MASC+FEM;NOM;PRO	_	_	_	_
+2	hade	ha	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+3	inte	inte	_	_	NEG;PART	_	_	_	_
+4	sett	se	_	_	ACT;V;V.CVB	_	_	_	_
+5	flera	flera	_	_	ADJ;PL;INDF;NOM	_	_	_	_
+6	avsnitt	avsnitt	_	_	NEUT;PL;INDF;N;NOM	_	_	_	_
+7	och	och	_	_	CONJ	_	_	_	_
+8	så	så	_	_	ADV	_	_	_	_
+9	började	börja	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+10	min	min	_	_	SG;DEF;MASC+FEM;PRO	_	_	_	_
+11	telefon	telefon	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+12	tändas	tända	_	_	V;NFIN;PASS	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01150
+# sent_id = n01150007
+# text = Men arkitektur kan bygga broar mellan de levande och de döda och, i någon mån, göra gränsen otydlig.
+# text_en = "But architecture can build a bridge between the living and the dead and, to some extent, blur the boundaries."
+1	Men	men	_	_	CONJ	_	_	_	_
+2	arkitektur	arkitektur	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+3	kan	kunna	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+4	bygga	bygga	_	_	ACT;V;NFIN	_	_	_	_
+5	broar	bro	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+6	mellan	mellan	_	_	ADP	_	_	_	_
+7	de	den	_	_	PL;DEF;DET	_	_	_	_
+8	levande	levande	_	_	V.PTCP;PRS;ADJ;IND;NOM	_	_	_	_
+9	och	och	_	_	CONJ	_	_	_	_
+10	de	den	_	_	PL;DEF;DET	_	_	_	_
+11	döda	död	_	_	NOM;ADJ;PL	_	_	_	_
+12	och	och	_	_	CONJ	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	i	i	_	_	ADP	_	_	_	_
+15	någon	någon	_	_	INDF;MASC+FEM;SG;DET	_	_	_	_
+16	mån	mån	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+17	,	,	_	_	_	_	_	_	_
+18	göra	göra	_	_	ACT;V;NFIN	_	_	_	_
+19	gränsen	gräns	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+20	otydlig	otydlig	_	_	SG;ADJ;INDF;MASC+FEM;NOM	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n02044
+# sent_id = n02044008
+# text = För Kerber markerar säsongsavslutningen icke desto mindre slutet på ett otroligt år.
+# text_en = For Kerber, the season finale nevertheless marks the end of an unbelievable year.
+1	För	för	_	_	ADP	_	_	_	_
+2	Kerber	Kerber	_	_	PROPN;NOM	_	_	_	_
+3	markerar	markera	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+4	säsongsavslutningen	säsongsavslutning	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+5	icke	icke	_	_	NEG;PART	_	_	_	_
+6	desto	desto	_	_	ADV	_	_	_	_
+7	mindre	liten	_	_	NOM;ADJ;CMPR	_	_	_	_
+8	slutet	slut	_	_	NEUT;SG;DEF;N;NOM	_	_	_	_
+9	på	på	_	_	ADP	_	_	_	_
+10	ett	en	_	_	INDF;SG;NEUT;DET	_	_	_	_
+11	otroligt	otrolig	_	_	NEUT;SG;ADJ;INDF;NOM	_	_	_	_
+12	år	år	_	_	NEUT;SG;INDF;N;NOM	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01079065
+# text = Konstnärer når människor i deras hjärtan, det är den enda gången när vi möts på en plats och lägger våra meningsskiljaktigheter åt sidan.
+# text_en = Artists reach people at their heart; it’s the only time we meet in one place and put our differences aside.
+1	Konstnärer	konstnär	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+2	når	nå	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+3	människor	människa	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+4	i	i	_	_	ADP	_	_	_	_
+5	deras	deras	_	_	DEF;PRO	_	_	_	_
+6	hjärtan	hjärta	_	_	NEUT;PL;INDF;N;NOM	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	det	det	_	_	SG;DEF;NEUT;PRO	_	_	_	_
+9	är	vara	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+10	den	den	_	_	MASC+FEM;SG;DEF;DET	_	_	_	_
+11	enda	enda	_	_	NOM;ADJ	_	_	_	_
+12	gången	gång	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+13	när	när	_	_	ADV	_	_	_	_
+14	vi	vi	_	_	DEF;PL;MASC+FEM;NOM;PRO	_	_	_	_
+15	möts	mötas	_	_	PRS;PASS;FIN;V;IND	_	_	_	_
+16	på	på	_	_	ADP	_	_	_	_
+17	en	en	_	_	INDF;MASC+FEM;SG;DET	_	_	_	_
+18	plats	plats	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+19	och	och	_	_	CONJ	_	_	_	_
+20	lägger	lägga	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+21	våra	vår	_	_	PL;DEF;PRO	_	_	_	_
+22	meningsskiljaktigheter	meningsskiljaktighet	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+23	åt	åt	_	_	ADP	_	_	_	_
+24	sidan	sida	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+25	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01068
+# sent_id = n01068029
+# text = Valkretsen är i kommunalområdet för North Kesteven, där 62 % av de röstande stödde att lämna EU.
+# text_en = The constituency is in the council area of North Kesteven, where 62% of voters backed leaving the EU.
+1	Valkretsen	valkrets	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+2	är	vara	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+3	i	i	_	_	ADP	_	_	_	_
+4	kommunalområdet	kommunalområde	_	_	NEUT;SG;DEF;N;NOM	_	_	_	_
+5	för	för	_	_	ADP	_	_	_	_
+6	North	North	_	_	PROPN;NOM	_	_	_	_
+7	Kesteven	Kesteven	_	_	PROPN;NOM	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	där	där	_	_	ADV	_	_	_	_
+10	62	62	_	_	NOM;NUM	_	_	_	_
+11	%	%	_	_	N	_	_	_	_
+12	av	av	_	_	ADP	_	_	_	_
+13	de	den	_	_	PL;DEF;DET	_	_	_	_
+14	röstande	röstande	_	_	V.PTCP;PRS;ADJ;IND;NOM	_	_	_	_
+15	stödde	stöda	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+16	att	att	_	_	PART	_	_	_	_
+17	lämna	lämna	_	_	ACT;V;NFIN	_	_	_	_
+18	EU	EU	_	_	PROPN;NOM	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n05009
+# sent_id = n05009025
+# text = Det kommer att ske protester och andra saker, det är redan planerat alltihop, berättade oppositionen för El Mundo.
+# text_en = "There will be protests and other things, it's all already planned," the opposition told El Mundo.
+1	Det	det	_	_	SG;DEF;NEUT;PRO	_	_	_	_
+2	kommer	komma	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+3	att	att	_	_	PART	_	_	_	_
+4	ske	ske	_	_	ACT;V;NFIN	_	_	_	_
+5	protester	protest	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+6	och	och	_	_	CONJ	_	_	_	_
+7	andra	annan	_	_	NOM;ADJ;PL	_	_	_	_
+8	saker	sak	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	det	det	_	_	SG;DEF;NEUT;PRO	_	_	_	_
+11	är	vara	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+12	redan	redan	_	_	ADV	_	_	_	_
+13	planerat	planera	_	_	ACT;V;V.CVB	_	_	_	_
+14	alltihop	alltihop	_	_	INDF;SG;NEUT;PRO	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	berättade	berätta	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+17	oppositionen	opposition	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+18	för	för	_	_	ADP	_	_	_	_
+19	El	El	_	_	DEF;DET	_	_	_	_
+20	Mundo	mundo	_	_	N;SG	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w02017
+# sent_id = w02017046
+# text = "Censuren skaffade undan alla oönskade åsikter; deltagande i det offentliga livet hade blivit i praktiken omöjligt."
+# text_en = The censorship disposed of all undesirable opinions; participation in public life had become practically impossible.
+1	"	"	_	_	_	_	_	_	_
+2	Censuren	censur	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+3	skaffade	skaffa	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+4	undan	undan	_	_	ADV	_	_	_	_
+5	alla	all	_	_	PL;DET	_	_	_	_
+6	oönskade	oönskad	_	_	NOM;ADJ;PL	_	_	_	_
+7	åsikter	åsikt	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+8	;	;	_	_	_	_	_	_	_
+9	deltagande	deltagande	_	_	NEUT;SG;INDF;N;NOM	_	_	_	_
+10	i	i	_	_	ADP	_	_	_	_
+11	det	den	_	_	SG;DEF;NEUT;DET	_	_	_	_
+12	offentliga	offentlig	_	_	SG;DEF;ADJ;NOM	_	_	_	_
+13	livet	liv	_	_	NEUT;SG;DEF;N;NOM	_	_	_	_
+14	hade	ha	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+15	blivit	bliva	_	_	ACT;V;V.CVB	_	_	_	_
+16	i	i	_	_	ADP	_	_	_	_
+17	praktiken	praktik	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+18	omöjligt	omöjlig	_	_	NEUT;SG;ADJ;INDF;NOM	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+20	"	"	_	_	_	_	_	_	_
+
+# sent_id = w01035080
+# text = Å andra sidan kommer ett friskt ekosystem med goda ledningsprinciper minska risken för att dessa händelser inträffar, eller kommer åtminstone mildra deras negativa effekter.
+# text_en = On the other hand, a healthy ecosystem with good management practices will reduce the chance of these events happening, or will at least mitigate adverse impacts.
+1	Å	å	_	_	ADP	_	_	_	_
+2	andra	annan	_	_	SG;DEF;ADJ;NOM	_	_	_	_
+3	sidan	sida	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+4	kommer	komma	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+5	ett	en	_	_	INDF;SG;NEUT;DET	_	_	_	_
+6	friskt	frisk	_	_	NEUT;SG;ADJ;INDF;NOM	_	_	_	_
+7	ekosystem	ekosystem	_	_	NEUT;SG;INDF;N;NOM	_	_	_	_
+8	med	med	_	_	ADP	_	_	_	_
+9	goda	god	_	_	NOM;ADJ;PL	_	_	_	_
+10	ledningsprinciper	ledningsprincip	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+11	minska	minska	_	_	ACT;V;NFIN	_	_	_	_
+12	risken	risk	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+13	för	för	_	_	ADP	_	_	_	_
+14	att	att	_	_	CONJ	_	_	_	_
+15	dessa	denna	_	_	PL;DEF;DET	_	_	_	_
+16	händelser	händelse	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+17	inträffar	inträffa	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	eller	eller	_	_	CONJ	_	_	_	_
+20	kommer	komma	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+21	åtminstone	åtminstone	_	_	ADV	_	_	_	_
+22	mildra	mildra	_	_	ACT;V;NFIN	_	_	_	_
+23	deras	deras	_	_	DEF;PRO	_	_	_	_
+24	negativa	negativ	_	_	NOM;ADJ;PL	_	_	_	_
+25	effekter	effekt	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+26	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01039
+# sent_id = w01039032
+# text = Det var här de stal en liten kanot som lämnats av de australiensiska aboriginerna i regionen.
+# text_en = It was here they stole a small canoe left by the Australian Aborigines of the region.
+1	Det	det	_	_	SG;DEF;NEUT;PRO	_	_	_	_
+2	var	vara	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+3	här	här	_	_	ADV	_	_	_	_
+4	de	de	_	_	PL;NOM;DEF;PRO	_	_	_	_
+5	stal	stjäla	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+6	en	en	_	_	INDF;MASC+FEM;SG;DET	_	_	_	_
+7	liten	liten	_	_	SG;ADJ;INDF;MASC+FEM;NOM	_	_	_	_
+8	kanot	kanot	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+9	som	som	_	_	PRO	_	_	_	_
+10	lämnats	lämna	_	_	PASS;V;V.CVB	_	_	_	_
+11	av	av	_	_	ADP	_	_	_	_
+12	de	den	_	_	PL;DEF;DET	_	_	_	_
+13	australiensiska	australiensisk	_	_	NOM;ADJ;PL	_	_	_	_
+14	aboriginerna	aborigin	_	_	DEF;PL;MASC+FEM;NOM;N	_	_	_	_
+15	i	i	_	_	ADP	_	_	_	_
+16	regionen	region	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01053036
+# text = Vid bara 20 är hon en stark röst mot mobbning och en positiv sådan när det kommer till att hjälpa flickor att omfamna sina egna skönhetsnormer.
+# text_en = At just 20, she is a strong voice against bullying and a positive one in helping girls embrace their own standards of beauty.
+1	Vid	vid	_	_	ADP	_	_	_	_
+2	bara	bara	_	_	ADV	_	_	_	_
+3	20	20	_	_	NOM;NUM	_	_	_	_
+4	är	vara	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+5	hon	hon	_	_	SG;DEF;MASC+FEM;NOM;PRO	_	_	_	_
+6	en	en	_	_	INDF;MASC+FEM;SG;DET	_	_	_	_
+7	stark	stark	_	_	SG;ADJ;INDF;MASC+FEM;NOM	_	_	_	_
+8	röst	röst	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+9	mot	mot	_	_	ADP	_	_	_	_
+10	mobbning	mobbning	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+11	och	och	_	_	CONJ	_	_	_	_
+12	en	en	_	_	INDF;MASC+FEM;SG;DET	_	_	_	_
+13	positiv	positiv	_	_	SG;ADJ;INDF;MASC+FEM;NOM	_	_	_	_
+14	sådan	sådan	_	_	SG;ADJ;INDF;MASC+FEM;NOM	_	_	_	_
+15	när	när	_	_	ADV	_	_	_	_
+16	det	det	_	_	SG;DEF;NEUT;PRO	_	_	_	_
+17	kommer	komma	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+18	till	till	_	_	ADP	_	_	_	_
+19	att	att	_	_	PART	_	_	_	_
+20	hjälpa	hjälpa	_	_	ACT;V;NFIN	_	_	_	_
+21	flickor	flicka	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+22	att	att	_	_	PART	_	_	_	_
+23	omfamna	omfamna	_	_	ACT;V;NFIN	_	_	_	_
+24	sina	sin	_	_	PL;DEF;PRO	_	_	_	_
+25	egna	egen	_	_	NOM;ADJ;PL	_	_	_	_
+26	skönhetsnormer	skönhetsnorm	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+27	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01076017
+# text = Mrs Clinton har ett rykte om att ha en hökliknande inställning, men denna kommer att vara dämpad av den krigströtta allmänna opinionen i USA.
+# text_en = Mrs Clinton has a reputation for a hawkish outlook, but this will be tempered by war-weary public opinion in the US.
+1	Mrs	mrs	_	_	N	_	_	_	_
+2	Clinton	Clinton	_	_	PROPN;NOM	_	_	_	_
+3	har	ha	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+4	ett	en	_	_	INDF;SG;NEUT;DET	_	_	_	_
+5	rykte	rykte	_	_	NEUT;SG;INDF;N;NOM	_	_	_	_
+6	om	om	_	_	ADP	_	_	_	_
+7	att	att	_	_	PART	_	_	_	_
+8	ha	ha	_	_	ACT;V;NFIN	_	_	_	_
+9	en	en	_	_	INDF;MASC+FEM;SG;DET	_	_	_	_
+10	hökliknande	hökliknande	_	_	V.PTCP;PRS;ADJ;IND;NOM	_	_	_	_
+11	inställning	inställning	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	men	men	_	_	CONJ	_	_	_	_
+14	denna	denna	_	_	MASC+FEM;SG;DEF;PRO	_	_	_	_
+15	kommer	komma	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+16	att	att	_	_	PART	_	_	_	_
+17	vara	vara	_	_	ACT;V;NFIN	_	_	_	_
+18	dämpad	dämpad	_	_	V.PTCP;SG;ADJ;PST;INDF;MASC+FEM;NOM	_	_	_	_
+19	av	av	_	_	ADP	_	_	_	_
+20	den	den	_	_	MASC+FEM;SG;DEF;DET	_	_	_	_
+21	krigströtta	krigstrött	_	_	SG;DEF;ADJ;NOM	_	_	_	_
+22	allmänna	allmän	_	_	SG;DEF;ADJ;NOM	_	_	_	_
+23	opinionen	opinion	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+24	i	i	_	_	ADP	_	_	_	_
+25	USA	USA	_	_	PROPN;NOM	_	_	_	_
+26	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01035
+# sent_id = w01035079
+# text = Förstörelse av livsmiljöer ökar storligen ett områdes sårbarhet mot naturkatastrofer som översvämningar och torka, missväxt, sjukdomsspridning och vattenförorening.
+# text_en = Habitat destruction vastly increases an area's vulnerability to natural disasters like flood and drought, crop failure, spread of disease, and water contamination.
+1	Förstörelse	förstörelse	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+2	av	av	_	_	ADP	_	_	_	_
+3	livsmiljöer	livsmiljö	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+4	ökar	öka	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+5	storligen	storligen	_	_	ADV	_	_	_	_
+6	ett	en	_	_	INDF;SG;NEUT;DET	_	_	_	_
+7	områdes	område	_	_	NEUT;SG;GEN;INDF;N	_	_	_	_
+8	sårbarhet	sårbarhet	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+9	mot	mot	_	_	ADP	_	_	_	_
+10	naturkatastrofer	naturkatastrof	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+11	som	som	_	_	CONJ	_	_	_	_
+12	översvämningar	översvämning	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+13	och	och	_	_	CONJ	_	_	_	_
+14	torka	torka	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	missväxt	missväxt	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+17	,	,	_	_	_	_	_	_	_
+18	sjukdomsspridning	sjukdomsspridning	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+19	och	och	_	_	CONJ	_	_	_	_
+20	vattenförorening	vattenförorening	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01069094
+# text = Dess kamp mot det Osmanska imperiet i Medelhavet innebar stora begränsningar för den militära styrka det kunde sätta in mot rebellerna i Nederländerna.
+# text_en = Its struggle against the Ottoman Empire in the Mediterranean Sea put serious limits on the military power it could deploy against the rebels in the Netherlands.
+1	Dess	dess	_	_	DEF;PRO	_	_	_	_
+2	kamp	kamp	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+3	mot	mot	_	_	ADP	_	_	_	_
+4	det	den	_	_	SG;DEF;NEUT;DET	_	_	_	_
+5	Osmanska	osmansk	_	_	SG;DEF;ADJ;NOM	_	_	_	_
+6	imperiet	imperium	_	_	NEUT;SG;DEF;N;NOM	_	_	_	_
+7	i	i	_	_	ADP	_	_	_	_
+8	Medelhavet	Medelhavet	_	_	PROPN;NOM	_	_	_	_
+9	innebar	innebära	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+10	stora	stor	_	_	NOM;ADJ;PL	_	_	_	_
+11	begränsningar	begränsning	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+12	för	för	_	_	ADP	_	_	_	_
+13	den	den	_	_	MASC+FEM;SG;DEF;DET	_	_	_	_
+14	militära	militär	_	_	SG;DEF;ADJ;NOM	_	_	_	_
+15	styrka	styrka	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+16	det	det	_	_	SG;DEF;NEUT;PRO	_	_	_	_
+17	kunde	kunna	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+18	sätta	sätta	_	_	ACT;V;NFIN	_	_	_	_
+19	in	in	_	_	ADV	_	_	_	_
+20	mot	mot	_	_	ADP	_	_	_	_
+21	rebellerna	rebell	_	_	DEF;PL;MASC+FEM;NOM;N	_	_	_	_
+22	i	i	_	_	ADP	_	_	_	_
+23	Nederländerna	Nederländerna	_	_	PROPN;NOM	_	_	_	_
+24	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01066068
+# text = I korrespondens med Woods via e-post försökte jag mig på att forska fram ett etymon.
+# text_en = Corresponding with Woods by e-mail, I tried my hand at uncovering an etym.
+1	I	i	_	_	ADP	_	_	_	_
+2	korrespondens	korrespondens	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+3	med	med	_	_	ADP	_	_	_	_
+4	Woods	Woods	_	_	PROPN;NOM	_	_	_	_
+5	via	via	_	_	ADP	_	_	_	_
+6	e-post	e-post	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+7	försökte	försöka	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+8	jag	jag	_	_	SG;DEF;MASC+FEM;NOM;PRO	_	_	_	_
+9	mig	jag	_	_	ACC;SG;DEF;MASC+FEM;PRO	_	_	_	_
+10	på	på	_	_	ADP	_	_	_	_
+11	att	att	_	_	PART	_	_	_	_
+12	forska	forska	_	_	ACT;V;NFIN	_	_	_	_
+13	fram	fram	_	_	ADV	_	_	_	_
+14	ett	en	_	_	INDF;SG;NEUT;DET	_	_	_	_
+15	etymon	etymon	_	_	NEUT;SG;INDF;N;NOM	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01093
+# sent_id = w01093028
+# text = Under det andra messeniska kriget etablerade sig Sparta som en lokal makt i Peleponnesos och resten av Grekland.
+# text_en = In the Second Messenian War, Sparta established itself as a local power in Peloponnesus and the rest of Greece.
+1	Under	under	_	_	ADP	_	_	_	_
+2	det	den	_	_	SG;DEF;NEUT;DET	_	_	_	_
+3	andra	andra	_	_	NOM;ADJ	_	_	_	_
+4	messeniska	messeniska	_	_	SG;DEF;ADJ;NOM	_	_	_	_
+5	kriget	krig	_	_	NEUT;SG;DEF;N;NOM	_	_	_	_
+6	etablerade	etablera	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+7	sig	sig	_	_	DEF;ACC;PRO	_	_	_	_
+8	Sparta	Sparta	_	_	PROPN;NOM	_	_	_	_
+9	som	som	_	_	CONJ	_	_	_	_
+10	en	en	_	_	INDF;MASC+FEM;SG;DET	_	_	_	_
+11	lokal	lokal	_	_	SG;ADJ;INDF;MASC+FEM;NOM	_	_	_	_
+12	makt	makt	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+13	i	i	_	_	ADP	_	_	_	_
+14	Peleponnesos	Peleponnesos	_	_	PROPN;NOM	_	_	_	_
+15	och	och	_	_	CONJ	_	_	_	_
+16	resten	rest	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+17	av	av	_	_	ADP	_	_	_	_
+18	Grekland	Grekland	_	_	PROPN;NOM	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01061041
+# text = Medan hysterin runt 2016 års presidentval intensifieras är det ett mer oroväckande hot som upptar Karels uppmärksamhet.
+# text_en = As the hysteria of the 2016 Presidential election intensifies, a more troubling threat than bullshit preoccupies Karel.
+1	Medan	medan	_	_	CONJ	_	_	_	_
+2	hysterin	hysteri	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+3	runt	runt	_	_	ADP	_	_	_	_
+4	2016	2016	_	_	NOM;NUM	_	_	_	_
+5	års	år	_	_	NEUT;SG;GEN;INDF;N	_	_	_	_
+6	presidentval	presidentval	_	_	NEUT;SG;INDF;N;NOM	_	_	_	_
+7	intensifieras	intensifiera	_	_	PRS;PASS;FIN;V;IND	_	_	_	_
+8	är	vara	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+9	det	det	_	_	SG;DEF;NEUT;PRO	_	_	_	_
+10	ett	en	_	_	INDF;SG;NEUT;DET	_	_	_	_
+11	mer	mycket	_	_	ADV;CMPR	_	_	_	_
+12	oroväckande	oroväckande	_	_	V.PTCP;PRS;ADJ;IND;NOM	_	_	_	_
+13	hot	hot	_	_	NEUT;SG;INDF;N;NOM	_	_	_	_
+14	som	som	_	_	PRO	_	_	_	_
+15	upptar	uppta	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+16	Karels	karel	_	_	SG;GEN;INDF;N;MASC+FEM	_	_	_	_
+17	uppmärksamhet	uppmärksamhet	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01020017
+# text = Det gav vägar för handel, kolonisering och krig, såväl som mat (från fiske och samlande av andra födoämnen från havet) för talrika samhällen genom åldrarna.
+# text_en = It provided routes for trade, colonisation, and war, as well as food (from fishing and the gathering of other seafood) for numerous communities throughout the ages.
+1	Det	det	_	_	SG;DEF;NEUT;PRO	_	_	_	_
+2	gav	giva	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+3	vägar	väg	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+4	för	för	_	_	ADP	_	_	_	_
+5	handel	handel	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	kolonisering	kolonisering	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+8	och	och	_	_	CONJ	_	_	_	_
+9	krig	krig	_	_	NEUT;SG;INDF;N;NOM	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	såväl	såväl	_	_	ADV	_	_	_	_
+12	som	som	_	_	CONJ	_	_	_	_
+13	mat	mat	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+14	(	(	_	_	_	_	_	_	_
+15	från	från	_	_	ADP	_	_	_	_
+16	fiske	fiske	_	_	NEUT;SG;INDF;N;NOM	_	_	_	_
+17	och	och	_	_	CONJ	_	_	_	_
+18	samlande	samlande	_	_	V.PTCP;PRS;ADJ;IND;NOM	_	_	_	_
+19	av	av	_	_	ADP	_	_	_	_
+20	andra	annan	_	_	NOM;ADJ;PL	_	_	_	_
+21	födoämnen	födoämne	_	_	NEUT;PL;INDF;N;NOM	_	_	_	_
+22	från	från	_	_	ADP	_	_	_	_
+23	havet	hav	_	_	NEUT;SG;DEF;N;NOM	_	_	_	_
+24	)	)	_	_	_	_	_	_	_
+25	för	för	_	_	ADP	_	_	_	_
+26	talrika	talrik	_	_	NOM;ADJ;PL	_	_	_	_
+27	samhällen	samhälle	_	_	NEUT;PL;INDF;N;NOM	_	_	_	_
+28	genom	genom	_	_	ADP	_	_	_	_
+29	åldrarna	ålder	_	_	DEF;PL;MASC+FEM;NOM;N	_	_	_	_
+30	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01006081
+# text = 2007 var den mest framgångsrika filmen El Greco, regisserad av Yannis Smaragdis.
+# text_en = In 2007 the most successful film was El Greco, directed by Yannis Smaragdis.
+1	2007	2007	_	_	NOM;NUM	_	_	_	_
+2	var	vara	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+3	den	den	_	_	MASC+FEM;SG;DEF;DET	_	_	_	_
+4	mest	mycket	_	_	ADV;RL	_	_	_	_
+5	framgångsrika	framgångsrik	_	_	SG;DEF;ADJ;NOM	_	_	_	_
+6	filmen	film	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+7	El	El	_	_	PROPN;NOM	_	_	_	_
+8	Greco	Greco	_	_	PROPN;NOM	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	regisserad	regisserad	_	_	V.PTCP;SG;ADJ;PST;INDF;MASC+FEM;NOM	_	_	_	_
+11	av	av	_	_	ADP	_	_	_	_
+12	Yannis	Yannis	_	_	PROPN;NOM	_	_	_	_
+13	Smaragdis	Smaragdis	_	_	PROPN;NOM	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01027
+# sent_id = w01027007
+# text = Klimatet är så torrt att dessa slätter ibland anses vara en del av Sahara.
+# text_en = The climate is so dry that these plains are sometimes thought of as part of the Sahara.
+1	Klimatet	klimat	_	_	NEUT;SG;DEF;N;NOM	_	_	_	_
+2	är	vara	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+3	så	så	_	_	ADV	_	_	_	_
+4	torrt	torr	_	_	NEUT;SG;ADJ;INDF;NOM	_	_	_	_
+5	att	att	_	_	CONJ	_	_	_	_
+6	dessa	denna	_	_	PL;DEF;DET	_	_	_	_
+7	slätter	slätt	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+8	ibland	ibland	_	_	ADV	_	_	_	_
+9	anses	anse	_	_	PRS;PASS;FIN;V;IND	_	_	_	_
+10	vara	vara	_	_	ACT;V;NFIN	_	_	_	_
+11	en	en	_	_	INDF;MASC+FEM;SG;DET	_	_	_	_
+12	del	del	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+13	av	av	_	_	ADP	_	_	_	_
+14	Sahara	Sahara	_	_	PROPN;NOM	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01016
+# sent_id = n01016014
+# text = Det sydkoreanska företaget trodde att ett batterifel var orsaken och bytte sin egen komponent mot ett tredjepartstillverkat batteri.
+# text_en = The South Korean company initially thought a battery fault was to blame, and switched its own component for a third-party power cell.
+1	Det	den	_	_	SG;DEF;NEUT;DET	_	_	_	_
+2	sydkoreanska	sydkoreansk	_	_	SG;DEF;ADJ;NOM	_	_	_	_
+3	företaget	företag	_	_	NEUT;SG;DEF;N;NOM	_	_	_	_
+4	trodde	tro	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+5	att	att	_	_	CONJ	_	_	_	_
+6	ett	en	_	_	INDF;SG;NEUT;DET	_	_	_	_
+7	batterifel	batterifel	_	_	NEUT;SG;INDF;N;NOM	_	_	_	_
+8	var	vara	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+9	orsaken	orsak	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+10	och	och	_	_	CONJ	_	_	_	_
+11	bytte	byta	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+12	sin	sin	_	_	SG;DEF;MASC+FEM;PRO	_	_	_	_
+13	egen	egen	_	_	SG;ADJ;MASC+FEM;NOM	_	_	_	_
+14	komponent	komponent	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+15	mot	mot	_	_	ADP	_	_	_	_
+16	ett	en	_	_	INDF;SG;NEUT;DET	_	_	_	_
+17	tredjepartstillverkat	tredjepartstillverkad	_	_	V.PTCP;NEUT;SG;ADJ;PST;INDF;NOM	_	_	_	_
+18	batteri	batteri	_	_	NEUT;SG;INDF;N;NOM	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01108
+# sent_id = n01108003
+# text = Företag hade förväntat sig att minska i juli, direkt efter Brexitomröstningen, men har istället kunnat fortsätta växa stadigt.
+# text_en = Businesses had expected to start contracting in July, immediately after the Brexit vote, but instead have managed to keep growing steadily.
+1	Företag	företag	_	_	NEUT;PL;INDF;N;NOM	_	_	_	_
+2	hade	ha	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+3	förväntat	förvänta	_	_	ACT;V;V.CVB	_	_	_	_
+4	sig	sig	_	_	DEF;ACC;PRO	_	_	_	_
+5	att	att	_	_	PART	_	_	_	_
+6	minska	minska	_	_	ACT;V;NFIN	_	_	_	_
+7	i	i	_	_	ADP	_	_	_	_
+8	juli	juli	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	direkt	direkt	_	_	ADV	_	_	_	_
+11	efter	efter	_	_	ADP	_	_	_	_
+12	Brexitomröstningen	brexitomröstning	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	men	men	_	_	CONJ	_	_	_	_
+15	har	ha	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+16	istället	istället	_	_	ADV	_	_	_	_
+17	kunnat	kunna	_	_	ACT;V;V.CVB	_	_	_	_
+18	fortsätta	fortsätta	_	_	ACT;V;NFIN	_	_	_	_
+19	växa	växa	_	_	ACT;V;NFIN	_	_	_	_
+20	stadigt	stadigt	_	_	ADV	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01021
+# sent_id = n01021007
+# text = Tyvärr är det återigen fåtalet som förstör det för flertalet, skrev Jesse LaBrocca, grundare av Hack Forums, i ett meddelande som förklaring till varför avdelningen stängdes ner.
+# text_en = "Unfortunately once again the few ruin it for the many," wrote Jesse LaBrocca, founder of Hack Forums, in a message explaining why the section was being closed.
+1	Tyvärr	tyvärr	_	_	ADV	_	_	_	_
+2	är	vara	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+3	det	det	_	_	SG;DEF;NEUT;PRO	_	_	_	_
+4	återigen	återigen	_	_	ADV	_	_	_	_
+5	fåtalet	fåtal	_	_	NEUT;SG;DEF;N;NOM	_	_	_	_
+6	som	som	_	_	PRO	_	_	_	_
+7	förstör	förstöra	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+8	det	det	_	_	SG;DEF;NEUT;PRO	_	_	_	_
+9	för	för	_	_	ADP	_	_	_	_
+10	flertalet	flertal	_	_	NEUT;SG;DEF;N;NOM	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	skrev	skriva	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+13	Jesse	Jesse	_	_	PROPN;NOM	_	_	_	_
+14	LaBrocca	Labrocca	_	_	PROPN;NOM	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	grundare	grundare	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+17	av	av	_	_	ADP	_	_	_	_
+18	Hack	hack	_	_	NEUT;PL;INDF;N;NOM	_	_	_	_
+19	Forums	Forum	_	_	PROPN;GEN	_	_	_	_
+20	,	,	_	_	_	_	_	_	_
+21	i	i	_	_	ADP	_	_	_	_
+22	ett	en	_	_	INDF;SG;NEUT;DET	_	_	_	_
+23	meddelande	meddelande	_	_	NEUT;SG;INDF;N;NOM	_	_	_	_
+24	som	som	_	_	ADP	_	_	_	_
+25	förklaring	förklaring	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+26	till	till	_	_	ADP	_	_	_	_
+27	varför	varför	_	_	ADV	_	_	_	_
+28	avdelningen	avdelning	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+29	stängdes	stänga	_	_	PASS;FIN;V;PST;IND	_	_	_	_
+30	ner	ner	_	_	ADV	_	_	_	_
+31	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w02019
+# sent_id = w02019048
+# text = Privat såväl som offentligt sökte Springer energiskt försoning med det judiska folket och företog många resor till Israel.
+# text_en = Privately as well as publicly, Springer vigorously pursued reconciliation with the Jewish people and took many trips to Israel.
+1	Privat	privat	_	_	ADV	_	_	_	_
+2	såväl	såväl	_	_	ADV	_	_	_	_
+3	som	som	_	_	CONJ	_	_	_	_
+4	offentligt	offentligt	_	_	ADV	_	_	_	_
+5	sökte	söka	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+6	Springer	Springer	_	_	PROPN;NOM	_	_	_	_
+7	energiskt	energiskt	_	_	ADV	_	_	_	_
+8	försoning	försoning	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+9	med	med	_	_	ADP	_	_	_	_
+10	det	den	_	_	SG;DEF;NEUT;DET	_	_	_	_
+11	judiska	judisk	_	_	SG;DEF;ADJ;NOM	_	_	_	_
+12	folket	folk	_	_	NEUT;SG;DEF;N;NOM	_	_	_	_
+13	och	och	_	_	CONJ	_	_	_	_
+14	företog	företa	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+15	många	mången	_	_	NOM;ADJ;PL	_	_	_	_
+16	resor	resa	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+17	till	till	_	_	ADP	_	_	_	_
+18	Israel	Israel	_	_	PROPN;NOM	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01070033
+# text = Tre markeringar lokaliserar soluppgången vid sommar- och vintersolstånden och de två dagjämningarna.
+# text_en = Three markings locate sunrise at the summer and winter solstices and at the two equinoxes.
+1	Tre	tre	_	_	NOM;NUM	_	_	_	_
+2	markeringar	markering	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+3	lokaliserar	lokalisera	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+4	soluppgången	soluppgång	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+5	vid	vid	_	_	ADP	_	_	_	_
+6	sommar-	sommar	_	_	N;MASC+FEM	_	_	_	_
+7	och	och	_	_	CONJ	_	_	_	_
+8	vintersolstånden	vintersolstånden	_	_	NEUT;PL;INDF;N;NOM	_	_	_	_
+9	och	och	_	_	CONJ	_	_	_	_
+10	de	den	_	_	PL;DEF;DET	_	_	_	_
+11	två	två	_	_	NOM;NUM	_	_	_	_
+12	dagjämningarna	dagjämning	_	_	DEF;PL;MASC+FEM;NOM;N	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n02043
+# sent_id = n02043008
+# text = Och nu är han även världsmästare.
+# text_en = And now he is also world champion.
+1	Och	och	_	_	CONJ	_	_	_	_
+2	nu	nu	_	_	ADV	_	_	_	_
+3	är	vara	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+4	han	han	_	_	SG;DEF;MASC+FEM;NOM;PRO	_	_	_	_
+5	även	även	_	_	ADV	_	_	_	_
+6	världsmästare	världsmästare	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01040103
+# text = Vid högre vindstyrka lyfts några partiklar upp i luftströmmen.
+# text_en = At greater wind speeds, some particles are lifted into the air stream.
+1	Vid	vid	_	_	ADP	_	_	_	_
+2	högre	hög	_	_	NOM;ADJ;CMPR	_	_	_	_
+3	vindstyrka	vindstyrka	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+4	lyfts	lyfta	_	_	PRS;PASS;FIN;V;IND	_	_	_	_
+5	några	någon	_	_	INDF;PL;DET	_	_	_	_
+6	partiklar	partikel	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+7	upp	upp	_	_	ADV	_	_	_	_
+8	i	i	_	_	ADP	_	_	_	_
+9	luftströmmen	luftström	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01147018
+# text = Kesha och Pebe skrev låten ”Stephen” tillsammans när Kesha var 16, Kesha letade sedan rätt på David Gamson, en producent hon beundrade, från Scritti Politti som gick med på att producera låten.
+# text_en = Kesha and Pebe co-wrote the song "Stephen" together when Kesha was 16, Kesha then tracked down David Gamson, a producer that she admired, from Scritti Politti who agreed to produce the song.
+1	Kesha	Kesha	_	_	PROPN;NOM	_	_	_	_
+2	och	och	_	_	CONJ	_	_	_	_
+3	Pebe	Pebe	_	_	PROPN;NOM	_	_	_	_
+4	skrev	skriva	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+5	låten	låt	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+6	”	”	_	_	_	_	_	_	_
+7	Stephen	Stephen	_	_	PROPN;NOM	_	_	_	_
+8	”	”	_	_	_	_	_	_	_
+9	tillsammans	tillsammans	_	_	ADV	_	_	_	_
+10	när	när	_	_	CONJ	_	_	_	_
+11	Kesha	Kesha	_	_	PROPN;NOM	_	_	_	_
+12	var	vara	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+13	16	16	_	_	NOM;NUM	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	Kesha	Kesha	_	_	PROPN;NOM	_	_	_	_
+16	letade	leta	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+17	sedan	sedan	_	_	ADV	_	_	_	_
+18	rätt	rätt	_	_	ADV	_	_	_	_
+19	på	på	_	_	ADP	_	_	_	_
+20	David	David	_	_	PROPN;NOM	_	_	_	_
+21	Gamson	Gamson	_	_	PROPN;NOM	_	_	_	_
+22	,	,	_	_	_	_	_	_	_
+23	en	en	_	_	INDF;MASC+FEM;SG;DET	_	_	_	_
+24	producent	producent	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+25	hon	hon	_	_	SG;DEF;MASC+FEM;NOM;PRO	_	_	_	_
+26	beundrade	beundra	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+27	,	,	_	_	_	_	_	_	_
+28	från	från	_	_	ADP	_	_	_	_
+29	Scritti	Scritti	_	_	PROPN;NOM	_	_	_	_
+30	Politti	Politti	_	_	PROPN;NOM	_	_	_	_
+31	som	som	_	_	PRO	_	_	_	_
+32	gick	gå	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+33	med	med	_	_	ADP	_	_	_	_
+34	på	på	_	_	ADP	_	_	_	_
+35	att	att	_	_	PART	_	_	_	_
+36	producera	producera	_	_	ACT;V;NFIN	_	_	_	_
+37	låten	låt	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+38	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01073023
+# text = Var deras gudsgivna rätt till manteln som världens bästa icke längre önskade?
+# text_en = Was their divine right to the mantle as the world’s best no longer warranted?
+1	Var	vara	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+2	deras	deras	_	_	DEF;PRO	_	_	_	_
+3	gudsgivna	gudsgiven	_	_	SG;DEF;ADJ;NOM	_	_	_	_
+4	rätt	rätt	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+5	till	till	_	_	ADP	_	_	_	_
+6	manteln	mantel	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+7	som	som	_	_	CONJ	_	_	_	_
+8	världens	värld	_	_	SG;DEF;GEN;N;MASC+FEM	_	_	_	_
+9	bästa	god	_	_	DEF;NOM;RL;ADJ	_	_	_	_
+10	icke	icke	_	_	NEG;PART	_	_	_	_
+11	längre	länge	_	_	ADV;CMPR	_	_	_	_
+12	önskade	önskad	_	_	V.PTCP;ADJ;PST;PL;NOM	_	_	_	_
+13	?	?	_	_	_	_	_	_	_
+
+# sent_id = w01065022
+# text = Tell Amarna-breven, som kommer från 1300-talet fvt, inkluderar tio brev från kungarna i Gezer som svär trohet till den egyptiske faraon.
+# text_en = The Tell Amarna letters, dating from the 14th century BCE, include ten letters from the kings of Gezer swearing loyalty to the Egyptian pharaoh.
+1	Tell	Tell	_	_	PROPN;NOM	_	_	_	_
+2	Amarna-breven	Amarna-breven	_	_	PROPN;NOM	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	som	som	_	_	PRO	_	_	_	_
+5	kommer	komma	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+6	från	från	_	_	ADP	_	_	_	_
+7	1300-talet	1300-tal	_	_	NEUT;SG;DEF;N;NOM	_	_	_	_
+8	fvt	fvt	_	_	ADV	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	inkluderar	inkludera	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+11	tio	tio	_	_	NOM;NUM	_	_	_	_
+12	brev	brev	_	_	NEUT;PL;INDF;N;NOM	_	_	_	_
+13	från	från	_	_	ADP	_	_	_	_
+14	kungarna	kung	_	_	DEF;PL;MASC+FEM;NOM;N	_	_	_	_
+15	i	i	_	_	ADP	_	_	_	_
+16	Gezer	Gezer	_	_	PROPN;NOM	_	_	_	_
+17	som	som	_	_	PRO	_	_	_	_
+18	svär	svära	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+19	trohet	trohet	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+20	till	till	_	_	ADP	_	_	_	_
+21	den	den	_	_	MASC+FEM;SG;DEF;DET	_	_	_	_
+22	egyptiske	egyptisk	_	_	SG;MASC;DEF;ADJ;NOM	_	_	_	_
+23	faraon	farao	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+24	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01120
+# sent_id = n01120008
+# text = För en modern publik, som till största del inte har så stor erfarenhet av frontlinjeskonflikter, hör Doss bedrifter hemma i det ofattbaras rike.
+# text_en = To modern audiences, most of whom will have little experience of frontline conflict, Doss’s feats belong to the realm of the unimaginable.
+1	För	för	_	_	ADP	_	_	_	_
+2	en	en	_	_	INDF;MASC+FEM;SG;DET	_	_	_	_
+3	modern	modern	_	_	SG;ADJ;INDF;MASC+FEM;NOM	_	_	_	_
+4	publik	publik	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	som	som	_	_	PRO	_	_	_	_
+7	till	till	_	_	ADP	_	_	_	_
+8	största	stor	_	_	DEF;NOM;RL;ADJ	_	_	_	_
+9	del	del	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+10	inte	inte	_	_	NEG;PART	_	_	_	_
+11	har	ha	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+12	så	så	_	_	ADV	_	_	_	_
+13	stor	stor	_	_	SG;ADJ;INDF;MASC+FEM;NOM	_	_	_	_
+14	erfarenhet	erfarenhet	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+15	av	av	_	_	ADP	_	_	_	_
+16	frontlinjeskonflikter	frontlinjeskonflikt	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+17	,	,	_	_	_	_	_	_	_
+18	hör	höra	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+19	Doss	Dos	_	_	PROPN;GEN	_	_	_	_
+20	bedrifter	bedrift	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+21	hemma	hemma	_	_	ADV	_	_	_	_
+22	i	i	_	_	ADP	_	_	_	_
+23	det	den	_	_	SG;DEF;NEUT;DET	_	_	_	_
+24	ofattbaras	ofattbar	_	_	SG;ADJ;DEF;GEN	_	_	_	_
+25	rike	rike	_	_	NEUT;SG;INDF;N;NOM	_	_	_	_
+26	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01040
+# sent_id = w01040100
+# text = Sand- och dammstormar är naturliga fenomen som uppkommer i torra regioner där marken inte skyddas av ett vegetationstäcke.
+# text_en = Sand and dust storms are natural events that occur in arid regions where the land is not protected by a covering of vegetation.
+1	Sand-	sand	_	_	N;MASC+FEM	_	_	_	_
+2	och	och	_	_	CONJ	_	_	_	_
+3	dammstormar	dammstorm	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+4	är	vara	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+5	naturliga	naturlig	_	_	NOM;ADJ;PL	_	_	_	_
+6	fenomen	fenomen	_	_	NEUT;PL;INDF;N;NOM	_	_	_	_
+7	som	som	_	_	PRO	_	_	_	_
+8	uppkommer	uppkomma	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+9	i	i	_	_	ADP	_	_	_	_
+10	torra	torr	_	_	NOM;ADJ;PL	_	_	_	_
+11	regioner	region	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+12	där	där	_	_	ADV	_	_	_	_
+13	marken	mark	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+14	inte	inte	_	_	NEG;PART	_	_	_	_
+15	skyddas	skydda	_	_	V;NFIN;PASS	_	_	_	_
+16	av	av	_	_	ADP	_	_	_	_
+17	ett	en	_	_	INDF;SG;NEUT;DET	_	_	_	_
+18	vegetationstäcke	vegetationstäcke	_	_	NEUT;SG;INDF;N;NOM	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01124
+# sent_id = w01124011
+# text = Efter att dess uppgång avstannat på Billboard 200 som nr 96 klättrade Thought 'Ya Knew till nr 31 i Storbritannien, men albumet var bara kvar på listan två veckor i Storbritannien.
+# text_en = After its progress had stalled in the Billboard 200 at No. 96, Thought 'Ya Knew climbed to No. 31 in the UK, but the album charted for only two weeks in the UK.
+1	Efter	efter	_	_	ADP	_	_	_	_
+2	att	att	_	_	CONJ	_	_	_	_
+3	dess	dess	_	_	DEF;PRO	_	_	_	_
+4	uppgång	uppgång	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+5	avstannat	avstanna	_	_	ACT;V;V.CVB	_	_	_	_
+6	på	på	_	_	ADP	_	_	_	_
+7	Billboard	Billboard	_	_	PROPN;NOM	_	_	_	_
+8	200	200	_	_	NOM;NUM	_	_	_	_
+9	som	som	_	_	CONJ	_	_	_	_
+10	nr	nr	_	_	N	_	_	_	_
+11	96	96	_	_	NOM;NUM	_	_	_	_
+12	klättrade	klättra	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+13	Thought	Thought	_	_	PROPN;NOM	_	_	_	_
+14	'Ya	'Ya	_	_	PROPN;NOM	_	_	_	_
+15	Knew	Knew	_	_	PROPN;NOM	_	_	_	_
+16	till	till	_	_	ADP	_	_	_	_
+17	nr	nr	_	_	N	_	_	_	_
+18	31	31	_	_	NOM;NUM	_	_	_	_
+19	i	i	_	_	ADP	_	_	_	_
+20	Storbritannien	Storbritannien	_	_	PROPN;NOM	_	_	_	_
+21	,	,	_	_	_	_	_	_	_
+22	men	men	_	_	CONJ	_	_	_	_
+23	albumet	album	_	_	NEUT;SG;DEF;N;NOM	_	_	_	_
+24	var	vara	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+25	bara	bara	_	_	ADV	_	_	_	_
+26	kvar	kvar	_	_	ADV	_	_	_	_
+27	på	på	_	_	ADP	_	_	_	_
+28	listan	lista	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+29	två	två	_	_	NOM;NUM	_	_	_	_
+30	veckor	vecka	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+31	i	i	_	_	ADP	_	_	_	_
+32	Storbritannien	Storbritannien	_	_	PROPN;NOM	_	_	_	_
+33	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01061023
+# text = ”När jag spelar honom känner jag mig mäktig”, förklarade Donald Trump-imitatören John Di Domeico för Slate förra året.
+# text_en = “When I’m playing him, I feel powerful,” the Donald Trump impersonator John Di Domenico explained to Slate last year.
+1	”	”	_	_	_	_	_	_	_
+2	När	när	_	_	CONJ	_	_	_	_
+3	jag	jag	_	_	SG;DEF;MASC+FEM;NOM;PRO	_	_	_	_
+4	spelar	spela	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+5	honom	han	_	_	ACC;SG;DEF;MASC+FEM;PRO	_	_	_	_
+6	känner	känna	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+7	jag	jag	_	_	SG;DEF;MASC+FEM;NOM;PRO	_	_	_	_
+8	mig	jag	_	_	ACC;SG;DEF;MASC+FEM;PRO	_	_	_	_
+9	mäktig	mäktig	_	_	SG;ADJ;INDF;MASC+FEM;NOM	_	_	_	_
+10	”	”	_	_	_	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	förklarade	förklara	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+13	Donald	Donald	_	_	PROPN;NOM	_	_	_	_
+14	Trump-imitatören	trump-imitatör	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+15	John	John	_	_	PROPN;NOM	_	_	_	_
+16	Di	Di	_	_	PROPN;NOM	_	_	_	_
+17	Domeico	Domeico	_	_	PROPN;NOM	_	_	_	_
+18	för	för	_	_	ADP	_	_	_	_
+19	Slate	Slate	_	_	PROPN;NOM	_	_	_	_
+20	förra	förra	_	_	SG;DEF;ADJ;NOM	_	_	_	_
+21	året	år	_	_	NEUT;SG;DEF;N;NOM	_	_	_	_
+22	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01085011
+# text = Fast det kan verka förvånande har även moln med surt regn sin silverkant.
+# text_en = Surprising as it may seem, even acid rain clouds can have a silver lining.
+1	Fast	fast	_	_	CONJ	_	_	_	_
+2	det	det	_	_	SG;DEF;NEUT;PRO	_	_	_	_
+3	kan	kunna	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+4	verka	verka	_	_	ACT;V;NFIN	_	_	_	_
+5	förvånande	förvånande	_	_	V.PTCP;PRS;ADJ;IND;NOM	_	_	_	_
+6	har	ha	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+7	även	även	_	_	ADV	_	_	_	_
+8	moln	moln	_	_	NEUT;PL;INDF;N;NOM	_	_	_	_
+9	med	med	_	_	ADP	_	_	_	_
+10	surt	sur	_	_	NEUT;SG;ADJ;INDF;NOM	_	_	_	_
+11	regn	regn	_	_	NEUT;SG;INDF;N;NOM	_	_	_	_
+12	sin	sin	_	_	SG;DEF;MASC+FEM;PRO	_	_	_	_
+13	silverkant	silverkant	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01033067
+# text = Sådana bosättningar började troligtvis runt 1000 f.Kr. när östmelanesier reste norrut.
+# text_en = Such settlements probably began around 1000 BC, when eastern Melanesians travelled north.
+1	Sådana	sådan	_	_	ADJ;PL;INDF;NOM	_	_	_	_
+2	bosättningar	bosättning	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+3	började	börja	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+4	troligtvis	troligtvis	_	_	ADV	_	_	_	_
+5	runt	runt	_	_	ADV	_	_	_	_
+6	1000	1000	_	_	NOM;NUM	_	_	_	_
+7	f.Kr.	f.kr.	_	_	N	_	_	_	_
+8	när	när	_	_	CONJ	_	_	_	_
+9	östmelanesier	östmelanesier	_	_	NEUT;PL;INDF;N;NOM	_	_	_	_
+10	reste	resa	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+11	norrut	norrut	_	_	ADV	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01149
+# sent_id = n01149002
+# text = Nedgrävd 100 meter (328 fot) under marken är Pyongyang Metro ett av de djupaste pendlarsystemen i världen.
+# text_en = Buried 100 meters (328 feet) underground, the Pyongyang Metro is one of the deepest commuter systems in the world.
+1	Nedgrävd	nedgrävd	_	_	V.PTCP;SG;ADJ;PST;INDF;MASC+FEM;NOM	_	_	_	_
+2	100	100	_	_	NOM;NUM	_	_	_	_
+3	meter	meter	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+4	(	(	_	_	_	_	_	_	_
+5	328	328	_	_	NOM;NUM	_	_	_	_
+6	fot	fot	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+7	)	)	_	_	_	_	_	_	_
+8	under	under	_	_	ADP	_	_	_	_
+9	marken	mark	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+10	är	vara	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+11	Pyongyang	Pyongyang	_	_	PROPN;NOM	_	_	_	_
+12	Metro	metro	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+13	ett	ett	_	_	INDF;SG;NEUT;PRO	_	_	_	_
+14	av	av	_	_	ADP	_	_	_	_
+15	de	den	_	_	PL;DEF;DET	_	_	_	_
+16	djupaste	djup	_	_	DEF;NOM;RL;ADJ	_	_	_	_
+17	pendlarsystemen	pendlarsystem	_	_	NEUT;DEF;PL;N;NOM	_	_	_	_
+18	i	i	_	_	ADP	_	_	_	_
+19	världen	värld	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01010047
+# text = Deras första kung var Mojmír I (härskade 830–846).
+# text_en = Their first king was Mojmír I (ruled 830–846).
+1	Deras	deras	_	_	DEF;PRO	_	_	_	_
+2	första	första	_	_	NOM;ADJ	_	_	_	_
+3	kung	kung	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+4	var	vara	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+5	Mojmír	Mojmír	_	_	PROPN;NOM	_	_	_	_
+6	I	I	_	_	PROPN;NOM	_	_	_	_
+7	(	(	_	_	_	_	_	_	_
+8	härskade	härska	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+9	830–846	830–846	_	_	NOM;NUM	_	_	_	_
+10	)	)	_	_	_	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = w04010028
+# text = Mellan dem blomstrade ett lång yrkesmässigt och vänskapligt förhållande som varade i åratal.
+# text_en = Between them bloomed a long professional and amicable relationship that lasted for years.
+1	Mellan	mellan	_	_	ADP	_	_	_	_
+2	dem	de	_	_	PL;DEF;ACC;PRO	_	_	_	_
+3	blomstrade	blomstra	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+4	ett	en	_	_	INDF;SG;NEUT;DET	_	_	_	_
+5	lång	lång	_	_	SG;ADJ;INDF;MASC+FEM;NOM	_	_	_	_
+6	yrkesmässigt	yrkesmässig	_	_	NEUT;SG;ADJ;INDF;NOM	_	_	_	_
+7	och	och	_	_	CONJ	_	_	_	_
+8	vänskapligt	vänskaplig	_	_	NEUT;SG;ADJ;INDF;NOM	_	_	_	_
+9	förhållande	förhållande	_	_	NEUT;SG;INDF;N;NOM	_	_	_	_
+10	som	som	_	_	PRO	_	_	_	_
+11	varade	vara	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+12	i	i	_	_	ADP	_	_	_	_
+13	åratal	åratal	_	_	NEUT;PL;INDF;N;NOM	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01058052
+# text = Efter att North Carolina antog sin restriktiva rösträttslag 2013 reste Campell runt till kyrkor och lärde folk hur de skulle hantera bestridanden av deras registrering.
+# text_en = After North Carolina passed its restrictive voting-rights bill in 2013, Campbell went around to churches teaching people how to deal with challenges to their registration.
+1	Efter	efter	_	_	ADP	_	_	_	_
+2	att	att	_	_	CONJ	_	_	_	_
+3	North	North	_	_	PROPN;NOM	_	_	_	_
+4	Carolina	Carolina	_	_	PROPN;NOM	_	_	_	_
+5	antog	anta	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+6	sin	sin	_	_	SG;DEF;MASC+FEM;PRO	_	_	_	_
+7	restriktiva	restriktiv	_	_	SG;DEF;ADJ;NOM	_	_	_	_
+8	rösträttslag	rösträttslag	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+9	2013	2013	_	_	NOM;NUM	_	_	_	_
+10	reste	resa	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+11	Campell	Campell	_	_	PROPN;NOM	_	_	_	_
+12	runt	runt	_	_	ADV	_	_	_	_
+13	till	till	_	_	ADP	_	_	_	_
+14	kyrkor	kyrka	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+15	och	och	_	_	CONJ	_	_	_	_
+16	lärde	lära	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+17	folk	folk	_	_	NEUT;PL;INDF;N;NOM	_	_	_	_
+18	hur	hur	_	_	ADV	_	_	_	_
+19	de	de	_	_	PL;NOM;DEF;PRO	_	_	_	_
+20	skulle	skola	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+21	hantera	hantera	_	_	ACT;V;NFIN	_	_	_	_
+22	bestridanden	bestridande	_	_	NEUT;PL;INDF;N;NOM	_	_	_	_
+23	av	av	_	_	ADP	_	_	_	_
+24	deras	deras	_	_	DEF;PRO	_	_	_	_
+25	registrering	registrering	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+26	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n02056
+# sent_id = n02056019
+# text = Anledningen till att marknadsföra videon i Tyskland är oklar.
+# text_en = The reason for advertising the video in Germany is unclear.
+1	Anledningen	anledning	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+2	till	till	_	_	ADP	_	_	_	_
+3	att	att	_	_	PART	_	_	_	_
+4	marknadsföra	marknadsföra	_	_	ACT;V;NFIN	_	_	_	_
+5	videon	video	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+6	i	i	_	_	ADP	_	_	_	_
+7	Tyskland	Tyskland	_	_	PROPN;NOM	_	_	_	_
+8	är	vara	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+9	oklar	oklar	_	_	SG;ADJ;INDF;MASC+FEM;NOM	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01030096
+# text = Stora europeiska floder rinner från Schweiz, såsom Rhen, Rhône, Inn, Ticino och Po, som alla har sina källor i Alperna och rinner in i omkringliggande länder för att till slut rinna ut i Nordsjön, Medelhavet, Adriatiska havet och Svarta havet.
+# text_en = Major European rivers flow from Switzerland, such as the Rhine, the Rhône, the Inn, the Ticino and the Po, all of which have headwaters in the Alps and flow into neighbouring countries, finally emptying into the North Sea, the Mediterranean Sea, the Adriatic Sea and the Black Sea.
+1	Stora	stor	_	_	NOM;ADJ;PL	_	_	_	_
+2	europeiska	europeisk	_	_	NOM;ADJ;PL	_	_	_	_
+3	floder	flod	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+4	rinner	rinna	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+5	från	från	_	_	ADP	_	_	_	_
+6	Schweiz	Schweiz	_	_	PROPN;NOM	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	såsom	såsom	_	_	CONJ	_	_	_	_
+9	Rhen	Rhen	_	_	PROPN;NOM	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	Rhône	Rhône	_	_	PROPN;NOM	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	Inn	Inn	_	_	PROPN;NOM	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	Ticino	Ticino	_	_	PROPN;NOM	_	_	_	_
+16	och	och	_	_	CONJ	_	_	_	_
+17	Po	Po	_	_	PROPN;NOM	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	som	som	_	_	PRO	_	_	_	_
+20	alla	alla	_	_	INDF;PL;PRO	_	_	_	_
+21	har	ha	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+22	sina	sin	_	_	PL;DEF;PRO	_	_	_	_
+23	källor	källa	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+24	i	i	_	_	ADP	_	_	_	_
+25	Alperna	Alperna	_	_	PROPN;NOM	_	_	_	_
+26	och	och	_	_	CONJ	_	_	_	_
+27	rinner	rinna	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+28	in	in	_	_	ADV	_	_	_	_
+29	i	i	_	_	ADP	_	_	_	_
+30	omkringliggande	omkringliggande	_	_	V.PTCP;PRS;ADJ;IND;NOM	_	_	_	_
+31	länder	land	_	_	NEUT;PL;INDF;N;NOM	_	_	_	_
+32	för	för	_	_	ADP	_	_	_	_
+33	att	att	_	_	PART	_	_	_	_
+34	till	till	_	_	ADP	_	_	_	_
+35	slut	slut	_	_	NEUT;SG;INDF;N;NOM	_	_	_	_
+36	rinna	rinna	_	_	ACT;V;NFIN	_	_	_	_
+37	ut	ut	_	_	ADV	_	_	_	_
+38	i	i	_	_	ADP	_	_	_	_
+39	Nordsjön	Nordsjön	_	_	PROPN;NOM	_	_	_	_
+40	,	,	_	_	_	_	_	_	_
+41	Medelhavet	Medelhavet	_	_	PROPN;NOM	_	_	_	_
+42	,	,	_	_	_	_	_	_	_
+43	Adriatiska	adriatisk	_	_	SG;DEF;ADJ;NOM	_	_	_	_
+44	havet	hav	_	_	NEUT;SG;DEF;N;NOM	_	_	_	_
+45	och	och	_	_	CONJ	_	_	_	_
+46	Svarta	svart	_	_	SG;DEF;ADJ;NOM	_	_	_	_
+47	havet	hav	_	_	NEUT;SG;DEF;N;NOM	_	_	_	_
+48	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01016019
+# text = Flera analytiker har föreslagit att Huawei har bäst position för att tjäna på Samsungs tillbakagång.
+# text_en = Several analysts have suggested Huawei is best placed to benefit from Samsung's setback.
+1	Flera	flera	_	_	ADJ;PL;INDF;NOM	_	_	_	_
+2	analytiker	analytiker	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+3	har	ha	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+4	föreslagit	föreslå	_	_	ACT;V;V.CVB	_	_	_	_
+5	att	att	_	_	CONJ	_	_	_	_
+6	Huawei	Huawei	_	_	PROPN;NOM	_	_	_	_
+7	har	ha	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+8	bäst	god	_	_	INDF;NOM;RL;ADJ	_	_	_	_
+9	position	position	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+10	för	för	_	_	ADP	_	_	_	_
+11	att	att	_	_	PART	_	_	_	_
+12	tjäna	tjäna	_	_	ACT;V;NFIN	_	_	_	_
+13	på	på	_	_	ADP	_	_	_	_
+14	Samsungs	Samsung	_	_	PROPN;GEN	_	_	_	_
+15	tillbakagång	tillbakagång	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01002032
+# text = ”Så jag hatar att ge er en liten börda, men republikens öde vilar på era axlar”, sade han till folksamlingen som kommit till en idrottsplan på University of North Carolina.
+# text_en = “So I hate to put a little pressure on you, but the fate of the republic rests on your shoulders,” he told the crowd gathered on a sports field at the University of North Carolina.
+1	”	”	_	_	_	_	_	_	_
+2	Så	så	_	_	CONJ	_	_	_	_
+3	jag	jag	_	_	SG;DEF;MASC+FEM;NOM;PRO	_	_	_	_
+4	hatar	hata	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+5	att	att	_	_	PART	_	_	_	_
+6	ge	ge	_	_	ACT;V;NFIN	_	_	_	_
+7	er	ni	_	_	ACC;DEF;PL;MASC+FEM;PRO	_	_	_	_
+8	en	en	_	_	INDF;MASC+FEM;SG;DET	_	_	_	_
+9	liten	liten	_	_	SG;ADJ;INDF;MASC+FEM;NOM	_	_	_	_
+10	börda	börda	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	men	men	_	_	CONJ	_	_	_	_
+13	republikens	republik	_	_	SG;DEF;GEN;N;MASC+FEM	_	_	_	_
+14	öde	öde	_	_	NEUT;SG;INDF;N;NOM	_	_	_	_
+15	vilar	vila	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+16	på	på	_	_	ADP	_	_	_	_
+17	era	er	_	_	PL;DEF;PRO	_	_	_	_
+18	axlar	axel	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+19	”	”	_	_	_	_	_	_	_
+20	,	,	_	_	_	_	_	_	_
+21	sade	säga	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+22	han	han	_	_	SG;DEF;MASC+FEM;NOM;PRO	_	_	_	_
+23	till	till	_	_	ADP	_	_	_	_
+24	folksamlingen	folksamling	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+25	som	som	_	_	PRO	_	_	_	_
+26	kommit	komma	_	_	ACT;V;V.CVB	_	_	_	_
+27	till	till	_	_	ADP	_	_	_	_
+28	en	en	_	_	INDF;MASC+FEM;SG;DET	_	_	_	_
+29	idrottsplan	idrottsplan	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+30	på	på	_	_	ADP	_	_	_	_
+31	University	University	_	_	PROPN;NOM	_	_	_	_
+32	of	Of	_	_	PROPN;NOM	_	_	_	_
+33	North	North	_	_	PROPN;NOM	_	_	_	_
+34	Carolina	Carolina	_	_	PROPN;NOM	_	_	_	_
+35	.	.	_	_	_	_	_	_	_
+
+# sent_id = n03005025
+# text = I meddelandet anklagas tidigare justitieminister Brice Hortefeux för att vara ”fascist”, ”minister (idiot) för inrikes affärer” och en ”ligist”.
+# text_en = In the message, the former Minister for Justice accused Brice Hortefeux of being a 'fascist', 'Minister (moron) of the Interior' and a 'thug'.
+1	I	i	_	_	ADP	_	_	_	_
+2	meddelandet	meddelande	_	_	NEUT;SG;DEF;N;NOM	_	_	_	_
+3	anklagas	anklaga	_	_	PRS;PASS;FIN;V;IND	_	_	_	_
+4	tidigare	tidigt	_	_	ADV;CMPR	_	_	_	_
+5	justitieminister	justitieminister	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+6	Brice	Brice	_	_	PROPN;NOM	_	_	_	_
+7	Hortefeux	Hortefeux	_	_	PROPN;NOM	_	_	_	_
+8	för	för	_	_	ADP	_	_	_	_
+9	att	att	_	_	PART	_	_	_	_
+10	vara	vara	_	_	ACT;V;NFIN	_	_	_	_
+11	”	”	_	_	_	_	_	_	_
+12	fascist	fascist	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+13	”	”	_	_	_	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	”	”	_	_	_	_	_	_	_
+16	minister	minister	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+17	(	(	_	_	_	_	_	_	_
+18	idiot	idiot	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+19	)	)	_	_	_	_	_	_	_
+20	för	för	_	_	ADP	_	_	_	_
+21	inrikes	inrikes	_	_	NOM;ADJ	_	_	_	_
+22	affärer	affär	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+23	”	”	_	_	_	_	_	_	_
+24	och	och	_	_	CONJ	_	_	_	_
+25	en	en	_	_	INDF;MASC+FEM;SG;DET	_	_	_	_
+26	”	”	_	_	_	_	_	_	_
+27	ligist	ligist	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+28	”	”	_	_	_	_	_	_	_
+29	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01140034
+# text = Den skivan gjorde det möjligt för Rona att skapa laboratorieprover av polonium, vilka användes i mycket av institutets efterföljande forskning.
+# text_en = This disc allowed Rona to create lab specimens of polonium, which were used in much of the Institute's subsequent research.
+1	Den	den	_	_	MASC+FEM;SG;DEF;DET	_	_	_	_
+2	skivan	skiva	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+3	gjorde	göra	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+4	det	det	_	_	SG;DEF;NEUT;PRO	_	_	_	_
+5	möjligt	möjlig	_	_	NEUT;SG;ADJ;INDF;NOM	_	_	_	_
+6	för	för	_	_	ADP	_	_	_	_
+7	Rona	Rona	_	_	PROPN;NOM	_	_	_	_
+8	att	att	_	_	PART	_	_	_	_
+9	skapa	skapa	_	_	ACT;V;NFIN	_	_	_	_
+10	laboratorieprover	laboratorieprov	_	_	NEUT;PL;INDF;N;NOM	_	_	_	_
+11	av	av	_	_	ADP	_	_	_	_
+12	polonium	polonium	_	_	NEUT;SG;INDF;N;NOM	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	vilka	vilka	_	_	INDF;PL;PRO	_	_	_	_
+15	användes	använda	_	_	PASS;FIN;V;PST;IND	_	_	_	_
+16	i	i	_	_	ADP	_	_	_	_
+17	mycket	mycket	_	_	INDF;SG;NEUT;PRO	_	_	_	_
+18	av	av	_	_	ADP	_	_	_	_
+19	institutets	institut	_	_	NEUT;SG;DEF;GEN;N	_	_	_	_
+20	efterföljande	efterföljande	_	_	NOM;ADJ	_	_	_	_
+21	forskning	forskning	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+22	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n03008
+# sent_id = n03008011
+# text = ETA är på väg ut, avslöjade den franska kontingenten.
+# text_en = "ETA is on its way out," the French contingent revealed.
+1	ETA	ETA	_	_	PROPN;NOM	_	_	_	_
+2	är	vara	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+3	på	på	_	_	ADP	_	_	_	_
+4	väg	väg	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+5	ut	ut	_	_	ADV	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	avslöjade	avslöja	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+8	den	den	_	_	MASC+FEM;SG;DEF;DET	_	_	_	_
+9	franska	fransk	_	_	SG;DEF;ADJ;NOM	_	_	_	_
+10	kontingenten	kontingent	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01076
+# sent_id = w01076039
+# text = Dess garanti av friheter utlovade att lösa upp spänningar mellan samhällsgrupper och omvandla imperiet till en mer harmonisk plats.
+# text_en = Its guarantee of liberties promised to dissolve inter-communal tensions and transform the empire into a more harmonious place.
+1	Dess	dess	_	_	DEF;PRO	_	_	_	_
+2	garanti	garanti	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+3	av	av	_	_	ADP	_	_	_	_
+4	friheter	frihet	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+5	utlovade	utlova	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+6	att	att	_	_	PART	_	_	_	_
+7	lösa	lösa	_	_	ACT;V;NFIN	_	_	_	_
+8	upp	upp	_	_	ADV	_	_	_	_
+9	spänningar	spänning	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+10	mellan	mellan	_	_	ADP	_	_	_	_
+11	samhällsgrupper	samhällsgrupp	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+12	och	och	_	_	CONJ	_	_	_	_
+13	omvandla	omvandla	_	_	ACT;V;NFIN	_	_	_	_
+14	imperiet	imperium	_	_	NEUT;SG;DEF;N;NOM	_	_	_	_
+15	till	till	_	_	ADP	_	_	_	_
+16	en	en	_	_	INDF;MASC+FEM;SG;DET	_	_	_	_
+17	mer	mycket	_	_	ADV;CMPR	_	_	_	_
+18	harmonisk	harmonisk	_	_	SG;ADJ;INDF;MASC+FEM;NOM	_	_	_	_
+19	plats	plats	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01021011
+# text = De ”nyliga händelserna” är troligen attackerna den 21 oktober som tillfälligt slog ut populära webbsidor som Reddit, Twitter och Spotify såväl som många andra.
+# text_en = The "recent events" are likely to be the attacks of 21 October that briefly took down popular websites such as Reddit, Twitter and Spotify as well as many others.
+1	De	den	_	_	PL;DEF;DET	_	_	_	_
+2	”	”	_	_	_	_	_	_	_
+3	nyliga	nyliga	_	_	NOM;ADJ;PL	_	_	_	_
+4	händelserna	händelse	_	_	DEF;PL;MASC+FEM;NOM;N	_	_	_	_
+5	”	”	_	_	_	_	_	_	_
+6	är	vara	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+7	troligen	troligen	_	_	ADV	_	_	_	_
+8	attackerna	attack	_	_	DEF;PL;MASC+FEM;NOM;N	_	_	_	_
+9	den	den	_	_	MASC+FEM;SG;DEF;DET	_	_	_	_
+10	21	21	_	_	NOM;NUM	_	_	_	_
+11	oktober	oktober	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+12	som	som	_	_	PRO	_	_	_	_
+13	tillfälligt	tillfälligt	_	_	ADV	_	_	_	_
+14	slog	slå	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+15	ut	ut	_	_	ADV	_	_	_	_
+16	populära	populär	_	_	NOM;ADJ;PL	_	_	_	_
+17	webbsidor	webbsida	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+18	som	som	_	_	CONJ	_	_	_	_
+19	Reddit	Reddit	_	_	PROPN;NOM	_	_	_	_
+20	,	,	_	_	_	_	_	_	_
+21	Twitter	Twitter	_	_	PROPN;NOM	_	_	_	_
+22	och	och	_	_	CONJ	_	_	_	_
+23	Spotify	Spotify	_	_	PROPN;NOM	_	_	_	_
+24	såväl	såväl	_	_	CONJ	_	_	_	_
+25	som	som	_	_	CONJ	_	_	_	_
+26	många	mången	_	_	NOM;ADJ;PL	_	_	_	_
+27	andra	andra	_	_	INDF;PL;PRO	_	_	_	_
+28	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01008
+# sent_id = n01008017
+# text = Den andelen har ökat stadigt med åren – bara 11 procent av de samlade rösterna lades före valdagen 1996 enligt folkbokföringsbyrån – och det verkar troligt att den kommer öka ordentligt igen.
+# text_en = That share has been rising steadily over the years — only 11 percent of the total vote was cast before Election Day in 1996, according to the Census Bureau  -- and seems likely to jump again this year.
+1	Den	den	_	_	MASC+FEM;SG;DEF;DET	_	_	_	_
+2	andelen	andel	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+3	har	ha	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+4	ökat	öka	_	_	ACT;V;V.CVB	_	_	_	_
+5	stadigt	stadigt	_	_	ADV	_	_	_	_
+6	med	med	_	_	ADP	_	_	_	_
+7	åren	år	_	_	NEUT;DEF;PL;N;NOM	_	_	_	_
+8	–	–	_	_	_	_	_	_	_
+9	bara	bara	_	_	ADV	_	_	_	_
+10	11	11	_	_	NOM;NUM	_	_	_	_
+11	procent	procent	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+12	av	av	_	_	ADP	_	_	_	_
+13	de	den	_	_	PL;DEF;DET	_	_	_	_
+14	samlade	samlad	_	_	V.PTCP;ADJ;PST;PL;NOM	_	_	_	_
+15	rösterna	röst	_	_	DEF;PL;MASC+FEM;NOM;N	_	_	_	_
+16	lades	lägga	_	_	PASS;FIN;V;PST;IND	_	_	_	_
+17	före	före	_	_	ADP	_	_	_	_
+18	valdagen	valdag	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+19	1996	1996	_	_	NOM;NUM	_	_	_	_
+20	enligt	enligt	_	_	ADP	_	_	_	_
+21	folkbokföringsbyrån	folkbokföringsbyrå	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+22	–	–	_	_	_	_	_	_	_
+23	och	och	_	_	CONJ	_	_	_	_
+24	det	det	_	_	SG;DEF;NEUT;PRO	_	_	_	_
+25	verkar	verka	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+26	troligt	trolig	_	_	NEUT;SG;ADJ;INDF;NOM	_	_	_	_
+27	att	att	_	_	CONJ	_	_	_	_
+28	den	den	_	_	MASC+FEM;SG;DEF;PRO	_	_	_	_
+29	kommer	komma	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+30	öka	öka	_	_	ACT;V;NFIN	_	_	_	_
+31	ordentligt	ordentligt	_	_	ADV	_	_	_	_
+32	igen	igen	_	_	ADV	_	_	_	_
+33	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01085005
+# text = Den var dock alltför inriktad på små utposter i väster och inte lika väl förberedd på en konflikt över havet.
+# text_en = However, it was too oriented to small posts in the West and not as well-prepared for an overseas conflict.
+1	Den	den	_	_	MASC+FEM;SG;DEF;PRO	_	_	_	_
+2	var	vara	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+3	dock	dock	_	_	ADV	_	_	_	_
+4	alltför	alltför	_	_	ADV	_	_	_	_
+5	inriktad	inriktad	_	_	V.PTCP;SG;ADJ;PST;INDF;MASC+FEM;NOM	_	_	_	_
+6	på	på	_	_	ADP	_	_	_	_
+7	små	liten	_	_	NOM;ADJ;PL	_	_	_	_
+8	utposter	utpost	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+9	i	i	_	_	ADP	_	_	_	_
+10	väster	väster	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+11	och	och	_	_	CONJ	_	_	_	_
+12	inte	inte	_	_	NEG;PART	_	_	_	_
+13	lika	lika	_	_	ADV	_	_	_	_
+14	väl	väl	_	_	ADV	_	_	_	_
+15	förberedd	förberedd	_	_	V.PTCP;SG;ADJ;PST;INDF;MASC+FEM;NOM	_	_	_	_
+16	på	på	_	_	ADP	_	_	_	_
+17	en	en	_	_	INDF;MASC+FEM;SG;DET	_	_	_	_
+18	konflikt	konflikt	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+19	över	över	_	_	ADP	_	_	_	_
+20	havet	hav	_	_	NEUT;SG;DEF;N;NOM	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01022092
+# text = Liksom fjordar är sötvattenssjöar ofta djupa.
+# text_en = Like fjords, freshwater lakes are often deep.
+1	Liksom	liksom	_	_	ADP	_	_	_	_
+2	fjordar	fjord	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+3	är	vara	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+4	sötvattenssjöar	sötvattenssjö	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+5	ofta	ofta	_	_	ADV	_	_	_	_
+6	djupa	djup	_	_	NOM;ADJ;PL	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = w03010099
+# text = Under sommaren återvände Georges och hans fru till Schweiz tillsammans med Rosanne, en 18-åring som var dotter till en av Germaines vänner.
+# text_en = In the summer, Georges and his wife returned to Switzerland, accompanied by Rosane, an 18 year old who was the daughter of one of Germaine's friends.
+1	Under	under	_	_	ADP	_	_	_	_
+2	sommaren	sommar	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+3	återvände	återvända	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+4	Georges	George	_	_	PROPN;GEN	_	_	_	_
+5	och	och	_	_	CONJ	_	_	_	_
+6	hans	hans	_	_	DEF;PRO	_	_	_	_
+7	fru	fru	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+8	till	till	_	_	ADP	_	_	_	_
+9	Schweiz	Schweiz	_	_	PROPN;NOM	_	_	_	_
+10	tillsammans	tillsammans	_	_	ADV	_	_	_	_
+11	med	med	_	_	ADP	_	_	_	_
+12	Rosanne	Rosanne	_	_	PROPN;NOM	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	en	en	_	_	INDF;MASC+FEM;SG;DET	_	_	_	_
+15	18-åring	18-åring	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+16	som	som	_	_	PRO	_	_	_	_
+17	var	vara	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+18	dotter	dotter	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+19	till	till	_	_	ADP	_	_	_	_
+20	en	en	_	_	INDF;MASC+FEM;SG;PRO	_	_	_	_
+21	av	av	_	_	ADP	_	_	_	_
+22	Germaines	Germaine	_	_	PROPN;GEN	_	_	_	_
+23	vänner	vän	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+24	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01136010
+# text = Loving börjar med Richard och Mildred redan som ett par, efter en uppvaktning som skulle varit intressant att se, om så bara i korthet.
+# text_en = "Loving" opens with Richard and Mildred already a couple, eliding over a courtship that would have been interesting to see, if only in brief.
+1	Loving	Loving	_	_	PROPN;NOM	_	_	_	_
+2	börjar	börja	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+3	med	med	_	_	ADP	_	_	_	_
+4	Richard	Richard	_	_	PROPN;NOM	_	_	_	_
+5	och	och	_	_	CONJ	_	_	_	_
+6	Mildred	Mildred	_	_	PROPN;NOM	_	_	_	_
+7	redan	redan	_	_	ADV	_	_	_	_
+8	som	som	_	_	CONJ	_	_	_	_
+9	ett	en	_	_	INDF;SG;NEUT;DET	_	_	_	_
+10	par	par	_	_	NEUT;SG;INDF;N;NOM	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	efter	efter	_	_	ADP	_	_	_	_
+13	en	en	_	_	INDF;MASC+FEM;SG;DET	_	_	_	_
+14	uppvaktning	uppvaktning	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+15	som	som	_	_	PRO	_	_	_	_
+16	skulle	skola	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+17	varit	vara	_	_	ACT;V;V.CVB	_	_	_	_
+18	intressant	intressant	_	_	SG;ADJ;INDF;MASC+FEM;NOM	_	_	_	_
+19	att	att	_	_	PART	_	_	_	_
+20	se	se	_	_	ACT;V;NFIN	_	_	_	_
+21	,	,	_	_	_	_	_	_	_
+22	om	om	_	_	CONJ	_	_	_	_
+23	så	så	_	_	ADV	_	_	_	_
+24	bara	bara	_	_	ADV	_	_	_	_
+25	i	i	_	_	ADP	_	_	_	_
+26	korthet	korthet	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+27	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w02007
+# sent_id = w02007008
+# text = Både tidpunkten och händelseföljden för incidenten diskuterades energiskt.
+# text_en = Both the time and the sequence of events of this incident were vigorously discussed.
+1	Både	både	_	_	CONJ	_	_	_	_
+2	tidpunkten	tidpunkt	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+3	och	och	_	_	CONJ	_	_	_	_
+4	händelseföljden	händelseföljd	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+5	för	för	_	_	ADP	_	_	_	_
+6	incidenten	incident	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+7	diskuterades	diskutera	_	_	PASS;FIN;V;PST;IND	_	_	_	_
+8	energiskt	energiskt	_	_	ADV	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = n05009030
+# text = Dussintals FSLN-anhängare firar redan segern på Plaza de las Victorias.
+# text_en = Dozens of FSLN followers are already celebrating the victory in the Plaza de las Victorias.
+1	Dussintals	dussintal	_	_	NEUT;GEN;PL;INDF;N	_	_	_	_
+2	FSLN-anhängare	FSLN-anhängare	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+3	firar	fira	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+4	redan	redan	_	_	ADV	_	_	_	_
+5	segern	seger	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+6	på	på	_	_	ADP	_	_	_	_
+7	Plaza	Plaza	_	_	N;SG	_	_	_	_
+8	de	De	_	_	ADP	_	_	_	_
+9	las	Las	_	_	DEF;DET	_	_	_	_
+10	Victorias	Victoria	_	_	N;PL	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01087039
+# text = ”Jag besöker examensutställningarna vid Northampton University för att hitta nya talanger”, säger han.
+# text_en = “I visit the degree shows at Northampton University to spot new talent,” he says.
+1	”	”	_	_	_	_	_	_	_
+2	Jag	jag	_	_	SG;DEF;MASC+FEM;NOM;PRO	_	_	_	_
+3	besöker	besöka	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+4	examensutställningarna	examensutställning	_	_	DEF;PL;MASC+FEM;NOM;N	_	_	_	_
+5	vid	vid	_	_	ADP	_	_	_	_
+6	Northampton	Northampton	_	_	PROPN;NOM	_	_	_	_
+7	University	University	_	_	PROPN;NOM	_	_	_	_
+8	för	för	_	_	ADP	_	_	_	_
+9	att	att	_	_	PART	_	_	_	_
+10	hitta	hitta	_	_	ACT;V;NFIN	_	_	_	_
+11	nya	ny	_	_	NOM;ADJ;PL	_	_	_	_
+12	talanger	talang	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+13	”	”	_	_	_	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	säger	säga	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+16	han	han	_	_	SG;DEF;MASC+FEM;NOM;PRO	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01117034
+# text = Hon fann övergången till skönlitteratur lätt, och förklarar ”varje bok är en inlärningskurva, och man måste hålla ett öppet sinne”.
+# text_en = She found the transition to fiction easy, explaining, "Every book is a learning curve, and you have to keep an open mind."
+1	Hon	hon	_	_	SG;DEF;MASC+FEM;NOM;PRO	_	_	_	_
+2	fann	finna	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+3	övergången	övergång	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+4	till	till	_	_	ADP	_	_	_	_
+5	skönlitteratur	skönlitteratur	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+6	lätt	lätt	_	_	ADV	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	och	och	_	_	CONJ	_	_	_	_
+9	förklarar	förklara	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+10	”	”	_	_	_	_	_	_	_
+11	varje	varje	_	_	INDF;SG;DET	_	_	_	_
+12	bok	bok	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+13	är	vara	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+14	en	en	_	_	INDF;MASC+FEM;SG;DET	_	_	_	_
+15	inlärningskurva	inlärningskurva	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	och	och	_	_	CONJ	_	_	_	_
+18	man	man	_	_	SG;INDF;MASC+FEM;NOM;PRO	_	_	_	_
+19	måste	måste	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+20	hålla	hålla	_	_	ACT;V;NFIN	_	_	_	_
+21	ett	en	_	_	INDF;SG;NEUT;DET	_	_	_	_
+22	öppet	öppen	_	_	NEUT;SG;ADJ;INDF;NOM	_	_	_	_
+23	sinne	sinne	_	_	NEUT;SG;INDF;N;NOM	_	_	_	_
+24	”	”	_	_	_	_	_	_	_
+25	.	.	_	_	_	_	_	_	_
+
+# sent_id = w02007032
+# text = I april 2012 tillkännagav den turkiske presidenten Erdogan sina regeringsplaner på att frigöra Bosporen genom att bygga Istanbulkanalen parallellt med den.
+# text_en = In April 2012, the Turkish Minister President Erdogan announced his government's plans to free Bosphorus by building the Istanbul Canal parallel to it.
+1	I	i	_	_	ADP	_	_	_	_
+2	april	april	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+3	2012	2012	_	_	NOM;NUM	_	_	_	_
+4	tillkännagav	tillkännage	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+5	den	den	_	_	MASC+FEM;SG;DEF;DET	_	_	_	_
+6	turkiske	turkisk	_	_	SG;MASC;DEF;ADJ;NOM	_	_	_	_
+7	presidenten	president	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+8	Erdogan	Erdogan	_	_	PROPN;NOM	_	_	_	_
+9	sina	sin	_	_	PL;DEF;PRO	_	_	_	_
+10	regeringsplaner	regeringsplan	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+11	på	på	_	_	ADP	_	_	_	_
+12	att	att	_	_	PART	_	_	_	_
+13	frigöra	frigöra	_	_	ACT;V;NFIN	_	_	_	_
+14	Bosporen	Bosporen	_	_	PROPN;NOM	_	_	_	_
+15	genom	genom	_	_	ADP	_	_	_	_
+16	att	att	_	_	PART	_	_	_	_
+17	bygga	bygga	_	_	ACT;V;NFIN	_	_	_	_
+18	Istanbulkanalen	istanbulkanal	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+19	parallellt	parallellt	_	_	ADV	_	_	_	_
+20	med	med	_	_	ADP	_	_	_	_
+21	den	den	_	_	MASC+FEM;SG;DEF;PRO	_	_	_	_
+22	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01026037
+# text = Den största delen av Donaudeltat ligger i Rumänien (länet Tulcea), medan dess norra del, på den vänstra sidan av Chilia-armen, ligger i Ukraina (Odessa oblast).
+# text_en = The greater part of the Danube Delta lies in Romania (Tulcea county), while its northern part, on the left bank of the Chilia arm, is situated in Ukraine (Odessa Oblast).
+1	Den	den	_	_	MASC+FEM;SG;DEF;DET	_	_	_	_
+2	största	stor	_	_	DEF;NOM;RL;ADJ	_	_	_	_
+3	delen	del	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+4	av	av	_	_	ADP	_	_	_	_
+5	Donaudeltat	Donaudeltat	_	_	PROPN;NOM	_	_	_	_
+6	ligger	ligga	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+7	i	i	_	_	ADP	_	_	_	_
+8	Rumänien	Rumänien	_	_	PROPN;NOM	_	_	_	_
+9	(	(	_	_	_	_	_	_	_
+10	länet	län	_	_	NEUT;SG;DEF;N;NOM	_	_	_	_
+11	Tulcea	tulcea	_	_	N	_	_	_	_
+12	)	)	_	_	_	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	medan	medan	_	_	CONJ	_	_	_	_
+15	dess	dess	_	_	DEF;PRO	_	_	_	_
+16	norra	norr	_	_	SG;DEF;ADJ;NOM	_	_	_	_
+17	del	del	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	på	på	_	_	ADP	_	_	_	_
+20	den	den	_	_	MASC+FEM;SG;DEF;DET	_	_	_	_
+21	vänstra	vänster	_	_	SG;DEF;ADJ;NOM	_	_	_	_
+22	sidan	sida	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+23	av	av	_	_	ADP	_	_	_	_
+24	Chilia-armen	chilia-arm	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+25	,	,	_	_	_	_	_	_	_
+26	ligger	ligga	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+27	i	i	_	_	ADP	_	_	_	_
+28	Ukraina	Ukraina	_	_	PROPN;NOM	_	_	_	_
+29	(	(	_	_	_	_	_	_	_
+30	Odessa	Odessa	_	_	PROPN;NOM	_	_	_	_
+31	oblast	oblast	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+32	)	)	_	_	_	_	_	_	_
+33	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01064096
+# text = Som många jag känner har jag tillbringat de senaste månaderna med att sitta uppe sent och i skräck läsa opinionsundersökningar.
+# text_en = Like many people I know, I’ve spent recent months staying up late, reading polls in terror.
+1	Som	som	_	_	ADP	_	_	_	_
+2	många	många	_	_	INDF;PL;PRO	_	_	_	_
+3	jag	jag	_	_	SG;DEF;MASC+FEM;NOM;PRO	_	_	_	_
+4	känner	känna	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+5	har	ha	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+6	jag	jag	_	_	SG;DEF;MASC+FEM;NOM;PRO	_	_	_	_
+7	tillbringat	tillbringa	_	_	ACT;V;V.CVB	_	_	_	_
+8	de	den	_	_	PL;DEF;DET	_	_	_	_
+9	senaste	sen	_	_	DEF;NOM;RL;ADJ	_	_	_	_
+10	månaderna	månad	_	_	DEF;PL;MASC+FEM;NOM;N	_	_	_	_
+11	med	med	_	_	ADP	_	_	_	_
+12	att	att	_	_	PART	_	_	_	_
+13	sitta	sitta	_	_	ACT;V;NFIN	_	_	_	_
+14	uppe	uppe	_	_	ADV	_	_	_	_
+15	sent	sent	_	_	ADV	_	_	_	_
+16	och	och	_	_	CONJ	_	_	_	_
+17	i	i	_	_	ADP	_	_	_	_
+18	skräck	skräck	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+19	läsa	läsa	_	_	ACT;V;NFIN	_	_	_	_
+20	opinionsundersökningar	opinionsundersökning	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01072
+# sent_id = n01072010
+# text = Han tillbringade sedan fyra år med BBC World Service-radion vid Bush House.
+# text_en = He then spent four years with BBC World Service radio at Bush House.
+1	Han	han	_	_	SG;DEF;MASC+FEM;NOM;PRO	_	_	_	_
+2	tillbringade	tillbringa	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+3	sedan	sedan	_	_	ADP	_	_	_	_
+4	fyra	fyra	_	_	NOM;NUM	_	_	_	_
+5	år	år	_	_	NEUT;PL;INDF;N;NOM	_	_	_	_
+6	med	med	_	_	ADP	_	_	_	_
+7	BBC	BBC	_	_	PROPN;NOM	_	_	_	_
+8	World	World	_	_	PROPN;NOM	_	_	_	_
+9	Service-radion	Service-radion	_	_	PROPN;NOM	_	_	_	_
+10	vid	vid	_	_	ADP	_	_	_	_
+11	Bush	Bush	_	_	PROPN;NOM	_	_	_	_
+12	House	House	_	_	PROPN;NOM	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = w02013033
+# text = Suez-krisen visade begränsningarna för de gamla kolonialmakterna som Storbritannien och Frankrike i en föränderlig värld.
+# text_en = The Suez Crisis showed the limits of the old colonial powers such as Great Britain and France in a changing world.
+1	Suez-krisen	suez-kris	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+2	visade	visa	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+3	begränsningarna	begränsning	_	_	DEF;PL;MASC+FEM;NOM;N	_	_	_	_
+4	för	för	_	_	ADP	_	_	_	_
+5	de	den	_	_	PL;DEF;DET	_	_	_	_
+6	gamla	gammal	_	_	NOM;ADJ;PL	_	_	_	_
+7	kolonialmakterna	kolonialmakt	_	_	DEF;PL;MASC+FEM;NOM;N	_	_	_	_
+8	som	som	_	_	CONJ	_	_	_	_
+9	Storbritannien	Storbritannien	_	_	PROPN;NOM	_	_	_	_
+10	och	och	_	_	CONJ	_	_	_	_
+11	Frankrike	Frankrike	_	_	PROPN;NOM	_	_	_	_
+12	i	i	_	_	ADP	_	_	_	_
+13	en	en	_	_	INDF;MASC+FEM;SG;DET	_	_	_	_
+14	föränderlig	föränderlig	_	_	SG;ADJ;INDF;MASC+FEM;NOM	_	_	_	_
+15	värld	värld	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01079057
+# text = Tvångsdop stod i strid med den katolska kyrkans lag, och teoretiskt sett kunde alla som hade blivit tvingade till dop lagligen återgå till judendom.
+# text_en = Forced baptism was contrary to the law of the Catholic Church, and theoretically anybody who had been forcibly baptized could legally return to Judaism.
+1	Tvångsdop	tvångsdop	_	_	NEUT;SG;INDF;N;NOM	_	_	_	_
+2	stod	stå	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+3	i	i	_	_	ADP	_	_	_	_
+4	strid	strid	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+5	med	med	_	_	ADP	_	_	_	_
+6	den	den	_	_	MASC+FEM;SG;DEF;DET	_	_	_	_
+7	katolska	katolsk	_	_	SG;DEF;ADJ;NOM	_	_	_	_
+8	kyrkans	kyrka	_	_	SG;DEF;GEN;N;MASC+FEM	_	_	_	_
+9	lag	lag	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	och	och	_	_	CONJ	_	_	_	_
+12	teoretiskt	teoretisk	_	_	NEUT;SG;ADJ;INDF;NOM	_	_	_	_
+13	sett	se	_	_	V.PTCP;NEUT;SG;ADJ;PST;INDF;NOM	_	_	_	_
+14	kunde	kunna	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+15	alla	alla	_	_	INDF;PL;PRO	_	_	_	_
+16	som	som	_	_	PRO	_	_	_	_
+17	hade	ha	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+18	blivit	bliva	_	_	ACT;V;V.CVB	_	_	_	_
+19	tvingade	tvingad	_	_	V.PTCP;ADJ;PST;PL;NOM	_	_	_	_
+20	till	till	_	_	ADP	_	_	_	_
+21	dop	dop	_	_	NEUT;SG;INDF;N;NOM	_	_	_	_
+22	lagligen	lagligen	_	_	ADV	_	_	_	_
+23	återgå	återgå	_	_	ACT;V;NFIN	_	_	_	_
+24	till	till	_	_	ADP	_	_	_	_
+25	judendom	judendom	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+26	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01139090
+# text = Ett annat tema i Skylark-romanerna blandar in föregångare till modern informationsteknik.
+# text_en = Another theme of the Skylark novels involves precursors of modern information technology.
+1	Ett	en	_	_	INDF;SG;NEUT;DET	_	_	_	_
+2	annat	annan	_	_	NEUT;SG;ADJ;INDF;NOM	_	_	_	_
+3	tema	tema	_	_	NEUT;SG;INDF;N;NOM	_	_	_	_
+4	i	i	_	_	ADP	_	_	_	_
+5	Skylark-romanerna	skylark-roman	_	_	DEF;PL;MASC+FEM;NOM;N	_	_	_	_
+6	blandar	blanda	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+7	in	in	_	_	ADV	_	_	_	_
+8	föregångare	föregångare	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+9	till	till	_	_	ADP	_	_	_	_
+10	modern	modern	_	_	SG;ADJ;INDF;MASC+FEM;NOM	_	_	_	_
+11	informationsteknik	informationsteknik	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01111089
+# text = Winstone mötte sin fru Elaine medan han spelade in That Summer 1979.
+# text_en = Winstone met his wife, Elaine, while filming That Summer in 1979.
+1	Winstone	Winstone	_	_	PROPN;NOM	_	_	_	_
+2	mötte	möta	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+3	sin	sin	_	_	SG;DEF;MASC+FEM;PRO	_	_	_	_
+4	fru	fru	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+5	Elaine	Elaine	_	_	PROPN;NOM	_	_	_	_
+6	medan	medan	_	_	CONJ	_	_	_	_
+7	han	han	_	_	SG;DEF;MASC+FEM;NOM;PRO	_	_	_	_
+8	spelade	spela	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+9	in	in	_	_	ADV	_	_	_	_
+10	That	that	_	_	DEF;DET	_	_	_	_
+11	Summer	summer	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+12	1979	1979	_	_	NOM;NUM	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n02031
+# sent_id = n02031071
+# text = Om en turkisk anställd slutar så kommer de turkiska arbetsråden.
+# text_en = If a Turkish employee quits, then the Turkish work councils come.
+1	Om	om	_	_	CONJ	_	_	_	_
+2	en	en	_	_	INDF;MASC+FEM;SG;DET	_	_	_	_
+3	turkisk	turkisk	_	_	SG;ADJ;INDF;MASC+FEM;NOM	_	_	_	_
+4	anställd	anställd	_	_	V.PTCP;SG;ADJ;PST;INDF;MASC+FEM;NOM	_	_	_	_
+5	slutar	sluta	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+6	så	så	_	_	ADV	_	_	_	_
+7	kommer	komma	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+8	de	den	_	_	PL;DEF;DET	_	_	_	_
+9	turkiska	turkisk	_	_	NOM;ADJ;PL	_	_	_	_
+10	arbetsråden	arbetsråd	_	_	NEUT;DEF;PL;N;NOM	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01136006
+# text = Som filmen gör tydligt var Lovings – och särskilt Richard – motvilliga deltagare i historien.
+# text_en = As the movie makes clear, the Lovings -- and Richard in particular -- were reluctant participants in history.
+1	Som	som	_	_	CONJ	_	_	_	_
+2	filmen	film	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+3	gör	göra	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+4	tydligt	tydligt	_	_	ADV	_	_	_	_
+5	var	vara	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+6	Lovings	Loving	_	_	PROPN;GEN	_	_	_	_
+7	–	–	_	_	_	_	_	_	_
+8	och	och	_	_	CONJ	_	_	_	_
+9	särskilt	särskilt	_	_	ADV	_	_	_	_
+10	Richard	Richard	_	_	PROPN;NOM	_	_	_	_
+11	–	–	_	_	_	_	_	_	_
+12	motvilliga	motvillig	_	_	NOM;ADJ;PL	_	_	_	_
+13	deltagare	deltagare	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+14	i	i	_	_	ADP	_	_	_	_
+15	historien	historia	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w05004
+# sent_id = w05004031
+# text = Det är delen från denna andra gräns upp till den yttre gränsen, den imaginära linje som förbinder fyrlandmärket vid Punta del Este med fyrlandmärket vid Punta Rasa.
+# text_en = It is the portion from this second boundary up to the outer boundary, the imaginary line that connects the lighthouse landmark at Punta del Este to the lighthouse landmark at Punta Rasa.
+1	Det	det	_	_	SG;DEF;NEUT;PRO	_	_	_	_
+2	är	vara	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+3	delen	del	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+4	från	från	_	_	ADP	_	_	_	_
+5	denna	denna	_	_	MASC+FEM;SG;DEF;DET	_	_	_	_
+6	andra	annan	_	_	SG;DEF;ADJ;NOM	_	_	_	_
+7	gräns	gräns	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+8	upp	upp	_	_	ADV	_	_	_	_
+9	till	till	_	_	ADP	_	_	_	_
+10	den	den	_	_	MASC+FEM;SG;DEF;DET	_	_	_	_
+11	yttre	yttre	_	_	NOM;ADJ;CMPR	_	_	_	_
+12	gränsen	gräns	_	_	SG;DEF;MASC+FEM;NOM;N	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	den	den	_	_	MASC+FEM;SG;DEF;DET	_	_	_	_
+15	imaginära	imaginär	_	_	SG;DEF;ADJ;NOM	_	_	_	_
+16	linje	linje	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+17	som	som	_	_	PRO	_	_	_	_
+18	förbinder	förbinda	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+19	fyrlandmärket	fyrlandmärke	_	_	NEUT;SG;DEF;N;NOM	_	_	_	_
+20	vid	vid	_	_	ADP	_	_	_	_
+21	Punta	punta	_	_	SG;DEF;ADJ;NOM	_	_	_	_
+22	del	del	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+23	Este	Este	_	_	PROPN;NOM	_	_	_	_
+24	med	med	_	_	ADP	_	_	_	_
+25	fyrlandmärket	fyrlandmärke	_	_	NEUT;SG;DEF;N;NOM	_	_	_	_
+26	vid	vid	_	_	ADP	_	_	_	_
+27	Punta	punta	_	_	SG;DEF;ADJ;NOM	_	_	_	_
+28	Rasa	rasa	_	_	N	_	_	_	_
+29	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01145034
+# text = Så det är underbart att kunna rädda det och ta med det till ett nytt format och en ny tradition för mexikaner.
+# text_en = So it's wonderful to be able to rescue that and bring it to a new format and a new tradition for Mexicans.
+1	Så	så	_	_	CONJ	_	_	_	_
+2	det	det	_	_	SG;DEF;NEUT;PRO	_	_	_	_
+3	är	vara	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+4	underbart	underbar	_	_	NEUT;SG;ADJ;INDF;NOM	_	_	_	_
+5	att	att	_	_	PART	_	_	_	_
+6	kunna	kunna	_	_	ACT;V;NFIN	_	_	_	_
+7	rädda	rädda	_	_	ACT;V;NFIN	_	_	_	_
+8	det	det	_	_	SG;DEF;NEUT;PRO	_	_	_	_
+9	och	och	_	_	CONJ	_	_	_	_
+10	ta	ta	_	_	ACT;V;NFIN	_	_	_	_
+11	med	med	_	_	ADP	_	_	_	_
+12	det	det	_	_	SG;DEF;NEUT;PRO	_	_	_	_
+13	till	till	_	_	ADP	_	_	_	_
+14	ett	en	_	_	INDF;SG;NEUT;DET	_	_	_	_
+15	nytt	ny	_	_	NEUT;SG;ADJ;INDF;NOM	_	_	_	_
+16	format	format	_	_	NEUT;SG;INDF;N;NOM	_	_	_	_
+17	och	och	_	_	CONJ	_	_	_	_
+18	en	en	_	_	INDF;MASC+FEM;SG;DET	_	_	_	_
+19	ny	ny	_	_	SG;ADJ;INDF;MASC+FEM;NOM	_	_	_	_
+20	tradition	tradition	_	_	SG;INDF;MASC+FEM;NOM;N	_	_	_	_
+21	för	för	_	_	ADP	_	_	_	_
+22	mexikaner	mexikan	_	_	PL;INDF;MASC+FEM;NOM;N	_	_	_	_
+23	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01011017
+# text = Jag åker i fängelse ändå, hoppas det var värt det.
+# text_en = "I'm going to jail either way, hope it was worth it."
+1	Jag	jag	_	_	SG;DEF;MASC+FEM;NOM;PRO	_	_	_	_
+2	åker	åka	_	_	ACT;PRS;FIN;V;IND	_	_	_	_
+3	i	i	_	_	ADP	_	_	_	_
+4	fängelse	fängelse	_	_	NEUT;SG;INDF;N;NOM	_	_	_	_
+5	ändå	ändå	_	_	ADV	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	hoppas	hoppas	_	_	PRS;PASS;FIN;V;IND	_	_	_	_
+8	det	det	_	_	SG;DEF;NEUT;PRO	_	_	_	_
+9	var	vara	_	_	ACT;FIN;V;PST;IND	_	_	_	_
+10	värt	värd	_	_	NEUT;SG;ADJ;INDF;NOM	_	_	_	_
+11	det	det	_	_	SG;DEF;NEUT;PRO	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+

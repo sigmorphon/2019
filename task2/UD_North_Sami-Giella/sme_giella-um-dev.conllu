@@ -1,0 +1,3615 @@
+# sent_id = 1925
+# text = Áddjágo duo lea boahtime?
+1	Áddjágo	áddjá	_	_	N;SG;NOM	_	_	_	_
+2	duo	duo	_	_	ADV	_	_	_	_
+3	lea	leat	_	_	FIN;3;IND;PRS;SG;V	_	_	_	_
+4	boahtime	boahtit	_	_	V;FRML;V.MSDR	_	_	_	_
+5	?	?	_	_	_	_	_	_	_
+
+# sent_id = 2869
+# text = Ikte moai finaime golmmain mállásiin.
+1	Ikte	ikte	_	_	ADV	_	_	_	_
+2	moai	mun	_	_	PRO;DU;NOM;1	_	_	_	_
+3	finaime	fitnat	_	_	FIN;PST;DU;IND;V;1	_	_	_	_
+4	golmmain	golbma	_	_	NUM;PL;ESS	_	_	_	_
+5	mállásiin	mállásat	_	_	N;PL;ESS	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2207
+# text = Doai vázzibeahtti headjavissui.
+1	Doai	don	_	_	PRO;DU;NOM;2	_	_	_	_
+2	vázzibeahtti	vázzit	_	_	FIN;DU;IND;2;PRS;V	_	_	_	_
+3	headjavissui	headjaviessu	_	_	N;SG;IN+ALL	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = 17
+# text = Ruskkat eai váilon, ja eanaš bisánanbáikkit ledje erenoamáš ruivasat.
+1	Ruskkat	ruska	_	_	NOM;PL;N	_	_	_	_
+2	eai	ii	_	_	PL;3;FIN;IND;V;NEG	_	_	_	_
+3	váilon	váilut	_	_	FIN;V;PST;IND	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	ja	ja	_	_	CONJ	_	_	_	_
+6	eanaš	eanaš	_	_	ADJ	_	_	_	_
+7	bisánanbáikkit	bisánanbáiki	_	_	NOM;PL;N	_	_	_	_
+8	ledje	leat	_	_	PL;3;FIN;V;PST;IND	_	_	_	_
+9	erenoamáš	erenoamáš	_	_	ADV	_	_	_	_
+10	ruivasat	ruivvas	_	_	PL;NOM;ADJ	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1915
+# text = Nieida lea čeahppi.
+1	Nieida	nieida	_	_	N;SG;NOM	_	_	_	_
+2	lea	leat	_	_	V;FIN;3;IND;PRS;SG	_	_	_	_
+3	čeahppi	čeahppi	_	_	ADJ;SG;NOM	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2222
+# text = Mii dasa lea sivvan?
+1	Mii	mii	_	_	PRO;SG;NOM	_	_	_	_
+2	dasa	dat	_	_	PRO;SG;IN+ALL	_	_	_	_
+3	lea	leat	_	_	V;FIN;3;IND;PRS;SG	_	_	_	_
+4	sivvan	sivva	_	_	N;FRML	_	_	_	_
+5	?	?	_	_	_	_	_	_	_
+
+# sent_id = 1354
+# text = Na muhto don it leat dasa nama čállán!
+1	Na	na	_	_	PART	_	_	_	_
+2	muhto	muhto	_	_	CONJ	_	_	_	_
+3	don	don	_	_	PRO;NOM;2;SG	_	_	_	_
+4	it	ii	_	_	FIN;NEG;IND;2;SG;V	_	_	_	_
+5	leat	leat	_	_	FIN;IND;PRS;V	_	_	_	_
+6	dasa	dat	_	_	PRO;SG;IN+ALL	_	_	_	_
+7	nama	namma	_	_	N;SG;ACC	_	_	_	_
+8	čállán	čállit	_	_	V.PTCP;V;PFV	_	_	_	_
+9	!	^excl	_	_	_	_	_	_	_
+
+# sent_id = 595
+# text = Olbmot jáhkke ahte stáhtainternáhtain lei buoret dássi, muhto dat guhkin eret duhtadedje dáláš gáibádusaid.
+1	Olbmot	olmmoš	_	_	NOM;PL;N	_	_	_	_
+2	jáhkke	jáhkkit	_	_	PL;3;FIN;V;PST;IND	_	_	_	_
+3	ahte	ahte	_	_	CONJ	_	_	_	_
+4	stáhtainternáhtain	stáhtainternáhtta	_	_	PL;N;ESS	_	_	_	_
+5	lei	leat	_	_	3;FIN;SG;V;PST;IND	_	_	_	_
+6	buoret	buorre	_	_	CMPR;ADJ	_	_	_	_
+7	dássi	dássi	_	_	NOM;N;SG	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	muhto	muhto	_	_	CONJ	_	_	_	_
+10	dat	dat	_	_	PL;NOM;PRO	_	_	_	_
+11	guhkin	guhkkin	_	_	ADV	_	_	_	_
+12	eret	eret	_	_	ADV	_	_	_	_
+13	duhtadedje	duhtadit	_	_	PL;3;FIN;V;PST;IND	_	_	_	_
+14	dáláš	dáláš	_	_	ADJ	_	_	_	_
+15	gáibádusaid	gáibádus	_	_	PL;N;ACC	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1604
+# text = Vuoigatvuohta gusto dušše oktii.
+1	Vuoigatvuohta	vuoigatvuohta	_	_	N;SG;NOM	_	_	_	_
+2	gusto	gustot	_	_	FIN;3;IND;PRS;SG;V	_	_	_	_
+3	dušše	dušše	_	_	ADV	_	_	_	_
+4	oktii	oktii	_	_	ADV	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = 99
+# text = Guovtti dehálaš ja guovddaš rapporttain oaččuimet daid maŋimus divoduvvon veršuvnnaid 12.03.2010, dan beaivvi go mis lei dat maŋimus ovttasbargočoahkkin Finnmárkku fylkkain gos gárviimet min oktasaš evttohusa.
+1	Guovtti	guokte	_	_	GEN;SG;NUM	_	_	_	_
+2	dehálaš	dehálaš	_	_	ADJ	_	_	_	_
+3	ja	ja	_	_	CONJ	_	_	_	_
+4	guovddaš	guovddáš	_	_	ADJ	_	_	_	_
+5	rapporttain	raporta	_	_	PL;N;ESS	_	_	_	_
+6	oaččuimet	oažžut	_	_	PL;FIN;V;PST;1;IND	_	_	_	_
+7	daid	dat	_	_	PL;PRO;ACC	_	_	_	_
+8	maŋimus	maŋit	_	_	RL;ADJ	_	_	_	_
+9	divoduvvon	divodit	_	_	PASS;PFV;V;V.PTCP	_	_	_	_
+10	veršuvnnaid	veršuvdna	_	_	PL;N;ACC	_	_	_	_
+11	12.03.2010	12.03.2010	_	_	GEN;SG;NUM	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	dan	dat	_	_	GEN;PRO;SG	_	_	_	_
+14	beaivvi	beaivi	_	_	N;GEN;SG	_	_	_	_
+15	go	go	_	_	CONJ	_	_	_	_
+16	mis	mun	_	_	PL;ESS;PRO;1	_	_	_	_
+17	lei	leat	_	_	3;FIN;SG;V;PST;IND	_	_	_	_
+18	dat	dat	_	_	NOM;PRO;SG	_	_	_	_
+19	maŋimus	maŋit	_	_	RL;ADJ	_	_	_	_
+20	ovttasbargočoahkkin	ovttasbargočoahkkin	_	_	NOM;N;SG	_	_	_	_
+21	Finnmárkku	Finnmárku	_	_	GEN;SG;PROPN	_	_	_	_
+22	fylkkain	fylka	_	_	N;COM;SG	_	_	_	_
+23	gos	gos	_	_	ADV	_	_	_	_
+24	gárviimet	gárvet	_	_	PL;FIN;V;PST;1;IND	_	_	_	_
+25	min	mun	_	_	PL;PRO;1;GEN	_	_	_	_
+26	oktasaš	oktasaš	_	_	ADJ	_	_	_	_
+27	evttohusa	evttohus	_	_	N;SG;ACC	_	_	_	_
+28	.	.	_	_	_	_	_	_	_
+
+# sent_id = 3217
+# text = Mun válddán dáid buriid.
+1	Mun	mun	_	_	PRO;NOM;SG;1	_	_	_	_
+2	válddán	váldit	_	_	FIN;IND;PRS;SG;V;1	_	_	_	_
+3	dáid	dát	_	_	PRO;ACC;PL	_	_	_	_
+4	buriid	buorri	_	_	N;ACC;PL	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2895
+# text = Golmma luohkás leat dušše nieiddat.
+1	Golmma	golbma	_	_	SG;NUM;ESS	_	_	_	_
+2	luohkás	luohkká	_	_	N;SG;ESS	_	_	_	_
+3	leat	leat	_	_	FIN;3;IND;PRS;V;PL	_	_	_	_
+4	dušše	dušše	_	_	ADV	_	_	_	_
+5	nieiddat	nieida	_	_	PL;N;NOM	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = 175
+# text = Sáivačázis gođđi luossaguliid sáhttá bivdit dušše gittaneavvuiguin mearas maŋŋil go Finnmárkkuopmodat lea čujuhan bivdosaji.
+1	Sáivačázis	sáivačáhci	_	_	N;ESS;SG	_	_	_	_
+2	gođđi	gođđat	_	_	PRS;V;V.PTCP	_	_	_	_
+3	luossaguliid	luossaguolli	_	_	PL;N;ACC	_	_	_	_
+4	sáhttá	sáhttit	_	_	3;FIN;SG;PRS;V;IND	_	_	_	_
+5	bivdit	bivdit	_	_	V;NFIN	_	_	_	_
+6	dušše	dušše	_	_	ADV	_	_	_	_
+7	gittaneavvuiguin	gittaneavvu	_	_	PL;N;COM	_	_	_	_
+8	mearas	mearra	_	_	N;ESS;SG	_	_	_	_
+9	maŋŋil	maŋŋel	_	_	ADV	_	_	_	_
+10	go	go	_	_	CONJ	_	_	_	_
+11	Finnmárkkuopmodat	Finnmárkkuopmodat	_	_	NOM;SG;PROPN	_	_	_	_
+12	lea	leat	_	_	3;FIN;SG;PRS;V;IND	_	_	_	_
+13	čujuhan	čujuhit	_	_	PFV;V;V.PTCP	_	_	_	_
+14	bivdosaji	bivdosadji	_	_	N;SG;ACC	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2915
+# text = Golbmasis ledje bliánttat mielde ja guoktásis ledje peannat.
+1	Golbmasis	golmmas	_	_	N;SG;ESS	_	_	_	_
+2	ledje	leat	_	_	FIN;3;PST;IND;V;PL	_	_	_	_
+3	bliánttat	bliánta	_	_	PL;N;NOM	_	_	_	_
+4	mielde	mielde	_	_	ADV	_	_	_	_
+5	ja	ja	_	_	CONJ	_	_	_	_
+6	guoktásis	guovttis	_	_	N;SG;ESS	_	_	_	_
+7	ledje	leat	_	_	FIN;3;PST;IND;V;PL	_	_	_	_
+8	peannat	peanna	_	_	PL;N;NOM	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2853
+# text = Lávebehtet go vuovdit guliideattet?
+1	Lávebehtet	lávet	_	_	FIN;IND;2;PRS;V;PL	_	_	_	_
+2	go	go	_	_	PART	_	_	_	_
+3	vuovdit	vuovdit	_	_	NFIN;V	_	_	_	_
+4	guliideattet	guolli	_	_	PSS2P;N;ACC;PL	_	_	_	_
+5	?	?	_	_	_	_	_	_	_
+
+# sent_id = 2218
+# text = Olmmái lei rikkis.
+1	Olmmái	olmmái	_	_	N;SG;NOM	_	_	_	_
+2	lei	leat	_	_	V;FIN;3;PST;IND;SG	_	_	_	_
+3	rikkis	rikkis	_	_	ADJ;SG;NOM	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2365
+# text = Diddi dettii guokte kilo.
+1	Diddi	diddi	_	_	N;SG;NOM	_	_	_	_
+2	dettii	deaddit	_	_	FIN;3;PST;IND;SG;V	_	_	_	_
+3	guokte	guokte	_	_	SG;ACC;NUM	_	_	_	_
+4	kilo	kilo	_	_	GEN;N;SG	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2896
+# text = Golbma máná leat olgun dál.
+1	Golbma	golbma	_	_	SG;NUM;NOM	_	_	_	_
+2	máná	mánná	_	_	GEN;N;SG	_	_	_	_
+3	leat	leat	_	_	FIN;3;IND;PRS;V;PL	_	_	_	_
+4	olgun	olgun	_	_	ADV	_	_	_	_
+5	dál	dál	_	_	ADV	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2329
+# text = Dán áigge heaŋgá rátnu čikŋan seainnis máŋgga siiddas.
+1	Dán	dát	_	_	PRO;SG;GEN	_	_	_	_
+2	áigge	áigi	_	_	GEN;N;SG	_	_	_	_
+3	heaŋgá	heaŋgát	_	_	FIN;3;IND;PRS;SG;V	_	_	_	_
+4	rátnu	rátnu	_	_	N;SG;NOM	_	_	_	_
+5	čikŋan	čikŋa	_	_	N;FRML	_	_	_	_
+6	seainnis	seaidni	_	_	N;SG;ESS	_	_	_	_
+7	máŋgga	máŋga	_	_	SG;NUM;ESS	_	_	_	_
+8	siiddas	siida	_	_	N;SG;ESS	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2889
+# text = Guovtti lanjas leat jorba beavddit.
+1	Guovtti	guokte	_	_	SG;NUM;ESS	_	_	_	_
+2	lanjas	latnja	_	_	N;SG;ESS	_	_	_	_
+3	leat	leat	_	_	FIN;3;IND;PRS;V;PL	_	_	_	_
+4	jorba	jorbbas	_	_	ADJ	_	_	_	_
+5	beavddit	beavdi	_	_	PL;N;NOM	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2613
+# text = Mu mielas lea suohtas oahppat sámegiela.
+1	Mu	mun	_	_	PRO;GEN;SG;1	_	_	_	_
+2	mielas	mielas	_	_	ADP	_	_	_	_
+3	lea	leat	_	_	V;FIN;3;IND;PRS;SG	_	_	_	_
+4	suohtas	suohtas	_	_	ADJ;SG;NOM	_	_	_	_
+5	oahppat	oahppat	_	_	NFIN;V	_	_	_	_
+6	sámegiela	sámegiella	_	_	N;SG;ACC	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2324
+# text = Dat šattai stuora váivin midjiide.
+1	Dat	dat	_	_	PRO;SG;NOM	_	_	_	_
+2	šattai	šaddat	_	_	FIN;3;PST;IND;SG;V	_	_	_	_
+3	stuora	stuoris	_	_	ADJ	_	_	_	_
+4	váivin	váivi	_	_	N;FRML	_	_	_	_
+5	midjiide	mun	_	_	PRO;IN+ALL;1;PL	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1508
+# text = Son deaivvai náitalan nissona.
+1	Son	son	_	_	3;PRO;NOM;SG	_	_	_	_
+2	deaivvai	deaivat	_	_	FIN;3;PST;IND;SG;V	_	_	_	_
+3	náitalan	náitalan	_	_	ADJ	_	_	_	_
+4	nissona	nisu	_	_	N;SG;ACC	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = 945
+# text = Dábálaš mearrádusat.
+1	Dábálaš	dábálaš	_	_	ADJ	_	_	_	_
+2	mearrádusat	mearrádus	_	_	NOM;PL;N	_	_	_	_
+3	.	.	_	_	_	_	_	_	_
+
+# sent_id = 3137
+# text = Son oinnii buot dan mii lea ráhkistan ja gudnejahttin veara.
+1	Son	son	_	_	3;PRO;NOM;SG	_	_	_	_
+2	oinnii	oaidnit	_	_	FIN;3;PST;IND;SG;V	_	_	_	_
+3	buot	buot	_	_	ADV	_	_	_	_
+4	dan	dat	_	_	PRO;SG;ACC	_	_	_	_
+5	mii	mii	_	_	PRO;SG;NOM	_	_	_	_
+6	lea	leat	_	_	V;FIN;3;IND;PRS;SG	_	_	_	_
+7	ráhkistan	ráhkistit	_	_	GEN;V;V.MSDR	_	_	_	_
+8	ja	ja	_	_	CONJ	_	_	_	_
+9	gudnejahttin	gudnejahttit	_	_	GEN;V;V.MSDR	_	_	_	_
+10	veara	veara	_	_	ADJ;SG;NOM	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2768
+# text = Áhččát manai čázi viežžat.
+1	Áhččát	áhčči	_	_	PSS2S;N;NOM;SG	_	_	_	_
+2	manai	mannat	_	_	FIN;3;PST;IND;SG;V	_	_	_	_
+3	čázi	čáhci	_	_	N;SG;ACC	_	_	_	_
+4	viežžat	viežžat	_	_	NFIN;V	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = 578
+# text = Mánát, go ledje ollen rihppaskuvlla ahkái, máhtte unnán dahje eai lean oahppan maidige.
+1	Mánát	mánná	_	_	NOM;PL;N	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	go	go	_	_	CONJ	_	_	_	_
+4	ledje	leat	_	_	PL;3;FIN;V;PST;IND	_	_	_	_
+5	ollen	ollet	_	_	PFV;V;V.PTCP	_	_	_	_
+6	rihppaskuvlla	rihppaskuvla	_	_	N;GEN;SG	_	_	_	_
+7	ahkái	ahki	_	_	IN+ALL;N;SG	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	máhtte	máhttit	_	_	PL;3;FIN;V;PST;IND	_	_	_	_
+10	unnán	unnán	_	_	ADV	_	_	_	_
+11	dahje	dahje	_	_	CONJ	_	_	_	_
+12	eai	ii	_	_	PL;3;FIN;IND;V;NEG	_	_	_	_
+13	lean	leat	_	_	FIN;V;PST;IND	_	_	_	_
+14	oahppan	oahppat	_	_	PFV;V;V.PTCP	_	_	_	_
+15	maidige	mihkkege	_	_	PRO;SG;ACC	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2041
+# text = Gos daid lehpet goldán?
+1	Gos	gos	_	_	ADV	_	_	_	_
+2	daid	dat	_	_	PRO;ACC;PL	_	_	_	_
+3	lehpet	leat	_	_	FIN;IND;2;PRS;V;PL	_	_	_	_
+4	goldán	goldit	_	_	V.PTCP;V;PFV	_	_	_	_
+5	?	?	_	_	_	_	_	_	_
+
+# sent_id = 871
+# text = Dat máksá guokte duhát ruvnno.
+1	Dat	dat	_	_	NOM;PRO;SG	_	_	_	_
+2	máksá	máksit	_	_	3;FIN;SG;PRS;V;IND	_	_	_	_
+3	guokte	guokte	_	_	SG;NUM;ACC	_	_	_	_
+4	duhát	duhát	_	_	GEN;SG;NUM	_	_	_	_
+5	ruvnno	ruvdnu	_	_	N;GEN;SG	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = 464
+# text = Dat guoktenuppelot poartta ledje guoktenuppelot bearrala, juohke poarta ráhkaduvvon ovtta bearralis.
+1	Dat	dat	_	_	NOM;PRO;SG	_	_	_	_
+2	guoktenuppelot	guoktenuppelohkái	_	_	SG;NUM	_	_	_	_
+3	poartta	poarta	_	_	N;GEN;SG	_	_	_	_
+4	ledje	leat	_	_	PL;3;FIN;V;PST;IND	_	_	_	_
+5	guoktenuppelot	guoktenuppelohkái	_	_	SG;NUM	_	_	_	_
+6	bearrala	bearal	_	_	N;GEN;SG	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	juohke	juohke	_	_	PRO	_	_	_	_
+9	poarta	poarta	_	_	NOM;N;SG	_	_	_	_
+10	ráhkaduvvon	ráhkadit	_	_	PASS;PFV;V;V.PTCP	_	_	_	_
+11	ovtta	okta	_	_	SG;ESS;NUM	_	_	_	_
+12	bearralis	bearal	_	_	N;ESS;SG	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = 310
+# text = Guovddáš atná digitála diehtojuohkinreaidduid deaŧalažžan iežas gaskkustanbarggus ja lea ásahan sierra neahttauskkádaga.
+1	Guovddáš	guovddáš	_	_	NOM;N;SG	_	_	_	_
+2	atná	atnit	_	_	3;FIN;SG;PRS;V;IND	_	_	_	_
+3	digitála	digitála	_	_	ADJ	_	_	_	_
+4	diehtojuohkinreaidduid	diehtojuohkinreaidu	_	_	PL;N;ACC	_	_	_	_
+5	deaŧalažžan	deaŧalaš	_	_	FRML;ADJ	_	_	_	_
+6	iežas	ieš	_	_	PSS3S;PRO;REFL;GEN	_	_	_	_
+7	gaskkustanbarggus	gaskkustanbargu	_	_	N;ESS;SG	_	_	_	_
+8	ja	ja	_	_	CONJ	_	_	_	_
+9	lea	leat	_	_	3;FIN;SG;PRS;V;IND	_	_	_	_
+10	ásahan	ásahit	_	_	PFV;V;V.PTCP	_	_	_	_
+11	sierra	sierra	_	_	ADJ	_	_	_	_
+12	neahttauskkádaga	neahttauskkádat	_	_	N;SG;ACC	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1138
+# text = Jos dajan nubbái: Mana!
+1	Jos	jos	_	_	CONJ	_	_	_	_
+2	dajan	dadjat	_	_	FIN;IND;PRS;SG;V;1	_	_	_	_
+3	nubbái	nubbi	_	_	PRO;SG;IN+ALL	_	_	_	_
+4	:	:	_	_	_	_	_	_	_
+5	Mana	mannat	_	_	FIN;2;SG;V;IMP	_	_	_	_
+6	!	^excl	_	_	_	_	_	_	_
+
+# sent_id = 1130
+# text = Jesus Kristus ieš ja Ipmil.
+1	Jesus	Jesus	_	_	PROPN	_	_	_	_
+2	Kristus	Kristus	_	_	SG;PROPN;NOM	_	_	_	_
+3	ieš	ieš	_	_	PRO;NOM;SG;REFL	_	_	_	_
+4	ja	ja	_	_	CONJ	_	_	_	_
+5	Ipmil	Ipmil	_	_	SG;PROPN;NOM	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2360
+# text = Don galggat jaska veallát.
+1	Don	don	_	_	PRO;NOM;2;SG	_	_	_	_
+2	galggat	galgat	_	_	FIN;IND;2;PRS;SG;V	_	_	_	_
+3	jaska	jaska	_	_	ADV	_	_	_	_
+4	veallát	veallát	_	_	NFIN;V	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1444
+# text = Seamma gusto poliklinihkalaš divššus.
+1	Seamma	seammá	_	_	PRO;SG;NOM	_	_	_	_
+2	gusto	gustot	_	_	FIN;3;IND;PRS;SG;V	_	_	_	_
+3	poliklinihkalaš	poliklinihkka	_	_	ADJ	_	_	_	_
+4	divššus	dikšu	_	_	N;SG;ESS	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1119
+# text = Ja Ipmil guhte suokkarda váimmuid, diehtá maid Vuoigŋa hálida, dasgo Vuoigŋa rohkadallá bassi olbmuid ovddas Ipmila dáhtu mielde.
+1	Ja	ja	_	_	CONJ	_	_	_	_
+2	Ipmil	Ipmil	_	_	SG;PROPN;NOM	_	_	_	_
+3	guhte	guhte	_	_	PRO;SG;NOM	_	_	_	_
+4	suokkarda	suokkardit	_	_	FIN;3;IND;PRS;SG;V	_	_	_	_
+5	váimmuid	váibmu	_	_	N;ACC;PL	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	diehtá	diehtit	_	_	FIN;3;IND;PRS;SG;V	_	_	_	_
+8	maid	mii	_	_	PRO;SG;ACC	_	_	_	_
+9	Vuoigŋa	Vuoigŋa	_	_	SG;PROPN;NOM	_	_	_	_
+10	hálida	háliidit	_	_	FIN;3;IND;PRS;SG;V	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	dasgo	dasgo	_	_	CONJ	_	_	_	_
+13	Vuoigŋa	Vuoigŋa	_	_	SG;PROPN;NOM	_	_	_	_
+14	rohkadallá	rohkadallat	_	_	FIN;3;IND;PRS;SG;V	_	_	_	_
+15	bassi	bassi	_	_	ADJ	_	_	_	_
+16	olbmuid	olmmoš	_	_	GEN;N;PL	_	_	_	_
+17	ovddas	ovddas	_	_	ADP	_	_	_	_
+18	Ipmila	Ipmil	_	_	GEN;SG;PROPN	_	_	_	_
+19	dáhtu	dáhttu	_	_	GEN;N;SG	_	_	_	_
+20	mielde	mielde	_	_	ADP	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# sent_id = 3334
+# text = Riektavuođa dihtii berre namahuvvot ahte cealkámušas maiddái addui vejolašvuohta ásahit sierra linnjáid váhnemiidda geat dáhttot iežaset mánáide eanet sámegiela oahpahusa geavaheami.
+1	Riektavuođa	riektavuohta	_	_	GEN;N;SG	_	_	_	_
+2	dihtii	dihtii	_	_	ADP	_	_	_	_
+3	berre	berret	_	_	FIN;3;IND;PRS;SG;V	_	_	_	_
+4	namahuvvot	namahit	_	_	NFIN;V;PASS	_	_	_	_
+5	ahte	ahte	_	_	CONJ	_	_	_	_
+6	cealkámušas	cealkámuš	_	_	N;SG;ESS	_	_	_	_
+7	maiddái	maiddái	_	_	ADV	_	_	_	_
+8	addui	addit	_	_	FIN;3;PASS;PST;IND;SG;V	_	_	_	_
+9	vejolašvuohta	vejolašvuohta	_	_	N;SG;NOM	_	_	_	_
+10	ásahit	ásahit	_	_	NFIN;V	_	_	_	_
+11	sierra	sierra	_	_	ADJ	_	_	_	_
+12	linnjáid	linnjá	_	_	N;ACC;PL	_	_	_	_
+13	váhnemiidda	váhnen	_	_	PL;N;IN+ALL	_	_	_	_
+14	geat	gii	_	_	PL;PRO;NOM	_	_	_	_
+15	dáhttot	dáhttut	_	_	FIN;3;IND;PRS;V;PL	_	_	_	_
+16	iežaset	ieš	_	_	PSS3P;PRO;GEN;REFL	_	_	_	_
+17	mánáide	mánná	_	_	PL;N;IN+ALL	_	_	_	_
+18	eanet	eanet	_	_	ADJ;CMPR	_	_	_	_
+19	sámegiela	sámegiella	_	_	GEN;N;SG	_	_	_	_
+20	oahpahusa	oahpahus	_	_	GEN;N;SG	_	_	_	_
+21	geavaheami	geavaheapmi	_	_	N;SG;ACC	_	_	_	_
+22	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1769
+# text = Soai lohkaba Harry_Potter-girjji eŋgelasgillii.
+1	Soai	son	_	_	3;PRO;DU;NOM	_	_	_	_
+2	lohkaba	lohkat	_	_	FIN;3;DU;IND;PRS;V	_	_	_	_
+3	Harry_Potter-girjji	Harry_Potter-girji	_	_	N;SG;ACC	_	_	_	_
+4	eŋgelasgillii	eŋgelasgiella	_	_	N;SG;IN+ALL	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2680
+# text = Gula, bártnážan!
+1	Gula	gullat	_	_	FIN;2;SG;V;IMP	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	bártnážan	bártnáš	_	_	PSS1S;N;NOM;SG	_	_	_	_
+4	!	^excl	_	_	_	_	_	_	_
+
+# sent_id = 1313
+# text = Mun áiggun čuovvut du ihkinassii manažat.
+1	Mun	mun	_	_	PRO;NOM;SG;1	_	_	_	_
+2	áiggun	áigut	_	_	FIN;IND;PRS;SG;V;1	_	_	_	_
+3	čuovvut	čuovvut	_	_	NFIN;V	_	_	_	_
+4	du	don	_	_	PRO;ACC;2;SG	_	_	_	_
+5	ihkinassii	ihkinassii	_	_	ADV	_	_	_	_
+6	manažat	mannat	_	_	FIN;2;PRS;SG;POT;V	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = 453
+# text = Liná ii liikon lohkat girjjiid main lei ollu čálus.
+1	Liná	Liná	_	_	NOM;SG;PROPN	_	_	_	_
+2	ii	ii	_	_	3;FIN;SG;IND;V;NEG	_	_	_	_
+3	liikon	liikot	_	_	FIN;V;PST;IND	_	_	_	_
+4	lohkat	lohkat	_	_	V;NFIN	_	_	_	_
+5	girjjiid	girji	_	_	PL;N;ACC	_	_	_	_
+6	main	mii	_	_	PL;PRO;ESS	_	_	_	_
+7	lei	leat	_	_	3;FIN;SG;V;PST;IND	_	_	_	_
+8	ollu	ollu	_	_	ADJ	_	_	_	_
+9	čálus	čálus	_	_	NOM;N;SG	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1954
+# text = Heaika álggii ođđa bargui.
+1	Heaika	Heaika	_	_	SG;PROPN;NOM	_	_	_	_
+2	álggii	álgit	_	_	FIN;3;PST;IND;SG;V	_	_	_	_
+3	ođđa	ođas	_	_	ADJ	_	_	_	_
+4	bargui	bargu	_	_	N;SG;IN+ALL	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = 3000
+# text = Juhán oastá ođđaseamos biilla.
+1	Juhán	Juhán	_	_	SG;PROPN;NOM	_	_	_	_
+2	oastá	oastit	_	_	FIN;3;IND;PRS;SG;V	_	_	_	_
+3	ođđaseamos	ođas	_	_	ADJ;RL	_	_	_	_
+4	biilla	biila	_	_	N;SG;ACC	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2669
+# text = Mun bidjen hildu sadjásis.
+1	Mun	mun	_	_	PRO;NOM;SG;1	_	_	_	_
+2	bidjen	bidjat	_	_	FIN;PST;IND;SG;V;1	_	_	_	_
+3	hildu	hildu	_	_	N;SG;ACC	_	_	_	_
+4	sadjásis	sadji	_	_	PSS3S;N;SG;IN+ALL	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = 417
+# text = Ná mánnálaš logát luohká oahppit eai gávdno eará skuvllain.
+1	Ná	ná	_	_	ADV	_	_	_	_
+2	mánnálaš	mánnálaš	_	_	ADJ	_	_	_	_
+3	logát	logát	_	_	ADJ	_	_	_	_
+4	luohká	luohkká	_	_	N;GEN;SG	_	_	_	_
+5	oahppit	oahppi	_	_	NOM;PL;N	_	_	_	_
+6	eai	ii	_	_	PL;3;FIN;IND;V;NEG	_	_	_	_
+7	gávdno	gávdnot	_	_	FIN;PRS;V;IND	_	_	_	_
+8	eará	eará	_	_	PRO	_	_	_	_
+9	skuvllain	skuvla	_	_	PL;N;ESS	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = 3129
+# text = In dieđe man buorit dat leat.
+1	In	ii	_	_	FIN;NEG;IND;SG;V;1	_	_	_	_
+2	dieđe	diehtit	_	_	FIN;IND;PRS;V	_	_	_	_
+3	man	man	_	_	ADV	_	_	_	_
+4	buorit	buorre	_	_	PL;ADJ;NOM	_	_	_	_
+5	dat	dat	_	_	PL;PRO;NOM	_	_	_	_
+6	leat	leat	_	_	V;FIN;3;IND;PRS;PL	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = 542
+# text = Ja mo jos Muhtinlágan Stálu ustibat bohtet fitnat.
+1	Ja	ja	_	_	CONJ	_	_	_	_
+2	mo	mo	_	_	ADV	_	_	_	_
+3	jos	jos	_	_	CONJ	_	_	_	_
+4	Muhtinlágan	muhtinlágan	_	_	ADJ	_	_	_	_
+5	Stálu	stállu	_	_	N;GEN;SG	_	_	_	_
+6	ustibat	ustit	_	_	NOM;PL;N	_	_	_	_
+7	bohtet	boahtit	_	_	PL;3;FIN;PRS;V;IND	_	_	_	_
+8	fitnat	fitnat	_	_	V;NFIN	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1369
+# text = Nu maŋimuččat šaddet vuosttamužžan.
+1	Nu	nu	_	_	ADV	_	_	_	_
+2	maŋimuččat	maŋit	_	_	PL;ADJ;NOM;RL	_	_	_	_
+3	šaddet	šaddat	_	_	FIN;3;IND;PRS;V;PL	_	_	_	_
+4	vuosttamužžan	vuosttamuš	_	_	ADJ;FRML;RL	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2271
+# text = Diibmu golbma vuolggášin ruoktot.
+1	Diibmu	diibmu	_	_	N;SG;NOM	_	_	_	_
+2	golbma	golbma	_	_	SG;NUM;NOM	_	_	_	_
+3	vuolggášin	vuolgit	_	_	FIN;PRS;SG;V;1;COND	_	_	_	_
+4	ruoktot	ruoktot	_	_	ADV	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1760
+# text = Mánná ii leat mannan olggos.
+1	Mánná	mánná	_	_	N;SG;NOM	_	_	_	_
+2	ii	ii	_	_	FIN;3;NEG;IND;SG;V	_	_	_	_
+3	leat	leat	_	_	FIN;IND;PRS;V	_	_	_	_
+4	mannan	mannat	_	_	V.PTCP;V;PFV	_	_	_	_
+5	olggos	olggos	_	_	ADV	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = 467
+# text = Álbmogat vádjolit gávpoga čuovggas, ja máilmmi gonagasat buktet dohko hearvásvuođaideaset.
+1	Álbmogat	álbmot	_	_	NOM;PL;N	_	_	_	_
+2	vádjolit	vádjolit	_	_	PL;3;FIN;PRS;V;IND	_	_	_	_
+3	gávpoga	gávpot	_	_	N;GEN;SG	_	_	_	_
+4	čuovggas	čuovga	_	_	N;ESS;SG	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	ja	ja	_	_	CONJ	_	_	_	_
+7	máilmmi	máilbmi	_	_	N;GEN;SG	_	_	_	_
+8	gonagasat	gonagas	_	_	NOM;PL;N	_	_	_	_
+9	buktet	buktit	_	_	PL;3;FIN;PRS;V;IND	_	_	_	_
+10	dohko	dohko	_	_	ADV	_	_	_	_
+11	hearvásvuođaideaset	hearvásvuohta	_	_	PSS3P;PL;ACC;N	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1878
+# text = Bidjet dámmá hiŋgalii!
+1	Bidjet	bidjat	_	_	FIN;2;V;PL;IMP	_	_	_	_
+2	dámmá	dámmá	_	_	N;SG;ACC	_	_	_	_
+3	hiŋgalii	hiŋggal	_	_	N;SG;IN+ALL	_	_	_	_
+4	!	^excl	_	_	_	_	_	_	_
+
+# sent_id = 1133
+# text = Jesus manai fatnasii ja vulggii rastá jávrri iežas gávpogii.
+1	Jesus	Jesus	_	_	SG;PROPN;NOM	_	_	_	_
+2	manai	mannat	_	_	FIN;3;PST;IND;SG;V	_	_	_	_
+3	fatnasii	fanas	_	_	N;SG;IN+ALL	_	_	_	_
+4	ja	ja	_	_	CONJ	_	_	_	_
+5	vulggii	vuolgit	_	_	FIN;3;PST;IND;SG;V	_	_	_	_
+6	rastá	rastá	_	_	ADP	_	_	_	_
+7	jávrri	jávri	_	_	GEN;N;SG	_	_	_	_
+8	iežas	ieš	_	_	PSS3S;PRO;GEN;REFL	_	_	_	_
+9	gávpogii	gávpot	_	_	N;SG;IN+ALL	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = 833
+# text = Dan ášši ferte čilget nállevealaheami ektui sierra.
+1	Dan	dat	_	_	PRO;SG;ACC	_	_	_	_
+2	ášši	ášši	_	_	N;SG;ACC	_	_	_	_
+3	ferte	fertet	_	_	3;FIN;SG;PRS;V;IND	_	_	_	_
+4	čilget	čilget	_	_	V;NFIN	_	_	_	_
+5	nállevealaheami	nállevealaheapmi	_	_	N;GEN;SG	_	_	_	_
+6	ektui	ektui	_	_	ADP	_	_	_	_
+7	sierra	sierra	_	_	ADV	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1050
+# text = Go sápmelaččat ohcet fuolahanbálkká lagaš olbmuideaset dikšumii, de galgá gielda juolludeamis váldit vuhtii, váilugo bálvalusain giella ja kulturgelbbolašvuohta.
+1	Go	go	_	_	CONJ	_	_	_	_
+2	sápmelaččat	sápmelaš	_	_	NOM;PL;N	_	_	_	_
+3	ohcet	ohcat	_	_	PL;3;FIN;PRS;V;IND	_	_	_	_
+4	fuolahanbálkká	fuolahanbálká	_	_	N;SG;ACC	_	_	_	_
+5	lagaš	lagaš	_	_	ADJ	_	_	_	_
+6	olbmuideaset	olmmoš	_	_	PSS3P;PL;N;GEN	_	_	_	_
+7	dikšumii	dikšun	_	_	IN+ALL;N;SG	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	de	de	_	_	ADV	_	_	_	_
+10	galgá	galgat	_	_	3;FIN;SG;PRS;V;IND	_	_	_	_
+11	gielda	gielda	_	_	NOM;N;SG	_	_	_	_
+12	juolludeamis	juolludeapmi	_	_	N;ESS;SG	_	_	_	_
+13	váldit	váldit	_	_	V;NFIN	_	_	_	_
+14	vuhtii	vuhtii	_	_	ADV	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	váilugo	váilut	_	_	3;FIN;SG;PRS;V;IND	_	_	_	_
+17	bálvalusain	bálvalus	_	_	PL;N;ESS	_	_	_	_
+18	giella	giella	_	_	NOM;N;SG	_	_	_	_
+19	ja	ja	_	_	CONJ	_	_	_	_
+20	kulturgelbbolašvuohta	kulturgelbbolašvuohta	_	_	NOM;N;SG	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1679
+# text = Boanda goddá vuovssá.
+1	Boanda	boanda	_	_	N;SG;NOM	_	_	_	_
+2	goddá	goddit	_	_	FIN;3;IND;PRS;SG;V	_	_	_	_
+3	vuovssá	vuoksá	_	_	N;SG;ACC	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = 791
+# text = Boađe boahtte vahku.
+1	Boađe	boahtit	_	_	IMP;FIN;SG;V;2	_	_	_	_
+2	boahtte	boahtte	_	_	ADJ	_	_	_	_
+3	vahku	vahkku	_	_	N;GEN;SG	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = 606
+# text = Norgga sámiid álgoorganiserema rahčamušat álggahuvvojedje Haviika-skuvllas.
+1	Norgga	Norga	_	_	GEN;SG;PROPN	_	_	_	_
+2	sámiid	sápmi	_	_	PL;N;GEN	_	_	_	_
+3	álgoorganiserema	álgoorganiseren	_	_	N;GEN;SG	_	_	_	_
+4	rahčamušat	rahčamuš	_	_	NOM;PL;N	_	_	_	_
+5	álggahuvvojedje	álggahit	_	_	PL;3;FIN;V;PST;PASS;IND	_	_	_	_
+6	Haviika-skuvllas	Haviika-skuvla	_	_	N;ESS;SG	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2147
+# text = Muital midjiide!
+1	Muital	muitalit	_	_	FIN;2;SG;V;IMP	_	_	_	_
+2	midjiide	mun	_	_	PRO;IN+ALL;1;PL	_	_	_	_
+3	!	^excl	_	_	_	_	_	_	_
+
+# sent_id = 3514
+# text = Barggus bokte son lei gártan oahpásmuvvat bálkkálaš eallinvuohkái.
+1	Barggus	bargu	_	_	PSS3S;N;GEN;SG	_	_	_	_
+2	bokte	bokte	_	_	ADP	_	_	_	_
+3	son	son	_	_	3;PRO;NOM;SG	_	_	_	_
+4	lei	leat	_	_	FIN;3;PST;IND;SG;V	_	_	_	_
+5	gártan	gártat	_	_	V.PTCP;V;PFV	_	_	_	_
+6	oahpásmuvvat	oahpásmuvvat	_	_	NFIN;V	_	_	_	_
+7	bálkkálaš	bálká	_	_	ADJ	_	_	_	_
+8	eallinvuohkái	eallinvuohki	_	_	N;SG;IN+ALL	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2952
+# text = Oinnežetne go su ihttin, dan ean dieđe.
+1	Oinnežetne	oaidnit	_	_	FIN;DU;PRS;POT;V;1	_	_	_	_
+2	go	go	_	_	PART	_	_	_	_
+3	su	son	_	_	3;PRO;ACC;SG	_	_	_	_
+4	ihttin	ihttin	_	_	ADV	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	dan	dat	_	_	PRO;SG;ACC	_	_	_	_
+7	ean	ii	_	_	FIN;NEG;DU;IND;V;1	_	_	_	_
+8	dieđe	diehtit	_	_	FIN;IND;PRS;V	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = 3377
+# text = Gánda ja Stállu.
+1	Gánda	gánda	_	_	N;SG;NOM	_	_	_	_
+2	ja	ja	_	_	CONJ	_	_	_	_
+3	Stállu	stállu	_	_	N;SG;NOM	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2501
+# text = Dat dáidá riggát go mii jáhkkit.
+1	Dat	dat	_	_	PRO;SG;NOM	_	_	_	_
+2	dáidá	dáidit	_	_	FIN;3;IND;PRS;SG;V	_	_	_	_
+3	riggát	rikkis	_	_	ADJ;SG;CMPR;NOM	_	_	_	_
+4	go	go	_	_	CONJ	_	_	_	_
+5	mii	mun	_	_	PRO;NOM;1;PL	_	_	_	_
+6	jáhkkit	jáhkkit	_	_	FIN;IND;PRS;V;1;PL	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = 3413
+# text = Eamit oainnat diđii, ahte Stuorra Sarvva fáktii Riibmagállis, buot gievramus stállu.
+1	Eamit	eamit	_	_	N;SG;NOM	_	_	_	_
+2	oainnat	oainnat	_	_	ADV	_	_	_	_
+3	diđii	diehtit	_	_	FIN;3;PST;IND;SG;V	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	ahte	ahte	_	_	CONJ	_	_	_	_
+6	Stuorra	Stuorra	_	_	PROPN	_	_	_	_
+7	Sarvva	Sarva	_	_	SG;PROPN;ACC	_	_	_	_
+8	fáktii	fáktet	_	_	FIN;3;PST;IND;SG;V	_	_	_	_
+9	Riibmagállis	Riibmagállis	_	_	SG;PROPN;NOM	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	buot	buot	_	_	ADV	_	_	_	_
+12	gievramus	gievra	_	_	ADJ;RL	_	_	_	_
+13	stállu	stállu	_	_	N;SG;NOM	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1564
+# text = Sámediggi lea miehtan sutnje máksit 800 ruvnno juohke árgabeaivvi ovddas, muhto ii fal lávvordagaid, sotnabeivviid ja bassebeivviid ovddas.
+1	Sámediggi	sámediggi	_	_	N;SG;NOM	_	_	_	_
+2	lea	leat	_	_	FIN;3;IND;PRS;SG;V	_	_	_	_
+3	miehtan	miehtat	_	_	V.PTCP;V;PFV	_	_	_	_
+4	sutnje	son	_	_	3;PRO;SG;IN+ALL	_	_	_	_
+5	máksit	máksit	_	_	NFIN;V	_	_	_	_
+6	800	800	_	_	SG;ACC;NUM	_	_	_	_
+7	ruvnno	ruvdnu	_	_	GEN;N;SG	_	_	_	_
+8	juohke	juohke	_	_	PRO	_	_	_	_
+9	árgabeaivvi	árgabeaivi	_	_	GEN;N;SG	_	_	_	_
+10	ovddas	ovddas	_	_	ADP	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	muhto	muhto	_	_	CONJ	_	_	_	_
+13	ii	ii	_	_	FIN;3;NEG;IND;SG;V	_	_	_	_
+14	fal	fal	_	_	ADV	_	_	_	_
+15	lávvordagaid	lávvordat	_	_	GEN;N;PL	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	sotnabeivviid	sotnabeaivi	_	_	GEN;N;PL	_	_	_	_
+18	ja	ja	_	_	CONJ	_	_	_	_
+19	bassebeivviid	bassebeaivi	_	_	GEN;N;PL	_	_	_	_
+20	ovddas	ovddas	_	_	ADP	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# sent_id = 811
+# text = Daid mun sáltejin.
+1	Daid	dat	_	_	PL;PRO;ACC	_	_	_	_
+2	mun	mun	_	_	NOM;SG;PRO;1	_	_	_	_
+3	sáltejin	sáltet	_	_	FIN;SG;V;PST;1;IND	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2463
+# text = Ovdal ledje eanet láttagat Olmmáivákkis, muhto boanddat leat goikadan ollu jekkiid ja gilván daidda rásiid.
+1	Ovdal	ovdal	_	_	ADV	_	_	_	_
+2	ledje	leat	_	_	FIN;3;PST;IND;V;PL	_	_	_	_
+3	eanet	eanet	_	_	ADJ;CMPR	_	_	_	_
+4	láttagat	láttat	_	_	PL;N;NOM	_	_	_	_
+5	Olmmáivákkis	Olmmáivággi	_	_	SG;PROPN;ESS	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	muhto	muhto	_	_	CONJ	_	_	_	_
+8	boanddat	boanda	_	_	PL;N;NOM	_	_	_	_
+9	leat	leat	_	_	FIN;3;IND;PRS;V;PL	_	_	_	_
+10	goikadan	goikadit	_	_	V.PTCP;V;PFV	_	_	_	_
+11	ollu	ollu	_	_	ADJ	_	_	_	_
+12	jekkiid	jeaggi	_	_	N;ACC;PL	_	_	_	_
+13	ja	ja	_	_	CONJ	_	_	_	_
+14	gilván	gilvit	_	_	V.PTCP;V;PFV	_	_	_	_
+15	daidda	dat	_	_	PL;PRO;IN+ALL	_	_	_	_
+16	rásiid	rássi	_	_	N;ACC;PL	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2672
+# text = Oappásteame ii gullo mihkkege.
+1	Oappásteame	oabbá	_	_	PSS1D;N;ESS;SG	_	_	_	_
+2	ii	ii	_	_	FIN;3;NEG;IND;SG;V	_	_	_	_
+3	gullo	gullot	_	_	FIN;IND;PRS;V	_	_	_	_
+4	mihkkege	mihkkege	_	_	PRO;SG;NOM	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1912
+# text = Dan eadni attii munnje.
+1	Dan	dat	_	_	PRO;SG;ACC	_	_	_	_
+2	eadni	eadni	_	_	N;SG;NOM	_	_	_	_
+3	attii	addit	_	_	FIN;3;PST;IND;SG;V	_	_	_	_
+4	munnje	mun	_	_	PRO;SG;1;IN+ALL	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1269
+# text = Muhto easkka 1898:s dovdagohte Láhppiolbmot dan mii maŋŋelis bođii.
+1	Muhto	muhto	_	_	CONJ	_	_	_	_
+2	easkka	easkka	_	_	ADV	_	_	_	_
+3	1898:s	1898	_	_	SG;NUM;ESS	_	_	_	_
+4	dovdagohte	dovdat	_	_	FIN;3;PST;IND;V;PL	_	_	_	_
+5	Láhppiolbmot	Láhppiolmmoš	_	_	PL;N;NOM	_	_	_	_
+6	dan	dat	_	_	PRO;SG;ACC	_	_	_	_
+7	mii	mii	_	_	PRO;SG;NOM	_	_	_	_
+8	maŋŋelis	maŋŋelis	_	_	ADV	_	_	_	_
+9	bođii	boahtit	_	_	FIN;3;PST;IND;SG;V	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1995
+# text = Doppe moai sáhtiime oastit gáfe, deaja, sávtta dahje bruvssa.
+1	Doppe	doppe	_	_	ADV	_	_	_	_
+2	moai	mun	_	_	PRO;DU;NOM;1	_	_	_	_
+3	sáhtiime	sáhttit	_	_	FIN;PST;DU;IND;V;1	_	_	_	_
+4	oastit	oastit	_	_	NFIN;V	_	_	_	_
+5	gáfe	gáffe	_	_	N;SG;ACC	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	deaja	deadja	_	_	N;SG;ACC	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	sávtta	sákta	_	_	N;SG;ACC	_	_	_	_
+10	dahje	dahje	_	_	CONJ	_	_	_	_
+11	bruvssa	bruvsa	_	_	N;SG;ACC	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2054
+# text = Spider-Man gal lea measta vuoitemeahttun.
+1	Spider-Man	Spider-Man	_	_	SG;PROPN;NOM	_	_	_	_
+2	gal	gal	_	_	ADV	_	_	_	_
+3	lea	leat	_	_	V;FIN;3;IND;PRS;SG	_	_	_	_
+4	measta	measta	_	_	ADV	_	_	_	_
+5	vuoitemeahttun	vuoitemeahttun	_	_	ADJ;SG;NOM	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2947
+# text = Láibbožan go odne?
+1	Láibbožan	láibut	_	_	FIN;PRS;SG;POT;V;1	_	_	_	_
+2	go	go	_	_	PART	_	_	_	_
+3	odne	odne	_	_	ADV	_	_	_	_
+4	?	?	_	_	_	_	_	_	_
+
+# sent_id = 349
+# text = Dál mearkkaša Sámediggi ahte dearvvašvuođa- ja sosiálafálaldat sámi divššohasaide váldoáššis lea hilgojuvvon plánas.
+1	Dál	dál	_	_	ADV	_	_	_	_
+2	mearkkaša	mearkkašit	_	_	3;FIN;SG;PRS;V;IND	_	_	_	_
+3	Sámediggi	Sámediggi	_	_	NOM;SG;PROPN	_	_	_	_
+4	ahte	ahte	_	_	CONJ	_	_	_	_
+5	dearvvašvuođa-	dearvvašvuohta	_	_	N	_	_	_	_
+6	ja	ja	_	_	CONJ	_	_	_	_
+7	sosiálafálaldat	sosiálafálaldat	_	_	NOM;N;SG	_	_	_	_
+8	sámi	sápmi	_	_	N;GEN;SG	_	_	_	_
+9	divššohasaide	divššohas	_	_	PL;IN+ALL;N	_	_	_	_
+10	váldoáššis	váldoášši	_	_	N;ESS;SG	_	_	_	_
+11	lea	leat	_	_	3;FIN;SG;PRS;V;IND	_	_	_	_
+12	hilgojuvvon	hilgut	_	_	PASS;PFV;V;V.PTCP	_	_	_	_
+13	plánas	plána	_	_	N;ESS;SG	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2668
+# text = Mun válddán su oktan mánáidisguin.
+1	Mun	mun	_	_	PRO;NOM;SG;1	_	_	_	_
+2	válddán	váldit	_	_	FIN;IND;PRS;SG;V;1	_	_	_	_
+3	su	son	_	_	3;PRO;ACC;SG	_	_	_	_
+4	oktan	oktan	_	_	ADV	_	_	_	_
+5	mánáidisguin	mánná	_	_	PSS3S;N;COM;PL	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = 110
+# text = Dat gal lei hui ollu geardduheapmi das mii oidno čállon Luonddugáhtten lihtu neahttasiidui.
+1	Dat	dat	_	_	NOM;PRO;SG	_	_	_	_
+2	gal	gal	_	_	ADV	_	_	_	_
+3	lei	leat	_	_	3;FIN;SG;V;PST;IND	_	_	_	_
+4	hui	hui	_	_	ADV	_	_	_	_
+5	ollu	ollu	_	_	ADJ	_	_	_	_
+6	geardduheapmi	geardduheapmi	_	_	NOM;N;SG	_	_	_	_
+7	das	dat	_	_	PRO;ESS;SG	_	_	_	_
+8	mii	mii	_	_	NOM;PRO;SG	_	_	_	_
+9	oidno	oidnot	_	_	3;FIN;SG;PRS;V;IND	_	_	_	_
+10	čállon	čállit	_	_	PASS;PFV;V;V.PTCP	_	_	_	_
+11	Luonddugáhtten	luonddugáhtten	_	_	N;GEN;SG	_	_	_	_
+12	lihtu	lihttu	_	_	N;GEN;SG	_	_	_	_
+13	neahttasiidui	neahttasiidu	_	_	IN+ALL;N;SG	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = 910
+# text = Dilálašvuođaid álgu sáhttá leat dovdameahttun dahje jávkan historjjá seavdnjatvuhtii.
+1	Dilálašvuođaid	dilálašvuohta	_	_	PL;N;GEN	_	_	_	_
+2	álgu	álgu	_	_	NOM;N;SG	_	_	_	_
+3	sáhttá	sáhttit	_	_	3;FIN;SG;PRS;V;IND	_	_	_	_
+4	leat	leat	_	_	V;NFIN	_	_	_	_
+5	dovdameahttun	dovdameahttun	_	_	NOM;SG;ADJ	_	_	_	_
+6	dahje	dahje	_	_	CONJ	_	_	_	_
+7	jávkan	jávkat	_	_	PFV;V;V.PTCP	_	_	_	_
+8	historjjá	historjá	_	_	N;GEN;SG	_	_	_	_
+9	seavdnjatvuhtii	seavdnjatvuohta	_	_	IN+ALL;N;SG	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = 3284
+# text = Oahppit lohke jitnosit čálabáikkiid maid ledje bajil oahppan.
+1	Oahppit	oahppi	_	_	PL;N;NOM	_	_	_	_
+2	lohke	lohkat	_	_	FIN;3;PST;IND;V;PL	_	_	_	_
+3	jitnosit	jitnosit	_	_	ADV	_	_	_	_
+4	čálabáikkiid	čálabáiki	_	_	N;ACC;PL	_	_	_	_
+5	maid	mii	_	_	PRO;ACC;PL	_	_	_	_
+6	ledje	leat	_	_	FIN;3;PST;IND;V;PL	_	_	_	_
+7	bajil	bajil	_	_	ADV	_	_	_	_
+8	oahppan	oahppat	_	_	V.PTCP;V;PFV	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = 159
+# text = Lahtut ja sadjásašlahtut nammaduvvojit gitta njealji jagi rádjai háválassii.
+1	Lahtut	lahttu	_	_	NOM;PL;N	_	_	_	_
+2	ja	ja	_	_	CONJ	_	_	_	_
+3	sadjásašlahtut	sadjásašlahttu	_	_	NOM;PL;N	_	_	_	_
+4	nammaduvvojit	nammadit	_	_	PL;3;FIN;PRS;V;PASS;IND	_	_	_	_
+5	gitta	gitta	_	_	ADV	_	_	_	_
+6	njealji	njeallje	_	_	GEN;SG;NUM	_	_	_	_
+7	jagi	jahki	_	_	N;GEN;SG	_	_	_	_
+8	rádjai	rádjai	_	_	ADP	_	_	_	_
+9	háválassii	háválassii	_	_	ADV	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = 269
+# text = Vai ii šat boađe dán raŧi nala.
+1	Vai	vai	_	_	CONJ	_	_	_	_
+2	ii	ii	_	_	3;FIN;SG;IND;V;NEG	_	_	_	_
+3	šat	šat	_	_	ADV	_	_	_	_
+4	boađe	boahtit	_	_	FIN;PRS;V;IND	_	_	_	_
+5	dán	dát	_	_	GEN;PRO;SG	_	_	_	_
+6	raŧi	raŧŧi	_	_	N;GEN;SG	_	_	_	_
+7	nala	nala	_	_	ADP	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2018
+# text = Unna mánáš gahčai johkii.
+1	Unna	unni	_	_	ADJ	_	_	_	_
+2	mánáš	mánáš	_	_	N;SG;NOM	_	_	_	_
+3	gahčai	gahččat	_	_	FIN;3;PST;IND;SG;V	_	_	_	_
+4	johkii	johka	_	_	N;SG;IN+ALL	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2536
+# text = Dihkkádeaddji rávve skohtervuddjiid várrugasat mátkkoštit, go dán jagi lea erenoamán heajos jiekŋa jogain.
+1	Dihkkádeaddji	dihkkádit	_	_	N;SG;NOM	_	_	_	_
+2	rávve	rávvet	_	_	FIN;3;IND;PRS;SG;V	_	_	_	_
+3	skohtervuddjiid	skohtervuoddji	_	_	N;ACC;PL	_	_	_	_
+4	várrugasat	várrugasat	_	_	ADV	_	_	_	_
+5	mátkkoštit	mátkkoštit	_	_	NFIN;V	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	go	go	_	_	CONJ	_	_	_	_
+8	dán	dát	_	_	PRO;SG;GEN	_	_	_	_
+9	jagi	jahki	_	_	GEN;N;SG	_	_	_	_
+10	lea	leat	_	_	FIN;3;IND;PRS;SG;V	_	_	_	_
+11	erenoamán	erenoamán	_	_	ADJ	_	_	_	_
+12	heajos	headju	_	_	ADJ	_	_	_	_
+13	jiekŋa	jiekŋa	_	_	N;SG;NOM	_	_	_	_
+14	jogain	johka	_	_	N;PL;ESS	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2362
+# text = Toga manai ođđa tunealla čađa!
+1	Toga	toga	_	_	N;SG;NOM	_	_	_	_
+2	manai	mannat	_	_	FIN;3;PST;IND;SG;V	_	_	_	_
+3	ođđa	ođas	_	_	ADJ	_	_	_	_
+4	tunealla	tunealla	_	_	GEN;N;SG	_	_	_	_
+5	čađa	čađa	_	_	ADP	_	_	_	_
+6	!	^excl	_	_	_	_	_	_	_
+
+# sent_id = 2169
+# text = Bija gahpira oaivái.
+1	Bija	bidjat	_	_	FIN;2;SG;V;IMP	_	_	_	_
+2	gahpira	gahpir	_	_	N;SG;ACC	_	_	_	_
+3	oaivái	oaivi	_	_	N;SG;IN+ALL	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2489
+# text = In máhte lávlut inge juoigat.
+1	In	ii	_	_	FIN;NEG;IND;SG;V;1	_	_	_	_
+2	máhte	máhttit	_	_	FIN;IND;PRS;V	_	_	_	_
+3	lávlut	lávlut	_	_	NFIN;V	_	_	_	_
+4	inge	ii	_	_	FIN;NEG;IND;SG;V;1	_	_	_	_
+5	juoigat	juoigat	_	_	NFIN;V	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = 275
+# text = Áiggun mannat ruoktot fatnasiin.
+1	Áiggun	áigut	_	_	FIN;SG;PRS;V;1;IND	_	_	_	_
+2	mannat	mannat	_	_	V;NFIN	_	_	_	_
+3	ruoktot	ruoktot	_	_	ADV	_	_	_	_
+4	fatnasiin	fanas	_	_	N;COM;SG	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1781
+# text = Min bussás leat alit čalmmit.
+1	Min	mun	_	_	PRO;GEN;1;PL	_	_	_	_
+2	bussás	bussá	_	_	N;SG;ESS	_	_	_	_
+3	leat	leat	_	_	FIN;3;IND;PRS;V;PL	_	_	_	_
+4	alit	alit	_	_	ADJ	_	_	_	_
+5	čalmmit	čalbmi	_	_	PL;N;NOM	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1836
+# text = Jávregáttis leat guokte olbmá.
+1	Jávregáttis	jávregáddi	_	_	N;SG;ESS	_	_	_	_
+2	leat	leat	_	_	FIN;3;IND;PRS;V;PL	_	_	_	_
+3	guokte	guokte	_	_	SG;NUM;NOM	_	_	_	_
+4	olbmá	olmmái	_	_	GEN;N;SG	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = 993
+# text = Eamiálbmogat ja riekti-muhtun prinsihpalaš vuolggasajit.
+1	Eamiálbmogat	eamiálbmot	_	_	NOM;PL;N	_	_	_	_
+2	ja	ja	_	_	CONJ	_	_	_	_
+3	riekti	riekti	_	_	NOM;N;SG	_	_	_	_
+4	-	-	_	_	_	_	_	_	_
+5	muhtun	muhtun	_	_	PRO	_	_	_	_
+6	prinsihpalaš	prinsihpalaš	_	_	ADJ	_	_	_	_
+7	vuolggasajit	vuolggasadji	_	_	NOM;PL;N	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = 3222
+# text = Sii lohket fatnasa gopmánan.
+1	Sii	son	_	_	3;PRO;NOM;PL	_	_	_	_
+2	lohket	lohkat	_	_	FIN;3;IND;PRS;V;PL	_	_	_	_
+3	fatnasa	fanas	_	_	N;SG;ACC	_	_	_	_
+4	gopmánan	gopmánit	_	_	V.PTCP;V;PFV	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = 337
+# text = Árktalaš parlamentáralaččaid konferánsa lágiduvvo juohke nuppi jagi.
+1	Árktalaš	árktalaš	_	_	ADJ	_	_	_	_
+2	parlamentáralaččaid	parlamentáralaš	_	_	PL;GEN;ADJ	_	_	_	_
+3	konferánsa	konferánsa	_	_	NOM;N;SG	_	_	_	_
+4	lágiduvvo	lágidit	_	_	3;FIN;SG;PRS;V;PASS;IND	_	_	_	_
+5	juohke	juohke	_	_	PRO	_	_	_	_
+6	nuppi	nubbi	_	_	GEN;SG;ADJ	_	_	_	_
+7	jagi	jahki	_	_	N;GEN;SG	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1282
+# text = Mun attán heaggan sávzzaid ovddas.
+1	Mun	mun	_	_	PRO;NOM;SG;1	_	_	_	_
+2	attán	addit	_	_	FIN;IND;PRS;SG;V;1	_	_	_	_
+3	heaggan	heagga	_	_	PSS1S;N;ACC;SG	_	_	_	_
+4	sávzzaid	sávza	_	_	GEN;N;PL	_	_	_	_
+5	ovddas	ovddas	_	_	ADP	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1881
+# text = Ellii šattai hoahppu.
+1	Ellii	Elle	_	_	SG;PROPN;IN+ALL	_	_	_	_
+2	šattai	šaddat	_	_	FIN;3;PST;IND;SG;V	_	_	_	_
+3	hoahppu	hoahppu	_	_	N;SG;NOM	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1557
+# text = Sáhpánvuovddi bajil lea máŋga beaivvi girddašan amas, stuora loddi.
+1	Sáhpánvuovddi	sáhpánvuovdi	_	_	GEN;N;SG	_	_	_	_
+2	bajil	bajil	_	_	ADP	_	_	_	_
+3	lea	leat	_	_	FIN;3;IND;PRS;SG;V	_	_	_	_
+4	máŋga	máŋga	_	_	SG;ACC;NUM	_	_	_	_
+5	beaivvi	beaivi	_	_	GEN;N;SG	_	_	_	_
+6	girddašan	girddašit	_	_	V.PTCP;V;PFV	_	_	_	_
+7	amas	amas	_	_	ADJ	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	stuora	stuoris	_	_	ADJ	_	_	_	_
+10	loddi	loddi	_	_	N;SG;NOM	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2119
+# text = Ránut liggejedje bures reagas jus eai lean roavggut.
+1	Ránut	rátnu	_	_	PL;N;NOM	_	_	_	_
+2	liggejedje	ligget	_	_	FIN;3;PST;IND;V;PL	_	_	_	_
+3	bures	bures	_	_	ADV	_	_	_	_
+4	reagas	reahka	_	_	N;SG;ESS	_	_	_	_
+5	jus	jus	_	_	CONJ	_	_	_	_
+6	eai	ii	_	_	FIN;3;NEG;IND;V;PL	_	_	_	_
+7	lean	leat	_	_	FIN;PST;IND;V	_	_	_	_
+8	roavggut	roavgu	_	_	PL;N;NOM	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = 696
+# text = Dilli lei nu ahte sihke gievkkanuvdna, klássalanjaid, oađđensálaid ja eará orrunlanjaid uvnnat ledje liggejuvvon soahkemuoraiguin.
+1	Dilli	dilli	_	_	NOM;N;SG	_	_	_	_
+2	lei	leat	_	_	3;FIN;SG;V;PST;IND	_	_	_	_
+3	nu	nu	_	_	ADV	_	_	_	_
+4	ahte	ahte	_	_	CONJ	_	_	_	_
+5	sihke	sihke	_	_	ADV	_	_	_	_
+6	gievkkanuvdna	gievkkanuvdna	_	_	NOM;N;SG	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	klássalanjaid	klássalatnja	_	_	PL;N;GEN	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	oađđensálaid	oađđensálla	_	_	PL;N;GEN	_	_	_	_
+11	ja	ja	_	_	CONJ	_	_	_	_
+12	eará	eará	_	_	PRO	_	_	_	_
+13	orrunlanjaid	orrunlatnja	_	_	PL;N;GEN	_	_	_	_
+14	uvnnat	uvdna	_	_	NOM;PL;N	_	_	_	_
+15	ledje	leat	_	_	PL;3;FIN;V;PST;IND	_	_	_	_
+16	liggejuvvon	ligget	_	_	PASS;PFV;V;V.PTCP	_	_	_	_
+17	soahkemuoraiguin	soahkemuorra	_	_	PL;N;COM	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2965
+# text = Na gal doai dal oažžubeahtti dan beannot čuohtái, go juo válddežeahppi.
+1	Na	na	_	_	PART	_	_	_	_
+2	gal	gal	_	_	ADV	_	_	_	_
+3	doai	don	_	_	PRO;DU;NOM;2	_	_	_	_
+4	dal	dal	_	_	ADV	_	_	_	_
+5	oažžubeahtti	oažžut	_	_	FIN;DU;IND;2;PRS;V	_	_	_	_
+6	dan	dat	_	_	PRO;SG;ACC	_	_	_	_
+7	beannot	beannot	_	_	SG;NUM;IN+ALL	_	_	_	_
+8	čuohtái	čuohti	_	_	SG;NUM;IN+ALL	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	go	go	_	_	CONJ	_	_	_	_
+11	juo	juo	_	_	ADV	_	_	_	_
+12	válddežeahppi	váldit	_	_	FIN;DU;2;PRS;POT;V	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2507
+# text = Eat dieđe, bođeža go Elle ihttin.
+1	Eat	ii	_	_	FIN;NEG;IND;V;1;PL	_	_	_	_
+2	dieđe	diehtit	_	_	FIN;IND;PRS;V	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	bođeža	boahtit	_	_	FIN;3;PRS;SG;POT;V	_	_	_	_
+5	go	go	_	_	PART	_	_	_	_
+6	Elle	Elle	_	_	SG;PROPN;NOM	_	_	_	_
+7	ihttin	ihttin	_	_	ADV	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1081
+# text = Háhkan lea šaddan dadjat juo cieggan riektedilli.
+1	Háhkan	háhkan	_	_	N;SG;NOM	_	_	_	_
+2	lea	leat	_	_	FIN;3;IND;PRS;SG;V	_	_	_	_
+3	šaddan	šaddat	_	_	V.PTCP;V;PFV	_	_	_	_
+4	dadjat	dadjat	_	_	ADV	_	_	_	_
+5	juo	juo	_	_	ADV	_	_	_	_
+6	cieggan	cieggat	_	_	V.PTCP;V;PFV	_	_	_	_
+7	riektedilli	riektedilli	_	_	N;SG;NOM	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1086
+# text = Ieža soai muitaleigga mii lei dáhpáhuvvan mátkkis.
+1	Ieža	ieš	_	_	PRO;DU;NOM;REFL	_	_	_	_
+2	soai	son	_	_	3;PRO;DU;NOM	_	_	_	_
+3	muitaleigga	muitalit	_	_	FIN;3;PST;DU;IND;V	_	_	_	_
+4	mii	mii	_	_	PRO;SG;NOM	_	_	_	_
+5	lei	leat	_	_	FIN;3;PST;IND;SG;V	_	_	_	_
+6	dáhpáhuvvan	dáhpáhuvvat	_	_	V.PTCP;V;PFV	_	_	_	_
+7	mátkkis	mátki	_	_	N;SG;ESS	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = 929
+# text = Don šattat vel joksat Sirpmás gohcciid.
+1	Don	don	_	_	NOM;SG;PRO;2	_	_	_	_
+2	šattat	šaddat	_	_	FIN;SG;PRS;V;2;IND	_	_	_	_
+3	vel	vel	_	_	ADV	_	_	_	_
+4	joksat	joksat	_	_	V;NFIN	_	_	_	_
+5	Sirpmás	Sirbmá	_	_	ESS;SG;PROPN	_	_	_	_
+6	gohcciid	gohcci	_	_	PL;N;ACC	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = 129
+# text = Jeageleatnamat leat hui hearkkit, njozet šaddet ja fertejit suddjejuvvot.
+1	Jeageleatnamat	jeageleana	_	_	NOM;PL;N	_	_	_	_
+2	leat	leat	_	_	PL;3;FIN;PRS;V;IND	_	_	_	_
+3	hui	hui	_	_	ADV	_	_	_	_
+4	hearkkit	hearki	_	_	PL;NOM;ADJ	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	njozet	njozet	_	_	ADV	_	_	_	_
+7	šaddet	šaddat	_	_	PL;3;FIN;PRS;V;IND	_	_	_	_
+8	ja	ja	_	_	CONJ	_	_	_	_
+9	fertejit	fertet	_	_	PL;3;FIN;PRS;V;IND	_	_	_	_
+10	suddjejuvvot	suddjet	_	_	PASS;V;NFIN	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1475
+# text = Sii áigot šiehtadit ođđasit skuvllain.
+1	Sii	son	_	_	3;PRO;NOM;PL	_	_	_	_
+2	áigot	áigut	_	_	FIN;3;IND;PRS;V;PL	_	_	_	_
+3	šiehtadit	šiehtadit	_	_	NFIN;V	_	_	_	_
+4	ođđasit	ođas	_	_	ADJ;CMPR	_	_	_	_
+5	skuvllain	skuvla	_	_	N;COM;SG	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = 413
+# text = Sii ledje beassan válljet makkár dujiin áigo bargat.
+1	Sii	son	_	_	PL;3;NOM;PRO	_	_	_	_
+2	ledje	leat	_	_	PL;3;FIN;V;PST;IND	_	_	_	_
+3	beassan	beassat	_	_	PFV;V;V.PTCP	_	_	_	_
+4	válljet	válljet	_	_	V;NFIN	_	_	_	_
+5	makkár	makkár	_	_	PRO	_	_	_	_
+6	dujiin	duodji	_	_	N;COM;SG	_	_	_	_
+7	áigo	áigut	_	_	PL;3;FIN;V;PST;IND	_	_	_	_
+8	bargat	bargat	_	_	V;NFIN	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2265
+# text = Oađđu hoteallas dán ija!
+1	Oađđu	oađđit	_	_	FIN;DU;V;1;IMP	_	_	_	_
+2	hoteallas	hotealla	_	_	N;SG;ESS	_	_	_	_
+3	dán	dát	_	_	PRO;SG;GEN	_	_	_	_
+4	ija	idja	_	_	GEN;N;SG	_	_	_	_
+5	!	^excl	_	_	_	_	_	_	_
+
+# sent_id = 690
+# text = Ii oktage váidalan ahte ohppiid geavahedje dákkár bargguide.
+1	Ii	ii	_	_	3;FIN;SG;IND;V;NEG	_	_	_	_
+2	oktage	oktage	_	_	NOM;PRO;SG	_	_	_	_
+3	váidalan	váidalit	_	_	FIN;V;PST;IND	_	_	_	_
+4	ahte	ahte	_	_	CONJ	_	_	_	_
+5	ohppiid	oahppi	_	_	PL;N;ACC	_	_	_	_
+6	geavahedje	geavahit	_	_	PL;3;FIN;V;PST;IND	_	_	_	_
+7	dákkár	dákkár	_	_	PRO	_	_	_	_
+8	bargguide	bargu	_	_	PL;IN+ALL;N	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = 675
+# text = Lagasbirasorrut maiddái gáibidedje oažžut mánáideaset internáhttaskuvlii.
+1	Lagasbirasorrut	lagasbirasorru	_	_	NOM;PL;N	_	_	_	_
+2	maiddái	maiddái	_	_	ADV	_	_	_	_
+3	gáibidedje	gáibidit	_	_	PL;3;FIN;V;PST;IND	_	_	_	_
+4	oažžut	oažžut	_	_	V;NFIN	_	_	_	_
+5	mánáideaset	mánná	_	_	PSS3P;PL;ACC;N	_	_	_	_
+6	internáhttaskuvlii	internáhttaskuvla	_	_	IN+ALL;N;SG	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = 197
+# text = Ja son ii dahkan maidege dan jagi, muhto bođii fas nuppi jagi, ja de ledje sus guoimmit mielde, ja sii dahke darfegoađi vuohččan ja vuojehedje sámiid eret dasnai.
+1	Ja	ja	_	_	CONJ	_	_	_	_
+2	son	son	_	_	3;NOM;SG;PRO	_	_	_	_
+3	ii	ii	_	_	3;FIN;SG;IND;V;NEG	_	_	_	_
+4	dahkan	dahkat	_	_	FIN;V;PST;IND	_	_	_	_
+5	maidege	mihkkege	_	_	PRO;SG;ACC	_	_	_	_
+6	dan	dat	_	_	GEN;PRO;SG	_	_	_	_
+7	jagi	jahki	_	_	N;GEN;SG	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	muhto	muhto	_	_	CONJ	_	_	_	_
+10	bođii	boahtit	_	_	3;FIN;SG;V;PST;IND	_	_	_	_
+11	fas	fas	_	_	ADV	_	_	_	_
+12	nuppi	nubbi	_	_	GEN;PRO;SG	_	_	_	_
+13	jagi	jahki	_	_	N;GEN;SG	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	ja	ja	_	_	CONJ	_	_	_	_
+16	de	de	_	_	ADV	_	_	_	_
+17	ledje	leat	_	_	PL;3;FIN;V;PST;IND	_	_	_	_
+18	sus	son	_	_	3;ESS;SG;PRO	_	_	_	_
+19	guoimmit	guoibmi	_	_	NOM;PL;N	_	_	_	_
+20	mielde	mielde	_	_	ADV	_	_	_	_
+21	,	,	_	_	_	_	_	_	_
+22	ja	ja	_	_	CONJ	_	_	_	_
+23	sii	son	_	_	PL;3;NOM;PRO	_	_	_	_
+24	dahke	dahkat	_	_	PL;3;FIN;V;PST;IND	_	_	_	_
+25	darfegoađi	darfegoahti	_	_	N;SG;ACC	_	_	_	_
+26	vuohččan	vuohččan	_	_	ADV	_	_	_	_
+27	ja	ja	_	_	CONJ	_	_	_	_
+28	vuojehedje	vuojehit	_	_	PL;3;FIN;V;PST;IND	_	_	_	_
+29	sámiid	sápmi	_	_	PL;N;ACC	_	_	_	_
+30	eret	eret	_	_	ADV	_	_	_	_
+31	dasnai	dat	_	_	PRO;ESS;SG	_	_	_	_
+32	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2080
+# text = Nieidda eadni ii sihtan vuolgit, muhto nisu hásttii.
+1	Nieidda	nieida	_	_	GEN;N;SG	_	_	_	_
+2	eadni	eadni	_	_	N;SG;NOM	_	_	_	_
+3	ii	ii	_	_	FIN;3;NEG;IND;SG;V	_	_	_	_
+4	sihtan	sihtat	_	_	FIN;PST;IND;V	_	_	_	_
+5	vuolgit	vuolgit	_	_	NFIN;V	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	muhto	muhto	_	_	CONJ	_	_	_	_
+8	nisu	nisu	_	_	N;SG;NOM	_	_	_	_
+9	hásttii	hástit	_	_	FIN;3;PST;IND;SG;V	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = 93
+# text = Šattai eahket ja šattai iđit, vuosttaš beaivi.
+1	Šattai	šaddat	_	_	3;FIN;SG;V;PST;IND	_	_	_	_
+2	eahket	eahket	_	_	NOM;N;SG	_	_	_	_
+3	ja	ja	_	_	CONJ	_	_	_	_
+4	šattai	šaddat	_	_	3;FIN;SG;V;PST;IND	_	_	_	_
+5	iđit	iđit	_	_	NOM;N;SG	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	vuosttaš	vuosttaš	_	_	ADJ	_	_	_	_
+8	beaivi	beaivi	_	_	NOM;N;SG	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = 682
+# text = Earát fas orro olbmuid luhtte, ja sin mielas lei dát hui givssálaš.
+1	Earát	eará	_	_	PL;NOM;PRO	_	_	_	_
+2	fas	fas	_	_	ADV	_	_	_	_
+3	orro	orrut	_	_	PL;3;FIN;V;PST;IND	_	_	_	_
+4	olbmuid	olmmoš	_	_	PL;N;GEN	_	_	_	_
+5	luhtte	luhtte	_	_	ADP	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	ja	ja	_	_	CONJ	_	_	_	_
+8	sin	son	_	_	PL;3;PRO;GEN	_	_	_	_
+9	mielas	mielas	_	_	ADP	_	_	_	_
+10	lei	leat	_	_	3;FIN;SG;V;PST;IND	_	_	_	_
+11	dát	dát	_	_	NOM;PRO;SG	_	_	_	_
+12	hui	hui	_	_	ADV	_	_	_	_
+13	givssálaš	giksi	_	_	NOM;SG;ADJ	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2927
+# text = Bođeža go Biera?
+1	Bođeža	boahtit	_	_	FIN;3;PRS;SG;POT;V	_	_	_	_
+2	go	go	_	_	PART	_	_	_	_
+3	Biera	Biera	_	_	SG;PROPN;NOM	_	_	_	_
+4	?	?	_	_	_	_	_	_	_
+
+# sent_id = 168
+# text = Gieldda ja Finnmárkkuopmodaga áššegieđahallamii gusto hálddašanláhka.
+1	Gieldda	gielda	_	_	N;GEN;SG	_	_	_	_
+2	ja	ja	_	_	CONJ	_	_	_	_
+3	Finnmárkkuopmodaga	Finnmárkkuopmodat	_	_	GEN;SG;PROPN	_	_	_	_
+4	áššegieđahallamii	áššegieđahallan	_	_	IN+ALL;N;SG	_	_	_	_
+5	gusto	gustot	_	_	3;FIN;SG;PRS;V;IND	_	_	_	_
+6	hálddašanláhka	hálddašanláhka	_	_	NOM;N;SG	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2269
+# text = Ođđot hoteallas dán ija!
+1	Ođđot	oađđit	_	_	FIN;V;1;PL;IMP	_	_	_	_
+2	hoteallas	hotealla	_	_	N;SG;ESS	_	_	_	_
+3	dán	dát	_	_	PRO;SG;GEN	_	_	_	_
+4	ija	idja	_	_	GEN;N;SG	_	_	_	_
+5	!	^excl	_	_	_	_	_	_	_
+
+# sent_id = 1494
+# text = Soai lohkaba su girjji eaŋgalasgillii.
+1	Soai	son	_	_	3;PRO;DU;NOM	_	_	_	_
+2	lohkaba	lohkat	_	_	FIN;3;DU;IND;PRS;V	_	_	_	_
+3	su	son	_	_	3;PRO;GEN;SG	_	_	_	_
+4	girjji	girji	_	_	N;SG;ACC	_	_	_	_
+5	eaŋgalasgillii	eaŋgalasgiella	_	_	N;SG;IN+ALL	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1929
+# text = Mun lávejin árrat lihkkat.
+1	Mun	mun	_	_	PRO;NOM;SG;1	_	_	_	_
+2	lávejin	lávet	_	_	FIN;PST;IND;SG;V;1	_	_	_	_
+3	árrat	árrat	_	_	ADV	_	_	_	_
+4	lihkkat	lihkkat	_	_	NFIN;V	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1824
+# text = Gáhkuid mii goikadit geađggi nalde goardagis.
+1	Gáhkuid	gáhkku	_	_	N;ACC;PL	_	_	_	_
+2	mii	mun	_	_	PRO;NOM;1;PL	_	_	_	_
+3	goikadit	goikadit	_	_	FIN;IND;PRS;V;1;PL	_	_	_	_
+4	geađggi	geađgi	_	_	GEN;N;SG	_	_	_	_
+5	nalde	nalde	_	_	ADP	_	_	_	_
+6	goardagis	goardda	_	_	N;SG;ESS	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1573
+# text = Sámegiella ja dárogiella leat ovttaárvosaš gielat.
+1	Sámegiella	sámegiella	_	_	N;SG;NOM	_	_	_	_
+2	ja	ja	_	_	CONJ	_	_	_	_
+3	dárogiella	dárogiella	_	_	N;SG;NOM	_	_	_	_
+4	leat	leat	_	_	V;FIN;3;IND;PRS;PL	_	_	_	_
+5	ovttaárvosaš	ovttaárvosaš	_	_	ADJ	_	_	_	_
+6	gielat	giella	_	_	PL;N;NOM	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = 3089
+# text = Riggábut vulget lupmui juohke jagi.
+1	Riggábut	rikkis	_	_	PL;ADJ;CMPR;NOM	_	_	_	_
+2	vulget	vuolgit	_	_	FIN;3;IND;PRS;V;PL	_	_	_	_
+3	lupmui	luopmu	_	_	N;SG;IN+ALL	_	_	_	_
+4	juohke	juohke	_	_	PRO	_	_	_	_
+5	jagi	jahki	_	_	GEN;N;SG	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1469
+# text = Sii manne vissui.
+1	Sii	son	_	_	3;PRO;NOM;PL	_	_	_	_
+2	manne	mannat	_	_	FIN;3;PST;IND;V;PL	_	_	_	_
+3	vissui	viessu	_	_	N;SG;IN+ALL	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = 982
+# text = Dát lei deháleamos ágga.
+1	Dát	dát	_	_	NOM;PRO;SG	_	_	_	_
+2	lei	leat	_	_	3;FIN;SG;V;PST;IND	_	_	_	_
+3	deháleamos	dehálaš	_	_	RL;ADJ	_	_	_	_
+4	ágga	ágga	_	_	NOM;N;SG	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = 950
+# text = Dáhpáhuvvá go dat ođđa lágaid bokte, vai geahččaluvvogo gávdnat čovdosiid bissovaš rievttis?
+1	Dáhpáhuvvá	dáhpáhuvvat	_	_	3;FIN;SG;PRS;V;IND	_	_	_	_
+2	go	go	_	_	PART	_	_	_	_
+3	dat	dat	_	_	NOM;PRO;SG	_	_	_	_
+4	ođđa	ođas	_	_	ADJ	_	_	_	_
+5	lágaid	láhka	_	_	PL;N;GEN	_	_	_	_
+6	bokte	bokte	_	_	ADP	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	vai	vai	_	_	CONJ	_	_	_	_
+9	geahččaluvvogo	geahččalit	_	_	3;FIN;SG;PRS;V;PASS;IND	_	_	_	_
+10	gávdnat	gávdnat	_	_	V;NFIN	_	_	_	_
+11	čovdosiid	čoavddus	_	_	PL;N;ACC	_	_	_	_
+12	bissovaš	bissovaš	_	_	ADJ	_	_	_	_
+13	rievttis	riekti	_	_	N;ESS;SG	_	_	_	_
+14	?	?	_	_	_	_	_	_	_
+
+# sent_id = 699
+# text = Jos muittán riekta, de nohke dát barggut maŋŋágo skuvla ja internáhtta fárrehuvvui bissovaš ja ođđaáigásaš vissui.
+1	Jos	jos	_	_	CONJ	_	_	_	_
+2	muittán	muitit	_	_	FIN;SG;PRS;V;1;IND	_	_	_	_
+3	riekta	riekta	_	_	ADV	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	de	de	_	_	ADV	_	_	_	_
+6	nohke	nohkat	_	_	PL;3;FIN;V;PST;IND	_	_	_	_
+7	dát	dát	_	_	PL;NOM;PRO	_	_	_	_
+8	barggut	bargu	_	_	NOM;PL;N	_	_	_	_
+9	maŋŋágo	maŋŋágo	_	_	CONJ	_	_	_	_
+10	skuvla	skuvla	_	_	NOM;N;SG	_	_	_	_
+11	ja	ja	_	_	CONJ	_	_	_	_
+12	internáhtta	internáhtta	_	_	NOM;N;SG	_	_	_	_
+13	fárrehuvvui	fárrehit	_	_	3;FIN;SG;V;PST;PASS;IND	_	_	_	_
+14	bissovaš	bissovaš	_	_	ADJ	_	_	_	_
+15	ja	ja	_	_	CONJ	_	_	_	_
+16	ođđaáigásaš	ođđaáigásaš	_	_	ADJ	_	_	_	_
+17	vissui	viessu	_	_	IN+ALL;N;SG	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1464
+# text = Sii leat dego eŋgelat almmis.
+1	Sii	son	_	_	3;PRO;NOM;PL	_	_	_	_
+2	leat	leat	_	_	FIN;3;IND;PRS;V;PL	_	_	_	_
+3	dego	dego	_	_	CONJ	_	_	_	_
+4	eŋgelat	eŋgel	_	_	PL;N;NOM	_	_	_	_
+5	almmis	albmi	_	_	N;SG;ESS	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = 602
+# text = Dát šattai maiddái lullisámi organisašuvdnabarggu vuolggabáikin.
+1	Dát	dát	_	_	NOM;PRO;SG	_	_	_	_
+2	šattai	šaddat	_	_	3;FIN;SG;V;PST;IND	_	_	_	_
+3	maiddái	maiddái	_	_	ADV	_	_	_	_
+4	lullisámi	lullisápmi	_	_	N;GEN;SG	_	_	_	_
+5	organisašuvdnabarggu	organisašuvdnabargu	_	_	N;GEN;SG	_	_	_	_
+6	vuolggabáikin	vuolggabáiki	_	_	N;FRML	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = 772
+# text = Bargiidbellodaga Per Nils Saari beasai suohkanstivrii ja válljii ovttasbargat olgešbellodagain, gurutbellodagain ja johttisámi listtuin vai ožžot eanetlogu suohkanstivrras.
+1	Bargiidbellodaga	bargiidbellodat	_	_	N;GEN;SG	_	_	_	_
+2	Per	Per	_	_	PROPN	_	_	_	_
+3	Nils	Nils	_	_	PROPN	_	_	_	_
+4	Saari	Saari	_	_	NOM;SG;PROPN	_	_	_	_
+5	beasai	beassat	_	_	3;FIN;SG;V;PST;IND	_	_	_	_
+6	suohkanstivrii	suohkanstivra	_	_	IN+ALL;N;SG	_	_	_	_
+7	ja	ja	_	_	CONJ	_	_	_	_
+8	válljii	válljet	_	_	3;FIN;SG;V;PST;IND	_	_	_	_
+9	ovttasbargat	ovttasbargat	_	_	V;NFIN	_	_	_	_
+10	olgešbellodagain	olgešbellodat	_	_	N;COM;SG	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	gurutbellodagain	gurutbellodat	_	_	N;COM;SG	_	_	_	_
+13	ja	ja	_	_	CONJ	_	_	_	_
+14	johttisámi	johttisápmi	_	_	N;GEN;SG	_	_	_	_
+15	listtuin	listu	_	_	N;COM;SG	_	_	_	_
+16	vai	vai	_	_	CONJ	_	_	_	_
+17	ožžot	oažžut	_	_	PL;3;FIN;PRS;V;IND	_	_	_	_
+18	eanetlogu	eanetlohku	_	_	N;SG;ACC	_	_	_	_
+19	suohkanstivrras	suohkanstivra	_	_	N;ESS;SG	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1477
+# text = Silas ja Timoteus báziiga Bereai.
+1	Silas	Silas	_	_	SG;PROPN;NOM	_	_	_	_
+2	ja	ja	_	_	CONJ	_	_	_	_
+3	Timoteus	Timoteus	_	_	SG;PROPN;NOM	_	_	_	_
+4	báziiga	báhcit	_	_	FIN;3;PST;DU;IND;V	_	_	_	_
+5	Bereai	Berea	_	_	SG;PROPN;IN+ALL	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = 3167
+# text = Maŋŋá jápmimis de aliduvvui Gonagas Olav bassin.
+1	Maŋŋá	maŋŋá	_	_	ADP	_	_	_	_
+2	jápmimis	jápmin	_	_	PSS3S;N;GEN;SG	_	_	_	_
+3	de	de	_	_	ADV	_	_	_	_
+4	aliduvvui	alidit	_	_	FIN;3;PASS;PST;IND;SG;V	_	_	_	_
+5	Gonagas	gonagas	_	_	N;SG;NOM	_	_	_	_
+6	Olav	Olav	_	_	SG;PROPN;NOM	_	_	_	_
+7	bassin	bassi	_	_	ADJ;FRML	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1247
+# text = Miššonbarggu álggu rájes juo Leem háliidii oahppat sámegiela ja sámi jurddašanvuogi.
+1	Miššonbarggu	miššonbargu	_	_	GEN;N;SG	_	_	_	_
+2	álggu	álgu	_	_	GEN;N;SG	_	_	_	_
+3	rájes	rájes	_	_	ADP	_	_	_	_
+4	juo	juo	_	_	ADV	_	_	_	_
+5	Leem	Leem	_	_	SG;PROPN;NOM	_	_	_	_
+6	háliidii	háliidit	_	_	FIN;3;PST;IND;SG;V	_	_	_	_
+7	oahppat	oahppat	_	_	NFIN;V	_	_	_	_
+8	sámegiela	sámegiella	_	_	N;SG;ACC	_	_	_	_
+9	ja	ja	_	_	CONJ	_	_	_	_
+10	sámi	sápmi	_	_	GEN;N;SG	_	_	_	_
+11	jurddašanvuogi	jurddašanvuohki	_	_	N;SG;ACC	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = 3450
+# text = Dál de lea mu lihkubeaivi.
+1	Dál	dál	_	_	ADV	_	_	_	_
+2	de	de	_	_	ADV	_	_	_	_
+3	lea	leat	_	_	V;FIN;3;IND;PRS;SG	_	_	_	_
+4	mu	mun	_	_	PRO;GEN;SG;1	_	_	_	_
+5	lihkubeaivi	lihkubeaivi	_	_	N;SG;NOM	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2248
+# text = Áiggun oastit ođđa biktasiid.
+1	Áiggun	áigut	_	_	FIN;IND;PRS;SG;V;1	_	_	_	_
+2	oastit	oastit	_	_	NFIN;V	_	_	_	_
+3	ođđa	ođas	_	_	ADJ	_	_	_	_
+4	biktasiid	bivttas	_	_	N;ACC;PL	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = 603
+# text = Dáppe sii sáhtte deaivvadit.
+1	Dáppe	dáppe	_	_	ADV	_	_	_	_
+2	sii	son	_	_	PL;3;NOM;PRO	_	_	_	_
+3	sáhtte	sáhttit	_	_	PL;3;FIN;V;PST;IND	_	_	_	_
+4	deaivvadit	deaivvadit	_	_	V;NFIN	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = 407
+# text = Muhto lei nu váttis rehkenastit tálaiguin ja bustávaiguin.
+1	Muhto	muhto	_	_	CONJ	_	_	_	_
+2	lei	leat	_	_	3;FIN;SG;V;PST;IND	_	_	_	_
+3	nu	nu	_	_	ADV	_	_	_	_
+4	váttis	váttis	_	_	NOM;SG;ADJ	_	_	_	_
+5	rehkenastit	rehkenastit	_	_	V;NFIN	_	_	_	_
+6	tálaiguin	tálla	_	_	PL;N;COM	_	_	_	_
+7	ja	ja	_	_	CONJ	_	_	_	_
+8	bustávaiguin	bustávva	_	_	PL;N;COM	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = 845
+# text = Dasto smiehttatge fas seamma sullasaš jearaldagaid.
+1	Dasto	dasto	_	_	ADV	_	_	_	_
+2	smiehttatge	smiehttat	_	_	PL;FIN;PRS;V;1;IND	_	_	_	_
+3	fas	fas	_	_	ADV	_	_	_	_
+4	seamma	seammá	_	_	ADV	_	_	_	_
+5	sullasaš	sullasaš	_	_	ADJ	_	_	_	_
+6	jearaldagaid	jearaldat	_	_	PL;N;ACC	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1481
+# text = Sin váilevaš oahppu ja giellamáhttu lea guhkit áiggi leamaš heađušteaddjin.
+1	Sin	son	_	_	3;PRO;GEN;PL	_	_	_	_
+2	váilevaš	váilevaš	_	_	ADJ	_	_	_	_
+3	oahppu	oahppu	_	_	N;SG;NOM	_	_	_	_
+4	ja	ja	_	_	CONJ	_	_	_	_
+5	giellamáhttu	giellamáhttu	_	_	N;SG;NOM	_	_	_	_
+6	lea	leat	_	_	FIN;3;IND;PRS;SG;V	_	_	_	_
+7	guhkit	guhkki	_	_	ADJ;CMPR	_	_	_	_
+8	áiggi	áigi	_	_	N;SG;ACC	_	_	_	_
+9	leamaš	leat	_	_	V.PTCP;V;PFV	_	_	_	_
+10	heađušteaddjin	heađuštit	_	_	N;FRML	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = 844
+# text = Dasto lea Sámediggi ovttasráđiid Finnmárkku ja Tromssa fylkamanniiguin doallan fágaseminára.
+1	Dasto	dasto	_	_	ADV	_	_	_	_
+2	lea	leat	_	_	3;FIN;SG;PRS;V;IND	_	_	_	_
+3	Sámediggi	Sámediggi	_	_	NOM;SG;PROPN	_	_	_	_
+4	ovttasráđiid	ovttasráđiid	_	_	ADV	_	_	_	_
+5	Finnmárkku	Finnmárku	_	_	GEN;SG;PROPN	_	_	_	_
+6	ja	ja	_	_	CONJ	_	_	_	_
+7	Tromssa	Tromsa	_	_	GEN;SG;PROPN	_	_	_	_
+8	fylkamanniiguin	fylkamanni	_	_	PL;N;COM	_	_	_	_
+9	doallan	doallat	_	_	PFV;V;V.PTCP	_	_	_	_
+10	fágaseminára	fágaseminára	_	_	N;SG;ACC	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2108
+# text = Mu isidis lea rukses persovdnabiila, ja son vuodjá bargui juohke iđida.
+1	Mu	mun	_	_	PRO;GEN;SG;1	_	_	_	_
+2	isidis	isit	_	_	N;SG;ESS	_	_	_	_
+3	lea	leat	_	_	FIN;3;IND;PRS;SG;V	_	_	_	_
+4	rukses	ruoksat	_	_	ADJ	_	_	_	_
+5	persovdnabiila	persovdnabiila	_	_	N;SG;NOM	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	ja	ja	_	_	CONJ	_	_	_	_
+8	son	son	_	_	3;PRO;NOM;SG	_	_	_	_
+9	vuodjá	vuodjit	_	_	FIN;3;IND;PRS;SG;V	_	_	_	_
+10	bargui	bargu	_	_	N;SG;IN+ALL	_	_	_	_
+11	juohke	juohke	_	_	PRO	_	_	_	_
+12	iđida	iđit	_	_	GEN;N;SG	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1659
+# text = Boađát go dál?
+1	Boađát	boahtit	_	_	FIN;IND;2;PRS;SG;V	_	_	_	_
+2	go	go	_	_	PART	_	_	_	_
+3	dál	dál	_	_	ADV	_	_	_	_
+4	?	?	_	_	_	_	_	_	_
+
+# sent_id = 3331
+# text = Iskka massá go viessu ollu lieggasa.
+1	Iskka	iskat	_	_	FIN;2;SG;V;IMP	_	_	_	_
+2	massá	massit	_	_	FIN;3;IND;PRS;SG;V	_	_	_	_
+3	go	go	_	_	PART	_	_	_	_
+4	viessu	viessu	_	_	N;SG;NOM	_	_	_	_
+5	ollu	ollu	_	_	ADJ	_	_	_	_
+6	lieggasa	liekkas	_	_	N;SG;ACC	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = 3071
+# text = Áhčči ráhkada buori borramuša.
+1	Áhčči	áhčči	_	_	N;SG;NOM	_	_	_	_
+2	ráhkada	ráhkadit	_	_	FIN;3;IND;PRS;SG;V	_	_	_	_
+3	buori	buorre	_	_	ADJ;SG;ACC	_	_	_	_
+4	borramuša	borramuš	_	_	N;SG;ACC	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1903
+# text = Mii bovdehalaimet heajaide.
+1	Mii	mun	_	_	PRO;NOM;1;PL	_	_	_	_
+2	bovdehalaimet	bovdehit	_	_	FIN;PST;IND;V;1;PL	_	_	_	_
+3	heajaide	heajat	_	_	PL;N;IN+ALL	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1148
+# text = Juos Ipmil lea min beale, gii lea min vuostái?
+1	Juos	juos	_	_	CONJ	_	_	_	_
+2	Ipmil	Ipmil	_	_	SG;PROPN;NOM	_	_	_	_
+3	lea	leat	_	_	FIN;3;IND;PRS;SG;V	_	_	_	_
+4	min	mun	_	_	PRO;GEN;1;PL	_	_	_	_
+5	beale	beale	_	_	ADP	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	gii	gii	_	_	PRO;SG;NOM	_	_	_	_
+8	lea	leat	_	_	FIN;3;IND;PRS;SG;V	_	_	_	_
+9	min	mun	_	_	PRO;GEN;1;PL	_	_	_	_
+10	vuostái	vuostái	_	_	ADP	_	_	_	_
+11	?	?	_	_	_	_	_	_	_
+
+# sent_id = 2056
+# text = Doppe ledje ollu olbmot.
+1	Doppe	doppe	_	_	ADV	_	_	_	_
+2	ledje	leat	_	_	FIN;3;PST;IND;V;PL	_	_	_	_
+3	ollu	ollu	_	_	ADJ	_	_	_	_
+4	olbmot	olmmoš	_	_	PL;N;NOM	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1862
+# text = Mun boađán bearjadaga.
+1	Mun	mun	_	_	PRO;NOM;SG;1	_	_	_	_
+2	boađán	boahtit	_	_	FIN;IND;PRS;SG;V;1	_	_	_	_
+3	bearjadaga	bearjadat	_	_	GEN;N;SG	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = 545
+# text = Arne ii fuobmán ahte uksa leahkkasii.
+1	Arne	Arne	_	_	NOM;SG;PROPN	_	_	_	_
+2	ii	ii	_	_	3;FIN;SG;IND;V;NEG	_	_	_	_
+3	fuobmán	fuobmát	_	_	FIN;V;PST;IND	_	_	_	_
+4	ahte	ahte	_	_	CONJ	_	_	_	_
+5	uksa	uksa	_	_	NOM;N;SG	_	_	_	_
+6	leahkkasii	leahkkasit	_	_	3;FIN;SG;V;PST;IND	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2559
+# text = Girjji namma čujuha dasa ahte dološ myhtain leat sámit beaivvi mánát.
+1	Girjji	girji	_	_	GEN;N;SG	_	_	_	_
+2	namma	namma	_	_	N;SG;NOM	_	_	_	_
+3	čujuha	čujuhit	_	_	FIN;3;IND;PRS;SG;V	_	_	_	_
+4	dasa	dat	_	_	PRO;SG;IN+ALL	_	_	_	_
+5	ahte	ahte	_	_	CONJ	_	_	_	_
+6	dološ	dološ	_	_	ADJ	_	_	_	_
+7	myhtain	myhta	_	_	N;PL;ESS	_	_	_	_
+8	leat	leat	_	_	V;FIN;3;IND;PRS;PL	_	_	_	_
+9	sámit	sápmi	_	_	PL;N;NOM	_	_	_	_
+10	beaivvi	beaivi	_	_	GEN;N;SG	_	_	_	_
+11	mánát	mánná	_	_	PL;N;NOM	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = 3012
+# text = Orun fiskes viesus.
+1	Orun	orrut	_	_	FIN;IND;PRS;SG;V;1	_	_	_	_
+2	fiskes	fiskat	_	_	ADJ	_	_	_	_
+3	viesus	viessu	_	_	N;SG;ESS	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2151
+# text = Miessi borahalai gumpii.
+1	Miessi	miessi	_	_	N;SG;NOM	_	_	_	_
+2	borahalai	borahallat	_	_	FIN;3;PST;IND;SG;V	_	_	_	_
+3	gumpii	gumpe	_	_	N;SG;IN+ALL	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2567
+# text = Vákkiin leat ollu váramat, sihke Dálošvákkis ja Olmmáivákkis, jus lea buorre geassi.
+1	Vákkiin	vággi	_	_	N;PL;ESS	_	_	_	_
+2	leat	leat	_	_	FIN;3;IND;PRS;V;PL	_	_	_	_
+3	ollu	ollu	_	_	ADJ	_	_	_	_
+4	váramat	váran	_	_	PL;N;NOM	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	sihke	sihke	_	_	ADV	_	_	_	_
+7	Dálošvákkis	Dálošvággi	_	_	SG;PROPN;ESS	_	_	_	_
+8	ja	ja	_	_	CONJ	_	_	_	_
+9	Olmmáivákkis	Olmmáivággi	_	_	SG;PROPN;ESS	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	jus	jus	_	_	CONJ	_	_	_	_
+12	lea	leat	_	_	V;FIN;3;IND;PRS;SG	_	_	_	_
+13	buorre	buorre	_	_	ADJ;SG;NOM	_	_	_	_
+14	geassi	geassi	_	_	N;SG;NOM	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1510
+# text = Son fitná doppe juohke skuvllain.
+1	Son	son	_	_	3;PRO;NOM;SG	_	_	_	_
+2	fitná	fitnat	_	_	FIN;3;IND;PRS;SG;V	_	_	_	_
+3	doppe	doppe	_	_	ADV	_	_	_	_
+4	juohke	juohke	_	_	PRO	_	_	_	_
+5	skuvllain	skuvla	_	_	N;COM;SG	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2069
+# text = Mun hupmen Máhte-Iŋggáin, Niillas-Máhte eamidiin.
+1	Mun	mun	_	_	PRO;NOM;SG;1	_	_	_	_
+2	hupmen	hupmat	_	_	FIN;PST;IND;SG;V;1	_	_	_	_
+3	Máhte-Iŋggáin	Máhte-Iŋgá	_	_	COM;PROPN;SG	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	Niillas-Máhte	Niillas-Máhtte	_	_	GEN;SG;PROPN	_	_	_	_
+6	eamidiin	eamit	_	_	N;COM;SG	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2819
+# text = Muhto mun oidnen ustiban.
+1	Muhto	muhto	_	_	CONJ	_	_	_	_
+2	mun	mun	_	_	PRO;NOM;SG;1	_	_	_	_
+3	oidnen	oaidnit	_	_	FIN;PST;IND;SG;V;1	_	_	_	_
+4	ustiban	ustit	_	_	PSS1S;N;ACC;SG	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = 636
+# text = Internáhtta lei fálaldat, ja njuolggadusaid mielde galge váhnemat geain lei várri, máksit mánáid fuolaheamis.
+1	Internáhtta	internáhtta	_	_	NOM;N;SG	_	_	_	_
+2	lei	leat	_	_	3;FIN;SG;V;PST;IND	_	_	_	_
+3	fálaldat	fálaldat	_	_	NOM;N;SG	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	ja	ja	_	_	CONJ	_	_	_	_
+6	njuolggadusaid	njuolggadus	_	_	PL;N;GEN	_	_	_	_
+7	mielde	mielde	_	_	ADP	_	_	_	_
+8	galge	galgat	_	_	PL;3;FIN;V;PST;IND	_	_	_	_
+9	váhnemat	váhnen	_	_	NOM;PL;N	_	_	_	_
+10	geain	gii	_	_	PL;PRO;ESS	_	_	_	_
+11	lei	leat	_	_	3;FIN;SG;V;PST;IND	_	_	_	_
+12	várri	várri	_	_	NOM;N;SG	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	máksit	máksit	_	_	V;NFIN	_	_	_	_
+15	mánáid	mánná	_	_	PL;N;ACC	_	_	_	_
+16	fuolaheamis	fuolaheapmi	_	_	N;ESS;SG	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1034
+# text = Giellakantuvrras ii leat formála váldi álggahit gielladoaimmaid etáhtain, muhto veahkehit.
+1	Giellakantuvrras	giellakantuvra	_	_	N;ESS;SG	_	_	_	_
+2	ii	ii	_	_	3;FIN;SG;IND;V;NEG	_	_	_	_
+3	leat	leat	_	_	FIN;PRS;V;IND	_	_	_	_
+4	formála	formála	_	_	ADJ	_	_	_	_
+5	váldi	váldi	_	_	NOM;N;SG	_	_	_	_
+6	álggahit	álggahit	_	_	V;NFIN	_	_	_	_
+7	gielladoaimmaid	gielladoaibma	_	_	PL;N;ACC	_	_	_	_
+8	etáhtain	etáhtta	_	_	PL;N;ESS	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	muhto	muhto	_	_	CONJ	_	_	_	_
+11	veahkehit	veahkehit	_	_	V;NFIN	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2724
+# text = Leat go dudnos alddáde bohccot?
+1	Leat	leat	_	_	FIN;3;IND;PRS;V;PL	_	_	_	_
+2	go	go	_	_	PART	_	_	_	_
+3	dudnos	don	_	_	ESS;PRO;DU;2	_	_	_	_
+4	alddáde	ieš	_	_	PSS2D;ESS;PRO;REFL	_	_	_	_
+5	bohccot	boazu	_	_	PL;N;NOM	_	_	_	_
+6	?	?	_	_	_	_	_	_	_
+
+# sent_id = 3216
+# text = Tabealla vuosttaš ceakkočuolddas oaidnit dan golbma bajitdási váldofáddajoavkku.
+1	Tabealla	tabealla	_	_	GEN;N;SG	_	_	_	_
+2	vuosttaš	vuosttaš	_	_	ADJ	_	_	_	_
+3	ceakkočuolddas	ceakkočuolda	_	_	N;SG;ESS	_	_	_	_
+4	oaidnit	oaidnit	_	_	FIN;IND;PRS;V;1;PL	_	_	_	_
+5	dan	dat	_	_	PRO;SG;ACC	_	_	_	_
+6	golbma	golbma	_	_	SG;ACC;NUM	_	_	_	_
+7	bajitdási	bajitdási	_	_	ADJ	_	_	_	_
+8	váldofáddajoavkku	váldofáddajoavku	_	_	GEN;N;SG	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1850
+# text = Beana ruohttá.
+1	Beana	beana	_	_	N;SG;NOM	_	_	_	_
+2	ruohttá	ruohttat	_	_	FIN;3;IND;PRS;SG;V	_	_	_	_
+3	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1999
+# text = Nemi ja Pondus leaba sárgojuvvon hámit.
+1	Nemi	Nemi	_	_	SG;PROPN;NOM	_	_	_	_
+2	ja	ja	_	_	CONJ	_	_	_	_
+3	Pondus	Pondus	_	_	SG;PROPN;NOM	_	_	_	_
+4	leaba	leat	_	_	V;FIN;3;DU;IND;PRS	_	_	_	_
+5	sárgojuvvon	sárgut	_	_	V.PTCP;V;PASS;PFV	_	_	_	_
+6	hámit	hápmi	_	_	PL;N;NOM	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2497
+# text = Mun mannen maŋŋilgo mii leimmet čorgen.
+1	Mun	mun	_	_	PRO;NOM;SG;1	_	_	_	_
+2	mannen	mannat	_	_	FIN;PST;IND;SG;V;1	_	_	_	_
+3	maŋŋilgo	maŋŋelgo	_	_	CONJ	_	_	_	_
+4	mii	mun	_	_	PRO;NOM;1;PL	_	_	_	_
+5	leimmet	leat	_	_	FIN;PST;IND;V;1;PL	_	_	_	_
+6	čorgen	čorget	_	_	V.PTCP;V;PFV	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2621
+# text = Makkár vuoigatvuođat dain leat Norgga riikavuložin?
+1	Makkár	makkár	_	_	PRO	_	_	_	_
+2	vuoigatvuođat	vuoigatvuohta	_	_	PL;N;NOM	_	_	_	_
+3	dain	dat	_	_	PRO;PL;ESS	_	_	_	_
+4	leat	leat	_	_	V;FIN;3;IND;PRS;PL	_	_	_	_
+5	Norgga	Norga	_	_	GEN;SG;PROPN	_	_	_	_
+6	riikavuložin	riikavuloš	_	_	N;FRML	_	_	_	_
+7	?	?	_	_	_	_	_	_	_
+
+# sent_id = 3072
+# text = Ale bija čázi buori borramuššii.
+1	Ale	ii	_	_	FIN;NEG;2;SG;V;IMP	_	_	_	_
+2	bija	bidjat	_	_	V;FIN;IMP	_	_	_	_
+3	čázi	čáhci	_	_	N;SG;ACC	_	_	_	_
+4	buori	buorre	_	_	GEN;ADJ;SG	_	_	_	_
+5	borramuššii	borramuš	_	_	N;SG;IN+ALL	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1020
+# text = Gal mun goasttan daiguin sabehiiguin.
+1	Gal	gal	_	_	ADV	_	_	_	_
+2	mun	mun	_	_	NOM;SG;PRO;1	_	_	_	_
+3	goasttan	goastat	_	_	FIN;SG;PRS;V;1;IND	_	_	_	_
+4	daiguin	dat	_	_	PL;PRO;COM	_	_	_	_
+5	sabehiiguin	sabet	_	_	PL;N;COM	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = 650
+# text = Feaskára gežiin ledje guokte stuorit oađđenlanja.
+1	Feaskára	feaskkir	_	_	N;GEN;SG	_	_	_	_
+2	gežiin	geahči	_	_	PL;N;ESS	_	_	_	_
+3	ledje	leat	_	_	PL;3;FIN;V;PST;IND	_	_	_	_
+4	guokte	guokte	_	_	NOM;SG;NUM	_	_	_	_
+5	stuorit	stuoris	_	_	CMPR;ADJ	_	_	_	_
+6	oađđenlanja	oađđenlatnja	_	_	N;GEN;SG	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2180
+# text = Girji lea Máreha.
+1	Girji	girji	_	_	N;SG;NOM	_	_	_	_
+2	lea	leat	_	_	FIN;3;IND;PRS;SG;V	_	_	_	_
+3	Máreha	Máret	_	_	GEN;SG;PROPN	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1459
+# text = Sii fertejit buot earret eatnamiid gohčodit danin.
+1	Sii	son	_	_	3;PRO;NOM;PL	_	_	_	_
+2	fertejit	fertet	_	_	FIN;3;IND;PRS;V;PL	_	_	_	_
+3	buot	buot	_	_	PRO;ACC	_	_	_	_
+4	earret	earret	_	_	ADP	_	_	_	_
+5	eatnamiid	eana	_	_	GEN;N;PL	_	_	_	_
+6	gohčodit	gohčodit	_	_	NFIN;V	_	_	_	_
+7	danin	dat	_	_	PRO;FRML	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2037
+# text = Mánnodagaid gehčče vel Sámi mánáid-TV ovttas mánáiguin.
+1	Mánnodagaid	mánnodat	_	_	GEN;N;PL	_	_	_	_
+2	gehčče	geahččat	_	_	FIN;3;PST;IND;V;PL	_	_	_	_
+3	vel	vel	_	_	ADV	_	_	_	_
+4	Sámi	Sápmi	_	_	GEN;SG;PROPN	_	_	_	_
+5	mánáid-TV	mánáid-tv	_	_	N;SG;ACC	_	_	_	_
+6	ovttas	ovttas	_	_	ADV	_	_	_	_
+7	mánáiguin	mánná	_	_	N;COM;PL	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = 752
+# text = Uvnna duohken orru sáhpánat rikkerejit beaivvi.
+1	Uvnna	uvdna	_	_	N;GEN;SG	_	_	_	_
+2	duohken	duohken	_	_	ADP	_	_	_	_
+3	orru	orrut	_	_	PRS;V;V.PTCP	_	_	_	_
+4	sáhpánat	sáhpán	_	_	NOM;PL;N	_	_	_	_
+5	rikkerejit	rikkeret	_	_	PL;3;FIN;PRS;V;IND	_	_	_	_
+6	beaivvi	beaivi	_	_	N;SG;ACC	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2703
+# text = Dá lea mu iežan girji.
+1	Dá	dá	_	_	ADV	_	_	_	_
+2	lea	leat	_	_	FIN;3;IND;PRS;SG;V	_	_	_	_
+3	mu	mun	_	_	PRO;GEN;SG;1	_	_	_	_
+4	iežan	ieš	_	_	PSS1S;PRO;GEN;REFL	_	_	_	_
+5	girji	girji	_	_	N;SG;NOM	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = 640
+# text = &#34; Gielda ja stáhta nággiiga gaskaneaset goabbá galggai máksit orrungoluid.
+1	&#34;	&#34;	_	_	_	_	_	_	_
+2	Gielda	gielda	_	_	NOM;N;SG	_	_	_	_
+3	ja	ja	_	_	CONJ	_	_	_	_
+4	stáhta	stáhta	_	_	NOM;N;SG	_	_	_	_
+5	nággiiga	nágget	_	_	3;FIN;DU;V;PST;IND	_	_	_	_
+6	gaskaneaset	gaskan	_	_	PSS3P;ADV	_	_	_	_
+7	goabbá	goabbá	_	_	NOM;PRO;SG	_	_	_	_
+8	galggai	galgat	_	_	3;FIN;SG;V;PST;IND	_	_	_	_
+9	máksit	máksit	_	_	V;NFIN	_	_	_	_
+10	orrungoluid	orrungollu	_	_	PL;N;ACC	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = 3025
+# text = Stálut ledje riggát.
+1	Stálut	stállu	_	_	PL;N;NOM	_	_	_	_
+2	ledje	leat	_	_	V;FIN;3;PST;IND;PL	_	_	_	_
+3	riggát	rikkis	_	_	PL;ADJ;NOM	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2323
+# text = Lávvu lea doložis juo leamaš boazosámiid orrunsadji.
+1	Lávvu	lávvu	_	_	N;SG;NOM	_	_	_	_
+2	lea	leat	_	_	FIN;3;IND;PRS;SG;V	_	_	_	_
+3	doložis	dološ	_	_	ADJ;SG;ESS	_	_	_	_
+4	juo	juo	_	_	ADV	_	_	_	_
+5	leamaš	leat	_	_	V.PTCP;V;PFV	_	_	_	_
+6	boazosámiid	boazosápmi	_	_	GEN;N;PL	_	_	_	_
+7	orrunsadji	orrunsadji	_	_	N;SG;NOM	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1521
+# text = Son lea njuoskan buot, mii lea fuones ášši.
+1	Son	son	_	_	3;PRO;NOM;SG	_	_	_	_
+2	lea	leat	_	_	FIN;3;IND;PRS;SG;V	_	_	_	_
+3	njuoskan	njuoskat	_	_	V.PTCP;V;PFV	_	_	_	_
+4	buot	buot	_	_	ADV	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	mii	mii	_	_	PRO;SG;NOM	_	_	_	_
+7	lea	leat	_	_	V;FIN;3;IND;PRS;SG	_	_	_	_
+8	fuones	fuotni	_	_	ADJ	_	_	_	_
+9	ášši	ášši	_	_	N;SG;NOM	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1070
+# text = Guovlu lea orohaga olggobealde.
+1	Guovlu	guovlu	_	_	N;SG;NOM	_	_	_	_
+2	lea	leat	_	_	FIN;3;IND;PRS;SG;V	_	_	_	_
+3	orohaga	orohat	_	_	GEN;N;SG	_	_	_	_
+4	olggobealde	olggobealde	_	_	ADP	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = 3390
+# text = Gánda: Geađgi dan nuorai.
+1	Gánda	gánda	_	_	N;SG;NOM	_	_	_	_
+2	:	:	_	_	_	_	_	_	_
+3	Geađgi	geađgi	_	_	N;SG;NOM	_	_	_	_
+4	dan	dat	_	_	PRO;SG;ACC	_	_	_	_
+5	nuorai	nuorrat	_	_	FIN;3;PST;IND;SG;V	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2268
+# text = Bassin ii galggaše kantuvrras čohkkát.
+1	Bassin	bassi	_	_	N;FRML	_	_	_	_
+2	ii	ii	_	_	FIN;3;NEG;IND;SG;V	_	_	_	_
+3	galggaše	galgat	_	_	FIN;PRS;V;COND	_	_	_	_
+4	kantuvrras	kantuvra	_	_	N;SG;ESS	_	_	_	_
+5	čohkkát	čohkkát	_	_	NFIN;V	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = 117
+# text = Dan ferte oaidnit makkár diliin guovllut leat, leat go áitojuvvon dakkár stuorát sisabáhkkemiin.
+1	Dan	dat	_	_	PRO;SG;ACC	_	_	_	_
+2	ferte	fertet	_	_	3;FIN;SG;PRS;V;IND	_	_	_	_
+3	oaidnit	oaidnit	_	_	V;NFIN	_	_	_	_
+4	makkár	makkár	_	_	PRO	_	_	_	_
+5	diliin	dilli	_	_	PL;N;ESS	_	_	_	_
+6	guovllut	guovlu	_	_	NOM;PL;N	_	_	_	_
+7	leat	leat	_	_	PL;3;FIN;PRS;V;IND	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	leat	leat	_	_	PL;3;FIN;PRS;V;IND	_	_	_	_
+10	go	go	_	_	PART	_	_	_	_
+11	áitojuvvon	áitit	_	_	PASS;PFV;V;V.PTCP	_	_	_	_
+12	dakkár	dakkár	_	_	PRO	_	_	_	_
+13	stuorát	stuoris	_	_	CMPR;ADJ	_	_	_	_
+14	sisabáhkkemiin	sisabahkken	_	_	N;COM;SG	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = 351
+# text = Deaŧalaš lea sihkkarastit eamiálbmogiid ovddastusa dákkár čállingottis, dadjá Keskitalo.
+1	Deaŧalaš	deaŧalaš	_	_	NOM;SG;ADJ	_	_	_	_
+2	lea	leat	_	_	3;FIN;SG;PRS;V;IND	_	_	_	_
+3	sihkkarastit	sihkkarastit	_	_	V;NFIN	_	_	_	_
+4	eamiálbmogiid	eamiálbmot	_	_	PL;N;GEN	_	_	_	_
+5	ovddastusa	ovddastus	_	_	N;SG;ACC	_	_	_	_
+6	dákkár	dákkár	_	_	PRO	_	_	_	_
+7	čállingottis	čállingoddi	_	_	N;ESS;SG	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	dadjá	dadjat	_	_	3;FIN;SG;PRS;V;IND	_	_	_	_
+10	Keskitalo	Keskitalo	_	_	NOM;SG;PROPN	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1380
+# text = Návetruittu lávejit danin atnit.
+1	Návetruittu	návetruitu	_	_	N;SG;ACC	_	_	_	_
+2	lávejit	lávet	_	_	FIN;3;IND;PRS;V;PL	_	_	_	_
+3	danin	dat	_	_	PRO;FRML	_	_	_	_
+4	atnit	atnit	_	_	NFIN;V	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = 61
+# text = Ja go son lei luddon muoraid boaldinoaffara várás, de son vulggii dan báikái gosa Ipmil lei gohččon su mannat.
+1	Ja	ja	_	_	CONJ	_	_	_	_
+2	go	go	_	_	CONJ	_	_	_	_
+3	son	son	_	_	3;NOM;SG;PRO	_	_	_	_
+4	lei	leat	_	_	3;FIN;SG;V;PST;IND	_	_	_	_
+5	luddon	luoddut	_	_	PFV;V;V.PTCP	_	_	_	_
+6	muoraid	muorra	_	_	PL;N;ACC	_	_	_	_
+7	boaldinoaffara	boaldinoaffar	_	_	N;GEN;SG	_	_	_	_
+8	várás	várás	_	_	ADP	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	de	de	_	_	ADV	_	_	_	_
+11	son	son	_	_	3;NOM;SG;PRO	_	_	_	_
+12	vulggii	vuolgit	_	_	3;FIN;SG;V;PST;IND	_	_	_	_
+13	dan	dat	_	_	IN+ALL;PRO;SG	_	_	_	_
+14	báikái	báiki	_	_	IN+ALL;N;SG	_	_	_	_
+15	gosa	gosa	_	_	ADV	_	_	_	_
+16	Ipmil	Ipmil	_	_	NOM;SG;PROPN	_	_	_	_
+17	lei	leat	_	_	3;FIN;SG;V;PST;IND	_	_	_	_
+18	gohččon	gohččut	_	_	PFV;V;V.PTCP	_	_	_	_
+19	su	son	_	_	3;SG;ACC;PRO	_	_	_	_
+20	mannat	mannat	_	_	V;NFIN	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1821
+# text = Skuvllas mun lean čoavdán ollu cealkagiid maŋimuš áiggi.
+1	Skuvllas	skuvla	_	_	N;SG;ESS	_	_	_	_
+2	mun	mun	_	_	PRO;NOM;SG;1	_	_	_	_
+3	lean	leat	_	_	FIN;IND;PRS;SG;V;1	_	_	_	_
+4	čoavdán	čoavdit	_	_	V.PTCP;V;PFV	_	_	_	_
+5	ollu	ollu	_	_	ADJ	_	_	_	_
+6	cealkagiid	cealkka	_	_	N;ACC;PL	_	_	_	_
+7	maŋimuš	maŋit	_	_	ADJ;RL	_	_	_	_
+8	áiggi	áigi	_	_	GEN;N;SG	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = 352
+# text = Mihttomearrin lea sihkkarastit dássásašvuođa ja ovttalágan ovdánanvejolašvuođaid buot olmmoščearddaide.
+1	Mihttomearrin	mihttomearri	_	_	N;FRML	_	_	_	_
+2	lea	leat	_	_	3;FIN;SG;PRS;V;IND	_	_	_	_
+3	sihkkarastit	sihkkarastit	_	_	V;NFIN	_	_	_	_
+4	dássásašvuođa	dássásašvuohta	_	_	N;SG;ACC	_	_	_	_
+5	ja	ja	_	_	CONJ	_	_	_	_
+6	ovttalágan	ovttalágan	_	_	ADJ	_	_	_	_
+7	ovdánanvejolašvuođaid	ovdánanvejolašvuohta	_	_	PL;N;ACC	_	_	_	_
+8	buot	buot	_	_	PRO	_	_	_	_
+9	olmmoščearddaide	olmmoščearda	_	_	PL;IN+ALL;N	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2941
+# text = Boraža go mánná mielas guoli?
+1	Boraža	borrat	_	_	FIN;3;PRS;SG;POT;V	_	_	_	_
+2	go	go	_	_	PART	_	_	_	_
+3	mánná	mánná	_	_	N;SG;NOM	_	_	_	_
+4	mielas	mielas	_	_	ADV	_	_	_	_
+5	guoli	guolli	_	_	N;SG;ACC	_	_	_	_
+6	?	?	_	_	_	_	_	_	_
+
+# sent_id = 2401
+# text = Dat sáhttá álgobáliid leat oalle váttis.
+1	Dat	dat	_	_	PRO;SG;NOM	_	_	_	_
+2	sáhttá	sáhttit	_	_	FIN;3;IND;PRS;SG;V	_	_	_	_
+3	álgobáliid	álgobáliid	_	_	ADV	_	_	_	_
+4	leat	leat	_	_	NFIN;V	_	_	_	_
+5	oalle	oalle	_	_	ADV	_	_	_	_
+6	váttis	váttis	_	_	ADJ;SG;NOM	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = 625
+# text = Ollu eará maŋŋá dollojuvvon boazosápmelaččaid riikkačoahkkimiin leat skuvladilálašvuođat leamaš áššin.
+1	Ollu	ollu	_	_	ADJ	_	_	_	_
+2	eará	eará	_	_	GEN;PRO;SG	_	_	_	_
+3	maŋŋá	maŋŋá	_	_	ADP	_	_	_	_
+4	dollojuvvon	doallat	_	_	PASS;PFV;V;V.PTCP	_	_	_	_
+5	boazosápmelaččaid	boazosápmelaš	_	_	PL;N;GEN	_	_	_	_
+6	riikkačoahkkimiin	riikkačoahkkin	_	_	PL;N;ESS	_	_	_	_
+7	leat	leat	_	_	PL;3;FIN;PRS;V;IND	_	_	_	_
+8	skuvladilálašvuođat	skuvladilálašvuohta	_	_	NOM;PL;N	_	_	_	_
+9	leamaš	leat	_	_	PFV;V;V.PTCP	_	_	_	_
+10	áššin	ášši	_	_	N;FRML	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2128
+# text = Soagŋu-girji, mas leat noveallat, bođii jagi 1971.
+1	Soagŋu-girji	soagŋu-girji	_	_	N;SG;NOM	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	mas	mii	_	_	PRO;SG;ESS	_	_	_	_
+4	leat	leat	_	_	FIN;3;IND;PRS;V;PL	_	_	_	_
+5	noveallat	novealla	_	_	PL;N;NOM	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	bođii	boahtit	_	_	FIN;3;PST;IND;SG;V	_	_	_	_
+8	jagi	jahki	_	_	GEN;N;SG	_	_	_	_
+9	1971	1971	_	_	SG;NUM;NOM	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2319
+# text = Rátnu lea maid dábálaš headjaskeaŋka.
+1	Rátnu	rátnu	_	_	N;SG;NOM	_	_	_	_
+2	lea	leat	_	_	V;FIN;3;IND;PRS;SG	_	_	_	_
+3	maid	maid	_	_	ADV	_	_	_	_
+4	dábálaš	dábálaš	_	_	ADJ	_	_	_	_
+5	headjaskeaŋka	headjaskeaŋka	_	_	N;SG;NOM	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2338
+# text = Parkas olbmot lávejit vázzit ja viehkat ja riidet heasttain.
+1	Parkas	Park	_	_	SG;PROPN;ESS	_	_	_	_
+2	olbmot	olmmoš	_	_	PL;N;NOM	_	_	_	_
+3	lávejit	lávet	_	_	FIN;3;IND;PRS;V;PL	_	_	_	_
+4	vázzit	vázzit	_	_	NFIN;V	_	_	_	_
+5	ja	ja	_	_	CONJ	_	_	_	_
+6	viehkat	viehkat	_	_	NFIN;V	_	_	_	_
+7	ja	ja	_	_	CONJ	_	_	_	_
+8	riidet	riidet	_	_	NFIN;V	_	_	_	_
+9	heasttain	heasta	_	_	N;COM;SG	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2511
+# text = Ánne, geasa Mihkkal lei liikostan, lei hui čeavlái.
+1	Ánne	Ánne	_	_	SG;PROPN;NOM	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	geasa	gii	_	_	PRO;SG;IN+ALL	_	_	_	_
+4	Mihkkal	Mihkkal	_	_	SG;PROPN;NOM	_	_	_	_
+5	lei	leat	_	_	FIN;3;PST;IND;SG;V	_	_	_	_
+6	liikostan	liikostit	_	_	V.PTCP;V;PFV	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	lei	leat	_	_	V;FIN;3;PST;IND;SG	_	_	_	_
+9	hui	hui	_	_	ADV	_	_	_	_
+10	čeavlái	čeavlái	_	_	ADJ;SG;NOM	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1844
+# text = Juhán áigu fárret Gárasavvonii.
+1	Juhán	Juhán	_	_	SG;PROPN;NOM	_	_	_	_
+2	áigu	áigut	_	_	FIN;3;IND;PRS;SG;V	_	_	_	_
+3	fárret	fárret	_	_	NFIN;V	_	_	_	_
+4	Gárasavvonii	Gárasavvon	_	_	SG;PROPN;IN+ALL	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1743
+# text = Juhán oastá ođđa biilla.
+1	Juhán	Juhán	_	_	SG;PROPN;NOM	_	_	_	_
+2	oastá	oastit	_	_	FIN;3;IND;PRS;SG;V	_	_	_	_
+3	ođđa	ođas	_	_	ADJ	_	_	_	_
+4	biilla	biila	_	_	N;SG;ACC	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1577
+# text = Sámi riekteáddejupmi ii lean doarvái miellagiddevaš suokkarduvvot ovttas dainna gažaldagain.
+1	Sámi	sápmi	_	_	GEN;N;SG	_	_	_	_
+2	riekteáddejupmi	riekteáddejupmi	_	_	N;SG;NOM	_	_	_	_
+3	ii	ii	_	_	FIN;3;NEG;IND;SG;V	_	_	_	_
+4	lean	leat	_	_	V;FIN;PST;IND	_	_	_	_
+5	doarvái	doarvái	_	_	ADV	_	_	_	_
+6	miellagiddevaš	miellagiddevaš	_	_	ADJ;SG;NOM	_	_	_	_
+7	suokkarduvvot	suokkardit	_	_	NFIN;V;PASS	_	_	_	_
+8	ovttas	ovttas	_	_	ADV	_	_	_	_
+9	dainna	dat	_	_	PRO;COM;SG	_	_	_	_
+10	gažaldagain	gažaldat	_	_	N;COM;SG	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = 132
+# text = Ikte Altaposten áviissas oidnen ahte Luonddugáhttenlihttu soaibmá boazodoalu verrošit vahátbuhtadusa ohcamiiguin.
+1	Ikte	ikte	_	_	ADV	_	_	_	_
+2	Altaposten	Altaposten	_	_	GEN;SG;PROPN	_	_	_	_
+3	áviissas	áviisa	_	_	N;ESS;SG	_	_	_	_
+4	oidnen	oaidnit	_	_	FIN;SG;V;PST;1;IND	_	_	_	_
+5	ahte	ahte	_	_	CONJ	_	_	_	_
+6	Luonddugáhttenlihttu	luonddugáhttenlihttu	_	_	NOM;N;SG	_	_	_	_
+7	soaibmá	soaibmat	_	_	3;FIN;SG;PRS;V;IND	_	_	_	_
+8	boazodoalu	boazodoallu	_	_	N;SG;ACC	_	_	_	_
+9	verrošit	verrošit	_	_	V;NFIN	_	_	_	_
+10	vahátbuhtadusa	vahátbuhtadus	_	_	N;GEN;SG	_	_	_	_
+11	ohcamiiguin	ohcan	_	_	PL;N;COM	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1820
+# text = Doai leahppi áŋgirit lohkan sámegiela olles dálvvi.
+1	Doai	don	_	_	PRO;DU;NOM;2	_	_	_	_
+2	leahppi	leat	_	_	FIN;DU;IND;2;PRS;V	_	_	_	_
+3	áŋgirit	áŋgir	_	_	ADV	_	_	_	_
+4	lohkan	lohkat	_	_	V.PTCP;V;PFV	_	_	_	_
+5	sámegiela	sámegiella	_	_	N;SG;ACC	_	_	_	_
+6	olles	ollis	_	_	ADJ	_	_	_	_
+7	dálvvi	dálvi	_	_	N;SG;ACC	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = 3464
+# text = Dat lea nástealmmi lihkatmeahttun guovddáš, man birra eará násttit jorret, Gállá muitalii bártniidasas.
+1	Dat	dat	_	_	PRO;SG;NOM	_	_	_	_
+2	lea	leat	_	_	V;FIN;3;IND;PRS;SG	_	_	_	_
+3	nástealmmi	nástealbmi	_	_	GEN;N;SG	_	_	_	_
+4	lihkatmeahttun	lihkatmeahttun	_	_	ADJ	_	_	_	_
+5	guovddáš	guovddáš	_	_	N;SG;NOM	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	man	mii	_	_	PRO;SG;GEN	_	_	_	_
+8	birra	birra	_	_	ADP	_	_	_	_
+9	eará	eará	_	_	PRO	_	_	_	_
+10	násttit	násti	_	_	PL;N;NOM	_	_	_	_
+11	jorret	jorrat	_	_	FIN;3;IND;PRS;V;PL	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	Gállá	Gállá	_	_	SG;PROPN;NOM	_	_	_	_
+14	muitalii	muitalit	_	_	FIN;3;PST;IND;SG;V	_	_	_	_
+15	bártniidasas	bárdni	_	_	PSS3S;N;IN+ALL;PL	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = 161
+# text = Lahttu, gean stáhta lea nammadan, lea lávdegotti jođiheaddji.
+1	Lahttu	lahttu	_	_	NOM;N;SG	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	gean	gii	_	_	PRO;SG;ACC	_	_	_	_
+4	stáhta	stáhta	_	_	NOM;N;SG	_	_	_	_
+5	lea	leat	_	_	3;FIN;SG;PRS;V;IND	_	_	_	_
+6	nammadan	nammadit	_	_	PFV;V;V.PTCP	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	lea	leat	_	_	3;FIN;SG;PRS;V;IND	_	_	_	_
+9	lávdegotti	lávdegoddi	_	_	N;GEN;SG	_	_	_	_
+10	jođiheaddji	jođiheaddji	_	_	NOM;N;SG	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = 885
+# text = De ledjen mun jo muhtun áigge muitalan gaskadási ohppiide sihke máidnasiid, cukcasiid ja gobmemuitalusaid sámi sisdoaluin.
+1	De	de	_	_	ADV	_	_	_	_
+2	ledjen	leat	_	_	FIN;SG;V;PST;1;IND	_	_	_	_
+3	mun	mun	_	_	NOM;SG;PRO;1	_	_	_	_
+4	jo	jo	_	_	ADV	_	_	_	_
+5	muhtun	muhtun	_	_	PRO	_	_	_	_
+6	áigge	áigi	_	_	N;GEN;SG	_	_	_	_
+7	muitalan	muitalit	_	_	PFV;V;V.PTCP	_	_	_	_
+8	gaskadási	gaskadássi	_	_	N;GEN;SG	_	_	_	_
+9	ohppiide	oahppi	_	_	PL;IN+ALL;N	_	_	_	_
+10	sihke	sihke	_	_	ADV	_	_	_	_
+11	máidnasiid	máinnas	_	_	PL;N;ACC	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	cukcasiid	cuvccas	_	_	PL;N;ACC	_	_	_	_
+14	ja	ja	_	_	CONJ	_	_	_	_
+15	gobmemuitalusaid	gobmemuitalus	_	_	PL;N;ACC	_	_	_	_
+16	sámi	sápmi	_	_	N;GEN;SG	_	_	_	_
+17	sisdoaluin	sisdoallu	_	_	N;COM;SG	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = 978
+# text = Dát foanda hálddaša stuora oasi Boazodoallošiehtadusa ruđain.
+1	Dát	dát	_	_	NOM;PRO;SG	_	_	_	_
+2	foanda	foanda	_	_	NOM;N;SG	_	_	_	_
+3	hálddaša	hálddašit	_	_	3;FIN;SG;PRS;V;IND	_	_	_	_
+4	stuora	stuoris	_	_	ADJ	_	_	_	_
+5	oasi	oassi	_	_	N;SG;ACC	_	_	_	_
+6	Boazodoallošiehtadusa	boazodoallošiehtadus	_	_	N;GEN;SG	_	_	_	_
+7	ruđain	ruhta	_	_	PL;N;ESS	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = 3119
+# text = Boazosápmelaččain ii leat bassin vejolaš fievrridit gálvvu gerresiiguin.
+1	Boazosápmelaččain	boazosápmelaš	_	_	N;PL;ESS	_	_	_	_
+2	ii	ii	_	_	FIN;3;NEG;IND;SG;V	_	_	_	_
+3	leat	leat	_	_	FIN;IND;PRS;V	_	_	_	_
+4	bassin	bassi	_	_	N;FRML	_	_	_	_
+5	vejolaš	vejolaš	_	_	ADJ;SG;NOM	_	_	_	_
+6	fievrridit	fievrridit	_	_	NFIN;V	_	_	_	_
+7	gálvvu	gálvu	_	_	N;SG;ACC	_	_	_	_
+8	gerresiiguin	geres	_	_	N;COM;PL	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1964
+# text = Ovdal soađi badjeolbmot álge atnit fabrihkkaránuid.
+1	Ovdal	ovdal	_	_	ADP	_	_	_	_
+2	soađi	soahti	_	_	GEN;N;SG	_	_	_	_
+3	badjeolbmot	badjeolmmoš	_	_	PL;N;NOM	_	_	_	_
+4	álge	álgit	_	_	FIN;3;PST;IND;V;PL	_	_	_	_
+5	atnit	atnit	_	_	NFIN;V	_	_	_	_
+6	fabrihkkaránuid	fabrihkkarátnu	_	_	N;ACC;PL	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2038
+# text = Muhtumin moai geahčaime filmma eahkedis.
+1	Muhtumin	muhtumin	_	_	ADV	_	_	_	_
+2	moai	mun	_	_	PRO;DU;NOM;1	_	_	_	_
+3	geahčaime	geahččat	_	_	FIN;PST;DU;IND;V;1	_	_	_	_
+4	filmma	filbma	_	_	N;SG;ACC	_	_	_	_
+5	eahkedis	eahket	_	_	N;SG;ESS	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = 460
+# text = Gávpot lei njealječiegat, seammá guhkki go govdat.
+1	Gávpot	gávpot	_	_	NOM;N;SG	_	_	_	_
+2	lei	leat	_	_	3;FIN;SG;V;PST;IND	_	_	_	_
+3	njealječiegat	njealječiegat	_	_	NOM;SG;ADJ	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	seammá	seammá	_	_	ADV	_	_	_	_
+6	guhkki	guhkki	_	_	NOM;SG;ADJ	_	_	_	_
+7	go	go	_	_	CONJ	_	_	_	_
+8	govdat	govdat	_	_	NOM;SG;ADJ	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1589
+# text = Ulbmil lea ovddidit guovddáža eamiálbmotdutkamiid guovddážin.
+1	Ulbmil	ulbmil	_	_	N;SG;NOM	_	_	_	_
+2	lea	leat	_	_	V;FIN;3;IND;PRS;SG	_	_	_	_
+3	ovddidit	ovddidit	_	_	NFIN;V	_	_	_	_
+4	guovddáža	guovddáš	_	_	N;SG;ACC	_	_	_	_
+5	eamiálbmotdutkamiid	eamiálbmotdutkan	_	_	GEN;N;PL	_	_	_	_
+6	guovddážin	guovddáš	_	_	N;FRML	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = 697
+# text = Muoraid bukte internáhttii herggiiguin, ja dát lei lassesisaboahtu máŋgga smávvadálolažžii.
+1	Muoraid	muorra	_	_	PL;N;ACC	_	_	_	_
+2	bukte	buktit	_	_	PL;3;FIN;V;PST;IND	_	_	_	_
+3	internáhttii	internáhtta	_	_	IN+ALL;N;SG	_	_	_	_
+4	herggiiguin	heargi	_	_	PL;N;COM	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	ja	ja	_	_	CONJ	_	_	_	_
+7	dát	dát	_	_	NOM;PRO;SG	_	_	_	_
+8	lei	leat	_	_	3;FIN;SG;V;PST;IND	_	_	_	_
+9	lassesisaboahtu	lassesisaboahtu	_	_	NOM;N;SG	_	_	_	_
+10	máŋgga	máŋga	_	_	IN+ALL;SG;NUM	_	_	_	_
+11	smávvadálolažžii	smávvadálolaš	_	_	IN+ALL;N;SG	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2487
+# text = Mus ii leat biila iige mopeda.
+1	Mus	mun	_	_	ESS;PRO;SG;1	_	_	_	_
+2	ii	ii	_	_	FIN;3;NEG;IND;SG;V	_	_	_	_
+3	leat	leat	_	_	FIN;IND;PRS;V	_	_	_	_
+4	biila	biila	_	_	N;SG;NOM	_	_	_	_
+5	iige	ii	_	_	FIN;3;NEG;IND;SG;V	_	_	_	_
+6	mopeda	mopeda	_	_	N;SG;NOM	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = 659
+# text = Máŋggas, geain lei stohpu giliguovddáža lahkosis háliidedje mánáid internáhttii.
+1	Máŋggas	máŋggas	_	_	NOM;N;SG	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	geain	gii	_	_	PL;PRO;ESS	_	_	_	_
+4	lei	leat	_	_	3;FIN;SG;V;PST;IND	_	_	_	_
+5	stohpu	stohpu	_	_	NOM;N;SG	_	_	_	_
+6	giliguovddáža	giliguovddáš	_	_	N;GEN;SG	_	_	_	_
+7	lahkosis	lahkosis	_	_	ADV	_	_	_	_
+8	háliidedje	háliidit	_	_	PL;3;FIN;V;PST;IND	_	_	_	_
+9	mánáid	mánná	_	_	PL;N;ACC	_	_	_	_
+10	internáhttii	internáhtta	_	_	IN+ALL;N;SG	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2123
+# text = Oahpaheaddji dadjá ahte mii galgat dan bargat ruovttus.
+1	Oahpaheaddji	oahpaheaddji	_	_	N;SG;NOM	_	_	_	_
+2	dadjá	dadjat	_	_	FIN;3;IND;PRS;SG;V	_	_	_	_
+3	ahte	ahte	_	_	CONJ	_	_	_	_
+4	mii	mun	_	_	PRO;NOM;1;PL	_	_	_	_
+5	galgat	galgat	_	_	FIN;IND;PRS;V;1;PL	_	_	_	_
+6	dan	dat	_	_	PRO;SG;ACC	_	_	_	_
+7	bargat	bargat	_	_	NFIN;V	_	_	_	_
+8	ruovttus	ruovttus	_	_	ADV	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = 383
+# text = Dál ledje eiseválddit váldán ovdasvástádusa dearvvašvuođabálvalusas.
+1	Dál	dál	_	_	ADV	_	_	_	_
+2	ledje	leat	_	_	PL;3;FIN;V;PST;IND	_	_	_	_
+3	eiseválddit	eiseváldi	_	_	NOM;PL;N	_	_	_	_
+4	váldán	váldit	_	_	PFV;V;V.PTCP	_	_	_	_
+5	ovdasvástádusa	ovdasvástádus	_	_	N;SG;ACC	_	_	_	_
+6	dearvvašvuođabálvalusas	dearvvašvuođabálvalus	_	_	N;ESS;SG	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1280
+# text = Muhtun riggodagaid geavahit mihá unnit dál.
+1	Muhtun	muhtun	_	_	PRO	_	_	_	_
+2	riggodagaid	riggodat	_	_	N;ACC;PL	_	_	_	_
+3	geavahit	geavahit	_	_	FIN;IND;PRS;V;1;PL	_	_	_	_
+4	mihá	mihá	_	_	ADV	_	_	_	_
+5	unnit	unnit	_	_	CMPR;ADV	_	_	_	_
+6	dál	dál	_	_	ADV	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = 765
+# text = Almmatge lea jáhkkimis ahte boahtteáiggis bargojuvvo dáiguin jurdagiiguin, dannego kommišuvnna oaivila mielde eai boađe makkárge eará čovdosat nu bures buorrin buohkaide.
+1	Almmatge	almmatge	_	_	ADV	_	_	_	_
+2	lea	leat	_	_	3;FIN;SG;PRS;V;IND	_	_	_	_
+3	jáhkkimis	jáhkkit	_	_	V;ESS;V.MSDR	_	_	_	_
+4	ahte	ahte	_	_	CONJ	_	_	_	_
+5	boahtteáiggis	boahtteáigi	_	_	N;ESS;SG	_	_	_	_
+6	bargojuvvo	bargat	_	_	3;FIN;SG;PRS;V;PASS;IND	_	_	_	_
+7	dáiguin	dát	_	_	PL;PRO;COM	_	_	_	_
+8	jurdagiiguin	jurdda	_	_	PL;N;COM	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	dannego	danne	_	_	ADV	_	_	_	_
+11	kommišuvnna	kommišuvdna	_	_	N;GEN;SG	_	_	_	_
+12	oaivila	oaivil	_	_	N;GEN;SG	_	_	_	_
+13	mielde	mielde	_	_	ADP	_	_	_	_
+14	eai	ii	_	_	PL;3;FIN;IND;V;NEG	_	_	_	_
+15	boađe	boahtit	_	_	FIN;PRS;V;IND	_	_	_	_
+16	makkárge	makkárge	_	_	PRO	_	_	_	_
+17	eará	eará	_	_	PRO	_	_	_	_
+18	čovdosat	čoavddus	_	_	NOM;PL;N	_	_	_	_
+19	nu	nu	_	_	ADV	_	_	_	_
+20	bures	bures	_	_	ADV	_	_	_	_
+21	buorrin	buorre	_	_	FRML;ADJ	_	_	_	_
+22	buohkaide	buohkat	_	_	PL;IN+ALL;PRO	_	_	_	_
+23	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2631
+# text = Nuorat ođđe buvrriin geasset, muhtumin dálvet maid.
+1	Nuorat	nuorra	_	_	PL;N;NOM	_	_	_	_
+2	ođđe	oađđit	_	_	FIN;3;PST;IND;V;PL	_	_	_	_
+3	buvrriin	buvri	_	_	N;PL;ESS	_	_	_	_
+4	geasset	geasset	_	_	ADV	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	muhtumin	muhtumin	_	_	ADV	_	_	_	_
+7	dálvet	dálvet	_	_	ADV	_	_	_	_
+8	maid	maid	_	_	ADV	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1112
+# text = Ikte mun cevzen eksámena nuoraidskuvllas.
+1	Ikte	ikte	_	_	ADV	_	_	_	_
+2	mun	mun	_	_	PRO;NOM;SG;1	_	_	_	_
+3	cevzen	ceavzit	_	_	FIN;PST;IND;SG;V;1	_	_	_	_
+4	eksámena	eksámen	_	_	N;SG;ACC	_	_	_	_
+5	nuoraidskuvllas	nuoraidskuvla	_	_	N;SG;ESS	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1654
+# text = Máhtte boahtá.
+1	Máhtte	Máhtte	_	_	SG;PROPN;NOM	_	_	_	_
+2	boahtá	boahtit	_	_	FIN;3;IND;PRS;SG;V	_	_	_	_
+3	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2800
+# text = Soai attiiga mánnáseaskka vahkkoruđa.
+1	Soai	son	_	_	3;PRO;DU;NOM	_	_	_	_
+2	attiiga	addit	_	_	FIN;3;PST;DU;IND;V	_	_	_	_
+3	mánnáseaskka	mánná	_	_	PSS3D;N;SG;IN+ALL	_	_	_	_
+4	vahkkoruđa	vahkkoruhta	_	_	N;SG;ACC	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1939
+# text = Lehpet go dárbbašan ollu veahki?
+1	Lehpet	leat	_	_	FIN;IND;2;PRS;V;PL	_	_	_	_
+2	go	go	_	_	PART	_	_	_	_
+3	dárbbašan	dárbbašit	_	_	V.PTCP;V;PFV	_	_	_	_
+4	ollu	ollu	_	_	ADJ	_	_	_	_
+5	veahki	veahkki	_	_	N;SG;ACC	_	_	_	_
+6	?	?	_	_	_	_	_	_	_
+
+# sent_id = 837
+# text = Das leat buorit lanjat.
+1	Das	dat	_	_	PRO;ESS;SG	_	_	_	_
+2	leat	leat	_	_	PL;3;FIN;PRS;V;IND	_	_	_	_
+3	buorit	buorre	_	_	PL;NOM;ADJ	_	_	_	_
+4	lanjat	latnja	_	_	NOM;PL;N	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1135
+# text = Joddu suhppejuvvo go doaris lea gárvvis.
+1	Joddu	joddu	_	_	N;SG;NOM	_	_	_	_
+2	suhppejuvvo	suhppet	_	_	FIN;3;PASS;IND;PRS;SG;V	_	_	_	_
+3	go	go	_	_	CONJ	_	_	_	_
+4	doaris	doaris	_	_	N;SG;NOM	_	_	_	_
+5	lea	leat	_	_	V;FIN;3;IND;PRS;SG	_	_	_	_
+6	gárvvis	gárvvis	_	_	ADJ;SG;NOM	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1603
+# text = Vulobealde guorahallat fas mo sáhtášii deattuhit dákkár jávohisvuođa.
+1	Vulobealde	vulobealde	_	_	ADV	_	_	_	_
+2	guorahallat	guorahallat	_	_	FIN;IND;PRS;V;1;PL	_	_	_	_
+3	fas	fas	_	_	ADV	_	_	_	_
+4	mo	mo	_	_	ADV	_	_	_	_
+5	sáhtášii	sáhttit	_	_	FIN;3;PRS;SG;V;COND	_	_	_	_
+6	deattuhit	deattuhit	_	_	NFIN;V	_	_	_	_
+7	dákkár	dákkár	_	_	PRO	_	_	_	_
+8	jávohisvuođa	jávohisvuohta	_	_	N;SG;ACC	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1327
+# text = Máhtte áigu heaitit vuola juhkamis.
+1	Máhtte	Máhtte	_	_	SG;PROPN;NOM	_	_	_	_
+2	áigu	áigut	_	_	FIN;3;IND;PRS;SG;V	_	_	_	_
+3	heaitit	heaitit	_	_	NFIN;V	_	_	_	_
+4	vuola	vuolla	_	_	N;SG;ACC	_	_	_	_
+5	juhkamis	juhkat	_	_	V;V.MSDR;ESS	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1078
+# text = Hei surgat, lea divrras!
+1	Hei	hei	_	_	INTJ	_	_	_	_
+2	surgat	surgat	_	_	ADJ;SG;NOM	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	lea	leat	_	_	V;FIN;3;IND;PRS;SG	_	_	_	_
+5	divrras	divrras	_	_	ADJ;SG;NOM	_	_	_	_
+6	!	^excl	_	_	_	_	_	_	_
+
+# sent_id = 660
+# text = Nu dahke sihke dálonat ja badjeolbmot.
+1	Nu	nu	_	_	ADV	_	_	_	_
+2	dahke	dahkat	_	_	PL;3;FIN;V;PST;IND	_	_	_	_
+3	sihke	sihke	_	_	ADV	_	_	_	_
+4	dálonat	dálon	_	_	NOM;PL;N	_	_	_	_
+5	ja	ja	_	_	CONJ	_	_	_	_
+6	badjeolbmot	badjeolmmoš	_	_	NOM;PL;N	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2078
+# text = Munnos lea válmmas dáigi gáhkkogáris ja moai njuzzo das jorba gáhkuid.
+1	Munnos	mun	_	_	ESS;PRO;DU;1	_	_	_	_
+2	lea	leat	_	_	FIN;3;IND;PRS;SG;V	_	_	_	_
+3	válmmas	válmmas	_	_	ADJ	_	_	_	_
+4	dáigi	dáigi	_	_	N;SG;NOM	_	_	_	_
+5	gáhkkogáris	gáhkkogárri	_	_	N;SG;ESS	_	_	_	_
+6	ja	ja	_	_	CONJ	_	_	_	_
+7	moai	mun	_	_	PRO;DU;NOM;1	_	_	_	_
+8	njuzzo	njuozzut	_	_	FIN;DU;IND;PRS;V;1	_	_	_	_
+9	das	dat	_	_	PRO;SG;ESS	_	_	_	_
+10	jorba	jorbbas	_	_	ADJ	_	_	_	_
+11	gáhkuid	gáhkku	_	_	N;ACC;PL	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2150
+# text = Elle beahtahalai gávpeolbmái.
+1	Elle	Elle	_	_	SG;PROPN;NOM	_	_	_	_
+2	beahtahalai	beahtahallat	_	_	FIN;3;PST;IND;SG;V	_	_	_	_
+3	gávpeolbmái	gávpeolmmái	_	_	N;SG;IN+ALL	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2485
+# text = Son lea skuvllas, iige ruovttus.
+1	Son	son	_	_	3;PRO;NOM;SG	_	_	_	_
+2	lea	leat	_	_	FIN;3;IND;PRS;SG;V	_	_	_	_
+3	skuvllas	skuvla	_	_	N;SG;ESS	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	iige	ii	_	_	FIN;3;NEG;IND;SG;V	_	_	_	_
+6	ruovttus	ruovttus	_	_	ADV	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2829
+# text = Eat muital suohttasiiddámet earáide.
+1	Eat	ii	_	_	FIN;NEG;IND;V;1;PL	_	_	_	_
+2	muital	muitalit	_	_	FIN;IND;PRS;V	_	_	_	_
+3	suohttasiiddámet	suohtas	_	_	PSS1P;ACC;ADJ;PL	_	_	_	_
+4	earáide	eará	_	_	PL;PRO;IN+ALL	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = 172
+# text = Departemeantta miellasuvvamiin sáhttá Finnmárkkuopmodat mearridit spiehkastagaid dán lađđasa mearrádusain.
+1	Departemeantta	departemeanta	_	_	N;GEN;SG	_	_	_	_
+2	miellasuvvamiin	miellasuvvan	_	_	N;COM;SG	_	_	_	_
+3	sáhttá	sáhttit	_	_	3;FIN;SG;PRS;V;IND	_	_	_	_
+4	Finnmárkkuopmodat	Finnmárkkuopmodat	_	_	NOM;SG;PROPN	_	_	_	_
+5	mearridit	mearridit	_	_	V;NFIN	_	_	_	_
+6	spiehkastagaid	spiehkastat	_	_	PL;N;ACC	_	_	_	_
+7	dán	dát	_	_	GEN;PRO;SG	_	_	_	_
+8	lađđasa	lađas	_	_	N;GEN;SG	_	_	_	_
+9	mearrádusain	mearrádus	_	_	PL;N;ESS	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1392
+# text = Oktii stuorradiggeáigodagas ovddiduvvo dieđáhus daid doaibmabijuid birra mat galget sihkkarastit ja ovddidit sámi giela.
+1	Oktii	oktii	_	_	ADV	_	_	_	_
+2	stuorradiggeáigodagas	stuorradiggeáigodat	_	_	N;SG;ESS	_	_	_	_
+3	ovddiduvvo	ovddidit	_	_	FIN;3;PASS;IND;PRS;SG;V	_	_	_	_
+4	dieđáhus	dieđáhus	_	_	N;SG;NOM	_	_	_	_
+5	daid	dat	_	_	PRO;GEN;PL	_	_	_	_
+6	doaibmabijuid	doaibmabidju	_	_	GEN;N;PL	_	_	_	_
+7	birra	birra	_	_	ADP	_	_	_	_
+8	mat	mii	_	_	PL;PRO;NOM	_	_	_	_
+9	galget	galgat	_	_	FIN;3;IND;PRS;V;PL	_	_	_	_
+10	sihkkarastit	sihkkarastit	_	_	NFIN;V	_	_	_	_
+11	ja	ja	_	_	CONJ	_	_	_	_
+12	ovddidit	ovddidit	_	_	NFIN;V	_	_	_	_
+13	sámi	sápmi	_	_	GEN;N;SG	_	_	_	_
+14	giela	giella	_	_	N;SG;ACC	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = 3483
+# text = Gállábárdni ja Mánučuovga ceggiiga vuosttaš goađi čáppa Anárjávrri gáddevuovdái.
+1	Gállábárdni	gállábárdni	_	_	N;SG;NOM	_	_	_	_
+2	ja	ja	_	_	CONJ	_	_	_	_
+3	Mánučuovga	Mánučuovga	_	_	SG;PROPN;NOM	_	_	_	_
+4	ceggiiga	cegget	_	_	FIN;3;PST;DU;IND;V	_	_	_	_
+5	vuosttaš	vuosttaš	_	_	ADJ	_	_	_	_
+6	goađi	goahti	_	_	N;SG;ACC	_	_	_	_
+7	čáppa	čáppat	_	_	ADJ	_	_	_	_
+8	Anárjávrri	Anárjávri	_	_	GEN;SG;PROPN	_	_	_	_
+9	gáddevuovdái	gáddevuovdi	_	_	N;SG;IN+ALL	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = 3063
+# text = Biillat leat buorit.
+1	Biillat	biila	_	_	PL;N;NOM	_	_	_	_
+2	leat	leat	_	_	V;FIN;3;IND;PRS;PL	_	_	_	_
+3	buorit	buorre	_	_	PL;ADJ;NOM	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1828
+# text = Lávvomuoraid nala bidjat loavdaga.
+1	Lávvomuoraid	lávvomuorra	_	_	GEN;N;PL	_	_	_	_
+2	nala	nala	_	_	ADP	_	_	_	_
+3	bidjat	bidjat	_	_	FIN;IND;PRS;V;1;PL	_	_	_	_
+4	loavdaga	loavdda	_	_	N;SG;ACC	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = 634
+# text = Mun dan áigge in smiehttan nu ollu internáhttadilis go munnje lei dat dábálaš dilli, muhto dieđusge muittán ollu dáhpáhusaid.
+1	Mun	mun	_	_	NOM;SG;PRO;1	_	_	_	_
+2	dan	dat	_	_	GEN;PRO;SG	_	_	_	_
+3	áigge	áigi	_	_	N;GEN;SG	_	_	_	_
+4	in	ii	_	_	FIN;SG;IND;V;1;NEG	_	_	_	_
+5	smiehttan	smiehttat	_	_	FIN;V;PST;IND	_	_	_	_
+6	nu	nu	_	_	ADV	_	_	_	_
+7	ollu	ollu	_	_	ADV	_	_	_	_
+8	internáhttadilis	internáhttadilli	_	_	N;ESS;SG	_	_	_	_
+9	go	go	_	_	CONJ	_	_	_	_
+10	munnje	mun	_	_	SG;IN+ALL;PRO;1	_	_	_	_
+11	lei	leat	_	_	3;FIN;SG;V;PST;IND	_	_	_	_
+12	dat	dat	_	_	NOM;PRO;SG	_	_	_	_
+13	dábálaš	dábálaš	_	_	ADJ	_	_	_	_
+14	dilli	dilli	_	_	NOM;N;SG	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	muhto	muhto	_	_	CONJ	_	_	_	_
+17	dieđusge	dieđusge	_	_	ADV	_	_	_	_
+18	muittán	muitit	_	_	FIN;SG;PRS;V;1;IND	_	_	_	_
+19	ollu	ollu	_	_	ADJ	_	_	_	_
+20	dáhpáhusaid	dáhpáhus	_	_	PL;N;ACC	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# sent_id = 756
+# text = Prošeavtta áigut čađahit.
+1	Prošeavtta	prošeakta	_	_	N;SG;ACC	_	_	_	_
+2	áigut	áigut	_	_	PL;FIN;PRS;V;1;IND	_	_	_	_
+3	čađahit	čađahit	_	_	V;NFIN	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2580
+# text = Heasttat dárbbašit viiddis saji vai besset čuskkodit.
+1	Heasttat	heasta	_	_	PL;N;NOM	_	_	_	_
+2	dárbbašit	dárbbašit	_	_	FIN;3;IND;PRS;V;PL	_	_	_	_
+3	viiddis	viiddis	_	_	ADJ	_	_	_	_
+4	saji	sadji	_	_	N;SG;ACC	_	_	_	_
+5	vai	vai	_	_	CONJ	_	_	_	_
+6	besset	beassat	_	_	FIN;3;IND;PRS;V;PL	_	_	_	_
+7	čuskkodit	čuskkodit	_	_	NFIN;V	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2313
+# text = Dál ii oro šat bávččas.
+1	Dál	dál	_	_	ADV	_	_	_	_
+2	ii	ii	_	_	FIN;3;NEG;IND;SG;V	_	_	_	_
+3	oro	orrut	_	_	FIN;IND;PRS;V	_	_	_	_
+4	šat	šat	_	_	ADV	_	_	_	_
+5	bávččas	bávččas	_	_	ADJ;SG;NOM	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1378
+# text = Nystø mielas leaba soai Lene Hanseniin rievttes olbmot ovddastit sámi álbmoga dáhtu Tromssa ohcamušas.
+1	Nystø	Nystø	_	_	GEN;SG;PROPN	_	_	_	_
+2	mielas	mielas	_	_	ADP	_	_	_	_
+3	leaba	leat	_	_	V;FIN;3;DU;IND;PRS	_	_	_	_
+4	soai	son	_	_	3;PRO;DU;NOM	_	_	_	_
+5	Lene	Lene	_	_	PROPN	_	_	_	_
+6	Hanseniin	Hansen	_	_	COM;PROPN;SG	_	_	_	_
+7	rievttes	riekta	_	_	ADJ	_	_	_	_
+8	olbmot	olmmoš	_	_	PL;N;NOM	_	_	_	_
+9	ovddastit	ovddastit	_	_	NFIN;V	_	_	_	_
+10	sámi	sápmi	_	_	GEN;N;SG	_	_	_	_
+11	álbmoga	álbmot	_	_	GEN;N;SG	_	_	_	_
+12	dáhtu	dáhttu	_	_	N;SG;ACC	_	_	_	_
+13	Tromssa	Tromsa	_	_	GEN;SG;PROPN	_	_	_	_
+14	ohcamušas	ohcamuš	_	_	N;SG;ESS	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = 898
+# text = Dearvvašvuođaásahusas mearriduvvo divvun dahje sihkkun dearvvašvuođabargiidlága § 44 mielde.
+1	Dearvvašvuođaásahusas	dearvvašvuođaásahus	_	_	N;ESS;SG	_	_	_	_
+2	mearriduvvo	mearridit	_	_	3;FIN;SG;PRS;V;PASS;IND	_	_	_	_
+3	divvun	divvun	_	_	NOM;N;SG	_	_	_	_
+4	dahje	dahje	_	_	CONJ	_	_	_	_
+5	sihkkun	sihkkun	_	_	NOM;N;SG	_	_	_	_
+6	dearvvašvuođabargiidlága	dearvvašvuođabargiidláhka	_	_	N;GEN;SG	_	_	_	_
+7	§	§	_	_	N	_	_	_	_
+8	44	44	_	_	GEN;SG;NUM	_	_	_	_
+9	mielde	mielde	_	_	ADP	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = 3208
+# text = Nu lea celkojuvvon profehta Jesaja bokte.
+1	Nu	nu	_	_	ADV	_	_	_	_
+2	lea	leat	_	_	FIN;3;IND;PRS;SG;V	_	_	_	_
+3	celkojuvvon	cealkit	_	_	V.PTCP;V;PASS;PFV	_	_	_	_
+4	profehta	profehta	_	_	N;SG;NOM	_	_	_	_
+5	Jesaja	Jesaja	_	_	GEN;SG;PROPN	_	_	_	_
+6	bokte	bokte	_	_	ADP	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = 732
+# text = Váhnemat dolvo mánáid skuvlii ja vižže fas sin go skuvlavuorru nogai.
+1	Váhnemat	váhnen	_	_	NOM;PL;N	_	_	_	_
+2	dolvo	doalvut	_	_	PL;3;FIN;V;PST;IND	_	_	_	_
+3	mánáid	mánná	_	_	PL;N;ACC	_	_	_	_
+4	skuvlii	skuvla	_	_	IN+ALL;N;SG	_	_	_	_
+5	ja	ja	_	_	CONJ	_	_	_	_
+6	vižže	viežžat	_	_	PL;3;FIN;V;PST;IND	_	_	_	_
+7	fas	fas	_	_	ADV	_	_	_	_
+8	sin	son	_	_	PL;3;ACC;PRO	_	_	_	_
+9	go	go	_	_	CONJ	_	_	_	_
+10	skuvlavuorru	skuvlavuorru	_	_	NOM;N;SG	_	_	_	_
+11	nogai	nohkat	_	_	3;FIN;SG;V;PST;IND	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = 149
+# text = Stivra čađaha guorahallamiid, juos okta stivrralahttu gáibida dan.
+1	Stivra	stivra	_	_	NOM;N;SG	_	_	_	_
+2	čađaha	čađahit	_	_	3;FIN;SG;PRS;V;IND	_	_	_	_
+3	guorahallamiid	guorahallan	_	_	PL;N;ACC	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	juos	juos	_	_	CONJ	_	_	_	_
+6	okta	okta	_	_	NOM;SG;NUM	_	_	_	_
+7	stivrralahttu	stivrralahttu	_	_	NOM;N;SG	_	_	_	_
+8	gáibida	gáibidit	_	_	3;FIN;SG;PRS;V;IND	_	_	_	_
+9	dan	dat	_	_	PRO;SG;ACC	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = 135
+# text = Dutkit dat han leat duođaštan ahte boraspiret goddet eambbo go oba leatge ovdal jáhkkán, daid duođaštusaid leat ožžon dieid radiomerkejuvvon boraspiriin go daid leat čuvvon.
+1	Dutkit	dutki	_	_	NOM;PL;N	_	_	_	_
+2	dat	dat	_	_	PART	_	_	_	_
+3	han	han	_	_	PART	_	_	_	_
+4	leat	leat	_	_	PL;3;FIN;PRS;V;IND	_	_	_	_
+5	duođaštan	duođaštit	_	_	PFV;V;V.PTCP	_	_	_	_
+6	ahte	ahte	_	_	CONJ	_	_	_	_
+7	boraspiret	boraspire	_	_	NOM;PL;N	_	_	_	_
+8	goddet	goddit	_	_	PL;3;FIN;PRS;V;IND	_	_	_	_
+9	eambbo	eambbo	_	_	CMPR;ADV	_	_	_	_
+10	go	go	_	_	CONJ	_	_	_	_
+11	oba	oba	_	_	ADV	_	_	_	_
+12	leatge	leat	_	_	PL;3;FIN;PRS;V;IND	_	_	_	_
+13	ovdal	ovdal	_	_	ADV	_	_	_	_
+14	jáhkkán	jáhkkit	_	_	PFV;V;V.PTCP	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	daid	dat	_	_	PL;PRO;ACC	_	_	_	_
+17	duođaštusaid	duođaštus	_	_	PL;N;ACC	_	_	_	_
+18	leat	leat	_	_	PL;3;FIN;PRS;V;IND	_	_	_	_
+19	ožžon	oažžut	_	_	PFV;V;V.PTCP	_	_	_	_
+20	dieid	diet	_	_	PL;GEN;PRO	_	_	_	_
+21	radiomerkejuvvon	radiomerket	_	_	PASS;PFV;V;V.PTCP	_	_	_	_
+22	boraspiriin	boraspire	_	_	PL;N;ESS	_	_	_	_
+23	go	go	_	_	CONJ	_	_	_	_
+24	daid	dat	_	_	PL;PRO;ACC	_	_	_	_
+25	leat	leat	_	_	PL;3;FIN;PRS;V;IND	_	_	_	_
+26	čuvvon	čuovvut	_	_	PFV;V;V.PTCP	_	_	_	_
+27	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2820
+# text = Muhto mii oinniimet ustibeamet.
+1	Muhto	muhto	_	_	CONJ	_	_	_	_
+2	mii	mun	_	_	PRO;NOM;1;PL	_	_	_	_
+3	oinniimet	oaidnit	_	_	FIN;PST;IND;V;1;PL	_	_	_	_
+4	ustibeamet	ustit	_	_	PSS1P;N;ACC;SG	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2206
+# text = Váldot beatnaga mielde!
+1	Váldot	váldit	_	_	FIN;V;1;PL;IMP	_	_	_	_
+2	beatnaga	beana	_	_	N;SG;ACC	_	_	_	_
+3	mielde	mielde	_	_	ADV	_	_	_	_
+4	!	^excl	_	_	_	_	_	_	_
+
+# sent_id = 1879
+# text = Váldde munnjege gáfe.
+1	Váldde	váldit	_	_	FIN;2;SG;V;IMP	_	_	_	_
+2	munnjege	mun	_	_	PRO;SG;1;IN+ALL	_	_	_	_
+3	gáfe	gáffe	_	_	N;SG;ACC	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = 3477
+# text = Davvinásti heaillui ja doarggistii.
+1	Davvinásti	Davvinásti	_	_	SG;PROPN;NOM	_	_	_	_
+2	heaillui	heailut	_	_	FIN;3;PST;IND;SG;V	_	_	_	_
+3	ja	ja	_	_	CONJ	_	_	_	_
+4	doarggistii	doarggistit	_	_	FIN;3;PST;IND;SG;V	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2735
+# text = Áhkku geahčai iežas speadjalis.
+1	Áhkku	áhkku	_	_	N;SG;NOM	_	_	_	_
+2	geahčai	geahččat	_	_	FIN;3;PST;IND;SG;V	_	_	_	_
+3	iežas	ieš	_	_	PSS3S;PRO;ACC;REFL	_	_	_	_
+4	speadjalis	speajal	_	_	N;SG;ESS	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = 431
+# text = Go Liná bođii ruoktot maŋŋel skuvlla, manai son njuolga Busi lusa.
+1	Go	go	_	_	CONJ	_	_	_	_
+2	Liná	Liná	_	_	NOM;SG;PROPN	_	_	_	_
+3	bođii	boahtit	_	_	3;FIN;SG;V;PST;IND	_	_	_	_
+4	ruoktot	ruoktot	_	_	ADV	_	_	_	_
+5	maŋŋel	maŋŋel	_	_	ADP	_	_	_	_
+6	skuvlla	skuvla	_	_	N;GEN;SG	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	manai	mannat	_	_	3;FIN;SG;V;PST;IND	_	_	_	_
+9	son	son	_	_	3;NOM;SG;PRO	_	_	_	_
+10	njuolga	njuolga	_	_	ADV	_	_	_	_
+11	Busi	Busi	_	_	GEN;SG;PROPN	_	_	_	_
+12	lusa	lusa	_	_	ADP	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1616
+# text = Váikkuhusat divššohasa lagamuččaide leat mearkkašahtti stuorrát.
+1	Váikkuhusat	váikkuhus	_	_	PL;N;NOM	_	_	_	_
+2	divššohasa	divššohas	_	_	GEN;N;SG	_	_	_	_
+3	lagamuččaide	lagamuš	_	_	PL;N;IN+ALL	_	_	_	_
+4	leat	leat	_	_	V;FIN;3;IND;PRS;PL	_	_	_	_
+5	mearkkašahtti	mearkkašahtti	_	_	ADV	_	_	_	_
+6	stuorrát	stuoris	_	_	PL;ADJ;NOM	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2731
+# text = Dat leat sin iežaset skohterat.
+1	Dat	dat	_	_	PL;PRO;NOM	_	_	_	_
+2	leat	leat	_	_	V;FIN;3;IND;PRS;PL	_	_	_	_
+3	sin	son	_	_	3;PRO;GEN;PL	_	_	_	_
+4	iežaset	ieš	_	_	PSS3P;PRO;GEN;REFL	_	_	_	_
+5	skohterat	skohter	_	_	PL;N;NOM	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1597
+# text = Vearrámusat leat min iežamet olbmot.
+1	Vearrámusat	vearrái	_	_	PL;ADJ;NOM;RL	_	_	_	_
+2	leat	leat	_	_	V;FIN;3;IND;PRS;PL	_	_	_	_
+3	min	mun	_	_	PRO;GEN;1;PL	_	_	_	_
+4	iežamet	ieš	_	_	PSS1P;PRO;GEN;REFL	_	_	_	_
+5	olbmot	olmmoš	_	_	PL;N;NOM	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2902
+# text = Galliid sabehiid don ostet?
+1	Galliid	galle	_	_	ACC;NUM;PL	_	_	_	_
+2	sabehiid	sabet	_	_	N;ACC;PL	_	_	_	_
+3	don	don	_	_	PRO;NOM;2;SG	_	_	_	_
+4	ostet	oastit	_	_	FIN;PST;IND;2;SG;V	_	_	_	_
+5	?	?	_	_	_	_	_	_	_
+
+# sent_id = 908
+# text = Dii uhccán oskkolaččat!
+1	Dii	don	_	_	PL;NOM;PRO;2	_	_	_	_
+2	uhccán	uhccán	_	_	ADV	_	_	_	_
+3	oskkolaččat	oskkolaš	_	_	PL;NOM;ADJ	_	_	_	_
+4	!	^excl	_	_	_	_	_	_	_
+
+# sent_id = 2081
+# text = Čálii gal, muhto ii gártan sáddet.
+1	Čálii	čállit	_	_	FIN;3;PST;IND;SG;V	_	_	_	_
+2	gal	gal	_	_	ADV	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	muhto	muhto	_	_	CONJ	_	_	_	_
+5	ii	ii	_	_	FIN;3;NEG;IND;SG;V	_	_	_	_
+6	gártan	gártat	_	_	FIN;PST;IND;V	_	_	_	_
+7	sáddet	sáddet	_	_	NFIN;V	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2124
+# text = Son čájeha midjiide mo galgat guliid čoallut.
+1	Son	son	_	_	3;PRO;NOM;SG	_	_	_	_
+2	čájeha	čájehit	_	_	FIN;3;IND;PRS;SG;V	_	_	_	_
+3	midjiide	mun	_	_	PRO;IN+ALL;1;PL	_	_	_	_
+4	mo	mo	_	_	ADV	_	_	_	_
+5	galgat	galgat	_	_	FIN;IND;PRS;V;1;PL	_	_	_	_
+6	guliid	guolli	_	_	N;ACC;PL	_	_	_	_
+7	čoallut	čoallut	_	_	NFIN;V	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2314
+# text = Son ii leat leamaš oahpaheaddjin Deanus.
+1	Son	son	_	_	3;PRO;NOM;SG	_	_	_	_
+2	ii	ii	_	_	FIN;3;NEG;IND;SG;V	_	_	_	_
+3	leat	leat	_	_	FIN;IND;PRS;V	_	_	_	_
+4	leamaš	leat	_	_	V.PTCP;V;PFV	_	_	_	_
+5	oahpaheaddjin	oahpaheaddji	_	_	N;FRML	_	_	_	_
+6	Deanus	Deatnu	_	_	SG;PROPN;ESS	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2284
+# text = Son vuittii Davviriikkaid Ráđi girjjálašvuođabálkkašumi jagi 1991 dán girjji ovddas.
+1	Son	son	_	_	3;PRO;NOM;SG	_	_	_	_
+2	vuittii	vuoitit	_	_	FIN;3;PST;IND;SG;V	_	_	_	_
+3	Davviriikkaid	Davviriikkat	_	_	GEN;PROPN;PL	_	_	_	_
+4	Ráđi	ráđđi	_	_	GEN;N;SG	_	_	_	_
+5	girjjálašvuođabálkkašumi	girjjálašvuođabálkkašupmi	_	_	N;SG;ACC	_	_	_	_
+6	jagi	jahki	_	_	GEN;N;SG	_	_	_	_
+7	1991	1991	_	_	SG;NUM;NOM	_	_	_	_
+8	dán	dát	_	_	PRO;SG;GEN	_	_	_	_
+9	girjji	girji	_	_	GEN;N;SG	_	_	_	_
+10	ovddas	ovddas	_	_	ADP	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = 3290
+# text = 1977:s nammadii Eanandoallodepartemeanta lávdegotti, mii galggai ráhkadit ođđa skuvlaplána Stáhta boazodoalloskuvlla várás.
+1	1977:s	1977	_	_	SG;NUM;ESS	_	_	_	_
+2	nammadii	nammadit	_	_	FIN;3;PST;IND;SG;V	_	_	_	_
+3	Eanandoallodepartemeanta	Eanandoallodepartemeanta	_	_	SG;PROPN;NOM	_	_	_	_
+4	lávdegotti	lávdegoddi	_	_	N;SG;ACC	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	mii	mii	_	_	PRO;SG;NOM	_	_	_	_
+7	galggai	galgat	_	_	FIN;3;PST;IND;SG;V	_	_	_	_
+8	ráhkadit	ráhkadit	_	_	NFIN;V	_	_	_	_
+9	ođđa	ođas	_	_	ADJ	_	_	_	_
+10	skuvlaplána	skuvlaplána	_	_	N;SG;ACC	_	_	_	_
+11	Stáhta	stáhta	_	_	GEN;N;SG	_	_	_	_
+12	boazodoalloskuvlla	boazodoalloskuvla	_	_	GEN;N;SG	_	_	_	_
+13	várás	várás	_	_	ADP	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1467
+# text = Sii lohket iežaset leat oalle duhtavaččat dán jagáš básárdoaluin.
+1	Sii	son	_	_	3;PRO;NOM;PL	_	_	_	_
+2	lohket	lohkat	_	_	FIN;3;IND;PRS;V;PL	_	_	_	_
+3	iežaset	ieš	_	_	PSS3P;PRO;ACC;REFL	_	_	_	_
+4	leat	leat	_	_	NFIN;V	_	_	_	_
+5	oalle	oalle	_	_	ADV	_	_	_	_
+6	duhtavaččat	duhtavaš	_	_	PL;ADJ;NOM	_	_	_	_
+7	dán	dát	_	_	PRO;SG;GEN	_	_	_	_
+8	jagáš	jagáš	_	_	GEN;ADJ;SG	_	_	_	_
+9	básárdoaluin	básárdoallu	_	_	N;COM;SG	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2923
+# text = Leaččat go buot muitán?
+1	Leaččat	leat	_	_	FIN;2;PRS;SG;POT;V	_	_	_	_
+2	go	go	_	_	PART	_	_	_	_
+3	buot	buot	_	_	PRO;ACC	_	_	_	_
+4	muitán	muitit	_	_	V.PTCP;V;PFV	_	_	_	_
+5	?	?	_	_	_	_	_	_	_
+
+# sent_id = 2402
+# text = Maŋŋil láivves vuosttaš vuoru lei boađus 0-0.
+1	Maŋŋil	maŋŋel	_	_	ADP	_	_	_	_
+2	láivves	láivi	_	_	ADJ	_	_	_	_
+3	vuosttaš	vuosttaš	_	_	ADJ	_	_	_	_
+4	vuoru	vuorru	_	_	GEN;N;SG	_	_	_	_
+5	lei	leat	_	_	V;FIN;3;PST;IND;SG	_	_	_	_
+6	boađus	boađus	_	_	N;SG;NOM	_	_	_	_
+7	0-0	0-0	_	_	SG;NUM;NOM	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = 3309
+# text = Olgun Ulla basai čalmmiid ja giehtamáddagiid gáivvo luhtte ja bođii dasto sisa ja manai iežas latnjii.
+1	Olgun	olgun	_	_	ADV	_	_	_	_
+2	Ulla	Ulla	_	_	SG;PROPN;NOM	_	_	_	_
+3	basai	bassat	_	_	FIN;3;PST;IND;SG;V	_	_	_	_
+4	čalmmiid	čalbmi	_	_	N;ACC;PL	_	_	_	_
+5	ja	ja	_	_	CONJ	_	_	_	_
+6	giehtamáddagiid	giehtamátta	_	_	N;ACC;PL	_	_	_	_
+7	gáivvo	gáivo	_	_	GEN;N;SG	_	_	_	_
+8	luhtte	luhtte	_	_	ADP	_	_	_	_
+9	ja	ja	_	_	CONJ	_	_	_	_
+10	bođii	boahtit	_	_	FIN;3;PST;IND;SG;V	_	_	_	_
+11	dasto	dasto	_	_	ADV	_	_	_	_
+12	sisa	sisa	_	_	ADV	_	_	_	_
+13	ja	ja	_	_	CONJ	_	_	_	_
+14	manai	mannat	_	_	FIN;3;PST;IND;SG;V	_	_	_	_
+15	iežas	ieš	_	_	PSS3S;PRO;GEN;REFL	_	_	_	_
+16	latnjii	latnja	_	_	N;SG;IN+ALL	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1701
+# text = Sire lea oahpaheaddji.
+1	Sire	Sire	_	_	SG;PROPN;NOM	_	_	_	_
+2	lea	leat	_	_	V;FIN;3;IND;PRS;SG	_	_	_	_
+3	oahpaheaddji	oahpaheaddji	_	_	N;SG;NOM	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = 3023
+# text = Son lea almmuhan gelddolaččamus girjjiid.
+1	Son	son	_	_	3;PRO;NOM;SG	_	_	_	_
+2	lea	leat	_	_	FIN;3;IND;PRS;SG;V	_	_	_	_
+3	almmuhan	almmuhit	_	_	V.PTCP;V;PFV	_	_	_	_
+4	gelddolaččamus	gelddolaš	_	_	ADJ;RL	_	_	_	_
+5	girjjiid	girji	_	_	N;ACC;PL	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = 3345
+# text = Patrika eadni, Anna Margrethe Bæhr, lohká maid iežas hirbmadit suorganan go gulai mii lea dáhpáhuvvan.
+1	Patrika	Patrik	_	_	GEN;SG;PROPN	_	_	_	_
+2	eadni	eadni	_	_	N;SG;NOM	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	Anna	Anna	_	_	PROPN	_	_	_	_
+5	Margrethe	Margrethe	_	_	PROPN	_	_	_	_
+6	Bæhr	Bæhr	_	_	SG;PROPN;NOM	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	lohká	lohkat	_	_	FIN;3;IND;PRS;SG;V	_	_	_	_
+9	maid	maid	_	_	ADV	_	_	_	_
+10	iežas	ieš	_	_	PSS3S;PRO;ACC;REFL	_	_	_	_
+11	hirbmadit	hirbmadit	_	_	ADV	_	_	_	_
+12	suorganan	suorganit	_	_	V.PTCP;V;PFV	_	_	_	_
+13	go	go	_	_	CONJ	_	_	_	_
+14	gulai	gullat	_	_	FIN;3;PST;IND;SG;V	_	_	_	_
+15	mii	mii	_	_	PRO;SG;NOM	_	_	_	_
+16	lea	leat	_	_	FIN;3;IND;PRS;SG;V	_	_	_	_
+17	dáhpáhuvvan	dáhpáhuvvat	_	_	V.PTCP;V;PFV	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2021
+# text = Min márkanii lea ráhkaduvvon ođđa skuvla.
+1	Min	mun	_	_	PRO;GEN;1;PL	_	_	_	_
+2	márkanii	márkan	_	_	N;SG;IN+ALL	_	_	_	_
+3	lea	leat	_	_	FIN;3;IND;PRS;SG;V	_	_	_	_
+4	ráhkaduvvon	ráhkadit	_	_	V.PTCP;V;PASS;PFV	_	_	_	_
+5	ođđa	ođas	_	_	ADJ	_	_	_	_
+6	skuvla	skuvla	_	_	N;SG;NOM	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2747
+# text = Leat go gullan sus alddis?
+1	Leat	leat	_	_	FIN;3;IND;PRS;V;PL	_	_	_	_
+2	go	go	_	_	PART	_	_	_	_
+3	gullan	gullat	_	_	V.PTCP;V;PFV	_	_	_	_
+4	sus	son	_	_	3;ESS;PRO;SG	_	_	_	_
+5	alddis	ieš	_	_	PSS3S;ESS;PRO;REFL	_	_	_	_
+6	?	?	_	_	_	_	_	_	_
+
+# sent_id = 526
+# text = 1982:s son roasmmohuvai bávkilahttima oktavuođas Álttádulvadeami vuostá, váldojuvvui gitta, muhto báhtarii Kanadai, ja orui doppe álgoálbmogiid luhtte moadde jagi.
+1	1982:s	1982	_	_	SG;ESS;NUM	_	_	_	_
+2	son	son	_	_	3;NOM;SG;PRO	_	_	_	_
+3	roasmmohuvai	roasmmohuvvat	_	_	3;FIN;SG;V;PST;IND	_	_	_	_
+4	bávkilahttima	bávkit	_	_	N;GEN;SG	_	_	_	_
+5	oktavuođas	oktavuohta	_	_	N;ESS;SG	_	_	_	_
+6	Álttádulvadeami	Álttá_dulvadeapmi	_	_	N;GEN;SG	_	_	_	_
+7	vuostá	vuostá	_	_	ADP	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	váldojuvvui	váldit	_	_	3;FIN;SG;V;PST;PASS;IND	_	_	_	_
+10	gitta	gitta	_	_	ADV	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	muhto	muhto	_	_	CONJ	_	_	_	_
+13	báhtarii	báhtarit	_	_	3;FIN;SG;V;PST;IND	_	_	_	_
+14	Kanadai	Kanada	_	_	IN+ALL;SG;PROPN	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	ja	ja	_	_	CONJ	_	_	_	_
+17	orui	orrut	_	_	3;FIN;SG;V;PST;IND	_	_	_	_
+18	doppe	doppe	_	_	ADV	_	_	_	_
+19	álgoálbmogiid	álgoálbmot	_	_	PL;N;GEN	_	_	_	_
+20	luhtte	luhtte	_	_	ADP	_	_	_	_
+21	moadde	moadde	_	_	SG;NUM;ACC	_	_	_	_
+22	jagi	jahki	_	_	N;GEN;SG	_	_	_	_
+23	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2538
+# text = Vuolgu gávpogii, ovdalgo girjerádju manná gitta.
+1	Vuolgu	vuolgit	_	_	FIN;DU;V;1;IMP	_	_	_	_
+2	gávpogii	gávpot	_	_	N;SG;IN+ALL	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	ovdalgo	ovdalgo	_	_	CONJ	_	_	_	_
+5	girjerádju	girjerádju	_	_	N;SG;NOM	_	_	_	_
+6	manná	mannat	_	_	FIN;3;IND;PRS;SG;V	_	_	_	_
+7	gitta	gitta	_	_	ADV	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = 3319
+# text = Son oaidná dili seavdnjadin ja ballá heakka ala sisriikasoađis dahje dakkáris.
+1	Son	son	_	_	3;PRO;NOM;SG	_	_	_	_
+2	oaidná	oaidnit	_	_	FIN;3;IND;PRS;SG;V	_	_	_	_
+3	dili	dilli	_	_	N;SG;ACC	_	_	_	_
+4	seavdnjadin	seavdnjat	_	_	ADJ;FRML	_	_	_	_
+5	ja	ja	_	_	CONJ	_	_	_	_
+6	ballá	ballat	_	_	FIN;3;IND;PRS;SG;V	_	_	_	_
+7	heakka	heagga	_	_	GEN;N;SG	_	_	_	_
+8	ala	ala	_	_	ADP	_	_	_	_
+9	sisriikasoađis	sisriikasoahti	_	_	N;SG;ESS	_	_	_	_
+10	dahje	dahje	_	_	CONJ	_	_	_	_
+11	dakkáris	dakkár	_	_	PRO;SG;ESS	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2480
+# text = Soagŋu-girji, mas leat noveallat, bođii jagi 1971, ja lei vuosttaš sámegiel girji maid nisu lea čállán.
+1	Soagŋu-girji	soagŋu-girji	_	_	N;SG;NOM	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	mas	mii	_	_	PRO;SG;ESS	_	_	_	_
+4	leat	leat	_	_	FIN;3;IND;PRS;V;PL	_	_	_	_
+5	noveallat	novealla	_	_	PL;N;NOM	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	bođii	boahtit	_	_	FIN;3;PST;IND;SG;V	_	_	_	_
+8	jagi	jahki	_	_	GEN;N;SG	_	_	_	_
+9	1971	1971	_	_	SG;NUM;NOM	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	ja	ja	_	_	CONJ	_	_	_	_
+12	lei	leat	_	_	V;FIN;3;PST;IND;SG	_	_	_	_
+13	vuosttaš	vuosttaš	_	_	ADJ	_	_	_	_
+14	sámegiel	sámegiel	_	_	ADJ	_	_	_	_
+15	girji	girji	_	_	N;SG;NOM	_	_	_	_
+16	maid	mii	_	_	PRO;SG;ACC	_	_	_	_
+17	nisu	nisu	_	_	N;SG;NOM	_	_	_	_
+18	lea	leat	_	_	FIN;3;IND;PRS;SG;V	_	_	_	_
+19	čállán	čállit	_	_	V.PTCP;V;PFV	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# sent_id = 48
+# text = Tubal-Kainas lei oabbá, gean namma lei Naama.
+1	Tubal-Kainas	Tubal-Kain	_	_	ESS;SG;PROPN	_	_	_	_
+2	lei	leat	_	_	3;FIN;SG;V;PST;IND	_	_	_	_
+3	oabbá	oabbá	_	_	NOM;N;SG	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	gean	gii	_	_	GEN;PRO;SG	_	_	_	_
+6	namma	namma	_	_	NOM;N;SG	_	_	_	_
+7	lei	leat	_	_	3;FIN;SG;V;PST;IND	_	_	_	_
+8	Naama	Naama	_	_	NOM;SG;PROPN	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2938
+# text = Bođežehpet go dii nu fargga?
+1	Bođežehpet	boahtit	_	_	FIN;2;PRS;POT;V;PL	_	_	_	_
+2	go	go	_	_	PART	_	_	_	_
+3	dii	don	_	_	PRO;NOM;2;PL	_	_	_	_
+4	nu	nu	_	_	ADV	_	_	_	_
+5	fargga	fargga	_	_	ADV	_	_	_	_
+6	?	?	_	_	_	_	_	_	_
+
+# sent_id = 1019
+# text = Fápmu čiehká iežas luottaid.
+1	Fápmu	fápmu	_	_	NOM;N;SG	_	_	_	_
+2	čiehká	čiehkat	_	_	3;FIN;SG;PRS;V;IND	_	_	_	_
+3	iežas	ieš	_	_	PSS3S;PRO;REFL;GEN	_	_	_	_
+4	luottaid	luodda	_	_	PL;N;ACC	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1608
+# text = Vuoigŋa gal lea geargat, muhto oažži lea headju.
+1	Vuoigŋa	vuoigŋa	_	_	N;SG;NOM	_	_	_	_
+2	gal	gal	_	_	ADV	_	_	_	_
+3	lea	leat	_	_	V;FIN;3;IND;PRS;SG	_	_	_	_
+4	geargat	geargat	_	_	NFIN;V	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	muhto	muhto	_	_	CONJ	_	_	_	_
+7	oažži	oažži	_	_	N;SG;NOM	_	_	_	_
+8	lea	leat	_	_	FIN;3;IND;PRS;SG;V	_	_	_	_
+9	headju	headju	_	_	ADJ;SG;NOM	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = 685
+# text = Sin ledje juohkán bargojoavkkuide, ja vurrolagaid sii basse láhttiid ja távvaliid klássalanjain.
+1	Sin	son	_	_	PL;3;ACC;PRO	_	_	_	_
+2	ledje	leat	_	_	PL;3;FIN;V;PST;IND	_	_	_	_
+3	juohkán	juohkit	_	_	PFV;V;V.PTCP	_	_	_	_
+4	bargojoavkkuide	bargojoavku	_	_	PL;IN+ALL;N	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	ja	ja	_	_	CONJ	_	_	_	_
+7	vurrolagaid	vurrolagaid	_	_	ADV	_	_	_	_
+8	sii	son	_	_	PL;3;NOM;PRO	_	_	_	_
+9	basse	bassat	_	_	PL;3;FIN;V;PST;IND	_	_	_	_
+10	láhttiid	láhtti	_	_	PL;N;ACC	_	_	_	_
+11	ja	ja	_	_	CONJ	_	_	_	_
+12	távvaliid	távval	_	_	PL;N;ACC	_	_	_	_
+13	klássalanjain	klássalatnja	_	_	PL;N;ESS	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2209
+# text = Nieiddat čikče bures.
+1	Nieiddat	nieida	_	_	PL;N;NOM	_	_	_	_
+2	čikče	čiekčat	_	_	FIN;3;PST;IND;V;PL	_	_	_	_
+3	bures	bures	_	_	ADV	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2615
+# text = Mu mielas lea suohtas beassat johtit riikkas riikii ja báikkis báikái.
+1	Mu	mun	_	_	PRO;GEN;SG;1	_	_	_	_
+2	mielas	mielas	_	_	ADP	_	_	_	_
+3	lea	leat	_	_	V;FIN;3;IND;PRS;SG	_	_	_	_
+4	suohtas	suohtas	_	_	ADJ;SG;NOM	_	_	_	_
+5	beassat	beassat	_	_	NFIN;V	_	_	_	_
+6	johtit	johtit	_	_	NFIN;V	_	_	_	_
+7	riikkas	riika	_	_	N;SG;ESS	_	_	_	_
+8	riikii	riika	_	_	N;SG;IN+ALL	_	_	_	_
+9	ja	ja	_	_	CONJ	_	_	_	_
+10	báikkis	báiki	_	_	N;SG;ESS	_	_	_	_
+11	báikái	báiki	_	_	N;SG;IN+ALL	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = 957
+# text = Dálá Ruoŧabeali boazodoalloláhka 1971 rájes, čuovvu ovddit lága hámi dáfus.
+1	Dálá	dálá	_	_	ADJ	_	_	_	_
+2	Ruoŧabeali	ruoŧabealli	_	_	N;GEN;SG	_	_	_	_
+3	boazodoalloláhka	boazodoalloláhka	_	_	NOM;N;SG	_	_	_	_
+4	1971	1971	_	_	GEN;SG;NUM	_	_	_	_
+5	rájes	rájes	_	_	ADP	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	čuovvu	čuovvut	_	_	3;FIN;SG;PRS;V;IND	_	_	_	_
+8	ovddit	ovddit	_	_	CMPR;ADJ	_	_	_	_
+9	lága	láhka	_	_	N;SG;ACC	_	_	_	_
+10	hámi	hápmi	_	_	N;GEN;SG	_	_	_	_
+11	dáfus	dáfus	_	_	ADP	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1753
+# text = Oainnán ollu olbmuid.
+1	Oainnán	oaidnit	_	_	FIN;IND;PRS;SG;V;1	_	_	_	_
+2	ollu	ollu	_	_	ADJ	_	_	_	_
+3	olbmuid	olmmoš	_	_	N;ACC;PL	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = 669
+# text = Eará lanjain petromáksa attii sihke čuovgga ja lieggasa.
+1	Eará	eará	_	_	PRO	_	_	_	_
+2	lanjain	latnja	_	_	PL;N;ESS	_	_	_	_
+3	petromáksa	petromáksa	_	_	NOM;N;SG	_	_	_	_
+4	attii	addit	_	_	3;FIN;SG;V;PST;IND	_	_	_	_
+5	sihke	sihke	_	_	ADV	_	_	_	_
+6	čuovgga	čuovga	_	_	N;SG;ACC	_	_	_	_
+7	ja	ja	_	_	CONJ	_	_	_	_
+8	lieggasa	liekkas	_	_	N;SG;ACC	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = 796
+# text = Buoremus sámepolitihkka ožžojuvvo áigálii sámi veahkadaga ja ráđđehusa gaskaneas ipmárdusain.
+1	Buoremus	buorre	_	_	RL;ADJ	_	_	_	_
+2	sámepolitihkka	sámepolitihkka	_	_	NOM;N;SG	_	_	_	_
+3	ožžojuvvo	oažžut	_	_	3;FIN;SG;PRS;V;PASS;IND	_	_	_	_
+4	áigálii	áigálii	_	_	ADV	_	_	_	_
+5	sámi	sápmi	_	_	N;GEN;SG	_	_	_	_
+6	veahkadaga	veahkadat	_	_	N;GEN;SG	_	_	_	_
+7	ja	ja	_	_	CONJ	_	_	_	_
+8	ráđđehusa	ráđđehus	_	_	N;GEN;SG	_	_	_	_
+9	gaskaneas	gaskaneas	_	_	ADJ	_	_	_	_
+10	ipmárdusain	ipmárdus	_	_	N;COM;SG	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = 312
+# text = Soria_Moria-julggaštusas definerejuvvojedje davviguovllut Norgga deaŧaleamos nannensuorgin boahttevaš jagiid.
+1	Soria_Moria-julggaštusas	Soria_Moria-julggaštus	_	_	N;ESS;SG	_	_	_	_
+2	definerejuvvojedje	defineret	_	_	PL;3;FIN;V;PST;PASS;IND	_	_	_	_
+3	davviguovllut	davviguovlu	_	_	NOM;PL;N	_	_	_	_
+4	Norgga	Norga	_	_	GEN;SG;PROPN	_	_	_	_
+5	deaŧaleamos	deaŧalaš	_	_	RL;ADJ	_	_	_	_
+6	nannensuorgin	nannensuorgi	_	_	N;FRML	_	_	_	_
+7	boahttevaš	boahttevaš	_	_	ADJ	_	_	_	_
+8	jagiid	jahki	_	_	PL;N;GEN	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = 3065
+# text = Girjjit leat hálbbit.
+1	Girjjit	girji	_	_	PL;N;NOM	_	_	_	_
+2	leat	leat	_	_	V;FIN;3;IND;PRS;PL	_	_	_	_
+3	hálbbit	hálbi	_	_	PL;ADJ;NOM	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = 356
+# text = Dan botta son lea gazzan pedagogihkkaoahpu ja máŋggakultuvrrat áddejumi.
+1	Dan	dat	_	_	GEN;PRO;SG	_	_	_	_
+2	botta	bodda	_	_	N;GEN;SG	_	_	_	_
+3	son	son	_	_	3;NOM;SG;PRO	_	_	_	_
+4	lea	leat	_	_	3;FIN;SG;PRS;V;IND	_	_	_	_
+5	gazzan	gazzat	_	_	PFV;V;V.PTCP	_	_	_	_
+6	pedagogihkkaoahpu	pedagogihkkaoahppu	_	_	N;SG;ACC	_	_	_	_
+7	ja	ja	_	_	CONJ	_	_	_	_
+8	máŋggakultuvrrat	máŋggakultuvrrat	_	_	ADJ	_	_	_	_
+9	áddejumi	áddejupmi	_	_	N;SG;ACC	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2663
+# text = Eadni goarui buot biktasiid mašiinnainis.
+1	Eadni	eadni	_	_	N;SG;NOM	_	_	_	_
+2	goarui	goarrut	_	_	FIN;3;PST;IND;SG;V	_	_	_	_
+3	buot	buot	_	_	PRO	_	_	_	_
+4	biktasiid	bivttas	_	_	N;ACC;PL	_	_	_	_
+5	mašiinnainis	mašiidna	_	_	PSS3S;N;COM;SG	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2533
+# text = Niegus silbaruđat muitalit ahte šaddet fierttut.
+1	Niegus	niehku	_	_	N;SG;ESS	_	_	_	_
+2	silbaruđat	silbaruhta	_	_	PL;N;NOM	_	_	_	_
+3	muitalit	muitalit	_	_	FIN;3;IND;PRS;V;PL	_	_	_	_
+4	ahte	ahte	_	_	CONJ	_	_	_	_
+5	šaddet	šaddat	_	_	FIN;3;IND;PRS;V;PL	_	_	_	_
+6	fierttut	fiertu	_	_	PL;N;NOM	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = 990
+# text = Ealus leat eanaš álddut.
+1	Ealus	eallu	_	_	N;ESS;SG	_	_	_	_
+2	leat	leat	_	_	PL;3;FIN;PRS;V;IND	_	_	_	_
+3	eanaš	eanaš	_	_	ADV	_	_	_	_
+4	álddut	áldu	_	_	NOM;PL;N	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1122
+# text = Ja danin son lei šaddan nu bahá tálaide ja bustávaide.
+1	Ja	ja	_	_	CONJ	_	_	_	_
+2	danin	danin	_	_	ADV	_	_	_	_
+3	son	son	_	_	3;PRO;NOM;SG	_	_	_	_
+4	lei	leat	_	_	FIN;3;PST;IND;SG;V	_	_	_	_
+5	šaddan	šaddat	_	_	V.PTCP;V;PFV	_	_	_	_
+6	nu	nu	_	_	ADV	_	_	_	_
+7	bahá	bahá	_	_	ADJ;SG;NOM	_	_	_	_
+8	tálaide	tálla	_	_	PL;N;IN+ALL	_	_	_	_
+9	ja	ja	_	_	CONJ	_	_	_	_
+10	bustávaide	bustávva	_	_	PL;N;IN+ALL	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2051
+# text = Diet lea lohkkis mánná.
+1	Diet	diet	_	_	PRO;SG;NOM	_	_	_	_
+2	lea	leat	_	_	V;FIN;3;IND;PRS;SG	_	_	_	_
+3	lohkkis	lohkki	_	_	ADJ	_	_	_	_
+4	mánná	mánná	_	_	N;SG;NOM	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = 3305
+# text = Son lei vuolggahan mu dán máilbmái dáhpedorpmis geainna_nu, riegádahttán ja guoddán mu heakkastis vahágis, biebman ja bivttastan dalle_go muittii.
+1	Son	son	_	_	3;PRO;NOM;SG	_	_	_	_
+2	lei	leat	_	_	FIN;3;PST;IND;SG;V	_	_	_	_
+3	vuolggahan	vuolggahit	_	_	V.PTCP;V;PFV	_	_	_	_
+4	mu	mun	_	_	PRO;ACC;SG;1	_	_	_	_
+5	dán	dát	_	_	PRO;SG;IN+ALL	_	_	_	_
+6	máilbmái	máilbmi	_	_	N;SG;IN+ALL	_	_	_	_
+7	dáhpedorpmis	dáhpedorbmi	_	_	N;SG;ESS	_	_	_	_
+8	geainna_nu	gii_nu	_	_	PRO;COM;SG	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	riegádahttán	riegádahttit	_	_	V.PTCP;V;PFV	_	_	_	_
+11	ja	ja	_	_	CONJ	_	_	_	_
+12	guoddán	guoddit	_	_	V.PTCP;V;PFV	_	_	_	_
+13	mu	mun	_	_	PRO;ACC;SG;1	_	_	_	_
+14	heakkastis	heagga	_	_	PSS3S;N;ESS;SG	_	_	_	_
+15	vahágis	vahát	_	_	N;SG;ESS	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	biebman	biebmat	_	_	V.PTCP;V;PFV	_	_	_	_
+18	ja	ja	_	_	CONJ	_	_	_	_
+19	bivttastan	bivttastit	_	_	V.PTCP;V;PFV	_	_	_	_
+20	dalle_go	dalle_go	_	_	CONJ	_	_	_	_
+21	muittii	muitit	_	_	FIN;3;PST;IND;SG;V	_	_	_	_
+22	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2168
+# text = Maid siđat odne?
+1	Maid	mii	_	_	PRO;SG;ACC	_	_	_	_
+2	siđat	sihtat	_	_	FIN;IND;2;PRS;SG;V	_	_	_	_
+3	odne	odne	_	_	ADV	_	_	_	_
+4	?	?	_	_	_	_	_	_	_
+
+# sent_id = 2270
+# text = Spider-Man-gova ovddas máksojuvvo bures!
+1	Spider-Man-gova	Spider-Man-govva	_	_	GEN;N;SG	_	_	_	_
+2	ovddas	ovddas	_	_	ADP	_	_	_	_
+3	máksojuvvo	máksit	_	_	FIN;3;PASS;IND;PRS;SG;V	_	_	_	_
+4	bures	bures	_	_	ADV	_	_	_	_
+5	!	^excl	_	_	_	_	_	_	_
+
+# sent_id = 1056
+# text = Gos dáppe lea máddi?
+1	Gos	gos	_	_	ADV	_	_	_	_
+2	dáppe	dáppe	_	_	ADV	_	_	_	_
+3	lea	leat	_	_	V;FIN;3;IND;PRS;SG	_	_	_	_
+4	máddi	máddi	_	_	N;SG;NOM	_	_	_	_
+5	?	?	_	_	_	_	_	_	_
+
+# sent_id = 1810
+# text = Do boahtiba Niillas ja Ánde.
+1	Do	do	_	_	ADV	_	_	_	_
+2	boahtiba	boahtit	_	_	FIN;3;DU;IND;PRS;V	_	_	_	_
+3	Niillas	Niillas	_	_	SG;PROPN;NOM	_	_	_	_
+4	ja	ja	_	_	CONJ	_	_	_	_
+5	Ánde	Ánde	_	_	SG;PROPN;NOM	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1150
+# text = Jus lea sáhka 12 jagi deavdán mánás, gii ii leat ovtta oaivilis mearrádusain, gozihanlávdegoddi galgá gieđahallat mearrádusa.
+1	Jus	jus	_	_	CONJ	_	_	_	_
+2	lea	leat	_	_	V;FIN;3;IND;PRS;SG	_	_	_	_
+3	sáhka	sáhka	_	_	N;SG;NOM	_	_	_	_
+4	12	12	_	_	GEN;SG;NUM	_	_	_	_
+5	jagi	jahki	_	_	GEN;N;SG	_	_	_	_
+6	deavdán	deavdit	_	_	V.PTCP;V;PFV	_	_	_	_
+7	mánás	mánná	_	_	N;SG;ESS	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	gii	gii	_	_	PRO;SG;NOM	_	_	_	_
+10	ii	ii	_	_	FIN;3;NEG;IND;SG;V	_	_	_	_
+11	leat	leat	_	_	FIN;IND;PRS;V	_	_	_	_
+12	ovtta	okta	_	_	SG;NUM;ESS	_	_	_	_
+13	oaivilis	oaivil	_	_	N;SG;ESS	_	_	_	_
+14	mearrádusain	mearrádus	_	_	N;COM;SG	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	gozihanlávdegoddi	gozihanlávdegoddi	_	_	N;SG;NOM	_	_	_	_
+17	galgá	galgat	_	_	FIN;3;IND;PRS;SG;V	_	_	_	_
+18	gieđahallat	gieđahallat	_	_	NFIN;V	_	_	_	_
+19	mearrádusa	mearrádus	_	_	N;SG;ACC	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# sent_id = 3501
+# text = Mii oaidnalit doaluin lávvordaga.
+1	Mii	mun	_	_	PRO;NOM;1;PL	_	_	_	_
+2	oaidnalit	oaidnalit	_	_	FIN;IND;PRS;V;1;PL	_	_	_	_
+3	doaluin	doalut	_	_	N;PL;ESS	_	_	_	_
+4	lávvordaga	lávvordat	_	_	GEN;N;SG	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1186
+# text = Leat maid bargame dálá boazodoallolága ođastemiin.
+1	Leat	leat	_	_	FIN;IND;PRS;V;1;PL	_	_	_	_
+2	maid	maid	_	_	ADV	_	_	_	_
+3	bargame	bargat	_	_	V;FRML;V.MSDR	_	_	_	_
+4	dálá	dálá	_	_	ADJ	_	_	_	_
+5	boazodoallolága	boazodoalloláhka	_	_	GEN;N;SG	_	_	_	_
+6	ođastemiin	ođasteapmi	_	_	N;COM;SG	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = 3067
+# text = Dárogiella lea váttis, sámegiella lea váddáseabbo ja suomagiella lea váddáseamos.
+1	Dárogiella	dárogiella	_	_	N;SG;NOM	_	_	_	_
+2	lea	leat	_	_	V;FIN;3;IND;PRS;SG	_	_	_	_
+3	váttis	váttis	_	_	ADJ;SG;NOM	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	sámegiella	sámegiella	_	_	N;SG;NOM	_	_	_	_
+6	lea	leat	_	_	V;FIN;3;IND;PRS;SG	_	_	_	_
+7	váddáseabbo	váttis	_	_	ADJ;SG;CMPR;NOM	_	_	_	_
+8	ja	ja	_	_	CONJ	_	_	_	_
+9	suomagiella	suomagiella	_	_	N;SG;NOM	_	_	_	_
+10	lea	leat	_	_	FIN;3;IND;PRS;SG;V	_	_	_	_
+11	váddáseamos	váttis	_	_	ADJ;SG;NOM;RL	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = 169
+# text = Dát paragráfa ii gusto fuođđo- ja smávvafuđošbivdui, stággo- ja duorgobivdui čázádagain ja sáivačázis gođđi luossaguliid bivdimii gittaneavvuiguin.
+1	Dát	dát	_	_	NOM;PRO;SG	_	_	_	_
+2	paragráfa	paragráfa	_	_	NOM;N;SG	_	_	_	_
+3	ii	ii	_	_	3;FIN;SG;IND;V;NEG	_	_	_	_
+4	gusto	gustot	_	_	FIN;PRS;V;IND	_	_	_	_
+5	fuođđo-	fuođđu	_	_	N	_	_	_	_
+6	ja	ja	_	_	CONJ	_	_	_	_
+7	smávvafuđošbivdui	smávvafuđošbivdu	_	_	IN+ALL;N;SG	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	stággo-	stággu	_	_	N	_	_	_	_
+10	ja	ja	_	_	CONJ	_	_	_	_
+11	duorgobivdui	duorgobivdu	_	_	IN+ALL;N;SG	_	_	_	_
+12	čázádagain	čázádat	_	_	PL;N;ESS	_	_	_	_
+13	ja	ja	_	_	CONJ	_	_	_	_
+14	sáivačázis	sáivačáhci	_	_	N;ESS;SG	_	_	_	_
+15	gođđi	gođđat	_	_	PRS;V;V.PTCP	_	_	_	_
+16	luossaguliid	luossaguolli	_	_	PL;N;GEN	_	_	_	_
+17	bivdimii	bivdin	_	_	IN+ALL;N;SG	_	_	_	_
+18	gittaneavvuiguin	gittaneavvu	_	_	PL;N;COM	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# sent_id = 974
+# text = Dás lei maiddái gažaldat geavahanvuoigatvuođas vuovdái ja dan vejolaš viidodahkii.
+1	Dás	dás	_	_	ADV	_	_	_	_
+2	lei	leat	_	_	3;FIN;SG;V;PST;IND	_	_	_	_
+3	maiddái	maiddái	_	_	ADV	_	_	_	_
+4	gažaldat	gažaldat	_	_	NOM;N;SG	_	_	_	_
+5	geavahanvuoigatvuođas	geavahanvuoigatvuohta	_	_	N;ESS;SG	_	_	_	_
+6	vuovdái	vuovdi	_	_	IN+ALL;N;SG	_	_	_	_
+7	ja	ja	_	_	CONJ	_	_	_	_
+8	dan	dat	_	_	IN+ALL;PRO;SG	_	_	_	_
+9	vejolaš	vejolaš	_	_	ADJ	_	_	_	_
+10	viidodahkii	viidodat	_	_	IN+ALL;N;SG	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2219
+# text = Son livččii taksivuoddji Oslos.
+1	Son	son	_	_	3;PRO;NOM;SG	_	_	_	_
+2	livččii	leat	_	_	V;FIN;3;PRS;SG;COND	_	_	_	_
+3	taksivuoddji	táksevuoddji	_	_	N;SG;NOM	_	_	_	_
+4	Oslos	Oslo	_	_	SG;PROPN;ESS	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = 3449
+# text = - Makkár válljenmunni, son huikkádii.
+1	-	-	_	_	_	_	_	_	_
+2	Makkár	makkár	_	_	PRO	_	_	_	_
+3	válljenmunni	válljenmunni	_	_	N;SG;NOM	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	son	son	_	_	3;PRO;NOM;SG	_	_	_	_
+6	huikkádii	huikkádit	_	_	FIN;3;PST;IND;SG;V	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = 3052
+# text = Min bártnit leat guhkit.
+1	Min	mun	_	_	PRO;GEN;1;PL	_	_	_	_
+2	bártnit	bárdni	_	_	PL;N;NOM	_	_	_	_
+3	leat	leat	_	_	V;FIN;3;IND;PRS;PL	_	_	_	_
+4	guhkit	guhkki	_	_	PL;ADJ;NOM	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = 95
+# text = De lean oahpahan boazodoallofágaid ja dál barggan boazodoalu ja duoji oahpahuskántuvrras.
+1	De	de	_	_	ADV	_	_	_	_
+2	lean	leat	_	_	FIN;SG;PRS;V;1;IND	_	_	_	_
+3	oahpahan	oahpahit	_	_	PFV;V;V.PTCP	_	_	_	_
+4	boazodoallofágaid	boazodoallofága	_	_	PL;N;ACC	_	_	_	_
+5	ja	ja	_	_	CONJ	_	_	_	_
+6	dál	dál	_	_	ADV	_	_	_	_
+7	barggan	bargat	_	_	FIN;SG;PRS;V;1;IND	_	_	_	_
+8	boazodoalu	boazodoallu	_	_	N;GEN;SG	_	_	_	_
+9	ja	ja	_	_	CONJ	_	_	_	_
+10	duoji	duodji	_	_	N;GEN;SG	_	_	_	_
+11	oahpahuskántuvrras	oahpahuskantuvra	_	_	N;ESS;SG	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = 3273
+# text = Rádjerasttildeaddji boazodoallu galgá čuovvut vuoigatvuođaid ja geatnegasvuođaid mat gustojit dan riikkas gos boazodoaluin bargá.
+1	Rádjerasttildeaddji	rádjerasttildeaddji	_	_	ADJ	_	_	_	_
+2	boazodoallu	boazodoallu	_	_	N;SG;NOM	_	_	_	_
+3	galgá	galgat	_	_	FIN;3;IND;PRS;SG;V	_	_	_	_
+4	čuovvut	čuovvut	_	_	NFIN;V	_	_	_	_
+5	vuoigatvuođaid	vuoigatvuohta	_	_	N;ACC;PL	_	_	_	_
+6	ja	ja	_	_	CONJ	_	_	_	_
+7	geatnegasvuođaid	geatnegasvuohta	_	_	N;ACC;PL	_	_	_	_
+8	mat	mii	_	_	PL;PRO;NOM	_	_	_	_
+9	gustojit	gustot	_	_	FIN;3;IND;PRS;V;PL	_	_	_	_
+10	dan	dat	_	_	PRO;SG;ESS	_	_	_	_
+11	riikkas	riika	_	_	N;SG;ESS	_	_	_	_
+12	gos	gos	_	_	ADV	_	_	_	_
+13	boazodoaluin	boazodoallu	_	_	N;COM;SG	_	_	_	_
+14	bargá	bargat	_	_	FIN;3;IND;PRS;SG;V	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1749
+# text = Muhtumin niehku sáhttá rávvet du.
+1	Muhtumin	muhtumin	_	_	ADV	_	_	_	_
+2	niehku	niehku	_	_	N;SG;NOM	_	_	_	_
+3	sáhttá	sáhttit	_	_	FIN;3;IND;PRS;SG;V	_	_	_	_
+4	rávvet	rávvet	_	_	NFIN;V	_	_	_	_
+5	du	don	_	_	PRO;ACC;2;SG	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2645
+# text = Dál mii fertet gaikkodit náveheamet.
+1	Dál	dál	_	_	ADV	_	_	_	_
+2	mii	mun	_	_	PRO;NOM;1;PL	_	_	_	_
+3	fertet	fertet	_	_	FIN;IND;PRS;V;1;PL	_	_	_	_
+4	gaikkodit	gaikkodit	_	_	NFIN;V	_	_	_	_
+5	náveheamet	návet	_	_	PSS1P;N;ACC;SG	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2741
+# text = Mii áigut čoaggit murjjiid alcceseamet.
+1	Mii	mun	_	_	PRO;NOM;1;PL	_	_	_	_
+2	áigut	áigut	_	_	FIN;IND;PRS;V;1;PL	_	_	_	_
+3	čoaggit	čoaggit	_	_	NFIN;V	_	_	_	_
+4	murjjiid	muorji	_	_	N;ACC;PL	_	_	_	_
+5	alcceseamet	ieš	_	_	PSS1P;REFL;PRO;IN+ALL	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = 828
+# text = Dan moai ráidniime skárbbaniin.
+1	Dan	dat	_	_	PRO;SG;ACC	_	_	_	_
+2	moai	mun	_	_	NOM;DU;PRO;1	_	_	_	_
+3	ráidniime	ráidnet	_	_	FIN;DU;V;PST;1;IND	_	_	_	_
+4	skárbbaniin	skárbban	_	_	N;COM;SG	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = 138
+# text = Láhka galgá adnojuvvot álbmotrievtti njuolggadusaid mielde álgoálbmogiid ja veahádagaid birra ja daid mearrádusaid mielde mat leat šiehtaduvvon vieris stáhtaiguin guolásteami birra rádjačázádagain.
+1	Láhka	láhka	_	_	NOM;N;SG	_	_	_	_
+2	galgá	galgat	_	_	3;FIN;SG;PRS;V;IND	_	_	_	_
+3	adnojuvvot	atnit	_	_	PASS;V;NFIN	_	_	_	_
+4	álbmotrievtti	álbmotriekti	_	_	N;GEN;SG	_	_	_	_
+5	njuolggadusaid	njuolggadus	_	_	PL;N;GEN	_	_	_	_
+6	mielde	mielde	_	_	ADP	_	_	_	_
+7	álgoálbmogiid	álgoálbmot	_	_	PL;N;GEN	_	_	_	_
+8	ja	ja	_	_	CONJ	_	_	_	_
+9	veahádagaid	veahádat	_	_	PL;N;GEN	_	_	_	_
+10	birra	birra	_	_	ADP	_	_	_	_
+11	ja	ja	_	_	CONJ	_	_	_	_
+12	daid	dat	_	_	PL;GEN;PRO	_	_	_	_
+13	mearrádusaid	mearrádus	_	_	PL;N;GEN	_	_	_	_
+14	mielde	mielde	_	_	ADP	_	_	_	_
+15	mat	mii	_	_	PL;NOM;PRO	_	_	_	_
+16	leat	leat	_	_	PL;3;FIN;PRS;V;IND	_	_	_	_
+17	šiehtaduvvon	šiehtadit	_	_	PASS;PFV;V;V.PTCP	_	_	_	_
+18	vieris	vieris	_	_	ADJ	_	_	_	_
+19	stáhtaiguin	stáhta	_	_	PL;N;COM	_	_	_	_
+20	guolásteami	guolásteapmi	_	_	N;GEN;SG	_	_	_	_
+21	birra	birra	_	_	ADP	_	_	_	_
+22	rádjačázádagain	rádjačázádat	_	_	PL;N;ESS	_	_	_	_
+23	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1376
+# text = Nuppi geahči dan seammá lávžžis fas biddjojuvvo bađa birra.
+1	Nuppi	nubbi	_	_	PRO;SG;GEN	_	_	_	_
+2	geahči	geahči	_	_	N;SG;NOM	_	_	_	_
+3	dan	dat	_	_	PRO;SG;ESS	_	_	_	_
+4	seammá	seammá	_	_	PRO	_	_	_	_
+5	lávžžis	lávži	_	_	N;SG;ESS	_	_	_	_
+6	fas	fas	_	_	ADV	_	_	_	_
+7	biddjojuvvo	bidjat	_	_	FIN;3;PASS;IND;PRS;SG;V	_	_	_	_
+8	bađa	bahta	_	_	GEN;N;SG	_	_	_	_
+9	birra	birra	_	_	ADP	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = 63
+# text = Maiddái su eadnái ja villjii son attii divrras skeaŋkkaid.
+1	Maiddái	maiddái	_	_	ADV	_	_	_	_
+2	su	son	_	_	3;SG;PRO;GEN	_	_	_	_
+3	eadnái	eadni	_	_	IN+ALL;N;SG	_	_	_	_
+4	ja	ja	_	_	CONJ	_	_	_	_
+5	villjii	viellja	_	_	IN+ALL;N;SG	_	_	_	_
+6	son	son	_	_	3;NOM;SG;PRO	_	_	_	_
+7	attii	addit	_	_	3;FIN;SG;V;PST;IND	_	_	_	_
+8	divrras	divrras	_	_	ADJ	_	_	_	_
+9	skeaŋkkaid	skeaŋka	_	_	PL;N;ACC	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1084
+# text = Hárjánit mánáidgárdái.
+1	Hárjánit	hárjánit	_	_	FIN;IND;PRS;V;1;PL	_	_	_	_
+2	mánáidgárdái	mánáidgárdi	_	_	N;SG;IN+ALL	_	_	_	_
+3	.	.	_	_	_	_	_	_	_
+
+# sent_id = 2299
+# text = Lea go dihtor dušše ođđaáigásaš čállinmášiidna?
+1	Lea	leat	_	_	V;FIN;3;IND;PRS;SG	_	_	_	_
+2	go	go	_	_	PART	_	_	_	_
+3	dihtor	dihtor	_	_	N;SG;NOM	_	_	_	_
+4	dušše	dušše	_	_	ADV	_	_	_	_
+5	ođđaáigásaš	ođđaáigásaš	_	_	ADJ	_	_	_	_
+6	čállinmášiidna	čállinmašiidna	_	_	N;SG;NOM	_	_	_	_
+7	?	?	_	_	_	_	_	_	_
+

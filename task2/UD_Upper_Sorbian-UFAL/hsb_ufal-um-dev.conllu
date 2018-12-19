@@ -1,0 +1,1388 @@
+# sent_id = p267s5
+# text = Wona je jedna z 6 rěčow OZN.
+1	Wona	wón	_	_	PRO;FEM;SG;3;NOM	_	_	_	_
+2	je	być	_	_	FIN;SG;3;V;PRS;IND	_	_	_	_
+3	jedna	jedyn	_	_	FEM;SG;NUM;NOM	_	_	_	_
+4	z	z	_	_	ADP	_	_	_	_
+5	6	6	_	_	NUM	_	_	_	_
+6	rěčow	rěč	_	_	N;GEN;PL;FEM	_	_	_	_
+7	OZN	OZN	_	_	PROPN	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# newpar id = p301
+# sent_id = p301s1
+# text = Španišćina ma dwaj genusaj a numerusaj, ale nima žadyn pad, ze wuwzaćom pronomenow.
+1	Španišćina	španišćina	_	_	N;FEM;NOM;SG	_	_	_	_
+2	ma	měć	_	_	FIN;SG;3;PRS;V;IND	_	_	_	_
+3	dwaj	dwaj	_	_	NUM;MASC;INAN;DU;ACC	_	_	_	_
+4	genusaj	genus	_	_	MASC;INAN;DU;N;ACC	_	_	_	_
+5	a	a	_	_	CONJ	_	_	_	_
+6	numerusaj	numerus	_	_	MASC;INAN;DU;N;ACC	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	ale	ale	_	_	CONJ	_	_	_	_
+9	nima	měć	_	_	FIN;SG;3;PRS;V;IND	_	_	_	_
+10	žadyn	žadyn	_	_	SG;MASC;INAN;DET;ACC	_	_	_	_
+11	pad	pad	_	_	SG;MASC;INAN;N;ACC	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	ze	z	_	_	ADP	_	_	_	_
+14	wuwzaćom	wuwzaće	_	_	NEUT;N;SG;INS	_	_	_	_
+15	pronomenow	pronomen	_	_	GEN;MASC;INAN;N;PL	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# newpar id = p27
+# sent_id = p27s1
+# text = Dalše znamjenja, kotrež tež wjele druhich zastupjerjow nadrjadowanych taksonow charofyta abo chloroplastida wobsedźa, su chloroplasty z chlorophyll a a b jako fotosynteizskej pigmentaj a karotinoidy jako akcesoriske pigmenty, škrob jako rezerwny polysaccharid a bańkowe sćěny ze celulozy.
+1	Dalše	dalši	_	_	FEM;NOM;ADJ;PL	_	_	_	_
+2	znamjenja	znamjenje	_	_	NEUT;N;NOM;PL	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	kotrež	kotryž	_	_	NEUT;NOM;DET;PL	_	_	_	_
+5	tež	tež	_	_	ADV	_	_	_	_
+6	wjele	wjele	_	_	DET	_	_	_	_
+7	druhich	druhi	_	_	PL;GEN;ADJ	_	_	_	_
+8	zastupjerjow	zastupjer	_	_	GEN;MASC;ANIM;N;PL	_	_	_	_
+9	nadrjadowanych	nadrjadowany	_	_	V.PTCP;GEN;MASC;PASS;ADJ;PL	_	_	_	_
+10	taksonow	takson	_	_	GEN;MASC;INAN;N;PL	_	_	_	_
+11	charofyta	charofyta	_	_	N;FEM;NOM;SG	_	_	_	_
+12	abo	abo	_	_	CONJ	_	_	_	_
+13	chloroplastida	chloroplastida	_	_	N;FEM;NOM;SG	_	_	_	_
+14	wobsedźa	wobsedźeć	_	_	FIN;3;PRS;V;IND;PL	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	su	być	_	_	FIN;3;V;PRS;IND;PL	_	_	_	_
+17	chloroplasty	chloroplast	_	_	MASC;INAN;N;NOM;PL	_	_	_	_
+18	z	z	_	_	ADP	_	_	_	_
+19	chlorophyll	chlorophyll	_	_	GEN;MASC;INAN;N;PL	_	_	_	_
+20	a	a	_	_	_	_	_	_	_
+21	a	a	_	_	CONJ	_	_	_	_
+22	b	b	_	_	_	_	_	_	_
+23	jako	jako	_	_	CONJ	_	_	_	_
+24	fotosynteizskej	fotosynteizski	_	_	MASC;INAN;DU;NOM;ADJ	_	_	_	_
+25	pigmentaj	pigment	_	_	MASC;INAN;DU;N;NOM	_	_	_	_
+26	a	a	_	_	CONJ	_	_	_	_
+27	karotinoidy	karotinoid	_	_	MASC;INAN;N;NOM;PL	_	_	_	_
+28	jako	jako	_	_	CONJ	_	_	_	_
+29	akcesoriske	akcesoriski	_	_	MASC;INAN;NOM;ADJ;PL	_	_	_	_
+30	pigmenty	pigment	_	_	MASC;INAN;N;NOM;PL	_	_	_	_
+31	,	,	_	_	_	_	_	_	_
+32	škrob	škrob	_	_	SG;N;MASC;INAN	_	_	_	_
+33	jako	jako	_	_	CONJ	_	_	_	_
+34	rezerwny	rezerwny	_	_	SG;MASC;NOM;ADJ	_	_	_	_
+35	polysaccharid	polysaccharid	_	_	SG;MASC;INAN;N;NOM	_	_	_	_
+36	a	a	_	_	CONJ	_	_	_	_
+37	bańkowe	bańkowy	_	_	PL;FEM;NOM;ADJ	_	_	_	_
+38	sćěny	sćěna	_	_	N;FEM;NOM;PL	_	_	_	_
+39	ze	z	_	_	ADP	_	_	_	_
+40	celulozy	celuloza	_	_	N;GEN;SG;FEM	_	_	_	_
+41	.	.	_	_	_	_	_	_	_
+
+# sent_id = p128s6
+# text = Jeho literarne tworjenje je w cyłku přistupne.
+1	Jeho	jeho	_	_	PSSS;3;DET	_	_	_	_
+2	literarne	literarny	_	_	NEUT;NOM;SG;ADJ	_	_	_	_
+3	tworjenje	tworjenje	_	_	NEUT;N;NOM;SG	_	_	_	_
+4	je	być	_	_	FIN;SG;3;V;PRS;IND	_	_	_	_
+5	w	w	_	_	ADP	_	_	_	_
+6	cyłku	cyłk	_	_	SG;ESS;MASC;INAN;N	_	_	_	_
+7	přistupne	přistupny	_	_	NEUT;V.PTCP;SG;PASS;NOM;ADJ	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = p246s2
+# text = Zwjetša rozpadny region do wjele měšćanskich statow, podobnje kaž w starowěkowskej Grjekskej, pod kralemi, kotřiž nachwilu jedny přećiwo druhemu wojowachu.
+1	Zwjetša	zwjetša	_	_	ADV	_	_	_	_
+2	rozpadny	rozpadnyć	_	_	PST;FIN;SG;3;V;IND	_	_	_	_
+3	region	region	_	_	SG;MASC;INAN;N;NOM	_	_	_	_
+4	do	do	_	_	ADP	_	_	_	_
+5	wjele	wjele	_	_	DET	_	_	_	_
+6	měšćanskich	měšćanski	_	_	GEN;MASC;ADJ;PL	_	_	_	_
+7	statow	stat	_	_	GEN;MASC;INAN;N;PL	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	podobnje	podobnje	_	_	ADV	_	_	_	_
+10	kaž	kaž	_	_	CONJ	_	_	_	_
+11	w	w	_	_	ADP	_	_	_	_
+12	starowěkowskej	starowěkowski	_	_	FEM;SG;ESS;ADJ	_	_	_	_
+13	Grjekskej	Grjekska	_	_	ESS;FEM;SG;PROPN	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	pod	pod	_	_	ADP	_	_	_	_
+16	kralemi	kral	_	_	MASC;ANIM;INS;N;PL	_	_	_	_
+17	,	,	_	_	_	_	_	_	_
+18	kotřiž	kotryž	_	_	MASC;ANIM;NOM;DET;PL	_	_	_	_
+19	nachwilu	nachwilu	_	_	ADV	_	_	_	_
+20	jedny	jedyn	_	_	SG;NUM;MASC;ANIM;NOM	_	_	_	_
+21	přećiwo	přećiwo	_	_	ADP	_	_	_	_
+22	druhemu	druhi	_	_	DAT;SG;MASC;ADJ	_	_	_	_
+23	wojowachu	wojować	_	_	PST;FIN;3;V;IND;PL	_	_	_	_
+24	.	.	_	_	_	_	_	_	_
+
+# newpar id = p246
+# sent_id = p246s1
+# text = Najwjetši dźěl znatych stawiznow Mezopotamiskeje je přez připućowanja po skupinach charakterizowany.
+1	Najwjetši	wulki	_	_	SG;MASC;NOM;RL;ADJ	_	_	_	_
+2	dźěl	dźěl	_	_	SG;MASC;INAN;N;NOM	_	_	_	_
+3	znatych	znaty	_	_	FEM;V.PTCP;GEN;PASS;ADJ;PL	_	_	_	_
+4	stawiznow	stawizna	_	_	N;GEN;PL;FEM	_	_	_	_
+5	Mezopotamiskeje	Mezopotamiska	_	_	GEN;FEM;SG;PROPN	_	_	_	_
+6	je	być	_	_	FIN;SG;3;V;PRS;IND	_	_	_	_
+7	přez	přez	_	_	ADP	_	_	_	_
+8	připućowanja	připućowanje	_	_	NEUT;N;ACC;PL	_	_	_	_
+9	po	po	_	_	ADP	_	_	_	_
+10	skupinach	skupina	_	_	ESS;N;FEM;PL	_	_	_	_
+11	charakterizowany	charakterizowany	_	_	V.PTCP;SG;MASC;PASS;NOM;ADJ	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# newpar id = p283
+# sent_id = p283s1
+# text = Mezopotamiska wikowaše ze susodnymi krajemi.
+1	Mezopotamiska	Mezopotamiska	_	_	FEM;NOM;SG;PROPN	_	_	_	_
+2	wikowaše	wikować	_	_	PST;FIN;SG;3;V;IND	_	_	_	_
+3	ze	z	_	_	ADP	_	_	_	_
+4	susodnymi	susodny	_	_	MASC;INS;ADJ;PL	_	_	_	_
+5	krajemi	kraj	_	_	MASC;INAN;INS;N;PL	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = p116s2
+# text = Temple a jich měšnicy mějachu w Assyriskej wjele mjenje wliwa na hospodarstwo.
+1	Temple	templ	_	_	MASC;INAN;N;NOM;PL	_	_	_	_
+2	a	a	_	_	CONJ	_	_	_	_
+3	jich	jich	_	_	PSSP;3;DET	_	_	_	_
+4	měšnicy	měšnik	_	_	MASC;ANIM;N;NOM;PL	_	_	_	_
+5	mějachu	měć	_	_	PST;FIN;3;V;IND;PL	_	_	_	_
+6	w	w	_	_	ADP	_	_	_	_
+7	Assyriskej	Assyriska	_	_	ESS;FEM;SG;PROPN	_	_	_	_
+8	wjele	wjele	_	_	ADV	_	_	_	_
+9	mjenje	mało	_	_	DET;CMPR	_	_	_	_
+10	wliwa	wliw	_	_	SG;GEN;MASC;INAN;N	_	_	_	_
+11	na	na	_	_	ADP	_	_	_	_
+12	hospodarstwo	hospodarstwo	_	_	NEUT;N;ACC;SG	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# newpar id = p92
+# sent_id = p92s1
+# text = Stolica abo hłowne město je politiski, husto tež stawizniski centrum kraja abo stata a tuž zwjetša sydło najwyšich politiskich institucijow, kaž n. př. knježerstwa, sejma abo monarcha.
+1	Stolica	stolica	_	_	N;FEM;NOM;SG	_	_	_	_
+2	abo	abo	_	_	CONJ	_	_	_	_
+3	hłowne	hłowny	_	_	NEUT;NOM;SG;ADJ	_	_	_	_
+4	město	město	_	_	NEUT;N;NOM;SG	_	_	_	_
+5	je	być	_	_	FIN;SG;3;V;PRS;IND	_	_	_	_
+6	politiski	politiski	_	_	SG;MASC;NOM;ADJ	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	husto	husto	_	_	ADV	_	_	_	_
+9	tež	tež	_	_	ADV	_	_	_	_
+10	stawizniski	stawizniski	_	_	SG;MASC;NOM;ADJ	_	_	_	_
+11	centrum	centrum	_	_	N;MASC;INAN	_	_	_	_
+12	kraja	kraj	_	_	SG;GEN;MASC;INAN;N	_	_	_	_
+13	abo	abo	_	_	CONJ	_	_	_	_
+14	stata	stat	_	_	SG;GEN;MASC;INAN;N	_	_	_	_
+15	a	a	_	_	CONJ	_	_	_	_
+16	tuž	tuž	_	_	ADV	_	_	_	_
+17	zwjetša	zwjetša	_	_	ADV	_	_	_	_
+18	sydło	sydło	_	_	NEUT;N;NOM;SG	_	_	_	_
+19	najwyšich	wysoki	_	_	FEM;GEN;ADJ;RL;PL	_	_	_	_
+20	politiskich	politiski	_	_	PL;GEN;FEM;ADJ	_	_	_	_
+21	institucijow	institucija	_	_	N;GEN;PL;FEM	_	_	_	_
+22	,	,	_	_	_	_	_	_	_
+23	kaž	kaž	_	_	CONJ	_	_	_	_
+24	n	na	_	_	ADP	_	_	_	_
+25	.	.	_	_	_	_	_	_	_
+26	př	přikład	_	_	SG;MASC;INAN;N;ACC	_	_	_	_
+27	.	.	_	_	_	_	_	_	_
+28	knježerstwa	knježerstwo	_	_	NEUT;N;GEN;SG	_	_	_	_
+29	,	,	_	_	_	_	_	_	_
+30	sejma	sejm	_	_	SG;GEN;MASC;INAN;N	_	_	_	_
+31	abo	abo	_	_	CONJ	_	_	_	_
+32	monarcha	monarch	_	_	SG;GEN;MASC;ANIM;N	_	_	_	_
+33	.	.	_	_	_	_	_	_	_
+
+# sent_id = p7s3
+# text = Při połćežkej wodźe, jedyn wodźikowy atom so přez deuterium naruna.
+1	Při	při	_	_	ADP	_	_	_	_
+2	połćežkej	połćežki	_	_	ESS;FEM;SG;ADJ	_	_	_	_
+3	wodźe	woda	_	_	ESS;N;FEM;SG	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	jedyn	jedyn	_	_	SG;NUM;MASC;NOM	_	_	_	_
+6	wodźikowy	wodźikowy	_	_	SG;MASC;NOM;ADJ	_	_	_	_
+7	atom	atom	_	_	SG;MASC;INAN;N;NOM	_	_	_	_
+8	so	so	_	_	ACC;PRO;REFL	_	_	_	_
+9	přez	přez	_	_	ADP	_	_	_	_
+10	deuterium	deuterium	_	_	SG;MASC;INAN;N;ACC	_	_	_	_
+11	naruna	narunać	_	_	FIN;3;PRS;V;IND;PL	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = p28s2
+# text = Wona pod normalnymi wuměnjenjemi je kapalny při temperaturach mjez 0 °C a 100 °C.
+1	Wona	wón	_	_	PRO;FEM;SG;3;NOM	_	_	_	_
+2	pod	pod	_	_	ADP	_	_	_	_
+3	normalnymi	normalny	_	_	PL;INS;ADJ	_	_	_	_
+4	wuměnjenjemi	wuměnjenje	_	_	NEUT;N;PL;INS	_	_	_	_
+5	je	być	_	_	FIN;SG;3;V;PRS;IND	_	_	_	_
+6	kapalny	kapalny	_	_	SG;MASC;NOM;ADJ	_	_	_	_
+7	při	při	_	_	ADP	_	_	_	_
+8	temperaturach	temperatura	_	_	ESS;N;FEM;PL	_	_	_	_
+9	mjez	mjez	_	_	ADP	_	_	_	_
+10	0	0	_	_	NUM	_	_	_	_
+11	°	°	_	_	_	_	_	_	_
+12	C	C	_	_	PROPN	_	_	_	_
+13	a	a	_	_	CONJ	_	_	_	_
+14	100	100	_	_	NUM	_	_	_	_
+15	°	°	_	_	_	_	_	_	_
+16	C	C	_	_	PROPN	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# newpar id = p143
+# sent_id = p143s1
+# text = Kćenja su běłe abo rědko nažołć-běle abo róžojte a wutworja wokołk, kotryž je bóle wjelbowany a mjenje płony hač tón dźiwjeje morchwje.
+1	Kćenja	kćenje	_	_	NEUT;N;NOM;PL	_	_	_	_
+2	su	być	_	_	FIN;3;V;PRS;IND;PL	_	_	_	_
+3	běłe	běły	_	_	NEUT;PL;NOM;ADJ	_	_	_	_
+4	abo	abo	_	_	CONJ	_	_	_	_
+5	rědko	rědko	_	_	ADV	_	_	_	_
+6	nažołć	nažołć	_	_	ADV	_	_	_	_
+7	-	-	_	_	_	_	_	_	_
+8	běle	běły	_	_	NEUT;PL;NOM;ADJ	_	_	_	_
+9	abo	abo	_	_	CONJ	_	_	_	_
+10	róžojte	róžojty	_	_	NEUT;PL;NOM;ADJ	_	_	_	_
+11	a	a	_	_	CONJ	_	_	_	_
+12	wutworja	wutworić	_	_	FIN;3;PRS;V;IND;PL	_	_	_	_
+13	wokołk	wokołk	_	_	SG;MASC;INAN;N;ACC	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	kotryž	kotryž	_	_	SG;MASC;INAN;NOM;DET	_	_	_	_
+16	je	być	_	_	FIN;SG;3;V;PRS;IND	_	_	_	_
+17	bóle	mnoho	_	_	ADV;CMPR	_	_	_	_
+18	wjelbowany	wjelbowany	_	_	V.PTCP;SG;MASC;PASS;NOM;ADJ	_	_	_	_
+19	a	a	_	_	CONJ	_	_	_	_
+20	mjenje	mało	_	_	ADV;CMPR	_	_	_	_
+21	płony	płony	_	_	MASC;NOM;SG;ADJ	_	_	_	_
+22	hač	hač	_	_	CONJ	_	_	_	_
+23	tón	tón	_	_	SG;MASC;INAN;NOM;DET	_	_	_	_
+24	dźiwjeje	dźiwi	_	_	GEN;FEM;SG;ADJ	_	_	_	_
+25	morchwje	morchwja	_	_	N;GEN;SG;FEM	_	_	_	_
+26	.	.	_	_	_	_	_	_	_
+
+# sent_id = p126s4
+# text = Bibliografija wobsahuje wšě wažne serbskorěčne title a rozprawja wo druhorěčnych publikacijach z wobsahowym poćahom k Serbam, k historisce šěroko zapřijatemu serbskemu sydlenskemu rumej, Hornjej a Delnjej Łužicy, a k serbskim wosobinam.
+1	Bibliografija	bibliografija	_	_	N;FEM;NOM;SG	_	_	_	_
+2	wobsahuje	wobsahować	_	_	FIN;SG;3;PRS;V;IND	_	_	_	_
+3	wšě	wšě	_	_	MASC;INAN;DET;ACC;PL	_	_	_	_
+4	wažne	wažny	_	_	MASC;INAN;ACC;ADJ;PL	_	_	_	_
+5	serbskorěčne	serbskorěčny	_	_	MASC;INAN;ACC;ADJ;PL	_	_	_	_
+6	title	titl	_	_	MASC;INAN;N;ACC;PL	_	_	_	_
+7	a	a	_	_	CONJ	_	_	_	_
+8	rozprawja	rozprawjeć	_	_	FIN;SG;3;PRS;V;IND	_	_	_	_
+9	wo	wo	_	_	ADP	_	_	_	_
+10	druhorěčnych	druhorěčny	_	_	ESS;FEM;PL;ADJ	_	_	_	_
+11	publikacijach	publikacija	_	_	ESS;N;FEM;PL	_	_	_	_
+12	z	z	_	_	ADP	_	_	_	_
+13	wobsahowym	wobsahowy	_	_	INS;MASC;SG;ADJ	_	_	_	_
+14	poćahom	poćah	_	_	SG;MASC;INAN;INS;N	_	_	_	_
+15	k	k	_	_	ADP	_	_	_	_
+16	Serbam	Serb	_	_	DAT;PROPN;MASC;ANIM;PL	_	_	_	_
+17	,	,	_	_	_	_	_	_	_
+18	k	k	_	_	ADP	_	_	_	_
+19	historisce	historisce	_	_	ADV	_	_	_	_
+20	šěroko	šěroko	_	_	ADV	_	_	_	_
+21	zapřijatemu	zapřijaty	_	_	DAT;V.PTCP;SG;MASC;PASS;ADJ	_	_	_	_
+22	serbskemu	serbski	_	_	MASC;DAT;SG;ADJ	_	_	_	_
+23	sydlenskemu	sydlenski	_	_	MASC;DAT;SG;ADJ	_	_	_	_
+24	rumej	rum	_	_	DAT;SG;MASC;INAN;N	_	_	_	_
+25	,	,	_	_	_	_	_	_	_
+26	Hornjej	horni	_	_	FEM;DAT;SG;ADJ	_	_	_	_
+27	a	a	_	_	CONJ	_	_	_	_
+28	Delnjej	delni	_	_	FEM;DAT;SG;ADJ	_	_	_	_
+29	Łužicy	Łužica	_	_	FEM;DAT;SG;PROPN	_	_	_	_
+30	,	,	_	_	_	_	_	_	_
+31	a	a	_	_	CONJ	_	_	_	_
+32	k	k	_	_	ADP	_	_	_	_
+33	serbskim	serbski	_	_	PL;FEM;DAT;ADJ	_	_	_	_
+34	wosobinam	wosobina	_	_	N;FEM;DAT;PL	_	_	_	_
+35	.	.	_	_	_	_	_	_	_
+
+# sent_id = p313s4
+# text = Tuta kajkosć je trěbna za rostlinowu transpiraciju.
+1	Tuta	tutón	_	_	FEM;SG;NOM;DET	_	_	_	_
+2	kajkosć	kajkosć	_	_	N;FEM;NOM;SG	_	_	_	_
+3	je	być	_	_	FIN;SG;3;V;PRS;IND	_	_	_	_
+4	trěbna	trěbny	_	_	FEM;SG;NOM;ADJ	_	_	_	_
+5	za	za	_	_	ADP	_	_	_	_
+6	rostlinowu	rostlinowy	_	_	FEM;SG;ACC;ADJ	_	_	_	_
+7	transpiraciju	transpiracija	_	_	N;ACC;SG;FEM	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = p150s3
+# text = Čerstwa woda je najhusćiša při 4 °C; jeje hustosć wotewza, hdyž mjerznje abo so zhrěje.
+1	Čerstwa	čerstwy	_	_	FEM;NOM;SG;ADJ	_	_	_	_
+2	woda	woda	_	_	N;FEM;NOM;SG	_	_	_	_
+3	je	być	_	_	FIN;SG;3;V;PRS;IND	_	_	_	_
+4	najhusćiša	husty	_	_	FEM;SG;NOM;RL;ADJ	_	_	_	_
+5	při	při	_	_	ADP	_	_	_	_
+6	4	4	_	_	NUM	_	_	_	_
+7	°	°	_	_	_	_	_	_	_
+8	C	c	_	_	PROPN	_	_	_	_
+9	;	;	_	_	_	_	_	_	_
+10	jeje	jeje	_	_	PSSS;3;DET	_	_	_	_
+11	hustosć	hustosć	_	_	N;FEM;NOM;SG	_	_	_	_
+12	wotewza	wotewzać	_	_	FIN;SG;3;PRS;V;IND	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	hdyž	hdyž	_	_	CONJ	_	_	_	_
+15	mjerznje	mjerznyć	_	_	FIN;SG;3;PRS;V;IND	_	_	_	_
+16	abo	abo	_	_	CONJ	_	_	_	_
+17	so	so	_	_	ACC;PRO;REFL	_	_	_	_
+18	zhrěje	zhrěć	_	_	FIN;SG;3;PRS;V;IND	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# sent_id = p203s2
+# text = Babylon připadny w lěće 31 krala Šamšu-ditana k Hetitam pod Muršili I.
+1	Babylon	babylon	_	_	SG;MASC;INAN;N;NOM	_	_	_	_
+2	připadny	připadnyć	_	_	PST;FIN;SG;3;V;IND	_	_	_	_
+3	w	w	_	_	ADP	_	_	_	_
+4	lěće	lěto	_	_	ESS;N;NEUT;SG	_	_	_	_
+5	31	31	_	_	NUM	_	_	_	_
+6	krala	kral	_	_	SG;GEN;MASC;ANIM;N	_	_	_	_
+7	Šamšu	Šamšu	_	_	SG;PROPN;MASC;ANIM;NOM	_	_	_	_
+8	-	-	_	_	_	_	_	_	_
+9	ditana	ditan	_	_	SG;PROPN;GEN;MASC;ANIM	_	_	_	_
+10	k	k	_	_	ADP	_	_	_	_
+11	Hetitam	Hetit	_	_	DAT;PROPN;MASC;ANIM;PL	_	_	_	_
+12	pod	pod	_	_	ADP	_	_	_	_
+13	Muršili	Muršili	_	_	SG;PROPN;ESS;MASC;ANIM	_	_	_	_
+14	I	I	_	_	NUM	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = p209s2
+# text = Wuměna datow mjezy jednotliwymi ličakami (serwer, jendź. Server) přewjedźe so z pomocu technisce normowanych internetowych protokolow.
+1	Wuměna	wuměna	_	_	N;FEM;NOM;SG	_	_	_	_
+2	datow	dataja	_	_	NEUT;N;GEN;PL	_	_	_	_
+3	mjezy	mjez	_	_	ADP	_	_	_	_
+4	jednotliwymi	jednotliwy	_	_	PL;INS;MASC;ADJ	_	_	_	_
+5	ličakami	ličak	_	_	MASC;INAN;INS;N;PL	_	_	_	_
+6	(	(	_	_	_	_	_	_	_
+7	serwer	serwer	_	_	SG;MASC;INAN;N;NOM	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	jendź	jenž	_	_	ADV	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+11	Server	server	_	_	_	_	_	_	_
+12	)	)	_	_	_	_	_	_	_
+13	přewjedźe	přewjesć	_	_	FIN;SG;3;PRS;V;IND	_	_	_	_
+14	so	so	_	_	ACC;PRO;REFL	_	_	_	_
+15	z	z	_	_	ADP	_	_	_	_
+16	pomocu	pomoc	_	_	N;FEM;SG;INS	_	_	_	_
+17	technisce	technisce	_	_	ADV	_	_	_	_
+18	normowanych	normowany	_	_	V.PTCP;GEN;MASC;PASS;ADJ;PL	_	_	_	_
+19	internetowych	internetowy	_	_	GEN;MASC;ADJ;PL	_	_	_	_
+20	protokolow	protokol	_	_	GEN;MASC;INAN;N;PL	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# sent_id = p309s3
+# text = W zažnym 19. lětstotku wotući pod wliwom rozswětlerstwa a romantiki kaž tež narodneho wozrodźenja pola druhich słowjanskich ludow tež narodne wědomje Łužiskich Serbow. ...
+1	W	w	_	_	ADP	_	_	_	_
+2	zažnym	zažny	_	_	SG;ESS;MASC;ADJ	_	_	_	_
+3	19	19	_	_	NUM	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+5	lětstotku	lětstotk	_	_	SG;ESS;MASC;INAN;N	_	_	_	_
+6	wotući	wotućić	_	_	PST;FIN;SG;3;V;IND	_	_	_	_
+7	pod	pod	_	_	ADP	_	_	_	_
+8	wliwom	wliw	_	_	SG;MASC;INAN;INS;N	_	_	_	_
+9	rozswětlerstwa	rozswětlerstwo	_	_	NEUT;N;GEN;SG	_	_	_	_
+10	a	a	_	_	CONJ	_	_	_	_
+11	romantiki	romantika	_	_	N;GEN;SG;FEM	_	_	_	_
+12	kaž	kaž	_	_	CONJ	_	_	_	_
+13	tež	tež	_	_	ADV	_	_	_	_
+14	narodneho	narodny	_	_	NEUT;SG;GEN;ADJ	_	_	_	_
+15	wozrodźenja	wozrodźenje	_	_	NEUT;N;GEN;SG	_	_	_	_
+16	pola	pola	_	_	ADP	_	_	_	_
+17	druhich	druhi	_	_	GEN;MASC;ADJ;PL	_	_	_	_
+18	słowjanskich	słowjanski	_	_	GEN;MASC;ADJ;PL	_	_	_	_
+19	ludow	lud	_	_	GEN;MASC;INAN;N;PL	_	_	_	_
+20	tež	tež	_	_	ADV	_	_	_	_
+21	narodne	narodny	_	_	NEUT;SG;NOM;ADJ	_	_	_	_
+22	wědomje	wědomje	_	_	NEUT;N;NOM;SG	_	_	_	_
+23	Łužiskich	łužiski	_	_	GEN;MASC;ADJ;PL	_	_	_	_
+24	Serbow	Serb	_	_	PROPN;GEN;MASC;ANIM;PL	_	_	_	_
+25	.	.	_	_	_	_	_	_	_
+26	.	.	_	_	_	_	_	_	_
+27	.	.	_	_	_	_	_	_	_
+28	.	.	_	_	_	_	_	_	_
+
+# newpar id = p17
+# sent_id = p17s1
+# text = W Etiopiskej so rěči 84 rěčow.
+1	W	w	_	_	ADP	_	_	_	_
+2	Etiopiskej	Etiopiska	_	_	ESS;FEM;SG;PROPN	_	_	_	_
+3	so	so	_	_	ACC;PRO;REFL	_	_	_	_
+4	rěči	rěčeć	_	_	FIN;SG;3;PRS;V;IND	_	_	_	_
+5	84	84	_	_	NUM	_	_	_	_
+6	rěčow	rěč	_	_	N;GEN;PL;FEM	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = p86s9
+# text = Wupožčenja zwonka domu su za wědomostne a powołanske zaměry wotpowědnje powšitkownje za biblioteki płaćiwym postajenjam móžne.
+1	Wupožčenja	wupožčenje	_	_	NEUT;N;NOM;PL	_	_	_	_
+2	zwonka	zwonka	_	_	ADV	_	_	_	_
+3	domu	dom	_	_	SG;GEN;MASC;INAN;N	_	_	_	_
+4	su	być	_	_	FIN;3;V;PRS;IND;PL	_	_	_	_
+5	za	za	_	_	ADP	_	_	_	_
+6	wědomostne	wědomostny	_	_	MASC;INAN;ACC;ADJ;PL	_	_	_	_
+7	a	a	_	_	CONJ	_	_	_	_
+8	powołanske	powołanski	_	_	MASC;INAN;ACC;ADJ;PL	_	_	_	_
+9	zaměry	zaměr	_	_	MASC;INAN;N;ACC;PL	_	_	_	_
+10	wotpowědnje	wotpowědnje	_	_	ADP	_	_	_	_
+11	powšitkownje	powšitkownje	_	_	ADV	_	_	_	_
+12	za	za	_	_	ADP	_	_	_	_
+13	biblioteki	biblioteka	_	_	N;GEN;SG;FEM	_	_	_	_
+14	płaćiwym	płaćiwy	_	_	NEUT;PL;DAT;ADJ	_	_	_	_
+15	postajenjam	postajenje	_	_	NEUT;N;DAT;PL	_	_	_	_
+16	móžne	móžny	_	_	NEUT;PL;NOM;ADJ	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = p74s4
+# text = Při krytosymjenjakach su gametofyty a z tym tež anteridije a archegonije ekstremnje redukowane.
+1	Při	při	_	_	ADP	_	_	_	_
+2	krytosymjenjakach	krytosymjenjak	_	_	ESS;MASC;INAN;N;PL	_	_	_	_
+3	su	być	_	_	FIN;3;V;PRS;IND;PL	_	_	_	_
+4	gametofyty	gametofyt	_	_	MASC;INAN;N;NOM;PL	_	_	_	_
+5	a	a	_	_	CONJ	_	_	_	_
+6	z	z	_	_	ADP	_	_	_	_
+7	tym	to	_	_	NEUT;PRO;SG;INS	_	_	_	_
+8	tež	tež	_	_	ADV	_	_	_	_
+9	anteridije	anteridija	_	_	N;FEM;NOM;PL	_	_	_	_
+10	a	a	_	_	CONJ	_	_	_	_
+11	archegonije	archegonija	_	_	N;FEM;NOM;PL	_	_	_	_
+12	ekstremnje	ekstremnje	_	_	ADV	_	_	_	_
+13	redukowane	redukowany	_	_	PST;FEM;V.PTCP;PASS;NOM;ADJ;PL	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# newpar id = p175
+# sent_id = p175s1
+# text = Woda je jara dobre rozpušćadło, a rozpušćuje wjace družinow substancow, kaž wšelake sele a cokory, a wolóžuje swoje chemiske wzajomne skutkowanje, kotrež pomha kompleksne matabolizmy.
+1	Woda	woda	_	_	N;FEM;NOM;SG	_	_	_	_
+2	je	być	_	_	FIN;SG;3;V;PRS;IND	_	_	_	_
+3	jara	jara	_	_	ADV	_	_	_	_
+4	dobre	dobry	_	_	NEUT;NOM;SG;ADJ	_	_	_	_
+5	rozpušćadło	rozpušćadło	_	_	NEUT;N;NOM;SG	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	a	a	_	_	CONJ	_	_	_	_
+8	rozpušćuje	rozpušćić	_	_	FIN;SG;3;PRS;V;IND	_	_	_	_
+9	wjace	wjele	_	_	DET;CMPR	_	_	_	_
+10	družinow	družina	_	_	N;GEN;PL;FEM	_	_	_	_
+11	substancow	substanca	_	_	N;GEN;PL;FEM	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	kaž	kaž	_	_	CONJ	_	_	_	_
+14	wšelake	wšelaki	_	_	PL;ACC;FEM;ADJ	_	_	_	_
+15	sele	sel	_	_	N;ACC;PL;FEM	_	_	_	_
+16	a	a	_	_	CONJ	_	_	_	_
+17	cokory	cokor	_	_	MASC;INAN;N;ACC;PL	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	a	a	_	_	CONJ	_	_	_	_
+20	wolóžuje	wolóžować	_	_	FIN;SG;3;PRS;V;IND	_	_	_	_
+21	swoje	swój	_	_	NEUT;SG;DET;ACC;REFL	_	_	_	_
+22	chemiske	chemiski	_	_	NEUT;ACC;SG;ADJ	_	_	_	_
+23	wzajomne	wzajomny	_	_	NEUT;ACC;SG;ADJ	_	_	_	_
+24	skutkowanje	skutkowanje	_	_	NEUT;N;ACC;SG	_	_	_	_
+25	,	,	_	_	_	_	_	_	_
+26	kotrež	kotryž	_	_	NEUT;SG;NOM;DET	_	_	_	_
+27	pomha	pomhać	_	_	FIN;SG;3;PRS;V;IND	_	_	_	_
+28	kompleksne	kompleksny	_	_	PL;ACC;MASC;ADJ	_	_	_	_
+29	matabolizmy	matabolizm	_	_	MASC;INAN;N;ACC;PL	_	_	_	_
+30	.	.	_	_	_	_	_	_	_
+
+# newpar id = p227
+# sent_id = p227s1
+# text = Z [[Wobraz:Feather.svg|thumb|100px|Wopisanje]] so postaje šěrokosć wobrazki do 100 pikselow.
+1	Z	z	_	_	ADP	_	_	_	_
+2	[	[	_	_	_	_	_	_	_
+3	[	[	_	_	_	_	_	_	_
+4	Wobraz	wobraz	_	_	SG;MASC;INAN;N;NOM	_	_	_	_
+5	:	:	_	_	_	_	_	_	_
+6	Feather	feather	_	_	_	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+8	svg	svg	_	_	_	_	_	_	_
+9	|	|	_	_	_	_	_	_	_
+10	thumb	thumb	_	_	_	_	_	_	_
+11	|	|	_	_	_	_	_	_	_
+12	100px	100px	_	_	_	_	_	_	_
+13	|	|	_	_	_	_	_	_	_
+14	Wopisanje	wopisanje	_	_	NEUT;N;NOM;SG	_	_	_	_
+15	]	]	_	_	_	_	_	_	_
+16	]	]	_	_	_	_	_	_	_
+17	so	so	_	_	ACC;PRO;REFL	_	_	_	_
+18	postaje	postać	_	_	FIN;SG;3;PRS;V;IND	_	_	_	_
+19	šěrokosć	šěrokosć	_	_	N;FEM;NOM;SG	_	_	_	_
+20	wobrazki	wobrazk	_	_	MASC;INAN;N;NOM;PL	_	_	_	_
+21	do	do	_	_	ADP	_	_	_	_
+22	100	100	_	_	NUM	_	_	_	_
+23	pikselow	piksel	_	_	GEN;MASC;INAN;N;PL	_	_	_	_
+24	.	.	_	_	_	_	_	_	_
+
+# sent_id = p86s20
+# text = Wužiwar so posłužić nastajeneho kopěraka hdyž zakónske postajenja awtorskeho prawa wobkedźbuje.
+1	Wužiwar	wužiwar	_	_	SG;MASC;ANIM;N;NOM	_	_	_	_
+2	so	so	_	_	ACC;PRO;REFL	_	_	_	_
+3	posłužić	posłužić	_	_	V;NFIN	_	_	_	_
+4	nastajeneho	nastajeny	_	_	V.PTCP;SG;GEN;MASC;PASS;ADJ	_	_	_	_
+5	kopěraka	kopěrak	_	_	SG;GEN;MASC;INAN;N	_	_	_	_
+6	hdyž	hdyž	_	_	CONJ	_	_	_	_
+7	zakónske	zakónski	_	_	NEUT;PL;ACC;ADJ	_	_	_	_
+8	postajenja	postajenje	_	_	NEUT;N;ACC;PL	_	_	_	_
+9	awtorskeho	awtorski	_	_	NEUT;GEN;SG;ADJ	_	_	_	_
+10	prawa	prawo	_	_	NEUT;N;GEN;SG	_	_	_	_
+11	wobkedźbuje	wobkedźbować	_	_	FIN;SG;3;PRS;V;IND	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = p227s2
+# text = Awtomatisce so wuličuje wysokosć wobrazki po propociju bokow.
+1	Awtomatisce	awtomatisce	_	_	ADV	_	_	_	_
+2	so	so	_	_	ACC;PRO;REFL	_	_	_	_
+3	wuličuje	wuličić	_	_	FIN;SG;3;PRS;V;IND	_	_	_	_
+4	wysokosć	wysokosć	_	_	N;FEM;NOM;SG	_	_	_	_
+5	wobrazki	wobrazk	_	_	SG;GEN;MASC;INAN;N	_	_	_	_
+6	po	po	_	_	ADP	_	_	_	_
+7	propociju	proporcija	_	_	N;ACC;SG;FEM	_	_	_	_
+8	bokow	bok	_	_	GEN;MASC;INAN;N;PL	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# newpar id = p66
+# sent_id = p66s1
+# text = Indiska republika je rozdźělena na 28 zwjazkowych statow a 7 teritorijow.
+1	Indiska	indiski	_	_	FEM;NOM;SG;ADJ	_	_	_	_
+2	republika	republika	_	_	N;FEM;NOM;SG	_	_	_	_
+3	je	być	_	_	FIN;SG;3;V;PRS;IND	_	_	_	_
+4	rozdźělena	rozdźěleny	_	_	FEM;V.PTCP;SG;PASS;NOM;ADJ	_	_	_	_
+5	na	na	_	_	ADP	_	_	_	_
+6	28	28	_	_	NUM	_	_	_	_
+7	zwjazkowych	zwjazkowy	_	_	PL;GEN;MASC;ADJ	_	_	_	_
+8	statow	stat	_	_	GEN;MASC;INAN;N;PL	_	_	_	_
+9	a	a	_	_	CONJ	_	_	_	_
+10	7	7	_	_	NUM	_	_	_	_
+11	teritorijow	teritorij	_	_	GEN;MASC;INAN;N;PL	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# newpar id = p127
+# sent_id = p127s5
+# text = Wulku lěpšinu měješe wobsydstwo na pódźe - wono bě bjezdawkowe.
+1	Wulku	wulki	_	_	ACC;FEM;SG;ADJ	_	_	_	_
+2	lěpšinu	lěpšina	_	_	N;ACC;SG;FEM	_	_	_	_
+3	měješe	měć	_	_	PST;FIN;SG;3;V;IND	_	_	_	_
+4	wobsydstwo	wobsydstwo	_	_	NEUT;N;NOM;SG	_	_	_	_
+5	na	na	_	_	ADP	_	_	_	_
+6	pódźe	póda	_	_	ESS;N;FEM;SG	_	_	_	_
+7	-	-	_	_	_	_	_	_	_
+8	wono	wón	_	_	NEUT;PRO;SG;3;NOM	_	_	_	_
+9	bě	być	_	_	PST;FIN;SG;3;V;IND	_	_	_	_
+10	bjezdawkowe	bjezdawkowy	_	_	NEUT;NOM;SG;ADJ	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = p248s4
+# text = prěnje cikuraty nastawaja.
+1	prěnje	prěni	_	_	MASC;INAN;NOM;ADJ;PL	_	_	_	_
+2	cikuraty	cikurat	_	_	MASC;INAN;N;NOM;PL	_	_	_	_
+3	nastawaja	nastawać	_	_	FIN;3;PRS;V;IND;PL	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = p45s2
+# text = Pismowy wobraz husto starše formy dołho wobchowuje, kotrež su so w rěčanej rěči hižo změnili.
+1	Pismowy	pismowy	_	_	SG;MASC;NOM;ADJ	_	_	_	_
+2	wobraz	wobraz	_	_	SG;MASC;INAN;N;NOM	_	_	_	_
+3	husto	husto	_	_	ADV	_	_	_	_
+4	starše	stary	_	_	FEM;CMPR;ACC;ADJ;PL	_	_	_	_
+5	formy	forma	_	_	N;ACC;PL;FEM	_	_	_	_
+6	dołho	dołho	_	_	ADV	_	_	_	_
+7	wobchowuje	wobchować	_	_	FIN;SG;3;PRS;V;IND	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	kotrež	kotryž	_	_	FEM;NOM;DET;PL	_	_	_	_
+10	su	być	_	_	FIN;3;V;PRS;IND;PL	_	_	_	_
+11	so	so	_	_	ACC;PRO;REFL	_	_	_	_
+12	w	w	_	_	ADP	_	_	_	_
+13	rěčanej	rěčany	_	_	FEM;V.PTCP;SG;ESS;PASS;ADJ	_	_	_	_
+14	rěči	rěč	_	_	ESS;N;FEM;SG	_	_	_	_
+15	hižo	hižo	_	_	ADV	_	_	_	_
+16	změnili	změnić	_	_	PST;FEM;V.PTCP;ACT;V;PL	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# newpar id = p334
+# sent_id = p334s1
+# text = Historisce so je definicija zapřijeća rostlina přeměniła.
+1	Historisce	historisce	_	_	ADV	_	_	_	_
+2	so	so	_	_	ACC;PRO;REFL	_	_	_	_
+3	je	być	_	_	FIN;SG;3;V;PRS;IND	_	_	_	_
+4	definicija	definicija	_	_	N;FEM;NOM;SG	_	_	_	_
+5	zapřijeća	zapřijeće	_	_	NEUT;N;GEN;SG	_	_	_	_
+6	rostlina	rostlina	_	_	N;FEM;NOM;SG	_	_	_	_
+7	přeměniła	přeměnić	_	_	PST;FEM;SG;V.PTCP;ACT;V	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# newpar id = p77
+# sent_id = p77s1
+# text = Zjawny přednošk w Serbskim instituće na Dwórnišćowej 6 (PD dr. Sönke Friedreich, ISGV Drježdźany): "Vom Urlaub erzählen. Zur Erfahrungsgeschichte des Reisens in der DDR"
+1	Zjawny	zjawny	_	_	SG;MASC;NOM;ADJ	_	_	_	_
+2	přednošk	přednošk	_	_	SG;MASC;INAN;N;NOM	_	_	_	_
+3	w	w	_	_	ADP	_	_	_	_
+4	Serbskim	serbski	_	_	ESS;MASC;SG;ADJ	_	_	_	_
+5	instituće	institut	_	_	SG;ESS;MASC;INAN;N	_	_	_	_
+6	na	na	_	_	ADP	_	_	_	_
+7	Dwórnišćowej	dwórnišćowy	_	_	ESS;FEM;SG;ADJ	_	_	_	_
+8	6	6	_	_	NUM	_	_	_	_
+9	(	(	_	_	_	_	_	_	_
+10	PD	pd	_	_	_	_	_	_	_
+11	dr	dr	_	_	SG;MASC;ANIM;N;NOM	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+13	Sönke	Sönke	_	_	SG;PROPN;MASC;ANIM;NOM	_	_	_	_
+14	Friedreich	Friedreich	_	_	SG;PROPN;MASC;ANIM;NOM	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	ISGV	ISGV	_	_	NEUT;SG;PROPN;NOM	_	_	_	_
+17	Drježdźany	Drježdźany	_	_	NOM;PROPN	_	_	_	_
+18	)	)	_	_	_	_	_	_	_
+19	:	:	_	_	_	_	_	_	_
+20	"	"	_	_	_	_	_	_	_
+21	Vom	vom	_	_	_	_	_	_	_
+22	Urlaub	urlaub	_	_	_	_	_	_	_
+23	erzählen	erzählen	_	_	_	_	_	_	_
+24	.	.	_	_	_	_	_	_	_
+25	Zur	zur	_	_	_	_	_	_	_
+26	Erfahrungsgeschichte	erfahrungsgeschichte	_	_	_	_	_	_	_
+27	des	des	_	_	_	_	_	_	_
+28	Reisens	reisens	_	_	_	_	_	_	_
+29	in	in	_	_	_	_	_	_	_
+30	der	der	_	_	_	_	_	_	_
+31	DDR	ddr	_	_	_	_	_	_	_
+32	"	"	_	_	_	_	_	_	_
+
+# newpar id = p160
+# sent_id = p160s1
+# text = Jeli nastawk ma wjace hač jedyn njedostatk, wužiwaj prošu předłohu {{Rq}}.
+1	Jeli	jeli	_	_	CONJ	_	_	_	_
+2	nastawk	nastawk	_	_	SG;MASC;INAN;N;NOM	_	_	_	_
+3	ma	měć	_	_	FIN;SG;3;PRS;V;IND	_	_	_	_
+4	wjace	wjele	_	_	ADV;CMPR	_	_	_	_
+5	hač	hač	_	_	CONJ	_	_	_	_
+6	jedyn	jedyn	_	_	SG;NUM;MASC;INAN;ACC	_	_	_	_
+7	njedostatk	njedostatk	_	_	SG;MASC;INAN;N;ACC	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	wužiwaj	wužiwać	_	_	FIN;SG;IMP;2;V	_	_	_	_
+10	prošu	prosyć	_	_	FIN;SG;PRS;1;V;IND	_	_	_	_
+11	předłohu	předłoha	_	_	N;ACC;SG;FEM	_	_	_	_
+12	{	{	_	_	_	_	_	_	_
+13	{	{	_	_	_	_	_	_	_
+14	Rq	Rq	_	_	PROPN	_	_	_	_
+15	}	}	_	_	_	_	_	_	_
+16	}	}	_	_	_	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = p196s3
+# text = Zasady a směrnicy projekta móžeš na stronje Wikipedija:Prawidła čitać.
+1	Zasady	zasada	_	_	N;ACC;PL;FEM	_	_	_	_
+2	a	a	_	_	CONJ	_	_	_	_
+3	směrnicy	směrnica	_	_	N;ACC;PL;FEM	_	_	_	_
+4	projekta	projekt	_	_	SG;GEN;MASC;INAN;N	_	_	_	_
+5	móžeš	móc	_	_	FIN;SG;PRS;2;V;IND	_	_	_	_
+6	na	na	_	_	ADP	_	_	_	_
+7	stronje	strona	_	_	ESS;N;FEM;SG	_	_	_	_
+8	Wikipedija	Wikipedija	_	_	FEM;NOM;SG;PROPN	_	_	_	_
+9	:	:	_	_	_	_	_	_	_
+10	Prawidła	prawidło	_	_	NEUT;N;NOM;PL	_	_	_	_
+11	čitać	čitać	_	_	NFIN;V	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# newpar id = p146
+# sent_id = p146s1
+# text = Tropiski stat mjezuje z Gowu na sewjerozapadźe, Maharaštru na sewjeru, Andrapradešom na wuchodźe, Tamil Nadu na juhowuchodźe a Keralu na juhozapadźe.
+1	Tropiski	tropiski	_	_	SG;MASC;NOM;ADJ	_	_	_	_
+2	stat	stat	_	_	SG;MASC;INAN;N;NOM	_	_	_	_
+3	mjezuje	mjezować	_	_	FIN;SG;3;PRS;V;IND	_	_	_	_
+4	z	z	_	_	ADP	_	_	_	_
+5	Gowu	Gowa	_	_	FEM;INS;SG;PROPN	_	_	_	_
+6	na	na	_	_	ADP	_	_	_	_
+7	sewjerozapadźe	sewjerozapad	_	_	SG;ESS;MASC;INAN;N	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	Maharaštru	Maharaštra	_	_	FEM;INS;SG;PROPN	_	_	_	_
+10	na	na	_	_	ADP	_	_	_	_
+11	sewjeru	sewjer	_	_	SG;ESS;MASC;INAN;N	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	Andrapradešom	Andrapradeš	_	_	SG;PROPN;MASC;INAN;INS	_	_	_	_
+14	na	na	_	_	ADP	_	_	_	_
+15	wuchodźe	wuchod	_	_	SG;ESS;MASC;INAN;N	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	Tamil	Tamil	_	_	PROPN	_	_	_	_
+18	Nadu	Nadu	_	_	NEUT;SG;PROPN	_	_	_	_
+19	na	na	_	_	ADP	_	_	_	_
+20	juhowuchodźe	juhowuchod	_	_	SG;ESS;MASC;INAN;N	_	_	_	_
+21	a	a	_	_	CONJ	_	_	_	_
+22	Keralu	Kerala	_	_	FEM;INS;SG;PROPN	_	_	_	_
+23	na	na	_	_	ADP	_	_	_	_
+24	juhozapadźe	juhozapad	_	_	SG;ESS;MASC;INAN;N	_	_	_	_
+25	.	.	_	_	_	_	_	_	_
+
+# sent_id = p263s5
+# text = Historikarjo njejsu sej wěsći, kak dołho so tuta zběrka zakonjow wobkedźbowaše.
+1	Historikarjo	historikar	_	_	MASC;ANIM;N;NOM;PL	_	_	_	_
+2	njejsu	być	_	_	FIN;3;V;PRS;NEG;IND;PL	_	_	_	_
+3	sej	so	_	_	PRO;DAT;REFL	_	_	_	_
+4	wěsći	wěsći	_	_	MASC;ANIM;NOM;ADJ;PL	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	kak	kak	_	_	ADV	_	_	_	_
+7	dołho	dołho	_	_	ADV	_	_	_	_
+8	so	so	_	_	ACC;PRO;REFL	_	_	_	_
+9	tuta	tutón	_	_	FEM;SG;NOM;DET	_	_	_	_
+10	zběrka	zběrka	_	_	N;FEM;NOM;SG	_	_	_	_
+11	zakonjow	zakoń	_	_	GEN;MASC;INAN;N;PL	_	_	_	_
+12	wobkedźbowaše	wobkedźbować	_	_	PST;FIN;SG;3;V;IND	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# newpar id = p251
+# sent_id = p251s1
+# text = Konsonant c so jako k wurjekuje.
+1	Konsonant	konsonant	_	_	SG;MASC;INAN;N;NOM	_	_	_	_
+2	c	c	_	_	_	_	_	_	_
+3	so	so	_	_	ACC;PRO;REFL	_	_	_	_
+4	jako	jako	_	_	CONJ	_	_	_	_
+5	k	k	_	_	_	_	_	_	_
+6	wurjekuje	wurjekować	_	_	FIN;SG;3;PRS;V;IND	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = p61s2
+# text = Jako element so zjewi nimale jenož w molekularnej formje, a to jako O2, ale tež O3 (ocon).
+1	Jako	jako	_	_	CONJ	_	_	_	_
+2	element	element	_	_	SG;MASC;INAN;N;NOM	_	_	_	_
+3	so	so	_	_	ACC;PRO;REFL	_	_	_	_
+4	zjewi	zjewić	_	_	FIN;SG;3;PRS;V;IND	_	_	_	_
+5	nimale	nimale	_	_	ADV	_	_	_	_
+6	jenož	jenož	_	_	PART	_	_	_	_
+7	w	w	_	_	ADP	_	_	_	_
+8	molekularnej	molekularny	_	_	ESS;FEM;SG;ADJ	_	_	_	_
+9	formje	forma	_	_	ESS;N;FEM;SG	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	a	a	_	_	CONJ	_	_	_	_
+12	to	to	_	_	NEUT;PRO;SG;NOM	_	_	_	_
+13	jako	jako	_	_	CONJ	_	_	_	_
+14	O2	o2	_	_	_	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	ale	ale	_	_	CONJ	_	_	_	_
+17	tež	tež	_	_	ADV	_	_	_	_
+18	O3	o3	_	_	_	_	_	_	_
+19	(	(	_	_	_	_	_	_	_
+20	ocon	ocon	_	_	SG;MASC;INAN;N;NOM	_	_	_	_
+21	)	)	_	_	_	_	_	_	_
+22	.	.	_	_	_	_	_	_	_
+
+# sent_id = p358s2
+# text = Po tym zo wona bě přez pjatnaće lětow Ludowemu zwjazkej podstajena, wróćiła w lětu 1935 do Němskeho reicha.
+1	Po	po	_	_	ADP	_	_	_	_
+2	tym	to	_	_	NEUT;PRO;SG;ESS	_	_	_	_
+3	zo	zo	_	_	CONJ	_	_	_	_
+4	wona	wón	_	_	PRO;FEM;SG;3;NOM	_	_	_	_
+5	bě	być	_	_	PST;FIN;SG;3;V;IND	_	_	_	_
+6	přez	přez	_	_	ADP	_	_	_	_
+7	pjatnaće	pjatnaće	_	_	NUM	_	_	_	_
+8	lětow	lěto	_	_	NEUT;N;GEN;PL	_	_	_	_
+9	Ludowemu	ludowy	_	_	DAT;SG;MASC;ADJ	_	_	_	_
+10	zwjazkej	zwjazk	_	_	DAT;SG;MASC;INAN;N	_	_	_	_
+11	podstajena	podstajeny	_	_	FEM;V.PTCP;SG;PASS;NOM;ADJ	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	wróćiła	wróćić	_	_	PST;FEM;SG;V.PTCP;ACT;V	_	_	_	_
+14	w	w	_	_	ADP	_	_	_	_
+15	lětu	lěto	_	_	ESS;N;NEUT;SG	_	_	_	_
+16	1935	1935	_	_	NUM	_	_	_	_
+17	do	do	_	_	ADP	_	_	_	_
+18	Němskeho	němski	_	_	SG;GEN;MASC;ADJ	_	_	_	_
+19	reicha	reich	_	_	SG;GEN;MASC;INAN;N	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# newpar id = p344
+# sent_id = p344s1
+# text = Přiběrace žadanja na organizaciju a tež templowe hospodarstwo wuměnjachu a spěchowaštej wuwiwanje pisma.
+1	Přiběrace	přiběracy	_	_	NEUT;V.PTCP;ACT;PRS;NOM;ADJ;PL	_	_	_	_
+2	žadanja	žadanje	_	_	NEUT;N;NOM;PL	_	_	_	_
+3	na	na	_	_	ADP	_	_	_	_
+4	organizaciju	organizacija	_	_	N;ACC;SG;FEM	_	_	_	_
+5	a	a	_	_	CONJ	_	_	_	_
+6	tež	tež	_	_	ADV	_	_	_	_
+7	templowe	templowy	_	_	NEUT;SG;NOM;ADJ	_	_	_	_
+8	hospodarstwo	hospodarstwo	_	_	NEUT;N;NOM;SG	_	_	_	_
+9	wuměnjachu	wuměnjeć	_	_	PST;FIN;3;V;IND;PL	_	_	_	_
+10	a	a	_	_	CONJ	_	_	_	_
+11	spěchowaštej	spěchować	_	_	PST;FIN;3;DU;V;IND	_	_	_	_
+12	wuwiwanje	wuwiwanje	_	_	NEUT;N;ACC;SG	_	_	_	_
+13	pisma	pismo	_	_	NEUT;N;GEN;SG	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = p346s3
+# text = Přez Mnichow běža rěka Isar.
+1	Přez	přez	_	_	ADP	_	_	_	_
+2	Mnichow	Mnichow	_	_	SG;PROPN;MASC;INAN;ACC	_	_	_	_
+3	běža	běžeć	_	_	FIN;SG;3;PRS;V;IND	_	_	_	_
+4	rěka	rěka	_	_	N;FEM;NOM;SG	_	_	_	_
+5	Isar	Isar	_	_	SG;PROPN;MASC;INAN;NOM	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = p386s3
+# text = 631 Serbja so jako »Surbi« w chronice Fredegara prěni króć pisomnje mjenuja.
+1	631	631	_	_	NUM	_	_	_	_
+2	Serbja	Serb	_	_	MASC;PROPN;PL;ANIM;NOM	_	_	_	_
+3	so	so	_	_	REFL;ACC;PRO	_	_	_	_
+4	jako	jako	_	_	CONJ	_	_	_	_
+5	»	»	_	_	_	_	_	_	_
+6	Surbi	Surbi	_	_	MASC;PROPN;PL;ANIM;NOM	_	_	_	_
+7	«	«	_	_	_	_	_	_	_
+8	w	w	_	_	ADP	_	_	_	_
+9	chronice	chronika	_	_	N;FEM;ESS;SG	_	_	_	_
+10	Fredegara	Fredegar	_	_	MASC;PROPN;ANIM;GEN;SG	_	_	_	_
+11	prěni	prěni	_	_	MASC;ACC;SG;ADJ;INAN	_	_	_	_
+12	króć	króć	_	_	MASC;ACC;SG;N;INAN	_	_	_	_
+13	pisomnje	pisomnje	_	_	ADV	_	_	_	_
+14	mjenuja	mjenować	_	_	3;PL;FIN;PRS;IND;V	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# newpar id = p303
+# sent_id = p303s1
+# text = Dalše namakanki, kotrež mějachu za hospodarstwo rozsudny wuznam, běštej koleso a hornčerska tačel (pózdnja Uruk-doba).
+1	Dalše	dalši	_	_	FEM;NOM;ADJ;PL	_	_	_	_
+2	namakanki	namakanki	_	_	N;FEM;NOM;PL	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	kotrež	kotryž	_	_	FEM;NOM;DET;PL	_	_	_	_
+5	mějachu	měć	_	_	PST;FIN;3;V;IND;PL	_	_	_	_
+6	za	za	_	_	ADP	_	_	_	_
+7	hospodarstwo	hospodarstwo	_	_	NEUT;N;ACC;SG	_	_	_	_
+8	rozsudny	rozsudny	_	_	SG;MASC;INAN;ACC;ADJ	_	_	_	_
+9	wuznam	wuznam	_	_	SG;MASC;INAN;N;ACC	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	běštej	być	_	_	PST;FIN;3;V;DU;IND	_	_	_	_
+12	koleso	koleso	_	_	NEUT;N;NOM;SG	_	_	_	_
+13	a	a	_	_	CONJ	_	_	_	_
+14	hornčerska	hornčerski	_	_	FEM;SG;NOM;ADJ	_	_	_	_
+15	tačel	tačel	_	_	N;FEM;NOM;SG	_	_	_	_
+16	(	(	_	_	_	_	_	_	_
+17	pózdnja	pózdni	_	_	FEM;SG;NOM;ADJ	_	_	_	_
+18	Uruk	Uruk	_	_	SG;PROPN;MASC;INAN;NOM	_	_	_	_
+19	-	-	_	_	_	_	_	_	_
+20	doba	doba	_	_	N;FEM;NOM;SG	_	_	_	_
+21	)	)	_	_	_	_	_	_	_
+22	.	.	_	_	_	_	_	_	_
+
+# sent_id = p86s10
+# text = 5. Wupožčenski čas wučinja za knihi w zasadźe 4 njedźele, za nowiny a druhe medije 2 njedźeli.
+1	5	5	_	_	NUM	_	_	_	_
+2	.	.	_	_	_	_	_	_	_
+3	Wupožčenski	wupožčenski	_	_	MASC;NOM;SG;ADJ	_	_	_	_
+4	čas	čas	_	_	SG;MASC;INAN;N;NOM	_	_	_	_
+5	wučinja	wučinić	_	_	FIN;SG;3;PRS;V;IND	_	_	_	_
+6	za	za	_	_	ADP	_	_	_	_
+7	knihi	kniha	_	_	N;ACC;PL;FEM	_	_	_	_
+8	w	w	_	_	ADP	_	_	_	_
+9	zasadźe	zasada	_	_	ESS;N;FEM;SG	_	_	_	_
+10	4	4	_	_	NUM	_	_	_	_
+11	njedźele	njedźela	_	_	N;ACC;PL;FEM	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	za	za	_	_	ADP	_	_	_	_
+14	nowiny	nowiny	_	_	N;ACC;PL;FEM	_	_	_	_
+15	a	a	_	_	CONJ	_	_	_	_
+16	druhe	druhi	_	_	PL;ACC;FEM;ADJ	_	_	_	_
+17	medije	medija	_	_	N;ACC;PL;FEM	_	_	_	_
+18	2	2	_	_	NUM	_	_	_	_
+19	njedźeli	njedźela	_	_	N;ACC;PL;FEM	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# sent_id = p91s3
+# text = Tuchwilu wobsahuje serbska wikipedija 6.741 nastawkow.
+1	Tuchwilu	tuchwilu	_	_	ADV	_	_	_	_
+2	wobsahuje	wobsahować	_	_	FIN;SG;3;PRS;V;IND	_	_	_	_
+3	serbska	serbski	_	_	FEM;NOM;SG;ADJ	_	_	_	_
+4	wikipedija	wikipedija	_	_	N;FEM;NOM;SG	_	_	_	_
+5	6	6	_	_	NUM	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+7	741	741	_	_	NUM	_	_	_	_
+8	nastawkow	nastawk	_	_	GEN;MASC;INAN;N;PL	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = p121s2b
+# text = (Termin je zwjetša swjatkowna póndźela, kotraž je w sakskich šulach swobodny dźeń.)
+1	(	(	_	_	_	_	_	_	_
+2	Termin	termin	_	_	SG;MASC;INAN;N;NOM	_	_	_	_
+3	je	być	_	_	FIN;SG;3;V;PRS;IND	_	_	_	_
+4	zwjetša	zwjetša	_	_	ADV	_	_	_	_
+5	swjatkowna	swjatkowny	_	_	FEM;NOM;SG;ADJ	_	_	_	_
+6	póndźela	póndźela	_	_	N;FEM;NOM;SG	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	kotraž	kotryž	_	_	FEM;SG;NOM;DET	_	_	_	_
+9	je	być	_	_	FIN;SG;3;V;PRS;IND	_	_	_	_
+10	w	w	_	_	ADP	_	_	_	_
+11	sakskich	sakski	_	_	ESS;FEM;PL;ADJ	_	_	_	_
+12	šulach	šula	_	_	ESS;N;FEM;PL	_	_	_	_
+13	swobodny	swobodny	_	_	SG;MASC;NOM;ADJ	_	_	_	_
+14	dźeń	dźeń	_	_	SG;MASC;INAN;N;NOM	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+16	)	)	_	_	_	_	_	_	_
+
+# newpar id = p363
+# sent_id = p363s1
+# text = Kralej Aššur-nasir-apli II. (883-859 př. n. l..) a Šulmanu-ašared III. (858-824 př. n. l.) rozšěrištaj assyriski mócnarski wobwod hač do Syriskeje.
+1	Kralej	kral	_	_	MASC;ANIM;DU;N;NOM	_	_	_	_
+2	Aššur	Aššur	_	_	PROPN	_	_	_	_
+3	-	-	_	_	_	_	_	_	_
+4	nasir	nasir	_	_	PROPN	_	_	_	_
+5	-	-	_	_	_	_	_	_	_
+6	apli	apli	_	_	SG;PROPN;MASC;ANIM;NOM	_	_	_	_
+7	II	II	_	_	NUM	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+9	(	(	_	_	_	_	_	_	_
+10	883	883	_	_	NUM	_	_	_	_
+11	-	-	_	_	_	_	_	_	_
+12	859	859	_	_	NUM	_	_	_	_
+13	př	před	_	_	ADP	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+15	n	naš	_	_	PSSP;FEM;SG;INS;1;DET	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+17	l	lětoličba	_	_	FEM;SG;INS;N	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+20	)	)	_	_	_	_	_	_	_
+21	a	a	_	_	CONJ	_	_	_	_
+22	Šulmanu	Šulmanu	_	_	PROPN	_	_	_	_
+23	-	-	_	_	_	_	_	_	_
+24	ašared	ašared	_	_	SG;PROPN;MASC;ANIM;NOM	_	_	_	_
+25	III	III	_	_	NUM	_	_	_	_
+26	.	.	_	_	_	_	_	_	_
+27	(	(	_	_	_	_	_	_	_
+28	858	858	_	_	NUM	_	_	_	_
+29	-	-	_	_	_	_	_	_	_
+30	824	824	_	_	NUM	_	_	_	_
+31	př	před	_	_	ADP	_	_	_	_
+32	.	.	_	_	_	_	_	_	_
+33	n	naš	_	_	PSSP;FEM;SG;INS;1;DET	_	_	_	_
+34	.	.	_	_	_	_	_	_	_
+35	l	lětoličba	_	_	FEM;SG;INS;N	_	_	_	_
+36	.	.	_	_	_	_	_	_	_
+37	)	)	_	_	_	_	_	_	_
+38	rozšěrištaj	rozšěrić	_	_	PST;FIN;3;DU;V;IND	_	_	_	_
+39	assyriski	assyriski	_	_	SG;MASC;INAN;ACC;ADJ	_	_	_	_
+40	mócnarski	mócnarski	_	_	SG;MASC;INAN;ACC;ADJ	_	_	_	_
+41	wobwod	wobwod	_	_	SG;MASC;INAN;N;ACC	_	_	_	_
+42	hač	hač	_	_	ADV	_	_	_	_
+43	do	do	_	_	ADP	_	_	_	_
+44	Syriskeje	Syriska	_	_	GEN;FEM;SG;PROPN	_	_	_	_
+45	.	.	_	_	_	_	_	_	_
+
+# newpar id = p21
+# sent_id = p21s1
+# text = Jeli chceće so na aktualnych projektach Klemena wobdźělić, abo jeho k wustupej do swojeho kraja přeprosyć, wobroćće so na sćěhowacu adresu.
+1	Jeli	jeli	_	_	CONJ	_	_	_	_
+2	chceće	chcyć	_	_	FIN;PRS;2;V;IND;PL	_	_	_	_
+3	so	so	_	_	ACC;PRO;REFL	_	_	_	_
+4	na	na	_	_	ADP	_	_	_	_
+5	aktualnych	aktualny	_	_	ESS;PL;MASC;ADJ	_	_	_	_
+6	projektach	projekt	_	_	ESS;MASC;INAN;N;PL	_	_	_	_
+7	Klemena	Klemen	_	_	SG;PROPN;GEN;MASC;ANIM	_	_	_	_
+8	wobdźělić	wobdźělić	_	_	NFIN;V	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	abo	abo	_	_	CONJ	_	_	_	_
+11	jeho	wón	_	_	PRO;SG;3;MASC;ACC	_	_	_	_
+12	k	k	_	_	ADP	_	_	_	_
+13	wustupej	wustup	_	_	DAT;SG;MASC;INAN;N	_	_	_	_
+14	do	do	_	_	ADP	_	_	_	_
+15	swojeho	swój	_	_	SG;GEN;MASC;DET;REFL	_	_	_	_
+16	kraja	kraj	_	_	SG;GEN;MASC;INAN;N	_	_	_	_
+17	přeprosyć	přeprosyć	_	_	NFIN;V	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	wobroćće	wobroćić	_	_	FIN;IMP;2;V;PL	_	_	_	_
+20	so	so	_	_	ACC;PRO;REFL	_	_	_	_
+21	na	na	_	_	ADP	_	_	_	_
+22	sćěhowacu	sćěhowacy	_	_	ACC;FEM;SG;ADJ	_	_	_	_
+23	adresu	adresa	_	_	N;ACC;SG;FEM	_	_	_	_
+24	.	.	_	_	_	_	_	_	_
+
+# newpar id = p103
+# sent_id = p103s1
+# text = Mezopotamiska (grjeksce: Μεσοποταμία Mesopotamia, aramejsce: ܒܝܬܢܗܪܝܢ Beth Nahrin, kurdisce: Mezopotamya arabsce: بلاد مابين النهرين Bilād mā bain an-Nahrain) woznamjenja (kraj) mjez (dwěmaj) rěkomaj abo tež krótko Mjezyrěčina a woznamjenja w historiskim zmysle kónčinu dólnych runinow mjez rěkomaj Eufratom a Tigrisom, w kotrejž měšćanske staty Sumeričanow, Babylonjanow, Aramejčanow a Assyričanow ležachu.
+1	Mezopotamiska	mezopotamiska	_	_	N;FEM;NOM;SG	_	_	_	_
+2	(	(	_	_	_	_	_	_	_
+3	grjeksce	grjeksce	_	_	ADV	_	_	_	_
+4	:	:	_	_	_	_	_	_	_
+5	Μεσοποταμία	μεσοποταμία	_	_	_	_	_	_	_
+6	Mesopotamia	Mesopotamia	_	_	PROPN	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	aramejsce	aramejsce	_	_	ADV	_	_	_	_
+9	:	:	_	_	_	_	_	_	_
+10	ܒܝܬܢܗܪܝܢ	ܒܝܬܢܗܪܝܢ	_	_	_	_	_	_	_
+11	Beth	Beth	_	_	PROPN	_	_	_	_
+12	Nahrin	Nahrin	_	_	PROPN	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	kurdisce	kurdisce	_	_	ADV	_	_	_	_
+15	:	:	_	_	_	_	_	_	_
+16	Mezopotamya	Mezopotamya	_	_	PROPN	_	_	_	_
+17	arabsce	arabsce	_	_	ADV	_	_	_	_
+18	:	:	_	_	_	_	_	_	_
+19	بلاد	بلاد	_	_	_	_	_	_	_
+20	مابين	مابين	_	_	_	_	_	_	_
+21	النهرين	النهرين	_	_	_	_	_	_	_
+22	Bilād	Bilād	_	_	PROPN	_	_	_	_
+23	mā	mā	_	_	PROPN	_	_	_	_
+24	bain	bain	_	_	PROPN	_	_	_	_
+25	an	an	_	_	PROPN	_	_	_	_
+26	-	-	_	_	_	_	_	_	_
+27	Nahrain	Nahrain	_	_	PROPN	_	_	_	_
+28	)	)	_	_	_	_	_	_	_
+29	woznamjenja	woznamjenjeć	_	_	FIN;SG;3;PRS;V;IND	_	_	_	_
+30	(	(	_	_	_	_	_	_	_
+31	kraj	kraj	_	_	SG;MASC;INAN;N;NOM	_	_	_	_
+32	)	)	_	_	_	_	_	_	_
+33	mjez	mjez	_	_	ADP	_	_	_	_
+34	(	(	_	_	_	_	_	_	_
+35	dwěmaj	dwaj	_	_	FEM;NUM;INS;DU	_	_	_	_
+36	)	)	_	_	_	_	_	_	_
+37	rěkomaj	rěka	_	_	DU;N;FEM;INS	_	_	_	_
+38	abo	abo	_	_	CONJ	_	_	_	_
+39	tež	tež	_	_	ADV	_	_	_	_
+40	krótko	krótko	_	_	ADV	_	_	_	_
+41	Mjezyrěčina	Mjezyrěčina	_	_	FEM;NOM;SG;PROPN	_	_	_	_
+42	a	a	_	_	CONJ	_	_	_	_
+43	woznamjenja	woznamjenjeć	_	_	FIN;SG;3;PRS;V;IND	_	_	_	_
+44	w	w	_	_	ADP	_	_	_	_
+45	historiskim	historiski	_	_	ESS;MASC;SG;ADJ	_	_	_	_
+46	zmysle	zmysl	_	_	SG;ESS;MASC;INAN;N	_	_	_	_
+47	kónčinu	kónčina	_	_	N;ACC;SG;FEM	_	_	_	_
+48	dólnych	dólny	_	_	PL;GEN;FEM;ADJ	_	_	_	_
+49	runinow	runina	_	_	N;GEN;PL;FEM	_	_	_	_
+50	mjez	mjez	_	_	ADP	_	_	_	_
+51	rěkomaj	rěka	_	_	DU;N;FEM;INS	_	_	_	_
+52	Eufratom	Eufrat	_	_	SG;PROPN;MASC;INAN;INS	_	_	_	_
+53	a	a	_	_	CONJ	_	_	_	_
+54	Tigrisom	Tigris	_	_	SG;PROPN;MASC;INAN;INS	_	_	_	_
+55	,	,	_	_	_	_	_	_	_
+56	w	w	_	_	ADP	_	_	_	_
+57	kotrejž	kotryž	_	_	FEM;SG;ESS;DET	_	_	_	_
+58	měšćanske	měšćanski	_	_	MASC;INAN;NOM;ADJ;PL	_	_	_	_
+59	staty	stat	_	_	MASC;INAN;N;NOM;PL	_	_	_	_
+60	Sumeričanow	Sumeričan	_	_	PROPN;GEN;MASC;ANIM;PL	_	_	_	_
+61	,	,	_	_	_	_	_	_	_
+62	Babylonjanow	Babylonjan	_	_	PROPN;GEN;MASC;ANIM;PL	_	_	_	_
+63	,	,	_	_	_	_	_	_	_
+64	Aramejčanow	Aramejčan	_	_	PROPN;GEN;MASC;ANIM;PL	_	_	_	_
+65	a	a	_	_	CONJ	_	_	_	_
+66	Assyričanow	Assyričan	_	_	PROPN;GEN;MASC;ANIM;PL	_	_	_	_
+67	ležachu	ležeć	_	_	PST;FIN;3;V;IND;PL	_	_	_	_
+68	.	.	_	_	_	_	_	_	_
+
+# sent_id = p272s2
+# text = Ma 57,7 milionow wobydlerjow a přestrjeń 191.791 km², potajkim wjace hač 300 wobydlerjow na kwadratnym kilometru.
+1	Ma	měć	_	_	FIN;SG;3;PRS;V;IND	_	_	_	_
+2	57	57	_	_	NUM	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	7	7	_	_	NUM	_	_	_	_
+5	milionow	milion	_	_	GEN;MASC;INAN;N;PL	_	_	_	_
+6	wobydlerjow	wobydler	_	_	GEN;MASC;ANIM;N;PL	_	_	_	_
+7	a	a	_	_	CONJ	_	_	_	_
+8	přestrjeń	přestrjeń	_	_	N;ACC;SG;FEM	_	_	_	_
+9	191	191	_	_	NUM	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+11	791	791	_	_	NUM	_	_	_	_
+12	km	km	_	_	N	_	_	_	_
+13	²	²	_	_	_	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	potajkim	potajkim	_	_	ADV	_	_	_	_
+16	wjace	wjele	_	_	ADV;CMPR	_	_	_	_
+17	hač	hač	_	_	CONJ	_	_	_	_
+18	300	300	_	_	NUM	_	_	_	_
+19	wobydlerjow	wobydler	_	_	GEN;MASC;ANIM;N;PL	_	_	_	_
+20	na	na	_	_	ADP	_	_	_	_
+21	kwadratnym	kwadratny	_	_	SG;ESS;MASC;ADJ	_	_	_	_
+22	kilometru	kilometer	_	_	SG;ESS;MASC;INAN;N	_	_	_	_
+23	.	.	_	_	_	_	_	_	_
+
+# sent_id = p128s4
+# text = Ćišinski je kruty poćahowy dypk při předstajenju a wujasnjenju serbskeje kultury z časa moderny.
+1	Ćišinski	ćišinski	_	_	SG;MASC;ANIM;N;NOM	_	_	_	_
+2	je	być	_	_	FIN;SG;3;V;PRS;IND	_	_	_	_
+3	kruty	kruty	_	_	SG;MASC;NOM;ADJ	_	_	_	_
+4	poćahowy	poćahowy	_	_	SG;MASC;NOM;ADJ	_	_	_	_
+5	dypk	dypk	_	_	SG;MASC;INAN;N;NOM	_	_	_	_
+6	při	při	_	_	ADP	_	_	_	_
+7	předstajenju	předstajenje	_	_	ESS;N;NEUT;SG	_	_	_	_
+8	a	a	_	_	CONJ	_	_	_	_
+9	wujasnjenju	wujasnjenje	_	_	ESS;N;NEUT;SG	_	_	_	_
+10	serbskeje	serbski	_	_	GEN;FEM;SG;ADJ	_	_	_	_
+11	kultury	kultura	_	_	N;GEN;SG;FEM	_	_	_	_
+12	z	z	_	_	ADP	_	_	_	_
+13	časa	čas	_	_	SG;GEN;MASC;INAN;N	_	_	_	_
+14	moderny	moderna	_	_	N;GEN;SG;FEM	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# newpar id = p351
+# sent_id = p351s1
+# text = Samotar narysowa na pěskojte dno smuhu a praji: »Přez tu smuhu njesměš.«
+1	Samotar	samotar	_	_	SG;MASC;ANIM;N;NOM	_	_	_	_
+2	narysowa	narysować	_	_	PST;FIN;SG;3;V;IND	_	_	_	_
+3	na	na	_	_	ADP	_	_	_	_
+4	pěskojte	pěskojty	_	_	NEUT;SG;ACC;ADJ	_	_	_	_
+5	dno	dno	_	_	NEUT;N;ACC;SG	_	_	_	_
+6	smuhu	smuha	_	_	N;ACC;SG;FEM	_	_	_	_
+7	a	a	_	_	CONJ	_	_	_	_
+8	praji	prajić	_	_	PST;FIN;SG;3;V;IND	_	_	_	_
+9	:	:	_	_	_	_	_	_	_
+10	»	»	_	_	_	_	_	_	_
+11	Přez	přez	_	_	ADP	_	_	_	_
+12	tu	tón	_	_	FEM;SG;DET;ACC	_	_	_	_
+13	smuhu	smuha	_	_	N;ACC;SG;FEM	_	_	_	_
+14	njesměš	směć	_	_	FIN;SG;PRS;NEG;2;V;IND	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+16	«	«	_	_	_	_	_	_	_
+
+# sent_id = p358s3
+# text = Po Druhej swětowej wójnje bě francoski protektorat, doniž je skónčnje w lětu 1957 Zwjazkowu republiku přistupiła.
+1	Po	po	_	_	ADP	_	_	_	_
+2	Druhej	druhi	_	_	FEM;SG;ESS;ADJ	_	_	_	_
+3	swětowej	swětowy	_	_	FEM;SG;ESS;ADJ	_	_	_	_
+4	wójnje	wójna	_	_	ESS;N;FEM;SG	_	_	_	_
+5	bě	być	_	_	PST;FIN;SG;3;V;IND	_	_	_	_
+6	francoski	francoski	_	_	SG;MASC;NOM;ADJ	_	_	_	_
+7	protektorat	protektorat	_	_	SG;MASC;INAN;N;NOM	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	doniž	doniž	_	_	CONJ	_	_	_	_
+10	je	być	_	_	FIN;SG;3;V;PRS;IND	_	_	_	_
+11	skónčnje	skónčnje	_	_	ADV	_	_	_	_
+12	w	w	_	_	ADP	_	_	_	_
+13	lětu	lěto	_	_	ESS;N;NEUT;SG	_	_	_	_
+14	1957	1957	_	_	NUM	_	_	_	_
+15	Zwjazkowu	zwjazkowy	_	_	FEM;SG;ACC;ADJ	_	_	_	_
+16	republiku	republika	_	_	N;ACC;SG;FEM	_	_	_	_
+17	přistupiła	přistupić	_	_	PST;FEM;SG;V.PTCP;ACT;V	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = p122s4
+# text = Serbšćina so dźensa hišće w někotrych dźělach Hornjeje a Delnjeje Łužicy wužiwa.
+1	Serbšćina	serbšćina	_	_	N;FEM;NOM;SG	_	_	_	_
+2	so	so	_	_	ACC;PRO;REFL	_	_	_	_
+3	dźensa	dźensa	_	_	ADV	_	_	_	_
+4	hišće	hišće	_	_	ADV	_	_	_	_
+5	w	w	_	_	ADP	_	_	_	_
+6	někotrych	někotry	_	_	NEUT;ESS;DET;PL	_	_	_	_
+7	dźělach	dźěl	_	_	ESS;MASC;INAN;N;PL	_	_	_	_
+8	Hornjeje	horni	_	_	GEN;FEM;SG;ADJ	_	_	_	_
+9	a	a	_	_	CONJ	_	_	_	_
+10	Delnjeje	delni	_	_	GEN;FEM;SG;ADJ	_	_	_	_
+11	Łužicy	Łužica	_	_	GEN;FEM;SG;PROPN	_	_	_	_
+12	wužiwa	wužiwać	_	_	FIN;SG;3;PRS;V;IND	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = p137s4
+# text = Wón so často w Interneće wužiwa, kaž na př. w šleskej Wikipediji.
+1	Wón	wón	_	_	PRO;SG;3;MASC;NOM	_	_	_	_
+2	so	so	_	_	ACC;PRO;REFL	_	_	_	_
+3	často	často	_	_	ADV	_	_	_	_
+4	w	w	_	_	ADP	_	_	_	_
+5	Interneće	Internet	_	_	SG;PROPN;ESS;MASC;INAN	_	_	_	_
+6	wužiwa	wužiwać	_	_	FIN;SG;3;PRS;V;IND	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	kaž	kaž	_	_	CONJ	_	_	_	_
+9	na	na	_	_	ADP	_	_	_	_
+10	př	přikład	_	_	SG;MASC;INAN;N;ACC	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+12	w	w	_	_	ADP	_	_	_	_
+13	šleskej	šleski	_	_	ESS;FEM;SG;ADJ	_	_	_	_
+14	Wikipediji	Wikipedija	_	_	ESS;FEM;SG;PROPN	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# newpar id = p196
+# sent_id = p196s1
+# text = Sy wutrobnje přeprošeny(a), prašenja w korčmje stajić.
+1	Sy	być	_	_	FIN;SG;V;PRS;2;IND	_	_	_	_
+2	wutrobnje	wutrobnje	_	_	ADV	_	_	_	_
+3	přeprošeny	přeprošeny	_	_	V.PTCP;SG;MASC;PASS;NOM;ADJ	_	_	_	_
+4	(	(	_	_	_	_	_	_	_
+5	a	a	_	_	CONJ	_	_	_	_
+6	)	)	_	_	_	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	prašenja	prašenje	_	_	NEUT;N;ACC;PL	_	_	_	_
+9	w	w	_	_	ADP	_	_	_	_
+10	korčmje	korčmja	_	_	ESS;N;FEM;SG	_	_	_	_
+11	stajić	stajić	_	_	NFIN;V	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# newpar id = p6
+# sent_id = p6s1
+# text = Serbski institut / Sorbisches Institut w Budyšinje přepytuje rěč, stawizny a kulturu Serbow w Hornjej a Delnjej Łužicy w zašłosći a přitomnosći.
+1	Serbski	serbski	_	_	SG;MASC;NOM;ADJ	_	_	_	_
+2	institut	institut	_	_	SG;MASC;INAN;N;NOM	_	_	_	_
+3	/	/	_	_	_	_	_	_	_
+4	Sorbisches	Sorbisches	_	_	NEUT;NOM;SG;PROPN	_	_	_	_
+5	Institut	Institut	_	_	NEUT;NOM;SG;PROPN	_	_	_	_
+6	w	w	_	_	ADP	_	_	_	_
+7	Budyšinje	Budyšin	_	_	SG;PROPN;ESS;MASC;INAN	_	_	_	_
+8	přepytuje	přepytować	_	_	FIN;SG;3;PRS;V;IND	_	_	_	_
+9	rěč	rěč	_	_	N;ACC;SG;FEM	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	stawizny	stawizna	_	_	N;ACC;PL;FEM	_	_	_	_
+12	a	a	_	_	CONJ	_	_	_	_
+13	kulturu	kultura	_	_	N;ACC;SG;FEM	_	_	_	_
+14	Serbow	Serb	_	_	PROPN;GEN;MASC;ANIM;PL	_	_	_	_
+15	w	w	_	_	ADP	_	_	_	_
+16	Hornjej	horni	_	_	ESS;FEM;SG;ADJ	_	_	_	_
+17	a	a	_	_	CONJ	_	_	_	_
+18	Delnjej	delni	_	_	ESS;FEM;SG;ADJ	_	_	_	_
+19	Łužicy	Łužica	_	_	ESS;FEM;SG;PROPN	_	_	_	_
+20	w	w	_	_	ADP	_	_	_	_
+21	zašłosći	zašłosć	_	_	ESS;N;FEM;SG	_	_	_	_
+22	a	a	_	_	CONJ	_	_	_	_
+23	přitomnosći	přitomnosć	_	_	ESS;N;FEM;SG	_	_	_	_
+24	.	.	_	_	_	_	_	_	_
+
+# sent_id = p62s3
+# text = Ze spočatka njewotwisnosće hač do 1984 mjenowaše so stat Republika Hornja Wolta.
+1	Ze	z	_	_	ADP	_	_	_	_
+2	spočatka	spočatk	_	_	SG;GEN;MASC;INAN;N	_	_	_	_
+3	njewotwisnosće	njewotwisnosć	_	_	N;GEN;SG;FEM	_	_	_	_
+4	hač	hač	_	_	ADV	_	_	_	_
+5	do	do	_	_	ADP	_	_	_	_
+6	1984	1984	_	_	NUM	_	_	_	_
+7	mjenowaše	mjenować	_	_	PST;FIN;SG;3;V;IND	_	_	_	_
+8	so	so	_	_	ACC;PRO;REFL	_	_	_	_
+9	stat	stat	_	_	SG;MASC;INAN;N;NOM	_	_	_	_
+10	Republika	republika	_	_	N;FEM;NOM;SG	_	_	_	_
+11	Hornja	horni	_	_	FEM;NOM;SG;ADJ	_	_	_	_
+12	Wolta	Wolta	_	_	FEM;NOM;SG;PROPN	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = p2s3
+# text = Je to napřikład Molekularna biologija, biochemija, genetika, bańkowa biologija, fyziologija, anatomija, wuvojowa biologija, ewoluciska biologija, etologija, ekologija, systematika, botanika, coologija, mykologija, mikrobiologija, morfologija, bionika, lěkařske discipliny, wirologija a mnoho dalšich specializowanych wědomostnych disciplin.
+1	Je	być	_	_	FIN;SG;3;V;PRS;IND	_	_	_	_
+2	to	to	_	_	NEUT;PRO;SG;NOM	_	_	_	_
+3	napřikład	napřikład	_	_	ADV	_	_	_	_
+4	Molekularna	molekularny	_	_	FEM;NOM;SG;ADJ	_	_	_	_
+5	biologija	biologija	_	_	N;FEM;NOM;SG	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	biochemija	biochemija	_	_	N;FEM;NOM;SG	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	genetika	genetika	_	_	N;FEM;NOM;SG	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	bańkowa	bańkowy	_	_	FEM;NOM;SG;ADJ	_	_	_	_
+12	biologija	biologija	_	_	N;FEM;NOM;SG	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	fyziologija	fyziologija	_	_	N;FEM;NOM;SG	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	anatomija	anatomija	_	_	N;FEM;NOM;SG	_	_	_	_
+17	,	,	_	_	_	_	_	_	_
+18	wuvojowa	wuvojowy	_	_	FEM;NOM;SG;ADJ	_	_	_	_
+19	biologija	biologija	_	_	N;FEM;NOM;SG	_	_	_	_
+20	,	,	_	_	_	_	_	_	_
+21	ewoluciska	ewoluciski	_	_	FEM;NOM;SG;ADJ	_	_	_	_
+22	biologija	biologija	_	_	N;FEM;NOM;SG	_	_	_	_
+23	,	,	_	_	_	_	_	_	_
+24	etologija	etologija	_	_	N;FEM;NOM;SG	_	_	_	_
+25	,	,	_	_	_	_	_	_	_
+26	ekologija	ekologija	_	_	N;FEM;NOM;SG	_	_	_	_
+27	,	,	_	_	_	_	_	_	_
+28	systematika	systematika	_	_	N;FEM;NOM;SG	_	_	_	_
+29	,	,	_	_	_	_	_	_	_
+30	botanika	botanika	_	_	N;FEM;NOM;SG	_	_	_	_
+31	,	,	_	_	_	_	_	_	_
+32	coologija	coologija	_	_	N;FEM;NOM;SG	_	_	_	_
+33	,	,	_	_	_	_	_	_	_
+34	mykologija	mykologija	_	_	N;FEM;NOM;SG	_	_	_	_
+35	,	,	_	_	_	_	_	_	_
+36	mikrobiologija	mikrobiologija	_	_	N;FEM;NOM;SG	_	_	_	_
+37	,	,	_	_	_	_	_	_	_
+38	morfologija	morfologija	_	_	N;FEM;NOM;SG	_	_	_	_
+39	,	,	_	_	_	_	_	_	_
+40	bionika	bionika	_	_	N;FEM;NOM;SG	_	_	_	_
+41	,	,	_	_	_	_	_	_	_
+42	lěkařske	lěkařski	_	_	PL;FEM;NOM;ADJ	_	_	_	_
+43	discipliny	disciplina	_	_	N;FEM;NOM;PL	_	_	_	_
+44	,	,	_	_	_	_	_	_	_
+45	wirologija	wirologija	_	_	N;FEM;NOM;SG	_	_	_	_
+46	a	a	_	_	CONJ	_	_	_	_
+47	mnoho	mnoho	_	_	DET	_	_	_	_
+48	dalšich	dalši	_	_	FEM;GEN;ADJ;PL	_	_	_	_
+49	specializowanych	specializowany	_	_	N;GEN;PL;FEM	_	_	_	_
+50	wědomostnych	wědomostny	_	_	PL;GEN;FEM;ADJ	_	_	_	_
+51	disciplin	disciplina	_	_	N;GEN;PL;FEM	_	_	_	_
+52	.	.	_	_	_	_	_	_	_
+
+# newpar id = p248
+# sent_id = p248s1
+# text = Po nic cyle 100 lětach buchu Gutejčenjo wuhnaći, a sumeriske měšćanske staty dóńdźechu zaso k mocy a wulkosći.
+1	Po	po	_	_	ADP	_	_	_	_
+2	nic	nic	_	_	NEG;PART	_	_	_	_
+3	cyle	cyle	_	_	ADV	_	_	_	_
+4	100	100	_	_	NUM	_	_	_	_
+5	lětach	lěto	_	_	ESS;N;NEUT;PL	_	_	_	_
+6	buchu	być	_	_	PST;FIN;3;V;PASS;IND;PL	_	_	_	_
+7	Gutejčenjo	Gutejčan	_	_	MASC;ANIM;N;NOM;PL	_	_	_	_
+8	wuhnaći	wuhnaći	_	_	V.PTCP;MASC;ANIM;PASS;NOM;ADJ;PL	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	a	a	_	_	CONJ	_	_	_	_
+11	sumeriske	sumeriski	_	_	PL;MASC;INAN;NOM;ADJ	_	_	_	_
+12	měšćanske	měšćanski	_	_	PL;MASC;INAN;NOM;ADJ	_	_	_	_
+13	staty	stat	_	_	MASC;INAN;N;NOM;PL	_	_	_	_
+14	dóńdźechu	dóńć	_	_	PST;FIN;3;V;IND;PL	_	_	_	_
+15	zaso	zaso	_	_	ADV	_	_	_	_
+16	k	k	_	_	ADP	_	_	_	_
+17	mocy	moc	_	_	N;FEM;DAT;SG	_	_	_	_
+18	a	a	_	_	CONJ	_	_	_	_
+19	wulkosći	wulkosć	_	_	N;FEM;DAT;SG	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# sent_id = p283s3
+# text = Twory přinjesechu přez lódź abo karawanu do kraja.
+1	Twory	twora	_	_	N;ACC;PL;FEM	_	_	_	_
+2	přinjesechu	přinjesć	_	_	PST;FIN;SG;3;V;IND	_	_	_	_
+3	přez	přez	_	_	ADP	_	_	_	_
+4	lódź	lódź	_	_	N;ACC;SG;FEM	_	_	_	_
+5	abo	abo	_	_	CONJ	_	_	_	_
+6	karawanu	karawana	_	_	N;ACC;SG;FEM	_	_	_	_
+7	do	do	_	_	ADP	_	_	_	_
+8	kraja	kraj	_	_	SG;GEN;MASC;INAN;N	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# newpar id = p37
+# sent_id = p37s1
+# text = Kultura so stajnje wuwiwa a měnja.
+1	Kultura	kultura	_	_	N;FEM;NOM;SG	_	_	_	_
+2	so	so	_	_	ACC;PRO;REFL	_	_	_	_
+3	stajnje	stajnje	_	_	ADV	_	_	_	_
+4	wuwiwa	wuwiwać	_	_	FIN;SG;3;PRS;V;IND	_	_	_	_
+5	a	a	_	_	CONJ	_	_	_	_
+6	měnja	měnić	_	_	FIN;SG;3;PRS;V;IND	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = p270s2
+# text = Druhdy Esperanto funguje jako swójbna rěč.
+1	Druhdy	druhdy	_	_	ADV	_	_	_	_
+2	Esperanto	Esperanto	_	_	NEUT;NOM;SG;PROPN	_	_	_	_
+3	funguje	fungować	_	_	FIN;SG;3;PRS;V;IND	_	_	_	_
+4	jako	jako	_	_	CONJ	_	_	_	_
+5	swójbna	swójbny	_	_	FEM;SG;NOM;ADJ	_	_	_	_
+6	rěč	rěč	_	_	N;FEM;NOM;SG	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = p253s2
+# text = Baseń recitowachu južnoafriscy wuměłcy a přełožowarjo.
+1	Baseń	baseń	_	_	N;ACC;SG;FEM	_	_	_	_
+2	recitowachu	recitować	_	_	PST;FIN;3;V;IND;PL	_	_	_	_
+3	južnoafriscy	južnoafriscy	_	_	PL;MASC;ANIM;NOM;ADJ	_	_	_	_
+4	wuměłcy	wuměłc	_	_	MASC;ANIM;N;NOM;PL	_	_	_	_
+5	a	a	_	_	CONJ	_	_	_	_
+6	přełožowarjo	přełožowar	_	_	MASC;ANIM;N;NOM;PL	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# newpar id = p50
+# sent_id = p50s1
+# text = Najwjetše přitoki Kaspiskeho morja su Wolga, Ural a Kura.
+1	Najwjetše	wulki	_	_	PL;MASC;INAN;NOM;RL;ADJ	_	_	_	_
+2	přitoki	přitok	_	_	MASC;INAN;N;NOM;PL	_	_	_	_
+3	Kaspiskeho	kaspiski	_	_	NEUT;GEN;SG;ADJ	_	_	_	_
+4	morja	morjo	_	_	NEUT;N;GEN;SG	_	_	_	_
+5	su	być	_	_	FIN;3;V;PRS;IND;PL	_	_	_	_
+6	Wolga	Wolga	_	_	FEM;NOM;SG;PROPN	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	Ural	Ural	_	_	SG;PROPN;MASC;INAN;NOM	_	_	_	_
+9	a	a	_	_	CONJ	_	_	_	_
+10	Kura	Kura	_	_	FEM;NOM;SG;PROPN	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = p190s6
+# text = Bě čas bipolarneho swětoweho porjada a horceje wójny započał.
+1	Bě	być	_	_	PST;FIN;SG;3;V;IND	_	_	_	_
+2	čas	čas	_	_	SG;MASC;INAN;N;NOM	_	_	_	_
+3	bipolarneho	bipolarny	_	_	GEN;MASC;SG;ADJ	_	_	_	_
+4	swětoweho	swětowy	_	_	GEN;MASC;SG;ADJ	_	_	_	_
+5	porjada	porjad	_	_	SG;GEN;MASC;INAN;N	_	_	_	_
+6	a	a	_	_	CONJ	_	_	_	_
+7	horceje	horcy	_	_	GEN;FEM;SG;ADJ	_	_	_	_
+8	wójny	wójna	_	_	N;GEN;SG;FEM	_	_	_	_
+9	započał	započeć	_	_	PST;SG;V.PTCP;ACT;MASC;INAN;V	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+

@@ -1,0 +1,1292 @@
+# sent_id = sherlock:sherlock18.vislcg.txt:8:127
+# text = Piştî ko pê ve da, ew ji mir lê hêj rih pê heye.
+1	Piştî	piştî	_	_	ADP	_	_	_	_
+2	ko	ku	_	_	CONJ	_	_	_	_
+3	pê	bi	_	_	ADP	_	_	_	_
+4	_	ew	_	_	PRO;SG;MASC	_	_	_	_
+5	ve	ve	_	_	ADP	_	_	_	_
+6	da	dan	_	_	FIN;V;3;IND;PST;SG	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	ew	ew	_	_	{FEM/MASC};PRO;3;SG;NOM	_	_	_	_
+9	ji	jî	_	_	PART	_	_	_	_
+10	mir	mirin	_	_	FIN;V;3;IND;PST;SG	_	_	_	_
+11	lê	lê	_	_	CONJ	_	_	_	_
+12	hêj	hêj	_	_	ADV	_	_	_	_
+13	rih	rih	_	_	FEM;N;SG;NOM;DEF	_	_	_	_
+14	pê	bi	_	_	ADP	_	_	_	_
+15	_	ew	_	_	PRO;SG;MASC	_	_	_	_
+16	heye	hebûn	_	_	FIN;PRS;3;V;IND;SG	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:175:4794
+# text = Ew bi pirtûka xwe ya bi navê Dîroka Herodot tê naskirin.
+1	Ew	ew	_	_	{FEM/MASC};PRO;3;SG;NOM	_	_	_	_
+2	bi	bi	_	_	ADP	_	_	_	_
+3	pirtûka	pirtûk	_	_	FEM;N;SG;DEF	_	_	_	_
+4	xwe	xwe	_	_	{FEM/MASC};PRO;REFL;{PL/SG}	_	_	_	_
+5	ya	yê	_	_	FEM;SG;ADP	_	_	_	_
+6	bi	bi	_	_	ADP	_	_	_	_
+7	navê	nav	_	_	N;SG;MASC;DEF	_	_	_	_
+8	Dîroka	dîrok	_	_	FEM;N;SG;DEF	_	_	_	_
+9	Herodot	Herodot	_	_	PROPN;MASC;SG	_	_	_	_
+10	tê	hatin	_	_	FIN;PRS;V;3;IND;SG	_	_	_	_
+11	naskirin	naskirin	_	_	NFIN;V	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock05.vislcg.txt:11:281
+# text = Holmes: Jê dixuye ko gava lê qewimî li elbika kibrîtê geriya û kibrîtek pêxistiye.
+1	Holmes	Holmes	_	_	PROPN;MASC;SG	_	_	_	_
+2	:	:	_	_	_	_	_	_	_
+3	Jê	ji	_	_	ADP	_	_	_	_
+4	_	ew	_	_	PRO;SG;MASC	_	_	_	_
+5	dixuye	xuyan	_	_	FIN;PRS;V;3;IND;SG	_	_	_	_
+6	ko	ku	_	_	CONJ	_	_	_	_
+7	gava	gava	_	_	CONJ	_	_	_	_
+8	lê	li	_	_	ADP	_	_	_	_
+9	_	ew	_	_	{FEM/MASC};PRO;SG	_	_	_	_
+10	qewimî	qewimin	_	_	FIN;V;3;IND;PST;SG	_	_	_	_
+11	li	li	_	_	ADP	_	_	_	_
+12	elbika	elbik	_	_	FEM;N;SG;DEF	_	_	_	_
+13	kibrîtê	kibrît	_	_	FEM;N;SG;DEF	_	_	_	_
+14	geriya	gerîn	_	_	FIN;V;3;NFH;IND;PST;SG	_	_	_	_
+15	û	û	_	_	CONJ	_	_	_	_
+16	kibrîtek	kibrît	_	_	FEM;N;SG;NOM	_	_	_	_
+17	pêxistiye	pêxistin	_	_	FIN;V;3;NFH;IND;PST;SG	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock01.vislcg.txt:5:97
+# text = Jê re ne adet bû zû hişyar be; heta derengiya rojê radiket.
+1	Jê	ji	_	_	ADP	_	_	_	_
+2	_	ew	_	_	PRO;SG;MASC	_	_	_	_
+3	re	re	_	_	ADP	_	_	_	_
+4	ne	ne	_	_	ADV	_	_	_	_
+5	adet	adet	_	_	FEM;N;SG;NOM;DEF	_	_	_	_
+6	bû	bûn	_	_	FIN;3;V;IND;PST;SG	_	_	_	_
+7	zû	zû	_	_	ADJ	_	_	_	_
+8	hişyar	hişyar	_	_	_	_	_	_	_
+9	be	bûn	_	_	SBJV;FIN;PRS;V;3;SG	_	_	_	_
+10	;	;	_	_	_	_	_	_	_
+11	heta	heta	_	_	ADP	_	_	_	_
+12	derengiya	derengî	_	_	FEM;N;SG	_	_	_	_
+13	rojê	roj	_	_	FEM;N;SG;DEF	_	_	_	_
+14	radiket	raketîn	_	_	PROG;FIN;V;3;IND;PST;SG	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock13.vislcg.txt:8:179
+# text = Wextê îşê xwe temam kir, şelîtek bi destî ve rabû û gote haziran: Ev şelît, zolek çerm e, pê seyan girêdidin.
+1	Wextê	wextê	_	_	CONJ	_	_	_	_
+2	îşê	îş	_	_	N;SG;MASC;DEF	_	_	_	_
+3	xwe	xwe	_	_	{FEM/MASC};PRO;REFL;{PL/SG}	_	_	_	_
+4	temam	temam	_	_	ADJ	_	_	_	_
+5	kir	kirin	_	_	FIN;V;3;IND;PST;SG	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	şelîtek	şelît	_	_	FEM;N;SG;NOM	_	_	_	_
+8	bi	bi	_	_	ADP	_	_	_	_
+9	destî	dest	_	_	N;SG;MASC	_	_	_	_
+10	ve	ve	_	_	ADP	_	_	_	_
+11	rabû	rabûn	_	_	FIN;V;3;IND;PST;SG	_	_	_	_
+12	û	û	_	_	CONJ	_	_	_	_
+13	gote	gotin	_	_	FIN;V;3;NFH;IND;PST;SG	_	_	_	_
+14	haziran	hazir	_	_	N;PL;MASC;DEF	_	_	_	_
+15	:	:	_	_	_	_	_	_	_
+16	Ev	ev	_	_	{FEM/MASC};DET;{PL/SG};NOM	_	_	_	_
+17	şelît	şelît	_	_	FEM;N;SG;NOM;DEF	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	zolek	zûl	_	_	N;SG;MASC;NOM;DEF	_	_	_	_
+20	çerm	çerm	_	_	N;SG;MASC;NOM;DEF	_	_	_	_
+21	e	bûn	_	_	FIN;PRS;3;V;IND;SG	_	_	_	_
+22	,	,	_	_	_	_	_	_	_
+23	pê	bi	_	_	ADP	_	_	_	_
+24	_	ew	_	_	FEM;PRO;SG	_	_	_	_
+25	seyan	se	_	_	N;PL;MASC;DEF	_	_	_	_
+26	girêdidin	girêdan	_	_	PL;FIN;PRS;V;3;IND	_	_	_	_
+27	.	.	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock18.vislcg.txt:18:401
+# text = Wextê ko Cûlyayê kir bizewice Rweylot rabû qulek di navbera oda xwe û oda Cûlyayê de da çêkir û bi hênceta zengil di wê qulê re werîsek jî bi ser texte keçikê daxist.
+1	Wextê	wextê	_	_	CONJ	_	_	_	_
+2	ko	ko	_	_	N;SG;MASC;DEF	_	_	_	_
+3	Cûlyayê	Cûlya	_	_	SG;PROPN;FEM	_	_	_	_
+4	kir	kirin	_	_	FIN;V;3;IND;PST;SG	_	_	_	_
+5	bizewice	zewicîn	_	_	SBJV;FIN;PRS;V;3;SG	_	_	_	_
+6	Rweylot	Rweylot	_	_	PROPN;MASC;NOM;SG	_	_	_	_
+7	rabû	rabûn	_	_	FIN;V;3;IND;PST;SG	_	_	_	_
+8	qulek	qul	_	_	FEM;N;SG;NOM	_	_	_	_
+9	di	di	_	_	ADP	_	_	_	_
+10	navbera	navbera	_	_	ADP	_	_	_	_
+11	oda	ode	_	_	FEM;N;SG;DEF	_	_	_	_
+12	xwe	xwe	_	_	{FEM/MASC};PRO;REFL;{PL/SG}	_	_	_	_
+13	û	û	_	_	CONJ	_	_	_	_
+14	oda	ode	_	_	FEM;N;SG;DEF	_	_	_	_
+15	Cûlyayê	Cûlya	_	_	SG;PROPN;FEM	_	_	_	_
+16	de	de	_	_	ADP	_	_	_	_
+17	da	dan	_	_	FIN;V;3;IND;PST;SG	_	_	_	_
+18	çêkir	çêkirin	_	_	FIN;V;3;IND;PST;SG	_	_	_	_
+19	û	û	_	_	CONJ	_	_	_	_
+20	bi	bi	_	_	ADP	_	_	_	_
+21	hênceta	hêncet	_	_	FEM;N;SG;DEF	_	_	_	_
+22	zengil	zengil	_	_	N;SG;MASC;DEF	_	_	_	_
+23	di	di	_	_	ADP	_	_	_	_
+24	wê	ew	_	_	DET;FEM;SG	_	_	_	_
+25	qulê	qul	_	_	FEM;N;SG	_	_	_	_
+26	re	re	_	_	ADP	_	_	_	_
+27	werîsek	werîs	_	_	N;SG;MASC;NOM	_	_	_	_
+28	jî	jî	_	_	PART	_	_	_	_
+29	bi	bi	_	_	ADP	_	_	_	_
+30	ser	ser	_	_	N;SG;MASC;NOM;DEF	_	_	_	_
+31	texte	text	_	_	N;SG;MASC;DEF	_	_	_	_
+32	keçikê	keçik	_	_	FEM;N;SG;DEF	_	_	_	_
+33	daxist	daxistin	_	_	FIN;V;3;IND;PST;SG	_	_	_	_
+34	.	.	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock03.vislcg.txt:20:564
+# text = Min bala xwe da; lê min nizanî ji oda rex an ji bexçê dihat.
+1	Min	ez	_	_	{FEM/MASC};1;PRO;SG	_	_	_	_
+2	bala	bal	_	_	FEM;N;SG;DEF	_	_	_	_
+3	xwe	xwe	_	_	{FEM/MASC};PRO;REFL;{PL/SG}	_	_	_	_
+4	da	dan	_	_	FIN;V;3;IND;PST;SG	_	_	_	_
+5	;	;	_	_	_	_	_	_	_
+6	lê	lê	_	_	CONJ	_	_	_	_
+7	min	ez	_	_	{FEM/MASC};1;PRO;SG	_	_	_	_
+8	nizanî	zanîn	_	_	NEG;FIN;V;PRS;IND;SG;2	_	_	_	_
+9	ji	ji	_	_	ADP	_	_	_	_
+10	oda	ode	_	_	FEM;N;SG;DEF	_	_	_	_
+11	rex	rex	_	_	N;SG;MASC;DEF	_	_	_	_
+12	an	an	_	_	CONJ	_	_	_	_
+13	ji	ji	_	_	ADP	_	_	_	_
+14	bexçê	bexçe	_	_	FEM;N;SG;DEF	_	_	_	_
+15	dihat	hatin	_	_	PROG;FIN;V;3;IND;PST;SG	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock12.vislcg.txt:5:85
+# text = Mesela heke ev kulek ji bo guhartina hewa odê hatiye çêkirin ko di dîwarê ko dide bexçê de bihata çêkirin; ne ko di dîwarê ko dide odeke din ....
+1	Mesela	mesela	_	_	ADV	_	_	_	_
+2	heke	heke	_	_	CONJ	_	_	_	_
+3	ev	ev	_	_	{FEM/MASC};DET;{PL/SG};NOM	_	_	_	_
+4	kulek	kulek	_	_	FEM;N;SG;NOM;DEF	_	_	_	_
+5	ji	ji	_	_	_	_	_	_	_
+6	bo	bo	_	_	ADP	_	_	_	_
+7	guhartina	guhartin	_	_	FEM;N;SG;DEF	_	_	_	_
+8	hewa	hewa	_	_	FEM;N;SG;DEF	_	_	_	_
+9	odê	ode	_	_	FEM;N;SG;DEF	_	_	_	_
+10	hatiye	hatin	_	_	FIN;V;3;NFH;IND;PST;SG	_	_	_	_
+11	çêkirin	çêkirin	_	_	NFIN;V	_	_	_	_
+12	ko	ku	_	_	CONJ	_	_	_	_
+13	di	di	_	_	ADP	_	_	_	_
+14	dîwarê	dîwar	_	_	N;SG;MASC;DEF	_	_	_	_
+15	ko	ku	_	_	CONJ	_	_	_	_
+16	dide	dan	_	_	FIN;PRS;V;3;IND;SG	_	_	_	_
+17	bexçê	bexçe	_	_	FEM;N;SG;DEF	_	_	_	_
+18	de	de	_	_	ADP	_	_	_	_
+19	bihata	hatin	_	_	FIN;V;3;SG;OPT	_	_	_	_
+20	çêkirin	çêkirin	_	_	NFIN;V	_	_	_	_
+21	;	;	_	_	_	_	_	_	_
+22	ne	ne	_	_	ADV;NEG	_	_	_	_
+23	ko	ku	_	_	CONJ	_	_	_	_
+24	di	di	_	_	ADP	_	_	_	_
+25	dîwarê	dîwar	_	_	N;SG;MASC;DEF	_	_	_	_
+26	ko	ku	_	_	CONJ	_	_	_	_
+27	dide	dan	_	_	FIN;PRS;V;3;IND;SG	_	_	_	_
+28	odeke	ode	_	_	FEM;N;SG	_	_	_	_
+29	din	din	_	_	ADJ	_	_	_	_
+30	....	....	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:129:3501
+# text = Bi taybetî li nav pêçiyên lingan belav dibin.
+1	Bi	bi	_	_	ADP	_	_	_	_
+2	taybetî	taybetî	_	_	FEM;N;SG;NOM;DEF	_	_	_	_
+3	li	li	_	_	ADP	_	_	_	_
+4	nav	nav	_	_	ADP	_	_	_	_
+5	pêçiyên	pêçî	_	_	FEM;PL;N;DEF	_	_	_	_
+6	lingan	ling	_	_	N;PL;MASC;DEF	_	_	_	_
+7	belav	belav	_	_	ADJ	_	_	_	_
+8	dibin	bûn	_	_	FIN;PRS;3;V;PL;IND	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:69:1887
+# text = Tê gotin ku Küçük ji arşîvên Fransî nivîsaran werdigerîne û wekî nêrînan xwe diweşîne.
+1	Tê	hatin	_	_	FIN;PRS;V;3;IND;SG	_	_	_	_
+2	gotin	gotin	_	_	NFIN;V	_	_	_	_
+3	ku	ku	_	_	CONJ	_	_	_	_
+4	Küçük	Küçük	_	_	PROPN;MASC;SG	_	_	_	_
+5	ji	ji	_	_	ADP	_	_	_	_
+6	arşîvên	arşîv	_	_	FEM;PL;N;DEF	_	_	_	_
+7	Fransî	fransî	_	_	ADJ	_	_	_	_
+8	nivîsaran	nivîsar	_	_	FEM;N;PL;DEF	_	_	_	_
+9	werdigerîne	wergerîn	_	_	PROG;PL;FIN;V;3;NFH;IND;PST	_	_	_	_
+10	û	û	_	_	CONJ	_	_	_	_
+11	wekî	wekî	_	_	ADP	_	_	_	_
+12	nêrînan	nêrîn	_	_	FEM;N;PL;DEF	_	_	_	_
+13	xwe	xwe	_	_	{FEM/MASC};PRO;REFL;{PL/SG}	_	_	_	_
+14	diweşîne	weşandin	_	_	FIN;PRS;V;3;IND;SG	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:253:6921
+# text = Di heman demê de bavê wi jî ji ber nêrînên xwe di heman zîndanê de ye.
+1	Di	di	_	_	ADP	_	_	_	_
+2	heman	heman	_	_	DET	_	_	_	_
+3	demê	dem	_	_	FEM;N;SG;DEF	_	_	_	_
+4	de	de	_	_	ADP	_	_	_	_
+5	bavê	bav	_	_	N;SG;MASC;DEF	_	_	_	_
+6	wi	ew	_	_	PRO;3;SG;MASC	_	_	_	_
+7	jî	jî	_	_	PART	_	_	_	_
+8	ji	ji	_	_	ADP	_	_	_	_
+9	ber	ber	_	_	ADP	_	_	_	_
+10	nêrînên	nêrîn	_	_	FEM;PL;N;DEF	_	_	_	_
+11	xwe	xwe	_	_	{FEM/MASC};PRO;REFL;{PL/SG}	_	_	_	_
+12	di	di	_	_	ADP	_	_	_	_
+13	heman	heman	_	_	DET	_	_	_	_
+14	zîndanê	zîndan	_	_	FEM;N;SG;DEF	_	_	_	_
+15	de	de	_	_	ADP	_	_	_	_
+16	ye	bûn	_	_	FIN;PRS;3;V;IND;SG	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:126:3426
+# text = Cara pêşîn di sedsala 12emîn de wekî bêje hatiye bikaranîn.
+1	Cara	car	_	_	FEM;N;SG;DEF	_	_	_	_
+2	pêşîn	pêşîn	_	_	ADJ	_	_	_	_
+3	di	di	_	_	ADP	_	_	_	_
+4	sedsala	sedsal	_	_	FEM;N;SG;DEF	_	_	_	_
+5	12emîn	12	_	_	NUM	_	_	_	_
+6	de	de	_	_	ADP	_	_	_	_
+7	wekî	wekî	_	_	CONJ	_	_	_	_
+8	bêje	gotin	_	_	SBJV;FIN;PRS;V;3;SG	_	_	_	_
+9	hatiye	hatin	_	_	FIN;V;3;NFH;IND;PST;SG	_	_	_	_
+10	bikaranîn	bikaranîn	_	_	NFIN;V	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock06.vislcg.txt:9:191
+# text = Min qîm pê anî; zirbavê min jî berê kir.
+1	Min	ez	_	_	{FEM/MASC};1;PRO;SG	_	_	_	_
+2	qîm	qîm	_	_	FEM;N;SG;NOM;DEF	_	_	_	_
+3	pê	bi	_	_	ADP	_	_	_	_
+4	_	ew	_	_	PRO;SG;MASC	_	_	_	_
+5	anî	anîn	_	_	FIN;V;3;IND;PST;SG	_	_	_	_
+6	;	;	_	_	_	_	_	_	_
+7	zirbavê	zirbav	_	_	N;SG;MASC;DEF	_	_	_	_
+8	min	ez	_	_	{FEM/MASC};1;PRO;SG	_	_	_	_
+9	jî	jî	_	_	PART	_	_	_	_
+10	berê	berê	_	_	ADV	_	_	_	_
+11	kir	kirin	_	_	FIN;V;3;IND;PST;SG	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock06.vislcg.txt:14:381
+# text = Piştî gavekê gote keçikê: Divêt îro em herin Stokmoranê û bêî ko zirbavê te bi me bihese em wan odan bibinin.
+1	Piştî	piştî	_	_	ADP	_	_	_	_
+2	gavekê	gav	_	_	FEM;N;SG	_	_	_	_
+3	gote	gotin	_	_	FIN;V;3;NFH;IND;PST;SG	_	_	_	_
+4	keçikê	keçik	_	_	FEM;N;SG;DEF	_	_	_	_
+5	:	:	_	_	_	_	_	_	_
+6	Divêt	divêtin	_	_	FIN;PRS;V;3;IND;SG	_	_	_	_
+7	îro	îro	_	_	ADV	_	_	_	_
+8	em	em	_	_	{FEM/MASC};1;PRO;PL;NOM	_	_	_	_
+9	herin	çûn	_	_	SBJV;1;FIN;PRS;V;PL	_	_	_	_
+10	Stokmoranê	Stokmoran	_	_	FEM;PROPN;SG;DEF	_	_	_	_
+11	û	û	_	_	CONJ	_	_	_	_
+12	bêî	hatin	_	_	SBJV;FIN;PRS;V;SG;2	_	_	_	_
+13	ko	ku	_	_	CONJ	_	_	_	_
+14	zirbavê	zirbav	_	_	N;SG;MASC;DEF	_	_	_	_
+15	te	tu	_	_	{FEM/MASC};PRO;SG;2	_	_	_	_
+16	bi	bi	_	_	ADP	_	_	_	_
+17	me	em	_	_	{FEM/MASC};1;PRO;PL	_	_	_	_
+18	bihese	hesîn	_	_	SBJV;FIN;PRS;V;3;SG	_	_	_	_
+19	em	em	_	_	{FEM/MASC};1;PRO;PL;NOM	_	_	_	_
+20	wan	ew	_	_	{FEM/MASC};DET;PL	_	_	_	_
+21	odan	ode	_	_	FEM;N;PL	_	_	_	_
+22	bibinin	dîtin	_	_	SBJV;1;FIN;PRS;V;PL	_	_	_	_
+23	.	.	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock19.vislcg.txt:6:190
+# text = Lê niho em dizanin, «şelîta belek» mare belek bû.
+1	Lê	lê	_	_	CONJ	_	_	_	_
+2	niho	niha	_	_	ADV	_	_	_	_
+3	em	em	_	_	{FEM/MASC};1;PRO;PL;NOM	_	_	_	_
+4	dizanin	zanîn	_	_	1;PL;FIN;PRS;V;IND	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	«	«	_	_	_	_	_	_	_
+7	şelîta	şelît	_	_	FEM;N;SG;DEF	_	_	_	_
+8	belek	belek	_	_	ADJ	_	_	_	_
+9	»	»	_	_	_	_	_	_	_
+10	mare	mar	_	_	N;SG;MASC;DEF	_	_	_	_
+11	belek	belek	_	_	ADJ	_	_	_	_
+12	bû	bûn	_	_	FIN;3;V;IND;PST;SG	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock18.vislcg.txt:7:114
+# text = Ji marên Hindistanê ên xeternaktir.
+1	Ji	ji	_	_	ADP	_	_	_	_
+2	marên	mar	_	_	N;PL;MASC;DEF	_	_	_	_
+3	Hindistanê	Hindistan	_	_	FEM;PROPN;SG;DEF	_	_	_	_
+4	ên	yê	_	_	{FEM/MASC};ADP;PL	_	_	_	_
+5	xeternaktir	xeternak	_	_	CMPR;ADJ	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:21:507
+# text = Sala 1940'ê dest bi nivîsandina helbestên kurdî dike.
+1	Sala	sal	_	_	FEM;N;SG;DEF	_	_	_	_
+2	1940'ê	1940	_	_	NUM	_	_	_	_
+3	dest	dest	_	_	N;SG;MASC;DEF	_	_	_	_
+4	bi	bi	_	_	ADP	_	_	_	_
+5	nivîsandina	nivîsandin	_	_	FEM;N;SG;DEF	_	_	_	_
+6	helbestên	helbest	_	_	FEM;PL;N;DEF	_	_	_	_
+7	kurdî	kurdî	_	_	ADJ	_	_	_	_
+8	dike	kirin	_	_	FIN;PRS;V;3;IND;SG	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock06.vislcg.txt:1:0
+# text = Holmes: Yanî sebeba mirina wê bi tu awayî ne hate seh kirin.
+1	Holmes	Holmes	_	_	PROPN;MASC;SG	_	_	_	_
+2	:	:	_	_	_	_	_	_	_
+3	Yanî	yanî	_	_	CONJ	_	_	_	_
+4	sebeba	sebeb	_	_	FEM;N;SG;DEF	_	_	_	_
+5	mirina	mirin	_	_	FEM;N;SG;DEF	_	_	_	_
+6	wê	ew	_	_	FEM;PRO;3;SG	_	_	_	_
+7	bi	bi	_	_	ADP	_	_	_	_
+8	tu	tu	_	_	DET;NEG	_	_	_	_
+9	awayî	awa	_	_	FEM;N;SG;DEF	_	_	_	_
+10	ne	ne	_	_	ADV;NEG	_	_	_	_
+11	hate	hatin	_	_	FIN;V;3;IND;PST;SG;PFV	_	_	_	_
+12	seh	seh	_	_	FEM;N;SG;NOM;DEF	_	_	_	_
+13	kirin	kirin	_	_	NFIN;V	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:73:2029
+# text = Ji sala 1829 heya 1833 endamê meclîsa temsîlkar e.
+1	Ji	ji	_	_	ADP	_	_	_	_
+2	sala	sal	_	_	FEM;N;SG;DEF	_	_	_	_
+3	1829	1829	_	_	NUM	_	_	_	_
+4	heya	heya	_	_	ADP	_	_	_	_
+5	1833	1833	_	_	NUM	_	_	_	_
+6	endamê	endam	_	_	N;SG;MASC;DEF	_	_	_	_
+7	meclîsa	meclîs	_	_	FEM;N;SG;DEF	_	_	_	_
+8	temsîlkar	temsîlkar	_	_	N;SG;MASC;DEF	_	_	_	_
+9	e	bûn	_	_	FIN;PRS;3;V;IND;SG	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:408:11282
+# text = Ji ber ku dema dîl dikeve destê îngilîzan ji aliyê serbazekî îngilîz ve bi şûrê, ji ser-çavê xwe tê birîndar kirin û cîhê birînê her dimîne.
+1	Ji	ji	_	_	_	_	_	_	_
+2	ber	ber	_	_	_	_	_	_	_
+3	ku	ku	_	_	CONJ	_	_	_	_
+4	dema	dema	_	_	CONJ	_	_	_	_
+5	dîl	dîl	_	_	NOM;MASC;SG;DEF;N	_	_	_	_
+6	dikeve	ketin	_	_	PRS;3;SG;V;IND;FIN	_	_	_	_
+7	destê	dest	_	_	MASC;SG;DEF;N	_	_	_	_
+8	îngilîzan	îngilîz	_	_	MASC;DEF;PL;N	_	_	_	_
+9	ji	ji	_	_	ADP	_	_	_	_
+10	aliyê	alî	_	_	MASC;SG;DEF;N	_	_	_	_
+11	serbazekî	serbaz	_	_	MASC;SG;N	_	_	_	_
+12	îngilîz	îngilîz	_	_	MASC;SG;DEF;N	_	_	_	_
+13	ve	ve	_	_	ADP	_	_	_	_
+14	bi	bi	_	_	ADP	_	_	_	_
+15	şûrê	şûr	_	_	MASC;SG;DEF;N	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	ji	ji	_	_	ADP	_	_	_	_
+18	ser	ser	_	_	MASC;SG;DEF;N	_	_	_	_
+19	-	-	_	_	_	_	_	_	_
+20	çavê	çav	_	_	MASC;SG;DEF;N	_	_	_	_
+21	xwe	xwe	_	_	{FEM/MASC};PRO;REFL;{PL/SG}	_	_	_	_
+22	tê	hatin	_	_	PRS;3;SG;V;IND;FIN	_	_	_	_
+23	birîndar	birîndar	_	_	ADJ	_	_	_	_
+24	kirin	kirin	_	_	V;NFIN	_	_	_	_
+25	û	û	_	_	CONJ	_	_	_	_
+26	cîhê	cih	_	_	MASC;SG;DEF;N	_	_	_	_
+27	birînê	birîn	_	_	SG;DEF;N;FEM	_	_	_	_
+28	her	her	_	_	ADV	_	_	_	_
+29	dimîne	man	_	_	PRS;3;SG;V;IND;FIN	_	_	_	_
+30	.	.	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:385:10678
+# text = Sala 1986a di 15 saliya xwe de mişext dibe û diçe Tirkiyê.
+1	Sala	sal	_	_	FEM;N;SG;DEF	_	_	_	_
+2	1986a	1986	_	_	NUM	_	_	_	_
+3	di	di	_	_	ADP	_	_	_	_
+4	15	15	_	_	NUM	_	_	_	_
+5	saliya	salî	_	_	ADJ	_	_	_	_
+6	xwe	xwe	_	_	{FEM/MASC};PRO;REFL;{PL/SG}	_	_	_	_
+7	de	de	_	_	ADP	_	_	_	_
+8	mişext	mişext	_	_	N;SG;MASC;NOM;DEF	_	_	_	_
+9	dibe	bûn	_	_	FIN;PRS;3;V;IND;SG	_	_	_	_
+10	û	û	_	_	CONJ	_	_	_	_
+11	diçe	çûn	_	_	FIN;PRS;V;3;IND;SG	_	_	_	_
+12	Tirkiyê	Tirkiye	_	_	FEM;PROPN;SG;DEF	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:31:774
+# text = Piştre, di her demê de şer bi kurdan rê hat kirin.
+1	Piştre	piştre	_	_	ADV	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	di	di	_	_	ADP	_	_	_	_
+4	her	her	_	_	DET;{FEM/MASC};SG	_	_	_	_
+5	demê	dem	_	_	FEM;N;SG	_	_	_	_
+6	de	de	_	_	ADP	_	_	_	_
+7	şer	şer	_	_	N;SG;MASC;NOM;DEF	_	_	_	_
+8	bi	bi	_	_	ADP	_	_	_	_
+9	kurdan	kurd	_	_	N;PL;MASC;DEF	_	_	_	_
+10	rê	re	_	_	ADP	_	_	_	_
+11	hat	hatin	_	_	FIN;V;3;IND;PST;SG	_	_	_	_
+12	kirin	kirin	_	_	NFIN;V	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock04.vislcg.txt:18:432
+# text = Bi tenê ev her du pirs ji devên wê derketin: «Şelîteke belek»
+1	Bi	bi	_	_	ADP	_	_	_	_
+2	tenê	tenê	_	_	ADV	_	_	_	_
+3	ev	ev	_	_	{FEM/MASC};DET;{PL/SG};NOM	_	_	_	_
+4	her	her	_	_	DET;{FEM/MASC};SG	_	_	_	_
+5	du	du	_	_	NUM;PL;NOM;DEF	_	_	_	_
+6	pirs	pirs	_	_	FEM;N;PL;NOM;DEF	_	_	_	_
+7	ji	ji	_	_	ADP	_	_	_	_
+8	devên	dev	_	_	N;PL;MASC;DEF	_	_	_	_
+9	wê	ew	_	_	FEM;PRO;3;SG	_	_	_	_
+10	derketin	derketin	_	_	PL;FIN;V;3;IND;PST	_	_	_	_
+11	:	:	_	_	_	_	_	_	_
+12	«	«	_	_	_	_	_	_	_
+13	Şelîteke	şelît	_	_	FEM;N;SG	_	_	_	_
+14	belek	belek	_	_	ADJ	_	_	_	_
+15	»	»	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:344:9480
+# text = Sokrates wek kes bi piranî mîna razek dîrokî maye.
+1	Sokrates	Sokrates	_	_	PROPN;MASC;NOM;SG	_	_	_	_
+2	wek	wek	_	_	ADP	_	_	_	_
+3	kes	kes	_	_	N;SG;MASC;DEF	_	_	_	_
+4	bi	bi	_	_	ADP	_	_	_	_
+5	piranî	piranî	_	_	FEM;N;SG;NOM;DEF	_	_	_	_
+6	mîna	mîna	_	_	ADV	_	_	_	_
+7	razek	raz	_	_	FEM;N;SG;NOM	_	_	_	_
+8	dîrokî	dîrokî	_	_	ADJ	_	_	_	_
+9	maye	man	_	_	FIN;V;3;NFH;IND;PST;SG	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock10.vislcg.txt:4:99
+# text = Holmes: Divêt em lezê bidin xwe û odeyên ko te wesfê wan dane me divêt em bibînin.
+1	Holmes	Holmes	_	_	PROPN;MASC;SG	_	_	_	_
+2	:	:	_	_	_	_	_	_	_
+3	Divêt	divêtin	_	_	FIN;PRS;V;3;IND;SG	_	_	_	_
+4	em	em	_	_	{FEM/MASC};1;PRO;PL;NOM	_	_	_	_
+5	lezê	lez	_	_	FEM;N;SG;DEF	_	_	_	_
+6	bidin	dan	_	_	SBJV;1;FIN;PRS;V;PL	_	_	_	_
+7	xwe	xwe	_	_	{FEM/MASC};PRO;REFL;{PL/SG}	_	_	_	_
+8	û	û	_	_	CONJ	_	_	_	_
+9	odeyên	ode	_	_	FEM;PL;N;DEF	_	_	_	_
+10	ko	ku	_	_	CONJ	_	_	_	_
+11	te	tu	_	_	{FEM/MASC};PRO;SG;2	_	_	_	_
+12	wesfê	wesf	_	_	N;SG;MASC;DEF	_	_	_	_
+13	wan	ew	_	_	{FEM/MASC};PRO;PL	_	_	_	_
+14	dane	dan	_	_	PL;FIN;V;3;NFH;IND;PST	_	_	_	_
+15	me	em	_	_	{FEM/MASC};1;PRO;PL	_	_	_	_
+16	divêt	divêtin	_	_	FIN;PRS;V;3;IND;SG	_	_	_	_
+17	em	em	_	_	{FEM/MASC};1;PRO;PL;NOM	_	_	_	_
+18	bibînin	dîtin	_	_	SBJV;1;FIN;PRS;V;PL	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock11.vislcg.txt:12:297
+# text = Ji ber ko li gora tekberên odêyen din werîs di rengekî nû de xuya dike.
+1	Ji	ji	_	_	ADP	_	_	_	_
+2	ber	ber	_	_	ADP	_	_	_	_
+3	ko	ku	_	_	CONJ	_	_	_	_
+4	li	li	_	_	ADP	_	_	_	_
+5	gora	gor	_	_	FEM;N;SG;DEF	_	_	_	_
+6	tekberên	tekber	_	_	FEM;PL;N;DEF	_	_	_	_
+7	odêyen	ode	_	_	FEM;PL;N;DEF	_	_	_	_
+8	din	din	_	_	ADJ	_	_	_	_
+9	werîs	werîs	_	_	N;SG;MASC;DEF	_	_	_	_
+10	di	di	_	_	ADP	_	_	_	_
+11	rengekî	reng	_	_	N;SG;MASC	_	_	_	_
+12	nû	nû	_	_	ADJ	_	_	_	_
+13	de	de	_	_	ADP	_	_	_	_
+14	xuya dike	xuyakirin	_	_	FIN;PRS;V;3;IND;SG	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock14.vislcg.txt:8:245
+# text = Em îşê xwe dizanin.
+1	Em	em	_	_	{FEM/MASC};1;PRO;PL;NOM	_	_	_	_
+2	îşê	îş	_	_	N;SG;MASC;DEF	_	_	_	_
+3	xwe	xwe	_	_	{FEM/MASC};PRO;REFL;{PL/SG}	_	_	_	_
+4	dizanin	zanîn	_	_	1;PL;FIN;PRS;V;IND	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock01.vislcg.txt:15:363
+# text = Holmes gotê: Roja te xweş banû; tu bi xêr hatî.
+1	Holmes	Holmes	_	_	PROPN;MASC;SG	_	_	_	_
+2	gotê	gotin	_	_	FIN;V;3;NFH;IND;PST;SG	_	_	_	_
+3	:	:	_	_	_	_	_	_	_
+4	Roja	roj	_	_	FEM;N;SG;DEF	_	_	_	_
+5	te	tu	_	_	{FEM/MASC};PRO;SG;2	_	_	_	_
+6	xweş	xweş	_	_	ADJ	_	_	_	_
+7	banû	banû	_	_	FEM;N;SG;NOM;DEF	_	_	_	_
+8	;	;	_	_	_	_	_	_	_
+9	tu	tu	_	_	{FEM/MASC};PRO;SG;2;NOM	_	_	_	_
+10	bi	bi	_	_	ADP	_	_	_	_
+11	xêr	xêr	_	_	FEM;N;SG;NOM;DEF	_	_	_	_
+12	hatî	hatin	_	_	FIN;V;IND;PST;SG;2	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:262:7143
+# text = Li Stenbolê digel ronakbîrên kurdan ew jî yek ji aktîftirîn kesan e ko beşdarî kar û barên siyasî û kulturî yên kurdan dibe.
+1	Li	li	_	_	ADP	_	_	_	_
+2	Stenbolê	Stenbol	_	_	FEM;PROPN;SG;DEF	_	_	_	_
+3	digel	digel	_	_	ADP	_	_	_	_
+4	ronakbîrên	ronakbîr	_	_	N;PL;MASC;DEF	_	_	_	_
+5	kurdan	kurd	_	_	N;PL;MASC;DEF	_	_	_	_
+6	ew	ew	_	_	{FEM/MASC};PRO;3;SG;NOM	_	_	_	_
+7	jî	jî	_	_	PART	_	_	_	_
+8	yek	yek	_	_	NUM;SG;NOM;DEF	_	_	_	_
+9	ji	ji	_	_	ADP	_	_	_	_
+10	aktîftirîn	aktîf	_	_	RL;ADJ	_	_	_	_
+11	kesan	kes	_	_	N;PL;MASC;DEF	_	_	_	_
+12	e	bûn	_	_	FIN;PRS;3;V;IND;SG	_	_	_	_
+13	ko	ku	_	_	CONJ	_	_	_	_
+14	beşdarî	beşdar	_	_	N;SG;MASC;DEF	_	_	_	_
+15	kar	kar	_	_	N;SG;MASC;DEF	_	_	_	_
+16	û	û	_	_	CONJ	_	_	_	_
+17	barên	bar	_	_	N;PL;MASC;DEF	_	_	_	_
+18	siyasî	sîyasî	_	_	ADJ	_	_	_	_
+19	û	û	_	_	CONJ	_	_	_	_
+20	kulturî	kulturî	_	_	ADJ	_	_	_	_
+21	yên	yê	_	_	{FEM/MASC};ADP;PL	_	_	_	_
+22	kurdan	kurd	_	_	FEM;N;PL;DEF	_	_	_	_
+23	dibe	bûn	_	_	FIN;PRS;3;V;IND;SG	_	_	_	_
+24	.	.	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock12.vislcg.txt:16:377
+# text = Kaxezên zirbavê min.
+1	Kaxezên	kaxez	_	_	FEM;PL;N;DEF	_	_	_	_
+2	zirbavê	zirbav	_	_	N;SG;MASC;DEF	_	_	_	_
+3	min	ez	_	_	{FEM/MASC};1;PRO;SG	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:415:11475
+# text = Ev çi ye?
+1	Ev	ev	_	_	NOM;{FEM/MASC};PRO;{PL/SG}	_	_	_	_
+2	çi	çi	_	_	NOM;{FEM/MASC};PRO;{PL/SG}	_	_	_	_
+3	ye	bûn	_	_	PRS;3;SG;IND;FIN;V	_	_	_	_
+4	?	?	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:200:5470
+# text = Li ser çemê Efrînê pira kevnar a dîrokî heye, ku ew jî nêzî kelha Horî ye.
+1	Li	li	_	_	_	_	_	_	_
+2	ser	ser	_	_	ADP	_	_	_	_
+3	çemê	çem	_	_	N;SG;MASC;DEF	_	_	_	_
+4	Efrînê	Efrîn	_	_	FEM;PROPN;SG;DEF	_	_	_	_
+5	pira	pir	_	_	FEM;N;SG;DEF	_	_	_	_
+6	kevnar	kevnar	_	_	ADJ	_	_	_	_
+7	a	yê	_	_	FEM;SG;ADP	_	_	_	_
+8	dîrokî	dîrokî	_	_	ADJ	_	_	_	_
+9	heye	hebûn	_	_	FIN;PRS;3;V;IND;SG	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	ku	ku	_	_	CONJ	_	_	_	_
+12	ew	ew	_	_	{FEM/MASC};PRO;3;SG;NOM	_	_	_	_
+13	jî	jî	_	_	PART	_	_	_	_
+14	nêzî	nêzî	_	_	ADV	_	_	_	_
+15	kelha	kelh	_	_	ADJ	_	_	_	_
+16	Horî	horî	_	_	FEM;N;SG;NOM;DEF	_	_	_	_
+17	ye	bûn	_	_	FIN;PRS;3;V;IND;SG	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock07.vislcg.txt:13:373
+# text = Lê min cenabê te nas ne kir.
+1	Lê	lê	_	_	CONJ	_	_	_	_
+2	min	ez	_	_	{FEM/MASC};1;PRO;SG	_	_	_	_
+3	cenabê	cenab	_	_	N;SG;MASC;DEF	_	_	_	_
+4	te	tu	_	_	{FEM/MASC};PRO;SG;2	_	_	_	_
+5	nas	nas	_	_	FEM;N;SG;NOM;DEF	_	_	_	_
+6	ne	ne	_	_	ADV;NEG	_	_	_	_
+7	kir	kirin	_	_	FIN;V;3;IND;PST;SG	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:341:9364
+# text = Di nav xalkê de weke vegotinekê tê gotin ku "Şahmaran deh hezar sal jîn bû. "
+1	Di	di	_	_	ADP	_	_	_	_
+2	nav	nav	_	_	N;SG;MASC;DEF	_	_	_	_
+3	xalkê	xalk	_	_	N;SG;MASC;DEF	_	_	_	_
+4	de	de	_	_	ADP	_	_	_	_
+5	weke	weke	_	_	ADP	_	_	_	_
+6	vegotinekê	vegotin	_	_	FEM;N;SG	_	_	_	_
+7	tê	hatin	_	_	FIN;PRS;V;3;IND;SG	_	_	_	_
+8	gotin	gotin	_	_	NFIN;V	_	_	_	_
+9	ku	ku	_	_	CONJ	_	_	_	_
+10	"	"	_	_	_	_	_	_	_
+11	Şahmaran	Şahmaran	_	_	SG;PROPN;NOM;FEM	_	_	_	_
+12	deh	deh	_	_	NUM;PL;NOM;DEF	_	_	_	_
+13	hezar	hezar	_	_	NUM;PL	_	_	_	_
+14	sal	sal	_	_	FEM;N;SG;NOM;DEF	_	_	_	_
+15	jîn	jîn	_	_	FEM;N;SG;NOM;DEF	_	_	_	_
+16	bû	bûn	_	_	FIN;3;V;IND;PST;SG	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+18	"	"	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock01.vislcg.txt:27:768
+# text = Îro bi min re tu tişt nîne.
+1	Îro	îro	_	_	ADV	_	_	_	_
+2	bi	bi	_	_	ADP	_	_	_	_
+3	min	ez	_	_	{FEM/MASC};1;PRO;SG	_	_	_	_
+4	re	re	_	_	ADP	_	_	_	_
+5	tu	tu	_	_	DET;NEG	_	_	_	_
+6	tişt	tişt	_	_	N;SG;MASC;NOM;DEF	_	_	_	_
+7	nîne	hebûn	_	_	NEG;FIN;PRS;3;V;IND;SG	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock18.vislcg.txt:16:345
+# text = Roja dîtir Holmes gote min: Bêşik te her tişt seh kirine.
+1	Roja	roj	_	_	FEM;N;SG;DEF	_	_	_	_
+2	dîtir	dîtir	_	_	ADJ	_	_	_	_
+3	Holmes	Holmes	_	_	PROPN;MASC;SG	_	_	_	_
+4	gote	gotin	_	_	FIN;V;3;NFH;IND;PST;SG	_	_	_	_
+5	min	ez	_	_	{FEM/MASC};1;PRO;SG	_	_	_	_
+6	:	:	_	_	_	_	_	_	_
+7	Bêşik	Bêşik	_	_	ADV	_	_	_	_
+8	te	tu	_	_	{FEM/MASC};PRO;SG;2	_	_	_	_
+9	her	her	_	_	DET;{FEM/MASC};SG	_	_	_	_
+10	tişt	tişt	_	_	N;PL;MASC;NOM;DEF	_	_	_	_
+11	seh	seh	_	_	FEM;N;SG;NOM;DEF	_	_	_	_
+12	kirine	kirin	_	_	PL;FIN;V;3;NFH;IND;PST	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:274:7508
+# text = Li Yekîtiya Ewropayê îngilîzî zimanekî fermî ye.
+1	Li	li	_	_	ADP	_	_	_	_
+2	Yekîtiya	yekîtî	_	_	FEM;N;SG;DEF	_	_	_	_
+3	Ewropayê	ewropa	_	_	FEM;PROPN;SG;DEF	_	_	_	_
+4	îngilîzî	îngilîzî	_	_	FEM;N;SG;NOM;DEF	_	_	_	_
+5	zimanekî	ziman	_	_	N;SG;MASC	_	_	_	_
+6	fermî	fermî	_	_	ADJ	_	_	_	_
+7	ye	bûn	_	_	FIN;PRS;3;V;IND;SG	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock17.vislcg.txt:17:387
+# text = Li ser ejnûyên wî şelîta çerm ya ko me bi roj dîti bû xuya dikir.
+1	Li	li	_	_	_	_	_	_	_
+2	ser	ser	_	_	ADP	_	_	_	_
+3	ejnûyên	ejnû	_	_	FEM;PL;N;DEF	_	_	_	_
+4	wî	ew	_	_	PRO;3;SG;MASC	_	_	_	_
+5	şelîta	şelît	_	_	FEM;N;SG;DEF	_	_	_	_
+6	çerm	çerm	_	_	N;SG;MASC;DEF	_	_	_	_
+7	ya	yê	_	_	FEM;SG;ADP	_	_	_	_
+8	ko	ku	_	_	CONJ	_	_	_	_
+9	me	em	_	_	{FEM/MASC};1;PRO;PL	_	_	_	_
+10	bi	bi	_	_	ADP	_	_	_	_
+11	roj	roj	_	_	FEM;N;SG;NOM;DEF	_	_	_	_
+12	dîti bû	dîtin	_	_	FIN;V;3;PST+PRF;IND;SG	_	_	_	_
+13	xuya dikir	xuyakirin	_	_	NEG;FIN;V;3;IND;PST;SG	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:260:7098
+# text = Xela, birçîbûn û tunebûna xwarin-vexwarinê ya herî zêde ye.
+1	Xela	xela	_	_	FEM;N;SG;NOM;DEF	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	birçîbûn	birçîbûn	_	_	FEM;N;SG;NOM;DEF	_	_	_	_
+4	û	û	_	_	CONJ	_	_	_	_
+5	tunebûna	tunebûn	_	_	FEM;N;SG;DEF	_	_	_	_
+6	xwarin	xwarin	_	_	FEM;N;SG;NOM;DEF	_	_	_	_
+7	-	-	_	_	_	_	_	_	_
+8	vexwarinê	vexwarin	_	_	FEM;N;SG;DEF	_	_	_	_
+9	ya	yê	_	_	FEM;SG;ADP	_	_	_	_
+10	herî	herî	_	_	ADV	_	_	_	_
+11	zêde	zêde	_	_	ADJ	_	_	_	_
+12	ye	bûn	_	_	FIN;PRS;3;V;IND;SG	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:352:9688
+# text = Mirov dikare bêje, ew gihîştiye nêrîneke taybet bo xwe.
+1	Mirov	mirov	_	_	N;SG;MASC;NOM;DEF	_	_	_	_
+2	dikare	karîn	_	_	FIN;PRS;V;3;IND;SG	_	_	_	_
+3	bêje	gotin	_	_	SBJV;FIN;PRS;V;3;SG	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	ew	ew	_	_	{FEM/MASC};PRO;3;SG;NOM	_	_	_	_
+6	gihîştiye	gihîştin	_	_	FIN;V;NFH;IND;PST;SG;2	_	_	_	_
+7	nêrîneke	nêrîn	_	_	FEM;N;SG	_	_	_	_
+8	taybet	taybet	_	_	ADJ	_	_	_	_
+9	bo	bo	_	_	ADP	_	_	_	_
+10	xwe	xwe	_	_	{FEM/MASC};PRO;REFL;{PL/SG}	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock03.vislcg.txt:24:640
+# text = Min jî derî li xwe girt.
+1	Min	ez	_	_	{FEM/MASC};1;PRO;SG	_	_	_	_
+2	jî	jî	_	_	PART	_	_	_	_
+3	derî	derî	_	_	N;SG;MASC;DEF	_	_	_	_
+4	li	li	_	_	ADP	_	_	_	_
+5	xwe	xwe	_	_	{FEM/MASC};PRO;REFL;{PL/SG}	_	_	_	_
+6	girt	girtin	_	_	FIN;V;3;IND;PST;SG	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock04.vislcg.txt:15:363
+# text = Min kir ko ez wê rakim.
+1	Min	ez	_	_	{FEM/MASC};1;PRO;SG	_	_	_	_
+2	kir	kirin	_	_	FIN;V;3;IND;PST;SG	_	_	_	_
+3	ko	ku	_	_	CONJ	_	_	_	_
+4	ez	ez	_	_	{FEM/MASC};1;PRO;SG;NOM	_	_	_	_
+5	wê	ew	_	_	FEM;PRO;3;SG	_	_	_	_
+6	rakim	rakirin	_	_	SBJV;1;FIN;PRS;V;SG	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock17.vislcg.txt:5:103
+# text = Di pey re me qîrîneke ecêb bihîst.
+1	Di	di	_	_	ADP	_	_	_	_
+2	pey	pey	_	_	N;SG;MASC;DEF	_	_	_	_
+3	re	re	_	_	ADP	_	_	_	_
+4	me	em	_	_	{FEM/MASC};1;PRO;PL	_	_	_	_
+5	qîrîneke	qîrîneke	_	_	FEM;N;SG	_	_	_	_
+6	ecêb	ecêb	_	_	ADJ	_	_	_	_
+7	bihîst	bihîstin	_	_	FIN;V;3;IND;PST;SG	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:229:6231
+# text = Ji bo vê yekê Îmam Şafîî ji bo xwe ji gelemşa Îraqê dûr bixe demek dirêj li Mekkê bi cih bû.
+1	Ji	ji	_	_	_	_	_	_	_
+2	bo	bo	_	_	ADP	_	_	_	_
+3	vê	ev	_	_	DET;FEM;SG	_	_	_	_
+4	yekê	yek	_	_	NUM;SG;DEF	_	_	_	_
+5	Îmam	îmam	_	_	N;SG;MASC;DEF	_	_	_	_
+6	Şafîî	Şafîî	_	_	PROPN;MASC;SG	_	_	_	_
+7	ji	ji	_	_	_	_	_	_	_
+8	bo	bo	_	_	ADP	_	_	_	_
+9	xwe	xwe	_	_	{FEM/MASC};PRO;REFL;{PL/SG}	_	_	_	_
+10	ji	ji	_	_	ADP	_	_	_	_
+11	gelemşa	gelemşe	_	_	FEM;N;SG;DEF	_	_	_	_
+12	Îraqê	Îraq	_	_	FEM;PROPN;SG;DEF	_	_	_	_
+13	dûr bixe	dûrxistin	_	_	SBJV;FIN;PRS;V;3;SG	_	_	_	_
+14	demek	dem	_	_	N;SG;MASC;NOM	_	_	_	_
+15	dirêj	dirêj	_	_	ADJ	_	_	_	_
+16	li	li	_	_	ADP	_	_	_	_
+17	Mekkê	Mekkê	_	_	FEM;PROPN;SG;NOM;DEF	_	_	_	_
+18	bi	bi	_	_	ADP	_	_	_	_
+19	cih	cih	_	_	N;SG;MASC;DEF	_	_	_	_
+20	bû	bûn	_	_	FIN;3;V;IND;PST;SG	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:67:1823
+# text = Di nasnameyê de, pêşî nav, paşnav, ol, hijmar û hwd tên nivîsandin.
+1	Di	di	_	_	ADP	_	_	_	_
+2	nasnameyê	nasname	_	_	FEM;N;SG;DEF	_	_	_	_
+3	de	de	_	_	ADP	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	pêşî	pêşî	_	_	ADP	_	_	_	_
+6	nav	nav	_	_	N;SG;MASC;DEF	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	paşnav	paşnav	_	_	N;SG;MASC;DEF	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	ol	ol	_	_	FEM;N;SG;NOM;DEF	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	hijmar	hijmar	_	_	FEM;N;SG;NOM;DEF	_	_	_	_
+13	û	û	_	_	CONJ	_	_	_	_
+14	hwd	hwd	_	_	N	_	_	_	_
+15	tên	hatin	_	_	PL;FIN;PRS;V;3;IND	_	_	_	_
+16	nivîsandin	nivîsandin	_	_	NFIN;V	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock11.vislcg.txt:1:0
+# text = Holmes bi pertavsoja xwe jî li wan hûr bû; lê jê jî tu netîce ne xiste destên xwe.
+1	Holmes	Holmes	_	_	PROPN;MASC;NOM;SG	_	_	_	_
+2	bi	bi	_	_	ADP	_	_	_	_
+3	pertavsoja	pertavsoj	_	_	FEM;N;SG;DEF	_	_	_	_
+4	xwe	xwe	_	_	{FEM/MASC};PRO;REFL;{PL/SG}	_	_	_	_
+5	jî	jî	_	_	PART	_	_	_	_
+6	li	li	_	_	ADP	_	_	_	_
+7	wan	ew	_	_	{FEM/MASC};PRO;3;PL	_	_	_	_
+8	hûr	hûr	_	_	ADJ	_	_	_	_
+9	bû	bûn	_	_	FIN;3;V;IND;PST;SG	_	_	_	_
+10	;	;	_	_	_	_	_	_	_
+11	lê	lê	_	_	CONJ	_	_	_	_
+12	jê	ji	_	_	ADP	_	_	_	_
+13	_	ew	_	_	{FEM/MASC};PRO;3;SG	_	_	_	_
+14	jî	jî	_	_	PART	_	_	_	_
+15	tu	tu	_	_	DET;NEG	_	_	_	_
+16	netîce	netîce	_	_	FEM;N;SG;NOM;DEF	_	_	_	_
+17	ne	ne	_	_	ADV;NEG	_	_	_	_
+18	xiste	xistin	_	_	FIN;V;3;NFH;IND;PST;SG	_	_	_	_
+19	destên	dest	_	_	N;PL;MASC;DEF	_	_	_	_
+20	xwe	xwe	_	_	{FEM/MASC};PRO;REFL;{PL/SG}	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock03.vislcg.txt:11:308
+# text = Di a siseyan de xweha min rûdinişt.
+1	Di	di	_	_	ADP	_	_	_	_
+2	a	yê	_	_	FEM;SG;ADP	_	_	_	_
+3	siseyan	sise	_	_	NUM	_	_	_	_
+4	de	de	_	_	ADP	_	_	_	_
+5	xweha	xweh	_	_	FEM;N;SG;DEF	_	_	_	_
+6	min	ez	_	_	{FEM/MASC};1;PRO;SG	_	_	_	_
+7	rûdinişt	rûniştin	_	_	PROG;FIN;V;3;IND;PST;SG	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:396:10980
+# text = Lê dema ku mirov bêje Mîrê Botan, hingî jî, mirov behsa mîrê ku li Cizîra Botan mîr e dike.
+1	Lê	lê	_	_	CONJ	_	_	_	_
+2	dema	dema	_	_	_	_	_	_	_
+3	ku	ku	_	_	CONJ	_	_	_	_
+4	mirov	mirov	_	_	NOM;MASC;SG;DEF;N	_	_	_	_
+5	bêje	gotin	_	_	PRS;3;SG;V;FIN;SBJV	_	_	_	_
+6	Mîrê	mîr	_	_	MASC;SG;DEF;N	_	_	_	_
+7	Botan	Botan	_	_	PROPN;NOM;SG;DEF;FEM	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	hingî	hingî	_	_	ADV	_	_	_	_
+10	jî	jî	_	_	PART	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	mirov	mirov	_	_	NOM;MASC;SG;DEF;N	_	_	_	_
+13	behsa	behs	_	_	SG;DEF;N;FEM	_	_	_	_
+14	mîrê	mîr	_	_	MASC;SG;DEF;N	_	_	_	_
+15	ku	ku	_	_	CONJ	_	_	_	_
+16	li	li	_	_	ADP	_	_	_	_
+17	Cizîra	Cizîr	_	_	PROPN;SG;DEF;FEM	_	_	_	_
+18	Botan	Botan	_	_	PROPN;NOM;SG;DEF;FEM	_	_	_	_
+19	mîr	mîr	_	_	NOM;MASC;SG;DEF;N	_	_	_	_
+20	e	bûn	_	_	PRS;3;SG;IND;FIN;V	_	_	_	_
+21	dike	kirin	_	_	PRS;3;SG;V;IND;FIN	_	_	_	_
+22	.	.	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock15.vislcg.txt:7:117
+# text = Ji nişkekê ve tiştekî xwe ji daran avêt erdê, di nav giyan de meşiya û di tariya şevê de winda bû.
+1	Ji	ji	_	_	ADP	_	_	_	_
+2	nişkekê	nişk	_	_	FEM;N;SG;DEF	_	_	_	_
+3	ve	ve	_	_	ADP	_	_	_	_
+4	tiştekî	tişt	_	_	N;SG;MASC	_	_	_	_
+5	xwe	xwe	_	_	{FEM/MASC};PRO;REFL;{PL/SG}	_	_	_	_
+6	ji	ji	_	_	ADP	_	_	_	_
+7	daran	dar	_	_	FEM;N;PL;DEF	_	_	_	_
+8	avêt	avêtin	_	_	FIN;V;3;IND;PST;SG	_	_	_	_
+9	erdê	erd	_	_	FEM;N;SG;DEF	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	di	di	_	_	ADP	_	_	_	_
+12	nav	nav	_	_	N;PL;MASC;NOM;DEF	_	_	_	_
+13	giyan	giyan	_	_	N;SG;MASC;DEF	_	_	_	_
+14	de	de	_	_	ADP	_	_	_	_
+15	meşiya	meşîn	_	_	FIN;V;3;NFH;IND;PST;SG	_	_	_	_
+16	û	û	_	_	CONJ	_	_	_	_
+17	di	di	_	_	ADP	_	_	_	_
+18	tariya	tarî	_	_	FEM;N;SG;DEF	_	_	_	_
+19	şevê	şev	_	_	FEM;N;SG;DEF	_	_	_	_
+20	de	de	_	_	ADP	_	_	_	_
+21	winda	winda	_	_	ADJ	_	_	_	_
+22	bû	bûn	_	_	FIN;3;V;IND;PST;SG	_	_	_	_
+23	.	.	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:42:1148
+# text = Ev ne nav e lê mirov dikare bo navê vê xwarinê jî bikarbîne.
+1	Ev	ev	_	_	{FEM/MASC};PRO;{PL/SG};NOM	_	_	_	_
+2	ne	ne	_	_	ADV;NEG	_	_	_	_
+3	nav	nav	_	_	N;SG;MASC;NOM;DEF	_	_	_	_
+4	e	bûn	_	_	FIN;PRS;3;V;IND;SG	_	_	_	_
+5	lê	lê	_	_	CONJ	_	_	_	_
+6	mirov	mirov	_	_	N;SG;MASC;NOM;DEF	_	_	_	_
+7	dikare	karîn	_	_	FIN;PRS;V;3;IND;SG	_	_	_	_
+8	bo	bo	_	_	ADP	_	_	_	_
+9	navê	nav	_	_	N;SG;MASC;DEF	_	_	_	_
+10	vê	ev	_	_	DET;FEM;SG	_	_	_	_
+11	xwarinê	xwarin	_	_	FEM;N;SG	_	_	_	_
+12	jî	jî	_	_	PART	_	_	_	_
+13	bikarbîne	bikaranîn	_	_	SBJV;FIN;PRS;V;3;SG	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:214:5845
+# text = Di vê rêbazê de em ê zanyariyên giştî yên armoniyê heta asteke diyarkirî bibînin.
+1	Di	di	_	_	ADP	_	_	_	_
+2	vê	ev	_	_	DET;FEM;SG	_	_	_	_
+3	rêbazê	rêbaz	_	_	FEM;N;SG	_	_	_	_
+4	de	de	_	_	ADP	_	_	_	_
+5	em	em	_	_	{FEM/MASC};1;PRO;PL;NOM	_	_	_	_
+6	ê	dê	_	_	FUT;PART	_	_	_	_
+7	zanyariyên	zanyarî	_	_	FEM;N;VOC;PL;DEF	_	_	_	_
+8	giştî	giştî	_	_	ADJ	_	_	_	_
+9	yên	yê	_	_	{FEM/MASC};ADP;PL	_	_	_	_
+10	armoniyê	armonî	_	_	FEM;N;SG;DEF	_	_	_	_
+11	heta	heta	_	_	ADP	_	_	_	_
+12	asteke	ast	_	_	FEM;N;SG	_	_	_	_
+13	diyarkirî	diyarkirin	_	_	PST;V.PTCP;V	_	_	_	_
+14	bibînin	dîtin	_	_	PL;FUT;FIN;V;IND;2	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:97:2637
+# text = Anku, bo zelalkirina cihê navên berpirs tenê tê xebitandin.
+1	Anku	ango	_	_	CONJ	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	bo	bo	_	_	ADP	_	_	_	_
+4	zelalkirina	zelalkirin	_	_	FEM;N;SG;DEF	_	_	_	_
+5	cihê	cih	_	_	N;SG;MASC;DEF	_	_	_	_
+6	navên	nav	_	_	N;PL;MASC;DEF	_	_	_	_
+7	berpirs	berpirs	_	_	N;SG;MASC;DEF	_	_	_	_
+8	tenê	tenê	_	_	ADV	_	_	_	_
+9	tê	hatin	_	_	FIN;PRS;V;3;IND;SG	_	_	_	_
+10	xebitandin	xebitandin	_	_	NFIN;V	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:115:3115
+# text = Li bajarê Medînê hatiye danin û bi temamî 73 ayet e.
+1	Li	li	_	_	ADP	_	_	_	_
+2	bajarê	bajar	_	_	N;SG;MASC;DEF	_	_	_	_
+3	Medînê	Medîne	_	_	FEM;PROPN;SG;DEF	_	_	_	_
+4	hatiye	hatin	_	_	FIN;V;3;NFH;IND;PST;SG	_	_	_	_
+5	danin	danîn	_	_	NFIN;V	_	_	_	_
+6	û	û	_	_	CONJ	_	_	_	_
+7	bi	bi	_	_	ADP	_	_	_	_
+8	temamî	temamî	_	_	FEM;N;SG;NOM;DEF	_	_	_	_
+9	73	73	_	_	NUM	_	_	_	_
+10	ayet	ayet	_	_	FEM;N;SG;NOM;DEF	_	_	_	_
+11	e	bûn	_	_	FIN;PRS;3;V;IND;SG	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:110:2978
+# text = Ahmet di van deman de giraniyê dide konseran.
+1	Ahmet	Ahmet	_	_	PROPN;MASC;NOM;SG	_	_	_	_
+2	di	di	_	_	ADP	_	_	_	_
+3	van	ev	_	_	{FEM/MASC};DET;PL	_	_	_	_
+4	deman	dem	_	_	N;PL;MASC	_	_	_	_
+5	de	de	_	_	ADP	_	_	_	_
+6	giraniyê	giranî	_	_	FEM;N;SG;DEF	_	_	_	_
+7	dide	dan	_	_	FIN;PRS;V;3;IND;SG	_	_	_	_
+8	konseran	konser	_	_	FEM;N;PL;DEF	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:26:629
+# text = Georg Wilhelm Friedrich Hegel (27'ê gelawêja 1770-14'ê sermaweza 1831) fîlozofekî alman bû, li Stuttgartê ji dayik de bûye.
+1	Georg	Georg	_	_	PROPN;MASC;NOM;SG	_	_	_	_
+2	Wilhelm	Wilhelm	_	_	PROPN;MASC;NOM;SG	_	_	_	_
+3	Friedrich	Friedrich	_	_	PROPN;MASC;NOM;SG	_	_	_	_
+4	Hegel	Hegel	_	_	{FEM/MASC};PROPN;NOM;SG	_	_	_	_
+5	(	(	_	_	_	_	_	_	_
+6	27'ê	27	_	_	NUM	_	_	_	_
+7	gelawêja	gelawêj	_	_	FEM;N;SG;DEF	_	_	_	_
+8	1770	1770	_	_	NUM	_	_	_	_
+9	-	-	_	_	_	_	_	_	_
+10	14'ê	14	_	_	NUM	_	_	_	_
+11	sermaweza	sermawez	_	_	FEM;N;SG;DEF	_	_	_	_
+12	1831	1831	_	_	NUM	_	_	_	_
+13	)	)	_	_	_	_	_	_	_
+14	fîlozofekî	fîlozof	_	_	N;SG;MASC	_	_	_	_
+15	alman	alman	_	_	N;SG;MASC;DEF	_	_	_	_
+16	bû	bûn	_	_	FIN;3;V;IND;PST;SG	_	_	_	_
+17	,	,	_	_	_	_	_	_	_
+18	li	li	_	_	ADP	_	_	_	_
+19	Stuttgartê	Stuttgart	_	_	FEM;PROPN;SG;DEF	_	_	_	_
+20	ji	ji	_	_	ADP	_	_	_	_
+21	dayik	dayik	_	_	FEM;N;SG;NOM;DEF	_	_	_	_
+22	de	de	_	_	ADP	_	_	_	_
+23	bûye	bûn	_	_	FIN;3;V;NFH;IND;PST;SG	_	_	_	_
+24	.	.	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock18.vislcg.txt:4:55
+# text = Di nav pora diktor de marekî ecêb hebû; niho xwe tev dida.
+1	Di	di	_	_	ADP	_	_	_	_
+2	nav	nav	_	_	N;SG;MASC;NOM;DEF	_	_	_	_
+3	pora	por	_	_	FEM;N;SG;DEF	_	_	_	_
+4	diktor	diktor	_	_	N;SG;MASC;DEF	_	_	_	_
+5	de	de	_	_	ADP	_	_	_	_
+6	marekî	mar	_	_	N;SG;MASC	_	_	_	_
+7	ecêb	ecêb	_	_	ADJ	_	_	_	_
+8	hebû	hebûn	_	_	FIN;3;V;IND;PST;SG	_	_	_	_
+9	;	;	_	_	_	_	_	_	_
+10	niho	niha	_	_	ADV	_	_	_	_
+11	xwe	xwe	_	_	{FEM/MASC};PRO;REFL;{PL/SG}	_	_	_	_
+12	tev	tev	_	_	ADV	_	_	_	_
+13	dida	dan	_	_	PROG;FIN;V;3;IND;PST;SG	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:395:10944
+# text = Jê re heta îro jî, di nav kurdan de Zend-avesta jî tê gotin.
+1	Jê	ji	_	_	ADP	_	_	_	_
+2	_	ew	_	_	{FEM/MASC};PRO;3;SG	_	_	_	_
+3	re	re	_	_	ADP	_	_	_	_
+4	heta	heta	_	_	ADP	_	_	_	_
+5	îro	îro	_	_	N;SG;MASC;DEF	_	_	_	_
+6	jî	jî	_	_	PART	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	di	di	_	_	ADP	_	_	_	_
+9	nav	nav	_	_	ADP	_	_	_	_
+10	kurdan	kurd	_	_	N;PL;MASC;DEF	_	_	_	_
+11	de	de	_	_	ADP	_	_	_	_
+12	Zend	zend	_	_	N;SG;MASC;NOM;DEF	_	_	_	_
+13	-	-	_	_	_	_	_	_	_
+14	avesta	avesta	_	_	FEM;N;SG;NOM;DEF	_	_	_	_
+15	jî	jî	_	_	PART	_	_	_	_
+16	tê	hatin	_	_	FIN;PRS;V;3;IND;SG	_	_	_	_
+17	gotin	gotin	_	_	NFIN;V	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:310:8525
+# text = Wî li wir gelek stranên nadir û awazên hêja tomar kirin.
+1	Wî	ew	_	_	PRO;3;SG;MASC	_	_	_	_
+2	li	li	_	_	ADP	_	_	_	_
+3	wir	wir	_	_	ADV	_	_	_	_
+4	gelek	gelek	_	_	DET;PL	_	_	_	_
+5	stranên	stran	_	_	FEM;PL;N;DEF	_	_	_	_
+6	nadir	nadir	_	_	ADJ	_	_	_	_
+7	û	û	_	_	CONJ	_	_	_	_
+8	awazên	awaz	_	_	N;PL;MASC;DEF	_	_	_	_
+9	hêja	hêja	_	_	ADJ	_	_	_	_
+10	tomar kirin	tomarkirin	_	_	PL;FIN;V;3;IND;PST	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:157:4332
+# text = Lê di derbarê wê beşe de ti tiştek nayê gotin, ku ka çawa fêr bûya.
+1	Lê	lê	_	_	CONJ	_	_	_	_
+2	di	di	_	_	ADP	_	_	_	_
+3	derbarê	derbarê	_	_	ADP	_	_	_	_
+4	wê	ew	_	_	DET;FEM;SG	_	_	_	_
+5	beşe	beş	_	_	FEM;N;SG	_	_	_	_
+6	de	de	_	_	ADP	_	_	_	_
+7	ti	tu	_	_	DET;NEG	_	_	_	_
+8	tiştek	tişt	_	_	N;SG;MASC;NOM	_	_	_	_
+9	nayê	hatin	_	_	NEG;FIN;V;PRS;3;IND;SG	_	_	_	_
+10	gotin	gotin	_	_	NFIN;V	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	ku	ku	_	_	CONJ	_	_	_	_
+13	ka	ka	_	_	ADV	_	_	_	_
+14	çawa	çawa	_	_	ADV	_	_	_	_
+15	fêr	fêr	_	_	FEM;N;SG;NOM;DEF	_	_	_	_
+16	bûya	bûn	_	_	FIN;3;V;NFH;IND;PST;SG	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock16.vislcg.txt:11:181
+# text = Di pey wê pêlê me tiştek bihin kir; wek bihna dona zêtê an madenê ko dihate germ kirin.
+1	Di	di	_	_	ADP	_	_	_	_
+2	pey	pey	_	_	N;SG;MASC;DEF	_	_	_	_
+3	wê	ew	_	_	DET;FEM;SG	_	_	_	_
+4	pêlê	pêl	_	_	FEM;N;SG	_	_	_	_
+5	me	em	_	_	{FEM/MASC};1;PRO;PL	_	_	_	_
+6	tiştek	tişt	_	_	N;SG;MASC;NOM	_	_	_	_
+7	bihin	bîhn	_	_	FEM;N;SG;NOM;DEF	_	_	_	_
+8	kir	kirin	_	_	FIN;V;3;IND;PST;SG	_	_	_	_
+9	;	;	_	_	_	_	_	_	_
+10	wek	wek	_	_	ADP	_	_	_	_
+11	bihna	bîhn	_	_	FEM;N;SG;DEF	_	_	_	_
+12	dona	don	_	_	FEM;N;SG;DEF	_	_	_	_
+13	zêtê	zeyt	_	_	FEM;N;SG;DEF	_	_	_	_
+14	an	an	_	_	CONJ	_	_	_	_
+15	madenê	maden	_	_	N;SG;MASC;DEF	_	_	_	_
+16	ko	ku	_	_	CONJ	_	_	_	_
+17	dihate	hatin	_	_	PROG;FIN;V;3;NFH;IND;PST;SG	_	_	_	_
+18	germ	germ	_	_	ADJ	_	_	_	_
+19	kirin	kirin	_	_	NFIN;V	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:88:2450
+# text = Pakêta zimanê kurdî tenê bo sîstema bingehîn hatiye amadekirin.
+1	Pakêta	pakêt	_	_	FEM;N;SG;DEF	_	_	_	_
+2	zimanê	ziman	_	_	N;SG;MASC;DEF	_	_	_	_
+3	kurdî	kurdî	_	_	ADJ	_	_	_	_
+4	tenê	tenê	_	_	ADV	_	_	_	_
+5	bo	bo	_	_	ADP	_	_	_	_
+6	sîstema	sîstem	_	_	FEM;N;SG;DEF	_	_	_	_
+7	bingehîn	bingehîn	_	_	ADJ	_	_	_	_
+8	hatiye	hatin	_	_	FIN;V;3;NFH;IND;PST;SG	_	_	_	_
+9	amadekirin	amade kirin	_	_	NFIN;V	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock11.vislcg.txt:9:244
+# text = Zengil bi xwe li kû ye?
+1	Zengil	zengil	_	_	N;SG;MASC;NOM;DEF	_	_	_	_
+2	bi	bi	_	_	ADP	_	_	_	_
+3	xwe	xwe	_	_	{FEM/MASC};PRO;REFL;{PL/SG}	_	_	_	_
+4	li	li	_	_	ADP	_	_	_	_
+5	kû	ku	_	_	CONJ	_	_	_	_
+6	ye	bûn	_	_	FIN;PRS;3;V;IND;SG	_	_	_	_
+7	?	?	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock19.vislcg.txt:11:373
+# text = Keçik hat û em serwext kirin.
+1	Keçik	keçik	_	_	FEM;N;SG;NOM;DEF	_	_	_	_
+2	hat	hatin	_	_	FIN;V;3;IND;PST;SG	_	_	_	_
+3	û	û	_	_	CONJ	_	_	_	_
+4	em	em	_	_	{FEM/MASC};1;PRO;PL;NOM	_	_	_	_
+5	serwext	serwext	_	_	ADJ	_	_	_	_
+6	kirin	kirin	_	_	1;PL;FIN;V;IND;PST	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:36:938
+# text = Kurdên Belûçistanê komeke diyasporaya kurdan a dîrokî li welatê belûçiyan e.
+1	Kurdên	kurd	_	_	N;PL;MASC;DEF	_	_	_	_
+2	Belûçistanê	Belûçistan	_	_	FEM;PROPN;SG;DEF	_	_	_	_
+3	komeke	kom	_	_	FEM;N;SG	_	_	_	_
+4	diyasporaya	diyaspora	_	_	FEM;N;SG;DEF	_	_	_	_
+5	kurdan	kurd	_	_	N;PL;MASC;DEF	_	_	_	_
+6	a	yê	_	_	FEM;SG;ADP	_	_	_	_
+7	dîrokî	dîrokî	_	_	ADJ	_	_	_	_
+8	li	li	_	_	ADP	_	_	_	_
+9	welatê	welat	_	_	N;SG;MASC;DEF	_	_	_	_
+10	belûçiyan	belûçî	_	_	FEM;N;PL;DEF	_	_	_	_
+11	e	bûn	_	_	FIN;PRS;3;V;IND;SG	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock01.vislcg.txt:19:481
+# text = Baniwê got: Ne ji ber sermayê ez direcifim
+1	Baniwê	banû	_	_	FEM;N;SG;DEF	_	_	_	_
+2	got	gotin	_	_	FIN;V;3;IND;PST;SG	_	_	_	_
+3	:	:	_	_	_	_	_	_	_
+4	Ne	ne	_	_	ADV;NEG	_	_	_	_
+5	ji	ji	_	_	_	_	_	_	_
+6	ber	ber	_	_	ADP	_	_	_	_
+7	sermayê	serma	_	_	FEM;N;SG;DEF	_	_	_	_
+8	ez	ez	_	_	{FEM/MASC};1;PRO;SG;NOM	_	_	_	_
+9	direcifim	reciftin	_	_	1;FIN;PRS;V;IND;SG	_	_	_	_
+
+# sent_id = sherlock:sherlock02.vislcg.txt:24:654
+# text = Bi şertê ko li me binêre û wextê ko em bizewicin ji heryekê re çaryeka wî bidê.
+1	Bi	bi	_	_	ADP	_	_	_	_
+2	şertê	şert	_	_	FEM;N;SG;DEF	_	_	_	_
+3	ko	ku	_	_	CONJ	_	_	_	_
+4	li	li	_	_	ADP	_	_	_	_
+5	me	em	_	_	{FEM/MASC};1;PRO;PL	_	_	_	_
+6	binêre	nêrîn	_	_	SBJV;FIN;PRS;V;3;SG	_	_	_	_
+7	û	û	_	_	CONJ	_	_	_	_
+8	wextê	wextê	_	_	_	_	_	_	_
+9	ko	ku	_	_	CONJ	_	_	_	_
+10	em	em	_	_	{FEM/MASC};1;PRO;PL;NOM	_	_	_	_
+11	bizewicin	zewicîn	_	_	SBJV;1;FIN;PRS;V;PL	_	_	_	_
+12	ji	ji	_	_	ADP	_	_	_	_
+13	heryekê	heryek	_	_	SG;PRO	_	_	_	_
+14	re	re	_	_	ADP	_	_	_	_
+15	çaryeka	çaryek	_	_	FEM;N;SG;DEF	_	_	_	_
+16	wî	ew	_	_	PRO;3;SG;MASC	_	_	_	_
+17	bidê	dan	_	_	SBJV;FIN;PRS;V;3;SG	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:80:2230
+# text = Gorî pêdiviyan di tevahiya cureyên artêşê de, firqe tên sazkirin.
+1	Gorî	gorî	_	_	FEM;N;SG;NOM;DEF	_	_	_	_
+2	pêdiviyan	pêdivî	_	_	FEM;N;PL;DEF	_	_	_	_
+3	di	di	_	_	ADP	_	_	_	_
+4	tevahiya	tevahî	_	_	FEM;N;SG;DEF	_	_	_	_
+5	cureyên	cure	_	_	N;PL;MASC;DEF	_	_	_	_
+6	artêşê	artêş	_	_	FEM;N;SG;DEF	_	_	_	_
+7	de	de	_	_	ADP	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	firqe	firqe	_	_	FEM;N;PL;NOM;DEF	_	_	_	_
+10	tên	hatin	_	_	PL;FIN;PRS;V;3;IND	_	_	_	_
+11	sazkirin	sazkirin	_	_	NFIN;V	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:149:4135
+# text = Em bibêjin emê ji tona Do, bo nimûne, destpêbikin.
+1	Em	em	_	_	{FEM/MASC};1;PRO;PL;NOM	_	_	_	_
+2	bibêjin	gotin	_	_	SBJV;1;FIN;PRS;V;PL	_	_	_	_
+3	emê	em	_	_	{FEM/MASC};1;PRO;PL;NOM	_	_	_	_
+4	ê	dê	_	_	FUT;PART	_	_	_	_
+5	ji	ji	_	_	ADP	_	_	_	_
+6	tona	ton	_	_	FEM;N;SG;DEF	_	_	_	_
+7	Do	do	_	_	FEM;N;SG;NOM;DEF	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	bo	bo	_	_	ADP	_	_	_	_
+10	nimûne	nimûne	_	_	FEM;N;SG;DEF	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	destpêbikin	destpêkirin	_	_	1;PL;FUT;FIN;V;IND	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:217:5920
+# text = Ji sala 1923an û pê ve bi Mêrdînê ve hatiye girêdan.
+1	Ji	ji	_	_	ADP	_	_	_	_
+2	sala	sal	_	_	FEM;N;SG;DEF	_	_	_	_
+3	1923an	1923	_	_	NUM;PL	_	_	_	_
+4	û	û	_	_	CONJ	_	_	_	_
+5	pê	bi	_	_	ADP	_	_	_	_
+6	_	ew	_	_	PRO;SG;MASC	_	_	_	_
+7	ve	ve	_	_	ADP	_	_	_	_
+8	bi	bi	_	_	ADP	_	_	_	_
+9	Mêrdînê	Mêrdîn	_	_	FEM;PROPN;SG;DEF	_	_	_	_
+10	ve	ve	_	_	ADP	_	_	_	_
+11	hatiye	hatin	_	_	FIN;V;3;IND;PST;SG;PFV	_	_	_	_
+12	girêdan	girêdan	_	_	NFIN;V	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:150:4161
+# text = Di sadsale 20'an de, zanîn, ji her demê zêdetir pêşket.
+1	Di	di	_	_	ADP	_	_	_	_
+2	sadsale	sadsale	_	_	N;SG;MASC;DEF	_	_	_	_
+3	20'an	20	_	_	NUM;PL	_	_	_	_
+4	de	de	_	_	ADP	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	zanîn	zanîn	_	_	FEM;N;SG;NOM;DEF	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	ji	ji	_	_	ADP	_	_	_	_
+9	her	her	_	_	DET;{FEM/MASC};SG	_	_	_	_
+10	demê	dem	_	_	FEM;N;SG	_	_	_	_
+11	zêdetir	zêde	_	_	CMPR;ADJ	_	_	_	_
+12	pêşket	pêşketin	_	_	FIN;V;3;IND;PST;SG	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:241:6580
+# text = Ji bo nimûne, Keyaniya Yekbûyî jî wekî yekeyeke hesab dikirin dema welatên nifûsê ji Keyaniya Holendayê bi hev cûda hatin nirxandin.
+1	Ji	ji	_	_	_	_	_	_	_
+2	bo	bo	_	_	ADP	_	_	_	_
+3	nimûne	nimûne	_	_	FEM;N;SG;DEF	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	Keyaniya	keyanî	_	_	FEM;N;SG;DEF	_	_	_	_
+6	Yekbûyî	yekbûyî	_	_	ADJ	_	_	_	_
+7	jî	jî	_	_	PART	_	_	_	_
+8	wekî	wekî	_	_	ADP	_	_	_	_
+9	yekeyeke	yeke	_	_	FEM;N;SG	_	_	_	_
+10	hesab	hesab	_	_	N;PL;MASC;NOM;DEF	_	_	_	_
+11	dikirin	kirin	_	_	PROG;PL;FIN;V;3;IND;PST	_	_	_	_
+12	dema	dema	_	_	CONJ	_	_	_	_
+13	welatên	welat	_	_	N;PL;MASC;DEF	_	_	_	_
+14	nifûsê	nifûs	_	_	FEM;N;SG;DEF	_	_	_	_
+15	ji	ji	_	_	ADP	_	_	_	_
+16	Keyaniya	keyanî	_	_	FEM;N;SG;DEF	_	_	_	_
+17	Holendayê	Holenda	_	_	FEM;PROPN;SG;DEF	_	_	_	_
+18	bi	bi	_	_	ADP	_	_	_	_
+19	hev	hev	_	_	{FEM/MASC};PRO;REFL;{PL/SG}	_	_	_	_
+20	cûda	cûda	_	_	ADJ	_	_	_	_
+21	hatin	hatin	_	_	PL;FIN;V;3;IND;PST	_	_	_	_
+22	nirxandin	nirxandin	_	_	NFIN;V	_	_	_	_
+23	.	.	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock16.vislcg.txt:13:243
+# text = Herçî bihin hin bi hin zêde dibû.
+1	Herçî	herçî	_	_	ADV	_	_	_	_
+2	bihin	bîhn	_	_	FEM;N;SG;NOM;DEF	_	_	_	_
+3	hin	hin	_	_	DET;{FEM/MASC};{PL/SG}	_	_	_	_
+4	bi	bi	_	_	ADP	_	_	_	_
+5	hin	hin	_	_	DET;{FEM/MASC};{PL/SG}	_	_	_	_
+6	zêde	zêde	_	_	ADJ	_	_	_	_
+7	dibû	bûn	_	_	PROG;FIN;3;V;IND;PST;SG	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock19.vislcg.txt:10:352
+# text = Carekê ceriband, mar bi keçîkê ve ne da.
+1	Carekê	car	_	_	FEM;N;SG	_	_	_	_
+2	ceriband	ceribandin	_	_	FIN;V;3;IND;PST;SG	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	mar	mar	_	_	N;SG;MASC;NOM;DEF	_	_	_	_
+5	bi	bi	_	_	ADP	_	_	_	_
+6	keçîkê	keçik	_	_	FEM;N;SG;DEF	_	_	_	_
+7	ve	ve	_	_	ADP	_	_	_	_
+8	ne	ne	_	_	ADV;NEG	_	_	_	_
+9	da	dan	_	_	FIN;V;3;IND;PST;SG	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:275:7525
+# text = Dayik û birayê wî yê mezin biryar didin ku wî bişînin dibistaneke muzîkê.
+1	Dayik	dayik	_	_	FEM;N;SG;NOM;DEF	_	_	_	_
+2	û	û	_	_	CONJ	_	_	_	_
+3	birayê	bira	_	_	N;SG;MASC;DEF	_	_	_	_
+4	wî	ew	_	_	PRO;3;SG;MASC	_	_	_	_
+5	yê	yê	_	_	SG;MASC;ADP	_	_	_	_
+6	mezin	mezin	_	_	ADJ	_	_	_	_
+7	biryar	biryar	_	_	FEM;N;SG;NOM;DEF	_	_	_	_
+8	didin	dan	_	_	PL;FIN;PRS;V;3;IND	_	_	_	_
+9	ku	ku	_	_	CONJ	_	_	_	_
+10	wî	ew	_	_	PRO;3;SG;MASC	_	_	_	_
+11	bişînin	şandin	_	_	SBJV;FIN;PRS;V;3;PL	_	_	_	_
+12	dibistaneke	dibistan	_	_	FEM;N;SG	_	_	_	_
+13	muzîkê	muzîk	_	_	FEM;N;SG;DEF	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:128:3470
+# text = Bajar, bi ava xwe ya hênik û xwezaya xwe ya balkêş navdar e.
+1	Bajar	bajar	_	_	N;SG;MASC;NOM;DEF	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	bi	bi	_	_	ADP	_	_	_	_
+4	ava	av	_	_	FEM;N;SG;DEF	_	_	_	_
+5	xwe	xwe	_	_	{FEM/MASC};PRO;REFL;{PL/SG}	_	_	_	_
+6	ya	yê	_	_	FEM;SG;ADP	_	_	_	_
+7	hênik	hênik	_	_	ADJ	_	_	_	_
+8	û	û	_	_	CONJ	_	_	_	_
+9	xwezaya	xweza	_	_	FEM;N;SG;DEF	_	_	_	_
+10	xwe	xwe	_	_	{FEM/MASC};PRO;REFL;{PL/SG}	_	_	_	_
+11	ya	yê	_	_	FEM;SG;ADP	_	_	_	_
+12	balkêş	balkêş	_	_	ADJ	_	_	_	_
+13	navdar	navdar	_	_	ADJ	_	_	_	_
+14	e	bûn	_	_	FIN;PRS;3;V;IND;SG	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+

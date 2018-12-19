@@ -1,0 +1,3845 @@
+# sent_id = vyhlaska.iso-008-p87s3
+# text = Součástí konsolidované účetní závěrky může být i přehled o peněžních tocích a přehled o změnách vlastního kapitálu.
+# orig_file_sentence document_01_008#45
+1	Součástí	součást	_	_	N;FEM;SG;INS;POS	_	_	_	_
+2	konsolidované	konsolidovaný	_	_	ADJ;FEM;SG;GEN;POS	_	_	_	_
+3	účetní	účetní	_	_	ADJ;FEM;SG;GEN;POS	_	_	_	_
+4	závěrky	závěrka	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+5	může	moci	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+6	být	být	_	_	V;NFIN;POS	_	_	_	_
+7	i	i	_	_	CONJ	_	_	_	_
+8	přehled	přehled	_	_	NOM;N;INAN;SG;POS;MASC	_	_	_	_
+9	o	o	_	_	ESS;ADP	_	_	_	_
+10	peněžních	peněžní	_	_	ADJ;INAN;ESS;PL;POS;MASC	_	_	_	_
+11	tocích	tok	_	_	N;INAN;ESS;PL;POS;MASC	_	_	_	_
+12	a	a	_	_	CONJ	_	_	_	_
+13	přehled	přehled	_	_	NOM;N;INAN;SG;POS;MASC	_	_	_	_
+14	o	o	_	_	ESS;ADP	_	_	_	_
+15	změnách	změna	_	_	N;ESS;FEM;PL;POS	_	_	_	_
+16	vlastního	vlastní	_	_	ADJ;INAN;SG;GEN;POS;MASC	_	_	_	_
+17	kapitálu	kapitál	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-001-p4s1
+# text = ČÁST DRUHÁ
+# orig_file_sentence document_01_001#10
+1	ČÁST	část	_	_	NOM;N;FEM;SG;POS	_	_	_	_
+2	DRUHÁ	druhý	_	_	NOM;ADJ;FEM;SG;POS	_	_	_	_
+
+# sent_id = zakon.iso-007-p48s4
+# text = (2) Zjistí-li účetní jednotka, že některé účetní záznamy jejího účetnictví jsou neúplné, neprůkazné, nesprávné nebo nesrozumitelné, je povinna provést bez zbytečného odkladu jejich opravu způsobem podle odstavce 3.
+# orig_file_sentence document_02_007#13
+1	(2)	(2)	_	_	_	_	_	_	_
+2	Zjistí-li	Zjistí-li	_	_	POS;N;NEUT	_	_	_	_
+3	účetní	účetní	_	_	ADJ;NOM;POS;SG;FEM	_	_	_	_
+4	jednotka	jednotka	_	_	FEM;NOM;POS;SG;N	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	že	že	_	_	CONJ	_	_	_	_
+7	některé	některý	_	_	DET;PL;MASC;INAN;NOM	_	_	_	_
+8	účetní	účetní	_	_	ADJ;MASC;PL;INAN;NOM;POS	_	_	_	_
+9	záznamy	záznam	_	_	PL;MASC;INAN;NOM;POS;N	_	_	_	_
+10	jejího	jeho	_	_	PSSS;GEN;DET;3;{MASC/NEUT};SG	_	_	_	_
+11	účetnictví	účetnictví	_	_	GEN;NEUT;POS;SG;N	_	_	_	_
+12	jsou	být	_	_	PRS;PL;3;ACT;V;IND;POS;FIN	_	_	_	_
+13	neúplné	úplný	_	_	ADJ;PL;NOM;NEG;FEM	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	neprůkazné	průkazný	_	_	ADJ;PL;NOM;NEG;FEM	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	nesprávné	správný	_	_	ADJ;PL;NOM;NEG;FEM	_	_	_	_
+18	nebo	nebo	_	_	CONJ	_	_	_	_
+19	nesrozumitelné	srozumitelný	_	_	ADJ;PL;NOM;NEG;FEM	_	_	_	_
+20	,	,	_	_	_	_	_	_	_
+21	je	být	_	_	PRS;3;ACT;V;IND;POS;SG;FIN	_	_	_	_
+22	povinna	povinný	_	_	ADJ;{PL/SG};POS;{FEM/NEUT}	_	_	_	_
+23	provést	provést	_	_	POS;NFIN;V	_	_	_	_
+24	bez	bez	_	_	GEN;ADP	_	_	_	_
+25	zbytečného	zbytečný	_	_	GEN;ADJ;MASC;INAN;POS;SG	_	_	_	_
+26	odkladu	odklad	_	_	GEN;MASC;INAN;POS;SG;N	_	_	_	_
+27	jejich	jeho	_	_	PSSP;DET;3	_	_	_	_
+28	opravu	oprava	_	_	ACC;FEM;POS;SG;N	_	_	_	_
+29	způsobem	způsob	_	_	MASC;INS;INAN;POS;SG;N	_	_	_	_
+30	podle	podle	_	_	GEN;ADP	_	_	_	_
+31	odstavce	odstavec	_	_	GEN;MASC;INAN;POS;SG;N	_	_	_	_
+32	3	3	_	_	NUM	_	_	_	_
+33	.	.	_	_	_	_	_	_	_
+
+# sent_id = zakon.iso-002-p9s1
+# text = §_8
+# orig_file_sentence document_02_002#17
+1	§_8	§_8	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-002-p11s12
+# text = O dospělých zvířatech a jejich skupinách s dobou použitelnosti delší než jeden rok nevykázaných v položce "B.II.5._Dospělá_zvířata_a_jejich_skupiny" se účtuje jako o zásobách.
+# orig_file_sentence document_01_002#6
+1	O	o	_	_	ESS;ADP	_	_	_	_
+2	dospělých	dospělý	_	_	ADJ;ESS;NEUT;PL;POS	_	_	_	_
+3	zvířatech	zvíře	_	_	N;ESS;NEUT;PL;POS	_	_	_	_
+4	a	a	_	_	CONJ	_	_	_	_
+5	jejich	jeho	_	_	PSSP;3;DET	_	_	_	_
+6	skupinách	skupina	_	_	N;ESS;FEM;PL;POS	_	_	_	_
+7	s	s	_	_	ADP;INS	_	_	_	_
+8	dobou	doba	_	_	N;FEM;SG;INS;POS	_	_	_	_
+9	použitelnosti	použitelnost	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+10	delší	dlouhý	_	_	ADJ;CMPR;INAN;SG;ACC;POS;MASC	_	_	_	_
+11	než	než	_	_	CONJ	_	_	_	_
+12	jeden	jeden	_	_	NOM;SG;NUM;MASC	_	_	_	_
+13	rok	rok	_	_	NOM;N;INAN;SG;POS;MASC	_	_	_	_
+14	nevykázaných	vykázaný	_	_	ADJ;NEG;NEUT;GEN;PL	_	_	_	_
+15	v	v	_	_	ESS;ADP	_	_	_	_
+16	položce	položka	_	_	N;ESS;FEM;SG;POS	_	_	_	_
+17	"	"	_	_	_	_	_	_	_
+18	B.II.5._Dospělá_zvířata_a_jejich_skupiny	"B.II.5._Dospělá_zvířata_a_jejich_skupiny"	_	_	_	_	_	_	_
+19	"	"	_	_	_	_	_	_	_
+20	se	se	_	_	PRO;ACC;REFL	_	_	_	_
+21	účtuje	účtovat	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+22	jako	jako	_	_	CONJ	_	_	_	_
+23	o	o	_	_	ESS;ADP	_	_	_	_
+24	zásobách	zásoba	_	_	N;ESS;FEM;PL;POS	_	_	_	_
+25	.	.	_	_	_	_	_	_	_
+
+# sent_id = zakon.iso-006-p44s2
+# text = USTANOVENÍ SPOLEČNÁ, PŘECHODNÁ A ZÁVĚREČNÁ
+# orig_file_sentence document_02_006#39
+1	USTANOVENÍ	ustanovení	_	_	NEUT;NOM;POS;SG;N	_	_	_	_
+2	SPOLEČNÁ	společný	_	_	ADJ;NOM;POS;SG;FEM	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	PŘECHODNÁ	přechodný	_	_	ADJ;NOM;POS;SG;FEM	_	_	_	_
+5	A	a	_	_	CONJ	_	_	_	_
+6	ZÁVĚREČNÁ	závěrečný	_	_	ADJ;NOM;POS;SG;FEM	_	_	_	_
+
+# sent_id = vyhlaska.iso-003-p18s5
+# text = (2) Položka "A.I.3._Změny_základního_kapitálu" obsahuje změny základního kapitálu vykazované příslušnými obchodními společnostmi před zápisem změn základního kapitálu do obchodního rejstříku.
+# orig_file_sentence document_01_003#4
+1	(2)	(2)	_	_	_	_	_	_	_
+2	Položka	položka	_	_	NOM;N;FEM;SG;POS	_	_	_	_
+3	"	"	_	_	_	_	_	_	_
+4	A.I.3._Změny_základního_kapitálu	"A.I.3._Změny_základního_kapitálu"	_	_	_	_	_	_	_
+5	"	"	_	_	_	_	_	_	_
+6	obsahuje	obsahovat	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+7	změny	změna	_	_	N;FEM;ACC;PL;POS	_	_	_	_
+8	základního	základní	_	_	ADJ;INAN;SG;GEN;POS;MASC	_	_	_	_
+9	kapitálu	kapitál	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+10	vykazované	vykazovaný	_	_	ADJ;FEM;ACC;PL;POS	_	_	_	_
+11	příslušnými	příslušný	_	_	ADJ;FEM;INS;PL;POS	_	_	_	_
+12	obchodními	obchodní	_	_	ADJ;FEM;INS;PL;POS	_	_	_	_
+13	společnostmi	společnost	_	_	N;FEM;INS;PL;POS	_	_	_	_
+14	před	před	_	_	ADP;INS	_	_	_	_
+15	zápisem	zápis	_	_	N;INAN;SG;INS;POS;MASC	_	_	_	_
+16	změn	změna	_	_	N;FEM;GEN;PL;POS	_	_	_	_
+17	základního	základní	_	_	ADJ;INAN;SG;GEN;POS;MASC	_	_	_	_
+18	kapitálu	kapitál	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+19	do	do	_	_	ADJ;POS	_	_	_	_
+20	obchodního	obchodní	_	_	ADJ;INAN;SG;GEN;POS;MASC	_	_	_	_
+21	rejstříku	rejstřík	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+22	.	.	_	_	_	_	_	_	_
+
+# sent_id = zakon.iso-005-p37s4
+# text = Pozemky a jiný majetek vymezený zvláštními právními předpisy nebo prováděcími právními předpisy se neodpisuje.
+# orig_file_sentence document_02_005#50
+1	Pozemky	pozemek	_	_	MASC;NOM;N;PL;INAN;POS	_	_	_	_
+2	a	a	_	_	CONJ	_	_	_	_
+3	jiný	jiný	_	_	ADJ;MASC;NOM;SG;INAN;POS	_	_	_	_
+4	majetek	majetek	_	_	MASC;NOM;N;SG;INAN;POS	_	_	_	_
+5	vymezený	vymezený	_	_	ADJ;MASC;NOM;SG;INAN;POS	_	_	_	_
+6	zvláštními	zvláštní	_	_	ADJ;MASC;INS;PL;INAN;POS	_	_	_	_
+7	právními	právní	_	_	ADJ;MASC;INS;PL;INAN;POS	_	_	_	_
+8	předpisy	předpis	_	_	MASC;N;INS;PL;INAN;POS	_	_	_	_
+9	nebo	nebo	_	_	CONJ	_	_	_	_
+10	prováděcími	prováděcí	_	_	ADJ;MASC;INS;PL;INAN;POS	_	_	_	_
+11	právními	právní	_	_	ADJ;MASC;INS;PL;INAN;POS	_	_	_	_
+12	předpisy	předpis	_	_	MASC;N;INS;PL;INAN;POS	_	_	_	_
+13	se	se	_	_	PRO;REFL;ACC	_	_	_	_
+14	neodpisuje	odpisovat	_	_	IND;NEG;3;FIN;V;ACT;PRS;SG	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-007-p72s11
+# text = Zohledněním předpokládané zbytkové hodnoty majetku podle věty druhé se pro účely této vyhlášky rozumí, že účetní jednotka stanoví a aktualizuje odpisový plán předmětného majetku tak, aby se za plánovanou dobu jeho používání součet vykázaných a plánovaných odpisů včetně předpokládané zbytkové hodnoty nebo zbytkové hodnoty rovnal ocenění majetku podle odstavce 1.
+# orig_file_sentence document_01_007#6
+1	Zohledněním	zohlednění	_	_	N;SG;NEUT;INS;POS	_	_	_	_
+2	předpokládané	předpokládaný	_	_	ADJ;FEM;SG;GEN;POS	_	_	_	_
+3	zbytkové	zbytkový	_	_	ADJ;FEM;SG;GEN;POS	_	_	_	_
+4	hodnoty	hodnota	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+5	majetku	majetek	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+6	podle	podle	_	_	ADP;GEN	_	_	_	_
+7	věty	věta	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+8	druhé	druhý	_	_	ADJ;FEM;SG;GEN;POS	_	_	_	_
+9	se	se	_	_	PRO;ACC;REFL	_	_	_	_
+10	pro	pro	_	_	ACC;ADP	_	_	_	_
+11	účely	účel	_	_	N;INAN;ACC;PL;POS;MASC	_	_	_	_
+12	této	tento	_	_	FEM;DET;SG;GEN	_	_	_	_
+13	vyhlášky	vyhláška	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+14	rozumí	rozumět	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	že	že	_	_	CONJ	_	_	_	_
+17	účetní	účetní	_	_	NOM;ADJ;FEM;SG;POS	_	_	_	_
+18	jednotka	jednotka	_	_	NOM;N;FEM;SG;POS	_	_	_	_
+19	stanoví	stanovit	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+20	a	a	_	_	CONJ	_	_	_	_
+21	aktualizuje	aktualizovat	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+22	odpisový	odpisový	_	_	ADJ;INAN;SG;ACC;POS;MASC	_	_	_	_
+23	plán	plán	_	_	N;INAN;SG;ACC;POS;MASC	_	_	_	_
+24	předmětného	předmětný	_	_	ADJ;INAN;SG;GEN;POS;MASC	_	_	_	_
+25	majetku	majetek	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+26	tak	tak	_	_	ADV	_	_	_	_
+27	,	,	_	_	_	_	_	_	_
+28	aby	aby	_	_	CONJ	_	_	_	_
+29	by	být	_	_	COND;3;V;FIN	_	_	_	_
+30	se	se	_	_	PRO;ACC;REFL	_	_	_	_
+31	za	za	_	_	ACC;ADP	_	_	_	_
+32	plánovanou	plánovaný	_	_	ADJ;FEM;SG;ACC;POS	_	_	_	_
+33	dobu	doba	_	_	N;FEM;SG;ACC;POS	_	_	_	_
+34	jeho	jeho	_	_	PSSS;3;DET	_	_	_	_
+35	používání	používání	_	_	N;SG;NEUT;GEN;POS	_	_	_	_
+36	součet	součet	_	_	NOM;N;INAN;SG;POS;MASC	_	_	_	_
+37	vykázaných	vykázaný	_	_	ADJ;INAN;GEN;PL;POS;MASC	_	_	_	_
+38	a	a	_	_	CONJ	_	_	_	_
+39	plánovaných	plánovaný	_	_	ADJ;INAN;GEN;PL;POS;MASC	_	_	_	_
+40	odpisů	odpis	_	_	N;INAN;GEN;PL;POS;MASC	_	_	_	_
+41	včetně	včetně	_	_	ADP;GEN	_	_	_	_
+42	předpokládané	předpokládaný	_	_	ADJ;FEM;SG;GEN;POS	_	_	_	_
+43	zbytkové	zbytkový	_	_	ADJ;FEM;SG;GEN;POS	_	_	_	_
+44	hodnoty	hodnota	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+45	nebo	nebo	_	_	CONJ	_	_	_	_
+46	zbytkové	zbytkový	_	_	ADJ;FEM;SG;GEN;POS	_	_	_	_
+47	hodnoty	hodnota	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+48	rovnal	rovnat	_	_	SG;V.PTCP;ACT;V;PST;POS;MASC	_	_	_	_
+49	ocenění	ocenění	_	_	N;SG;NEUT;ACC;POS	_	_	_	_
+50	majetku	majetek	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+51	podle	podle	_	_	ADP;GEN	_	_	_	_
+52	odstavce	odstavec	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+53	1	1	_	_	NUM	_	_	_	_
+54	.	.	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-004-p48s30-4
+# text = Účetní jednotka, která ke konci rozvahového dne, za nějž se účetní závěrka sestavuje, překročila alespoň dvě ze tří kritérií: 1. aktiva celkem více než 350000000 Kč; aktivy celkem se pro účely této vyhlášky rozumí úhrn zjištěný z rozvahy v ocenění neupraveném o položky podle §_26_odst._3_zákona, 2. roční úhrn čistého obratu více než 700000000 Kč; ročním úhrnem čistého obratu se pro účely této vyhlášky rozumí výše výnosů snížená o prodejní slevy, dělená počtem započatých měsíců, po které trvalo účetní období, a vynásobená dvanácti, 3. průměrný přepočtený stav zaměstnanců, včetně případů pracovního vztahu člena k družstvu, v průběhu účetního období více než 250, zjištěný způsobem stanoveným na základě zvláštního právního předpisu, uvede i informaci o finančním dopadu těchto operací na účetní jednotku.
+# orig_file_sentence document_01_004#62
+1	Účetní	účetní	_	_	NOM;ADJ;FEM;SG;POS	_	_	_	_
+2	jednotka	jednotka	_	_	NOM;N;FEM;SG;POS	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	která	který	_	_	NOM;FEM;DET;SG	_	_	_	_
+5	ke	k	_	_	ADP;DAT	_	_	_	_
+6	konci	konec	_	_	N;INAN;SG;DAT;POS;MASC	_	_	_	_
+7	rozvahového	rozvahový	_	_	ADJ;INAN;SG;GEN;POS;MASC	_	_	_	_
+8	dne	den	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	za	za	_	_	ACC;ADP	_	_	_	_
+11	nějž	jenž	_	_	{MASC/NEUT};PRO;SG;ACC	_	_	_	_
+12	se	se	_	_	PRO;ACC;REFL	_	_	_	_
+13	účetní	účetní	_	_	NOM;ADJ;FEM;SG;POS	_	_	_	_
+14	závěrka	závěrka	_	_	NOM;N;FEM;SG;POS	_	_	_	_
+15	sestavuje	sestavovat	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	překročila	překročit	_	_	{PL/SG};{FEM/NEUT};V.PTCP;ACT;V;PST;POS	_	_	_	_
+18	alespoň	alespoň	_	_	ADV	_	_	_	_
+19	dvě	dva	_	_	NOM;{FEM/NEUT};NUM;PL	_	_	_	_
+20	ze	z	_	_	ADP;GEN	_	_	_	_
+21	tří	tři	_	_	GEN;NUM;PL	_	_	_	_
+22	kritérií	kritérium	_	_	N;NEUT;GEN;PL;POS	_	_	_	_
+23	:	:	_	_	_	_	_	_	_
+24	1	1	_	_	NUM	_	_	_	_
+25	.	.	_	_	_	_	_	_	_
+26	aktiva	aktivum	_	_	N;SG;NEUT;GEN;POS	_	_	_	_
+27	celkem	celkem	_	_	ADV	_	_	_	_
+28	více	hodně	_	_	POS;ADV;CMPR	_	_	_	_
+29	než	než	_	_	CONJ	_	_	_	_
+30	350000000	350000000	_	_	NUM	_	_	_	_
+31	Kč	Kč	_	_	N;POS;FEM	_	_	_	_
+32	;	;	_	_	_	_	_	_	_
+33	aktivy	aktiv	_	_	NOM;N;INAN;PL;POS;MASC	_	_	_	_
+34	celkem	celkem	_	_	ADV	_	_	_	_
+35	se	se	_	_	PRO;ACC;REFL	_	_	_	_
+36	pro	pro	_	_	ACC;ADP	_	_	_	_
+37	účely	účel	_	_	N;INAN;ACC;PL;POS;MASC	_	_	_	_
+38	této	tento	_	_	FEM;DET;SG;GEN	_	_	_	_
+39	vyhlášky	vyhláška	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+40	rozumí	rozumět	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+41	úhrn	úhrn	_	_	NOM;N;INAN;SG;POS;MASC	_	_	_	_
+42	zjištěný	zjištěný	_	_	NOM;ADJ;INAN;SG;POS;MASC	_	_	_	_
+43	z	z	_	_	ADP;GEN	_	_	_	_
+44	rozvahy	rozvaha	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+45	v	v	_	_	ESS;ADP	_	_	_	_
+46	ocenění	ocenění	_	_	N;ESS;SG;NEUT;POS	_	_	_	_
+47	neupraveném	upravený	_	_	ADJ;NEG;ESS;SG;NEUT	_	_	_	_
+48	o	o	_	_	ACC;ADP	_	_	_	_
+49	položky	položka	_	_	N;FEM;ACC;PL;POS	_	_	_	_
+50	podle	podle	_	_	ADP;GEN	_	_	_	_
+51	§_26_odst._3_zákona	§_26_odst._3_zákona	_	_	_	_	_	_	_
+52	,	,	_	_	_	_	_	_	_
+53	2	2	_	_	NUM	_	_	_	_
+54	.	.	_	_	_	_	_	_	_
+55	roční	roční	_	_	NOM;ADJ;INAN;SG;POS;MASC	_	_	_	_
+56	úhrn	úhrn	_	_	NOM;N;INAN;SG;POS;MASC	_	_	_	_
+57	čistého	čistý	_	_	ADJ;INAN;SG;GEN;POS;MASC	_	_	_	_
+58	obratu	obrat	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+59	více	hodně	_	_	POS;ADV;CMPR	_	_	_	_
+60	než	než	_	_	CONJ	_	_	_	_
+61	700000000	700000000	_	_	NUM	_	_	_	_
+62	Kč	Kč	_	_	N;POS;FEM	_	_	_	_
+63	;	;	_	_	_	_	_	_	_
+64	ročním	roční	_	_	ADJ;INAN;SG;INS;POS;MASC	_	_	_	_
+65	úhrnem	úhrn	_	_	N;INAN;SG;INS;POS;MASC	_	_	_	_
+66	čistého	čistý	_	_	ADJ;INAN;SG;GEN;POS;MASC	_	_	_	_
+67	obratu	obrat	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+68	se	se	_	_	PRO;ACC;REFL	_	_	_	_
+69	pro	pro	_	_	ACC;ADP	_	_	_	_
+70	účely	účel	_	_	N;INAN;ACC;PL;POS;MASC	_	_	_	_
+71	této	tento	_	_	FEM;DET;SG;GEN	_	_	_	_
+72	vyhlášky	vyhláška	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+73	rozumí	rozumět	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+74	výše	výše	_	_	NOM;N;FEM;SG;POS	_	_	_	_
+75	výnosů	výnos	_	_	N;INAN;GEN;PL;POS;MASC	_	_	_	_
+76	snížená	snížený	_	_	NOM;ADJ;FEM;SG;POS	_	_	_	_
+77	o	o	_	_	ACC;ADP	_	_	_	_
+78	prodejní	prodejní	_	_	ADJ;FEM;ACC;PL;POS	_	_	_	_
+79	slevy	sleva	_	_	N;FEM;ACC;PL;POS	_	_	_	_
+80	,	,	_	_	_	_	_	_	_
+81	dělená	dělený	_	_	ADJ;NEUT;ACC;PL;POS	_	_	_	_
+82	počtem	počet	_	_	N;INAN;SG;INS;POS;MASC	_	_	_	_
+83	započatých	započatý	_	_	ADJ;INAN;GEN;PL;POS;MASC	_	_	_	_
+84	měsíců	měsíc	_	_	N;INAN;GEN;PL;POS;MASC	_	_	_	_
+85	,	,	_	_	_	_	_	_	_
+86	po	po	_	_	ESS;ADP	_	_	_	_
+87	které	který	_	_	ESS;FEM;DET;SG	_	_	_	_
+88	trvalo	trvat	_	_	SG;NEUT;V.PTCP;ACT;V;PST;POS	_	_	_	_
+89	účetní	účetní	_	_	NOM;ADJ;SG;NEUT;POS	_	_	_	_
+90	období	období	_	_	NOM;N;SG;NEUT;POS	_	_	_	_
+91	,	,	_	_	_	_	_	_	_
+92	a	a	_	_	CONJ	_	_	_	_
+93	vynásobená	vynásobený	_	_	NOM;ADJ;FEM;SG;POS	_	_	_	_
+94	dvanácti	dvanáct	_	_	GEN;NUM;PL	_	_	_	_
+95	,	,	_	_	_	_	_	_	_
+96	3	3	_	_	NUM	_	_	_	_
+97	.	.	_	_	_	_	_	_	_
+98	průměrný	průměrný	_	_	NOM;ADJ;INAN;SG;POS;MASC	_	_	_	_
+99	přepočtený	přepočtený	_	_	NOM;ADJ;INAN;SG;POS;MASC	_	_	_	_
+100	stav	stav	_	_	NOM;N;INAN;SG;POS;MASC	_	_	_	_
+101	zaměstnanců	zaměstnanec	_	_	N;ANIM;GEN;PL;POS;MASC	_	_	_	_
+102	,	,	_	_	_	_	_	_	_
+103	včetně	včetně	_	_	ADP;GEN	_	_	_	_
+104	případů	případ	_	_	N;INAN;GEN;PL;POS;MASC	_	_	_	_
+105	pracovního	pracovní	_	_	ADJ;INAN;SG;GEN;POS;MASC	_	_	_	_
+106	vztahu	vztah	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+107	člena	člen	_	_	N;ANIM;SG;GEN;POS;MASC	_	_	_	_
+108	k	k	_	_	ADP;DAT	_	_	_	_
+109	družstvu	družstvo	_	_	N;SG;NEUT;DAT;POS	_	_	_	_
+110	,	,	_	_	_	_	_	_	_
+111	v	v	_	_	ESS;ADP	_	_	_	_
+112	průběhu	průběh	_	_	N;INAN;ESS;SG;POS;MASC	_	_	_	_
+113	účetního	účetní	_	_	ADJ;SG;NEUT;GEN;POS	_	_	_	_
+114	období	období	_	_	N;SG;NEUT;GEN;POS	_	_	_	_
+115	více	hodně	_	_	POS;ADV;CMPR	_	_	_	_
+116	než	než	_	_	CONJ	_	_	_	_
+117	250	250	_	_	NUM	_	_	_	_
+118	,	,	_	_	_	_	_	_	_
+119	zjištěný	zjištěný	_	_	NOM;ADJ;INAN;SG;POS;MASC	_	_	_	_
+120	způsobem	způsob	_	_	N;INAN;SG;INS;POS;MASC	_	_	_	_
+121	stanoveným	stanovený	_	_	ADJ;INAN;SG;INS;POS;MASC	_	_	_	_
+122	na	na	_	_	ESS;ADP	_	_	_	_
+123	základě	základ	_	_	N;INAN;ESS;SG;POS;MASC	_	_	_	_
+124	zvláštního	zvláštní	_	_	ADJ;INAN;SG;GEN;POS;MASC	_	_	_	_
+125	právního	právní	_	_	ADJ;INAN;SG;GEN;POS;MASC	_	_	_	_
+126	předpisu	předpis	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+127	,	,	_	_	_	_	_	_	_
+128	uvede	uvést	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+129	i	i	_	_	CONJ	_	_	_	_
+130	informaci	informace	_	_	N;FEM;SG;ACC;POS	_	_	_	_
+131	o	o	_	_	ESS;ADP	_	_	_	_
+132	finančním	finanční	_	_	ADJ;INAN;ESS;SG;POS;MASC	_	_	_	_
+133	dopadu	dopad	_	_	N;INAN;ESS;SG;POS;MASC	_	_	_	_
+134	těchto	tento	_	_	DET;GEN;PL	_	_	_	_
+135	operací	operace	_	_	N;FEM;GEN;PL;POS	_	_	_	_
+136	na	na	_	_	ACC;ADP	_	_	_	_
+137	účetní	účetní	_	_	ADJ;FEM;SG;ACC;POS	_	_	_	_
+138	jednotku	jednotka	_	_	N;FEM;SG;ACC;POS	_	_	_	_
+139	.	.	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-007-p77s4
+# text = (2) Kursové rozdíly podle odstavce 1 lze při postupném splácení pohledávek a závazků a při pohybech na účtech v účtových skupinách 21, 22 a 26 vyúčtovat na vrub účtu finančních nákladů a ve prospěch účtu finančních výnosů až ke konci rozvahového dne nebo k jinému okamžiku, ke kterému se sestavuje účetní závěrka.
+# orig_file_sentence document_01_007#67
+1	(2)	(2)	_	_	_	_	_	_	_
+2	Kursové	kursový	_	_	NOM;ADJ;INAN;PL;POS;MASC	_	_	_	_
+3	rozdíly	rozdíl	_	_	NOM;N;INAN;PL;POS;MASC	_	_	_	_
+4	podle	podle	_	_	ADP;GEN	_	_	_	_
+5	odstavce	odstavec	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+6	1	1	_	_	NUM	_	_	_	_
+7	lze	lze	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+8	při	při	_	_	ESS;ADP	_	_	_	_
+9	postupném	postupný	_	_	ADJ;ESS;SG;NEUT;POS	_	_	_	_
+10	splácení	splácení	_	_	N;ESS;SG;NEUT;POS	_	_	_	_
+11	pohledávek	pohledávka	_	_	N;FEM;GEN;PL;POS	_	_	_	_
+12	a	a	_	_	CONJ	_	_	_	_
+13	závazků	závazek	_	_	N;INAN;GEN;PL;POS;MASC	_	_	_	_
+14	a	a	_	_	CONJ	_	_	_	_
+15	při	při	_	_	ESS;ADP	_	_	_	_
+16	pohybech	pohyb	_	_	N;INAN;ESS;PL;POS;MASC	_	_	_	_
+17	na	na	_	_	ESS;ADP	_	_	_	_
+18	účtech	účet	_	_	N;INAN;ESS;PL;POS;MASC	_	_	_	_
+19	v	v	_	_	ESS;ADP	_	_	_	_
+20	účtových	účtový	_	_	ADJ;ESS;FEM;PL;POS	_	_	_	_
+21	skupinách	skupina	_	_	N;ESS;FEM;PL;POS	_	_	_	_
+22	21	21	_	_	NUM	_	_	_	_
+23	,	,	_	_	_	_	_	_	_
+24	22	22	_	_	NUM	_	_	_	_
+25	a	a	_	_	CONJ	_	_	_	_
+26	26	26	_	_	NUM	_	_	_	_
+27	vyúčtovat	vyúčtovat	_	_	V;NFIN;POS	_	_	_	_
+28	na	na	_	_	ACC;ADP	_	_	_	_
+29	vrub	vrub	_	_	N;INAN;SG;ACC;POS;MASC	_	_	_	_
+30	účtu	účet	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+31	finančních	finanční	_	_	ADJ;INAN;GEN;PL;POS;MASC	_	_	_	_
+32	nákladů	náklad	_	_	N;INAN;GEN;PL;POS;MASC	_	_	_	_
+33	a	a	_	_	CONJ	_	_	_	_
+34	ve	v	_	_	ACC;ADP	_	_	_	_
+35	prospěch	prospěch	_	_	N;INAN;SG;ACC;POS;MASC	_	_	_	_
+36	účtu	účet	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+37	finančních	finanční	_	_	ADJ;INAN;GEN;PL;POS;MASC	_	_	_	_
+38	výnosů	výnos	_	_	N;INAN;GEN;PL;POS;MASC	_	_	_	_
+39	až	až	_	_	PART	_	_	_	_
+40	ke	k	_	_	ADP;DAT	_	_	_	_
+41	konci	konec	_	_	N;INAN;SG;DAT;POS;MASC	_	_	_	_
+42	rozvahového	rozvahový	_	_	ADJ;INAN;SG;GEN;POS;MASC	_	_	_	_
+43	dne	den	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+44	nebo	nebo	_	_	CONJ	_	_	_	_
+45	k	k	_	_	ADP;DAT	_	_	_	_
+46	jinému	jiný	_	_	ADJ;INAN;SG;DAT;POS;MASC	_	_	_	_
+47	okamžiku	okamžik	_	_	N;INAN;SG;DAT;POS;MASC	_	_	_	_
+48	,	,	_	_	_	_	_	_	_
+49	ke	k	_	_	ADP;DAT	_	_	_	_
+50	kterému	který	_	_	{MASC/NEUT};DET;SG;DAT	_	_	_	_
+51	se	se	_	_	PRO;ACC;REFL	_	_	_	_
+52	sestavuje	sestavovat	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+53	účetní	účetní	_	_	NOM;ADJ;FEM;SG;POS	_	_	_	_
+54	závěrka	závěrka	_	_	NOM;N;FEM;SG;POS	_	_	_	_
+55	.	.	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-002-p13s2
+# text = Zásoby
+# orig_file_sentence document_01_002#28
+1	Zásoby	zásoba	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+
+# sent_id = vyhlaska.iso-009-p92s6
+# text = (4) Položky "B.I._Dlouhodobý_nehmotný_majetek" a "B.II._Dlouhodobý_hmotný_majetek" obsahují též dlouhodobý nehmotný a hmotný majetek a technické zhodnocení zařazené do těchto položek v ocenění před nabytím účinnosti této vyhlášky, a to až do vyřazení tohoto majetku.
+# orig_file_sentence document_01_009#10
+1	(4)	(4)	_	_	_	_	_	_	_
+2	Položky	položka	_	_	NOM;N;FEM;PL;POS	_	_	_	_
+3	"	"	_	_	_	_	_	_	_
+4	B.I._Dlouhodobý_nehmotný_majetek	"B.I._Dlouhodobý_nehmotný_majetek"	_	_	_	_	_	_	_
+5	"	"	_	_	_	_	_	_	_
+6	a	a	_	_	CONJ	_	_	_	_
+7	"	"	_	_	_	_	_	_	_
+8	B.II._Dlouhodobý_hmotný_majetek	"B.II._Dlouhodobý_hmotný_majetek"	_	_	_	_	_	_	_
+9	"	"	_	_	_	_	_	_	_
+10	obsahují	obsahovat	_	_	3;IND;PRS;PL;ACT;V;FIN;POS	_	_	_	_
+11	též	též	_	_	ADV	_	_	_	_
+12	dlouhodobý	dlouhodobý	_	_	ADJ;INAN;SG;ACC;POS;MASC	_	_	_	_
+13	nehmotný	hmotný	_	_	ADJ;INAN;NEG;SG;ACC;MASC	_	_	_	_
+14	a	a	_	_	CONJ	_	_	_	_
+15	hmotný	hmotný	_	_	ADJ;INAN;SG;ACC;POS;MASC	_	_	_	_
+16	majetek	majetek	_	_	N;INAN;SG;ACC;POS;MASC	_	_	_	_
+17	a	a	_	_	CONJ	_	_	_	_
+18	technické	technický	_	_	ADJ;SG;NEUT;ACC;POS	_	_	_	_
+19	zhodnocení	zhodnocení	_	_	N;SG;NEUT;ACC;POS	_	_	_	_
+20	zařazené	zařazený	_	_	ADJ;SG;NEUT;ACC;POS	_	_	_	_
+21	do	do	_	_	ADP;GEN	_	_	_	_
+22	těchto	tento	_	_	DET;GEN;PL	_	_	_	_
+23	položek	položka	_	_	N;FEM;GEN;PL;POS	_	_	_	_
+24	v	v	_	_	ESS;ADP	_	_	_	_
+25	ocenění	ocenění	_	_	N;ESS;SG;NEUT;POS	_	_	_	_
+26	před	před	_	_	ADP;INS	_	_	_	_
+27	nabytím	nabytí	_	_	N;SG;NEUT;INS;POS	_	_	_	_
+28	účinnosti	účinnost	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+29	této	tento	_	_	FEM;DET;SG;GEN	_	_	_	_
+30	vyhlášky	vyhláška	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+31	,	,	_	_	_	_	_	_	_
+32	a	a	_	_	CONJ	_	_	_	_
+33	to	ten	_	_	DET;NEUT;SG;ACC	_	_	_	_
+34	až	až	_	_	PART	_	_	_	_
+35	do	do	_	_	ADP;GEN	_	_	_	_
+36	vyřazení	vyřazení	_	_	N;SG;NEUT;GEN;POS	_	_	_	_
+37	tohoto	tento	_	_	{MASC/NEUT};DET;SG;GEN	_	_	_	_
+38	majetku	majetek	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+39	.	.	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-003-p23s10
+# text = (6) Položka "B.II.6._Vydané_dluhopisy" obsahuje závazky emitenta z titulu vydaných dluhopisů po odečtení vlastních dluhopisů.
+# orig_file_sentence document_01_003#37
+1	(6)	(6)	_	_	_	_	_	_	_
+2	Položka	položka	_	_	NOM;N;FEM;SG;POS	_	_	_	_
+3	"	"	_	_	_	_	_	_	_
+4	B.II.6._Vydané_dluhopisy	"B.II.6._Vydané_dluhopisy"	_	_	_	_	_	_	_
+5	"	"	_	_	_	_	_	_	_
+6	obsahuje	obsahovat	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+7	závazky	závazek	_	_	N;INAN;ACC;PL;POS;MASC	_	_	_	_
+8	emitenta	emitent	_	_	N;ANIM;SG;GEN;POS;MASC	_	_	_	_
+9	z	z	_	_	ADP;GEN	_	_	_	_
+10	titulu	titulus	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+11	vydaných	vydaný	_	_	ADJ;INAN;GEN;PL;POS;MASC	_	_	_	_
+12	dluhopisů	dluhopis	_	_	N;INAN;GEN;PL;POS;MASC	_	_	_	_
+13	po	po	_	_	ESS;ADP	_	_	_	_
+14	odečtení	odečtení	_	_	N;ESS;SG;NEUT;POS	_	_	_	_
+15	vlastních	vlastní	_	_	ADJ;INAN;GEN;PL;POS;MASC	_	_	_	_
+16	dluhopisů	dluhopis	_	_	N;INAN;GEN;PL;POS;MASC	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = zakon.iso-007-p54s8
+# text = (5) Na odpovědnost za jednání, k němuž došlo při podnikání fyzické osoby, nebo v přímé souvislosti s ním, se vztahují ustanovení o odpovědnosti a postihu právnické osoby.
+# orig_file_sentence document_02_007#55
+1	(5)	(5)	_	_	_	_	_	_	_
+2	Na	na	_	_	ACC;ADP	_	_	_	_
+3	odpovědnost	odpovědnost	_	_	ACC;FEM;POS;SG;N	_	_	_	_
+4	za	za	_	_	ACC;ADP	_	_	_	_
+5	jednání	jednání	_	_	ACC;NEUT;POS;SG;N	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	k	k	_	_	DAT;ADP	_	_	_	_
+8	němuž	jenž	_	_	{MASC/NEUT};DAT;PRO;SG	_	_	_	_
+9	došlo	dojít	_	_	V.PTCP;ACT;NEUT;POS;V;SG;PST	_	_	_	_
+10	při	při	_	_	ESS;ADP	_	_	_	_
+11	podnikání	podnikání	_	_	NEUT;POS;SG;N;ESS	_	_	_	_
+12	fyzické	fyzický	_	_	GEN;ADJ;POS;SG;FEM	_	_	_	_
+13	osoby	osoba	_	_	GEN;FEM;POS;SG;N	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	nebo	nebo	_	_	CONJ	_	_	_	_
+16	v	v	_	_	ESS;ADP	_	_	_	_
+17	přímé	přímý	_	_	ADJ;POS;SG;FEM;ESS	_	_	_	_
+18	souvislosti	souvislost	_	_	N;POS;SG;FEM;ESS	_	_	_	_
+19	s	s	_	_	INS;ADP	_	_	_	_
+20	ním	on	_	_	3;INS;{MASC/NEUT};PRO;SG	_	_	_	_
+21	,	,	_	_	_	_	_	_	_
+22	se	se	_	_	ACC;REFL;PRO	_	_	_	_
+23	vztahují	vztahovat	_	_	PRS;PL;3;ACT;IND;POS;V;FIN	_	_	_	_
+24	ustanovení	ustanovení	_	_	PL;NEUT;NOM;POS;N	_	_	_	_
+25	o	o	_	_	ESS;ADP	_	_	_	_
+26	odpovědnosti	odpovědnost	_	_	N;POS;SG;FEM;ESS	_	_	_	_
+27	a	a	_	_	CONJ	_	_	_	_
+28	postihu	postih	_	_	MASC;INAN;POS;SG;N;ESS	_	_	_	_
+29	právnické	právnický	_	_	GEN;ADJ;POS;SG;FEM	_	_	_	_
+30	osoby	osoba	_	_	GEN;FEM;POS;SG;N	_	_	_	_
+31	.	.	_	_	_	_	_	_	_
+
+# sent_id = zakon.iso-006-p46s9
+# text = Na obě formy podpisového záznamu se přitom pohlíží stejně a obě mohou být použity v případech, kdy je vyžadován vlastnoruční podpis.
+# orig_file_sentence document_02_006#71
+1	Na	na	_	_	ACC;ADP	_	_	_	_
+2	obě	oba	_	_	ACC;PL;NUM;{FEM/NEUT}	_	_	_	_
+3	formy	forma	_	_	ACC;FEM;PL;POS;N	_	_	_	_
+4	podpisového	podpisový	_	_	GEN;ADJ;MASC;INAN;POS;SG	_	_	_	_
+5	záznamu	záznam	_	_	GEN;MASC;INAN;POS;SG;N	_	_	_	_
+6	se	se	_	_	ACC;REFL;PRO	_	_	_	_
+7	přitom	přitom	_	_	ADV	_	_	_	_
+8	pohlíží	pohlížet	_	_	PRS;3;ACT;IND;POS;V;SG;FIN	_	_	_	_
+9	stejně	stejně	_	_	ADV;POS	_	_	_	_
+10	a	a	_	_	CONJ	_	_	_	_
+11	obě	oba	_	_	PL;NUM;NOM;{FEM/NEUT}	_	_	_	_
+12	mohou	moci	_	_	PRS;PL;3;ACT;IND;POS;V;FIN	_	_	_	_
+13	být	být	_	_	V;NFIN;POS	_	_	_	_
+14	použity	použitý	_	_	V.PTCP;ADJ;PL;{FEM/MASC};PASS;INAN;POS	_	_	_	_
+15	v	v	_	_	ESS;ADP	_	_	_	_
+16	případech	případ	_	_	MASC;PL;INAN;POS;N;ESS	_	_	_	_
+17	,	,	_	_	_	_	_	_	_
+18	kdy	kdy	_	_	ADV	_	_	_	_
+19	je	být	_	_	PRS;3;ACT;V;IND;POS;SG;FIN	_	_	_	_
+20	vyžadován	vyžadovaný	_	_	V.PTCP;ADJ;MASC;PASS;POS;SG	_	_	_	_
+21	vlastnoruční	vlastnoruční	_	_	ADJ;MASC;INAN;NOM;POS;SG	_	_	_	_
+22	podpis	podpis	_	_	MASC;INAN;NOM;POS;SG;N	_	_	_	_
+23	.	.	_	_	_	_	_	_	_
+
+# sent_id = zakon.iso-003-p22s13
+# text = Rozhodnutí o použití mezinárodních účetních standardů pro účtování a sestavení účetní závěrky a stanovení účetního období, od kterého budou mezinárodní účetní standardy používány, podléhá schválení nejvyšším orgánem této účetní jednotky.
+# orig_file_sentence document_02_003#65
+1	Rozhodnutí	rozhodnutí	_	_	NOM;N;SG;NEUT;POS	_	_	_	_
+2	o	o	_	_	ESS;ADP	_	_	_	_
+3	použití	použití	_	_	N;ESS;SG;NEUT;POS	_	_	_	_
+4	mezinárodních	mezinárodní	_	_	ADJ;INAN;GEN;PL;POS;MASC	_	_	_	_
+5	účetních	účetní	_	_	ADJ;INAN;GEN;PL;POS;MASC	_	_	_	_
+6	standardů	standard	_	_	N;INAN;GEN;PL;POS;MASC	_	_	_	_
+7	pro	pro	_	_	ACC;ADP	_	_	_	_
+8	účtování	účtování	_	_	N;SG;NEUT;ACC;POS	_	_	_	_
+9	a	a	_	_	CONJ	_	_	_	_
+10	sestavení	sestavení	_	_	N;SG;NEUT;ACC;POS	_	_	_	_
+11	účetní	účetní	_	_	ADJ;FEM;SG;GEN;POS	_	_	_	_
+12	závěrky	závěrka	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+13	a	a	_	_	CONJ	_	_	_	_
+14	stanovení	stanovení	_	_	N;SG;NEUT;ACC;POS	_	_	_	_
+15	účetního	účetní	_	_	ADJ;SG;NEUT;GEN;POS	_	_	_	_
+16	období	období	_	_	N;SG;NEUT;GEN;POS	_	_	_	_
+17	,	,	_	_	_	_	_	_	_
+18	od	od	_	_	ADP;GEN	_	_	_	_
+19	kterého	který	_	_	{MASC/NEUT};DET;SG;GEN	_	_	_	_
+20	budou	být	_	_	3;V;IND;FUT;PL;ACT;FIN;POS	_	_	_	_
+21	mezinárodní	mezinárodní	_	_	NOM;ADJ;INAN;PL;POS;MASC	_	_	_	_
+22	účetní	účetní	_	_	NOM;ADJ;INAN;PL;POS;MASC	_	_	_	_
+23	standardy	standard	_	_	NOM;N;INAN;PL;POS;MASC	_	_	_	_
+24	používány	používaný	_	_	{FEM/MASC};ADJ;INAN;V.PTCP;PL;PASS;POS	_	_	_	_
+25	,	,	_	_	_	_	_	_	_
+26	podléhá	podléhat	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+27	schválení	schválení	_	_	NOM;N;SG;NEUT;POS	_	_	_	_
+28	nejvyšším	vysoký	_	_	ADJ;INAN;SG;INS;RL;POS;MASC	_	_	_	_
+29	orgánem	orgán	_	_	N;INAN;SG;INS;POS;MASC	_	_	_	_
+30	této	tento	_	_	FEM;DET;SG;GEN	_	_	_	_
+31	účetní	účetní	_	_	ADJ;FEM;SG;GEN;POS	_	_	_	_
+32	jednotky	jednotka	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+33	.	.	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-001-p10s24
+# text = (6) Položka "B.I.7._Nedokončený_dlouhodobý_nehmotný_majetek" obsahuje pořizovaný dlouhodobý nehmotný majetek po dobu jeho pořizování do uvedení do stavu způsobilého k užívání.
+# orig_file_sentence document_01_001#68
+1	(6)	(6)	_	_	_	_	_	_	_
+2	Položka	položka	_	_	NOM;N;FEM;SG;POS	_	_	_	_
+3	"	"	_	_	_	_	_	_	_
+4	B.I.7._Nedokončený_dlouhodobý_nehmotný_majetek	"B.I.7._Nedokončený_dlouhodobý_nehmotný_majetek"	_	_	_	_	_	_	_
+5	"	"	_	_	_	_	_	_	_
+6	obsahuje	obsahovat	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+7	pořizovaný	pořizovaný	_	_	ADJ;INAN;SG;ACC;POS;MASC	_	_	_	_
+8	dlouhodobý	dlouhodobý	_	_	ADJ;INAN;SG;ACC;POS;MASC	_	_	_	_
+9	nehmotný	hmotný	_	_	ADJ;INAN;NEG;SG;ACC;MASC	_	_	_	_
+10	majetek	majetek	_	_	N;INAN;SG;ACC;POS;MASC	_	_	_	_
+11	po	po	_	_	ACC;ADP	_	_	_	_
+12	dobu	doba	_	_	N;FEM;SG;ACC;POS	_	_	_	_
+13	jeho	jeho	_	_	PSSS;3;DET	_	_	_	_
+14	pořizování	pořizování	_	_	N;SG;NEUT;GEN;POS	_	_	_	_
+15	do	do	_	_	ADP;GEN	_	_	_	_
+16	uvedení	uvedení	_	_	N;SG;NEUT;GEN;POS	_	_	_	_
+17	do	do	_	_	ADP;GEN	_	_	_	_
+18	stavu	stav	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+19	způsobilého	způsobilý	_	_	ADJ;INAN;SG;GEN;POS;MASC	_	_	_	_
+20	k	k	_	_	ADP;DAT	_	_	_	_
+21	užívání	užívání	_	_	N;SG;NEUT;DAT;POS	_	_	_	_
+22	.	.	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-003-p18s4
+# text = Tato položka obsahuje též u fyzické osoby rozdíl mezi majetkem určeným k podnikání a závazky plynoucími z podnikání při zohlednění účtování o reálných hodnotách v příslušné položce vlastního kapitálu.
+# orig_file_sentence document_01_003#3
+1	Tato	tento	_	_	NOM;FEM;DET;SG	_	_	_	_
+2	položka	položka	_	_	NOM;N;FEM;SG;POS	_	_	_	_
+3	obsahuje	obsahovat	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+4	též	též	_	_	ADV	_	_	_	_
+5	u	u	_	_	ADP;GEN	_	_	_	_
+6	fyzické	fyzický	_	_	ADJ;FEM;SG;GEN;POS	_	_	_	_
+7	osoby	osoba	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+8	rozdíl	rozdíl	_	_	NOM;N;INAN;SG;POS;MASC	_	_	_	_
+9	mezi	mezi	_	_	ADP;INS	_	_	_	_
+10	majetkem	majetek	_	_	N;INAN;SG;INS;POS;MASC	_	_	_	_
+11	určeným	určený	_	_	ADJ;INAN;SG;INS;POS;MASC	_	_	_	_
+12	k	k	_	_	ADP;DAT	_	_	_	_
+13	podnikání	podnikání	_	_	N;SG;NEUT;DAT;POS	_	_	_	_
+14	a	a	_	_	CONJ	_	_	_	_
+15	závazky	závazek	_	_	N;INAN;INS;PL;POS;MASC	_	_	_	_
+16	plynoucími	plynoucí	_	_	ADJ;INAN;IPFV;V.PTCP;INS;PL;ACT;PRS;POS;MASC	_	_	_	_
+17	z	z	_	_	ADP;GEN	_	_	_	_
+18	podnikání	podnikání	_	_	N;SG;NEUT;GEN;POS	_	_	_	_
+19	při	při	_	_	ESS;ADP	_	_	_	_
+20	zohlednění	zohlednění	_	_	N;ESS;SG;NEUT;POS	_	_	_	_
+21	účtování	účtování	_	_	N;SG;NEUT;GEN;POS	_	_	_	_
+22	o	o	_	_	ESS;ADP	_	_	_	_
+23	reálných	reálný	_	_	ADJ;ESS;FEM;PL;POS	_	_	_	_
+24	hodnotách	hodnota	_	_	N;ESS;FEM;PL;POS	_	_	_	_
+25	v	v	_	_	ESS;ADP	_	_	_	_
+26	příslušné	příslušný	_	_	ADJ;ESS;FEM;SG;POS	_	_	_	_
+27	položce	položka	_	_	N;ESS;FEM;SG;POS	_	_	_	_
+28	vlastního	vlastní	_	_	ADJ;INAN;SG;GEN;POS;MASC	_	_	_	_
+29	kapitálu	kapitál	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+30	.	.	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-007-p73s5
+# text = (2) Komponentou se pro účely této vyhlášky rozumí určená část majetku nebo souboru majetku podle odstavce 1 nebo určená kontrola výskytu závad, u které je výše ocenění významná v poměru k výši ocenění celého majetku nebo souboru majetku a jejíž doba použitelnosti se významně liší od doby použitelnosti majetku nebo souboru majetku.
+# orig_file_sentence document_01_007#25
+1	(2)	(2)	_	_	_	_	_	_	_
+2	Komponentou	komponenta	_	_	N;FEM;SG;INS;POS	_	_	_	_
+3	se	se	_	_	PRO;ACC;REFL	_	_	_	_
+4	pro	pro	_	_	ACC;ADP	_	_	_	_
+5	účely	účel	_	_	N;INAN;ACC;PL;POS;MASC	_	_	_	_
+6	této	tento	_	_	FEM;DET;SG;GEN	_	_	_	_
+7	vyhlášky	vyhláška	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+8	rozumí	rozumět	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+9	určená	určený	_	_	NOM;ADJ;FEM;SG;POS	_	_	_	_
+10	část	část	_	_	NOM;N;FEM;SG;POS	_	_	_	_
+11	majetku	majetek	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+12	nebo	nebo	_	_	CONJ	_	_	_	_
+13	souboru	soubor	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+14	majetku	majetek	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+15	podle	podle	_	_	ADP;GEN	_	_	_	_
+16	odstavce	odstavec	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+17	1	1	_	_	NUM	_	_	_	_
+18	nebo	nebo	_	_	CONJ	_	_	_	_
+19	určená	určený	_	_	NOM;ADJ;FEM;SG;POS	_	_	_	_
+20	kontrola	kontrola	_	_	NOM;N;FEM;SG;POS	_	_	_	_
+21	výskytu	výskyt	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+22	závad	závada	_	_	N;FEM;GEN;PL;POS	_	_	_	_
+23	,	,	_	_	_	_	_	_	_
+24	u	u	_	_	ADP;GEN	_	_	_	_
+25	které	který	_	_	FEM;DET;SG;GEN	_	_	_	_
+26	je	být	_	_	3;V;IND;SG;ACT;PRS;FIN;POS	_	_	_	_
+27	výše	výše	_	_	NOM;N;FEM;SG;POS	_	_	_	_
+28	ocenění	ocenění	_	_	N;SG;NEUT;GEN;POS	_	_	_	_
+29	významná	významný	_	_	NOM;ADJ;FEM;SG;POS	_	_	_	_
+30	v	v	_	_	ESS;ADP	_	_	_	_
+31	poměru	poměr	_	_	N;INAN;ESS;SG;POS;MASC	_	_	_	_
+32	k	k	_	_	ADP;DAT	_	_	_	_
+33	výši	výše	_	_	N;FEM;SG;DAT;POS	_	_	_	_
+34	ocenění	ocenění	_	_	N;SG;NEUT;GEN;POS	_	_	_	_
+35	celého	celý	_	_	ADJ;INAN;SG;GEN;POS;MASC	_	_	_	_
+36	majetku	majetek	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+37	nebo	nebo	_	_	CONJ	_	_	_	_
+38	souboru	soubor	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+39	majetku	majetek	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+40	a	a	_	_	CONJ	_	_	_	_
+41	jejíž	jenž	_	_	PSSS;3;FEM;DET;SG	_	_	_	_
+42	doba	doba	_	_	NOM;N;FEM;SG;POS	_	_	_	_
+43	použitelnosti	použitelnost	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+44	se	se	_	_	PRO;ACC;REFL	_	_	_	_
+45	významně	významně	_	_	ADV;POS	_	_	_	_
+46	liší	lišit	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+47	od	od	_	_	ADP;GEN	_	_	_	_
+48	doby	doba	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+49	použitelnosti	použitelnost	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+50	majetku	majetek	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+51	nebo	nebo	_	_	CONJ	_	_	_	_
+52	souboru	soubor	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+53	majetku	majetek	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+54	.	.	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-009-p92s3
+# text = (1) Ustanovení této vyhlášky se nevztahují na účetní závěrky a konsolidované účetní závěrky sestavené za účetní období započatá před účinností této vyhlášky.
+# orig_file_sentence document_01_009#7
+1	(1)	(1)	_	_	_	_	_	_	_
+2	Ustanovení	ustanovení	_	_	NOM;N;NEUT;PL;POS	_	_	_	_
+3	této	tento	_	_	FEM;DET;SG;GEN	_	_	_	_
+4	vyhlášky	vyhláška	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+5	se	se	_	_	PRO;ACC;REFL	_	_	_	_
+6	nevztahují	vztahovat	_	_	3;IND;NEG;PRS;PL;ACT;V;FIN	_	_	_	_
+7	na	na	_	_	ACC;ADP	_	_	_	_
+8	účetní	účetní	_	_	ADJ;FEM;ACC;PL;POS	_	_	_	_
+9	závěrky	závěrka	_	_	N;FEM;ACC;PL;POS	_	_	_	_
+10	a	a	_	_	CONJ	_	_	_	_
+11	konsolidované	konsolidovaný	_	_	NOM;ADJ;FEM;PL;POS	_	_	_	_
+12	účetní	účetní	_	_	NOM;ADJ;FEM;PL;POS	_	_	_	_
+13	závěrky	závěrka	_	_	NOM;N;FEM;PL;POS	_	_	_	_
+14	sestavené	sestavený	_	_	NOM;ADJ;FEM;PL;POS	_	_	_	_
+15	za	za	_	_	ACC;ADP	_	_	_	_
+16	účetní	účetní	_	_	ADJ;NEUT;ACC;PL;POS	_	_	_	_
+17	období	období	_	_	N;NEUT;ACC;PL;POS	_	_	_	_
+18	započatá	započatý	_	_	ADJ;NEUT;ACC;PL;POS	_	_	_	_
+19	před	před	_	_	ADP;INS	_	_	_	_
+20	účinností	účinnost	_	_	N;FEM;SG;INS;POS	_	_	_	_
+21	této	tento	_	_	FEM;DET;SG;GEN	_	_	_	_
+22	vyhlášky	vyhláška	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+23	.	.	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-002-p18s1
+# text = §_14
+# orig_file_sentence document_01_002#76
+1	§_14	§_14	_	_	_	_	_	_	_
+
+# sent_id = zakon.iso-002-p13s4
+# text = (2) Účetní jednotky jsou povinny provádět účetní zápisy průběžně v účetním období po vyhotovení účetního dokladu takovým způsobem, který neohrozí splnění požadavků rovněž jiných právních předpisů.
+# orig_file_sentence document_02_002#45
+1	(2)	(2)	_	_	_	_	_	_	_
+2	Účetní	účetní	_	_	NOM;ADJ;FEM;PL;POS	_	_	_	_
+3	jednotky	jednotka	_	_	NOM;N;FEM;PL;POS	_	_	_	_
+4	jsou	být	_	_	3;V;IND;PL;ACT;PRS;FIN;POS	_	_	_	_
+5	povinny	povinný	_	_	{FEM/MASC};ADJ;INAN;PL;POS	_	_	_	_
+6	provádět	provádět	_	_	V;NFIN;POS	_	_	_	_
+7	účetní	účetní	_	_	ADJ;INAN;ACC;PL;POS;MASC	_	_	_	_
+8	zápisy	zápis	_	_	N;INAN;ACC;PL;POS;MASC	_	_	_	_
+9	průběžně	průběžně	_	_	ADV;POS	_	_	_	_
+10	v	v	_	_	ESS;ADP	_	_	_	_
+11	účetním	účetní	_	_	ADJ;ESS;SG;NEUT;POS	_	_	_	_
+12	období	období	_	_	N;ESS;SG;NEUT;POS	_	_	_	_
+13	po	po	_	_	ESS;ADP	_	_	_	_
+14	vyhotovení	vyhotovení	_	_	N;ESS;SG;NEUT;POS	_	_	_	_
+15	účetního	účetní	_	_	ADJ;INAN;SG;GEN;POS;MASC	_	_	_	_
+16	dokladu	doklad	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+17	takovým	takový	_	_	{MASC/NEUT};DET;SG;INS	_	_	_	_
+18	způsobem	způsob	_	_	N;INAN;SG;INS;POS;MASC	_	_	_	_
+19	,	,	_	_	_	_	_	_	_
+20	který	který	_	_	NOM;DET;SG;MASC	_	_	_	_
+21	neohrozí	ohrozit	_	_	3;IND;NEG;SG;PRS;ACT;V;FIN	_	_	_	_
+22	splnění	splnění	_	_	N;SG;NEUT;ACC;POS	_	_	_	_
+23	požadavků	požadavek	_	_	N;INAN;GEN;PL;POS;MASC	_	_	_	_
+24	rovněž	rovněž	_	_	ADV	_	_	_	_
+25	jiných	jiný	_	_	ADJ;INAN;GEN;PL;POS;MASC	_	_	_	_
+26	právních	právní	_	_	ADJ;INAN;GEN;PL;POS;MASC	_	_	_	_
+27	předpisů	předpis	_	_	N;INAN;GEN;PL;POS;MASC	_	_	_	_
+28	.	.	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-007-p74s7
+# text = (3) Zůstatky rezerv se převádějí do následujícího účetního období.
+# orig_file_sentence document_01_007#40
+1	(3)	(3)	_	_	_	_	_	_	_
+2	Zůstatky	zůstatek	_	_	NOM;N;INAN;PL;POS;MASC	_	_	_	_
+3	rezerv	rezerva	_	_	N;FEM;GEN;PL;POS	_	_	_	_
+4	se	se	_	_	PRO;ACC;REFL	_	_	_	_
+5	převádějí	převádět	_	_	3;IND;PRS;PL;ACT;V;FIN;POS	_	_	_	_
+6	do	do	_	_	ADP;GEN	_	_	_	_
+7	následujícího	následující	_	_	ADJ;IPFV;SG;NEUT;GEN;V.PTCP;ACT;PRS;POS	_	_	_	_
+8	účetního	účetní	_	_	ADJ;SG;NEUT;GEN;POS	_	_	_	_
+9	období	období	_	_	N;SG;NEUT;GEN;POS	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-004-p47s2
+# text = USPOŘÁDÁNÍ A OBSAHOVÉ VYMEZENÍ VYSVĚTLUJÍCÍCH A DOPLŇUJÍCÍCH INFORMACÍ V PŘÍLOZE V ÚČETNÍ ZÁVĚRCE
+# orig_file_sentence document_01_004#35
+1	USPOŘÁDÁNÍ	uspořádání	_	_	NOM;N;SG;NEUT;POS	_	_	_	_
+2	A	a	_	_	CONJ	_	_	_	_
+3	OBSAHOVÉ	obsahový	_	_	NOM;ADJ;SG;NEUT;POS	_	_	_	_
+4	VYMEZENÍ	vymezení	_	_	NOM;N;SG;NEUT;POS	_	_	_	_
+5	VYSVĚTLUJÍCÍCH	vysvětlující	_	_	ADJ;INAN;IPFV;GEN;V.PTCP;PL;ACT;PRS;POS;MASC	_	_	_	_
+6	A	a	_	_	CONJ	_	_	_	_
+7	DOPLŇUJÍCÍCH	doplňující	_	_	ADJ;FEM;IPFV;GEN;V.PTCP;PL;ACT;PRS;POS	_	_	_	_
+8	INFORMACÍ	informace	_	_	N;FEM;GEN;PL;POS	_	_	_	_
+9	V	v	_	_	ESS;ADP	_	_	_	_
+10	PŘÍLOZE	příloha	_	_	N;ESS;FEM;SG;POS	_	_	_	_
+11	V	v	_	_	ESS;ADP	_	_	_	_
+12	ÚČETNÍ	účetní	_	_	ADJ;ESS;FEM;SG;POS	_	_	_	_
+13	ZÁVĚRCE	závěrka	_	_	N;ESS;FEM;SG;POS	_	_	_	_
+
+# sent_id = vyhlaska.iso-003-p28s3
+# text = Položka "II._Výkony" obsahuje a) tržby za prodej vlastních výrobků a služeb, b) změnu stavu zásob vlastní výroby, to je nedokončené výroby, polotovarů, výrobků a mladých a ostatních zvířat a jejich skupin; tato položka může mít i zápornou hodnotu, c) aktivaci, v této položce je hodnota aktivovaných nákladů zejména na zásoby a dlouhodobý nehmotný a hmotný majetek vytvořený vlastní činností.
+# orig_file_sentence document_01_003#62
+1	Položka	položka	_	_	NOM;N;FEM;SG;POS	_	_	_	_
+2	"	"	_	_	_	_	_	_	_
+3	II._Výkony	"II._Výkony"	_	_	_	_	_	_	_
+4	"	"	_	_	_	_	_	_	_
+5	obsahuje	obsahovat	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+6	a)	a)	_	_	_	_	_	_	_
+7	tržby	tržba	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+8	za	za	_	_	ACC;ADP	_	_	_	_
+9	prodej	prodej	_	_	N;INAN;SG;ACC;POS;MASC	_	_	_	_
+10	vlastních	vlastní	_	_	ADJ;INAN;GEN;PL;POS;MASC	_	_	_	_
+11	výrobků	výrobek	_	_	N;INAN;GEN;PL;POS;MASC	_	_	_	_
+12	a	a	_	_	CONJ	_	_	_	_
+13	služeb	služba	_	_	N;FEM;GEN;PL;POS	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	b)	b)	_	_	_	_	_	_	_
+16	změnu	změna	_	_	N;FEM;SG;ACC;POS	_	_	_	_
+17	stavu	stav	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+18	zásob	zásoba	_	_	N;FEM;GEN;PL;POS	_	_	_	_
+19	vlastní	vlastní	_	_	ADJ;FEM;SG;GEN;POS	_	_	_	_
+20	výroby	výroba	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+21	,	,	_	_	_	_	_	_	_
+22	to	ten	_	_	NOM;DET;NEUT;SG	_	_	_	_
+23	je	být	_	_	3;V;IND;SG;ACT;PRS;FIN;POS	_	_	_	_
+24	nedokončené	dokončený	_	_	ADJ;NEG;FEM;SG;GEN	_	_	_	_
+25	výroby	výroba	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+26	,	,	_	_	_	_	_	_	_
+27	polotovarů	polotovar	_	_	N;INAN;GEN;PL;POS;MASC	_	_	_	_
+28	,	,	_	_	_	_	_	_	_
+29	výrobků	výrobek	_	_	N;INAN;GEN;PL;POS;MASC	_	_	_	_
+30	a	a	_	_	CONJ	_	_	_	_
+31	mladých	mladý	_	_	ADJ;NEUT;GEN;PL;POS	_	_	_	_
+32	a	a	_	_	CONJ	_	_	_	_
+33	ostatních	ostatní	_	_	ADJ;NEUT;GEN;PL;POS	_	_	_	_
+34	zvířat	zvíře	_	_	N;NEUT;GEN;PL;POS	_	_	_	_
+35	a	a	_	_	CONJ	_	_	_	_
+36	jejich	jeho	_	_	PSSP;3;DET	_	_	_	_
+37	skupin	skupina	_	_	N;FEM;GEN;PL;POS	_	_	_	_
+38	;	;	_	_	_	_	_	_	_
+39	tato	tento	_	_	NOM;FEM;DET;SG	_	_	_	_
+40	položka	položka	_	_	NOM;N;FEM;SG;POS	_	_	_	_
+41	může	moci	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+42	mít	mít	_	_	V;NFIN;POS	_	_	_	_
+43	i	i	_	_	CONJ	_	_	_	_
+44	zápornou	záporný	_	_	ADJ;FEM;SG;ACC;POS	_	_	_	_
+45	hodnotu	hodnota	_	_	N;FEM;SG;ACC;POS	_	_	_	_
+46	,	,	_	_	_	_	_	_	_
+47	c)	c)	_	_	_	_	_	_	_
+48	aktivaci	aktivace	_	_	N;FEM;SG;ACC;POS	_	_	_	_
+49	,	,	_	_	_	_	_	_	_
+50	v	v	_	_	ESS;ADP	_	_	_	_
+51	této	tento	_	_	ESS;FEM;DET;SG	_	_	_	_
+52	položce	položka	_	_	N;ESS;FEM;SG;POS	_	_	_	_
+53	je	být	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+54	hodnota	hodnota	_	_	NOM;N;FEM;SG;POS	_	_	_	_
+55	aktivovaných	aktivovaný	_	_	ADJ;INAN;GEN;PL;POS;MASC	_	_	_	_
+56	nákladů	náklad	_	_	N;INAN;GEN;PL;POS;MASC	_	_	_	_
+57	zejména	zejména	_	_	ADV	_	_	_	_
+58	na	na	_	_	ACC;ADP	_	_	_	_
+59	zásoby	zásoba	_	_	N;FEM;ACC;PL;POS	_	_	_	_
+60	a	a	_	_	CONJ	_	_	_	_
+61	dlouhodobý	dlouhodobý	_	_	NOM;ADJ;INAN;SG;POS;MASC	_	_	_	_
+62	nehmotný	hmotný	_	_	NOM;ADJ;INAN;NEG;SG;MASC	_	_	_	_
+63	a	a	_	_	CONJ	_	_	_	_
+64	hmotný	hmotný	_	_	NOM;ADJ;INAN;SG;POS;MASC	_	_	_	_
+65	majetek	majetek	_	_	NOM;N;INAN;SG;POS;MASC	_	_	_	_
+66	vytvořený	vytvořený	_	_	NOM;ADJ;INAN;SG;POS;MASC	_	_	_	_
+67	vlastní	vlastní	_	_	ADJ;FEM;SG;INS;POS	_	_	_	_
+68	činností	činnost	_	_	N;FEM;SG;INS;POS	_	_	_	_
+69	.	.	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-007-p74s5
+# text = Účetní jednotka, která využije metodu komponentního odpisování podle §_56a, neúčtuje o rezervě na opravy hmotného majetku.
+# orig_file_sentence document_01_007#38
+1	Účetní	účetní	_	_	NOM;ADJ;FEM;SG;POS	_	_	_	_
+2	jednotka	jednotka	_	_	NOM;N;FEM;SG;POS	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	která	který	_	_	NOM;FEM;DET;SG	_	_	_	_
+5	využije	využít	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+6	metodu	metoda	_	_	N;FEM;SG;ACC;POS	_	_	_	_
+7	komponentního	komponentní	_	_	ADJ;SG;NEUT;GEN;POS	_	_	_	_
+8	odpisování	odpisování	_	_	N;SG;NEUT;GEN;POS	_	_	_	_
+9	podle	podle	_	_	ADP;GEN	_	_	_	_
+10	§_56a	§_56a	_	_	_	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	neúčtuje	účtovat	_	_	3;IND;NEG;SG;PRS;ACT;V;FIN	_	_	_	_
+13	o	o	_	_	ESS;ADP	_	_	_	_
+14	rezervě	rezerva	_	_	N;ESS;FEM;SG;POS	_	_	_	_
+15	na	na	_	_	ACC;ADP	_	_	_	_
+16	opravy	oprava	_	_	N;FEM;ACC;PL;POS	_	_	_	_
+17	hmotného	hmotný	_	_	ADJ;INAN;SG;GEN;POS;MASC	_	_	_	_
+18	majetku	majetek	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-006-p62s6
+# text = (3) Pokud jsou u stejného druhu zásob využity způsoby ocenění cenou, která vychází z ocenění jejich úbytků cenou zjištěnou podle ustanovení §_25_odst._3_zákona, pak v rámci jednoho analytického účtu zásob je nutno používat pouze jeden způsob ocenění; pokud je využit vážený aritmetický průměr, počítá se nejméně jednou za měsíc.
+# orig_file_sentence document_01_006#10
+1	(3)	(3)	_	_	_	_	_	_	_
+2	Pokud	pokud	_	_	CONJ	_	_	_	_
+3	jsou	být	_	_	3;V;IND;PL;ACT;PRS;FIN;POS	_	_	_	_
+4	u	u	_	_	ADP;GEN	_	_	_	_
+5	stejného	stejný	_	_	ADJ;INAN;SG;GEN;POS;MASC	_	_	_	_
+6	druhu	druh	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+7	zásob	zásoba	_	_	N;FEM;GEN;PL;POS	_	_	_	_
+8	využity	využitý	_	_	{FEM/MASC};ADJ;INAN;V.PTCP;PL;PASS;POS	_	_	_	_
+9	způsoby	způsob	_	_	NOM;N;INAN;PL;POS;MASC	_	_	_	_
+10	ocenění	ocenění	_	_	N;SG;NEUT;GEN;POS	_	_	_	_
+11	cenou	cena	_	_	N;FEM;SG;INS;POS	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	která	který	_	_	NOM;FEM;DET;SG	_	_	_	_
+14	vychází	vycházet	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+15	z	z	_	_	ADP;GEN	_	_	_	_
+16	ocenění	ocenění	_	_	N;SG;NEUT;GEN;POS	_	_	_	_
+17	jejich	jeho	_	_	PSSP;3;DET	_	_	_	_
+18	úbytků	úbytek	_	_	N;INAN;GEN;PL;POS;MASC	_	_	_	_
+19	cenou	cena	_	_	N;FEM;SG;INS;POS	_	_	_	_
+20	zjištěnou	zjištěný	_	_	ADJ;FEM;SG;INS;POS	_	_	_	_
+21	podle	podle	_	_	ADP;GEN	_	_	_	_
+22	ustanovení	ustanovení	_	_	N;SG;NEUT;GEN;POS	_	_	_	_
+23	§_25_odst._3_zákona	§_25_odst._3_zákona	_	_	_	_	_	_	_
+24	,	,	_	_	_	_	_	_	_
+25	pak	pak	_	_	ADV	_	_	_	_
+26	v	v	_	_	ESS;ADP	_	_	_	_
+27	rámci	rámec	_	_	N;INAN;ESS;SG;POS;MASC	_	_	_	_
+28	jednoho	jeden	_	_	{MASC/NEUT};SG;GEN;NUM	_	_	_	_
+29	analytického	analytický	_	_	ADJ;INAN;SG;GEN;POS;MASC	_	_	_	_
+30	účtu	účet	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+31	zásob	zásoba	_	_	N;FEM;GEN;PL;POS	_	_	_	_
+32	je	být	_	_	3;V;IND;SG;ACT;PRS;FIN;POS	_	_	_	_
+33	nutno	nutný	_	_	ADJ;SG;NEUT;POS	_	_	_	_
+34	používat	používat	_	_	V;NFIN;POS	_	_	_	_
+35	pouze	pouze	_	_	ADV	_	_	_	_
+36	jeden	jeden	_	_	INAN;SG;ACC;NUM;MASC	_	_	_	_
+37	způsob	způsob	_	_	N;INAN;SG;ACC;POS;MASC	_	_	_	_
+38	ocenění	ocenění	_	_	N;SG;NEUT;GEN;POS	_	_	_	_
+39	;	;	_	_	_	_	_	_	_
+40	pokud	pokud	_	_	CONJ	_	_	_	_
+41	je	být	_	_	3;V;IND;SG;ACT;PRS;FIN;POS	_	_	_	_
+42	využit	využitý	_	_	ADJ;SG;V.PTCP;PASS;POS;MASC	_	_	_	_
+43	vážený	vážený	_	_	NOM;ADJ;INAN;SG;POS;MASC	_	_	_	_
+44	aritmetický	aritmetický	_	_	NOM;ADJ;INAN;SG;POS;MASC	_	_	_	_
+45	průměr	průměr	_	_	NOM;N;INAN;SG;POS;MASC	_	_	_	_
+46	,	,	_	_	_	_	_	_	_
+47	počítá	počítat	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+48	se	se	_	_	PRO;ACC;REFL	_	_	_	_
+49	nejméně	málo	_	_	RL;ADV;POS	_	_	_	_
+50	jednou	jednou	_	_	ADV	_	_	_	_
+51	za	za	_	_	ACC;ADP	_	_	_	_
+52	měsíc	měsíc	_	_	N;INAN;SG;ACC;POS;MASC	_	_	_	_
+53	.	.	_	_	_	_	_	_	_
+
+# sent_id = zakon.iso-006-p40s6
+# text = (3) Účetní jednotky mohou při fyzické inventuře zjišťovat skutečný stav majetku počítáním, měřením, vážením a dalšími obdobnými způsoby, případně mohou využívat účetní záznamy, které prokazují jeho existenci.
+# orig_file_sentence document_02_006#12
+1	(3)	(3)	_	_	_	_	_	_	_
+2	Účetní	účetní	_	_	ADJ;PL;NOM;POS;FEM	_	_	_	_
+3	jednotky	jednotka	_	_	FEM;PL;NOM;POS;N	_	_	_	_
+4	mohou	moci	_	_	PRS;PL;3;ACT;IND;POS;V;FIN	_	_	_	_
+5	při	při	_	_	ESS;ADP	_	_	_	_
+6	fyzické	fyzický	_	_	ADJ;POS;SG;FEM;ESS	_	_	_	_
+7	inventuře	inventura	_	_	N;POS;SG;FEM;ESS	_	_	_	_
+8	zjišťovat	zjišťovat	_	_	POS;NFIN;V	_	_	_	_
+9	skutečný	skutečný	_	_	ADJ;ACC;MASC;INAN;POS;SG	_	_	_	_
+10	stav	stav	_	_	ACC;MASC;INAN;POS;SG;N	_	_	_	_
+11	majetku	majetek	_	_	GEN;MASC;INAN;POS;SG;N	_	_	_	_
+12	počítáním	počítání	_	_	INS;NEUT;POS;SG;N	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	měřením	měření	_	_	INS;NEUT;POS;SG;N	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	vážením	vážení	_	_	INS;NEUT;POS;SG;N	_	_	_	_
+17	a	a	_	_	CONJ	_	_	_	_
+18	dalšími	další	_	_	ADJ;MASC;PL;INAN;POS;INS	_	_	_	_
+19	obdobnými	obdobný	_	_	ADJ;MASC;PL;INAN;POS;INS	_	_	_	_
+20	způsoby	způsob	_	_	PL;MASC;INAN;POS;INS;N	_	_	_	_
+21	,	,	_	_	_	_	_	_	_
+22	případně	případně	_	_	ADV;POS	_	_	_	_
+23	mohou	moci	_	_	PRS;PL;3;ACT;IND;POS;V;FIN	_	_	_	_
+24	využívat	využívat	_	_	POS;NFIN;V	_	_	_	_
+25	účetní	účetní	_	_	ADJ;ACC;MASC;PL;INAN;POS	_	_	_	_
+26	záznamy	záznam	_	_	ACC;PL;MASC;INAN;POS;N	_	_	_	_
+27	,	,	_	_	_	_	_	_	_
+28	které	který	_	_	DET;PL;MASC;INAN;NOM	_	_	_	_
+29	prokazují	prokazovat	_	_	PRS;PL;3;ACT;IND;POS;V;FIN	_	_	_	_
+30	jeho	jeho	_	_	PSSS;DET;3	_	_	_	_
+31	existenci	existence	_	_	ACC;FEM;POS;SG;N	_	_	_	_
+32	.	.	_	_	_	_	_	_	_
+
+# sent_id = zakon.iso-005-p37s10
+# text = Uvedený majetek se odpisuje jen do výše jeho ocenění v účetnictví.
+# orig_file_sentence document_02_005#56
+1	Uvedený	uvedený	_	_	ADJ;MASC;NOM;SG;INAN;POS	_	_	_	_
+2	majetek	majetek	_	_	MASC;NOM;N;SG;INAN;POS	_	_	_	_
+3	se	se	_	_	PRO;REFL;ACC	_	_	_	_
+4	odpisuje	odpisovat	_	_	IND;3;FIN;V;ACT;PRS;SG;POS	_	_	_	_
+5	jen	jen	_	_	PART	_	_	_	_
+6	do	do	_	_	GEN;ADP	_	_	_	_
+7	výše	výše	_	_	FEM;N;GEN;SG;POS	_	_	_	_
+8	jeho	jeho	_	_	PSSS;DET;3	_	_	_	_
+9	ocenění	ocenění	_	_	N;GEN;SG;NEUT;POS	_	_	_	_
+10	v	v	_	_	ADP;ESS	_	_	_	_
+11	účetnictví	účetnictví	_	_	N;SG;NEUT;ESS;POS	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-002-p13s11
+# text = Položka obsahuje též nemovitosti, které účetní jednotka, jejímž předmětem činnosti je nákup a prodej nemovitostí, nakupuje za účelem prodeje a sama je nepoužívá, nepronajímá a neprovádí na nich technické zhodnocení.
+# orig_file_sentence document_01_002#35
+1	Položka	položka	_	_	NOM;N;FEM;SG;POS	_	_	_	_
+2	obsahuje	obsahovat	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+3	též	též	_	_	ADV	_	_	_	_
+4	nemovitosti	nemovitost	_	_	N;FEM;ACC;PL;POS	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	které	který	_	_	FEM;DET;ACC;PL	_	_	_	_
+7	účetní	účetní	_	_	NOM;ADJ;FEM;SG;POS	_	_	_	_
+8	jednotka	jednotka	_	_	NOM;N;FEM;SG;POS	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	jejímž	jenž	_	_	PSSS;3;{MASC/NEUT};DET;SG;INS	_	_	_	_
+11	předmětem	předmět	_	_	N;INAN;SG;INS;POS;MASC	_	_	_	_
+12	činnosti	činnost	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+13	je	být	_	_	3;V;IND;SG;ACT;PRS;FIN;POS	_	_	_	_
+14	nákup	nákup	_	_	NOM;N;INAN;SG;POS;MASC	_	_	_	_
+15	a	a	_	_	CONJ	_	_	_	_
+16	prodej	prodej	_	_	NOM;N;INAN;SG;POS;MASC	_	_	_	_
+17	nemovitostí	nemovitost	_	_	N;FEM;GEN;PL;POS	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	nakupuje	nakupovat	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+20	za	za	_	_	ADP;INS	_	_	_	_
+21	účelem	účel	_	_	N;INAN;SG;INS;POS;MASC	_	_	_	_
+22	prodeje	prodej	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+23	a	a	_	_	CONJ	_	_	_	_
+24	sama	sám	_	_	NOM;FEM;DET;SG	_	_	_	_
+25	je	on	_	_	3;PRO;ACC;PL	_	_	_	_
+26	nepoužívá	používat	_	_	3;IND;NEG;SG;PRS;ACT;V;FIN	_	_	_	_
+27	,	,	_	_	_	_	_	_	_
+28	nepronajímá	pronajímat	_	_	3;IND;NEG;SG;PRS;ACT;V;FIN	_	_	_	_
+29	a	a	_	_	CONJ	_	_	_	_
+30	neprovádí	provádět	_	_	3;IND;NEG;SG;PRS;ACT;V;FIN	_	_	_	_
+31	na	na	_	_	ESS;ADP	_	_	_	_
+32	nich	on	_	_	3;ESS;PRO;PL	_	_	_	_
+33	technické	technický	_	_	NOM;ADJ;SG;NEUT;POS	_	_	_	_
+34	zhodnocení	zhodnocení	_	_	NOM;N;SG;NEUT;POS	_	_	_	_
+35	.	.	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-007-p74s2
+# text = Postup tvorby a použití rezerv
+# orig_file_sentence document_01_007#35
+1	Postup	postup	_	_	NOM;N;INAN;SG;POS;MASC	_	_	_	_
+2	tvorby	tvorba	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+3	a	a	_	_	CONJ	_	_	_	_
+4	použití	použití	_	_	N;SG;NEUT;GEN;POS	_	_	_	_
+5	rezerv	rezerva	_	_	N;FEM;GEN;PL;POS	_	_	_	_
+
+# sent_id = zakon.iso-006-p45s19
+# text = (6) Na všechny formy účetního záznamu se, pokud tento zákon výslovně nestanoví jinak, pohlíží stejně; obsah všech účetních záznamů a jejich změny mají stejné důsledky, jsou-li provedeny v účetních záznamech ve formě podle odstavce 2 písm._b)_a_c), jako ve formě podle odstavce 2 písm._a).
+# orig_file_sentence document_02_006#57
+1	(6)	(6)	_	_	_	_	_	_	_
+2	Na	na	_	_	ACC;ADP	_	_	_	_
+3	všechny	všechen	_	_	ACC;DET;PL;FEM	_	_	_	_
+4	formy	forma	_	_	ACC;FEM;PL;POS;N	_	_	_	_
+5	účetního	účetní	_	_	GEN;ADJ;MASC;INAN;POS;SG	_	_	_	_
+6	záznamu	záznam	_	_	GEN;MASC;INAN;POS;SG;N	_	_	_	_
+7	se	se	_	_	ACC;REFL;PRO	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	pokud	pokud	_	_	CONJ	_	_	_	_
+10	tento	tento	_	_	DET;MASC;NOM;SG	_	_	_	_
+11	zákon	zákon	_	_	MASC;INAN;NOM;POS;SG;N	_	_	_	_
+12	výslovně	výslovně	_	_	ADV;POS	_	_	_	_
+13	nestanoví	stanovit	_	_	PRS;3;ACT;IND;NEG;V;SG;FIN	_	_	_	_
+14	jinak	jinak	_	_	ADV	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	pohlíží	pohlížet	_	_	PRS;3;ACT;IND;POS;V;SG;FIN	_	_	_	_
+17	stejně	stejně	_	_	ADV;POS	_	_	_	_
+18	;	;	_	_	_	_	_	_	_
+19	obsah	obsah	_	_	MASC;INAN;NOM;POS;SG;N	_	_	_	_
+20	všech	všechen	_	_	DET;GEN;PL	_	_	_	_
+21	účetních	účetní	_	_	GEN;ADJ;MASC;PL;INAN;POS	_	_	_	_
+22	záznamů	záznam	_	_	GEN;PL;MASC;INAN;POS;N	_	_	_	_
+23	a	a	_	_	CONJ	_	_	_	_
+24	jejich	jeho	_	_	PSSP;DET;3	_	_	_	_
+25	změny	změna	_	_	FEM;PL;NOM;POS;N	_	_	_	_
+26	mají	mít	_	_	PRS;PL;3;ACT;IND;POS;V;FIN	_	_	_	_
+27	stejné	stejný	_	_	ADJ;ACC;MASC;PL;INAN;POS	_	_	_	_
+28	důsledky	důsledek	_	_	ACC;PL;MASC;INAN;POS;N	_	_	_	_
+29	,	,	_	_	_	_	_	_	_
+30	jsou-li	jsou-li	_	_	_	_	_	_	_
+31	provedeny	provedený	_	_	V.PTCP;ADJ;PL;{FEM/MASC};PASS;INAN;POS	_	_	_	_
+32	v	v	_	_	ESS;ADP	_	_	_	_
+33	účetních	účetní	_	_	ADJ;MASC;PL;INAN;POS;ESS	_	_	_	_
+34	záznamech	záznam	_	_	MASC;PL;INAN;POS;N;ESS	_	_	_	_
+35	ve	v	_	_	ESS;ADP	_	_	_	_
+36	formě	forma	_	_	N;POS;SG;FEM;ESS	_	_	_	_
+37	podle	podle	_	_	GEN;ADP	_	_	_	_
+38	odstavce	odstavec	_	_	GEN;MASC;INAN;POS;SG;N	_	_	_	_
+39	2	2	_	_	NUM	_	_	_	_
+40	písm._b)_a_c)	písm._b)_a_c)	_	_	_	_	_	_	_
+41	,	,	_	_	_	_	_	_	_
+42	jako	jako	_	_	CONJ	_	_	_	_
+43	ve	v	_	_	ESS;ADP	_	_	_	_
+44	formě	forma	_	_	N;POS;SG;FEM;ESS	_	_	_	_
+45	podle	podle	_	_	GEN;ADP	_	_	_	_
+46	odstavce	odstavec	_	_	GEN;MASC;INAN;POS;SG;N	_	_	_	_
+47	2	2	_	_	NUM	_	_	_	_
+48	písm._a)	písm._a)	_	_	_	_	_	_	_
+49	.	.	_	_	_	_	_	_	_
+
+# sent_id = zakon.iso-005-p36s1
+# text = §_27
+# orig_file_sentence document_02_005#32
+1	§_27	§_27	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-006-p68s8-1
+# text = (5) Pokud se rozhodný den neshoduje se dnem otevření účetních knih, který následuje po rozvahovém dni pro ocenění, a zároveň se neshoduje se dnem zápisu přeměny společnosti do obchodního rejstříku, zanikající účetní jednotka nebo účetní jednotka rozdělovaná odštěpením a) účtuje při ocenění majetku a závazků reálnou hodnotou způsobem ocenění podle §_24_odst._3_písm._a)_bodu_2_zákona pouze o reálné hodnotě majetku a závazků, které vykázala v účetní závěrce ke dni předcházejícímu rozhodný den; o oceňovacích rozdílech, které se vztahují k úbytkům majetku a závazků v období mezi rozvahovým dnem pro ocenění a rozhodným dnem, se účtuje prostřednictvím účtu vykazovaného v položce "A.II.6._Rozdíly_z_ocenění_při_přeměnách_společností", nebo b) při ocenění majetku a závazků reálnou hodnotou způsobem ocenění podle §_24_odst._3_písm._a)_bodu_1_zákona o položce "A.II.6._Rozdíly_z_ocenění_při_přeměnách_společností" neúčtuje; existuje-li ocenění jmění posudkem znalce k rozhodnému dni a došlo-li mezi rozvahovým dnem pro ocenění a rozhodným dnem ke změně položky "B.II.9._Oceňovací_rozdíl_k_nabytému_majetku", účetní jednotka zaúčtuje tuto změnu na příslušný účet vykazovaný v položce "B.II.9._Oceňovací_rozdíl_k_nabytému_majetku" souvztažně s příslušným účtem vykazovaným v položce "A.II.6._Rozdíly_z_ocenění_při_přeměnách_společností".
+# orig_file_sentence document_01_006#54
+1	(5)	(5)	_	_	_	_	_	_	_
+2	Pokud	pokud	_	_	CONJ	_	_	_	_
+3	se	se	_	_	PRO;ACC;REFL	_	_	_	_
+4	rozhodný	rozhodný	_	_	NOM;ADJ;INAN;SG;POS;MASC	_	_	_	_
+5	den	den	_	_	NOM;N;INAN;SG;POS;MASC	_	_	_	_
+6	neshoduje	shodovat	_	_	3;IND;NEG;SG;PRS;ACT;V;FIN	_	_	_	_
+7	se	s	_	_	ADP;INS	_	_	_	_
+8	dnem	den	_	_	N;INAN;SG;INS;POS;MASC	_	_	_	_
+9	otevření	otevření	_	_	N;SG;NEUT;GEN;POS	_	_	_	_
+10	účetních	účetní	_	_	ADJ;FEM;GEN;PL;POS	_	_	_	_
+11	knih	kniha	_	_	N;FEM;GEN;PL;POS	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	který	který	_	_	NOM;DET;SG;MASC	_	_	_	_
+14	následuje	následovat	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+15	po	po	_	_	ESS;ADP	_	_	_	_
+16	rozvahovém	rozvahový	_	_	ADJ;INAN;ESS;SG;POS;MASC	_	_	_	_
+17	dni	den	_	_	N;INAN;ESS;SG;POS;MASC	_	_	_	_
+18	pro	pro	_	_	ACC;ADP	_	_	_	_
+19	ocenění	ocenění	_	_	N;SG;NEUT;ACC;POS	_	_	_	_
+20	,	,	_	_	_	_	_	_	_
+21	a	a	_	_	CONJ	_	_	_	_
+22	zároveň	zároveň	_	_	ADV	_	_	_	_
+23	se	se	_	_	PRO;ACC;REFL	_	_	_	_
+24	neshoduje	shodovat	_	_	3;IND;NEG;SG;PRS;ACT;V;FIN	_	_	_	_
+25	se	s	_	_	ADP;INS	_	_	_	_
+26	dnem	dno	_	_	N;SG;NEUT;INS;POS	_	_	_	_
+27	zápisu	zápis	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+28	přeměny	přeměna	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+29	společnosti	společnost	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+30	do	do	_	_	ADP;GEN	_	_	_	_
+31	obchodního	obchodní	_	_	ADJ;INAN;SG;GEN;POS;MASC	_	_	_	_
+32	rejstříku	rejstřík	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+33	,	,	_	_	_	_	_	_	_
+34	zanikající	zanikající	_	_	NOM;ADJ;FEM;IPFV;SG;V.PTCP;ACT;PRS;POS	_	_	_	_
+35	účetní	účetní	_	_	NOM;ADJ;FEM;SG;POS	_	_	_	_
+36	jednotka	jednotka	_	_	NOM;N;FEM;SG;POS	_	_	_	_
+37	nebo	nebo	_	_	CONJ	_	_	_	_
+38	účetní	účetní	_	_	NOM;ADJ;FEM;SG;POS	_	_	_	_
+39	jednotka	jednotka	_	_	NOM;N;FEM;SG;POS	_	_	_	_
+40	rozdělovaná	rozdělovaný	_	_	NOM;ADJ;FEM;SG;POS	_	_	_	_
+41	odštěpením	odštěpení	_	_	N;SG;NEUT;INS;POS	_	_	_	_
+42	a)	a)	_	_	_	_	_	_	_
+43	účtuje	účtovat	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+44	při	při	_	_	ESS;ADP	_	_	_	_
+45	ocenění	ocenění	_	_	N;ESS;SG;NEUT;POS	_	_	_	_
+46	majetku	majetek	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+47	a	a	_	_	CONJ	_	_	_	_
+48	závazků	závazek	_	_	N;INAN;GEN;PL;POS;MASC	_	_	_	_
+49	reálnou	reálný	_	_	ADJ;FEM;SG;INS;POS	_	_	_	_
+50	hodnotou	hodnota	_	_	N;FEM;SG;INS;POS	_	_	_	_
+51	způsobem	způsob	_	_	N;INAN;SG;INS;POS;MASC	_	_	_	_
+52	ocenění	ocenění	_	_	N;SG;NEUT;GEN;POS	_	_	_	_
+53	podle	podle	_	_	ADP;GEN	_	_	_	_
+54	§_24_odst._3_písm._a)_bodu_2_zákona	§_24_odst._3_písm._a)_bodu_2_zákona	_	_	_	_	_	_	_
+55	pouze	pouze	_	_	ADV	_	_	_	_
+56	o	o	_	_	ESS;ADP	_	_	_	_
+57	reálné	reálný	_	_	ADJ;ESS;FEM;SG;POS	_	_	_	_
+58	hodnotě	hodnota	_	_	N;ESS;FEM;SG;POS	_	_	_	_
+59	majetku	majetek	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+60	a	a	_	_	CONJ	_	_	_	_
+61	závazků	závazek	_	_	N;INAN;GEN;PL;POS;MASC	_	_	_	_
+62	,	,	_	_	_	_	_	_	_
+63	které	který	_	_	DET;ACC;PL;MASC	_	_	_	_
+64	vykázala	vykázat	_	_	{PL/SG};{FEM/NEUT};V.PTCP;ACT;V;PST;POS	_	_	_	_
+65	v	v	_	_	ESS;ADP	_	_	_	_
+66	účetní	účetní	_	_	ADJ;ESS;FEM;SG;POS	_	_	_	_
+67	závěrce	závěrka	_	_	N;ESS;FEM;SG;POS	_	_	_	_
+68	ke	k	_	_	ADP;DAT	_	_	_	_
+69	dni	den	_	_	N;INAN;SG;DAT;POS;MASC	_	_	_	_
+70	předcházejícímu	předcházející	_	_	ADJ;ANIM;IPFV;SG;DAT;V.PTCP;ACT;PRS;POS;MASC	_	_	_	_
+71	rozhodný	rozhodný	_	_	ADJ;INAN;SG;ACC;POS;MASC	_	_	_	_
+72	den	den	_	_	N;INAN;SG;ACC;POS;MASC	_	_	_	_
+73	;	;	_	_	_	_	_	_	_
+74	o	o	_	_	ESS;ADP	_	_	_	_
+75	oceňovacích	oceňovací	_	_	ADJ;INAN;ESS;PL;POS;MASC	_	_	_	_
+76	rozdílech	rozdíl	_	_	N;INAN;ESS;PL;POS;MASC	_	_	_	_
+77	,	,	_	_	_	_	_	_	_
+78	které	který	_	_	NOM;INAN;DET;PL;MASC	_	_	_	_
+79	se	se	_	_	PRO;ACC;REFL	_	_	_	_
+80	vztahují	vztahovat	_	_	3;IND;PRS;PL;ACT;V;FIN;POS	_	_	_	_
+81	k	k	_	_	ADP;DAT	_	_	_	_
+82	úbytkům	úbytek	_	_	N;INAN;DAT;PL;POS;MASC	_	_	_	_
+83	majetku	majetek	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+84	a	a	_	_	CONJ	_	_	_	_
+85	závazků	závazek	_	_	N;INAN;GEN;PL;POS;MASC	_	_	_	_
+86	v	v	_	_	ESS;ADP	_	_	_	_
+87	období	období	_	_	N;ESS;SG;NEUT;POS	_	_	_	_
+88	mezi	mezi	_	_	ADP;INS	_	_	_	_
+89	rozvahovým	rozvahový	_	_	ADJ;INAN;SG;INS;POS;MASC	_	_	_	_
+90	dnem	den	_	_	N;INAN;SG;INS;POS;MASC	_	_	_	_
+91	pro	pro	_	_	ACC;ADP	_	_	_	_
+92	ocenění	ocenění	_	_	N;SG;NEUT;ACC;POS	_	_	_	_
+93	a	a	_	_	CONJ	_	_	_	_
+94	rozhodným	rozhodný	_	_	ADJ;INAN;SG;INS;POS;MASC	_	_	_	_
+95	dnem	den	_	_	N;INAN;SG;INS;POS;MASC	_	_	_	_
+96	,	,	_	_	_	_	_	_	_
+97	se	se	_	_	PRO;ACC;REFL	_	_	_	_
+98	účtuje	účtovat	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+99	prostřednictvím	prostřednictvím	_	_	ADP;GEN	_	_	_	_
+100	účtu	účet	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+101	vykazovaného	vykazovaný	_	_	ADJ;INAN;SG;GEN;POS;MASC	_	_	_	_
+102	v	v	_	_	ESS;ADP	_	_	_	_
+103	položce	položka	_	_	N;ESS;FEM;SG;POS	_	_	_	_
+104	"	"	_	_	_	_	_	_	_
+105	A.II.6._Rozdíly_z_ocenění_při_přeměnách_společností	"A.II.6._Rozdíly_z_ocenění_při_přeměnách_společností"	_	_	_	_	_	_	_
+106	"	"	_	_	_	_	_	_	_
+107	,	,	_	_	_	_	_	_	_
+108	nebo	nebo	_	_	CONJ	_	_	_	_
+109	b)	b)	_	_	_	_	_	_	_
+110	při	při	_	_	ESS;ADP	_	_	_	_
+111	ocenění	ocenění	_	_	N;ESS;SG;NEUT;POS	_	_	_	_
+112	majetku	majetek	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+113	a	a	_	_	CONJ	_	_	_	_
+114	závazků	závazek	_	_	N;INAN;GEN;PL;POS;MASC	_	_	_	_
+115	reálnou	reálný	_	_	ADJ;FEM;SG;INS;POS	_	_	_	_
+116	hodnotou	hodnota	_	_	N;FEM;SG;INS;POS	_	_	_	_
+117	způsobem	způsob	_	_	N;INAN;SG;INS;POS;MASC	_	_	_	_
+118	ocenění	ocenění	_	_	N;SG;NEUT;GEN;POS	_	_	_	_
+119	podle	podle	_	_	ADP;GEN	_	_	_	_
+120	§_24_odst._3_písm._a)_bodu_1_zákona	§_24_odst._3_písm._a)_bodu_1_zákona	_	_	_	_	_	_	_
+121	o	o	_	_	ESS;ADP	_	_	_	_
+122	položce	položka	_	_	N;ESS;FEM;SG;POS	_	_	_	_
+123	"	"	_	_	_	_	_	_	_
+124	A.II.6._Rozdíly_z_ocenění_při_přeměnách_společností	"A.II.6._Rozdíly_z_ocenění_při_přeměnách_společností"	_	_	_	_	_	_	_
+125	"	"	_	_	_	_	_	_	_
+126	neúčtuje	účtovat	_	_	3;IND;NEG;SG;PRS;ACT;V;FIN	_	_	_	_
+127	;	;	_	_	_	_	_	_	_
+128	existuje-li	existuje-li	_	_	_	_	_	_	_
+129	ocenění	ocenění	_	_	N;SG;NEUT;ACC;POS	_	_	_	_
+130	jmění	jmění	_	_	N;SG;NEUT;GEN;POS	_	_	_	_
+131	posudkem	posudek	_	_	N;INAN;SG;INS;POS;MASC	_	_	_	_
+132	znalce	znalec	_	_	N;ANIM;SG;GEN;POS;MASC	_	_	_	_
+133	k	k	_	_	ADP;DAT	_	_	_	_
+134	rozhodnému	rozhodný	_	_	ADJ;INAN;SG;DAT;POS;MASC	_	_	_	_
+135	dni	den	_	_	N;INAN;SG;DAT;POS;MASC	_	_	_	_
+136	a	a	_	_	CONJ	_	_	_	_
+137	došlo-li	došlo-li	_	_	_	_	_	_	_
+138	mezi	mezi	_	_	ADP;INS	_	_	_	_
+139	rozvahovým	rozvahový	_	_	ADJ;INAN;SG;INS;POS;MASC	_	_	_	_
+140	dnem	den	_	_	N;INAN;SG;INS;POS;MASC	_	_	_	_
+141	pro	pro	_	_	ACC;ADP	_	_	_	_
+142	ocenění	ocenění	_	_	N;SG;NEUT;ACC;POS	_	_	_	_
+143	a	a	_	_	CONJ	_	_	_	_
+144	rozhodným	rozhodný	_	_	ADJ;INAN;SG;INS;POS;MASC	_	_	_	_
+145	dnem	den	_	_	N;INAN;SG;INS;POS;MASC	_	_	_	_
+146	ke	k	_	_	ADP;DAT	_	_	_	_
+147	změně	změna	_	_	N;FEM;SG;DAT;POS	_	_	_	_
+148	položky	položka	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+149	"	"	_	_	_	_	_	_	_
+150	B.II.9._Oceňovací_rozdíl_k_nabytému_majetku	"B.II.9._Oceňovací_rozdíl_k_nabytému_majetku"	_	_	_	_	_	_	_
+151	"	"	_	_	_	_	_	_	_
+152	,	,	_	_	_	_	_	_	_
+153	účetní	účetní	_	_	NOM;ADJ;FEM;SG;POS	_	_	_	_
+154	jednotka	jednotka	_	_	NOM;N;FEM;SG;POS	_	_	_	_
+155	zaúčtuje	zaúčtovat	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+156	tuto	tento	_	_	FEM;DET;SG;ACC	_	_	_	_
+157	změnu	změna	_	_	N;FEM;SG;ACC;POS	_	_	_	_
+158	na	na	_	_	ACC;ADP	_	_	_	_
+159	příslušný	příslušný	_	_	ADJ;INAN;SG;ACC;POS;MASC	_	_	_	_
+160	účet	účet	_	_	N;INAN;SG;ACC;POS;MASC	_	_	_	_
+161	vykazovaný	vykazovaný	_	_	ADJ;INAN;SG;ACC;POS;MASC	_	_	_	_
+162	v	v	_	_	ESS;ADP	_	_	_	_
+163	položce	položka	_	_	N;ESS;FEM;SG;POS	_	_	_	_
+164	"	"	_	_	_	_	_	_	_
+165	B.II.9._Oceňovací_rozdíl_k_nabytému_majetku	"B.II.9._Oceňovací_rozdíl_k_nabytému_majetku"	_	_	_	_	_	_	_
+166	"	"	_	_	_	_	_	_	_
+167	souvztažně	souvztažně	_	_	ADV;POS	_	_	_	_
+168	s	s	_	_	ADP;INS	_	_	_	_
+169	příslušným	příslušný	_	_	ADJ;INAN;SG;INS;POS;MASC	_	_	_	_
+170	účtem	účet	_	_	N;INAN;SG;INS;POS;MASC	_	_	_	_
+171	vykazovaným	vykazovaný	_	_	ADJ;INAN;SG;INS;POS;MASC	_	_	_	_
+172	v	v	_	_	ESS;ADP	_	_	_	_
+173	položce	položka	_	_	N;ESS;FEM;SG;POS	_	_	_	_
+174	"	"	_	_	_	_	_	_	_
+175	A.II.6._Rozdíly_z_ocenění_při_přeměnách_společností	"A.II.6._Rozdíly_z_ocenění_při_přeměnách_společností"	_	_	_	_	_	_	_
+176	"	"	_	_	_	_	_	_	_
+177	.	.	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-006-p65s9
+# text = (4) Dokumentace je účetním záznamem a obsahuje identifikaci zajišťovaných položek a zajišťovacích derivátů, přesné vymezení rizika, které je předmětem zajištění, způsob výpočtu efektivnosti.
+# orig_file_sentence document_01_006#33
+1	(4)	(4)	_	_	_	_	_	_	_
+2	Dokumentace	dokumentace	_	_	NOM;N;FEM;SG;POS	_	_	_	_
+3	je	být	_	_	3;V;IND;SG;ACT;PRS;FIN;POS	_	_	_	_
+4	účetním	účetní	_	_	ADJ;INAN;SG;INS;POS;MASC	_	_	_	_
+5	záznamem	záznam	_	_	N;INAN;SG;INS;POS;MASC	_	_	_	_
+6	a	a	_	_	CONJ	_	_	_	_
+7	obsahuje	obsahovat	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+8	identifikaci	identifikace	_	_	N;FEM;SG;ACC;POS	_	_	_	_
+9	zajišťovaných	zajišťovaný	_	_	ADJ;FEM;GEN;PL;POS	_	_	_	_
+10	položek	položka	_	_	N;FEM;GEN;PL;POS	_	_	_	_
+11	a	a	_	_	CONJ	_	_	_	_
+12	zajišťovacích	zajišťovací	_	_	ADJ;INAN;GEN;PL;POS;MASC	_	_	_	_
+13	derivátů	derivát	_	_	N;INAN;GEN;PL;POS;MASC	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	přesné	přesný	_	_	NOM;ADJ;SG;NEUT;POS	_	_	_	_
+16	vymezení	vymezení	_	_	NOM;N;SG;NEUT;POS	_	_	_	_
+17	rizika	riziko	_	_	N;SG;NEUT;GEN;POS	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	které	který	_	_	NOM;DET;NEUT;SG	_	_	_	_
+20	je	být	_	_	3;V;IND;SG;ACT;PRS;FIN;POS	_	_	_	_
+21	předmětem	předmět	_	_	N;INAN;SG;INS;POS;MASC	_	_	_	_
+22	zajištění	zajištění	_	_	N;SG;NEUT;GEN;POS	_	_	_	_
+23	,	,	_	_	_	_	_	_	_
+24	způsob	způsob	_	_	NOM;N;INAN;SG;POS;MASC	_	_	_	_
+25	výpočtu	výpočet	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+26	efektivnosti	efektivnost	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+27	.	.	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-001-p10s13
+# text = Goodwill se odpisuje rovnoměrně nejpozději do 60 měsíců od nabytí podniku nebo jeho části nebo od rozhodného dne přeměny do nákladů.
+# orig_file_sentence document_01_001#61
+1	Goodwill	goodwill	_	_	NOM;N;INAN;SG;POS;MASC	_	_	_	_
+2	se	se	_	_	PRO;ACC;REFL	_	_	_	_
+3	odpisuje	odpisovat	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+4	rovnoměrně	rovnoměrně	_	_	ADV;POS	_	_	_	_
+5	nejpozději	pozdě	_	_	RL;ADV;POS	_	_	_	_
+6	do	do	_	_	ADJ;POS	_	_	_	_
+7	60	60	_	_	NUM	_	_	_	_
+8	měsíců	měsíc	_	_	N;INAN;GEN;PL;POS;MASC	_	_	_	_
+9	od	od	_	_	ADP;GEN	_	_	_	_
+10	nabytí	nabytí	_	_	N;SG;NEUT;GEN;POS	_	_	_	_
+11	podniku	podnik	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+12	nebo	nebo	_	_	CONJ	_	_	_	_
+13	jeho	jeho	_	_	PSSS;3;DET	_	_	_	_
+14	části	část	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+15	nebo	nebo	_	_	CONJ	_	_	_	_
+16	od	od	_	_	ADP;GEN	_	_	_	_
+17	rozhodného	rozhodný	_	_	ADJ;INAN;SG;GEN;POS;MASC	_	_	_	_
+18	dne	den	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+19	přeměny	přeměna	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+20	do	do	_	_	ADP;GEN	_	_	_	_
+21	nákladů	náklad	_	_	N;INAN;GEN;PL;POS;MASC	_	_	_	_
+22	.	.	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-001-p10s10
+# text = Zřizovací výdaje se odpisují nejvýše po dobu pěti let.
+# orig_file_sentence document_01_001#59
+1	Zřizovací	zřizovací	_	_	NOM;ADJ;INAN;PL;POS;MASC	_	_	_	_
+2	výdaje	výdaj	_	_	NOM;N;INAN;PL;POS;MASC	_	_	_	_
+3	se	se	_	_	PRO;ACC;REFL	_	_	_	_
+4	odpisují	odpisovat	_	_	3;IND;PRS;PL;ACT;V;FIN;POS	_	_	_	_
+5	nejvýše	vysoko	_	_	POS;ADV;CMPR	_	_	_	_
+6	po	po	_	_	ACC;ADP	_	_	_	_
+7	dobu	doba	_	_	N;FEM;SG;ACC;POS	_	_	_	_
+8	pěti	pět	_	_	GEN;NUM;PL	_	_	_	_
+9	let	rok	_	_	N;NEUT;GEN;PL;POS	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-005-p60s18
+# text = V případě finančního leasingu se pořizovací cena majetku převzatého uživatelem do vlastnictví zvýší o technické zhodnocení odpisované uživatelem v průběhu užívání a pokračuje se v odpisování z takto zvýšené pořizovací ceny.
+# orig_file_sentence document_01_005#65
+1	V	v	_	_	ESS;ADP	_	_	_	_
+2	případě	případ	_	_	N;INAN;ESS;SG;POS;MASC	_	_	_	_
+3	finančního	finanční	_	_	ADJ;INAN;SG;GEN;POS;MASC	_	_	_	_
+4	leasingu	leasing	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+5	se	se	_	_	PRO;ACC;REFL	_	_	_	_
+6	pořizovací	pořizovací	_	_	NOM;ADJ;FEM;SG;POS	_	_	_	_
+7	cena	cena	_	_	NOM;N;FEM;SG;POS	_	_	_	_
+8	majetku	majetek	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+9	převzatého	převzatý	_	_	ADJ;INAN;SG;GEN;POS;MASC	_	_	_	_
+10	uživatelem	uživatel	_	_	N;ANIM;SG;INS;POS;MASC	_	_	_	_
+11	do	do	_	_	ADP;GEN	_	_	_	_
+12	vlastnictví	vlastnictví	_	_	N;SG;NEUT;GEN;POS	_	_	_	_
+13	zvýší	zvýšit	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+14	o	o	_	_	ACC;ADP	_	_	_	_
+15	technické	technický	_	_	ADJ;SG;NEUT;ACC;POS	_	_	_	_
+16	zhodnocení	zhodnocení	_	_	N;SG;NEUT;ACC;POS	_	_	_	_
+17	odpisované	odpisovaný	_	_	ADJ;SG;NEUT;ACC;POS	_	_	_	_
+18	uživatelem	uživatel	_	_	N;ANIM;SG;INS;POS;MASC	_	_	_	_
+19	v	v	_	_	ESS;ADP	_	_	_	_
+20	průběhu	průběh	_	_	N;INAN;ESS;SG;POS;MASC	_	_	_	_
+21	užívání	užívání	_	_	N;SG;NEUT;GEN;POS	_	_	_	_
+22	a	a	_	_	CONJ	_	_	_	_
+23	pokračuje	pokračovat	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+24	se	se	_	_	PRO;ACC;REFL	_	_	_	_
+25	v	v	_	_	ESS;ADP	_	_	_	_
+26	odpisování	odpisování	_	_	N;ESS;SG;NEUT;POS	_	_	_	_
+27	z	z	_	_	ADP;GEN	_	_	_	_
+28	takto	takto	_	_	ADV	_	_	_	_
+29	zvýšené	zvýšený	_	_	ADJ;FEM;SG;GEN;POS	_	_	_	_
+30	pořizovací	pořizovací	_	_	ADJ;FEM;SG;GEN;POS	_	_	_	_
+31	ceny	cena	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+32	.	.	_	_	_	_	_	_	_
+
+# sent_id = zakon.iso-003-p20s4
+# text = Účetní závěrka je nedílný celek a tvoří ji a) rozvaha (bilance), b) výkaz zisku a ztráty, c) příloha, která vysvětluje a doplňuje informace obsažené v částech uvedených pod písmeny a)_a_b), zejména naplněním §_7_odst._3_až_5_a_§_19_odst._5; příloha obsahuje též informace o výši splatných závazků pojistného na sociální zabezpečení a příspěvku na státní politiku zaměstnanosti, o výši splatných závazků veřejného zdravotního pojištění a o výši evidovaných daňových nedoplatků u místně příslušných finančních orgánů.
+# orig_file_sentence document_02_003#22
+1	Účetní	účetní	_	_	NOM;ADJ;FEM;SG;POS	_	_	_	_
+2	závěrka	závěrka	_	_	NOM;N;FEM;SG;POS	_	_	_	_
+3	je	být	_	_	3;V;IND;SG;ACT;PRS;FIN;POS	_	_	_	_
+4	nedílný	dílný	_	_	NOM;ADJ;INAN;NEG;SG;MASC	_	_	_	_
+5	celek	celek	_	_	NOM;N;INAN;SG;POS;MASC	_	_	_	_
+6	a	a	_	_	CONJ	_	_	_	_
+7	tvoří	tvořit	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+8	ji	on	_	_	3;FEM;PRO;SG;ACC	_	_	_	_
+9	a)	a)	_	_	_	_	_	_	_
+10	rozvaha	rozvaha	_	_	NOM;N;FEM;SG;POS	_	_	_	_
+11	(	(	_	_	_	_	_	_	_
+12	bilance	bilance	_	_	NOM;N;FEM;SG;POS	_	_	_	_
+13	)	)	_	_	_	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	b)	b)	_	_	_	_	_	_	_
+16	výkaz	výkaz	_	_	NOM;N;INAN;SG;POS;MASC	_	_	_	_
+17	zisku	zisk	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+18	a	a	_	_	CONJ	_	_	_	_
+19	ztráty	ztráta	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+20	,	,	_	_	_	_	_	_	_
+21	c)	c)	_	_	_	_	_	_	_
+22	příloha	příloha	_	_	NOM;N;FEM;SG;POS	_	_	_	_
+23	,	,	_	_	_	_	_	_	_
+24	která	který	_	_	NOM;FEM;DET;SG	_	_	_	_
+25	vysvětluje	vysvětlovat	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+26	a	a	_	_	CONJ	_	_	_	_
+27	doplňuje	doplňovat	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+28	informace	informace	_	_	N;FEM;ACC;PL;POS	_	_	_	_
+29	obsažené	obsažený	_	_	ADJ;FEM;ACC;PL;POS	_	_	_	_
+30	v	v	_	_	ESS;ADP	_	_	_	_
+31	částech	část	_	_	N;ESS;FEM;PL;POS	_	_	_	_
+32	uvedených	uvedený	_	_	ADJ;ESS;FEM;PL;POS	_	_	_	_
+33	pod	pod	_	_	ADP;INS	_	_	_	_
+34	písmeny	písmeno	_	_	N;NEUT;INS;PL;POS	_	_	_	_
+35	a)_a_b)	a)_a_b)	_	_	_	_	_	_	_
+36	,	,	_	_	_	_	_	_	_
+37	zejména	zejména	_	_	ADV	_	_	_	_
+38	naplněním	naplnění	_	_	N;SG;NEUT;INS;POS	_	_	_	_
+39	§_7_odst._3_až_5_a_§_19_odst._5	§_7_odst._3_až_5_a_§_19_odst._5	_	_	_	_	_	_	_
+40	;	;	_	_	_	_	_	_	_
+41	příloha	příloha	_	_	NOM;N;FEM;SG;POS	_	_	_	_
+42	obsahuje	obsahovat	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+43	též	též	_	_	ADV	_	_	_	_
+44	informace	informace	_	_	N;FEM;ACC;PL;POS	_	_	_	_
+45	o	o	_	_	ESS;ADP	_	_	_	_
+46	výši	výše	_	_	N;ESS;FEM;SG;POS	_	_	_	_
+47	splatných	splatný	_	_	ADJ;INAN;GEN;PL;POS;MASC	_	_	_	_
+48	závazků	závazek	_	_	N;INAN;GEN;PL;POS;MASC	_	_	_	_
+49	pojistného	pojistné	_	_	N;SG;NEUT;GEN;POS	_	_	_	_
+50	na	na	_	_	ACC;ADP	_	_	_	_
+51	sociální	sociální	_	_	ADJ;SG;NEUT;ACC;POS	_	_	_	_
+52	zabezpečení	zabezpečení	_	_	N;SG;NEUT;ACC;POS	_	_	_	_
+53	a	a	_	_	CONJ	_	_	_	_
+54	příspěvku	příspěvek	_	_	N;INAN;ESS;SG;POS;MASC	_	_	_	_
+55	na	na	_	_	ACC;ADP	_	_	_	_
+56	státní	státní	_	_	ADJ;FEM;SG;ACC;POS	_	_	_	_
+57	politiku	politika	_	_	N;FEM;SG;ACC;POS	_	_	_	_
+58	zaměstnanosti	zaměstnanost	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+59	,	,	_	_	_	_	_	_	_
+60	o	o	_	_	ESS;ADP	_	_	_	_
+61	výši	výše	_	_	N;ESS;FEM;SG;POS	_	_	_	_
+62	splatných	splatný	_	_	ADJ;INAN;GEN;PL;POS;MASC	_	_	_	_
+63	závazků	závazek	_	_	N;INAN;GEN;PL;POS;MASC	_	_	_	_
+64	veřejného	veřejný	_	_	ADJ;SG;NEUT;GEN;POS	_	_	_	_
+65	zdravotního	zdravotní	_	_	ADJ;SG;NEUT;GEN;POS	_	_	_	_
+66	pojištění	pojištění	_	_	N;SG;NEUT;GEN;POS	_	_	_	_
+67	a	a	_	_	CONJ	_	_	_	_
+68	o	o	_	_	ESS;ADP	_	_	_	_
+69	výši	výše	_	_	N;ESS;FEM;SG;POS	_	_	_	_
+70	evidovaných	evidovaný	_	_	ADJ;INAN;GEN;PL;POS;MASC	_	_	_	_
+71	daňových	daňový	_	_	ADJ;INAN;GEN;PL;POS;MASC	_	_	_	_
+72	nedoplatků	nedoplatek	_	_	N;INAN;GEN;PL;POS;MASC	_	_	_	_
+73	u	u	_	_	ADP;GEN	_	_	_	_
+74	místně	místně	_	_	ADV;POS	_	_	_	_
+75	příslušných	příslušný	_	_	ADJ;INAN;GEN;PL;POS;MASC	_	_	_	_
+76	finančních	finanční	_	_	ADJ;INAN;GEN;PL;POS;MASC	_	_	_	_
+77	orgánů	orgán	_	_	N;INAN;GEN;PL;POS;MASC	_	_	_	_
+78	.	.	_	_	_	_	_	_	_
+
+# sent_id = zakon.iso-005-p36s15
+# text = Způsoby podle §_25 se ocení i majetek a závazky neuvedené v odstavci 1, není-li dále stanoveno jinak.
+# orig_file_sentence document_02_005#44
+1	Způsoby	způsob	_	_	MASC;NOM;N;PL;INAN;POS	_	_	_	_
+2	podle	podle	_	_	GEN;ADP	_	_	_	_
+3	§_25	§_25	_	_	_	_	_	_	_
+4	se	se	_	_	PRO;REFL;ACC	_	_	_	_
+5	ocení	ocenit	_	_	IND;3;FIN;V;ACT;PRS;SG;POS	_	_	_	_
+6	i	i	_	_	CONJ	_	_	_	_
+7	majetek	majetek	_	_	MASC;N;ACC;SG;INAN;POS	_	_	_	_
+8	a	a	_	_	CONJ	_	_	_	_
+9	závazky	závazek	_	_	MASC;N;ACC;PL;INAN;POS	_	_	_	_
+10	neuvedené	uvedený	_	_	ADJ;MASC;NEG;ANIM;ACC;PL	_	_	_	_
+11	v	v	_	_	ADP;ESS	_	_	_	_
+12	odstavci	odstavec	_	_	MASC;N;SG;INAN;ESS;POS	_	_	_	_
+13	1	1	_	_	NUM	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	není-li	není-li	_	_	_	_	_	_	_
+16	dále	dále	_	_	ADV	_	_	_	_
+17	stanoveno	stanovený	_	_	ADJ;V.PTCP;SG;NEUT;PASS;POS	_	_	_	_
+18	jinak	jinak	_	_	ADV	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# sent_id = zakon.iso-003-p22s7
+# text = (5) Pokud cenné papíry emitované účetní jednotkou podle odstavce 1 již nejsou obchodovány na žádném z evropských regulovaných trhů a nejvyšší orgán účetní jednotky rozhodne do konce účetního období, v němž cenné papíry přestaly být takto obchodovány, o záměru požádat nejdéle do tří let od okamžiku, kdy cenné papíry přestaly být takto obchodovány, o přijetí nového cenného papíru k obchodování na evropském regulovaném trhu, může účetní jednotka rozhodnout o použití mezinárodních účetních standardů až do konce účetního období, ve kterém má dojít k přijetí tohoto cenného papíru k obchodování.
+# orig_file_sentence document_02_003#59
+1	(5)	(5)	_	_	_	_	_	_	_
+2	Pokud	pokud	_	_	CONJ	_	_	_	_
+3	cenné	cenný	_	_	NOM;ADJ;INAN;PL;POS;MASC	_	_	_	_
+4	papíry	papír	_	_	NOM;N;INAN;PL;POS;MASC	_	_	_	_
+5	emitované	emitovaný	_	_	NOM;ADJ;INAN;PL;POS;MASC	_	_	_	_
+6	účetní	účetní	_	_	ADJ;FEM;SG;INS;POS	_	_	_	_
+7	jednotkou	jednotka	_	_	N;FEM;SG;INS;POS	_	_	_	_
+8	podle	podle	_	_	ADP;GEN	_	_	_	_
+9	odstavce	odstavec	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+10	1	1	_	_	NUM	_	_	_	_
+11	již	již	_	_	ADV	_	_	_	_
+12	nejsou	být	_	_	3;V;IND;NEG;PL;ACT;PRS;FIN	_	_	_	_
+13	obchodovány	obchodovaný	_	_	{FEM/MASC};ADJ;INAN;V.PTCP;PL;PASS;POS	_	_	_	_
+14	na	na	_	_	ESS;ADP	_	_	_	_
+15	žádném	žádný	_	_	{MASC/NEUT};ESS;DET;SG	_	_	_	_
+16	z	z	_	_	ADP;GEN	_	_	_	_
+17	evropských	evropský	_	_	ADJ;INAN;GEN;PL;POS;MASC	_	_	_	_
+18	regulovaných	regulovaný	_	_	ADJ;INAN;GEN;PL;POS;MASC	_	_	_	_
+19	trhů	trh	_	_	N;INAN;GEN;PL;POS;MASC	_	_	_	_
+20	a	a	_	_	CONJ	_	_	_	_
+21	nejvyšší	vysoký	_	_	NOM;ADJ;INAN;SG;RL;POS;MASC	_	_	_	_
+22	orgán	orgán	_	_	NOM;N;INAN;SG;POS;MASC	_	_	_	_
+23	účetní	účetní	_	_	ADJ;FEM;SG;GEN;POS	_	_	_	_
+24	jednotky	jednotka	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+25	rozhodne	rozhodnout	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+26	do	do	_	_	ADP;GEN	_	_	_	_
+27	konce	konec	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+28	účetního	účetní	_	_	ADJ;SG;NEUT;GEN;POS	_	_	_	_
+29	období	období	_	_	N;SG;NEUT;GEN;POS	_	_	_	_
+30	,	,	_	_	_	_	_	_	_
+31	v	v	_	_	ESS;ADP	_	_	_	_
+32	němž	jenž	_	_	{MASC/NEUT};ESS;PRO;SG	_	_	_	_
+33	cenné	cenný	_	_	NOM;ADJ;INAN;PL;POS;MASC	_	_	_	_
+34	papíry	papír	_	_	NOM;N;INAN;PL;POS;MASC	_	_	_	_
+35	přestaly	přestat	_	_	{FEM/MASC};INAN;V.PTCP;PL;ACT;V;PST;POS	_	_	_	_
+36	být	být	_	_	V;NFIN;POS	_	_	_	_
+37	takto	takto	_	_	ADV	_	_	_	_
+38	obchodovány	obchodovaný	_	_	{FEM/MASC};ADJ;INAN;V.PTCP;PL;PASS;POS	_	_	_	_
+39	,	,	_	_	_	_	_	_	_
+40	o	o	_	_	ESS;ADP	_	_	_	_
+41	záměru	záměr	_	_	N;INAN;ESS;SG;POS;MASC	_	_	_	_
+42	požádat	požádat	_	_	V;NFIN;POS	_	_	_	_
+43	nejdéle	dlouho	_	_	POS;ADV;CMPR	_	_	_	_
+44	do	do	_	_	ADP;GEN	_	_	_	_
+45	tří	tři	_	_	GEN;NUM;PL	_	_	_	_
+46	let	rok	_	_	N;NEUT;GEN;PL;POS	_	_	_	_
+47	od	od	_	_	ADP;GEN	_	_	_	_
+48	okamžiku	okamžik	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+49	,	,	_	_	_	_	_	_	_
+50	kdy	kdy	_	_	ADV	_	_	_	_
+51	cenné	cenný	_	_	NOM;ADJ;INAN;PL;POS;MASC	_	_	_	_
+52	papíry	papír	_	_	NOM;N;INAN;PL;POS;MASC	_	_	_	_
+53	přestaly	přestat	_	_	{FEM/MASC};INAN;V.PTCP;PL;ACT;V;PST;POS	_	_	_	_
+54	být	být	_	_	V;NFIN;POS	_	_	_	_
+55	takto	takto	_	_	ADV	_	_	_	_
+56	obchodovány	obchodovaný	_	_	{FEM/MASC};ADJ;INAN;V.PTCP;PL;PASS;POS	_	_	_	_
+57	,	,	_	_	_	_	_	_	_
+58	o	o	_	_	ESS;ADP	_	_	_	_
+59	přijetí	přijetí	_	_	N;ESS;SG;NEUT;POS	_	_	_	_
+60	nového	nový	_	_	ADJ;INAN;SG;GEN;POS;MASC	_	_	_	_
+61	cenného	cenný	_	_	ADJ;INAN;SG;GEN;POS;MASC	_	_	_	_
+62	papíru	papír	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+63	k	k	_	_	ADP;DAT	_	_	_	_
+64	obchodování	obchodování	_	_	N;SG;NEUT;DAT;POS	_	_	_	_
+65	na	na	_	_	ESS;ADP	_	_	_	_
+66	evropském	evropský	_	_	ADJ;INAN;ESS;SG;POS;MASC	_	_	_	_
+67	regulovaném	regulovaný	_	_	ADJ;INAN;ESS;SG;POS;MASC	_	_	_	_
+68	trhu	trh	_	_	N;INAN;ESS;SG;POS;MASC	_	_	_	_
+69	,	,	_	_	_	_	_	_	_
+70	může	moci	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+71	účetní	účetní	_	_	NOM;ADJ;FEM;SG;POS	_	_	_	_
+72	jednotka	jednotka	_	_	NOM;N;FEM;SG;POS	_	_	_	_
+73	rozhodnout	rozhodnout	_	_	V;NFIN;POS	_	_	_	_
+74	o	o	_	_	ESS;ADP	_	_	_	_
+75	použití	použití	_	_	N;ESS;SG;NEUT;POS	_	_	_	_
+76	mezinárodních	mezinárodní	_	_	ADJ;INAN;GEN;PL;POS;MASC	_	_	_	_
+77	účetních	účetní	_	_	ADJ;INAN;GEN;PL;POS;MASC	_	_	_	_
+78	standardů	standard	_	_	N;INAN;GEN;PL;POS;MASC	_	_	_	_
+79	až	až	_	_	CONJ	_	_	_	_
+80	do	do	_	_	ADP;GEN	_	_	_	_
+81	konce	konec	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+82	účetního	účetní	_	_	ADJ;SG;NEUT;GEN;POS	_	_	_	_
+83	období	období	_	_	N;SG;NEUT;GEN;POS	_	_	_	_
+84	,	,	_	_	_	_	_	_	_
+85	ve	v	_	_	ESS;ADP	_	_	_	_
+86	kterém	který	_	_	{MASC/NEUT};ESS;DET;SG	_	_	_	_
+87	má	mít	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+88	dojít	dojít	_	_	V;NFIN;POS	_	_	_	_
+89	k	k	_	_	ADP;DAT	_	_	_	_
+90	přijetí	přijetí	_	_	N;SG;NEUT;DAT;POS	_	_	_	_
+91	tohoto	tento	_	_	{MASC/NEUT};DET;SG;GEN	_	_	_	_
+92	cenného	cenný	_	_	ADJ;INAN;SG;GEN;POS;MASC	_	_	_	_
+93	papíru	papír	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+94	k	k	_	_	ADP;DAT	_	_	_	_
+95	obchodování	obchodování	_	_	N;SG;NEUT;DAT;POS	_	_	_	_
+96	.	.	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-004-p43s2
+# text = Mimořádné náklady
+# orig_file_sentence document_01_004#17
+1	Mimořádné	mimořádný	_	_	ADJ;INAN;ACC;PL;POS;MASC	_	_	_	_
+2	náklady	náklad	_	_	N;INAN;ACC;PL;POS;MASC	_	_	_	_
+
+# sent_id = vyhlaska.iso-009-p98s2
+# text = 1. Ustanovení vyhlášky č._500/2002_Sb., ve znění účinném ode dne nabytí účinnosti této vyhlášky, se použijí poprvé v účetním období, které započalo v roce 2011 nebo později, pokud není v bodech_2_až_4 stanoveno jinak.
+# orig_file_sentence document_01_009#39
+1	1	1	_	_	NUM	_	_	_	_
+2	.	.	_	_	_	_	_	_	_
+3	Ustanovení	ustanovení	_	_	N;ESS;SG;NEUT;POS	_	_	_	_
+4	vyhlášky	vyhláška	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+5	č._500/2002_Sb.	č._500/2002_Sb.	_	_	_	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	ve	v	_	_	ESS;ADP	_	_	_	_
+8	znění	znění	_	_	N;ESS;SG;NEUT;POS	_	_	_	_
+9	účinném	účinný	_	_	ADJ;ESS;SG;NEUT;POS	_	_	_	_
+10	ode	od	_	_	ADP;GEN	_	_	_	_
+11	dne	den	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+12	nabytí	nabytí	_	_	N;SG;NEUT;GEN;POS	_	_	_	_
+13	účinnosti	účinnost	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+14	této	tento	_	_	FEM;DET;SG;GEN	_	_	_	_
+15	vyhlášky	vyhláška	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	se	se	_	_	PRO;ACC;REFL	_	_	_	_
+18	použijí	použít	_	_	3;IND;PRS;PL;ACT;V;FIN;POS	_	_	_	_
+19	poprvé	poprvé	_	_	ADV	_	_	_	_
+20	v	v	_	_	ESS;ADP	_	_	_	_
+21	účetním	účetní	_	_	ADJ;ESS;SG;NEUT;POS	_	_	_	_
+22	období	období	_	_	N;ESS;SG;NEUT;POS	_	_	_	_
+23	,	,	_	_	_	_	_	_	_
+24	které	který	_	_	NOM;DET;NEUT;SG	_	_	_	_
+25	započalo	započít	_	_	SG;NEUT;V.PTCP;ACT;V;PST;POS	_	_	_	_
+26	v	v	_	_	ESS;ADP	_	_	_	_
+27	roce	rok	_	_	N;INAN;ESS;SG;POS;MASC	_	_	_	_
+28	2011	2011	_	_	NUM	_	_	_	_
+29	nebo	nebo	_	_	CONJ	_	_	_	_
+30	později	pozdě	_	_	POS;ADV;CMPR	_	_	_	_
+31	,	,	_	_	_	_	_	_	_
+32	pokud	pokud	_	_	CONJ	_	_	_	_
+33	není	být	_	_	3;V;IND;SG;ACT;PRS;FIN;POS	_	_	_	_
+34	v	v	_	_	ESS;ADP	_	_	_	_
+35	bodech_2_až_4	bodech_2_až_4	_	_	_	_	_	_	_
+36	stanoveno	stanovený	_	_	ADJ;SG;NEUT;V.PTCP;PASS;POS	_	_	_	_
+37	jinak	jinak	_	_	ADV	_	_	_	_
+38	.	.	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-006-p63s2
+# text = Vymezení nákladů souvisejících s pořízením pohledávek
+# orig_file_sentence document_01_006#16
+1	Vymezení	vymezení	_	_	NOM;N;SG;NEUT;POS	_	_	_	_
+2	nákladů	náklad	_	_	N;INAN;GEN;PL;POS;MASC	_	_	_	_
+3	souvisejících	související	_	_	ADJ;INAN;IPFV;GEN;V.PTCP;PL;ACT;PRS;POS;MASC	_	_	_	_
+4	s	s	_	_	ADP;INS	_	_	_	_
+5	pořízením	pořízení	_	_	N;SG;NEUT;INS;POS	_	_	_	_
+6	pohledávek	pohledávka	_	_	N;FEM;GEN;PL;POS	_	_	_	_
+
+# sent_id = zakon.iso-003-p18s5
+# text = (2) Není-li dále stanoveno jinak, účetní jednotky uzavírají účetní knihy a) ke dni zániku povinnosti vést účetnictví, b) k poslednímu dni účetního období, c) ke dni předcházejícímu dni vstupu do likvidace, d) ke dni zrušení bez likvidace s výjimkou přeměn společností nebo družstev, e) ke dni předcházejícímu dni, kterým nastanou účinky rozhodnutí o úpadku nebo ke kterému nastanou účinky rozhodnutí soudu o přeměně reorganizace v konkurs, f) ke dni, kterým nastanou účinky zrušení konkursu, g) ke dni předcházejícímu dni, kterým nastanou účinky schválení reorganizačního plánu, h) ke dni, kterým nastanou účinky splnění reorganizačního plánu, i) ke dni, kterým nastanou účinky splnění plánu oddlužení, nebo j) ke dni, ke kterému stanoví povinnost uzavřít účetní knihy nebo sestavit účetní závěrku zvláštní právní předpis.
+# orig_file_sentence document_02_003#1
+1	(2)	(2)	_	_	_	_	_	_	_
+2	Není-li	Není-li	_	_	NEUT;N;POS	_	_	_	_
+3	dále	dále	_	_	ADV	_	_	_	_
+4	stanoveno	stanovený	_	_	ADJ;SG;NEUT;V.PTCP;PASS;POS	_	_	_	_
+5	jinak	jinak	_	_	ADV	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	účetní	účetní	_	_	NOM;ADJ;FEM;PL;POS	_	_	_	_
+8	jednotky	jednotka	_	_	NOM;N;FEM;PL;POS	_	_	_	_
+9	uzavírají	uzavírat	_	_	3;IND;PRS;PL;ACT;V;FIN;POS	_	_	_	_
+10	účetní	účetní	_	_	ADJ;FEM;ACC;PL;POS	_	_	_	_
+11	knihy	kniha	_	_	N;FEM;ACC;PL;POS	_	_	_	_
+12	a)	a)	_	_	_	_	_	_	_
+13	ke	k	_	_	ADP;DAT	_	_	_	_
+14	dni	den	_	_	N;INAN;SG;DAT;POS;MASC	_	_	_	_
+15	zániku	zánik	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+16	povinnosti	povinnost	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+17	vést	vést	_	_	V;NFIN;POS	_	_	_	_
+18	účetnictví	účetnictví	_	_	N;SG;NEUT;ACC;POS	_	_	_	_
+19	,	,	_	_	_	_	_	_	_
+20	b)	b)	_	_	_	_	_	_	_
+21	k	k	_	_	ADP;DAT	_	_	_	_
+22	poslednímu	poslední	_	_	ADJ;INAN;SG;DAT;POS;MASC	_	_	_	_
+23	dni	den	_	_	N;INAN;SG;DAT;POS;MASC	_	_	_	_
+24	účetního	účetní	_	_	ADJ;SG;NEUT;GEN;POS	_	_	_	_
+25	období	období	_	_	N;SG;NEUT;GEN;POS	_	_	_	_
+26	,	,	_	_	_	_	_	_	_
+27	c)	c)	_	_	_	_	_	_	_
+28	ke	k	_	_	ADP;DAT	_	_	_	_
+29	dni	den	_	_	N;INAN;SG;DAT;POS;MASC	_	_	_	_
+30	předcházejícímu	předcházející	_	_	ADJ;ANIM;IPFV;SG;DAT;V.PTCP;ACT;PRS;POS;MASC	_	_	_	_
+31	dni	den	_	_	N;INAN;SG;DAT;POS;MASC	_	_	_	_
+32	vstupu	vstup	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+33	do	do	_	_	ADP;GEN	_	_	_	_
+34	likvidace	likvidace	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+35	,	,	_	_	_	_	_	_	_
+36	d)	d)	_	_	_	_	_	_	_
+37	ke	k	_	_	ADP;DAT	_	_	_	_
+38	dni	den	_	_	N;INAN;SG;DAT;POS;MASC	_	_	_	_
+39	zrušení	zrušení	_	_	N;SG;NEUT;GEN;POS	_	_	_	_
+40	bez	bez	_	_	ADP;GEN	_	_	_	_
+41	likvidace	likvidace	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+42	s	s	_	_	ADP;INS	_	_	_	_
+43	výjimkou	výjimka	_	_	N;FEM;SG;INS;POS	_	_	_	_
+44	přeměn	přeměna	_	_	N;FEM;GEN;PL;POS	_	_	_	_
+45	společností	společnost	_	_	N;FEM;GEN;PL;POS	_	_	_	_
+46	nebo	nebo	_	_	CONJ	_	_	_	_
+47	družstev	družstvo	_	_	N;NEUT;GEN;PL;POS	_	_	_	_
+48	,	,	_	_	_	_	_	_	_
+49	e)	e)	_	_	_	_	_	_	_
+50	ke	k	_	_	ADP;DAT	_	_	_	_
+51	dni	den	_	_	N;INAN;SG;DAT;POS;MASC	_	_	_	_
+52	předcházejícímu	předcházející	_	_	ADJ;IPFV;SG;NEUT;DAT;V.PTCP;ACT;PRS;POS	_	_	_	_
+53	dni	den	_	_	N;INAN;SG;DAT;POS;MASC	_	_	_	_
+54	,	,	_	_	_	_	_	_	_
+55	kterým	který	_	_	DET;DAT;PL	_	_	_	_
+56	nastanou	nastat	_	_	3;IND;PRS;PL;ACT;V;FIN;POS	_	_	_	_
+57	účinky	účinek	_	_	NOM;N;INAN;PL;POS;MASC	_	_	_	_
+58	rozhodnutí	rozhodnutí	_	_	N;SG;NEUT;GEN;POS	_	_	_	_
+59	o	o	_	_	ESS;ADP	_	_	_	_
+60	úpadku	úpadek	_	_	N;INAN;ESS;SG;POS;MASC	_	_	_	_
+61	nebo	nebo	_	_	CONJ	_	_	_	_
+62	ke	k	_	_	ADP;DAT	_	_	_	_
+63	kterému	který	_	_	{MASC/NEUT};DET;SG;DAT	_	_	_	_
+64	nastanou	nastat	_	_	3;IND;PRS;PL;ACT;V;FIN;POS	_	_	_	_
+65	účinky	účinek	_	_	NOM;N;INAN;PL;POS;MASC	_	_	_	_
+66	rozhodnutí	rozhodnutí	_	_	N;SG;NEUT;GEN;POS	_	_	_	_
+67	soudu	soud	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+68	o	o	_	_	ESS;ADP	_	_	_	_
+69	přeměně	přeměna	_	_	N;ESS;FEM;SG;POS	_	_	_	_
+70	reorganizace	reorganizace	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+71	v	v	_	_	ACC;ADP	_	_	_	_
+72	konkurs	konkurs	_	_	N;INAN;SG;ACC;POS;MASC	_	_	_	_
+73	,	,	_	_	_	_	_	_	_
+74	f)	f)	_	_	_	_	_	_	_
+75	ke	k	_	_	ADP;DAT	_	_	_	_
+76	dni	den	_	_	N;INAN;SG;DAT;POS;MASC	_	_	_	_
+77	,	,	_	_	_	_	_	_	_
+78	kterým	který	_	_	DET;DAT;PL	_	_	_	_
+79	nastanou	nastat	_	_	3;IND;PRS;PL;ACT;V;FIN;POS	_	_	_	_
+80	účinky	účinek	_	_	NOM;N;INAN;PL;POS;MASC	_	_	_	_
+81	zrušení	zrušení	_	_	N;SG;NEUT;GEN;POS	_	_	_	_
+82	konkursu	konkurs	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+83	,	,	_	_	_	_	_	_	_
+84	g)	g)	_	_	_	_	_	_	_
+85	ke	k	_	_	ADP;DAT	_	_	_	_
+86	dni	den	_	_	N;INAN;SG;DAT;POS;MASC	_	_	_	_
+87	předcházejícímu	předcházející	_	_	ADJ;IPFV;SG;NEUT;DAT;V.PTCP;ACT;PRS;POS	_	_	_	_
+88	dni	den	_	_	N;INAN;ACC;PL;POS;MASC	_	_	_	_
+89	,	,	_	_	_	_	_	_	_
+90	kterým	který	_	_	{MASC/NEUT};DET;SG;INS	_	_	_	_
+91	nastanou	nastat	_	_	3;IND;PRS;PL;ACT;V;FIN;POS	_	_	_	_
+92	účinky	účinek	_	_	NOM;N;INAN;PL;POS;MASC	_	_	_	_
+93	schválení	schválení	_	_	N;SG;NEUT;GEN;POS	_	_	_	_
+94	reorganizačního	reorganizační	_	_	ADJ;INAN;SG;GEN;POS;MASC	_	_	_	_
+95	plánu	plán	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+96	,	,	_	_	_	_	_	_	_
+97	h)	h)	_	_	_	_	_	_	_
+98	ke	k	_	_	ADP;DAT	_	_	_	_
+99	dni	den	_	_	N;INAN;SG;DAT;POS;MASC	_	_	_	_
+100	,	,	_	_	_	_	_	_	_
+101	kterým	který	_	_	DET;DAT;PL	_	_	_	_
+102	nastanou	nastat	_	_	3;IND;PRS;PL;ACT;V;FIN;POS	_	_	_	_
+103	účinky	účinek	_	_	NOM;N;INAN;PL;POS;MASC	_	_	_	_
+104	splnění	splnění	_	_	N;SG;NEUT;GEN;POS	_	_	_	_
+105	reorganizačního	reorganizační	_	_	ADJ;INAN;SG;GEN;POS;MASC	_	_	_	_
+106	plánu	plán	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+107	,	,	_	_	_	_	_	_	_
+108	i)	i)	_	_	_	_	_	_	_
+109	ke	k	_	_	ADP;DAT	_	_	_	_
+110	dni	den	_	_	N;INAN;SG;DAT;POS;MASC	_	_	_	_
+111	,	,	_	_	_	_	_	_	_
+112	kterým	který	_	_	DET;DAT;PL	_	_	_	_
+113	nastanou	nastat	_	_	3;IND;PRS;PL;ACT;V;FIN;POS	_	_	_	_
+114	účinky	účinek	_	_	NOM;N;INAN;PL;POS;MASC	_	_	_	_
+115	splnění	splnění	_	_	N;SG;NEUT;GEN;POS	_	_	_	_
+116	plánu	plán	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+117	oddlužení	oddlužení	_	_	N;SG;NEUT;GEN;POS	_	_	_	_
+118	,	,	_	_	_	_	_	_	_
+119	nebo	nebo	_	_	CONJ	_	_	_	_
+120	j)	j)	_	_	_	_	_	_	_
+121	ke	k	_	_	ADP;DAT	_	_	_	_
+122	dni	den	_	_	N;INAN;SG;DAT;POS;MASC	_	_	_	_
+123	,	,	_	_	_	_	_	_	_
+124	ke	k	_	_	ADP;DAT	_	_	_	_
+125	kterému	který	_	_	{MASC/NEUT};DET;SG;DAT	_	_	_	_
+126	stanoví	stanovit	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+127	povinnost	povinnost	_	_	N;FEM;SG;ACC;POS	_	_	_	_
+128	uzavřít	uzavřít	_	_	V;NFIN;POS	_	_	_	_
+129	účetní	účetní	_	_	ADJ;FEM;ACC;PL;POS	_	_	_	_
+130	knihy	kniha	_	_	N;FEM;ACC;PL;POS	_	_	_	_
+131	nebo	nebo	_	_	CONJ	_	_	_	_
+132	sestavit	sestavit	_	_	V;NFIN;POS	_	_	_	_
+133	účetní	účetní	_	_	ADJ;FEM;SG;ACC;POS	_	_	_	_
+134	závěrku	závěrka	_	_	N;FEM;SG;ACC;POS	_	_	_	_
+135	zvláštní	zvláštní	_	_	ADJ;FEM;SG;ACC;POS	_	_	_	_
+136	právní	právní	_	_	NOM;ADJ;INAN;SG;POS;MASC	_	_	_	_
+137	předpis	předpis	_	_	NOM;N;INAN;SG;POS;MASC	_	_	_	_
+138	.	.	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-003-p32s2
+# text = Daně a poplatky
+# orig_file_sentence document_01_003#73
+1	Daně	daň	_	_	NOM;N;FEM;PL;POS	_	_	_	_
+2	a	a	_	_	CONJ	_	_	_	_
+3	poplatky	poplatek	_	_	NOM;N;INAN;PL;POS;MASC	_	_	_	_
+
+# sent_id = vyhlaska.iso-003-p28s2
+# text = Výkony
+# orig_file_sentence document_01_003#61
+1	Výkony	výkon	_	_	NOM;N;INAN;PL;POS;MASC	_	_	_	_
+
+# sent_id = zakon.iso-006-p45s25
+# text = (9) Účetní jednotky jsou povinny zajistit ochranu účetních záznamů a jejich obsahu, použitých technických prostředků, nosičů informací a programového vybavení před jejich zneužitím, poškozením, zničením, neoprávněnou změnou, ztrátou nebo odcizením.
+# orig_file_sentence document_02_006#63
+1	(9)	(9)	_	_	_	_	_	_	_
+2	Účetní	účetní	_	_	ADJ;PL;NOM;POS;FEM	_	_	_	_
+3	jednotky	jednotka	_	_	FEM;PL;NOM;POS;N	_	_	_	_
+4	jsou	být	_	_	PRS;PL;3;ACT;V;IND;POS;FIN	_	_	_	_
+5	povinny	povinný	_	_	ADJ;PL;{FEM/MASC};INAN;POS	_	_	_	_
+6	zajistit	zajistit	_	_	POS;NFIN;V	_	_	_	_
+7	ochranu	ochrana	_	_	ACC;FEM;POS;SG;N	_	_	_	_
+8	účetních	účetní	_	_	GEN;ADJ;MASC;PL;INAN;POS	_	_	_	_
+9	záznamů	záznam	_	_	GEN;PL;MASC;INAN;POS;N	_	_	_	_
+10	a	a	_	_	CONJ	_	_	_	_
+11	jejich	jeho	_	_	PSSP;DET;3	_	_	_	_
+12	obsahu	obsah	_	_	GEN;MASC;INAN;POS;SG;N	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	použitých	použitý	_	_	GEN;ADJ;MASC;PL;INAN;POS	_	_	_	_
+15	technických	technický	_	_	GEN;ADJ;MASC;PL;INAN;POS	_	_	_	_
+16	prostředků	prostředek	_	_	GEN;PL;MASC;INAN;POS;N	_	_	_	_
+17	,	,	_	_	_	_	_	_	_
+18	nosičů	nosič	_	_	GEN;PL;MASC;INAN;POS;N	_	_	_	_
+19	informací	informace	_	_	GEN;FEM;PL;POS;N	_	_	_	_
+20	a	a	_	_	CONJ	_	_	_	_
+21	programového	programový	_	_	GEN;ADJ;NEUT;POS;SG	_	_	_	_
+22	vybavení	vybavení	_	_	GEN;NEUT;POS;SG;N	_	_	_	_
+23	před	před	_	_	INS;ADP	_	_	_	_
+24	jejich	jeho	_	_	PSSP;DET;3	_	_	_	_
+25	zneužitím	zneužití	_	_	INS;NEUT;POS;SG;N	_	_	_	_
+26	,	,	_	_	_	_	_	_	_
+27	poškozením	poškození	_	_	INS;NEUT;POS;SG;N	_	_	_	_
+28	,	,	_	_	_	_	_	_	_
+29	zničením	zničení	_	_	INS;NEUT;POS;SG;N	_	_	_	_
+30	,	,	_	_	_	_	_	_	_
+31	neoprávněnou	oprávněný	_	_	ADJ;INS;NEG;SG;FEM	_	_	_	_
+32	změnou	změna	_	_	FEM;INS;POS;SG;N	_	_	_	_
+33	,	,	_	_	_	_	_	_	_
+34	ztrátou	ztráta	_	_	FEM;INS;POS;SG;N	_	_	_	_
+35	nebo	nebo	_	_	CONJ	_	_	_	_
+36	odcizením	odcizení	_	_	INS;NEUT;POS;SG;N	_	_	_	_
+37	.	.	_	_	_	_	_	_	_
+
+# sent_id = zakon.iso-007-p57s1
+# text = §_38a
+# orig_file_sentence document_02_007#63
+1	§_38a	§_38a	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-002-p11s20
+# text = Aktivní oceňovací rozdíl k nabytému majetku se odpisuje rovnoměrně 180 měsíců od nabytí podniku nebo jeho části do nákladů, v případě přeměny společnosti se tento oceňovací rozdíl k nabytému majetku odpisuje do nákladů od rozhodného dne přeměny.
+# orig_file_sentence document_01_002#12
+1	Aktivní	aktivní	_	_	NOM;ADJ;INAN;SG;POS;MASC	_	_	_	_
+2	oceňovací	oceňovací	_	_	NOM;ADJ;INAN;SG;POS;MASC	_	_	_	_
+3	rozdíl	rozdíl	_	_	NOM;N;INAN;SG;POS;MASC	_	_	_	_
+4	k	k	_	_	ADP;DAT	_	_	_	_
+5	nabytému	nabytý	_	_	ADJ;INAN;SG;DAT;POS;MASC	_	_	_	_
+6	majetku	majetek	_	_	N;INAN;SG;DAT;POS;MASC	_	_	_	_
+7	se	se	_	_	PRO;ACC;REFL	_	_	_	_
+8	odpisuje	odpisovat	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+9	rovnoměrně	rovnoměrně	_	_	ADV;POS	_	_	_	_
+10	180	180	_	_	NUM	_	_	_	_
+11	měsíců	měsíc	_	_	N;INAN;GEN;PL;POS;MASC	_	_	_	_
+12	od	od	_	_	ADP;GEN	_	_	_	_
+13	nabytí	nabytí	_	_	N;SG;NEUT;GEN;POS	_	_	_	_
+14	podniku	podnik	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+15	nebo	nebo	_	_	CONJ	_	_	_	_
+16	jeho	jeho	_	_	PSSS;3;DET	_	_	_	_
+17	části	část	_	_	N;FEM;ACC;PL;POS	_	_	_	_
+18	do	do	_	_	ADP;GEN	_	_	_	_
+19	nákladů	náklad	_	_	N;INAN;GEN;PL;POS;MASC	_	_	_	_
+20	,	,	_	_	_	_	_	_	_
+21	v	v	_	_	ESS;ADP	_	_	_	_
+22	případě	případ	_	_	N;INAN;ESS;SG;POS;MASC	_	_	_	_
+23	přeměny	přeměna	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+24	společnosti	společnost	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+25	se	se	_	_	PRO;ACC;REFL	_	_	_	_
+26	tento	tento	_	_	NOM;DET;SG;MASC	_	_	_	_
+27	oceňovací	oceňovací	_	_	NOM;ADJ;INAN;SG;POS;MASC	_	_	_	_
+28	rozdíl	rozdíl	_	_	NOM;N;INAN;SG;POS;MASC	_	_	_	_
+29	k	k	_	_	ADP;DAT	_	_	_	_
+30	nabytému	nabytý	_	_	ADJ;INAN;SG;DAT;POS;MASC	_	_	_	_
+31	majetku	majetek	_	_	N;INAN;SG;DAT;POS;MASC	_	_	_	_
+32	odpisuje	odpisovat	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+33	do	do	_	_	ADP;GEN	_	_	_	_
+34	nákladů	náklad	_	_	N;INAN;GEN;PL;POS;MASC	_	_	_	_
+35	od	od	_	_	ADJ;POS	_	_	_	_
+36	rozhodného	rozhodný	_	_	ADJ;INAN;SG;GEN;POS;MASC	_	_	_	_
+37	dne	den	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+38	přeměny	přeměna	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+39	.	.	_	_	_	_	_	_	_
+
+# sent_id = zakon.iso-001-p1s1
+# text = ČÁST PRVNÍ
+# orig_file_sentence document_02_001#1
+1	ČÁST	část	_	_	NOM;N;FEM;SG;POS	_	_	_	_
+2	PRVNÍ	první	_	_	ADJ;ESS;FEM;SG	_	_	_	_
+
+# sent_id = vyhlaska.iso-003-p21s5
+# text = Účetní jednotka popíše použití položky "A.IV.3._Jiný_výsledek_hospodaření_minulých_let" v příloze v účetní závěrce.
+# orig_file_sentence document_01_003#19
+1	Účetní	účetní	_	_	NOM;ADJ;FEM;SG;POS	_	_	_	_
+2	jednotka	jednotka	_	_	NOM;N;FEM;SG;POS	_	_	_	_
+3	popíše	popsat	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+4	použití	použití	_	_	N;SG;NEUT;ACC;POS	_	_	_	_
+5	položky	položka	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+6	"	"	_	_	_	_	_	_	_
+7	A.IV.3._Jiný_výsledek_hospodaření_minulých_let	"A.IV.3._Jiný_výsledek_hospodaření_minulých_let"	_	_	_	_	_	_	_
+8	"	"	_	_	_	_	_	_	_
+9	v	v	_	_	ESS;ADP	_	_	_	_
+10	příloze	příloha	_	_	N;ESS;FEM;SG;POS	_	_	_	_
+11	v	v	_	_	ESS;ADP	_	_	_	_
+12	účetní	účetní	_	_	ADJ;ESS;FEM;SG;POS	_	_	_	_
+13	závěrce	závěrka	_	_	N;ESS;FEM;SG;POS	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-004-p48s45
+# text = Dále účetní jednotka uvede informaci o vyměnitelných dluhopisech nebo podobných cenných papírech nebo právech s vyznačením jejich počtu a rozsahu práv, která zakládají.
+# orig_file_sentence document_01_005#7
+1	Dále	dále	_	_	ADV	_	_	_	_
+2	účetní	účetní	_	_	NOM;ADJ;FEM;SG;POS	_	_	_	_
+3	jednotka	jednotka	_	_	NOM;N;FEM;SG;POS	_	_	_	_
+4	uvede	uvést	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+5	informaci	informace	_	_	N;FEM;SG;ACC;POS	_	_	_	_
+6	o	o	_	_	ESS;ADP	_	_	_	_
+7	vyměnitelných	vyměnitelný	_	_	ADJ;INAN;ESS;PL;POS;MASC	_	_	_	_
+8	dluhopisech	dluhopis	_	_	N;INAN;ESS;PL;POS;MASC	_	_	_	_
+9	nebo	nebo	_	_	CONJ	_	_	_	_
+10	podobných	podobný	_	_	ADJ;INAN;ESS;PL;POS;MASC	_	_	_	_
+11	cenných	cenný	_	_	ADJ;INAN;ESS;PL;POS;MASC	_	_	_	_
+12	papírech	papír	_	_	N;INAN;ESS;PL;POS;MASC	_	_	_	_
+13	nebo	nebo	_	_	CONJ	_	_	_	_
+14	právech	právo	_	_	N;ESS;NEUT;PL;POS	_	_	_	_
+15	s	s	_	_	ADP;INS	_	_	_	_
+16	vyznačením	vyznačení	_	_	N;SG;NEUT;INS;POS	_	_	_	_
+17	jejich	jeho	_	_	PSSP;3;DET	_	_	_	_
+18	počtu	počet	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+19	a	a	_	_	CONJ	_	_	_	_
+20	rozsahu	rozsah	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+21	práv	právo	_	_	N;NEUT;GEN;PL;POS	_	_	_	_
+22	,	,	_	_	_	_	_	_	_
+23	která	který	_	_	NOM;DET;NEUT;PL	_	_	_	_
+24	zakládají	zakládat	_	_	3;IND;PRS;PL;ACT;V;FIN;POS	_	_	_	_
+25	.	.	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-003-p25s5
+# text = (2) Položka "C.I.1._Výdaje_příštích_období" obsahuje náklady, které souvisejí s běžným účetním obdobím, avšak výdaj na ně nebyl dosud uskutečněn.
+# orig_file_sentence document_01_003#52
+1	(2)	(2)	_	_	_	_	_	_	_
+2	Položka	položka	_	_	NOM;N;FEM;SG;POS	_	_	_	_
+3	"	"	_	_	_	_	_	_	_
+4	C.I.1._Výdaje_příštích_období	"C.I.1._Výdaje_příštích_období"	_	_	_	_	_	_	_
+5	"	"	_	_	_	_	_	_	_
+6	obsahuje	obsahovat	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+7	náklady	náklad	_	_	N;INAN;ACC;PL;POS;MASC	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	které	který	_	_	NOM;INAN;DET;PL;MASC	_	_	_	_
+10	souvisejí	souviset	_	_	3;IND;PRS;PL;ACT;V;FIN;POS	_	_	_	_
+11	s	s	_	_	ADP;INS	_	_	_	_
+12	běžným	běžný	_	_	ADJ;SG;NEUT;INS;POS	_	_	_	_
+13	účetním	účetní	_	_	ADJ;SG;NEUT;INS;POS	_	_	_	_
+14	obdobím	období	_	_	N;SG;NEUT;INS;POS	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	avšak	avšak	_	_	CONJ	_	_	_	_
+17	výdaj	výdaj	_	_	NOM;N;INAN;SG;POS;MASC	_	_	_	_
+18	na	na	_	_	ACC;ADP	_	_	_	_
+19	ně	on	_	_	3;PRO;ACC;PL	_	_	_	_
+20	nebyl	být	_	_	V;NEG;SG;V.PTCP;ACT;PST;MASC	_	_	_	_
+21	dosud	dosud	_	_	ADV	_	_	_	_
+22	uskutečněn	uskutečněný	_	_	ADJ;SG;V.PTCP;PASS;POS;MASC	_	_	_	_
+23	.	.	_	_	_	_	_	_	_
+
+# sent_id = zakon.iso-006-p45s17
+# text = (5) Jednotlivý účetní záznam může být tvořen několika dílčími účetními záznamy.
+# orig_file_sentence document_02_006#55
+1	(5)	(5)	_	_	_	_	_	_	_
+2	Jednotlivý	jednotlivý	_	_	ADJ;MASC;INAN;NOM;POS;SG	_	_	_	_
+3	účetní	účetní	_	_	ADJ;MASC;INAN;NOM;POS;SG	_	_	_	_
+4	záznam	záznam	_	_	MASC;INAN;NOM;POS;SG;N	_	_	_	_
+5	může	moci	_	_	PRS;3;ACT;IND;POS;V;SG;FIN	_	_	_	_
+6	být	být	_	_	V;NFIN;POS	_	_	_	_
+7	tvořen	tvořený	_	_	V.PTCP;ADJ;MASC;PASS;POS;SG	_	_	_	_
+8	několika	několik	_	_	DET;INS	_	_	_	_
+9	dílčími	dílčí	_	_	ADJ;MASC;PL;INAN;POS;INS	_	_	_	_
+10	účetními	účetní	_	_	ADJ;MASC;PL;INAN;POS;INS	_	_	_	_
+11	záznamy	záznam	_	_	PL;MASC;INAN;POS;INS;N	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = zakon.iso-003-p20s6
+# text = Účetní závěrka může zahrnovat i přehled o peněžních tocích nebo přehled o změnách vlastního kapitálu.
+# orig_file_sentence document_02_003#23
+1	Účetní	účetní	_	_	NOM;ADJ;FEM;SG;POS	_	_	_	_
+2	závěrka	závěrka	_	_	NOM;N;FEM;SG;POS	_	_	_	_
+3	může	moci	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+4	zahrnovat	zahrnovat	_	_	V;NFIN;POS	_	_	_	_
+5	i	i	_	_	CONJ	_	_	_	_
+6	přehled	přehled	_	_	N;INAN;SG;ACC;POS;MASC	_	_	_	_
+7	o	o	_	_	ESS;ADP	_	_	_	_
+8	peněžních	peněžní	_	_	ADJ;INAN;ESS;PL;POS;MASC	_	_	_	_
+9	tocích	tok	_	_	N;INAN;ESS;PL;POS;MASC	_	_	_	_
+10	nebo	nebo	_	_	CONJ	_	_	_	_
+11	přehled	přehled	_	_	NOM;N;INAN;SG;POS;MASC	_	_	_	_
+12	o	o	_	_	ESS;ADP	_	_	_	_
+13	změnách	změna	_	_	N;ESS;FEM;PL;POS	_	_	_	_
+14	vlastního	vlastní	_	_	ADJ;INAN;SG;GEN;POS;MASC	_	_	_	_
+15	kapitálu	kapitál	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = zakon.iso-002-p8s7
+# text = (3) Účetní jednotka je povinna použít účetní metody způsobem, který vychází z předpokladu, že bude nepřetržitě pokračovat ve své činnosti a že u ní nenastává žádná skutečnost, která by ji omezovala nebo ji zabraňovala v této činnosti pokračovat i v dohledné budoucnosti.
+# orig_file_sentence document_02_002#9
+1	(3)	(3)	_	_	_	_	_	_	_
+2	Účetní	účetní	_	_	NOM;ADJ;FEM;SG;POS	_	_	_	_
+3	jednotka	jednotka	_	_	NOM;N;FEM;SG;POS	_	_	_	_
+4	je	být	_	_	3;V;IND;SG;ACT;PRS;FIN;POS	_	_	_	_
+5	povinna	povinný	_	_	{PL/SG};ADJ;{FEM/NEUT};POS	_	_	_	_
+6	použít	použít	_	_	V;NFIN;POS	_	_	_	_
+7	účetní	účetní	_	_	N;FEM;SG;ACC;POS	_	_	_	_
+8	metody	metoda	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+9	způsobem	způsob	_	_	N;INAN;SG;INS;POS;MASC	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	který	který	_	_	NOM;DET;SG;MASC	_	_	_	_
+12	vychází	vycházet	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+13	z	z	_	_	ADP;GEN	_	_	_	_
+14	předpokladu	předpoklad	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	že	že	_	_	CONJ	_	_	_	_
+17	bude	být	_	_	3;V;IND;FUT;SG;ACT;FIN;POS	_	_	_	_
+18	nepřetržitě	přetržitě	_	_	ADV;NEG	_	_	_	_
+19	pokračovat	pokračovat	_	_	V;NFIN;POS	_	_	_	_
+20	ve	v	_	_	ESS;ADP	_	_	_	_
+21	své	svůj	_	_	ESS;FEM;DET;SG;REFL	_	_	_	_
+22	činnosti	činnost	_	_	N;ESS;FEM;SG;POS	_	_	_	_
+23	a	a	_	_	CONJ	_	_	_	_
+24	že	že	_	_	CONJ	_	_	_	_
+25	u	u	_	_	ADP;GEN	_	_	_	_
+26	ní	on	_	_	3;FEM;PRO;SG;GEN	_	_	_	_
+27	nenastává	nastávat	_	_	3;IND;NEG;SG;PRS;ACT;V;FIN	_	_	_	_
+28	žádná	žádný	_	_	NOM;FEM;DET;SG	_	_	_	_
+29	skutečnost	skutečnost	_	_	NOM;N;FEM;SG;POS	_	_	_	_
+30	,	,	_	_	_	_	_	_	_
+31	která	který	_	_	NOM;FEM;DET;SG	_	_	_	_
+32	by	být	_	_	COND;V;FIN	_	_	_	_
+33	ji	on	_	_	3;FEM;PRO;SG;ACC	_	_	_	_
+34	omezovala	omezovat	_	_	{PL/SG};{FEM/NEUT};V.PTCP;ACT;V;PST;POS	_	_	_	_
+35	nebo	nebo	_	_	CONJ	_	_	_	_
+36	ji	on	_	_	3;FEM;PRO;SG;ACC	_	_	_	_
+37	zabraňovala	zabraňovat	_	_	{PL/SG};{FEM/NEUT};V.PTCP;ACT;V;PST;POS	_	_	_	_
+38	v	v	_	_	ESS;ADP	_	_	_	_
+39	této	tento	_	_	ESS;FEM;DET;SG	_	_	_	_
+40	činnosti	činnost	_	_	N;ESS;FEM;SG;POS	_	_	_	_
+41	pokračovat	pokračovat	_	_	V;NFIN;POS	_	_	_	_
+42	i	i	_	_	CONJ	_	_	_	_
+43	v	v	_	_	ESS;ADP	_	_	_	_
+44	dohledné	dohledný	_	_	ADJ;ESS;FEM;SG;POS	_	_	_	_
+45	budoucnosti	budoucnost	_	_	N;ESS;FEM;SG;POS	_	_	_	_
+46	.	.	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-001-p7s16
+# text = Toto pravidlo se použije i v případě rozdělení a dále může být použito v případě fúze splynutím, jakož i v dalších případech, kdy náklady na získání informace za minulé účetní období jsou neúměrné jejímu významu.
+# orig_file_sentence document_01_001#39
+1	Toto	tento	_	_	NOM;DET;NEUT;SG	_	_	_	_
+2	pravidlo	pravidlo	_	_	NOM;N;SG;NEUT;POS	_	_	_	_
+3	se	se	_	_	PRO;ACC;REFL	_	_	_	_
+4	použije	použít	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+5	i	i	_	_	CONJ	_	_	_	_
+6	v	v	_	_	ESS;ADP	_	_	_	_
+7	případě	případ	_	_	N;INAN;ESS;SG;POS;MASC	_	_	_	_
+8	rozdělení	rozdělení	_	_	N;SG;NEUT;GEN;POS	_	_	_	_
+9	a	a	_	_	CONJ	_	_	_	_
+10	dále	dále	_	_	ADV	_	_	_	_
+11	může	moci	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+12	být	být	_	_	V;NFIN;POS	_	_	_	_
+13	použito	použitý	_	_	ADJ;SG;NEUT;V.PTCP;PASS;POS	_	_	_	_
+14	v	v	_	_	ESS;ADP	_	_	_	_
+15	případě	případ	_	_	N;INAN;ESS;SG;POS;MASC	_	_	_	_
+16	fúze	fúze	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+17	splynutím	splynutí	_	_	N;SG;NEUT;INS;POS	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	jakož	jakož	_	_	CONJ	_	_	_	_
+20	i	i	_	_	CONJ	_	_	_	_
+21	v	v	_	_	ESS;ADP	_	_	_	_
+22	dalších	další	_	_	ADJ;INAN;ESS;PL;POS;MASC	_	_	_	_
+23	případech	případ	_	_	N;INAN;ESS;PL;POS;MASC	_	_	_	_
+24	,	,	_	_	_	_	_	_	_
+25	kdy	kdy	_	_	ADV	_	_	_	_
+26	náklady	náklad	_	_	NOM;N;INAN;PL;POS;MASC	_	_	_	_
+27	na	na	_	_	ACC;ADP	_	_	_	_
+28	získání	získání	_	_	N;SG;NEUT;ACC;POS	_	_	_	_
+29	informace	informace	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+30	za	za	_	_	ACC;ADP	_	_	_	_
+31	minulé	minulý	_	_	ADJ;SG;NEUT;ACC;POS	_	_	_	_
+32	účetní	účetní	_	_	ADJ;SG;NEUT;ACC;POS	_	_	_	_
+33	období	období	_	_	N;SG;NEUT;ACC;POS	_	_	_	_
+34	jsou	být	_	_	3;V;IND;PL;ACT;PRS;FIN;POS	_	_	_	_
+35	neúměrné	úměrný	_	_	NOM;ADJ;INAN;NEG;PL;MASC	_	_	_	_
+36	jejímu	jeho	_	_	PSSS;3;{MASC/NEUT};DET;SG;DAT	_	_	_	_
+37	významu	význam	_	_	N;INAN;SG;DAT;POS;MASC	_	_	_	_
+38	.	.	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-008-p80s3
+# text = (1) Fyzické osoby vedoucí daňovou evidenci podle zvláštního právního předpisu (dále jen "daňová_evidence"), které se staly účetní jednotkou podle §_1_odst._2_písm._d)_až_h)_zákona, zjistí v záznamech daňové evidence stavy jednotlivých složek majetku a závazků, případně rezerv, oceňovacích rozdílů k úplatně nabytému majetku a u finančního pronájmu s následnou koupí najatého hmotného majetku neuplatněnou část výdajů ke dni předcházejícímu první den účetního období, v němž jim vznikla povinnost podle §_4_odst._2_až_7 zákona.
+# orig_file_sentence document_01_008#4
+1	(1)	(1)	_	_	_	_	_	_	_
+2	Fyzické	fyzický	_	_	NOM;ADJ;FEM;PL;POS	_	_	_	_
+3	osoby	osoba	_	_	NOM;N;FEM;PL;POS	_	_	_	_
+4	vedoucí	vedoucí	_	_	NOM;ADJ;FEM;IPFV;V.PTCP;PL;ACT;PRS;POS	_	_	_	_
+5	daňovou	daňový	_	_	ADJ;FEM;SG;ACC;POS	_	_	_	_
+6	evidenci	evidence	_	_	N;FEM;SG;ACC;POS	_	_	_	_
+7	podle	podle	_	_	ADP;GEN	_	_	_	_
+8	zvláštního	zvláštní	_	_	ADJ;INAN;SG;GEN;POS;MASC	_	_	_	_
+9	právního	právní	_	_	ADJ;INAN;SG;GEN;POS;MASC	_	_	_	_
+10	předpisu	předpis	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+11	(	(	_	_	_	_	_	_	_
+12	dále	dále	_	_	ADV	_	_	_	_
+13	jen	jen	_	_	PART	_	_	_	_
+14	"	"	_	_	_	_	_	_	_
+15	daňová_evidence	"daňová_evidence"	_	_	_	_	_	_	_
+16	"	"	_	_	_	_	_	_	_
+17	)	)	_	_	_	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	které	který	_	_	NOM;FEM;DET;PL	_	_	_	_
+20	se	se	_	_	PRO;ACC;REFL	_	_	_	_
+21	staly	stát	_	_	{FEM/MASC};INAN;V.PTCP;PL;ACT;V;PST;POS	_	_	_	_
+22	účetní	účetní	_	_	ADJ;FEM;SG;INS;POS	_	_	_	_
+23	jednotkou	jednotka	_	_	N;FEM;SG;INS;POS	_	_	_	_
+24	podle	podle	_	_	ADP;GEN	_	_	_	_
+25	§_1_odst._2_písm._d)_až_h)_zákona	§_1_odst._2_písm._d)_až_h)_zákona	_	_	_	_	_	_	_
+26	,	,	_	_	_	_	_	_	_
+27	zjistí	zjistit	_	_	3;IND;PRS;PL;ACT;V;FIN;POS	_	_	_	_
+28	v	v	_	_	ESS;ADP	_	_	_	_
+29	záznamech	záznam	_	_	N;INAN;ESS;PL;POS;MASC	_	_	_	_
+30	daňové	daňový	_	_	ADJ;FEM;SG;GEN;POS	_	_	_	_
+31	evidence	evidence	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+32	stavy	stav	_	_	NOM;N;INAN;PL;POS;MASC	_	_	_	_
+33	jednotlivých	jednotlivý	_	_	ADJ;FEM;GEN;PL;POS	_	_	_	_
+34	složek	složka	_	_	N;FEM;GEN;PL;POS	_	_	_	_
+35	majetku	majetek	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+36	a	a	_	_	CONJ	_	_	_	_
+37	závazků	závazek	_	_	N;INAN;GEN;PL;POS;MASC	_	_	_	_
+38	,	,	_	_	_	_	_	_	_
+39	případně	případně	_	_	ADV;POS	_	_	_	_
+40	rezerv	rezerva	_	_	N;FEM;GEN;PL;POS	_	_	_	_
+41	,	,	_	_	_	_	_	_	_
+42	oceňovacích	oceňovací	_	_	ADJ;INAN;GEN;PL;POS;MASC	_	_	_	_
+43	rozdílů	rozdíl	_	_	N;INAN;GEN;PL;POS;MASC	_	_	_	_
+44	k	k	_	_	ADP;DAT	_	_	_	_
+45	úplatně	úplatně	_	_	ADV;POS	_	_	_	_
+46	nabytému	nabytý	_	_	ADJ;INAN;SG;DAT;POS;MASC	_	_	_	_
+47	majetku	majetek	_	_	N;INAN;SG;DAT;POS;MASC	_	_	_	_
+48	a	a	_	_	CONJ	_	_	_	_
+49	u	u	_	_	ADP;GEN	_	_	_	_
+50	finančního	finanční	_	_	ADJ;INAN;SG;GEN;POS;MASC	_	_	_	_
+51	pronájmu	pronájem	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+52	s	s	_	_	ADP;INS	_	_	_	_
+53	následnou	následný	_	_	ADJ;FEM;SG;INS;POS	_	_	_	_
+54	koupí	koupě	_	_	N;FEM;SG;INS;POS	_	_	_	_
+55	najatého	najatý	_	_	ADJ;INAN;SG;GEN;POS;MASC	_	_	_	_
+56	hmotného	hmotný	_	_	ADJ;INAN;SG;GEN;POS;MASC	_	_	_	_
+57	majetku	majetek	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+58	neuplatněnou	uplatněný	_	_	ADJ;NEG;FEM;SG;ACC	_	_	_	_
+59	část	část	_	_	N;FEM;SG;ACC;POS	_	_	_	_
+60	výdajů	výdaj	_	_	N;INAN;GEN;PL;POS;MASC	_	_	_	_
+61	ke	k	_	_	ADP;DAT	_	_	_	_
+62	dni	den	_	_	N;INAN;SG;DAT;POS;MASC	_	_	_	_
+63	předcházejícímu	předcházející	_	_	ADJ;ANIM;IPFV;SG;DAT;V.PTCP;ACT;PRS;POS;MASC	_	_	_	_
+64	první	první	_	_	ADJ;INAN;SG;ACC;MASC	_	_	_	_
+65	den	den	_	_	N;INAN;SG;ACC;POS;MASC	_	_	_	_
+66	účetního	účetní	_	_	ADJ;SG;NEUT;GEN;POS	_	_	_	_
+67	období	období	_	_	N;SG;NEUT;GEN;POS	_	_	_	_
+68	,	,	_	_	_	_	_	_	_
+69	v	v	_	_	ESS;ADP	_	_	_	_
+70	němž	jenž	_	_	{MASC/NEUT};ESS;PRO;SG	_	_	_	_
+71	jim	on	_	_	3;PRO;DAT;PL	_	_	_	_
+72	vznikla	vzniknout	_	_	{PL/SG};{FEM/NEUT};V.PTCP;ACT;V;PST;POS	_	_	_	_
+73	povinnost	povinnost	_	_	NOM;N;FEM;SG;POS	_	_	_	_
+74	podle	podle	_	_	ADP;GEN	_	_	_	_
+75	§_4_odst._2_až_7	§_4_odst._2_až_7	_	_	_	_	_	_	_
+76	zákona	zákon	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+77	.	.	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-009-p98s1
+# text = Přechodná ustanovení zavedena vyhláškou č._419/2010_Sb._Čl._II
+# orig_file_sentence document_01_009#38
+1	Přechodná	přechodný	_	_	NOM;ADJ;NEUT;PL;POS	_	_	_	_
+2	ustanovení	ustanovení	_	_	NOM;N;NEUT;PL;POS	_	_	_	_
+3	zavedena	zavedený	_	_	{PL/SG};ADJ;{FEM/NEUT};V.PTCP;PASS;POS	_	_	_	_
+4	vyhláškou	vyhláška	_	_	N;FEM;SG;INS;POS	_	_	_	_
+5	č._419/2010_Sb._Čl._II	č._419/2010_Sb._Čl._II	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-009-p92s1
+# text = §_69
+# orig_file_sentence document_01_009#5
+1	§_69	§_69	_	_	_	_	_	_	_
+
+# sent_id = zakon.iso-003-p20s7
+# text = Vybrané účetní jednotky sestavují přehled o peněžních tocích a o změnách vlastního kapitálu vždy, pokud k rozvahovému dni a za bezprostředně předcházející účetní období splní obě kritéria uvedená v §_20_odst._1_písm._a) bodech 1 a 2.
+# orig_file_sentence document_02_003#24
+1	Vybrané	vybraný	_	_	NOM;ADJ;FEM;PL;POS	_	_	_	_
+2	účetní	účetní	_	_	NOM;ADJ;FEM;PL;POS	_	_	_	_
+3	jednotky	jednotka	_	_	NOM;N;FEM;PL;POS	_	_	_	_
+4	sestavují	sestavovat	_	_	3;IND;PRS;PL;ACT;V;FIN;POS	_	_	_	_
+5	přehled	přehled	_	_	N;INAN;SG;ACC;POS;MASC	_	_	_	_
+6	o	o	_	_	ESS;ADP	_	_	_	_
+7	peněžních	peněžní	_	_	ADJ;INAN;ESS;PL;POS;MASC	_	_	_	_
+8	tocích	tok	_	_	N;INAN;ESS;PL;POS;MASC	_	_	_	_
+9	a	a	_	_	CONJ	_	_	_	_
+10	o	o	_	_	ESS;ADP	_	_	_	_
+11	změnách	změna	_	_	N;ESS;FEM;PL;POS	_	_	_	_
+12	vlastního	vlastní	_	_	ADJ;INAN;SG;GEN;POS;MASC	_	_	_	_
+13	kapitálu	kapitál	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+14	vždy	vždy	_	_	ADV;POS	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	pokud	pokud	_	_	CONJ	_	_	_	_
+17	k	k	_	_	ADP;DAT	_	_	_	_
+18	rozvahovému	rozvahový	_	_	ADJ;INAN;SG;DAT;POS;MASC	_	_	_	_
+19	dni	den	_	_	N;INAN;SG;DAT;POS;MASC	_	_	_	_
+20	a	a	_	_	CONJ	_	_	_	_
+21	za	za	_	_	ACC;ADP	_	_	_	_
+22	bezprostředně	bezprostředně	_	_	ADV;POS	_	_	_	_
+23	předcházející	předcházející	_	_	NOM;ADJ;ANIM;IPFV;V.PTCP;PL;ACT;PRS;POS;MASC	_	_	_	_
+24	účetní	účetní	_	_	NOM;N;ANIM;PL;POS;MASC	_	_	_	_
+25	období	období	_	_	N;SG;NEUT;GEN;POS	_	_	_	_
+26	splní	splnit	_	_	3;IND;PRS;PL;ACT;V;FIN;POS	_	_	_	_
+27	obě	oba	_	_	NOM;{FEM/NEUT};NUM;PL	_	_	_	_
+28	kritéria	kritérium	_	_	NOM;N;NEUT;PL;POS	_	_	_	_
+29	uvedená	uvedený	_	_	NOM;ADJ;NEUT;PL;POS	_	_	_	_
+30	v	v	_	_	ESS;ADP	_	_	_	_
+31	§_20_odst._1_písm._a)	§_20_odst._1_písm._a)	_	_	_	_	_	_	_
+32	bodech	bod	_	_	N;INAN;ESS;PL;POS;MASC	_	_	_	_
+33	1	1	_	_	NUM	_	_	_	_
+34	a	a	_	_	CONJ	_	_	_	_
+35	2	2	_	_	NUM	_	_	_	_
+36	.	.	_	_	_	_	_	_	_
+
+# sent_id = zakon.iso-004-p25s1
+# text = §_21a
+# orig_file_sentence document_02_004#12
+1	§_21a	§_21a	_	_	_	_	_	_	_
+
+# sent_id = zakon.iso-005-p33s14
+# text = V případě nákupu nebo prodeje cizí měny za českou měnu lze k okamžiku ocenění použít kurzu, za který byly tyto hodnoty nakoupeny nebo prodány.
+# orig_file_sentence document_02_005#9
+1	V	v	_	_	ADP;ESS	_	_	_	_
+2	případě	případ	_	_	MASC;N;SG;INAN;ESS;POS	_	_	_	_
+3	nákupu	nákup	_	_	MASC;N;GEN;SG;INAN;POS	_	_	_	_
+4	nebo	nebo	_	_	CONJ	_	_	_	_
+5	prodeje	prodej	_	_	MASC;N;GEN;SG;INAN;POS	_	_	_	_
+6	cizí	cizí	_	_	ADJ;GEN;POS;SG;FEM	_	_	_	_
+7	měny	měna	_	_	FEM;N;GEN;SG;POS	_	_	_	_
+8	za	za	_	_	ADP;ACC	_	_	_	_
+9	českou	český	_	_	ADJ;ACC;POS;SG;FEM	_	_	_	_
+10	měnu	měna	_	_	N;ACC;POS;SG;FEM	_	_	_	_
+11	lze	lze	_	_	IND;3;FIN;V;ACT;PRS;SG;POS	_	_	_	_
+12	k	k	_	_	ADP;DAT	_	_	_	_
+13	okamžiku	okamžik	_	_	MASC;N;INAN;SG;DAT;POS	_	_	_	_
+14	ocenění	ocenění	_	_	N;GEN;SG;NEUT;POS	_	_	_	_
+15	použít	použít	_	_	NFIN;V;POS	_	_	_	_
+16	kurzu	kurs	_	_	MASC;N;GEN;SG;INAN;POS	_	_	_	_
+17	,	,	_	_	_	_	_	_	_
+18	za	za	_	_	ADP;ACC	_	_	_	_
+19	který	který	_	_	DET;MASC;ACC;SG;INAN	_	_	_	_
+20	byly	být	_	_	{FEM/MASC};PST;ACT;V.PTCP;PL;INAN;V;POS	_	_	_	_
+21	tyto	tento	_	_	DET;NOM;PL;FEM	_	_	_	_
+22	hodnoty	hodnota	_	_	FEM;NOM;N;PL;POS	_	_	_	_
+23	nakoupeny	nakoupený	_	_	ADJ;{FEM/MASC};V.PTCP;PL;INAN;PASS;POS	_	_	_	_
+24	nebo	nebo	_	_	CONJ	_	_	_	_
+25	prodány	prodaný	_	_	ADJ;{FEM/MASC};V.PTCP;PL;INAN;PASS;POS	_	_	_	_
+26	.	.	_	_	_	_	_	_	_
+
+# sent_id = zakon.iso-001-p2s8
+# text = Vybranými účetními jednotkami jsou organizační složky státu, státní fondy podle rozpočtových pravidel, Pozemkový fond České republiky, územní samosprávné celky, dobrovolné svazky obcí, Regionální rady regionů soudržnosti, příspěvkové organizace a zdravotní pojišťovny.
+# orig_file_sentence document_02_001#9
+1	Vybranými	vybraný	_	_	ADJ;FEM;INS;PL;POS	_	_	_	_
+2	účetními	účetní	_	_	ADJ;FEM;INS;PL;POS	_	_	_	_
+3	jednotkami	jednotka	_	_	N;FEM;INS;PL;POS	_	_	_	_
+4	jsou	být	_	_	3;V;IND;PL;ACT;PRS;FIN;POS	_	_	_	_
+5	organizační	organizační	_	_	NOM;ADJ;FEM;PL;POS	_	_	_	_
+6	složky	složka	_	_	NOM;N;FEM;PL;POS	_	_	_	_
+7	státu	stát	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	státní	státní	_	_	NOM;ADJ;INAN;PL;POS;MASC	_	_	_	_
+10	fondy	fond	_	_	NOM;N;INAN;PL;POS;MASC	_	_	_	_
+11	podle	podle	_	_	ADP;GEN	_	_	_	_
+12	rozpočtových	rozpočtový	_	_	ADJ;NEUT;GEN;PL;POS	_	_	_	_
+13	pravidel	pravidlo	_	_	N;NEUT;GEN;PL;POS	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	Pozemkový	pozemkový	_	_	NOM;ADJ;INAN;SG;POS;MASC	_	_	_	_
+16	fond	fond	_	_	NOM;N;INAN;SG;POS;MASC	_	_	_	_
+17	České	český	_	_	ADJ;FEM;SG;GEN;POS	_	_	_	_
+18	republiky	republika	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+19	,	,	_	_	_	_	_	_	_
+20	územní	územní	_	_	NOM;ADJ;INAN;PL;POS;MASC	_	_	_	_
+21	samosprávné	samosprávný	_	_	NOM;ADJ;INAN;PL;POS;MASC	_	_	_	_
+22	celky	celek	_	_	NOM;N;INAN;PL;POS;MASC	_	_	_	_
+23	,	,	_	_	_	_	_	_	_
+24	dobrovolné	dobrovolný	_	_	NOM;ADJ;INAN;PL;POS;MASC	_	_	_	_
+25	svazky	svazek	_	_	NOM;N;INAN;PL;POS;MASC	_	_	_	_
+26	obcí	obec	_	_	N;FEM;GEN;PL;POS	_	_	_	_
+27	,	,	_	_	_	_	_	_	_
+28	Regionální	regionální	_	_	NOM;ADJ;FEM;PL;POS	_	_	_	_
+29	rady	rada	_	_	NOM;N;FEM;PL;POS	_	_	_	_
+30	regionů	region	_	_	N;INAN;GEN;PL;POS;MASC	_	_	_	_
+31	soudržnosti	soudržnost	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+32	,	,	_	_	_	_	_	_	_
+33	příspěvkové	příspěvkový	_	_	NOM;ADJ;FEM;PL;POS	_	_	_	_
+34	organizace	organizace	_	_	NOM;N;FEM;PL;POS	_	_	_	_
+35	a	a	_	_	CONJ	_	_	_	_
+36	zdravotní	zdravotní	_	_	NOM;ADJ;FEM;PL;POS	_	_	_	_
+37	pojišťovny	pojišťovna	_	_	NOM;N;FEM;PL;POS	_	_	_	_
+38	.	.	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-002-p17s7
+# text = (4) Položka "D.I.3._Příjmy_příštích_období" obsahuje částky účetní jednotkou nepřijaté, které časově a věcně souvisejí s výnosy běžného účetního období a nejsou účtovány přímo na účtech pohledávek za právnickými a fyzickými osobami.
+# orig_file_sentence document_01_002#75
+1	(4)	(4)	_	_	_	_	_	_	_
+2	Položka	položka	_	_	NOM;N;FEM;SG;POS	_	_	_	_
+3	"	"	_	_	_	_	_	_	_
+4	D.I.3._Příjmy_příštích_období	"D.I.3._Příjmy_příštích_období"	_	_	_	_	_	_	_
+5	"	"	_	_	_	_	_	_	_
+6	obsahuje	obsahovat	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+7	částky	částka	_	_	N;FEM;ACC;PL;POS	_	_	_	_
+8	účetní	účetní	_	_	ADJ;FEM;SG;INS;POS	_	_	_	_
+9	jednotkou	jednotka	_	_	N;FEM;SG;INS;POS	_	_	_	_
+10	nepřijaté	přijatý	_	_	NOM;ADJ;NEG;SG;NEUT	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	které	který	_	_	NOM;INAN;DET;PL;MASC	_	_	_	_
+13	časově	časově	_	_	ADV;POS	_	_	_	_
+14	a	a	_	_	CONJ	_	_	_	_
+15	věcně	věcně	_	_	ADV;POS	_	_	_	_
+16	souvisejí	souviset	_	_	3;IND;PRS;PL;ACT;V;FIN;POS	_	_	_	_
+17	s	s	_	_	ADP;INS	_	_	_	_
+18	výnosy	výnos	_	_	N;INAN;INS;PL;POS;MASC	_	_	_	_
+19	běžného	běžný	_	_	ADJ;SG;NEUT;GEN;POS	_	_	_	_
+20	účetního	účetní	_	_	ADJ;SG;NEUT;GEN;POS	_	_	_	_
+21	období	období	_	_	N;SG;NEUT;GEN;POS	_	_	_	_
+22	a	a	_	_	CONJ	_	_	_	_
+23	nejsou	být	_	_	3;V;IND;NEG;PL;ACT;PRS;FIN	_	_	_	_
+24	účtovány	účtovaný	_	_	{FEM/MASC};ADJ;INAN;V.PTCP;PL;PASS;POS	_	_	_	_
+25	přímo	přímo	_	_	ADV;POS	_	_	_	_
+26	na	na	_	_	ESS;ADP	_	_	_	_
+27	účtech	účet	_	_	N;INAN;ESS;PL;POS;MASC	_	_	_	_
+28	pohledávek	pohledávka	_	_	N;FEM;GEN;PL;POS	_	_	_	_
+29	za	za	_	_	ADP;INS	_	_	_	_
+30	právnickými	právnický	_	_	ADJ;FEM;INS;PL;POS	_	_	_	_
+31	a	a	_	_	CONJ	_	_	_	_
+32	fyzickými	fyzický	_	_	ADJ;FEM;INS;PL;POS	_	_	_	_
+33	osobami	osoba	_	_	N;FEM;INS;PL;POS	_	_	_	_
+34	.	.	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-001-p7s11
+# text = V případě, že informace uváděné za minulé a běžné účetní období nejsou srovnatelné, upraví se informace za minulé účetní období s ohledem na významnost podle §_19_odst._6_zákona.
+# orig_file_sentence document_01_001#34
+1	V	v	_	_	ESS;ADP	_	_	_	_
+2	případě	případ	_	_	N;INAN;ESS;SG;POS;MASC	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	že	že	_	_	CONJ	_	_	_	_
+5	informace	informace	_	_	NOM;N;FEM;PL;POS	_	_	_	_
+6	uváděné	uváděný	_	_	NOM;ADJ;FEM;PL;POS	_	_	_	_
+7	za	za	_	_	ACC;ADP	_	_	_	_
+8	minulé	minulý	_	_	ADJ;SG;NEUT;ACC;POS	_	_	_	_
+9	a	a	_	_	CONJ	_	_	_	_
+10	běžné	běžný	_	_	ADJ;SG;NEUT;ACC;POS	_	_	_	_
+11	účetní	účetní	_	_	ADJ;SG;NEUT;ACC;POS	_	_	_	_
+12	období	období	_	_	N;SG;NEUT;ACC;POS	_	_	_	_
+13	nejsou	být	_	_	3;V;IND;NEG;PL;ACT;PRS;FIN	_	_	_	_
+14	srovnatelné	srovnatelný	_	_	NOM;ADJ;FEM;PL;POS	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	upraví	upravit	_	_	3;IND;PRS;PL;ACT;V;FIN;POS	_	_	_	_
+17	se	se	_	_	PRO;ACC;REFL	_	_	_	_
+18	informace	informace	_	_	NOM;N;FEM;PL;POS	_	_	_	_
+19	za	za	_	_	ACC;ADP	_	_	_	_
+20	minulé	minulý	_	_	ADJ;SG;NEUT;ACC;POS	_	_	_	_
+21	účetní	účetní	_	_	ADJ;SG;NEUT;ACC;POS	_	_	_	_
+22	období	období	_	_	N;SG;NEUT;ACC;POS	_	_	_	_
+23	s	s	_	_	ADP;INS	_	_	_	_
+24	ohledem	ohled	_	_	N;INAN;SG;INS;POS;MASC	_	_	_	_
+25	na	na	_	_	ACC;ADP	_	_	_	_
+26	významnost	významnost	_	_	N;FEM;SG;ACC;POS	_	_	_	_
+27	podle	podle	_	_	ADP;GEN	_	_	_	_
+28	§_19_odst._6_zákona	§_19_odst._6_zákona	_	_	_	_	_	_	_
+29	.	.	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-004-p44s2
+# text = Převod podílu na výsledku hospodaření společníkům
+# orig_file_sentence document_01_004#20
+1	Převod	převod	_	_	NOM;N;INAN;SG;POS;MASC	_	_	_	_
+2	podílu	podíl	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+3	na	na	_	_	ESS;ADP	_	_	_	_
+4	výsledku	výsledek	_	_	N;INAN;ESS;SG;POS;MASC	_	_	_	_
+5	hospodaření	hospodaření	_	_	N;SG;NEUT;GEN;POS	_	_	_	_
+6	společníkům	společník	_	_	N;ANIM;DAT;PL;POS;MASC	_	_	_	_
+
+# sent_id = vyhlaska.iso-005-p59s1
+# text = ČÁST ČTVRTÁ
+# orig_file_sentence document_01_005#58
+1	ČÁST	část	_	_	NOM;N;FEM;SG;POS	_	_	_	_
+2	ČTVRTÁ	čtvrtý	_	_	NOM;ADJ;FEM;SG	_	_	_	_
+
+# sent_id = zakon.iso-003-p23s3
+# text = (1) Pokud tento zákon nestanoví jinak, řádnou nebo mimořádnou účetní závěrku jsou povinny mít ověřenu auditorem tyto účetní jednotky a) akciové společnosti, pokud ke konci rozvahového dne účetního období, za nějž se účetní závěrka (§_18_odst._3) ověřuje, a účetního období bezprostředně předcházejícího, překročily nebo již dosáhly alespoň jedno ze tří uvedených kritérií: 1. aktiva celkem více než 40000000 Kč; aktivy celkem se pro účely tohoto zákona rozumí úhrn zjištěný z rozvahy v ocenění neupraveném o položky podle §_26_odst._3, 2. roční úhrn čistého obratu více než 80000000 Kč; ročním úhrnem čistého obratu se pro účely tohoto zákona rozumí výše výnosů snížená o prodejní slevy a dělená počtem započatých měsíců, po které trvalo účetní období, a vynásobená dvanácti, 3. průměrný přepočtený stav zaměstnanců v průběhu účetního období více než 50, zjištěný způsobem stanoveným na základě zvláštního právního předpisu, b) ostatní obchodní společnosti a družstva, pokud ke konci rozvahového dne účetního období, za nějž se účetní závěrka (§_18_odst._3) ověřuje, a účetního období bezprotředně předcházejícího, překročily nebo již dosáhly alespoň dvou ze tří kritérií uvedených v písmenu a) bodech 1 až 3; v případě družstva se zaměstnancem podle písmene a)_bodu_3 rozumí i pracovní vztah člena k družstvu, c) účetní jednotky podle §_1_odst._2_písm._b), které jsou podnikateli, a to za podmínek podle písmene b), d) účetní jednotky podle §_1_odst._2_písm._d)_až_h) za podmínek podle písmene b), e) účetní jednotky, kterým tuto povinnost stanoví zvláštní právní předpis.
+# orig_file_sentence document_02_004#1
+1	(1)	(1)	_	_	_	_	_	_	_
+2	Pokud	pokud	_	_	CONJ	_	_	_	_
+3	tento	tento	_	_	DET;MASC;NOM;SG	_	_	_	_
+4	zákon	zákon	_	_	MASC;NOM;N;SG;INAN;POS	_	_	_	_
+5	nestanoví	stanovit	_	_	IND;NEG;3;FIN;V;ACT;PRS;SG	_	_	_	_
+6	jinak	jinak	_	_	ADV	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	řádnou	řádný	_	_	ADJ;ACC;POS;SG;FEM	_	_	_	_
+9	nebo	nebo	_	_	CONJ	_	_	_	_
+10	mimořádnou	mimořádný	_	_	ADJ;ACC;POS;SG;FEM	_	_	_	_
+11	účetní	účetní	_	_	ADJ;ACC;POS;SG;FEM	_	_	_	_
+12	závěrku	závěrka	_	_	N;ACC;POS;SG;FEM	_	_	_	_
+13	jsou	být	_	_	PRS;IND;3;FIN;ACT;PL;V;POS	_	_	_	_
+14	povinny	povinný	_	_	ADJ;{FEM/MASC};PL;INAN;POS	_	_	_	_
+15	mít	mít	_	_	NFIN;V;POS	_	_	_	_
+16	ověřenu	ověřenuý	_	_	ADJ;ACC;POS;V.PTCP;SG;PASS;FEM	_	_	_	_
+17	auditorem	auditor	_	_	MASC;N;INS;ANIM;SG;POS	_	_	_	_
+18	tyto	tento	_	_	DET;ACC;PL;FEM	_	_	_	_
+19	účetní	účetní	_	_	ADJ;ACC;POS;PL;FEM	_	_	_	_
+20	jednotky	jednotka	_	_	N;ACC;POS;PL;FEM	_	_	_	_
+21	a)	a)	_	_	_	_	_	_	_
+22	akciové	akciový	_	_	ADJ;GEN;POS;SG;FEM	_	_	_	_
+23	společnosti	společnost	_	_	FEM;N;GEN;SG;POS	_	_	_	_
+24	,	,	_	_	_	_	_	_	_
+25	pokud	pokud	_	_	CONJ	_	_	_	_
+26	ke	k	_	_	ADP;DAT	_	_	_	_
+27	konci	konec	_	_	MASC;N;INAN;SG;DAT;POS	_	_	_	_
+28	rozvahového	rozvahový	_	_	ADJ;MASC;GEN;SG;INAN;POS	_	_	_	_
+29	dne	den	_	_	MASC;N;GEN;SG;INAN;POS	_	_	_	_
+30	účetního	účetní	_	_	ADJ;GEN;SG;NEUT;POS	_	_	_	_
+31	období	období	_	_	N;GEN;SG;NEUT;POS	_	_	_	_
+32	,	,	_	_	_	_	_	_	_
+33	za	za	_	_	ADP;ACC	_	_	_	_
+34	nějž	jenž	_	_	PRO;{MASC/NEUT};ACC;SG	_	_	_	_
+35	se	se	_	_	PRO;REFL;ACC	_	_	_	_
+36	účetní	účetní	_	_	ADJ;NOM;POS;SG;FEM	_	_	_	_
+37	závěrka	závěrka	_	_	FEM;NOM;N;SG;POS	_	_	_	_
+38	(	(	_	_	_	_	_	_	_
+39	§_18_odst._3	§_18_odst._3	_	_	_	_	_	_	_
+40	)	)	_	_	_	_	_	_	_
+41	ověřuje	ověřovat	_	_	IND;3;FIN;V;ACT;PRS;SG;POS	_	_	_	_
+42	,	,	_	_	_	_	_	_	_
+43	a	a	_	_	CONJ	_	_	_	_
+44	účetního	účetní	_	_	ADJ;GEN;SG;NEUT;POS	_	_	_	_
+45	období	období	_	_	N;GEN;SG;NEUT;POS	_	_	_	_
+46	bezprostředně	bezprostředně	_	_	ADV;POS	_	_	_	_
+47	předcházejícího	předcházející	_	_	ADJ;IPFV;GEN;ACT;V.PTCP;PRS;SG;NEUT;POS	_	_	_	_
+48	,	,	_	_	_	_	_	_	_
+49	překročily	překročit	_	_	{FEM/MASC};V;PST;V.PTCP;ACT;PL;INAN;POS	_	_	_	_
+50	nebo	nebo	_	_	CONJ	_	_	_	_
+51	již	již	_	_	ADV	_	_	_	_
+52	dosáhly	dosáhnout	_	_	{FEM/MASC};V;PST;V.PTCP;ACT;PL;INAN;POS	_	_	_	_
+53	alespoň	alespoň	_	_	ADV	_	_	_	_
+54	jedno	jeden	_	_	NUM;ACC;SG;NEUT	_	_	_	_
+55	ze	z	_	_	GEN;ADP	_	_	_	_
+56	tří	tři	_	_	GEN;NUM;PL	_	_	_	_
+57	uvedených	uvedený	_	_	ADJ;GEN;PL;NEUT;POS	_	_	_	_
+58	kritérií	kritérium	_	_	N;GEN;PL;NEUT;POS	_	_	_	_
+59	:	:	_	_	_	_	_	_	_
+60	1	1	_	_	NUM	_	_	_	_
+61	.	.	_	_	_	_	_	_	_
+62	aktiva	aktivum	_	_	N;GEN;SG;NEUT;POS	_	_	_	_
+63	celkem	celkem	_	_	ADV	_	_	_	_
+64	více	hodně	_	_	CMPR;ADV;POS	_	_	_	_
+65	než	než	_	_	CONJ	_	_	_	_
+66	40000000	40000000	_	_	NUM	_	_	_	_
+67	Kč	Kč	_	_	POS;N;FEM	_	_	_	_
+68	;	;	_	_	_	_	_	_	_
+69	aktivy	aktiv	_	_	MASC;NOM;N;PL;INAN;POS	_	_	_	_
+70	celkem	celkem	_	_	ADV	_	_	_	_
+71	se	se	_	_	PRO;REFL;ACC	_	_	_	_
+72	pro	pro	_	_	ADP;ACC	_	_	_	_
+73	účely	účel	_	_	MASC;N;ACC;PL;INAN;POS	_	_	_	_
+74	tohoto	tento	_	_	DET;{MASC/NEUT};GEN;SG	_	_	_	_
+75	zákona	zákon	_	_	MASC;N;GEN;SG;INAN;POS	_	_	_	_
+76	rozumí	rozumět	_	_	IND;3;FIN;V;ACT;PRS;SG;POS	_	_	_	_
+77	úhrn	úhrn	_	_	MASC;NOM;N;SG;INAN;POS	_	_	_	_
+78	zjištěný	zjištěný	_	_	ADJ;MASC;NOM;SG;INAN;POS	_	_	_	_
+79	z	z	_	_	GEN;ADP	_	_	_	_
+80	rozvahy	rozvaha	_	_	FEM;N;GEN;SG;POS	_	_	_	_
+81	v	v	_	_	ADP;ESS	_	_	_	_
+82	ocenění	ocenění	_	_	N;SG;NEUT;ESS;POS	_	_	_	_
+83	neupraveném	upravený	_	_	ADJ;NEG;SG;NEUT;ESS	_	_	_	_
+84	o	o	_	_	ADP;ACC	_	_	_	_
+85	položky	položka	_	_	N;ACC;POS;PL;FEM	_	_	_	_
+86	podle	podle	_	_	GEN;ADP	_	_	_	_
+87	§_26_odst._3	§_26_odst._3	_	_	_	_	_	_	_
+88	,	,	_	_	_	_	_	_	_
+89	2	2	_	_	NUM	_	_	_	_
+90	.	.	_	_	_	_	_	_	_
+91	roční	roční	_	_	ADJ;MASC;NOM;SG;INAN;POS	_	_	_	_
+92	úhrn	úhrn	_	_	MASC;NOM;N;SG;INAN;POS	_	_	_	_
+93	čistého	čistý	_	_	ADJ;MASC;GEN;SG;INAN;POS	_	_	_	_
+94	obratu	obrat	_	_	MASC;N;GEN;SG;INAN;POS	_	_	_	_
+95	více	hodně	_	_	CMPR;ADV;POS	_	_	_	_
+96	než	než	_	_	CONJ	_	_	_	_
+97	80000000	80000000	_	_	NUM	_	_	_	_
+98	Kč	Kč	_	_	POS;N;FEM	_	_	_	_
+99	;	;	_	_	_	_	_	_	_
+100	ročním	roční	_	_	ADJ;MASC;INS;SG;INAN;POS	_	_	_	_
+101	úhrnem	úhrn	_	_	MASC;N;INS;SG;INAN;POS	_	_	_	_
+102	čistého	čistý	_	_	ADJ;MASC;GEN;SG;INAN;POS	_	_	_	_
+103	obratu	obrat	_	_	MASC;N;GEN;SG;INAN;POS	_	_	_	_
+104	se	se	_	_	PRO;REFL;ACC	_	_	_	_
+105	pro	pro	_	_	ADP;ACC	_	_	_	_
+106	účely	účel	_	_	MASC;N;ACC;PL;INAN;POS	_	_	_	_
+107	tohoto	tento	_	_	DET;{MASC/NEUT};GEN;SG	_	_	_	_
+108	zákona	zákon	_	_	MASC;N;GEN;SG;INAN;POS	_	_	_	_
+109	rozumí	rozumět	_	_	IND;3;FIN;V;ACT;PRS;SG;POS	_	_	_	_
+110	výše	výše	_	_	FEM;NOM;N;SG;POS	_	_	_	_
+111	výnosů	výnos	_	_	MASC;N;GEN;PL;INAN;POS	_	_	_	_
+112	snížená	snížený	_	_	ADJ;NOM;POS;SG;FEM	_	_	_	_
+113	o	o	_	_	ADP;ACC	_	_	_	_
+114	prodejní	prodejní	_	_	ADJ;ACC;POS;PL;FEM	_	_	_	_
+115	slevy	sleva	_	_	N;ACC;POS;PL;FEM	_	_	_	_
+116	a	a	_	_	CONJ	_	_	_	_
+117	dělená	dělený	_	_	ADJ;ACC;PL;NEUT;POS	_	_	_	_
+118	počtem	počet	_	_	MASC;N;INS;SG;INAN;POS	_	_	_	_
+119	započatých	započatý	_	_	ADJ;MASC;GEN;PL;INAN;POS	_	_	_	_
+120	měsíců	měsíc	_	_	MASC;N;GEN;PL;INAN;POS	_	_	_	_
+121	,	,	_	_	_	_	_	_	_
+122	po	po	_	_	ADP;ESS	_	_	_	_
+123	které	který	_	_	DET;FEM;SG;ESS	_	_	_	_
+124	trvalo	trvat	_	_	V;PST;V.PTCP;ACT;SG;NEUT;POS	_	_	_	_
+125	účetní	účetní	_	_	ADJ;NOM;SG;NEUT;POS	_	_	_	_
+126	období	období	_	_	NOM;N;SG;NEUT;POS	_	_	_	_
+127	,	,	_	_	_	_	_	_	_
+128	a	a	_	_	CONJ	_	_	_	_
+129	vynásobená	vynásobený	_	_	ADJ;NOM;POS;SG;FEM	_	_	_	_
+130	dvanácti	dvanáct	_	_	GEN;NUM;PL	_	_	_	_
+131	,	,	_	_	_	_	_	_	_
+132	3	3	_	_	NUM	_	_	_	_
+133	.	.	_	_	_	_	_	_	_
+134	průměrný	průměrný	_	_	ADJ;MASC;NOM;SG;INAN;POS	_	_	_	_
+135	přepočtený	přepočtený	_	_	ADJ;MASC;NOM;SG;INAN;POS	_	_	_	_
+136	stav	stav	_	_	MASC;NOM;N;SG;INAN;POS	_	_	_	_
+137	zaměstnanců	zaměstnanec	_	_	MASC;N;GEN;ANIM;PL;POS	_	_	_	_
+138	v	v	_	_	ADP;ESS	_	_	_	_
+139	průběhu	průběh	_	_	MASC;N;SG;INAN;ESS;POS	_	_	_	_
+140	účetního	účetní	_	_	ADJ;GEN;SG;NEUT;POS	_	_	_	_
+141	období	období	_	_	N;GEN;SG;NEUT;POS	_	_	_	_
+142	více	hodně	_	_	CMPR;ADV;POS	_	_	_	_
+143	než	než	_	_	CONJ	_	_	_	_
+144	50	50	_	_	NUM	_	_	_	_
+145	,	,	_	_	_	_	_	_	_
+146	zjištěný	zjištěný	_	_	ADJ;MASC;NOM;SG;INAN;POS	_	_	_	_
+147	způsobem	způsob	_	_	MASC;N;INS;SG;INAN;POS	_	_	_	_
+148	stanoveným	stanovený	_	_	ADJ;MASC;INS;SG;INAN;POS	_	_	_	_
+149	na	na	_	_	ADP;ESS	_	_	_	_
+150	základě	základ	_	_	MASC;N;SG;INAN;ESS;POS	_	_	_	_
+151	zvláštního	zvláštní	_	_	ADJ;MASC;GEN;SG;INAN;POS	_	_	_	_
+152	právního	právní	_	_	ADJ;MASC;GEN;SG;INAN;POS	_	_	_	_
+153	předpisu	předpis	_	_	MASC;N;GEN;SG;INAN;POS	_	_	_	_
+154	,	,	_	_	_	_	_	_	_
+155	b)	b)	_	_	_	_	_	_	_
+156	ostatní	ostatní	_	_	ADJ;GEN;POS;SG;FEM	_	_	_	_
+157	obchodní	obchodní	_	_	ADJ;GEN;POS;SG;FEM	_	_	_	_
+158	společnosti	společnost	_	_	FEM;N;GEN;SG;POS	_	_	_	_
+159	a	a	_	_	CONJ	_	_	_	_
+160	družstva	družstvo	_	_	N;GEN;SG;NEUT;POS	_	_	_	_
+161	,	,	_	_	_	_	_	_	_
+162	pokud	pokud	_	_	CONJ	_	_	_	_
+163	ke	k	_	_	ADP;DAT	_	_	_	_
+164	konci	konec	_	_	MASC;N;INAN;SG;DAT;POS	_	_	_	_
+165	rozvahového	rozvahový	_	_	ADJ;MASC;GEN;SG;INAN;POS	_	_	_	_
+166	dne	den	_	_	MASC;N;GEN;SG;INAN;POS	_	_	_	_
+167	účetního	účetní	_	_	ADJ;GEN;SG;NEUT;POS	_	_	_	_
+168	období	období	_	_	N;GEN;SG;NEUT;POS	_	_	_	_
+169	,	,	_	_	_	_	_	_	_
+170	za	za	_	_	ADP;ACC	_	_	_	_
+171	nějž	jenž	_	_	PRO;{MASC/NEUT};ACC;SG	_	_	_	_
+172	se	se	_	_	PRO;REFL;ACC	_	_	_	_
+173	účetní	účetní	_	_	ADJ;NOM;POS;SG;FEM	_	_	_	_
+174	závěrka	závěrka	_	_	FEM;NOM;N;SG;POS	_	_	_	_
+175	(	(	_	_	_	_	_	_	_
+176	§_18_odst._3	§_18_odst._3	_	_	_	_	_	_	_
+177	)	)	_	_	_	_	_	_	_
+178	ověřuje	ověřovat	_	_	IND;3;FIN;V;ACT;PRS;SG;POS	_	_	_	_
+179	,	,	_	_	_	_	_	_	_
+180	a	a	_	_	CONJ	_	_	_	_
+181	účetního	účetní	_	_	ADJ;GEN;SG;NEUT;POS	_	_	_	_
+182	období	období	_	_	N;GEN;SG;NEUT;POS	_	_	_	_
+183	bezprotředně	bezprotředně	_	_	_	_	_	_	_
+184	předcházejícího	předcházející	_	_	ADJ;IPFV;GEN;ACT;V.PTCP;PRS;SG;NEUT;POS	_	_	_	_
+185	,	,	_	_	_	_	_	_	_
+186	překročily	překročit	_	_	{FEM/MASC};V;PST;V.PTCP;ACT;PL;INAN;POS	_	_	_	_
+187	nebo	nebo	_	_	CONJ	_	_	_	_
+188	již	již	_	_	ADV	_	_	_	_
+189	dosáhly	dosáhnout	_	_	{FEM/MASC};V;PST;V.PTCP;ACT;PL;INAN;POS	_	_	_	_
+190	alespoň	alespoň	_	_	ADV	_	_	_	_
+191	dvou	dva	_	_	GEN;NUM;PL	_	_	_	_
+192	ze	z	_	_	GEN;ADP	_	_	_	_
+193	tří	tři	_	_	GEN;NUM;PL	_	_	_	_
+194	kritérií	kritérium	_	_	N;GEN;PL;NEUT;POS	_	_	_	_
+195	uvedených	uvedený	_	_	ADJ;GEN;PL;NEUT;POS	_	_	_	_
+196	v	v	_	_	ADP;ESS	_	_	_	_
+197	písmenu	písmeno	_	_	N;SG;NEUT;ESS;POS	_	_	_	_
+198	a)	a)	_	_	_	_	_	_	_
+199	bodech	bod	_	_	MASC;N;PL;INAN;ESS;POS	_	_	_	_
+200	1	1	_	_	NUM	_	_	_	_
+201	až	až	_	_	PART	_	_	_	_
+202	3	3	_	_	NUM	_	_	_	_
+203	;	;	_	_	_	_	_	_	_
+204	v	v	_	_	ADP;ESS	_	_	_	_
+205	případě	případ	_	_	MASC;N;SG;INAN;ESS;POS	_	_	_	_
+206	družstva	družstvo	_	_	N;GEN;SG;NEUT;POS	_	_	_	_
+207	se	s	_	_	INS;ADP	_	_	_	_
+208	zaměstnancem	zaměstnanec	_	_	MASC;N;INS;ANIM;SG;POS	_	_	_	_
+209	podle	podle	_	_	GEN;ADP	_	_	_	_
+210	písmene	písmeno	_	_	N;GEN;SG;NEUT;POS	_	_	_	_
+211	a)_bodu_3	a)_bodu_3	_	_	_	_	_	_	_
+212	rozumí	rozumět	_	_	IND;3;FIN;V;ACT;PRS;SG;POS	_	_	_	_
+213	i	i	_	_	CONJ	_	_	_	_
+214	pracovní	pracovní	_	_	ADJ;MASC;ACC;SG;INAN;POS	_	_	_	_
+215	vztah	vztah	_	_	MASC;N;ACC;SG;INAN;POS	_	_	_	_
+216	člena	člen	_	_	MASC;N;GEN;ANIM;SG;POS	_	_	_	_
+217	k	k	_	_	ADP;DAT	_	_	_	_
+218	družstvu	družstvo	_	_	N;SG;DAT;NEUT;POS	_	_	_	_
+219	,	,	_	_	_	_	_	_	_
+220	c)	c)	_	_	_	_	_	_	_
+221	účetní	účetní	_	_	ADJ;NOM;POS;PL;FEM	_	_	_	_
+222	jednotky	jednotka	_	_	FEM;NOM;N;PL;POS	_	_	_	_
+223	podle	podle	_	_	GEN;ADP	_	_	_	_
+224	§_1_odst._2_písm._b)	§_1_odst._2_písm._b)	_	_	_	_	_	_	_
+225	,	,	_	_	_	_	_	_	_
+226	které	který	_	_	DET;FEM;NOM;PL	_	_	_	_
+227	jsou	být	_	_	PRS;IND;3;FIN;ACT;PL;V;POS	_	_	_	_
+228	podnikateli	podnikatel	_	_	MASC;N;INS;ANIM;PL;POS	_	_	_	_
+229	,	,	_	_	_	_	_	_	_
+230	a	a	_	_	CONJ	_	_	_	_
+231	to	ten	_	_	DET;ACC;SG;NEUT	_	_	_	_
+232	za	za	_	_	GEN;ADP	_	_	_	_
+233	podmínek	podmínka	_	_	FEM;N;GEN;PL;POS	_	_	_	_
+234	podle	podle	_	_	GEN;ADP	_	_	_	_
+235	písmene	písmeno	_	_	N;GEN;SG;NEUT;POS	_	_	_	_
+236	b)	b)	_	_	_	_	_	_	_
+237	,	,	_	_	_	_	_	_	_
+238	d)	d)	_	_	_	_	_	_	_
+239	účetní	účetní	_	_	ADJ;GEN;POS;SG;FEM	_	_	_	_
+240	jednotky	jednotka	_	_	FEM;N;GEN;SG;POS	_	_	_	_
+241	podle	podle	_	_	GEN;ADP	_	_	_	_
+242	§_1_odst._2_písm._d)_až_h)	§_1_odst._2_písm._d)_až_h)	_	_	_	_	_	_	_
+243	za	za	_	_	GEN;ADP	_	_	_	_
+244	podmínek	podmínka	_	_	FEM;N;GEN;PL;POS	_	_	_	_
+245	podle	podle	_	_	GEN;ADP	_	_	_	_
+246	písmene	písmeno	_	_	N;GEN;SG;NEUT;POS	_	_	_	_
+247	b)	b)	_	_	_	_	_	_	_
+248	,	,	_	_	_	_	_	_	_
+249	e)	e)	_	_	_	_	_	_	_
+250	účetní	účetní	_	_	ADJ;NOM;POS;PL;FEM	_	_	_	_
+251	jednotky	jednotka	_	_	FEM;NOM;N;PL;POS	_	_	_	_
+252	,	,	_	_	_	_	_	_	_
+253	kterým	který	_	_	DET;DAT;PL	_	_	_	_
+254	tuto	tento	_	_	DET;ACC;SG;FEM	_	_	_	_
+255	povinnost	povinnost	_	_	N;ACC;POS;SG;FEM	_	_	_	_
+256	stanoví	stanovit	_	_	IND;3;FIN;V;ACT;PRS;SG;POS	_	_	_	_
+257	zvláštní	zvláštní	_	_	ADJ;MASC;NOM;SG;INAN;POS	_	_	_	_
+258	právní	právní	_	_	ADJ;MASC;NOM;SG;INAN;POS	_	_	_	_
+259	předpis	předpis	_	_	MASC;NOM;N;SG;INAN;POS	_	_	_	_
+260	.	.	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-007-p74s1
+# text = §_57
+# orig_file_sentence document_01_007#34
+1	§_57	§_57	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-006-p68s11
+# text = Zanikající účetní jednotka nebo účetní jednotka rozdělovaná odštěpením o ocenění majetku a závazků reálnou hodnotou neúčtuje.
+# orig_file_sentence document_01_006#57
+1	Zanikající	zanikající	_	_	NOM;ADJ;FEM;IPFV;SG;V.PTCP;ACT;PRS;POS	_	_	_	_
+2	účetní	účetní	_	_	NOM;ADJ;FEM;SG;POS	_	_	_	_
+3	jednotka	jednotka	_	_	NOM;N;FEM;SG;POS	_	_	_	_
+4	nebo	nebo	_	_	CONJ	_	_	_	_
+5	účetní	účetní	_	_	NOM;ADJ;FEM;SG;POS	_	_	_	_
+6	jednotka	jednotka	_	_	NOM;N;FEM;SG;POS	_	_	_	_
+7	rozdělovaná	rozdělovaný	_	_	NOM;ADJ;FEM;SG;POS	_	_	_	_
+8	odštěpením	odštěpení	_	_	N;SG;NEUT;INS;POS	_	_	_	_
+9	o	o	_	_	ESS;ADP	_	_	_	_
+10	ocenění	ocenění	_	_	N;ESS;SG;NEUT;POS	_	_	_	_
+11	majetku	majetek	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+12	a	a	_	_	CONJ	_	_	_	_
+13	závazků	závazek	_	_	N;INAN;GEN;PL;POS;MASC	_	_	_	_
+14	reálnou	reálný	_	_	ADJ;FEM;SG;INS;POS	_	_	_	_
+15	hodnotou	hodnota	_	_	N;FEM;SG;INS;POS	_	_	_	_
+16	neúčtuje	účtovat	_	_	3;IND;NEG;SG;PRS;ACT;V;FIN	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-001-p10s5
+# text = Dobou použitelnosti se rozumí doba, po kterou je majetek využitelný pro současnou nebo uchovatelný pro další činnost nebo může sloužit jako podklad nebo součást zdokonalovaných nebo jiných postupů a řešení včetně doby ověřování nehmotných výsledků.
+# orig_file_sentence document_01_001#56
+1	Dobou	doba	_	_	N;FEM;SG;INS;POS	_	_	_	_
+2	použitelnosti	použitelnost	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+3	se	se	_	_	PRO;ACC;REFL	_	_	_	_
+4	rozumí	rozumět	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+5	doba	doba	_	_	NOM;N;FEM;SG;POS	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	po	po	_	_	ACC;ADP	_	_	_	_
+8	kterou	který	_	_	FEM;DET;SG;ACC	_	_	_	_
+9	je	být	_	_	3;V;IND;SG;ACT;PRS;FIN;POS	_	_	_	_
+10	majetek	majetek	_	_	NOM;N;INAN;SG;POS;MASC	_	_	_	_
+11	využitelný	využitelný	_	_	NOM;ADJ;INAN;SG;POS;MASC	_	_	_	_
+12	pro	pro	_	_	ACC;ADP	_	_	_	_
+13	současnou	současný	_	_	ADJ;FEM;SG;ACC;POS	_	_	_	_
+14	nebo	nebo	_	_	CONJ	_	_	_	_
+15	uchovatelný	uchovatelný	_	_	ADJ;INAN;SG;ACC;POS;MASC	_	_	_	_
+16	pro	pro	_	_	ACC;ADP	_	_	_	_
+17	další	další	_	_	ADJ;FEM;SG;ACC;POS	_	_	_	_
+18	činnost	činnost	_	_	N;FEM;SG;ACC;POS	_	_	_	_
+19	nebo	nebo	_	_	CONJ	_	_	_	_
+20	může	moci	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+21	sloužit	sloužit	_	_	V;NFIN;POS	_	_	_	_
+22	jako	jako	_	_	CONJ	_	_	_	_
+23	podklad	podklad	_	_	NOM;N;INAN;SG;POS;MASC	_	_	_	_
+24	nebo	nebo	_	_	CONJ	_	_	_	_
+25	součást	součást	_	_	NOM;N;FEM;SG;POS	_	_	_	_
+26	zdokonalovaných	zdokonalovaný	_	_	ADJ;INAN;GEN;PL;POS;MASC	_	_	_	_
+27	nebo	nebo	_	_	CONJ	_	_	_	_
+28	jiných	jiný	_	_	ADJ;INAN;GEN;PL;POS;MASC	_	_	_	_
+29	postupů	postup	_	_	N;INAN;GEN;PL;POS;MASC	_	_	_	_
+30	a	a	_	_	CONJ	_	_	_	_
+31	řešení	řešení	_	_	N;SG;NEUT;GEN;POS	_	_	_	_
+32	včetně	včetně	_	_	ADV	_	_	_	_
+33	doby	doba	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+34	ověřování	ověřování	_	_	N;SG;NEUT;GEN;POS	_	_	_	_
+35	nehmotných	hmotný	_	_	ADJ;INAN;NEG;GEN;PL;MASC	_	_	_	_
+36	výsledků	výsledek	_	_	N;INAN;GEN;PL;POS;MASC	_	_	_	_
+37	.	.	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-006-p67s1
+# text = §_53a
+# orig_file_sentence document_01_006#45
+1	§_53a	§_53a	_	_	_	_	_	_	_
+
+# sent_id = zakon.iso-003-p22s6
+# text = (4) Postup podle odstavců 2 a 3 se použije, pokud to neodporuje přímo použitelnému předpisu Evropské unie nebo zvláštnímu právnímu předpisu.
+# orig_file_sentence document_02_003#58
+1	(4)	(4)	_	_	_	_	_	_	_
+2	Postup	postup	_	_	NOM;N;INAN;SG;POS;MASC	_	_	_	_
+3	podle	podle	_	_	ADP;GEN	_	_	_	_
+4	odstavců	odstavec	_	_	N;INAN;GEN;PL;POS;MASC	_	_	_	_
+5	2	2	_	_	NUM	_	_	_	_
+6	a	a	_	_	CONJ	_	_	_	_
+7	3	3	_	_	NUM	_	_	_	_
+8	se	se	_	_	PRO;ACC;REFL	_	_	_	_
+9	použije	použít	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	pokud	pokud	_	_	CONJ	_	_	_	_
+12	to	ten	_	_	NOM;DET;NEUT;SG	_	_	_	_
+13	neodporuje	odporovat	_	_	3;IND;NEG;SG;PRS;ACT;V;FIN	_	_	_	_
+14	přímo	přímo	_	_	ADV;POS	_	_	_	_
+15	použitelnému	použitelný	_	_	ADJ;INAN;SG;DAT;POS;MASC	_	_	_	_
+16	předpisu	předpis	_	_	N;INAN;SG;DAT;POS;MASC	_	_	_	_
+17	Evropské	evropský	_	_	ADJ;FEM;SG;GEN;POS	_	_	_	_
+18	unie	unie	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+19	nebo	nebo	_	_	CONJ	_	_	_	_
+20	zvláštnímu	zvláštní	_	_	ADJ;INAN;SG;DAT;POS;MASC	_	_	_	_
+21	právnímu	právní	_	_	ADJ;INAN;SG;DAT;POS;MASC	_	_	_	_
+22	předpisu	předpis	_	_	N;INAN;SG;DAT;POS;MASC	_	_	_	_
+23	.	.	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-006-p71s1
+# text = §_55
+# orig_file_sentence document_01_006#76
+1	§_55	§_55	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-004-p41s3
+# text = Položka "O._Ostatní_finanční_náklady" obsahuje zejména kursové ztráty, manka, schodky a škody na finančním majetku a bankovní výlohy.
+# orig_file_sentence document_01_004#12
+1	Položka	položka	_	_	NOM;N;FEM;SG;POS	_	_	_	_
+2	"	"	_	_	_	_	_	_	_
+3	O._Ostatní_finanční_náklady	"O._Ostatní_finanční_náklady"	_	_	_	_	_	_	_
+4	"	"	_	_	_	_	_	_	_
+5	obsahuje	obsahovat	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+6	zejména	zejména	_	_	ADV	_	_	_	_
+7	kursové	kursový	_	_	ADJ;FEM;ACC;PL;POS	_	_	_	_
+8	ztráty	ztráta	_	_	N;FEM;ACC;PL;POS	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	manka	manko	_	_	N;NEUT;ACC;PL;POS	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	schodky	schodek	_	_	N;INAN;ACC;PL;POS;MASC	_	_	_	_
+13	a	a	_	_	CONJ	_	_	_	_
+14	škody	škoda	_	_	N;FEM;ACC;PL;POS	_	_	_	_
+15	na	na	_	_	ESS;ADP	_	_	_	_
+16	finančním	finanční	_	_	ADJ;INAN;ESS;SG;POS;MASC	_	_	_	_
+17	majetku	majetek	_	_	N;INAN;ESS;SG;POS;MASC	_	_	_	_
+18	a	a	_	_	CONJ	_	_	_	_
+19	bankovní	bankovní	_	_	ADJ;FEM;ACC;PL;POS	_	_	_	_
+20	výlohy	výloha	_	_	N;FEM;ACC;PL;POS	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-001-p6s9
+# text = (6) Přehled o změnách vlastního kapitálu je rozpisem položky "A._Vlastní_kapitál" z rozvahy (bilance) a podává informaci o uspořádání jeho položek, které vyjadřují jeho celkovou změnu za účetní období.
+# orig_file_sentence document_01_001#22
+1	(6)	(6)	_	_	_	_	_	_	_
+2	Přehled	přehled	_	_	NOM;N;INAN;SG;POS;MASC	_	_	_	_
+3	o	o	_	_	ESS;ADP	_	_	_	_
+4	změnách	změna	_	_	N;ESS;FEM;PL;POS	_	_	_	_
+5	vlastního	vlastní	_	_	ADJ;INAN;SG;GEN;POS;MASC	_	_	_	_
+6	kapitálu	kapitál	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+7	je	být	_	_	3;V;IND;SG;ACT;PRS;FIN;POS	_	_	_	_
+8	rozpisem	rozpis	_	_	N;INAN;SG;INS;POS;MASC	_	_	_	_
+9	položky	položka	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+10	"	"	_	_	_	_	_	_	_
+11	A._Vlastní_kapitál	"A._Vlastní_kapitál"	_	_	_	_	_	_	_
+12	"	"	_	_	_	_	_	_	_
+13	z	z	_	_	ADP;GEN	_	_	_	_
+14	rozvahy	rozvaha	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+15	(	(	_	_	_	_	_	_	_
+16	bilance	bilance	_	_	NOM;N;FEM;SG;POS	_	_	_	_
+17	)	)	_	_	_	_	_	_	_
+18	a	a	_	_	CONJ	_	_	_	_
+19	podává	podávat	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+20	informaci	informace	_	_	N;FEM;SG;ACC;POS	_	_	_	_
+21	o	o	_	_	ESS;ADP	_	_	_	_
+22	uspořádání	uspořádání	_	_	N;ESS;SG;NEUT;POS	_	_	_	_
+23	jeho	jeho	_	_	PSSS;3;DET	_	_	_	_
+24	položek	položka	_	_	N;FEM;GEN;PL;POS	_	_	_	_
+25	,	,	_	_	_	_	_	_	_
+26	které	který	_	_	NOM;FEM;DET;PL	_	_	_	_
+27	vyjadřují	vyjadřovat	_	_	3;IND;PRS;PL;ACT;V;FIN;POS	_	_	_	_
+28	jeho	jeho	_	_	PSSS;3;DET	_	_	_	_
+29	celkovou	celkový	_	_	ADJ;FEM;SG;ACC;POS	_	_	_	_
+30	změnu	změna	_	_	N;FEM;SG;ACC;POS	_	_	_	_
+31	za	za	_	_	ACC;ADP	_	_	_	_
+32	účetní	účetní	_	_	ADJ;SG;NEUT;ACC;POS	_	_	_	_
+33	období	období	_	_	N;SG;NEUT;ACC;POS	_	_	_	_
+34	.	.	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-002-p11s23
+# text = Neodepsaná část aktivního nebo pasivního oceňovacího rozdílu k nabytému majetku se jednorázově odepíše při vyřazení poslední složky dlouhodobého nehmotného nebo hmotného majetku.
+# orig_file_sentence document_01_002#15
+1	Neodepsaná	odepsaný	_	_	NOM;ADJ;NEG;FEM;SG	_	_	_	_
+2	část	část	_	_	NOM;N;FEM;SG;POS	_	_	_	_
+3	aktivního	aktivní	_	_	ADJ;INAN;SG;GEN;POS;MASC	_	_	_	_
+4	nebo	nebo	_	_	CONJ	_	_	_	_
+5	pasivního	pasivní	_	_	ADJ;INAN;SG;GEN;POS;MASC	_	_	_	_
+6	oceňovacího	oceňovací	_	_	ADJ;INAN;SG;GEN;POS;MASC	_	_	_	_
+7	rozdílu	rozdíl	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+8	k	k	_	_	ADP;DAT	_	_	_	_
+9	nabytému	nabytý	_	_	ADJ;INAN;SG;DAT;POS;MASC	_	_	_	_
+10	majetku	majetek	_	_	N;INAN;SG;DAT;POS;MASC	_	_	_	_
+11	se	se	_	_	PRO;ACC;REFL	_	_	_	_
+12	jednorázově	jednorázově	_	_	ADV;POS	_	_	_	_
+13	odepíše	odepsat	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+14	při	při	_	_	ESS;ADP	_	_	_	_
+15	vyřazení	vyřazení	_	_	N;ESS;SG;NEUT;POS	_	_	_	_
+16	poslední	poslední	_	_	ADJ;FEM;SG;GEN;POS	_	_	_	_
+17	složky	složka	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+18	dlouhodobého	dlouhodobý	_	_	ADJ;INAN;SG;GEN;POS;MASC	_	_	_	_
+19	nehmotného	hmotný	_	_	ADJ;NEG;SG;NEUT;GEN	_	_	_	_
+20	nebo	nebo	_	_	CONJ	_	_	_	_
+21	hmotného	hmotný	_	_	ADJ;INAN;SG;GEN;POS;MASC	_	_	_	_
+22	majetku	majetek	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+23	.	.	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-003-p22s6
+# text = Účetní jednotka uvede položku "B.I.3._Rezerva_na_daň_z_příjmů" ve výši vytvořené rezervy snížené o uhrazené zálohy na daň z příjmů, pokud jsou tyto zálohy nižší než předpokládaná daň.
+# orig_file_sentence document_01_003#25
+1	Účetní	účetní	_	_	NOM;ADJ;FEM;SG;POS	_	_	_	_
+2	jednotka	jednotka	_	_	NOM;N;FEM;SG;POS	_	_	_	_
+3	uvede	uvést	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+4	položku	položka	_	_	N;FEM;SG;ACC;POS	_	_	_	_
+5	"	"	_	_	_	_	_	_	_
+6	B.I.3._Rezerva_na_daň_z_příjmů	"B.I.3._Rezerva_na_daň_z_příjmů"	_	_	_	_	_	_	_
+7	"	"	_	_	_	_	_	_	_
+8	ve	v	_	_	ESS;ADP	_	_	_	_
+9	výši	výše	_	_	N;ESS;FEM;SG;POS	_	_	_	_
+10	vytvořené	vytvořený	_	_	ADJ;FEM;SG;GEN;POS	_	_	_	_
+11	rezervy	rezerva	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+12	snížené	snížený	_	_	ADJ;FEM;SG;GEN;POS	_	_	_	_
+13	o	o	_	_	ACC;ADP	_	_	_	_
+14	uhrazené	uhrazený	_	_	ADJ;FEM;ACC;PL;POS	_	_	_	_
+15	zálohy	záloha	_	_	N;FEM;ACC;PL;POS	_	_	_	_
+16	na	na	_	_	ACC;ADP	_	_	_	_
+17	daň	daň	_	_	N;FEM;SG;ACC;POS	_	_	_	_
+18	z	z	_	_	ADP;GEN	_	_	_	_
+19	příjmů	příjem	_	_	N;INAN;GEN;PL;POS;MASC	_	_	_	_
+20	,	,	_	_	_	_	_	_	_
+21	pokud	pokud	_	_	CONJ	_	_	_	_
+22	jsou	být	_	_	3;V;IND;PL;ACT;PRS;FIN;POS	_	_	_	_
+23	tyto	tento	_	_	NOM;FEM;DET;PL	_	_	_	_
+24	zálohy	záloha	_	_	NOM;N;FEM;PL;POS	_	_	_	_
+25	nižší	nízký	_	_	NOM;ADJ;CMPR;FEM;PL;POS	_	_	_	_
+26	než	než	_	_	CONJ	_	_	_	_
+27	předpokládaná	předpokládaný	_	_	NOM;ADJ;FEM;SG;POS	_	_	_	_
+28	daň	daň	_	_	NOM;N;FEM;SG;POS	_	_	_	_
+29	.	.	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-006-p65s15
+# text = (8) Není-li touto vyhláškou stanoveno jinak, použijí účetní jednotky přiměřeně ustanovení vyhlášky č._501/2002_Sb., kterou se provádějí některá ustanovení zákona_č._563/1991_Sb., o účetnictví, ve znění pozdějších předpisů, pro účetní jednotky, které jsou bankami a jinými finančními institucemi, ve znění pozdějších předpisů.
+# orig_file_sentence document_01_006#39
+1	(8)	(8)	_	_	_	_	_	_	_
+2	Není-li	Není-li	_	_	NEUT;N;POS	_	_	_	_
+3	touto	tento	_	_	FEM;DET;SG;INS	_	_	_	_
+4	vyhláškou	vyhláška	_	_	N;FEM;SG;INS;POS	_	_	_	_
+5	stanoveno	stanovený	_	_	ADJ;SG;NEUT;V.PTCP;PASS;POS	_	_	_	_
+6	jinak	jinak	_	_	ADV	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	použijí	použít	_	_	3;IND;PRS;PL;ACT;V;FIN;POS	_	_	_	_
+9	účetní	účetní	_	_	NOM;ADJ;FEM;PL;POS	_	_	_	_
+10	jednotky	jednotka	_	_	NOM;N;FEM;PL;POS	_	_	_	_
+11	přiměřeně	přiměřeně	_	_	ADV;POS	_	_	_	_
+12	ustanovení	ustanovení	_	_	N;SG;NEUT;ACC;POS	_	_	_	_
+13	vyhlášky	vyhláška	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+14	č._501/2002_Sb.	č._501/2002_Sb.	_	_	_	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	kterou	který	_	_	FEM;DET;SG;INS	_	_	_	_
+17	se	se	_	_	PRO;ACC;REFL	_	_	_	_
+18	provádějí	provádět	_	_	3;IND;PRS;PL;ACT;V;FIN;POS	_	_	_	_
+19	některá	některý	_	_	NOM;DET;NEUT;PL	_	_	_	_
+20	ustanovení	ustanovení	_	_	NOM;N;NEUT;PL;POS	_	_	_	_
+21	zákona_č._563/1991_Sb.	zákona_č._563/1991_Sb.	_	_	_	_	_	_	_
+22	,	,	_	_	_	_	_	_	_
+23	o	o	_	_	ESS;ADP	_	_	_	_
+24	účetnictví	účetnictví	_	_	N;ESS;SG;NEUT;POS	_	_	_	_
+25	,	,	_	_	_	_	_	_	_
+26	ve	v	_	_	ESS;ADP	_	_	_	_
+27	znění	znění	_	_	N;ESS;SG;NEUT;POS	_	_	_	_
+28	pozdějších	pozdní	_	_	ADJ;CMPR;INAN;GEN;PL;POS;MASC	_	_	_	_
+29	předpisů	předpis	_	_	N;INAN;GEN;PL;POS;MASC	_	_	_	_
+30	,	,	_	_	_	_	_	_	_
+31	pro	pro	_	_	ACC;ADP	_	_	_	_
+32	účetní	účetní	_	_	ADJ;FEM;ACC;PL;POS	_	_	_	_
+33	jednotky	jednotka	_	_	N;FEM;ACC;PL;POS	_	_	_	_
+34	,	,	_	_	_	_	_	_	_
+35	které	který	_	_	NOM;FEM;DET;PL	_	_	_	_
+36	jsou	být	_	_	3;V;IND;PL;ACT;PRS;FIN;POS	_	_	_	_
+37	bankami	banka	_	_	N;FEM;INS;PL;POS	_	_	_	_
+38	a	a	_	_	CONJ	_	_	_	_
+39	jinými	jiný	_	_	ADJ;FEM;INS;PL;POS	_	_	_	_
+40	finančními	finanční	_	_	ADJ;FEM;INS;PL;POS	_	_	_	_
+41	institucemi	instituce	_	_	N;FEM;INS;PL;POS	_	_	_	_
+42	,	,	_	_	_	_	_	_	_
+43	ve	v	_	_	ESS;ADP	_	_	_	_
+44	znění	znění	_	_	N;ESS;SG;NEUT;POS	_	_	_	_
+45	pozdějších	pozdní	_	_	ADJ;CMPR;INAN;GEN;PL;POS;MASC	_	_	_	_
+46	předpisů	předpis	_	_	N;INAN;GEN;PL;POS;MASC	_	_	_	_
+47	.	.	_	_	_	_	_	_	_
+
+# sent_id = zakon.iso-004-p26s5
+# text = (3) Povinnost podrobit se sestavení konsolidované účetní závěrky má, za podmínek stanovených tímto zákonem a prováděcími právními předpisy, osoba bez ohledu na její sídlo, pokud je a) ovládanou osobou, s výjimkou ovládaných osob, ve kterých je vykonáván společný vliv podle odstavce 4 (dále jen "konsolidovaná_účetní_jednotka"), b) osobou, ve které konsolidující nebo konsolidovaná účetní jednotka vykonává společný vliv (dále jen "účetní_jednotka_pod_společným_vlivem"), nebo c) osobou, ve které konsolidující účetní jednotka vykonává podstatný vliv (dále jen "účetní_jednotka_přidružená").
+# orig_file_sentence document_02_004#32
+1	(3)	(3)	_	_	_	_	_	_	_
+2	Povinnost	povinnost	_	_	FEM;NOM;N;SG;POS	_	_	_	_
+3	podrobit	podrobit	_	_	NFIN;V;POS	_	_	_	_
+4	se	se	_	_	PRO;REFL;ACC	_	_	_	_
+5	sestavení	sestavení	_	_	NOM;N;SG;NEUT;POS	_	_	_	_
+6	konsolidované	konsolidovaný	_	_	ADJ;GEN;POS;SG;FEM	_	_	_	_
+7	účetní	účetní	_	_	ADJ;GEN;POS;SG;FEM	_	_	_	_
+8	závěrky	závěrka	_	_	FEM;N;GEN;SG;POS	_	_	_	_
+9	má	mít	_	_	IND;3;FIN;V;ACT;PRS;SG;POS	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	za	za	_	_	GEN;ADP	_	_	_	_
+12	podmínek	podmínka	_	_	FEM;N;GEN;PL;POS	_	_	_	_
+13	stanovených	stanovený	_	_	ADJ;GEN;POS;PL;FEM	_	_	_	_
+14	tímto	tento	_	_	DET;{MASC/NEUT};INS;SG	_	_	_	_
+15	zákonem	zákon	_	_	MASC;N;INS;SG;INAN;POS	_	_	_	_
+16	a	a	_	_	CONJ	_	_	_	_
+17	prováděcími	prováděcí	_	_	ADJ;MASC;INS;PL;INAN;POS	_	_	_	_
+18	právními	právní	_	_	ADJ;MASC;INS;PL;INAN;POS	_	_	_	_
+19	předpisy	předpis	_	_	MASC;N;INS;PL;INAN;POS	_	_	_	_
+20	,	,	_	_	_	_	_	_	_
+21	osoba	osoba	_	_	FEM;NOM;N;SG;POS	_	_	_	_
+22	bez	bez	_	_	GEN;ADP	_	_	_	_
+23	ohledu	ohled	_	_	MASC;N;GEN;SG;INAN;POS	_	_	_	_
+24	na	na	_	_	ADP;ACC	_	_	_	_
+25	její	jeho	_	_	PSSS;DET;3;ACC;SG;NEUT	_	_	_	_
+26	sídlo	sídlo	_	_	N;ACC;SG;NEUT;POS	_	_	_	_
+27	,	,	_	_	_	_	_	_	_
+28	pokud	pokud	_	_	CONJ	_	_	_	_
+29	je	být	_	_	IND;3;FIN;ACT;PRS;SG;V;POS	_	_	_	_
+30	a)	a)	_	_	_	_	_	_	_
+31	ovládanou	ovládaný	_	_	ADJ;INS;POS;SG;FEM	_	_	_	_
+32	osobou	osoba	_	_	FEM;N;INS;SG;POS	_	_	_	_
+33	,	,	_	_	_	_	_	_	_
+34	s	s	_	_	ADP;INS	_	_	_	_
+35	výjimkou	výjimka	_	_	FEM;N;INS;SG;POS	_	_	_	_
+36	ovládaných	ovládaný	_	_	ADJ;GEN;POS;PL;FEM	_	_	_	_
+37	osob	osoba	_	_	FEM;N;GEN;PL;POS	_	_	_	_
+38	,	,	_	_	_	_	_	_	_
+39	ve	v	_	_	ESS;ADP	_	_	_	_
+40	kterých	který	_	_	DET;ESS;PL	_	_	_	_
+41	je	být	_	_	IND;3;FIN;ACT;PRS;SG;V;POS	_	_	_	_
+42	vykonáván	vykonávaný	_	_	ADJ;MASC;V.PTCP;SG;PASS;POS	_	_	_	_
+43	společný	společný	_	_	ADJ;MASC;NOM;SG;INAN;POS	_	_	_	_
+44	vliv	vliv	_	_	MASC;NOM;N;SG;INAN;POS	_	_	_	_
+45	podle	podle	_	_	GEN;ADP	_	_	_	_
+46	odstavce	odstavec	_	_	MASC;N;GEN;SG;INAN;POS	_	_	_	_
+47	4	4	_	_	NUM	_	_	_	_
+48	(	(	_	_	_	_	_	_	_
+49	dále	dále	_	_	ADV	_	_	_	_
+50	jen	jen	_	_	PART	_	_	_	_
+51	"	"	_	_	_	_	_	_	_
+52	konsolidovaná_účetní_jednotka	"konsolidovaná_účetní_jednotka"	_	_	_	_	_	_	_
+53	"	"	_	_	_	_	_	_	_
+54	)	)	_	_	_	_	_	_	_
+55	,	,	_	_	_	_	_	_	_
+56	b)	b)	_	_	_	_	_	_	_
+57	osobou	osoba	_	_	FEM;N;INS;SG;POS	_	_	_	_
+58	,	,	_	_	_	_	_	_	_
+59	ve	v	_	_	ESS;ADP	_	_	_	_
+60	které	který	_	_	DET;FEM;SG;ESS	_	_	_	_
+61	konsolidující	konsolidující	_	_	ADJ;MASC;NOM;IPFV;ANIM;ACT;V.PTCP;PRS;SG;POS	_	_	_	_
+62	nebo	nebo	_	_	CONJ	_	_	_	_
+63	konsolidovaná	konsolidovaný	_	_	ADJ;NOM;POS;SG;FEM	_	_	_	_
+64	účetní	účetní	_	_	ADJ;NOM;POS;SG;FEM	_	_	_	_
+65	jednotka	jednotka	_	_	FEM;NOM;N;SG;POS	_	_	_	_
+66	vykonává	vykonávat	_	_	IND;3;FIN;V;ACT;PRS;SG;POS	_	_	_	_
+67	společný	společný	_	_	ADJ;MASC;ACC;SG;INAN;POS	_	_	_	_
+68	vliv	vliv	_	_	MASC;N;ACC;SG;INAN;POS	_	_	_	_
+69	(	(	_	_	_	_	_	_	_
+70	dále	dále	_	_	ADV	_	_	_	_
+71	jen	jen	_	_	PART	_	_	_	_
+72	"	"	_	_	_	_	_	_	_
+73	účetní_jednotka_pod_společným_vlivem	"účetní_jednotka_pod_společným_vlivem"	_	_	_	_	_	_	_
+74	"	"	_	_	_	_	_	_	_
+75	)	)	_	_	_	_	_	_	_
+76	,	,	_	_	_	_	_	_	_
+77	nebo	nebo	_	_	CONJ	_	_	_	_
+78	c)	c)	_	_	_	_	_	_	_
+79	osobou	osoba	_	_	FEM;N;INS;SG;POS	_	_	_	_
+80	,	,	_	_	_	_	_	_	_
+81	ve	v	_	_	ESS;ADP	_	_	_	_
+82	které	který	_	_	DET;FEM;SG;ESS	_	_	_	_
+83	konsolidující	konsolidující	_	_	ADJ;NOM;IPFV;ACT;POS;V.PTCP;PRS;SG;FEM	_	_	_	_
+84	účetní	účetní	_	_	ADJ;NOM;POS;SG;FEM	_	_	_	_
+85	jednotka	jednotka	_	_	FEM;NOM;N;SG;POS	_	_	_	_
+86	vykonává	vykonávat	_	_	IND;3;FIN;V;ACT;PRS;SG;POS	_	_	_	_
+87	podstatný	podstatný	_	_	ADJ;MASC;ACC;SG;INAN;POS	_	_	_	_
+88	vliv	vliv	_	_	MASC;N;ACC;SG;INAN;POS	_	_	_	_
+89	(	(	_	_	_	_	_	_	_
+90	dále	dále	_	_	ADV	_	_	_	_
+91	jen	jen	_	_	PART	_	_	_	_
+92	"	"	_	_	_	_	_	_	_
+93	účetní_jednotka_přidružená	"účetní_jednotka_přidružená"	_	_	_	_	_	_	_
+94	"	"	_	_	_	_	_	_	_
+95	)	)	_	_	_	_	_	_	_
+96	.	.	_	_	_	_	_	_	_
+
+# sent_id = zakon.iso-003-p18s21
+# text = (8) Pokud právní předpisy stanoví účetní jednotce povinnost sestavit řádnou nebo mimořádnou účetní závěrku a zároveň mezitímní účetní závěrku, mezitímní účetní závěrka se nesestavuje.
+# orig_file_sentence document_02_003#16
+1	(8)	(8)	_	_	_	_	_	_	_
+2	Pokud	pokud	_	_	CONJ	_	_	_	_
+3	právní	právní	_	_	NOM;ADJ;INAN;PL;POS;MASC	_	_	_	_
+4	předpisy	předpis	_	_	NOM;N;INAN;PL;POS;MASC	_	_	_	_
+5	stanoví	stanovit	_	_	3;IND;PRS;PL;ACT;V;FIN;POS	_	_	_	_
+6	účetní	účetní	_	_	ADJ;FEM;SG;DAT;POS	_	_	_	_
+7	jednotce	jednotka	_	_	N;FEM;SG;DAT;POS	_	_	_	_
+8	povinnost	povinnost	_	_	N;FEM;SG;ACC;POS	_	_	_	_
+9	sestavit	sestavit	_	_	V;NFIN;POS	_	_	_	_
+10	řádnou	řádný	_	_	ADJ;FEM;SG;ACC;POS	_	_	_	_
+11	nebo	nebo	_	_	CONJ	_	_	_	_
+12	mimořádnou	mimořádný	_	_	ADJ;FEM;SG;ACC;POS	_	_	_	_
+13	účetní	účetní	_	_	ADJ;FEM;SG;ACC;POS	_	_	_	_
+14	závěrku	závěrka	_	_	N;FEM;SG;ACC;POS	_	_	_	_
+15	a	a	_	_	CONJ	_	_	_	_
+16	zároveň	zároveň	_	_	ADV	_	_	_	_
+17	mezitímní	mezitímní	_	_	ADJ;FEM;SG;ACC;POS	_	_	_	_
+18	účetní	účetní	_	_	ADJ;FEM;SG;ACC;POS	_	_	_	_
+19	závěrku	závěrka	_	_	N;FEM;SG;ACC;POS	_	_	_	_
+20	,	,	_	_	_	_	_	_	_
+21	mezitímní	mezitímní	_	_	NOM;ADJ;FEM;SG;POS	_	_	_	_
+22	účetní	účetní	_	_	NOM;ADJ;FEM;SG;POS	_	_	_	_
+23	závěrka	závěrka	_	_	NOM;N;FEM;SG;POS	_	_	_	_
+24	se	se	_	_	PRO;ACC;REFL	_	_	_	_
+25	nesestavuje	sestavovat	_	_	3;IND;NEG;SG;PRS;ACT;V;FIN	_	_	_	_
+26	.	.	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-008-p85s17
+# text = Informace o této skutečnosti konsolidující účetní jednotka uvede v příloze v konsolidované účetní závěrce.
+# orig_file_sentence document_01_008#40
+1	Informace	informace	_	_	N;FEM;ACC;PL;POS	_	_	_	_
+2	o	o	_	_	ESS;ADP	_	_	_	_
+3	této	tento	_	_	ESS;FEM;DET;SG	_	_	_	_
+4	skutečnosti	skutečnost	_	_	N;ESS;FEM;SG;POS	_	_	_	_
+5	konsolidující	konsolidující	_	_	NOM;ADJ;FEM;IPFV;SG;V.PTCP;ACT;PRS;POS	_	_	_	_
+6	účetní	účetní	_	_	NOM;ADJ;FEM;SG;POS	_	_	_	_
+7	jednotka	jednotka	_	_	NOM;N;FEM;SG;POS	_	_	_	_
+8	uvede	uvést	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+9	v	v	_	_	ESS;ADP	_	_	_	_
+10	příloze	příloha	_	_	N;ESS;FEM;SG;POS	_	_	_	_
+11	v	v	_	_	ESS;ADP	_	_	_	_
+12	konsolidované	konsolidovaný	_	_	ADJ;ESS;FEM;SG;POS	_	_	_	_
+13	účetní	účetní	_	_	ADJ;ESS;FEM;SG;POS	_	_	_	_
+14	závěrce	závěrka	_	_	N;ESS;FEM;SG;POS	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-004-p48s47
+# text = (13) Účetní jednotka, která je právnickou osobou a překročila ke konci rozvahového dne, za který se účetní závěrka sestavuje, alespoň dvě ze tří kritérií uvedených v odstavci 9 písm._c), dále v příloze uvede a) informaci o rozčlenění tržeb z prodeje zboží, výrobků a služeb podle kategorií činností a podle zeměpisných trhů, pokud se tyto kategorie a trhy mezi sebou podstatně liší z hlediska způsobu, kterým je organizován prodej zboží a výrobků a poskytování služeb spadajících do běžné činnosti účetní jednotky, b) vysvětlení částky vykázané v položce "B.I.1._Zřizovací_výdaje".
+# orig_file_sentence document_01_005#9
+1	(13)	(13)	_	_	_	_	_	_	_
+2	Účetní	účetní	_	_	NOM;ADJ;FEM;SG;POS	_	_	_	_
+3	jednotka	jednotka	_	_	NOM;N;FEM;SG;POS	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	která	který	_	_	NOM;FEM;DET;SG	_	_	_	_
+6	je	být	_	_	3;V;IND;SG;ACT;PRS;FIN;POS	_	_	_	_
+7	právnickou	právnický	_	_	ADJ;FEM;SG;INS;POS	_	_	_	_
+8	osobou	osoba	_	_	N;FEM;SG;INS;POS	_	_	_	_
+9	a	a	_	_	CONJ	_	_	_	_
+10	překročila	překročit	_	_	{PL/SG};{FEM/NEUT};V.PTCP;ACT;V;PST;POS	_	_	_	_
+11	ke	k	_	_	ADP;DAT	_	_	_	_
+12	konci	konec	_	_	N;INAN;SG;DAT;POS;MASC	_	_	_	_
+13	rozvahového	rozvahový	_	_	ADJ;INAN;SG;GEN;POS;MASC	_	_	_	_
+14	dne	den	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	za	za	_	_	ACC;ADP	_	_	_	_
+17	který	který	_	_	INAN;DET;SG;ACC;MASC	_	_	_	_
+18	se	se	_	_	PRO;ACC;REFL	_	_	_	_
+19	účetní	účetní	_	_	NOM;ADJ;FEM;SG;POS	_	_	_	_
+20	závěrka	závěrka	_	_	NOM;N;FEM;SG;POS	_	_	_	_
+21	sestavuje	sestavovat	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+22	,	,	_	_	_	_	_	_	_
+23	alespoň	alespoň	_	_	ADV	_	_	_	_
+24	dvě	dva	_	_	NOM;{FEM/NEUT};NUM;PL	_	_	_	_
+25	ze	z	_	_	ADP;GEN	_	_	_	_
+26	tří	tři	_	_	GEN;NUM;PL	_	_	_	_
+27	kritérií	kritérium	_	_	N;NEUT;GEN;PL;POS	_	_	_	_
+28	uvedených	uvedený	_	_	ADJ;NEUT;GEN;PL;POS	_	_	_	_
+29	v	v	_	_	ESS;ADP	_	_	_	_
+30	odstavci	odstavec	_	_	N;INAN;ESS;SG;POS;MASC	_	_	_	_
+31	9	9	_	_	NUM	_	_	_	_
+32	písm._c)	písm._c)	_	_	_	_	_	_	_
+33	,	,	_	_	_	_	_	_	_
+34	dále	dále	_	_	ADV	_	_	_	_
+35	v	v	_	_	ESS;ADP	_	_	_	_
+36	příloze	příloha	_	_	N;ESS;FEM;SG;POS	_	_	_	_
+37	uvede	uvést	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+38	a)	a)	_	_	_	_	_	_	_
+39	informaci	informace	_	_	N;FEM;SG;ACC;POS	_	_	_	_
+40	o	o	_	_	ESS;ADP	_	_	_	_
+41	rozčlenění	rozčlenění	_	_	N;ESS;SG;NEUT;POS	_	_	_	_
+42	tržeb	tržba	_	_	N;FEM;GEN;PL;POS	_	_	_	_
+43	z	z	_	_	ADP;GEN	_	_	_	_
+44	prodeje	prodej	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+45	zboží	zboží	_	_	N;SG;NEUT;GEN;POS	_	_	_	_
+46	,	,	_	_	_	_	_	_	_
+47	výrobků	výrobek	_	_	N;INAN;GEN;PL;POS;MASC	_	_	_	_
+48	a	a	_	_	CONJ	_	_	_	_
+49	služeb	služba	_	_	N;FEM;GEN;PL;POS	_	_	_	_
+50	podle	podle	_	_	ADP;GEN	_	_	_	_
+51	kategorií	kategorie	_	_	N;FEM;GEN;PL;POS	_	_	_	_
+52	činností	činnost	_	_	N;FEM;GEN;PL;POS	_	_	_	_
+53	a	a	_	_	CONJ	_	_	_	_
+54	podle	podle	_	_	ADP;GEN	_	_	_	_
+55	zeměpisných	zeměpisný	_	_	ADJ;INAN;GEN;PL;POS;MASC	_	_	_	_
+56	trhů	trh	_	_	N;INAN;GEN;PL;POS;MASC	_	_	_	_
+57	,	,	_	_	_	_	_	_	_
+58	pokud	pokud	_	_	CONJ	_	_	_	_
+59	se	se	_	_	PRO;ACC;REFL	_	_	_	_
+60	tyto	tento	_	_	NOM;FEM;DET;PL	_	_	_	_
+61	kategorie	kategorie	_	_	NOM;N;FEM;PL;POS	_	_	_	_
+62	a	a	_	_	CONJ	_	_	_	_
+63	trhy	trh	_	_	NOM;N;INAN;PL;POS;MASC	_	_	_	_
+64	mezi	mezi	_	_	ADP;INS	_	_	_	_
+65	sebou	se	_	_	REFL;PRO;INS	_	_	_	_
+66	podstatně	podstatně	_	_	ADV;POS	_	_	_	_
+67	liší	lišit	_	_	3;IND;PRS;PL;ACT;V;FIN;POS	_	_	_	_
+68	z	z	_	_	ADP;GEN	_	_	_	_
+69	hlediska	hledisko	_	_	N;SG;NEUT;GEN;POS	_	_	_	_
+70	způsobu	způsob	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+71	,	,	_	_	_	_	_	_	_
+72	kterým	který	_	_	{MASC/NEUT};DET;SG;INS	_	_	_	_
+73	je	být	_	_	3;V;IND;SG;ACT;PRS;FIN;POS	_	_	_	_
+74	organizován	organizovaný	_	_	ADJ;SG;V.PTCP;PASS;POS;MASC	_	_	_	_
+75	prodej	prodej	_	_	NOM;N;INAN;SG;POS;MASC	_	_	_	_
+76	zboží	zboží	_	_	N;SG;NEUT;GEN;POS	_	_	_	_
+77	a	a	_	_	CONJ	_	_	_	_
+78	výrobků	výrobek	_	_	N;INAN;GEN;PL;POS;MASC	_	_	_	_
+79	a	a	_	_	CONJ	_	_	_	_
+80	poskytování	poskytování	_	_	N;SG;NEUT;GEN;POS	_	_	_	_
+81	služeb	služba	_	_	N;FEM;GEN;PL;POS	_	_	_	_
+82	spadajících	spadající	_	_	ADJ;FEM;IPFV;GEN;V.PTCP;PL;ACT;PRS;POS	_	_	_	_
+83	do	do	_	_	ADP;GEN	_	_	_	_
+84	běžné	běžný	_	_	ADJ;FEM;SG;GEN;POS	_	_	_	_
+85	činnosti	činnost	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+86	účetní	účetní	_	_	ADJ;FEM;SG;GEN;POS	_	_	_	_
+87	jednotky	jednotka	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+88	,	,	_	_	_	_	_	_	_
+89	b)	b)	_	_	_	_	_	_	_
+90	vysvětlení	vysvětlení	_	_	NOM;N;SG;NEUT;POS	_	_	_	_
+91	částky	částka	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+92	vykázané	vykázaný	_	_	ADJ;FEM;SG;GEN;POS	_	_	_	_
+93	v	v	_	_	ESS;ADP	_	_	_	_
+94	položce	položka	_	_	N;ESS;FEM;SG;POS	_	_	_	_
+95	"	"	_	_	_	_	_	_	_
+96	B.I.1._Zřizovací_výdaje	"B.I.1._Zřizovací_výdaje"	_	_	_	_	_	_	_
+97	"	"	_	_	_	_	_	_	_
+98	.	.	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-007-p72s14
+# text = (4) Pořizovací cenou ložiska na jednotlivém pozemku je kladný rozdíl mezi pořizovací cenou pozemku s ložiskem a cenou tohoto pozemku podle právního předpisu platného v době koupě pozemku nebo v době nabytí pozemku vkladem.
+# orig_file_sentence document_01_007#9
+1	(4)	(4)	_	_	_	_	_	_	_
+2	Pořizovací	pořizovací	_	_	ADJ;FEM;SG;INS;POS	_	_	_	_
+3	cenou	cena	_	_	N;FEM;SG;INS;POS	_	_	_	_
+4	ložiska	ložisko	_	_	N;SG;NEUT;GEN;POS	_	_	_	_
+5	na	na	_	_	ESS;ADP	_	_	_	_
+6	jednotlivém	jednotlivý	_	_	ADJ;INAN;ESS;SG;POS;MASC	_	_	_	_
+7	pozemku	pozemek	_	_	N;INAN;ESS;SG;POS;MASC	_	_	_	_
+8	je	být	_	_	3;V;IND;SG;ACT;PRS;FIN;POS	_	_	_	_
+9	kladný	kladný	_	_	NOM;ADJ;INAN;SG;POS;MASC	_	_	_	_
+10	rozdíl	rozdíl	_	_	NOM;N;INAN;SG;POS;MASC	_	_	_	_
+11	mezi	mezi	_	_	ADP;INS	_	_	_	_
+12	pořizovací	pořizovací	_	_	ADJ;FEM;SG;INS;POS	_	_	_	_
+13	cenou	cena	_	_	N;FEM;SG;INS;POS	_	_	_	_
+14	pozemku	pozemek	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+15	s	s	_	_	ADP;INS	_	_	_	_
+16	ložiskem	ložisko	_	_	N;SG;NEUT;INS;POS	_	_	_	_
+17	a	a	_	_	CONJ	_	_	_	_
+18	cenou	cena	_	_	N;FEM;SG;INS;POS	_	_	_	_
+19	tohoto	tento	_	_	{MASC/NEUT};DET;SG;GEN	_	_	_	_
+20	pozemku	pozemek	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+21	podle	podle	_	_	ADP;GEN	_	_	_	_
+22	právního	právní	_	_	ADJ;INAN;SG;GEN;POS;MASC	_	_	_	_
+23	předpisu	předpis	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+24	platného	platný	_	_	ADJ;INAN;SG;GEN;POS;MASC	_	_	_	_
+25	v	v	_	_	ESS;ADP	_	_	_	_
+26	době	doba	_	_	N;ESS;FEM;SG;POS	_	_	_	_
+27	koupě	koupě	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+28	pozemku	pozemek	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+29	nebo	nebo	_	_	CONJ	_	_	_	_
+30	v	v	_	_	ESS;ADP	_	_	_	_
+31	době	doba	_	_	N;ESS;FEM;SG;POS	_	_	_	_
+32	nabytí	nabytí	_	_	N;SG;NEUT;GEN;POS	_	_	_	_
+33	pozemku	pozemek	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+34	vkladem	vklad	_	_	N;INAN;SG;INS;POS;MASC	_	_	_	_
+35	.	.	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-007-p77s3
+# text = (1) Kursové rozdíly vznikající při ocenění majetku a závazků uvedených v §_4_odst._12_zákona k okamžiku uskutečnění účetního případu, ke konci rozvahového dne nebo k jinému okamžiku, k němuž se sestavuje účetní závěrka, se účtují na vrub účtu finančních nákladů nebo ve prospěch účtu finančních výnosů.
+# orig_file_sentence document_01_007#66
+1	(1)	(1)	_	_	_	_	_	_	_
+2	Kursové	kursový	_	_	NOM;ADJ;INAN;PL;POS;MASC	_	_	_	_
+3	rozdíly	rozdíl	_	_	NOM;N;INAN;PL;POS;MASC	_	_	_	_
+4	vznikající	vznikající	_	_	NOM;ADJ;INAN;IPFV;V.PTCP;PL;ACT;PRS;POS;MASC	_	_	_	_
+5	při	při	_	_	ESS;ADP	_	_	_	_
+6	ocenění	ocenění	_	_	N;ESS;SG;NEUT;POS	_	_	_	_
+7	majetku	majetek	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+8	a	a	_	_	CONJ	_	_	_	_
+9	závazků	závazek	_	_	N;INAN;GEN;PL;POS;MASC	_	_	_	_
+10	uvedených	uvedený	_	_	ADJ;INAN;GEN;PL;POS;MASC	_	_	_	_
+11	v	v	_	_	ESS;ADP	_	_	_	_
+12	§_4_odst._12_zákona	§_4_odst._12_zákona	_	_	_	_	_	_	_
+13	k	k	_	_	ADP;DAT	_	_	_	_
+14	okamžiku	okamžik	_	_	N;INAN;SG;DAT;POS;MASC	_	_	_	_
+15	uskutečnění	uskutečnění	_	_	N;SG;NEUT;GEN;POS	_	_	_	_
+16	účetního	účetní	_	_	ADJ;INAN;SG;GEN;POS;MASC	_	_	_	_
+17	případu	případ	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	ke	k	_	_	ADP;DAT	_	_	_	_
+20	konci	konec	_	_	N;INAN;SG;DAT;POS;MASC	_	_	_	_
+21	rozvahového	rozvahový	_	_	ADJ;INAN;SG;GEN;POS;MASC	_	_	_	_
+22	dne	den	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+23	nebo	nebo	_	_	CONJ	_	_	_	_
+24	k	k	_	_	ADP;DAT	_	_	_	_
+25	jinému	jiný	_	_	ADJ;INAN;SG;DAT;POS;MASC	_	_	_	_
+26	okamžiku	okamžik	_	_	N;INAN;SG;DAT;POS;MASC	_	_	_	_
+27	,	,	_	_	_	_	_	_	_
+28	k	k	_	_	ADP;DAT	_	_	_	_
+29	němuž	jenž	_	_	{MASC/NEUT};PRO;SG;DAT	_	_	_	_
+30	se	se	_	_	PRO;ACC;REFL	_	_	_	_
+31	sestavuje	sestavovat	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+32	účetní	účetní	_	_	NOM;ADJ;FEM;SG;POS	_	_	_	_
+33	závěrka	závěrka	_	_	NOM;N;FEM;SG;POS	_	_	_	_
+34	,	,	_	_	_	_	_	_	_
+35	se	se	_	_	PRO;ACC;REFL	_	_	_	_
+36	účtují	účtovat	_	_	3;IND;PRS;PL;ACT;V;FIN;POS	_	_	_	_
+37	na	na	_	_	ACC;ADP	_	_	_	_
+38	vrub	vrub	_	_	N;INAN;SG;ACC;POS;MASC	_	_	_	_
+39	účtu	účet	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+40	finančních	finanční	_	_	ADJ;INAN;GEN;PL;POS;MASC	_	_	_	_
+41	nákladů	náklad	_	_	N;INAN;GEN;PL;POS;MASC	_	_	_	_
+42	nebo	nebo	_	_	CONJ	_	_	_	_
+43	ve	v	_	_	ACC;ADP	_	_	_	_
+44	prospěch	prospěch	_	_	N;INAN;SG;ACC;POS;MASC	_	_	_	_
+45	účtu	účet	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+46	finančních	finanční	_	_	ADJ;INAN;GEN;PL;POS;MASC	_	_	_	_
+47	výnosů	výnos	_	_	N;INAN;GEN;PL;POS;MASC	_	_	_	_
+48	.	.	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-007-p72s5
+# text = Pro odpisování dlouhodobého hmotného majetku lze použít metodu stanovenou v §_56a.
+# orig_file_sentence document_01_007#1
+1	Pro	pro	_	_	ACC;ADP	_	_	_	_
+2	odpisování	odpisování	_	_	N;SG;NEUT;ACC;POS	_	_	_	_
+3	dlouhodobého	dlouhodobý	_	_	ADJ;INAN;SG;GEN;POS;MASC	_	_	_	_
+4	hmotného	hmotný	_	_	ADJ;INAN;SG;GEN;POS;MASC	_	_	_	_
+5	majetku	majetek	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+6	lze	lze	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+7	použít	použít	_	_	V;NFIN;POS	_	_	_	_
+8	metodu	metoda	_	_	N;FEM;SG;ACC;POS	_	_	_	_
+9	stanovenou	stanovený	_	_	ADJ;FEM;SG;ACC;POS	_	_	_	_
+10	v	v	_	_	ESS;ADP	_	_	_	_
+11	§_56a	§_56a	_	_	_	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-004-p48s12
+# text = (4) V příloze uvede účetní jednotka výši půjček, úvěrů, s uvedením úrokové sazby a hlavních podmínek, poskytnutá zajištění a ostatní plnění jak v peněžní, tak v nepeněžní formě osobám, které jsou statutárním orgánem, členům statutárních nebo jiných řídících a dozorčích orgánů včetně bývalým osobám a členům těchto orgánů v úhrnné výši odděleně za jednotlivé kategorie osob.
+# orig_file_sentence document_01_004#47
+1	(4)	(4)	_	_	_	_	_	_	_
+2	V	v	_	_	ESS;ADP	_	_	_	_
+3	příloze	příloha	_	_	N;ESS;FEM;SG;POS	_	_	_	_
+4	uvede	uvést	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+5	účetní	účetní	_	_	NOM;ADJ;FEM;SG;POS	_	_	_	_
+6	jednotka	jednotka	_	_	NOM;N;FEM;SG;POS	_	_	_	_
+7	výši	výše	_	_	N;FEM;SG;ACC;POS	_	_	_	_
+8	půjček	půjčka	_	_	N;FEM;GEN;PL;POS	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	úvěrů	úvěr	_	_	N;INAN;GEN;PL;POS;MASC	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	s	s	_	_	ADP;INS	_	_	_	_
+13	uvedením	uvedení	_	_	N;SG;NEUT;INS;POS	_	_	_	_
+14	úrokové	úrokový	_	_	ADJ;FEM;SG;GEN;POS	_	_	_	_
+15	sazby	sazba	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+16	a	a	_	_	CONJ	_	_	_	_
+17	hlavních	hlavní	_	_	ADJ;FEM;GEN;PL;POS	_	_	_	_
+18	podmínek	podmínka	_	_	N;FEM;GEN;PL;POS	_	_	_	_
+19	,	,	_	_	_	_	_	_	_
+20	poskytnutá	poskytnutý	_	_	ADJ;NEUT;ACC;PL;POS	_	_	_	_
+21	zajištění	zajištění	_	_	N;NEUT;ACC;PL;POS	_	_	_	_
+22	a	a	_	_	CONJ	_	_	_	_
+23	ostatní	ostatní	_	_	ADJ;NEUT;ACC;PL;POS	_	_	_	_
+24	plnění	plnění	_	_	N;NEUT;ACC;PL;POS	_	_	_	_
+25	jak	jak	_	_	CONJ	_	_	_	_
+26	v	v	_	_	ESS;ADP	_	_	_	_
+27	peněžní	peněžní	_	_	ADJ;ESS;FEM;SG;POS	_	_	_	_
+28	,	,	_	_	_	_	_	_	_
+29	tak	tak	_	_	ADV	_	_	_	_
+30	v	v	_	_	ESS;ADP	_	_	_	_
+31	nepeněžní	peněžní	_	_	ADJ;NEG;ESS;FEM;SG	_	_	_	_
+32	formě	forma	_	_	N;ESS;FEM;SG;POS	_	_	_	_
+33	osobám	osoba	_	_	N;FEM;DAT;PL;POS	_	_	_	_
+34	,	,	_	_	_	_	_	_	_
+35	které	který	_	_	NOM;FEM;DET;PL	_	_	_	_
+36	jsou	být	_	_	3;V;IND;PL;ACT;PRS;FIN;POS	_	_	_	_
+37	statutárním	statutární	_	_	ADJ;INAN;SG;INS;POS;MASC	_	_	_	_
+38	orgánem	orgán	_	_	N;INAN;SG;INS;POS;MASC	_	_	_	_
+39	,	,	_	_	_	_	_	_	_
+40	členům	člen	_	_	N;ANIM;DAT;PL;POS;MASC	_	_	_	_
+41	statutárních	statutární	_	_	ADJ;INAN;GEN;PL;POS;MASC	_	_	_	_
+42	nebo	nebo	_	_	CONJ	_	_	_	_
+43	jiných	jiný	_	_	ADJ;INAN;GEN;PL;POS;MASC	_	_	_	_
+44	řídících	řídící	_	_	ADJ;ANIM;IPFV;GEN;V.PTCP;PL;ACT;PRS;POS;MASC	_	_	_	_
+45	a	a	_	_	CONJ	_	_	_	_
+46	dozorčích	dozorčí	_	_	ADJ;INAN;GEN;PL;POS;MASC	_	_	_	_
+47	orgánů	orgán	_	_	N;INAN;GEN;PL;POS;MASC	_	_	_	_
+48	včetně	včetně	_	_	ADV	_	_	_	_
+49	bývalým	bývalý	_	_	ADJ;FEM;DAT;PL;POS	_	_	_	_
+50	osobám	osoba	_	_	N;FEM;DAT;PL;POS	_	_	_	_
+51	a	a	_	_	CONJ	_	_	_	_
+52	členům	člen	_	_	N;ANIM;DAT;PL;POS;MASC	_	_	_	_
+53	těchto	tento	_	_	DET;GEN;PL	_	_	_	_
+54	orgánů	orgán	_	_	N;INAN;GEN;PL;POS;MASC	_	_	_	_
+55	v	v	_	_	ESS;ADP	_	_	_	_
+56	úhrnné	úhrnný	_	_	ADJ;ESS;FEM;SG;POS	_	_	_	_
+57	výši	výše	_	_	N;ESS;FEM;SG;POS	_	_	_	_
+58	odděleně	odděleně	_	_	ADV;POS	_	_	_	_
+59	za	za	_	_	ADP;GEN	_	_	_	_
+60	jednotlivé	jednotlivý	_	_	ADJ;FEM;SG;GEN;POS	_	_	_	_
+61	kategorie	kategorie	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+62	osob	osoba	_	_	N;FEM;GEN;PL;POS	_	_	_	_
+63	.	.	_	_	_	_	_	_	_
+
+# sent_id = zakon.iso-005-p38s1
+# text = ČÁST PÁTÁ
+# orig_file_sentence document_02_005#57
+1	ČÁST	část	_	_	FEM;NOM;N;SG;POS	_	_	_	_
+2	PÁTÁ	pátý	_	_	ADJ;NOM;SG;FEM	_	_	_	_
+
+# sent_id = zakon.iso-003-p22s1
+# text = §_19a
+# orig_file_sentence document_02_003#53
+1	§_19a	§_19a	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-007-p72s13
+# text = Účetní jednotky neprovádějí účetní operace opravující výši vykázaných odpisů a oprávek v předchozích účetních obdobích.
+# orig_file_sentence document_01_007#8
+1	Účetní	účetní	_	_	NOM;ADJ;FEM;PL;POS	_	_	_	_
+2	jednotky	jednotka	_	_	NOM;N;FEM;PL;POS	_	_	_	_
+3	neprovádějí	provádět	_	_	3;IND;NEG;PRS;PL;ACT;V;FIN	_	_	_	_
+4	účetní	účetní	_	_	NOM;ADJ;FEM;PL;POS	_	_	_	_
+5	operace	operace	_	_	NOM;N;FEM;PL;POS	_	_	_	_
+6	opravující	opravující	_	_	NOM;ADJ;FEM;IPFV;V.PTCP;PL;ACT;PRS;POS	_	_	_	_
+7	výši	výše	_	_	N;FEM;SG;ACC;POS	_	_	_	_
+8	vykázaných	vykázaný	_	_	ADJ;INAN;GEN;PL;POS;MASC	_	_	_	_
+9	odpisů	odpis	_	_	N;INAN;GEN;PL;POS;MASC	_	_	_	_
+10	a	a	_	_	CONJ	_	_	_	_
+11	oprávek	oprávka	_	_	N;FEM;GEN;PL;POS	_	_	_	_
+12	v	v	_	_	ESS;ADP	_	_	_	_
+13	předchozích	předchozí	_	_	ADJ;ESS;NEUT;PL;POS	_	_	_	_
+14	účetních	účetní	_	_	ADJ;ESS;NEUT;PL;POS	_	_	_	_
+15	obdobích	období	_	_	N;ESS;NEUT;PL;POS	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = zakon.iso-001-p4s1
+# text = §_3
+# orig_file_sentence document_02_001#14
+1	§_3	§_3	_	_	_	_	_	_	_
+
+# sent_id = zakon.iso-004-p24s5
+# text = (2) c) b) a) Výroční o o o zpráva aktivitách předpokládaném skutečnostechmusí v vývoji , kromě oblasti činnosti které informací výzkumu účetní nastaly nezbytných a jednotkyaž pro vývojepo , naplnění rozvahovém účelu dni výroční a zprávy jsou dále významné obsahovat pro nejméně naplnění finanční účelu a výroční nefinanční zprávy informace podle odstavce d) 1o , aktivitách v oblasti ochrany životního prostředí a pracovněprávních vztazích, e) o tom, zda účetní jednotka má organizační složku podniku v zahraničí, f) požadované podle zvláštních právních předpisů.
+# orig_file_sentence document_02_004#7
+1	(2)	(2)	_	_	_	_	_	_	_
+2	c)	c)	_	_	_	_	_	_	_
+3	b)	b)	_	_	_	_	_	_	_
+4	a)	a)	_	_	_	_	_	_	_
+5	Výroční	výroční	_	_	ADJ;NOM;POS;SG;FEM	_	_	_	_
+6	o	o	_	_	ADP;ESS	_	_	_	_
+7	o	o	_	_	ADP;ESS	_	_	_	_
+8	o	o	_	_	ADP;ESS	_	_	_	_
+9	zpráva	zpráva	_	_	FEM;NOM;N;SG;POS	_	_	_	_
+10	aktivitách	aktivita	_	_	FEM;N;PL;ESS;POS	_	_	_	_
+11	předpokládaném	předpokládaný	_	_	ADJ;MASC;SG;INAN;ESS;POS	_	_	_	_
+12	skutečnostech	skutečnost	_	_	FEM;N;PL;ESS;POS	_	_	_	_
+13	musí	muset	_	_	IND;3;FIN;V;ACT;PRS;SG;POS	_	_	_	_
+14	v	v	_	_	ADP;ESS	_	_	_	_
+15	vývoji	vývoj	_	_	MASC;N;SG;INAN;ESS;POS	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	kromě	kromě	_	_	GEN;ADP	_	_	_	_
+18	oblasti	oblast	_	_	FEM;N;SG;ESS;POS	_	_	_	_
+19	činnosti	činnost	_	_	FEM;N;GEN;SG;POS	_	_	_	_
+20	které	který	_	_	DET;FEM;NOM;PL	_	_	_	_
+21	informací	informace	_	_	FEM;N;GEN;PL;POS	_	_	_	_
+22	výzkumu	výzkum	_	_	MASC;N;GEN;SG;INAN;POS	_	_	_	_
+23	účetní	účetní	_	_	ADJ;GEN;POS;SG;FEM	_	_	_	_
+24	nastaly	nastat	_	_	{FEM/MASC};V;PST;V.PTCP;ACT;PL;INAN;POS	_	_	_	_
+25	nezbytných	zbytný	_	_	ADJ;MASC;NEG;GEN;PL;INAN	_	_	_	_
+26	a	a	_	_	CONJ	_	_	_	_
+27	jednotky	jednotka	_	_	FEM;N;GEN;SG;POS	_	_	_	_
+28	až	až	_	_	PART	_	_	_	_
+29	pro	pro	_	_	ADP;ACC	_	_	_	_
+30	vývoje	vývoj	_	_	MASC;N;GEN;SG;INAN;POS	_	_	_	_
+31	po	po	_	_	ADP;ESS	_	_	_	_
+32	,	,	_	_	_	_	_	_	_
+33	naplnění	naplnění	_	_	N;ACC;SG;NEUT;POS	_	_	_	_
+34	rozvahovém	rozvahový	_	_	ADJ;MASC;SG;INAN;ESS;POS	_	_	_	_
+35	účelu	účel	_	_	MASC;N;GEN;SG;INAN;POS	_	_	_	_
+36	dni	den	_	_	MASC;N;SG;INAN;ESS;POS	_	_	_	_
+37	výroční	výroční	_	_	ADJ;GEN;POS;SG;FEM	_	_	_	_
+38	a	a	_	_	CONJ	_	_	_	_
+39	zprávy	zpráva	_	_	FEM;N;GEN;SG;POS	_	_	_	_
+40	jsou	být	_	_	PRS;IND;3;FIN;ACT;PL;V;POS	_	_	_	_
+41	dále	dále	_	_	ADV	_	_	_	_
+42	významné	významný	_	_	ADJ;NOM;POS;PL;FEM	_	_	_	_
+43	obsahovat	obsahovat	_	_	NFIN;V;POS	_	_	_	_
+44	pro	pro	_	_	ADP;ACC	_	_	_	_
+45	nejméně	málo	_	_	CMPR;ADV;POS	_	_	_	_
+46	naplnění	naplnění	_	_	N;ACC;SG;NEUT;POS	_	_	_	_
+47	finanční	finanční	_	_	ADJ;ACC;POS;PL;FEM	_	_	_	_
+48	účelu	účel	_	_	MASC;N;GEN;SG;INAN;POS	_	_	_	_
+49	a	a	_	_	CONJ	_	_	_	_
+50	výroční	výroční	_	_	ADJ;GEN;POS;SG;FEM	_	_	_	_
+51	nefinanční	finanční	_	_	ADJ;NEG;ACC;PL;FEM	_	_	_	_
+52	zprávy	zpráva	_	_	FEM;N;GEN;SG;POS	_	_	_	_
+53	informace	informace	_	_	N;ACC;POS;PL;FEM	_	_	_	_
+54	podle	podle	_	_	GEN;ADP	_	_	_	_
+55	odstavce	odstavec	_	_	MASC;N;GEN;SG;INAN;POS	_	_	_	_
+56	d)	d)	_	_	_	_	_	_	_
+57	1	1	_	_	NUM	_	_	_	_
+58	o	o	_	_	ADP;ESS	_	_	_	_
+59	,	,	_	_	_	_	_	_	_
+60	aktivitách	aktivita	_	_	FEM;N;PL;ESS;POS	_	_	_	_
+61	v	v	_	_	ADP;ESS	_	_	_	_
+62	oblasti	oblast	_	_	FEM;N;SG;ESS;POS	_	_	_	_
+63	ochrany	ochrana	_	_	FEM;N;GEN;SG;POS	_	_	_	_
+64	životního	životní	_	_	ADJ;GEN;SG;NEUT;POS	_	_	_	_
+65	prostředí	prostředí	_	_	N;GEN;SG;NEUT;POS	_	_	_	_
+66	a	a	_	_	CONJ	_	_	_	_
+67	pracovněprávních	pracovněprávní	_	_	ADJ;MASC;PL;INAN;ESS;POS	_	_	_	_
+68	vztazích	vztah	_	_	MASC;N;PL;INAN;ESS;POS	_	_	_	_
+69	,	,	_	_	_	_	_	_	_
+70	e)	e)	_	_	_	_	_	_	_
+71	o	o	_	_	ADP;ESS	_	_	_	_
+72	tom	ten	_	_	DET;{MASC/NEUT};SG;ESS	_	_	_	_
+73	,	,	_	_	_	_	_	_	_
+74	zda	zda	_	_	CONJ	_	_	_	_
+75	účetní	účetní	_	_	ADJ;NOM;POS;SG;FEM	_	_	_	_
+76	jednotka	jednotka	_	_	FEM;NOM;N;SG;POS	_	_	_	_
+77	má	mít	_	_	IND;3;FIN;V;ACT;PRS;SG;POS	_	_	_	_
+78	organizační	organizační	_	_	ADJ;ACC;POS;SG;FEM	_	_	_	_
+79	složku	složka	_	_	N;ACC;POS;SG;FEM	_	_	_	_
+80	podniku	podnik	_	_	MASC;N;GEN;SG;INAN;POS	_	_	_	_
+81	v	v	_	_	ADP;ESS	_	_	_	_
+82	zahraničí	zahraničí	_	_	N;SG;NEUT;ESS;POS	_	_	_	_
+83	,	,	_	_	_	_	_	_	_
+84	f)	f)	_	_	_	_	_	_	_
+85	požadované	požadovaný	_	_	ADJ;NOM;SG;NEUT;POS	_	_	_	_
+86	podle	podle	_	_	GEN;ADP	_	_	_	_
+87	zvláštních	zvláštní	_	_	ADJ;MASC;GEN;PL;INAN;POS	_	_	_	_
+88	právních	právní	_	_	ADJ;MASC;GEN;PL;INAN;POS	_	_	_	_
+89	předpisů	předpis	_	_	MASC;N;GEN;PL;INAN;POS	_	_	_	_
+90	.	.	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-005-p53s1
+# text = §_43
+# orig_file_sentence document_01_005#34
+1	§_43	§_43	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-008-p80s7
+# text = (3) Stavy jednotlivých složek majetku a závazků, rezerv, oceňovacích rozdílů k úplatně nabytému majetku podle odstavce 1 se převedou k prvnímu dni účetního období jako počáteční zůstatky příslušných rozvahových účtů; neuplatněná část výdajů u finančního pronájmu s následnou koupí najatého hmotného majetku se uvede jako počáteční zůstatek účtu určeného k zachycení nákladů příštích období v účtové skupině 38.
+# orig_file_sentence document_01_008#8
+1	(3)	(3)	_	_	_	_	_	_	_
+2	Stavy	stav	_	_	NOM;N;INAN;PL;POS;MASC	_	_	_	_
+3	jednotlivých	jednotlivý	_	_	ADJ;FEM;GEN;PL;POS	_	_	_	_
+4	složek	složka	_	_	N;FEM;GEN;PL;POS	_	_	_	_
+5	majetku	majetek	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+6	a	a	_	_	CONJ	_	_	_	_
+7	závazků	závazek	_	_	N;INAN;GEN;PL;POS;MASC	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	rezerv	rezerva	_	_	N;FEM;GEN;PL;POS	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	oceňovacích	oceňovací	_	_	ADJ;INAN;GEN;PL;POS;MASC	_	_	_	_
+12	rozdílů	rozdíl	_	_	N;INAN;GEN;PL;POS;MASC	_	_	_	_
+13	k	k	_	_	ADP;DAT	_	_	_	_
+14	úplatně	úplatně	_	_	ADV;POS	_	_	_	_
+15	nabytému	nabytý	_	_	ADJ;INAN;SG;DAT;POS;MASC	_	_	_	_
+16	majetku	majetek	_	_	N;INAN;SG;DAT;POS;MASC	_	_	_	_
+17	podle	podle	_	_	ADP;GEN	_	_	_	_
+18	odstavce	odstavec	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+19	1	1	_	_	NUM	_	_	_	_
+20	se	se	_	_	PRO;ACC;REFL	_	_	_	_
+21	převedou	převést	_	_	3;IND;PRS;PL;ACT;V;FIN;POS	_	_	_	_
+22	k	k	_	_	ADP;DAT	_	_	_	_
+23	prvnímu	první	_	_	ADJ;ANIM;SG;DAT;MASC	_	_	_	_
+24	dni	den	_	_	N;INAN;SG;DAT;POS;MASC	_	_	_	_
+25	účetního	účetní	_	_	ADJ;SG;NEUT;GEN;POS	_	_	_	_
+26	období	období	_	_	N;SG;NEUT;GEN;POS	_	_	_	_
+27	jako	jako	_	_	CONJ	_	_	_	_
+28	počáteční	počáteční	_	_	NOM;ADJ;INAN;PL;POS;MASC	_	_	_	_
+29	zůstatky	zůstatek	_	_	NOM;N;INAN;PL;POS;MASC	_	_	_	_
+30	příslušných	příslušný	_	_	ADJ;INAN;GEN;PL;POS;MASC	_	_	_	_
+31	rozvahových	rozvahový	_	_	ADJ;INAN;GEN;PL;POS;MASC	_	_	_	_
+32	účtů	účet	_	_	N;INAN;GEN;PL;POS;MASC	_	_	_	_
+33	;	;	_	_	_	_	_	_	_
+34	neuplatněná	uplatněný	_	_	NOM;ADJ;NEG;FEM;SG	_	_	_	_
+35	část	část	_	_	NOM;N;FEM;SG;POS	_	_	_	_
+36	výdajů	výdaj	_	_	N;INAN;GEN;PL;POS;MASC	_	_	_	_
+37	u	u	_	_	ADP;GEN	_	_	_	_
+38	finančního	finanční	_	_	ADJ;INAN;SG;GEN;POS;MASC	_	_	_	_
+39	pronájmu	pronájem	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+40	s	s	_	_	ADP;INS	_	_	_	_
+41	následnou	následný	_	_	ADJ;FEM;SG;INS;POS	_	_	_	_
+42	koupí	koupě	_	_	N;FEM;SG;INS;POS	_	_	_	_
+43	najatého	najatý	_	_	ADJ;INAN;SG;GEN;POS;MASC	_	_	_	_
+44	hmotného	hmotný	_	_	ADJ;INAN;SG;GEN;POS;MASC	_	_	_	_
+45	majetku	majetek	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+46	se	se	_	_	PRO;ACC;REFL	_	_	_	_
+47	uvede	uvést	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+48	jako	jako	_	_	CONJ	_	_	_	_
+49	počáteční	počáteční	_	_	NOM;ADJ;INAN;SG;POS;MASC	_	_	_	_
+50	zůstatek	zůstatek	_	_	NOM;N;INAN;SG;POS;MASC	_	_	_	_
+51	účtu	účet	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+52	určeného	určený	_	_	ADJ;INAN;SG;GEN;POS;MASC	_	_	_	_
+53	k	k	_	_	ADP;DAT	_	_	_	_
+54	zachycení	zachycení	_	_	N;SG;NEUT;DAT;POS	_	_	_	_
+55	nákladů	náklad	_	_	N;INAN;GEN;PL;POS;MASC	_	_	_	_
+56	příštích	příští	_	_	ADJ;NEUT;GEN;PL;POS	_	_	_	_
+57	období	období	_	_	N;NEUT;GEN;PL;POS	_	_	_	_
+58	v	v	_	_	ESS;ADP	_	_	_	_
+59	účtové	účtový	_	_	ADJ;ESS;FEM;SG;POS	_	_	_	_
+60	skupině	skupina	_	_	N;ESS;FEM;SG;POS	_	_	_	_
+61	38	38	_	_	NUM	_	_	_	_
+62	.	.	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-001-p6s4
+# text = Uspořádání a označování položek rozvahy (bilance) se stanoví v příloze č._1 k této vyhlášce.
+# orig_file_sentence document_01_001#17
+1	Uspořádání	uspořádání	_	_	NOM;N;SG;NEUT;POS	_	_	_	_
+2	a	a	_	_	CONJ	_	_	_	_
+3	označování	označování	_	_	NOM;N;SG;NEUT;POS	_	_	_	_
+4	položek	položka	_	_	N;FEM;GEN;PL;POS	_	_	_	_
+5	rozvahy	rozvaha	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+6	(	(	_	_	_	_	_	_	_
+7	bilance	bilance	_	_	NOM;N;FEM;SG;POS	_	_	_	_
+8	)	)	_	_	_	_	_	_	_
+9	se	se	_	_	PRO;ACC;REFL	_	_	_	_
+10	stanoví	stanovit	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+11	v	v	_	_	ESS;ADP	_	_	_	_
+12	příloze	příloha	_	_	N;ESS;FEM;SG;POS	_	_	_	_
+13	č._1	č._1	_	_	_	_	_	_	_
+14	k	k	_	_	ADP;DAT	_	_	_	_
+15	této	tento	_	_	FEM;DET;SG;DAT	_	_	_	_
+16	vyhlášce	vyhláška	_	_	N;FEM;SG;DAT;POS	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-001-p7s15
+# text = Ve výkazu zisku a ztráty se informace za minulé účetní období neuvádějí.
+# orig_file_sentence document_01_001#38
+1	Ve	v	_	_	ESS;ADP	_	_	_	_
+2	výkazu	výkaz	_	_	N;INAN;ESS;SG;POS;MASC	_	_	_	_
+3	zisku	zisk	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+4	a	a	_	_	CONJ	_	_	_	_
+5	ztráty	ztráta	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+6	se	se	_	_	PRO;ACC;REFL	_	_	_	_
+7	informace	informace	_	_	NOM;N;FEM;PL;POS	_	_	_	_
+8	za	za	_	_	ACC;ADP	_	_	_	_
+9	minulé	minulý	_	_	ADJ;SG;NEUT;ACC;POS	_	_	_	_
+10	účetní	účetní	_	_	ADJ;SG;NEUT;ACC;POS	_	_	_	_
+11	období	období	_	_	N;SG;NEUT;ACC;POS	_	_	_	_
+12	neuvádějí	uvádět	_	_	3;IND;NEG;PRS;PL;ACT;V;FIN	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-008-p79s5
+# text = (2) Nejsou-li součástí nabytého majetku též závazky a jsou-li zároveň náklady na ocenění majetku nabytého podle odstavce 1 znalcem neúměrné významu tohoto ocenění, lze pro účely zjištění základu pro poměrné rozúčtování celkové pořizovací ceny nebo reprodukční pořizovací ceny podle odstavce 1 použít ocenění kvalifikovaným odhadem, jenž zajistí přiměřené přiblížení se k tržní hodnotě majetku.
+# orig_file_sentence document_01_008#1
+1	(2)	(2)	_	_	_	_	_	_	_
+2	Nejsou-li	Nejsou-li	_	_	NEUT;N;POS	_	_	_	_
+3	součástí	součást	_	_	N;FEM;SG;INS;POS	_	_	_	_
+4	nabytého	nabytý	_	_	ADJ;INAN;SG;GEN;POS;MASC	_	_	_	_
+5	majetku	majetek	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+6	též	též	_	_	ADV	_	_	_	_
+7	závazky	závazek	_	_	NOM;N;INAN;PL;POS;MASC	_	_	_	_
+8	a	a	_	_	CONJ	_	_	_	_
+9	jsou-li	jsou-li	_	_	_	_	_	_	_
+10	zároveň	zároveň	_	_	ADV	_	_	_	_
+11	náklady	náklad	_	_	NOM;N;INAN;PL;POS;MASC	_	_	_	_
+12	na	na	_	_	ACC;ADP	_	_	_	_
+13	ocenění	ocenění	_	_	N;SG;NEUT;ACC;POS	_	_	_	_
+14	majetku	majetek	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+15	nabytého	nabytý	_	_	ADJ;INAN;SG;GEN;POS;MASC	_	_	_	_
+16	podle	podle	_	_	ADP;GEN	_	_	_	_
+17	odstavce	odstavec	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+18	1	1	_	_	NUM	_	_	_	_
+19	znalcem	znalec	_	_	N;ANIM;SG;INS;POS;MASC	_	_	_	_
+20	neúměrné	úměrný	_	_	ADJ;NEG;FEM;SG;GEN	_	_	_	_
+21	významu	význam	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+22	tohoto	tento	_	_	{MASC/NEUT};DET;SG;GEN	_	_	_	_
+23	ocenění	ocenění	_	_	N;SG;NEUT;GEN;POS	_	_	_	_
+24	,	,	_	_	_	_	_	_	_
+25	lze	lze	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+26	pro	pro	_	_	ACC;ADP	_	_	_	_
+27	účely	účel	_	_	N;INAN;ACC;PL;POS;MASC	_	_	_	_
+28	zjištění	zjištění	_	_	N;SG;NEUT;GEN;POS	_	_	_	_
+29	základu	základ	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+30	pro	pro	_	_	ACC;ADP	_	_	_	_
+31	poměrné	poměrný	_	_	ADJ;SG;NEUT;ACC;POS	_	_	_	_
+32	rozúčtování	rozúčtování	_	_	N;SG;NEUT;ACC;POS	_	_	_	_
+33	celkové	celkový	_	_	ADJ;FEM;SG;GEN;POS	_	_	_	_
+34	pořizovací	pořizovací	_	_	ADJ;FEM;SG;GEN;POS	_	_	_	_
+35	ceny	cena	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+36	nebo	nebo	_	_	CONJ	_	_	_	_
+37	reprodukční	reprodukční	_	_	ADJ;FEM;SG;GEN;POS	_	_	_	_
+38	pořizovací	pořizovací	_	_	ADJ;FEM;SG;GEN;POS	_	_	_	_
+39	ceny	cena	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+40	podle	podle	_	_	ADP;GEN	_	_	_	_
+41	odstavce	odstavec	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+42	1	1	_	_	NUM	_	_	_	_
+43	použít	použít	_	_	V;NFIN;POS	_	_	_	_
+44	ocenění	ocenění	_	_	N;SG;NEUT;ACC;POS	_	_	_	_
+45	kvalifikovaným	kvalifikovaný	_	_	ADJ;INAN;SG;INS;POS;MASC	_	_	_	_
+46	odhadem	odhad	_	_	N;INAN;SG;INS;POS;MASC	_	_	_	_
+47	,	,	_	_	_	_	_	_	_
+48	jenž	jenž	_	_	NOM;PRO;SG;MASC	_	_	_	_
+49	zajistí	zajistit	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+50	přiměřené	přiměřený	_	_	ADJ;SG;NEUT;ACC;POS	_	_	_	_
+51	přiblížení	přiblížení	_	_	N;SG;NEUT;ACC;POS	_	_	_	_
+52	se	se	_	_	PRO;ACC;REFL	_	_	_	_
+53	k	k	_	_	ADP;DAT	_	_	_	_
+54	tržní	tržní	_	_	ADJ;FEM;SG;DAT;POS	_	_	_	_
+55	hodnotě	hodnota	_	_	N;FEM;SG;DAT;POS	_	_	_	_
+56	majetku	majetek	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+57	.	.	_	_	_	_	_	_	_
+
+# sent_id = zakon.iso-003-p23s1
+# text = §_20
+# orig_file_sentence document_02_003#68
+1	§_20	§_20	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-006-p69s1
+# text = §_54a
+# orig_file_sentence document_01_006#58
+1	§_54a	§_54a	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-003-p23s8
+# text = Obsahuje zejména závazky z dlouhodobých půjček a úvěrů.
+# orig_file_sentence document_01_003#35
+1	Obsahuje	obsahovat	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+2	zejména	zejména	_	_	ADV	_	_	_	_
+3	závazky	závazek	_	_	N;INAN;ACC;PL;POS;MASC	_	_	_	_
+4	z	z	_	_	ADP;GEN	_	_	_	_
+5	dlouhodobých	dlouhodobý	_	_	ADJ;FEM;GEN;PL;POS	_	_	_	_
+6	půjček	půjčka	_	_	N;FEM;GEN;PL;POS	_	_	_	_
+7	a	a	_	_	CONJ	_	_	_	_
+8	úvěrů	úvěr	_	_	N;INAN;GEN;PL;POS;MASC	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-005-p51s2
+# text = (1) Peněžní toky z provozních, investičních nebo finančních činností se uvádějí v přehledu o peněžních tocích nekompenzované.
+# orig_file_sentence document_01_005#24
+1	(1)	(1)	_	_	_	_	_	_	_
+2	Peněžní	peněžní	_	_	NOM;ADJ;INAN;PL;POS;MASC	_	_	_	_
+3	toky	tok	_	_	NOM;N;INAN;PL;POS;MASC	_	_	_	_
+4	z	z	_	_	ADP;GEN	_	_	_	_
+5	provozních	provozní	_	_	N;FEM;GEN;PL;POS	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	investičních	investiční	_	_	ADJ;FEM;GEN;PL;POS	_	_	_	_
+8	nebo	nebo	_	_	CONJ	_	_	_	_
+9	finančních	finanční	_	_	ADJ;FEM;GEN;PL;POS	_	_	_	_
+10	činností	činnost	_	_	N;FEM;GEN;PL;POS	_	_	_	_
+11	se	se	_	_	PRO;ACC;REFL	_	_	_	_
+12	uvádějí	uvádět	_	_	3;IND;PRS;PL;ACT;V;FIN;POS	_	_	_	_
+13	v	v	_	_	ESS;ADP	_	_	_	_
+14	přehledu	přehled	_	_	N;INAN;ESS;SG;POS;MASC	_	_	_	_
+15	o	o	_	_	ESS;ADP	_	_	_	_
+16	peněžních	peněžní	_	_	ADJ;INAN;ESS;PL;POS;MASC	_	_	_	_
+17	tocích	tok	_	_	N;INAN;ESS;PL;POS;MASC	_	_	_	_
+18	nekompenzované	kompenzovaný	_	_	NOM;ADJ;INAN;NEG;PL;MASC	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# sent_id = zakon.iso-006-p45s24
+# text = (8) V řízení ve věcech týkajících se účetnictví nebo vycházejících z účetnictví lze použít k důkazu průkazné účetní záznamy (§_33a), které splňují požadavky tohoto zákona.
+# orig_file_sentence document_02_006#62
+1	(8)	(8)	_	_	_	_	_	_	_
+2	V	v	_	_	ESS;ADP	_	_	_	_
+3	řízení	řízení	_	_	NEUT;POS;SG;N;ESS	_	_	_	_
+4	ve	v	_	_	ESS;ADP	_	_	_	_
+5	věcech	věc	_	_	N;PL;POS;FEM;ESS	_	_	_	_
+6	týkajících	týkající	_	_	V.PTCP;PRS;ADJ;PL;POS;ACT;IPFV;FEM;ESS	_	_	_	_
+7	se	se	_	_	ACC;REFL;PRO	_	_	_	_
+8	účetnictví	účetnictví	_	_	GEN;NEUT;POS;SG;N	_	_	_	_
+9	nebo	nebo	_	_	CONJ	_	_	_	_
+10	vycházejících	vycházející	_	_	V.PTCP;PRS;ADJ;MASC;PL;POS;ACT;INAN;IPFV;ESS	_	_	_	_
+11	z	z	_	_	GEN;ADP	_	_	_	_
+12	účetnictví	účetnictví	_	_	GEN;NEUT;POS;SG;N	_	_	_	_
+13	lze	lze	_	_	PRS;3;ACT;IND;POS;V;SG;FIN	_	_	_	_
+14	použít	použít	_	_	POS;NFIN;V	_	_	_	_
+15	k	k	_	_	DAT;ADP	_	_	_	_
+16	důkazu	důkaz	_	_	MASC;INAN;DAT;POS;SG;N	_	_	_	_
+17	průkazné	průkazný	_	_	ADJ;ACC;MASC;PL;INAN;POS	_	_	_	_
+18	účetní	účetní	_	_	ADJ;ACC;MASC;PL;INAN;POS	_	_	_	_
+19	záznamy	záznam	_	_	ACC;PL;MASC;INAN;POS;N	_	_	_	_
+20	(	(	_	_	_	_	_	_	_
+21	§_33a	§_33a	_	_	_	_	_	_	_
+22	)	)	_	_	_	_	_	_	_
+23	,	,	_	_	_	_	_	_	_
+24	které	který	_	_	DET;PL;MASC;INAN;NOM	_	_	_	_
+25	splňují	splňovat	_	_	PRS;PL;3;ACT;IND;POS;V;FIN	_	_	_	_
+26	požadavky	požadavek	_	_	ACC;PL;MASC;INAN;POS;N	_	_	_	_
+27	tohoto	tento	_	_	GEN;DET;{MASC/NEUT};SG	_	_	_	_
+28	zákona	zákon	_	_	GEN;MASC;INAN;POS;SG;N	_	_	_	_
+29	.	.	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-005-p56s2
+# text = SMĚRNÁ ÚČTOVÁ OSNOVA
+# orig_file_sentence document_01_005#49
+1	SMĚRNÁ	směrný	_	_	NOM;ADJ;FEM;SG;POS	_	_	_	_
+2	ÚČTOVÁ	účtový	_	_	NOM;ADJ;FEM;SG;POS	_	_	_	_
+3	OSNOVA	osnova	_	_	NOM;N;FEM;SG;POS	_	_	_	_
+
+# sent_id = vyhlaska.iso-006-p66s1
+# text = §_53
+# orig_file_sentence document_01_006#40
+1	§_53	§_53	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-001-p1s1
+# text = ČÁST PRVNÍ
+# orig_file_sentence document_01_001#1
+1	ČÁST	část	_	_	NOM;N;FEM;SG;POS	_	_	_	_
+2	PRVNÍ	první	_	_	ADJ;ESS;FEM;SG	_	_	_	_
+
+# sent_id = zakon.iso-003-p21s20
+# text = (7) Pro účely tohoto zákona se majetek a závazky člení na dlouhodobé a krátkodobé.
+# orig_file_sentence document_02_003#47
+1	(7)	(7)	_	_	_	_	_	_	_
+2	Pro	pro	_	_	ACC;ADP	_	_	_	_
+3	účely	účel	_	_	N;INAN;ACC;PL;POS;MASC	_	_	_	_
+4	tohoto	tento	_	_	{MASC/NEUT};DET;SG;GEN	_	_	_	_
+5	zákona	zákon	_	_	N;INAN;SG;GEN;POS;MASC	_	_	_	_
+6	se	se	_	_	PRO;ACC;REFL	_	_	_	_
+7	majetek	majetek	_	_	NOM;N;INAN;SG;POS;MASC	_	_	_	_
+8	a	a	_	_	CONJ	_	_	_	_
+9	závazky	závazek	_	_	NOM;N;INAN;PL;POS;MASC	_	_	_	_
+10	člení	členit	_	_	3;IND;PRS;PL;ACT;V;FIN;POS	_	_	_	_
+11	na	na	_	_	ACC;ADP	_	_	_	_
+12	dlouhodobé	dlouhodobý	_	_	ADJ;INAN;ACC;PL;POS;MASC	_	_	_	_
+13	a	a	_	_	CONJ	_	_	_	_
+14	krátkodobé	krátkodobý	_	_	ADJ;INAN;ACC;PL;POS;MASC	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-002-p13s8
+# text = (4) Položka "C.I.4._Mladá_a_ostatní_zvířata_a_jejich_skupiny" obsahuje zvířata a jejich skupiny včetně jatečných zvířat, která nejsou vykazována v položkách "B.II.5._Dospělá_zvířata_a_jejich_skupiny", "C.I.1._Materiál" a "C.I.5._Zboží".
+# orig_file_sentence document_01_002#32
+1	(4)	(4)	_	_	_	_	_	_	_
+2	Položka	položka	_	_	NOM;N;FEM;SG;POS	_	_	_	_
+3	"	"	_	_	_	_	_	_	_
+4	C.I.4._Mladá_a_ostatní_zvířata_a_jejich_skupiny	"C.I.4._Mladá_a_ostatní_zvířata_a_jejich_skupiny"	_	_	_	_	_	_	_
+5	"	"	_	_	_	_	_	_	_
+6	obsahuje	obsahovat	_	_	3;IND;SG;PRS;ACT;V;FIN;POS	_	_	_	_
+7	zvířata	zvíře	_	_	NOM;N;NEUT;PL;POS	_	_	_	_
+8	a	a	_	_	CONJ	_	_	_	_
+9	jejich	jeho	_	_	PSSP;3;DET	_	_	_	_
+10	skupiny	skupina	_	_	NOM;N;FEM;PL;POS	_	_	_	_
+11	včetně	včetně	_	_	ADP;GEN	_	_	_	_
+12	jatečných	jatečný	_	_	ADJ;NEUT;GEN;PL;POS	_	_	_	_
+13	zvířat	zvíře	_	_	N;NEUT;GEN;PL;POS	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	která	který	_	_	NOM;DET;NEUT;PL	_	_	_	_
+16	nejsou	být	_	_	3;V;IND;NEG;PL;ACT;PRS;FIN	_	_	_	_
+17	vykazována	vykazovaný	_	_	{PL/SG};ADJ;{FEM/NEUT};V.PTCP;PASS;POS	_	_	_	_
+18	v	v	_	_	ESS;ADP	_	_	_	_
+19	položkách	položka	_	_	N;ESS;FEM;PL;POS	_	_	_	_
+20	"	"	_	_	_	_	_	_	_
+21	B.II.5._Dospělá_zvířata_a_jejich_skupiny	"B.II.5._Dospělá_zvířata_a_jejich_skupiny"	_	_	_	_	_	_	_
+22	"	"	_	_	_	_	_	_	_
+23	,	,	_	_	_	_	_	_	_
+24	"	"	_	_	_	_	_	_	_
+25	C.I.1._Materiál	"C.I.1._Materiál"	_	_	_	_	_	_	_
+26	"	"	_	_	_	_	_	_	_
+27	a	a	_	_	CONJ	_	_	_	_
+28	"	"	_	_	_	_	_	_	_
+29	C.I.5._Zboží	"C.I.5._Zboží"	_	_	_	_	_	_	_
+30	"	"	_	_	_	_	_	_	_
+31	.	.	_	_	_	_	_	_	_
+
+# sent_id = vyhlaska.iso-003-p29s2
+# text = Služby
+# orig_file_sentence document_01_003#64
+1	Služby	služba	_	_	N;FEM;SG;GEN;POS	_	_	_	_
+
+# sent_id = zakon.iso-001-p5s21
+# text = (13) Účetní jednotky jsou povinny vést účetnictví v českém jazyce.
+# orig_file_sentence document_02_001#47
+1	(13)	(13)	_	_	_	_	_	_	_
+2	Účetní	účetní	_	_	NOM;ADJ;FEM;PL;POS	_	_	_	_
+3	jednotky	jednotka	_	_	NOM;N;FEM;PL;POS	_	_	_	_
+4	jsou	být	_	_	3;V;IND;PL;ACT;PRS;FIN;POS	_	_	_	_
+5	povinny	povinný	_	_	{FEM/MASC};ADJ;INAN;PL;POS	_	_	_	_
+6	vést	vést	_	_	V;NFIN;POS	_	_	_	_
+7	účetnictví	účetnictví	_	_	N;SG;NEUT;ACC;POS	_	_	_	_
+8	v	v	_	_	ESS;ADP	_	_	_	_
+9	českém	český	_	_	ADJ;INAN;ESS;SG;POS;MASC	_	_	_	_
+10	jazyce	jazyk	_	_	N;INAN;ESS;SG;POS;MASC	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+

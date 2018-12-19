@@ -1,0 +1,2123 @@
+# sent_id = w01125038
+# text = Vuonna 1770 hänen veljensä, Cumberlandin ja Strathearnin herttua, prinssi Henry, paljastui avionrikkojaksi ja seuraavana vuonna hän meni naimisiin nuoren lesken, Anne Hortonin, kanssa.
+# text_en = In 1770, his brother Prince Henry, Duke of Cumberland and Strathearn, was exposed as an adulterer, and the following year Cumberland married a young widow, Anne Horton.
+1	Vuonna	vuosi	_	_	N;SG;FRML	_	_	_	_
+2	1770	1770	_	_	NUM	_	_	_	_
+3	hänen	hän	_	_	GEN;3;SG;PRO	_	_	_	_
+4	veljensä	veli	_	_	PSS3;N;SG;GEN	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	Cumberlandin	Cumberland	_	_	SG;GEN;PROPN	_	_	_	_
+7	ja	ja	_	_	CONJ	_	_	_	_
+8	Strathearnin	Strathearn	_	_	SG;GEN;PROPN	_	_	_	_
+9	herttua	herttua	_	_	N;SG;NOM	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	prinssi	prinssi	_	_	N;SG;NOM	_	_	_	_
+12	Henry	Henry	_	_	SG;NOM;PROPN	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	paljastui	paljastua	_	_	FIN;V;3;ACT;IND;PST;SG	_	_	_	_
+15	avionrikkojaksi	avion#rikkoja	_	_	N;SG;TRANS	_	_	_	_
+16	ja	ja	_	_	CONJ	_	_	_	_
+17	seuraavana	seuraava	_	_	SG;ADJ;FRML	_	_	_	_
+18	vuonna	vuosi	_	_	N;SG;FRML	_	_	_	_
+19	hän	hän	_	_	NOM;3;SG;PRO	_	_	_	_
+20	meni	mennä	_	_	FIN;V;3;ACT;IND;PST;SG	_	_	_	_
+21	naimisiin	naimisiin	_	_	ADV	_	_	_	_
+22	nuoren	nuori	_	_	SG;ADJ;GEN	_	_	_	_
+23	lesken	leski	_	_	N;SG;GEN	_	_	_	_
+24	,	,	_	_	_	_	_	_	_
+25	Anne	Anne	_	_	SG;NOM;PROPN	_	_	_	_
+26	Hortonin	Horton	_	_	SG;GEN;PROPN	_	_	_	_
+27	,	,	_	_	_	_	_	_	_
+28	kanssa	kanssa	_	_	ADP	_	_	_	_
+29	.	.	_	_	_	_	_	_	_
+
+# sent_id = w05010027
+# text = Marcus Antonius luki Caesarin julistuksen, jossa käskynhaltija julistautui rauhan ystäväksi, 1. tammikuuta vuonna 49 eKr.
+# text_en = On the 1st January 49 BC, Marco Antonio read a declaration from Caesar in which the proconsul declared himself a friend of peace.
+1	Marcus	Marcus	_	_	SG;NOM;PROPN	_	_	_	_
+2	Antonius	Antonius	_	_	SG;NOM;PROPN	_	_	_	_
+3	luki	lukea	_	_	FIN;V;3;ACT;IND;PST;SG	_	_	_	_
+4	Caesarin	Caesar	_	_	SG;GEN;PROPN	_	_	_	_
+5	julistuksen	julistus	_	_	N;SG;GEN	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	jossa	joka	_	_	IN+ESS;SG;PRO	_	_	_	_
+8	käskynhaltija	käskyn#haltija	_	_	N;SG;NOM	_	_	_	_
+9	julistautui	julistautua	_	_	FIN;V;3;ACT;IND;PST;SG	_	_	_	_
+10	rauhan	rauha	_	_	N;SG;GEN	_	_	_	_
+11	ystäväksi	ystävä	_	_	N;SG;TRANS	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	1.	1.	_	_	ADJ	_	_	_	_
+14	tammikuuta	tammikuu	_	_	N;SG;PRT	_	_	_	_
+15	vuonna	vuosi	_	_	N;SG;FRML	_	_	_	_
+16	49	49	_	_	NUM	_	_	_	_
+17	eKr.	eKr.	_	_	N	_	_	_	_
+
+# newdoc id = n04009
+# sent_id = n04009002
+# text = Neljä Roma Tre -yliopiston opiskelijaa ovat kehittäneet moottoripyöräkypärän, joka osaa ”lukea ajatuksia” auttamalla ennakoimaan kuskien toimintoja.
+# text_en = Four students at Roma Tre University have developed a motorcycle helmet that can 'read thoughts' by helping to anticipate drivers' actions.
+1	Neljä	neljä	_	_	SG;NUM;NOM	_	_	_	_
+2	Roma	Roma	_	_	SG;NOM;PROPN	_	_	_	_
+3	Tre	Tre	_	_	SG;NOM;PROPN	_	_	_	_
+4	-yliopiston	yli#opisto	_	_	N;SG;GEN	_	_	_	_
+5	opiskelijaa	opiskelija	_	_	N;SG;PRT	_	_	_	_
+6	ovat	olla	_	_	PRS;FIN;ACT;3;IND;V;PL	_	_	_	_
+7	kehittäneet	kehittää	_	_	NOM;V;ACT;V.PTCP;PL	_	_	_	_
+8	moottoripyöräkypärän	moottori#pyörä#kypärä	_	_	N;SG;GEN	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	joka	joka	_	_	NOM;SG;PRO	_	_	_	_
+11	osaa	osata	_	_	PRS;FIN;V;3;ACT;IND;SG	_	_	_	_
+12	”	”	_	_	_	_	_	_	_
+13	lukea	lukea	_	_	V;NFIN;ACT;SG	_	_	_	_
+14	ajatuksia	ajatus	_	_	N;PRT;PL	_	_	_	_
+15	”	”	_	_	_	_	_	_	_
+16	auttamalla	auttaa	_	_	V;NFIN;ACT;AT+ESS;SG	_	_	_	_
+17	ennakoimaan	ennakoida	_	_	V;NFIN;ACT;IN+ALL;SG	_	_	_	_
+18	kuskien	kuski	_	_	N;GEN;PL	_	_	_	_
+19	toimintoja	toiminta	_	_	N;PRT;PL	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01136
+# sent_id = w01136029
+# text = Valentino pyrki etäännyttämään hahmon stereotyyppisestä arabimiehen kuvauksesta.
+# text_en = Valentino tried to distance the character from a stereotypical portrayal of an Arab man.
+1	Valentino	Valentino	_	_	SG;NOM;PROPN	_	_	_	_
+2	pyrki	pyrkiä	_	_	FIN;V;3;ACT;IND;PST;SG	_	_	_	_
+3	etäännyttämään	etäännyttää	_	_	V;NFIN;ACT;IN+ALL;SG	_	_	_	_
+4	hahmon	hahmo	_	_	N;SG;GEN	_	_	_	_
+5	stereotyyppisestä	stereo#tyyppinen	_	_	ADJ;SG;IN+ABL	_	_	_	_
+6	arabimiehen	arabi#mies	_	_	N;SG;GEN	_	_	_	_
+7	kuvauksesta	kuvaus	_	_	N;SG;IN+ABL	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01035030
+# text = Hän sanoi myös, että Klein on sulkeutunut, vastahakoinen ja haluton kävelemään oikeustalon alla sijaitsevista selleistä osallistuakseen kuulusteluunsa.
+# text_en = He also said Klein was uncommunicative, uncooperative and unwilling to walk up from cells under the courthouse to attend his hearing.
+1	Hän	hän	_	_	NOM;3;SG;PRO	_	_	_	_
+2	sanoi	sanoa	_	_	FIN;V;3;ACT;IND;PST;SG	_	_	_	_
+3	myös	myös	_	_	ADV	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	että	että	_	_	CONJ	_	_	_	_
+6	Klein	Klein	_	_	SG;NOM;PROPN	_	_	_	_
+7	on	olla	_	_	PRS;FIN;ACT;3;IND;SG;V	_	_	_	_
+8	sulkeutunut	sulkeutunut	_	_	NOM;SG;ADJ	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	vastahakoinen	vasta#hakoinen	_	_	NOM;ADJ;SG	_	_	_	_
+11	ja	ja	_	_	CONJ	_	_	_	_
+12	haluton	haluton	_	_	NOM;ADJ;SG	_	_	_	_
+13	kävelemään	kävellä	_	_	V;NFIN;ACT;IN+ALL;SG	_	_	_	_
+14	oikeustalon	oikeus#talo	_	_	N;SG;GEN	_	_	_	_
+15	alla	alla	_	_	ADP	_	_	_	_
+16	sijaitsevista	sijaita	_	_	V;ACT;V.PTCP;IN+ABL;PL	_	_	_	_
+17	selleistä	selli	_	_	N;PL;IN+ABL	_	_	_	_
+18	osallistuakseen	osallistua	_	_	PSS3;V;NFIN;ACT;SG;TRANS	_	_	_	_
+19	kuulusteluunsa	kuulustelu	_	_	PSS3;N;GEN;SG	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# sent_id = n04010021
+# text = Yritysten kuten Spotifyn, Teslan, Uberin ja Snapchatin johtajat osallistuvat yksityiseen tapahtumaan Mountain View Summitin lisäksi.
+# text_en = Leaders of companies such as Spotify, Tesla, Uber and Snapchat will attend a private event in addition to the Mountain View Summit.
+1	Yritysten	yritys	_	_	N;GEN;PL	_	_	_	_
+2	kuten	kuten	_	_	ADV	_	_	_	_
+3	Spotifyn	Spotify	_	_	SG;GEN;PROPN	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	Teslan	tesla	_	_	SG;GEN;PROPN	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	Uberin	Uber	_	_	SG;GEN;PROPN	_	_	_	_
+8	ja	ja	_	_	CONJ	_	_	_	_
+9	Snapchatin	Snapchat	_	_	SG;GEN;PROPN	_	_	_	_
+10	johtajat	johtaja	_	_	N;NOM;PL	_	_	_	_
+11	osallistuvat	osallistua	_	_	PRS;FIN;V;3;ACT;IND;PL	_	_	_	_
+12	yksityiseen	yksityinen	_	_	IN+ALL;ADJ;SG	_	_	_	_
+13	tapahtumaan	tapahtuma	_	_	N;SG;IN+ALL	_	_	_	_
+14	Mountain	mountain	_	_	SG;GEN;PROPN	_	_	_	_
+15	View	View	_	_	SG;NOM;PROPN	_	_	_	_
+16	Summitin	Summit	_	_	SG;GEN;PROPN	_	_	_	_
+17	lisäksi	lisäksi	_	_	ADP	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01048
+# sent_id = n01048008
+# text = ”Nämä arviot ovat yhteneviä vuokramarkkinoille valmistumisensa jälkeen tulevien uusien huoneistojen prosenttimäärien kanssa, mikä osoittaa, kuinka tärkeä rooli (kotimaisilla) sijoittajilla on Suur-Toronton asuntomarkkinoilla.”
+# text_en = "These estimates coincide with the percentages of new condos entering the rental market upon completion, indicating the important role (domestic) investors play in the GTA housing market."
+1	”	”	_	_	_	_	_	_	_
+2	Nämä	tämä	_	_	NOM;PRO;PL	_	_	_	_
+3	arviot	arvio	_	_	N;NOM;PL	_	_	_	_
+4	ovat	olla	_	_	PRS;FIN;ACT;3;IND;V;PL	_	_	_	_
+5	yhteneviä	yhtenevä	_	_	PRT;ADJ;PL	_	_	_	_
+6	vuokramarkkinoille	vuokra#markkinat	_	_	N;AT+ALL;PL	_	_	_	_
+7	valmistumisensa	valmistuminen	_	_	PSS3;N;NOM;PL	_	_	_	_
+8	jälkeen	jälkeen	_	_	ADP	_	_	_	_
+9	tulevien	tulla	_	_	GEN;V;ACT;V.PTCP;PL	_	_	_	_
+10	uusien	uusi	_	_	ADJ;GEN;PL	_	_	_	_
+11	huoneistojen	huoneisto	_	_	N;GEN;PL	_	_	_	_
+12	prosenttimäärien	prosentti#määrä	_	_	N;GEN;PL	_	_	_	_
+13	kanssa	kanssa	_	_	ADP	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	mikä	mikä	_	_	NOM;SG;PRO	_	_	_	_
+16	osoittaa	osoittaa	_	_	PRS;FIN;V;3;ACT;IND;SG	_	_	_	_
+17	,	,	_	_	_	_	_	_	_
+18	kuinka	kuinka	_	_	ADV	_	_	_	_
+19	tärkeä	tärkeä	_	_	NOM;SG;ADJ	_	_	_	_
+20	rooli	rooli	_	_	N;SG;NOM	_	_	_	_
+21	(	(	_	_	_	_	_	_	_
+22	kotimaisilla	kotimainen	_	_	ADJ;AT+ESS;PL	_	_	_	_
+23	)	)	_	_	_	_	_	_	_
+24	sijoittajilla	sijoittaja	_	_	N;AT+ESS;PL	_	_	_	_
+25	on	olla	_	_	PRS;FIN;ACT;3;IND;SG;V	_	_	_	_
+26	Suur-Toronton	Suur-Toronto	_	_	SG;GEN;PROPN	_	_	_	_
+27	asuntomarkkinoilla	asunto#markkinat	_	_	N;AT+ESS;PL	_	_	_	_
+28	.	.	_	_	_	_	_	_	_
+29	”	”	_	_	_	_	_	_	_
+
+# newdoc id = w01022
+# sent_id = w01022033
+# text = Blindleia on karien suojaama vesiväylä, joka alkaa läheltä Etelä-Norjan Kristiansandia ja jatkuu Lillesandin ohi.
+# text_en = The Blindleia is a skerry-protected waterway that starts near Kristiansand in southern Norway, and continues past Lillesand.
+1	Blindleia	Blindleia	_	_	SG;NOM;PROPN	_	_	_	_
+2	on	olla	_	_	PRS;FIN;ACT;3;IND;SG;V	_	_	_	_
+3	karien	kari	_	_	N;GEN;PL	_	_	_	_
+4	suojaama	suojata	_	_	NOM;V;ACT;V.PTCP;SG	_	_	_	_
+5	vesiväylä	vesi#väylä	_	_	N;SG;NOM	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	joka	joka	_	_	NOM;SG;PRO	_	_	_	_
+8	alkaa	alkaa	_	_	PRS;FIN;V;3;ACT;IND;SG	_	_	_	_
+9	läheltä	läheltä	_	_	ADP	_	_	_	_
+10	Etelä-Norjan	Etelä-Norja	_	_	SG;GEN;PROPN	_	_	_	_
+11	Kristiansandia	Kristiansand	_	_	SG;PRT;PROPN	_	_	_	_
+12	ja	ja	_	_	CONJ	_	_	_	_
+13	jatkuu	jatkua	_	_	PRS;FIN;V;3;ACT;IND;SG	_	_	_	_
+14	Lillesandin	Lillesand	_	_	SG;GEN;PROPN	_	_	_	_
+15	ohi	ohi	_	_	ADP	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01017013
+# text = ”Suurin osa ihmisistä pitäisi lentokentän langatonta internetiä hyödyllisempänä kuin mahdollisuutta lähettää sähköposteja lentokoneesta.”
+# text_en = "Most people would find airport wi-fi more useful than being able to send emails on a plane."
+1	”	”	_	_	_	_	_	_	_
+2	Suurin	suuri	_	_	NOM;SG;ADJ;RL	_	_	_	_
+3	osa	osa	_	_	N;SG;NOM	_	_	_	_
+4	ihmisistä	ihminen	_	_	N;PL;IN+ABL	_	_	_	_
+5	pitäisi	pitää	_	_	COND;FIN;ACT;3;SG;V	_	_	_	_
+6	lentokentän	lento#kenttä	_	_	N;SG;GEN	_	_	_	_
+7	langatonta	langaton	_	_	ADJ;SG;PRT	_	_	_	_
+8	internetiä	internet	_	_	N;SG;PRT	_	_	_	_
+9	hyödyllisempänä	hyödyllinen	_	_	CMPR;FRML;ADJ;SG	_	_	_	_
+10	kuin	kuin	_	_	CONJ	_	_	_	_
+11	mahdollisuutta	mahdollisuus	_	_	N;SG;PRT	_	_	_	_
+12	lähettää	lähettää	_	_	PRS;FIN;V;3;ACT;IND;SG	_	_	_	_
+13	sähköposteja	sähkö#posti	_	_	N;PRT;PL	_	_	_	_
+14	lentokoneesta	lento#kone	_	_	N;SG;IN+ABL	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+16	”	”	_	_	_	_	_	_	_
+
+# newdoc id = n05007
+# sent_id = n05007006
+# text = Hän uskoo, että kukaan, joka ei odota meitä, ei odota meitä.
+# text_en = He believes that nobody waiting for us waits for us.
+1	Hän	hän	_	_	NOM;3;SG;PRO	_	_	_	_
+2	uskoo	uskoa	_	_	PRS;FIN;V;3;ACT;IND;SG	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	että	että	_	_	CONJ	_	_	_	_
+5	kukaan	kukaan	_	_	NOM;SG;PRO	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	joka	joka	_	_	NOM;SG;PRO	_	_	_	_
+8	ei	ei	_	_	FIN;NEG;ACT;3;SG;V	_	_	_	_
+9	odota	odottaa	_	_	PRS;FIN;V;IND	_	_	_	_
+10	meitä	minä	_	_	PRO;1;PRT;PL	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	ei	ei	_	_	FIN;NEG;ACT;3;SG;V	_	_	_	_
+13	odota	odottaa	_	_	PRS;FIN;V;IND	_	_	_	_
+14	meitä	minä	_	_	PRO;1;PRT;PL	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w05006
+# sent_id = w05006024
+# text = Kultakauden espanja tai varhaismoderni espanja on kielen variantti, joka pitää sisällään siirtymän keskiaikaisesta espanjasta moderniin espanjaan.
+# text_en = Golden Age Spanish or Early Modern Spanish is the variant of the language that constitutes the transition from Medieval Spanish to Modern Spanish.
+1	Kultakauden	kulta#kausi	_	_	N;SG;GEN	_	_	_	_
+2	espanja	espanja	_	_	N;SG;NOM	_	_	_	_
+3	tai	tai	_	_	CONJ	_	_	_	_
+4	varhaismoderni	varhais#moderni	_	_	NOM;SG;ADJ	_	_	_	_
+5	espanja	espanja	_	_	N;SG;NOM	_	_	_	_
+6	on	olla	_	_	PRS;FIN;ACT;3;IND;SG;V	_	_	_	_
+7	kielen	kieli	_	_	N;SG;GEN	_	_	_	_
+8	variantti	variantti	_	_	N;SG;NOM	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	joka	joka	_	_	NOM;SG;PRO	_	_	_	_
+11	pitää	pitää	_	_	PRS;FIN;V;3;ACT;IND;SG	_	_	_	_
+12	sisällään	sisällä	_	_	PSS3;ADV	_	_	_	_
+13	siirtymän	siirtymä	_	_	N;SG;GEN	_	_	_	_
+14	keskiaikaisesta	keski#aikainen	_	_	ADJ;SG;IN+ABL	_	_	_	_
+15	espanjasta	espanja	_	_	N;SG;IN+ABL	_	_	_	_
+16	moderniin	moderni	_	_	SG;ADJ;IN+ALL	_	_	_	_
+17	espanjaan	espanja	_	_	N;SG;IN+ALL	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01063051
+# text = Niiden uusi kukoistus korostaa hyvän haasteen houkutusta, oli se sitten taiteellinen tai muuta: epämukavuutta, kasvua ja merkityksellistä yhteyttä.
+# text_en = Their revivals underscore the appeal of a good challenge, artistic or otherwise: discomfort, growth, and a meaningful connection.
+1	Niiden	se	_	_	PRO;GEN;PL	_	_	_	_
+2	uusi	uusi	_	_	NOM;SG;ADJ	_	_	_	_
+3	kukoistus	kukoistus	_	_	N;SG;NOM	_	_	_	_
+4	korostaa	korostaa	_	_	PRS;FIN;V;3;ACT;IND;SG	_	_	_	_
+5	hyvän	hyvä	_	_	SG;ADJ;GEN	_	_	_	_
+6	haasteen	haaste	_	_	N;SG;GEN	_	_	_	_
+7	houkutusta	houkutus	_	_	N;SG;PRT	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	oli	olla	_	_	FIN;ACT;3;IND;PST;SG;V	_	_	_	_
+10	se	se	_	_	NOM;SG;PRO	_	_	_	_
+11	sitten	sitten	_	_	ADV	_	_	_	_
+12	taiteellinen	taiteellinen	_	_	NOM;ADJ;SG	_	_	_	_
+13	tai	tai	_	_	CONJ	_	_	_	_
+14	muuta	muu	_	_	PRT;SG;PRO	_	_	_	_
+15	:	:	_	_	_	_	_	_	_
+16	epämukavuutta	epä#mukavuus	_	_	N;SG;PRT	_	_	_	_
+17	,	,	_	_	_	_	_	_	_
+18	kasvua	kasvu	_	_	N;SG;PRT	_	_	_	_
+19	ja	ja	_	_	CONJ	_	_	_	_
+20	merkityksellistä	merkityksellinen	_	_	ADJ;SG;PRT	_	_	_	_
+21	yhteyttä	yhteys	_	_	N;SG;PRT	_	_	_	_
+22	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01145028
+# text = ”Pelkästään kulkueessa työskentelee 1200 vapaaehtoista”, González Anaya sanoo.
+# text_en = "There are 1200 volunteers working for the parade alone," González Anaya says.
+1	”	”	_	_	_	_	_	_	_
+2	Pelkästään	pelkästään	_	_	ADV	_	_	_	_
+3	kulkueessa	kulkue	_	_	N;SG;IN+ESS	_	_	_	_
+4	työskentelee	työskennellä	_	_	PRS;FIN;V;3;ACT;IND;SG	_	_	_	_
+5	1200	1200	_	_	NUM	_	_	_	_
+6	vapaaehtoista	vapaa#ehtoinen	_	_	ADJ;SG;PRT	_	_	_	_
+7	”	”	_	_	_	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	González	González	_	_	SG;NOM;PROPN	_	_	_	_
+10	Anaya	Anaya	_	_	SG;NOM;PROPN	_	_	_	_
+11	sanoo	sanoa	_	_	PRS;FIN;V;3;ACT;IND;SG	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01124
+# sent_id = w01124011
+# text = Sen jälkeen, kun Thought ’Ya Knew -albumin nousu Billboard 200 -listalla päättyi sijalle 96, se kiipesi Yhdistyneen kuningaskunnan listalla sijalle 31, mutta albumi pysyi tällä listalla vain kaksi viikkoa.
+# text_en = After its progress had stalled in the Billboard 200 at No. 96, Thought 'Ya Knew climbed to No. 31 in the UK, but the album charted for only two weeks in the UK.
+1	Sen	se	_	_	SG;PRO;GEN	_	_	_	_
+2	jälkeen	jälkeen	_	_	ADP	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	kun	kun	_	_	CONJ	_	_	_	_
+5	Thought	Thought	_	_	SG;NOM;PROPN	_	_	_	_
+6	’Ya	’Ya	_	_	SG;NOM;PROPN	_	_	_	_
+7	Knew	Knew	_	_	SG;NOM;PROPN	_	_	_	_
+8	-albumin	albumi	_	_	N;SG;GEN	_	_	_	_
+9	nousu	nousu	_	_	N;SG;NOM	_	_	_	_
+10	Billboard	Billboard	_	_	SG;NOM;PROPN	_	_	_	_
+11	200	200	_	_	NUM	_	_	_	_
+12	-listalla	lista	_	_	N;SG;AT+ESS	_	_	_	_
+13	päättyi	päättyä	_	_	FIN;V;3;ACT;IND;PST;SG	_	_	_	_
+14	sijalle	sija	_	_	N;AT+ALL;SG	_	_	_	_
+15	96	96	_	_	NUM	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	se	se	_	_	NOM;SG;PRO	_	_	_	_
+18	kiipesi	kiivetä	_	_	FIN;V;3;ACT;IND;PST;SG	_	_	_	_
+19	Yhdistyneen	yhdistynyt	_	_	SG;ADJ;GEN	_	_	_	_
+20	kuningaskunnan	kuningas#kunta	_	_	N;SG;GEN	_	_	_	_
+21	listalla	lista	_	_	N;SG;AT+ESS	_	_	_	_
+22	sijalle	sija	_	_	N;AT+ALL;SG	_	_	_	_
+23	31	31	_	_	NUM	_	_	_	_
+24	,	,	_	_	_	_	_	_	_
+25	mutta	mutta	_	_	CONJ	_	_	_	_
+26	albumi	albumi	_	_	N;SG;NOM	_	_	_	_
+27	pysyi	pysyä	_	_	FIN;V;3;ACT;IND;PST;SG	_	_	_	_
+28	tällä	tämä	_	_	SG;PRO;AT+ESS	_	_	_	_
+29	listalla	lista	_	_	N;SG;AT+ESS	_	_	_	_
+30	vain	vain	_	_	ADV	_	_	_	_
+31	kaksi	kaksi	_	_	SG;NUM;NOM	_	_	_	_
+32	viikkoa	viikko	_	_	N;SG;PRT	_	_	_	_
+33	.	.	_	_	_	_	_	_	_
+
+# sent_id = w05006058
+# text = Toisaalta ulkopuolinen historia pitää sisällään viittauksia espanjanpuhujien historiaan, heidän historiallisiin vastoinkäymisiinsä sekä kielen sosiaaliseen käyttöön.
+# text_en = On the other hand, external history contains references to the history of Spanish speakers, their historical vicissitudes and the social use of the language.
+1	Toisaalta	toisaalta	_	_	ADV	_	_	_	_
+2	ulkopuolinen	ulko#puolinen	_	_	NOM;ADJ;SG	_	_	_	_
+3	historia	historia	_	_	N;SG;NOM	_	_	_	_
+4	pitää	pitää	_	_	PRS;FIN;V;3;ACT;IND;SG	_	_	_	_
+5	sisällään	sisällä	_	_	PSS3;ADV	_	_	_	_
+6	viittauksia	viittaus	_	_	N;PRT;PL	_	_	_	_
+7	espanjanpuhujien	espanjan#puhuja	_	_	N;GEN;PL	_	_	_	_
+8	historiaan	historia	_	_	N;SG;IN+ALL	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	heidän	hän	_	_	GEN;3;PRO;PL	_	_	_	_
+11	historiallisiin	historiallinen	_	_	IN+ALL;ADJ;PL	_	_	_	_
+12	vastoinkäymisiinsä	vastoinkäyminen	_	_	PSS3;N;IN+ALL;PL	_	_	_	_
+13	sekä	sekä	_	_	CONJ	_	_	_	_
+14	kielen	kieli	_	_	N;SG;GEN	_	_	_	_
+15	sosiaaliseen	sosiaalinen	_	_	IN+ALL;ADJ;SG	_	_	_	_
+16	käyttöön	käyttö	_	_	N;SG;IN+ALL	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01029011
+# text = Seagal on viime vuosina tehnyt useita matkoja Venäjälle ja hän vieraili Kamtšatkassa ja Sahalinilla syyskuussa. Seagalin isoäiti oli kotoisin Venäjän itäkolkassa sijaitsevasta Vladivostokista.
+# text_en = Seagal, whose grandmother was from Vladivostok in Russia's far east, has made frequent trips to Russia in recent years and visited Kamchatka and Sakhalin in September.
+1	Seagal	Seagal	_	_	SG;NOM;PROPN	_	_	_	_
+2	on	olla	_	_	PRS;FIN;ACT;3;IND;SG;V	_	_	_	_
+3	viime	viime	_	_	ADJ	_	_	_	_
+4	vuosina	vuosi	_	_	N;FRML;PL	_	_	_	_
+5	tehnyt	tehdä	_	_	NOM;V;ACT;V.PTCP;SG	_	_	_	_
+6	useita	usea	_	_	PRT;ADJ;PL	_	_	_	_
+7	matkoja	matka	_	_	N;PRT;PL	_	_	_	_
+8	Venäjälle	Venäjä	_	_	SG;AT+ALL;PROPN	_	_	_	_
+9	ja	ja	_	_	CONJ	_	_	_	_
+10	hän	hän	_	_	NOM;3;SG;PRO	_	_	_	_
+11	vieraili	vierailla	_	_	FIN;V;3;ACT;IND;PST;SG	_	_	_	_
+12	Kamtšatkassa	Kamtšatka	_	_	IN+ESS;SG;PROPN	_	_	_	_
+13	ja	ja	_	_	CONJ	_	_	_	_
+14	Sahalinilla	Sahalin	_	_	SG;AT+ESS;PROPN	_	_	_	_
+15	syyskuussa	syyskuu	_	_	N;SG;IN+ESS	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+17	Seagalin	Seagal	_	_	SG;GEN;PROPN	_	_	_	_
+18	isoäiti	isoäiti	_	_	N;SG;NOM	_	_	_	_
+19	oli	olla	_	_	FIN;ACT;3;IND;PST;SG;V	_	_	_	_
+20	kotoisin	kotoisin	_	_	ADV	_	_	_	_
+21	Venäjän	Venäjä	_	_	SG;GEN;PROPN	_	_	_	_
+22	itäkolkassa	itä#kolkka	_	_	N;SG;IN+ESS	_	_	_	_
+23	sijaitsevasta	sijaita	_	_	V;ACT;V.PTCP;SG;IN+ABL	_	_	_	_
+24	Vladivostokista	Vladivostok	_	_	SG;IN+ABL;PROPN	_	_	_	_
+25	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n02076
+# sent_id = n02076003
+# text = International Organization for Renewable Energies (IRENA) -organisaation pääjohtaja Adnan Z. Amin on varma: ”Merituulivoimasta voi tulla pääasiallinen sähköntuottaja maailmantalouteen, joka on vapaa hiileen perustuvasta energiasta.”
+# text_en = Adnan Z. Amin, General Director of the International Organization for Renewable Energies (IRENA) is certain: "Offshore wind power can become the top power generator in a global economy that is free of coal-based energy."
+1	International	international	_	_	N;SG;NOM	_	_	_	_
+2	Organization	Organization	_	_	SG;NOM;PROPN	_	_	_	_
+3	for	for	_	_	SG;NOM;PROPN	_	_	_	_
+4	Renewable	Renewable	_	_	SG;NOM;PROPN	_	_	_	_
+5	Energies	Energies	_	_	SG;NOM;PROPN	_	_	_	_
+6	(	(	_	_	_	_	_	_	_
+7	IRENA	IRENA	_	_	SG;NOM;PROPN	_	_	_	_
+8	)	)	_	_	_	_	_	_	_
+9	-organisaation	organisaatio	_	_	N;SG;GEN	_	_	_	_
+10	pääjohtaja	pää#johtaja	_	_	N;SG;NOM	_	_	_	_
+11	Adnan	Adnan	_	_	SG;NOM;PROPN	_	_	_	_
+12	Z	z	_	_	SG;NOM;PROPN	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+14	Amin	Amin	_	_	SG;NOM;PROPN	_	_	_	_
+15	on	olla	_	_	PRS;FIN;ACT;3;IND;SG;V	_	_	_	_
+16	varma	varma	_	_	NOM;SG;ADJ	_	_	_	_
+17	:	:	_	_	_	_	_	_	_
+18	”	”	_	_	_	_	_	_	_
+19	Merituulivoimasta	meri#tuuli#voima	_	_	N;SG;IN+ABL	_	_	_	_
+20	voi	voida	_	_	PRS;FIN;ACT;3;IND;SG;V	_	_	_	_
+21	tulla	tulla	_	_	V;NFIN;ACT;SG	_	_	_	_
+22	pääasiallinen	pää#asiallinen	_	_	NOM;ADJ;SG	_	_	_	_
+23	sähköntuottaja	sähkön#tuottaja	_	_	N;SG;NOM	_	_	_	_
+24	maailmantalouteen	maailman#talous	_	_	N;SG;IN+ALL	_	_	_	_
+25	,	,	_	_	_	_	_	_	_
+26	joka	joka	_	_	NOM;SG;PRO	_	_	_	_
+27	on	olla	_	_	PRS;FIN;ACT;3;IND;SG;V	_	_	_	_
+28	vapaa	vapaa	_	_	NOM;SG;ADJ	_	_	_	_
+29	hiileen	hiili	_	_	N;SG;IN+ALL	_	_	_	_
+30	perustuvasta	perustua	_	_	V;ACT;V.PTCP;SG;IN+ABL	_	_	_	_
+31	energiasta	energia	_	_	N;SG;IN+ABL	_	_	_	_
+32	.	.	_	_	_	_	_	_	_
+33	”	”	_	_	_	_	_	_	_
+
+# newdoc id = w01142
+# sent_id = w01142013
+# text = Joanista tuli kahden yorkilaisen Englannin kuninkaan isoäiti, kun heidän tyttärensä Cecily meni naimisiin 3. Yorkin herttuan Richard Plantagenetin kanssa ja sai monta lasta, mukaan lukien Edvard IV ja Rikhard III.
+# text_en = When their daughter Cecily married Richard Plantagenet, the 3rd Duke of York, and had several offspring, including Edward IV and Richard III, Joan became the grandmother of two York kings of England.
+1	Joanista	Joan	_	_	N;SG;IN+ABL	_	_	_	_
+2	tuli	tulla	_	_	FIN;V;3;ACT;IND;PST;SG	_	_	_	_
+3	kahden	kaksi	_	_	SG;NUM;GEN	_	_	_	_
+4	yorkilaisen	yorkilainen	_	_	GEN;ADJ;SG	_	_	_	_
+5	Englannin	Englanti	_	_	SG;GEN;PROPN	_	_	_	_
+6	kuninkaan	kuningas	_	_	N;SG;GEN	_	_	_	_
+7	isoäiti	isoäiti	_	_	N;SG;NOM	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	kun	kun	_	_	CONJ	_	_	_	_
+10	heidän	hän	_	_	GEN;3;PRO;PL	_	_	_	_
+11	tyttärensä	tytär	_	_	PSS3;N;SG;NOM	_	_	_	_
+12	Cecily	Cecily	_	_	SG;NOM;PROPN	_	_	_	_
+13	meni	mennä	_	_	FIN;V;3;ACT;IND;PST;SG	_	_	_	_
+14	naimisiin	naimisiin	_	_	ADV	_	_	_	_
+15	3.	3.	_	_	ADJ	_	_	_	_
+16	Yorkin	York	_	_	SG;GEN;PROPN	_	_	_	_
+17	herttuan	herttua	_	_	N;SG;GEN	_	_	_	_
+18	Richard	Richard	_	_	SG;NOM;PROPN	_	_	_	_
+19	Plantagenetin	Plantagenet	_	_	SG;GEN;PROPN	_	_	_	_
+20	kanssa	kanssa	_	_	ADP	_	_	_	_
+21	ja	ja	_	_	CONJ	_	_	_	_
+22	sai	saada	_	_	FIN;V;3;ACT;IND;PST;SG	_	_	_	_
+23	monta	moni	_	_	PRT;SG;PRO	_	_	_	_
+24	lasta	lapsi	_	_	N;SG;PRT	_	_	_	_
+25	,	,	_	_	_	_	_	_	_
+26	mukaan	mukaan	_	_	ADV	_	_	_	_
+27	lukien	lukien	_	_	ADP	_	_	_	_
+28	Edvard	Edvard	_	_	SG;NOM;PROPN	_	_	_	_
+29	IV	IV	_	_	ADJ	_	_	_	_
+30	ja	ja	_	_	CONJ	_	_	_	_
+31	Rikhard	Rikhard	_	_	SG;NOM;PROPN	_	_	_	_
+32	III	III	_	_	ADJ	_	_	_	_
+33	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01079077
+# text = Espanja oli häätänyt sefardiväestön maasta vuonna 1492. Monet näistä espanjalaisista juutalaisista lähtivät Espanjasta Portugaliin, mutta lopulta joutuivat maalitauluksi myös siellä.
+# text_en = Spain had expelled its Sephardic population in 1492; many of these Spanish Jews left Spain for Portugal but eventually were targeted there as well.
+1	Espanja	Espanja	_	_	SG;NOM;PROPN	_	_	_	_
+2	oli	olla	_	_	FIN;ACT;3;IND;PST;SG;V	_	_	_	_
+3	häätänyt	häätää	_	_	NOM;V;ACT;V.PTCP;SG	_	_	_	_
+4	sefardiväestön	sefardi#väestö	_	_	N;SG;GEN	_	_	_	_
+5	maasta	maa	_	_	N;SG;IN+ABL	_	_	_	_
+6	vuonna	vuosi	_	_	N;SG;FRML	_	_	_	_
+7	1492	1492	_	_	NUM	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+9	Monet	moni	_	_	NOM;PRO;PL	_	_	_	_
+10	näistä	tämä	_	_	PRO;PL;IN+ABL	_	_	_	_
+11	espanjalaisista	espanjalainen	_	_	IN+ABL;ADJ;PL	_	_	_	_
+12	juutalaisista	juutalainen	_	_	N;PL;IN+ABL	_	_	_	_
+13	lähtivät	lähteä	_	_	FIN;V;3;ACT;IND;PST;PL	_	_	_	_
+14	Espanjasta	Espanja	_	_	SG;IN+ABL;PROPN	_	_	_	_
+15	Portugaliin	Portugali	_	_	SG;IN+ALL;PROPN	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	mutta	mutta	_	_	CONJ	_	_	_	_
+18	lopulta	lopulta	_	_	ADV	_	_	_	_
+19	joutuivat	joutua	_	_	FIN;V;3;ACT;IND;PST;PL	_	_	_	_
+20	maalitauluksi	maali#taulu	_	_	N;SG;TRANS	_	_	_	_
+21	myös	myös	_	_	ADV	_	_	_	_
+22	siellä	siellä	_	_	ADV	_	_	_	_
+23	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01125037
+# text = George oli järkyttynyt siitä, mitä hän piti heidän löyhämoraalisuutenaan.
+# text_en = George was appalled by what he saw as their loose morals.
+1	George	George	_	_	SG;NOM;PROPN	_	_	_	_
+2	oli	olla	_	_	FIN;ACT;3;IND;PST;SG;V	_	_	_	_
+3	järkyttynyt	järkyttyä	_	_	NOM;V;ACT;V.PTCP;SG	_	_	_	_
+4	siitä	se	_	_	SG;PRO;IN+ABL	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	mitä	mikä	_	_	PRT;SG;PRO	_	_	_	_
+7	hän	hän	_	_	NOM;3;SG;PRO	_	_	_	_
+8	piti	pitää	_	_	FIN;V;3;ACT;IND;PST;SG	_	_	_	_
+9	heidän	hän	_	_	GEN;3;PRO;PL	_	_	_	_
+10	löyhämoraalisuutenaan	löyhä#moraalisuus	_	_	PSS3;N;FRML;SG	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01111093
+# text = Winstone julistettiin vararikkoiseksi 4. lokakuuta 1988 ja jälleen 19. maaliskuuta 1993.
+# text_en = Winstone was declared bankrupt on 4 October 1988 and again on 19 March 1993.
+1	Winstone	Winstone	_	_	N;SG;NOM	_	_	_	_
+2	julistettiin	julistaa	_	_	FIN;V;IND;PST;PASS	_	_	_	_
+3	vararikkoiseksi	vara#rikkoinen	_	_	ADJ;SG;TRANS	_	_	_	_
+4	4.	4.	_	_	ADJ	_	_	_	_
+5	lokakuuta	lokakuu	_	_	N;SG;PRT	_	_	_	_
+6	1988	1988	_	_	NUM	_	_	_	_
+7	ja	ja	_	_	CONJ	_	_	_	_
+8	jälleen	jälleen	_	_	ADV	_	_	_	_
+9	19.	19.	_	_	ADJ	_	_	_	_
+10	maaliskuuta	maaliskuu	_	_	N;SG;PRT	_	_	_	_
+11	1993	1993	_	_	NUM	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01140
+# sent_id = n01140012
+# text = Alankomaissa viranomaiset ovat ottaneet vähemmän teknisen katsantokannan seurantalennokkeihin.
+# text_en = In the Netherlands, authorities have taken a lower-tech approach to tracking drones.
+1	Alankomaissa	Alankomaat	_	_	IN+ESS;PL;PROPN	_	_	_	_
+2	viranomaiset	viran#omainen	_	_	N;NOM;PL	_	_	_	_
+3	ovat	olla	_	_	PRS;FIN;ACT;3;IND;V;PL	_	_	_	_
+4	ottaneet	ottaa	_	_	NOM;V;ACT;V.PTCP;PL	_	_	_	_
+5	vähemmän	vähemmän	_	_	ADV	_	_	_	_
+6	teknisen	tekninen	_	_	GEN;ADJ;SG	_	_	_	_
+7	katsantokannan	katsanto#kanta	_	_	N;SG;GEN	_	_	_	_
+8	seurantalennokkeihin	seuranta#lennokki	_	_	N;IN+ALL;PL	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01038022
+# text = Tämä on myös ainoa Alaskan alue, jossa päivän korkeimman lämpötilan keskiarvo on talvikuukausina nollan yläpuolella.
+# text_en = This is also the only region in Alaska in which the average daytime high temperature is above freezing during the winter months.
+1	Tämä	tämä	_	_	NOM;SG;PRO	_	_	_	_
+2	on	olla	_	_	PRS;FIN;ACT;3;IND;SG;V	_	_	_	_
+3	myös	myös	_	_	ADV	_	_	_	_
+4	ainoa	ainoa	_	_	NOM;SG;PRO	_	_	_	_
+5	Alaskan	Alaska	_	_	SG;GEN;PROPN	_	_	_	_
+6	alue	alue	_	_	N;SG;NOM	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	jossa	joka	_	_	IN+ESS;SG;PRO	_	_	_	_
+9	päivän	päivä	_	_	N;SG;GEN	_	_	_	_
+10	korkeimman	korkea	_	_	SG;ADJ;GEN;RL	_	_	_	_
+11	lämpötilan	lämpö#tila	_	_	N;SG;GEN	_	_	_	_
+12	keskiarvo	keski#arvo	_	_	N;SG;NOM	_	_	_	_
+13	on	olla	_	_	PRS;FIN;ACT;3;IND;SG;V	_	_	_	_
+14	talvikuukausina	talvi#kuukausi	_	_	N;FRML;PL	_	_	_	_
+15	nollan	nolla	_	_	N;SG;GEN	_	_	_	_
+16	yläpuolella	yläpuolella	_	_	ADP	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01074020
+# text = Hänen pelissään on terävyyttä, mutta hänellä on myös pehmeät kädet.
+# text_en = He has got that hard edge to his game but also the soft hands.
+1	Hänen	hän	_	_	GEN;3;SG;PRO	_	_	_	_
+2	pelissään	peli	_	_	PSS3;N;SG;IN+ESS	_	_	_	_
+3	on	olla	_	_	PRS;FIN;ACT;3;IND;SG;V	_	_	_	_
+4	terävyyttä	terävyys	_	_	N;SG;PRT	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	mutta	mutta	_	_	CONJ	_	_	_	_
+7	hänellä	hän	_	_	3;AT+ESS;SG;PRO	_	_	_	_
+8	on	olla	_	_	PRS;FIN;ACT;3;IND;SG;V	_	_	_	_
+9	myös	myös	_	_	ADV	_	_	_	_
+10	pehmeät	pehmeä	_	_	NOM;ADJ;PL	_	_	_	_
+11	kädet	käsi	_	_	N;NOM;PL	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n02034
+# sent_id = n02034018
+# text = Keskiyö alkaa viimeistään silloin, kun pelottavia urkuja soitetaan, kuten 60-luvun hitissä nimeltä Monster Mash.
+# text_en = The witching hour starts up at least by the time the scary organ is played, such as in the 60s hit Monster Mash.
+1	Keskiyö	keski#yö	_	_	N;SG;NOM	_	_	_	_
+2	alkaa	alkaa	_	_	PRS;FIN;V;3;ACT;IND;SG	_	_	_	_
+3	viimeistään	viimeistään	_	_	ADV	_	_	_	_
+4	silloin	silloin	_	_	ADV	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	kun	kun	_	_	CONJ	_	_	_	_
+7	pelottavia	pelottava	_	_	PRT;ADJ;PL	_	_	_	_
+8	urkuja	urku	_	_	N;PRT;PL	_	_	_	_
+9	soitetaan	soittaa	_	_	PRS;FIN;V;IND;PASS	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	kuten	kuten	_	_	ADV	_	_	_	_
+12	60-luvun	60#luku	_	_	N;SG;GEN	_	_	_	_
+13	hitissä	hitti	_	_	N;SG;IN+ESS	_	_	_	_
+14	nimeltä	nimi	_	_	N;SG;AT+ABL	_	_	_	_
+15	Monster	Monster	_	_	SG;NOM;PROPN	_	_	_	_
+16	Mash	Mash	_	_	SG;NOM;PROPN	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01150
+# sent_id = n01150007
+# text = ”Mutta arkkitehtuuri voi rakentaa sillan elävien ja kuolleiden välille, ja jossain määrin jopa hämärtää rajoja.”
+# text_en = "But architecture can build a bridge between the living and the dead and, to some extent, blur the boundaries."
+1	”	”	_	_	_	_	_	_	_
+2	Mutta	mutta	_	_	CONJ	_	_	_	_
+3	arkkitehtuuri	arkkitehtuuri	_	_	N;SG;NOM	_	_	_	_
+4	voi	voida	_	_	PRS;FIN;ACT;3;IND;SG;V	_	_	_	_
+5	rakentaa	rakentaa	_	_	V;NFIN;ACT;SG	_	_	_	_
+6	sillan	silta	_	_	N;SG;GEN	_	_	_	_
+7	elävien	elävä	_	_	N;GEN;PL	_	_	_	_
+8	ja	ja	_	_	CONJ	_	_	_	_
+9	kuolleiden	kuollut	_	_	N;GEN;PL	_	_	_	_
+10	välille	välille	_	_	ADP	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	ja	ja	_	_	CONJ	_	_	_	_
+13	jossain	jossain	_	_	ADV	_	_	_	_
+14	määrin	määrä	_	_	ADV	_	_	_	_
+15	jopa	jopa	_	_	ADV	_	_	_	_
+16	hämärtää	hämärtää	_	_	PRS;FIN;V;ACT;IND;0;SG	_	_	_	_
+17	rajoja	raja	_	_	N;PRT;PL	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+19	”	”	_	_	_	_	_	_	_
+
+# sent_id = n01134007
+# text = Sijoittajat lunastavat valtion velkakirjoja ja suurin vaikutus tällä on Yhdysvaltain ja Australian velkakirjoihin.
+# text_en = Investors are selling out of government bonds, with U.S. and Australian bonds feeling the biggest impact.
+1	Sijoittajat	sijoittaja	_	_	N;NOM;PL	_	_	_	_
+2	lunastavat	lunastaa	_	_	PRS;FIN;V;3;ACT;IND;PL	_	_	_	_
+3	valtion	valtio	_	_	N;SG;GEN	_	_	_	_
+4	velkakirjoja	velka#kirja	_	_	N;PRT;PL	_	_	_	_
+5	ja	ja	_	_	CONJ	_	_	_	_
+6	suurin	suuri	_	_	NOM;SG;ADJ;RL	_	_	_	_
+7	vaikutus	vaikutus	_	_	N;SG;NOM	_	_	_	_
+8	tällä	tämä	_	_	SG;PRO;AT+ESS	_	_	_	_
+9	on	olla	_	_	PRS;FIN;ACT;3;IND;SG;V	_	_	_	_
+10	Yhdysvaltain	Yhdysvallat	_	_	GEN;PL;PROPN	_	_	_	_
+11	ja	ja	_	_	CONJ	_	_	_	_
+12	Australian	Australia	_	_	SG;GEN;PROPN	_	_	_	_
+13	velkakirjoihin	velka#kirja	_	_	N;IN+ALL;PL	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01014
+# sent_id = n01014003
+# text = Michael Fallon sanoi, että sovittu päivämäärä teräksen työstön aloittamisesta auttaisi houkuttelemaan uusia sijoituksia ja turvaamaan satoja ammattitaitoa vaativia työpaikkoja aina vuoteen 2035 asti.
+# text_en = Michael Fallon said the date for cutting the first steel would help secure new investment and safeguard hundreds of skilled jobs until 2035.
+1	Michael	Michael	_	_	SG;NOM;PROPN	_	_	_	_
+2	Fallon	Fallon	_	_	SG;NOM;PROPN	_	_	_	_
+3	sanoi	sanoa	_	_	FIN;V;3;ACT;IND;PST;SG	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	että	että	_	_	CONJ	_	_	_	_
+6	sovittu	sopia	_	_	NOM;V;V.PTCP;SG;PASS	_	_	_	_
+7	päivämäärä	päivä#määrä	_	_	N;SG;NOM	_	_	_	_
+8	teräksen	teräs	_	_	N;SG;GEN	_	_	_	_
+9	työstön	työstö	_	_	N;SG;GEN	_	_	_	_
+10	aloittamisesta	aloittaminen	_	_	N;SG;IN+ABL	_	_	_	_
+11	auttaisi	auttaa	_	_	COND;FIN;V;3;ACT;SG	_	_	_	_
+12	houkuttelemaan	houkutella	_	_	V;NFIN;ACT;IN+ALL;SG	_	_	_	_
+13	uusia	uusi	_	_	PRT;ADJ;PL	_	_	_	_
+14	sijoituksia	sijoitus	_	_	N;PRT;PL	_	_	_	_
+15	ja	ja	_	_	CONJ	_	_	_	_
+16	turvaamaan	turvata	_	_	V;NFIN;ACT;IN+ALL;SG	_	_	_	_
+17	satoja	sata	_	_	NUM;PRT;PL	_	_	_	_
+18	ammattitaitoa	ammatti#taito	_	_	N;SG;PRT	_	_	_	_
+19	vaativia	vaatia	_	_	V;ACT;V.PTCP;PRT;PL	_	_	_	_
+20	työpaikkoja	työpaikka	_	_	N;PRT;PL	_	_	_	_
+21	aina	aina	_	_	ADV	_	_	_	_
+22	vuoteen	vuosi	_	_	N;SG;IN+ALL	_	_	_	_
+23	2035	2035	_	_	NUM	_	_	_	_
+24	asti	asti	_	_	ADP	_	_	_	_
+25	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01025
+# sent_id = n01025025
+# text = ”Ajatukseen toisten ihmisten kehon osien ostamisesta ja päällä pitämisestä liittyy yhä tietty yök-tekijä”, hän sanoo.
+# text_en = "There is still a 'yuk' factor to the whole idea of buying and wearing other people's body parts," she says.
+1	”	”	_	_	_	_	_	_	_
+2	Ajatukseen	ajatus	_	_	N;SG;IN+ALL	_	_	_	_
+3	toisten	toinen	_	_	PRO;GEN;PL	_	_	_	_
+4	ihmisten	ihminen	_	_	N;GEN;PL	_	_	_	_
+5	kehon	keho	_	_	N;SG;GEN	_	_	_	_
+6	osien	osa	_	_	N;GEN;PL	_	_	_	_
+7	ostamisesta	ostaminen	_	_	N;SG;IN+ABL	_	_	_	_
+8	ja	ja	_	_	CONJ	_	_	_	_
+9	päällä	päällä	_	_	ADV	_	_	_	_
+10	pitämisestä	pitäminen	_	_	N;SG;IN+ABL	_	_	_	_
+11	liittyy	liittyä	_	_	PRS;FIN;V;3;ACT;IND;SG	_	_	_	_
+12	yhä	yhä	_	_	ADV	_	_	_	_
+13	tietty	tietty	_	_	NOM;SG;ADJ	_	_	_	_
+14	yök-tekijä	yök#tekijä	_	_	N;SG;NOM	_	_	_	_
+15	”	”	_	_	_	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	hän	hän	_	_	NOM;3;SG;PRO	_	_	_	_
+18	sanoo	sanoa	_	_	PRS;FIN;V;3;ACT;IND;SG	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01051006
+# text = Häntäluun teratooma on kasvain, joka kehittyy ennen syntymää ja kasvaa vauvan häntäluusta.
+# text_en = A sacrococcygeal teratoma is a tumour that develops before birth and grows from a baby's tailbone.
+1	Häntäluun	häntä#luu	_	_	N;SG;GEN	_	_	_	_
+2	teratooma	teratooma	_	_	N;SG;NOM	_	_	_	_
+3	on	olla	_	_	PRS;FIN;ACT;3;IND;SG;V	_	_	_	_
+4	kasvain	kasvain	_	_	N;SG;NOM	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	joka	joka	_	_	NOM;SG;PRO	_	_	_	_
+7	kehittyy	kehittyä	_	_	PRS;FIN;V;3;ACT;IND;SG	_	_	_	_
+8	ennen	ennen	_	_	ADP	_	_	_	_
+9	syntymää	syntymä	_	_	N;SG;PRT	_	_	_	_
+10	ja	ja	_	_	CONJ	_	_	_	_
+11	kasvaa	kasvaa	_	_	PRS;FIN;V;3;ACT;IND;SG	_	_	_	_
+12	vauvan	vauva	_	_	N;SG;GEN	_	_	_	_
+13	häntäluusta	häntä#luu	_	_	N;SG;IN+ABL	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = n02042026
+# text = Älypuhelinsukupolvi sai sovelluksen, jonka se ansaitsi, ja jossa idioottimaisin tilanne saavutti parhaassa tapauksessa miljoonayleisön.
+# text_en = The smartphone generation received an app it deserved, where, in the best case scenario, the most idiotic situation received an audience of millions.
+1	Älypuhelinsukupolvi	äly#puhelin#suku#polvi	_	_	N;SG;NOM	_	_	_	_
+2	sai	saada	_	_	FIN;V;3;ACT;IND;PST;SG	_	_	_	_
+3	sovelluksen	sovellus	_	_	N;SG;GEN	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	jonka	joka	_	_	SG;PRO;GEN	_	_	_	_
+6	se	se	_	_	NOM;SG;PRO	_	_	_	_
+7	ansaitsi	ansaita	_	_	FIN;V;3;ACT;IND;PST;SG	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	ja	ja	_	_	CONJ	_	_	_	_
+10	jossa	joka	_	_	IN+ESS;SG;PRO	_	_	_	_
+11	idioottimaisin	idioottimainen	_	_	NOM;RL;ADJ;SG	_	_	_	_
+12	tilanne	tilanne	_	_	N;SG;NOM	_	_	_	_
+13	saavutti	saavuttaa	_	_	FIN;V;3;ACT;IND;PST;SG	_	_	_	_
+14	parhaassa	hyvä	_	_	IN+ESS;SG;ADJ;RL	_	_	_	_
+15	tapauksessa	tapaus	_	_	N;SG;IN+ESS	_	_	_	_
+16	miljoonayleisön	miljoona#yleisö	_	_	N;SG;GEN	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = n04009003
+# text = Yksi esimerkki turvatoimien tutkimuksen sovelluksista on humanoidirobotti, joka kehitettiin kilpailemaan Valentino Rossin kanssa.
+# text_en = One of the examples of research applied under safety measures has also produced a humanoid robot to compete with Valentino Rossi.
+1	Yksi	yksi	_	_	SG;NUM;NOM	_	_	_	_
+2	esimerkki	esi#merkki	_	_	N;SG;NOM	_	_	_	_
+3	turvatoimien	turva#toimi	_	_	N;GEN;PL	_	_	_	_
+4	tutkimuksen	tutkimus	_	_	N;SG;GEN	_	_	_	_
+5	sovelluksista	sovellus	_	_	N;PL;IN+ABL	_	_	_	_
+6	on	olla	_	_	PRS;FIN;ACT;3;IND;SG;V	_	_	_	_
+7	humanoidirobotti	humanoidi#robotti	_	_	N;SG;NOM	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	joka	joka	_	_	NOM;SG;PRO	_	_	_	_
+10	kehitettiin	kehittää	_	_	FIN;V;IND;PST;PASS	_	_	_	_
+11	kilpailemaan	kilpailla	_	_	V;NFIN;ACT;IN+ALL;SG	_	_	_	_
+12	Valentino	Valentino	_	_	SG;NOM;PROPN	_	_	_	_
+13	Rossin	Rossi	_	_	SG;GEN;PROPN	_	_	_	_
+14	kanssa	kanssa	_	_	ADP	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01128033
+# text = Viimeiseksi meidän täytyy tehdä epäiltyjen rikkomusten ja pahansuopien sähköpostien ilmoittamisesta helppoa
+# text_en = Finally, we must make it easy for people to report suspected breaches and malicious emails.
+1	Viimeiseksi	viimeiseksi	_	_	ADV	_	_	_	_
+2	meidän	minä	_	_	GEN;1;PRO;PL	_	_	_	_
+3	täytyy	täytyä	_	_	PRS;FIN;ACT;3;IND;SG;V	_	_	_	_
+4	tehdä	tehdä	_	_	V;NFIN;ACT;SG	_	_	_	_
+5	epäiltyjen	epäillä	_	_	GEN;V;V.PTCP;PASS;PL	_	_	_	_
+6	rikkomusten	rikkomus	_	_	N;GEN;PL	_	_	_	_
+7	ja	ja	_	_	CONJ	_	_	_	_
+8	pahansuopien	pahan#suopa	_	_	N;GEN;PL	_	_	_	_
+9	sähköpostien	sähkö#posti	_	_	N;GEN;PL	_	_	_	_
+10	ilmoittamisesta	ilmoittaminen	_	_	N;SG;IN+ABL	_	_	_	_
+11	helppoa	helppo	_	_	PRT;SG;ADJ	_	_	_	_
+
+# sent_id = n01141020
+# text = Siirto korostaa yhtiön halua saada käyttäjät ajattelemaan sen tuotteita enemmän kuin vain tuottavuustyökaluina.
+# text_en = The move highlighted the company's desire for users to start thinking of its products as more than just productivity tools.
+1	Siirto	siirto	_	_	N;SG;NOM	_	_	_	_
+2	korostaa	korostaa	_	_	PRS;FIN;V;3;ACT;IND;SG	_	_	_	_
+3	yhtiön	yhtiö	_	_	N;SG;GEN	_	_	_	_
+4	halua	halu	_	_	N;SG;PRT	_	_	_	_
+5	saada	saada	_	_	V;NFIN;ACT;SG	_	_	_	_
+6	käyttäjät	käyttäjä	_	_	N;NOM;PL	_	_	_	_
+7	ajattelemaan	ajatella	_	_	V;NFIN;ACT;IN+ALL;SG	_	_	_	_
+8	sen	se	_	_	SG;PRO;GEN	_	_	_	_
+9	tuotteita	tuote	_	_	N;PRT;PL	_	_	_	_
+10	enemmän	enemmän	_	_	ADV	_	_	_	_
+11	kuin	kuin	_	_	CONJ	_	_	_	_
+12	vain	vain	_	_	ADV	_	_	_	_
+13	tuottavuustyökaluina	tuottavuus#työkalu	_	_	N;FRML;PL	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01017
+# sent_id = w01017004
+# text = Itä-Afrikan railon luoneet maailmanlaajuiset mannerlaattojen tektoniset liikkeet muokkasivat Itä-Afrikan, jossa sijaitsee kaksi Afrikan korkeinta huippua, Kilimanjaro ja Mount Kenya.
+# text_en = Shaped by global plate tectonic forces that have created the East African Rift, East Africa is the site of Mount Kilimanjaro and Mount Kenya, the two tallest peaks in Africa.
+1	Itä-Afrikan	Itä-Afrikka	_	_	N;SG;GEN	_	_	_	_
+2	railon	railo	_	_	N;SG;GEN	_	_	_	_
+3	luoneet	luoda	_	_	NOM;V;ACT;V.PTCP;PL	_	_	_	_
+4	maailmanlaajuiset	maailman#laajuinen	_	_	NOM;ADJ;PL	_	_	_	_
+5	mannerlaattojen	manner#laatta	_	_	N;GEN;PL	_	_	_	_
+6	tektoniset	tektoninen	_	_	NOM;ADJ;PL	_	_	_	_
+7	liikkeet	liike	_	_	N;NOM;PL	_	_	_	_
+8	muokkasivat	muokata	_	_	FIN;V;3;ACT;IND;PST;PL	_	_	_	_
+9	Itä-Afrikan	Itä-Afrikka	_	_	SG;GEN;PROPN	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	jossa	joka	_	_	IN+ESS;SG;PRO	_	_	_	_
+12	sijaitsee	sijaita	_	_	PRS;FIN;V;3;ACT;IND;SG	_	_	_	_
+13	kaksi	kaksi	_	_	SG;NUM;NOM	_	_	_	_
+14	Afrikan	Afrikka	_	_	SG;GEN;PROPN	_	_	_	_
+15	korkeinta	korkea	_	_	PRT;SG;ADJ;RL	_	_	_	_
+16	huippua	huippu	_	_	N;SG;PRT	_	_	_	_
+17	,	,	_	_	_	_	_	_	_
+18	Kilimanjaro	Kilimanjaro	_	_	SG;NOM;PROPN	_	_	_	_
+19	ja	ja	_	_	CONJ	_	_	_	_
+20	Mount	Mount	_	_	SG;NOM;PROPN	_	_	_	_
+21	Kenya	Kenya	_	_	SG;NOM;PROPN	_	_	_	_
+22	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01107010
+# text = Hänet ylennettiin toimitusjohtajaksi lokakuussa 2015, kuukausi sen jälkeen, kun skandaali tuli ilmi.
+# text_en = He was promoted to chairman in October 2015, the month after the scandal was unearthed.
+1	Hänet	hän	_	_	ACC;3;SG;PRO	_	_	_	_
+2	ylennettiin	ylentää	_	_	FIN;V;IND;PST;PASS	_	_	_	_
+3	toimitusjohtajaksi	toimitus#johtaja	_	_	N;SG;TRANS	_	_	_	_
+4	lokakuussa	lokakuu	_	_	N;SG;IN+ESS	_	_	_	_
+5	2015	2015	_	_	NUM	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	kuukausi	kuu#kausi	_	_	N;SG;NOM	_	_	_	_
+8	sen	se	_	_	SG;PRO;GEN	_	_	_	_
+9	jälkeen	jälkeen	_	_	ADP	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	kun	kun	_	_	CONJ	_	_	_	_
+12	skandaali	skandaali	_	_	N;SG;NOM	_	_	_	_
+13	tuli	tulla	_	_	FIN;V;3;ACT;IND;PST;SG	_	_	_	_
+14	ilmi	ilmi	_	_	ADV	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = w03001058
+# text = Carcassonnen historia liittyy suoraan sen linnoitettuun kaupunkiin.
+# text_en = The history of Carcassonne is directly linked to that of its fortified city.
+1	Carcassonnen	Carcassonne	_	_	SG;GEN;PROPN	_	_	_	_
+2	historia	historia	_	_	N;SG;NOM	_	_	_	_
+3	liittyy	liittyä	_	_	PRS;FIN;V;3;ACT;IND;SG	_	_	_	_
+4	suoraan	suoraan	_	_	ADV	_	_	_	_
+5	sen	se	_	_	SG;PRO;GEN	_	_	_	_
+6	linnoitettuun	linnoittaa	_	_	V;V.PTCP;IN+ALL;SG;PASS	_	_	_	_
+7	kaupunkiin	kaupunki	_	_	N;SG;IN+ALL	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01051080
+# text = Jopa James Henry Breastedin vuonna 1903 kirjoittama ensimmäinen tieteellinen selostus taistelusta ylisti lähteitä, jotka mahdollistivat taistelun rekonstruoinnin varmuudella.
+# text_en = Indeed, the first scholarly report on the battle, by James Henry Breasted in 1903, praised the sources that allowed the reconstruction the battle with certainty.
+1	Jopa	jopa	_	_	ADV	_	_	_	_
+2	James	James	_	_	SG;NOM;PROPN	_	_	_	_
+3	Henry	Henry	_	_	SG;NOM;PROPN	_	_	_	_
+4	Breastedin	Breasted	_	_	SG;GEN;PROPN	_	_	_	_
+5	vuonna	vuosi	_	_	N;SG;FRML	_	_	_	_
+6	1903	1903	_	_	NUM	_	_	_	_
+7	kirjoittama	kirjoittaa	_	_	NOM;V;ACT;V.PTCP;SG	_	_	_	_
+8	ensimmäinen	ensimmäinen	_	_	NOM;ADJ;SG	_	_	_	_
+9	tieteellinen	tieteellinen	_	_	NOM;ADJ;SG	_	_	_	_
+10	selostus	selostus	_	_	N;SG;NOM	_	_	_	_
+11	taistelusta	taistelu	_	_	N;SG;IN+ABL	_	_	_	_
+12	ylisti	ylistää	_	_	FIN;V;3;ACT;IND;PST;SG	_	_	_	_
+13	lähteitä	lähde	_	_	N;PRT;PL	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	jotka	joka	_	_	NOM;PRO;PL	_	_	_	_
+16	mahdollistivat	mahdollistaa	_	_	FIN;V;3;ACT;IND;PST;PL	_	_	_	_
+17	taistelun	taistelu	_	_	N;SG;GEN	_	_	_	_
+18	rekonstruoinnin	rekonstruointi	_	_	N;SG;GEN	_	_	_	_
+19	varmuudella	varmuus	_	_	N;SG;AT+ESS	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n03002
+# sent_id = n03002003
+# text = Tiistaina Amerikan Yhdysvallat voivat valita historiansa ensimmäisen naispresidentin.
+# text_en = On Tuesday, the United States of America could elect the first female president in its history.
+1	Tiistaina	tiistai	_	_	N;SG;FRML	_	_	_	_
+2	Amerikan	Amerikka	_	_	SG;GEN;PROPN	_	_	_	_
+3	Yhdysvallat	Yhdysvallat	_	_	NOM;PL;PROPN	_	_	_	_
+4	voivat	voida	_	_	PRS;FIN;ACT;3;IND;V;PL	_	_	_	_
+5	valita	valita	_	_	V;NFIN;ACT;SG	_	_	_	_
+6	historiansa	historia	_	_	PSS3;N;SG;GEN	_	_	_	_
+7	ensimmäisen	ensimmäinen	_	_	GEN;ADJ;SG	_	_	_	_
+8	naispresidentin	nais#presidentti	_	_	N;SG;GEN	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w02001
+# sent_id = w02001041
+# text = Ulkoilmateatteri St. Michaelin suurilla portailla perustettiin vuonna 1925 yleiseksi huvitukseksi, ja se houkuttelee yhäkin laajalti yleisöä.
+# text_en = Founded in 1925 as games for everyman, the open air theater on the great steps in front of St. Michael still attracts a diverse public.
+1	Ulkoilmateatteri	ulko#ilma#teatteri	_	_	N;SG;NOM	_	_	_	_
+2	St.	St.	_	_	SG;NOM;PROPN	_	_	_	_
+3	Michaelin	Michael	_	_	SG;GEN;PROPN	_	_	_	_
+4	suurilla	suuri	_	_	ADJ;AT+ESS;PL	_	_	_	_
+5	portailla	porras	_	_	N;AT+ESS;PL	_	_	_	_
+6	perustettiin	perustaa	_	_	FIN;V;IND;PST;PASS	_	_	_	_
+7	vuonna	vuosi	_	_	N;SG;FRML	_	_	_	_
+8	1925	1925	_	_	NUM	_	_	_	_
+9	yleiseksi	yleinen	_	_	ADJ;SG;TRANS	_	_	_	_
+10	huvitukseksi	huvitus	_	_	N;SG;TRANS	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	ja	ja	_	_	CONJ	_	_	_	_
+13	se	se	_	_	NOM;SG;PRO	_	_	_	_
+14	houkuttelee	houkutella	_	_	PRS;FIN;V;3;ACT;IND;SG	_	_	_	_
+15	yhäkin	yhä	_	_	ADV	_	_	_	_
+16	laajalti	laajalti	_	_	ADV	_	_	_	_
+17	yleisöä	yleisö	_	_	N;SG;PRT	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01077030
+# text = Sitten on olemassa niin sanottuja tositarinoita, joita julkaistaan sarjana paljonpuhuvia kuvia, joiden alla kulkee teksti.
+# text_en = Then there are the so-called true stories that get posted in a series of meaningful pictures with text running underneath.
+1	Sitten	sitten	_	_	ADV	_	_	_	_
+2	on	olla	_	_	PRS;FIN;ACT;3;IND;SG;V	_	_	_	_
+3	olemassa	olla	_	_	V;NFIN;ACT;IN+ESS;SG	_	_	_	_
+4	niin	niin	_	_	ADV	_	_	_	_
+5	sanottuja	sanottu	_	_	PRT;ADJ;PL	_	_	_	_
+6	tositarinoita	tosi#tarina	_	_	N;PRT;PL	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	joita	joka	_	_	PRT;PRO;PL	_	_	_	_
+9	julkaistaan	julkaista	_	_	PRS;FIN;V;IND;PASS	_	_	_	_
+10	sarjana	sarja	_	_	N;SG;FRML	_	_	_	_
+11	paljonpuhuvia	paljo#puhuva	_	_	PRT;ADJ;PL	_	_	_	_
+12	kuvia	kuva	_	_	N;PRT;PL	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	joiden	joka	_	_	PRO;GEN;PL	_	_	_	_
+15	alla	alla	_	_	ADP	_	_	_	_
+16	kulkee	kulkea	_	_	PRS;FIN;V;3;ACT;IND;SG	_	_	_	_
+17	teksti	teksti	_	_	N;SG;NOM	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01144084
+# text = Hän toipui ja pääsi pois sairaalasta 11. huhtikuuta, jolloin hänestä tuli ensimmäinen virassa ollut Yhdysvaltain presidentti, joka selvisi salamurhan yrityksestä ampumalla.
+# text_en = He recovered and was released from the hospital on April 11, becoming the first serving U.S. president to survive being shot in an assassination attempt.
+1	Hän	hän	_	_	NOM;3;SG;PRO	_	_	_	_
+2	toipui	toipua	_	_	FIN;V;3;ACT;IND;PST;SG	_	_	_	_
+3	ja	ja	_	_	CONJ	_	_	_	_
+4	pääsi	päästä	_	_	FIN;V;3;ACT;IND;PST;SG	_	_	_	_
+5	pois	pois	_	_	ADV	_	_	_	_
+6	sairaalasta	sairaala	_	_	N;SG;IN+ABL	_	_	_	_
+7	11.	11.	_	_	ADJ	_	_	_	_
+8	huhtikuuta	huhtikuu	_	_	N;SG;PRT	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	jolloin	jolloin	_	_	ADV	_	_	_	_
+11	hänestä	hän	_	_	3;SG;PRO;IN+ABL	_	_	_	_
+12	tuli	tulla	_	_	FIN;V;3;ACT;IND;PST;SG	_	_	_	_
+13	ensimmäinen	ensimmäinen	_	_	NOM;ADJ;SG	_	_	_	_
+14	virassa	virka	_	_	N;SG;IN+ESS	_	_	_	_
+15	ollut	olla	_	_	NOM;V;ACT;V.PTCP;SG	_	_	_	_
+16	Yhdysvaltain	Yhdysvallat	_	_	GEN;PL;PROPN	_	_	_	_
+17	presidentti	presidentti	_	_	N;SG;NOM	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	joka	joka	_	_	NOM;SG;PRO	_	_	_	_
+20	selvisi	selvitä	_	_	FIN;V;3;ACT;IND;PST;SG	_	_	_	_
+21	salamurhan	sala#murha	_	_	N;SG;GEN	_	_	_	_
+22	yrityksestä	yritys	_	_	N;SG;IN+ABL	_	_	_	_
+23	ampumalla	ampua	_	_	V;NFIN;ACT;AT+ESS;SG	_	_	_	_
+24	.	.	_	_	_	_	_	_	_
+
+# sent_id = n05005016
+# text = Hän seisoo yksin yleisön edessä ja lopulta hänen täytyy tehdä parastaan saadakseen yleisön nauramaan.
+# text_en = He stands alone in front of the audience and, ultimately, he has to bring out the best of himself in order to make the audience laugh.
+1	Hän	hän	_	_	NOM;3;SG;PRO	_	_	_	_
+2	seisoo	seisoa	_	_	PRS;FIN;V;3;ACT;IND;SG	_	_	_	_
+3	yksin	yksin	_	_	ADV	_	_	_	_
+4	yleisön	yleisö	_	_	N;SG;GEN	_	_	_	_
+5	edessä	edessä	_	_	ADP	_	_	_	_
+6	ja	ja	_	_	CONJ	_	_	_	_
+7	lopulta	lopulta	_	_	ADV	_	_	_	_
+8	hänen	hän	_	_	GEN;3;SG;PRO	_	_	_	_
+9	täytyy	täytyä	_	_	PRS;FIN;ACT;3;IND;SG;V	_	_	_	_
+10	tehdä	tehdä	_	_	V;NFIN;ACT;SG	_	_	_	_
+11	parastaan	paras	_	_	PSS3;ADJ;SG;PRT	_	_	_	_
+12	saadakseen	saada	_	_	PSS3;V;NFIN;ACT;SG;TRANS	_	_	_	_
+13	yleisön	yleisö	_	_	N;SG;GEN	_	_	_	_
+14	nauramaan	nauraa	_	_	V;NFIN;ACT;IN+ALL;SG	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01119012
+# text = Yhdellä tasolla se toimii ystävällisenä, vaatimattomana ja sydäntä lämmittävänä elokuvana, joka vaikuttaa räätälöidyltä sunnuntai-iltapäivän näytökseen.
+# text_en = On one level, it works as an amiable, unpretentious heartwarmer that seems tailor-made for Sunday afternoon viewing.
+1	Yhdellä	yksi	_	_	SG;NUM;AT+ESS	_	_	_	_
+2	tasolla	taso	_	_	N;SG;AT+ESS	_	_	_	_
+3	se	se	_	_	NOM;SG;PRO	_	_	_	_
+4	toimii	toimia	_	_	PRS;FIN;V;3;ACT;IND;SG	_	_	_	_
+5	ystävällisenä	ystävällinen	_	_	FRML;ADJ;SG	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	vaatimattomana	vaatimaton	_	_	FRML;ADJ;SG	_	_	_	_
+8	ja	ja	_	_	CONJ	_	_	_	_
+9	sydäntä	sydän	_	_	N;SG;PRT	_	_	_	_
+10	lämmittävänä	lämmittää	_	_	V;ACT;FRML;V.PTCP;SG	_	_	_	_
+11	elokuvana	elo#kuva	_	_	N;SG;FRML	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	joka	joka	_	_	NOM;SG;PRO	_	_	_	_
+14	vaikuttaa	vaikuttaa	_	_	PRS;FIN;V;3;ACT;IND;SG	_	_	_	_
+15	räätälöidyltä	räätälöidä	_	_	V;V.PTCP;SG;PASS;AT+ABL	_	_	_	_
+16	sunnuntai-iltapäivän	sunnuntai#ilta#päivä	_	_	N;SG;GEN	_	_	_	_
+17	näytökseen	näytös	_	_	N;SG;IN+ALL	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01009
+# sent_id = n01009027
+# text = Vaikka Khanzir nykyään ehkä onkin yksinäinen sika, hän ei ole aina ollut yksin.
+# text_en = Today, Khanzir may be a lonely pig, but he isn’t always alone.
+1	Vaikka	vaikka	_	_	CONJ	_	_	_	_
+2	Khanzir	Khanzir	_	_	SG;NOM;PROPN	_	_	_	_
+3	nykyään	nykyään	_	_	ADV	_	_	_	_
+4	ehkä	ehkä	_	_	ADV	_	_	_	_
+5	onkin	olla	_	_	PRS;FIN;ACT;3;IND;SG;V	_	_	_	_
+6	yksinäinen	yksinäinen	_	_	NOM;ADJ;SG	_	_	_	_
+7	sika	sika	_	_	N;SG;NOM	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	hän	hän	_	_	NOM;3;SG;PRO	_	_	_	_
+10	ei	ei	_	_	FIN;NEG;ACT;3;SG;V	_	_	_	_
+11	ole	olla	_	_	PRS;FIN;IND;V	_	_	_	_
+12	aina	aina	_	_	ADV	_	_	_	_
+13	ollut	olla	_	_	NOM;ACT;V.PTCP;SG;V	_	_	_	_
+14	yksin	yksin	_	_	ADV	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01059019
+# text = Republikaanitalousasiantuntijat varoittavat pitämästä näitä tietoja todisteena siitä, että heidän puolueensa on surkea talouspolitiikassa.
+# text_en = Republican economists caution against taking this data as proof that their party is lousy at economic policy.
+1	Republikaanitalousasiantuntijat	republikaani#talous#asian#tuntija	_	_	N;NOM;PL	_	_	_	_
+2	varoittavat	varoittaa	_	_	PRS;FIN;V;3;ACT;IND;PL	_	_	_	_
+3	pitämästä	pitää	_	_	V;ACT;V.PTCP;SG;IN+ABL	_	_	_	_
+4	näitä	tämä	_	_	PRT;PRO;PL	_	_	_	_
+5	tietoja	tieto	_	_	N;PRT;PL	_	_	_	_
+6	todisteena	todiste	_	_	N;SG;FRML	_	_	_	_
+7	siitä	se	_	_	SG;PRO;IN+ABL	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	että	että	_	_	CONJ	_	_	_	_
+10	heidän	hän	_	_	GEN;3;PRO;PL	_	_	_	_
+11	puolueensa	puolue	_	_	PSS3;N;SG;NOM	_	_	_	_
+12	on	olla	_	_	PRS;FIN;ACT;3;IND;SG;V	_	_	_	_
+13	surkea	surkea	_	_	NOM;SG;ADJ	_	_	_	_
+14	talouspolitiikassa	talous#politiikka	_	_	N;SG;IN+ESS	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = w02015087
+# text = Maanpakoon joutuneet nunnat siirrettiin Eibingenin luostariin.
+# text_en = The displaced nuns were moved to the Eibingen cloister.
+1	Maanpakoon	maan#pako	_	_	N;SG;IN+ALL	_	_	_	_
+2	joutuneet	joutua	_	_	NOM;V;ACT;V.PTCP;PL	_	_	_	_
+3	nunnat	nunna	_	_	N;NOM;PL	_	_	_	_
+4	siirrettiin	siirtää	_	_	FIN;V;IND;PST;PASS	_	_	_	_
+5	Eibingenin	Eibingen	_	_	SG;GEN;PROPN	_	_	_	_
+6	luostariin	luostari	_	_	N;SG;IN+ALL	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = n05004025
+# text = Ja entäpä puolueet missä, historiallisessa oikeistossa?
+# text_en = And what about the parties in what, in historical rights?
+1	Ja	ja	_	_	CONJ	_	_	_	_
+2	entäpä	entäpä	_	_	ADV	_	_	_	_
+3	puolueet	puolue	_	_	N;NOM;PL	_	_	_	_
+4	missä	mikä	_	_	IN+ESS;SG;PRO	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	historiallisessa	historiallinen	_	_	ADJ;IN+ESS;SG	_	_	_	_
+7	oikeistossa	oikeisto	_	_	N;SG;IN+ESS	_	_	_	_
+8	?	?	_	_	_	_	_	_	_
+
+# newdoc id = n02046
+# sent_id = n02046037
+# text = Nykyään on epäselvää vain se, missä.
+# text_en = It is now only unclear, in which one.
+1	Nykyään	nykyään	_	_	ADV	_	_	_	_
+2	on	olla	_	_	PRS;FIN;ACT;3;IND;SG;V	_	_	_	_
+3	epäselvää	epä#selvä	_	_	PRT;SG;ADJ	_	_	_	_
+4	vain	vain	_	_	ADV	_	_	_	_
+5	se	se	_	_	NOM;SG;PRO	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	missä	mikä	_	_	IN+ESS;SG;PRO	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = w03010099
+# text = Kesällä Georges ja hänen vaimonsa palasivat Sveitsiin mukanaan Rosane, Germainen erään ystävän 18-vuotias tytär.
+# text_en = In the summer, Georges and his wife returned to Switzerland, accompanied by Rosane, an 18 year old who was the daughter of one of Germaine's friends.
+1	Kesällä	kesä	_	_	N;SG;AT+ESS	_	_	_	_
+2	Georges	Georges	_	_	SG;NOM;PROPN	_	_	_	_
+3	ja	ja	_	_	CONJ	_	_	_	_
+4	hänen	hän	_	_	GEN;3;SG;PRO	_	_	_	_
+5	vaimonsa	vaimo	_	_	PSS3;N;SG;NOM	_	_	_	_
+6	palasivat	palata	_	_	FIN;V;3;ACT;IND;PST;PL	_	_	_	_
+7	Sveitsiin	Sveitsi	_	_	SG;IN+ALL;PROPN	_	_	_	_
+8	mukanaan	mukana	_	_	PSS3;ADP	_	_	_	_
+9	Rosane	Rosane	_	_	SG;NOM;PROPN	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	Germainen	Germaine	_	_	SG;NOM;PROPN	_	_	_	_
+12	erään	eräs	_	_	SG;PRO;GEN	_	_	_	_
+13	ystävän	ystävä	_	_	N;SG;GEN	_	_	_	_
+14	18-vuotias	18#vuotias	_	_	NOM;SG;ADJ	_	_	_	_
+15	tytär	tytär	_	_	N;SG;NOM	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01067
+# sent_id = n01067014
+# text = Jokaisella näyttelyn kartalla on oma tarinansa, joista kaikki eivät ole todellisia.
+# text_en = Each map in the exhibition tells its own story, not all factual.
+1	Jokaisella	jokainen	_	_	SG;PRO;AT+ESS	_	_	_	_
+2	näyttelyn	näyttely	_	_	N;SG;GEN	_	_	_	_
+3	kartalla	kartta	_	_	N;SG;AT+ESS	_	_	_	_
+4	on	olla	_	_	PRS;FIN;ACT;3;IND;SG;V	_	_	_	_
+5	oma	oma	_	_	NOM;SG;ADJ	_	_	_	_
+6	tarinansa	tarina	_	_	PSS3;N;SG;NOM	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	joista	joka	_	_	PRO;PL;IN+ABL	_	_	_	_
+9	kaikki	kaikki	_	_	NOM;SG;PRO	_	_	_	_
+10	eivät	ei	_	_	FIN;NEG;ACT;3;V;PL	_	_	_	_
+11	ole	olla	_	_	PRS;FIN;IND;V	_	_	_	_
+12	todellisia	todellinen	_	_	ADJ;PRT;PL	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = w04004045
+# text = Siellä on lukuisia esihistoriallisia artefakteja, mukaan lukien useita erilaisia menhireitä ja dolmeneita.
+# text_en = There are many prehistoric artifacts, including several different menhirs and dolmens.
+1	Siellä	siellä	_	_	ADV	_	_	_	_
+2	on	olla	_	_	PRS;FIN;ACT;3;IND;SG;V	_	_	_	_
+3	lukuisia	lukuisa	_	_	PRT;ADJ;PL	_	_	_	_
+4	esihistoriallisia	esi#historiallinen	_	_	ADJ;PRT;PL	_	_	_	_
+5	artefakteja	artefakti	_	_	N;PRT;PL	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	mukaan	mukaan	_	_	ADV	_	_	_	_
+8	lukien	lukea	_	_	V;NFIN;ACT;INS;SG	_	_	_	_
+9	useita	usea	_	_	PRT;ADJ;PL	_	_	_	_
+10	erilaisia	erilainen	_	_	ADJ;PRT;PL	_	_	_	_
+11	menhireitä	menhir	_	_	N;PRT;PL	_	_	_	_
+12	ja	ja	_	_	CONJ	_	_	_	_
+13	dolmeneita	dolmen	_	_	N;PRT;PL	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n02081
+# sent_id = n02081019
+# text = Siispä harmilliset merkit eivät kokonaan häviä: Uutistoimisto dpa:n tietojen mukaan he aktivoivat sen ainoastaan, jos esimerkiksi artisti tai levy-yhtiö ei ole GEMA:n jäsen, eikä sillä ole sopimusta YouTuben kanssa.
+# text_en = Therefore the irksome signs will not completely disappear: According to information from the news agency dpa, they will only be activated if, for instance, the artist or record label is not a member of GEMA and does not have an agreement with YouTube.
+1	Siispä	siis	_	_	ADV	_	_	_	_
+2	harmilliset	harmillinen	_	_	NOM;ADJ;PL	_	_	_	_
+3	merkit	merkki	_	_	N;NOM;PL	_	_	_	_
+4	eivät	ei	_	_	FIN;NEG;ACT;3;V;PL	_	_	_	_
+5	kokonaan	kokonaan	_	_	ADV	_	_	_	_
+6	häviä	hävitä	_	_	PRS;FIN;V;IND	_	_	_	_
+7	:	:	_	_	_	_	_	_	_
+8	Uutistoimisto	uutis#toimisto	_	_	N;SG;NOM	_	_	_	_
+9	dpa:n	dpa	_	_	SG;GEN;PROPN	_	_	_	_
+10	tietojen	tieto	_	_	N;GEN;PL	_	_	_	_
+11	mukaan	mukaan	_	_	ADP	_	_	_	_
+12	he	hän	_	_	NOM;3;PRO;PL	_	_	_	_
+13	aktivoivat	aktivoida	_	_	FIN;V;3;ACT;IND;PST;PL	_	_	_	_
+14	sen	se	_	_	SG;PRO;GEN	_	_	_	_
+15	ainoastaan	ainoastaan	_	_	ADV	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	jos	jos	_	_	CONJ	_	_	_	_
+18	esimerkiksi	esimerkiksi	_	_	ADV	_	_	_	_
+19	artisti	artisti	_	_	N;SG;NOM	_	_	_	_
+20	tai	tai	_	_	CONJ	_	_	_	_
+21	levy-yhtiö	levy#yhtiö	_	_	N;SG;NOM	_	_	_	_
+22	ei	ei	_	_	FIN;NEG;ACT;3;SG;V	_	_	_	_
+23	ole	olla	_	_	PRS;FIN;IND;V	_	_	_	_
+24	GEMA:n	GEMA	_	_	SG;GEN;PROPN	_	_	_	_
+25	jäsen	jäsen	_	_	N;SG;NOM	_	_	_	_
+26	,	,	_	_	_	_	_	_	_
+27	eikä	ei	_	_	FIN;NEG;V;3;ACT;SG	_	_	_	_
+28	sillä	se	_	_	SG;PRO;AT+ESS	_	_	_	_
+29	ole	olla	_	_	PRS;FIN;IND;V	_	_	_	_
+30	sopimusta	sopimus	_	_	N;SG;PRT	_	_	_	_
+31	YouTuben	YouTube	_	_	SG;GEN;PROPN	_	_	_	_
+32	kanssa	kanssa	_	_	ADP	_	_	_	_
+33	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01110008
+# text = Jos heillä olisi, Premium Bondsit eivät eroaisi mitenkään tavallisista säästötileistä.
+# text_en = If they did, Premium Bonds would be indistinguishable from ordinary savings accounts.
+1	Jos	jos	_	_	CONJ	_	_	_	_
+2	heillä	hän	_	_	3;AT+ESS;PRO;PL	_	_	_	_
+3	olisi	olla	_	_	COND;FIN;ACT;3;SG;V	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	Premium	Premium	_	_	SG;NOM;PROPN	_	_	_	_
+6	Bondsit	Bonds	_	_	NOM;PL;PROPN	_	_	_	_
+7	eivät	ei	_	_	FIN;NEG;ACT;3;V;PL	_	_	_	_
+8	eroaisi	erota	_	_	V;COND;FIN	_	_	_	_
+9	mitenkään	mitenkään	_	_	ADV	_	_	_	_
+10	tavallisista	tavallinen	_	_	IN+ABL;ADJ;PL	_	_	_	_
+11	säästötileistä	säästö#tili	_	_	N;PL;IN+ABL	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01058
+# sent_id = n01058037
+# text = Viime kuussa joku sytytti palopommilla republikaanipuolueen keskustoimiston aivan Chapel Hillin lähistöllä sijaitsevassa Hillsborough’n kaupungissa.
+# text_en = In the town of Hillsborough, just outside Chapel Hill, someone firebombed the Republican Party headquarters last month.
+1	Viime	viime	_	_	ADJ	_	_	_	_
+2	kuussa	kuu	_	_	N;SG;IN+ESS	_	_	_	_
+3	joku	joku	_	_	NOM;SG;PRO	_	_	_	_
+4	sytytti	sytyttää	_	_	FIN;V;3;ACT;IND;PST;SG	_	_	_	_
+5	palopommilla	palo#pommi	_	_	N;SG;AT+ESS	_	_	_	_
+6	republikaanipuolueen	republikaani#puolue	_	_	N;SG;GEN	_	_	_	_
+7	keskustoimiston	keskus#toimisto	_	_	N;SG;GEN	_	_	_	_
+8	aivan	aivan	_	_	ADV	_	_	_	_
+9	Chapel	Chapel	_	_	SG;NOM;PROPN	_	_	_	_
+10	Hillin	Hill	_	_	SG;GEN;PROPN	_	_	_	_
+11	lähistöllä	lähistö	_	_	N;SG;AT+ESS	_	_	_	_
+12	sijaitsevassa	sijaita	_	_	V;ACT;V.PTCP;IN+ESS;SG	_	_	_	_
+13	Hillsborough’n	Hillsborough	_	_	SG;GEN;PROPN	_	_	_	_
+14	kaupungissa	kaupunki	_	_	N;SG;IN+ESS	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01046
+# sent_id = w01046011
+# text = Valitettavasti nopea väestönkasvu ja kaupunkien leviäminen on peittänyt kehityksellä suuren osan näistä ekosysteemeistä.
+# text_en = Unfortunately, rapid population growth and urban sprawl has covered much of these ecosystems with development.
+1	Valitettavasti	valitettavasti	_	_	ADV	_	_	_	_
+2	nopea	nopea	_	_	NOM;SG;ADJ	_	_	_	_
+3	väestönkasvu	väestön#kasvu	_	_	N;SG;NOM	_	_	_	_
+4	ja	ja	_	_	CONJ	_	_	_	_
+5	kaupunkien	kaupunki	_	_	N;GEN;PL	_	_	_	_
+6	leviäminen	leviäminen	_	_	N;SG;NOM	_	_	_	_
+7	on	olla	_	_	PRS;FIN;ACT;3;IND;SG;V	_	_	_	_
+8	peittänyt	peittää	_	_	NOM;V;ACT;V.PTCP;SG	_	_	_	_
+9	kehityksellä	kehitys	_	_	N;SG;AT+ESS	_	_	_	_
+10	suuren	suuri	_	_	SG;ADJ;GEN	_	_	_	_
+11	osan	osa	_	_	N;SG;GEN	_	_	_	_
+12	näistä	tämä	_	_	PRO;PL;IN+ABL	_	_	_	_
+13	ekosysteemeistä	ekosysteemi	_	_	N;PL;IN+ABL	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = n04008016
+# text = Tänä aamuna paavi Franciscus tapasi Mark Zuckerbergin vaimoineen Casa Santa Martassa.
+# text_en = This morning, Pope Francis met Mark Zuckerberg and his wife at Casa Santa Marta.
+1	Tänä	tämä	_	_	SG;PRO;FRML	_	_	_	_
+2	aamuna	aamu	_	_	N;SG;FRML	_	_	_	_
+3	paavi	paavi	_	_	N;SG;NOM	_	_	_	_
+4	Franciscus	Franciscus	_	_	SG;NOM;PROPN	_	_	_	_
+5	tapasi	tavata	_	_	FIN;V;3;ACT;IND;PST;SG	_	_	_	_
+6	Mark	Mark	_	_	SG;NOM;PROPN	_	_	_	_
+7	Zuckerbergin	Zuckerberg	_	_	SG;GEN;PROPN	_	_	_	_
+8	vaimoineen	vaimo	_	_	PSS3;N;COM	_	_	_	_
+9	Casa	Casa	_	_	SG;NOM;PROPN	_	_	_	_
+10	Santa	Santa	_	_	SG;NOM;PROPN	_	_	_	_
+11	Martassa	Marta	_	_	IN+ESS;SG;PROPN	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01068
+# sent_id = w01068027
+# text = 9. syyskuuta 2002 Aldrin houkuteltiin hotelliin Beverly Hillsissä sillä verukkeella, että häntä haastateltaisiin japanilaiseen lastenohjelmaan liittyen avaruuteen.
+# text_en = On September 9, 2002, Aldrin was lured to a Beverly Hills hotel on the pretext of being interviewed for a Japanese children's television show on the subject of space.
+1	9.	9.	_	_	ADJ	_	_	_	_
+2	syyskuuta	syyskuu	_	_	N;SG;PRT	_	_	_	_
+3	2002	2002	_	_	NUM	_	_	_	_
+4	Aldrin	Aldrin	_	_	SG;NOM;PROPN	_	_	_	_
+5	houkuteltiin	houkutella	_	_	FIN;V;IND;PST;PASS	_	_	_	_
+6	hotelliin	hotelli	_	_	N;SG;IN+ALL	_	_	_	_
+7	Beverly	Beverly	_	_	SG;NOM;PROPN	_	_	_	_
+8	Hillsissä	Hills	_	_	IN+ESS;SG;PROPN	_	_	_	_
+9	sillä	se	_	_	SG;PRO;AT+ESS	_	_	_	_
+10	verukkeella	veruke	_	_	N;SG;AT+ESS	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	että	että	_	_	CONJ	_	_	_	_
+13	häntä	hän	_	_	PRO;3;SG;PRT	_	_	_	_
+14	haastateltaisiin	haastatella	_	_	V;COND;PASS;FIN	_	_	_	_
+15	japanilaiseen	japanilainen	_	_	IN+ALL;ADJ;SG	_	_	_	_
+16	lastenohjelmaan	lastenohjelma	_	_	N;SG;IN+ALL	_	_	_	_
+17	liittyen	liittyä	_	_	V;NFIN;ACT;INS;SG	_	_	_	_
+18	avaruuteen	avaruus	_	_	N;SG;IN+ALL	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01144063
+# text = Republikaanit valtasivat senaatin ensimmäistä kertaa vuoden 1952 jälkeen ja saivat 34 paikkaa edustajainhuoneessa, mutta valtaosa paikoista pysyi demokraateilla.
+# text_en = Republicans captured the Senate for the first time since 1952, and gained 34 House seats, but the Democrats retained a majority.
+1	Republikaanit	republikaani	_	_	N;NOM;PL	_	_	_	_
+2	valtasivat	vallata	_	_	FIN;V;3;ACT;IND;PST;PL	_	_	_	_
+3	senaatin	senaatti	_	_	N;SG;GEN	_	_	_	_
+4	ensimmäistä	ensimmäinen	_	_	ADJ;SG;PRT	_	_	_	_
+5	kertaa	kerta	_	_	N;SG;PRT	_	_	_	_
+6	vuoden	vuosi	_	_	N;SG;GEN	_	_	_	_
+7	1952	1952	_	_	NUM	_	_	_	_
+8	jälkeen	jälkeen	_	_	ADP	_	_	_	_
+9	ja	ja	_	_	CONJ	_	_	_	_
+10	saivat	saada	_	_	FIN;V;3;ACT;IND;PST;PL	_	_	_	_
+11	34	34	_	_	NUM	_	_	_	_
+12	paikkaa	paikka	_	_	N;SG;PRT	_	_	_	_
+13	edustajainhuoneessa	edustaja#huone	_	_	N;SG;IN+ESS	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	mutta	mutta	_	_	CONJ	_	_	_	_
+16	valtaosa	valta#osa	_	_	N;SG;NOM	_	_	_	_
+17	paikoista	paikka	_	_	N;PL;IN+ABL	_	_	_	_
+18	pysyi	pysyä	_	_	FIN;V;3;ACT;IND;PST;SG	_	_	_	_
+19	demokraateilla	demokraatti	_	_	N;AT+ESS;PL	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01120020
+# text = Kaikki lääkintämiehet olivat aseistettuja, paitsi minä.
+# text_en = All the medics were armed, except me.
+1	Kaikki	kaikki	_	_	NOM;SG;PRO	_	_	_	_
+2	lääkintämiehet	lääkintä#mies	_	_	N;NOM;PL	_	_	_	_
+3	olivat	olla	_	_	FIN;ACT;3;IND;PST;V;PL	_	_	_	_
+4	aseistettuja	aseistaa	_	_	V;V.PTCP;PRT;PASS;PL	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	paitsi	paitsi	_	_	ADP	_	_	_	_
+7	minä	minä	_	_	NOM;1;SG;PRO	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = n04007023
+# text = Se menee arvioitavaksi.
+# text_en = It will go for assessment.
+1	Se	se	_	_	NOM;SG;PRO	_	_	_	_
+2	menee	mennä	_	_	PRS;FIN;V;3;ACT;IND;SG	_	_	_	_
+3	arvioitavaksi	arvioida	_	_	V;V.PTCP;SG;PASS;TRANS	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = n02027021
+# text = Laissa määritetään lukuisia ehtoja, joiden täyttyminen voisi tuoda sopimuksen takaisin voimaan: USA:n pitäisi vetää kaikki joukkonsa pois maista, jotka ovat liittyneet Natoon vuoden 2000 jälkeen, poistaa kaikki Venäjän vastaiset pakotteet, sekä korvata kulut, jotka ovat syntyneet näiden pakotteiden seurauksena.
+# text_en = The law delineates a number of conditions whose fulfillment could bring the agreement back into effect: the USA would have to withdraw all of its troops from countries who joined NATO after 2000, rescind all of the sanctions against Russia as well as reimburse the costs that have been incurred as a result of the sanctions.
+1	Laissa	laki	_	_	N;SG;IN+ESS	_	_	_	_
+2	määritetään	määrittää	_	_	PRS;FIN;V;IND;PASS	_	_	_	_
+3	lukuisia	lukuisa	_	_	PRT;ADJ;PL	_	_	_	_
+4	ehtoja	ehto	_	_	N;PRT;PL	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	joiden	joka	_	_	PRO;GEN;PL	_	_	_	_
+7	täyttyminen	täyttyminen	_	_	N;SG;NOM	_	_	_	_
+8	voisi	voida	_	_	COND;FIN;ACT;3;SG;V	_	_	_	_
+9	tuoda	tuoda	_	_	V;NFIN;ACT;SG	_	_	_	_
+10	sopimuksen	sopimus	_	_	N;SG;GEN	_	_	_	_
+11	takaisin	takaisin	_	_	ADV	_	_	_	_
+12	voimaan	voimaan	_	_	ADV	_	_	_	_
+13	:	:	_	_	_	_	_	_	_
+14	USA:n	USA	_	_	N;SG;NOM	_	_	_	_
+15	pitäisi	pitää	_	_	COND;FIN;ACT;3;SG;V	_	_	_	_
+16	vetää	vetää	_	_	V;NFIN;ACT;SG	_	_	_	_
+17	kaikki	kaikki	_	_	NOM;SG;PRO	_	_	_	_
+18	joukkonsa	joukko	_	_	PSS3;N;NOM;PL	_	_	_	_
+19	pois	pois	_	_	ADV	_	_	_	_
+20	maista	maa	_	_	N;PL;IN+ABL	_	_	_	_
+21	,	,	_	_	_	_	_	_	_
+22	jotka	joka	_	_	NOM;PRO;PL	_	_	_	_
+23	ovat	olla	_	_	PRS;FIN;ACT;3;IND;V;PL	_	_	_	_
+24	liittyneet	liittyä	_	_	NOM;V;ACT;V.PTCP;PL	_	_	_	_
+25	Natoon	Nato	_	_	SG;IN+ALL;PROPN	_	_	_	_
+26	vuoden	vuosi	_	_	N;SG;GEN	_	_	_	_
+27	2000	2000	_	_	NUM	_	_	_	_
+28	jälkeen	jälkeen	_	_	ADP	_	_	_	_
+29	,	,	_	_	_	_	_	_	_
+30	poistaa	poistaa	_	_	V;NFIN;ACT;SG	_	_	_	_
+31	kaikki	kaikki	_	_	NOM;SG;PRO	_	_	_	_
+32	Venäjän	Venäjä	_	_	SG;GEN;PROPN	_	_	_	_
+33	vastaiset	vastainen	_	_	NOM;ADJ;PL	_	_	_	_
+34	pakotteet	pakote	_	_	N;NOM;PL	_	_	_	_
+35	,	,	_	_	_	_	_	_	_
+36	sekä	sekä	_	_	CONJ	_	_	_	_
+37	korvata	korvata	_	_	V;NFIN;ACT;SG	_	_	_	_
+38	kulut	kulu	_	_	N;NOM;PL	_	_	_	_
+39	,	,	_	_	_	_	_	_	_
+40	jotka	joka	_	_	NOM;PRO;PL	_	_	_	_
+41	ovat	olla	_	_	PRS;FIN;ACT;3;IND;V;PL	_	_	_	_
+42	syntyneet	syntyä	_	_	NOM;V;ACT;V.PTCP;PL	_	_	_	_
+43	näiden	tämä	_	_	PRO;GEN;PL	_	_	_	_
+44	pakotteiden	pakote	_	_	N;GEN;PL	_	_	_	_
+45	seurauksena	seuraus	_	_	N;SG;FRML	_	_	_	_
+46	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01075040
+# text = Matalia ansioita henkeä kohti on ehdotettu syyksi valitukselle ja aseelliseen kapinaan yllyttäväksi.
+# text_en = Low per capita income has been proposed as a cause for grievance, prompting armed rebellion.
+1	Matalia	matala	_	_	PRT;ADJ;PL	_	_	_	_
+2	ansioita	ansio	_	_	N;PRT;PL	_	_	_	_
+3	henkeä	henki	_	_	N;SG;PRT	_	_	_	_
+4	kohti	kohti	_	_	ADP	_	_	_	_
+5	on	olla	_	_	PRS;FIN;ACT;3;IND;SG;V	_	_	_	_
+6	ehdotettu	ehdottaa	_	_	NOM;V;V.PTCP;SG;PASS	_	_	_	_
+7	syyksi	syy	_	_	N;SG;TRANS	_	_	_	_
+8	valitukselle	valitus	_	_	N;AT+ALL;SG	_	_	_	_
+9	ja	ja	_	_	CONJ	_	_	_	_
+10	aseelliseen	aseellinen	_	_	IN+ALL;ADJ;SG	_	_	_	_
+11	kapinaan	kapina	_	_	N;SG;IN+ALL	_	_	_	_
+12	yllyttäväksi	yltyä	_	_	V;V.PTCP;SG;PASS;TRANS	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = n04010017
+# text = Ohittaen ExxonMobilin, Amazonista on tullut neljäs amerikkalainen yhtiö, jolla on suurin markkina-arvo.
+# text_en = Amazon has become the fourth American company with the largest market capitalisation, surpassing ExxonMobil.
+1	Ohittaen	ohittaa	_	_	V;NFIN;ACT;INS;SG	_	_	_	_
+2	ExxonMobilin	ExxonMobil	_	_	SG;GEN;PROPN	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	Amazonista	Amazon	_	_	SG;IN+ABL;PROPN	_	_	_	_
+5	on	olla	_	_	PRS;FIN;ACT;3;IND;SG;V	_	_	_	_
+6	tullut	tulla	_	_	NOM;V;ACT;V.PTCP;SG	_	_	_	_
+7	neljäs	neljäs	_	_	NOM;SG;ADJ	_	_	_	_
+8	amerikkalainen	amerikkalainen	_	_	NOM;ADJ;SG	_	_	_	_
+9	yhtiö	yhtiö	_	_	N;SG;NOM	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	jolla	joka	_	_	SG;PRO;AT+ESS	_	_	_	_
+12	on	olla	_	_	PRS;FIN;ACT;3;IND;SG;V	_	_	_	_
+13	suurin	suuri	_	_	NOM;SG;ADJ;RL	_	_	_	_
+14	markkina-arvo	markkina#arvo	_	_	N;SG;NOM	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n02050
+# sent_id = n02050052
+# text = On selvää: Miehillä voisi olla enemmän vastuuta, mitä tulee ehkäisyasioihin.
+# text_en = It's clear: Men could have more responsibility in matters of contraception.
+1	On	olla	_	_	PRS;FIN;ACT;3;IND;SG;V	_	_	_	_
+2	selvää	selvä	_	_	PRT;SG;ADJ	_	_	_	_
+3	:	:	_	_	_	_	_	_	_
+4	Miehillä	mies	_	_	N;AT+ESS;PL	_	_	_	_
+5	voisi	voida	_	_	COND;FIN;ACT;3;SG;V	_	_	_	_
+6	olla	olla	_	_	ACT;NFIN;SG;V	_	_	_	_
+7	enemmän	enemmän	_	_	ADV	_	_	_	_
+8	vastuuta	vastuu	_	_	N;SG;PRT	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	mitä	mikä	_	_	PRT;SG;PRO	_	_	_	_
+11	tulee	tulla	_	_	PRS;FIN;V;3;ACT;IND;SG	_	_	_	_
+12	ehkäisyasioihin	ehkäisy#asia	_	_	N;IN+ALL;PL	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = n03005025
+# text = Viestissä entinen oikeusministeri syytti Brice Hortefeux’ta ”fasistiksi”, ”sisäministeri (idiootiksi)” sekä ”roistoksi”.
+# text_en = In the message, the former Minister for Justice accused Brice Hortefeux of being a 'fascist', 'Minister (moron) of the Interior' and a 'thug'.
+1	Viestissä	viesti	_	_	N;SG;IN+ESS	_	_	_	_
+2	entinen	entinen	_	_	NOM;ADJ;SG	_	_	_	_
+3	oikeusministeri	oikeus#ministeri	_	_	N;SG;NOM	_	_	_	_
+4	syytti	syyttää	_	_	FIN;V;3;ACT;IND;PST;SG	_	_	_	_
+5	Brice	Brice	_	_	SG;NOM;PROPN	_	_	_	_
+6	Hortefeux’ta	Hortefeux	_	_	SG;PRT;PROPN	_	_	_	_
+7	”	”	_	_	_	_	_	_	_
+8	fasistiksi	fasisti	_	_	N;SG;TRANS	_	_	_	_
+9	”	”	_	_	_	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	”	”	_	_	_	_	_	_	_
+12	sisäministeri	sisäministeri	_	_	N;SG;NOM	_	_	_	_
+13	(	(	_	_	_	_	_	_	_
+14	idiootiksi	idiootti	_	_	N;SG;TRANS	_	_	_	_
+15	)	)	_	_	_	_	_	_	_
+16	”	”	_	_	_	_	_	_	_
+17	sekä	sekä	_	_	CONJ	_	_	_	_
+18	”	”	_	_	_	_	_	_	_
+19	roistoksi	roisto	_	_	N;SG;TRANS	_	_	_	_
+20	”	”	_	_	_	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01094022
+# text = ”Agoraan ei päässyt kuin kutsulla, mutta monille näistä markkinapaikoista pääsee helposti, jos tietää, miten etsiä”, tohtori Lee lisää.
+# text_en = “Agora was invitation-only but many of these marketplaces are easily accessible if you know how to search,” Dr Lee adds.
+1	”	”	_	_	_	_	_	_	_
+2	Agoraan	Agoraan	_	_	SG;IN+ALL;PROPN	_	_	_	_
+3	ei	ei	_	_	FIN;NEG;ACT;3;SG;V	_	_	_	_
+4	päässyt	päästä	_	_	NOM;V;ACT;V.PTCP;SG	_	_	_	_
+5	kuin	kuin	_	_	CONJ	_	_	_	_
+6	kutsulla	kutsu	_	_	N;SG;AT+ESS	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	mutta	mutta	_	_	CONJ	_	_	_	_
+9	monille	moni	_	_	AT+ALL;PRO;PL	_	_	_	_
+10	näistä	tämä	_	_	PRO;PL;IN+ABL	_	_	_	_
+11	markkinapaikoista	markkina#paikka	_	_	N;PL;IN+ABL	_	_	_	_
+12	pääsee	päästä	_	_	PRS;FIN;V;ACT;IND;0;SG	_	_	_	_
+13	helposti	helposti	_	_	ADV	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	jos	jos	_	_	CONJ	_	_	_	_
+16	tietää	tietää	_	_	PRS;FIN;V;3;ACT;IND;SG	_	_	_	_
+17	,	,	_	_	_	_	_	_	_
+18	miten	miten	_	_	ADV	_	_	_	_
+19	etsiä	etsiä	_	_	V;NFIN;ACT;SG	_	_	_	_
+20	”	”	_	_	_	_	_	_	_
+21	,	,	_	_	_	_	_	_	_
+22	tohtori	tohtori	_	_	N;SG;NOM	_	_	_	_
+23	Lee	Lee	_	_	SG;NOM;PROPN	_	_	_	_
+24	lisää	lisätä	_	_	PRS;FIN;V;3;ACT;IND;SG	_	_	_	_
+25	.	.	_	_	_	_	_	_	_
+
+# sent_id = n05002015
+# text = Sen johto ei kuitenkaan ole välttynyt kritiikiltä.
+# text_en = Its management, however, hasn't been devoid of criticism.
+1	Sen	se	_	_	SG;PRO;GEN	_	_	_	_
+2	johto	johto	_	_	N;SG;NOM	_	_	_	_
+3	ei	ei	_	_	FIN;NEG;ACT;3;SG;V	_	_	_	_
+4	kuitenkaan	kuitenkaan	_	_	ADV	_	_	_	_
+5	ole	olla	_	_	PRS;FIN;IND;V	_	_	_	_
+6	välttynyt	välttyä	_	_	NOM;V;ACT;V.PTCP;SG	_	_	_	_
+7	kritiikiltä	kritiikki	_	_	N;SG;AT+ABL	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01097
+# sent_id = w01097059
+# text = Britannian ratsuväkijoukoille annettiin myös erinomaista miekkailukoulutusta.
+# text_en = British cavalry troopers also received excellent mounted swordsmanship training.
+1	Britannian	Britannia	_	_	SG;GEN;PROPN	_	_	_	_
+2	ratsuväkijoukoille	ratsu#väki#joukko	_	_	N;AT+ALL;PL	_	_	_	_
+3	annettiin	antaa	_	_	FIN;V;IND;PST;PASS	_	_	_	_
+4	myös	myös	_	_	ADV	_	_	_	_
+5	erinomaista	erinomainen	_	_	ADJ;SG;PRT	_	_	_	_
+6	miekkailukoulutusta	miekkailu#koulutus	_	_	N;SG;PRT	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01083
+# sent_id = n01083013
+# text = Hänen syynsä on, että se ei tarjoa tarpeeksi suojaa amerikkalaisille työntekijöille, joiden töitä ja elintasoa se voi vahingoittaa.
+# text_en = Her reason is that it provides insufficient protection to American workers whose jobs and living standards it might harm.
+1	Hänen	hän	_	_	GEN;3;SG;PRO	_	_	_	_
+2	syynsä	syy	_	_	PSS3;N;SG;NOM	_	_	_	_
+3	on	olla	_	_	PRS;FIN;ACT;3;IND;SG;V	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	että	että	_	_	CONJ	_	_	_	_
+6	se	se	_	_	NOM;SG;PRO	_	_	_	_
+7	ei	ei	_	_	FIN;NEG;ACT;3;SG;V	_	_	_	_
+8	tarjoa	tarjota	_	_	PRS;FIN;V;IND	_	_	_	_
+9	tarpeeksi	tarpeeksi	_	_	ADV	_	_	_	_
+10	suojaa	suoja	_	_	N;SG;PRT	_	_	_	_
+11	amerikkalaisille	amerikkalainen	_	_	AT+ALL;ADJ;PL	_	_	_	_
+12	työntekijöille	työntekijä	_	_	N;AT+ALL;PL	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	joiden	joka	_	_	PRO;GEN;PL	_	_	_	_
+15	töitä	työ	_	_	N;PRT;PL	_	_	_	_
+16	ja	ja	_	_	CONJ	_	_	_	_
+17	elintasoa	elin#taso	_	_	N;SG;PRT	_	_	_	_
+18	se	se	_	_	NOM;SG;PRO	_	_	_	_
+19	voi	voida	_	_	PRS;FIN;ACT;3;IND;SG;V	_	_	_	_
+20	vahingoittaa	vahingoittaa	_	_	V;NFIN;ACT;SG	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01057
+# sent_id = w01057006
+# text = Jokainen runo kertoo vain osan sodasta.
+# text_en = Each poem narrates only a part of the war.
+1	Jokainen	jokainen	_	_	NOM;SG;PRO	_	_	_	_
+2	runo	runo	_	_	N;SG;NOM	_	_	_	_
+3	kertoo	kertoa	_	_	PRS;FIN;V;3;ACT;IND;SG	_	_	_	_
+4	vain	vain	_	_	ADV	_	_	_	_
+5	osan	osa	_	_	N;SG;GEN	_	_	_	_
+6	sodasta	sota	_	_	N;SG;IN+ABL	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01134015
+# text = Hänen ansionaan pidetään auttamisyrityksiä Kiinan paikallisviranomaisten keräämien velkavuorten selvityksessä.
+# text_en = He is credited with helping efforts to tackle the mountain of debt accumulated by local governments in China.
+1	Hänen	hän	_	_	GEN;3;SG;PRO	_	_	_	_
+2	ansionaan	ansio	_	_	PSS3;N;SG;FRML	_	_	_	_
+3	pidetään	pidetä	_	_	PRS;FIN;V;IND;PASS	_	_	_	_
+4	auttamisyrityksiä	auttamis#yritys	_	_	N;PRT;PL	_	_	_	_
+5	Kiinan	Kiina	_	_	SG;GEN;PROPN	_	_	_	_
+6	paikallisviranomaisten	paikallis#viran#omainen	_	_	N;GEN;PL	_	_	_	_
+7	keräämien	kerätä	_	_	GEN;V;ACT;V.PTCP;PL	_	_	_	_
+8	velkavuorten	velka#vuori	_	_	N;GEN;PL	_	_	_	_
+9	selvityksessä	selvitys	_	_	N;SG;IN+ESS	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01012
+# sent_id = w01012052
+# text = Lisäksi asetuksessa määrätään aluekokouksen ja suurkaupunkialueiden valinnasta.
+# text_en = In addition, statute determines the election of assembly of regions, and metropolitan districts.
+1	Lisäksi	lisäksi	_	_	ADV	_	_	_	_
+2	asetuksessa	asetus	_	_	N;SG;IN+ESS	_	_	_	_
+3	määrätään	määrätä	_	_	PRS;FIN;V;IND;PASS	_	_	_	_
+4	aluekokouksen	alue#kokous	_	_	N;SG;GEN	_	_	_	_
+5	ja	ja	_	_	CONJ	_	_	_	_
+6	suurkaupunkialueiden	suur#kaupunki#alue	_	_	N;GEN;PL	_	_	_	_
+7	valinnasta	valinta	_	_	N;SG;IN+ABL	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01070
+# sent_id = w01070031
+# text = Sinne rakennettiin pronssikautinen tähtitieteellinen observatorio noin 1900 eKr., ja se palveli alueella asuvaa yhteisöä aina noin vuoteen 700 eKr. saakka.
+# text_en = A Bronze Age astronomical observatory was constructed there around 1900 BC and continuously served the nearby community that lived there until about 700 BC.
+1	Sinne	sinne	_	_	ADV	_	_	_	_
+2	rakennettiin	rakentaa	_	_	FIN;V;IND;PST;PASS	_	_	_	_
+3	pronssikautinen	pronssi#kautinen	_	_	NOM;ADJ;SG	_	_	_	_
+4	tähtitieteellinen	tähti#tieteellinen	_	_	NOM;ADJ;SG	_	_	_	_
+5	observatorio	observatorio	_	_	N;SG;NOM	_	_	_	_
+6	noin	noin	_	_	ADV	_	_	_	_
+7	1900	1900	_	_	NUM	_	_	_	_
+8	eKr.	eKr.	_	_	N	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	ja	ja	_	_	CONJ	_	_	_	_
+11	se	se	_	_	NOM;SG;PRO	_	_	_	_
+12	palveli	palvella	_	_	FIN;V;3;ACT;IND;PST;SG	_	_	_	_
+13	alueella	alue	_	_	N;SG;AT+ESS	_	_	_	_
+14	asuvaa	asua	_	_	V;ACT;V.PTCP;SG;PRT	_	_	_	_
+15	yhteisöä	yhteisö	_	_	N;SG;PRT	_	_	_	_
+16	aina	aina	_	_	ADV	_	_	_	_
+17	noin	noin	_	_	ADV	_	_	_	_
+18	vuoteen	vuosi	_	_	N;SG;IN+ALL	_	_	_	_
+19	700	700	_	_	NUM	_	_	_	_
+20	eKr.	eKr.	_	_	N	_	_	_	_
+21	saakka	saakka	_	_	ADP	_	_	_	_
+22	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01101
+# sent_id = n01101003
+# text = Väliintulo on mahdollisesti Pekingin kauaskantoisin sitten vuoden 1997, jolloin Britannia luovutti Hong Kongin.
+# text_en = The intervention is potentially the most far-reaching by Beijing since the 1997 handover of Hong Kong from the UK.
+1	Väliintulo	väliintulo	_	_	N;SG;NOM	_	_	_	_
+2	on	olla	_	_	PRS;FIN;ACT;3;IND;SG;V	_	_	_	_
+3	mahdollisesti	mahdollisesti	_	_	ADV	_	_	_	_
+4	Pekingin	Peking	_	_	SG;GEN;PROPN	_	_	_	_
+5	kauaskantoisin	kauaskantoinen	_	_	NOM;RL;ADJ;SG	_	_	_	_
+6	sitten	sitten	_	_	ADP	_	_	_	_
+7	vuoden	vuosi	_	_	N;SG;GEN	_	_	_	_
+8	1997	1997	_	_	NUM	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	jolloin	jolloin	_	_	ADV	_	_	_	_
+11	Britannia	Britannia	_	_	SG;NOM;PROPN	_	_	_	_
+12	luovutti	luovuttaa	_	_	FIN;V;3;ACT;IND;PST;SG	_	_	_	_
+13	Hong	Hong	_	_	SG;NOM;PROPN	_	_	_	_
+14	Kongin	Kong	_	_	SG;GEN;PROPN	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01058
+# sent_id = w01058009
+# text = Tämä kuitenkin kumottiin, kun Julianus tapettiin taistelussa vuonna 363.
+# text_en = However this was reversed when Julian was killed in battle in 363.
+1	Tämä	tämä	_	_	NOM;SG;PRO	_	_	_	_
+2	kuitenkin	kuitenkin	_	_	ADV	_	_	_	_
+3	kumottiin	kumota	_	_	FIN;V;IND;PST;PASS	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	kun	kun	_	_	CONJ	_	_	_	_
+6	Julianus	Julianus	_	_	SG;NOM;PROPN	_	_	_	_
+7	tapettiin	tappaa	_	_	FIN;V;IND;PST;PASS	_	_	_	_
+8	taistelussa	taistelu	_	_	N;SG;IN+ESS	_	_	_	_
+9	vuonna	vuosi	_	_	N;SG;FRML	_	_	_	_
+10	363	363	_	_	NUM	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01050014
+# text = On mahdollista, että hemoglobiiniarvot ovat normaaleita, mutta rautavarastot yleisesti ottaen vähäisiä, Kanadan veripalvelu CBS sanoo.
+# text_en = It's possible to have normal hemoglobin levels, but to have low iron stores overall, says Canadian Blood Services (CBS).
+1	On	olla	_	_	PRS;FIN;ACT;3;IND;SG;V	_	_	_	_
+2	mahdollista	mahdollinen	_	_	ADJ;SG;PRT	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	että	että	_	_	CONJ	_	_	_	_
+5	hemoglobiiniarvot	hemoglobiini#arvo	_	_	N;NOM;PL	_	_	_	_
+6	ovat	olla	_	_	PRS;FIN;ACT;3;IND;V;PL	_	_	_	_
+7	normaaleita	normaali	_	_	PRT;ADJ;PL	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	mutta	mutta	_	_	CONJ	_	_	_	_
+10	rautavarastot	rauta#varasto	_	_	N;NOM;PL	_	_	_	_
+11	yleisesti	yleisesti	_	_	ADV	_	_	_	_
+12	ottaen	ottaa	_	_	ADV	_	_	_	_
+13	vähäisiä	vähäinen	_	_	ADJ;PRT;PL	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	Kanadan	Kanada	_	_	SG;GEN;PROPN	_	_	_	_
+16	veripalvelu	veri#palvelu	_	_	N;SG;NOM	_	_	_	_
+17	CBS	CBS	_	_	SG;NOM;PROPN	_	_	_	_
+18	sanoo	sanoa	_	_	PRS;FIN;V;3;ACT;IND;SG	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01105057
+# text = Se oli niin menestyksekäs, että armeija jatkoi sen käyttämistä monta vuotta sodan jälkeen, ja se oli käytössä joissain maissa vielä 1980-luvulla.
+# text_en = It was so successful that the military continued to use it for many years after the war, and it was still in use in some countries in the 1980s.
+1	Se	se	_	_	NOM;SG;PRO	_	_	_	_
+2	oli	olla	_	_	FIN;ACT;3;IND;PST;SG;V	_	_	_	_
+3	niin	niin	_	_	ADV	_	_	_	_
+4	menestyksekäs	menestyksekäs	_	_	NOM;SG;ADJ	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	että	että	_	_	CONJ	_	_	_	_
+7	armeija	armeija	_	_	N;SG;NOM	_	_	_	_
+8	jatkoi	jatkaa	_	_	FIN;V;3;ACT;IND;PST;SG	_	_	_	_
+9	sen	se	_	_	SG;PRO;GEN	_	_	_	_
+10	käyttämistä	käyttäminen	_	_	N;SG;PRT	_	_	_	_
+11	monta	moni	_	_	PRT;SG;PRO	_	_	_	_
+12	vuotta	vuosi	_	_	N;SG;PRT	_	_	_	_
+13	sodan	sota	_	_	N;SG;GEN	_	_	_	_
+14	jälkeen	jälkeen	_	_	ADP	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	ja	ja	_	_	CONJ	_	_	_	_
+17	se	se	_	_	NOM;SG;PRO	_	_	_	_
+18	oli	olla	_	_	FIN;ACT;3;IND;PST;SG;V	_	_	_	_
+19	käytössä	käyttö	_	_	N;SG;IN+ESS	_	_	_	_
+20	joissain	jokin	_	_	IN+ESS;PRO;PL	_	_	_	_
+21	maissa	maa	_	_	N;IN+ESS;PL	_	_	_	_
+22	vielä	vielä	_	_	ADV	_	_	_	_
+23	1980-luvulla	1980#luku	_	_	N;SG;AT+ESS	_	_	_	_
+24	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01113
+# sent_id = w01113033
+# text = Tällä kortilla voi nostaa pankkiautomaateista määrärahan, joka on tarkoitettu koulutarpeiden, kuten kirjojen ja koulupukujen, ostamiseen.
+# text_en = This card gives an allowance that can be withdrawn from ATMs in order to buy school needs such as books and uniforms.
+1	Tällä	tämä	_	_	SG;PRO;AT+ESS	_	_	_	_
+2	kortilla	kortti	_	_	N;SG;AT+ESS	_	_	_	_
+3	voi	voida	_	_	PRS;FIN;ACT;3;IND;SG;V	_	_	_	_
+4	nostaa	nostaa	_	_	V;NFIN;ACT;SG	_	_	_	_
+5	pankkiautomaateista	pankki#automaatti	_	_	N;PL;IN+ABL	_	_	_	_
+6	määrärahan	määrä#raha	_	_	N;SG;GEN	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	joka	joka	_	_	NOM;SG;PRO	_	_	_	_
+9	on	olla	_	_	PRS;FIN;ACT;3;IND;SG;V	_	_	_	_
+10	tarkoitettu	tarkoittaa	_	_	NOM;V;V.PTCP;SG;PASS	_	_	_	_
+11	koulutarpeiden	koulu#tarve	_	_	N;GEN;PL	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	kuten	kuten	_	_	ADV	_	_	_	_
+14	kirjojen	kirja	_	_	N;GEN;PL	_	_	_	_
+15	ja	ja	_	_	CONJ	_	_	_	_
+16	koulupukujen	koulu#puku	_	_	N;GEN;PL	_	_	_	_
+17	,	,	_	_	_	_	_	_	_
+18	ostamiseen	ostaminen	_	_	N;SG;IN+ALL	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n05005
+# sent_id = n05005002
+# text = Federico Fellini sanoi kerran: ”Klovni on ihmisyydelle kuin varjo ihmiselle.”
+# text_en = Federico Fellini once said: "The clown is to humanity as the shadow is to man".
+1	Federico	Federico	_	_	SG;NOM;PROPN	_	_	_	_
+2	Fellini	Fellini	_	_	SG;NOM;PROPN	_	_	_	_
+3	sanoi	sanoa	_	_	FIN;V;3;ACT;IND;PST;SG	_	_	_	_
+4	kerran	kerran	_	_	ADV	_	_	_	_
+5	:	:	_	_	_	_	_	_	_
+6	”	”	_	_	_	_	_	_	_
+7	Klovni	klovni	_	_	N;SG;NOM	_	_	_	_
+8	on	olla	_	_	PRS;FIN;V;3;ACT;IND;SG	_	_	_	_
+9	ihmisyydelle	ihmisyys	_	_	N;AT+ALL;SG	_	_	_	_
+10	kuin	kuin	_	_	CONJ	_	_	_	_
+11	varjo	varjo	_	_	N;SG;NOM	_	_	_	_
+12	ihmiselle	ihminen	_	_	N;AT+ALL;SG	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+14	”	”	_	_	_	_	_	_	_
+
+# newdoc id = w01096
+# sent_id = w01096013
+# text = Japanilaiset miehittäjäjoukot tappoivat Aasiassa ja Tyynenmeren alueella siviilejä määrän, joka on 3 ja yli 10 miljoonan välillä. Suuri osa näistä oli kiinalaisia (arvion mukaan 7,5 miljoonaa).
+# text_en = In Asia and the Pacific, between 3 million and more than 10 million civilians, mostly Chinese (estimated at 7.5 million), were killed by the Japanese occupation forces.
+1	Japanilaiset	japanilainen	_	_	NOM;ADJ;PL	_	_	_	_
+2	miehittäjäjoukot	miehittäjä#joukko	_	_	N;NOM;PL	_	_	_	_
+3	tappoivat	tappaa	_	_	FIN;V;3;ACT;IND;PST;PL	_	_	_	_
+4	Aasiassa	Aasia	_	_	IN+ESS;SG;PROPN	_	_	_	_
+5	ja	ja	_	_	CONJ	_	_	_	_
+6	Tyynenmeren	tyyni#meri	_	_	SG;GEN;PROPN	_	_	_	_
+7	alueella	alue	_	_	N;SG;AT+ESS	_	_	_	_
+8	siviilejä	siviili	_	_	N;PRT;PL	_	_	_	_
+9	määrän	määrä	_	_	N;SG;GEN	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	joka	joka	_	_	NOM;SG;PRO	_	_	_	_
+12	on	olla	_	_	PRS;FIN;ACT;3;IND;SG;V	_	_	_	_
+13	3	3	_	_	NUM	_	_	_	_
+14	ja	ja	_	_	CONJ	_	_	_	_
+15	yli	yli	_	_	ADV	_	_	_	_
+16	10	10	_	_	NUM	_	_	_	_
+17	miljoonan	miljoona	_	_	N;SG;GEN	_	_	_	_
+18	välillä	välillä	_	_	ADP	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+20	Suuri	suuri	_	_	NOM;SG;ADJ	_	_	_	_
+21	osa	osa	_	_	N;SG;NOM	_	_	_	_
+22	näistä	tämä	_	_	PRO;PL;IN+ABL	_	_	_	_
+23	oli	olla	_	_	FIN;ACT;3;IND;PST;SG;V	_	_	_	_
+24	kiinalaisia	kiinalainen	_	_	N;PRT;PL	_	_	_	_
+25	(	(	_	_	_	_	_	_	_
+26	arvion	arvio	_	_	N;SG;GEN	_	_	_	_
+27	mukaan	mukaan	_	_	ADP	_	_	_	_
+28	7,5	7,5	_	_	NUM	_	_	_	_
+29	miljoonaa	miljoona	_	_	N;SG;PRT	_	_	_	_
+30	)	)	_	_	_	_	_	_	_
+31	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01050009
+# text = Tämänhetkinen odotusaika on kahdeksan viikkoa.
+# text_en = The current waiting period is eight weeks.
+1	Tämänhetkinen	tämän#hetkinen	_	_	NOM;ADJ;SG	_	_	_	_
+2	odotusaika	odotus#aika	_	_	N;SG;NOM	_	_	_	_
+3	on	olla	_	_	PRS;FIN;ACT;3;IND;SG;V	_	_	_	_
+4	kahdeksan	kahdeksan	_	_	SG;NUM;NOM	_	_	_	_
+5	viikkoa	viikko	_	_	N;SG;PRT	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01117
+# sent_id = w01117009
+# text = Vuosien 1991 ja 1997 välillä hän piti koulua lapsille, joilla oli oppimisvaikeuksia.
+# text_en = Between 1991 and 1997, she ran a school for children with learning disabilities.
+1	Vuosien	vuosi	_	_	N;GEN;PL	_	_	_	_
+2	1991	1991	_	_	NUM	_	_	_	_
+3	ja	ja	_	_	CONJ	_	_	_	_
+4	1997	1997	_	_	NUM	_	_	_	_
+5	välillä	välillä	_	_	ADP	_	_	_	_
+6	hän	hän	_	_	NOM;3;SG;PRO	_	_	_	_
+7	piti	pitää	_	_	FIN;V;3;ACT;IND;PST;SG	_	_	_	_
+8	koulua	koulu	_	_	N;SG;PRT	_	_	_	_
+9	lapsille	lapsi	_	_	N;AT+ALL;PL	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	joilla	joka	_	_	PRO;AT+ESS;PL	_	_	_	_
+12	oli	olla	_	_	FIN;ACT;3;IND;PST;SG;V	_	_	_	_
+13	oppimisvaikeuksia	oppimis#vaikeus	_	_	N;PRT;PL	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01123
+# sent_id = n01123010
+# text = Mutta Cottonin synkät teot eivät johtuneet jonkinlaisesta tarpeesta tappaa.
+# text_en = But Cotton’s dark deeds did not occur due to some sort of compulsion to kill.
+1	Mutta	mutta	_	_	CONJ	_	_	_	_
+2	Cottonin	Cotton	_	_	SG;GEN;PROPN	_	_	_	_
+3	synkät	synkkä	_	_	NOM;ADJ;PL	_	_	_	_
+4	teot	teko	_	_	N;NOM;PL	_	_	_	_
+5	eivät	ei	_	_	FIN;NEG;ACT;3;V;PL	_	_	_	_
+6	johtuneet	johtua	_	_	NOM;V;ACT;V.PTCP;PL	_	_	_	_
+7	jonkinlaisesta	jonkinlainen	_	_	ADJ;SG;IN+ABL	_	_	_	_
+8	tarpeesta	tarve	_	_	N;SG;IN+ABL	_	_	_	_
+9	tappaa	tappaa	_	_	PRS;FIN;V;3;ACT;IND;SG	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01030096
+# text = Euroopan suuret joet kuten Rein, Rhône, Inn, Ticino ja Po virtaavat Sveitsistä. Kaikkien niiden alkulähteet ovat Alpeilla ja ne virtaavat naapurimaihin ja lopulta laskevat Pohjanmereen, Välimereen, Adrianmereen ja Mustaanmereen.
+# text_en = Major European rivers flow from Switzerland, such as the Rhine, the Rhône, the Inn, the Ticino and the Po, all of which have headwaters in the Alps and flow into neighbouring countries, finally emptying into the North Sea, the Mediterranean Sea, the Adriatic Sea and the Black Sea.
+1	Euroopan	Eurooppa	_	_	SG;GEN;PROPN	_	_	_	_
+2	suuret	suuri	_	_	NOM;ADJ;PL	_	_	_	_
+3	joet	joki	_	_	N;NOM;PL	_	_	_	_
+4	kuten	kuten	_	_	ADV	_	_	_	_
+5	Rein	Rein	_	_	SG;NOM;PROPN	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	Rhône	Rhône	_	_	SG;NOM;PROPN	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	Inn	Inn	_	_	SG;NOM;PROPN	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	Ticino	Ticino	_	_	SG;NOM;PROPN	_	_	_	_
+12	ja	ja	_	_	CONJ	_	_	_	_
+13	Po	Po	_	_	SG;NOM;PROPN	_	_	_	_
+14	virtaavat	virrata	_	_	PRS;FIN;V;3;ACT;IND;PL	_	_	_	_
+15	Sveitsistä	Sveitsi	_	_	SG;IN+ABL;PROPN	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+17	Kaikkien	kaikki	_	_	PRO;GEN;PL	_	_	_	_
+18	niiden	se	_	_	PRO;GEN;PL	_	_	_	_
+19	alkulähteet	alku#lähde	_	_	N;NOM;PL	_	_	_	_
+20	ovat	olla	_	_	PRS;FIN;ACT;3;IND;V;PL	_	_	_	_
+21	Alpeilla	Alpit	_	_	N;AT+ESS;PL	_	_	_	_
+22	ja	ja	_	_	CONJ	_	_	_	_
+23	ne	se	_	_	NOM;PRO;PL	_	_	_	_
+24	virtaavat	virrata	_	_	PRS;FIN;V;3;ACT;IND;PL	_	_	_	_
+25	naapurimaihin	naapuri#maa	_	_	N;IN+ALL;PL	_	_	_	_
+26	ja	ja	_	_	CONJ	_	_	_	_
+27	lopulta	lopulta	_	_	ADV	_	_	_	_
+28	laskevat	laskea	_	_	PRS;FIN;V;3;ACT;IND;PL	_	_	_	_
+29	Pohjanmereen	pohjan#meri	_	_	SG;IN+ALL;PROPN	_	_	_	_
+30	,	,	_	_	_	_	_	_	_
+31	Välimereen	väli#meri	_	_	SG;IN+ALL;PROPN	_	_	_	_
+32	,	,	_	_	_	_	_	_	_
+33	Adrianmereen	Adrianmeri	_	_	SG;IN+ALL;PROPN	_	_	_	_
+34	ja	ja	_	_	CONJ	_	_	_	_
+35	Mustaanmereen	Mustameri	_	_	SG;IN+ALL;PROPN	_	_	_	_
+36	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01135
+# sent_id = n01135002
+# text = Kiinan kyltymätön ruokahalu uppopaistetun kanan suhteen oli suuri tekijä siihen, miksi sijoittajat rakastivat KFC-emoyhtiö Yum Brandsia.
+# text_en = China's insatiable appetite for fried chicken used to be a big reason why investors loved KFC-parent Yum Brands.
+1	Kiinan	Kiina	_	_	SG;GEN;PROPN	_	_	_	_
+2	kyltymätön	kyltymätön	_	_	NOM;ADJ;SG	_	_	_	_
+3	ruokahalu	ruoka#halu	_	_	N;SG;NOM	_	_	_	_
+4	uppopaistetun	uppopaistaa	_	_	GEN;V;V.PTCP;SG;PASS	_	_	_	_
+5	kanan	kana	_	_	N;SG;GEN	_	_	_	_
+6	suhteen	suhteen	_	_	ADP	_	_	_	_
+7	oli	olla	_	_	FIN;ACT;3;IND;PST;SG;V	_	_	_	_
+8	suuri	suuri	_	_	NOM;SG;ADJ	_	_	_	_
+9	tekijä	tekijä	_	_	N;SG;NOM	_	_	_	_
+10	siihen	se	_	_	SG;PRO;IN+ALL	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	miksi	miksi	_	_	ADV	_	_	_	_
+13	sijoittajat	sijoittaja	_	_	N;NOM;PL	_	_	_	_
+14	rakastivat	rakastaa	_	_	FIN;V;3;ACT;IND;PST;PL	_	_	_	_
+15	KFC-emoyhtiö	KFC#emo#yhtiö	_	_	N;SG;NOM	_	_	_	_
+16	Yum	Yum	_	_	SG;NOM;PROPN	_	_	_	_
+17	Brandsia	Brands	_	_	SG;PRT;PROPN	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01135037
+# text = Vuonna 2012 hän tähditti elokuvaa Viiden vuoden kihlaus, jonka oli ohjannut Nicholas Stoller ja jossa vastanäyttelijänä oli Jason Segel.
+# text_en = She starred in the 2012 film The Five-Year Engagement, directed by Nicholas Stoller and co-starring Jason Segel.
+1	Vuonna	vuosi	_	_	N;SG;FRML	_	_	_	_
+2	2012	2012	_	_	NUM	_	_	_	_
+3	hän	hän	_	_	NOM;3;SG;PRO	_	_	_	_
+4	tähditti	tähdittää	_	_	FIN;V;3;ACT;IND;PST;SG	_	_	_	_
+5	elokuvaa	elo#kuva	_	_	N;SG;PRT	_	_	_	_
+6	Viiden	viisi	_	_	SG;NUM;GEN	_	_	_	_
+7	vuoden	vuosi	_	_	N;SG;GEN	_	_	_	_
+8	kihlaus	kihlaus	_	_	N;SG;NOM	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	jonka	joka	_	_	SG;PRO;GEN	_	_	_	_
+11	oli	olla	_	_	FIN;ACT;3;IND;PST;SG;V	_	_	_	_
+12	ohjannut	ohjata	_	_	NOM;V;ACT;V.PTCP;SG	_	_	_	_
+13	Nicholas	Nicholas	_	_	SG;NOM;PROPN	_	_	_	_
+14	Stoller	Stoller	_	_	SG;NOM;PROPN	_	_	_	_
+15	ja	ja	_	_	CONJ	_	_	_	_
+16	jossa	joka	_	_	IN+ESS;SG;PRO	_	_	_	_
+17	vastanäyttelijänä	vasta#näyttelijä	_	_	N;SG;FRML	_	_	_	_
+18	oli	olla	_	_	FIN;ACT;3;IND;PST;SG;V	_	_	_	_
+19	Jason	Jason	_	_	SG;NOM;PROPN	_	_	_	_
+20	Segel	Segel	_	_	SG;NOM;PROPN	_	_	_	_
+21	.	.	_	_	SG;NOM	_	_	_	_
+
+# sent_id = n01055038
+# text = Tämä pitää paikkansa paitsi viihdesisällön kohdalla, myös koulutuksen, tieteellisen tutkimuksen ja, ehkäpä tärkeimpänä kaikista, poliittisen keskustelun suhteen.
+# text_en = This would not only apply to entertainment content, but equally to education, to scientific research and, perhaps most importantly, to political discourse.
+1	Tämä	tämä	_	_	NOM;SG;PRO	_	_	_	_
+2	pitää	pitää	_	_	PRS;FIN;V;3;ACT;IND;SG	_	_	_	_
+3	paikkansa	paikka	_	_	PSS3;N;SG;GEN	_	_	_	_
+4	paitsi	paitsi	_	_	ADP	_	_	_	_
+5	viihdesisällön	viihde#sisältö	_	_	N;SG;GEN	_	_	_	_
+6	kohdalla	kohta	_	_	N;SG;AT+ESS	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	myös	myös	_	_	ADV	_	_	_	_
+9	koulutuksen	koulutus	_	_	N;SG;GEN	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	tieteellisen	tieteellinen	_	_	GEN;ADJ;SG	_	_	_	_
+12	tutkimuksen	tutkimus	_	_	N;SG;GEN	_	_	_	_
+13	ja	ja	_	_	CONJ	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	ehkäpä	ehkäpä	_	_	ADV	_	_	_	_
+16	tärkeimpänä	tärkeä	_	_	SG;RL;ADJ;FRML	_	_	_	_
+17	kaikista	kaikki	_	_	PRO;PL;IN+ABL	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	poliittisen	poliittinen	_	_	GEN;ADJ;SG	_	_	_	_
+20	keskustelun	keskustelu	_	_	N;SG;GEN	_	_	_	_
+21	suhteen	suhteen	_	_	ADP	_	_	_	_
+22	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01063
+# sent_id = n01063011
+# text = Miami Bass -tuottajat olivat kliinisiä tehdessään taidetta takapuolten liikuttamisesta - heidän pääasiastaan.
+# text_en = Miami Bass producers were clinical in the art of moving butts—their main concern.
+1	Miami	Miami	_	_	SG;NOM;PROPN	_	_	_	_
+2	Bass	Bass	_	_	SG;NOM;PROPN	_	_	_	_
+3	-tuottajat	tuottaja	_	_	N;NOM;PL	_	_	_	_
+4	olivat	olla	_	_	FIN;ACT;3;IND;PST;V;PL	_	_	_	_
+5	kliinisiä	kliininen	_	_	ADJ;PRT;PL	_	_	_	_
+6	tehdessään	tehdä	_	_	PSS3;V;NFIN;ACT;IN+ESS;SG	_	_	_	_
+7	taidetta	taide	_	_	N;SG;PRT	_	_	_	_
+8	takapuolten	taka#puoli	_	_	N;GEN;PL	_	_	_	_
+9	liikuttamisesta	liikuttaminen	_	_	N;SG;IN+ABL	_	_	_	_
+10	-	-	_	_	_	_	_	_	_
+11	heidän	hän	_	_	GEN;3;PRO;PL	_	_	_	_
+12	pääasiastaan	pää#asia	_	_	PSS3;N;SG;IN+ABL	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01057036
+# text = Kaikkiin kysymyksiin ei kuitenkaan vielä ole vastattu.
+# text_en = Still, there are questions left unanswered.
+1	Kaikkiin	kaikki	_	_	PRO;IN+ALL;PL	_	_	_	_
+2	kysymyksiin	kysymys	_	_	N;IN+ALL;PL	_	_	_	_
+3	ei	ei	_	_	FIN;NEG;ACT;3;SG;V	_	_	_	_
+4	kuitenkaan	kuitenkaan	_	_	ADV	_	_	_	_
+5	vielä	vielä	_	_	ADV	_	_	_	_
+6	ole	olla	_	_	PRS;FIN;IND;V	_	_	_	_
+7	vastattu	vastata	_	_	NOM;V;V.PTCP;SG;PASS	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w03002
+# sent_id = w03002048
+# text = 2000-luvun alkupuolella 100 000 asukasta kohti oli 5 lääkäriä.
+# text_en = In the early 2000s, there were five doctors per 100,000 inhabitants.
+1	2000-luvun	2000#luku	_	_	N;SG;GEN	_	_	_	_
+2	alkupuolella	alku#puoli	_	_	N;SG;AT+ESS	_	_	_	_
+3	100 000	100 000	_	_	NUM	_	_	_	_
+4	asukasta	asukas	_	_	N;SG;PRT	_	_	_	_
+5	kohti	kohti	_	_	ADP	_	_	_	_
+6	oli	olla	_	_	FIN;ACT;3;IND;PST;SG;V	_	_	_	_
+7	5	5	_	_	NUM	_	_	_	_
+8	lääkäriä	lääkäri	_	_	N;SG;PRT	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01050019
+# text = Uudet rautaohjeistukset tarkoittavat sitä, että tarvitaan lisää luovuttajia.
+# text_en = The new iron guidelines mean more donors are needed.
+1	Uudet	uusi	_	_	NOM;ADJ;PL	_	_	_	_
+2	rautaohjeistukset	rauta#ohjeistus	_	_	N;NOM;PL	_	_	_	_
+3	tarkoittavat	tarkoittaa	_	_	PRS;FIN;V;3;ACT;IND;PL	_	_	_	_
+4	sitä	se	_	_	PRT;SG;PRO	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	että	että	_	_	CONJ	_	_	_	_
+7	tarvitaan	tarvita	_	_	PRS;FIN;V;IND;PASS	_	_	_	_
+8	lisää	lisää	_	_	ADV	_	_	_	_
+9	luovuttajia	luovuttaja	_	_	N;PRT;PL	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01101084
+# text = Hänelle tarjottiin useita käsikirjoituksia, televisiomainoksia ja näytelmäprojekteja, mutta mikään niistä ei kiinnostanut häntä.
+# text_en = She was offered several scripts, television commercials, and stage projects, but none piqued her interest.
+1	Hänelle	hän	_	_	AT+ALL;3;SG;PRO	_	_	_	_
+2	tarjottiin	tarjota	_	_	FIN;V;IND;PST;PASS	_	_	_	_
+3	useita	usea	_	_	PRT;ADJ;PL	_	_	_	_
+4	käsikirjoituksia	käsi#kirjoitus	_	_	N;PRT;PL	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	televisiomainoksia	televisio#mainos	_	_	N;PRT;PL	_	_	_	_
+7	ja	ja	_	_	CONJ	_	_	_	_
+8	näytelmäprojekteja	näytelmä#projekti	_	_	N;PRT;PL	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	mutta	mutta	_	_	CONJ	_	_	_	_
+11	mikään	mikään	_	_	NOM;SG;PRO	_	_	_	_
+12	niistä	se	_	_	PRO;PL;IN+ABL	_	_	_	_
+13	ei	ei	_	_	FIN;NEG;ACT;3;SG;V	_	_	_	_
+14	kiinnostanut	kiinnostaa	_	_	NOM;V;ACT;V.PTCP;SG	_	_	_	_
+15	häntä	hän	_	_	PRO;3;SG;PRT	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01116
+# sent_id = n01116009
+# text = Hän aloitti RSC:ssä 60-luvun puolivälissä näytellen mielisairaalan potilasta Marat/Sade-näytelmässä.
+# text_en = She started out at the RSC in the mid-Sixties playing an asylum-inmate in Marat/Sade.
+1	Hän	hän	_	_	NOM;3;SG;PRO	_	_	_	_
+2	aloitti	aloittaa	_	_	FIN;V;3;ACT;IND;PST;SG	_	_	_	_
+3	RSC:ssä	RSC	_	_	IN+ESS;SG;PROPN	_	_	_	_
+4	60-luvun	60#luku	_	_	N;SG;GEN	_	_	_	_
+5	puolivälissä	puoliväli	_	_	N;SG;IN+ESS	_	_	_	_
+6	näytellen	näytellä	_	_	V;NFIN;ACT;INS;SG	_	_	_	_
+7	mielisairaalan	mieli#sairaala	_	_	N;SG;GEN	_	_	_	_
+8	potilasta	potilas	_	_	N;SG;PRT	_	_	_	_
+9	Marat	Marat	_	_	SG;NOM;PROPN	_	_	_	_
+10	/	/	_	_	_	_	_	_	_
+11	Sade	Sade	_	_	SG;NOM;PROPN	_	_	_	_
+12	-näytelmässä	näytelmä	_	_	N;SG;IN+ESS	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01014012
+# text = Lupaus kuninkaallisen laivaston uusista tilauksista Clyden laivanrakennusteollisuuden turvaamiseksi tehtiin ennen vuoden 2014 kansanäänestystä Skotlannin itsenäisyydestä.
+# text_en = The promise of new Royal Navy orders to secure the Clyde shipbuilding industry was made before the Scottish independence referendum in 2014.
+1	Lupaus	lupaus	_	_	N;SG;NOM	_	_	_	_
+2	kuninkaallisen	kuninkaallinen	_	_	GEN;ADJ;SG	_	_	_	_
+3	laivaston	laivasto	_	_	N;SG;GEN	_	_	_	_
+4	uusista	uusi	_	_	PL;ADJ;IN+ABL	_	_	_	_
+5	tilauksista	tilaus	_	_	N;PL;IN+ABL	_	_	_	_
+6	Clyden	Clyde	_	_	SG;GEN;PROPN	_	_	_	_
+7	laivanrakennusteollisuuden	laiva#rakennus#teollisuus	_	_	N;SG;GEN	_	_	_	_
+8	turvaamiseksi	turvaaminen	_	_	N;SG;TRANS	_	_	_	_
+9	tehtiin	tehdä	_	_	FIN;V;IND;PST;PASS	_	_	_	_
+10	ennen	ennen	_	_	ADP	_	_	_	_
+11	vuoden	vuosi	_	_	N;SG;GEN	_	_	_	_
+12	2014	2014	_	_	NUM	_	_	_	_
+13	kansanäänestystä	kansan#äänestys	_	_	N;SG;PRT	_	_	_	_
+14	Skotlannin	Skotlanti	_	_	SG;GEN;PROPN	_	_	_	_
+15	itsenäisyydestä	itsenäisyys	_	_	N;SG;IN+ABL	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01134
+# sent_id = w01134009
+# text = Isoäitinsä kautta Mishima oli Tokugawa Ieyasun suora jälkeläinen.
+# text_en = Through his grandmother, Mishima was a direct descendant of Tokugawa Ieyasu.
+1	Isoäitinsä	isoäiti	_	_	PSS3;N;SG;GEN	_	_	_	_
+2	kautta	kautta	_	_	ADP	_	_	_	_
+3	Mishima	Mishima	_	_	SG;NOM;PROPN	_	_	_	_
+4	oli	olla	_	_	FIN;ACT;3;IND;PST;SG;V	_	_	_	_
+5	Tokugawa	Tokugawa	_	_	SG;NOM;PROPN	_	_	_	_
+6	Ieyasun	Ieyasu	_	_	SG;GEN;PROPN	_	_	_	_
+7	suora	suora	_	_	NOM;SG;ADJ	_	_	_	_
+8	jälkeläinen	jälkeläinen	_	_	N;NOM;SG	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = w05005085
+# text = Intiaanit saapuivat Kanadasta Joseph Brantin johtamina. He tukivat brittiläisiä, koska uudisasukkaat pakkolunastivat yhä enemmän ja enemmän heidän maitaan.
+# text_en = Indians arrived from Canada, led by Joseph Brant; they supported the British because the colonists were expropriating more and more of their lands.
+1	Intiaanit	intiaani	_	_	N;NOM;PL	_	_	_	_
+2	saapuivat	saapua	_	_	FIN;V;3;ACT;IND;PST;PL	_	_	_	_
+3	Kanadasta	Kanada	_	_	SG;IN+ABL;PROPN	_	_	_	_
+4	Joseph	Joseph	_	_	SG;NOM;PROPN	_	_	_	_
+5	Brantin	Brant	_	_	SG;GEN;PROPN	_	_	_	_
+6	johtamina	johtaa	_	_	V;ACT;FRML;V.PTCP;PL	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+8	He	hän	_	_	NOM;3;PRO;PL	_	_	_	_
+9	tukivat	tukea	_	_	FIN;V;3;ACT;IND;PST;PL	_	_	_	_
+10	brittiläisiä	brittiläinen	_	_	ADJ;PRT;PL	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	koska	koska	_	_	CONJ	_	_	_	_
+13	uudisasukkaat	uudis#asukas	_	_	N;NOM;PL	_	_	_	_
+14	pakkolunastivat	pakkolunastaa	_	_	FIN;V;3;ACT;IND;PST;PL	_	_	_	_
+15	yhä	yhä	_	_	ADV	_	_	_	_
+16	enemmän	enemmän	_	_	ADV	_	_	_	_
+17	ja	ja	_	_	CONJ	_	_	_	_
+18	enemmän	enemmän	_	_	ADV	_	_	_	_
+19	heidän	hän	_	_	GEN;3;PRO;PL	_	_	_	_
+20	maitaan	maa	_	_	PSS3;N;PRT;PL	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w04006
+# sent_id = w04006023
+# text = Historioitsija David Crouch esittää, että Stephen hylkäsi haasteen näihin aikoihin keskittyäkseen muihin asioihin.
+# text_en = Historian David Crouch suggests that Stephen abandoned from the challenge around this time to focus on other issues.
+1	Historioitsija	historioitsija	_	_	N;SG;NOM	_	_	_	_
+2	David	David	_	_	SG;NOM;PROPN	_	_	_	_
+3	Crouch	Crouch	_	_	SG;NOM;PROPN	_	_	_	_
+4	esittää	esittää	_	_	PRS;FIN;V;3;ACT;IND;SG	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	että	että	_	_	CONJ	_	_	_	_
+7	Stephen	Stephen	_	_	SG;NOM;PROPN	_	_	_	_
+8	hylkäsi	hyljätä	_	_	FIN;V;3;ACT;IND;PST;SG	_	_	_	_
+9	haasteen	haaste	_	_	N;SG;GEN	_	_	_	_
+10	näihin	tämä	_	_	PRO;IN+ALL;PL	_	_	_	_
+11	aikoihin	aika	_	_	N;IN+ALL;PL	_	_	_	_
+12	keskittyäkseen	keskittyä	_	_	PSS3;V;NFIN;ACT;SG;TRANS	_	_	_	_
+13	muihin	muu	_	_	PRO;IN+ALL;PL	_	_	_	_
+14	asioihin	asia	_	_	N;IN+ALL;PL	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01131013
+# text = Republikaanipuolueen johtoa tukivat poissaolevien äänestäjien suuret luvut, ja puolueen kokonaisetumatka oli noin 16 500 aiemmin tällä viikolla.
+# text_en = The GOP lead was carried by strong numbers in absentee voting, and their overall edge stood at about 16,500 earlier this week.
+1	Republikaanipuolueen	republikaani#puolue	_	_	N;SG;GEN	_	_	_	_
+2	johtoa	johto	_	_	N;SG;PRT	_	_	_	_
+3	tukivat	tukea	_	_	FIN;V;3;ACT;IND;PST;PL	_	_	_	_
+4	poissaolevien	poissaoleva	_	_	ADJ;GEN;PL	_	_	_	_
+5	äänestäjien	äänestäjä	_	_	N;GEN;PL	_	_	_	_
+6	suuret	suuri	_	_	NOM;ADJ;PL	_	_	_	_
+7	luvut	luku	_	_	N;NOM;PL	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	ja	ja	_	_	CONJ	_	_	_	_
+10	puolueen	puolue	_	_	N;SG;GEN	_	_	_	_
+11	kokonaisetumatka	kokonainen#etu#matka	_	_	N;SG;NOM	_	_	_	_
+12	oli	olla	_	_	FIN;ACT;3;IND;PST;SG;V	_	_	_	_
+13	noin	noin	_	_	ADV	_	_	_	_
+14	16 500	16 500	_	_	NUM	_	_	_	_
+15	aiemmin	aiemmin	_	_	ADV	_	_	_	_
+16	tällä	tämä	_	_	SG;PRO;AT+ESS	_	_	_	_
+17	viikolla	viikko	_	_	N;SG;AT+ESS	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01025
+# sent_id = w01025083
+# text = Schlei ja suomaat Danevirken ja Husumin välillä olivat jäätyneet kovan talven aikana, ja etenevä Saksan armeija oli valloittanut välittömästi Danevirken eteläpuolella olevan alueen.
+# text_en = The Schlei and the wetlands between the Danevirke and Husum had frozen solid in a hard winter, and the territory immediately south of the Danevirke had been conquered by the advancing German army.
+1	Schlei	Schlei	_	_	SG;NOM;PROPN	_	_	_	_
+2	ja	ja	_	_	CONJ	_	_	_	_
+3	suomaat	suo#maa	_	_	N;NOM;PL	_	_	_	_
+4	Danevirken	Danevirke	_	_	SG;GEN;PROPN	_	_	_	_
+5	ja	ja	_	_	CONJ	_	_	_	_
+6	Husumin	Husum	_	_	SG;GEN;PROPN	_	_	_	_
+7	välillä	välillä	_	_	ADP	_	_	_	_
+8	olivat	olla	_	_	FIN;ACT;3;IND;PST;V;PL	_	_	_	_
+9	jäätyneet	jäätyä	_	_	NOM;V;ACT;V.PTCP;PL	_	_	_	_
+10	kovan	kova	_	_	SG;ADJ;GEN	_	_	_	_
+11	talven	talvi	_	_	N;SG;GEN	_	_	_	_
+12	aikana	aika	_	_	N;SG;FRML	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	ja	ja	_	_	CONJ	_	_	_	_
+15	etenevä	edetä	_	_	NOM;V;ACT;V.PTCP;SG	_	_	_	_
+16	Saksan	Saksa	_	_	SG;GEN;PROPN	_	_	_	_
+17	armeija	armeija	_	_	N;SG;NOM	_	_	_	_
+18	oli	olla	_	_	FIN;ACT;3;IND;PST;SG;V	_	_	_	_
+19	valloittanut	valloittaa	_	_	NOM;V;ACT;V.PTCP;SG	_	_	_	_
+20	välittömästi	välittömästi	_	_	ADV	_	_	_	_
+21	Danevirken	Danevirke	_	_	SG;GEN;PROPN	_	_	_	_
+22	eteläpuolella	etelä#puoli	_	_	N;SG;AT+ESS	_	_	_	_
+23	olevan	olla	_	_	GEN;V;ACT;V.PTCP;SG	_	_	_	_
+24	alueen	alue	_	_	N;SG;GEN	_	_	_	_
+25	.	.	_	_	_	_	_	_	_
+

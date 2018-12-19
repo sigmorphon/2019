@@ -1,0 +1,1351 @@
+# sent_id = test-s65
+# text = இந்தியா வகுத்துள்ள அணுசக்தி இழப்பீட்டு மசோதா சர்வதேச அளவில் வகுக்கப்பட்டுள்ள விதிமுறைகளிலிருந்து சற்று மாறுபட்டுள்ளது.
+# translit = intiyā vakuttuḷḷa aṇucakti ilappīṭṭu macōtā carvatēca aḷavil vakukkappaṭṭuḷḷa vitimuraikaḷiliruntu carru mārupaṭṭuḷḷatu.
+# orig_file_sentence 001#65
+1	இந்தியா	இந்தியா	_	_	NEUT;3;SG;PROPN;NOM	_	_	_	_
+2	வகுத்த்	வகு	_	_	V;V.PTCP;POS;ACT	_	_	_	_
+3	உள்ள	உள்	_	_	V.PTCP;POS;ADJ	_	_	_	_
+4	அணுசக்தி	அணுசக்தி	_	_	NEUT;3;SG;N;NOM	_	_	_	_
+5	இழப்பீட்டு	இழப்பீடு	_	_	NEUT;PROPN;3;SG	_	_	_	_
+6	மசோதா	மசோதா	_	_	NEUT;3;SG;N;NOM	_	_	_	_
+7	சர்வதேச	சர்வதேசம்	_	_	NEUT;PROPN;3;SG	_	_	_	_
+8	அளவில்	அளவு	_	_	NEUT;3;SG;N;ESS	_	_	_	_
+9	வகுக்கப்	வகு	_	_	NFIN;V;POS;ACT	_	_	_	_
+10	பட்ட்	படு	_	_	V.PTCP;POS;PASS;V	_	_	_	_
+11	உள்ள	உள்	_	_	V.PTCP;POS;ADJ	_	_	_	_
+12	விதிமுறைகள்	விதிமுறை	_	_	NEUT;3;N;NOM;PL	_	_	_	_
+13	இலிருந்து	இலிருந்து	_	_	ADP	_	_	_	_
+14	சற்று	சற்று	_	_	ADV	_	_	_	_
+15	மாறுபட்ட்	மாறுபடு	_	_	V;V.PTCP;POS;ACT	_	_	_	_
+16	உள்ளது	உள்	_	_	NEUT;ACT;3;POS;SG;V;IND;FIN	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s262
+# text = உக்ரைன் நாட்டில் பஸ் ஒன்றின் மீது ரயில் மோதியதில் 37 பேர் உயிரிழந்தனர்.
+# translit = ukrain nāṭṭil pas onrin mītu rayil mōtiyatil 37 pēr uyirilantanar.
+# orig_file_sentence 003#62
+1	உக்ரைன்	உக்ரைன்	_	_	NOM;3;PROPN;NEUT;SG	_	_	_	_
+2	நாட்டில்	நாடு	_	_	N;3;ESS;NEUT;SG	_	_	_	_
+3	பஸ்	பஸ்	_	_	NOM;3;PROPN;NEUT;SG	_	_	_	_
+4	ஒன்றின்	ஒன்று	_	_	GEN;N;3;NEUT;SG	_	_	_	_
+5	மீது	மீது	_	_	ADP	_	_	_	_
+6	ரயில்	ரயில்	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+7	மோதியதில்	மோது	_	_	POS;V.MSDR;3;V;ESS;ACT;PST;NEUT;SG	_	_	_	_
+8	37	37	_	_	NUM	_	_	_	_
+9	பேர்	பேர்	_	_	ANIM;N;NOM;3;PL;MASC+FEM	_	_	_	_
+10	உயிரிழந்தனர்	உயிரிழ	_	_	POS;IND;FORM;3;V;ACT;FIN;PL;MASC+FEM;PST	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s8
+# text = இதுகுறித்து அவர் வெளியிட்டுள்ள அறிக்கை:.
+# translit = itukurittu avar veḷiyiṭṭuḷḷa arikkai:.
+# orig_file_sentence 001#8
+1	இதுகுறித்து	இதுகுறித்து	_	_	ADV	_	_	_	_
+2	அவர்	அவர்	_	_	NOM;FORM;3;PRO;MASC+FEM;SG	_	_	_	_
+3	வெளியிட்ட்	வெளியிடு	_	_	POS;V;ACT;V.PTCP	_	_	_	_
+4	உள்ள	உள்	_	_	POS;ADJ;V.PTCP	_	_	_	_
+5	அறிக்கை	அறிக்கை	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+6	:	:	_	_	_	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s42
+# text = அங்கு மட்டும் ஆண்டுக்கு 50 ஆயிரம் பேர் உயிரிழக்கின்றனர்.
+# translit = aṅku maṭṭum āṇṭukku 50 āyiram pēr uyirilakkinranar.
+# orig_file_sentence 001#42
+1	அங்கு	அங்கு	_	_	ADV	_	_	_	_
+2	மட்டும்	மட்டும்	_	_	ADV	_	_	_	_
+3	ஆண்டுக்கு	ஆண்டு	_	_	NEUT;3;SG;N;DAT	_	_	_	_
+4	50	50	_	_	NUM	_	_	_	_
+5	ஆயிரம்	ஆயிரம்	_	_	NUM	_	_	_	_
+6	பேர்	பேர்	_	_	ANIM;3;N;NOM;PL;MASC+FEM	_	_	_	_
+7	உயிரிழக்கின்றனர்	உயிரிழ	_	_	ACT;3;POS;PRS;PL;V;MASC+FEM;IND;FIN;FORM	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s50
+# text = அணுசக்தி ஒப்பந்தம் கையெழுத்தானதால் அத்துறையிலும் இனி இரு நாடுகளும் கூட்டாக ஈடுபடும் வாய்ப்பு பிரகாசமடைந்துள்ளது.
+# translit = aṇucakti oppantam kaiyeluttānatāl atturaiyilum ini iru nāṭukaḷum kūṭṭāka īṭupaṭum vāyppu pirakācamaṭaintuḷḷatu.
+# orig_file_sentence 001#50
+1	அணுசக்தி	அணுசக்தி	_	_	3;N;NOM;NEUT;SG	_	_	_	_
+2	ஒப்பந்தம்	ஒப்பந்தம்	_	_	3;N;NOM;NEUT;SG	_	_	_	_
+3	கையெழுத்த்	கையெழுத்து	_	_	3;N;NOM;NEUT;SG	_	_	_	_
+4	ஆனதால்	ஆனதால்	_	_	PST;3;ACT;V.MSDR;V;POS;INS;NEUT;SG	_	_	_	_
+5	அத்துறையில்	அத்துறை	_	_	ESS;3;N;NEUT;SG	_	_	_	_
+6	உம்	உம்	_	_	PART	_	_	_	_
+7	இனி	இனி	_	_	ADV	_	_	_	_
+8	இரு	இரு	_	_	NUM	_	_	_	_
+9	நாடுகள்	நாடு	_	_	3;N;NOM;PL;NEUT	_	_	_	_
+10	உம்	உம்	_	_	PART	_	_	_	_
+11	கூட்டாக	கூட்டாக	_	_	ADV	_	_	_	_
+12	ஈடுபடும்	ஈடுபடு	_	_	FUT;ADJ;POS;V.PTCP	_	_	_	_
+13	வாய்ப்பு	வாய்ப்பு	_	_	3;N;NOM;NEUT;SG	_	_	_	_
+14	பிரகாசமடைந்த்	பிரகாசமடை	_	_	V;POS;ACT;V.PTCP	_	_	_	_
+15	உள்ளது	உள்	_	_	FIN;3;ACT;POS;SG;V;NEUT;IND	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s162
+# text = வியாழக்கிழமை இலங்கை அதிபர் ராஜபட்ச மற்றும் வெளியுறவு அமைச்சர் ஜி.எல். பெரிஸ்ûஸ சந்திக்கிறார்.
+# translit = viyālakkilamai ilaṅkai atipar rājapaṭca marrum veḷiyuravu amaiccar ji.el. perisûsa cantikkirār.
+# orig_file_sentence 002#62
+1	வியாழக்கிழமை	வியாழக்கிழமை	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+2	இலங்கை	இலங்கை	_	_	NOM;3;PROPN;NEUT;SG	_	_	_	_
+3	அதிபர்	அதிபர்	_	_	N;NOM;FORM;3;MASC+FEM;SG	_	_	_	_
+4	ராஜபட்ச	ராஜபட்ச	_	_	NOM;FORM;3;PROPN;MASC+FEM;SG	_	_	_	_
+5	மற்றும்	மற்றும்	_	_	CONJ	_	_	_	_
+6	வெளியுறவு	வெளியுறவு	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+7	அமைச்சர்	அமைச்சர்	_	_	N;NOM;FORM;3;MASC+FEM;SG	_	_	_	_
+8	ஜி.எல்.	ஜி.எல்.	_	_	NOM;3;PROPN;NEUT;SG	_	_	_	_
+9	பெரிஸ்ûஸ	பெரிஸ்ûஸ	_	_	NOM;FORM;3;PROPN;MASC+FEM;SG	_	_	_	_
+10	சந்திக்கிறார்	சந்தி	_	_	POS;PRS;IND;FORM;3;V;ACT;FIN;MASC+FEM;SG	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s212
+# text = இதையடுத்து, இந்தியா வென்ற தங்கப் பதக்கங்களின் எண்ணிக்கை 31ஆக உயர்ந்துள்ளது.
+# translit = itaiyaṭuttu, intiyā venra taṅkap patakkaṅkaḷin eṇṇikkai 31āka uyarntuḷḷatu.
+# orig_file_sentence 003#12
+1	இதையடுத்து	இதையடுத்து	_	_	ADV	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	இந்தியா	இந்தியா	_	_	NOM;3;PROPN;NEUT;SG	_	_	_	_
+4	வென்ற	வெல்	_	_	POS;ADJ;PST;V.PTCP	_	_	_	_
+5	தங்கப்	தங்கம்	_	_	3;NEUT;PROPN;SG	_	_	_	_
+6	பதக்கங்களின்	பதக்கம்	_	_	GEN;N;3;PL;NEUT	_	_	_	_
+7	எண்ணிக்கை	எண்ணிக்கை	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+8	31	31	_	_	NUM	_	_	_	_
+9	ஆக	ஆகு	_	_	ADV	_	_	_	_
+10	உயர்ந்த்	உயர்	_	_	POS;V;ACT;V.PTCP	_	_	_	_
+11	உள்ளது	உள்	_	_	POS;IND;3;V;ACT;FIN;NEUT;SG	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s13
+# text = புதிய சட்டத்தின் படி, பாதுகாக்கப் பட்ட நினைவுச் சின்னத்திலிருந்து 1000 அடி வரை எந்த கட்டுமானமும் கட்ட அனுமதி இல்லை.
+# translit = putiya caṭṭattin paṭi, pātukākkap paṭṭa ninaivuc cinnattiliruntu 1000 aṭi varai enta kaṭṭumānamum kaṭṭa anumati illai.
+# orig_file_sentence 001#13
+1	புதிய	புதிய	_	_	ADJ	_	_	_	_
+2	சட்டத்தின்	சட்டம்	_	_	GEN;N;3;NEUT;SG	_	_	_	_
+3	படி	படி	_	_	ADP	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	பாதுகாக்கப்	பாதுகா	_	_	POS;V;ACT;NFIN	_	_	_	_
+6	பட்ட	படு	_	_	POS;ADJ;PST;V.PTCP	_	_	_	_
+7	நினைவுச்	நினைவு	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+8	சின்னத்த்	சின்னம்	_	_	N;3;ESS;NEUT;SG	_	_	_	_
+9	இலிருந்து	இரு	_	_	ADP	_	_	_	_
+10	1000	1000	_	_	NUM	_	_	_	_
+11	அடி	அடி	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+12	வரை	வரை	_	_	ADP	_	_	_	_
+13	எந்த	எந்த	_	_	DET	_	_	_	_
+14	கட்டுமானம்	கட்டுமானம்	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+15	உம்	உம்	_	_	PART	_	_	_	_
+16	கட்ட	கட்டு	_	_	POS;V;ACT;NFIN	_	_	_	_
+17	அனுமதி	அனுமதி	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+18	இல்லை	இல்	_	_	POS;IND;3;V;ACT;FIN;PL;NEUT	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s305
+# text = பாதுகாப்புக் கவுன்சிலில் நிரந்தரம் அல்லாத உறுப்பினராக உள்ள ஆஸ்திரியா, ஜப்பான், மெக்ஸிகோ, துருக்கி, உகாண்டா ஆகியவற்றின் உறுப்பினர் காலம் நிறைவடைய உள்ளது.
+# translit = pātukāppuk kavuncilil nirantaram allāta uruppinarāka uḷḷa āstiriyā, jappān, meksikō, turukki, ukāṇṭā ākiyavarrin uruppinar kālam niraivaṭaiya uḷḷatu.
+# orig_file_sentence 004#5
+1	பாதுகாப்புக்	பாதுகாப்பு	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+2	கவுன்சிலில்	கவுன்சில்	_	_	N;3;ESS;NEUT;SG	_	_	_	_
+3	நிரந்தரம்	நிரந்தரம்	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+4	அல்லாத	அல்	_	_	ADJ	_	_	_	_
+5	உறுப்பினர்	உறுப்பினர்	_	_	N;NOM;FORM;3;MASC+FEM;SG	_	_	_	_
+6	ஆக	ஆகு	_	_	ADV	_	_	_	_
+7	உள்ள	உள்	_	_	POS;ADJ;V.PTCP	_	_	_	_
+8	ஆஸ்திரியா	ஆஸ்திரியா	_	_	NOM;3;PROPN;NEUT;SG	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	ஜப்பான்	ஜப்பான்	_	_	NOM;3;PROPN;NEUT;SG	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	மெக்ஸிகோ	மெக்ஸிகோ	_	_	NOM;FORM;3;PROPN;MASC+FEM;SG	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	துருக்கி	துருக்கி	_	_	NOM;3;PROPN;NEUT;SG	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	உகாண்டா	உகாண்டா	_	_	NOM;3;PROPN;NEUT;SG	_	_	_	_
+17	ஆகியவற்றின்	ஆகியவற்றின்	_	_	GEN;N;3;PL;NEUT	_	_	_	_
+18	உறுப்பினர்	உறுப்பினர்	_	_	N;NOM;FORM;3;MASC+FEM;SG	_	_	_	_
+19	காலம்	காலம்	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+20	நிறைவடைய	நிறைவடை	_	_	POS;V;ACT;NFIN	_	_	_	_
+21	உள்ளது	உள்	_	_	POS;IND;3;V;ACT;FIN;NEUT;SG	_	_	_	_
+22	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s400
+# text = அரசுக்கு ஒத்துழைக்க வேண்டும் என மருத்துவர்கள், செவிலியர்கள் உள்ளிட்ட மருத்துவப் பணியாளர்கள் யாரையும் கேட்கவில்லை.
+# translit = aracukku ottulaikka vēṇṭum ena maruttuvarkaḷ, ceviliyarkaḷ uḷḷiṭṭa maruttuvap paṇiyāḷarkaḷ yāraiyum kēṭkavillai.
+# orig_file_sentence 004#100
+1	அரசுக்கு	அரசு	_	_	DAT;N;3;NEUT;SG	_	_	_	_
+2	ஒத்துழைக்க	ஒத்துழை	_	_	POS;V;ACT;NFIN	_	_	_	_
+3	வேண்டும்	வேண்டு	_	_	POS;FUT;IND;3;V;ACT;FIN;NEUT;SG	_	_	_	_
+4	என	என்	_	_	POS;PART;NFIN	_	_	_	_
+5	மருத்துவர்கள்	மருத்துவர்	_	_	ANIM;N;NOM;3;PL;MASC+FEM	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	செவிலியர்கள்	செவிலியர்	_	_	ANIM;N;NOM;3;PL;MASC+FEM	_	_	_	_
+8	உள்ளிட்ட	உள்ளிடு	_	_	POS;ADJ;PST;V.PTCP	_	_	_	_
+9	மருத்துவப்	மருத்துவம்	_	_	3;NEUT;PROPN;SG	_	_	_	_
+10	பணியாளர்கள்	பணியாளர்	_	_	ANIM;N;NOM;3;PL;MASC+FEM	_	_	_	_
+11	யாரையும்	யார்	_	_	ANIM;ACC;3;PRO;MASC+FEM;SG	_	_	_	_
+12	கேட்கவ்	கேள்	_	_	POS;V;ACT;NFIN	_	_	_	_
+13	இல்லை	இல்	_	_	POS;IND;3;V;ACT;FIN;PL;NEUT	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s38
+# text = 90 சதவீத உயிரிழப்புகள் ஊரகப் பகுதிகளில் ஏற்படுகின்றன.
+# translit = 90 catavīta uyirilappukaḷ ūrakap pakutikaḷil ērpaṭukinrana.
+# orig_file_sentence 001#38
+1	90	90	_	_	NUM	_	_	_	_
+2	சதவீத	சதவீத	_	_	ADJ	_	_	_	_
+3	உயிரிழப்புகள்	உயிரிழப்பு	_	_	NEUT;3;N;NOM;PL	_	_	_	_
+4	ஊரகப்	ஊரகம்	_	_	NEUT;PROPN;3;SG	_	_	_	_
+5	பகுதிகளில்	பகுதி	_	_	NEUT;3;N;PL;ESS	_	_	_	_
+6	ஏற்படுகின்றன	ஏற்படு	_	_	NEUT;ACT;3;POS;PRS;PL;V;IND;FIN	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s129
+# text = ஏற்கெனவே உச்ச நீதிமன்றத் தீர்ப்பு தமிழகத்துக்கு சாதகமாக இருந்த நிலையில், அரசியல் சாசன பெஞ்சுக்கு மாற்றுவதற்கு முதல்வர் கருணாநிதியின் அனுமதியின் பேரிலேயே தமிழக அரசு சார்பில் ஆஜரான வழக்கறிஞர் எழுத்துப்பூர்வ ஒப்புதல் வழங்கியுள்ளார்.
+# translit = ērkenavē ucca nītimanrat tīrppu tamilakattukku cātakamāka irunta nilaiyil, araciyal cācana peñcukku mārruvatarku mutalvar karuṇānitiyin anumatiyin pērilēyē tamilaka aracu cārpil ājarāna valakkariñar eluttuppūrva opputal valaṅkiyuḷḷār.
+# orig_file_sentence 002#29
+1	ஏற்கெனவே	ஏற்கெனவே	_	_	ADV	_	_	_	_
+2	உச்ச	உச்சம்	_	_	3;NEUT;PROPN;SG	_	_	_	_
+3	நீதிமன்றத்	நீதிமன்றம்	_	_	3;NEUT;PROPN;SG	_	_	_	_
+4	தீர்ப்பு	தீர்ப்பு	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+5	தமிழகத்துக்கு	தமிழகம்	_	_	DAT;3;PROPN;NEUT;SG	_	_	_	_
+6	சாதகம்	சாதகம்	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+7	ஆக	ஆகு	_	_	ADV	_	_	_	_
+8	இருந்த	இரு	_	_	POS;ADJ;PST;V.PTCP	_	_	_	_
+9	நிலையில்	நிலை	_	_	N;3;ESS;NEUT;SG	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	அரசியல்	அரசியல்	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+12	சாசன	சாசனம்	_	_	3;NEUT;PROPN;SG	_	_	_	_
+13	பெஞ்சுக்கு	பெஞ்ச்	_	_	DAT;N;3;NEUT;SG	_	_	_	_
+14	மாற்றுவதற்கு	மாற்று	_	_	POS;DAT;FUT;V.MSDR;3;V;ACT;NEUT;SG	_	_	_	_
+15	முதல்வர்	முதல்வர்	_	_	N;NOM;FORM;3;MASC+FEM;SG	_	_	_	_
+16	கருணாநிதியின்	கருணாநிதி	_	_	GEN;FORM;3;PROPN;MASC+FEM;SG	_	_	_	_
+17	அனுமதியின்	அனுமதி	_	_	GEN;N;3;NEUT;SG	_	_	_	_
+18	பேரில்	பேர்	_	_	N;3;ESS;NEUT;SG	_	_	_	_
+19	ஏயே	ஏயே	_	_	PART	_	_	_	_
+20	தமிழக	தமிழகம்	_	_	3;NEUT;PROPN;SG	_	_	_	_
+21	அரசு	அரசு	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+22	சார்பில்	சார்பு	_	_	ADP	_	_	_	_
+23	ஆஜரான	ஆஜர்	_	_	ADJ	_	_	_	_
+24	வழக்கறிஞர்	வழக்கறிஞர்	_	_	N;NOM;FORM;3;MASC+FEM;SG	_	_	_	_
+25	எழுத்துப்பூர்வ	எழுத்துப்பூர்வம்	_	_	3;NEUT;PROPN;SG	_	_	_	_
+26	ஒப்புதல்	ஒப்புதல்	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+27	வழங்கிய்	வழங்கு	_	_	POS;V;ACT;V.PTCP	_	_	_	_
+28	உள்ளார்	உள்	_	_	POS;IND;FORM;3;V;ACT;FIN;MASC+FEM;SG	_	_	_	_
+29	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s177
+# text = விமான ஊழியரிடம் ராணுவ அதிகாரிகள் உள் ஒருவர் சர்ச்சைக்குரிய கருத்தைத் தெரிவித்ததற்காகவே அவர்கள் அனைவரும் இறக்கி விடப் பட்டதாகக் கூறப் படுகிறது.
+# translit = vimāna ūliyariṭam rāṇuva atikārikaḷ uḷ oruvar carccaikkuriya karuttait terivittatarkākavē avarkaḷ anaivarum irakki viṭap paṭṭatākak kūrap paṭukiratu.
+# orig_file_sentence 002#77
+1	விமான	விமானம்	_	_	3;NEUT;PROPN;SG	_	_	_	_
+2	ஊழியர்	ஊழியர்	_	_	N;NOM;FORM;3;MASC+FEM;SG	_	_	_	_
+3	இடம்	இடம்	_	_	ADP	_	_	_	_
+4	ராணுவ	ராணுவம்	_	_	3;NEUT;PROPN;SG	_	_	_	_
+5	அதிகாரிகள்	அதிகாரி	_	_	ANIM;N;NOM;3;PL;MASC+FEM	_	_	_	_
+6	உள்	உள்	_	_	ADP	_	_	_	_
+7	ஒருவர்	ஒருவர்	_	_	N;NOM;FORM;3;MASC+FEM;SG	_	_	_	_
+8	சர்ச்சைக்குரிய	சர்ச்சைக்குரிய	_	_	ADJ	_	_	_	_
+9	கருத்தைத்	கருத்து	_	_	N;3;ACC;NEUT;SG	_	_	_	_
+10	தெரிவித்ததற்க்	தெரிவி	_	_	POS;DAT;V.MSDR;3;V;ACT;PST;NEUT;SG	_	_	_	_
+11	ஆகவ்	ஆகு	_	_	PART	_	_	_	_
+12	ஏ	ஏ	_	_	PART	_	_	_	_
+13	அவர்கள்	அவர்	_	_	ANIM;NOM;3;PRO;PL;MASC+FEM	_	_	_	_
+14	அனைவரும்	அனைவர்	_	_	ANIM;NOM;3;PRO;PL;MASC+FEM	_	_	_	_
+15	இறக்கி	இறக்கு	_	_	POS;V;ACT;V.PTCP	_	_	_	_
+16	விடப்	விடு	_	_	POS;V;ACT;NFIN	_	_	_	_
+17	பட்டத்	படு	_	_	POS;NOM;V.MSDR;3;V;PASS;PST;NEUT;SG	_	_	_	_
+18	ஆகக்	ஆகு	_	_	PART	_	_	_	_
+19	கூறப்	கூறு	_	_	POS;V;ACT;NFIN	_	_	_	_
+20	படுகிறது	படு	_	_	POS;PRS;IND;3;V;PASS;FIN;NEUT;SG	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s175
+# text = விமானம் புறப்படத் தயாரான போது அவர்களை விமானத்திலிருந்து கீழே இறக்கி அமெரிக்க அதிகாரிகள் விசாரணை நடத்தியதாகத் தெரிகிறது.
+# translit = vimānam purappaṭat tayārāna pōtu avarkaḷai vimānattiliruntu kīlē irakki amerikka atikārikaḷ vicāraṇai naṭattiyatākat terikiratu.
+# orig_file_sentence 002#75
+1	விமானம்	விமானம்	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+2	புறப்படத்	புறப்படு	_	_	POS;V;ACT;NFIN	_	_	_	_
+3	தயாரான	தயார்	_	_	POS;ADJ;PST;V.PTCP	_	_	_	_
+4	போது	போது	_	_	PART	_	_	_	_
+5	அவர்களை	அவர்	_	_	ANIM;ACC;3;PRO;PL;MASC+FEM	_	_	_	_
+6	விமானத்த்	விமானம்	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+7	இலிருந்து	இலிருந்து	_	_	ADP	_	_	_	_
+8	கீழே	கீழ்	_	_	ADV	_	_	_	_
+9	இறக்கி	இறக்கு	_	_	POS;V;ACT;V.PTCP	_	_	_	_
+10	அமெரிக்க	அமெரிக்கா	_	_	3;NEUT;PROPN;SG	_	_	_	_
+11	அதிகாரிகள்	அதிகாரி	_	_	ANIM;N;NOM;3;PL;MASC+FEM	_	_	_	_
+12	விசாரணை	விசாரணை	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+13	நடத்தியத்	நடத்து	_	_	POS;NOM;V.MSDR;3;V;ACT;PST;NEUT;SG	_	_	_	_
+14	ஆகத்	ஆகு	_	_	PART	_	_	_	_
+15	தெரிகிறது	தெரி	_	_	POS;PRS;IND;3;V;ACT;FIN;NEUT;SG	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s15
+# text = குடும்பத்தினர் எண்ணிக்கை பெருகி இட நெருக்கடி ஏற்படும் நிலையில் தங்களின் மூதாதையர்கள் வாழ்ந்த வீட்டை விரிவாக்கம் செய்யவோ, கூடுதல் அறையோ, தாழ்வாரமோ, கழிப்பு அறையோ கட்டினால் கூட இச்சட்டத்தின் படி வீட்டின் உரிமையாளரும், சம்பந்தப்பட்ட அரசு அதிகாரிகளும் தண்டிக்கப் படுவார்கள்.
+# translit = kuṭumpattinar eṇṇikkai peruki iṭa nerukkaṭi ērpaṭum nilaiyil taṅkaḷin mūtātaiyarkaḷ vālnta vīṭṭai virivākkam ceyyavō, kūṭutal araiyō, tālvāramō, kalippu araiyō kaṭṭināl kūṭa iccaṭṭattin paṭi vīṭṭin urimaiyāḷarum, campantappaṭṭa aracu atikārikaḷum taṇṭikkap paṭuvārkaḷ.
+# orig_file_sentence 001#15
+1	குடும்பத்தினர்	குடும்பத்தினர்	_	_	ANIM;N;NOM;3;PL;MASC+FEM	_	_	_	_
+2	எண்ணிக்கை	எண்ணிக்கை	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+3	பெருகி	பெருகு	_	_	POS;V;ACT;V.PTCP	_	_	_	_
+4	இட	இடம்	_	_	3;NEUT;PROPN;SG	_	_	_	_
+5	நெருக்கடி	நெருக்கடி	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+6	ஏற்படும்	ஏற்படு	_	_	POS;ADJ;V.PTCP;FUT	_	_	_	_
+7	நிலையில்	நிலை	_	_	N;3;ESS;NEUT;SG	_	_	_	_
+8	தங்களின்	தன்	_	_	GEN;ANIM;3;PRO;REFL;PL;MASC+FEM	_	_	_	_
+9	மூதாதையர்கள்	மூதாதையர்	_	_	ANIM;N;NOM;3;PL;MASC+FEM	_	_	_	_
+10	வாழ்ந்த	வாழ்	_	_	POS;ADJ;PST;V.PTCP	_	_	_	_
+11	வீட்டை	வீடு	_	_	N;3;ACC;NEUT;SG	_	_	_	_
+12	விரிவாக்கம்	விரிவாக்கம்	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+13	செய்யவ்	செய்	_	_	POS;V;ACT;NFIN	_	_	_	_
+14	ஓ	ஓ	_	_	PART	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	கூடுதல்	கூடுதல்	_	_	ADJ	_	_	_	_
+17	அறைய்	அறை	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+18	ஓ	ஓ	_	_	PART	_	_	_	_
+19	,	,	_	_	_	_	_	_	_
+20	தாழ்வாரம்	தாழ்வாரம்	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+21	ஓ	ஓ	_	_	PART	_	_	_	_
+22	,	,	_	_	_	_	_	_	_
+23	கழிப்பு	கழிப்பு	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+24	அறைய்	அறை	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+25	ஓ	ஓ	_	_	PART	_	_	_	_
+26	கட்டினால்	கட்டு	_	_	POS;V;ACT;FIN;COND	_	_	_	_
+27	கூட	கூடு	_	_	PART	_	_	_	_
+28	இச்	இந்த	_	_	DET	_	_	_	_
+29	சட்டத்தின்	சட்டம்	_	_	GEN;N;3;NEUT;SG	_	_	_	_
+30	படி	படி	_	_	ADP	_	_	_	_
+31	வீட்டின்	வீடு	_	_	GEN;N;3;NEUT;SG	_	_	_	_
+32	உரிமையாளர்	உரிமையாளர்	_	_	N;NOM;FORM;3;MASC+FEM;SG	_	_	_	_
+33	உம்	உம்	_	_	PART	_	_	_	_
+34	,	,	_	_	_	_	_	_	_
+35	சம்பந்தப்பட்ட	சம்பந்தப்பட்ட	_	_	POS;ADJ;PST;V.PTCP	_	_	_	_
+36	அரசு	அரசு	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+37	அதிகாரிகள்	அதிகாரி	_	_	ANIM;N;NOM;3;PL;MASC+FEM	_	_	_	_
+38	உம்	உம்	_	_	PART	_	_	_	_
+39	தண்டிக்கப்	தண்டி	_	_	POS;V;ACT;NFIN	_	_	_	_
+40	படுவார்கள்	படு	_	_	POS;FUT;IND;FORM;3;V;PASS;FIN;PL;MASC+FEM	_	_	_	_
+41	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s54
+# text = பாகிஸ்தானின் கொள்கைப் படி இந்த முடிவு எடுக்கப் பட்டதாக அவர் கூறினார்.
+# translit = pākistānin koḷkaip paṭi inta muṭivu eṭukkap paṭṭatāka avar kūrinār.
+# orig_file_sentence 001#54
+1	பாகிஸ்தானின்	பாகிஸ்தான்	_	_	GEN;3;PROPN;NEUT;SG	_	_	_	_
+2	கொள்கைப்	கொள்கை	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+3	படி	படி	_	_	ADP	_	_	_	_
+4	இந்த	இந்த	_	_	DET	_	_	_	_
+5	முடிவு	முடிவு	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+6	எடுக்கப்	எடு	_	_	POS;V;ACT;NFIN	_	_	_	_
+7	பட்டத்	படு	_	_	POS;NOM;V.MSDR;3;V;PASS;PST;NEUT;SG	_	_	_	_
+8	ஆக	ஆக	_	_	PART	_	_	_	_
+9	அவர்	அவர்	_	_	NOM;FORM;3;PRO;MASC+FEM;SG	_	_	_	_
+10	கூறினார்	கூறு	_	_	POS;IND;FORM;3;V;ACT;PST;FIN;MASC+FEM;SG	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s241
+# text = குரல் வாக்கெடுப்பு மூலம் ஒரு வாக்கு கூடுதலாக பெற்று எடியூரப்பா அரசு வெற்றி பெற்றுவிட்டதாக அறிவித்தது சட்ட விரோதமான செயல்.
+# translit = kural vākkeṭuppu mūlam oru vākku kūṭutalāka perru eṭiyūrappā aracu verri perruviṭṭatāka arivittatu caṭṭa virōtamāna ceyal.
+# orig_file_sentence 003#41
+1	குரல்	குரல்	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+2	வாக்கெடுப்பு	வாக்கெடுப்பு	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+3	மூலம்	மூலம்	_	_	ADP	_	_	_	_
+4	ஒரு	ஒரு	_	_	ADJ	_	_	_	_
+5	வாக்கு	வாக்கு	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+6	கூடுதலாக	கூடுதல்	_	_	ADV	_	_	_	_
+7	பெற்று	பெறு	_	_	POS;V;ACT;V.PTCP	_	_	_	_
+8	எடியூரப்பா	எடியூரப்பா	_	_	NOM;FORM;3;PROPN;MASC+FEM;SG	_	_	_	_
+9	அரசு	அரசு	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+10	வெற்றி	வெற்றி	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+11	பெற்றுவிட்டத்	பெறு	_	_	POS;NOM;V.MSDR;3;V;ACT;PST;NEUT;SG	_	_	_	_
+12	ஆக	ஆக	_	_	PART	_	_	_	_
+13	அறிவித்தது	அறிவி	_	_	POS;NOM;V.MSDR;3;V;ACT;PST;NEUT;SG	_	_	_	_
+14	சட்ட	சட்டம்	_	_	3;NEUT;PROPN;SG	_	_	_	_
+15	விரோதம்	விரோதம்	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+16	ஆன	ஆன	_	_	PART	_	_	_	_
+17	செயல்	செயல்	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s228
+# text = அத்துடன் பிறர் துன்பத்தில் இன்பம் காணும் கொடூர வன்மம் நிறைந்த வக்கிரபுத்தியை இதன்மூலம் மத்திய அரசு வெளிப்படுத்தியுள்ளது.
+# translit = attuṭan pirar tunpattil inpam kāṇum koṭūra vanmam nirainta vakkiraputtiyai itanmūlam mattiya aracu veḷippaṭuttiyuḷḷatu.
+# orig_file_sentence 003#28
+1	அத்துடன்	அத்துடன்	_	_	ADV	_	_	_	_
+2	பிறர்	பிறர்	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+3	துன்பத்தில்	துன்பம்	_	_	N;3;ESS;NEUT;SG	_	_	_	_
+4	இன்பம்	இன்பம்	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+5	காணும்	காணு	_	_	POS;ADJ;V.PTCP;FUT	_	_	_	_
+6	கொடூர	கொடூரம்	_	_	ADJ	_	_	_	_
+7	வன்மம்	வன்மம்	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+8	நிறைந்த	நிறை	_	_	POS;ADJ;PST;V.PTCP	_	_	_	_
+9	வக்கிரபுத்தியை	வக்கிரபுத்தி	_	_	N;3;ACC;NEUT;SG	_	_	_	_
+10	இதன்மூலம்	இதன்மூலம்	_	_	ADV	_	_	_	_
+11	மத்திய	மத்திய	_	_	ADJ	_	_	_	_
+12	அரசு	அரசு	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+13	வெளிப்படுத்திய்	வெளிப்படுத்து	_	_	POS;V;ACT;V.PTCP	_	_	_	_
+14	உள்ளது	உள்	_	_	POS;IND;3;V;ACT;FIN;NEUT;SG	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s347
+# text = திங்கட்கிழமையன்று நடைபெற்ற நம்பிக்கை வாக்கெடுப்பில் எதிர்க்கட்சிக்கு ஆதரவாக இருந்த சுயேச்சை எமெலே ஒருவர் இன்று அரசுக்கு ஆதரவாக வாக்களித்தார்.
+# translit = tiṅkaṭkilamaiyanru naṭaiperra nampikkai vākkeṭuppil etirkkaṭcikku ātaravāka irunta cuyēccai emelē oruvar inru aracukku ātaravāka vākkaḷittār.
+# orig_file_sentence 004#47
+1	திங்கட்கிழமையன்று	திங்கட்கிழமையன்று	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+2	நடைபெற்ற	நடைபெறு	_	_	POS;ADJ;PST;V.PTCP	_	_	_	_
+3	நம்பிக்கை	நம்பிக்கை	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+4	வாக்கெடுப்பில்	வாக்கெடுப்பு	_	_	N;3;ESS;NEUT;SG	_	_	_	_
+5	எதிர்க்கட்சிக்கு	எதிர்க்கட்சி	_	_	DAT;N;3;NEUT;SG	_	_	_	_
+6	ஆதரவ்	ஆதரவு	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+7	ஆக	ஆகு	_	_	ADV	_	_	_	_
+8	இருந்த	இரு	_	_	POS;ADJ;PST;V.PTCP	_	_	_	_
+9	சுயேச்சை	சுயேச்சை	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+10	எமெலே	எமெலே	_	_	NOM;3;PROPN;NEUT;SG	_	_	_	_
+11	ஒருவர்	ஒருவர்	_	_	N;NOM;FORM;3;MASC+FEM;SG	_	_	_	_
+12	இன்று	இன்று	_	_	ADV	_	_	_	_
+13	அரசுக்கு	அரசு	_	_	DAT;N;3;NEUT;SG	_	_	_	_
+14	ஆதரவ்	ஆதரவு	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+15	ஆக	ஆகு	_	_	ADV	_	_	_	_
+16	வாக்களித்தார்	வாக்களி	_	_	POS;IND;FORM;3;V;ACT;PST;FIN;MASC+FEM;SG	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s199
+# text = அமெரிக்காவின் பாதுகாப்புக்கு இது முக்கியம் என்பதால் அதற்கான பணிகள் தொடர்ந்து நடைபெறும்.
+# translit = amerikkāvin pātukāppukku itu mukkiyam enpatāl atarkāna paṇikaḷ toṭarntu naṭaiperum.
+# orig_file_sentence 002#99
+1	அமெரிக்காவின்	அமெரிக்கா	_	_	GEN;3;PROPN;NEUT;SG	_	_	_	_
+2	பாதுகாப்புக்கு	பாதுகாப்பு	_	_	DAT;N;3;NEUT;SG	_	_	_	_
+3	இது	இது	_	_	NOM;3;PRO;NEUT;SG	_	_	_	_
+4	முக்கியம்	முக்கியம்	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+5	என்பதால்	என்	_	_	POS;FUT;V.MSDR;3;PART;NEUT;SG;INS	_	_	_	_
+6	அதற்கான	அதற்கான	_	_	ADJ	_	_	_	_
+7	பணிகள்	பணி	_	_	N;NOM;3;PL;NEUT	_	_	_	_
+8	தொடர்ந்து	தொடர்	_	_	ADV	_	_	_	_
+9	நடைபெறும்	நடைபெறு	_	_	POS;FUT;IND;3;V;ACT;FIN;NEUT;SG	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s101
+# text = கடந்த ஆண்டு நடந்த போருக்குப் பின்னர் புலிகள் எந்தவிதத் தாக்குதலையும் நடத்தவில்லை.
+# translit = kaṭanta āṇṭu naṭanta pōrukkup pinnar pulikaḷ entavitat tākkutalaiyum naṭattavillai.
+# orig_file_sentence 002#2
+1	கடந்த	கடந்த	_	_	ADJ	_	_	_	_
+2	ஆண்டு	ஆண்டு	_	_	NEUT;3;SG;N;NOM	_	_	_	_
+3	நடந்த	நட	_	_	PST;V.PTCP;POS;ADJ	_	_	_	_
+4	போருக்குப்	போர்	_	_	NEUT;3;SG;N;DAT	_	_	_	_
+5	பின்னர்	பின்னர்	_	_	ADP	_	_	_	_
+6	புலிகள்	புலி	_	_	ANIM;3;N;NOM;PL;MASC+FEM	_	_	_	_
+7	எந்தவிதத்	எந்தவிதத்	_	_	ADJ	_	_	_	_
+8	தாக்குதலையும்	தாக்குதல்	_	_	NEUT;3;SG;N;ACC	_	_	_	_
+9	நடத்தவ்	நடத்து	_	_	NFIN;V;POS;ACT	_	_	_	_
+10	இல்லை	இல்	_	_	NEUT;ACT;3;POS;V;PL;IND;FIN	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s22
+# text = இந்தியாவின் அண்டை நாடுகளான சீனா 59வது இடத்தையும், இலங்கை 66வது இடத்தையும் பங்களாதேஷ் மற்றும் பாகிஸ்தான் ஆகியவை முறையே 88 மற்றும் 89வது இடத்தையும் பிடித்துள்ளன.
+# translit = intiyāvin aṇṭai nāṭukaḷāna cīnā 59vatu iṭattaiyum, ilaṅkai 66vatu iṭattaiyum paṅkaḷātēṣ marrum pākistān ākiyavai muraiyē 88 marrum 89vatu iṭattaiyum piṭittuḷḷana.
+# orig_file_sentence 001#22
+1	இந்தியாவின்	இந்தியா	_	_	GEN;3;PROPN;NEUT;SG	_	_	_	_
+2	அண்டை	அண்டை	_	_	ADJ	_	_	_	_
+3	நாடுகள்	நாடு	_	_	N;NOM;3;PL;NEUT	_	_	_	_
+4	ஆன	ஆன	_	_	PART	_	_	_	_
+5	சீனா	சீனா	_	_	NOM;3;PROPN;NEUT;SG	_	_	_	_
+6	59வது	59	_	_	ADJ	_	_	_	_
+7	இடத்தைய்	இடம்	_	_	N;3;ACC;NEUT;SG	_	_	_	_
+8	உம்	உம்	_	_	PART	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	இலங்கை	இலங்கை	_	_	NOM;3;PROPN;NEUT;SG	_	_	_	_
+11	66வது	66	_	_	ADJ	_	_	_	_
+12	இடத்தைய்	இடம்	_	_	N;3;ACC;NEUT;SG	_	_	_	_
+13	உம்	உம்	_	_	PART	_	_	_	_
+14	பங்களாதேஷ்	பங்களாதேஷ்	_	_	NOM;3;PROPN;NEUT;SG	_	_	_	_
+15	மற்றும்	மற்றும்	_	_	CONJ	_	_	_	_
+16	பாகிஸ்தான்	பாகிஸ்தான்	_	_	NOM;3;PROPN;NEUT;SG	_	_	_	_
+17	ஆகியவை	ஆகியவை	_	_	N;NOM;3;PL;NEUT	_	_	_	_
+18	முறையே	முறையே	_	_	ADP	_	_	_	_
+19	88	88	_	_	NUM	_	_	_	_
+20	மற்றும்	மற்றும்	_	_	CONJ	_	_	_	_
+21	89வது	89	_	_	ADJ	_	_	_	_
+22	இடத்தைய்	இடம்	_	_	N;3;ACC;NEUT;SG	_	_	_	_
+23	உம்	உம்	_	_	PART	_	_	_	_
+24	பிடித்த்	பிடு	_	_	POS;V;ACT;V.PTCP	_	_	_	_
+25	உள்ளன	உள்	_	_	POS;IND;3;V;ACT;FIN;PL;NEUT	_	_	_	_
+26	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s264
+# text = அங்குள்ள ரயில்வே கேட் தானியங்கி முறையில் செயல்படக் கூடியது.
+# translit = aṅkuḷḷa rayilvē kēṭ tāniyaṅki muraiyil ceyalpaṭak kūṭiyatu.
+# orig_file_sentence 003#64
+1	அங்குள்ள	அங்குள்ள	_	_	POS;ADJ;V.PTCP	_	_	_	_
+2	ரயில்வே	ரயில்வே	_	_	NOM;3;PROPN;NEUT;SG	_	_	_	_
+3	கேட்	கேட்	_	_	NOM;3;PROPN;NEUT;SG	_	_	_	_
+4	தானியங்கி	தானியங்கி	_	_	N;3;ACC;NEUT;SG	_	_	_	_
+5	முறையில்	முறை	_	_	N;3;ESS;NEUT;SG	_	_	_	_
+6	செயல்படக்	செயல்படு	_	_	POS;V;ACT;NFIN	_	_	_	_
+7	கூடியது	கூடு	_	_	POS;IND;3;V;ACT;PST;FIN;NEUT;SG	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s308
+# text = ஜெர்மனி வெற்றி பெற்றால் ஜி-4 நாடுகள் (இந்தியா, பிரேஸில், ஜப்பான், ஜெர்மனி) அனைத்தும் பாதுகாப்புக் கவுன்சிலில் இடம்பெற்று விட்டன என்ற பெருமை கிடைக்கும்.
+# translit = jermani verri perrāl ji-4 nāṭukaḷ (intiyā, pirēsil, jappān, jermani) anaittum pātukāppuk kavuncilil iṭamperru viṭṭana enra perumai kiṭaikkum.
+# orig_file_sentence 004#8
+1	ஜெர்மனி	ஜெர்மனி	_	_	NOM;3;PROPN;NEUT;SG	_	_	_	_
+2	வெற்றி	வெற்றி	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+3	பெற்றால்	பெறு	_	_	POS;V;ACT;FIN;COND	_	_	_	_
+4	ஜி-4	ஜி-4	_	_	NUM	_	_	_	_
+5	நாடுகள்	நாடு	_	_	N;NOM;3;PL;NEUT	_	_	_	_
+6	(	(	_	_	_	_	_	_	_
+7	இந்தியா	இந்தியா	_	_	NOM;3;PROPN;NEUT;SG	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	பிரேஸில்	பிரேஸில்	_	_	NOM;3;PROPN;NEUT;SG	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	ஜப்பான்	ஜப்பான்	_	_	NOM;3;PROPN;NEUT;SG	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	ஜெர்மனி	ஜெர்மனி	_	_	NOM;3;PROPN;NEUT;SG	_	_	_	_
+14	)	)	_	_	_	_	_	_	_
+15	அனைத்தும்	அனைத்து	_	_	NOM;3;PRO;PL;NEUT	_	_	_	_
+16	பாதுகாப்புக்	பாதுகாப்பு	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+17	கவுன்சிலில்	கவுன்சில்	_	_	N;3;ESS;NEUT;SG	_	_	_	_
+18	இடம்பெற்று	இடம்பெறு	_	_	POS;V;ACT;V.PTCP	_	_	_	_
+19	விட்டன	விடு	_	_	POS;IND;3;V;ACT;FIN;PL;NEUT;PST	_	_	_	_
+20	என்ற	என்	_	_	POS;PART;PST;V.PTCP	_	_	_	_
+21	பெருமை	பெருமை	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+22	கிடைக்கும்	கிடை	_	_	POS;FUT;IND;3;V;ACT;FIN;NEUT;SG	_	_	_	_
+23	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s139
+# text = வரும் செப்.15-ம் தேதி அண்ணா பிறந்த நாளை காஞ்சிபுரத்தில் மாநாடாக நடத்த முடிவு செய்துள்ளோம்.
+# translit = varum cep.15-m tēti aṇṇā piranta nāḷai kāñcipurattil mānāṭāka naṭatta muṭivu ceytuḷḷōm.
+# orig_file_sentence 002#39
+1	வரும்	வரு	_	_	ADJ	_	_	_	_
+2	செப்.15-ம்	செப்.15	_	_	ADJ	_	_	_	_
+3	தேதி	தேதி	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+4	அண்ணா	அண்ணா	_	_	NOM;3;PROPN;NEUT;SG	_	_	_	_
+5	பிறந்த	பிற	_	_	ADJ	_	_	_	_
+6	நாளை	நாளை	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+7	காஞ்சிபுரத்தில்	காஞ்சிபுரம்	_	_	3;ESS;PROPN;NEUT;SG	_	_	_	_
+8	மாநாட்	மாநாடு	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+9	ஆக	ஆகு	_	_	ADV	_	_	_	_
+10	நடத்த	நடத்து	_	_	POS;V;ACT;NFIN	_	_	_	_
+11	முடிவு	முடிவு	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+12	செய்த்	செய்	_	_	POS;V;ACT;V.PTCP	_	_	_	_
+13	உள்ளோம்	உள்	_	_	POS;ANIM;IND;1;V;ACT;FIN;PL;MASC+FEM	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s375
+# text = பொது வேலைநிறுத்தம் செய்ய சில தீவிரவாத குழுக்கள் அழைப்பு விடுத்ததன் காரணமாக மணிப்பூர் மாநிலத்தில் இயல்பு வாழ்க்கை பெரிதும் பாதிக்கப் பட்டது.
+# translit = potu vēlainiruttam ceyya cila tīviravāta kulukkaḷ alaippu viṭuttatan kāraṇamāka maṇippūr mānilattil iyalpu vālkkai peritum pātikkap paṭṭatu.
+# orig_file_sentence 004#75
+1	பொது	பொது	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+2	வேலைநிறுத்தம்	வேலைநிறுத்தம்	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+3	செய்ய	செய்	_	_	POS;V;ACT;NFIN	_	_	_	_
+4	சில	சில	_	_	ADJ	_	_	_	_
+5	தீவிரவாத	தீவிரவாதம்	_	_	3;NEUT;PROPN;SG	_	_	_	_
+6	குழுக்கள்	குழு	_	_	N;NOM;3;PL;NEUT	_	_	_	_
+7	அழைப்பு	அழைப்பு	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+8	விடுத்ததன்	விடு	_	_	POS;GEN;V.MSDR;3;V;ACT;PST;NEUT;SG	_	_	_	_
+9	காரணமாக	காரணம்	_	_	ADV	_	_	_	_
+10	மணிப்பூர்	மணிப்பூர்	_	_	NOM;3;PROPN;NEUT;SG	_	_	_	_
+11	மாநிலத்தில்	மாநிலம்	_	_	N;3;ESS;NEUT;SG	_	_	_	_
+12	இயல்பு	இயல்பு	_	_	ADJ	_	_	_	_
+13	வாழ்க்கை	வாழ்க்கை	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+14	பெரிதும்	பெரிதும்	_	_	ADV	_	_	_	_
+15	பாதிக்கப்	பாதி	_	_	POS;V;ACT;NFIN	_	_	_	_
+16	பட்டது	படு	_	_	POS;IND;3;V;PASS;PST;FIN;NEUT;SG	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s360
+# text = கோவை தமிழ்நாடு ஹோட்டல் அருகே மதிமுக பொதுச்செயலர் வைகோ தலைமையில் நடந்த ஆர்ப்பாட்டத்தில் ராஜபட்சவின் உருவப் பொம்மைகள் எரிக்கப் பட்டன.
+# translit = kōvai tamilnāṭu hōṭṭal arukē matimuka potucceyalar vaikō talaimaiyil naṭanta ārppāṭṭattil rājapaṭcavin uruvap pommaikaḷ erikkap paṭṭana.
+# orig_file_sentence 004#60
+1	கோவை	கோவை	_	_	NOM;3;PROPN;NEUT;SG	_	_	_	_
+2	தமிழ்நாடு	தமிழ்நாடு	_	_	NOM;3;PROPN;NEUT;SG	_	_	_	_
+3	ஹோட்டல்	ஹோட்டல்	_	_	NOM;3;PROPN;NEUT;SG	_	_	_	_
+4	அருகே	அருகே	_	_	ADP	_	_	_	_
+5	மதிமுக	மதிமுக	_	_	NOM;3;PROPN;NEUT;SG	_	_	_	_
+6	பொதுச்செயலர்	பொதுச்செயலர்	_	_	N;NOM;FORM;3;MASC+FEM;SG	_	_	_	_
+7	வைகோ	வைகோ	_	_	NOM;FORM;3;PROPN;MASC+FEM;SG	_	_	_	_
+8	தலைமையில்	தலைமை	_	_	N;3;ESS;NEUT;SG	_	_	_	_
+9	நடந்த	நட	_	_	POS;ADJ;PST;V.PTCP	_	_	_	_
+10	ஆர்ப்பாட்டத்தில்	ஆர்ப்பாட்டம்	_	_	N;3;ESS;NEUT;SG	_	_	_	_
+11	ராஜபட்சவின்	ராஜபட்ச	_	_	GEN;FORM;3;PROPN;MASC+FEM;SG	_	_	_	_
+12	உருவப்	உருவம்	_	_	3;NEUT;PROPN;SG	_	_	_	_
+13	பொம்மைகள்	பொம்மை	_	_	N;NOM;3;PL;NEUT	_	_	_	_
+14	எரிக்கப்	எரி	_	_	POS;V;ACT;NFIN	_	_	_	_
+15	பட்டன	படு	_	_	POS;IND;3;V;PASS;FIN;PL;NEUT;PST	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s106
+# text = 2006-ம் ஆண்டின் பிற்பகுதியில் உள்துறைச் செயலாளர் பொறுப்பு வகித்தார்.
+# translit = 2006-m āṇṭin pirpakutiyil uḷturaic ceyalāḷar poruppu vakittār.
+# orig_file_sentence 002#6
+1	2006-ம்	2006	_	_	ADJ	_	_	_	_
+2	ஆண்டின்	ஆண்டு	_	_	GEN;N;3;NEUT;SG	_	_	_	_
+3	பிற்பகுதியில்	பிற்பகுதி	_	_	N;3;ESS;NEUT;SG	_	_	_	_
+4	உள்துறைச்	உள்துறை	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+5	செயலாளர்	செயலாளர்	_	_	N;NOM;FORM;3;MASC+FEM;SG	_	_	_	_
+6	பொறுப்பு	பொறுப்பு	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+7	வகித்தார்	வகி	_	_	POS;IND;FORM;3;V;ACT;PST;FIN;MASC+FEM;SG	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s78
+# text = பல்வேறு மத்திய திட்டங்களுக்காக 1 லட்சம் கோடி பிகாருக்கு அளிக்கப் படுகிறது.
+# translit = palvēru mattiya tiṭṭaṅkaḷukkāka 1 laṭcam kōṭi pikārukku aḷikkap paṭukiratu.
+# orig_file_sentence 001#78
+1	பல்வேறு	பல்வேறு	_	_	ADJ	_	_	_	_
+2	மத்திய	மத்திய	_	_	ADJ	_	_	_	_
+3	திட்டங்களுக்க்	திட்டம்	_	_	3;N;DAT;PL;NEUT	_	_	_	_
+4	ஆக	ஆகு	_	_	ADP	_	_	_	_
+5	1	1	_	_	NUM	_	_	_	_
+6	லட்சம்	லட்சம்	_	_	NUM	_	_	_	_
+7	கோடி	கோடி	_	_	NUM	_	_	_	_
+8	பிகாருக்கு	பிகார்	_	_	3;DAT;PROPN;PL;NEUT	_	_	_	_
+9	அளிக்கப்	அளி	_	_	NFIN;V;POS;ACT	_	_	_	_
+10	படுகிறது	படு	_	_	FIN;3;POS;PRS;SG;PASS;V;NEUT;IND	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s357
+# text = இலங்கை அதிபர் ராஜபட்ச இந்தியா வருவதற்கு எதிர்ப்புத் தெரிவித்து கோவையில் இன்று போராட்டம் நடத்திய மதிமுக பொதுச் செயலர் வைகோ உள்ளிட்ட நூற்றுக்கும் மேற்பட்டோர் கைது செய்யப் பட்டனர்.
+# translit = ilaṅkai atipar rājapaṭca intiyā varuvatarku etirpput terivittu kōvaiyil inru pōrāṭṭam naṭattiya matimuka potuc ceyalar vaikō uḷḷiṭṭa nūrrukkum mērpaṭṭōr kaitu ceyyap paṭṭanar.
+# orig_file_sentence 004#57
+1	இலங்கை	இலங்கை	_	_	NOM;3;PROPN;NEUT;SG	_	_	_	_
+2	அதிபர்	அதிபர்	_	_	N;NOM;FORM;3;MASC+FEM;SG	_	_	_	_
+3	ராஜபட்ச	ராஜபட்ச	_	_	NOM;FORM;3;PROPN;MASC+FEM;SG	_	_	_	_
+4	இந்தியா	இந்தியா	_	_	NOM;3;PROPN;NEUT;SG	_	_	_	_
+5	வருவதற்கு	வரு	_	_	POS;DAT;FUT;V.MSDR;3;V;ACT;NEUT;SG	_	_	_	_
+6	எதிர்ப்புத்	எதிர்ப்பு	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+7	தெரிவித்து	தெரிவி	_	_	POS;V;ACT;V.PTCP	_	_	_	_
+8	கோவையில்	கோவை	_	_	3;ESS;PROPN;NEUT;SG	_	_	_	_
+9	இன்று	இன்று	_	_	ADV	_	_	_	_
+10	போராட்டம்	போராட்டம்	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+11	நடத்திய	நடத்து	_	_	POS;ADJ;PST;V.PTCP	_	_	_	_
+12	மதிமுக	மதிமுக	_	_	NOM;3;PROPN;NEUT;SG	_	_	_	_
+13	பொதுச்	பொது	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+14	செயலர்	செயலர்	_	_	N;NOM;FORM;3;MASC+FEM;SG	_	_	_	_
+15	வைகோ	வைகோ	_	_	NOM;FORM;3;PROPN;MASC+FEM;SG	_	_	_	_
+16	உள்ளிட்ட	உள்ளிடு	_	_	POS;ADJ;PST;V.PTCP	_	_	_	_
+17	நூற்றுக்க்	நூறு	_	_	DAT;N;3;NEUT;SG	_	_	_	_
+18	உம்	உம்	_	_	PART	_	_	_	_
+19	மேற்பட்டோர்	மேற்பட்டோர்	_	_	ANIM;N;NOM;3;PL;MASC+FEM	_	_	_	_
+20	கைது	கைது	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+21	செய்யப்	செய்	_	_	POS;V;ACT;NFIN	_	_	_	_
+22	பட்டனர்	படு	_	_	POS;IND;FORM;3;V;PASS;FIN;PL;MASC+FEM;PST	_	_	_	_
+23	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s1
+# text = சாதாரண, சாமானிய ஏழையெளிய மக்களுக்கு மனசாட்சிக்கு விரோதம் இல்லாமல், அனைவரும் பாடுபட வேண்டும்.
+# translit = cātāraṇa, cāmāniya ēlaiyeḷiya makkaḷukku manacāṭcikku virōtam illāmal, anaivarum pāṭupaṭa vēṇṭum.
+# orig_file_sentence 001#1
+1	சாதாரண	சாதாரணம்	_	_	ADJ	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	சாமானிய	சாமானிய	_	_	ADJ	_	_	_	_
+4	ஏழையெளிய	ஏழையெளிய	_	_	ADJ	_	_	_	_
+5	மக்களுக்கு	மக்கள்	_	_	ANIM;3;MASC+FEM;N;DAT;PL	_	_	_	_
+6	மனசாட்சிக்கு	மனசாட்சி	_	_	3;N;DAT;NEUT;SG	_	_	_	_
+7	விரோதம்	விரோதம்	_	_	3;N;NOM;NEUT;SG	_	_	_	_
+8	இல்லாமல்	இல்	_	_	ADP	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	அனைவரும்	அனைவர்	_	_	PRO;ANIM;3;MASC+FEM;NOM;PL	_	_	_	_
+11	பாடுபட	பாடுபடு	_	_	NFIN;V;POS;ACT	_	_	_	_
+12	வேண்டும்	வேண்டு	_	_	FIN;3;ACT;POS;FUT;SG;V;NEUT;IND	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s234
+# text = தமிழகத்தைச் சேர்ந்த நாடாளுமன்ற உறுப்பினர்கள் மற்றும் அமைச்சர்கள் அனைவரும் தமிழின ஒற்றுமையை வெளிப்படுத்தும் வகையில் அவ்விழாவைப் புறக்கணிக்க வேண்டுமாறு கேட்டுக்கொள்கிறேன்.
+# translit = tamilakattaic cērnta nāṭāḷumanra uruppinarkaḷ marrum amaiccarkaḷ anaivarum tamilina orrumaiyai veḷippaṭuttum vakaiyil avvilāvaip purakkaṇikka vēṇṭumāru kēṭṭukkoḷkirēn.
+# orig_file_sentence 003#34
+1	தமிழகத்தைச்	தமிழகம்	_	_	3;ACC;PROPN;NEUT;SG	_	_	_	_
+2	சேர்ந்த	சேர்	_	_	POS;ADJ;PST;V.PTCP	_	_	_	_
+3	நாடாளுமன்ற	நாடாளுமன்றம்	_	_	3;NEUT;PROPN;SG	_	_	_	_
+4	உறுப்பினர்கள்	உறுப்பினர்	_	_	ANIM;N;NOM;3;PL;MASC+FEM	_	_	_	_
+5	மற்றும்	மற்றும்	_	_	CONJ	_	_	_	_
+6	அமைச்சர்கள்	அமைச்சர்	_	_	ANIM;N;NOM;3;PL;MASC+FEM	_	_	_	_
+7	அனைவரும்	அனைவர்	_	_	ANIM;NOM;3;PRO;PL;MASC+FEM	_	_	_	_
+8	தமிழின	தமிழினம்	_	_	3;NEUT;PROPN;SG	_	_	_	_
+9	ஒற்றுமையை	ஒற்றுமை	_	_	N;3;ACC;NEUT;SG	_	_	_	_
+10	வெளிப்படுத்தும்	வெளிப்படுத்து	_	_	POS;ADJ;V.PTCP;FUT	_	_	_	_
+11	வகையில்	வகை	_	_	N;3;ESS;NEUT;SG	_	_	_	_
+12	அவ்விழாவைப்	அவ்விழா	_	_	N;3;ACC;NEUT;SG	_	_	_	_
+13	புறக்கணிக்க	புறக்கணி	_	_	POS;V;ACT;NFIN	_	_	_	_
+14	வேண்டும்	வேண்டு	_	_	POS;FUT;IND;3;V;ACT;FIN;NEUT;SG	_	_	_	_
+15	ஆறு	ஆறு	_	_	PART	_	_	_	_
+16	கேட்டுக்கொள்கிறேன்	கேள்	_	_	POS;PRS;ANIM;IND;V;1;ACT;FIN;MASC+FEM;SG	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s132
+# text = அதற்கான அனைத்து ஏற்பாடுகளும் நடைபெற்று வருகிறது.
+# translit = atarkāna anaittu ērpāṭukaḷum naṭaiperru varukiratu.
+# orig_file_sentence 002#32
+1	அதற்க்	அது	_	_	DAT;3;PRO;NEUT;SG	_	_	_	_
+2	ஆன	ஆன	_	_	PART	_	_	_	_
+3	அனைத்து	அனைத்து	_	_	ADJ	_	_	_	_
+4	ஏற்பாடுகள்	ஏற்பாடு	_	_	N;NOM;3;PL;NEUT	_	_	_	_
+5	உம்	உம்	_	_	PART	_	_	_	_
+6	நடைபெற்று	நடைபெறு	_	_	POS;V;ACT;V.PTCP	_	_	_	_
+7	வருகிறது	வரு	_	_	POS;PRS;IND;3;V;ACT;FIN;NEUT;SG	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s47
+# text = குறிப்பாக கடல் பாதுகாப்பு, அதிகரித்து வரும் இணையதள மோசடி, குற்றங்களை தடுப்பது Kஉறித்தும் இரு நாடுகளும் விவாதிக்கும்.
+# translit = kurippāka kaṭal pātukāppu, atikarittu varum iṇaiyataḷa mōcaṭi, kurraṅkaḷai taṭuppatu Kurittum iru nāṭukaḷum vivātikkum.
+# orig_file_sentence 001#47
+1	குறிப்பாக	குறிப்பாக	_	_	ADV	_	_	_	_
+2	கடல்	கடல்	_	_	3;N;NOM;NEUT;SG	_	_	_	_
+3	பாதுகாப்பு	பாதுகாப்பு	_	_	3;N;NOM;NEUT;SG	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	அதிகரித்து	அதிகரி	_	_	V;POS;ACT;V.PTCP	_	_	_	_
+6	வரும்	வரு	_	_	FUT;ADJ;POS;V.PTCP	_	_	_	_
+7	இணையதள	இணையதளம்	_	_	NEUT;SG;3;PROPN	_	_	_	_
+8	மோசடி	மோசடி	_	_	3;N;NOM;NEUT;SG	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	குற்றங்களை	குற்றம்	_	_	3;N;ACC;PL;NEUT	_	_	_	_
+11	தடுப்பது	தடு	_	_	3;ACT;V.MSDR;V;POS;NOM;FUT;NEUT;SG	_	_	_	_
+12	Kஉறித்த்	குறி	_	_	ADP	_	_	_	_
+13	உம்	உம்	_	_	PART	_	_	_	_
+14	இரு	இரு	_	_	NUM	_	_	_	_
+15	நாடுகள்	நாடு	_	_	3;N;NOM;PL;NEUT	_	_	_	_
+16	உம்	உம்	_	_	PART	_	_	_	_
+17	விவாதிக்கும்	விவாதி	_	_	FIN;3;ACT;V;POS;FUT;SG;NEUT;IND	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s127
+# text = முல்லைப் பெரியாறு அணை பிரச்னை அரசியல் சாசன பெஞ்ச் விசாரணையில் இருக்கும் போது, கேரள அரசு வழக்கம் போல உச்சநீதிமன்றத்தின் உத்தரவை துச்சமாக நினைத்து புதிய அணை கட்டுவதற்கான முயற்சிகளை எடுத்து வருகிறது.
+# translit = mullaip periyāru aṇai piracnai araciyal cācana peñc vicāraṇaiyil irukkum pōtu, kēraḷa aracu valakkam pōla uccanītimanrattin uttaravai tuccamāka ninaittu putiya aṇai kaṭṭuvatarkāna muyarcikaḷai eṭuttu varukiratu.
+# orig_file_sentence 002#27
+1	முல்லைப்	முல்லை	_	_	NOM;3;PROPN;NEUT;SG	_	_	_	_
+2	பெரியாறு	பெரியாறு	_	_	NOM;3;PROPN;NEUT;SG	_	_	_	_
+3	அணை	அணை	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+4	பிரச்னை	பிரச்னை	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+5	அரசியல்	அரசியல்	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+6	சாசன	சாசனம்	_	_	3;NEUT;PROPN;SG	_	_	_	_
+7	பெஞ்ச்	பெஞ்ச்	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+8	விசாரணையில்	விசாரணை	_	_	N;3;ESS;NEUT;SG	_	_	_	_
+9	இருக்கும்	இரு	_	_	POS;ADJ;V.PTCP;FUT	_	_	_	_
+10	போது	போது	_	_	PART	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	கேரள	கேரள	_	_	3;NEUT;PROPN;SG	_	_	_	_
+13	அரசு	அரசு	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+14	வழக்கம்	வழக்கம்	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+15	போல	போல்	_	_	ADP	_	_	_	_
+16	உச்சநீதிமன்றத்தின்	உச்சநீதிமன்றம்	_	_	GEN;N;3;NEUT;SG	_	_	_	_
+17	உத்தரவை	உத்தரவு	_	_	N;3;ACC;NEUT;SG	_	_	_	_
+18	துச்சம்	துச்சம்	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+19	ஆக	ஆகு	_	_	ADV	_	_	_	_
+20	நினைத்து	நினை	_	_	POS;V;ACT;V.PTCP	_	_	_	_
+21	புதிய	புதிய	_	_	ADJ	_	_	_	_
+22	அணை	அணை	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+23	கட்டுவதற்க்	கட்டு	_	_	POS;DAT;FUT;V.MSDR;3;V;ACT;NEUT;SG	_	_	_	_
+24	ஆன	ஆன	_	_	PART	_	_	_	_
+25	முயற்சிகளை	முயற்சி	_	_	N;3;ACC;PL;NEUT	_	_	_	_
+26	எடுத்து	எடு	_	_	POS;V;ACT;V.PTCP	_	_	_	_
+27	வருகிறது	வரு	_	_	POS;PRS;IND;3;V;ACT;FIN;NEUT;SG	_	_	_	_
+28	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s69
+# text = மேலும், 342 மீனவர்கள் அடுத்த வாரம் விடுதலை செய்யப் படுவார்கள் என்று லாந்தி சிறைச்சாலையின் துணை கண்காணிப்பாளர் ஷாகிர் ஷா தெரிவித்தார்.
+# translit = mēlum, 342 mīnavarkaḷ aṭutta vāram viṭutalai ceyyap paṭuvārkaḷ enru lānti ciraiccālaiyin tuṇai kaṇkāṇippāḷar ṣākir ṣā terivittār.
+# orig_file_sentence 001#69
+1	மேலும்	மேலும்	_	_	ADV	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	342	342	_	_	NUM	_	_	_	_
+4	மீனவர்கள்	மீனவர்	_	_	ANIM;N;NOM;3;PL;MASC+FEM	_	_	_	_
+5	அடுத்த	அடுத்த	_	_	ADJ	_	_	_	_
+6	வாரம்	வாரம்	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+7	விடுதலை	விடுதலை	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+8	செய்யப்	செய்	_	_	POS;V;ACT;NFIN	_	_	_	_
+9	படுவார்கள்	படு	_	_	POS;FUT;IND;FORM;3;V;PASS;FIN;PL;MASC+FEM	_	_	_	_
+10	என்று	என்	_	_	POS;PART;NFIN	_	_	_	_
+11	லாந்தி	லாந்தி	_	_	NOM;3;PROPN;NEUT;SG	_	_	_	_
+12	சிறைச்சாலையின்	சிறைச்சாலை	_	_	GEN;N;3;NEUT;SG	_	_	_	_
+13	துணை	துணை	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+14	கண்காணிப்பாளர்	கண்காணிப்பாளர்	_	_	N;NOM;FORM;3;MASC+FEM;SG	_	_	_	_
+15	ஷாகிர்	ஷாகிர்	_	_	NOM;FORM;3;PROPN;MASC+FEM;SG	_	_	_	_
+16	ஷா	ஷா	_	_	NOM;FORM;3;PROPN;MASC+FEM;SG	_	_	_	_
+17	தெரிவித்தார்	தெரிவி	_	_	POS;IND;FORM;3;V;ACT;PST;FIN;MASC+FEM;SG	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s53
+# text = நீராதாரம், பருவ நிலை நிலவரம், வானியல் ஆய்வு, விமான சேவை உள்ளிட்டவற்றில் இணைந்து செயல்படுவதற்கான வாய்ப்பு அதிகரித்துள்ளது.
+# translit = nīrātāram, paruva nilai nilavaram, vāniyal āyvu, vimāna cēvai uḷḷiṭṭavarril iṇaintu ceyalpaṭuvatarkāna vāyppu atikarittuḷḷatu.
+# orig_file_sentence 001#53
+1	நீராதாரம்	நீராதாரம்	_	_	3;N;NOM;NEUT;SG	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	பருவ	பருவம்	_	_	NEUT;SG;3;PROPN	_	_	_	_
+4	நிலை	நிலை	_	_	3;N;NOM;NEUT;SG	_	_	_	_
+5	நிலவரம்	நிலவரம்	_	_	3;N;NOM;NEUT;SG	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	வானியல்	வானியல்	_	_	3;N;NOM;NEUT;SG	_	_	_	_
+8	ஆய்வு	ஆய்வு	_	_	3;N;NOM;NEUT;SG	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	விமான	விமானம்	_	_	NEUT;SG;3;PROPN	_	_	_	_
+11	சேவை	சேவை	_	_	3;N;NOM;NEUT;SG	_	_	_	_
+12	உள்ளிட்டவற்றில்	உள்ளிட்டவை	_	_	ESS;3;N;PL;NEUT	_	_	_	_
+13	இணைந்து	இணை	_	_	ADV	_	_	_	_
+14	செயல்படுவதற்க்	செயல்படு	_	_	3;ACT;V.MSDR;V;POS;NOM;FUT;NEUT;SG	_	_	_	_
+15	ஆன	ஆன	_	_	PART	_	_	_	_
+16	வாய்ப்பு	வாய்ப்பு	_	_	3;N;NOM;NEUT;SG	_	_	_	_
+17	அதிகரித்த்	அதிகரி	_	_	V;POS;ACT;V.PTCP	_	_	_	_
+18	உள்ளது	உள்	_	_	FIN;3;ACT;POS;SG;V;NEUT;IND	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s11
+# text = மேலும், இந்தத் தொகுதியின் (சேப்பாக்கம்) சட்டப் பேரவை உறுப்பினர் என்ற முறையில் நிகழ்ச்சியில் கலந்து கொள்வது எனது கடமை.
+# translit = mēlum, intat tokutiyin (cēppākkam) caṭṭap pēravai uruppinar enra muraiyil nikalcciyil kalantu koḷvatu enatu kaṭamai.
+# orig_file_sentence 001#11
+1	மேலும்	மேலும்	_	_	ADV	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	இந்தத்	இந்த	_	_	DET	_	_	_	_
+4	தொகுதியின்	தொகுதி	_	_	3;N;GEN;NEUT;SG	_	_	_	_
+5	(	(	_	_	_	_	_	_	_
+6	சேப்பாக்கம்	சேப்பாக்கம்	_	_	3;PROPN;NOM;NEUT;SG	_	_	_	_
+7	)	)	_	_	_	_	_	_	_
+8	சட்டப்	சட்டம்	_	_	NEUT;SG;3;PROPN	_	_	_	_
+9	பேரவை	பேரவை	_	_	3;N;NOM;NEUT;SG	_	_	_	_
+10	உறுப்பினர்	உறுப்பினர்	_	_	3;MASC+FEM;N;NOM;FORM;SG	_	_	_	_
+11	என்ற	என்	_	_	PART;POS;V.PTCP;PST	_	_	_	_
+12	முறையில்	முறை	_	_	ESS;3;N;NEUT;SG	_	_	_	_
+13	நிகழ்ச்சியில்	நிகழ்ச்சி	_	_	ESS;3;N;NEUT;SG	_	_	_	_
+14	கலந்து	கல	_	_	V;POS;ACT;V.PTCP	_	_	_	_
+15	கொள்வது	கொள்	_	_	3;ACT;V.MSDR;POS;NOM;FUT;V;NEUT;SG	_	_	_	_
+16	எனது	என்	_	_	PRO;ANIM;MASC+FEM;GEN;1;SG	_	_	_	_
+17	கடமை	கடமை	_	_	3;N;NOM;NEUT;SG	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s115
+# text = அரசின் பெரு முயற்சியால் உலகத் தமிழ்ச் செம்மொழி மாநாடு நடத்தி முடிக்கப் பட்டது.
+# translit = aracin peru muyarciyāl ulakat tamilc cemmoli mānāṭu naṭatti muṭikkap paṭṭatu.
+# orig_file_sentence 002#15
+1	அரசின்	அரசு	_	_	GEN;N;3;NEUT;SG	_	_	_	_
+2	பெரு	பெரு	_	_	ADJ	_	_	_	_
+3	முயற்சியால்	முயற்சி	_	_	N;3;NEUT;SG;INS	_	_	_	_
+4	உலகத்	உலகம்	_	_	3;NEUT;PROPN;SG	_	_	_	_
+5	தமிழ்ச்	தமிழ்	_	_	NOM;3;PROPN;NEUT;SG	_	_	_	_
+6	செம்மொழி	செம்மொழி	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+7	மாநாடு	மாநாடு	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+8	நடத்தி	நடத்து	_	_	POS;V;ACT;V.PTCP	_	_	_	_
+9	முடிக்கப்	முடி	_	_	POS;V;ACT;NFIN	_	_	_	_
+10	பட்டது	படு	_	_	POS;IND;3;V;PASS;PST;FIN;NEUT;SG	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s88
+# text = அமெரிக்கா, நார்வேயில் உள்ள புலிகள் மீண்டும் ஒருங்கிணைய முயற்சி செய்து வருகின்றனர் என்று இலங்கை பிரதமர் டி.எம். ஜெயரத்ன கூறினார்.
+# translit = amerikkā, nārvēyil uḷḷa pulikaḷ mīṇṭum oruṅkiṇaiya muyarci ceytu varukinranar enru ilaṅkai piratamar ṭi.em. jeyaratna kūrinār.
+# orig_file_sentence 001#88
+1	அமெரிக்கா	அமெரிக்கா	_	_	NEUT;3;SG;PROPN;NOM	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	நார்வேயில்	நார்வே	_	_	NEUT;3;SG;PROPN;ESS	_	_	_	_
+4	உள்ள	உள்	_	_	ADP	_	_	_	_
+5	புலிகள்	புலி	_	_	ANIM;3;N;NOM;PL;MASC+FEM	_	_	_	_
+6	மீண்டும்	மீண்டும்	_	_	ADV	_	_	_	_
+7	ஒருங்கிணைய	ஒருங்கிணை	_	_	NFIN;V;POS;ACT	_	_	_	_
+8	முயற்சி	முயற்சி	_	_	NEUT;3;SG;N;NOM	_	_	_	_
+9	செய்து	செய்	_	_	ACT;V.PTCP;POS;V	_	_	_	_
+10	வருகின்றனர்	வரு	_	_	ACT;3;POS;V;PRS;PL;MASC+FEM;IND;FIN;FORM	_	_	_	_
+11	என்று	என்	_	_	NFIN;POS;PART	_	_	_	_
+12	இலங்கை	இலங்கை	_	_	NEUT;3;SG;PROPN;NOM	_	_	_	_
+13	பிரதமர்	பிரதமர்	_	_	3;SG;N;NOM;MASC+FEM;FORM	_	_	_	_
+14	டி.எம்.	டி.எம்.	_	_	NEUT;3;SG;PROPN;NOM	_	_	_	_
+15	ஜெயரத்ன	ஜெயரத்ன	_	_	3;SG;PROPN;NOM;MASC+FEM;FORM	_	_	_	_
+16	கூறினார்	கூறு	_	_	ACT;3;POS;SG;PST;V;MASC+FEM;IND;FIN;FORM	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s2
+# text = மத்திய திட்டங்கள் முறையாக அமல்படுத்தப் பட்டால் பிகாரிலிருந்து இளைஞர்கள் குடிபெயர்வது தடுக்கப் படும் என்றார் ராகுல்.
+# translit = mattiya tiṭṭaṅkaḷ muraiyāka amalpaṭuttap paṭṭāl pikāriliruntu iḷaiñarkaḷ kuṭipeyarvatu taṭukkap paṭum enrār rākul.
+# orig_file_sentence 001#2
+1	மத்திய	மத்திய	_	_	ADJ	_	_	_	_
+2	திட்டங்கள்	திட்டம்	_	_	NEUT;3;N;NOM;PL	_	_	_	_
+3	முறையாக	முறை	_	_	ADV	_	_	_	_
+4	அமல்படுத்தப்	அமல்படுத்து	_	_	NFIN;V;POS;ACT	_	_	_	_
+5	பட்டால்	படு	_	_	POS;PASS;V;FIN;COND	_	_	_	_
+6	பிகார்	பிகார்	_	_	NEUT;3;SG;PROPN;NOM	_	_	_	_
+7	இலிருந்து	இலிருந்து	_	_	ADP	_	_	_	_
+8	இளைஞர்கள்	இளைஞர்	_	_	ANIM;3;N;NOM;PL;MASC+FEM	_	_	_	_
+9	குடிபெயர்வது	குடிபெயர்	_	_	NEUT;ACT;3;POS;SG;FUT;NOM;V;V.MSDR	_	_	_	_
+10	தடுக்கப்	தடு	_	_	NFIN;V;POS;ACT	_	_	_	_
+11	படும்	படு	_	_	NEUT;3;POS;SG;PASS;FUT;V;IND;FIN	_	_	_	_
+12	என்றார்	என்	_	_	ACT;3;POS;SG;PST;V;MASC+FEM;IND;FIN;FORM	_	_	_	_
+13	ராகுல்	ராகுல்	_	_	3;SG;PROPN;NOM;MASC+FEM;FORM	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s250
+# text = மேற்படி ஆலையின் நச்சுத் தன்மை கொண்ட நீர் கடலில் கலந்தால் மீன் உற்பத்தி பெரிதும் பாதிக்கப்படும் என்றும், மீன்கள் செத்து மடிகின்ற சூழ்நிலை உருவாகும் என்றும், மீன்பிடி தொழில் முற்றிலுமாக தடைபட்டு, மீனவர்களின் வாழ்வாதாரம் பாதிக்கப்படும் என்றும் அப்பகுதி மக்கள் தெரிவிக்கின்றனர்.
+# translit = mērpaṭi ālaiyin naccut tanmai koṇṭa nīr kaṭalil kalantāl mīn urpatti peritum pātikkappaṭum enrum, mīnkaḷ cettu maṭikinra cūlnilai uruvākum enrum, mīnpiṭi tolil murrilumāka taṭaipaṭṭu, mīnavarkaḷin vālvātāram pātikkappaṭum enrum appakuti makkaḷ terivikkinranar.
+# orig_file_sentence 003#50
+1	மேற்படி	மேற்படி	_	_	ADV	_	_	_	_
+2	ஆலையின்	ஆலை	_	_	GEN;N;3;NEUT;SG	_	_	_	_
+3	நச்சுத்	நச்சு	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+4	தன்மை	தன்மை	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+5	கொண்ட	கொள்	_	_	ADP	_	_	_	_
+6	நீர்	நீர்	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+7	கடலில்	கடல்	_	_	N;3;ESS;NEUT;SG	_	_	_	_
+8	கலந்தால்	கல	_	_	POS;V;ACT;FIN;COND	_	_	_	_
+9	மீன்	மீன்	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+10	உற்பத்தி	உற்பத்தி	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+11	பெரிதும்	பெரிதும்	_	_	ADV	_	_	_	_
+12	பாதிக்க	பாதி	_	_	POS;V;ACT;NFIN	_	_	_	_
+13	ப்படும்	படு	_	_	POS;FUT;IND;3;V;PASS;FIN;NEUT;SG	_	_	_	_
+14	என்ற்	என்	_	_	POS;PART;NFIN	_	_	_	_
+15	உம்	உம்	_	_	PART	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	மீன்கள்	மீன்	_	_	ANIM;N;NOM;3;PL;MASC+FEM	_	_	_	_
+18	செத்து	சாகு	_	_	POS;V;ACT;V.PTCP	_	_	_	_
+19	மடிகின்ற	மடி	_	_	POS;ADJ;PRS;V.PTCP	_	_	_	_
+20	சூழ்நிலை	சூழ்நிலை	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+21	உருவாகும்	உருவாகு	_	_	POS;FUT;IND;3;V;ACT;FIN;NEUT;SG	_	_	_	_
+22	என்ற்	என்	_	_	POS;PART;NFIN	_	_	_	_
+23	உம்	உம்	_	_	PART	_	_	_	_
+24	,	,	_	_	_	_	_	_	_
+25	மீன்பிடி	மீன்பிடி	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+26	தொழில்	தொழில்	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+27	முற்றிலுமாக	முற்றிலும்	_	_	ADV	_	_	_	_
+28	தடைபட்டு	தடைபடு	_	_	POS;V;ACT;V.PTCP	_	_	_	_
+29	,	,	_	_	_	_	_	_	_
+30	மீனவர்களின்	மீனவர்	_	_	ANIM;N;NOM;3;PL;MASC+FEM	_	_	_	_
+31	வாழ்வாதாரம்	வாழ்வாதாரம்	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+32	பாதிக்க	பாதி	_	_	POS;V;ACT;NFIN	_	_	_	_
+33	ப்படும்	படு	_	_	POS;FUT;IND;3;V;PASS;FIN;NEUT;SG	_	_	_	_
+34	என்ற்	என்	_	_	POS;PART;NFIN	_	_	_	_
+35	உம்	உம்	_	_	PART	_	_	_	_
+36	அப்பகுதி	அப்பகுதி	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+37	மக்கள்	மக்கள்	_	_	ANIM;N;NOM;3;PL;MASC+FEM	_	_	_	_
+38	தெரிவிக்கின்றனர்	தெரிவி	_	_	POS;PRS;IND;FORM;3;V;ACT;FIN;PL;MASC+FEM	_	_	_	_
+39	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s84
+# text = இதை நிறைவேற்றுவதில் இந்தியாவுக்கும் சில சங்கடங்கள் உள்ளன என்பதையும் உணர்ந்துள்ளதாக அவர் குறிப்பிட்டார்.
+# translit = itai niraivērruvatil intiyāvukkum cila caṅkaṭaṅkaḷ uḷḷana enpataiyum uṇarntuḷḷatāka avar kurippiṭṭār.
+# orig_file_sentence 001#84
+1	இதை	இது	_	_	NEUT;3;SG;ACC;PRO	_	_	_	_
+2	நிறைவேற்றுவதில்	நிறைவேற்று	_	_	NEUT;ACT;3;POS;SG;FUT;V;V.MSDR;ESS	_	_	_	_
+3	இந்தியாவுக்க்	இந்தியா	_	_	NEUT;3;SG;PROPN;DAT	_	_	_	_
+4	உம்	உம்	_	_	PART	_	_	_	_
+5	சில	சில	_	_	ADJ	_	_	_	_
+6	சங்கடங்கள்	சங்கடம்	_	_	NEUT;3;N;NOM;PL	_	_	_	_
+7	உள்ளன	உள்	_	_	NEUT;ACT;3;POS;PL;V;IND;FIN	_	_	_	_
+8	என்பதைய்	என்	_	_	NEUT;3;POS;SG;PART;FUT;V.MSDR;ACC	_	_	_	_
+9	உம்	உம்	_	_	PART	_	_	_	_
+10	உணர்ந்த்	உணர்	_	_	V;V.PTCP;POS;ACT	_	_	_	_
+11	உள்ளத்	உள்	_	_	NEUT;ACT;3;POS;SG;V;NOM;V.MSDR	_	_	_	_
+12	ஆக	ஆக	_	_	PART	_	_	_	_
+13	அவர்	அவர்	_	_	3;SG;NOM;MASC+FEM;PRO;FORM	_	_	_	_
+14	குறிப்பிட்டார்	குறிப்பிடு	_	_	ACT;3;POS;SG;PST;V;MASC+FEM;IND;FIN;FORM	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s169
+# text = மேலும் வடக்கு மற்றும் கிழக்குப் பகுதியில் தமிழர்களுக்காக 50 ஆயிரம் வீடுகளை கட்டிக் கொடுப்பதாகவும் இந்தியா அறிவித்துள்ளது.
+# translit = mēlum vaṭakku marrum kilakkup pakutiyil tamilarkaḷukkāka 50 āyiram vīṭukaḷai kaṭṭik koṭuppatākavum intiyā arivittuḷḷatu.
+# orig_file_sentence 002#69
+1	மேலும்	மேலும்	_	_	ADV	_	_	_	_
+2	வடக்கு	வடக்கு	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+3	மற்றும்	மற்றும்	_	_	CONJ	_	_	_	_
+4	கிழக்குப்	கிழக்கு	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+5	பகுதியில்	பகுதி	_	_	N;3;ESS;NEUT;SG	_	_	_	_
+6	தமிழர்களுக்க்	தமிழர்	_	_	DAT;ANIM;3;PROPN;PL;MASC+FEM	_	_	_	_
+7	ஆக	ஆகு	_	_	ADP	_	_	_	_
+8	50	50	_	_	NUM	_	_	_	_
+9	ஆயிரம்	ஆயிரம்	_	_	NUM	_	_	_	_
+10	வீடுகளை	வீடு	_	_	N;3;ACC;PL;NEUT	_	_	_	_
+11	கட்டிக்	கட்டு	_	_	POS;V;ACT;V.PTCP	_	_	_	_
+12	கொடுப்பத்	கொடு	_	_	POS;FUT;NOM;V.MSDR;3;PART;NEUT;SG	_	_	_	_
+13	ஆகவ்	ஆகு	_	_	PART	_	_	_	_
+14	உம்	உம்	_	_	PART	_	_	_	_
+15	இந்தியா	இந்தியா	_	_	NOM;3;PROPN;NEUT;SG	_	_	_	_
+16	அறிவித்த்	அறிவு	_	_	POS;V;ACT;V.PTCP	_	_	_	_
+17	உள்ளது	உள்	_	_	POS;IND;3;V;ACT;FIN;NEUT;SG	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s19
+# text = இந்தியப் பயணத்தின் போது அமெரிக்க அதிபர் பராக் ஒபாமா பாகிஸ்தானுக்கு செல்ல மாட்டார் என்று தெரிய வந்துள்ளது.
+# translit = intiyap payaṇattin pōtu amerikka atipar parāk opāmā pākistānukku cella māṭṭār enru teriya vantuḷḷatu.
+# orig_file_sentence 001#19
+1	இந்தியப்	இந்தியா	_	_	NEUT;PROPN;3;SG	_	_	_	_
+2	பயணத்தின்	பயணம்	_	_	NEUT;3;SG;N;GEN	_	_	_	_
+3	போது	போது	_	_	PART	_	_	_	_
+4	அமெரிக்க	அமெரிக்கா	_	_	NEUT;PROPN;3;SG	_	_	_	_
+5	அதிபர்	அதிபர்	_	_	3;SG;N;NOM;MASC+FEM;FORM	_	_	_	_
+6	பராக்	பராக்	_	_	3;SG;PROPN;NOM;MASC+FEM;FORM	_	_	_	_
+7	ஒபாமா	ஒபாமா	_	_	3;SG;PROPN;NOM;MASC+FEM;FORM	_	_	_	_
+8	பாகிஸ்தானுக்கு	பாகிஸ்தான்	_	_	NEUT;3;SG;PROPN;DAT	_	_	_	_
+9	செல்ல	செல்	_	_	NFIN;V;POS;ACT	_	_	_	_
+10	மாட்டார்	மாட்டு	_	_	ACT;3;POS;SG;V;MASC+FEM;IND;FIN;FORM	_	_	_	_
+11	என்று	என்	_	_	NFIN;POS;PART	_	_	_	_
+12	தெரிய	தெரி	_	_	NFIN;V;POS;ACT	_	_	_	_
+13	வந்த்	வா	_	_	ACT;V.PTCP;POS;V	_	_	_	_
+14	உள்ளது	உள்	_	_	NEUT;ACT;3;POS;SG;V;IND;FIN	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s242
+# text = சட்டப்பேரவையில் நடைபெற்ற அமளி, அடிதடி, கூச்சல், குழப்பம் நாட்டின் ஜனநாயகத்திற்கே மிகப்பெரிய களங்கத்தை உண்டாக்கிய தேசிய அவமானம் ஆகும்.
+# translit = caṭṭappēravaiyil naṭaiperra amaḷi, aṭitaṭi, kūccal, kulappam nāṭṭin jananāyakattirkē mikapperiya kaḷaṅkattai uṇṭākkiya tēciya avamānam ākum.
+# orig_file_sentence 003#42
+1	சட்டப்பேரவையில்	சட்டப்பேரவை	_	_	N;3;ESS;NEUT;SG	_	_	_	_
+2	நடைபெற்ற	நடைபெறு	_	_	POS;ADJ;PST;V.PTCP	_	_	_	_
+3	அமளி	அமளி	_	_	N;NOM;FORM;3;MASC+FEM;SG	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	அடிதடி	அடிதடி	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	கூச்சல்	கூச்சல்	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	குழப்பம்	குழப்பம்	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+10	நாட்டின்	நாடு	_	_	GEN;N;3;NEUT;SG	_	_	_	_
+11	ஜனநாயகத்திற்க்	ஜனநாயகம்	_	_	DAT;N;3;NEUT;SG	_	_	_	_
+12	ஏ	ஏ	_	_	PART	_	_	_	_
+13	மிகப்பெரிய	மிகப்பெரிய	_	_	ADJ	_	_	_	_
+14	களங்கத்தை	களங்கம்	_	_	N;3;ACC;NEUT;SG	_	_	_	_
+15	உண்டாக்கிய	உண்டாகு	_	_	POS;ADJ;PST;V.PTCP	_	_	_	_
+16	தேசிய	தேசியம்	_	_	3;NEUT;PROPN;SG	_	_	_	_
+17	அவமானம்	அவமானம்	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+18	ஆகும்	ஆகு	_	_	POS;FUT;IND;3;V;ACT;FIN;NEUT;SG	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s70
+# text = அரபிக் கடலில் மீன் பிடிக்கும் மீனவர்கள் எல்லை தாண்டி வந்த குற்றச்சாட்டில் அவ்வப்போது இருதரப்பிலும் கைது செய்யப் படுகின்றனர் என்பது குறிப்பிடத்தக்கது.
+# translit = arapik kaṭalil mīn piṭikkum mīnavarkaḷ ellai tāṇṭi vanta kurraccāṭṭil avvappōtu irutarappilum kaitu ceyyap paṭukinranar enpatu kurippiṭattakkatu.
+# orig_file_sentence 001#70
+1	அரபிக்	அரபிக்	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+2	கடலில்	கடல்	_	_	N;3;ESS;NEUT;SG	_	_	_	_
+3	மீன்	மீன்	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+4	பிடிக்கும்	பிடி	_	_	POS;ADJ;V.PTCP;FUT	_	_	_	_
+5	மீனவர்கள்	மீனவர்	_	_	ANIM;N;NOM;3;PL;MASC+FEM	_	_	_	_
+6	எல்லை	எல்லை	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+7	தாண்டி	தாண்டு	_	_	POS;V;ACT;V.PTCP	_	_	_	_
+8	வந்த	வா	_	_	POS;ADJ;PST;V.PTCP	_	_	_	_
+9	குற்றச்சாட்டில்	குற்றச்சாட்டு	_	_	N;3;ESS;NEUT;SG	_	_	_	_
+10	அவ்வப்போது	அவ்வப்போது	_	_	ADV	_	_	_	_
+11	இருதரப்பில்	இருதரப்பு	_	_	N;3;ESS;NEUT;SG	_	_	_	_
+12	உம்	உம்	_	_	PART	_	_	_	_
+13	கைது	கைது	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+14	செய்யப்	செய்	_	_	POS;V;ACT;NFIN	_	_	_	_
+15	படுகின்றனர்	படு	_	_	POS;PRS;IND;FORM;3;V;PASS;FIN;PL;MASC+FEM	_	_	_	_
+16	என்பது	என்	_	_	POS;FUT;NOM;V.MSDR;3;PART;NEUT;SG	_	_	_	_
+17	குறிப்பிடத்	குறிப்பிடு	_	_	POS;V;ACT;NFIN	_	_	_	_
+18	தக்கது	தகு	_	_	POS;IND;3;V;ACT;PST;FIN;NEUT;SG	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s9
+# text = பிகாரில் கடந்த 20 ஆண்டுகளாக தேங்கிக் கிடக்கும் வளர்ச்சியை மீண்டும் ஏற்படுத்த காங்கிரஸ் எல்லா முயற்சிகளை மேற்கொள்ளும் என்றார்.
+# translit = pikāril kaṭanta 20 āṇṭukaḷāka tēṅkik kiṭakkum vaḷarcciyai mīṇṭum ērpaṭutta kāṅkiras ellā muyarcikaḷai mērkoḷḷum enrār.
+# orig_file_sentence 001#9
+1	பிகாரில்	பிகார்	_	_	NEUT;3;SG;PROPN;ESS	_	_	_	_
+2	கடந்த	கடந்த	_	_	ADJ	_	_	_	_
+3	20	20	_	_	NUM	_	_	_	_
+4	ஆண்டுகள்	ஆண்டு	_	_	NEUT;3;N;NOM;PL	_	_	_	_
+5	ஆக	ஆக	_	_	PART	_	_	_	_
+6	தேங்கிக்	தேங்கு	_	_	V;V.PTCP;POS;ACT	_	_	_	_
+7	கிடக்கும்	கிட	_	_	V.PTCP;FUT;POS;ADJ	_	_	_	_
+8	வளர்ச்சியை	வளர்ச்சி	_	_	NEUT;3;SG;N;ACC	_	_	_	_
+9	மீண்டும்	மீண்டும்	_	_	ADV	_	_	_	_
+10	ஏற்படுத்த	ஏற்படு	_	_	NFIN;V;POS;ACT	_	_	_	_
+11	காங்கிரஸ்	காங்கிரஸ்	_	_	NEUT;3;SG;PROPN;NOM	_	_	_	_
+12	எல்லா	எல்லாம்	_	_	ADJ	_	_	_	_
+13	முயற்சிகளை	முயற்சி	_	_	NEUT;3;N;PL;ACC	_	_	_	_
+14	மேற்கொள்ளும்	மேற்கொள்	_	_	NEUT;ACT;3;POS;SG;FUT;V;IND;FIN	_	_	_	_
+15	என்றார்	என்	_	_	ACT;3;POS;SG;PST;V;MASC+FEM;IND;FIN;FORM	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s278
+# text = இந்நிலையில், முதல்வர் கருணாநிதிக்கு இ-மெயிலில் கொலை மிரட்டல் விடுக்கப்பட்டுள்ளது.
+# translit = innilaiyil, mutalvar karuṇānitikku i-meyilil kolai miraṭṭal viṭukkappaṭṭuḷḷatu.
+# orig_file_sentence 003#78
+1	இந்நிலையில்	இந்நிலை	_	_	N;3;ESS;NEUT;SG	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	முதல்வர்	முதல்வர்	_	_	N;NOM;FORM;3;MASC+FEM;SG	_	_	_	_
+4	கருணாநிதிக்கு	கருணாநிதி	_	_	DAT;FORM;3;PROPN;MASC+FEM;SG	_	_	_	_
+5	இ-மெயிலில்	இ-மெயில்	_	_	3;ESS;PROPN;NEUT;SG	_	_	_	_
+6	கொலை	கொலை	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+7	மிரட்டல்	மிரட்டல்	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+8	விடுக்கப்	விடு	_	_	POS;V;ACT;NFIN	_	_	_	_
+9	பட்ட்	படு	_	_	POS;V;PASS;V.PTCP	_	_	_	_
+10	உள்ளது	உள்	_	_	POS;IND;3;V;ACT;FIN;NEUT;SG	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s21
+# text = அமெரிக்க பத்திரிகையான நியூஸ்வீக், உலக நாடுகளில் சுகாதாரம், கல்வி, பொருளாதாரம், அரசியல் ஆகிய அம்சங்களை அடிப்படையாக வைத்துத் தொகுத்ததில் இந்த முடிவு வெளியாகியுள்ளது.
+# translit = amerikka pattirikaiyāna niyūsvīk, ulaka nāṭukaḷil cukātāram, kalvi, poruḷātāram, araciyal ākiya amcaṅkaḷai aṭippaṭaiyāka vaittut tokuttatil inta muṭivu veḷiyākiyuḷḷatu.
+# orig_file_sentence 001#21
+1	அமெரிக்க	அமெரிக்கா	_	_	3;NEUT;PROPN;SG	_	_	_	_
+2	பத்திரிகைய்	பத்திரிகை	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+3	ஆன	ஆன	_	_	PART	_	_	_	_
+4	நியூஸ்வீக்	நியூஸ்வீக்	_	_	NOM;3;PROPN;NEUT;SG	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	உலக	உலகம்	_	_	3;NEUT;PROPN;SG	_	_	_	_
+7	நாடுகளில்	நாடு	_	_	N;3;ESS;PL;NEUT	_	_	_	_
+8	சுகாதாரம்	சுகாதாரம்	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	கல்வி	கல்வி	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	பொருளாதாரம்	பொருளாதாரம்	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	அரசியல்	அரசியல்	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+15	ஆகிய	ஆகு	_	_	POS;ADJ;PST;V.PTCP	_	_	_	_
+16	அம்சங்களை	அம்சம்	_	_	N;3;ACC;PL;NEUT	_	_	_	_
+17	அடிப்படைய்	அடிப்படை	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+18	ஆக	ஆகு	_	_	ADV	_	_	_	_
+19	வைத்துத்	வை	_	_	POS;V;ACT;V.PTCP	_	_	_	_
+20	தொகுத்ததில்	தொகு	_	_	POS;V.MSDR;3;V;ESS;ACT;PST;NEUT;SG	_	_	_	_
+21	இந்த	இந்த	_	_	DET	_	_	_	_
+22	முடிவு	முடிவு	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+23	வெளியாகிய்	வெளியாகு	_	_	POS;V;ACT;V.PTCP	_	_	_	_
+24	உள்ளது	உள்	_	_	POS;IND;3;V;ACT;FIN;NEUT;SG	_	_	_	_
+25	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s41
+# text = இது மரியாதை நிமித்தமான சந்திப்பு என்று அதிமுக சார்பில் வெளியிடப்பட்டுள்ள செய்திக்குறிப்பில் தெரிவிக்கப்பட்டுள்ளது.
+# translit = itu mariyātai nimittamāna cantippu enru atimuka cārpil veḷiyiṭappaṭṭuḷḷa ceytikkurippil terivikkappaṭṭuḷḷatu.
+# orig_file_sentence 001#41
+1	இது	இது	_	_	NOM;3;PRO;NEUT;SG	_	_	_	_
+2	மரியாதை	மரியாதை	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+3	நிமித்தம்	நிமித்தம்	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+4	ஆன	ஆன	_	_	PART	_	_	_	_
+5	சந்திப்பு	சந்திப்பு	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+6	என்று	என்	_	_	POS;PART;NFIN	_	_	_	_
+7	அதிமுக	அதிமுக	_	_	NOM;3;PROPN;NEUT;SG	_	_	_	_
+8	சார்பில்	சார்பு	_	_	ADP	_	_	_	_
+9	வெளியிடப்	வெளியிடு	_	_	POS;V;ACT;NFIN	_	_	_	_
+10	பட்ட்	படு	_	_	POS;V;PASS;V.PTCP	_	_	_	_
+11	உள்ள	உள்	_	_	POS;ADJ;V.PTCP	_	_	_	_
+12	செய்திக்குறிப்பில்	செய்திக்குறிப்பு	_	_	N;3;ESS;NEUT;SG	_	_	_	_
+13	தெரிவிக்கப்	தெரிவி	_	_	POS;V;ACT;NFIN	_	_	_	_
+14	பட்ட்	படு	_	_	POS;V;PASS;V.PTCP	_	_	_	_
+15	உள்ளது	உள்	_	_	POS;IND;3;V;ACT;FIN;NEUT;SG	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s68
+# text = தண்டனைக் காலத்தை தாண்டியும் அவர்கள் சிறையில் அடைக்கப்பட்டுள்ளனர் என்று புகார் கூறப்பட்ட நிலையில் அவர்கள் விடுவிக்கப்பட்டுள்ளனர்.
+# translit = taṇṭanaik kālattai tāṇṭiyum avarkaḷ ciraiyil aṭaikkappaṭṭuḷḷanar enru pukār kūrappaṭṭa nilaiyil avarkaḷ viṭuvikkappaṭṭuḷḷanar.
+# orig_file_sentence 001#68
+1	தண்டனைக்	தண்டனை	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+2	காலத்தை	காலம்	_	_	N;3;ACC;NEUT;SG	_	_	_	_
+3	தாண்டிய்	தாண்டு	_	_	POS;V;ACT;V.PTCP	_	_	_	_
+4	உம்	உம்	_	_	PART	_	_	_	_
+5	அவர்கள்	அவர்	_	_	ANIM;NOM;3;PRO;PL;MASC+FEM	_	_	_	_
+6	சிறையில்	சிறை	_	_	N;3;ESS;NEUT;SG	_	_	_	_
+7	அடைக்கப்	அடை	_	_	POS;V;ACT;NFIN	_	_	_	_
+8	பட்ட்	படு	_	_	POS;V;PASS;V.PTCP	_	_	_	_
+9	உள்ளனர்	உள்	_	_	POS;ANIM;IND;3;V;ACT;FIN;PL;MASC+FEM	_	_	_	_
+10	என்று	என்	_	_	POS;PART;NFIN	_	_	_	_
+11	புகார்	புகார்	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+12	கூறப்பட்ட	கூறு	_	_	POS;ADJ;PST;V.PTCP	_	_	_	_
+13	நிலையில்	நிலை	_	_	N;3;ESS;NEUT;SG	_	_	_	_
+14	அவர்கள்	அவர்	_	_	ANIM;NOM;3;PRO;PL;MASC+FEM	_	_	_	_
+15	விடுவிக்கப்	விடுவி	_	_	POS;V;ACT;NFIN	_	_	_	_
+16	பட்ட்	படு	_	_	POS;V;PASS;V.PTCP	_	_	_	_
+17	உள்ளனர்	உள்	_	_	POS;ANIM;IND;3;V;ACT;FIN;PL;MASC+FEM	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s315
+# text = அமெரிக்க அதிபர் பராக் ஒபாமா, இந்தியாவில் அடுத்த மாதம் சுற்றுப் பயணம் மேற்கொள்ளும் போது இந்த விவகாரம் குறித்து முக்கியமாக விவாதிக்கப்படும் என்று தெரிகிறது.
+# translit = amerikka atipar parāk opāmā, intiyāvil aṭutta mātam currup payaṇam mērkoḷḷum pōtu inta vivakāram kurittu mukkiyamāka vivātikkappaṭum enru terikiratu.
+# orig_file_sentence 004#15
+1	அமெரிக்க	அமெரிக்கா	_	_	3;NEUT;PROPN;SG	_	_	_	_
+2	அதிபர்	அதிபர்	_	_	N;NOM;FORM;3;MASC+FEM;SG	_	_	_	_
+3	பராக்	பராக்	_	_	NOM;FORM;3;PROPN;MASC+FEM;SG	_	_	_	_
+4	ஒபாமா	ஒபாமா	_	_	NOM;FORM;3;PROPN;MASC+FEM;SG	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	இந்தியாவில்	இந்தியா	_	_	3;ESS;PROPN;NEUT;SG	_	_	_	_
+7	அடுத்த	அடுத்த	_	_	ADJ	_	_	_	_
+8	மாதம்	மாதம்	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+9	சுற்றுப்	சுற்று	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+10	பயணம்	பயணம்	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+11	மேற்கொள்ளும்	மேற்கொள்	_	_	POS;ADJ;V.PTCP;FUT	_	_	_	_
+12	போது	போது	_	_	PART	_	_	_	_
+13	இந்த	இந்த	_	_	DET	_	_	_	_
+14	விவகாரம்	விவகாரம்	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+15	குறித்து	குறி	_	_	ADP	_	_	_	_
+16	முக்கியமாக	முக்கியம்	_	_	ADV	_	_	_	_
+17	விவாதிக்க	விவாதி	_	_	POS;V;ACT;NFIN	_	_	_	_
+18	ப்படும்	படு	_	_	POS;FUT;IND;3;V;PASS;FIN;NEUT;SG	_	_	_	_
+19	என்று	என்	_	_	POS;PART;NFIN	_	_	_	_
+20	தெரிகிறது	தெரி	_	_	POS;PRS;IND;3;V;ACT;FIN;NEUT;SG	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s62
+# text = தென்மேற்கு அபூர் மாநிலத்தில் போதைமருந்து கடத்தலில் ஈடுபட்டுள்ள குழுவினரைத் தேடும் பணியில் ஈடுபட்டிருந்த போது அந்த ஹெலிகாப்டர் விபத்துக்குள்ளானதாக தேசிய பாதுகாப்புப் படையின் தலைவர் லூயிஸ் ஆல்ஃப்ரடோ தெரிவித்தார்.
+# translit = tenmērku apūr mānilattil pōtaimaruntu kaṭattalil īṭupaṭṭuḷḷa kuluvinarait tēṭum paṇiyil īṭupaṭṭirunta pōtu anta helikāpṭar vipattukkuḷḷānatāka tēciya pātukāppup paṭaiyin talaivar lūyis ālḥpraṭō terivittār.
+# orig_file_sentence 001#62
+1	தென்மேற்கு	தென்மேற்கு	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+2	அபூர்	அபூர்	_	_	NOM;3;PROPN;NEUT;SG	_	_	_	_
+3	மாநிலத்தில்	மாநிலம்	_	_	N;3;ESS;NEUT;SG	_	_	_	_
+4	போதைமருந்து	போதைமருந்து	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+5	கடத்தலில்	கடத்தல்	_	_	N;3;ESS;NEUT;SG	_	_	_	_
+6	ஈடுபட்ட்	ஈடுபடு	_	_	POS;V;ACT;V.PTCP	_	_	_	_
+7	உள்ள	உள்	_	_	POS;ADJ;V.PTCP	_	_	_	_
+8	குழுவினரைத்	குழுவினர்	_	_	ANIM;N;ACC;3;PL;MASC+FEM	_	_	_	_
+9	தேடும்	தேடு	_	_	POS;ADJ;V.PTCP;FUT	_	_	_	_
+10	பணியில்	பணி	_	_	N;3;ESS;NEUT;SG	_	_	_	_
+11	ஈடுபட்ட்	ஈடுபடு	_	_	POS;V;ACT;V.PTCP	_	_	_	_
+12	இருந்த	இரு	_	_	POS;ADJ;PST;V.PTCP	_	_	_	_
+13	போது	போது	_	_	PART	_	_	_	_
+14	அந்த	அந்த	_	_	DET	_	_	_	_
+15	ஹெலிகாப்டர்	ஹெலிகாப்டர்	_	_	NOM;3;PROPN;NEUT;SG	_	_	_	_
+16	விபத்துக்குள்ளானத்	விபத்துக்குள்ளாகு	_	_	POS;NOM;V.MSDR;3;V;ACT;PST;NEUT;SG	_	_	_	_
+17	ஆக	ஆக	_	_	PART	_	_	_	_
+18	தேசிய	தேசியம்	_	_	ADJ	_	_	_	_
+19	பாதுகாப்புப்	பாதுகாப்பு	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+20	படையின்	படை	_	_	GEN;N;3;NEUT;SG	_	_	_	_
+21	தலைவர்	தலைவர்	_	_	N;NOM;FORM;3;MASC+FEM;SG	_	_	_	_
+22	லூயிஸ்	லூயிஸ்	_	_	NOM;FORM;3;PROPN;MASC+FEM;SG	_	_	_	_
+23	ஆல்ஃப்ரடோ	ஆல்ஃப்ரடோ	_	_	NOM;FORM;3;PROPN;MASC+FEM;SG	_	_	_	_
+24	தெரிவித்தார்	தெரிவி	_	_	POS;IND;FORM;3;V;ACT;PST;FIN;MASC+FEM;SG	_	_	_	_
+25	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s91
+# text = ஜெயலலிதா கொடநாடு எஸ்டேட்டில் 40 நாட்கள் வரை தங்கியிருந்து முக்கிய அரசியல் பணிகளை மேற்கொள்ள இருப்பதாக அதிமுக வட்டாரங்கள் தெரிவித்தன.
+# translit = jeyalalitā koṭanāṭu esṭēṭṭil 40 nāṭkaḷ varai taṅkiyiruntu mukkiya araciyal paṇikaḷai mērkoḷḷa iruppatāka atimuka vaṭṭāraṅkaḷ terivittana.
+# orig_file_sentence 001#91
+1	ஜெயலலிதா	ஜெயலலிதா	_	_	NOM;FORM;3;PROPN;MASC+FEM;SG	_	_	_	_
+2	கொடநாடு	கொடநாடு	_	_	NOM;3;PROPN;NEUT;SG	_	_	_	_
+3	எஸ்டேட்டில்	எஸ்டேட்	_	_	N;3;ESS;NEUT;SG	_	_	_	_
+4	40	40	_	_	NUM	_	_	_	_
+5	நாட்கள்	நாள்	_	_	N;NOM;3;PL;NEUT	_	_	_	_
+6	வரை	வரை	_	_	ADP	_	_	_	_
+7	தங்கிய்	தங்கு	_	_	POS;V;ACT;V.PTCP	_	_	_	_
+8	இருந்து	இரு	_	_	POS;V;ACT;V.PTCP	_	_	_	_
+9	முக்கிய	முக்கியம்	_	_	ADJ	_	_	_	_
+10	அரசியல்	அரசியல்	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+11	பணிகளை	பணி	_	_	N;3;ACC;PL;NEUT	_	_	_	_
+12	மேற்கொள்ள	மேற்கொள்	_	_	POS;V;ACT;NFIN	_	_	_	_
+13	இருப்பத்	இரு	_	_	POS;FUT;NOM;V.MSDR;3;V;ACT;NEUT;SG	_	_	_	_
+14	ஆக	ஆக	_	_	PART	_	_	_	_
+15	அதிமுக	அதிமுக	_	_	NOM;3;PROPN;NEUT;SG	_	_	_	_
+16	வட்டாரங்கள்	வட்டாரம்	_	_	N;NOM;3;PL;NEUT	_	_	_	_
+17	தெரிவித்தன	தெரிவி	_	_	POS;IND;3;V;ACT;FIN;PL;NEUT;PST	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s200
+# text = இதற்காக நாட்டின் மிகச் சிறந்த அதிகாரிகளும் வீரர்களும் இரவும் பகலும் பாடுபட்டு வருகின்றனர்.
+# translit = itarkāka nāṭṭin mikac ciranta atikārikaḷum vīrarkaḷum iravum pakalum pāṭupaṭṭu varukinranar.
+# orig_file_sentence 002#100
+1	இதற்காக	இது	_	_	ADV	_	_	_	_
+2	நாட்டின்	நாடு	_	_	GEN;N;3;NEUT;SG	_	_	_	_
+3	மிகச்	மிக	_	_	DET	_	_	_	_
+4	சிறந்த	சிறந்த	_	_	ADJ	_	_	_	_
+5	அதிகாரிகள்	அதிகாரி	_	_	ANIM;N;NOM;3;PL;MASC+FEM	_	_	_	_
+6	உம்	உம்	_	_	PART	_	_	_	_
+7	வீரர்கள்	வீரர்	_	_	ANIM;N;NOM;3;PL;MASC+FEM	_	_	_	_
+8	உம்	உம்	_	_	PART	_	_	_	_
+9	இரவ்	இரவு	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+10	உம்	உம்	_	_	PART	_	_	_	_
+11	பகல்	பகல்	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+12	உம்	உம்	_	_	PART	_	_	_	_
+13	பாடுபட்டு	பாடுபடு	_	_	POS;V;ACT;V.PTCP	_	_	_	_
+14	வருகின்றனர்	வரு	_	_	POS;PRS;IND;FORM;3;V;ACT;FIN;PL;MASC+FEM	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s70
+# text = எனவே சர்வதேச விதிமுறைகள் படி இந்தியா மாற்றம் செய்ய வேண்டும் என்று அந்த அறிக்கை தெரிவித்துள்ளது.
+# translit = enavē carvatēca vitimuraikaḷ paṭi intiyā mārram ceyya vēṇṭum enru anta arikkai terivittuḷḷatu.
+# orig_file_sentence 001#70
+1	எனவே	எனவே	_	_	ADV	_	_	_	_
+2	சர்வதேச	சர்வதேசம்	_	_	NEUT;PROPN;3;SG	_	_	_	_
+3	விதிமுறைகள்	விதிமுறை	_	_	NEUT;3;N;NOM;PL	_	_	_	_
+4	படி	படி	_	_	ADP	_	_	_	_
+5	இந்தியா	இந்தியா	_	_	NEUT;3;SG;PROPN;NOM	_	_	_	_
+6	மாற்றம்	மாற்றம்	_	_	NEUT;3;SG;N;NOM	_	_	_	_
+7	செய்ய	செய்	_	_	NFIN;V;POS;ACT	_	_	_	_
+8	வேண்டும்	வேண்டு	_	_	NEUT;ACT;3;POS;SG;FUT;V;IND;FIN	_	_	_	_
+9	என்று	என்	_	_	NFIN;POS;PART	_	_	_	_
+10	அந்த	அந்த	_	_	DET	_	_	_	_
+11	அறிக்கை	அறிக்கை	_	_	NEUT;3;SG;N;NOM	_	_	_	_
+12	தெரிவித்த்	தெரிவி	_	_	V;V.PTCP;POS;ACT	_	_	_	_
+13	உள்ளது	உள்	_	_	NEUT;ACT;3;POS;SG;V;IND;FIN	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s150
+# text = வெடிக்காத கண்ணி வெடிகள், வெடிகுண்டுகளை இலங்கை ராணுவ அதிகாரிகள் நிருபமாவிடம் அப்போது காண்பித்தனர்.
+# translit = veṭikkāta kaṇṇi veṭikaḷ, veṭikuṇṭukaḷai ilaṅkai rāṇuva atikārikaḷ nirupamāviṭam appōtu kāṇpittanar.
+# orig_file_sentence 002#50
+1	வெடிக்காத	வெடி	_	_	ADJ;NEG;V.PTCP	_	_	_	_
+2	கண்ணி	கண்ணி	_	_	NOM;3;PROPN;NEUT;SG	_	_	_	_
+3	வெடிகள்	வெடி	_	_	N;NOM;3;PL;NEUT	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	வெடிகுண்டுகளை	வெடிகுண்டு	_	_	N;3;ACC;PL;NEUT	_	_	_	_
+6	இலங்கை	இலங்கை	_	_	NOM;3;PROPN;NEUT;SG	_	_	_	_
+7	ராணுவ	ராணுவம்	_	_	3;NEUT;PROPN;SG	_	_	_	_
+8	அதிகாரிகள்	அதிகாரி	_	_	ANIM;N;NOM;3;PL;MASC+FEM	_	_	_	_
+9	நிருபமாவ்	நிருபமா	_	_	NOM;FORM;3;PROPN;MASC+FEM;SG	_	_	_	_
+10	இடம்	இடம்	_	_	ADP	_	_	_	_
+11	அப்போது	அப்போது	_	_	ADV	_	_	_	_
+12	காண்பித்தனர்	காண்பி	_	_	POS;IND;FORM;3;V;ACT;FIN;PL;MASC+FEM;PST	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s249
+# text = தி.மு.க. அரசின் துணையோடு, மணலி பெட்ரோ கெமிக்கல்ஸ் லிமிடெட் ஆலையிலிருந்து வெளியேற்றப்படும் நச்சுத் தன்மை கொண்ட ரசாயனம் கலந்த கழிவு நீரை குழாய் மூலம் கொண்டு வந்து கடலில் கலப்பதற்கான வேலைகள் மும்முரமாக நடந்து வருகின்றன என்றும், இதற்காக மிகப் பெரிய தொகை அமைச்சர் கே.பி.பி. சாமியிடம் கொடுக்கப் பட்டு விட்டதாகவும் அப்பகுதி மக்கள் தெரிவிக்கின்றனர்.
+# translit = ti.mu.ka. aracin tuṇaiyōṭu, maṇali peṭrō kemikkals limiṭeṭ ālaiyiliruntu veḷiyērrappaṭum naccut tanmai koṇṭa racāyanam kalanta kalivu nīrai kulāy mūlam koṇṭu vantu kaṭalil kalappatarkāna vēlaikaḷ mummuramāka naṭantu varukinrana enrum, itarkāka mikap periya tokai amaiccar kē.pi.pi. cāmiyiṭam koṭukkap paṭṭu viṭṭatākavum appakuti makkaḷ terivikkinranar.
+# orig_file_sentence 003#49
+1	தி.மு.க.	தி.மு.க.	_	_	NOM;3;PROPN;NEUT;SG	_	_	_	_
+2	அரசின்	அரசு	_	_	GEN;N;3;NEUT;SG	_	_	_	_
+3	துணையோடு	துணை	_	_	COM;N;3;NEUT;SG	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	மணலி	மணலி	_	_	NOM;3;PROPN;NEUT;SG	_	_	_	_
+6	பெட்ரோ	பெட்ரோ	_	_	NOM;3;PROPN;NEUT;SG	_	_	_	_
+7	கெமிக்கல்ஸ்	கெமிக்கல்ஸ்	_	_	NOM;3;PROPN;NEUT;SG	_	_	_	_
+8	லிமிடெட்	லிமிடெட்	_	_	NOM;3;PROPN;NEUT;SG	_	_	_	_
+9	ஆலைய்	ஆலை	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+10	இலிருந்து	இலிருந்து	_	_	ADP	_	_	_	_
+11	வெளியேற்றப்படும்	வெளியேற்று	_	_	POS;ADJ;V.PTCP;FUT	_	_	_	_
+12	நச்சுத்	நச்சு	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+13	தன்மை	தன்மை	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+14	கொண்ட	கொள்	_	_	ADP	_	_	_	_
+15	ரசாயனம்	ரசாயனம்	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+16	கலந்த	கல	_	_	POS;ADJ;PST;V.PTCP	_	_	_	_
+17	கழிவு	கழிவு	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+18	நீரை	நீர்	_	_	N;3;ACC;NEUT;SG	_	_	_	_
+19	குழாய்	குழாய்	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+20	மூலம்	மூலம்	_	_	ADP	_	_	_	_
+21	கொண்டு	கொள்	_	_	POS;V;ACT;V.PTCP	_	_	_	_
+22	வந்து	வா	_	_	POS;V;ACT;V.PTCP	_	_	_	_
+23	கடலில்	கடல்	_	_	N;3;ESS;NEUT;SG	_	_	_	_
+24	கலப்பதற்க்	கல	_	_	POS;DAT;FUT;V.MSDR;3;V;ACT;NEUT;SG	_	_	_	_
+25	ஆன	ஆன	_	_	PART	_	_	_	_
+26	வேலைகள்	வேலை	_	_	N;NOM;3;PL;NEUT	_	_	_	_
+27	மும்முரமாக	மும்முரம்	_	_	ADV	_	_	_	_
+28	நடந்து	நட	_	_	POS;V;ACT;V.PTCP	_	_	_	_
+29	வருகின்றன	வரு	_	_	POS;PRS;IND;3;V;ACT;FIN;PL;NEUT	_	_	_	_
+30	என்ற்	என்	_	_	POS;PART;NFIN	_	_	_	_
+31	உம்	உம்	_	_	PART	_	_	_	_
+32	,	,	_	_	_	_	_	_	_
+33	இதற்காக	இது	_	_	ADV	_	_	_	_
+34	மிகப்	மிக	_	_	DET	_	_	_	_
+35	பெரிய	பெரிய	_	_	ADJ	_	_	_	_
+36	தொகை	தொகை	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+37	அமைச்சர்	அமைச்சர்	_	_	N;NOM;FORM;3;MASC+FEM;SG	_	_	_	_
+38	கே.பி.பி.	கே.பி.பி.	_	_	NOM;3;PROPN;NEUT;SG	_	_	_	_
+39	சாமியிடம்	சாமியிடம்	_	_	N;FORM;3;ESS;MASC+FEM;SG	_	_	_	_
+40	கொடுக்கப்	கொடு	_	_	POS;V;ACT;NFIN	_	_	_	_
+41	பட்டு	படு	_	_	POS;V;PASS;V.PTCP	_	_	_	_
+42	விட்டத்	விடு	_	_	POS;NOM;V.MSDR;3;V;ACT;PST;NEUT;SG	_	_	_	_
+43	ஆகவ்	ஆகு	_	_	PART	_	_	_	_
+44	உம்	உம்	_	_	PART	_	_	_	_
+45	அப்பகுதி	அப்பகுதி	_	_	N;NOM;3;NEUT;SG	_	_	_	_
+46	மக்கள்	மக்கள்	_	_	ANIM;N;NOM;3;PL;MASC+FEM	_	_	_	_
+47	தெரிவிக்கின்றனர்	தெரிவி	_	_	POS;PRS;IND;FORM;3;V;ACT;FIN;PL;MASC+FEM	_	_	_	_
+48	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s63
+# text = இந்த நாலும் இல்லாமல் ஒரு ஆடவனின் அழைப்பை ஏற்று அவர் உடன் கூடி வாழ்ந்தோம் என்று கூறுவதையெல்லாம் ஏற்று அவர்களுக்கு ஜீவனாம்சம் தர உத்தரவிட முடியாது என்று நீதிபதிகள் உறுதிபடத் தெரிவித்தனர்.
+# translit = inta nālum illāmal oru āṭavanin alaippai ērru avar uṭan kūṭi vālntōm enru kūruvataiyellām ērru avarkaḷukku jīvanāmcam tara uttaraviṭa muṭiyātu enru nītipatikaḷ urutipaṭat terivittanar.
+# orig_file_sentence 001#63
+1	இந்த	இந்த	_	_	DET	_	_	_	_
+2	நால்	நால்	_	_	NUM	_	_	_	_
+3	உம்	உம்	_	_	PART	_	_	_	_
+4	இல்லாமல்	இல்	_	_	V;V.PTCP;NEG	_	_	_	_
+5	ஒரு	ஒரு	_	_	ADJ	_	_	_	_
+6	ஆடவனின்	ஆடவன்	_	_	3;SG;N;NOM;MASC	_	_	_	_
+7	அழைப்பை	அழைப்பு	_	_	NEUT;3;SG;N;ACC	_	_	_	_
+8	ஏற்று	ஏல்	_	_	V;V.PTCP;POS;ACT	_	_	_	_
+9	அவர்	அவர்	_	_	3;SG;NOM;MASC+FEM;PRO;FORM	_	_	_	_
+10	உடன்	உடன்	_	_	ADP	_	_	_	_
+11	கூடி	கூடு	_	_	ADV	_	_	_	_
+12	வாழ்ந்தோம்	வாழ்	_	_	ACT;POS;PST;PL;V;IND;FIN;1	_	_	_	_
+13	என்று	என்	_	_	NFIN;POS;PART	_	_	_	_
+14	கூறுவதைய்	கூறு	_	_	NEUT;ACT;3;POS;SG;FUT;V;V.MSDR;ACC	_	_	_	_
+15	எல்லாம்	எல்லாம்	_	_	NEUT;3;SG;N;NOM	_	_	_	_
+16	ஏற்று	ஏல்	_	_	V;V.PTCP;POS;ACT	_	_	_	_
+17	அவர்களுக்கு	அவர்	_	_	ANIM;3;PL;MASC+FEM;DAT;PRO	_	_	_	_
+18	ஜீவனாம்சம்	ஜீவனாம்சம்	_	_	NEUT;3;SG;N;NOM	_	_	_	_
+19	தர	தரு	_	_	NFIN;V;POS;ACT	_	_	_	_
+20	உத்தரவிட	உத்தரவிடு	_	_	NFIN;V;POS;ACT	_	_	_	_
+21	முடியாது	முடி	_	_	NEUT;3;SG;V;IND;FIN;NEG	_	_	_	_
+22	என்று	என்	_	_	NFIN;POS;PART	_	_	_	_
+23	நீதிபதிகள்	நீதிபதி	_	_	ANIM;3;N;NOM;PL;MASC+FEM	_	_	_	_
+24	உறுதிபடத்	உறுதிபடு	_	_	NFIN;V;POS;ACT	_	_	_	_
+25	தெரிவித்தனர்	தெரிவி	_	_	ACT;3;POS;PST;PL;V;MASC+FEM;IND;FIN;FORM	_	_	_	_
+26	.	.	_	_	_	_	_	_	_
+

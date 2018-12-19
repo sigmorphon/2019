@@ -1,0 +1,3133 @@
+# sent_id = panc1.s13
+# text = अप्रयुज्यमानः प्रयोजनः उत्पत्तिः तुल्यः अप्राप्तस्य इति।
+# translit = aprayujyamānaḥ prayojanaḥ utpattiḥ tulyaḥ aprāptasya iti.
+# orig = panchatantra.conllu sent_id 60
+# ptext = a pra yujyamAnaH prayojana utpatt tulyaH a pra Aptasya iti
+# ryder = Money unemployed when opportunities arise, is the same as money unpossessed.
+1	अप्रयुज्यमानः	प्र-युज्	_	_	V;NEG;SG;PASS;MASC;PRS;NOM;V.PTCP	_	_	_	_
+2	प्रयोजनः	प्रयोजनस्	_	_	N;NEUT;NOM;SG	_	_	_	_
+3	उत्पत्तिः	उत्पत्ति	_	_	N;NOM;SG;FEM	_	_	_	_
+4	तुल्यः	तुल्	_	_	V;SG;PASS;MASC;NOM;V.PTCP;FUT	_	_	_	_
+5	अप्राप्तस्य	प्राप्त	_	_	NEG;SG;PST;PASS;MASC;V.PTCP;ADJ;GEN	_	_	_	_
+6	इति	इति	_	_	ADV	_	_	_	_
+7	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc0.s15c
+# text = ततो यथा मम मनोरथाः सिद्धिं यान्ति तथानुष्ठीयतामिति।
+# translit = tato yathā mama manorathāḥ siddhiṁ yānti tathānuṣṭhīyatāmiti.
+# text_fr = Aussi, que mes souhaits se réalisent ! Et vite !
+# text_en = Thus, let my wish reach its fulfilment, so be it.
+1	ततो	तद्	_	_	ADV	_	_	_	_
+2	यथा	यथा	_	_	ADV	_	_	_	_
+3	मम	अस्मद्	_	_	SG;1;PRO;GEN	_	_	_	_
+4	मनोरथाः	मनोरथ	_	_	N;PL;NOM;MASC	_	_	_	_
+5	सिद्धिं	सिद्धि	_	_	N;FEM;SG;ACC	_	_	_	_
+6	यान्ति	या	_	_	V;IND;ACT;3;PRS;PL;FIN	_	_	_	_
+7	तथा	तथा	_	_	ADV	_	_	_	_
+8	अनुष्ठीयताम्	अनु-स्था	_	_	V;SG;PASS;3;IMP;FIN	_	_	_	_
+9	इति	इति	_	_	ADV	_	_	_	_
+10	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc0.s24
+# text = उक्तं च यतः
+# translit = uktaṁ ca yataḥ
+# ptext = uktam ca yataH
+# orig = panchatantra.conllu sent_id 24
+# text_fr = Ainsi, ne dit-on pas :
+# text_en = And it is said
+# ryder = There is a proverb that says:
+1	उक्तं	वच	_	_	V;SG;PST;PASS;NOM;V.PTCP;NEUT	_	_	_	_
+2	च	च	_	_	CONJ	_	_	_	_
+3	यतः	यतः	_	_	ADV	_	_	_	_
+
+# sent_id = panc1.s58
+# text = दैववशात् उपपन्ने सति विभवे यस्य न अस्ति भोगः इच्छा न च परलोके समीहे स भवति धनपालकः मूर्खः।
+# The following verses appear in the Wikisource edition but they have been skipped in our corpus.
+# We may add their annotation in the future though.
+# Wikisource: पण्यानां गांधिकं पण्यं किम् अन्यैः काञ्चनादिभिः। यत्रैकेन च यत् क्रीतं तच् छतेन प्रदीयते॥पञ्च_१.१३॥
+# Wtranslit: paṇyānāṁ gāṁdhikaṁ paṇyaṁ kim anyaiḥ kāñcanādibhiḥ. yatraikena ca yat krītaṁ tac chatena pradīyate:pañca_1.13:
+# Wikisource: निक्षेपे पतिते हर्म्ये श्रेष्ठी स्तौति स्वदेवताम्। निक्षेपी म्रियते तुभ्यं प्रदास्याम्य् उपयाचितम्॥पञ्च_१.१४॥
+# Wtranslit: nikṣepe patite harmye śreṣṭhī stauti svadevatām. nikṣepī mriyate tubhyaṁ pradāsyāmy upayācitam:pañca_1.14:
+# Wikisource: गोष्ठिककर्मनियुक्तः श्रेष्ठी चिंतयति चेतसा हृष्टः। वसुधा वसुसंपूर्णा मयाद्य लब्धा किम् अन्येन॥पञ्च_१.१५॥
+# Wtranslit: goṣṭhikakarmaniyuktaḥ śreṣṭhī ciṁtayati cetasā hr̥ṣṭaḥ. vasudhā vasusaṁpūrṇā mayādya labdhā kim anyena:pañca_1.15:
+# Wikisource: परिचितम् आगच्छंतं ग्राहकम् उत्कंठ्या विलोकयासौ। हृष्यति तद्धनलब्धो यद्वत् पुत्रेण जातेन॥पञ्च_१.१६॥
+# Wtranslit: paricitam āgacchaṁtaṁ grāhakam utkaṁṭhyā vilokayāsau. hr̥ṣyati taddhanalabdho yadvat putreṇa jātena:pañca_1.16:
+# Wikisource: अन्यं च पूर्णापूर्णे माने परिचितजनवञ्चनं तथा नित्यम्। मिथ्याक्रयस्य कथनं प्रकृतिर् इयं स्यात् किरातानाम्॥पञ्च_१.१७॥
+# Wtranslit: anyaṁ ca pūrṇāpūrṇe māne paricitajanavañcanaṁ tathā nityam. mithyākrayasya kathanaṁ prakr̥tir iyaṁ syāt kirātānām:pañca_1.17:
+# Wikisource: द्विगुणं त्रिगुणं वित्तं भांडक्रयविचक्षणाः। प्राप्नुवंत्य् उद्यमाल् लोका दूरदेशांतरं गताः॥पञ्च_१.१८॥
+# Wtranslit: dviguṇaṁ triguṇaṁ vittaṁ bhāṁḍakrayavicakṣaṇāḥ. prāpnuvaṁty udyamāl lokā dūradeśāṁtaraṁ gatāḥ:pañca_1.18:
+# Complementarily, the panchatantra.conllu file contains the following three verses that do not appear in Wikisource:
+# panchatantra.conllu s63: upa arjitAnAm arTAnAm tyAgaH eva hi rakzaRam taqAga udara saMsTAnAm parI vAhaH iva amBasAm
+# Ryder: Release the money you have earned; / So keep it safely still: / The surplus water of a tank / Must find a way to spill.
+# panchatantra.conllu s64: arTEH arTAH ni baDyante gajEH iva mahA gajAH na hi an arTavatA Sakyam vARijyam kartum IhayA
+# Ryder: Wild elephants are caught by tame; / With capital it is the same: / In business, beggars have no scope / Whose stock-in-trade is empty hope.
+#
+# translit = daivavaśāt upapanne sati vibhave yasya na asti bhogaḥ icchā na ca paraloke samīhe sa bhavati dhanapālakaḥ mūrkhaḥ.
+# orig = panchatantra.conllu sent_id 65
+# ptext = dEva vaSAt upa panne sati viBave yasya na asti Boga icCAH na ca para loka sam IhA sa Bavati Dana pAlakaH mUrKaH
+# ryder = If any fail to use his fate / For joy in this or future state, / His riches serve as foolish fetters; / He simply keeps them for his betters."
+# upapanne sati vibhave = Locative absolute
+1	दैव	दैव	_	_	ADJ	_	_	_	_
+2	वशात्	वश	_	_	N;SG;MASC;AT+ABL	_	_	_	_
+3	उपपन्ने	उप-पद	_	_	V;PST;SG;PASS;ESS;MASC;V.PTCP	_	_	_	_
+4	सति	सत्	_	_	N;SG;MASC;ESS	_	_	_	_
+5	विभवे	विभव	_	_	N;SG;MASC;ESS	_	_	_	_
+6	यस्य	यद्	_	_	SG;PRO;MASC;GEN	_	_	_	_
+7	न	न	_	_	NEG;PART	_	_	_	_
+8	अस्ति	अस्	_	_	V;SG;IND;ACT;3;PRS;FIN	_	_	_	_
+9	भोगः	भोग	_	_	N;NOM;MASC;SG	_	_	_	_
+10	इच्छा	इच्छा	_	_	N;NOM;SG;FEM	_	_	_	_
+11	न	न	_	_	NEG;PART	_	_	_	_
+12	च	च	_	_	CONJ	_	_	_	_
+13	पर	पर	_	_	ADJ	_	_	_	_
+14	लोके	लोक	_	_	N;SG;MASC;ESS	_	_	_	_
+15	समीहे	समीह्	_	_	V;MID;SG;IND;3;PFV;FIN	_	_	_	_
+16	स	तद्	_	_	SG;MASC;NOM;DET	_	_	_	_
+17	भवति	भू	_	_	V;SG;IND;ACT;3;PRS;FIN	_	_	_	_
+18	धन	धन	_	_	N	_	_	_	_
+19	पालकः	पालक	_	_	N;NOM;MASC;SG	_	_	_	_
+20	मूर्खः	मूर्ख	_	_	N;NOM;MASC;SG	_	_	_	_
+21	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc5.s156
+# text = प्रातः स्वचक्रेण नारायणः भवच्छत्रुसैन्यं व्यापादयिष्यति।
+# translit = prātaḥ svacakreṇa nārāyaṇaḥ bhavacchatrusainyaṁ vyāpādayiṣyati.
+# orig = panchatantra.conllu sent_id 1287
+# ryder = In the morning Vishnu will slay the host of your enemies with his discus.'"
+1	प्रातः	प्रातर्	_	_	ADV	_	_	_	_
+2	स्वचक्रेण	स्वचक्र	_	_	N;INS;SG;MASC	_	_	_	_
+3	नारायणः	नारायण	_	_	MASC;NOM;PROPN;SG	_	_	_	_
+4	भवत्	भवत्	_	_	PRO;FORM;3	_	_	_	_
+5	शत्रु	शत्रु	_	_	N	_	_	_	_
+6	सैन्यम्	सैन्य	_	_	N;NEUT;SG;ACC	_	_	_	_
+7	व्यापादयिष्यति	व्या-पद्	_	_	V;SG;IND;3;{ACT/CAUS};FIN;FUT	_	_	_	_
+8	।	।	_	_	_	_	_	_	_
+
+# newpar id = panc0.p12
+# sent_id = panc0.s16
+# text = तत्रैकः सचिवः प्रोचुः
+# translit = tatraikaḥ sacivaḥ procuḥ
+# ptext = atra ekEkaSaH pra UcuH
+# wtext = तत्रैकः प्रोवाच -
+# wtranslit = tatraikaḥ provāca -
+# wsid = ॥०.६॥
+# orig = panchatantra.conllu sent_id 16
+# text_fr = Alors l’un d’eux intervint :
+# text_en = Then one minister said
+# ryder = And they, one after another, replied:
+1	तत्र	तत्र	_	_	ADV	_	_	_	_
+2	एकः	एक	_	_	SG;MASC;NOM;NUM	_	_	_	_
+3	सचिवः	सचिव	_	_	N;NOM;MASC;SG	_	_	_	_
+4	प्रोचुः	प्र-वच्	_	_	V;PST;IND;ACT;3;PL;PFV;FIN	_	_	_	_
+
+# sent_id = panc0.s41
+# text = यद्यहं षड्मासाभ्यन्तरे तव पुत्रान्नयशास्त्रं प्रत्यनन्यसदृशान्न करिष्यामि ततो नार्हति देवो देवमार्गसंदर्शयितुम्।”
+# translit = yadyahaṁ ṣaḍmāsābhyantare tava putrānnayaśāstraṁ pratyananyasadr̥śānna kariṣyāmi tato nārhati devo devamārgasaṁdarśayitum.”
+# ptext = yat aham zaw mAsa aByantare tava putrAn nIti SAstram pratI an anu a sadfSAn na karomi tataH arhati me devaH deva mArgam sam darSayitum iti
+# orig = panchatantra.conllu sent_id 41
+# text_fr = « Si, en l’espace de six mois, je ne réussis pas à rendre vos fils exceptionnels dans l’art de la gouvernance, et à leur apprendre le traité de Naya-Shastra, alors je ne mériterai ni la grâce de Dieu ni ne serai digne de montrer la voie sacrée qui mène vers Lui ! »
+# text_en = If within an interval of six month I will not make your sons similar to no one in Nayashastra, the king won't be required to show me the way of the gods.
+# ryder = If I fail to render your sons, in six months' time, incomparable masters of the art of intelligent living, then His Majesty is at liberty to show me His Majestic bare bottom."
+1	यदि	यदि	_	_	CONJ	_	_	_	_
+2	अहम्	अस्मद्	_	_	SG;1;PRO;NOM	_	_	_	_
+3	षट्	षष्	_	_	NUM	_	_	_	_
+4	मास	मास्	_	_	N	_	_	_	_
+5	अभ्यन्तरे	अभ्यन्तर	_	_	N;NEUT;SG;ESS	_	_	_	_
+6	तव	युष्मद्	_	_	SG;PRO;2;GEN	_	_	_	_
+7	पुत्रान्	पुत्र	_	_	N;PL;MASC;ACC	_	_	_	_
+8	नयशास्त्रं	नयशास्त्र	_	_	N;NEUT;SG;ACC	_	_	_	_
+9	प्रति	प्रति	_	_	ADP	_	_	_	_
+10	अनन्य	अनन्य	_	_	N	_	_	_	_
+11	सदृशान्	सदृश	_	_	MASC;PL;ACC;ADJ	_	_	_	_
+12	न	न	_	_	NEG;PART	_	_	_	_
+13	करिष्यामि	कृ	_	_	V;SG;1;IND;ACT;FIN;FUT	_	_	_	_
+14	ततो	तद्	_	_	ADV	_	_	_	_
+15	न	न	_	_	NEG;PART	_	_	_	_
+16	अर्हति	अर्ह्	_	_	V;SG;IND;ACT;3;PRS;FIN	_	_	_	_
+17	देवो	देव	_	_	N;NOM;MASC;SG	_	_	_	_
+18	देव	देव	_	_	N	_	_	_	_
+19	मार्ग	मार्ग्	_	_	N;NOM;MASC;SG	_	_	_	_
+20	संदर्शयितुम्	सं-दृश्	_	_	V;NFIN;CAUS	_	_	_	_
+21	।	।	_	_	_	_	_	_	_
+22	”	"	_	_	_	_	_	_	_
+
+# newpar id = panc5.p102
+# sent_id = panc5.s182
+# text = पिङ्गलकः आह
+# translit = piṅgalakaḥ āha
+# orig = panchatantra.conllu sent_id 1437
+# ryder = asked Rusty.
+1	पिङ्गलकः	पिङ्गलक	_	_	MASC;NOM;PROPN;SG	_	_	_	_
+2	आह	अह्	_	_	V;SG;IND;ACT;3;PFV;FIN	_	_	_	_
+
+# sent_id = panc1.s10
+# text = अतः प्रभूना द्रव्येण तस्य एव वृद्धिः करणीया।
+# translit = ataḥ prabhūnā dravyeṇa tasya eva vr̥ddhiḥ karaṇīyā.
+# ptext = ataH praBUnA api dravyeRa tasya eva vfdDiH karaRIyA
+# orig = panchatantra.conllu sent_id 57
+# ryder = Hence, even though money be abundant, it should be increased.
+1	अतः	अतस्	_	_	ADV	_	_	_	_
+2	प्रभूना	प्रभु	_	_	INS;SG;MASC;ADJ	_	_	_	_
+3	द्रव्येण	द्रव्य	_	_	N;INS;SG;MASC	_	_	_	_
+4	तस्य	तद्	_	_	SG;PRO;MASC;3;GEN	_	_	_	_
+5	एव	एव	_	_	ADV	_	_	_	_
+6	वृद्धिः	वृद्धि	_	_	N;NOM;SG;FEM	_	_	_	_
+7	करणीया	करणीय	_	_	V;SG;PASS;NOM;V.PTCP;FEM;FUT	_	_	_	_
+8	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc0.s11
+# text = अथवा साध्विदम् उच्यते -
+# translit = athavā sādhvidam ucyate -
+# ptext = अथवा साधू इदम् उच्यते
+# ptranslit = athavā sādhū idam ucyate
+# wsid = ॥०.३॥
+# orig = panchatantra.conllu sent_id 11
+# text_fr = Les sâdhus disent bien :
+# text_en = For it is said by the sadhus:
+# ryder = For there is wisdom in the proverb:
+1	अथवा	अथवा	_	_	ADV	_	_	_	_
+2	साधु	साधु	_	_	N;NEUT;NOM;SG	_	_	_	_
+3	इदम्	इदम्	_	_	SG;PRO;NOM;NEUT	_	_	_	_
+4	उच्यते	वच्	_	_	V;SG;IND;PASS;3;PRS;FIN	_	_	_	_
+5	-	-	_	_	_	_	_	_	_
+
+# newpar id = panc1.p87
+# sent_id = panc1.s210
+# text = सः अब्रवीत्
+# translit = saḥ abravīt
+# wtext = सो ब्रवीत्
+# wtranslit = so bravīt
+# orig = panchatantra.conllu sent_id 160
+# ptext = saH abravIt
+# ryder = said Victor.
+1	सः	तद्	_	_	SG;PRO;MASC;NOM	_	_	_	_
+2	अब्रवीत्	ब्रू	_	_	V;SG;IND;ACT;3;IPFV;FIN	_	_	_	_
+
+# sent_id = panc5.s120
+# text = तस्मात् गृहाणैतत्।
+# translit = tasmāt gr̥hāṇaitat.
+# orig = panchatantra.conllu sent_id 1205
+# ryder = It is yours.
+1	तस्मात्	तद्	_	_	SG;PRO;AT+ABL;NEUT	_	_	_	_
+2	गृहाण	ग्रह्	_	_	V;SG;ACT;PRS;IMP;FIN;2	_	_	_	_
+3	एतत्	एतद्	_	_	SG;ACC;PRO;NEUT	_	_	_	_
+4	।	।	_	_	_	_	_	_	_
+
+# # newpar id = panc0.p3
+# sent_id = panc0.s2c
+# text = ब्रह्मा रुद्रः कुमारो हरिवरुणयमा वह्निरिद्रः कुबेरः चन्द्रादित्यौ सरस्वत्यदधियुगनगा वायुरुर्वीभुजङ्गाः।
+# translit = brahmā rudraḥ kumāro harivaruṇayamā vahniridraḥ kuberaḥ candrādityau sarasvatyadadhiyuganagā vāyururvībhujaṅgāḥ .
+# text_fr = J’en appelle à Brahmā, créateur du monde, À Rudra, destructeur du monde, À Kumāra, premier fils de Shiva, dieu de la guerre, À Hari, protecteur du monde, À Varuṇa, dieu des océans, À Yamā, dieu de la mort, À Vahni, dieu du feu, À Indra, roi des dieux, maître du ciel, À Kubera, dieu des richesses de la terre ; J’en appelle à Chandra, la lune, et à Aditya, le soleil, À Sarasvatī, déesse de la sagesse, de la parole sacrée et de la science, Aux océans, Aux âges du monde, yuga, À la montagne, nagā, Au vent, vayu, À la terre, urvi, Et aux serpents, bhujanga ;
+1	ब्रह्मा	ब्रह्मन्	_	_	MASC;NOM;PROPN;SG	_	_	_	_
+2	रुद्रः	रुद्र	_	_	MASC;NOM;PROPN;SG	_	_	_	_
+3	कुमारो	कुमार	_	_	MASC;NOM;PROPN;SG	_	_	_	_
+4	हरि	हरि	_	_	PROPN	_	_	_	_
+5	वरुण	वरुण	_	_	PROPN	_	_	_	_
+6	यमा	यमा	_	_	MASC;NOM;PROPN;SG	_	_	_	_
+7	वह्निः	वह्नि	_	_	MASC;NOM;PROPN;SG	_	_	_	_
+8	इद्रः	इन्द्र	_	_	MASC;NOM;PROPN;SG	_	_	_	_
+9	कुबेरः	कुबेर	_	_	MASC;NOM;PROPN;SG	_	_	_	_
+10	चन्द्र	चन्द्र	_	_	PROPN	_	_	_	_
+11	आदित्यौ	आदित्य	_	_	MASC;NOM;DU;PROPN	_	_	_	_
+12	सरस्वती	सरस्वती	_	_	PROPN	_	_	_	_
+13	अदधि	अदधि	_	_	_	_	_	_	_
+14	युग	युग	_	_	N	_	_	_	_
+15	नगा	नग	_	_	N;PL;NOM;MASC	_	_	_	_
+16	वायुः	वायु	_	_	N;NOM;MASC;SG	_	_	_	_
+17	उर्वी	उर्वी	_	_	N	_	_	_	_
+18	भुजङ्गाः	भुजङ्ग	_	_	N;PL;NOM;MASC	_	_	_	_
+19	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc5.s128
+# text = तेनाभिहितम्।
+# translit = tenābhihitam.
+# orig = panchatantra.conllu sent_id 1216
+# ryder = And he continued:
+1	तेन	तद्	_	_	SG;PRO;MASC;INS	_	_	_	_
+2	अभिहितम्	अभि-धा	_	_	V;SG;PST;PASS;NOM;V.PTCP;NEUT	_	_	_	_
+3	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc5.s130
+# text = त्वाम् अहम् गान्धर्वेण विवाहेन विवाहयामि।
+# translit = tvām aham gāndharveṇa vivāhena vivāhayāmi.
+# orig = panchatantra.conllu sent_id 1219
+# ryder = I will now wed you by the ceremony used in heaven.
+1	त्वाम्	त्वद्	_	_	SG;ACC;PRO;2	_	_	_	_
+2	अहम्	अहम्	_	_	SG;1;PRO;NOM	_	_	_	_
+3	गान्धर्वेण	गान्धर्व	_	_	INS;SG;MASC;ADJ	_	_	_	_
+4	विवाहेन	विवाह	_	_	N;INS;SG;MASC	_	_	_	_
+5	विवाहयामि	वि-वह्	_	_	V;SG;1;IND;PRS;{ACT/CAUS};FIN	_	_	_	_
+6	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc0.s38
+# text = नाऽहमर्थलिप्सुर्ब्रवीमि।
+# translit = nā’hamarthalipsurbravīmi.
+# ptext = na aham arTa lipsuH bravImi na ca me aSIti varzasya vi A vftta sarva indriya arTasya kiYcit arTena prayojanam
+# orig = panchatantra.conllu sent_id 38
+# text_fr = « Je n’ai aucune pensée cupide de richesses.
+# ryder = My boasting arises from no greed for cash.
+1	न	न	_	_	NEG;PART	_	_	_	_
+2	अहम्	अस्मद्	_	_	SG;1;PRO;NOM	_	_	_	_
+3	अर्थ	अर्थ	_	_	N	_	_	_	_
+4	लिप्सुः	लिप्सु	_	_	N;NOM;MASC;SG	_	_	_	_
+5	ब्रवीमि	ब्रू	_	_	V;SG;1;IND;ACT;PRS;FIN	_	_	_	_
+6	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc5.s135
+# text = देवः अत्र प्रमाणम्।
+# translit = devaḥ atra pramāṇam.
+# orig = panchatantra.conllu sent_id 1230
+# ryder = The king, the king alone is prime mover."
+1	देवः	देव	_	_	N;NOM;MASC;SG	_	_	_	_
+2	अत्र	अत्र	_	_	ADV	_	_	_	_
+3	प्रमाणम्	प्रमाण	_	_	N;NEUT;NOM;SG	_	_	_	_
+4	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc5.s175
+# text = भद्र मैवं वोचः।
+# translit = bhadra maivaṁ vocaḥ.
+# text_en = Dear fellow, do not speak this way.
+# orig = panchatantra.conllu sent_id 1413
+# ryder = "My good fellow, pray do not say such things.
+1	भद्र	भद्र	_	_	N;MASC;SG;VOC	_	_	_	_
+2	मा	मा	_	_	NEG;PART	_	_	_	_
+3	एवम्	एवम्	_	_	ADV	_	_	_	_
+4	वोचः	वच्	_	_	V;IMP;SG;ACT;FIN;2	_	_	_	_
+5	।	।	_	_	_	_	_	_	_
+
+# newpar id = panc1.p43
+# sent_id = panc1.s120
+# text = अतो'हं ब्रवीमि
+# wtext = एकश् च तेषां प्रत्यासन्नमृत्युश् चापल्यात् तस्मिन्न् अर्धस्फोटितस्तंभे उपविश्य पाणिभ्यां कीलकं संगृह्य यावद् उत्पादयितुम् आरेभे तावत् तस्य स्तंभमध्यगतवृषणस्य स्वस्थानाच् चलितकीलकेन यद् वृत्तं तत् प्राग् एव निवेदितम्।
+# wtranslit = ekaś ca teṣāṁ pratyāsannamr̥tyuś cāpalyāt tasminn ardhasphoṭitastaṁbhe upaviśya pāṇibhyāṁ kīlakaṁ saṁgr̥hya yāvad utpādayitum ārebhe tāvat tasya staṁbhamadhyagatavr̥ṣaṇasya svasthānāc calitakīlakena yad vr̥ttaṁ tat prāg eva niveditam.
+# ptext(116) = tatra ekaH ca A sanna vinASaH cApalAt upa viSya stamBe kena ayam a sTAne kIlakaH ni KAtaH iti pARiByAm sam gfhya ut pAwayitum A rabDaH
+# ryder(116) = Then one of them, whose doom was near, thoughtlessly bestrode the log, thinking: "Who stuck a wedge in this queer place?" So he seized it with both hands and started to work it loose.
+# ptext(117) = arDa sPAwita antara pra vizwa vfzaRa sTAnAt calita kIlakena yat vfttam tat BavatA vyA KyAtam api viditam iti
+# ryder(117) = Now what happened when the wedge gave at the spot where his private parts entered the cleft, that, sir, you know without being told.
+#
+# translit = ato'haṁ bravīmi
+# wtext = अतोऽहं ब्रवीमि अव्यापारेषु इति।
+# wtranslit = ato’haṁ bravīmi avyāpāreṣu iti.
+# orig = panchatantra.conllu sent_id 118
+# ptext = ataH aham bravImi
+# ryder = "And that is why I say
+1	अतः	अतः	_	_	ADV	_	_	_	_
+2	अहं	अहम्	_	_	SG;1;PRO;NOM	_	_	_	_
+3	ब्रवीमि	ब्रु	_	_	V;SG;1;IND;ACT;PRS;FIN	_	_	_	_
+
+# sent_id = s62
+# text = समये न आगतः ततः प्रवेशपरीक्षायाम् न अनुमतः।
+# translit = samaye na āgataḥ tataḥ praveśaparīkṣāyām na anumataḥ.
+# text_en = I didn't come in time, so I was not let in.
+1	समये	समय	_	_	N;SG;MASC;ESS	_	_	_	_
+2	न	न	_	_	NEG;PART	_	_	_	_
+3	आगतः	आ-गम्	_	_	V;SG;PST;PASS;MASC;NOM;V.PTCP	_	_	_	_
+4	ततः	ततः	_	_	ADV	_	_	_	_
+5	प्रवेश	प्रवेश	_	_	N	_	_	_	_
+6	परीक्षायाम्	परीक्षा	_	_	N;SG;FEM;ESS	_	_	_	_
+7	न	न	_	_	NEG;PART	_	_	_	_
+8	अनुमतः	अनु-मन्	_	_	V;SG;PST;PASS;MASC;NOM;V.PTCP	_	_	_	_
+9	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc1.s162
+# text = अपृष्टः अत्र अप्रधानः यः ब्रूते राज्ञः पुरः कुधीः।
+# wparagraph
+# wtext = अप्रकटीकृतशक्तिः शक्तोऽपि जनस् तिरस्क्रियां लभते। निवसन्न् अंतर्दारुणि लंघ्यो वह्निर् न तु ज्वलितः॥पञ्च_१.३२॥
+# wtranslit = aprakaṭīkr̥taśaktiḥ śakto’pi janas tiraskriyāṁ labhate. nivasann aṁtardāruṇi laṁghyo vahnir na tu jvalitaḥ:pañca_1.32:
+# pparagraph
+# ptext(134) = guru Sakawa Duram DaraH tfRa ASI sama vizamezu ca lANgala Apa karzI jagat upakaraRam pavitra yoniH nara paSunA kim u mIyate gava indraH
+# ryder(134) = Since cattle draw the plow // Through rough and level soil, // And bend their patient necks // To heavy wagons' toil, // Are kind, of sinless birth, // And find in grass a feast, // How can they be compared // With any human beast?"
+# wparagraph
+# wtext = करटक आह आवां तावद् अप्रधानौ तत् किम् आवयोर् अनेन व्यापरेण।
+# wtranslit = karaṭaka āha āvāṁ tāvad apradhānau tat kim āvayor anena vyāpareṇa.
+# pparagraph
+# ptext(135) = karawakaH Aha
+# ryder(135) = said Cheek,
+# ptext(136) = AvAm tAvat a praDAnO
+# ryder(136) = "But at present, we two hold no job at court.
+# ptext(137) = kim anena vyApAreRa
+# ryder(137) = So why meddle?"
+# ptext(138) = saH abravIt
+# ryder(138) = said Victor,
+# ptext(139) = Badra kiyatA api kAlena praDAnaH a praDAnaH api Bavati
+# ryder(139) = "My dear fellow, after a little the jobless man does hold a job.
+# wparagraph
+# wtext = उक्तं च
+#
+# translit = apr̥ṣṭaḥ atra apradhānaḥ yaḥ brūte rājñaḥ puraḥ kudhīḥ.
+# wtext = अपृष्टोऽत्राप्रधानो यो ब्रूते राज्ञः पुरः कुधीः। न केवलम् असम्मानं लभते च विडंबनम्॥पञ्च_१.३३॥
+# wtranslit = apr̥ṣṭo’trāpradhāno yo brūte rājñaḥ puraḥ kudhīḥ. na kevalam asammānaṁ labhate ca viḍaṁbanam:pañca_1.33:
+# wsid = ॥१.३३॥
+# text_en = Disregarded is who says that the king is stupid.
+1	अपृष्टः	अ-प्रश	_	_	V;SG;PST;PASS;MASC;NOM;V.PTCP	_	_	_	_
+2	अत्र	अत्र	_	_	ADV	_	_	_	_
+3	अप्रधानः	अप्रधान	_	_	MASC;NOM;SG;ADJ	_	_	_	_
+4	यः	यद्	_	_	SG;PRO;MASC;NOM	_	_	_	_
+5	ब्रूते	ब्रू	_	_	V;MID;SG;IND;3;PRS;FIN	_	_	_	_
+6	राज्ञः	राजन्	_	_	N;SG;MASC;AT+ABL	_	_	_	_
+7	पुरः	पुरस्	_	_	ADP	_	_	_	_
+8	कुधीः	कुधी	_	_	MASC;ACC;SG;ADJ	_	_	_	_
+9	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc5.s144
+# text = तत् सिद्धाः अस्माकम् सर्वे हृदयस्था मनोरथाः।
+# translit = tat siddhāḥ asmākam sarve hr̥dayasthā manorathāḥ.
+# orig = panchatantra.conllu sent_id 1255
+# ryder = All the desires nearest our hearts are granted.
+1	तत्	तद्	_	_	SG;PRO;3;NOM;NEUT	_	_	_	_
+2	सिद्धाः	सिद्ध	_	_	N;PL;NOM;MASC	_	_	_	_
+3	अस्माकम्	अहम्	_	_	1;PRO;PL;GEN	_	_	_	_
+4	सर्वे	सर्व	_	_	MASC;NOM;PL;DET	_	_	_	_
+5	हृदय	हृदय	_	_	N	_	_	_	_
+6	स्था	स्थ	_	_	MASC;PL;NOM;ADJ	_	_	_	_
+7	मनो	मनस्	_	_	N	_	_	_	_
+8	रथाम्	रथ	_	_	N;PL;NOM;MASC	_	_	_	_
+9	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc0.s34
+# text = नाहं विद्याविक्रयं करोमि शासनशतेन।
+# translit = nāhaṁ vidyāvikrayaṁ karomi śāsanaśatena.
+# wtext = नाहं विद्याविक्रयं शासनशतेनापि करोमि।
+# wtranslit = nāhaṁ vidyāvikrayaṁ śāsanaśatenāpi karomi.
+# wsid = ॥०.७॥
+# orig = panchatantra.conllu sent_id 34
+# text_fr = Je ne vends pas la connaissance, ni ne souhaite gouverner cent villages.
+# ryder = I am not the man to sell good learning for a hundred land-grants.
+1	न	न	_	_	NEG;PART	_	_	_	_
+2	अहम्	अहम्	_	_	SG;1;PRO;NOM	_	_	_	_
+3	विद्या	विद्यविक्रय	_	_	N	_	_	_	_
+4	विक्रयं	विक्रय	_	_	N;SG;MASC;ACC	_	_	_	_
+5	करोमि	कृ	_	_	V;SG;1;IND;ACT;PRS;FIN	_	_	_	_
+6	शासन	शासन	_	_	N	_	_	_	_
+7	शतेन	शत	_	_	SG;INS;NEUT;NUM	_	_	_	_
+8	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc1.s84
+# text = सञ्जीवकस्य गम्भीरतररावम् दूरादेवाशृणोत्।
+# translit = sañjīvakasya gambhīratararāvam dūrādevāśr̥ṇot.
+# orig = panchatantra.conllu sent_id 83
+# ptext = sa ca saYjIvakasya mahAntam garjita Sabdam aSfRot tam ca SrutvA atIva kzuBita hfdayaH svakIyam AkAram pra CAdya maRqala vawasya aDastAt catur maRqala avasTAnena ava sTitaH
+# ryder = There he heard Lively's prodigious bellow. The sound troubled his heart exceedingly, but he concealed his inner feelings while beneath a spreading banyan tree he drew up his company in what is called the Circle of Four.
+1	सञ्जीवकस्य	सञ्जिवक	_	_	MASC;GEN;PROPN;SG	_	_	_	_
+2	गम्भीर	गम्भीर	_	_	ADJ	_	_	_	_
+3	तर	तर	_	_	ADJ	_	_	_	_
+4	रावम्	राव	_	_	N;SG;MASC;ACC	_	_	_	_
+5	दूर	दूर	_	_	ADJ	_	_	_	_
+6	आशृणोत्	आ-श्रु	_	_	V;SG;IND;ACT;3;IPFV;FIN	_	_	_	_
+7	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc0.s18
+# text = एवञ्च ततो धर्मार्थकामशास्त्राणि ज्ञायन्ते।
+# translit = evañca tato dharmārthakāmaśāstrāṇi jñāyante.
+# ptext = tat yadi kaTam api jYAyate tataH Darma arTa SAstrARi jYAyante
+1	एवम्	एवम्	_	_	ADV	_	_	_	_
+2	च	च	_	_	CONJ	_	_	_	_
+3	ततो	तद्	_	_	ADV	_	_	_	_
+4	धर्म	धर्मा	_	_	PROPN	_	_	_	_
+5	अर्थ	अर्थ	_	_	PROPN	_	_	_	_
+6	कामशास्त्राणि	कामशास्त्र	_	_	PL;NEUT;PROPN;ACC	_	_	_	_
+7	ज्ञायन्ते	ज्ञा	_	_	V;IND;PASS;3;PRS;PL;FIN	_	_	_	_
+8	।	।	_	_	_	_	_	_	_
+
+# sent_id = s61
+# text = प्रथमम् अहम् शृणोमि अथ लिखामि।
+# translit = prathamam aham śr̥ṇomi atha likhāmi.
+# text_en = I first listen and then write.
+1	प्रथमम्	प्रथम	_	_	SG;ACC;ADJ;NEUT	_	_	_	_
+2	अहम्	अहम्	_	_	SG;1;PRO;NOM	_	_	_	_
+3	शृणोमि	स्णु	_	_	V;SG;1;IND;ACT;PRS;FIN	_	_	_	_
+4	अथ	अथ	_	_	ADV	_	_	_	_
+5	लिखामि	लिख्	_	_	V;SG;1;IND;ACT;PRS;FIN	_	_	_	_
+6	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc0.s31
+# text = अहम् त्वाम् शासनशतेन नियोजयिष्यामि।
+# translit = aham tvām śāsanaśatena niyojayiṣyāmi.
+# wtext = तदाहं त्वां शासनशतेन योजयिष्यामि।
+# wtranslit = tadāhaṁ tvāṁ śāsanaśatena yojayiṣyāmi.
+# wsid = ॥०.७॥
+# orig = panchatantra.conllu sent_id 31
+# text_fr = Je vous ferai alors chef de cent villages ! »
+# ryder = In return, I will bestow upon you a hundred land-grants."
+1	अहम्	अहम्	_	_	SG;1;PRO;NOM	_	_	_	_
+2	त्वाम्	त्वद्	_	_	SG;ACC;PRO;2	_	_	_	_
+3	शासन	शासन	_	_	N	_	_	_	_
+4	शतेन	शत	_	_	SG;INS;NEUT;NUM	_	_	_	_
+5	नियोजयिष्यामि	नि-युज्	_	_	V;SG;1;IND;{ACT/CAUS};FIN;FUT	_	_	_	_
+6	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc0.s39
+# text = किन्तु त्वत्प्रार्थनासिद्धर्थस्य सरस्वतीविनोदं करिष्यामि।
+# translit = kintu tvatprārthanāsiddharthasya sarasvatīvinodaṁ kariṣyāmi.
+# ptext = kim tu tvad prArTanA sidDi arTam sarasvatI vinodam karizyAmi
+# orig = panchatantra.conllu sent_id 39
+# text_fr = Mais afin de satisfaire à votre requête, je diffuserai des connaissances par jeu, en hommage à Sarasvatî, déesse de la sagesse.
+# ryder = But in order that your request may be granted, I will show a sporting spirit in reference to artistic matters.
+1	किन्तु	किन्तु	_	_	ADV	_	_	_	_
+2	त्वत्	त्वद्	_	_	PRO	_	_	_	_
+3	प्रार्थना	प्रार्थना	_	_	N	_	_	_	_
+4	सिद्धि	सिध	_	_	V;PST;PASS;V.PTCP	_	_	_	_
+5	अर्थस्य	अर्थ	_	_	N;GEN;SG;MASC	_	_	_	_
+6	सरस्वती	सरस्वती	_	_	PROPN	_	_	_	_
+7	विनोदं	विनोद	_	_	N;SG;MASC;ACC	_	_	_	_
+8	करिष्यामि	कृ	_	_	V;SG;1;IND;ACT;FIN;FUT	_	_	_	_
+9	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc1.s194
+# text = अयम् तावत् अस्मत्स्वामी भीतः मूढमनाः संतिष्ठते।
+# translit = ayam tāvat asmatsvāmī bhītaḥ mūḍhamanāḥ saṁtiṣṭhate.
+# wtext = अद्यास्मत्स्वामी पिंगलको भीतो भीतपरिवारश् च वर्तते।
+# wtranslit = adyāsmatsvāmī piṁgalako bhīto bhītaparivāraś ca vartate.
+# orig = panchatantra.conllu sent_id 148
+# ptext = ayam tAvat asmat svAmI BItaH BIta parivAraH ca mUQa manAH sam tizWate
+# ryder = "You see, our master is frightened, his servants are frightened, and he does not know what to do."
+1	अयम्	इदम्	_	_	SG;MASC;NOM;DET	_	_	_	_
+2	तावत्	तावत्	_	_	ADV	_	_	_	_
+3	अस्मत्	अहम्	_	_	1;PRO	_	_	_	_
+4	स्वामी	स्वामिन्	_	_	N;NOM;MASC;SG	_	_	_	_
+5	भीतः	भी	_	_	V;SG;PST;PASS;MASC;NOM;V.PTCP	_	_	_	_
+6	मूढ	मुह	_	_	V;PST;PASS;V.PTCP	_	_	_	_
+7	मनाः	मनस्	_	_	N;NOM;MASC;SG	_	_	_	_
+8	संतिष्ठते	सं-स्था	_	_	V;MID;SG;IND;3;PRS;FIN	_	_	_	_
+9	।	।	_	_	_	_	_	_	_
+
+# newpar id = panc0.p5
+# sent_id = panc0.s3
+# text = सकलार्थशास्त्रसारं जगति समालोक्य विष्णुशर्मेदम्। तन्त्रैः पञ्चभिः एतत् चकार सुमनोहरं शास्त्रम् ॥
+# translit = sakalārthaśāstrasāraṁ jagati samālokya viṣṇuśarmedam. tantraiḥ pañcabhiḥ etat cakāra sumanoharaṁ śāstram :
+# wtext = सकलार्थशास्त्रसारं जगति समालोक्य विष्णुशर्मेदम्। तन्त्रैः पञ्चभिरैतच्चकार सुममोहरं शास्त्रम् ॥
+# wtranslit = sakalārthaśāstrasāraṁ jagati samālokya viṣṇuśarmedam. tantraiḥ pañcabhiraitaccakāra sumamoharaṁ śāstram :
+# wsid = ॥०.२॥
+# orig = panchatantra.conllu sent_id 3
+# text_fr = Après avoir étudié et ressenti la quintessence du traité de l’Artha-shastra dans ce monde, Vishnu Sharma créa cette œuvre divisée en cinq livres, un traité très ludique.
+# ryder = One Vishnusharman, shrewdly gleaning / All worldly wisdom's inner meaning, / In these five books the charm compresses / Of all such books the world possesses.
+# Gérard Huet tags समालोक्य as absolutive, i.e. an indeclinable participle, in English literature often called gerund.
+# See also https://sanskritstudio.wordpress.com/2013/03/15/the-sanskrit-gerund/
+# Four degrees of pronouns: http://blog.practicalsanskrit.com/2010/12/four-degrees-of-pronouns-etad-idam-adas.html
+1	सकल	सकल	_	_	ADJ	_	_	_	_
+2	अर्थशास्त्र	अर्थशास्त्र	_	_	PROPN	_	_	_	_
+3	सारम्	सार	_	_	N;SG;MASC;ACC	_	_	_	_
+4	जगति	जगत्	_	_	N;NEUT;SG;ESS	_	_	_	_
+5	समालोक्य	समालोक्	_	_	V;V.CVB	_	_	_	_
+6	विष्णुशर्मा	विष्णुशर्मन्	_	_	MASC;NOM;PROPN;SG	_	_	_	_
+7	इदम्	इदम्	_	_	SG;MASC;NOM;DET	_	_	_	_
+8	।	।	_	_	_	_	_	_	_
+9	तन्त्रैः	तन्त्र	_	_	N;INS;NEUT;PL	_	_	_	_
+10	पञ्चभिः	पञ्चन्	_	_	INS;PL;NUM	_	_	_	_
+11	एतत्	एतद्	_	_	SG;ACC;PRO;NEUT	_	_	_	_
+12	चकार	कृ	_	_	V;SG;IND;ACT;3;PFV;FIN	_	_	_	_
+13	सुमनोहरं	सुमनोहर्	_	_	NEUT;ACC;SG;ADJ	_	_	_	_
+14	शास्त्रम्	शास्त्र	_	_	N;NEUT;SG;ACC	_	_	_	_
+15	॥	॥	_	_	_	_	_	_	_
+
+# sent_id = panc1.s42
+# text = तद् यथा गांधिकव्यवहारः, निक्षेपप्रवेशः, गोष्ठिककर्मपरिचितग्राहकागमः, मिथ्याक्रयकथनम्, कूटतुलामानम्, देशांतराद् भांडानयनं चेति।
+# translit = tad yathā gāṁdhikavyavahāraḥ, nikṣepapraveśaḥ, goṣṭhikakarmaparicitagrāhakāgamaḥ, mithyākrayakathanam, kūṭatulāmānam, deśāṁtarād bhāṁḍānayanaṁ ceti.
+1	तद्	तद्	_	_	SG;PRO;NOM;NEUT	_	_	_	_
+2	यथा	यथा	_	_	ADV	_	_	_	_
+3	गांधिक	गान्धिक	_	_	N	_	_	_	_
+4	व्यवहारः	व्यवहार	_	_	N;NOM;MASC;SG	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	निक्षेप	नि-क्षेप	_	_	N	_	_	_	_
+7	प्रवेशः	प्रवेश	_	_	N;NOM;MASC;SG	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	गोष्ठिक	गोष्ठिककर्मन्	_	_	N	_	_	_	_
+10	कर्म	कर्मन्	_	_	N	_	_	_	_
+11	परिचित	परि-चित्	_	_	PST;PASS;V.PTCP;ADJ	_	_	_	_
+12	ग्राहक	ग्राहक	_	_	N	_	_	_	_
+13	अगमः	आगम	_	_	N;NOM;MASC;SG	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	मिथ्या	मिथ्या	_	_	ADV	_	_	_	_
+16	आक्रय	मक्रय	_	_	N	_	_	_	_
+17	कथनम्	कथन	_	_	N;NEUT;NOM;SG	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	कूट	कूट	_	_	ADJ	_	_	_	_
+20	तुला	तुला	_	_	N	_	_	_	_
+21	मानम्	मान	_	_	N;NEUT;NOM;SG	_	_	_	_
+22	,	,	_	_	_	_	_	_	_
+23	देशांतराद्	देशान्तर	_	_	N;NEUT;SG;AT+ABL	_	_	_	_
+24	भांड	भाण्ड	_	_	N	_	_	_	_
+25	आनयनं	आनयन	_	_	N;NEUT;NOM;SG	_	_	_	_
+26	च	च	_	_	CONJ	_	_	_	_
+27	इति	इति	_	_	ADV	_	_	_	_
+28	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc5.s157b
+# text = अवश्यम् प्रातः व्यापादयिष्यति प्रतिपक्षम्।
+# translit = avaśyam prātaḥ vyāpādayiṣyati pratipakṣam.
+# orig = panchatantra.conllu sent_id 1293
+# ryder = He is certain to kill his rival in the morning."
+1	अवश्यम्	अवश्यम्	_	_	ADV	_	_	_	_
+2	प्रातः	प्रातर्	_	_	ADV	_	_	_	_
+3	व्यापादयिष्यति	व्या-पद्	_	_	V;SG;IND;3;{ACT/CAUS};FIN;FUT	_	_	_	_
+4	प्रतिपक्षम्	प्रतिपक्ष	_	_	N;SG;MASC;ACC	_	_	_	_
+5	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc6.s186
+# text = तस्य ब्राह्मण्स्य दारिद्र्तः प्रतिदिनम् वदति।
+# translit = tasya brāhmaṇsya dāridrtaḥ pratidinam vadati.
+# orig = panchatantra.conllu sent_id 1442
+# ryder = Every day his wife, chafing under their poverty, would say to him:
+1	तस्य	तद्	_	_	SG;MASC;DET;GEN	_	_	_	_
+2	ब्राह्मण्स्य	ब्राह्मण	_	_	N;GEN;SG;MASC	_	_	_	_
+3	दारिद्र्तः	दारिद्र्त	_	_	N;NOM;SG;FEM	_	_	_	_
+4	प्रतिदिनम्	प्रति-दिनम्	_	_	ADV	_	_	_	_
+5	वदति	वद्	_	_	V;SG;IND;ACT;3;PRS;FIN	_	_	_	_
+6	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc5.s163
+# text = एवम् अस्तु प्रतिपन्नः गरुडेन।
+# translit = evam astu pratipannaḥ garuḍena.
+# orig = panchatantra.conllu sent_id 1319
+# ryder = "So be it," said Garuda, assenting.
+1	एवम्	एवम्	_	_	ADV	_	_	_	_
+2	अस्तु	अस्	_	_	V;SG;ACT;3;IMP;FIN	_	_	_	_
+3	प्रतिपन्नः	प्रति-पद्	_	_	V;SG;PST;PASS;MASC;NOM;V.PTCP	_	_	_	_
+4	गरुडेन	गरुड	_	_	INS;PROPN;MASC;SG	_	_	_	_
+5	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc5.s119
+# text = यत्र कीलिकापनीयते तत्र यन्त्रम् इदम् अवतरति।
+# translit = yatra kīlikāpanīyate tatra yantram idam avatarati.
+# orig = panchatantra.conllu sent_id 1204
+# ryder = And the contrivance alights at the spot where you pull out the plug.
+1	यत्र	यत्र	_	_	ADV	_	_	_	_
+2	कीलिका	कीलिका	_	_	N;NOM;SG;FEM	_	_	_	_
+3	अपनीयते	अप-नी	_	_	V;SG;IND;PASS;3;PRS;FIN	_	_	_	_
+4	तत्र	तत्र	_	_	ADV	_	_	_	_
+5	यन्त्रम्	यन्त्र	_	_	N;NEUT;NOM;SG	_	_	_	_
+6	इदम्	इदम्	_	_	SG;NOM;DET;NEUT	_	_	_	_
+7	अवतरति	अव-तॄ	_	_	V;SG;IND;ACT;3;PRS;FIN	_	_	_	_
+8	।	।	_	_	_	_	_	_	_
+
+# newpar id = panc0.p9
+# sent_id = panc0.s13
+# text = तथा च
+# translit = tathā ca
+# ptext = taTA ca
+# orig = panchatantra.conllu sent_id 13
+# ryder = And again:
+1	तथा	तथा	_	_	ADV	_	_	_	_
+2	च	च	_	_	CONJ	_	_	_	_
+
+# sent_id = panc0.s17b
+# text = ततो धर्मशास्त्राणि मन्वादीनि अर्थशास्त्राणि चाणक्यादीनि कामशास्त्राणि वात्स्यायनादीनि।
+# translit = tato dharmaśāstrāṇi manvādīni arthaśāstrāṇi cāṇakyādīni kāmaśāstrāṇi vātsyāyanādīni.
+# text_fr = viennent ensuite l’apprentissage du Dharma-shastra, traité de lois du sage Manou, puis celui de l’Artha-shastra, traité sur la chose publique du sage Chanakya, suivi du Kama-shastra, traité sur l’amour du sage Vatsyayana, et bien d’autres encore.
+# text_en = Then Dharmashastra by Manu, Arthashastra by Chanakya, Kamashastra by Vātsyāyana.
+# ryder = If this subject has somehow been mastered, then one masters the books on religion and practical life.
+1	ततो	तद्	_	_	ADV	_	_	_	_
+2	धर्मशास्त्राणि	धर्मशास्त्र	_	_	PL;NEUT;PROPN;ACC	_	_	_	_
+3	मन्वादीनि	मन्वादि	_	_	PL;NEUT;PROPN;ACC	_	_	_	_
+4	अर्थशास्त्राणि	अर्थशास्त्र	_	_	PL;NEUT;PROPN;ACC	_	_	_	_
+5	चाणक्यादीनि	चाणक्यादि	_	_	PL;NEUT;PROPN;ACC	_	_	_	_
+6	कामशास्त्राणि	कामशास्त्र	_	_	PL;NEUT;PROPN;ACC	_	_	_	_
+7	वात्स्यायनादीनि	वात्स्यायनादि	_	_	PL;NEUT;PROPN;ACC	_	_	_	_
+8	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc5.s149
+# text = ततः राजाब्रवीत्
+# translit = tataḥ rājābravīt
+# orig = panchatantra.conllu sent_id 1273
+# ryder = And the king replied:
+1	ततः	ततः	_	_	ADV	_	_	_	_
+2	राजा	राजन्	_	_	N;NOM;MASC;SG	_	_	_	_
+3	अब्रवीत्	ब्रू	_	_	V;SG;IND;ACT;3;IPFV;FIN	_	_	_	_
+
+# sent_id = panc5.s123
+# text = तस्मात् समादिश्यताम् किम् कर्तव्यः।
+# translit = tasmāt samādiśyatām kim kartavyaḥ.
+# orig = panchatantra.conllu sent_id 1211
+# ryder = What am I to do?"
+1	तस्मात्	तद्	_	_	SG;PRO;AT+ABL;NEUT	_	_	_	_
+2	समादिश्यताम्	सम्-अा-दिश्	_	_	V;SG;PASS;3;PRS;IMP;FIN	_	_	_	_
+3	किम्	किम्	_	_	SG;PRO;NOM;NEUT	_	_	_	_
+4	कर्तव्यः	कृ	_	_	V;SG;PASS;MASC;NOM;V.PTCP;FUT	_	_	_	_
+5	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc5.s103
+# text = तत् एषा कदाचिद् वैश्यासुता भविष्यति।
+# translit = tat eṣā kadācid vaiśyāsutā bhaviṣyati.
+# orig = panchatantra.conllu sent_id 1187
+# ptext = tat ezA kadA cit vESya sutA Bavizyati
+# ryder = The girl may be the daughter of a woman of my caste.
+1	तत्	तद्	_	_	SG;PRO;NOM;NEUT	_	_	_	_
+2	एषा	एतद्	_	_	SG;NOM;FEM;DET	_	_	_	_
+3	कदाचिद्	कदा-चिद्	_	_	ADV	_	_	_	_
+4	वैश्या	वैश्या	_	_	N	_	_	_	_
+5	सुता	सुत	_	_	N;NOM;SG;FEM	_	_	_	_
+6	भविष्यति	भू	_	_	V;SG;IND;ACT;3;FIN;FUT	_	_	_	_
+7	।	।	_	_	_	_	_	_	_
+
+# newpar id = panc5.p45
+# sent_id = panc5.s164
+# text = एतत् आकर्ण्य करटकः आह
+# translit = etat ākarṇya karaṭakaḥ āha
+# orig = panchatantra.conllu sent_id 1345
+# ryder = Having listened to this, Cheek said:
+1	एतत्	एतद्	_	_	SG;ACC;PRO;NEUT	_	_	_	_
+2	आकर्ण्य	आकर्ण्य	_	_	V;V.CVB	_	_	_	_
+3	करटकः	करटक	_	_	MASC;NOM;PROPN;SG	_	_	_	_
+4	आह	अह्	_	_	V;SG;IND;ACT;3;PFV;FIN	_	_	_	_
+
+# newpar id = panc1.p25
+# sent_id = panc1.s59
+# text = एवम् मथुरागामीनि भाण्डान्यादाय शुभायाम् तिथौ गुरुजनानुज्ञातः सुरथाधिरूढः प्रस्थितः।
+# Finally, all versions synchronize again at the moment when Vardhamana sets off to the city of Mathura.
+# translit = evam mathurāgāmīni bhāṇḍānyādāya śubhāyām tithau gurujanānujñātaḥ surathādhirūḍhaḥ prasthitaḥ.
+# wtext = इत्य् एवं संप्रधार्य मथुरागामीनि भांडानि आदाय शुभायां तिथौ गुरुजनानुज्ञातः सुरथाधिरूढः प्रस्थितः।
+# wtranslit = ity evaṁ saṁpradhārya mathurāgāmīni bhāṁḍāni ādāya śubhāyāṁ tithau gurujanānujñātaḥ surathādhirūḍhaḥ prasthitaḥ.
+# orig = panchatantra.conllu sent_id 66
+# ptext = evam sam pra DArya maTurA gAmIni sAra BARqAni sam A hftya sa pari janaH SuBe nakzatre SuBAyAm tiTO guru jana anu jYAtaH sva janEH anu vrajyamAnaH SaNKa tUrya nirGozeRa agrataH kriyamARena nagarAt niH sftaH
+# ryder = Having thus set his mind in order, he collected merchandise bound for the city of Mathura, assembled his servants, and after saying farewell to his parents when asterism and lunar station were auspicious, set forth from the city, with his people following and with blare of conch-shell and beat of drum preceding.
+1	एवम्	एवम्	_	_	ADV	_	_	_	_
+2	मथुरा	मथुरा	_	_	NOM;PROPN;SG;FEM	_	_	_	_
+3	अगामीनि	अगामिन्	_	_	PL;NEUT;ACC;ADJ	_	_	_	_
+4	भाण्डानि	भाण्ड	_	_	N;NEUT;PL;ACC	_	_	_	_
+5	आदाय	आदा	_	_	V;V.CVB	_	_	_	_
+6	शुभायाम्	शुभ	_	_	FEM;SG;ADJ;ESS	_	_	_	_
+7	तिथौ	तिथ	_	_	N;SG;FEM;ESS	_	_	_	_
+8	गुरु	गुरु	_	_	ADJ	_	_	_	_
+9	जन	जन	_	_	N	_	_	_	_
+10	अनुज्ञातः	अनु-ज्ञ	_	_	V;SG;PST;PASS;MASC;NOM;V.PTCP	_	_	_	_
+11	सु	सु	_	_	ADV	_	_	_	_
+12	रथ	रथ	_	_	N	_	_	_	_
+13	अधिरूढः	अधि-रुह्	_	_	V;SG;PST;PASS;MASC;NOM;V.PTCP	_	_	_	_
+14	प्रस्थितः	प्र-स्था	_	_	V;SG;PST;PASS;MASC;NOM;V.PTCP	_	_	_	_
+15	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc5.s117
+# text = अहम् ते तम् उपायम् करिष्यामि येन तया सहाहीनकालं त्वम् संभोगसुखम् अनुभविष्यसि।
+# translit = aham te tam upāyam kariṣyāmi yena tayā sahāhīnakālaṁ tvam saṁbhogasukham anubhaviṣyasi.
+# orig = panchatantra.conllu sent_id 1200
+# ryder = I will invent something such that you will enjoy with her the delights of love without loss of time."
+1	अहम्	अहम्	_	_	SG;1;PRO;NOM	_	_	_	_
+2	ते	त्वद्	_	_	SG;PRO;DAT;2	_	_	_	_
+3	तम्	तद्	_	_	SG;ACC;MASC;DET	_	_	_	_
+4	उपायम्	उपाय	_	_	N;SG;MASC;ACC	_	_	_	_
+5	करिष्यामि	कृ	_	_	V;SG;1;IND;ACT;FIN;FUT	_	_	_	_
+6	येन	यद्	_	_	SG;PRO;MASC;INS	_	_	_	_
+7	तया	तद्	_	_	SG;PRO;FEM;INS	_	_	_	_
+8	सह	सह	_	_	ADV	_	_	_	_
+9	अहीन	अहीन	_	_	ADJ	_	_	_	_
+10	कालं	काल	_	_	N;SG;MASC;ACC	_	_	_	_
+11	त्वम्	त्वद्	_	_	SG;PRO;NOM;2	_	_	_	_
+12	संभोग	संभोग	_	_	N	_	_	_	_
+13	सुखम्	सुख्	_	_	N;NEUT;SG;ACC	_	_	_	_
+14	अनुभविष्यसि	अनु-भू	_	_	V;SG;IND;ACT;FIN;2;FUT	_	_	_	_
+15	।	।	_	_	_	_	_	_	_
+
+# newpar id = panc5.p17
+# sent_id = panc5.s143
+# text = ततः सुधाप्लावितम् इवात्मानं मन्यमानः देवीम् उवाच।
+# translit = tataḥ sudhāplāvitam ivātmānaṁ manyamānaḥ devīm uvāca.
+# orig = panchatantra.conllu sent_id 1253
+# man in the passiv form can be translated with 'believe'
+# ryder = And feeling as if drenched by a shower of nectar, he said to the queen:
+1	ततः	ततः	_	_	ADV	_	_	_	_
+2	सुधा	सुधा	_	_	N	_	_	_	_
+3	प्लावितम्	प्लु	_	_	SG;PST;ACC;MASC;V.PTCP;{CAUS/PASS};N	_	_	_	_
+4	इव	इव	_	_	CONJ	_	_	_	_
+5	आत्मानः	आत्मन्	_	_	SG;ACC;REFL;PRO	_	_	_	_
+6	मन्यमानः	मन्यमत्	_	_	V;SG;PASS;MASC;PRS;NOM;V.PTCP	_	_	_	_
+7	देवीम्	देवी	_	_	N;FEM;SG;ACC	_	_	_	_
+8	उवाच	वच्	_	_	V;SG;IND;ACT;3;PFV;FIN	_	_	_	_
+9	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc5.s178
+# text = इति पूर्वम् अभयप्रदानं दत्तम्।
+# translit = iti pūrvam abhayapradānaṁ dattam.
+# orig = panchatantra.conllu sent_id 1417
+# ryder = since he appeared as a suppliant.
+1	इति	इति	_	_	ADV	_	_	_	_
+2	पूर्वम्	पूर्व	_	_	ADV	_	_	_	_
+3	अभय	अ-भय	_	_	N	_	_	_	_
+4	प्रदानं	प्रआन	_	_	N;NEUT;NOM;SG	_	_	_	_
+5	दत्तम्	दा	_	_	V;SG;PST;PASS;NOM;V.PTCP;NEUT	_	_	_	_
+6	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc1.s128
+# text = वयाम्सि किम् न कुर्वन्ति चञ्च्वा स्वोदरपूरणम्॥
+# translit = vayāmsi kim na kurvanti cañcvā svodarapūraṇam:
+# wtext = वयांसि किं न कुर्वंति चञ्च्वा स्वोदरपूरणम्॥पञ्च_१.२३॥
+# wtranslit = vayāṁsi kiṁ na kurvaṁti cañcvā svodarapūraṇam:pañca_1.23:
+# wsid = ॥१.२३॥
+# text_en = Don't crows fill their bellies with their beaks?
+# orig = panchatantra.conllu sent_id 127
+# ptext = vayAMsi kim na kurvanti caYcvA sva udara pUraRam
+# ryder = A crow, with beak equipped, can fill / His belly's selfish need.
+1	वयाम्सि	वयस्	_	_	N;PL;NEUT;NOM	_	_	_	_
+2	किम्	किम्	_	_	PART	_	_	_	_
+3	न	न	_	_	NEG;PART	_	_	_	_
+4	कुर्वन्ति	कृ	_	_	V;IND;ACT;3;PRS;PL;FIN	_	_	_	_
+5	चञ्च्वा	चञ्चु	_	_	N;INS;SG;FEM	_	_	_	_
+6	स्वाः	स्व	_	_	SG;ACC;PRO;MASC;REFL	_	_	_	_
+7	उदर	उदर	_	_	N	_	_	_	_
+8	पूरणम्	पूरण	_	_	N;SG;MASC;ACC	_	_	_	_
+9	॥	॥	_	_	_	_	_	_	_
+
+# sent_id = panc1.s5b
+# text = पुरन्दरपुरस्य वृद्धिम् सर्वगुणसम्पन्नम् पृथिव्याः चूडामणिरत्नभूतम्
+# translit = purandarapurasya vr̥ddhim sarvaguṇasampannam pr̥thivyāḥ cūḍāmaṇiratnabhūtam
+# ptext = purandarapurasya fdDi sarva guRa sam pannam pfTivyAH cUqA maRi ratna BUtam
+# orig = panchatantra.conllu sent_id 52
+# ryder = It rivaled the city of heaven's King, so abounding in every urban excellence as to form the central jewel of Earth's diadem.
+1	पुरन्दर	पुरन्दर	_	_	PROPN	_	_	_	_
+2	पुरस्य	पुर	_	_	N;GEN;NEUT;SG	_	_	_	_
+3	वृद्धिम्	वृद्धि	_	_	N;FEM;SG;ACC	_	_	_	_
+4	सर्व	सर्व	_	_	PRO	_	_	_	_
+5	गुण	गुण	_	_	N	_	_	_	_
+6	सम्पन्नम्	सं-पद्	_	_	V;SG;PST;PASS;NOM;V.PTCP;NEUT	_	_	_	_
+7	पृथिव्याः	पृथिवी	_	_	N;GEN;SG;FEM	_	_	_	_
+8	चूडामणि	चूडामणिरत्न	_	_	N	_	_	_	_
+9	रत्न	रत्न	_	_	N	_	_	_	_
+10	भूतम्	भू	_	_	V;SG;PST;PASS;NOM;V.PTCP;NEUT	_	_	_	_
+
+# sent_id = panc6.s188
+# text = किम् न पश्यसि पीड्यमानानि अपत्यानि येन क्षुधया निश्चिन्तः तिष्ठसि।
+# translit = kim na paśyasi pīḍyamānāni apatyāni yena kṣudhayā niścintaḥ tiṣṭhasi.
+# orig = panchatantra.conllu sent_id 1444
+# ryder = Don't you see your babies starving, while you hang about, mooning?
+1	किम्	किम्	_	_	SG;NOM;PART;NEUT	_	_	_	_
+2	न	न	_	_	NEG;PART	_	_	_	_
+3	पश्यसि	पश्	_	_	V;SG;IND;ACT;PRS;FIN;2	_	_	_	_
+4	पीड्यमानानि	पीड्	_	_	ACC;PASS;PRS;V.PTCP;ADJ;PL;NEUT	_	_	_	_
+5	अपत्यानि	अपत्य	_	_	N;NEUT;PL;ACC	_	_	_	_
+6	येन	यद्	_	_	SG;MASC;DET;INS	_	_	_	_
+7	क्षुधया	क्षुधा	_	_	N;INS;SG;FEM	_	_	_	_
+8	निश्चिन्तः	निस्-चिन्त	_	_	MASC;NOM;SG;ADJ	_	_	_	_
+9	तिष्ठसि	स्था	_	_	V;SG;IND;ACT;PRS;FIN;2	_	_	_	_
+10	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc0.s28
+# text = स नूनं द्राक् प्रबुद्धान् करिष्यति इति।
+# translit = sa nūnaṁ drāk prabuddhān kariṣyati iti.
+# ptext = sa nUnam drAk pra budDAn karizyati
+# wsid = ॥०.७॥
+# orig = panchatantra.conllu sent_id 28
+# text_fr = il les rendra vite intelligents »
+# text_en = He will certainly make them intelligent quickly.
+# ryder = He will certainly make them intelligent in a twinkling."
+1	स	तद्	_	_	SG;PRO;MASC;NOM	_	_	_	_
+2	नूनं	नूनम्	_	_	ADV	_	_	_	_
+3	द्राक्	द्राक्	_	_	ADV	_	_	_	_
+4	प्रबुद्धान्	प्र-बुद्ध	_	_	MASC;PL;ACC;ADJ	_	_	_	_
+5	करिष्यति	कृ	_	_	V;SG;IND;ACT;3;FIN;FUT	_	_	_	_
+6	इति	इति	_	_	ADV	_	_	_	_
+7	।	।	_	_	_	_	_	_	_
+
+# newpar id = panc0.p15
+# sent_id = panc0.s26
+# text = अत्रास्ति विष्णुशर्मा नाम ब्राह्मणः सकलशास्त्रपारङ्गतश्चात्र संसदि लब्धकीर्तिः।
+# translit = atrāsti viṣṇuśarmā nāma brāhmaṇaḥ sakalaśāstrapāraṅgataścātra saṁsadi labdhakīrtiḥ.
+# wtext = तदत्रास्ति विष्णुशर्मा नाम ब्राह्मणः सकलशास्त्रपारङ्गमः छात्रसंसदि लब्धकीर्तिः।
+# wtranslit = tadatrāsti viṣṇuśarmā nāma brāhmaṇaḥ sakalaśāstrapāraṅgamaḥ chātrasaṁsadi labdhakīrtiḥ.
+# wsid = ॥०.७॥
+# orig = panchatantra.conllu sent_id 26
+# text_fr = Il y a ici, parmi nous, un brâhmane du nom de Vishnu Sharma, fin connaisseur de tous les traités, plébiscité par ses élèves.
+# text_en = There is a Brahman here named Vishnusharma, who learned all sciences and is famous at the court here.
+# ryder = Now there is a Brahman here named Vishnusharman, with a reputation for competence in numerous sciences.
+1	अत्र	अत्र	_	_	ADV	_	_	_	_
+2	अस्ति	अस्	_	_	SG;IND;ACT;3;PRS;FIN;V	_	_	_	_
+3	विष्णुशर्मा	विष्णुशर्म	_	_	MASC;NOM;PROPN;SG	_	_	_	_
+4	नाम	नामन्	_	_	N;NEUT;NOM;SG	_	_	_	_
+5	ब्राह्मणः	ब्राह्मण	_	_	N;NOM;MASC;SG	_	_	_	_
+6	सकल	सकल	_	_	ADJ	_	_	_	_
+7	शास्त्र	सास्त्र	_	_	N	_	_	_	_
+8	पारम्	पार	_	_	N;NEUT;SG;ACC	_	_	_	_
+9	गतः	गम्	_	_	V;SG;PST;PASS;MASC;NOM;V.PTCP	_	_	_	_
+10	च	च	_	_	CONJ	_	_	_	_
+11	अत्र	अत्र	_	_	ADV	_	_	_	_
+12	संसदि	संसद्	_	_	N;SG;FEM;ESS	_	_	_	_
+13	लब्ध	लभ	_	_	V;PST;PASS;V.PTCP	_	_	_	_
+14	कीर्तिः	कीर्ति	_	_	N;NOM;MASC;SG	_	_	_	_
+15	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc5.s137
+# text = देवि विज्ञायतां सम्यक् स एते कञ्चुकिनः वदन्ति।
+# translit = devi vijñāyatāṁ samyak sa ete kañcukinaḥ vadanti.
+# orig = panchatantra.conllu sent_id 1238
+# ryder = "My dear queen, pray give careful attention to what these chamberlains have to say.
+1	देवि	देव	_	_	N;SG;VOC;FEM	_	_	_	_
+2	विज्ञायतां	वि-ज्ञा	_	_	V;SG;PASS;3;PRS;IMP;FIN	_	_	_	_
+3	सम्यक्	सम्यक्	_	_	ADV	_	_	_	_
+4	स	तद्	_	_	SG;PRO;MASC;NOM	_	_	_	_
+5	एते	एतद्	_	_	MASC;NOM;PL;DET	_	_	_	_
+6	कञ्चुकिनः	कञ्चुकिन्	_	_	N;PL;NOM;MASC	_	_	_	_
+7	वदन्ति	वद्	_	_	V;IND;ACT;3;PRS;PL;FIN	_	_	_	_
+8	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc0.s14b
+# text = कः अर्थः पुत्रेण जातेन यः न विद्वान् न भक्तिमान् अस्ति॥
+# translit = kaḥ arthaḥ putreṇa jātena yaḥ na vidvān na bhaktimān asti:
+# wtext = कोऽर्थः पुत्रेण जातेन यो न विद्वान्न भक्तिमान्॥
+# wtranslit = ko’rthaḥ putreṇa jātena yo na vidvānna bhaktimān:
+# wsid = ॥०.५॥
+# orig = panchatantra.conllu sent_id 14
+# text_fr = À quoi bon un fils né, qui n’est ni savant ni dévot !
+# text_en = What is the purpose of a son born who is neither intelligent nor obedient?
+# ryder = Or why beget a son who proves / A dunce and disobedient?
+1	कः	किम्	_	_	SG;MASC;NOM;DET	_	_	_	_
+2	अर्थः	अर्थ	_	_	N;NOM;MASC;SG	_	_	_	_
+3	पुत्रेण	पुत्र	_	_	N;INS;SG;MASC	_	_	_	_
+4	जातेन	जन्	_	_	V;SG;PST;PASS;MASC;V.PTCP;INS	_	_	_	_
+5	यः	यद्	_	_	SG;PRO;MASC;NOM	_	_	_	_
+6	न	न	_	_	NEG;PART	_	_	_	_
+7	विद्वान्	विद्वस्	_	_	MASC;NOM;SG;ADJ	_	_	_	_
+8	न	न	_	_	NEG;PART	_	_	_	_
+9	भक्तिमान्	भक्तिमत्	_	_	MASC;NOM;SG;ADJ	_	_	_	_
+10	अस्ति	अस्	_	_	SG;IND;ACT;3;PRS;FIN;V	_	_	_	_
+11	॥	॥	_	_	_	_	_	_	_
+
+# sent_id = panc1.s193
+# text = सः अब्रवीत्
+# translit = saḥ abravīt
+# wtext = सोऽब्रवीत्
+# wtranslit = so’bravīt
+# orig = panchatantra.conllu sent_id 147
+# ptext = saH abravIt
+# ryder = And Victor answered:
+1	सः	तद्	_	_	SG;PRO;MASC;NOM	_	_	_	_
+2	अब्रवीत्	ब्रू	_	_	V;SG;IND;ACT;3;IPFV;FIN	_	_	_	_
+
+# newpar id = panc5.p18
+# sent_id = panc5.s146
+# text = एवम् उक्ते तस्य राज्ञा देवमार्गो दर्शितः।
+# translit = evam ukte tasya rājñā devamārgo darśitaḥ.
+# orig = panchatantra.conllu sent_id 1263
+# ryder = Upon this the king showed them his bare bottom.
+1	एवम्	एवम्	_	_	ADV	_	_	_	_
+2	उक्ते	वच्	_	_	V;PST;SG;PASS;ESS;V.PTCP;NEUT	_	_	_	_
+3	तस्य	तद्	_	_	SG;PRO;MASC;GEN	_	_	_	_
+4	राज्ञा	राजन्	_	_	N;INS;SG;MASC	_	_	_	_
+5	देव	देव	_	_	ADJ	_	_	_	_
+6	मार्गम्	मार्ग	_	_	N;SG;MASC;ACC	_	_	_	_
+7	दर्शितः	दृश्	_	_	V;SG;PST;MASC;NOM;V.PTCP;{CAUS/PASS}	_	_	_	_
+8	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc1.s101
+# text = भद्र करटक अस्मत्स्वामी पिङ्गलकः उदकग्रहणार्थम् इतः प्रवृत्तः।
+# translit = bhadra karaṭaka asmatsvāmī piṅgalakaḥ udakagrahaṇārtham itaḥ pravr̥ttaḥ.
+# wtext = भद्र करटक, अयं तावद् अस्मत्स्वामी पिंगलक उदकग्रहणार्थं यमुनाकच्छम् अवतीर्य स्थितः।
+# wtranslit = bhadra karaṭaka, ayaṁ tāvad asmatsvāmī piṁgalaka udakagrahaṇārthaṁ yamunākaccham avatīrya sthitaḥ.
+# orig = panchatantra.conllu sent_id 100
+# ptext = Badra karawaka ayam tAvat asmat svAmI piNgalakaH udaka grahaRa arTam itaH pra vfttaH
+# ryder = "My dear Cheek, just look at our master Rusty. He came this way for water.
+1	भद्र	भद्र	_	_	N;MASC;SG;VOC	_	_	_	_
+2	करटक	करटक	_	_	MASC;PROPN;VOC;SG	_	_	_	_
+3	अस्मत्	अहम्	_	_	1;PRO;PL;AT+ABL	_	_	_	_
+4	स्वामी	स्वामिन्	_	_	N;NOM;MASC;SG	_	_	_	_
+5	पिङ्गलकः	पिङ्गलक	_	_	MASC;NOM;PROPN;SG	_	_	_	_
+6	उदक	उदक	_	_	N	_	_	_	_
+7	ग्रहण	ग्रहण	_	_	N	_	_	_	_
+8	अर्थम्	अर्थ	_	_	N;SG;MASC;ACC	_	_	_	_
+9	इतः	इतस्	_	_	ADV	_	_	_	_
+10	प्रवृत्तः	प्र-वृत्	_	_	V;SG;PST;PASS;MASC;NOM;V.PTCP	_	_	_	_
+11	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc5.s133
+# text = किंचिद् विज्ञप्यम् अस्ति।
+# translit = kiṁcid vijñapyam asti.
+# orig = panchatantra.conllu sent_id 1226
+# ryder = There is a disclosure to be made.
+1	किंचिद्	किम्-चिद्	_	_	SG;PRO;NOM;NEUT	_	_	_	_
+2	विज्ञप्यम्	वि-ज्ञा	_	_	V;SG;NOM;V.PTCP;{CAUS/PASS};NEUT;FUT	_	_	_	_
+3	अस्ति	अस्	_	_	SG;IND;ACT;3;PRS;FIN;V	_	_	_	_
+4	।	।	_	_	_	_	_	_	_
+
+# newpar id = panc5.p6
+# sent_id = panc5.s124
+# text = एवम् वादिन्याम् राजदुहितरि कौलिकः गम्भीरश्लक्ष्णया गिरा शनैः इदम् उवाच।
+# translit = evam vādinyām rājaduhitari kaulikaḥ gambhīraślakṣṇayā girā śanaiḥ idam uvāca.
+# orig = panchatantra.conllu sent_id 1212
+# ryder = To the princess' words the weaver, in dignified and sweetly modulated accents, made stately answer:
+1	एवम्	एवम्	_	_	ADV	_	_	_	_
+2	वादिन्याम्	वादिनी	_	_	N;SG;FEM;ESS	_	_	_	_
+3	राज	राजन्	_	_	N	_	_	_	_
+4	दुहितरि	दुहितृ	_	_	N;SG;FEM;ESS	_	_	_	_
+5	कौलिकः	कौलिक	_	_	N;NOM;MASC;SG	_	_	_	_
+6	गम्भीर	गम्भीर	_	_	ADJ	_	_	_	_
+7	श्लक्ष्णया	श्लक्ष्ण	_	_	INS;FEM;SG;ADJ	_	_	_	_
+8	गिरा	गिर्	_	_	N;INS;SG;FEM	_	_	_	_
+9	शनैः	शनैस्	_	_	ADV	_	_	_	_
+10	इदम्	इदम्	_	_	SG;ACC;PRO;NEUT	_	_	_	_
+11	उवाच	वच्	_	_	V;SG;IND;ACT;3;PFV;FIN	_	_	_	_
+12	।	।	_	_	_	_	_	_	_
+
+# sent_id = s82
+# text = अथ भवाम् कर्तुम् मनाः
+# translit = atha bhavām kartum manāḥ
+1	अथ	अथ	_	_	ADV	_	_	_	_
+2	भवाम्	भव	_	_	SG;PRO;FORM;MASC;NOM;2	_	_	_	_
+3	कर्तुम्	कृ	_	_	V;NFIN	_	_	_	_
+4	मनाः	मनस्	_	_	N;NOM;MASC;SG	_	_	_	_
+
+# newpar id = panc1.p1
+# sent_id = panc1.s1
+# text = अथातः प्रारभ्यते मित्रभेदो नाम प्रथमम् तन्त्र।
+# translit = athātaḥ prārabhyate mitrabhedo nāma prathamam tantra.
+# wikisource = https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%9E%E0%A5%8D%E0%A4%9A%E0%A4%A4%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D_%E0%A5%A6%E0%A5%A8
+# wikisource_ryder = https://en.wikisource.org/wiki/The_Panchatantra_(Purnabhadra%27s_Recension_of_1199_CE)/Book_1/The_Loss_of_Friends
+# wsid = ॥१.१॥
+# orig = panchatantra.conllu sent_id 49
+# ryder = Here then begins Book I, called "The Loss of Friends."
+1	अथातः	अथात	_	_	ADV	_	_	_	_
+2	प्रारभ्यते	प्रा-रभ्	_	_	V;SG;IND;PASS;3;PRS;FIN	_	_	_	_
+3	मित्रभेदो	मित्रभेद	_	_	MASC;NOM;PROPN;SG	_	_	_	_
+4	नाम	नामन्	_	_	N;NEUT;SG;ACC	_	_	_	_
+5	प्रथमम्	प्रथम	_	_	SG;NOM;ADJ;NEUT	_	_	_	_
+6	तन्त्र	तन्त्र	_	_	N;NEUT;NOM;SG	_	_	_	_
+7	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc0.s47b
+# text = सः न पराभवम् आप्नोति स शक्रात् अपि कर्हिचित्॥
+# translit = saḥ na parābhavam āpnoti sa śakrāt api karhicit :
+# wtext = न पराभवमवाप्नोति शक्रादपि कदाचन ॥
+# wtranslit = na parābhavamavāpnoti śakrādapi kadācana :
+# wsid = ॥०.७॥
+# orig = panchatantra.conllu sent_id 47
+# text_fr = Ne verra pas de défaite, même si son ennemi n’est autre que le roi du ciel, Indra, le tout puissant !
+# ryder = Becomes acquainted, / His life by sad defeat—although / The king of heaven be his foe— / Is never tainted.
+1	सः	तद्	_	_	SG;PRO;MASC;NOM	_	_	_	_
+2	न	न	_	_	NEG;PART	_	_	_	_
+3	पराभवम्	पराभव	_	_	N;SG;MASC;ACC	_	_	_	_
+4	आप्नोति	आप्	_	_	V;SG;IND;ACT;3;PRS;FIN	_	_	_	_
+5	स	तद्	_	_	SG;PRO;MASC;NOM	_	_	_	_
+6	शक्रात्	शक्र	_	_	MASC;PROPN;AT+ABL;SG	_	_	_	_
+7	अपि	अपि	_	_	ADV	_	_	_	_
+8	कर्हिचित्	कर्हि-चिद्	_	_	ADV	_	_	_	_
+9	॥	॥	_	_	_	_	_	_	_
+
+# newpar id = panc5.p22
+# sent_id = panc5.s147
+# text = देव समर्थेन शत्रुणा समागत्य पुररोधः कृतः।
+# translit = deva samarthena śatruṇā samāgatya purarodhaḥ kr̥taḥ.
+# orig = panchatantra.conllu sent_id 1271
+# ryder = "O King," they said, "a powerful enemy has arrived and invested the city.
+1	देव	देव	_	_	N;MASC;SG;VOC	_	_	_	_
+2	समर्थेन	समर्थ	_	_	INS;SG;MASC;ADJ	_	_	_	_
+3	शत्रुणा	शत्रु	_	_	N;INS;SG;MASC	_	_	_	_
+4	समागत्य	समा-गम्	_	_	V;V.CVB	_	_	_	_
+5	पुर	पुर	_	_	N	_	_	_	_
+6	रोधः	रोध	_	_	N;NOM;MASC;SG	_	_	_	_
+7	कृतः	कृ	_	_	V;SG;PST;PASS;MASC;NOM;V.PTCP	_	_	_	_
+8	।	।	_	_	_	_	_	_	_
+
+# newpar id = panc1.p1
+# sent_id = panc1.s3
+# text = वर्धमानो महान् स्नेहः सिंहगोवृषयोर्वने । जम्बुकेनातिलुब्धेन पिशुनेन विनाशितः॥
+# translit = vardhamāno mahān snehaḥ siṁhagovr̥ṣayorvane . jambukenātilubdhena piśunena vināśitaḥ:
+# wtext = वर्धमानो महान् स्नेहः सिंहगोवृषयोर्वने । पिशुनेनातिलुब्धेन जम्बुकेन विनाशितः॥१.१॥
+# wtranslit = vardhamāno mahān snehaḥ siṁhagovr̥ṣayorvane . piśunenātilubdhena jambukena vināśitaḥ:1.1:
+# wsid = ॥१.१॥
+# orig = panchatantra.conllu sent_id 50
+# ryder = The forest lion and the bull / Were linked in friendship, growing, full: / A jackal then estranged the friends / For greedy and malicious ends.
+1	वर्धमानो	वृध्	_	_	V;SG;MASC;V.PTCP;NOM	_	_	_	_
+2	महान्	महत्	_	_	MASC;NOM;SG;ADJ	_	_	_	_
+3	स्नेहः	स्नेह	_	_	N;NOM;MASC;SG	_	_	_	_
+4	सिंह	सिंह	_	_	N	_	_	_	_
+5	गोवृषयोः	गोवृष	_	_	N;GEN;DU;MASC	_	_	_	_
+6	वने	वन	_	_	N;NEUT;SG;ESS	_	_	_	_
+7	।	।	_	_	_	_	_	_	_
+8	जम्बुकेन	जम्बुक	_	_	N;INS;SG;MASC	_	_	_	_
+9	अति	अति	_	_	ADV	_	_	_	_
+10	लुब्धेन	लुभ	_	_	V;SG;PST;PASS;MASC;V.PTCP;INS	_	_	_	_
+11	पिशुनेन	पिशुन	_	_	N;INS;SG;MASC	_	_	_	_
+12	विनाशितः	विनासित्	_	_	V;SG;PST;MASC;NOM;V.PTCP;{CAUS/PASS}	_	_	_	_
+13	॥	॥	_	_	_	_	_	_	_
+
+# sent_id = panc1.s9
+# text = स्वल्पम् अपि संचीयमानः वल्मीकवत् वर्धते।
+# translit = svalpam api saṁcīyamānaḥ valmīkavat vardhate.
+# ptext = svalpaH api sam cIyamAnaH valmIkavat varDate
+# orig = panchatantra.conllu sent_id 56
+# ryder = A very little, if added to, grows like an ant-hill.
+1	स्वल्पम्	स्वल्प	_	_	NEUT;NOM;SG;ADJ	_	_	_	_
+2	अपि	अपि	_	_	ADV	_	_	_	_
+3	संचीयमानः	सं-चि	_	_	V;SG;PASS;MASC;PRS;NOM;V.PTCP	_	_	_	_
+4	वल्मीकवत्	वल्मीक-वत्	_	_	EQT;ADV	_	_	_	_
+5	वर्धते	वृध्	_	_	V;MID;SG;IND;3;PRS;FIN	_	_	_	_
+6	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc1.s124
+# text = तत् न युक्तम्।
+# ptext(123) = kaTam AhAra mAtra arTI kevalam BavAn praDAna sevAm kurute na viSeza arTitayA
+# ryder(123) = "how can you give first-rate service merely from a desire for food with no desire for distinction?
+#
+# translit = tat na yuktam.
+# wtext = तन् न युक्तम्। उक्तं च
+# wtranslit = tan na yuktam. uktaṁ ca
+# text_en = It is not appropriate.
+# orig = panchatantra.conllu sent_id 124
+# ptext = sADu ca idam ucyate
+# ryder = There is wisdom in the saying:
+1	तत्	तद्	_	_	SG;NOM;DET;NEUT	_	_	_	_
+2	न	न	_	_	NEG;PART	_	_	_	_
+3	युक्तम्	युज्	_	_	V;SG;PST;PASS;NOM;V.PTCP;NEUT	_	_	_	_
+4	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc1.s99
+# text = तौ परस्परम् विचारम् आरब्धौ।
+# wtext = तच् छ्रुत्वातीव व्याकुलहृदयः ससाध्वसम् आकारं प्रच्छाद्य वटतले चतुर्मंडलावस्थानेनावस्थितः।
+# wtranslit = tac chrutvātīva vyākulahr̥dayaḥ sasādhvasam ākāraṁ pracchādya vaṭatale caturmaṁḍalāvasthānenāvasthitaḥ.
+# (This sentence corresponds to the second part of panchatantra.conllu sent_id 83, see above.)
+# wtext = चतुर्मंडलावस्थानं त्व् इदं सिंहः सिंहानुयायिनः काकरवाः किंवृत्ता इति।
+# wtranslit = caturmaṁḍalāvasthānaṁ tv idaṁ siṁhaḥ siṁhānuyāyinaḥ kākaravāḥ kiṁvr̥ttā iti.
+# ptext(84) = Aha ca catuH maRqala avasTAna nAmAni
+# ryder(84) = Now the divisions of the Circle of Four are given as:
+# ptext(85) = siMhaH siMha anu yAyI kAkara vargaH kim vfttaH ca iti maRqalAni
+# ryder(85) = (1) the lion, (2) the lion's guard, (3) the understrappers, (4) the menials.
+# ptext(86) = tatra sarvezu eva nagara pattana aDi saTAna Kewaka vawa bARa agra hAra kAnana vana sTAnezu ekaH eva siMha sTAnIyaH Bavati
+# ryder(86) = In all cities, capitals, towns, hamlets, market-centers, settlements, border-posts, land-grants, monasteries, and communities there is just one occupant of the lion's post.
+# ptext(87) = katipayAH siMha anu yAyinaH tatra carAH
+# ryder(87) = Relatively few are active as the lion's guard.
+# ptext(88) = kAkara vargaH maDyama vargaH
+# ryder(88) = The understrappers are the indiscriminate throng.
+# ptext(89) = kim vfttAH vana anta sTAna vAsinaH
+# ryder(89) = The menials are posted on the outskirts.
+# ptext(90) = uttama maDyama aDamAH trayaH iti
+# ryder(90) = The three classes are each divided into members high, middle, and low.
+# pparagraph
+# ptext(91) = aTa piNgalakaH sa amAtyaH sa suhft janaH Cattra cAmara vyajana vAhana vilAsa vistAra vi rahitam a kftrima sAhasa rasa eka anta darpa ut hatam aBagramAna mada utsekam a sahamAnatayA svayam grAha nir aNkuSa darSita ESvaryam an aBijYam itara jana sevitAnAm kfpaRa vacasAm amarza roza saMramBa garva prasTAnam a kAtaratva puruzArTam anu kzipta aYjali puwam a dInam a BItam a kfta cAwu karma upAyam vyavasAya pOruza aBimAna ava stamBa BAsuram an anya sevi niHsaNgam an AtmamBari paropakAra suKa vi akta puruza kAra Palam a pari BUtam a kfSam a tucCam apa gata durga prati samskAra cittam a gaRita aya vyayam a vilomam an A yattam ut hata upa arjita arjita pratApa vizamam azAqruRya sampraDAraRam a praharaRa ABaraRam a sADAraRa viBava grAsam a parokza vfttam an A SaNkanIyam an apekzita kalatra parzRi grAha asAra Akrandam a nindyam a Gawita a Sikzita astf ara yogam an icCa viGAti parijana nirapekza labDa grAsa nivAsa sOhityam vana Antare niHSaNkam niHsADvasam uccEH SiraH rAjatvam anu baBUva
+# ryder(91) = Now Rusty, with counselors and intimates, enjoyed a kingship of the following order. His royal office, though lacking the pomp of umbrella, flyflap, fan, vehicle, and amorous display, was held erect by sheer pride in the sentiment of unaffected pluck. It showed unbroken haughtiness and abounding self-esteem. It manifested a native zeal for unchecked power that brooked no rival. It was ignorant of cringing speech, which it delegated to those who like that sort of thing. It functioned by means of impatience, wrath, haste, and hauteur. Its manly goal was fearlessness, disdaining fawning, strange to obsequiousness, unalarmed. It made use of no wheedling artifices, but glittered in its reliance on enterprise, valor, dignity. It was independent, unattached, free from selfish worry. It advertised the reward of manliness by its pleasure in benefiting others. It was unconquered, free from constraint and meanness, while it had no thought of elaborating defensive works. It kept no account of revenue and expenditure. It knew no deviousness nor time-serving, but was prickly with the energy earned by loftiness of spirit. It wasted no deliberation on the conventional six expedients, nor did it hoard weapons or jewelry. It had an uncommon appetite for power, never adopted subterfuges, was never an object of suspicion. It paid no heed to wives or ambush-layers, to their torrents of tears or their squeals. It was without reproach. It had no artificial training in the use of weapons, but it did not disappoint expectations. It found satisfactory food and shelter without dependence on servants. It had no timidity about any foreign forest, and no alarms. Its head was high.
+# ptext(92) = uktam ca
+# ryder(92) = As the proverb says:
+# pparagraph
+# ptext(93) = ekAkini vanavAsinI a rAja lakzmaRI a nIti SAstra jYe sattva utkawe mfga patO rAjA iti giraH pari namanti
+# ryder(93) = The lion needs, in forest station, // No trappings and no education, // But lonely power and pride; // And all the song his subjects sing, // Is in the words: "O King! O King!" // No epithet beside.
+# pparagraph
+# ptext(94) = kim ca
+# ryder(94) = And again:
+# pparagraph
+# ptext(95) = na aBizekaH na saMskAraH siMhasya kriyate mfgEH vikrama arjita vittasya svayam eva mfgendratA
+# ryder(95) = The lion needs, for his appointing, // No ceremony, no anointing; // His deeds of heroism bring // Him fortune. Nature crowns him king.
+# pparagraph
+# ptext(96) = sadA manda mada syandi mAtaNga piSita aSanaH a sam panna Ipsita AhArah tfRAni atti na kesarI
+# ryder(96) = The elephant is the lion's meat, // With drops of trickling ichor sweet; // Though lack thereof should come to pass, // The lion does not nibble grass.
+# wparagraph
+# wtext = अथ तस्य करटकदमनकनामानौ द्वौ शृगालौ मंत्रिपुत्रौ भ्रष्टाधिकारौ सदानुयायिनाव् आस्ताम्।
+# wtranslit = atha tasya karaṭakadamanakanāmānau dvau śr̥gālau maṁtriputrau bhraṣṭādhikārau sadānuyāyināv āstām.
+# pparagraph
+# ptext(97) = tasya ca karawaka damanaka nAmAnO AnO dvO SfgAlO Brazwa aDikArO mantri putrO AstAm
+# ryder(97) = Now Rusty had in his train two jackals, sons of counselors, but out of a job. Their names were Cheek and Victor.
+#
+# translit = tau parasparam vicāram ārabdhau.
+# wtext = तौ च परस्परं मंत्रयतः।
+# wtranslit = tau ca parasparaṁ maṁtrayataḥ.
+# orig = panchatantra.conllu sent_id 98
+# ptext = tO ca parasparam mantrayitum A rabDO
+# ryder = These two conferred secretly,
+1	तौ	तद्	_	_	MASC;DU;NOM;PRO	_	_	_	_
+2	परस्परम्	परस्पर	_	_	MASC;ACC;SG;ADJ	_	_	_	_
+3	विचारम्	विचार	_	_	N;SG;MASC;ACC	_	_	_	_
+4	आरब्धौ	आ-रभ्	_	_	V;PST;IND;PASS;MASC;NOM;V.PTCP;DU	_	_	_	_
+5	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc0.s36
+# text = किं बहुना–
+# translit = kiṁ bahunā–
+# ptext = kim bahunA
+# orig = panchatantra.conllu sent_id 36
+# text_fr = Pour être bref,
+# ryder = Let us cut the matter short.
+1	किं	क	_	_	SG;PRO;NOM;NEUT	_	_	_	_
+2	बहुना	बहु	_	_	N;INS;SG;MASC	_	_	_	_
+3	–	–	_	_	_	_	_	_	_
+
+# newpar id = panc0.p7
+# sent_id = panc0.s12
+# text = अजातमृतमूर्खेभ्यो मृताजातौ सुतौ वरम्। यतस्तौ स्वल्पदुःखाय यावज्जीवं जडो दहेत् ॥
+# translit = ajātamr̥tamūrkhebhyo mr̥tājātau sutau varam. yatastau svalpaduḥkhāya yāvajjīvaṁ jaḍo dahet :
+# ptext = a jAta mfta mUrKeByaH mfta a jAtO sutO varam yataH tO svalpa duHKAya yAvat jIvam jaqaH dahet
+# text_fr = À choisir entre non né, mort ou idiot, mieux vaut un fils mort-né car la douleur est courte. Un fils idiot, lui, fait souffrir toute la vie !
+# text_en = Of unborn, dead or fools, dead and unborn sons are better. For they cause a little pain whereas an idiot destroys the whole life.
+# ryder = Of sons unborn, or dead, or fools, / Unborn or dead will do: / They cause a little grief, no doubt; / But fools, a long life through.
+1	अजात	जात	_	_	NEG;ADJ	_	_	_	_
+2	मृत	मृ	_	_	V;PST;PASS;V.PTCP	_	_	_	_
+3	मूर्खेभ्यः	मूर्ख	_	_	MASC;PL;AT+ABL;ADJ	_	_	_	_
+4	मृत	मृ	_	_	V;PST;PASS;V.PTCP	_	_	_	_
+5	अजातौ	जात	_	_	NEG;MASC;NOM;ADJ;DU	_	_	_	_
+6	सुतौ	सुत	_	_	N;DU;NOM;MASC	_	_	_	_
+7	वरम्	वरम्	_	_	ADV	_	_	_	_
+8	।	।	_	_	_	_	_	_	_
+9	यतः	यतः	_	_	SG;AT+ABL;NEUT;ADV	_	_	_	_
+10	तौ	तद्	_	_	PRO;MASC;3;NOM;DU	_	_	_	_
+11	स्वल्प	स्वल्प	_	_	ADJ	_	_	_	_
+12	दुःखाय	दुःख	_	_	N;NEUT;SG;DAT	_	_	_	_
+13	यावत्	यावत्	_	_	ADV	_	_	_	_
+14	जीवं	जीव	_	_	N;SG;MASC;ACC	_	_	_	_
+15	जडो	जड	_	_	N;NOM;MASC;SG	_	_	_	_
+16	दहेत्	दह्	_	_	V;SG;ACT;3;FIN;OPT	_	_	_	_
+17	॥	॥	_	_	_	_	_	_	_
+
+# sent_id = panc0.s45
+# text = ततः प्रभृती एतत् पञ्चतन्त्रकम् नाम नीतिशास्त्रं बालावबोधनार्थम् भूतले प्रवृत्तम्।
+# translit = tataḥ prabhr̥tī etat pañcatantrakam nāma nītiśāstraṁ bālāvabodhanārtham bhūtale pravr̥ttam.
+# wtext = ततः प्रभृत्येतत् पञ्चतन्त्रं नाम नीतिशास्त्रं बालबोधनार्थं भूतले प्रवृत्तम्।
+# wtranslit = tataḥ prabhr̥tyetat pañcatantraṁ nāma nītiśāstraṁ bālabodhanārthaṁ bhūtale pravr̥ttam.
+# wsid = ॥०.७॥
+# orig = panchatantra.conllu sent_id 45
+# text_fr = Depuis ce temps-là, vulgarisé pour tous les enfants sur terre, le savant traité de Niti-Shastra est connu sous le nom de Pañcatantra.
+# ryder = Since that day this work on the art of intelligent living, called Panchatantra, or the "Five Books," has traveled the world, aiming at the awakening of intelligence in the young.
+1	ततः	ततः	_	_	ADV	_	_	_	_
+2	प्रभृती	प्रभृति	_	_	N;DU;NOM;FEM	_	_	_	_
+3	एतत्	एतद्	_	_	SG;NOM;DET;NEUT	_	_	_	_
+4	पञ्चतन्त्रकम्	पञ्चतन्त्र	_	_	NOM;NEUT;PROPN;SG	_	_	_	_
+5	नाम	नामन्	_	_	N;NEUT;NOM;SG	_	_	_	_
+6	नीतिशास्त्रं	नीतिशास्त्र	_	_	N;NEUT;NOM;SG	_	_	_	_
+7	बाल	बाल	_	_	N	_	_	_	_
+8	अवबोधन	अवबोधनध	_	_	N	_	_	_	_
+9	अर्थम्	अर्थ	_	_	N;SG;MASC;ACC	_	_	_	_
+10	भूतले	भूतल	_	_	N;NEUT;SG;ESS	_	_	_	_
+11	प्रवृत्तम्	प्र-वृ	_	_	V;SG;PST;PASS;NOM;V.PTCP;NEUT	_	_	_	_
+12	।	।	_	_	_	_	_	_	_
+
+# sent_id = s60
+# text = त्वम् इच्छसि चेत् अहम् भवतः गृहम् आगमिष्यामि।
+# translit = tvam icchasi cet aham bhavataḥ gr̥ham āgamiṣyāmi.
+# text_en = If you like, I will come to his house.
+1	त्वम्	त्वद्	_	_	SG;PRO;NOM;2	_	_	_	_
+2	इच्छसि	इष्	_	_	V;SG;IND;ACT;PRS;FIN;2	_	_	_	_
+3	चेत्	चेद्	_	_	CONJ	_	_	_	_
+4	अहम्	अहम्	_	_	SG;1;PRO;NOM	_	_	_	_
+5	भवतः	भवत्	_	_	SG;PRO;FORM;3;GEN	_	_	_	_
+6	गृहम्	गृह	_	_	N;NEUT;SG;ACC	_	_	_	_
+7	आगमिष्यामि	आ-गम्	_	_	V;SG;1;IND;ACT;FIN;FUT	_	_	_	_
+8	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc1.s8
+# text = तत् प्रभूतेऽपि वित्तेर्थोपायाश्चिन्तनीयाः कर्तव्याश्चेति।
+# translit = tat prabhūte’pi vitterthopāyāścintanīyāḥ kartavyāśceti.
+# ptext = praBUtaH UtaH api sam citaH arTaH pra vecyamAnaH aYjanam iva kzIyate
+# orig = panchatantra.conllu sent_id 55
+# ryder = "Even an abundant store of wealth, if pecked at, sinks together like a pile of soot.
+1	तत्	तद्	_	_	SG;PRO;3;NOM;NEUT	_	_	_	_
+2	प्रभूते	प्रभूत	_	_	NEUT;SG;ADJ;ESS	_	_	_	_
+3	अपि	अपि	_	_	ADV	_	_	_	_
+4	वित्त	वित्त	_	_	N	_	_	_	_
+5	पायाः	पा	_	_	N;SG;FEM;DAT	_	_	_	_
+6	चिन्तनीयाः	चिन्त्	_	_	V;PASS;MASC;NOM;V.PTCP;PL;FUT	_	_	_	_
+7	कर्तव्याः	कृ	_	_	V;PASS;MASC;NOM;V.PTCP;PL;FUT	_	_	_	_
+8	च	च	_	_	CONJ	_	_	_	_
+9	इति	इति	_	_	ADV	_	_	_	_
+10	।	।	_	_	_	_	_	_	_
+
+# newpar id = panc5.p25
+# sent_id = panc5.s157a
+# text = अथ तया गत्वा सर्वम् सगर्वया राज्ञे निवेदितम्।
+# translit = atha tayā gatvā sarvam sagarvayā rājñe niveditam.
+# orig = panchatantra.conllu sent_id 1288
+# ryder = So she went to the king and proudly told him all.
+1	अथ	अथ	_	_	ADV	_	_	_	_
+2	तया	तद्	_	_	SG;FEM;DET;INS	_	_	_	_
+3	गत्वा	गम्	_	_	V;V.CVB	_	_	_	_
+4	सर्वम्	सर्व	_	_	SG;ACC;DET;NEUT	_	_	_	_
+5	सगर्वया	स-गर्वय	_	_	N;INS;SG;FEM	_	_	_	_
+6	राज्ञे	राजन्	_	_	N;SG;MASC;DAT	_	_	_	_
+7	निवेदितम्	नि-विद्	_	_	V;SG;PST;NOM;V.PTCP;{CAUS/PASS};NEUT	_	_	_	_
+8	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc1.s17
+# text = यत्नेन मतिमांस्तस्मादर्थमेकम् प्रसाधयेत् ॥
+# translit = yatnena matimāṁstasmādarthamekam prasādhayet :
+# wtext = यत्नेन मतिमांस्तस्मादर्थमेकं प्रसाधयेत् ॥ १.२॥
+# wtranslit = yatnena matimāṁstasmādarthamekaṁ prasādhayet : 1.2:
+# wsid = ॥१.२॥
+# text_en = An intelligent makes the effort to reuse one of those things.
+1	यत्नेन	यत्न	_	_	N;INS;SG;MASC	_	_	_	_
+2	मतिमान्	मतिमात्	_	_	MASC;NOM;SG;ADJ	_	_	_	_
+3	तस्मात्	तद्	_	_	SG;PRO;MASC;AT+ABL	_	_	_	_
+4	अर्थम्	अर्थ	_	_	N;SG;MASC;ACC	_	_	_	_
+5	एकम्	एक	_	_	SG;ACC;MASC;NUM	_	_	_	_
+6	प्रसाधयेत्	प्र-सिध्	_	_	V;SG;CAUS;3;FIN;OPT	_	_	_	_
+7	॥	॥	_	_	_	_	_	_	_
+
+# sent_id = panc0.s2f
+# text = चाणक्याय च विदुषे नमोऽस्तु नयशास्त्रकर्तृभ्यः॥
+# translit = cāṇakyāya ca viduṣe namo’stu nayaśāstrakartr̥bhyaḥ :
+# text_fr = Et à Canakya, ministre de Chandra Gupta Maurya, À tous les savants, Auteurs du traité du Naya-shastra, traité qui rend compte de la réalité multiforme, Vous tous, protégéez-nous !
+# wsid = ॥०.१॥
+1	चाणक्याय	चाणक्य	_	_	MASC;PROPN;SG;DAT	_	_	_	_
+2	च	च	_	_	CONJ	_	_	_	_
+3	विदुषे	विद्वस्	_	_	N;SG;MASC;DAT	_	_	_	_
+4	नमः	नमस्	_	_	N;NEUT;NOM;SG	_	_	_	_
+5	अस्तु	अस्	_	_	SG;ACT;3;IMP;FIN;V	_	_	_	_
+6	नयशास्त्र	नयशास्त्र	_	_	PROPN	_	_	_	_
+7	कर्तृभ्यः	कर्तृ	_	_	N;PL;MASC;DAT	_	_	_	_
+8	॥	॥	_	_	_	_	_	_	_
+
+# newpar id = panc1.p42
+# sent_id = panc1.s117
+# text = एतस्मिन्नन्तरे ते वानराः यथेच्छया क्रीडितुम् आरब्धम्।
+# wtext = अथ कदाचित् तत्रानुषंगिकं वानरयूथम् इतश् चेतश् च परिभ्रमद् आगतम्।
+# wtranslit = atha kadācit tatrānuṣaṁgikaṁ vānarayūtham itaś cetaś ca paribhramad āgatam.
+# pparagraph
+# ptext(113) = aTa ekasmin dine vAnara yUTam tat arDa kfta devatA yatanam A yAtam
+# ryder(113) = Now one day a troop of monkeys came upon the half-built temple.
+# wtext = तत्रैकस्य कस्यचिच् छिल्पिनोऽर्धस्फाटितोऽञ्जनवृक्षदारुमयः स्तंभः खदिरकीलकेन मध्यनिहितेन तिष्ठति।
+# wtranslit = tatraikasya kasyacic chilpino’rdhasphāṭito’ñjanavr̥kṣadārumayaḥ staṁbhaḥ khadirakīlakena madhyanihitena tiṣṭhati.
+# ptext(114) = aTa ekasya SilpinaH arDa sPawitaH mahA pramARaH aYjana stamBaH Sirasi ni KAta KAdira kIlakaH ava tizWate
+# ryder(114) = There lay a tremendous anjana-log, which a mechanic had begun to split, a wedge of acacia-wood being thrust in at the top.
+#
+# translit = etasminnantare te vānarāḥ yathecchayā krīḍitum ārabdham.
+# wtext = एतस्मिंन् अन्तरे ते वानरास् तरुशिखरप्रसादशृंगदारुपर्यंतेषु यथेच्छया क्रीडितुम् आरब्धाः।
+# wtranslit = etasmiṁn antare te vānarās taruśikharaprasādaśr̥ṁgadāruparyaṁteṣu yathecchayā krīḍitum ārabdhāḥ.
+# orig = panchatantra.conllu sent_id 115
+# ptext = vAnarAH ca sva icCayA taru SiKara prAsAda SfNga dAru nicayezu yaTezwam krIqitum A rabDAH
+# ryder = There the monkeys began their playful frolics upon tree-top, lofty roof, and woodpile.
+1	एतस्मिन्	एतद्	_	_	SG;ESS;DET;NEUT	_	_	_	_
+2	अन्तरे	अन्तर	_	_	N;NEUT;SG;ESS	_	_	_	_
+3	ते	तद्	_	_	MASC;NOM;PL;DET	_	_	_	_
+4	वानराः	वानर	_	_	N;PL;NOM;MASC	_	_	_	_
+5	यथा	यथा	_	_	ADV	_	_	_	_
+6	इच्छया	इच्छा	_	_	N;INS;SG;FEM	_	_	_	_
+7	क्रीडितुम्	क्रीड्	_	_	V;NFIN	_	_	_	_
+8	आरब्धम्	आ-रब्ध्	_	_	V;SG;PST;PASS;NOM;V.PTCP;NEUT	_	_	_	_
+9	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc5.s179
+# text = कथम् असौ कृतघ्नः भविष्यति।
+# translit = katham asau kr̥taghnaḥ bhaviṣyati.
+# orig = panchatantra.conllu sent_id 1418
+# ryder = How then can he prove ungrateful?"
+1	कथम्	कथम्	_	_	ADV	_	_	_	_
+2	असौ	अदस्	_	_	SG;PRO;MASC;NOM	_	_	_	_
+3	कृत	कृत	_	_	V;PST;PASS;V.PTCP	_	_	_	_
+4	घ्नः	घ्न	_	_	N;NOM;MASC;SG	_	_	_	_
+5	भविष्यति	भू	_	_	V;SG;IND;ACT;3;FIN;FUT	_	_	_	_
+6	।	।	_	_	_	_	_	_	_
+
+# newpar id = panc5.p46
+# sent_id = panc5.s166
+# text = इति उक्ते असौ सिंहसकाशं गतः।
+# translit = iti ukte asau siṁhasakāśaṁ gataḥ.
+# orig = panchatantra.conllu sent_id 1348
+# ryder = Thereupon Victor sought the presence of the lion,
+1	इति	इति	_	_	ADV	_	_	_	_
+2	उक्ते	वच्	_	_	V;PST;SG;PASS;ESS;V.PTCP;NEUT	_	_	_	_
+3	असौ	अदस्	_	_	SG;PRO;MASC;NOM	_	_	_	_
+4	सिंह	सिंह	_	_	N	_	_	_	_
+5	सकाशम्	सकाश	_	_	N;SG;MASC;ACC	_	_	_	_
+6	गतः	गत	_	_	V;SG;PST;PASS;MASC;NOM;V.PTCP	_	_	_	_
+7	।	।	_	_	_	_	_	_	_
+
+# newpar id = panc5.p85
+# sent_id = panc5.s177
+# text = तथा तस्य मया शरणा अगतः।
+# translit = tathā tasya mayā śaraṇā agataḥ.
+# orig = panchatantra.conllu sent_id 1416
+# ryder = "Now I formerly gave him a safe-conduct,
+1	तथा	तथा	_	_	ADV	_	_	_	_
+2	तस्य	तद्	_	_	SG;PRO;MASC;GEN	_	_	_	_
+3	मया	अहम्	_	_	SG;1;PRO;INS	_	_	_	_
+4	शरणा	शरण	_	_	N;NOM;SG;FEM	_	_	_	_
+5	अगतः	अ-गम्	_	_	V;SG;PST;PASS;MASC;NOM;V.PTCP	_	_	_	_
+6	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc0.s40
+# text = तत् लिख्यताम् अद्यतनः दिवसः
+# translit = tat likhyatām adyatanaḥ divasaḥ
+# ptext = tat liKyatAm adyatanaH divasaH
+# wtext = तल्लिख्यतामद्यतनो दिवसः यद्यहं षड्मासाभ्यन्तरे तव पुत्रान्नयशास्त्रं प्रत्यनन्यसदृशान्न करिष्यामि ततो नार्हति देवो देवमार्गसंदर्शयितुम्।”
+# wtranslit = tallikhyatāmadyatano divasaḥ yadyahaṁ ṣaḍmāsābhyantare tava putrānnayaśāstraṁ pratyananyasadr̥śānna kariṣyāmi tato nārhati devo devamārgasaṁdarśayitum.”
+# orig = panchatantra.conllu sent_id 40
+# text_fr = Écrivez !
+# ryder = Make a note of the date.
+1	तत्	तद्	_	_	SG;NOM;DET;NEUT	_	_	_	_
+2	लिख्यताम्	लिख्	_	_	V;SG;PASS;3;PRS;IMP;FIN	_	_	_	_
+3	अद्यतनः	अद्यतन	_	_	MASC;NOM;SG;ADJ	_	_	_	_
+4	दिवसः	दिवस	_	_	N;NOM;MASC;SG	_	_	_	_
+
+# sent_id = panc0.s35
+# text = अहम् तव पुत्रान् मासषट्केन यदि नीतिशास्त्रज्ञानम् न करोमि ततः अहम् स्वनामत्यागम् करोमि।
+# translit = aham tava putrān māsaṣaṭkena yadi nītiśāstrajñānam na karomi tataḥ aham svanāmatyāgam karomi.
+# wtext = पुनरेतान् तव पुत्रान् मासषट्केन यदि नीतिशास्त्रज्ञान् न करोमि ततः स्वनामत्यागं करोमि।
+# wtranslit = punaretān tava putrān māsaṣaṭkena yadi nītiśāstrajñān na karomi tataḥ svanāmatyāgaṁ karomi.
+# ptext = etAn punaH mAsa zawkena yadi nIti SAstra jYAn na karomi tataH sva nAma parityAgam karomi
+# wsid = ॥०.७॥
+# orig = panchatantra.conllu sent_id 35
+# text_fr = Mais en revanche, si, en six mois, je n’éduque pas vos fils dans l’art du Niti-Shastra, alors je ne serai plus digne de porter mon nom !
+# text_en = If I do not make your sons acquainted with the etiquette in six months, I will give up my own name.
+# ryder = But if I do not, in six months' time, make the boys acquainted with the art of intelligent living, I will give up my own name.
+1	अहम्	अहम्	_	_	SG;1;PRO;NOM	_	_	_	_
+2	तव	त्वद्	_	_	SG;PRO;2;GEN	_	_	_	_
+3	पुत्रान्	पुत्र	_	_	N;PL;MASC;ACC	_	_	_	_
+4	मास	मास	_	_	N	_	_	_	_
+5	षट्केन	षट्क	_	_	N;INS;NEUT;SG	_	_	_	_
+6	यदि	यदि	_	_	CONJ	_	_	_	_
+7	नीतिशास्त	नीतिशस्त्र	_	_	PROPN	_	_	_	_
+8	ज्ञानम्	ज्यन	_	_	N;NEUT;NOM;SG	_	_	_	_
+9	न	न	_	_	NEG;PART	_	_	_	_
+10	करोमि	कृ	_	_	V;SG;1;IND;ACT;PRS;FIN	_	_	_	_
+11	ततः	ततः	_	_	ADV	_	_	_	_
+12	अहम्	अहम्	_	_	SG;1;PRO;NOM	_	_	_	_
+13	स्व	स्व	_	_	REFL;DET	_	_	_	_
+14	नाम	नामन्	_	_	N	_	_	_	_
+15	त्यागम्	त्याग	_	_	N;SG;MASC;ACC	_	_	_	_
+16	करोमि	कृ	_	_	V;SG;1;IND;ACT;PRS;FIN	_	_	_	_
+17	।	।	_	_	_	_	_	_	_
+
+# newpar id = panc1.p2
+# sent_id = panc1.s4
+# text = तत् यथा श्रूयते।
+# translit = tat yathā śrūyate.
+# wsid = ॥१.२॥
+# orig = panchatantra.conllu sent_id 51
+# ryder = And this is how it happened.
+1	तत्	तद्	_	_	SG;PRO;3;NOM;NEUT	_	_	_	_
+2	यथा	यथा	_	_	ADV	_	_	_	_
+3	श्रूयते	श्रु	_	_	V;SG;IND;PASS;3;PRS;FIN	_	_	_	_
+4	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc1.s199
+# text = किम् अत्र ज्ञातव्यम्
+# translit = kim atra jñātavyam
+# orig = panchatantra.conllu sent_id 152
+# ptext = kim atra kzAtavyam
+# ryder = "Isn't it plain?
+# text_en = what is to be known?
+1	किम्	किम्	_	_	SG;PRO;NOM;NEUT	_	_	_	_
+2	अत्र	अत्र	_	_	ADV	_	_	_	_
+3	ज्ञातव्यम्	ज्ञा	_	_	V;SG;PASS;NOM;V.PTCP;NEUT;FUT	_	_	_	_
+
+# sent_id = panc0.s21
+# text = अशाश्वतो यं जीवितव्यविषयः।
+# translit = aśāśvato yaṁ jīvitavyaviṣayaḥ.
+# text_fr = « La vie n’est pas chose éternelle
+# text_en = Life is not eternal.
+# ryder = "O King, the duration of life is limited,
+1	अशाश्वतो	शाश्वत	_	_	NEG;SG;MASC;NOM;ADJ	_	_	_	_
+2	यं	यद्	_	_	SG;ACC;PRO;MASC	_	_	_	_
+3	जीवितव्य	जीवितव्य	_	_	N	_	_	_	_
+4	विषयः	विषय	_	_	N;NOM;MASC;SG	_	_	_	_
+5	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc5.s150
+# text = तिष्ठत यूयम् यथासुखम्।
+# translit = tiṣṭhata yūyam yathāsukham.
+# orig = panchatantra.conllu sent_id 1274
+# ryder = "You gentlemen may be quite comfortable.
+1	तिष्ठत	स्था	_	_	V;ACT;IMP;PL;FIN;2	_	_	_	_
+2	यूयम्	त्वद्	_	_	PRO;NOM;PL;2	_	_	_	_
+3	यथा	यथा	_	_	ADV	_	_	_	_
+4	सुखम्	सुख	_	_	N;NEUT;NOM;SG	_	_	_	_
+5	।	।	_	_	_	_	_	_	_
+
+# newpar id = panc0.p11
+# sent_id = panc0.s15
+# text = तदेतेषां यथा बुद्धिप्रबोधनं भवति तथा कोऽप्युपायोऽनुष्ठीयताम्।
+# orig = panchatantra.conllu sent_id 15
+# translit = tadeteṣāṁ yathā buddhiprabodhanaṁ bhavati tathā ko’pyupāyo’nuṣṭhīyatām .
+# ptext = tat ezAm budDi praboDanam yaTA Bavati taTA kena api upAyena anu sTeyam iti
+# text_fr = Alors, pour éveiller leur intelligence, que l’on trouve une solution.
+# ryder = Some means must therefore be devised to awaken their intelligence.
+1	तदा	तदा	_	_	ADV	_	_	_	_
+2	एतेषां	एतद्	_	_	PRO;PL;GEN;NEUT	_	_	_	_
+3	यथा	यथा	_	_	ADV	_	_	_	_
+4	बुद्धि	बुद्धि	_	_	N	_	_	_	_
+5	प्रबोधनं	प्रबोधन	_	_	N;NEUT;SG;ACC	_	_	_	_
+6	भवति	भू	_	_	V;SG;IND;ACT;3;PRS;FIN	_	_	_	_
+7	तथा	तथा	_	_	ADV	_	_	_	_
+8	कः	किम्	_	_	SG;MASC;NOM;DET	_	_	_	_
+9	अपि	अपि	_	_	ADV	_	_	_	_
+10	उपायः	उपाय	_	_	N;NOM;MASC;SG	_	_	_	_
+11	अनुष्ठीयताम्	अनु-स्था	_	_	V;SG;PASS;3;IMP;FIN	_	_	_	_
+12	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc6.s189
+# text = कियन्तम् अध्वानम् गत्वा यथाशक्ति कम् अशन उपायम् कृत्वा द्रुततरम् पुनः आगच्छ।
+# translit = kiyantam adhvānam gatvā yathāśakti kam aśana upāyam kr̥tvā drutataram punaḥ āgaccha.
+# orig = panchatantra.conllu sent_id 1445
+# ryder = Go somewhere, no matter where, find some way, any way, to get food, and come back in a hurry."
+1	कियन्तम्	कियत्	_	_	SG;ACC;MASC;DET	_	_	_	_
+2	अध्वानम्	अध्वन्	_	_	N;SG;MASC;ACC	_	_	_	_
+3	गत्वा	गम्	_	_	V;V.CVB	_	_	_	_
+4	यथाशक्ति	यथा-शक्ति	_	_	ADV	_	_	_	_
+5	कम्	किम्	_	_	SG;ACC;PRO;MASC	_	_	_	_
+6	अशन	अशन	_	_	N	_	_	_	_
+7	उपायम्	उपाय	_	_	N;SG;MASC;ACC	_	_	_	_
+8	कृत्वा	कृ	_	_	V;V.CVB	_	_	_	_
+9	द्रुततरम्	द्रुततर	_	_	N;NEUT;SG;ACC	_	_	_	_
+10	पुनः	पुनर्	_	_	ADV	_	_	_	_
+11	आगच्छ	आ-गम्	_	_	V;SG;ACT;IMP;FIN;2	_	_	_	_
+12	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc0.s37
+# text = श्रूयतां ममैष सिंहनादः।
+# translit = śrūyatāṁ mamaiṣa siṁhanādaḥ.
+# ptext = SrUyatAm mama eza siMha nAdaH
+# orig = panchatantra.conllu sent_id 37
+# text_fr = écoutez donc ma parole de lion :
+# ryder = Listen to my lion-roar.
+1	श्रूयतां	श्रु	_	_	V;SG;PASS;3;IMP;FIN	_	_	_	_
+2	मम	अस्मद्	_	_	SG;1;PRO;GEN	_	_	_	_
+3	एष	एतद्	_	_	SG;MASC;NOM;DET	_	_	_	_
+4	सिंह	सिंह	_	_	N	_	_	_	_
+5	नादः	नाद	_	_	N;NOM;MASC;SG	_	_	_	_
+6	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc0.s5
+# text = अस्ति दाक्षिणात्ये जनपदे महिलारोप्यं नाम नगरम्।
+# translit = asti dākṣiṇātye janapade mahilāropyaṁ nāma nagaram.
+# wsid = ॥०.३॥
+# orig = panchatantra.conllu sent_id 5
+# text_fr = Il y avait, dans une contrée méridionale, une contrée peuplée, une ville du nom de Mahilaropya.
+# text_en = There is a city called Mahilaropya in the southern country.
+# ryder = In the southern country is a city called Maidens' Delight.
+1	अस्ति	अस्	_	_	SG;IND;ACT;3;PRS;FIN;V	_	_	_	_
+2	दाक्षिणात्ये	दाक्षिणात्य	_	_	NEUT;SG;ADJ;ESS	_	_	_	_
+3	जनपदे	जनपद	_	_	N;NEUT;SG;ESS	_	_	_	_
+4	महिलारोप्यं	महिलारोप्य	_	_	NOM;NEUT;PROPN;SG	_	_	_	_
+5	नाम	नामन्	_	_	N;NEUT;NOM;SG	_	_	_	_
+6	नगरम्	नगर	_	_	N;NEUT;NOM;SG	_	_	_	_
+7	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc0.s19
+# text = ततः बुद्धिप्रबोधनः भवति।
+# translit = tataḥ buddhiprabodhanaḥ bhavati.
+# wtext = ततः प्रतिबोधनं भवति।'
+# wtranslit = tataḥ pratibodhanaṁ bhavati.'
+# wsid = ॥०.६॥
+# orig = panchatantra.conllu sent_id 19
+# text_fr = C’est ainsi que se forge la connaissance. »
+# ryder = Then the intelligence awakens."
+1	ततः	ततः	_	_	ADV	_	_	_	_
+2	बुद्धि	बुद्धि	_	_	N	_	_	_	_
+3	प्रबोधनः	प्रबोधन	_	_	N;NOM;MASC;SG	_	_	_	_
+4	भवति	भू	_	_	V;SG;IND;ACT;3;PRS;FIN	_	_	_	_
+5	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc1.s208
+# text = अनभिज्ञम् भवान् किल सेवाधर्मस्य।
+# translit = anabhijñam bhavān kila sevādharmasya.
+# wtext = अनभिज्ञो भवान् सेवाधर्मस्य।
+# wtranslit = anabhijño bhavān sevādharmasya.
+# orig = panchatantra.conllu sent_id 158
+# ptext = an aBijYa BavAn kila sevA Darmasya
+# ryder = "you do not know how to make yourself useful to a superior.
+1	अनभिज्ञम्	अन्-अभिज्ञ	_	_	N;NOM;MASC;SG	_	_	_	_
+2	भवान्	भवत्	_	_	SG;PRO;FORM;MASC;3;NOM	_	_	_	_
+3	किल	किल	_	_	ADV	_	_	_	_
+4	सेवा	सेवा	_	_	N	_	_	_	_
+5	धर्मस्य	धर्म	_	_	N;GEN;SG;MASC	_	_	_	_
+6	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc1.s19
+# text = यस्यार्थाः स पुमान् लोके यस्यार्थाः स च पण्डितः॥
+# translit = yasyārthāḥ sa pumān loke yasyārthāḥ sa ca paṇḍitaḥ:
+# wtext = यस्यार्थाः स पुमान्लोके यस्यार्थाः स च पण्डितः॥ १.३॥
+# wtranslit = yasyārthāḥ sa pumānloke yasyārthāḥ sa ca paṇḍitaḥ: 1.3:
+# wsid = ॥१.३॥
+# text_en = He who has wealth is a man of the world, he who has wealth is a wise man.
+1	यस्या	यद्	_	_	SG;PRO;MASC;GEN	_	_	_	_
+2	अर्थाः	अर्थ	_	_	N;PL;NOM;MASC	_	_	_	_
+3	स	तद्	_	_	SG;PRO;MASC;NOM	_	_	_	_
+4	पुमान्	पुंस्	_	_	N;NOM;MASC;SG	_	_	_	_
+5	लोके	लोक्	_	_	N;SG;MASC;ESS	_	_	_	_
+6	यस्या	यद्	_	_	SG;PRO;MASC;GEN	_	_	_	_
+7	अर्थाः	अर्थ	_	_	N;PL;NOM;MASC	_	_	_	_
+8	स	तद्	_	_	SG;PRO;MASC;NOM	_	_	_	_
+9	च	च	_	_	CONJ	_	_	_	_
+10	पण्डितः	पण्डित	_	_	MASC;NOM;SG;ADJ	_	_	_	_
+11	॥	॥	_	_	_	_	_	_	_
+
+# sent_id = panc1.s6
+# text = तत्र बभूवुः धर्मोपार्जितभूरिविभवो वर्ध्दमान नाम वणिक्पुत्रः।
+# translit = tatra babhūvuḥ dharmopārjitabhūrivibhavo vardhdamāna nāma vaṇikputraḥ.
+# wtext = तत्र धर्मोपार्जितभूरिविभवो वर्धमानको नाम वणिक्पुत्रो बभूव।
+# wtranslit = tatra dharmopārjitabhūrivibhavo vardhamānako nāma vaṇikputro babhūva.
+# ptext = tatra an eka guRa samUhaH janma antara Darma up A arjan ava Apta Dana samUhaH varDa mAna nAmA sArTa vAhaH prati vasati sma
+# wsid = ॥१.२॥
+# orig = panchatantra.conllu sent_id 53
+# ryder = In this city lived a merchant named Increase. He possessed a heap of numerous virtues, and a heap of money, a result of the accumulation of merit in earlier lives.
+1	तत्र	तत्र	_	_	ADV	_	_	_	_
+2	बभूवुः	भू	_	_	V;IND;ACT;3;PL;PFV;FIN	_	_	_	_
+3	धर्म	धर्म	_	_	N	_	_	_	_
+4	उपार्जित	उप-र्ज्	_	_	V;PST;PASS;V.PTCP	_	_	_	_
+5	भूरि	भूरि	_	_	ADV	_	_	_	_
+6	विभवः	विभव	_	_	MASC;NOM;SG;ADJ	_	_	_	_
+7	वर्ध्दमान	वर्ध्दमान	_	_	MASC;NOM;PROPN;SG	_	_	_	_
+8	नाम	नामन्	_	_	N;NEUT;NOM;SG	_	_	_	_
+9	वणिक्	वणिज्	_	_	N	_	_	_	_
+10	पुत्रः	पुत्र	_	_	N;NOM;MASC;SG	_	_	_	_
+11	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc0.s10
+# text = तत् एतान् पश्यतः मे महदपि राज्यम् न सौख्यम् आवहति ।
+# translit = tat etān paśyataḥ me mahadapi rājyam na saukhyam āvahati .
+# wtext = तदेतान् पश्यतो मे महदपि राज्यं न सौख्यम् आवहति ।
+# wtranslit = tadetān paśyato me mahadapi rājyaṁ na saukhyam āvahati .
+# wsid = ॥०.३॥
+# orig = panchatantra.conllu sent_id 10
+# text_fr = De ce fait, le royaume ne connaîtra guère de tranquillité !
+# text_en = So when I see them, the kingdom, however great, does not bring me happiness.
+# ryder = So when I behold them, my kingdom brings me no happiness, though all external thorns are drawn.
+1	तत्	तद्	_	_	ADV	_	_	_	_
+2	एतान्	एतद्	_	_	ACC;PRO;MASC;PL	_	_	_	_
+3	पश्यतः	पश््	_	_	V;SG;MASC;ACT;PRS;V.PTCP;GEN	_	_	_	_
+4	मे	अहम्	_	_	SG;1;PRO;GEN	_	_	_	_
+5	महत्	महत्	_	_	NEUT;NOM;SG;ADJ	_	_	_	_
+6	अपि	अपि	_	_	ADV	_	_	_	_
+7	राज्यम्	राज्य	_	_	N;NEUT;NOM;SG	_	_	_	_
+8	न	न	_	_	NEG;PART	_	_	_	_
+9	सौख्यम्	सौख्य	_	_	N;NEUT;SG;ACC	_	_	_	_
+10	आवहति	आ-वह्	_	_	V;SG;IND;ACT;3;PRS;FIN	_	_	_	_
+11	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc5.s145
+# text = अधुना जामातृप्रभावेण सकलाम् वसुमतीम् वशे करिष्यामि।
+# translit = adhunā jāmātr̥prabhāveṇa sakalām vasumatīm vaśe kariṣyāmi.
+# orig = panchatantra.conllu sent_id 1256
+# ryder = Now, through the power of our son-in-law, I shall reduce the whole world to subjection."
+1	अधुना	अधुना	_	_	ADV	_	_	_	_
+2	जामातृ	जामातृ	_	_	N	_	_	_	_
+3	प्रभावेण	प्रभाव	_	_	N;INS;SG;MASC	_	_	_	_
+4	सकलाम्	सकल	_	_	FEM;ACC;SG;ADJ	_	_	_	_
+5	वसुमतीम्	वसुमती	_	_	N;FEM;SG;ACC	_	_	_	_
+6	वशे	वश	_	_	N;SG;MASC;ESS	_	_	_	_
+7	करिष्यामि	कृ	_	_	V;SG;1;IND;ACT;FIN;FUT	_	_	_	_
+8	।	।	_	_	_	_	_	_	_
+
+# newpar id = panc6.p2
+# sent_id = panc6.s185
+# text = अस्ति कस्मिंश्चिद् अधिष्ठाने यज्ञदत्तो नाम ब्राह्मणः।
+# translit = asti kasmiṁścid adhiṣṭhāne yajñadatto nāma brāhmaṇaḥ.
+# wikisource-ryder = https://en.wikisource.org/wiki/The_Panchatantra_(Purnabhadra%27s_Recension_of_1199_CE)/Book_1/The_Ungrateful_Man
+# orig = panchatantra.conllu sent_id 1441
+# ryder = In a certain town lived a Brahman whose name was Sacrifice.
+1	अस्ति	अस्	_	_	SG;IND;ACT;3;PRS;FIN;V	_	_	_	_
+2	कस्मिंश्चिद्	किम्-चिद्	_	_	SG;ESS;DET;NEUT	_	_	_	_
+3	अधिष्ठाने	अधिष्ठान	_	_	N;NEUT;SG;ESS	_	_	_	_
+4	यज्ञदत्तो	यज्ञदत्त	_	_	MASC;NOM;PROPN;SG	_	_	_	_
+5	नाम	नामन्	_	_	N;NEUT;NOM;SG	_	_	_	_
+6	ब्राह्मणः	ब्राह्मण	_	_	N;NOM;MASC;SG	_	_	_	_
+7	।	।	_	_	_	_	_	_	_
+
+# newpar id = panc1.p27
+# sent_id = panc1.s73
+# text = अथ तदवधार्य सञ्जीवकस्य रक्षापुरुषान् निरूप्या शेषसार्थम् स प्रस्थितः।
+# Missing from Wikisource:
+# wtext = न स्वल्पस्य कृते भूरि नाशयेन् मतिमान् नरः। एतद् एवात्र पांडित्यं यत् स्वल्पाद् भूरिरक्षणम्॥पञ्च_१.१९॥
+# wtranslit = na svalpasya kr̥te bhūri nāśayen matimān naraḥ. etad evātra pāṁḍityaṁ yat svalpād bhūrirakṣaṇam:pañca_1.19:
+# Missing from panchatantra.conllu / Ryder:
+# ptext(74) = ayam saYjIvakaH yadi jIvati tadA enam gfhItvA yadi mriyate tadA amum sam kftya yuzmABiH A gantavyam
+# ryder = "You must join me later, bringing Lively, if he lives; if he dies, after performing the last sad rites."
+#
+# translit = atha tadavadhārya sañjīvakasya rakṣāpuruṣān nirūpyā śeṣasārtham sa prasthitaḥ.
+# wtext = अथासौ तद् अवधार्य संजीवकस्य रक्षापुरुषान् निरूप्याशेषसार्थं नीत्वा प्रस्थितः।
+# wtranslit = athāsau tad avadhārya saṁjīvakasya rakṣāpuruṣān nirūpyāśeṣasārthaṁ nītvā prasthitaḥ.
+# text_en = He pondered it, then waved at Sanjivaka's caretakers and left with the rest of the caravan.
+# orig = panchatantra.conllu sent_id 75
+# ptext = evam A diSya yaTA aBi lazitam deSa antaram pra sTitaH
+# ryder = Having given these directions, he started for his destination.
+1	अथ	अथ	_	_	ADV	_	_	_	_
+2	तत्	तद्	_	_	SG;ACC;PRO;NEUT	_	_	_	_
+3	अवधार्य	अव-धृ	_	_	V;V.CVB	_	_	_	_
+4	सञ्जीवकस्य	सञ्जीवक	_	_	MASC;GEN;PROPN;SG	_	_	_	_
+5	रक्षापुरुषान्	रक्षापुरुष	_	_	N;PL;MASC;ACC	_	_	_	_
+6	निरूप्या	नि-रूप्	_	_	V;V.CVB	_	_	_	_
+7	शेष	शेष	_	_	N	_	_	_	_
+8	सार्थम्	सार्थ	_	_	N;NEUT;SG;ACC	_	_	_	_
+9	स	तद्	_	_	SG;PRO;MASC;NOM	_	_	_	_
+10	प्रस्थितः	प्र-स्था	_	_	V;SG;PST;PASS;MASC;NOM;V.PTCP	_	_	_	_
+11	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc1.s5
+# text = अस्ति दक्षिणात्ये जनपदे महिलारोप्यं नाम नगरम्।
+# translit = asti dakṣiṇātye janapade mahilāropyaṁ nāma nagaram.
+# ptext = dAkziRAtyezu jana padezu
+# ptext1 = purandarapurasya fdDi sarva guRa sam pannam pfTivyAH cUqA maRi ratna BUtam
+# ptext2 = kElAsa SiKara Akfti viviDa yantra praharaRa AcaraRa pari pUrRa go pura awwAlakam visaNkawa utkawa
+# ptext3 = dfQa pariGa kapAwa toraRa argala upagata indra kIla vipula dvAram su vi hita SfNgAwaka catuzpaTa
+# ptext4 = prati sTita an eka devatA Ayatanam pariKA pari karita ut Srita hima giri sadfSa AkAra prAkAra valaya pari vezwitam
+# ptext5 = mahilA ropyam nAma nagaram
+# orig = panchatantra.conllu sent_id 52
+# ryder = In the southern country was a city called Maidens' Delight.
+# ryder_extra = Its contour was like that of Kailasa Peak. Its gates and palaces were stocked with machines, missile weapons, and chariots in great variety. Its central portal, massive as Indrakila Mountain, was fitted with bolt and bar, panel and arch, all formidable, impressive, solid. Its numerous temples lifted their firm bulk near spacious squares and crossings. It wore a moat-girdled zone of walls that recalled the high-uplifted Himalayas.
+1	अस्ति	अस्	_	_	V;SG;IND;ACT;3;PRS;FIN	_	_	_	_
+2	दक्षिणात्ये	दक्षिणात्य	_	_	MASC;SG;ADJ;ESS	_	_	_	_
+3	जनपदे	जनपद	_	_	N;SG;MASC;ESS	_	_	_	_
+4	महिलारोप्यं	महिलारोप्य	_	_	NOM;NEUT;PROPN;SG	_	_	_	_
+5	नाम	नामन्	_	_	N;NEUT;NOM;SG	_	_	_	_
+6	नगरम्	नगर	_	_	N;NEUT;NOM;SG	_	_	_	_
+7	।	।	_	_	_	_	_	_	_
+
+# newpar id = panc0.p16
+# sent_id = panc0.s29
+# text = सः राजा तत् आकर्ण्य विष्णुशर्माणम् आहूय प्रोवाच ।
+# translit = saḥ rājā tat ākarṇya viṣṇuśarmāṇam āhūya provāca .
+# wtext = स राजा तदाकर्ण्य विष्णुशर्माणमाहूय प्रोवाच ।
+# wtranslit = sa rājā tadākarṇya viṣṇuśarmāṇamāhūya provāca .
+# wsid = ॥०.७॥
+# orig = panchatantra.conllu sent_id 29
+# text_fr = Entendant cela, le roi appela Vishnu Sharma et dit :
+# text_en = Hearing this, the king summoned Vishnusharma and said:
+# ryder = When the king had listened to this, he summoned Vishnusharman and said:
+1	सः	तद्	_	_	SG;MASC;NOM;DET	_	_	_	_
+2	राजा	राजन्	_	_	N;NOM;MASC;SG	_	_	_	_
+3	तत्	तद्	_	_	SG;ACC;PRO;NEUT	_	_	_	_
+4	आकर्ण्य	आ-कर्ण	_	_	V.CVB;ADJ	_	_	_	_
+5	विष्णुशर्माणम्	विष्णुशर्माण	_	_	MASC;PROPN;SG;ACC	_	_	_	_
+6	आहूय	आहू	_	_	V;V.CVB	_	_	_	_
+7	प्रोवाच	प्र-वच्	_	_	V;SG;IND;ACT;3;PFV;FIN	_	_	_	_
+8	।	।	_	_	_	_	_	_	_
+
+# newpar id = panc5.p1
+# sent_id = panc5.s101
+# text = ततः असौ प्राह
+# Pravděpodobně jde o část Paňčatantry, která v panchatantra.conllu začíná větou 1147.
+# Ryderův překlad začíná na https://en.wikisource.org/wiki/The_Panchatantra_(Purnabhadra%27s_Recension_of_1199_CE)/Book_1/The_Weaver_Who_Loved_a_Princess
+# Sanskrtská mutace Wikisource pravděpodobně díl 5, ale text se hodně liší: https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%9E%E0%A5%8D%E0%A4%9A%E0%A4%A4%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D_%E0%A5%A6%E0%A5%A8%E0%A4%98#.E0.A4.95.E0.A4.A5.E0.A4.BE_.E0.A5.AB_.E0.A4.95.E0.A5.8C.E0.A4.B2.E0.A4.BF.E0.A4.95-.E0.A4.B0.E0.A4.A5.E0.A4.95.E0.A4.BE.E0.A4.B0-.E0.A4.95.E0.A4.A5.E0.A4.BE
+# translit = tataḥ asau prāha
+# orig = panchatantra.conllu sent_id 1185
+# ptext = tataH asO pra Aha
+# ryder = But the weaver replied:
+1	ततः	ततः	_	_	ADV	_	_	_	_
+2	असौ	अदस्	_	_	SG;PRO;MASC;NOM	_	_	_	_
+3	प्राह	प्र-अह्	_	_	V;SG;IND;ACT;3;PFV;FIN	_	_	_	_
+
+# newpar id = panc5.p29
+# sent_id = panc5.s161
+# text = कौलिकः श्वशुरसाहाय्ये कृतनिश्चम् अद्य वर्तते।
+# translit = kaulikaḥ śvaśurasāhāyye kr̥taniścam adya vartate.
+# orig = panchatantra.conllu sent_id 1308
+# ryder = Now the weaver today takes his resolution to befriend his father-in-law.
+1	कौलिकः	कौलिक	_	_	N;NOM;MASC;SG	_	_	_	_
+2	श्वशुर	श्वशुर	_	_	N	_	_	_	_
+3	साहाय्ये	साहाय्य	_	_	N;NEUT;SG;ESS	_	_	_	_
+4	कृतनिश्चम्	कृतनिश्च	_	_	N;SG;MASC;ACC	_	_	_	_
+5	अद्य	अद्य	_	_	ADV	_	_	_	_
+6	वर्तते	वृत्	_	_	V;MID;SG;IND;3;PRS;FIN	_	_	_	_
+7	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc0.s38a
+# text = ममाशीतिवर्षस्यव्यावृत्तसर्वेन्द्रियार्थस्य न किञ्चिदर्थेन प्रयोजनम्।
+# translit = mamāśītivarṣasyavyāvr̥ttasarvendriyārthasya na kiñcidarthena prayojanam.
+# orig = panchatantra.conllu sent_id 38
+# text_fr = J’ai quatre-vingts ans et je suis débarrassé des tourments des plaisirs des sens. Je n’ai pas besoin d’une once de richesse.
+# ryder = Besides, I have no use for money; I am eighty years old, and all the objects of sensual desire have lost their charm.
+1	मम	अस्मद्	_	_	SG;1;PRO;GEN	_	_	_	_
+2	अशीति	अशीति	_	_	NUM	_	_	_	_
+3	वर्षस्य	वर्ष	_	_	N;GEN;SG;MASC	_	_	_	_
+4	व्यावृत्त	व्य्-आ-वृत्	_	_	V;PST;PASS;V.PTCP	_	_	_	_
+5	सर्व	सर्व	_	_	ADJ	_	_	_	_
+6	इन्द्रिय	इन्द्रिय	_	_	ADJ	_	_	_	_
+7	अर्थस्य	अर्थ	_	_	N;GEN;SG;MASC	_	_	_	_
+8	न	न	_	_	NEG;PART	_	_	_	_
+9	किंचिद्	किम्-चिद्	_	_	SG;NOM;DET;NEUT	_	_	_	_
+10	अर्थेन	अर्थ	_	_	N;INS;SG;MASC	_	_	_	_
+11	प्रयोजनम्	प्रयोजन	_	_	N;NEUT;NOM;SG	_	_	_	_
+12	।	।	_	_	_	_	_	_	_
+
+# newpar id = panc0.p20
+# sent_id = panc0.s48
+# text = इति कथामुखम्।
+# translit = iti kathāmukham.
+# ptext = kaTA muKam etat
+# orig = panchatantra.conllu sent_id 48
+# text_fr = Ainsi va le prologue.
+1	इति	इति	_	_	ADV	_	_	_	_
+2	कथामुखम्	कथामुख	_	_	N;NEUT;NOM;SG	_	_	_	_
+3	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc1.s15
+# text = यत उक्तं च
+# translit = yata uktaṁ ca
+# ptext = uktam ca
+# orig = panchatantra.conllu sent_id 62
+# ryder = As the proverb says:
+1	यत	यत	_	_	ADV	_	_	_	_
+2	उक्तं	वच्	_	_	V;SG;PST;PASS;NOM;V.PTCP;NEUT	_	_	_	_
+3	च	च	_	_	CONJ	_	_	_	_
+
+# newpar id = panc0.p10
+# sent_id = panc0.s14a
+# text = किम् तया क्रियते धेन्वा या न सूते न क्षीरम् ददाति।
+# translit = kim tayā kriyate dhenvā yā na sūte na kṣīram dadāti.
+# wtext = किं तया क्रियते धेन्वा या न सूते न दुग्धदा।
+# wtranslit = kiṁ tayā kriyate dhenvā yā na sūte na dugdhadā.
+# wsid = ॥०.५॥
+# orig = panchatantra.conllu sent_id 14
+# text_fr = À quoi bon une vache, qui ne vêle ni ne donne de lait !
+# text_en = What to do with a cow which neither calves nor gives milk?
+# ryder = To what good purpose can a cow / That brings no calf nor milk, be bent?
+1	किम्	किम्	_	_	SG;PRO;NOM;NEUT	_	_	_	_
+2	तया	तद्	_	_	SG;3;FEM;DET;INS	_	_	_	_
+3	क्रियते	कृ	_	_	V;SG;IND;PASS;3;PRS;FIN	_	_	_	_
+4	धेन्वा	धेनु	_	_	N;INS;SG;FEM	_	_	_	_
+5	या	यद्	_	_	SG;PRO;NOM;FEM	_	_	_	_
+6	न	न	_	_	NEG;PART	_	_	_	_
+7	सूते	सू	_	_	V;MID;SG;IND;3;PRS;FIN	_	_	_	_
+8	न	न	_	_	NEG;PART	_	_	_	_
+9	क्षीरम्	क्षीर	_	_	N;NEUT;SG;ACC	_	_	_	_
+10	ददाति	दा	_	_	V;SG;IND;ACT;3;PRS;FIN	_	_	_	_
+11	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc5.s183
+# text = कथम् एतत् दमनकः कथयति।
+# translit = katham etat damanakaḥ kathayati.
+# orig = panchatantra.conllu sent_id 1438, 1439
+# ryder = "How was that?" And Victor told the story of
+1	कथम्	कथम्	_	_	ADV	_	_	_	_
+2	एतत्	एतद्	_	_	SG;ACC;PRO;NEUT	_	_	_	_
+3	दमनकः	दमनक	_	_	MASC;NOM;PROPN;SG	_	_	_	_
+4	कथयति	कथ्	_	_	V;SG;IND;ACT;3;PRS;FIN	_	_	_	_
+5	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc1.s132
+# text = किं तस्य जीवितफलं मनुष्यलोके
+# translit = kiṁ tasya jīvitaphalaṁ manuṣyaloke
+# wtext = किं तस्य जीवितफलं हि मनुष्यलोके काकोऽपि जीवति चिराय बलिं च भुंक्ते॥पञ्च_१.२५॥
+# wtranslit = kiṁ tasya jīvitaphalaṁ hi manuṣyaloke kāko’pi jīvati cirāya baliṁ ca bhuṁkte:pañca_1.25:
+# wsid = ॥१.२५॥
+# orig = panchatantra.conllu sent_id 128
+# ptext = kim tasya jIvita Palam hi manuzya loke kAkaH api jIvati ciram balim ca BuNkte
+# ryder = What use in life, what gain? // A crow will live for many years // And eat the offered grain.
+1	किं	किम्	_	_	SG;NOM;DET;NEUT	_	_	_	_
+2	तस्य	तद्	_	_	SG;PRO;3;GEN;NEUT	_	_	_	_
+3	जीवित	जीवित	_	_	PST;PASS;V.PTCP;N	_	_	_	_
+4	फलम्	फल	_	_	N;NEUT;NOM;SG	_	_	_	_
+5	मनुष्य	मनुष्यलोक	_	_	ADJ	_	_	_	_
+6	लोके	मनुष्यलोक	_	_	N;SG;MASC;ESS	_	_	_	_
+
+# sent_id = panc0.s7
+# text = तस्य त्रयः पुत्राः परमदुर्मेधसः वसुशक्तिः उग्रशक्तिः अनन्तशक्तिश् चेति बभूवुः।
+# translit = tasya trayaḥ putrāḥ paramadurmedhasaḥ vasuśaktiḥ ugraśaktiḥ anantaśaktiś ceti babhūvuḥ.
+# wtext = तस्य त्रयः पुत्राः परमदुर्मेधसो वहुशक्तिरुग्रशक्तिरनन्तशक्तिश्चेति नामानो बभूवुः।
+# wtranslit = tasya trayaḥ putrāḥ paramadurmedhaso vahuśaktirugraśaktiranantaśaktiśceti nāmāno babhūvuḥ.
+# wsid = ॥०.३॥
+# orig = panchatantra.conllu sent_id 7
+# text_fr = Mais ses trois fils, Vasu-shakti (Force brillante), Ugra-shakti (Force puissante) et Aneka-shakti (Force multiple), étaient dépourvus de toute lueur d’intelligence.
+# ryder = This king had three sons. Their names were Rich-Power, Fierce-Power, Endless-Power, and they were supreme blockheads.
+1	तस्य	तद्	_	_	SG;PRO;MASC;3;GEN	_	_	_	_
+2	त्रयः	त्रि	_	_	MASC;NOM;PL;NUM	_	_	_	_
+3	पुत्राः	पुत्र	_	_	N;PL;NOM;MASC	_	_	_	_
+4	परम	परम	_	_	ADV;RL	_	_	_	_
+5	दुर्मेधसः	दुर्मेधस्	_	_	MASC;PL;NOM;ADJ	_	_	_	_
+6	वसुशक्तिः	वसुशक्ति	_	_	MASC;NOM;PROPN;SG	_	_	_	_
+7	उग्रशक्तिः	उग्रशक्ति	_	_	MASC;NOM;PROPN;SG	_	_	_	_
+8	अनन्तशक्तिश्	अनन्तशक्ति	_	_	MASC;NOM;PROPN;SG	_	_	_	_
+9	च	च	_	_	CONJ	_	_	_	_
+10	इति	इति	_	_	ADV	_	_	_	_
+11	बभूवुः	भू	_	_	V;IND;ACT;3;PL;PFV;FIN	_	_	_	_
+12	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc1.s43
+# text = उक्तं च
+# translit = uktaṁ ca
+# text_en = And it is said:
+1	उक्तं	वच्	_	_	V;SG;PST;PASS;NOM;V.PTCP;NEUT	_	_	_	_
+2	च	च	_	_	CONJ	_	_	_	_
+
+# newdoc id = pancatantra
+# newpar id = panc0.p1
+# sent_id = panc0.s1
+# text = पञ्चतन्त्रम् कथामुखम्
+# translit = pañcatantram kathāmukham
+# wikisource = https://sa.wikisource.org/wiki/%E0%A4%AA%E0%A4%9E%E0%A5%8D%E0%A4%9A%E0%A4%A4%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A5%8D_%E0%A5%A6%E0%A5%A7
+# wikisource_ryder = https://en.wikisource.org/wiki/The_Panchatantra_(Purnabhadra%27s_Recension_of_1199_CE)/Introduction
+# french_translation = http://www.chatranjali.fr/Sanskrit/Pancatantra/Prologue_dev.html
+1	पञ्चतन्त्रम्	पञ्चतन्त्र	_	_	NOM;NEUT;PROPN;SG	_	_	_	_
+2	कथामुखम्	कथामुख	_	_	N;NEUT;NOM;SG	_	_	_	_
+
+# sent_id = panc0.s30
+# text = भोः भगवन् मदनुग्रहार्थमेतान् अर्थशास्त्रं प्रति द्राग् यथानंयषड्दर्शनान् विदधासि तथा कुरु।
+# translit = bhoḥ bhagavan madanugrahārthametān arthaśāstraṁ prati drāg yathānaṁyaṣaḍdarśanān vidadhāsi tathā kuru.
+# ptext = BoH Bagavan mat anu graha arTam etAn kumArAn arTa SAstram prati yaTA ananya sadfSAn vi daDAsi taTA kAryam
+# wsid = ॥०.७॥
+# orig = panchatantra.conllu sent_id 30
+# text_fr = « Noble Seigneur ! De grâce, pour moi, enseignez-leur l’Artha-shastra, l’art de la gouvernance !
+# ryder = "Holy sir, as a favor to me you must make these princes incomparable masters of the art of practical life.
+1	भोः	भोस्	_	_	INTJ	_	_	_	_
+2	भगवन्	भगवत्	_	_	N;NEUT;NOM;SG	_	_	_	_
+3	मत्	अस्मद्	_	_	1;PRO	_	_	_	_
+4	अनुग्रह	अनुग्रह	_	_	N	_	_	_	_
+5	अर्थम्	अर्थ	_	_	N;SG;MASC;ACC	_	_	_	_
+6	एतान्	एतद्	_	_	ACC;PRO;MASC;PL	_	_	_	_
+7	अर्थशास्त्रं	अर्थशास्त्र	_	_	NEUT;PROPN;SG;ACC	_	_	_	_
+8	प्रति	प्रति	_	_	ADP	_	_	_	_
+9	द्राग्	द्राक्	_	_	ADV	_	_	_	_
+10	यथा	यथा	_	_	ADV	_	_	_	_
+11	आनं	अन्	_	_	V;SG;1;IND;ACT;IPFV;FIN	_	_	_	_
+12	षड्दर्शनान्	षड्दर्शन	_	_	N;PL;MASC;ACC	_	_	_	_
+13	विदधासि	वि-धा	_	_	V;SG;IND;ACT;PRS;FIN;2	_	_	_	_
+14	तथा	तथा	_	_	ADV	_	_	_	_
+15	कुरु	कृ	_	_	V;SG;ACT;IMP;FIN;2	_	_	_	_
+16	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc1.s198
+# text = दमनकः आह
+# translit = damanakaḥ āha
+# wtext = सो ब्रवीत् ज्ञेयं किम् अत्र? यत उक्तं च
+# wtranslit = so bravīt jñeyaṁ kim atra? yata uktaṁ ca
+# orig = panchatantra.conllu sent_id 151
+# ptext = damanakaH Aha
+# ryder = and Victor said:
+1	दमनकः	दमनक	_	_	MASC;NOM;PROPN;SG	_	_	_	_
+2	आह	अह्	_	_	V;SG;IND;ACT;3;PFV;FIN	_	_	_	_
+
+# sent_id = panc5.s127
+# text = मानुषी कन्या अहम्।
+# translit = mānuṣī kanyā aham.
+# orig = panchatantra.conllu sent_id 1215
+# ryder = "But I am merely a mortal girl,"
+1	मानुषी	मानुष	_	_	FEM;NOM;SG;ADJ	_	_	_	_
+2	कन्या	कन	_	_	SG;NOM;FEM;ADJ;RL	_	_	_	_
+3	अहम्	अहम्	_	_	SG;1;PRO;NOM	_	_	_	_
+4	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc5.s108
+# text = किम् अहम् जानामि त्वयि मित्रे यत् अभिहितं मया।
+# translit = kim aham jānāmi tvayi mitre yat abhihitaṁ mayā.
+# orig = panchatantra.conllu sent_id 1194
+# ryder = "I don't know. I told you because you are my friend."
+1	किम्	किम्	_	_	SG;ACC;PRO;NEUT	_	_	_	_
+2	अहम्	अहम्	_	_	SG;1;PRO;NOM	_	_	_	_
+3	जानामि	ज्ञा	_	_	V;SG;1;IND;ACT;PRS;FIN	_	_	_	_
+4	त्वयि	त्वद्	_	_	SG;PRO;ESS;2	_	_	_	_
+5	मित्रे	मित्र	_	_	N;SG;MASC;ESS	_	_	_	_
+6	यत्	यद्	_	_	SG;PRO;NOM;NEUT	_	_	_	_
+7	अभिहितं	अभि-धा	_	_	V;SG;PST;PASS;NOM;V.PTCP;NEUT	_	_	_	_
+8	मया	अहम्	_	_	SG;1;PRO;INS	_	_	_	_
+9	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc5.s159
+# text = विक्रमसेन व्यापाद्यास्मच्छ्वशुरकम् अन्तःपुरमध्याद् एनाम् गृह्णामि।
+# translit = vikramasena vyāpādyāsmacchvaśurakam antaḥpuramadhyād enām gr̥hṇāmi.
+# orig = panchatantra.conllu sent_id 1297
+# ryder = King Valor will drag her from the palace after killing my poor father-in-law.
+1	विक्रमसेन	विक्रमस	_	_	N;INS;SG;MASC	_	_	_	_
+2	व्यापाद्य	व्य्-आ-पद्	_	_	V;V.CVB	_	_	_	_
+3	अस्मत्	अहम्	_	_	1;PRO	_	_	_	_
+4	श्वशुरकम्	श्वशुरक	_	_	N;SG;MASC;ACC	_	_	_	_
+5	अन्तःपुर	अन्तःपुर	_	_	N	_	_	_	_
+6	मध्याद्	मध्य	_	_	N;SG;MASC;AT+ABL	_	_	_	_
+7	एनाम्	एन	_	_	SG;ACC;PRO;3;FEM	_	_	_	_
+8	गृह्णामि	ग्रह्	_	_	V;SG;1;IND;ACT;PRS;FIN	_	_	_	_
+9	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc5.s154
+# text = तत् गत्वा ब्रूहि राजः।
+# translit = tat gatvā brūhi rājaḥ.
+# orig = panchatantra.conllu sent_id 1285
+# ryder = Go, then, and say to the king:
+1	तत्	तद्	_	_	ADV	_	_	_	_
+2	गत्वा	गम्	_	_	V;V.CVB	_	_	_	_
+3	ब्रूहि	ब्रू	_	_	V;SG;ACT;IMP;FIN;2	_	_	_	_
+4	राजः	राजन्	_	_	N;GEN;SG;MASC	_	_	_	_
+5	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc5.s148
+# text = देवः कथम् निराकुलस् तिष्ठति।
+# translit = devaḥ katham nirākulas tiṣṭhati.
+# orig = panchatantra.conllu sent_id 1272
+# ryder = How can the king show himself so unconcerned?"
+1	देवः	देव	_	_	N;NOM;MASC;SG	_	_	_	_
+2	कथम्	कथम्	_	_	ADV	_	_	_	_
+3	निराकुलस्	निस्-आकुल	_	_	MASC;NOM;SG;ADJ	_	_	_	_
+4	तिष्ठति	स्था	_	_	V;SG;IND;ACT;3;PRS;FIN	_	_	_	_
+5	।	।	_	_	_	_	_	_	_
+
+# newpar id = panc1.p4
+# sent_id = panc1.s18
+# text = यस्यार्थास्तस्य मित्राणि यस्यार्थास्तस्य बान्धवाः।
+# translit = yasyārthāstasya mitrāṇi yasyārthāstasya bāndhavāḥ.
+# wtext = यस्यार्थास्तस्य मित्राणि यस्यार्थास्तस्य बान्धवाः।
+# wtranslit = yasyārthāstasya mitrāṇi yasyārthāstasya bāndhavāḥ.
+# wsid = ॥१.३॥
+# text_en = He who has wealth has friends, he who has wealth has family.
+1	यस्या	यद्	_	_	SG;PRO;MASC;GEN	_	_	_	_
+2	अर्थाः	अर्थ	_	_	N;PL;NOM;MASC	_	_	_	_
+3	तस्य	तद्	_	_	SG;PRO;MASC;GEN	_	_	_	_
+4	मित्राणि	मित्र	_	_	N;PL;NEUT;NOM	_	_	_	_
+5	यस्या	यद्	_	_	SG;PRO;MASC;GEN	_	_	_	_
+6	अर्थाः	अर्थ	_	_	N;PL;NOM;MASC	_	_	_	_
+7	तस्य	तद्	_	_	SG;PRO;MASC;GEN	_	_	_	_
+8	बान्धवाः	बान्धव	_	_	N;PL;NOM;MASC	_	_	_	_
+9	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc0.s44
+# text = ते अपि तानि अधीत्य मासषट्केन यथा उक्तह् संवृत्ताः।
+# translit = te api tāni adhītya māsaṣaṭkena yathā uktah saṁvr̥ttāḥ.
+# wtext = तेपि तानधीत्य मासषट्केन यथोक्ताः संवृत्ताः।
+# wtranslit = tepi tānadhītya māsaṣaṭkena yathoktāḥ saṁvr̥ttāḥ.
+# wsid = ॥०.७॥
+# orig = panchatantra.conllu sent_id 44
+# text_fr = Par leur étude, en l’espace de six mois, les princes devinrent des êtres accomplis tel que cela avait été annoncé.
+# ryder = These the princes learned, and in six months' time they answered the prescription.
+1	ते	तद्	_	_	PRO;MASC;NOM;PL	_	_	_	_
+2	अपि	अपि	_	_	ADV	_	_	_	_
+3	तानि	तद्	_	_	ACC;PRO;PL;NEUT	_	_	_	_
+4	अधीत्य	अ-धि	_	_	V;V.CVB;PST	_	_	_	_
+5	मास	मास	_	_	N	_	_	_	_
+6	षट्केन	षट्क	_	_	SG;MASC;INS;NUM	_	_	_	_
+7	यथा	यथा	_	_	ADV	_	_	_	_
+8	उक्तह्	वच्	_	_	V;V.PTCP;PST;PASS	_	_	_	_
+9	संवृत्ताः	सम्-जन्	_	_	V;PST;PASS;MASC;NOM;V.PTCP;PL	_	_	_	_
+10	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc1.s149
+# text = जायन्ते विरला लोके जलदा इव सज्जनाः॥
+# wparagraph
+# wtext = किं च
+# wtext = जातस्य नदीतीरे तस्यापि तृणस्य जन्मसाफल्यम्। यत् सलिलमज्जनाकुलजनहस्तालंबनं भवति॥पञ्च_१.२९॥
+# wtranslit = jātasya nadītīre tasyāpi tr̥ṇasya janmasāphalyam. yat salilamajjanākulajanahastālaṁbanaṁ bhavati:pañca_1.29:
+# wparagraph
+# wtext = तथा च
+# wtext = स्तिमितोन्नतसञ्चारा जनसंतापहारिणः। जायंते विरला लोके जलदा इव सज्जनाः॥पञ्च_१.३०॥
+# wtranslit = stimitonnatasañcārā janasaṁtāpahāriṇaḥ. jāyaṁte viralā loke jaladā iva sajjanāḥ:pañca_1.30:
+#
+# translit = jāyante viralā loke jaladā iva sajjanāḥ:
+# wtext = जायंते विरला लोके जलदा इव सज्जनाः॥पञ्च_१.३०॥
+# wtranslit = jāyaṁte viralā loke jaladā iva sajjanāḥ:pañca_1.30:
+# wsid = ॥१.३०॥
+# text_en = Rare clouds are born in the world; they look as if they were human.
+1	जायन्ते	जन्	_	_	V;MID;IND;3;PRS;PL;FIN	_	_	_	_
+2	विरला	विरल	_	_	MASC;PL;NOM;ADJ	_	_	_	_
+3	लोके	लोक	_	_	N;SG;MASC;ESS	_	_	_	_
+4	जलदा	जलद	_	_	N;PL;NOM;MASC	_	_	_	_
+5	इव	इव	_	_	CONJ	_	_	_	_
+6	सज्जनाः	सज्जन	_	_	N;PL;NOM;MASC	_	_	_	_
+7	॥	॥	_	_	_	_	_	_	_
+
+# newpar id = panc0.p6
+# sent_id = panc0.s8
+# text = अथ तान् शास्त्रविमुखान् समालोक्य स राजा सचिवान् आहूय प्रोवाच ।
+# translit = atha tān śāstravimukhān samālokya sa rājā sacivān āhūya provāca .
+# wtext = अथ राजा ताञ्शास्त्रविमुखान् आलोक्य सचिवान् आहूय प्रोवाच ।
+# wtranslit = atha rājā tāñśāstravimukhān ālokya sacivān āhūya provāca .
+# wsid = ॥०.३॥
+# orig = panchatantra.conllu sent_id 8
+# text_fr = Convoquant ses ministres, le roi leur dit :
+# ryder = Now when the king perceived that they were hostile to education, he summoned his counselors and said:
+1	अथ	अथ	_	_	ADV	_	_	_	_
+2	तान्	तद्	_	_	ACC;PRO;MASC;PL	_	_	_	_
+3	शास्त्र	शास्त्र	_	_	N	_	_	_	_
+4	विमुखान्	विमुख	_	_	MASC;PL;ACC;ADJ	_	_	_	_
+5	समालोक्य	समालोक्	_	_	V;V.CVB	_	_	_	_
+6	स	तद्	_	_	SG;MASC;NOM;DET	_	_	_	_
+7	राजा	राजन्	_	_	N;NOM;MASC;SG	_	_	_	_
+8	सचिवान्	सचिव	_	_	N;PL;MASC;ACC	_	_	_	_
+9	आहूय	आहूय	_	_	V;V.CVB	_	_	_	_
+10	प्रोवाच	प्रो-वच्	_	_	V;SG;PST;IND;ACT;3;PFV;FIN	_	_	_	_
+11	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc5.s139
+# text = तत् कथ्यताम् एवम् गते सत्यम्।
+# translit = tat kathyatām evam gate satyam.
+# orig = panchatantra.conllu sent_id 1244
+# ryder = Dreadful as things are, at least tell the truth."
+1	तत्	तद्	_	_	SG;ACC;DET;NEUT	_	_	_	_
+2	कथ्यताम्	कथ्	_	_	V;SG;PASS;3;IMP;FIN	_	_	_	_
+3	एवम्	एवम्	_	_	ADV	_	_	_	_
+4	गते	गम्	_	_	V;PST;SG;PASS;ESS;V.PTCP;NEUT	_	_	_	_
+5	सत्यम्	सत्य	_	_	N;NEUT;NOM;SG	_	_	_	_
+6	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc0.s27
+# text = तस्मै समर्पयैतान्।
+# translit = tasmai samarpayaitān.
+# wtext = तस्मै समर्पयतु एतान्।
+# wtranslit = tasmai samarpayatu etān.
+# wsid = ॥०.७॥
+# orig = panchatantra.conllu sent_id 27
+# text_fr = Confiez-lui les princes !
+# text_en = Entrust them to him.
+# ryder = Intrust the princes to him.
+1	तस्मै	तद्	_	_	SG;PRO;MASC;DAT	_	_	_	_
+2	समर्पय	सम्-ऋ	_	_	V;SG;PRS;{ACT/CAUS};IMP;FIN;2	_	_	_	_
+3	एतान्	एतद्	_	_	ACC;PRO;MASC;PL	_	_	_	_
+4	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc1.s66
+# text = अथ तम् विषण्णमालोक्य सार्थिकैरभिहितम्
+# translit = atha tam viṣaṇṇamālokya sārthikairabhihitam
+# wtext = अथ तं विषण्णम् आलोक्य सार्थिकैर् अभिहितम् भोः श्रेष्ठिन्! किम् एवं वृषभस्य कृते सिंहव्याघ्रसमाकुले बह्वपायेस्मिन् वने समस्तसार्थस् त्वया संदेहे नियोजितः।
+# wtranslit = atha taṁ viṣaṇṇam ālokya sārthikair abhihitam bhoḥ śreṣṭhin! kim evaṁ vr̥ṣabhasya kr̥te siṁhavyāghrasamākule bahvapāyesmin vane samastasārthas tvayā saṁdehe niyojitaḥ.
+# text_en = Thus after having looked at the sad man his companions said:
+# orig = panchatantra.conllu sent_id 73
+1	अथ	अथ	_	_	ADV	_	_	_	_
+2	तम्	तद्	_	_	SG;ACC;MASC;DET	_	_	_	_
+3	विषण्णम्	विषण्ण	_	_	N;SG;MASC;ACC	_	_	_	_
+4	आलोक्य	आ-लोक्	_	_	V;V.CVB	_	_	_	_
+5	सार्थिकैः	सार्थिक	_	_	N;INS;PL;MASC	_	_	_	_
+6	अभिहितम्	अभि-धा	_	_	V;SG;PST;PASS;NOM;V.PTCP;NEUT	_	_	_	_
+
+# newpar id = panc0.p17
+# sent_id = panc0.s32
+# text = अथ विष्णुशर्म तम् राजानम् उच्यते
+# translit = atha viṣṇuśarma tam rājānam ucyate
+# wtext = अथ विष्णुशर्मा तं राजानमाह
+# wtranslit = atha viṣṇuśarmā taṁ rājānamāha
+# wsid = ॥०.७॥
+# orig = panchatantra.conllu sent_id 32
+# text_fr = Alors Vishnu Sharma répondit au roi :
+# ryder = And Vishnusharman made answer to the king:
+1	अथ	अथ	_	_	ADV	_	_	_	_
+2	विष्णुशर्म	विष्णुशर्मा	_	_	MASC;NOM;PROPN;SG	_	_	_	_
+3	तम्	तद्	_	_	SG;ACC;MASC;DET	_	_	_	_
+4	राजानम्	राजन्	_	_	N;SG;MASC;ACC	_	_	_	_
+5	उच्यते	वच्	_	_	V;SG;IND;PASS;3;PRS;FIN	_	_	_	_
+
+# newpar id = panc5.p26
+# sent_id = panc5.s158
+# text = किम् अधुना मया विधेयम्।
+# translit = kim adhunā mayā vidheyam.
+# orig = panchatantra.conllu sent_id 1295
+# ryder = "What am I to do now?
+1	किम्	किम्	_	_	SG;ACC;PRO;NEUT	_	_	_	_
+2	अधुना	अधुना	_	_	ADV	_	_	_	_
+3	मया	अहम्	_	_	SG;1;PRO;INS	_	_	_	_
+4	विधेयम्	वि-धा	_	_	V;SG;PASS;NOM;V.PTCP;NEUT;FUT	_	_	_	_
+5	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc1.s65
+# text = तदर्थम् स्नेहार्द्रहृदयस्त्रिरात्रम् प्रयाणभङ्गमकरोत्।
+# translit = tadartham snehārdrahr̥dayastrirātram prayāṇabhaṅgamakarot.
+# wtext = तद् अर्थं च स्नेहार्द्रहृदयस् त्रिरात्रं प्रयाणभंगम् अकरोत्।
+# wtranslit = tad arthaṁ ca snehārdrahr̥dayas trirātraṁ prayāṇabhaṁgam akarot.
+# text_en = That's why he postponed departure by three nights, with the chest in the mud.
+# text_en2 = That's why the one with heart warm with tenderness refused to depart by three nights (possessive compound).
+# orig = panchatantra.conllu sent_id 73
+# ptext = paYca rAtrikam a prayARakam kftvA yadA asO na kalyatAm laBate tadA tasya yavasa sama itAn rakzA puruzAn dattvA aBi hitavAn yaTA
+# ryder = He halted for five nights, but when the poor bull did not return to health, he left caretakers with a supply of fodder, and said:
+1	तत्	तद्	_	_	SG;ACC;3;DET;NEUT	_	_	_	_
+2	अर्थम्	अर्थ	_	_	N;NEUT;SG;ACC	_	_	_	_
+3	स्नेह	स्नेह	_	_	N	_	_	_	_
+4	आर्द्र	आर्द्र	_	_	ADJ	_	_	_	_
+5	हृदयः	हृदय	_	_	N;NOM;MASC;SG	_	_	_	_
+6	त्रि	त्रि	_	_	NUM	_	_	_	_
+7	रात्रम्	रात्रि	_	_	N;SG;MASC;ACC	_	_	_	_
+8	प्रयाणम्	प्रयाण	_	_	N	_	_	_	_
+9	भङ्गम्	भङ्गम्	_	_	N;SG;MASC;ACC	_	_	_	_
+10	अकरोत्	क्र्	_	_	V;SG;IND;ACT;3;IPFV;FIN	_	_	_	_
+11	।	।	_	_	_	_	_	_	_
+
+# newpar id = panc5.p16
+# sent_id = panc5.s140
+# text = तत् श्रुत्वा सा पुलकितसर्वाङ्गी सत्वरम् गत्वा राजानम् ऊचे।
+# translit = tat śrutvā sā pulakitasarvāṅgī satvaram gatvā rājānam ūce.
+# orig = panchatantra.conllu sent_id 1246
+# ryder = Thereupon the queen, with laughing countenance and thrilling in every limb, hastened to the king and said:
+1	तत्	तद्	_	_	SG;ACC;PRO;NEUT	_	_	_	_
+2	श्रुत्वा	श्रु	_	_	V;V.CVB	_	_	_	_
+3	सा	तद्	_	_	SG;PRO;NOM;FEM	_	_	_	_
+4	पुलकित	पुलकित	_	_	ADJ	_	_	_	_
+5	सर्व	सर्व	_	_	ADJ	_	_	_	_
+6	अङ्गी	अङ्गिन्	_	_	NEUT;NOM;SG;ADJ	_	_	_	_
+7	सत्वरम्	सत्वर	_	_	N;NEUT;SG;ACC	_	_	_	_
+8	गत्वा	गम्	_	_	V;V.CVB	_	_	_	_
+9	राजानम्	राजन्	_	_	N;SG;MASC;ACC	_	_	_	_
+10	ऊचे	वच्	_	_	V;MID;SG;IND;3;PFV;FIN	_	_	_	_
+11	।	।	_	_	_	_	_	_	_
+
+# newpar id = panc5.p8
+# sent_id = panc5.s132
+# text = देव अभयेन प्रसादः क्रियताम्।
+# translit = deva abhayena prasādaḥ kriyatām.
+# orig = panchatantra.conllu sent_id 1225
+# ryder = "O King," they said, "be gracious and confirm our personal security.
+1	देव	देव	_	_	N;MASC;SG;VOC	_	_	_	_
+2	अभयेन	अभय	_	_	N;INS;SG;MASC	_	_	_	_
+3	प्रसादः	प्रसाद	_	_	N;NOM;MASC;SG	_	_	_	_
+4	क्रियताम्	कृ	_	_	V;SG;PASS;3;IMP;FIN	_	_	_	_
+5	।	।	_	_	_	_	_	_	_
+
+# newpar id = panc0.p14
+# sent_id = panc0.s25
+# text = अनन्तपारं किल शब्दशास्त्रम् स्वल्पं तथायुर्वहवश्च विघ्नाः। सारं ततो ग्राह्यमपास्य फल्गु हंसैर्ययथा क्षीरमिवाम्बुमध्यात्॥
+# translit = anantapāraṁ kila śabdaśāstram svalpaṁ tathāyurvahavaśca vighnāḥ. sāraṁ tato grāhyamapāsya phalgu haṁsairyayathā kṣīramivāmbumadhyāt :
+# ptext = an anta pAram kila Sabda SAstram svalpam taTA AyuH bahavaH ca viGnAH yat sAra BUtam tat upa AsanIyam haMsEH yaTA kzIram iva ambu maDyAt
+# wsid = ॥०.६॥
+# orig = panchatantra.conllu sent_id 25
+# text_fr = Sans limites sont les enseignements de la tradition orale. La vie est très courte, et les obstacles nombreux. / Aussi, faut-il en saisir l’essence et non l’apparence, tel le cygne à même de discerner le lait de l’eau.
+# text_en = Verbal science does not have limits, life is short, and it brings you obstacles.
+# ryder = Since verbal science has no final end, / Since life is short, and obstacles impend, / Let central facts be picked and firmly fixed, / As swans extract the milk with water mixed.
+1	अनन्त	अनन्त	_	_	ADJ	_	_	_	_
+2	पारं	पार	_	_	N;NEUT;NOM;SG	_	_	_	_
+3	किल	किल	_	_	ADV	_	_	_	_
+4	शब्द	शब्द	_	_	N	_	_	_	_
+5	शास्त्रम्	शास्त्रम	_	_	N;NEUT;NOM;SG	_	_	_	_
+6	स्वल्पं	स्वल्प	_	_	NEUT;NOM;SG;ADJ	_	_	_	_
+7	तथा	तथा	_	_	ADV	_	_	_	_
+8	आयुः	आयुस्	_	_	N;NEUT;NOM;SG	_	_	_	_
+9	वह	वह	_	_	SG;ACT;ADJ;IMP;FIN;2	_	_	_	_
+10	वः	युष्मद्	_	_	PRO;DAT;PL;2	_	_	_	_
+11	च	च	_	_	CONJ	_	_	_	_
+12	विघ्नाः	विघ्न	_	_	N;PL;NOM;MASC	_	_	_	_
+13	।	।	_	_	_	_	_	_	_
+14	सारं	सार	_	_	N;NEUT;NOM;SG	_	_	_	_
+15	ततो	तद्	_	_	ADV	_	_	_	_
+16	ग्राह्यम्	ग्रह्	_	_	V;SG;PASS;NOM;V.PTCP;NEUT;FUT	_	_	_	_
+17	अप	अप	_	_	ADV	_	_	_	_
+18	अस्य	अस्	_	_	V;V.CVB	_	_	_	_
+19	फल्गु	फल्गु	_	_	N;NEUT;SG;ACC	_	_	_	_
+20	हंसैः	हंस	_	_	N;INS;PL;MASC	_	_	_	_
+21	यथा	यथा	_	_	CONJ	_	_	_	_
+22	क्षीरम्	क्षीर	_	_	N;NEUT;NOM;SG	_	_	_	_
+23	इव	इव	_	_	ADV	_	_	_	_
+24	अम्बु	अम्बु	_	_	N	_	_	_	_
+25	मध्यात्	मध्य	_	_	N;SG;MASC;AT+ABL	_	_	_	_
+26	॥	॥	_	_	_	_	_	_	_
+
+# newpar id = panc5.p79
+# sent_id = panc5.s173
+# text = अप्रियस्य अपि वचसः परिणामविरोधिनः वक्ता श्रोता च यत्र अस्ति रमन्ते तत्र सम्पदः।
+# translit = apriyasya api vacasaḥ pariṇāmavirodhinaḥ vaktā śrotā ca yatra asti ramante tatra sampadaḥ.
+# orig = panchatantra.conllu sent_id 1408
+# ryder = Where one will speak and one will heed // What in the end is well, // Although unpleasant at the time // There riches love to dwell.
+1	अप्रियस्य	अप्रिय	_	_	N;GEN;NEUT;SG	_	_	_	_
+2	अपि	अपि	_	_	ADV	_	_	_	_
+3	वचसः	वचस्	_	_	N;GEN;NEUT;SG	_	_	_	_
+4	परिणाम	परिणाम	_	_	N	_	_	_	_
+5	विरोधिनः	विरोधिन्	_	_	MASC;GEN;SG;ADJ	_	_	_	_
+6	वक्ता	वक्तृ	_	_	N;NOM;MASC;SG	_	_	_	_
+7	श्रोता	श्रोतृ	_	_	N;NOM;MASC;SG	_	_	_	_
+8	च	च	_	_	CONJ	_	_	_	_
+9	यत्र	यत्र	_	_	ADV	_	_	_	_
+10	अस्ति	अस्	_	_	SG;IND;ACT;3;PRS;FIN;V	_	_	_	_
+11	रमन्ते	रम्	_	_	V;MID;IND;3;PRS;PL;FIN	_	_	_	_
+12	तत्र	तत्र	_	_	ADV	_	_	_	_
+13	सम्पदः	सम्पद्	_	_	N;PL;NOM;FEM	_	_	_	_
+14	।	।	_	_	_	_	_	_	_
+
+# newpar id = panc5.p4
+# sent_id = panc5.s118
+# text = वयस्यः एनम् आरुह्य कीलिकाम् दत्त्वा यत्रेष्यते तत्र गम्यते।
+# translit = vayasyaḥ enam āruhya kīlikām dattvā yatreṣyate tatra gamyate.
+# orig = panchatantra.conllu sent_id 1203
+# ryder = "Comrade," he said to the weaver, "when you mount the bird and insert a plug, it goes wherever you wish.
+1	वयस्यः	वयस्य	_	_	N;NOM;MASC;SG	_	_	_	_
+2	एनम्	एन	_	_	SG;ACC;MASC;3;DET	_	_	_	_
+3	आरुह्य	आ-रुह्	_	_	V;V.CVB	_	_	_	_
+4	कीलिकाम्	कीलिका	_	_	N;FEM;SG;ACC	_	_	_	_
+5	दत्त्वा	दा	_	_	V;V.CVB	_	_	_	_
+6	यत्र	यत्र	_	_	ADV	_	_	_	_
+7	इष्यते	इष्	_	_	V;SG;IND;PASS;3;PRS;FIN	_	_	_	_
+8	तत्र	तत्र	_	_	ADV	_	_	_	_
+9	गम्यते	गम्	_	_	V;SG;IND;PASS;3;PRS;FIN	_	_	_	_
+10	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc6.s191
+# text = कतिभिः दिवसैः महाटवीम् प्रविष्टः।
+# translit = katibhiḥ divasaiḥ mahāṭavīm praviṣṭaḥ.
+# orig = panchatantra.conllu sent_id 1447
+# ryder = and in a few days entered a great forest.
+1	कतिभिः	कति	_	_	INS;PL;DET	_	_	_	_
+2	दिवसैः	दिवस	_	_	N;INS;PL;MASC	_	_	_	_
+3	महा	महत्	_	_	ADJ	_	_	_	_
+4	अटवीम्	अटवी	_	_	N;FEM;SG;ACC	_	_	_	_
+5	प्रविष्टः	प्र-विश्	_	_	V;SG;PST;PASS;MASC;NOM;V.PTCP	_	_	_	_
+6	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc6.s193
+# text = तावत् तस्याः एकप्रदेशे तृणैः महान् कूपः दृष्टः।
+# translit = tāvat tasyāḥ ekapradeśe tr̥ṇaiḥ mahān kūpaḥ dr̥ṣṭaḥ.
+# orig = panchatantra.conllu sent_id 1449
+# ryder = And in a certain spot he came upon a well, overgrown with grass.
+1	तावत्	तावत्	_	_	ADV	_	_	_	_
+2	तस्याः	तद्	_	_	SG;PRO;FEM;AT+ABL	_	_	_	_
+3	एक	एक	_	_	NUM	_	_	_	_
+4	प्रदेशे	प्रदेश	_	_	N;SG;MASC;ESS	_	_	_	_
+5	तृणैः	तृण	_	_	N;INS;NEUT;SG	_	_	_	_
+6	महान्	महत्	_	_	MASC;NOM;SG;ADJ	_	_	_	_
+7	कूपः	कूप	_	_	N;NOM;MASC;SG	_	_	_	_
+8	दृष्टः	दृश्	_	_	V;SG;PST;PASS;MASC;NOM;V.PTCP	_	_	_	_
+9	।	।	_	_	_	_	_	_	_
+
+# newpar id = panc1.p67a
+# sent_id = panc1.s163a
+# text = तथा च
+# translit = tathā ca
+# text_en = and so
+1	तथा	तथा	_	_	ADV	_	_	_	_
+2	च	च	_	_	CONJ	_	_	_	_
+
+# newpar id = panc1.p44
+# sent_id = panc1.s122
+# text = दमनक आह
+# wtext = तत् किम् अनेन व्यापारेण।
+# wtranslit = tat kim anena vyāpāreṇa.
+#
+# translit = damanaka āha
+# wtext = दमनक आह तत् किं भवान् आहारार्थी केवलम् एव।
+# wtranslit = damanaka āha tat kiṁ bhavān āhārārthī kevalam eva.
+# orig = panchatantra.conllu sent_id 122
+# ptext = damanakaH Aha
+# ryder = "But," said Victor,
+1	दमनक	दमनक	_	_	N;NOM;MASC;SG	_	_	_	_
+2	आह	अह्	_	_	V;SG;IND;ACT;3;PFV;FIN	_	_	_	_
+
+# newpar id = panc5.p4
+# sent_id = panc5.s109
+# text = ततः रथकारः तम् आह
+# translit = tataḥ rathakāraḥ tam āha
+# orig = panchatantra.conllu sent_id 1196
+# ryder = At last the carpenter said:
+1	ततः	ततः	_	_	ADV	_	_	_	_
+2	रथकारः	रथकार	_	_	MASC;NOM;PROPN;SG	_	_	_	_
+3	तम्	तद्	_	_	SG;ACC;PRO;MASC	_	_	_	_
+4	आह	अह्	_	_	V;SG;IND;ACT;3;PFV;FIN	_	_	_	_
+
+# newpar id = panc1.p69
+# sent_id = panc1.s164
+# text = अप्रधानः प्रधानम् स्यात् सेवते यदि पार्थिवम्।
+# wparagraph
+# wtext = दमनक आह मा मैवं वद।
+# wtranslit = damanaka āha mā maivaṁ vada.
+# ptext(140) = uktam ca
+# ryder(140) = As the saying goes:
+#
+# translit = apradhānaḥ pradhānam syāt sevate yadi pārthivam.
+# wtext = अप्रधानः प्रधानः स्यात् सेवते यदि पार्थिवम्। प्रधानोऽप्य् अप्रधानः स्याद् यदि सेवाविवर्जितः॥पञ्च_१.३५॥
+# wtranslit = apradhānaḥ pradhānaḥ syāt sevate yadi pārthivam. pradhāno’py apradhānaḥ syād yadi sevāvivarjitaḥ:pañca_1.35:
+# orig = panchatantra.conllu sent_id 141
+# ptext = a praDAnaH praDAnaH syAt pArTivam yadi sevate praDAnaH api a praDAnaH syAt yadi sevA vi varjitaH
+# ryder = The jobless man is hired // For careful serving; // The holder may be fired, // If undeserving.
+1	अप्रधानः	अ-प्रधान	_	_	N;NOM;MASC;SG	_	_	_	_
+2	प्रधानम्	प्रधन	_	_	N;SG;MASC;ACC	_	_	_	_
+3	स्यात्	अस्	_	_	SG;ACT;3;FIN;V;OPT	_	_	_	_
+4	सेवते	सेव्	_	_	V;MID;SG;IND;3;PRS;FIN	_	_	_	_
+5	यदि	यदि	_	_	CONJ	_	_	_	_
+6	पार्थिवम्	पार्थिव	_	_	N;SG;MASC;ACC	_	_	_	_
+7	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc5.s106
+# text = वयस्य किम् अधुना कर्तव्यम्।
+# translit = vayasya kim adhunā kartavyam.
+# orig = panchatantra.conllu sent_id 1192
+# ptext = vayasya kim aDunA kartavyam
+# ryder = "Comrade, what is to be done next?"
+1	वयस्य	वयस्य	_	_	N;MASC;SG;VOC	_	_	_	_
+2	किम्	किम्	_	_	SG;PRO;NOM;NEUT	_	_	_	_
+3	अधुना	अधुना	_	_	ADV	_	_	_	_
+4	कर्तव्यम्	कृ	_	_	V;SG;PASS;NOM;V.PTCP;NEUT;FUT	_	_	_	_
+5	।	।	_	_	_	_	_	_	_
+
+# newpar id = panc1.p79
+# sent_id = panc1.s191
+# text = करटकः आह
+# wparagraph
+# wtext = यत उक्तं च
+# wtext = आसन्नम् एव नृपतिर् भजते मनुष्यं विद्याविहीनम् अकुलीनम् असंस्कृतं वा। प्रायेण भूमिपतयः प्रमदा लताश् च यत् पार्श्वतो भवति तत् परिवेष्टयंति॥पञ्च_१.३६॥
+# wtranslit = āsannam eva nr̥patir bhajate manuṣyaṁ vidyāvihīnam akulīnam asaṁskr̥taṁ vā. prāyeṇa bhūmipatayaḥ pramadā latāś ca yat pārśvato bhavati tat pariveṣṭayaṁti:pañca_1.36:
+# pparagraph
+# ptext(142) = na kasyacit kaScit iha praBAvAt Bavati udAraH aBi mataH KalaH vA loke gurutvam viparItatAm vA sva cezwitAni eva naram nayanti
+# ryder(142) = No character moves up or down // At others' smile or others' frown; // But honor or contempt on earth // Will follow conduct's inner worth.
+# wparagraph
+# wtext = तथा च
+# wtext = कोपप्रसादवस्तूनि ये विचिन्वंति सेवकाः। आरोहंति शनैः पश्चाद् धुन्वंतम् अपि पार्थिवम्॥पञ्च_१.३७॥
+# wtranslit = kopaprasādavastūni ye vicinvaṁti sevakāḥ. ārohaṁti śanaiḥ paścād dhunvaṁtam api pārthivam:pañca_1.37:
+# pparagraph
+# ptext(143) = taTA ca
+# ryder(143) = And once more:
+# pparagraph
+# ptext(144) = A ropyate aSmA SEla agram yaTA yatnena BUyasA pAtyate suKam eva aDaH taTA AtmA guRa dozayoH
+# ryder(144) = It costs an effort still // To carry stones uphill; // They tumble in a trice: // So virtue, and so vice."
+# wparagraph
+# wtext = विद्यावतां महेच्छानां शिल्पविक्रमशालिनाम्। सेवावृत्तिविदां चैव नाश्रयः पार्थिवं विना॥पञ्च_१.३८॥
+# wtranslit = vidyāvatāṁ mahecchānāṁ śilpavikramaśālinām. sevāvr̥ttividāṁ caiva nāśrayaḥ pārthivaṁ vinā:pañca_1.38:
+# wparagraph
+# wtext = ये जात्यादिमहोत्साहान् नरेंद्रान् नोपयांति च। तेषाम् आमरणं भिक्षा प्रायश्चित्तं विनिर्मितम्॥पञ्च_१.३९॥
+# wtranslit = ye jātyādimahotsāhān nareṁdrān nopayāṁti ca. teṣām āmaraṇaṁ bhikṣā prāyaścittaṁ vinirmitam:pañca_1.39:
+# wparagraph
+# wtext = ये च प्राहुर् दुरात्मानो दुराराध्या महीभुजः। प्रमादालस्यजाड्यानि ख्यापितानि निजानि तैः॥पञ्च_१.४०॥
+# wtranslit = ye ca prāhur durātmāno durārādhyā mahībhujaḥ. pramādālasyajāḍyāni khyāpitāni nijāni taiḥ:pañca_1.40:
+# wparagraph
+# wtext = सर्पान् व्याघ्रान् गजान् सिंहान् दृष्ट्वोपायैर् वशीकृतान्। राजेति कियती मात्रा धीमताम् अप्रमादिनाम्॥पञ्च_१.४१॥
+# wtranslit = sarpān vyāghrān gajān siṁhān dr̥ṣṭvopāyair vaśīkr̥tān. rājeti kiyatī mātrā dhīmatām apramādinām:pañca_1.41:
+# wparagraph
+# wtext = राजानम् एव संश्रित्य विद्वान् याति परां गतिम्। विना मलयम् अन्यत्र चंदनं न प्ररोहति॥पञ्च_१.४२॥
+# wtranslit = rājānam eva saṁśritya vidvān yāti parāṁ gatim. vinā malayam anyatra caṁdanaṁ na prarohati:pañca_1.42:
+# wparagraph
+# wtext = धवलान्य् आतपत्राणि वाजिनश् च मनोरमाः। सदा मत्ताश् च मातंगाः प्रसन्ने सति भूपतौ॥पञ्च_१.४३॥
+# wtranslit = dhavalāny ātapatrāṇi vājinaś ca manoramāḥ. sadā mattāś ca mātaṁgāḥ prasanne sati bhūpatau:pañca_1.43:
+#
+# translit = karaṭakaḥ āha
+# wtext = करटक आह अथ भवान् किं कर्तुमनाः?
+# wtranslit = karaṭaka āha atha bhavān kiṁ kartumanāḥ?
+# orig = panchatantra.conllu sent_id 145
+# ptext = karawakaH Aha
+# ryder = "Well," said Cheek,
+1	करटकः	करटक	_	_	MASC;NOM;PROPN;SG	_	_	_	_
+2	आह	अह्	_	_	V;SG;IND;ACT;3;PFV;FIN	_	_	_	_
+
+# newpar id = panc1.p3
+# sent_id = panc1.s16
+# text = नहि तद्विद्यते किञ्चिद्यदर्थेन न सिध्यति।
+# The following verses appear in the Wikisource edition but not in panchatantra.conllu and in the Ryder's translation.
+#
+# translit = nahi tadvidyate kiñcidyadarthena na sidhyati.
+# wsid = ॥१.२॥
+# text_en = It is not known what doesn't reuse things.
+1	नहि	नहि	_	_	NEG;PART	_	_	_	_
+2	तत्	तद्	_	_	SG;PRO;3;NOM;NEUT	_	_	_	_
+3	विद्यते	विद्	_	_	V;SG;IND;PASS;3;PRS;FIN	_	_	_	_
+4	किञ्चित्	किम्-चिद्	_	_	ADV	_	_	_	_
+5	यत्	यद्	_	_	SG;PRO;NOM;NEUT	_	_	_	_
+6	अर्थेन	अर्थ	_	_	N;INS;SG;MASC	_	_	_	_
+7	न	न	_	_	NEG;PART	_	_	_	_
+8	सिध्यति	सिध्	_	_	V;SG;IND;ACT;3;PRS;FIN	_	_	_	_
+9	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc1.s14
+# text = ततः प्राप्तस्य सतः रक्षणे विवर्धने उपयोगे आदि कार्यम्।
+# translit = tataḥ prāptasya sataḥ rakṣaṇe vivardhane upayoge ādi kāryam.
+# orig = panchatantra.conllu sent_id 61
+# ptext = tataH pra Aptasya sataH rakzaRa vi varDana upayoga Adi kAryam
+# ryder = Therefore, money once acquired should be guarded, increased, employed.
+1	ततः	ततः	_	_	ADV	_	_	_	_
+2	प्राप्तस्य	प्राप्त	_	_	SG;PST;PASS;MASC;V.PTCP;ADJ;GEN	_	_	_	_
+3	सतः	सत	_	_	N;GEN;SG;MASC	_	_	_	_
+4	रक्षणे	रक्षण	_	_	MASC;SG;ADJ;ESS	_	_	_	_
+5	विवर्धने	विवर्धन	_	_	MASC;SG;ADJ;ESS	_	_	_	_
+6	उपयोगे	उप-योग	_	_	MASC;SG;ADJ;ESS	_	_	_	_
+7	आदि	आदि	_	_	NEUT;NOM;ADV;SG	_	_	_	_
+8	कार्यम्	कृ	_	_	V;SG;PASS;NOM;V.PTCP;NEUT;FUT	_	_	_	_
+9	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc1.s114
+# text = तत्र ये कर्मकराः स्थापनादयस्ते मध्याह्नवेलायामाहारार्थं नगरमध्ये गच्छन्ति।
+# translit = tatra ye karmakarāḥ sthāpanādayaste madhyāhnavelāyāmāhārārthaṁ nagaramadhye gacchanti.
+# wtext = तत्र च ये कर्मकराः स्थापनादयः। ते मध्याह्नवेलायाम् आहारार्थं नगरमध्ये गच्छंति।
+# wtranslit = tatra ca ye karmakarāḥ sthāpanādayaḥ. te madhyāhnavelāyām āhārārthaṁ nagaramadhye gacchaṁti.
+# orig = panchatantra.conllu sent_id 112
+# ptext = tatra ye karma karAH sTapati AdayaH te maDya ahna velAyAm AhAra arTam pratidinam nagaram pra viSanti
+# ryder = Each day at the noon hour the foreman and workers would go to the city for lunch.
+1	तत्र	तत्र	_	_	ADV	_	_	_	_
+2	ये	यद्	_	_	MASC;NOM;PL;DET	_	_	_	_
+3	कर्म	कर्म	_	_	N	_	_	_	_
+4	कराः	कर्मकरि	_	_	N;PL;NOM;MASC	_	_	_	_
+5	स्थापनादयस्ते	स्थापनादयस्त	_	_	N;SG;MASC;ESS	_	_	_	_
+6	मध्यह्न	मध्यह्न	_	_	N	_	_	_	_
+7	वेलायाम्	वेला	_	_	N;NEUT;SG;ESS	_	_	_	_
+8	आहार	आहार	_	_	N	_	_	_	_
+9	अर्थम्	अर्थ	_	_	N;SG;MASC;ACC	_	_	_	_
+10	नगर	नगर	_	_	N	_	_	_	_
+11	मध्ये	मध्य	_	_	N;NEUT;SG;ESS	_	_	_	_
+12	गच्छन्ति	गम्	_	_	V;IND;ACT;3;PRS;PL;FIN	_	_	_	_
+13	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc5.s155
+# text = निराकुलस् तिष्ठ।
+# translit = nirākulas tiṣṭha.
+# orig = panchatantra.conllu sent_id 1286
+# ryder = 'Dismiss anxiety.
+1	निराकुलस्	निस्-आकुल	_	_	N;NOM;MASC;SG	_	_	_	_
+2	तिष्ठ	स्था	_	_	V;SG;ACT;IMP;FIN;2	_	_	_	_
+3	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc0.s23
+# text = तत् सङ्क्षेपमात्रम् शास्त्रम् किंचिद् एतेषाम् प्रबोधनार्थम् चिन्त्यताम्।
+# translit = tat saṅkṣepamātram śāstram kiṁcid eteṣām prabodhana artham cintyatām.
+# wtext = तत् सङ्क्षेपमात्रं शास्त्रं किञ्चितेतेषां प्रबोधनार्थं चिन्त्यतामिति।
+# wtranslit = tat saṅkṣepamātraṁ śāstraṁ kiñciteteṣāṁ prabodhanārthaṁ cintyatāmiti.
+# wsid = ॥०.६॥
+# orig = panchatantra.conllu sent_id 23
+# text_fr = Alors pensez plutôt à leur en faire un condensé pour éveiller leur conscience.
+# ryder = Therefore let some kind of epitome be devised to wake their intelligence.
+1	तत्	तद्	_	_	ADV	_	_	_	_
+2	सङ्क्षेप्र	सङ्क्षेप्र	_	_	N	_	_	_	_
+3	मात्रम्	मत्र	_	_	NEUT;NOM;SG;ADJ	_	_	_	_
+4	शास्त्रम्	शस्त्र	_	_	N;NEUT;NOM;SG	_	_	_	_
+5	किंचिद्	किम्-चिद्	_	_	DET	_	_	_	_
+6	एतेषाम्	एतद्	_	_	PRO;MASC;PL;GEN	_	_	_	_
+7	प्रबोधन	प्रबोधन	_	_	N	_	_	_	_
+8	अर्थम्	अर्थ	_	_	N;SG;MASC;ACC	_	_	_	_
+9	चिन्त्यताम्	चिन्त्	_	_	V;SG;PASS;3;IMP;FIN	_	_	_	_
+10	।	।	_	_	_	_	_	_	_
+
+# newpar id = panc1.p86
+# sent_id = panc1.s207
+# text = करटकः आह
+# wparagraph
+# wtext = उदीरितोऽर्थः पशुनापि गृह्यते हयाश् च नागाश् च वहंति चोदिताः। अनुक्तम् अप्य् ऊहति पंडितो जनः परेंगितज्ञानफला हि बुद्धयः॥पञ्च_१.४४॥
+# wtranslit = udīrito’rthaḥ paśunāpi gr̥hyate hayāś ca nāgāś ca vahaṁti coditāḥ. anuktam apy ūhati paṁḍito janaḥ pareṁgitajñānaphalā hi buddhayaḥ:pañca_1.44:
+# pparagraph
+# ptext(153) = ut IritaH arTaH paSunA api gfhyate hayAH ca nAgAH ca vahanti noditAH an uktam api Uhati paRqitaH janaH para iNgita kzAna PalAH hi budDayaH
+# ryder(153) = An ox can understand, of course, // The spoken word; a driven horse // Or elephant, exerts his force;
+# ryder(153) = But men of wisdom can infer // Unuttered thought from features' stir— // For wit rewards its worshiper.
+# wparagraph
+# wtext = तथा च मनुः (८।२६)
+# wtranslit = tathā ca manuḥ (8.26)
+# pparagraph
+# ptext(154) = taTA ca
+# ryder(154) = And once more:
+# wparagraph
+# wtext = आकारैर् इंगितैर् गत्या चेष्टया भाषणेन च। नेत्रवक्त्रविकारैश् च लक्ष्यतेऽन्तर्गतं मनः॥१.४५॥
+# wtranslit = ākārair iṁgitair gatyā ceṣṭayā bhāṣaṇena ca. netravaktravikāraiś ca lakṣyate’ntargataṁ manaḥ:1.45:
+# pparagraph
+# ptext(155) = AkArEH iNgitEH gatyA cezwayA BAzaRena ca netra vaktra vikariRa gfhyate antaH gatam manaH
+# ryder(155) = From feature, gesture, gait, // From twitch, or word, // From change in eye or face // Is thought inferred.
+# wparagraph
+# wtext = तद् अद्यैनं भयाकुलं प्राप्य स्वबुद्धिप्रभावेन निर्भयं कृत्वा वशीकृत्य च निजां साचिव्यपदवीं समासादयिष्यामि।
+# wtranslit = tad adyainaṁ bhayākulaṁ prāpya svabuddhiprabhāvena nirbhayaṁ kr̥tvā vaśīkr̥tya ca nijāṁ sācivyapadavīṁ samāsādayiṣyāmi.
+# pparagraph
+# ptext(156) = tat enam adya eva Atma prakzA pra BAveRa vaSI karizyAmi
+# ryder(156) = So by virtue of native intelligence I intend to get him into my power this very day."
+#
+# translit = karaṭakaḥ āha
+# wtext = करटक आह
+# wtranslit = karaṭaka āha
+# orig = panchatantra.conllu sent_id 157
+# ptext = karawakaH Aha
+# ryder = "Why," said Cheek,
+1	करटकः	करटक	_	_	MASC;NOM;PROPN;SG	_	_	_	_
+2	आह	अह्	_	_	V;SG;IND;ACT;3;PFV;FIN	_	_	_	_
+
+# newpar id = panc5.p61
+# sent_id = panc5.s169
+# text = तत् श्रुत्वा पिङ्गलकः अब्रवीत्
+# translit = tat śrutvā piṅgalakaḥ abravīt
+# orig = panchatantra.conllu sent_id 1377
+# ryder = On hearing this, Rusty said:
+1	तत्	तद्	_	_	SG;ACC;PRO;NEUT	_	_	_	_
+2	श्रुत्वा	श्रु	_	_	V;V.CVB	_	_	_	_
+3	पिङ्गलकः	पिङ्गलक	_	_	MASC;NOM;PROPN;SG	_	_	_	_
+4	अब्रवीत्	ब्रू	_	_	V;SG;IND;ACT;3;IPFV;FIN	_	_	_	_
+
+# newpar id = panc0.p8
+# sent_id = panc0.s12b
+# text = वरं गर्भस्रावो वरमृतुषु नैवाभिगमनं वरं जातः प्रोतो वरमपि च कन्यैव जनिता। वरं वन्ध्या भार्या वरमपि च गर्भेषु वसतिर् न चाविद्वान् रूपद्रविणगुणयुक्तोऽपि तनयः॥
+# wsid = ॥०.४॥
+# translit = varaṁ garbhasrāvo varamr̥tuṣu naivābhigamanaṁ varaṁ jātaḥ proto varamapi ca kanyaiva janitā. varaṁ vandhyā bhāryā varamapi ca garbheṣu vasatir na cāvidvān rūpadraviṇaguṇayukto’pi tanayaḥ:
+# text_fr = Mieux vaut une fausse couche, Mieux vaut ne pas s’accoupler durant le printemps. Mieux vaut qu’un enfant naisse mort ou meure juste après la naissance. Mieux vaut encore la naissance d’une fille ! Mieux vaut une femme stérile ou que l’enfant ne naisse jamais plutôt qu’un fils beau et vertueux, mais inculte !
+# text_en = Better a miscarriage, better not have sex during the fertile period, better a dead birth, better beget a daughter. Better a sterile wife than a son that is unintelligent, even if beautiful, rich and honest.
+1	वरं	वरम्	_	_	CMPR;ADV	_	_	_	_
+2	गर्भस्रावो	गर्भस्राव	_	_	N;NOM;MASC;SG	_	_	_	_
+3	वरम्	वरम्	_	_	CMPR;ADV	_	_	_	_
+4	ऋतुषु	ऋतु	_	_	N;PL;MASC;ESS	_	_	_	_
+5	न	न	_	_	NEG;PART	_	_	_	_
+6	ऐव	इ	_	_	V;1;IND;ACT;DU;IPFV;FIN	_	_	_	_
+7	अभि	अभि	_	_	ADP	_	_	_	_
+8	गमनं	गमन	_	_	N;SG;MASC;ACC	_	_	_	_
+9	वरं	वरम्	_	_	CMPR;ADV	_	_	_	_
+10	जातः	जात	_	_	N;NOM;MASC;SG	_	_	_	_
+11	प्रोतो	प्रोत	_	_	MASC;NOM;SG;ADJ	_	_	_	_
+12	वरम्	वरम्	_	_	CMPR;ADV	_	_	_	_
+13	अपि	अपि	_	_	ADV	_	_	_	_
+14	च	च	_	_	CONJ	_	_	_	_
+15	कन्या	कन्य	_	_	N;NOM;SG;FEM	_	_	_	_
+16	एव	एव	_	_	ADV	_	_	_	_
+17	जनिता	जन्	_	_	V;SG;PST;PASS;NOM;V.PTCP;FEM	_	_	_	_
+18	।	।	_	_	_	_	_	_	_
+19	वरं	वरम्	_	_	CMPR;ADV	_	_	_	_
+20	वन्ध्या	वन्ध्य	_	_	FEM;NOM;SG;ADJ	_	_	_	_
+21	भार्या	भार्य	_	_	N;NOM;SG;FEM	_	_	_	_
+22	वरम्	वरम्	_	_	CMPR;ADV	_	_	_	_
+23	अपि	अपि	_	_	ADV	_	_	_	_
+24	च	च	_	_	CONJ	_	_	_	_
+25	गर्भेषु	गर्भ	_	_	N;PL;MASC;ESS	_	_	_	_
+26	वसतिर्	वसति	_	_	MASC;NOM;SG;ADJ	_	_	_	_
+27	न	न	_	_	NEG;PART	_	_	_	_
+28	च	च	_	_	CONJ	_	_	_	_
+29	अविद्वान्	विद्वस्	_	_	NEG;SG;MASC;NOM;ADJ	_	_	_	_
+30	रूप	रूप	_	_	N	_	_	_	_
+31	द्रविण	द्रविण	_	_	N	_	_	_	_
+32	गुण	गुण	_	_	N	_	_	_	_
+33	युक्तः	युज्	_	_	V;SG;PST;PASS;MASC;NOM;V.PTCP	_	_	_	_
+34	अपि	अपि	_	_	ADV	_	_	_	_
+35	तनयः	तनय	_	_	N;NOM;MASC;SG	_	_	_	_
+36	॥	॥	_	_	_	_	_	_	_
+
+# sent_id = s78
+# text = यावत् अयम् प्राणेन न वियुज्यते तावत् इमम् गृहाण
+# translit = yāvat ayam prāṇena na viyujyate tāvat imam gr̥hāṇa
+# text_en = Take as much of this as is not separated by life.
+1	यावत्	यावत्	_	_	ADV	_	_	_	_
+2	अयम्	इदम्	_	_	SG;MASC;NOM;DET	_	_	_	_
+3	प्राणेन	प्राण	_	_	N;INS;SG;MASC	_	_	_	_
+4	न	न	_	_	NEG;PART	_	_	_	_
+5	वियुज्यते	वियुज्	_	_	V;SG;IND;PASS;3;PRS;FIN	_	_	_	_
+6	तावत्	तावत्	_	_	ADV	_	_	_	_
+7	इमम्	इदम्	_	_	SG;ACC;PRO;MASC	_	_	_	_
+8	गृहाण	ग्रह्	_	_	V;SG;ACT;PRS;IMP;FIN;2	_	_	_	_
+
+# sent_id = panc5.s151
+# text = चिन्तितः अस्ति मयास्य रिपोः वधोपायम्।
+# translit = cintitaḥ asti mayāsya ripoḥ vadhopāyam.
+# orig = panchatantra.conllu sent_id 1275
+# ryder = I have devised a means of killing this foe.
+1	चिन्तितः	चिन्त	_	_	V;SG;PST;PASS;MASC;NOM;V.PTCP	_	_	_	_
+2	अस्ति	अस्	_	_	SG;IND;ACT;3;PRS;FIN;V	_	_	_	_
+3	मया	अहम्	_	_	SG;1;PRO;INS	_	_	_	_
+4	अस्य	इदम्	_	_	SG;MASC;DET;GEN	_	_	_	_
+5	रिपोः	रिपु	_	_	N;GEN;SG;MASC	_	_	_	_
+6	वध	वध	_	_	N	_	_	_	_
+7	उपायम्	उपाय	_	_	N;NOM;MASC;SG	_	_	_	_
+8	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc5.s160
+# text = तत् वरम् सत्त्वम् आलम्बितम्।
+# translit = tat varam sattvam ālambitam.
+# orig = panchatantra.conllu sent_id 1301
+# ryder = It is better, then, to die game.
+1	तत्	तद्	_	_	SG;PRO;NOM;NEUT	_	_	_	_
+2	वरम्	वरम्	_	_	ADV	_	_	_	_
+3	सत्त्वम्	अस्	_	_	SG;ACT;PRS;NOM;V.PTCP;V;NEUT	_	_	_	_
+4	आलम्बितम्	आ-लम्ब्	_	_	V;SG;PST;PASS;NOM;V.PTCP;NEUT	_	_	_	_
+5	।	।	_	_	_	_	_	_	_
+
+# newpar id = panc1.p45
+# sent_id = panc1.s125
+# text = सुहृदाम् उपकारम् करणात् द्विषतानम् अपि उपकारम् करणात् नृपसंश्रय इष्यन्ते बुधैः जठरं को न बिभर्ति केवलम्
+# translit = suhr̥dām upakāram karaṇāt dviṣatānam api upakāram karaṇāt nr̥pasaṁśraya iṣyante budhaiḥ jaṭharaṁ ko na bibharti kevalam
+# wtext = सुहृदाम् उपकारणाद् द्विषताम् अप्य् अपकारणात्। नृपसंश्रय इष्यते बुधैर् जठरं को न बिभर्ति केवलम्॥पञ्च_१.२२॥
+# wtranslit = suhr̥dām upakāraṇād dviṣatām apy apakāraṇāt. nr̥pasaṁśraya iṣyate budhair jaṭharaṁ ko na bibharti kevalam:pañca_1.22:
+# wsid = ॥१.२२॥
+# orig = panchatantra.conllu sent_id 125
+# ptext = suhfdAm upakAra kAraRAt dvizatAm api apakAra kAraRAt nfpa saMSrayaH izyate buDEH jaWaram kaH na biBarti kevalam
+# ryder = In hurting foes and helping friends // The wise perceive the proper ends // Of serving kings. The belly's call // To answer, is no job at all.
+1	सुहृदाम्	सुहृद्	_	_	N;GEN;PL;MASC	_	_	_	_
+2	उपकारम्	उपकार	_	_	N;SG;MASC;ACC	_	_	_	_
+3	करणात्	करण	_	_	N;NEUT;SG;AT+ABL	_	_	_	_
+4	द्विषतानम्	द्विष	_	_	N;GEN;PL;MASC	_	_	_	_
+5	अपि	अपि	_	_	ADV	_	_	_	_
+6	उपकारम्	उपकार	_	_	N;SG;MASC;ACC	_	_	_	_
+7	करणात्	करण	_	_	N;NEUT;SG;AT+ABL	_	_	_	_
+8	नृप	नृप	_	_	N	_	_	_	_
+9	संश्रय	संश्रय	_	_	N;NOM;MASC;SG	_	_	_	_
+10	इष्यन्ते	इष्	_	_	V;IND;PASS;3;PRS;PL;FIN	_	_	_	_
+11	बुधैः	बुध	_	_	N;INS;PL;MASC	_	_	_	_
+12	जठरं	जठर	_	_	N;NEUT;SG;ACC	_	_	_	_
+13	को	किम्	_	_	SG;PRO;MASC;NOM	_	_	_	_
+14	न	न	_	_	NEG;PART	_	_	_	_
+15	बिभर्ति	भृ	_	_	V;SG;IND;ACT;3;PRS;FIN	_	_	_	_
+16	केवलम्	केवल	_	_	ADV	_	_	_	_
+
+# newpar id = panc5.p5
+# sent_id = panc5.s122
+# text = देव किंनिमित्तम् इहागमनेनानुगृहीतास्मि।
+# translit = deva kiṁnimittam ihāgamanenānugr̥hītāsmi.
+# orig = panchatantra.conllu sent_id 1210
+# ryder = "O Lord, to what end am I honored by this visit?
+1	देव	देव	_	_	N;MASC;SG;VOC	_	_	_	_
+2	किम्	किम्	_	_	SG;ACC;DET;NEUT	_	_	_	_
+3	निमित्तम्	निमित्त	_	_	N;NEUT;SG;ACC	_	_	_	_
+4	इह	इह	_	_	ADV	_	_	_	_
+5	आगमनेन	आगमन	_	_	N;INS;NEUT;SG	_	_	_	_
+6	अनुगृहीता	अनु-ग्रह्	_	_	V;SG;PST;PASS;NOM;V.PTCP;FEM	_	_	_	_
+7	अस्मि	अस्	_	_	SG;1;IND;ACT;PRS;FIN;V	_	_	_	_
+8	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc1.s227
+# text = सः अब्रवीत्
+# translit = saḥ abravīt
+# orig = panchatantra.conllu sent_id 167
+# ptext = saH abravIt
+# ryder = said Victor.
+1	सः	तद्	_	_	SG;PRO;MASC;NOM	_	_	_	_
+2	अब्रवीत्	ब्रू	_	_	V;SG;IND;ACT;3;IPFV;FIN	_	_	_	_
+
+# sent_id = s57
+# text = तत्र आसीत् मारीचः नाम राक्षसः।
+# translit = tatra āsīt mārīcaḥ nāma rākṣasaḥ.
+# text_en = There was a man-eating giant named Maricha.
+1	तत्र	तत्र	_	_	ADV	_	_	_	_
+2	आसीत्	आस्	_	_	V;SG;IND;ACT;3;IPFV;FIN	_	_	_	_
+3	मारीचः	मारीच	_	_	MASC;NOM;PROPN;SG	_	_	_	_
+4	नाम	नामन्	_	_	N;NEUT;NOM;SG	_	_	_	_
+5	राक्षसः	राक्षस	_	_	N;NOM;MASC;SG	_	_	_	_
+6	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc5.s121
+# text = मयैवं निश्चितम् असौ राजदुहिता हर्म्यतले एकाकिनी स्वपिति।
+# translit = mayaivaṁ niścitam asau rājaduhitā harmyatale ekākinī svapiti.
+# orig = panchatantra.conllu sent_id 1207
+# ryder = I have ascertained that the princess sleeps alone on the palace balcony."
+1	मया	अहम्	_	_	INS;1;PRO	_	_	_	_
+2	एवम्	एवम्	_	_	ADV	_	_	_	_
+3	निश्चितम्	निश्-चि	_	_	V;SG;PST;PASS;NOM;V.PTCP;NEUT	_	_	_	_
+4	असौ	अदस्	_	_	SG;NOM;FEM;DET	_	_	_	_
+5	राज	राज	_	_	N	_	_	_	_
+6	दुहिता	दुहितृ	_	_	N;NOM;SG;FEM	_	_	_	_
+7	हर्म्य	हर्म्य	_	_	N	_	_	_	_
+8	तले	तल	_	_	N;NEUT;SG;ESS	_	_	_	_
+9	एकाकिनी	एकाकिन्	_	_	FEM;NOM;SG;ADJ	_	_	_	_
+10	स्वपिति	स्वप्	_	_	V;SG;IND;ACT;3;PRS;FIN	_	_	_	_
+11	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc1.s228
+# text = अस्ति एवम् परम् अहम् देशकालविद् वित् अपि
+# translit = asti evam param aham deśakālavid vit api
+# orig = panchatantra.conllu sent_id 168, 169
+# ptext = asti evam (169) param aham deSa kAla vit api
+# ryder = "Yes," (169) "there is point in that. However, I am also a judge of occasions.
+1	अस्ति	अस्	_	_	SG;IND;ACT;3;PRS;FIN;V	_	_	_	_
+2	एवम्	एवम्	_	_	ADV	_	_	_	_
+3	परम्	पर	_	_	NEUT;NOM;SG;ADJ	_	_	_	_
+4	अहम्	अहम्	_	_	SG;1;PRO;NOM	_	_	_	_
+5	देश	देश	_	_	N	_	_	_	_
+6	काल	काल	_	_	N	_	_	_	_
+7	वित्	विद्	_	_	N;NOM;MASC;SG	_	_	_	_
+8	अपि	अपि	_	_	ADV	_	_	_	_
+
+# sent_id = s63
+# text = देवदत्तः विष्वामित्रेण ओदनम् पाचयति।
+# translit = devadattaḥ viṣvāmitreṇa odanam pācayati.
+# text_en = Devadatta with Visvamitra cooked rice.
+1	देवदत्तः	देवदत्त	_	_	MASC;NOM;PROPN;SG	_	_	_	_
+2	विष्वामित्रेण	विष्वमित्र	_	_	INS;PROPN;MASC;SG	_	_	_	_
+3	ओदनम्	ओदन	_	_	N;SG;MASC;ACC	_	_	_	_
+4	पाचयति	पच्	_	_	V;SG;IND;3;PRS;{ACT/CAUS};FIN	_	_	_	_
+5	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc1.s12
+# text = लोकमार्गेण अपि रक्ष्यमाणः अर्थः बहु अप द्रवतया सद्यस् विनश्येत्।
+# translit = lokamārgeṇa api rakṣyamāṇaḥ arthaḥ bahu apa dravatayā sadyas vinaśyet.
+# orig = panchatantra.conllu sent_id 59
+# ptext = loka mArgeRa api rakzyamARaH arTaH bahu apa dravatayA sadyaH vi naSyet
+# ryder = Money, even if hoarded in commonplace fashion, is likely to go in a flash, the hindrances being many.
+1	लोक	लोक	_	_	N	_	_	_	_
+2	मार्गेण	मार्ग	_	_	N;INS;SG;MASC	_	_	_	_
+3	अपि	अपि	_	_	ADV	_	_	_	_
+4	रक्ष्यमाणः	रक्ष्	_	_	V;SG;PASS;MASC;PRS;NOM;V.PTCP	_	_	_	_
+5	अर्थः	अर्थ	_	_	N;NOM;MASC;SG	_	_	_	_
+6	बहु	बहु	_	_	N;NEUT;NOM;SG	_	_	_	_
+7	अप	अप	_	_	ADP	_	_	_	_
+8	द्रवतया	द्रव	_	_	N;INS;SG;FEM	_	_	_	_
+9	सद्यस्	सद्यस्	_	_	ADV	_	_	_	_
+10	विनश्येत्	विनश्	_	_	V;SG;ACT;3;FIN;OPT	_	_	_	_
+11	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc1.s7
+# text = तस्मै कदाचिद्रात्रौ शय्यारूढस्य चिन्ता समुत्पन्ना।
+# translit = tasmai kadācidrātrau śayyārūḍhasya cintā samutpannā.
+# wtext = तस्य कदाचिद् रात्रौ शय्यारूढस्य चिन्ता समुत्पन्ना।
+# wtranslit = tasya kadācid rātrau śayyārūḍhasya cintā samutpannā.
+# ptext = aTa kadAcit cintayataH arDa rAtra velAyAm IdfSam tasya cittam aBUt yaTA
+# wsid = ॥१.२॥
+# orig = panchatantra.conllu sent_id 54
+# ryder = As he once pondered in the dead of night, his conclusions took this form:
+1	तस्मै	तद्	_	_	SG;PRO;MASC;DAT	_	_	_	_
+2	कदाचिद्	कदा-चिद्	_	_	ADV	_	_	_	_
+3	रात्रौ	रात्रि	_	_	N;SG;FEM;ESS	_	_	_	_
+4	शय्या	शय्या	_	_	N	_	_	_	_
+5	आरूढस्य	अअ-रुह्	_	_	V;SG;PST;PASS;MASC;V.PTCP;GEN	_	_	_	_
+6	चिन्ता	चिन्ता	_	_	N;NOM;SG;FEM	_	_	_	_
+7	समुत्पन्ना	समुत्-पद्	_	_	V;SG;PST;PASS;NOM;V.PTCP;FEM	_	_	_	_
+8	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc1.s229
+# text = उक्तं च
+# translit = uktaṁ ca
+# text_en = And it is said:
+# orig = panchatantra.conllu sent_id 170
+# ptext = uktam ca
+# ryder = And there are rules, as follows:
+1	उक्तं	वच्	_	_	V;SG;PST;PASS;NOM;V.PTCP;NEUT	_	_	_	_
+2	च	च	_	_	CONJ	_	_	_	_
+
+# sent_id = panc0.s6
+# text = तत्र अमरशक्तिर् नाम्नः राजा बभूव।
+# translit = tatra amaraśaktir nāmnaḥ rājā babhūva.
+# ptext = tatra sakala arTa SAstra viSAradaH pravara nfpa mukuwa maRi marIci caya carcita caraRaH sakala kalA pAram gataH a mara SaktiH nAma rAjA baBUva
+# wtext = तत्र सकलार्थिसार्थकल्पद्रुमः प्रवरमुकुटमणिमरीचिमञ्जरीचर्चितचरणयुगलः सकलकलापारङ्गतेऽमरशक्तिर्नाम राजा बभूव।
+# wtranslit = tatra sakalārthisārthakalpadrumaḥ pravaramukuṭamaṇimarīcimañjarīcarcitacaraṇayugalaḥ sakalakalāpāraṅgate’maraśaktirnāma rājā babhūva.
+# ftext = तत्र सकलार्थिशास्त्रकल्पद्रुमः प्रवरनृपमुकुटमणिम्मरीचिमञ्जरचर्चितचरणयुगलः सकलकल्पपारंगतोऽमरशक्तिर्नाम राजा बभूव।
+# ftranslit = tatra sakalārthiśāstrakalpadrumaḥ pravaranr̥pamukuṭamaṇimmarīcimañjaracarcitacaraṇayugalaḥ sakalakalpapāraṁgato’maraśaktirnāma rājā babhūva.
+# wsid = ॥०.३॥
+# orig = panchatantra.conllu sent_id 6
+# text_fr = Là, vivait un roi nommé Amara-shakti (Force-éternelle), versé dans l’Artha-shastra, traité sur la chose publique. Il était aussi généreux que Kalpa-druma, l’un des cinq arbres du paradis qui exauce les vœux de tous les quémandeurs ! Vénéré de son peuple pour sa grande intelligence, il était d’une aura resplendissante !
+# text_en = There lived a king named Amarashakti.
+# ryder = There lived a king named Immortal-Power.
+1	तत्र	तत्र	_	_	ADV	_	_	_	_
+2	अमरशक्तिर्	अमरशक्ति	_	_	MASC;NOM;PROPN;SG	_	_	_	_
+3	नाम्नः	नामन्	_	_	N;GEN;NEUT;SG	_	_	_	_
+4	राजा	राजन्	_	_	N;NOM;MASC;SG	_	_	_	_
+5	बभूव	भू	_	_	V;SG;IND;ACT;3;PFV;FIN	_	_	_	_
+6	।	।	_	_	_	_	_	_	_
+
+# newpar id = panc1.p61
+# sent_id = panc1.s150
+# text = निरतिशयं गरिमाणं तेन जनन्याः स्मरन्ति विद्वांसः।
+# translit = niratiśayaṁ garimāṇaṁ tena jananyāḥ smaranti vidvāṁsaḥ.
+# wtext = निरतिशयं गरिमाणं तेन जनन्याः स्मरंति विद्वांसः। यत् कम् अपि वहति गर्भं महताम् अपि यो गुरुर् भवति॥पञ्च_१.३१॥
+# wtranslit = niratiśayaṁ garimāṇaṁ tena jananyāḥ smaraṁti vidvāṁsaḥ. yat kam api vahati garbhaṁ mahatām api yo gurur bhavati:pañca_1.31:
+# wsid = ॥१.३१॥
+# text_en = Scholars remember the unsurpassable weight of expectant mothers.
+1	निरतिशयं	निरतिशय	_	_	MASC;ACC;SG;ADJ	_	_	_	_
+2	गरिमाणं	गरिमन्	_	_	N;SG;MASC;ACC	_	_	_	_
+3	तेन	तद्	_	_	SG;DET;INS;NEUT	_	_	_	_
+4	जनन्याः	जनन	_	_	N;GEN;SG;FEM	_	_	_	_
+5	स्मरन्ति	स्मृ	_	_	V;IND;ACT;3;PRS;PL;FIN	_	_	_	_
+6	विद्वांसः	विद्वस्	_	_	N;PL;NOM;MASC	_	_	_	_
+7	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc0.s15b
+# text = अत्र च मद्दत्तां वृत्तिं भुञ्जानानां पण्डितानां पञ्चशती तिष्ठति।
+# translit = atra ca maddattāṁ vr̥ttiṁ bhuñjānānāṁ paṇḍitānāṁ pañcaśatī tiṣṭhati.
+# text_fr = Or voyons, il y a ici cinq cents pandits qui jouissent de mes faveurs.
+# text_en = And there are five hundred sages who enjoy my favor.
+1	अत्र	अत्र	_	_	ADV	_	_	_	_
+2	च	च	_	_	CONJ	_	_	_	_
+3	मद्	अस्मद्	_	_	1;PRO	_	_	_	_
+4	दत्तां	दत्त	_	_	N;FEM;SG;ACC	_	_	_	_
+5	वृत्तिं	वृत्ति	_	_	N;FEM;SG;ACC	_	_	_	_
+6	भुञ्जानानां	भुज	_	_	V;MASC;PRS;V.PTCP;PL;GEN	_	_	_	_
+7	पण्डितानां	पण्डित	_	_	N;GEN;PL;MASC	_	_	_	_
+8	पञ्चशती	पञ्चशती	_	_	SG;NOM;FEM;NUM	_	_	_	_
+9	तिष्ठति	स्था	_	_	V;SG;IND;ACT;3;PRS;FIN	_	_	_	_
+10	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc5.s102
+# text = क्षत्रियस्य तिस्रः भार्या धर्मम् भवन्ति।
+# translit = kṣatriyasya tisraḥ bhāryā dharmam bhavanti.
+# orig = panchatantra.conllu sent_id 1186
+# ptext = kzatriyasya tisraH BAryA DarmataH Bavanti eva
+# ryder = The holy law allows a warrior three wives.
+1	क्षत्रियस्य	क्षत्रिय	_	_	N;GEN;SG;MASC	_	_	_	_
+2	तिस्रः	त्रि	_	_	NOM;FEM;PL;NUM	_	_	_	_
+3	भार्या	भार्य	_	_	N;PL;NOM;FEM	_	_	_	_
+4	धर्मम्	धर्म	_	_	N;NEUT;SG;ACC	_	_	_	_
+5	भवन्ति	भू	_	_	V;IND;ACT;3;PRS;PL;FIN	_	_	_	_
+6	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc5.s171
+# text = कथम् ममोपरि विपर्ययम् करिष्यति।
+# translit = katham mamopari viparyayam kariṣyati.
+# orig = panchatantra.conllu sent_id 1379
+# ryder = Why should he experience a change of heart toward me?"
+1	कथम्	कथम्	_	_	ADV	_	_	_	_
+2	मम	अहम्	_	_	SG;1;PRO;GEN	_	_	_	_
+3	उपरि	उपरि	_	_	ADP	_	_	_	_
+4	विपर्ययम्	विपर्यय	_	_	N;SG;MASC;ACC	_	_	_	_
+5	करिष्यति	कृ	_	_	V;SG;IND;ACT;3;FIN;FUT	_	_	_	_
+6	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc1.s211
+# text = भद्र अहम् न सेवाभिज्ञः?
+# translit = bhadra aham na sevābhijñaḥ?
+# wtext = कथम् अहं सेवानभिज्ञः?
+# wtranslit = katham ahaṁ sevānabhijñaḥ?
+# orig = panchatantra.conllu sent_id 161
+# ptext = Badra kaTam aham na sevA aBijYaH
+# ryder = "And why, my good fellow, do I not know how to make myself useful?"
+1	भद्र	भद्र	_	_	N;MASC;SG;VOC	_	_	_	_
+2	अहम्	अहम्	_	_	SG;1;PRO;NOM	_	_	_	_
+3	न	न	_	_	NEG;PART	_	_	_	_
+4	सेवा	सेवा	_	_	N	_	_	_	_
+5	अभिज्ञः	अभिज्ञ	_	_	N;NOM;MASC;SG	_	_	_	_
+6	?	?	_	_	_	_	_	_	_
+
+# sent_id = panc1.s209
+# text = तत् कथम् एनम् वशी करिष्यसि?
+# translit = tat katham enam vaśī kariṣyasi?
+# wtext = तत् कथम् एनं वशीकरिष्यसि?
+# wtranslit = tat katham enaṁ vaśīkariṣyasi?
+# orig = panchatantra.conllu sent_id 159
+# ptext = tat kaTaya kaTam AtmI karizyasi
+# ryder = So tell me. How can you establish power over him?"
+1	तत्	तद्	_	_	ADV	_	_	_	_
+2	कथम्	कथम्	_	_	ADV	_	_	_	_
+3	एनम्	एन	_	_	SG;ACC;PRO;MASC;3	_	_	_	_
+4	वशी	वशिन्	_	_	N;NOM;MASC;SG	_	_	_	_
+5	करिष्यसि	कृ	_	_	V;SG;IND;ACT;FIN;2;FUT	_	_	_	_
+6	?	?	_	_	_	_	_	_	_
+
+# newpar id = panc0.p6
+# sent_id = panc0.s4
+# text = तत् यथानुश्रूयते।
+# translit = tat yathānuśrūyate.
+# wtext = तद्यथाऽनुश्रूयते।
+# wtranslit = tadyathā’nuśrūyate.
+# wsid = ॥०.३॥
+# orig = panchatantra.conllu sent_id 4
+# text_fr = Voilà ce qui nous est parvenu par la tradition orale.
+# text_en = This is what is heard.
+# ryder = And this is how it happened.
+1	तत्	तद्	_	_	SG;3;NOM;DET;NEUT	_	_	_	_
+2	यथा	यथा	_	_	ADV	_	_	_	_
+3	अनुश्रूयते	अनु-श्रु	_	_	V;SG;IND;PASS;3;PRS;FIN	_	_	_	_
+4	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc0.s46
+# text = किं बहुना
+# translit = kiṁ bahunā
+# ptext = kim bahunA
+# wsid = ॥०.७॥
+# orig = panchatantra.conllu sent_id 46
+# text_fr = Pour être bref,
+# ryder = To sum the matter up:
+1	किं	क	_	_	SG;PRO;NOM;NEUT	_	_	_	_
+2	बहुना	बहु	_	_	N;INS;SG;MASC	_	_	_	_
+
+# sent_id = panc1.s121
+# text = आवयोर्भक्षितशेष आहारो'स्त्येव।
+# ptext(119) = a vyApAraH prAjYEH pari hartavyaH iti
+# ryder(119) = that meddling should be avoided by the intelligent.
+# ptext(120) = punaH ca abravIt
+# ryder(120) = And you know," he continued,
+#
+# translit = āvayorbhakṣitaśeṣa āhāro'styeva.
+# wtext = आवयोर् भक्षितशेष आहारोऽस्त्य् एव।
+# wtranslit = āvayor bhakṣitaśeṣa āhāro’sty eva.
+# orig = panchatantra.conllu sent_id 121
+# ptext = AvayoH tAvat Bakzita Seza AhAra mAtra vartanam asti eva
+# ryder = "that we two pick up a fair living just from his leavings."
+# text-en= to us the food is the remainder of what has been eaten.
+1	आवयोः	अस्मद्	_	_	1;PRO;DU;GEN	_	_	_	_
+2	भक्षित	भक्ष्	_	_	V;PST;PASS;V.PTCP	_	_	_	_
+3	शेष	शेष	_	_	N;NOM;MASC;SG	_	_	_	_
+4	आहारः	आहार	_	_	N;NOM;MASC;SG	_	_	_	_
+5	अस्ति	अस्	_	_	SG;IND;ACT;3;PRS;FIN;V	_	_	_	_
+6	एव	एव	_	_	ADV	_	_	_	_
+7	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc1.s64
+# text = अथ तदवस्थमालोक्य वर्धमानः परम् विषादमगमत्।
+# translit = atha tadavasthamālokya vardhamānaḥ param viṣādamagamat.
+# wtext = अथ तं तद्अवस्थम् आलोक्य वर्धमानः परं विषादम् आगमत्।
+# wtranslit = atha taṁ tadavastham ālokya vardhamānaḥ paraṁ viṣādam āgamat.
+# text_en = When Vardhamana saw what happened, he was deeply dejected.
+# orig = panchatantra.conllu sent_id 72
+# ptext = tat SrutvA varDa mAna sArTa vAhaH param vizAdam agamat
+# ryder = When the driver saw that he was down, he jumped excitedly from the wagon, ran to the merchant not far away, and humbly bowing, said: "Oh, my lord! Lively was wearied by the trip, and sank in the mud." On hearing this, merchant Increase was deeply dejected.
+1	अथ	अथ	_	_	ADV	_	_	_	_
+2	तत्	तद्	_	_	SG;ACC;DET;NEUT	_	_	_	_
+3	अवस्थम्	अवस्था	_	_	N;NEUT;SG;ACC	_	_	_	_
+4	आलोक्य	आ-लोक्	_	_	V;V.CVB	_	_	_	_
+5	वर्धमानः	वर्धमान	_	_	MASC;NOM;PROPN;SG	_	_	_	_
+6	परम्	परम्	_	_	MASC;ACC;SG;ADJ	_	_	_	_
+7	विषादम्	विषाद	_	_	N;SG;MASC;ACC	_	_	_	_
+8	अगमत्	गम्	_	_	V;SG;PST;IND;ACT;3;FIN	_	_	_	_
+9	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc5.s165
+# text = यदि एवम् भवान् कृतनिश्चयः ततः गच्छतु भवान् अभिमतसिद्धये।
+# translit = yadi evam bhavān kr̥taniścayaḥ tataḥ gacchatu bhavān abhimatasiddhaye.
+# orig = panchatantra.conllu sent_id 1346
+# ryder = "If you, too, are thus climbing determination's height, then proceed to the accomplishment of your desire.
+1	यदि	यदि	_	_	CONJ	_	_	_	_
+2	एवम्	एवम्	_	_	ADV	_	_	_	_
+3	भवान्	भवत्	_	_	SG;PRO;FORM;MASC;3;NOM	_	_	_	_
+4	कृत	कृत	_	_	V;PST;PASS;V.PTCP	_	_	_	_
+5	निश्चयः	निश्चय	_	_	N;NOM;MASC;SG	_	_	_	_
+6	ततः	ततः	_	_	ADV	_	_	_	_
+7	गच्छतु	गम्	_	_	V;SG;ACT;3;IMP;FIN	_	_	_	_
+8	भवान्	भवत्	_	_	SG;PRO;FORM;MASC;3;NOM	_	_	_	_
+9	अभिमत	अभि-मत	_	_	N	_	_	_	_
+10	सिद्धये	सिद्धि	_	_	N;SG;FEM;DAT	_	_	_	_
+11	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc0.s33
+# text = देव श्रूयताम् मे तथ्यवचनम्।
+# translit = deva śrūyatām me tathyavacanam.
+# wtext = देव श्रूयतां मे तथ्यवचनम्।
+# wtranslit = deva śrūyatāṁ me tathyavacanam.
+# wsid = ॥०.७॥
+# orig = panchatantra.conllu sent_id 33
+# text_fr = « Écoutez donc ma parole sincère.
+# ryder = "O King, listen. Here is the plain truth.
+1	देव	देव	_	_	N;MASC;SG;VOC	_	_	_	_
+2	श्रूयताम्	श्रु	_	_	V;SG;PASS;3;PRS;IMP;FIN	_	_	_	_
+3	मे	अहम्	_	_	SG;1;PRO;GEN	_	_	_	_
+4	तथ्य	तथ्य	_	_	ADJ	_	_	_	_
+5	वचनम्	वचन	_	_	N;NEUT;NOM;SG	_	_	_	_
+6	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc5.s129
+# text = त्वम् मम पूर्वपत्नी।
+# translit = tvam mama pūrvapatnī.
+# orig = panchatantra.conllu sent_id 1217
+# ryder = "Nay, you have been my bride,
+1	त्वम्	त्वद्	_	_	SG;PRO;NOM;2	_	_	_	_
+2	मम	अहम्	_	_	SG;1;PRO;GEN	_	_	_	_
+3	पूर्व	पूर्व	_	_	ADJ	_	_	_	_
+4	पत्नी	पत्नी	_	_	N;NEUT;SG;ACC	_	_	_	_
+5	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc5.s153
+# text = भद्रे कियन्मात्रम् एनम् मानुषविग्रहप्रयोजनम्।
+# translit = bhadre kiyanmātram enam mānuṣavigrahaprayojanam.
+# orig = panchatantra.conllu sent_id 1283
+# ryder = "Dear love, how little a business is this, a mere war with men!
+1	भद्रे	भद्र	_	_	N;SG;VOC;FEM	_	_	_	_
+2	कियत्	कियत्	_	_	ADV	_	_	_	_
+3	मात्रम्	मात्र	_	_	N;NEUT;NOM;SG	_	_	_	_
+4	एनम्	एन	_	_	SG;ACC;MASC;3;DET	_	_	_	_
+5	मानुष	मानुष	_	_	ADJ	_	_	_	_
+6	विग्रह	विग्रह	_	_	N	_	_	_	_
+7	प्रयोजनम्	प्रयोजन	_	_	N;NEUT;NOM;SG	_	_	_	_
+8	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc0.s43
+# text = विष्णुशर्मणापि तान् आदाय तदर्थं मित्रभॆदमित्रप्राप्तिकाकोलूकीयलब्धप्रणाशापरीक्षितकारकाणि चेति पञ्चतन्त्राणि रचयित्वा पाठिताः ते राजपुत्राः।
+# translit = viṣṇuśarmaṇāpi tān ādāya tadarthaṁ mitrabhèdamitraprāptikākolūkīyalabdhapraṇāśāparīkṣitakārakāṇi ceti pañcatantrāṇi racayitvā pāṭhitāḥ te rājaputrāḥ.
+# ptext = vizRu SarmA api tAn A dAya sva gfham gatvA tat arTam mitra BedaH mitra sam pra AptiH kAkolUkIyam labDa pra RASam a pari Ikzita kArakam iti paYca tantrARi racayitvA pAWitAH te rAja putrAH
+# orig = panchatantra.conllu sent_id 43
+# text_fr = Les accueillant, Vishnu Sharma créa pour les princes le Pañcatantra, Les cinq livres et leur inculqua ainsi l’enseignement : mitra-bheda (La désunion des amis), mitra-prāpti (L’art de se faire des amis), kākolūkīya (La guerre des corbeaux et des hiboux), labdha-pranāśana (La perte du bien acquis) et aparīkṣita-kāritva (La conduite inconsidérée).
+# ryder = Meanwhile, Vishnusharman took the boys, went home, and made them learn by heart five books which he composed and called: (I) "The Loss of Friends," (II) "The Winning of Friends," (III) "Crows and Owls," (IV) "Loss of Gains," (V) "Ill-considered Action."
+1	विष्णुशर्मणा	विष्णुशर्मा	_	_	INS;PROPN;MASC;SG	_	_	_	_
+2	अपि	अपि	_	_	ADV	_	_	_	_
+3	तान्	तद्	_	_	ACC;MASC;PL;DET	_	_	_	_
+4	आदाय	आ-दा	_	_	V;V.CVB	_	_	_	_
+5	तत्	तद्	_	_	DET	_	_	_	_
+6	अर्थम्	अर्थ	_	_	N;SG;MASC;ACC	_	_	_	_
+7	मित्रभेद	मित्रभेद	_	_	PROPN	_	_	_	_
+8	मित्रप्राप्ति	मित्रप्राप्ति	_	_	PROPN	_	_	_	_
+9	काकोलूकीय	काकोलूकीय	_	_	PROPN	_	_	_	_
+10	लब्धप्रणाश	लब्धप्रणाश	_	_	PROPN	_	_	_	_
+11	अपरीक्षितकारकाणि	अपरीक्षितकारक	_	_	PL;NOM;NEUT;PROPN	_	_	_	_
+12	च	च	_	_	CONJ	_	_	_	_
+13	इति	इति	_	_	ADV	_	_	_	_
+14	पञ्चतन्त्राणि	पञ्चतन्त्र	_	_	PL;NOM;NEUT;PROPN	_	_	_	_
+15	रचयित्वा	रच्	_	_	V;V.CVB	_	_	_	_
+16	पाठिताः	पाठ	_	_	V;PST;MASC;NOM;V.PTCP;{CAUS/PASS};PL	_	_	_	_
+17	ते	तद्	_	_	MASC;NOM;PL;DET	_	_	_	_
+18	राजपुत्राः	राजपुत्र	_	_	N;PL;NOM;MASC	_	_	_	_
+19	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc5.s168
+# text = अयम् एव मन्त्रिप्राधान्ये महान् दोषः साधुम् च उच्यते
+# translit = ayam eva mantriprādhānye mahān doṣaḥ sādhum ca ucyate
+# orig = panchatantra.conllu sent_id 1366
+# ryder = "This is the great sadness in the discharge of a counselor's duty. There is wisdom in the saying:
+1	अयम्	इदम्	_	_	SG;PRO;MASC;NOM	_	_	_	_
+2	एव	एव	_	_	ADV	_	_	_	_
+3	मन्त्रि	मन्त्रिन्	_	_	N	_	_	_	_
+4	प्राधान्ये	प्राधान्य	_	_	N;NEUT;SG;ESS	_	_	_	_
+5	महान्	महत्	_	_	MASC;NOM;SG;ADJ	_	_	_	_
+6	दोषः	दोष	_	_	N;NOM;MASC;SG	_	_	_	_
+7	साधुम्	साधु	_	_	N;SG;MASC;ACC	_	_	_	_
+8	च	च	_	_	CONJ	_	_	_	_
+9	उच्यते	वच्	_	_	V;SG;IND;PASS;3;PRS;FIN	_	_	_	_
+
+# newpar id = panc0.p4
+# sent_id = panc0.s2e
+# text = मनवे वाचस्पतये शुक्राय पराशराय ससुताय।
+# translit = manave vācaspataye śukrāya parāśarāya sasutāya.
+# text_fr = J’en appelle aux sages érudits, À Manou, l’auteur de Manu-smriti, traité sur la gouvernance, À Vācaspati, auteur d’un traité de conduite, maître des prières, À Shukra, le scintillant Vénus, Au sage Parāśara, père de Vyāsa et des hymnes du rig-veda, À Sasuta, Vyasayukta…
+1	मनवे	मनु	_	_	MASC;PROPN;SG;DAT	_	_	_	_
+2	वाचस्पतये	वाचस्पति	_	_	MASC;PROPN;SG;DAT	_	_	_	_
+3	शुक्राय	शुक्र	_	_	MASC;PROPN;SG;DAT	_	_	_	_
+4	पराशराय	पराशर	_	_	MASC;PROPN;SG;DAT	_	_	_	_
+5	ससुताय	ससुत	_	_	MASC;PROPN;SG;DAT	_	_	_	_
+6	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc0.s17
+# text = देव द्वादशभिर् वर्षैः व्याकरणम् श्रूयते ।
+# translit = deva dvādaśabhir varṣaiḥ vyākaraṇam śrūyate .
+# wtext = 'देव! द्वादशभिर्वर्षैर्व्याकरणं श्रूयते ।
+# wtranslit = 'deva! dvādaśabhirvarṣairvyākaraṇaṁ śrūyate .
+# wsid = ॥०.६॥
+# orig = panchatantra.conllu sent_id 17
+# text_fr = « Seigneur ! Il faut douze années pour apprendre la grammaire par la tradition orale aux pieds d’un maître ;
+# text_en = Your Majesty, one learns grammar in twelve years.
+# ryder = "O King, first one learns grammar, in twelve years.
+1	देव	देव	_	_	N;MASC;SG;VOC	_	_	_	_
+2	द्वादशभिर्	द्वादशभि	_	_	INS;PL;NUM	_	_	_	_
+3	वर्षैः	वर्ष	_	_	N;INS;NEUT;PL	_	_	_	_
+4	व्याकरणम्	व्याकरण	_	_	N;NEUT;NOM;SG	_	_	_	_
+5	श्रूयते	श्रु	_	_	V;SG;IND;PASS;3;PRS;FIN	_	_	_	_
+6	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc1.s61
+# text = तस्य मङ्गलवृषभौ सञ्जीवकनन्दकनामानौ गृहोत्पन्नौ धूर्वोढारौ स्थितौ।
+# Missing panchatantra.conllu sent_id 67
+# ptext(67) = udaka antAt suhft janam ni vartya tasmAt aBi pra sTitaH
+# text(67) = उदक अन्तात् सुहृत् जनम् नि वर्त्य तस्मात् अभि प्र स्थितः
+# translit(67) = udaka antāt suhr̥t janam ni vartya tasmāt abhi pra sthitaḥ
+# ryder(67) = At the first water he bade his friends turn back, while he proceeded.
+# Missing panchatantra.conllu sent_id 69 (while 68 is below and matches a sentence from Wikisource).
+# ptext(69) = aTa Dava Kadira palASa SAlEH manaH harAm anyEH ca izwa darSanEH SAKiBiH nirantara upa citAm an eka gaja gavaya mahiza ruru camarI varAha SArdula citraka fkza BayodBawAm a cala nitamba nir gata udaka pari pUritAm viviDa darI gahanAm awavIm A sAdya dUra A pAti nirJaraka ut pAdita kardamam agrEka caraRa vEkalyAt ca atiBArAt aBi hataH kasmincit pradeSe kaTam api tayoH vfzaBayoh saYjIvakaH yuga BaNgam kftvA ni zasAda
+# ryder(69) = Presently he reached a forest lovely with grisleas, acacias, dhaks, and sals, densely planted with other trees of charming aspect; fearsome with elephants, wild oxen, buffaloes, deer, grunting-cows, boars, tigers, leopards, and bears; abounding in water that issued from the flanks of mountains; rich in caves and thickets.
+#
+# translit = tasya maṅgalavr̥ṣabhau sañjīvakanandakanāmānau gr̥hotpannau dhūrvoḍhārau sthitau.
+# wtext = तस्य च मंगलवृषभो संजीवकनंदकनामानौ गृहोत्पन्नौ धूर्वोढारौ स्थितौ।
+# wtranslit = tasya ca maṁgalavr̥ṣabho saṁjīvakanaṁdakanāmānau gr̥hotpannau dhūrvoḍhārau sthitau.
+# ptext = tasya ca dvO maNgala vfzaBO DUH voQArO nandaka saYjIvaka nAmAnO pARqura aBra sam ni kASO suvarRa kiNkiRI pari vfta uraskO tizWataH
+# orig = panchatantra.conllu sent_id 68
+# ryder = To bear the yoke he had two bulls of good omen. Their names were Joyful and Lively; they looked like white clouds, and their chests were girded with golden bells.
+# text_en = His two bulls of good omen, named Sanjivaka and Nandaka, taken from his home, bore the yoke.
+1	तस्य	तद्	_	_	SG;PRO;MASC;3;GEN	_	_	_	_
+2	मङ्गल	मङ्गल	_	_	N	_	_	_	_
+3	वृषभौ	वृषभ	_	_	N;DU;NOM;MASC	_	_	_	_
+4	सञ्जीवक	सञ्जीवक	_	_	PROPN	_	_	_	_
+5	नन्दक	नन्दक	_	_	PROPN	_	_	_	_
+6	नामानौ	नामन्	_	_	N;DU;NOM;MASC	_	_	_	_
+7	गृह	गृह	_	_	N	_	_	_	_
+8	उत्पन्नौ	उत्-पद	_	_	V;PST;PASS;MASC;NOM;V.PTCP;DU	_	_	_	_
+9	धूः	धुर्	_	_	N;FEM;PL;ACC	_	_	_	_
+10	वोढारौ	वह्	_	_	V;IND;ACT;3;DU;FIN;FUT	_	_	_	_
+11	स्थितौ	स्था	_	_	V;PST;PASS;MASC;NOM;V.PTCP;DU	_	_	_	_
+12	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc1.s2
+# text = यस्यायम् आद्यः श्लोकः
+# translit = yasyāyam ādyaḥ ślokaḥ
+# wsid = ॥१.१॥
+# orig = panchatantra.conllu sent_id 49
+# ryder = The first verse runs:
+1	यस्य	यद्	_	_	SG;PRO;GEN;NEUT	_	_	_	_
+2	अयम्	इदम्	_	_	SG;MASC;NOM;DET	_	_	_	_
+3	आद्यः	आद्य	_	_	SG;MASC;NOM;ADJ	_	_	_	_
+4	श्लोकः	श्लोक	_	_	N;NOM;MASC;SG	_	_	_	_
+
+# newpar id = panc1.p67b
+# sent_id = panc1.s163b
+# text = वचः तत्र प्रयोक्तव्यं यत्र उक्तं लभते फलम्।
+# translit = vacaḥ tatra prayoktavyaṁ yatra uktaṁ labhate phalam.
+# wtext = वचस् तत्र प्रयोक्तव्यं यत्रोक्तं लभते फलम्।
+# wtranslit = vacas tatra prayoktavyaṁ yatroktaṁ labhate phalam.
+# wsid = ॥१.३४॥
+# text_en = Speech should just be used where the spoken word brings fruit.
+# orig = panchatantra.conllu sent_id 224
+# ptext = vacaH tatra pra yoktavyam yatra uktam laBate Palam
+1	वचः	वचस्	_	_	N;NEUT;NOM;SG	_	_	_	_
+2	तत्र	तत्र	_	_	ADV	_	_	_	_
+3	प्रयोक्तव्यं	प्र-युज्	_	_	V;SG;PASS;NOM;V.PTCP;NEUT;FUT	_	_	_	_
+4	यत्र	यत्र	_	_	ADV	_	_	_	_
+5	उक्तं	वच्	_	_	V;SG;PST;PASS;NOM;V.PTCP;NEUT	_	_	_	_
+6	लभते	लभ्	_	_	V;MID;SG;IND;3;PRS;FIN	_	_	_	_
+7	फलम्	फल	_	_	N;NEUT;SG;ACC	_	_	_	_
+8	।	।	_	_	_	_	_	_	_
+
+# sent_id = panc5.s125
+# text = भद्रे त्वदर्थम् एवेदम् इहागमनम्।
+# translit = bhadre tvadartham evedam ihāgamanam.
+# orig = panchatantra.conllu sent_id 1213
+# ryder = "Yourself, dear maiden, are the occasion of this visit to earth."
+1	भद्रे	भद्र	_	_	N;SG;VOC;FEM	_	_	_	_
+2	त्वत्	त्वद्	_	_	PRO;2	_	_	_	_
+3	अर्थम्	अर्थ	_	_	N;NEUT;SG;ACC	_	_	_	_
+4	एव	एव	_	_	ADV	_	_	_	_
+5	इदम्	इदम्	_	_	SG;NOM;DET;NEUT	_	_	_	_
+6	इह	इह	_	_	ADV	_	_	_	_
+7	आगमनम्	आगमन	_	_	N;NEUT;NOM;SG	_	_	_	_
+8	।	।	_	_	_	_	_	_	_
+
+# newpar id = panc0.p19
+# sent_id = panc0.s47
+# text = अधीते य इदम् नित्यम् नीतिशस्त्रम् शृणोति च।
+# translit = adhīte ya idam nityam nītiśastram śr̥ṇoti ca.
+# wtext = अधीते य इदं नित्यं नीतिशास्त्रं श्रुणोति च।
+# wtranslit = adhīte ya idaṁ nityaṁ nītiśāstraṁ śruṇoti ca.
+# wsid = ॥०.७॥
+# orig = panchatantra.conllu sent_id 47
+# text_fr = Celui qui l’apprend par cœur, ou l’apprend par la bouche d’un conteur
+# ryder = Whoever learns the work by heart, / Or through the story-teller's art
+1	अधीते	अधी	_	_	V;MID;SG;IND;3;PRS;FIN	_	_	_	_
+2	य	यद्	_	_	SG;PRO;MASC;NOM	_	_	_	_
+3	इदम्	इदम्	_	_	SG;ACC;DET;NEUT	_	_	_	_
+4	नित्यम्	नित्य	_	_	NEUT;ACC;SG;ADJ	_	_	_	_
+5	नीतिशस्त्रम्	नीतिशस्त्र	_	_	NEUT;PROPN;SG;ACC	_	_	_	_
+6	शृणोति	श्रु	_	_	V;SG;IND;ACT;3;PRS;FIN	_	_	_	_
+7	च	च	_	_	CONJ	_	_	_	_
+8	।	।	_	_	_	_	_	_	_
+
+# newpar id = panc5.p3
+# sent_id = panc5.s105
+# text = ततः रथकारः तस्य निश्चयम् विज्ञायावदत्।
+# translit = tataḥ rathakāraḥ tasya niścayam vijñāyāvadat.
+# orig = panchatantra.conllu sent_id 1191
+# ptext = tataH raTakAraH tasya niScayam vi jYAya avadat
+# ryder = Thereupon the carpenter, perceiving his determined purpose, said:
+1	ततः	ततः	_	_	ADV	_	_	_	_
+2	रथकारः	रथकार	_	_	N;NOM;MASC;SG	_	_	_	_
+3	तस्य	तद्	_	_	SG;PRO;MASC;GEN	_	_	_	_
+4	निश्चयम्	निश्चय	_	_	N;SG;MASC;ACC	_	_	_	_
+5	विज्ञाय	विज्ञ	_	_	V;V.CVB	_	_	_	_
+6	अवदत्	विज्ञयवद्	_	_	V;SG;IND;ACT;3;IPFV;FIN	_	_	_	_
+7	।	।	_	_	_	_	_	_	_
+

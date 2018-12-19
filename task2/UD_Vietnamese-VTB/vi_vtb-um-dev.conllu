@@ -1,0 +1,5055 @@
+# sent_id = test-s97
+# text = Cũng chiếc xe tải lúc nãy đưa chúng tôi quay ra lại cửa hầm.
+1	Cũng	Cũng	_	_	_	_	_	_	_
+2	chiếc	chiếc	_	_	N	_	_	_	_
+3	xe tải	xe tải	_	_	N	_	_	_	_
+4	lúc	lúc	_	_	N	_	_	_	_
+5	nãy	nãy	_	_	PROPN	_	_	_	_
+6	đưa	đưa	_	_	V	_	_	_	_
+7	chúng tôi	chúng tôi	_	_	PROPN	_	_	_	_
+8	quay	quay	_	_	V	_	_	_	_
+9	ra	ra	_	_	_	_	_	_	_
+10	lại	lại	_	_	_	_	_	_	_
+11	cửa	cửa	_	_	N	_	_	_	_
+12	hầm	hầm	_	_	N	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s213
+# text = Và đặc biệt là thái độ lúng túng của Hải khi bị nhắc đến những thông tin này...
+1	Và	Và	_	_	CONJ	_	_	_	_
+2	đặc biệt	đặc biệt	_	_	ADJ	_	_	_	_
+3	là	là	_	_	CONJ	_	_	_	_
+4	thái độ	thái độ	_	_	N	_	_	_	_
+5	lúng túng	lúng túng	_	_	ADJ	_	_	_	_
+6	của	của	_	_	ADP	_	_	_	_
+7	Hải	Hải	_	_	N	_	_	_	_
+8	khi	khi	_	_	N	_	_	_	_
+9	bị	bị	_	_	V	_	_	_	_
+10	nhắc	nhắc	_	_	V	_	_	_	_
+11	đến	đến	_	_	_	_	_	_	_
+12	những	những	_	_	DET	_	_	_	_
+13	thông tin	thông tin	_	_	N	_	_	_	_
+14	này	này	_	_	PROPN	_	_	_	_
+15	...	...	_	_	_	_	_	_	_
+
+# sent_id = train-s682
+# text = buổi họp của công ty H của châu Âu đặt tại Hà Nội được tổ chức trang trọng.
+1	buổi	buổi	_	_	N	_	_	_	_
+2	họp	họp	_	_	V	_	_	_	_
+3	của	của	_	_	ADP	_	_	_	_
+4	công ty	công ty	_	_	N	_	_	_	_
+5	H	H	_	_	_	_	_	_	_
+6	của	của	_	_	ADP	_	_	_	_
+7	châu Âu	châu Âu	_	_	N	_	_	_	_
+8	đặt	đặt	_	_	V	_	_	_	_
+9	tại	tại	_	_	ADP	_	_	_	_
+10	Hà Nội	Hà Nội	_	_	N	_	_	_	_
+11	được	được	_	_	V	_	_	_	_
+12	tổ chức	tổ chức	_	_	V	_	_	_	_
+13	trang trọng	trang trọng	_	_	ADJ	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s799
+# text = Cô cho biết bà bị ung thư, sau khi bệnh viện trả về, gia đình có thuê một bác sĩ đến chăm sóc thường xuyên.
+1	Cô	Cô	_	_	N	_	_	_	_
+2	cho	cho	_	_	V	_	_	_	_
+3	biết	biết	_	_	V	_	_	_	_
+4	bà	bà	_	_	N	_	_	_	_
+5	bị	bị	_	_	V	_	_	_	_
+6	ung thư	ung thư	_	_	N	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	sau	sau	_	_	ADP	_	_	_	_
+9	khi	khi	_	_	N	_	_	_	_
+10	bệnh viện	bệnh viện	_	_	N	_	_	_	_
+11	trả	trả	_	_	V	_	_	_	_
+12	về	về	_	_	V	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	gia đình	gia đình	_	_	N	_	_	_	_
+15	có	có	_	_	V	_	_	_	_
+16	thuê	thuê	_	_	V	_	_	_	_
+17	một	một	_	_	NUM	_	_	_	_
+18	bác sĩ	bác sĩ	_	_	N	_	_	_	_
+19	đến	đến	_	_	V	_	_	_	_
+20	chăm sóc	chăm sóc	_	_	V	_	_	_	_
+21	thường xuyên	thường xuyên	_	_	ADJ	_	_	_	_
+22	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s1075
+# text = Tuyết nhớ ra các thám tử chuyên nghiệp.
+1	Tuyết	Tuyết	_	_	N	_	_	_	_
+2	nhớ	nhớ	_	_	V	_	_	_	_
+3	ra	ra	_	_	V	_	_	_	_
+4	các	các	_	_	DET	_	_	_	_
+5	thám tử	thám tử	_	_	N	_	_	_	_
+6	chuyên nghiệp	chuyên nghiệp	_	_	ADJ	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s420
+# text = Những tuyến đường không có nhà dân thì cửu vạn khẩn trương nhảy lên xe máy lao về điểm tập kết.
+1	Những	Những	_	_	DET	_	_	_	_
+2	tuyến	tuyến	_	_	N	_	_	_	_
+3	đường	đường	_	_	N	_	_	_	_
+4	không	không	_	_	NEG	_	_	_	_
+5	có	có	_	_	V	_	_	_	_
+6	nhà	nhà	_	_	N	_	_	_	_
+7	dân	dân	_	_	N	_	_	_	_
+8	thì	thì	_	_	CONJ	_	_	_	_
+9	cửu vạn	cửu vạn	_	_	N	_	_	_	_
+10	khẩn trương	khẩn trương	_	_	V	_	_	_	_
+11	nhảy	nhảy	_	_	V	_	_	_	_
+12	lên	lên	_	_	ADP	_	_	_	_
+13	xe máy	xe máy	_	_	N	_	_	_	_
+14	lao	lao	_	_	V	_	_	_	_
+15	về	về	_	_	ADP	_	_	_	_
+16	điểm	điểm	_	_	N	_	_	_	_
+17	tập kết	tập kết	_	_	V	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s1356
+# text = Tuấn đi đã nhiều ngày không về và điều ấy là bình thường.
+1	Tuấn	Tuấn	_	_	N	_	_	_	_
+2	đi	đi	_	_	V	_	_	_	_
+3	đã	đã	_	_	_	_	_	_	_
+4	nhiều	nhiều	_	_	ADJ	_	_	_	_
+5	ngày	ngày	_	_	N	_	_	_	_
+6	không	không	_	_	NEG	_	_	_	_
+7	về	về	_	_	V	_	_	_	_
+8	và	và	_	_	CONJ	_	_	_	_
+9	điều	điều	_	_	N	_	_	_	_
+10	ấy	ấy	_	_	PROPN	_	_	_	_
+11	là	là	_	_	V	_	_	_	_
+12	bình thường	bình thường	_	_	ADJ	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s360
+# text = Đến nỗi nay đã thành phản xạ, cứ ai cầm vào khuỷu tay cụ là cụ thẳng tay... đấm vào mặt.
+1	Đến nỗi	Đến nỗi	_	_	_	_	_	_	_
+2	nay	nay	_	_	N	_	_	_	_
+3	đã	đã	_	_	_	_	_	_	_
+4	thành	thành	_	_	V	_	_	_	_
+5	phản xạ	phản xạ	_	_	N	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	cứ	cứ	_	_	_	_	_	_	_
+8	ai	ai	_	_	PROPN	_	_	_	_
+9	cầm	cầm	_	_	V	_	_	_	_
+10	vào	vào	_	_	ADP	_	_	_	_
+11	khuỷu	khuỷu	_	_	N	_	_	_	_
+12	tay	tay	_	_	N	_	_	_	_
+13	cụ	cụ	_	_	N	_	_	_	_
+14	là	là	_	_	CONJ	_	_	_	_
+15	cụ	cụ	_	_	N	_	_	_	_
+16	thẳng tay	thẳng tay	_	_	ADJ	_	_	_	_
+17	...	...	_	_	_	_	_	_	_
+18	đấm	đấm	_	_	V	_	_	_	_
+19	vào	vào	_	_	ADP	_	_	_	_
+20	mặt	mặt	_	_	N	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s1141
+# text = trước đó, hết pháp rồi Nhật loan tin Nguyễn Ái Quốc đã chết khiến mọi người hoang mang, thất vọng.
+1	trước	trước	_	_	ADP	_	_	_	_
+2	đó	đó	_	_	PROPN	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	hết	hết	_	_	_	_	_	_	_
+5	pháp	pháp	_	_	N	_	_	_	_
+6	rồi	rồi	_	_	CONJ	_	_	_	_
+7	Nhật	Nhật	_	_	N	_	_	_	_
+8	loan	loan	_	_	V	_	_	_	_
+9	tin	tin	_	_	N	_	_	_	_
+10	Nguyễn Ái Quốc	Nguyễn Ái Quốc	_	_	N	_	_	_	_
+11	đã	đã	_	_	_	_	_	_	_
+12	chết	chết	_	_	V	_	_	_	_
+13	khiến	khiến	_	_	V	_	_	_	_
+14	mọi	mọi	_	_	N	_	_	_	_
+15	người	người	_	_	N	_	_	_	_
+16	hoang mang	hoang mang	_	_	V	_	_	_	_
+17	,	,	_	_	_	_	_	_	_
+18	thất vọng	thất vọng	_	_	V	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s314
+# text = căng thẳng từng ngày, đói ăn, những nét mặt xanh xao như không còn giọt máu.
+1	căng thẳng	căng thẳng	_	_	ADJ	_	_	_	_
+2	từng	từng	_	_	_	_	_	_	_
+3	ngày	ngày	_	_	N	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	đói	đói	_	_	V	_	_	_	_
+6	ăn	ăn	_	_	V	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	những	những	_	_	DET	_	_	_	_
+9	nét	nét	_	_	N	_	_	_	_
+10	mặt	mặt	_	_	N	_	_	_	_
+11	xanh xao	xanh xao	_	_	ADJ	_	_	_	_
+12	như	như	_	_	CONJ	_	_	_	_
+13	không	không	_	_	NEG	_	_	_	_
+14	còn	còn	_	_	V	_	_	_	_
+15	giọt	giọt	_	_	N	_	_	_	_
+16	máu	máu	_	_	N	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s530
+# text = Thái độ không thể là đóng kịch được.
+1	Thái độ	Thái độ	_	_	N	_	_	_	_
+2	không thể	không thể	_	_	ADJ	_	_	_	_
+3	là	là	_	_	CONJ	_	_	_	_
+4	đóng kịch	đóng kịch	_	_	V	_	_	_	_
+5	được	được	_	_	_	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s1010
+# text = Thư cho biết: ngày kia là chủ nhật, mọi người đều ở nhà.
+1	Thư	Thư	_	_	N	_	_	_	_
+2	cho	cho	_	_	V	_	_	_	_
+3	biết	biết	_	_	V	_	_	_	_
+4	:	:	_	_	_	_	_	_	_
+5	ngày kia	ngày kia	_	_	N	_	_	_	_
+6	là	là	_	_	V	_	_	_	_
+7	chủ nhật	chủ nhật	_	_	N	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	mọi	mọi	_	_	DET	_	_	_	_
+10	người	người	_	_	N	_	_	_	_
+11	đều	đều	_	_	_	_	_	_	_
+12	ở	ở	_	_	V	_	_	_	_
+13	nhà	nhà	_	_	N	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s716
+# text = Chín đứa con trong nhà hiến máu cứu người và các cháu tôi cũng đang nối tiếp...".
+1	Chín	Chín	_	_	NUM	_	_	_	_
+2	đứa	đứa	_	_	N	_	_	_	_
+3	con	con	_	_	N	_	_	_	_
+4	trong	trong	_	_	ADP	_	_	_	_
+5	nhà	nhà	_	_	N	_	_	_	_
+6	hiến	hiến	_	_	V	_	_	_	_
+7	máu	máu	_	_	N	_	_	_	_
+8	cứu	cứu	_	_	V	_	_	_	_
+9	người	người	_	_	N	_	_	_	_
+10	và	và	_	_	CONJ	_	_	_	_
+11	các	các	_	_	DET	_	_	_	_
+12	cháu	cháu	_	_	N	_	_	_	_
+13	tôi	tôi	_	_	PROPN	_	_	_	_
+14	cũng	cũng	_	_	_	_	_	_	_
+15	đang	đang	_	_	_	_	_	_	_
+16	nối tiếp	nối tiếp	_	_	V	_	_	_	_
+17	...	...	_	_	_	_	_	_	_
+18	"	"	_	_	_	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s237
+# text = Bởi những tội ác trên thế gian này đã sinh ra từ sự thờ ơ.
+1	Bởi	Bởi	_	_	CONJ	_	_	_	_
+2	những	những	_	_	DET	_	_	_	_
+3	tội ác	tội ác	_	_	N	_	_	_	_
+4	trên	trên	_	_	ADP	_	_	_	_
+5	thế gian	thế gian	_	_	N	_	_	_	_
+6	này	này	_	_	PROPN	_	_	_	_
+7	đã	đã	_	_	_	_	_	_	_
+8	sinh	sinh	_	_	V	_	_	_	_
+9	ra	ra	_	_	_	_	_	_	_
+10	từ	từ	_	_	ADP	_	_	_	_
+11	sự	sự	_	_	N	_	_	_	_
+12	thờ ơ	thờ ơ	_	_	V	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s1197
+# text = Lan đồng ý và chỉ cho Thắng về đến ngõ rồi chia tay.
+1	Lan	Lan	_	_	N	_	_	_	_
+2	đồng ý	đồng ý	_	_	V	_	_	_	_
+3	và	và	_	_	CONJ	_	_	_	_
+4	chỉ	chỉ	_	_	_	_	_	_	_
+5	cho	cho	_	_	V	_	_	_	_
+6	Thắng	Thắng	_	_	N	_	_	_	_
+7	về	về	_	_	V	_	_	_	_
+8	đến	đến	_	_	ADP	_	_	_	_
+9	ngõ	ngõ	_	_	N	_	_	_	_
+10	rồi	rồi	_	_	CONJ	_	_	_	_
+11	chia tay	chia tay	_	_	V	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s272
+# text = khi đó chúng nhận dẫn khách đi chơi không lấy tiền.
+1	khi	khi	_	_	N	_	_	_	_
+2	đó	đó	_	_	PROPN	_	_	_	_
+3	chúng	chúng	_	_	PROPN	_	_	_	_
+4	nhận	nhận	_	_	V	_	_	_	_
+5	dẫn	dẫn	_	_	V	_	_	_	_
+6	khách	khách	_	_	N	_	_	_	_
+7	đi	đi	_	_	V	_	_	_	_
+8	chơi	chơi	_	_	V	_	_	_	_
+9	không	không	_	_	NEG	_	_	_	_
+10	lấy	lấy	_	_	V	_	_	_	_
+11	tiền	tiền	_	_	N	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s1214
+# text = Nếu lần này vợ phát hiện được thì chắc chắn cô ta sẽ ly dị.
+1	Nếu	Nếu	_	_	CONJ	_	_	_	_
+2	lần	lần	_	_	N	_	_	_	_
+3	này	này	_	_	PROPN	_	_	_	_
+4	vợ	vợ	_	_	N	_	_	_	_
+5	phát hiện	phát hiện	_	_	V	_	_	_	_
+6	được	được	_	_	_	_	_	_	_
+7	thì	thì	_	_	CONJ	_	_	_	_
+8	chắc chắn	chắc chắn	_	_	ADJ	_	_	_	_
+9	cô ta	cô ta	_	_	N	_	_	_	_
+10	sẽ	sẽ	_	_	_	_	_	_	_
+11	ly dị	ly dị	_	_	V	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s596
+# text = 25 . 000 hộ dân tại quận 7, nhà bè và khu chế xuất Tân Thuận mất nước sinh hoạt.
+1	25 . 000	25 . 000	_	_	NUM	_	_	_	_
+2	hộ	hộ	_	_	N	_	_	_	_
+3	dân	dân	_	_	N	_	_	_	_
+4	tại	tại	_	_	ADP	_	_	_	_
+5	quận	quận	_	_	N	_	_	_	_
+6	7	7	_	_	NUM	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	nhà bè	nhà bè	_	_	N	_	_	_	_
+9	và	và	_	_	CONJ	_	_	_	_
+10	khu	khu	_	_	N	_	_	_	_
+11	chế xuất	chế xuất	_	_	V	_	_	_	_
+12	Tân Thuận	Tân Thuận	_	_	N	_	_	_	_
+13	mất	mất	_	_	V	_	_	_	_
+14	nước	nước	_	_	N	_	_	_	_
+15	sinh hoạt	sinh hoạt	_	_	N	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s366
+# text = bài học của mẹ vợ.
+1	bài học	bài học	_	_	N	_	_	_	_
+2	của	của	_	_	ADP	_	_	_	_
+3	mẹ	mẹ	_	_	N	_	_	_	_
+4	vợ	vợ	_	_	N	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s271
+# text = cao tay hơn, có đứa lân la bắt chuyện rồi làm thân với người nước ngoài.
+1	cao tay	cao tay	_	_	ADJ	_	_	_	_
+2	hơn	hơn	_	_	ADJ	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	có	có	_	_	V	_	_	_	_
+5	đứa	đứa	_	_	N	_	_	_	_
+6	lân la	lân la	_	_	V	_	_	_	_
+7	bắt chuyện	bắt chuyện	_	_	V	_	_	_	_
+8	rồi	rồi	_	_	CONJ	_	_	_	_
+9	làm thân	làm thân	_	_	V	_	_	_	_
+10	với	với	_	_	ADP	_	_	_	_
+11	người	người	_	_	N	_	_	_	_
+12	nước ngoài	nước ngoài	_	_	N	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s549
+# text = Thọ nghĩ mãi nhưng không ra.
+1	Thọ	Thọ	_	_	N	_	_	_	_
+2	nghĩ	nghĩ	_	_	V	_	_	_	_
+3	mãi	mãi	_	_	_	_	_	_	_
+4	nhưng	nhưng	_	_	CONJ	_	_	_	_
+5	không	không	_	_	NEG	_	_	_	_
+6	ra	ra	_	_	V	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s4
+# text = Tôi cũng đã tham gia quân đội để chống phát xít Đức tại Pháp.
+1	Tôi	Tôi	_	_	PROPN	_	_	_	_
+2	cũng	cũng	_	_	_	_	_	_	_
+3	đã	đã	_	_	_	_	_	_	_
+4	tham gia	tham gia	_	_	V	_	_	_	_
+5	quân đội	quân đội	_	_	N	_	_	_	_
+6	để	để	_	_	ADP	_	_	_	_
+7	chống	chống	_	_	V	_	_	_	_
+8	phát xít	phát xít	_	_	N	_	_	_	_
+9	Đức	Đức	_	_	N	_	_	_	_
+10	tại	tại	_	_	ADP	_	_	_	_
+11	Pháp	Pháp	_	_	N	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s1112
+# text = Thắng bấm điện thoại gọi vào nhà.
+1	Thắng	Thắng	_	_	N	_	_	_	_
+2	bấm	bấm	_	_	V	_	_	_	_
+3	điện thoại	điện thoại	_	_	N	_	_	_	_
+4	gọi	gọi	_	_	V	_	_	_	_
+5	vào	vào	_	_	ADP	_	_	_	_
+6	nhà	nhà	_	_	N	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s211
+# text = Một chủ doanh nghiệp bị hỏa hoạn nói trong thời gian 2 - 3 ngày mà kết luận được nguyên nhân vụ cháy quả là niềm mong đợi của khổ chủ.
+1	Một	Một	_	_	NUM	_	_	_	_
+2	chủ	chủ	_	_	N	_	_	_	_
+3	doanh nghiệp	doanh nghiệp	_	_	N	_	_	_	_
+4	bị	bị	_	_	V	_	_	_	_
+5	hỏa hoạn	hỏa hoạn	_	_	N	_	_	_	_
+6	nói	nói	_	_	V	_	_	_	_
+7	trong	trong	_	_	ADP	_	_	_	_
+8	thời gian	thời gian	_	_	N	_	_	_	_
+9	2	2	_	_	NUM	_	_	_	_
+10	-	-	_	_	_	_	_	_	_
+11	3	3	_	_	NUM	_	_	_	_
+12	ngày	ngày	_	_	N	_	_	_	_
+13	mà	mà	_	_	CONJ	_	_	_	_
+14	kết luận	kết luận	_	_	V	_	_	_	_
+15	được	được	_	_	_	_	_	_	_
+16	nguyên nhân	nguyên nhân	_	_	N	_	_	_	_
+17	vụ	vụ	_	_	N	_	_	_	_
+18	cháy	cháy	_	_	V	_	_	_	_
+19	quả	quả	_	_	PART	_	_	_	_
+20	là	là	_	_	V	_	_	_	_
+21	niềm	niềm	_	_	N	_	_	_	_
+22	mong đợi	mong đợi	_	_	V	_	_	_	_
+23	của	của	_	_	ADP	_	_	_	_
+24	khổ chủ	khổ chủ	_	_	N	_	_	_	_
+25	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s1371
+# text = sau khi mất nhiều giờ trực bên ngoài không hiệu quả, các thám tử quyết định đột nhập.
+1	sau	sau	_	_	ADP	_	_	_	_
+2	khi	khi	_	_	N	_	_	_	_
+3	mất	mất	_	_	V	_	_	_	_
+4	nhiều	nhiều	_	_	ADJ	_	_	_	_
+5	giờ	giờ	_	_	N	_	_	_	_
+6	trực	trực	_	_	V	_	_	_	_
+7	bên	bên	_	_	N	_	_	_	_
+8	ngoài	ngoài	_	_	N	_	_	_	_
+9	không	không	_	_	NEG	_	_	_	_
+10	hiệu quả	hiệu quả	_	_	N	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	các	các	_	_	DET	_	_	_	_
+13	thám tử	thám tử	_	_	N	_	_	_	_
+14	quyết định	quyết định	_	_	V	_	_	_	_
+15	đột nhập	đột nhập	_	_	V	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s520
+# text = Bà không kịp bàn với ông và muốn gây bất ngờ thú vị như một món quà tặng ông.
+1	Bà	Bà	_	_	N	_	_	_	_
+2	không	không	_	_	NEG	_	_	_	_
+3	kịp	kịp	_	_	ADJ	_	_	_	_
+4	bàn	bàn	_	_	V	_	_	_	_
+5	với	với	_	_	ADP	_	_	_	_
+6	ông	ông	_	_	N	_	_	_	_
+7	và	và	_	_	CONJ	_	_	_	_
+8	muốn	muốn	_	_	V	_	_	_	_
+9	gây	gây	_	_	V	_	_	_	_
+10	bất ngờ	bất ngờ	_	_	ADJ	_	_	_	_
+11	thú vị	thú vị	_	_	ADJ	_	_	_	_
+12	như	như	_	_	CONJ	_	_	_	_
+13	một	một	_	_	NUM	_	_	_	_
+14	món	món	_	_	N	_	_	_	_
+15	quà	quà	_	_	N	_	_	_	_
+16	tặng	tặng	_	_	V	_	_	_	_
+17	ông	ông	_	_	N	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s103
+# text = Thế rồi hết vụ chống tiêu cực đến việc anh Đại đeo đuổi vụ kiện, của cải trong nhà lần lượt đội nón ra đi.
+1	Thế	Thế	_	_	PART	_	_	_	_
+2	rồi	rồi	_	_	CONJ	_	_	_	_
+3	hết	hết	_	_	V	_	_	_	_
+4	vụ	vụ	_	_	N	_	_	_	_
+5	chống	chống	_	_	V	_	_	_	_
+6	tiêu cực	tiêu cực	_	_	N	_	_	_	_
+7	đến	đến	_	_	ADP	_	_	_	_
+8	việc	việc	_	_	N	_	_	_	_
+9	anh	anh	_	_	N	_	_	_	_
+10	Đại	Đại	_	_	N	_	_	_	_
+11	đeo đuổi	đeo đuổi	_	_	V	_	_	_	_
+12	vụ	vụ	_	_	N	_	_	_	_
+13	kiện	kiện	_	_	V	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	của cải	của cải	_	_	N	_	_	_	_
+16	trong	trong	_	_	ADP	_	_	_	_
+17	nhà	nhà	_	_	N	_	_	_	_
+18	lần lượt	lần lượt	_	_	_	_	_	_	_
+19	đội nón ra đi	đội nón ra đi	_	_	_	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s1313
+# text = theo tôi, những công ty đó phải gánh cả trách nhiệm pháp lý và lương tâm đối với các nạn nhân ở VN".
+1	theo	theo	_	_	ADP	_	_	_	_
+2	tôi	tôi	_	_	PROPN	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	những	những	_	_	DET	_	_	_	_
+5	công ty	công ty	_	_	N	_	_	_	_
+6	đó	đó	_	_	PROPN	_	_	_	_
+7	phải	phải	_	_	V	_	_	_	_
+8	gánh	gánh	_	_	V	_	_	_	_
+9	cả	cả	_	_	PROPN	_	_	_	_
+10	trách nhiệm	trách nhiệm	_	_	N	_	_	_	_
+11	pháp lý	pháp lý	_	_	N	_	_	_	_
+12	và	và	_	_	CONJ	_	_	_	_
+13	lương tâm	lương tâm	_	_	N	_	_	_	_
+14	đối với	đối với	_	_	ADP	_	_	_	_
+15	các	các	_	_	DET	_	_	_	_
+16	nạn nhân	nạn nhân	_	_	N	_	_	_	_
+17	ở	ở	_	_	ADP	_	_	_	_
+18	VN	VN	_	_	N	_	_	_	_
+19	"	"	_	_	_	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s1142
+# text = Rồi thư của Người đến: "cơ hội giải phóng đã đến rồi.
+1	Rồi	Rồi	_	_	CONJ	_	_	_	_
+2	thư	thư	_	_	N	_	_	_	_
+3	của	của	_	_	ADP	_	_	_	_
+4	Người	Người	_	_	N	_	_	_	_
+5	đến	đến	_	_	V	_	_	_	_
+6	:	:	_	_	_	_	_	_	_
+7	"	"	_	_	_	_	_	_	_
+8	cơ hội	cơ hội	_	_	N	_	_	_	_
+9	giải phóng	giải phóng	_	_	V	_	_	_	_
+10	đã	đã	_	_	_	_	_	_	_
+11	đến	đến	_	_	V	_	_	_	_
+12	rồi	rồi	_	_	_	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s784
+# text = có những phụ nữ đã gắn bó cả cuộc đời với công việc hết sức đặc biệt này.
+1	có	có	_	_	V	_	_	_	_
+2	những	những	_	_	DET	_	_	_	_
+3	phụ nữ	phụ nữ	_	_	N	_	_	_	_
+4	đã	đã	_	_	_	_	_	_	_
+5	gắn bó	gắn bó	_	_	V	_	_	_	_
+6	cả	cả	_	_	PROPN	_	_	_	_
+7	cuộc đời	cuộc đời	_	_	N	_	_	_	_
+8	với	với	_	_	ADP	_	_	_	_
+9	công việc	công việc	_	_	N	_	_	_	_
+10	hết sức	hết sức	_	_	_	_	_	_	_
+11	đặc biệt	đặc biệt	_	_	ADJ	_	_	_	_
+12	này	này	_	_	PROPN	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s162
+# text = ra khỏi tòa, ai về nhà nấy.
+1	ra	ra	_	_	V	_	_	_	_
+2	khỏi	khỏi	_	_	_	_	_	_	_
+3	tòa	tòa	_	_	N	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	ai	ai	_	_	PROPN	_	_	_	_
+6	về	về	_	_	V	_	_	_	_
+7	nhà	nhà	_	_	N	_	_	_	_
+8	nấy	nấy	_	_	PROPN	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s539
+# text = bà Liễu tiến lên tầng ba lấy điện thoại di động gọi vào số máy cố định của Hạnh, gặp ông Phong.
+1	bà	bà	_	_	N	_	_	_	_
+2	Liễu	Liễu	_	_	N	_	_	_	_
+3	tiến	tiến	_	_	V	_	_	_	_
+4	lên	lên	_	_	_	_	_	_	_
+5	tầng	tầng	_	_	N	_	_	_	_
+6	ba	ba	_	_	NUM	_	_	_	_
+7	lấy	lấy	_	_	V	_	_	_	_
+8	điện thoại di động	điện thoại di động	_	_	N	_	_	_	_
+9	gọi	gọi	_	_	V	_	_	_	_
+10	vào	vào	_	_	ADP	_	_	_	_
+11	số	số	_	_	N	_	_	_	_
+12	máy	máy	_	_	N	_	_	_	_
+13	cố định	cố định	_	_	ADJ	_	_	_	_
+14	của	của	_	_	ADP	_	_	_	_
+15	Hạnh	Hạnh	_	_	N	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	gặp	gặp	_	_	V	_	_	_	_
+18	ông	ông	_	_	N	_	_	_	_
+19	Phong	Phong	_	_	N	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s881
+# text = Thư muốn các thám tử theo dõi xem anh Nhu, chồng chị, có bồ bịch hay quan hệ bí ẩn nào không.
+1	Thư	Thư	_	_	N	_	_	_	_
+2	muốn	muốn	_	_	V	_	_	_	_
+3	các	các	_	_	DET	_	_	_	_
+4	thám tử	thám tử	_	_	N	_	_	_	_
+5	theo dõi	theo dõi	_	_	V	_	_	_	_
+6	xem	xem	_	_	V	_	_	_	_
+7	anh	anh	_	_	N	_	_	_	_
+8	Nhu	Nhu	_	_	N	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	chồng	chồng	_	_	N	_	_	_	_
+11	chị	chị	_	_	N	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	có	có	_	_	V	_	_	_	_
+14	bồ bịch	bồ bịch	_	_	N	_	_	_	_
+15	hay	hay	_	_	CONJ	_	_	_	_
+16	quan hệ	quan hệ	_	_	N	_	_	_	_
+17	bí ẩn	bí ẩn	_	_	ADJ	_	_	_	_
+18	nào	nào	_	_	PROPN	_	_	_	_
+19	không	không	_	_	NEG	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s545
+# text = lực lượng cách mạng ngày càng mất mát...
+1	lực lượng	lực lượng	_	_	N	_	_	_	_
+2	cách mạng	cách mạng	_	_	V	_	_	_	_
+3	ngày càng	ngày càng	_	_	_	_	_	_	_
+4	mất mát	mất mát	_	_	V	_	_	_	_
+5	...	...	_	_	_	_	_	_	_
+
+# sent_id = train-s956
+# text = hôm đó, nguyên cùng một đồng đội đi làm một nhiệm vụ khác thì bất ngờ thấy khói bốc lên cao ở khu vực trường đại học y dược.
+1	hôm	hôm	_	_	N	_	_	_	_
+2	đó	đó	_	_	PROPN	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	nguyên	nguyên	_	_	N	_	_	_	_
+5	cùng	cùng	_	_	CONJ	_	_	_	_
+6	một	một	_	_	NUM	_	_	_	_
+7	đồng đội	đồng đội	_	_	N	_	_	_	_
+8	đi	đi	_	_	V	_	_	_	_
+9	làm	làm	_	_	V	_	_	_	_
+10	một	một	_	_	NUM	_	_	_	_
+11	nhiệm vụ	nhiệm vụ	_	_	N	_	_	_	_
+12	khác	khác	_	_	ADJ	_	_	_	_
+13	thì	thì	_	_	CONJ	_	_	_	_
+14	bất ngờ	bất ngờ	_	_	ADJ	_	_	_	_
+15	thấy	thấy	_	_	V	_	_	_	_
+16	khói	khói	_	_	N	_	_	_	_
+17	bốc	bốc	_	_	V	_	_	_	_
+18	lên	lên	_	_	V	_	_	_	_
+19	cao	cao	_	_	ADJ	_	_	_	_
+20	ở	ở	_	_	ADP	_	_	_	_
+21	khu vực	khu vực	_	_	N	_	_	_	_
+22	trường	trường	_	_	N	_	_	_	_
+23	đại học	đại học	_	_	N	_	_	_	_
+24	y dược	y dược	_	_	N	_	_	_	_
+25	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s804
+# text = Bác sĩ mở sổ theo dõi bệnh nhân cho Minh xem kết quả và diễn tiến bệnh lý bà Sinh.
+1	Bác sĩ	Bác sĩ	_	_	N	_	_	_	_
+2	mở	mở	_	_	V	_	_	_	_
+3	sổ	sổ	_	_	N	_	_	_	_
+4	theo dõi	theo dõi	_	_	V	_	_	_	_
+5	bệnh nhân	bệnh nhân	_	_	N	_	_	_	_
+6	cho	cho	_	_	ADP	_	_	_	_
+7	Minh	Minh	_	_	N	_	_	_	_
+8	xem	xem	_	_	V	_	_	_	_
+9	kết quả	kết quả	_	_	N	_	_	_	_
+10	và	và	_	_	CONJ	_	_	_	_
+11	diễn tiến	diễn tiến	_	_	V	_	_	_	_
+12	bệnh lý	bệnh lý	_	_	N	_	_	_	_
+13	bà	bà	_	_	N	_	_	_	_
+14	Sinh	Sinh	_	_	N	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s209
+# text = ở đó các kiến thức học được mang ra áp dụng.
+1	ở	ở	_	_	ADP	_	_	_	_
+2	đó	đó	_	_	PROPN	_	_	_	_
+3	các	các	_	_	DET	_	_	_	_
+4	kiến thức	kiến thức	_	_	N	_	_	_	_
+5	học	học	_	_	V	_	_	_	_
+6	được	được	_	_	V	_	_	_	_
+7	mang	mang	_	_	V	_	_	_	_
+8	ra	ra	_	_	_	_	_	_	_
+9	áp dụng	áp dụng	_	_	V	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s405
+# text = mũ bảo hiểm... 19 . 000 đồng.
+1	mũ bảo hiểm	mũ bảo hiểm	_	_	N	_	_	_	_
+2	...	...	_	_	_	_	_	_	_
+3	19 . 000	19 . 000	_	_	NUM	_	_	_	_
+4	đồng	đồng	_	_	N	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s1006
+# text = Toàn gọi cho Thư.
+1	Toàn	Toàn	_	_	N	_	_	_	_
+2	gọi	gọi	_	_	V	_	_	_	_
+3	cho	cho	_	_	ADP	_	_	_	_
+4	Thư	Thư	_	_	N	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s413
+# text = dễ dàng nhận thấy đó là những chiếc mũ bảo hiểm được bọc chắc trong những túi nilông đen.
+1	dễ dàng	dễ dàng	_	_	ADJ	_	_	_	_
+2	nhận	nhận	_	_	V	_	_	_	_
+3	thấy	thấy	_	_	V	_	_	_	_
+4	đó	đó	_	_	PROPN	_	_	_	_
+5	là	là	_	_	V	_	_	_	_
+6	những	những	_	_	DET	_	_	_	_
+7	chiếc	chiếc	_	_	N	_	_	_	_
+8	mũ bảo hiểm	mũ bảo hiểm	_	_	N	_	_	_	_
+9	được	được	_	_	V	_	_	_	_
+10	bọc	bọc	_	_	V	_	_	_	_
+11	chắc	chắc	_	_	ADJ	_	_	_	_
+12	trong	trong	_	_	ADP	_	_	_	_
+13	những	những	_	_	DET	_	_	_	_
+14	túi	túi	_	_	N	_	_	_	_
+15	nilông	nilông	_	_	N	_	_	_	_
+16	đen	đen	_	_	ADJ	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s123
+# text = Cả bọn tráo mắt đứng khựng lại.
+1	Cả	Cả	_	_	PROPN	_	_	_	_
+2	bọn	bọn	_	_	N	_	_	_	_
+3	tráo	tráo	_	_	V	_	_	_	_
+4	mắt	mắt	_	_	N	_	_	_	_
+5	đứng	đứng	_	_	V	_	_	_	_
+6	khựng	khựng	_	_	V	_	_	_	_
+7	lại	lại	_	_	_	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s466
+# text = cuộc đời dưới vành mũ thám tử.
+1	cuộc đời	cuộc đời	_	_	N	_	_	_	_
+2	dưới	dưới	_	_	ADP	_	_	_	_
+3	vành	vành	_	_	N	_	_	_	_
+4	mũ	mũ	_	_	N	_	_	_	_
+5	thám tử	thám tử	_	_	N	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s180
+# text = số phận của những người nói lên sự thật.
+1	số phận	số phận	_	_	N	_	_	_	_
+2	của	của	_	_	ADP	_	_	_	_
+3	những	những	_	_	DET	_	_	_	_
+4	người	người	_	_	N	_	_	_	_
+5	nói	nói	_	_	V	_	_	_	_
+6	lên	lên	_	_	_	_	_	_	_
+7	sự thật	sự thật	_	_	N	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s555
+# text = Những đôi uyên ương ngày xưa giờ này người còn người mất.
+1	Những	Những	_	_	DET	_	_	_	_
+2	đôi	đôi	_	_	NUM	_	_	_	_
+3	uyên ương	uyên ương	_	_	N	_	_	_	_
+4	ngày xưa	ngày xưa	_	_	N	_	_	_	_
+5	giờ	giờ	_	_	N	_	_	_	_
+6	này	này	_	_	PROPN	_	_	_	_
+7	người	người	_	_	N	_	_	_	_
+8	còn	còn	_	_	V	_	_	_	_
+9	người	người	_	_	N	_	_	_	_
+10	mất	mất	_	_	V	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s341
+# text = Không thể nhìn gần mà phải gắn việc qui hoạch phát triển Nhơn Trạch với tp. HCM và các thành phố lân cận trong vùng kinh tế trọng điểm phía Nam.
+1	Không thể	Không thể	_	_	NEG	_	_	_	_
+2	nhìn	nhìn	_	_	V	_	_	_	_
+3	gần	gần	_	_	ADJ	_	_	_	_
+4	mà	mà	_	_	CONJ	_	_	_	_
+5	phải	phải	_	_	V	_	_	_	_
+6	gắn	gắn	_	_	V	_	_	_	_
+7	việc	việc	_	_	N	_	_	_	_
+8	qui hoạch	qui hoạch	_	_	V	_	_	_	_
+9	phát triển	phát triển	_	_	V	_	_	_	_
+10	Nhơn Trạch	Nhơn Trạch	_	_	N	_	_	_	_
+11	với	với	_	_	CONJ	_	_	_	_
+12	tp	tp	_	_	N	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+14	HCM	HCM	_	_	N	_	_	_	_
+15	và	và	_	_	CONJ	_	_	_	_
+16	các	các	_	_	DET	_	_	_	_
+17	thành phố	thành phố	_	_	N	_	_	_	_
+18	lân cận	lân cận	_	_	ADJ	_	_	_	_
+19	trong	trong	_	_	ADP	_	_	_	_
+20	vùng	vùng	_	_	N	_	_	_	_
+21	kinh tế	kinh tế	_	_	N	_	_	_	_
+22	trọng điểm	trọng điểm	_	_	N	_	_	_	_
+23	phía	phía	_	_	N	_	_	_	_
+24	Nam	Nam	_	_	N	_	_	_	_
+25	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s1087
+# text = việc tiếp theo của Thắng là tìm xem Nam dùng sim này để làm gì.
+1	việc	việc	_	_	N	_	_	_	_
+2	tiếp theo	tiếp theo	_	_	V	_	_	_	_
+3	của	của	_	_	ADP	_	_	_	_
+4	Thắng	Thắng	_	_	N	_	_	_	_
+5	là	là	_	_	V	_	_	_	_
+6	tìm	tìm	_	_	V	_	_	_	_
+7	xem	xem	_	_	_	_	_	_	_
+8	Nam	Nam	_	_	N	_	_	_	_
+9	dùng	dùng	_	_	V	_	_	_	_
+10	sim	sim	_	_	N	_	_	_	_
+11	này	này	_	_	PROPN	_	_	_	_
+12	để	để	_	_	ADP	_	_	_	_
+13	làm	làm	_	_	V	_	_	_	_
+14	gì	gì	_	_	PROPN	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s506
+# text = để đánh giá chính xác hơn, Hùng cần biết tường tận thái độ của Kim trước chuyện ông Chương bị khủng bố, đe dọa.
+1	để	để	_	_	ADP	_	_	_	_
+2	đánh giá	đánh giá	_	_	V	_	_	_	_
+3	chính xác	chính xác	_	_	ADJ	_	_	_	_
+4	hơn	hơn	_	_	_	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	Hùng	Hùng	_	_	N	_	_	_	_
+7	cần	cần	_	_	V	_	_	_	_
+8	biết	biết	_	_	V	_	_	_	_
+9	tường tận	tường tận	_	_	ADJ	_	_	_	_
+10	thái độ	thái độ	_	_	N	_	_	_	_
+11	của	của	_	_	ADP	_	_	_	_
+12	Kim	Kim	_	_	N	_	_	_	_
+13	trước	trước	_	_	ADP	_	_	_	_
+14	chuyện	chuyện	_	_	N	_	_	_	_
+15	ông	ông	_	_	N	_	_	_	_
+16	Chương	Chương	_	_	N	_	_	_	_
+17	bị	bị	_	_	V	_	_	_	_
+18	khủng bố	khủng bố	_	_	V	_	_	_	_
+19	,	,	_	_	_	_	_	_	_
+20	đe dọa	đe dọa	_	_	V	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s1113
+# text = bà giúp việc nghe máy.
+1	bà	bà	_	_	N	_	_	_	_
+2	giúp việc	giúp việc	_	_	V	_	_	_	_
+3	nghe	nghe	_	_	V	_	_	_	_
+4	máy	máy	_	_	N	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s580
+# text = Cuộc sống bây giờ mới gọi là tạm ổn".
+1	Cuộc sống	Cuộc sống	_	_	N	_	_	_	_
+2	bây giờ	bây giờ	_	_	PROPN	_	_	_	_
+3	mới	mới	_	_	_	_	_	_	_
+4	gọi là	gọi là	_	_	_	_	_	_	_
+5	tạm	tạm	_	_	ADJ	_	_	_	_
+6	ổn	ổn	_	_	ADJ	_	_	_	_
+7	"	"	_	_	_	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s1279
+# text = Thỉnh thoảng cần cẩu lại thả xuống dòng sông một mẻ vừa cạp lên.
+1	Thỉnh thoảng	Thỉnh thoảng	_	_	_	_	_	_	_
+2	cần cẩu	cần cẩu	_	_	N	_	_	_	_
+3	lại	lại	_	_	_	_	_	_	_
+4	thả	thả	_	_	V	_	_	_	_
+5	xuống	xuống	_	_	ADP	_	_	_	_
+6	dòng	dòng	_	_	N	_	_	_	_
+7	sông	sông	_	_	N	_	_	_	_
+8	một	một	_	_	NUM	_	_	_	_
+9	mẻ	mẻ	_	_	N	_	_	_	_
+10	vừa	vừa	_	_	_	_	_	_	_
+11	cạp	cạp	_	_	V	_	_	_	_
+12	lên	lên	_	_	_	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s484
+# text = Phải chăng liều thuốc chưa đủ đô nên sai phạm ở đây lại tiếp diễn?
+1	Phải chăng	Phải chăng	_	_	_	_	_	_	_
+2	liều	liều	_	_	N	_	_	_	_
+3	thuốc	thuốc	_	_	N	_	_	_	_
+4	chưa	chưa	_	_	_	_	_	_	_
+5	đủ	đủ	_	_	ADJ	_	_	_	_
+6	đô	đô	_	_	N	_	_	_	_
+7	nên	nên	_	_	CONJ	_	_	_	_
+8	sai phạm	sai phạm	_	_	N	_	_	_	_
+9	ở	ở	_	_	ADP	_	_	_	_
+10	đây	đây	_	_	PROPN	_	_	_	_
+11	lại	lại	_	_	_	_	_	_	_
+12	tiếp diễn	tiếp diễn	_	_	V	_	_	_	_
+13	?	?	_	_	_	_	_	_	_
+
+# sent_id = test-s437
+# text = Như vậy cả hai vụ việc: của bà khách và của ông Chương đến lúc này đều quá dễ giải quyết.
+1	Như vậy	Như vậy	_	_	CONJ	_	_	_	_
+2	cả	cả	_	_	PROPN	_	_	_	_
+3	hai	hai	_	_	NUM	_	_	_	_
+4	vụ việc	vụ việc	_	_	N	_	_	_	_
+5	:	:	_	_	_	_	_	_	_
+6	của	của	_	_	ADP	_	_	_	_
+7	bà	bà	_	_	N	_	_	_	_
+8	khách	khách	_	_	N	_	_	_	_
+9	và	và	_	_	CONJ	_	_	_	_
+10	của	của	_	_	ADP	_	_	_	_
+11	ông	ông	_	_	N	_	_	_	_
+12	Chương	Chương	_	_	N	_	_	_	_
+13	đến	đến	_	_	ADP	_	_	_	_
+14	lúc	lúc	_	_	N	_	_	_	_
+15	này	này	_	_	PROPN	_	_	_	_
+16	đều	đều	_	_	_	_	_	_	_
+17	quá	quá	_	_	_	_	_	_	_
+18	dễ	dễ	_	_	ADJ	_	_	_	_
+19	giải quyết	giải quyết	_	_	V	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s235
+# text = Trước sau rồi Tùng cũng hiểu...
+1	Trước sau	Trước sau	_	_	N	_	_	_	_
+2	rồi	rồi	_	_	CONJ	_	_	_	_
+3	Tùng	Tùng	_	_	N	_	_	_	_
+4	cũng	cũng	_	_	_	_	_	_	_
+5	hiểu	hiểu	_	_	V	_	_	_	_
+6	...	...	_	_	_	_	_	_	_
+
+# sent_id = train-s249
+# text = trong thâm tâm tôi bỗng thấy vừa buồn, vừa tủi, vừa xót xa.
+1	trong	trong	_	_	ADP	_	_	_	_
+2	thâm tâm	thâm tâm	_	_	N	_	_	_	_
+3	tôi	tôi	_	_	PROPN	_	_	_	_
+4	bỗng	bỗng	_	_	_	_	_	_	_
+5	thấy	thấy	_	_	V	_	_	_	_
+6	vừa	vừa	_	_	_	_	_	_	_
+7	buồn	buồn	_	_	ADJ	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	vừa	vừa	_	_	_	_	_	_	_
+10	tủi	tủi	_	_	ADJ	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	vừa	vừa	_	_	_	_	_	_	_
+13	xót xa	xót xa	_	_	ADJ	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s504
+# text = "săn lùng" PV qua điện thoại và đề nghị "thông cảm".
+1	"	"	_	_	_	_	_	_	_
+2	săn lùng	săn lùng	_	_	V	_	_	_	_
+3	"	"	_	_	_	_	_	_	_
+4	PV	PV	_	_	N	_	_	_	_
+5	qua	qua	_	_	ADP	_	_	_	_
+6	điện thoại	điện thoại	_	_	N	_	_	_	_
+7	và	và	_	_	CONJ	_	_	_	_
+8	đề nghị	đề nghị	_	_	V	_	_	_	_
+9	"	"	_	_	_	_	_	_	_
+10	thông cảm	thông cảm	_	_	V	_	_	_	_
+11	"	"	_	_	_	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s244
+# text = Mẹ đã tìm hiểu kỹ.
+1	Mẹ	Mẹ	_	_	N	_	_	_	_
+2	đã	đã	_	_	_	_	_	_	_
+3	tìm hiểu	tìm hiểu	_	_	V	_	_	_	_
+4	kỹ	kỹ	_	_	ADJ	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s164
+# text = Thế là mấy cha con đi mua tôn về hì hục đóng cái thùng khá to gắn vô phía sau máy xới tay.
+1	Thế là	Thế là	_	_	CONJ	_	_	_	_
+2	mấy	mấy	_	_	DET	_	_	_	_
+3	cha con	cha con	_	_	N	_	_	_	_
+4	đi	đi	_	_	V	_	_	_	_
+5	mua	mua	_	_	V	_	_	_	_
+6	tôn	tôn	_	_	N	_	_	_	_
+7	về	về	_	_	_	_	_	_	_
+8	hì hục	hì hục	_	_	V	_	_	_	_
+9	đóng	đóng	_	_	V	_	_	_	_
+10	cái	cái	_	_	N	_	_	_	_
+11	thùng	thùng	_	_	N	_	_	_	_
+12	khá	khá	_	_	_	_	_	_	_
+13	to	to	_	_	ADJ	_	_	_	_
+14	gắn	gắn	_	_	V	_	_	_	_
+15	vô	vô	_	_	ADP	_	_	_	_
+16	phía	phía	_	_	N	_	_	_	_
+17	sau	sau	_	_	ADJ	_	_	_	_
+18	máy	máy	_	_	N	_	_	_	_
+19	xới	xới	_	_	V	_	_	_	_
+20	tay	tay	_	_	N	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s746
+# text = Nhưng...
+1	Nhưng	Nhưng	_	_	CONJ	_	_	_	_
+2	...	...	_	_	_	_	_	_	_
+
+# sent_id = train-s949
+# text = Ngay trong đêm ấy, đoàn cùng đồng đội đã bắt quả tang và đưa hàng chục tên tội phạm ra ánh sáng.
+1	Ngay	Ngay	_	_	PART	_	_	_	_
+2	trong	trong	_	_	ADP	_	_	_	_
+3	đêm	đêm	_	_	N	_	_	_	_
+4	ấy	ấy	_	_	PROPN	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	đoàn	đoàn	_	_	N	_	_	_	_
+7	cùng	cùng	_	_	CONJ	_	_	_	_
+8	đồng đội	đồng đội	_	_	N	_	_	_	_
+9	đã	đã	_	_	_	_	_	_	_
+10	bắt	bắt	_	_	V	_	_	_	_
+11	quả tang	quả tang	_	_	N	_	_	_	_
+12	và	và	_	_	CONJ	_	_	_	_
+13	đưa	đưa	_	_	V	_	_	_	_
+14	hàng	hàng	_	_	_	_	_	_	_
+15	chục	chục	_	_	NUM	_	_	_	_
+16	tên	tên	_	_	N	_	_	_	_
+17	tội phạm	tội phạm	_	_	N	_	_	_	_
+18	ra	ra	_	_	V	_	_	_	_
+19	ánh sáng	ánh sáng	_	_	N	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s1280
+# text = trên sà lan lúc này có khoảng 40 m3 cát và ba người luôn túc trực để tách bùn và cát.
+1	trên	trên	_	_	ADP	_	_	_	_
+2	sà lan	sà lan	_	_	N	_	_	_	_
+3	lúc	lúc	_	_	N	_	_	_	_
+4	này	này	_	_	PROPN	_	_	_	_
+5	có	có	_	_	V	_	_	_	_
+6	khoảng	khoảng	_	_	ADJ	_	_	_	_
+7	40	40	_	_	NUM	_	_	_	_
+8	m3	m3	_	_	N	_	_	_	_
+9	cát	cát	_	_	N	_	_	_	_
+10	và	và	_	_	CONJ	_	_	_	_
+11	ba	ba	_	_	NUM	_	_	_	_
+12	người	người	_	_	N	_	_	_	_
+13	luôn	luôn	_	_	_	_	_	_	_
+14	túc trực	túc trực	_	_	V	_	_	_	_
+15	để	để	_	_	ADP	_	_	_	_
+16	tách	tách	_	_	V	_	_	_	_
+17	bùn	bùn	_	_	N	_	_	_	_
+18	và	và	_	_	CONJ	_	_	_	_
+19	cát	cát	_	_	N	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s514
+# text = Nhưng chuyện cũng chỉ dừng ở đó và Thọ cũng không nghi ngờ thêm đối tượng nào nữa.
+1	Nhưng	Nhưng	_	_	CONJ	_	_	_	_
+2	chuyện	chuyện	_	_	N	_	_	_	_
+3	cũng	cũng	_	_	_	_	_	_	_
+4	chỉ	chỉ	_	_	_	_	_	_	_
+5	dừng	dừng	_	_	V	_	_	_	_
+6	ở	ở	_	_	ADP	_	_	_	_
+7	đó	đó	_	_	PROPN	_	_	_	_
+8	và	và	_	_	CONJ	_	_	_	_
+9	Thọ	Thọ	_	_	N	_	_	_	_
+10	cũng	cũng	_	_	_	_	_	_	_
+11	không	không	_	_	NEG	_	_	_	_
+12	nghi ngờ	nghi ngờ	_	_	V	_	_	_	_
+13	thêm	thêm	_	_	_	_	_	_	_
+14	đối tượng	đối tượng	_	_	N	_	_	_	_
+15	nào	nào	_	_	_	_	_	_	_
+16	nữa	nữa	_	_	_	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s802
+# text = nhân danh một người quen bà Sinh và cũng có người nhà bị ung thư, thám tử Minh đến nhờ bác sĩ giúp đỡ.
+1	nhân danh	nhân danh	_	_	V	_	_	_	_
+2	một	một	_	_	NUM	_	_	_	_
+3	người	người	_	_	N	_	_	_	_
+4	quen	quen	_	_	V	_	_	_	_
+5	bà	bà	_	_	N	_	_	_	_
+6	Sinh	Sinh	_	_	N	_	_	_	_
+7	và	và	_	_	CONJ	_	_	_	_
+8	cũng	cũng	_	_	_	_	_	_	_
+9	có	có	_	_	V	_	_	_	_
+10	người nhà	người nhà	_	_	N	_	_	_	_
+11	bị	bị	_	_	V	_	_	_	_
+12	ung thư	ung thư	_	_	N	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	thám tử	thám tử	_	_	N	_	_	_	_
+15	Minh	Minh	_	_	N	_	_	_	_
+16	đến	đến	_	_	V	_	_	_	_
+17	nhờ	nhờ	_	_	V	_	_	_	_
+18	bác sĩ	bác sĩ	_	_	N	_	_	_	_
+19	giúp đỡ	giúp đỡ	_	_	V	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s994
+# text = Thư ghé vào một cửa hàng photo giao việc cho họ rồi sang hàng khác, rồi hai hàng khác.
+1	Thư	Thư	_	_	N	_	_	_	_
+2	ghé	ghé	_	_	V	_	_	_	_
+3	vào	vào	_	_	V	_	_	_	_
+4	một	một	_	_	NUM	_	_	_	_
+5	cửa hàng	cửa hàng	_	_	N	_	_	_	_
+6	photo	photo	_	_	_	_	_	_	_
+7	giao	giao	_	_	V	_	_	_	_
+8	việc	việc	_	_	N	_	_	_	_
+9	cho	cho	_	_	ADP	_	_	_	_
+10	họ	họ	_	_	PROPN	_	_	_	_
+11	rồi	rồi	_	_	CONJ	_	_	_	_
+12	sang	sang	_	_	V	_	_	_	_
+13	hàng	hàng	_	_	N	_	_	_	_
+14	khác	khác	_	_	ADJ	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	rồi	rồi	_	_	CONJ	_	_	_	_
+17	hai	hai	_	_	NUM	_	_	_	_
+18	hàng	hàng	_	_	N	_	_	_	_
+19	khác	khác	_	_	ADJ	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s64
+# text = ấp úng trong phòng giám đốc, Tuấn không biết cần hỏi gì cho đủ.
+1	ấp úng	ấp úng	_	_	V	_	_	_	_
+2	trong	trong	_	_	ADP	_	_	_	_
+3	phòng	phòng	_	_	N	_	_	_	_
+4	giám đốc	giám đốc	_	_	N	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	Tuấn	Tuấn	_	_	N	_	_	_	_
+7	không	không	_	_	NEG	_	_	_	_
+8	biết	biết	_	_	V	_	_	_	_
+9	cần	cần	_	_	V	_	_	_	_
+10	hỏi	hỏi	_	_	V	_	_	_	_
+11	gì	gì	_	_	PROPN	_	_	_	_
+12	cho	cho	_	_	ADP	_	_	_	_
+13	đủ	đủ	_	_	ADJ	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s16
+# text = Đó như một lời nhắn nhủ: chú hổ Lâm Nhi là "tài sản" của mỗi người.
+1	Đó	Đó	_	_	PROPN	_	_	_	_
+2	như	như	_	_	ADJ	_	_	_	_
+3	một	một	_	_	NUM	_	_	_	_
+4	lời	lời	_	_	N	_	_	_	_
+5	nhắn nhủ	nhắn nhủ	_	_	V	_	_	_	_
+6	:	:	_	_	_	_	_	_	_
+7	chú	chú	_	_	N	_	_	_	_
+8	hổ	hổ	_	_	N	_	_	_	_
+9	Lâm Nhi	Lâm Nhi	_	_	N	_	_	_	_
+10	là	là	_	_	V	_	_	_	_
+11	"	"	_	_	_	_	_	_	_
+12	tài sản	tài sản	_	_	N	_	_	_	_
+13	"	"	_	_	_	_	_	_	_
+14	của	của	_	_	ADP	_	_	_	_
+15	mỗi	mỗi	_	_	NUM	_	_	_	_
+16	người	người	_	_	N	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s771
+# text = người này cho biết bà Sinh bị ốm cách đây một năm.
+1	người	người	_	_	N	_	_	_	_
+2	này	này	_	_	PROPN	_	_	_	_
+3	cho	cho	_	_	V	_	_	_	_
+4	biết	biết	_	_	V	_	_	_	_
+5	bà	bà	_	_	N	_	_	_	_
+6	Sinh	Sinh	_	_	N	_	_	_	_
+7	bị	bị	_	_	V	_	_	_	_
+8	ốm	ốm	_	_	V	_	_	_	_
+9	cách	cách	_	_	V	_	_	_	_
+10	đây	đây	_	_	PROPN	_	_	_	_
+11	một	một	_	_	NUM	_	_	_	_
+12	năm	năm	_	_	N	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s600
+# text = trước khi xuất phát các thám tử được xác định: tên theo dõi ông Chương này vô cùng quan trọng.
+1	trước	trước	_	_	ADP	_	_	_	_
+2	khi	khi	_	_	N	_	_	_	_
+3	xuất phát	xuất phát	_	_	V	_	_	_	_
+4	các	các	_	_	DET	_	_	_	_
+5	thám tử	thám tử	_	_	N	_	_	_	_
+6	được	được	_	_	V	_	_	_	_
+7	xác định	xác định	_	_	V	_	_	_	_
+8	:	:	_	_	_	_	_	_	_
+9	tên	tên	_	_	N	_	_	_	_
+10	theo dõi	theo dõi	_	_	V	_	_	_	_
+11	ông	ông	_	_	N	_	_	_	_
+12	Chương	Chương	_	_	N	_	_	_	_
+13	này	này	_	_	PROPN	_	_	_	_
+14	vô cùng	vô cùng	_	_	_	_	_	_	_
+15	quan trọng	quan trọng	_	_	ADJ	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s154
+# text = Mất mát không đong đếm.
+1	Mất mát	Mất mát	_	_	N	_	_	_	_
+2	không	không	_	_	NEG	_	_	_	_
+3	đong	đong	_	_	V	_	_	_	_
+4	đếm	đếm	_	_	V	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s635
+# text = Đây cũng rất khó là chuyện mâu thuẫn trong kinh doanh vì những chiến lược phát triển là do lãnh đạo công ty quyết định.
+1	Đây	Đây	_	_	PROPN	_	_	_	_
+2	cũng	cũng	_	_	_	_	_	_	_
+3	rất	rất	_	_	_	_	_	_	_
+4	khó	khó	_	_	ADJ	_	_	_	_
+5	là	là	_	_	V	_	_	_	_
+6	chuyện	chuyện	_	_	N	_	_	_	_
+7	mâu thuẫn	mâu thuẫn	_	_	V	_	_	_	_
+8	trong	trong	_	_	ADP	_	_	_	_
+9	kinh doanh	kinh doanh	_	_	N	_	_	_	_
+10	vì	vì	_	_	ADP	_	_	_	_
+11	những	những	_	_	DET	_	_	_	_
+12	chiến lược	chiến lược	_	_	N	_	_	_	_
+13	phát triển	phát triển	_	_	V	_	_	_	_
+14	là	là	_	_	V	_	_	_	_
+15	do	do	_	_	ADP	_	_	_	_
+16	lãnh đạo	lãnh đạo	_	_	N	_	_	_	_
+17	công ty	công ty	_	_	N	_	_	_	_
+18	quyết định	quyết định	_	_	V	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s798
+# text = Kết quả là kim không biết.
+1	Kết quả	Kết quả	_	_	N	_	_	_	_
+2	là	là	_	_	V	_	_	_	_
+3	kim	kim	_	_	N	_	_	_	_
+4	không	không	_	_	NEG	_	_	_	_
+5	biết	biết	_	_	V	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s130
+# text = Ta càng yêu quí cuộc sống đến bao nhiêu...
+1	Ta	Ta	_	_	PROPN	_	_	_	_
+2	càng	càng	_	_	_	_	_	_	_
+3	yêu quí	yêu quí	_	_	V	_	_	_	_
+4	cuộc sống	cuộc sống	_	_	N	_	_	_	_
+5	đến	đến	_	_	ADP	_	_	_	_
+6	bao nhiêu	bao nhiêu	_	_	PROPN	_	_	_	_
+7	...	...	_	_	_	_	_	_	_
+
+# sent_id = dev-s746
+# text = lúc nào cũng nhăn nhở cười, lúc nào cũng đòi ăn.
+1	lúc	lúc	_	_	N	_	_	_	_
+2	nào	nào	_	_	PROPN	_	_	_	_
+3	cũng	cũng	_	_	_	_	_	_	_
+4	nhăn nhở	nhăn nhở	_	_	ADJ	_	_	_	_
+5	cười	cười	_	_	V	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	lúc	lúc	_	_	N	_	_	_	_
+8	nào	nào	_	_	PROPN	_	_	_	_
+9	cũng	cũng	_	_	_	_	_	_	_
+10	đòi	đòi	_	_	V	_	_	_	_
+11	ăn	ăn	_	_	V	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s1339
+# text = trà trộn vào đám đua xe đêm cuối tuần tìm xe FX màu mận.
+1	trà trộn	trà trộn	_	_	V	_	_	_	_
+2	vào	vào	_	_	_	_	_	_	_
+3	đám	đám	_	_	N	_	_	_	_
+4	đua	đua	_	_	V	_	_	_	_
+5	xe	xe	_	_	N	_	_	_	_
+6	đêm	đêm	_	_	N	_	_	_	_
+7	cuối	cuối	_	_	ADJ	_	_	_	_
+8	tuần	tuần	_	_	N	_	_	_	_
+9	tìm	tìm	_	_	V	_	_	_	_
+10	xe	xe	_	_	N	_	_	_	_
+11	FX	FX	_	_	N	_	_	_	_
+12	màu	màu	_	_	N	_	_	_	_
+13	mận	mận	_	_	N	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s401
+# text = Hai năm nữa là dứt điểm.
+1	Hai	Hai	_	_	NUM	_	_	_	_
+2	năm	năm	_	_	N	_	_	_	_
+3	nữa	nữa	_	_	_	_	_	_	_
+4	là	là	_	_	V	_	_	_	_
+5	dứt điểm	dứt điểm	_	_	V	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s41
+# text = Nguyên đại sứ đầu tiên của VN tại Pháp, ông Võ Văn Sung, đã nhấn mạnh: "Hai bạn là người Pháp rất vn".
+1	Nguyên	Nguyên	_	_	_	_	_	_	_
+2	đại sứ	đại sứ	_	_	N	_	_	_	_
+3	đầu tiên	đầu tiên	_	_	ADJ	_	_	_	_
+4	của	của	_	_	ADP	_	_	_	_
+5	VN	VN	_	_	N	_	_	_	_
+6	tại	tại	_	_	ADP	_	_	_	_
+7	Pháp	Pháp	_	_	N	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	ông	ông	_	_	N	_	_	_	_
+10	Võ Văn Sung	Võ Văn Sung	_	_	N	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	đã	đã	_	_	_	_	_	_	_
+13	nhấn mạnh	nhấn mạnh	_	_	V	_	_	_	_
+14	:	:	_	_	_	_	_	_	_
+15	"	"	_	_	_	_	_	_	_
+16	Hai	Hai	_	_	NUM	_	_	_	_
+17	bạn	bạn	_	_	N	_	_	_	_
+18	là	là	_	_	V	_	_	_	_
+19	người	người	_	_	N	_	_	_	_
+20	Pháp	Pháp	_	_	N	_	_	_	_
+21	rất	rất	_	_	_	_	_	_	_
+22	vn	vn	_	_	N	_	_	_	_
+23	"	"	_	_	_	_	_	_	_
+24	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s80
+# text = pv Tuổi Trẻ đã có mặt ở điểm nóng này.
+1	pv	pv	_	_	N	_	_	_	_
+2	Tuổi Trẻ	Tuổi Trẻ	_	_	N	_	_	_	_
+3	đã	đã	_	_	_	_	_	_	_
+4	có mặt	có mặt	_	_	V	_	_	_	_
+5	ở	ở	_	_	ADP	_	_	_	_
+6	điểm nóng	điểm nóng	_	_	N	_	_	_	_
+7	này	này	_	_	PROPN	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s233
+# text = Lập tức Tùng copy thư trong email của Hải vào đĩa mềm và chuồn ra ngoài đọc.
+1	Lập tức	Lập tức	_	_	_	_	_	_	_
+2	Tùng	Tùng	_	_	N	_	_	_	_
+3	copy	copy	_	_	V	_	_	_	_
+4	thư	thư	_	_	N	_	_	_	_
+5	trong	trong	_	_	ADP	_	_	_	_
+6	email	email	_	_	N	_	_	_	_
+7	của	của	_	_	ADP	_	_	_	_
+8	Hải	Hải	_	_	N	_	_	_	_
+9	vào	vào	_	_	ADP	_	_	_	_
+10	đĩa mềm	đĩa mềm	_	_	N	_	_	_	_
+11	và	và	_	_	CONJ	_	_	_	_
+12	chuồn	chuồn	_	_	V	_	_	_	_
+13	ra	ra	_	_	V	_	_	_	_
+14	ngoài	ngoài	_	_	N	_	_	_	_
+15	đọc	đọc	_	_	V	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s559
+# text = Cường loại bỏ phương án một là sẽ phục ở các buồng điện thoại khả nghi trong những giờ cao điểm để "bắt" ngài giám đốc nọ.
+1	Cường	Cường	_	_	N	_	_	_	_
+2	loại bỏ	loại bỏ	_	_	V	_	_	_	_
+3	phương án	phương án	_	_	N	_	_	_	_
+4	một	một	_	_	NUM	_	_	_	_
+5	là	là	_	_	V	_	_	_	_
+6	sẽ	sẽ	_	_	_	_	_	_	_
+7	phục	phục	_	_	V	_	_	_	_
+8	ở	ở	_	_	ADP	_	_	_	_
+9	các	các	_	_	DET	_	_	_	_
+10	buồng	buồng	_	_	N	_	_	_	_
+11	điện thoại	điện thoại	_	_	N	_	_	_	_
+12	khả nghi	khả nghi	_	_	ADJ	_	_	_	_
+13	trong	trong	_	_	ADP	_	_	_	_
+14	những	những	_	_	DET	_	_	_	_
+15	giờ	giờ	_	_	N	_	_	_	_
+16	cao điểm	cao điểm	_	_	ADJ	_	_	_	_
+17	để	để	_	_	ADP	_	_	_	_
+18	"	"	_	_	_	_	_	_	_
+19	bắt	bắt	_	_	V	_	_	_	_
+20	"	"	_	_	_	_	_	_	_
+21	ngài	ngài	_	_	N	_	_	_	_
+22	giám đốc	giám đốc	_	_	N	_	_	_	_
+23	nọ	nọ	_	_	PROPN	_	_	_	_
+24	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s765
+# text = quyền được chơi, được đến trường học cũng không.
+1	quyền	quyền	_	_	N	_	_	_	_
+2	được	được	_	_	_	_	_	_	_
+3	chơi	chơi	_	_	V	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	được	được	_	_	_	_	_	_	_
+6	đến	đến	_	_	V	_	_	_	_
+7	trường học	trường học	_	_	N	_	_	_	_
+8	cũng	cũng	_	_	_	_	_	_	_
+9	không	không	_	_	NEG	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s830
+# text = phòng trong lại vọng ra tiếng ú ớ.
+1	phòng	phòng	_	_	N	_	_	_	_
+2	trong	trong	_	_	N	_	_	_	_
+3	lại	lại	_	_	_	_	_	_	_
+4	vọng	vọng	_	_	V	_	_	_	_
+5	ra	ra	_	_	_	_	_	_	_
+6	tiếng	tiếng	_	_	N	_	_	_	_
+7	ú ớ	ú ớ	_	_	ADJ	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s369
+# text = Chỉ khác với các trung tâm chăm sóc người cao tuổi do Nhà nước bao cấp, các nhân viên ở đây có vẻ tất bật.
+1	Chỉ	Chỉ	_	_	_	_	_	_	_
+2	khác	khác	_	_	ADJ	_	_	_	_
+3	với	với	_	_	ADP	_	_	_	_
+4	các	các	_	_	DET	_	_	_	_
+5	trung tâm	trung tâm	_	_	N	_	_	_	_
+6	chăm sóc	chăm sóc	_	_	V	_	_	_	_
+7	người	người	_	_	N	_	_	_	_
+8	cao tuổi	cao tuổi	_	_	ADJ	_	_	_	_
+9	do	do	_	_	ADP	_	_	_	_
+10	Nhà nước	Nhà nước	_	_	N	_	_	_	_
+11	bao cấp	bao cấp	_	_	V	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	các	các	_	_	DET	_	_	_	_
+14	nhân viên	nhân viên	_	_	N	_	_	_	_
+15	ở	ở	_	_	ADP	_	_	_	_
+16	đây	đây	_	_	PROPN	_	_	_	_
+17	có vẻ	có vẻ	_	_	PART	_	_	_	_
+18	tất bật	tất bật	_	_	ADJ	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s406
+# text = mé phải dọc đường từ Đồng Đăng lên Tân Thanh có vô số con đường mòn lầy đất.
+1	mé	mé	_	_	N	_	_	_	_
+2	phải	phải	_	_	ADJ	_	_	_	_
+3	dọc	dọc	_	_	ADJ	_	_	_	_
+4	đường	đường	_	_	N	_	_	_	_
+5	từ	từ	_	_	ADP	_	_	_	_
+6	Đồng Đăng	Đồng Đăng	_	_	N	_	_	_	_
+7	lên	lên	_	_	ADP	_	_	_	_
+8	Tân Thanh	Tân Thanh	_	_	N	_	_	_	_
+9	có	có	_	_	V	_	_	_	_
+10	vô số	vô số	_	_	DET	_	_	_	_
+11	con	con	_	_	N	_	_	_	_
+12	đường mòn	đường mòn	_	_	N	_	_	_	_
+13	lầy	lầy	_	_	ADJ	_	_	_	_
+14	đất	đất	_	_	N	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s1146
+# text = thời bây giờ mà nhớ lại những ngày hoạt động ấy thì thấy buồn cười.
+1	thời	thời	_	_	N	_	_	_	_
+2	bây giờ	bây giờ	_	_	PROPN	_	_	_	_
+3	mà	mà	_	_	CONJ	_	_	_	_
+4	nhớ	nhớ	_	_	V	_	_	_	_
+5	lại	lại	_	_	_	_	_	_	_
+6	những	những	_	_	DET	_	_	_	_
+7	ngày	ngày	_	_	N	_	_	_	_
+8	hoạt động	hoạt động	_	_	V	_	_	_	_
+9	ấy	ấy	_	_	PROPN	_	_	_	_
+10	thì	thì	_	_	CONJ	_	_	_	_
+11	thấy	thấy	_	_	V	_	_	_	_
+12	buồn cười	buồn cười	_	_	ADJ	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s327
+# text = lần theo địa chỉ bà Loan cho, Thanh về quê Hùng.
+1	lần	lần	_	_	V	_	_	_	_
+2	theo	theo	_	_	V	_	_	_	_
+3	địa chỉ	địa chỉ	_	_	N	_	_	_	_
+4	bà	bà	_	_	N	_	_	_	_
+5	Loan	Loan	_	_	N	_	_	_	_
+6	cho	cho	_	_	V	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	Thanh	Thanh	_	_	N	_	_	_	_
+9	về	về	_	_	V	_	_	_	_
+10	quê	quê	_	_	N	_	_	_	_
+11	Hùng	Hùng	_	_	N	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s547
+# text = "Ủa, sao em sang VN mà không báo cho anh?
+1	"	"	_	_	_	_	_	_	_
+2	Ủa	Ủa	_	_	INTJ	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	sao	sao	_	_	PROPN	_	_	_	_
+5	em	em	_	_	N	_	_	_	_
+6	sang	sang	_	_	V	_	_	_	_
+7	VN	VN	_	_	N	_	_	_	_
+8	mà	mà	_	_	CONJ	_	_	_	_
+9	không	không	_	_	NEG	_	_	_	_
+10	báo	báo	_	_	V	_	_	_	_
+11	cho	cho	_	_	ADP	_	_	_	_
+12	anh	anh	_	_	N	_	_	_	_
+13	?	?	_	_	_	_	_	_	_
+
+# sent_id = dev-s602
+# text = cuộc đời dưới vành mũ thám tử.
+1	cuộc đời	cuộc đời	_	_	N	_	_	_	_
+2	dưới	dưới	_	_	ADP	_	_	_	_
+3	vành	vành	_	_	N	_	_	_	_
+4	mũ	mũ	_	_	N	_	_	_	_
+5	thám tử	thám tử	_	_	N	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s229
+# text = Tùng bám theo.
+1	Tùng	Tùng	_	_	N	_	_	_	_
+2	bám	bám	_	_	V	_	_	_	_
+3	theo	theo	_	_	V	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s927
+# text = Nhất là Liên lại sắp lấy chồng...
+1	Nhất là	Nhất là	_	_	_	_	_	_	_
+2	Liên	Liên	_	_	N	_	_	_	_
+3	lại	lại	_	_	_	_	_	_	_
+4	sắp	sắp	_	_	_	_	_	_	_
+5	lấy	lấy	_	_	V	_	_	_	_
+6	chồng	chồng	_	_	N	_	_	_	_
+7	...	...	_	_	_	_	_	_	_
+
+# sent_id = dev-s431
+# text = Nếu nói về hình thức, mẫu mã thì ai cũng nghĩ đó là hàng thật.
+1	Nếu	Nếu	_	_	CONJ	_	_	_	_
+2	nói	nói	_	_	V	_	_	_	_
+3	về	về	_	_	ADP	_	_	_	_
+4	hình thức	hình thức	_	_	N	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	mẫu mã	mẫu mã	_	_	N	_	_	_	_
+7	thì	thì	_	_	CONJ	_	_	_	_
+8	ai	ai	_	_	PROPN	_	_	_	_
+9	cũng	cũng	_	_	_	_	_	_	_
+10	nghĩ	nghĩ	_	_	V	_	_	_	_
+11	đó	đó	_	_	PROPN	_	_	_	_
+12	là	là	_	_	V	_	_	_	_
+13	hàng	hàng	_	_	N	_	_	_	_
+14	thật	thật	_	_	ADJ	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s1005
+# text = 10 ngày nữa họ sẽ tổ chức lễ thành hôn.
+1	10	10	_	_	NUM	_	_	_	_
+2	ngày	ngày	_	_	N	_	_	_	_
+3	nữa	nữa	_	_	_	_	_	_	_
+4	họ	họ	_	_	PROPN	_	_	_	_
+5	sẽ	sẽ	_	_	_	_	_	_	_
+6	tổ chức	tổ chức	_	_	V	_	_	_	_
+7	lễ	lễ	_	_	N	_	_	_	_
+8	thành hôn	thành hôn	_	_	V	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s849
+# text = góc tối giữa phố.
+1	góc	góc	_	_	N	_	_	_	_
+2	tối	tối	_	_	ADJ	_	_	_	_
+3	giữa	giữa	_	_	ADP	_	_	_	_
+4	phố	phố	_	_	N	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s335
+# text = công trình cầu đường bình triệu 2 LBKT BT2 RBKT do có thay đổi thiết kế ban đầu nên làm cho tiến độ kéo dài.
+1	công trình	công trình	_	_	N	_	_	_	_
+2	cầu đường	cầu đường	_	_	N	_	_	_	_
+3	bình triệu	bình triệu	_	_	N	_	_	_	_
+4	2	2	_	_	NUM	_	_	_	_
+5	LBKT	LBKT	_	_	_	_	_	_	_
+6	BT2	BT2	_	_	N	_	_	_	_
+7	RBKT	RBKT	_	_	_	_	_	_	_
+8	do	do	_	_	ADP	_	_	_	_
+9	có	có	_	_	_	_	_	_	_
+10	thay đổi	thay đổi	_	_	V	_	_	_	_
+11	thiết kế	thiết kế	_	_	N	_	_	_	_
+12	ban đầu	ban đầu	_	_	N	_	_	_	_
+13	nên	nên	_	_	CONJ	_	_	_	_
+14	làm	làm	_	_	V	_	_	_	_
+15	cho	cho	_	_	_	_	_	_	_
+16	tiến độ	tiến độ	_	_	N	_	_	_	_
+17	kéo dài	kéo dài	_	_	V	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s577
+# text = du kích địa đạo phát hiện và chờ khi người nông dân vừa qua là giật "nút chai", cắt dây cứu người.
+1	du kích	du kích	_	_	N	_	_	_	_
+2	địa đạo	địa đạo	_	_	N	_	_	_	_
+3	phát hiện	phát hiện	_	_	V	_	_	_	_
+4	và	và	_	_	CONJ	_	_	_	_
+5	chờ	chờ	_	_	V	_	_	_	_
+6	khi	khi	_	_	N	_	_	_	_
+7	người	người	_	_	N	_	_	_	_
+8	nông dân	nông dân	_	_	N	_	_	_	_
+9	vừa	vừa	_	_	_	_	_	_	_
+10	qua	qua	_	_	V	_	_	_	_
+11	là	là	_	_	CONJ	_	_	_	_
+12	giật	giật	_	_	V	_	_	_	_
+13	"	"	_	_	_	_	_	_	_
+14	nút	nút	_	_	N	_	_	_	_
+15	chai	chai	_	_	N	_	_	_	_
+16	"	"	_	_	_	_	_	_	_
+17	,	,	_	_	_	_	_	_	_
+18	cắt	cắt	_	_	V	_	_	_	_
+19	dây	dây	_	_	N	_	_	_	_
+20	cứu	cứu	_	_	V	_	_	_	_
+21	người	người	_	_	N	_	_	_	_
+22	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s237
+# text = Chị đòi sang gặp Hải và chất vấn.
+1	Chị	Chị	_	_	N	_	_	_	_
+2	đòi	đòi	_	_	V	_	_	_	_
+3	sang	sang	_	_	V	_	_	_	_
+4	gặp	gặp	_	_	V	_	_	_	_
+5	Hải	Hải	_	_	N	_	_	_	_
+6	và	và	_	_	CONJ	_	_	_	_
+7	chất vấn	chất vấn	_	_	V	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s545
+# text = "Anh thấy em có giỏi không?
+1	"	"	_	_	_	_	_	_	_
+2	Anh	Anh	_	_	N	_	_	_	_
+3	thấy	thấy	_	_	V	_	_	_	_
+4	em	em	_	_	N	_	_	_	_
+5	có	có	_	_	_	_	_	_	_
+6	giỏi	giỏi	_	_	ADJ	_	_	_	_
+7	không	không	_	_	NEG	_	_	_	_
+8	?	?	_	_	_	_	_	_	_
+
+# sent_id = dev-s719
+# text = Thật tiếc.
+1	Thật	Thật	_	_	_	_	_	_	_
+2	tiếc	tiếc	_	_	V	_	_	_	_
+3	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s627
+# text = Những ngày sau đó ông Chương không thấy bị ai theo dõi nữa.
+1	Những	Những	_	_	DET	_	_	_	_
+2	ngày	ngày	_	_	N	_	_	_	_
+3	sau	sau	_	_	N	_	_	_	_
+4	đó	đó	_	_	PROPN	_	_	_	_
+5	ông	ông	_	_	N	_	_	_	_
+6	Chương	Chương	_	_	N	_	_	_	_
+7	không	không	_	_	NEG	_	_	_	_
+8	thấy	thấy	_	_	V	_	_	_	_
+9	bị	bị	_	_	V	_	_	_	_
+10	ai	ai	_	_	PROPN	_	_	_	_
+11	theo dõi	theo dõi	_	_	V	_	_	_	_
+12	nữa	nữa	_	_	_	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s87
+# text = mất uy tín với đồng bọn...
+1	mất	mất	_	_	V	_	_	_	_
+2	uy tín	uy tín	_	_	N	_	_	_	_
+3	với	với	_	_	ADP	_	_	_	_
+4	đồng bọn	đồng bọn	_	_	N	_	_	_	_
+5	...	...	_	_	_	_	_	_	_
+
+# sent_id = dev-s618
+# text = Thế nhưng sự khủng bố, đe dọa ngày một gia tăng cả về tần số lẫn mức độ gay gắt...
+1	Thế	Thế	_	_	PART	_	_	_	_
+2	nhưng	nhưng	_	_	CONJ	_	_	_	_
+3	sự	sự	_	_	N	_	_	_	_
+4	khủng bố	khủng bố	_	_	V	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	đe dọa	đe dọa	_	_	V	_	_	_	_
+7	ngày một	ngày một	_	_	_	_	_	_	_
+8	gia tăng	gia tăng	_	_	V	_	_	_	_
+9	cả	cả	_	_	PROPN	_	_	_	_
+10	về	về	_	_	ADP	_	_	_	_
+11	tần số	tần số	_	_	N	_	_	_	_
+12	lẫn	lẫn	_	_	CONJ	_	_	_	_
+13	mức độ	mức độ	_	_	N	_	_	_	_
+14	gay gắt	gay gắt	_	_	V	_	_	_	_
+15	...	...	_	_	_	_	_	_	_
+
+# sent_id = dev-s320
+# text = Thanh bắt chuyện, được biết Hùng mới được đề bạt làm phó phòng kinh doanh.
+1	Thanh	Thanh	_	_	N	_	_	_	_
+2	bắt chuyện	bắt chuyện	_	_	V	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	được	được	_	_	V	_	_	_	_
+5	biết	biết	_	_	V	_	_	_	_
+6	Hùng	Hùng	_	_	N	_	_	_	_
+7	mới	mới	_	_	_	_	_	_	_
+8	được	được	_	_	V	_	_	_	_
+9	đề bạt	đề bạt	_	_	V	_	_	_	_
+10	làm	làm	_	_	V	_	_	_	_
+11	phó	phó	_	_	_	_	_	_	_
+12	phòng	phòng	_	_	N	_	_	_	_
+13	kinh doanh	kinh doanh	_	_	V	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s236
+# text = ở nhà, chị Hằng bày tỏ sự lo lắng về lá thư của Tùng.
+1	ở	ở	_	_	ADP	_	_	_	_
+2	nhà	nhà	_	_	N	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	chị	chị	_	_	N	_	_	_	_
+5	Hằng	Hằng	_	_	N	_	_	_	_
+6	bày tỏ	bày tỏ	_	_	V	_	_	_	_
+7	sự	sự	_	_	N	_	_	_	_
+8	lo lắng	lo lắng	_	_	V	_	_	_	_
+9	về	về	_	_	ADP	_	_	_	_
+10	lá	lá	_	_	N	_	_	_	_
+11	thư	thư	_	_	N	_	_	_	_
+12	của	của	_	_	ADP	_	_	_	_
+13	Tùng	Tùng	_	_	N	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s838
+# text = gặp ai cô cũng ngẩn ngơ cười và kể về chuyện nhà mình bị ếm bùa, bỏ ngải.
+1	gặp	gặp	_	_	V	_	_	_	_
+2	ai	ai	_	_	PROPN	_	_	_	_
+3	cô	cô	_	_	N	_	_	_	_
+4	cũng	cũng	_	_	_	_	_	_	_
+5	ngẩn ngơ	ngẩn ngơ	_	_	ADJ	_	_	_	_
+6	cười	cười	_	_	V	_	_	_	_
+7	và	và	_	_	CONJ	_	_	_	_
+8	kể	kể	_	_	V	_	_	_	_
+9	về	về	_	_	ADP	_	_	_	_
+10	chuyện	chuyện	_	_	N	_	_	_	_
+11	nhà	nhà	_	_	N	_	_	_	_
+12	mình	mình	_	_	PROPN	_	_	_	_
+13	bị	bị	_	_	V	_	_	_	_
+14	ếm	ếm	_	_	V	_	_	_	_
+15	bùa	bùa	_	_	N	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	bỏ	bỏ	_	_	V	_	_	_	_
+18	ngải	ngải	_	_	N	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s476
+# text = ông Chương kể năm đầu tiên từ Sài Gòn ra Hà Nội, ông bơ vơ trong xa lạ và buồn tẻ.
+1	ông	ông	_	_	N	_	_	_	_
+2	Chương	Chương	_	_	N	_	_	_	_
+3	kể	kể	_	_	V	_	_	_	_
+4	năm	năm	_	_	N	_	_	_	_
+5	đầu tiên	đầu tiên	_	_	ADJ	_	_	_	_
+6	từ	từ	_	_	ADP	_	_	_	_
+7	Sài Gòn	Sài Gòn	_	_	N	_	_	_	_
+8	ra	ra	_	_	V	_	_	_	_
+9	Hà Nội	Hà Nội	_	_	N	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	ông	ông	_	_	N	_	_	_	_
+12	bơ vơ	bơ vơ	_	_	V	_	_	_	_
+13	trong	trong	_	_	ADP	_	_	_	_
+14	xa lạ	xa lạ	_	_	ADJ	_	_	_	_
+15	và	và	_	_	CONJ	_	_	_	_
+16	buồn tẻ	buồn tẻ	_	_	ADJ	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s692
+# text = ở khu vực này có 1 . 000 nữ LĐ nhà máy, trong đó 300 lđ nữ VN thuộc các công ty coopimex, Tracimexco và Lod.
+1	ở	ở	_	_	ADP	_	_	_	_
+2	khu vực	khu vực	_	_	N	_	_	_	_
+3	này	này	_	_	PROPN	_	_	_	_
+4	có	có	_	_	V	_	_	_	_
+5	1 . 000	1 . 000	_	_	NUM	_	_	_	_
+6	nữ	nữ	_	_	N	_	_	_	_
+7	LĐ	LĐ	_	_	N	_	_	_	_
+8	nhà máy	nhà máy	_	_	N	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	trong	trong	_	_	ADP	_	_	_	_
+11	đó	đó	_	_	PROPN	_	_	_	_
+12	300	300	_	_	NUM	_	_	_	_
+13	lđ	lđ	_	_	N	_	_	_	_
+14	nữ	nữ	_	_	N	_	_	_	_
+15	VN	VN	_	_	N	_	_	_	_
+16	thuộc	thuộc	_	_	V	_	_	_	_
+17	các	các	_	_	DET	_	_	_	_
+18	công ty	công ty	_	_	N	_	_	_	_
+19	coopimex	coopimex	_	_	N	_	_	_	_
+20	,	,	_	_	_	_	_	_	_
+21	Tracimexco	Tracimexco	_	_	N	_	_	_	_
+22	và	và	_	_	CONJ	_	_	_	_
+23	Lod	Lod	_	_	N	_	_	_	_
+24	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s63
+# text = Đó là Tuấn, chàng thư sinh người Hà Nội lành như ngụm nước mưa.
+1	Đó	Đó	_	_	PROPN	_	_	_	_
+2	là	là	_	_	V	_	_	_	_
+3	Tuấn	Tuấn	_	_	N	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	chàng	chàng	_	_	N	_	_	_	_
+6	thư sinh	thư sinh	_	_	N	_	_	_	_
+7	người	người	_	_	N	_	_	_	_
+8	Hà Nội	Hà Nội	_	_	N	_	_	_	_
+9	lành	lành	_	_	ADJ	_	_	_	_
+10	như	như	_	_	CONJ	_	_	_	_
+11	ngụm	ngụm	_	_	N	_	_	_	_
+12	nước	nước	_	_	N	_	_	_	_
+13	mưa	mưa	_	_	N	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s209
+# text = bỏ được qui định này đi thì tốt.
+1	bỏ	bỏ	_	_	V	_	_	_	_
+2	được	được	_	_	_	_	_	_	_
+3	qui định	qui định	_	_	N	_	_	_	_
+4	này	này	_	_	PROPN	_	_	_	_
+5	đi	đi	_	_	_	_	_	_	_
+6	thì	thì	_	_	CONJ	_	_	_	_
+7	tốt	tốt	_	_	ADJ	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s12
+# text = sự kiện của ông đã làm toàn dân Pháp càng phẫn nộ với cuộc chiến chết chóc này.
+1	sự kiện	sự kiện	_	_	N	_	_	_	_
+2	của	của	_	_	ADP	_	_	_	_
+3	ông	ông	_	_	N	_	_	_	_
+4	đã	đã	_	_	_	_	_	_	_
+5	làm	làm	_	_	V	_	_	_	_
+6	toàn	toàn	_	_	DET	_	_	_	_
+7	dân	dân	_	_	N	_	_	_	_
+8	Pháp	Pháp	_	_	N	_	_	_	_
+9	càng	càng	_	_	_	_	_	_	_
+10	phẫn nộ	phẫn nộ	_	_	V	_	_	_	_
+11	với	với	_	_	ADP	_	_	_	_
+12	cuộc chiến	cuộc chiến	_	_	N	_	_	_	_
+13	chết chóc	chết chóc	_	_	V	_	_	_	_
+14	này	này	_	_	PROPN	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s51
+# text = Hằng mệt mỏi quay về nhà.
+1	Hằng	Hằng	_	_	N	_	_	_	_
+2	mệt mỏi	mệt mỏi	_	_	ADJ	_	_	_	_
+3	quay	quay	_	_	V	_	_	_	_
+4	về	về	_	_	ADP	_	_	_	_
+5	nhà	nhà	_	_	N	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s835
+# text = "hồi bé chúng cũng thường nghịch phá, nhưng...", bà bỏ lửng câu nói, mấy người thân ngồi bên cạnh im lặng.
+1	"	"	_	_	_	_	_	_	_
+2	hồi	hồi	_	_	N	_	_	_	_
+3	bé	bé	_	_	ADJ	_	_	_	_
+4	chúng	chúng	_	_	PROPN	_	_	_	_
+5	cũng	cũng	_	_	_	_	_	_	_
+6	thường	thường	_	_	_	_	_	_	_
+7	nghịch	nghịch	_	_	V	_	_	_	_
+8	phá	phá	_	_	V	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	nhưng	nhưng	_	_	CONJ	_	_	_	_
+11	...	...	_	_	_	_	_	_	_
+12	"	"	_	_	_	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	bà	bà	_	_	N	_	_	_	_
+15	bỏ lửng	bỏ lửng	_	_	V	_	_	_	_
+16	câu	câu	_	_	N	_	_	_	_
+17	nói	nói	_	_	V	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	mấy	mấy	_	_	DET	_	_	_	_
+20	người thân	người thân	_	_	N	_	_	_	_
+21	ngồi	ngồi	_	_	V	_	_	_	_
+22	bên	bên	_	_	N	_	_	_	_
+23	cạnh	cạnh	_	_	N	_	_	_	_
+24	im lặng	im lặng	_	_	ADJ	_	_	_	_
+25	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s337
+# text = Nhiều người sang qua sang lại mà lời cả tỉ"....
+1	Nhiều	Nhiều	_	_	ADJ	_	_	_	_
+2	người	người	_	_	N	_	_	_	_
+3	sang	sang	_	_	V	_	_	_	_
+4	qua	qua	_	_	_	_	_	_	_
+5	sang	sang	_	_	V	_	_	_	_
+6	lại	lại	_	_	_	_	_	_	_
+7	mà	mà	_	_	CONJ	_	_	_	_
+8	lời	lời	_	_	V	_	_	_	_
+9	cả	cả	_	_	PART	_	_	_	_
+10	tỉ	tỉ	_	_	NUM	_	_	_	_
+11	"	"	_	_	_	_	_	_	_
+12	...	...	_	_	_	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s646
+# text = việc ông Chương quá "an tâm" cặp bồ còn suy ra rằng vợ ông Chương không phải dạng ghen tuông ghê gớm.
+1	việc	việc	_	_	N	_	_	_	_
+2	ông	ông	_	_	N	_	_	_	_
+3	Chương	Chương	_	_	N	_	_	_	_
+4	quá	quá	_	_	_	_	_	_	_
+5	"	"	_	_	_	_	_	_	_
+6	an tâm	an tâm	_	_	ADJ	_	_	_	_
+7	"	"	_	_	_	_	_	_	_
+8	cặp bồ	cặp bồ	_	_	V	_	_	_	_
+9	còn	còn	_	_	_	_	_	_	_
+10	suy	suy	_	_	V	_	_	_	_
+11	ra	ra	_	_	_	_	_	_	_
+12	rằng	rằng	_	_	CONJ	_	_	_	_
+13	vợ	vợ	_	_	N	_	_	_	_
+14	ông	ông	_	_	N	_	_	_	_
+15	Chương	Chương	_	_	N	_	_	_	_
+16	không	không	_	_	NEG	_	_	_	_
+17	phải	phải	_	_	ADJ	_	_	_	_
+18	dạng	dạng	_	_	N	_	_	_	_
+19	ghen tuông	ghen tuông	_	_	V	_	_	_	_
+20	ghê gớm	ghê gớm	_	_	V	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s70
+# text = sau hai tháng học tử tế mẹ sẽ chính thức sang tên xe cho Tùng.
+1	sau	sau	_	_	ADP	_	_	_	_
+2	hai	hai	_	_	NUM	_	_	_	_
+3	tháng	tháng	_	_	N	_	_	_	_
+4	học	học	_	_	V	_	_	_	_
+5	tử tế	tử tế	_	_	ADJ	_	_	_	_
+6	mẹ	mẹ	_	_	N	_	_	_	_
+7	sẽ	sẽ	_	_	_	_	_	_	_
+8	chính thức	chính thức	_	_	ADJ	_	_	_	_
+9	sang tên	sang tên	_	_	V	_	_	_	_
+10	xe	xe	_	_	N	_	_	_	_
+11	cho	cho	_	_	ADP	_	_	_	_
+12	Tùng	Tùng	_	_	N	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s800
+# text = phương pháp thử Kim cũng là tung tin ông Chương sẽ vào nam để đo thái độ của Kim.
+1	phương pháp	phương pháp	_	_	N	_	_	_	_
+2	thử	thử	_	_	V	_	_	_	_
+3	Kim	Kim	_	_	N	_	_	_	_
+4	cũng	cũng	_	_	_	_	_	_	_
+5	là	là	_	_	V	_	_	_	_
+6	tung	tung	_	_	V	_	_	_	_
+7	tin	tin	_	_	N	_	_	_	_
+8	ông	ông	_	_	N	_	_	_	_
+9	Chương	Chương	_	_	N	_	_	_	_
+10	sẽ	sẽ	_	_	_	_	_	_	_
+11	vào	vào	_	_	V	_	_	_	_
+12	nam	nam	_	_	N	_	_	_	_
+13	để	để	_	_	ADP	_	_	_	_
+14	đo	đo	_	_	V	_	_	_	_
+15	thái độ	thái độ	_	_	N	_	_	_	_
+16	của	của	_	_	ADP	_	_	_	_
+17	Kim	Kim	_	_	N	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s562
+# text = quay vào trong ông kêu: "Hạnh, ra chào dì đi con!".
+1	quay	quay	_	_	V	_	_	_	_
+2	vào	vào	_	_	ADP	_	_	_	_
+3	trong	trong	_	_	N	_	_	_	_
+4	ông	ông	_	_	N	_	_	_	_
+5	kêu	kêu	_	_	V	_	_	_	_
+6	:	:	_	_	_	_	_	_	_
+7	"	"	_	_	_	_	_	_	_
+8	Hạnh	Hạnh	_	_	N	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	ra	ra	_	_	V	_	_	_	_
+11	chào	chào	_	_	V	_	_	_	_
+12	dì	dì	_	_	N	_	_	_	_
+13	đi	đi	_	_	PART	_	_	_	_
+14	con	con	_	_	N	_	_	_	_
+15	!	!	_	_	_	_	_	_	_
+16	"	"	_	_	_	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s454
+# text = "Chắc chúng biết ông đã mua nhà ở Hà Nội?".
+1	"	"	_	_	_	_	_	_	_
+2	Chắc	Chắc	_	_	ADJ	_	_	_	_
+3	chúng	chúng	_	_	PROPN	_	_	_	_
+4	biết	biết	_	_	V	_	_	_	_
+5	ông	ông	_	_	N	_	_	_	_
+6	đã	đã	_	_	_	_	_	_	_
+7	mua	mua	_	_	V	_	_	_	_
+8	nhà	nhà	_	_	N	_	_	_	_
+9	ở	ở	_	_	ADP	_	_	_	_
+10	Hà Nội	Hà Nội	_	_	N	_	_	_	_
+11	?	?	_	_	_	_	_	_	_
+12	"	"	_	_	_	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s727
+# text = kế hoạch "rung chà cá nhảy".
+1	kế hoạch	kế hoạch	_	_	N	_	_	_	_
+2	"	"	_	_	_	_	_	_	_
+3	rung	rung	_	_	V	_	_	_	_
+4	chà	chà	_	_	N	_	_	_	_
+5	cá	cá	_	_	N	_	_	_	_
+6	nhảy	nhảy	_	_	V	_	_	_	_
+7	"	"	_	_	_	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s705
+# text = "Mâu thuẫn sẽ nằm trong quan hệ khác?".
+1	"	"	_	_	_	_	_	_	_
+2	Mâu thuẫn	Mâu thuẫn	_	_	N	_	_	_	_
+3	sẽ	sẽ	_	_	_	_	_	_	_
+4	nằm	nằm	_	_	V	_	_	_	_
+5	trong	trong	_	_	ADP	_	_	_	_
+6	quan hệ	quan hệ	_	_	N	_	_	_	_
+7	khác	khác	_	_	ADJ	_	_	_	_
+8	?	?	_	_	_	_	_	_	_
+9	"	"	_	_	_	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s760
+# text = giải phóng rồi, quí cùng đồng đội vẫn ở lại thêm hai năm để gỡ bom mìn ở quảng nam - Đà Nẵng.
+1	giải phóng	giải phóng	_	_	V	_	_	_	_
+2	rồi	rồi	_	_	_	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	quí	quí	_	_	N	_	_	_	_
+5	cùng	cùng	_	_	CONJ	_	_	_	_
+6	đồng đội	đồng đội	_	_	N	_	_	_	_
+7	vẫn	vẫn	_	_	_	_	_	_	_
+8	ở	ở	_	_	V	_	_	_	_
+9	lại	lại	_	_	_	_	_	_	_
+10	thêm	thêm	_	_	V	_	_	_	_
+11	hai	hai	_	_	NUM	_	_	_	_
+12	năm	năm	_	_	N	_	_	_	_
+13	để	để	_	_	ADP	_	_	_	_
+14	gỡ	gỡ	_	_	V	_	_	_	_
+15	bom	bom	_	_	N	_	_	_	_
+16	mìn	mìn	_	_	N	_	_	_	_
+17	ở	ở	_	_	ADP	_	_	_	_
+18	quảng nam	quảng nam	_	_	N	_	_	_	_
+19	-	-	_	_	_	_	_	_	_
+20	Đà Nẵng	Đà Nẵng	_	_	N	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s865
+# text = Chị kể về lần phải chạy xuôi ngược khắp xóm vay tiền để đăng tin "tìm trẻ lạc".
+1	Chị	Chị	_	_	N	_	_	_	_
+2	kể	kể	_	_	V	_	_	_	_
+3	về	về	_	_	ADP	_	_	_	_
+4	lần	lần	_	_	N	_	_	_	_
+5	phải	phải	_	_	V	_	_	_	_
+6	chạy	chạy	_	_	V	_	_	_	_
+7	xuôi ngược	xuôi ngược	_	_	ADJ	_	_	_	_
+8	khắp	khắp	_	_	ADJ	_	_	_	_
+9	xóm	xóm	_	_	N	_	_	_	_
+10	vay	vay	_	_	V	_	_	_	_
+11	tiền	tiền	_	_	N	_	_	_	_
+12	để	để	_	_	ADP	_	_	_	_
+13	đăng	đăng	_	_	V	_	_	_	_
+14	tin	tin	_	_	N	_	_	_	_
+15	"	"	_	_	_	_	_	_	_
+16	tìm	tìm	_	_	V	_	_	_	_
+17	trẻ	trẻ	_	_	N	_	_	_	_
+18	lạc	lạc	_	_	V	_	_	_	_
+19	"	"	_	_	_	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s221
+# text = Hai kịch bản mới phải thực hiện.
+1	Hai	Hai	_	_	NUM	_	_	_	_
+2	kịch bản	kịch bản	_	_	N	_	_	_	_
+3	mới	mới	_	_	ADJ	_	_	_	_
+4	phải	phải	_	_	V	_	_	_	_
+5	thực hiện	thực hiện	_	_	V	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s591
+# text = Những thủ phạm đằng sau thủ phạm: máu ghen xuyên Việt.
+1	Những	Những	_	_	DET	_	_	_	_
+2	thủ phạm	thủ phạm	_	_	N	_	_	_	_
+3	đằng	đằng	_	_	N	_	_	_	_
+4	sau	sau	_	_	ADJ	_	_	_	_
+5	thủ phạm	thủ phạm	_	_	N	_	_	_	_
+6	:	:	_	_	_	_	_	_	_
+7	máu ghen	máu ghen	_	_	N	_	_	_	_
+8	xuyên	xuyên	_	_	V	_	_	_	_
+9	Việt	Việt	_	_	N	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s302
+# text = Lao động tiếp tục bị bán tứ tán.
+1	Lao động	Lao động	_	_	N	_	_	_	_
+2	tiếp tục	tiếp tục	_	_	V	_	_	_	_
+3	bị	bị	_	_	V	_	_	_	_
+4	bán	bán	_	_	V	_	_	_	_
+5	tứ tán	tứ tán	_	_	V	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s252
+# text = Matxcơva, mùa xuân năm 2004.
+1	Matxcơva	Matxcơva	_	_	N	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	mùa	mùa	_	_	N	_	_	_	_
+4	xuân	xuân	_	_	N	_	_	_	_
+5	năm	năm	_	_	N	_	_	_	_
+6	2004	2004	_	_	NUM	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s952
+# text = "Tôi thấy đau lòng.
+1	"	"	_	_	_	_	_	_	_
+2	Tôi	Tôi	_	_	PROPN	_	_	_	_
+3	thấy	thấy	_	_	V	_	_	_	_
+4	đau lòng	đau lòng	_	_	ADJ	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s714
+# text = Đó là chuyện buồn nhất trong đêm ở Mour...
+1	Đó	Đó	_	_	PROPN	_	_	_	_
+2	là	là	_	_	V	_	_	_	_
+3	chuyện	chuyện	_	_	N	_	_	_	_
+4	buồn	buồn	_	_	ADJ	_	_	_	_
+5	nhất	nhất	_	_	_	_	_	_	_
+6	trong	trong	_	_	ADP	_	_	_	_
+7	đêm	đêm	_	_	N	_	_	_	_
+8	ở	ở	_	_	ADP	_	_	_	_
+9	Mour	Mour	_	_	N	_	_	_	_
+10	...	...	_	_	_	_	_	_	_
+
+# sent_id = dev-s643
+# text = thời gian chạm mặt với hàng xóm rất ít.
+1	thời gian	thời gian	_	_	N	_	_	_	_
+2	chạm mặt	chạm mặt	_	_	V	_	_	_	_
+3	với	với	_	_	ADP	_	_	_	_
+4	hàng xóm	hàng xóm	_	_	N	_	_	_	_
+5	rất	rất	_	_	_	_	_	_	_
+6	ít	ít	_	_	ADJ	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s1116
+# text = Ai đấy nhỉ?".
+1	Ai	Ai	_	_	PROPN	_	_	_	_
+2	đấy	đấy	_	_	PROPN	_	_	_	_
+3	nhỉ	nhỉ	_	_	PART	_	_	_	_
+4	?	?	_	_	_	_	_	_	_
+5	"	"	_	_	_	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s588
+# text = từ lòng địa đạo, du kích xuất hiện, len theo chiến hào, dựa vào các ụ chiến đấu tấn công địch.
+1	từ	từ	_	_	ADP	_	_	_	_
+2	lòng	lòng	_	_	N	_	_	_	_
+3	địa đạo	địa đạo	_	_	N	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	du kích	du kích	_	_	N	_	_	_	_
+6	xuất hiện	xuất hiện	_	_	V	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	len	len	_	_	V	_	_	_	_
+9	theo	theo	_	_	_	_	_	_	_
+10	chiến hào	chiến hào	_	_	N	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	dựa	dựa	_	_	V	_	_	_	_
+13	vào	vào	_	_	_	_	_	_	_
+14	các	các	_	_	DET	_	_	_	_
+15	ụ	ụ	_	_	N	_	_	_	_
+16	chiến đấu	chiến đấu	_	_	V	_	_	_	_
+17	tấn công	tấn công	_	_	V	_	_	_	_
+18	địch	địch	_	_	N	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s303
+# text = nông dân xung quanh gặp việc bất thường trên đồng ruộng là ới "bác sĩ" Hạo đến bắt mạch cho cây ngay...
+1	nông dân	nông dân	_	_	N	_	_	_	_
+2	xung quanh	xung quanh	_	_	N	_	_	_	_
+3	gặp	gặp	_	_	V	_	_	_	_
+4	việc	việc	_	_	N	_	_	_	_
+5	bất thường	bất thường	_	_	ADJ	_	_	_	_
+6	trên	trên	_	_	ADP	_	_	_	_
+7	đồng ruộng	đồng ruộng	_	_	N	_	_	_	_
+8	là	là	_	_	CONJ	_	_	_	_
+9	ới	ới	_	_	V	_	_	_	_
+10	"	"	_	_	_	_	_	_	_
+11	bác sĩ	bác sĩ	_	_	N	_	_	_	_
+12	"	"	_	_	_	_	_	_	_
+13	Hạo	Hạo	_	_	N	_	_	_	_
+14	đến	đến	_	_	V	_	_	_	_
+15	bắt mạch	bắt mạch	_	_	V	_	_	_	_
+16	cho	cho	_	_	ADP	_	_	_	_
+17	cây	cây	_	_	N	_	_	_	_
+18	ngay	ngay	_	_	PART	_	_	_	_
+19	...	...	_	_	_	_	_	_	_
+
+# sent_id = train-s861
+# text = Mình điên hay con mình điên?
+1	Mình	Mình	_	_	PROPN	_	_	_	_
+2	điên	điên	_	_	V	_	_	_	_
+3	hay	hay	_	_	CONJ	_	_	_	_
+4	con	con	_	_	N	_	_	_	_
+5	mình	mình	_	_	PROPN	_	_	_	_
+6	điên	điên	_	_	V	_	_	_	_
+7	?	?	_	_	_	_	_	_	_
+
+# sent_id = train-s950
+# text = "Công việc chỉ luôn đối diện với hồ sơ, giấy tờ và tội phạm, anh có cảm thấy buồn không?", anh Thành Bỉ hỏi.
+1	"	"	_	_	_	_	_	_	_
+2	Công việc	Công việc	_	_	N	_	_	_	_
+3	chỉ	chỉ	_	_	_	_	_	_	_
+4	luôn	luôn	_	_	_	_	_	_	_
+5	đối diện	đối diện	_	_	V	_	_	_	_
+6	với	với	_	_	ADP	_	_	_	_
+7	hồ sơ	hồ sơ	_	_	N	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	giấy tờ	giấy tờ	_	_	N	_	_	_	_
+10	và	và	_	_	CONJ	_	_	_	_
+11	tội phạm	tội phạm	_	_	N	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	anh	anh	_	_	N	_	_	_	_
+14	có	có	_	_	_	_	_	_	_
+15	cảm thấy	cảm thấy	_	_	V	_	_	_	_
+16	buồn	buồn	_	_	V	_	_	_	_
+17	không	không	_	_	NEG	_	_	_	_
+18	?	?	_	_	_	_	_	_	_
+19	"	"	_	_	_	_	_	_	_
+20	,	,	_	_	_	_	_	_	_
+21	anh	anh	_	_	N	_	_	_	_
+22	Thành Bỉ	Thành Bỉ	_	_	N	_	_	_	_
+23	hỏi	hỏi	_	_	V	_	_	_	_
+24	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s734
+# text = tổ chiến đấu của Phạm Văn Cội không nao núng, vừa lẩn giặc vừa tìm thế đánh trả.
+1	tổ	tổ	_	_	N	_	_	_	_
+2	chiến đấu	chiến đấu	_	_	V	_	_	_	_
+3	của	của	_	_	ADP	_	_	_	_
+4	Phạm Văn Cội	Phạm Văn Cội	_	_	N	_	_	_	_
+5	không	không	_	_	NEG	_	_	_	_
+6	nao núng	nao núng	_	_	V	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	vừa	vừa	_	_	_	_	_	_	_
+9	lẩn	lẩn	_	_	V	_	_	_	_
+10	giặc	giặc	_	_	N	_	_	_	_
+11	vừa	vừa	_	_	_	_	_	_	_
+12	tìm	tìm	_	_	V	_	_	_	_
+13	thế	thế	_	_	N	_	_	_	_
+14	đánh	đánh	_	_	V	_	_	_	_
+15	trả	trả	_	_	V	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s608
+# text = Hai thám tử lúc đó vừa vòng xe vào ngõ lại phải quay đầu lập tức bám theo hắn.
+1	Hai	Hai	_	_	NUM	_	_	_	_
+2	thám tử	thám tử	_	_	N	_	_	_	_
+3	lúc	lúc	_	_	N	_	_	_	_
+4	đó	đó	_	_	PROPN	_	_	_	_
+5	vừa	vừa	_	_	_	_	_	_	_
+6	vòng	vòng	_	_	V	_	_	_	_
+7	xe	xe	_	_	N	_	_	_	_
+8	vào	vào	_	_	ADP	_	_	_	_
+9	ngõ	ngõ	_	_	N	_	_	_	_
+10	lại	lại	_	_	_	_	_	_	_
+11	phải	phải	_	_	V	_	_	_	_
+12	quay	quay	_	_	V	_	_	_	_
+13	đầu	đầu	_	_	N	_	_	_	_
+14	lập tức	lập tức	_	_	_	_	_	_	_
+15	bám	bám	_	_	V	_	_	_	_
+16	theo	theo	_	_	ADP	_	_	_	_
+17	hắn	hắn	_	_	PROPN	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s262
+# text = Bộ trưởng ra tòa làm nhân chứng.
+1	Bộ trưởng	Bộ trưởng	_	_	N	_	_	_	_
+2	ra	ra	_	_	V	_	_	_	_
+3	tòa	tòa	_	_	N	_	_	_	_
+4	làm	làm	_	_	V	_	_	_	_
+5	nhân chứng	nhân chứng	_	_	N	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s493
+# text = Nay bố mất, ông chủ đã cho Kim nghỉ việc.
+1	Nay	Nay	_	_	PROPN	_	_	_	_
+2	bố	bố	_	_	N	_	_	_	_
+3	mất	mất	_	_	V	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	ông	ông	_	_	N	_	_	_	_
+6	chủ	chủ	_	_	N	_	_	_	_
+7	đã	đã	_	_	_	_	_	_	_
+8	cho	cho	_	_	V	_	_	_	_
+9	Kim	Kim	_	_	N	_	_	_	_
+10	nghỉ việc	nghỉ việc	_	_	V	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s138
+# text = Trưa.
+1	Trưa	Trưa	_	_	N	_	_	_	_
+2	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s1219
+# text = lối thoát cho cả ba bên.
+1	lối thoát	lối thoát	_	_	N	_	_	_	_
+2	cho	cho	_	_	ADP	_	_	_	_
+3	cả	cả	_	_	PART	_	_	_	_
+4	ba	ba	_	_	NUM	_	_	_	_
+5	bên	bên	_	_	N	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s672
+# text = Vậy anh nên mua nhà, đưa chị và các cháu ra...
+1	Vậy	Vậy	_	_	PROPN	_	_	_	_
+2	anh	anh	_	_	N	_	_	_	_
+3	nên	nên	_	_	V	_	_	_	_
+4	mua	mua	_	_	V	_	_	_	_
+5	nhà	nhà	_	_	N	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	đưa	đưa	_	_	V	_	_	_	_
+8	chị	chị	_	_	N	_	_	_	_
+9	và	và	_	_	CONJ	_	_	_	_
+10	các	các	_	_	DET	_	_	_	_
+11	cháu	cháu	_	_	N	_	_	_	_
+12	ra	ra	_	_	V	_	_	_	_
+13	...	...	_	_	_	_	_	_	_
+
+# sent_id = train-s1184
+# text = Thắng kiểm tra ví tiền và gọi thêm hai người bạn đóng vai khách làng chơi, hùng dũng tiến vào.
+1	Thắng	Thắng	_	_	N	_	_	_	_
+2	kiểm tra	kiểm tra	_	_	V	_	_	_	_
+3	ví	ví	_	_	N	_	_	_	_
+4	tiền	tiền	_	_	N	_	_	_	_
+5	và	và	_	_	CONJ	_	_	_	_
+6	gọi	gọi	_	_	V	_	_	_	_
+7	thêm	thêm	_	_	_	_	_	_	_
+8	hai	hai	_	_	NUM	_	_	_	_
+9	người	người	_	_	N	_	_	_	_
+10	bạn	bạn	_	_	N	_	_	_	_
+11	đóng	đóng	_	_	V	_	_	_	_
+12	vai	vai	_	_	N	_	_	_	_
+13	khách	khách	_	_	N	_	_	_	_
+14	làng chơi	làng chơi	_	_	N	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	hùng dũng	hùng dũng	_	_	ADJ	_	_	_	_
+17	tiến	tiến	_	_	V	_	_	_	_
+18	vào	vào	_	_	_	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s363
+# text = Tuy nhiên, cũng phải nhìn nhận rằng những chính sách này vẫn còn một số điểm hạn chế, chưa đáp ứng được đầy đủ nguyện vọng của bà con.
+1	Tuy nhiên	Tuy nhiên	_	_	CONJ	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	cũng	cũng	_	_	_	_	_	_	_
+4	phải	phải	_	_	V	_	_	_	_
+5	nhìn nhận	nhìn nhận	_	_	V	_	_	_	_
+6	rằng	rằng	_	_	CONJ	_	_	_	_
+7	những	những	_	_	DET	_	_	_	_
+8	chính sách	chính sách	_	_	N	_	_	_	_
+9	này	này	_	_	PROPN	_	_	_	_
+10	vẫn	vẫn	_	_	_	_	_	_	_
+11	còn	còn	_	_	V	_	_	_	_
+12	một số	một số	_	_	DET	_	_	_	_
+13	điểm	điểm	_	_	N	_	_	_	_
+14	hạn chế	hạn chế	_	_	ADJ	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	chưa	chưa	_	_	_	_	_	_	_
+17	đáp ứng	đáp ứng	_	_	V	_	_	_	_
+18	được	được	_	_	_	_	_	_	_
+19	đầy đủ	đầy đủ	_	_	ADJ	_	_	_	_
+20	nguyện vọng	nguyện vọng	_	_	N	_	_	_	_
+21	của	của	_	_	ADP	_	_	_	_
+22	bà con	bà con	_	_	N	_	_	_	_
+23	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s571
+# text = Anh tin bà biết rõ nội tình công ty chồng, cộng với kinh nghiệm thì bà có thể giúp anh tìm ra thủ phạm.
+1	Anh	Anh	_	_	N	_	_	_	_
+2	tin	tin	_	_	V	_	_	_	_
+3	bà	bà	_	_	N	_	_	_	_
+4	biết	biết	_	_	V	_	_	_	_
+5	rõ	rõ	_	_	ADJ	_	_	_	_
+6	nội tình	nội tình	_	_	N	_	_	_	_
+7	công ty	công ty	_	_	N	_	_	_	_
+8	chồng	chồng	_	_	N	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	cộng	cộng	_	_	V	_	_	_	_
+11	với	với	_	_	CONJ	_	_	_	_
+12	kinh nghiệm	kinh nghiệm	_	_	N	_	_	_	_
+13	thì	thì	_	_	CONJ	_	_	_	_
+14	bà	bà	_	_	N	_	_	_	_
+15	có thể	có thể	_	_	_	_	_	_	_
+16	giúp	giúp	_	_	V	_	_	_	_
+17	anh	anh	_	_	N	_	_	_	_
+18	tìm	tìm	_	_	V	_	_	_	_
+19	ra	ra	_	_	_	_	_	_	_
+20	thủ phạm	thủ phạm	_	_	N	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s682
+# text = Ngày mai chúng ta sẽ thử đột nhập ngôi nhà của thám tử...
+1	Ngày mai	Ngày mai	_	_	PROPN	_	_	_	_
+2	chúng ta	chúng ta	_	_	PROPN	_	_	_	_
+3	sẽ	sẽ	_	_	_	_	_	_	_
+4	thử	thử	_	_	V	_	_	_	_
+5	đột nhập	đột nhập	_	_	V	_	_	_	_
+6	ngôi	ngôi	_	_	N	_	_	_	_
+7	nhà	nhà	_	_	N	_	_	_	_
+8	của	của	_	_	ADP	_	_	_	_
+9	thám tử	thám tử	_	_	N	_	_	_	_
+10	...	...	_	_	_	_	_	_	_
+
+# sent_id = dev-s60
+# text = Hằng đến công ty thám tử với yêu cầu "đòi lại đứa con" cho chị.
+1	Hằng	Hằng	_	_	N	_	_	_	_
+2	đến	đến	_	_	V	_	_	_	_
+3	công ty	công ty	_	_	N	_	_	_	_
+4	thám tử	thám tử	_	_	N	_	_	_	_
+5	với	với	_	_	ADP	_	_	_	_
+6	yêu cầu	yêu cầu	_	_	N	_	_	_	_
+7	"	"	_	_	_	_	_	_	_
+8	đòi	đòi	_	_	V	_	_	_	_
+9	lại	lại	_	_	_	_	_	_	_
+10	đứa	đứa	_	_	N	_	_	_	_
+11	con	con	_	_	N	_	_	_	_
+12	"	"	_	_	_	_	_	_	_
+13	cho	cho	_	_	ADP	_	_	_	_
+14	chị	chị	_	_	N	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s507
+# text = Và thứ tư, thủ phạm thuộc mối quan hệ của người chồng.
+1	Và	Và	_	_	CONJ	_	_	_	_
+2	thứ	thứ	_	_	N	_	_	_	_
+3	tư	tư	_	_	NUM	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	thủ phạm	thủ phạm	_	_	N	_	_	_	_
+6	thuộc	thuộc	_	_	V	_	_	_	_
+7	mối	mối	_	_	N	_	_	_	_
+8	quan hệ	quan hệ	_	_	N	_	_	_	_
+9	của	của	_	_	ADP	_	_	_	_
+10	người	người	_	_	N	_	_	_	_
+11	chồng	chồng	_	_	N	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s141
+# text = Một trò chơi của một người lính trẻ dưới công sự, bên trời bom đạn...
+1	Một	Một	_	_	NUM	_	_	_	_
+2	trò chơi	trò chơi	_	_	N	_	_	_	_
+3	của	của	_	_	ADP	_	_	_	_
+4	một	một	_	_	NUM	_	_	_	_
+5	người	người	_	_	N	_	_	_	_
+6	lính	lính	_	_	N	_	_	_	_
+7	trẻ	trẻ	_	_	ADJ	_	_	_	_
+8	dưới	dưới	_	_	ADP	_	_	_	_
+9	công sự	công sự	_	_	N	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	bên	bên	_	_	N	_	_	_	_
+12	trời	trời	_	_	N	_	_	_	_
+13	bom đạn	bom đạn	_	_	N	_	_	_	_
+14	...	...	_	_	_	_	_	_	_
+
+# sent_id = test-s694
+# text = tại Tampoi, con đường dọc hành lang vào thị trấn kéo dài hàng trăm mét là nơi tụ hội hẹn hò và tìm bạn của lđ VN.
+1	tại	tại	_	_	ADP	_	_	_	_
+2	Tampoi	Tampoi	_	_	N	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	con	con	_	_	N	_	_	_	_
+5	đường	đường	_	_	N	_	_	_	_
+6	dọc	dọc	_	_	ADJ	_	_	_	_
+7	hành lang	hành lang	_	_	N	_	_	_	_
+8	vào	vào	_	_	V	_	_	_	_
+9	thị trấn	thị trấn	_	_	N	_	_	_	_
+10	kéo dài	kéo dài	_	_	V	_	_	_	_
+11	hàng	hàng	_	_	_	_	_	_	_
+12	trăm	trăm	_	_	NUM	_	_	_	_
+13	mét	mét	_	_	N	_	_	_	_
+14	là	là	_	_	V	_	_	_	_
+15	nơi	nơi	_	_	N	_	_	_	_
+16	tụ hội	tụ hội	_	_	V	_	_	_	_
+17	hẹn hò	hẹn hò	_	_	V	_	_	_	_
+18	và	và	_	_	CONJ	_	_	_	_
+19	tìm	tìm	_	_	V	_	_	_	_
+20	bạn	bạn	_	_	N	_	_	_	_
+21	của	của	_	_	ADP	_	_	_	_
+22	lđ	lđ	_	_	N	_	_	_	_
+23	VN	VN	_	_	N	_	_	_	_
+24	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s482
+# text = Không ai tin cô và cô cũng không đem theo giấy tờ tùy thân...
+1	Không	Không	_	_	NEG	_	_	_	_
+2	ai	ai	_	_	PROPN	_	_	_	_
+3	tin	tin	_	_	V	_	_	_	_
+4	cô	cô	_	_	N	_	_	_	_
+5	và	và	_	_	CONJ	_	_	_	_
+6	cô	cô	_	_	N	_	_	_	_
+7	cũng	cũng	_	_	_	_	_	_	_
+8	không	không	_	_	NEG	_	_	_	_
+9	đem	đem	_	_	V	_	_	_	_
+10	theo	theo	_	_	ADP	_	_	_	_
+11	giấy tờ	giấy tờ	_	_	N	_	_	_	_
+12	tùy thân	tùy thân	_	_	V	_	_	_	_
+13	...	...	_	_	_	_	_	_	_
+
+# sent_id = test-s55
+# text = lọc lừa hàng chợ.
+1	lọc lừa	lọc lừa	_	_	V	_	_	_	_
+2	hàng chợ	hàng chợ	_	_	N	_	_	_	_
+3	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s42
+# text = ông Võ Văn Sung cho biết: "phong trào nhân dân Pháp ủng hộ VN chống chiến tranh xâm lược của thực dân Pháp và Mỹ rất sôi nổi.
+1	ông	ông	_	_	N	_	_	_	_
+2	Võ Văn Sung	Võ Văn Sung	_	_	N	_	_	_	_
+3	cho	cho	_	_	V	_	_	_	_
+4	biết	biết	_	_	V	_	_	_	_
+5	:	:	_	_	_	_	_	_	_
+6	"	"	_	_	_	_	_	_	_
+7	phong trào	phong trào	_	_	N	_	_	_	_
+8	nhân dân	nhân dân	_	_	N	_	_	_	_
+9	Pháp	Pháp	_	_	N	_	_	_	_
+10	ủng hộ	ủng hộ	_	_	V	_	_	_	_
+11	VN	VN	_	_	N	_	_	_	_
+12	chống	chống	_	_	V	_	_	_	_
+13	chiến tranh	chiến tranh	_	_	N	_	_	_	_
+14	xâm lược	xâm lược	_	_	V	_	_	_	_
+15	của	của	_	_	ADP	_	_	_	_
+16	thực dân	thực dân	_	_	N	_	_	_	_
+17	Pháp	Pháp	_	_	N	_	_	_	_
+18	và	và	_	_	CONJ	_	_	_	_
+19	Mỹ	Mỹ	_	_	N	_	_	_	_
+20	rất	rất	_	_	_	_	_	_	_
+21	sôi nổi	sôi nổi	_	_	ADJ	_	_	_	_
+22	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s70
+# text = lừa cấp thấp hơn là khi nấu cao lấy trộm dịch chiết, pha thêm các xương trâu, mèo, chó, gấu...
+1	lừa	lừa	_	_	V	_	_	_	_
+2	cấp	cấp	_	_	N	_	_	_	_
+3	thấp	thấp	_	_	ADJ	_	_	_	_
+4	hơn	hơn	_	_	ADJ	_	_	_	_
+5	là	là	_	_	V	_	_	_	_
+6	khi	khi	_	_	N	_	_	_	_
+7	nấu	nấu	_	_	V	_	_	_	_
+8	cao	cao	_	_	N	_	_	_	_
+9	lấy	lấy	_	_	V	_	_	_	_
+10	trộm	trộm	_	_	V	_	_	_	_
+11	dịch	dịch	_	_	N	_	_	_	_
+12	chiết	chiết	_	_	N	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	pha	pha	_	_	V	_	_	_	_
+15	thêm	thêm	_	_	V	_	_	_	_
+16	các	các	_	_	DET	_	_	_	_
+17	xương	xương	_	_	N	_	_	_	_
+18	trâu	trâu	_	_	N	_	_	_	_
+19	,	,	_	_	_	_	_	_	_
+20	mèo	mèo	_	_	N	_	_	_	_
+21	,	,	_	_	_	_	_	_	_
+22	chó	chó	_	_	N	_	_	_	_
+23	,	,	_	_	_	_	_	_	_
+24	gấu	gấu	_	_	N	_	_	_	_
+25	...	...	_	_	_	_	_	_	_
+
+# sent_id = train-s1367
+# text = Ba nhóm trong vai sinh viên, lao công đi tìm nhà lập tức tràn vào tất cả ngõ ngách của con phố này.
+1	Ba	Ba	_	_	NUM	_	_	_	_
+2	nhóm	nhóm	_	_	N	_	_	_	_
+3	trong	trong	_	_	ADP	_	_	_	_
+4	vai	vai	_	_	N	_	_	_	_
+5	sinh viên	sinh viên	_	_	N	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	lao công	lao công	_	_	N	_	_	_	_
+8	đi	đi	_	_	V	_	_	_	_
+9	tìm	tìm	_	_	V	_	_	_	_
+10	nhà	nhà	_	_	N	_	_	_	_
+11	lập tức	lập tức	_	_	_	_	_	_	_
+12	tràn	tràn	_	_	V	_	_	_	_
+13	vào	vào	_	_	ADP	_	_	_	_
+14	tất cả	tất cả	_	_	PROPN	_	_	_	_
+15	ngõ ngách	ngõ ngách	_	_	N	_	_	_	_
+16	của	của	_	_	ADP	_	_	_	_
+17	con	con	_	_	N	_	_	_	_
+18	phố	phố	_	_	N	_	_	_	_
+19	này	này	_	_	PROPN	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s132
+# text = Bây giờ đã 7 giờ tối thế mà vẫn không dứt tiếng máy bay Mỹ, tiếng đại bác đì đùng...
+1	Bây giờ	Bây giờ	_	_	PROPN	_	_	_	_
+2	đã	đã	_	_	_	_	_	_	_
+3	7	7	_	_	NUM	_	_	_	_
+4	giờ	giờ	_	_	N	_	_	_	_
+5	tối	tối	_	_	N	_	_	_	_
+6	thế mà	thế mà	_	_	CONJ	_	_	_	_
+7	vẫn	vẫn	_	_	_	_	_	_	_
+8	không	không	_	_	NEG	_	_	_	_
+9	dứt	dứt	_	_	V	_	_	_	_
+10	tiếng	tiếng	_	_	N	_	_	_	_
+11	máy bay	máy bay	_	_	N	_	_	_	_
+12	Mỹ	Mỹ	_	_	N	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	tiếng	tiếng	_	_	N	_	_	_	_
+15	đại bác	đại bác	_	_	N	_	_	_	_
+16	đì đùng	đì đùng	_	_	ADJ	_	_	_	_
+17	...	...	_	_	_	_	_	_	_
+
+# sent_id = train-s280
+# text = "Đó là chủ trương gì?", HĐXX muốn làm rõ hơn.
+1	"	"	_	_	_	_	_	_	_
+2	Đó	Đó	_	_	PROPN	_	_	_	_
+3	là	là	_	_	V	_	_	_	_
+4	chủ trương	chủ trương	_	_	N	_	_	_	_
+5	gì	gì	_	_	PROPN	_	_	_	_
+6	?	?	_	_	_	_	_	_	_
+7	"	"	_	_	_	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	HĐXX	HĐXX	_	_	N	_	_	_	_
+10	muốn	muốn	_	_	V	_	_	_	_
+11	làm	làm	_	_	V	_	_	_	_
+12	rõ	rõ	_	_	ADJ	_	_	_	_
+13	hơn	hơn	_	_	_	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s98
+# text = nhìn đồng hồ, kim đã chỉ 14 giờ.
+1	nhìn	nhìn	_	_	V	_	_	_	_
+2	đồng hồ	đồng hồ	_	_	N	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	kim	kim	_	_	N	_	_	_	_
+5	đã	đã	_	_	_	_	_	_	_
+6	chỉ	chỉ	_	_	V	_	_	_	_
+7	14	14	_	_	NUM	_	_	_	_
+8	giờ	giờ	_	_	N	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s554
+# text = chiến hữu đắc lực.
+1	chiến hữu	chiến hữu	_	_	N	_	_	_	_
+2	đắc lực	đắc lực	_	_	V	_	_	_	_
+3	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s717
+# text = Tuy vậy, số máy này lại không đặt máy fax mà công ty chỉ dùng một máy fax duy nhất ở đường dây khác.
+1	Tuy vậy	Tuy vậy	_	_	CONJ	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	số	số	_	_	N	_	_	_	_
+4	máy	máy	_	_	N	_	_	_	_
+5	này	này	_	_	PROPN	_	_	_	_
+6	lại	lại	_	_	_	_	_	_	_
+7	không	không	_	_	NEG	_	_	_	_
+8	đặt	đặt	_	_	V	_	_	_	_
+9	máy	máy	_	_	N	_	_	_	_
+10	fax	fax	_	_	N	_	_	_	_
+11	mà	mà	_	_	CONJ	_	_	_	_
+12	công ty	công ty	_	_	N	_	_	_	_
+13	chỉ	chỉ	_	_	_	_	_	_	_
+14	dùng	dùng	_	_	V	_	_	_	_
+15	một	một	_	_	NUM	_	_	_	_
+16	máy	máy	_	_	N	_	_	_	_
+17	fax	fax	_	_	N	_	_	_	_
+18	duy nhất	duy nhất	_	_	ADJ	_	_	_	_
+19	ở	ở	_	_	ADP	_	_	_	_
+20	đường dây	đường dây	_	_	N	_	_	_	_
+21	khác	khác	_	_	ADJ	_	_	_	_
+22	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s303
+# text = Chúng tôi cầu cứu các nơi nhưng đều tuyệt vọng.
+1	Chúng tôi	Chúng tôi	_	_	N	_	_	_	_
+2	cầu cứu	cầu cứu	_	_	V	_	_	_	_
+3	các	các	_	_	DET	_	_	_	_
+4	nơi	nơi	_	_	N	_	_	_	_
+5	nhưng	nhưng	_	_	CONJ	_	_	_	_
+6	đều	đều	_	_	_	_	_	_	_
+7	tuyệt vọng	tuyệt vọng	_	_	V	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s759
+# text = Ông được điều về đơn vị thông tin thuộc sư đoàn 2, quân khu 5.
+1	Ông	Ông	_	_	N	_	_	_	_
+2	được	được	_	_	V	_	_	_	_
+3	điều	điều	_	_	V	_	_	_	_
+4	về	về	_	_	ADP	_	_	_	_
+5	đơn vị	đơn vị	_	_	N	_	_	_	_
+6	thông tin	thông tin	_	_	N	_	_	_	_
+7	thuộc	thuộc	_	_	V	_	_	_	_
+8	sư đoàn	sư đoàn	_	_	N	_	_	_	_
+9	2	2	_	_	NUM	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	quân khu	quân khu	_	_	N	_	_	_	_
+12	5	5	_	_	NUM	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s396
+# text = như dự đoán của Thanh, mấy hôm sau Hùng gặp bà Loan thưa chuyện.
+1	như	như	_	_	ADJ	_	_	_	_
+2	dự đoán	dự đoán	_	_	N	_	_	_	_
+3	của	của	_	_	ADP	_	_	_	_
+4	Thanh	Thanh	_	_	N	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	mấy	mấy	_	_	DET	_	_	_	_
+7	hôm	hôm	_	_	N	_	_	_	_
+8	sau	sau	_	_	ADJ	_	_	_	_
+9	Hùng	Hùng	_	_	N	_	_	_	_
+10	gặp	gặp	_	_	V	_	_	_	_
+11	bà	bà	_	_	N	_	_	_	_
+12	Loan	Loan	_	_	N	_	_	_	_
+13	thưa	thưa	_	_	V	_	_	_	_
+14	chuyện	chuyện	_	_	N	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s451
+# text = Nhưng khi hàng đã chui vào thị trường thì chịu.
+1	Nhưng	Nhưng	_	_	CONJ	_	_	_	_
+2	khi	khi	_	_	N	_	_	_	_
+3	hàng	hàng	_	_	N	_	_	_	_
+4	đã	đã	_	_	_	_	_	_	_
+5	chui	chui	_	_	V	_	_	_	_
+6	vào	vào	_	_	ADP	_	_	_	_
+7	thị trường	thị trường	_	_	N	_	_	_	_
+8	thì	thì	_	_	CONJ	_	_	_	_
+9	chịu	chịu	_	_	V	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s107
+# text = Và đến nay những mét hầm cuối cùng cũng đã về đích.
+1	Và	Và	_	_	CONJ	_	_	_	_
+2	đến	đến	_	_	ADP	_	_	_	_
+3	nay	nay	_	_	N	_	_	_	_
+4	những	những	_	_	DET	_	_	_	_
+5	mét	mét	_	_	N	_	_	_	_
+6	hầm	hầm	_	_	N	_	_	_	_
+7	cuối cùng	cuối cùng	_	_	ADJ	_	_	_	_
+8	cũng	cũng	_	_	_	_	_	_	_
+9	đã	đã	_	_	_	_	_	_	_
+10	về	về	_	_	V	_	_	_	_
+11	đích	đích	_	_	N	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s450
+# text = tiếp tục tập trung nguồn lực cho chương trình 3 giảm...
+1	tiếp tục	tiếp tục	_	_	V	_	_	_	_
+2	tập trung	tập trung	_	_	V	_	_	_	_
+3	nguồn lực	nguồn lực	_	_	N	_	_	_	_
+4	cho	cho	_	_	ADP	_	_	_	_
+5	chương trình	chương trình	_	_	N	_	_	_	_
+6	3	3	_	_	NUM	_	_	_	_
+7	giảm	giảm	_	_	V	_	_	_	_
+8	...	...	_	_	_	_	_	_	_
+
+# sent_id = dev-s587
+# text = trong khi đó, vì lòng cảm phục cô gái, ông đem chuyện cô thuật cho một phóng viên tờ Olympian Newspaper của thành phố.
+1	trong	trong	_	_	ADP	_	_	_	_
+2	khi	khi	_	_	N	_	_	_	_
+3	đó	đó	_	_	PROPN	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	vì	vì	_	_	ADP	_	_	_	_
+6	lòng	lòng	_	_	N	_	_	_	_
+7	cảm phục	cảm phục	_	_	V	_	_	_	_
+8	cô	cô	_	_	N	_	_	_	_
+9	gái	gái	_	_	N	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	ông	ông	_	_	N	_	_	_	_
+12	đem	đem	_	_	V	_	_	_	_
+13	chuyện	chuyện	_	_	N	_	_	_	_
+14	cô	cô	_	_	N	_	_	_	_
+15	thuật	thuật	_	_	V	_	_	_	_
+16	cho	cho	_	_	ADP	_	_	_	_
+17	một	một	_	_	NUM	_	_	_	_
+18	phóng viên	phóng viên	_	_	N	_	_	_	_
+19	tờ	tờ	_	_	N	_	_	_	_
+20	Olympian Newspaper	Olympian Newspaper	_	_	N	_	_	_	_
+21	của	của	_	_	ADP	_	_	_	_
+22	thành phố	thành phố	_	_	N	_	_	_	_
+23	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s103
+# text = với họ, mỗi năm 365 ngày thì chỉ dành cho gia đình không quá 15 ngày, số còn lại là công trường và lán trại.
+1	với	với	_	_	ADP	_	_	_	_
+2	họ	họ	_	_	PROPN	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	mỗi	mỗi	_	_	NUM	_	_	_	_
+5	năm	năm	_	_	N	_	_	_	_
+6	365	365	_	_	NUM	_	_	_	_
+7	ngày	ngày	_	_	N	_	_	_	_
+8	thì	thì	_	_	CONJ	_	_	_	_
+9	chỉ	chỉ	_	_	_	_	_	_	_
+10	dành	dành	_	_	V	_	_	_	_
+11	cho	cho	_	_	ADP	_	_	_	_
+12	gia đình	gia đình	_	_	N	_	_	_	_
+13	không	không	_	_	NEG	_	_	_	_
+14	quá	quá	_	_	V	_	_	_	_
+15	15	15	_	_	NUM	_	_	_	_
+16	ngày	ngày	_	_	N	_	_	_	_
+17	,	,	_	_	_	_	_	_	_
+18	số	số	_	_	N	_	_	_	_
+19	còn	còn	_	_	V	_	_	_	_
+20	lại	lại	_	_	_	_	_	_	_
+21	là	là	_	_	V	_	_	_	_
+22	công trường	công trường	_	_	N	_	_	_	_
+23	và	và	_	_	CONJ	_	_	_	_
+24	lán trại	lán trại	_	_	N	_	_	_	_
+25	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s165
+# text = Cả hai cấp tòa sơ thẩm và phúc thẩm đều đã tuyên xử hai bà có quyền sử dụng đất hợp pháp và có toàn quyền sang nhượng.
+1	Cả	Cả	_	_	PROPN	_	_	_	_
+2	hai	hai	_	_	NUM	_	_	_	_
+3	cấp	cấp	_	_	N	_	_	_	_
+4	tòa	tòa	_	_	N	_	_	_	_
+5	sơ thẩm	sơ thẩm	_	_	V	_	_	_	_
+6	và	và	_	_	CONJ	_	_	_	_
+7	phúc thẩm	phúc thẩm	_	_	V	_	_	_	_
+8	đều	đều	_	_	_	_	_	_	_
+9	đã	đã	_	_	_	_	_	_	_
+10	tuyên xử	tuyên xử	_	_	V	_	_	_	_
+11	hai	hai	_	_	NUM	_	_	_	_
+12	bà	bà	_	_	N	_	_	_	_
+13	có	có	_	_	V	_	_	_	_
+14	quyền	quyền	_	_	N	_	_	_	_
+15	sử dụng	sử dụng	_	_	V	_	_	_	_
+16	đất	đất	_	_	N	_	_	_	_
+17	hợp pháp	hợp pháp	_	_	ADJ	_	_	_	_
+18	và	và	_	_	CONJ	_	_	_	_
+19	có	có	_	_	V	_	_	_	_
+20	toàn	toàn	_	_	_	_	_	_	_
+21	quyền	quyền	_	_	N	_	_	_	_
+22	sang nhượng	sang nhượng	_	_	V	_	_	_	_
+23	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s125
+# text = Tùng như vén mây thấy mặt trời.
+1	Tùng	Tùng	_	_	N	_	_	_	_
+2	như	như	_	_	ADJ	_	_	_	_
+3	vén	vén	_	_	V	_	_	_	_
+4	mây	mây	_	_	N	_	_	_	_
+5	thấy	thấy	_	_	V	_	_	_	_
+6	mặt trời	mặt trời	_	_	N	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s811
+# text = Những mất mát ở đây không thể tính được bằng tiền.
+1	Những	Những	_	_	DET	_	_	_	_
+2	mất mát	mất mát	_	_	V	_	_	_	_
+3	ở	ở	_	_	ADP	_	_	_	_
+4	đây	đây	_	_	PROPN	_	_	_	_
+5	không thể	không thể	_	_	NEG	_	_	_	_
+6	tính	tính	_	_	V	_	_	_	_
+7	được	được	_	_	_	_	_	_	_
+8	bằng	bằng	_	_	ADP	_	_	_	_
+9	tiền	tiền	_	_	N	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s1347
+# text = Bình xin số điện thoại của người có hàng.
+1	Bình	Bình	_	_	N	_	_	_	_
+2	xin	xin	_	_	V	_	_	_	_
+3	số	số	_	_	N	_	_	_	_
+4	điện thoại	điện thoại	_	_	N	_	_	_	_
+5	của	của	_	_	ADP	_	_	_	_
+6	người	người	_	_	N	_	_	_	_
+7	có	có	_	_	V	_	_	_	_
+8	hàng	hàng	_	_	N	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s157
+# text = trong đầu tui nghĩ ra được cái gì là tui làm cái đó trước.
+1	trong	trong	_	_	ADP	_	_	_	_
+2	đầu	đầu	_	_	N	_	_	_	_
+3	tui	tui	_	_	PROPN	_	_	_	_
+4	nghĩ	nghĩ	_	_	V	_	_	_	_
+5	ra	ra	_	_	_	_	_	_	_
+6	được	được	_	_	_	_	_	_	_
+7	cái	cái	_	_	N	_	_	_	_
+8	gì	gì	_	_	PROPN	_	_	_	_
+9	là	là	_	_	CONJ	_	_	_	_
+10	tui	tui	_	_	PROPN	_	_	_	_
+11	làm	làm	_	_	V	_	_	_	_
+12	cái	cái	_	_	N	_	_	_	_
+13	đó	đó	_	_	PROPN	_	_	_	_
+14	trước	trước	_	_	ADJ	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s687
+# text = Vậy ông Chương đang có những gì và có thể mất gì?
+1	Vậy	Vậy	_	_	PROPN	_	_	_	_
+2	ông	ông	_	_	N	_	_	_	_
+3	Chương	Chương	_	_	N	_	_	_	_
+4	đang	đang	_	_	_	_	_	_	_
+5	có	có	_	_	V	_	_	_	_
+6	những	những	_	_	DET	_	_	_	_
+7	gì	gì	_	_	PROPN	_	_	_	_
+8	và	và	_	_	CONJ	_	_	_	_
+9	có thể	có thể	_	_	_	_	_	_	_
+10	mất	mất	_	_	V	_	_	_	_
+11	gì	gì	_	_	PROPN	_	_	_	_
+12	?	?	_	_	_	_	_	_	_
+
+# sent_id = train-s820
+# text = Bà chấm nước mắt: "có hai đứa con trai, nuôi cho lớn khôn rồi bây giờ như thế cả".
+1	Bà	Bà	_	_	N	_	_	_	_
+2	chấm	chấm	_	_	V	_	_	_	_
+3	nước mắt	nước mắt	_	_	N	_	_	_	_
+4	:	:	_	_	_	_	_	_	_
+5	"	"	_	_	_	_	_	_	_
+6	có	có	_	_	V	_	_	_	_
+7	hai	hai	_	_	NUM	_	_	_	_
+8	đứa	đứa	_	_	N	_	_	_	_
+9	con	con	_	_	N	_	_	_	_
+10	trai	trai	_	_	N	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	nuôi	nuôi	_	_	V	_	_	_	_
+13	cho	cho	_	_	ADP	_	_	_	_
+14	lớn khôn	lớn khôn	_	_	ADJ	_	_	_	_
+15	rồi	rồi	_	_	CONJ	_	_	_	_
+16	bây giờ	bây giờ	_	_	N	_	_	_	_
+17	như	như	_	_	CONJ	_	_	_	_
+18	thế	thế	_	_	PROPN	_	_	_	_
+19	cả	cả	_	_	PART	_	_	_	_
+20	"	"	_	_	_	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s404
+# text = Tôi nghĩ giải quyết được hết.
+1	Tôi	Tôi	_	_	N	_	_	_	_
+2	nghĩ	nghĩ	_	_	V	_	_	_	_
+3	giải quyết	giải quyết	_	_	V	_	_	_	_
+4	được	được	_	_	_	_	_	_	_
+5	hết	hết	_	_	PART	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s115
+# text = lũ bạn hảo hán của Tùng bỏ chạy hoặc câm như hến.
+1	lũ	lũ	_	_	N	_	_	_	_
+2	bạn	bạn	_	_	N	_	_	_	_
+3	hảo hán	hảo hán	_	_	N	_	_	_	_
+4	của	của	_	_	ADP	_	_	_	_
+5	Tùng	Tùng	_	_	N	_	_	_	_
+6	bỏ	bỏ	_	_	V	_	_	_	_
+7	chạy	chạy	_	_	V	_	_	_	_
+8	hoặc	hoặc	_	_	CONJ	_	_	_	_
+9	câm như hến	câm như hến	_	_	_	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s1029
+# text = Đó là chưa kể việc Liên có thể sụp đổ đến mức tự vẫn hay bỏ nhà, bỏ việc.
+1	Đó	Đó	_	_	PROPN	_	_	_	_
+2	là	là	_	_	V	_	_	_	_
+3	chưa	chưa	_	_	_	_	_	_	_
+4	kể	kể	_	_	V	_	_	_	_
+5	việc	việc	_	_	N	_	_	_	_
+6	Liên	Liên	_	_	N	_	_	_	_
+7	có thể	có thể	_	_	_	_	_	_	_
+8	sụp đổ	sụp đổ	_	_	V	_	_	_	_
+9	đến	đến	_	_	ADP	_	_	_	_
+10	mức	mức	_	_	N	_	_	_	_
+11	tự vẫn	tự vẫn	_	_	V	_	_	_	_
+12	hay	hay	_	_	CONJ	_	_	_	_
+13	bỏ	bỏ	_	_	V	_	_	_	_
+14	nhà	nhà	_	_	N	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	bỏ	bỏ	_	_	V	_	_	_	_
+17	việc	việc	_	_	N	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s35
+# text = tháng 3 - 2005 chúng tôi cùng hội Hữu nghị pháp - Việt sẽ tổ chức hội thảo quốc tế về chất độc da cam.
+1	tháng	tháng	_	_	N	_	_	_	_
+2	3	3	_	_	NUM	_	_	_	_
+3	-	-	_	_	_	_	_	_	_
+4	2005	2005	_	_	NUM	_	_	_	_
+5	chúng tôi	chúng tôi	_	_	PROPN	_	_	_	_
+6	cùng	cùng	_	_	CONJ	_	_	_	_
+7	hội	hội	_	_	N	_	_	_	_
+8	Hữu nghị	Hữu nghị	_	_	N	_	_	_	_
+9	pháp	pháp	_	_	N	_	_	_	_
+10	-	-	_	_	_	_	_	_	_
+11	Việt	Việt	_	_	N	_	_	_	_
+12	sẽ	sẽ	_	_	_	_	_	_	_
+13	tổ chức	tổ chức	_	_	V	_	_	_	_
+14	hội thảo	hội thảo	_	_	N	_	_	_	_
+15	quốc tế	quốc tế	_	_	N	_	_	_	_
+16	về	về	_	_	ADP	_	_	_	_
+17	chất độc	chất độc	_	_	N	_	_	_	_
+18	da cam	da cam	_	_	N	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s1071
+# text = "Liên đi ra ngoài chị ạ!".
+1	"	"	_	_	_	_	_	_	_
+2	Liên	Liên	_	_	N	_	_	_	_
+3	đi	đi	_	_	V	_	_	_	_
+4	ra	ra	_	_	V	_	_	_	_
+5	ngoài	ngoài	_	_	N	_	_	_	_
+6	chị	chị	_	_	N	_	_	_	_
+7	ạ	ạ	_	_	PART	_	_	_	_
+8	!	!	_	_	_	_	_	_	_
+9	"	"	_	_	_	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s390
+# text = nhóm giải pháp cuối cùng chú trọng tới các vấn đề nhân đạo và xây dựng lòng tin.
+1	nhóm	nhóm	_	_	N	_	_	_	_
+2	giải pháp	giải pháp	_	_	N	_	_	_	_
+3	cuối cùng	cuối cùng	_	_	ADJ	_	_	_	_
+4	chú trọng	chú trọng	_	_	V	_	_	_	_
+5	tới	tới	_	_	ADP	_	_	_	_
+6	các	các	_	_	DET	_	_	_	_
+7	vấn đề	vấn đề	_	_	N	_	_	_	_
+8	nhân đạo	nhân đạo	_	_	N	_	_	_	_
+9	và	và	_	_	CONJ	_	_	_	_
+10	xây dựng	xây dựng	_	_	V	_	_	_	_
+11	lòng	lòng	_	_	N	_	_	_	_
+12	tin	tin	_	_	N	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s83
+# text = hết giờ làm việc, anh lại xông ra đồng tỉa đậu, cho bò ăn, cuốc đất trồng cây...
+1	hết	hết	_	_	V	_	_	_	_
+2	giờ	giờ	_	_	N	_	_	_	_
+3	làm việc	làm việc	_	_	V	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	anh	anh	_	_	N	_	_	_	_
+6	lại	lại	_	_	_	_	_	_	_
+7	xông	xông	_	_	V	_	_	_	_
+8	ra	ra	_	_	V	_	_	_	_
+9	đồng	đồng	_	_	N	_	_	_	_
+10	tỉa	tỉa	_	_	V	_	_	_	_
+11	đậu	đậu	_	_	N	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	cho	cho	_	_	V	_	_	_	_
+14	bò	bò	_	_	N	_	_	_	_
+15	ăn	ăn	_	_	V	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	cuốc	cuốc	_	_	V	_	_	_	_
+18	đất	đất	_	_	N	_	_	_	_
+19	trồng	trồng	_	_	V	_	_	_	_
+20	cây	cây	_	_	N	_	_	_	_
+21	...	...	_	_	_	_	_	_	_
+
+# sent_id = train-s234
+# text = đổi hộ chiếu hả, hay làm giấy thông hành về nước?
+1	đổi	đổi	_	_	V	_	_	_	_
+2	hộ chiếu	hộ chiếu	_	_	N	_	_	_	_
+3	hả	hả	_	_	PART	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	hay	hay	_	_	CONJ	_	_	_	_
+6	làm	làm	_	_	V	_	_	_	_
+7	giấy thông hành	giấy thông hành	_	_	N	_	_	_	_
+8	về	về	_	_	V	_	_	_	_
+9	nước	nước	_	_	N	_	_	_	_
+10	?	?	_	_	_	_	_	_	_
+
+# sent_id = dev-s126
+# text = Mọi khoảng cách tan biến.
+1	Mọi	Mọi	_	_	DET	_	_	_	_
+2	khoảng cách	khoảng cách	_	_	N	_	_	_	_
+3	tan	tan	_	_	V	_	_	_	_
+4	biến	biến	_	_	V	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s66
+# text = hỏi về vết thương, cả hai tóm tắt: "anh Thanh bị cụt tay trong đợt tổng tấn công mùa xuân năm 1968".
+1	hỏi	hỏi	_	_	V	_	_	_	_
+2	về	về	_	_	ADP	_	_	_	_
+3	vết thương	vết thương	_	_	N	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	cả	cả	_	_	PROPN	_	_	_	_
+6	hai	hai	_	_	NUM	_	_	_	_
+7	tóm tắt	tóm tắt	_	_	V	_	_	_	_
+8	:	:	_	_	_	_	_	_	_
+9	"	"	_	_	_	_	_	_	_
+10	anh	anh	_	_	N	_	_	_	_
+11	Thanh	Thanh	_	_	N	_	_	_	_
+12	bị	bị	_	_	V	_	_	_	_
+13	cụt	cụt	_	_	V	_	_	_	_
+14	tay	tay	_	_	N	_	_	_	_
+15	trong	trong	_	_	ADP	_	_	_	_
+16	đợt	đợt	_	_	N	_	_	_	_
+17	tổng tấn công	tổng tấn công	_	_	V	_	_	_	_
+18	mùa	mùa	_	_	N	_	_	_	_
+19	xuân	xuân	_	_	N	_	_	_	_
+20	năm	năm	_	_	N	_	_	_	_
+21	1968	1968	_	_	NUM	_	_	_	_
+22	"	"	_	_	_	_	_	_	_
+23	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s269
+# text = Nhưng tại văn phòng ủy ban xã, ông Thân đã không ngần ngại thú nhận: "Tôi sai và ân hận vì việc mình đi chạy khen thưởng.
+1	Nhưng	Nhưng	_	_	CONJ	_	_	_	_
+2	tại	tại	_	_	ADP	_	_	_	_
+3	văn phòng	văn phòng	_	_	N	_	_	_	_
+4	ủy ban	ủy ban	_	_	N	_	_	_	_
+5	xã	xã	_	_	N	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	ông	ông	_	_	N	_	_	_	_
+8	Thân	Thân	_	_	N	_	_	_	_
+9	đã	đã	_	_	_	_	_	_	_
+10	không	không	_	_	NEG	_	_	_	_
+11	ngần ngại	ngần ngại	_	_	V	_	_	_	_
+12	thú nhận	thú nhận	_	_	V	_	_	_	_
+13	:	:	_	_	_	_	_	_	_
+14	"	"	_	_	_	_	_	_	_
+15	Tôi	Tôi	_	_	PROPN	_	_	_	_
+16	sai	sai	_	_	ADJ	_	_	_	_
+17	và	và	_	_	CONJ	_	_	_	_
+18	ân hận	ân hận	_	_	V	_	_	_	_
+19	vì	vì	_	_	ADP	_	_	_	_
+20	việc	việc	_	_	N	_	_	_	_
+21	mình	mình	_	_	PROPN	_	_	_	_
+22	đi	đi	_	_	V	_	_	_	_
+23	chạy	chạy	_	_	V	_	_	_	_
+24	khen thưởng	khen thưởng	_	_	V	_	_	_	_
+25	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s955
+# text = Nguyên kể về vụ cháy tại khoa thí nghiệm trường đại học y dược TP . HCM.
+1	Nguyên	Nguyên	_	_	N	_	_	_	_
+2	kể	kể	_	_	V	_	_	_	_
+3	về	về	_	_	ADP	_	_	_	_
+4	vụ	vụ	_	_	N	_	_	_	_
+5	cháy	cháy	_	_	V	_	_	_	_
+6	tại	tại	_	_	ADP	_	_	_	_
+7	khoa	khoa	_	_	N	_	_	_	_
+8	thí nghiệm	thí nghiệm	_	_	V	_	_	_	_
+9	trường	trường	_	_	N	_	_	_	_
+10	đại học	đại học	_	_	N	_	_	_	_
+11	y dược	y dược	_	_	N	_	_	_	_
+12	TP . HCM	TP . HCM	_	_	N	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s277
+# text = "Bác trả 1 , 5 triệu đồng, tôi sẽ nâng 31 % của bác lên 61 % ngay lập tức".
+1	"	"	_	_	_	_	_	_	_
+2	Bác	Bác	_	_	N	_	_	_	_
+3	trả	trả	_	_	V	_	_	_	_
+4	1 , 5 triệu	1 , 5 triệu	_	_	NUM	_	_	_	_
+5	đồng	đồng	_	_	N	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	tôi	tôi	_	_	PROPN	_	_	_	_
+8	sẽ	sẽ	_	_	_	_	_	_	_
+9	nâng	nâng	_	_	V	_	_	_	_
+10	31 %	31 %	_	_	NUM	_	_	_	_
+11	của	của	_	_	ADP	_	_	_	_
+12	bác	bác	_	_	N	_	_	_	_
+13	lên	lên	_	_	ADP	_	_	_	_
+14	61 %	61 %	_	_	NUM	_	_	_	_
+15	ngay lập tức	ngay lập tức	_	_	_	_	_	_	_
+16	"	"	_	_	_	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s128
+# text = từ đây mọi việc làm, suy nghĩ bình thường của Tùng, Tùng đều có thói quen xem xét lại...
+1	từ	từ	_	_	ADP	_	_	_	_
+2	đây	đây	_	_	PROPN	_	_	_	_
+3	mọi	mọi	_	_	DET	_	_	_	_
+4	việc làm	việc làm	_	_	N	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	suy nghĩ	suy nghĩ	_	_	N	_	_	_	_
+7	bình thường	bình thường	_	_	ADJ	_	_	_	_
+8	của	của	_	_	ADP	_	_	_	_
+9	Tùng	Tùng	_	_	N	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	Tùng	Tùng	_	_	N	_	_	_	_
+12	đều	đều	_	_	_	_	_	_	_
+13	có	có	_	_	V	_	_	_	_
+14	thói quen	thói quen	_	_	N	_	_	_	_
+15	xem xét	xem xét	_	_	V	_	_	_	_
+16	lại	lại	_	_	_	_	_	_	_
+17	...	...	_	_	_	_	_	_	_
+
+# sent_id = dev-s163
+# text = gắn hệ thống này vô máy xới tay chạy thử, anh lại nghĩ: "phải có cái rơmooc chứa lúa".
+1	gắn	gắn	_	_	V	_	_	_	_
+2	hệ thống	hệ thống	_	_	N	_	_	_	_
+3	này	này	_	_	PROPN	_	_	_	_
+4	vô	vô	_	_	ADP	_	_	_	_
+5	máy	máy	_	_	N	_	_	_	_
+6	xới	xới	_	_	V	_	_	_	_
+7	tay	tay	_	_	N	_	_	_	_
+8	chạy	chạy	_	_	V	_	_	_	_
+9	thử	thử	_	_	V	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	anh	anh	_	_	N	_	_	_	_
+12	lại	lại	_	_	_	_	_	_	_
+13	nghĩ	nghĩ	_	_	V	_	_	_	_
+14	:	:	_	_	_	_	_	_	_
+15	"	"	_	_	_	_	_	_	_
+16	phải	phải	_	_	V	_	_	_	_
+17	có	có	_	_	V	_	_	_	_
+18	cái	cái	_	_	N	_	_	_	_
+19	rơmooc	rơmooc	_	_	N	_	_	_	_
+20	chứa	chứa	_	_	V	_	_	_	_
+21	lúa	lúa	_	_	N	_	_	_	_
+22	"	"	_	_	_	_	_	_	_
+23	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s71
+# text = sự quản lý "mềm yếu".
+1	sự	sự	_	_	N	_	_	_	_
+2	quản lý	quản lý	_	_	V	_	_	_	_
+3	"	"	_	_	_	_	_	_	_
+4	mềm yếu	mềm yếu	_	_	ADJ	_	_	_	_
+5	"	"	_	_	_	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s121
+# text = có một thế hệ sinh viên đã vào trận như thế.
+1	có	có	_	_	V	_	_	_	_
+2	một	một	_	_	NUM	_	_	_	_
+3	thế hệ	thế hệ	_	_	N	_	_	_	_
+4	sinh viên	sinh viên	_	_	N	_	_	_	_
+5	đã	đã	_	_	_	_	_	_	_
+6	vào	vào	_	_	V	_	_	_	_
+7	trận	trận	_	_	N	_	_	_	_
+8	như	như	_	_	CONJ	_	_	_	_
+9	thế	thế	_	_	PROPN	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s1057
+# text = cầm điện thoại, Nhi thấy trên màn hình chữ nhấp nháy liên hồi.
+1	cầm	cầm	_	_	V	_	_	_	_
+2	điện thoại	điện thoại	_	_	N	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	Nhi	Nhi	_	_	N	_	_	_	_
+5	thấy	thấy	_	_	V	_	_	_	_
+6	trên	trên	_	_	ADP	_	_	_	_
+7	màn hình	màn hình	_	_	N	_	_	_	_
+8	chữ	chữ	_	_	N	_	_	_	_
+9	nhấp nháy	nhấp nháy	_	_	V	_	_	_	_
+10	liên hồi	liên hồi	_	_	ADJ	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s597
+# text = Ngay sau khi ống vỡ, 15 chàng "Yết Kiêu" LBKT đội thợ lặn của công ty Hồng Lĩnh RBKT đã có mặt... Khảo sát.
+1	Ngay	Ngay	_	_	PART	_	_	_	_
+2	sau	sau	_	_	ADP	_	_	_	_
+3	khi	khi	_	_	N	_	_	_	_
+4	ống	ống	_	_	N	_	_	_	_
+5	vỡ	vỡ	_	_	V	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	15	15	_	_	NUM	_	_	_	_
+8	chàng	chàng	_	_	N	_	_	_	_
+9	"	"	_	_	_	_	_	_	_
+10	Yết Kiêu	Yết Kiêu	_	_	N	_	_	_	_
+11	"	"	_	_	_	_	_	_	_
+12	LBKT	LBKT	_	_	_	_	_	_	_
+13	đội	đội	_	_	N	_	_	_	_
+14	thợ	thợ	_	_	N	_	_	_	_
+15	lặn	lặn	_	_	V	_	_	_	_
+16	của	của	_	_	ADP	_	_	_	_
+17	công ty	công ty	_	_	N	_	_	_	_
+18	Hồng Lĩnh	Hồng Lĩnh	_	_	N	_	_	_	_
+19	RBKT	RBKT	_	_	_	_	_	_	_
+20	đã	đã	_	_	_	_	_	_	_
+21	có mặt	có mặt	_	_	V	_	_	_	_
+22	...	...	_	_	_	_	_	_	_
+23	Khảo sát	Khảo sát	_	_	V	_	_	_	_
+24	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s512
+# text = tối 1 - 4 chúng tôi có mặt tại quốc lộ 51 hướng đi bà rịa - Vũng Tàu bằng xe tải nặng 54N-7...
+1	tối	tối	_	_	N	_	_	_	_
+2	1	1	_	_	NUM	_	_	_	_
+3	-	-	_	_	_	_	_	_	_
+4	4	4	_	_	NUM	_	_	_	_
+5	chúng tôi	chúng tôi	_	_	PROPN	_	_	_	_
+6	có mặt	có mặt	_	_	V	_	_	_	_
+7	tại	tại	_	_	ADP	_	_	_	_
+8	quốc lộ	quốc lộ	_	_	N	_	_	_	_
+9	51	51	_	_	NUM	_	_	_	_
+10	hướng	hướng	_	_	N	_	_	_	_
+11	đi	đi	_	_	V	_	_	_	_
+12	bà rịa	bà rịa	_	_	N	_	_	_	_
+13	-	-	_	_	_	_	_	_	_
+14	Vũng Tàu	Vũng Tàu	_	_	N	_	_	_	_
+15	bằng	bằng	_	_	ADP	_	_	_	_
+16	xe tải	xe tải	_	_	N	_	_	_	_
+17	nặng	nặng	_	_	ADJ	_	_	_	_
+18	54N-7	54N-7	_	_	N	_	_	_	_
+19	...	...	_	_	_	_	_	_	_
+
+# sent_id = train-s666
+# text = Những đứa trẻ chạy tung tăng trong con xóm nhỏ gọi nhau í ới bằng tiếng Việt, đôi lúc chúng lại pha tiếng Lào.
+1	Những	Những	_	_	DET	_	_	_	_
+2	đứa	đứa	_	_	N	_	_	_	_
+3	trẻ	trẻ	_	_	N	_	_	_	_
+4	chạy	chạy	_	_	V	_	_	_	_
+5	tung tăng	tung tăng	_	_	V	_	_	_	_
+6	trong	trong	_	_	ADP	_	_	_	_
+7	con	con	_	_	N	_	_	_	_
+8	xóm	xóm	_	_	N	_	_	_	_
+9	nhỏ	nhỏ	_	_	ADJ	_	_	_	_
+10	gọi	gọi	_	_	V	_	_	_	_
+11	nhau	nhau	_	_	N	_	_	_	_
+12	í ới	í ới	_	_	ADJ	_	_	_	_
+13	bằng	bằng	_	_	ADP	_	_	_	_
+14	tiếng	tiếng	_	_	N	_	_	_	_
+15	Việt	Việt	_	_	N	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	đôi	đôi	_	_	DET	_	_	_	_
+18	lúc	lúc	_	_	N	_	_	_	_
+19	chúng	chúng	_	_	PROPN	_	_	_	_
+20	lại	lại	_	_	_	_	_	_	_
+21	pha	pha	_	_	V	_	_	_	_
+22	tiếng	tiếng	_	_	N	_	_	_	_
+23	Lào	Lào	_	_	N	_	_	_	_
+24	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s405
+# text = Tuy nhiên ông Chương phải đánh dấu vị trí bì thư thật chính xác.
+1	Tuy nhiên	Tuy nhiên	_	_	CONJ	_	_	_	_
+2	ông	ông	_	_	N	_	_	_	_
+3	Chương	Chương	_	_	N	_	_	_	_
+4	phải	phải	_	_	V	_	_	_	_
+5	đánh dấu	đánh dấu	_	_	V	_	_	_	_
+6	vị trí	vị trí	_	_	N	_	_	_	_
+7	bì thư	bì thư	_	_	N	_	_	_	_
+8	thật	thật	_	_	PART	_	_	_	_
+9	chính xác	chính xác	_	_	ADJ	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s766
+# text = thấy cảnh mẹ con người ta ríu rít đưa nhau đến trường mà thèm.
+1	thấy	thấy	_	_	V	_	_	_	_
+2	cảnh	cảnh	_	_	N	_	_	_	_
+3	mẹ con	mẹ con	_	_	N	_	_	_	_
+4	người ta	người ta	_	_	PROPN	_	_	_	_
+5	ríu rít	ríu rít	_	_	ADJ	_	_	_	_
+6	đưa	đưa	_	_	V	_	_	_	_
+7	nhau	nhau	_	_	N	_	_	_	_
+8	đến	đến	_	_	ADP	_	_	_	_
+9	trường	trường	_	_	N	_	_	_	_
+10	mà	mà	_	_	CONJ	_	_	_	_
+11	thèm	thèm	_	_	V	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s160
+# text = Vậy thì sự lầm than hôm nay của nhóm công nhân bảo vệ cái thiện kia minh chứng cho điều gì?
+1	Vậy	Vậy	_	_	PART	_	_	_	_
+2	thì	thì	_	_	CONJ	_	_	_	_
+3	sự	sự	_	_	N	_	_	_	_
+4	lầm than	lầm than	_	_	ADJ	_	_	_	_
+5	hôm nay	hôm nay	_	_	N	_	_	_	_
+6	của	của	_	_	ADP	_	_	_	_
+7	nhóm	nhóm	_	_	N	_	_	_	_
+8	công nhân	công nhân	_	_	N	_	_	_	_
+9	bảo vệ	bảo vệ	_	_	V	_	_	_	_
+10	cái	cái	_	_	N	_	_	_	_
+11	thiện	thiện	_	_	ADJ	_	_	_	_
+12	kia	kia	_	_	PROPN	_	_	_	_
+13	minh chứng	minh chứng	_	_	V	_	_	_	_
+14	cho	cho	_	_	ADP	_	_	_	_
+15	điều	điều	_	_	N	_	_	_	_
+16	gì	gì	_	_	PROPN	_	_	_	_
+17	?	?	_	_	_	_	_	_	_
+
+# sent_id = train-s352
+# text = Nếu đơn vị đầu tư không cân nhắc, lựa chọn phương án an toàn tuyệt đối, để xảy ra hậu quả thì phải chịu trách nhiệm.
+1	Nếu	Nếu	_	_	CONJ	_	_	_	_
+2	đơn vị	đơn vị	_	_	N	_	_	_	_
+3	đầu tư	đầu tư	_	_	V	_	_	_	_
+4	không	không	_	_	NEG	_	_	_	_
+5	cân nhắc	cân nhắc	_	_	V	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	lựa chọn	lựa chọn	_	_	V	_	_	_	_
+8	phương án	phương án	_	_	N	_	_	_	_
+9	an toàn	an toàn	_	_	ADJ	_	_	_	_
+10	tuyệt đối	tuyệt đối	_	_	ADJ	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	để	để	_	_	V	_	_	_	_
+13	xảy	xảy	_	_	V	_	_	_	_
+14	ra	ra	_	_	_	_	_	_	_
+15	hậu quả	hậu quả	_	_	N	_	_	_	_
+16	thì	thì	_	_	CONJ	_	_	_	_
+17	phải	phải	_	_	V	_	_	_	_
+18	chịu	chịu	_	_	V	_	_	_	_
+19	trách nhiệm	trách nhiệm	_	_	N	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s228
+# text = phải mấy phút sau mới có một ông to cao đeo kính xuất hiện.
+1	phải	phải	_	_	V	_	_	_	_
+2	mấy	mấy	_	_	DET	_	_	_	_
+3	phút	phút	_	_	N	_	_	_	_
+4	sau	sau	_	_	N	_	_	_	_
+5	mới	mới	_	_	_	_	_	_	_
+6	có	có	_	_	V	_	_	_	_
+7	một	một	_	_	NUM	_	_	_	_
+8	ông	ông	_	_	N	_	_	_	_
+9	to	to	_	_	ADJ	_	_	_	_
+10	cao	cao	_	_	ADJ	_	_	_	_
+11	đeo	đeo	_	_	V	_	_	_	_
+12	kính	kính	_	_	N	_	_	_	_
+13	xuất hiện	xuất hiện	_	_	V	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s890
+# text = Ban đầu là một đoàn khách của cơ quan Nhu đến.
+1	Ban đầu	Ban đầu	_	_	N	_	_	_	_
+2	là	là	_	_	V	_	_	_	_
+3	một	một	_	_	NUM	_	_	_	_
+4	đoàn	đoàn	_	_	N	_	_	_	_
+5	khách	khách	_	_	N	_	_	_	_
+6	của	của	_	_	ADP	_	_	_	_
+7	cơ quan	cơ quan	_	_	N	_	_	_	_
+8	Nhu	Nhu	_	_	N	_	_	_	_
+9	đến	đến	_	_	V	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s471
+# text = ông Học sống tại văn phòng, đã có vợ và hai con trong miền Nam.
+1	ông	ông	_	_	N	_	_	_	_
+2	Học	Học	_	_	N	_	_	_	_
+3	sống	sống	_	_	V	_	_	_	_
+4	tại	tại	_	_	ADP	_	_	_	_
+5	văn phòng	văn phòng	_	_	N	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	đã	đã	_	_	_	_	_	_	_
+8	có	có	_	_	V	_	_	_	_
+9	vợ	vợ	_	_	N	_	_	_	_
+10	và	và	_	_	CONJ	_	_	_	_
+11	hai	hai	_	_	NUM	_	_	_	_
+12	con	con	_	_	N	_	_	_	_
+13	trong	trong	_	_	ADP	_	_	_	_
+14	miền	miền	_	_	N	_	_	_	_
+15	Nam	Nam	_	_	N	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s796
+# text = 8 g 20 ông già chạy xe ba gác chở thám tử Khoa đến nhà bà Sinh.
+1	8	8	_	_	NUM	_	_	_	_
+2	g	g	_	_	N	_	_	_	_
+3	20	20	_	_	NUM	_	_	_	_
+4	ông già	ông già	_	_	N	_	_	_	_
+5	chạy	chạy	_	_	V	_	_	_	_
+6	xe	xe	_	_	N	_	_	_	_
+7	ba gác	ba gác	_	_	N	_	_	_	_
+8	chở	chở	_	_	V	_	_	_	_
+9	thám tử	thám tử	_	_	N	_	_	_	_
+10	Khoa	Khoa	_	_	N	_	_	_	_
+11	đến	đến	_	_	ADP	_	_	_	_
+12	nhà	nhà	_	_	N	_	_	_	_
+13	bà	bà	_	_	N	_	_	_	_
+14	Sinh	Sinh	_	_	N	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s670
+# text = Hùng chọn bắn tin qua ông Học để tới tai vợ ông ta.
+1	Hùng	Hùng	_	_	N	_	_	_	_
+2	chọn	chọn	_	_	V	_	_	_	_
+3	bắn	bắn	_	_	V	_	_	_	_
+4	tin	tin	_	_	N	_	_	_	_
+5	qua	qua	_	_	ADP	_	_	_	_
+6	ông	ông	_	_	N	_	_	_	_
+7	Học	Học	_	_	N	_	_	_	_
+8	để	để	_	_	ADP	_	_	_	_
+9	tới	tới	_	_	V	_	_	_	_
+10	tai	tai	_	_	N	_	_	_	_
+11	vợ	vợ	_	_	N	_	_	_	_
+12	ông	ông	_	_	N	_	_	_	_
+13	ta	ta	_	_	PROPN	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s367
+# text = tinh thần của nghị quyết lần này có những điểm mới nổi bật nào so với các chính sách trước đây, thưa ông?
+1	tinh thần	tinh thần	_	_	N	_	_	_	_
+2	của	của	_	_	ADP	_	_	_	_
+3	nghị quyết	nghị quyết	_	_	N	_	_	_	_
+4	lần	lần	_	_	N	_	_	_	_
+5	này	này	_	_	PROPN	_	_	_	_
+6	có	có	_	_	V	_	_	_	_
+7	những	những	_	_	DET	_	_	_	_
+8	điểm	điểm	_	_	N	_	_	_	_
+9	mới	mới	_	_	_	_	_	_	_
+10	nổi bật	nổi bật	_	_	ADJ	_	_	_	_
+11	nào	nào	_	_	PROPN	_	_	_	_
+12	so	so	_	_	V	_	_	_	_
+13	với	với	_	_	ADP	_	_	_	_
+14	các	các	_	_	DET	_	_	_	_
+15	chính sách	chính sách	_	_	N	_	_	_	_
+16	trước	trước	_	_	ADJ	_	_	_	_
+17	đây	đây	_	_	PROPN	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	thưa	thưa	_	_	V	_	_	_	_
+20	ông	ông	_	_	N	_	_	_	_
+21	?	?	_	_	_	_	_	_	_
+
+# sent_id = dev-s533
+# text = số này là ở một buồng điện thoại công cộng trên đường Nguyễn Chí Thanh.
+1	số	số	_	_	N	_	_	_	_
+2	này	này	_	_	PROPN	_	_	_	_
+3	là	là	_	_	V	_	_	_	_
+4	ở	ở	_	_	ADP	_	_	_	_
+5	một	một	_	_	NUM	_	_	_	_
+6	buồng	buồng	_	_	N	_	_	_	_
+7	điện thoại	điện thoại	_	_	N	_	_	_	_
+8	công cộng	công cộng	_	_	ADJ	_	_	_	_
+9	trên	trên	_	_	ADP	_	_	_	_
+10	đường	đường	_	_	N	_	_	_	_
+11	Nguyễn Chí Thanh	Nguyễn Chí Thanh	_	_	N	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s51
+# text = khách mua cao thường là chỗ quen thân.
+1	khách	khách	_	_	N	_	_	_	_
+2	mua	mua	_	_	V	_	_	_	_
+3	cao	cao	_	_	N	_	_	_	_
+4	thường	thường	_	_	_	_	_	_	_
+5	là	là	_	_	V	_	_	_	_
+6	chỗ	chỗ	_	_	N	_	_	_	_
+7	quen thân	quen thân	_	_	ADJ	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s259
+# text = theo cơ quan điều tra, vụ việc sẽ không bị "chìm xuồng" như dư luận nghi vấn, nhưng chắc chắn sẽ không tận cùng như mong muốn.
+1	theo	theo	_	_	ADP	_	_	_	_
+2	cơ quan	cơ quan	_	_	N	_	_	_	_
+3	điều tra	điều tra	_	_	V	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	vụ việc	vụ việc	_	_	N	_	_	_	_
+6	sẽ	sẽ	_	_	_	_	_	_	_
+7	không	không	_	_	NEG	_	_	_	_
+8	bị	bị	_	_	V	_	_	_	_
+9	"	"	_	_	_	_	_	_	_
+10	chìm xuồng	chìm xuồng	_	_	_	_	_	_	_
+11	"	"	_	_	_	_	_	_	_
+12	như	như	_	_	CONJ	_	_	_	_
+13	dư luận	dư luận	_	_	N	_	_	_	_
+14	nghi vấn	nghi vấn	_	_	V	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	nhưng	nhưng	_	_	CONJ	_	_	_	_
+17	chắc chắn	chắc chắn	_	_	V	_	_	_	_
+18	sẽ	sẽ	_	_	_	_	_	_	_
+19	không	không	_	_	NEG	_	_	_	_
+20	tận cùng	tận cùng	_	_	ADJ	_	_	_	_
+21	như	như	_	_	CONJ	_	_	_	_
+22	mong muốn	mong muốn	_	_	V	_	_	_	_
+23	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s531
+# text = Cường phân tích nếu liên quan càng dễ tìm.
+1	Cường	Cường	_	_	N	_	_	_	_
+2	phân tích	phân tích	_	_	V	_	_	_	_
+3	nếu	nếu	_	_	CONJ	_	_	_	_
+4	liên quan	liên quan	_	_	V	_	_	_	_
+5	càng	càng	_	_	_	_	_	_	_
+6	dễ	dễ	_	_	ADJ	_	_	_	_
+7	tìm	tìm	_	_	V	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s478
+# text = chán thật! "và cũng của số máy lần trước.
+1	chán	chán	_	_	ADJ	_	_	_	_
+2	thật	thật	_	_	PART	_	_	_	_
+3	!	!	_	_	_	_	_	_	_
+4	"	"	_	_	_	_	_	_	_
+5	và	và	_	_	CONJ	_	_	_	_
+6	cũng	cũng	_	_	_	_	_	_	_
+7	của	của	_	_	ADP	_	_	_	_
+8	số	số	_	_	N	_	_	_	_
+9	máy	máy	_	_	N	_	_	_	_
+10	lần	lần	_	_	N	_	_	_	_
+11	trước	trước	_	_	ADJ	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s198
+# text = ông Trực nói tiếp: Dân gặp tôi kêu quá trời!
+1	ông	ông	_	_	N	_	_	_	_
+2	Trực	Trực	_	_	N	_	_	_	_
+3	nói	nói	_	_	V	_	_	_	_
+4	tiếp	tiếp	_	_	V	_	_	_	_
+5	:	:	_	_	_	_	_	_	_
+6	Dân	Dân	_	_	N	_	_	_	_
+7	gặp	gặp	_	_	V	_	_	_	_
+8	tôi	tôi	_	_	PROPN	_	_	_	_
+9	kêu	kêu	_	_	V	_	_	_	_
+10	quá trời	quá trời	_	_	_	_	_	_	_
+11	!	!	_	_	_	_	_	_	_
+
+# sent_id = dev-s646
+# text = Tóm lại ông không có mâu thuẫn với họ.
+1	Tóm lại	Tóm lại	_	_	CONJ	_	_	_	_
+2	ông	ông	_	_	N	_	_	_	_
+3	không	không	_	_	NEG	_	_	_	_
+4	có	có	_	_	V	_	_	_	_
+5	mâu thuẫn	mâu thuẫn	_	_	N	_	_	_	_
+6	với	với	_	_	ADP	_	_	_	_
+7	họ	họ	_	_	PROPN	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s461
+# text = muốn hết nghi thì phải làm rõ xem vợ ông có đúng thủ phạm không".
+1	muốn	muốn	_	_	V	_	_	_	_
+2	hết	hết	_	_	_	_	_	_	_
+3	nghi	nghi	_	_	V	_	_	_	_
+4	thì	thì	_	_	CONJ	_	_	_	_
+5	phải	phải	_	_	V	_	_	_	_
+6	làm	làm	_	_	V	_	_	_	_
+7	rõ	rõ	_	_	ADJ	_	_	_	_
+8	xem	xem	_	_	V	_	_	_	_
+9	vợ	vợ	_	_	N	_	_	_	_
+10	ông	ông	_	_	N	_	_	_	_
+11	có	có	_	_	V	_	_	_	_
+12	đúng	đúng	_	_	ADJ	_	_	_	_
+13	thủ phạm	thủ phạm	_	_	N	_	_	_	_
+14	không	không	_	_	NEG	_	_	_	_
+15	"	"	_	_	_	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s703
+# text = Công ty không có chủ trương đưa người Việt làm giám đốc.
+1	Công ty	Công ty	_	_	N	_	_	_	_
+2	không	không	_	_	NEG	_	_	_	_
+3	có	có	_	_	V	_	_	_	_
+4	chủ trương	chủ trương	_	_	N	_	_	_	_
+5	đưa	đưa	_	_	V	_	_	_	_
+6	người	người	_	_	N	_	_	_	_
+7	Việt	Việt	_	_	N	_	_	_	_
+8	làm	làm	_	_	V	_	_	_	_
+9	giám đốc	giám đốc	_	_	N	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s159
+# text = Và hôm nay, chúng ta cũng cần hỏi câu hỏi này với chính mình.
+1	Và	Và	_	_	CONJ	_	_	_	_
+2	hôm nay	hôm nay	_	_	N	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	chúng ta	chúng ta	_	_	PROPN	_	_	_	_
+5	cũng	cũng	_	_	_	_	_	_	_
+6	cần	cần	_	_	V	_	_	_	_
+7	hỏi	hỏi	_	_	V	_	_	_	_
+8	câu	câu	_	_	N	_	_	_	_
+9	hỏi	hỏi	_	_	V	_	_	_	_
+10	này	này	_	_	PROPN	_	_	_	_
+11	với	với	_	_	ADP	_	_	_	_
+12	chính	chính	_	_	PART	_	_	_	_
+13	mình	mình	_	_	PROPN	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s263
+# text = ông Quyền thú thật thẻ TB có được là nhờ một người trong xã làm hộ.
+1	ông	ông	_	_	N	_	_	_	_
+2	Quyền	Quyền	_	_	N	_	_	_	_
+3	thú thật	thú thật	_	_	V	_	_	_	_
+4	thẻ	thẻ	_	_	N	_	_	_	_
+5	TB	TB	_	_	N	_	_	_	_
+6	có	có	_	_	V	_	_	_	_
+7	được	được	_	_	_	_	_	_	_
+8	là	là	_	_	CONJ	_	_	_	_
+9	nhờ	nhờ	_	_	V	_	_	_	_
+10	một	một	_	_	NUM	_	_	_	_
+11	người	người	_	_	N	_	_	_	_
+12	trong	trong	_	_	ADP	_	_	_	_
+13	xã	xã	_	_	N	_	_	_	_
+14	làm	làm	_	_	V	_	_	_	_
+15	hộ	hộ	_	_	V	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s1346
+# text = Như bắt được vàng, Bình nhất quyết nói chờ lấy ngay hôm nay, kể cả đặt tiền trước.
+1	Như	Như	_	_	CONJ	_	_	_	_
+2	bắt	bắt	_	_	V	_	_	_	_
+3	được	được	_	_	V	_	_	_	_
+4	vàng	vàng	_	_	N	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	Bình	Bình	_	_	N	_	_	_	_
+7	nhất quyết	nhất quyết	_	_	ADJ	_	_	_	_
+8	nói	nói	_	_	V	_	_	_	_
+9	chờ	chờ	_	_	V	_	_	_	_
+10	lấy	lấy	_	_	V	_	_	_	_
+11	ngay	ngay	_	_	_	_	_	_	_
+12	hôm nay	hôm nay	_	_	N	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	kể cả	kể cả	_	_	_	_	_	_	_
+15	đặt	đặt	_	_	V	_	_	_	_
+16	tiền	tiền	_	_	N	_	_	_	_
+17	trước	trước	_	_	ADJ	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s138
+# text = Những lúc như thế này thì việc lý thú nhất vẫn là việc bắt muỗi bằng ngọn đèn làm bằng vỏ hộp Coca Cola Mỹ.
+1	Những	Những	_	_	DET	_	_	_	_
+2	lúc	lúc	_	_	N	_	_	_	_
+3	như	như	_	_	CONJ	_	_	_	_
+4	thế	thế	_	_	PROPN	_	_	_	_
+5	này	này	_	_	PROPN	_	_	_	_
+6	thì	thì	_	_	CONJ	_	_	_	_
+7	việc	việc	_	_	N	_	_	_	_
+8	lý thú	lý thú	_	_	ADJ	_	_	_	_
+9	nhất	nhất	_	_	ADJ	_	_	_	_
+10	vẫn	vẫn	_	_	_	_	_	_	_
+11	là	là	_	_	V	_	_	_	_
+12	việc	việc	_	_	N	_	_	_	_
+13	bắt	bắt	_	_	V	_	_	_	_
+14	muỗi	muỗi	_	_	N	_	_	_	_
+15	bằng	bằng	_	_	ADP	_	_	_	_
+16	ngọn	ngọn	_	_	N	_	_	_	_
+17	đèn	đèn	_	_	N	_	_	_	_
+18	làm	làm	_	_	V	_	_	_	_
+19	bằng	bằng	_	_	ADP	_	_	_	_
+20	vỏ	vỏ	_	_	N	_	_	_	_
+21	hộp	hộp	_	_	N	_	_	_	_
+22	Coca Cola Mỹ	Coca Cola Mỹ	_	_	N	_	_	_	_
+23	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s621
+# text = đến 4 giờ sáng, một người nhô lên mặt nước báo tin vui: đoạn ống đã được vá xong.
+1	đến	đến	_	_	ADP	_	_	_	_
+2	4	4	_	_	NUM	_	_	_	_
+3	giờ	giờ	_	_	N	_	_	_	_
+4	sáng	sáng	_	_	N	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	một	một	_	_	NUM	_	_	_	_
+7	người	người	_	_	N	_	_	_	_
+8	nhô	nhô	_	_	V	_	_	_	_
+9	lên	lên	_	_	_	_	_	_	_
+10	mặt nước	mặt nước	_	_	N	_	_	_	_
+11	báo	báo	_	_	V	_	_	_	_
+12	tin	tin	_	_	N	_	_	_	_
+13	vui	vui	_	_	V	_	_	_	_
+14	:	:	_	_	_	_	_	_	_
+15	đoạn	đoạn	_	_	N	_	_	_	_
+16	ống	ống	_	_	N	_	_	_	_
+17	đã	đã	_	_	_	_	_	_	_
+18	được	được	_	_	V	_	_	_	_
+19	vá	vá	_	_	V	_	_	_	_
+20	xong	xong	_	_	_	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s275
+# text = Dù công ty Tiếp thị được ưu đãi nhưng vốn cấp vẫn thiếu trong từng giai đoạn.
+1	Dù	Dù	_	_	CONJ	_	_	_	_
+2	công ty	công ty	_	_	N	_	_	_	_
+3	Tiếp thị	Tiếp thị	_	_	N	_	_	_	_
+4	được	được	_	_	V	_	_	_	_
+5	ưu đãi	ưu đãi	_	_	V	_	_	_	_
+6	nhưng	nhưng	_	_	CONJ	_	_	_	_
+7	vốn	vốn	_	_	N	_	_	_	_
+8	cấp	cấp	_	_	V	_	_	_	_
+9	vẫn	vẫn	_	_	_	_	_	_	_
+10	thiếu	thiếu	_	_	V	_	_	_	_
+11	trong	trong	_	_	ADP	_	_	_	_
+12	từng	từng	_	_	_	_	_	_	_
+13	giai đoạn	giai đoạn	_	_	N	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s616
+# text = Tuy nhiên hắn ta chỉ đạt được mục đích một...
+1	Tuy nhiên	Tuy nhiên	_	_	CONJ	_	_	_	_
+2	hắn	hắn	_	_	PROPN	_	_	_	_
+3	ta	ta	_	_	PROPN	_	_	_	_
+4	chỉ	chỉ	_	_	_	_	_	_	_
+5	đạt	đạt	_	_	V	_	_	_	_
+6	được	được	_	_	_	_	_	_	_
+7	mục đích	mục đích	_	_	N	_	_	_	_
+8	một	một	_	_	NUM	_	_	_	_
+9	...	...	_	_	_	_	_	_	_
+
+# sent_id = train-s1225
+# text = về phía Lan.
+1	về	về	_	_	ADP	_	_	_	_
+2	phía	phía	_	_	N	_	_	_	_
+3	Lan	Lan	_	_	N	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s110
+# text = Mãi mãi tuổi 20.
+1	Mãi mãi	Mãi mãi	_	_	_	_	_	_	_
+2	tuổi	tuổi	_	_	N	_	_	_	_
+3	20	20	_	_	NUM	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s218
+# text = bị cáo Lã Thị Kim Oanh khẳng định khoản vay của NH đều đi kèm với những dự án đầu tư hoặc kinh doanh cụ thể.
+1	bị cáo	bị cáo	_	_	N	_	_	_	_
+2	Lã Thị Kim Oanh	Lã Thị Kim Oanh	_	_	N	_	_	_	_
+3	khẳng định	khẳng định	_	_	V	_	_	_	_
+4	khoản	khoản	_	_	N	_	_	_	_
+5	vay	vay	_	_	V	_	_	_	_
+6	của	của	_	_	ADP	_	_	_	_
+7	NH	NH	_	_	N	_	_	_	_
+8	đều	đều	_	_	_	_	_	_	_
+9	đi	đi	_	_	V	_	_	_	_
+10	kèm	kèm	_	_	V	_	_	_	_
+11	với	với	_	_	CONJ	_	_	_	_
+12	những	những	_	_	DET	_	_	_	_
+13	dự án	dự án	_	_	N	_	_	_	_
+14	đầu tư	đầu tư	_	_	V	_	_	_	_
+15	hoặc	hoặc	_	_	CONJ	_	_	_	_
+16	kinh doanh	kinh doanh	_	_	V	_	_	_	_
+17	cụ thể	cụ thể	_	_	ADJ	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s775
+# text = mái nhà, hạt gạo giữa Trường Sơn.
+1	mái	mái	_	_	N	_	_	_	_
+2	nhà	nhà	_	_	N	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	hạt	hạt	_	_	N	_	_	_	_
+5	gạo	gạo	_	_	N	_	_	_	_
+6	giữa	giữa	_	_	ADP	_	_	_	_
+7	Trường Sơn	Trường Sơn	_	_	N	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s153
+# text = anh Tư bảo ở xứ "khỉ ho cò gáy" này tới mùa thu hoạch tìm nhân công khó như hái sao trên trời vậy.
+1	anh	anh	_	_	N	_	_	_	_
+2	Tư	Tư	_	_	N	_	_	_	_
+3	bảo	bảo	_	_	V	_	_	_	_
+4	ở	ở	_	_	ADP	_	_	_	_
+5	xứ	xứ	_	_	N	_	_	_	_
+6	"	"	_	_	_	_	_	_	_
+7	khỉ ho cò gáy	khỉ ho cò gáy	_	_	_	_	_	_	_
+8	"	"	_	_	_	_	_	_	_
+9	này	này	_	_	PROPN	_	_	_	_
+10	tới	tới	_	_	V	_	_	_	_
+11	mùa	mùa	_	_	N	_	_	_	_
+12	thu hoạch	thu hoạch	_	_	V	_	_	_	_
+13	tìm	tìm	_	_	V	_	_	_	_
+14	nhân công	nhân công	_	_	N	_	_	_	_
+15	khó	khó	_	_	ADJ	_	_	_	_
+16	như	như	_	_	CONJ	_	_	_	_
+17	hái	hái	_	_	V	_	_	_	_
+18	sao	sao	_	_	N	_	_	_	_
+19	trên	trên	_	_	ADP	_	_	_	_
+20	trời	trời	_	_	N	_	_	_	_
+21	vậy	vậy	_	_	PART	_	_	_	_
+22	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s476
+# text = trạm 20 đóng tại km 91, quốc lộ 20, huyện Định Quán, Đồng Nai.
+1	trạm	trạm	_	_	N	_	_	_	_
+2	20	20	_	_	NUM	_	_	_	_
+3	đóng	đóng	_	_	V	_	_	_	_
+4	tại	tại	_	_	ADP	_	_	_	_
+5	km	km	_	_	N	_	_	_	_
+6	91	91	_	_	NUM	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	quốc lộ	quốc lộ	_	_	N	_	_	_	_
+9	20	20	_	_	NUM	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	huyện	huyện	_	_	N	_	_	_	_
+12	Định Quán	Định Quán	_	_	N	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	Đồng Nai	Đồng Nai	_	_	N	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s36
+# text = Chủ trương tốt nhưng dân không hiểu, không hưởng ứng thì cũng chịu thua!
+1	Chủ trương	Chủ trương	_	_	N	_	_	_	_
+2	tốt	tốt	_	_	ADJ	_	_	_	_
+3	nhưng	nhưng	_	_	CONJ	_	_	_	_
+4	dân	dân	_	_	N	_	_	_	_
+5	không	không	_	_	NEG	_	_	_	_
+6	hiểu	hiểu	_	_	V	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	không	không	_	_	NEG	_	_	_	_
+9	hưởng ứng	hưởng ứng	_	_	V	_	_	_	_
+10	thì	thì	_	_	CONJ	_	_	_	_
+11	cũng	cũng	_	_	_	_	_	_	_
+12	chịu thua	chịu thua	_	_	V	_	_	_	_
+13	!	!	_	_	_	_	_	_	_
+
+# sent_id = dev-s329
+# text = Em về xác minh lý lịch nó.
+1	Em	Em	_	_	N	_	_	_	_
+2	về	về	_	_	V	_	_	_	_
+3	xác minh	xác minh	_	_	V	_	_	_	_
+4	lý lịch	lý lịch	_	_	N	_	_	_	_
+5	nó	nó	_	_	PROPN	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s588
+# text = về với bà Liễu, ông trằn trọc rất nhiều đêm mà không biết sẽ nói thế nào cho bà hiểu.
+1	về	về	_	_	V	_	_	_	_
+2	với	với	_	_	ADP	_	_	_	_
+3	bà	bà	_	_	N	_	_	_	_
+4	Liễu	Liễu	_	_	N	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	ông	ông	_	_	PROPN	_	_	_	_
+7	trằn trọc	trằn trọc	_	_	V	_	_	_	_
+8	rất	rất	_	_	_	_	_	_	_
+9	nhiều	nhiều	_	_	ADJ	_	_	_	_
+10	đêm	đêm	_	_	N	_	_	_	_
+11	mà	mà	_	_	CONJ	_	_	_	_
+12	không	không	_	_	NEG	_	_	_	_
+13	biết	biết	_	_	V	_	_	_	_
+14	sẽ	sẽ	_	_	_	_	_	_	_
+15	nói	nói	_	_	V	_	_	_	_
+16	thế nào	thế nào	_	_	PROPN	_	_	_	_
+17	cho	cho	_	_	ADP	_	_	_	_
+18	bà	bà	_	_	N	_	_	_	_
+19	hiểu	hiểu	_	_	V	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s535
+# text = cuộc chạm trán bất ngờ.
+1	cuộc	cuộc	_	_	N	_	_	_	_
+2	chạm trán	chạm trán	_	_	V	_	_	_	_
+3	bất ngờ	bất ngờ	_	_	ADJ	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s542
+# text = Nhưng Thu đã vội vàng dập máy và không báo gì.
+1	Nhưng	Nhưng	_	_	CONJ	_	_	_	_
+2	Thu	Thu	_	_	N	_	_	_	_
+3	đã	đã	_	_	_	_	_	_	_
+4	vội vàng	vội vàng	_	_	V	_	_	_	_
+5	dập	dập	_	_	V	_	_	_	_
+6	máy	máy	_	_	N	_	_	_	_
+7	và	và	_	_	CONJ	_	_	_	_
+8	không	không	_	_	NEG	_	_	_	_
+9	báo	báo	_	_	V	_	_	_	_
+10	gì	gì	_	_	PROPN	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s686
+# text = Bất ngờ, thư ký Hoa đi vào, nói nhỏ gì đó với giám đốc khiến ông chùng xuống và tuyên bố hoãn họp.
+1	Bất ngờ	Bất ngờ	_	_	ADJ	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	thư ký	thư ký	_	_	N	_	_	_	_
+4	Hoa	Hoa	_	_	N	_	_	_	_
+5	đi	đi	_	_	V	_	_	_	_
+6	vào	vào	_	_	V	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	nói nhỏ	nói nhỏ	_	_	V	_	_	_	_
+9	gì	gì	_	_	PROPN	_	_	_	_
+10	đó	đó	_	_	PROPN	_	_	_	_
+11	với	với	_	_	ADP	_	_	_	_
+12	giám đốc	giám đốc	_	_	N	_	_	_	_
+13	khiến	khiến	_	_	V	_	_	_	_
+14	ông	ông	_	_	N	_	_	_	_
+15	chùng	chùng	_	_	V	_	_	_	_
+16	xuống	xuống	_	_	V	_	_	_	_
+17	và	và	_	_	CONJ	_	_	_	_
+18	tuyên bố	tuyên bố	_	_	V	_	_	_	_
+19	hoãn	hoãn	_	_	V	_	_	_	_
+20	họp	họp	_	_	V	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s218
+# text = hải và bố mẹ ngày trước ở chung với ông bà trên đường Bưởi và người bạn nọ quen biết Hải trong thời kỳ Hải ở đó.
+1	hải	hải	_	_	N	_	_	_	_
+2	và	và	_	_	CONJ	_	_	_	_
+3	bố mẹ	bố mẹ	_	_	N	_	_	_	_
+4	ngày	ngày	_	_	N	_	_	_	_
+5	trước	trước	_	_	ADJ	_	_	_	_
+6	ở	ở	_	_	V	_	_	_	_
+7	chung	chung	_	_	ADJ	_	_	_	_
+8	với	với	_	_	ADP	_	_	_	_
+9	ông bà	ông bà	_	_	N	_	_	_	_
+10	trên	trên	_	_	ADP	_	_	_	_
+11	đường	đường	_	_	N	_	_	_	_
+12	Bưởi	Bưởi	_	_	N	_	_	_	_
+13	và	và	_	_	CONJ	_	_	_	_
+14	người	người	_	_	N	_	_	_	_
+15	bạn	bạn	_	_	N	_	_	_	_
+16	nọ	nọ	_	_	PROPN	_	_	_	_
+17	quen biết	quen biết	_	_	V	_	_	_	_
+18	Hải	Hải	_	_	N	_	_	_	_
+19	trong	trong	_	_	ADP	_	_	_	_
+20	thời kỳ	thời kỳ	_	_	N	_	_	_	_
+21	Hải	Hải	_	_	N	_	_	_	_
+22	ở	ở	_	_	V	_	_	_	_
+23	đó	đó	_	_	PROPN	_	_	_	_
+24	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s617
+# text = tiến đến phố Huế, hắn rẽ vào đường Lý Thường Kiệt và chui vào một nhà hàng.
+1	tiến	tiến	_	_	V	_	_	_	_
+2	đến	đến	_	_	ADP	_	_	_	_
+3	phố	phố	_	_	N	_	_	_	_
+4	Huế	Huế	_	_	N	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	hắn	hắn	_	_	PROPN	_	_	_	_
+7	rẽ	rẽ	_	_	V	_	_	_	_
+8	vào	vào	_	_	ADP	_	_	_	_
+9	đường	đường	_	_	N	_	_	_	_
+10	Lý Thường Kiệt	Lý Thường Kiệt	_	_	N	_	_	_	_
+11	và	và	_	_	CONJ	_	_	_	_
+12	chui	chui	_	_	V	_	_	_	_
+13	vào	vào	_	_	ADP	_	_	_	_
+14	một	một	_	_	NUM	_	_	_	_
+15	nhà hàng	nhà hàng	_	_	N	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s463
+# text = Hùng xin một tuần suy nghĩ rồi sẽ gặp lại ông Chương.
+1	Hùng	Hùng	_	_	N	_	_	_	_
+2	xin	xin	_	_	V	_	_	_	_
+3	một	một	_	_	NUM	_	_	_	_
+4	tuần	tuần	_	_	N	_	_	_	_
+5	suy nghĩ	suy nghĩ	_	_	V	_	_	_	_
+6	rồi	rồi	_	_	CONJ	_	_	_	_
+7	sẽ	sẽ	_	_	_	_	_	_	_
+8	gặp	gặp	_	_	V	_	_	_	_
+9	lại	lại	_	_	_	_	_	_	_
+10	ông	ông	_	_	N	_	_	_	_
+11	Chương	Chương	_	_	N	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s178
+# text = Nhưng những người hàng xóm lân cận thì lại nói nhiều.
+1	Nhưng	Nhưng	_	_	CONJ	_	_	_	_
+2	những	những	_	_	DET	_	_	_	_
+3	người	người	_	_	N	_	_	_	_
+4	hàng xóm	hàng xóm	_	_	N	_	_	_	_
+5	lân cận	lân cận	_	_	ADJ	_	_	_	_
+6	thì	thì	_	_	CONJ	_	_	_	_
+7	lại	lại	_	_	_	_	_	_	_
+8	nói	nói	_	_	V	_	_	_	_
+9	nhiều	nhiều	_	_	ADJ	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s661
+# text = giữ hồn Việt.
+1	giữ	giữ	_	_	V	_	_	_	_
+2	hồn	hồn	_	_	N	_	_	_	_
+3	Việt	Việt	_	_	N	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s803
+# text = bác sĩ rất thoải mái, ông nói rành rọt về bệnh của bà Sinh và sự bó tay của y học trước căn bệnh này.
+1	bác sĩ	bác sĩ	_	_	N	_	_	_	_
+2	rất	rất	_	_	_	_	_	_	_
+3	thoải mái	thoải mái	_	_	ADJ	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	ông	ông	_	_	N	_	_	_	_
+6	nói	nói	_	_	V	_	_	_	_
+7	rành rọt	rành rọt	_	_	ADJ	_	_	_	_
+8	về	về	_	_	ADP	_	_	_	_
+9	bệnh	bệnh	_	_	N	_	_	_	_
+10	của	của	_	_	ADP	_	_	_	_
+11	bà	bà	_	_	N	_	_	_	_
+12	Sinh	Sinh	_	_	N	_	_	_	_
+13	và	và	_	_	CONJ	_	_	_	_
+14	sự	sự	_	_	N	_	_	_	_
+15	bó tay	bó tay	_	_	N	_	_	_	_
+16	của	của	_	_	ADP	_	_	_	_
+17	y học	y học	_	_	N	_	_	_	_
+18	trước	trước	_	_	ADP	_	_	_	_
+19	căn bệnh	căn bệnh	_	_	N	_	_	_	_
+20	này	này	_	_	PROPN	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s566
+# text = "khi nào" phụp "với nhau LBKT hai đoạn địa đạo thông nhau RBKT thì miệng thí được lấp lại.
+1	"	"	_	_	_	_	_	_	_
+2	khi	khi	_	_	N	_	_	_	_
+3	nào	nào	_	_	PROPN	_	_	_	_
+4	"	"	_	_	_	_	_	_	_
+5	phụp	phụp	_	_	V	_	_	_	_
+6	"	"	_	_	_	_	_	_	_
+7	với	với	_	_	ADP	_	_	_	_
+8	nhau	nhau	_	_	N	_	_	_	_
+9	LBKT	LBKT	_	_	_	_	_	_	_
+10	hai	hai	_	_	NUM	_	_	_	_
+11	đoạn	đoạn	_	_	N	_	_	_	_
+12	địa đạo	địa đạo	_	_	N	_	_	_	_
+13	thông	thông	_	_	V	_	_	_	_
+14	nhau	nhau	_	_	N	_	_	_	_
+15	RBKT	RBKT	_	_	_	_	_	_	_
+16	thì	thì	_	_	CONJ	_	_	_	_
+17	miệng	miệng	_	_	N	_	_	_	_
+18	thí	thí	_	_	N	_	_	_	_
+19	được	được	_	_	V	_	_	_	_
+20	lấp	lấp	_	_	V	_	_	_	_
+21	lại	lại	_	_	_	_	_	_	_
+22	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s204
+# text = nhờ có trình độ văn hóa lớp 10, sau đó ông được đưa sang học ở Liên Xô chuyên ngành phòng cháy chữa cháy LBKT PCCC RBKT.
+1	nhờ	nhờ	_	_	V	_	_	_	_
+2	có	có	_	_	V	_	_	_	_
+3	trình độ	trình độ	_	_	N	_	_	_	_
+4	văn hóa	văn hóa	_	_	N	_	_	_	_
+5	lớp	lớp	_	_	N	_	_	_	_
+6	10	10	_	_	NUM	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	sau	sau	_	_	ADP	_	_	_	_
+9	đó	đó	_	_	PROPN	_	_	_	_
+10	ông	ông	_	_	N	_	_	_	_
+11	được	được	_	_	V	_	_	_	_
+12	đưa	đưa	_	_	V	_	_	_	_
+13	sang	sang	_	_	_	_	_	_	_
+14	học	học	_	_	V	_	_	_	_
+15	ở	ở	_	_	ADP	_	_	_	_
+16	Liên Xô	Liên Xô	_	_	N	_	_	_	_
+17	chuyên ngành	chuyên ngành	_	_	N	_	_	_	_
+18	phòng	phòng	_	_	V	_	_	_	_
+19	cháy	cháy	_	_	V	_	_	_	_
+20	chữa	chữa	_	_	V	_	_	_	_
+21	cháy	cháy	_	_	V	_	_	_	_
+22	LBKT	LBKT	_	_	_	_	_	_	_
+23	PCCC	PCCC	_	_	V	_	_	_	_
+24	RBKT	RBKT	_	_	_	_	_	_	_
+25	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s145
+# text = Liệu công trình này có đáng là công trình mẫu?
+1	Liệu	Liệu	_	_	V	_	_	_	_
+2	công trình	công trình	_	_	N	_	_	_	_
+3	này	này	_	_	PROPN	_	_	_	_
+4	có	có	_	_	V	_	_	_	_
+5	đáng	đáng	_	_	V	_	_	_	_
+6	là	là	_	_	CONJ	_	_	_	_
+7	công trình	công trình	_	_	N	_	_	_	_
+8	mẫu	mẫu	_	_	N	_	_	_	_
+9	?	?	_	_	_	_	_	_	_
+
+# sent_id = dev-s161
+# text = khi máy xới vận hành, hệ thống dây trân này sẽ xoay theo.
+1	khi	khi	_	_	N	_	_	_	_
+2	máy	máy	_	_	N	_	_	_	_
+3	xới	xới	_	_	V	_	_	_	_
+4	vận hành	vận hành	_	_	V	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	hệ thống	hệ thống	_	_	N	_	_	_	_
+7	dây	dây	_	_	N	_	_	_	_
+8	trân	trân	_	_	N	_	_	_	_
+9	này	này	_	_	PROPN	_	_	_	_
+10	sẽ	sẽ	_	_	_	_	_	_	_
+11	xoay	xoay	_	_	V	_	_	_	_
+12	theo	theo	_	_	V	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s1150
+# text = Họ quyết tâm đưa chúng ta làm bia đỡ đạn cho họ.
+1	Họ	Họ	_	_	PROPN	_	_	_	_
+2	quyết tâm	quyết tâm	_	_	V	_	_	_	_
+3	đưa	đưa	_	_	V	_	_	_	_
+4	chúng ta	chúng ta	_	_	PROPN	_	_	_	_
+5	làm	làm	_	_	V	_	_	_	_
+6	bia	bia	_	_	N	_	_	_	_
+7	đỡ	đỡ	_	_	V	_	_	_	_
+8	đạn	đạn	_	_	N	_	_	_	_
+9	cho	cho	_	_	ADP	_	_	_	_
+10	họ	họ	_	_	PROPN	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s525
+# text = nhân vật mới tên là bà Nhu.
+1	nhân vật	nhân vật	_	_	N	_	_	_	_
+2	mới	mới	_	_	ADJ	_	_	_	_
+3	tên	tên	_	_	N	_	_	_	_
+4	là	là	_	_	V	_	_	_	_
+5	bà	bà	_	_	N	_	_	_	_
+6	Nhu	Nhu	_	_	N	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s870
+# text = mưa từ trên trời mưa xuống mà...".
+1	mưa	mưa	_	_	N	_	_	_	_
+2	từ	từ	_	_	ADP	_	_	_	_
+3	trên	trên	_	_	ADP	_	_	_	_
+4	trời	trời	_	_	N	_	_	_	_
+5	mưa	mưa	_	_	V	_	_	_	_
+6	xuống	xuống	_	_	V	_	_	_	_
+7	mà	mà	_	_	CONJ	_	_	_	_
+8	...	...	_	_	_	_	_	_	_
+9	"	"	_	_	_	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s71
+# text = Mình còn sống.
+1	Mình	Mình	_	_	PROPN	_	_	_	_
+2	còn	còn	_	_	_	_	_	_	_
+3	sống	sống	_	_	V	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s271
+# text = Vẫn viện kiểm sát: "Bộ có chủ trương cho thứ trưởng ký xác nhận vào công văn công ty tiếp thị không?".
+1	Vẫn	Vẫn	_	_	_	_	_	_	_
+2	viện kiểm sát	viện kiểm sát	_	_	N	_	_	_	_
+3	:	:	_	_	_	_	_	_	_
+4	"	"	_	_	_	_	_	_	_
+5	Bộ	Bộ	_	_	N	_	_	_	_
+6	có	có	_	_	V	_	_	_	_
+7	chủ trương	chủ trương	_	_	V	_	_	_	_
+8	cho	cho	_	_	V	_	_	_	_
+9	thứ trưởng	thứ trưởng	_	_	N	_	_	_	_
+10	ký	ký	_	_	V	_	_	_	_
+11	xác nhận	xác nhận	_	_	N	_	_	_	_
+12	vào	vào	_	_	ADP	_	_	_	_
+13	công văn	công văn	_	_	N	_	_	_	_
+14	công ty	công ty	_	_	N	_	_	_	_
+15	tiếp thị	tiếp thị	_	_	N	_	_	_	_
+16	không	không	_	_	NEG	_	_	_	_
+17	?	?	_	_	_	_	_	_	_
+18	"	"	_	_	_	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s480
+# text = thu một lần nữa hốt hoảng. bối rối và chị lại nói không biết.
+1	thu	thu	_	_	N	_	_	_	_
+2	một	một	_	_	NUM	_	_	_	_
+3	lần	lần	_	_	N	_	_	_	_
+4	nữa	nữa	_	_	_	_	_	_	_
+5	hốt hoảng	hốt hoảng	_	_	ADJ	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+7	bối rối	bối rối	_	_	ADJ	_	_	_	_
+8	và	và	_	_	CONJ	_	_	_	_
+9	chị	chị	_	_	N	_	_	_	_
+10	lại	lại	_	_	_	_	_	_	_
+11	nói	nói	_	_	V	_	_	_	_
+12	không	không	_	_	NEG	_	_	_	_
+13	biết	biết	_	_	V	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s540
+# text = Bà tươi cười: "em đây, vợ anh đây!
+1	Bà	Bà	_	_	N	_	_	_	_
+2	tươi cười	tươi cười	_	_	ADJ	_	_	_	_
+3	:	:	_	_	_	_	_	_	_
+4	"	"	_	_	_	_	_	_	_
+5	em	em	_	_	N	_	_	_	_
+6	đây	đây	_	_	PROPN	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	vợ	vợ	_	_	N	_	_	_	_
+9	anh	anh	_	_	N	_	_	_	_
+10	đây	đây	_	_	PROPN	_	_	_	_
+11	!	!	_	_	_	_	_	_	_
+
+# sent_id = train-s1172
+# text = Thắng gõ cửa, bà già giúp việc ra đón.
+1	Thắng	Thắng	_	_	N	_	_	_	_
+2	gõ cửa	gõ cửa	_	_	V	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	bà già	bà già	_	_	N	_	_	_	_
+5	giúp việc	giúp việc	_	_	V	_	_	_	_
+6	ra	ra	_	_	V	_	_	_	_
+7	đón	đón	_	_	V	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s889
+# text = Tám ngày liền như vậy, hợp đồng của Thư tưởng như chấm dứt thì buổi chiều định mệnh ập đến.
+1	Tám	Tám	_	_	NUM	_	_	_	_
+2	ngày	ngày	_	_	N	_	_	_	_
+3	liền	liền	_	_	_	_	_	_	_
+4	như vậy	như vậy	_	_	_	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	hợp đồng	hợp đồng	_	_	N	_	_	_	_
+7	của	của	_	_	ADP	_	_	_	_
+8	Thư	Thư	_	_	N	_	_	_	_
+9	tưởng	tưởng	_	_	V	_	_	_	_
+10	như	như	_	_	CONJ	_	_	_	_
+11	chấm dứt	chấm dứt	_	_	V	_	_	_	_
+12	thì	thì	_	_	CONJ	_	_	_	_
+13	buổi	buổi	_	_	N	_	_	_	_
+14	chiều	chiều	_	_	N	_	_	_	_
+15	định mệnh	định mệnh	_	_	N	_	_	_	_
+16	ập	ập	_	_	V	_	_	_	_
+17	đến	đến	_	_	V	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s753
+# text = Tuy nhiên nhân viên hãng bảo hiểm nhận thấy có dấu hiệu không minh bạch từ cái chết này.
+1	Tuy nhiên	Tuy nhiên	_	_	CONJ	_	_	_	_
+2	nhân viên	nhân viên	_	_	N	_	_	_	_
+3	hãng	hãng	_	_	N	_	_	_	_
+4	bảo hiểm	bảo hiểm	_	_	N	_	_	_	_
+5	nhận	nhận	_	_	V	_	_	_	_
+6	thấy	thấy	_	_	V	_	_	_	_
+7	có	có	_	_	V	_	_	_	_
+8	dấu hiệu	dấu hiệu	_	_	N	_	_	_	_
+9	không	không	_	_	NEG	_	_	_	_
+10	minh bạch	minh bạch	_	_	ADJ	_	_	_	_
+11	từ	từ	_	_	ADP	_	_	_	_
+12	cái	cái	_	_	N	_	_	_	_
+13	chết	chết	_	_	V	_	_	_	_
+14	này	này	_	_	N	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s498
+# text = người quen duy nhất của cô chính là ông Chương.
+1	người	người	_	_	N	_	_	_	_
+2	quen	quen	_	_	ADJ	_	_	_	_
+3	duy nhất	duy nhất	_	_	ADJ	_	_	_	_
+4	của	của	_	_	ADP	_	_	_	_
+5	cô	cô	_	_	N	_	_	_	_
+6	chính	chính	_	_	PART	_	_	_	_
+7	là	là	_	_	V	_	_	_	_
+8	ông	ông	_	_	N	_	_	_	_
+9	Chương	Chương	_	_	N	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s112
+# text = buổi sáng hôm ấy ràn rạt gió Lào, nhang trên đài tưởng niệm thắp xong cứ cháy bùng lên thành lửa ngọn.
+1	buổi	buổi	_	_	N	_	_	_	_
+2	sáng	sáng	_	_	N	_	_	_	_
+3	hôm	hôm	_	_	N	_	_	_	_
+4	ấy	ấy	_	_	PROPN	_	_	_	_
+5	ràn rạt	ràn rạt	_	_	ADJ	_	_	_	_
+6	gió Lào	gió Lào	_	_	N	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	nhang	nhang	_	_	N	_	_	_	_
+9	trên	trên	_	_	ADP	_	_	_	_
+10	đài	đài	_	_	N	_	_	_	_
+11	tưởng niệm	tưởng niệm	_	_	V	_	_	_	_
+12	thắp	thắp	_	_	V	_	_	_	_
+13	xong	xong	_	_	_	_	_	_	_
+14	cứ	cứ	_	_	_	_	_	_	_
+15	cháy	cháy	_	_	V	_	_	_	_
+16	bùng	bùng	_	_	V	_	_	_	_
+17	lên	lên	_	_	_	_	_	_	_
+18	thành	thành	_	_	V	_	_	_	_
+19	lửa	lửa	_	_	N	_	_	_	_
+20	ngọn	ngọn	_	_	N	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s425
+# text = ai mua vài trăm chiếc chỉ có cách mua lại của các chủ hàng VN.
+1	ai	ai	_	_	PROPN	_	_	_	_
+2	mua	mua	_	_	V	_	_	_	_
+3	vài	vài	_	_	DET	_	_	_	_
+4	trăm	trăm	_	_	NUM	_	_	_	_
+5	chiếc	chiếc	_	_	N	_	_	_	_
+6	chỉ	chỉ	_	_	_	_	_	_	_
+7	có	có	_	_	V	_	_	_	_
+8	cách	cách	_	_	N	_	_	_	_
+9	mua	mua	_	_	V	_	_	_	_
+10	lại	lại	_	_	_	_	_	_	_
+11	của	của	_	_	ADP	_	_	_	_
+12	các	các	_	_	DET	_	_	_	_
+13	chủ	chủ	_	_	N	_	_	_	_
+14	hàng	hàng	_	_	N	_	_	_	_
+15	VN	VN	_	_	N	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s256
+# text = ông Hải cũng chỉ đạo sở GTCC báo cáo về xử lý tiêu cực ở công trình này.
+1	ông	ông	_	_	N	_	_	_	_
+2	Hải	Hải	_	_	N	_	_	_	_
+3	cũng	cũng	_	_	_	_	_	_	_
+4	chỉ đạo	chỉ đạo	_	_	V	_	_	_	_
+5	sở	sở	_	_	N	_	_	_	_
+6	GTCC	GTCC	_	_	N	_	_	_	_
+7	báo cáo	báo cáo	_	_	V	_	_	_	_
+8	về	về	_	_	ADP	_	_	_	_
+9	xử lý	xử lý	_	_	V	_	_	_	_
+10	tiêu cực	tiêu cực	_	_	N	_	_	_	_
+11	ở	ở	_	_	ADP	_	_	_	_
+12	công trình	công trình	_	_	N	_	_	_	_
+13	này	này	_	_	PROPN	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s740
+# text = long, nhân viên marketing, nhận điện thoại lên phòng giám đốc.
+1	long	long	_	_	N	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	nhân viên	nhân viên	_	_	N	_	_	_	_
+4	marketing	marketing	_	_	N	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	nhận	nhận	_	_	V	_	_	_	_
+7	điện thoại	điện thoại	_	_	N	_	_	_	_
+8	lên	lên	_	_	V	_	_	_	_
+9	phòng	phòng	_	_	N	_	_	_	_
+10	giám đốc	giám đốc	_	_	N	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s701
+# text = Như vậy, có thể là người của công ty đã viết và gửi đơn này.
+1	Như vậy	Như vậy	_	_	CONJ	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	có thể	có thể	_	_	_	_	_	_	_
+4	là	là	_	_	CONJ	_	_	_	_
+5	người	người	_	_	N	_	_	_	_
+6	của	của	_	_	ADP	_	_	_	_
+7	công ty	công ty	_	_	N	_	_	_	_
+8	đã	đã	_	_	_	_	_	_	_
+9	viết	viết	_	_	V	_	_	_	_
+10	và	và	_	_	CONJ	_	_	_	_
+11	gửi	gửi	_	_	V	_	_	_	_
+12	đơn	đơn	_	_	N	_	_	_	_
+13	này	này	_	_	PROPN	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s186
+# text = lần đầu tiên tôi gặp các nạn nhân bị nhiễm chất độc da cam ở VN là lúc tôi làm trưởng phân xã Bangkok của một đài truyền hình Nhật.
+1	lần	lần	_	_	N	_	_	_	_
+2	đầu tiên	đầu tiên	_	_	N	_	_	_	_
+3	tôi	tôi	_	_	PROPN	_	_	_	_
+4	gặp	gặp	_	_	V	_	_	_	_
+5	các	các	_	_	DET	_	_	_	_
+6	nạn nhân	nạn nhân	_	_	N	_	_	_	_
+7	bị	bị	_	_	V	_	_	_	_
+8	nhiễm	nhiễm	_	_	V	_	_	_	_
+9	chất độc	chất độc	_	_	N	_	_	_	_
+10	da cam	da cam	_	_	N	_	_	_	_
+11	ở	ở	_	_	ADP	_	_	_	_
+12	VN	VN	_	_	N	_	_	_	_
+13	là	là	_	_	V	_	_	_	_
+14	lúc	lúc	_	_	N	_	_	_	_
+15	tôi	tôi	_	_	PROPN	_	_	_	_
+16	làm	làm	_	_	V	_	_	_	_
+17	trưởng	trưởng	_	_	_	_	_	_	_
+18	phân xã	phân xã	_	_	N	_	_	_	_
+19	Bangkok	Bangkok	_	_	N	_	_	_	_
+20	của	của	_	_	ADP	_	_	_	_
+21	một	một	_	_	NUM	_	_	_	_
+22	đài truyền hình	đài truyền hình	_	_	N	_	_	_	_
+23	Nhật	Nhật	_	_	N	_	_	_	_
+24	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s938
+# text = Những chuyện "nhỏ"...
+1	Những	Những	_	_	DET	_	_	_	_
+2	chuyện	chuyện	_	_	N	_	_	_	_
+3	"	"	_	_	_	_	_	_	_
+4	nhỏ	nhỏ	_	_	ADJ	_	_	_	_
+5	"	"	_	_	_	_	_	_	_
+6	...	...	_	_	_	_	_	_	_
+
+# sent_id = dev-s287
+# text = "Tôi hay hỏi ước mơ của em là gì, giây phút hạnh phúc nhất trong cuộc đời các em...
+1	"	"	_	_	_	_	_	_	_
+2	Tôi	Tôi	_	_	PROPN	_	_	_	_
+3	hay	hay	_	_	_	_	_	_	_
+4	hỏi	hỏi	_	_	V	_	_	_	_
+5	ước mơ	ước mơ	_	_	N	_	_	_	_
+6	của	của	_	_	ADP	_	_	_	_
+7	em	em	_	_	N	_	_	_	_
+8	là	là	_	_	V	_	_	_	_
+9	gì	gì	_	_	PROPN	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	giây phút	giây phút	_	_	N	_	_	_	_
+12	hạnh phúc	hạnh phúc	_	_	N	_	_	_	_
+13	nhất	nhất	_	_	ADJ	_	_	_	_
+14	trong	trong	_	_	N	_	_	_	_
+15	cuộc đời	cuộc đời	_	_	N	_	_	_	_
+16	các	các	_	_	DET	_	_	_	_
+17	em	em	_	_	N	_	_	_	_
+18	...	...	_	_	_	_	_	_	_
+
+# sent_id = dev-s27
+# text = Bác Hồ là hiện thân tất cả những gì tốt đẹp nhất.
+1	Bác Hồ	Bác Hồ	_	_	N	_	_	_	_
+2	là	là	_	_	V	_	_	_	_
+3	hiện thân	hiện thân	_	_	N	_	_	_	_
+4	tất cả	tất cả	_	_	PROPN	_	_	_	_
+5	những	những	_	_	DET	_	_	_	_
+6	gì	gì	_	_	PROPN	_	_	_	_
+7	tốt đẹp	tốt đẹp	_	_	ADJ	_	_	_	_
+8	nhất	nhất	_	_	ADJ	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s108
+# text = thân mình chịu cực, chịu khổ đã quen không màng đến, nhưng thương nhất là hai đứa con.
+1	thân	thân	_	_	N	_	_	_	_
+2	mình	mình	_	_	PROPN	_	_	_	_
+3	chịu	chịu	_	_	V	_	_	_	_
+4	cực	cực	_	_	ADJ	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	chịu	chịu	_	_	V	_	_	_	_
+7	khổ	khổ	_	_	ADJ	_	_	_	_
+8	đã	đã	_	_	_	_	_	_	_
+9	quen	quen	_	_	V	_	_	_	_
+10	không	không	_	_	NEG	_	_	_	_
+11	màng	màng	_	_	V	_	_	_	_
+12	đến	đến	_	_	PART	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	nhưng	nhưng	_	_	CONJ	_	_	_	_
+15	thương	thương	_	_	V	_	_	_	_
+16	nhất	nhất	_	_	ADJ	_	_	_	_
+17	là	là	_	_	V	_	_	_	_
+18	hai	hai	_	_	NUM	_	_	_	_
+19	đứa	đứa	_	_	N	_	_	_	_
+20	con	con	_	_	N	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s414
+# text = Tôi nói thiệt, DN sợ "lót đường" nên rất muốn vô thẳng Phú Hữu".
+1	Tôi	Tôi	_	_	PROPN	_	_	_	_
+2	nói	nói	_	_	V	_	_	_	_
+3	thiệt	thiệt	_	_	ADJ	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	DN	DN	_	_	N	_	_	_	_
+6	sợ	sợ	_	_	V	_	_	_	_
+7	"	"	_	_	_	_	_	_	_
+8	lót	lót	_	_	V	_	_	_	_
+9	đường	đường	_	_	N	_	_	_	_
+10	"	"	_	_	_	_	_	_	_
+11	nên	nên	_	_	CONJ	_	_	_	_
+12	rất	rất	_	_	_	_	_	_	_
+13	muốn	muốn	_	_	V	_	_	_	_
+14	vô	vô	_	_	V	_	_	_	_
+15	thẳng	thẳng	_	_	ADJ	_	_	_	_
+16	Phú Hữu	Phú Hữu	_	_	N	_	_	_	_
+17	"	"	_	_	_	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s603
+# text = sau khi xác định được hướng nước, anh quyết định vòng sang phía hạ lưu để xông vào đoạn ống bể.
+1	sau	sau	_	_	ADP	_	_	_	_
+2	khi	khi	_	_	N	_	_	_	_
+3	xác định	xác định	_	_	V	_	_	_	_
+4	được	được	_	_	_	_	_	_	_
+5	hướng	hướng	_	_	N	_	_	_	_
+6	nước	nước	_	_	N	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	anh	anh	_	_	N	_	_	_	_
+9	quyết định	quyết định	_	_	V	_	_	_	_
+10	vòng	vòng	_	_	V	_	_	_	_
+11	sang	sang	_	_	ADP	_	_	_	_
+12	phía	phía	_	_	N	_	_	_	_
+13	hạ lưu	hạ lưu	_	_	N	_	_	_	_
+14	để	để	_	_	ADP	_	_	_	_
+15	xông	xông	_	_	V	_	_	_	_
+16	vào	vào	_	_	_	_	_	_	_
+17	đoạn	đoạn	_	_	N	_	_	_	_
+18	ống	ống	_	_	N	_	_	_	_
+19	bể	bể	_	_	V	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s18
+# text = Nhiều thông tin về chiến tranh VN được đưa trên báo Nhân Đạo.
+1	Nhiều	Nhiều	_	_	ADJ	_	_	_	_
+2	thông tin	thông tin	_	_	N	_	_	_	_
+3	về	về	_	_	ADP	_	_	_	_
+4	chiến tranh	chiến tranh	_	_	N	_	_	_	_
+5	VN	VN	_	_	N	_	_	_	_
+6	được	được	_	_	V	_	_	_	_
+7	đưa	đưa	_	_	V	_	_	_	_
+8	trên	trên	_	_	ADP	_	_	_	_
+9	báo	báo	_	_	N	_	_	_	_
+10	Nhân Đạo	Nhân Đạo	_	_	N	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s157
+# text = Chỉ còn anh Đại và bốn người khác.
+1	Chỉ	Chỉ	_	_	_	_	_	_	_
+2	còn	còn	_	_	V	_	_	_	_
+3	anh	anh	_	_	N	_	_	_	_
+4	Đại	Đại	_	_	N	_	_	_	_
+5	và	và	_	_	CONJ	_	_	_	_
+6	bốn	bốn	_	_	NUM	_	_	_	_
+7	người	người	_	_	N	_	_	_	_
+8	khác	khác	_	_	ADJ	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s708
+# text = đứa nào có bạn thì "chát chít"... ngoài phố một chút rồi về.
+1	đứa	đứa	_	_	N	_	_	_	_
+2	nào	nào	_	_	PROPN	_	_	_	_
+3	có	có	_	_	V	_	_	_	_
+4	bạn	bạn	_	_	N	_	_	_	_
+5	thì	thì	_	_	CONJ	_	_	_	_
+6	"	"	_	_	_	_	_	_	_
+7	chát chít	chát chít	_	_	V	_	_	_	_
+8	"	"	_	_	_	_	_	_	_
+9	...	...	_	_	_	_	_	_	_
+10	ngoài	ngoài	_	_	ADP	_	_	_	_
+11	phố	phố	_	_	N	_	_	_	_
+12	một chút	một chút	_	_	DET	_	_	_	_
+13	rồi	rồi	_	_	CONJ	_	_	_	_
+14	về	về	_	_	V	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s201
+# text = "văn phòng đăng ký quyền sử dụng đất không phải là một bộ phận hành chính mà là một tổ chức sự nghiệp".
+1	"	"	_	_	_	_	_	_	_
+2	văn phòng	văn phòng	_	_	N	_	_	_	_
+3	đăng ký	đăng ký	_	_	V	_	_	_	_
+4	quyền	quyền	_	_	N	_	_	_	_
+5	sử dụng	sử dụng	_	_	V	_	_	_	_
+6	đất	đất	_	_	N	_	_	_	_
+7	không	không	_	_	NEG	_	_	_	_
+8	phải	phải	_	_	V	_	_	_	_
+9	là	là	_	_	V	_	_	_	_
+10	một	một	_	_	NUM	_	_	_	_
+11	bộ phận	bộ phận	_	_	N	_	_	_	_
+12	hành chính	hành chính	_	_	N	_	_	_	_
+13	mà	mà	_	_	CONJ	_	_	_	_
+14	là	là	_	_	V	_	_	_	_
+15	một	một	_	_	NUM	_	_	_	_
+16	tổ chức	tổ chức	_	_	N	_	_	_	_
+17	sự nghiệp	sự nghiệp	_	_	N	_	_	_	_
+18	"	"	_	_	_	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s940
+# text = Đoàn cũng xúc động không kém khi anh bồi hồi kể lại thời khắc của vụ án ấy.
+1	Đoàn	Đoàn	_	_	N	_	_	_	_
+2	cũng	cũng	_	_	_	_	_	_	_
+3	xúc động	xúc động	_	_	V	_	_	_	_
+4	không	không	_	_	NEG	_	_	_	_
+5	kém	kém	_	_	ADJ	_	_	_	_
+6	khi	khi	_	_	N	_	_	_	_
+7	anh	anh	_	_	N	_	_	_	_
+8	bồi hồi	bồi hồi	_	_	ADJ	_	_	_	_
+9	kể	kể	_	_	V	_	_	_	_
+10	lại	lại	_	_	_	_	_	_	_
+11	thời khắc	thời khắc	_	_	N	_	_	_	_
+12	của	của	_	_	ADP	_	_	_	_
+13	vụ	vụ	_	_	N	_	_	_	_
+14	án	án	_	_	N	_	_	_	_
+15	ấy	ấy	_	_	PROPN	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s214
+# text = Luật không cho phép "ông bố" làm thay "ông con".
+1	Luật	Luật	_	_	N	_	_	_	_
+2	không	không	_	_	NEG	_	_	_	_
+3	cho phép	cho phép	_	_	V	_	_	_	_
+4	"	"	_	_	_	_	_	_	_
+5	ông	ông	_	_	N	_	_	_	_
+6	bố	bố	_	_	N	_	_	_	_
+7	"	"	_	_	_	_	_	_	_
+8	làm	làm	_	_	V	_	_	_	_
+9	thay	thay	_	_	V	_	_	_	_
+10	"	"	_	_	_	_	_	_	_
+11	ông	ông	_	_	N	_	_	_	_
+12	con	con	_	_	N	_	_	_	_
+13	"	"	_	_	_	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s1231
+# text = thêm nữa, nếu câu chuyện này kết thúc mà không ảnh hưởng đến tình cảm vợ chồng Nhi thì càng tốt.
+1	thêm	thêm	_	_	V	_	_	_	_
+2	nữa	nữa	_	_	_	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	nếu	nếu	_	_	CONJ	_	_	_	_
+5	câu chuyện	câu chuyện	_	_	N	_	_	_	_
+6	này	này	_	_	PROPN	_	_	_	_
+7	kết thúc	kết thúc	_	_	V	_	_	_	_
+8	mà	mà	_	_	CONJ	_	_	_	_
+9	không	không	_	_	NEG	_	_	_	_
+10	ảnh hưởng	ảnh hưởng	_	_	V	_	_	_	_
+11	đến	đến	_	_	ADP	_	_	_	_
+12	tình cảm	tình cảm	_	_	N	_	_	_	_
+13	vợ chồng	vợ chồng	_	_	N	_	_	_	_
+14	Nhi	Nhi	_	_	N	_	_	_	_
+15	thì	thì	_	_	CONJ	_	_	_	_
+16	càng	càng	_	_	_	_	_	_	_
+17	tốt	tốt	_	_	ADJ	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s194
+# text = Kết quả đó là sự ra đời chất độc da cam với mục đích quân sự.
+1	Kết quả	Kết quả	_	_	N	_	_	_	_
+2	đó	đó	_	_	PROPN	_	_	_	_
+3	là	là	_	_	V	_	_	_	_
+4	sự	sự	_	_	N	_	_	_	_
+5	ra đời	ra đời	_	_	V	_	_	_	_
+6	chất độc	chất độc	_	_	N	_	_	_	_
+7	da cam	da cam	_	_	N	_	_	_	_
+8	với	với	_	_	ADP	_	_	_	_
+9	mục đích	mục đích	_	_	N	_	_	_	_
+10	quân sự	quân sự	_	_	N	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s227
+# text = vì công lý, vượt qua mọi biên giới, mỗi người đã cất lên tiếng nói của mình.
+1	vì	vì	_	_	ADP	_	_	_	_
+2	công lý	công lý	_	_	N	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	vượt	vượt	_	_	V	_	_	_	_
+5	qua	qua	_	_	_	_	_	_	_
+6	mọi	mọi	_	_	DET	_	_	_	_
+7	biên giới	biên giới	_	_	N	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	mỗi	mỗi	_	_	DET	_	_	_	_
+10	người	người	_	_	N	_	_	_	_
+11	đã	đã	_	_	_	_	_	_	_
+12	cất	cất	_	_	V	_	_	_	_
+13	lên	lên	_	_	_	_	_	_	_
+14	tiếng nói	tiếng nói	_	_	N	_	_	_	_
+15	của	của	_	_	ADP	_	_	_	_
+16	mình	mình	_	_	PROPN	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s632
+# text = Thư viết chữ in cỡ to, có vẻ viết bằng tay trái hoặc cố tình viết khác thường.
+1	Thư	Thư	_	_	N	_	_	_	_
+2	viết	viết	_	_	V	_	_	_	_
+3	chữ	chữ	_	_	N	_	_	_	_
+4	in	in	_	_	V	_	_	_	_
+5	cỡ	cỡ	_	_	N	_	_	_	_
+6	to	to	_	_	ADJ	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	có vẻ	có vẻ	_	_	_	_	_	_	_
+9	viết	viết	_	_	V	_	_	_	_
+10	bằng	bằng	_	_	ADP	_	_	_	_
+11	tay trái	tay trái	_	_	N	_	_	_	_
+12	hoặc	hoặc	_	_	CONJ	_	_	_	_
+13	cố tình	cố tình	_	_	V	_	_	_	_
+14	viết	viết	_	_	V	_	_	_	_
+15	khác thường	khác thường	_	_	ADJ	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s140
+# text = Hơn nữa giá cả phải được ủy ban tỉnh cho phép.
+1	Hơn nữa	Hơn nữa	_	_	_	_	_	_	_
+2	giá cả	giá cả	_	_	N	_	_	_	_
+3	phải	phải	_	_	V	_	_	_	_
+4	được	được	_	_	V	_	_	_	_
+5	ủy ban	ủy ban	_	_	N	_	_	_	_
+6	tỉnh	tỉnh	_	_	N	_	_	_	_
+7	cho	cho	_	_	V	_	_	_	_
+8	phép	phép	_	_	N	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s690
+# text = hàng quán nhộn nhịp đủ loại thượng vàng hạ cám, tiếng rao hàng thủ công xen lẫn tiếng máy cassette.
+1	hàng quán	hàng quán	_	_	N	_	_	_	_
+2	nhộn nhịp	nhộn nhịp	_	_	ADJ	_	_	_	_
+3	đủ	đủ	_	_	ADJ	_	_	_	_
+4	loại	loại	_	_	N	_	_	_	_
+5	thượng vàng hạ cám	thượng vàng hạ cám	_	_	_	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	tiếng	tiếng	_	_	N	_	_	_	_
+8	rao	rao	_	_	V	_	_	_	_
+9	hàng	hàng	_	_	N	_	_	_	_
+10	thủ công	thủ công	_	_	N	_	_	_	_
+11	xen lẫn	xen lẫn	_	_	V	_	_	_	_
+12	tiếng	tiếng	_	_	N	_	_	_	_
+13	máy	máy	_	_	N	_	_	_	_
+14	cassette	cassette	_	_	N	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s326
+# text = đất nóng Nhơn Trạch.
+1	đất	đất	_	_	N	_	_	_	_
+2	nóng	nóng	_	_	ADJ	_	_	_	_
+3	Nhơn Trạch	Nhơn Trạch	_	_	N	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s219
+# text = hải thi đại học không đỗ và có học trường trung cấp du lịch.
+1	hải	hải	_	_	N	_	_	_	_
+2	thi	thi	_	_	V	_	_	_	_
+3	đại học	đại học	_	_	N	_	_	_	_
+4	không	không	_	_	NEG	_	_	_	_
+5	đỗ	đỗ	_	_	V	_	_	_	_
+6	và	và	_	_	CONJ	_	_	_	_
+7	có	có	_	_	V	_	_	_	_
+8	học	học	_	_	V	_	_	_	_
+9	trường	trường	_	_	N	_	_	_	_
+10	trung cấp	trung cấp	_	_	N	_	_	_	_
+11	du lịch	du lịch	_	_	V	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s367
+# text = sâu vào trong, dãy bên trái là khu chăm sóc những cụ đã lẫn.
+1	sâu	sâu	_	_	ADJ	_	_	_	_
+2	vào	vào	_	_	ADP	_	_	_	_
+3	trong	trong	_	_	N	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	dãy	dãy	_	_	N	_	_	_	_
+6	bên	bên	_	_	N	_	_	_	_
+7	trái	trái	_	_	ADJ	_	_	_	_
+8	là	là	_	_	V	_	_	_	_
+9	khu	khu	_	_	N	_	_	_	_
+10	chăm sóc	chăm sóc	_	_	V	_	_	_	_
+11	những	những	_	_	DET	_	_	_	_
+12	cụ	cụ	_	_	N	_	_	_	_
+13	đã	đã	_	_	_	_	_	_	_
+14	lẫn	lẫn	_	_	V	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s254
+# text = "đại ca" của trẻ em đường phố.
+1	"	"	_	_	_	_	_	_	_
+2	đại ca	đại ca	_	_	N	_	_	_	_
+3	"	"	_	_	_	_	_	_	_
+4	của	của	_	_	ADP	_	_	_	_
+5	trẻ em	trẻ em	_	_	N	_	_	_	_
+6	đường phố	đường phố	_	_	N	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s284
+# text = Lẽ ra phải có văn bản riêng, đây là thiếu sót của bị cáo, nhưng chỉ là thiếu sót hành chính...".
+1	Lẽ ra	Lẽ ra	_	_	_	_	_	_	_
+2	phải	phải	_	_	V	_	_	_	_
+3	có	có	_	_	V	_	_	_	_
+4	văn bản	văn bản	_	_	N	_	_	_	_
+5	riêng	riêng	_	_	ADJ	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	đây	đây	_	_	PROPN	_	_	_	_
+8	là	là	_	_	V	_	_	_	_
+9	thiếu sót	thiếu sót	_	_	N	_	_	_	_
+10	của	của	_	_	ADP	_	_	_	_
+11	bị cáo	bị cáo	_	_	N	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	nhưng	nhưng	_	_	CONJ	_	_	_	_
+14	chỉ	chỉ	_	_	_	_	_	_	_
+15	là	là	_	_	V	_	_	_	_
+16	thiếu sót	thiếu sót	_	_	N	_	_	_	_
+17	hành chính	hành chính	_	_	ADJ	_	_	_	_
+18	...	...	_	_	_	_	_	_	_
+19	"	"	_	_	_	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s147
+# text = đem ra vườn cắt thử, thấy sướng tay, anh ở ngoài vườn cắt tỉa suốt ngày quên cả cơm nước.
+1	đem	đem	_	_	V	_	_	_	_
+2	ra	ra	_	_	V	_	_	_	_
+3	vườn	vườn	_	_	N	_	_	_	_
+4	cắt	cắt	_	_	V	_	_	_	_
+5	thử	thử	_	_	V	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	thấy	thấy	_	_	V	_	_	_	_
+8	sướng	sướng	_	_	V	_	_	_	_
+9	tay	tay	_	_	N	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	anh	anh	_	_	N	_	_	_	_
+12	ở	ở	_	_	ADP	_	_	_	_
+13	ngoài	ngoài	_	_	N	_	_	_	_
+14	vườn	vườn	_	_	N	_	_	_	_
+15	cắt	cắt	_	_	V	_	_	_	_
+16	tỉa	tỉa	_	_	V	_	_	_	_
+17	suốt	suốt	_	_	ADJ	_	_	_	_
+18	ngày	ngày	_	_	N	_	_	_	_
+19	quên	quên	_	_	V	_	_	_	_
+20	cả	cả	_	_	PROPN	_	_	_	_
+21	cơm nước	cơm nước	_	_	N	_	_	_	_
+22	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s543
+# text = Sao em biết anh ở đây?
+1	Sao	Sao	_	_	PROPN	_	_	_	_
+2	em	em	_	_	N	_	_	_	_
+3	biết	biết	_	_	V	_	_	_	_
+4	anh	anh	_	_	N	_	_	_	_
+5	ở	ở	_	_	V	_	_	_	_
+6	đây	đây	_	_	PROPN	_	_	_	_
+7	?	?	_	_	_	_	_	_	_
+
+# sent_id = dev-s791
+# text = dân Agrí mừng mà bộ đội cũng mừng.
+1	dân	dân	_	_	N	_	_	_	_
+2	Agrí	Agrí	_	_	N	_	_	_	_
+3	mừng	mừng	_	_	V	_	_	_	_
+4	mà	mà	_	_	CONJ	_	_	_	_
+5	bộ đội	bộ đội	_	_	N	_	_	_	_
+6	cũng	cũng	_	_	_	_	_	_	_
+7	mừng	mừng	_	_	V	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s1307
+# text = qua hình ảnh và câu chuyện của những nạn nhân, ông bị "sốc" với những gì nghe thấy.
+1	qua	qua	_	_	ADP	_	_	_	_
+2	hình ảnh	hình ảnh	_	_	N	_	_	_	_
+3	và	và	_	_	CONJ	_	_	_	_
+4	câu chuyện	câu chuyện	_	_	N	_	_	_	_
+5	của	của	_	_	ADP	_	_	_	_
+6	những	những	_	_	DET	_	_	_	_
+7	nạn nhân	nạn nhân	_	_	N	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	ông	ông	_	_	N	_	_	_	_
+10	bị	bị	_	_	V	_	_	_	_
+11	"	"	_	_	_	_	_	_	_
+12	sốc	sốc	_	_	N	_	_	_	_
+13	"	"	_	_	_	_	_	_	_
+14	với	với	_	_	ADP	_	_	_	_
+15	những	những	_	_	DET	_	_	_	_
+16	gì	gì	_	_	PROPN	_	_	_	_
+17	nghe	nghe	_	_	V	_	_	_	_
+18	thấy	thấy	_	_	V	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s667
+# text = Vậy Hùng sẽ làm cho họ toại nguyện và Hùng phải đi trước một bước.
+1	Vậy	Vậy	_	_	PROPN	_	_	_	_
+2	Hùng	Hùng	_	_	N	_	_	_	_
+3	sẽ	sẽ	_	_	_	_	_	_	_
+4	làm	làm	_	_	V	_	_	_	_
+5	cho	cho	_	_	ADP	_	_	_	_
+6	họ	họ	_	_	PROPN	_	_	_	_
+7	toại nguyện	toại nguyện	_	_	V	_	_	_	_
+8	và	và	_	_	CONJ	_	_	_	_
+9	Hùng	Hùng	_	_	N	_	_	_	_
+10	phải	phải	_	_	V	_	_	_	_
+11	đi	đi	_	_	V	_	_	_	_
+12	trước	trước	_	_	ADJ	_	_	_	_
+13	một	một	_	_	NUM	_	_	_	_
+14	bước	bước	_	_	N	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s1298
+# text = bố Viện là bộ đội lái xe tăng của đoàn 375, bị nhiễm chất độc da cam và đã qua đời vì ung thư.
+1	bố	bố	_	_	N	_	_	_	_
+2	Viện	Viện	_	_	N	_	_	_	_
+3	là	là	_	_	V	_	_	_	_
+4	bộ đội	bộ đội	_	_	N	_	_	_	_
+5	lái	lái	_	_	V	_	_	_	_
+6	xe tăng	xe tăng	_	_	N	_	_	_	_
+7	của	của	_	_	ADP	_	_	_	_
+8	đoàn	đoàn	_	_	N	_	_	_	_
+9	375	375	_	_	NUM	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	bị	bị	_	_	V	_	_	_	_
+12	nhiễm	nhiễm	_	_	V	_	_	_	_
+13	chất độc	chất độc	_	_	N	_	_	_	_
+14	da cam	da cam	_	_	N	_	_	_	_
+15	và	và	_	_	CONJ	_	_	_	_
+16	đã	đã	_	_	_	_	_	_	_
+17	qua đời	qua đời	_	_	V	_	_	_	_
+18	vì	vì	_	_	ADP	_	_	_	_
+19	ung thư	ung thư	_	_	N	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s619
+# text = Người được giao nhiệm vụ giúp ông Chương là thám tử Hùng.
+1	Người	Người	_	_	N	_	_	_	_
+2	được	được	_	_	V	_	_	_	_
+3	giao	giao	_	_	V	_	_	_	_
+4	nhiệm vụ	nhiệm vụ	_	_	N	_	_	_	_
+5	giúp	giúp	_	_	V	_	_	_	_
+6	ông	ông	_	_	N	_	_	_	_
+7	Chương	Chương	_	_	N	_	_	_	_
+8	là	là	_	_	V	_	_	_	_
+9	thám tử	thám tử	_	_	N	_	_	_	_
+10	Hùng	Hùng	_	_	N	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s462
+# text = Tin viết: "em thật quá đáng, dù chúng mình không còn gì với nhau nữa thì cũng phải nói một lời rõ ràng.
+1	Tin	Tin	_	_	N	_	_	_	_
+2	viết	viết	_	_	V	_	_	_	_
+3	:	:	_	_	_	_	_	_	_
+4	"	"	_	_	_	_	_	_	_
+5	em	em	_	_	N	_	_	_	_
+6	thật	thật	_	_	_	_	_	_	_
+7	quá đáng	quá đáng	_	_	ADJ	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	dù	dù	_	_	CONJ	_	_	_	_
+10	chúng mình	chúng mình	_	_	PROPN	_	_	_	_
+11	không	không	_	_	NEG	_	_	_	_
+12	còn	còn	_	_	V	_	_	_	_
+13	gì	gì	_	_	PROPN	_	_	_	_
+14	với	với	_	_	ADP	_	_	_	_
+15	nhau	nhau	_	_	N	_	_	_	_
+16	nữa	nữa	_	_	_	_	_	_	_
+17	thì	thì	_	_	CONJ	_	_	_	_
+18	cũng	cũng	_	_	_	_	_	_	_
+19	phải	phải	_	_	V	_	_	_	_
+20	nói	nói	_	_	V	_	_	_	_
+21	một	một	_	_	NUM	_	_	_	_
+22	lời	lời	_	_	N	_	_	_	_
+23	rõ ràng	rõ ràng	_	_	ADJ	_	_	_	_
+24	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s632
+# text = Hai thợ lặn huy và Anh lại nhảy xuống nước với một túi đồ nghề gồm khóa, mỏ lết, bù loong, con tán.
+1	Hai	Hai	_	_	NUM	_	_	_	_
+2	thợ	thợ	_	_	N	_	_	_	_
+3	lặn	lặn	_	_	V	_	_	_	_
+4	huy	huy	_	_	N	_	_	_	_
+5	và	và	_	_	CONJ	_	_	_	_
+6	Anh	Anh	_	_	N	_	_	_	_
+7	lại	lại	_	_	_	_	_	_	_
+8	nhảy	nhảy	_	_	V	_	_	_	_
+9	xuống	xuống	_	_	ADP	_	_	_	_
+10	nước	nước	_	_	N	_	_	_	_
+11	với	với	_	_	ADP	_	_	_	_
+12	một	một	_	_	NUM	_	_	_	_
+13	túi	túi	_	_	N	_	_	_	_
+14	đồ nghề	đồ nghề	_	_	N	_	_	_	_
+15	gồm	gồm	_	_	V	_	_	_	_
+16	khóa	khóa	_	_	N	_	_	_	_
+17	,	,	_	_	_	_	_	_	_
+18	mỏ lết	mỏ lết	_	_	N	_	_	_	_
+19	,	,	_	_	_	_	_	_	_
+20	bù loong	bù loong	_	_	N	_	_	_	_
+21	,	,	_	_	_	_	_	_	_
+22	con	con	_	_	N	_	_	_	_
+23	tán	tán	_	_	N	_	_	_	_
+24	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s581
+# text = ông Phong lập tức quay lại xưởng vẽ gặp người tình cũ căn vặn đủ đường.
+1	ông	ông	_	_	N	_	_	_	_
+2	Phong	Phong	_	_	N	_	_	_	_
+3	lập tức	lập tức	_	_	_	_	_	_	_
+4	quay	quay	_	_	V	_	_	_	_
+5	lại	lại	_	_	_	_	_	_	_
+6	xưởng	xưởng	_	_	N	_	_	_	_
+7	vẽ	vẽ	_	_	V	_	_	_	_
+8	gặp	gặp	_	_	V	_	_	_	_
+9	người tình	người tình	_	_	N	_	_	_	_
+10	cũ	cũ	_	_	ADJ	_	_	_	_
+11	căn vặn	căn vặn	_	_	V	_	_	_	_
+12	đủ	đủ	_	_	ADJ	_	_	_	_
+13	đường	đường	_	_	N	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s106
+# text = để ngày thông hầm được sớm hơn, những người thợ Sông Đà đã nhận thêm 500 m phía hầm bắc.
+1	để	để	_	_	ADP	_	_	_	_
+2	ngày	ngày	_	_	N	_	_	_	_
+3	thông	thông	_	_	V	_	_	_	_
+4	hầm	hầm	_	_	N	_	_	_	_
+5	được	được	_	_	_	_	_	_	_
+6	sớm	sớm	_	_	ADJ	_	_	_	_
+7	hơn	hơn	_	_	_	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	những	những	_	_	DET	_	_	_	_
+10	người	người	_	_	N	_	_	_	_
+11	thợ	thợ	_	_	N	_	_	_	_
+12	Sông Đà	Sông Đà	_	_	N	_	_	_	_
+13	đã	đã	_	_	_	_	_	_	_
+14	nhận	nhận	_	_	V	_	_	_	_
+15	thêm	thêm	_	_	V	_	_	_	_
+16	500	500	_	_	NUM	_	_	_	_
+17	m	m	_	_	N	_	_	_	_
+18	phía	phía	_	_	N	_	_	_	_
+19	hầm	hầm	_	_	N	_	_	_	_
+20	bắc	bắc	_	_	N	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s434
+# text = con nào chết: xẻ gấp...
+1	con	con	_	_	N	_	_	_	_
+2	nào	nào	_	_	PROPN	_	_	_	_
+3	chết	chết	_	_	V	_	_	_	_
+4	:	:	_	_	_	_	_	_	_
+5	xẻ	xẻ	_	_	V	_	_	_	_
+6	gấp	gấp	_	_	ADJ	_	_	_	_
+7	...	...	_	_	_	_	_	_	_
+
+# sent_id = test-s390
+# text = Cụ chia tài sản với con, gom được hơn 50 triệu giao cho giám đốc Ngọc".
+1	Cụ	Cụ	_	_	N	_	_	_	_
+2	chia	chia	_	_	V	_	_	_	_
+3	tài sản	tài sản	_	_	N	_	_	_	_
+4	với	với	_	_	ADP	_	_	_	_
+5	con	con	_	_	N	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	gom	gom	_	_	V	_	_	_	_
+8	được	được	_	_	_	_	_	_	_
+9	hơn	hơn	_	_	ADJ	_	_	_	_
+10	50	50	_	_	NUM	_	_	_	_
+11	triệu	triệu	_	_	N	_	_	_	_
+12	giao	giao	_	_	V	_	_	_	_
+13	cho	cho	_	_	ADP	_	_	_	_
+14	giám đốc	giám đốc	_	_	N	_	_	_	_
+15	Ngọc	Ngọc	_	_	N	_	_	_	_
+16	"	"	_	_	_	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = train-s359
+# text = nhóm Hiểm họa khó tránh!
+1	nhóm	nhóm	_	_	N	_	_	_	_
+2	Hiểm họa	Hiểm họa	_	_	N	_	_	_	_
+3	khó	khó	_	_	ADJ	_	_	_	_
+4	tránh	tránh	_	_	V	_	_	_	_
+5	!	!	_	_	_	_	_	_	_
+
+# sent_id = train-s655
+# text = Đa số học sinh của trường hiện nay là thế hệ thứ tư, thứ năm.
+1	Đa số	Đa số	_	_	DET	_	_	_	_
+2	học sinh	học sinh	_	_	N	_	_	_	_
+3	của	của	_	_	ADP	_	_	_	_
+4	trường	trường	_	_	N	_	_	_	_
+5	hiện nay	hiện nay	_	_	N	_	_	_	_
+6	là	là	_	_	V	_	_	_	_
+7	thế hệ	thế hệ	_	_	N	_	_	_	_
+8	thứ	thứ	_	_	N	_	_	_	_
+9	tư	tư	_	_	NUM	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	thứ	thứ	_	_	N	_	_	_	_
+12	năm	năm	_	_	NUM	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s57
+# text = Tùng lim dim nuốt khói, uống một ngụm coca rồi nằm vật ra nền thọc tay vào bụng gãi gãi.
+1	Tùng	Tùng	_	_	N	_	_	_	_
+2	lim dim	lim dim	_	_	V	_	_	_	_
+3	nuốt	nuốt	_	_	V	_	_	_	_
+4	khói	khói	_	_	N	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	uống	uống	_	_	V	_	_	_	_
+7	một	một	_	_	NUM	_	_	_	_
+8	ngụm	ngụm	_	_	N	_	_	_	_
+9	coca	coca	_	_	N	_	_	_	_
+10	rồi	rồi	_	_	CONJ	_	_	_	_
+11	nằm	nằm	_	_	V	_	_	_	_
+12	vật	vật	_	_	V	_	_	_	_
+13	ra	ra	_	_	_	_	_	_	_
+14	nền	nền	_	_	N	_	_	_	_
+15	thọc	thọc	_	_	V	_	_	_	_
+16	tay	tay	_	_	N	_	_	_	_
+17	vào	vào	_	_	ADP	_	_	_	_
+18	bụng	bụng	_	_	N	_	_	_	_
+19	gãi gãi	gãi gãi	_	_	V	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s419
+# text = có tay cửu vạn một mình làm hai vác chạy phăm phăm ra đường.
+1	có	có	_	_	V	_	_	_	_
+2	tay	tay	_	_	N	_	_	_	_
+3	cửu vạn	cửu vạn	_	_	N	_	_	_	_
+4	một mình	một mình	_	_	N	_	_	_	_
+5	làm	làm	_	_	V	_	_	_	_
+6	hai	hai	_	_	NUM	_	_	_	_
+7	vác	vác	_	_	N	_	_	_	_
+8	chạy	chạy	_	_	V	_	_	_	_
+9	phăm phăm	phăm phăm	_	_	ADJ	_	_	_	_
+10	ra	ra	_	_	ADP	_	_	_	_
+11	đường	đường	_	_	N	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s174
+# text = Mọi hoạt động và mối quan hệ xã hội của Tùng đều diễn ra bên Hải.
+1	Mọi	Mọi	_	_	DET	_	_	_	_
+2	hoạt động	hoạt động	_	_	N	_	_	_	_
+3	và	và	_	_	CONJ	_	_	_	_
+4	mối	mối	_	_	N	_	_	_	_
+5	quan hệ	quan hệ	_	_	N	_	_	_	_
+6	xã hội	xã hội	_	_	N	_	_	_	_
+7	của	của	_	_	ADP	_	_	_	_
+8	Tùng	Tùng	_	_	N	_	_	_	_
+9	đều	đều	_	_	_	_	_	_	_
+10	diễn	diễn	_	_	V	_	_	_	_
+11	ra	ra	_	_	_	_	_	_	_
+12	bên	bên	_	_	N	_	_	_	_
+13	Hải	Hải	_	_	N	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = test-s477
+# text = Một tối mùa đông, ông Chương thấy một cô gái trẻ bị đám đông giữ lại vì liên quan đến một vụ tai nạn giao thông.
+1	Một	Một	_	_	NUM	_	_	_	_
+2	tối	tối	_	_	N	_	_	_	_
+3	mùa	mùa	_	_	N	_	_	_	_
+4	đông	đông	_	_	N	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	ông	ông	_	_	N	_	_	_	_
+7	Chương	Chương	_	_	N	_	_	_	_
+8	thấy	thấy	_	_	V	_	_	_	_
+9	một	một	_	_	NUM	_	_	_	_
+10	cô	cô	_	_	N	_	_	_	_
+11	gái	gái	_	_	N	_	_	_	_
+12	trẻ	trẻ	_	_	ADJ	_	_	_	_
+13	bị	bị	_	_	V	_	_	_	_
+14	đám	đám	_	_	N	_	_	_	_
+15	đông	đông	_	_	ADJ	_	_	_	_
+16	giữ	giữ	_	_	V	_	_	_	_
+17	lại	lại	_	_	_	_	_	_	_
+18	vì	vì	_	_	ADP	_	_	_	_
+19	liên quan	liên quan	_	_	V	_	_	_	_
+20	đến	đến	_	_	ADP	_	_	_	_
+21	một	một	_	_	NUM	_	_	_	_
+22	vụ	vụ	_	_	N	_	_	_	_
+23	tai nạn	tai nạn	_	_	N	_	_	_	_
+24	giao thông	giao thông	_	_	N	_	_	_	_
+25	.	.	_	_	_	_	_	_	_
+
+# sent_id = dev-s686
+# text = Nhưng, mất tất cả!
+1	Nhưng	Nhưng	_	_	CONJ	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	mất	mất	_	_	V	_	_	_	_
+4	tất cả	tất cả	_	_	PROPN	_	_	_	_
+5	!	!	_	_	_	_	_	_	_
+

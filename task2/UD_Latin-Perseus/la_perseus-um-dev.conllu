@@ -1,0 +1,3564 @@
+# sent_id = phi0448.phi001.perseus-lat1.tb.xml@57
+# text = Nam quod hostibus adpropinquabat, consuetudine sua Caesar VI legiones expeditas ducebat;
+1	Nam	nam	_	_	CONJ	_	_	_	_
+2	quod	quod	_	_	CONJ	_	_	_	_
+3	hostibus	hostis	_	_	N;PL;DAT;MASC	_	_	_	_
+4	adpropinquabat	appropinquo	_	_	V;IND;3;ACT;PST;SG;FIN;IPFV	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	consuetudine	consuetudo	_	_	N;FEM;SG;AT+ABL	_	_	_	_
+7	sua	suus	_	_	PRO;FEM;SG;AT+ABL	_	_	_	_
+8	Caesar	Caesar	_	_	N;NOM;SG;MASC	_	_	_	_
+9	VI	sex	_	_	NUM	_	_	_	_
+10	legiones	legio	_	_	N;FEM;PL;ACC	_	_	_	_
+11	expeditas	expedio	_	_	FEM;V.PTCP;V;ACC;PL;PASS;PST;PFV	_	_	_	_
+12	ducebat	duco	_	_	V;IND;3;ACT;PST;SG;FIN;IPFV	_	_	_	_
+13	;	;	_	_	_	_	_	_	_
+
+# sent_id = phi0631.phi001.perseus-lat1.tb.xml@690
+# text = nam fere quem quisque vivos pugnando locum ceperat, eum amissa anima corpore tegebat.
+1	nam	nam	_	_	CONJ	_	_	_	_
+2	fere	fere	_	_	ADV	_	_	_	_
+3	quem	quis	_	_	PRO;ACC;MASC;SG	_	_	_	_
+4	quisque	quisque	_	_	PRO;NOM;SG;MASC	_	_	_	_
+5	vivos	vivus	_	_	NOM;MASC;ADJ;SG	_	_	_	_
+6	pugnando	pugno	_	_	V.PTCP;V;PRS;ACT;NEUT;SG;AT+ABL	_	_	_	_
+7	locum	locum	_	_	N;NEUT;ACC;SG	_	_	_	_
+8	ceperat	capio	_	_	SG;V;IND;3;ACT;PST+PRF;FIN	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	eum	is	_	_	PRO;ACC;MASC;SG	_	_	_	_
+11	amissa	amitto	_	_	FEM;V.PTCP;V;PASS;PST;PFV;SG;AT+ABL	_	_	_	_
+12	anima	anima	_	_	N;FEM;SG;AT+ABL	_	_	_	_
+13	corpore	corpus	_	_	N;NEUT;SG;AT+ABL	_	_	_	_
+14	tegebat	tego	_	_	V;IND;3;ACT;PST;SG;FIN;IPFV	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0959.phi006.perseus-lat1.tb.xml@8
+# text = lactea nomen habet, candore notabilis ipso:
+1	lactea	lacteus	_	_	ADJ;ACC;PL;NEUT	_	_	_	_
+2	nomen	nomen	_	_	N;SG;ACC;NEUT	_	_	_	_
+3	habet	habeo	_	_	V;FIN;ACT;3;PRS;IND;SG	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	candore	candor	_	_	N;SG;MASC;AT+ABL	_	_	_	_
+6	notabilis	notabilis	_	_	ADJ;FEM;SG;NOM	_	_	_	_
+7	ipso	ipse	_	_	AT+ABL;SG;MASC;PRO	_	_	_	_
+8	:	:	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@423
+# text = Quia videor acer, alligant me interdiu, Luce ut quiescam et vigilem, nox cum venerit:
+1	Quia	quia	_	_	CONJ	_	_	_	_
+2	videor	video	_	_	V;PRS;IND;PASS;1;SG;FIN	_	_	_	_
+3	acer	acer	_	_	NOM;MASC;ADJ;SG	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	alligant	alligo	_	_	V;IND;PL;3;ACT;PRS;FIN	_	_	_	_
+6	me	ego	_	_	PRO;ACC;MASC;SG	_	_	_	_
+7	interdiu	interdiu	_	_	ADV	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	Luce	lux	_	_	N;FEM;SG;AT+ABL	_	_	_	_
+10	ut	ut	_	_	CONJ	_	_	_	_
+11	quiescam	quiesco	_	_	SBJV;V;PRS;ACT;1;SG;FIN	_	_	_	_
+12	et	et	_	_	CONJ	_	_	_	_
+13	vigilem	vigilo	_	_	SBJV;V;PRS;ACT;1;SG;FIN	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	nox	nox	_	_	N;FEM;NOM;SG	_	_	_	_
+16	cum	cum	_	_	CONJ	_	_	_	_
+17	venerit	venio	_	_	SBJV;V;3;ACT;PST;PFV;SG;FIN	_	_	_	_
+18	:	:	_	_	_	_	_	_	_
+
+# sent_id = phi0959.phi006.perseus-lat1.tb.xml@11
+# text = hac parte potentes caelicolae que clari suos posuere penates.
+1	hac	hic	_	_	FEM;AT+ABL;SG;PRO	_	_	_	_
+2	parte	pars	_	_	FEM;N;SG;AT+ABL	_	_	_	_
+3	potentes	potens	_	_	ADJ;FEM;PL;NOM	_	_	_	_
+4	caelicolae	caelicola	_	_	FEM;N;PL;NOM	_	_	_	_
+5	que	que	_	_	CONJ	_	_	_	_
+6	clari	clarus	_	_	ADJ;PL;MASC;NOM	_	_	_	_
+7	suos	suus	_	_	ADJ;ACC;PL;MASC	_	_	_	_
+8	posuere	pono	_	_	V;FIN;ACT;3;IND;PFV;PL;PST	_	_	_	_
+9	penates	Penates	_	_	N;ACC;MASC;PL	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@139
+# text = Canis parturiens cum rogasset alteram, Ut fetum in eius tugurio deponeret, Facile impetravit:
+1	Canis	canis	_	_	FEM;N;SG;NOM	_	_	_	_
+2	parturiens	parturio	_	_	V;FEM;NOM;PRS;SG;V.PTCP	_	_	_	_
+3	cum	cum	_	_	CONJ	_	_	_	_
+4	rogasset	rogo	_	_	V;FIN;ACT;3;SBJV;PST+PRF;SG	_	_	_	_
+5	alteram	alter	_	_	ADJ;FEM;ACC;SG	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	Ut	ut	_	_	CONJ	_	_	_	_
+8	fetum	fetus	_	_	N;SG;ACC;MASC	_	_	_	_
+9	in	in	_	_	ADP	_	_	_	_
+10	eius	is	_	_	FEM;GEN;SG;PRO	_	_	_	_
+11	tugurio	tugurium	_	_	NEUT;N;SG;AT+ABL	_	_	_	_
+12	deponeret	depono	_	_	V;IPFV;FIN;ACT;3;SBJV;SG;PST	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	Facile	facilis	_	_	ADV	_	_	_	_
+15	impetravit	impetro	_	_	V;FIN;ACT;3;IND;PFV;SG;PST	_	_	_	_
+16	:	:	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@542
+# text = Mirabatur haec solus Trimalchio que dicebat ingratum artificium esse.
+1	Mirabatur	miror	_	_	V;IPFV;FIN;3;IND;SG;PST;PASS	_	_	_	_
+2	haec	hic	_	_	ACC;PL;PRO;NEUT	_	_	_	_
+3	solus	solus	_	_	ADJ;SG;MASC;NOM	_	_	_	_
+4	Trimalchio	Trimalchio	_	_	N;SG;MASC;NOM	_	_	_	_
+5	que	que	_	_	CONJ	_	_	_	_
+6	dicebat	dico	_	_	V;IPFV;FIN;ACT;3;IND;SG;PST	_	_	_	_
+7	ingratum	ingratus	_	_	ADJ;ACC;SG;NEUT	_	_	_	_
+8	artificium	artificium	_	_	N;SG;ACC;NEUT	_	_	_	_
+9	esse	sum	_	_	V;PRS;ACT;NFIN	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0631.phi001.perseus-lat1.tb.xml@76
+# text = Sed profecto fortuna in omni re dominatur;
+1	Sed	sed	_	_	CONJ	_	_	_	_
+2	profecto	profecto	_	_	ADV	_	_	_	_
+3	fortuna	fortuna	_	_	N;FEM;NOM;SG	_	_	_	_
+4	in	in	_	_	ADP	_	_	_	_
+5	omni	omnis	_	_	FEM;SG;ADJ;AT+ABL	_	_	_	_
+6	re	res	_	_	N;FEM;SG;AT+ABL	_	_	_	_
+7	dominatur	dominor	_	_	V;PRS;IND;3;PASS;SG;FIN	_	_	_	_
+8	;	;	_	_	_	_	_	_	_
+
+# sent_id = tlg0031.tlg027.perseus-lat1.tb.xml@418
+# text = et in fronte eius nomen scriptum mysterium:
+1	et	et	_	_	CONJ	_	_	_	_
+2	in	in	_	_	ADP	_	_	_	_
+3	fronte	frons	_	_	N;FEM;SG;AT+ABL	_	_	_	_
+4	eius	is	_	_	PRO;FEM;SG;GEN	_	_	_	_
+5	nomen	nomen	_	_	N;NEUT;NOM;SG	_	_	_	_
+6	scriptum	scribo	_	_	V.PTCP;V;PASS;PST;PFV;NEUT;NOM;SG	_	_	_	_
+7	mysterium	mysterium	_	_	N;NEUT;NOM;SG	_	_	_	_
+8	:	:	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@878
+# text = Desperatum valde ingeniosus est:
+1	Desperatum	despero	_	_	ADJ;NEUT;SG;NOM	_	_	_	_
+2	valde	validus	_	_	ADV	_	_	_	_
+3	ingeniosus	ingeniosus	_	_	ADJ;SG;MASC;NOM	_	_	_	_
+4	est	sum	_	_	V;FIN;ACT;3;PRS;IND;SG	_	_	_	_
+5	:	:	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@152
+# text = Fortis indigne tuli Mihi insultare:
+1	Fortis	fortis	_	_	ADJ;ACC;PL;MASC	_	_	_	_
+2	indigne	indignus	_	_	ADV	_	_	_	_
+3	tuli	fero	_	_	V;FIN;ACT;IND;PFV;SG;PST;1	_	_	_	_
+4	Mihi	ego	_	_	DAT;SG;MASC;PRO	_	_	_	_
+5	insultare	insulto	_	_	V;PRS;ACT;NFIN	_	_	_	_
+6	:	:	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@594
+# text = offlam et tabulas accepit.
+1	offlam	offula	_	_	FEM;N;SG;ACC	_	_	_	_
+2	et	et	_	_	CONJ	_	_	_	_
+3	tabulas	tabula	_	_	FEM;N;ACC;PL	_	_	_	_
+4	accepit	accipio	_	_	V;FIN;ACT;3;IND;PFV;SG;PST	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = tlg0031.tlg027.perseus-lat1.tb.xml@32
+# text = et patientiam habes et sustinuisti propter nomen meum et non defecisti.
+1	et	et	_	_	CONJ	_	_	_	_
+2	patientiam	patientia	_	_	N;FEM;ACC;SG	_	_	_	_
+3	habes	habeo	_	_	V;PRS;IND;2;ACT;SG;FIN	_	_	_	_
+4	et	et	_	_	CONJ	_	_	_	_
+5	sustinuisti	sustineo	_	_	V;IND;2;ACT;PST;PFV;SG;FIN	_	_	_	_
+6	propter	propter	_	_	ADP	_	_	_	_
+7	nomen	nomen	_	_	N;NEUT;ACC;SG	_	_	_	_
+8	meum	meus	_	_	ACC;NEUT;SG;ADJ	_	_	_	_
+9	et	et	_	_	CONJ	_	_	_	_
+10	non	non	_	_	ADV	_	_	_	_
+11	defecisti	deficio	_	_	V;IND;2;ACT;PST;PFV;SG;FIN	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@318
+# text = quod superfuit:
+1	quod	qui	_	_	PRO;NEUT;NOM;SG	_	_	_	_
+2	superfuit	supersum	_	_	V;IND;3;ACT;PST;PFV;SG;FIN	_	_	_	_
+3	:	:	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@195
+# text = In leone cataphagae nascuntur et imperiosi;
+1	In	in	_	_	ADP	_	_	_	_
+2	leone	leo	_	_	N;SG;MASC;AT+ABL	_	_	_	_
+3	cataphagae	cataphaga	_	_	FEM;N;PL;NOM	_	_	_	_
+4	nascuntur	nascor	_	_	V;FIN;3;PRS;IND;PL;PASS	_	_	_	_
+5	et	et	_	_	CONJ	_	_	_	_
+6	imperiosi	imperiosus	_	_	ADJ;PL;MASC;NOM	_	_	_	_
+7	;	;	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@38
+# text = A quo repulsus tristem sustinuit notam.
+1	A	ab	_	_	ADP	_	_	_	_
+2	quo	qui	_	_	AT+ABL;SG;PRO;NEUT	_	_	_	_
+3	repulsus	repello	_	_	V;MASC;NOM;SG;PFV;PST;V.PTCP;PASS	_	_	_	_
+4	tristem	tristis	_	_	ADJ;FEM;ACC;SG	_	_	_	_
+5	sustinuit	sustineo	_	_	V;FIN;ACT;3;IND;PFV;SG;PST	_	_	_	_
+6	notam	nota	_	_	FEM;N;SG;ACC	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@403
+# text = Profuit mihi tamen malicorium et taeda ex aceto.
+1	Profuit	prosum	_	_	V;FIN;ACT;3;IND;PFV;SG;PST	_	_	_	_
+2	mihi	ego	_	_	DAT;SG;MASC;PRO	_	_	_	_
+3	tamen	tamen	_	_	ADV	_	_	_	_
+4	malicorium	malicorium	_	_	NEUT;N;SG;NOM	_	_	_	_
+5	et	et	_	_	CONJ	_	_	_	_
+6	taeda	taeda	_	_	FEM;N;SG;NOM	_	_	_	_
+7	ex	ex	_	_	ADP	_	_	_	_
+8	aceto	acetum	_	_	NEUT;N;SG;AT+ABL	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0620.phi001.perseus-lat1.tb.xml@196
+# text = Quid mihi desidiae non cessas fingere crimen, quod facias nobis, conscia Roma, moram?
+1	Quid	quis	_	_	PRO;NEUT;ACC;SG	_	_	_	_
+2	mihi	ego	_	_	PRO;DAT;MASC;SG	_	_	_	_
+3	desidiae	desidia	_	_	N;FEM;SG;GEN	_	_	_	_
+4	non	non	_	_	ADV	_	_	_	_
+5	cessas	cesso	_	_	V;PRS;IND;2;ACT;SG;FIN	_	_	_	_
+6	fingere	fingo	_	_	NFIN;PRS;V;ACT	_	_	_	_
+7	crimen	crimen	_	_	N;NEUT;ACC;SG	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	quod	quod	_	_	CONJ	_	_	_	_
+10	facias	facio	_	_	SBJV;V;PRS;2;ACT;SG;FIN	_	_	_	_
+11	nobis	nos	_	_	PRO;PL;DAT;MASC	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	conscia	conscius	_	_	FEM;VOC;ADJ;SG	_	_	_	_
+14	Roma	Roma	_	_	N;FEM;VOC;SG	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	moram	mora	_	_	N;FEM;ACC;SG	_	_	_	_
+17	?	?	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@577
+# text = boves, quorum beneficio panem manducamus;
+1	boves	bos	_	_	N;PL;MASC;NOM	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	quorum	quis	_	_	GEN;MASC;PRO;PL	_	_	_	_
+4	beneficio	beneficium	_	_	NEUT;N;SG;AT+ABL	_	_	_	_
+5	panem	panis	_	_	N;SG;ACC;MASC	_	_	_	_
+6	manducamus	manduco	_	_	V;FIN;ACT;PRS;IND;PL;1	_	_	_	_
+7	;	;	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@192
+# text = Ideo multis pedibus sto, et in mari et in terra multa possideo;
+1	Ideo	ideo	_	_	ADV	_	_	_	_
+2	multis	multus	_	_	ADJ;FEM;AT+ABL;PL	_	_	_	_
+3	pedibus	pedis	_	_	FEM;N;PL;AT+ABL	_	_	_	_
+4	sto	sto	_	_	V;FIN;ACT;PRS;IND;SG;1	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	et	et	_	_	CONJ	_	_	_	_
+7	in	in	_	_	ADP	_	_	_	_
+8	mari	mare	_	_	NEUT;N;SG;AT+ABL	_	_	_	_
+9	et	et	_	_	CONJ	_	_	_	_
+10	in	in	_	_	ADP	_	_	_	_
+11	terra	terra	_	_	FEM;N;SG;AT+ABL	_	_	_	_
+12	multa	multa	_	_	PL;N;ACC;NEUT	_	_	_	_
+13	possideo	possideo	_	_	V;FIN;ACT;PRS;IND;SG;1	_	_	_	_
+14	;	;	_	_	_	_	_	_	_
+
+# sent_id = phi0448.phi001.perseus-lat1.tb.xml@30
+# text = nostri autem, si ab illis initium transeundi fieret, ut impeditos adgrederentur parati in armis erant.
+1	nostri	noster	_	_	PRO;NOM;MASC;PL	_	_	_	_
+2	autem	autem	_	_	CONJ	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	si	si	_	_	CONJ	_	_	_	_
+5	ab	ab	_	_	ADP	_	_	_	_
+6	illis	ille	_	_	PRO;PL;MASC;AT+ABL	_	_	_	_
+7	initium	initium	_	_	N;NEUT;NOM;SG	_	_	_	_
+8	transeundi	transeo	_	_	V.MSDR;V;GEN	_	_	_	_
+9	fieret	fio	_	_	SBJV;V;3;ACT;SG;FIN	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	ut	ut	_	_	CONJ	_	_	_	_
+12	impeditos	impedio	_	_	V.PTCP;V;ACC;PL;MASC;PASS;PST;PFV	_	_	_	_
+13	adgrederentur	aggredior	_	_	SBJV;V;PL;3;ACT;PST;FIN;IPFV	_	_	_	_
+14	parati	paro	_	_	V.PTCP;V;PL;MASC;PASS;PST;PFV;NOM	_	_	_	_
+15	in	in	_	_	ADP	_	_	_	_
+16	armis	arma	_	_	N;NEUT;PL;AT+ABL	_	_	_	_
+17	erant	sum	_	_	V;IND;PL;3;ACT;PST;FIN;IPFV	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0631.phi001.perseus-lat1.tb.xml@688
+# text = Catilina postquam fusas copias que se cum paucis relictum videt, memor generis atque pristinae suae dignitatis in confertissumos hostis incurrit que ibi pugnans confoditur.
+1	Catilina	Catilina	_	_	N;NOM;SG;MASC	_	_	_	_
+2	postquam	postquam	_	_	CONJ	_	_	_	_
+3	fusas	fundo	_	_	FEM;V.PTCP;V;ACC;PL;PASS;PST;PFV	_	_	_	_
+4	copias	copia	_	_	N;FEM;PL;ACC	_	_	_	_
+5	que	que	_	_	CONJ	_	_	_	_
+6	se	sui	_	_	PRO;ACC;MASC;SG	_	_	_	_
+7	cum	cum	_	_	ADP	_	_	_	_
+8	paucis	paucus	_	_	PL;MASC;ADJ;AT+ABL	_	_	_	_
+9	relictum	relinquo	_	_	V.PTCP;V;ACC;MASC;PASS;PST;PFV;SG	_	_	_	_
+10	videt	video	_	_	V;PRS;IND;3;ACT;SG;FIN	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	memor	memor	_	_	NOM;MASC;ADJ;SG	_	_	_	_
+13	generis	genus	_	_	N;NEUT;SG;GEN	_	_	_	_
+14	atque	atque	_	_	CONJ	_	_	_	_
+15	pristinae	pristinus	_	_	FEM;SG;ADJ;GEN	_	_	_	_
+16	suae	suus	_	_	FEM;SG;ADJ;GEN	_	_	_	_
+17	dignitatis	dignitas	_	_	N;FEM;SG;GEN	_	_	_	_
+18	in	in	_	_	ADP	_	_	_	_
+19	confertissumos	confertus	_	_	ACC;PL;MASC;ADJ;RL	_	_	_	_
+20	hostis	hostis	_	_	N;PL;ACC;MASC	_	_	_	_
+21	incurrit	incurro	_	_	V;PRS;IND;3;ACT;SG;FIN	_	_	_	_
+22	que	que	_	_	CONJ	_	_	_	_
+23	ibi	ibi	_	_	ADV	_	_	_	_
+24	pugnans	pugno	_	_	V.PTCP;V;PRS;MASC;ACT;NOM;SG	_	_	_	_
+25	confoditur	confodio	_	_	V;PRS;IND;3;PASS;SG;FIN	_	_	_	_
+26	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@126
+# text = fortunam adhuc tantum adversam tulisti:
+1	fortunam	fortuna	_	_	N;FEM;ACC;SG	_	_	_	_
+2	adhuc	adhuc	_	_	ADV	_	_	_	_
+3	tantum	tantus	_	_	ADV	_	_	_	_
+4	adversam	adverto	_	_	FEM;V.PTCP;V;ACC;PASS;PST;PFV;SG	_	_	_	_
+5	tulisti	fero	_	_	V;IND;2;ACT;PST;PFV;SG;FIN	_	_	_	_
+6	:	:	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@579
+# text = Excedit animus quem proposuit terminum;
+1	Excedit	excedo	_	_	V;PRS;IND;3;ACT;SG;FIN	_	_	_	_
+2	animus	animus	_	_	N;NOM;SG;MASC	_	_	_	_
+3	quem	qui	_	_	PRO;ACC;MASC;SG	_	_	_	_
+4	proposuit	propono	_	_	V;IND;3;ACT;PST;PFV;SG;FIN	_	_	_	_
+5	terminum	terminus	_	_	N;ACC;MASC;SG	_	_	_	_
+6	;	;	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@845
+# text = Venit ergo galbino succincta cingillo, ita ut infra cerasina appareret tunica et periscelides tortae que phaecasiae inauratae.
+1	Venit	venio	_	_	V;FIN;ACT;3;PRS;IND;SG	_	_	_	_
+2	ergo	ergo	_	_	ADV	_	_	_	_
+3	galbino	galbinus	_	_	ADJ;AT+ABL;SG;NEUT	_	_	_	_
+4	succincta	succingo	_	_	V;FEM;NOM;SG;PFV;PST;V.PTCP;PASS	_	_	_	_
+5	cingillo	cingillum	_	_	NEUT;N;SG;AT+ABL	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	ita	ita	_	_	ADV	_	_	_	_
+8	ut	ut	_	_	CONJ	_	_	_	_
+9	infra	infra	_	_	ADV	_	_	_	_
+10	cerasina	cerasinus	_	_	ADJ;FEM;SG;NOM	_	_	_	_
+11	appareret	appareo	_	_	V;IPFV;FIN;ACT;3;SBJV;SG;PST	_	_	_	_
+12	tunica	tunica	_	_	FEM;N;SG;NOM	_	_	_	_
+13	et	et	_	_	CONJ	_	_	_	_
+14	periscelides	periscelis	_	_	FEM;N;PL;NOM	_	_	_	_
+15	tortae	torqueo	_	_	V;FEM;NOM;PL;PFV;PST;V.PTCP;PASS	_	_	_	_
+16	que	que	_	_	CONJ	_	_	_	_
+17	phaecasiae	phaecasia	_	_	FEM;N;PL;NOM	_	_	_	_
+18	inauratae	inauro	_	_	V;FEM;NOM;PL;PFV;PST;V.PTCP;PASS	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@883
+# text = sicut Venus spectat.
+1	sicut	sicut	_	_	ADV	_	_	_	_
+2	Venus	Venus	_	_	FEM;N;SG;NOM	_	_	_	_
+3	spectat	specto	_	_	V;FIN;ACT;3;PRS;IND;SG	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@300
+# text = Vos modo inquit parcite;
+1	Vos	tu	_	_	PRO;NOM;MASC;PL	_	_	_	_
+2	modo	modo	_	_	ADV	_	_	_	_
+3	inquit	inquam	_	_	V;IND;3;ACT;PST;PFV;SG;FIN	_	_	_	_
+4	parcite	parco	_	_	IMP;V;PL;2;ACT;PRS;FIN	_	_	_	_
+5	;	;	_	_	_	_	_	_	_
+
+# sent_id = phi0631.phi001.perseus-lat1.tb.xml@662
+# text = Quom vos considero, milites, et quom facta vostra aestumo, magna me spes victoriae tenet.
+1	Quom	cum	_	_	CONJ	_	_	_	_
+2	vos	tu	_	_	PRO;PL;ACC;MASC	_	_	_	_
+3	considero	considero	_	_	V;PRS;IND;ACT;1;SG;FIN	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	milites	miles	_	_	N;PL;VOC;MASC	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	et	et	_	_	CONJ	_	_	_	_
+8	quom	cum	_	_	CONJ	_	_	_	_
+9	facta	factum	_	_	N;NEUT;PL;ACC	_	_	_	_
+10	vostra	vester	_	_	ACC;NEUT;PL;ADJ	_	_	_	_
+11	aestumo	aestimo	_	_	V;PRS;IND;ACT;1;SG;FIN	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	magna	magnus	_	_	FEM;NOM;SG;ADJ	_	_	_	_
+14	me	ego	_	_	PRO;ACC;MASC;SG	_	_	_	_
+15	spes	spes	_	_	N;FEM;NOM;SG	_	_	_	_
+16	victoriae	victoria	_	_	N;FEM;SG;GEN	_	_	_	_
+17	tenet	teneo	_	_	V;PRS;IND;3;ACT;SG;FIN	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@1088
+# text = Tu parum felix in amicos es.
+1	Tu	tu	_	_	SG;MASC;PRO;NOM	_	_	_	_
+2	parum	parum	_	_	ADV	_	_	_	_
+3	felix	felix	_	_	ADJ;SG;MASC;NOM	_	_	_	_
+4	in	in	_	_	ADP	_	_	_	_
+5	amicos	amicus	_	_	N;ACC;MASC;PL	_	_	_	_
+6	es	sum	_	_	V;FIN;2;ACT;PRS;IND;SG	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@315
+# text = Quod ad me attinet, iam pannos meos comedi, et si perseverat haec annona, casulas meas vendam.
+1	Quod	qui	_	_	NEUT;SG;PRO;NOM	_	_	_	_
+2	ad	ad	_	_	ADP	_	_	_	_
+3	me	ego	_	_	ACC;SG;MASC;PRO	_	_	_	_
+4	attinet	attineo	_	_	V;FIN;ACT;3;PRS;IND;SG	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	iam	jam	_	_	ADV	_	_	_	_
+7	pannos	pannus	_	_	N;ACC;MASC;PL	_	_	_	_
+8	meos	meus	_	_	ADJ;ACC;PL;MASC	_	_	_	_
+9	comedi	comedo	_	_	V;FIN;ACT;IND;PFV;SG;PST;1	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	et	et	_	_	CONJ	_	_	_	_
+12	si	si	_	_	CONJ	_	_	_	_
+13	perseverat	persevero	_	_	V;FIN;ACT;3;PRS;IND;SG	_	_	_	_
+14	haec	hic	_	_	FEM;SG;PRO;NOM	_	_	_	_
+15	annona	annona	_	_	FEM;N;SG;NOM	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	casulas	casula	_	_	FEM;N;ACC;PL	_	_	_	_
+18	meas	meus	_	_	ADJ;FEM;ACC;PL	_	_	_	_
+19	vendam	vendo	_	_	V;FIN;ACT;IND;SG;1;FUT	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0631.phi001.perseus-lat1.tb.xml@74
+# text = gloriam ingentem, divitias honestas volebant.
+1	gloriam	gloria	_	_	N;FEM;ACC;SG	_	_	_	_
+2	ingentem	ingens	_	_	ACC;FEM;SG;ADJ	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	divitias	divitiae	_	_	N;FEM;PL;ACC	_	_	_	_
+5	honestas	honestus	_	_	ACC;FEM;PL;ADJ	_	_	_	_
+6	volebant	volo	_	_	V;IND;PL;3;ACT;PST;FIN;IPFV	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@37
+# text = Male mulcatus graculus Redire maerens coepit ad proprium genus;
+1	Male	malus	_	_	ADV	_	_	_	_
+2	mulcatus	mulco	_	_	V;MASC;NOM;SG;PFV;PST;V.PTCP;PASS	_	_	_	_
+3	graculus	graculus	_	_	N;SG;MASC;NOM	_	_	_	_
+4	Redire	redeo	_	_	V;PRS;ACT;NFIN	_	_	_	_
+5	maerens	maereo	_	_	V;MASC;NOM;PRS;SG;V.PTCP	_	_	_	_
+6	coepit	coepio	_	_	V;FIN;ACT;3;PRS;IND;SG	_	_	_	_
+7	ad	ad	_	_	ADP	_	_	_	_
+8	proprium	proprius	_	_	ADJ;ACC;SG;NEUT	_	_	_	_
+9	genus	genus	_	_	N;SG;ACC;NEUT	_	_	_	_
+10	;	;	_	_	_	_	_	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@73
+# text = id satis videbatur.
+1	id	is	_	_	PRO;NEUT;NOM;SG	_	_	_	_
+2	satis	satis	_	_	ADV	_	_	_	_
+3	videbatur	video	_	_	V;IND;3;PASS;PST;SG;FIN;IPFV	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@127
+# text = Ubi vos requiram cum dies advenerit?
+1	Ubi	ubi	_	_	ADV	_	_	_	_
+2	vos	tu	_	_	ACC;MASC;PRO;PL	_	_	_	_
+3	requiram	requiro	_	_	V;FIN;ACT;IND;SG;1;FUT	_	_	_	_
+4	cum	cum	_	_	CONJ	_	_	_	_
+5	dies	dies	_	_	N;SG;MASC;NOM	_	_	_	_
+6	advenerit	advenio	_	_	V;FIN;ACT;3;IND;PFV;SG;FUT	_	_	_	_
+7	?	?	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@183
+# text = Nam mihi nihil novi potest afferri, sicut ille fericulus iam habuit praxim.
+1	Nam	nam	_	_	CONJ	_	_	_	_
+2	mihi	ego	_	_	DAT;SG;MASC;PRO	_	_	_	_
+3	nihil	nihil	_	_	N;SG;NEUT	_	_	_	_
+4	novi	novus	_	_	ADJ;NEUT;GEN;SG	_	_	_	_
+5	potest	possum	_	_	V;FIN;ACT;3;PRS;IND;SG	_	_	_	_
+6	afferri	affero	_	_	V;PRS;PASS;NFIN	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	sicut	sicut	_	_	CONJ	_	_	_	_
+9	ille	ille	_	_	SG;MASC;PRO;NOM	_	_	_	_
+10	fericulus	fericulus	_	_	N;SG;MASC;NOM	_	_	_	_
+11	iam	jam	_	_	ADV	_	_	_	_
+12	habuit	habeo	_	_	V;FIN;ACT;3;IND;PFV;SG;PST	_	_	_	_
+13	praxim	praxim	_	_	N;SG;ACC;NEUT	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@637
+# text = Annis quadraginta servivi;
+1	Annis	annus	_	_	N;PL;MASC;AT+ABL	_	_	_	_
+2	quadraginta	quadraginta	_	_	NUM	_	_	_	_
+3	servivi	servio	_	_	V;FIN;ACT;IND;PFV;SG;PST;1	_	_	_	_
+4	;	;	_	_	_	_	_	_	_
+
+# sent_id = phi1221.phi007.perseus-lat1.tb.xml@76
+# text = quibus in classibus pugnaverunt praeter remiges millia hominum tria circiter.
+1	quibus	qui	_	_	N;FEM;PL;AT+ABL	_	_	_	_
+2	in	in	_	_	ADP	_	_	_	_
+3	classibus	classis	_	_	N;FEM;PL;AT+ABL	_	_	_	_
+4	pugnaverunt	pugno	_	_	V;IND;PL;3;ACT;PST;PFV;FIN	_	_	_	_
+5	praeter	praeter	_	_	ADP	_	_	_	_
+6	remiges	remex	_	_	N;PL;ACC;MASC	_	_	_	_
+7	millia	mille	_	_	NEUT;NOM;NUM;PL	_	_	_	_
+8	hominum	homo	_	_	N;PL;MASC;GEN	_	_	_	_
+9	tria	tres	_	_	NEUT;NOM;NUM;PL	_	_	_	_
+10	circiter	circiter	_	_	ADV	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@123
+# text = Fraudator homines cum advocat sponsum improbos, Non rem expedire, sed mala videre expetit.
+1	Fraudator	fraudator	_	_	N;SG;MASC;NOM	_	_	_	_
+2	homines	homo	_	_	N;ACC;MASC;PL	_	_	_	_
+3	cum	cum	_	_	CONJ	_	_	_	_
+4	advocat	advoco	_	_	V;FIN;ACT;3;PRS;IND;SG	_	_	_	_
+5	sponsum	sponsus	_	_	N;SG;ACC;MASC	_	_	_	_
+6	improbos	improbus	_	_	ADJ;ACC;PL;MASC	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	Non	non	_	_	ADV	_	_	_	_
+9	rem	res	_	_	FEM;N;SG;ACC	_	_	_	_
+10	expedire	expedio	_	_	V;PRS;ACT;NFIN	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	sed	sed	_	_	CONJ	_	_	_	_
+13	mala	malus	_	_	ADJ;ACC;PL;NEUT	_	_	_	_
+14	videre	video	_	_	V;PRS;ACT;NFIN	_	_	_	_
+15	expetit	expeto	_	_	V;FIN;ACT;3;PRS;IND;SG	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0959.phi006.perseus-lat1.tb.xml@107
+# text = terrent etiam nunc nubila mentem.
+1	terrent	terreo	_	_	V;FIN;ACT;3;PRS;IND;PL	_	_	_	_
+2	etiam	etiam	_	_	ADV	_	_	_	_
+3	nunc	nunc	_	_	ADV	_	_	_	_
+4	nubila	nubila	_	_	NEUT;N;PL;NOM	_	_	_	_
+5	mentem	mens	_	_	FEM;N;SG;ACC	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0620.phi001.perseus-lat1.tb.xml@114
+# text = nec poterunt iuvenes nostro reticere sepulcro ' Ardoris nostri magne poeta, iaces. '
+1	nec	neque	_	_	CONJ	_	_	_	_
+2	poterunt	possum	_	_	V;IND;PL;3;ACT;FUT;FIN	_	_	_	_
+3	iuvenes	juvenis	_	_	NOM;MASC;ADJ;PL	_	_	_	_
+4	nostro	noster	_	_	PRO;NEUT;DAT;SG	_	_	_	_
+5	reticere	reticeo	_	_	NFIN;PRS;V;ACT	_	_	_	_
+6	sepulcro	sepulcrum	_	_	N;NEUT;DAT;SG	_	_	_	_
+7	'	'	_	_	_	_	_	_	_
+8	Ardoris	ardor	_	_	N;SG;MASC;GEN	_	_	_	_
+9	nostri	noster	_	_	PRO;SG;MASC;GEN	_	_	_	_
+10	magne	magnus	_	_	MASC;VOC;ADJ;SG	_	_	_	_
+11	poeta	poeta	_	_	N;VOC;MASC;SG	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	iaces	jaceo	_	_	V;PRS;IND;2;ACT;SG;FIN	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+15	'	'	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@140
+# text = obiter et vernaculae quae sunt, meliusculae a Graeculis fient.
+1	obiter	obiter	_	_	ADV	_	_	_	_
+2	et	et	_	_	CONJ	_	_	_	_
+3	vernaculae	vernaculus	_	_	ADJ;FEM;PL;NOM	_	_	_	_
+4	quae	qui	_	_	FEM;PL;PRO;NOM	_	_	_	_
+5	sunt	sum	_	_	V;FIN;ACT;3;PRS;IND;PL	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	meliusculae	meliusculus	_	_	ADJ;FEM;PL;NOM	_	_	_	_
+8	a	ab	_	_	ADP	_	_	_	_
+9	Graeculis	Graeculus	_	_	N;PL;MASC;AT+ABL	_	_	_	_
+10	fient	fio	_	_	V;FIN;ACT;3;IND;PL;FUT	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@16
+# text = Itaque intravimus balneum, et sudore calfacti momento temporis ad frigidam eximus.
+1	Itaque	ita	_	_	ADV	_	_	_	_
+2	intravimus	intro	_	_	V;FIN;ACT;IND;PFV;PL;PST;1	_	_	_	_
+3	balneum	balneum	_	_	N;SG;ACC;NEUT	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	et	et	_	_	CONJ	_	_	_	_
+6	sudore	sudor	_	_	N;SG;MASC;AT+ABL	_	_	_	_
+7	calfacti	calefactus	_	_	V;MASC;NOM;PL;PFV;PST;V.PTCP;PASS	_	_	_	_
+8	momento	momentum	_	_	NEUT;N;SG;AT+ABL	_	_	_	_
+9	temporis	tempus	_	_	N;GEN;SG;NEUT	_	_	_	_
+10	ad	ad	_	_	ADP	_	_	_	_
+11	frigidam	frigida	_	_	FEM;N;SG;ACC	_	_	_	_
+12	eximus	exeo	_	_	V;FIN;ACT;IND;PFV;PL;PST;1	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0959.phi006.perseus-lat1.tb.xml@51
+# text = qua terra patet, fera regnat Erinys.
+1	qua	qua	_	_	ADV	_	_	_	_
+2	terra	terra	_	_	FEM;N;SG;NOM	_	_	_	_
+3	patet	pateo	_	_	V;FIN;ACT;3;PRS;IND;SG	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	fera	ferus	_	_	ADJ;FEM;SG;NOM	_	_	_	_
+6	regnat	regno	_	_	V;FIN;ACT;3;PRS;IND;SG	_	_	_	_
+7	Erinys	Erinys	_	_	FEM;N;SG;NOM	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@185
+# text = Quae cum lagonae collum frustra lamberet, Peregrinam sic locutam volucrem accepimus:
+1	Quae	qui	_	_	FEM;SG;PRO;NOM	_	_	_	_
+2	cum	cum	_	_	CONJ	_	_	_	_
+3	lagonae	lagena	_	_	FEM;N;GEN;SG	_	_	_	_
+4	collum	collum	_	_	N;SG;ACC;NEUT	_	_	_	_
+5	frustra	frustra	_	_	ADV	_	_	_	_
+6	lamberet	lambo	_	_	V;IPFV;FIN;ACT;3;SBJV;SG;PST	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	Peregrinam	peregrinus	_	_	ADJ;FEM;ACC;SG	_	_	_	_
+9	sic	sic	_	_	ADV	_	_	_	_
+10	locutam	loquor	_	_	V;FEM;PASS;SG;PFV;PST;ACC;V.PTCP	_	_	_	_
+11	volucrem	volucer	_	_	FEM;N;SG;ACC	_	_	_	_
+12	accepimus	accipio	_	_	V;FIN;ACT;IND;PFV;PL;PST;1	_	_	_	_
+13	:	:	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@409
+# text = Hoc solum vetare ne Iovis potest.
+1	Hoc	hic	_	_	ACC;SG;PRO;NEUT	_	_	_	_
+2	solum	solus	_	_	ADJ;ACC;SG;NEUT	_	_	_	_
+3	vetare	veto	_	_	V;PRS;ACT;NFIN	_	_	_	_
+4	ne	ne	_	_	ADV	_	_	_	_
+5	Iovis	Iovis	_	_	N;SG;MASC;NOM	_	_	_	_
+6	potest	possum	_	_	V;FIN;ACT;3;PRS;IND;SG	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi1348.abo012.perseus-lat1.tb.xml@337
+# text = die senatus numquam patres nisi in curia salutauit et quidem sedentis ac nominatim singulos nullo submonente;
+1	die	dies	_	_	N;SG;MASC;AT+ABL	_	_	_	_
+2	senatus	senatus	_	_	N;SG;MASC;GEN	_	_	_	_
+3	numquam	numquam	_	_	ADV	_	_	_	_
+4	patres	pater	_	_	N;PL;ACC;MASC	_	_	_	_
+5	nisi	nisi	_	_	CONJ	_	_	_	_
+6	in	in	_	_	ADP	_	_	_	_
+7	curia	curia	_	_	N;FEM;SG;AT+ABL	_	_	_	_
+8	salutauit	saluto	_	_	V;IND;3;ACT;PST;PFV;SG;FIN	_	_	_	_
+9	et	et	_	_	CONJ	_	_	_	_
+10	quidem	quidem	_	_	ADV	_	_	_	_
+11	sedentis	sedeo	_	_	V.PTCP;V;ACC;PL;MASC;PRS	_	_	_	_
+12	ac	atque	_	_	CONJ	_	_	_	_
+13	nominatim	nominatim	_	_	ADV	_	_	_	_
+14	singulos	singuli	_	_	ACC;PL;NUM;MASC	_	_	_	_
+15	nullo	nullus	_	_	MASC;ADJ;SG;AT+ABL	_	_	_	_
+16	submonente	summoneo	_	_	V.PTCP;V;PRS;MASC;ACT;SG;AT+ABL	_	_	_	_
+17	;	;	_	_	_	_	_	_	_
+
+# sent_id = tlg0031.tlg027.perseus-lat1.tb.xml@611
+# text = contestor ego omni audienti verba prophetiae libri huius:
+1	contestor	contestor	_	_	V;PRS;IND;PASS;1;SG;FIN	_	_	_	_
+2	ego	ego	_	_	PRO;NOM;SG;MASC	_	_	_	_
+3	omni	omnis	_	_	MASC;DAT;ADJ;SG	_	_	_	_
+4	audienti	audio	_	_	DAT;V.PTCP;V;PRS;MASC;ACT;SG	_	_	_	_
+5	verba	verbum	_	_	N;NEUT;PL;ACC	_	_	_	_
+6	prophetiae	prophetia	_	_	N;FEM;SG;GEN	_	_	_	_
+7	libri	liber	_	_	N;SG;MASC;GEN	_	_	_	_
+8	huius	hic	_	_	PRO;SG;MASC;GEN	_	_	_	_
+9	:	:	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@493
+# text = apibus condicio placet.
+1	apibus	apis	_	_	N;FEM;PL;DAT	_	_	_	_
+2	condicio	condicio	_	_	N;FEM;NOM;SG	_	_	_	_
+3	placet	placeo	_	_	V;PRS;IND;3;ACT;SG;FIN	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi1221.phi007.perseus-lat1.tb.xml@63
+# text = Duo et octoginta templa deum in urbe consul sextum ex auctoritate senatus refeci nullo praetermisso quod eo tempore refici debebat.
+1	Duo	duo	_	_	NEUT;NOM;ADJ;PL	_	_	_	_
+2	et	et	_	_	CONJ	_	_	_	_
+3	octoginta	octoginta	_	_	NUM	_	_	_	_
+4	templa	templum	_	_	N;NEUT;PL;ACC	_	_	_	_
+5	deum	deus	_	_	N;PL;MASC;GEN	_	_	_	_
+6	in	in	_	_	ADP	_	_	_	_
+7	urbe	urbs	_	_	N;FEM;SG;AT+ABL	_	_	_	_
+8	consul	consul	_	_	N;NOM;SG;MASC	_	_	_	_
+9	sextum	sextus	_	_	ACC;NEUT;SG;ADJ	_	_	_	_
+10	ex	ex	_	_	ADP	_	_	_	_
+11	auctoritate	auctoritas	_	_	N;FEM;SG;AT+ABL	_	_	_	_
+12	senatus	senatus	_	_	N;SG;MASC;GEN	_	_	_	_
+13	refeci	reficio	_	_	V;IND;ACT;PST;1;PFV;SG;FIN	_	_	_	_
+14	nullo	nullus	_	_	NEUT;SG;ADJ;AT+ABL	_	_	_	_
+15	praetermisso	praetermitto	_	_	V.PTCP;V;PASS;PST;PFV;NEUT;SG;AT+ABL	_	_	_	_
+16	quod	qui	_	_	N;NEUT;NOM;SG	_	_	_	_
+17	eo	is	_	_	PRO;NEUT;SG;AT+ABL	_	_	_	_
+18	tempore	tempus	_	_	N;NEUT;SG;AT+ABL	_	_	_	_
+19	refici	reficio	_	_	NFIN;PRS;V;PASS	_	_	_	_
+20	debebat	debeo	_	_	V;IND;3;ACT;PST;SG;FIN;IPFV	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@838
+# text = Et si, inquam, ursus homuncionem comest quanto magis homuncio debet ursum comesse?
+1	Et	et	_	_	CONJ	_	_	_	_
+2	si	si	_	_	CONJ	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	inquam	inquam	_	_	V;FIN;ACT;PRS;IND;SG;1	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	ursus	ursus	_	_	N;SG;MASC;NOM	_	_	_	_
+7	homuncionem	homuncio	_	_	N;SG;ACC;MASC	_	_	_	_
+8	comest	comedo	_	_	V;FIN;ACT;3;PRS;IND;SG	_	_	_	_
+9	quanto	quanto	_	_	ADV	_	_	_	_
+10	magis	magis	_	_	ADV	_	_	_	_
+11	homuncio	homuncio	_	_	N;SG;MASC;NOM	_	_	_	_
+12	debet	debeo	_	_	V;FIN;ACT;3;PRS;IND;SG	_	_	_	_
+13	ursum	ursus	_	_	N;SG;ACC;MASC	_	_	_	_
+14	comesse	comedo	_	_	V;PRS;ACT;NFIN	_	_	_	_
+15	?	?	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@393
+# text = Comprensus namque poenas persolvit cruce.
+1	Comprensus	comprehendo	_	_	V.PTCP;V;MASC;PASS;PST;PFV;NOM;SG	_	_	_	_
+2	namque	namque	_	_	CONJ	_	_	_	_
+3	poenas	poena	_	_	N;FEM;PL;ACC	_	_	_	_
+4	persolvit	persolvo	_	_	V;IND;3;ACT;PST;PFV;SG;FIN	_	_	_	_
+5	cruce	crux	_	_	N;FEM;SG;AT+ABL	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0631.phi001.perseus-lat1.tb.xml@484
+# text = eam cuncta mortalium mala dissolvere;
+1	eam	is	_	_	PRO;FEM;ACC;SG	_	_	_	_
+2	cuncta	cunctus	_	_	ACC;NEUT;PL;ADJ	_	_	_	_
+3	mortalium	mortalis	_	_	PL;MASC;ADJ;GEN	_	_	_	_
+4	mala	malus	_	_	ACC;NEUT;PL;ADJ	_	_	_	_
+5	dissolvere	dissolvo	_	_	NFIN;PRS;V;ACT	_	_	_	_
+6	;	;	_	_	_	_	_	_	_
+
+# sent_id = phi1348.abo012.perseus-lat1.tb.xml@165
+# text = De reddenda re p. bis cogitauit:
+1	De	de	_	_	ADP	_	_	_	_
+2	reddenda	reddo	_	_	FEM;V.CVB;V;SG;AT+ABL	_	_	_	_
+3	re	res	_	_	N;FEM;SG;AT+ABL	_	_	_	_
+4	p.	publicus	_	_	FEM;SG;ADJ;AT+ABL	_	_	_	_
+5	bis	bis	_	_	ADV	_	_	_	_
+6	cogitauit	cogito	_	_	V;IND;3;ACT;PST;PFV;SG;FIN	_	_	_	_
+7	:	:	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@178
+# text = Rogo, me putatis illa cena esse contentum, quam in theca repositorii videratis?
+1	Rogo	rogo	_	_	V;FIN;ACT;PRS;IND;SG;1	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	me	ego	_	_	ACC;SG;MASC;PRO	_	_	_	_
+4	putatis	puto	_	_	V;FIN;2;ACT;PRS;IND;PL	_	_	_	_
+5	illa	ille	_	_	FEM;AT+ABL;SG;PRO	_	_	_	_
+6	cena	cena	_	_	FEM;N;SG;AT+ABL	_	_	_	_
+7	esse	sum	_	_	V;PRS;ACT;NFIN	_	_	_	_
+8	contentum	contineo	_	_	V;PASS;MASC;SG;PFV;PST;ACC;V.PTCP	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	quam	qui	_	_	FEM;ACC;SG;PRO	_	_	_	_
+11	in	in	_	_	ADP	_	_	_	_
+12	theca	theca	_	_	FEM;N;SG;AT+ABL	_	_	_	_
+13	repositorii	repositorium	_	_	N;GEN;SG;NEUT	_	_	_	_
+14	videratis	video	_	_	V;FIN;2;ACT;PST+PRF;IND;PL	_	_	_	_
+15	?	?	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@537
+# text = Iam etiam edicta aedilium recitabantur et saltuariorum testamenta, quibus Trimalchio cum elogio exheredabatur;
+1	Iam	jam	_	_	ADV	_	_	_	_
+2	etiam	etiam	_	_	CONJ	_	_	_	_
+3	edicta	edictum	_	_	NEUT;N;PL;NOM	_	_	_	_
+4	aedilium	aedilis	_	_	N;GEN;PL;MASC	_	_	_	_
+5	recitabantur	recito	_	_	V;IPFV;FIN;3;IND;PL;PST;PASS	_	_	_	_
+6	et	et	_	_	CONJ	_	_	_	_
+7	saltuariorum	saltuarius	_	_	N;GEN;PL;MASC	_	_	_	_
+8	testamenta	testamentum	_	_	NEUT;N;PL;NOM	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	quibus	qui	_	_	AT+ABL;PL;PRO;NEUT	_	_	_	_
+11	Trimalchio	Trimalchio	_	_	N;SG;MASC;NOM	_	_	_	_
+12	cum	cum	_	_	CONJ	_	_	_	_
+13	elogio	elogium	_	_	NEUT;N;SG;AT+ABL	_	_	_	_
+14	exheredabatur	exheredo	_	_	V;IPFV;FIN;3;IND;SG;PST;PASS	_	_	_	_
+15	;	;	_	_	_	_	_	_	_
+
+# sent_id = phi0474.phi013.perseus-lat1.tb.xml@294
+# text = ille autem, si mehercule hoc quod agit numquam antea cogitasset, tamen latrocinantem se interfici mallet quam exsulem vivere.
+1	ille	ille	_	_	PRO;NOM;SG;MASC	_	_	_	_
+2	autem	autem	_	_	CONJ	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	si	si	_	_	CONJ	_	_	_	_
+5	mehercule	Hercules	_	_	INTJ	_	_	_	_
+6	hoc	hic	_	_	PRO;NEUT;ACC;SG	_	_	_	_
+7	quod	qui	_	_	PRO;NEUT;ACC;SG	_	_	_	_
+8	agit	ago	_	_	V;PRS;IND;3;ACT;SG;FIN	_	_	_	_
+9	numquam	numquam	_	_	ADV	_	_	_	_
+10	antea	antea	_	_	ADV	_	_	_	_
+11	cogitasset	cogito	_	_	SBJV;SG;V;3;ACT;PST+PRF;FIN	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	tamen	tamen	_	_	ADV	_	_	_	_
+14	latrocinantem	latrocinor	_	_	V.PTCP;V;PRS;ACC;MASC;SG	_	_	_	_
+15	se	sui	_	_	PRO;ACC;MASC;SG	_	_	_	_
+16	interfici	interficio	_	_	NFIN;PRS;V;PASS	_	_	_	_
+17	mallet	malo	_	_	SBJV;V;3;ACT;PST;SG;FIN;IPFV	_	_	_	_
+18	quam	quam	_	_	ADV	_	_	_	_
+19	exsulem	exsul	_	_	N;ACC;MASC;SG	_	_	_	_
+20	vivere	vivo	_	_	NFIN;PRS;V;ACT	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@446
+# text = Nondum efflaverat omnia, cum repositorium cum sue ingenti mensam occupavit.
+1	Nondum	nondum	_	_	ADV	_	_	_	_
+2	efflaverat	efflo	_	_	V;FIN;ACT;3;IND;SG	_	_	_	_
+3	omnia	omnis	_	_	PL;N;ACC;NEUT	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	cum	cum	_	_	CONJ	_	_	_	_
+6	repositorium	repositorium	_	_	NEUT;N;SG;NOM	_	_	_	_
+7	cum	cum	_	_	ADP	_	_	_	_
+8	sue	sus	_	_	N;SG;MASC;AT+ABL	_	_	_	_
+9	ingenti	ingens	_	_	ADJ;AT+ABL;SG;MASC	_	_	_	_
+10	mensam	mensa	_	_	FEM;N;SG;ACC	_	_	_	_
+11	occupavit	occupo	_	_	V;FIN;ACT;3;IND;PFV;SG;PST	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0620.phi001.perseus-lat1.tb.xml@259
+# text = nulla prius vasto labentur flumina ponto, annus et inversas duxerit ante vices, quam tua sub nostro mutetur pectore cura:
+1	nulla	nullus	_	_	NEUT;NOM;ADJ;PL	_	_	_	_
+2	prius	prior	_	_	ADV	_	_	_	_
+3	vasto	vastus	_	_	MASC;ADJ;SG;AT+ABL	_	_	_	_
+4	labentur	labor	_	_	V;IND;PL;3;ACT;FUT;FIN	_	_	_	_
+5	flumina	flumen	_	_	N;NEUT;NOM;PL	_	_	_	_
+6	ponto	pontus	_	_	N;SG;MASC;AT+ABL	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	annus	annus	_	_	N;NOM;SG;MASC	_	_	_	_
+9	et	et	_	_	CONJ	_	_	_	_
+10	inversas	inverto	_	_	FEM;V.PTCP;V;ACC;PL;PASS;PST;PFV	_	_	_	_
+11	duxerit	duco	_	_	SBJV;V;3;ACT;PST;PFV;SG;FIN	_	_	_	_
+12	ante	ante	_	_	ADV	_	_	_	_
+13	vices	vicis	_	_	N;FEM;PL;ACC	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	quam	quam	_	_	ADV	_	_	_	_
+16	tua	tuus	_	_	PRO;FEM;NOM;SG	_	_	_	_
+17	sub	sub	_	_	ADP	_	_	_	_
+18	nostro	noster	_	_	PRO;NEUT;SG;AT+ABL	_	_	_	_
+19	mutetur	muto	_	_	SBJV;V;PRS;3;PASS;SG;FIN	_	_	_	_
+20	pectore	pectus	_	_	N;NEUT;SG;AT+ABL	_	_	_	_
+21	cura	cura	_	_	N;FEM;NOM;SG	_	_	_	_
+22	:	:	_	_	_	_	_	_	_
+
+# sent_id = phi0631.phi001.perseus-lat1.tb.xml@543
+# text = iam pridem equidem nos vera vocabula rerum amisimus:
+1	iam	jam	_	_	ADV	_	_	_	_
+2	pridem	pridem	_	_	ADV	_	_	_	_
+3	equidem	equidem	_	_	ADV	_	_	_	_
+4	nos	nos	_	_	PRO;NOM;MASC;PL	_	_	_	_
+5	vera	verus	_	_	ACC;NEUT;PL;ADJ	_	_	_	_
+6	vocabula	vocabulum	_	_	N;NEUT;PL;ACC	_	_	_	_
+7	rerum	res	_	_	N;FEM;PL;GEN	_	_	_	_
+8	amisimus	amitto	_	_	V;IND;PL;ACT;PST;1;PFV;FIN	_	_	_	_
+9	:	:	_	_	_	_	_	_	_
+
+# sent_id = phi0620.phi001.perseus-lat1.tb.xml@332
+# text = flectitur assiduis certa puella minis.
+1	flectitur	flecto	_	_	V;PRS;IND;3;PASS;SG;FIN	_	_	_	_
+2	assiduis	assiduus	_	_	FEM;PL;ADJ;AT+ABL	_	_	_	_
+3	certa	certus	_	_	FEM;NOM;SG;ADJ	_	_	_	_
+4	puella	puella	_	_	N;FEM;NOM;SG	_	_	_	_
+5	minis	minae	_	_	N;FEM;PL;AT+ABL	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = tlg0031.tlg027.perseus-lat1.tb.xml@28
+# text = et candelabra septem septem ecclesiae sunt.
+1	et	et	_	_	CONJ	_	_	_	_
+2	candelabra	candelabrum	_	_	N;NEUT;NOM;PL	_	_	_	_
+3	septem	septem	_	_	NUM	_	_	_	_
+4	septem	septem	_	_	NUM	_	_	_	_
+5	ecclesiae	ecclesia	_	_	N;FEM;NOM;PL	_	_	_	_
+6	sunt	sum	_	_	V;IND;PL;3;ACT;PRS;FIN	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@568
+# text = Nam vita morti propior est cotidie, Et hoc minus perveniet ad me muneris, Quo plus consumet temporis dilatio.
+1	Nam	nam	_	_	CONJ	_	_	_	_
+2	vita	vita	_	_	N;FEM;NOM;SG	_	_	_	_
+3	morti	mors	_	_	N;FEM;DAT;SG	_	_	_	_
+4	propior	propior	_	_	FEM;ADJ;CMPR;NOM;SG	_	_	_	_
+5	est	sum	_	_	V;PRS;IND;3;ACT;SG;FIN	_	_	_	_
+6	cotidie	cottidie	_	_	ADV	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	Et	et	_	_	CONJ	_	_	_	_
+9	hoc	hic	_	_	PRO;NEUT;SG;AT+ABL	_	_	_	_
+10	minus	parvus	_	_	ADJ;CMPR;NEUT;NOM;SG	_	_	_	_
+11	perveniet	pervenio	_	_	V;IND;3;ACT;FUT;SG;FIN	_	_	_	_
+12	ad	ad	_	_	ADP	_	_	_	_
+13	me	ego	_	_	PRO;ACC;MASC;SG	_	_	_	_
+14	muneris	munus	_	_	N;NEUT;SG;GEN	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	Quo	quo	_	_	ADV	_	_	_	_
+17	plus	multus	_	_	CMPR;ADV	_	_	_	_
+18	consumet	consumo	_	_	V;IND;3;ACT;FUT;SG;FIN	_	_	_	_
+19	temporis	tempus	_	_	N;NEUT;SG;GEN	_	_	_	_
+20	dilatio	dilatio	_	_	N;FEM;NOM;SG	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0631.phi001.perseus-lat1.tb.xml@235
+# text = igitur comitiis habitis consules declarantur M. Tullius et C. Antonius.
+1	igitur	igitur	_	_	CONJ	_	_	_	_
+2	comitiis	comitium	_	_	N;NEUT;PL;AT+ABL	_	_	_	_
+3	habitis	habeo	_	_	V.PTCP;V;PL;PASS;PST;PFV;NEUT;AT+ABL	_	_	_	_
+4	consules	consul	_	_	N;NOM;MASC;PL	_	_	_	_
+5	declarantur	declaro	_	_	V;IND;PL;3;PASS;PRS;FIN	_	_	_	_
+6	M	noun	_	_	N;NOM;SG;MASC	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+8	Tullius	Tullius	_	_	N;NOM;SG;MASC	_	_	_	_
+9	et	et	_	_	CONJ	_	_	_	_
+10	C	C	_	_	N;NOM;SG;MASC	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+12	Antonius	Antonius	_	_	N;NOM;SG;MASC	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@187
+# text = nec remedium in ceteros fuit, sed metus initium, tamquam per artem et formidine singuli pellerentur, omnibus suspectis.
+1	nec	neque	_	_	CONJ	_	_	_	_
+2	remedium	remedium	_	_	N;NEUT;NOM;SG	_	_	_	_
+3	in	in	_	_	ADP	_	_	_	_
+4	ceteros	ceterus	_	_	ACC;PL;MASC;ADJ	_	_	_	_
+5	fuit	sum	_	_	V;IND;3;ACT;PST;PFV;SG;FIN	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	sed	sed	_	_	CONJ	_	_	_	_
+8	metus	metus	_	_	N;SG;MASC;GEN	_	_	_	_
+9	initium	initium	_	_	N;NEUT;NOM;SG	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	tamquam	tamquam	_	_	ADV	_	_	_	_
+12	per	per	_	_	ADP	_	_	_	_
+13	artem	ars	_	_	N;FEM;ACC;SG	_	_	_	_
+14	et	et	_	_	CONJ	_	_	_	_
+15	formidine	formido	_	_	N;FEM;SG;AT+ABL	_	_	_	_
+16	singuli	singuli	_	_	NOM;NUM;MASC;PL	_	_	_	_
+17	pellerentur	pello	_	_	SBJV;V;PL;3;PASS;PST;FIN;IPFV	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	omnibus	omnis	_	_	PL;MASC;ADJ;AT+ABL	_	_	_	_
+20	suspectis	suspicio	_	_	V.PTCP;V;PL;MASC;PASS;PST;PFV;AT+ABL	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0620.phi001.perseus-lat1.tb.xml@258
+# text = audax a nimium, nostro dolitura periclo, si quid forte tibi durius inciderit!
+1	audax	audax	_	_	FEM;VOC;ADJ;SG	_	_	_	_
+2	a	ah	_	_	INTJ	_	_	_	_
+3	nimium	nimium	_	_	ADV	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	nostro	noster	_	_	PRO;NEUT;SG;AT+ABL	_	_	_	_
+6	dolitura	doleo	_	_	FEM;V.PTCP;V;ACT;FUT;NOM;SG	_	_	_	_
+7	periclo	periculum	_	_	N;NEUT;SG;AT+ABL	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	si	si	_	_	CONJ	_	_	_	_
+10	quid	quis	_	_	PRO;NEUT;NOM;SG	_	_	_	_
+11	forte	fors	_	_	N;FEM;SG;AT+ABL	_	_	_	_
+12	tibi	tu	_	_	PRO;FEM;DAT;SG	_	_	_	_
+13	durius	durus	_	_	ADJ;CMPR;NEUT;NOM;SG	_	_	_	_
+14	inciderit	incido	_	_	V;IND;3;ACT;FUT;SG;FIN	_	_	_	_
+15	!	!	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@491
+# text = deinde martiolum de sinu protulit et phialam otio belle correxit.
+1	deinde	deinde	_	_	ADV	_	_	_	_
+2	martiolum	martiolus	_	_	N;SG;ACC;MASC	_	_	_	_
+3	de	de	_	_	ADP	_	_	_	_
+4	sinu	sinus	_	_	N;SG;MASC;AT+ABL	_	_	_	_
+5	protulit	profero	_	_	V;FIN;ACT;3;IND;PFV;SG;PST	_	_	_	_
+6	et	et	_	_	CONJ	_	_	_	_
+7	phialam	phiala	_	_	FEM;N;SG;ACC	_	_	_	_
+8	otio	otium	_	_	NEUT;N;SG;AT+ABL	_	_	_	_
+9	belle	bellus	_	_	ADV	_	_	_	_
+10	correxit	corrigo	_	_	V;FIN;ACT;3;IND;PFV;SG;PST	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@76
+# text = Accessere continuo duo servi et symphonia strepente scrutari paleam coeperunt que eruta subinde pavonina ova divisere convivis.
+1	Accessere	accedo	_	_	V;FIN;ACT;3;IND;PFV;PL;PST	_	_	_	_
+2	continuo	continuo	_	_	ADV	_	_	_	_
+3	duo	duo	_	_	ADJ;PL;MASC;NOM	_	_	_	_
+4	servi	servus	_	_	N;PL;MASC;NOM	_	_	_	_
+5	et	et	_	_	CONJ	_	_	_	_
+6	symphonia	symphonia	_	_	FEM;N;SG;AT+ABL	_	_	_	_
+7	strepente	strepo	_	_	V;AT+ABL;ACT;FEM;PRS;SG;V.PTCP	_	_	_	_
+8	scrutari	scrutor	_	_	V;PRS;PASS;NFIN	_	_	_	_
+9	paleam	palea	_	_	FEM;N;SG;ACC	_	_	_	_
+10	coeperunt	coepio	_	_	V;FIN;ACT;3;IND;PFV;PL;PST	_	_	_	_
+11	que	que	_	_	CONJ	_	_	_	_
+12	eruta	eruo	_	_	V;NEUT;PASS;PL;PFV;PST;ACC;V.PTCP	_	_	_	_
+13	subinde	subinde	_	_	ADV	_	_	_	_
+14	pavonina	pavoninus	_	_	ADJ;ACC;PL;NEUT	_	_	_	_
+15	ova	ovum	_	_	PL;N;ACC;NEUT	_	_	_	_
+16	divisere	divido	_	_	V;FIN;ACT;3;IND;PFV;PL;PST	_	_	_	_
+17	convivis	conviva	_	_	DAT;N;PL;MASC	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@500
+# text = Habeo capides M, quas reliquit patrono meo Mummius, ubi Daedalus Niobam in equum Troianum includit.
+1	Habeo	habeo	_	_	V;FIN;ACT;PRS;IND;SG;1	_	_	_	_
+2	capides	capis	_	_	FEM;N;ACC;PL	_	_	_	_
+3	M	mille	_	_	NUM	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	quas	qui	_	_	FEM;ACC;PL;PRO	_	_	_	_
+6	reliquit	relinquo	_	_	V;FIN;ACT;3;IND;PFV;SG;PST	_	_	_	_
+7	patrono	patronus	_	_	DAT;N;SG;MASC	_	_	_	_
+8	meo	meus	_	_	ADJ;DAT;SG;MASC	_	_	_	_
+9	Mummius	Mummius	_	_	ADJ;SG;MASC;NOM	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	ubi	ubi	_	_	ADV	_	_	_	_
+12	Daedalus	Daedalus	_	_	N;SG;MASC;NOM	_	_	_	_
+13	Niobam	Nioba	_	_	FEM;N;SG;ACC	_	_	_	_
+14	in	in	_	_	ADP	_	_	_	_
+15	equum	equus	_	_	N;SG;ACC;MASC	_	_	_	_
+16	Troianum	Trojanus	_	_	ADJ;ACC;SG;MASC	_	_	_	_
+17	includit	includo	_	_	V;FIN;ACT;3;PRS;IND;SG	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0620.phi001.perseus-lat1.tb.xml@132
+# text = assiduas non tulit illa preces.
+1	assiduas	assiduus	_	_	ACC;FEM;PL;ADJ	_	_	_	_
+2	non	non	_	_	ADV	_	_	_	_
+3	tulit	fero	_	_	V;IND;3;ACT;PST;PFV;SG;FIN	_	_	_	_
+4	illa	ille	_	_	PRO;FEM;NOM;SG	_	_	_	_
+5	preces	prex	_	_	N;FEM;PL;ACC	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0474.phi013.perseus-lat1.tb.xml@153
+# text = quam ob rem, ut saepe iam dixi, proficiscere ac, si mihi inimico, ut praedicas, tuo conflare vis invidiam, recta perge in exsilium;
+1	quam	qui	_	_	PRO;FEM;ACC;SG	_	_	_	_
+2	ob	ob	_	_	ADP	_	_	_	_
+3	rem	res	_	_	N;FEM;ACC;SG	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	ut	ut	_	_	CONJ	_	_	_	_
+6	saepe	saepe	_	_	ADV	_	_	_	_
+7	iam	jam	_	_	ADV	_	_	_	_
+8	dixi	dico	_	_	V;IND;ACT;PST;1;PFV;SG;FIN	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	proficiscere	proficiscor	_	_	IMP;V;PRS;2;ACT;SG;FIN	_	_	_	_
+11	ac	atque	_	_	CONJ	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	si	si	_	_	CONJ	_	_	_	_
+14	mihi	ego	_	_	PRO;DAT;MASC;SG	_	_	_	_
+15	inimico	inimicus	_	_	N;SG;MASC;AT+ABL	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	ut	ut	_	_	CONJ	_	_	_	_
+18	praedicas	praedico	_	_	V;PRS;IND;2;ACT;SG;FIN	_	_	_	_
+19	,	,	_	_	_	_	_	_	_
+20	tuo	tuus	_	_	PRO;DAT;MASC;SG	_	_	_	_
+21	conflare	conflo	_	_	NFIN;PRS;V;ACT	_	_	_	_
+22	vis	volo	_	_	V;PRS;IND;2;ACT;SG;FIN	_	_	_	_
+23	invidiam	invidia	_	_	N;FEM;ACC;SG	_	_	_	_
+24	,	,	_	_	_	_	_	_	_
+25	recta	rego	_	_	ADV	_	_	_	_
+26	perge	pergo	_	_	IMP;V;PRS;2;ACT;SG;FIN	_	_	_	_
+27	in	in	_	_	ADP	_	_	_	_
+28	exsilium	exsilium	_	_	N;NEUT;ACC;SG	_	_	_	_
+29	;	;	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@726
+# text = narrabo tamen:
+1	narrabo	narro	_	_	V;FIN;ACT;IND;SG;1;FUT	_	_	_	_
+2	tamen	tamen	_	_	ADV	_	_	_	_
+3	:	:	_	_	_	_	_	_	_
+
+# sent_id = tlg0031.tlg027.perseus-lat1.tb.xml@453
+# text = et negotiatores terrae flebunt et lugebunt super illam quoniam merces eorum nemo emet amplius:
+1	et	et	_	_	CONJ	_	_	_	_
+2	negotiatores	negotiator	_	_	N;NOM;MASC;PL	_	_	_	_
+3	terrae	terra	_	_	N;FEM;SG;GEN	_	_	_	_
+4	flebunt	fleo	_	_	V;IND;PL;3;ACT;FUT;FIN	_	_	_	_
+5	et	et	_	_	CONJ	_	_	_	_
+6	lugebunt	lugeo	_	_	V;IND;PL;3;ACT;FUT;FIN	_	_	_	_
+7	super	super	_	_	ADP	_	_	_	_
+8	illam	ille	_	_	PRO;FEM;ACC;SG	_	_	_	_
+9	quoniam	quoniam	_	_	ADV	_	_	_	_
+10	merces	merx	_	_	N;FEM;PL;ACC	_	_	_	_
+11	eorum	is	_	_	PRO;PL;MASC;GEN	_	_	_	_
+12	nemo	nemo	_	_	N;NOM;SG;MASC	_	_	_	_
+13	emet	emeo	_	_	SBJV;V;PRS;3;ACT;SG;FIN	_	_	_	_
+14	amplius	amplus	_	_	ADV	_	_	_	_
+15	:	:	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@76
+# text = Quicumque turpi fraude semel innotuit, Etiam si verum dicit, amittit fidem.
+1	Quicumque	quicumque	_	_	SG;MASC;PRO;NOM	_	_	_	_
+2	turpi	turpis	_	_	ADJ;FEM;AT+ABL;SG	_	_	_	_
+3	fraude	fraus	_	_	FEM;N;SG;AT+ABL	_	_	_	_
+4	semel	semel	_	_	NUM	_	_	_	_
+5	innotuit	innotesco	_	_	V;FIN;ACT;3;IND;PFV;SG;PST	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	Etiam	etiam	_	_	CONJ	_	_	_	_
+8	si	si	_	_	CONJ	_	_	_	_
+9	verum	verus	_	_	ADJ;ACC;SG;NEUT	_	_	_	_
+10	dicit	dico	_	_	V;FIN;ACT;3;PRS;IND;SG	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	amittit	amitto	_	_	V;FIN;ACT;3;PRS;IND;SG	_	_	_	_
+13	fidem	fides	_	_	FEM;N;SG;ACC	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0631.phi001.perseus-lat1.tb.xml@267
+# text = Curius ubi intellegit, quantum periculum consuli inpendeat, propere per Fulviam Ciceroni dolum qui parabatur enuntiat.
+1	Curius	Curius	_	_	N;NOM;SG;MASC	_	_	_	_
+2	ubi	ubi	_	_	CONJ	_	_	_	_
+3	intellegit	intellego	_	_	V;PRS;IND;3;ACT;SG;FIN	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	quantum	quantus	_	_	NEUT;NOM;SG;ADJ	_	_	_	_
+6	periculum	periculum	_	_	N;NEUT;NOM;SG	_	_	_	_
+7	consuli	consul	_	_	N;DAT;MASC;SG	_	_	_	_
+8	inpendeat	inpendeo	_	_	SBJV;V;PRS;3;ACT;SG;FIN	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	propere	properus	_	_	ADV	_	_	_	_
+11	per	per	_	_	ADP	_	_	_	_
+12	Fulviam	Fulvia	_	_	N;FEM;ACC;SG	_	_	_	_
+13	Ciceroni	Cicero	_	_	N;DAT;MASC;SG	_	_	_	_
+14	dolum	dolus	_	_	N;ACC;MASC;SG	_	_	_	_
+15	qui	qui	_	_	PRO;NOM;SG;MASC	_	_	_	_
+16	parabatur	paro	_	_	V;IND;3;PASS;PST;SG;FIN;IPFV	_	_	_	_
+17	enuntiat	enuntio	_	_	V;PRS;IND;3;ACT;SG;FIN	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@916
+# text = Cum ergo Trimalchio ius inter litigantes diceret, neuter sententiam tulit decernentis, sed alterius amphoram fuste percussit.
+1	Cum	cum	_	_	CONJ	_	_	_	_
+2	ergo	ergo	_	_	ADV	_	_	_	_
+3	Trimalchio	Trimalchio	_	_	N;SG;MASC;NOM	_	_	_	_
+4	ius	jus	_	_	N;SG;ACC;NEUT	_	_	_	_
+5	inter	inter	_	_	ADP	_	_	_	_
+6	litigantes	litigo	_	_	V;ACT;MASC;PRS;PL;ACC;V.PTCP	_	_	_	_
+7	diceret	dico	_	_	V;IPFV;FIN;ACT;3;SBJV;SG;PST	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	neuter	neuter	_	_	ADJ;SG;MASC;NOM	_	_	_	_
+10	sententiam	sententia	_	_	FEM;N;SG;ACC	_	_	_	_
+11	tulit	fero	_	_	V;FIN;ACT;3;IND;PFV;SG;PST	_	_	_	_
+12	decernentis	decerno	_	_	V;ACT;MASC;PRS;SG;V.PTCP;GEN	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	sed	sed	_	_	CONJ	_	_	_	_
+15	alterius	alter	_	_	ADJ;GEN;SG;MASC	_	_	_	_
+16	amphoram	amphora	_	_	FEM;N;SG;ACC	_	_	_	_
+17	fuste	fustis	_	_	N;SG;MASC;AT+ABL	_	_	_	_
+18	percussit	percutio	_	_	V;FIN;ACT;3;IND;PFV;SG;PST	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi1348.abo012.perseus-lat1.tb.xml@246
+# text = comitiorum quoque pristinum ius reduxit ac multiplici poena coercito ambitu, Fabianis et Scaptiensibus tribulibus suis die comitiorum, ne quid a quoquam candidato desiderarent, singula milia nummum a se diuidebat.
+1	comitiorum	comitium	_	_	N;NEUT;PL;GEN	_	_	_	_
+2	quoque	quoque	_	_	ADV	_	_	_	_
+3	pristinum	pristinus	_	_	ACC;NEUT;SG;ADJ	_	_	_	_
+4	ius	jus	_	_	N;NEUT;ACC;SG	_	_	_	_
+5	reduxit	reduco	_	_	V;IND;3;ACT;PST;PFV;SG;FIN	_	_	_	_
+6	ac	atque	_	_	CONJ	_	_	_	_
+7	multiplici	multiplex	_	_	FEM;SG;ADJ;AT+ABL	_	_	_	_
+8	poena	poena	_	_	N;FEM;SG;AT+ABL	_	_	_	_
+9	coercito	coerceo	_	_	V.PTCP;V;MASC;PASS;PST;PFV;SG;AT+ABL	_	_	_	_
+10	ambitu	ambitus	_	_	N;SG;MASC;AT+ABL	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	Fabianis	Fabianus	_	_	MASC;PL;DAT;ADJ	_	_	_	_
+13	et	et	_	_	CONJ	_	_	_	_
+14	Scaptiensibus	Scaptiensis	_	_	MASC;PL;DAT;ADJ	_	_	_	_
+15	tribulibus	tribulis	_	_	N;PL;DAT;MASC	_	_	_	_
+16	suis	suus	_	_	PRO;PL;DAT;MASC	_	_	_	_
+17	die	dies	_	_	N;SG;MASC;AT+ABL	_	_	_	_
+18	comitiorum	comitium	_	_	N;NEUT;PL;GEN	_	_	_	_
+19	,	,	_	_	_	_	_	_	_
+20	ne	ne	_	_	CONJ	_	_	_	_
+21	quid	quis	_	_	PRO;NEUT;ACC;SG	_	_	_	_
+22	a	ab	_	_	ADP	_	_	_	_
+23	quoquam	quisquam	_	_	PRO;SG;MASC;AT+ABL	_	_	_	_
+24	candidato	candidatus	_	_	MASC;ADJ;SG;AT+ABL	_	_	_	_
+25	desiderarent	desidero	_	_	SBJV;V;PL;3;ACT;PST;FIN;IPFV	_	_	_	_
+26	,	,	_	_	_	_	_	_	_
+27	singula	singuli	_	_	ACC;NEUT;PL;NUM	_	_	_	_
+28	milia	mille	_	_	ACC;NEUT;PL;NUM	_	_	_	_
+29	nummum	nummus	_	_	N;PL;MASC;GEN	_	_	_	_
+30	a	ab	_	_	ADP	_	_	_	_
+31	se	sui	_	_	PRO;SG;MASC;AT+ABL	_	_	_	_
+32	diuidebat	divido	_	_	V;IND;3;ACT;PST;SG;FIN;IPFV	_	_	_	_
+33	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0690.phi003.perseus-lat1.tb.xml@103
+# text = Sed tum, forte cava dum personat aequora concha, demens, et cantu vocat in certamina divos, aemulus exceptum Triton, si credere dignum est, inter saxa virum spumosa inmerserat unda.
+1	Sed	sed	_	_	CONJ	_	_	_	_
+2	tum	tum	_	_	ADV	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	forte	fors	_	_	FEM;N;SG;AT+ABL	_	_	_	_
+5	cava	cavus	_	_	ADJ;FEM;AT+ABL;SG	_	_	_	_
+6	dum	dum	_	_	CONJ	_	_	_	_
+7	personat	persono	_	_	V;FIN;ACT;3;PRS;IND;SG	_	_	_	_
+8	aequora	aequor	_	_	PL;N;ACC;NEUT	_	_	_	_
+9	concha	concha	_	_	FEM;N;SG;AT+ABL	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	demens	demens	_	_	ADJ;SG;MASC;VOC	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	et	et	_	_	CONJ	_	_	_	_
+14	cantu	cantus	_	_	N;SG;MASC;AT+ABL	_	_	_	_
+15	vocat	voco	_	_	V;FIN;ACT;3;PRS;IND;SG	_	_	_	_
+16	in	in	_	_	ADP	_	_	_	_
+17	certamina	certamen	_	_	PL;N;ACC;NEUT	_	_	_	_
+18	divos	divus	_	_	ADJ;ACC;PL;MASC	_	_	_	_
+19	,	,	_	_	_	_	_	_	_
+20	aemulus	aemulus	_	_	ADJ;SG;MASC;NOM	_	_	_	_
+21	exceptum	excipio	_	_	V;PASS;MASC;SG;PFV;PST;ACC;V.PTCP	_	_	_	_
+22	Triton	Triton	_	_	N;SG;MASC;NOM	_	_	_	_
+23	,	,	_	_	_	_	_	_	_
+24	si	si	_	_	CONJ	_	_	_	_
+25	credere	credo	_	_	V;PRS;ACT;NFIN	_	_	_	_
+26	dignum	dignus	_	_	ADJ;NEUT;SG;NOM	_	_	_	_
+27	est	sum	_	_	V;FIN;ACT;3;PRS;IND;SG	_	_	_	_
+28	,	,	_	_	_	_	_	_	_
+29	inter	inter	_	_	ADP	_	_	_	_
+30	saxa	saxum	_	_	PL;N;ACC;NEUT	_	_	_	_
+31	virum	vir	_	_	N;SG;ACC;MASC	_	_	_	_
+32	spumosa	spumosus	_	_	ADJ;FEM;AT+ABL;SG	_	_	_	_
+33	inmerserat	inmergo	_	_	V;FIN;ACT;3;PST+PRF;IND;SG	_	_	_	_
+34	unda	unda	_	_	FEM;N;SG;AT+ABL	_	_	_	_
+35	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@813
+# text = Itaque temptavi assurgere et nudos pedes in terram deferre.
+1	Itaque	ita	_	_	ADV	_	_	_	_
+2	temptavi	tento	_	_	V;FIN;ACT;IND;PFV;SG;PST;1	_	_	_	_
+3	assurgere	assurgo	_	_	V;PRS;ACT;NFIN	_	_	_	_
+4	et	et	_	_	CONJ	_	_	_	_
+5	nudos	nudus	_	_	ADJ;ACC;PL;MASC	_	_	_	_
+6	pedes	pes	_	_	N;ACC;MASC;PL	_	_	_	_
+7	in	in	_	_	ADP	_	_	_	_
+8	terram	terra	_	_	FEM;N;SG;ACC	_	_	_	_
+9	deferre	defero	_	_	V;PRS;ACT;NFIN	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0474.phi013.perseus-lat1.tb.xml@15
+# text = Catilinam orbem terrae caede atque incendiis vastare cupientem nos consules perferemus?
+1	Catilinam	Catilina	_	_	N;ACC;MASC;SG	_	_	_	_
+2	orbem	orbis	_	_	N;ACC;MASC;SG	_	_	_	_
+3	terrae	terra	_	_	N;FEM;SG;GEN	_	_	_	_
+4	caede	caedes	_	_	N;FEM;SG;AT+ABL	_	_	_	_
+5	atque	atque	_	_	CONJ	_	_	_	_
+6	incendiis	incendium	_	_	N;NEUT;PL;AT+ABL	_	_	_	_
+7	vastare	vasto	_	_	NFIN;PRS;V;ACT	_	_	_	_
+8	cupientem	cupio	_	_	V.PTCP;V;PRS;ACC;MASC;SG	_	_	_	_
+9	nos	nos	_	_	PRO;NOM;MASC;PL	_	_	_	_
+10	consules	consul	_	_	N;NOM;MASC;PL	_	_	_	_
+11	perferemus	perfero	_	_	V;IND;PL;ACT;1;FUT;FIN	_	_	_	_
+12	?	?	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@46
+# text = c ne magnum esse peccatum suum, propter quod periclitaretur;
+1	c	que	_	_	CONJ	_	_	_	_
+2	ne	ne	_	_	ADV	_	_	_	_
+3	magnum	magnus	_	_	ADJ;ACC;SG;NEUT	_	_	_	_
+4	esse	sum	_	_	V;PRS;ACT;NFIN	_	_	_	_
+5	peccatum	peccatum	_	_	N;SG;ACC;NEUT	_	_	_	_
+6	suum	suus	_	_	ADJ;ACC;SG;NEUT	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	propter	propter	_	_	ADP	_	_	_	_
+9	quod	qui	_	_	ACC;SG;PRO;NEUT	_	_	_	_
+10	periclitaretur	periclitor	_	_	V;IPFV;FIN;3;SBJV;SG;PST;PASS	_	_	_	_
+11	;	;	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@369
+# text = Usu peritus hariolo vel doctior Vulgo esse fertur, causa sed non dicitur, Notescet quae nunc primum fabella mea.
+1	Usu	usus	_	_	N;SG;MASC;AT+ABL	_	_	_	_
+2	peritus	peritus	_	_	NOM;MASC;ADJ;SG	_	_	_	_
+3	hariolo	hariolus	_	_	N;SG;MASC;AT+ABL	_	_	_	_
+4	vel	vel	_	_	ADV	_	_	_	_
+5	doctior	doceo	_	_	V.PTCP;V;MASC;PASS;PST;PFV;CMPR;NOM;SG	_	_	_	_
+6	Vulgo	vulgus	_	_	ADV	_	_	_	_
+7	esse	sum	_	_	NFIN;PRS;V;ACT	_	_	_	_
+8	fertur	fero	_	_	V;PRS;IND;3;PASS;SG;FIN	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	causa	causa	_	_	N;FEM;NOM;SG	_	_	_	_
+11	sed	sed	_	_	CONJ	_	_	_	_
+12	non	non	_	_	ADV	_	_	_	_
+13	dicitur	dico	_	_	V;PRS;IND;3;PASS;SG;FIN	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	Notescet	notesco	_	_	V;IND;3;ACT;FUT;SG;FIN	_	_	_	_
+16	quae	qui	_	_	PRO;FEM;NOM;SG	_	_	_	_
+17	nunc	nunc	_	_	ADV	_	_	_	_
+18	primum	primus	_	_	NUM	_	_	_	_
+19	fabella	fabella	_	_	N;FEM;SG;AT+ABL	_	_	_	_
+20	mea	meus	_	_	PRO;FEM;SG;AT+ABL	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0474.phi013.perseus-lat1.tb.xml@259
+# text = qui mihi accubantes in conviviis, complexi mulieres impudicas, vino languidi, conferti cibo, sertis redimiti, unguentis obliti, debilitati stupris eructant sermonibus suis caedem bonorum atque urbis incendia.
+1	qui	qui	_	_	PRO;NOM;MASC;PL	_	_	_	_
+2	mihi	ego	_	_	PRO;DAT;MASC;SG	_	_	_	_
+3	accubantes	accubo	_	_	V.PTCP;V;PL;MASC;NOM;PRS	_	_	_	_
+4	in	in	_	_	ADP	_	_	_	_
+5	conviviis	convivium	_	_	N;NEUT;PL;AT+ABL	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	complexi	complector	_	_	V.PTCP;V;PL;MASC;PASS;PST;PFV;NOM	_	_	_	_
+8	mulieres	mulier	_	_	N;FEM;PL;ACC	_	_	_	_
+9	impudicas	impudicus	_	_	ACC;FEM;PL;ADJ	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	vino	vinum	_	_	N;NEUT;SG;AT+ABL	_	_	_	_
+12	languidi	languidus	_	_	NOM;MASC;ADJ;PL	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	conferti	confercio	_	_	V.PTCP;V;PL;MASC;PASS;PST;PFV;NOM	_	_	_	_
+15	cibo	cibus	_	_	N;SG;MASC;AT+ABL	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	sertis	serta	_	_	N;NEUT;PL;AT+ABL	_	_	_	_
+18	redimiti	redimio	_	_	V.PTCP;V;PL;MASC;PASS;PST;PFV;NOM	_	_	_	_
+19	,	,	_	_	_	_	_	_	_
+20	unguentis	unguentum	_	_	N;NEUT;PL;AT+ABL	_	_	_	_
+21	obliti	oblino	_	_	V.PTCP;V;PL;MASC;PASS;PST;PFV;NOM	_	_	_	_
+22	,	,	_	_	_	_	_	_	_
+23	debilitati	debilito	_	_	V.PTCP;V;PL;MASC;PASS;PST;PFV;NOM	_	_	_	_
+24	stupris	stuprum	_	_	N;NEUT;PL;AT+ABL	_	_	_	_
+25	eructant	eructo	_	_	V;IND;PL;3;ACT;PRS;FIN	_	_	_	_
+26	sermonibus	sermo	_	_	N;PL;MASC;AT+ABL	_	_	_	_
+27	suis	suus	_	_	PRO;PL;MASC;AT+ABL	_	_	_	_
+28	caedem	caedes	_	_	N;FEM;ACC;SG	_	_	_	_
+29	bonorum	bonus	_	_	PL;MASC;ADJ;GEN	_	_	_	_
+30	atque	atque	_	_	CONJ	_	_	_	_
+31	urbis	urbs	_	_	N;FEM;SG;GEN	_	_	_	_
+32	incendia	incendium	_	_	N;NEUT;PL;ACC	_	_	_	_
+33	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@300
+# text = Is quacunque ibat, terram adurebat.
+1	Is	is	_	_	SG;MASC;PRO;NOM	_	_	_	_
+2	quacunque	quicumque	_	_	FEM;AT+ABL;SG;PRO	_	_	_	_
+3	ibat	eo	_	_	V;IPFV;FIN;ACT;3;IND;SG;PST	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	terram	terra	_	_	FEM;N;SG;ACC	_	_	_	_
+6	adurebat	aduro	_	_	V;IPFV;FIN;ACT;3;IND;SG;PST	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi1348.abo012.perseus-lat1.tb.xml@88
+# text = nec multo post nauali proelio apud Actium uicit in serum dimicatione protracta, ut in naue uictor pernoctauerit.
+1	nec	neque	_	_	CONJ	_	_	_	_
+2	multo	multus	_	_	ADV	_	_	_	_
+3	post	post	_	_	ADV	_	_	_	_
+4	nauali	navalis	_	_	NEUT;SG;ADJ;AT+ABL	_	_	_	_
+5	proelio	proelium	_	_	N;NEUT;SG;AT+ABL	_	_	_	_
+6	apud	apud	_	_	ADP	_	_	_	_
+7	Actium	Actium	_	_	N;NEUT;ACC;SG	_	_	_	_
+8	uicit	vinco	_	_	V;IND;3;ACT;PST;PFV;SG;FIN	_	_	_	_
+9	in	in	_	_	ADP	_	_	_	_
+10	serum	serus	_	_	ACC;NEUT;SG;ADJ	_	_	_	_
+11	dimicatione	dimicatio	_	_	N;FEM;SG;AT+ABL	_	_	_	_
+12	protracta	protraho	_	_	FEM;V.PTCP;V;PASS;PST;PFV;SG;AT+ABL	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	ut	ut	_	_	CONJ	_	_	_	_
+15	in	in	_	_	ADP	_	_	_	_
+16	naue	navis	_	_	N;FEM;SG;AT+ABL	_	_	_	_
+17	uictor	victor	_	_	N;NOM;SG;MASC	_	_	_	_
+18	pernoctauerit	pernocto	_	_	SBJV;V;3;ACT;PST;PFV;SG;FIN	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@225
+# text = Ab hoc ferculo Trimalchio ad lasanum surrexit.
+1	Ab	ab	_	_	ADP	_	_	_	_
+2	hoc	hic	_	_	AT+ABL;SG;PRO;NEUT	_	_	_	_
+3	ferculo	ferculum	_	_	NEUT;N;SG;AT+ABL	_	_	_	_
+4	Trimalchio	Trimalchio	_	_	N;SG;MASC;NOM	_	_	_	_
+5	ad	ad	_	_	ADP	_	_	_	_
+6	lasanum	lasanum	_	_	N;SG;ACC;NEUT	_	_	_	_
+7	surrexit	surgo	_	_	V;FIN;ACT;3;IND;PFV;SG;PST	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@6
+# text = Nos interim vestiti errare coepimus.
+1	Nos	nos	_	_	PL;MASC;PRO;NOM	_	_	_	_
+2	interim	interim	_	_	ADV	_	_	_	_
+3	vestiti	vestio	_	_	V;MASC;NOM;PL;PFV;PST;V.PTCP;PASS	_	_	_	_
+4	errare	erro	_	_	V;PRS;ACT;NFIN	_	_	_	_
+5	coepimus	coepio	_	_	V;FIN;ACT;IND;PFV;PL;PST;1	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0620.phi001.perseus-lat1.tb.xml@212
+# text = at non ipse tuas imitabor, perfide, voces:
+1	at	at	_	_	CONJ	_	_	_	_
+2	non	non	_	_	ADV	_	_	_	_
+3	ipse	ipse	_	_	PRO;NOM;SG;MASC	_	_	_	_
+4	tuas	tuus	_	_	PRO;FEM;PL;ACC	_	_	_	_
+5	imitabor	imitor	_	_	V;IND;ACT;1;FUT;SG;FIN	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	perfide	perfidus	_	_	MASC;VOC;ADJ;SG	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	voces	vox	_	_	N;FEM;PL;ACC	_	_	_	_
+10	:	:	_	_	_	_	_	_	_
+
+# sent_id = phi0690.phi003.perseus-lat1.tb.xml@43
+# text = Foliis tantum ne carmina manda, ne turbata volent rapidis ludibria ventis;
+1	Foliis	folium	_	_	DAT;N;PL;NEUT	_	_	_	_
+2	tantum	tantus	_	_	ADV	_	_	_	_
+3	ne	ne	_	_	ADV	_	_	_	_
+4	carmina	carmen	_	_	PL;N;ACC;NEUT	_	_	_	_
+5	manda	mando	_	_	V;FIN;2;ACT;PRS;SG;IMP	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	ne	ne	_	_	ADV	_	_	_	_
+8	turbata	turbo	_	_	V;NEUT;NOM;PL;PFV;PST;V.PTCP;PASS	_	_	_	_
+9	volent	volo	_	_	V;FIN;ACT;3;SBJV;PRS;PL	_	_	_	_
+10	rapidis	rapidus	_	_	ADJ;DAT;PL;MASC	_	_	_	_
+11	ludibria	ludibrium	_	_	NEUT;N;PL;NOM	_	_	_	_
+12	ventis	ventus	_	_	DAT;N;PL;MASC	_	_	_	_
+13	;	;	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@314
+# text = Nunc populus est domi leones, foras vulpes.
+1	Nunc	nunc	_	_	ADV	_	_	_	_
+2	populus	populus	_	_	N;SG;MASC;NOM	_	_	_	_
+3	est	sum	_	_	V;FIN;ACT;3;PRS;IND;SG	_	_	_	_
+4	domi	domus	_	_	ADV	_	_	_	_
+5	leones	leo	_	_	N;PL;MASC;NOM	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	foras	foras	_	_	ADV	_	_	_	_
+8	vulpes	vulpis	_	_	FEM;N;PL;NOM	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0631.phi001.perseus-lat1.tb.xml@82
+# text = Igitur domi que militiae boni mores colebantur;
+1	Igitur	igitur	_	_	CONJ	_	_	_	_
+2	domi	domus	_	_	N;FEM;SG;ESS	_	_	_	_
+3	que	que	_	_	CONJ	_	_	_	_
+4	militiae	militia	_	_	N;FEM;SG;ESS	_	_	_	_
+5	boni	bonus	_	_	NOM;MASC;ADJ;PL	_	_	_	_
+6	mores	mos	_	_	N;NOM;MASC;PL	_	_	_	_
+7	colebantur	colo	_	_	V;IND;PL;3;PASS;PST;FIN;IPFV	_	_	_	_
+8	;	;	_	_	_	_	_	_	_
+
+# sent_id = tlg0031.tlg027.perseus-lat1.tb.xml@416
+# text = et abstulit me in desertum in spiritu et vidi mulierem sedentem super bestiam coccineam plenam nominibus blasphemiae habentem capita septem et cornua decem.
+1	et	et	_	_	CONJ	_	_	_	_
+2	abstulit	abstulo	_	_	V;PRS;IND;3;ACT;SG;FIN	_	_	_	_
+3	me	ego	_	_	PRO;ACC;MASC;SG	_	_	_	_
+4	in	in	_	_	ADP	_	_	_	_
+5	desertum	desertum	_	_	N;NEUT;ACC;SG	_	_	_	_
+6	in	in	_	_	ADP	_	_	_	_
+7	spiritu	spiritus	_	_	N;SG;MASC;AT+ABL	_	_	_	_
+8	et	et	_	_	CONJ	_	_	_	_
+9	vidi	video	_	_	V;IND;ACT;PST;1;PFV;SG;FIN	_	_	_	_
+10	mulierem	mulier	_	_	N;FEM;ACC;SG	_	_	_	_
+11	sedentem	sedeo	_	_	FEM;V.PTCP;V;PRS;ACC;ACT;SG	_	_	_	_
+12	super	super	_	_	ADP	_	_	_	_
+13	bestiam	bestia	_	_	N;FEM;ACC;SG	_	_	_	_
+14	coccineam	coccineus	_	_	ACC;FEM;SG;ADJ	_	_	_	_
+15	plenam	plenus	_	_	ACC;FEM;SG;ADJ	_	_	_	_
+16	nominibus	nomen	_	_	N;NEUT;PL;AT+ABL	_	_	_	_
+17	blasphemiae	blasphemia	_	_	N;FEM;SG;GEN	_	_	_	_
+18	habentem	habeo	_	_	FEM;V.PTCP;V;PRS;ACC;ACT;SG	_	_	_	_
+19	capita	caput	_	_	N;NEUT;PL;ACC	_	_	_	_
+20	septem	septem	_	_	NUM	_	_	_	_
+21	et	et	_	_	CONJ	_	_	_	_
+22	cornua	cornu	_	_	N;NEUT;PL;ACC	_	_	_	_
+23	decem	decem	_	_	NUM	_	_	_	_
+24	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0690.phi003.perseus-lat1.tb.xml@53
+# text = sed non et venisse volent.
+1	sed	sed	_	_	CONJ	_	_	_	_
+2	non	non	_	_	ADV	_	_	_	_
+3	et	et	_	_	CONJ	_	_	_	_
+4	venisse	venio	_	_	V;ACT;PFV;NFIN;PST	_	_	_	_
+5	volent	volo	_	_	V;FIN;ACT;3;IND;PL;FUT	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@539
+# text = iam reus factus dispensator et iudicium inter cubicularios actum.
+1	iam	jam	_	_	ADV	_	_	_	_
+2	reus	reus	_	_	N;SG;MASC;NOM	_	_	_	_
+3	factus	facio	_	_	V;MASC;NOM;SG;PFV;PST;V.PTCP;PASS	_	_	_	_
+4	dispensator	dispensator	_	_	N;SG;MASC;NOM	_	_	_	_
+5	et	et	_	_	CONJ	_	_	_	_
+6	iudicium	judicium	_	_	NEUT;N;SG;NOM	_	_	_	_
+7	inter	inter	_	_	ADP	_	_	_	_
+8	cubicularios	cubicularius	_	_	N;ACC;MASC;PL	_	_	_	_
+9	actum	ago	_	_	V;NEUT;NOM;SG;PFV;PST;V.PTCP;PASS	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = tlg0031.tlg027.perseus-lat1.tb.xml@513
+# text = et adprehendit draconem serpentem antiquum qui est diabolus et Satanas et ligavit eum per annos mille;
+1	et	et	_	_	CONJ	_	_	_	_
+2	adprehendit	adprehendo	_	_	V;PRS;IND;3;ACT;SG;FIN	_	_	_	_
+3	draconem	draco	_	_	N;ACC;MASC;SG	_	_	_	_
+4	serpentem	serpens	_	_	N;ACC;MASC;SG	_	_	_	_
+5	antiquum	antiquus	_	_	ACC;MASC;ADJ;SG	_	_	_	_
+6	qui	qui	_	_	PRO;NOM;SG;MASC	_	_	_	_
+7	est	sum	_	_	V;PRS;IND;3;ACT;SG;FIN	_	_	_	_
+8	diabolus	diabolus	_	_	N;NOM;SG;MASC	_	_	_	_
+9	et	et	_	_	CONJ	_	_	_	_
+10	Satanas	Satanas	_	_	N;NOM;SG;MASC	_	_	_	_
+11	et	et	_	_	CONJ	_	_	_	_
+12	ligavit	ligo	_	_	V;IND;3;ACT;PST;PFV;SG;FIN	_	_	_	_
+13	eum	is	_	_	PRO;ACC;MASC;SG	_	_	_	_
+14	per	per	_	_	ADP	_	_	_	_
+15	annos	annus	_	_	N;PL;ACC;MASC	_	_	_	_
+16	mille	mille	_	_	NUM	_	_	_	_
+17	;	;	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@634
+# text = bis prande, bis cena.
+1	bis	bis	_	_	ADV	_	_	_	_
+2	prande	prandeo	_	_	V;FIN;2;ACT;PRS;SG;IMP	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	bis	bis	_	_	ADV	_	_	_	_
+5	cena	ceno	_	_	V;FIN;2;ACT;PRS;SG;IMP	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@509
+# text = Tandem ergo exoratus a nobis missionem dedit puero.
+1	Tandem	tandem	_	_	ADV	_	_	_	_
+2	ergo	ergo	_	_	ADV	_	_	_	_
+3	exoratus	exoro	_	_	V;MASC;NOM;SG;PFV;PST;V.PTCP;PASS	_	_	_	_
+4	a	ab	_	_	ADP	_	_	_	_
+5	nobis	nos	_	_	AT+ABL;MASC;PRO;PL	_	_	_	_
+6	missionem	missio	_	_	FEM;N;SG;ACC	_	_	_	_
+7	dedit	do	_	_	V;FIN;ACT;3;IND;PFV;SG;PST	_	_	_	_
+8	puero	puer	_	_	DAT;N;SG;MASC	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = tlg0031.tlg027.perseus-lat1.tb.xml@79
+# text = venio cito;
+1	venio	venio	_	_	V;PRS;IND;ACT;1;SG;FIN	_	_	_	_
+2	cito	cito	_	_	ADV	_	_	_	_
+3	;	;	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@496
+# text = Quapropter apibus fructum restituo suum.
+1	Quapropter	quapropter	_	_	ADV	_	_	_	_
+2	apibus	apis	_	_	N;FEM;PL;DAT	_	_	_	_
+3	fructum	fructus	_	_	N;ACC;MASC;SG	_	_	_	_
+4	restituo	restituo	_	_	V;PRS;IND;ACT;1;SG;FIN	_	_	_	_
+5	suum	suus	_	_	PRO;ACC;MASC;SG	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0620.phi001.perseus-lat1.tb.xml@125
+# text = nam me non ullae poterunt corrumpere, de te quin ego, vita, tuo limine verba querar;
+1	nam	nam	_	_	CONJ	_	_	_	_
+2	me	ego	_	_	PRO;ACC;MASC;SG	_	_	_	_
+3	non	non	_	_	ADV	_	_	_	_
+4	ullae	ullus	_	_	FEM;NOM;ADJ;PL	_	_	_	_
+5	poterunt	possum	_	_	V;IND;PL;3;ACT;FUT;FIN	_	_	_	_
+6	corrumpere	corrumpo	_	_	NFIN;PRS;V;ACT	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	de	de	_	_	ADP	_	_	_	_
+9	te	tu	_	_	PRO;FEM;SG;AT+ABL	_	_	_	_
+10	quin	quin	_	_	CONJ	_	_	_	_
+11	ego	ego	_	_	PRO;NOM;SG;MASC	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	vita	vita	_	_	N;FEM;VOC;SG	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	tuo	tuus	_	_	PRO;NEUT;SG;AT+ABL	_	_	_	_
+16	limine	limen	_	_	N;NEUT;SG;AT+ABL	_	_	_	_
+17	verba	verbum	_	_	N;NEUT;PL;ACC	_	_	_	_
+18	querar	queror	_	_	V;IND;ACT;1;FUT;SG;FIN	_	_	_	_
+19	;	;	_	_	_	_	_	_	_
+
+# sent_id = phi0474.phi013.perseus-lat1.tb.xml@86
+# text = num dubitas id me imperante facere quod iam tua sponte faciebas?
+1	num	num	_	_	ADV	_	_	_	_
+2	dubitas	dubito	_	_	V;PRS;IND;2;ACT;SG;FIN	_	_	_	_
+3	id	is	_	_	PRO;NEUT;ACC;SG	_	_	_	_
+4	me	ego	_	_	PRO;SG;MASC;AT+ABL	_	_	_	_
+5	imperante	impero	_	_	V.PTCP;V;PRS;MASC;SG;AT+ABL	_	_	_	_
+6	facere	facio	_	_	NFIN;PRS;V;ACT	_	_	_	_
+7	quod	qui	_	_	PRO;NEUT;ACC;SG	_	_	_	_
+8	iam	jam	_	_	ADV	_	_	_	_
+9	tua	tuus	_	_	PRO;FEM;SG;AT+ABL	_	_	_	_
+10	sponte	sponte	_	_	N;FEM;SG;AT+ABL	_	_	_	_
+11	faciebas	facio	_	_	V;IND;2;ACT;PST;SG;FIN;IPFV	_	_	_	_
+12	?	?	_	_	_	_	_	_	_
+
+# sent_id = phi0631.phi001.perseus-lat1.tb.xml@684
+# text = strenui militis et boni imperatoris officia simul exequebatur.
+1	strenui	strenuus	_	_	SG;MASC;ADJ;GEN	_	_	_	_
+2	militis	miles	_	_	N;SG;MASC;GEN	_	_	_	_
+3	et	et	_	_	CONJ	_	_	_	_
+4	boni	bonus	_	_	SG;MASC;ADJ;GEN	_	_	_	_
+5	imperatoris	imperator	_	_	N;SG;MASC;GEN	_	_	_	_
+6	officia	officium	_	_	N;NEUT;PL;ACC	_	_	_	_
+7	simul	simul	_	_	ADV	_	_	_	_
+8	exequebatur	exsequor	_	_	V;IND;3;PASS;PST;SG;FIN;IPFV	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@169
+# text = Illi negarunt.
+1	Illi	ille	_	_	PL;MASC;PRO;NOM	_	_	_	_
+2	negarunt	nego	_	_	V;FIN;ACT;3;IND;PFV;PL;PST	_	_	_	_
+3	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0631.phi001.perseus-lat1.tb.xml@655
+# text = licuit vobis cum summa turpitudine in exilio aetatem agere, potuistis nonnulli Romae amissis bonis alienas opes expectare:
+1	licuit	licet	_	_	V;IND;3;ACT;PST;PFV;SG;FIN	_	_	_	_
+2	vobis	tu	_	_	PRO;PL;DAT;MASC	_	_	_	_
+3	cum	cum	_	_	ADP	_	_	_	_
+4	summa	superus	_	_	FEM;SG;ADJ;AT+ABL	_	_	_	_
+5	turpitudine	turpitudo	_	_	N;FEM;SG;AT+ABL	_	_	_	_
+6	in	in	_	_	ADP	_	_	_	_
+7	exilio	exsilium	_	_	N;NEUT;SG;AT+ABL	_	_	_	_
+8	aetatem	aetas	_	_	N;FEM;ACC;SG	_	_	_	_
+9	agere	ago	_	_	NFIN;PRS;V;ACT	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	potuistis	possum	_	_	V;IND;PL;2;ACT;PST;PFV;FIN	_	_	_	_
+12	nonnulli	nonnullus	_	_	NOM;MASC;ADJ;PL	_	_	_	_
+13	Romae	Roma	_	_	N;FEM;SG;ESS	_	_	_	_
+14	amissis	amitto	_	_	V.PTCP;V;PL;PASS;PST;PFV;NEUT;AT+ABL	_	_	_	_
+15	bonis	bonus	_	_	NEUT;PL;ADJ;AT+ABL	_	_	_	_
+16	alienas	alienus	_	_	ACC;FEM;PL;ADJ	_	_	_	_
+17	opes	ops	_	_	N;FEM;PL;ACC	_	_	_	_
+18	expectare	expecto	_	_	NFIN;PRS;V;ACT	_	_	_	_
+19	:	:	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@79
+# text = Negabat illa se esse culpae proximam.
+1	Negabat	nego	_	_	V;IPFV;FIN;ACT;3;IND;SG;PST	_	_	_	_
+2	illa	ille	_	_	FEM;SG;PRO;NOM	_	_	_	_
+3	se	sui	_	_	FEM;ACC;SG;PRO	_	_	_	_
+4	esse	sum	_	_	V;PRS;ACT;NFIN	_	_	_	_
+5	culpae	culpa	_	_	FEM;DAT;N;SG	_	_	_	_
+6	proximam	propior	_	_	ADJ;FEM;SG;ACC;RL	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0631.phi001.perseus-lat1.tb.xml@319
+# text = Sed ipse paucos dies conmoratus apud C. Flaminium in agro Arretino, dum vicinitatem antea sollicitatam armis exornat, cum fascibus atque aliis imperi insignibus in castra ad Manlium contendit.
+1	Sed	sed	_	_	CONJ	_	_	_	_
+2	ipse	ipse	_	_	PRO;NOM;SG;MASC	_	_	_	_
+3	paucos	pauci	_	_	N;PL;ACC;MASC	_	_	_	_
+4	dies	dies	_	_	N;PL;ACC;MASC	_	_	_	_
+5	conmoratus	conmoror	_	_	V.PTCP;V;MASC;PASS;PST;PFV;NOM;SG	_	_	_	_
+6	apud	apud	_	_	ADP	_	_	_	_
+7	C	Gaius	_	_	N;ACC;MASC;SG	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+9	Flaminium	flaminius	_	_	N;ACC;MASC;SG	_	_	_	_
+10	in	in	_	_	ADP	_	_	_	_
+11	agro	ager	_	_	N;SG;MASC;AT+ABL	_	_	_	_
+12	Arretino	Aretinus	_	_	MASC;ADJ;SG;AT+ABL	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	dum	dum	_	_	CONJ	_	_	_	_
+15	vicinitatem	vicinitas	_	_	N;FEM;ACC;SG	_	_	_	_
+16	antea	antea	_	_	ADV	_	_	_	_
+17	sollicitatam	sollicito	_	_	FEM;V.PTCP;V;ACC;PASS;PST;PFV;SG	_	_	_	_
+18	armis	arma	_	_	N;NEUT;PL;AT+ABL	_	_	_	_
+19	exornat	exorno	_	_	V;PRS;IND;3;ACT;SG;FIN	_	_	_	_
+20	,	,	_	_	_	_	_	_	_
+21	cum	cum	_	_	ADP	_	_	_	_
+22	fascibus	fascis	_	_	N;PL;MASC;AT+ABL	_	_	_	_
+23	atque	atque	_	_	CONJ	_	_	_	_
+24	aliis	allium	_	_	N;NEUT;PL;AT+ABL	_	_	_	_
+25	imperi	imperium	_	_	N;NEUT;SG;GEN	_	_	_	_
+26	insignibus	insigne	_	_	N;NEUT;PL;AT+ABL	_	_	_	_
+27	in	in	_	_	ADP	_	_	_	_
+28	castra	castra	_	_	N;FEM;SG;AT+ABL	_	_	_	_
+29	ad	ad	_	_	ADP	_	_	_	_
+30	Manlium	Manlius	_	_	N;ACC;MASC;SG	_	_	_	_
+31	contendit	contendo	_	_	V;PRS;IND;3;ACT;SG;FIN	_	_	_	_
+32	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@497
+# text = Hanc praeterissem fabulam silentio, Si pactam fuci non recusassent fidem.
+1	Hanc	hic	_	_	PRO;FEM;ACC;SG	_	_	_	_
+2	praeterissem	praetereo	_	_	SBJV;SG;V;ACT;1;PST+PRF;FIN	_	_	_	_
+3	fabulam	fabula	_	_	N;FEM;ACC;SG	_	_	_	_
+4	silentio	silentium	_	_	N;NEUT;SG;AT+ABL	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	Si	si	_	_	CONJ	_	_	_	_
+7	pactam	paciscor	_	_	FEM;V.PTCP;V;ACC;ACT;PST;PFV;SG	_	_	_	_
+8	fuci	fucus	_	_	N;NOM;MASC;PL	_	_	_	_
+9	non	non	_	_	ADV	_	_	_	_
+10	recusassent	recuso	_	_	SBJV;V;PL;3;ACT;PST+PRF;FIN	_	_	_	_
+11	fidem	fides	_	_	N;FEM;ACC;SG	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0474.phi013.perseus-lat1.tb.xml@64
+# text = haec ego omnia vixdum etiam coetu vestro dimisso comperi;
+1	haec	hic	_	_	PRO;NEUT;PL;ACC	_	_	_	_
+2	ego	ego	_	_	PRO;NOM;SG;MASC	_	_	_	_
+3	omnia	omnis	_	_	ACC;NEUT;PL;ADJ	_	_	_	_
+4	vixdum	vix	_	_	ADV	_	_	_	_
+5	etiam	etiam	_	_	ADV	_	_	_	_
+6	coetu	coitus	_	_	N;SG;MASC;AT+ABL	_	_	_	_
+7	vestro	vester	_	_	PRO;SG;MASC;AT+ABL	_	_	_	_
+8	dimisso	dimitto	_	_	V.PTCP;V;MASC;PASS;PST;PFV;SG;AT+ABL	_	_	_	_
+9	comperi	comperio	_	_	V;IND;ACT;PST;1;PFV;SG;FIN	_	_	_	_
+10	;	;	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@62
+# text = nam iam omnes discubuerant praeter ipsum Trimalchionem, cui locus novo more primus servabatur.
+1	nam	nam	_	_	CONJ	_	_	_	_
+2	iam	jam	_	_	ADV	_	_	_	_
+3	omnes	omnis	_	_	ADJ;PL;MASC;NOM	_	_	_	_
+4	discubuerant	discumbo	_	_	V;FIN;ACT;3;PST+PRF;IND;PL	_	_	_	_
+5	praeter	praeter	_	_	ADP	_	_	_	_
+6	ipsum	ipse	_	_	ACC;SG;MASC;PRO	_	_	_	_
+7	Trimalchionem	Trimalchio	_	_	N;SG;ACC;MASC	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	cui	quis	_	_	DAT;SG;MASC;PRO	_	_	_	_
+10	locus	locus	_	_	N;SG;MASC;NOM	_	_	_	_
+11	novo	novus	_	_	ADJ;AT+ABL;SG;MASC	_	_	_	_
+12	more	mos	_	_	N;SG;MASC;AT+ABL	_	_	_	_
+13	primus	primus	_	_	ADJ;SG;MASC;NOM	_	_	_	_
+14	servabatur	servo	_	_	V;IPFV;FIN;3;IND;SG;PST;PASS	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0620.phi001.perseus-lat1.tb.xml@15
+# text = vos remanete, quibus facili deus annuit aure, sitis et in tuto semper amore pares.
+1	vos	tu	_	_	PRO;NOM;MASC;PL	_	_	_	_
+2	remanete	remaneo	_	_	IMP;V;PL;2;ACT;PRS;FIN	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	quibus	qui	_	_	PRO;PL;DAT;MASC	_	_	_	_
+5	facili	facilis	_	_	FEM;SG;ADJ;AT+ABL	_	_	_	_
+6	deus	deus	_	_	N;NOM;SG;MASC	_	_	_	_
+7	annuit	annuo	_	_	V;IND;3;ACT;PST;PFV;SG;FIN	_	_	_	_
+8	aure	auris	_	_	N;FEM;SG;AT+ABL	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	sitis	sum	_	_	SBJV;V;PL;2;ACT;PRS;FIN	_	_	_	_
+11	et	et	_	_	CONJ	_	_	_	_
+12	in	in	_	_	ADP	_	_	_	_
+13	tuto	tueor	_	_	V.PTCP;V;MASC;ACT;PST;PFV;SG;AT+ABL	_	_	_	_
+14	semper	semper	_	_	ADV	_	_	_	_
+15	amore	amor	_	_	N;SG;MASC;AT+ABL	_	_	_	_
+16	pares	par	_	_	NOM;MASC;ADJ;PL	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0620.phi001.perseus-lat1.tb.xml@317
+# text = omnia consuevi timidus perferre superbae iussa neque arguto facta dolore queri.
+1	omnia	omnis	_	_	ACC;NEUT;PL;ADJ	_	_	_	_
+2	consuevi	consuesco	_	_	V;IND;ACT;PST;1;PFV;SG;FIN	_	_	_	_
+3	timidus	timidus	_	_	NOM;MASC;ADJ;SG	_	_	_	_
+4	perferre	perfero	_	_	NFIN;PRS;V;ACT	_	_	_	_
+5	superbae	superbus	_	_	FEM;SG;ADJ;GEN	_	_	_	_
+6	iussa	jubeo	_	_	V.PTCP;V;ACC;PL;PASS;PST;PFV;NEUT	_	_	_	_
+7	neque	neque	_	_	CONJ	_	_	_	_
+8	arguto	arguo	_	_	V.PTCP;V;MASC;PASS;PST;PFV;SG;AT+ABL	_	_	_	_
+9	facta	facio	_	_	V.PTCP;V;ACC;PL;PASS;PST;PFV;NEUT	_	_	_	_
+10	dolore	dolor	_	_	N;SG;MASC;AT+ABL	_	_	_	_
+11	queri	queror	_	_	NFIN;PRS;V;ACT	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@1092
+# text = Praeterea cito accipiam hereditatem.
+1	Praeterea	praeterea	_	_	ADV	_	_	_	_
+2	cito	cito	_	_	ADV	_	_	_	_
+3	accipiam	accipio	_	_	V;FIN;ACT;IND;SG;1;FUT	_	_	_	_
+4	hereditatem	hereditas	_	_	FEM;N;SG;ACC	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0631.phi001.perseus-lat1.tb.xml@39
+# text = L. Catilina, nobili genere natus, fuit magna vi et animi et corporis sed ingenio malo que pravo.
+1	L	L	_	_	_	_	_	_	_
+2	.	.	_	_	_	_	_	_	_
+3	Catilina	Catilina	_	_	N;NOM;SG;MASC	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	nobili	nobilis	_	_	NEUT;SG;ADJ;AT+ABL	_	_	_	_
+6	genere	genus	_	_	N;NEUT;SG;AT+ABL	_	_	_	_
+7	natus	nascor	_	_	V.PTCP;V;MASC;PASS;PST;PFV;NOM;SG	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	fuit	sum	_	_	V;IND;3;ACT;PST;PFV;SG;FIN	_	_	_	_
+10	magna	magnus	_	_	FEM;SG;ADJ;AT+ABL	_	_	_	_
+11	vi	vis	_	_	N;FEM;SG;AT+ABL	_	_	_	_
+12	et	et	_	_	CONJ	_	_	_	_
+13	animi	animus	_	_	N;SG;MASC;GEN	_	_	_	_
+14	et	et	_	_	CONJ	_	_	_	_
+15	corporis	corpus	_	_	N;NEUT;SG;GEN	_	_	_	_
+16	sed	sed	_	_	CONJ	_	_	_	_
+17	ingenio	ingenium	_	_	N;NEUT;SG;AT+ABL	_	_	_	_
+18	malo	malus	_	_	NEUT;SG;ADJ;AT+ABL	_	_	_	_
+19	que	que	_	_	CONJ	_	_	_	_
+20	pravo	pravus	_	_	NEUT;SG;ADJ;AT+ABL	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0448.phi001.perseus-lat1.tb.xml@55
+# text = Caesar equitatu praemisso subsequebatur omnibus copiis;
+1	Caesar	Caesar	_	_	N;NOM;SG;MASC	_	_	_	_
+2	equitatu	equitatus	_	_	N;SG;MASC;AT+ABL	_	_	_	_
+3	praemisso	praemitto	_	_	V.PTCP;V;MASC;PASS;PST;PFV;SG;AT+ABL	_	_	_	_
+4	subsequebatur	subsequor	_	_	V;IND;3;ACT;PST;SG;FIN;IPFV	_	_	_	_
+5	omnibus	omnes	_	_	FEM;PL;ADJ;AT+ABL	_	_	_	_
+6	copiis	copia	_	_	N;FEM;PL;AT+ABL	_	_	_	_
+7	;	;	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@546
+# text = Pavo ad Iunonem venit, indigne ferens Cantus luscinii quod sibi non tribuerit;
+1	Pavo	pavo	_	_	N;NOM;SG;MASC	_	_	_	_
+2	ad	ad	_	_	ADP	_	_	_	_
+3	Iunonem	Juno	_	_	N;FEM;ACC;SG	_	_	_	_
+4	venit	venio	_	_	V;IND;3;ACT;PST;PFV;SG;FIN	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	indigne	indignus	_	_	ADV	_	_	_	_
+7	ferens	fero	_	_	V.PTCP;V;PRS;MASC;NOM;SG	_	_	_	_
+8	Cantus	cantus	_	_	N;NOM;SG;MASC	_	_	_	_
+9	luscinii	luscinius	_	_	N;SG;MASC;GEN	_	_	_	_
+10	quod	quod	_	_	CONJ	_	_	_	_
+11	sibi	sui	_	_	PRO;DAT;MASC;SG	_	_	_	_
+12	non	non	_	_	ADV	_	_	_	_
+13	tribuerit	tribuo	_	_	SBJV;V;3;ACT;PST;PFV;SG;FIN	_	_	_	_
+14	;	;	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@133
+# text = Ad summam, quemvis ex istis babaecalis in rutae folium coniciet.
+1	Ad	ad	_	_	ADP	_	_	_	_
+2	summam	summa	_	_	FEM;N;SG;ACC	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	quemvis	quivis	_	_	ACC;SG;MASC;PRO	_	_	_	_
+5	ex	ex	_	_	ADP	_	_	_	_
+6	istis	iste	_	_	AT+ABL;MASC;PRO;PL	_	_	_	_
+7	babaecalis	babaeculus	_	_	N;PL;MASC;AT+ABL	_	_	_	_
+8	in	in	_	_	ADP	_	_	_	_
+9	rutae	ruta	_	_	FEM;N;GEN;SG	_	_	_	_
+10	folium	folium	_	_	N;SG;ACC;NEUT	_	_	_	_
+11	coniciet	conicio	_	_	V;FIN;ACT;3;IND;SG;FUT	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# newdoc id = phi0690.phi003.perseus-lat1.tb.xml
+# sent_id = phi0690.phi003.perseus-lat1.tb.xml@41
+# text = Te quoque magna manent regnis penetralia nostris:
+1	Te	tu	_	_	FEM;ACC;SG;PRO	_	_	_	_
+2	quoque	quoque	_	_	ADV	_	_	_	_
+3	magna	magnus	_	_	ADJ;NEUT;PL;NOM	_	_	_	_
+4	manent	maneo	_	_	V;FIN;ACT;3;PRS;IND;PL	_	_	_	_
+5	regnis	regnum	_	_	NEUT;N;PL;AT+ABL	_	_	_	_
+6	penetralia	penetralis	_	_	ADJ;NEUT;PL;NOM	_	_	_	_
+7	nostris	noster	_	_	AT+ABL;PL;PRO;NEUT	_	_	_	_
+8	:	:	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@1076
+# text = Aedifico domum, venalicia coemo iumenta;
+1	Aedifico	aedifico	_	_	V;FIN;ACT;PRS;IND;SG;1	_	_	_	_
+2	domum	domus	_	_	FEM;N;SG;ACC	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	venalicia	venalicius	_	_	ADJ;ACC;PL;NEUT	_	_	_	_
+5	coemo	coemo	_	_	V;FIN;ACT;PRS;IND;SG;1	_	_	_	_
+6	iumenta	jumentum	_	_	PL;N;ACC;NEUT	_	_	_	_
+7	;	;	_	_	_	_	_	_	_
+
+# sent_id = phi0959.phi006.perseus-lat1.tb.xml@226
+# text = Viderat a patrio redeuntem Iuppiter illam flumine et ' o virgo Iove digna que tuo beatum nescio quem factura toro, pete ' dixerat ' umbras altorum nemorum ' ( et nemorum monstraverat umbras ), ' dum calet et medio sol est altissimus orbe.
+1	Viderat	video	_	_	V;FIN;ACT;3;PST+PRF;IND;SG	_	_	_	_
+2	a	ab	_	_	ADP	_	_	_	_
+3	patrio	patrius	_	_	ADJ;AT+ABL;SG;NEUT	_	_	_	_
+4	redeuntem	redeo	_	_	V;ACT;FEM;PRS;SG;ACC;V.PTCP	_	_	_	_
+5	Iuppiter	Iuppiter	_	_	N;SG;MASC;NOM	_	_	_	_
+6	illam	ille	_	_	FEM;ACC;SG;PRO	_	_	_	_
+7	flumine	flumen	_	_	NEUT;N;SG;AT+ABL	_	_	_	_
+8	et	et	_	_	CONJ	_	_	_	_
+9	'	'	_	_	_	_	_	_	_
+10	o	O	_	_	INTJ	_	_	_	_
+11	virgo	virgo	_	_	FEM;N;SG;VOC	_	_	_	_
+12	Iove	Iuppiter	_	_	N;SG;MASC;AT+ABL	_	_	_	_
+13	digna	dignus	_	_	ADJ;FEM;SG;VOC	_	_	_	_
+14	que	que	_	_	CONJ	_	_	_	_
+15	tuo	tuus	_	_	ADJ;AT+ABL;SG;MASC	_	_	_	_
+16	beatum	beatus	_	_	ADJ;ACC;SG;MASC	_	_	_	_
+17	nescio	nescio	_	_	V;FIN;ACT;PRS;IND;SG;1	_	_	_	_
+18	quem	qui	_	_	ACC;SG;MASC;PRO	_	_	_	_
+19	factura	facio	_	_	V;ACT;FEM;VOC;SG;V.PTCP;FUT	_	_	_	_
+20	toro	torus	_	_	N;SG;MASC;AT+ABL	_	_	_	_
+21	,	,	_	_	_	_	_	_	_
+22	pete	peto	_	_	V;FIN;2;ACT;PRS;SG;IMP	_	_	_	_
+23	'	'	_	_	_	_	_	_	_
+24	dixerat	dico	_	_	V;FIN;ACT;3;PST+PRF;IND;SG	_	_	_	_
+25	'	'	_	_	_	_	_	_	_
+26	umbras	umbra	_	_	FEM;N;ACC;PL	_	_	_	_
+27	altorum	altus	_	_	ADJ;NEUT;GEN;PL	_	_	_	_
+28	nemorum	nemus	_	_	N;GEN;PL;NEUT	_	_	_	_
+29	'	'	_	_	_	_	_	_	_
+30	(	(	_	_	_	_	_	_	_
+31	et	et	_	_	CONJ	_	_	_	_
+32	nemorum	nemus	_	_	N;GEN;PL;NEUT	_	_	_	_
+33	monstraverat	monstro	_	_	V;FIN;ACT;3;PST+PRF;IND;SG	_	_	_	_
+34	umbras	umbra	_	_	FEM;N;ACC;PL	_	_	_	_
+35	)	)	_	_	_	_	_	_	_
+36	,	,	_	_	_	_	_	_	_
+37	'	'	_	_	_	_	_	_	_
+38	dum	dum	_	_	CONJ	_	_	_	_
+39	calet	caleo	_	_	V;FIN;ACT;3;PRS;IND;SG	_	_	_	_
+40	et	et	_	_	CONJ	_	_	_	_
+41	medio	medius	_	_	ADJ;AT+ABL;SG;MASC	_	_	_	_
+42	sol	sol	_	_	N;SG;MASC;NOM	_	_	_	_
+43	est	sum	_	_	V;FIN;ACT;3;PRS;IND;SG	_	_	_	_
+44	altissimus	altus	_	_	ADJ;MASC;NOM;SG;RL	_	_	_	_
+45	orbe	orbis	_	_	N;SG;MASC;AT+ABL	_	_	_	_
+46	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@754
+# text = Gladium tamen strinxi et in tota via umbras cecidi, done ad villam amicae meae pervenirem.
+1	Gladium	gladius	_	_	N;SG;ACC;MASC	_	_	_	_
+2	tamen	tamen	_	_	ADV	_	_	_	_
+3	strinxi	stringo	_	_	V;FIN;ACT;IND;PFV;SG;PST;1	_	_	_	_
+4	et	et	_	_	CONJ	_	_	_	_
+5	in	in	_	_	ADP	_	_	_	_
+6	tota	totus	_	_	ADJ;FEM;AT+ABL;SG	_	_	_	_
+7	via	via	_	_	FEM;N;SG;AT+ABL	_	_	_	_
+8	umbras	umbra	_	_	FEM;N;ACC;PL	_	_	_	_
+9	cecidi	caedo	_	_	V;FIN;ACT;IND;PFV;SG;PST;1	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	done	donec	_	_	CONJ	_	_	_	_
+12	ad	ad	_	_	ADP	_	_	_	_
+13	villam	villa	_	_	FEM;N;SG;ACC	_	_	_	_
+14	amicae	amica	_	_	FEM;N;GEN;SG	_	_	_	_
+15	meae	meus	_	_	ADJ;FEM;GEN;SG	_	_	_	_
+16	pervenirem	pervenio	_	_	V;IPFV;FIN;ACT;SBJV;SG;PST;1	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0620.phi001.perseus-lat1.tb.xml@203
+# text = an quae lecta Prometheis dividit herba iugis?
+1	an	an	_	_	CONJ	_	_	_	_
+2	quae	qui	_	_	PRO;FEM;NOM;SG	_	_	_	_
+3	lecta	lego	_	_	FEM;V.PTCP;V;PASS;PST;PFV;NOM;SG	_	_	_	_
+4	Prometheis	Prometheus	_	_	NEUT;PL;ADJ;AT+ABL	_	_	_	_
+5	dividit	divido	_	_	V;PRS;IND;3;ACT;SG;FIN	_	_	_	_
+6	herba	herba	_	_	N;FEM;NOM;SG	_	_	_	_
+7	iugis	jugum	_	_	N;NEUT;PL;AT+ABL	_	_	_	_
+8	?	?	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@869
+# text = Interim puer Alexandrinus, qui caldam ministrabat, luscinias coepit imitari clamante Trimalchione subinde:
+1	Interim	interim	_	_	ADV	_	_	_	_
+2	puer	puer	_	_	N;SG;MASC;NOM	_	_	_	_
+3	Alexandrinus	Alexandrinus	_	_	ADJ;SG;MASC;NOM	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	qui	qui	_	_	SG;MASC;PRO;NOM	_	_	_	_
+6	caldam	calidus	_	_	ADJ;FEM;ACC;SG	_	_	_	_
+7	ministrabat	ministro	_	_	V;IPFV;FIN;ACT;3;IND;SG;PST	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	luscinias	luscinia	_	_	FEM;N;ACC;PL	_	_	_	_
+10	coepit	coepio	_	_	V;FIN;ACT;3;IND;PFV;SG;PST	_	_	_	_
+11	imitari	imitor	_	_	V;PRS;PASS;NFIN	_	_	_	_
+12	clamante	clamo	_	_	V;AT+ABL;ACT;MASC;PRS;SG;V.PTCP	_	_	_	_
+13	Trimalchione	Trimalchio	_	_	N;SG;MASC;AT+ABL	_	_	_	_
+14	subinde	subinde	_	_	ADV	_	_	_	_
+15	:	:	_	_	_	_	_	_	_
+
+# sent_id = phi0631.phi001.perseus-lat1.tb.xml@103
+# text = ea quasi venenis malis inbuta corpus que animum virilem effeminat, semper infinita et insatiabilis est, que ne copia que ne inopia minuitur.
+1	ea	is	_	_	PRO;FEM;NOM;SG	_	_	_	_
+2	quasi	conj	_	_	CONJ	_	_	_	_
+3	venenis	venenum	_	_	N;NEUT;PL;AT+ABL	_	_	_	_
+4	malis	malus	_	_	NEUT;PL;ADJ;AT+ABL	_	_	_	_
+5	inbuta	inbuo	_	_	FEM;V.PTCP;V;PASS;PST;PFV;NOM;SG	_	_	_	_
+6	corpus	corpus	_	_	N;NEUT;ACC;SG	_	_	_	_
+7	que	que	_	_	CONJ	_	_	_	_
+8	animum	animus	_	_	N;ACC;MASC;SG	_	_	_	_
+9	virilem	virilis	_	_	ACC;MASC;ADJ;SG	_	_	_	_
+10	effeminat	effemino	_	_	V;PRS;IND;3;ACT;SG;FIN	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	semper	semper	_	_	ADV	_	_	_	_
+13	infinita	infinitus	_	_	FEM;NOM;SG;ADJ	_	_	_	_
+14	et	et	_	_	CONJ	_	_	_	_
+15	insatiabilis	insatiabilis	_	_	FEM;NOM;SG;ADJ	_	_	_	_
+16	est	sum	_	_	V;PRS;IND;3;ACT;SG;FIN	_	_	_	_
+17	,	,	_	_	_	_	_	_	_
+18	que	que	_	_	CONJ	_	_	_	_
+19	ne	ne	_	_	ADV	_	_	_	_
+20	copia	copia	_	_	N;FEM;SG;AT+ABL	_	_	_	_
+21	que	que	_	_	CONJ	_	_	_	_
+22	ne	ne	_	_	ADV	_	_	_	_
+23	inopia	inopia	_	_	N;FEM;SG;AT+ABL	_	_	_	_
+24	minuitur	minuo	_	_	V;PRS;IND;3;PASS;SG;FIN	_	_	_	_
+25	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi1221.phi007.perseus-lat1.tb.xml@47
+# text = Tribuniciae potestatis duodevicensimum, consul XII, trecentis et viginti millibus plebis urbanae sexagenos denarios viritim dedi.
+1	Tribuniciae	tribunicius	_	_	FEM;SG;ADJ;GEN	_	_	_	_
+2	potestatis	potestas	_	_	N;FEM;SG;GEN	_	_	_	_
+3	duodevicensimum	duodevicensimum	_	_	N;ACC;MASC;SG	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	consul	consul	_	_	N;NOM;SG;MASC	_	_	_	_
+6	XII	duodecim	_	_	ACC;NEUT;NUM	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	trecentis	trecenti	_	_	NEUT;PL;DAT;ADJ	_	_	_	_
+9	et	et	_	_	CONJ	_	_	_	_
+10	viginti	viginti	_	_	NUM	_	_	_	_
+11	millibus	mille	_	_	NEUT;DAT;NUM;PL	_	_	_	_
+12	plebis	plebs	_	_	N;FEM;SG;GEN	_	_	_	_
+13	urbanae	urbanus	_	_	FEM;SG;ADJ;GEN	_	_	_	_
+14	sexagenos	sexageni	_	_	ACC;PL;MASC;ADJ	_	_	_	_
+15	denarios	denarius	_	_	N;PL;ACC;MASC	_	_	_	_
+16	viritim	viritim	_	_	ADV	_	_	_	_
+17	dedi	do	_	_	V;IND;ACT;PST;1;PFV;SG;FIN	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = tlg0031.tlg027.perseus-lat1.tb.xml@469
+# text = post haec audivi quasi vocem magnam turbarum multarum in caelo dicentium:
+1	post	post	_	_	ADP	_	_	_	_
+2	haec	hic	_	_	PRO;NEUT;PL;ACC	_	_	_	_
+3	audivi	audio	_	_	V;IND;ACT;PST;1;PFV;SG;FIN	_	_	_	_
+4	quasi	quasi	_	_	ADV	_	_	_	_
+5	vocem	vox	_	_	N;FEM;ACC;SG	_	_	_	_
+6	magnam	magnus	_	_	ACC;FEM;SG;ADJ	_	_	_	_
+7	turbarum	turba	_	_	N;FEM;PL;GEN	_	_	_	_
+8	multarum	multus	_	_	FEM;PL;ADJ;GEN	_	_	_	_
+9	in	in	_	_	ADP	_	_	_	_
+10	caelo	caelum	_	_	N;NEUT;SG;AT+ABL	_	_	_	_
+11	dicentium	dico	_	_	FEM;V.PTCP;V;PL;ACT;GEN;PRS	_	_	_	_
+12	:	:	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@793
+# text = que Apposita ad os manu nescio quid taetrum exsibilavit, quod postea Graecum esse affirmabat.
+1	que	que	_	_	CONJ	_	_	_	_
+2	Apposita	appono	_	_	V;AT+ABL;FEM;SG;PFV;PST;V.PTCP;PASS	_	_	_	_
+3	ad	ad	_	_	ADP	_	_	_	_
+4	os	os	_	_	N;SG;ACC;NEUT	_	_	_	_
+5	manu	manus	_	_	FEM;N;SG;AT+ABL	_	_	_	_
+6	nescio	nescio	_	_	V;FIN;ACT;PRS;IND;SG;1	_	_	_	_
+7	quid	quis	_	_	ACC;SG;PRO;NEUT	_	_	_	_
+8	taetrum	taeter	_	_	ADJ;ACC;SG;NEUT	_	_	_	_
+9	exsibilavit	exsibilo	_	_	V;FIN;ACT;3;IND;PFV;SG;PST	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	quod	qui	_	_	ACC;SG;PRO;NEUT	_	_	_	_
+12	postea	postea	_	_	ADV	_	_	_	_
+13	Graecum	Graecus	_	_	ADJ;ACC;SG;NEUT	_	_	_	_
+14	esse	sum	_	_	V;PRS;ACT;NFIN	_	_	_	_
+15	affirmabat	affirmo	_	_	V;IPFV;FIN;ACT;3;IND;SG;PST	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi1348.abo012.perseus-lat1.tb.xml@93
+# text = ambobus communem sepulturae honorem tribuit ac tumulum ab ipsis incohatum perfici iussit.
+1	ambobus	ambo	_	_	DAT;NUM;MASC;PL	_	_	_	_
+2	communem	communis	_	_	ACC;MASC;ADJ;SG	_	_	_	_
+3	sepulturae	sepultura	_	_	N;FEM;SG;GEN	_	_	_	_
+4	honorem	honor	_	_	N;ACC;MASC;SG	_	_	_	_
+5	tribuit	tribuo	_	_	V;IND;3;ACT;PST;PFV;SG;FIN	_	_	_	_
+6	ac	atque	_	_	CONJ	_	_	_	_
+7	tumulum	tumulus	_	_	N;ACC;MASC;SG	_	_	_	_
+8	ab	ab	_	_	ADP	_	_	_	_
+9	ipsis	ipse	_	_	PRO;PL;MASC;AT+ABL	_	_	_	_
+10	incohatum	incoho	_	_	V.PTCP;V;ACC;MASC;PASS;PST;PFV;SG	_	_	_	_
+11	perfici	perficio	_	_	NFIN;PRS;V;PASS	_	_	_	_
+12	iussit	jubeo	_	_	V;IND;3;ACT;PST;PFV;SG;FIN	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = tlg0031.tlg027.perseus-lat1.tb.xml@275
+# text = et ascenderunt in caelum in nube et viderunt illos inimici eorum.
+1	et	et	_	_	CONJ	_	_	_	_
+2	ascenderunt	ascendo	_	_	V;IND;PL;3;ACT;PST;PFV;FIN	_	_	_	_
+3	in	in	_	_	ADP	_	_	_	_
+4	caelum	caelum	_	_	N;NEUT;ACC;SG	_	_	_	_
+5	in	in	_	_	ADP	_	_	_	_
+6	nube	nubes	_	_	N;FEM;SG;AT+ABL	_	_	_	_
+7	et	et	_	_	CONJ	_	_	_	_
+8	viderunt	video	_	_	V;IND;PL;3;ACT;PST;PFV;FIN	_	_	_	_
+9	illos	ille	_	_	PRO;PL;ACC;MASC	_	_	_	_
+10	inimici	inimicus	_	_	N;NOM;MASC;PL	_	_	_	_
+11	eorum	is	_	_	PRO;PL;MASC;GEN	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi1221.phi007.perseus-lat1.tb.xml@23
+# text = Quae tum per me geri senatus voluit, per tribuniciam potestatem perfeci, cuius potestatis conlegam et ipse ultro quinquiens a senatu depoposci et accepi.
+1	Quae	qui	_	_	N;NEUT;PL;ACC	_	_	_	_
+2	tum	tum	_	_	ADV	_	_	_	_
+3	per	per	_	_	ADP	_	_	_	_
+4	me	ego	_	_	PRO;ACC;MASC;SG	_	_	_	_
+5	geri	gero	_	_	NFIN;PRS;V;PASS	_	_	_	_
+6	senatus	senatus	_	_	N;NOM;SG;MASC	_	_	_	_
+7	voluit	volo	_	_	V;IND;3;ACT;PST;PFV;SG;FIN	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	per	per	_	_	ADP	_	_	_	_
+10	tribuniciam	tribunicius	_	_	ACC;FEM;SG;ADJ	_	_	_	_
+11	potestatem	potestas	_	_	N;FEM;ACC;SG	_	_	_	_
+12	perfeci	perficio	_	_	V;IND;ACT;PST;1;PFV;SG;FIN	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	cuius	qui	_	_	N;FEM;SG;GEN	_	_	_	_
+15	potestatis	potestas	_	_	N;FEM;SG;GEN	_	_	_	_
+16	conlegam	collega	_	_	N;ACC;MASC;SG	_	_	_	_
+17	et	et	_	_	CONJ	_	_	_	_
+18	ipse	ipse	_	_	PRO;NOM;SG;MASC	_	_	_	_
+19	ultro	ultro	_	_	ADV	_	_	_	_
+20	quinquiens	quinquiens	_	_	ADV	_	_	_	_
+21	a	ab	_	_	ADP	_	_	_	_
+22	senatu	senatus	_	_	N;SG;MASC;AT+ABL	_	_	_	_
+23	depoposci	deposco	_	_	V;IND;ACT;PST;1;PFV;SG;FIN	_	_	_	_
+24	et	et	_	_	CONJ	_	_	_	_
+25	accepi	accipio	_	_	V;IND;ACT;PST;1;PFV;SG;FIN	_	_	_	_
+26	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@100
+# text = Cum de fenestra corvus raptum caseum Comesse vellet, celsa residens arbore, Vulpes hunc vidit, deinde sic coepit loqui:
+1	Cum	cum	_	_	CONJ	_	_	_	_
+2	de	de	_	_	ADP	_	_	_	_
+3	fenestra	fenestra	_	_	FEM;N;SG;AT+ABL	_	_	_	_
+4	corvus	corvus	_	_	N;SG;MASC;NOM	_	_	_	_
+5	raptum	rapio	_	_	V;PASS;MASC;SG;PFV;PST;ACC;V.PTCP	_	_	_	_
+6	caseum	caseus	_	_	N;SG;ACC;MASC	_	_	_	_
+7	Comesse	comedo	_	_	V;PRS;ACT;NFIN	_	_	_	_
+8	vellet	volo	_	_	V;IPFV;FIN;ACT;3;SBJV;SG;PST	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	celsa	celsus	_	_	ADJ;FEM;AT+ABL;SG	_	_	_	_
+11	residens	resideo	_	_	V;MASC;NOM;PRS;SG;V.PTCP	_	_	_	_
+12	arbore	arbor	_	_	FEM;N;SG;AT+ABL	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	Vulpes	vulpes	_	_	FEM;N;SG;NOM	_	_	_	_
+15	hunc	hic	_	_	ACC;SG;MASC;PRO	_	_	_	_
+16	vidit	video	_	_	V;FIN;ACT;3;IND;PFV;SG;PST	_	_	_	_
+17	,	,	_	_	_	_	_	_	_
+18	deinde	deinde	_	_	ADV	_	_	_	_
+19	sic	sic	_	_	ADV	_	_	_	_
+20	coepit	coepio	_	_	V;FIN;ACT;3;IND;PFV;SG;PST	_	_	_	_
+21	loqui	loquor	_	_	V;PRS;ACT;NFIN	_	_	_	_
+22	:	:	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@864
+# text = Composita ergo in gremio Scintillae incensissimam rubore faciem sudario abscondit.
+1	Composita	compono	_	_	V;FEM;NOM;SG;PFV;PST;V.PTCP;PASS	_	_	_	_
+2	ergo	ergo	_	_	ADV	_	_	_	_
+3	in	in	_	_	ADP	_	_	_	_
+4	gremio	gremium	_	_	NEUT;N;SG;AT+ABL	_	_	_	_
+5	Scintillae	scintilla	_	_	FEM;N;GEN;SG	_	_	_	_
+6	incensissimam	incensus	_	_	ADJ;FEM;SG;ACC;RL	_	_	_	_
+7	rubore	rubor	_	_	N;SG;MASC;AT+ABL	_	_	_	_
+8	faciem	facies	_	_	FEM;N;SG;ACC	_	_	_	_
+9	sudario	sudarium	_	_	NEUT;N;SG;AT+ABL	_	_	_	_
+10	abscondit	abscondo	_	_	V;FIN;ACT;3;IND;PFV;SG;PST	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@918
+# text = Has lautitias aequavit ingeniosus cocus;
+1	Has	hic	_	_	FEM;ACC;PL;PRO	_	_	_	_
+2	lautitias	lautitia	_	_	FEM;N;ACC;PL	_	_	_	_
+3	aequavit	aequo	_	_	V;FIN;ACT;3;IND;PFV;SG;PST	_	_	_	_
+4	ingeniosus	ingeniosus	_	_	ADJ;SG;MASC;NOM	_	_	_	_
+5	cocus	coquus	_	_	N;SG;MASC;NOM	_	_	_	_
+6	;	;	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@532
+# text = Una bibamus.
+1	Una	unus	_	_	ADV	_	_	_	_
+2	bibamus	bibo	_	_	SBJV;V;PL;ACT;1;PRS;FIN	_	_	_	_
+3	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@461
+# text = Lucerna allata, simul aspexit filium Sanctam que uxorem dormientem cubiculo, Sopita primo quae nil somno senserat;
+1	Lucerna	lucerna	_	_	N;FEM;SG;AT+ABL	_	_	_	_
+2	allata	affero	_	_	FEM;V.PTCP;V;PASS;PST;PFV;SG;AT+ABL	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	simul	simul	_	_	ADV	_	_	_	_
+5	aspexit	aspicio	_	_	V;IND;3;ACT;PST;PFV;SG;FIN	_	_	_	_
+6	filium	filius	_	_	N;ACC;MASC;SG	_	_	_	_
+7	Sanctam	sancio	_	_	FEM;V.PTCP;V;ACC;PASS;PST;PFV;SG	_	_	_	_
+8	que	que	_	_	CONJ	_	_	_	_
+9	uxorem	uxor	_	_	N;FEM;ACC;SG	_	_	_	_
+10	dormientem	dormio	_	_	FEM;V.PTCP;V;PRS;ACC;SG	_	_	_	_
+11	cubiculo	cubiculum	_	_	N;NEUT;SG;AT+ABL	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	Sopita	sopio	_	_	FEM;V.PTCP;V;PASS;PST;PFV;NOM;SG	_	_	_	_
+14	primo	primus	_	_	NUM;MASC;SG;AT+ABL	_	_	_	_
+15	quae	qui	_	_	PRO;FEM;NOM;SG	_	_	_	_
+16	nil	nihil	_	_	N;NEUT;SG	_	_	_	_
+17	somno	somnus	_	_	N;SG;MASC;AT+ABL	_	_	_	_
+18	senserat	sentio	_	_	SG;V;IND;3;ACT;PST+PRF;FIN	_	_	_	_
+19	;	;	_	_	_	_	_	_	_
+
+# sent_id = phi0620.phi001.perseus-lat1.tb.xml@246
+# text = quae mihi dum placata aderit, non ulla verebor regna vel Alcinoi munera despicere.
+1	quae	qui	_	_	PRO;FEM;NOM;SG	_	_	_	_
+2	mihi	ego	_	_	PRO;DAT;MASC;SG	_	_	_	_
+3	dum	dum	_	_	CONJ	_	_	_	_
+4	placata	placo	_	_	FEM;V.PTCP;V;PASS;PST;PFV;NOM;SG	_	_	_	_
+5	aderit	adsum	_	_	V;IND;3;ACT;FUT;SG;FIN	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	non	non	_	_	ADV	_	_	_	_
+8	ulla	ullus	_	_	ACC;NEUT;PL;ADJ	_	_	_	_
+9	verebor	vereor	_	_	V;IND;ACT;1;FUT;SG;FIN	_	_	_	_
+10	regna	regnum	_	_	N;NEUT;PL;ACC	_	_	_	_
+11	vel	vel	_	_	CONJ	_	_	_	_
+12	Alcinoi	Alcinous	_	_	N;SG;MASC;GEN	_	_	_	_
+13	munera	munus	_	_	N;NEUT;PL;ACC	_	_	_	_
+14	despicere	despicio	_	_	NFIN;PRS;V;ACT	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@156
+# text = circumsteterat interim Palatium publica expectatio, magni secreti impatiens;
+1	circumsteterat	circumsto	_	_	SG;V;IND;3;ACT;PST+PRF;FIN	_	_	_	_
+2	interim	interim	_	_	ADV	_	_	_	_
+3	Palatium	Palatium	_	_	N;NEUT;ACC;SG	_	_	_	_
+4	publica	publicus	_	_	FEM;NOM;SG;ADJ	_	_	_	_
+5	expectatio	exspectatio	_	_	N;FEM;NOM;SG	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	magni	magnus	_	_	NEUT;SG;ADJ;GEN	_	_	_	_
+8	secreti	secerno	_	_	V.PTCP;V;PASS;PST;GEN;PFV;NEUT;SG	_	_	_	_
+9	impatiens	impatiens	_	_	FEM;NOM;SG;ADJ	_	_	_	_
+10	;	;	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@638
+# text = nemo tamen sciit, utrum servus essem an liber.
+1	nemo	nemo	_	_	N;SG;MASC;NOM	_	_	_	_
+2	tamen	tamen	_	_	ADV	_	_	_	_
+3	sciit	scio	_	_	V;FIN;ACT;3;IND;PFV;SG;PST	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	utrum	utrum	_	_	CONJ	_	_	_	_
+6	servus	servus	_	_	ADJ;SG;MASC;NOM	_	_	_	_
+7	essem	sum	_	_	V;IPFV;FIN;ACT;SBJV;SG;PST;1	_	_	_	_
+8	an	an	_	_	CONJ	_	_	_	_
+9	liber	liber	_	_	ADJ;SG;MASC;NOM	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@242
+# text = Videor mihi cum illo loqui.
+1	Videor	video	_	_	V;FIN;PRS;IND;SG;PASS;1	_	_	_	_
+2	mihi	ego	_	_	DAT;SG;MASC;PRO	_	_	_	_
+3	cum	cum	_	_	ADP	_	_	_	_
+4	illo	ille	_	_	AT+ABL;SG;MASC;PRO	_	_	_	_
+5	loqui	loquor	_	_	V;PRS;PASS;NFIN	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0631.phi001.perseus-lat1.tb.xml@621
+# text = ita ille patricius ex gente clarissuma Corneliorum, qui consulare imperium Romae habuerat, dignum moribus que factis suis exitium vitae invenit.
+1	ita	ita	_	_	ADV	_	_	_	_
+2	ille	ille	_	_	PRO;NOM;SG;MASC	_	_	_	_
+3	patricius	patricius	_	_	NOM;MASC;ADJ;SG	_	_	_	_
+4	ex	ex	_	_	ADP	_	_	_	_
+5	gente	gens	_	_	N;FEM;SG;AT+ABL	_	_	_	_
+6	clarissuma	clarus	_	_	FEM;ADJ;SG;RL;AT+ABL	_	_	_	_
+7	Corneliorum	Cornelius	_	_	PL;MASC;ADJ;GEN	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	qui	qui	_	_	PRO;NOM;SG;MASC	_	_	_	_
+10	consulare	consularis	_	_	ACC;NEUT;SG;ADJ	_	_	_	_
+11	imperium	imperium	_	_	N;NEUT;ACC;SG	_	_	_	_
+12	Romae	Roma	_	_	N;FEM;SG;ESS	_	_	_	_
+13	habuerat	habeo	_	_	SG;V;IND;3;ACT;PST+PRF;FIN	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	dignum	dignus	_	_	ACC;NEUT;SG;ADJ	_	_	_	_
+16	moribus	mos	_	_	N;PL;MASC;AT+ABL	_	_	_	_
+17	que	que	_	_	CONJ	_	_	_	_
+18	factis	factum	_	_	N;NEUT;PL;AT+ABL	_	_	_	_
+19	suis	suus	_	_	NEUT;PL;ADJ;AT+ABL	_	_	_	_
+20	exitium	exitium	_	_	N;NEUT;ACC;SG	_	_	_	_
+21	vitae	vita	_	_	N;FEM;SG;GEN	_	_	_	_
+22	invenit	invenio	_	_	V;IND;3;ACT;PST;PFV;SG;FIN	_	_	_	_
+23	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@197
+# text = Aquila ut periclo mortis eriperet suos Incolumes natos supplex vulpi tradidit.
+1	Aquila	aquila	_	_	FEM;N;SG;NOM	_	_	_	_
+2	ut	ut	_	_	CONJ	_	_	_	_
+3	periclo	periculum	_	_	NEUT;N;SG;AT+ABL	_	_	_	_
+4	mortis	mors	_	_	FEM;N;GEN;SG	_	_	_	_
+5	eriperet	eripio	_	_	V;IPFV;FIN;ACT;3;SBJV;SG;PST	_	_	_	_
+6	suos	suus	_	_	ACC;MASC;PRO;PL	_	_	_	_
+7	Incolumes	incolumis	_	_	ADJ;ACC;PL;MASC	_	_	_	_
+8	natos	nascor	_	_	V;PASS;MASC;PFV;PL;PST;ACC;V.PTCP	_	_	_	_
+9	supplex	supplex	_	_	ADJ;FEM;SG;NOM	_	_	_	_
+10	vulpi	vulpes	_	_	FEM;DAT;N;SG	_	_	_	_
+11	tradidit	trado	_	_	V;FIN;ACT;3;IND;PFV;SG;PST	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = tlg0031.tlg027.perseus-lat1.tb.xml@269
+# text = et videbunt de populis et tribubus et linguis et gentibus corpora eorum per tres dies et dimidium et corpora eorum non sinunt poni in monumentis.
+1	et	et	_	_	CONJ	_	_	_	_
+2	videbunt	video	_	_	V;IND;PL;3;ACT;FUT;FIN	_	_	_	_
+3	de	de	_	_	ADP	_	_	_	_
+4	populis	populus	_	_	N;FEM;PL;AT+ABL	_	_	_	_
+5	et	et	_	_	CONJ	_	_	_	_
+6	tribubus	tribus	_	_	N;FEM;PL;AT+ABL	_	_	_	_
+7	et	et	_	_	CONJ	_	_	_	_
+8	linguis	lingua	_	_	N;FEM;PL;AT+ABL	_	_	_	_
+9	et	et	_	_	CONJ	_	_	_	_
+10	gentibus	gens	_	_	N;FEM;PL;AT+ABL	_	_	_	_
+11	corpora	corpus	_	_	N;NEUT;PL;ACC	_	_	_	_
+12	eorum	is	_	_	PRO;PL;MASC;GEN	_	_	_	_
+13	per	per	_	_	ADP	_	_	_	_
+14	tres	tres	_	_	NUM	_	_	_	_
+15	dies	dies	_	_	N;FEM;PL;ACC	_	_	_	_
+16	et	et	_	_	CONJ	_	_	_	_
+17	dimidium	dimidium	_	_	N;NEUT;ACC;SG	_	_	_	_
+18	et	et	_	_	CONJ	_	_	_	_
+19	corpora	corpus	_	_	N;NEUT;NOM;PL	_	_	_	_
+20	eorum	is	_	_	PRO;PL;MASC;GEN	_	_	_	_
+21	non	non	_	_	ADV	_	_	_	_
+22	sinunt	sino	_	_	V;IND;PL;3;ACT;PRS;FIN	_	_	_	_
+23	poni	pono	_	_	NFIN;PRS;V;PASS	_	_	_	_
+24	in	in	_	_	ADP	_	_	_	_
+25	monumentis	monumentum	_	_	N;NEUT;PL;AT+ABL	_	_	_	_
+26	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@183
+# text = Quae vulpem cum revocasset, intrito cibo Plenam lagonam posuit:
+1	Quae	qui	_	_	FEM;SG;PRO;NOM	_	_	_	_
+2	vulpem	vulpes	_	_	FEM;N;SG;ACC	_	_	_	_
+3	cum	cum	_	_	CONJ	_	_	_	_
+4	revocasset	revoco	_	_	V;FIN;ACT;3;SBJV;PST+PRF;SG	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	intrito	intero	_	_	V;AT+ABL;MASC;SG;PFV;PST;V.PTCP;PASS	_	_	_	_
+7	cibo	cibus	_	_	N;SG;MASC;AT+ABL	_	_	_	_
+8	Plenam	plenus	_	_	ADJ;FEM;ACC;SG	_	_	_	_
+9	lagonam	lagena	_	_	FEM;N;SG;ACC	_	_	_	_
+10	posuit	pono	_	_	V;FIN;ACT;3;IND;PFV;SG;PST	_	_	_	_
+11	:	:	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@766
+# text = immo certus est et minime linguosus.
+1	immo	immo	_	_	ADV	_	_	_	_
+2	certus	certus	_	_	ADJ;SG;MASC;NOM	_	_	_	_
+3	est	sum	_	_	V;FIN;ACT;3;PRS;IND;SG	_	_	_	_
+4	et	et	_	_	CONJ	_	_	_	_
+5	minime	minimus	_	_	ADV	_	_	_	_
+6	linguosus	linguosus	_	_	ADJ;SG;MASC;NOM	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0620.phi001.perseus-lat1.tb.xml@219
+# text = vidi ego:
+1	vidi	video	_	_	V;IND;ACT;PST;1;PFV;SG;FIN	_	_	_	_
+2	ego	ego	_	_	PRO;NOM;SG;MASC	_	_	_	_
+3	:	:	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@350
+# text = Quid autem Glyco putabat Hermogenis filicem unquam bonum exitum facturam?
+1	Quid	quis	_	_	ACC;SG;PRO;NEUT	_	_	_	_
+2	autem	autem	_	_	CONJ	_	_	_	_
+3	Glyco	Glyco	_	_	N;SG;MASC;NOM	_	_	_	_
+4	putabat	puto	_	_	V;IPFV;FIN;ACT;3;IND;SG;PST	_	_	_	_
+5	Hermogenis	Hermogenes	_	_	N;GEN;SG;MASC	_	_	_	_
+6	filicem	filix	_	_	FEM;N;SG;ACC	_	_	_	_
+7	unquam	umquam	_	_	ADV	_	_	_	_
+8	bonum	bonus	_	_	ADJ;ACC;SG;MASC	_	_	_	_
+9	exitum	exitus	_	_	N;SG;ACC;MASC	_	_	_	_
+10	facturam	factura	_	_	FEM;N;SG;ACC	_	_	_	_
+11	?	?	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@865
+# text = Interposito deinde spatio cum secundas mensas Trimalchio iussisset afferri, sustulerunt servi omnes mensas et alias attulerunt, que scobem croco et minio tinctam sparserunt et, quod nunquam ante videram, ex lapide speculari pulverem tritum.
+1	Interposito	interpono	_	_	V;AT+ABL;NEUT;SG;PFV;PST;V.PTCP;PASS	_	_	_	_
+2	deinde	deinde	_	_	ADV	_	_	_	_
+3	spatio	spatium	_	_	NEUT;N;SG;AT+ABL	_	_	_	_
+4	cum	cum	_	_	CONJ	_	_	_	_
+5	secundas	secundus	_	_	ADJ;FEM;ACC;PL	_	_	_	_
+6	mensas	mensa	_	_	FEM;N;ACC;PL	_	_	_	_
+7	Trimalchio	Trimalchio	_	_	N;SG;MASC;NOM	_	_	_	_
+8	iussisset	jubeo	_	_	V;FIN;ACT;3;SBJV;PST+PRF;SG	_	_	_	_
+9	afferri	affero	_	_	V;PRS;PASS;NFIN	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	sustulerunt	tollo	_	_	V;FIN;ACT;3;IND;PFV;PL;PST	_	_	_	_
+12	servi	servus	_	_	N;PL;MASC;NOM	_	_	_	_
+13	omnes	omnis	_	_	ADJ;FEM;ACC;PL	_	_	_	_
+14	mensas	mensa	_	_	FEM;N;ACC;PL	_	_	_	_
+15	et	et	_	_	CONJ	_	_	_	_
+16	alias	alius	_	_	ADJ;FEM;ACC;PL	_	_	_	_
+17	attulerunt	affero	_	_	V;FIN;ACT;3;IND;PFV;PL;PST	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	que	que	_	_	CONJ	_	_	_	_
+20	scobem	scobis	_	_	FEM;N;SG;ACC	_	_	_	_
+21	croco	crocum	_	_	NEUT;N;SG;AT+ABL	_	_	_	_
+22	et	et	_	_	CONJ	_	_	_	_
+23	minio	minium	_	_	NEUT;N;SG;AT+ABL	_	_	_	_
+24	tinctam	tingo	_	_	V;FEM;PASS;SG;PFV;PST;ACC;V.PTCP	_	_	_	_
+25	sparserunt	spargo	_	_	V;FIN;ACT;3;IND;PFV;PL;PST	_	_	_	_
+26	et	et	_	_	CONJ	_	_	_	_
+27	,	,	_	_	_	_	_	_	_
+28	quod	qui	_	_	ACC;SG;PRO;NEUT	_	_	_	_
+29	nunquam	numquam	_	_	ADV	_	_	_	_
+30	ante	ante	_	_	ADV	_	_	_	_
+31	videram	video	_	_	V;FIN;ACT;PST+PRF;IND;SG;1	_	_	_	_
+32	,	,	_	_	_	_	_	_	_
+33	ex	ex	_	_	ADP	_	_	_	_
+34	lapide	lapis	_	_	FEM;N;SG;AT+ABL	_	_	_	_
+35	speculari	specularis	_	_	ADJ;FEM;AT+ABL;SG	_	_	_	_
+36	pulverem	pulvis	_	_	N;SG;ACC;MASC	_	_	_	_
+37	tritum	tero	_	_	V;PASS;MASC;SG;PFV;PST;ACC;V.PTCP	_	_	_	_
+38	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0620.phi001.perseus-lat1.tb.xml@264
+# text = quis te cogebat multos pallere colores et fletum invitis ducere luminibus?
+1	quis	quis	_	_	PRO;NOM;SG;MASC	_	_	_	_
+2	te	tu	_	_	PRO;FEM;ACC;SG	_	_	_	_
+3	cogebat	cogo	_	_	V;IND;3;ACT;PST;SG;FIN;IPFV	_	_	_	_
+4	multos	multus	_	_	ACC;PL;MASC;ADJ	_	_	_	_
+5	pallere	palleo	_	_	NFIN;PRS;V;ACT	_	_	_	_
+6	colores	color	_	_	N;PL;ACC;MASC	_	_	_	_
+7	et	et	_	_	CONJ	_	_	_	_
+8	fletum	fletus	_	_	N;ACC;MASC;SG	_	_	_	_
+9	invitis	invitus	_	_	NEUT;PL;ADJ;AT+ABL	_	_	_	_
+10	ducere	duco	_	_	NFIN;PRS;V;ACT	_	_	_	_
+11	luminibus	lumen	_	_	N;NEUT;PL;AT+ABL	_	_	_	_
+12	?	?	_	_	_	_	_	_	_
+
+# sent_id = phi0631.phi001.perseus-lat1.tb.xml@573
+# text = sed inertia et mollitia animi alius alium expectantes cunctamini, videlicet dis inmortalibus confisi, qui hanc rem publicam saepe in maxumis periculis servavere.
+1	sed	sed	_	_	CONJ	_	_	_	_
+2	inertia	inertia	_	_	N;FEM;SG;AT+ABL	_	_	_	_
+3	et	et	_	_	CONJ	_	_	_	_
+4	mollitia	mollitia	_	_	N;FEM;SG;AT+ABL	_	_	_	_
+5	animi	animus	_	_	N;SG;MASC;GEN	_	_	_	_
+6	alius	alius	_	_	NOM;MASC;ADJ;SG	_	_	_	_
+7	alium	allium	_	_	N;NEUT;ACC;SG	_	_	_	_
+8	expectantes	exspecto	_	_	V.PTCP;V;PL;MASC;ACT;NOM;PRS	_	_	_	_
+9	cunctamini	cuncto	_	_	V;IND;PL;2;PASS;PRS;FIN	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	videlicet	videlicet	_	_	ADV	_	_	_	_
+12	dis	deus	_	_	N;PL;DAT;MASC	_	_	_	_
+13	inmortalibus	immortalis	_	_	MASC;PL;DAT;ADJ	_	_	_	_
+14	confisi	confido	_	_	V.PTCP;V;PL;MASC;PASS;PST;PFV;NOM	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	qui	qui	_	_	PRO;NOM;MASC;PL	_	_	_	_
+17	hanc	hic	_	_	PRO;FEM;ACC;SG	_	_	_	_
+18	rem	res	_	_	N;FEM;ACC;SG	_	_	_	_
+19	publicam	publicus	_	_	ACC;FEM;SG;ADJ	_	_	_	_
+20	saepe	saepe	_	_	ADV	_	_	_	_
+21	in	in	_	_	ADP	_	_	_	_
+22	maxumis	magnus	_	_	NEUT;PL;ADJ;AT+ABL	_	_	_	_
+23	periculis	periculum	_	_	N;NEUT;PL;AT+ABL	_	_	_	_
+24	servavere	servo	_	_	V;IND;PL;3;ACT;PST;PFV;FIN	_	_	_	_
+25	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0631.phi001.perseus-lat1.tb.xml@177
+# text = quia nondum frequentes armati convenerant, ea res consilium diremit.
+1	quia	quia	_	_	CONJ	_	_	_	_
+2	nondum	nondum	_	_	ADV	_	_	_	_
+3	frequentes	frequens	_	_	NOM;MASC;ADJ;PL	_	_	_	_
+4	armati	armatus	_	_	N;NOM;MASC;PL	_	_	_	_
+5	convenerant	convenio	_	_	V;IND;PL;3;ACT;PST+PRF;FIN	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	ea	is	_	_	PRO;FEM;NOM;SG	_	_	_	_
+8	res	res	_	_	N;FEM;NOM;SG	_	_	_	_
+9	consilium	consilium	_	_	N;NEUT;ACC;SG	_	_	_	_
+10	diremit	disredimo	_	_	V;IND;3;ACT;PST;PFV;SG;FIN	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@397
+# text = Vides Phileronem causidicum:
+1	Vides	video	_	_	V;FIN;2;ACT;PRS;IND;SG	_	_	_	_
+2	Phileronem	Phileros	_	_	N;SG;ACC;MASC	_	_	_	_
+3	causidicum	causidicus	_	_	N;SG;ACC;MASC	_	_	_	_
+4	:	:	_	_	_	_	_	_	_
+
+# sent_id = phi0631.phi001.perseus-lat1.tb.xml@185
+# text = de superiore coniuratione satis dictum.
+1	de	de	_	_	ADP	_	_	_	_
+2	superiore	superus	_	_	FEM;ADJ;CMPR;SG;AT+ABL	_	_	_	_
+3	coniuratione	conjuratio	_	_	N;FEM;SG;AT+ABL	_	_	_	_
+4	satis	satis	_	_	ADV	_	_	_	_
+5	dictum	dico	_	_	V.PTCP;V;PASS;PST;PFV;NEUT;NOM;SG	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@470
+# text = Quam cum Agamemnon propius consideraret, ait Trimalchio:
+1	Quam	qui	_	_	FEM;ACC;SG;PRO	_	_	_	_
+2	cum	cum	_	_	CONJ	_	_	_	_
+3	Agamemnon	Agamemnon	_	_	N;SG;MASC;NOM	_	_	_	_
+4	propius	propius	_	_	ADV	_	_	_	_
+5	consideraret	considero	_	_	V;IPFV;FIN;ACT;3;SBJV;SG;PST	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	ait	aio	_	_	V;FIN;ACT;3;PRS;IND;SG	_	_	_	_
+8	Trimalchio	Trimalchio	_	_	N;SG;MASC;NOM	_	_	_	_
+9	:	:	_	_	_	_	_	_	_
+
+# sent_id = phi0620.phi001.perseus-lat1.tb.xml@344
+# text = at comes invicti iuvenis processerat ultra raram sepositi quaerere fontis aquam.
+1	at	at	_	_	CONJ	_	_	_	_
+2	comes	comes	_	_	N;NOM;SG;MASC	_	_	_	_
+3	invicti	invictus	_	_	SG;MASC;ADJ;GEN	_	_	_	_
+4	iuvenis	juvenis	_	_	SG;MASC;ADJ;GEN	_	_	_	_
+5	processerat	procedo	_	_	SG;V;IND;3;ACT;PST+PRF;FIN	_	_	_	_
+6	ultra	ultra	_	_	ADV	_	_	_	_
+7	raram	rarus	_	_	ACC;FEM;SG;ADJ	_	_	_	_
+8	sepositi	sepono	_	_	V.PTCP;V;MASC;PASS;PST;GEN;PFV;SG	_	_	_	_
+9	quaerere	quaero	_	_	NFIN;PRS;V;ACT	_	_	_	_
+10	fontis	fons	_	_	N;SG;MASC;GEN	_	_	_	_
+11	aquam	aqua	_	_	N;FEM;ACC;SG	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@773
+# text = poterat bovem iratum tollere.
+1	poterat	possum	_	_	V;IPFV;FIN;ACT;3;IND;SG;PST	_	_	_	_
+2	bovem	bos	_	_	N;SG;ACC;MASC	_	_	_	_
+3	iratum	irascor	_	_	V;PASS;MASC;SG;PFV;PST;ACC;V.PTCP	_	_	_	_
+4	tollere	tollo	_	_	V;PRS;ACT;NFIN	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@132
+# text = Haec inquit merces fraudis a superis datur.
+1	Haec	hic	_	_	FEM;SG;PRO;NOM	_	_	_	_
+2	inquit	inquam	_	_	V;FIN;ACT;3;IND;PFV;SG;PST	_	_	_	_
+3	merces	merces	_	_	FEM;N;SG;NOM	_	_	_	_
+4	fraudis	fraus	_	_	FEM;N;GEN;SG	_	_	_	_
+5	a	ab	_	_	ADP	_	_	_	_
+6	superis	superus	_	_	ADJ;AT+ABL;PL;MASC	_	_	_	_
+7	datur	do	_	_	V;FIN;3;PRS;IND;SG;PASS	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@973
+# text = Servavit nos tamen atriensis, qui interventu suo et canem placavit et nos trementes extraxit in siccum.
+1	Servavit	servo	_	_	V;FIN;ACT;3;IND;PFV;SG;PST	_	_	_	_
+2	nos	nos	_	_	ACC;MASC;PRO;PL	_	_	_	_
+3	tamen	tamen	_	_	ADV	_	_	_	_
+4	atriensis	atriensis	_	_	N;SG;MASC;NOM	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	qui	qui	_	_	SG;MASC;PRO;NOM	_	_	_	_
+7	interventu	interventus	_	_	N;SG;MASC;AT+ABL	_	_	_	_
+8	suo	suus	_	_	ADJ;AT+ABL;SG;MASC	_	_	_	_
+9	et	et	_	_	CONJ	_	_	_	_
+10	canem	canis	_	_	N;SG;ACC;MASC	_	_	_	_
+11	placavit	placo	_	_	V;FIN;ACT;3;IND;PFV;SG;PST	_	_	_	_
+12	et	et	_	_	CONJ	_	_	_	_
+13	nos	nos	_	_	ACC;MASC;PRO;PL	_	_	_	_
+14	trementes	tremo	_	_	V;ACT;MASC;PRS;PL;ACC;V.PTCP	_	_	_	_
+15	extraxit	extraho	_	_	V;FIN;ACT;3;IND;PFV;SG;PST	_	_	_	_
+16	in	in	_	_	ADP	_	_	_	_
+17	siccum	siccus	_	_	ADJ;ACC;SG;NEUT	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0631.phi001.perseus-lat1.tb.xml@191
+# text = Sed ego quae mente agitavi, omnes iam antea divorsi audistis.
+1	Sed	sed	_	_	CONJ	_	_	_	_
+2	ego	ego	_	_	PRO;NOM;SG;MASC	_	_	_	_
+3	quae	qui	_	_	PRO;NEUT;PL;ACC	_	_	_	_
+4	mente	mens	_	_	N;FEM;SG;AT+ABL	_	_	_	_
+5	agitavi	agito	_	_	V;IND;ACT;PST;1;PFV;SG;FIN	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	omnes	omnes	_	_	N;NOM;MASC;PL	_	_	_	_
+8	iam	jam	_	_	ADV	_	_	_	_
+9	antea	antea	_	_	ADV	_	_	_	_
+10	divorsi	divorto	_	_	V.PTCP;V;PL;MASC;PASS;PST;PFV;NOM	_	_	_	_
+11	audistis	audio	_	_	V;IND;PL;2;ACT;PST;PFV;FIN	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0474.phi013.perseus-lat1.tb.xml@303
+# text = quartum genus est sane varium et mixtum et turbulentum;
+1	quartum	quartus	_	_	NEUT;NOM;NUM;SG	_	_	_	_
+2	genus	genus	_	_	N;NEUT;NOM;SG	_	_	_	_
+3	est	sum	_	_	V;PRS;IND;3;ACT;SG;FIN	_	_	_	_
+4	sane	sanus	_	_	ADV	_	_	_	_
+5	varium	varius	_	_	NEUT;NOM;SG;ADJ	_	_	_	_
+6	et	et	_	_	CONJ	_	_	_	_
+7	mixtum	misceo	_	_	NEUT;NOM;SG;ADJ	_	_	_	_
+8	et	et	_	_	CONJ	_	_	_	_
+9	turbulentum	turbulentus	_	_	NEUT;NOM;SG;ADJ	_	_	_	_
+10	;	;	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@626
+# text = spero, sic moriar, ut mortuus non erubescam.
+1	spero	spero	_	_	V;FIN;ACT;PRS;IND;SG;1	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	sic	sic	_	_	ADV	_	_	_	_
+4	moriar	morior	_	_	V;FIN;SBJV;PRS;SG;PASS;1	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	ut	ut	_	_	CONJ	_	_	_	_
+7	mortuus	morior	_	_	V;MASC;NOM;SG;PFV;PST;V.PTCP;PASS	_	_	_	_
+8	non	non	_	_	ADV	_	_	_	_
+9	erubescam	erubesco	_	_	V;FIN;ACT;SBJV;PRS;SG;1	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@538
+# text = iam nomina vilicorum et repudiata a cilcitore Iiberta in balneatoris contubernio deprehensa et atriensis Baias relegatus;
+1	iam	jam	_	_	ADV	_	_	_	_
+2	nomina	nomen	_	_	NEUT;N;PL;NOM	_	_	_	_
+3	vilicorum	vilicus	_	_	N;GEN;PL;MASC	_	_	_	_
+4	et	et	_	_	CONJ	_	_	_	_
+5	repudiata	repudio	_	_	V;FEM;NOM;SG;PFV;PST;V.PTCP;PASS	_	_	_	_
+6	a	ab	_	_	ADP	_	_	_	_
+7	cilcitore	circumitor	_	_	N;SG;MASC;AT+ABL	_	_	_	_
+8	Iiberta	liberta	_	_	FEM;N;SG;NOM	_	_	_	_
+9	in	in	_	_	ADP	_	_	_	_
+10	balneatoris	balneator	_	_	N;GEN;SG;MASC	_	_	_	_
+11	contubernio	contubernium	_	_	NEUT;N;SG;AT+ABL	_	_	_	_
+12	deprehensa	deprehendo	_	_	V;FEM;NOM;SG;PFV;PST;V.PTCP;PASS	_	_	_	_
+13	et	et	_	_	CONJ	_	_	_	_
+14	atriensis	atriensis	_	_	N;SG;MASC;NOM	_	_	_	_
+15	Baias	Baiae	_	_	FEM;N;ACC;PL	_	_	_	_
+16	relegatus	relego	_	_	V;MASC;NOM;SG;PFV;PST;V.PTCP;PASS	_	_	_	_
+17	;	;	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@398
+# text = si non didicisset, hodie famem a labris non abigeret.
+1	si	si	_	_	CONJ	_	_	_	_
+2	non	non	_	_	ADV	_	_	_	_
+3	didicisset	disco	_	_	V;FIN;ACT;3;SBJV;PST+PRF;SG	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	hodie	hodie	_	_	ADV	_	_	_	_
+6	famem	fames	_	_	FEM;N;SG;ACC	_	_	_	_
+7	a	ab	_	_	ADP	_	_	_	_
+8	labris	labrum	_	_	NEUT;N;PL;AT+ABL	_	_	_	_
+9	non	non	_	_	ADV	_	_	_	_
+10	abigeret	abigo	_	_	V;IPFV;FIN;ACT;3;SBJV;SG;PST	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0690.phi003.perseus-lat1.tb.xml@56
+# text = alius Latio iam partus Achilles, natus et ipse dea;
+1	alius	alius	_	_	ADJ;SG;MASC;NOM	_	_	_	_
+2	Latio	Latium	_	_	NEUT;N;SG;AT+ABL	_	_	_	_
+3	iam	jam	_	_	ADV	_	_	_	_
+4	partus	pario	_	_	V;MASC;NOM;SG;PFV;PST;V.PTCP;PASS	_	_	_	_
+5	Achilles	Achilles	_	_	N;SG;MASC;NOM	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	natus	nascor	_	_	V;ACT;MASC;NOM;SG;PFV;PST;V.PTCP	_	_	_	_
+8	et	et	_	_	CONJ	_	_	_	_
+9	ipse	ipse	_	_	SG;MASC;PRO;NOM	_	_	_	_
+10	dea	dea	_	_	FEM;N;SG;AT+ABL	_	_	_	_
+11	;	;	_	_	_	_	_	_	_
+
+# sent_id = phi0959.phi006.perseus-lat1.tb.xml@187
+# text = moderatius insequar ipse.
+1	moderatius	moderatus	_	_	ADV	_	_	_	_
+2	insequar	insequor	_	_	V;FIN;IND;SG;PASS;1;FUT	_	_	_	_
+3	ipse	ipse	_	_	SG;MASC;PRO;NOM	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0620.phi001.perseus-lat1.tb.xml@52
+# text = interdum leviter mecum deserta querebar externo longas saepe in amore moras:
+1	interdum	interdum	_	_	ADV	_	_	_	_
+2	leviter	levis	_	_	ADV	_	_	_	_
+3	mecum	ego	_	_	PRO;FEM;SG;AT+ABL	_	_	_	_
+4	deserta	desero	_	_	FEM;V.PTCP;V;PASS;PST;PFV;NOM;SG	_	_	_	_
+5	querebar	queror	_	_	V;IND;ACT;PST;1;SG;FIN;IPFV	_	_	_	_
+6	externo	externus	_	_	MASC;ADJ;SG;AT+ABL	_	_	_	_
+7	longas	longus	_	_	ACC;FEM;PL;ADJ	_	_	_	_
+8	saepe	saepe	_	_	ADV	_	_	_	_
+9	in	in	_	_	ADP	_	_	_	_
+10	amore	amor	_	_	N;SG;MASC;AT+ABL	_	_	_	_
+11	moras	mora	_	_	N;FEM;PL;ACC	_	_	_	_
+12	:	:	_	_	_	_	_	_	_
+
+# sent_id = phi0620.phi001.perseus-lat1.tb.xml@299
+# text = illa meum extremo clamasset pulvere nomen, ut mihi non ullo pondere terra foret.
+1	illa	ille	_	_	PRO;FEM;NOM;SG	_	_	_	_
+2	meum	meus	_	_	PRO;NEUT;ACC;SG	_	_	_	_
+3	extremo	exter	_	_	MASC;ADJ;SG;RL;AT+ABL	_	_	_	_
+4	clamasset	clamo	_	_	SBJV;SG;V;3;ACT;PST+PRF;FIN	_	_	_	_
+5	pulvere	pulvis	_	_	N;SG;MASC;AT+ABL	_	_	_	_
+6	nomen	nomen	_	_	N;NEUT;ACC;SG	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	ut	ut	_	_	ADV	_	_	_	_
+9	mihi	ego	_	_	PRO;DAT;MASC;SG	_	_	_	_
+10	non	non	_	_	ADV	_	_	_	_
+11	ullo	ullus	_	_	NEUT;SG;ADJ;AT+ABL	_	_	_	_
+12	pondere	pondus	_	_	N;NEUT;SG;AT+ABL	_	_	_	_
+13	terra	terra	_	_	N;FEM;NOM;SG	_	_	_	_
+14	foret	sum	_	_	SBJV;V;3;ACT;PST;SG;FIN;IPFV	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = tlg0031.tlg027.perseus-lat1.tb.xml@405
+# text = et congregavit illos in locum qui vocatur hebraice Hermagedon.
+1	et	et	_	_	CONJ	_	_	_	_
+2	congregavit	congrego	_	_	V;IND;3;ACT;PST;PFV;SG;FIN	_	_	_	_
+3	illos	ille	_	_	PRO;PL;ACC;MASC	_	_	_	_
+4	in	in	_	_	ADP	_	_	_	_
+5	locum	locus	_	_	N;ACC;MASC;SG	_	_	_	_
+6	qui	qui	_	_	PRO;NOM;SG;MASC	_	_	_	_
+7	vocatur	voco	_	_	V;PRS;IND;3;PASS;SG;FIN	_	_	_	_
+8	hebraice	hebraica	_	_	N;FEM;SG;AT+ABL	_	_	_	_
+9	Hermagedon	Hermagedon	_	_	N;NOM;SG;MASC	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0620.phi001.perseus-lat1.tb.xml@16
+# text = in me nostra Venus noctes exercet amaras, et nullo vacuus tempore defit Amor.
+1	in	in	_	_	ADP	_	_	_	_
+2	me	ego	_	_	PRO;SG;MASC;AT+ABL	_	_	_	_
+3	nostra	noster	_	_	PRO;FEM;NOM;SG	_	_	_	_
+4	Venus	Venus	_	_	N;FEM;NOM;SG	_	_	_	_
+5	noctes	nox	_	_	N;FEM;PL;ACC	_	_	_	_
+6	exercet	exerceo	_	_	V;PRS;IND;3;ACT;SG;FIN	_	_	_	_
+7	amaras	amarus	_	_	ACC;FEM;PL;ADJ	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	et	et	_	_	CONJ	_	_	_	_
+10	nullo	nullus	_	_	NEUT;SG;ADJ;AT+ABL	_	_	_	_
+11	vacuus	vacuus	_	_	NOM;MASC;ADJ;SG	_	_	_	_
+12	tempore	tempus	_	_	N;NEUT;SG;AT+ABL	_	_	_	_
+13	defit	deficio	_	_	V;PRS;IND;3;ACT;SG;FIN	_	_	_	_
+14	Amor	amor	_	_	N;NOM;SG;MASC	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0631.phi001.perseus-lat1.tb.xml@157
+# text = opes suas, inparatam rem publicam, magna praemia coniurationis docere.
+1	opes	ops	_	_	N;FEM;PL;ACC	_	_	_	_
+2	suas	suus	_	_	ACC;FEM;PL;ADJ	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	inparatam	imparatus	_	_	ACC;FEM;SG;ADJ	_	_	_	_
+5	rem	res	_	_	N;FEM;ACC;SG	_	_	_	_
+6	publicam	publicus	_	_	ACC;FEM;SG;ADJ	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	magna	magnus	_	_	ACC;NEUT;PL;ADJ	_	_	_	_
+9	praemia	praemium	_	_	N;NEUT;PL;ACC	_	_	_	_
+10	coniurationis	conjuratio	_	_	N;FEM;SG;GEN	_	_	_	_
+11	docere	doceo	_	_	NFIN;PRS;V;ACT	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0620.phi001.perseus-lat1.tb.xml@109
+# text = me laudent doctae solum placuisse puellae, Pontice, et iniustas saepe tulisse minas;
+1	me	ego	_	_	PRO;ACC;MASC;SG	_	_	_	_
+2	laudent	laudo	_	_	SBJV;V;PL;3;ACT;PRS;FIN	_	_	_	_
+3	doctae	doceo	_	_	FEM;DAT;V.PTCP;V;PASS;PST;PFV;SG	_	_	_	_
+4	solum	solus	_	_	ACC;MASC;ADJ;SG	_	_	_	_
+5	placuisse	placeo	_	_	V;NFIN;ACT;PST;PFV	_	_	_	_
+6	puellae	puella	_	_	N;FEM;DAT;SG	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	Pontice	Ponticus	_	_	N;VOC;MASC;SG	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	et	et	_	_	CONJ	_	_	_	_
+11	iniustas	injustus	_	_	ACC;FEM;PL;ADJ	_	_	_	_
+12	saepe	saepe	_	_	ADV	_	_	_	_
+13	tulisse	fero	_	_	V;NFIN;ACT;PST;PFV	_	_	_	_
+14	minas	minae	_	_	N;FEM;PL;ACC	_	_	_	_
+15	;	;	_	_	_	_	_	_	_
+
+# sent_id = tlg0031.tlg027.perseus-lat1.tb.xml@506
+# text = et vidi unum angelum stantem in sole et clamavit voce magna dicens omnibus avibus quae volabant per medium caeli:
+1	et	et	_	_	CONJ	_	_	_	_
+2	vidi	video	_	_	V;IND;ACT;PST;1;PFV;SG;FIN	_	_	_	_
+3	unum	unus	_	_	ACC;MASC;ADJ;SG	_	_	_	_
+4	angelum	angelus	_	_	N;ACC;MASC;SG	_	_	_	_
+5	stantem	sto	_	_	V.PTCP;V;PRS;ACC;MASC;ACT;SG	_	_	_	_
+6	in	in	_	_	ADP	_	_	_	_
+7	sole	sol	_	_	N;SG;MASC;AT+ABL	_	_	_	_
+8	et	et	_	_	CONJ	_	_	_	_
+9	clamavit	clamo	_	_	V;IND;3;ACT;PST;PFV;SG;FIN	_	_	_	_
+10	voce	vox	_	_	N;FEM;SG;AT+ABL	_	_	_	_
+11	magna	magnus	_	_	FEM;SG;ADJ;AT+ABL	_	_	_	_
+12	dicens	dico	_	_	V.PTCP;V;PRS;MASC;ACT;NOM;SG	_	_	_	_
+13	omnibus	omnis	_	_	FEM;PL;DAT;ADJ	_	_	_	_
+14	avibus	avis	_	_	N;FEM;PL;DAT	_	_	_	_
+15	quae	qui	_	_	PRO;FEM;NOM;PL	_	_	_	_
+16	volabant	volo	_	_	V;IND;PL;3;ACT;PST;FIN;IPFV	_	_	_	_
+17	per	per	_	_	ADP	_	_	_	_
+18	medium	medium	_	_	N;NEUT;ACC;SG	_	_	_	_
+19	caeli	caelum	_	_	N;NEUT;SG;GEN	_	_	_	_
+20	:	:	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@340
+# text = Et habet unde:
+1	Et	et	_	_	CONJ	_	_	_	_
+2	habet	habeo	_	_	V;FIN;ACT;3;PRS;IND;SG	_	_	_	_
+3	unde	unde	_	_	ADV	_	_	_	_
+4	:	:	_	_	_	_	_	_	_
+
+# sent_id = phi0620.phi001.perseus-lat1.tb.xml@280
+# text = nunc iacet alterius felici nixa lacerto, at mea nocturno verba cadunt Zephyro.
+1	nunc	nunc	_	_	ADV	_	_	_	_
+2	iacet	jaceo	_	_	V;PRS;IND;3;ACT;SG;FIN	_	_	_	_
+3	alterius	alter	_	_	SG;MASC;ADJ;GEN	_	_	_	_
+4	felici	felix	_	_	MASC;ADJ;SG;AT+ABL	_	_	_	_
+5	nixa	nitor	_	_	FEM;V.PTCP;V;ACT;PST;PFV;NOM;SG	_	_	_	_
+6	lacerto	lacertus	_	_	N;SG;MASC;AT+ABL	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	at	at	_	_	CONJ	_	_	_	_
+9	mea	meus	_	_	PRO;NEUT;NOM;PL	_	_	_	_
+10	nocturno	nocturnus	_	_	MASC;ADJ;SG;AT+ABL	_	_	_	_
+11	verba	verbum	_	_	N;NEUT;NOM;PL	_	_	_	_
+12	cadunt	cado	_	_	V;IND;PL;3;ACT;PRS;FIN	_	_	_	_
+13	Zephyro	Zephyrus	_	_	N;SG;MASC;AT+ABL	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@622
+# text = viginti ventres pasco et canem;
+1	viginti	viginti	_	_	NUM	_	_	_	_
+2	ventres	venter	_	_	N;ACC;MASC;PL	_	_	_	_
+3	pasco	pasco	_	_	V;FIN;ACT;PRS;IND;SG;1	_	_	_	_
+4	et	et	_	_	CONJ	_	_	_	_
+5	canem	canis	_	_	N;SG;ACC;MASC	_	_	_	_
+6	;	;	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@289
+# text = Ille onere dives celsa cervice eminens Clarum que collo iactans tintinnabulum, Comes quieto sequitur et placido gradu.
+1	Ille	ille	_	_	PRO;NOM;SG;MASC	_	_	_	_
+2	onere	onus	_	_	N;NEUT;SG;AT+ABL	_	_	_	_
+3	dives	dives	_	_	NOM;MASC;ADJ;SG	_	_	_	_
+4	celsa	celsus	_	_	FEM;SG;ADJ;AT+ABL	_	_	_	_
+5	cervice	cervix	_	_	N;FEM;SG;AT+ABL	_	_	_	_
+6	eminens	emineo	_	_	V.PTCP;V;PRS;MASC;NOM;SG	_	_	_	_
+7	Clarum	clarus	_	_	ACC;NEUT;SG;ADJ	_	_	_	_
+8	que	que	_	_	CONJ	_	_	_	_
+9	collo	collum	_	_	N;NEUT;SG;AT+ABL	_	_	_	_
+10	iactans	jacto	_	_	V.PTCP;V;PRS;MASC;NOM;SG	_	_	_	_
+11	tintinnabulum	tintinnabulum	_	_	N;NEUT;ACC;SG	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	Comes	comes	_	_	N;NOM;SG;MASC	_	_	_	_
+14	quieto	quiesco	_	_	V.PTCP;V;MASC;PASS;PST;PFV;SG;AT+ABL	_	_	_	_
+15	sequitur	sequor	_	_	V;PRS;IND;3;ACT;SG;FIN	_	_	_	_
+16	et	et	_	_	CONJ	_	_	_	_
+17	placido	placidus	_	_	MASC;ADJ;SG;AT+ABL	_	_	_	_
+18	gradu	gradus	_	_	N;SG;MASC;AT+ABL	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# sent_id = tlg0031.tlg027.perseus-lat1.tb.xml@537
+# text = et vidi caelum novum et terram novam;
+1	et	et	_	_	CONJ	_	_	_	_
+2	vidi	video	_	_	V;IND;ACT;PST;1;PFV;SG;FIN	_	_	_	_
+3	caelum	caelum	_	_	N;NEUT;ACC;SG	_	_	_	_
+4	novum	novus	_	_	ACC;NEUT;SG;ADJ	_	_	_	_
+5	et	et	_	_	CONJ	_	_	_	_
+6	terram	terra	_	_	N;FEM;ACC;SG	_	_	_	_
+7	novam	novus	_	_	ACC;FEM;SG;ADJ	_	_	_	_
+8	;	;	_	_	_	_	_	_	_
+
+# sent_id = phi0631.phi001.perseus-lat1.tb.xml@681
+# text = veterani pristinae virtutis memores comminus acriter instare, illi haud timidi resistunt:
+1	veterani	veteranus	_	_	NOM;MASC;ADJ;PL	_	_	_	_
+2	pristinae	pristinus	_	_	FEM;SG;ADJ;GEN	_	_	_	_
+3	virtutis	virtus	_	_	N;FEM;SG;GEN	_	_	_	_
+4	memores	memor	_	_	NOM;MASC;ADJ;PL	_	_	_	_
+5	comminus	comminus	_	_	ADV	_	_	_	_
+6	acriter	acriter	_	_	ADV	_	_	_	_
+7	instare	insto	_	_	NFIN;PRS;V;ACT	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	illi	ille	_	_	PRO;NOM;MASC;PL	_	_	_	_
+10	haud	haud	_	_	ADV	_	_	_	_
+11	timidi	timidus	_	_	NOM;MASC;ADJ;PL	_	_	_	_
+12	resistunt	resisto	_	_	V;IND;PL;3;ACT;PRS;FIN	_	_	_	_
+13	:	:	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@979
+# text = Quid faciamus homines miserrimi et novi generis labyrintho inclusi,
+1	Quid	quis	_	_	ACC;SG;PRO;NEUT	_	_	_	_
+2	faciamus	facio	_	_	V;FIN;ACT;SBJV;PRS;PL;1	_	_	_	_
+3	homines	homo	_	_	N;PL;MASC;NOM	_	_	_	_
+4	miserrimi	miser	_	_	ADJ;MASC;NOM;PL;RL	_	_	_	_
+5	et	et	_	_	CONJ	_	_	_	_
+6	novi	novus	_	_	ADJ;NEUT;GEN;SG	_	_	_	_
+7	generis	genus	_	_	N;GEN;SG;NEUT	_	_	_	_
+8	labyrintho	labyrinthus	_	_	N;SG;MASC;AT+ABL	_	_	_	_
+9	inclusi	includo	_	_	V;MASC;NOM;PL;PFV;PST;V.PTCP;PASS	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@761
+# text = Ut vero domum veni, iacebat miles meus in lecto tanquam bovis, et collum illius medicus curabat.
+1	Ut	ut	_	_	ADV	_	_	_	_
+2	vero	verus	_	_	ADV	_	_	_	_
+3	domum	domus	_	_	FEM;N;SG;ACC	_	_	_	_
+4	veni	venio	_	_	V;FIN;ACT;IND;PFV;SG;PST;1	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	iacebat	jaceo	_	_	V;IPFV;FIN;ACT;3;IND;SG;PST	_	_	_	_
+7	miles	miles	_	_	N;SG;MASC;NOM	_	_	_	_
+8	meus	meus	_	_	ADJ;SG;MASC;NOM	_	_	_	_
+9	in	in	_	_	ADP	_	_	_	_
+10	lecto	lectus	_	_	N;SG;MASC;AT+ABL	_	_	_	_
+11	tanquam	tamquam	_	_	ADV	_	_	_	_
+12	bovis	bovis	_	_	N;SG;MASC;NOM	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	et	et	_	_	CONJ	_	_	_	_
+15	collum	collum	_	_	N;SG;ACC;NEUT	_	_	_	_
+16	illius	ille	_	_	GEN;SG;MASC;PRO	_	_	_	_
+17	medicus	medicus	_	_	N;SG;MASC;NOM	_	_	_	_
+18	curabat	curo	_	_	V;IPFV;FIN;ACT;3;IND;SG;PST	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@350
+# text = Anus iacere vidit epotam amphoram, Adhuc Falerna faece ex testa nobili Odorem quae iucundum late spargeret.
+1	Anus	anus	_	_	N;FEM;NOM;SG	_	_	_	_
+2	iacere	jacio	_	_	NFIN;PRS;V;ACT	_	_	_	_
+3	vidit	video	_	_	V;IND;3;ACT;PST;PFV;SG;FIN	_	_	_	_
+4	epotam	epoto	_	_	FEM;V.PTCP;V;ACC;PASS;PST;PFV;SG	_	_	_	_
+5	amphoram	amphora	_	_	N;FEM;ACC;SG	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	Adhuc	adhuc	_	_	ADV	_	_	_	_
+8	Falerna	Falernus	_	_	FEM;SG;ADJ;AT+ABL	_	_	_	_
+9	faece	faex	_	_	N;FEM;SG;AT+ABL	_	_	_	_
+10	ex	ex	_	_	ADP	_	_	_	_
+11	testa	testa	_	_	N;FEM;SG;AT+ABL	_	_	_	_
+12	nobili	nobilis	_	_	FEM;SG;ADJ;AT+ABL	_	_	_	_
+13	Odorem	odor	_	_	N;ACC;MASC;SG	_	_	_	_
+14	quae	qui	_	_	PRO;FEM;NOM;SG	_	_	_	_
+15	iucundum	jucundus	_	_	ACC;MASC;ADJ;SG	_	_	_	_
+16	late	latus	_	_	ADV	_	_	_	_
+17	spargeret	spargo	_	_	SBJV;V;3;ACT;PST;SG;FIN;IPFV	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@275
+# text = Nunquam autem recte faciet, qui cito credit, utique homo negotians.
+1	Nunquam	numquam	_	_	ADV	_	_	_	_
+2	autem	autem	_	_	CONJ	_	_	_	_
+3	recte	rectus	_	_	ADV	_	_	_	_
+4	faciet	facio	_	_	V;FIN;ACT;3;IND;SG;FUT	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	qui	qui	_	_	SG;MASC;PRO;NOM	_	_	_	_
+7	cito	cito	_	_	ADV	_	_	_	_
+8	credit	credo	_	_	V;FIN;ACT;3;PRS;IND;SG	_	_	_	_
+9	,	,	_	_	CONJ	_	_	_	_
+10	utique	utique	_	_	ADV	_	_	_	_
+11	homo	homo	_	_	N;SG;MASC;NOM	_	_	_	_
+12	negotians	negotior	_	_	V;ACT;MASC;NOM;PRS;SG;V.PTCP	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@757
+# text = lupus enim villam intravit et omnia pecora perculit, tanquam lanius sanguinem illis misit.
+1	lupus	lupus	_	_	N;SG;MASC;NOM	_	_	_	_
+2	enim	enim	_	_	CONJ	_	_	_	_
+3	villam	villa	_	_	FEM;N;SG;ACC	_	_	_	_
+4	intravit	intro	_	_	V;FIN;ACT;3;IND;PFV;SG;PST	_	_	_	_
+5	et	et	_	_	CONJ	_	_	_	_
+6	omnia	omnis	_	_	ADJ;ACC;PL;NEUT	_	_	_	_
+7	pecora	pecus	_	_	PL;N;ACC;NEUT	_	_	_	_
+8	perculit	percello	_	_	V;FIN;ACT;3;IND;PFV;SG;PST	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	tanquam	tamquam	_	_	ADV	_	_	_	_
+11	lanius	lanius	_	_	N;SG;MASC;NOM	_	_	_	_
+12	sanguinem	sanguis	_	_	N;SG;ACC;MASC	_	_	_	_
+13	illis	ille	_	_	DAT;NEUT;PL;PRO	_	_	_	_
+14	misit	mitto	_	_	V;FIN;ACT;3;IND;PFV;SG;PST	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0959.phi006.perseus-lat1.tb.xml@66
+# text = que Ut manu late pendentia nubila pressit, fit fragor:
+1	que	que	_	_	CONJ	_	_	_	_
+2	Ut	ut	_	_	ADV	_	_	_	_
+3	manu	manus	_	_	FEM;N;SG;AT+ABL	_	_	_	_
+4	late	latus	_	_	ADV	_	_	_	_
+5	pendentia	pendeo	_	_	V;ACT;NEUT;PRS;PL;ACC;V.PTCP	_	_	_	_
+6	nubila	nubila	_	_	PL;N;ACC;NEUT	_	_	_	_
+7	pressit	premo	_	_	V;FIN;ACT;3;IND;PFV;SG;PST	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	fit	fio	_	_	V;FIN;ACT;3;PRS;IND;SG	_	_	_	_
+10	fragor	fragor	_	_	N;SG;MASC;NOM	_	_	_	_
+11	:	:	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@890
+# text = nihil sibi defraudit, et mehercules laudo illum;
+1	nihil	nihil	_	_	ACC;SG;PRO;NEUT	_	_	_	_
+2	sibi	sui	_	_	DAT;SG;MASC;PRO	_	_	_	_
+3	defraudit	defraudo	_	_	V;FIN;ACT;3;PRS;IND;SG	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	et	et	_	_	CONJ	_	_	_	_
+6	mehercules	Hercules	_	_	INTJ	_	_	_	_
+7	laudo	laudo	_	_	V;FIN;ACT;PRS;IND;SG;1	_	_	_	_
+8	illum	ille	_	_	ACC;SG;MASC;PRO	_	_	_	_
+9	;	;	_	_	_	_	_	_	_
+
+# sent_id = phi0631.phi001.perseus-lat1.tb.xml@664
+# text = nam multitudo hostium ne circumvenire queat, prohibent angustiae loci.
+1	nam	nam	_	_	CONJ	_	_	_	_
+2	multitudo	multitudo	_	_	N;FEM;NOM;SG	_	_	_	_
+3	hostium	hostis	_	_	N;PL;MASC;GEN	_	_	_	_
+4	ne	ne	_	_	CONJ	_	_	_	_
+5	circumvenire	circumvenio	_	_	NFIN;PRS;V;ACT	_	_	_	_
+6	queat	queo	_	_	SBJV;V;PRS;3;ACT;SG;FIN	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	prohibent	prohibeo	_	_	V;IND;PL;3;ACT;PRS;FIN	_	_	_	_
+9	angustiae	angustiae	_	_	N;FEM;NOM;PL	_	_	_	_
+10	loci	locus	_	_	N;SG;MASC;GEN	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@837
+# text = ego contra plus libram comedi, nam ipsum aprum sapiebat.
+1	ego	ego	_	_	SG;MASC;PRO;NOM	_	_	_	_
+2	contra	contra	_	_	ADV	_	_	_	_
+3	plus	multus	_	_	ADV	_	_	_	_
+4	libram	libra	_	_	FEM;N;SG;ACC	_	_	_	_
+5	comedi	comedo	_	_	V;FIN;ACT;IND;PFV;SG;PST;1	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	nam	nam	_	_	CONJ	_	_	_	_
+8	ipsum	ipse	_	_	ACC;SG;MASC;PRO	_	_	_	_
+9	aprum	aper	_	_	N;SG;ACC;MASC	_	_	_	_
+10	sapiebat	sapio	_	_	V;IPFV;FIN;ACT;3;IND;SG;PST	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = tlg0031.tlg027.perseus-lat1.tb.xml@549
+# text = et dixit mihi:
+1	et	et	_	_	CONJ	_	_	_	_
+2	dixit	dico	_	_	V;IND;3;ACT;PST;PFV;SG;FIN	_	_	_	_
+3	mihi	ego	_	_	PRO;DAT;MASC;SG	_	_	_	_
+4	:	:	_	_	_	_	_	_	_
+
+# sent_id = phi0474.phi013.perseus-lat1.tb.xml@171
+# text = nonne hunc in vincla duci, non ad mortem rapi, non summo supplicio mactari imperabis?
+1	nonne	nonne	_	_	ADV	_	_	_	_
+2	hunc	hic	_	_	PRO;ACC;MASC;SG	_	_	_	_
+3	in	in	_	_	ADP	_	_	_	_
+4	vincla	vinculum	_	_	N;NEUT;PL;ACC	_	_	_	_
+5	duci	duco	_	_	NFIN;PRS;V;PASS	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	non	non	_	_	ADV	_	_	_	_
+8	ad	ad	_	_	ADP	_	_	_	_
+9	mortem	mors	_	_	N;FEM;ACC;SG	_	_	_	_
+10	rapi	rapio	_	_	NFIN;PRS;V;PASS	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	non	non	_	_	ADV	_	_	_	_
+13	summo	superus	_	_	ADJ;NEUT;SG;RL;AT+ABL	_	_	_	_
+14	supplicio	supplicium	_	_	N;NEUT;SG;AT+ABL	_	_	_	_
+15	mactari	macto	_	_	NFIN;PRS;V;PASS	_	_	_	_
+16	imperabis	impero	_	_	V;IND;2;ACT;FUT;SG;FIN	_	_	_	_
+17	?	?	_	_	_	_	_	_	_
+
+# sent_id = phi0631.phi001.perseus-lat1.tb.xml@594
+# text = senati decretum fit, sicuti ille censuerat.
+1	senati	senatus	_	_	N;SG;MASC;GEN	_	_	_	_
+2	decretum	decretum	_	_	N;NEUT;NOM;SG	_	_	_	_
+3	fit	fio	_	_	V;PRS;IND;3;ACT;SG;FIN	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	sicuti	sicut	_	_	CONJ	_	_	_	_
+6	ille	ille	_	_	PRO;NOM;SG;MASC	_	_	_	_
+7	censuerat	censeo	_	_	SG;V;IND;3;ACT;PST+PRF;FIN	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0631.phi001.perseus-lat1.tb.xml@379
+# text = inter haec parata atque decreta Cethegus semper querebatur de ignavia sociorum:
+1	inter	inter	_	_	ADP	_	_	_	_
+2	haec	hic	_	_	PRO;NEUT;PL;ACC	_	_	_	_
+3	parata	paro	_	_	V.PTCP;V;ACC;PL;PASS;PST;PFV;NEUT	_	_	_	_
+4	atque	atque	_	_	CONJ	_	_	_	_
+5	decreta	decerno	_	_	V.PTCP;V;ACC;PL;PASS;PST;PFV;NEUT	_	_	_	_
+6	Cethegus	Cethegus	_	_	N;NOM;SG;MASC	_	_	_	_
+7	semper	semper	_	_	ADV	_	_	_	_
+8	querebatur	queror	_	_	V;IND;3;PASS;PST;SG;FIN;IPFV	_	_	_	_
+9	de	de	_	_	ADP	_	_	_	_
+10	ignavia	ignavia	_	_	N;FEM;SG;AT+ABL	_	_	_	_
+11	sociorum	socius	_	_	N;PL;MASC;GEN	_	_	_	_
+12	:	:	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@471
+# text = Nil spernat auris, nec tamen credat statim.
+1	Nil	nihil	_	_	N;NEUT;SG	_	_	_	_
+2	spernat	sperno	_	_	SBJV;V;PRS;3;ACT;SG;FIN	_	_	_	_
+3	auris	auris	_	_	N;FEM;NOM;SG	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	nec	neque	_	_	CONJ	_	_	_	_
+6	tamen	tamen	_	_	ADV	_	_	_	_
+7	credat	credo	_	_	SBJV;V;PRS;3;ACT;SG;FIN	_	_	_	_
+8	statim	statim	_	_	ADV	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@113
+# text = Haec ut dixit, ad symphoniam quattuor tripudiantes procurrerunt que superiorem partem repositorii abstulerunt.
+1	Haec	hic	_	_	ACC;PL;PRO;NEUT	_	_	_	_
+2	ut	ut	_	_	CONJ	_	_	_	_
+3	dixit	dico	_	_	V;FIN;ACT;3;IND;PFV;SG;PST	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	ad	ad	_	_	ADP	_	_	_	_
+6	symphoniam	symphonia	_	_	FEM;N;SG;ACC	_	_	_	_
+7	quattuor	quattuor	_	_	NUM	_	_	_	_
+8	tripudiantes	tripudio	_	_	V;ACT;MASC;NOM;PRS;PL;V.PTCP	_	_	_	_
+9	procurrerunt	procurro	_	_	V;FIN;ACT;3;IND;PFV;PL;PST	_	_	_	_
+10	que	que	_	_	CONJ	_	_	_	_
+11	superiorem	superus	_	_	ADJ;FEM;CMPR;SG;ACC	_	_	_	_
+12	partem	pars	_	_	FEM;N;SG;ACC	_	_	_	_
+13	repositorii	repositorium	_	_	N;GEN;SG;NEUT	_	_	_	_
+14	abstulerunt	aufero	_	_	V;FIN;ACT;3;IND;PFV;PL;PST	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0959.phi006.perseus-lat1.tb.xml@80
+# text = Exspatiata ruunt per apertos flumina campos cumque satis arbusta simul que pecudes que viros que tecta cumque suis rapiunt penetralia sacris.
+1	Exspatiata	exspatior	_	_	V;NEUT;NOM;PL;PFV;PST;V.PTCP;PASS	_	_	_	_
+2	ruunt	ruo	_	_	V;FIN;ACT;3;PRS;IND;PL	_	_	_	_
+3	per	per	_	_	ADP	_	_	_	_
+4	apertos	apertus	_	_	ADJ;ACC;PL;MASC	_	_	_	_
+5	flumina	flumen	_	_	NEUT;N;PL;NOM	_	_	_	_
+6	campos	campus	_	_	N;ACC;MASC;PL	_	_	_	_
+7	cumque	cum	_	_	CONJ	_	_	_	_
+8	satis	sata	_	_	NEUT;N;PL;AT+ABL	_	_	_	_
+9	arbusta	arbustum	_	_	PL;N;ACC;NEUT	_	_	_	_
+10	simul	simul	_	_	ADV	_	_	_	_
+11	que	que	_	_	CONJ	_	_	_	_
+12	pecudes	pecus	_	_	N;ACC;MASC;PL	_	_	_	_
+13	que	que	_	_	CONJ	_	_	_	_
+14	viros	vir	_	_	N;ACC;MASC;PL	_	_	_	_
+15	que	que	_	_	CONJ	_	_	_	_
+16	tecta	tectum	_	_	PL;N;ACC;NEUT	_	_	_	_
+17	cumque	cum	_	_	ADP	_	_	_	_
+18	suis	suus	_	_	ADJ;AT+ABL;PL;NEUT	_	_	_	_
+19	rapiunt	rapio	_	_	V;FIN;ACT;3;PRS;IND;PL	_	_	_	_
+20	penetralia	penetralis	_	_	ADJ;ACC;PL;NEUT	_	_	_	_
+21	sacris	sacrum	_	_	NEUT;N;PL;AT+ABL	_	_	_	_
+22	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0620.phi001.perseus-lat1.tb.xml@77
+# text = molliter irasci non solet illa tibi.
+1	molliter	mollis	_	_	ADV	_	_	_	_
+2	irasci	irascor	_	_	NFIN;PRS;V;ACT	_	_	_	_
+3	non	non	_	_	ADV	_	_	_	_
+4	solet	soleo	_	_	V;PRS;IND;3;ACT;SG;FIN	_	_	_	_
+5	illa	ille	_	_	PRO;FEM;NOM;SG	_	_	_	_
+6	tibi	tu	_	_	PRO;DAT;MASC;SG	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0620.phi001.perseus-lat1.tb.xml@303
+# text = hic licet occultos proferre impune dolores si modo sola queant saxa tenere fidem.
+1	hic	hic	_	_	ADV	_	_	_	_
+2	licet	licet	_	_	V;PRS;IND;3;ACT;SG;FIN	_	_	_	_
+3	occultos	occulo	_	_	V.PTCP;V;ACC;PL;MASC;PASS;PST;PFV	_	_	_	_
+4	proferre	profero	_	_	NFIN;PRS;V;ACT	_	_	_	_
+5	impune	impunis	_	_	ADV	_	_	_	_
+6	dolores	dolor	_	_	N;PL;ACC;MASC	_	_	_	_
+7	si	si	_	_	CONJ	_	_	_	_
+8	modo	modo	_	_	ADV	_	_	_	_
+9	sola	solus	_	_	NEUT;NOM;ADJ;PL	_	_	_	_
+10	queant	queo	_	_	SBJV;V;PL;3;ACT;PRS;FIN	_	_	_	_
+11	saxa	saxum	_	_	N;NEUT;NOM;PL	_	_	_	_
+12	tenere	teneo	_	_	NFIN;PRS;V;ACT	_	_	_	_
+13	fidem	fides	_	_	N;FEM;ACC;SG	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0690.phi003.perseus-lat1.tb.xml@60
+# text = Tu ne cede malis, sed contra audentior ito, qua tua te Fortuna sinet.
+1	Tu	tu	_	_	SG;MASC;PRO;NOM	_	_	_	_
+2	ne	ne	_	_	ADV	_	_	_	_
+3	cede	cedo	_	_	V;FIN;2;ACT;PRS;SG;IMP	_	_	_	_
+4	malis	malus	_	_	ADJ;DAT;NEUT;PL	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	sed	sed	_	_	CONJ	_	_	_	_
+7	contra	contra	_	_	ADV	_	_	_	_
+8	audentior	audeo	_	_	V;ACT;CMPR;MASC;NOM;PRS;SG;V.PTCP	_	_	_	_
+9	ito	eo	_	_	V;FIN;2;ACT;SG;IMP;FUT	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	qua	qua	_	_	ADV	_	_	_	_
+12	tua	tuus	_	_	FEM;SG;PRO;NOM	_	_	_	_
+13	te	tu	_	_	ACC;SG;MASC;PRO	_	_	_	_
+14	Fortuna	fortuna	_	_	FEM;N;SG;NOM	_	_	_	_
+15	sinet	sino	_	_	V;FIN;ACT;3;IND;SG;FUT	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0631.phi001.perseus-lat1.tb.xml@380
+# text = illos dubitando et dies prolatando magnas opportunitates corrumpere;
+1	illos	ille	_	_	PRO;PL;ACC;MASC	_	_	_	_
+2	dubitando	dubito	_	_	V;PRS;ACT;NEUT;SG;AT+ABL	_	_	_	_
+3	et	et	_	_	CONJ	_	_	_	_
+4	dies	dies	_	_	N;PL;ACC;MASC	_	_	_	_
+5	prolatando	prolato	_	_	V;PRS;ACT;NEUT;SG;AT+ABL	_	_	_	_
+6	magnas	magnus	_	_	ACC;FEM;PL;ADJ	_	_	_	_
+7	opportunitates	opportunitas	_	_	N;FEM;PL;ACC	_	_	_	_
+8	corrumpere	corrumpo	_	_	NFIN;PRS;V;ACT	_	_	_	_
+9	;	;	_	_	_	_	_	_	_
+
+# sent_id = phi0620.phi001.perseus-lat1.tb.xml@17
+# text = Hoc, moneo, vitate malum:
+1	Hoc	hic	_	_	PRO;NEUT;ACC;SG	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	moneo	moneo	_	_	V;PRS;IND;ACT;1;SG;FIN	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	vitate	vito	_	_	IMP;V;PL;2;ACT;PRS;FIN	_	_	_	_
+6	malum	malum	_	_	N;NEUT;ACC;SG	_	_	_	_
+7	:	:	_	_	_	_	_	_	_
+
+# sent_id = phi0474.phi013.perseus-lat1.tb.xml@201
+# text = abiit, excessit, evasit, erupit.
+1	abiit	abeo	_	_	V;IND;3;ACT;PST;PFV;SG;FIN	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	excessit	excedo	_	_	V;IND;3;ACT;PST;PFV;SG;FIN	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	evasit	evado	_	_	V;IND;3;ACT;PST;PFV;SG;FIN	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	erupit	erumpo	_	_	V;IND;3;ACT;PST;PFV;SG;FIN	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = tlg0031.tlg027.perseus-lat1.tb.xml@123
+# text = et venit et accepit de dextera sedentis de throno.
+1	et	et	_	_	CONJ	_	_	_	_
+2	venit	venio	_	_	V;IND;3;ACT;PST;PFV;SG;FIN	_	_	_	_
+3	et	et	_	_	CONJ	_	_	_	_
+4	accepit	accipio	_	_	V;IND;3;ACT;PST;PFV;SG;FIN	_	_	_	_
+5	de	de	_	_	ADP	_	_	_	_
+6	dextera	dextera	_	_	N;FEM;SG;AT+ABL	_	_	_	_
+7	sedentis	sedeo	_	_	V.PTCP;V;PRS;MASC;ACT;GEN;SG	_	_	_	_
+8	de	de	_	_	ADP	_	_	_	_
+9	throno	thronus	_	_	N;SG;MASC;AT+ABL	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@492
+# text = Hoc facto putabat se solium Iovis tenere, utique postquam Caesar illi dixit:
+1	Hoc	hic	_	_	AT+ABL;SG;PRO;NEUT	_	_	_	_
+2	facto	facio	_	_	V;AT+ABL;NEUT;SG;PFV;PST;V.PTCP;PASS	_	_	_	_
+3	putabat	puto	_	_	V;IPFV;FIN;ACT;3;IND;SG;PST	_	_	_	_
+4	se	sui	_	_	ACC;SG;MASC;PRO	_	_	_	_
+5	solium	solium	_	_	N;SG;ACC;NEUT	_	_	_	_
+6	Iovis	Iuppiter	_	_	N;GEN;SG;MASC	_	_	_	_
+7	tenere	teneo	_	_	V;PRS;ACT;NFIN	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	utique	utique	_	_	ADV	_	_	_	_
+10	postquam	postquam	_	_	ADV	_	_	_	_
+11	Caesar	Caesar	_	_	N;SG;MASC;NOM	_	_	_	_
+12	illi	ille	_	_	DAT;SG;MASC;PRO	_	_	_	_
+13	dixit	dico	_	_	V;FIN;ACT;3;IND;PFV;SG;PST	_	_	_	_
+14	:	:	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@208
+# text = Inde cum suum cuique iussisset referri Trimalchio, adiecit:
+1	Inde	inde	_	_	ADV	_	_	_	_
+2	cum	cum	_	_	CONJ	_	_	_	_
+3	suum	suus	_	_	ADJ;ACC;SG;NEUT	_	_	_	_
+4	cuique	quisque	_	_	DAT;SG;MASC;PRO	_	_	_	_
+5	iussisset	jubeo	_	_	V;FIN;ACT;3;SBJV;PST+PRF;SG	_	_	_	_
+6	referri	refero	_	_	V;PRS;PASS;NFIN	_	_	_	_
+7	Trimalchio	Trimalchio	_	_	N;SG;MASC;NOM	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	adiecit	adjicio	_	_	V;FIN;ACT;3;IND;PFV;SG;PST	_	_	_	_
+10	:	:	_	_	_	_	_	_	_
+
+# sent_id = phi0474.phi013.perseus-lat1.tb.xml@203
+# text = atque hunc quidem unum huius belli domestici ducem sine controversia vicimus.
+1	atque	atque	_	_	CONJ	_	_	_	_
+2	hunc	hic	_	_	PRO;ACC;MASC;SG	_	_	_	_
+3	quidem	quidem	_	_	ADV	_	_	_	_
+4	unum	unus	_	_	ACC;NUM;MASC;SG	_	_	_	_
+5	huius	hic	_	_	PRO;NEUT;SG;GEN	_	_	_	_
+6	belli	bellum	_	_	N;NEUT;SG;GEN	_	_	_	_
+7	domestici	domesticus	_	_	NEUT;SG;ADJ;GEN	_	_	_	_
+8	ducem	dux	_	_	N;ACC;MASC;SG	_	_	_	_
+9	sine	sine	_	_	ADP	_	_	_	_
+10	controversia	controversia	_	_	N;FEM;SG;AT+ABL	_	_	_	_
+11	vicimus	vinco	_	_	V;IND;PL;ACT;PST;1;PFV;FIN	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi1348.abo012.perseus-lat1.tb.xml@45
+# text = Bella ciuilia quinque gessit:
+1	Bella	bellum	_	_	N;NEUT;PL;ACC	_	_	_	_
+2	ciuilia	civilis	_	_	ACC;NEUT;PL;ADJ	_	_	_	_
+3	quinque	quinque	_	_	NUM	_	_	_	_
+4	gessit	gero	_	_	V;IND;3;ACT;PST;PFV;SG;FIN	_	_	_	_
+5	:	:	_	_	_	_	_	_	_
+
+# sent_id = phi0959.phi006.perseus-lat1.tb.xml@258
+# text = Littera pro verbis, quam pes in pulvere duxit, corporis indicium mutati triste peregit.
+1	Littera	littera	_	_	FEM;N;SG;AT+ABL	_	_	_	_
+2	pro	pro	_	_	ADP	_	_	_	_
+3	verbis	verbum	_	_	NEUT;N;PL;AT+ABL	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	quam	qui	_	_	FEM;ACC;SG;PRO	_	_	_	_
+6	pes	pes	_	_	N;SG;MASC;NOM	_	_	_	_
+7	in	in	_	_	ADP	_	_	_	_
+8	pulvere	pulvis	_	_	N;SG;MASC;AT+ABL	_	_	_	_
+9	duxit	duco	_	_	V;FIN;ACT;3;IND;PFV;SG;PST	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	corporis	corpus	_	_	N;GEN;SG;NEUT	_	_	_	_
+12	indicium	indicium	_	_	N;SG;ACC;NEUT	_	_	_	_
+13	mutati	muto	_	_	V;NEUT;SG;PFV;PST;V.PTCP;GEN;PASS	_	_	_	_
+14	triste	triste	_	_	N;SG;ACC;NEUT	_	_	_	_
+15	peregit	perago	_	_	V;FIN;ACT;3;IND;PFV;SG;PST	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@700
+# text = Agamemnon illam rapuit et Dianae cervam subiecit.
+1	Agamemnon	Agamemnon	_	_	N;SG;MASC;NOM	_	_	_	_
+2	illam	ille	_	_	FEM;ACC;SG;PRO	_	_	_	_
+3	rapuit	rapio	_	_	V;FIN;ACT;3;IND;PFV;SG;PST	_	_	_	_
+4	et	et	_	_	CONJ	_	_	_	_
+5	Dianae	Diana	_	_	FEM;DAT;N;SG	_	_	_	_
+6	cervam	cerva	_	_	FEM;N;SG;ACC	_	_	_	_
+7	subiecit	subicio	_	_	V;FIN;ACT;3;IND;PFV;SG;PST	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0631.phi001.perseus-lat1.tb.xml@444
+# text = haud facile animus verum providet, ubi illa officiunt, que ne quisquam omnium lubidini simul et usui paruit.
+1	haud	haud	_	_	ADV	_	_	_	_
+2	facile	facilis	_	_	ADV	_	_	_	_
+3	animus	animus	_	_	N;NOM;SG;MASC	_	_	_	_
+4	verum	verum	_	_	N;NEUT;ACC;SG	_	_	_	_
+5	providet	provideo	_	_	V;PRS;IND;3;ACT;SG;FIN	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	ubi	ubi	_	_	CONJ	_	_	_	_
+8	illa	ille	_	_	PRO;NEUT;NOM;PL	_	_	_	_
+9	officiunt	officio	_	_	V;IND;PL;3;ACT;PRS;FIN	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	que	que	_	_	CONJ	_	_	_	_
+12	ne	ne	_	_	ADV	_	_	_	_
+13	quisquam	quisquam	_	_	PRO;NOM;SG;MASC	_	_	_	_
+14	omnium	omnis	_	_	PL;MASC;ADJ;GEN	_	_	_	_
+15	lubidini	libido	_	_	N;FEM;DAT;SG	_	_	_	_
+16	simul	simul	_	_	ADV	_	_	_	_
+17	et	et	_	_	CONJ	_	_	_	_
+18	usui	usus	_	_	N;DAT;MASC;SG	_	_	_	_
+19	paruit	pareo	_	_	V;IND;3;ACT;PST;PFV;SG;FIN	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@563
+# text = Supersunt mihi quae scribam, sed parco sciens, Primum ne videar esse tibi molestior, Distringit quem multarum rerum varietas;
+1	Supersunt	supersum	_	_	V;IND;PL;3;ACT;PRS;FIN	_	_	_	_
+2	mihi	ego	_	_	PRO;DAT;MASC;SG	_	_	_	_
+3	quae	qui	_	_	PRO;NEUT;PL;ACC	_	_	_	_
+4	scribam	scribo	_	_	SBJV;V;PRS;ACT;1;SG;FIN	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	sed	sed	_	_	CONJ	_	_	_	_
+7	parco	parco	_	_	V;PRS;IND;ACT;1;SG;FIN	_	_	_	_
+8	sciens	scio	_	_	V.PTCP;V;PRS;MASC;NOM;SG	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	Primum	primus	_	_	ADV	_	_	_	_
+11	ne	ne	_	_	CONJ	_	_	_	_
+12	videar	video	_	_	SBJV;V;PRS;PASS;1;SG;FIN	_	_	_	_
+13	esse	sum	_	_	NFIN;PRS;V;ACT	_	_	_	_
+14	tibi	tu	_	_	PRO;DAT;MASC;SG	_	_	_	_
+15	molestior	molestus	_	_	MASC;ADJ;CMPR;NOM;SG	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	Distringit	distringo	_	_	V;PRS;IND;3;ACT;SG;FIN	_	_	_	_
+18	quem	qui	_	_	PRO;ACC;MASC;SG	_	_	_	_
+19	multarum	multus	_	_	FEM;PL;ADJ;GEN	_	_	_	_
+20	rerum	res	_	_	N;FEM;PL;GEN	_	_	_	_
+21	varietas	varietas	_	_	N;FEM;NOM;SG	_	_	_	_
+22	;	;	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@290
+# text = Subito latrones ex insidiis advolant Inter que caedem ferro mulum sauciant, Diripiunt nummos, neglegunt vile hordeum.
+1	Subito	subeo	_	_	ADV	_	_	_	_
+2	latrones	latro	_	_	N;NOM;MASC;PL	_	_	_	_
+3	ex	ex	_	_	ADP	_	_	_	_
+4	insidiis	insidiae	_	_	N;FEM;PL;AT+ABL	_	_	_	_
+5	advolant	advolo	_	_	V;IND;PL;3;ACT;PRS;FIN	_	_	_	_
+6	Inter	inter	_	_	ADP	_	_	_	_
+7	que	que	_	_	CONJ	_	_	_	_
+8	caedem	caedes	_	_	N;FEM;ACC;SG	_	_	_	_
+9	ferro	ferrum	_	_	N;NEUT;SG;AT+ABL	_	_	_	_
+10	mulum	mulus	_	_	N;ACC;MASC;SG	_	_	_	_
+11	sauciant	saucio	_	_	V;IND;PL;3;ACT;PRS;FIN	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	Diripiunt	diripio	_	_	V;IND;PL;3;ACT;PRS;FIN	_	_	_	_
+14	nummos	nummus	_	_	N;PL;ACC;MASC	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	neglegunt	neglego	_	_	V;IND;PL;3;ACT;PRS;FIN	_	_	_	_
+17	vile	vilis	_	_	ACC;NEUT;SG;ADJ	_	_	_	_
+18	hordeum	hordeum	_	_	N;NEUT;ACC;SG	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi1348.abo012.perseus-lat1.tb.xml@298
+# text = Prouincias ualidiores et quas annuis magistratuum imperiis regi nec facile nec tutum erat, ipse suscepit, ceteras proconsulibus sortito permisit;
+1	Prouincias	provincia	_	_	N;FEM;PL;ACC	_	_	_	_
+2	ualidiores	validus	_	_	FEM;ACC;PL;ADJ;CMPR	_	_	_	_
+3	et	et	_	_	CONJ	_	_	_	_
+4	quas	qui	_	_	PRO;FEM;PL;ACC	_	_	_	_
+5	annuis	annuus	_	_	NEUT;PL;ADJ;AT+ABL	_	_	_	_
+6	magistratuum	magistratus	_	_	N;PL;MASC;GEN	_	_	_	_
+7	imperiis	imperium	_	_	N;NEUT;PL;AT+ABL	_	_	_	_
+8	regi	rego	_	_	NFIN;PRS;V;PASS	_	_	_	_
+9	nec	neque	_	_	CONJ	_	_	_	_
+10	facile	facilis	_	_	NEUT;NOM;SG;ADJ	_	_	_	_
+11	nec	neque	_	_	CONJ	_	_	_	_
+12	tutum	tueor	_	_	V.PTCP;V;ACT;PST;PFV;NEUT;NOM;SG	_	_	_	_
+13	erat	sum	_	_	V;IND;3;ACT;PST;SG;FIN;IPFV	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	ipse	ipse	_	_	PRO;NOM;SG;MASC	_	_	_	_
+16	suscepit	suscipio	_	_	V;IND;3;ACT;PST;PFV;SG;FIN	_	_	_	_
+17	,	,	_	_	_	_	_	_	_
+18	ceteras	ceterus	_	_	ACC;FEM;PL;ADJ	_	_	_	_
+19	proconsulibus	proconsul	_	_	N;PL;DAT;MASC	_	_	_	_
+20	sortito	sortior	_	_	ADV	_	_	_	_
+21	permisit	permitto	_	_	V;IND;3;ACT;PST;PFV;SG;FIN	_	_	_	_
+22	;	;	_	_	_	_	_	_	_
+
+# sent_id = phi0959.phi006.perseus-lat1.tb.xml@129
+# text = Sed quid temptare nocebit?
+1	Sed	sed	_	_	CONJ	_	_	_	_
+2	quid	quis	_	_	ACC;SG;PRO;NEUT	_	_	_	_
+3	temptare	tento	_	_	V;PRS;ACT;NFIN	_	_	_	_
+4	nocebit	noceo	_	_	V;FIN;ACT;3;IND;SG;FUT	_	_	_	_
+5	?	?	_	_	_	_	_	_	_
+
+# sent_id = phi0620.phi001.perseus-lat1.tb.xml@354
+# text = tum sonitum rapto corpore fecit Hylas.
+1	tum	tum	_	_	ADV	_	_	_	_
+2	sonitum	sonitus	_	_	N;ACC;MASC;SG	_	_	_	_
+3	rapto	rapio	_	_	V.PTCP;V;PASS;PST;PFV;NEUT;SG;AT+ABL	_	_	_	_
+4	corpore	corpus	_	_	N;NEUT;SG;AT+ABL	_	_	_	_
+5	fecit	facio	_	_	V;IND;3;ACT;PST;PFV;SG;FIN	_	_	_	_
+6	Hylas	Hylas	_	_	N;NOM;SG;MASC	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = tlg0031.tlg027.perseus-lat1.tb.xml@277
+# text = vae secundum abiit;
+1	vae	vae	_	_	INTJ	_	_	_	_
+2	secundum	secundus	_	_	NEUT;NOM;SG;ADJ	_	_	_	_
+3	abiit	abeo	_	_	V;IND;3;ACT;PST;PFV;SG;FIN	_	_	_	_
+4	;	;	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@582
+# text = Iam etiam philosophos de negotio deiciebat, cum pittacia in scypho circumferri coeperunt, que puer super hoc positus officium apophoreta recitavit:
+1	Iam	jam	_	_	ADV	_	_	_	_
+2	etiam	etiam	_	_	ADV	_	_	_	_
+3	philosophos	philosophus	_	_	N;ACC;MASC;PL	_	_	_	_
+4	de	de	_	_	ADP	_	_	_	_
+5	negotio	negotium	_	_	NEUT;N;SG;AT+ABL	_	_	_	_
+6	deiciebat	deicio	_	_	V;IPFV;FIN;ACT;3;IND;SG;PST	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	cum	cum	_	_	CONJ	_	_	_	_
+9	pittacia	pittacium	_	_	PL;N;ACC;NEUT	_	_	_	_
+10	in	in	_	_	ADP	_	_	_	_
+11	scypho	scyphus	_	_	N;SG;MASC;AT+ABL	_	_	_	_
+12	circumferri	circumfero	_	_	V;PRS;PASS;NFIN	_	_	_	_
+13	coeperunt	coepio	_	_	V;FIN;ACT;3;IND;PFV;PL;PST	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	que	que	_	_	CONJ	_	_	_	_
+16	puer	puer	_	_	N;SG;MASC;NOM	_	_	_	_
+17	super	super	_	_	ADP	_	_	_	_
+18	hoc	hic	_	_	ACC;SG;PRO;NEUT	_	_	_	_
+19	positus	pono	_	_	V;MASC;NOM;SG;PFV;PST;V.PTCP;PASS	_	_	_	_
+20	officium	officium	_	_	N;SG;ACC;NEUT	_	_	_	_
+21	apophoreta	apophoreta	_	_	PL;N;ACC;NEUT	_	_	_	_
+22	recitavit	recito	_	_	V;FIN;ACT;3;IND;PFV;SG;PST	_	_	_	_
+23	:	:	_	_	_	_	_	_	_
+
+# sent_id = phi0690.phi003.perseus-lat1.tb.xml@22
+# text = nunc grege de intacto septem mactare iuvencos praestiterit, totidem lectas de more bidentes. '
+1	nunc	nunc	_	_	ADV	_	_	_	_
+2	grege	grex	_	_	N;SG;MASC;AT+ABL	_	_	_	_
+3	de	de	_	_	ADP	_	_	_	_
+4	intacto	intactus	_	_	MASC;ADJ;SG;AT+ABL	_	_	_	_
+5	septem	septem	_	_	NUM	_	_	_	_
+6	mactare	macto	_	_	NFIN;PRS;V;ACT	_	_	_	_
+7	iuvencos	juvencus	_	_	ACC;PL;MASC;ADJ	_	_	_	_
+8	praestiterit	praesto	_	_	SBJV;V;3;ACT;PST;PFV;SG;FIN	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	totidem	totidem	_	_	NUM	_	_	_	_
+11	lectas	lego	_	_	FEM;V.PTCP;V;ACC;PL;PASS;PST;PFV	_	_	_	_
+12	de	de	_	_	ADP	_	_	_	_
+13	more	mos	_	_	N;SG;MASC;AT+ABL	_	_	_	_
+14	bidentes	bidens	_	_	ACC;FEM;PL;ADJ	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+16	'	'	_	_	_	_	_	_	_
+
+# sent_id = phi0620.phi001.perseus-lat1.tb.xml@310
+# text = sic mihi te referas, levis, ut non altera nostro limine formosos intulit ulla pedes.
+1	sic	sic	_	_	ADV	_	_	_	_
+2	mihi	ego	_	_	PRO;DAT;MASC;SG	_	_	_	_
+3	te	tu	_	_	PRO;FEM;ACC;SG	_	_	_	_
+4	referas	refero	_	_	SBJV;V;PRS;2;ACT;SG;FIN	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	levis	levis	_	_	FEM;VOC;ADJ;SG	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	ut	ut	_	_	CONJ	_	_	_	_
+9	non	non	_	_	ADV	_	_	_	_
+10	altera	alter	_	_	FEM;NOM;SG;ADJ	_	_	_	_
+11	nostro	noster	_	_	PRO;NEUT;SG;AT+ABL	_	_	_	_
+12	limine	limen	_	_	N;NEUT;SG;AT+ABL	_	_	_	_
+13	formosos	formosus	_	_	ACC;PL;MASC;ADJ	_	_	_	_
+14	intulit	infero	_	_	V;IND;3;ACT;PST;PFV;SG;FIN	_	_	_	_
+15	ulla	ullus	_	_	FEM;NOM;SG;ADJ	_	_	_	_
+16	pedes	pes	_	_	N;PL;ACC;MASC	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@1073
+# text = Cito fit, quod di volunt.
+1	Cito	cito	_	_	ADV	_	_	_	_
+2	fit	fio	_	_	V;FIN;ACT;3;PRS;IND;SG	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	quod	qui	_	_	ACC;SG;PRO;NEUT	_	_	_	_
+5	di	deus,	_	_	N;PL;MASC;NOM	_	_	_	_
+6	volunt	volo	_	_	V;FIN;ACT;3;PRS;IND;PL	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0474.phi013.perseus-lat1.tb.xml@254
+# text = patrimonia sua profuderunt, fortunas suas obligaverunt;
+1	patrimonia	patrimonium	_	_	N;NEUT;PL;ACC	_	_	_	_
+2	sua	suus	_	_	PRO;NEUT;PL;ACC	_	_	_	_
+3	profuderunt	profundo	_	_	V;IND;PL;3;ACT;PST;PFV;FIN	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	fortunas	fortuna	_	_	N;FEM;PL;ACC	_	_	_	_
+6	suas	suus	_	_	PRO;FEM;PL;ACC	_	_	_	_
+7	obligaverunt	obligo	_	_	V;IND;PL;3;ACT;PST;PFV;FIN	_	_	_	_
+8	;	;	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@1112
+# text = alioquin te vivum comburam.
+1	alioquin	alioqui	_	_	ADV	_	_	_	_
+2	te	tu	_	_	ACC;SG;MASC;PRO	_	_	_	_
+3	vivum	vivus	_	_	ADJ;ACC;SG;MASC	_	_	_	_
+4	comburam	comburo	_	_	V;FIN;ACT;IND;SG;1;FUT	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0690.phi003.perseus-lat1.tb.xml@86
+# text = Hoc sibi pulchra suum ferri Proserpina munus instituit.
+1	Hoc	hic	_	_	ACC;SG;PRO;NEUT	_	_	_	_
+2	sibi	sui	_	_	FEM;DAT;SG;PRO	_	_	_	_
+3	pulchra	pulcher	_	_	ADJ;FEM;SG;NOM	_	_	_	_
+4	suum	suus	_	_	ACC;SG;PRO;NEUT	_	_	_	_
+5	ferri	fero	_	_	V;PRS;PASS;NFIN	_	_	_	_
+6	Proserpina	Proserpina	_	_	FEM;N;SG;NOM	_	_	_	_
+7	munus	munus	_	_	N;SG;ACC;NEUT	_	_	_	_
+8	instituit	instituo	_	_	V;FIN;ACT;3;IND;PFV;SG;PST	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@206
+# text = Ceterum ad scindendum aprum non ille Carpus accessit, qui altilia laceraverat, sed barbatus ingens, fasciis cruralibus alligatus et alicula subornatus polymita, que stricto venatorio cultro latus apri vehementer percussit, ex cuius plaga turdi evolaverunt.
+1	Ceterum	ceterum	_	_	ADV	_	_	_	_
+2	ad	ad	_	_	ADP	_	_	_	_
+3	scindendum	scindo	_	_	V;V.CVB;MASC;PRS;SG;ACC;PASS	_	_	_	_
+4	aprum	aper	_	_	N;SG;ACC;MASC	_	_	_	_
+5	non	non	_	_	ADV	_	_	_	_
+6	ille	ille	_	_	SG;MASC;PRO;NOM	_	_	_	_
+7	Carpus	Carpus	_	_	N;SG;MASC;NOM	_	_	_	_
+8	accessit	accedo	_	_	V;FIN;ACT;3;IND;PFV;SG;PST	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	qui	qui	_	_	SG;MASC;PRO;NOM	_	_	_	_
+11	altilia	altilis	_	_	ADJ;ACC;PL;NEUT	_	_	_	_
+12	laceraverat	lacero	_	_	V;FIN;ACT;3;PST+PRF;IND;SG	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	sed	sed	_	_	CONJ	_	_	_	_
+15	barbatus	barbatus	_	_	ADJ;SG;MASC;NOM	_	_	_	_
+16	ingens	ingens	_	_	ADJ;SG;MASC;NOM	_	_	_	_
+17	,	,	_	_	_	_	_	_	_
+18	fasciis	fascia	_	_	FEM;N;PL;AT+ABL	_	_	_	_
+19	cruralibus	cruralis	_	_	ADJ;FEM;AT+ABL;PL	_	_	_	_
+20	alligatus	alligo	_	_	V;MASC;NOM;SG;PFV;PST;V.PTCP;PASS	_	_	_	_
+21	et	et	_	_	CONJ	_	_	_	_
+22	alicula	alicula	_	_	FEM;N;SG;AT+ABL	_	_	_	_
+23	subornatus	suborno	_	_	V;MASC;NOM;SG;PFV;PST;V.PTCP;PASS	_	_	_	_
+24	polymita	polymitus	_	_	ADJ;FEM;AT+ABL;SG	_	_	_	_
+25	,	,	_	_	_	_	_	_	_
+26	que	que	_	_	CONJ	_	_	_	_
+27	stricto	stringo	_	_	V;AT+ABL;MASC;SG;PFV;PST;V.PTCP;PASS	_	_	_	_
+28	venatorio	venatorius	_	_	ADJ;AT+ABL;SG;MASC	_	_	_	_
+29	cultro	culter	_	_	N;SG;MASC;AT+ABL	_	_	_	_
+30	latus	latus	_	_	N;SG;ACC;NEUT	_	_	_	_
+31	apri	aper	_	_	N;GEN;SG;MASC	_	_	_	_
+32	vehementer	vehementer	_	_	ADV	_	_	_	_
+33	percussit	percutio	_	_	V;FIN;ACT;3;IND;PFV;SG;PST	_	_	_	_
+34	,	,	_	_	_	_	_	_	_
+35	ex	ex	_	_	ADP	_	_	_	_
+36	cuius	qui	_	_	GEN;SG;MASC;PRO	_	_	_	_
+37	plaga	plaga	_	_	FEM;N;SG;AT+ABL	_	_	_	_
+38	turdi	turdus	_	_	N;PL;MASC;NOM	_	_	_	_
+39	evolaverunt	evolo	_	_	V;FIN;ACT;3;IND;PFV;PL;PST	_	_	_	_
+40	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@46
+# text = Vacca et capella et patiens ovis iniuriae Socii fuere cum leone in saltibus.
+1	Vacca	vacca	_	_	FEM;N;SG;NOM	_	_	_	_
+2	et	et	_	_	CONJ	_	_	_	_
+3	capella	capella	_	_	FEM;N;SG;NOM	_	_	_	_
+4	et	et	_	_	CONJ	_	_	_	_
+5	patiens	patior	_	_	V;MASC;NOM;PRS;SG;V.PTCP	_	_	_	_
+6	ovis	ovis	_	_	N;SG;MASC;NOM	_	_	_	_
+7	iniuriae	injuria	_	_	FEM;N;GEN;SG	_	_	_	_
+8	Socii	socius	_	_	ADJ;PL;MASC;NOM	_	_	_	_
+9	fuere	sum	_	_	V;FIN;ACT;3;IND;PFV;PL;PST	_	_	_	_
+10	cum	cum	_	_	ADP	_	_	_	_
+11	leone	leo	_	_	N;SG;MASC;AT+ABL	_	_	_	_
+12	in	in	_	_	ADP	_	_	_	_
+13	saltibus	saltus	_	_	N;PL;MASC;AT+ABL	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0690.phi003.perseus-lat1.tb.xml@33
+# text = Neque enim ante dehiscent attonitae magna ora domus. '
+1	Neque	neque	_	_	CONJ	_	_	_	_
+2	enim	enim	_	_	CONJ	_	_	_	_
+3	ante	ante	_	_	ADV	_	_	_	_
+4	dehiscent	dehisco	_	_	V;IND;PL;3;ACT;FUT;FIN	_	_	_	_
+5	attonitae	attono	_	_	FEM;V.PTCP;V;PASS;PST;GEN;PFV;SG	_	_	_	_
+6	magna	magnus	_	_	NEUT;NOM;ADJ;PL	_	_	_	_
+7	ora	os	_	_	N;NEUT;NOM;PL	_	_	_	_
+8	domus	domus	_	_	N;FEM;SG;GEN	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+10	'	'	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@881
+# text = recutitus est et stertit.
+1	recutitus	recutitus	_	_	ADJ;SG;MASC;NOM	_	_	_	_
+2	est	sum	_	_	V;FIN;ACT;3;PRS;IND;SG	_	_	_	_
+3	et	et	_	_	CONJ	_	_	_	_
+4	stertit	sterto	_	_	V;FIN;ACT;3;PRS;IND;SG	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@106
+# text = Hac re probatur quantum ingenium valet;
+1	Hac	hic	_	_	FEM;AT+ABL;SG;PRO	_	_	_	_
+2	re	res	_	_	FEM;N;SG;AT+ABL	_	_	_	_
+3	probatur	probo	_	_	V;FIN;3;PRS;IND;SG;PASS	_	_	_	_
+4	quantum	quantus	_	_	ADV	_	_	_	_
+5	ingenium	ingenium	_	_	NEUT;N;SG;NOM	_	_	_	_
+6	valet	valeo	_	_	V;FIN;ACT;3;PRS;IND;SG	_	_	_	_
+7	;	;	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@173
+# text = Consilia qui dant prava cautis hominibus, Et perdunt operam et deridentur turpiter.
+1	Consilia	consilium	_	_	PL;N;ACC;NEUT	_	_	_	_
+2	qui	qui	_	_	PL;MASC;PRO;NOM	_	_	_	_
+3	dant	do	_	_	V;FIN;ACT;3;PRS;IND;PL	_	_	_	_
+4	prava	pravus	_	_	ADJ;ACC;PL;NEUT	_	_	_	_
+5	cautis	caveo	_	_	V;MASC;PFV;PL;PST;DAT;V.PTCP;PASS	_	_	_	_
+6	hominibus	homo	_	_	DAT;N;PL;MASC	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	Et	et	_	_	CONJ	_	_	_	_
+9	perdunt	perdo	_	_	V;FIN;ACT;3;PRS;IND;PL	_	_	_	_
+10	operam	opera	_	_	FEM;N;SG;ACC	_	_	_	_
+11	et	et	_	_	CONJ	_	_	_	_
+12	deridentur	derideo	_	_	V;FIN;3;PRS;IND;PL;PASS	_	_	_	_
+13	turpiter	turpis	_	_	ADV	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@357
+# text = Quod si hoc fecerit, eripiat Norbano totum favorem.
+1	Quod	qui	_	_	NEUT;SG;PRO;NOM	_	_	_	_
+2	si	si	_	_	CONJ	_	_	_	_
+3	hoc	hic	_	_	ACC;SG;PRO;NEUT	_	_	_	_
+4	fecerit	facio	_	_	V;FIN;ACT;3;SBJV;SG;PFV;PST	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	eripiat	eripio	_	_	V;FIN;ACT;3;SBJV;PRS;SG	_	_	_	_
+7	Norbano	Norbanus	_	_	DAT;N;SG;MASC	_	_	_	_
+8	totum	totus	_	_	ADJ;ACC;SG;MASC	_	_	_	_
+9	favorem	favor	_	_	N;SG;ACC;MASC	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = tlg0031.tlg027.perseus-lat1.tb.xml@127
+# text = et fecisti eos Deo nostro regnum et sacerdotes et regnabunt super terram. '
+1	et	et	_	_	CONJ	_	_	_	_
+2	fecisti	facio	_	_	V;IND;2;ACT;PST;PFV;SG;FIN	_	_	_	_
+3	eos	is	_	_	PRO;PL;ACC;MASC	_	_	_	_
+4	Deo	deus	_	_	N;DAT;MASC;SG	_	_	_	_
+5	nostro	noster	_	_	MASC;DAT;ADJ;SG	_	_	_	_
+6	regnum	regnum	_	_	N;NEUT;ACC;SG	_	_	_	_
+7	et	et	_	_	CONJ	_	_	_	_
+8	sacerdotes	sacerdos	_	_	N;PL;ACC;MASC	_	_	_	_
+9	et	et	_	_	CONJ	_	_	_	_
+10	regnabunt	regno	_	_	V;IND;PL;3;ACT;FUT;FIN	_	_	_	_
+11	super	super	_	_	ADP	_	_	_	_
+12	terram	terra	_	_	N;FEM;ACC;SG	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+14	'	'	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@87
+# text = Quae dum paventes exitus notos petunt, Leonis affliguntur horrendo impetu.
+1	Quae	qui	_	_	FEM;PL;PRO;NOM	_	_	_	_
+2	dum	dum	_	_	CONJ	_	_	_	_
+3	paventes	paveo	_	_	V;FEM;NOM;PRS;PL;V.PTCP	_	_	_	_
+4	exitus	exitus	_	_	N;ACC;MASC;PL	_	_	_	_
+5	notos	nosco	_	_	V;PASS;MASC;PFV;PL;PST;ACC;V.PTCP	_	_	_	_
+6	petunt	peto	_	_	V;FIN;ACT;3;PRS;IND;PL	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	Leonis	leo	_	_	N;GEN;SG;MASC	_	_	_	_
+9	affliguntur	affligo	_	_	V;FIN;3;PRS;IND;PL;PASS	_	_	_	_
+10	horrendo	horreo	_	_	ADJ;AT+ABL;SG;MASC	_	_	_	_
+11	impetu	impetus	_	_	N;SG;MASC;AT+ABL	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+

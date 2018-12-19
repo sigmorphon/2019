@@ -1,0 +1,1428 @@
+# sent_id = data_UD-Sleepwalking-Am_aux-s2
+# text = አስተማሪ ናት ።
+# translit = 'äsətämari natə .
+1	አስተማሪ	አስተማሪ	_	_	N	_	_	_	_
+2	ን	ን	_	_	V	_	_	_	_
+3	ኣት	ኣት	_	_	SG;PRO;3;FEM	_	_	_	_
+4	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-third_apple_2-x03-s20
+# text = መንገዱ ሁለት ቀን ይፈጃል ።
+# translit = mänəgädu hulätə qänə jəfädžalə .
+1	መንገድ	መንገድ	_	_	N	_	_	_	_
+2	ኡ	ኡ	_	_	DET	_	_	_	_
+3	ሁለት	ሁለት	_	_	NUM	_	_	_	_
+4	ቀን	ቀን	_	_	N	_	_	_	_
+5	ይ	ይ	_	_	3;PRO;MASC;SG	_	_	_	_
+6	ፈጅ	ፈጅ	_	_	V	_	_	_	_
+7	ኣል	ኣል	_	_	V	_	_	_	_
+8	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-third_apple_2-x05-s9
+# text = አልማዝ እናቷን ሰለ ወንድሟ ሞት ጠየቀች ።
+# translit = 'äləmazə 'ənatănə sälä wänədəmă motə ţäjäqäčə .
+1	አልማዝ	አልማዝ	_	_	PROPN	_	_	_	_
+2	እናት	እናት	_	_	N	_	_	_	_
+3	ዋ	ዋ	_	_	3;SG;PRO;FEM	_	_	_	_
+4	ን	ን	_	_	PART	_	_	_	_
+5	ሰለ	ሰለ	_	_	ADP	_	_	_	_
+6	ወንድም	ወንድም	_	_	N	_	_	_	_
+7	ዋ	ዋ	_	_	3;SG;PRO;FEM	_	_	_	_
+8	ሞት	ሞት	_	_	N	_	_	_	_
+9	ጠየቅ	ጠየቅ	_	_	V	_	_	_	_
+10	ኧች	ኧች	_	_	SG;PRO;3;FEM	_	_	_	_
+11	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-third_apple_2-x16-s13
+# text = ኩባንያው እስከላባረረው ድረስ ይቆያል ።
+# translit = kubanəjawə 'əsəkälabaräräwə dəräsə jəqojalə .
+1	ኩባንያ	ኩባንያ	_	_	N	_	_	_	_
+2	ው	ው	_	_	DET	_	_	_	_
+3	እስከ	እስከ	_	_	ADP	_	_	_	_
+4	ኣል	ኣል	_	_	NEG;PART	_	_	_	_
+5	ኣባረር	ኣባረር	_	_	V	_	_	_	_
+6	ኧው	ኧው	_	_	PRO;3;SG	_	_	_	_
+7	ድረስ	ድረስ	_	_	ADP	_	_	_	_
+8	ይ	ይ	_	_	3;PRO;MASC;SG	_	_	_	_
+9	ቆይ	ቆይ	_	_	V	_	_	_	_
+10	ኣል	ኣል	_	_	V	_	_	_	_
+11	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-x18-s9
+# text = እንግዲያውማ ሁሉም ነገር ተፈርሟል ።
+# translit = 'ənəgədijawəma hulumə nägärə täfärəmălə .
+1	እንግዲያ	እንግዲያ	_	_	INTJ	_	_	_	_
+2	ው	ው	_	_	DET	_	_	_	_
+3	ማ	ማ	_	_	INTJ	_	_	_	_
+4	ሁሉ	ሁሉ	_	_	ADJ	_	_	_	_
+5	ም	ም	_	_	CONJ	_	_	_	_
+6	ነገር	ነገር	_	_	N	_	_	_	_
+7	ተፈርም	ተፈርም	_	_	V;PASS	_	_	_	_
+8	ኦ	ኦ	_	_	3;PRO;MASC;SG	_	_	_	_
+9	ኣል	ኣል	_	_	V	_	_	_	_
+10	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-third_apple_2-x29-s2
+# text = ከኔ ባለቤት ጋር ትተዋወቁ ኖሯል ?
+# translit = käne baläbetə garə tətäwawäqu norălə ?
+1	ከ	ከ	_	_	ADP	_	_	_	_
+2	እኔ	እኔ	_	_	PRO	_	_	_	_
+3	ባለቤት	ባለቤት	_	_	N	_	_	_	_
+4	ጋር	ጋር	_	_	ADP	_	_	_	_
+5	ት	ት	_	_	SG;PRO;3;FEM	_	_	_	_
+6	ተዋቅ	ተዋቅ	_	_	V	_	_	_	_
+7	ኡ	ኡ	_	_	PRO;3;PL	_	_	_	_
+8	ኖር	ኖር	_	_	V	_	_	_	_
+9	ኦ	ኦ	_	_	3;PRO;MASC;SG	_	_	_	_
+10	ኣል	ኣል	_	_	V	_	_	_	_
+11	?	?	_	_	_	_	_	_	_
+
+# sent_id = data_UD-third_apple_2-x08-s1
+# text = ሰዎቹ ተሰበሰቡ ።
+# translit = säwoču täsäbäsäbu .
+1	ሰዎች	ሰዎች	_	_	N	_	_	_	_
+2	ኡ	ኡ	_	_	DET	_	_	_	_
+3	ተሰበሰብ	ተሰበሰብ	_	_	V;PASS	_	_	_	_
+4	ኡ	ኡ	_	_	PRO;3;PL	_	_	_	_
+5	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-third_apple_2-x14-s14
+# text = ምንም እንኳ ሥራ ቢበዛበት መምጣቱ አይቀርም ።
+# translit = mənəmə 'ənəkwa śəra bibäzabätə mäməţatu 'äjəqärəmə .
+1	ምንም	ምንም	_	_	ADV	_	_	_	_
+2	እንኳ	እንኳ	_	_	CONJ	_	_	_	_
+3	ሥራ	ሥራ	_	_	N	_	_	_	_
+4	ብ	ብ	_	_	CONJ	_	_	_	_
+5	ይ	ይ	_	_	3;PRO;MASC;SG	_	_	_	_
+6	በዛ	በዛ	_	_	V	_	_	_	_
+7	ብ	ብ	_	_	ADP	_	_	_	_
+8	ኧት	ኧት	_	_	3;PRO;MASC;SG	_	_	_	_
+9	መምጣት	መምጣት	_	_	V.MSDR;N	_	_	_	_
+10	ኡ	ኡ	_	_	DET	_	_	_	_
+11	ኣል	ኣል	_	_	NEG;PART	_	_	_	_
+12	ይ	ይ	_	_	3;PRO;MASC;SG	_	_	_	_
+13	ቀር	ቀር	_	_	V	_	_	_	_
+14	ም	ም	_	_	PART	_	_	_	_
+15	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-third_apple_2-x17-s13
+# text = ይህ አልጋም መቀመጫም ይሆናል ።
+# translit = jəhə 'äləgamə mäqämäćamə jəhonalə .
+1	ይህ	ይህ	_	_	DET	_	_	_	_
+2	አልጋ	አልጋ	_	_	N	_	_	_	_
+3	ም	ም	_	_	CONJ	_	_	_	_
+4	መቀመጫ	መቀመጫ	_	_	V.MSDR;N	_	_	_	_
+5	ም	ም	_	_	CONJ	_	_	_	_
+6	ይ	ይ	_	_	3;PRO;MASC;SG	_	_	_	_
+7	ሆን	ሆን	_	_	V	_	_	_	_
+8	ኣል	ኣል	_	_	V	_	_	_	_
+9	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-third_apple_2-x24-s2
+# text = ሁለት ሹራብ ስለነበራት አንዱን ለእኅቷ ሰጠቻት ።
+# translit = hulätə šurabə səlänäbäratə 'änədunə lä'əchətă säţäčatə .
+1	ሁለት	ሁለት	_	_	NUM	_	_	_	_
+2	ሹራብ	ሹራብ	_	_	N	_	_	_	_
+3	ስለ	ስለ	_	_	CONJ	_	_	_	_
+4	ነበር	ነበር	_	_	V	_	_	_	_
+5	ኣት	ኣት	_	_	SG;PRO;3;FEM	_	_	_	_
+6	አንድ	አንድ	_	_	NUM	_	_	_	_
+7	ኡ	ኡ	_	_	DET	_	_	_	_
+8	ን	ን	_	_	PART	_	_	_	_
+9	ለ	ለ	_	_	ADP;BEN	_	_	_	_
+10	እህት	እህት	_	_	N	_	_	_	_
+11	ዋ	ዋ	_	_	3;SG;PRO;FEM	_	_	_	_
+12	ሰጠ	ሰጠ	_	_	V	_	_	_	_
+13	ኧች	ኧች	_	_	SG;PRO;3;FEM	_	_	_	_
+14	ኣት	ኣት	_	_	SG;PRO;3;FEM	_	_	_	_
+15	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-third_apple_2-x19-s14
+# text = እባክህ ወንድም የዚህ ቦታ ስም ማን ይባላል ?
+# translit = 'əbakəhə wänədəmə jäzihə bota səmə manə jəbalalə ?
+1	እባክ	እባክ	_	_	V	_	_	_	_
+2	ህ	ህ	_	_	PRO;MASC;SG;2	_	_	_	_
+3	ወንድም	ወንድም	_	_	N	_	_	_	_
+4	የ	የ	_	_	ADP	_	_	_	_
+5	እዚህ	እዚህ	_	_	DET	_	_	_	_
+6	ቦታ	ቦታ	_	_	N	_	_	_	_
+7	ስም	ስም	_	_	N	_	_	_	_
+8	ማን	ማን	_	_	PRO	_	_	_	_
+9	ይ	ይ	_	_	3;PRO;MASC;SG	_	_	_	_
+10	ባል	ባል	_	_	V	_	_	_	_
+11	ኣል	ኣል	_	_	V	_	_	_	_
+12	?	?	_	_	_	_	_	_	_
+
+# sent_id = data_UD-x07-s2
+# text = እስካሁን ማወቅ ያልቻልኩት መምጣት አለመምጣቷን ነው ።
+# translit = 'əsəkahunə mawäqə jaləčaləkutə mäməţatə 'älämäməţatănə näwə .
+1	እስከ	እስከ	_	_	ADP	_	_	_	_
+2	ኣሁን	ኣሁን	_	_	ADV	_	_	_	_
+3	ማወቅ	ማወቅ	_	_	V.MSDR;N	_	_	_	_
+4	የ	የ	_	_	PART	_	_	_	_
+5	ኣል	ኣል	_	_	NEG;PART	_	_	_	_
+6	ቻል	ቻል	_	_	V	_	_	_	_
+7	ኩ	ኩ	_	_	1;PRO;SG	_	_	_	_
+8	ት	ት	_	_	3;PRO;MASC;SG	_	_	_	_
+9	መምጣት	መምጣት	_	_	V.MSDR;N	_	_	_	_
+10	ኣለ	ኣለ	_	_	NEG;PART	_	_	_	_
+11	መምጣት	መምጣት	_	_	V.MSDR;N	_	_	_	_
+12	ኡ	ኡ	_	_	DET	_	_	_	_
+13	ኣን	ኣን	_	_	PART	_	_	_	_
+14	ን	ን	_	_	V	_	_	_	_
+15	ኧው	ኧው	_	_	PRO;3;SG	_	_	_	_
+16	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-third_apple_2-x18-s19
+# text = በእውነት አንተን ምን እንደማደርግ አላውቅም ።
+# translit = bä'əwənätə 'änətänə mənə 'ənədämadärəgə 'älawəqəmə .
+1	በ	በ	_	_	ADP	_	_	_	_
+2	እውነት	እውነት	_	_	N	_	_	_	_
+3	አንተ	አንተ	_	_	PRO	_	_	_	_
+4	ን	ን	_	_	PART	_	_	_	_
+5	ምን	ምን	_	_	PRO	_	_	_	_
+6	እንደ	እንደ	_	_	CONJ	_	_	_	_
+7	እም	እም	_	_	PART	_	_	_	_
+8	እ	እ	_	_	1;PRO;SG	_	_	_	_
+9	ኣደርግ	ኣደርግ	_	_	V	_	_	_	_
+10	አል	አል	_	_	NEG;PART	_	_	_	_
+11	ኣውቅ	ኣውቅ	_	_	V	_	_	_	_
+12	ም	ም	_	_	PART	_	_	_	_
+13	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-x10-s13
+# text = ጎጃም ሄደው ፣ ሰርግ ላይ ተገኝተው ፣ ወደቤታቸው ተመለሱ ።
+# translit = godžamə hedäwə , särəgə lajə tägäňətäwə , wädäbetačäwə tämäläsu .
+1	ጎጃም	ጎጃም	_	_	PROPN	_	_	_	_
+2	ሄድ	ሄድ	_	_	V	_	_	_	_
+3	ኧው	ኧው	_	_	PRO;3;SG	_	_	_	_
+4	፣	፣	_	_	_	_	_	_	_
+5	ሰርግ	ሰርግ	_	_	N	_	_	_	_
+6	ላይ	ላይ	_	_	ADP	_	_	_	_
+7	ተገኝት	ተገኝት	_	_	V;PASS	_	_	_	_
+8	ኧው	ኧው	_	_	PRO;3;SG	_	_	_	_
+9	፣	፣	_	_	_	_	_	_	_
+10	ወደ	ወደ	_	_	ADP	_	_	_	_
+11	ቤት	ቤት	_	_	N	_	_	_	_
+12	ኣቸው	ኣቸው	_	_	PRO;3;PL	_	_	_	_
+13	ተመለስ	ተመለስ	_	_	V;PASS	_	_	_	_
+14	ኡ	ኡ	_	_	PRO;3;PL	_	_	_	_
+15	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-x17-s3
+# text = የበለጠ ችሮታ ለማድረግ የሚችልበትን ዘዴ ባገኝ ብሎ ተመኘ ።
+# translit = jäbäläţä čərota lämadərägə jämičələbätənə zäde bagäňə bəlo tämäňä .
+1	የ	የ	_	_	ADP	_	_	_	_
+2	በለጠ	በለጠ	_	_	ADJ	_	_	_	_
+3	ችሮታ	ችሮታ	_	_	N	_	_	_	_
+4	ለ	ለ	_	_	ADP	_	_	_	_
+5	ማድረግ	ማድረግ	_	_	V.MSDR;N	_	_	_	_
+6	የ	የ	_	_	PART	_	_	_	_
+7	እም	እም	_	_	PART	_	_	_	_
+8	ይ	ይ	_	_	3;PRO;MASC;SG	_	_	_	_
+9	ችል	ችል	_	_	V	_	_	_	_
+10	በ	በ	_	_	ADP	_	_	_	_
+11	ት	ት	_	_	3;PRO;MASC;SG	_	_	_	_
+12	ን	ን	_	_	PART	_	_	_	_
+13	ዘዴ	ዘዴ	_	_	N	_	_	_	_
+14	ብ	ብ	_	_	ADP	_	_	_	_
+15	ኣገኝ	ኣገኝ	_	_	V	_	_	_	_
+16	ብል	ብል	_	_	V	_	_	_	_
+17	ኦ	ኦ	_	_	3;PRO;MASC;SG	_	_	_	_
+18	ተመኝ	ተመኝ	_	_	V;PASS	_	_	_	_
+19	ኧ	ኧ	_	_	3;PRO;MASC;SG	_	_	_	_
+20	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-third_apple_2-x00-s10
+# text = በምንም ዐይነት ብትሠራው አለቅየው አይደሰትም ።
+# translit = bämənəmə `äjənätə bətəśärawə 'äläqəjäwə 'äjədäsätəmə .
+1	በ	በ	_	_	ADP;ESS	_	_	_	_
+2	ምንም	ምንም	_	_	ADJ	_	_	_	_
+3	ዐይነት	ዐይነት	_	_	N	_	_	_	_
+4	ብ	ብ	_	_	CONJ	_	_	_	_
+5	ት	ት	_	_	SG;PRO;3;FEM	_	_	_	_
+6	ሠር	ሠር	_	_	V	_	_	_	_
+7	ኣው	ኣው	_	_	3;PRO;MASC;SG	_	_	_	_
+8	አለቃ	አለቃ	_	_	N	_	_	_	_
+9	እየ	እየ	_	_	PART	_	_	_	_
+10	ው	ው	_	_	DET	_	_	_	_
+11	ኣል	ኣል	_	_	NEG;PART	_	_	_	_
+12	ይ	ይ	_	_	3;PRO;MASC;SG	_	_	_	_
+13	ደሰት	ደሰት	_	_	V	_	_	_	_
+14	ም	ም	_	_	PART	_	_	_	_
+15	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-third_apple_2-x09-s2
+# text = አልማዝ ወተት አመጣች ።
+# translit = 'äləmazə wätätə 'ämäţačə .
+1	አልማዝ	አልማዝ	_	_	PROPN	_	_	_	_
+2	ወተት	ወተት	_	_	N	_	_	_	_
+3	አመጣ	አመጣ	_	_	V	_	_	_	_
+4	ኧች	ኧች	_	_	SG;PRO;3;FEM	_	_	_	_
+5	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-x11-s6
+# text = ሩጦ ሄደ ።
+# translit = ruţo hedä .
+1	ሩጥ	ሩጥ	_	_	V;V.CVB	_	_	_	_
+2	ኦ	ኦ	_	_	3;PRO;MASC;SG	_	_	_	_
+3	ሄድ	ሄድ	_	_	V	_	_	_	_
+4	ኧ	ኧ	_	_	3;PRO;MASC;SG	_	_	_	_
+5	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-third_apple_2-x16-s3
+# text = ካሳ የሄደበት ሀገር ሩቅ ነው ።
+# translit = kasa jähedäbätə hägärə ruqə näwə .
+1	ካሳ	ካሳ	_	_	PROPN	_	_	_	_
+2	የ	የ	_	_	PART	_	_	_	_
+3	ሄድ	ሄድ	_	_	V	_	_	_	_
+4	ኧ	ኧ	_	_	3;PRO;MASC;SG	_	_	_	_
+5	በ	በ	_	_	ADP	_	_	_	_
+6	ት	ት	_	_	SG;PRO;3;FEM	_	_	_	_
+7	ሀገር	ሀገር	_	_	N	_	_	_	_
+8	ሩቅ	ሩቅ	_	_	ADJ	_	_	_	_
+9	ን	ን	_	_	V	_	_	_	_
+10	ኧው	ኧው	_	_	PRO;3;SG	_	_	_	_
+11	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-third_apple_2-x21-s17
+# text = አስተማሪው በጣም በመድከሙ ነቅቶ መቆየት አልቻለም ።
+# translit = 'äsətämariwə bäţamə bämädəkämu näqəto mäqojätə 'äləčalämə .
+1	አስተማሪ	አስተማሪ	_	_	N	_	_	_	_
+2	ው	ው	_	_	DET	_	_	_	_
+3	በጣም	በጣም	_	_	ADV	_	_	_	_
+4	በ	በ	_	_	ADP	_	_	_	_
+5	መድከም	መድከም	_	_	V.MSDR;N	_	_	_	_
+6	ኡ	ኡ	_	_	3;PRO;MASC;SG	_	_	_	_
+7	ነቅት	ነቅት	_	_	V	_	_	_	_
+8	ኦ	ኦ	_	_	3;PRO;MASC;SG	_	_	_	_
+9	መቆየት	መቆየት	_	_	V.MSDR;N	_	_	_	_
+10	ኣል	ኣል	_	_	NEG;PART	_	_	_	_
+11	ቻል	ቻል	_	_	V	_	_	_	_
+12	ኧ	ኧ	_	_	3;PRO;MASC;SG	_	_	_	_
+13	ም	ም	_	_	PART	_	_	_	_
+14	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-x01-s17
+# text = ልክ ሆስፒታል ስንደርስ ተገላገለች ።
+# translit = ləkə hosəpitalə sənədärəsə tägälagäläčə .
+1	ልክ	ልክ	_	_	N	_	_	_	_
+2	ሆስፒታል	ሆስፒታል	_	_	N	_	_	_	_
+3	ስ	ስ	_	_	CONJ	_	_	_	_
+4	እን	እን	_	_	1;PRO;PL	_	_	_	_
+5	ደርስ	ደርስ	_	_	V	_	_	_	_
+6	ተገላገል	ተገላገል	_	_	V;PASS	_	_	_	_
+7	ኧች	ኧች	_	_	SG;PRO;3;FEM	_	_	_	_
+8	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-x15-s15
+# text = የምግቡን ዝርዝር ብትሰጠኝ ?
+# translit = jäməgəbunə zərəzərə bətəsäţäňə ?
+1	የ	የ	_	_	PART	_	_	_	_
+2	ምግብ	ምግብ	_	_	N	_	_	_	_
+3	ኡ	ኡ	_	_	DET	_	_	_	_
+4	ን	ን	_	_	PART	_	_	_	_
+5	ዝርዝር	ዝርዝር	_	_	N	_	_	_	_
+6	ብ	ብ	_	_	CONJ	_	_	_	_
+7	ት	ት	_	_	PRO;MASC;SG;2	_	_	_	_
+8	ሰጥ	ሰጥ	_	_	V;IMP	_	_	_	_
+9	ኧኝ	ኧኝ	_	_	1;PRO;SG	_	_	_	_
+10	?	?	_	_	_	_	_	_	_
+
+# sent_id = data_UD-third_apple_2-x20-s7
+# text = ይህ መንግስት የሕዝቡን ፍላጎት ካላሟላ አንድ ቀን ወዳቂ ነው ።
+# translit = jəhə mänəgəsətə jäħəzəbunə fəlagotə kalamăla 'änədə qänə wädaqi näwə .
+1	ይህ	ይህ	_	_	DET	_	_	_	_
+2	መንግስት	መንግስት	_	_	N	_	_	_	_
+3	የ	የ	_	_	ADP	_	_	_	_
+4	ሕዝብ	ሕዝብ	_	_	N	_	_	_	_
+5	ኡ	ኡ	_	_	DET	_	_	_	_
+6	ን	ን	_	_	PART	_	_	_	_
+7	ፍላጎት	ፍላጎት	_	_	N	_	_	_	_
+8	ከ	ከ	_	_	ADP	_	_	_	_
+9	ኣል	ኣል	_	_	NEG;PART	_	_	_	_
+10	አሟላ	አሟላ	_	_	V	_	_	_	_
+11	ኧ	ኧ	_	_	3;PRO;MASC;SG	_	_	_	_
+12	አንድ	አንድ	_	_	NUM	_	_	_	_
+13	ቀን	ቀን	_	_	N	_	_	_	_
+14	ወዳቂ	ወዳቂ	_	_	ADJ	_	_	_	_
+15	ን	ን	_	_	V	_	_	_	_
+16	ኧው	ኧው	_	_	PRO;3;SG	_	_	_	_
+17	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-third_apple_2-x16-s20
+# text = ከተማ የምትሄድ እንደሆነ ጥራኝ ።
+# translit = kätäma jämətəhedə 'ənədähonä ţəraňə .
+1	ከተማ	ከተማ	_	_	N	_	_	_	_
+2	የ	የ	_	_	PART	_	_	_	_
+3	እም	እም	_	_	PART	_	_	_	_
+4	ት	ት	_	_	SG;PRO;3;FEM	_	_	_	_
+5	ሄድ	ሄድ	_	_	V	_	_	_	_
+6	እንደ	እንደ	_	_	CONJ	_	_	_	_
+7	ሆን	ሆን	_	_	V	_	_	_	_
+8	ኧ	ኧ	_	_	3;PRO;MASC;SG	_	_	_	_
+9	ጥር	ጥር	_	_	V	_	_	_	_
+10	ኣ	ኣ	_	_	SG;PRO;3;FEM	_	_	_	_
+11	ኝ	ኝ	_	_	1;NEUT;PRO;SG	_	_	_	_
+12	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-x13-s3
+# text = አስቴር ተጨነቀች ።
+# translit = 'äsəterə täćänäqäčə .
+1	አስቴር	አስቴር	_	_	PROPN	_	_	_	_
+2	ተጨነቅ	ተጨነቅ	_	_	V;PASS	_	_	_	_
+3	ኧች	ኧች	_	_	SG;PRO;3;FEM	_	_	_	_
+4	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-x01-s20
+# text = ወጣት ብሆንም ብዙ አይቻለሁ ።
+# translit = wäţatə bəhonəmə bəzu 'äjəčalähu .
+1	ወጣት	ወጣት	_	_	N	_	_	_	_
+2	ብ	ብ	_	_	CONJ	_	_	_	_
+3	እ	እ	_	_	1;PRO;SG	_	_	_	_
+4	ሆን	ሆን	_	_	V	_	_	_	_
+5	ም	ም	_	_	CONJ	_	_	_	_
+6	ብዙ	ብዙ	_	_	ADV	_	_	_	_
+7	አይት	አይት	_	_	V	_	_	_	_
+8	ኤ	ኤ	_	_	1;SG;PRO;MASC+FEM	_	_	_	_
+9	ኣል	ኣል	_	_	V	_	_	_	_
+10	ኧሁ	ኧሁ	_	_	1;SG;PRO;MASC+FEM	_	_	_	_
+11	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-x08-s11
+# text = ሰልፉ ተቃለለ ።
+# translit = säləfu täqalälä .
+1	ሰልፍ	ሰልፍ	_	_	N	_	_	_	_
+2	ኡ	ኡ	_	_	DET	_	_	_	_
+3	ተቃለል	ተቃለል	_	_	V;PASS	_	_	_	_
+4	ኧ	ኧ	_	_	3;PRO;MASC;SG	_	_	_	_
+5	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-third_apple_2-x23-s12
+# text = ብረት ለምድጃ መሥሪያ ያገለግላል ።
+# translit = bərätə lämədədža mäśərija jagälägəlalə .
+1	ብረት	ብረት	_	_	N	_	_	_	_
+2	ለ	ለ	_	_	ADP	_	_	_	_
+3	ምድጃ	ምድጃ	_	_	N	_	_	_	_
+4	መሥሪያ	መሥሪያ	_	_	V.MSDR;N	_	_	_	_
+5	ይ	ይ	_	_	3;PRO;MASC;SG	_	_	_	_
+6	አገለግል	አገለግል	_	_	V	_	_	_	_
+7	ኣል	ኣል	_	_	V	_	_	_	_
+8	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-x16-s10
+# text = በፊታችሁ ወዳለችው መንደር ሂዱ ።
+# translit = bäfitačəhu wädaläčəwə mänədärə hidu .
+1	በ	በ	_	_	ADP	_	_	_	_
+2	ፊት	ፊት	_	_	N	_	_	_	_
+3	ኣችሁ	ኣችሁ	_	_	PRO;PL;2	_	_	_	_
+4	ወደ	ወደ	_	_	ADP	_	_	_	_
+5	ኣል	ኣል	_	_	V	_	_	_	_
+6	ኧች	ኧች	_	_	SG;PRO;3;FEM	_	_	_	_
+7	ው	ው	_	_	DET	_	_	_	_
+8	መንደር	መንደር	_	_	N	_	_	_	_
+9	ሂድ	ሂድ	_	_	V	_	_	_	_
+10	ኡ	ኡ	_	_	PRO;3;PL	_	_	_	_
+11	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-x10-s7
+# text = ወታደሮቹ ለገራቸው ተጋደሉ ።
+# translit = wätadäroču lägäračäwə tägadälu .
+1	ወታደሮች	ወታደሮች	_	_	N;PL	_	_	_	_
+2	ኡ	ኡ	_	_	DET	_	_	_	_
+3	ለ	ለ	_	_	ADP	_	_	_	_
+4	አገር	አገር	_	_	N	_	_	_	_
+5	ኣቸው	ኣቸው	_	_	PRO;3;PL	_	_	_	_
+6	ተጋደል	ተጋደል	_	_	V;RECP	_	_	_	_
+7	ኡ	ኡ	_	_	PRO;3;PL	_	_	_	_
+8	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-third_apple_2-x07-s12
+# text = ሳህኑን ወረወሩት ።
+# translit = sahənunə wäräwärutə .
+1	ሳህን	ሳህን	_	_	N	_	_	_	_
+2	ኡ	ኡ	_	_	DET	_	_	_	_
+3	ን	ን	_	_	PART	_	_	_	_
+4	ወረወር	ወረወር	_	_	V	_	_	_	_
+5	ኡ	ኡ	_	_	PRO;3;PL	_	_	_	_
+6	ት	ት	_	_	3;PRO;MASC;SG	_	_	_	_
+7	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-third_apple_2-x13-s14
+# text = አስቴር ገንዘብ ትፈልጋለች ።
+# translit = 'äsəterə gänəzäbə təfäləgaläčə .
+1	አስቴር	አስቴር	_	_	PROPN	_	_	_	_
+2	ገንዘብ	ገንዘብ	_	_	N	_	_	_	_
+3	ት	ት	_	_	SG;PRO;3;FEM	_	_	_	_
+4	ፈልግ	ፈልግ	_	_	V	_	_	_	_
+5	ኣል	ኣል	_	_	V	_	_	_	_
+6	ኧች	ኧች	_	_	SG;PRO;3;FEM	_	_	_	_
+7	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-third_apple_2-x23-s7
+# text = ቦታ ለማግኘት በጊዜ መነሣት ።
+# translit = bota lämagəňätə bägize mänäśatə .
+1	ቦታ	ቦታ	_	_	N	_	_	_	_
+2	ለ	ለ	_	_	ADP	_	_	_	_
+3	ማግኘት	ማግኘት	_	_	N	_	_	_	_
+4	በ	በ	_	_	ADP	_	_	_	_
+5	ጊዜ	ጊዜ	_	_	N	_	_	_	_
+6	መነሣት	መነሣት	_	_	N	_	_	_	_
+7	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-third_apple_2-x20-s17
+# text = ፈተና መውደቄ አበሳጨኝ ።
+# translit = fätäna mäwədäqe 'äbäsaćäňə .
+1	ፈተና	ፈተና	_	_	N	_	_	_	_
+2	መውደቅ	መውደቅ	_	_	V;V.MSDR	_	_	_	_
+3	ኤ	ኤ	_	_	1;PRO;SG	_	_	_	_
+4	አበሳጭ	አበሳጭ	_	_	V	_	_	_	_
+5	ኧ	ኧ	_	_	3;PRO;MASC;SG	_	_	_	_
+6	ኝ	ኝ	_	_	1;PRO;SG	_	_	_	_
+7	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-third_apple_2-x02-s13
+# text = መሬቱ ተንቀጠቀጠ ።
+# translit = märetu tänəqäţäqäţä .
+1	መሬት	መሬት	_	_	N	_	_	_	_
+2	ኡ	ኡ	_	_	DET	_	_	_	_
+3	ተንቀጠቀጥ	ተንቀጠቀጥ	_	_	V;PASS	_	_	_	_
+4	ኧ	ኧ	_	_	3;PRO;MASC;SG	_	_	_	_
+5	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-x13-s18
+# text = ምክርን ያደምጣሉ ።
+# translit = məkərənə jadäməţalu .
+1	ምክር	ምክር	_	_	N	_	_	_	_
+2	ን	ን	_	_	PART	_	_	_	_
+3	ይ	ይ	_	_	3;PRO;MASC;SG	_	_	_	_
+4	ኣደምጥ	ኣደምጥ	_	_	V	_	_	_	_
+5	ኣል	ኣል	_	_	V	_	_	_	_
+6	ኡ	ኡ	_	_	PRO;3;PL	_	_	_	_
+7	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-third_apple_2-x17-s18
+# text = ስንዴ እህል ነው ፣ ገብስና ጤፍም እንዲሁ ።
+# translit = sənəde 'əhələ näwə , gäbəsəna ţefəmə 'ənədihu .
+1	ስንዴ	ስንዴ	_	_	N	_	_	_	_
+2	እህል	እህል	_	_	N	_	_	_	_
+3	ን	ን	_	_	V	_	_	_	_
+4	ኧው	ኧው	_	_	PRO;3;SG	_	_	_	_
+5	፣	፣	_	_	_	_	_	_	_
+6	ገብስ	ገብስ	_	_	N	_	_	_	_
+7	ና	ና	_	_	CONJ	_	_	_	_
+8	ጤፍ	ጤፍ	_	_	N	_	_	_	_
+9	ም	ም	_	_	CONJ	_	_	_	_
+10	እንዲሁ	እንዲሁ	_	_	ADV	_	_	_	_
+11	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-third_apple_2-x03-s13
+# text = ካሳ ወደ ቤተክርስቲያን ሄደ ።
+# translit = kasa wädä betäkərəsətijanə hedä .
+1	ካሳ	ካሳ	_	_	PROPN	_	_	_	_
+2	ወደ	ወደ	_	_	ADP	_	_	_	_
+3	ቤተክርስቲያን	ቤተክርስቲያን	_	_	N	_	_	_	_
+4	ሄድ	ሄድ	_	_	V	_	_	_	_
+5	ኧ	ኧ	_	_	3;PRO;MASC;SG	_	_	_	_
+6	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-x05-s8
+# text = አልማዝ አርፍዳ እንደምትመጣ ነግራኛለች ።
+# translit = 'äləmazə 'ärəfəda 'ənədämətəmäţa nägəraňaläčə .
+1	አልማዝ	አልማዝ	_	_	PROPN	_	_	_	_
+2	አርፍድ	አርፍድ	_	_	V	_	_	_	_
+3	ኣ	ኣ	_	_	SG;PRO;3;FEM	_	_	_	_
+4	እንደ	እንደ	_	_	ADP	_	_	_	_
+5	እም	እም	_	_	PART	_	_	_	_
+6	ትመጥ	ትመጥ	_	_	V	_	_	_	_
+7	ኣ	ኣ	_	_	SG;PRO;3;FEM	_	_	_	_
+8	ነግር	ነግር	_	_	V	_	_	_	_
+9	ኣ	ኣ	_	_	SG;PRO;3;FEM	_	_	_	_
+10	ኝ	ኝ	_	_	1;PRO;SG	_	_	_	_
+11	ኣል	ኣል	_	_	V	_	_	_	_
+12	ኧች	ኧች	_	_	SG;PRO;3;FEM	_	_	_	_
+13	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-third_apple_2-x17-s19
+# text = እርሱም ደግሞ ይሄዳል ።
+# translit = 'ərəsumə dägəmo jəhedalə .
+1	እርሱ	እርሱ	_	_	PRO	_	_	_	_
+2	ም	ም	_	_	CONJ	_	_	_	_
+3	ደግሞ	ደግሞ	_	_	CONJ	_	_	_	_
+4	ይ	ይ	_	_	3;PRO;MASC;SG	_	_	_	_
+5	ሄድ	ሄድ	_	_	V	_	_	_	_
+6	ኣል	ኣል	_	_	V	_	_	_	_
+7	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-x08-s6
+# text = ውሃ ተጎነጨ ።
+# translit = wəha tägonäćä .
+1	ውሃ	ውሃ	_	_	N	_	_	_	_
+2	ተጎነጭ	ተጎነጭ	_	_	V;PASS	_	_	_	_
+3	ኧ	ኧ	_	_	3;PRO;MASC;SG	_	_	_	_
+4	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-third_apple_2-x26-s12
+# text = በዚህ ድልድይ ላይ ሲያልፉ ቀረጥ መክፈል ያስፈልጋል ።
+# translit = bäzihə dələdəjə lajə sijaləfu qäräţə mäkəfälə jasəfäləgalə .
+1	በ	በ	_	_	ADP	_	_	_	_
+2	እዚህ	እዚህ	_	_	DET	_	_	_	_
+3	ድልድይ	ድልድይ	_	_	N	_	_	_	_
+4	ላይ	ላይ	_	_	ADP	_	_	_	_
+5	ስ	ስ	_	_	CONJ	_	_	_	_
+6	ይ	ይ	_	_	3;PRO;MASC;SG	_	_	_	_
+7	አልፍ	አልፍ	_	_	V	_	_	_	_
+8	ኡ	ኡ	_	_	PRO;3;PL	_	_	_	_
+9	ቀረጥ	ቀረጥ	_	_	N	_	_	_	_
+10	መክፈል	መክፈል	_	_	V.MSDR;N	_	_	_	_
+11	ይ	ይ	_	_	3;PRO;MASC;SG	_	_	_	_
+12	ስፈልግ	ስፈልግ	_	_	V	_	_	_	_
+13	ኣል	ኣል	_	_	V	_	_	_	_
+14	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-third_apple_2-x13-s2
+# text = ልጆቹ ተበሳጩ ።
+# translit = lədžoču täbäsaću .
+1	ልጆች	ልጆች	_	_	N;PL	_	_	_	_
+2	ኡ	ኡ	_	_	DET	_	_	_	_
+3	ተበሳጭ	ተበሳጭ	_	_	V;PASS	_	_	_	_
+4	ኡ	ኡ	_	_	PRO;3;PL	_	_	_	_
+5	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-x17-s4
+# text = ተቀጥረህ ነዋ የምትሠራው ።
+# translit = täqäţərähə näwa jämətəśärawə .
+1	ተቀጥር	ተቀጥር	_	_	V;PASS	_	_	_	_
+2	ኧህ	ኧህ	_	_	PRO;MASC;SG;2	_	_	_	_
+3	ን	ን	_	_	V	_	_	_	_
+4	ኧው	ኧው	_	_	PRO;3;SG	_	_	_	_
+5	ኣ	ኣ	_	_	INTJ	_	_	_	_
+6	የ	የ	_	_	PART	_	_	_	_
+7	እም	እም	_	_	PART	_	_	_	_
+8	ት	ት	_	_	PRO;MASC;SG;2	_	_	_	_
+9	ሠራ	ሠራ	_	_	V	_	_	_	_
+10	ው	ው	_	_	3;PRO;MASC;SG	_	_	_	_
+11	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-Sleepwalking-26-s2
+# text = ልጁን ሥራውን አስጨርሰዋለሁ ።
+# translit = lədžunə śərawənə 'äsəćärəsäwalähu .
+1	ልጅ	ልጅ	_	_	N	_	_	_	_
+2	ኡ	ኡ	_	_	DET	_	_	_	_
+3	ን	ን	_	_	PART	_	_	_	_
+4	ሥራ	ሥራ	_	_	N	_	_	_	_
+5	ው	ው	_	_	DET	_	_	_	_
+6	ን	ን	_	_	PART	_	_	_	_
+7	አስጨርስ	አስጨርስ	_	_	CAUS;V	_	_	_	_
+8	ኧው	ኧው	_	_	PRO;3;SG	_	_	_	_
+9	ኣል	ኣል	_	_	V	_	_	_	_
+10	ኧሁ	ኧሁ	_	_	1;PRO;SG	_	_	_	_
+11	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-third_apple_2-x05-s3
+# text = መሄዷ የባሏን ልብ ሰበረው ።
+# translit = mähedă jäbalănə ləbə säbäräwə .
+1	መሄድ	መሄድ	_	_	V.MSDR;N	_	_	_	_
+2	ዋ	ዋ	_	_	3;SG;PRO;FEM	_	_	_	_
+3	የ	የ	_	_	ADP	_	_	_	_
+4	ባል	ባል	_	_	N	_	_	_	_
+5	ዋ	ዋ	_	_	3;SG;PRO;FEM	_	_	_	_
+6	ን	ን	_	_	PART	_	_	_	_
+7	ልብ	ልብ	_	_	N	_	_	_	_
+8	ሰበር	ሰበር	_	_	V	_	_	_	_
+9	ኧ	ኧ	_	_	3;PRO;MASC;SG	_	_	_	_
+10	ው	ው	_	_	3;PRO;MASC;SG	_	_	_	_
+11	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-third_apple_2-x22-s17
+# text = ልብስ ለመግዛት ብዬ ገበያ አልሄድም ።
+# translit = ləbəsə lämägəzatə bəje gäbäja 'äləhedəmə .
+1	ልብስ	ልብስ	_	_	N	_	_	_	_
+2	ለ	ለ	_	_	ADP	_	_	_	_
+3	መግዛት	መግዛት	_	_	V.MSDR;N	_	_	_	_
+4	ብል	ብል	_	_	V	_	_	_	_
+5	ኤ	ኤ	_	_	1;PRO;SG	_	_	_	_
+6	ገበያ	ገበያ	_	_	N	_	_	_	_
+7	ኣል	ኣል	_	_	NEG;PART	_	_	_	_
+8	ሄድ	ሄድ	_	_	V	_	_	_	_
+9	ም	ም	_	_	PART	_	_	_	_
+10	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-third_apple_2-x07-s7
+# text = አንድ ጊዜ ጎጃም ውስጥ አስተማሪ ነበር ።
+# translit = 'änədə gize godžamə wəsəţə 'äsətämari näbärə .
+1	አንድ	አንድ	_	_	NUM	_	_	_	_
+2	ጊዜ	ጊዜ	_	_	N	_	_	_	_
+3	ጎጃም	ጎጃም	_	_	PROPN	_	_	_	_
+4	ውስጥ	ውስጥ	_	_	ADP	_	_	_	_
+5	አስተማሪ	አስተማሪ	_	_	N	_	_	_	_
+6	ነበር	ነበር	_	_	V	_	_	_	_
+7	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-x11-s11
+# text = ወንድሜ ከኔ ጋር አልበላም አለ ።
+# translit = wänədəme käne garə 'äləbälamə 'älä .
+1	ወንድም	ወንድም	_	_	N	_	_	_	_
+2	ኤ	ኤ	_	_	1;PRO;SG	_	_	_	_
+3	ከ	ከ	_	_	ADP	_	_	_	_
+4	እኔ	እኔ	_	_	PRO	_	_	_	_
+5	ጋር	ጋር	_	_	ADP	_	_	_	_
+6	አል	አል	_	_	NEG;PART	_	_	_	_
+7	በላ	በላ	_	_	V	_	_	_	_
+8	ኧ	ኧ	_	_	3;PRO;MASC;SG	_	_	_	_
+9	ም	ም	_	_	PART	_	_	_	_
+10	ኣል	ኣል	_	_	V	_	_	_	_
+11	ኧ	ኧ	_	_	3;PRO;MASC;SG	_	_	_	_
+12	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-third_apple_2-x00-s1
+# text = ቤቱ ሊሄድ ሲል ይዘንብ ጀመረ ።
+# translit = betu lihedə silə jəzänəbə džämärä .
+1	ቤት	ቤት	_	_	N	_	_	_	_
+2	ኡ	ኡ	_	_	3;SG;PRO;MASC	_	_	_	_
+3	ል	ል	_	_	CONJ	_	_	_	_
+4	ይ	ይ	_	_	3;PRO;MASC;SG	_	_	_	_
+5	ሄድ	ሄድ	_	_	V	_	_	_	_
+6	ሲል	ሲል	_	_	V	_	_	_	_
+7	ይዘንብ	ይዘንብ	_	_	V	_	_	_	_
+8	ጀመር	ጀመር	_	_	V	_	_	_	_
+9	ኧ	ኧ	_	_	3;PRO;MASC;SG	_	_	_	_
+10	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-x06-s11
+# text = የሄድነው በወንዙ አጠገብ ነው ።
+# translit = jähedənäwə bäwänəzu 'äţägäbə näwə .
+1	የ	የ	_	_	PART	_	_	_	_
+2	ሄድ	ሄድ	_	_	V	_	_	_	_
+3	ን	ን	_	_	1;PRO;PL	_	_	_	_
+4	ኧው	ኧው	_	_	PRO;3;SG	_	_	_	_
+5	በ	በ	_	_	ADP	_	_	_	_
+6	ወንዝ	ወንዝ	_	_	N	_	_	_	_
+7	ኡ	ኡ	_	_	DET	_	_	_	_
+8	አጠገብ	አጠገብ	_	_	ADP	_	_	_	_
+9	ን	ን	_	_	V	_	_	_	_
+10	ኧው	ኧው	_	_	PRO;3;SG	_	_	_	_
+11	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-third_apple_2-x23-s4
+# text = የሰጠናችሁን ምክር መከተል ነው ።
+# translit = jäsäţänačəhunə məkərə mäkätälə näwə .
+1	የ	የ	_	_	PART	_	_	_	_
+2	ሰጠ	ሰጠ	_	_	V	_	_	_	_
+3	ኧን	ኧን	_	_	1;PRO;PL	_	_	_	_
+4	ኣችሁ	ኣችሁ	_	_	PRO;3;PL	_	_	_	_
+5	ን	ን	_	_	PART	_	_	_	_
+6	ምክር	ምክር	_	_	N	_	_	_	_
+7	መከተል	መከተል	_	_	V.MSDR;N	_	_	_	_
+8	ን	ን	_	_	V	_	_	_	_
+9	ኧው	ኧው	_	_	PRO;3;SG	_	_	_	_
+10	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-Sleepwalking-26-s4
+# text = ልጁቹን ጠርተህ እህሉን እጎተራ አስገባ ።
+# translit = lədžučunə ţärətähə 'əhəlunə 'əgotära 'äsəgäba .
+1	ልጁች	ልጁች	_	_	N;PL	_	_	_	_
+2	ኡ	ኡ	_	_	DET	_	_	_	_
+3	ን	ን	_	_	PART	_	_	_	_
+4	ጠርተ	ጠርተ	_	_	V;V.CVB	_	_	_	_
+5	ህ	ህ	_	_	PRO;MASC;SG;2	_	_	_	_
+6	እህል	እህል	_	_	N	_	_	_	_
+7	ኡ	ኡ	_	_	DET	_	_	_	_
+8	ን	ን	_	_	PART	_	_	_	_
+9	እ	እ	_	_	ADP;ESS	_	_	_	_
+10	ጎተራ	ጎተራ	_	_	N	_	_	_	_
+11	አስገባ	አስገባ	_	_	CAUS;V	_	_	_	_
+12	ኧ	ኧ	_	_	3;PRO;MASC;SG	_	_	_	_
+13	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-x20-s6
+# text = ገንዘብ ፈላጊ ነኝ ።
+# translit = gänəzäbə fälagi näňə .
+1	ገንዘብ	ገንዘብ	_	_	N	_	_	_	_
+2	ፈላጊ	ፈላጊ	_	_	N	_	_	_	_
+3	ን	ን	_	_	V	_	_	_	_
+4	ኧኝ	ኧኝ	_	_	1;PRO;SG	_	_	_	_
+5	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-third_apple_2-x22-s15
+# text = አንተን ለማየት ጎንደር መጣሁ ።
+# translit = 'änətänə lämajätə gonədärə mäţahu .
+1	አንተ	አንተ	_	_	PRO	_	_	_	_
+2	ን	ን	_	_	PART	_	_	_	_
+3	ለ	ለ	_	_	ADP	_	_	_	_
+4	ማየት	ማየት	_	_	V.MSDR;N	_	_	_	_
+5	ጎንደር	ጎንደር	_	_	PROPN	_	_	_	_
+6	መጣ	መጣ	_	_	V	_	_	_	_
+7	ሁ	ሁ	_	_	1;PRO;SG	_	_	_	_
+8	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-x01-s12
+# text = ካሳ ወደ ጎንደር ለመሄድ ይፈልጋል ።
+# translit = kasa wädä gonədärə lämähedə jəfäləgalə .
+1	ካሳ	ካሳ	_	_	PROPN	_	_	_	_
+2	ወደ	ወደ	_	_	ADP	_	_	_	_
+3	ጎንደር	ጎንደር	_	_	N	_	_	_	_
+4	ለ	ለ	_	_	ADP	_	_	_	_
+5	መሄድ	መሄድ	_	_	V.MSDR;N	_	_	_	_
+6	ይ	ይ	_	_	3;PRO;MASC;SG	_	_	_	_
+7	ፈልግ	ፈልግ	_	_	V	_	_	_	_
+8	ኣል	ኣል	_	_	V	_	_	_	_
+9	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-x12-s7
+# text = ሰነፍ ነህ ብለህ ልትወቅሰኝ አትችልም ።
+# translit = sänäfə nähə bəlähə lətəwäqəsäňə 'ätəčələmə .
+1	ሰነፍ	ሰነፍ	_	_	ADJ	_	_	_	_
+2	ን	ን	_	_	V	_	_	_	_
+3	ኧህ	ኧህ	_	_	PRO;MASC;SG;2	_	_	_	_
+4	ብል	ብል	_	_	V	_	_	_	_
+5	ኧህ	ኧህ	_	_	PRO;MASC;SG;2	_	_	_	_
+6	ል	ል	_	_	CONJ	_	_	_	_
+7	ት	ት	_	_	3;PRO;MASC;SG	_	_	_	_
+8	ወቅስ	ወቅስ	_	_	V	_	_	_	_
+9	ኧኝ	ኧኝ	_	_	1;PRO;SG	_	_	_	_
+10	ኣል	ኣል	_	_	NEG;PART	_	_	_	_
+11	ት	ት	_	_	3;PRO;MASC;SG	_	_	_	_
+12	ችል	ችል	_	_	V	_	_	_	_
+13	ም	ም	_	_	PART	_	_	_	_
+14	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-x05-s18
+# text = ካሳ እነደሚመጣ ለአልማዝ ነገራት ።
+# translit = kasa 'ənädämimäţa lä'äləmazə nägäratə .
+1	ካሳ	ካሳ	_	_	PROPN	_	_	_	_
+2	እንደ	እንደ	_	_	CONJ	_	_	_	_
+3	እም	እም	_	_	PART	_	_	_	_
+4	ይ	ይ	_	_	3;PRO;MASC;SG	_	_	_	_
+5	መጥ	መጥ	_	_	V	_	_	_	_
+6	ኣ	ኣ	_	_	SG;PRO;3;FEM	_	_	_	_
+7	ለ	ለ	_	_	ADP	_	_	_	_
+8	አልማዝ	አልማዝ	_	_	PROPN	_	_	_	_
+9	ነገር	ነገር	_	_	V	_	_	_	_
+10	ኧ	ኧ	_	_	3;PRO;MASC;SG	_	_	_	_
+11	ኣት	ኣት	_	_	SG;PRO;3;FEM	_	_	_	_
+12	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-third_apple_2-x05-s16
+# text = አስተማሪው ለተማሪዎቹ ጊዜ ሰጣቸው ።
+# translit = 'äsətämariwə lätämariwoču gize säţačäwə .
+1	አስተማሪ	አስተማሪ	_	_	N	_	_	_	_
+2	ው	ው	_	_	DET	_	_	_	_
+3	ለ	ለ	_	_	ADP	_	_	_	_
+4	ተማሪዎች	ተማሪዎች	_	_	N;PL	_	_	_	_
+5	ኡ	ኡ	_	_	DET	_	_	_	_
+6	ጊዜ	ጊዜ	_	_	N	_	_	_	_
+7	ሰጥ	ሰጥ	_	_	V	_	_	_	_
+8	ኧ	ኧ	_	_	3;PRO;MASC;SG	_	_	_	_
+9	ኣቸው	ኣቸው	_	_	3;PRO;MASC;SG	_	_	_	_
+10	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-third_apple_2-x27-s9
+# text = ጥይቱ መስታወቱን ሰባበረው ።
+# translit = ţəjətu mäsətawätunə säbabäräwə .
+1	ጥይት	ጥይት	_	_	N	_	_	_	_
+2	ኡ	ኡ	_	_	DET	_	_	_	_
+3	መስታወት	መስታወት	_	_	N	_	_	_	_
+4	ኡ	ኡ	_	_	DET	_	_	_	_
+5	ን	ን	_	_	PART	_	_	_	_
+6	ሰባበር	ሰባበር	_	_	V;RECP	_	_	_	_
+7	ኧ	ኧ	_	_	3;PRO;MASC;SG	_	_	_	_
+8	ው	ው	_	_	3;PRO;MASC;SG	_	_	_	_
+9	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-third_apple_2-x22-s8
+# text = ጉሮሮው እንደ መድረቅ ብሏል ።
+# translit = gurorowə 'ənədä mädəräqə bəlălə .
+1	ጉሮሮ	ጉሮሮ	_	_	N	_	_	_	_
+2	ው	ው	_	_	3;SG;PRO;MASC	_	_	_	_
+3	እንደ	እንደ	_	_	ADP	_	_	_	_
+4	መድረቅ	መድረቅ	_	_	V.MSDR;N	_	_	_	_
+5	ብል	ብል	_	_	V	_	_	_	_
+6	ኦ	ኦ	_	_	3;PRO;MASC;SG	_	_	_	_
+7	ኣል	ኣል	_	_	V	_	_	_	_
+8	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-third_apple_2-x26-s9
+# text = ሙቀት ስለበዛ በጣም ጠምቶኛል ።
+# translit = muqätə səläbäza bäţamə ţämətoňalə .
+1	ሙቀት	ሙቀት	_	_	N	_	_	_	_
+2	ስለ	ስለ	_	_	CONJ	_	_	_	_
+3	በዝ	በዝ	_	_	V	_	_	_	_
+4	ኣ	ኣ	_	_	SG;PRO;3;FEM	_	_	_	_
+5	በጣም	በጣም	_	_	NUM	_	_	_	_
+6	ጠምት	ጠምት	_	_	V	_	_	_	_
+7	ኦ	ኦ	_	_	3;PRO;MASC;SG	_	_	_	_
+8	ኝ	ኝ	_	_	1;PRO;SG	_	_	_	_
+9	ኣል	ኣል	_	_	V	_	_	_	_
+10	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-x14-s16
+# text = ልጁ ይምጣ አይምጣ አላውቅም ።
+# translit = lədžu jəməţa 'äjəməţa 'älawəqəmə .
+1	ልጅ	ልጅ	_	_	N	_	_	_	_
+2	ኡ	ኡ	_	_	DET	_	_	_	_
+3	ይ	ይ	_	_	3;PRO;MASC;SG	_	_	_	_
+4	ምጣ	ምጣ	_	_	V	_	_	_	_
+5	ኧ	ኧ	_	_	3;PRO;MASC;SG	_	_	_	_
+6	ኣል	ኣል	_	_	NEG;PART	_	_	_	_
+7	ይ	ይ	_	_	3;PRO;MASC;SG	_	_	_	_
+8	ምጣ	ምጣ	_	_	V	_	_	_	_
+9	አል	አል	_	_	NEG;PART	_	_	_	_
+10	ኣውቅ	ኣውቅ	_	_	V	_	_	_	_
+11	ም	ም	_	_	PART	_	_	_	_
+12	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-third_apple_2-x09-s13
+# text = ልብሱን አስጠበበው ።
+# translit = ləbəsunə 'äsəţäbäbäwə .
+1	ልብስ	ልብስ	_	_	N	_	_	_	_
+2	ኡ	ኡ	_	_	3;SG;PRO;MASC	_	_	_	_
+3	ን	ን	_	_	PART	_	_	_	_
+4	አስጠበብ	አስጠበብ	_	_	CAUS;V	_	_	_	_
+5	ኧ	ኧ	_	_	3;PRO;MASC;SG	_	_	_	_
+6	ው	ው	_	_	3;PRO;MASC;SG	_	_	_	_
+7	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-third_apple_2-x25-s5
+# text = ከሐኪሙ ጋር የነበረኝን ቀጠሮ ማፍረስ ግድ ሆነብኝ ።
+# translit = käħäkimu garə jänäbäräňənə qäţäro mafəräsə gədə honäbəňə .
+1	ከ	ከ	_	_	ADP	_	_	_	_
+2	ሐኪም	ሐኪም	_	_	N	_	_	_	_
+3	ኡ	ኡ	_	_	DET	_	_	_	_
+4	ጋር	ጋር	_	_	ADP	_	_	_	_
+5	የ	የ	_	_	ADP	_	_	_	_
+6	ነበር	ነበር	_	_	V	_	_	_	_
+7	ኧ	ኧ	_	_	3;PRO;MASC;SG	_	_	_	_
+8	ኝ	ኝ	_	_	1;PRO;SG	_	_	_	_
+9	ን	ን	_	_	PART	_	_	_	_
+10	ቀጠሮ	ቀጠሮ	_	_	N	_	_	_	_
+11	ማፍረስ	ማፍረስ	_	_	V.MSDR;N	_	_	_	_
+12	ግድ	ግድ	_	_	V	_	_	_	_
+13	ሆን	ሆን	_	_	V	_	_	_	_
+14	ኧ	ኧ	_	_	3;PRO;MASC;SG	_	_	_	_
+15	ብ	ብ	_	_	ADP	_	_	_	_
+16	ኝ	ኝ	_	_	1;PRO;SG	_	_	_	_
+17	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-x20-s1
+# text = እኔ እኮ ይህ ፈረስ ያንተ መስሎኝ ነበር ።
+# translit = 'əne 'əko jəhə färäsə janətä mäsəloňə näbärə .
+1	እኔ	እኔ	_	_	PRO	_	_	_	_
+2	እኮ	እኮ	_	_	INTJ	_	_	_	_
+3	ይህ	ይህ	_	_	DET	_	_	_	_
+4	ፈረስ	ፈረስ	_	_	N	_	_	_	_
+5	የ	የ	_	_	ADP	_	_	_	_
+6	ኣንተ	ኣንተ	_	_	PRO	_	_	_	_
+7	መስል	መስል	_	_	V;V.MSDR	_	_	_	_
+8	ኦ	ኦ	_	_	3;PRO;MASC;SG	_	_	_	_
+9	ኝ	ኝ	_	_	1;PRO;SG	_	_	_	_
+10	ነበር	ነበር	_	_	V	_	_	_	_
+11	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-x11-s10
+# text = ከባዱን ሳጥን አነሣለሁ ብዬ እጄን ወለም አለኝ ።
+# translit = käbadunə saţənə 'änäśalähu bəje 'ədženə wälämə 'äläňə .
+1	ከባድ	ከባድ	_	_	ADJ	_	_	_	_
+2	ኡ	ኡ	_	_	DET	_	_	_	_
+3	ን	ን	_	_	PART	_	_	_	_
+4	ሳጥን	ሳጥን	_	_	N	_	_	_	_
+5	አነሥ	አነሥ	_	_	V	_	_	_	_
+6	ኣል	ኣል	_	_	V	_	_	_	_
+7	ኧሁ	ኧሁ	_	_	1;PRO;SG	_	_	_	_
+8	ብል	ብል	_	_	V	_	_	_	_
+9	ኤ	ኤ	_	_	1;PRO;SG	_	_	_	_
+10	እጅ	እጅ	_	_	N	_	_	_	_
+11	ኤ	ኤ	_	_	1;PRO;SG	_	_	_	_
+12	ን	ን	_	_	PART	_	_	_	_
+13	ወለም	ወለም	_	_	V	_	_	_	_
+14	ኣለ	ኣለ	_	_	V	_	_	_	_
+15	ኝ	ኝ	_	_	1;PRO;SG	_	_	_	_
+16	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-x08-s3
+# text = አንዳንድ ዓሳዎች የሚበሉ ናቸው ።
+# translit = 'änədanədə `asawočə jämibälu načäwə .
+1	አንዳንድ	አንዳንድ	_	_	ADJ	_	_	_	_
+2	ዓሳዎች	ዓሳዎች	_	_	N;PL	_	_	_	_
+3	የ	የ	_	_	PART	_	_	_	_
+4	እም	እም	_	_	PART	_	_	_	_
+5	ይ	ይ	_	_	3;PRO;MASC;SG	_	_	_	_
+6	በል	በል	_	_	V	_	_	_	_
+7	ኡ	ኡ	_	_	PRO;3;PL	_	_	_	_
+8	ን	ን	_	_	V	_	_	_	_
+9	ኣቸው	ኣቸው	_	_	PRO;3;PL	_	_	_	_
+10	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-third_apple_2-x13-s8
+# text = ካሳ ንብረት ተረከበ ።
+# translit = kasa nəbərätə täräkäbä .
+1	ካሳ	ካሳ	_	_	PROPN	_	_	_	_
+2	ንብረት	ንብረት	_	_	N	_	_	_	_
+3	ተረከብ	ተረከብ	_	_	V;PASS	_	_	_	_
+4	ኧ	ኧ	_	_	3;PRO;MASC;SG	_	_	_	_
+5	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-Sleepwalking-Am_aux-s7
+# text = ቆሞ ተናገረ ።
+# translit = qomo tänagärä .
+1	ቆም	ቆም	_	_	V;V.CVB	_	_	_	_
+2	ኦ	ኦ	_	_	3;PRO;MASC;SG	_	_	_	_
+3	ተናግር	ተናግር	_	_	V;PASS	_	_	_	_
+4	ኧ	ኧ	_	_	3;PRO;MASC;SG	_	_	_	_
+5	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-x01-s7
+# text = ቤት ብትቆይ ይሻላል ወይስ ወደ ጨዋታው ብትሄድ ?
+# translit = betə bətəqojə jəšalalə wäjəsə wädä ćäwatawə bətəhedə ?
+1	ቤት	ቤት	_	_	N	_	_	_	_
+2	ብ	ብ	_	_	CONJ	_	_	_	_
+3	ት	ት	_	_	SG;PRO;3;FEM	_	_	_	_
+4	ቆይ	ቆይ	_	_	V	_	_	_	_
+5	ይ	ይ	_	_	3;PRO;MASC;SG	_	_	_	_
+6	ተሻል	ተሻል	_	_	V;PASS	_	_	_	_
+7	ኣል	ኣል	_	_	V	_	_	_	_
+8	ወይስ	ወይስ	_	_	CONJ	_	_	_	_
+9	ወደ	ወደ	_	_	ADP	_	_	_	_
+10	ጨዋታ	ጨዋታ	_	_	N	_	_	_	_
+11	ው	ው	_	_	DET	_	_	_	_
+12	ብ	ብ	_	_	CONJ	_	_	_	_
+13	ት	ት	_	_	SG;PRO;3;FEM	_	_	_	_
+14	ሄድ	ሄድ	_	_	V	_	_	_	_
+15	?	?	_	_	_	_	_	_	_
+
+# sent_id = data_UD-third_apple_2-x06-s9
+# text = እንደሚጠጣና እንደማይጠጣ ሚስጥር ነው ።
+# translit = 'ənədämiţäţana 'ənədämajəţäţa misəţərə näwə .
+1	እንደ	እንደ	_	_	ADP	_	_	_	_
+2	እም	እም	_	_	PART	_	_	_	_
+3	ይ	ይ	_	_	3;PRO;MASC;SG	_	_	_	_
+4	ተጠጣ	ተጠጣ	_	_	V	_	_	_	_
+5	ና	ና	_	_	CONJ	_	_	_	_
+6	እንደ	እንደ	_	_	ADP	_	_	_	_
+7	እም	እም	_	_	PART	_	_	_	_
+8	ኣል	ኣል	_	_	V	_	_	_	_
+9	ይ	ይ	_	_	3;PRO;MASC;SG	_	_	_	_
+10	ተጠጣ	ተጠጣ	_	_	V	_	_	_	_
+11	ሚስጥር	ሚስጥር	_	_	N	_	_	_	_
+12	ን	ን	_	_	V	_	_	_	_
+13	ኧው	ኧው	_	_	PRO;3;SG	_	_	_	_
+14	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-Sleepwalking-x04-s3
+# text = መንገድሽን ተከተለ ።
+# translit = mänəgädəšənə täkätälä .
+1	መንገድ	መንገድ	_	_	N	_	_	_	_
+2	ሽ	ሽ	_	_	SG;2;PRO;FEM	_	_	_	_
+3	ን	ን	_	_	PART	_	_	_	_
+4	ተከተል	ተከተል	_	_	V;PASS	_	_	_	_
+5	ኧ	ኧ	_	_	3;PRO;MASC;SG	_	_	_	_
+6	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-third_apple_2-x18-s20
+# text = ቁርሱን ዳቦ ይበላል ።
+# translit = qurəsunə dabo jəbälalə .
+1	ቁርስ	ቁርስ	_	_	N	_	_	_	_
+2	ኡ	ኡ	_	_	3;SG;PRO;MASC	_	_	_	_
+3	ን	ን	_	_	PART	_	_	_	_
+4	ዳቦ	ዳቦ	_	_	N	_	_	_	_
+5	ይ	ይ	_	_	3;PRO;MASC;SG	_	_	_	_
+6	በላ	በላ	_	_	V	_	_	_	_
+7	ኣል	ኣል	_	_	V	_	_	_	_
+8	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-third_apple_2-x26-s5
+# text = የራባት ትመስላለች ።
+# translit = järabatə təmäsəlaläčə .
+1	የ	የ	_	_	ADP	_	_	_	_
+2	ራብ	ራብ	_	_	V	_	_	_	_
+3	ኧ	ኧ	_	_	3;PRO;MASC;SG	_	_	_	_
+4	ኣት	ኣት	_	_	SG;PRO;3;FEM	_	_	_	_
+5	ት	ት	_	_	SG;PRO;3;FEM	_	_	_	_
+6	መስል	መስል	_	_	V	_	_	_	_
+7	ኣል	ኣል	_	_	V	_	_	_	_
+8	ኧች	ኧች	_	_	SG;PRO;3;FEM	_	_	_	_
+9	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-x14-s6
+# text = አስቴር ካሳ ከእናቱ ጋር ምሳ እንዳልበላ ታውቃለች ።
+# translit = 'äsəterə kasa kä'ənatu garə məsa 'ənədaləbäla tawəqaläčə .
+1	አስቴር	አስቴር	_	_	PROPN	_	_	_	_
+2	ካሳ	ካሳ	_	_	PROPN	_	_	_	_
+3	ከ	ከ	_	_	ADP	_	_	_	_
+4	እናት	እናት	_	_	N	_	_	_	_
+5	ኡ	ኡ	_	_	3;SG;PRO;MASC	_	_	_	_
+6	ጋር	ጋር	_	_	ADP	_	_	_	_
+7	ምሳ	ምሳ	_	_	N	_	_	_	_
+8	እንደ	እንደ	_	_	CONJ	_	_	_	_
+9	ኣል	ኣል	_	_	NEG;PART	_	_	_	_
+10	በላ	በላ	_	_	V	_	_	_	_
+11	ኧ	ኧ	_	_	3;PRO;MASC;SG	_	_	_	_
+12	ት	ት	_	_	3;PRO;MASC;SG	_	_	_	_
+13	ኣውቅ	ኣውቅ	_	_	V	_	_	_	_
+14	ኣል	ኣል	_	_	V	_	_	_	_
+15	ኧች	ኧች	_	_	SG;PRO;3;FEM	_	_	_	_
+16	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-x11-s16
+# text = ምክራችንን አልሰማ በማለቷ ባሏ ሌላ ሚስት አገባላት ።
+# translit = məkəračənənə 'äləsäma bämalätă bală lela misətə 'ägäbalatə .
+1	ምክር	ምክር	_	_	N	_	_	_	_
+2	ኣችን	ኣችን	_	_	PRO;PL;2	_	_	_	_
+3	ን	ን	_	_	PART	_	_	_	_
+4	አል	አል	_	_	NEG;PART	_	_	_	_
+5	ሰማ	ሰማ	_	_	V	_	_	_	_
+6	በ	በ	_	_	ADP	_	_	_	_
+7	ማለት	ማለት	_	_	V	_	_	_	_
+8	ዋ	ዋ	_	_	SG;PRO;3;FEM	_	_	_	_
+9	ባል	ባል	_	_	N	_	_	_	_
+10	ዋ	ዋ	_	_	3;SG;PRO;FEM	_	_	_	_
+11	ሌላ	ሌላ	_	_	ADJ	_	_	_	_
+12	ሚስት	ሚስት	_	_	N	_	_	_	_
+13	አገባ	አገባ	_	_	V	_	_	_	_
+14	ኧ	ኧ	_	_	3;PRO;MASC;SG	_	_	_	_
+15	ል	ል	_	_	ADP;BEN	_	_	_	_
+16	ኣት	ኣት	_	_	SG;PRO;3;FEM	_	_	_	_
+17	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-x09-s7
+# text = ፀሐዩ ቅቤውን በአልማዝ ላይ አስቀለጠው ።
+# translit = dzäħäju qəbewənə bä'äləmazə lajə 'äsəqäläţäwə .
+1	ፀሐይ	ፀሐይ	_	_	N	_	_	_	_
+2	ኡ	ኡ	_	_	DET	_	_	_	_
+3	ቅቤ	ቅቤ	_	_	N	_	_	_	_
+4	ው	ው	_	_	DET	_	_	_	_
+5	ን	ን	_	_	PART	_	_	_	_
+6	በ	በ	_	_	ADP	_	_	_	_
+7	አልማዝ	አልማዝ	_	_	PROPN	_	_	_	_
+8	ላይ	ላይ	_	_	ADP	_	_	_	_
+9	አስቀለጥ	አስቀለጥ	_	_	CAUS;V	_	_	_	_
+10	ኧ	ኧ	_	_	3;PRO;MASC;SG	_	_	_	_
+11	ው	ው	_	_	3;PRO;MASC;SG	_	_	_	_
+12	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-x08-s17
+# text = መኖሪያ~ቤቱ ታሸገበት ።
+# translit = mänorija~betu tašägäbätə .
+1	መኖሪያ~ቤት	መኖሪያ~ቤት	_	_	N	_	_	_	_
+2	ኡ	ኡ	_	_	3;SG;PRO;MASC	_	_	_	_
+3	ታሸግ	ታሸግ	_	_	V;PASS	_	_	_	_
+4	ኧ	ኧ	_	_	3;PRO;MASC;SG	_	_	_	_
+5	ብ	ብ	_	_	ADP	_	_	_	_
+6	ኧት	ኧት	_	_	3;PRO;MASC;SG	_	_	_	_
+7	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-Sleepwalking-Am_aux-s4
+# text = አለቀሰ ።
+# translit = 'äläqäsä .
+1	አለቀስ	አለቀስ	_	_	V	_	_	_	_
+2	ኧ	ኧ	_	_	3;PRO;MASC;SG	_	_	_	_
+3	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-x11-s17
+# text = ፖሊሱ አላሳልፍም አለን ።
+# translit = polisu 'älasaləfəmə 'älänə .
+1	ፖሊሱ	ፖሊሱ	_	_	N	_	_	_	_
+2	አል	አል	_	_	NEG;PART	_	_	_	_
+3	ኣሳልፍ	ኣሳልፍ	_	_	V	_	_	_	_
+4	ም	ም	_	_	PART	_	_	_	_
+5	ኣል	ኣል	_	_	V	_	_	_	_
+6	ኧ	ኧ	_	_	3;PRO;MASC;SG	_	_	_	_
+7	ን	ን	_	_	1;PRO;PL	_	_	_	_
+8	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-third_apple_2-x05-s1
+# text = አስተማሪው መፅሐፉን ያዘ ።
+# translit = 'äsətämariwə mädzəħäfunə jazä .
+1	አስተማሪ	አስተማሪ	_	_	N	_	_	_	_
+2	ው	ው	_	_	DET	_	_	_	_
+3	መፅሐፍ	መፅሐፍ	_	_	N	_	_	_	_
+4	ኡ	ኡ	_	_	DET	_	_	_	_
+5	ን	ን	_	_	PART	_	_	_	_
+6	ያዝ	ያዝ	_	_	V	_	_	_	_
+7	ኧ	ኧ	_	_	3;PRO;MASC;SG	_	_	_	_
+8	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-third_apple_2-x02-s18
+# text = ድንጋዩ ለሰለሰ ።
+# translit = dənəgaju läsäläsä .
+1	ድንጋይ	ድንጋይ	_	_	N	_	_	_	_
+2	ኡ	ኡ	_	_	DET	_	_	_	_
+3	ለሰለስ	ለሰለስ	_	_	V	_	_	_	_
+4	ኧ	ኧ	_	_	3;PRO;MASC;SG	_	_	_	_
+5	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-Sleepwalking-Am_aux-s1
+# text = ካሳ አስተማሪ ነው ።
+# translit = kasa 'äsətämari näwə .
+1	ካሳ	ካሳ	_	_	PROPN	_	_	_	_
+2	አስተማሪ	አስተማሪ	_	_	N	_	_	_	_
+3	ን	ን	_	_	V	_	_	_	_
+4	ኧው	ኧው	_	_	3;PRO;MASC;SG	_	_	_	_
+5	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-x01-s10
+# text = ነገ ይዘንባል ? ባልዘነበ ።
+# translit = nägä jəzänəbalə ? baləzänäbä .
+1	ነገ	ነገ	_	_	ADV	_	_	_	_
+2	ይ	ይ	_	_	3;PRO;MASC;SG	_	_	_	_
+3	ዘንብ	ዘንብ	_	_	V	_	_	_	_
+4	ኣል	ኣል	_	_	V	_	_	_	_
+5	?	?	_	_	_	_	_	_	_
+6	ብ	ብ	_	_	CONJ	_	_	_	_
+7	ኣል	ኣል	_	_	NEG;PART	_	_	_	_
+8	ዘነበ	ዘነበ	_	_	V	_	_	_	_
+9	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-third_apple_2-x03-s9
+# text = ቀኑ ጀመረ ።
+# translit = qänu džämärä .
+1	ቀን	ቀን	_	_	N	_	_	_	_
+2	ኡ	ኡ	_	_	DET	_	_	_	_
+3	ጀመር	ጀመር	_	_	V	_	_	_	_
+4	ኧ	ኧ	_	_	3;PRO;MASC;SG	_	_	_	_
+5	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-third_apple_2-x15-s7
+# text = ተው !
+# translit = täwə !
+1	ተው	ተው	_	_	V	_	_	_	_
+2	!	!	_	_	_	_	_	_	_
+
+# sent_id = data_UD-third_apple_2-x04-s5
+# text = አልማዝ አይጥ አየች ።
+# translit = 'äləmazə 'äjəţə 'äjäčə .
+1	አልማዝ	አልማዝ	_	_	PROPN	_	_	_	_
+2	አይጥ	አይጥ	_	_	N	_	_	_	_
+3	አይ	አይ	_	_	V	_	_	_	_
+4	ኧች	ኧች	_	_	SG;PRO;3;FEM	_	_	_	_
+5	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-third_apple_2-x29-s11
+# text = ቤቱን አስጠበቀ ።
+# translit = betunə 'äsəţäbäqä .
+1	ቤት	ቤት	_	_	N	_	_	_	_
+2	ኡ	ኡ	_	_	3;SG;PRO;MASC	_	_	_	_
+3	ን	ን	_	_	PART	_	_	_	_
+4	አስጠበቅ	አስጠበቅ	_	_	CAUS;V	_	_	_	_
+5	ኧ	ኧ	_	_	3;PRO;MASC;SG	_	_	_	_
+6	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-third_apple_2-x12-s21
+# text = ሴቶቹ ሰካራም ሆኑ ።
+# translit = setoču säkaramə honu .
+1	ሴቶች	ሴቶች	_	_	N;PL	_	_	_	_
+2	ኡ	ኡ	_	_	DET	_	_	_	_
+3	ሰካራም	ሰካራም	_	_	ADJ	_	_	_	_
+4	ሆን	ሆን	_	_	V	_	_	_	_
+5	ኡ	ኡ	_	_	PRO;3;PL	_	_	_	_
+6	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-x09-s20
+# text = ጠጅ አስቀመስኩት ።
+# translit = ţädžə 'äsəqämäsəkutə .
+1	ጠጅ	ጠጅ	_	_	N	_	_	_	_
+2	አስቀመስ	አስቀመስ	_	_	CAUS;V	_	_	_	_
+3	ኩ	ኩ	_	_	1;PRO;SG	_	_	_	_
+4	ት	ት	_	_	3;PRO;MASC;SG	_	_	_	_
+5	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-x15-s16
+# text = እስኪ መታወቂያ ወረቀትህን አሳየኝ ?
+# translit = 'əsəki mätawäqija wäräqätəhənə 'äsajäňə ?
+1	እስኪ	እስኪ	_	_	INTJ	_	_	_	_
+2	መታወቂያ	መታወቂያ	_	_	N	_	_	_	_
+3	ወረቀት	ወረቀት	_	_	N	_	_	_	_
+4	ህ	ህ	_	_	SG;2;PRO;MASC	_	_	_	_
+5	ን	ን	_	_	PART	_	_	_	_
+6	አሳይ	አሳይ	_	_	V;IMP	_	_	_	_
+7	ኧ	ኧ	_	_	3;PRO;MASC;SG	_	_	_	_
+8	ኝ	ኝ	_	_	1;PRO;SG	_	_	_	_
+9	?	?	_	_	_	_	_	_	_
+
+# sent_id = data_UD-third_apple_2-x01-s5
+# text = የኢኮኖሚው ውድቀት የማይቀር ነው እንበል ።
+# translit = jä'ikonomiwə wədəqätə jämajəqärə näwə 'ənəbälə .
+1	የ	የ	_	_	ADP	_	_	_	_
+2	ኢኮኖሚ	ኢኮኖሚ	_	_	N	_	_	_	_
+3	ው	ው	_	_	DET	_	_	_	_
+4	ውድቀት	ውድቀት	_	_	N	_	_	_	_
+5	የ	የ	_	_	PART	_	_	_	_
+6	እም	እም	_	_	PART	_	_	_	_
+7	ኣል	ኣል	_	_	NEG;PART	_	_	_	_
+8	ይ	ይ	_	_	3;PRO;MASC;SG	_	_	_	_
+9	ቀር	ቀር	_	_	V	_	_	_	_
+10	ን	ን	_	_	V	_	_	_	_
+11	ኧው	ኧው	_	_	PRO;3;SG	_	_	_	_
+12	እን	እን	_	_	1;PRO;PL	_	_	_	_
+13	በል	በል	_	_	V	_	_	_	_
+14	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-Sleepwalking-26-s20
+# text = የደከሙት አይኖቹ ብዙ አያስነብቡትም ።
+# translit = jädäkämutə 'äjənoču bəzu 'äjasənäbəbutəmə .
+1	የ	የ	_	_	PART	_	_	_	_
+2	ደከም	ደከም	_	_	V	_	_	_	_
+3	ኡ	ኡ	_	_	PRO;3;PL	_	_	_	_
+4	ት	ት	_	_	3;PRO;MASC;SG	_	_	_	_
+5	አይኖች	አይኖች	_	_	N;PL	_	_	_	_
+6	ኡ	ኡ	_	_	3;SG;PRO;MASC	_	_	_	_
+7	ብዙ	ብዙ	_	_	ADV	_	_	_	_
+8	ኣል	ኣል	_	_	NEG;PART	_	_	_	_
+9	ይ	ይ	_	_	3;PRO;MASC;SG	_	_	_	_
+10	ኣስነብ	ኣስነብ	_	_	CAUS;V	_	_	_	_
+11	ኡ	ኡ	_	_	PRO;3;PL	_	_	_	_
+12	ት	ት	_	_	3;PRO;MASC;SG	_	_	_	_
+13	ም	ም	_	_	PART	_	_	_	_
+14	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-third_apple_2-x02-s16
+# text = ቡናው ፈላ ።
+# translit = bunawə fäla .
+1	ቡና	ቡና	_	_	N	_	_	_	_
+2	ው	ው	_	_	DET	_	_	_	_
+3	ፈል	ፈል	_	_	V	_	_	_	_
+4	ኣ	ኣ	_	_	SG;PRO;3;FEM	_	_	_	_
+5	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-third_apple_2-x03-s1
+# text = ካሳ ትናንት በድንገት በመኪና ወደ ጎንደር ሄደ ።
+# translit = kasa tənanətə bädənəgätə bämäkina wädä gonədärə hedä .
+1	ካሳ	ካሳ	_	_	PROPN	_	_	_	_
+2	ትናንት	ትናንት	_	_	ADV	_	_	_	_
+3	በ	በ	_	_	ADP	_	_	_	_
+4	ድንገት	ድንገት	_	_	N	_	_	_	_
+5	በ	በ	_	_	ADP	_	_	_	_
+6	መኪና	መኪና	_	_	N	_	_	_	_
+7	ወደ	ወደ	_	_	ADP	_	_	_	_
+8	ጎንደር	ጎንደር	_	_	N	_	_	_	_
+9	ሄድ	ሄድ	_	_	V	_	_	_	_
+10	ኧ	ኧ	_	_	3;PRO;MASC;SG	_	_	_	_
+11	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-third_apple_2-x25-s3
+# text = ድል የተመታው ጦር መሣሪያውን ማስረከብ ነበረበት ።
+# translit = dələ jätämätawə ţorə mäśarijawənə masəräkäbə näbäräbätə .
+1	ድል	ድል	_	_	N	_	_	_	_
+2	የ	የ	_	_	PART	_	_	_	_
+3	ተመታ	ተመታ	_	_	V;PASS	_	_	_	_
+4	ኧ	ኧ	_	_	3;PRO;MASC;SG	_	_	_	_
+5	ው	ው	_	_	3;PRO;MASC;SG	_	_	_	_
+6	ጦር	ጦር	_	_	N	_	_	_	_
+7	መሣሪያ	መሣሪያ	_	_	N	_	_	_	_
+8	ው	ው	_	_	DET	_	_	_	_
+9	ን	ን	_	_	PART	_	_	_	_
+10	ማስረከብ	ማስረከብ	_	_	V.MSDR;N	_	_	_	_
+11	ነበር	ነበር	_	_	V	_	_	_	_
+12	ኧ	ኧ	_	_	3;PRO;MASC;SG	_	_	_	_
+13	ብ	ብ	_	_	ADP	_	_	_	_
+14	ኧት	ኧት	_	_	3;PRO;MASC;SG	_	_	_	_
+15	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-x15-s13
+# text = እንጨት ትስበር !
+# translit = 'ənəćätə təsəbärə !
+1	እንጨት	እንጨት	_	_	N	_	_	_	_
+2	ት	ት	_	_	3;PRO;MASC;SG	_	_	_	_
+3	ስበር	ስበር	_	_	V;IMP	_	_	_	_
+4	!	!	_	_	_	_	_	_	_
+
+# sent_id = data_UD-x07-s9
+# text = ተጠማች ።
+# translit = täţämačə .
+1	ተጠም	ተጠም	_	_	V;PASS	_	_	_	_
+2	ኣች	ኣች	_	_	SG;PRO;3;FEM	_	_	_	_
+3	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-third_apple_2-x28-s7
+# text = ወሬው ተደፋፈነ ።
+# translit = wärewə tädäfafänä .
+1	ወሬ	ወሬ	_	_	N	_	_	_	_
+2	ው	ው	_	_	DET	_	_	_	_
+3	ተደፋፈን	ተደፋፈን	_	_	V;PASS	_	_	_	_
+4	ኧ	ኧ	_	_	3;PRO;MASC;SG	_	_	_	_
+5	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-x07-s7
+# text = አምና ጎበዝ ነበር ።
+# translit = 'äməna gobäzə näbärə .
+1	አምና	አምና	_	_	ADV	_	_	_	_
+2	ጎበዝ	ጎበዝ	_	_	ADJ	_	_	_	_
+3	ነበር	ነበር	_	_	V	_	_	_	_
+4	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-x08-s20
+# text = እቃው ተሰረቀበት ።
+# translit = 'əqawə täsäräqäbätə .
+1	እቃ	እቃ	_	_	N	_	_	_	_
+2	ው	ው	_	_	DET	_	_	_	_
+3	ተሰረቅ	ተሰረቅ	_	_	V;PASS	_	_	_	_
+4	ኧ	ኧ	_	_	3;PRO;MASC;SG	_	_	_	_
+5	ብ	ብ	_	_	ADP	_	_	_	_
+6	ኧት	ኧት	_	_	3;PRO;MASC;SG	_	_	_	_
+7	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-third_apple_2-x23-s15
+# text = ዋጋውን ካልቀነስክ እቃውን አልገዛህም ።
+# translit = wagawənə kaləqänäsəkə 'əqawənə 'äləgäzahəmə .
+1	ዋጋ	ዋጋ	_	_	N	_	_	_	_
+2	ው	ው	_	_	DET	_	_	_	_
+3	ን	ን	_	_	PART	_	_	_	_
+4	ከ	ከ	_	_	ADP	_	_	_	_
+5	ኣል	ኣል	_	_	NEG;PART	_	_	_	_
+6	ቀነስ	ቀነስ	_	_	V	_	_	_	_
+7	ክ	ክ	_	_	PRO;MASC;SG;2	_	_	_	_
+8	እቃ	እቃ	_	_	N	_	_	_	_
+9	ው	ው	_	_	DET	_	_	_	_
+10	ን	ን	_	_	PART	_	_	_	_
+11	ኣል	ኣል	_	_	NEG;PART	_	_	_	_
+12	እ	እ	_	_	1;PRO;SG	_	_	_	_
+13	ገዛ	ገዛ	_	_	V	_	_	_	_
+14	ህ	ህ	_	_	1;PRO;MASC;SG	_	_	_	_
+15	ም	ም	_	_	PART	_	_	_	_
+16	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-x02-s19
+# text = ሁላችንም አልመጣንም ።
+# translit = hulačənəmə 'äləmäţanəmə .
+1	ሁል	ሁል	_	_	N	_	_	_	_
+2	ኣችን	ኣችን	_	_	PRO;PL;2	_	_	_	_
+3	ም	ም	_	_	CONJ	_	_	_	_
+4	ኣል	ኣል	_	_	NEG;PART	_	_	_	_
+5	መጥ	መጥ	_	_	V	_	_	_	_
+6	ኣን	ኣን	_	_	1;PRO;PL	_	_	_	_
+7	ም	ም	_	_	PART	_	_	_	_
+8	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-third_apple_2-x13-s10
+# text = አስተማሪው ለተማሪዎች መፅሀፍ ሰጣቸው ።
+# translit = 'äsətämariwə lätämariwočə mädzəhäfə säţačäwə .
+1	አስተማሪ	አስተማሪ	_	_	N	_	_	_	_
+2	ው	ው	_	_	DET	_	_	_	_
+3	ለ	ለ	_	_	ADP	_	_	_	_
+4	ተማሪዎች	ተማሪዎች	_	_	N	_	_	_	_
+5	መፅሀፍ	መፅሀፍ	_	_	N	_	_	_	_
+6	ሰጥ	ሰጥ	_	_	V	_	_	_	_
+7	ኧ	ኧ	_	_	3;PRO;MASC;SG	_	_	_	_
+8	ኣቸው	ኣቸው	_	_	NEUT;PRO;3;PL	_	_	_	_
+9	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-third_apple_2-x02-s19
+# text = ወቀሰችው ።
+# translit = wäqäsäčəwə .
+1	ወቀስ	ወቀስ	_	_	V	_	_	_	_
+2	ኧች	ኧች	_	_	SG;PRO;3;FEM	_	_	_	_
+3	ው	ው	_	_	3;PRO;MASC;SG	_	_	_	_
+4	።	።	_	_	_	_	_	_	_
+
+# sent_id = data_UD-third_apple_2-x02-s20
+# text = ካሳ በድንገት ወደ ጎንደር ሄደ ።
+# translit = kasa bädənəgätə wädä gonədärə hedä .
+1	ካሳ	ካሳ	_	_	PROPN	_	_	_	_
+2	በ	በ	_	_	ADP	_	_	_	_
+3	ድንገት	ድንገት	_	_	N	_	_	_	_
+4	ወደ	ወደ	_	_	ADP	_	_	_	_
+5	ጎንደር	ጎንደር	_	_	PROPN	_	_	_	_
+6	ሄድ	ሄድ	_	_	V	_	_	_	_
+7	ኧ	ኧ	_	_	3;PRO;MASC;SG	_	_	_	_
+8	።	።	_	_	_	_	_	_	_
+

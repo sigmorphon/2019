@@ -1,0 +1,1432 @@
+# sent_id = oab.vislcg.txt:165:4387
+# text = Evit tizhout ar pal-se e tleer suraat hag aesaat labour ar wazourien.
+# text[fra] = Pour atteindre cet objectif, il est nécessaire d'améliorer le niveau de sécurité et de confort des agents.
+# labels = to_check opab_parallel
+1	Evit	evit	_	_	ADP	_	_	_	_
+2	tizhout	tizhout	_	_	NFIN;V	_	_	_	_
+3	ar	an	_	_	DET	_	_	_	_
+4	pal	pal	_	_	N;MASC;SG	_	_	_	_
+5	-se	se	_	_	ADV	_	_	_	_
+6	e	e	_	_	PART	_	_	_	_
+7	tleer	dleout	_	_	IND;FIN;PRS;V	_	_	_	_
+8	suraat	suraat	_	_	NFIN;V	_	_	_	_
+9	hag	ha	_	_	CONJ	_	_	_	_
+10	aesaat	aesaat	_	_	NFIN;V	_	_	_	_
+11	labour	labour	_	_	N;MASC;SG	_	_	_	_
+12	ar	an	_	_	DET	_	_	_	_
+13	wazourien	gwazour	_	_	N;MASC;PL	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = oab.vislcg.txt:79:2239
+# text = Eilañ war-du
+# text[fra] = Copier vers
+# labels = to_check opab_parallel
+1	Eilañ	eilañ	_	_	NFIN;V	_	_	_	_
+2	war-du	war-zu	_	_	ADV	_	_	_	_
+
+# sent_id = grammar.vislcg.txt:72:1410
+# text = Pelec'h emañ ar vugale?
+# text[eng] = Where are the children?
+# labels = stephens_1993 to_check
+1	Pelec'h	pelec’h	_	_	ADV	_	_	_	_
+2	emañ	bezañ	_	_	SG;IND;FIN;PRS;3;V	_	_	_	_
+3	ar	an	_	_	DET	_	_	_	_
+4	vugale	bugel	_	_	N;MASC;PL	_	_	_	_
+5	?	?	_	_	_	_	_	_	_
+
+# sent_id = oab.vislcg.txt:72:2058
+# text = Àr tachenn ar sevenadur
+# text[fra] = Dans le domaine culturel
+# labels = to_check opab_parallel
+1	Àr	àr	_	_	ADP	_	_	_	_
+2	tachenn	tachenn	_	_	N;SG;FEM	_	_	_	_
+3	ar	an	_	_	DET	_	_	_	_
+4	sevenadur	sevenadur	_	_	N;MASC;SG	_	_	_	_
+
+# sent_id = grammar.vislcg.txt:121:2279
+# text = Gwelout a ran al loar.
+# text[eng] = I see the moon.
+# labels = press_1986 ch_morphology to_check
+1	Gwelout	gwelout	_	_	NFIN;V	_	_	_	_
+2	a	a	_	_	PART	_	_	_	_
+3	ran	ober	_	_	SG;IND;FIN;PRS;1;V	_	_	_	_
+4	al	an	_	_	DET	_	_	_	_
+5	loar	loar	_	_	N;SG;FEM	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = oab.vislcg.txt:176:4859
+# text = un aod traezh munut !
+# text[fra] = plage de sable fin !
+# labels = to_check opab_parallel
+1	un	un	_	_	DET	_	_	_	_
+2	aod	aod	_	_	N;MASC;SG	_	_	_	_
+3	traezh	traezh	_	_	N;MASC;SG	_	_	_	_
+4	munut	munut	_	_	ADJ	_	_	_	_
+5	!	!	_	_	_	_	_	_	_
+
+# sent_id = bremaik.vislcg.txt:205:7024
+# text = War tachenn Kerampuilh e vo graet evel boaz.
+# text[fra¹] = Sur le terrain de Kerampuilh sera fait comme habitude.
+# labels = to_check
+1	War	war	_	_	ADP	_	_	_	_
+2	tachenn	tachenn	_	_	N;SG;FEM	_	_	_	_
+3	Kerampuilh	Kerampuilh	_	_	PROPN;SG	_	_	_	_
+4	e	e	_	_	PART	_	_	_	_
+5	vo	bezañ	_	_	SG;IND;FUT;FIN;3;V	_	_	_	_
+6	graet	ober	_	_	PST;V.PTCP;V	_	_	_	_
+7	evel	evel	_	_	ADP	_	_	_	_
+8	boaz	boaz	_	_	N;MASC;SG	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = grammar.vislcg.txt:45:907
+# text = Bremañ e welan he deus lennet Lenaig al levr.
+# text[eng] = I see now that Lenaig has read the book.
+# labels = stephens_1993 to_check
+1	Bremañ	bremañ	_	_	ADV	_	_	_	_
+2	e	e	_	_	PART	_	_	_	_
+3	welan	gwelout	_	_	SG;IND;FIN;PRS;1;V	_	_	_	_
+4	he deus	kaout	_	_	SG;IND;FIN;FEM;PRS;3;V	_	_	_	_
+5	lennet	lenn	_	_	PST;V.PTCP;V	_	_	_	_
+6	Lenaig	Lenaig	_	_	SG;PROPN;FEM	_	_	_	_
+7	al	an	_	_	DET	_	_	_	_
+8	levr	levr	_	_	N;MASC;SG	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = grammar.vislcg.txt:107:2052
+# text = Me az kwel.
+# text[eng] = I see you.
+# labels = press_1986 ch_morphology to_check
+1	Me	prpers	_	_	PRO;1;SG;NOM	_	_	_	_
+2	az	direct	_	_	PRO;SG;2;ACC	_	_	_	_
+3	kwel	gwelout	_	_	SG;IND;FIN;PRS;3;V	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = oab.vislcg.txt:164:4363
+# text = En holl lec'hioù e c'hall mont an dud nammet.
+# text[fra] = L’ensemble des espaces est accessible aux personnes à mobilité réduite
+# labels = to_check opab_parallel
+1	En	e	_	_	ADP	_	_	_	_
+2	holl	holl	_	_	DET	_	_	_	_
+3	lec'hioù	lec’h	_	_	N;MASC;PL	_	_	_	_
+4	e	e	_	_	PART	_	_	_	_
+5	c'hall	gallout	_	_	SG;IND;FIN;PRS;3;V	_	_	_	_
+6	mont	mont	_	_	NFIN;V	_	_	_	_
+7	an	an	_	_	DET	_	_	_	_
+8	dud	den	_	_	N;MASC;PL	_	_	_	_
+9	nammet	nammet	_	_	ADJ	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:100:3286
+# text = Feal e chomas Nevenoe da Loeiz betek marv an impalaer e 840, met ne oa ket evit anavezout beli e vab pa n'en doa ket touet chom feal dezhañ.
+# text[fra¹] = Nominoe resta fidèle à Loeiz jusque la morte de l'empereur en 840, mais il n'étaient pas pour connaître le pouvoir de son fils quand il n'avait pas juré rester fidèle à lui.
+# labels = to_check
+1	Feal	feal	_	_	ADJ	_	_	_	_
+2	e	e	_	_	PART	_	_	_	_
+3	chomas	chom	_	_	SG;FIN;PST;3;V	_	_	_	_
+4	Nevenoe	Nevenoe	_	_	PROPN;MASC;SG	_	_	_	_
+5	da	da	_	_	ADP	_	_	_	_
+6	Loeiz	Loeiz	_	_	PROPN;MASC;SG	_	_	_	_
+7	betek	betek	_	_	ADP	_	_	_	_
+8	marv	marv	_	_	N;MASC;SG	_	_	_	_
+9	an	an	_	_	DET	_	_	_	_
+10	impalaer	impalaer	_	_	N;MASC;SG	_	_	_	_
+11	e	e	_	_	ADP	_	_	_	_
+12	840	840	_	_	NUM;PL	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	met	met	_	_	CONJ	_	_	_	_
+15	ne	ne	_	_	ADV;NEG	_	_	_	_
+16	oa	bezañ	_	_	SG;IND;FIN;PST;3;V	_	_	_	_
+17	ket	ket	_	_	ADV	_	_	_	_
+18	evit	evit	_	_	ADP	_	_	_	_
+19	anavezout	anavezout	_	_	NFIN;V	_	_	_	_
+20	beli	beli	_	_	N;SG;FEM	_	_	_	_
+21	e	e	_	_	PSS;DET	_	_	_	_
+22	vab	mab	_	_	N;MASC;SG	_	_	_	_
+23	pa	pa	_	_	CONJ	_	_	_	_
+24	n'	ne	_	_	ADV;NEG	_	_	_	_
+25	en doa	kaout	_	_	SG;IND;FIN;PST;3;V;MASC	_	_	_	_
+26	ket	ket	_	_	ADV	_	_	_	_
+27	touet	touiñ	_	_	PST;V.PTCP;V	_	_	_	_
+28	chom	chom	_	_	NFIN;V	_	_	_	_
+29	feal	feal	_	_	ADJ	_	_	_	_
+30	dezhañ	da	_	_	ADP	_	_	_	_
+31	_	indirect	_	_	PRO;SG;ACC;3;MASC	_	_	_	_
+32	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:35:1035
+# text = Melestradurezh c’hall ar Renadur kozh a anaveze Breizh da vroad.
+# text[fra¹] = L'administration française du Régime vieille Elle connaissait la Bretagne à nation.
+# labels = to_check
+1	Melestradurezh	melestradurezh	_	_	N;SG;FEM	_	_	_	_
+2	c’hall	gall	_	_	ADJ	_	_	_	_
+3	ar	an	_	_	DET	_	_	_	_
+4	Renadur	renadur	_	_	N;MASC;SG	_	_	_	_
+5	kozh	kozh	_	_	ADJ	_	_	_	_
+6	a	a	_	_	PART	_	_	_	_
+7	anaveze	anavezout	_	_	SG;IND;FIN;PST;3;V	_	_	_	_
+8	Breizh	Breizh	_	_	PROPN;SG	_	_	_	_
+9	da	da	_	_	ADP	_	_	_	_
+10	vroad	broad	_	_	N;SG;FEM	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = bremaik.vislcg.txt:25:621
+# text = Un nebeud diaesterioù a c'hellfe c'hoarvezout en ho puhez kalon pe en ho labour.
+# text[fra¹] = Un peu de difficultés pourrait arriver dans votre vie de coeur quel dans votre travail.
+# labels = to_check
+1	Un	un	_	_	DET	_	_	_	_
+2	nebeud	nebeud	_	_	N;MASC;SG	_	_	_	_
+3	diaesterioù	diaester	_	_	N;MASC;PL	_	_	_	_
+4	a	a	_	_	PART	_	_	_	_
+5	c'hellfe	gellout	_	_	3;COND;V;SG	_	_	_	_
+6	c'hoarvezout	c’hoarvezout	_	_	NFIN;V	_	_	_	_
+7	en	e	_	_	ADP	_	_	_	_
+8	ho	ho	_	_	DET	_	_	_	_
+9	puhez	buhez	_	_	N;SG;FEM	_	_	_	_
+10	kalon	kalon	_	_	N;SG;FEM	_	_	_	_
+11	pe	pe	_	_	CONJ	_	_	_	_
+12	en	e	_	_	ADP	_	_	_	_
+13	ho	ho	_	_	DET	_	_	_	_
+14	labour	labour	_	_	N;MASC;SG	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = bremaik.vislcg.txt:110:3693
+# text = Disklêriet en deus Kristian Troadeg, maer Karaez ha prezidant kuzul-verañ an ospital, e oa ret derc'hel gant ar stourm.
+# text[fra¹] = Kristian Troadec, le maire de Carhaix et le président de conseil-gérer l'hôpital, a déclaré qu'il était nécessaire tenir avec le combat.
+# labels = to_check
+1	Disklêriet	disklêriañ	_	_	PST;V.PTCP;V	_	_	_	_
+2	en deus	kaout	_	_	SG;IND;FIN;PRS;3;V;MASC	_	_	_	_
+3	Kristian	Kristian	_	_	PROPN;MASC;SG	_	_	_	_
+4	Troadeg	Troadeg	_	_	PROPN;SG	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	maer	maer	_	_	N;MASC;SG	_	_	_	_
+7	Karaez	Karaez	_	_	PROPN;SG	_	_	_	_
+8	ha	ha	_	_	CONJ	_	_	_	_
+9	prezidant	prezidant	_	_	N;MASC;SG	_	_	_	_
+10	kuzul	kuzul	_	_	N;MASC;SG	_	_	_	_
+11	-	-	_	_	_	_	_	_	_
+12	verañ	merañ	_	_	N;MASC;SG	_	_	_	_
+13	an	an	_	_	DET	_	_	_	_
+14	ospital	ospital	_	_	N;SG;FEM	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	e	e	_	_	PART	_	_	_	_
+17	oa	bezañ	_	_	SG;IND;FIN;PST;3;V	_	_	_	_
+18	ret	ret	_	_	ADJ	_	_	_	_
+19	derc'hel	derc’hel	_	_	NFIN;V	_	_	_	_
+20	gant	gant	_	_	ADP	_	_	_	_
+21	ar	an	_	_	DET	_	_	_	_
+22	stourm	stourm	_	_	N;MASC;SG	_	_	_	_
+23	.	.	_	_	_	_	_	_	_
+
+# sent_id = bremaik.vislcg.txt:81:2535
+# text = War an tele e tremen abred-tre d'ar Sadorn neuze, e-tro 7 eur.
+# text[fra¹] = Sur la télé dans passage très tôt le samedi alors, autour de 7 heures.
+# labels = to_check
+1	War	war	_	_	ADP	_	_	_	_
+2	an	an	_	_	DET	_	_	_	_
+3	tele	tele	_	_	N;MASC;SG	_	_	_	_
+4	e	e	_	_	PART	_	_	_	_
+5	tremen	tremen	_	_	SG;IND;FIN;PRS;3;V	_	_	_	_
+6	abred-tre	abred	_	_	ADJ	_	_	_	_
+7	-tre	tre	_	_	ADV	_	_	_	_
+8	d	da	_	_	ADP	_	_	_	_
+9	ar	an	_	_	DET	_	_	_	_
+10	Sadorn	Sadorn	_	_	N;MASC	_	_	_	_
+11	neuze	neuze	_	_	ADV	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	e-tro	e-tro	_	_	ADP	_	_	_	_
+14	7	7	_	_	NUM;PL	_	_	_	_
+15	eur	eur	_	_	N;SG;FEM	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = bremaik.vislcg.txt:154:5319
+# text = Kaset eo skipailh ICARUS II en egor da gas ur vombezenn nukleel en Heol evit ma c'hanfe ur steredenn nevez diwarnañ.
+# text[fra¹] = Il a envoyé l'équipe d'ICARUS II dans l'espace à envoyer une bombe nucléaire dans le Soleil pour que chanterait une nouvelle étoile de lui.
+# labels = to_check
+1	Kaset	kas	_	_	PST;V.PTCP;V	_	_	_	_
+2	eo	bezañ	_	_	SG;IND;FIN;PRS;3;V	_	_	_	_
+3	skipailh	skipailh	_	_	N;MASC;SG	_	_	_	_
+4	ICARUS	ICARUS	_	_	N;MASC;SG	_	_	_	_
+5	II	II	_	_	N;MASC;SG	_	_	_	_
+6	en	e	_	_	ADP	_	_	_	_
+7	n	an	_	_	DET	_	_	_	_
+8	egor	egor	_	_	N;MASC;SG	_	_	_	_
+9	da	da	_	_	ADP	_	_	_	_
+10	gas	kas	_	_	NFIN;V	_	_	_	_
+11	ur	un	_	_	DET	_	_	_	_
+12	vombezenn	bombezenn	_	_	N;SG;FEM	_	_	_	_
+13	nukleel	nukleel	_	_	ADJ	_	_	_	_
+14	en	e	_	_	ADP	_	_	_	_
+15	n	an	_	_	DET	_	_	_	_
+16	Heol	heol	_	_	N;MASC;SG	_	_	_	_
+17	evit	evit	_	_	_	_	_	_	_
+18	ma	ma	_	_	CONJ	_	_	_	_
+19	c'hanfe	genel	_	_	3;COND;V;SG	_	_	_	_
+20	ur	un	_	_	DET	_	_	_	_
+21	steredenn	steredenn	_	_	N;SG;FEM	_	_	_	_
+22	nevez	nevez	_	_	ADJ	_	_	_	_
+23	diwarnañ	diwar	_	_	ADP	_	_	_	_
+24	nañ	indirect	_	_	PRO;SG;ACC;3;MASC	_	_	_	_
+25	.	.	_	_	_	_	_	_	_
+
+# sent_id = bremaik.vislcg.txt:116:3986
+# text = Displegañ a reer en diskouezadeg diaesterioù teknikel al luc'hskeudennerien hag o freder arzel ivez.
+# text[fra¹] = On déplie dans l'exposition de difficultés techniques les photographes et leur réflexion artistique aussi.
+# labels = to_check
+1	Displegañ	displegañ	_	_	NFIN;V	_	_	_	_
+2	a	a	_	_	PART	_	_	_	_
+3	reer	ober	_	_	IND;FIN;PRS;V	_	_	_	_
+4	en	e	_	_	ADP	_	_	_	_
+5	n	an	_	_	DET	_	_	_	_
+6	diskouezadeg	diskouezadeg	_	_	N;SG;FEM	_	_	_	_
+7	diaesterioù	diaester	_	_	N;MASC;PL	_	_	_	_
+8	teknikel	teknikel	_	_	ADJ	_	_	_	_
+9	al	an	_	_	DET	_	_	_	_
+10	luc'hskeudennerien	luc’hskeudenner	_	_	N;MASC;PL	_	_	_	_
+11	hag	ha	_	_	CONJ	_	_	_	_
+12	o	o	_	_	DET	_	_	_	_
+13	freder	preder	_	_	N;MASC;SG	_	_	_	_
+14	arzel	arzel	_	_	ADJ	_	_	_	_
+15	ivez	ivez	_	_	ADV	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = grammar.vislcg.txt:67:1322
+# text = Yann en deus prenet anezhañ.
+# text[eng] = Yann has bought it.
+# labels = stephens_1993 to_check
+1	Yann	Yann	_	_	PROPN;MASC;SG	_	_	_	_
+2	en deus	kaout	_	_	SG;IND;FIN;PRS;3;V;MASC	_	_	_	_
+3	prenet	prenañ	_	_	PST;V.PTCP;V	_	_	_	_
+4	anezhañ	direct	_	_	PRO;SG;ACC;3;MASC	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = oab.vislcg.txt:116:3115
+# text = D'ar greanterezhioù nevez eo gouestlet ar peurrest eus ar sal.
+# text[fra] = Le reste de la salle est consacré aux nouvelles industries.
+# labels = to_check opab_parallel
+1	D	da	_	_	ADP	_	_	_	_
+2	ar	an	_	_	DET	_	_	_	_
+3	greanterezhioù	greanterezh	_	_	N;MASC;PL	_	_	_	_
+4	nevez	nevez	_	_	ADJ	_	_	_	_
+5	eo	bezañ	_	_	SG;IND;FIN;PRS;3;V	_	_	_	_
+6	gouestlet	gouestlañ	_	_	PST;V.PTCP;V	_	_	_	_
+7	ar	an	_	_	DET	_	_	_	_
+8	peurrest	peurrest	_	_	N;MASC;SG	_	_	_	_
+9	eus	eus	_	_	ADP	_	_	_	_
+10	ar	an	_	_	DET	_	_	_	_
+11	sal	sal	_	_	N;SG;FEM	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = bremaik.vislcg.txt:171:5893
+# text = Kaset e vo ar programm resis gant an aozerien d'an dud dedennet.
+# text[fra¹] = Il sera envoyé le programme précis avec les auteurs aux gens intéressés.
+# labels = to_check
+1	Kaset	kas	_	_	PST;V.PTCP;V	_	_	_	_
+2	e	e	_	_	PART	_	_	_	_
+3	vo	bezañ	_	_	SG;IND;FUT;FIN;3;V	_	_	_	_
+4	ar	an	_	_	DET	_	_	_	_
+5	programm	programm	_	_	N;MASC;SG	_	_	_	_
+6	resis	resis	_	_	ADJ	_	_	_	_
+7	gant	gant	_	_	ADP	_	_	_	_
+8	an	an	_	_	DET	_	_	_	_
+9	aozerien	aozer	_	_	N;MASC;PL	_	_	_	_
+10	d	da	_	_	ADP	_	_	_	_
+11	an	an	_	_	DET	_	_	_	_
+12	dud	den	_	_	N;MASC;PL	_	_	_	_
+13	dedennet	dedennet	_	_	ADJ	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = bro-gozh.vislcg.txt:4:83
+# text = O Breizh, ma Bro, me 'gar ma Bro.
+# text[fra] = O Bretagne, mon pays, que j'aime mon pays
+# labels = to_check song
+1	O	o	_	_	INTJ	_	_	_	_
+2	Breizh	Breizh	_	_	PROPN;SG	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	ma	ma	_	_	DET	_	_	_	_
+5	Bro	bro	_	_	N;SG;FEM	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	me	prpers	_	_	PRO;1;SG;NOM	_	_	_	_
+8	'	a	_	_	PART	_	_	_	_
+9	gar	karout	_	_	SG;IND;FIN;PRS;3;V	_	_	_	_
+10	ma	ma	_	_	DET	_	_	_	_
+11	Bro	bro	_	_	N;SG;FEM	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = grammar.vislcg.txt:231:4179
+# text = Va selaouit!
+# text[eng] = Listen to me!
+# labels = press_1986 ch_morphology p_195 to_check
+1	Va	direct	_	_	PRO;SG;ACC;1	_	_	_	_
+2	selaouit	selaou	_	_	2;V;PL	_	_	_	_
+3	!	!	_	_	_	_	_	_	_
+
+# sent_id = grammar.vislcg.txt:119:2247
+# text = Debriñ a reomp hor boued.
+# text[eng] = We eat our food.
+# labels = press_1986 ch_morphology to_check
+1	Debriñ	debriñ	_	_	NFIN;V	_	_	_	_
+2	a	a	_	_	PART	_	_	_	_
+3	reomp	ober	_	_	IND;FIN;PRS;PL;1;V	_	_	_	_
+4	hor	hon	_	_	DET	_	_	_	_
+5	boued	boued	_	_	N;MASC;SG	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = grammar.vislcg.txt:249:4552
+# text = E-pad daou vloaz eo bet labourer-douar Yannig.
+# text[eng] = Yannig has been a farm worker for two years.
+# labels = press_1986 ch_syntax p_199 to_check
+1	E-pad	e-pad	_	_	ADP	_	_	_	_
+2	daou	daou	_	_	MASC;NUM;PL	_	_	_	_
+3	vloaz	bloaz	_	_	N;MASC;SG	_	_	_	_
+4	eo	bezañ	_	_	SG;IND;FIN;PRS;3;V	_	_	_	_
+5	bet	bezañ	_	_	PST;V.PTCP;V	_	_	_	_
+6	labourer-douar	labourer-douar	_	_	N;MASC;SG	_	_	_	_
+7	Yannig	Yannig	_	_	PROPN;MASC;SG	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = oab.vislcg.txt:157:4190
+# text = Dibabet he deus Breizh ivez degas skoazell d'an deskadurezh uhel evit diorren ur c'hinnig stummañ kempouezet e-barzh ar vro.
+# text[fra] = La Bretagne a également choisi d'apporter son soutien à l'enseignement supérieur afin de développer une offre de formation équilibrée sur le territoire.
+# labels = to_check opab_parallel
+1	Dibabet	dibab	_	_	PST;V.PTCP;V	_	_	_	_
+2	he deus	kaout	_	_	SG;IND;FIN;FEM;PRS;3;V	_	_	_	_
+3	Breizh	Breizh	_	_	PROPN;SG	_	_	_	_
+4	ivez	ivez	_	_	ADV	_	_	_	_
+5	degas	degas	_	_	NFIN;V	_	_	_	_
+6	skoazell	skoazell	_	_	N;SG;FEM	_	_	_	_
+7	d	da	_	_	ADP	_	_	_	_
+8	an	an	_	_	DET	_	_	_	_
+9	deskadurezh	deskadurezh	_	_	N;SG;FEM	_	_	_	_
+10	uhel	uhel	_	_	ADJ	_	_	_	_
+11	evit	evit	_	_	ADP	_	_	_	_
+12	diorren	diorren	_	_	NFIN;V	_	_	_	_
+13	ur	un	_	_	DET	_	_	_	_
+14	c'hinnig	kinnig	_	_	N;MASC;SG	_	_	_	_
+15	stummañ	stummañ	_	_	N;MASC;SG	_	_	_	_
+16	kempouezet	kempouez	_	_	PST;V.PTCP;V	_	_	_	_
+17	e-barzh	e-barzh	_	_	ADP	_	_	_	_
+18	ar	an	_	_	DET	_	_	_	_
+19	vro	bro	_	_	N;SG;FEM	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# sent_id = grammar.vislcg.txt:19:496
+# text = Ur spered kurius a zen e oa ivez ma zad.
+# text[eng] = My father was also a curious sort of person.
+# labels = timm_1988
+1	Ur	un	_	_	DET	_	_	_	_
+2	spered	spered	_	_	N;MASC;SG	_	_	_	_
+3	kurius	kurius	_	_	ADJ	_	_	_	_
+4	a	a	_	_	ADP	_	_	_	_
+5	zen	den	_	_	N;MASC;SG	_	_	_	_
+6	e	e	_	_	PART	_	_	_	_
+7	oa	bezañ	_	_	SG;IND;FIN;PST;3;V	_	_	_	_
+8	ivez	ivez	_	_	ADV	_	_	_	_
+9	ma	ma	_	_	DET	_	_	_	_
+10	zad	tad	_	_	N;MASC;SG	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = oab.vislcg.txt:155:4134
+# text = Reiñ a reont un neuz c'hwekoc'h d'an tren ha gallout a reer krouiñ kinkladurioù gouloù ganto. »
+# text[fra] = Elles permettent de donner un aspect plus chaleureux au train et de créer des décors lumineux »
+# labels = to_check opab_parallel
+1	Reiñ	reiñ	_	_	NFIN;V	_	_	_	_
+2	a	a	_	_	PART	_	_	_	_
+3	reont	ober	_	_	IND;FIN;PRS;3;PL;V	_	_	_	_
+4	un	un	_	_	DET	_	_	_	_
+5	neuz	neuz	_	_	N;SG;FEM	_	_	_	_
+6	c'hwekoc'h	c’hwek	_	_	ADJ;CMPR	_	_	_	_
+7	d	da	_	_	ADP	_	_	_	_
+8	an	an	_	_	DET	_	_	_	_
+9	tren	tren	_	_	N;MASC;SG	_	_	_	_
+10	ha	ha	_	_	CONJ	_	_	_	_
+11	gallout	gallout	_	_	NFIN;V	_	_	_	_
+12	a	a	_	_	PART	_	_	_	_
+13	reer	ober	_	_	IND;FIN;PRS;V	_	_	_	_
+14	krouiñ	krouiñ	_	_	NFIN;V	_	_	_	_
+15	kinkladurioù	kinkladur	_	_	N;MASC;PL	_	_	_	_
+16	gouloù	gouloù	_	_	ADJ	_	_	_	_
+17	ganto	gant	_	_	ADP	_	_	_	_
+18	o	indirect	_	_	PRO;ACC;3;PL	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+20	»	»	_	_	_	_	_	_	_
+
+# sent_id = oab.vislcg.txt:171:4624
+# text = « Ma'z on dilennet da brezidant ar Republik e vo degemeret mat ar c'hinnig-se ganin », en doa lavaret dirak 1.000 den bodet d'abardaez e Palez ar C'hendalc'hioù an Oriant.
+# text[fra] = "Si je suis élu président de la République, j'accueillerai positivement une telle proposition", a-t-il déclaré devant 1.000 personnes réunies en début de soirée au palais des Congrès de Lorient.
+# labels = to_check opab_parallel
+1	«	«	_	_	_	_	_	_	_
+2	Ma'z	ma	_	_	CONJ	_	_	_	_
+3	on	bezañ	_	_	SG;IND;FIN;PRS;1;V	_	_	_	_
+4	dilennet	dilenn	_	_	PST;V.PTCP;V	_	_	_	_
+5	da	da	_	_	ADP	_	_	_	_
+6	brezidant	prezidant	_	_	N;MASC;SG	_	_	_	_
+7	ar	an	_	_	DET	_	_	_	_
+8	Republik	republik	_	_	N;SG;FEM	_	_	_	_
+9	e	e	_	_	PART	_	_	_	_
+10	vo	bezañ	_	_	SG;IND;FUT;FIN;3;V	_	_	_	_
+11	degemeret	degemer	_	_	PST;V.PTCP;V	_	_	_	_
+12	mat	mat	_	_	ADJ	_	_	_	_
+13	ar	an	_	_	DET	_	_	_	_
+14	c'hinnig	kinnig	_	_	N;MASC;SG	_	_	_	_
+15	-se	se	_	_	ADV	_	_	_	_
+16	ganin	gant	_	_	ADP	_	_	_	_
+17	_	indirect	_	_	PRO;SG;ACC;1	_	_	_	_
+18	»	»	_	_	_	_	_	_	_
+19	,	,	_	_	_	_	_	_	_
+20	en doa	kaout	_	_	SG;IND;FIN;PST;3;V;MASC	_	_	_	_
+21	lavaret	lavarout	_	_	PST;V.PTCP;V	_	_	_	_
+22	dirak	dirak	_	_	ADP	_	_	_	_
+23	1.000	1.000	_	_	NUM;PL	_	_	_	_
+24	den	den	_	_	N;MASC;SG	_	_	_	_
+25	bodet	bodañ	_	_	PST;V.PTCP;V	_	_	_	_
+26	d'abardaez	d’abardaez	_	_	ADV	_	_	_	_
+27	e	e	_	_	ADP	_	_	_	_
+28	Palez	palez	_	_	N;MASC;SG	_	_	_	_
+29	ar	an	_	_	DET	_	_	_	_
+30	C'hendalc'hioù	kendalc’h	_	_	N;MASC;PL	_	_	_	_
+31	an	An	_	_	_	_	_	_	_
+32	Oriant	Oriant	_	_	PROPN;SG	_	_	_	_
+33	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:62:1903
+# text = Ar ouenn goshañ anezhe a zo bet kavet en Afrika.
+# text[fra¹] = La race la plus vieille d'eux a été trouvée en Afrique.
+# labels = to_check
+1	Ar	an	_	_	DET	_	_	_	_
+2	ouenn	gouenn	_	_	N;SG;FEM	_	_	_	_
+3	goshañ	kozh	_	_	RL;ADJ	_	_	_	_
+4	anezhe	eus	_	_	ADP	_	_	_	_
+5	_	indirect	_	_	PRO;ACC;3;PL	_	_	_	_
+6	a	a	_	_	PART	_	_	_	_
+7	zo	bezañ	_	_	SG;IND;FIN;PRS;3;V	_	_	_	_
+8	bet	bezañ	_	_	PST;V.PTCP;V	_	_	_	_
+9	kavet	kavout	_	_	PST;V.PTCP;V	_	_	_	_
+10	en	e	_	_	ADP	_	_	_	_
+11	n	an	_	_	DET	_	_	_	_
+12	Afrika	Afrika	_	_	PROPN;SG	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = bremaik.vislcg.txt:126:4326
+# text = E miz Even 1998 e oa aet diwar wel Eric Tabarly war vor.
+# text[fra¹] = En juin 1998 il avait disparu Eric Tabarly en mer.
+# labels = to_check
+1	E	e	_	_	ADP	_	_	_	_
+2	miz	miz	_	_	_	_	_	_	_
+3	Even	Even	_	_	N;MASC	_	_	_	_
+4	1998	1998	_	_	NUM;PL	_	_	_	_
+5	e	e	_	_	PART	_	_	_	_
+6	oa	bezañ	_	_	SG;IND;FIN;PST;3;V	_	_	_	_
+7	aet	mont	_	_	PST;V.PTCP;V	_	_	_	_
+8	diwar	diwar	_	_	ADP	_	_	_	_
+9	wel	gwel	_	_	N;MASC;SG	_	_	_	_
+10	Eric	Eric	_	_	PROPN;MASC;SG	_	_	_	_
+11	Tabarly	Tabarly	_	_	PROPN;SG	_	_	_	_
+12	war	war	_	_	ADP	_	_	_	_
+13	vor	mor	_	_	N;MASC;SG	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = oab.vislcg.txt:120:3218
+# text = 2602 Porzh Naoned e 1914
+# text[fra] = 2602 Le port de Nantes en 1914
+# labels = to_check opab_parallel
+1	2602	2602	_	_	NUM;PL	_	_	_	_
+2	Porzh	porzh	_	_	N;MASC;SG	_	_	_	_
+3	Naoned	Naoned	_	_	PROPN;SG	_	_	_	_
+4	e	e	_	_	ADP	_	_	_	_
+5	1914	1914	_	_	NUM;PL	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:39:1157
+# text = Gant an arc’hant bras dastumet d’ar mare-se e voe diorroet-mat glad ar savouriezh er vro.
+# text[fra¹] = Avec l'argent grand ramassé à ce moment-là fut très développé le patrimoine de l'architecture dans le pays.
+# labels = to_check
+1	Gant	gant	_	_	ADP	_	_	_	_
+2	an	an	_	_	DET	_	_	_	_
+3	arc’hant	arc’hant	_	_	N;MASC;SG	_	_	_	_
+4	bras	bras	_	_	ADJ	_	_	_	_
+5	dastumet	dastum	_	_	PST;V.PTCP;V	_	_	_	_
+6	d	da	_	_	ADP	_	_	_	_
+7	ar	an	_	_	DET	_	_	_	_
+8	mare	mare	_	_	N;MASC;SG	_	_	_	_
+9	-se	se	_	_	ADV	_	_	_	_
+10	e	e	_	_	PART	_	_	_	_
+11	voe	bezañ	_	_	SG;FIN;PST;3;V	_	_	_	_
+12	diorroet-mat	diorroet	_	_	ADJ	_	_	_	_
+13	-mat	mat	_	_	ADV	_	_	_	_
+14	glad	glad	_	_	N;MASC;SG	_	_	_	_
+15	ar	an	_	_	DET	_	_	_	_
+16	savouriezh	savouriezh	_	_	N;SG;FEM	_	_	_	_
+17	er	e	_	_	ADP	_	_	_	_
+18	r	an	_	_	DET	_	_	_	_
+19	vro	bro	_	_	N;SG;FEM	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# sent_id = grammar.vislcg.txt:256:4696
+# text = E zebret en deus Yann er wetur.
+# text[eng] = Yann ate it in the car.
+# labels = press_1986 ch_syntax p_201 to_check
+1	E	direct	_	_	PRO;SG;ACC;3;MASC	_	_	_	_
+2	zebret	debriñ	_	_	PST;V.PTCP;V	_	_	_	_
+3	en deus	kaout	_	_	SG;IND;FIN;PRS;3;V;MASC	_	_	_	_
+4	Yann	Yann	_	_	PROPN;MASC;SG	_	_	_	_
+5	er	e	_	_	ADP	_	_	_	_
+6	r	an	_	_	DET	_	_	_	_
+7	wetur	gwetur	_	_	N;SG;FEM	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = grammar.vislcg.txt:89:1753
+# text = Kavet am eus ul levr a blij din.
+# text[eng] = I found found a book I like.
+# labels = stephens_1993 to_check
+1	Kavet	kavout	_	_	PST;V.PTCP;V	_	_	_	_
+2	am eus	kaout	_	_	SG;IND;FIN;PRS;1;V	_	_	_	_
+3	ul	un	_	_	DET	_	_	_	_
+4	levr	levr	_	_	N;MASC;SG	_	_	_	_
+5	a	a	_	_	PART	_	_	_	_
+6	blij	plijout	_	_	SG;IND;FIN;PRS;3;V	_	_	_	_
+7	din	da	_	_	ADP	_	_	_	_
+8	_	indirect	_	_	PRO;SG;ACC;1	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = bremaik.vislcg.txt:179:6148
+# text = Poanius, trist ha tener.
+# text[fra¹] = Pénible, triste et tendre.
+# labels = to_check
+1	Poanius	poanius	_	_	ADJ	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	trist	trist	_	_	ADJ	_	_	_	_
+4	ha	ha	_	_	CONJ	_	_	_	_
+5	tener	tener	_	_	ADJ	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = oab.vislcg.txt:7:204
+# text = Muzuliañ uhelder Sterenn an Norzh zo kement hag anavezout ledred al lec'h (hag a-c'hin).
+# text[fra] = Mesurer la hauteur de l'étoile polaire, c'est connaître la latitude du lieu (et inversement).
+# labels = to_check opab_parallel
+1	Muzuliañ	muzuliañ	_	_	NFIN;V	_	_	_	_
+2	uhelder	uhelder	_	_	N;MASC;SG	_	_	_	_
+3	Sterenn	sterenn	_	_	N;SG;FEM	_	_	_	_
+4	an	an	_	_	DET	_	_	_	_
+5	Norzh	norzh	_	_	N;MASC;SG	_	_	_	_
+6	zo	bezañ	_	_	SG;IND;FIN;PRS;3;V	_	_	_	_
+7	kement	kement	_	_	_	_	_	_	_
+8	hag	hag	_	_	CONJ	_	_	_	_
+9	anavezout	anavezout	_	_	NFIN;V	_	_	_	_
+10	ledred	ledred	_	_	N;MASC;SG	_	_	_	_
+11	al	an	_	_	DET	_	_	_	_
+12	lec'h	lec’h	_	_	N;MASC;SG	_	_	_	_
+13	(	(	_	_	_	_	_	_	_
+14	hag	ha	_	_	CONJ	_	_	_	_
+15	a-c'hin	a-c’hin	_	_	ADV	_	_	_	_
+16	)	)	_	_	_	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = oab.vislcg.txt:16:449
+# text = Porzh-mor bihan ouzh sklaer al loar
+# text[fra] = Petit port au clair de lune
+# labels = to_check opab_parallel
+1	Porzh-mor	porzh-mor	_	_	N;MASC;SG	_	_	_	_
+2	bihan	bihan	_	_	ADJ	_	_	_	_
+3	ouzh	ouzh	_	_	ADP	_	_	_	_
+4	sklaer	sklaer	_	_	ADJ	_	_	_	_
+5	al	an	_	_	DET	_	_	_	_
+6	loar	loar	_	_	N;SG;FEM	_	_	_	_
+
+# sent_id = bremaik.vislcg.txt:27:682
+# text = Ho youl da eeunaat an traoù a vo a-walc'h evit bezañ digarezet.
+# text[fra¹] = Votre volonté à simplifier les choses sera assez pour être excusé.
+# labels = to_check
+1	Ho	ho	_	_	DET	_	_	_	_
+2	youl	youl	_	_	N;SG;FEM	_	_	_	_
+3	da	da	_	_	ADP	_	_	_	_
+4	eeunaat	eeunaat	_	_	NFIN;V	_	_	_	_
+5	an	an	_	_	DET	_	_	_	_
+6	traoù	tra	_	_	N;MASC;PL	_	_	_	_
+7	a	a	_	_	PART	_	_	_	_
+8	vo	bezañ	_	_	SG;IND;FUT;FIN;3;V	_	_	_	_
+9	a-walc'h	a-walc’h	_	_	ADV	_	_	_	_
+10	evit	evit	_	_	ADP	_	_	_	_
+11	bezañ	bezañ	_	_	NFIN;V	_	_	_	_
+12	digarezet	digareziñ	_	_	PST;V.PTCP;V	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = bremaik.vislcg.txt:82:2569
+# text = E gwerzh er stalioù levrioù a ginnig danvez Breizh, pe dre goumanant.
+# text[fra¹] = En vente dans les librairies ou par abonnement il présente la matière de la Bretagne.
+# labels = to_check
+1	E	e	_	_	ADP	_	_	_	_
+2	gwerzh	gwerzh	_	_	N;SG;FEM	_	_	_	_
+3	er	e	_	_	ADP	_	_	_	_
+4	r	an	_	_	DET	_	_	_	_
+5	stalioù	stal	_	_	N;PL;FEM	_	_	_	_
+6	levrioù	levrioù	_	_	N;MASC;PL	_	_	_	_
+7	a	a	_	_	PART	_	_	_	_
+8	ginnig	kinnig	_	_	SG;IND;FIN;PRS;3;V	_	_	_	_
+9	danvez	danvez	_	_	N;MASC;SG	_	_	_	_
+10	Breizh	Breizh	_	_	PROPN;SG	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	pe	pe	_	_	CONJ	_	_	_	_
+13	dre	dre	_	_	ADP	_	_	_	_
+14	goumanant	koumanant	_	_	N;MASC;SG	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = oab.vislcg.txt:89:2482
+# text = An titouroù a eskemmit gant al lec'hienn-mañ ne c'hallont ket bezañ lennet pe cheñchet gant implijerien all.
+# text[fra] = Les informations que vous échangez avec ce site ne peuvent pas être consultées ou modifiées par d'autres utilisateurs.
+# labels = to_check opab_parallel
+1	An	an	_	_	DET	_	_	_	_
+2	titouroù	titour	_	_	N;MASC;PL	_	_	_	_
+3	a	a	_	_	PART	_	_	_	_
+4	eskemmit	eskemm	_	_	IND;FIN;2;PRS;PL;V	_	_	_	_
+5	gant	gant	_	_	ADP	_	_	_	_
+6	al	an	_	_	DET	_	_	_	_
+7	lec'hienn	lec’hienn	_	_	N;SG;FEM	_	_	_	_
+8	-mañ	mañ	_	_	ADV	_	_	_	_
+9	ne	ne	_	_	ADV;NEG	_	_	_	_
+10	c'hallont	gallout	_	_	IND;FIN;PRS;3;PL;V	_	_	_	_
+11	ket	ket	_	_	ADV	_	_	_	_
+12	bezañ	bezañ	_	_	NFIN;V	_	_	_	_
+13	lennet	lenn	_	_	PST;V.PTCP;V	_	_	_	_
+14	pe	pe	_	_	CONJ	_	_	_	_
+15	cheñchet	cheñch	_	_	PST;V.PTCP;V	_	_	_	_
+16	gant	gant	_	_	ADP	_	_	_	_
+17	implijerien	implijer	_	_	N;MASC;PL	_	_	_	_
+18	all	all	_	_	ADJ	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# sent_id = grammar.vislcg.txt:56:1107
+# text = Emañ ar vugale o tiskenn.
+# text[eng] = The children are going down.
+# labels = stephens_1993 to_check
+1	Emañ	bezañ	_	_	SG;IND;FIN;PRS;3;V	_	_	_	_
+2	ar	an	_	_	DET	_	_	_	_
+3	vugale	bugel	_	_	N;MASC;PL	_	_	_	_
+4	o	o	_	_	PART	_	_	_	_
+5	tiskenn	diskenn	_	_	NFIN;V	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = bremaik.vislcg.txt:62:1874
+# text = Ar c'harotez a zle dont da vezañ tener-kenañ.
+# text[fra¹] = Les carottes à doivent devenir très tendres.
+# labels = to_check
+1	Ar	an	_	_	DET	_	_	_	_
+2	c'harotez	karotez	_	_	N;PL;FEM	_	_	_	_
+3	a	a	_	_	PART	_	_	_	_
+4	zle	dleout	_	_	SG;IND;FIN;PRS;3;V	_	_	_	_
+5	dont	dont	_	_	NFIN;V	_	_	_	_
+6	da	da	_	_	ADP	_	_	_	_
+7	vezañ	bezañ	_	_	NFIN;V	_	_	_	_
+8	tener-kenañ	tener	_	_	ADJ	_	_	_	_
+9	-kenañ	kenañ	_	_	ADV	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:126:4069
+# text = Sébastien zo un anv-badez gallek.
+# text[fra¹] = Sébastien est un nom-baptisent français.
+# labels = to_check
+1	Sébastien	Sébastien	_	_	PROPN;MASC;SG	_	_	_	_
+2	zo	bezañ	_	_	SG;IND;FIN;PRS;3;V	_	_	_	_
+3	un	un	_	_	DET	_	_	_	_
+4	anv-badez	anv-badez	_	_	N;MASC;SG	_	_	_	_
+5	gallek	gallek	_	_	ADJ	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = grammar.vislcg.txt:183:3320
+# text = Degouezhet eo ganin ho lizher.
+# text[eng] = I've got your letter.
+# labels = press_1986 ch_morphology to_check
+1	Degouezhet	degouezhout	_	_	PST;V.PTCP;V	_	_	_	_
+2	eo	bezañ	_	_	SG;IND;FIN;PRS;3;V	_	_	_	_
+3	ganin	gant	_	_	ADP	_	_	_	_
+4	_	indirect	_	_	PRO;SG;ACC;1	_	_	_	_
+5	ho	ho	_	_	DET	_	_	_	_
+6	lizher	lizher	_	_	N;MASC;SG	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = bremaik.vislcg.txt:66:2015
+# text = 200 den a oa bet lazhet diriaou, ha 1500 den gloazet, gant gwall-daolioù Madrid.
+# text[fra¹] = 200 personnes avaient été tuées jeudi, et 1500 personnes blessées, par mal-les coups de Madrid.
+# labels = to_check
+1	200	200	_	_	NUM;PL	_	_	_	_
+2	den	den	_	_	N;MASC;SG	_	_	_	_
+3	a	a	_	_	PART	_	_	_	_
+4	oa	bezañ	_	_	SG;IND;FIN;PST;3;V	_	_	_	_
+5	bet	bezañ	_	_	PST;V.PTCP;V	_	_	_	_
+6	lazhet	lazhañ	_	_	PST;V.PTCP;V	_	_	_	_
+7	diriaou	diriaou	_	_	ADV	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	ha	ha	_	_	CONJ	_	_	_	_
+10	1500	1500	_	_	NUM;PL	_	_	_	_
+11	den	den	_	_	N;MASC;SG	_	_	_	_
+12	gloazet	gloazañ	_	_	PST;V.PTCP;V	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	gant	gant	_	_	ADP	_	_	_	_
+15	gwall	gwall	_	_	N;MASC;SG	_	_	_	_
+16	-	-	_	_	_	_	_	_	_
+17	daolioù	taol	_	_	N;MASC;PL	_	_	_	_
+18	Madrid	Madrid	_	_	PROPN;SG	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# sent_id = grammar.vislcg.txt:46:929
+# text = Bremañ e welan eo lennet al levr gant Lenaig.
+# text[eng] = I see now that the book is read by Lenaig.
+# labels = stephens_1993 to_check
+1	Bremañ	bremañ	_	_	ADV	_	_	_	_
+2	e	e	_	_	PART	_	_	_	_
+3	welan	gwelout	_	_	SG;IND;FIN;PRS;1;V	_	_	_	_
+4	eo	bezañ	_	_	SG;IND;FIN;PRS;3;V	_	_	_	_
+5	lennet	lenn	_	_	PST;V.PTCP;V	_	_	_	_
+6	al	an	_	_	DET	_	_	_	_
+7	levr	levr	_	_	N;MASC;SG	_	_	_	_
+8	gant	gant	_	_	ADP	_	_	_	_
+9	Lenaig	Lenaig	_	_	SG;PROPN;FEM	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = apertium.vislcg.txt:6:69
+# text = Debriñ a ran.
+# text[fra] = Je mange.
+# labels = to_check
+1	Debriñ	debriñ	_	_	NFIN;V	_	_	_	_
+2	a	a	_	_	PART	_	_	_	_
+3	ran	ober	_	_	SG;IND;FIN;PRS;1;V	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:42:1246
+# text = An Dispac'h Gall.
+# text[fra¹] = La Révolution Française.
+# labels = to_check
+1	An	an	_	_	DET	_	_	_	_
+2	Dispac'h	dispac’h	_	_	N;MASC;SG	_	_	_	_
+3	Gall	gall	_	_	ADJ	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = grammar.vislcg.txt:5:103
+# text = Lavaret em eus deoc'h e oa Janed.
+# text[eng] = I told you it was Janed.
+# labels = timm_1988 to_check
+1	Lavaret	lavarout	_	_	PST;V.PTCP;V	_	_	_	_
+2	em eus	kaout	_	_	SG;IND;FIN;PRS;1;V	_	_	_	_
+3	deoc	da	_	_	ADP	_	_	_	_
+4	h	indirect	_	_	PRO;2;ACC;PL	_	_	_	_
+5	e	e	_	_	PART	_	_	_	_
+6	oa	bezañ	_	_	SG;IND;FIN;PST;3;V	_	_	_	_
+7	Janed	Janed	_	_	SG;PROPN;FEM	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = bremaik.vislcg.txt:28:712
+# text = Sirius-tre eo an afer-mañ.
+# text[fra¹] = Cette affaire est très sérieuse
+# labels = to_check
+1	Sirius-tre	sirius	_	_	ADJ	_	_	_	_
+2	_	tre	_	_	ADV	_	_	_	_
+3	eo	bezañ	_	_	SG;IND;FIN;PRS;3;V	_	_	_	_
+4	an	an	_	_	DET	_	_	_	_
+5	afer	afer	_	_	N;SG;FEM	_	_	_	_
+6	-mañ	mañ	_	_	ADV	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = oab.vislcg.txt:162:4301
+# text = Sin vat eo.
+# text[fra] = C'est bon signe.
+# labels = to_check opab_parallel
+1	Sin	sin	_	_	N;MASC;SG	_	_	_	_
+2	vat	mat	_	_	ADJ	_	_	_	_
+3	eo	bezañ	_	_	SG;IND;FIN;PRS;3;V	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = grammar.vislcg.txt:219:3992
+# text = Klask ul levr a ra Yann.
+# text[eng] = Yann seeks a book.
+# labels = press_1986 ch_syntax p_191 to_check
+1	Klask	klask	_	_	NFIN;V	_	_	_	_
+2	ul	un	_	_	DET	_	_	_	_
+3	levr	levr	_	_	N;MASC;SG	_	_	_	_
+4	a	a	_	_	PART	_	_	_	_
+5	ra	ober	_	_	SG;IND;FIN;PRS;3;V	_	_	_	_
+6	Yann	Yann	_	_	PROPN;MASC;SG	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = war-bont.vislcg.txt:9:202
+# text = 'vit an eilvet ploñjadenn, 'r walenn touchet e oa.
+# text[fra] = Au deuxième plongeon, l'anneau était touché.
+# labels = to_check song
+1	'vit	evit	_	_	ADP	_	_	_	_
+2	an	an	_	_	DET	_	_	_	_
+3	eilvet	eil	_	_	ADJ	_	_	_	_
+4	ploñjadenn	ploñjadenn	_	_	N;SG;FEM	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	'r	an	_	_	DET	_	_	_	_
+7	walenn	gwalenn	_	_	N;SG;FEM	_	_	_	_
+8	touchet	touchañ	_	_	PST;V.PTCP;V	_	_	_	_
+9	e	e	_	_	PART	_	_	_	_
+10	oa	bezañ	_	_	SG;IND;FIN;PST;3;V	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:27:791
+# text = Distrujet e oa kalz kêriadennoù.
+# text[fra¹] = Il avait détruit beaucoup des villages.
+# labels = to_check
+1	Distrujet	distrujañ	_	_	PST;V.PTCP;V	_	_	_	_
+2	e	e	_	_	PART	_	_	_	_
+3	oa	bezañ	_	_	SG;IND;FIN;PST;3;V	_	_	_	_
+4	kalz	kalz	_	_	ADP	_	_	_	_
+5	kêriadennoù	kêriadenn	_	_	N;PL;FEM	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = oab.vislcg.txt:15:433
+# text = Daou arvest eus buhez Sant Erwan
+# text[fra] = Deux scènes de la vie de saint Yves
+# labels = to_check opab_parallel
+1	Daou	daou	_	_	MASC;NUM;PL	_	_	_	_
+2	arvest	arvest	_	_	N;MASC;SG	_	_	_	_
+3	eus	eus	_	_	ADP	_	_	_	_
+4	buhez	buhez	_	_	N;SG;FEM	_	_	_	_
+5	Sant	sant	_	_	N;MASC;SG	_	_	_	_
+6	Erwan	Erwan	_	_	PROPN;MASC;SG	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:46:1359
+# text = Kalz distrujoù zo bet ivez betek 1945.
+# text[fra¹] = Beaucoup destructions elle a été aussi jusque 1945.
+# labels = to_check
+1	Kalz	kalz	_	_	ADP	_	_	_	_
+2	distrujoù	distruj	_	_	N;MASC;PL	_	_	_	_
+3	zo	bezañ	_	_	SG;IND;FIN;PRS;3;V	_	_	_	_
+4	bet	bezañ	_	_	PST;V.PTCP;V	_	_	_	_
+5	ivez	ivez	_	_	ADV	_	_	_	_
+6	betek	betek	_	_	ADP	_	_	_	_
+7	1945	1945	_	_	NUM;PL	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:8:112
+# text = Er bloaz 1977 eo bet krouet ar skolioù Diwan.
+# text[fra¹] = Dans l'an 1977 ont été créés les écoles Diwan.
+# labels = to_check
+1	Er	e	_	_	ADP	_	_	_	_
+2	_	an	_	_	DET	_	_	_	_
+3	bloaz	bloaz	_	_	N;MASC;SG	_	_	_	_
+4	1977	1977	_	_	NUM;PL	_	_	_	_
+5	eo	bezañ	_	_	SG;IND;FIN;PRS;3;V	_	_	_	_
+6	bet	bezañ	_	_	PST;V.PTCP;V	_	_	_	_
+7	krouet	krouiñ	_	_	PST;V.PTCP;V	_	_	_	_
+8	ar	an	_	_	DET	_	_	_	_
+9	skolioù	skol	_	_	N;PL;FEM	_	_	_	_
+10	Diwan	Diwan	_	_	PROPN;SG	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = grammar.vislcg.txt:151:2785
+# text = Ma breur a zo kemener.
+# text[eng] = My brother is a tailor.
+# labels = press_1986 ch_morphology to_check
+1	Ma	ma	_	_	DET	_	_	_	_
+2	breur	breur	_	_	N;MASC;SG	_	_	_	_
+3	a	a	_	_	PART	_	_	_	_
+4	zo	bezañ	_	_	SG;IND;FIN;PRS;3;V	_	_	_	_
+5	kemener	kemener	_	_	N;MASC;SG	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = bremaik.vislcg.txt:38:1016
+# text = Meskit an hanter eus ar c'heuz gant ar c'hraoñ-kelvez pilet hag an eoul.
+# text[fra¹] = Vous mélangez le à moitié du fromage avec les noisettes écrasées et l'huile.
+# labels = to_check
+1	Meskit	meskañ	_	_	2;V;PL	_	_	_	_
+2	an	an	_	_	DET	_	_	_	_
+3	hanter	hanter	_	_	N;MASC;SG	_	_	_	_
+4	eus	eus	_	_	ADP	_	_	_	_
+5	ar	an	_	_	DET	_	_	_	_
+6	c'heuz	keuz	_	_	N;MASC;SG	_	_	_	_
+7	gant	gant	_	_	ADP	_	_	_	_
+8	ar	an	_	_	DET	_	_	_	_
+9	c'hraoñ-kelvez	kraoñ-kelvez	_	_	N;PL;FEM	_	_	_	_
+10	pilet	pilat	_	_	PST;V.PTCP;V	_	_	_	_
+11	hag	ha	_	_	CONJ	_	_	_	_
+12	an	an	_	_	DET	_	_	_	_
+13	eoul	eoul	_	_	N;MASC;SG	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = bremaik.vislcg.txt:202:6871
+# text = Emgavioù departamant ar c'hoariva a vo aozet gant Ti ar c'hoariva e Brest, etre ar 1añ hag ar 4 a viz Even, war pevarzek kumun disheñvel e Penn-ar-bed.
+# text[fra¹] = Les rendez-vous du département du théâtre seront organisés par la Maison du théâtre à Brest, entre le 1ère et le 4 juin, sur quatorze communes différentes à Finistere.
+# labels = to_check
+1	Emgavioù	emgav	_	_	N;MASC;PL	_	_	_	_
+2	departamant	departamant	_	_	N;MASC;SG	_	_	_	_
+3	ar	an	_	_	DET	_	_	_	_
+4	c'hoariva	c’hoariva	_	_	N;MASC;SG	_	_	_	_
+5	a	a	_	_	PART	_	_	_	_
+6	vo	bezañ	_	_	SG;IND;FUT;FIN;3;V	_	_	_	_
+7	aozet	aozañ	_	_	PST;V.PTCP;V	_	_	_	_
+8	gant	gant	_	_	ADP	_	_	_	_
+9	Ti	ti	_	_	N;MASC;SG	_	_	_	_
+10	ar	an	_	_	DET	_	_	_	_
+11	c'hoariva	c’hoariva	_	_	N;MASC;SG	_	_	_	_
+12	e	e	_	_	ADP	_	_	_	_
+13	Brest	Brest	_	_	PROPN;SG	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	etre	etre	_	_	ADP	_	_	_	_
+16	ar	an	_	_	DET	_	_	_	_
+17	1añ	1añ	_	_	NUM;SG	_	_	_	_
+18	hag	ha	_	_	CONJ	_	_	_	_
+19	ar	an	_	_	DET	_	_	_	_
+20	4	4	_	_	NUM;PL	_	_	_	_
+21	a	a	_	_	ADP	_	_	_	_
+22	viz	miz	_	_	_	_	_	_	_
+23	Even	Even	_	_	N;MASC	_	_	_	_
+24	,	,	_	_	_	_	_	_	_
+25	war	war	_	_	ADP	_	_	_	_
+26	pevarzek	pevarzek	_	_	NUM;PL	_	_	_	_
+27	kumun	kumun	_	_	N;SG;FEM	_	_	_	_
+28	disheñvel	disheñvel	_	_	ADJ	_	_	_	_
+29	e	e	_	_	ADP	_	_	_	_
+30	Penn-ar-bed	Penn-ar-Bed	_	_	PROPN;SG	_	_	_	_
+31	.	.	_	_	_	_	_	_	_
+
+# sent_id = grammar.vislcg.txt:125:2339
+# text = Al levr a brenan.
+# text[eng] = I buy the book.
+# labels = press_1986 ch_morphology to_check
+1	Al	an	_	_	DET	_	_	_	_
+2	levr	levr	_	_	N;MASC;SG	_	_	_	_
+3	a	a	_	_	PART	_	_	_	_
+4	brenan	prenañ	_	_	SG;IND;FIN;PRS;1;V	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = grammar.vislcg.txt:21:540
+# text = Hi a welan alies.
+# text[eng] = I often see her.
+# labels = stephens_1993 to_check
+1	Hi	prpers	_	_	PRO;SG;ACC;FEM;3	_	_	_	_
+2	a	a	_	_	PART	_	_	_	_
+3	welan	gwelout	_	_	SG;IND;FIN;PRS;1;V	_	_	_	_
+4	alies	alies	_	_	ADV	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = grammar.vislcg.txt:84:1639
+# text = Krediñ a ran e teuio Lenaig da gêr.
+# text[eng] = I believe that Lenaig will come home.
+# labels = stephens_1993 to_check
+1	Krediñ	krediñ	_	_	NFIN;V	_	_	_	_
+2	a	a	_	_	PART	_	_	_	_
+3	ran	ober	_	_	SG;IND;FIN;PRS;1;V	_	_	_	_
+4	e	e	_	_	PART	_	_	_	_
+5	teuio	dont	_	_	SG;IND;FUT;FIN;3;V	_	_	_	_
+6	Lenaig	Lenaig	_	_	SG;PROPN;FEM	_	_	_	_
+7	da	da	_	_	ADP	_	_	_	_
+8	gêr	kêr	_	_	N;SG;FEM	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = grammar.vislcg.txt:69:1350
+# text = Gant piv eo bet prenet an ti ruz?
+# text[eng] = By whom was the red house bought?
+# labels = stephens_1993 to_check
+1	Gant	gant	_	_	ADP	_	_	_	_
+2	piv	piv	_	_	PRO	_	_	_	_
+3	eo	bezañ	_	_	SG;IND;FIN;PRS;3;V	_	_	_	_
+4	bet	bezañ	_	_	PST;V.PTCP;V	_	_	_	_
+5	prenet	prenañ	_	_	PST;V.PTCP;V	_	_	_	_
+6	an	an	_	_	DET	_	_	_	_
+7	ti	ti	_	_	N;MASC;SG	_	_	_	_
+8	ruz	ruz	_	_	ADJ	_	_	_	_
+9	?	?	_	_	_	_	_	_	_
+
+# sent_id = bremaik.vislcg.txt:98:3227
+# text = Pep Kevre football amatour a zo e karg eus dibab ar c'hoarierien betek ar rummad DH hepken.
+# text[fra¹] = Chaque Ligue de football amateur est en charge de choisir les joueurs jusque la catégorie DH seulement.
+# labels = to_check
+1	Pep	pep	_	_	DET;SG	_	_	_	_
+2	Kevre	kevre	_	_	N;MASC;SG	_	_	_	_
+3	football	football	_	_	N;MASC;SG	_	_	_	_
+4	amatour	amatour	_	_	ADJ	_	_	_	_
+5	a	a	_	_	PART	_	_	_	_
+6	zo	bezañ	_	_	SG;IND;FIN;PRS;3;V	_	_	_	_
+7	e	e	_	_	ADP	_	_	_	_
+8	karg	karg	_	_	N;SG;FEM	_	_	_	_
+9	eus	eus	_	_	ADP	_	_	_	_
+10	dibab	dibab	_	_	NFIN;V	_	_	_	_
+11	ar	an	_	_	DET	_	_	_	_
+12	c'hoarierien	c’hoarier	_	_	N;MASC;PL	_	_	_	_
+13	betek	betek	_	_	ADP	_	_	_	_
+14	ar	an	_	_	DET	_	_	_	_
+15	rummad	rummad	_	_	N;MASC;SG	_	_	_	_
+16	DH	DH	_	_	N;MASC;SG	_	_	_	_
+17	hepken	hepken	_	_	ADV	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = bremaik.vislcg.txt:22:551
+# text = Ret e vo deoc'h kemer divizioù, en em zifenn, fiñval ha cheñch.
+# text[fra¹] = Il faudra que Vous preniez décisions, défend, bouger et changer.
+# labels = to_check
+1	Ret	ret	_	_	ADJ	_	_	_	_
+2	e	e	_	_	PART	_	_	_	_
+3	vo	bezañ	_	_	SG;IND;FUT;FIN;3;V	_	_	_	_
+4	deoc	da	_	_	ADP	_	_	_	_
+5	h	indirect	_	_	PRO;2;ACC;PL	_	_	_	_
+6	kemer	kemer	_	_	NFIN;V	_	_	_	_
+7	divizioù	diviz	_	_	N;MASC;PL	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	en	en	_	_	_	_	_	_	_
+10	em	em	_	_	REFL;PART	_	_	_	_
+11	zifenn	difenn	_	_	NFIN;V	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	fiñval	fiñval	_	_	NFIN;V	_	_	_	_
+14	ha	ha	_	_	CONJ	_	_	_	_
+15	cheñch	cheñch	_	_	NFIN;V	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = oab.vislcg.txt:44:1209
+# text = Adalek 2007 e vo ur programm nevez war meur a vloaz evit ar frammoù a labour evit skoazellañ ar yezhoù bihanniver en Europa.
+# text[fra] = A partir de 2007, elle va mettre en place un programme pluriannuel pour les structures travaillant au soutien des langues minoritaires en Europe.
+# labels = to_check opab_parallel
+1	Adalek	adalek	_	_	ADP	_	_	_	_
+2	2007	2007	_	_	NUM;PL	_	_	_	_
+3	e	e	_	_	PART	_	_	_	_
+4	vo	bezañ	_	_	SG;IND;FUT;FIN;3;V	_	_	_	_
+5	ur	un	_	_	DET	_	_	_	_
+6	programm	programm	_	_	N;MASC;SG	_	_	_	_
+7	nevez	nevez	_	_	ADJ	_	_	_	_
+8	war	war	_	_	ADP	_	_	_	_
+9	meur	meur	_	_	_	_	_	_	_
+10	a	a	_	_	DET;PL	_	_	_	_
+11	vloaz	bloaz	_	_	N;MASC;SG	_	_	_	_
+12	evit	evit	_	_	ADP	_	_	_	_
+13	ar	an	_	_	DET	_	_	_	_
+14	frammoù	framm	_	_	N;MASC;PL	_	_	_	_
+15	a	a	_	_	PART	_	_	_	_
+16	labour	labourat	_	_	SG;IND;FIN;PRS;3;V	_	_	_	_
+17	evit	evit	_	_	ADP	_	_	_	_
+18	skoazellañ	skoazellañ	_	_	NFIN;V	_	_	_	_
+19	ar	an	_	_	DET	_	_	_	_
+20	yezhoù	yezh	_	_	N;PL;FEM	_	_	_	_
+21	bihanniver	bihanniver	_	_	N;MASC;SG	_	_	_	_
+22	en	e	_	_	ADP	_	_	_	_
+23	Europa	Europa	_	_	PROPN;SG	_	_	_	_
+24	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:116:3831
+# text = Ar Gurded o doa ivez da zilenn ar 111 kannad eus ar vodadenn emren.
+# text[fra¹] = Les Kurdes avaient aussi à élire les 111 ambassadeurs de l'assemblée autonome.
+# labels = to_check
+1	Ar	an	_	_	DET	_	_	_	_
+2	Gurded	Kurd	_	_	N;MASC;PL	_	_	_	_
+3	o doa	kaout	_	_	IND;FIN;PST;3;PL;V	_	_	_	_
+4	ivez	ivez	_	_	ADV	_	_	_	_
+5	da	da	_	_	ADP	_	_	_	_
+6	zilenn	dilenn	_	_	NFIN;V	_	_	_	_
+7	ar	an	_	_	DET	_	_	_	_
+8	111	111	_	_	NUM;PL	_	_	_	_
+9	kannad	kannad	_	_	N;MASC;SG	_	_	_	_
+10	eus	eus	_	_	ADP	_	_	_	_
+11	ar	an	_	_	DET	_	_	_	_
+12	vodadenn	bodadenn	_	_	N;SG;FEM	_	_	_	_
+13	emren	emren	_	_	ADJ	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = oab.vislcg.txt:147:3961
+# text = Labourioù diouzh ar c'houlz (karter ar porzh) ha dreistordinal a vez graet alies.
+# text[fra] = Des opérations saisonnières (secteur du port) et exceptionnelles sont fréquemment organisées.
+# labels = to_check opab_parallel
+1	Labourioù	labour	_	_	N;MASC;PL	_	_	_	_
+2	diouzh	diouzh	_	_	ADP	_	_	_	_
+3	ar	an	_	_	DET	_	_	_	_
+4	c'houlz	koulz	_	_	N;MASC;SG	_	_	_	_
+5	(	(	_	_	_	_	_	_	_
+6	karter	karter	_	_	N;MASC;SG	_	_	_	_
+7	ar	an	_	_	DET	_	_	_	_
+8	porzh	porzh	_	_	N;MASC;SG	_	_	_	_
+9	)	)	_	_	_	_	_	_	_
+10	ha	ha	_	_	CONJ	_	_	_	_
+11	dreistordinal	dreistordinal	_	_	ADJ	_	_	_	_
+12	a	a	_	_	PART	_	_	_	_
+13	vez	bezañ	_	_	SG;HAB;FIN;PRS;3;V	_	_	_	_
+14	graet	ober	_	_	PST;V.PTCP;V	_	_	_	_
+15	alies	alies	_	_	ADV	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = grammar.vislcg.txt:163:2980
+# text = Kerzhout a raen.
+# text[eng] = I used to walk.
+# labels = press_1986 ch_morphology to_check
+1	Kerzhout	kerzhout	_	_	NFIN;V	_	_	_	_
+2	a	a	_	_	PART	_	_	_	_
+3	raen	ober	_	_	SG;IND;FIN;PST;1;V	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:37:1110
+# text = Gant se e oa bet boulc’het an hent a gase d’an unaniezh.
+# text[fra¹] = Par ça avait été entamé la route que envoyait à l'union.
+# labels = to_check
+1	Gant	gant	_	_	ADP	_	_	_	_
+2	se	se	_	_	PRO;SG	_	_	_	_
+3	e	e	_	_	PART	_	_	_	_
+4	oa	bezañ	_	_	SG;IND;FIN;PST;3;V	_	_	_	_
+5	bet	bezañ	_	_	PST;V.PTCP;V	_	_	_	_
+6	boulc’het	boulc’hañ	_	_	PST;V.PTCP;V	_	_	_	_
+7	an	an	_	_	DET	_	_	_	_
+8	hent	hent	_	_	N;MASC;SG	_	_	_	_
+9	a	a	_	_	PART	_	_	_	_
+10	gase	kas	_	_	SG;IND;FIN;PST;3;V	_	_	_	_
+11	d	da	_	_	ADP	_	_	_	_
+12	an	an	_	_	DET	_	_	_	_
+13	unaniezh	unaniezh	_	_	N;SG;FEM	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = bremaik.vislcg.txt:11:286
+# text = Pa grog da virviñ adarre, tennit diwar an tan.
+# text[fra¹] = Quand il commence à bouillir de nouveau, tirez du feu.
+# labels = to_check
+1	Pa	pa	_	_	CONJ	_	_	_	_
+2	grog	kregiñ	_	_	SG;IND;FIN;PRS;3;V	_	_	_	_
+3	da	da	_	_	ADP	_	_	_	_
+4	virviñ	birviñ	_	_	NFIN;V	_	_	_	_
+5	adarre	adarre	_	_	ADV	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	tennit	tennañ	_	_	2;V;PL	_	_	_	_
+8	diwar	diwar	_	_	ADP	_	_	_	_
+9	an	an	_	_	DET	_	_	_	_
+10	tan	tan	_	_	N;MASC;SG	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = grammar.vislcg.txt:87:1707
+# text = Dont a raio Lenaig da gêr pa vo prest.
+# text[eng] = Lenaig will come home when she is ready.
+# labels = stephens_1993 to_check
+1	Dont	dont	_	_	NFIN;V	_	_	_	_
+2	a	a	_	_	PART	_	_	_	_
+3	raio	ober	_	_	SG;IND;FUT;FIN;3;V	_	_	_	_
+4	Lenaig	Lenaig	_	_	SG;PROPN;FEM	_	_	_	_
+5	da	da	_	_	ADP	_	_	_	_
+6	gêr	kêr	_	_	N;SG;FEM	_	_	_	_
+7	pa	pa	_	_	CONJ	_	_	_	_
+8	vo	bezañ	_	_	SG;IND;FUT;FIN;3;V	_	_	_	_
+9	prest	prest	_	_	ADJ	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = bremaik.vislcg.txt:73:2308
+# text = Ijinit 'ta.
+# text[fra¹] = Inventez donc.
+# labels = to_check
+1	Ijinit	ijinañ	_	_	2;V;PL	_	_	_	_
+2	'ta	eta	_	_	ADV	_	_	_	_
+3	.	.	_	_	_	_	_	_	_
+
+# sent_id = grammar.vislcg.txt:171:3098
+# text = Lennet en deus Yann al levr.
+# text[eng] = Yann has read the book.
+# labels = press_1986 ch_morphology to_check
+1	Lennet	lenn	_	_	PST;V.PTCP;V	_	_	_	_
+2	en deus	kaout	_	_	SG;IND;FIN;PRS;3;V;MASC	_	_	_	_
+3	Yann	Yann	_	_	PROPN;MASC;SG	_	_	_	_
+4	al	an	_	_	DET	_	_	_	_
+5	levr	levr	_	_	N;MASC;SG	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:6:63
+# text = Istor diavaez ar brezhoneg.
+# text[fra¹] = L'histoire externe du breton.
+# labels = to_check
+1	Istor	istor	_	_	N;MASC;SG	_	_	_	_
+2	diavaez	diavaez	_	_	ADJ	_	_	_	_
+3	ar	an	_	_	DET	_	_	_	_
+4	brezhoneg	brezhoneg	_	_	N;MASC;SG	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = grammar.vislcg.txt:93:1842
+# text = Setu ar skouerenn : ar gantvet eo.
+# text[eng] = Here is the copy: it's the hundredth.
+# labels = press_1986 ch_morphology to_check
+1	Setu	setu	_	_	ADV	_	_	_	_
+2	ar	an	_	_	DET	_	_	_	_
+3	skouerenn	skouerenn	_	_	N;SG;FEM	_	_	_	_
+4	:	:	_	_	_	_	_	_	_
+5	ar	an	_	_	DET	_	_	_	_
+6	gantvet	kantvet	_	_	ADJ	_	_	_	_
+7	eo	bezañ	_	_	SG;IND;FIN;PRS;3;V	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = oab.vislcg.txt:32:923
+# text = Evel-se e c’haller stardañ mat ar perlez.
+# text[fra] = Cela permet de bien serrer les perles.
+# labels = to_check opab_parallel
+1	Evel-se	evel-se	_	_	ADV	_	_	_	_
+2	e	e	_	_	PART	_	_	_	_
+3	c’haller	gallout	_	_	IND;FIN;PRS;V	_	_	_	_
+4	stardañ	stardañ	_	_	NFIN;V	_	_	_	_
+5	mat	mat	_	_	ADV	_	_	_	_
+6	ar	an	_	_	DET	_	_	_	_
+7	perlez	perlez	_	_	N;PL;FEM	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = grammar.vislcg.txt:223:4056
+# text = Morwenna a wel Yann.
+# text[eng] = Yann sees Morwenna.
+# labels = press_1986 ch_syntax p_192 to_check
+1	Morwenna	Morwenna	_	_	SG;PROPN;FEM	_	_	_	_
+2	a	a	_	_	PART	_	_	_	_
+3	wel	gwelout	_	_	SG;IND;FIN;PRS;3;V	_	_	_	_
+4	Yann	Yann	_	_	PROPN;MASC;SG	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = bremaik.vislcg.txt:146:4985
+# text = Gwelet hon eus pegen bras e oa an dislavar etre diskleriadennoù ar gouarnamant diwar-benn an endro hag ar pezh a veze graet gantañ.
+# text[fra¹] = Nous avons vu comme grand était la contradiction entre les déclarations du gouvernement au sujet de l'environnement et ce que étaient fait avec lui.
+# labels = to_check
+1	Gwelet	gwelout	_	_	PST;V.PTCP;V	_	_	_	_
+2	hon eus	kaout	_	_	IND;FIN;PRS;PL;1;V	_	_	_	_
+3	pegen	pegen	_	_	ADV	_	_	_	_
+4	bras	bras	_	_	ADJ	_	_	_	_
+5	e	e	_	_	PART	_	_	_	_
+6	oa	bezañ	_	_	SG;IND;FIN;PST;3;V	_	_	_	_
+7	an	an	_	_	DET	_	_	_	_
+8	dislavar	dislavar	_	_	N;MASC;SG	_	_	_	_
+9	etre	etre	_	_	ADP	_	_	_	_
+10	diskleriadennoù	disklêriadenn	_	_	N;PL;FEM	_	_	_	_
+11	ar	an	_	_	DET	_	_	_	_
+12	gouarnamant	gouarnamant	_	_	N;MASC;SG	_	_	_	_
+13	diwar-benn	diwar-benn	_	_	ADP	_	_	_	_
+14	an	an	_	_	DET	_	_	_	_
+15	endro	endro	_	_	N;MASC;SG	_	_	_	_
+16	hag	ha	_	_	CONJ	_	_	_	_
+17	ar	ar	_	_	_	_	_	_	_
+18	pezh	pezh	_	_	_	_	_	_	_
+19	a	a	_	_	PRO;SG	_	_	_	_
+20	veze	bezañ	_	_	SG;HAB;FIN;PST;3;V	_	_	_	_
+21	graet	ober	_	_	PST;V.PTCP;V	_	_	_	_
+22	gantañ	gant	_	_	ADP	_	_	_	_
+23	añ	indirect	_	_	PRO;SG;ACC;3;MASC	_	_	_	_
+24	.	.	_	_	_	_	_	_	_
+
+# sent_id = apertium.vislcg.txt:51:806
+# text = Soñjal a ran enni.
+# text[fra] = Je pense à elle.
+# labels = to_check
+1	Soñjal	soñjal	_	_	NFIN;V	_	_	_	_
+2	a	a	_	_	PART	_	_	_	_
+3	ran	ober	_	_	SG;IND;FIN;PRS;1;V	_	_	_	_
+4	enni	e	_	_	ADP	_	_	_	_
+5	nni	indirect	_	_	PRO;SG;ACC;FEM;3	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = bremaik.vislcg.txt:119:4071
+# text = Gouest e vioc'h da gas ho raktresoù da vat !
+# text[fra¹] = Vous serez capable d'envoyer vos projets pour de bon !
+# labels = to_check
+1	Gouest	gouest	_	_	ADJ	_	_	_	_
+2	e	e	_	_	PART	_	_	_	_
+3	vioc'h	bezañ	_	_	IND;FUT;FIN;2;PL;V	_	_	_	_
+4	da	da	_	_	ADP	_	_	_	_
+5	gas	kas	_	_	NFIN;V	_	_	_	_
+6	ho	ho	_	_	DET	_	_	_	_
+7	raktresoù	raktres	_	_	N;MASC;PL	_	_	_	_
+8	da	da	_	_	_	_	_	_	_
+9	vat	vat	_	_	ADV	_	_	_	_
+10	!	!	_	_	_	_	_	_	_
+
+# sent_id = bremaik.vislcg.txt:95:3092
+# text = E Kemper ez eo ar stourm evit ar c'helenn divyezhek a vo er jeu.
+# text[fra¹] = À Quimper est le combat pour l'enseignement bilingue qui sera dans l'affaire.
+# labels = to_check
+1	E	e	_	_	ADP	_	_	_	_
+2	Kemper	Kemper	_	_	PROPN;SG	_	_	_	_
+3	ez	e	_	_	PART	_	_	_	_
+4	eo	bezañ	_	_	SG;IND;FIN;PRS;3;V	_	_	_	_
+5	ar	an	_	_	DET	_	_	_	_
+6	stourm	stourm	_	_	N;MASC;SG	_	_	_	_
+7	evit	evit	_	_	ADP	_	_	_	_
+8	ar	an	_	_	DET	_	_	_	_
+9	c'helenn	kelenn	_	_	N;MASC;SG	_	_	_	_
+10	divyezhek	divyezhek	_	_	ADJ	_	_	_	_
+11	a	a	_	_	PART	_	_	_	_
+12	vo	bezañ	_	_	SG;IND;FUT;FIN;3;V	_	_	_	_
+13	er	e	_	_	ADP	_	_	_	_
+14	r	an	_	_	DET	_	_	_	_
+15	jeu	jeu	_	_	N;MASC;SG	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = apertium.vislcg.txt:30:419
+# text = Gwelet em eus ar c’hi en ur dreuziñ an hent.
+# text[fra] = J'ai vu le chien en traversant la route.
+# labels = to_check
+1	Gwelet	gwelout	_	_	PST;V.PTCP;V	_	_	_	_
+2	em eus	kaout	_	_	SG;IND;FIN;PRS;1;V	_	_	_	_
+3	ar	an	_	_	DET	_	_	_	_
+4	c’hi	ki	_	_	N;MASC;SG	_	_	_	_
+5	en	en	_	_	_	_	_	_	_
+6	ur	ur	_	_	PART	_	_	_	_
+7	dreuziñ	treuziñ	_	_	NFIN;V	_	_	_	_
+8	an	an	_	_	DET	_	_	_	_
+9	hent	hent	_	_	N;MASC;SG	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = oab.vislcg.txt:40:1075
+# text = Skoaziadennoù mont en-dro evit ar c’hevredigezhioù ha tud all a wir brevez
+# text[fra] = Subventions de fonctionnement aux associations et autres personnes de droit privé
+# labels = to_check opab_parallel
+1	Skoaziadennoù	skoaziadenn	_	_	N;PL;FEM	_	_	_	_
+2	mont	mont	_	_	_	_	_	_	_
+3	en-dro	en-dro	_	_	N;MASC;SG	_	_	_	_
+4	evit	evit	_	_	ADP	_	_	_	_
+5	ar	an	_	_	DET	_	_	_	_
+6	c’hevredigezhioù	kevredigezh	_	_	N;PL;FEM	_	_	_	_
+7	ha	ha	_	_	CONJ	_	_	_	_
+8	tud	den	_	_	N;MASC;PL	_	_	_	_
+9	all	all	_	_	ADJ	_	_	_	_
+10	a	a	_	_	ADP	_	_	_	_
+11	wir	gwir	_	_	N;MASC;SG	_	_	_	_
+12	brevez	prevez	_	_	ADJ	_	_	_	_
+
+# sent_id = grammar.vislcg.txt:194:3534
+# text = Fellout a reas din kavout ma breur.
+# text[eng] = I wanted to find my brother.
+# labels = press_1986 ch_morphology to_check
+1	Fellout	fellout	_	_	NFIN;V	_	_	_	_
+2	a	a	_	_	PART	_	_	_	_
+3	reas	ober	_	_	SG;FIN;PST;3;V	_	_	_	_
+4	din	da	_	_	ADP	_	_	_	_
+5	_	indirect	_	_	PRO;SG;ACC;1	_	_	_	_
+6	kavout	kavout	_	_	NFIN;V	_	_	_	_
+7	ma	ma	_	_	DET	_	_	_	_
+8	breur	breur	_	_	N;MASC;SG	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = oab.vislcg.txt:10:312
+# text = Takad teñval
+# text[fra] = Zone obscure
+# labels = to_check opab_parallel
+1	Takad	takad	_	_	N;MASC;SG	_	_	_	_
+2	teñval	teñval	_	_	ADJ	_	_	_	_
+
+# sent_id = bremaik.vislcg.txt:74:2318
+# text = Meskit mat pep tra.
+# text[fra¹] = Mélangez bien tout.
+# labels = to_check
+1	Meskit	meskañ	_	_	2;V;PL	_	_	_	_
+2	mat	mat	_	_	ADJ	_	_	_	_
+3	pep	pep	_	_	_	_	_	_	_
+4	tra	tra	_	_	PRO;SG;ACC	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = oab.vislcg.txt:18:473
+# text = Donder an dourioù, gourdrouz an oabl a zeu da zegas takadoù teñval, glas ha rous, ha frammañ an ec’honder.
+# text[fra] = La profondeur des eaux, la menace du ciel, viennent apporter leurs touches sombres, bleues et brunes, et construire l'espace.
+# labels = to_check opab_parallel
+1	Donder	donder	_	_	N;MASC;SG	_	_	_	_
+2	an	an	_	_	DET	_	_	_	_
+3	dourioù	dour	_	_	N;MASC;PL	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	gourdrouz	gourdrouz	_	_	N;MASC;SG	_	_	_	_
+6	an	an	_	_	DET	_	_	_	_
+7	oabl	oabl	_	_	N;MASC;SG	_	_	_	_
+8	a	a	_	_	PART	_	_	_	_
+9	zeu	dont	_	_	SG;IND;FIN;PRS;3;V	_	_	_	_
+10	da	da	_	_	ADP	_	_	_	_
+11	zegas	degas	_	_	NFIN;V	_	_	_	_
+12	takadoù	takad	_	_	N;MASC;PL	_	_	_	_
+13	teñval	teñval	_	_	ADJ	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	glas	glas	_	_	ADJ	_	_	_	_
+16	ha	ha	_	_	CONJ	_	_	_	_
+17	rous	rous	_	_	ADJ	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	ha	ha	_	_	CONJ	_	_	_	_
+20	frammañ	frammañ	_	_	NFIN;V	_	_	_	_
+21	an	an	_	_	DET	_	_	_	_
+22	ec’honder	ec’honder	_	_	N;MASC;SG	_	_	_	_
+23	.	.	_	_	_	_	_	_	_
+

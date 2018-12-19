@@ -1,0 +1,4057 @@
+# sent_id = 129
+# text = ah oui naturellement
+1	ah	ah	_	_	INTJ	_	_	_	_
+2	oui	oui	_	_	INTJ	_	_	_	_
+3	naturellement	naturellement	_	_	ADV	_	_	_	_
+
+# sent_id = 1479
+# text = alors ils me referaient l' assise
+1	alors	alors	_	_	ADV	_	_	_	_
+2	ils	il	_	_	PRO	_	_	_	_
+3	me	me	_	_	PRO	_	_	_	_
+4	referaient	refaire	_	_	V	_	_	_	_
+5	l'	le	_	_	DET	_	_	_	_
+6	assise	assise	_	_	N	_	_	_	_
+
+# sent_id = 1141
+# text = et là tu es revenue euh
+1	et	et	_	_	CONJ	_	_	_	_
+2	là	là	_	_	ADV	_	_	_	_
+3	tu	tu	_	_	PRO	_	_	_	_
+4	es	être	_	_	V	_	_	_	_
+5	revenue	revenir	_	_	V	_	_	_	_
+6	euh	euh	_	_	INTJ	_	_	_	_
+
+# sent_id = 1907
+# text = mh mh donc c' est pas normal qu' ils arrivent en CP ne parlant pas français
+1	mh	mh	_	_	INTJ	_	_	_	_
+2	mh	mh	_	_	INTJ	_	_	_	_
+3	donc	donc	_	_	ADV	_	_	_	_
+4	c'	ce	_	_	PRO	_	_	_	_
+5	est	être	_	_	V	_	_	_	_
+6	pas	pas	_	_	PART	_	_	_	_
+7	normal	normal	_	_	ADJ	_	_	_	_
+8	qu'	que	_	_	CONJ	_	_	_	_
+9	ils	il	_	_	PRO	_	_	_	_
+10	arrivent	arriver	_	_	V	_	_	_	_
+11	en	en	_	_	ADP	_	_	_	_
+12	CP	CP	_	_	PROPN	_	_	_	_
+13	ne	ne	_	_	PART	_	_	_	_
+14	parlant	parler	_	_	V	_	_	_	_
+15	pas	pas	_	_	PART	_	_	_	_
+16	français	français	_	_	ADJ	_	_	_	_
+
+# sent_id = 2489
+# text = tout chez lui est fait de compassion et non de violence ou de châtiment
+1	tout	tout	_	_	PRO	_	_	_	_
+2	chez	chez	_	_	ADP	_	_	_	_
+3	lui	lui	_	_	PRO	_	_	_	_
+4	est	être	_	_	V	_	_	_	_
+5	fait	faire	_	_	V	_	_	_	_
+6	de	de	_	_	ADP	_	_	_	_
+7	compassion	compassion	_	_	N	_	_	_	_
+8	et	et	_	_	CONJ	_	_	_	_
+9	non	non	_	_	INTJ	_	_	_	_
+10	de	de	_	_	ADP	_	_	_	_
+11	violence	violence	_	_	N	_	_	_	_
+12	ou	ou	_	_	CONJ	_	_	_	_
+13	de	de	_	_	ADP	_	_	_	_
+14	châtiment	châtiment	_	_	N	_	_	_	_
+
+# sent_id = 2024
+# text = parce qu' on remarque euh ass~ euh de façon euh on remarque bien que le salaire n' est ni en adéquation avec le nombre d' années euh avec le nombre d' études suivies ni avec le travail à fournir personnel que l' on fournit
+1	parce	parce	_	_	CONJ	_	_	_	_
+2	qu'	que	_	_	CONJ	_	_	_	_
+3	on	on	_	_	PRO	_	_	_	_
+4	remarque	remarquer	_	_	V	_	_	_	_
+5	euh	euh	_	_	INTJ	_	_	_	_
+6	ass~	assez	_	_	ADV	_	_	_	_
+7	euh	euh	_	_	INTJ	_	_	_	_
+8	de	de	_	_	ADP	_	_	_	_
+9	façon	façon	_	_	N	_	_	_	_
+10	euh	euh	_	_	INTJ	_	_	_	_
+11	on	on	_	_	PRO	_	_	_	_
+12	remarque	remarquer	_	_	V	_	_	_	_
+13	bien	bien	_	_	ADV	_	_	_	_
+14	que	que	_	_	CONJ	_	_	_	_
+15	le	le	_	_	DET	_	_	_	_
+16	salaire	salaire	_	_	N	_	_	_	_
+17	n'	ne	_	_	PART	_	_	_	_
+18	est	être	_	_	V	_	_	_	_
+19	ni	ni	_	_	CONJ	_	_	_	_
+20	en	en	_	_	ADP	_	_	_	_
+21	adéquation	adéquation	_	_	N	_	_	_	_
+22	avec	avec	_	_	ADP	_	_	_	_
+23	le	le	_	_	DET	_	_	_	_
+24	nombre	nombre	_	_	N	_	_	_	_
+25	d'	de	_	_	ADP	_	_	_	_
+26	années	année	_	_	N	_	_	_	_
+27	euh	euh	_	_	INTJ	_	_	_	_
+28	avec	avec	_	_	ADP	_	_	_	_
+29	le	le	_	_	DET	_	_	_	_
+30	nombre	nombre	_	_	N	_	_	_	_
+31	d'	de	_	_	ADP	_	_	_	_
+32	études	étude	_	_	N	_	_	_	_
+33	suivies	suivre	_	_	V	_	_	_	_
+34	ni	ni	_	_	CONJ	_	_	_	_
+35	avec	avec	_	_	ADP	_	_	_	_
+36	le	le	_	_	DET	_	_	_	_
+37	travail	travail	_	_	N	_	_	_	_
+38	à	à	_	_	ADP	_	_	_	_
+39	fournir	fournir	_	_	V	_	_	_	_
+40	personnel	personnel	_	_	ADJ	_	_	_	_
+41	que	que	_	_	PRO	_	_	_	_
+42	l'	l'	_	_	DET	_	_	_	_
+43	on	on	_	_	PRO	_	_	_	_
+44	fournit	fournir	_	_	V	_	_	_	_
+
+# sent_id = 1273
+# text = nouvelle nuit de pillage et d' affrontement en Guadeloupe
+1	nouvelle	nouveau	_	_	ADJ	_	_	_	_
+2	nuit	nuit	_	_	N	_	_	_	_
+3	de	de	_	_	ADP	_	_	_	_
+4	pillage	pillage	_	_	N	_	_	_	_
+5	et	et	_	_	CONJ	_	_	_	_
+6	d'	de	_	_	ADP	_	_	_	_
+7	affrontement	affrontement	_	_	N	_	_	_	_
+8	en	en	_	_	ADP	_	_	_	_
+9	Guadeloupe	Guadeloupe	_	_	PROPN	_	_	_	_
+
+# sent_id = 940
+# text = et en passant ce porche vous allez arriver euh euh aux jardins de ville de Grenoble
+1	et	et	_	_	CONJ	_	_	_	_
+2	en	en	_	_	ADP	_	_	_	_
+3	passant	passer	_	_	V	_	_	_	_
+4	ce	ce	_	_	DET	_	_	_	_
+5	porche	porche	_	_	N	_	_	_	_
+6	vous	vous	_	_	PRO	_	_	_	_
+7	allez	aller	_	_	V	_	_	_	_
+8	arriver	arriver	_	_	V	_	_	_	_
+9	euh	euh	_	_	INTJ	_	_	_	_
+10	euh	euh	_	_	INTJ	_	_	_	_
+11	aux	à+le	_	_	ADP	_	_	_	_
+12	jardins	jardin	_	_	N	_	_	_	_
+13	de	de	_	_	ADP	_	_	_	_
+14	ville	ville	_	_	N	_	_	_	_
+15	de	de	_	_	ADP	_	_	_	_
+16	Grenoble	Grenoble	_	_	PROPN	_	_	_	_
+
+# sent_id = 2399
+# text = ça peut aller jusqu' à combien concernant les les la France et les Français
+1	ça	ça	_	_	PRO	_	_	_	_
+2	peut	pouvoir	_	_	V	_	_	_	_
+3	aller	aller	_	_	V	_	_	_	_
+4	jusqu'	jusque	_	_	ADP	_	_	_	_
+5	à	à	_	_	ADP	_	_	_	_
+6	combien	combien	_	_	PRO	_	_	_	_
+7	concernant	concerner	_	_	V	_	_	_	_
+8	les	le	_	_	DET	_	_	_	_
+9	les	le	_	_	DET	_	_	_	_
+10	la	le	_	_	DET	_	_	_	_
+11	France	France	_	_	PROPN	_	_	_	_
+12	et	et	_	_	CONJ	_	_	_	_
+13	les	le	_	_	DET	_	_	_	_
+14	Français	Français	_	_	PROPN	_	_	_	_
+
+# sent_id = 1620
+# text = et après euh légèrement à gauche
+1	et	et	_	_	CONJ	_	_	_	_
+2	après	après	_	_	ADP	_	_	_	_
+3	euh	euh	_	_	INTJ	_	_	_	_
+4	légèrement	légèrement	_	_	ADV	_	_	_	_
+5	à	à	_	_	ADP	_	_	_	_
+6	gauche	gauche	_	_	N	_	_	_	_
+
+# sent_id = 404
+# text = ah d' accord
+1	ah	ah	_	_	INTJ	_	_	_	_
+2	d'	d'	_	_	ADP	_	_	_	_
+3	accord	accord	_	_	N	_	_	_	_
+
+# sent_id = 2284
+# text = donc on peut penser que c' est une tradition euh ici qui est représentée
+1	donc	donc	_	_	ADV	_	_	_	_
+2	on	on	_	_	PRO	_	_	_	_
+3	peut	pouvoir	_	_	V	_	_	_	_
+4	penser	penser	_	_	V	_	_	_	_
+5	que	que	_	_	CONJ	_	_	_	_
+6	c'	ce	_	_	PRO	_	_	_	_
+7	est	être	_	_	V	_	_	_	_
+8	une	un	_	_	DET	_	_	_	_
+9	tradition	tradition	_	_	N	_	_	_	_
+10	euh	euh	_	_	INTJ	_	_	_	_
+11	ici	ici	_	_	ADV	_	_	_	_
+12	qui	qui	_	_	PRO	_	_	_	_
+13	est	être	_	_	V	_	_	_	_
+14	représentée	représenter	_	_	V	_	_	_	_
+
+# sent_id = 1555
+# text = bon ben écoute j' essaierai
+1	bon	bon	_	_	INTJ	_	_	_	_
+2	ben	ben	_	_	INTJ	_	_	_	_
+3	écoute	écouter	_	_	V	_	_	_	_
+4	j'	je	_	_	PRO	_	_	_	_
+5	essaierai	essayer	_	_	V	_	_	_	_
+
+# sent_id = 1457
+# text = est -ce que c' en est un vrai
+1	est	être	_	_	V	_	_	_	_
+2	-ce	ce	_	_	PRO	_	_	_	_
+3	que	que	_	_	CONJ	_	_	_	_
+4	c'	ce	_	_	PRO	_	_	_	_
+5	en	en	_	_	PRO	_	_	_	_
+6	est	être	_	_	V	_	_	_	_
+7	un	un	_	_	DET	_	_	_	_
+8	vrai	vrai	_	_	N	_	_	_	_
+
+# sent_id = 1017
+# text = bah c' est - à - dire la littérature avec un grand L euh n' est -ce pas ça a été pendant très longtemps une véritable institution
+1	bah	bah	_	_	INTJ	_	_	_	_
+2	c'	c'	_	_	PRO	_	_	_	_
+3	est	est	_	_	V	_	_	_	_
+4	-	-	_	_	_	_	_	_	_
+5	à	à	_	_	ADP	_	_	_	_
+6	-	-	_	_	_	_	_	_	_
+7	dire	dire	_	_	V	_	_	_	_
+8	la	le	_	_	DET	_	_	_	_
+9	littérature	littérature	_	_	N	_	_	_	_
+10	avec	avec	_	_	ADP	_	_	_	_
+11	un	un	_	_	DET	_	_	_	_
+12	grand	grand	_	_	N	_	_	_	_
+13	L	L	_	_	PROPN	_	_	_	_
+14	euh	euh	_	_	INTJ	_	_	_	_
+15	n'	ne	_	_	PART	_	_	_	_
+16	est	être	_	_	V	_	_	_	_
+17	-ce	ce	_	_	PRO	_	_	_	_
+18	pas	pas	_	_	PART	_	_	_	_
+19	ça	ça	_	_	PRO	_	_	_	_
+20	a	avoir	_	_	V	_	_	_	_
+21	été	être	_	_	V	_	_	_	_
+22	pendant	pendant	_	_	ADP	_	_	_	_
+23	très	très	_	_	ADV	_	_	_	_
+24	longtemps	longtemps	_	_	ADV	_	_	_	_
+25	une	un	_	_	DET	_	_	_	_
+26	véritable	véritable	_	_	ADJ	_	_	_	_
+27	institution	institution	_	_	N	_	_	_	_
+
+# sent_id = 240
+# text = la frappe
+1	la	le	_	_	DET	_	_	_	_
+2	frappe	frappe	_	_	N	_	_	_	_
+
+# sent_id = 2522
+# text = j' ai eu l' obtention de mon bac euh donc l' année dernière
+1	j'	je	_	_	PRO	_	_	_	_
+2	ai	avoir	_	_	V	_	_	_	_
+3	eu	avoir	_	_	V	_	_	_	_
+4	l'	le	_	_	DET	_	_	_	_
+5	obtention	obtention	_	_	N	_	_	_	_
+6	de	de	_	_	ADP	_	_	_	_
+7	mon	son	_	_	DET	_	_	_	_
+8	bac	bac	_	_	N	_	_	_	_
+9	euh	euh	_	_	INTJ	_	_	_	_
+10	donc	donc	_	_	ADV	_	_	_	_
+11	l'	le	_	_	DET	_	_	_	_
+12	année	année	_	_	N	_	_	_	_
+13	dernière	dernier	_	_	ADJ	_	_	_	_
+
+# sent_id = 1593
+# text = tu vas tout droit
+1	tu	tu	_	_	PRO	_	_	_	_
+2	vas	aller	_	_	V	_	_	_	_
+3	tout	tout	_	_	ADV	_	_	_	_
+4	droit	droit	_	_	ADJ	_	_	_	_
+
+# sent_id = 893
+# text = donc euh voilà
+1	donc	donc	_	_	ADV	_	_	_	_
+2	euh	euh	_	_	INTJ	_	_	_	_
+3	voilà	voilà	_	_	V	_	_	_	_
+
+# sent_id = 765
+# text = et puis il y a des formes d' art qui sont beaucoup plus hédonistes et qui se préoccupent très peu euh de euh de la connaissance
+1	et	et	_	_	CONJ	_	_	_	_
+2	puis	puis	_	_	ADV	_	_	_	_
+3	il	il	_	_	PRO	_	_	_	_
+4	y	y	_	_	PRO	_	_	_	_
+5	a	avoir	_	_	V	_	_	_	_
+6	des	de+le	_	_	ADP	_	_	_	_
+7	formes	forme	_	_	N	_	_	_	_
+8	d'	de	_	_	ADP	_	_	_	_
+9	art	art	_	_	N	_	_	_	_
+10	qui	qui	_	_	PRO	_	_	_	_
+11	sont	être	_	_	V	_	_	_	_
+12	beaucoup	beaucoup	_	_	ADV	_	_	_	_
+13	plus	plus	_	_	ADV	_	_	_	_
+14	hédonistes	hédoniste	_	_	ADJ	_	_	_	_
+15	et	et	_	_	CONJ	_	_	_	_
+16	qui	qui	_	_	PRO	_	_	_	_
+17	se	se	_	_	PRO	_	_	_	_
+18	préoccupent	préoccuper	_	_	V	_	_	_	_
+19	très	très	_	_	ADV	_	_	_	_
+20	peu	peu	_	_	ADV	_	_	_	_
+21	euh	euh	_	_	INTJ	_	_	_	_
+22	de	de	_	_	ADP	_	_	_	_
+23	euh	euh	_	_	INTJ	_	_	_	_
+24	de	de	_	_	ADP	_	_	_	_
+25	la	le	_	_	DET	_	_	_	_
+26	connaissance	connaissance	_	_	N	_	_	_	_
+
+# sent_id = 300
+# text = je pense que c' est Mascherano ou M~ euh peut~ peut-être euh oui
+1	je	je	_	_	PRO	_	_	_	_
+2	pense	penser	_	_	V	_	_	_	_
+3	que	que	_	_	CONJ	_	_	_	_
+4	c'	ce	_	_	PRO	_	_	_	_
+5	est	être	_	_	V	_	_	_	_
+6	Mascherano	Mascherano	_	_	PROPN	_	_	_	_
+7	ou	ou	_	_	CONJ	_	_	_	_
+8	M~	M~	_	_	PROPN	_	_	_	_
+9	euh	euh	_	_	INTJ	_	_	_	_
+10	peut~	peut~	_	_	ADV	_	_	_	_
+11	peut-être	peut-être	_	_	ADV	_	_	_	_
+12	euh	euh	_	_	INTJ	_	_	_	_
+13	oui	oui	_	_	INTJ	_	_	_	_
+
+# sent_id = 2716
+# text = et vous tombez sur la gare
+1	et	et	_	_	CONJ	_	_	_	_
+2	vous	vous	_	_	PRO	_	_	_	_
+3	tombez	tomber	_	_	V	_	_	_	_
+4	sur	sur	_	_	ADP	_	_	_	_
+5	la	le	_	_	DET	_	_	_	_
+6	gare	gare	_	_	N	_	_	_	_
+
+# sent_id = 130
+# text = parce que la seule la seule médecin femme a avait été est tombée malade était rentrée en Angleterre
+1	parce	parce	_	_	CONJ	_	_	_	_
+2	que	que	_	_	CONJ	_	_	_	_
+3	la	le	_	_	DET	_	_	_	_
+4	seule	seul	_	_	ADJ	_	_	_	_
+5	la	le	_	_	DET	_	_	_	_
+6	seule	seul	_	_	ADJ	_	_	_	_
+7	médecin	médecin	_	_	N	_	_	_	_
+8	femme	femme	_	_	N	_	_	_	_
+9	a	avoir	_	_	V	_	_	_	_
+10	avait	avoir	_	_	V	_	_	_	_
+11	été	être	_	_	V	_	_	_	_
+12	est	être	_	_	V	_	_	_	_
+13	tombée	tomber	_	_	V	_	_	_	_
+14	malade	malade	_	_	ADJ	_	_	_	_
+15	était	être	_	_	V	_	_	_	_
+16	rentrée	rentrer	_	_	V	_	_	_	_
+17	en	en	_	_	ADP	_	_	_	_
+18	Angleterre	Angleterre	_	_	PROPN	_	_	_	_
+
+# sent_id = 1395
+# text = ben pour euh aller à la gare vous allez euh vous éloigner du tram en en longeant euh le le cinéma
+1	ben	ben	_	_	INTJ	_	_	_	_
+2	pour	pour	_	_	ADP	_	_	_	_
+3	euh	euh	_	_	INTJ	_	_	_	_
+4	aller	aller	_	_	V	_	_	_	_
+5	à	à	_	_	ADP	_	_	_	_
+6	la	le	_	_	DET	_	_	_	_
+7	gare	gare	_	_	N	_	_	_	_
+8	vous	vous	_	_	PRO	_	_	_	_
+9	allez	aller	_	_	V	_	_	_	_
+10	euh	euh	_	_	INTJ	_	_	_	_
+11	vous	vous	_	_	PRO	_	_	_	_
+12	éloigner	éloigner	_	_	V	_	_	_	_
+13	du	de+le	_	_	ADP	_	_	_	_
+14	tram	tram	_	_	N	_	_	_	_
+15	en	en	_	_	ADP	_	_	_	_
+16	en	en	_	_	ADP	_	_	_	_
+17	longeant	longer	_	_	V	_	_	_	_
+18	euh	euh	_	_	INTJ	_	_	_	_
+19	le	le	_	_	DET	_	_	_	_
+20	le	le	_	_	DET	_	_	_	_
+21	cinéma	cinéma	_	_	N	_	_	_	_
+
+# sent_id = 528
+# text = alors Yves Klein n' a pas toujours été très clair avec ça
+1	alors	alors	_	_	ADV	_	_	_	_
+2	Yves	Yves	_	_	PROPN	_	_	_	_
+3	Klein	Klein	_	_	PROPN	_	_	_	_
+4	n'	ne	_	_	PART	_	_	_	_
+5	a	avoir	_	_	V	_	_	_	_
+6	pas	pas	_	_	PART	_	_	_	_
+7	toujours	toujours	_	_	ADV	_	_	_	_
+8	été	être	_	_	V	_	_	_	_
+9	très	très	_	_	ADV	_	_	_	_
+10	clair	clair	_	_	ADJ	_	_	_	_
+11	avec	avec	_	_	ADP	_	_	_	_
+12	ça	ça	_	_	PRO	_	_	_	_
+
+# sent_id = 573
+# text = mais je reviens jamais en métro
+1	mais	mais	_	_	CONJ	_	_	_	_
+2	je	je	_	_	PRO	_	_	_	_
+3	reviens	revenir	_	_	V	_	_	_	_
+4	jamais	jamais	_	_	PART	_	_	_	_
+5	en	en	_	_	ADP	_	_	_	_
+6	métro	métro	_	_	N	_	_	_	_
+
+# sent_id = 640
+# text = on n' avait pas les conditions matérielles non non qu' ils ont maintenant ça euh
+1	on	on	_	_	PRO	_	_	_	_
+2	n'	ne	_	_	PART	_	_	_	_
+3	avait	avoir	_	_	V	_	_	_	_
+4	pas	pas	_	_	PART	_	_	_	_
+5	les	le	_	_	DET	_	_	_	_
+6	conditions	condition	_	_	N	_	_	_	_
+7	matérielles	matériel	_	_	ADJ	_	_	_	_
+8	non	non	_	_	INTJ	_	_	_	_
+9	non	non	_	_	ADV	_	_	_	_
+10	qu'	que	_	_	CONJ	_	_	_	_
+11	ils	il	_	_	PRO	_	_	_	_
+12	ont	avoir	_	_	V	_	_	_	_
+13	maintenant	maintenant	_	_	ADV	_	_	_	_
+14	ça	ça	_	_	PRO	_	_	_	_
+15	euh	euh	_	_	INTJ	_	_	_	_
+
+# sent_id = 205
+# text = ah non
+1	ah	ah	_	_	INTJ	_	_	_	_
+2	non	non	_	_	INTJ	_	_	_	_
+
+# sent_id = 1483
+# text = de toutes façons il faut tout reprendre hein
+1	de	de	_	_	ADP	_	_	_	_
+2	toutes	tout	_	_	DET	_	_	_	_
+3	façons	façon	_	_	N	_	_	_	_
+4	il	il	_	_	PRO	_	_	_	_
+5	faut	falloir	_	_	V	_	_	_	_
+6	tout	tout	_	_	PRO	_	_	_	_
+7	reprendre	reprendre	_	_	V	_	_	_	_
+8	hein	hein	_	_	INTJ	_	_	_	_
+
+# sent_id = 857
+# text = bougez pas bougez pas
+1	bougez	bouger	_	_	V	_	_	_	_
+2	pas	pas	_	_	PART	_	_	_	_
+3	bougez	bouger	_	_	V	_	_	_	_
+4	pas	pas	_	_	PART	_	_	_	_
+
+# sent_id = 1719
+# text = est -ce que tu as déjà dit à ta petite amie mais non c' est pas ce que tu crois c' est une copine
+1	est	être	_	_	V	_	_	_	_
+2	-ce	ce	_	_	PRO	_	_	_	_
+3	que	que	_	_	CONJ	_	_	_	_
+4	tu	tu	_	_	PRO	_	_	_	_
+5	as	avoir	_	_	V	_	_	_	_
+6	déjà	déjà	_	_	ADV	_	_	_	_
+7	dit	dire	_	_	V	_	_	_	_
+8	à	à	_	_	ADP	_	_	_	_
+9	ta	son	_	_	DET	_	_	_	_
+10	petite	petit	_	_	ADJ	_	_	_	_
+11	amie	ami	_	_	N	_	_	_	_
+12	mais	mais	_	_	CONJ	_	_	_	_
+13	non	non	_	_	INTJ	_	_	_	_
+14	c'	ce	_	_	PRO	_	_	_	_
+15	est	être	_	_	V	_	_	_	_
+16	pas	pas	_	_	PART	_	_	_	_
+17	ce	ce	_	_	PRO	_	_	_	_
+18	que	que	_	_	PRO	_	_	_	_
+19	tu	tu	_	_	PRO	_	_	_	_
+20	crois	croire	_	_	V	_	_	_	_
+21	c'	ce	_	_	PRO	_	_	_	_
+22	est	être	_	_	V	_	_	_	_
+23	une	un	_	_	DET	_	_	_	_
+24	copine	copine	_	_	N	_	_	_	_
+
+# sent_id = 1333
+# text = on écoute maître Sollacaro au micro de Christian Binner
+1	on	on	_	_	PRO	_	_	_	_
+2	écoute	écouter	_	_	V	_	_	_	_
+3	maître	maître	_	_	N	_	_	_	_
+4	Sollacaro	Sollacaro	_	_	PROPN	_	_	_	_
+5	au	à+le	_	_	ADP	_	_	_	_
+6	micro	micro	_	_	N	_	_	_	_
+7	de	de	_	_	ADP	_	_	_	_
+8	Christian	Christian	_	_	PROPN	_	_	_	_
+9	Binner	Binner	_	_	PROPN	_	_	_	_
+
+# sent_id = 1492
+# text = non non
+1	non	non	_	_	INTJ	_	_	_	_
+2	non	non	_	_	INTJ	_	_	_	_
+
+# sent_id = 2681
+# text = vous étiez normalement entraînée
+1	vous	vous	_	_	PRO	_	_	_	_
+2	étiez	être	_	_	V	_	_	_	_
+3	normalement	normalement	_	_	ADV	_	_	_	_
+4	entraînée	entraîner	_	_	V	_	_	_	_
+
+# sent_id = 310
+# text = on va essayer à gauche avec Papa maintenant très offensif
+1	on	on	_	_	PRO	_	_	_	_
+2	va	aller	_	_	V	_	_	_	_
+3	essayer	essayer	_	_	V	_	_	_	_
+4	à	à	_	_	ADP	_	_	_	_
+5	gauche	gauche	_	_	N	_	_	_	_
+6	avec	avec	_	_	ADP	_	_	_	_
+7	Papa	Papa	_	_	PROPN	_	_	_	_
+8	maintenant	maintenir	_	_	V	_	_	_	_
+9	très	très	_	_	ADV	_	_	_	_
+10	offensif	offensif	_	_	ADJ	_	_	_	_
+
+# sent_id = 2084
+# text = la machine est vide
+1	la	le	_	_	DET	_	_	_	_
+2	machine	machine	_	_	N	_	_	_	_
+3	est	être	_	_	V	_	_	_	_
+4	vide	vide	_	_	ADJ	_	_	_	_
+
+# sent_id = 1909
+# text = et comme les mamans ne parlent pas français
+1	et	et	_	_	CONJ	_	_	_	_
+2	comme	comme	_	_	CONJ	_	_	_	_
+3	les	le	_	_	DET	_	_	_	_
+4	mamans	maman	_	_	N	_	_	_	_
+5	ne	ne	_	_	PART	_	_	_	_
+6	parlent	parler	_	_	V	_	_	_	_
+7	pas	pas	_	_	PART	_	_	_	_
+8	français	français	_	_	N	_	_	_	_
+
+# sent_id = 1313
+# text = à Paris un rassemblement devant le ministère de l' enseignement supérieur
+1	à	à	_	_	ADP	_	_	_	_
+2	Paris	Paris	_	_	PROPN	_	_	_	_
+3	un	un	_	_	DET	_	_	_	_
+4	rassemblement	rassemblement	_	_	N	_	_	_	_
+5	devant	devant	_	_	ADP	_	_	_	_
+6	le	le	_	_	DET	_	_	_	_
+7	ministère	ministère	_	_	N	_	_	_	_
+8	de	de	_	_	ADP	_	_	_	_
+9	l'	le	_	_	DET	_	_	_	_
+10	enseignement	enseignement	_	_	N	_	_	_	_
+11	supérieur	supérieur	_	_	ADJ	_	_	_	_
+
+# sent_id = 872
+# text = alors comment on pourrait
+1	alors	alors	_	_	ADV	_	_	_	_
+2	comment	comment	_	_	PRO	_	_	_	_
+3	on	on	_	_	PRO	_	_	_	_
+4	pourrait	pouvoir	_	_	V	_	_	_	_
+
+# sent_id = 2183
+# text = ah oui bon
+1	ah	ah	_	_	INTJ	_	_	_	_
+2	oui	oui	_	_	INTJ	_	_	_	_
+3	bon	bon	_	_	INTJ	_	_	_	_
+
+# sent_id = 565
+# text = et puis euh je travaille toute la journée
+1	et	et	_	_	CONJ	_	_	_	_
+2	puis	puis	_	_	ADV	_	_	_	_
+3	euh	euh	_	_	INTJ	_	_	_	_
+4	je	je	_	_	PRO	_	_	_	_
+5	travaille	travailler	_	_	V	_	_	_	_
+6	toute	tout	_	_	ADJ	_	_	_	_
+7	la	le	_	_	DET	_	_	_	_
+8	journée	journée	_	_	N	_	_	_	_
+
+# sent_id = 1146
+# text = et euh voilà
+1	et	et	_	_	CONJ	_	_	_	_
+2	euh	euh	_	_	INTJ	_	_	_	_
+3	voilà	voilà	_	_	V	_	_	_	_
+
+# sent_id = 1519
+# text = ça c' est bon
+1	ça	ça	_	_	PRO	_	_	_	_
+2	c'	ce	_	_	PRO	_	_	_	_
+3	est	être	_	_	V	_	_	_	_
+4	bon	bon	_	_	ADJ	_	_	_	_
+
+# sent_id = 1418
+# text = et il faut compter à peu près combien par chaise
+1	et	et	_	_	CONJ	_	_	_	_
+2	il	il	_	_	PRO	_	_	_	_
+3	faut	falloir	_	_	V	_	_	_	_
+4	compter	compter	_	_	V	_	_	_	_
+5	à	à	_	_	ADP	_	_	_	_
+6	peu	peu	_	_	N	_	_	_	_
+7	près	près	_	_	ADV	_	_	_	_
+8	combien	combien	_	_	PRO	_	_	_	_
+9	par	par	_	_	ADP	_	_	_	_
+10	chaise	chaise	_	_	N	_	_	_	_
+
+# sent_id = 2729
+# text = les bases d' une défense européenne existent
+1	les	le	_	_	DET	_	_	_	_
+2	bases	base	_	_	N	_	_	_	_
+3	d'	de	_	_	ADP	_	_	_	_
+4	une	un	_	_	DET	_	_	_	_
+5	défense	défense	_	_	N	_	_	_	_
+6	européenne	européen	_	_	ADJ	_	_	_	_
+7	existent	exister	_	_	V	_	_	_	_
+
+# sent_id = 850
+# text = je le précise aux auditeurs
+1	je	je	_	_	PRO	_	_	_	_
+2	le	le	_	_	PRO	_	_	_	_
+3	précise	préciser	_	_	V	_	_	_	_
+4	aux	à+le	_	_	ADP	_	_	_	_
+5	auditeurs	auditeur	_	_	N	_	_	_	_
+
+# sent_id = 2734
+# text = aujourd' hui plus que jamais et vous le savez mieux que personne c' est sur le terrain que se gagne ou se perd le combat
+1	aujourd'	aujourd'	_	_	N	_	_	_	_
+2	hui	hui	_	_	N	_	_	_	_
+3	plus	plus	_	_	ADV	_	_	_	_
+4	que	que	_	_	CONJ	_	_	_	_
+5	jamais	jamais	_	_	PART	_	_	_	_
+6	et	et	_	_	CONJ	_	_	_	_
+7	vous	vous	_	_	PRO	_	_	_	_
+8	le	le	_	_	PRO	_	_	_	_
+9	savez	savoir	_	_	V	_	_	_	_
+10	mieux	mieux	_	_	ADV	_	_	_	_
+11	que	que	_	_	PRO	_	_	_	_
+12	personne	personne	_	_	PRO	_	_	_	_
+13	c'	ce	_	_	PRO	_	_	_	_
+14	est	être	_	_	V	_	_	_	_
+15	sur	sur	_	_	ADP	_	_	_	_
+16	le	le	_	_	DET	_	_	_	_
+17	terrain	terrain	_	_	N	_	_	_	_
+18	que	que	_	_	CONJ	_	_	_	_
+19	se	se	_	_	PRO	_	_	_	_
+20	gagne	gagner	_	_	V	_	_	_	_
+21	ou	ou	_	_	CONJ	_	_	_	_
+22	se	se	_	_	PRO	_	_	_	_
+23	perd	perdre	_	_	V	_	_	_	_
+24	le	le	_	_	DET	_	_	_	_
+25	combat	combat	_	_	N	_	_	_	_
+
+# sent_id = 2252
+# text = est -ce qu' on peut dire que cet échange de regards va changer votre vie
+1	est	être	_	_	V	_	_	_	_
+2	-ce	ce	_	_	PRO	_	_	_	_
+3	qu'	que	_	_	CONJ	_	_	_	_
+4	on	on	_	_	PRO	_	_	_	_
+5	peut	pouvoir	_	_	V	_	_	_	_
+6	dire	dire	_	_	V	_	_	_	_
+7	que	que	_	_	CONJ	_	_	_	_
+8	cet	ce	_	_	DET	_	_	_	_
+9	échange	échange	_	_	N	_	_	_	_
+10	de	de	_	_	ADP	_	_	_	_
+11	regards	regard	_	_	N	_	_	_	_
+12	va	aller	_	_	V	_	_	_	_
+13	changer	changer	_	_	V	_	_	_	_
+14	votre	son	_	_	DET	_	_	_	_
+15	vie	vie	_	_	N	_	_	_	_
+
+# sent_id = 1769
+# text = et j' étais d' une famille très unie très aisée
+1	et	et	_	_	CONJ	_	_	_	_
+2	j'	je	_	_	PRO	_	_	_	_
+3	étais	être	_	_	V	_	_	_	_
+4	d'	de	_	_	ADP	_	_	_	_
+5	une	un	_	_	DET	_	_	_	_
+6	famille	famille	_	_	N	_	_	_	_
+7	très	très	_	_	ADV	_	_	_	_
+8	unie	unir	_	_	ADJ	_	_	_	_
+9	très	très	_	_	ADV	_	_	_	_
+10	aisée	aisé	_	_	ADJ	_	_	_	_
+
+# sent_id = 452
+# text = oui mais moi aussi moi aussi c' était un peu ça
+1	oui	oui	_	_	INTJ	_	_	_	_
+2	mais	mais	_	_	CONJ	_	_	_	_
+3	moi	lui	_	_	PRO	_	_	_	_
+4	aussi	aussi	_	_	ADV	_	_	_	_
+5	moi	lui	_	_	PRO	_	_	_	_
+6	aussi	aussi	_	_	ADV	_	_	_	_
+7	c'	ce	_	_	PRO	_	_	_	_
+8	était	être	_	_	V	_	_	_	_
+9	un	un	_	_	DET	_	_	_	_
+10	peu	peu	_	_	N	_	_	_	_
+11	ça	ça	_	_	PRO	_	_	_	_
+
+# sent_id = 953
+# text = il y a le bâtiment euh du départ des bulles euh de Grenoble
+1	il	il	_	_	PRO	_	_	_	_
+2	y	y	_	_	PRO	_	_	_	_
+3	a	avoir	_	_	V	_	_	_	_
+4	le	le	_	_	DET	_	_	_	_
+5	bâtiment	bâtiment	_	_	N	_	_	_	_
+6	euh	euh	_	_	INTJ	_	_	_	_
+7	du	de+le	_	_	ADP	_	_	_	_
+8	départ	départ	_	_	N	_	_	_	_
+9	des	de+le	_	_	ADP	_	_	_	_
+10	bulles	bulle	_	_	N	_	_	_	_
+11	euh	euh	_	_	INTJ	_	_	_	_
+12	de	de	_	_	ADP	_	_	_	_
+13	Grenoble	Grenoble	_	_	PROPN	_	_	_	_
+
+# sent_id = 2078
+# text = et regardez
+1	et	et	_	_	CONJ	_	_	_	_
+2	regardez	regarder	_	_	V	_	_	_	_
+
+# sent_id = 952
+# text = il y a les bulles euh
+1	il	il	_	_	PRO	_	_	_	_
+2	y	y	_	_	PRO	_	_	_	_
+3	a	avoir	_	_	V	_	_	_	_
+4	les	le	_	_	DET	_	_	_	_
+5	bulles	bulle	_	_	N	_	_	_	_
+6	euh	euh	_	_	INTJ	_	_	_	_
+
+# sent_id = 1055
+# text = ils restent pas longtemps
+1	ils	il	_	_	PRO	_	_	_	_
+2	restent	rester	_	_	V	_	_	_	_
+3	pas	pas	_	_	PART	_	_	_	_
+4	longtemps	longtemps	_	_	ADV	_	_	_	_
+
+# sent_id = 2479
+# text = visite à l' épicentre de la peur avec Sophie Pagès et Dominique Le Marchant
+1	visite	visite	_	_	N	_	_	_	_
+2	à	à	_	_	ADP	_	_	_	_
+3	l'	le	_	_	DET	_	_	_	_
+4	épicentre	épicentre	_	_	N	_	_	_	_
+5	de	de	_	_	ADP	_	_	_	_
+6	la	le	_	_	DET	_	_	_	_
+7	peur	peur	_	_	N	_	_	_	_
+8	avec	avec	_	_	ADP	_	_	_	_
+9	Sophie	Sophie	_	_	PROPN	_	_	_	_
+10	Pagès	Pagès	_	_	PROPN	_	_	_	_
+11	et	et	_	_	CONJ	_	_	_	_
+12	Dominique	Dominique	_	_	PROPN	_	_	_	_
+13	Le	le	_	_	DET	_	_	_	_
+14	Marchant	Marchant	_	_	PROPN	_	_	_	_
+
+# sent_id = 2283
+# text = je l' ai choisie parce que c' était une une élève de Blumenfeld de Felix Blumenfeld l' oncle de Szymanoski dont on va parler tout à l' heure
+1	je	je	_	_	PRO	_	_	_	_
+2	l'	le	_	_	PRO	_	_	_	_
+3	ai	avoir	_	_	V	_	_	_	_
+4	choisie	choisir	_	_	V	_	_	_	_
+5	parce	parce	_	_	CONJ	_	_	_	_
+6	que	que	_	_	CONJ	_	_	_	_
+7	c'	ce	_	_	PRO	_	_	_	_
+8	était	être	_	_	V	_	_	_	_
+9	une	un	_	_	DET	_	_	_	_
+10	une	un	_	_	DET	_	_	_	_
+11	élève	élève	_	_	N	_	_	_	_
+12	de	de	_	_	ADP	_	_	_	_
+13	Blumenfeld	Blumenfeld	_	_	PROPN	_	_	_	_
+14	de	de	_	_	ADP	_	_	_	_
+15	Felix	Felix	_	_	PROPN	_	_	_	_
+16	Blumenfeld	Blumenfeld	_	_	PROPN	_	_	_	_
+17	l'	le	_	_	DET	_	_	_	_
+18	oncle	oncle	_	_	N	_	_	_	_
+19	de	de	_	_	ADP	_	_	_	_
+20	Szymanoski	Szymanoski	_	_	PROPN	_	_	_	_
+21	dont	dont	_	_	PRO	_	_	_	_
+22	on	on	_	_	PRO	_	_	_	_
+23	va	aller	_	_	V	_	_	_	_
+24	parler	parler	_	_	V	_	_	_	_
+25	tout	tout	_	_	ADV	_	_	_	_
+26	à	à	_	_	ADP	_	_	_	_
+27	l'	le	_	_	DET	_	_	_	_
+28	heure	heure	_	_	N	_	_	_	_
+
+# sent_id = 2605
+# text = mais j' avais quatorze ans
+1	mais	mais	_	_	CONJ	_	_	_	_
+2	j'	je	_	_	PRO	_	_	_	_
+3	avais	avoir	_	_	V	_	_	_	_
+4	quatorze	quatorze	_	_	NUM	_	_	_	_
+5	ans	an	_	_	N	_	_	_	_
+
+# sent_id = 1190
+# text = et ça fait du bien de sortir un peu
+1	et	et	_	_	CONJ	_	_	_	_
+2	ça	ça	_	_	PRO	_	_	_	_
+3	fait	faire	_	_	V	_	_	_	_
+4	du	de+le	_	_	ADP	_	_	_	_
+5	bien	bien	_	_	N	_	_	_	_
+6	de	de	_	_	ADP	_	_	_	_
+7	sortir	sortir	_	_	V	_	_	_	_
+8	un	un	_	_	DET	_	_	_	_
+9	peu	peu	_	_	N	_	_	_	_
+
+# sent_id = 1802
+# text = et j' étais pas un très bon élève
+1	et	et	_	_	CONJ	_	_	_	_
+2	j'	je	_	_	PRO	_	_	_	_
+3	étais	être	_	_	V	_	_	_	_
+4	pas	pas	_	_	PART	_	_	_	_
+5	un	un	_	_	DET	_	_	_	_
+6	très	très	_	_	ADV	_	_	_	_
+7	bon	bon	_	_	ADJ	_	_	_	_
+8	élève	élève	_	_	N	_	_	_	_
+
+# sent_id = 2507
+# text = il enseigne avec autorité pas comme les pharisiens et les scribes
+1	il	il	_	_	PRO	_	_	_	_
+2	enseigne	enseigner	_	_	V	_	_	_	_
+3	avec	avec	_	_	ADP	_	_	_	_
+4	autorité	autorité	_	_	N	_	_	_	_
+5	pas	pas	_	_	PART	_	_	_	_
+6	comme	comme	_	_	ADP	_	_	_	_
+7	les	le	_	_	DET	_	_	_	_
+8	pharisiens	pharisien	_	_	N	_	_	_	_
+9	et	et	_	_	CONJ	_	_	_	_
+10	les	le	_	_	DET	_	_	_	_
+11	scribes	scribe	_	_	N	_	_	_	_
+
+# sent_id = 223
+# text = ce sera le droit de Rodriguez
+1	ce	ce	_	_	PRO	_	_	_	_
+2	sera	être	_	_	V	_	_	_	_
+3	le	le	_	_	DET	_	_	_	_
+4	droit	droit	_	_	ADJ	_	_	_	_
+5	de	de	_	_	ADP	_	_	_	_
+6	Rodriguez	Rodriguez	_	_	PROPN	_	_	_	_
+
+# sent_id = 32
+# text = euh il y a un stade aussi à côté
+1	euh	euh	_	_	INTJ	_	_	_	_
+2	il	il	_	_	PRO	_	_	_	_
+3	y	y	_	_	PRO	_	_	_	_
+4	a	avoir	_	_	V	_	_	_	_
+5	un	un	_	_	DET	_	_	_	_
+6	stade	stade	_	_	N	_	_	_	_
+7	aussi	aussi	_	_	ADV	_	_	_	_
+8	à	à	_	_	ADP	_	_	_	_
+9	côté	côté	_	_	N	_	_	_	_
+
+# sent_id = 1601
+# text = vous vous vous prenez à droite la droite
+1	vous	vous	_	_	PRO	_	_	_	_
+2	vous	vous	_	_	PRO	_	_	_	_
+3	vous	vous	_	_	PRO	_	_	_	_
+4	prenez	prendre	_	_	V	_	_	_	_
+5	à	à	_	_	ADP	_	_	_	_
+6	droite	droite	_	_	N	_	_	_	_
+7	la	le	_	_	DET	_	_	_	_
+8	droite	droite	_	_	N	_	_	_	_
+
+# sent_id = 2546
+# text = mais si je la passe pas enfin je c' est j' ai beau~ j' ai appris beaucoup de choses
+1	mais	mais	_	_	CONJ	_	_	_	_
+2	si	si	_	_	CONJ	_	_	_	_
+3	je	je	_	_	PRO	_	_	_	_
+4	la	le	_	_	PRO	_	_	_	_
+5	passe	passer	_	_	V	_	_	_	_
+6	pas	pas	_	_	PART	_	_	_	_
+7	enfin	enfin	_	_	ADV	_	_	_	_
+8	je	je	_	_	PRO	_	_	_	_
+9	c'	ce	_	_	PRO	_	_	_	_
+10	est	être	_	_	V	_	_	_	_
+11	j'	je	_	_	PRO	_	_	_	_
+12	ai	avoir	_	_	V	_	_	_	_
+13	beau~	beau~	_	_	ADV	_	_	_	_
+14	j'	je	_	_	PRO	_	_	_	_
+15	ai	avoir	_	_	V	_	_	_	_
+16	appris	apprendre	_	_	V	_	_	_	_
+17	beaucoup	beaucoup	_	_	ADV	_	_	_	_
+18	de	de	_	_	ADP	_	_	_	_
+19	choses	chose	_	_	N	_	_	_	_
+
+# sent_id = 2521
+# text = j' ai dix-neuf ans
+1	j'	je	_	_	PRO	_	_	_	_
+2	ai	avoir	_	_	V	_	_	_	_
+3	dix-neuf	dix-neuf	_	_	NUM	_	_	_	_
+4	ans	an	_	_	N	_	_	_	_
+
+# sent_id = 1863
+# text = nous avons attendu je crois sept ou huit heures dans la gare parce que tous les officiers allemands tout l' état major allemand rentraient à Paris
+1	nous	nous	_	_	PRO	_	_	_	_
+2	avons	avoir	_	_	V	_	_	_	_
+3	attendu	attendre	_	_	V	_	_	_	_
+4	je	je	_	_	PRO	_	_	_	_
+5	crois	croire	_	_	V	_	_	_	_
+6	sept	sept	_	_	NUM	_	_	_	_
+7	ou	ou	_	_	CONJ	_	_	_	_
+8	huit	huit	_	_	NUM	_	_	_	_
+9	heures	heure	_	_	N	_	_	_	_
+10	dans	dans	_	_	ADP	_	_	_	_
+11	la	le	_	_	DET	_	_	_	_
+12	gare	gare	_	_	N	_	_	_	_
+13	parce	parce	_	_	CONJ	_	_	_	_
+14	que	que	_	_	CONJ	_	_	_	_
+15	tous	tout	_	_	ADJ	_	_	_	_
+16	les	le	_	_	DET	_	_	_	_
+17	officiers	officier	_	_	N	_	_	_	_
+18	allemands	allemand	_	_	ADJ	_	_	_	_
+19	tout	tout	_	_	ADJ	_	_	_	_
+20	l'	le	_	_	DET	_	_	_	_
+21	état	état	_	_	N	_	_	_	_
+22	major	major	_	_	N	_	_	_	_
+23	allemand	allemand	_	_	ADJ	_	_	_	_
+24	rentraient	rentrer	_	_	V	_	_	_	_
+25	à	à	_	_	ADP	_	_	_	_
+26	Paris	Paris	_	_	PROPN	_	_	_	_
+
+# sent_id = 115
+# text = et après la guerre je suis venue
+1	et	et	_	_	CONJ	_	_	_	_
+2	après	après	_	_	ADP	_	_	_	_
+3	la	le	_	_	DET	_	_	_	_
+4	guerre	guerre	_	_	N	_	_	_	_
+5	je	je	_	_	PRO	_	_	_	_
+6	suis	être	_	_	V	_	_	_	_
+7	venue	venir	_	_	V	_	_	_	_
+
+# sent_id = 2025
+# text = euh d' autre part j' ai pu relever en faisant tous ces tests au cours de donc euh de du semestre dans cette matière mais également grâce à mon dossier à à la à l' élaboration de mon projet que euh je on pouvait enfin je pouvais noter certains euh atouts indispensables euh dans ce métier
+1	euh	euh	_	_	INTJ	_	_	_	_
+2	d'	de	_	_	ADP	_	_	_	_
+3	autre	autre	_	_	ADJ	_	_	_	_
+4	part	part	_	_	N	_	_	_	_
+5	j'	je	_	_	PRO	_	_	_	_
+6	ai	avoir	_	_	V	_	_	_	_
+7	pu	pouvoir	_	_	V	_	_	_	_
+8	relever	relever	_	_	V	_	_	_	_
+9	en	en	_	_	ADP	_	_	_	_
+10	faisant	faire	_	_	V	_	_	_	_
+11	tous	tout	_	_	ADJ	_	_	_	_
+12	ces	ce	_	_	DET	_	_	_	_
+13	tests	test	_	_	N	_	_	_	_
+14	au	à+le	_	_	ADP	_	_	_	_
+15	cours	cours	_	_	N	_	_	_	_
+16	de	de	_	_	ADP	_	_	_	_
+17	donc	donc	_	_	ADV	_	_	_	_
+18	euh	euh	_	_	INTJ	_	_	_	_
+19	de	de	_	_	ADP	_	_	_	_
+20	du	de+le	_	_	ADP	_	_	_	_
+21	semestre	semestre	_	_	N	_	_	_	_
+22	dans	dans	_	_	ADP	_	_	_	_
+23	cette	ce	_	_	DET	_	_	_	_
+24	matière	matière	_	_	N	_	_	_	_
+25	mais	mais	_	_	CONJ	_	_	_	_
+26	également	également	_	_	ADV	_	_	_	_
+27	grâce	grâce	_	_	ADV	_	_	_	_
+28	à	à	_	_	ADP	_	_	_	_
+29	mon	son	_	_	DET	_	_	_	_
+30	dossier	dossier	_	_	N	_	_	_	_
+31	à	à	_	_	ADP	_	_	_	_
+32	à	à	_	_	ADP	_	_	_	_
+33	la	le	_	_	DET	_	_	_	_
+34	à	à	_	_	ADP	_	_	_	_
+35	l'	le	_	_	DET	_	_	_	_
+36	élaboration	élaboration	_	_	N	_	_	_	_
+37	de	de	_	_	ADP	_	_	_	_
+38	mon	son	_	_	DET	_	_	_	_
+39	projet	projet	_	_	N	_	_	_	_
+40	que	que	_	_	CONJ	_	_	_	_
+41	euh	euh	_	_	INTJ	_	_	_	_
+42	je	je	_	_	PRO	_	_	_	_
+43	on	on	_	_	PRO	_	_	_	_
+44	pouvait	pouvoir	_	_	V	_	_	_	_
+45	enfin	enfin	_	_	ADV	_	_	_	_
+46	je	je	_	_	PRO	_	_	_	_
+47	pouvais	pouvoir	_	_	V	_	_	_	_
+48	noter	noter	_	_	V	_	_	_	_
+49	certains	certain	_	_	DET	_	_	_	_
+50	euh	euh	_	_	INTJ	_	_	_	_
+51	atouts	atout	_	_	N	_	_	_	_
+52	indispensables	indispensable	_	_	ADJ	_	_	_	_
+53	euh	euh	_	_	INTJ	_	_	_	_
+54	dans	dans	_	_	ADP	_	_	_	_
+55	ce	ce	_	_	DET	_	_	_	_
+56	métier	métier	_	_	N	_	_	_	_
+
+# sent_id = 1393
+# text = la gare est en face
+1	la	le	_	_	DET	_	_	_	_
+2	gare	gare	_	_	N	_	_	_	_
+3	est	être	_	_	V	_	_	_	_
+4	en	en	_	_	ADP	_	_	_	_
+5	face	face	_	_	N	_	_	_	_
+
+# sent_id = 1269
+# text = et j' ai rien contre
+1	et	et	_	_	CONJ	_	_	_	_
+2	j'	je	_	_	PRO	_	_	_	_
+3	ai	avoir	_	_	V	_	_	_	_
+4	rien	rien	_	_	PRO	_	_	_	_
+5	contre	contre	_	_	ADP	_	_	_	_
+
+# sent_id = 1904
+# text = si j' étais ministre de l' Éducation nationale je mettrais beaucoup plus d' enseignants dans les maternelles pour qu' un enfant qui sorte de maternelle parle obligatoirement français
+1	si	si	_	_	CONJ	_	_	_	_
+2	j'	je	_	_	PRO	_	_	_	_
+3	étais	être	_	_	V	_	_	_	_
+4	ministre	ministre	_	_	N	_	_	_	_
+5	de	de	_	_	ADP	_	_	_	_
+6	l'	le	_	_	DET	_	_	_	_
+7	Éducation	Éducation	_	_	PROPN	_	_	_	_
+8	nationale	national	_	_	ADJ	_	_	_	_
+9	je	je	_	_	PRO	_	_	_	_
+10	mettrais	mettre	_	_	V	_	_	_	_
+11	beaucoup	beaucoup	_	_	ADV	_	_	_	_
+12	plus	plus	_	_	ADV	_	_	_	_
+13	d'	de	_	_	ADP	_	_	_	_
+14	enseignants	enseignant	_	_	N	_	_	_	_
+15	dans	dans	_	_	ADP	_	_	_	_
+16	les	le	_	_	DET	_	_	_	_
+17	maternelles	maternelle	_	_	N	_	_	_	_
+18	pour	pour	_	_	ADP	_	_	_	_
+19	qu'	que	_	_	CONJ	_	_	_	_
+20	un	un	_	_	DET	_	_	_	_
+21	enfant	enfant	_	_	N	_	_	_	_
+22	qui	qui	_	_	PRO	_	_	_	_
+23	sorte	sortir	_	_	V	_	_	_	_
+24	de	de	_	_	ADP	_	_	_	_
+25	maternelle	maternelle	_	_	N	_	_	_	_
+26	parle	parler	_	_	V	_	_	_	_
+27	obligatoirement	obligatoirement	_	_	ADV	_	_	_	_
+28	français	français	_	_	ADJ	_	_	_	_
+
+# sent_id = 60
+# text = monsieur Mitterrand voulez -vous continuer
+1	monsieur	Monsieur	_	_	N	_	_	_	_
+2	Mitterrand	Mitterrand	_	_	PROPN	_	_	_	_
+3	voulez	vouloir	_	_	V	_	_	_	_
+4	-vous	vous	_	_	PRO	_	_	_	_
+5	continuer	continuer	_	_	V	_	_	_	_
+
+# sent_id = 1168
+# text = et ça m' a fait voir
+1	et	et	_	_	CONJ	_	_	_	_
+2	ça	ça	_	_	PRO	_	_	_	_
+3	m'	me	_	_	PRO	_	_	_	_
+4	a	avoir	_	_	V	_	_	_	_
+5	fait	faire	_	_	V	_	_	_	_
+6	voir	voir	_	_	V	_	_	_	_
+
+# sent_id = 867
+# text = c' est lui qui l' écrit
+1	c'	ce	_	_	PRO	_	_	_	_
+2	est	être	_	_	V	_	_	_	_
+3	lui	lui	_	_	PRO	_	_	_	_
+4	qui	qui	_	_	PRO	_	_	_	_
+5	l'	le	_	_	PRO	_	_	_	_
+6	écrit	écrire	_	_	V	_	_	_	_
+
+# sent_id = 70
+# text = euh j' ai commencé par euh travailler comme médecin de campagne à un endroit qui s' appelait Olkaloo juste au sud de l' équateur
+1	euh	euh	_	_	INTJ	_	_	_	_
+2	j'	je	_	_	PRO	_	_	_	_
+3	ai	avoir	_	_	V	_	_	_	_
+4	commencé	commencer	_	_	V	_	_	_	_
+5	par	par	_	_	ADP	_	_	_	_
+6	euh	euh	_	_	INTJ	_	_	_	_
+7	travailler	travailler	_	_	V	_	_	_	_
+8	comme	comme	_	_	ADP	_	_	_	_
+9	médecin	médecin	_	_	N	_	_	_	_
+10	de	de	_	_	ADP	_	_	_	_
+11	campagne	campagne	_	_	N	_	_	_	_
+12	à	à	_	_	ADP	_	_	_	_
+13	un	un	_	_	DET	_	_	_	_
+14	endroit	endroit	_	_	N	_	_	_	_
+15	qui	qui	_	_	PRO	_	_	_	_
+16	s'	se	_	_	PRO	_	_	_	_
+17	appelait	appeler	_	_	V	_	_	_	_
+18	Olkaloo	Olkaloo	_	_	PROPN	_	_	_	_
+19	juste	juste	_	_	ADV	_	_	_	_
+20	au	à+le	_	_	ADP	_	_	_	_
+21	sud	sud	_	_	N	_	_	_	_
+22	de	de	_	_	ADP	_	_	_	_
+23	l'	le	_	_	DET	_	_	_	_
+24	équateur	équateur	_	_	N	_	_	_	_
+
+# sent_id = 2493
+# text = Jésus ne pose même pas ses gestes de bonté comme des appels à la foi
+1	Jésus	Jésus	_	_	PROPN	_	_	_	_
+2	ne	ne	_	_	PART	_	_	_	_
+3	pose	poser	_	_	V	_	_	_	_
+4	même	même	_	_	ADV	_	_	_	_
+5	pas	pas	_	_	PART	_	_	_	_
+6	ses	son	_	_	DET	_	_	_	_
+7	gestes	geste	_	_	N	_	_	_	_
+8	de	de	_	_	ADP	_	_	_	_
+9	bonté	bonté	_	_	N	_	_	_	_
+10	comme	comme	_	_	ADP	_	_	_	_
+11	des	de+le	_	_	ADP	_	_	_	_
+12	appels	appel	_	_	N	_	_	_	_
+13	à	à	_	_	ADP	_	_	_	_
+14	la	le	_	_	DET	_	_	_	_
+15	foi	foi	_	_	N	_	_	_	_
+
+# sent_id = 2502
+# text = je le veux
+1	je	je	_	_	PRO	_	_	_	_
+2	le	le	_	_	PRO	_	_	_	_
+3	veux	vouloir	_	_	V	_	_	_	_
+
+# sent_id = 2656
+# text = ce qui quand même n' était pas très sérieux
+1	ce	ce	_	_	PRO	_	_	_	_
+2	qui	qui	_	_	PRO	_	_	_	_
+3	quand	quand	_	_	PRO	_	_	_	_
+4	même	même	_	_	ADV	_	_	_	_
+5	n'	ne	_	_	PART	_	_	_	_
+6	était	être	_	_	V	_	_	_	_
+7	pas	pas	_	_	PART	_	_	_	_
+8	très	très	_	_	ADV	_	_	_	_
+9	sérieux	sérieux	_	_	ADJ	_	_	_	_
+
+# sent_id = 1179
+# text = là je viens de faire mes des vaccins par exemple
+1	là	là	_	_	ADV	_	_	_	_
+2	je	je	_	_	PRO	_	_	_	_
+3	viens	venir	_	_	V	_	_	_	_
+4	de	de	_	_	ADP	_	_	_	_
+5	faire	faire	_	_	V	_	_	_	_
+6	mes	son	_	_	DET	_	_	_	_
+7	des	de+le	_	_	ADP	_	_	_	_
+8	vaccins	vaccin	_	_	N	_	_	_	_
+9	par	par	_	_	ADP	_	_	_	_
+10	exemple	exemple	_	_	N	_	_	_	_
+
+# sent_id = 546
+# text = et elle s' apprête à courir avec sa baguette
+1	et	et	_	_	CONJ	_	_	_	_
+2	elle	il	_	_	PRO	_	_	_	_
+3	s'	se	_	_	PRO	_	_	_	_
+4	apprête	apprêter	_	_	V	_	_	_	_
+5	à	à	_	_	ADP	_	_	_	_
+6	courir	courir	_	_	V	_	_	_	_
+7	avec	avec	_	_	ADP	_	_	_	_
+8	sa	son	_	_	DET	_	_	_	_
+9	baguette	baguette	_	_	N	_	_	_	_
+
+# sent_id = 1432
+# text = ah oui
+1	ah	ah	_	_	INTJ	_	_	_	_
+2	oui	oui	_	_	INTJ	_	_	_	_
+
+# sent_id = 1267
+# text = oui oui
+1	oui	oui	_	_	INTJ	_	_	_	_
+2	oui	oui	_	_	INTJ	_	_	_	_
+
+# sent_id = 1210
+# text = mais voilà
+1	mais	mais	_	_	CONJ	_	_	_	_
+2	voilà	voilà	_	_	V	_	_	_	_
+
+# sent_id = 2630
+# text = mais est -ce que vous aviez prévu tout cela
+1	mais	mais	_	_	CONJ	_	_	_	_
+2	est	être	_	_	V	_	_	_	_
+3	-ce	ce	_	_	PRO	_	_	_	_
+4	que	que	_	_	CONJ	_	_	_	_
+5	vous	vous	_	_	PRO	_	_	_	_
+6	aviez	avoir	_	_	V	_	_	_	_
+7	prévu	prévoir	_	_	V	_	_	_	_
+8	tout	tout	_	_	ADJ	_	_	_	_
+9	cela	cela	_	_	PRO	_	_	_	_
+
+# sent_id = 1162
+# text = donc euh on dit oui on veut bien parler avec vous mais a~ après le déménagement
+1	donc	donc	_	_	ADV	_	_	_	_
+2	euh	euh	_	_	INTJ	_	_	_	_
+3	on	on	_	_	PRO	_	_	_	_
+4	dit	dire	_	_	V	_	_	_	_
+5	oui	oui	_	_	INTJ	_	_	_	_
+6	on	on	_	_	PRO	_	_	_	_
+7	veut	vouloir	_	_	V	_	_	_	_
+8	bien	bien	_	_	ADV	_	_	_	_
+9	parler	parler	_	_	V	_	_	_	_
+10	avec	avec	_	_	ADP	_	_	_	_
+11	vous	lui	_	_	PRO	_	_	_	_
+12	mais	mais	_	_	CONJ	_	_	_	_
+13	a~	a~	_	_	_	_	_	_	_
+14	après	après	_	_	ADP	_	_	_	_
+15	le	le	_	_	DET	_	_	_	_
+16	déménagement	déménagement	_	_	N	_	_	_	_
+
+# sent_id = 2335
+# text = bonsoir à tous
+1	bonsoir	bonsoir	_	_	N	_	_	_	_
+2	à	à	_	_	ADP	_	_	_	_
+3	tous	tout	_	_	PRO	_	_	_	_
+
+# sent_id = 2576
+# text = écoutez vous m' avez demandé si je suis d' accord avec Marcel Achard
+1	écoutez	écouter	_	_	V	_	_	_	_
+2	vous	vous	_	_	PRO	_	_	_	_
+3	m'	me	_	_	PRO	_	_	_	_
+4	avez	avoir	_	_	V	_	_	_	_
+5	demandé	demander	_	_	V	_	_	_	_
+6	si	si	_	_	CONJ	_	_	_	_
+7	je	je	_	_	PRO	_	_	_	_
+8	suis	être	_	_	V	_	_	_	_
+9	d'	d'	_	_	ADP	_	_	_	_
+10	accord	accord	_	_	N	_	_	_	_
+11	avec	avec	_	_	ADP	_	_	_	_
+12	Marcel	Marcel	_	_	PROPN	_	_	_	_
+13	Achard	Achard	_	_	PROPN	_	_	_	_
+
+# sent_id = 1374
+# text = parce que souvent c' était les Portugais qui venaient dans le le collège français pour avoir euh en gros un meilleur diplôme
+1	parce	parce	_	_	CONJ	_	_	_	_
+2	que	que	_	_	CONJ	_	_	_	_
+3	souvent	souvent	_	_	ADV	_	_	_	_
+4	c'	ce	_	_	PRO	_	_	_	_
+5	était	être	_	_	V	_	_	_	_
+6	les	le	_	_	DET	_	_	_	_
+7	Portugais	Portugais	_	_	PROPN	_	_	_	_
+8	qui	qui	_	_	PRO	_	_	_	_
+9	venaient	venir	_	_	V	_	_	_	_
+10	dans	dans	_	_	ADP	_	_	_	_
+11	le	le	_	_	DET	_	_	_	_
+12	le	le	_	_	DET	_	_	_	_
+13	collège	collège	_	_	N	_	_	_	_
+14	français	français	_	_	ADJ	_	_	_	_
+15	pour	pour	_	_	ADP	_	_	_	_
+16	avoir	avoir	_	_	V	_	_	_	_
+17	euh	euh	_	_	INTJ	_	_	_	_
+18	en	en	_	_	ADP	_	_	_	_
+19	gros	gros	_	_	ADJ	_	_	_	_
+20	un	un	_	_	DET	_	_	_	_
+21	meilleur	meilleur	_	_	ADJ	_	_	_	_
+22	diplôme	diplôme	_	_	N	_	_	_	_
+
+# sent_id = 2003
+# text = vous pouvez pas vous tromper
+1	vous	vous	_	_	PRO	_	_	_	_
+2	pouvez	pouvoir	_	_	V	_	_	_	_
+3	pas	pas	_	_	PART	_	_	_	_
+4	vous	vous	_	_	PRO	_	_	_	_
+5	tromper	tromper	_	_	V	_	_	_	_
+
+# sent_id = 56
+# text = toujours toujours contre les droites coalisées nos combats pour la conquête du droit jalonnent l' histoire des deux derniers siècles
+1	toujours	toujours	_	_	ADV	_	_	_	_
+2	toujours	toujours	_	_	ADV	_	_	_	_
+3	contre	contre	_	_	ADP	_	_	_	_
+4	les	le	_	_	DET	_	_	_	_
+5	droites	droite	_	_	N	_	_	_	_
+6	coalisées	coaliser	_	_	V	_	_	_	_
+7	nos	son	_	_	DET	_	_	_	_
+8	combats	combat	_	_	N	_	_	_	_
+9	pour	pour	_	_	ADP	_	_	_	_
+10	la	le	_	_	DET	_	_	_	_
+11	conquête	conquête	_	_	N	_	_	_	_
+12	du	de+le	_	_	ADP	_	_	_	_
+13	droit	droit	_	_	N	_	_	_	_
+14	jalonnent	jalonner	_	_	V	_	_	_	_
+15	l'	le	_	_	DET	_	_	_	_
+16	histoire	histoire	_	_	N	_	_	_	_
+17	des	de+le	_	_	ADP	_	_	_	_
+18	deux	deux	_	_	NUM	_	_	_	_
+19	derniers	dernier	_	_	ADJ	_	_	_	_
+20	siècles	siècle	_	_	N	_	_	_	_
+
+# sent_id = 2672
+# text = mais à l' époque euh personne ne savait que je n' avais jamais fait ce métier sauf lui
+1	mais	mais	_	_	CONJ	_	_	_	_
+2	à	à	_	_	ADP	_	_	_	_
+3	l'	le	_	_	DET	_	_	_	_
+4	époque	époque	_	_	N	_	_	_	_
+5	euh	euh	_	_	INTJ	_	_	_	_
+6	personne	personne	_	_	PRO	_	_	_	_
+7	ne	ne	_	_	PART	_	_	_	_
+8	savait	savoir	_	_	V	_	_	_	_
+9	que	que	_	_	CONJ	_	_	_	_
+10	je	je	_	_	PRO	_	_	_	_
+11	n'	ne	_	_	PART	_	_	_	_
+12	avais	avoir	_	_	V	_	_	_	_
+13	jamais	jamais	_	_	PART	_	_	_	_
+14	fait	faire	_	_	V	_	_	_	_
+15	ce	ce	_	_	DET	_	_	_	_
+16	métier	métier	_	_	N	_	_	_	_
+17	sauf	sauf	_	_	CONJ	_	_	_	_
+18	lui	lui	_	_	PRO	_	_	_	_
+
+# sent_id = 2497
+# text = plus encore dans l' évangile d' aujourd' hui Jésus s' accorde le pouvoir de guérir et de chasser les esprits mauvais
+1	plus	plus	_	_	PART	_	_	_	_
+2	encore	encore	_	_	ADV	_	_	_	_
+3	dans	dans	_	_	ADP	_	_	_	_
+4	l'	le	_	_	DET	_	_	_	_
+5	évangile	évangile	_	_	N	_	_	_	_
+6	d'	de	_	_	ADP	_	_	_	_
+7	aujourd'	aujourd'	_	_	N	_	_	_	_
+8	hui	hui	_	_	N	_	_	_	_
+9	Jésus	Jésus	_	_	PROPN	_	_	_	_
+10	s'	se	_	_	PRO	_	_	_	_
+11	accorde	accorder	_	_	V	_	_	_	_
+12	le	le	_	_	DET	_	_	_	_
+13	pouvoir	pouvoir	_	_	N	_	_	_	_
+14	de	de	_	_	ADP	_	_	_	_
+15	guérir	guérir	_	_	V	_	_	_	_
+16	et	et	_	_	CONJ	_	_	_	_
+17	de	de	_	_	ADP	_	_	_	_
+18	chasser	chasser	_	_	V	_	_	_	_
+19	les	le	_	_	DET	_	_	_	_
+20	esprits	esprits	_	_	N	_	_	_	_
+21	mauvais	mauvais	_	_	ADJ	_	_	_	_
+
+# sent_id = 956
+# text = vous pouvez pas euh vous pouvez pas louper euh
+1	vous	vous	_	_	PRO	_	_	_	_
+2	pouvez	pouvoir	_	_	V	_	_	_	_
+3	pas	pas	_	_	PART	_	_	_	_
+4	euh	euh	_	_	INTJ	_	_	_	_
+5	vous	vous	_	_	PRO	_	_	_	_
+6	pouvez	pouvoir	_	_	V	_	_	_	_
+7	pas	pas	_	_	PART	_	_	_	_
+8	louper	louper	_	_	V	_	_	_	_
+9	euh	euh	_	_	INTJ	_	_	_	_
+
+# sent_id = 1306
+# text = vous le savez
+1	vous	vous	_	_	PRO	_	_	_	_
+2	le	le	_	_	PRO	_	_	_	_
+3	savez	savoir	_	_	V	_	_	_	_
+
+# sent_id = 1647
+# text = je me planquais sous le bureau
+1	je	je	_	_	PRO	_	_	_	_
+2	me	me	_	_	PRO	_	_	_	_
+3	planquais	planquer	_	_	V	_	_	_	_
+4	sous	sous	_	_	ADP	_	_	_	_
+5	le	le	_	_	DET	_	_	_	_
+6	bureau	bureau	_	_	N	_	_	_	_
+
+# sent_id = 1918
+# text = donc par définition mh ils ne parlent pas français
+1	donc	donc	_	_	ADV	_	_	_	_
+2	par	par	_	_	ADP	_	_	_	_
+3	définition	définition	_	_	N	_	_	_	_
+4	mh	mh	_	_	INTJ	_	_	_	_
+5	ils	il	_	_	PRO	_	_	_	_
+6	ne	ne	_	_	PART	_	_	_	_
+7	parlent	parler	_	_	V	_	_	_	_
+8	pas	pas	_	_	PART	_	_	_	_
+9	français	français	_	_	ADJ	_	_	_	_
+
+# sent_id = 1879
+# text = j' avais de la chance d' avoir des enfants qui travaillaient euh
+1	j'	je	_	_	PRO	_	_	_	_
+2	avais	avoir	_	_	V	_	_	_	_
+3	de	de	_	_	ADP	_	_	_	_
+4	la	le	_	_	PRO	_	_	_	_
+5	chance	chance	_	_	N	_	_	_	_
+6	d'	de	_	_	ADP	_	_	_	_
+7	avoir	avoir	_	_	V	_	_	_	_
+8	des	de+le	_	_	ADP	_	_	_	_
+9	enfants	enfant	_	_	N	_	_	_	_
+10	qui	qui	_	_	PRO	_	_	_	_
+11	travaillaient	travailler	_	_	V	_	_	_	_
+12	euh	euh	_	_	INTJ	_	_	_	_
+
+# sent_id = 2677
+# text = car euh on vous avait proposé de tourner dans un film
+1	car	car	_	_	CONJ	_	_	_	_
+2	euh	euh	_	_	INTJ	_	_	_	_
+3	on	on	_	_	PRO	_	_	_	_
+4	vous	vous	_	_	PRO	_	_	_	_
+5	avait	avoir	_	_	V	_	_	_	_
+6	proposé	proposer	_	_	V	_	_	_	_
+7	de	de	_	_	ADP	_	_	_	_
+8	tourner	tourner	_	_	V	_	_	_	_
+9	dans	dans	_	_	ADP	_	_	_	_
+10	un	un	_	_	DET	_	_	_	_
+11	film	film	_	_	N	_	_	_	_
+
+# sent_id = 2321
+# text = et puis il y a euh Szeluto
+1	et	et	_	_	CONJ	_	_	_	_
+2	puis	puis	_	_	ADV	_	_	_	_
+3	il	il	_	_	PRO	_	_	_	_
+4	y	y	_	_	PRO	_	_	_	_
+5	a	avoir	_	_	V	_	_	_	_
+6	euh	euh	_	_	INTJ	_	_	_	_
+7	Szeluto	Szeluto	_	_	PROPN	_	_	_	_
+
+# sent_id = 1209
+# text = je peux pas vous dire
+1	je	je	_	_	PRO	_	_	_	_
+2	peux	pouvoir	_	_	V	_	_	_	_
+3	pas	pas	_	_	PART	_	_	_	_
+4	vous	vous	_	_	PRO	_	_	_	_
+5	dire	dire	_	_	V	_	_	_	_
+
+# sent_id = 427
+# text = il y a vingt-cinq ans les gens ne connaissaient rien hein
+1	il	il	_	_	PRO	_	_	_	_
+2	y	y	_	_	PRO	_	_	_	_
+3	a	avoir	_	_	V	_	_	_	_
+4	vingt-cinq	vingt-cinq	_	_	NUM	_	_	_	_
+5	ans	an	_	_	N	_	_	_	_
+6	les	le	_	_	DET	_	_	_	_
+7	gens	gens	_	_	N	_	_	_	_
+8	ne	ne	_	_	PART	_	_	_	_
+9	connaissaient	connaître	_	_	V	_	_	_	_
+10	rien	rien	_	_	PRO	_	_	_	_
+11	hein	hein	_	_	INTJ	_	_	_	_
+
+# sent_id = 2378
+# text = un petit peu
+1	un	un	_	_	DET	_	_	_	_
+2	petit	petit	_	_	ADJ	_	_	_	_
+3	peu	peu	_	_	N	_	_	_	_
+
+# sent_id = 75
+# text = je voulais travailler d' abord pour le gouvernement
+1	je	je	_	_	PRO	_	_	_	_
+2	voulais	vouloir	_	_	V	_	_	_	_
+3	travailler	travailler	_	_	V	_	_	_	_
+4	d'	de	_	_	ADP	_	_	_	_
+5	abord	abord	_	_	N	_	_	_	_
+6	pour	pour	_	_	ADP	_	_	_	_
+7	le	le	_	_	DET	_	_	_	_
+8	gouvernement	gouvernement	_	_	N	_	_	_	_
+
+# sent_id = 2345
+# text = vous êtes directeur de l' École des hautes études en santé publique à Rennes
+1	vous	vous	_	_	PRO	_	_	_	_
+2	êtes	être	_	_	V	_	_	_	_
+3	directeur	directeur	_	_	N	_	_	_	_
+4	de	de	_	_	ADP	_	_	_	_
+5	l'	le	_	_	DET	_	_	_	_
+6	École	École	_	_	PROPN	_	_	_	_
+7	des	de+le	_	_	ADP	_	_	_	_
+8	hautes	haut	_	_	ADJ	_	_	_	_
+9	études	étude	_	_	N	_	_	_	_
+10	en	en	_	_	ADP	_	_	_	_
+11	santé	santé	_	_	N	_	_	_	_
+12	publique	public	_	_	ADJ	_	_	_	_
+13	à	à	_	_	ADP	_	_	_	_
+14	Rennes	Rennes	_	_	PROPN	_	_	_	_
+
+# sent_id = 744
+# text = mais c' est aussi une conférence de d' histoire de l' art une conférence d' esthétique parce que comme vous verrez j' ai une approche de de l' art qui est assez assez généraliste et qui euh mêle plusieurs euh plusieurs points de vue et donc pas seulement le point de vue de la philosophie mais aussi celui de l' histoire celui de la sociologie et caetera et caetera
+1	mais	mais	_	_	CONJ	_	_	_	_
+2	c'	ce	_	_	PRO	_	_	_	_
+3	est	être	_	_	V	_	_	_	_
+4	aussi	aussi	_	_	ADV	_	_	_	_
+5	une	un	_	_	DET	_	_	_	_
+6	conférence	conférence	_	_	N	_	_	_	_
+7	de	de	_	_	ADP	_	_	_	_
+8	d'	de	_	_	ADP	_	_	_	_
+9	histoire	histoire	_	_	N	_	_	_	_
+10	de	de	_	_	ADP	_	_	_	_
+11	l'	le	_	_	DET	_	_	_	_
+12	art	art	_	_	N	_	_	_	_
+13	une	un	_	_	DET	_	_	_	_
+14	conférence	conférence	_	_	N	_	_	_	_
+15	d'	de	_	_	ADP	_	_	_	_
+16	esthétique	esthétique	_	_	N	_	_	_	_
+17	parce	parce	_	_	CONJ	_	_	_	_
+18	que	que	_	_	CONJ	_	_	_	_
+19	comme	comme	_	_	CONJ	_	_	_	_
+20	vous	vous	_	_	PRO	_	_	_	_
+21	verrez	voir	_	_	V	_	_	_	_
+22	j'	je	_	_	PRO	_	_	_	_
+23	ai	avoir	_	_	V	_	_	_	_
+24	une	un	_	_	DET	_	_	_	_
+25	approche	approche	_	_	N	_	_	_	_
+26	de	de	_	_	ADP	_	_	_	_
+27	de	de	_	_	ADP	_	_	_	_
+28	l'	le	_	_	DET	_	_	_	_
+29	art	art	_	_	N	_	_	_	_
+30	qui	qui	_	_	PRO	_	_	_	_
+31	est	être	_	_	V	_	_	_	_
+32	assez	assez	_	_	ADV	_	_	_	_
+33	assez	assez	_	_	ADV	_	_	_	_
+34	généraliste	généraliste	_	_	ADJ	_	_	_	_
+35	et	et	_	_	CONJ	_	_	_	_
+36	qui	qui	_	_	PRO	_	_	_	_
+37	euh	euh	_	_	INTJ	_	_	_	_
+38	mêle	mêler	_	_	V	_	_	_	_
+39	plusieurs	plusieurs	_	_	DET	_	_	_	_
+40	euh	euh	_	_	INTJ	_	_	_	_
+41	plusieurs	plusieurs	_	_	DET	_	_	_	_
+42	points	point	_	_	N	_	_	_	_
+43	de	de	_	_	ADP	_	_	_	_
+44	vue	vue	_	_	N	_	_	_	_
+45	et	et	_	_	CONJ	_	_	_	_
+46	donc	donc	_	_	ADV	_	_	_	_
+47	pas	pas	_	_	PART	_	_	_	_
+48	seulement	seulement	_	_	ADV	_	_	_	_
+49	le	le	_	_	DET	_	_	_	_
+50	point	point	_	_	N	_	_	_	_
+51	de	de	_	_	ADP	_	_	_	_
+52	vue	vue	_	_	N	_	_	_	_
+53	de	de	_	_	ADP	_	_	_	_
+54	la	le	_	_	DET	_	_	_	_
+55	philosophie	philosophie	_	_	N	_	_	_	_
+56	mais	mais	_	_	CONJ	_	_	_	_
+57	aussi	aussi	_	_	ADV	_	_	_	_
+58	celui	celui	_	_	PRO	_	_	_	_
+59	de	de	_	_	ADP	_	_	_	_
+60	l'	le	_	_	DET	_	_	_	_
+61	histoire	histoire	_	_	N	_	_	_	_
+62	celui	celui	_	_	PRO	_	_	_	_
+63	de	de	_	_	ADP	_	_	_	_
+64	la	le	_	_	DET	_	_	_	_
+65	sociologie	sociologie	_	_	N	_	_	_	_
+66	et	et	_	_	CONJ	_	_	_	_
+67	caetera	caetera	_	_	ADV	_	_	_	_
+68	et	et	_	_	CONJ	_	_	_	_
+69	caetera	caetera	_	_	ADV	_	_	_	_
+
+# sent_id = 1356
+# text = on changeait de de de quotidien de de d' entour~ d' entour~ d' entourage
+1	on	on	_	_	PRO	_	_	_	_
+2	changeait	changer	_	_	V	_	_	_	_
+3	de	de	_	_	ADP	_	_	_	_
+4	de	de	_	_	ADP	_	_	_	_
+5	de	de	_	_	ADP	_	_	_	_
+6	quotidien	quotidien	_	_	N	_	_	_	_
+7	de	de	_	_	ADP	_	_	_	_
+8	de	de	_	_	ADP	_	_	_	_
+9	d'	de	_	_	ADP	_	_	_	_
+10	entour~	entour~	_	_	N	_	_	_	_
+11	d'	de	_	_	ADP	_	_	_	_
+12	entour~	entour~	_	_	N	_	_	_	_
+13	d'	de	_	_	ADP	_	_	_	_
+14	entourage	entourage	_	_	N	_	_	_	_
+
+# sent_id = 1556
+# text = si tu tiens à aller là il y a pas de problème
+1	si	si	_	_	CONJ	_	_	_	_
+2	tu	tu	_	_	PRO	_	_	_	_
+3	tiens	tenir	_	_	V	_	_	_	_
+4	à	à	_	_	ADP	_	_	_	_
+5	aller	aller	_	_	V	_	_	_	_
+6	là	là	_	_	ADV	_	_	_	_
+7	il	il	_	_	PRO	_	_	_	_
+8	y	y	_	_	PRO	_	_	_	_
+9	a	avoir	_	_	V	_	_	_	_
+10	pas	pas	_	_	PART	_	_	_	_
+11	de	de	_	_	ADP	_	_	_	_
+12	problème	problème	_	_	N	_	_	_	_
+
+# sent_id = 2364
+# text = vous l' avez m~ peut-être mieux euh explicité en disant c' est un scénario
+1	vous	vous	_	_	PRO	_	_	_	_
+2	l'	le	_	_	PRO	_	_	_	_
+3	avez	avoir	_	_	V	_	_	_	_
+4	m~	m~	_	_	_	_	_	_	_
+5	peut-être	peut-être	_	_	ADV	_	_	_	_
+6	mieux	mieux	_	_	ADV	_	_	_	_
+7	euh	euh	_	_	INTJ	_	_	_	_
+8	explicité	expliciter	_	_	V	_	_	_	_
+9	en	en	_	_	ADP	_	_	_	_
+10	disant	dire	_	_	V	_	_	_	_
+11	c'	ce	_	_	PRO	_	_	_	_
+12	est	être	_	_	V	_	_	_	_
+13	un	un	_	_	DET	_	_	_	_
+14	scénario	scénario	_	_	N	_	_	_	_
+
+# sent_id = 2710
+# text = vous prenez la grande ligne droite
+1	vous	vous	_	_	PRO	_	_	_	_
+2	prenez	prendre	_	_	V	_	_	_	_
+3	la	le	_	_	DET	_	_	_	_
+4	grande	grand	_	_	ADJ	_	_	_	_
+5	ligne	ligne	_	_	N	_	_	_	_
+6	droite	droit	_	_	ADJ	_	_	_	_
+
+# sent_id = 1632
+# text = j' ai dit un mois
+1	j'	je	_	_	PRO	_	_	_	_
+2	ai	avoir	_	_	V	_	_	_	_
+3	dit	dire	_	_	V	_	_	_	_
+4	un	un	_	_	DET	_	_	_	_
+5	mois	mois	_	_	N	_	_	_	_
+
+# sent_id = 297
+# text = alors que nous sommes à trois minutes de la mi - temps
+1	alors	alors	_	_	ADV	_	_	_	_
+2	que	que	_	_	PART	_	_	_	_
+3	nous	nous	_	_	PRO	_	_	_	_
+4	sommes	être	_	_	V	_	_	_	_
+5	à	à	_	_	ADP	_	_	_	_
+6	trois	trois	_	_	NUM	_	_	_	_
+7	minutes	minute	_	_	N	_	_	_	_
+8	de	de	_	_	ADP	_	_	_	_
+9	la	le	_	_	DET	_	_	_	_
+10	mi	mi	_	_	N	_	_	_	_
+11	-	-	_	_	_	_	_	_	_
+12	temps	temps	_	_	N	_	_	_	_
+
+# sent_id = 1167
+# text = ça m' a sorti un petit peu de mon petit cocon du septième
+1	ça	ça	_	_	PRO	_	_	_	_
+2	m'	me	_	_	PRO	_	_	_	_
+3	a	avoir	_	_	V	_	_	_	_
+4	sorti	sortir	_	_	V	_	_	_	_
+5	un	un	_	_	DET	_	_	_	_
+6	petit	petit	_	_	ADJ	_	_	_	_
+7	peu	peu	_	_	ADV	_	_	_	_
+8	de	de	_	_	ADP	_	_	_	_
+9	mon	son	_	_	DET	_	_	_	_
+10	petit	petit	_	_	ADJ	_	_	_	_
+11	cocon	cocon	_	_	N	_	_	_	_
+12	du	de+le	_	_	ADP	_	_	_	_
+13	septième	septième	_	_	N	_	_	_	_
+
+# sent_id = 1297
+# text = la mesure qu' ils attendent le plus c' est la répartition des bénéfices dans les entreprises entre patrons actionnaires et salariés
+1	la	le	_	_	DET	_	_	_	_
+2	mesure	mesure	_	_	N	_	_	_	_
+3	qu'	que	_	_	PRO	_	_	_	_
+4	ils	il	_	_	PRO	_	_	_	_
+5	attendent	attendre	_	_	V	_	_	_	_
+6	le	le	_	_	DET	_	_	_	_
+7	plus	plus	_	_	ADV	_	_	_	_
+8	c'	ce	_	_	PRO	_	_	_	_
+9	est	être	_	_	V	_	_	_	_
+10	la	le	_	_	DET	_	_	_	_
+11	répartition	répartition	_	_	N	_	_	_	_
+12	des	de+le	_	_	ADP	_	_	_	_
+13	bénéfices	bénéfice	_	_	N	_	_	_	_
+14	dans	dans	_	_	ADP	_	_	_	_
+15	les	le	_	_	DET	_	_	_	_
+16	entreprises	entreprise	_	_	N	_	_	_	_
+17	entre	entre	_	_	ADP	_	_	_	_
+18	patrons	patron	_	_	N	_	_	_	_
+19	actionnaires	actionnaire	_	_	N	_	_	_	_
+20	et	et	_	_	CONJ	_	_	_	_
+21	salariés	salarié	_	_	N	_	_	_	_
+
+# sent_id = 193
+# text = le même fond sans la forme
+1	le	le	_	_	DET	_	_	_	_
+2	même	même	_	_	ADJ	_	_	_	_
+3	fond	fond	_	_	N	_	_	_	_
+4	sans	sans	_	_	ADP	_	_	_	_
+5	la	le	_	_	DET	_	_	_	_
+6	forme	forme	_	_	N	_	_	_	_
+
+# sent_id = 1646
+# text = c' était à un moment c' était c' était du show
+1	c'	ce	_	_	PRO	_	_	_	_
+2	était	être	_	_	V	_	_	_	_
+3	à	à	_	_	ADP	_	_	_	_
+4	un	un	_	_	DET	_	_	_	_
+5	moment	moment	_	_	N	_	_	_	_
+6	c'	ce	_	_	PRO	_	_	_	_
+7	était	être	_	_	V	_	_	_	_
+8	c'	ce	_	_	PRO	_	_	_	_
+9	était	être	_	_	V	_	_	_	_
+10	du	de+le	_	_	ADP	_	_	_	_
+11	show	show	_	_	N	_	_	_	_
+
+# sent_id = 694
+# text = n' espérez pas y entrer pour euh pouvoir tchater ou échanger vos photos de vacances avec ces gens -là
+1	n'	ne	_	_	PART	_	_	_	_
+2	espérez	espérer	_	_	V	_	_	_	_
+3	pas	pas	_	_	PART	_	_	_	_
+4	y	y	_	_	PRO	_	_	_	_
+5	entrer	entrer	_	_	V	_	_	_	_
+6	pour	pour	_	_	ADP	_	_	_	_
+7	euh	euh	_	_	INTJ	_	_	_	_
+8	pouvoir	pouvoir	_	_	V	_	_	_	_
+9	tchater	tchater	_	_	V	_	_	_	_
+10	ou	ou	_	_	CONJ	_	_	_	_
+11	échanger	échanger	_	_	V	_	_	_	_
+12	vos	son	_	_	DET	_	_	_	_
+13	photos	photo	_	_	N	_	_	_	_
+14	de	de	_	_	ADP	_	_	_	_
+15	vacances	vacance	_	_	N	_	_	_	_
+16	avec	avec	_	_	ADP	_	_	_	_
+17	ces	ce	_	_	DET	_	_	_	_
+18	gens	gens	_	_	N	_	_	_	_
+19	-là	là	_	_	ADV	_	_	_	_
+
+# sent_id = 1628
+# text = ben c'est~ c' est - à - dire que je l' ai vécu comme un show quoi
+1	ben	ben	_	_	INTJ	_	_	_	_
+2	c'est~	c'est~	_	_	CONJ	_	_	_	_
+3	c'	c'	_	_	PRO	_	_	_	_
+4	est	est	_	_	V	_	_	_	_
+5	-	-	_	_	_	_	_	_	_
+6	à	à	_	_	ADP	_	_	_	_
+7	-	-	_	_	_	_	_	_	_
+8	dire	dire	_	_	V	_	_	_	_
+9	que	que	_	_	CONJ	_	_	_	_
+10	je	je	_	_	PRO	_	_	_	_
+11	l'	le	_	_	PRO	_	_	_	_
+12	ai	avoir	_	_	V	_	_	_	_
+13	vécu	vivre	_	_	V	_	_	_	_
+14	comme	comme	_	_	ADP	_	_	_	_
+15	un	un	_	_	DET	_	_	_	_
+16	show	show	_	_	N	_	_	_	_
+17	quoi	quoi	_	_	INTJ	_	_	_	_
+
+# sent_id = 698
+# text = eh oui pour éviter qu' on dise n' importe quoi à propos de vous sur internet mieux vaut prendre les devants et diffuser vous -même les infos qui vous concernent
+1	eh	eh	_	_	INTJ	_	_	_	_
+2	oui	oui	_	_	INTJ	_	_	_	_
+3	pour	pour	_	_	ADP	_	_	_	_
+4	éviter	éviter	_	_	V	_	_	_	_
+5	qu'	que	_	_	CONJ	_	_	_	_
+6	on	on	_	_	PRO	_	_	_	_
+7	dise	dire	_	_	V	_	_	_	_
+8	n'	ne	_	_	PART	_	_	_	_
+9	importe	importe	_	_	V	_	_	_	_
+10	quoi	quoi	_	_	PRO	_	_	_	_
+11	à	à	_	_	ADP	_	_	_	_
+12	propos	propos	_	_	N	_	_	_	_
+13	de	de	_	_	ADP	_	_	_	_
+14	vous	lui	_	_	PRO	_	_	_	_
+15	sur	sur	_	_	ADP	_	_	_	_
+16	internet	internet	_	_	N	_	_	_	_
+17	mieux	mieux	_	_	ADV	_	_	_	_
+18	vaut	valoir	_	_	V	_	_	_	_
+19	prendre	prendre	_	_	V	_	_	_	_
+20	les	le	_	_	DET	_	_	_	_
+21	devants	devant	_	_	N	_	_	_	_
+22	et	et	_	_	CONJ	_	_	_	_
+23	diffuser	diffuser	_	_	V	_	_	_	_
+24	vous	lui	_	_	PRO	_	_	_	_
+25	-même	même	_	_	ADV	_	_	_	_
+26	les	le	_	_	DET	_	_	_	_
+27	infos	info	_	_	N	_	_	_	_
+28	qui	qui	_	_	PRO	_	_	_	_
+29	vous	vous	_	_	PRO	_	_	_	_
+30	concernent	concerner	_	_	V	_	_	_	_
+
+# sent_id = 2383
+# text = on n' est pas des devins
+1	on	on	_	_	PRO	_	_	_	_
+2	n'	ne	_	_	PART	_	_	_	_
+3	est	être	_	_	V	_	_	_	_
+4	pas	pas	_	_	PART	_	_	_	_
+5	des	de+le	_	_	ADP	_	_	_	_
+6	devins	devin	_	_	N	_	_	_	_
+
+# sent_id = 159
+# text = c' est une déferlante pour la gauche
+1	c'	ce	_	_	PRO	_	_	_	_
+2	est	être	_	_	V	_	_	_	_
+3	une	un	_	_	DET	_	_	_	_
+4	déferlante	déferlante	_	_	N	_	_	_	_
+5	pour	pour	_	_	ADP	_	_	_	_
+6	la	le	_	_	DET	_	_	_	_
+7	gauche	gauche	_	_	N	_	_	_	_
+
+# sent_id = 2679
+# text = je crois vraiment que j' étais pas faite pour ça du tout
+1	je	je	_	_	PRO	_	_	_	_
+2	crois	croire	_	_	V	_	_	_	_
+3	vraiment	vraiment	_	_	ADV	_	_	_	_
+4	que	que	_	_	CONJ	_	_	_	_
+5	j'	je	_	_	PRO	_	_	_	_
+6	étais	être	_	_	V	_	_	_	_
+7	pas	pas	_	_	PART	_	_	_	_
+8	faite	faire	_	_	V	_	_	_	_
+9	pour	pour	_	_	ADP	_	_	_	_
+10	ça	ça	_	_	PRO	_	_	_	_
+11	du	de+le	_	_	ADP	_	_	_	_
+12	tout	tout	_	_	ADV	_	_	_	_
+
+# sent_id = 2535
+# text = je suis bilingue
+1	je	je	_	_	PRO	_	_	_	_
+2	suis	être	_	_	V	_	_	_	_
+3	bilingue	bilingue	_	_	ADJ	_	_	_	_
+
+# sent_id = 1637
+# text = on écrivait des spectacles ensemble
+1	on	on	_	_	PRO	_	_	_	_
+2	écrivait	écrire	_	_	V	_	_	_	_
+3	des	de+le	_	_	ADP	_	_	_	_
+4	spectacles	spectacle	_	_	N	_	_	_	_
+5	ensemble	ensemble	_	_	ADV	_	_	_	_
+
+# sent_id = 1213
+# text = alors ça div~ ça ça varie beaucoup
+1	alors	alors	_	_	ADV	_	_	_	_
+2	ça	ça	_	_	PRO	_	_	_	_
+3	div~	div~	_	_	V	_	_	_	_
+4	ça	ça	_	_	PRO	_	_	_	_
+5	ça	ça	_	_	PRO	_	_	_	_
+6	varie	varier	_	_	V	_	_	_	_
+7	beaucoup	beaucoup	_	_	ADV	_	_	_	_
+
+# sent_id = 2361
+# text = oui euh voilà
+1	oui	oui	_	_	INTJ	_	_	_	_
+2	euh	euh	_	_	INTJ	_	_	_	_
+3	voilà	voilà	_	_	V	_	_	_	_
+
+# sent_id = 1225
+# text = il il y a certains métiers où il f~ il faut être né
+1	il	il	_	_	PRO	_	_	_	_
+2	il	il	_	_	PRO	_	_	_	_
+3	y	y	_	_	PRO	_	_	_	_
+4	a	avoir	_	_	V	_	_	_	_
+5	certains	certain	_	_	DET	_	_	_	_
+6	métiers	métier	_	_	N	_	_	_	_
+7	où	où	_	_	PRO	_	_	_	_
+8	il	il	_	_	PRO	_	_	_	_
+9	f~	f~	_	_	_	_	_	_	_
+10	il	il	_	_	PRO	_	_	_	_
+11	faut	falloir	_	_	V	_	_	_	_
+12	être	être	_	_	V	_	_	_	_
+13	né	naître	_	_	V	_	_	_	_
+
+# sent_id = 1268
+# text = et euh moi personnellement j' aime beaucoup les animaux
+1	et	et	_	_	CONJ	_	_	_	_
+2	euh	euh	_	_	INTJ	_	_	_	_
+3	moi	lui	_	_	PRO	_	_	_	_
+4	personnellement	personnellement	_	_	ADV	_	_	_	_
+5	j'	je	_	_	PRO	_	_	_	_
+6	aime	aimer	_	_	V	_	_	_	_
+7	beaucoup	beaucoup	_	_	ADV	_	_	_	_
+8	les	le	_	_	DET	_	_	_	_
+9	animaux	animal	_	_	N	_	_	_	_
+
+# sent_id = 1041
+# text = euh il y en a d' autres qui sont partis du quartier qui reviennent de temps en temps mh mh et puis bon quand même évidemment des nouveaux
+1	euh	euh	_	_	INTJ	_	_	_	_
+2	il	il	_	_	PRO	_	_	_	_
+3	y	y	_	_	PRO	_	_	_	_
+4	en	en	_	_	PRO	_	_	_	_
+5	a	avoir	_	_	V	_	_	_	_
+6	d'	de	_	_	ADP	_	_	_	_
+7	autres	autre	_	_	ADJ	_	_	_	_
+8	qui	qui	_	_	PRO	_	_	_	_
+9	sont	être	_	_	V	_	_	_	_
+10	partis	partir	_	_	V	_	_	_	_
+11	du	de+le	_	_	ADP	_	_	_	_
+12	quartier	quartier	_	_	N	_	_	_	_
+13	qui	qui	_	_	PRO	_	_	_	_
+14	reviennent	revenir	_	_	V	_	_	_	_
+15	de	de	_	_	ADP	_	_	_	_
+16	temps	temps	_	_	N	_	_	_	_
+17	en	en	_	_	ADP	_	_	_	_
+18	temps	temps	_	_	N	_	_	_	_
+19	mh	mh	_	_	INTJ	_	_	_	_
+20	mh	mh	_	_	INTJ	_	_	_	_
+21	et	et	_	_	CONJ	_	_	_	_
+22	puis	puis	_	_	ADV	_	_	_	_
+23	bon	bon	_	_	INTJ	_	_	_	_
+24	quand	quand	_	_	CONJ	_	_	_	_
+25	même	même	_	_	ADV	_	_	_	_
+26	évidemment	évidemment	_	_	ADV	_	_	_	_
+27	des	de+le	_	_	ADP	_	_	_	_
+28	nouveaux	nouveau	_	_	N	_	_	_	_
+
+# sent_id = 2324
+# text = donc ce n' est pas fait pour cimenter ce groupe
+1	donc	donc	_	_	ADV	_	_	_	_
+2	ce	ce	_	_	PRO	_	_	_	_
+3	n'	ne	_	_	PART	_	_	_	_
+4	est	être	_	_	V	_	_	_	_
+5	pas	pas	_	_	PART	_	_	_	_
+6	fait	faire	_	_	V	_	_	_	_
+7	pour	pour	_	_	ADP	_	_	_	_
+8	cimenter	cimenter	_	_	V	_	_	_	_
+9	ce	ce	_	_	DET	_	_	_	_
+10	groupe	groupe	_	_	N	_	_	_	_
+
+# sent_id = 5
+# text = et euh je reprends je crois le non
+1	et	et	_	_	CONJ	_	_	_	_
+2	euh	euh	_	_	INTJ	_	_	_	_
+3	je	je	_	_	PRO	_	_	_	_
+4	reprends	reprendre	_	_	V	_	_	_	_
+5	je	je	_	_	PRO	_	_	_	_
+6	crois	croire	_	_	V	_	_	_	_
+7	le	le	_	_	DET	_	_	_	_
+8	non	non	_	_	INTJ	_	_	_	_
+
+# sent_id = 1642
+# text = alors en plus comme c' est l' époque où vous tourniez Landru il y a la barbe le bonnet
+1	alors	alors	_	_	ADV	_	_	_	_
+2	en	en	_	_	ADP	_	_	_	_
+3	plus	plus	_	_	PART	_	_	_	_
+4	comme	comme	_	_	CONJ	_	_	_	_
+5	c'	ce	_	_	PRO	_	_	_	_
+6	est	être	_	_	V	_	_	_	_
+7	l'	le	_	_	DET	_	_	_	_
+8	époque	époque	_	_	N	_	_	_	_
+9	où	où	_	_	PRO	_	_	_	_
+10	vous	vous	_	_	PRO	_	_	_	_
+11	tourniez	tourner	_	_	V	_	_	_	_
+12	Landru	Landru	_	_	PROPN	_	_	_	_
+13	il	il	_	_	PRO	_	_	_	_
+14	y	y	_	_	PRO	_	_	_	_
+15	a	avoir	_	_	V	_	_	_	_
+16	la	le	_	_	DET	_	_	_	_
+17	barbe	barbe	_	_	N	_	_	_	_
+18	le	le	_	_	DET	_	_	_	_
+19	bonnet	bonnet	_	_	N	_	_	_	_
+
+# sent_id = 1110
+# text = je sais pas dans d' autres quartiers un peu périphériques de Paris euh
+1	je	je	_	_	PRO	_	_	_	_
+2	sais	savoir	_	_	V	_	_	_	_
+3	pas	pas	_	_	PART	_	_	_	_
+4	dans	dans	_	_	ADP	_	_	_	_
+5	d'	de	_	_	ADP	_	_	_	_
+6	autres	autre	_	_	ADJ	_	_	_	_
+7	quartiers	quartier	_	_	N	_	_	_	_
+8	un	un	_	_	DET	_	_	_	_
+9	peu	peu	_	_	N	_	_	_	_
+10	périphériques	périphérique	_	_	ADJ	_	_	_	_
+11	de	de	_	_	ADP	_	_	_	_
+12	Paris	Paris	_	_	PROPN	_	_	_	_
+13	euh	euh	_	_	INTJ	_	_	_	_
+
+# sent_id = 1342
+# text = match nul zéro partout pour Lille au Mans
+1	match	match	_	_	N	_	_	_	_
+2	nul	nul	_	_	ADJ	_	_	_	_
+3	zéro	zéro	_	_	N	_	_	_	_
+4	partout	partout	_	_	ADV	_	_	_	_
+5	pour	pour	_	_	ADP	_	_	_	_
+6	Lille	Lille	_	_	PROPN	_	_	_	_
+7	au	à+le	_	_	ADP	_	_	_	_
+8	Mans	Mans	_	_	PROPN	_	_	_	_
+
+# sent_id = 2241
+# text = j' ai des des lamés or des des des souliers de pour danser oui alors danser
+1	j'	je	_	_	PRO	_	_	_	_
+2	ai	avoir	_	_	V	_	_	_	_
+3	des	de+le	_	_	ADP	_	_	_	_
+4	des	de+le	_	_	ADP	_	_	_	_
+5	lamés	lamé	_	_	N	_	_	_	_
+6	or	or	_	_	N	_	_	_	_
+7	des	de+le	_	_	ADP	_	_	_	_
+8	des	de+le	_	_	ADP	_	_	_	_
+9	des	de+le	_	_	ADP	_	_	_	_
+10	souliers	soulier	_	_	N	_	_	_	_
+11	de	de	_	_	ADP	_	_	_	_
+12	pour	pour	_	_	ADP	_	_	_	_
+13	danser	danser	_	_	V	_	_	_	_
+14	oui	oui	_	_	INTJ	_	_	_	_
+15	alors	alors	_	_	ADV	_	_	_	_
+16	danser	danser	_	_	V	_	_	_	_
+
+# sent_id = 2733
+# text = c' est aussi là l' intérêt fondamental de l' Europe et de nos partenaires
+1	c'	ce	_	_	PRO	_	_	_	_
+2	est	être	_	_	V	_	_	_	_
+3	aussi	aussi	_	_	ADV	_	_	_	_
+4	là	là	_	_	ADV	_	_	_	_
+5	l'	le	_	_	DET	_	_	_	_
+6	intérêt	intérêt	_	_	N	_	_	_	_
+7	fondamental	fondamental	_	_	ADJ	_	_	_	_
+8	de	de	_	_	ADP	_	_	_	_
+9	l'	le	_	_	DET	_	_	_	_
+10	Europe	Europe	_	_	PROPN	_	_	_	_
+11	et	et	_	_	CONJ	_	_	_	_
+12	de	de	_	_	ADP	_	_	_	_
+13	nos	son	_	_	DET	_	_	_	_
+14	partenaires	partenaire	_	_	N	_	_	_	_
+
+# sent_id = 131
+# text = alors comme ça j' ai travaillé pendant jusqu' au moment où il y a eu une remplaçante qui est qui est venue d' Angleterre
+1	alors	alors	_	_	ADV	_	_	_	_
+2	comme	comme	_	_	ADP	_	_	_	_
+3	ça	ça	_	_	PRO	_	_	_	_
+4	j'	je	_	_	PRO	_	_	_	_
+5	ai	avoir	_	_	V	_	_	_	_
+6	travaillé	travailler	_	_	V	_	_	_	_
+7	pendant	pendant	_	_	ADP	_	_	_	_
+8	jusqu'	jusque	_	_	ADP	_	_	_	_
+9	au	à+le	_	_	ADP	_	_	_	_
+10	moment	moment	_	_	N	_	_	_	_
+11	où	où	_	_	PRO	_	_	_	_
+12	il	il	_	_	PRO	_	_	_	_
+13	y	y	_	_	PRO	_	_	_	_
+14	a	avoir	_	_	V	_	_	_	_
+15	eu	avoir	_	_	V	_	_	_	_
+16	une	un	_	_	DET	_	_	_	_
+17	remplaçante	remplaçant	_	_	N	_	_	_	_
+18	qui	qui	_	_	PRO	_	_	_	_
+19	est	être	_	_	V	_	_	_	_
+20	qui	qui	_	_	PRO	_	_	_	_
+21	est	être	_	_	V	_	_	_	_
+22	venue	venir	_	_	V	_	_	_	_
+23	d'	de	_	_	ADP	_	_	_	_
+24	Angleterre	Angleterre	_	_	PROPN	_	_	_	_
+
+# sent_id = 2336
+# text = nous consacrerons la dernière partie de cette émission à vos questions SMS
+1	nous	nous	_	_	PRO	_	_	_	_
+2	consacrerons	consacrer	_	_	V	_	_	_	_
+3	la	le	_	_	DET	_	_	_	_
+4	dernière	dernier	_	_	ADJ	_	_	_	_
+5	partie	partie	_	_	N	_	_	_	_
+6	de	de	_	_	ADP	_	_	_	_
+7	cette	ce	_	_	DET	_	_	_	_
+8	émission	émission	_	_	N	_	_	_	_
+9	à	à	_	_	ADP	_	_	_	_
+10	vos	son	_	_	DET	_	_	_	_
+11	questions	question	_	_	N	_	_	_	_
+12	SMS	SMS	_	_	PROPN	_	_	_	_
+
+# sent_id = 2311
+# text = ce qui euh explique que ben il aimait bien descendre dans les beaux hôtels les grands dans les grands hôtels
+1	ce	ce	_	_	PRO	_	_	_	_
+2	qui	qui	_	_	PRO	_	_	_	_
+3	euh	euh	_	_	INTJ	_	_	_	_
+4	explique	expliquer	_	_	V	_	_	_	_
+5	que	que	_	_	CONJ	_	_	_	_
+6	ben	ben	_	_	INTJ	_	_	_	_
+7	il	il	_	_	PRO	_	_	_	_
+8	aimait	aimer	_	_	V	_	_	_	_
+9	bien	bien	_	_	ADV	_	_	_	_
+10	descendre	descendre	_	_	V	_	_	_	_
+11	dans	dans	_	_	ADP	_	_	_	_
+12	les	le	_	_	DET	_	_	_	_
+13	beaux	beau	_	_	ADJ	_	_	_	_
+14	hôtels	hôtel	_	_	N	_	_	_	_
+15	les	le	_	_	DET	_	_	_	_
+16	grands	grand	_	_	ADJ	_	_	_	_
+17	dans	dans	_	_	ADP	_	_	_	_
+18	les	le	_	_	DET	_	_	_	_
+19	grands	grand	_	_	ADJ	_	_	_	_
+20	hôtels	hôtel	_	_	N	_	_	_	_
+
+# sent_id = 2551
+# text = enfin tout le monde me dit que je suis plus euh faite pour euh pour euh ces métiers -là et ces études -là que pour l' italien
+1	enfin	enfin	_	_	ADV	_	_	_	_
+2	tout	tout	_	_	ADV	_	_	_	_
+3	le	le	_	_	DET	_	_	_	_
+4	monde	monde	_	_	N	_	_	_	_
+5	me	me	_	_	PRO	_	_	_	_
+6	dit	dire	_	_	V	_	_	_	_
+7	que	que	_	_	CONJ	_	_	_	_
+8	je	je	_	_	PRO	_	_	_	_
+9	suis	être	_	_	V	_	_	_	_
+10	plus	plus	_	_	ADV	_	_	_	_
+11	euh	euh	_	_	INTJ	_	_	_	_
+12	faite	faire	_	_	V	_	_	_	_
+13	pour	pour	_	_	ADP	_	_	_	_
+14	euh	euh	_	_	INTJ	_	_	_	_
+15	pour	pour	_	_	ADP	_	_	_	_
+16	euh	euh	_	_	INTJ	_	_	_	_
+17	ces	ce	_	_	DET	_	_	_	_
+18	métiers	métier	_	_	N	_	_	_	_
+19	-là	là	_	_	ADV	_	_	_	_
+20	et	et	_	_	CONJ	_	_	_	_
+21	ces	ce	_	_	DET	_	_	_	_
+22	études	étude	_	_	N	_	_	_	_
+23	-là	là	_	_	ADV	_	_	_	_
+24	que	que	_	_	CONJ	_	_	_	_
+25	pour	pour	_	_	ADP	_	_	_	_
+26	l'	le	_	_	DET	_	_	_	_
+27	italien	italien	_	_	N	_	_	_	_
+
+# sent_id = 1976
+# text = une petite rue qui part à droite du cinéma euh qui en fait qui
+1	une	un	_	_	DET	_	_	_	_
+2	petite	petit	_	_	ADJ	_	_	_	_
+3	rue	rue	_	_	N	_	_	_	_
+4	qui	qui	_	_	PRO	_	_	_	_
+5	part	partir	_	_	V	_	_	_	_
+6	à	à	_	_	ADP	_	_	_	_
+7	droite	droite	_	_	N	_	_	_	_
+8	du	de+le	_	_	ADP	_	_	_	_
+9	cinéma	cinéma	_	_	N	_	_	_	_
+10	euh	euh	_	_	INTJ	_	_	_	_
+11	qui	qui	_	_	PRO	_	_	_	_
+12	en	en	_	_	PRO	_	_	_	_
+13	fait	fait	_	_	ADJ	_	_	_	_
+14	qui	qui	_	_	PRO	_	_	_	_
+
+# sent_id = 2776
+# text = il y a beaucoup moins de dis~ de distinction entre les contacts que peut avoir le prêtre et puis les classes dirigeantes et le prêtre et le monde ouvrier
+1	il	il	_	_	PRO	_	_	_	_
+2	y	y	_	_	PRO	_	_	_	_
+3	a	avoir	_	_	V	_	_	_	_
+4	beaucoup	beaucoup	_	_	ADV	_	_	_	_
+5	moins	moins	_	_	ADV	_	_	_	_
+6	de	de	_	_	ADP	_	_	_	_
+7	dis~	dis~	_	_	N	_	_	_	_
+8	de	de	_	_	ADP	_	_	_	_
+9	distinction	distinction	_	_	N	_	_	_	_
+10	entre	entre	_	_	ADP	_	_	_	_
+11	les	le	_	_	DET	_	_	_	_
+12	contacts	contact	_	_	N	_	_	_	_
+13	que	que	_	_	PRO	_	_	_	_
+14	peut	pouvoir	_	_	V	_	_	_	_
+15	avoir	avoir	_	_	V	_	_	_	_
+16	le	le	_	_	DET	_	_	_	_
+17	prêtre	prêtre	_	_	N	_	_	_	_
+18	et	et	_	_	CONJ	_	_	_	_
+19	puis	puis	_	_	ADV	_	_	_	_
+20	les	le	_	_	DET	_	_	_	_
+21	classes	classe	_	_	N	_	_	_	_
+22	dirigeantes	dirigeant	_	_	ADJ	_	_	_	_
+23	et	et	_	_	CONJ	_	_	_	_
+24	le	le	_	_	DET	_	_	_	_
+25	prêtre	prêtre	_	_	N	_	_	_	_
+26	et	et	_	_	CONJ	_	_	_	_
+27	le	le	_	_	DET	_	_	_	_
+28	monde	monde	_	_	N	_	_	_	_
+29	ouvrier	ouvrier	_	_	ADJ	_	_	_	_
+
+# sent_id = 607
+# text = donc il y a un boulanger bio et euh une autre boutique
+1	donc	donc	_	_	ADV	_	_	_	_
+2	il	il	_	_	PRO	_	_	_	_
+3	y	y	_	_	PRO	_	_	_	_
+4	a	avoir	_	_	V	_	_	_	_
+5	un	un	_	_	DET	_	_	_	_
+6	boulanger	boulanger	_	_	N	_	_	_	_
+7	bio	bio	_	_	ADJ	_	_	_	_
+8	et	et	_	_	CONJ	_	_	_	_
+9	euh	euh	_	_	INTJ	_	_	_	_
+10	une	un	_	_	DET	_	_	_	_
+11	autre	autre	_	_	ADJ	_	_	_	_
+12	boutique	boutique	_	_	N	_	_	_	_
+
+# sent_id = 1236
+# text = et euh et c' est vrai que elle est peut-être pas compatible avec euh la une vie de famille par exemple
+1	et	et	_	_	CONJ	_	_	_	_
+2	euh	euh	_	_	INTJ	_	_	_	_
+3	et	et	_	_	CONJ	_	_	_	_
+4	c'	ce	_	_	PRO	_	_	_	_
+5	est	être	_	_	V	_	_	_	_
+6	vrai	vrai	_	_	ADJ	_	_	_	_
+7	que	que	_	_	CONJ	_	_	_	_
+8	elle	il	_	_	PRO	_	_	_	_
+9	est	être	_	_	V	_	_	_	_
+10	peut-être	peut-être	_	_	ADV	_	_	_	_
+11	pas	pas	_	_	PART	_	_	_	_
+12	compatible	compatible	_	_	ADJ	_	_	_	_
+13	avec	avec	_	_	ADP	_	_	_	_
+14	euh	euh	_	_	INTJ	_	_	_	_
+15	la	le	_	_	DET	_	_	_	_
+16	une	un	_	_	DET	_	_	_	_
+17	vie	vie	_	_	N	_	_	_	_
+18	de	de	_	_	ADP	_	_	_	_
+19	famille	famille	_	_	N	_	_	_	_
+20	par	par	_	_	ADP	_	_	_	_
+21	exemple	exemple	_	_	N	_	_	_	_
+
+# sent_id = 2333
+# text = et Rozyski dit on ne pouvait pas s' empêcher à la fin de Mort et transfiguration de faire résonner résonner et résonner et encore ces accords qui nous enchantaient
+1	et	et	_	_	CONJ	_	_	_	_
+2	Rozyski	Rozyski	_	_	PROPN	_	_	_	_
+3	dit	dire	_	_	V	_	_	_	_
+4	on	on	_	_	PRO	_	_	_	_
+5	ne	ne	_	_	PART	_	_	_	_
+6	pouvait	pouvoir	_	_	V	_	_	_	_
+7	pas	pas	_	_	PART	_	_	_	_
+8	s'	se	_	_	PRO	_	_	_	_
+9	empêcher	empêcher	_	_	V	_	_	_	_
+10	à	à	_	_	ADP	_	_	_	_
+11	la	le	_	_	DET	_	_	_	_
+12	fin	fin	_	_	N	_	_	_	_
+13	de	de	_	_	ADP	_	_	_	_
+14	Mort	Mort	_	_	PROPN	_	_	_	_
+15	et	et	_	_	CONJ	_	_	_	_
+16	transfiguration	transfiguration	_	_	N	_	_	_	_
+17	de	de	_	_	ADP	_	_	_	_
+18	faire	faire	_	_	V	_	_	_	_
+19	résonner	résonner	_	_	V	_	_	_	_
+20	résonner	résonner	_	_	V	_	_	_	_
+21	et	et	_	_	CONJ	_	_	_	_
+22	résonner	résonner	_	_	V	_	_	_	_
+23	et	et	_	_	CONJ	_	_	_	_
+24	encore	encore	_	_	ADV	_	_	_	_
+25	ces	ce	_	_	DET	_	_	_	_
+26	accords	accord	_	_	N	_	_	_	_
+27	qui	qui	_	_	PRO	_	_	_	_
+28	nous	nous	_	_	PRO	_	_	_	_
+29	enchantaient	enchanter	_	_	V	_	_	_	_
+
+# sent_id = 1634
+# text = et donc on est parti euh c' est vrai avec Jean - François Alain
+1	et	et	_	_	CONJ	_	_	_	_
+2	donc	donc	_	_	ADV	_	_	_	_
+3	on	on	_	_	PRO	_	_	_	_
+4	est	être	_	_	V	_	_	_	_
+5	parti	partir	_	_	V	_	_	_	_
+6	euh	euh	_	_	INTJ	_	_	_	_
+7	c'	ce	_	_	PRO	_	_	_	_
+8	est	être	_	_	V	_	_	_	_
+9	vrai	vrai	_	_	ADJ	_	_	_	_
+10	avec	avec	_	_	ADP	_	_	_	_
+11	Jean	Jean	_	_	PROPN	_	_	_	_
+12	-	-	_	_	_	_	_	_	_
+13	François	François	_	_	PROPN	_	_	_	_
+14	Alain	Alain	_	_	PROPN	_	_	_	_
+
+# sent_id = 1119
+# text = j' ai j' ai bon connais plus
+1	j'	je	_	_	PRO	_	_	_	_
+2	ai	avoir	_	_	V	_	_	_	_
+3	j'	je	_	_	PRO	_	_	_	_
+4	ai	avoir	_	_	V	_	_	_	_
+5	bon	bon	_	_	INTJ	_	_	_	_
+6	connais	connaître	_	_	V	_	_	_	_
+7	plus	plus	_	_	PART	_	_	_	_
+
+# sent_id = 1619
+# text = c' est la place euh je sais plus quoi Verdun Verdun
+1	c'	ce	_	_	PRO	_	_	_	_
+2	est	être	_	_	V	_	_	_	_
+3	la	le	_	_	DET	_	_	_	_
+4	place	place	_	_	N	_	_	_	_
+5	euh	euh	_	_	INTJ	_	_	_	_
+6	je	je	_	_	PRO	_	_	_	_
+7	sais	savoir	_	_	V	_	_	_	_
+8	plus	plus	_	_	PART	_	_	_	_
+9	quoi	quoi	_	_	PRO	_	_	_	_
+10	Verdun	Verdun	_	_	PROPN	_	_	_	_
+11	Verdun	Verdun	_	_	PROPN	_	_	_	_
+
+# sent_id = 1370
+# text = je connaissais personne
+1	je	je	_	_	PRO	_	_	_	_
+2	connaissais	connaître	_	_	V	_	_	_	_
+3	personne	personne	_	_	PRO	_	_	_	_
+
+# sent_id = 1298
+# text = un sondage BVA Les Échos France Info réalisé les treize et quatorze février derniers
+1	un	un	_	_	DET	_	_	_	_
+2	sondage	sondage	_	_	N	_	_	_	_
+3	BVA	BVA	_	_	PROPN	_	_	_	_
+4	Les	le	_	_	DET	_	_	_	_
+5	Échos	Échos	_	_	PROPN	_	_	_	_
+6	France	France	_	_	PROPN	_	_	_	_
+7	Info	Info	_	_	PROPN	_	_	_	_
+8	réalisé	réaliser	_	_	V	_	_	_	_
+9	les	le	_	_	DET	_	_	_	_
+10	treize	treize	_	_	NUM	_	_	_	_
+11	et	et	_	_	CONJ	_	_	_	_
+12	quatorze	quatorze	_	_	NUM	_	_	_	_
+13	février	février	_	_	N	_	_	_	_
+14	derniers	dernier	_	_	ADJ	_	_	_	_
+
+# sent_id = 415
+# text = et comme j' étais le seul informaticien euh ben ça c' est devenu assez dur puisque maint~ enfin dur relativement puisque maintenant je suis responsable
+1	et	et	_	_	CONJ	_	_	_	_
+2	comme	comme	_	_	CONJ	_	_	_	_
+3	j'	je	_	_	PRO	_	_	_	_
+4	étais	être	_	_	V	_	_	_	_
+5	le	le	_	_	DET	_	_	_	_
+6	seul	seul	_	_	ADJ	_	_	_	_
+7	informaticien	informaticien	_	_	N	_	_	_	_
+8	euh	euh	_	_	INTJ	_	_	_	_
+9	ben	ben	_	_	INTJ	_	_	_	_
+10	ça	ça	_	_	PRO	_	_	_	_
+11	c'	ce	_	_	PRO	_	_	_	_
+12	est	être	_	_	V	_	_	_	_
+13	devenu	devenir	_	_	V	_	_	_	_
+14	assez	assez	_	_	ADV	_	_	_	_
+15	dur	dur	_	_	ADJ	_	_	_	_
+16	puisque	puisque	_	_	CONJ	_	_	_	_
+17	maint~	maint~	_	_	ADV	_	_	_	_
+18	enfin	enfin	_	_	ADV	_	_	_	_
+19	dur	dur	_	_	ADJ	_	_	_	_
+20	relativement	relativement	_	_	ADV	_	_	_	_
+21	puisque	puisque	_	_	CONJ	_	_	_	_
+22	maintenant	maintenant	_	_	ADV	_	_	_	_
+23	je	je	_	_	PRO	_	_	_	_
+24	suis	être	_	_	V	_	_	_	_
+25	responsable	responsable	_	_	N	_	_	_	_
+
+# sent_id = 1563
+# text = moi je travaille
+1	moi	lui	_	_	PRO	_	_	_	_
+2	je	je	_	_	PRO	_	_	_	_
+3	travaille	travailler	_	_	V	_	_	_	_
+
+# sent_id = 1885
+# text = mh mh bon il il y a vraiment euh aucun problème
+1	mh	mh	_	_	INTJ	_	_	_	_
+2	mh	mh	_	_	INTJ	_	_	_	_
+3	bon	bon	_	_	INTJ	_	_	_	_
+4	il	il	_	_	PRO	_	_	_	_
+5	il	il	_	_	PRO	_	_	_	_
+6	y	y	_	_	PRO	_	_	_	_
+7	a	avoir	_	_	V	_	_	_	_
+8	vraiment	vraiment	_	_	ADV	_	_	_	_
+9	euh	euh	_	_	INTJ	_	_	_	_
+10	aucun	aucun	_	_	PRO	_	_	_	_
+11	problème	problème	_	_	N	_	_	_	_
+
+# sent_id = 1604
+# text = et avant d' arriver au troisième vous prenez à droite là où il y a les intersions les intersections
+1	et	et	_	_	CONJ	_	_	_	_
+2	avant	avant	_	_	N	_	_	_	_
+3	d'	de	_	_	ADP	_	_	_	_
+4	arriver	arriver	_	_	V	_	_	_	_
+5	au	à+le	_	_	ADP	_	_	_	_
+6	troisième	troisième	_	_	N	_	_	_	_
+7	vous	vous	_	_	PRO	_	_	_	_
+8	prenez	prendre	_	_	V	_	_	_	_
+9	à	à	_	_	ADP	_	_	_	_
+10	droite	droite	_	_	N	_	_	_	_
+11	là	là	_	_	ADV	_	_	_	_
+12	où	où	_	_	PRO	_	_	_	_
+13	il	il	_	_	PRO	_	_	_	_
+14	y	y	_	_	PRO	_	_	_	_
+15	a	avoir	_	_	V	_	_	_	_
+16	les	le	_	_	DET	_	_	_	_
+17	intersions	intersion	_	_	N	_	_	_	_
+18	les	le	_	_	DET	_	_	_	_
+19	intersections	intersection	_	_	N	_	_	_	_
+
+# sent_id = 253
+# text = c' est Gutiérrez oh la la qui marque ce but du pied droit
+1	c'	ce	_	_	PRO	_	_	_	_
+2	est	être	_	_	V	_	_	_	_
+3	Gutiérrez	Gutiérrez	_	_	PROPN	_	_	_	_
+4	oh	oh	_	_	INTJ	_	_	_	_
+5	la	la	_	_	INTJ	_	_	_	_
+6	la	la	_	_	INTJ	_	_	_	_
+7	qui	qui	_	_	PRO	_	_	_	_
+8	marque	marquer	_	_	V	_	_	_	_
+9	ce	ce	_	_	DET	_	_	_	_
+10	but	but	_	_	N	_	_	_	_
+11	du	de+le	_	_	ADP	_	_	_	_
+12	pied	pied	_	_	N	_	_	_	_
+13	droit	droit	_	_	ADJ	_	_	_	_
+
+# sent_id = 1275
+# text = le LKP lance un appel au calme
+1	le	le	_	_	DET	_	_	_	_
+2	LKP	LKP	_	_	PROPN	_	_	_	_
+3	lance	lancer	_	_	V	_	_	_	_
+4	un	un	_	_	DET	_	_	_	_
+5	appel	appel	_	_	N	_	_	_	_
+6	au	à+le	_	_	ADP	_	_	_	_
+7	calme	calme	_	_	N	_	_	_	_
+
+# sent_id = 381
+# text = la France change
+1	la	le	_	_	DET	_	_	_	_
+2	France	France	_	_	PROPN	_	_	_	_
+3	change	changer	_	_	V	_	_	_	_
+
+# sent_id = 1658
+# text = maintenant on va faire une interview vaudeville
+1	maintenant	maintenant	_	_	ADV	_	_	_	_
+2	on	on	_	_	PRO	_	_	_	_
+3	va	aller	_	_	V	_	_	_	_
+4	faire	faire	_	_	V	_	_	_	_
+5	une	un	_	_	DET	_	_	_	_
+6	interview	interview	_	_	N	_	_	_	_
+7	vaudeville	vaudeville	_	_	N	_	_	_	_
+
+# sent_id = 2437
+# text = parce que la grippe est une maladie qu' on connaît bien
+1	parce	parce	_	_	CONJ	_	_	_	_
+2	que	que	_	_	CONJ	_	_	_	_
+3	la	le	_	_	DET	_	_	_	_
+4	grippe	grippe	_	_	N	_	_	_	_
+5	est	être	_	_	V	_	_	_	_
+6	une	un	_	_	DET	_	_	_	_
+7	maladie	maladie	_	_	N	_	_	_	_
+8	qu'	que	_	_	PRO	_	_	_	_
+9	on	on	_	_	PRO	_	_	_	_
+10	connaît	connaître	_	_	V	_	_	_	_
+11	bien	bien	_	_	ADV	_	_	_	_
+
+# sent_id = 904
+# text = ouais je crois que c' est ça
+1	ouais	ouais	_	_	INTJ	_	_	_	_
+2	je	je	_	_	PRO	_	_	_	_
+3	crois	croire	_	_	V	_	_	_	_
+4	que	que	_	_	CONJ	_	_	_	_
+5	c'	ce	_	_	PRO	_	_	_	_
+6	est	être	_	_	V	_	_	_	_
+7	ça	ça	_	_	PRO	_	_	_	_
+
+# sent_id = 1257
+# text = mais faut aussi être réaliste
+1	mais	mais	_	_	CONJ	_	_	_	_
+2	faut	falloir	_	_	V	_	_	_	_
+3	aussi	aussi	_	_	ADV	_	_	_	_
+4	être	être	_	_	V	_	_	_	_
+5	réaliste	réaliste	_	_	ADJ	_	_	_	_
+
+# sent_id = 2247
+# text = aujourd' hui on ne vous remarquerait pas
+1	aujourd'	aujourd'	_	_	ADV	_	_	_	_
+2	hui	hui	_	_	N	_	_	_	_
+3	on	on	_	_	PRO	_	_	_	_
+4	ne	ne	_	_	PART	_	_	_	_
+5	vous	vous	_	_	PRO	_	_	_	_
+6	remarquerait	remarquer	_	_	V	_	_	_	_
+7	pas	pas	_	_	PART	_	_	_	_
+
+# sent_id = 2160
+# text = et elle n' abîme absolument pas le linge pas du tout
+1	et	et	_	_	CONJ	_	_	_	_
+2	elle	il	_	_	PRO	_	_	_	_
+3	n'	ne	_	_	PART	_	_	_	_
+4	abîme	abîmer	_	_	V	_	_	_	_
+5	absolument	absolument	_	_	ADV	_	_	_	_
+6	pas	pas	_	_	PART	_	_	_	_
+7	le	le	_	_	DET	_	_	_	_
+8	linge	linge	_	_	N	_	_	_	_
+9	pas	pas	_	_	PART	_	_	_	_
+10	du	de+le	_	_	ADP	_	_	_	_
+11	tout	tout	_	_	N	_	_	_	_
+
+# sent_id = 2057
+# text = tu longes les les rails du tram jusqu' à la place Grenette
+1	tu	tu	_	_	PRO	_	_	_	_
+2	longes	longer	_	_	V	_	_	_	_
+3	les	le	_	_	DET	_	_	_	_
+4	les	le	_	_	DET	_	_	_	_
+5	rails	rail	_	_	N	_	_	_	_
+6	du	de+le	_	_	ADP	_	_	_	_
+7	tram	tram	_	_	N	_	_	_	_
+8	jusqu'	jusque	_	_	ADP	_	_	_	_
+9	à	à	_	_	ADP	_	_	_	_
+10	la	le	_	_	DET	_	_	_	_
+11	place	place	_	_	N	_	_	_	_
+12	Grenette	Grenette	_	_	PROPN	_	_	_	_
+
+# sent_id = 1867
+# text = c' était pas anormal
+1	c'	ce	_	_	PRO	_	_	_	_
+2	était	être	_	_	V	_	_	_	_
+3	pas	pas	_	_	PART	_	_	_	_
+4	anormal	anormal	_	_	ADJ	_	_	_	_
+
+# sent_id = 2316
+# text = alors la jeune Pologne c' est d' abord un mouvement artistique
+1	alors	alors	_	_	ADV	_	_	_	_
+2	la	le	_	_	DET	_	_	_	_
+3	jeune	jeune	_	_	ADJ	_	_	_	_
+4	Pologne	Pologne	_	_	PROPN	_	_	_	_
+5	c'	ce	_	_	PRO	_	_	_	_
+6	est	être	_	_	V	_	_	_	_
+7	d'	de	_	_	ADP	_	_	_	_
+8	abord	abord	_	_	N	_	_	_	_
+9	un	un	_	_	DET	_	_	_	_
+10	mouvement	mouvement	_	_	N	_	_	_	_
+11	artistique	artistique	_	_	ADJ	_	_	_	_
+
+# sent_id = 723
+# text = ouais moi je pense qu' en fait il voit d' abord la la jeune fille partir
+1	ouais	ouais	_	_	INTJ	_	_	_	_
+2	moi	lui	_	_	PRO	_	_	_	_
+3	je	je	_	_	PRO	_	_	_	_
+4	pense	penser	_	_	V	_	_	_	_
+5	qu'	que	_	_	CONJ	_	_	_	_
+6	en	en	_	_	PRO	_	_	_	_
+7	fait	fait	_	_	ADJ	_	_	_	_
+8	il	il	_	_	PRO	_	_	_	_
+9	voit	voir	_	_	V	_	_	_	_
+10	d'	de	_	_	ADP	_	_	_	_
+11	abord	abord	_	_	N	_	_	_	_
+12	la	le	_	_	DET	_	_	_	_
+13	la	le	_	_	DET	_	_	_	_
+14	jeune	jeune	_	_	ADJ	_	_	_	_
+15	fille	fille	_	_	N	_	_	_	_
+16	partir	partir	_	_	V	_	_	_	_
+
+# sent_id = 792
+# text = deuxième distinction eh bien euh il faut voir et c' est en ce sens que l' art est un concept flou c' est que l' art a des fonctions extrêmement diverses euh selon les époques et selon les sociétés
+1	deuxième	deuxième	_	_	ADJ	_	_	_	_
+2	distinction	distinction	_	_	N	_	_	_	_
+3	eh	eh	_	_	INTJ	_	_	_	_
+4	bien	bien	_	_	INTJ	_	_	_	_
+5	euh	euh	_	_	INTJ	_	_	_	_
+6	il	il	_	_	PRO	_	_	_	_
+7	faut	falloir	_	_	V	_	_	_	_
+8	voir	voir	_	_	V	_	_	_	_
+9	et	et	_	_	CONJ	_	_	_	_
+10	c'	ce	_	_	PRO	_	_	_	_
+11	est	être	_	_	V	_	_	_	_
+12	en	en	_	_	ADP	_	_	_	_
+13	ce	ce	_	_	DET	_	_	_	_
+14	sens	sens	_	_	N	_	_	_	_
+15	que	que	_	_	CONJ	_	_	_	_
+16	l'	le	_	_	DET	_	_	_	_
+17	art	art	_	_	N	_	_	_	_
+18	est	être	_	_	V	_	_	_	_
+19	un	un	_	_	DET	_	_	_	_
+20	concept	concept	_	_	N	_	_	_	_
+21	flou	flou	_	_	ADJ	_	_	_	_
+22	c'	ce	_	_	PRO	_	_	_	_
+23	est	être	_	_	V	_	_	_	_
+24	que	que	_	_	CONJ	_	_	_	_
+25	l'	le	_	_	DET	_	_	_	_
+26	art	art	_	_	N	_	_	_	_
+27	a	avoir	_	_	V	_	_	_	_
+28	des	de+le	_	_	ADP	_	_	_	_
+29	fonctions	fonction	_	_	N	_	_	_	_
+30	extrêmement	extrêmement	_	_	ADV	_	_	_	_
+31	diverses	divers	_	_	ADJ	_	_	_	_
+32	euh	euh	_	_	INTJ	_	_	_	_
+33	selon	selon	_	_	ADP	_	_	_	_
+34	les	le	_	_	DET	_	_	_	_
+35	époques	époque	_	_	N	_	_	_	_
+36	et	et	_	_	CONJ	_	_	_	_
+37	selon	selon	_	_	ADP	_	_	_	_
+38	les	le	_	_	DET	_	_	_	_
+39	sociétés	société	_	_	N	_	_	_	_
+
+# sent_id = 999
+# text = toutes les histoires de l~ de de la littérature sont l' histoire des écrivains des écoles
+1	toutes	tout	_	_	ADJ	_	_	_	_
+2	les	le	_	_	DET	_	_	_	_
+3	histoires	histoire	_	_	N	_	_	_	_
+4	de	de	_	_	ADP	_	_	_	_
+5	l~	l~	_	_	_	_	_	_	_
+6	de	de	_	_	ADP	_	_	_	_
+7	de	de	_	_	ADP	_	_	_	_
+8	la	le	_	_	DET	_	_	_	_
+9	littérature	littérature	_	_	N	_	_	_	_
+10	sont	être	_	_	V	_	_	_	_
+11	l'	le	_	_	DET	_	_	_	_
+12	histoire	histoire	_	_	N	_	_	_	_
+13	des	de+le	_	_	ADP	_	_	_	_
+14	écrivains	écrivain	_	_	N	_	_	_	_
+15	des	de+le	_	_	ADP	_	_	_	_
+16	écoles	école	_	_	N	_	_	_	_
+
+# sent_id = 2195
+# text = vous savez je
+1	vous	vous	_	_	PRO	_	_	_	_
+2	savez	savoir	_	_	V	_	_	_	_
+3	je	je	_	_	PRO	_	_	_	_
+
+# sent_id = 1626
+# text = Maria elle est elle était solidaire pour mon futur procès
+1	Maria	Maria	_	_	PROPN	_	_	_	_
+2	elle	il	_	_	PRO	_	_	_	_
+3	est	être	_	_	V	_	_	_	_
+4	elle	il	_	_	PRO	_	_	_	_
+5	était	être	_	_	V	_	_	_	_
+6	solidaire	solidaire	_	_	ADJ	_	_	_	_
+7	pour	pour	_	_	ADP	_	_	_	_
+8	mon	son	_	_	DET	_	_	_	_
+9	futur	futur	_	_	ADJ	_	_	_	_
+10	procès	procès	_	_	N	_	_	_	_
+
+# sent_id = 510
+# text = c' est euh
+1	c'	ce	_	_	PRO	_	_	_	_
+2	est	être	_	_	V	_	_	_	_
+3	euh	euh	_	_	INTJ	_	_	_	_
+
+# sent_id = 1963
+# text = elle s' est mise à courir
+1	elle	il	_	_	PRO	_	_	_	_
+2	s'	se	_	_	PRO	_	_	_	_
+3	est	être	_	_	V	_	_	_	_
+4	mise	mettre	_	_	V	_	_	_	_
+5	à	à	_	_	ADP	_	_	_	_
+6	courir	courir	_	_	V	_	_	_	_
+
+# sent_id = 1429
+# text = et ils nous les ils te les prennent
+1	et	et	_	_	CONJ	_	_	_	_
+2	ils	il	_	_	PRO	_	_	_	_
+3	nous	nous	_	_	PRO	_	_	_	_
+4	les	le	_	_	PRO	_	_	_	_
+5	ils	il	_	_	PRO	_	_	_	_
+6	te	te	_	_	PRO	_	_	_	_
+7	les	le	_	_	PRO	_	_	_	_
+8	prennent	prendre	_	_	V	_	_	_	_
+
+# sent_id = 153
+# text = pour L' Union à Reims pas de rhétorique de plateau télévisé qui tienne
+1	pour	pour	_	_	ADP	_	_	_	_
+2	L'	le	_	_	DET	_	_	_	_
+3	Union	Union	_	_	PROPN	_	_	_	_
+4	à	à	_	_	ADP	_	_	_	_
+5	Reims	Reims	_	_	PROPN	_	_	_	_
+6	pas	pas	_	_	PART	_	_	_	_
+7	de	de	_	_	ADP	_	_	_	_
+8	rhétorique	rhétorique	_	_	N	_	_	_	_
+9	de	de	_	_	ADP	_	_	_	_
+10	plateau	plateau	_	_	N	_	_	_	_
+11	télévisé	téléviser	_	_	ADJ	_	_	_	_
+12	qui	qui	_	_	PRO	_	_	_	_
+13	tienne	tenir	_	_	V	_	_	_	_
+
+# sent_id = 1447
+# text = ouais non mais tu me les redonnes
+1	ouais	ouais	_	_	INTJ	_	_	_	_
+2	non	non	_	_	INTJ	_	_	_	_
+3	mais	mais	_	_	CONJ	_	_	_	_
+4	tu	tu	_	_	PRO	_	_	_	_
+5	me	me	_	_	PRO	_	_	_	_
+6	les	le	_	_	PRO	_	_	_	_
+7	redonnes	redonner	_	_	V	_	_	_	_
+
+# sent_id = 1034
+# text = ou le reconnaissez -vous comme tel
+1	ou	ou	_	_	CONJ	_	_	_	_
+2	le	le	_	_	PRO	_	_	_	_
+3	reconnaissez	reconnaître	_	_	V	_	_	_	_
+4	-vous	vous	_	_	PRO	_	_	_	_
+5	comme	comme	_	_	ADP	_	_	_	_
+6	tel	tel	_	_	PRO	_	_	_	_
+
+# sent_id = 270
+# text = il frappe de loin mais dans les nuages
+1	il	il	_	_	PRO	_	_	_	_
+2	frappe	frapper	_	_	V	_	_	_	_
+3	de	de	_	_	ADP	_	_	_	_
+4	loin	loin	_	_	ADV	_	_	_	_
+5	mais	mais	_	_	CONJ	_	_	_	_
+6	dans	dans	_	_	ADP	_	_	_	_
+7	les	le	_	_	DET	_	_	_	_
+8	nuages	nuage	_	_	N	_	_	_	_
+
+# sent_id = 1317
+# text = sept cent quatre-vingt-sept milliards de dollars destinés à sauver ou créer plus de trois millions et demi d' emplois
+1	sept	sept	_	_	NUM	_	_	_	_
+2	cent	cent	_	_	NUM	_	_	_	_
+3	quatre-vingt-sept	quatre-vingt-sept	_	_	NUM	_	_	_	_
+4	milliards	milliard	_	_	N	_	_	_	_
+5	de	de	_	_	ADP	_	_	_	_
+6	dollars	dollar	_	_	N	_	_	_	_
+7	destinés	destiner	_	_	V	_	_	_	_
+8	à	à	_	_	ADP	_	_	_	_
+9	sauver	sauver	_	_	V	_	_	_	_
+10	ou	ou	_	_	CONJ	_	_	_	_
+11	créer	créer	_	_	V	_	_	_	_
+12	plus	plus	_	_	ADV	_	_	_	_
+13	de	de	_	_	ADP	_	_	_	_
+14	trois	trois	_	_	NUM	_	_	_	_
+15	millions	million	_	_	N	_	_	_	_
+16	et	et	_	_	CONJ	_	_	_	_
+17	demi	demi	_	_	ADJ	_	_	_	_
+18	d'	de	_	_	ADP	_	_	_	_
+19	emplois	emploi	_	_	N	_	_	_	_
+
+# sent_id = 1888
+# text = j~ je connaissais des gens dans le septième qui mettaient leurs enfants d' abord dans le public puis dans le privé pour qu' ils puissent passer après éventuellement euh euh et qu' ils soient plus forts
+1	j~	j~	_	_	PRO	_	_	_	_
+2	je	je	_	_	PRO	_	_	_	_
+3	connaissais	connaître	_	_	V	_	_	_	_
+4	des	de+le	_	_	ADP	_	_	_	_
+5	gens	gens	_	_	N	_	_	_	_
+6	dans	dans	_	_	ADP	_	_	_	_
+7	le	le	_	_	DET	_	_	_	_
+8	septième	septième	_	_	N	_	_	_	_
+9	qui	qui	_	_	PRO	_	_	_	_
+10	mettaient	mettre	_	_	V	_	_	_	_
+11	leurs	son	_	_	DET	_	_	_	_
+12	enfants	enfant	_	_	N	_	_	_	_
+13	d'	de	_	_	ADP	_	_	_	_
+14	abord	abord	_	_	N	_	_	_	_
+15	dans	dans	_	_	ADP	_	_	_	_
+16	le	le	_	_	DET	_	_	_	_
+17	public	public	_	_	N	_	_	_	_
+18	puis	puis	_	_	CONJ	_	_	_	_
+19	dans	dans	_	_	ADP	_	_	_	_
+20	le	le	_	_	DET	_	_	_	_
+21	privé	privé	_	_	N	_	_	_	_
+22	pour	pour	_	_	ADP	_	_	_	_
+23	qu'	que	_	_	CONJ	_	_	_	_
+24	ils	il	_	_	PRO	_	_	_	_
+25	puissent	pouvoir	_	_	V	_	_	_	_
+26	passer	passer	_	_	V	_	_	_	_
+27	après	après	_	_	ADP	_	_	_	_
+28	éventuellement	éventuellement	_	_	ADV	_	_	_	_
+29	euh	euh	_	_	INTJ	_	_	_	_
+30	euh	euh	_	_	INTJ	_	_	_	_
+31	et	et	_	_	CONJ	_	_	_	_
+32	qu'	que	_	_	CONJ	_	_	_	_
+33	ils	il	_	_	PRO	_	_	_	_
+34	soient	être	_	_	V	_	_	_	_
+35	plus	plus	_	_	ADV	_	_	_	_
+36	forts	fort	_	_	ADJ	_	_	_	_
+
+# sent_id = 873
+# text = c' est c' est c' est quel livre alors
+1	c'	ce	_	_	PRO	_	_	_	_
+2	est	être	_	_	V	_	_	_	_
+3	c'	ce	_	_	PRO	_	_	_	_
+4	est	être	_	_	V	_	_	_	_
+5	c'	ce	_	_	PRO	_	_	_	_
+6	est	être	_	_	V	_	_	_	_
+7	quel	quel	_	_	PRO	_	_	_	_
+8	livre	livre	_	_	N	_	_	_	_
+9	alors	alors	_	_	ADV	_	_	_	_
+
+# sent_id = 992
+# text = je ne suis pas un penseur
+1	je	je	_	_	PRO	_	_	_	_
+2	ne	ne	_	_	PART	_	_	_	_
+3	suis	être	_	_	V	_	_	_	_
+4	pas	pas	_	_	PART	_	_	_	_
+5	un	un	_	_	DET	_	_	_	_
+6	penseur	penseur	_	_	N	_	_	_	_
+
+# sent_id = 28
+# text = tu passes un autre rond - point
+1	tu	tu	_	_	PRO	_	_	_	_
+2	passes	passer	_	_	V	_	_	_	_
+3	un	un	_	_	DET	_	_	_	_
+4	autre	autre	_	_	ADJ	_	_	_	_
+5	rond	rond	_	_	N	_	_	_	_
+6	-	-	_	_	_	_	_	_	_
+7	point	point	_	_	N	_	_	_	_
+
+# sent_id = 2480
+# text = c' est la première journée de Jésus que nous venons d' entendre la première journée où il manifeste son autorité et la nouveauté la bonne nouvelle l' évangile qui arrive avec lui
+1	c'	ce	_	_	PRO	_	_	_	_
+2	est	être	_	_	V	_	_	_	_
+3	la	le	_	_	DET	_	_	_	_
+4	première	premier	_	_	ADJ	_	_	_	_
+5	journée	journée	_	_	N	_	_	_	_
+6	de	de	_	_	ADP	_	_	_	_
+7	Jésus	Jésus	_	_	PROPN	_	_	_	_
+8	que	que	_	_	PRO	_	_	_	_
+9	nous	nous	_	_	PRO	_	_	_	_
+10	venons	venir	_	_	V	_	_	_	_
+11	d'	de	_	_	ADP	_	_	_	_
+12	entendre	entendre	_	_	V	_	_	_	_
+13	la	le	_	_	DET	_	_	_	_
+14	première	premier	_	_	ADJ	_	_	_	_
+15	journée	journée	_	_	N	_	_	_	_
+16	où	où	_	_	PRO	_	_	_	_
+17	il	il	_	_	PRO	_	_	_	_
+18	manifeste	manifester	_	_	V	_	_	_	_
+19	son	son	_	_	DET	_	_	_	_
+20	autorité	autorité	_	_	N	_	_	_	_
+21	et	et	_	_	CONJ	_	_	_	_
+22	la	le	_	_	DET	_	_	_	_
+23	nouveauté	nouveauté	_	_	N	_	_	_	_
+24	la	le	_	_	DET	_	_	_	_
+25	bonne	bon	_	_	ADJ	_	_	_	_
+26	nouvelle	nouvelle	_	_	N	_	_	_	_
+27	l'	le	_	_	DET	_	_	_	_
+28	évangile	évangile	_	_	N	_	_	_	_
+29	qui	qui	_	_	PRO	_	_	_	_
+30	arrive	arriver	_	_	V	_	_	_	_
+31	avec	avec	_	_	ADP	_	_	_	_
+32	lui	lui	_	_	PRO	_	_	_	_
+
+# sent_id = 1667
+# text = plus tôt je préviens
+1	plus	plus	_	_	PART	_	_	_	_
+2	tôt	tôt	_	_	ADV	_	_	_	_
+3	je	je	_	_	PRO	_	_	_	_
+4	préviens	prévenir	_	_	V	_	_	_	_
+
+# sent_id = 2337
+# text = alors où en est -on vraiment du côté de la grippe A H un N un
+1	alors	alors	_	_	ADV	_	_	_	_
+2	où	où	_	_	PRO	_	_	_	_
+3	en	en	_	_	PRO	_	_	_	_
+4	est	être	_	_	V	_	_	_	_
+5	-on	on	_	_	PRO	_	_	_	_
+6	vraiment	vraiment	_	_	ADV	_	_	_	_
+7	du	de+le	_	_	ADP	_	_	_	_
+8	côté	côté	_	_	N	_	_	_	_
+9	de	de	_	_	ADP	_	_	_	_
+10	la	le	_	_	DET	_	_	_	_
+11	grippe	grippe	_	_	N	_	_	_	_
+12	A	A	_	_	PROPN	_	_	_	_
+13	H	H	_	_	PROPN	_	_	_	_
+14	un	un	_	_	N	_	_	_	_
+15	N	N	_	_	PROPN	_	_	_	_
+16	un	un	_	_	N	_	_	_	_
+
+# sent_id = 2659
+# text = enfin ma famille le connaissait
+1	enfin	enfin	_	_	ADV	_	_	_	_
+2	ma	son	_	_	DET	_	_	_	_
+3	famille	famille	_	_	N	_	_	_	_
+4	le	le	_	_	PRO	_	_	_	_
+5	connaissait	connaître	_	_	V	_	_	_	_
+
+# sent_id = 2684
+# text = je ne suis pas du tout quelqu' un de d' extraverti
+1	je	je	_	_	PRO	_	_	_	_
+2	ne	ne	_	_	PART	_	_	_	_
+3	suis	être	_	_	V	_	_	_	_
+4	pas	pas	_	_	PART	_	_	_	_
+5	du	de+le	_	_	ADP	_	_	_	_
+6	tout	tout	_	_	N	_	_	_	_
+7	quelqu'	quelque	_	_	DET	_	_	_	_
+8	un	un	_	_	PRO	_	_	_	_
+9	de	de	_	_	ADP	_	_	_	_
+10	d'	de	_	_	ADP	_	_	_	_
+11	extraverti	extravertir	_	_	ADJ	_	_	_	_
+
+# sent_id = 598
+# text = et le soir je rentre je rentre à pieds tout le temps
+1	et	et	_	_	CONJ	_	_	_	_
+2	le	le	_	_	DET	_	_	_	_
+3	soir	soir	_	_	N	_	_	_	_
+4	je	je	_	_	PRO	_	_	_	_
+5	rentre	rentrer	_	_	V	_	_	_	_
+6	je	je	_	_	PRO	_	_	_	_
+7	rentre	rentrer	_	_	V	_	_	_	_
+8	à	à	_	_	ADP	_	_	_	_
+9	pieds	pied	_	_	N	_	_	_	_
+10	tout	tout	_	_	ADV	_	_	_	_
+11	le	le	_	_	DET	_	_	_	_
+12	temps	temps	_	_	N	_	_	_	_
+
+# sent_id = 368
+# text = car il s' agit du patrimoine que nous lèguerons à nos enfants
+1	car	car	_	_	CONJ	_	_	_	_
+2	il	il	_	_	PRO	_	_	_	_
+3	s'	se	_	_	PRO	_	_	_	_
+4	agit	agir	_	_	V	_	_	_	_
+5	du	de+le	_	_	ADP	_	_	_	_
+6	patrimoine	patrimoine	_	_	N	_	_	_	_
+7	que	que	_	_	PRO	_	_	_	_
+8	nous	nous	_	_	PRO	_	_	_	_
+9	lèguerons	léguer	_	_	V	_	_	_	_
+10	à	à	_	_	ADP	_	_	_	_
+11	nos	son	_	_	DET	_	_	_	_
+12	enfants	enfant	_	_	N	_	_	_	_
+
+# sent_id = 1799
+# text = c' était une enfance heureuse oui très heureuse
+1	c'	ce	_	_	PRO	_	_	_	_
+2	était	être	_	_	V	_	_	_	_
+3	une	un	_	_	DET	_	_	_	_
+4	enfance	enfance	_	_	N	_	_	_	_
+5	heureuse	heureux	_	_	ADJ	_	_	_	_
+6	oui	oui	_	_	INTJ	_	_	_	_
+7	très	très	_	_	ADV	_	_	_	_
+8	heureuse	heureux	_	_	ADJ	_	_	_	_
+
+# sent_id = 1100
+# text = donc c' est pas tant le livre électronique pour le moment qui est une concurrence
+1	donc	donc	_	_	ADV	_	_	_	_
+2	c'	ce	_	_	PRO	_	_	_	_
+3	est	être	_	_	V	_	_	_	_
+4	pas	pas	_	_	PART	_	_	_	_
+5	tant	tant	_	_	ADV	_	_	_	_
+6	le	le	_	_	DET	_	_	_	_
+7	livre	livre	_	_	N	_	_	_	_
+8	électronique	électronique	_	_	ADJ	_	_	_	_
+9	pour	pour	_	_	ADP	_	_	_	_
+10	le	le	_	_	DET	_	_	_	_
+11	moment	moment	_	_	N	_	_	_	_
+12	qui	qui	_	_	PRO	_	_	_	_
+13	est	être	_	_	V	_	_	_	_
+14	une	un	_	_	DET	_	_	_	_
+15	concurrence	concurrence	_	_	N	_	_	_	_
+
+# sent_id = 345
+# text = ce qui paraissait très lointain et qui a longtemps symbolisé le futur l' an deux mille est devenu contemporain immédiat
+1	ce	ce	_	_	PRO	_	_	_	_
+2	qui	qui	_	_	PRO	_	_	_	_
+3	paraissait	paraître	_	_	V	_	_	_	_
+4	très	très	_	_	ADV	_	_	_	_
+5	lointain	lointain	_	_	ADJ	_	_	_	_
+6	et	et	_	_	CONJ	_	_	_	_
+7	qui	qui	_	_	PRO	_	_	_	_
+8	a	avoir	_	_	V	_	_	_	_
+9	longtemps	longtemps	_	_	ADV	_	_	_	_
+10	symbolisé	symboliser	_	_	V	_	_	_	_
+11	le	le	_	_	DET	_	_	_	_
+12	futur	futur	_	_	N	_	_	_	_
+13	l'	le	_	_	DET	_	_	_	_
+14	an	an	_	_	N	_	_	_	_
+15	deux	deux	_	_	NUM	_	_	_	_
+16	mille	mille	_	_	NUM	_	_	_	_
+17	est	être	_	_	V	_	_	_	_
+18	devenu	devenir	_	_	V	_	_	_	_
+19	contemporain	contemporain	_	_	ADJ	_	_	_	_
+20	immédiat	immédiat	_	_	ADJ	_	_	_	_
+
+# sent_id = 2153
+# text = alors ça enlève bien les odeurs euh toutes les odeurs qu' il peut y avoir sur du linge
+1	alors	alors	_	_	ADV	_	_	_	_
+2	ça	ça	_	_	PRO	_	_	_	_
+3	enlève	enlever	_	_	V	_	_	_	_
+4	bien	bien	_	_	ADV	_	_	_	_
+5	les	le	_	_	DET	_	_	_	_
+6	odeurs	odeur	_	_	N	_	_	_	_
+7	euh	euh	_	_	INTJ	_	_	_	_
+8	toutes	tout	_	_	ADJ	_	_	_	_
+9	les	le	_	_	DET	_	_	_	_
+10	odeurs	odeur	_	_	N	_	_	_	_
+11	qu'	que	_	_	PRO	_	_	_	_
+12	il	il	_	_	PRO	_	_	_	_
+13	peut	pouvoir	_	_	V	_	_	_	_
+14	y	y	_	_	PRO	_	_	_	_
+15	avoir	avoir	_	_	V	_	_	_	_
+16	sur	sur	_	_	ADP	_	_	_	_
+17	du	de+le	_	_	ADP	_	_	_	_
+18	linge	linge	_	_	N	_	_	_	_
+
+# sent_id = 623
+# text = simplement vous êtes un peu plus jeune que moi
+1	simplement	simplement	_	_	ADV	_	_	_	_
+2	vous	vous	_	_	PRO	_	_	_	_
+3	êtes	être	_	_	V	_	_	_	_
+4	un	un	_	_	DET	_	_	_	_
+5	peu	peu	_	_	N	_	_	_	_
+6	plus	plus	_	_	ADV	_	_	_	_
+7	jeune	jeune	_	_	ADJ	_	_	_	_
+8	que	que	_	_	CONJ	_	_	_	_
+9	moi	lui	_	_	PRO	_	_	_	_
+
+# sent_id = 1701
+# text = mais je savais pas
+1	mais	mais	_	_	CONJ	_	_	_	_
+2	je	je	_	_	PRO	_	_	_	_
+3	savais	savoir	_	_	V	_	_	_	_
+4	pas	pas	_	_	PART	_	_	_	_
+
+# sent_id = 451
+# text = bah oui oui oui
+1	bah	bah	_	_	INTJ	_	_	_	_
+2	oui	oui	_	_	INTJ	_	_	_	_
+3	oui	oui	_	_	INTJ	_	_	_	_
+4	oui	oui	_	_	INTJ	_	_	_	_
+
+# sent_id = 621
+# text = on a pu se croiser peut-être à Censier
+1	on	on	_	_	PRO	_	_	_	_
+2	a	avoir	_	_	V	_	_	_	_
+3	pu	pouvoir	_	_	V	_	_	_	_
+4	se	se	_	_	PRO	_	_	_	_
+5	croiser	croiser	_	_	V	_	_	_	_
+6	peut-être	peut-être	_	_	ADV	_	_	_	_
+7	à	à	_	_	ADP	_	_	_	_
+8	Censier	Censier	_	_	PROPN	_	_	_	_
+
+# sent_id = 1579
+# text = il y a un grand tournant et une grande ligne droite
+1	il	il	_	_	PRO	_	_	_	_
+2	y	y	_	_	PRO	_	_	_	_
+3	a	avoir	_	_	V	_	_	_	_
+4	un	un	_	_	DET	_	_	_	_
+5	grand	grand	_	_	ADJ	_	_	_	_
+6	tournant	tournant	_	_	N	_	_	_	_
+7	et	et	_	_	CONJ	_	_	_	_
+8	une	un	_	_	DET	_	_	_	_
+9	grande	grand	_	_	ADJ	_	_	_	_
+10	ligne	ligne	_	_	N	_	_	_	_
+11	droite	droit	_	_	ADJ	_	_	_	_
+
+# sent_id = 2500
+# text = c' est sa propre vie qu' il communique à ceux qu' il rencontre
+1	c'	ce	_	_	PRO	_	_	_	_
+2	est	être	_	_	V	_	_	_	_
+3	sa	son	_	_	DET	_	_	_	_
+4	propre	propre	_	_	ADJ	_	_	_	_
+5	vie	vie	_	_	N	_	_	_	_
+6	qu'	que	_	_	PRO	_	_	_	_
+7	il	il	_	_	PRO	_	_	_	_
+8	communique	communiquer	_	_	V	_	_	_	_
+9	à	à	_	_	ADP	_	_	_	_
+10	ceux	celui	_	_	PRO	_	_	_	_
+11	qu'	que	_	_	PRO	_	_	_	_
+12	il	il	_	_	PRO	_	_	_	_
+13	rencontre	rencontrer	_	_	V	_	_	_	_
+
+# sent_id = 161
+# text = dans son éditorial dans Libération Laurent Joffrin parle lui aussi de désaveu cinglant
+1	dans	dans	_	_	ADP	_	_	_	_
+2	son	son	_	_	DET	_	_	_	_
+3	éditorial	éditorial	_	_	N	_	_	_	_
+4	dans	dans	_	_	ADP	_	_	_	_
+5	Libération	Libération	_	_	PROPN	_	_	_	_
+6	Laurent	Laurent	_	_	PROPN	_	_	_	_
+7	Joffrin	Joffrin	_	_	PROPN	_	_	_	_
+8	parle	parler	_	_	V	_	_	_	_
+9	lui	lui	_	_	PRO	_	_	_	_
+10	aussi	aussi	_	_	ADV	_	_	_	_
+11	de	de	_	_	ADP	_	_	_	_
+12	désaveu	désaveu	_	_	N	_	_	_	_
+13	cinglant	cinglant	_	_	ADJ	_	_	_	_
+
+# sent_id = 2095
+# text = je ferme également le hublot
+1	je	je	_	_	PRO	_	_	_	_
+2	ferme	fermer	_	_	V	_	_	_	_
+3	également	également	_	_	ADV	_	_	_	_
+4	le	le	_	_	DET	_	_	_	_
+5	hublot	hublot	_	_	N	_	_	_	_
+
+# sent_id = 430
+# text = oui oui
+1	oui	oui	_	_	INTJ	_	_	_	_
+2	oui	oui	_	_	INTJ	_	_	_	_
+
+# sent_id = 1614
+# text = donc euh on traverse la place un petit peu en face
+1	donc	donc	_	_	ADV	_	_	_	_
+2	euh	euh	_	_	INTJ	_	_	_	_
+3	on	on	_	_	PRO	_	_	_	_
+4	traverse	traverser	_	_	V	_	_	_	_
+5	la	le	_	_	DET	_	_	_	_
+6	place	place	_	_	N	_	_	_	_
+7	un	un	_	_	DET	_	_	_	_
+8	petit	petit	_	_	ADJ	_	_	_	_
+9	peu	peu	_	_	N	_	_	_	_
+10	en	en	_	_	ADP	_	_	_	_
+11	face	face	_	_	N	_	_	_	_
+
+# sent_id = 152
+# text = la France est rose constate La Voix du Nord
+1	la	le	_	_	DET	_	_	_	_
+2	France	France	_	_	PROPN	_	_	_	_
+3	est	être	_	_	V	_	_	_	_
+4	rose	rose	_	_	ADJ	_	_	_	_
+5	constate	constater	_	_	V	_	_	_	_
+6	La	le	_	_	DET	_	_	_	_
+7	Voix	Voix	_	_	PROPN	_	_	_	_
+8	du	de+le	_	_	ADP	_	_	_	_
+9	Nord	Nord	_	_	PROPN	_	_	_	_
+
+# sent_id = 2140
+# text = Magalie utilise depuis combien de temps notre boule magique depuis deux mois
+1	Magalie	Magalie	_	_	PROPN	_	_	_	_
+2	utilise	utiliser	_	_	V	_	_	_	_
+3	depuis	depuis	_	_	ADP	_	_	_	_
+4	combien	combien	_	_	PRO	_	_	_	_
+5	de	de	_	_	ADP	_	_	_	_
+6	temps	temps	_	_	N	_	_	_	_
+7	notre	son	_	_	DET	_	_	_	_
+8	boule	boule	_	_	N	_	_	_	_
+9	magique	magique	_	_	ADJ	_	_	_	_
+10	depuis	depuis	_	_	ADP	_	_	_	_
+11	deux	deux	_	_	NUM	_	_	_	_
+12	mois	mois	_	_	N	_	_	_	_
+
+# sent_id = 1099
+# text = il faut quand même le dire
+1	il	il	_	_	PRO	_	_	_	_
+2	faut	falloir	_	_	V	_	_	_	_
+3	quand	quand	_	_	PRO	_	_	_	_
+4	même	même	_	_	ADV	_	_	_	_
+5	le	le	_	_	PRO	_	_	_	_
+6	dire	dire	_	_	V	_	_	_	_
+
+# sent_id = 1192
+# text = vous allez être médecin en France en hôpital
+1	vous	vous	_	_	PRO	_	_	_	_
+2	allez	aller	_	_	V	_	_	_	_
+3	être	être	_	_	V	_	_	_	_
+4	médecin	médecin	_	_	N	_	_	_	_
+5	en	en	_	_	ADP	_	_	_	_
+6	France	France	_	_	PROPN	_	_	_	_
+7	en	en	_	_	ADP	_	_	_	_
+8	hôpital	hôpital	_	_	N	_	_	_	_
+
+# sent_id = 914
+# text = et à ce niveau -là vous allez tourner euh à votre droite
+1	et	et	_	_	CONJ	_	_	_	_
+2	à	à	_	_	ADP	_	_	_	_
+3	ce	ce	_	_	DET	_	_	_	_
+4	niveau	niveau	_	_	N	_	_	_	_
+5	-là	là	_	_	ADV	_	_	_	_
+6	vous	vous	_	_	PRO	_	_	_	_
+7	allez	aller	_	_	V	_	_	_	_
+8	tourner	tourner	_	_	V	_	_	_	_
+9	euh	euh	_	_	INTJ	_	_	_	_
+10	à	à	_	_	ADP	_	_	_	_
+11	votre	son	_	_	DET	_	_	_	_
+12	droite	droite	_	_	N	_	_	_	_
+
+# sent_id = 951
+# text = et là euh vous allez voir il y a le
+1	et	et	_	_	CONJ	_	_	_	_
+2	là	là	_	_	ADV	_	_	_	_
+3	euh	euh	_	_	INTJ	_	_	_	_
+4	vous	vous	_	_	PRO	_	_	_	_
+5	allez	aller	_	_	V	_	_	_	_
+6	voir	voir	_	_	V	_	_	_	_
+7	il	il	_	_	PRO	_	_	_	_
+8	y	y	_	_	PRO	_	_	_	_
+9	a	avoir	_	_	V	_	_	_	_
+10	le	le	_	_	DET	_	_	_	_
+
+# sent_id = 1059
+# text = ils restent pas à Paris
+1	ils	il	_	_	PRO	_	_	_	_
+2	restent	rester	_	_	V	_	_	_	_
+3	pas	pas	_	_	PART	_	_	_	_
+4	à	à	_	_	ADP	_	_	_	_
+5	Paris	Paris	_	_	PROPN	_	_	_	_
+
+# sent_id = 1454
+# text = c' est mh ouais ouais il c' est relivré
+1	c'	ce	_	_	PRO	_	_	_	_
+2	est	être	_	_	V	_	_	_	_
+3	mh	mh	_	_	INTJ	_	_	_	_
+4	ouais	ouais	_	_	INTJ	_	_	_	_
+5	ouais	ouais	_	_	INTJ	_	_	_	_
+6	il	il	_	_	PRO	_	_	_	_
+7	c'	ce	_	_	PRO	_	_	_	_
+8	est	être	_	_	V	_	_	_	_
+9	relivré	relivrer	_	_	V	_	_	_	_
+
+# sent_id = 217
+# text = il est derrière le ballon
+1	il	il	_	_	PRO	_	_	_	_
+2	est	être	_	_	V	_	_	_	_
+3	derrière	derrière	_	_	ADP	_	_	_	_
+4	le	le	_	_	DET	_	_	_	_
+5	ballon	ballon	_	_	N	_	_	_	_
+
+# sent_id = 661
+# text = Paul Valéry en Zep
+1	Paul	Paul	_	_	PROPN	_	_	_	_
+2	Valéry	Valéry	_	_	PROPN	_	_	_	_
+3	en	en	_	_	ADP	_	_	_	_
+4	Zep	Zep	_	_	PROPN	_	_	_	_
+
+# sent_id = 363
+# text = et au nom de la France en votre nom c' est le combat difficile que je mène chaque jour
+1	et	et	_	_	CONJ	_	_	_	_
+2	au	à+le	_	_	ADP	_	_	_	_
+3	nom	nom	_	_	N	_	_	_	_
+4	de	de	_	_	ADP	_	_	_	_
+5	la	le	_	_	DET	_	_	_	_
+6	France	France	_	_	PROPN	_	_	_	_
+7	en	en	_	_	ADP	_	_	_	_
+8	votre	son	_	_	DET	_	_	_	_
+9	nom	nom	_	_	N	_	_	_	_
+10	c'	ce	_	_	PRO	_	_	_	_
+11	est	être	_	_	V	_	_	_	_
+12	le	le	_	_	DET	_	_	_	_
+13	combat	combat	_	_	N	_	_	_	_
+14	difficile	difficile	_	_	ADJ	_	_	_	_
+15	que	que	_	_	PRO	_	_	_	_
+16	je	je	_	_	PRO	_	_	_	_
+17	mène	mener	_	_	V	_	_	_	_
+18	chaque	chaque	_	_	DET	_	_	_	_
+19	jour	jour	_	_	N	_	_	_	_
+
+# sent_id = 2413
+# text = je pense que aujourd' hui euh s~ euh même une grippe aussi virulente que celle de mille neuf cent dix-huit n' entraînerait pas une mortalité aussi effroyable
+1	je	je	_	_	PRO	_	_	_	_
+2	pense	penser	_	_	V	_	_	_	_
+3	que	que	_	_	CONJ	_	_	_	_
+4	aujourd'	aujourd'	_	_	N	_	_	_	_
+5	hui	hui	_	_	N	_	_	_	_
+6	euh	euh	_	_	INTJ	_	_	_	_
+7	s~	s~	_	_	_	_	_	_	_
+8	euh	euh	_	_	INTJ	_	_	_	_
+9	même	même	_	_	ADV	_	_	_	_
+10	une	un	_	_	DET	_	_	_	_
+11	grippe	grippe	_	_	N	_	_	_	_
+12	aussi	aussi	_	_	ADV	_	_	_	_
+13	virulente	virulent	_	_	ADJ	_	_	_	_
+14	que	que	_	_	CONJ	_	_	_	_
+15	celle	celui	_	_	PRO	_	_	_	_
+16	de	de	_	_	ADP	_	_	_	_
+17	mille	mille	_	_	NUM	_	_	_	_
+18	neuf	neuf	_	_	NUM	_	_	_	_
+19	cent	cent	_	_	NUM	_	_	_	_
+20	dix-huit	dix-huit	_	_	NUM	_	_	_	_
+21	n'	ne	_	_	PART	_	_	_	_
+22	entraînerait	entraîner	_	_	V	_	_	_	_
+23	pas	pas	_	_	PART	_	_	_	_
+24	une	un	_	_	DET	_	_	_	_
+25	mortalité	mortalité	_	_	N	_	_	_	_
+26	aussi	aussi	_	_	ADV	_	_	_	_
+27	effroyable	effroyable	_	_	ADJ	_	_	_	_
+
+# sent_id = 2124
+# text = qu' est - ce qu' c' est
+1	qu'	qu'	_	_	PRO	_	_	_	_
+2	est	être	_	_	V	_	_	_	_
+3	-	-	_	_	_	_	_	_	_
+4	ce	ce	_	_	PRO	_	_	_	_
+5	qu'	que	_	_	CONJ	_	_	_	_
+6	c'	ce	_	_	PRO	_	_	_	_
+7	est	être	_	_	V	_	_	_	_
+
+# sent_id = 2699
+# text = euh on ne pleure pas
+1	euh	euh	_	_	INTJ	_	_	_	_
+2	on	on	_	_	PRO	_	_	_	_
+3	ne	ne	_	_	PART	_	_	_	_
+4	pleure	pleurer	_	_	V	_	_	_	_
+5	pas	pas	_	_	PART	_	_	_	_
+
+# sent_id = 995
+# text = et c' est c' est cela qui est un peu difficile à situer peut-être
+1	et	et	_	_	CONJ	_	_	_	_
+2	c'	ce	_	_	PRO	_	_	_	_
+3	est	être	_	_	V	_	_	_	_
+4	c'	ce	_	_	PRO	_	_	_	_
+5	est	être	_	_	V	_	_	_	_
+6	cela	cela	_	_	PRO	_	_	_	_
+7	qui	qui	_	_	PRO	_	_	_	_
+8	est	être	_	_	V	_	_	_	_
+9	un	un	_	_	DET	_	_	_	_
+10	peu	peu	_	_	N	_	_	_	_
+11	difficile	difficile	_	_	ADJ	_	_	_	_
+12	à	à	_	_	ADP	_	_	_	_
+13	situer	situer	_	_	V	_	_	_	_
+14	peut-être	peut-être	_	_	ADV	_	_	_	_
+
+# sent_id = 89
+# text = j' ai trouvé que c' était un pays formidable
+1	j'	je	_	_	PRO	_	_	_	_
+2	ai	avoir	_	_	V	_	_	_	_
+3	trouvé	trouver	_	_	V	_	_	_	_
+4	que	que	_	_	CONJ	_	_	_	_
+5	c'	ce	_	_	PRO	_	_	_	_
+6	était	être	_	_	V	_	_	_	_
+7	un	un	_	_	DET	_	_	_	_
+8	pays	pays	_	_	N	_	_	_	_
+9	formidable	formidable	_	_	ADJ	_	_	_	_
+
+# sent_id = 2237
+# text = racontez -nous
+1	racontez	raconter	_	_	V	_	_	_	_
+2	-nous	nous	_	_	PRO	_	_	_	_
+
+# sent_id = 1819
+# text = et est -ce qu' il y a à ce moment -là s~ un projet de de de faire quelque chose
+1	et	et	_	_	CONJ	_	_	_	_
+2	est	être	_	_	V	_	_	_	_
+3	-ce	ce	_	_	PRO	_	_	_	_
+4	qu'	que	_	_	CONJ	_	_	_	_
+5	il	il	_	_	PRO	_	_	_	_
+6	y	y	_	_	PRO	_	_	_	_
+7	a	avoir	_	_	V	_	_	_	_
+8	à	à	_	_	ADP	_	_	_	_
+9	ce	ce	_	_	DET	_	_	_	_
+10	moment	moment	_	_	N	_	_	_	_
+11	-là	là	_	_	ADV	_	_	_	_
+12	s~	s~	_	_	_	_	_	_	_
+13	un	un	_	_	DET	_	_	_	_
+14	projet	projet	_	_	N	_	_	_	_
+15	de	de	_	_	ADP	_	_	_	_
+16	de	de	_	_	ADP	_	_	_	_
+17	de	de	_	_	ADP	_	_	_	_
+18	faire	faire	_	_	V	_	_	_	_
+19	quelque	quelque	_	_	DET	_	_	_	_
+20	chose	chose	_	_	N	_	_	_	_
+
+# sent_id = 2220
+# text = c' est c' est couronné Les jeux sauvages de Paul Colin
+1	c'	ce	_	_	PRO	_	_	_	_
+2	est	être	_	_	V	_	_	_	_
+3	c'	ce	_	_	PRO	_	_	_	_
+4	est	être	_	_	V	_	_	_	_
+5	couronné	couronner	_	_	V	_	_	_	_
+6	Les	le	_	_	DET	_	_	_	_
+7	jeux	jeu	_	_	N	_	_	_	_
+8	sauvages	sauvage	_	_	ADJ	_	_	_	_
+9	de	de	_	_	ADP	_	_	_	_
+10	Paul	Paul	_	_	PROPN	_	_	_	_
+11	Colin	Colin	_	_	PROPN	_	_	_	_
+
+# sent_id = 571
+# text = euh donc
+1	euh	euh	_	_	INTJ	_	_	_	_
+2	donc	donc	_	_	ADV	_	_	_	_
+
+# sent_id = 4
+# text = et je euh je continue je continue jusqu' à une place qui est face à la grande poste où il y a la euh Chambre de Commerce et d' Industrie
+1	et	et	_	_	CONJ	_	_	_	_
+2	je	je	_	_	PRO	_	_	_	_
+3	euh	euh	_	_	INTJ	_	_	_	_
+4	je	je	_	_	PRO	_	_	_	_
+5	continue	continuer	_	_	V	_	_	_	_
+6	je	je	_	_	PRO	_	_	_	_
+7	continue	continuer	_	_	V	_	_	_	_
+8	jusqu'	jusque	_	_	ADP	_	_	_	_
+9	à	à	_	_	ADP	_	_	_	_
+10	une	un	_	_	DET	_	_	_	_
+11	place	place	_	_	N	_	_	_	_
+12	qui	qui	_	_	PRO	_	_	_	_
+13	est	être	_	_	V	_	_	_	_
+14	face	face	_	_	N	_	_	_	_
+15	à	à	_	_	ADP	_	_	_	_
+16	la	le	_	_	DET	_	_	_	_
+17	grande	grand	_	_	ADJ	_	_	_	_
+18	poste	poste	_	_	N	_	_	_	_
+19	où	où	_	_	PRO	_	_	_	_
+20	il	il	_	_	PRO	_	_	_	_
+21	y	y	_	_	PRO	_	_	_	_
+22	a	avoir	_	_	V	_	_	_	_
+23	la	le	_	_	DET	_	_	_	_
+24	euh	euh	_	_	INTJ	_	_	_	_
+25	Chambre	Chambre	_	_	PROPN	_	_	_	_
+26	de	de	_	_	ADP	_	_	_	_
+27	Commerce	Commerce	_	_	PROPN	_	_	_	_
+28	et	et	_	_	CONJ	_	_	_	_
+29	d'	de	_	_	ADP	_	_	_	_
+30	Industrie	Industrie	_	_	PROPN	_	_	_	_
+
+# sent_id = 637
+# text = autrefois oui oui oui c' était pas le cas euh je veux dire euh
+1	autrefois	autrefois	_	_	ADV	_	_	_	_
+2	oui	oui	_	_	INTJ	_	_	_	_
+3	oui	oui	_	_	INTJ	_	_	_	_
+4	oui	oui	_	_	INTJ	_	_	_	_
+5	c'	ce	_	_	PRO	_	_	_	_
+6	était	être	_	_	V	_	_	_	_
+7	pas	pas	_	_	PART	_	_	_	_
+8	le	le	_	_	DET	_	_	_	_
+9	cas	cas	_	_	N	_	_	_	_
+10	euh	euh	_	_	INTJ	_	_	_	_
+11	je	je	_	_	PRO	_	_	_	_
+12	veux	vouloir	_	_	V	_	_	_	_
+13	dire	dire	_	_	V	_	_	_	_
+14	euh	euh	_	_	INTJ	_	_	_	_
+
+# sent_id = 1546
+# text = par contre je l' ai gardée la frange
+1	par	par	_	_	ADP	_	_	_	_
+2	contre	contre	_	_	N	_	_	_	_
+3	je	je	_	_	PRO	_	_	_	_
+4	l'	le	_	_	PRO	_	_	_	_
+5	ai	avoir	_	_	V	_	_	_	_
+6	gardée	garder	_	_	V	_	_	_	_
+7	la	le	_	_	DET	_	_	_	_
+8	frange	frange	_	_	N	_	_	_	_
+
+# sent_id = 905
+# text = de toute manière dans ce boulevard vous remontez
+1	de	de	_	_	ADP	_	_	_	_
+2	toute	tout	_	_	ADJ	_	_	_	_
+3	manière	manière	_	_	N	_	_	_	_
+4	dans	dans	_	_	ADP	_	_	_	_
+5	ce	ce	_	_	DET	_	_	_	_
+6	boulevard	boulevard	_	_	N	_	_	_	_
+7	vous	vous	_	_	PRO	_	_	_	_
+8	remontez	remonter	_	_	V	_	_	_	_
+
+# sent_id = 1375
+# text = et donc euh et donc voilà
+1	et	et	_	_	CONJ	_	_	_	_
+2	donc	donc	_	_	ADV	_	_	_	_
+3	euh	euh	_	_	INTJ	_	_	_	_
+4	et	et	_	_	CONJ	_	_	_	_
+5	donc	donc	_	_	ADV	_	_	_	_
+6	voilà	voilà	_	_	V	_	_	_	_
+
+# sent_id = 1986
+# text = ben en fait c' est la ligne du tram toujours là
+1	ben	ben	_	_	INTJ	_	_	_	_
+2	en	en	_	_	PRO	_	_	_	_
+3	fait	fait	_	_	ADJ	_	_	_	_
+4	c'	ce	_	_	PRO	_	_	_	_
+5	est	être	_	_	V	_	_	_	_
+6	la	le	_	_	DET	_	_	_	_
+7	ligne	ligne	_	_	N	_	_	_	_
+8	du	de+le	_	_	ADP	_	_	_	_
+9	tram	tram	_	_	N	_	_	_	_
+10	toujours	toujours	_	_	ADV	_	_	_	_
+11	là	là	_	_	ADV	_	_	_	_
+
+# sent_id = 2308
+# text = alors effectivement euh Szymanoski était un homme très élégant
+1	alors	alors	_	_	ADV	_	_	_	_
+2	effectivement	effectivement	_	_	ADV	_	_	_	_
+3	euh	euh	_	_	INTJ	_	_	_	_
+4	Szymanoski	Szymanoski	_	_	PROPN	_	_	_	_
+5	était	être	_	_	V	_	_	_	_
+6	un	un	_	_	DET	_	_	_	_
+7	homme	homme	_	_	N	_	_	_	_
+8	très	très	_	_	ADV	_	_	_	_
+9	élégant	élégant	_	_	ADJ	_	_	_	_
+
+# sent_id = 1562
+# text = je connais pas
+1	je	je	_	_	PRO	_	_	_	_
+2	connais	connaître	_	_	V	_	_	_	_
+3	pas	pas	_	_	PART	_	_	_	_
+
+# sent_id = 311
+# text = et pas mal du tout
+1	et	et	_	_	CONJ	_	_	_	_
+2	pas	pas	_	_	PART	_	_	_	_
+3	mal	mal	_	_	ADJ	_	_	_	_
+4	du	de+le	_	_	ADP	_	_	_	_
+5	tout	tout	_	_	ADV	_	_	_	_
+
+# sent_id = 1564
+# text = sa femme est originaire de la région
+1	sa	son	_	_	DET	_	_	_	_
+2	femme	femme	_	_	N	_	_	_	_
+3	est	être	_	_	V	_	_	_	_
+4	originaire	originaire	_	_	ADJ	_	_	_	_
+5	de	de	_	_	ADP	_	_	_	_
+6	la	le	_	_	DET	_	_	_	_
+7	région	région	_	_	N	_	_	_	_
+
+# sent_id = 2166
+# text = merci à vous
+1	merci	merci	_	_	N	_	_	_	_
+2	à	à	_	_	ADP	_	_	_	_
+3	vous	lui	_	_	PRO	_	_	_	_
+
+# sent_id = 191
+# text = alors que va faire maintenant le président se demande Le Progrès à Lyon
+1	alors	alors	_	_	ADV	_	_	_	_
+2	que	que	_	_	PRO	_	_	_	_
+3	va	aller	_	_	V	_	_	_	_
+4	faire	faire	_	_	V	_	_	_	_
+5	maintenant	maintenant	_	_	ADV	_	_	_	_
+6	le	le	_	_	DET	_	_	_	_
+7	président	président	_	_	N	_	_	_	_
+8	se	se	_	_	PRO	_	_	_	_
+9	demande	demander	_	_	V	_	_	_	_
+10	Le	le	_	_	DET	_	_	_	_
+11	Progrès	Progrès	_	_	PROPN	_	_	_	_
+12	à	à	_	_	ADP	_	_	_	_
+13	Lyon	Lyon	_	_	PROPN	_	_	_	_
+
+# sent_id = 160
+# text = à la une de Libération qui ne boude pas son plaisir une caricature de Nicolas Sarkozy tout ratatiné sous cette exclamation et bling
+1	à	à	_	_	ADP	_	_	_	_
+2	la	le	_	_	DET	_	_	_	_
+3	une	une	_	_	N	_	_	_	_
+4	de	de	_	_	ADP	_	_	_	_
+5	Libération	Libération	_	_	PROPN	_	_	_	_
+6	qui	qui	_	_	PRO	_	_	_	_
+7	ne	ne	_	_	PART	_	_	_	_
+8	boude	bouder	_	_	V	_	_	_	_
+9	pas	pas	_	_	PART	_	_	_	_
+10	son	son	_	_	DET	_	_	_	_
+11	plaisir	plaisir	_	_	N	_	_	_	_
+12	une	un	_	_	DET	_	_	_	_
+13	caricature	caricature	_	_	N	_	_	_	_
+14	de	de	_	_	ADP	_	_	_	_
+15	Nicolas	Nicolas	_	_	PROPN	_	_	_	_
+16	Sarkozy	Sarkozy	_	_	PROPN	_	_	_	_
+17	tout	tout	_	_	ADV	_	_	_	_
+18	ratatiné	ratatiner	_	_	ADJ	_	_	_	_
+19	sous	sous	_	_	ADP	_	_	_	_
+20	cette	ce	_	_	DET	_	_	_	_
+21	exclamation	exclamation	_	_	N	_	_	_	_
+22	et	et	_	_	CONJ	_	_	_	_
+23	bling	bling	_	_	INTJ	_	_	_	_
+
+# sent_id = 1650
+# text = alors c' est marrant parce que vous avez commencé acteur ensuite réalisateur ensuite scénariste ensuite animateur radio
+1	alors	alors	_	_	ADV	_	_	_	_
+2	c'	ce	_	_	PRO	_	_	_	_
+3	est	être	_	_	V	_	_	_	_
+4	marrant	marrant	_	_	ADJ	_	_	_	_
+5	parce	parce	_	_	CONJ	_	_	_	_
+6	que	que	_	_	CONJ	_	_	_	_
+7	vous	vous	_	_	PRO	_	_	_	_
+8	avez	avoir	_	_	V	_	_	_	_
+9	commencé	commencer	_	_	V	_	_	_	_
+10	acteur	acteur	_	_	N	_	_	_	_
+11	ensuite	ensuite	_	_	ADV	_	_	_	_
+12	réalisateur	réalisateur	_	_	N	_	_	_	_
+13	ensuite	ensuite	_	_	ADV	_	_	_	_
+14	scénariste	scénariste	_	_	N	_	_	_	_
+15	ensuite	ensuite	_	_	ADV	_	_	_	_
+16	animateur	animateur	_	_	N	_	_	_	_
+17	radio	radio	_	_	N	_	_	_	_
+
+# sent_id = 1414
+# text = ouais ouais
+1	ouais	ouais	_	_	INTJ	_	_	_	_
+2	ouais	ouais	_	_	INTJ	_	_	_	_
+
+# sent_id = 97
+# text = et nous avons été chassés d' A~ d' Alsace naturellement
+1	et	et	_	_	CONJ	_	_	_	_
+2	nous	nous	_	_	PRO	_	_	_	_
+3	avons	avoir	_	_	V	_	_	_	_
+4	été	être	_	_	V	_	_	_	_
+5	chassés	chasser	_	_	V	_	_	_	_
+6	d'	de	_	_	ADP	_	_	_	_
+7	A~	A~	_	_	PROPN	_	_	_	_
+8	d'	de	_	_	ADP	_	_	_	_
+9	Alsace	Alsace	_	_	PROPN	_	_	_	_
+10	naturellement	naturellement	_	_	ADV	_	_	_	_
+
+# sent_id = 1282
+# text = pendant ce temps les étudiants et les enseignants - chercheurs ne désarment pas
+1	pendant	pendant	_	_	ADP	_	_	_	_
+2	ce	ce	_	_	DET	_	_	_	_
+3	temps	temps	_	_	N	_	_	_	_
+4	les	le	_	_	DET	_	_	_	_
+5	étudiants	étudiant	_	_	N	_	_	_	_
+6	et	et	_	_	CONJ	_	_	_	_
+7	les	le	_	_	DET	_	_	_	_
+8	enseignants	enseignants	_	_	N	_	_	_	_
+9	-	-	_	_	_	_	_	_	_
+10	chercheurs	chercheurs	_	_	N	_	_	_	_
+11	ne	ne	_	_	PART	_	_	_	_
+12	désarment	désarmer	_	_	V	_	_	_	_
+13	pas	pas	_	_	PART	_	_	_	_
+
+# sent_id = 399
+# text = des entreprises de d' automatisme
+1	des	de+le	_	_	ADP	_	_	_	_
+2	entreprises	entreprise	_	_	N	_	_	_	_
+3	de	de	_	_	ADP	_	_	_	_
+4	d'	de	_	_	ADP	_	_	_	_
+5	automatisme	automatisme	_	_	N	_	_	_	_
+
+# sent_id = 652
+# text = c' est pas les conditions matérielles
+1	c'	ce	_	_	PRO	_	_	_	_
+2	est	être	_	_	V	_	_	_	_
+3	pas	pas	_	_	PART	_	_	_	_
+4	les	le	_	_	DET	_	_	_	_
+5	conditions	condition	_	_	N	_	_	_	_
+6	matérielles	matériel	_	_	ADJ	_	_	_	_
+
+# sent_id = 2482
+# text = Jésus ne dit rien avant la fin de l' épisode
+1	Jésus	Jésus	_	_	PROPN	_	_	_	_
+2	ne	ne	_	_	PART	_	_	_	_
+3	dit	dire	_	_	V	_	_	_	_
+4	rien	rien	_	_	PRO	_	_	_	_
+5	avant	avant	_	_	ADP	_	_	_	_
+6	la	le	_	_	DET	_	_	_	_
+7	fin	fin	_	_	N	_	_	_	_
+8	de	de	_	_	ADP	_	_	_	_
+9	l'	le	_	_	DET	_	_	_	_
+10	épisode	épisode	_	_	N	_	_	_	_
+
+# sent_id = 1085
+# text = je pensais aux albums oui avec
+1	je	je	_	_	PRO	_	_	_	_
+2	pensais	penser	_	_	V	_	_	_	_
+3	aux	à+le	_	_	ADP	_	_	_	_
+4	albums	album	_	_	N	_	_	_	_
+5	oui	oui	_	_	INTJ	_	_	_	_
+6	avec	avec	_	_	ADP	_	_	_	_
+
+# sent_id = 2743
+# text = c' est une terre solide
+1	c'	ce	_	_	PRO	_	_	_	_
+2	est	être	_	_	V	_	_	_	_
+3	une	un	_	_	DET	_	_	_	_
+4	terre	terre	_	_	N	_	_	_	_
+5	solide	solide	_	_	ADJ	_	_	_	_
+
+# sent_id = 1235
+# text = oui ben euh il y a une spécialité qui m' attire beaucoup
+1	oui	oui	_	_	INTJ	_	_	_	_
+2	ben	ben	_	_	INTJ	_	_	_	_
+3	euh	euh	_	_	INTJ	_	_	_	_
+4	il	il	_	_	PRO	_	_	_	_
+5	y	y	_	_	PRO	_	_	_	_
+6	a	avoir	_	_	V	_	_	_	_
+7	une	un	_	_	DET	_	_	_	_
+8	spécialité	spécialité	_	_	N	_	_	_	_
+9	qui	qui	_	_	PRO	_	_	_	_
+10	m'	me	_	_	PRO	_	_	_	_
+11	attire	attirer	_	_	V	_	_	_	_
+12	beaucoup	beaucoup	_	_	ADV	_	_	_	_
+
+# sent_id = 1196
+# text = euh parce que euh je travaille dans le privé là
+1	euh	euh	_	_	INTJ	_	_	_	_
+2	parce	parce	_	_	CONJ	_	_	_	_
+3	que	que	_	_	CONJ	_	_	_	_
+4	euh	euh	_	_	INTJ	_	_	_	_
+5	je	je	_	_	PRO	_	_	_	_
+6	travaille	travailler	_	_	V	_	_	_	_
+7	dans	dans	_	_	ADP	_	_	_	_
+8	le	le	_	_	DET	_	_	_	_
+9	privé	privé	_	_	N	_	_	_	_
+10	là	là	_	_	ADV	_	_	_	_
+
+# sent_id = 1527
+# text = si ça t' embête tu ne le mets pas
+1	si	si	_	_	CONJ	_	_	_	_
+2	ça	ça	_	_	PRO	_	_	_	_
+3	t'	te	_	_	PRO	_	_	_	_
+4	embête	embêter	_	_	V	_	_	_	_
+5	tu	tu	_	_	PRO	_	_	_	_
+6	ne	ne	_	_	PART	_	_	_	_
+7	le	le	_	_	PRO	_	_	_	_
+8	mets	mettre	_	_	V	_	_	_	_
+9	pas	pas	_	_	PART	_	_	_	_
+
+# sent_id = 2157
+# text = très silencieuse
+1	très	très	_	_	ADV	_	_	_	_
+2	silencieuse	silencieux	_	_	ADJ	_	_	_	_
+
+# sent_id = 615
+# text = oui oui oui
+1	oui	oui	_	_	INTJ	_	_	_	_
+2	oui	oui	_	_	INTJ	_	_	_	_
+3	oui	oui	_	_	INTJ	_	_	_	_
+
+# sent_id = 2071
+# text = il s' agit tout simplement de ceci une boule de lavage que vous allez placer au coeur de votre linge sans rien d' autre avant de mettre votre machine en route
+1	il	il	_	_	PRO	_	_	_	_
+2	s'	se	_	_	PRO	_	_	_	_
+3	agit	agir	_	_	V	_	_	_	_
+4	tout	tout	_	_	ADV	_	_	_	_
+5	simplement	simplement	_	_	ADV	_	_	_	_
+6	de	de	_	_	ADP	_	_	_	_
+7	ceci	ceci	_	_	PRO	_	_	_	_
+8	une	un	_	_	DET	_	_	_	_
+9	boule	boule	_	_	N	_	_	_	_
+10	de	de	_	_	ADP	_	_	_	_
+11	lavage	lavage	_	_	N	_	_	_	_
+12	que	que	_	_	PRO	_	_	_	_
+13	vous	vous	_	_	PRO	_	_	_	_
+14	allez	aller	_	_	V	_	_	_	_
+15	placer	placer	_	_	V	_	_	_	_
+16	au	à+le	_	_	ADP	_	_	_	_
+17	coeur	coeur	_	_	N	_	_	_	_
+18	de	de	_	_	ADP	_	_	_	_
+19	votre	son	_	_	DET	_	_	_	_
+20	linge	linge	_	_	N	_	_	_	_
+21	sans	sans	_	_	ADP	_	_	_	_
+22	rien	rien	_	_	PRO	_	_	_	_
+23	d'	de	_	_	ADP	_	_	_	_
+24	autre	autre	_	_	N	_	_	_	_
+25	avant	avant	_	_	N	_	_	_	_
+26	de	de	_	_	ADP	_	_	_	_
+27	mettre	mettre	_	_	V	_	_	_	_
+28	votre	son	_	_	DET	_	_	_	_
+29	machine	machine	_	_	N	_	_	_	_
+30	en	en	_	_	ADP	_	_	_	_
+31	route	route	_	_	N	_	_	_	_
+
+# sent_id = 1285
+# text = les avocats du berger corse ont quitté le procès hier soir
+1	les	le	_	_	DET	_	_	_	_
+2	avocats	avocat	_	_	N	_	_	_	_
+3	du	de+le	_	_	ADP	_	_	_	_
+4	berger	berger	_	_	N	_	_	_	_
+5	corse	corse	_	_	ADJ	_	_	_	_
+6	ont	avoir	_	_	V	_	_	_	_
+7	quitté	quitter	_	_	V	_	_	_	_
+8	le	le	_	_	DET	_	_	_	_
+9	procès	procès	_	_	N	_	_	_	_
+10	hier	hier	_	_	ADV	_	_	_	_
+11	soir	soir	_	_	N	_	_	_	_
+
+# sent_id = 2544
+# text = s~ si je passe je passerai en deuxième année en troisième année
+1	s~	s~	_	_	_	_	_	_	_
+2	si	si	_	_	CONJ	_	_	_	_
+3	je	je	_	_	PRO	_	_	_	_
+4	passe	passer	_	_	V	_	_	_	_
+5	je	je	_	_	PRO	_	_	_	_
+6	passerai	passer	_	_	V	_	_	_	_
+7	en	en	_	_	ADP	_	_	_	_
+8	deuxième	deuxième	_	_	ADJ	_	_	_	_
+9	année	année	_	_	N	_	_	_	_
+10	en	en	_	_	ADP	_	_	_	_
+11	troisième	troisième	_	_	ADJ	_	_	_	_
+12	année	année	_	_	N	_	_	_	_
+
+# sent_id = 412
+# text = moi je suis rentré pour euh f~ faire des automatismes euh d' appareillage su~ avec des micro - processeurs
+1	moi	lui	_	_	PRO	_	_	_	_
+2	je	je	_	_	PRO	_	_	_	_
+3	suis	être	_	_	V	_	_	_	_
+4	rentré	rentrer	_	_	V	_	_	_	_
+5	pour	pour	_	_	ADP	_	_	_	_
+6	euh	euh	_	_	INTJ	_	_	_	_
+7	f~	f~	_	_	_	_	_	_	_
+8	faire	faire	_	_	V	_	_	_	_
+9	des	de+le	_	_	ADP	_	_	_	_
+10	automatismes	automatisme	_	_	N	_	_	_	_
+11	euh	euh	_	_	INTJ	_	_	_	_
+12	d'	de	_	_	ADP	_	_	_	_
+13	appareillage	appareillage	_	_	N	_	_	_	_
+14	su~	su~	_	_	_	_	_	_	_
+15	avec	avec	_	_	ADP	_	_	_	_
+16	des	de+le	_	_	ADP	_	_	_	_
+17	micro	micro	_	_	ADJ	_	_	_	_
+18	-	-	_	_	_	_	_	_	_
+19	processeurs	processeurs	_	_	N	_	_	_	_
+
+# sent_id = 1128
+# text = mh donc euh on voit Chaplin euh s' habiller pour sortir de son usine
+1	mh	mh	_	_	INTJ	_	_	_	_
+2	donc	donc	_	_	ADV	_	_	_	_
+3	euh	euh	_	_	INTJ	_	_	_	_
+4	on	on	_	_	PRO	_	_	_	_
+5	voit	voir	_	_	V	_	_	_	_
+6	Chaplin	Chaplin	_	_	PROPN	_	_	_	_
+7	euh	euh	_	_	INTJ	_	_	_	_
+8	s'	se	_	_	PRO	_	_	_	_
+9	habiller	habiller	_	_	V	_	_	_	_
+10	pour	pour	_	_	ADP	_	_	_	_
+11	sortir	sortir	_	_	V	_	_	_	_
+12	de	de	_	_	ADP	_	_	_	_
+13	son	son	_	_	DET	_	_	_	_
+14	usine	usine	_	_	N	_	_	_	_
+
+# sent_id = 2557
+# text = si je ne craignais pas d' entrer dans le jeu de certains hommes qui abusent de leur condition je dirais que vous avez donné quelque chose de plus à la femme des armes de persuasion
+1	si	si	_	_	CONJ	_	_	_	_
+2	je	je	_	_	PRO	_	_	_	_
+3	ne	ne	_	_	PART	_	_	_	_
+4	craignais	craindre	_	_	V	_	_	_	_
+5	pas	pas	_	_	PART	_	_	_	_
+6	d'	de	_	_	ADP	_	_	_	_
+7	entrer	entrer	_	_	V	_	_	_	_
+8	dans	dans	_	_	ADP	_	_	_	_
+9	le	le	_	_	DET	_	_	_	_
+10	jeu	jeu	_	_	N	_	_	_	_
+11	de	de	_	_	ADP	_	_	_	_
+12	certains	certain	_	_	DET	_	_	_	_
+13	hommes	homme	_	_	N	_	_	_	_
+14	qui	qui	_	_	PRO	_	_	_	_
+15	abusent	abuser	_	_	V	_	_	_	_
+16	de	de	_	_	ADP	_	_	_	_
+17	leur	son	_	_	DET	_	_	_	_
+18	condition	condition	_	_	N	_	_	_	_
+19	je	je	_	_	PRO	_	_	_	_
+20	dirais	dire	_	_	V	_	_	_	_
+21	que	que	_	_	CONJ	_	_	_	_
+22	vous	vous	_	_	PRO	_	_	_	_
+23	avez	avoir	_	_	V	_	_	_	_
+24	donné	donner	_	_	V	_	_	_	_
+25	quelque	quelque	_	_	DET	_	_	_	_
+26	chose	chose	_	_	N	_	_	_	_
+27	de	de	_	_	ADP	_	_	_	_
+28	plus	plus	_	_	ADV	_	_	_	_
+29	à	à	_	_	ADP	_	_	_	_
+30	la	le	_	_	DET	_	_	_	_
+31	femme	femme	_	_	N	_	_	_	_
+32	des	de+le	_	_	ADP	_	_	_	_
+33	armes	arme	_	_	N	_	_	_	_
+34	de	de	_	_	ADP	_	_	_	_
+35	persuasion	persuasion	_	_	N	_	_	_	_
+
+# sent_id = 306
+# text = et il donne à Gaga à Gago effectivement Gago pardon
+1	et	et	_	_	CONJ	_	_	_	_
+2	il	il	_	_	PRO	_	_	_	_
+3	donne	donner	_	_	V	_	_	_	_
+4	à	à	_	_	ADP	_	_	_	_
+5	Gaga	Gaga	_	_	PROPN	_	_	_	_
+6	à	à	_	_	ADP	_	_	_	_
+7	Gago	Gago	_	_	PROPN	_	_	_	_
+8	effectivement	effectivement	_	_	ADV	_	_	_	_
+9	Gago	Gago	_	_	PROPN	_	_	_	_
+10	pardon	pardon	_	_	N	_	_	_	_
+
+# sent_id = 1588
+# text = vous continuez tout droit
+1	vous	vous	_	_	PRO	_	_	_	_
+2	continuez	continuer	_	_	V	_	_	_	_
+3	tout	tout	_	_	ADJ	_	_	_	_
+4	droit	droit	_	_	ADJ	_	_	_	_
+
+# sent_id = 2302
+# text = alors page cent douze de votre ouvrage donc cette cette monumentale biographie de Szymanoski je lis son le portrait de notre de votre héros vers vingt-six ans à peu près euh fait par un ami qui l' attend à la gare
+1	alors	alors	_	_	ADV	_	_	_	_
+2	page	page	_	_	N	_	_	_	_
+3	cent	cent	_	_	NUM	_	_	_	_
+4	douze	douze	_	_	NUM	_	_	_	_
+5	de	de	_	_	ADP	_	_	_	_
+6	votre	son	_	_	DET	_	_	_	_
+7	ouvrage	ouvrage	_	_	N	_	_	_	_
+8	donc	donc	_	_	ADV	_	_	_	_
+9	cette	ce	_	_	DET	_	_	_	_
+10	cette	ce	_	_	DET	_	_	_	_
+11	monumentale	monumental	_	_	ADJ	_	_	_	_
+12	biographie	biographie	_	_	N	_	_	_	_
+13	de	de	_	_	ADP	_	_	_	_
+14	Szymanoski	Szymanoski	_	_	PROPN	_	_	_	_
+15	je	je	_	_	PRO	_	_	_	_
+16	lis	lire	_	_	V	_	_	_	_
+17	son	son	_	_	DET	_	_	_	_
+18	le	le	_	_	DET	_	_	_	_
+19	portrait	portrait	_	_	N	_	_	_	_
+20	de	de	_	_	ADP	_	_	_	_
+21	notre	son	_	_	DET	_	_	_	_
+22	de	de	_	_	ADP	_	_	_	_
+23	votre	son	_	_	DET	_	_	_	_
+24	héros	héros	_	_	N	_	_	_	_
+25	vers	vers	_	_	ADP	_	_	_	_
+26	vingt-six	vingt-six	_	_	NUM	_	_	_	_
+27	ans	an	_	_	N	_	_	_	_
+28	à	à	_	_	ADP	_	_	_	_
+29	peu	peu	_	_	N	_	_	_	_
+30	près	près	_	_	ADV	_	_	_	_
+31	euh	euh	_	_	INTJ	_	_	_	_
+32	fait	faire	_	_	V	_	_	_	_
+33	par	par	_	_	ADP	_	_	_	_
+34	un	un	_	_	DET	_	_	_	_
+35	ami	ami	_	_	N	_	_	_	_
+36	qui	qui	_	_	PRO	_	_	_	_
+37	l'	le	_	_	PRO	_	_	_	_
+38	attend	attendre	_	_	V	_	_	_	_
+39	à	à	_	_	ADP	_	_	_	_
+40	la	le	_	_	DET	_	_	_	_
+41	gare	gare	_	_	N	_	_	_	_
+
+# sent_id = 2703
+# text = nous avions donc ça en commun
+1	nous	nous	_	_	PRO	_	_	_	_
+2	avions	avoir	_	_	V	_	_	_	_
+3	donc	donc	_	_	ADV	_	_	_	_
+4	ça	ça	_	_	PRO	_	_	_	_
+5	en	en	_	_	ADP	_	_	_	_
+6	commun	commun	_	_	N	_	_	_	_
+
+# sent_id = 1125
+# text = mais le soir les horaires de cadres c' est abominable oui mh
+1	mais	mais	_	_	CONJ	_	_	_	_
+2	le	le	_	_	DET	_	_	_	_
+3	soir	soir	_	_	N	_	_	_	_
+4	les	le	_	_	DET	_	_	_	_
+5	horaires	horaire	_	_	N	_	_	_	_
+6	de	de	_	_	ADP	_	_	_	_
+7	cadres	cadre	_	_	N	_	_	_	_
+8	c'	ce	_	_	PRO	_	_	_	_
+9	est	être	_	_	V	_	_	_	_
+10	abominable	abominable	_	_	ADJ	_	_	_	_
+11	oui	oui	_	_	INTJ	_	_	_	_
+12	mh	mh	_	_	INTJ	_	_	_	_
+
+# sent_id = 1547
+# text = mais c' est inutilisable hein
+1	mais	mais	_	_	CONJ	_	_	_	_
+2	c'	ce	_	_	PRO	_	_	_	_
+3	est	être	_	_	V	_	_	_	_
+4	inutilisable	inutilisable	_	_	ADJ	_	_	_	_
+5	hein	hein	_	_	INTJ	_	_	_	_
+
+# sent_id = 1838
+# text = nous avons été sous très gros bombardements américains puis anglais
+1	nous	nous	_	_	PRO	_	_	_	_
+2	avons	avoir	_	_	V	_	_	_	_
+3	été	être	_	_	V	_	_	_	_
+4	sous	sous	_	_	ADP	_	_	_	_
+5	très	très	_	_	ADV	_	_	_	_
+6	gros	gros	_	_	ADJ	_	_	_	_
+7	bombardements	bombardement	_	_	N	_	_	_	_
+8	américains	américain	_	_	ADJ	_	_	_	_
+9	puis	puis	_	_	CONJ	_	_	_	_
+10	anglais	anglais	_	_	N	_	_	_	_
+
+# sent_id = 1287
+# text = quel avenir pour le téléphone mobile à l' heure de l' iPhone et des baladeurs
+1	quel	quel	_	_	PRO	_	_	_	_
+2	avenir	avenir	_	_	N	_	_	_	_
+3	pour	pour	_	_	ADP	_	_	_	_
+4	le	le	_	_	DET	_	_	_	_
+5	téléphone	téléphone	_	_	N	_	_	_	_
+6	mobile	mobile	_	_	ADJ	_	_	_	_
+7	à	à	_	_	ADP	_	_	_	_
+8	l'	le	_	_	DET	_	_	_	_
+9	heure	heure	_	_	N	_	_	_	_
+10	de	de	_	_	ADP	_	_	_	_
+11	l'	le	_	_	DET	_	_	_	_
+12	iPhone	iPhone	_	_	N	_	_	_	_
+13	et	et	_	_	CONJ	_	_	_	_
+14	des	de+le	_	_	ADP	_	_	_	_
+15	baladeurs	baladeur	_	_	N	_	_	_	_
+
+# sent_id = 898
+# text = donc là vous partez dans cette direction toujours tout droit
+1	donc	donc	_	_	ADV	_	_	_	_
+2	là	là	_	_	ADV	_	_	_	_
+3	vous	vous	_	_	PRO	_	_	_	_
+4	partez	partir	_	_	V	_	_	_	_
+5	dans	dans	_	_	ADP	_	_	_	_
+6	cette	ce	_	_	DET	_	_	_	_
+7	direction	direction	_	_	N	_	_	_	_
+8	toujours	toujours	_	_	ADV	_	_	_	_
+9	tout	tout	_	_	ADV	_	_	_	_
+10	droit	droit	_	_	ADJ	_	_	_	_
+
+# sent_id = 2392
+# text = mais enfin entre cinq mille morts par an et trente mille v~ je il y a six fois plus de cas
+1	mais	mais	_	_	CONJ	_	_	_	_
+2	enfin	enfin	_	_	ADV	_	_	_	_
+3	entre	entre	_	_	ADP	_	_	_	_
+4	cinq	cinq	_	_	NUM	_	_	_	_
+5	mille	mille	_	_	NUM	_	_	_	_
+6	morts	mort	_	_	N	_	_	_	_
+7	par	par	_	_	ADP	_	_	_	_
+8	an	an	_	_	N	_	_	_	_
+9	et	et	_	_	CONJ	_	_	_	_
+10	trente	trente	_	_	NUM	_	_	_	_
+11	mille	mille	_	_	NUM	_	_	_	_
+12	v~	v~	_	_	N	_	_	_	_
+13	je	je	_	_	PRO	_	_	_	_
+14	il	il	_	_	PRO	_	_	_	_
+15	y	y	_	_	PRO	_	_	_	_
+16	a	avoir	_	_	V	_	_	_	_
+17	six	six	_	_	NUM	_	_	_	_
+18	fois	fois	_	_	N	_	_	_	_
+19	plus	plus	_	_	ADV	_	_	_	_
+20	de	de	_	_	ADP	_	_	_	_
+21	cas	cas	_	_	N	_	_	_	_
+
+# sent_id = 658
+# text = je veux dire ça me oui laisse assez rêveur
+1	je	je	_	_	PRO	_	_	_	_
+2	veux	vouloir	_	_	V	_	_	_	_
+3	dire	dire	_	_	V	_	_	_	_
+4	ça	ça	_	_	PRO	_	_	_	_
+5	me	me	_	_	PRO	_	_	_	_
+6	oui	oui	_	_	INTJ	_	_	_	_
+7	laisse	laisser	_	_	V	_	_	_	_
+8	assez	assez	_	_	ADV	_	_	_	_
+9	rêveur	rêveur	_	_	ADJ	_	_	_	_
+
+# sent_id = 2097
+# text = maître c' est parti effectivement
+1	maître	maître	_	_	N	_	_	_	_
+2	c'	ce	_	_	PRO	_	_	_	_
+3	est	être	_	_	V	_	_	_	_
+4	parti	partir	_	_	V	_	_	_	_
+5	effectivement	effectivement	_	_	ADV	_	_	_	_
+
+# sent_id = 319
+# text = Agüero en retrait pour euh Gago
+1	Agüero	Agüero	_	_	PROPN	_	_	_	_
+2	en	en	_	_	ADP	_	_	_	_
+3	retrait	retrait	_	_	N	_	_	_	_
+4	pour	pour	_	_	ADP	_	_	_	_
+5	euh	euh	_	_	INTJ	_	_	_	_
+6	Gago	Gago	_	_	PROPN	_	_	_	_
+
+# sent_id = 1065
+# text = donc ça devient difficile hein
+1	donc	donc	_	_	ADV	_	_	_	_
+2	ça	ça	_	_	PRO	_	_	_	_
+3	devient	devenir	_	_	V	_	_	_	_
+4	difficile	difficile	_	_	ADJ	_	_	_	_
+5	hein	hein	_	_	INTJ	_	_	_	_
+
+# sent_id = 50
+# text = il y a la une cabine de téléphone
+1	il	il	_	_	PRO	_	_	_	_
+2	y	y	_	_	PRO	_	_	_	_
+3	a	avoir	_	_	V	_	_	_	_
+4	la	le	_	_	DET	_	_	_	_
+5	une	un	_	_	DET	_	_	_	_
+6	cabine	cabine	_	_	N	_	_	_	_
+7	de	de	_	_	ADP	_	_	_	_
+8	téléphone	téléphone	_	_	N	_	_	_	_
+
+# sent_id = 2027
+# text = j' aime énormément m' adresser face à un auditoire
+1	j'	je	_	_	PRO	_	_	_	_
+2	aime	aimer	_	_	V	_	_	_	_
+3	énormément	énormément	_	_	ADV	_	_	_	_
+4	m'	me	_	_	PRO	_	_	_	_
+5	adresser	adresser	_	_	V	_	_	_	_
+6	face	face	_	_	N	_	_	_	_
+7	à	à	_	_	ADP	_	_	_	_
+8	un	un	_	_	DET	_	_	_	_
+9	auditoire	auditoire	_	_	N	_	_	_	_
+
+# sent_id = 1975
+# text = et quand vous serez donc à La Nef Chavant alors là euh il vous vous passez à droite du cinéma
+1	et	et	_	_	CONJ	_	_	_	_
+2	quand	quand	_	_	CONJ	_	_	_	_
+3	vous	vous	_	_	PRO	_	_	_	_
+4	serez	être	_	_	V	_	_	_	_
+5	donc	donc	_	_	ADV	_	_	_	_
+6	à	à	_	_	ADP	_	_	_	_
+7	La	le	_	_	DET	_	_	_	_
+8	Nef	Nef	_	_	PROPN	_	_	_	_
+9	Chavant	Chavant	_	_	PROPN	_	_	_	_
+10	alors	alors	_	_	ADV	_	_	_	_
+11	là	là	_	_	ADV	_	_	_	_
+12	euh	euh	_	_	INTJ	_	_	_	_
+13	il	il	_	_	PRO	_	_	_	_
+14	vous	vous	_	_	PRO	_	_	_	_
+15	vous	vous	_	_	PRO	_	_	_	_
+16	passez	passer	_	_	V	_	_	_	_
+17	à	à	_	_	ADP	_	_	_	_
+18	droite	droite	_	_	N	_	_	_	_
+19	du	de+le	_	_	ADP	_	_	_	_
+20	cinéma	cinéma	_	_	N	_	_	_	_
+
+# sent_id = 1624
+# text = tu peux le dire
+1	tu	tu	_	_	PRO	_	_	_	_
+2	peux	pouvoir	_	_	V	_	_	_	_
+3	le	le	_	_	PRO	_	_	_	_
+4	dire	dire	_	_	V	_	_	_	_
+
+# sent_id = 2514
+# text = comme l' esclave qui désire un peu d' ombre comme le manoeuvre qui attend sa paye depuis des mois dit Job je n' y ai rien gagné sinon que du néant
+1	comme	comme	_	_	ADP	_	_	_	_
+2	l'	le	_	_	DET	_	_	_	_
+3	esclave	esclave	_	_	N	_	_	_	_
+4	qui	qui	_	_	PRO	_	_	_	_
+5	désire	désirer	_	_	V	_	_	_	_
+6	un	un	_	_	DET	_	_	_	_
+7	peu	peu	_	_	N	_	_	_	_
+8	d'	de	_	_	ADP	_	_	_	_
+9	ombre	ombre	_	_	N	_	_	_	_
+10	comme	comme	_	_	ADP	_	_	_	_
+11	le	le	_	_	DET	_	_	_	_
+12	manoeuvre	manoeuvre	_	_	N	_	_	_	_
+13	qui	qui	_	_	PRO	_	_	_	_
+14	attend	attendre	_	_	V	_	_	_	_
+15	sa	son	_	_	DET	_	_	_	_
+16	paye	paye	_	_	N	_	_	_	_
+17	depuis	depuis	_	_	ADP	_	_	_	_
+18	des	de+le	_	_	ADP	_	_	_	_
+19	mois	mois	_	_	N	_	_	_	_
+20	dit	dire	_	_	V	_	_	_	_
+21	Job	Job	_	_	PROPN	_	_	_	_
+22	je	je	_	_	PRO	_	_	_	_
+23	n'	ne	_	_	PART	_	_	_	_
+24	y	y	_	_	PRO	_	_	_	_
+25	ai	avoir	_	_	V	_	_	_	_
+26	rien	rien	_	_	PRO	_	_	_	_
+27	gagné	gagner	_	_	V	_	_	_	_
+28	sinon	sinon	_	_	CONJ	_	_	_	_
+29	que	que	_	_	PART	_	_	_	_
+30	du	de+le	_	_	ADP	_	_	_	_
+31	néant	néant	_	_	N	_	_	_	_
+
+# sent_id = 954
+# text = on on on verra les bulles
+1	on	on	_	_	PRO	_	_	_	_
+2	on	on	_	_	PRO	_	_	_	_
+3	on	on	_	_	PRO	_	_	_	_
+4	verra	voir	_	_	V	_	_	_	_
+5	les	le	_	_	DET	_	_	_	_
+6	bulles	bulle	_	_	N	_	_	_	_
+
+# sent_id = 2550
+# text = enfin on dit que je suis à l' écoute des personnes je suis compréhensive et que
+1	enfin	enfin	_	_	ADV	_	_	_	_
+2	on	on	_	_	PRO	_	_	_	_
+3	dit	dire	_	_	V	_	_	_	_
+4	que	que	_	_	CONJ	_	_	_	_
+5	je	je	_	_	PRO	_	_	_	_
+6	suis	être	_	_	V	_	_	_	_
+7	à	à	_	_	ADP	_	_	_	_
+8	l'	le	_	_	DET	_	_	_	_
+9	écoute	écoute	_	_	N	_	_	_	_
+10	des	de+le	_	_	ADP	_	_	_	_
+11	personnes	personne	_	_	N	_	_	_	_
+12	je	je	_	_	PRO	_	_	_	_
+13	suis	être	_	_	V	_	_	_	_
+14	compréhensive	compréhensif	_	_	ADJ	_	_	_	_
+15	et	et	_	_	CONJ	_	_	_	_
+16	que	que	_	_	CONJ	_	_	_	_
+
+# sent_id = 932
+# text = vous allez la traverser
+1	vous	vous	_	_	PRO	_	_	_	_
+2	allez	aller	_	_	V	_	_	_	_
+3	la	le	_	_	PRO	_	_	_	_
+4	traverser	traverser	_	_	V	_	_	_	_
+
+# sent_id = 1849
+# text = et les malheureux allaient puiser de l' eau dans la Loire et remontaient pour arroser
+1	et	et	_	_	CONJ	_	_	_	_
+2	les	le	_	_	DET	_	_	_	_
+3	malheureux	malheureux	_	_	ADJ	_	_	_	_
+4	allaient	aller	_	_	V	_	_	_	_
+5	puiser	puiser	_	_	V	_	_	_	_
+6	de	de	_	_	ADP	_	_	_	_
+7	l'	le	_	_	PRO	_	_	_	_
+8	eau	eau	_	_	N	_	_	_	_
+9	dans	dans	_	_	ADP	_	_	_	_
+10	la	le	_	_	DET	_	_	_	_
+11	Loire	Loire	_	_	PROPN	_	_	_	_
+12	et	et	_	_	CONJ	_	_	_	_
+13	remontaient	remonter	_	_	V	_	_	_	_
+14	pour	pour	_	_	ADP	_	_	_	_
+15	arroser	arroser	_	_	V	_	_	_	_
+

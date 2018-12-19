@@ -1,0 +1,284 @@
+# sent_id = 25
+# text = ọlọ́run sì dá ẹranko inú igbó àti ẹran ọ̀sìn gbogbo ní irú tirẹ̀ àti gbogbo ohun alààyè tí ń rìn ní ilẹ̀ ní irú tirẹ̀. ọlọ́run sì rí i pé ó dára.
+# text_yor =  ọlọ́run sì dá ẹranko inú igbó àti ẹran ọ̀sìn gbogbo ní irú tirẹ̀ àti gbogbo ohun alààyè tí ń rìn ní ilẹ̀ ní irú tirẹ̀ . ọlọ́run sì rí i pé ó dára .
+# text_en =  and god made the beast of the earth after his kind , and cattle after their kind , and every thing that creepeth upon the earth after his kind : and god saw that it was good .
+1	ọlọ́run	ọlọ́run	_	_	N	_	_	_	_
+2	sì	sì	_	_	CONJ	_	_	_	_
+3	dá	dá	_	_	V	_	_	_	_
+4	ẹranko	ẹranko	_	_	N	_	_	_	_
+5	inú	inú	_	_	ADP	_	_	_	_
+6	igbó	igbó	_	_	N	_	_	_	_
+7	àti	àti	_	_	CONJ	_	_	_	_
+8	ẹran	ẹran	_	_	N	_	_	_	_
+9	ọ̀sìn	ọ̀sìn	_	_	N	_	_	_	_
+10	gbogbo	gbogbo	_	_	DET	_	_	_	_
+11	ní	ní	_	_	ADP	_	_	_	_
+12	irú	irú	_	_	ADJ	_	_	_	_
+13	tirẹ̀	tirẹ̀	_	_	PRO;SG;3;GEN	_	_	_	_
+14	àti	àti	_	_	CONJ	_	_	_	_
+15	gbogbo	gbogbo	_	_	DET	_	_	_	_
+16	ohun	ohun	_	_	PRO	_	_	_	_
+17	alààyè	alààyè	_	_	N	_	_	_	_
+18	tí	tí	_	_	PRO	_	_	_	_
+19	ń	ń	_	_	V	_	_	_	_
+20	rìn	rìn	_	_	V	_	_	_	_
+21	ní	ní	_	_	ADP	_	_	_	_
+22	ilẹ̀	ilẹ̀	_	_	N	_	_	_	_
+23	ní	ní	_	_	ADP	_	_	_	_
+24	irú	irú	_	_	ADJ	_	_	_	_
+25	tirẹ̀	tirẹ̀	_	_	PRO;SG;3;GEN	_	_	_	_
+26	.	.	_	_	_	_	_	_	_
+27	ọlọ́run	ọlọ́run	_	_	N	_	_	_	_
+28	sì	sì	_	_	CONJ	_	_	_	_
+29	rí	rí	_	_	V	_	_	_	_
+30	i	i	_	_	PRO;SG;3;ACC	_	_	_	_
+31	pé	pé	_	_	CONJ	_	_	_	_
+32	ó	ó	_	_	PRO;SG;NOM;3	_	_	_	_
+33	dára	dára	_	_	ADJ	_	_	_	_
+34	.	.	_	_	_	_	_	_	_
+
+# sent_id = JOHN_10.4
+# text = Nígbà tí ó bá sì ti mú àwọn àgùntàn tirẹ̀ jáde, yóò ṣíwájú wọn, àwọn àgùntàn yóò sì máa tọ̀ ọ́ lẹ́yìn: nítorí tí wọ́n mọ ohùn rẹ̀.
+1	Nígbà	nígbà	_	_	ADV	_	_	_	_
+2	tí	tí	_	_	PRO	_	_	_	_
+3	ó	ó	_	_	PRO;SG;NOM;3	_	_	_	_
+4	bá	bá	_	_	CONJ	_	_	_	_
+5	sì	sì	_	_	CONJ	_	_	_	_
+6	ti	ti	_	_	V	_	_	_	_
+7	mú	mú	_	_	V	_	_	_	_
+8	àwọn	àwọn	_	_	DET	_	_	_	_
+9	àgùntàn	àgùntàn	_	_	N	_	_	_	_
+10	tirẹ̀	tirẹ̀	_	_	ADJ	_	_	_	_
+11	jáde	jáde	_	_	N	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	yóò	yóò	_	_	V	_	_	_	_
+14	ṣíwájú	ṣíwájú	_	_	ADP	_	_	_	_
+15	wọn	wọn	_	_	PRO;3;ACC;PL	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	àwọn	àwọn	_	_	DET	_	_	_	_
+18	àgùntàn	àgùntàn	_	_	N	_	_	_	_
+19	yóò	yóò	_	_	ADV	_	_	_	_
+20	sì	sì	_	_	CONJ	_	_	_	_
+21	máa	máa	_	_	V	_	_	_	_
+22	tọ̀	tọ̀	_	_	V	_	_	_	_
+23	ọ́	ọ́	_	_	PRO;SG;2;ACC	_	_	_	_
+24	lẹ́yìn	lẹ́yìn	_	_	ADP	_	_	_	_
+25	:	:	_	_	_	_	_	_	_
+26	nítorí	nítorí	_	_	CONJ	_	_	_	_
+27	tí	tí	_	_	PRO	_	_	_	_
+28	wọ́n	wọ́n	_	_	PRO;NOM;3;PL	_	_	_	_
+29	mọ	mọ	_	_	V	_	_	_	_
+30	ohùn	ohùn	_	_	N	_	_	_	_
+31	rẹ̀	rẹ̀	_	_	PRO;SG;3;GEN	_	_	_	_
+32	.	.	_	_	_	_	_	_	_
+
+# sent_id = JOHN_11.24
+# text = Mátà wí fún un pé, “Mo mọ̀ pé yóò jíǹde ní àjíǹde ìkẹyìn.”
+1	Mátà	mátà	_	_	PROPN	_	_	_	_
+2	wí	wí	_	_	V	_	_	_	_
+3	fún	fún	_	_	ADP	_	_	_	_
+4	un	un	_	_	PRO;SG;3;GEN	_	_	_	_
+5	pé	pé	_	_	CONJ	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	“	“	_	_	_	_	_	_	_
+8	Mo	Mo	_	_	PRO;SG;NOM;1	_	_	_	_
+9	mọ̀	mọ̀	_	_	V	_	_	_	_
+10	pé	pé	_	_	CONJ	_	_	_	_
+11	yóò	yóò	_	_	V	_	_	_	_
+12	jíǹde	jíǹde	_	_	V	_	_	_	_
+13	ní	ní	_	_	ADP	_	_	_	_
+14	àjíǹde	àjíǹde	_	_	N	_	_	_	_
+15	ìkẹyìn	ìkẹyìn	_	_	ADJ	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+17	”	”	_	_	_	_	_	_	_
+
+# sent_id = JOHN_11.43
+# text = Nígbà tí ó sì wí bẹ́ẹ̀ tan, ó kígbe lóhùn rara pé, “Lásárù, jáde wá.”
+1	Nígbà	nígbà	_	_	ADV	_	_	_	_
+2	tí	tí	_	_	PRO	_	_	_	_
+3	ó	ó	_	_	PRO;SG;NOM;3	_	_	_	_
+4	sì	sì	_	_	CONJ	_	_	_	_
+5	wí	wí	_	_	V	_	_	_	_
+6	bẹ́ẹ̀	bẹ́ẹ̀	_	_	ADV	_	_	_	_
+7	tan	tan	_	_	V	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	ó	ó	_	_	PRO;SG;NOM;3	_	_	_	_
+10	kígbe	kígbe	_	_	V	_	_	_	_
+11	lóhùn	lóhùn	_	_	V	_	_	_	_
+12	rara	rara	_	_	ADJ	_	_	_	_
+13	pé	pé	_	_	CONJ	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	“	“	_	_	_	_	_	_	_
+16	Lásárù	lásárù	_	_	PROPN	_	_	_	_
+17	,	,	_	_	_	_	_	_	_
+18	jáde	jáde	_	_	V	_	_	_	_
+19	wá	wá	_	_	V	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+21	”	”	_	_	_	_	_	_	_
+
+# sent_id = JOHN_10.22
+# text = Ó sì jẹ́ àjọ̀dún ìyàsímímọ́ ní Jérúsálẹ́mù, ìgbà òtútù ni.
+1	Ó	Ó	_	_	PRO;SG;NOM;3	_	_	_	_
+2	sì	sì	_	_	CONJ	_	_	_	_
+3	jẹ́	jẹ́	_	_	V	_	_	_	_
+4	àjọ̀dún	àjọ̀dún	_	_	N	_	_	_	_
+5	ìyàsímímọ́	ìyàsímímọ́	_	_	N	_	_	_	_
+6	ní	ní	_	_	ADP	_	_	_	_
+7	Jérúsálẹ́mù	jérúsálẹ́mù	_	_	PROPN	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	ìgbà	ìgbà	_	_	N	_	_	_	_
+10	òtútù	òtútù	_	_	N	_	_	_	_
+11	ni	ni	_	_	V	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = JOHN_10.23
+# text = Jésù sì ń rìn ní tẹ́mpílì, ní ìloro Sólómónì,
+1	Jésù	jésù	_	_	PROPN	_	_	_	_
+2	sì	sì	_	_	CONJ	_	_	_	_
+3	ń	ń	_	_	V	_	_	_	_
+4	rìn	rìn	_	_	V	_	_	_	_
+5	ní	ní	_	_	ADP	_	_	_	_
+6	tẹ́mpílì	tẹ́mpílì	_	_	N	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	ní	ní	_	_	ADP	_	_	_	_
+9	ìloro	ìloro	_	_	N	_	_	_	_
+10	Sólómónì	sólómónì	_	_	PROPN	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+
+# sent_id = JOHN_11.25
+# text = Jésù wí fún un pé, “Èmi ni àjíǹde àti ìyè: ẹni tí ó bá gbà mí gbọ́, bí ó tilẹ̀ kú, yóò yè:
+1	Jésù	jésù	_	_	PROPN	_	_	_	_
+2	wí	wí	_	_	V	_	_	_	_
+3	fún	fún	_	_	ADP	_	_	_	_
+4	un	un	_	_	PRO;SG;3;GEN	_	_	_	_
+5	pé	pé	_	_	CONJ	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	“	“	_	_	_	_	_	_	_
+8	Èmi	Èmi	_	_	PRO;SG;NOM;1	_	_	_	_
+9	ni	ni	_	_	V	_	_	_	_
+10	àjíǹde	àjíǹde	_	_	N	_	_	_	_
+11	àti	àti	_	_	CONJ	_	_	_	_
+12	ìyè	ìyè	_	_	N	_	_	_	_
+13	:	:	_	_	_	_	_	_	_
+14	ẹni	ẹni	_	_	PRO	_	_	_	_
+15	tí	tí	_	_	PRO	_	_	_	_
+16	ó	ó	_	_	PRO;SG;NOM;3	_	_	_	_
+17	bá	bá	_	_	CONJ	_	_	_	_
+18	gbà	gbà	_	_	V	_	_	_	_
+19	mí	mí	_	_	PRO;SG;1;ACC	_	_	_	_
+20	gbọ́	gbọ́	_	_	V	_	_	_	_
+21	,	,	_	_	_	_	_	_	_
+22	bí	bí	_	_	CONJ	_	_	_	_
+23	ó	ó	_	_	PRO;SG;NOM;3	_	_	_	_
+24	tilẹ̀	tilẹ̀	_	_	CONJ	_	_	_	_
+25	kú	kú	_	_	V	_	_	_	_
+26	,	,	_	_	_	_	_	_	_
+27	yóò	yóò	_	_	V	_	_	_	_
+28	yè	yè	_	_	V	_	_	_	_
+29	:	:	_	_	_	_	_	_	_
+
+# sent_id = JOHN_11.44
+# text = Ẹni tí ó kú náà sì jáde wá, tí a fi aṣọ òkú dì tọwọ́ tẹsẹ̀ a sì fi gèlè dì í lójú. Jésù wí fún wọn pé, “Ẹ tú u, ẹ sì jẹ́ kí ó má a lọ!”
+1	Ẹni	ẹni	_	_	PRO	_	_	_	_
+2	tí	tí	_	_	PRO	_	_	_	_
+3	ó	ó	_	_	PRO;SG;NOM;3	_	_	_	_
+4	kú	kú	_	_	V	_	_	_	_
+5	náà	náà	_	_	ADV	_	_	_	_
+6	sì	sì	_	_	CONJ	_	_	_	_
+7	jáde	jáde	_	_	V	_	_	_	_
+8	wá	wá	_	_	V	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	tí	tí	_	_	PRO	_	_	_	_
+11	a	a	_	_	PRO;NOM;1;PL	_	_	_	_
+12	fi	fi	_	_	V	_	_	_	_
+13	aṣọ	aṣọ	_	_	N	_	_	_	_
+14	òkú	òkú	_	_	N	_	_	_	_
+15	dì	dì	_	_	V	_	_	_	_
+16	tọwọ́	tọwọ́	_	_	ADV	_	_	_	_
+17	tẹsẹ̀	tẹsẹ̀	_	_	ADV	_	_	_	_
+18	a	a	_	_	PRO;NOM;1;PL	_	_	_	_
+19	sì	sì	_	_	CONJ	_	_	_	_
+20	fi	fi	_	_	V	_	_	_	_
+21	gèlè	gèlè	_	_	N	_	_	_	_
+22	dì	dì	_	_	V	_	_	_	_
+23	í	í	_	_	PRO;SG;3;ACC	_	_	_	_
+24	lójú	lójú	_	_	N	_	_	_	_
+25	.	.	_	_	_	_	_	_	_
+26	Jésù	jésù	_	_	PROPN	_	_	_	_
+27	wí	wí	_	_	V	_	_	_	_
+28	fún	fún	_	_	ADP	_	_	_	_
+29	wọn	wọn	_	_	PRO;3;ACC;PL	_	_	_	_
+30	pé	pé	_	_	CONJ	_	_	_	_
+31	,	,	_	_	_	_	_	_	_
+32	“	“	_	_	_	_	_	_	_
+33	Ẹ	Ẹ	_	_	V	_	_	_	_
+34	tú	tú	_	_	V	_	_	_	_
+35	u	u	_	_	PRO;SG;3;GEN	_	_	_	_
+36	,	,	_	_	_	_	_	_	_
+37	ẹ	ẹ	_	_	V	_	_	_	_
+38	sì	sì	_	_	CONJ	_	_	_	_
+39	jẹ́	jẹ́	_	_	V	_	_	_	_
+40	kí	kí	_	_	CONJ	_	_	_	_
+41	ó	ó	_	_	PRO;SG;NOM;3	_	_	_	_
+42	má	má	_	_	V	_	_	_	_
+43	a	a	_	_	V	_	_	_	_
+44	lọ	lọ	_	_	V	_	_	_	_
+45	!	!	_	_	_	_	_	_	_
+46	”	”	_	_	_	_	_	_	_
+
+# sent_id = JOHN_10.34
+# text = Jésù dá wọn lóhùn pé, “A kò ha ti kọ ọ́ nínú òfin yín pé, ‘Mo ti wí pé, Ọlọ́run ni ẹ̀yin jẹ́’?
+1	Jésù	Jésù	_	_	PROPN	_	_	_	_
+2	dá	dá	_	_	V	_	_	_	_
+3	wọn	wọn	_	_	PRO;3;ACC;PL	_	_	_	_
+4	lóhùn	lóhùn	_	_	V	_	_	_	_
+5	pé	pé	_	_	CONJ	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	“	“	_	_	_	_	_	_	_
+8	A	A	_	_	PRO;NOM;1;PL	_	_	_	_
+9	kò	kò	_	_	PART	_	_	_	_
+10	ha	ha	_	_	_	_	_	_	_
+11	ti	ti	_	_	PRO	_	_	_	_
+12	kọ	kọ	_	_	V	_	_	_	_
+13	ọ́	ọ́	_	_	PRO;SG;2;ACC	_	_	_	_
+14	nínú	nínú	_	_	ADP	_	_	_	_
+15	òfin	òfin	_	_	N	_	_	_	_
+16	yín	yín	_	_	PRO;GEN;2;PL	_	_	_	_
+17	pé	pé	_	_	CONJ	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	‘	‘	_	_	_	_	_	_	_
+20	Mo	Mo	_	_	V	_	_	_	_
+21	ti	ti	_	_	V	_	_	_	_
+22	wí	wí	_	_	V	_	_	_	_
+23	pé	pé	_	_	CONJ	_	_	_	_
+24	,	,	_	_	_	_	_	_	_
+25	Ọlọ́run	Ọlọ́run	_	_	N	_	_	_	_
+26	ni	ni	_	_	V	_	_	_	_
+27	ẹ̀yin	ẹ̀yin	_	_	PRO;NOM;2;PL	_	_	_	_
+28	jẹ́	jẹ́	_	_	V	_	_	_	_
+29	’	’	_	_	_	_	_	_	_
+30	?	?	_	_	_	_	_	_	_
+
+# sent_id = 3
+# text = ọlọ́run sì wí pé, “jẹ́ kí ìmọ́lẹ̀ kí ó wà,” ìmọ́lẹ̀ sì wà.
+# text_yor =  ọlọ́run sì wí pé , “ jẹ́ kí ìmọ́lẹ̀ kí ó wà , ” ìmọ́lẹ̀ sì wà.
+# text_en =  and god said , let there be light : and there was light .
+1	ọlọ́run	ọlọ́run	_	_	N	_	_	_	_
+2	sì	sì	_	_	CONJ	_	_	_	_
+3	wí	wí	_	_	V	_	_	_	_
+4	pé	pé	_	_	CONJ	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	“	“	_	_	_	_	_	_	_
+7	jẹ́	jẹ́	_	_	V	_	_	_	_
+8	kí	kí	_	_	_	_	_	_	_
+9	ìmọ́lẹ̀	ìmọ́lẹ̀	_	_	N	_	_	_	_
+10	kí	kí	_	_	V	_	_	_	_
+11	ó	ó	_	_	PRO;SG;NOM;3	_	_	_	_
+12	wà	wà	_	_	V	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	”	”	_	_	_	_	_	_	_
+15	ìmọ́lẹ̀	ìmọ́lẹ̀	_	_	N	_	_	_	_
+16	sì	sì	_	_	CONJ	_	_	_	_
+17	wà	wà	_	_	V	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+

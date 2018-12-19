@@ -1,0 +1,2693 @@
+# sent_id = 754
+# text = José Tomas, de Alacante.
+1	José	josé	_	_	PROPN;MASC	_	_	_	_
+2	Tomas	tomas	_	_	PROPN;MASC	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	de	de	_	_	ADP	_	_	_	_
+5	Alacante	Alacante	_	_	PROPN	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = 954
+# text = As botaduras regábanse con champaña francesa e nas tabernas era o único sitio de toda Galiza no que daquela se chateaba regularmente con reservas de Rioxa.
+1	As	o	_	_	DEF;PL;FEM;DET	_	_	_	_
+2	botaduras	botadura	_	_	FEM;N;PL	_	_	_	_
+3	regaban	regar	_	_	PL;IND;IPFV;V;FIN;3	_	_	_	_
+4	se	se	_	_	MASC+FEM;PRO;3	_	_	_	_
+5	con	con	_	_	ADP	_	_	_	_
+6	champaña	champaña	_	_	FEM;N;SG	_	_	_	_
+7	francesa	francés	_	_	ADJ;FEM;SG	_	_	_	_
+8	e	e	_	_	CONJ	_	_	_	_
+9	en	en	_	_	ADP	_	_	_	_
+10	as	o	_	_	DEF;PL;FEM;DET	_	_	_	_
+11	tabernas	taberna	_	_	FEM;N;PL	_	_	_	_
+12	era	ser	_	_	SG;IND;V;IPFV;FIN;3	_	_	_	_
+13	o	o	_	_	DEF;SG;DET;MASC	_	_	_	_
+14	único	único	_	_	ADJ;MASC;SG	_	_	_	_
+15	sitio	sitio	_	_	MASC;N;SG	_	_	_	_
+16	de	de	_	_	ADP	_	_	_	_
+17	toda	todo	_	_	DET;FEM;SG	_	_	_	_
+18	Galiza	Galiza	_	_	PROPN;FEM;SG	_	_	_	_
+19	en	en	_	_	ADP	_	_	_	_
+20	o	o	_	_	DEF;SG;DET;MASC	_	_	_	_
+21	que	que	_	_	MASC;PRO;SG	_	_	_	_
+22	daquela	daquela	_	_	ADV	_	_	_	_
+23	se	se	_	_	MASC+FEM;PRO;3	_	_	_	_
+24	chateaba	chatear	_	_	SG;IND;IPFV;V;FIN;3	_	_	_	_
+25	regularmente	regularmente	_	_	ADV	_	_	_	_
+26	con	con	_	_	ADP	_	_	_	_
+27	reservas	reserva	_	_	MASC;N;PL	_	_	_	_
+28	de	de	_	_	ADP	_	_	_	_
+29	Rioxa	Rioxa	_	_	PROPN	_	_	_	_
+30	.	.	_	_	_	_	_	_	_
+
+# sent_id = 260
+# text = O PSdeG ten aceptación na cidadanía polo traballo que desenvolve e polo eco que os medios fan dese traballo.
+1	O	o	_	_	DEF;MASC;DET;SG	_	_	_	_
+2	PSdeG	PSdeG	_	_	SG;PROPN;MASC	_	_	_	_
+3	ten	ter	_	_	V;SG;3;IND;PRS;FIN	_	_	_	_
+4	aceptación	aceptación	_	_	N;SG;FEM	_	_	_	_
+5	en	en	_	_	ADP	_	_	_	_
+6	a	o	_	_	DEF;FEM;DET;SG	_	_	_	_
+7	cidadanía	cidadanía	_	_	N;SG;FEM	_	_	_	_
+8	por	por	_	_	ADP	_	_	_	_
+9	lo	o	_	_	DEF;MASC;DET;SG	_	_	_	_
+10	traballo	traballo	_	_	N;SG;MASC	_	_	_	_
+11	que	que	_	_	SG;PRO;MASC	_	_	_	_
+12	desenvolve	desenvolver	_	_	V;SG;3;IND;PRS;FIN	_	_	_	_
+13	e	e	_	_	CONJ	_	_	_	_
+14	por	por	_	_	ADP	_	_	_	_
+15	lo	o	_	_	DEF;MASC;DET;SG	_	_	_	_
+16	eco	eco	_	_	N;SG;MASC	_	_	_	_
+17	que	que	_	_	SG;PRO;MASC	_	_	_	_
+18	os	o	_	_	DEF;MASC;DET;PL	_	_	_	_
+19	medios	medio	_	_	N;PL;MASC	_	_	_	_
+20	fan	facer	_	_	PL;V;3;IND;PRS;FIN	_	_	_	_
+21	de	de	_	_	ADP	_	_	_	_
+22	ese	ese	_	_	SG;DET;MASC	_	_	_	_
+23	traballo	traballo	_	_	N;SG;MASC	_	_	_	_
+24	.	.	_	_	_	_	_	_	_
+
+# sent_id = 363
+# text = Aínda que algúns dos representantes dos pescadores gabaron as axudas institucionais, outros queixáronse do desprezo aos seus problemas.
+1	Aínda	aínda	_	_	ADV	_	_	_	_
+2	que	que	_	_	CONJ	_	_	_	_
+3	algúns	algún	_	_	MASC;PRO;PL	_	_	_	_
+4	de	de	_	_	ADP	_	_	_	_
+5	os	o	_	_	DEF;PL;DET;MASC	_	_	_	_
+6	representantes	representante	_	_	MASC;N;PL	_	_	_	_
+7	de	de	_	_	ADP	_	_	_	_
+8	os	o	_	_	DEF;PL;DET;MASC	_	_	_	_
+9	pescadores	pescador	_	_	MASC;N;PL	_	_	_	_
+10	gabaron	gabar	_	_	PL;IND;V;FIN;3;PST	_	_	_	_
+11	as	o	_	_	DEF;PL;FEM;DET	_	_	_	_
+12	axudas	axuda	_	_	FEM;N;PL	_	_	_	_
+13	institucionais	institucional	_	_	ADJ;FEM;PL	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	outros	outro	_	_	MASC;PRO;PL	_	_	_	_
+16	queixaron	queixar	_	_	PL;IND;V;FIN;3;PST	_	_	_	_
+17	se	se	_	_	MASC+FEM;PRO;3	_	_	_	_
+18	de	de	_	_	ADP	_	_	_	_
+19	o	o	_	_	DEF;SG;DET;MASC	_	_	_	_
+20	desprezo	desprezo	_	_	MASC;N;SG	_	_	_	_
+21	a	a	_	_	ADP	_	_	_	_
+22	os	o	_	_	DEF;PL;DET;MASC	_	_	_	_
+23	seus	seu	_	_	PSSP;PL;DET;MASC;3	_	_	_	_
+24	problemas	problema	_	_	MASC;N;PL	_	_	_	_
+25	.	.	_	_	_	_	_	_	_
+
+# sent_id = 98
+# text = Do mesmo parecer é o alcalde socialista de Compostela, Xosé Bugallo, que vén facendo diversos chamamentos a ambos os partidos para que mostren publicamente unha sintonía que lle faga comprender á cidadanía que "é posíbel unha alternativa".
+1	De	de	_	_	ADP	_	_	_	_
+2	o	o	_	_	DEF;SG;DET;MASC	_	_	_	_
+3	mesmo	mesmo	_	_	MASC;DET;SG	_	_	_	_
+4	parecer	parecer	_	_	MASC;N;SG	_	_	_	_
+5	é	ser	_	_	SG;IND;V;PRS;FIN;3	_	_	_	_
+6	o	o	_	_	DEF;SG;DET;MASC	_	_	_	_
+7	alcalde	alcalde	_	_	MASC;N;SG	_	_	_	_
+8	socialista	socialista	_	_	ADJ;MASC;SG	_	_	_	_
+9	de	de	_	_	ADP	_	_	_	_
+10	Compostela	Compostela	_	_	PROPN	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	Xosé	xosé	_	_	PROPN;MASC	_	_	_	_
+13	Bugallo	bugallo	_	_	PROPN;MASC	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	que	que	_	_	MASC;PRO;SG	_	_	_	_
+16	vén	vir	_	_	SG;IND;V;PRS;FIN;3	_	_	_	_
+17	facendo	facer	_	_	V;V.MSDR	_	_	_	_
+18	diversos	diverso	_	_	ADJ;MASC;PL	_	_	_	_
+19	chamamentos	chamamento	_	_	MASC;N;PL	_	_	_	_
+20	a	a	_	_	ADP	_	_	_	_
+21	ambos	ambos	_	_	MASC;DET;PL	_	_	_	_
+22	os	o	_	_	DEF;PL;DET;MASC	_	_	_	_
+23	partidos	partido	_	_	MASC;N;PL	_	_	_	_
+24	para	para	_	_	ADP	_	_	_	_
+25	que	que	_	_	CONJ	_	_	_	_
+26	mostren	mostrar	_	_	SBJV;PL;PRS;V;FIN;3	_	_	_	_
+27	publicamente	publicamente	_	_	ADV	_	_	_	_
+28	unha	un	_	_	SG;INDF;FEM;DET	_	_	_	_
+29	sintonía	sintonía	_	_	FEM;N;SG	_	_	_	_
+30	que	que	_	_	FEM;PRO;SG	_	_	_	_
+31	lle	lle	_	_	PRO;SG;FEM;DAT;3	_	_	_	_
+32	faga	facer	_	_	SBJV;SG;PRS;V;FIN;3	_	_	_	_
+33	comprender	comprender	_	_	V;NFIN	_	_	_	_
+34	a	a	_	_	ADP	_	_	_	_
+35	a	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+36	cidadanía	cidadanía	_	_	FEM;N;SG	_	_	_	_
+37	que	que	_	_	CONJ	_	_	_	_
+38	"	"	_	_	_	_	_	_	_
+39	é	ser	_	_	SG;IND;V;PRS;FIN;3	_	_	_	_
+40	posíbel	posíbel	_	_	ADJ;FEM;SG	_	_	_	_
+41	unha	un	_	_	SG;INDF;FEM;DET	_	_	_	_
+42	alternativa	alternativa	_	_	FEM;N;SG	_	_	_	_
+43	"	"	_	_	_	_	_	_	_
+44	.	.	_	_	_	_	_	_	_
+
+# sent_id = 558
+# text = Daquela, o concello manchego de Consuegra quixo erguer un muíño de vento, no que se instalaría unha biblioteca con traducións da obra cervantina en todas as linguas do mundo.
+1	Daquela	daquela	_	_	ADV	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	o	o	_	_	DEF;SG;DET;MASC	_	_	_	_
+4	concello	concello	_	_	MASC;N;SG	_	_	_	_
+5	manchego	manchego	_	_	ADJ;MASC;SG	_	_	_	_
+6	de	de	_	_	ADP	_	_	_	_
+7	Consuegra	Consuegra	_	_	PROPN	_	_	_	_
+8	quixo	querer	_	_	SG;IND;V;FIN;3;PST	_	_	_	_
+9	erguer	erguer	_	_	V;NFIN	_	_	_	_
+10	un	un	_	_	SG;INDF;DET;MASC	_	_	_	_
+11	muíño	muíño	_	_	MASC;N;SG	_	_	_	_
+12	de	de	_	_	ADP	_	_	_	_
+13	vento	vento	_	_	MASC;N;SG	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	en	en	_	_	ADP	_	_	_	_
+16	o	o	_	_	DEF;SG;DET;MASC	_	_	_	_
+17	que	que	_	_	MASC;PRO;SG	_	_	_	_
+18	se	se	_	_	MASC+FEM;PRO;3	_	_	_	_
+19	instalaría	instalar	_	_	SG;V;{COND/IND};FIN;3	_	_	_	_
+20	unha	un	_	_	SG;INDF;FEM;DET	_	_	_	_
+21	biblioteca	biblioteca	_	_	FEM;N;SG	_	_	_	_
+22	con	con	_	_	ADP	_	_	_	_
+23	traducións	tradución	_	_	FEM;N;PL	_	_	_	_
+24	de	de	_	_	ADP	_	_	_	_
+25	a	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+26	obra	obra	_	_	FEM;N;SG	_	_	_	_
+27	cervantina	cervantino	_	_	ADJ;FEM;SG	_	_	_	_
+28	en	en	_	_	ADP	_	_	_	_
+29	todas	todo	_	_	DET;FEM;PL	_	_	_	_
+30	as	o	_	_	DEF;PL;FEM;DET	_	_	_	_
+31	linguas	lingua	_	_	FEM;N;PL	_	_	_	_
+32	de	de	_	_	ADP	_	_	_	_
+33	o	o	_	_	DEF;SG;DET;MASC	_	_	_	_
+34	mundo	mundo	_	_	MASC;N;SG	_	_	_	_
+35	.	.	_	_	_	_	_	_	_
+
+# sent_id = 71
+# text = Estas cousas, propias dun babeca, saen da cabaza, non da cabeza, de alguén que pasou pola universidade e que para máis inri é profesor de arte.
+1	Estas	este	_	_	DET;FEM;PL	_	_	_	_
+2	cousas	cousa	_	_	FEM;N;PL	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	propias	propio	_	_	ADJ;FEM;PL	_	_	_	_
+5	de	de	_	_	ADP	_	_	_	_
+6	un	un	_	_	SG;INDF;DET;MASC	_	_	_	_
+7	babeca	babeca	_	_	MASC;N;SG	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	saen	saír	_	_	PL;IND;PRS;V;FIN;3	_	_	_	_
+10	de	de	_	_	ADP	_	_	_	_
+11	a	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+12	cabaza	cabaza	_	_	FEM;N;SG	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	non	non	_	_	ADV;NEG	_	_	_	_
+15	de	de	_	_	ADP	_	_	_	_
+16	a	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+17	cabeza	cabeza	_	_	FEM;N;SG	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	de	de	_	_	ADP	_	_	_	_
+20	alguén	alguén	_	_	MASC;PRO;SG	_	_	_	_
+21	que	que	_	_	MASC;PRO;SG	_	_	_	_
+22	pasou	pasar	_	_	SG;IND;V;FIN;3;PST	_	_	_	_
+23	por	por	_	_	ADP	_	_	_	_
+24	la	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+25	universidade	universidade	_	_	FEM;N;SG	_	_	_	_
+26	e	e	_	_	CONJ	_	_	_	_
+27	que	que	_	_	MASC;PRO;SG	_	_	_	_
+28	para	para	_	_	ADP	_	_	_	_
+29	máis	máis	_	_	ADV	_	_	_	_
+30	inri	inri	_	_	MASC;N;SG	_	_	_	_
+31	é	ser	_	_	SG;IND;V;PRS;FIN;3	_	_	_	_
+32	profesor	profesor	_	_	MASC;N;SG	_	_	_	_
+33	de	de	_	_	ADP	_	_	_	_
+34	arte	arte	_	_	FEM;N;SG	_	_	_	_
+35	.	.	_	_	_	_	_	_	_
+
+# sent_id = 408
+# text = Tarifas que semellan feitas por especialistas en deseñar labirintos que teñen entre os seus obxectivos conseguir que o usuario pague sempre máis do que sería xusto e non entenda moi ben canto e como paga.
+1	Tarifas	tarifa	_	_	FEM;N;PL	_	_	_	_
+2	que	que	_	_	FEM;PRO;PL	_	_	_	_
+3	semellan	semellar	_	_	PL;IND;PRS;V;FIN;3	_	_	_	_
+4	feitas	facer	_	_	V;V.PTCP;FEM;PL	_	_	_	_
+5	por	por	_	_	ADP	_	_	_	_
+6	especialistas	especialista	_	_	MASC;N;PL	_	_	_	_
+7	en	en	_	_	ADP	_	_	_	_
+8	deseñar	deseñar	_	_	V;NFIN	_	_	_	_
+9	labirintos	labirinto	_	_	MASC;N;PL	_	_	_	_
+10	que	que	_	_	MASC;PRO;PL	_	_	_	_
+11	teñen	ter	_	_	PL;IND;PRS;V;FIN;3	_	_	_	_
+12	entre	entre	_	_	ADP	_	_	_	_
+13	os	o	_	_	DEF;PL;DET;MASC	_	_	_	_
+14	seus	seu	_	_	PSSP;PL;DET;MASC;3	_	_	_	_
+15	obxectivos	obxectivo	_	_	MASC;N;PL	_	_	_	_
+16	conseguir	conseguir	_	_	V;NFIN	_	_	_	_
+17	que	que	_	_	CONJ	_	_	_	_
+18	o	o	_	_	DEF;SG;DET;MASC	_	_	_	_
+19	usuario	usuario	_	_	MASC;N;SG	_	_	_	_
+20	pague	pagar	_	_	SBJV;SG;PRS;V;FIN;3	_	_	_	_
+21	sempre	sempre	_	_	ADV	_	_	_	_
+22	máis	máis	_	_	ADV	_	_	_	_
+23	de	de	_	_	ADP	_	_	_	_
+24	o	o	_	_	PRO;SG;MASC;3	_	_	_	_
+25	que	que	_	_	MASC;PRO;SG	_	_	_	_
+26	sería	ser	_	_	SG;V;{COND/IND};FIN;3	_	_	_	_
+27	xusto	xusto	_	_	ADJ;MASC;SG	_	_	_	_
+28	e	e	_	_	CONJ	_	_	_	_
+29	non	non	_	_	ADV;NEG	_	_	_	_
+30	entenda	entender	_	_	SBJV;SG;PRS;V;FIN;3	_	_	_	_
+31	moi	moito	_	_	ADV	_	_	_	_
+32	ben	ben	_	_	ADV	_	_	_	_
+33	canto	canto	_	_	MASC;PRO;SG	_	_	_	_
+34	e	e	_	_	CONJ	_	_	_	_
+35	como	como	_	_	ADV	_	_	_	_
+36	paga	pagar	_	_	SG;IND;PRS;V;FIN;3	_	_	_	_
+37	.	.	_	_	_	_	_	_	_
+
+# sent_id = 130
+# text = A Emilio Pérez Touriño non lle quedaba outro remedio que apoiar esta vez a Miguel Barros fronte a Carlos Príncipe se non quería que o ex alcalde controlase a provincia de Pontevedra, a de máis peso partidario, e ameazase o seu liderado no próximo congreso galego, que é ao que aspira o ex alcalde vigués.
+1	A	a	_	_	ADP	_	_	_	_
+2	Emilio	emilio	_	_	PROPN;MASC	_	_	_	_
+3	Pérez	pérez	_	_	PROPN;MASC	_	_	_	_
+4	Touriño	touriño	_	_	PROPN;MASC	_	_	_	_
+5	non	non	_	_	NEG;ADV	_	_	_	_
+6	lle	lle	_	_	PRO;MASC;SG;3;DAT	_	_	_	_
+7	quedaba	quedar	_	_	IPFV;V;SG;3;IND;FIN	_	_	_	_
+8	outro	outro	_	_	SG;DET;MASC	_	_	_	_
+9	remedio	remedio	_	_	N;SG;MASC	_	_	_	_
+10	que	que	_	_	CONJ	_	_	_	_
+11	apoiar	apoiar	_	_	NFIN;V	_	_	_	_
+12	esta	este	_	_	SG;DET;FEM	_	_	_	_
+13	vez	vez	_	_	N;SG;FEM	_	_	_	_
+14	a	a	_	_	ADP	_	_	_	_
+15	Miguel	miguel	_	_	PROPN;MASC	_	_	_	_
+16	Barros	barros	_	_	PROPN;MASC	_	_	_	_
+17	fronte	fronte	_	_	N;SG;FEM	_	_	_	_
+18	a	a	_	_	ADP	_	_	_	_
+19	Carlos	carlos	_	_	PROPN;MASC	_	_	_	_
+20	Príncipe	príncipe	_	_	PROPN;MASC	_	_	_	_
+21	se	se	_	_	CONJ	_	_	_	_
+22	non	non	_	_	NEG;ADV	_	_	_	_
+23	quería	querer	_	_	IPFV;V;SG;3;IND;FIN	_	_	_	_
+24	que	que	_	_	CONJ	_	_	_	_
+25	o	o	_	_	DEF;MASC;DET;SG	_	_	_	_
+26	ex	ex	_	_	SG;ADJ;MASC	_	_	_	_
+27	alcalde	alcalde	_	_	N;SG;MASC	_	_	_	_
+28	controlase	controlar	_	_	V;SG;PST;3;FIN;SBJV	_	_	_	_
+29	a	o	_	_	DEF;FEM;DET;SG	_	_	_	_
+30	provincia	provincia	_	_	N;SG;FEM	_	_	_	_
+31	de	de	_	_	ADP	_	_	_	_
+32	Pontevedra	Pontevedra	_	_	PROPN	_	_	_	_
+33	,	,	_	_	_	_	_	_	_
+34	a	o	_	_	FEM;PRO;SG;3	_	_	_	_
+35	de	de	_	_	ADP	_	_	_	_
+36	máis	máis	_	_	ADV	_	_	_	_
+37	peso	peso	_	_	N;SG;MASC	_	_	_	_
+38	partidario	partidario	_	_	SG;ADJ;MASC	_	_	_	_
+39	,	,	_	_	_	_	_	_	_
+40	e	e	_	_	CONJ	_	_	_	_
+41	ameazase	ameazar	_	_	V;SG;PST;3;FIN;SBJV	_	_	_	_
+42	o	o	_	_	DEF;MASC;DET;SG	_	_	_	_
+43	seu	seu	_	_	PSSS;MASC;DET;SG;3	_	_	_	_
+44	liderado	liderado	_	_	N;SG;MASC	_	_	_	_
+45	en	en	_	_	ADP	_	_	_	_
+46	o	o	_	_	DEF;MASC;DET;SG	_	_	_	_
+47	próximo	próximo	_	_	SG;ADJ;MASC	_	_	_	_
+48	congreso	congreso	_	_	N;SG;MASC	_	_	_	_
+49	galego	galego	_	_	SG;ADJ;MASC	_	_	_	_
+50	,	,	_	_	_	_	_	_	_
+51	que	que	_	_	CONJ	_	_	_	_
+52	é	ser	_	_	V;SG;3;IND;PRS;FIN	_	_	_	_
+53	a	a	_	_	ADP	_	_	_	_
+54	o	o	_	_	DEF;MASC;DET;SG	_	_	_	_
+55	que	que	_	_	SG;PRO;MASC	_	_	_	_
+56	aspira	aspirar	_	_	V;SG;3;IND;PRS;FIN	_	_	_	_
+57	o	o	_	_	DEF;MASC;DET;SG	_	_	_	_
+58	ex	ex	_	_	SG;ADJ;MASC	_	_	_	_
+59	alcalde	alcalde	_	_	N;SG;MASC	_	_	_	_
+60	vigués	vigués	_	_	SG;ADJ;MASC	_	_	_	_
+61	.	.	_	_	_	_	_	_	_
+
+# sent_id = 887
+# text = O actor suízo Bruno Ganz no papel de Adolf Hitler.
+1	O	o	_	_	DEF;MASC;DET;SG	_	_	_	_
+2	actor	actor	_	_	N;SG;MASC	_	_	_	_
+3	suízo	suízo	_	_	SG;ADJ;MASC	_	_	_	_
+4	Bruno	bruno	_	_	PROPN;MASC	_	_	_	_
+5	Ganz	ganz	_	_	PROPN;MASC	_	_	_	_
+6	en	en	_	_	ADP	_	_	_	_
+7	o	o	_	_	DEF;MASC;DET;SG	_	_	_	_
+8	papel	papel	_	_	N;SG;MASC	_	_	_	_
+9	de	de	_	_	ADP	_	_	_	_
+10	Adolf	adolf	_	_	PROPN;MASC	_	_	_	_
+11	Hitler	hitler	_	_	PROPN;MASC	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = 630
+# text = Un discurso que nos amosa dous tipos de vida distintos: a dos habitantes de Abades, que ven a súa vida cotiá condicionada polas contínuas accións represoras, e a dos fuxidos, refuxiados en covas de dificil acceso, unha vida que dificilmente se pode chamar así.
+1	Un	un	_	_	MASC;INDF;DET;SG	_	_	_	_
+2	discurso	discurso	_	_	N;SG;MASC	_	_	_	_
+3	que	que	_	_	SG;PRO;MASC	_	_	_	_
+4	nos	nos	_	_	PRO;PL;MASC+FEM;1;DAT	_	_	_	_
+5	amosa	amosar	_	_	V;SG;3;IND;PRS;FIN	_	_	_	_
+6	dous	dous	_	_	NUM;PL;MASC	_	_	_	_
+7	tipos	tipo	_	_	N;PL;MASC	_	_	_	_
+8	de	de	_	_	ADP	_	_	_	_
+9	vida	vida	_	_	N;SG;FEM	_	_	_	_
+10	distintos	distinto	_	_	PL;ADJ;MASC	_	_	_	_
+11	:	:	_	_	_	_	_	_	_
+12	a	o	_	_	DEF;FEM;PRO;SG	_	_	_	_
+13	de	de	_	_	ADP	_	_	_	_
+14	os	o	_	_	MASC;DET;PL;3	_	_	_	_
+15	habitantes	habitante	_	_	N;PL;MASC	_	_	_	_
+16	de	de	_	_	ADP	_	_	_	_
+17	Abades	Abades	_	_	PROPN	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	que	que	_	_	PL;PRO;MASC	_	_	_	_
+20	ven	ver	_	_	PL;V;3;IND;PRS;FIN	_	_	_	_
+21	a	o	_	_	DEF;FEM;DET;SG	_	_	_	_
+22	súa	seu	_	_	PSSP;FEM;DET;SG;3	_	_	_	_
+23	vida	vida	_	_	N;SG;FEM	_	_	_	_
+24	cotiá	cotián	_	_	SG;FEM;ADJ	_	_	_	_
+25	condicionada	condicionar	_	_	V.PTCP;SG;FEM;V	_	_	_	_
+26	por	por	_	_	ADP	_	_	_	_
+27	las	o	_	_	DEF;FEM;DET;PL	_	_	_	_
+28	contínuas	contínuo	_	_	FEM;ADJ;PL	_	_	_	_
+29	accións	acción	_	_	N;FEM;PL	_	_	_	_
+30	represoras	represor	_	_	FEM;ADJ;PL	_	_	_	_
+31	,	,	_	_	_	_	_	_	_
+32	e	e	_	_	CONJ	_	_	_	_
+33	a	o	_	_	FEM;PRO;SG;3	_	_	_	_
+34	de	de	_	_	ADP	_	_	_	_
+35	os	o	_	_	DEF;MASC;DET;PL	_	_	_	_
+36	fuxidos	fuxido	_	_	N;PL;MASC	_	_	_	_
+37	,	,	_	_	_	_	_	_	_
+38	refuxiados	refuxiar	_	_	V.PTCP;PL;V;MASC	_	_	_	_
+39	en	en	_	_	ADP	_	_	_	_
+40	covas	cova	_	_	N;FEM;PL	_	_	_	_
+41	de	de	_	_	ADP	_	_	_	_
+42	dificil	dificil	_	_	SG;ADJ;MASC	_	_	_	_
+43	acceso	acceso	_	_	N;SG;MASC	_	_	_	_
+44	,	,	_	_	_	_	_	_	_
+45	unha	un	_	_	FEM;INDF;DET;SG	_	_	_	_
+46	vida	vida	_	_	N;SG;FEM	_	_	_	_
+47	que	que	_	_	SG;FEM;PRO	_	_	_	_
+48	dificilmente	dificilmente	_	_	ADV	_	_	_	_
+49	se	se	_	_	PRO;MASC+FEM;3	_	_	_	_
+50	pode	poder	_	_	V;SG;3;IND;PRS;FIN	_	_	_	_
+51	chamar	chamar	_	_	NFIN;V	_	_	_	_
+52	así	así	_	_	ADV	_	_	_	_
+53	.	.	_	_	_	_	_	_	_
+
+# sent_id = 377
+# text = 'A Consellaría quere converter o naufraxio nun milagro que fixo aumentar a pesca'
+1	'	'	_	_	_	_	_	_	_
+2	A	o	_	_	DEF;FEM;DET;SG	_	_	_	_
+3	Consellaría	Consellaría	_	_	SG;FEM;PROPN	_	_	_	_
+4	quere	querer	_	_	V;SG;3;IND;PRS;FIN	_	_	_	_
+5	converter	converter	_	_	NFIN;V	_	_	_	_
+6	o	o	_	_	DEF;MASC;DET;SG	_	_	_	_
+7	naufraxio	naufraxio	_	_	N;SG;MASC	_	_	_	_
+8	en	en	_	_	ADP	_	_	_	_
+9	un	un	_	_	MASC;INDF;DET;SG	_	_	_	_
+10	milagro	milagro	_	_	N;SG;MASC	_	_	_	_
+11	que	que	_	_	SG;PRO;MASC	_	_	_	_
+12	fixo	facer	_	_	V;SG;PST;3;IND;FIN	_	_	_	_
+13	aumentar	aumentar	_	_	NFIN;V	_	_	_	_
+14	a	o	_	_	DEF;FEM;DET;SG	_	_	_	_
+15	pesca	pesca	_	_	N;SG;FEM	_	_	_	_
+16	'	'	_	_	_	_	_	_	_
+
+# sent_id = 171
+# text = "abonda".
+1	"	"	_	_	_	_	_	_	_
+2	abonda	abondar	_	_	SG;IND;PRS;V;FIN;3	_	_	_	_
+3	"	"	_	_	_	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = 527
+# text = Os socialistas, que recoñecen a Galiza como nación e o Estatuto como a "expresión xurídica entre a pluralidade de comunidades que integran o Estado español", insiren a súa reforma totalmente no marco da constitución actual.
+1	Os	o	_	_	DEF;MASC;DET;PL	_	_	_	_
+2	socialistas	socialista	_	_	N;PL;MASC	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	que	que	_	_	PL;PRO;MASC	_	_	_	_
+5	recoñecen	recoñecer	_	_	PL;V;3;IND;PRS;FIN	_	_	_	_
+6	a	a	_	_	ADP	_	_	_	_
+7	Galiza	Galiza	_	_	PROPN	_	_	_	_
+8	como	como	_	_	ADV	_	_	_	_
+9	nación	nación	_	_	N;SG;FEM	_	_	_	_
+10	e	e	_	_	CONJ	_	_	_	_
+11	o	o	_	_	DEF;MASC;DET;SG	_	_	_	_
+12	Estatuto	Estatuto	_	_	SG;PROPN;MASC	_	_	_	_
+13	como	como	_	_	ADV	_	_	_	_
+14	a	o	_	_	DEF;FEM;DET;SG	_	_	_	_
+15	"	"	_	_	_	_	_	_	_
+16	expresión	expresión	_	_	N;SG;FEM	_	_	_	_
+17	xurídica	xurídico	_	_	SG;FEM;ADJ	_	_	_	_
+18	entre	entre	_	_	ADP	_	_	_	_
+19	a	o	_	_	DEF;FEM;DET;SG	_	_	_	_
+20	pluralidade	pluralidade	_	_	N;SG;FEM	_	_	_	_
+21	de	de	_	_	ADP	_	_	_	_
+22	comunidades	comunidade	_	_	N;FEM;PL	_	_	_	_
+23	que	que	_	_	PL;FEM;PRO	_	_	_	_
+24	integran	integrar	_	_	PL;V;3;IND;PRS;FIN	_	_	_	_
+25	o	o	_	_	DEF;MASC;DET;SG	_	_	_	_
+26	Estado	Estado	_	_	SG;PROPN;MASC	_	_	_	_
+27	español	español	_	_	SG;ADJ;MASC	_	_	_	_
+28	"	"	_	_	_	_	_	_	_
+29	,	,	_	_	_	_	_	_	_
+30	insiren	inserir	_	_	PL;V;3;IND;PRS;FIN	_	_	_	_
+31	a	o	_	_	DEF;FEM;DET;SG	_	_	_	_
+32	súa	seu	_	_	PSSP;FEM;DET;SG;3	_	_	_	_
+33	reforma	reforma	_	_	N;SG;FEM	_	_	_	_
+34	totalmente	totalmente	_	_	ADV	_	_	_	_
+35	en	en	_	_	ADP	_	_	_	_
+36	o	o	_	_	DEF;MASC;DET;SG	_	_	_	_
+37	marco	marco	_	_	N;SG;MASC	_	_	_	_
+38	de	de	_	_	ADP	_	_	_	_
+39	a	o	_	_	DEF;FEM;DET;SG	_	_	_	_
+40	constitución	constitución	_	_	N;SG;FEM	_	_	_	_
+41	actual	actual	_	_	SG;FEM;ADJ	_	_	_	_
+42	.	.	_	_	_	_	_	_	_
+
+# sent_id = 344
+# text = A Casa da Auga
+1	A	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+2	Casa	casa	_	_	PROPN;FEM;SG	_	_	_	_
+3	de	de	_	_	ADP	_	_	_	_
+4	a	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+5	Auga	auga	_	_	PROPN;FEM;SG	_	_	_	_
+
+# sent_id = 598
+# text = Ou porque non se axusta ao modelo moral cristián (cuíño, cuíño ...)?
+1	Ou	ou	_	_	CONJ	_	_	_	_
+2	porque	porque	_	_	CONJ	_	_	_	_
+3	non	non	_	_	ADV;NEG	_	_	_	_
+4	se	se	_	_	MASC+FEM;PRO;3	_	_	_	_
+5	axusta	axustar	_	_	SG;IND;PRS;V;FIN;3	_	_	_	_
+6	a	a	_	_	ADP	_	_	_	_
+7	o	o	_	_	DEF;SG;DET;MASC	_	_	_	_
+8	modelo	modelo	_	_	MASC;N;SG	_	_	_	_
+9	moral	moral	_	_	ADJ;MASC;SG	_	_	_	_
+10	cristián	cristián	_	_	ADJ;MASC;SG	_	_	_	_
+11	(	(	_	_	_	_	_	_	_
+12	cuíño	cu	_	_	MASC;N;SG	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	cuíño	cu	_	_	MASC;N;SG	_	_	_	_
+15	...	...	_	_	_	_	_	_	_
+16	)	)	_	_	_	_	_	_	_
+17	?	?	_	_	_	_	_	_	_
+
+# sent_id = 925
+# text = Falamos de algo moi particularmente xaponés ou que xa se estendeu polo mundo?
+1	Falamos	falar	_	_	IND;PL;V;1;PRS;FIN	_	_	_	_
+2	de	de	_	_	ADP	_	_	_	_
+3	algo	algo	_	_	SG;PRO;MASC	_	_	_	_
+4	moi	moito	_	_	ADV	_	_	_	_
+5	particularmente	particularmente	_	_	ADV	_	_	_	_
+6	xaponés	xaponés	_	_	SG;ADJ;MASC	_	_	_	_
+7	ou	ou	_	_	CONJ	_	_	_	_
+8	que	que	_	_	SG;PRO;MASC	_	_	_	_
+9	xa	xa	_	_	ADV	_	_	_	_
+10	se	se	_	_	PRO;MASC+FEM;3	_	_	_	_
+11	estendeu	estender	_	_	V;SG;PST;3;IND;FIN	_	_	_	_
+12	por	por	_	_	ADP	_	_	_	_
+13	lo	o	_	_	DEF;MASC;DET;SG	_	_	_	_
+14	mundo	mundo	_	_	N;SG;MASC	_	_	_	_
+15	?	?	_	_	_	_	_	_	_
+
+# sent_id = 476
+# text = En canto varios medios accedan, o resto irán detrás porque non poderán aguantar a presión pública.
+1	En	en	_	_	ADP	_	_	_	_
+2	canto	canto	_	_	ADV	_	_	_	_
+3	varios	varios	_	_	MASC;DET;PL	_	_	_	_
+4	medios	medio	_	_	MASC;N;PL	_	_	_	_
+5	accedan	acceder	_	_	SBJV;PL;PRS;V;FIN;3	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	o	o	_	_	DEF;SG;DET;MASC	_	_	_	_
+8	resto	resto	_	_	MASC;N;SG	_	_	_	_
+9	irán	ir	_	_	PL;3;IND;V;FIN;FUT	_	_	_	_
+10	detrás	detrás	_	_	ADV	_	_	_	_
+11	porque	porque	_	_	CONJ	_	_	_	_
+12	non	non	_	_	ADV;NEG	_	_	_	_
+13	poderán	poder	_	_	PL;3;IND;V;FIN;FUT	_	_	_	_
+14	aguantar	aguantar	_	_	V;NFIN	_	_	_	_
+15	a	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+16	presión	presión	_	_	FEM;N;SG	_	_	_	_
+17	pública	público	_	_	ADJ;FEM;SG	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = 672
+# text = Unha delas, os Tristemil, sacódense por un asasinato entre xemelgos por causa dun morgadío.
+1	Unha	un	_	_	SG;FEM;PRO	_	_	_	_
+2	de	de	_	_	ADP	_	_	_	_
+3	elas	el	_	_	FEM;PRO;PL;3	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	os	o	_	_	DEF;MASC;DET;PL	_	_	_	_
+6	Tristemil	Tristemil	_	_	PL;PROPN;MASC	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	sacoden	sacudir	_	_	PL;V;3;IND;PRS;FIN	_	_	_	_
+9	se	se	_	_	PRO;MASC+FEM;3	_	_	_	_
+10	por	por	_	_	ADP	_	_	_	_
+11	un	un	_	_	MASC;INDF;DET;SG	_	_	_	_
+12	asasinato	asasinato	_	_	N;SG;MASC	_	_	_	_
+13	entre	entre	_	_	ADP	_	_	_	_
+14	xemelgos	xemelgo	_	_	N;PL;MASC	_	_	_	_
+15	por	por	_	_	ADP	_	_	_	_
+16	causa	causa	_	_	N;SG;FEM	_	_	_	_
+17	de	de	_	_	ADP	_	_	_	_
+18	un	un	_	_	MASC;INDF;DET;SG	_	_	_	_
+19	morgadío	morgadío	_	_	N;SG;MASC	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# sent_id = 437
+# text = Soan os tambores do crime.
+1	Soan	soar	_	_	PL;V;3;IND;PRS;FIN	_	_	_	_
+2	os	o	_	_	DEF;MASC;DET;PL	_	_	_	_
+3	tambores	tambor	_	_	N;PL;MASC	_	_	_	_
+4	de	de	_	_	ADP	_	_	_	_
+5	o	o	_	_	DEF;MASC;DET;SG	_	_	_	_
+6	crime	crime	_	_	N;SG;MASC	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = 224
+# text = Como máxima dirixente local dos socialistas manifesta unha posición inequívoca a prol do traslado de ENCE.
+1	Como	como	_	_	ADV	_	_	_	_
+2	máxima	máximo	_	_	ADJ;RL;FEM;SG	_	_	_	_
+3	dirixente	dirixente	_	_	FEM;N;SG	_	_	_	_
+4	local	local	_	_	ADJ;FEM;SG	_	_	_	_
+5	de	de	_	_	ADP	_	_	_	_
+6	os	o	_	_	DEF;PL;DET;MASC	_	_	_	_
+7	socialistas	socialista	_	_	MASC;N;PL	_	_	_	_
+8	manifesta	manifestar	_	_	SG;IND;PRS;V;FIN;3	_	_	_	_
+9	unha	un	_	_	SG;INDF;FEM;DET	_	_	_	_
+10	posición	posición	_	_	FEM;N;SG	_	_	_	_
+11	inequívoca	inequívoco	_	_	ADJ;FEM;SG	_	_	_	_
+12	a	a	_	_	ADP	_	_	_	_
+13	prol	prol	_	_	MASC+FEM;N;SG	_	_	_	_
+14	de	de	_	_	ADP	_	_	_	_
+15	o	o	_	_	DEF;SG;DET;MASC	_	_	_	_
+16	traslado	traslado	_	_	MASC;N;SG	_	_	_	_
+17	de	de	_	_	ADP	_	_	_	_
+18	ENCE	ENCE	_	_	PROPN	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# sent_id = 306
+# text = O director xeral de Costas ten a mesma postura e a ministra de Medio Ambiente é rotunda.
+1	O	o	_	_	DEF;SG;DET;MASC	_	_	_	_
+2	director	director	_	_	MASC;N;SG	_	_	_	_
+3	xeral	xeral	_	_	ADJ;MASC;SG	_	_	_	_
+4	de	de	_	_	ADP	_	_	_	_
+5	Costas	Costas	_	_	PROPN	_	_	_	_
+6	ten	ter	_	_	SG;IND;PRS;V;FIN;3	_	_	_	_
+7	a	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+8	mesma	mesmo	_	_	DET;FEM;SG	_	_	_	_
+9	postura	postura	_	_	FEM;N;SG	_	_	_	_
+10	e	e	_	_	CONJ	_	_	_	_
+11	a	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+12	ministra	ministro	_	_	FEM;N;SG	_	_	_	_
+13	de	de	_	_	ADP	_	_	_	_
+14	Medio	medio	_	_	PROPN	_	_	_	_
+15	Ambiente	ambiente	_	_	PROPN	_	_	_	_
+16	é	ser	_	_	SG;IND;V;PRS;FIN;3	_	_	_	_
+17	rotunda	rotundo	_	_	ADJ;FEM;SG	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = 99
+# text = Tanto nacionalistas como socialistas son conscientes de que o maior inimigo para derrotar o PP é transmitir a idea de revoltixo nun futuro goberno autonómico.
+1	Tanto	tanto	_	_	ADV	_	_	_	_
+2	nacionalistas	nacionalista	_	_	MASC+FEM;N;PL	_	_	_	_
+3	como	como	_	_	CONJ	_	_	_	_
+4	socialistas	socialista	_	_	MASC+FEM;N;PL	_	_	_	_
+5	son	ser	_	_	PL;IND;V;PRS;FIN;3	_	_	_	_
+6	conscientes	consciente	_	_	ADJ;MASC+FEM;PL	_	_	_	_
+7	de	de	_	_	ADP	_	_	_	_
+8	que	que	_	_	CONJ	_	_	_	_
+9	o	o	_	_	DEF;SG;DET;MASC	_	_	_	_
+10	maior	maior	_	_	ADJ;MASC;CMPR;SG	_	_	_	_
+11	inimigo	inimigo	_	_	MASC;N;SG	_	_	_	_
+12	para	para	_	_	ADP	_	_	_	_
+13	derrotar	derrotar	_	_	V;NFIN	_	_	_	_
+14	o	o	_	_	DEF;SG;DET;MASC	_	_	_	_
+15	PP	PP	_	_	PROPN;MASC;SG	_	_	_	_
+16	é	ser	_	_	SG;IND;V;PRS;FIN;3	_	_	_	_
+17	transmitir	transmitir	_	_	V;NFIN	_	_	_	_
+18	a	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+19	idea	idea	_	_	FEM;N;SG	_	_	_	_
+20	de	de	_	_	ADP	_	_	_	_
+21	revoltixo	revoltixo	_	_	MASC;N;SG	_	_	_	_
+22	en	en	_	_	ADP	_	_	_	_
+23	un	un	_	_	SG;INDF;DET;MASC	_	_	_	_
+24	futuro	futuro	_	_	ADJ;MASC;SG	_	_	_	_
+25	goberno	goberno	_	_	MASC;N;SG	_	_	_	_
+26	autonómico	autonómico	_	_	ADJ;MASC;SG	_	_	_	_
+27	.	.	_	_	_	_	_	_	_
+
+# sent_id = 276
+# text = Que se cumpra a legalidade, que busque outra localización non perniciosa.
+1	Que	que	_	_	CONJ	_	_	_	_
+2	se	se	_	_	MASC+FEM;PRO;3	_	_	_	_
+3	cumpra	cumprir	_	_	SBJV;SG;PRS;V;FIN;3	_	_	_	_
+4	a	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+5	legalidade	legalidade	_	_	FEM;N;SG	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	que	que	_	_	CONJ	_	_	_	_
+8	busque	buscar	_	_	SBJV;SG;PRS;V;FIN;3	_	_	_	_
+9	outra	outro	_	_	DET;FEM;SG	_	_	_	_
+10	localización	localización	_	_	FEM;N;SG	_	_	_	_
+11	non	non	_	_	ADV;NEG	_	_	_	_
+12	perniciosa	pernicioso	_	_	ADJ;FEM;SG	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = 555
+# text = A tradución _ver recadro_ está traballada, pero aos ollos de hoxe adoece basicamente do abuso do hiperenxebrismo.
+1	A	o	_	_	DEF;FEM;DET;SG	_	_	_	_
+2	tradución	tradución	_	_	N;SG;FEM	_	_	_	_
+3	_	_	_	_	_	_	_	_	_
+4	ver	ver	_	_	NFIN;V	_	_	_	_
+5	recadro	recadro	_	_	N;SG;MASC	_	_	_	_
+6	_	_	_	_	_	_	_	_	_
+7	está	estar	_	_	V;SG;3;IND;PRS;FIN	_	_	_	_
+8	traballada	traballado	_	_	SG;FEM;ADJ	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	pero	pero	_	_	CONJ	_	_	_	_
+11	a	a	_	_	ADP	_	_	_	_
+12	os	o	_	_	DEF;MASC;DET;PL	_	_	_	_
+13	ollos	ollo	_	_	N;PL;MASC	_	_	_	_
+14	de	de	_	_	ADP	_	_	_	_
+15	hoxe	hoxe	_	_	ADV	_	_	_	_
+16	adoece	adoecer	_	_	V;SG;3;IND;PRS;FIN	_	_	_	_
+17	basicamente	basicamente	_	_	ADV	_	_	_	_
+18	de	de	_	_	ADP	_	_	_	_
+19	o	o	_	_	DEF;MASC;DET;SG	_	_	_	_
+20	abuso	abuso	_	_	N;SG;MASC	_	_	_	_
+21	de	de	_	_	ADP	_	_	_	_
+22	o	o	_	_	DEF;MASC;DET;SG	_	_	_	_
+23	hiperenxebrismo	hiperenxebrismo	_	_	N;SG;MASC	_	_	_	_
+24	.	.	_	_	_	_	_	_	_
+
+# sent_id = 425
+# text = Música para outra guerra
+1	Música	música	_	_	N;SG;FEM	_	_	_	_
+2	para	para	_	_	ADP	_	_	_	_
+3	outra	outro	_	_	SG;DET;FEM	_	_	_	_
+4	guerra	guerra	_	_	N;SG;FEM	_	_	_	_
+
+# sent_id = 662
+# text = En Galiza non se regularizan apenas inmigrantes.
+1	En	en	_	_	ADP	_	_	_	_
+2	Galiza	Galiza	_	_	PROPN	_	_	_	_
+3	non	non	_	_	NEG;ADV	_	_	_	_
+4	se	se	_	_	PRO;MASC+FEM;3	_	_	_	_
+5	regularizan	regularizar	_	_	PL;V;3;IND;PRS;FIN	_	_	_	_
+6	apenas	apenas	_	_	ADV	_	_	_	_
+7	inmigrantes	inmigrante	_	_	N;MASC+FEM;PL	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = 836
+# text = Coincide co Tratado Constitucional da UE, cando, tamén no seu Preámbulo, di que os "pobos de Europa, sen deixar de sentirse orgullosos da súa identidade e da súa historia nacional, están decididos a superar as súas antigas divisións e, cada vez máis estreitamente unidos, a forzaren un destino común".
+1	Coincide	coincidir	_	_	SG;IND;PRS;V;FIN;3	_	_	_	_
+2	con	con	_	_	ADP	_	_	_	_
+3	o	o	_	_	DEF;SG;DET;MASC	_	_	_	_
+4	Tratado	tratado	_	_	PROPN;MASC;SG	_	_	_	_
+5	Constitucional	constitucional	_	_	ADJ;MASC;SG	_	_	_	_
+6	de	de	_	_	ADP	_	_	_	_
+7	a	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+8	UE	ue	_	_	PROPN;FEM;SG	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	cando	cando	_	_	ADV	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	tamén	tamén	_	_	ADV	_	_	_	_
+13	en	en	_	_	ADP	_	_	_	_
+14	o	o	_	_	DEF;SG;DET;MASC	_	_	_	_
+15	seu	seu	_	_	PSSS;SG;DET;MASC;3	_	_	_	_
+16	Preámbulo	Preámbulo	_	_	PROPN;MASC;SG	_	_	_	_
+17	,	,	_	_	_	_	_	_	_
+18	di	dicir	_	_	SG;IND;PRS;V;FIN;3	_	_	_	_
+19	que	que	_	_	CONJ	_	_	_	_
+20	os	o	_	_	DEF;PL;DET;MASC	_	_	_	_
+21	"	"	_	_	_	_	_	_	_
+22	pobos	pobo	_	_	MASC;N;PL	_	_	_	_
+23	de	de	_	_	ADP	_	_	_	_
+24	Europa	Europa	_	_	PROPN	_	_	_	_
+25	,	,	_	_	_	_	_	_	_
+26	sen	sen	_	_	ADP;NEG	_	_	_	_
+27	deixar	deixar	_	_	V;NFIN	_	_	_	_
+28	de	de	_	_	ADP	_	_	_	_
+29	sentir	sentir	_	_	V;NFIN	_	_	_	_
+30	se	se	_	_	MASC+FEM;PRO;3	_	_	_	_
+31	orgullosos	orgulloso	_	_	ADJ;MASC;PL	_	_	_	_
+32	de	de	_	_	ADP	_	_	_	_
+33	a	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+34	súa	seu	_	_	PSSP;SG;FEM;DET;3	_	_	_	_
+35	identidade	identidade	_	_	FEM;N;SG	_	_	_	_
+36	e	e	_	_	CONJ	_	_	_	_
+37	de	de	_	_	ADP	_	_	_	_
+38	a	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+39	súa	seu	_	_	PSSP;SG;FEM;DET;3	_	_	_	_
+40	historia	historia	_	_	FEM;N;SG	_	_	_	_
+41	nacional	nacional	_	_	ADJ;FEM;SG	_	_	_	_
+42	,	,	_	_	_	_	_	_	_
+43	están	estar	_	_	PL;IND;V;PRS;FIN;3	_	_	_	_
+44	decididos	decidido	_	_	ADJ;MASC;PL	_	_	_	_
+45	a	a	_	_	ADP	_	_	_	_
+46	superar	superar	_	_	V;NFIN	_	_	_	_
+47	as	o	_	_	DEF;PL;FEM;DET	_	_	_	_
+48	súas	seu	_	_	PSSP;PL;FEM;DET;3	_	_	_	_
+49	antigas	antigo	_	_	ADJ;FEM;PL	_	_	_	_
+50	divisións	división	_	_	FEM;N;PL	_	_	_	_
+51	e	e	_	_	CONJ	_	_	_	_
+52	,	,	_	_	_	_	_	_	_
+53	cada	cada	_	_	DET;FEM;SG	_	_	_	_
+54	vez	vez	_	_	FEM;N;SG	_	_	_	_
+55	máis	máis	_	_	ADV	_	_	_	_
+56	estreitamente	estreitamente	_	_	ADV	_	_	_	_
+57	unidos	unido	_	_	ADJ;MASC;PL	_	_	_	_
+58	,	,	_	_	_	_	_	_	_
+59	a	a	_	_	ADP	_	_	_	_
+60	forzaren	forzar	_	_	V;NFIN;3;PL	_	_	_	_
+61	un	un	_	_	SG;INDF;DET;MASC	_	_	_	_
+62	destino	destino	_	_	MASC;N;SG	_	_	_	_
+63	común	común	_	_	ADJ;MASC;SG	_	_	_	_
+64	"	"	_	_	_	_	_	_	_
+65	.	.	_	_	_	_	_	_	_
+
+# sent_id = 667
+# text = Debería representar os Estados Unidos, pola nacionalidade da axencia publicitaria autora da música.
+1	Debería	deber	_	_	{COND/IND};V;SG;3;FIN	_	_	_	_
+2	representar	representar	_	_	NFIN;V	_	_	_	_
+3	os	o	_	_	DEF;MASC;DET;PL	_	_	_	_
+4	Estados	estados	_	_	PL;PROPN;MASC	_	_	_	_
+5	Unidos	unido	_	_	PL;ADJ;MASC	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	por	por	_	_	ADP	_	_	_	_
+8	la	o	_	_	DEF;FEM;DET;SG	_	_	_	_
+9	nacionalidade	nacionalidade	_	_	N;SG;FEM	_	_	_	_
+10	de	de	_	_	ADP	_	_	_	_
+11	a	o	_	_	DEF;FEM;DET;SG	_	_	_	_
+12	axencia	axencia	_	_	N;SG;FEM	_	_	_	_
+13	publicitaria	publicitario	_	_	SG;FEM;ADJ	_	_	_	_
+14	autora	autor	_	_	N;SG;FEM	_	_	_	_
+15	de	de	_	_	ADP	_	_	_	_
+16	a	o	_	_	DEF;FEM;DET;SG	_	_	_	_
+17	música	música	_	_	N;SG;FEM	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = 487
+# text = Non embargante, non hai que ler un estudo para saber como está a profesión.
+1	Non	non	_	_	ADV	_	_	_	_
+2	embargante	embargante	_	_	MASC+FEM;SG;ADJ	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	non	non	_	_	NEG;ADV	_	_	_	_
+5	hai	haber	_	_	V;SG;3;IND;PRS;FIN	_	_	_	_
+6	que	que	_	_	CONJ	_	_	_	_
+7	ler	ler	_	_	NFIN;V	_	_	_	_
+8	un	un	_	_	MASC;INDF;DET;SG	_	_	_	_
+9	estudo	estudo	_	_	N;SG;MASC	_	_	_	_
+10	para	para	_	_	ADP	_	_	_	_
+11	saber	saber	_	_	NFIN;V	_	_	_	_
+12	como	como	_	_	ADV	_	_	_	_
+13	está	estar	_	_	V;SG;3;IND;PRS;FIN	_	_	_	_
+14	a	o	_	_	DEF;FEM;DET;SG	_	_	_	_
+15	profesión	profesión	_	_	N;SG;FEM	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = 275
+# text = ¿E a súa alternativa?
+1	¿	¿	_	_	_	_	_	_	_
+2	E	e	_	_	CONJ	_	_	_	_
+3	a	o	_	_	DEF;FEM;DET;SG	_	_	_	_
+4	súa	seu	_	_	PSSS;FEM;DET;SG;3	_	_	_	_
+5	alternativa	alternativa	_	_	N;SG;FEM	_	_	_	_
+6	?	?	_	_	_	_	_	_	_
+
+# sent_id = 810
+# text = Considera importante que calquera músico teña certas nocións dun instrumento harmónico?
+1	Considera	considerar	_	_	V;SG;3;IND;PRS;FIN	_	_	_	_
+2	importante	importante	_	_	SG;ADJ;MASC	_	_	_	_
+3	que	que	_	_	CONJ	_	_	_	_
+4	calquera	calquera	_	_	SG;DET;MASC	_	_	_	_
+5	músico	músico	_	_	N;SG;MASC	_	_	_	_
+6	teña	ter	_	_	V;SG;3;PRS;FIN;SBJV	_	_	_	_
+7	certas	certo	_	_	PL;DET;FEM	_	_	_	_
+8	nocións	noción	_	_	N;FEM;PL	_	_	_	_
+9	de	de	_	_	ADP	_	_	_	_
+10	un	un	_	_	MASC;INDF;DET;SG	_	_	_	_
+11	instrumento	instrumento	_	_	N;SG;MASC	_	_	_	_
+12	harmónico	harmónico	_	_	SG;ADJ;MASC	_	_	_	_
+13	?	?	_	_	_	_	_	_	_
+
+# sent_id = 651
+# text = Edita Xerais.
+1	Edita	editar	_	_	SG;IND;PRS;V;FIN;3	_	_	_	_
+2	Xerais	Xerais	_	_	PROPN	_	_	_	_
+3	.	.	_	_	_	_	_	_	_
+
+# sent_id = 562
+# text = En decembro de 1976, un grupo de tres persoas, Lois Miguel Lustres, Xerardo R. Roca e Camilo F. González, publican na histórica colección O Moucho de Edicións Castrelos, Sancho na Insua Barataria, pasaxes dos capítulos 45, 47, 49, 51 e 53 da segunda parte.
+1	En	en	_	_	ADP	_	_	_	_
+2	decembro	decembro	_	_	N;SG;MASC	_	_	_	_
+3	de	de	_	_	ADP	_	_	_	_
+4	1976	1976	_	_	NUM;SG;MASC	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	un	un	_	_	MASC;INDF;DET;SG	_	_	_	_
+7	grupo	grupo	_	_	N;SG;MASC	_	_	_	_
+8	de	de	_	_	ADP	_	_	_	_
+9	tres	tres	_	_	NUM;FEM;PL	_	_	_	_
+10	persoas	persoa	_	_	N;FEM;PL	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	Lois	lois	_	_	PROPN;MASC	_	_	_	_
+13	Miguel	miguel	_	_	PROPN;MASC	_	_	_	_
+14	Lustres	lustres	_	_	PROPN;MASC	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	Xerardo	xerardo	_	_	PROPN;MASC	_	_	_	_
+17	R.	r.	_	_	PROPN;MASC	_	_	_	_
+18	Roca	roca	_	_	PROPN;MASC	_	_	_	_
+19	e	e	_	_	CONJ	_	_	_	_
+20	Camilo	camilo	_	_	PROPN;MASC	_	_	_	_
+21	F.	f.	_	_	PROPN;MASC	_	_	_	_
+22	González	gonzález	_	_	PROPN;MASC	_	_	_	_
+23	,	,	_	_	_	_	_	_	_
+24	publican	publicar	_	_	PL;V;3;IND;PRS;FIN	_	_	_	_
+25	en	en	_	_	ADP	_	_	_	_
+26	a	o	_	_	DEF;FEM;DET;SG	_	_	_	_
+27	histórica	histórico	_	_	SG;FEM;ADJ	_	_	_	_
+28	colección	colección	_	_	N;SG;FEM	_	_	_	_
+29	O	o	_	_	DEF;MASC;DET;SG	_	_	_	_
+30	Moucho	moucho	_	_	PROPN	_	_	_	_
+31	de	de	_	_	ADP	_	_	_	_
+32	Edicións	edicións	_	_	PROPN	_	_	_	_
+33	Castrelos	castrelos	_	_	PROPN	_	_	_	_
+34	,	,	_	_	_	_	_	_	_
+35	Sancho	sancho	_	_	PROPN	_	_	_	_
+36	en	en	_	_	ADP	_	_	_	_
+37	a	o	_	_	DEF;FEM;DET;SG	_	_	_	_
+38	Insua	insua	_	_	N;SG;FEM	_	_	_	_
+39	Barataria	baratario	_	_	ADJ	_	_	_	_
+40	,	,	_	_	_	_	_	_	_
+41	pasaxes	pasaxe	_	_	N;FEM;PL	_	_	_	_
+42	de	de	_	_	ADP	_	_	_	_
+43	os	o	_	_	DEF;MASC;DET;PL	_	_	_	_
+44	capítulos	capítulo	_	_	N;PL;MASC	_	_	_	_
+45	45	45	_	_	NUM;SG;MASC	_	_	_	_
+46	,	,	_	_	_	_	_	_	_
+47	47	47	_	_	NUM;SG;MASC	_	_	_	_
+48	,	,	_	_	_	_	_	_	_
+49	49	49	_	_	NUM;SG;MASC	_	_	_	_
+50	,	,	_	_	_	_	_	_	_
+51	51	51	_	_	NUM;SG;MASC	_	_	_	_
+52	e	e	_	_	CONJ	_	_	_	_
+53	53	53	_	_	NUM;SG;MASC	_	_	_	_
+54	de	de	_	_	ADP	_	_	_	_
+55	a	o	_	_	DEF;FEM;DET;SG	_	_	_	_
+56	segunda	segundo	_	_	NUM;SG;FEM	_	_	_	_
+57	parte	parte	_	_	N;SG;FEM	_	_	_	_
+58	.	.	_	_	_	_	_	_	_
+
+# sent_id = 539
+# text = O grupo de teatro da Asociación 'Francisco Lanza' representa Os mortos factúranse e as mulleres desnúdanse, o 4 e 5 de marzo en Rinlo e Cedofeita.
+1	O	o	_	_	DEF;SG;DET;MASC	_	_	_	_
+2	grupo	grupo	_	_	MASC;N;SG	_	_	_	_
+3	de	de	_	_	ADP	_	_	_	_
+4	teatro	teatro	_	_	MASC;N;SG	_	_	_	_
+5	de	de	_	_	ADP	_	_	_	_
+6	a	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+7	Asociación	asociación	_	_	PROPN;FEM;SG	_	_	_	_
+8	'	'	_	_	_	_	_	_	_
+9	Francisco	francisco	_	_	PROPN;FEM;SG	_	_	_	_
+10	Lanza	lanza	_	_	PROPN;FEM;SG	_	_	_	_
+11	'	'	_	_	_	_	_	_	_
+12	representa	representar	_	_	SG;IND;PRS;V;FIN;3	_	_	_	_
+13	Os	o	_	_	DEF;PL;DET;MASC	_	_	_	_
+14	mortos	morto	_	_	MASC;N;PL	_	_	_	_
+15	facturan	facturar	_	_	PROPN	_	_	_	_
+16	se	se	_	_	PRO	_	_	_	_
+17	e	e	_	_	CONJ	_	_	_	_
+18	as	o	_	_	DEF;PL;FEM;DET	_	_	_	_
+19	mulleres	muller	_	_	FEM;N;PL	_	_	_	_
+20	desnudan	denudar	_	_	V;FIN;IND	_	_	_	_
+21	se	se	_	_	PRO	_	_	_	_
+22	,	,	_	_	_	_	_	_	_
+23	o	o	_	_	DEF;SG;DET;MASC	_	_	_	_
+24	4	4	_	_	MASC;NUM;SG	_	_	_	_
+25	e	e	_	_	CONJ	_	_	_	_
+26	5	5	_	_	MASC;NUM;SG	_	_	_	_
+27	de	de	_	_	ADP	_	_	_	_
+28	marzo	marzo	_	_	MASC;N;SG	_	_	_	_
+29	en	en	_	_	ADP	_	_	_	_
+30	Rinlo	Rinlo	_	_	PROPN	_	_	_	_
+31	e	e	_	_	CONJ	_	_	_	_
+32	Cedofeita	Cedofeita	_	_	PROPN	_	_	_	_
+33	.	.	_	_	_	_	_	_	_
+
+# sent_id = 750
+# text = Como eran as súas clases?
+1	Como	como	_	_	ADV	_	_	_	_
+2	eran	ser	_	_	IPFV;PL;V;3;IND;FIN	_	_	_	_
+3	as	o	_	_	DEF;FEM;DET;PL	_	_	_	_
+4	súas	seu	_	_	PSSS;FEM;DET;PL;3	_	_	_	_
+5	clases	clase	_	_	N;FEM;PL	_	_	_	_
+6	?	?	_	_	_	_	_	_	_
+
+# sent_id = 831
+# text = as Bases contemplan o Estatuto como a norma fundamental e primaria da nación galega, e como fundamento político para a relación co Estado español, coa Unión Europea e coas restantes nacións e pobos do mundo.
+1	as	o	_	_	DEF;PL;FEM;DET	_	_	_	_
+2	Bases	Bases	_	_	PROPN;FEM;PL	_	_	_	_
+3	contemplan	contemplar	_	_	PL;IND;PRS;V;FIN;3	_	_	_	_
+4	o	o	_	_	DEF;SG;DET;MASC	_	_	_	_
+5	Estatuto	Estatuto	_	_	PROPN;MASC;SG	_	_	_	_
+6	como	como	_	_	ADV	_	_	_	_
+7	a	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+8	norma	norma	_	_	FEM;N;SG	_	_	_	_
+9	fundamental	fundamental	_	_	ADJ;FEM;SG	_	_	_	_
+10	e	e	_	_	CONJ	_	_	_	_
+11	primaria	primario	_	_	ADJ;FEM;SG	_	_	_	_
+12	de	de	_	_	ADP	_	_	_	_
+13	a	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+14	nación	nación	_	_	FEM;N;SG	_	_	_	_
+15	galega	galego	_	_	ADJ;FEM;SG	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	e	e	_	_	CONJ	_	_	_	_
+18	como	como	_	_	ADV	_	_	_	_
+19	fundamento	fundamento	_	_	MASC;N;SG	_	_	_	_
+20	político	político	_	_	ADJ;MASC;SG	_	_	_	_
+21	para	para	_	_	ADP	_	_	_	_
+22	a	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+23	relación	relación	_	_	FEM;N;SG	_	_	_	_
+24	con	con	_	_	ADP	_	_	_	_
+25	o	o	_	_	DEF;SG;DET;MASC	_	_	_	_
+26	Estado	Estado	_	_	PROPN;MASC;SG	_	_	_	_
+27	español	español	_	_	ADJ;MASC;SG	_	_	_	_
+28	,	,	_	_	_	_	_	_	_
+29	con	con	_	_	ADP	_	_	_	_
+30	a	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+31	Unión	unión	_	_	PROPN;FEM;SG	_	_	_	_
+32	Europea	europeo	_	_	ADJ;FEM;SG	_	_	_	_
+33	e	e	_	_	CONJ	_	_	_	_
+34	con	con	_	_	ADP	_	_	_	_
+35	as	o	_	_	DEF;PL;FEM;DET	_	_	_	_
+36	restantes	restante	_	_	ADJ;FEM;PL	_	_	_	_
+37	nacións	nación	_	_	FEM;N;PL	_	_	_	_
+38	e	e	_	_	CONJ	_	_	_	_
+39	pobos	pobo	_	_	MASC;N;PL	_	_	_	_
+40	de	de	_	_	ADP	_	_	_	_
+41	o	o	_	_	DEF;SG;DET;MASC	_	_	_	_
+42	mundo	mundo	_	_	MASC;N;SG	_	_	_	_
+43	.	.	_	_	_	_	_	_	_
+
+# sent_id = 568
+# text = "Cando me propuxeron a tradución _lembra Arias_ pensei que era unha oportunidade que non se podía desperdiciar e dunha grande importancia para a normalización do galego.
+1	"	"	_	_	_	_	_	_	_
+2	Cando	cando	_	_	ADV	_	_	_	_
+3	me	me	_	_	1;MASC+FEM;PRO;SG;DAT	_	_	_	_
+4	propuxeron	propoñer	_	_	PL;IND;V;FIN;3;PST	_	_	_	_
+5	a	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+6	tradución	tradución	_	_	FEM;N;SG	_	_	_	_
+7	_	_	_	_	_	_	_	_	_
+8	lembra	lembrar	_	_	SG;IND;PRS;V;FIN;3	_	_	_	_
+9	Arias	Arias	_	_	PROPN	_	_	_	_
+10	_	_	_	_	_	_	_	_	_
+11	pensei	pensar	_	_	1;SG;IND;V;FIN;PST	_	_	_	_
+12	que	que	_	_	CONJ	_	_	_	_
+13	era	ser	_	_	SG;IND;V;IPFV;FIN;3	_	_	_	_
+14	unha	un	_	_	SG;INDF;FEM;DET	_	_	_	_
+15	oportunidade	oportunidade	_	_	FEM;N;SG	_	_	_	_
+16	que	que	_	_	FEM;PRO;SG	_	_	_	_
+17	non	non	_	_	ADV;NEG	_	_	_	_
+18	se	se	_	_	MASC+FEM;PRO;3	_	_	_	_
+19	podía	poder	_	_	SG;IND;V;IPFV;FIN;3	_	_	_	_
+20	desperdiciar	desperdiciar	_	_	V;NFIN	_	_	_	_
+21	e	e	_	_	CONJ	_	_	_	_
+22	de	de	_	_	ADP	_	_	_	_
+23	unha	un	_	_	SG;INDF;FEM;DET	_	_	_	_
+24	grande	grande	_	_	ADJ;FEM;SG	_	_	_	_
+25	importancia	importancia	_	_	FEM;N;SG	_	_	_	_
+26	para	para	_	_	ADP	_	_	_	_
+27	a	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+28	normalización	normalización	_	_	FEM;N;SG	_	_	_	_
+29	de	de	_	_	ADP	_	_	_	_
+30	o	o	_	_	DEF;SG;DET;MASC	_	_	_	_
+31	galego	galego	_	_	MASC;N;SG	_	_	_	_
+32	.	.	_	_	_	_	_	_	_
+
+# sent_id = 262
+# text = Nós non temos ese problema.
+1	Nós	nós	_	_	PRO;NOM;PL;MASC+FEM;1	_	_	_	_
+2	non	non	_	_	NEG;ADV	_	_	_	_
+3	temos	ter	_	_	IND;PL;V;1;PRS;FIN	_	_	_	_
+4	ese	ese	_	_	SG;DET;MASC	_	_	_	_
+5	problema	problema	_	_	N;SG;MASC	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = 825
+# text = Velaquí as súas principais vantaxes e carencias.
+1	Velaquí	velaquí	_	_	ADV	_	_	_	_
+2	as	o	_	_	DEF;FEM;DET;PL	_	_	_	_
+3	súas	seu	_	_	PSSS;FEM;DET;PL;3	_	_	_	_
+4	principais	principal	_	_	FEM;ADJ;PL	_	_	_	_
+5	vantaxes	vantaxe	_	_	N;FEM;PL	_	_	_	_
+6	e	e	_	_	CONJ	_	_	_	_
+7	carencias	carencia	_	_	N;FEM;PL	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = 921
+# text = Xa na China empecei a facer algo de caligrafía e de pintura, e, por suposto, aprendín o chinés.
+1	Xa	xa	_	_	ADV	_	_	_	_
+2	en	en	_	_	ADP	_	_	_	_
+3	a	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+4	China	china	_	_	PROPN	_	_	_	_
+5	empecei	empezar	_	_	1;SG;IND;V;FIN;PST	_	_	_	_
+6	a	a	_	_	ADP	_	_	_	_
+7	facer	facer	_	_	V;NFIN	_	_	_	_
+8	algo	algo	_	_	PRO	_	_	_	_
+9	de	de	_	_	ADP	_	_	_	_
+10	caligrafía	caligrafía	_	_	FEM;N;SG	_	_	_	_
+11	e	e	_	_	CONJ	_	_	_	_
+12	de	de	_	_	ADP	_	_	_	_
+13	pintura	pintura	_	_	FEM;N;SG	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	e	e	_	_	CONJ	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	por	por	_	_	ADP	_	_	_	_
+18	suposto	suposto	_	_	MASC;N;SG	_	_	_	_
+19	,	,	_	_	_	_	_	_	_
+20	aprendín	aprender	_	_	1;SG;IND;V;FIN;PST	_	_	_	_
+21	o	o	_	_	DEF;SG;DET;MASC	_	_	_	_
+22	chinés	chinés	_	_	MASC;N;SG	_	_	_	_
+23	.	.	_	_	_	_	_	_	_
+
+# sent_id = 576
+# text = Quedou por facerse a edición de prezo popular, pola que se ten interesado nas últimas semanas tanto a Real Academia como a Xunta de Galicia e o Instituto Cervantes, e que podería ver a luz nos próximos meses, "gostaríame que saira, dinos Valentín Arias, pero habería que darlle un repaso á tradución.
+1	Quedou	quedar	_	_	SG;IND;V;FIN;3;PST	_	_	_	_
+2	por	por	_	_	ADP	_	_	_	_
+3	facer	facer	_	_	V;NFIN	_	_	_	_
+4	se	se	_	_	MASC+FEM;PRO;3	_	_	_	_
+5	a	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+6	edición	edición	_	_	FEM;N;SG	_	_	_	_
+7	de	de	_	_	ADP	_	_	_	_
+8	prezo	prezo	_	_	MASC;N;SG	_	_	_	_
+9	popular	popular	_	_	ADJ;MASC;SG	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	por	por	_	_	ADP	_	_	_	_
+12	la	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+13	que	que	_	_	FEM;PRO;SG	_	_	_	_
+14	se	se	_	_	MASC+FEM;PRO;3	_	_	_	_
+15	ten	ter	_	_	SG;IND;V;PRS;FIN;3	_	_	_	_
+16	interesado	interesar	_	_	V;V.PTCP;SG;MASC	_	_	_	_
+17	en	en	_	_	ADP	_	_	_	_
+18	as	o	_	_	DEF;PL;FEM;DET	_	_	_	_
+19	últimas	último	_	_	ADJ;FEM;PL	_	_	_	_
+20	semanas	semana	_	_	FEM;N;PL	_	_	_	_
+21	tanto	tanto	_	_	ADV	_	_	_	_
+22	a	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+23	Real	real	_	_	ADJ;FEM;SG	_	_	_	_
+24	Academia	academia	_	_	PROPN;FEM;SG	_	_	_	_
+25	como	como	_	_	CONJ	_	_	_	_
+26	a	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+27	Xunta	xunta	_	_	PROPN;FEM;SG	_	_	_	_
+28	de	de	_	_	PROPN;FEM;SG	_	_	_	_
+29	Galicia	galicia	_	_	PROPN;FEM;SG	_	_	_	_
+30	e	e	_	_	CONJ	_	_	_	_
+31	o	o	_	_	DEF;SG;DET;MASC	_	_	_	_
+32	Instituto	instituto	_	_	PROPN;MASC;SG	_	_	_	_
+33	Cervantes	cervantes	_	_	PROPN;MASC;SG	_	_	_	_
+34	,	,	_	_	_	_	_	_	_
+35	e	e	_	_	CONJ	_	_	_	_
+36	que	que	_	_	FEM;PRO;SG	_	_	_	_
+37	podería	poder	_	_	SG;V;{COND/IND};FIN;3	_	_	_	_
+38	ver	ver	_	_	V;NFIN	_	_	_	_
+39	a	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+40	luz	luz	_	_	FEM;N;SG	_	_	_	_
+41	en	en	_	_	ADP	_	_	_	_
+42	os	o	_	_	DEF;PL;DET;MASC	_	_	_	_
+43	próximos	próximo	_	_	ADJ;MASC;PL	_	_	_	_
+44	meses	mes	_	_	MASC;N;PL	_	_	_	_
+45	,	,	_	_	_	_	_	_	_
+46	"	"	_	_	_	_	_	_	_
+47	gostaría	gostar	_	_	SG;V;{COND/IND};FIN;3	_	_	_	_
+48	me	me	_	_	1;PRO;SG;DAT;MASC	_	_	_	_
+49	que	que	_	_	CONJ	_	_	_	_
+50	saira	saír	_	_	SBJV;SG;V;FIN;3;PST	_	_	_	_
+51	,	,	_	_	_	_	_	_	_
+52	di	dicir	_	_	SG;IND;PRS;V;FIN;3	_	_	_	_
+53	nos	nos	_	_	1;MASC+FEM;PRO;PL;DAT	_	_	_	_
+54	Valentín	valentín	_	_	PROPN;MASC	_	_	_	_
+55	Arias	arias	_	_	PROPN;MASC	_	_	_	_
+56	,	,	_	_	_	_	_	_	_
+57	pero	pero	_	_	CONJ	_	_	_	_
+58	habería	haber	_	_	SG;V;{COND/IND};FIN;3	_	_	_	_
+59	que	que	_	_	CONJ	_	_	_	_
+60	dar	dar	_	_	V;NFIN	_	_	_	_
+61	lle	lle	_	_	PRO;SG;FEM;DAT;3	_	_	_	_
+62	un	un	_	_	SG;INDF;DET;MASC	_	_	_	_
+63	repaso	repaso	_	_	MASC;N;SG	_	_	_	_
+64	a	a	_	_	ADP	_	_	_	_
+65	a	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+66	tradución	tradución	_	_	FEM;N;SG	_	_	_	_
+67	.	.	_	_	_	_	_	_	_
+
+# sent_id = 140
+# text = Pero Carlos Príncipe, de xeito interposto, segue comandando a asemblea local de Vigo, que fora disolta para apartalo como candidato ás municipais últimas.
+1	Pero	pero	_	_	CONJ	_	_	_	_
+2	Carlos	carlos	_	_	PROPN;MASC	_	_	_	_
+3	Príncipe	príncipe	_	_	PROPN;MASC	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	de	de	_	_	ADP	_	_	_	_
+6	xeito	xeito	_	_	N;SG;MASC	_	_	_	_
+7	interposto	interposto	_	_	SG;ADJ;MASC	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	segue	seguir	_	_	V;SG;3;IND;PRS;FIN	_	_	_	_
+10	comandando	comandar	_	_	V.MSDR;V	_	_	_	_
+11	a	o	_	_	DEF;FEM;DET;SG	_	_	_	_
+12	asemblea	asemblea	_	_	N;SG;FEM	_	_	_	_
+13	local	local	_	_	SG;FEM;ADJ	_	_	_	_
+14	de	de	_	_	ADP	_	_	_	_
+15	Vigo	Vigo	_	_	PROPN	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	que	que	_	_	SG;FEM;PRO	_	_	_	_
+18	fora	ser	_	_	V;SG;3;IND;FIN;PST+PRF	_	_	_	_
+19	disolta	disolver	_	_	V.PTCP;SG;FEM;V	_	_	_	_
+20	para	para	_	_	ADP	_	_	_	_
+21	apartar	apartar	_	_	NFIN;V	_	_	_	_
+22	lo	o	_	_	ACC;PRO;MASC;SG;3	_	_	_	_
+23	como	como	_	_	ADV	_	_	_	_
+24	candidato	candidato	_	_	N;SG;MASC	_	_	_	_
+25	a	a	_	_	ADP	_	_	_	_
+26	as	o	_	_	DEF;FEM;DET;PL	_	_	_	_
+27	municipais	municipal	_	_	N;FEM;PL	_	_	_	_
+28	últimas	último	_	_	FEM;ADJ;PL	_	_	_	_
+29	.	.	_	_	_	_	_	_	_
+
+# sent_id = 496
+# text = Créase polo tanto unha bolsa de licenciados en precario da que se aproveitan as empresas.
+1	Crea	crear	_	_	SG;IND;PRS;V;FIN;3	_	_	_	_
+2	se	se	_	_	MASC+FEM;PRO;3	_	_	_	_
+3	por	por	_	_	ADP	_	_	_	_
+4	lo	o	_	_	DEF;SG;DET;MASC	_	_	_	_
+5	tanto	tanto	_	_	MASC;PRO;SG	_	_	_	_
+6	unha	un	_	_	SG;INDF;FEM;DET	_	_	_	_
+7	bolsa	bolsa	_	_	FEM;N;SG	_	_	_	_
+8	de	de	_	_	ADP	_	_	_	_
+9	licenciados	licenciado	_	_	MASC;N;PL	_	_	_	_
+10	en	en	_	_	ADP	_	_	_	_
+11	precario	precario	_	_	ADJ;MASC;SG	_	_	_	_
+12	de	de	_	_	ADP	_	_	_	_
+13	a	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+14	que	que	_	_	FEM;PRO;SG	_	_	_	_
+15	se	se	_	_	MASC+FEM;PRO;3	_	_	_	_
+16	aproveitan	aproveitar	_	_	PL;IND;PRS;V;FIN;3	_	_	_	_
+17	as	o	_	_	DEF;PL;FEM;DET	_	_	_	_
+18	empresas	empresa	_	_	FEM;N;PL	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# sent_id = 736
+# text = Presa na Coruña, pasará no madrileño cárcere de Ventas un tempo de prisión que deixará boa pegada na súa vida, partindo a súa biografía para sempre.
+1	Presa	preso	_	_	ADJ;FEM;SG	_	_	_	_
+2	en	en	_	_	ADP	_	_	_	_
+3	a	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+4	Coruña	coruña	_	_	PROPN	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	pasará	pasar	_	_	SG;3;IND;V;FIN;FUT	_	_	_	_
+7	en	en	_	_	ADP	_	_	_	_
+8	o	o	_	_	DEF;SG;DET;MASC	_	_	_	_
+9	madrileño	madrileño	_	_	ADJ;MASC;SG	_	_	_	_
+10	cárcere	cárcere	_	_	MASC;N;SG	_	_	_	_
+11	de	de	_	_	ADP	_	_	_	_
+12	Ventas	Ventas	_	_	PROPN	_	_	_	_
+13	un	un	_	_	SG;INDF;DET;MASC	_	_	_	_
+14	tempo	tempo	_	_	MASC;N;SG	_	_	_	_
+15	de	de	_	_	ADP	_	_	_	_
+16	prisión	prisión	_	_	FEM;N;SG	_	_	_	_
+17	que	que	_	_	MASC+FEM;PRO;SG	_	_	_	_
+18	deixará	deixar	_	_	SG;3;IND;V;FIN;FUT	_	_	_	_
+19	boa	bo	_	_	ADJ;FEM;SG	_	_	_	_
+20	pegada	pegada	_	_	FEM;N;SG	_	_	_	_
+21	en	en	_	_	ADP	_	_	_	_
+22	a	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+23	súa	seu	_	_	PSSS;SG;FEM;DET;3	_	_	_	_
+24	vida	vida	_	_	FEM;N;SG	_	_	_	_
+25	,	,	_	_	_	_	_	_	_
+26	partindo	partir	_	_	V;V.MSDR	_	_	_	_
+27	a	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+28	súa	seu	_	_	PSSS;SG;FEM;DET;3	_	_	_	_
+29	biografía	biografía	_	_	FEM;N;SG	_	_	_	_
+30	para	para	_	_	ADP	_	_	_	_
+31	sempre	sempre	_	_	ADV	_	_	_	_
+32	.	.	_	_	_	_	_	_	_
+
+# sent_id = 215
+# text = Nin outra palabra.
+1	Nin	nin	_	_	NEG;ADV	_	_	_	_
+2	outra	outro	_	_	SG;DET;FEM	_	_	_	_
+3	palabra	palabra	_	_	N;SG;FEM	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = 839
+# text = O tratamento da lingua galega resulta especialmente valioso.
+1	O	o	_	_	DEF;SG;DET;MASC	_	_	_	_
+2	tratamento	tratamento	_	_	MASC;N;SG	_	_	_	_
+3	de	de	_	_	ADP	_	_	_	_
+4	a	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+5	lingua	lingua	_	_	FEM;N;SG	_	_	_	_
+6	galega	galego	_	_	ADJ;FEM;SG	_	_	_	_
+7	resulta	resultar	_	_	SG;IND;V;PRS;FIN;3	_	_	_	_
+8	especialmente	especialmente	_	_	ADV	_	_	_	_
+9	valioso	valioso	_	_	ADJ;MASC;SG	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = 66
+# text = "A cultura subsidiada _di_ non é cultura".
+1	"	"	_	_	_	_	_	_	_
+2	A	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+3	cultura	cultura	_	_	FEM;N;SG	_	_	_	_
+4	subsidiada	subsidiado	_	_	ADJ;FEM;SG	_	_	_	_
+5	_	_	_	_	_	_	_	_	_
+6	di	dicir	_	_	SG;IND;PRS;V;FIN;3	_	_	_	_
+7	_	_	_	_	_	_	_	_	_
+8	non	non	_	_	ADV;NEG	_	_	_	_
+9	é	ser	_	_	SG;IND;V;PRS;FIN;3	_	_	_	_
+10	cultura	cultura	_	_	FEM;N;SG	_	_	_	_
+11	"	"	_	_	_	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = 146
+# text = Cada vez a política dos socialistas en Vigo semella máis enrevesada e difícil.
+1	Cada	cada	_	_	DET;FEM;SG	_	_	_	_
+2	vez	vez	_	_	FEM;N;SG	_	_	_	_
+3	a	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+4	política	política	_	_	FEM;N;SG	_	_	_	_
+5	de	de	_	_	ADP	_	_	_	_
+6	os	o	_	_	DEF;PL;DET;MASC	_	_	_	_
+7	socialistas	socialista	_	_	MASC;N;PL	_	_	_	_
+8	en	en	_	_	ADP	_	_	_	_
+9	Vigo	Vigo	_	_	PROPN	_	_	_	_
+10	semella	semellar	_	_	SG;IND;PRS;V;FIN;3	_	_	_	_
+11	máis	máis	_	_	ADV	_	_	_	_
+12	enrevesada	enrevesado	_	_	ADJ;FEM;SG	_	_	_	_
+13	e	e	_	_	CONJ	_	_	_	_
+14	difícil	difícil	_	_	ADJ;FEM;SG	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = 882
+# text = Un premio que só se entende se o que se quere é galardoar máis unha vez esta etapa madura do antigo vaqueiro almeriense.
+1	Un	un	_	_	MASC;INDF;DET;SG	_	_	_	_
+2	premio	premio	_	_	N;SG;MASC	_	_	_	_
+3	que	que	_	_	SG;PRO;MASC	_	_	_	_
+4	só	só	_	_	ADV	_	_	_	_
+5	se	se	_	_	PRO;MASC+FEM;3	_	_	_	_
+6	entende	entender	_	_	V;SG;3;IND;PRS;FIN	_	_	_	_
+7	se	se	_	_	CONJ	_	_	_	_
+8	o	o	_	_	PRO;MASC;SG;3	_	_	_	_
+9	que	que	_	_	SG;PRO;MASC	_	_	_	_
+10	se	se	_	_	PRO;MASC+FEM;3	_	_	_	_
+11	quere	querer	_	_	V;SG;3;IND;PRS;FIN	_	_	_	_
+12	é	ser	_	_	V;SG;3;IND;PRS;FIN	_	_	_	_
+13	galardoar	galardoar	_	_	NFIN;V	_	_	_	_
+14	máis	máis	_	_	ADV	_	_	_	_
+15	unha	un	_	_	FEM;INDF;DET;SG	_	_	_	_
+16	vez	vez	_	_	N;SG;FEM	_	_	_	_
+17	esta	este	_	_	SG;DET;FEM	_	_	_	_
+18	etapa	etapa	_	_	N;SG;FEM	_	_	_	_
+19	madura	maduro	_	_	SG;FEM;ADJ	_	_	_	_
+20	de	de	_	_	ADP	_	_	_	_
+21	o	o	_	_	DEF;MASC;DET;SG	_	_	_	_
+22	antigo	antigo	_	_	SG;ADJ;MASC	_	_	_	_
+23	vaqueiro	vaqueiro	_	_	N;SG;MASC	_	_	_	_
+24	almeriense	almeriense	_	_	SG;ADJ;MASC	_	_	_	_
+25	.	.	_	_	_	_	_	_	_
+
+# sent_id = 222
+# text = 'Os socialistas reclamamos o traslado de Ence sen ambigüidades'
+1	'	'	_	_	_	_	_	_	_
+2	Os	o	_	_	DEF;MASC;DET;PL	_	_	_	_
+3	socialistas	socialista	_	_	N;PL;MASC	_	_	_	_
+4	reclamamos	reclamar	_	_	IND;PL;V;1;PRS;FIN	_	_	_	_
+5	o	o	_	_	DEF;MASC;DET;SG	_	_	_	_
+6	traslado	traslado	_	_	N;SG;MASC	_	_	_	_
+7	de	de	_	_	ADP	_	_	_	_
+8	Ence	Ence	_	_	PROPN	_	_	_	_
+9	sen	sen	_	_	NEG;ADP	_	_	_	_
+10	ambigüidades	ambigüidade	_	_	N;FEM;PL	_	_	_	_
+11	'	'	_	_	_	_	_	_	_
+
+# sent_id = 37
+# text = Traballamos máis horas que os xaponeses.
+1	Traballamos	traballar	_	_	IND;PL;V;1;PRS;FIN	_	_	_	_
+2	máis	máis	_	_	ADV	_	_	_	_
+3	horas	hora	_	_	N;FEM;PL	_	_	_	_
+4	que	que	_	_	CONJ	_	_	_	_
+5	os	o	_	_	DEF;MASC;DET;PL	_	_	_	_
+6	xaponeses	xaponés	_	_	N;PL;MASC	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = 844
+# text = Arrédase do corsé institucional do Estado español na proposta de organización territorial de Galiza, non considerando as provincias.
+1	Arreda	arredar	_	_	SG;IND;PRS;V;FIN;3	_	_	_	_
+2	se	se	_	_	MASC+FEM;PRO;3	_	_	_	_
+3	de	de	_	_	ADP	_	_	_	_
+4	o	o	_	_	DEF;SG;DET;MASC	_	_	_	_
+5	corsé	corsé	_	_	MASC;N;SG	_	_	_	_
+6	institucional	institucional	_	_	ADJ;MASC;SG	_	_	_	_
+7	de	de	_	_	ADP	_	_	_	_
+8	o	o	_	_	DEF;SG;DET;MASC	_	_	_	_
+9	Estado	Estado	_	_	PROPN;MASC;SG	_	_	_	_
+10	español	español	_	_	ADJ;MASC;SG	_	_	_	_
+11	en	en	_	_	ADP	_	_	_	_
+12	a	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+13	proposta	proposta	_	_	FEM;N;SG	_	_	_	_
+14	de	de	_	_	ADP	_	_	_	_
+15	organización	organización	_	_	FEM;N;SG	_	_	_	_
+16	territorial	territorial	_	_	ADJ;FEM;SG	_	_	_	_
+17	de	de	_	_	ADP	_	_	_	_
+18	Galiza	Galiza	_	_	PROPN	_	_	_	_
+19	,	,	_	_	_	_	_	_	_
+20	non	non	_	_	ADV;NEG	_	_	_	_
+21	considerando	considerar	_	_	V;V.MSDR	_	_	_	_
+22	as	o	_	_	DEF;PL;FEM;DET	_	_	_	_
+23	provincias	provincia	_	_	FEM;N;PL	_	_	_	_
+24	.	.	_	_	_	_	_	_	_
+
+# sent_id = 320
+# text = A figura da comarca/rexión urbana configúrase "por riba dos seus aspectos tecnocráticos, como un ente político democrático, unha sorte de federación dos concellos do seu territorio que incrementará, de maneira simultánea, a eficiencia técnica e a participación política tan acaída ás entidades locais e á súa administración de inmediatez".
+1	A	o	_	_	DEF;FEM;DET;SG	_	_	_	_
+2	figura	figura	_	_	N;SG;FEM	_	_	_	_
+3	de	de	_	_	ADP	_	_	_	_
+4	a	o	_	_	DEF;FEM;DET;SG	_	_	_	_
+5	comarca	comarca	_	_	N;SG;FEM	_	_	_	_
+6	/	/	_	_	_	_	_	_	_
+7	rexión	rexión	_	_	N;SG;FEM	_	_	_	_
+8	urbana	urbano	_	_	SG;FEM;ADJ	_	_	_	_
+9	configura	configurar	_	_	V;SG;3;IND;PRS;FIN	_	_	_	_
+10	se	se	_	_	PRO;MASC+FEM;3	_	_	_	_
+11	"	"	_	_	_	_	_	_	_
+12	por	por	_	_	ADP	_	_	_	_
+13	riba	riba	_	_	ADV	_	_	_	_
+14	de	de	_	_	ADP	_	_	_	_
+15	os	o	_	_	DEF;MASC;DET;PL	_	_	_	_
+16	seus	seu	_	_	PSSS;MASC;DET;PL;3	_	_	_	_
+17	aspectos	aspecto	_	_	N;PL;MASC	_	_	_	_
+18	tecnocráticos	tecnocrático	_	_	PL;ADJ;MASC	_	_	_	_
+19	,	,	_	_	_	_	_	_	_
+20	como	como	_	_	ADV	_	_	_	_
+21	un	un	_	_	MASC;INDF;DET;SG	_	_	_	_
+22	ente	ente	_	_	N;SG;MASC	_	_	_	_
+23	político	político	_	_	SG;ADJ;MASC	_	_	_	_
+24	democrático	democrático	_	_	SG;ADJ;MASC	_	_	_	_
+25	,	,	_	_	_	_	_	_	_
+26	unha	un	_	_	FEM;INDF;DET;SG	_	_	_	_
+27	sorte	sorte	_	_	N;SG;FEM	_	_	_	_
+28	de	de	_	_	ADP	_	_	_	_
+29	federación	federación	_	_	N;SG;FEM	_	_	_	_
+30	de	de	_	_	ADP	_	_	_	_
+31	os	o	_	_	DEF;MASC;DET;PL	_	_	_	_
+32	concellos	concello	_	_	N;PL;MASC	_	_	_	_
+33	de	de	_	_	ADP	_	_	_	_
+34	o	o	_	_	DEF;MASC;DET;SG	_	_	_	_
+35	seu	seu	_	_	PSSS;MASC;DET;SG;3	_	_	_	_
+36	territorio	territorio	_	_	N;SG;MASC	_	_	_	_
+37	que	que	_	_	MASC+FEM;SG;PRO	_	_	_	_
+38	incrementará	incrementar	_	_	V;SG;3;IND;FIN;FUT	_	_	_	_
+39	,	,	_	_	_	_	_	_	_
+40	de	de	_	_	ADP	_	_	_	_
+41	maneira	maneira	_	_	N;SG;FEM	_	_	_	_
+42	simultánea	simultáneo	_	_	SG;FEM;ADJ	_	_	_	_
+43	,	,	_	_	_	_	_	_	_
+44	a	o	_	_	DEF;FEM;DET;SG	_	_	_	_
+45	eficiencia	eficiencia	_	_	N;SG;FEM	_	_	_	_
+46	técnica	técnico	_	_	SG;FEM;ADJ	_	_	_	_
+47	e	e	_	_	CONJ	_	_	_	_
+48	a	o	_	_	DEF;FEM;DET;SG	_	_	_	_
+49	participación	participación	_	_	N;SG;FEM	_	_	_	_
+50	política	político	_	_	SG;FEM;ADJ	_	_	_	_
+51	tan	tanto	_	_	ADV	_	_	_	_
+52	acaída	acaído	_	_	SG;FEM;ADJ	_	_	_	_
+53	a	a	_	_	ADP	_	_	_	_
+54	as	o	_	_	DEF;FEM;DET;PL	_	_	_	_
+55	entidades	entidade	_	_	N;FEM;PL	_	_	_	_
+56	locais	local	_	_	FEM;ADJ;PL	_	_	_	_
+57	e	e	_	_	CONJ	_	_	_	_
+58	a	a	_	_	ADP	_	_	_	_
+59	a	o	_	_	DEF;FEM;DET;SG	_	_	_	_
+60	súa	seu	_	_	PSSP;FEM;DET;SG;3	_	_	_	_
+61	administración	administración	_	_	N;SG;FEM	_	_	_	_
+62	de	de	_	_	ADP	_	_	_	_
+63	inmediatez	inmediatez	_	_	N;SG;FEM	_	_	_	_
+64	"	"	_	_	_	_	_	_	_
+65	.	.	_	_	_	_	_	_	_
+
+# sent_id = 81
+# text = Emilio P. Touriño e Anxo Quintana nunha xuntanza do pasado verán.
+1	Emilio	emilio	_	_	PROPN;MASC	_	_	_	_
+2	P.	p.	_	_	PROPN;MASC	_	_	_	_
+3	Touriño	touriño	_	_	PROPN;MASC	_	_	_	_
+4	e	e	_	_	CONJ	_	_	_	_
+5	Anxo	anxo	_	_	PROPN;MASC	_	_	_	_
+6	Quintana	quintana	_	_	PROPN;MASC	_	_	_	_
+7	en	en	_	_	ADP	_	_	_	_
+8	unha	un	_	_	SG;INDF;FEM;DET	_	_	_	_
+9	xuntanza	xuntanza	_	_	FEM;N;SG	_	_	_	_
+10	de	de	_	_	ADP	_	_	_	_
+11	o	o	_	_	DEF;SG;DET;MASC	_	_	_	_
+12	pasado	pasado	_	_	ADJ;MASC;SG	_	_	_	_
+13	verán	verán	_	_	MASC;N;SG	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = 687
+# text = O Brasil de Lula centra as informacións deste número.
+1	O	o	_	_	DEF;MASC;DET;SG	_	_	_	_
+2	Brasil	Brasil	_	_	SG;PROPN;MASC	_	_	_	_
+3	de	de	_	_	ADP	_	_	_	_
+4	Lula	Lula	_	_	PROPN	_	_	_	_
+5	centra	centrar	_	_	V;SG;3;IND;PRS;FIN	_	_	_	_
+6	as	o	_	_	DEF;FEM;DET;PL	_	_	_	_
+7	informacións	información	_	_	N;FEM;PL	_	_	_	_
+8	de	de	_	_	ADP	_	_	_	_
+9	este	ese	_	_	SG;DET;MASC	_	_	_	_
+10	número	número	_	_	N;SG;MASC	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = 489
+# text = Os salarios son moi baixos, hai a quen obrigan a traballar como autónomo, hai compañeiros sen contrato ou que traballan máis horas das que lle corresponden ou fotógrafos cuxas imaxes son usadas pola empresa sen recoñecerlle os dereitos de autor.
+1	Os	o	_	_	DEF;PL;DET;MASC	_	_	_	_
+2	salarios	salario	_	_	MASC;N;PL	_	_	_	_
+3	son	ser	_	_	PL;IND;V;PRS;FIN;3	_	_	_	_
+4	moi	moito	_	_	ADV	_	_	_	_
+5	baixos	baixo	_	_	ADJ;MASC;PL	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	hai	haber	_	_	SG;IND;PRS;V;FIN;3	_	_	_	_
+8	a	a	_	_	ADP	_	_	_	_
+9	quen	quen	_	_	MASC+FEM;PRO;SG	_	_	_	_
+10	obrigan	obrigar	_	_	PL;IND;PRS;V;FIN;3	_	_	_	_
+11	a	a	_	_	ADP	_	_	_	_
+12	traballar	traballar	_	_	V;NFIN	_	_	_	_
+13	como	como	_	_	ADV	_	_	_	_
+14	autónomo	autónomo	_	_	MASC;N;SG	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	hai	haber	_	_	SG;IND;PRS;V;FIN;3	_	_	_	_
+17	compañeiros	compañeiro	_	_	MASC;N;PL	_	_	_	_
+18	sen	sen	_	_	ADP;NEG	_	_	_	_
+19	contrato	contrato	_	_	MASC;N;SG	_	_	_	_
+20	ou	ou	_	_	CONJ	_	_	_	_
+21	que	que	_	_	MASC;PRO;PL	_	_	_	_
+22	traballan	traballar	_	_	PL;IND;PRS;V;FIN;3	_	_	_	_
+23	máis	máis	_	_	ADV	_	_	_	_
+24	horas	hora	_	_	FEM;N;PL	_	_	_	_
+25	de	de	_	_	ADP	_	_	_	_
+26	as	o	_	_	PRO;PL;FEM;3	_	_	_	_
+27	que	que	_	_	FEM;PRO;PL	_	_	_	_
+28	lle	lle	_	_	PRO;PL;DAT;MASC;3	_	_	_	_
+29	corresponden	corresponder	_	_	PL;IND;PRS;V;FIN;3	_	_	_	_
+30	ou	ou	_	_	CONJ	_	_	_	_
+31	fotógrafos	fotógrafo	_	_	MASC;N;PL	_	_	_	_
+32	cuxas	cuxo	_	_	DET;FEM;PL	_	_	_	_
+33	imaxes	imaxe	_	_	FEM;N;PL	_	_	_	_
+34	son	ser	_	_	PL;IND;V;PRS;FIN;3	_	_	_	_
+35	usadas	usar	_	_	V;V.PTCP;FEM;PL	_	_	_	_
+36	por	por	_	_	ADP	_	_	_	_
+37	la	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+38	empresa	empresa	_	_	FEM;N;SG	_	_	_	_
+39	sen	sen	_	_	ADP;NEG	_	_	_	_
+40	recoñecer	recoñecer	_	_	V;NFIN	_	_	_	_
+41	lle	lle	_	_	PRO;PL;DAT;MASC;3	_	_	_	_
+42	os	o	_	_	DEF;PL;DET;MASC	_	_	_	_
+43	dereitos	dereito	_	_	MASC;N;PL	_	_	_	_
+44	de	de	_	_	ADP	_	_	_	_
+45	autor	autor	_	_	MASC;N;SG	_	_	_	_
+46	.	.	_	_	_	_	_	_	_
+
+# sent_id = 604
+# text = A televisión reflecte a negación que nos rodea: infraestruturas que non chegan, fondos mal xestionados, exclusión das axudas por incendios forestais ...
+1	A	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+2	televisión	televisión	_	_	FEM;N;SG	_	_	_	_
+3	reflecte	reflectir	_	_	SG;IND;PRS;V;FIN;3	_	_	_	_
+4	a	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+5	negación	negación	_	_	FEM;N;SG	_	_	_	_
+6	que	que	_	_	FEM;PRO;SG	_	_	_	_
+7	nos	nos	_	_	1;MASC+FEM;PRO;PL;ACC	_	_	_	_
+8	rodea	rodear	_	_	SG;IND;PRS;V;FIN;3	_	_	_	_
+9	:	:	_	_	_	_	_	_	_
+10	infraestruturas	infraestrutura	_	_	FEM;N;PL	_	_	_	_
+11	que	que	_	_	FEM;PRO;PL	_	_	_	_
+12	non	non	_	_	ADV;NEG	_	_	_	_
+13	chegan	chegar	_	_	PL;IND;PRS;V;FIN;3	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	fondos	fondo	_	_	MASC;N;PL	_	_	_	_
+16	mal	mal	_	_	ADV	_	_	_	_
+17	xestionados	xestionar	_	_	V;V.PTCP;PL;MASC	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	exclusión	exclusión	_	_	FEM;N;SG	_	_	_	_
+20	de	de	_	_	ADP	_	_	_	_
+21	as	o	_	_	DEF;PL;FEM;DET	_	_	_	_
+22	axudas	axuda	_	_	FEM;N;PL	_	_	_	_
+23	por	por	_	_	ADP	_	_	_	_
+24	incendios	incendio	_	_	MASC;N;PL	_	_	_	_
+25	forestais	forestal	_	_	ADJ;MASC;PL	_	_	_	_
+26	...	...	_	_	_	_	_	_	_
+
+# sent_id = 435
+# text = Israel, nada menos, o amigo de Bush, que mata cada día máis e segue a construír os muros da vergoña internacional.
+1	Israel	Israel	_	_	PROPN	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	nada	nada	_	_	ADV	_	_	_	_
+4	menos	menos	_	_	ADV	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	o	o	_	_	DEF;MASC;DET;SG	_	_	_	_
+7	amigo	amigo	_	_	N;SG;MASC	_	_	_	_
+8	de	de	_	_	ADP	_	_	_	_
+9	Bush	Bush	_	_	PROPN	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	que	que	_	_	MASC+FEM;SG;PRO	_	_	_	_
+12	mata	matar	_	_	V;SG;3;IND;PRS;FIN	_	_	_	_
+13	cada	cada	_	_	SG;DET;MASC	_	_	_	_
+14	día	día	_	_	N;SG;MASC	_	_	_	_
+15	máis	máis	_	_	ADV	_	_	_	_
+16	e	e	_	_	CONJ	_	_	_	_
+17	segue	seguir	_	_	V;SG;3;IND;PRS;FIN	_	_	_	_
+18	a	a	_	_	ADP	_	_	_	_
+19	construír	construír	_	_	NFIN;V	_	_	_	_
+20	os	o	_	_	DEF;MASC;DET;PL	_	_	_	_
+21	muros	muro	_	_	N;PL;MASC	_	_	_	_
+22	de	de	_	_	ADP	_	_	_	_
+23	a	o	_	_	DEF;FEM;DET;SG	_	_	_	_
+24	vergoña	vergoña	_	_	N;SG;FEM	_	_	_	_
+25	internacional	internacional	_	_	SG;FEM;ADJ	_	_	_	_
+26	.	.	_	_	_	_	_	_	_
+
+# sent_id = 55
+# text = Walesa pídelle ao Goberno e á Igrexa Católica que fagan o posíbel para poñer fin a unha incesante campaña de odio e calumnias contra o inimigo "infiel, laico, xudeo, masón, comunista", con que a emisora da orde dos redentoristas, dirixida polo padre Tadeusz Rydzyk e arroupada nun manto de devoción mariana, vén envelenando a vida pública polaca.
+1	Walesa	Walesa	_	_	PROPN	_	_	_	_
+2	pide	pedir	_	_	V;SG;3;IND;PRS;FIN	_	_	_	_
+3	lle	lle	_	_	PRO;PL;MASC+FEM;3;DAT	_	_	_	_
+4	a	a	_	_	ADP	_	_	_	_
+5	o	o	_	_	DEF;MASC;DET;SG	_	_	_	_
+6	Goberno	Goberno	_	_	SG;PROPN;MASC	_	_	_	_
+7	e	e	_	_	CONJ	_	_	_	_
+8	a	a	_	_	ADP	_	_	_	_
+9	a	o	_	_	DEF;FEM;DET;SG	_	_	_	_
+10	Igrexa	igrexa	_	_	SG;FEM;PROPN	_	_	_	_
+11	Católica	católico	_	_	SG;FEM;ADJ	_	_	_	_
+12	que	que	_	_	CONJ	_	_	_	_
+13	fagan	facer	_	_	PL;V;3;PRS;FIN;SBJV	_	_	_	_
+14	o	o	_	_	DEF;MASC;DET;SG	_	_	_	_
+15	posíbel	posíbel	_	_	SG;ADJ;MASC	_	_	_	_
+16	para	para	_	_	ADP	_	_	_	_
+17	poñer	poñer	_	_	NFIN;V	_	_	_	_
+18	fin	fin	_	_	N;SG;MASC	_	_	_	_
+19	a	a	_	_	ADP	_	_	_	_
+20	unha	un	_	_	FEM;INDF;DET;SG	_	_	_	_
+21	incesante	incesante	_	_	SG;FEM;ADJ	_	_	_	_
+22	campaña	campaña	_	_	N;SG;FEM	_	_	_	_
+23	de	de	_	_	ADP	_	_	_	_
+24	odio	odio	_	_	N;SG;MASC	_	_	_	_
+25	e	e	_	_	CONJ	_	_	_	_
+26	calumnias	calumnia	_	_	N;FEM;PL	_	_	_	_
+27	contra	contra	_	_	ADP	_	_	_	_
+28	o	o	_	_	DEF;MASC;DET;SG	_	_	_	_
+29	inimigo	inimigo	_	_	N;SG;MASC	_	_	_	_
+30	"	"	_	_	_	_	_	_	_
+31	infiel	infiel	_	_	SG;ADJ;MASC	_	_	_	_
+32	,	,	_	_	_	_	_	_	_
+33	laico	laico	_	_	SG;ADJ;MASC	_	_	_	_
+34	,	,	_	_	_	_	_	_	_
+35	xudeo	xudeo	_	_	SG;ADJ;MASC	_	_	_	_
+36	,	,	_	_	_	_	_	_	_
+37	masón	masón	_	_	SG;ADJ;MASC	_	_	_	_
+38	,	,	_	_	_	_	_	_	_
+39	comunista	comunista	_	_	SG;ADJ;MASC	_	_	_	_
+40	"	"	_	_	_	_	_	_	_
+41	,	,	_	_	_	_	_	_	_
+42	con	con	_	_	ADP	_	_	_	_
+43	que	que	_	_	MASC+FEM;PL;PRO	_	_	_	_
+44	a	o	_	_	DEF;FEM;DET;SG	_	_	_	_
+45	emisora	emisora	_	_	N;SG;FEM	_	_	_	_
+46	de	de	_	_	ADP	_	_	_	_
+47	a	o	_	_	DEF;FEM;DET;SG	_	_	_	_
+48	orde	orde	_	_	N;SG;FEM	_	_	_	_
+49	de	de	_	_	ADP	_	_	_	_
+50	os	o	_	_	DEF;MASC;DET;PL	_	_	_	_
+51	redentoristas	redentorista	_	_	N;PL;MASC	_	_	_	_
+52	,	,	_	_	_	_	_	_	_
+53	dirixida	dirixir	_	_	V.PTCP;SG;FEM;V	_	_	_	_
+54	por	por	_	_	ADP	_	_	_	_
+55	lo	o	_	_	DEF;MASC;DET;SG	_	_	_	_
+56	padre	padre	_	_	N;SG;MASC	_	_	_	_
+57	Tadeusz	tadeusz	_	_	SG;PROPN;MASC	_	_	_	_
+58	Rydzyk	rydzyk	_	_	SG;PROPN;MASC	_	_	_	_
+59	e	e	_	_	CONJ	_	_	_	_
+60	arroupada	arroupar	_	_	V.PTCP;SG;FEM;V	_	_	_	_
+61	en	en	_	_	ADP	_	_	_	_
+62	un	un	_	_	MASC;INDF;DET;SG	_	_	_	_
+63	manto	manto	_	_	N;SG;MASC	_	_	_	_
+64	de	de	_	_	ADP	_	_	_	_
+65	devoción	devoción	_	_	N;SG;FEM	_	_	_	_
+66	mariana	mariano	_	_	SG;FEM;ADJ	_	_	_	_
+67	,	,	_	_	_	_	_	_	_
+68	vén	vir	_	_	V;SG;3;IND;PRS;FIN	_	_	_	_
+69	envelenando	envelenar	_	_	V.MSDR;V	_	_	_	_
+70	a	o	_	_	DEF;FEM;DET;SG	_	_	_	_
+71	vida	vida	_	_	N;SG;FEM	_	_	_	_
+72	pública	público	_	_	SG;FEM;ADJ	_	_	_	_
+73	polaca	polaco	_	_	SG;FEM;ADJ	_	_	_	_
+74	.	.	_	_	_	_	_	_	_
+
+# sent_id = 952
+# text = En 1981, tiña máis de 91.000 poboadores e a Ferrol aínda seguía emigrando xente de toda Galiza e mesmo de fóra.
+1	En	en	_	_	ADP	_	_	_	_
+2	1981	1981	_	_	NUM;SG;MASC	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	tiña	ter	_	_	IPFV;V;SG;3;IND;FIN	_	_	_	_
+5	máis	máis	_	_	ADV	_	_	_	_
+6	de	de	_	_	ADP	_	_	_	_
+7	91.000	91.000	_	_	NUM;PL;MASC	_	_	_	_
+8	poboadores	poboador	_	_	N;PL;MASC	_	_	_	_
+9	e	e	_	_	CONJ	_	_	_	_
+10	a	a	_	_	ADP	_	_	_	_
+11	Ferrol	Ferrol	_	_	PROPN	_	_	_	_
+12	aínda	aínda	_	_	ADV	_	_	_	_
+13	seguía	seguir	_	_	IPFV;V;SG;3;IND;FIN	_	_	_	_
+14	emigrando	emigrar	_	_	V.MSDR;V	_	_	_	_
+15	xente	xente	_	_	N;SG;FEM	_	_	_	_
+16	de	de	_	_	ADP	_	_	_	_
+17	toda	todo	_	_	SG;DET;FEM	_	_	_	_
+18	Galiza	Galiza	_	_	SG;FEM;PROPN	_	_	_	_
+19	e	e	_	_	CONJ	_	_	_	_
+20	mesmo	mesmo	_	_	ADV	_	_	_	_
+21	de	de	_	_	ADP	_	_	_	_
+22	fóra	fóra	_	_	ADV	_	_	_	_
+23	.	.	_	_	_	_	_	_	_
+
+# sent_id = 284
+# text = O concello quere buscarlle alternativas porque tamén hai que darlle saída á riqueza forestal que ten esta zona, pero non pode continuar nun lugar declarado pola UE zona sensíbel, que é único no mundo e que representa moitas posibilidades de crecemento _e non só urbanístico_ de Pontevedra e Marín.
+1	O	o	_	_	DEF;SG;DET;MASC	_	_	_	_
+2	concello	concello	_	_	MASC;N;SG	_	_	_	_
+3	quere	querer	_	_	SG;IND;PRS;V;FIN;3	_	_	_	_
+4	buscar	buscar	_	_	V;NFIN	_	_	_	_
+5	lle	lle	_	_	MASC+FEM;PRO;SG;DAT;3	_	_	_	_
+6	alternativas	alternativa	_	_	FEM;N;PL	_	_	_	_
+7	porque	porque	_	_	CONJ	_	_	_	_
+8	tamén	tamén	_	_	ADV	_	_	_	_
+9	hai	haber	_	_	SG;IND;V;PRS;FIN;3	_	_	_	_
+10	que	que	_	_	CONJ	_	_	_	_
+11	dar	dar	_	_	V;NFIN	_	_	_	_
+12	lle	lle	_	_	PRO;SG;FEM;DAT;3	_	_	_	_
+13	saída	saída	_	_	FEM;N;SG	_	_	_	_
+14	a	a	_	_	ADP	_	_	_	_
+15	a	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+16	riqueza	riqueza	_	_	FEM;N;SG	_	_	_	_
+17	forestal	forestal	_	_	ADJ;FEM;SG	_	_	_	_
+18	que	que	_	_	FEM;PRO;SG	_	_	_	_
+19	ten	ter	_	_	SG;IND;PRS;V;FIN;3	_	_	_	_
+20	esta	este	_	_	DET;FEM;SG	_	_	_	_
+21	zona	zona	_	_	FEM;N;SG	_	_	_	_
+22	,	,	_	_	_	_	_	_	_
+23	pero	pero	_	_	CONJ	_	_	_	_
+24	non	non	_	_	ADV;NEG	_	_	_	_
+25	pode	poder	_	_	SG;IND;V;PRS;FIN;3	_	_	_	_
+26	continuar	continuar	_	_	V;NFIN	_	_	_	_
+27	en	en	_	_	ADP	_	_	_	_
+28	un	un	_	_	SG;INDF;DET;MASC	_	_	_	_
+29	lugar	lugar	_	_	MASC;N;SG	_	_	_	_
+30	declarado	declarar	_	_	V;V.PTCP;SG;MASC	_	_	_	_
+31	por	por	_	_	ADP	_	_	_	_
+32	la	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+33	UE	UE	_	_	PROPN;FEM;SG	_	_	_	_
+34	zona	zona	_	_	FEM;N;SG	_	_	_	_
+35	sensíbel	sensíbel	_	_	ADJ;FEM;SG	_	_	_	_
+36	,	,	_	_	_	_	_	_	_
+37	que	que	_	_	MASC;PRO;SG	_	_	_	_
+38	é	ser	_	_	SG;IND;V;PRS;FIN;3	_	_	_	_
+39	único	único	_	_	ADJ;MASC;SG	_	_	_	_
+40	en	en	_	_	ADP	_	_	_	_
+41	o	o	_	_	DEF;SG;DET;MASC	_	_	_	_
+42	mundo	mundo	_	_	MASC;N;SG	_	_	_	_
+43	e	e	_	_	CONJ	_	_	_	_
+44	que	que	_	_	MASC;PRO;SG	_	_	_	_
+45	representa	representar	_	_	SG;IND;PRS;V;FIN;3	_	_	_	_
+46	moitas	moito	_	_	DET;FEM;PL	_	_	_	_
+47	posibilidades	posibilidade	_	_	FEM;N;PL	_	_	_	_
+48	de	de	_	_	ADP	_	_	_	_
+49	crecemento	crecemento	_	_	MASC;N;SG	_	_	_	_
+50	_	_	_	_	_	_	_	_	_
+51	e	e	_	_	CONJ	_	_	_	_
+52	non	non	_	_	ADV;NEG	_	_	_	_
+53	só	só	_	_	ADV	_	_	_	_
+54	urbanístico	urbanístico	_	_	ADJ;MASC;SG	_	_	_	_
+55	_	_	_	_	_	_	_	_	_
+56	de	de	_	_	ADP	_	_	_	_
+57	Pontevedra	Pontevedra	_	_	PROPN	_	_	_	_
+58	e	e	_	_	CONJ	_	_	_	_
+59	Marín	Marín	_	_	PROPN	_	_	_	_
+60	.	.	_	_	_	_	_	_	_
+
+# sent_id = 673
+# text = As pegadas do crime van até o século XIX.
+1	As	o	_	_	DEF;PL;FEM;DET	_	_	_	_
+2	pegadas	pegada	_	_	FEM;N;PL	_	_	_	_
+3	de	de	_	_	ADP	_	_	_	_
+4	o	o	_	_	DEF;SG;DET;MASC	_	_	_	_
+5	crime	crime	_	_	MASC;N;SG	_	_	_	_
+6	van	ir	_	_	PL;IND;PRS;V;FIN;3	_	_	_	_
+7	até	até	_	_	ADP	_	_	_	_
+8	o	o	_	_	DEF;SG;DET;MASC	_	_	_	_
+9	século	século	_	_	MASC;N;SG	_	_	_	_
+10	XIX	XIX	_	_	MASC;NUM;SG	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = 399
+# text = Máis cartos por aparcar por cuartos
+1	Máis	máis	_	_	ADV	_	_	_	_
+2	cartos	carto	_	_	MASC;N;PL	_	_	_	_
+3	por	por	_	_	ADP	_	_	_	_
+4	aparcar	aparcar	_	_	V;NFIN	_	_	_	_
+5	por	por	_	_	ADP	_	_	_	_
+6	cuartos	cuarto	_	_	MASC;N;PL	_	_	_	_
+
+# sent_id = 5
+# text = Intervención de Xosé Luís Barreiro Rivas.
+1	Intervención	intervención	_	_	N;SG;FEM	_	_	_	_
+2	de	de	_	_	ADP	_	_	_	_
+3	Xosé	xosé	_	_	PROPN;MASC	_	_	_	_
+4	Luís	luís	_	_	PROPN;MASC	_	_	_	_
+5	Barreiro	barreiro	_	_	PROPN;MASC	_	_	_	_
+6	Rivas	rivas	_	_	PROPN;MASC	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = 168
+# text = A presión recibida forzouno a continuar adiante co concurso para a ordenación da ETEA ou co apoio financieiro ás obras de remodelación de rúas que Corina Porro denominou pomposamente "Vigo 2005".
+1	A	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+2	presión	presión	_	_	FEM;N;SG	_	_	_	_
+3	recibida	recibir	_	_	V;V.PTCP;FEM;SG	_	_	_	_
+4	forzou	forzar	_	_	SG;IND;V;FIN;3;PST	_	_	_	_
+5	no	o	_	_	PRO;SG;ACC;MASC;3	_	_	_	_
+6	a	a	_	_	ADP	_	_	_	_
+7	continuar	continuar	_	_	V;NFIN	_	_	_	_
+8	adiante	adiante	_	_	ADV	_	_	_	_
+9	con	con	_	_	ADP	_	_	_	_
+10	o	o	_	_	DEF;SG;DET;MASC	_	_	_	_
+11	concurso	concurso	_	_	MASC;N;SG	_	_	_	_
+12	para	para	_	_	ADP	_	_	_	_
+13	a	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+14	ordenación	ordenación	_	_	FEM;N;SG	_	_	_	_
+15	de	de	_	_	ADP	_	_	_	_
+16	a	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+17	ETEA	ETEA	_	_	PROPN;FEM;SG	_	_	_	_
+18	ou	ou	_	_	CONJ	_	_	_	_
+19	con	con	_	_	ADP	_	_	_	_
+20	o	o	_	_	DEF;SG;DET;MASC	_	_	_	_
+21	apoio	apoio	_	_	MASC;N;SG	_	_	_	_
+22	financieiro	financieiro	_	_	ADJ;MASC;SG	_	_	_	_
+23	a	a	_	_	ADP	_	_	_	_
+24	as	o	_	_	DEF;PL;FEM;DET	_	_	_	_
+25	obras	obra	_	_	FEM;N;PL	_	_	_	_
+26	de	de	_	_	ADP	_	_	_	_
+27	remodelación	remodelación	_	_	FEM;N;SG	_	_	_	_
+28	de	de	_	_	ADP	_	_	_	_
+29	rúas	rúa	_	_	FEM;N;PL	_	_	_	_
+30	que	que	_	_	FEM;PRO;PL	_	_	_	_
+31	Corina	corina	_	_	PROPN;FEM	_	_	_	_
+32	Porro	porro	_	_	PROPN;FEM	_	_	_	_
+33	denominou	denominar	_	_	SG;IND;V;FIN;3;PST	_	_	_	_
+34	pomposamente	pomposamente	_	_	ADV	_	_	_	_
+35	"	"	_	_	_	_	_	_	_
+36	Vigo	vigo	_	_	PROPN	_	_	_	_
+37	2005	2005	_	_	PROPN	_	_	_	_
+38	"	"	_	_	_	_	_	_	_
+39	.	.	_	_	_	_	_	_	_
+
+# sent_id = 751
+# text = El corrixíame os erros, facíame diversas suxerencias, ensinábame a ler música... e xuntos sacabamos moitas cancións de oído.
+1	El	el	_	_	PRO;SG;MASC;3;NOM	_	_	_	_
+2	corrixía	corrixir	_	_	SG;IND;IPFV;V;FIN;3	_	_	_	_
+3	me	me	_	_	1;MASC+FEM;PRO;SG;DAT	_	_	_	_
+4	os	o	_	_	DEF;PL;DET;MASC	_	_	_	_
+5	erros	erro	_	_	MASC;N;PL	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	facía	facer	_	_	SG;IND;IPFV;V;FIN;3	_	_	_	_
+8	me	me	_	_	1;MASC+FEM;PRO;SG;DAT	_	_	_	_
+9	diversas	diverso	_	_	ADJ;FEM;PL	_	_	_	_
+10	suxerencias	suxerencia	_	_	FEM;N;PL	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	ensinaba	ensinar	_	_	SG;IND;IPFV;V;FIN;3	_	_	_	_
+13	me	me	_	_	1;MASC+FEM;PRO;SG;DAT	_	_	_	_
+14	a	a	_	_	ADP	_	_	_	_
+15	ler	ler	_	_	V;NFIN	_	_	_	_
+16	música	música	_	_	FEM;N;SG	_	_	_	_
+17	...	...	_	_	_	_	_	_	_
+18	e	e	_	_	CONJ	_	_	_	_
+19	xuntos	xunto	_	_	ADJ;MASC;PL	_	_	_	_
+20	sacabamos	sacar	_	_	1;PL;IND;IPFV;V;FIN	_	_	_	_
+21	moitas	moito	_	_	DET;FEM;PL	_	_	_	_
+22	cancións	canción	_	_	FEM;N;PL	_	_	_	_
+23	de	de	_	_	ADP	_	_	_	_
+24	oído	oído	_	_	MASC;N;SG	_	_	_	_
+25	.	.	_	_	_	_	_	_	_
+
+# sent_id = 711
+# text = Contos por palabras foi merecente no seu tempo do premio Lazarillo e foi incluído na lista de honra do IBBY, traducido a varios idiomas agora coas ilustracións de Enjamio e nesta edición que coido definitiva agardo que siga a recolleitar o favor dos lectores, como fixo dende a súa publicación.
+1	Contos	contos	_	_	PROPN	_	_	_	_
+2	por	por	_	_	ADP	_	_	_	_
+3	palabras	palabra	_	_	FEM;N;PL	_	_	_	_
+4	foi	ser	_	_	SG;IND;V;FIN;3;PST	_	_	_	_
+5	merecente	merecente	_	_	ADJ;MASC;SG	_	_	_	_
+6	en	en	_	_	ADP	_	_	_	_
+7	o	o	_	_	DEF;SG;DET;MASC	_	_	_	_
+8	seu	seu	_	_	PSSS;SG;DET;MASC;3	_	_	_	_
+9	tempo	tempo	_	_	MASC;N;SG	_	_	_	_
+10	de	de	_	_	ADP	_	_	_	_
+11	o	o	_	_	DEF;SG;DET;MASC	_	_	_	_
+12	premio	premio	_	_	MASC;N;SG	_	_	_	_
+13	Lazarillo	Lazarillo	_	_	PROPN	_	_	_	_
+14	e	e	_	_	CONJ	_	_	_	_
+15	foi	ser	_	_	SG;IND;V;FIN;3;PST	_	_	_	_
+16	incluído	incluír	_	_	V;V.PTCP;SG;MASC	_	_	_	_
+17	en	en	_	_	ADP	_	_	_	_
+18	a	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+19	lista	lista	_	_	FEM;N;SG	_	_	_	_
+20	de	de	_	_	ADP	_	_	_	_
+21	honra	honra	_	_	FEM;N;SG	_	_	_	_
+22	de	de	_	_	ADP	_	_	_	_
+23	o	o	_	_	DEF;SG;DET;MASC	_	_	_	_
+24	IBBY	IBBY	_	_	PROPN;MASC;SG	_	_	_	_
+25	,	,	_	_	_	_	_	_	_
+26	traducido	traducir	_	_	V;V.PTCP;SG;MASC	_	_	_	_
+27	a	a	_	_	ADP	_	_	_	_
+28	varios	varios	_	_	MASC;DET;PL	_	_	_	_
+29	idiomas	idioma	_	_	MASC;N;PL	_	_	_	_
+30	agora	agora	_	_	ADV	_	_	_	_
+31	con	con	_	_	ADP	_	_	_	_
+32	as	o	_	_	DEF;PL;FEM;DET	_	_	_	_
+33	ilustracións	ilustración	_	_	FEM;N;PL	_	_	_	_
+34	de	de	_	_	ADP	_	_	_	_
+35	Enjamio	Enjamio	_	_	PROPN	_	_	_	_
+36	e	e	_	_	CONJ	_	_	_	_
+37	en	en	_	_	ADP	_	_	_	_
+38	esta	este	_	_	DET;FEM;SG	_	_	_	_
+39	edición	edición	_	_	FEM;N;SG	_	_	_	_
+40	que	que	_	_	FEM;PRO;SG	_	_	_	_
+41	coido	coidar	_	_	1;SG;IND;PRS;V;FIN	_	_	_	_
+42	definitiva	definitivo	_	_	ADJ;FEM;SG	_	_	_	_
+43	agardo	agardar	_	_	1;SG;IND;PRS;V;FIN	_	_	_	_
+44	que	que	_	_	CONJ	_	_	_	_
+45	siga	seguir	_	_	SBJV;SG;PRS;V;FIN;3	_	_	_	_
+46	a	a	_	_	ADP	_	_	_	_
+47	recolleitar	recolleitar	_	_	V;NFIN	_	_	_	_
+48	o	o	_	_	DEF;SG;DET;MASC	_	_	_	_
+49	favor	favor	_	_	MASC;N;SG	_	_	_	_
+50	de	de	_	_	ADP	_	_	_	_
+51	os	o	_	_	DEF;PL;DET;MASC	_	_	_	_
+52	lectores	lector	_	_	MASC;N;PL	_	_	_	_
+53	,	,	_	_	_	_	_	_	_
+54	como	como	_	_	ADV	_	_	_	_
+55	fixo	facer	_	_	SG;IND;V;FIN;3;PST	_	_	_	_
+56	dende	dende	_	_	ADP	_	_	_	_
+57	a	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+58	súa	seu	_	_	PSSS;SG;FEM;DET;3	_	_	_	_
+59	publicación	publicación	_	_	FEM;N;SG	_	_	_	_
+60	.	.	_	_	_	_	_	_	_
+
+# sent_id = 841
+# text = Asume responsabelmente que un país que pretenda o autogoberno non pode sustentalo no financiamento externo.
+1	Asume	asumir	_	_	SG;IND;PRS;V;FIN;3	_	_	_	_
+2	responsabelmente	responsabelmente	_	_	ADV	_	_	_	_
+3	que	que	_	_	CONJ	_	_	_	_
+4	un	un	_	_	SG;INDF;DET;MASC	_	_	_	_
+5	país	país	_	_	MASC;N;SG	_	_	_	_
+6	que	que	_	_	MASC;PRO;SG	_	_	_	_
+7	pretenda	pretender	_	_	SBJV;SG;PRS;V;FIN;3	_	_	_	_
+8	o	o	_	_	DEF;SG;DET;MASC	_	_	_	_
+9	autogoberno	autogoberno	_	_	MASC;N;SG	_	_	_	_
+10	non	non	_	_	ADV;NEG	_	_	_	_
+11	pode	poder	_	_	SG;IND;V;PRS;FIN;3	_	_	_	_
+12	sustentar	sustentar	_	_	V;NFIN	_	_	_	_
+13	lo	o	_	_	PRO;SG;ACC;MASC;3	_	_	_	_
+14	en	en	_	_	ADP	_	_	_	_
+15	o	o	_	_	DEF;SG;DET;MASC	_	_	_	_
+16	financiamento	financiamento	_	_	MASC;N;SG	_	_	_	_
+17	externo	externo	_	_	ADJ;MASC;SG	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = 280
+# text = ¿Por que non lle piden previsión á empresa para asegurarse un futuro?
+1	¿	¿	_	_	_	_	_	_	_
+2	Por	por	_	_	ADP	_	_	_	_
+3	que	que	_	_	MASC+FEM;PRO	_	_	_	_
+4	non	non	_	_	NEG;ADV	_	_	_	_
+5	lle	lle	_	_	FEM;PRO;SG;3;DAT	_	_	_	_
+6	piden	pedir	_	_	PL;V;3;IND;PRS;FIN	_	_	_	_
+7	previsión	previsión	_	_	N;SG;FEM	_	_	_	_
+8	a	a	_	_	ADP	_	_	_	_
+9	a	o	_	_	DEF;FEM;DET;SG	_	_	_	_
+10	empresa	empresa	_	_	N;SG;FEM	_	_	_	_
+11	para	para	_	_	ADP	_	_	_	_
+12	asegurar	asegurar	_	_	NFIN;V	_	_	_	_
+13	se	se	_	_	PRO;MASC+FEM;3	_	_	_	_
+14	un	un	_	_	MASC;INDF;DET;SG	_	_	_	_
+15	futuro	futuro	_	_	N;SG;MASC	_	_	_	_
+16	?	?	_	_	_	_	_	_	_
+
+# sent_id = 518
+# text = Reclaman así mesmo, a participación directa de Galiza na UE, cando os asuntos sexan do noso interese, e a capacidade de definir as políticas estatais (coincidente no fondo con Iniciativas 21).
+1	Reclaman	reclamar	_	_	PL;IND;PRS;V;FIN;3	_	_	_	_
+2	así	así	_	_	ADV	_	_	_	_
+3	mesmo	mesmo	_	_	ADV	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	a	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+6	participación	participación	_	_	FEM;N;SG	_	_	_	_
+7	directa	directo	_	_	ADJ;FEM;SG	_	_	_	_
+8	de	de	_	_	ADP	_	_	_	_
+9	Galiza	Galiza	_	_	PROPN	_	_	_	_
+10	en	en	_	_	ADP	_	_	_	_
+11	a	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+12	UE	UE	_	_	PROPN;FEM;SG	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	cando	cando	_	_	ADV	_	_	_	_
+15	os	o	_	_	DEF;PL;DET;MASC	_	_	_	_
+16	asuntos	asunto	_	_	MASC;N;PL	_	_	_	_
+17	sexan	ser	_	_	SBJV;PL;V;PRS;FIN;3	_	_	_	_
+18	de	de	_	_	ADP	_	_	_	_
+19	o	o	_	_	DEF;SG;DET;MASC	_	_	_	_
+20	noso	noso	_	_	PSSP;1;SG;DET;MASC	_	_	_	_
+21	interese	interese	_	_	MASC;N;SG	_	_	_	_
+22	,	,	_	_	_	_	_	_	_
+23	e	e	_	_	CONJ	_	_	_	_
+24	a	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+25	capacidade	capacidade	_	_	FEM;N;SG	_	_	_	_
+26	de	de	_	_	ADP	_	_	_	_
+27	definir	definir	_	_	V;NFIN	_	_	_	_
+28	as	o	_	_	DEF;PL;FEM;DET	_	_	_	_
+29	políticas	política	_	_	FEM;N;PL	_	_	_	_
+30	estatais	estatal	_	_	ADJ;FEM;PL	_	_	_	_
+31	(	(	_	_	_	_	_	_	_
+32	coincidente	coincidente	_	_	ADJ;MASC+FEM;SG	_	_	_	_
+33	en	en	_	_	ADP	_	_	_	_
+34	o	o	_	_	DEF;SG;DET;MASC	_	_	_	_
+35	fondo	fondo	_	_	MASC;N;SG	_	_	_	_
+36	con	con	_	_	ADP	_	_	_	_
+37	Iniciativas	iniciativas	_	_	PROPN	_	_	_	_
+38	21	21	_	_	PROPN	_	_	_	_
+39	)	)	_	_	_	_	_	_	_
+40	.	.	_	_	_	_	_	_	_
+
+# sent_id = 279
+# text = Aquí hai unha manipulación deste colectivo por parte da empresa.
+1	Aquí	aquí	_	_	ADV	_	_	_	_
+2	hai	haber	_	_	SG;IND;PRS;V;FIN;3	_	_	_	_
+3	unha	un	_	_	SG;INDF;FEM;DET	_	_	_	_
+4	manipulación	manipulación	_	_	FEM;N;SG	_	_	_	_
+5	de	de	_	_	ADP	_	_	_	_
+6	este	ese	_	_	MASC;DET;SG	_	_	_	_
+7	colectivo	colectivo	_	_	MASC;N;SG	_	_	_	_
+8	por	por	_	_	ADP	_	_	_	_
+9	parte	parte	_	_	FEM;N;SG	_	_	_	_
+10	de	de	_	_	ADP	_	_	_	_
+11	a	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+12	empresa	empresa	_	_	FEM;N;SG	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = 790
+# text = se cando a paso á guitarra, esa obra perde non a fago.
+1	se	se	_	_	CONJ	_	_	_	_
+2	cando	cando	_	_	ADV	_	_	_	_
+3	a	o	_	_	ACC;FEM;PRO;SG;3	_	_	_	_
+4	paso	pasar	_	_	V;SG;1;IND;PRS;FIN	_	_	_	_
+5	a	a	_	_	ADP	_	_	_	_
+6	a	o	_	_	DEF;FEM;DET;SG	_	_	_	_
+7	guitarra	guitarra	_	_	N;SG;FEM	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	esa	ese	_	_	SG;DET;FEM	_	_	_	_
+10	obra	obra	_	_	N;SG;FEM	_	_	_	_
+11	perde	perder	_	_	V;SG;3;IND;PRS;FIN	_	_	_	_
+12	non	non	_	_	NEG;ADV	_	_	_	_
+13	a	o	_	_	ACC;FEM;PRO;SG;3	_	_	_	_
+14	fago	facer	_	_	V;SG;1;IND;PRS;FIN	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = 945
+# text = Agora é a cidade galega con menos habitantes.
+1	Agora	agora	_	_	ADV	_	_	_	_
+2	é	ser	_	_	V;SG;3;IND;PRS;FIN	_	_	_	_
+3	a	o	_	_	DEF;FEM;DET;SG	_	_	_	_
+4	cidade	cidade	_	_	N;SG;FEM	_	_	_	_
+5	galega	galego	_	_	SG;FEM;ADJ	_	_	_	_
+6	con	con	_	_	ADP	_	_	_	_
+7	menos	menos	_	_	ADV	_	_	_	_
+8	habitantes	habitante	_	_	N;PL;MASC	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = 939
+# text = Dende logo, o que non nos falta é materia prima de primeira calidade para facer ikebana, que pode ter un gran futuro en Galiza.
+1	Dende	dende	_	_	ADP	_	_	_	_
+2	logo	logo	_	_	ADV	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	o	o	_	_	PRO;SG;MASC;3	_	_	_	_
+5	que	que	_	_	MASC;PRO;SG	_	_	_	_
+6	non	non	_	_	ADV;NEG	_	_	_	_
+7	nos	nos	_	_	1;MASC+FEM;PRO;PL;DAT	_	_	_	_
+8	falta	faltar	_	_	SG;IND;PRS;V;FIN;3	_	_	_	_
+9	é	ser	_	_	SG;IND;V;PRS;FIN;3	_	_	_	_
+10	materia	materia	_	_	FEM;N;SG	_	_	_	_
+11	prima	primo	_	_	ADJ;FEM;SG	_	_	_	_
+12	de	de	_	_	ADP	_	_	_	_
+13	primeira	primeiro	_	_	NUM;FEM;SG	_	_	_	_
+14	calidade	calidade	_	_	FEM;N;SG	_	_	_	_
+15	para	para	_	_	ADP	_	_	_	_
+16	facer	facer	_	_	V;NFIN	_	_	_	_
+17	ikebana	ikebana	_	_	FEM;N;SG	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	que	que	_	_	FEM;PRO;SG	_	_	_	_
+20	pode	poder	_	_	SG;IND;V;PRS;FIN;3	_	_	_	_
+21	ter	ter	_	_	V;NFIN	_	_	_	_
+22	un	un	_	_	SG;INDF;DET;MASC	_	_	_	_
+23	gran	grande	_	_	ADJ;MASC;SG	_	_	_	_
+24	futuro	futuro	_	_	MASC;N;SG	_	_	_	_
+25	en	en	_	_	ADP	_	_	_	_
+26	Galiza	Galiza	_	_	PROPN	_	_	_	_
+27	.	.	_	_	_	_	_	_	_
+
+# sent_id = 990
+# text = Pérdense.
+1	Perden	perder	_	_	PL;V;3;IND;PRS;FIN	_	_	_	_
+2	se	se	_	_	PRO;MASC+FEM;3	_	_	_	_
+3	.	.	_	_	_	_	_	_	_
+
+# sent_id = 240
+# text = eu non podía entrar así.
+1	eu	eu	_	_	PRO;NOM;MASC+FEM;SG;1	_	_	_	_
+2	non	non	_	_	NEG;ADV	_	_	_	_
+3	podía	poder	_	_	IPFV;V;SG;1;IND;FIN	_	_	_	_
+4	entrar	entrar	_	_	NFIN;V	_	_	_	_
+5	así	así	_	_	ADV	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = 27
+# text = Igualmente, o mantemento dos niveis básicos de benestar medidos segundo os parámetros da renda básica, vivenda, educación e sanidade.
+1	Igualmente	igualmente	_	_	ADV	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	o	o	_	_	DEF;MASC;DET;SG	_	_	_	_
+4	mantemento	mantemento	_	_	N;SG;MASC	_	_	_	_
+5	de	de	_	_	ADP	_	_	_	_
+6	os	o	_	_	DEF;MASC;DET;PL	_	_	_	_
+7	niveis	nivel	_	_	N;PL;MASC	_	_	_	_
+8	básicos	básico	_	_	PL;ADJ;MASC	_	_	_	_
+9	de	de	_	_	ADP	_	_	_	_
+10	benestar	benestar	_	_	N;SG;MASC	_	_	_	_
+11	medidos	medir	_	_	V.PTCP;PL;V;MASC	_	_	_	_
+12	segundo	segundo	_	_	ADP	_	_	_	_
+13	os	o	_	_	DEF;MASC;DET;PL	_	_	_	_
+14	parámetros	parámetro	_	_	N;PL;MASC	_	_	_	_
+15	de	de	_	_	ADP	_	_	_	_
+16	a	o	_	_	DEF;FEM;DET;SG	_	_	_	_
+17	renda	renda	_	_	N;SG;FEM	_	_	_	_
+18	básica	básico	_	_	SG;FEM;ADJ	_	_	_	_
+19	,	,	_	_	_	_	_	_	_
+20	vivenda	vivenda	_	_	N;SG;FEM	_	_	_	_
+21	,	,	_	_	_	_	_	_	_
+22	educación	educación	_	_	N;SG;FEM	_	_	_	_
+23	e	e	_	_	CONJ	_	_	_	_
+24	sanidade	sanidade	_	_	N;SG;FEM	_	_	_	_
+25	.	.	_	_	_	_	_	_	_
+
+# sent_id = 322
+# text = O poder galego garantirá unha axeitada ordenación do territorio que pule polo desenvolvemento social, económico e cultural, e coute ou mingüe os desequilibrios territoriais.
+1	O	o	_	_	DEF;MASC;DET;SG	_	_	_	_
+2	poder	poder	_	_	N;SG;MASC	_	_	_	_
+3	galego	galego	_	_	SG;ADJ;MASC	_	_	_	_
+4	garantirá	garantir	_	_	V;SG;3;IND;FIN;FUT	_	_	_	_
+5	unha	un	_	_	FEM;INDF;DET;SG	_	_	_	_
+6	axeitada	axeitado	_	_	SG;FEM;ADJ	_	_	_	_
+7	ordenación	ordenación	_	_	N;SG;FEM	_	_	_	_
+8	de	de	_	_	ADP	_	_	_	_
+9	o	o	_	_	DEF;MASC;DET;SG	_	_	_	_
+10	territorio	territorio	_	_	N;SG;MASC	_	_	_	_
+11	que	que	_	_	SG;FEM;PRO	_	_	_	_
+12	pule	pular	_	_	V;SG;3;PRS;FIN;SBJV	_	_	_	_
+13	por	por	_	_	ADP	_	_	_	_
+14	lo	o	_	_	DEF;MASC;DET;SG	_	_	_	_
+15	desenvolvemento	desenvolvemento	_	_	N;SG;MASC	_	_	_	_
+16	social	social	_	_	SG;ADJ;MASC	_	_	_	_
+17	,	,	_	_	_	_	_	_	_
+18	económico	económico	_	_	SG;ADJ;MASC	_	_	_	_
+19	e	e	_	_	CONJ	_	_	_	_
+20	cultural	cultural	_	_	SG;ADJ;MASC	_	_	_	_
+21	,	,	_	_	_	_	_	_	_
+22	e	e	_	_	CONJ	_	_	_	_
+23	coute	coutar	_	_	V;SG;3;PRS;FIN;SBJV	_	_	_	_
+24	ou	ou	_	_	CONJ	_	_	_	_
+25	mingüe	minguar	_	_	V;SG;3;PRS;FIN;SBJV	_	_	_	_
+26	os	o	_	_	DEF;MASC;DET;PL	_	_	_	_
+27	desequilibrios	desequilibrio	_	_	N;PL;MASC	_	_	_	_
+28	territoriais	territorial	_	_	PL;ADJ;MASC	_	_	_	_
+29	.	.	_	_	_	_	_	_	_
+
+# sent_id = 593
+# text = Só a min se me ocorre aparvar diante da tele agardando a aparición de Helena Seixo (Sarabela Teatro) na serie de Los Serrano.
+1	Só	só	_	_	ADV	_	_	_	_
+2	a	a	_	_	ADP	_	_	_	_
+3	min	min	_	_	1;MASC+FEM;PRO;SG	_	_	_	_
+4	se	se	_	_	MASC+FEM;PRO;3	_	_	_	_
+5	me	me	_	_	1;MASC+FEM;PRO;SG;DAT	_	_	_	_
+6	ocorre	ocorrer	_	_	SG;IND;PRS;V;FIN;3	_	_	_	_
+7	aparvar	aparvar	_	_	V;NFIN	_	_	_	_
+8	diante	diante	_	_	ADV	_	_	_	_
+9	de	de	_	_	ADP	_	_	_	_
+10	a	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+11	tele	tele	_	_	FEM;N;SG	_	_	_	_
+12	agardando	agardar	_	_	V;V.MSDR	_	_	_	_
+13	a	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+14	aparición	aparición	_	_	FEM;N;SG	_	_	_	_
+15	de	de	_	_	ADP	_	_	_	_
+16	Helena	helena	_	_	PROPN;FEM	_	_	_	_
+17	Seixo	seixo	_	_	PROPN;FEM	_	_	_	_
+18	(	(	_	_	_	_	_	_	_
+19	Sarabela	sarabela	_	_	PROPN	_	_	_	_
+20	Teatro	teatro	_	_	PROPN	_	_	_	_
+21	)	)	_	_	_	_	_	_	_
+22	en	en	_	_	ADP	_	_	_	_
+23	a	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+24	serie	serie	_	_	FEM;N;SG	_	_	_	_
+25	de	de	_	_	ADP	_	_	_	_
+26	Los	los	_	_	DET	_	_	_	_
+27	Serrano	serrano	_	_	PROPN	_	_	_	_
+28	.	.	_	_	_	_	_	_	_
+
+# sent_id = 197
+# text = Paco de Lucía desde a primeira nota de Entre dos aguas.
+1	Paco	paco	_	_	PROPN;MASC	_	_	_	_
+2	de	de	_	_	ADP	_	_	_	_
+3	Lucía	lucía	_	_	PROPN;MASC	_	_	_	_
+4	desde	desde	_	_	ADP	_	_	_	_
+5	a	o	_	_	DEF;FEM;DET;SG	_	_	_	_
+6	primeira	primeiro	_	_	NUM;SG;FEM	_	_	_	_
+7	nota	nota	_	_	N;SG;FEM	_	_	_	_
+8	de	de	_	_	ADP	_	_	_	_
+9	Entre	entre	_	_	PROPN	_	_	_	_
+10	dos	dos	_	_	NUM	_	_	_	_
+11	aguas	agua	_	_	N	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = 478
+# text = Ese foi un dos temas que máis discutimos na Asamblea Constituínte.
+1	Ese	ese	_	_	MASC;PRO;SG	_	_	_	_
+2	foi	ser	_	_	SG;IND;V;FIN;3;PST	_	_	_	_
+3	un	un	_	_	MASC;PRO;SG	_	_	_	_
+4	de	de	_	_	ADP	_	_	_	_
+5	os	o	_	_	DEF;PL;DET;MASC	_	_	_	_
+6	temas	tema	_	_	MASC;N;PL	_	_	_	_
+7	que	que	_	_	MASC;PRO;PL	_	_	_	_
+8	máis	máis	_	_	ADV	_	_	_	_
+9	discutimos	discutir	_	_	1;PL;IND;V;FIN;PST	_	_	_	_
+10	en	en	_	_	ADP	_	_	_	_
+11	a	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+12	Asamblea	asamblea	_	_	PROPN;FEM;SG	_	_	_	_
+13	Constituínte	constituínte	_	_	ADJ;SG	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = 918
+# text = Vas andando polo monte e miras para as uces, as acacias, as xestas e os toxos dunha maneira que che fai apreciar moito máis o que ves.
+1	Vas	ir	_	_	SG;IND;2;V;PRS;FIN	_	_	_	_
+2	andando	andar	_	_	V;V.MSDR	_	_	_	_
+3	por	por	_	_	ADP	_	_	_	_
+4	lo	o	_	_	DEF;SG;DET;MASC	_	_	_	_
+5	monte	monte	_	_	MASC;N;SG	_	_	_	_
+6	e	e	_	_	CONJ	_	_	_	_
+7	miras	mirar	_	_	SG;IND;2;PRS;V;FIN	_	_	_	_
+8	para	para	_	_	ADP	_	_	_	_
+9	as	o	_	_	DEF;PL;FEM;DET	_	_	_	_
+10	uces	uz	_	_	FEM;N;PL	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	as	o	_	_	DEF;PL;FEM;DET	_	_	_	_
+13	acacias	acacia	_	_	FEM;N;PL	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	as	o	_	_	DEF;PL;FEM;DET	_	_	_	_
+16	xestas	xesta	_	_	FEM;N;PL	_	_	_	_
+17	e	e	_	_	CONJ	_	_	_	_
+18	os	o	_	_	DEF;PL;DET;MASC	_	_	_	_
+19	toxos	toxo	_	_	MASC;N;PL	_	_	_	_
+20	de	de	_	_	ADP	_	_	_	_
+21	unha	un	_	_	SG;INDF;FEM;DET	_	_	_	_
+22	maneira	maneira	_	_	FEM;N;SG	_	_	_	_
+23	que	que	_	_	FEM;PRO;SG	_	_	_	_
+24	che	che	_	_	MASC+FEM;PRO;SG;2;DAT	_	_	_	_
+25	fai	facer	_	_	SG;IND;PRS;V;FIN;3	_	_	_	_
+26	apreciar	apreciar	_	_	V;NFIN	_	_	_	_
+27	moito	moito	_	_	ADV	_	_	_	_
+28	máis	máis	_	_	ADV	_	_	_	_
+29	o	o	_	_	PRO;SG;MASC;3	_	_	_	_
+30	que	que	_	_	MASC;PRO;SG	_	_	_	_
+31	ves	ver	_	_	SG;IND;2;PRS;V;FIN	_	_	_	_
+32	.	.	_	_	_	_	_	_	_
+
+# sent_id = 959
+# text = Pouco despois, esta merma laboral acadou a cifra de 8.126 postos laborais perdidos, pero a zona afectada só recibiu fondos de compensación que lle permitiron crear 300 postos de traballo.
+1	Pouco	pouco	_	_	ADV	_	_	_	_
+2	despois	despois	_	_	ADV	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	esta	este	_	_	DET;FEM;SG	_	_	_	_
+5	merma	merma	_	_	FEM;N;SG	_	_	_	_
+6	laboral	laboral	_	_	ADJ;FEM;SG	_	_	_	_
+7	acadou	acadar	_	_	SG;IND;V;FIN;3;PST	_	_	_	_
+8	a	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+9	cifra	cifra	_	_	FEM;N;SG	_	_	_	_
+10	de	de	_	_	ADP	_	_	_	_
+11	8.126	8.126	_	_	MASC;NUM;PL	_	_	_	_
+12	postos	posto	_	_	MASC;N;PL	_	_	_	_
+13	laborais	laboral	_	_	ADJ;MASC;PL	_	_	_	_
+14	perdidos	perder	_	_	V;V.PTCP;PL;MASC	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	pero	pero	_	_	CONJ	_	_	_	_
+17	a	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+18	zona	zona	_	_	FEM;N;SG	_	_	_	_
+19	afectada	afectado	_	_	ADJ;FEM;SG	_	_	_	_
+20	só	só	_	_	ADV	_	_	_	_
+21	recibiu	recibir	_	_	SG;IND;V;FIN;3;PST	_	_	_	_
+22	fondos	fondo	_	_	MASC;N;PL	_	_	_	_
+23	de	de	_	_	ADP	_	_	_	_
+24	compensación	compensación	_	_	FEM;N;SG	_	_	_	_
+25	que	que	_	_	MASC;PRO;PL	_	_	_	_
+26	lle	lle	_	_	PRO;SG;FEM;DAT;3	_	_	_	_
+27	permitiron	permitir	_	_	PL;IND;V;FIN;3;PST	_	_	_	_
+28	crear	crear	_	_	V;NFIN	_	_	_	_
+29	300	300	_	_	MASC;NUM;PL	_	_	_	_
+30	postos	posto	_	_	MASC;N;PL	_	_	_	_
+31	de	de	_	_	ADP	_	_	_	_
+32	traballo	traballo	_	_	MASC;N;SG	_	_	_	_
+33	.	.	_	_	_	_	_	_	_
+
+# sent_id = 352
+# text = Adxudicouse á Sociedade Espazos Temolúdicos SA de capital maioritario de Caixa Galicia, a xestión privada dunha parte da obra, nomeadamente a explotación comercial e os locais de hostalaría co que se xerarán, en conxunto, case catrocentos empregos directos máis outros tantos indirectos, aspecto importante dada a elevada porcentaxe de paro existente na comarca coruñesa.
+1	Adxudicou	adxudicar	_	_	V;SG;PST;3;IND;FIN	_	_	_	_
+2	se	se	_	_	PRO;MASC+FEM;3	_	_	_	_
+3	a	a	_	_	ADP	_	_	_	_
+4	a	o	_	_	DEF;FEM;DET;SG	_	_	_	_
+5	Sociedade	sociedade	_	_	SG;FEM;PROPN	_	_	_	_
+6	Espazos	espazos	_	_	N;PL;MASC	_	_	_	_
+7	Temolúdicos	temolúdicos	_	_	PL;ADJ;MASC	_	_	_	_
+8	SA	sa	_	_	SG;FEM;PROPN	_	_	_	_
+9	de	de	_	_	ADP	_	_	_	_
+10	capital	capital	_	_	N;SG;MASC	_	_	_	_
+11	maioritario	maioritario	_	_	SG;ADJ;MASC	_	_	_	_
+12	de	de	_	_	ADP	_	_	_	_
+13	Caixa	caixa	_	_	PROPN	_	_	_	_
+14	Galicia	galicia	_	_	PROPN	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	a	o	_	_	DEF;FEM;DET;SG	_	_	_	_
+17	xestión	xestión	_	_	N;SG;FEM	_	_	_	_
+18	privada	privado	_	_	SG;FEM;ADJ	_	_	_	_
+19	de	de	_	_	ADP	_	_	_	_
+20	unha	un	_	_	FEM;INDF;DET;SG	_	_	_	_
+21	parte	parte	_	_	N;SG;FEM	_	_	_	_
+22	de	de	_	_	ADP	_	_	_	_
+23	a	o	_	_	DEF;FEM;DET;SG	_	_	_	_
+24	obra	obra	_	_	N;SG;FEM	_	_	_	_
+25	,	,	_	_	_	_	_	_	_
+26	nomeadamente	nomeadamente	_	_	ADV	_	_	_	_
+27	a	o	_	_	DEF;FEM;DET;SG	_	_	_	_
+28	explotación	explotación	_	_	N;SG;FEM	_	_	_	_
+29	comercial	comercial	_	_	SG;FEM;ADJ	_	_	_	_
+30	e	e	_	_	CONJ	_	_	_	_
+31	os	o	_	_	DEF;MASC;DET;PL	_	_	_	_
+32	locais	local	_	_	N;PL;MASC	_	_	_	_
+33	de	de	_	_	ADP	_	_	_	_
+34	hostalaría	hostalaría	_	_	N;SG;FEM	_	_	_	_
+35	con	con	_	_	ADP	_	_	_	_
+36	o	o	_	_	DEF;MASC;DET;SG	_	_	_	_
+37	que	que	_	_	SG;PRO;MASC	_	_	_	_
+38	se	se	_	_	PRO;MASC+FEM;3	_	_	_	_
+39	xerarán	xerar	_	_	PL;V;3;IND;FIN;FUT	_	_	_	_
+40	,	,	_	_	_	_	_	_	_
+41	en	en	_	_	ADP	_	_	_	_
+42	conxunto	conxunto	_	_	N;SG;MASC	_	_	_	_
+43	,	,	_	_	_	_	_	_	_
+44	case	case	_	_	ADV	_	_	_	_
+45	catrocentos	catrocentos	_	_	NUM;PL;MASC	_	_	_	_
+46	empregos	emprego	_	_	N;PL;MASC	_	_	_	_
+47	directos	directo	_	_	PL;ADJ;MASC	_	_	_	_
+48	máis	máis	_	_	CONJ	_	_	_	_
+49	outros	outro	_	_	PL;DET;MASC	_	_	_	_
+50	tantos	tanto	_	_	PL;PRO;MASC	_	_	_	_
+51	indirectos	indirecto	_	_	PL;ADJ;MASC	_	_	_	_
+52	,	,	_	_	_	_	_	_	_
+53	aspecto	aspecto	_	_	N;SG;MASC	_	_	_	_
+54	importante	importante	_	_	SG;ADJ;MASC	_	_	_	_
+55	dada	dar	_	_	V.PTCP;SG;FEM;V	_	_	_	_
+56	a	o	_	_	DEF;FEM;DET;SG	_	_	_	_
+57	elevada	elevado	_	_	SG;FEM;ADJ	_	_	_	_
+58	porcentaxe	porcentaxe	_	_	N;SG;FEM	_	_	_	_
+59	de	de	_	_	ADP	_	_	_	_
+60	paro	paro	_	_	N;SG;MASC	_	_	_	_
+61	existente	existente	_	_	SG;FEM;ADJ	_	_	_	_
+62	en	en	_	_	ADP	_	_	_	_
+63	a	o	_	_	DEF;FEM;DET;SG	_	_	_	_
+64	comarca	comarca	_	_	N;SG;FEM	_	_	_	_
+65	coruñesa	coruñés	_	_	SG;FEM;ADJ	_	_	_	_
+66	.	.	_	_	_	_	_	_	_
+
+# sent_id = 323
+# text = No referente ás relacións coa Unión Europea, proponse unha "lexítima e efectiva participación por canles directas ou indirectas nos asuntos europeos".
+1	En	en	_	_	ADP	_	_	_	_
+2	o	o	_	_	DEF;SG;DET;MASC	_	_	_	_
+3	referente	referente	_	_	ADJ;MASC;SG	_	_	_	_
+4	a	a	_	_	ADP	_	_	_	_
+5	as	o	_	_	DEF;PL;FEM;DET	_	_	_	_
+6	relacións	relación	_	_	FEM;N;PL	_	_	_	_
+7	con	con	_	_	ADP	_	_	_	_
+8	a	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+9	Unión	unión	_	_	PROPN;FEM;SG	_	_	_	_
+10	Europea	europeo	_	_	ADJ;FEM;SG	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	propón	propoñer	_	_	SG;IND;PRS;V;FIN;3	_	_	_	_
+13	se	se	_	_	MASC+FEM;PRO;3	_	_	_	_
+14	unha	un	_	_	SG;INDF;FEM;DET	_	_	_	_
+15	"	"	_	_	_	_	_	_	_
+16	lexítima	lexítimo	_	_	ADJ;FEM;SG	_	_	_	_
+17	e	e	_	_	CONJ	_	_	_	_
+18	efectiva	efectivo	_	_	ADJ;FEM;SG	_	_	_	_
+19	participación	participación	_	_	FEM;N;SG	_	_	_	_
+20	por	por	_	_	ADP	_	_	_	_
+21	canles	canle	_	_	FEM;N;PL	_	_	_	_
+22	directas	directo	_	_	ADJ;FEM;PL	_	_	_	_
+23	ou	ou	_	_	CONJ	_	_	_	_
+24	indirectas	indirecto	_	_	ADJ;FEM;PL	_	_	_	_
+25	en	en	_	_	ADP	_	_	_	_
+26	os	o	_	_	DEF;PL;DET;MASC	_	_	_	_
+27	asuntos	asunto	_	_	MASC;N;PL	_	_	_	_
+28	europeos	europeo	_	_	ADJ;MASC;PL	_	_	_	_
+29	"	"	_	_	_	_	_	_	_
+30	.	.	_	_	_	_	_	_	_
+
+# sent_id = 1
+# text = O BNG solicitoulle a proposta a un equipo de expertos en diferentes áreas
+1	O	o	_	_	DEF;SG;DET;MASC	_	_	_	_
+2	BNG	BNG	_	_	PROPN;MASC;SG	_	_	_	_
+3	solicitou	solicitar	_	_	SG;IND;V;FIN;3;PST	_	_	_	_
+4	lle	lle	_	_	PRO;SG;DAT;MASC;3	_	_	_	_
+5	a	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+6	proposta	proposta	_	_	FEM;N;SG	_	_	_	_
+7	a	a	_	_	ADP	_	_	_	_
+8	un	un	_	_	SG;INDF;DET;MASC	_	_	_	_
+9	equipo	equipo	_	_	MASC;N;SG	_	_	_	_
+10	de	de	_	_	ADP	_	_	_	_
+11	expertos	experto	_	_	MASC;N;PL	_	_	_	_
+12	en	en	_	_	ADP	_	_	_	_
+13	diferentes	diferente	_	_	ADJ;FEM;PL	_	_	_	_
+14	áreas	área	_	_	FEM;N;PL	_	_	_	_
+
+# sent_id = 719
+# text = A visión que deita o autor é á vez mítica e realista, polo que o poeta, demasiadas veces, entrega un verso cheo de lugares comúns:
+1	A	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+2	visión	visión	_	_	FEM;N;SG	_	_	_	_
+3	que	que	_	_	FEM;PRO;SG	_	_	_	_
+4	deita	deitar	_	_	SG;IND;PRS;V;FIN;3	_	_	_	_
+5	o	o	_	_	DEF;SG;DET;MASC	_	_	_	_
+6	autor	autor	_	_	MASC;N;SG	_	_	_	_
+7	é	ser	_	_	SG;IND;V;PRS;FIN;3	_	_	_	_
+8	a	a	_	_	ADP	_	_	_	_
+9	a	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+10	vez	vez	_	_	FEM;N;SG	_	_	_	_
+11	mítica	mítico	_	_	ADJ;FEM;SG	_	_	_	_
+12	e	e	_	_	CONJ	_	_	_	_
+13	realista	realista	_	_	ADJ;FEM;SG	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	por	por	_	_	ADP	_	_	_	_
+16	lo	o	_	_	DEF;SG;DET;MASC	_	_	_	_
+17	que	que	_	_	MASC;PRO;SG	_	_	_	_
+18	o	o	_	_	DEF;SG;DET;MASC	_	_	_	_
+19	poeta	poeta	_	_	MASC;N;SG	_	_	_	_
+20	,	,	_	_	_	_	_	_	_
+21	demasiadas	demasiado	_	_	DET;FEM;PL	_	_	_	_
+22	veces	vez	_	_	FEM;N;PL	_	_	_	_
+23	,	,	_	_	_	_	_	_	_
+24	entrega	entregar	_	_	SG;IND;PRS;V;FIN;3	_	_	_	_
+25	un	un	_	_	SG;INDF;DET;MASC	_	_	_	_
+26	verso	verso	_	_	MASC;N;SG	_	_	_	_
+27	cheo	cheo	_	_	ADJ;MASC;SG	_	_	_	_
+28	de	de	_	_	ADP	_	_	_	_
+29	lugares	lugar	_	_	MASC;N;PL	_	_	_	_
+30	comúns	común	_	_	ADJ;MASC;PL	_	_	_	_
+31	:	:	_	_	_	_	_	_	_
+
+# sent_id = 728
+# text = Nunca como aquel día vira Mercedes Núñez a morte tan de perto.
+1	Nunca	nunca	_	_	ADV;NEG	_	_	_	_
+2	como	como	_	_	CONJ	_	_	_	_
+3	aquel	aquel	_	_	MASC;DET;SG	_	_	_	_
+4	día	día	_	_	MASC;N;SG	_	_	_	_
+5	vira	ver	_	_	SG;IND;PST+PRF;V;FIN;3	_	_	_	_
+6	Mercedes	mercedes	_	_	PROPN;FEM	_	_	_	_
+7	Núñez	núñez	_	_	PROPN;FEM	_	_	_	_
+8	a	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+9	morte	morte	_	_	FEM;N;SG	_	_	_	_
+10	tan	tanto	_	_	ADV	_	_	_	_
+11	de	de	_	_	ADP	_	_	_	_
+12	perto	perto	_	_	ADV	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = 336
+# text = Coa fin de lograr o máximo consenso para un novo texto estatutario que ou é de todos ou non será.
+1	Con	con	_	_	ADP	_	_	_	_
+2	a	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+3	fin	fin	_	_	FEM;N;SG	_	_	_	_
+4	de	de	_	_	ADP	_	_	_	_
+5	lograr	lograr	_	_	V;NFIN	_	_	_	_
+6	o	o	_	_	DEF;SG;DET;MASC	_	_	_	_
+7	máximo	máximo	_	_	ADJ;MASC;RL;SG	_	_	_	_
+8	consenso	consenso	_	_	MASC;N;SG	_	_	_	_
+9	para	para	_	_	ADP	_	_	_	_
+10	un	un	_	_	SG;INDF;DET;MASC	_	_	_	_
+11	novo	novo	_	_	ADJ;MASC;SG	_	_	_	_
+12	texto	texto	_	_	MASC;N;SG	_	_	_	_
+13	estatutario	estatutario	_	_	ADJ;MASC;SG	_	_	_	_
+14	que	que	_	_	MASC;PRO;SG	_	_	_	_
+15	ou	ou	_	_	CONJ	_	_	_	_
+16	é	ser	_	_	SG;IND;V;PRS;FIN;3	_	_	_	_
+17	de	de	_	_	ADP	_	_	_	_
+18	todos	todo	_	_	MASC;PRO;PL	_	_	_	_
+19	ou	ou	_	_	CONJ	_	_	_	_
+20	non	non	_	_	ADV;NEG	_	_	_	_
+21	será	ser	_	_	SG;3;IND;V;FIN;FUT	_	_	_	_
+22	.	.	_	_	_	_	_	_	_
+
+# sent_id = 722
+# text = E ás veces, un certo mecanicismo, leva ao poeta a artellar versos que prefiren o poética á razón:
+1	E	e	_	_	CONJ	_	_	_	_
+2	a	a	_	_	ADP	_	_	_	_
+3	as	o	_	_	DEF;FEM;DET;PL	_	_	_	_
+4	veces	vez	_	_	N;FEM;PL	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	un	un	_	_	MASC;INDF;DET;SG	_	_	_	_
+7	certo	certo	_	_	SG;DET;MASC	_	_	_	_
+8	mecanicismo	mecanicismo	_	_	N;SG;MASC	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	leva	levar	_	_	V;SG;3;IND;PRS;FIN	_	_	_	_
+11	a	a	_	_	ADP	_	_	_	_
+12	o	o	_	_	DEF;MASC;DET;SG	_	_	_	_
+13	poeta	poeta	_	_	N;SG;MASC	_	_	_	_
+14	a	a	_	_	ADP	_	_	_	_
+15	artellar	artellar	_	_	NFIN;V	_	_	_	_
+16	versos	verso	_	_	N;PL;MASC	_	_	_	_
+17	que	que	_	_	PL;PRO;MASC	_	_	_	_
+18	prefiren	preferir	_	_	PL;V;3;IND;PRS;FIN	_	_	_	_
+19	o	o	_	_	DEF;MASC;DET;SG	_	_	_	_
+20	poética	poética	_	_	N;SG;FEM	_	_	_	_
+21	a	a	_	_	ADP	_	_	_	_
+22	a	o	_	_	DEF;FEM;DET;SG	_	_	_	_
+23	razón	razón	_	_	N;SG;FEM	_	_	_	_
+24	:	:	_	_	_	_	_	_	_
+
+# sent_id = 440
+# text = A denuncia a tempo tamén pode gañar unha batalla.
+1	A	o	_	_	DEF;FEM;DET;SG	_	_	_	_
+2	denuncia	denuncia	_	_	N;SG;FEM	_	_	_	_
+3	a	a	_	_	ADP	_	_	_	_
+4	tempo	tempo	_	_	N;SG;MASC	_	_	_	_
+5	tamén	tamén	_	_	ADV	_	_	_	_
+6	pode	poder	_	_	V;SG;3;IND;PRS;FIN	_	_	_	_
+7	gañar	gañar	_	_	NFIN;V	_	_	_	_
+8	unha	un	_	_	FEM;INDF;DET;SG	_	_	_	_
+9	batalla	batalla	_	_	N;SG;FEM	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = 175
+# text = Aproveitando a circunstancia, Porro, sempre atenta á posibilidade de pendurarse medallas, quixo apuntarse un tanto propagandístico ofrecéndose como mediadora entre as partes.
+1	Aproveitando	aproveitar	_	_	V.MSDR;V	_	_	_	_
+2	a	o	_	_	DEF;FEM;DET;SG	_	_	_	_
+3	circunstancia	circunstancia	_	_	N;SG;FEM	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	Porro	Porro	_	_	PROPN	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	sempre	sempre	_	_	ADV	_	_	_	_
+8	atenta	atento	_	_	SG;FEM;ADJ	_	_	_	_
+9	a	a	_	_	ADP	_	_	_	_
+10	a	o	_	_	DEF;FEM;DET;SG	_	_	_	_
+11	posibilidade	posibilidade	_	_	N;SG;FEM	_	_	_	_
+12	de	de	_	_	ADP	_	_	_	_
+13	pendurar	pendurar	_	_	NFIN;V	_	_	_	_
+14	se	se	_	_	PRO;MASC+FEM;3	_	_	_	_
+15	medallas	medalla	_	_	N;FEM;PL	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	quixo	querer	_	_	V;SG;PST;3;IND;FIN	_	_	_	_
+18	apuntar	apuntar	_	_	NFIN;V	_	_	_	_
+19	se	se	_	_	PRO;MASC+FEM;3	_	_	_	_
+20	un	un	_	_	MASC;INDF;DET;SG	_	_	_	_
+21	tanto	tanto	_	_	N;SG;MASC	_	_	_	_
+22	propagandístico	propagandístico	_	_	SG;ADJ;MASC	_	_	_	_
+23	ofrecendo	ofrecer	_	_	V.MSDR;V	_	_	_	_
+24	se	se	_	_	PRO;MASC+FEM;3	_	_	_	_
+25	como	como	_	_	ADV	_	_	_	_
+26	mediadora	mediador	_	_	N;SG;FEM	_	_	_	_
+27	entre	entre	_	_	ADP	_	_	_	_
+28	as	o	_	_	DEF;FEM;DET;PL	_	_	_	_
+29	partes	parte	_	_	N;FEM;PL	_	_	_	_
+30	.	.	_	_	_	_	_	_	_
+
+# sent_id = 494
+# text = Cada ano acaban a carreira en Galicia arredor de cen xornalistas.
+1	Cada	cada	_	_	MASC;DET;SG	_	_	_	_
+2	ano	ano	_	_	MASC;N;SG	_	_	_	_
+3	acaban	acabar	_	_	PL;IND;PRS;V;FIN;3	_	_	_	_
+4	a	o	_	_	DEF;SG;FEM;DET	_	_	_	_
+5	carreira	carreira	_	_	FEM;N;SG	_	_	_	_
+6	en	en	_	_	ADP	_	_	_	_
+7	Galicia	Galicia	_	_	PROPN	_	_	_	_
+8	arredor	arredor	_	_	ADV	_	_	_	_
+9	de	de	_	_	ADP	_	_	_	_
+10	cen	cen	_	_	MASC+FEM;NUM;PL	_	_	_	_
+11	xornalistas	xornalista	_	_	MASC+FEM;N;PL	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = 456
+# text = En xeral son palabras de uso técnico e científico.
+1	En	en	_	_	ADP	_	_	_	_
+2	xeral	xeral	_	_	ADJ;SG	_	_	_	_
+3	son	ser	_	_	PL;IND;V;PRS;FIN;3	_	_	_	_
+4	palabras	palabra	_	_	FEM;N;PL	_	_	_	_
+5	de	de	_	_	ADP	_	_	_	_
+6	uso	uso	_	_	MASC;N;SG	_	_	_	_
+7	técnico	técnico	_	_	ADJ;MASC;SG	_	_	_	_
+8	e	e	_	_	CONJ	_	_	_	_
+9	científico	científico	_	_	ADJ;MASC;SG	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = 96
+# text = Beiras propuxo que nacionalistas e socialistas mostren "compenetración perfecta" porque os cidadáns captan se son capaces de entenderse nun futuro goberno ou non, algo decisivo para que os votantes aposten polo cambio de goberno.
+1	Beiras	Beiras	_	_	PROPN	_	_	_	_
+2	propuxo	propoñer	_	_	SG;IND;V;FIN;3;PST	_	_	_	_
+3	que	que	_	_	CONJ	_	_	_	_
+4	nacionalistas	nacionalista	_	_	MASC+FEM;N;PL	_	_	_	_
+5	e	e	_	_	CONJ	_	_	_	_
+6	socialistas	socialista	_	_	MASC+FEM;N;PL	_	_	_	_
+7	mostren	mostrar	_	_	SBJV;PL;PRS;V;FIN;3	_	_	_	_
+8	"	"	_	_	_	_	_	_	_
+9	compenetración	compenetración	_	_	FEM;N;SG	_	_	_	_
+10	perfecta	perfecto	_	_	ADJ;FEM;SG	_	_	_	_
+11	"	"	_	_	_	_	_	_	_
+12	porque	porque	_	_	CONJ	_	_	_	_
+13	os	o	_	_	DEF;PL;DET;MASC	_	_	_	_
+14	cidadáns	cidadán	_	_	MASC;N;PL	_	_	_	_
+15	captan	captar	_	_	PL;IND;PRS;V;FIN;3	_	_	_	_
+16	se	se	_	_	CONJ	_	_	_	_
+17	son	ser	_	_	PL;IND;V;PRS;FIN;3	_	_	_	_
+18	capaces	capaz	_	_	ADJ;MASC;PL	_	_	_	_
+19	de	de	_	_	ADP	_	_	_	_
+20	entender	entender	_	_	V;NFIN	_	_	_	_
+21	se	se	_	_	MASC+FEM;PRO;3	_	_	_	_
+22	en	en	_	_	ADP	_	_	_	_
+23	un	un	_	_	SG;INDF;DET;MASC	_	_	_	_
+24	futuro	futuro	_	_	ADJ;MASC;SG	_	_	_	_
+25	goberno	goberno	_	_	MASC;N;SG	_	_	_	_
+26	ou	ou	_	_	CONJ	_	_	_	_
+27	non	non	_	_	ADV;NEG	_	_	_	_
+28	,	,	_	_	_	_	_	_	_
+29	algo	algo	_	_	MASC;PRO;SG	_	_	_	_
+30	decisivo	decisivo	_	_	ADJ;MASC;SG	_	_	_	_
+31	para	para	_	_	ADP	_	_	_	_
+32	que	que	_	_	CONJ	_	_	_	_
+33	os	o	_	_	DEF;PL;DET;MASC	_	_	_	_
+34	votantes	votante	_	_	MASC;N;PL	_	_	_	_
+35	aposten	apostar	_	_	SBJV;PL;PRS;V;FIN;3	_	_	_	_
+36	por	por	_	_	ADP	_	_	_	_
+37	lo	o	_	_	DEF;SG;DET;MASC	_	_	_	_
+38	cambio	cambio	_	_	MASC;N;SG	_	_	_	_
+39	de	de	_	_	ADP	_	_	_	_
+40	goberno	goberno	_	_	MASC;N;SG	_	_	_	_
+41	.	.	_	_	_	_	_	_	_
+
+# sent_id = 193
+# text = Asombran os que apenas chegaron e xa construíron un mundo tan propio, tan lúcido e tan vigoroso.
+1	Asombran	asombrar	_	_	PL;IND;PRS;V;FIN;3	_	_	_	_
+2	os	o	_	_	PRO;PL;MASC;3	_	_	_	_
+3	que	que	_	_	MASC;PRO;PL	_	_	_	_
+4	apenas	apenas	_	_	ADV	_	_	_	_
+5	chegaron	chegar	_	_	PL;IND;V;FIN;3;PST	_	_	_	_
+6	e	e	_	_	CONJ	_	_	_	_
+7	xa	xa	_	_	ADV	_	_	_	_
+8	construíron	construír	_	_	PL;IND;V;FIN;3;PST	_	_	_	_
+9	un	un	_	_	SG;INDF;DET;MASC	_	_	_	_
+10	mundo	mundo	_	_	MASC;N;SG	_	_	_	_
+11	tan	tanto	_	_	ADV	_	_	_	_
+12	propio	propio	_	_	ADJ;MASC;SG	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	tan	tanto	_	_	ADV	_	_	_	_
+15	lúcido	lúcido	_	_	ADJ;MASC;SG	_	_	_	_
+16	e	e	_	_	CONJ	_	_	_	_
+17	tan	tanto	_	_	ADV	_	_	_	_
+18	vigoroso	vigoroso	_	_	ADJ;MASC;SG	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# sent_id = 792
+# text = Cal é a mellor época para a guitarra nos eidos do repertorio e da técnica?
+1	Cal	cal	_	_	SG;FEM;PRO	_	_	_	_
+2	é	ser	_	_	V;SG;3;IND;PRS;FIN	_	_	_	_
+3	a	o	_	_	DEF;FEM;DET;SG	_	_	_	_
+4	mellor	mellor	_	_	CMPR;FEM;ADJ;SG	_	_	_	_
+5	época	época	_	_	N;SG;FEM	_	_	_	_
+6	para	para	_	_	ADP	_	_	_	_
+7	a	o	_	_	DEF;FEM;DET;SG	_	_	_	_
+8	guitarra	guitarra	_	_	N;SG;FEM	_	_	_	_
+9	en	en	_	_	ADP	_	_	_	_
+10	os	o	_	_	DEF;MASC;DET;PL	_	_	_	_
+11	eidos	eido	_	_	N;PL;MASC	_	_	_	_
+12	de	de	_	_	ADP	_	_	_	_
+13	o	o	_	_	DEF;MASC;DET;SG	_	_	_	_
+14	repertorio	repertorio	_	_	N;SG;MASC	_	_	_	_
+15	e	e	_	_	CONJ	_	_	_	_
+16	de	de	_	_	ADP	_	_	_	_
+17	a	o	_	_	DEF;FEM;DET;SG	_	_	_	_
+18	técnica	técnica	_	_	N;SG;FEM	_	_	_	_
+19	?	?	_	_	_	_	_	_	_
+
+# sent_id = 261
+# text = Eu dígolle sempre ao alcalde que o BNG ten unha visión máis endogámica que lle dificulta o diálogo con outras administracións.
+1	Eu	eu	_	_	1;MASC+FEM;PRO;SG;NOM	_	_	_	_
+2	digo	dicir	_	_	1;SG;IND;PRS;V;FIN	_	_	_	_
+3	lle	lle	_	_	PRO;SG;DAT;MASC;3	_	_	_	_
+4	sempre	sempre	_	_	ADV	_	_	_	_
+5	a	a	_	_	ADP	_	_	_	_
+6	o	o	_	_	DEF;SG;DET;MASC	_	_	_	_
+7	alcalde	alcalde	_	_	MASC;N;SG	_	_	_	_
+8	que	que	_	_	CONJ	_	_	_	_
+9	o	o	_	_	DEF;SG;DET;MASC	_	_	_	_
+10	BNG	BNG	_	_	PROPN;MASC;SG	_	_	_	_
+11	ten	ter	_	_	SG;IND;PRS;V;FIN;3	_	_	_	_
+12	unha	un	_	_	SG;INDF;FEM;DET	_	_	_	_
+13	visión	visión	_	_	FEM;N;SG	_	_	_	_
+14	máis	máis	_	_	ADV	_	_	_	_
+15	endogámica	endogámico	_	_	ADJ;FEM;SG	_	_	_	_
+16	que	que	_	_	FEM;PRO;SG	_	_	_	_
+17	lle	lle	_	_	PRO;SG;DAT;MASC;3	_	_	_	_
+18	dificulta	dificultar	_	_	SG;IND;PRS;V;FIN;3	_	_	_	_
+19	o	o	_	_	DEF;SG;DET;MASC	_	_	_	_
+20	diálogo	diálogo	_	_	MASC;N;SG	_	_	_	_
+21	con	con	_	_	ADP	_	_	_	_
+22	outras	outro	_	_	DET;FEM;PL	_	_	_	_
+23	administracións	administración	_	_	FEM;N;PL	_	_	_	_
+24	.	.	_	_	_	_	_	_	_
+
+# sent_id = 107
+# text = Desde o PSOE tamén están a traballar con outra posibilidade:
+1	Desde	desde	_	_	ADP	_	_	_	_
+2	o	o	_	_	DEF;MASC;DET;SG	_	_	_	_
+3	PSOE	PSOE	_	_	SG;PROPN;MASC	_	_	_	_
+4	tamén	tamén	_	_	ADV	_	_	_	_
+5	están	estar	_	_	PL;V;3;IND;PRS;FIN	_	_	_	_
+6	a	a	_	_	ADP	_	_	_	_
+7	traballar	traballar	_	_	NFIN;V	_	_	_	_
+8	con	con	_	_	ADP	_	_	_	_
+9	outra	outro	_	_	SG;DET;FEM	_	_	_	_
+10	posibilidade	posibilidade	_	_	N;SG;FEM	_	_	_	_
+11	:	:	_	_	_	_	_	_	_
+

@@ -1,0 +1,1572 @@
+# sent_id = wikipedia.vislcg.txt:1080:22001
+# text = Flestu fólk eru bøndur.
+# text[eng] = Most people are farmers.
+# labels = to_check
+1	Flestu	mangur	_	_	DEF;NOM;PL;NEUT;RL;ADJ	_	_	_	_
+2	fólk	fólk	_	_	NOM;PL;NEUT;N;INDF	_	_	_	_
+3	eru	vera	_	_	PRS;PL;IND;V	_	_	_	_
+4	bøndur	bóndi	_	_	NOM;PL;N;INDF;MASC	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:1107:22561
+# text = Útvinningin er í tveimum umførum.
+# text[eng] =
+# labels = to_check
+1	Útvinningin	útvinning	_	_	DEF;NOM;SG;N;FEM	_	_	_	_
+2	er	vera	_	_	SG;IND;V;3;PRS	_	_	_	_
+3	í	í	_	_	ADP	_	_	_	_
+4	tveimum	tvey	_	_	NEUT;SG;DAT;NUM	_	_	_	_
+5	umførum	umfar	_	_	PL;NEUT;N;INDF;DAT	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:204:4047
+# text = Á norðursíðuni er bygdin Kollafjørður.
+# text[eng] = On the north side is the village of Kollafjørður.
+# labels = to_check
+1	Á	á	_	_	ADP	_	_	_	_
+2	norðursíðuni	norðursíða	_	_	DEF;SG;N;DAT;FEM	_	_	_	_
+3	er	vera	_	_	SG;IND;V;3;PRS	_	_	_	_
+4	bygdin	bygd	_	_	DEF;NOM;SG;N;FEM	_	_	_	_
+5	Kollafjørður	Kollafjørður	_	_	NOM;SG;PROPN;INDF;MASC	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:482:9765
+# text = Útferðarmøguleikar á Akureyri eru stak góðir.
+# text[eng] = Excursion possibilities in Akureyri are exceptionally good.
+# labels = to_check disam
+1	Útferðarmøguleikar	útferðmøguleiki	_	_	NOM;PL;N;INDF;MASC	_	_	_	_
+2	á	á	_	_	ADP	_	_	_	_
+3	Akureyri	Akureyri	_	_	PROPN;SG;DAT	_	_	_	_
+4	eru	vera	_	_	PRS;PL;IND;V	_	_	_	_
+5	stak	stak	_	_	ADV	_	_	_	_
+6	góðir	góður	_	_	NOM;PL;INDF;MASC;ADJ	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:728:14819
+# text = Hetta er tó ikki prógvað.
+# text[eng] = This is still not proven.
+# labels = to_check
+1	Hetta	hesin	_	_	NOM;SG;NEUT;PRO	_	_	_	_
+2	er	vera	_	_	SG;IND;V;3;PRS	_	_	_	_
+3	tó	tó	_	_	ADV	_	_	_	_
+4	ikki	ikki	_	_	ADV	_	_	_	_
+5	prógvað	prógva	_	_	V.CVB;V	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:428:8665
+# text = Nú líður summarið.
+# text[eng] = Now the summer gets closer.
+# labels = to_check
+1	Nú	nú	_	_	ADV	_	_	_	_
+2	líður	líða	_	_	SG;IND;V;3;PRS	_	_	_	_
+3	summarið	summar	_	_	DEF;NOM;SG;NEUT;N	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:1062:21599
+# text = Føroyar eru eitt tílíkt umveldi.
+# text[eng] =
+# labels = to_check
+1	Føroyar	Føroyar	_	_	NOM;PL;PROPN;INDF;FEM	_	_	_	_
+2	eru	vera	_	_	PRS;PL;IND;V	_	_	_	_
+3	eitt	ein	_	_	NOM;DET;SG;NEUT	_	_	_	_
+4	tílíkt	tílíkur	_	_	NOM;SG;NEUT;INDF;ADJ	_	_	_	_
+5	umveldi	umveldi	_	_	NOM;SG;NEUT;N;INDF	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:998:20393
+# text = Í trongum tíðum hevur hvalur verið bjargingin hjá mongum húsarhaldi.
+# text[eng] =
+# labels = to_check
+1	Í	í	_	_	ADP	_	_	_	_
+2	trongum	trongur	_	_	PL;INDF;DAT;FEM;ADJ	_	_	_	_
+3	tíðum	tíð	_	_	PL;N;INDF;DAT;FEM	_	_	_	_
+4	hevur	hava	_	_	SG;IND;V;3;PRS	_	_	_	_
+5	hvalur	hvalur	_	_	NOM;SG;N;INDF;MASC	_	_	_	_
+6	verið	vera	_	_	V.CVB;V	_	_	_	_
+7	bjargingin	bjarging	_	_	DEF;NOM;SG;N;FEM	_	_	_	_
+8	hjá	hjá	_	_	ADP	_	_	_	_
+9	mongum	mangur	_	_	SG;NEUT;INDF;DAT;ADJ	_	_	_	_
+10	húsarhaldi	húsarhald	_	_	SG;NEUT;N;INDF;DAT	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:1184:24255
+# text = Oyggin hoyrir til Norra.
+# text[eng] =
+# labels = to_check
+1	Oyggin	oyggj	_	_	DEF;NOM;SG;N;FEM	_	_	_	_
+2	hoyrir	hoyra	_	_	SG;IND;V;3;PRS	_	_	_	_
+3	til	til	_	_	ADP	_	_	_	_
+4	Norra	Norra	_	_	NOM;PROPN;SG	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:1008:20599
+# text = 49.2 % av fólkinum í St. Louis eru afroamerikanarar.
+# text[eng] = 49.2% of people in St. Louis are African American.
+# labels = to_check
+1	49.2	49.2	_	_	_	_	_	_	_
+2	%	%	_	_	NOM;NUM	_	_	_	_
+3	av	av	_	_	ADP	_	_	_	_
+4	fólkinum	fólk	_	_	DEF;SG;NEUT;N;DAT	_	_	_	_
+5	í	í	_	_	ADP	_	_	_	_
+6	St.	st	_	_	N	_	_	_	_
+7	Louis	Louis	_	_	ACC;PROPN;SG	_	_	_	_
+8	eru	vera	_	_	PRS;PL;IND;V	_	_	_	_
+9	afroamerikanarar	afroamerikanari	_	_	NOM;PL;N;INDF;MASC	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:311:6183
+# text = Salmonella kann vera uttan á skalinum og inni í egginum.
+# text[eng] = Salmonella can be from outside on the shell and inside in the egg.
+# labels = to_check
+1	Salmonella	salmonella	_	_	NOM;SG;N;INDF;FEM	_	_	_	_
+2	kann	kunna	_	_	SG;IND;V;3;PRS	_	_	_	_
+3	vera	vera	_	_	NFIN;V	_	_	_	_
+4	uttan	uttan	_	_	ADV	_	_	_	_
+5	á	á	_	_	ADP	_	_	_	_
+6	skalinum	skal	_	_	DEF;SG;NEUT;N;DAT	_	_	_	_
+7	og	og	_	_	CONJ	_	_	_	_
+8	inni	inni	_	_	ADV	_	_	_	_
+9	í	í	_	_	ADP	_	_	_	_
+10	egginum	egg	_	_	DEF;SG;NEUT;N;DAT	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:1111:22621
+# text = Síðani skuldi uppskotið berast fram fyri almenninginum.
+# text[eng] =
+# labels = to_check
+1	Síðani	síðani	_	_	ADV	_	_	_	_
+2	skuldi	skula	_	_	PST;SG;IND;V	_	_	_	_
+3	uppskotið	uppskot	_	_	DEF;NOM;SG;NEUT;N	_	_	_	_
+4	berast	bera	_	_	NFIN;PASS;V	_	_	_	_
+5	fram	fram	_	_	ADV	_	_	_	_
+6	fyri	fyri	_	_	ADP	_	_	_	_
+7	almenninginum	almenningur	_	_	DEF;SG;N;DAT;MASC	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:131:2661
+# text = Hvannasund er fyrndarbygd.
+# text[eng] =
+# labels = to_check
+1	Hvannasund	Hvannasund	_	_	NOM;SG;NEUT;PROPN;INDF	_	_	_	_
+2	er	vera	_	_	SG;IND;V;3;PRS	_	_	_	_
+3	fyrndarbygd	fyrndbygd	_	_	NOM;SG;N;INDF;FEM	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:1002:20469
+# text = Eitt tíðarskeið var hon varalimur Rithøvundafelagsins í Málnevndini.
+# text[eng] = For a period she was a deputy of the Writers' Union in Málnevndini.
+# labels = to_check
+1	Eitt	ein	_	_	NOM;DET;SG;NEUT	_	_	_	_
+2	tíðarskeið	tíðarskeið	_	_	NOM;SG;NEUT;N;INDF	_	_	_	_
+3	var	vera	_	_	SG;IND;V;3;PST	_	_	_	_
+4	hon	hon	_	_	NOM;SG;3;FEM;PRO	_	_	_	_
+5	varalimur	vørurlimur	_	_	NOM;SG;N;INDF;MASC	_	_	_	_
+6	Rithøvundafelagsins	rithøvundafelag	_	_	DEF;SG;GEN;NEUT;N	_	_	_	_
+7	í	í	_	_	ADP	_	_	_	_
+8	Málnevndini	Málnevndini	_	_	PROPN;SG;DAT	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:674:13747
+# text = Bíblian sigur, at allur herurin druknaði.
+# text[eng] = The Bible says that the whole army drowned.
+# labels = to_check
+1	Bíblian	bíblia	_	_	DEF;NOM;SG;N;FEM	_	_	_	_
+2	sigur	siga	_	_	SG;IND;V;3;PRS	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	at	at	_	_	CONJ	_	_	_	_
+5	allur	allur	_	_	NOM;SG;INDF;DET;MASC	_	_	_	_
+6	herurin	herur	_	_	DEF;NOM;SG;N;MASC	_	_	_	_
+7	druknaði	drukna	_	_	PST;SG;IND;V	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:33:723
+# text = Fríggjadagur: Fríggjadagur er ein vikudagur.
+# text[eng] = Friday: Friday is a weekday.
+# labels = to_check
+1	Fríggjadagur	fríggjadagur	_	_	NOM;SG;N;INDF;MASC	_	_	_	_
+2	:	:	_	_	_	_	_	_	_
+3	Fríggjadagur	fríggjadagur	_	_	NOM;SG;N;INDF;MASC	_	_	_	_
+4	er	vera	_	_	SG;IND;V;3;PRS	_	_	_	_
+5	ein	ein	_	_	NOM;DET;SG;MASC	_	_	_	_
+6	vikudagur	vikudagur	_	_	NOM;SG;N;INDF;MASC	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:596:12095
+# text = Hernaðarstýrið var frá 1962 til 2011.
+# text[eng] = There was military rule from 1962 to 2011.
+# labels = to_check
+1	Hernaðarstýrið	hernaðurstýri	_	_	DEF;NOM;SG;NEUT;N	_	_	_	_
+2	var	vera	_	_	SG;IND;V;3;PST	_	_	_	_
+3	frá	frá	_	_	ADP	_	_	_	_
+4	1962	1962	_	_	DAT;NUM	_	_	_	_
+5	til	til	_	_	ADP	_	_	_	_
+6	2011	2011	_	_	NUM	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:396:7985
+# text = Aðrastaðni verður nógv frukt og grønmeti dyrkað.
+# text[eng] = Somewhere else a lot of fruit and vegetables get cultivated.
+# labels = to_check
+1	Aðrastaðni	aðrastaðni	_	_	ADV	_	_	_	_
+2	verður	verða	_	_	SG;IND;V;3;PRS	_	_	_	_
+3	nógv	nógvur	_	_	NOM;SG;INDF;FEM;ADJ	_	_	_	_
+4	frukt	frukt	_	_	NOM;SG;N;INDF;FEM	_	_	_	_
+5	og	og	_	_	CONJ	_	_	_	_
+6	grønmeti	grønmeti	_	_	NOM;SG;NEUT;N;INDF	_	_	_	_
+7	dyrkað	dyrka	_	_	V.CVB;V	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:20:433
+# text = Hetta er eitt tiltak, ið er málrættað ferðavinnuni.
+# text[eng] = This is an initiative which is aimed at the tourist industry.
+# labels = to_check
+1	Hetta	hesin	_	_	NOM;SG;NEUT;PRO	_	_	_	_
+2	er	vera	_	_	SG;IND;V;3;PRS	_	_	_	_
+3	eitt	ein	_	_	NOM;DET;SG;NEUT	_	_	_	_
+4	tiltak	tiltak	_	_	NOM;SG;NEUT;N;INDF	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	ið	ið	_	_	PRO	_	_	_	_
+7	er	vera	_	_	SG;IND;V;3;PRS	_	_	_	_
+8	málrættað	málrættaður	_	_	ADV	_	_	_	_
+9	ferðavinnuni	ferðavinna	_	_	DEF;SG;N;DAT;FEM	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:202:4005
+# text = Grótgarðurin, hon læt gera um kirkjugarðin, stendur enn.
+# text[eng] = The stone wall, _ around the graveyard, is still standing.
+# labels = to_check
+1	Grótgarðurin	grótgarður	_	_	DEF;NOM;SG;N;MASC	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	hon	hon	_	_	NOM;SG;3;FEM;PRO	_	_	_	_
+4	læt	láta	_	_	SG;IND;V;3;PST	_	_	_	_
+5	gera	gera	_	_	NFIN;V	_	_	_	_
+6	um	um	_	_	ADP	_	_	_	_
+7	kirkjugarðin	kirkjugarður	_	_	DEF;SG;ACC;N;MASC	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	stendur	standa	_	_	SG;IND;V;3;PRS	_	_	_	_
+10	enn	enn	_	_	ADV	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:463:9365
+# text = Býurin er eisini størsti býur í Kanada og høvuðsstaðurin í Ontario.
+# text[eng] = The city is also the biggest city in Canada and the capital of Ontario.
+# labels = to_check
+1	Býurin	býur	_	_	DEF;NOM;SG;N;MASC	_	_	_	_
+2	er	vera	_	_	SG;IND;V;3;PRS	_	_	_	_
+3	eisini	eisini	_	_	ADV	_	_	_	_
+4	størsti	stórur	_	_	DEF;NOM;SG;MASC;RL;ADJ	_	_	_	_
+5	býur	býur	_	_	NOM;SG;N;INDF;MASC	_	_	_	_
+6	í	í	_	_	ADP	_	_	_	_
+7	Kanada	Kanada	_	_	NOM;PROPN;SG	_	_	_	_
+8	og	og	_	_	CONJ	_	_	_	_
+9	høvuðsstaðurin	høvuðsstaður	_	_	DEF;NOM;SG;N;MASC	_	_	_	_
+10	í	í	_	_	ADP	_	_	_	_
+11	Ontario	Ontario	_	_	ACC;PROPN;SG	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:420:8499
+# text = Tey eru Kroatia og Albania.
+# text[eng] = They were Croatia and Albania.
+# labels = to_check
+1	Tey	tað	_	_	NOM;PL;3;PRO	_	_	_	_
+2	eru	vera	_	_	PRS;PL;IND;V	_	_	_	_
+3	Kroatia	Kroatia	_	_	NOM;PROPN;SG	_	_	_	_
+4	og	og	_	_	CONJ	_	_	_	_
+5	Albania	Albania	_	_	NOM;PROPN;SG	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:54:1145
+# text = Norra er heimsmeistari í javnstøðu.
+# text[eng] = Norway is the world champion in equality.
+# labels = to_check
+1	Norra	Norra	_	_	NOM;PROPN;SG	_	_	_	_
+2	er	vera	_	_	SG;IND;V;3;PRS	_	_	_	_
+3	heimsmeistari	heimsmeistari	_	_	NOM;SG;N;INDF;MASC	_	_	_	_
+4	í	í	_	_	ADP	_	_	_	_
+5	javnstøðu	javnstøða	_	_	SG;N;INDF;DAT;FEM	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:649:13205
+# text = Hon hevur verið í gerð í 125 ár.
+# text[eng] =
+# labels = to_check
+1	Hon	hon	_	_	NOM;SG;3;FEM;PRO	_	_	_	_
+2	hevur	hava	_	_	SG;IND;V;3;PRS	_	_	_	_
+3	verið	vera	_	_	V.CVB;V	_	_	_	_
+4	í	í	_	_	ADP	_	_	_	_
+5	gerð	gerð	_	_	SG;N;INDF;DAT;FEM	_	_	_	_
+6	í	í	_	_	ADP	_	_	_	_
+7	125	125	_	_	DAT;NUM	_	_	_	_
+8	ár	ár	_	_	SG;N;INDF;DAT;FEM	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:261:5245
+# text = Hon er limur í bólkinum Harkaliðið.
+# text[eng] =
+# labels = to_check
+1	Hon	hon	_	_	NOM;SG;3;FEM;PRO	_	_	_	_
+2	er	vera	_	_	SG;IND;V;3;PRS	_	_	_	_
+3	limur	limur	_	_	NOM;SG;N;INDF;MASC	_	_	_	_
+4	í	í	_	_	ADP	_	_	_	_
+5	bólkinum	bólkur	_	_	DEF;SG;N;DAT;MASC	_	_	_	_
+6	Harkaliðið	harkalið	_	_	DEF;SG;NEUT;ACC;N	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:281:5625
+# text = Tað er gamalt handverk í Føroyum.
+# text[eng] =
+# labels = to_check
+1	Tað	tað	_	_	NOM;SG;3;PRO	_	_	_	_
+2	er	vera	_	_	SG;IND;V;3;PRS	_	_	_	_
+3	gamalt	gamal	_	_	NOM;SG;NEUT;INDF;ADJ	_	_	_	_
+4	handverk	handverk	_	_	NOM;SG;NEUT;N;INDF	_	_	_	_
+5	í	í	_	_	ADP	_	_	_	_
+6	Føroyum	Føroyar	_	_	PL;PROPN;INDF;DAT;FEM	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:60:1241
+# text = Umleið 40 % av Noregi eru skógvaksin.
+# text[eng] = About 40% of Norway is wooded.
+# labels = checked
+1	Umleið	umleið	_	_	ADP	_	_	_	_
+2	40	40	_	_	_	_	_	_	_
+3	%	%	_	_	NOM;NUM	_	_	_	_
+4	av	av	_	_	ADP	_	_	_	_
+5	Noregi	Noreg	_	_	SG;NEUT;PROPN;INDF;DAT	_	_	_	_
+6	eru	vera	_	_	PRS;PL;IND;V	_	_	_	_
+7	skógvaksin	skógvaksin	_	_	NOM;SG;INDF;MASC;ADJ	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:620:12553
+# text = Umleið 550 á.Kr. varð ein búseting í Odessa av grikkum.
+# text[eng] = Around 550 BC there was a settlement in Odessa of Greeks.
+# labels = to_check
+1	Umleið	umleið	_	_	ADP	_	_	_	_
+2	550	550	_	_	NUM	_	_	_	_
+3	á.Kr.	á.kr	_	_	N	_	_	_	_
+4	varð	verða	_	_	SG;IND;V;3;PST	_	_	_	_
+5	ein	ein	_	_	NOM;DET;FEM;SG	_	_	_	_
+6	búseting	búseting	_	_	NOM;SG;N;INDF;FEM	_	_	_	_
+7	í	í	_	_	ADP	_	_	_	_
+8	Odessa	Odessa	_	_	NOM;PROPN;SG	_	_	_	_
+9	av	av	_	_	ADP	_	_	_	_
+10	grikkum	grikki	_	_	PL;N;INDF;DAT;MASC	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:1056:21507
+# text = Drívið á!
+# text[eng] =
+# labels = checked
+1	Drívið	dríva	_	_	PL;IPFV;V	_	_	_	_
+2	á	á	_	_	ADV	_	_	_	_
+3	!	!	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:524:10605
+# text = Ferðafólkavinnan hevur stóran týdning í Florida.
+# text[eng] = Tourism is very important in Florida.
+# labels = to_check
+1	Ferðafólkavinnan	ferðafólkvinna	_	_	DEF;NOM;SG;N;FEM	_	_	_	_
+2	hevur	hava	_	_	SG;IND;V;3;PRS	_	_	_	_
+3	stóran	stórur	_	_	SG;ACC;INDF;MASC;ADJ	_	_	_	_
+4	týdning	týdningur	_	_	SG;ACC;N;INDF;MASC	_	_	_	_
+5	í	í	_	_	ADP	_	_	_	_
+6	Florida	Florida	_	_	NOM;FEM;PROPN;SG	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:507:10281
+# text = Hvalur er størsti skapningur í havinum.
+# text[eng] = A whale is a big creature in the sea.
+# labels = to_check
+1	Hvalur	hvalur	_	_	NOM;SG;N;INDF;MASC	_	_	_	_
+2	er	vera	_	_	SG;IND;V;3;PRS	_	_	_	_
+3	størsti	stórur	_	_	DEF;NOM;SG;MASC;RL;ADJ	_	_	_	_
+4	skapningur	skapningur	_	_	NOM;SG;N;INDF;MASC	_	_	_	_
+5	í	í	_	_	ADP	_	_	_	_
+6	havinum	hav	_	_	DEF;SG;NEUT;N;DAT	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:692:14133
+# text = Tað eru fleiri sløg av kappróðrarbátum.
+# text[eng] = There are many types of racing boats.
+# labels = to_check
+1	Tað	tað	_	_	NOM;SG;3;PRO	_	_	_	_
+2	eru	vera	_	_	PRS;PL;IND;V	_	_	_	_
+3	fleiri	mangur	_	_	NOM;PL;NEUT;INDF;ADJ	_	_	_	_
+4	sløg	slag	_	_	NOM;PL;NEUT;N;INDF	_	_	_	_
+5	av	av	_	_	ADP	_	_	_	_
+6	kappróðrarbátum	kappróðrarbátur	_	_	PL;N;INDF;DAT;MASC	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:318:6331
+# text = Nú fer at bragda.
+# text[eng] =
+# labels = to_check
+1	Nú	nú	_	_	ADV	_	_	_	_
+2	fer	fara	_	_	SG;IND;V;3;PRS	_	_	_	_
+3	at	at	_	_	PART	_	_	_	_
+4	bragda	bragda	_	_	NFIN;V	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:752:15271
+# text = Hon vann gullnál.
+# text[eng] =
+# labels = to_check
+1	Hon	hon	_	_	NOM;SG;PRO	_	_	_	_
+2	vann	vinna	_	_	SG;IND;V;3;PST	_	_	_	_
+3	gullnál	gullnál	_	_	NOM;SG;N;INDF;FEM	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:563:11429
+# text = Fá fólk búgva í oyðimørkunum.
+# text[eng] = Few people live in the desert.
+# labels = to_check disam
+1	Fá	fáur	_	_	PL;NEUT;ACC;INDF;ADJ	_	_	_	_
+2	fólk	fólk	_	_	NOM;PL;NEUT;N;INDF	_	_	_	_
+3	búgva	búgva	_	_	PRS;PL;IND;V	_	_	_	_
+4	í	í	_	_	ADP	_	_	_	_
+5	oyðimørkunum	oyðimørk	_	_	DEF;PL;N;DAT;FEM	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:979:19987
+# text = Hann var frálíkur sjómaður, rannsóknarfari og oddamaður.
+# text[eng] =
+# labels = to_check
+1	Hann	hann	_	_	NOM;SG;3;MASC;PRO	_	_	_	_
+2	var	vera	_	_	SG;IND;V;3;PST	_	_	_	_
+3	frálíkur	frálíkur	_	_	NOM;SG;INDF;MASC;ADJ	_	_	_	_
+4	sjómaður	sjómaður	_	_	NOM;SG;N;INDF;MASC	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	rannsóknarfari	rannsóknfar	_	_	SG;NEUT;N;INDF;DAT	_	_	_	_
+7	og	og	_	_	CONJ	_	_	_	_
+8	oddamaður	oddamaður	_	_	NOM;SG;N;INDF;MASC	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:25:551
+# text = Súgvin fór á sjógvin og svam frá landi.
+# text[eng] = The sow went to the sea and swam away from the land.
+# labels = to_check
+1	Súgvin	súgv	_	_	DEF;NOM;SG;N;FEM	_	_	_	_
+2	fór	fara	_	_	SG;IND;V;3;PST	_	_	_	_
+3	á	á	_	_	ADP	_	_	_	_
+4	sjógvin	sjógvur	_	_	DEF;SG;ACC;N;MASC	_	_	_	_
+5	og	og	_	_	CONJ	_	_	_	_
+6	svam	svimja	_	_	SG;IND;V;3;PST	_	_	_	_
+7	frá	frá	_	_	ADP	_	_	_	_
+8	landi	land	_	_	SG;NEUT;N;INDF;DAT	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:228:4527
+# text = "Sí eisini:" Tónleikur í Føroyum.
+# text[eng] =
+# labels = to_check
+1	"	"	_	_	_	_	_	_	_
+2	Sí	síggja	_	_	SG;IPFV;V	_	_	_	_
+3	eisini	eisini	_	_	ADV	_	_	_	_
+4	:	:	_	_	_	_	_	_	_
+5	"	"	_	_	_	_	_	_	_
+6	Tónleikur	tónleikur	_	_	NOM;SG;N;INDF;MASC	_	_	_	_
+7	í	í	_	_	ADP	_	_	_	_
+8	Føroyum	Føroyar	_	_	PL;PROPN;INDF;DAT;FEM	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:424:8599
+# text = Hetta varð gjørt.
+# text[eng] = This was done.
+# labels = to_check
+1	Hetta	hesin	_	_	NOM;SG;NEUT;PRO	_	_	_	_
+2	varð	verða	_	_	SG;IND;V;3;PST	_	_	_	_
+3	gjørt	gera	_	_	V.CVB;V	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:341:6811
+# text = Í 2008 var ASFALT tó avlýst.
+# text[eng] = In 2008 ASFALT was still called off.
+# labels = to_check
+1	Í	í	_	_	ADP	_	_	_	_
+2	2008	2008	_	_	DAT;NUM	_	_	_	_
+3	var	vera	_	_	SG;IND;V;3;PST	_	_	_	_
+4	ASFALT	asfalt	_	_	NOM;SG;NEUT;N;INDF	_	_	_	_
+5	tó	tó	_	_	ADV	_	_	_	_
+6	avlýst	avlýsa	_	_	V.CVB;V	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:274:5491
+# text = Kongadagur: Kongadagur er 11. februar.
+# text[eng] =
+# labels = to_check
+1	Kongadagur	kongadagur	_	_	NOM;SG;N;INDF;MASC	_	_	_	_
+2	:	:	_	_	_	_	_	_	_
+3	Kongadagur	kongadagur	_	_	NOM;SG;N;INDF;MASC	_	_	_	_
+4	er	vera	_	_	SG;IND;V;3;PRS	_	_	_	_
+5	11.	11	_	_	ADJ	_	_	_	_
+6	februar	februar	_	_	NOM;SG;N;INDF;MASC	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:532:10787
+# text = Høvuðsstaðurin er Frankfort og størsti býurin er Louisville.
+# text[eng] = The capital city is Frankfort and the largest city is Louisville.
+# labels = to_check
+1	Høvuðsstaðurin	høvuðsstaður	_	_	DEF;NOM;SG;N;MASC	_	_	_	_
+2	er	vera	_	_	SG;IND;V;3;PRS	_	_	_	_
+3	Frankfort	Frankfort	_	_	NOM;PROPN;SG	_	_	_	_
+4	og	og	_	_	CONJ	_	_	_	_
+5	størsti	stórur	_	_	DEF;NOM;SG;MASC;RL;ADJ	_	_	_	_
+6	býurin	býur	_	_	DEF;NOM;SG;N;MASC	_	_	_	_
+7	er	vera	_	_	SG;IND;V;3;PRS	_	_	_	_
+8	Louisville	Louisville	_	_	NOM;PROPN;SG	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:914:18679
+# text = Snákurin er vanligur í Danmark og í meginpartinum av Europa.
+# text[eng] =
+# labels = to_check
+1	Snákurin	snákur	_	_	DEF;NOM;SG;N;MASC	_	_	_	_
+2	er	vera	_	_	SG;IND;V;3;PRS	_	_	_	_
+3	vanligur	vanligur	_	_	NOM;SG;INDF;MASC;ADJ	_	_	_	_
+4	í	í	_	_	ADP	_	_	_	_
+5	Danmark	Danmark	_	_	SG;PROPN;INDF;DAT;FEM	_	_	_	_
+6	og	og	_	_	CONJ	_	_	_	_
+7	í	í	_	_	ADP	_	_	_	_
+8	meginpartinum	meginpartur	_	_	DEF;SG;N;DAT;MASC	_	_	_	_
+9	av	av	_	_	ADP	_	_	_	_
+10	Europa	Europa	_	_	NOM;PROPN;SG	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:680:13879
+# text = Jomfrúhummarin er reydligur.
+# text[eng] = Langoustine are reddish.
+# labels = to_check
+1	Jomfrúhummarin	jomfrúhummari	_	_	DEF;NOM;SG;N;MASC	_	_	_	_
+2	er	vera	_	_	SG;IND;V;3;PRS	_	_	_	_
+3	reydligur	reydligur	_	_	NOM;SG;INDF;MASC;ADJ	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:891:18211
+# text = Adventistarnir hava verið í Føroyum í mong ár.
+# text[eng] = Adventists have been in the Faroe Islands for many years.
+# labels = to_check
+1	Adventistarnir	adventistur	_	_	DEF;NOM;PL;N;MASC	_	_	_	_
+2	hava	hava	_	_	PRS;PL;IND;V	_	_	_	_
+3	verið	vera	_	_	V.CVB;V	_	_	_	_
+4	í	í	_	_	ADP	_	_	_	_
+5	Føroyum	Føroyar	_	_	PL;PROPN;INDF;DAT;FEM	_	_	_	_
+6	í	í	_	_	ADP	_	_	_	_
+7	mong	mangur	_	_	PL;NEUT;ACC;INDF;ADJ	_	_	_	_
+8	ár	ár	_	_	SG;N;INDF;DAT;FEM	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:1145:23381
+# text = Hon flýggjaði undan sínum harðliga manni, ið var kongur á oyggjunum.
+# text[eng] =
+# labels = to_check
+1	Hon	hon	_	_	NOM;SG;3;FEM;PRO	_	_	_	_
+2	flýggjaði	flýggja	_	_	PST;SG;IND;V	_	_	_	_
+3	undan	undan	_	_	ADP	_	_	_	_
+4	sínum	sín	_	_	DET;SG;MASC;DAT	_	_	_	_
+5	harðliga	harðligur	_	_	DEF;SG;DAT;MASC;ADJ	_	_	_	_
+6	manni	maður	_	_	SG;N;INDF;DAT;MASC	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	ið	ið	_	_	CONJ	_	_	_	_
+9	var	vera	_	_	SG;IND;V;3;PST	_	_	_	_
+10	kongur	kongur	_	_	NOM;SG;N;INDF;MASC	_	_	_	_
+11	á	á	_	_	ADP	_	_	_	_
+12	oyggjunum	oyggj	_	_	DEF;PL;N;DAT;FEM	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:29:641
+# text = Tey eru til dømis nær, hví, hvaðan, hvussu.
+# text[eng] = They are, for example, when, why, from where, how.
+# labels = to_check
+1	Tey	tað	_	_	NOM;PL;3;PRO	_	_	_	_
+2	eru	vera	_	_	PRS;PL;IND;V	_	_	_	_
+3	til	til	_	_	ADP	_	_	_	_
+4	dømis	dømi	_	_	SG;GEN;NEUT;N;INDF	_	_	_	_
+5	nær	nær	_	_	ADV	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	hví	hví	_	_	ADV	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	hvaðan	hvaðan	_	_	ADV	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	hvussu	hvussu	_	_	ADV	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:832:16925
+# text = Ein kaldur streymur kemur suðureftir fram við Íslandi.
+# text[eng] = A cold stream comes sourtherly from Iceland.
+# labels = to_check
+1	Ein	ein	_	_	NOM;DET;SG;MASC	_	_	_	_
+2	kaldur	kaldur	_	_	NOM;SG;INDF;MASC;ADJ	_	_	_	_
+3	streymur	streymur	_	_	NOM;SG;N;INDF;MASC	_	_	_	_
+4	kemur	koma	_	_	SG;IND;V;3;PRS	_	_	_	_
+5	suðureftir	suðureftir	_	_	ADV	_	_	_	_
+6	fram	fram	_	_	_	_	_	_	_
+7	við	við	_	_	ADP	_	_	_	_
+8	Íslandi	Ísland	_	_	SG;NEUT;N;INDF;DAT	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:1003:20491
+# text = Í fótbólti spælir hon sum málmaður.
+# text[eng] = In football she plays as goalkeeper.
+# labels = to_check
+1	Í	í	_	_	ADP	_	_	_	_
+2	fótbólti	fótbóltur	_	_	SG;N;INDF;DAT;MASC	_	_	_	_
+3	spælir	spæla	_	_	SG;IND;V;3;PRS	_	_	_	_
+4	hon	hon	_	_	NOM;SG;3;FEM;PRO	_	_	_	_
+5	sum	sum	_	_	CONJ	_	_	_	_
+6	málmaður	málmaður	_	_	NOM;SG;N;INDF;MASC	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:167:3359
+# text = Tað var missur í einum slíkum menni!
+# text[eng] =
+# labels = to_check
+1	Tað	tað	_	_	NOM;SG;3;PRO	_	_	_	_
+2	var	vera	_	_	SG;IND;V;3;PST	_	_	_	_
+3	missur	missur	_	_	NOM;SG;N;INDF;MASC	_	_	_	_
+4	í	í	_	_	ADP	_	_	_	_
+5	einum	ein	_	_	DET;SG;DAT;NEUT	_	_	_	_
+6	slíkum	slíkur	_	_	SG;NEUT;INDF;DAT;ADJ	_	_	_	_
+7	menni	menni	_	_	SG;NEUT;N;INDF;DAT	_	_	_	_
+8	!	!	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:637:12957
+# text = Indianapolis: Indianapolis er høvuðsstaður Indiana í USA.
+# text[eng] =
+# labels = to_check
+1	Indianapolis	Indianapolis	_	_	NOM;PROPN;SG	_	_	_	_
+2	:	:	_	_	_	_	_	_	_
+3	Indianapolis	Indianapolis	_	_	NOM;PROPN;SG	_	_	_	_
+4	er	vera	_	_	SG;IND;V;3;PRS	_	_	_	_
+5	høvuðsstaður	høvuðsstaður	_	_	NOM;SG;N;INDF;MASC	_	_	_	_
+6	Indiana	Indiana	_	_	NOM;PROPN;SG	_	_	_	_
+7	í	í	_	_	ADP	_	_	_	_
+8	USA	USA	_	_	N;DAT	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:476:9623
+# text = Liberia hevur enn nógv samband við USA.
+# text[eng] = Liberia still has many connections with the USA.
+# labels = to_check
+1	Liberia	Liberia	_	_	NOM;PROPN;SG	_	_	_	_
+2	hevur	hava	_	_	SG;IND;V;3;PRS	_	_	_	_
+3	enn	enn	_	_	ADV	_	_	_	_
+4	nógv	nógvur	_	_	PL;NEUT;ACC;INDF;ADJ	_	_	_	_
+5	samband	samband	_	_	SG;NEUT;ACC;N;INDF	_	_	_	_
+6	við	við	_	_	ADP	_	_	_	_
+7	USA	USA	_	_	N;DAT	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:455:9161
+# text = Hetta er størsti halgidómur hjá muslimum.
+# text[eng] = This is the most sacred thing for Muslims.
+# labels = to_check
+1	Hetta	hesin	_	_	NOM;SG;NEUT;PRO	_	_	_	_
+2	er	vera	_	_	SG;IND;V;3;PRS	_	_	_	_
+3	størsti	stórur	_	_	DEF;NOM;SG;MASC;RL;ADJ	_	_	_	_
+4	halgidómur	halgidómur	_	_	NOM;SG;N;INDF;MASC	_	_	_	_
+5	hjá	hjá	_	_	ADP	_	_	_	_
+6	muslimum	muslimur	_	_	PL;N;INDF;DAT;MASC	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:479:9683
+# text = Í Føroyum er ein felagsskapur til fyri gudloysingar, sum eitur "Gudloysi ".
+# text[eng] = There is an organisation for atheists in the Faroe Islands that is called "Gudloysi".
+# labels = to_check
+1	Í	í	_	_	ADP	_	_	_	_
+2	Føroyum	Føroyar	_	_	PL;PROPN;INDF;DAT;FEM	_	_	_	_
+3	er	vera	_	_	SG;IND;V;3;PRS	_	_	_	_
+4	ein	ein	_	_	NOM;DET;SG;MASC	_	_	_	_
+5	felagsskapur	felagsskapur	_	_	NOM;SG;N;INDF;MASC	_	_	_	_
+6	til	til	_	_	ADP	_	_	_	_
+7	fyri	fyri	_	_	ADP	_	_	_	_
+8	gudloysingar	gudloysingur	_	_	PL;ACC;N;INDF;MASC	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	sum	sum	_	_	PRO	_	_	_	_
+11	eitur	eita	_	_	SG;IND;V;3;PRS	_	_	_	_
+12	"	"	_	_	_	_	_	_	_
+13	Gudloysi	gudloysi	_	_	SG;NEUT;ACC;N;INDF	_	_	_	_
+14	"	"	_	_	_	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:9:169
+# text = Í 2005 vóru tølini 73 % av mannfólkunum og 74 % av konufólkunum.
+# text[eng] = In 2005 the numbers were 73% men and 74% women.
+# labels = checked
+1	Í	í	_	_	ADP	_	_	_	_
+2	2005	2005	_	_	DAT;NUM	_	_	_	_
+3	vóru	vera	_	_	PST;PL;IND;V	_	_	_	_
+4	tølini	tal	_	_	DEF;NOM;PL;NEUT;N	_	_	_	_
+5	73	73	_	_	_	_	_	_	_
+6	%	%	_	_	NOM;NUM	_	_	_	_
+7	av	av	_	_	ADP	_	_	_	_
+8	mannfólkunum	mannfólk	_	_	DEF;PL;NEUT;N;DAT	_	_	_	_
+9	og	og	_	_	CONJ	_	_	_	_
+10	74	74	_	_	_	_	_	_	_
+11	%	%	_	_	NOM;NUM	_	_	_	_
+12	av	av	_	_	ADP	_	_	_	_
+13	konufólkunum	konufólk	_	_	DEF;PL;NEUT;N;DAT	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:115:2365
+# text = Flogvøllurin í Keypmannahavn er Kastrup Flogvøllur.
+# text[eng] =
+# labels = to_check
+1	Flogvøllurin	flogvøllur	_	_	DEF;NOM;SG;N;MASC	_	_	_	_
+2	í	í	_	_	ADP	_	_	_	_
+3	Keypmannahavn	Keypmannahavn	_	_	SG;PROPN;INDF;DAT;FEM	_	_	_	_
+4	er	vera	_	_	SG;IND;V;3;PRS	_	_	_	_
+5	Kastrup	Kastrup	_	_	NOM;PROPN;SG	_	_	_	_
+6	Flogvøllur	flogvøllur	_	_	NOM;SG;N;INDF;MASC	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:833:16947
+# text = Ymsu partarnir í ríkinum gjørdust, sum tíðin leið, sjálvstøðugir.
+# text[eng] = Different parts of the country were made, as time passed, independent.
+# labels = to_check
+1	Ymsu	ymsur	_	_	DEF;NOM;PL;MASC;ADJ	_	_	_	_
+2	partarnir	partur	_	_	DEF;NOM;PL;N;MASC	_	_	_	_
+3	í	í	_	_	ADP	_	_	_	_
+4	ríkinum	ríki	_	_	DEF;SG;NEUT;N;DAT	_	_	_	_
+5	gjørdust	gera	_	_	PL;IND;V;PST;PASS	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	sum	sum	_	_	CONJ	_	_	_	_
+8	tíðin	tíð	_	_	DEF;NOM;SG;N;FEM	_	_	_	_
+9	leið	líða	_	_	SG;IND;V;3;PST	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	sjálvstøðugir	sjálvstøðugur	_	_	NOM;PL;INDF;MASC;ADJ	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:1010:20641
+# text = Stórur tørvur er á útbúgving og heilsuhjálp.
+# text[eng] =
+# labels = to_check
+1	Stórur	stórur	_	_	NOM;SG;INDF;MASC;ADJ	_	_	_	_
+2	tørvur	tørvur	_	_	NOM;SG;N;INDF;MASC	_	_	_	_
+3	er	vera	_	_	SG;IND;V;3;PRS	_	_	_	_
+4	á	á	_	_	ADP	_	_	_	_
+5	útbúgving	útbúgving	_	_	SG;N;INDF;DAT;FEM	_	_	_	_
+6	og	og	_	_	CONJ	_	_	_	_
+7	heilsuhjálp	heilsahjálp	_	_	SG;N;INDF;DAT;FEM	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:223:4421
+# text = Tey vóru 9 systkin, men mamman og 4 systkin doyðu sum smá av tuberklum.
+# text[eng] = They were 9 sisters, but the mother and 4 sisters died of tuberculosis when they were small.
+# labels = to_check
+1	Tey	tað	_	_	NOM;PL;3;PRO	_	_	_	_
+2	vóru	vera	_	_	PST;PL;IND;V	_	_	_	_
+3	9	9	_	_	NOM;NUM	_	_	_	_
+4	systkin	systkin	_	_	NOM;PL;NEUT;N;INDF	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	men	men	_	_	CONJ	_	_	_	_
+7	mamman	mamma	_	_	DEF;NOM;SG;N;FEM	_	_	_	_
+8	og	og	_	_	CONJ	_	_	_	_
+9	4	4	_	_	NOM;NUM	_	_	_	_
+10	systkin	systkin	_	_	NOM;PL;NEUT;N;INDF	_	_	_	_
+11	doyðu	doyða	_	_	PST;PL;IND;V	_	_	_	_
+12	sum	sum	_	_	CONJ	_	_	_	_
+13	smá	smáur	_	_	PL;NEUT;ACC;INDF;ADJ	_	_	_	_
+14	av	av	_	_	ADP	_	_	_	_
+15	tuberklum	tuberklar	_	_	PL;N;INDF;DAT;MASC	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:339:6757
+# text = Árarnar eru festar í bátin, ofta við bandi.
+# text[eng] =
+# labels = to_check
+1	Árarnar	ár	_	_	DEF;NOM;PL;N;FEM	_	_	_	_
+2	eru	vera	_	_	PRS;PL;IND;V	_	_	_	_
+3	festar	fest	_	_	SG;GEN;N;INDF;FEM	_	_	_	_
+4	í	í	_	_	ADP	_	_	_	_
+5	bátin	bátur	_	_	DEF;SG;ACC;N;MASC	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	ofta	ofta	_	_	ADV	_	_	_	_
+8	við	við	_	_	ADP	_	_	_	_
+9	bandi	band	_	_	SG;NEUT;N;INDF;DAT	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:287:5745
+# text = Pátriksmessa: Pátriksmessa er 17. mars.
+# text[eng] =
+# labels = to_check
+1	Pátriksmessa	pátriksmessa	_	_	NOM;SG;N;INDF;FEM	_	_	_	_
+2	:	:	_	_	_	_	_	_	_
+3	Pátriksmessa	pátriksmessa	_	_	NOM;SG;N;INDF;FEM	_	_	_	_
+4	er	vera	_	_	SG;IND;V;3;PRS	_	_	_	_
+5	17.	17	_	_	ADJ	_	_	_	_
+6	mars	mars	_	_	NOM;SG;N;INDF;MASC	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:221:4387
+# text = Strandferðslan er stovnur undir Vinnumálaráðnum.
+# text[eng] =
+# labels = to_check
+1	Strandferðslan	strandferðsla	_	_	DEF;NOM;SG;N;FEM	_	_	_	_
+2	er	vera	_	_	SG;IND;V;3;PRS	_	_	_	_
+3	stovnur	stovnur	_	_	NOM;SG;N;INDF;MASC	_	_	_	_
+4	undir	undir	_	_	ADP	_	_	_	_
+5	Vinnumálaráðnum	vinnamálráð	_	_	DEF;PL;NEUT;N;DAT	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:730:14853
+# text = Head er júst liðugur við sína triðju bók.
+# text[eng] =
+# labels = to_check
+1	Head	Head	_	_	NOM;PROPN;SG	_	_	_	_
+2	er	vera	_	_	SG;IND;V;3;PRS	_	_	_	_
+3	júst	júst	_	_	ADV	_	_	_	_
+4	liðugur	liðugur	_	_	NOM;SG;INDF;MASC;ADJ	_	_	_	_
+5	við	við	_	_	ADP	_	_	_	_
+6	sína	sín	_	_	DET;ACC;SG;FEM	_	_	_	_
+7	triðju	triðji	_	_	DEF;SG;DAT;FEM;ADJ	_	_	_	_
+8	bók	bók	_	_	SG;N;INDF;DAT;FEM	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:561:11387
+# text = Bjørnin er ikki friðað í West Virginia.
+# text[eng] = Bears are not protected in West Virginia.
+# labels = to_check
+1	Bjørnin	bjørn	_	_	DEF;NOM;SG;N;FEM	_	_	_	_
+2	er	vera	_	_	SG;IND;V;3;PRS	_	_	_	_
+3	ikki	ikki	_	_	ADV	_	_	_	_
+4	friðað	friða	_	_	V.CVB;V	_	_	_	_
+5	í	í	_	_	ADP	_	_	_	_
+6	West	West	_	_	ACC;PROPN;SG	_	_	_	_
+7	Virginia	Virginia	_	_	NOM;PROPN;SG	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:1207:24779
+# text = "Súkklarar við skráskrift eru virknir súkklarar.
+# text[eng] =
+# labels = to_check
+1	"	"	_	_	_	_	_	_	_
+2	Súkklarar	súkklari	_	_	NOM;PL;N;INDF;MASC	_	_	_	_
+3	við	við	_	_	ADP	_	_	_	_
+4	skráskrift	skráskrift	_	_	SG;N;INDF;DAT;FEM	_	_	_	_
+5	eru	vera	_	_	PRS;PL;IND;V	_	_	_	_
+6	virknir	virkin	_	_	NOM;PL;INDF;MASC;ADJ	_	_	_	_
+7	súkklarar	súkklari	_	_	NOM;PL;N;INDF;MASC	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:473:9567
+# text = 48 landslutir eru í Algeria.
+# text[eng] = There are 48 regions in Algeria.
+# labels = to_check
+1	48	48	_	_	NOM;NUM	_	_	_	_
+2	landslutir	landslutur	_	_	NOM;PL;N;INDF;MASC	_	_	_	_
+3	eru	vera	_	_	PRS;PL;IND;V	_	_	_	_
+4	í	í	_	_	ADP	_	_	_	_
+5	Algeria	Algeria	_	_	NOM;PROPN;SG	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:536:10869
+# text = Selfoss: Selfoss er ein býur á Suðurlandinum í Íslandi við 6512 íbúgvum.
+# text[eng] = Selfoss: Selfoss is a town in the southern part of Iceland with 6512 inhabitants.
+# labels = to_check
+1	Selfoss	Selfoss	_	_	NOM;PROPN;SG	_	_	_	_
+2	:	:	_	_	_	_	_	_	_
+3	Selfoss	Selfoss	_	_	NOM;PROPN;SG	_	_	_	_
+4	er	vera	_	_	SG;IND;V;3;PRS	_	_	_	_
+5	ein	ein	_	_	NOM;DET;SG;MASC	_	_	_	_
+6	býur	býur	_	_	NOM;SG;N;INDF;MASC	_	_	_	_
+7	á	á	_	_	ADP	_	_	_	_
+8	Suðurlandinum	Suðurland	_	_	DEF;SG;NEUT;PROPN;DAT	_	_	_	_
+9	í	í	_	_	ADP	_	_	_	_
+10	Íslandi	Ísland	_	_	SG;NEUT;N;INDF;DAT	_	_	_	_
+11	við	við	_	_	ADP	_	_	_	_
+12	6512	6512	_	_	DAT;NUM	_	_	_	_
+13	íbúgvum	íbúgvi	_	_	PL;N;INDF;DAT;MASC	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:1029:21027
+# text = Serlæknar eru serfrøðingar í ávísum sjúkum.
+# text[eng] =
+# labels = to_check
+1	Serlæknar	serlækni	_	_	NOM;PL;N;INDF;MASC	_	_	_	_
+2	eru	vera	_	_	PRS;PL;IND;V	_	_	_	_
+3	serfrøðingar	serfrøðingur	_	_	NOM;PL;N;INDF;MASC	_	_	_	_
+4	í	í	_	_	ADP	_	_	_	_
+5	ávísum	ávísur	_	_	PL;INDF;DAT;FEM;ADJ	_	_	_	_
+6	sjúkum	sjúka	_	_	PL;N;INDF;DAT;FEM	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:1070:21779
+# text = Stjórnin hevur gjørt av, at skúlagongd skal vera ókeypis.
+# text[eng] =
+# labels = to_check
+1	Stjórnin	stjórn	_	_	DEF;NOM;SG;N;FEM	_	_	_	_
+2	hevur	hava	_	_	SG;IND;V;3;PRS	_	_	_	_
+3	gjørt	gera	_	_	V.CVB;V	_	_	_	_
+4	av	av	_	_	ADP	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	at	at	_	_	CONJ	_	_	_	_
+7	skúlagongd	skúlagongd	_	_	NOM;SG;N;INDF;FEM	_	_	_	_
+8	skal	skula	_	_	SG;IND;V;3;PRS	_	_	_	_
+9	vera	vera	_	_	NFIN;V	_	_	_	_
+10	ókeypis	ókeypis	_	_	ADV	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:812:16511
+# text = At prógva hetta, leggja vit sannleikan fram fyri ein uttanveltaðan heim".
+# text[eng] = To test this, we lay the truth on for a neutral home".
+# labels = to_check
+1	At	at	_	_	PART	_	_	_	_
+2	prógva	prógva	_	_	NFIN;V	_	_	_	_
+3	hetta	hesin	_	_	SG;NEUT;ACC;PRO	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	leggja	leggja	_	_	PRS;PL;IND;V	_	_	_	_
+6	vit	vit	_	_	NOM;PL;1;PRO	_	_	_	_
+7	sannleikan	sannleiki	_	_	DEF;SG;ACC;N;MASC	_	_	_	_
+8	fram	fram	_	_	ADV	_	_	_	_
+9	fyri	fyri	_	_	ADP	_	_	_	_
+10	ein	ein	_	_	DET;ACC;MASC;SG	_	_	_	_
+11	uttanveltaðan	uttanveltaður	_	_	SG;ACC;INDF;MASC;ADJ	_	_	_	_
+12	heim	heimur	_	_	SG;ACC;N;INDF;MASC	_	_	_	_
+13	"	"	_	_	_	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:134:2717
+# text = Dagurin í dag er tjóðardagur Noregs.
+# text[eng] = The day today is Norway's national day.
+# labels = to_check
+1	Dagurin	dagur	_	_	DEF;NOM;SG;N;MASC	_	_	_	_
+2	í	í	_	_	ADP	_	_	_	_
+3	dag	dagur	_	_	SG;ACC;N;INDF;MASC	_	_	_	_
+4	er	vera	_	_	SG;IND;V;3;PRS	_	_	_	_
+5	tjóðardagur	tjóðdagur	_	_	NOM;SG;N;INDF;MASC	_	_	_	_
+6	Noregs	Noreg	_	_	SG;GEN;NEUT;PROPN;INDF	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:784:15889
+# text = Fruktagóða jørðin og tropiska veðurlagið gjørdu, at væl fruktaði á Tonga.
+# text[eng] = The fertile soil and tropical climate made it grow well in Tonga.
+# labels = to_check
+1	Fruktagóða	fruktagóður	_	_	DEF;NOM;SG;FEM;ADJ	_	_	_	_
+2	jørðin	jørð	_	_	DEF;NOM;SG;N;FEM	_	_	_	_
+3	og	og	_	_	CONJ	_	_	_	_
+4	tropiska	tropiskur	_	_	DEF;NOM;SG;NEUT;ADJ	_	_	_	_
+5	veðurlagið	veðurlag	_	_	DEF;NOM;SG;NEUT;N	_	_	_	_
+6	gjørdu	gera	_	_	PST;PL;IND;V	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	at	at	_	_	CONJ	_	_	_	_
+9	væl	væl	_	_	ADV	_	_	_	_
+10	fruktaði	frukta	_	_	PST;SG;IND;V	_	_	_	_
+11	á	á	_	_	ADP	_	_	_	_
+12	Tonga	Tonga	_	_	NOM;PROPN;SG	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:622:12597
+# text = Edmonton: Edmonton er ein býur í Kanada.
+# text[eng] = Edmonton: Edmonton is a city in Canada.
+# labels = to_check
+1	Edmonton	Edmonton	_	_	NOM;PROPN;SG	_	_	_	_
+2	:	:	_	_	_	_	_	_	_
+3	Edmonton	Edmonton	_	_	NOM;PROPN;SG	_	_	_	_
+4	er	vera	_	_	SG;IND;V;3;PRS	_	_	_	_
+5	ein	ein	_	_	NOM;DET;SG;MASC	_	_	_	_
+6	býur	býur	_	_	NOM;SG;N;INDF;MASC	_	_	_	_
+7	í	í	_	_	ADP	_	_	_	_
+8	Kanada	Kanada	_	_	NOM;PROPN;SG	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:42:909
+# text = Starvið sum borgarstjóri er fulltíðarstarv.
+# text[eng] = The position as mayor is a full-time job.
+# labels = to_check
+1	Starvið	starv	_	_	DEF;NOM;SG;NEUT;N	_	_	_	_
+2	sum	sum	_	_	ADP	_	_	_	_
+3	borgarstjóri	borgarstjóri	_	_	NOM;SG;N;INDF;MASC	_	_	_	_
+4	er	vera	_	_	SG;IND;V;3;PRS	_	_	_	_
+5	fulltíðarstarv	fulltíðarstarv	_	_	NOM;SG;NEUT;N;INDF	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:688:14043
+# text = Hon varð 62 ár.
+# text[eng] = She was 62 years old.
+# labels = to_check
+1	Hon	hon	_	_	NOM;SG;3;FEM;PRO	_	_	_	_
+2	varð	verða	_	_	SG;IND;V;3;PST	_	_	_	_
+3	62	62	_	_	NOM;NUM	_	_	_	_
+4	ár	ár	_	_	NOM;PL;NEUT;N;INDF	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:136:2749
+# text = Í 1928 fór aftur at goysa í somu oyggj.
+# text[eng] =
+# labels = to_check
+1	Í	í	_	_	ADP	_	_	_	_
+2	1928	1928	_	_	DAT;NUM	_	_	_	_
+3	fór	fara	_	_	SG;IND;V;3;PST	_	_	_	_
+4	aftur	aftur	_	_	ADV	_	_	_	_
+5	at	at	_	_	PART	_	_	_	_
+6	goysa	goysa	_	_	NFIN;V	_	_	_	_
+7	í	í	_	_	ADP	_	_	_	_
+8	somu	samur	_	_	DEF;PL;DAT;FEM;ADJ	_	_	_	_
+9	oyggj	oyggj	_	_	SG;N;INDF;DAT;FEM	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:86:1779
+# text = Hann var danskur løgfrøðingur og embætismaður.
+# text[eng] = He was a Danish lawyer and official.
+# labels = to_check
+1	Hann	hann	_	_	NOM;SG;3;MASC;PRO	_	_	_	_
+2	var	vera	_	_	SG;IND;V;3;PST	_	_	_	_
+3	danskur	danskur	_	_	NOM;SG;INDF;MASC;ADJ	_	_	_	_
+4	løgfrøðingur	løgfrøðingur	_	_	NOM;SG;N;INDF;MASC	_	_	_	_
+5	og	og	_	_	CONJ	_	_	_	_
+6	embætismaður	embætismaður	_	_	NOM;SG;N;INDF;MASC	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:675:13767
+# text = Harumframt fekk Móses nógvar aðrar lógir, sum eru nevndar sáttmálabókin.
+# text[eng] = In addition Moses got many other laws, which were called the Book of the Covenant.
+# labels = to_check
+1	Harumframt	harumframt	_	_	ADV	_	_	_	_
+2	fekk	fáa	_	_	SG;IND;V;3;PST	_	_	_	_
+3	Móses	Móses	_	_	NOM;SG;PROPN;MASC	_	_	_	_
+4	nógvar	nógvur	_	_	PL;ACC;INDF;FEM;ADJ	_	_	_	_
+5	aðrar	annar	_	_	ACC;ADJ;FEM;PL	_	_	_	_
+6	lógir	lóg	_	_	PL;ACC;N;INDF;FEM	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	sum	sum	_	_	PRO	_	_	_	_
+9	eru	vera	_	_	PRS;PL;IND;V	_	_	_	_
+10	nevndar	nevna	_	_	V.PTCP;NOM;PL;IND;V;PST;INDF;FEM	_	_	_	_
+11	sáttmálabókin	sáttmálabók	_	_	DEF;NOM;SG;N;FEM	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:230:4567
+# text = 1917 – kollveltingin eydnast.
+# text[eng] =
+# labels = to_check
+1	1917	1917	_	_	NOM;NUM	_	_	_	_
+2	–	–	_	_	_	_	_	_	_
+3	kollveltingin	kollvelting	_	_	DEF;NOM;SG;N;FEM	_	_	_	_
+4	eydnast	eydnast	_	_	SG;IND;V;3;PRS	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:1151:23513
+# text = Orlando: Orlando er ein býur í amerikanska statinum Florida.
+# text[eng] =
+# labels = to_check
+1	Orlando	Orlando	_	_	NOM;PROPN;SG	_	_	_	_
+2	:	:	_	_	_	_	_	_	_
+3	Orlando	Orlando	_	_	NOM;PROPN;SG	_	_	_	_
+4	er	vera	_	_	SG;IND;V;3;PRS	_	_	_	_
+5	ein	ein	_	_	NOM;DET;SG;MASC	_	_	_	_
+6	býur	býur	_	_	NOM;SG;N;INDF;MASC	_	_	_	_
+7	í	í	_	_	ADP	_	_	_	_
+8	amerikanska	amerikanskur	_	_	DEF;SG;DAT;MASC;ADJ	_	_	_	_
+9	statinum	statur	_	_	DEF;SG;N;DAT;MASC	_	_	_	_
+10	Florida	Florida	_	_	NOM;FEM;PROPN;SG	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:1036:21157
+# text = Ymsir hættir eru at vísa hæddarmun.
+# text[eng] = Different hats are to show difference of heights.
+# labels = to_check
+1	Ymsir	ymsur	_	_	NOM;PL;INDF;MASC;ADJ	_	_	_	_
+2	hættir	háttur	_	_	NOM;PL;N;INDF;MASC	_	_	_	_
+3	eru	vera	_	_	PRS;PL;IND;V	_	_	_	_
+4	at	at	_	_	PART	_	_	_	_
+5	vísa	vísa	_	_	NFIN;V	_	_	_	_
+6	hæddarmun	hæddarmunur	_	_	SG;ACC;N;INDF;MASC	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:477:9643
+# text = Ímóti kvøldi slítur í, og luftin kólnar.
+# text[eng] =
+# labels = to_check
+1	Ímóti	ímóti	_	_	ADP	_	_	_	_
+2	kvøldi	kvøld	_	_	SG;NEUT;N;INDF;DAT	_	_	_	_
+3	slítur	slíta	_	_	SG;IND;V;3;PRS	_	_	_	_
+4	í	í	_	_	ADP	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	og	og	_	_	CONJ	_	_	_	_
+7	luftin	luft	_	_	DEF;NOM;SG;N;FEM	_	_	_	_
+8	kólnar	kólna	_	_	SG;IND;V;3;PRS	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:175:3513
+# text = Hetta hevði týdning fyri bygdarlívið og eisini búskaparligan týdning.
+# text[eng] =
+# labels = to_check
+1	Hetta	hesin	_	_	NOM;SG;NEUT;PRO	_	_	_	_
+2	hevði	hava	_	_	PST;SG;IND;V	_	_	_	_
+3	týdning	týdningur	_	_	SG;ACC;N;INDF;MASC	_	_	_	_
+4	fyri	fyri	_	_	ADP	_	_	_	_
+5	bygdarlívið	bygdarlív	_	_	DEF;SG;NEUT;ACC;N	_	_	_	_
+6	og	og	_	_	CONJ	_	_	_	_
+7	eisini	eisini	_	_	ADV	_	_	_	_
+8	búskaparligan	búskaparligur	_	_	SG;ACC;INDF;MASC;ADJ	_	_	_	_
+9	týdning	týdningur	_	_	SG;ACC;N;INDF;MASC	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:723:14719
+# text = Uml. 78% av lindýrum eru sniglar.
+# text[eng] = Around 78% of molluscs are slugs.
+# labels = to_check
+1	Uml.	uml	_	_	N	_	_	_	_
+2	78%	78%	_	_	NOM;NUM	_	_	_	_
+3	av	av	_	_	ADP	_	_	_	_
+4	lindýrum	lindýr	_	_	PL;NEUT;N;INDF;DAT	_	_	_	_
+5	eru	vera	_	_	PRS;PL;IND;V	_	_	_	_
+6	sniglar	snigil	_	_	NOM;PL;N;INDF;MASC	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:165:3313
+# text = Men í bygdini er eisini ein nýggj útstykking.
+# text[eng] =
+# labels = to_check
+1	Men	men	_	_	CONJ	_	_	_	_
+2	í	í	_	_	ADP	_	_	_	_
+3	bygdini	bygd	_	_	DEF;SG;N;DAT;FEM	_	_	_	_
+4	er	vera	_	_	SG;IND;V;3;PRS	_	_	_	_
+5	eisini	eisini	_	_	ADV	_	_	_	_
+6	ein	eitt	_	_	NOM;FEM;SG;NUM	_	_	_	_
+7	nýggj	nýggjur	_	_	NOM;SG;INDF;FEM;ADJ	_	_	_	_
+8	útstykking	útstykking	_	_	NOM;SG;N;INDF;FEM	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:767:15521
+# text = Málið er eitt mjúkt hvin.
+# text[eng] =
+# labels = to_check
+1	Málið	mál	_	_	DEF;NOM;SG;NEUT;N	_	_	_	_
+2	er	vera	_	_	SG;IND;V;3;PRS	_	_	_	_
+3	eitt	ein	_	_	NOM;DET;SG;NEUT	_	_	_	_
+4	mjúkt	mjúkur	_	_	NOM;SG;NEUT;INDF;ADJ	_	_	_	_
+5	hvin	hvin	_	_	NOM;SG;NEUT;N;INDF	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:609:12335
+# text = 67,3 prosent av fólkinum eru afroamerikanarar.
+# text[eng] = 67.3 percent of the people are African Americans.
+# labels = to_check
+1	67,3	67,3	_	_	NOM;NUM	_	_	_	_
+2	prosent	prosent	_	_	NOM;PL;NEUT;N;INDF	_	_	_	_
+3	av	av	_	_	ADP	_	_	_	_
+4	fólkinum	fólk	_	_	DEF;SG;NEUT;N;DAT	_	_	_	_
+5	eru	vera	_	_	PRS;PL;IND;V	_	_	_	_
+6	afroamerikanarar	afroamerikanari	_	_	NOM;PL;N;INDF;MASC	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:588:11895
+# text = Hann er eisini tvíburi staður við Minneapolis.
+# text[eng] = It is also twin city with Minneapolis.
+# labels = to_check
+1	Hann	hann	_	_	NOM;SG;3;MASC;PRO	_	_	_	_
+2	er	vera	_	_	SG;IND;V;3;PRS	_	_	_	_
+3	eisini	eisini	_	_	ADV	_	_	_	_
+4	tvíburi	tvíburi	_	_	NOM;SG;N;INDF;MASC	_	_	_	_
+5	staður	staður	_	_	NOM;SG;N;INDF;MASC	_	_	_	_
+6	við	við	_	_	ADP	_	_	_	_
+7	Minneapolis	Minneapolis	_	_	ACC;PROPN;SG	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:993:20305
+# text = Politikararnir veita eina tænastu til brúkaran.
+# text[eng] =
+# labels = to_check
+1	Politikararnir	politikari	_	_	DEF;NOM;PL;N;MASC	_	_	_	_
+2	veita	veita	_	_	PRS;PL;IND;V	_	_	_	_
+3	eina	ein	_	_	DET;ACC;SG;FEM	_	_	_	_
+4	tænastu	tænasta	_	_	SG;ACC;N;INDF;FEM	_	_	_	_
+5	til	til	_	_	ADP	_	_	_	_
+6	brúkaran	brúkari	_	_	DEF;SG;ACC;N;MASC	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:952:19457
+# text = Býurin liggur í týska statinum Baden-Württemberg.
+# text[eng] = The city is in the German state of Baden-Württemberg.
+# labels = to_check
+1	Býurin	býur	_	_	DEF;NOM;SG;N;MASC	_	_	_	_
+2	liggur	liggja	_	_	SG;IND;V;3;PRS	_	_	_	_
+3	í	í	_	_	ADP	_	_	_	_
+4	týska	týskur	_	_	DEF;SG;DAT;MASC;ADJ	_	_	_	_
+5	statinum	statur	_	_	DEF;SG;N;DAT;MASC	_	_	_	_
+6	Baden-Württemberg	Baden-Württemberg	_	_	ACC;PROPN;SG	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:1079:21977
+# text = Bisjkek er bæði høvuðsstaður og størsti býur í Kirgisistan.
+# text[eng] =
+# labels = to_check
+1	Bisjkek	Bisjkek	_	_	NOM;PROPN;SG	_	_	_	_
+2	er	vera	_	_	SG;IND;V;3;PRS	_	_	_	_
+3	bæði	bæði	_	_	CONJ	_	_	_	_
+4	høvuðsstaður	høvuðsstaður	_	_	NOM;SG;N;INDF;MASC	_	_	_	_
+5	og	og	_	_	CONJ	_	_	_	_
+6	størsti	stórur	_	_	DEF;NOM;SG;MASC;RL;ADJ	_	_	_	_
+7	býur	býur	_	_	NOM;SG;N;INDF;MASC	_	_	_	_
+8	í	í	_	_	ADP	_	_	_	_
+9	Kirgisistan	Kirgisistan	_	_	ACC;PROPN;SG	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:527:10671
+# text = Um 90 % av statinum er heit og turr sandoyðimørk.
+# text[eng] = Around 90% of the state is hot and dry desert.
+# labels = to_check
+1	Um	um	_	_	ADP	_	_	_	_
+2	90	90	_	_	_	_	_	_	_
+3	%	%	_	_	NOM;NUM	_	_	_	_
+4	av	av	_	_	ADP	_	_	_	_
+5	statinum	statur	_	_	DEF;SG;N;DAT;MASC	_	_	_	_
+6	er	vera	_	_	SG;IND;V;3;PRS	_	_	_	_
+7	heit	heitur	_	_	NOM;SG;INDF;FEM;ADJ	_	_	_	_
+8	og	og	_	_	CONJ	_	_	_	_
+9	turr	turrur	_	_	NOM;SG;INDF;FEM;ADJ	_	_	_	_
+10	sandoyðimørk	sandoyðimørk	_	_	NOM;SG;N;INDF;FEM	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:611:12373
+# text = Thimphu er høvuðsstaður í Butan.
+# text[eng] = Thimphu is the capital of Bhutan.
+# labels = to_check
+1	Thimphu	Thimphu	_	_	NOM;PROPN;SG	_	_	_	_
+2	er	vera	_	_	SG;IND;V;3;PRS	_	_	_	_
+3	høvuðsstaður	høvuðsstaður	_	_	NOM;SG;N;INDF;MASC	_	_	_	_
+4	í	í	_	_	ADP	_	_	_	_
+5	Butan	Butan	_	_	ACC;PROPN;SG	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:154:3103
+# text = Tað eru átta býir og bygdir í Hultsfreds kommunu.
+# text[eng] =
+# labels = to_check
+1	Tað	tað	_	_	NOM;SG;3;PRO	_	_	_	_
+2	eru	vera	_	_	PRS;PL;IND;V	_	_	_	_
+3	átta	átta	_	_	NUM	_	_	_	_
+4	býir	býur	_	_	NOM;PL;N;INDF;MASC	_	_	_	_
+5	og	og	_	_	CONJ	_	_	_	_
+6	bygdir	bygd	_	_	NOM;PL;N;INDF;FEM	_	_	_	_
+7	í	í	_	_	ADP	_	_	_	_
+8	Hultsfreds	Hultsfred	_	_	PROPN;SG;GEN	_	_	_	_
+9	kommunu	kommuna	_	_	SG;N;INDF;DAT;FEM	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:738:15007
+# text = Føroyar kom í hálvfinaluna, sum var móti Hetlandi.
+# text[eng] = The Faroe Islands came in the half final, which was against Shetland.
+# labels = to_check
+1	Føroyar	Føroyar	_	_	PL;ACC;PROPN;INDF;FEM	_	_	_	_
+2	kom	koma	_	_	SG;IND;V;3;PST	_	_	_	_
+3	í	í	_	_	ADP	_	_	_	_
+4	hálvfinaluna	hálvfinala	_	_	DEF;SG;ACC;N;FEM	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	sum	sum	_	_	PRO	_	_	_	_
+7	var	vera	_	_	SG;IND;V;3;PST	_	_	_	_
+8	móti	móti	_	_	ADP	_	_	_	_
+9	Hetlandi	Hetland	_	_	SG;NEUT;PROPN;INDF;DAT	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:920:18817
+# text = Bussurin kom, og hon fór uppí.
+# text[eng] =
+# labels = to_check
+1	Bussurin	bussur	_	_	DEF;NOM;SG;N;MASC	_	_	_	_
+2	kom	koma	_	_	SG;IND;V;3;PST	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	og	og	_	_	CONJ	_	_	_	_
+5	hon	hon	_	_	NOM;SG;3;FEM;PRO	_	_	_	_
+6	fór	fara	_	_	SG;IND;V;3;PST	_	_	_	_
+7	uppí	uppí	_	_	ADV	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:360:7219
+# text = Litirnir hjá ÍF eru reyðir og hvítir.
+# text[eng] = The colours of ÍF are red and white.
+# labels = to_check
+1	Litirnir	litur	_	_	DEF;NOM;PL;N;MASC	_	_	_	_
+2	hjá	hjá	_	_	ADP	_	_	_	_
+3	ÍF	ÍF	_	_	N;DAT	_	_	_	_
+4	eru	vera	_	_	PRS;PL;IND;V	_	_	_	_
+5	reyðir	reyður	_	_	NOM;PL;INDF;MASC;ADJ	_	_	_	_
+6	og	og	_	_	CONJ	_	_	_	_
+7	hvítir	hvítur	_	_	NOM;PL;INDF;MASC;ADJ	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:1143:23345
+# text = Býurin var høvuðsstaður í ríkinum leingi.
+# text[eng] =
+# labels = to_check
+1	Býurin	býur	_	_	DEF;NOM;SG;N;MASC	_	_	_	_
+2	var	vera	_	_	SG;IND;V;3;PST	_	_	_	_
+3	høvuðsstaður	høvuðsstaður	_	_	NOM;SG;N;INDF;MASC	_	_	_	_
+4	í	í	_	_	ADP	_	_	_	_
+5	ríkinum	ríki	_	_	DEF;SG;NEUT;N;DAT	_	_	_	_
+6	leingi	leingi	_	_	ADV	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:888:18143
+# text = Í 1931 varð katólska kirkjan í Føroyum endurreist.
+# text[eng] =
+# labels = to_check
+1	Í	í	_	_	ADP	_	_	_	_
+2	1931	1931	_	_	DAT;NUM	_	_	_	_
+3	varð	verða	_	_	SG;IND;V;3;PST	_	_	_	_
+4	katólska	katólskur	_	_	DEF;NOM;SG;FEM;ADJ	_	_	_	_
+5	kirkjan	kirkja	_	_	DEF;NOM;SG;N;FEM	_	_	_	_
+6	í	í	_	_	ADP	_	_	_	_
+7	Føroyum	Føroyar	_	_	PL;PROPN;INDF;DAT;FEM	_	_	_	_
+8	endurreist	endurreisa	_	_	V.CVB;V	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:597:12113
+# text = Dóttir hansara átti ein son.
+# text[eng] = His daughter has a son.
+# labels = to_check
+1	Dóttir	dóttir	_	_	NOM;SG;N;INDF;FEM	_	_	_	_
+2	hansara	hann	_	_	SG;GEN;3;MASC;PRO	_	_	_	_
+3	átti	eiga	_	_	PST;SG;IND;V	_	_	_	_
+4	ein	ein	_	_	DET;ACC;MASC;SG	_	_	_	_
+5	son	sonur	_	_	SG;ACC;N;INDF;MASC	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:23:509
+# text = Nógv virksemi er í Dímun.
+# text[eng] = Some work is in Dímun.
+# labels = to_check
+1	Nógv	nógvur	_	_	NOM;SG;INDF;FEM;ADJ	_	_	_	_
+2	virksemi	virksemi	_	_	NOM;SG;N;INDF;FEM	_	_	_	_
+3	er	vera	_	_	SG;IND;V;3;PRS	_	_	_	_
+4	í	í	_	_	ADP	_	_	_	_
+5	Dímun	Dímun	_	_	SG;PROPN;INDF;DAT;FEM	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:986:20139
+# text = Makrelurin kann halda sær í trý ár.
+# text[eng] =
+# labels = to_check
+1	Makrelurin	makrelur	_	_	DEF;NOM;SG;N;MASC	_	_	_	_
+2	kann	kunna	_	_	SG;IND;V;3;PRS	_	_	_	_
+3	halda	halda	_	_	NFIN;V	_	_	_	_
+4	sær	seg	_	_	REFL;DAT;PRO	_	_	_	_
+5	í	í	_	_	ADP	_	_	_	_
+6	trý	trý	_	_	NEUT;ACC;SG;NUM	_	_	_	_
+7	ár	ár	_	_	SG;N;INDF;DAT;FEM	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:775:15695
+# text = Í Føroyum sæst hon eisini sjáldan.
+# text[eng] = In the Faroe Islands she is also rarely seen.
+# labels = to_check disam
+1	Í	í	_	_	ADP	_	_	_	_
+2	Føroyum	Føroyar	_	_	PL;PROPN;INDF;DAT;FEM	_	_	_	_
+3	sæst	síggja	_	_	V.CVB;PASS;V	_	_	_	_
+4	hon	hon	_	_	NOM;SG;3;FEM;PRO	_	_	_	_
+5	eisini	eisini	_	_	ADV	_	_	_	_
+6	sjáldan	sjáldan	_	_	ADV	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:355:7113
+# text = Nuuk er í støðugum vøkstri.
+# text[eng] =
+# labels = to_check
+1	Nuuk	Nuuk	_	_	NOM;PROPN;SG	_	_	_	_
+2	er	vera	_	_	SG;IND;V;3;PRS	_	_	_	_
+3	í	í	_	_	ADP	_	_	_	_
+4	støðugum	støðugur	_	_	SG;INDF;DAT;MASC;ADJ	_	_	_	_
+5	vøkstri	vøkstur	_	_	SG;N;INDF;DAT;MASC	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:85:1761
+# text = Høvuðsstaðurin og størsti býurin er Nuuk.
+# text[eng] = The capital city and largest town is Nuuk.
+# labels = to_check
+1	Høvuðsstaðurin	høvuðsstaður	_	_	DEF;NOM;SG;N;MASC	_	_	_	_
+2	og	og	_	_	CONJ	_	_	_	_
+3	størsti	stórur	_	_	DEF;NOM;SG;MASC;RL;ADJ	_	_	_	_
+4	býurin	býur	_	_	DEF;NOM;SG;N;MASC	_	_	_	_
+5	er	vera	_	_	SG;IND;V;3;PRS	_	_	_	_
+6	Nuuk	Nuuk	_	_	NOM;PROPN;SG	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:765:15497
+# text = Føturnir eru gulir.
+# text[eng] =
+# labels = to_check
+1	Føturnir	fótur	_	_	DEF;NOM;PL;N;MASC	_	_	_	_
+2	eru	vera	_	_	PRS;PL;IND;V	_	_	_	_
+3	gulir	gulur	_	_	NOM;PL;INDF;MASC;ADJ	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:145:2935
+# text = Meginparturin av fólkinum eru grikkar, bara fimtingurin turkar.
+# text[eng] = The majority of people are Greeks, only a fifth are Turks.
+# labels = to_check disam
+1	Meginparturin	meginpartur	_	_	DEF;NOM;SG;N;MASC	_	_	_	_
+2	av	av	_	_	ADP	_	_	_	_
+3	fólkinum	fólk	_	_	DEF;SG;NEUT;N;DAT	_	_	_	_
+4	eru	vera	_	_	PRS;PL;IND;V	_	_	_	_
+5	grikkar	grikki	_	_	NOM;PL;N;INDF;MASC	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	bara	bara	_	_	ADV	_	_	_	_
+8	fimtingurin	fimtingur	_	_	DEF;NOM;SG;N;MASC	_	_	_	_
+9	turkar	turkur	_	_	NOM;PL;N;INDF;MASC	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:283:5659
+# text = Vestmanna er egin kommuna.
+# text[eng] =
+# labels = to_check
+1	Vestmanna	Vestmanna	_	_	NOM;PROPN;SG	_	_	_	_
+2	er	vera	_	_	SG;IND;V;3;PRS	_	_	_	_
+3	egin	egin	_	_	NOM;SG;INDF;FEM;ADJ	_	_	_	_
+4	kommuna	kommuna	_	_	NOM;SG;N;INDF;FEM	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:439:8853
+# text = Dúgva situr á miðjum bekki.
+# text[eng] = A pigeon sits in the middle of a bench.
+# labels = to_check
+1	Dúgva	dúgva	_	_	NOM;SG;N;INDF;FEM	_	_	_	_
+2	situr	sita	_	_	SG;IND;V;3;PRS	_	_	_	_
+3	á	á	_	_	ADP	_	_	_	_
+4	miðjum	miðja	_	_	PL;N;INDF;DAT;FEM	_	_	_	_
+5	bekki	bekkur	_	_	SG;N;INDF;DAT;MASC	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:268:5369
+# text = Brøðramessa: Brøðramessa er 20. januar.
+# text[eng] =
+# labels = to_check
+1	Brøðramessa	brøðramessa	_	_	NOM;SG;N;INDF;FEM	_	_	_	_
+2	:	:	_	_	_	_	_	_	_
+3	Brøðramessa	brøðramessa	_	_	NOM;SG;N;INDF;FEM	_	_	_	_
+4	er	vera	_	_	SG;IND;V;3;PRS	_	_	_	_
+5	20.	20	_	_	ADJ	_	_	_	_
+6	januar	januar	_	_	NOM;SG;N;INDF;MASC	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:326:6505
+# text = Høvuðsvinnuvegurin i Fraklandi er landbúnaður.
+# text[eng] =
+# labels = to_check
+1	Høvuðsvinnuvegurin	høvuðsvinnavegur	_	_	DEF;NOM;SG;N;MASC	_	_	_	_
+2	i	i	_	_	ADP	_	_	_	_
+3	Fraklandi	Frakland	_	_	SG;NEUT;PROPN;INDF;DAT	_	_	_	_
+4	er	vera	_	_	SG;IND;V;3;PRS	_	_	_	_
+5	landbúnaður	landbúnaður	_	_	NOM;SG;N;INDF;MASC	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:112:2281
+# text = Hann er størsti býur og handilsmiðdepil í Danmark.
+# text[eng] = It is the biggest town and commercial centre in Denmark.
+# labels = to_check
+1	Hann	hann	_	_	NOM;SG;3;MASC;PRO	_	_	_	_
+2	er	vera	_	_	SG;IND;V;3;PRS	_	_	_	_
+3	størsti	stórur	_	_	DEF;NOM;SG;MASC;RL;ADJ	_	_	_	_
+4	býur	býur	_	_	NOM;SG;N;INDF;MASC	_	_	_	_
+5	og	og	_	_	CONJ	_	_	_	_
+6	handilsmiðdepil	handilsmiðdepil	_	_	NOM;SG;N;INDF;MASC	_	_	_	_
+7	í	í	_	_	ADP	_	_	_	_
+8	Danmark	Danmark	_	_	SG;PROPN;INDF;DAT;FEM	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:815:16577
+# text = Protestantisma: Protestantiska læran tók seg upp í Týsklandi.
+# text[eng] =
+# labels = to_check
+1	Protestantisma	protestantisma	_	_	NOM;SG;N;INDF;FEM	_	_	_	_
+2	:	:	_	_	_	_	_	_	_
+3	Protestantiska	protestantiskur	_	_	DEF;NOM;SG;FEM;ADJ	_	_	_	_
+4	læran	læra	_	_	DEF;NOM;SG;N;FEM	_	_	_	_
+5	tók	taka	_	_	SG;IND;V;3;PST	_	_	_	_
+6	seg	seg	_	_	REFL;ACC;PRO	_	_	_	_
+7	upp	upp	_	_	ADV	_	_	_	_
+8	í	í	_	_	ADP	_	_	_	_
+9	Týsklandi	Týskland	_	_	SG;NEUT;PROPN;INDF;DAT	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:1015:20757
+# text = Hon hevur fyrr svomið fyri FLOT.
+# text[eng] = She has swum before for FLOT.
+# labels = to_check
+1	Hon	hon	_	_	NOM;SG;3;FEM;PRO	_	_	_	_
+2	hevur	hava	_	_	SG;IND;V;3;PRS	_	_	_	_
+3	fyrr	fyrr	_	_	ADV	_	_	_	_
+4	svomið	svimja	_	_	V.CVB;V	_	_	_	_
+5	fyri	fyri	_	_	ADP	_	_	_	_
+6	FLOT	FLOT	_	_	N;DAT	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:864:17657
+# text = Kastrup Flogvøllur er av størstu flogvøllum í Evropa.
+# text[eng] = Kastrup Airport is among the biggest airports in Europe
+# labels = to_check
+1	Kastrup	Kastrup	_	_	NOM;PROPN;SG	_	_	_	_
+2	Flogvøllur	flogvøllur	_	_	NOM;SG;N;INDF;MASC	_	_	_	_
+3	er	vera	_	_	SG;IND;V;3;PRS	_	_	_	_
+4	av	av	_	_	ADP	_	_	_	_
+5	størstu	stórur	_	_	DEF;PL;DAT;MASC;RL;ADJ	_	_	_	_
+6	flogvøllum	flogvøllur	_	_	PL;N;INDF;DAT;MASC	_	_	_	_
+7	í	í	_	_	ADP	_	_	_	_
+8	Evropa	evropi	_	_	SG;N;INDF;DAT;MASC	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:178:3581
+# text = Áhugavert at vitja.
+# text[eng] =
+# labels = to_check
+1	Áhugavert	áhugavert	_	_	ADV	_	_	_	_
+2	at	at	_	_	PART	_	_	_	_
+3	vitja	vitja	_	_	NFIN;V	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:945:19323
+# text = Kapitalisman skal burtur.
+# text[eng] =
+# labels = to_check
+1	Kapitalisman	kapitalisma	_	_	DEF;NOM;SG;N;FEM	_	_	_	_
+2	skal	skula	_	_	SG;IND;V;3;PRS	_	_	_	_
+3	burtur	burtur	_	_	ADV	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:969:19781
+# text = Oyggjarnar eru fátækar.
+# text[eng] =
+# labels = to_check
+1	Oyggjarnar	oyggj	_	_	DEF;NOM;PL;N;FEM	_	_	_	_
+2	eru	vera	_	_	PRS;PL;IND;V	_	_	_	_
+3	fátækar	fátækur	_	_	NOM;PL;INDF;FEM;ADJ	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:756:15335
+# text = Vinnararnir av kappingini vóru hesir:
+# text[eng] = The winners of the competition were these:
+# labels = to_check
+1	Vinnararnir	vinnari	_	_	DEF;NOM;PL;N;MASC	_	_	_	_
+2	av	av	_	_	ADP	_	_	_	_
+3	kappingini	kapping	_	_	DEF;SG;N;DAT;FEM	_	_	_	_
+4	vóru	vera	_	_	PST;PL;IND;V	_	_	_	_
+5	hesir	hesin	_	_	NOM;PL;MASC;PRO	_	_	_	_
+6	:	:	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:958:19577
+# text = Ein trummuspælari við navnið Chad Smith kom við í tónleikabólkinum.
+# text[eng] = A drummer with the name of Chad Smith joined the group.
+# labels = to_check
+1	Ein	ein	_	_	NOM;DET;SG;MASC	_	_	_	_
+2	trummuspælari	trummaspælari	_	_	NOM;SG;N;INDF;MASC	_	_	_	_
+3	við	við	_	_	ADP	_	_	_	_
+4	navnið	navn	_	_	DEF;SG;NEUT;ACC;N	_	_	_	_
+5	Chad	Chad	_	_	ACC;PROPN;SG	_	_	_	_
+6	Smith	Smith	_	_	ACC;PROPN;SG	_	_	_	_
+7	kom	koma	_	_	SG;IND;V;3;PST	_	_	_	_
+8	við	við	_	_	ADP	_	_	_	_
+9	í	í	_	_	ADP	_	_	_	_
+10	tónleikabólkinum	tónleikabólkur	_	_	DEF;SG;N;DAT;MASC	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:792:16085
+# text = Blómurnar eru langir, ljósagulir reklar.
+# text[eng] = The flowers are long, light-yellow.
+# labels = to_check
+1	Blómurnar	blóma	_	_	DEF;NOM;PL;N;FEM	_	_	_	_
+2	eru	vera	_	_	PRS;PL;IND;V	_	_	_	_
+3	langir	langur	_	_	NOM;PL;INDF;MASC;ADJ	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	ljósagulir	ljósagulur	_	_	NOM;PL;INDF;MASC;ADJ	_	_	_	_
+6	reklar	rekil	_	_	NOM;PL;N;INDF;MASC	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+

@@ -1,0 +1,1611 @@
+# sent_id = ko.8
+# text = Sonsannin, n' a bɛ wele ko Jaason, o lafilila kojugu.
+1	Sonsannin	_	_	_	N	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	n'	_	_	_	CONJ	_	_	_	_
+4	a	_	_	_	PRO	_	_	_	_
+5	bɛ	_	_	_	V	_	_	_	_
+6	wele	_	_	_	V	_	_	_	_
+7	ko	_	_	_	PART	_	_	_	_
+8	Jaason	_	_	_	PROPN	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	o	_	_	_	PRO	_	_	_	_
+11	lafilila	_	_	_	V	_	_	_	_
+12	kojugu	_	_	_	ADV	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_08dogonin_ani_koroke.dis.html:35
+# text = n bòra muru le numuden! numuden, n na kònò to n bolo!
+1	n	ń	_	_	PRO	_	_	_	_
+2	bòra	bɔra	_	_	POS;V;PFV	_	_	_	_
+3	muru	mùru	_	_	N	_	_	_	_
+4	le	dè	_	_	PART	_	_	_	_
+5	numuden	numuden	_	_	N	_	_	_	_
+6	!	!	_	_	_	_	_	_	_
+7	numuden	numuden	_	_	N	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	n	ń	_	_	SG;PRO;1	_	_	_	_
+10	na	ná	_	_	ADP	_	_	_	_
+11	kònò	kɔ̀nɔ	_	_	N	_	_	_	_
+12	to	tó	_	_	V	_	_	_	_
+13	n	ń	_	_	SG;PRO;1	_	_	_	_
+14	bolo	bólo	_	_	ADP	_	_	_	_
+15	!	!	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:12
+# text = a tagara ko baba, e na dumunni kè !
+1	a	à	_	_	SG;PRO;3	_	_	_	_
+2	tagara	tagara	_	_	POS;V;PFV	_	_	_	_
+3	ko	kó	_	_	PART	_	_	_	_
+4	baba	bàba	_	_	N	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	e	é	_	_	SG;PRO;2	_	_	_	_
+7	na	nà	_	_	V	_	_	_	_
+8	dumunni	dúmuni	_	_	N	_	_	_	_
+9	kè	kɛ́	_	_	V	_	_	_	_
+10	!	!	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_07denmuso_fila.dis.html:65
+# text = a ye daga fa a kèra sogo ye.
+1	a	à	_	_	SG;PRO;3	_	_	_	_
+2	ye	yé	_	_	POS;V;PFV	_	_	_	_
+3	daga	dàga	_	_	N	_	_	_	_
+4	fa	fá	_	_	V	_	_	_	_
+5	a	à	_	_	SG;PRO;3	_	_	_	_
+6	kèra	kɛra	_	_	POS;V;PFV	_	_	_	_
+7	sogo	sògo	_	_	N	_	_	_	_
+8	ye	yé	_	_	ADP	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_04baramuso_jugu.dis.html:49
+# text = dò tagara a fò dugumasa ye.
+1	dò	dɔ́	_	_	PRO	_	_	_	_
+2	tagara	tagara	_	_	POS;V;PFV	_	_	_	_
+3	a	à	_	_	SG;PRO;3	_	_	_	_
+4	fò	fɔ́	_	_	V	_	_	_	_
+5	dugumasa	dùgumasa	_	_	N	_	_	_	_
+6	ye	yé	_	_	ADP	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:54
+# text = e diye n yèrè ta minè ka a da gè yan.
+1	e	é	_	_	SG;PRO;2	_	_	_	_
+2	diye	dìyé	_	_	V	_	_	_	_
+3	n	ń	_	_	PRO	_	_	_	_
+4	yèrè	yɛ̀rɛ	_	_	DET	_	_	_	_
+5	ta	tá	_	_	N	_	_	_	_
+6	minè	mìnɛ	_	_	V	_	_	_	_
+7	ka	kà	_	_	V	_	_	_	_
+8	a	à	_	_	SG;PRO;3	_	_	_	_
+9	da	dá	_	_	N	_	_	_	_
+10	gè	gɛ́n	_	_	V	_	_	_	_
+11	yan	yàn	_	_	ADV	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:65
+# text = u tagara ka taga fo u sera Ala wutala ma a ko:
+1	u	ù	_	_	PRO;PL;3	_	_	_	_
+2	tagara	tagara	_	_	POS;V;PFV	_	_	_	_
+3	ka	kà	_	_	V	_	_	_	_
+4	taga	tága	_	_	V	_	_	_	_
+5	fo	fó	_	_	CONJ	_	_	_	_
+6	u	ù	_	_	PRO;PL;3	_	_	_	_
+7	sera	sera	_	_	POS;V;PFV	_	_	_	_
+8	Ala	Ála	_	_	N	_	_	_	_
+9	wutala	wùtala	_	_	N	_	_	_	_
+10	ma	mà	_	_	ADP	_	_	_	_
+11	a	à	_	_	SG;PRO;3	_	_	_	_
+12	ko	kó	_	_	V	_	_	_	_
+13	:	:	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_07denmuso_fila.dis.html:136
+# text = nin ye kabako ye.
+1	nin	nìn	_	_	DEF;PRO	_	_	_	_
+2	ye	yé	_	_	POS;V	_	_	_	_
+3	kabako	kába.ko	_	_	N	_	_	_	_
+4	ye	yé	_	_	ADP	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_05sinamuso_jugu.dis.html:22
+# text = tinòò, na ye a falennò kè.
+1	tinòò	Tinɔɔ	_	_	PROPN	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	na	nà	_	_	N	_	_	_	_
+4	ye	ye	_	_	POS;V;PFV	_	_	_	_
+5	a	à	_	_	SG;PRO;3	_	_	_	_
+6	falennò	falenni	_	_	N;V.MSDR	_	_	_	_
+7	kè	kɛ́	_	_	V	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_07denmuso_fila.dis.html:131
+# text = a ko e tè Ala ye?
+1	a	à	_	_	SG;PRO;3	_	_	_	_
+2	ko	kó	_	_	V	_	_	_	_
+3	e	é	_	_	SG;PRO;2	_	_	_	_
+4	tè	tɛ́	_	_	NEG;V	_	_	_	_
+5	Ala	Ála	_	_	N	_	_	_	_
+6	ye	yé	_	_	ADP	_	_	_	_
+7	?	?	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:8
+# text = ni aw ye o kè tuma min, n bè kegunya n bè dò fara aw ka kegunya kan.
+1	ni	ní	_	_	CONJ	_	_	_	_
+2	aw	áw	_	_	PRO;PL;2	_	_	_	_
+3	ye	yé	_	_	POS;V;PFV	_	_	_	_
+4	o	ò	_	_	PRO	_	_	_	_
+5	kè	kɛ́	_	_	V	_	_	_	_
+6	tuma	tùma	_	_	N	_	_	_	_
+7	min	mín	_	_	PRO	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	n	ń	_	_	PRO	_	_	_	_
+10	bè	bɛ́	_	_	POS;IPFV;V	_	_	_	_
+11	kegunya	kègun.ya	_	_	N	_	_	_	_
+12	n	ń	_	_	PRO	_	_	_	_
+13	bè	bɛ́	_	_	POS;IPFV;V	_	_	_	_
+14	dò	dɔ́	_	_	PRO	_	_	_	_
+15	fara	fàra	_	_	V	_	_	_	_
+16	aw	áw	_	_	PRO;PL;2	_	_	_	_
+17	ka	ká	_	_	ADP	_	_	_	_
+18	kegunya	kègun.ya	_	_	N	_	_	_	_
+19	kan	kàn	_	_	ADP	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_08dogonin_ani_koroke.dis.html:90
+# text = n bòra tulu le sigosi! sigosi, n na segi to n bolo!
+1	n	ń	_	_	PRO	_	_	_	_
+2	bòra	bɔra	_	_	POS;V;PFV	_	_	_	_
+3	tulu	túlu	_	_	N	_	_	_	_
+4	le	dè	_	_	PART	_	_	_	_
+5	sigosi	sigosi	_	_	N	_	_	_	_
+6	!	!	_	_	_	_	_	_	_
+7	sigosi	sigosi	_	_	N	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	n	ń	_	_	SG;PRO;1	_	_	_	_
+10	na	ná	_	_	ADP	_	_	_	_
+11	segi	sègi	_	_	N	_	_	_	_
+12	to	tó	_	_	V	_	_	_	_
+13	n	ń	_	_	SG;PRO;1	_	_	_	_
+14	bolo	bólo	_	_	ADP	_	_	_	_
+15	!	!	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_04baramuso_jugu.dis.html:14
+# text = a ba nana ka bò a ka mugufyèyòrò, a bè ŋunuma gurubaguruba!
+1	a	à	_	_	SG;PRO;3	_	_	_	_
+2	ba	bá	_	_	N	_	_	_	_
+3	nana	nana	_	_	POS;V;PFV	_	_	_	_
+4	ka	kà	_	_	V	_	_	_	_
+5	bò	bɔ́	_	_	V	_	_	_	_
+6	a	à	_	_	SG;PRO;3	_	_	_	_
+7	ka	ka	_	_	ADP	_	_	_	_
+8	mugufyèyòrò	mugufyɛyɔrɔ	_	_	N	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	a	à	_	_	SG;PRO;3	_	_	_	_
+11	bè	bɛ	_	_	POS;IPFV;V	_	_	_	_
+12	ŋunuma	ŋúnuma	_	_	V	_	_	_	_
+13	gurubaguruba	gùrubaguruba	_	_	ADV	_	_	_	_
+14	!	!	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:25
+# text = a ye fulakè ka misiw nyèdenw bèè bò ka taga a balabala, diye na a fò : fulakè, e ma èndutigènankuru ye ?
+1	a	à	_	_	SG;PRO;3	_	_	_	_
+2	ye	yé	_	_	POS;V;PFV	_	_	_	_
+3	fulakè	fulakɛ	_	_	N	_	_	_	_
+4	ka	ká	_	_	ADP	_	_	_	_
+5	misiw	misiw	_	_	N;PL	_	_	_	_
+6	nyèdenw	ɲɛdenw	_	_	N;PL	_	_	_	_
+7	bèè	bɛ́ɛ	_	_	DET	_	_	_	_
+8	bò	bɔ̀	_	_	V	_	_	_	_
+9	ka	kà	_	_	V	_	_	_	_
+10	taga	tága	_	_	V	_	_	_	_
+11	a	à	_	_	SG;PRO;3	_	_	_	_
+12	balabala	bàlabala	_	_	V	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	diye	dìyé	_	_	V	_	_	_	_
+15	na	nà	_	_	V	_	_	_	_
+16	a	à	_	_	SG;PRO;3	_	_	_	_
+17	fò	fɔ́	_	_	V	_	_	_	_
+18	:	:	_	_	_	_	_	_	_
+19	fulakè	fulakɛ	_	_	N	_	_	_	_
+20	,	,	_	_	_	_	_	_	_
+21	e	é	_	_	SG;PRO;2	_	_	_	_
+22	ma	má	_	_	V	_	_	_	_
+23	èndutigènankuru	ɛndu.tìgɛ.nin.kuru	_	_	N	_	_	_	_
+24	ye	yé	_	_	V	_	_	_	_
+25	?	?	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_syefan_ani_syedennin.dis.html:17
+# text = ji ka yèlè ka yèlè ka yèlè dugukolo ye a min.
+1	ji	jí	_	_	N	_	_	_	_
+2	ka	ka	_	_	POS;SBJV;V	_	_	_	_
+3	yèlè	yɛ́lɛ	_	_	V	_	_	_	_
+4	ka	kà	_	_	V	_	_	_	_
+5	yèlè	yɛ́lɛ	_	_	V	_	_	_	_
+6	ka	kà	_	_	V	_	_	_	_
+7	yèlè	yɛ́lɛ	_	_	V	_	_	_	_
+8	dugukolo	dùgukolo	_	_	N	_	_	_	_
+9	ye	ye	_	_	POS;V;PFV	_	_	_	_
+10	a	à	_	_	SG;PRO;3	_	_	_	_
+11	min	mìn	_	_	V	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_10amadu_tara.dis.html:46
+# text = o tuma na, jinèmuso nana.
+1	o	ò	_	_	DET	_	_	_	_
+2	tuma	tùma	_	_	N	_	_	_	_
+3	na	ná	_	_	ADP	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	jinèmuso	jinɛmuso	_	_	N	_	_	_	_
+6	nana	nana	_	_	POS;V;PFV	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_05sinamuso_jugu.dis.html:5
+# text = hali kelen ma den sòrò a ye.
+1	hali	hálì	_	_	PART	_	_	_	_
+2	kelen	kélen	_	_	NUM	_	_	_	_
+3	ma	ma	_	_	V;NEG;PFV	_	_	_	_
+4	den	dén	_	_	N	_	_	_	_
+5	sòrò	sɔ̀rɔ	_	_	V	_	_	_	_
+6	a	à	_	_	SG;PRO;3	_	_	_	_
+7	ye	yé	_	_	ADP	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_07denmuso_fila.dis.html:60
+# text = a tagara a sòrò jinamusokòròba bè yen.
+1	a	à	_	_	SG;PRO;3	_	_	_	_
+2	tagara	tagara	_	_	POS;V;PFV	_	_	_	_
+3	a	à	_	_	SG;PRO;3	_	_	_	_
+4	sòrò	sɔ̀rɔ	_	_	V	_	_	_	_
+5	jinamusokòròba	jínɛmusokɔrɔba	_	_	N	_	_	_	_
+6	bè	bɛ́	_	_	POS;V	_	_	_	_
+7	yen	yèn	_	_	ADV	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_08dogonin_ani_koroke.dis.html:84
+# text = a ye o kògòba yèlèma o la, u ye o munumunu fo ka o fèn ka o kè kògòji ye, ka o kè kògòji ye.
+1	a	à	_	_	SG;PRO;3	_	_	_	_
+2	ye	yé	_	_	POS;V;PFV	_	_	_	_
+3	o	ò	_	_	DET	_	_	_	_
+4	kògòba	kɔgɔba	_	_	N	_	_	_	_
+5	yèlèma	yɛ̀lɛma	_	_	V	_	_	_	_
+6	o	ò	_	_	PRO	_	_	_	_
+7	la	lá	_	_	ADP	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	u	ù	_	_	PRO;PL;3	_	_	_	_
+10	ye	yé	_	_	POS;V;PFV	_	_	_	_
+11	o	ò	_	_	PRO	_	_	_	_
+12	munumunu	múnu.munu	_	_	V	_	_	_	_
+13	fo	fó	_	_	CONJ	_	_	_	_
+14	ka	kà	_	_	V	_	_	_	_
+15	o	ò	_	_	PRO	_	_	_	_
+16	fèn	fɛ́n	_	_	V	_	_	_	_
+17	ka	kà	_	_	V	_	_	_	_
+18	o	ò	_	_	PRO	_	_	_	_
+19	kè	kɛ́	_	_	V	_	_	_	_
+20	kògòji	kɔ̀gɔ.ji	_	_	N	_	_	_	_
+21	ye	yé	_	_	ADP	_	_	_	_
+22	,	,	_	_	_	_	_	_	_
+23	ka	kà	_	_	V	_	_	_	_
+24	o	ò	_	_	PRO	_	_	_	_
+25	kè	kɛ́	_	_	V	_	_	_	_
+26	kògòji	kɔ̀gɔ.ji	_	_	N	_	_	_	_
+27	ye	yé	_	_	ADP	_	_	_	_
+28	.	.	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_04baramuso_jugu.dis.html:17
+# text = baramuso bè girin ka bò san fè.
+1	baramuso	báramuso	_	_	N	_	_	_	_
+2	bè	bɛ	_	_	POS;IPFV;V	_	_	_	_
+3	girin	gírin	_	_	V	_	_	_	_
+4	ka	kà	_	_	V	_	_	_	_
+5	bò	bɔ́	_	_	V	_	_	_	_
+6	san	sán	_	_	N	_	_	_	_
+7	fè	fɛ̀	_	_	ADP	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:69
+# text = a nana ko : ta ta ta ta, n ye a da gè !
+1	a	à	_	_	SG;PRO;3	_	_	_	_
+2	nana	nana	_	_	POS;V;PFV	_	_	_	_
+3	ko	kó	_	_	PART	_	_	_	_
+4	:	:	_	_	_	_	_	_	_
+5	ta	ta	_	_	INTJ	_	_	_	_
+6	ta	ta	_	_	INTJ	_	_	_	_
+7	ta	ta	_	_	INTJ	_	_	_	_
+8	ta	ta	_	_	INTJ	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	n	ń	_	_	PRO	_	_	_	_
+11	ye	yé	_	_	POS;V;PFV	_	_	_	_
+12	a	à	_	_	SG;PRO;3	_	_	_	_
+13	da	dá	_	_	N	_	_	_	_
+14	gè	gɛ́n	_	_	V	_	_	_	_
+15	!	!	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:10
+# text = ko den min sera ka i yèrè wolowolo, ko e tè se ka i kun li wa ?
+1	ko	kó	_	_	PART	_	_	_	_
+2	den	dén	_	_	N	_	_	_	_
+3	min	mín	_	_	DET	_	_	_	_
+4	sera	sera	_	_	POS;V;PFV	_	_	_	_
+5	ka	kà	_	_	V	_	_	_	_
+6	i	í	_	_	PRO	_	_	_	_
+7	yèrè	yɛ̀rɛ	_	_	DET	_	_	_	_
+8	wolowolo	wólo.wolo	_	_	V	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	ko	kó	_	_	PART	_	_	_	_
+11	e	é	_	_	SG;PRO;2	_	_	_	_
+12	tè	tɛ́	_	_	IPFV;V;NEG	_	_	_	_
+13	se	sé	_	_	V	_	_	_	_
+14	ka	kà	_	_	V	_	_	_	_
+15	i	í	_	_	PRO	_	_	_	_
+16	kun	kùn	_	_	N	_	_	_	_
+17	li	dí	_	_	V	_	_	_	_
+18	wa	wà	_	_	PART	_	_	_	_
+19	?	?	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:73
+# text = ayiwa, wulunin bolila.
+1	ayiwa	áyiwa	_	_	INTJ	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	wulunin	wulunin	_	_	N	_	_	_	_
+4	bolila	bolila	_	_	POS;V;PFV	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = konta-nsiiriw_nsanaw_06cekoroba_n_a_denw.dis.html:16
+# text = Denkɛ ko: “A tun bɛ i ka kunun jiriba in de kan”.
+1	Denkɛ	dénkɛ	_	_	N	_	_	_	_
+2	ko	kó	_	_	V	_	_	_	_
+3	:	:	_	_	_	_	_	_	_
+4	“	“	_	_	_	_	_	_	_
+5	A	à	_	_	SG;PRO;3	_	_	_	_
+6	tun	tùn	_	_	PART;PST	_	_	_	_
+7	bɛ	bɛ́	_	_	V	_	_	_	_
+8	i	í	_	_	SG;PRO;2	_	_	_	_
+9	ka	ka	_	_	ADP	_	_	_	_
+10	kunun	kúnun	_	_	N	_	_	_	_
+11	jiriba	jiriba	_	_	N	_	_	_	_
+12	in	ìn	_	_	DEF;DET	_	_	_	_
+13	de	dè	_	_	PART	_	_	_	_
+14	kan	kàn	_	_	ADP	_	_	_	_
+15	”	”	_	_	_	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_03baninyegene_furuli.dis.html:26
+# text = dèrèn dèrèn dèrèn dè!
+1	dèrèn	dɛ́rɛn	_	_	INTJ	_	_	_	_
+2	dèrèn	dɛ́rɛn	_	_	INTJ	_	_	_	_
+3	dèrèn	dɛ́rɛn	_	_	INTJ	_	_	_	_
+4	dè	dɛ́	_	_	INTJ	_	_	_	_
+5	!	!	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:77
+# text = Ala wutala ye fèn girinba dò bò wuuu!
+1	Ala	Ála	_	_	N	_	_	_	_
+2	wutala	wùtala	_	_	N	_	_	_	_
+3	ye	ye	_	_	POS;V;PFV	_	_	_	_
+4	fèn	fɛ́n	_	_	N	_	_	_	_
+5	girinba	girinba	_	_	ADJ	_	_	_	_
+6	dò	dɔ́	_	_	DET	_	_	_	_
+7	bò	bɔ́	_	_	V	_	_	_	_
+8	wuuu	wuuu	_	_	INTJ	_	_	_	_
+9	!	!	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:4
+# text = a ye lògò nyini, a ye lògò caman nyini ka a bila.
+1	a	à	_	_	SG;PRO;3	_	_	_	_
+2	ye	yé	_	_	POS;V;PFV	_	_	_	_
+3	lògò	dɔ́gɔ	_	_	N	_	_	_	_
+4	nyini	ɲíni	_	_	V	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	a	à	_	_	SG;PRO;3	_	_	_	_
+7	ye	yé	_	_	POS;V;PFV	_	_	_	_
+8	lògò	dɔ́gɔ	_	_	N	_	_	_	_
+9	caman	cá.man	_	_	ADJ	_	_	_	_
+10	nyini	ɲíni	_	_	V	_	_	_	_
+11	ka	kà	_	_	V	_	_	_	_
+12	a	à	_	_	SG;PRO;3	_	_	_	_
+13	bila	bìla	_	_	V	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:98
+# text = ko e ko n na saganin nana bi wa ?
+1	ko	kó	_	_	PART	_	_	_	_
+2	e	é	_	_	SG;PRO;2	_	_	_	_
+3	ko	kó	_	_	V	_	_	_	_
+4	n	ń	_	_	PRO	_	_	_	_
+5	na	ná	_	_	ADP	_	_	_	_
+6	saganin	saganin	_	_	N	_	_	_	_
+7	nana	nana	_	_	POS;V;PFV	_	_	_	_
+8	bi	bì	_	_	ADV	_	_	_	_
+9	wa	wà	_	_	PART	_	_	_	_
+10	?	?	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:36
+# text = a ko ònhòn !
+1	a	à	_	_	SG;PRO;3	_	_	_	_
+2	ko	kó	_	_	V	_	_	_	_
+3	ònhòn	ɔ̀nhɔ́n	_	_	INTJ	_	_	_	_
+4	!	!	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_04baramuso_jugu.dis.html:45
+# text = ‐ne ka so dun tè bin dun.
+1	‐	‐	_	_	_	_	_	_	_
+2	ne	nê	_	_	SG;PRO;1	_	_	_	_
+3	ka	ka	_	_	ADP	_	_	_	_
+4	so	sò	_	_	N	_	_	_	_
+5	dun	dún	_	_	PART	_	_	_	_
+6	tè	tɛ	_	_	IPFV;V;NEG	_	_	_	_
+7	bin	bín	_	_	N	_	_	_	_
+8	dun	dún	_	_	V	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:69
+# text = Kusuba denkè wolo bè n kan!
+1	Kusuba	Kusuba	_	_	PROPN	_	_	_	_
+2	denkè	dén.kɛ	_	_	N	_	_	_	_
+3	wolo	wòlo	_	_	N	_	_	_	_
+4	bè	bɛ́	_	_	POS;V	_	_	_	_
+5	n	ń	_	_	PRO	_	_	_	_
+6	kan	kàn	_	_	ADP	_	_	_	_
+7	!	!	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:27
+# text = a tagara, ko a be taga o dun.
+1	a	à	_	_	SG;PRO;3	_	_	_	_
+2	tagara	tagara	_	_	POS;V;PFV	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	ko	kó	_	_	CONJ	_	_	_	_
+5	a	à	_	_	SG;PRO;3	_	_	_	_
+6	be	bé	_	_	POS;IPFV;V	_	_	_	_
+7	taga	tága	_	_	V	_	_	_	_
+8	o	ò	_	_	PRO	_	_	_	_
+9	dun	dún	_	_	V	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_08dogonin_ani_koroke.dis.html:110
+# text = faama fana o kòntanna a kòrò sa, ka muso di a ma ka fèn bèè di a ma, ka a muso pari, ka a yèlèn so nyumanba kan, ka a bila ka taga u ka dugu la.
+1	faama	fàama	_	_	N	_	_	_	_
+2	fana	fána	_	_	PART	_	_	_	_
+3	o	ò	_	_	PRO	_	_	_	_
+4	kòntanna	kɔntanna	_	_	POS;V;PFV	_	_	_	_
+5	a	à	_	_	SG;PRO;3	_	_	_	_
+6	kòrò	kɔ́rɔ	_	_	ADP	_	_	_	_
+7	sa	sá	_	_	PART	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	ka	kà	_	_	V	_	_	_	_
+10	muso	mùso	_	_	N	_	_	_	_
+11	di	dí	_	_	V	_	_	_	_
+12	a	à	_	_	SG;PRO;3	_	_	_	_
+13	ma	mà	_	_	ADP	_	_	_	_
+14	ka	kà	_	_	V	_	_	_	_
+15	fèn	fɛ́n	_	_	N	_	_	_	_
+16	bèè	bɛ́ɛ	_	_	DET	_	_	_	_
+17	di	dí	_	_	V	_	_	_	_
+18	a	à	_	_	SG;PRO;3	_	_	_	_
+19	ma	mà	_	_	ADP	_	_	_	_
+20	,	,	_	_	_	_	_	_	_
+21	ka	kà	_	_	V	_	_	_	_
+22	a	à	_	_	SG;PRO;3	_	_	_	_
+23	muso	mùso	_	_	N	_	_	_	_
+24	pari	pári	_	_	V	_	_	_	_
+25	,	,	_	_	_	_	_	_	_
+26	ka	kà	_	_	V	_	_	_	_
+27	a	à	_	_	SG;PRO;3	_	_	_	_
+28	yèlèn	yɛ̀lɛn	_	_	V	_	_	_	_
+29	so	sò	_	_	N	_	_	_	_
+30	nyumanba	ɲumanba	_	_	ADJ	_	_	_	_
+31	kan	kàn	_	_	ADP	_	_	_	_
+32	,	,	_	_	_	_	_	_	_
+33	ka	kà	_	_	V	_	_	_	_
+34	a	à	_	_	SG;PRO;3	_	_	_	_
+35	bila	bìla	_	_	V	_	_	_	_
+36	ka	kà	_	_	V	_	_	_	_
+37	taga	tága	_	_	V	_	_	_	_
+38	u	ù	_	_	PRO;PL;3	_	_	_	_
+39	ka	ka	_	_	ADP	_	_	_	_
+40	dugu	dùgu	_	_	N	_	_	_	_
+41	la	lá	_	_	ADP	_	_	_	_
+42	.	.	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_08dogonin_ani_koroke.dis.html:69
+# text = a ko èè julaw, sani aw ka sen kè ka tobili kè, dògò bè n bolo, aw ka a minè ka tobili kè.
+1	a	à	_	_	SG;PRO;3	_	_	_	_
+2	ko	kó	_	_	V	_	_	_	_
+3	èè	ée	_	_	INTJ	_	_	_	_
+4	julaw	julaw	_	_	N;PL	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	sani	sá.ni	_	_	CONJ	_	_	_	_
+7	aw	áw	_	_	PRO;PL;2	_	_	_	_
+8	ka	ká	_	_	V	_	_	_	_
+9	sen	sèn	_	_	N	_	_	_	_
+10	kè	kɛ́	_	_	V	_	_	_	_
+11	ka	kà	_	_	V	_	_	_	_
+12	tobili	tóbi.li	_	_	N;V.MSDR	_	_	_	_
+13	kè	kɛ́	_	_	V	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	dògò	dɔ́gɔ	_	_	N	_	_	_	_
+16	bè	bɛ́	_	_	POS;V	_	_	_	_
+17	n	ń	_	_	PRO	_	_	_	_
+18	bolo	bólo	_	_	ADP	_	_	_	_
+19	,	,	_	_	_	_	_	_	_
+20	aw	áw	_	_	PRO;PL;2	_	_	_	_
+21	ka	ká	_	_	V	_	_	_	_
+22	a	à	_	_	SG;PRO;3	_	_	_	_
+23	minè	mìnɛ	_	_	V	_	_	_	_
+24	ka	kà	_	_	V	_	_	_	_
+25	tobili	tóbi.li	_	_	N;V.MSDR	_	_	_	_
+26	kè	kɛ́	_	_	V	_	_	_	_
+27	.	.	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_07denmuso_fila.dis.html:87
+# text = a ko baasi tè.
+1	a	à	_	_	SG;PRO;3	_	_	_	_
+2	ko	kó	_	_	V	_	_	_	_
+3	baasi	báasi	_	_	N	_	_	_	_
+4	tè	tɛ́	_	_	NEG;V	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:75
+# text = a ye o bè di Mangala ma Ala wutala fana ko a bèe bila yan a ko boli, i ka taga i biri!
+1	a	à	_	_	SG;PRO;3	_	_	_	_
+2	ye	ye	_	_	POS;V;PFV	_	_	_	_
+3	o	ò	_	_	PRO	_	_	_	_
+4	bè	bɛ́ɛ	_	_	DET	_	_	_	_
+5	di	dí	_	_	V	_	_	_	_
+6	Mangala	mángala	_	_	N	_	_	_	_
+7	ma	mà	_	_	ADP	_	_	_	_
+8	Ala	Ála	_	_	N	_	_	_	_
+9	wutala	wùtala	_	_	N	_	_	_	_
+10	fana	fána	_	_	PART	_	_	_	_
+11	ko	kó	_	_	V	_	_	_	_
+12	a	à	_	_	SG;PRO;3	_	_	_	_
+13	bèe	bɛ́ɛ	_	_	DET	_	_	_	_
+14	bila	bìla	_	_	V	_	_	_	_
+15	yan	yàn	_	_	ADV	_	_	_	_
+16	a	à	_	_	SG;PRO;3	_	_	_	_
+17	ko	kó	_	_	V	_	_	_	_
+18	boli	bòli	_	_	V	_	_	_	_
+19	,	,	_	_	_	_	_	_	_
+20	i	í	_	_	SG;PRO;2	_	_	_	_
+21	ka	ka	_	_	POS;SBJV;V	_	_	_	_
+22	taga	tága	_	_	V	_	_	_	_
+23	i	í	_	_	PRO	_	_	_	_
+24	biri	bíri	_	_	V	_	_	_	_
+25	!	!	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:35
+# text = a nana sa ko e bè se ka i yèrè lafyè sisan !
+1	a	à	_	_	SG;PRO;3	_	_	_	_
+2	nana	nana	_	_	POS;V;PFV	_	_	_	_
+3	sa	sá	_	_	N	_	_	_	_
+4	ko	kó	_	_	PART	_	_	_	_
+5	e	é	_	_	SG;PRO;2	_	_	_	_
+6	bè	bɛ́	_	_	POS;IPFV;V	_	_	_	_
+7	se	sé	_	_	V	_	_	_	_
+8	ka	kà	_	_	V	_	_	_	_
+9	i	í	_	_	PRO	_	_	_	_
+10	yèrè	yɛ̀rɛ	_	_	DET	_	_	_	_
+11	lafyè	làfyɛ	_	_	V	_	_	_	_
+12	sisan	sísan	_	_	ADV	_	_	_	_
+13	!	!	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_04baramuso_jugu.dis.html:68
+# text = Mamadu wulila: Bilali yo, Bilali yo!
+1	Mamadu	Mamadu	_	_	PROPN	_	_	_	_
+2	wulila	wulila	_	_	POS;V;PFV	_	_	_	_
+3	:	:	_	_	_	_	_	_	_
+4	Bilali	Bilali	_	_	PROPN	_	_	_	_
+5	yo	yó	_	_	PART	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	Bilali	Bilali	_	_	PROPN	_	_	_	_
+8	yo	yó	_	_	PART	_	_	_	_
+9	!	!	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:36
+# text = an ka don subagamuso nin fè, subagamuso nin tè se ka foyi kè an na.
+1	an	án	_	_	PRO;PL;1	_	_	_	_
+2	ka	ká	_	_	V	_	_	_	_
+3	don	dòn	_	_	V	_	_	_	_
+4	subagamuso	subagamuso	_	_	N	_	_	_	_
+5	nin	nìn	_	_	DEF;DET	_	_	_	_
+6	fè	fɛ̀	_	_	ADP	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	subagamuso	subagamuso	_	_	N	_	_	_	_
+9	nin	nìn	_	_	DEF;DET	_	_	_	_
+10	tè	tɛ́	_	_	IPFV;V;NEG	_	_	_	_
+11	se	sé	_	_	V	_	_	_	_
+12	ka	kà	_	_	V	_	_	_	_
+13	foyi	fóyi	_	_	N	_	_	_	_
+14	kè	kɛ́	_	_	V	_	_	_	_
+15	an	án	_	_	PRO;PL;1	_	_	_	_
+16	na	ná	_	_	ADP	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_10amadu_tara.dis.html:117
+# text = jinèmuso nin nana dòròn, Amadu Tara kòròkè ninw bèè, Amadu Tara kòròkè seegin ninw bèè wulila ka jò jinèmuso nin kama sisan kòni, ko u bè na jinèmuso nin furu
+1	jinèmuso	jinɛmuso	_	_	N	_	_	_	_
+2	nin	nìn	_	_	DEF;DET	_	_	_	_
+3	nana	nana	_	_	POS;V;PFV	_	_	_	_
+4	dòròn	dɔ́rɔn	_	_	ADV	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	Amadu	Ámàdu	_	_	PROPN	_	_	_	_
+7	Tara	Tara	_	_	PROPN	_	_	_	_
+8	kòròkè	kɔ̀rɔkɛ	_	_	N	_	_	_	_
+9	ninw	ninw	_	_	DEF;PL;DET	_	_	_	_
+10	bèè	bɛ́ɛ	_	_	DET	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	Amadu	Ámàdu	_	_	PROPN	_	_	_	_
+13	Tara	Tara	_	_	PROPN	_	_	_	_
+14	kòròkè	kɔ̀rɔkɛ	_	_	N	_	_	_	_
+15	seegin	ségin	_	_	NUM	_	_	_	_
+16	ninw	ninw	_	_	DEF;PL;DET	_	_	_	_
+17	bèè	bɛ́ɛ	_	_	DET	_	_	_	_
+18	wulila	wulila	_	_	POS;V;PFV	_	_	_	_
+19	ka	kà	_	_	V	_	_	_	_
+20	jò	jɔ̀	_	_	V	_	_	_	_
+21	jinèmuso	jinɛmuso	_	_	N	_	_	_	_
+22	nin	nìn	_	_	DEF;DET	_	_	_	_
+23	kama	kámà	_	_	ADP	_	_	_	_
+24	sisan	sísàn	_	_	ADV	_	_	_	_
+25	kòni	kɔ̀ni	_	_	PART	_	_	_	_
+26	,	,	_	_	_	_	_	_	_
+27	ko	kó	_	_	PART	_	_	_	_
+28	u	ù	_	_	PRO;PL;3	_	_	_	_
+29	bè	bɛ	_	_	POS;IPFV;V	_	_	_	_
+30	na	nà	_	_	V	_	_	_	_
+31	jinèmuso	jinɛmuso	_	_	N	_	_	_	_
+32	nin	nìn	_	_	DEF;DET	_	_	_	_
+33	furu	fúru	_	_	V	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_10amadu_tara.dis.html:76
+# text = a tagara jamanatigi nin ka so, a tagara denmuso nyini.
+1	a	à	_	_	SG;PRO;3	_	_	_	_
+2	tagara	tagara	_	_	POS;V;PFV	_	_	_	_
+3	jamanatigi	jàmana.tigi	_	_	N	_	_	_	_
+4	nin	nìn	_	_	DEF;DET	_	_	_	_
+5	ka	ká	_	_	ADP	_	_	_	_
+6	so	só	_	_	N	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	a	à	_	_	SG;PRO;3	_	_	_	_
+9	tagara	tagara	_	_	POS;V;PFV	_	_	_	_
+10	denmuso	dén.muso	_	_	N	_	_	_	_
+11	nyini	ɲíni	_	_	V	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_07denmuso_fila.dis.html:74
+# text = e kò ka nyi ne ba kò ye.
+1	e	é	_	_	SG;PRO;2	_	_	_	_
+2	kò	kɔ́	_	_	N	_	_	_	_
+3	ka	ká	_	_	POS;V	_	_	_	_
+4	nyi	ɲì	_	_	V	_	_	_	_
+5	ne	né	_	_	SG;PRO;1	_	_	_	_
+6	ba	bá	_	_	N	_	_	_	_
+7	kò	kɔ́	_	_	N	_	_	_	_
+8	ye	yé	_	_	ADP	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:12
+# text = den ye a bolo bò ka a tan so sanfè.
+1	den	dén	_	_	N	_	_	_	_
+2	ye	yé	_	_	POS;V;PFV	_	_	_	_
+3	a	à	_	_	SG;PRO;3	_	_	_	_
+4	bolo	bólo	_	_	N	_	_	_	_
+5	bò	bɔ́	_	_	V	_	_	_	_
+6	ka	kà	_	_	V	_	_	_	_
+7	a	à	_	_	SG;PRO;3	_	_	_	_
+8	tan	tán	_	_	V	_	_	_	_
+9	so	sò	_	_	N	_	_	_	_
+10	sanfè	sán.fɛ̀	_	_	ADP	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_10amadu_tara.dis.html:89
+# text = o tuma a ni a kòròkè seegin bèè ye sira minè ko u bè taga u fa bara, fo u selen kungokolonba kònò, o ye a sòrò kòlòn dò bè yen.
+1	o	ò	_	_	DET	_	_	_	_
+2	tuma	tùma	_	_	N	_	_	_	_
+3	a	à	_	_	SG;PRO;3	_	_	_	_
+4	ni	ni	_	_	CONJ	_	_	_	_
+5	a	à	_	_	SG;PRO;3	_	_	_	_
+6	kòròkè	kɔ̀rɔkɛ	_	_	N	_	_	_	_
+7	seegin	ségin	_	_	NUM	_	_	_	_
+8	bèè	bɛ́ɛ	_	_	DET	_	_	_	_
+9	ye	ye	_	_	POS;V;PFV	_	_	_	_
+10	sira	síra	_	_	N	_	_	_	_
+11	minè	mìnɛ	_	_	V	_	_	_	_
+12	ko	kó	_	_	PART	_	_	_	_
+13	u	ù	_	_	PRO;PL;3	_	_	_	_
+14	bè	bɛ	_	_	POS;IPFV;V	_	_	_	_
+15	taga	tága	_	_	V	_	_	_	_
+16	u	ù	_	_	PRO;PL;3	_	_	_	_
+17	fa	fà	_	_	N	_	_	_	_
+18	bara	bára	_	_	ADP	_	_	_	_
+19	,	,	_	_	_	_	_	_	_
+20	fo	fó	_	_	CONJ	_	_	_	_
+21	u	ù	_	_	PRO;PL;3	_	_	_	_
+22	selen	selen	_	_	V.PTCP;V;PFV	_	_	_	_
+23	kungokolonba	kungokolonba	_	_	N	_	_	_	_
+24	kònò	kɔ́nɔ	_	_	ADP	_	_	_	_
+25	,	,	_	_	_	_	_	_	_
+26	o	ò	_	_	PRO	_	_	_	_
+27	ye	ye	_	_	POS;V;PFV	_	_	_	_
+28	a	à	_	_	SG;PRO;3	_	_	_	_
+29	sòrò	sɔ̀rɔ	_	_	V	_	_	_	_
+30	kòlòn	kɔ̀lɔn	_	_	N	_	_	_	_
+31	dò	dɔ́	_	_	DET	_	_	_	_
+32	bè	bɛ́	_	_	V	_	_	_	_
+33	yen	yèn	_	_	ADV	_	_	_	_
+34	.	.	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_10amadu_tara.dis.html:17
+# text = o tuma na cèkòròba fana ko ni Ala sònna ko ale ko ni o kòni bè a furakè ko o tuma na ko ale be kènèya ni Ala sònna.
+1	o	ò	_	_	DET	_	_	_	_
+2	tuma	tùma	_	_	N	_	_	_	_
+3	na	ná	_	_	ADP	_	_	_	_
+4	cèkòròba	cɛ̀.kɔrɔ.ba	_	_	N	_	_	_	_
+5	fana	fána	_	_	PART	_	_	_	_
+6	ko	kó	_	_	V	_	_	_	_
+7	ni	ní	_	_	CONJ	_	_	_	_
+8	Ala	Ála	_	_	N	_	_	_	_
+9	sònna	sɔnna	_	_	POS;V;PFV	_	_	_	_
+10	ko	kó	_	_	PART	_	_	_	_
+11	ale	àle	_	_	SG;PRO;3	_	_	_	_
+12	ko	kó	_	_	PART	_	_	_	_
+13	ni	ní	_	_	CONJ	_	_	_	_
+14	o	ò	_	_	PRO	_	_	_	_
+15	kòni	kɔ̀ni	_	_	PART	_	_	_	_
+16	bè	bɛ́	_	_	POS;IPFV;V	_	_	_	_
+17	a	à	_	_	SG;PRO;3	_	_	_	_
+18	furakè	fúra.kɛ	_	_	V	_	_	_	_
+19	ko	kó	_	_	PART	_	_	_	_
+20	o	ò	_	_	DET	_	_	_	_
+21	tuma	tùma	_	_	N	_	_	_	_
+22	na	ná	_	_	ADP	_	_	_	_
+23	ko	kó	_	_	PART	_	_	_	_
+24	ale	àle	_	_	SG;PRO;3	_	_	_	_
+25	be	bé	_	_	POS;IPFV;V	_	_	_	_
+26	kènèya	kɛ́nɛ.ya	_	_	V	_	_	_	_
+27	ni	ní	_	_	CONJ	_	_	_	_
+28	Ala	Ála	_	_	N	_	_	_	_
+29	sònna	sɔnna	_	_	POS;V;PFV	_	_	_	_
+30	.	.	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_03baninyegene_furuli.dis.html:7
+# text = o tuma na, jaga den nin tògò ko Baninyègènè.
+1	o	ò	_	_	DET	_	_	_	_
+2	tuma	tùma	_	_	N	_	_	_	_
+3	na	ná	_	_	ADP	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	jaga	jàa	_	_	INTJ	_	_	_	_
+6	den	dén	_	_	N	_	_	_	_
+7	nin	nìn	_	_	DEF;DET	_	_	_	_
+8	tògò	tɔ́gɔ	_	_	N	_	_	_	_
+9	ko	kó	_	_	PART	_	_	_	_
+10	Baninyègènè	ba-ni-ɲɛgɛnɛ	_	_	PROPN	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:19
+# text = a ko fònhòn !
+1	a	à	_	_	SG;PRO;3	_	_	_	_
+2	ko	kó	_	_	V	_	_	_	_
+3	fònhòn	fɔ̀nhɔn	_	_	INTJ	_	_	_	_
+4	!	!	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_07denmuso_fila.dis.html:140
+# text = a ko n nana Maromaro jinamuso bara.
+1	a	à	_	_	SG;PRO;3	_	_	_	_
+2	ko	kó	_	_	V	_	_	_	_
+3	n	ń	_	_	PRO	_	_	_	_
+4	nana	nana	_	_	POS;V;PFV	_	_	_	_
+5	Maromaro	Maromaro	_	_	PROPN	_	_	_	_
+6	jinamuso	jínɛmuso	_	_	N	_	_	_	_
+7	bara	bára	_	_	ADP	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:76
+# text = subagamuso nin ma don a bè a ta sara cogo min, a ye i yèrè kè Dawuda ka kòròkè ka sungurun nyumannin ye.
+1	subagamuso	subagamuso	_	_	N	_	_	_	_
+2	nin	nìn	_	_	DEF;DET	_	_	_	_
+3	ma	má	_	_	V	_	_	_	_
+4	don	dɔ́n	_	_	V	_	_	_	_
+5	a	à	_	_	SG;PRO;3	_	_	_	_
+6	bè	bɛ́	_	_	POS;IPFV;V	_	_	_	_
+7	a	à	_	_	SG;PRO;3	_	_	_	_
+8	ta	tá	_	_	N	_	_	_	_
+9	sara	sàra	_	_	V	_	_	_	_
+10	cogo	cógo	_	_	N	_	_	_	_
+11	min	mín	_	_	DET	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	a	à	_	_	SG;PRO;3	_	_	_	_
+14	ye	yé	_	_	POS;V;PFV	_	_	_	_
+15	i	í	_	_	PRO	_	_	_	_
+16	yèrè	yɛ̀rɛ	_	_	DET	_	_	_	_
+17	kè	kɛ́	_	_	V	_	_	_	_
+18	Dawuda	Dáwuda	_	_	PROPN	_	_	_	_
+19	ka	ká	_	_	ADP	_	_	_	_
+20	kòròkè	kɔ̀rɔ.kɛ	_	_	N	_	_	_	_
+21	ka	ká	_	_	ADP	_	_	_	_
+22	sungurun	súngurun	_	_	N	_	_	_	_
+23	nyumannin	ɲumannin	_	_	ADJ	_	_	_	_
+24	ye	yé	_	_	ADP	_	_	_	_
+25	.	.	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:12
+# text = ko n na, ko n tògò la !
+1	ko	kó	_	_	PART	_	_	_	_
+2	n	ń	_	_	PRO	_	_	_	_
+3	na	nà	_	_	N	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	ko	kó	_	_	PART	_	_	_	_
+6	n	ń	_	_	PRO	_	_	_	_
+7	tògò	tɔ́gɔ	_	_	N	_	_	_	_
+8	la	dá	_	_	V	_	_	_	_
+9	!	!	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:21
+# text = a kòròkèw ye a bugò ka segin.
+1	a	à	_	_	SG;PRO;3	_	_	_	_
+2	kòròkèw	kɔrɔkɛw	_	_	N;PL	_	_	_	_
+3	ye	yé	_	_	POS;V;PFV	_	_	_	_
+4	a	à	_	_	SG;PRO;3	_	_	_	_
+5	bugò	bùgɔ	_	_	V	_	_	_	_
+6	ka	kà	_	_	V	_	_	_	_
+7	segin	sègin	_	_	V	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_04baramuso_jugu.dis.html:5
+# text = a ye kònò ta.
+1	a	à	_	_	SG;PRO;3	_	_	_	_
+2	ye	ye	_	_	POS;V;PFV	_	_	_	_
+3	kònò	kɔ́nɔ	_	_	N	_	_	_	_
+4	ta	tà	_	_	V	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_03baninyegene_furuli.dis.html:37
+# text = masa Ala ye konyumannin da n nyè.
+1	masa	màsa	_	_	N	_	_	_	_
+2	Ala	Ála	_	_	N	_	_	_	_
+3	ye	ye	_	_	POS;V;PFV	_	_	_	_
+4	konyumannin	koɲumannin	_	_	N	_	_	_	_
+5	da	dá	_	_	V	_	_	_	_
+6	n	ń	_	_	SG;PRO;1	_	_	_	_
+7	nyè	ɲɛ́	_	_	ADP	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_07denmuso_fila.dis.html:146
+# text = a ko n kolo susu!
+1	a	à	_	_	SG;PRO;3	_	_	_	_
+2	ko	kó	_	_	V	_	_	_	_
+3	n	ń	_	_	PRO	_	_	_	_
+4	kolo	kólo	_	_	N	_	_	_	_
+5	susu	sùsu	_	_	V	_	_	_	_
+6	!	!	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:103
+# text = ko woo ko ne Dawuda yèrè don.
+1	ko	kó	_	_	PART	_	_	_	_
+2	woo	wòo	_	_	INTJ	_	_	_	_
+3	ko	kó	_	_	PART	_	_	_	_
+4	ne	né	_	_	SG;PRO;1	_	_	_	_
+5	Dawuda	Dáwuda	_	_	PROPN	_	_	_	_
+6	yèrè	yɛ̀rɛ	_	_	DET	_	_	_	_
+7	don	dòn	_	_	V	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:14
+# text = a ko i lò dè !
+1	a	à	_	_	SG;PRO;3	_	_	_	_
+2	ko	kó	_	_	V	_	_	_	_
+3	i	í	_	_	PRO	_	_	_	_
+4	lò	lɔ́	_	_	V	_	_	_	_
+5	dè	dɛ́	_	_	PART	_	_	_	_
+6	!	!	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:17
+# text = su o su, u bè nyògon na.
+1	su	sú	_	_	N	_	_	_	_
+2	o	ó	_	_	CONJ	_	_	_	_
+3	su	sú	_	_	N	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	u	ù	_	_	PRO;PL;3	_	_	_	_
+6	bè	bɛ́	_	_	POS;V	_	_	_	_
+7	nyògon	ɲɔ́gɔn	_	_	PRO	_	_	_	_
+8	na	ná	_	_	ADP	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_10amadu_tara.dis.html:42
+# text = Amadu Tara fana ko ni Ala sònna a ma ko a bè a sòrò yen.
+1	Amadu	Ámadù	_	_	PROPN	_	_	_	_
+2	Tara	Tara	_	_	PROPN	_	_	_	_
+3	fana	fána	_	_	PART	_	_	_	_
+4	ko	kó	_	_	V	_	_	_	_
+5	ni	ní	_	_	CONJ	_	_	_	_
+6	Ala	Ála	_	_	N	_	_	_	_
+7	sònna	sɔnna	_	_	POS;V;PFV	_	_	_	_
+8	a	à	_	_	SG;PRO;3	_	_	_	_
+9	ma	mà	_	_	ADP	_	_	_	_
+10	ko	kó	_	_	PART	_	_	_	_
+11	a	à	_	_	SG;PRO;3	_	_	_	_
+12	bè	bɛ́	_	_	POS;IPFV;V	_	_	_	_
+13	a	à	_	_	SG;PRO;3	_	_	_	_
+14	sòrò	sɔ̀rɔ	_	_	V	_	_	_	_
+15	yen	yèn	_	_	ADV	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_08dogonin_ani_koroke.dis.html:116
+# text = n ye o ta yòrò min, n ye o bila yen.
+1	n	ń	_	_	PRO	_	_	_	_
+2	ye	yé	_	_	POS;V;PFV	_	_	_	_
+3	o	ò	_	_	PRO	_	_	_	_
+4	ta	tà	_	_	V	_	_	_	_
+5	yòrò	yɔ́rɔ	_	_	N	_	_	_	_
+6	min	mín	_	_	DET	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	n	ń	_	_	PRO	_	_	_	_
+9	ye	yé	_	_	POS;V;PFV	_	_	_	_
+10	o	ò	_	_	PRO	_	_	_	_
+11	bila	bìla	_	_	V	_	_	_	_
+12	yen	yèn	_	_	ADV	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = konta-nsiiriw_nsanaw_06cekoroba_n_a_denw.dis.html:3
+# text = Nin kɛra cɛkɔrɔba dɔ n'a denw ye.
+1	Nin	nìn	_	_	PRO	_	_	_	_
+2	kɛra	kɛ́ra	_	_	POS;V;PFV	_	_	_	_
+3	cɛkɔrɔba	cɛ̀kɔrɔba	_	_	N	_	_	_	_
+4	dɔ	dɔ́	_	_	DET	_	_	_	_
+5	n'	n'	_	_	CONJ	_	_	_	_
+6	a	à	_	_	SG;PRO;3	_	_	_	_
+7	denw	denw	_	_	N;PL	_	_	_	_
+8	ye	yé	_	_	ADP	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:83
+# text = a wulila ka a ka marfa jòsò ka sèmèkala ta ka tugu wulunin kò.
+1	a	à	_	_	SG;PRO;3	_	_	_	_
+2	wulila	wulila	_	_	POS;V;PFV	_	_	_	_
+3	ka	kà	_	_	V	_	_	_	_
+4	a	à	_	_	SG;PRO;3	_	_	_	_
+5	ka	ká	_	_	ADP	_	_	_	_
+6	marfa	màrfa	_	_	N	_	_	_	_
+7	jòsò	jɔ́sɔn	_	_	V	_	_	_	_
+8	ka	kà	_	_	V	_	_	_	_
+9	sèmèkala	sɛ̀mɛkala	_	_	N	_	_	_	_
+10	ta	tà	_	_	V	_	_	_	_
+11	ka	kà	_	_	V	_	_	_	_
+12	tugu	tùgu	_	_	V	_	_	_	_
+13	wulunin	wulunin	_	_	N	_	_	_	_
+14	kò	kɔ́	_	_	ADP	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:94
+# text = ko lemurusun nin tè lemurusun ye, ko subaga don !
+1	ko	kó	_	_	PART	_	_	_	_
+2	lemurusun	lemurusun	_	_	N	_	_	_	_
+3	nin	nìn	_	_	DEF;DET	_	_	_	_
+4	tè	tɛ́	_	_	NEG;V	_	_	_	_
+5	lemurusun	lemurusun	_	_	N	_	_	_	_
+6	ye	yé	_	_	ADP	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	ko	kó	_	_	PART	_	_	_	_
+9	subaga	sú.baga	_	_	N	_	_	_	_
+10	don	dòn	_	_	V	_	_	_	_
+11	!	!	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_07denmuso_fila.dis.html:171
+# text = u nana ka na dennin kunbèn, ka dennin miné ka dennin faga, ka a farafara ka a sogo dun.
+1	u	ù	_	_	PRO;PL;3	_	_	_	_
+2	nana	nana	_	_	POS;V;PFV	_	_	_	_
+3	ka	kà	_	_	V	_	_	_	_
+4	na	nà	_	_	V	_	_	_	_
+5	dennin	dén.nin	_	_	N	_	_	_	_
+6	kunbèn	kùn.bɛ̀n	_	_	V	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	ka	kà	_	_	V	_	_	_	_
+9	dennin	dén.nin	_	_	N	_	_	_	_
+10	miné	mìnɛ	_	_	V	_	_	_	_
+11	ka	kà	_	_	V	_	_	_	_
+12	dennin	dén.nin	_	_	N	_	_	_	_
+13	faga	fàga	_	_	V	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	ka	kà	_	_	V	_	_	_	_
+16	a	à	_	_	SG;PRO;3	_	_	_	_
+17	farafara	farafara	_	_	V	_	_	_	_
+18	ka	kà	_	_	V	_	_	_	_
+19	a	à	_	_	SG;PRO;3	_	_	_	_
+20	sogo	sògo	_	_	N	_	_	_	_
+21	dun	dún	_	_	V	_	_	_	_
+22	.	.	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:53
+# text = Dawuda ko : en, en, en, a da gè!
+1	Dawuda	Dáwuda	_	_	PROPN	_	_	_	_
+2	ko	kó	_	_	V	_	_	_	_
+3	:	:	_	_	_	_	_	_	_
+4	en	en	_	_	INTJ	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	en	en	_	_	INTJ	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	en	en	_	_	INTJ	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	a	à	_	_	SG;PRO;3	_	_	_	_
+11	da	dá	_	_	N	_	_	_	_
+12	gè	gɛ́n	_	_	V	_	_	_	_
+13	!	!	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_05sinamuso_jugu.dis.html:3
+# text = n ye a da masakè nin de na.
+1	n	ń	_	_	SG;PRO;1	_	_	_	_
+2	ye	ye	_	_	POS;V;PFV	_	_	_	_
+3	a	à	_	_	SG;PRO;3	_	_	_	_
+4	da	dá	_	_	V	_	_	_	_
+5	masakè	màsakɛ	_	_	N	_	_	_	_
+6	nin	nìn	_	_	DEF;DET	_	_	_	_
+7	de	dè	_	_	PART	_	_	_	_
+8	na	ná	_	_	ADP	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_07denmuso_fila.dis.html:156
+# text = a ko ko a ka taga ji ta ka na, ka a di a ma a ka i ko.
+1	a	à	_	_	SG;PRO;3	_	_	_	_
+2	ko	kó	_	_	V	_	_	_	_
+3	ko	kó	_	_	CONJ	_	_	_	_
+4	a	à	_	_	SG;PRO;3	_	_	_	_
+5	ka	ká	_	_	V	_	_	_	_
+6	taga	tága	_	_	V	_	_	_	_
+7	ji	jí	_	_	N	_	_	_	_
+8	ta	tà	_	_	V	_	_	_	_
+9	ka	kà	_	_	V	_	_	_	_
+10	na	nà	_	_	V	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	ka	kà	_	_	V	_	_	_	_
+13	a	à	_	_	SG;PRO;3	_	_	_	_
+14	di	dí	_	_	V	_	_	_	_
+15	a	à	_	_	SG;PRO;3	_	_	_	_
+16	ma	mà	_	_	ADP	_	_	_	_
+17	a	à	_	_	SG;PRO;3	_	_	_	_
+18	ka	ká	_	_	V	_	_	_	_
+19	i	í	_	_	PRO	_	_	_	_
+20	ko	kò	_	_	V	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_10amadu_tara.dis.html:88
+# text = a ye o nyini muso nin fè, muso sònna.
+1	a	à	_	_	SG;PRO;3	_	_	_	_
+2	ye	yé	_	_	POS;V;PFV	_	_	_	_
+3	o	ò	_	_	PRO	_	_	_	_
+4	nyini	ɲíni	_	_	V	_	_	_	_
+5	muso	mùso	_	_	N	_	_	_	_
+6	nin	nìn	_	_	DEF;DET	_	_	_	_
+7	fè	fɛ̀	_	_	ADP	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	muso	mùso	_	_	N	_	_	_	_
+10	sònna	sɔnna	_	_	POS;V;PFV	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:2
+# text = ayiwa, n ye a da nin musokòrònin kelen na.
+1	ayiwa	áyiwa	_	_	INTJ	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	n	ń	_	_	SG;PRO;1	_	_	_	_
+4	ye	ye	_	_	POS;V;PFV	_	_	_	_
+5	a	à	_	_	SG;PRO;3	_	_	_	_
+6	da	dá	_	_	V	_	_	_	_
+7	nin	nìn	_	_	DEF;DET	_	_	_	_
+8	musokòrònin	mùsokɔrɔnin	_	_	N	_	_	_	_
+9	kelen	kélen	_	_	NUM	_	_	_	_
+10	na	ná	_	_	ADP	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_10amadu_tara.dis.html:104
+# text = a bè na minkè dòròn kungo kònò, a sera ka bugu dò ye yen dugutilama fè yen.
+1	a	à	_	_	SG;PRO;3	_	_	_	_
+2	bè	bɛ́	_	_	POS;IPFV;V	_	_	_	_
+3	na	nà	_	_	V	_	_	_	_
+4	minkè	mínkɛ	_	_	CONJ	_	_	_	_
+5	dòròn	dɔ́rɔn	_	_	ADV	_	_	_	_
+6	kungo	kúngo	_	_	N	_	_	_	_
+7	kònò	kɔ́nɔ	_	_	ADP	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	a	à	_	_	SG;PRO;3	_	_	_	_
+10	sera	sera	_	_	POS;V;PFV	_	_	_	_
+11	ka	kà	_	_	V	_	_	_	_
+12	bugu	bùgu	_	_	N	_	_	_	_
+13	dò	dɔ́	_	_	DET	_	_	_	_
+14	ye	yé	_	_	V	_	_	_	_
+15	yen	yèn	_	_	ADV	_	_	_	_
+16	dugutilama	dùgu.tila.ma	_	_	N	_	_	_	_
+17	fè	fɛ̀	_	_	ADP	_	_	_	_
+18	yen	yèn	_	_	ADV	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_04baramuso_jugu.dis.html:23
+# text = a bonyara minkè, a ye nyòkalaso dila.
+1	a	à	_	_	SG;PRO;3	_	_	_	_
+2	bonyara	bonyara	_	_	POS;V;PFV	_	_	_	_
+3	minkè	mínkɛ	_	_	CONJ	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	a	à	_	_	SG;PRO;3	_	_	_	_
+6	ye	ye	_	_	POS;V;PFV	_	_	_	_
+7	nyòkalaso	ɲɔkalaso	_	_	N	_	_	_	_
+8	dila	díla	_	_	V	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_03baninyegene_furuli.dis.html:20
+# text = a ye a tògò fò a ye ko a tògò ko Baninyègènè.
+1	a	à	_	_	SG;PRO;3	_	_	_	_
+2	ye	ye	_	_	POS;V;PFV	_	_	_	_
+3	a	à	_	_	SG;PRO;3	_	_	_	_
+4	tògò	tɔ́gɔ	_	_	N	_	_	_	_
+5	fò	fɔ́	_	_	V	_	_	_	_
+6	a	à	_	_	SG;PRO;3	_	_	_	_
+7	ye	yé	_	_	ADP	_	_	_	_
+8	ko	kó	_	_	PART	_	_	_	_
+9	a	à	_	_	SG;PRO;3	_	_	_	_
+10	tògò	tɔ́gɔ	_	_	N	_	_	_	_
+11	ko	kó	_	_	PART	_	_	_	_
+12	Baninyègènè	ba-ni-ɲɛgɛnɛ	_	_	PROPN	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:43
+# text = a ko n be yèlèn i kan
+1	a	à	_	_	SG;PRO;3	_	_	_	_
+2	ko	kó	_	_	V	_	_	_	_
+3	n	ń	_	_	SG;PRO;1	_	_	_	_
+4	be	be	_	_	POS;IPFV;V	_	_	_	_
+5	yèlèn	yɛ̀lɛn	_	_	V	_	_	_	_
+6	i	í	_	_	SG;PRO;2	_	_	_	_
+7	kan	kàn	_	_	ADP	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:109
+# text = ko aw!
+1	ko	kó	_	_	PART	_	_	_	_
+2	aw	áà	_	_	INTJ	_	_	_	_
+3	!	!	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:61
+# text = - kònòba bè dugu min na, su tè ko, dugu tè gè.
+# label = rel_elided
+1	-	-	_	_	_	_	_	_	_
+2	kònòba	kɔnɔba	_	_	N	_	_	_	_
+3	bè	bɛ́	_	_	POS;V	_	_	_	_
+4	dugu	dùgu	_	_	N	_	_	_	_
+5	min	mín	_	_	DET	_	_	_	_
+6	na	ná	_	_	ADP	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	su	sú	_	_	N	_	_	_	_
+9	tè	tɛ́	_	_	IPFV;V;NEG	_	_	_	_
+10	ko	kò	_	_	V	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	dugu	dùgu	_	_	N	_	_	_	_
+13	tè	tɛ́	_	_	IPFV;V;NEG	_	_	_	_
+14	gè	jɛ́	_	_	V	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_04baramuso_jugu.dis.html:29
+# text = maaninfin dun bè kaba wolo?
+1	maaninfin	màaninfin	_	_	N	_	_	_	_
+2	dun	dún	_	_	PART	_	_	_	_
+3	bè	bɛ	_	_	POS;IPFV;V	_	_	_	_
+4	kaba	kába	_	_	N	_	_	_	_
+5	wolo	wólo	_	_	V	_	_	_	_
+6	?	?	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_07denmuso_fila.dis.html:102
+# text = o ye i kanto ko sisan filen nin fana a tè kala yòrò si.
+1	o	ò	_	_	PRO	_	_	_	_
+2	ye	yé	_	_	POS;V;PFV	_	_	_	_
+3	i	í	_	_	PRO	_	_	_	_
+4	kanto	kán.to	_	_	V	_	_	_	_
+5	ko	kó	_	_	CONJ	_	_	_	_
+6	sisan	sísan	_	_	ADV	_	_	_	_
+7	filen	fílen	_	_	N	_	_	_	_
+8	nin	nìn	_	_	DEF;DET	_	_	_	_
+9	fana	fána	_	_	PART	_	_	_	_
+10	a	à	_	_	SG;PRO;3	_	_	_	_
+11	tè	tɛ́	_	_	IPFV;V;NEG	_	_	_	_
+12	kala	kála	_	_	V	_	_	_	_
+13	yòrò	yɔ́rɔ	_	_	N	_	_	_	_
+14	si	sí	_	_	DET	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_03baninyegene_furuli.dis.html:12
+# text = jelikè dò ye a mèn sa.
+1	jelikè	jèlikɛ	_	_	N	_	_	_	_
+2	dò	dɔ́	_	_	DET	_	_	_	_
+3	ye	ye	_	_	POS;V;PFV	_	_	_	_
+4	a	à	_	_	SG;PRO;3	_	_	_	_
+5	mèn	mɛ́n	_	_	V	_	_	_	_
+6	sa	sá	_	_	PART	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_syefan_ani_syedennin.dis.html:3
+# text = syèfan ani syèdennin o tun tagara lenburukariyòrò.
+1	syèfan	syɛ̀fan	_	_	N	_	_	_	_
+2	ani	àni	_	_	CONJ	_	_	_	_
+3	syèdennin	syɛdennin	_	_	N	_	_	_	_
+4	o	ò	_	_	PRO	_	_	_	_
+5	tun	tùn	_	_	PART;PST	_	_	_	_
+6	tagara	tagara	_	_	POS;V;PFV	_	_	_	_
+7	lenburukariyòrò	lenburukariyɔrɔ	_	_	N	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_10amadu_tara.dis.html:53
+# text = Amadu Tara fana ko ko a bè a fè.
+1	Amadu	Ámadù	_	_	PROPN	_	_	_	_
+2	Tara	Tara	_	_	PROPN	_	_	_	_
+3	fana	fána	_	_	PART	_	_	_	_
+4	ko	kó	_	_	V	_	_	_	_
+5	ko	kó	_	_	PART	_	_	_	_
+6	a	à	_	_	SG;PRO;3	_	_	_	_
+7	bè	bɛ́	_	_	POS;V	_	_	_	_
+8	a	à	_	_	SG;PRO;3	_	_	_	_
+9	fè	fɛ̀	_	_	ADP	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:56
+# text = unhun kènè dò filè ti, nyamògòsanba!
+1	unhun	ùnhun	_	_	N	_	_	_	_
+2	kènè	kɛ́nɛ	_	_	ADJ	_	_	_	_
+3	dò	dɔ́	_	_	DET	_	_	_	_
+4	filè	fílɛ	_	_	V	_	_	_	_
+5	ti	tí	_	_	ADV	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	nyamògòsanba	ɲamɔgɔsanba	_	_	N	_	_	_	_
+8	!	!	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:79
+# text = Dawuda ka kòròkè nana sunògò a ye Dawuda ka kòròkè nyèkili fila bò ka taga ni a ye.
+1	Dawuda	Dáwuda	_	_	PROPN	_	_	_	_
+2	ka	ká	_	_	ADP	_	_	_	_
+3	kòròkè	kɔ̀rɔ.kɛ	_	_	N	_	_	_	_
+4	nana	nana	_	_	POS;V;PFV	_	_	_	_
+5	sunògò	sùnɔgɔ	_	_	V	_	_	_	_
+6	a	à	_	_	SG;PRO;3	_	_	_	_
+7	ye	ye	_	_	POS;V;PFV	_	_	_	_
+8	Dawuda	Dáwuda	_	_	PROPN	_	_	_	_
+9	ka	ka	_	_	ADP	_	_	_	_
+10	kòròkè	kɔ̀rɔkɛ	_	_	N	_	_	_	_
+11	nyèkili	ɲɛ́kili	_	_	N	_	_	_	_
+12	fila	fìla	_	_	NUM	_	_	_	_
+13	bò	bɔ̀	_	_	V	_	_	_	_
+14	ka	kà	_	_	V	_	_	_	_
+15	taga	tága	_	_	V	_	_	_	_
+16	ni	ni	_	_	ADP	_	_	_	_
+17	a	à	_	_	SG;PRO;3	_	_	_	_
+18	ye	yé	_	_	ADP	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:51
+# text = Mama Ngala ko ko n ka a sanba sosobarafa.
+1	Mama	máma	_	_	N	_	_	_	_
+2	Ngala	ŋála	_	_	N	_	_	_	_
+3	ko	kó	_	_	V	_	_	_	_
+4	ko	kó	_	_	PART	_	_	_	_
+5	n	ń	_	_	SG;PRO;1	_	_	_	_
+6	ka	ka	_	_	POS;SBJV;V	_	_	_	_
+7	a	à	_	_	SG;PRO;3	_	_	_	_
+8	sanba	sàma	_	_	V	_	_	_	_
+9	sosobarafa	sòsobarafa	_	_	N	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:31
+# text = ko ne bèna don e ka aprantiya la ka na e ka fènw kè.
+1	ko	kó	_	_	PART	_	_	_	_
+2	ne	né	_	_	SG;PRO;1	_	_	_	_
+3	bèna	bɛ́na	_	_	POS;FUT;V	_	_	_	_
+4	don	dòn	_	_	V	_	_	_	_
+5	e	é	_	_	SG;PRO;2	_	_	_	_
+6	ka	ká	_	_	ADP	_	_	_	_
+7	aprantiya	aprantiya	_	_	N	_	_	_	_
+8	la	lá	_	_	ADP	_	_	_	_
+9	ka	kà	_	_	V	_	_	_	_
+10	na	nà	_	_	V	_	_	_	_
+11	e	é	_	_	SG;PRO;2	_	_	_	_
+12	ka	ká	_	_	ADP	_	_	_	_
+13	fènw	fɛnw	_	_	N;PL	_	_	_	_
+14	kè	kɛ́	_	_	V	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_07denmuso_fila.dis.html:24
+# text = a ko a tè kala yòrò si ni Maromaroyòrò tè.
+1	a	à	_	_	SG;PRO;3	_	_	_	_
+2	ko	kó	_	_	V	_	_	_	_
+3	a	à	_	_	SG;PRO;3	_	_	_	_
+4	tè	tɛ́	_	_	IPFV;V;NEG	_	_	_	_
+5	kala	kála	_	_	V	_	_	_	_
+6	yòrò	yɔ́rɔ	_	_	N	_	_	_	_
+7	si	sí	_	_	DET	_	_	_	_
+8	ni	ní	_	_	CONJ	_	_	_	_
+9	Maromaroyòrò	Maromaroyɔrɔ	_	_	N	_	_	_	_
+10	tè	tɛ́	_	_	NEG;V	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:44
+# text = a ko: i bè yèlèn dè!
+1	a	à	_	_	SG;PRO;3	_	_	_	_
+2	ko	kó	_	_	V	_	_	_	_
+3	:	:	_	_	_	_	_	_	_
+4	i	í	_	_	PRO	_	_	_	_
+5	bè	bɛ́	_	_	POS;IPFV;V	_	_	_	_
+6	yèlèn	yɛ̀lɛn	_	_	V	_	_	_	_
+7	dè	dɛ́	_	_	PART	_	_	_	_
+8	!	!	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:13
+# text = ko den min sera ka a kun li, ko e tè se ka a tògò la?
+1	ko	kó	_	_	PART	_	_	_	_
+2	den	dén	_	_	N	_	_	_	_
+3	min	mín	_	_	DET	_	_	_	_
+4	sera	sera	_	_	POS;V;PFV	_	_	_	_
+5	ka	kà	_	_	V	_	_	_	_
+6	a	à	_	_	SG;PRO;3	_	_	_	_
+7	kun	kùn	_	_	N	_	_	_	_
+8	li	dí	_	_	V	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	ko	kó	_	_	PART	_	_	_	_
+11	e	é	_	_	SG;PRO;3	_	_	_	_
+12	tè	tɛ́	_	_	IPFV;V;NEG	_	_	_	_
+13	se	sé	_	_	V	_	_	_	_
+14	ka	kà	_	_	V	_	_	_	_
+15	a	à	_	_	SG;PRO;3	_	_	_	_
+16	tògò	tɔ́gɔ	_	_	N	_	_	_	_
+17	la	dá	_	_	V	_	_	_	_
+18	?	?	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_10amadu_tara.dis.html:100
+# text = Amadu Tara tora kòlòn kònò yen fo a bè nyini ka na sa sagagènna dòw tagara bò a kan kòlòn kònò.
+1	Amadu	Ámadù	_	_	PROPN	_	_	_	_
+2	Tara	Tara	_	_	PROPN	_	_	_	_
+3	tora	tora	_	_	POS;V;PFV	_	_	_	_
+4	kòlòn	kɔ̀lɔn	_	_	N	_	_	_	_
+5	kònò	kɔ́nɔ	_	_	ADP	_	_	_	_
+6	yen	yèn	_	_	ADV	_	_	_	_
+7	fo	fó	_	_	CONJ	_	_	_	_
+8	a	à	_	_	SG;PRO;3	_	_	_	_
+9	bè	bɛ́	_	_	POS;IPFV;V	_	_	_	_
+10	nyini	ɲíni	_	_	V	_	_	_	_
+11	ka	kà	_	_	V	_	_	_	_
+12	na	nà	_	_	V	_	_	_	_
+13	sa	sà	_	_	V	_	_	_	_
+14	sagagènna	sàgagɛnna	_	_	N	_	_	_	_
+15	dòw	dɔw	_	_	PL;DET	_	_	_	_
+16	tagara	tagara	_	_	POS;V;PFV	_	_	_	_
+17	bò	bɔ́	_	_	V	_	_	_	_
+18	a	à	_	_	SG;PRO;3	_	_	_	_
+19	kan	kàn	_	_	ADP	_	_	_	_
+20	kòlòn	kɔ̀lɔn	_	_	N	_	_	_	_
+21	kònò	kɔ́nɔ	_	_	ADP	_	_	_	_
+22	.	.	_	_	_	_	_	_	_
+
+# sent_id = ko.12
+# text = Dugutigi y' a fɔ sonsannin ye ko a ka ɲɛnajɛ ka di, ko su kelen tɛ u fara ɲɔgɔn na.
+1	Dugutigi	_	_	_	N	_	_	_	_
+2	y'	_	_	_	V	_	_	_	_
+3	a	_	_	_	PRO	_	_	_	_
+4	fɔ	_	_	_	V	_	_	_	_
+5	sonsannin	_	_	_	N	_	_	_	_
+6	ye	_	_	_	ADP	_	_	_	_
+7	ko	_	_	_	PART	_	_	_	_
+8	a	_	_	_	PRO	_	_	_	_
+9	ka	_	_	_	ADP	_	_	_	_
+10	ɲɛnajɛ	_	_	_	N	_	_	_	_
+11	ka	_	_	_	V	_	_	_	_
+12	di	_	_	_	V	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	ko	_	_	_	PART	_	_	_	_
+15	su	_	_	_	N	_	_	_	_
+16	kelen	_	_	_	NUM	_	_	_	_
+17	tɛ	_	_	_	V	_	_	_	_
+18	u	_	_	_	PRO	_	_	_	_
+19	fara	_	_	_	V	_	_	_	_
+20	ɲɔgɔn	_	_	_	PRO	_	_	_	_
+21	na	_	_	_	ADP	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_04baramuso_jugu.dis.html:15
+# text = ka bò sankaso sanfèla ka na i gèrè ba nin na.
+1	ka	kà	_	_	V	_	_	_	_
+2	bò	bɔ́	_	_	V	_	_	_	_
+3	sankaso	sánkanso	_	_	N	_	_	_	_
+4	sanfèla	sánfɛla	_	_	N	_	_	_	_
+5	ka	kà	_	_	V	_	_	_	_
+6	na	nà	_	_	V	_	_	_	_
+7	i	í	_	_	PRO	_	_	_	_
+8	gèrè	gɛ̀rɛ	_	_	V	_	_	_	_
+9	ba	bá	_	_	N	_	_	_	_
+10	nin	nìn	_	_	DEF;DET	_	_	_	_
+11	na	ná	_	_	ADP	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_07denmuso_fila.dis.html:69
+# text = o kò kotò, a bè iko ko sirifè.
+1	o	ò	_	_	PRO	_	_	_	_
+2	kò	kɔ́	_	_	N	_	_	_	_
+3	kotò	kotɔ	_	_	V.PTCP;V;PROG	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	a	à	_	_	SG;PRO;3	_	_	_	_
+6	bè	bɛ́	_	_	POS;V	_	_	_	_
+7	iko	íko	_	_	ADP	_	_	_	_
+8	ko	kó	_	_	CONJ	_	_	_	_
+9	sirifè	sìrife	_	_	N	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:2
+# text = nsiirinin, nsiirinin
+1	nsiirinin	nsíirinnin	_	_	N	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	nsiirinin	nsíirinnin	_	_	N	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:4
+# text = a mana den min wolo, a bè o dun.
+1	a	à	_	_	SG;PRO;3	_	_	_	_
+2	mana	mána	_	_	POS;V;COND	_	_	_	_
+3	den	dén	_	_	N	_	_	_	_
+4	min	mín	_	_	DET	_	_	_	_
+5	wolo	wólo	_	_	V	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	a	à	_	_	SG;PRO;3	_	_	_	_
+8	bè	bɛ́	_	_	POS;IPFV;V	_	_	_	_
+9	o	ò	_	_	PRO	_	_	_	_
+10	dun	dún	_	_	V	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:70
+# text = na, ne ye mògòfagamurunin da gè!
+1	na	nà	_	_	N	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	ne	né	_	_	SG;PRO;1	_	_	_	_
+4	ye	yé	_	_	POS;V;PFV	_	_	_	_
+5	mògòfagamurunin	mɔgɔfagamurunin	_	_	N	_	_	_	_
+6	da	dá	_	_	N	_	_	_	_
+7	gè	gɛ́n	_	_	V	_	_	_	_
+8	!	!	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_10amadu_tara.dis.html:73
+# text = ko barisa ko ale tèna segin ka a kòròkèw to, ko a fana bè taga dennin nyini, o fana ka fara u kan.
+1	ko	kó	_	_	PART	_	_	_	_
+2	barisa	bárisa	_	_	CONJ	_	_	_	_
+3	ko	kó	_	_	PART	_	_	_	_
+4	ale	àle	_	_	SG;PRO;3	_	_	_	_
+5	tèna	tɛ́nà	_	_	FUT;V;NEG	_	_	_	_
+6	segin	sègin	_	_	V	_	_	_	_
+7	ka	kà	_	_	V	_	_	_	_
+8	a	à	_	_	SG;PRO;3	_	_	_	_
+9	kòròkèw	kɔrɔkɛw	_	_	N;PL	_	_	_	_
+10	to	tó	_	_	V	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	ko	kó	_	_	PART	_	_	_	_
+13	a	à	_	_	SG;PRO;3	_	_	_	_
+14	fana	fána	_	_	PART	_	_	_	_
+15	bè	bɛ́	_	_	POS;IPFV;V	_	_	_	_
+16	taga	tága	_	_	V	_	_	_	_
+17	dennin	dén.nin	_	_	N	_	_	_	_
+18	nyini	ɲíni	_	_	V	_	_	_	_
+19	,	,	_	_	_	_	_	_	_
+20	o	ò	_	_	PRO	_	_	_	_
+21	fana	fána	_	_	PART	_	_	_	_
+22	ka	kà	_	_	V	_	_	_	_
+23	fara	fàra	_	_	V	_	_	_	_
+24	u	ù	_	_	PRO;PL;3	_	_	_	_
+25	kan	kàn	_	_	ADP	_	_	_	_
+26	.	.	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:105
+# text = a tagara i yèrè ke kòba ye.
+1	a	à	_	_	SG;PRO;3	_	_	_	_
+2	tagara	tagara	_	_	POS;V;PFV	_	_	_	_
+3	i	í	_	_	PRO	_	_	_	_
+4	yèrè	yɛ̀rɛ	_	_	DET	_	_	_	_
+5	ke	kɛ́	_	_	V	_	_	_	_
+6	kòba	kɔba	_	_	N	_	_	_	_
+7	ye	yé	_	_	ADP	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = konta-nsiiriw_nsanaw_06cekoroba_n_a_denw.dis.html:2
+# text = Cɛkɔrɔba n'a denw
+1	Cɛkɔrɔba	cɛ̀kɔrɔba	_	_	N	_	_	_	_
+2	n'	n'	_	_	CONJ	_	_	_	_
+3	a	à	_	_	SG;PRO;3	_	_	_	_
+4	denw	denw	_	_	N;PL	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_10amadu_tara.dis.html:63
+# text = Amadu Tara yèlènna a ka so kan.
+1	Amadu	Ámadù	_	_	PROPN	_	_	_	_
+2	Tara	Tara	_	_	PROPN	_	_	_	_
+3	yèlènna	yɛlɛnna	_	_	POS;V;PFV	_	_	_	_
+4	a	à	_	_	SG;PRO;3	_	_	_	_
+5	ka	ká	_	_	ADP	_	_	_	_
+6	so	sò	_	_	N	_	_	_	_
+7	kan	kàn	_	_	ADP	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:67
+# text = a ye Namaramatu ta tigè, Namaramatu ye a ta tigè.
+1	a	à	_	_	SG;PRO;3	_	_	_	_
+2	ye	yé	_	_	POS;V;PFV	_	_	_	_
+3	Namaramatu	Namaramatu	_	_	PROPN	_	_	_	_
+4	ta	tá	_	_	N	_	_	_	_
+5	tigè	tìgɛ	_	_	V	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	Namaramatu	Namaramatu	_	_	PROPN	_	_	_	_
+8	ye	yé	_	_	POS;V;PFV	_	_	_	_
+9	a	à	_	_	SG;PRO;3	_	_	_	_
+10	ta	tá	_	_	N	_	_	_	_
+11	tigè	tìgɛ	_	_	V	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:78
+# text = wulunin bolila ka na i da Jasun kèrèfè: e wewu wewe wewu, e wewu wewe wewu, e wewu wewe wewu, e wewu wewe wewu!
+1	wulunin	wulunin	_	_	N	_	_	_	_
+2	bolila	bolila	_	_	POS;V;PFV	_	_	_	_
+3	ka	kà	_	_	V	_	_	_	_
+4	na	nà	_	_	V	_	_	_	_
+5	i	í	_	_	PRO	_	_	_	_
+6	da	dá	_	_	V	_	_	_	_
+7	Jasun	Jasun	_	_	PROPN	_	_	_	_
+8	kèrèfè	kɛ̀rɛ.fɛ̀	_	_	ADP	_	_	_	_
+9	:	:	_	_	_	_	_	_	_
+10	e	ée	_	_	INTJ	_	_	_	_
+11	wewu	wewu	_	_	INTJ	_	_	_	_
+12	wewe	wewe	_	_	INTJ	_	_	_	_
+13	wewu	wewu	_	_	INTJ	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	e	ée	_	_	INTJ	_	_	_	_
+16	wewu	wewu	_	_	INTJ	_	_	_	_
+17	wewe	wewe	_	_	INTJ	_	_	_	_
+18	wewu	wewu	_	_	INTJ	_	_	_	_
+19	,	,	_	_	_	_	_	_	_
+20	e	ée	_	_	INTJ	_	_	_	_
+21	wewu	wewu	_	_	INTJ	_	_	_	_
+22	wewe	wewe	_	_	INTJ	_	_	_	_
+23	wewu	wewu	_	_	INTJ	_	_	_	_
+24	,	,	_	_	_	_	_	_	_
+25	e	ée	_	_	INTJ	_	_	_	_
+26	wewu	wewu	_	_	INTJ	_	_	_	_
+27	wewe	wewe	_	_	INTJ	_	_	_	_
+28	wewu	wewu	_	_	INTJ	_	_	_	_
+29	!	!	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_07denmuso_fila.dis.html:167
+# text = a sera so kòfè yòrò min, a ye kelen ci.
+1	a	à	_	_	SG;PRO;3	_	_	_	_
+2	sera	sera	_	_	POS;V;PFV	_	_	_	_
+3	so	só	_	_	N	_	_	_	_
+4	kòfè	kɔ́.fɛ̀	_	_	ADP	_	_	_	_
+5	yòrò	yɔ́rɔ	_	_	N	_	_	_	_
+6	min	mín	_	_	DET	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	a	à	_	_	SG;PRO;3	_	_	_	_
+9	ye	yé	_	_	POS;V;PFV	_	_	_	_
+10	kelen	kélen	_	_	NUM	_	_	_	_
+11	ci	cì	_	_	V	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:28
+# text = ko ale yèrè don !
+1	ko	kó	_	_	PART	_	_	_	_
+2	ale	àle	_	_	SG;PRO;3	_	_	_	_
+3	yèrè	yɛ̀rɛ	_	_	DET	_	_	_	_
+4	don	dòn	_	_	V	_	_	_	_
+5	!	!	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:101
+# text = a ye cènin fila bila a kò, o ye a gèn.
+1	a	à	_	_	SG;PRO;3	_	_	_	_
+2	ye	yé	_	_	POS;V;PFV	_	_	_	_
+3	cènin	cɛ̀.nin	_	_	N	_	_	_	_
+4	fila	fìla	_	_	NUM	_	_	_	_
+5	bila	bìla	_	_	V	_	_	_	_
+6	a	à	_	_	SG;PRO;3	_	_	_	_
+7	kò	kɔ́	_	_	ADP	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	o	ò	_	_	PRO	_	_	_	_
+10	ye	yé	_	_	POS;V;PFV	_	_	_	_
+11	a	à	_	_	SG;PRO;3	_	_	_	_
+12	gèn	gɛ́n	_	_	V	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:9
+# text = ko fònhòn !
+1	ko	kó	_	_	PART	_	_	_	_
+2	fònhòn	fɔ̀nhɔn	_	_	INTJ	_	_	_	_
+3	!	!	_	_	_	_	_	_	_
+
