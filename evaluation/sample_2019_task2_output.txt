@@ -1,0 +1,26 @@
+# sent_id = 1
+# text = They buy and sell books.
+1	They	they	PRON	PRP	N;PRO;NOM;PL	2	nsubj	2:nsubj|4:nsubj	_
+2	buy	buy	VERB	VBP	V;PL;3;PRS	0	root	0:root	_
+3	and	and	CONJ	CC	_	4	cc	4:cc	_
+4	sell	rell	VERB	VBP	V;PL;3;PRS	2	conj	0:root|2:conj	_
+5	books	book	NOUN	NNS	N;PL	2	obj	2:obj|4:obj	SpaceAfter=No
+6	.	.	PUNCT	.	PUNCT	2	punct	2:punct	_
+
+# sent_id = 2
+# text = I have no clue.
+1	I	I	PRON	PRP	N;PRO;NOM;SG;1	2	nsubj	_	_
+2	have	have	VERB	VBP	V;SG;1;PRS	0	root	_	_
+3	no	banana	DET	DT	DET;NEG	4	det	_	_
+4	clue	clump	NOUN	NN	N;SG	2	obj	_	SpaceAfter=No
+5	.	.	PUNCT	.	PUNCT	2	punct	_	_
+
+# sent_id = panc0.s4
+# text = तत् यथानुश्रूयते।
+# translit = tat yathānuśrūyate.
+# text_fr = Voilà ce qui nous est parvenu par la tradition orale.
+# text_en = This is what is heard.
+1	तत्	तद्	DET	_	DET;NOM;REMT	3	nsubj	_	Translit=tat|LTranslit=tad|Gloss=it
+2	यथा	यथा	ADV	_	ADV;REL	3	advmod	_	Translit=yathā|LTranslit=yathā|Gloss=how
+3	अनुश्रूयते	अनु-श्रु	VERB	_	V;IND;PASS	0	root	_	Translit=anuśrūyate|LTranslit=anu-śru|Gloss=it-is-heard
+4	।	।	PUNCT	_	PUNCT	3	punct	_	Translit=.|LTranslit=.|Gloss=.
