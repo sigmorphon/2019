@@ -92,9 +92,9 @@ def parse_args():
     """Parse command line arguments."""
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('-r', '--reference',
-                        type=Path)
+                        type=Path, required=True)
     parser.add_argument('-o', '--output',
-                        type=Path)
+                        type=Path, required=True)
     # Set the verbosity level for the logger. The `-v` option will set it to
     # the debug level, while the `-q` will set it to the warning level.
     # Otherwise use the info level.
