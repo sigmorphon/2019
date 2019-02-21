@@ -23,7 +23,7 @@ log = logging.getLogger(Path(__file__).stem)
 
 COLUMNS = "ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC".split()
 ConlluRow = namedtuple("ConlluRow", COLUMNS)
-SEPARATOR = "|"
+SEPARATOR = ";"
 
 
 def distance(str1, str2):
