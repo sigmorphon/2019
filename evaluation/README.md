@@ -14,6 +14,6 @@ python3 evaluate_2019_task2.py \
 >     --reference sample_2019_task2_gold.txt
 >     --output sample_2019_task2_output.txt
 # INFO:evaluate_2019_task2:Lemma acc, Lemma Levenshtein, morph acc, morph F1
-# 80.00	0.53	93.33	96.55
+# 80.00	0.53	93.33	98.70
 
 ```
