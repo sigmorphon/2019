@@ -1,0 +1,5009 @@
+# sent_id = 55_02N11:47
+# text = Imma l-interi bl-operazzjoni tal-moltiplikazzjoni ma jiffurmawx grupp.
+1	Imma	_	_	_	CONJ	_	_	_	_
+2	l-	_	_	_	DET	_	_	_	_
+3	interi	_	_	_	N	_	_	_	_
+4	bl-	_	_	_	ADP	_	_	_	_
+5	operazzjoni	_	_	_	N	_	_	_	_
+6	tal-	_	_	_	ADP	_	_	_	_
+7	moltiplikazzjoni	_	_	_	N	_	_	_	_
+8	ma	_	_	_	PART	_	_	_	_
+9	jiffurmawx	_	_	_	V	_	_	_	_
+10	grupp	_	_	_	N	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = 47_01F09:53
+# text = Damjan u Sa-marin resqu qribu, wieħed kull naħa u straħ magħhom, imbagħad baqgħu jistennew hemm.
+1	Damjan	_	_	_	PROPN	_	_	_	_
+2	u	_	_	_	CONJ	_	_	_	_
+3	Sa-marin	_	_	_	PROPN	_	_	_	_
+4	resqu	_	_	_	V	_	_	_	_
+5	qribu	_	_	_	PRO	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	wieħed	_	_	_	NUM	_	_	_	_
+8	kull	_	_	_	DET	_	_	_	_
+9	naħa	_	_	_	N	_	_	_	_
+10	u	_	_	_	CONJ	_	_	_	_
+11	straħ	_	_	_	V	_	_	_	_
+12	magħhom	_	_	_	PRO	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	imbagħad	_	_	_	ADV	_	_	_	_
+15	baqgħu	_	_	_	V	_	_	_	_
+16	jistennew	_	_	_	V	_	_	_	_
+17	hemm	_	_	_	ADV	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = 22_02J03:38
+# text = Għidtilhom, " let's go boys " u bdejna bil-ħidma tagħna. "
+1	Għidtilhom	_	_	_	V	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	"	_	_	_	_	_	_	_	_
+4	let's	_	_	_	_	_	_	_	_
+5	go	_	_	_	_	_	_	_	_
+6	boys	_	_	_	_	_	_	_	_
+7	"	_	_	_	_	_	_	_	_
+8	u	_	_	_	CONJ	_	_	_	_
+9	bdejna	_	_	_	V	_	_	_	_
+10	bil-	_	_	_	ADP	_	_	_	_
+11	ħidma	_	_	_	N	_	_	_	_
+12	tagħna	_	_	_	PRO	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+14	"	_	_	_	_	_	_	_	_
+
+# sent_id = 42_04F09:10
+# text = Wasal Settembru u s-sinjura reġgħet tfaċċat.
+1	Wasal	_	_	_	V	_	_	_	_
+2	Settembru	_	_	_	PROPN	_	_	_	_
+3	u	_	_	_	CONJ	_	_	_	_
+4	s-	_	_	_	DET	_	_	_	_
+5	sinjura	_	_	_	N	_	_	_	_
+6	reġgħet	_	_	_	V	_	_	_	_
+7	tfaċċat	_	_	_	V	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = 17_04J02:28
+# text = Mela le, u nissuġġerilu jkompli ma' setturi oħrajn iżda nawgura li dan mhux eżerċizzju ta' ingann moħbi fl-eżerċizzju ta' djalogu!
+1	Mela	_	_	_	INTJ	_	_	_	_
+2	le	_	_	_	INTJ	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	u	_	_	_	CONJ	_	_	_	_
+5	nissuġġerilu	_	_	_	V	_	_	_	_
+6	jkompli	_	_	_	V	_	_	_	_
+7	ma'	_	_	_	ADP	_	_	_	_
+8	setturi	_	_	_	N	_	_	_	_
+9	oħrajn	_	_	_	ADJ	_	_	_	_
+10	iżda	_	_	_	CONJ	_	_	_	_
+11	nawgura	_	_	_	V	_	_	_	_
+12	li	_	_	_	CONJ	_	_	_	_
+13	dan	_	_	_	PRO	_	_	_	_
+14	mhux	_	_	_	PART	_	_	_	_
+15	eżerċizzju	_	_	_	N	_	_	_	_
+16	ta'	_	_	_	ADP	_	_	_	_
+17	ingann	_	_	_	N	_	_	_	_
+18	moħbi	_	_	_	V	_	_	_	_
+19	fl-	_	_	_	ADP	_	_	_	_
+20	eżerċizzju	_	_	_	N	_	_	_	_
+21	ta'	_	_	_	ADP	_	_	_	_
+22	djalogu	_	_	_	N	_	_	_	_
+23	!	_	_	_	_	_	_	_	_
+
+# sent_id = 14_01J02:6
+# text = Sant wera li l-politikant serju li jqis ir-rwol tiegħu bħala missjoni biex itejjeb il-ħajja tal-poplu tiegħu, ipoġġi l-prinċipji qabel il-karriera politika tiegħu personali.
+1	Sant	_	_	_	PROPN	_	_	_	_
+2	wera	_	_	_	V	_	_	_	_
+3	li	_	_	_	CONJ	_	_	_	_
+4	l-	_	_	_	DET	_	_	_	_
+5	politikant	_	_	_	N	_	_	_	_
+6	serju	_	_	_	ADJ	_	_	_	_
+7	li	_	_	_	CONJ	_	_	_	_
+8	jqis	_	_	_	V	_	_	_	_
+9	ir-	_	_	_	DET	_	_	_	_
+10	rwol	_	_	_	N	_	_	_	_
+11	tiegħu	_	_	_	PRO	_	_	_	_
+12	bħala	_	_	_	ADP	_	_	_	_
+13	missjoni	_	_	_	N	_	_	_	_
+14	biex	_	_	_	CONJ	_	_	_	_
+15	itejjeb	_	_	_	V	_	_	_	_
+16	il-	_	_	_	DET	_	_	_	_
+17	ħajja	_	_	_	N	_	_	_	_
+18	tal-	_	_	_	ADP	_	_	_	_
+19	poplu	_	_	_	N	_	_	_	_
+20	tiegħu	_	_	_	PRO	_	_	_	_
+21	,	_	_	_	_	_	_	_	_
+22	ipoġġi	_	_	_	V	_	_	_	_
+23	l-	_	_	_	DET	_	_	_	_
+24	prinċipji	_	_	_	N	_	_	_	_
+25	qabel	_	_	_	ADP	_	_	_	_
+26	il-	_	_	_	DET	_	_	_	_
+27	karriera	_	_	_	N	_	_	_	_
+28	politika	_	_	_	ADJ	_	_	_	_
+29	tiegħu	_	_	_	PRO	_	_	_	_
+30	personali	_	_	_	ADJ	_	_	_	_
+31	.	_	_	_	_	_	_	_	_
+
+# sent_id = 47_01F09:19
+# text = Ħallieh ħa jinkorla.
+1	Ħallieh	_	_	_	V	_	_	_	_
+2	ħa	_	_	_	V	_	_	_	_
+3	jinkorla	_	_	_	V	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = 30_01P05:166
+# text = Se nissospendi l-laqgħa għal ftit minuti sakemm isiru l-kopji tal-kuntratt u tal-emenda lill-Membri tal-Kumitat.
+1	Se	_	_	_	V	_	_	_	_
+2	nissospendi	_	_	_	V	_	_	_	_
+3	l-	_	_	_	DET	_	_	_	_
+4	laqgħa	_	_	_	N	_	_	_	_
+5	għal	_	_	_	ADP	_	_	_	_
+6	ftit	_	_	_	DET	_	_	_	_
+7	minuti	_	_	_	N	_	_	_	_
+8	sakemm	_	_	_	CONJ	_	_	_	_
+9	isiru	_	_	_	V	_	_	_	_
+10	l-	_	_	_	DET	_	_	_	_
+11	kopji	_	_	_	N	_	_	_	_
+12	tal-	_	_	_	ADP	_	_	_	_
+13	kuntratt	_	_	_	N	_	_	_	_
+14	u	_	_	_	CONJ	_	_	_	_
+15	tal-	_	_	_	ADP	_	_	_	_
+16	emenda	_	_	_	N	_	_	_	_
+17	lill-	_	_	_	ADP	_	_	_	_
+18	Membri	_	_	_	N	_	_	_	_
+19	tal-	_	_	_	ADP	_	_	_	_
+20	Kumitat	_	_	_	N	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = 17_04J02:61
+# text = Dawn iddeċiedew li jbiegħu l-insurance policies tajjeb!
+1	Dawn	_	_	_	PRO	_	_	_	_
+2	iddeċiedew	_	_	_	V	_	_	_	_
+3	li	_	_	_	CONJ	_	_	_	_
+4	jbiegħu	_	_	_	V	_	_	_	_
+5	l-	_	_	_	DET	_	_	_	_
+6	insurance	_	_	_	ADJ	_	_	_	_
+7	policies	_	_	_	N	_	_	_	_
+8	tajjeb	_	_	_	ADV	_	_	_	_
+9	!	_	_	_	_	_	_	_	_
+
+# sent_id = 38_02P06:60
+# text = MR SPEAKER: Il-Viċi Prim Ministru.
+1	MR	_	_	_	N	_	_	_	_
+2	SPEAKER	_	_	_	_	_	_	_	_
+3	:	_	_	_	_	_	_	_	_
+4	Il-	_	_	_	DET	_	_	_	_
+5	Viċi	_	_	_	ADJ	_	_	_	_
+6	Prim	_	_	_	ADJ	_	_	_	_
+7	Ministru	_	_	_	N	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = 53_04N10:32
+# text = Kienu jsemmuh il-qamar ukoll, għax dik il-ħabta kienu jkorru ħafna nisa, u jgħidu: ' Qamar ħażin! ' jew: ' Ħlas ħażin għax qamar ħażin! '
+1	Kienu	_	_	_	V	_	_	_	_
+2	jsemmuh	_	_	_	V	_	_	_	_
+3	il-	_	_	_	DET	_	_	_	_
+4	qamar	_	_	_	N	_	_	_	_
+5	ukoll	_	_	_	ADV	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	għax	_	_	_	CONJ	_	_	_	_
+8	dik	_	_	_	PRO	_	_	_	_
+9	il-	_	_	_	DET	_	_	_	_
+10	ħabta	_	_	_	N	_	_	_	_
+11	kienu	_	_	_	V	_	_	_	_
+12	jkorru	_	_	_	V	_	_	_	_
+13	ħafna	_	_	_	DET	_	_	_	_
+14	nisa	_	_	_	N	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	u	_	_	_	CONJ	_	_	_	_
+17	jgħidu	_	_	_	V	_	_	_	_
+18	:	_	_	_	_	_	_	_	_
+19	'	_	_	_	_	_	_	_	_
+20	Qamar	_	_	_	N	_	_	_	_
+21	ħażin	_	_	_	ADJ	_	_	_	_
+22	!	_	_	_	_	_	_	_	_
+23	'	_	_	_	_	_	_	_	_
+24	jew	_	_	_	CONJ	_	_	_	_
+25	:	_	_	_	_	_	_	_	_
+26	'	_	_	_	_	_	_	_	_
+27	Ħlas	_	_	_	N	_	_	_	_
+28	ħażin	_	_	_	ADJ	_	_	_	_
+29	għax	_	_	_	CONJ	_	_	_	_
+30	qamar	_	_	_	N	_	_	_	_
+31	ħażin	_	_	_	ADJ	_	_	_	_
+32	!	_	_	_	_	_	_	_	_
+33	'	_	_	_	_	_	_	_	_
+
+# sent_id = 01_01J01:15
+# text = Skont Joe Mizzi mir-rapport ta' inkjesta ma toħroġx il-verità.
+1	Skont	_	_	_	ADP	_	_	_	_
+2	Joe	_	_	_	PROPN	_	_	_	_
+3	Mizzi	_	_	_	PROPN	_	_	_	_
+4	mir-	_	_	_	ADP	_	_	_	_
+5	rapport	_	_	_	N	_	_	_	_
+6	ta'	_	_	_	ADP	_	_	_	_
+7	inkjesta	_	_	_	N	_	_	_	_
+8	ma	_	_	_	PART	_	_	_	_
+9	toħroġx	_	_	_	V	_	_	_	_
+10	il-	_	_	_	DET	_	_	_	_
+11	verità	_	_	_	N	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = 46_02F08:47
+# text = Kien ċert li kienet ġennata mill-kbar.
+1	Kien	_	_	_	V	_	_	_	_
+2	ċert	_	_	_	ADJ	_	_	_	_
+3	li	_	_	_	CONJ	_	_	_	_
+4	kienet	_	_	_	V	_	_	_	_
+5	ġennata	_	_	_	N	_	_	_	_
+6	mill-	_	_	_	ADP	_	_	_	_
+7	kbar	_	_	_	ADJ	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = 49_03F09:51
+# text = X'aktarx konna nkunu grupp ġmielu: Frans Mercieca, Joe Huber (li kont iltqajt miegħu l-kulleġġ meta jien kont freshman u hu senior, u li kien ġie jgħallem it-Taljan fiż-Żejtun), Charles Vella Haber u Vince Piccinino, ilkoll bin-nisa tagħna u t-tfal.
+1	X'	_	_	_	PRO	_	_	_	_
+2	aktarx	_	_	_	ADV	_	_	_	_
+3	konna	_	_	_	V	_	_	_	_
+4	nkunu	_	_	_	V	_	_	_	_
+5	grupp	_	_	_	N	_	_	_	_
+6	ġmielu	_	_	_	N	_	_	_	_
+7	:	_	_	_	_	_	_	_	_
+8	Frans	_	_	_	PROPN	_	_	_	_
+9	Mercieca	_	_	_	PROPN	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	Joe	_	_	_	PROPN	_	_	_	_
+12	Huber	_	_	_	PROPN	_	_	_	_
+13	(	_	_	_	_	_	_	_	_
+14	li	_	_	_	CONJ	_	_	_	_
+15	kont	_	_	_	V	_	_	_	_
+16	iltqajt	_	_	_	V	_	_	_	_
+17	miegħu	_	_	_	PRO	_	_	_	_
+18	l-	_	_	_	DET	_	_	_	_
+19	kulleġġ	_	_	_	N	_	_	_	_
+20	meta	_	_	_	CONJ	_	_	_	_
+21	jien	_	_	_	PRO	_	_	_	_
+22	kont	_	_	_	V	_	_	_	_
+23	freshman	_	_	_	N	_	_	_	_
+24	u	_	_	_	CONJ	_	_	_	_
+25	hu	_	_	_	PRO	_	_	_	_
+26	senior	_	_	_	N	_	_	_	_
+27	,	_	_	_	_	_	_	_	_
+28	u	_	_	_	CONJ	_	_	_	_
+29	li	_	_	_	CONJ	_	_	_	_
+30	kien	_	_	_	V	_	_	_	_
+31	ġie	_	_	_	V	_	_	_	_
+32	jgħallem	_	_	_	V	_	_	_	_
+33	it-	_	_	_	DET	_	_	_	_
+34	Taljan	_	_	_	N	_	_	_	_
+35	fiż-	_	_	_	ADP	_	_	_	_
+36	Żejtun	_	_	_	PROPN	_	_	_	_
+37	)	_	_	_	_	_	_	_	_
+38	,	_	_	_	_	_	_	_	_
+39	Charles	_	_	_	PROPN	_	_	_	_
+40	Vella	_	_	_	PROPN	_	_	_	_
+41	Haber	_	_	_	PROPN	_	_	_	_
+42	u	_	_	_	CONJ	_	_	_	_
+43	Vince	_	_	_	PROPN	_	_	_	_
+44	Piccinino	_	_	_	PROPN	_	_	_	_
+45	,	_	_	_	_	_	_	_	_
+46	ilkoll	_	_	_	PRO	_	_	_	_
+47	bin-	_	_	_	ADP	_	_	_	_
+48	nisa	_	_	_	N	_	_	_	_
+49	tagħna	_	_	_	PRO	_	_	_	_
+50	u	_	_	_	CONJ	_	_	_	_
+51	t-	_	_	_	DET	_	_	_	_
+52	tfal	_	_	_	N	_	_	_	_
+53	.	_	_	_	_	_	_	_	_
+
+# sent_id = 30_01P05:22
+# text = L-ewwel korrispondenza ġejja mingħand is-Segretarju Permanenti fil-Ministeru għall-Finanzi, fejn b'risposta għal dak li kien talab il-Kumitat fl-aħħar laqgħa, qed jgħid li he "will review this matter and see what action may be taken in this regard".
+1	L-	_	_	_	DET	_	_	_	_
+2	ewwel	_	_	_	NUM	_	_	_	_
+3	korrispondenza	_	_	_	N	_	_	_	_
+4	ġejja	_	_	_	V	_	_	_	_
+5	mingħand	_	_	_	ADP	_	_	_	_
+6	is-	_	_	_	DET	_	_	_	_
+7	Segretarju	_	_	_	N	_	_	_	_
+8	Permanenti	_	_	_	ADJ	_	_	_	_
+9	fil-	_	_	_	ADP	_	_	_	_
+10	Ministeru	_	_	_	N	_	_	_	_
+11	għall-	_	_	_	ADP	_	_	_	_
+12	Finanzi	_	_	_	N	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	fejn	_	_	_	PRO	_	_	_	_
+15	b'	_	_	_	ADP	_	_	_	_
+16	risposta	_	_	_	N	_	_	_	_
+17	għal	_	_	_	ADP	_	_	_	_
+18	dak	_	_	_	PRO	_	_	_	_
+19	li	_	_	_	CONJ	_	_	_	_
+20	kien	_	_	_	V	_	_	_	_
+21	talab	_	_	_	V	_	_	_	_
+22	il-	_	_	_	DET	_	_	_	_
+23	Kumitat	_	_	_	N	_	_	_	_
+24	fl-	_	_	_	ADP	_	_	_	_
+25	aħħar	_	_	_	ADJ	_	_	_	_
+26	laqgħa	_	_	_	N	_	_	_	_
+27	,	_	_	_	_	_	_	_	_
+28	qed	_	_	_	V	_	_	_	_
+29	jgħid	_	_	_	V	_	_	_	_
+30	li	_	_	_	CONJ	_	_	_	_
+31	he	_	_	_	_	_	_	_	_
+32	"	_	_	_	_	_	_	_	_
+33	will	_	_	_	_	_	_	_	_
+34	review	_	_	_	_	_	_	_	_
+35	this	_	_	_	_	_	_	_	_
+36	matter	_	_	_	_	_	_	_	_
+37	and	_	_	_	_	_	_	_	_
+38	see	_	_	_	_	_	_	_	_
+39	what	_	_	_	_	_	_	_	_
+40	action	_	_	_	_	_	_	_	_
+41	may	_	_	_	_	_	_	_	_
+42	be	_	_	_	_	_	_	_	_
+43	taken	_	_	_	_	_	_	_	_
+44	in	_	_	_	_	_	_	_	_
+45	this	_	_	_	_	_	_	_	_
+46	regard	_	_	_	_	_	_	_	_
+47	"	_	_	_	_	_	_	_	_
+48	.	_	_	_	_	_	_	_	_
+
+# sent_id = 22_02J03:74
+# text = " Kien hemm ukoll il-makakkerija tal-media tal-Partit Nazzjonalista u tal-media hekk imsejħa indipendenti.
+1	"	_	_	_	_	_	_	_	_
+2	Kien	_	_	_	V	_	_	_	_
+3	hemm	_	_	_	V	_	_	_	_
+4	ukoll	_	_	_	ADV	_	_	_	_
+5	il-	_	_	_	DET	_	_	_	_
+6	makakkerija	_	_	_	N	_	_	_	_
+7	tal-	_	_	_	ADP	_	_	_	_
+8	media	_	_	_	N	_	_	_	_
+9	tal-	_	_	_	ADP	_	_	_	_
+10	Partit	_	_	_	N	_	_	_	_
+11	Nazzjonalista	_	_	_	ADJ	_	_	_	_
+12	u	_	_	_	CONJ	_	_	_	_
+13	tal-	_	_	_	ADP	_	_	_	_
+14	media	_	_	_	N	_	_	_	_
+15	hekk	_	_	_	ADV	_	_	_	_
+16	imsejħa	_	_	_	V	_	_	_	_
+17	indipendenti	_	_	_	ADJ	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = 53_04N10:8
+# text = Fi żmienna, bl-avvanzi tax-xjenza u l-edukazzjoni, nistgħu ngħidu li nafu sewwa x'ikun qed jiġri fl-omm u t-tarbija li qed tiżviluppa, imma xorta għadhom jidħlu suspetti, misterji, devozzjonijiet, u superstizzjonijiet, għax il-moħħ tal-bniedem jibqa' jibża' minn dak li għad irid jiġri, mill-inċertezzi u mill-esperjenzi ġodda.
+1	Fi	_	_	_	ADP	_	_	_	_
+2	żmienna	_	_	_	N	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	bl-	_	_	_	ADP	_	_	_	_
+5	avvanzi	_	_	_	N	_	_	_	_
+6	tax-	_	_	_	ADP	_	_	_	_
+7	xjenza	_	_	_	N	_	_	_	_
+8	u	_	_	_	CONJ	_	_	_	_
+9	l-	_	_	_	DET	_	_	_	_
+10	edukazzjoni	_	_	_	N	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	nistgħu	_	_	_	V	_	_	_	_
+13	ngħidu	_	_	_	V	_	_	_	_
+14	li	_	_	_	CONJ	_	_	_	_
+15	nafu	_	_	_	V	_	_	_	_
+16	sewwa	_	_	_	ADV	_	_	_	_
+17	x'	_	_	_	PRO	_	_	_	_
+18	ikun	_	_	_	V	_	_	_	_
+19	qed	_	_	_	V	_	_	_	_
+20	jiġri	_	_	_	V	_	_	_	_
+21	fl-	_	_	_	ADP	_	_	_	_
+22	omm	_	_	_	N	_	_	_	_
+23	u	_	_	_	CONJ	_	_	_	_
+24	t-	_	_	_	DET	_	_	_	_
+25	tarbija	_	_	_	N	_	_	_	_
+26	li	_	_	_	CONJ	_	_	_	_
+27	qed	_	_	_	V	_	_	_	_
+28	tiżviluppa	_	_	_	V	_	_	_	_
+29	,	_	_	_	_	_	_	_	_
+30	imma	_	_	_	CONJ	_	_	_	_
+31	xorta	_	_	_	N	_	_	_	_
+32	għadhom	_	_	_	V	_	_	_	_
+33	jidħlu	_	_	_	V	_	_	_	_
+34	suspetti	_	_	_	N	_	_	_	_
+35	,	_	_	_	_	_	_	_	_
+36	misterji	_	_	_	N	_	_	_	_
+37	,	_	_	_	_	_	_	_	_
+38	devozzjonijiet	_	_	_	N	_	_	_	_
+39	,	_	_	_	_	_	_	_	_
+40	u	_	_	_	CONJ	_	_	_	_
+41	superstizzjonijiet	_	_	_	N	_	_	_	_
+42	,	_	_	_	_	_	_	_	_
+43	għax	_	_	_	CONJ	_	_	_	_
+44	il-	_	_	_	DET	_	_	_	_
+45	moħħ	_	_	_	N	_	_	_	_
+46	tal-	_	_	_	ADP	_	_	_	_
+47	bniedem	_	_	_	N	_	_	_	_
+48	jibqa'	_	_	_	V	_	_	_	_
+49	jibża'	_	_	_	V	_	_	_	_
+50	minn	_	_	_	ADP	_	_	_	_
+51	dak	_	_	_	PRO	_	_	_	_
+52	li	_	_	_	CONJ	_	_	_	_
+53	għad	_	_	_	V	_	_	_	_
+54	irid	_	_	_	V	_	_	_	_
+55	jiġri	_	_	_	V	_	_	_	_
+56	,	_	_	_	_	_	_	_	_
+57	mill-	_	_	_	ADP	_	_	_	_
+58	inċertezzi	_	_	_	N	_	_	_	_
+59	u	_	_	_	CONJ	_	_	_	_
+60	mill-	_	_	_	ADP	_	_	_	_
+61	esperjenzi	_	_	_	N	_	_	_	_
+62	ġodda	_	_	_	ADJ	_	_	_	_
+63	.	_	_	_	_	_	_	_	_
+
+# sent_id = 58_05N11:73
+# text = Maurizio Michelini
+1	Maurizio	_	_	_	PROPN	_	_	_	_
+2	Michelini	_	_	_	PROPN	_	_	_	_
+
+# sent_id = 53_04N10:5
+# text = L-istess jiġri fit-twelid tat-trabi, għax dan il-proċess bijoloġiku, vitali għall-familja u għall-komunità, huwa fih innifsu misterjuż, u ġrajja importanti fil-familja u sodisfazzjon għall-ġenituri.
+1	L-	_	_	_	DET	_	_	_	_
+2	istess	_	_	_	ADJ	_	_	_	_
+3	jiġri	_	_	_	V	_	_	_	_
+4	fit-	_	_	_	ADP	_	_	_	_
+5	twelid	_	_	_	N	_	_	_	_
+6	tat-	_	_	_	ADP	_	_	_	_
+7	trabi	_	_	_	N	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	għax	_	_	_	CONJ	_	_	_	_
+10	dan	_	_	_	PRO	_	_	_	_
+11	il-	_	_	_	DET	_	_	_	_
+12	proċess	_	_	_	N	_	_	_	_
+13	bijoloġiku	_	_	_	ADJ	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	vitali	_	_	_	ADJ	_	_	_	_
+16	għall-	_	_	_	ADP	_	_	_	_
+17	familja	_	_	_	N	_	_	_	_
+18	u	_	_	_	CONJ	_	_	_	_
+19	għall-	_	_	_	ADP	_	_	_	_
+20	komunità	_	_	_	N	_	_	_	_
+21	,	_	_	_	_	_	_	_	_
+22	huwa	_	_	_	PRO	_	_	_	_
+23	fih	_	_	_	PRO	_	_	_	_
+24	innifsu	_	_	_	PRO	_	_	_	_
+25	misterjuż	_	_	_	ADJ	_	_	_	_
+26	,	_	_	_	_	_	_	_	_
+27	u	_	_	_	CONJ	_	_	_	_
+28	ġrajja	_	_	_	N	_	_	_	_
+29	importanti	_	_	_	ADJ	_	_	_	_
+30	fil-	_	_	_	ADP	_	_	_	_
+31	familja	_	_	_	N	_	_	_	_
+32	u	_	_	_	CONJ	_	_	_	_
+33	sodisfazzjon	_	_	_	N	_	_	_	_
+34	għall-	_	_	_	ADP	_	_	_	_
+35	ġenituri	_	_	_	N	_	_	_	_
+36	.	_	_	_	_	_	_	_	_
+
+# sent_id = 23_03J03:3
+# text = F'Settembru 2011, kien hemm ħabib tiegħi li huwa kompetitur tal-Powerlifting u wkoll kollega tiegħi fuq ix-xogħol, li kien spiss jiġi ħdejja u l-kliem kien dejjem jaqa' fuq il-gym, taħriġ u dieti.
+1	F'	_	_	_	ADP	_	_	_	_
+2	Settembru	_	_	_	PROPN	_	_	_	_
+3	2011	_	_	_	NUM	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	kien	_	_	_	V	_	_	_	_
+6	hemm	_	_	_	V	_	_	_	_
+7	ħabib	_	_	_	N	_	_	_	_
+8	tiegħi	_	_	_	PRO	_	_	_	_
+9	li	_	_	_	CONJ	_	_	_	_
+10	huwa	_	_	_	PRO	_	_	_	_
+11	kompetitur	_	_	_	N	_	_	_	_
+12	tal-	_	_	_	ADP	_	_	_	_
+13	Powerlifting	_	_	_	N	_	_	_	_
+14	u	_	_	_	CONJ	_	_	_	_
+15	wkoll	_	_	_	ADV	_	_	_	_
+16	kollega	_	_	_	N	_	_	_	_
+17	tiegħi	_	_	_	PRO	_	_	_	_
+18	fuq	_	_	_	ADP	_	_	_	_
+19	ix-	_	_	_	DET	_	_	_	_
+20	xogħol	_	_	_	N	_	_	_	_
+21	,	_	_	_	_	_	_	_	_
+22	li	_	_	_	CONJ	_	_	_	_
+23	kien	_	_	_	V	_	_	_	_
+24	spiss	_	_	_	ADV	_	_	_	_
+25	jiġi	_	_	_	V	_	_	_	_
+26	ħdejja	_	_	_	PRO	_	_	_	_
+27	u	_	_	_	CONJ	_	_	_	_
+28	l-	_	_	_	DET	_	_	_	_
+29	kliem	_	_	_	N	_	_	_	_
+30	kien	_	_	_	V	_	_	_	_
+31	dejjem	_	_	_	ADV	_	_	_	_
+32	jaqa'	_	_	_	V	_	_	_	_
+33	fuq	_	_	_	ADP	_	_	_	_
+34	il-	_	_	_	DET	_	_	_	_
+35	gym	_	_	_	N	_	_	_	_
+36	,	_	_	_	_	_	_	_	_
+37	taħriġ	_	_	_	N	_	_	_	_
+38	u	_	_	_	CONJ	_	_	_	_
+39	dieti	_	_	_	N	_	_	_	_
+40	.	_	_	_	_	_	_	_	_
+
+# sent_id = 45_07F09:5
+# text = Pajjiż: il-Libja.
+1	Pajjiż	_	_	_	N	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	il-	_	_	_	DET	_	_	_	_
+4	Libja	_	_	_	PROPN	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = 47_01F09:34
+# text = " Ma nistgħux naħarbu iżjed.
+1	"	_	_	_	_	_	_	_	_
+2	Ma	_	_	_	PART	_	_	_	_
+3	nistgħux	_	_	_	V	_	_	_	_
+4	naħarbu	_	_	_	V	_	_	_	_
+5	iżjed	_	_	_	ADV	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = 44_06F09:22
+# text = Mort niġri ħa nara x'ġara barra.
+1	Mort	_	_	_	V	_	_	_	_
+2	niġri	_	_	_	V	_	_	_	_
+3	ħa	_	_	_	V	_	_	_	_
+4	nara	_	_	_	V	_	_	_	_
+5	x'	_	_	_	PRO	_	_	_	_
+6	ġara	_	_	_	V	_	_	_	_
+7	barra	_	_	_	ADV	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = 30_01P05:67
+# text = Issa hu fatt magħruf u fid-dominju pubbliku fl-2014 il-GWU kriet parti mill-bini tagħha fil-Belt Valletta, l-istess bini li hu milqut bil-kondizzjoni msemmija fil-kuntratt pubbliku ta' Diċembru 1997, lil ARMS Ltd.
+1	Issa	_	_	_	ADV	_	_	_	_
+2	hu	_	_	_	PRO	_	_	_	_
+3	fatt	_	_	_	N	_	_	_	_
+4	magħruf	_	_	_	V	_	_	_	_
+5	u	_	_	_	CONJ	_	_	_	_
+6	fid-	_	_	_	ADP	_	_	_	_
+7	dominju	_	_	_	N	_	_	_	_
+8	pubbliku	_	_	_	ADJ	_	_	_	_
+9	fl-	_	_	_	ADP	_	_	_	_
+10	2014	_	_	_	NUM	_	_	_	_
+11	il-	_	_	_	DET	_	_	_	_
+12	GWU	_	_	_	N	_	_	_	_
+13	kriet	_	_	_	V	_	_	_	_
+14	parti	_	_	_	N	_	_	_	_
+15	mill-	_	_	_	ADP	_	_	_	_
+16	bini	_	_	_	N	_	_	_	_
+17	tagħha	_	_	_	PRO	_	_	_	_
+18	fil-	_	_	_	ADP	_	_	_	_
+19	Belt	_	_	_	N	_	_	_	_
+20	Valletta	_	_	_	PROPN	_	_	_	_
+21	,	_	_	_	_	_	_	_	_
+22	l-	_	_	_	DET	_	_	_	_
+23	istess	_	_	_	ADJ	_	_	_	_
+24	bini	_	_	_	N	_	_	_	_
+25	li	_	_	_	CONJ	_	_	_	_
+26	hu	_	_	_	PRO	_	_	_	_
+27	milqut	_	_	_	V	_	_	_	_
+28	bil-	_	_	_	ADP	_	_	_	_
+29	kondizzjoni	_	_	_	N	_	_	_	_
+30	msemmija	_	_	_	V	_	_	_	_
+31	fil-	_	_	_	ADP	_	_	_	_
+32	kuntratt	_	_	_	N	_	_	_	_
+33	pubbliku	_	_	_	ADJ	_	_	_	_
+34	ta'	_	_	_	ADP	_	_	_	_
+35	Diċembru	_	_	_	PROPN	_	_	_	_
+36	1997	_	_	_	NUM	_	_	_	_
+37	,	_	_	_	_	_	_	_	_
+38	lil	_	_	_	ADP	_	_	_	_
+39	ARMS	_	_	_	PROPN	_	_	_	_
+40	Ltd	_	_	_	N	_	_	_	_
+41	.	_	_	_	_	_	_	_	_
+
+# sent_id = 39_01F08:9
+# text = Dawn it-tnejn malajr saru ħbieb.
+1	Dawn	_	_	_	PRO	_	_	_	_
+2	it-	_	_	_	DET	_	_	_	_
+3	tnejn	_	_	_	NUM	_	_	_	_
+4	malajr	_	_	_	ADV	_	_	_	_
+5	saru	_	_	_	V	_	_	_	_
+6	ħbieb	_	_	_	N	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = 22_02J03:55
+# text = Jimmaġina lil Gulia bi rwol akbar fil-Partit Laburista?
+1	Jimmaġina	_	_	_	V	_	_	_	_
+2	lil	_	_	_	ADP	_	_	_	_
+3	Gulia	_	_	_	PROPN	_	_	_	_
+4	bi	_	_	_	ADP	_	_	_	_
+5	rwol	_	_	_	N	_	_	_	_
+6	akbar	_	_	_	ADJ	_	_	_	_
+7	fil-	_	_	_	ADP	_	_	_	_
+8	Partit	_	_	_	N	_	_	_	_
+9	Laburista	_	_	_	ADJ	_	_	_	_
+10	?	_	_	_	_	_	_	_	_
+
+# sent_id = 18_05J02:11
+# text = Il-problema hi li ma ħax ħsieb li jżomm 'il bogħod minn nies li bis-setgħa mogħtija lilu mil-Liġi jista' jfawrilhom il-but jew ifaqqarhom.
+1	Il-	_	_	_	DET	_	_	_	_
+2	problema	_	_	_	N	_	_	_	_
+3	hi	_	_	_	PRO	_	_	_	_
+4	li	_	_	_	CONJ	_	_	_	_
+5	ma	_	_	_	PART	_	_	_	_
+6	ħax	_	_	_	V	_	_	_	_
+7	ħsieb	_	_	_	N	_	_	_	_
+8	li	_	_	_	CONJ	_	_	_	_
+9	jżomm	_	_	_	V	_	_	_	_
+10	'il	_	_	_	ADP	_	_	_	_
+11	bogħod	_	_	_	N	_	_	_	_
+12	minn	_	_	_	ADP	_	_	_	_
+13	nies	_	_	_	N	_	_	_	_
+14	li	_	_	_	CONJ	_	_	_	_
+15	bis-	_	_	_	ADP	_	_	_	_
+16	setgħa	_	_	_	N	_	_	_	_
+17	mogħtija	_	_	_	V	_	_	_	_
+18	lilu	_	_	_	PRO	_	_	_	_
+19	mil-	_	_	_	ADP	_	_	_	_
+20	Liġi	_	_	_	N	_	_	_	_
+21	jista'	_	_	_	V	_	_	_	_
+22	jfawrilhom	_	_	_	V	_	_	_	_
+23	il-	_	_	_	DET	_	_	_	_
+24	but	_	_	_	N	_	_	_	_
+25	jew	_	_	_	CONJ	_	_	_	_
+26	ifaqqarhom	_	_	_	V	_	_	_	_
+27	.	_	_	_	_	_	_	_	_
+
+# sent_id = 30_01P05:138
+# text = THE CHAIRMAN:
+1	THE	_	_	_	_	_	_	_	_
+2	CHAIRMAN	_	_	_	_	_	_	_	_
+3	:	_	_	_	_	_	_	_	_
+
+# sent_id = 47_01F09:51
+# text = Jasal iż-żmien meta nkunu aktar lesti, u nieħdu lura dak li hu tagħna.
+1	Jasal	_	_	_	V	_	_	_	_
+2	iż-	_	_	_	DET	_	_	_	_
+3	żmien	_	_	_	N	_	_	_	_
+4	meta	_	_	_	CONJ	_	_	_	_
+5	nkunu	_	_	_	V	_	_	_	_
+6	aktar	_	_	_	ADV	_	_	_	_
+7	lesti	_	_	_	ADJ	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	u	_	_	_	CONJ	_	_	_	_
+10	nieħdu	_	_	_	V	_	_	_	_
+11	lura	_	_	_	ADV	_	_	_	_
+12	dak	_	_	_	PRO	_	_	_	_
+13	li	_	_	_	CONJ	_	_	_	_
+14	hu	_	_	_	PRO	_	_	_	_
+15	tagħna	_	_	_	PRO	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = 01_01J01:3
+# text = Dan ħareġ meta l-Kumitat Parlamentari dwar il-Kontijiet Pubbliċi beda jiddiskuti r-Rapport tal-Korporazzjoni Enemalta ta' Diċembru 2011 dwar l-inkjesta fuq l-allegat rimi illegali ta' kimika imsejħa mercaptan.
+1	Dan	_	_	_	PRO	_	_	_	_
+2	ħareġ	_	_	_	V	_	_	_	_
+3	meta	_	_	_	CONJ	_	_	_	_
+4	l-	_	_	_	DET	_	_	_	_
+5	Kumitat	_	_	_	N	_	_	_	_
+6	Parlamentari	_	_	_	ADJ	_	_	_	_
+7	dwar	_	_	_	ADP	_	_	_	_
+8	il-	_	_	_	DET	_	_	_	_
+9	Kontijiet	_	_	_	N	_	_	_	_
+10	Pubbliċi	_	_	_	ADJ	_	_	_	_
+11	beda	_	_	_	V	_	_	_	_
+12	jiddiskuti	_	_	_	V	_	_	_	_
+13	r-	_	_	_	DET	_	_	_	_
+14	Rapport	_	_	_	N	_	_	_	_
+15	tal-	_	_	_	ADP	_	_	_	_
+16	Korporazzjoni	_	_	_	N	_	_	_	_
+17	Enemalta	_	_	_	PROPN	_	_	_	_
+18	ta'	_	_	_	ADP	_	_	_	_
+19	Diċembru	_	_	_	PROPN	_	_	_	_
+20	2011	_	_	_	NUM	_	_	_	_
+21	dwar	_	_	_	ADP	_	_	_	_
+22	l-	_	_	_	DET	_	_	_	_
+23	inkjesta	_	_	_	N	_	_	_	_
+24	fuq	_	_	_	ADP	_	_	_	_
+25	l-	_	_	_	DET	_	_	_	_
+26	allegat	_	_	_	V	_	_	_	_
+27	rimi	_	_	_	N	_	_	_	_
+28	illegali	_	_	_	ADJ	_	_	_	_
+29	ta'	_	_	_	ADP	_	_	_	_
+30	kimika	_	_	_	N	_	_	_	_
+31	imsejħa	_	_	_	V	_	_	_	_
+32	mercaptan	_	_	_	PROPN	_	_	_	_
+33	.	_	_	_	_	_	_	_	_
+
+# sent_id = 46_02F08:8
+# text = Sab baħar salvaġġ u kiefer fuq din il-gżira li kien iġiblu miegħu, kull tant żmien, l-istejjer imdemma ta' sħabu u niesu.
+1	Sab	_	_	_	V	_	_	_	_
+2	baħar	_	_	_	N	_	_	_	_
+3	salvaġġ	_	_	_	ADJ	_	_	_	_
+4	u	_	_	_	CONJ	_	_	_	_
+5	kiefer	_	_	_	V	_	_	_	_
+6	fuq	_	_	_	ADP	_	_	_	_
+7	din	_	_	_	PRO	_	_	_	_
+8	il-	_	_	_	DET	_	_	_	_
+9	gżira	_	_	_	N	_	_	_	_
+10	li	_	_	_	CONJ	_	_	_	_
+11	kien	_	_	_	V	_	_	_	_
+12	iġiblu	_	_	_	V	_	_	_	_
+13	miegħu	_	_	_	PRO	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	kull	_	_	_	DET	_	_	_	_
+16	tant	_	_	_	ADJ	_	_	_	_
+17	żmien	_	_	_	N	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	l-	_	_	_	DET	_	_	_	_
+20	istejjer	_	_	_	N	_	_	_	_
+21	imdemma	_	_	_	V	_	_	_	_
+22	ta'	_	_	_	ADP	_	_	_	_
+23	sħabu	_	_	_	N	_	_	_	_
+24	u	_	_	_	CONJ	_	_	_	_
+25	niesu	_	_	_	N	_	_	_	_
+26	.	_	_	_	_	_	_	_	_
+
+# sent_id = 30_01P05:210
+# text = THE CHAIRMAN:
+1	THE	_	_	_	_	_	_	_	_
+2	CHAIRMAN	_	_	_	_	_	_	_	_
+3	:	_	_	_	_	_	_	_	_
+
+# sent_id = 52_03N10:12
+# text = Kieku, ngħidu aħna, il-Kavallieri u warajhom l-Ingliżi baqgħu lejn ir-Rabat kien x'aktarx ikollna d-djalett Rabti bħala standard.
+1	Kieku	_	_	_	CONJ	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	ngħidu	_	_	_	V	_	_	_	_
+4	aħna	_	_	_	PRO	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	il-	_	_	_	DET	_	_	_	_
+7	Kavallieri	_	_	_	N	_	_	_	_
+8	u	_	_	_	CONJ	_	_	_	_
+9	warajhom	_	_	_	PRO	_	_	_	_
+10	l-	_	_	_	DET	_	_	_	_
+11	Ingliżi	_	_	_	N	_	_	_	_
+12	baqgħu	_	_	_	V	_	_	_	_
+13	lejn	_	_	_	ADP	_	_	_	_
+14	ir-	_	_	_	DET	_	_	_	_
+15	Rabat	_	_	_	PROPN	_	_	_	_
+16	kien	_	_	_	V	_	_	_	_
+17	x'	_	_	_	PRO	_	_	_	_
+18	aktarx	_	_	_	ADV	_	_	_	_
+19	ikollna	_	_	_	V	_	_	_	_
+20	d-	_	_	_	DET	_	_	_	_
+21	djalett	_	_	_	N	_	_	_	_
+22	Rabti	_	_	_	ADJ	_	_	_	_
+23	bħala	_	_	_	ADP	_	_	_	_
+24	standard	_	_	_	N	_	_	_	_
+25	.	_	_	_	_	_	_	_	_
+
+# sent_id = 55_02N11:13
+# text = Il-kunċett tal-"element tal-identità" huwa l-astrazzjoni tan-numri żero u wieħed.
+1	Il-	_	_	_	DET	_	_	_	_
+2	kunċett	_	_	_	N	_	_	_	_
+3	tal-	_	_	_	ADP	_	_	_	_
+4	"	_	_	_	_	_	_	_	_
+5	element	_	_	_	N	_	_	_	_
+6	tal-	_	_	_	ADP	_	_	_	_
+7	identità	_	_	_	N	_	_	_	_
+8	"	_	_	_	_	_	_	_	_
+9	huwa	_	_	_	PRO	_	_	_	_
+10	l-	_	_	_	DET	_	_	_	_
+11	astrazzjoni	_	_	_	N	_	_	_	_
+12	tan-	_	_	_	ADP	_	_	_	_
+13	numri	_	_	_	N	_	_	_	_
+14	żero	_	_	_	N	_	_	_	_
+15	u	_	_	_	CONJ	_	_	_	_
+16	wieħed	_	_	_	NUM	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = 23_03J03:12
+# text = Apparti minn hekk jien nipprova insib ħin ukoll biex inkompli insir naf dwar dan l-isport li nippratika, billi naqra artikli, kotba u nara diversi vidjows.
+1	Apparti	_	_	_	ADV	_	_	_	_
+2	minn	_	_	_	ADP	_	_	_	_
+3	hekk	_	_	_	ADV	_	_	_	_
+4	jien	_	_	_	PRO	_	_	_	_
+5	nipprova	_	_	_	V	_	_	_	_
+6	insib	_	_	_	V	_	_	_	_
+7	ħin	_	_	_	N	_	_	_	_
+8	ukoll	_	_	_	ADV	_	_	_	_
+9	biex	_	_	_	CONJ	_	_	_	_
+10	inkompli	_	_	_	V	_	_	_	_
+11	insir	_	_	_	V	_	_	_	_
+12	naf	_	_	_	V	_	_	_	_
+13	dwar	_	_	_	ADP	_	_	_	_
+14	dan	_	_	_	PRO	_	_	_	_
+15	l-	_	_	_	DET	_	_	_	_
+16	isport	_	_	_	N	_	_	_	_
+17	li	_	_	_	CONJ	_	_	_	_
+18	nippratika	_	_	_	V	_	_	_	_
+19	,	_	_	_	_	_	_	_	_
+20	billi	_	_	_	CONJ	_	_	_	_
+21	naqra	_	_	_	V	_	_	_	_
+22	artikli	_	_	_	N	_	_	_	_
+23	,	_	_	_	_	_	_	_	_
+24	kotba	_	_	_	N	_	_	_	_
+25	u	_	_	_	CONJ	_	_	_	_
+26	nara	_	_	_	V	_	_	_	_
+27	diversi	_	_	_	ADJ	_	_	_	_
+28	vidjows	_	_	_	N	_	_	_	_
+29	.	_	_	_	_	_	_	_	_
+
+# sent_id = 23b_04J03:32
+# text = Il-kanzunetta ta' Fabrizio Faniello ntgħażlet mill-pubbliku Malti u mhux minna l-kumitat, " sostna.
+1	Il-	_	_	_	DET	_	_	_	_
+2	kanzunetta	_	_	_	N	_	_	_	_
+3	ta'	_	_	_	ADP	_	_	_	_
+4	Fabrizio	_	_	_	PROPN	_	_	_	_
+5	Faniello	_	_	_	PROPN	_	_	_	_
+6	ntgħażlet	_	_	_	V	_	_	_	_
+7	mill-	_	_	_	ADP	_	_	_	_
+8	pubbliku	_	_	_	N	_	_	_	_
+9	Malti	_	_	_	ADJ	_	_	_	_
+10	u	_	_	_	CONJ	_	_	_	_
+11	mhux	_	_	_	PART	_	_	_	_
+12	minna	_	_	_	PRO	_	_	_	_
+13	l-	_	_	_	DET	_	_	_	_
+14	kumitat	_	_	_	N	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	"	_	_	_	_	_	_	_	_
+17	sostna	_	_	_	V	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = 49_03F09:61
+# text = Ftit wara li żżewwiġt kont bdejt nitgħallem l-Esperanto.
+1	Ftit	_	_	_	DET	_	_	_	_
+2	wara	_	_	_	ADP	_	_	_	_
+3	li	_	_	_	CONJ	_	_	_	_
+4	żżewwiġt	_	_	_	V	_	_	_	_
+5	kont	_	_	_	V	_	_	_	_
+6	bdejt	_	_	_	V	_	_	_	_
+7	nitgħallem	_	_	_	V	_	_	_	_
+8	l-	_	_	_	DET	_	_	_	_
+9	Esperanto	_	_	_	PROPN	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = 53_04N10:49
+# text = Forsi fl-imgħoddi l-iġjene mhux dejjem kienet dik li nafu aħna, għalhekk kienu jsibu fiex jaqbdu, għax bosta drabi, ukoll, ma kinux iħalluhom imorru l-knisja.
+1	Forsi	_	_	_	ADV	_	_	_	_
+2	fl-	_	_	_	ADP	_	_	_	_
+3	imgħoddi	_	_	_	N	_	_	_	_
+4	l-	_	_	_	DET	_	_	_	_
+5	iġjene	_	_	_	N	_	_	_	_
+6	mhux	_	_	_	PART	_	_	_	_
+7	dejjem	_	_	_	ADV	_	_	_	_
+8	kienet	_	_	_	V	_	_	_	_
+9	dik	_	_	_	PRO	_	_	_	_
+10	li	_	_	_	CONJ	_	_	_	_
+11	nafu	_	_	_	V	_	_	_	_
+12	aħna	_	_	_	PRO	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	għalhekk	_	_	_	CONJ	_	_	_	_
+15	kienu	_	_	_	V	_	_	_	_
+16	jsibu	_	_	_	V	_	_	_	_
+17	fiex	_	_	_	PRO	_	_	_	_
+18	jaqbdu	_	_	_	V	_	_	_	_
+19	,	_	_	_	_	_	_	_	_
+20	għax	_	_	_	CONJ	_	_	_	_
+21	bosta	_	_	_	DET	_	_	_	_
+22	drabi	_	_	_	N	_	_	_	_
+23	,	_	_	_	_	_	_	_	_
+24	ukoll	_	_	_	ADV	_	_	_	_
+25	,	_	_	_	_	_	_	_	_
+26	ma	_	_	_	PART	_	_	_	_
+27	kinux	_	_	_	V	_	_	_	_
+28	iħalluhom	_	_	_	V	_	_	_	_
+29	imorru	_	_	_	V	_	_	_	_
+30	l-	_	_	_	DET	_	_	_	_
+31	knisja	_	_	_	N	_	_	_	_
+32	.	_	_	_	_	_	_	_	_
+
+# sent_id = 56_03N11:84
+# text = Jekk dan jiġri naraw il-weraq bħal miġbud u jwaħħal minn taħt.
+1	Jekk	_	_	_	CONJ	_	_	_	_
+2	dan	_	_	_	PRO	_	_	_	_
+3	jiġri	_	_	_	V	_	_	_	_
+4	naraw	_	_	_	V	_	_	_	_
+5	il-	_	_	_	DET	_	_	_	_
+6	weraq	_	_	_	N	_	_	_	_
+7	bħal	_	_	_	ADP	_	_	_	_
+8	miġbud	_	_	_	V	_	_	_	_
+9	u	_	_	_	CONJ	_	_	_	_
+10	jwaħħal	_	_	_	V	_	_	_	_
+11	minn	_	_	_	ADP	_	_	_	_
+12	taħt	_	_	_	ADV	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = 30_01P05:152
+# text = Għalhekk tlabna ruling mingħand Mr Speaker u Mr Speaker kien qal li ċ-Chairman għandu jkollu kopja ta' dan il-kuntratt b'dan li l-partijiet kummerċjalment sensittivi jkunu mgħottija, u fin-nuqqas ta' qbil ikun hu, jiġifieri Mr Speaker, li jiddeċiedi x'inhu kummerċjalment sensittiv jew le.
+1	Għalhekk	_	_	_	ADV	_	_	_	_
+2	tlabna	_	_	_	V	_	_	_	_
+3	ruling	_	_	_	N	_	_	_	_
+4	mingħand	_	_	_	ADP	_	_	_	_
+5	Mr	_	_	_	_	_	_	_	_
+6	Speaker	_	_	_	_	_	_	_	_
+7	u	_	_	_	CONJ	_	_	_	_
+8	Mr	_	_	_	_	_	_	_	_
+9	Speaker	_	_	_	_	_	_	_	_
+10	kien	_	_	_	V	_	_	_	_
+11	qal	_	_	_	V	_	_	_	_
+12	li	_	_	_	CONJ	_	_	_	_
+13	ċ-	_	_	_	DET	_	_	_	_
+14	Chairman	_	_	_	N	_	_	_	_
+15	għandu	_	_	_	V	_	_	_	_
+16	jkollu	_	_	_	V	_	_	_	_
+17	kopja	_	_	_	N	_	_	_	_
+18	ta'	_	_	_	ADP	_	_	_	_
+19	dan	_	_	_	PRO	_	_	_	_
+20	il-	_	_	_	DET	_	_	_	_
+21	kuntratt	_	_	_	N	_	_	_	_
+22	b'	_	_	_	ADP	_	_	_	_
+23	dan	_	_	_	PRO	_	_	_	_
+24	li	_	_	_	CONJ	_	_	_	_
+25	l-	_	_	_	DET	_	_	_	_
+26	partijiet	_	_	_	N	_	_	_	_
+27	kummerċjalment	_	_	_	ADV	_	_	_	_
+28	sensittivi	_	_	_	ADJ	_	_	_	_
+29	jkunu	_	_	_	V	_	_	_	_
+30	mgħottija	_	_	_	V	_	_	_	_
+31	,	_	_	_	_	_	_	_	_
+32	u	_	_	_	CONJ	_	_	_	_
+33	fin-	_	_	_	ADP	_	_	_	_
+34	nuqqas	_	_	_	N	_	_	_	_
+35	ta'	_	_	_	ADP	_	_	_	_
+36	qbil	_	_	_	N	_	_	_	_
+37	ikun	_	_	_	V	_	_	_	_
+38	hu	_	_	_	PRO	_	_	_	_
+39	,	_	_	_	_	_	_	_	_
+40	jiġifieri	_	_	_	V	_	_	_	_
+41	Mr	_	_	_	_	_	_	_	_
+42	Speaker	_	_	_	_	_	_	_	_
+43	,	_	_	_	_	_	_	_	_
+44	li	_	_	_	CONJ	_	_	_	_
+45	jiddeċiedi	_	_	_	V	_	_	_	_
+46	x'	_	_	_	PRO	_	_	_	_
+47	inhu	_	_	_	PRO	_	_	_	_
+48	kummerċjalment	_	_	_	ADV	_	_	_	_
+49	sensittiv	_	_	_	ADJ	_	_	_	_
+50	jew	_	_	_	CONJ	_	_	_	_
+51	le	_	_	_	INTJ	_	_	_	_
+52	.	_	_	_	_	_	_	_	_
+
+# sent_id = 50_01N10:14
+# text = Żahra, minflok, iħobb juża n-narrattiva intransittiva billi jabbanduna l-linearità u jirrakkonta n-novelli tiegħu b'ħafna alternanzi, qtugħ, u digressjonijiet.
+1	Żahra	_	_	_	PROPN	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	minflok	_	_	_	ADV	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	iħobb	_	_	_	V	_	_	_	_
+6	juża	_	_	_	V	_	_	_	_
+7	n-	_	_	_	DET	_	_	_	_
+8	narrattiva	_	_	_	N	_	_	_	_
+9	intransittiva	_	_	_	ADJ	_	_	_	_
+10	billi	_	_	_	CONJ	_	_	_	_
+11	jabbanduna	_	_	_	V	_	_	_	_
+12	l-	_	_	_	DET	_	_	_	_
+13	linearità	_	_	_	N	_	_	_	_
+14	u	_	_	_	CONJ	_	_	_	_
+15	jirrakkonta	_	_	_	V	_	_	_	_
+16	n-	_	_	_	DET	_	_	_	_
+17	novelli	_	_	_	N	_	_	_	_
+18	tiegħu	_	_	_	PRO	_	_	_	_
+19	b'	_	_	_	ADP	_	_	_	_
+20	ħafna	_	_	_	DET	_	_	_	_
+21	alternanzi	_	_	_	N	_	_	_	_
+22	,	_	_	_	_	_	_	_	_
+23	qtugħ	_	_	_	N	_	_	_	_
+24	,	_	_	_	_	_	_	_	_
+25	u	_	_	_	CONJ	_	_	_	_
+26	digressjonijiet	_	_	_	N	_	_	_	_
+27	.	_	_	_	_	_	_	_	_
+
+# sent_id = 30_01P05:2
+# text = KAMRA TAD-DEPUTATI
+1	KAMRA	_	_	_	N	_	_	_	_
+2	TAD-	_	_	_	ADP	_	_	_	_
+3	DEPUTATI	_	_	_	N	_	_	_	_
+
+# sent_id = 30_01P05:25
+# text = Aħna konna rriferejna l-materja lill-Ministeru għall-Finanzi u l-Ministeru għall-Finanzi qed jgħidilna li ħa nota u se jagħmel l-analiżi tiegħu.
+1	Aħna	_	_	_	PRO	_	_	_	_
+2	konna	_	_	_	V	_	_	_	_
+3	rriferejna	_	_	_	V	_	_	_	_
+4	l-	_	_	_	DET	_	_	_	_
+5	materja	_	_	_	N	_	_	_	_
+6	lill-	_	_	_	ADP	_	_	_	_
+7	Ministeru	_	_	_	N	_	_	_	_
+8	għall-	_	_	_	ADP	_	_	_	_
+9	Finanzi	_	_	_	N	_	_	_	_
+10	u	_	_	_	CONJ	_	_	_	_
+11	l-	_	_	_	DET	_	_	_	_
+12	Ministeru	_	_	_	N	_	_	_	_
+13	għall-	_	_	_	ADP	_	_	_	_
+14	Finanzi	_	_	_	N	_	_	_	_
+15	qed	_	_	_	V	_	_	_	_
+16	jgħidilna	_	_	_	V	_	_	_	_
+17	li	_	_	_	CONJ	_	_	_	_
+18	ħa	_	_	_	V	_	_	_	_
+19	nota	_	_	_	N	_	_	_	_
+20	u	_	_	_	CONJ	_	_	_	_
+21	se	_	_	_	V	_	_	_	_
+22	jagħmel	_	_	_	V	_	_	_	_
+23	l-	_	_	_	DET	_	_	_	_
+24	analiżi	_	_	_	N	_	_	_	_
+25	tiegħu	_	_	_	PRO	_	_	_	_
+26	.	_	_	_	_	_	_	_	_
+
+# sent_id = 43_05F08:20
+# text = Ma kinitx proprja libsa tal-"balet", kienet libsa li kienet ħarġet minnha.
+1	Ma	_	_	_	PART	_	_	_	_
+2	kinitx	_	_	_	V	_	_	_	_
+3	proprja	_	_	_	ADJ	_	_	_	_
+4	libsa	_	_	_	N	_	_	_	_
+5	tal-	_	_	_	ADP	_	_	_	_
+6	"	_	_	_	_	_	_	_	_
+7	balet	_	_	_	N	_	_	_	_
+8	"	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	kienet	_	_	_	V	_	_	_	_
+11	libsa	_	_	_	N	_	_	_	_
+12	li	_	_	_	CONJ	_	_	_	_
+13	kienet	_	_	_	V	_	_	_	_
+14	ħarġet	_	_	_	V	_	_	_	_
+15	minnha	_	_	_	PRO	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = 58_05N11:83
+# text = La ċ-ċarġijiet gravitazzjonali ta' sinjal oppost huma repulsivi jiġri li l-kamp gravitazzjonali jiżdied u hekk il-materja skura tkun biss illużjoni.
+1	La	_	_	_	CONJ	_	_	_	_
+2	ċ-	_	_	_	DET	_	_	_	_
+3	ċarġijiet	_	_	_	N	_	_	_	_
+4	gravitazzjonali	_	_	_	ADJ	_	_	_	_
+5	ta'	_	_	_	ADP	_	_	_	_
+6	sinjal	_	_	_	N	_	_	_	_
+7	oppost	_	_	_	ADJ	_	_	_	_
+8	huma	_	_	_	PRO	_	_	_	_
+9	repulsivi	_	_	_	ADJ	_	_	_	_
+10	jiġri	_	_	_	V	_	_	_	_
+11	li	_	_	_	CONJ	_	_	_	_
+12	l-	_	_	_	DET	_	_	_	_
+13	kamp	_	_	_	N	_	_	_	_
+14	gravitazzjonali	_	_	_	ADJ	_	_	_	_
+15	jiżdied	_	_	_	V	_	_	_	_
+16	u	_	_	_	CONJ	_	_	_	_
+17	hekk	_	_	_	ADV	_	_	_	_
+18	il-	_	_	_	DET	_	_	_	_
+19	materja	_	_	_	N	_	_	_	_
+20	skura	_	_	_	ADJ	_	_	_	_
+21	tkun	_	_	_	V	_	_	_	_
+22	biss	_	_	_	ADV	_	_	_	_
+23	illużjoni	_	_	_	N	_	_	_	_
+24	.	_	_	_	_	_	_	_	_
+
+# sent_id = 30_01P05:145
+# text = Dawk huma affarijiet li jista' jidħol fihom il-Kumitat; m'aħniex se nitkellmu fuq l-aspett innifsu; ċioè il-prinċipju ta' jekk kellux isir IIP jew le.
+1	Dawk	_	_	_	PRO	_	_	_	_
+2	huma	_	_	_	PRO	_	_	_	_
+3	affarijiet	_	_	_	N	_	_	_	_
+4	li	_	_	_	CONJ	_	_	_	_
+5	jista'	_	_	_	V	_	_	_	_
+6	jidħol	_	_	_	V	_	_	_	_
+7	fihom	_	_	_	PRO	_	_	_	_
+8	il-	_	_	_	DET	_	_	_	_
+9	Kumitat	_	_	_	N	_	_	_	_
+10	;	_	_	_	_	_	_	_	_
+11	m'	_	_	_	PART	_	_	_	_
+12	aħniex	_	_	_	PART	_	_	_	_
+13	se	_	_	_	V	_	_	_	_
+14	nitkellmu	_	_	_	V	_	_	_	_
+15	fuq	_	_	_	ADP	_	_	_	_
+16	l-	_	_	_	DET	_	_	_	_
+17	aspett	_	_	_	N	_	_	_	_
+18	innifsu	_	_	_	PRO	_	_	_	_
+19	;	_	_	_	_	_	_	_	_
+20	ċioè	_	_	_	ADV	_	_	_	_
+21	il-	_	_	_	DET	_	_	_	_
+22	prinċipju	_	_	_	N	_	_	_	_
+23	ta'	_	_	_	ADP	_	_	_	_
+24	jekk	_	_	_	CONJ	_	_	_	_
+25	kellux	_	_	_	V	_	_	_	_
+26	isir	_	_	_	V	_	_	_	_
+27	IIP	_	_	_	N	_	_	_	_
+28	jew	_	_	_	CONJ	_	_	_	_
+29	le	_	_	_	INTJ	_	_	_	_
+30	.	_	_	_	_	_	_	_	_
+
+# sent_id = 46_02F08:66
+# text = U kien hemm bieb ieħor li dehrlu li kienet il-kamra tal-imbarazz.
+1	U	_	_	_	CONJ	_	_	_	_
+2	kien	_	_	_	V	_	_	_	_
+3	hemm	_	_	_	V	_	_	_	_
+4	bieb	_	_	_	N	_	_	_	_
+5	ieħor	_	_	_	ADJ	_	_	_	_
+6	li	_	_	_	CONJ	_	_	_	_
+7	dehrlu	_	_	_	V	_	_	_	_
+8	li	_	_	_	CONJ	_	_	_	_
+9	kienet	_	_	_	V	_	_	_	_
+10	il-	_	_	_	DET	_	_	_	_
+11	kamra	_	_	_	N	_	_	_	_
+12	tal-	_	_	_	ADP	_	_	_	_
+13	imbarazz	_	_	_	N	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = 16_03J02:3
+# text = Bħala żagħżugħ gay u attivist għad-drittijiet ugwali għal persuni leżbjani, gay, bisesswali u transgender, qed inkun akkużat li jien "saħta għall-umanità" mill-pinna tal-kontributur li pprefera jżomm ismu mistur.
+1	Bħala	_	_	_	ADP	_	_	_	_
+2	żagħżugħ	_	_	_	N	_	_	_	_
+3	gay	_	_	_	ADJ	_	_	_	_
+4	u	_	_	_	CONJ	_	_	_	_
+5	attivist	_	_	_	N	_	_	_	_
+6	għad-	_	_	_	ADP	_	_	_	_
+7	drittijiet	_	_	_	N	_	_	_	_
+8	ugwali	_	_	_	ADJ	_	_	_	_
+9	għal	_	_	_	ADP	_	_	_	_
+10	persuni	_	_	_	N	_	_	_	_
+11	leżbjani	_	_	_	ADJ	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	gay	_	_	_	ADJ	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	bisesswali	_	_	_	ADJ	_	_	_	_
+16	u	_	_	_	CONJ	_	_	_	_
+17	transgender	_	_	_	ADJ	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	qed	_	_	_	V	_	_	_	_
+20	inkun	_	_	_	V	_	_	_	_
+21	akkużat	_	_	_	V	_	_	_	_
+22	li	_	_	_	CONJ	_	_	_	_
+23	jien	_	_	_	PRO	_	_	_	_
+24	"	_	_	_	_	_	_	_	_
+25	saħta	_	_	_	N	_	_	_	_
+26	għall-	_	_	_	ADP	_	_	_	_
+27	umanità	_	_	_	N	_	_	_	_
+28	"	_	_	_	_	_	_	_	_
+29	mill-	_	_	_	ADP	_	_	_	_
+30	pinna	_	_	_	N	_	_	_	_
+31	tal-	_	_	_	ADP	_	_	_	_
+32	kontributur	_	_	_	N	_	_	_	_
+33	li	_	_	_	CONJ	_	_	_	_
+34	pprefera	_	_	_	V	_	_	_	_
+35	jżomm	_	_	_	V	_	_	_	_
+36	ismu	_	_	_	N	_	_	_	_
+37	mistur	_	_	_	V	_	_	_	_
+38	.	_	_	_	_	_	_	_	_
+
+# sent_id = 49b_04F09:25
+# text = Int inżel warajja.
+1	Int	_	_	_	PRO	_	_	_	_
+2	inżel	_	_	_	V	_	_	_	_
+3	warajja	_	_	_	PRO	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = 17_04J02:25
+# text = Jekk hawn min qed ibati kontinwament b'deċiżjonijiet ta' dan il-Gvern huma aħna s-self employed.
+1	Jekk	_	_	_	CONJ	_	_	_	_
+2	hawn	_	_	_	V	_	_	_	_
+3	min	_	_	_	PRO	_	_	_	_
+4	qed	_	_	_	V	_	_	_	_
+5	ibati	_	_	_	V	_	_	_	_
+6	kontinwament	_	_	_	ADV	_	_	_	_
+7	b'	_	_	_	ADP	_	_	_	_
+8	deċiżjonijiet	_	_	_	N	_	_	_	_
+9	ta'	_	_	_	ADP	_	_	_	_
+10	dan	_	_	_	PRO	_	_	_	_
+11	il-	_	_	_	DET	_	_	_	_
+12	Gvern	_	_	_	N	_	_	_	_
+13	huma	_	_	_	PRO	_	_	_	_
+14	aħna	_	_	_	PRO	_	_	_	_
+15	s-	_	_	_	DET	_	_	_	_
+16	self	_	_	_	ADJ	_	_	_	_
+17	employed	_	_	_	N	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = 17_04J02:42
+# text = Bħalissa kollox wieqaf.
+1	Bħalissa	_	_	_	ADV	_	_	_	_
+2	kollox	_	_	_	PRO	_	_	_	_
+3	wieqaf	_	_	_	V	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = 02_02J01:34
+# text = Huwa tkellem ma' ħutu u xtralu tliet rigali tal-fidda li jiswew bejn € 4,000 jew € 6,000 li tħallsu minn Power Plan.
+1	Huwa	_	_	_	PRO	_	_	_	_
+2	tkellem	_	_	_	V	_	_	_	_
+3	ma'	_	_	_	ADP	_	_	_	_
+4	ħutu	_	_	_	N	_	_	_	_
+5	u	_	_	_	CONJ	_	_	_	_
+6	xtralu	_	_	_	V	_	_	_	_
+7	tliet	_	_	_	NUM	_	_	_	_
+8	rigali	_	_	_	N	_	_	_	_
+9	tal-	_	_	_	ADP	_	_	_	_
+10	fidda	_	_	_	N	_	_	_	_
+11	li	_	_	_	CONJ	_	_	_	_
+12	jiswew	_	_	_	V	_	_	_	_
+13	bejn	_	_	_	ADP	_	_	_	_
+14	€	_	_	_	_	_	_	_	_
+15	4,000	_	_	_	NUM	_	_	_	_
+16	jew	_	_	_	CONJ	_	_	_	_
+17	€	_	_	_	_	_	_	_	_
+18	6,000	_	_	_	NUM	_	_	_	_
+19	li	_	_	_	CONJ	_	_	_	_
+20	tħallsu	_	_	_	V	_	_	_	_
+21	minn	_	_	_	ADP	_	_	_	_
+22	Power	_	_	_	ADJ	_	_	_	_
+23	Plan	_	_	_	N	_	_	_	_
+24	.	_	_	_	_	_	_	_	_
+
+# sent_id = 50_01N10:44
+# text = It-tvenvin tar-riħ, ir-raxx tax-xita, it-tkarwit tar-ragħad, u t-tfaqqigħ tas-silġ u s-sajjetti joħolqu xenarju infernali li jġiegħlek temmen li din mhijiex maltempata kwalunkwe.
+1	It-	_	_	_	DET	_	_	_	_
+2	tvenvin	_	_	_	N	_	_	_	_
+3	tar-	_	_	_	ADP	_	_	_	_
+4	riħ	_	_	_	N	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	ir-	_	_	_	DET	_	_	_	_
+7	raxx	_	_	_	N	_	_	_	_
+8	tax-	_	_	_	ADP	_	_	_	_
+9	xita	_	_	_	N	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	it-	_	_	_	DET	_	_	_	_
+12	tkarwit	_	_	_	N	_	_	_	_
+13	tar-	_	_	_	ADP	_	_	_	_
+14	ragħad	_	_	_	N	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	u	_	_	_	CONJ	_	_	_	_
+17	t-	_	_	_	DET	_	_	_	_
+18	tfaqqigħ	_	_	_	N	_	_	_	_
+19	tas-	_	_	_	ADP	_	_	_	_
+20	silġ	_	_	_	N	_	_	_	_
+21	u	_	_	_	CONJ	_	_	_	_
+22	s-	_	_	_	DET	_	_	_	_
+23	sajjetti	_	_	_	N	_	_	_	_
+24	joħolqu	_	_	_	V	_	_	_	_
+25	xenarju	_	_	_	N	_	_	_	_
+26	infernali	_	_	_	ADJ	_	_	_	_
+27	li	_	_	_	CONJ	_	_	_	_
+28	jġiegħlek	_	_	_	V	_	_	_	_
+29	temmen	_	_	_	V	_	_	_	_
+30	li	_	_	_	CONJ	_	_	_	_
+31	din	_	_	_	PRO	_	_	_	_
+32	mhijiex	_	_	_	V	_	_	_	_
+33	maltempata	_	_	_	N	_	_	_	_
+34	kwalunkwe	_	_	_	ADJ	_	_	_	_
+35	.	_	_	_	_	_	_	_	_
+
+# sent_id = 30_01P05:4
+# text = IT-TNAX-IL PARLAMENT
+1	IT-	_	_	_	DET	_	_	_	_
+2	TNAX-IL	_	_	_	NUM	_	_	_	_
+3	PARLAMENT	_	_	_	N	_	_	_	_
+
+# sent_id = 30_01P05:53
+# text = Il-ħsebijiet diġà qegħdin listed f'dan id-dokument, jiġifieri tistgħu tarawh u tagħtuni feedback.
+1	Il-	_	_	_	DET	_	_	_	_
+2	ħsebijiet	_	_	_	N	_	_	_	_
+3	diġà	_	_	_	ADV	_	_	_	_
+4	qegħdin	_	_	_	V	_	_	_	_
+5	listed	_	_	_	ADJ	_	_	_	_
+6	f'	_	_	_	ADP	_	_	_	_
+7	dan	_	_	_	PRO	_	_	_	_
+8	id-	_	_	_	DET	_	_	_	_
+9	dokument	_	_	_	N	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	jiġifieri	_	_	_	V	_	_	_	_
+12	tistgħu	_	_	_	V	_	_	_	_
+13	tarawh	_	_	_	V	_	_	_	_
+14	u	_	_	_	CONJ	_	_	_	_
+15	tagħtuni	_	_	_	V	_	_	_	_
+16	feedback	_	_	_	N	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = 21_01J03:17
+# text = Jirrakkonta li l-pawsa ta' 14-il xahar mir-radju u t-televiżjoni servietu biex jaġġorna ruħu aktar u jlesti ruħu għal ritorn bil-qawwi.
+1	Jirrakkonta	_	_	_	V	_	_	_	_
+2	li	_	_	_	CONJ	_	_	_	_
+3	l-	_	_	_	DET	_	_	_	_
+4	pawsa	_	_	_	N	_	_	_	_
+5	ta'	_	_	_	ADP	_	_	_	_
+6	14-il	_	_	_	NUM	_	_	_	_
+7	xahar	_	_	_	N	_	_	_	_
+8	mir-	_	_	_	ADP	_	_	_	_
+9	radju	_	_	_	N	_	_	_	_
+10	u	_	_	_	CONJ	_	_	_	_
+11	t-	_	_	_	DET	_	_	_	_
+12	televiżjoni	_	_	_	N	_	_	_	_
+13	servietu	_	_	_	V	_	_	_	_
+14	biex	_	_	_	CONJ	_	_	_	_
+15	jaġġorna	_	_	_	V	_	_	_	_
+16	ruħu	_	_	_	PRO	_	_	_	_
+17	aktar	_	_	_	ADV	_	_	_	_
+18	u	_	_	_	CONJ	_	_	_	_
+19	jlesti	_	_	_	V	_	_	_	_
+20	ruħu	_	_	_	PRO	_	_	_	_
+21	għal	_	_	_	ADP	_	_	_	_
+22	ritorn	_	_	_	N	_	_	_	_
+23	bil-	_	_	_	ADP	_	_	_	_
+24	qawwi	_	_	_	ADJ	_	_	_	_
+25	.	_	_	_	_	_	_	_	_
+
+# sent_id = 49b_04F09:18
+# text = Irridu torċ, issuġġeriet.
+1	Irridu	_	_	_	V	_	_	_	_
+2	torċ	_	_	_	N	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	issuġġeriet	_	_	_	V	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = 23b_04J03:41
+# text = Imwarrba l-kwistjoni dwar ir-riżultat miksub fl-aħħar edizzjoni ta' l-Eurovision, jien u Robert Abela nibdew nitkellmu fuq l-agħa kbira li tinqala' f'Malta kull darba li jasal iż-żmien kemm għall-festival kif ukoll għall-Eurovision.
+1	Imwarrba	_	_	_	V	_	_	_	_
+2	l-	_	_	_	DET	_	_	_	_
+3	kwistjoni	_	_	_	N	_	_	_	_
+4	dwar	_	_	_	ADP	_	_	_	_
+5	ir-	_	_	_	DET	_	_	_	_
+6	riżultat	_	_	_	N	_	_	_	_
+7	miksub	_	_	_	V	_	_	_	_
+8	fl-	_	_	_	ADP	_	_	_	_
+9	aħħar	_	_	_	ADJ	_	_	_	_
+10	edizzjoni	_	_	_	N	_	_	_	_
+11	ta'	_	_	_	ADP	_	_	_	_
+12	l-	_	_	_	DET	_	_	_	_
+13	Eurovision	_	_	_	PROPN	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	jien	_	_	_	PRO	_	_	_	_
+16	u	_	_	_	CONJ	_	_	_	_
+17	Robert	_	_	_	PROPN	_	_	_	_
+18	Abela	_	_	_	PROPN	_	_	_	_
+19	nibdew	_	_	_	V	_	_	_	_
+20	nitkellmu	_	_	_	V	_	_	_	_
+21	fuq	_	_	_	ADP	_	_	_	_
+22	l-	_	_	_	DET	_	_	_	_
+23	agħa	_	_	_	N	_	_	_	_
+24	kbira	_	_	_	ADJ	_	_	_	_
+25	li	_	_	_	CONJ	_	_	_	_
+26	tinqala'	_	_	_	V	_	_	_	_
+27	f'	_	_	_	ADP	_	_	_	_
+28	Malta	_	_	_	PROPN	_	_	_	_
+29	kull	_	_	_	DET	_	_	_	_
+30	darba	_	_	_	N	_	_	_	_
+31	li	_	_	_	CONJ	_	_	_	_
+32	jasal	_	_	_	V	_	_	_	_
+33	iż-	_	_	_	DET	_	_	_	_
+34	żmien	_	_	_	N	_	_	_	_
+35	kemm	_	_	_	PRO	_	_	_	_
+36	għall-	_	_	_	ADP	_	_	_	_
+37	festival	_	_	_	N	_	_	_	_
+38	kif	_	_	_	PRO	_	_	_	_
+39	ukoll	_	_	_	ADV	_	_	_	_
+40	għall-	_	_	_	ADP	_	_	_	_
+41	Eurovision	_	_	_	PROPN	_	_	_	_
+42	.	_	_	_	_	_	_	_	_
+
+# sent_id = 38_02P06:7
+# text = ONOR. NOEL FARRUGIA: Ladarba l-Ministru qed iwieġeb għan-nom tal-ministru sieħbu, jista' jgħidilna x'se jiġri mill-management u mill-ħaddiema ta' l-IPSE, l-MDC u l-METCO, tliet aġenziji li skond ma tħabbar se jiġu amalgamati f'aġenzija waħda li suppost dalwaqt għandha tibda topera.
+1	ONOR	_	_	_	N	_	_	_	_
+2	.	_	_	_	_	_	_	_	_
+3	NOEL	_	_	_	PROPN	_	_	_	_
+4	FARRUGIA	_	_	_	PROPN	_	_	_	_
+5	:	_	_	_	_	_	_	_	_
+6	Ladarba	_	_	_	CONJ	_	_	_	_
+7	l-	_	_	_	DET	_	_	_	_
+8	Ministru	_	_	_	N	_	_	_	_
+9	qed	_	_	_	V	_	_	_	_
+10	iwieġeb	_	_	_	V	_	_	_	_
+11	għan-	_	_	_	ADP	_	_	_	_
+12	nom	_	_	_	N	_	_	_	_
+13	tal-	_	_	_	ADP	_	_	_	_
+14	ministru	_	_	_	N	_	_	_	_
+15	sieħbu	_	_	_	N	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	jista'	_	_	_	V	_	_	_	_
+18	jgħidilna	_	_	_	V	_	_	_	_
+19	x'	_	_	_	PRO	_	_	_	_
+20	se	_	_	_	V	_	_	_	_
+21	jiġri	_	_	_	V	_	_	_	_
+22	mill-	_	_	_	ADP	_	_	_	_
+23	management	_	_	_	N	_	_	_	_
+24	u	_	_	_	CONJ	_	_	_	_
+25	mill-	_	_	_	ADP	_	_	_	_
+26	ħaddiema	_	_	_	N	_	_	_	_
+27	ta'	_	_	_	ADP	_	_	_	_
+28	l-	_	_	_	DET	_	_	_	_
+29	IPSE	_	_	_	N	_	_	_	_
+30	,	_	_	_	_	_	_	_	_
+31	l-	_	_	_	DET	_	_	_	_
+32	MDC	_	_	_	N	_	_	_	_
+33	u	_	_	_	CONJ	_	_	_	_
+34	l-	_	_	_	DET	_	_	_	_
+35	METCO	_	_	_	N	_	_	_	_
+36	,	_	_	_	_	_	_	_	_
+37	tliet	_	_	_	NUM	_	_	_	_
+38	aġenziji	_	_	_	N	_	_	_	_
+39	li	_	_	_	CONJ	_	_	_	_
+40	skond	_	_	_	ADP	_	_	_	_
+41	ma	_	_	_	CONJ	_	_	_	_
+42	tħabbar	_	_	_	V	_	_	_	_
+43	se	_	_	_	V	_	_	_	_
+44	jiġu	_	_	_	V	_	_	_	_
+45	amalgamati	_	_	_	V	_	_	_	_
+46	f'	_	_	_	ADP	_	_	_	_
+47	aġenzija	_	_	_	N	_	_	_	_
+48	waħda	_	_	_	NUM	_	_	_	_
+49	li	_	_	_	CONJ	_	_	_	_
+50	suppost	_	_	_	ADV	_	_	_	_
+51	dalwaqt	_	_	_	ADV	_	_	_	_
+52	għandha	_	_	_	V	_	_	_	_
+53	tibda	_	_	_	V	_	_	_	_
+54	topera	_	_	_	V	_	_	_	_
+55	.	_	_	_	_	_	_	_	_
+
+# sent_id = 05_05J01:24
+# text = Minkejja li għaddew xahrejn, sal-lum l-avukat tagħhom għadha ma rċeviet lanqas konferma tat-talba.
+1	Minkejja	_	_	_	ADP	_	_	_	_
+2	li	_	_	_	CONJ	_	_	_	_
+3	għaddew	_	_	_	V	_	_	_	_
+4	xahrejn	_	_	_	N	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	sal-	_	_	_	ADP	_	_	_	_
+7	lum	_	_	_	N	_	_	_	_
+8	l-	_	_	_	DET	_	_	_	_
+9	avukat	_	_	_	N	_	_	_	_
+10	tagħhom	_	_	_	PRO	_	_	_	_
+11	għadha	_	_	_	V	_	_	_	_
+12	ma	_	_	_	PART	_	_	_	_
+13	rċeviet	_	_	_	V	_	_	_	_
+14	lanqas	_	_	_	ADV	_	_	_	_
+15	konferma	_	_	_	N	_	_	_	_
+16	tat-	_	_	_	ADP	_	_	_	_
+17	talba	_	_	_	N	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = 09_09J01:15
+# text = "Il-Gvern kellu d-dmir li jara li l-Kunsilli jkunu proattivi billi jkunu preżenti fil-core group mhux biss f'sotto kumitat," sostniet Abela Baldacchino li fi ħdan l-Assoċjazzjoni hi responsabbli wkoll mill-qasam nazzjonali.
+1	"	_	_	_	_	_	_	_	_
+2	Il-	_	_	_	DET	_	_	_	_
+3	Gvern	_	_	_	N	_	_	_	_
+4	kellu	_	_	_	V	_	_	_	_
+5	d-	_	_	_	DET	_	_	_	_
+6	dmir	_	_	_	N	_	_	_	_
+7	li	_	_	_	CONJ	_	_	_	_
+8	jara	_	_	_	V	_	_	_	_
+9	li	_	_	_	CONJ	_	_	_	_
+10	l-	_	_	_	DET	_	_	_	_
+11	Kunsilli	_	_	_	N	_	_	_	_
+12	jkunu	_	_	_	V	_	_	_	_
+13	proattivi	_	_	_	ADJ	_	_	_	_
+14	billi	_	_	_	CONJ	_	_	_	_
+15	jkunu	_	_	_	V	_	_	_	_
+16	preżenti	_	_	_	ADJ	_	_	_	_
+17	fil-	_	_	_	ADP	_	_	_	_
+18	core	_	_	_	ADJ	_	_	_	_
+19	group	_	_	_	N	_	_	_	_
+20	mhux	_	_	_	PART	_	_	_	_
+21	biss	_	_	_	ADV	_	_	_	_
+22	f'	_	_	_	ADP	_	_	_	_
+23	sotto	_	_	_	ADJ	_	_	_	_
+24	kumitat	_	_	_	N	_	_	_	_
+25	,	_	_	_	_	_	_	_	_
+26	"	_	_	_	_	_	_	_	_
+27	sostniet	_	_	_	V	_	_	_	_
+28	Abela	_	_	_	PROPN	_	_	_	_
+29	Baldacchino	_	_	_	PROPN	_	_	_	_
+30	li	_	_	_	CONJ	_	_	_	_
+31	fi	_	_	_	ADP	_	_	_	_
+32	ħdan	_	_	_	N	_	_	_	_
+33	l-	_	_	_	DET	_	_	_	_
+34	Assoċjazzjoni	_	_	_	N	_	_	_	_
+35	hi	_	_	_	PRO	_	_	_	_
+36	responsabbli	_	_	_	ADJ	_	_	_	_
+37	wkoll	_	_	_	ADV	_	_	_	_
+38	mill-	_	_	_	ADP	_	_	_	_
+39	qasam	_	_	_	N	_	_	_	_
+40	nazzjonali	_	_	_	ADJ	_	_	_	_
+41	.	_	_	_	_	_	_	_	_
+
+# sent_id = 23b_04J03:43
+# text = It-Taljani għandhom il-vetrina ta' Sanremo, u għalina l-festival tagħna hi l-vetrina tagħna. "
+1	It-	_	_	_	DET	_	_	_	_
+2	Taljani	_	_	_	N	_	_	_	_
+3	għandhom	_	_	_	V	_	_	_	_
+4	il-	_	_	_	DET	_	_	_	_
+5	vetrina	_	_	_	N	_	_	_	_
+6	ta'	_	_	_	ADP	_	_	_	_
+7	Sanremo	_	_	_	PROPN	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	u	_	_	_	CONJ	_	_	_	_
+10	għalina	_	_	_	PRO	_	_	_	_
+11	l-	_	_	_	DET	_	_	_	_
+12	festival	_	_	_	N	_	_	_	_
+13	tagħna	_	_	_	PRO	_	_	_	_
+14	hi	_	_	_	PRO	_	_	_	_
+15	l-	_	_	_	DET	_	_	_	_
+16	vetrina	_	_	_	N	_	_	_	_
+17	tagħna	_	_	_	PRO	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+19	"	_	_	_	_	_	_	_	_
+
+# sent_id = 48_02F09:4
+# text = Missierha kien għaraf jitwaħħad mal-kalma tal-madwar u kien lest jirfed dan l-istat rebbieħ b'ħiltu kollha.
+1	Missierha	_	_	_	N	_	_	_	_
+2	kien	_	_	_	V	_	_	_	_
+3	għaraf	_	_	_	V	_	_	_	_
+4	jitwaħħad	_	_	_	V	_	_	_	_
+5	mal-	_	_	_	ADP	_	_	_	_
+6	kalma	_	_	_	N	_	_	_	_
+7	tal-	_	_	_	ADP	_	_	_	_
+8	madwar	_	_	_	N	_	_	_	_
+9	u	_	_	_	CONJ	_	_	_	_
+10	kien	_	_	_	V	_	_	_	_
+11	lest	_	_	_	ADJ	_	_	_	_
+12	jirfed	_	_	_	V	_	_	_	_
+13	dan	_	_	_	PRO	_	_	_	_
+14	l-	_	_	_	DET	_	_	_	_
+15	istat	_	_	_	N	_	_	_	_
+16	rebbieħ	_	_	_	V	_	_	_	_
+17	b'	_	_	_	ADP	_	_	_	_
+18	ħiltu	_	_	_	N	_	_	_	_
+19	kollha	_	_	_	DET	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = 48_02F09:43
+# text = Biha jew mingħajrha ma kienx xorta la għalih u anqas għall-arti tiegħu u din id-darba l-għażla ta' sieħba kienet tirrendi u lilu tagħmillu ġieħ.
+1	Biha	_	_	_	PRO	_	_	_	_
+2	jew	_	_	_	CONJ	_	_	_	_
+3	mingħajrha	_	_	_	PRO	_	_	_	_
+4	ma	_	_	_	PART	_	_	_	_
+5	kienx	_	_	_	V	_	_	_	_
+6	xorta	_	_	_	N	_	_	_	_
+7	la	_	_	_	PART	_	_	_	_
+8	għalih	_	_	_	PRO	_	_	_	_
+9	u	_	_	_	CONJ	_	_	_	_
+10	anqas	_	_	_	ADV	_	_	_	_
+11	għall-	_	_	_	ADP	_	_	_	_
+12	arti	_	_	_	N	_	_	_	_
+13	tiegħu	_	_	_	PRO	_	_	_	_
+14	u	_	_	_	CONJ	_	_	_	_
+15	din	_	_	_	PRO	_	_	_	_
+16	id-	_	_	_	DET	_	_	_	_
+17	darba	_	_	_	N	_	_	_	_
+18	l-	_	_	_	DET	_	_	_	_
+19	għażla	_	_	_	N	_	_	_	_
+20	ta'	_	_	_	ADP	_	_	_	_
+21	sieħba	_	_	_	N	_	_	_	_
+22	kienet	_	_	_	V	_	_	_	_
+23	tirrendi	_	_	_	V	_	_	_	_
+24	u	_	_	_	CONJ	_	_	_	_
+25	lilu	_	_	_	PRO	_	_	_	_
+26	tagħmillu	_	_	_	V	_	_	_	_
+27	ġieħ	_	_	_	N	_	_	_	_
+28	.	_	_	_	_	_	_	_	_
+
+# sent_id = 52_03N10:33
+# text = Dawn it-taqsimiet huma ġenerali ħafna u jeħtieġu elaborazzjoni għax it-tnejn jistgħu jinqasmu f'kategoriji oħra.
+1	Dawn	_	_	_	PRO	_	_	_	_
+2	it-	_	_	_	DET	_	_	_	_
+3	taqsimiet	_	_	_	N	_	_	_	_
+4	huma	_	_	_	PRO	_	_	_	_
+5	ġenerali	_	_	_	ADJ	_	_	_	_
+6	ħafna	_	_	_	ADV	_	_	_	_
+7	u	_	_	_	CONJ	_	_	_	_
+8	jeħtieġu	_	_	_	V	_	_	_	_
+9	elaborazzjoni	_	_	_	N	_	_	_	_
+10	għax	_	_	_	CONJ	_	_	_	_
+11	it-	_	_	_	DET	_	_	_	_
+12	tnejn	_	_	_	NUM	_	_	_	_
+13	jistgħu	_	_	_	V	_	_	_	_
+14	jinqasmu	_	_	_	V	_	_	_	_
+15	f'	_	_	_	ADP	_	_	_	_
+16	kategoriji	_	_	_	N	_	_	_	_
+17	oħra	_	_	_	ADJ	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = 17_04J02:9
+# text = Donnu li qisna qegħdin ngħixu fi kriżi ekonomika klandestina!
+1	Donnu	_	_	_	V	_	_	_	_
+2	li	_	_	_	CONJ	_	_	_	_
+3	qisna	_	_	_	V	_	_	_	_
+4	qegħdin	_	_	_	V	_	_	_	_
+5	ngħixu	_	_	_	V	_	_	_	_
+6	fi	_	_	_	ADP	_	_	_	_
+7	kriżi	_	_	_	N	_	_	_	_
+8	ekonomika	_	_	_	ADJ	_	_	_	_
+9	klandestina	_	_	_	ADJ	_	_	_	_
+10	!	_	_	_	_	_	_	_	_
+
+# sent_id = 51_02N10:10
+# text = Dawn kienu ħarbu mill-Eritrea fl-1941 waqt li xi wħud kienu ħarbu mill-Greċja u mit-Turkija.
+1	Dawn	_	_	_	PRO	_	_	_	_
+2	kienu	_	_	_	V	_	_	_	_
+3	ħarbu	_	_	_	V	_	_	_	_
+4	mill-	_	_	_	ADP	_	_	_	_
+5	Eritrea	_	_	_	PROPN	_	_	_	_
+6	fl-	_	_	_	ADP	_	_	_	_
+7	1941	_	_	_	NUM	_	_	_	_
+8	waqt	_	_	_	ADP	_	_	_	_
+9	li	_	_	_	CONJ	_	_	_	_
+10	xi	_	_	_	DET	_	_	_	_
+11	wħud	_	_	_	NUM	_	_	_	_
+12	kienu	_	_	_	V	_	_	_	_
+13	ħarbu	_	_	_	V	_	_	_	_
+14	mill-	_	_	_	ADP	_	_	_	_
+15	Greċja	_	_	_	PROPN	_	_	_	_
+16	u	_	_	_	CONJ	_	_	_	_
+17	mit-	_	_	_	ADP	_	_	_	_
+18	Turkija	_	_	_	PROPN	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = 30_01P05:202
+# text = THE CHAIRMAN:
+1	THE	_	_	_	_	_	_	_	_
+2	CHAIRMAN	_	_	_	_	_	_	_	_
+3	:	_	_	_	_	_	_	_	_
+
+# sent_id = 19_06J02:6
+# text = F'dawn l-aħħar jiem komplejna nisimgħu li f'April kien hemm tnaqqis fl-akkomadazzjoni ġol-lukandi.
+1	F'	_	_	_	ADP	_	_	_	_
+2	dawn	_	_	_	PRO	_	_	_	_
+3	l-	_	_	_	DET	_	_	_	_
+4	aħħar	_	_	_	ADJ	_	_	_	_
+5	jiem	_	_	_	N	_	_	_	_
+6	komplejna	_	_	_	V	_	_	_	_
+7	nisimgħu	_	_	_	V	_	_	_	_
+8	li	_	_	_	CONJ	_	_	_	_
+9	f'	_	_	_	ADP	_	_	_	_
+10	April	_	_	_	PROPN	_	_	_	_
+11	kien	_	_	_	V	_	_	_	_
+12	hemm	_	_	_	V	_	_	_	_
+13	tnaqqis	_	_	_	N	_	_	_	_
+14	fl-	_	_	_	ADP	_	_	_	_
+15	akkomadazzjoni	_	_	_	N	_	_	_	_
+16	ġol-	_	_	_	ADP	_	_	_	_
+17	lukandi	_	_	_	N	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = 10_10J01:8
+# text = Kien f'Jannar li għadda li l-proġett tal-mina ta' taħt il-baħar bejn Għawdex u Malta ħareġ mill-ġdid fil-beraħ wara suġġeriment li għamel l-eks ċermen tal-kumpanija Gozo Channel Joe Borg waqt żjara li l-Prim Ministru Dr Lawrence Gonzi għamel fil-fabbrika tiegħu, biex il-Gvern jibni "triq permanenti" bejn iż-żewġ gżejjer.
+1	Kien	_	_	_	V	_	_	_	_
+2	f'	_	_	_	ADP	_	_	_	_
+3	Jannar	_	_	_	PROPN	_	_	_	_
+4	li	_	_	_	CONJ	_	_	_	_
+5	għadda	_	_	_	V	_	_	_	_
+6	li	_	_	_	CONJ	_	_	_	_
+7	l-	_	_	_	DET	_	_	_	_
+8	proġett	_	_	_	N	_	_	_	_
+9	tal-	_	_	_	ADP	_	_	_	_
+10	mina	_	_	_	N	_	_	_	_
+11	ta'	_	_	_	ADP	_	_	_	_
+12	taħt	_	_	_	ADP	_	_	_	_
+13	il-	_	_	_	DET	_	_	_	_
+14	baħar	_	_	_	N	_	_	_	_
+15	bejn	_	_	_	ADP	_	_	_	_
+16	Għawdex	_	_	_	PROPN	_	_	_	_
+17	u	_	_	_	CONJ	_	_	_	_
+18	Malta	_	_	_	PROPN	_	_	_	_
+19	ħareġ	_	_	_	V	_	_	_	_
+20	mill-	_	_	_	ADP	_	_	_	_
+21	ġdid	_	_	_	ADJ	_	_	_	_
+22	fil-	_	_	_	ADP	_	_	_	_
+23	beraħ	_	_	_	N	_	_	_	_
+24	wara	_	_	_	ADP	_	_	_	_
+25	suġġeriment	_	_	_	N	_	_	_	_
+26	li	_	_	_	CONJ	_	_	_	_
+27	għamel	_	_	_	V	_	_	_	_
+28	l-	_	_	_	DET	_	_	_	_
+29	eks	_	_	_	ADJ	_	_	_	_
+30	ċermen	_	_	_	N	_	_	_	_
+31	tal-	_	_	_	ADP	_	_	_	_
+32	kumpanija	_	_	_	N	_	_	_	_
+33	Gozo	_	_	_	PROPN	_	_	_	_
+34	Channel	_	_	_	N	_	_	_	_
+35	Joe	_	_	_	PROPN	_	_	_	_
+36	Borg	_	_	_	PROPN	_	_	_	_
+37	waqt	_	_	_	ADP	_	_	_	_
+38	żjara	_	_	_	N	_	_	_	_
+39	li	_	_	_	CONJ	_	_	_	_
+40	l-	_	_	_	DET	_	_	_	_
+41	Prim	_	_	_	ADJ	_	_	_	_
+42	Ministru	_	_	_	N	_	_	_	_
+43	Dr	_	_	_	N	_	_	_	_
+44	Lawrence	_	_	_	PROPN	_	_	_	_
+45	Gonzi	_	_	_	PROPN	_	_	_	_
+46	għamel	_	_	_	V	_	_	_	_
+47	fil-	_	_	_	ADP	_	_	_	_
+48	fabbrika	_	_	_	N	_	_	_	_
+49	tiegħu	_	_	_	PRO	_	_	_	_
+50	,	_	_	_	_	_	_	_	_
+51	biex	_	_	_	CONJ	_	_	_	_
+52	il-	_	_	_	DET	_	_	_	_
+53	Gvern	_	_	_	N	_	_	_	_
+54	jibni	_	_	_	V	_	_	_	_
+55	"	_	_	_	_	_	_	_	_
+56	triq	_	_	_	N	_	_	_	_
+57	permanenti	_	_	_	ADJ	_	_	_	_
+58	"	_	_	_	_	_	_	_	_
+59	bejn	_	_	_	ADP	_	_	_	_
+60	iż-	_	_	_	DET	_	_	_	_
+61	żewġ	_	_	_	NUM	_	_	_	_
+62	gżejjer	_	_	_	N	_	_	_	_
+63	.	_	_	_	_	_	_	_	_
+
+# sent_id = 46_02F08:27
+# text = M'emminx.
+1	M'	_	_	_	PART	_	_	_	_
+2	emminx	_	_	_	V	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+# sent_id = 19_06J02:17
+# text = Hemm ħafna u ħafna li jmissu ilu jsir u li jmissu qed isir illum wara l-għajjat kollu tar-responsabbiltà diretta ta' Dottor Gonzi għat-turiżmu, li mhux qed isir, filwaqt li hemm kobba mħabbla sew li xi darba trid tinħall jekk irridu li l-industrija tat-turiżmu tibda tiffunzjona kif inhu xieraq għal pajjiżna.
+1	Hemm	_	_	_	V	_	_	_	_
+2	ħafna	_	_	_	DET	_	_	_	_
+3	u	_	_	_	CONJ	_	_	_	_
+4	ħafna	_	_	_	DET	_	_	_	_
+5	li	_	_	_	CONJ	_	_	_	_
+6	jmissu	_	_	_	V	_	_	_	_
+7	ilu	_	_	_	ADV	_	_	_	_
+8	jsir	_	_	_	V	_	_	_	_
+9	u	_	_	_	CONJ	_	_	_	_
+10	li	_	_	_	CONJ	_	_	_	_
+11	jmissu	_	_	_	V	_	_	_	_
+12	qed	_	_	_	V	_	_	_	_
+13	isir	_	_	_	V	_	_	_	_
+14	illum	_	_	_	ADV	_	_	_	_
+15	wara	_	_	_	ADP	_	_	_	_
+16	l-	_	_	_	DET	_	_	_	_
+17	għajjat	_	_	_	N	_	_	_	_
+18	kollu	_	_	_	DET	_	_	_	_
+19	tar-	_	_	_	ADP	_	_	_	_
+20	responsabbiltà	_	_	_	N	_	_	_	_
+21	diretta	_	_	_	ADJ	_	_	_	_
+22	ta'	_	_	_	ADP	_	_	_	_
+23	Dottor	_	_	_	N	_	_	_	_
+24	Gonzi	_	_	_	PROPN	_	_	_	_
+25	għat-	_	_	_	ADP	_	_	_	_
+26	turiżmu	_	_	_	N	_	_	_	_
+27	,	_	_	_	_	_	_	_	_
+28	li	_	_	_	CONJ	_	_	_	_
+29	mhux	_	_	_	PART	_	_	_	_
+30	qed	_	_	_	V	_	_	_	_
+31	isir	_	_	_	V	_	_	_	_
+32	,	_	_	_	_	_	_	_	_
+33	filwaqt	_	_	_	CONJ	_	_	_	_
+34	li	_	_	_	CONJ	_	_	_	_
+35	hemm	_	_	_	V	_	_	_	_
+36	kobba	_	_	_	N	_	_	_	_
+37	mħabbla	_	_	_	V	_	_	_	_
+38	sew	_	_	_	ADV	_	_	_	_
+39	li	_	_	_	CONJ	_	_	_	_
+40	xi	_	_	_	DET	_	_	_	_
+41	darba	_	_	_	N	_	_	_	_
+42	trid	_	_	_	V	_	_	_	_
+43	tinħall	_	_	_	V	_	_	_	_
+44	jekk	_	_	_	CONJ	_	_	_	_
+45	irridu	_	_	_	V	_	_	_	_
+46	li	_	_	_	CONJ	_	_	_	_
+47	l-	_	_	_	DET	_	_	_	_
+48	industrija	_	_	_	N	_	_	_	_
+49	tat-	_	_	_	ADP	_	_	_	_
+50	turiżmu	_	_	_	N	_	_	_	_
+51	tibda	_	_	_	V	_	_	_	_
+52	tiffunzjona	_	_	_	V	_	_	_	_
+53	kif	_	_	_	PRO	_	_	_	_
+54	inhu	_	_	_	PRO	_	_	_	_
+55	xieraq	_	_	_	V	_	_	_	_
+56	għal	_	_	_	ADP	_	_	_	_
+57	pajjiżna	_	_	_	N	_	_	_	_
+58	.	_	_	_	_	_	_	_	_
+
+# sent_id = 19_06J02:8
+# text = Is-sitwazzjoni għall-ewwel sitt xhur tas-sena bl-ebda mod ma tindika li għandna fhiex inserrħu rasna, filwaqt li l-mod kif nattiraw it-turisti mis-swieq tas-soltu jindika dejjem aktar taħwid u inkonsistenza.
+1	Is-	_	_	_	DET	_	_	_	_
+2	sitwazzjoni	_	_	_	N	_	_	_	_
+3	għall-	_	_	_	ADP	_	_	_	_
+4	ewwel	_	_	_	NUM	_	_	_	_
+5	sitt	_	_	_	NUM	_	_	_	_
+6	xhur	_	_	_	N	_	_	_	_
+7	tas-	_	_	_	ADP	_	_	_	_
+8	sena	_	_	_	N	_	_	_	_
+9	bl-	_	_	_	ADP	_	_	_	_
+10	ebda	_	_	_	DET	_	_	_	_
+11	mod	_	_	_	N	_	_	_	_
+12	ma	_	_	_	PART	_	_	_	_
+13	tindika	_	_	_	V	_	_	_	_
+14	li	_	_	_	CONJ	_	_	_	_
+15	għandna	_	_	_	V	_	_	_	_
+16	fhiex	_	_	_	PRO	_	_	_	_
+17	inserrħu	_	_	_	V	_	_	_	_
+18	rasna	_	_	_	N	_	_	_	_
+19	,	_	_	_	_	_	_	_	_
+20	filwaqt	_	_	_	CONJ	_	_	_	_
+21	li	_	_	_	CONJ	_	_	_	_
+22	l-	_	_	_	DET	_	_	_	_
+23	mod	_	_	_	N	_	_	_	_
+24	kif	_	_	_	PRO	_	_	_	_
+25	nattiraw	_	_	_	V	_	_	_	_
+26	it-	_	_	_	DET	_	_	_	_
+27	turisti	_	_	_	N	_	_	_	_
+28	mis-	_	_	_	ADP	_	_	_	_
+29	swieq	_	_	_	N	_	_	_	_
+30	tas-	_	_	_	ADP	_	_	_	_
+31	soltu	_	_	_	N	_	_	_	_
+32	jindika	_	_	_	V	_	_	_	_
+33	dejjem	_	_	_	ADV	_	_	_	_
+34	aktar	_	_	_	ADJ	_	_	_	_
+35	taħwid	_	_	_	N	_	_	_	_
+36	u	_	_	_	CONJ	_	_	_	_
+37	inkonsistenza	_	_	_	N	_	_	_	_
+38	.	_	_	_	_	_	_	_	_
+
+# sent_id = 56_03N11:24
+# text = Dawn huma pjanti li jridu ħafna dawl u għalhekk jekk ma jkollniex post imdawwal u mingħajr xemx, żgur li ma nistgħux inkabbruhom.
+1	Dawn	_	_	_	PRO	_	_	_	_
+2	huma	_	_	_	PRO	_	_	_	_
+3	pjanti	_	_	_	N	_	_	_	_
+4	li	_	_	_	CONJ	_	_	_	_
+5	jridu	_	_	_	V	_	_	_	_
+6	ħafna	_	_	_	DET	_	_	_	_
+7	dawl	_	_	_	N	_	_	_	_
+8	u	_	_	_	CONJ	_	_	_	_
+9	għalhekk	_	_	_	ADV	_	_	_	_
+10	jekk	_	_	_	CONJ	_	_	_	_
+11	ma	_	_	_	PART	_	_	_	_
+12	jkollniex	_	_	_	V	_	_	_	_
+13	post	_	_	_	N	_	_	_	_
+14	imdawwal	_	_	_	V	_	_	_	_
+15	u	_	_	_	CONJ	_	_	_	_
+16	mingħajr	_	_	_	ADP	_	_	_	_
+17	xemx	_	_	_	N	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	żgur	_	_	_	ADJ	_	_	_	_
+20	li	_	_	_	CONJ	_	_	_	_
+21	ma	_	_	_	PART	_	_	_	_
+22	nistgħux	_	_	_	V	_	_	_	_
+23	inkabbruhom	_	_	_	V	_	_	_	_
+24	.	_	_	_	_	_	_	_	_
+
+# sent_id = 49_03F09:28
+# text = Forsi kellu raġun dak ix-xi ħadd li kien qalilna li meta tibda tiffaċċja l-klassi trid tinsa dak kollu li tkun tgħallimt.
+1	Forsi	_	_	_	ADV	_	_	_	_
+2	kellu	_	_	_	V	_	_	_	_
+3	raġun	_	_	_	N	_	_	_	_
+4	dak	_	_	_	PRO	_	_	_	_
+5	ix-	_	_	_	DET	_	_	_	_
+6	xi	_	_	_	DET	_	_	_	_
+7	ħadd	_	_	_	PRO	_	_	_	_
+8	li	_	_	_	CONJ	_	_	_	_
+9	kien	_	_	_	V	_	_	_	_
+10	qalilna	_	_	_	V	_	_	_	_
+11	li	_	_	_	CONJ	_	_	_	_
+12	meta	_	_	_	CONJ	_	_	_	_
+13	tibda	_	_	_	V	_	_	_	_
+14	tiffaċċja	_	_	_	V	_	_	_	_
+15	l-	_	_	_	DET	_	_	_	_
+16	klassi	_	_	_	N	_	_	_	_
+17	trid	_	_	_	V	_	_	_	_
+18	tinsa	_	_	_	V	_	_	_	_
+19	dak	_	_	_	PRO	_	_	_	_
+20	kollu	_	_	_	DET	_	_	_	_
+21	li	_	_	_	CONJ	_	_	_	_
+22	tkun	_	_	_	V	_	_	_	_
+23	tgħallimt	_	_	_	V	_	_	_	_
+24	.	_	_	_	_	_	_	_	_
+
+# sent_id = 21_01J03:8
+# text = Filwaqt li jispjega l-biża' tiegħu li jikkonfronta r-realtà tal-Isptar Boffa, Borg Bonaci jgħid li l-aktar ħaġa li serrħitu kienet l-attitudni pożittiva u dedikata tal-istaff, in-nurses u t-tobba.
+1	Filwaqt	_	_	_	CONJ	_	_	_	_
+2	li	_	_	_	CONJ	_	_	_	_
+3	jispjega	_	_	_	V	_	_	_	_
+4	l-	_	_	_	DET	_	_	_	_
+5	biża'	_	_	_	N	_	_	_	_
+6	tiegħu	_	_	_	PRO	_	_	_	_
+7	li	_	_	_	CONJ	_	_	_	_
+8	jikkonfronta	_	_	_	V	_	_	_	_
+9	r-	_	_	_	DET	_	_	_	_
+10	realtà	_	_	_	N	_	_	_	_
+11	tal-	_	_	_	ADP	_	_	_	_
+12	Isptar	_	_	_	N	_	_	_	_
+13	Boffa	_	_	_	PROPN	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	Borg	_	_	_	PROPN	_	_	_	_
+16	Bonaci	_	_	_	PROPN	_	_	_	_
+17	jgħid	_	_	_	V	_	_	_	_
+18	li	_	_	_	CONJ	_	_	_	_
+19	l-	_	_	_	DET	_	_	_	_
+20	aktar	_	_	_	ADJ	_	_	_	_
+21	ħaġa	_	_	_	N	_	_	_	_
+22	li	_	_	_	CONJ	_	_	_	_
+23	serrħitu	_	_	_	V	_	_	_	_
+24	kienet	_	_	_	V	_	_	_	_
+25	l-	_	_	_	DET	_	_	_	_
+26	attitudni	_	_	_	N	_	_	_	_
+27	pożittiva	_	_	_	ADJ	_	_	_	_
+28	u	_	_	_	CONJ	_	_	_	_
+29	dedikata	_	_	_	V	_	_	_	_
+30	tal-	_	_	_	ADP	_	_	_	_
+31	istaff	_	_	_	N	_	_	_	_
+32	,	_	_	_	_	_	_	_	_
+33	in-	_	_	_	DET	_	_	_	_
+34	nurses	_	_	_	N	_	_	_	_
+35	u	_	_	_	CONJ	_	_	_	_
+36	t-	_	_	_	DET	_	_	_	_
+37	tobba	_	_	_	N	_	_	_	_
+38	.	_	_	_	_	_	_	_	_
+
+# sent_id = 38_02P06:46
+# text = MR SPEAKER: Il-Ministru.
+1	MR	_	_	_	N	_	_	_	_
+2	SPEAKER	_	_	_	_	_	_	_	_
+3	:	_	_	_	_	_	_	_	_
+4	Il-	_	_	_	DET	_	_	_	_
+5	Ministru	_	_	_	N	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = 50_01N10:93
+# text = It-tieni sura ta' mażokiżmu timmanifesta ruħha fi pjaċir mill-moħqrija jew umiljazzjoni fiżika.
+1	It-	_	_	_	DET	_	_	_	_
+2	tieni	_	_	_	NUM	_	_	_	_
+3	sura	_	_	_	N	_	_	_	_
+4	ta'	_	_	_	ADP	_	_	_	_
+5	mażokiżmu	_	_	_	N	_	_	_	_
+6	timmanifesta	_	_	_	V	_	_	_	_
+7	ruħha	_	_	_	PRO	_	_	_	_
+8	fi	_	_	_	ADP	_	_	_	_
+9	pjaċir	_	_	_	N	_	_	_	_
+10	mill-	_	_	_	ADP	_	_	_	_
+11	moħqrija	_	_	_	N	_	_	_	_
+12	jew	_	_	_	CONJ	_	_	_	_
+13	umiljazzjoni	_	_	_	N	_	_	_	_
+14	fiżika	_	_	_	ADJ	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = 04_04J01:7
+# text = Iżda hemm min irid li t-tibdil ikun mill-inqas u li r-responsabbiltajiet ta' de Marco jinqasmu fuq uħud minn dawk li huma diġà ministri u segretarji parlamentari.
+1	Iżda	_	_	_	CONJ	_	_	_	_
+2	hemm	_	_	_	V	_	_	_	_
+3	min	_	_	_	PRO	_	_	_	_
+4	irid	_	_	_	V	_	_	_	_
+5	li	_	_	_	CONJ	_	_	_	_
+6	t-	_	_	_	DET	_	_	_	_
+7	tibdil	_	_	_	N	_	_	_	_
+8	ikun	_	_	_	V	_	_	_	_
+9	mill-	_	_	_	ADP	_	_	_	_
+10	inqas	_	_	_	ADJ	_	_	_	_
+11	u	_	_	_	CONJ	_	_	_	_
+12	li	_	_	_	CONJ	_	_	_	_
+13	r-	_	_	_	DET	_	_	_	_
+14	responsabbiltajiet	_	_	_	N	_	_	_	_
+15	ta'	_	_	_	ADP	_	_	_	_
+16	de	_	_	_	PROPN	_	_	_	_
+17	Marco	_	_	_	PROPN	_	_	_	_
+18	jinqasmu	_	_	_	V	_	_	_	_
+19	fuq	_	_	_	ADP	_	_	_	_
+20	uħud	_	_	_	NUM	_	_	_	_
+21	minn	_	_	_	ADP	_	_	_	_
+22	dawk	_	_	_	PRO	_	_	_	_
+23	li	_	_	_	CONJ	_	_	_	_
+24	huma	_	_	_	PRO	_	_	_	_
+25	diġà	_	_	_	ADV	_	_	_	_
+26	ministri	_	_	_	N	_	_	_	_
+27	u	_	_	_	CONJ	_	_	_	_
+28	segretarji	_	_	_	N	_	_	_	_
+29	parlamentari	_	_	_	ADJ	_	_	_	_
+30	.	_	_	_	_	_	_	_	_
+
+# sent_id = 41_03F08:13
+# text = "Meta se tagħmilna nanniet?" saqsietha ommha.
+1	"	_	_	_	_	_	_	_	_
+2	Meta	_	_	_	CONJ	_	_	_	_
+3	se	_	_	_	V	_	_	_	_
+4	tagħmilna	_	_	_	V	_	_	_	_
+5	nanniet	_	_	_	N	_	_	_	_
+6	?	_	_	_	_	_	_	_	_
+7	"	_	_	_	_	_	_	_	_
+8	saqsietha	_	_	_	V	_	_	_	_
+9	ommha	_	_	_	N	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = 22_02J03:21
+# text = Kien hemm xi kuġini li ċemplu biex jifirħu imma …. "
+1	Kien	_	_	_	V	_	_	_	_
+2	hemm	_	_	_	V	_	_	_	_
+3	xi	_	_	_	DET	_	_	_	_
+4	kuġini	_	_	_	N	_	_	_	_
+5	li	_	_	_	CONJ	_	_	_	_
+6	ċemplu	_	_	_	V	_	_	_	_
+7	biex	_	_	_	CONJ	_	_	_	_
+8	jifirħu	_	_	_	V	_	_	_	_
+9	imma	_	_	_	CONJ	_	_	_	_
+10	…	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+12	"	_	_	_	_	_	_	_	_
+
+# sent_id = 48_02F09:50
+# text = Fuq kollox anqas hi ma kienet qatt tiddiskuti miegħu x'jgħaddi mingħaliha fil-fabbrika.
+1	Fuq	_	_	_	ADP	_	_	_	_
+2	kollox	_	_	_	PRO	_	_	_	_
+3	anqas	_	_	_	ADV	_	_	_	_
+4	hi	_	_	_	PRO	_	_	_	_
+5	ma	_	_	_	PART	_	_	_	_
+6	kienet	_	_	_	V	_	_	_	_
+7	qatt	_	_	_	ADV	_	_	_	_
+8	tiddiskuti	_	_	_	V	_	_	_	_
+9	miegħu	_	_	_	PRO	_	_	_	_
+10	x'	_	_	_	PRO	_	_	_	_
+11	jgħaddi	_	_	_	V	_	_	_	_
+12	mingħaliha	_	_	_	PRO	_	_	_	_
+13	fil-	_	_	_	ADP	_	_	_	_
+14	fabbrika	_	_	_	N	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = 22_02J03:102
+# text = Bit-tnejn, bħala partit, tinfetaħ għal kull faxxa tas-soċjetà Maltija u Għawdxija. "
+1	Bit-	_	_	_	ADP	_	_	_	_
+2	tnejn	_	_	_	NUM	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	bħala	_	_	_	ADP	_	_	_	_
+5	partit	_	_	_	N	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	tinfetaħ	_	_	_	V	_	_	_	_
+8	għal	_	_	_	ADP	_	_	_	_
+9	kull	_	_	_	DET	_	_	_	_
+10	faxxa	_	_	_	N	_	_	_	_
+11	tas-	_	_	_	ADP	_	_	_	_
+12	soċjetà	_	_	_	N	_	_	_	_
+13	Maltija	_	_	_	ADJ	_	_	_	_
+14	u	_	_	_	CONJ	_	_	_	_
+15	Għawdxija	_	_	_	ADJ	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+17	"	_	_	_	_	_	_	_	_
+
+# sent_id = 30_01P05:153
+# text = Fast forward 10 xhur u wasal it-turn li niddiskutu dan il-kuntratt.
+1	Fast	_	_	_	_	_	_	_	_
+2	forward	_	_	_	_	_	_	_	_
+3	10	_	_	_	NUM	_	_	_	_
+4	xhur	_	_	_	N	_	_	_	_
+5	u	_	_	_	CONJ	_	_	_	_
+6	wasal	_	_	_	V	_	_	_	_
+7	it-	_	_	_	DET	_	_	_	_
+8	turn	_	_	_	N	_	_	_	_
+9	li	_	_	_	CONJ	_	_	_	_
+10	niddiskutu	_	_	_	V	_	_	_	_
+11	dan	_	_	_	PRO	_	_	_	_
+12	il-	_	_	_	DET	_	_	_	_
+13	kuntratt	_	_	_	N	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = 56_03N11:59
+# text = Fuq kollox, jekk ma tkunx trid li tkabbar il-mijiet minn dawn il-pjanti, dejjem ikun jaqbel li tixtri l-capsicum kbar u diġà bil-frott.
+1	Fuq	_	_	_	ADP	_	_	_	_
+2	kollox	_	_	_	PRO	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	jekk	_	_	_	CONJ	_	_	_	_
+5	ma	_	_	_	PART	_	_	_	_
+6	tkunx	_	_	_	V	_	_	_	_
+7	trid	_	_	_	V	_	_	_	_
+8	li	_	_	_	CONJ	_	_	_	_
+9	tkabbar	_	_	_	V	_	_	_	_
+10	il-	_	_	_	DET	_	_	_	_
+11	mijiet	_	_	_	N	_	_	_	_
+12	minn	_	_	_	ADP	_	_	_	_
+13	dawn	_	_	_	PRO	_	_	_	_
+14	il-	_	_	_	DET	_	_	_	_
+15	pjanti	_	_	_	N	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	dejjem	_	_	_	ADV	_	_	_	_
+18	ikun	_	_	_	V	_	_	_	_
+19	jaqbel	_	_	_	V	_	_	_	_
+20	li	_	_	_	CONJ	_	_	_	_
+21	tixtri	_	_	_	V	_	_	_	_
+22	l-	_	_	_	DET	_	_	_	_
+23	capsicum	_	_	_	_	_	_	_	_
+24	kbar	_	_	_	ADJ	_	_	_	_
+25	u	_	_	_	CONJ	_	_	_	_
+26	diġà	_	_	_	ADV	_	_	_	_
+27	bil-	_	_	_	ADP	_	_	_	_
+28	frott	_	_	_	N	_	_	_	_
+29	.	_	_	_	_	_	_	_	_
+
+# sent_id = 12_12J01:1
+# text = Il-Prim Ministru Ingliż David Cameron biddel fehmtu u mhux se jintervjeni dwar il-prezz dejjem jogħla tal-petrol fir-Renju Unit.
+1	Il-	_	_	_	DET	_	_	_	_
+2	Prim	_	_	_	ADJ	_	_	_	_
+3	Ministru	_	_	_	N	_	_	_	_
+4	Ingliż	_	_	_	ADJ	_	_	_	_
+5	David	_	_	_	PROPN	_	_	_	_
+6	Cameron	_	_	_	PROPN	_	_	_	_
+7	biddel	_	_	_	V	_	_	_	_
+8	fehmtu	_	_	_	N	_	_	_	_
+9	u	_	_	_	CONJ	_	_	_	_
+10	mhux	_	_	_	PART	_	_	_	_
+11	se	_	_	_	V	_	_	_	_
+12	jintervjeni	_	_	_	V	_	_	_	_
+13	dwar	_	_	_	ADP	_	_	_	_
+14	il-	_	_	_	DET	_	_	_	_
+15	prezz	_	_	_	N	_	_	_	_
+16	dejjem	_	_	_	ADV	_	_	_	_
+17	jogħla	_	_	_	V	_	_	_	_
+18	tal-	_	_	_	ADP	_	_	_	_
+19	petrol	_	_	_	N	_	_	_	_
+20	fir-	_	_	_	ADP	_	_	_	_
+21	Renju	_	_	_	N	_	_	_	_
+22	Unit	_	_	_	ADJ	_	_	_	_
+23	.	_	_	_	_	_	_	_	_
+
+# sent_id = 49_03F09:4
+# text = Darba għaddieli minn moħħi li forsi t-tfal imorru t'dal-post biex jitgħallmu xi haġa.
+1	Darba	_	_	_	N	_	_	_	_
+2	għaddieli	_	_	_	V	_	_	_	_
+3	minn	_	_	_	ADP	_	_	_	_
+4	moħħi	_	_	_	N	_	_	_	_
+5	li	_	_	_	CONJ	_	_	_	_
+6	forsi	_	_	_	ADV	_	_	_	_
+7	t-	_	_	_	DET	_	_	_	_
+8	tfal	_	_	_	N	_	_	_	_
+9	imorru	_	_	_	V	_	_	_	_
+10	t'	_	_	_	ADP	_	_	_	_
+11	dal-	_	_	_	PRO	_	_	_	_
+12	post	_	_	_	N	_	_	_	_
+13	biex	_	_	_	CONJ	_	_	_	_
+14	jitgħallmu	_	_	_	V	_	_	_	_
+15	xi	_	_	_	DET	_	_	_	_
+16	haġa	_	_	_	N	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = 51_02N10:17
+# text = Dawn għadhom hemm sa llum.
+1	Dawn	_	_	_	PRO	_	_	_	_
+2	għadhom	_	_	_	V	_	_	_	_
+3	hemm	_	_	_	ADV	_	_	_	_
+4	sa	_	_	_	ADP	_	_	_	_
+5	llum	_	_	_	ADV	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = 38_02P06:53
+# text = MR SPEAKER: L-Onor. Farrugia.
+1	MR	_	_	_	N	_	_	_	_
+2	SPEAKER	_	_	_	_	_	_	_	_
+3	:	_	_	_	_	_	_	_	_
+4	L-	_	_	_	DET	_	_	_	_
+5	Onor	_	_	_	N	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+7	Farrugia	_	_	_	PROPN	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = 30_01P05:158
+# text = THE CHAIRMAN:
+1	THE	_	_	_	_	_	_	_	_
+2	CHAIRMAN	_	_	_	_	_	_	_	_
+3	:	_	_	_	_	_	_	_	_
+
+# sent_id = 10_10J01:2
+# text = Dan ikun ifisser li Għawdex ma jibqax b'popolazzjoni li dejjem qed tixjieħ. "
+1	Dan	_	_	_	PRO	_	_	_	_
+2	ikun	_	_	_	V	_	_	_	_
+3	ifisser	_	_	_	V	_	_	_	_
+4	li	_	_	_	CONJ	_	_	_	_
+5	Għawdex	_	_	_	PROPN	_	_	_	_
+6	ma	_	_	_	PART	_	_	_	_
+7	jibqax	_	_	_	V	_	_	_	_
+8	b'	_	_	_	ADP	_	_	_	_
+9	popolazzjoni	_	_	_	N	_	_	_	_
+10	li	_	_	_	CONJ	_	_	_	_
+11	dejjem	_	_	_	ADV	_	_	_	_
+12	qed	_	_	_	V	_	_	_	_
+13	tixjieħ	_	_	_	V	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+15	"	_	_	_	_	_	_	_	_
+
+# sent_id = 17_04J02:66
+# text = Fil-bank jidħlu s-self employed biex jissellfu u jkollhom overdraft.
+1	Fil-	_	_	_	ADP	_	_	_	_
+2	bank	_	_	_	N	_	_	_	_
+3	jidħlu	_	_	_	V	_	_	_	_
+4	s-	_	_	_	DET	_	_	_	_
+5	self	_	_	_	ADJ	_	_	_	_
+6	employed	_	_	_	N	_	_	_	_
+7	biex	_	_	_	CONJ	_	_	_	_
+8	jissellfu	_	_	_	V	_	_	_	_
+9	u	_	_	_	CONJ	_	_	_	_
+10	jkollhom	_	_	_	V	_	_	_	_
+11	overdraft	_	_	_	N	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = 23b_04J03:38
+# text = "Fabrizio ma beżax imur quddiem il-kameras tat-TV, jieħu l-kritika kollha li saritlu u jibqa' jitkellem mal-pubbliku Malti minkejja l-umiljazzjoni li ġarrab," sostna.
+1	"	_	_	_	_	_	_	_	_
+2	Fabrizio	_	_	_	PROPN	_	_	_	_
+3	ma	_	_	_	PART	_	_	_	_
+4	beżax	_	_	_	V	_	_	_	_
+5	imur	_	_	_	V	_	_	_	_
+6	quddiem	_	_	_	ADP	_	_	_	_
+7	il-	_	_	_	DET	_	_	_	_
+8	kameras	_	_	_	N	_	_	_	_
+9	tat-	_	_	_	ADP	_	_	_	_
+10	TV	_	_	_	N	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	jieħu	_	_	_	V	_	_	_	_
+13	l-	_	_	_	DET	_	_	_	_
+14	kritika	_	_	_	N	_	_	_	_
+15	kollha	_	_	_	DET	_	_	_	_
+16	li	_	_	_	CONJ	_	_	_	_
+17	saritlu	_	_	_	V	_	_	_	_
+18	u	_	_	_	CONJ	_	_	_	_
+19	jibqa'	_	_	_	V	_	_	_	_
+20	jitkellem	_	_	_	V	_	_	_	_
+21	mal-	_	_	_	ADP	_	_	_	_
+22	pubbliku	_	_	_	N	_	_	_	_
+23	Malti	_	_	_	ADJ	_	_	_	_
+24	minkejja	_	_	_	ADP	_	_	_	_
+25	l-	_	_	_	DET	_	_	_	_
+26	umiljazzjoni	_	_	_	N	_	_	_	_
+27	li	_	_	_	CONJ	_	_	_	_
+28	ġarrab	_	_	_	V	_	_	_	_
+29	,	_	_	_	_	_	_	_	_
+30	"	_	_	_	_	_	_	_	_
+31	sostna	_	_	_	V	_	_	_	_
+32	.	_	_	_	_	_	_	_	_
+
+# sent_id = 20_07J02:10
+# text = Għalhekk, kienet ħaġa kruċjali li l-grupp li ħadem fuq l-ispjunaġġ ikollu kemm informazzjoni personali jista' ħalli jasal għal ġudizzju dwar min kien joffri l-aħjar target għall-PN.
+1	Għalhekk	_	_	_	ADV	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	kienet	_	_	_	V	_	_	_	_
+4	ħaġa	_	_	_	N	_	_	_	_
+5	kruċjali	_	_	_	ADJ	_	_	_	_
+6	li	_	_	_	CONJ	_	_	_	_
+7	l-	_	_	_	DET	_	_	_	_
+8	grupp	_	_	_	N	_	_	_	_
+9	li	_	_	_	CONJ	_	_	_	_
+10	ħadem	_	_	_	V	_	_	_	_
+11	fuq	_	_	_	ADP	_	_	_	_
+12	l-	_	_	_	DET	_	_	_	_
+13	ispjunaġġ	_	_	_	N	_	_	_	_
+14	ikollu	_	_	_	V	_	_	_	_
+15	kemm	_	_	_	PRO	_	_	_	_
+16	informazzjoni	_	_	_	N	_	_	_	_
+17	personali	_	_	_	ADJ	_	_	_	_
+18	jista'	_	_	_	V	_	_	_	_
+19	ħalli	_	_	_	CONJ	_	_	_	_
+20	jasal	_	_	_	V	_	_	_	_
+21	għal	_	_	_	ADP	_	_	_	_
+22	ġudizzju	_	_	_	N	_	_	_	_
+23	dwar	_	_	_	ADP	_	_	_	_
+24	min	_	_	_	PRO	_	_	_	_
+25	kien	_	_	_	V	_	_	_	_
+26	joffri	_	_	_	V	_	_	_	_
+27	l-	_	_	_	DET	_	_	_	_
+28	aħjar	_	_	_	ADJ	_	_	_	_
+29	target	_	_	_	N	_	_	_	_
+30	għall-	_	_	_	ADP	_	_	_	_
+31	PN	_	_	_	N	_	_	_	_
+32	.	_	_	_	_	_	_	_	_
+
+# sent_id = 23b_04J03:33
+# text = Fi kliem iċ-Chairperson tal-MaltaSong, il-kanzunetta "I Do" ta' Fabrizio Faniello għamlet suċċess mal-Maltin.
+1	Fi	_	_	_	ADP	_	_	_	_
+2	kliem	_	_	_	N	_	_	_	_
+3	iċ-	_	_	_	DET	_	_	_	_
+4	Chairperson	_	_	_	N	_	_	_	_
+5	tal-	_	_	_	ADP	_	_	_	_
+6	MaltaSong	_	_	_	PROPN	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	il-	_	_	_	DET	_	_	_	_
+9	kanzunetta	_	_	_	N	_	_	_	_
+10	"	_	_	_	_	_	_	_	_
+11	I	_	_	_	_	_	_	_	_
+12	Do	_	_	_	_	_	_	_	_
+13	"	_	_	_	_	_	_	_	_
+14	ta'	_	_	_	ADP	_	_	_	_
+15	Fabrizio	_	_	_	PROPN	_	_	_	_
+16	Faniello	_	_	_	PROPN	_	_	_	_
+17	għamlet	_	_	_	V	_	_	_	_
+18	suċċess	_	_	_	N	_	_	_	_
+19	mal-	_	_	_	ADP	_	_	_	_
+20	Maltin	_	_	_	N	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = 49_03F09:62
+# text = Reno kien silifni ktieb tas-sensiela Teach Yourself u bdejt nitgħallmu waħdi.
+1	Reno	_	_	_	PROPN	_	_	_	_
+2	kien	_	_	_	V	_	_	_	_
+3	silifni	_	_	_	V	_	_	_	_
+4	ktieb	_	_	_	N	_	_	_	_
+5	tas-	_	_	_	ADP	_	_	_	_
+6	sensiela	_	_	_	N	_	_	_	_
+7	Teach	_	_	_	_	_	_	_	_
+8	Yourself	_	_	_	_	_	_	_	_
+9	u	_	_	_	CONJ	_	_	_	_
+10	bdejt	_	_	_	V	_	_	_	_
+11	nitgħallmu	_	_	_	V	_	_	_	_
+12	waħdi	_	_	_	ADV	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = 22_02J03:35
+# text = Għax minkejja li tkun għamilt ċerti testijiet qabel xorta ma tkunx taf x'se ssib.
+1	Għax	_	_	_	CONJ	_	_	_	_
+2	minkejja	_	_	_	ADP	_	_	_	_
+3	li	_	_	_	CONJ	_	_	_	_
+4	tkun	_	_	_	V	_	_	_	_
+5	għamilt	_	_	_	V	_	_	_	_
+6	ċerti	_	_	_	ADJ	_	_	_	_
+7	testijiet	_	_	_	N	_	_	_	_
+8	qabel	_	_	_	ADV	_	_	_	_
+9	xorta	_	_	_	N	_	_	_	_
+10	ma	_	_	_	PART	_	_	_	_
+11	tkunx	_	_	_	V	_	_	_	_
+12	taf	_	_	_	V	_	_	_	_
+13	x'	_	_	_	PRO	_	_	_	_
+14	se	_	_	_	V	_	_	_	_
+15	ssib	_	_	_	V	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = 46_02F08:16
+# text = Għalih il-facebook kien biss il-pont trasparenti mad-dinja Għarbija.
+1	Għalih	_	_	_	PRO	_	_	_	_
+2	il-	_	_	_	DET	_	_	_	_
+3	facebook	_	_	_	PROPN	_	_	_	_
+4	kien	_	_	_	V	_	_	_	_
+5	biss	_	_	_	ADV	_	_	_	_
+6	il-	_	_	_	DET	_	_	_	_
+7	pont	_	_	_	N	_	_	_	_
+8	trasparenti	_	_	_	ADJ	_	_	_	_
+9	mad-	_	_	_	ADP	_	_	_	_
+10	dinja	_	_	_	N	_	_	_	_
+11	Għarbija	_	_	_	ADJ	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = 46_02F08:17
+# text = Imma Eva kienet differenti.
+1	Imma	_	_	_	CONJ	_	_	_	_
+2	Eva	_	_	_	PROPN	_	_	_	_
+3	kienet	_	_	_	V	_	_	_	_
+4	differenti	_	_	_	ADJ	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = 22_02J03:124
+# text = Il-Professur jemmen li tul dawn l-aħħar snin Malta tilfet ħafna mill-valuri u hawn jiftaħ fuq realtà oħra soċjali: xebbiet li jispiċċaw irabbu tfal waħedhom barra ż-żwieġ.
+1	Il-	_	_	_	DET	_	_	_	_
+2	Professur	_	_	_	N	_	_	_	_
+3	jemmen	_	_	_	V	_	_	_	_
+4	li	_	_	_	CONJ	_	_	_	_
+5	tul	_	_	_	ADP	_	_	_	_
+6	dawn	_	_	_	PRO	_	_	_	_
+7	l-	_	_	_	DET	_	_	_	_
+8	aħħar	_	_	_	ADJ	_	_	_	_
+9	snin	_	_	_	N	_	_	_	_
+10	Malta	_	_	_	PROPN	_	_	_	_
+11	tilfet	_	_	_	V	_	_	_	_
+12	ħafna	_	_	_	DET	_	_	_	_
+13	mill-	_	_	_	ADP	_	_	_	_
+14	valuri	_	_	_	N	_	_	_	_
+15	u	_	_	_	CONJ	_	_	_	_
+16	hawn	_	_	_	ADV	_	_	_	_
+17	jiftaħ	_	_	_	V	_	_	_	_
+18	fuq	_	_	_	ADP	_	_	_	_
+19	realtà	_	_	_	N	_	_	_	_
+20	oħra	_	_	_	ADJ	_	_	_	_
+21	soċjali	_	_	_	ADJ	_	_	_	_
+22	:	_	_	_	_	_	_	_	_
+23	xebbiet	_	_	_	N	_	_	_	_
+24	li	_	_	_	CONJ	_	_	_	_
+25	jispiċċaw	_	_	_	V	_	_	_	_
+26	irabbu	_	_	_	V	_	_	_	_
+27	tfal	_	_	_	N	_	_	_	_
+28	waħedhom	_	_	_	ADV	_	_	_	_
+29	barra	_	_	_	ADP	_	_	_	_
+30	ż-	_	_	_	DET	_	_	_	_
+31	żwieġ	_	_	_	N	_	_	_	_
+32	.	_	_	_	_	_	_	_	_
+
+# sent_id = 30_01P05:180
+# text = ONOR. OWEN BONNICI:
+1	ONOR	_	_	_	N	_	_	_	_
+2	.	_	_	_	_	_	_	_	_
+3	OWEN	_	_	_	PROPN	_	_	_	_
+4	BONNICI	_	_	_	PROPN	_	_	_	_
+5	:	_	_	_	_	_	_	_	_
+
+# sent_id = 56_03N11:31
+# text = Noqogħdu attenti mix-xemx diretta tas-sajf għax is-sħana qawwija tista' tnixxef għal kollox il-weraq u meta jiġri ħekk il-pjanta kollha kemm hi tinxef.
+1	Noqogħdu	_	_	_	V	_	_	_	_
+2	attenti	_	_	_	ADJ	_	_	_	_
+3	mix-	_	_	_	ADP	_	_	_	_
+4	xemx	_	_	_	N	_	_	_	_
+5	diretta	_	_	_	ADJ	_	_	_	_
+6	tas-	_	_	_	ADP	_	_	_	_
+7	sajf	_	_	_	N	_	_	_	_
+8	għax	_	_	_	CONJ	_	_	_	_
+9	is-	_	_	_	DET	_	_	_	_
+10	sħana	_	_	_	N	_	_	_	_
+11	qawwija	_	_	_	ADJ	_	_	_	_
+12	tista'	_	_	_	V	_	_	_	_
+13	tnixxef	_	_	_	V	_	_	_	_
+14	għal	_	_	_	ADP	_	_	_	_
+15	kollox	_	_	_	PRO	_	_	_	_
+16	il-	_	_	_	DET	_	_	_	_
+17	weraq	_	_	_	N	_	_	_	_
+18	u	_	_	_	CONJ	_	_	_	_
+19	meta	_	_	_	CONJ	_	_	_	_
+20	jiġri	_	_	_	V	_	_	_	_
+21	ħekk	_	_	_	ADV	_	_	_	_
+22	il-	_	_	_	DET	_	_	_	_
+23	pjanta	_	_	_	N	_	_	_	_
+24	kollha	_	_	_	DET	_	_	_	_
+25	kemm	_	_	_	PRO	_	_	_	_
+26	hi	_	_	_	PRO	_	_	_	_
+27	tinxef	_	_	_	V	_	_	_	_
+28	.	_	_	_	_	_	_	_	_
+
+# sent_id = 17_04J02:41
+# text = Qalha b'ċajta iżda qalha.
+1	Qalha	_	_	_	V	_	_	_	_
+2	b'	_	_	_	ADP	_	_	_	_
+3	ċajta	_	_	_	N	_	_	_	_
+4	iżda	_	_	_	CONJ	_	_	_	_
+5	qalha	_	_	_	V	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = 30_01P05:141
+# text = Jiġifieri issa qegħdin nitkellmu fuq il-kuntratt, it-tħaddim tiegħu u l-proċeduri tiegħu; l-iskrutinju tal-kuntratt innifsu.
+1	Jiġifieri	_	_	_	V	_	_	_	_
+2	issa	_	_	_	ADV	_	_	_	_
+3	qegħdin	_	_	_	V	_	_	_	_
+4	nitkellmu	_	_	_	V	_	_	_	_
+5	fuq	_	_	_	ADP	_	_	_	_
+6	il-	_	_	_	DET	_	_	_	_
+7	kuntratt	_	_	_	N	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	it-	_	_	_	DET	_	_	_	_
+10	tħaddim	_	_	_	N	_	_	_	_
+11	tiegħu	_	_	_	PRO	_	_	_	_
+12	u	_	_	_	CONJ	_	_	_	_
+13	l-	_	_	_	DET	_	_	_	_
+14	proċeduri	_	_	_	N	_	_	_	_
+15	tiegħu	_	_	_	PRO	_	_	_	_
+16	;	_	_	_	_	_	_	_	_
+17	l-	_	_	_	DET	_	_	_	_
+18	iskrutinju	_	_	_	N	_	_	_	_
+19	tal-	_	_	_	ADP	_	_	_	_
+20	kuntratt	_	_	_	N	_	_	_	_
+21	innifsu	_	_	_	PRO	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# sent_id = 15_02J02:16
+# text = il-mument hu infurmat li fost dawk li fil-MLP jostakolaw il-ħidma ta' l-Uffiċċju Elettorali hemm persuni qrib is-Segretarju Ġenerali Laburista li anki kienu jipprotestaw minħabba l-ħlasijiet tas-sahra li kienu jingħataw lil xi persuni li kienu jaħdmu fl-Uffiċċju.
+1	il-	_	_	_	DET	_	_	_	_
+2	mument	_	_	_	N	_	_	_	_
+3	hu	_	_	_	PRO	_	_	_	_
+4	infurmat	_	_	_	V	_	_	_	_
+5	li	_	_	_	CONJ	_	_	_	_
+6	fost	_	_	_	ADP	_	_	_	_
+7	dawk	_	_	_	PRO	_	_	_	_
+8	li	_	_	_	CONJ	_	_	_	_
+9	fil-	_	_	_	ADP	_	_	_	_
+10	MLP	_	_	_	N	_	_	_	_
+11	jostakolaw	_	_	_	V	_	_	_	_
+12	il-	_	_	_	DET	_	_	_	_
+13	ħidma	_	_	_	N	_	_	_	_
+14	ta'	_	_	_	ADP	_	_	_	_
+15	l-	_	_	_	DET	_	_	_	_
+16	Uffiċċju	_	_	_	N	_	_	_	_
+17	Elettorali	_	_	_	ADJ	_	_	_	_
+18	hemm	_	_	_	V	_	_	_	_
+19	persuni	_	_	_	N	_	_	_	_
+20	qrib	_	_	_	ADP	_	_	_	_
+21	is-	_	_	_	DET	_	_	_	_
+22	Segretarju	_	_	_	N	_	_	_	_
+23	Ġenerali	_	_	_	ADJ	_	_	_	_
+24	Laburista	_	_	_	ADJ	_	_	_	_
+25	li	_	_	_	CONJ	_	_	_	_
+26	anki	_	_	_	ADV	_	_	_	_
+27	kienu	_	_	_	V	_	_	_	_
+28	jipprotestaw	_	_	_	V	_	_	_	_
+29	minħabba	_	_	_	ADP	_	_	_	_
+30	l-	_	_	_	DET	_	_	_	_
+31	ħlasijiet	_	_	_	N	_	_	_	_
+32	tas-	_	_	_	ADP	_	_	_	_
+33	sahra	_	_	_	N	_	_	_	_
+34	li	_	_	_	CONJ	_	_	_	_
+35	kienu	_	_	_	V	_	_	_	_
+36	jingħataw	_	_	_	V	_	_	_	_
+37	lil	_	_	_	ADP	_	_	_	_
+38	xi	_	_	_	DET	_	_	_	_
+39	persuni	_	_	_	N	_	_	_	_
+40	li	_	_	_	CONJ	_	_	_	_
+41	kienu	_	_	_	V	_	_	_	_
+42	jaħdmu	_	_	_	V	_	_	_	_
+43	fl-	_	_	_	ADP	_	_	_	_
+44	Uffiċċju	_	_	_	N	_	_	_	_
+45	.	_	_	_	_	_	_	_	_
+
+# sent_id = 45_07F09:2
+# text = Isem: Altaf Naifeh.
+1	Isem	_	_	_	N	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Altaf	_	_	_	PROPN	_	_	_	_
+4	Naifeh	_	_	_	PROPN	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = 22_02J03:101
+# text = Din għandha tkun imżewġa ma' wiċċ żagħżugħ.
+1	Din	_	_	_	PRO	_	_	_	_
+2	għandha	_	_	_	V	_	_	_	_
+3	tkun	_	_	_	V	_	_	_	_
+4	imżewġa	_	_	_	V	_	_	_	_
+5	ma'	_	_	_	ADP	_	_	_	_
+6	wiċċ	_	_	_	N	_	_	_	_
+7	żagħżugħ	_	_	_	N	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = 58_05N11:1
+# text = Materja skura
+1	Materja	_	_	_	N	_	_	_	_
+2	skura	_	_	_	ADJ	_	_	_	_
+
+# sent_id = 38_02P06:44
+# text = Issa tistgħu tgħidulna fuq liema xogħol qiegħed l-Onor. Josef Bonnici?
+1	Issa	_	_	_	ADV	_	_	_	_
+2	tistgħu	_	_	_	V	_	_	_	_
+3	tgħidulna	_	_	_	V	_	_	_	_
+4	fuq	_	_	_	ADP	_	_	_	_
+5	liema	_	_	_	PRO	_	_	_	_
+6	xogħol	_	_	_	N	_	_	_	_
+7	qiegħed	_	_	_	V	_	_	_	_
+8	l-	_	_	_	DET	_	_	_	_
+9	Onor	_	_	_	N	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+11	Josef	_	_	_	PROPN	_	_	_	_
+12	Bonnici	_	_	_	PROPN	_	_	_	_
+13	?	_	_	_	_	_	_	_	_
+
+# sent_id = 23b_04J03:27
+# text = "Dan hu li rrid nisma' u nara li qed jiġri fix-xena mużikali Maltija," saħaq Robert Abela li żied jikkummenta fuq dak li fisser bħala "bir wiesa' ta' talent kbir".
+1	"	_	_	_	_	_	_	_	_
+2	Dan	_	_	_	PRO	_	_	_	_
+3	hu	_	_	_	PRO	_	_	_	_
+4	li	_	_	_	CONJ	_	_	_	_
+5	rrid	_	_	_	V	_	_	_	_
+6	nisma'	_	_	_	V	_	_	_	_
+7	u	_	_	_	CONJ	_	_	_	_
+8	nara	_	_	_	V	_	_	_	_
+9	li	_	_	_	CONJ	_	_	_	_
+10	qed	_	_	_	V	_	_	_	_
+11	jiġri	_	_	_	V	_	_	_	_
+12	fix-	_	_	_	ADP	_	_	_	_
+13	xena	_	_	_	N	_	_	_	_
+14	mużikali	_	_	_	ADJ	_	_	_	_
+15	Maltija	_	_	_	ADJ	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	"	_	_	_	_	_	_	_	_
+18	saħaq	_	_	_	V	_	_	_	_
+19	Robert	_	_	_	PROPN	_	_	_	_
+20	Abela	_	_	_	PROPN	_	_	_	_
+21	li	_	_	_	CONJ	_	_	_	_
+22	żied	_	_	_	V	_	_	_	_
+23	jikkummenta	_	_	_	V	_	_	_	_
+24	fuq	_	_	_	ADP	_	_	_	_
+25	dak	_	_	_	PRO	_	_	_	_
+26	li	_	_	_	CONJ	_	_	_	_
+27	fisser	_	_	_	V	_	_	_	_
+28	bħala	_	_	_	ADP	_	_	_	_
+29	"	_	_	_	_	_	_	_	_
+30	bir	_	_	_	N	_	_	_	_
+31	wiesa'	_	_	_	V	_	_	_	_
+32	ta'	_	_	_	ADP	_	_	_	_
+33	talent	_	_	_	N	_	_	_	_
+34	kbir	_	_	_	ADJ	_	_	_	_
+35	"	_	_	_	_	_	_	_	_
+36	.	_	_	_	_	_	_	_	_
+
+# sent_id = 43_05F08:4
+# text = Kienet l-akbar għadu tiegħi.
+1	Kienet	_	_	_	V	_	_	_	_
+2	l-	_	_	_	DET	_	_	_	_
+3	akbar	_	_	_	ADJ	_	_	_	_
+4	għadu	_	_	_	V	_	_	_	_
+5	tiegħi	_	_	_	PRO	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = 19_06J02:7
+# text = Smajna wkoll li mal-bidu ta' l-istaġun tat-turiżmu, f'Ġunju, l-istatistika diġà wriet li kien hemm aktar tnaqqis fit-turisti li għaddew mill-ajruport.
+1	Smajna	_	_	_	V	_	_	_	_
+2	wkoll	_	_	_	ADV	_	_	_	_
+3	li	_	_	_	CONJ	_	_	_	_
+4	mal-	_	_	_	ADP	_	_	_	_
+5	bidu	_	_	_	N	_	_	_	_
+6	ta'	_	_	_	ADP	_	_	_	_
+7	l-	_	_	_	DET	_	_	_	_
+8	istaġun	_	_	_	N	_	_	_	_
+9	tat-	_	_	_	ADP	_	_	_	_
+10	turiżmu	_	_	_	N	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	f'	_	_	_	ADP	_	_	_	_
+13	Ġunju	_	_	_	PROPN	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	l-	_	_	_	DET	_	_	_	_
+16	istatistika	_	_	_	N	_	_	_	_
+17	diġà	_	_	_	ADV	_	_	_	_
+18	wriet	_	_	_	V	_	_	_	_
+19	li	_	_	_	CONJ	_	_	_	_
+20	kien	_	_	_	V	_	_	_	_
+21	hemm	_	_	_	V	_	_	_	_
+22	aktar	_	_	_	ADJ	_	_	_	_
+23	tnaqqis	_	_	_	N	_	_	_	_
+24	fit-	_	_	_	ADP	_	_	_	_
+25	turisti	_	_	_	N	_	_	_	_
+26	li	_	_	_	CONJ	_	_	_	_
+27	għaddew	_	_	_	V	_	_	_	_
+28	mill-	_	_	_	ADP	_	_	_	_
+29	ajruport	_	_	_	N	_	_	_	_
+30	.	_	_	_	_	_	_	_	_
+
+# sent_id = 56_03N11:17
+# text = Il-weraq ikun jidher f'saħħtu u wieqaf sewwa, mhux immantar u mniżżel 'l isfel.
+1	Il-	_	_	_	DET	_	_	_	_
+2	weraq	_	_	_	N	_	_	_	_
+3	ikun	_	_	_	V	_	_	_	_
+4	jidher	_	_	_	V	_	_	_	_
+5	f'	_	_	_	ADP	_	_	_	_
+6	saħħtu	_	_	_	N	_	_	_	_
+7	u	_	_	_	CONJ	_	_	_	_
+8	wieqaf	_	_	_	V	_	_	_	_
+9	sewwa	_	_	_	ADV	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	mhux	_	_	_	PART	_	_	_	_
+12	immantar	_	_	_	V	_	_	_	_
+13	u	_	_	_	CONJ	_	_	_	_
+14	mniżżel	_	_	_	V	_	_	_	_
+15	'l	_	_	_	ADP	_	_	_	_
+16	isfel	_	_	_	ADV	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = 44_06F09:13
+# text = It-tavolina tal-ħġieġ li kien hemm fuqu kienet maqsuma b'daqqa ta' xi ħaġa iebsa u ċappa mudullun lewn il-kremżi mwaħħla magħha.
+1	It-	_	_	_	DET	_	_	_	_
+2	tavolina	_	_	_	N	_	_	_	_
+3	tal-	_	_	_	ADP	_	_	_	_
+4	ħġieġ	_	_	_	N	_	_	_	_
+5	li	_	_	_	CONJ	_	_	_	_
+6	kien	_	_	_	V	_	_	_	_
+7	hemm	_	_	_	V	_	_	_	_
+8	fuqu	_	_	_	PRO	_	_	_	_
+9	kienet	_	_	_	V	_	_	_	_
+10	maqsuma	_	_	_	V	_	_	_	_
+11	b'	_	_	_	ADP	_	_	_	_
+12	daqqa	_	_	_	N	_	_	_	_
+13	ta'	_	_	_	ADP	_	_	_	_
+14	xi	_	_	_	DET	_	_	_	_
+15	ħaġa	_	_	_	N	_	_	_	_
+16	iebsa	_	_	_	ADJ	_	_	_	_
+17	u	_	_	_	CONJ	_	_	_	_
+18	ċappa	_	_	_	N	_	_	_	_
+19	mudullun	_	_	_	N	_	_	_	_
+20	lewn	_	_	_	N	_	_	_	_
+21	il-	_	_	_	DET	_	_	_	_
+22	kremżi	_	_	_	N	_	_	_	_
+23	mwaħħla	_	_	_	V	_	_	_	_
+24	magħha	_	_	_	PRO	_	_	_	_
+25	.	_	_	_	_	_	_	_	_
+
+# sent_id = 41_03F08:3
+# text = Kienet xebba u bla tfal.
+1	Kienet	_	_	_	V	_	_	_	_
+2	xebba	_	_	_	N	_	_	_	_
+3	u	_	_	_	CONJ	_	_	_	_
+4	bla	_	_	_	ADP	_	_	_	_
+5	tfal	_	_	_	N	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = 22_02J03:39
+# text = Xi jwieġeb għall-kritika li ssirlu li rikeb fuq il-mewġa ta' din l-operazzjoni u grazzi għaliha tela' fil-Parlament?
+1	Xi	_	_	_	PRO	_	_	_	_
+2	jwieġeb	_	_	_	V	_	_	_	_
+3	għall-	_	_	_	ADP	_	_	_	_
+4	kritika	_	_	_	N	_	_	_	_
+5	li	_	_	_	CONJ	_	_	_	_
+6	ssirlu	_	_	_	V	_	_	_	_
+7	li	_	_	_	CONJ	_	_	_	_
+8	rikeb	_	_	_	V	_	_	_	_
+9	fuq	_	_	_	ADP	_	_	_	_
+10	il-	_	_	_	DET	_	_	_	_
+11	mewġa	_	_	_	N	_	_	_	_
+12	ta'	_	_	_	ADP	_	_	_	_
+13	din	_	_	_	PRO	_	_	_	_
+14	l-	_	_	_	DET	_	_	_	_
+15	operazzjoni	_	_	_	N	_	_	_	_
+16	u	_	_	_	CONJ	_	_	_	_
+17	grazzi	_	_	_	INTJ	_	_	_	_
+18	għaliha	_	_	_	PRO	_	_	_	_
+19	tela'	_	_	_	V	_	_	_	_
+20	fil-	_	_	_	ADP	_	_	_	_
+21	Parlament	_	_	_	N	_	_	_	_
+22	?	_	_	_	_	_	_	_	_
+
+# sent_id = 50_01N10:111
+# text = Terġa' u tgħid, iż-żmien għandu ħabta jbiddel it-tifsira taghom; ir-ritratti mitfija, imkemmxin jew imqasqsin ibagħbsu r-realtà ta' darba.
+1	Terġa'	_	_	_	V	_	_	_	_
+2	u	_	_	_	CONJ	_	_	_	_
+3	tgħid	_	_	_	V	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	iż-	_	_	_	DET	_	_	_	_
+6	żmien	_	_	_	N	_	_	_	_
+7	għandu	_	_	_	V	_	_	_	_
+8	ħabta	_	_	_	N	_	_	_	_
+9	jbiddel	_	_	_	V	_	_	_	_
+10	it-	_	_	_	DET	_	_	_	_
+11	tifsira	_	_	_	N	_	_	_	_
+12	taghom	_	_	_	V	_	_	_	_
+13	;	_	_	_	_	_	_	_	_
+14	ir-	_	_	_	DET	_	_	_	_
+15	ritratti	_	_	_	N	_	_	_	_
+16	mitfija	_	_	_	V	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	imkemmxin	_	_	_	V	_	_	_	_
+19	jew	_	_	_	CONJ	_	_	_	_
+20	imqasqsin	_	_	_	V	_	_	_	_
+21	ibagħbsu	_	_	_	V	_	_	_	_
+22	r-	_	_	_	DET	_	_	_	_
+23	realtà	_	_	_	N	_	_	_	_
+24	ta'	_	_	_	ADP	_	_	_	_
+25	darba	_	_	_	N	_	_	_	_
+26	.	_	_	_	_	_	_	_	_
+
+# sent_id = 48_02F09:9
+# text = Li kieku Erica kellha tkun imgħarrfa b'dawn iċ-ċirkustanzi minn qabel, kieku x'aktarx li kienet tieħu kollox biċ-ċajt għax dak iż-żmien kienet taħseb li tista' tinħamel ma' kull għamla ta' ħsejjes, imqar dawk mhux maħluqa minnha.
+1	Li	_	_	_	CONJ	_	_	_	_
+2	kieku	_	_	_	CONJ	_	_	_	_
+3	Erica	_	_	_	PROPN	_	_	_	_
+4	kellha	_	_	_	V	_	_	_	_
+5	tkun	_	_	_	V	_	_	_	_
+6	imgħarrfa	_	_	_	V	_	_	_	_
+7	b'	_	_	_	ADP	_	_	_	_
+8	dawn	_	_	_	PRO	_	_	_	_
+9	iċ-	_	_	_	DET	_	_	_	_
+10	ċirkustanzi	_	_	_	N	_	_	_	_
+11	minn	_	_	_	ADP	_	_	_	_
+12	qabel	_	_	_	ADV	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	kieku	_	_	_	CONJ	_	_	_	_
+15	x'	_	_	_	PRO	_	_	_	_
+16	aktarx	_	_	_	ADV	_	_	_	_
+17	li	_	_	_	CONJ	_	_	_	_
+18	kienet	_	_	_	V	_	_	_	_
+19	tieħu	_	_	_	V	_	_	_	_
+20	kollox	_	_	_	PRO	_	_	_	_
+21	biċ-	_	_	_	ADP	_	_	_	_
+22	ċajt	_	_	_	N	_	_	_	_
+23	għax	_	_	_	CONJ	_	_	_	_
+24	dak	_	_	_	PRO	_	_	_	_
+25	iż-	_	_	_	DET	_	_	_	_
+26	żmien	_	_	_	N	_	_	_	_
+27	kienet	_	_	_	V	_	_	_	_
+28	taħseb	_	_	_	V	_	_	_	_
+29	li	_	_	_	CONJ	_	_	_	_
+30	tista'	_	_	_	V	_	_	_	_
+31	tinħamel	_	_	_	V	_	_	_	_
+32	ma'	_	_	_	ADP	_	_	_	_
+33	kull	_	_	_	DET	_	_	_	_
+34	għamla	_	_	_	N	_	_	_	_
+35	ta'	_	_	_	ADP	_	_	_	_
+36	ħsejjes	_	_	_	N	_	_	_	_
+37	,	_	_	_	_	_	_	_	_
+38	imqar	_	_	_	ADV	_	_	_	_
+39	dawk	_	_	_	PRO	_	_	_	_
+40	mhux	_	_	_	PART	_	_	_	_
+41	maħluqa	_	_	_	V	_	_	_	_
+42	minnha	_	_	_	PRO	_	_	_	_
+43	.	_	_	_	_	_	_	_	_
+
+# sent_id = 48_02F09:7
+# text = Fl-appartament ċkejken ġol-qalba tal-belt il-ġdida l-kampanja naturali tinħass 'il bogħod u s-sikta mixtieqa tinsab mirfuda biss mill-qawwa ta' l-illużjoni.
+1	Fl-	_	_	_	ADP	_	_	_	_
+2	appartament	_	_	_	N	_	_	_	_
+3	ċkejken	_	_	_	ADJ	_	_	_	_
+4	ġol-	_	_	_	ADP	_	_	_	_
+5	qalba	_	_	_	N	_	_	_	_
+6	tal-	_	_	_	ADP	_	_	_	_
+7	belt	_	_	_	N	_	_	_	_
+8	il-	_	_	_	DET	_	_	_	_
+9	ġdida	_	_	_	ADJ	_	_	_	_
+10	l-	_	_	_	DET	_	_	_	_
+11	kampanja	_	_	_	N	_	_	_	_
+12	naturali	_	_	_	ADJ	_	_	_	_
+13	tinħass	_	_	_	V	_	_	_	_
+14	'il	_	_	_	ADP	_	_	_	_
+15	bogħod	_	_	_	N	_	_	_	_
+16	u	_	_	_	CONJ	_	_	_	_
+17	s-	_	_	_	DET	_	_	_	_
+18	sikta	_	_	_	N	_	_	_	_
+19	mixtieqa	_	_	_	V	_	_	_	_
+20	tinsab	_	_	_	V	_	_	_	_
+21	mirfuda	_	_	_	V	_	_	_	_
+22	biss	_	_	_	ADV	_	_	_	_
+23	mill-	_	_	_	ADP	_	_	_	_
+24	qawwa	_	_	_	N	_	_	_	_
+25	ta'	_	_	_	ADP	_	_	_	_
+26	l-	_	_	_	DET	_	_	_	_
+27	illużjoni	_	_	_	N	_	_	_	_
+28	.	_	_	_	_	_	_	_	_
+
+# sent_id = 10_10J01:20
+# text = Mitlub jikkummenta dwar jekk il-bini ta' din it-tunnel jistax jaffettwa l-fawna tal-baħar, huwa wieġeb li " l-istudju ambjentali li se jsir għandu jistabbilixxi proġett bħal dan x'effett jista' jkollu fuq l-ambjent marittimu.
+1	Mitlub	_	_	_	V	_	_	_	_
+2	jikkummenta	_	_	_	V	_	_	_	_
+3	dwar	_	_	_	ADP	_	_	_	_
+4	jekk	_	_	_	CONJ	_	_	_	_
+5	il-	_	_	_	DET	_	_	_	_
+6	bini	_	_	_	N	_	_	_	_
+7	ta'	_	_	_	ADP	_	_	_	_
+8	din	_	_	_	PRO	_	_	_	_
+9	it-	_	_	_	DET	_	_	_	_
+10	tunnel	_	_	_	N	_	_	_	_
+11	jistax	_	_	_	V	_	_	_	_
+12	jaffettwa	_	_	_	V	_	_	_	_
+13	l-	_	_	_	DET	_	_	_	_
+14	fawna	_	_	_	N	_	_	_	_
+15	tal-	_	_	_	ADP	_	_	_	_
+16	baħar	_	_	_	N	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	huwa	_	_	_	PRO	_	_	_	_
+19	wieġeb	_	_	_	V	_	_	_	_
+20	li	_	_	_	CONJ	_	_	_	_
+21	"	_	_	_	_	_	_	_	_
+22	l-	_	_	_	DET	_	_	_	_
+23	istudju	_	_	_	N	_	_	_	_
+24	ambjentali	_	_	_	ADJ	_	_	_	_
+25	li	_	_	_	CONJ	_	_	_	_
+26	se	_	_	_	V	_	_	_	_
+27	jsir	_	_	_	V	_	_	_	_
+28	għandu	_	_	_	V	_	_	_	_
+29	jistabbilixxi	_	_	_	V	_	_	_	_
+30	proġett	_	_	_	N	_	_	_	_
+31	bħal	_	_	_	ADP	_	_	_	_
+32	dan	_	_	_	PRO	_	_	_	_
+33	x'	_	_	_	PRO	_	_	_	_
+34	effett	_	_	_	N	_	_	_	_
+35	jista'	_	_	_	V	_	_	_	_
+36	jkollu	_	_	_	V	_	_	_	_
+37	fuq	_	_	_	ADP	_	_	_	_
+38	l-	_	_	_	DET	_	_	_	_
+39	ambjent	_	_	_	N	_	_	_	_
+40	marittimu	_	_	_	ADJ	_	_	_	_
+41	.	_	_	_	_	_	_	_	_
+
+# sent_id = 30_01P05:154
+# text = Li għamilt jien hu li għaddejt kopja ta' dan il-kuntratt, lill-Onor. Fenech.
+1	Li	_	_	_	CONJ	_	_	_	_
+2	għamilt	_	_	_	V	_	_	_	_
+3	jien	_	_	_	PRO	_	_	_	_
+4	hu	_	_	_	PRO	_	_	_	_
+5	li	_	_	_	CONJ	_	_	_	_
+6	għaddejt	_	_	_	V	_	_	_	_
+7	kopja	_	_	_	N	_	_	_	_
+8	ta'	_	_	_	ADP	_	_	_	_
+9	dan	_	_	_	PRO	_	_	_	_
+10	il-	_	_	_	DET	_	_	_	_
+11	kuntratt	_	_	_	N	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	lill-	_	_	_	ADP	_	_	_	_
+14	Onor	_	_	_	N	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+16	Fenech	_	_	_	PROPN	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = 43_05F08:14
+# text = Fl-aħħar Rebecca wrietni libsa ħafifa kollha frilli.
+1	Fl-	_	_	_	ADP	_	_	_	_
+2	aħħar	_	_	_	N	_	_	_	_
+3	Rebecca	_	_	_	PROPN	_	_	_	_
+4	wrietni	_	_	_	V	_	_	_	_
+5	libsa	_	_	_	N	_	_	_	_
+6	ħafifa	_	_	_	ADJ	_	_	_	_
+7	kollha	_	_	_	DET	_	_	_	_
+8	frilli	_	_	_	N	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = 55_02N11:54
+# text = Jikkonsistu f'sett u operazzjoni binarja magħluqa, imma ma jissodisfawx il-kondizzjonijiet l-oħra neċessarjament.
+1	Jikkonsistu	_	_	_	V	_	_	_	_
+2	f'	_	_	_	ADP	_	_	_	_
+3	sett	_	_	_	N	_	_	_	_
+4	u	_	_	_	CONJ	_	_	_	_
+5	operazzjoni	_	_	_	N	_	_	_	_
+6	binarja	_	_	_	ADJ	_	_	_	_
+7	magħluqa	_	_	_	V	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	imma	_	_	_	CONJ	_	_	_	_
+10	ma	_	_	_	PART	_	_	_	_
+11	jissodisfawx	_	_	_	V	_	_	_	_
+12	il-	_	_	_	DET	_	_	_	_
+13	kondizzjonijiet	_	_	_	N	_	_	_	_
+14	l-	_	_	_	DET	_	_	_	_
+15	oħra	_	_	_	ADJ	_	_	_	_
+16	neċessarjament	_	_	_	ADV	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = 38_02P06:55
+# text = (Interruzzjonijiet) Lili ħadd m'hu qed jirrispondini, allavolja qed inkun prudenti fil-mistoqsijiet li nagħmel.
+1	(	_	_	_	_	_	_	_	_
+2	Interruzzjonijiet	_	_	_	N	_	_	_	_
+3	)	_	_	_	_	_	_	_	_
+4	Lili	_	_	_	PRO	_	_	_	_
+5	ħadd	_	_	_	PRO	_	_	_	_
+6	m'	_	_	_	PART	_	_	_	_
+7	hu	_	_	_	PRO	_	_	_	_
+8	qed	_	_	_	V	_	_	_	_
+9	jirrispondini	_	_	_	V	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	allavolja	_	_	_	CONJ	_	_	_	_
+12	qed	_	_	_	V	_	_	_	_
+13	inkun	_	_	_	V	_	_	_	_
+14	prudenti	_	_	_	ADJ	_	_	_	_
+15	fil-	_	_	_	ADP	_	_	_	_
+16	mistoqsijiet	_	_	_	N	_	_	_	_
+17	li	_	_	_	CONJ	_	_	_	_
+18	nagħmel	_	_	_	V	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = 49_03F09:48
+# text = Hekk kont smajt għall-ewwel darba l-Ħames Sinfonija ta' Beethoven, fil-klassi tiegħi matul il-brejk, b'Reno b'subgħajh lesti fuq il-buttuna tal-pause biex meta jidhirlu jwaqqaf il-mużika u jikkummentali dwar dak li jkun ġej.
+1	Hekk	_	_	_	ADV	_	_	_	_
+2	kont	_	_	_	V	_	_	_	_
+3	smajt	_	_	_	V	_	_	_	_
+4	għall-	_	_	_	ADP	_	_	_	_
+5	ewwel	_	_	_	NUM	_	_	_	_
+6	darba	_	_	_	N	_	_	_	_
+7	l-	_	_	_	DET	_	_	_	_
+8	Ħames	_	_	_	NUM	_	_	_	_
+9	Sinfonija	_	_	_	N	_	_	_	_
+10	ta'	_	_	_	ADP	_	_	_	_
+11	Beethoven	_	_	_	PROPN	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	fil-	_	_	_	ADP	_	_	_	_
+14	klassi	_	_	_	N	_	_	_	_
+15	tiegħi	_	_	_	PRO	_	_	_	_
+16	matul	_	_	_	ADP	_	_	_	_
+17	il-	_	_	_	DET	_	_	_	_
+18	brejk	_	_	_	N	_	_	_	_
+19	,	_	_	_	_	_	_	_	_
+20	b'	_	_	_	ADP	_	_	_	_
+21	Reno	_	_	_	PROPN	_	_	_	_
+22	b'	_	_	_	ADP	_	_	_	_
+23	subgħajh	_	_	_	N	_	_	_	_
+24	lesti	_	_	_	ADJ	_	_	_	_
+25	fuq	_	_	_	ADP	_	_	_	_
+26	il-	_	_	_	DET	_	_	_	_
+27	buttuna	_	_	_	N	_	_	_	_
+28	tal-	_	_	_	ADP	_	_	_	_
+29	pause	_	_	_	N	_	_	_	_
+30	biex	_	_	_	CONJ	_	_	_	_
+31	meta	_	_	_	CONJ	_	_	_	_
+32	jidhirlu	_	_	_	V	_	_	_	_
+33	jwaqqaf	_	_	_	V	_	_	_	_
+34	il-	_	_	_	DET	_	_	_	_
+35	mużika	_	_	_	N	_	_	_	_
+36	u	_	_	_	CONJ	_	_	_	_
+37	jikkummentali	_	_	_	V	_	_	_	_
+38	dwar	_	_	_	ADP	_	_	_	_
+39	dak	_	_	_	PRO	_	_	_	_
+40	li	_	_	_	CONJ	_	_	_	_
+41	jkun	_	_	_	V	_	_	_	_
+42	ġej	_	_	_	V	_	_	_	_
+43	.	_	_	_	_	_	_	_	_
+
+# sent_id = 48_02F09:63
+# text = Għalkemm ma kinitx żgura jekk ir-raġel li għażlet għaliha kellux jippersevera jew le fl-impjieg li sab, u forsi jerġa' kollox għal li kien, din id-darba wiegħdet lilha nnifisha li ma tilħaq ebda kompromess miegħu.
+1	Għalkemm	_	_	_	CONJ	_	_	_	_
+2	ma	_	_	_	PART	_	_	_	_
+3	kinitx	_	_	_	V	_	_	_	_
+4	żgura	_	_	_	ADJ	_	_	_	_
+5	jekk	_	_	_	CONJ	_	_	_	_
+6	ir-	_	_	_	DET	_	_	_	_
+7	raġel	_	_	_	N	_	_	_	_
+8	li	_	_	_	CONJ	_	_	_	_
+9	għażlet	_	_	_	V	_	_	_	_
+10	għaliha	_	_	_	PRO	_	_	_	_
+11	kellux	_	_	_	V	_	_	_	_
+12	jippersevera	_	_	_	V	_	_	_	_
+13	jew	_	_	_	CONJ	_	_	_	_
+14	le	_	_	_	INTJ	_	_	_	_
+15	fl-	_	_	_	ADP	_	_	_	_
+16	impjieg	_	_	_	N	_	_	_	_
+17	li	_	_	_	CONJ	_	_	_	_
+18	sab	_	_	_	V	_	_	_	_
+19	,	_	_	_	_	_	_	_	_
+20	u	_	_	_	CONJ	_	_	_	_
+21	forsi	_	_	_	ADV	_	_	_	_
+22	jerġa'	_	_	_	V	_	_	_	_
+23	kollox	_	_	_	PRO	_	_	_	_
+24	għal	_	_	_	ADP	_	_	_	_
+25	li	_	_	_	CONJ	_	_	_	_
+26	kien	_	_	_	V	_	_	_	_
+27	,	_	_	_	_	_	_	_	_
+28	din	_	_	_	PRO	_	_	_	_
+29	id-	_	_	_	DET	_	_	_	_
+30	darba	_	_	_	N	_	_	_	_
+31	wiegħdet	_	_	_	V	_	_	_	_
+32	lilha	_	_	_	PRO	_	_	_	_
+33	nnifisha	_	_	_	PRO	_	_	_	_
+34	li	_	_	_	CONJ	_	_	_	_
+35	ma	_	_	_	PART	_	_	_	_
+36	tilħaq	_	_	_	V	_	_	_	_
+37	ebda	_	_	_	DET	_	_	_	_
+38	kompromess	_	_	_	N	_	_	_	_
+39	miegħu	_	_	_	PRO	_	_	_	_
+40	.	_	_	_	_	_	_	_	_
+
+# sent_id = 03_03J01:4
+# text = Skont informazzjoni żvelata mill-harġa ta' din il-ġimgha tal-gazzetta Il-Mument, issa anke nies li jattendu għal-laqgħat tal-core group ta' Muscat qed jistaqsu fil-miftuħ x'qed iwassal biex il-Mexxej Laburista qed jidher il-ħin kollu li qed iċedi għall-pressjoni ta' Jason Micallef.
+1	Skont	_	_	_	ADP	_	_	_	_
+2	informazzjoni	_	_	_	N	_	_	_	_
+3	żvelata	_	_	_	V	_	_	_	_
+4	mill-	_	_	_	ADP	_	_	_	_
+5	harġa	_	_	_	N	_	_	_	_
+6	ta'	_	_	_	ADP	_	_	_	_
+7	din	_	_	_	PRO	_	_	_	_
+8	il-	_	_	_	DET	_	_	_	_
+9	ġimgha	_	_	_	N	_	_	_	_
+10	tal-	_	_	_	ADP	_	_	_	_
+11	gazzetta	_	_	_	N	_	_	_	_
+12	Il-	_	_	_	DET	_	_	_	_
+13	Mument	_	_	_	N	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	issa	_	_	_	ADV	_	_	_	_
+16	anke	_	_	_	ADV	_	_	_	_
+17	nies	_	_	_	N	_	_	_	_
+18	li	_	_	_	CONJ	_	_	_	_
+19	jattendu	_	_	_	V	_	_	_	_
+20	għal-	_	_	_	ADP	_	_	_	_
+21	laqgħat	_	_	_	N	_	_	_	_
+22	tal-	_	_	_	ADP	_	_	_	_
+23	core	_	_	_	ADJ	_	_	_	_
+24	group	_	_	_	N	_	_	_	_
+25	ta'	_	_	_	ADP	_	_	_	_
+26	Muscat	_	_	_	PROPN	_	_	_	_
+27	qed	_	_	_	V	_	_	_	_
+28	jistaqsu	_	_	_	V	_	_	_	_
+29	fil-	_	_	_	ADP	_	_	_	_
+30	miftuħ	_	_	_	V	_	_	_	_
+31	x'	_	_	_	PRO	_	_	_	_
+32	qed	_	_	_	V	_	_	_	_
+33	iwassal	_	_	_	V	_	_	_	_
+34	biex	_	_	_	CONJ	_	_	_	_
+35	il-	_	_	_	DET	_	_	_	_
+36	Mexxej	_	_	_	N	_	_	_	_
+37	Laburista	_	_	_	ADJ	_	_	_	_
+38	qed	_	_	_	V	_	_	_	_
+39	jidher	_	_	_	V	_	_	_	_
+40	il-	_	_	_	DET	_	_	_	_
+41	ħin	_	_	_	N	_	_	_	_
+42	kollu	_	_	_	DET	_	_	_	_
+43	li	_	_	_	CONJ	_	_	_	_
+44	qed	_	_	_	V	_	_	_	_
+45	iċedi	_	_	_	V	_	_	_	_
+46	għall-	_	_	_	ADP	_	_	_	_
+47	pressjoni	_	_	_	N	_	_	_	_
+48	ta'	_	_	_	ADP	_	_	_	_
+49	Jason	_	_	_	PROPN	_	_	_	_
+50	Micallef	_	_	_	PROPN	_	_	_	_
+51	.	_	_	_	_	_	_	_	_
+
+# sent_id = 30_01P05:16
+# text = Il-Minuti tal-Laqgħa ġew konfermati.
+1	Il-	_	_	_	DET	_	_	_	_
+2	Minuti	_	_	_	N	_	_	_	_
+3	tal-	_	_	_	ADP	_	_	_	_
+4	Laqgħa	_	_	_	N	_	_	_	_
+5	ġew	_	_	_	V	_	_	_	_
+6	konfermati	_	_	_	V	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = 15_02J02:15
+# text = Minbarra dan, fil-Konfernza Ġenerali qabel l-aħħar elezzjoni ġenerali, Michael Falzon ukoll kien irrifera għad-diskors li jsir fil-MLP dwar l-Uffiċċju Elettorali Laburista.
+1	Minbarra	_	_	_	ADP	_	_	_	_
+2	dan	_	_	_	PRO	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	fil-	_	_	_	ADP	_	_	_	_
+5	Konfernza	_	_	_	N	_	_	_	_
+6	Ġenerali	_	_	_	ADJ	_	_	_	_
+7	qabel	_	_	_	ADP	_	_	_	_
+8	l-	_	_	_	DET	_	_	_	_
+9	aħħar	_	_	_	ADJ	_	_	_	_
+10	elezzjoni	_	_	_	N	_	_	_	_
+11	ġenerali	_	_	_	ADJ	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	Michael	_	_	_	PROPN	_	_	_	_
+14	Falzon	_	_	_	PROPN	_	_	_	_
+15	ukoll	_	_	_	ADV	_	_	_	_
+16	kien	_	_	_	V	_	_	_	_
+17	irrifera	_	_	_	V	_	_	_	_
+18	għad-	_	_	_	ADP	_	_	_	_
+19	diskors	_	_	_	N	_	_	_	_
+20	li	_	_	_	CONJ	_	_	_	_
+21	jsir	_	_	_	V	_	_	_	_
+22	fil-	_	_	_	ADP	_	_	_	_
+23	MLP	_	_	_	N	_	_	_	_
+24	dwar	_	_	_	ADP	_	_	_	_
+25	l-	_	_	_	DET	_	_	_	_
+26	Uffiċċju	_	_	_	N	_	_	_	_
+27	Elettorali	_	_	_	ADJ	_	_	_	_
+28	Laburista	_	_	_	ADJ	_	_	_	_
+29	.	_	_	_	_	_	_	_	_
+
+# sent_id = 22_02J03:33
+# text = Kif iħares lejn il-fatt li taħt idejh kellu lill-Kap ta' l-Oppożizzjoni?
+1	Kif	_	_	_	PRO	_	_	_	_
+2	iħares	_	_	_	V	_	_	_	_
+3	lejn	_	_	_	ADP	_	_	_	_
+4	il-	_	_	_	DET	_	_	_	_
+5	fatt	_	_	_	N	_	_	_	_
+6	li	_	_	_	CONJ	_	_	_	_
+7	taħt	_	_	_	ADP	_	_	_	_
+8	idejh	_	_	_	N	_	_	_	_
+9	kellu	_	_	_	V	_	_	_	_
+10	lill-	_	_	_	ADP	_	_	_	_
+11	Kap	_	_	_	N	_	_	_	_
+12	ta'	_	_	_	ADP	_	_	_	_
+13	l-	_	_	_	DET	_	_	_	_
+14	Oppożizzjoni	_	_	_	N	_	_	_	_
+15	?	_	_	_	_	_	_	_	_
+
+# sent_id = 47_01F09:76
+# text = "Morru u terġgħux tiġu 'l hawn."
+1	"	_	_	_	_	_	_	_	_
+2	Morru	_	_	_	V	_	_	_	_
+3	u	_	_	_	CONJ	_	_	_	_
+4	terġgħux	_	_	_	V	_	_	_	_
+5	tiġu	_	_	_	V	_	_	_	_
+6	'l	_	_	_	ADP	_	_	_	_
+7	hawn	_	_	_	ADV	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+9	"	_	_	_	_	_	_	_	_
+
+# sent_id = 49_03F09:38
+# text = Reno Caruana
+1	Reno	_	_	_	PROPN	_	_	_	_
+2	Caruana	_	_	_	PROPN	_	_	_	_
+
+# sent_id = 50_01N10:99
+# text = Xi studjużi tal-paranormali jemmnu li l-erwieħ tal-mejtin għandek mnejn issibhom iħufu fl-imkejjen fejn ikun hemm ir-ritratti jew ix-xbihat tagħhom.
+1	Xi	_	_	_	DET	_	_	_	_
+2	studjużi	_	_	_	N	_	_	_	_
+3	tal-	_	_	_	ADP	_	_	_	_
+4	paranormali	_	_	_	N	_	_	_	_
+5	jemmnu	_	_	_	V	_	_	_	_
+6	li	_	_	_	CONJ	_	_	_	_
+7	l-	_	_	_	DET	_	_	_	_
+8	erwieħ	_	_	_	N	_	_	_	_
+9	tal-	_	_	_	ADP	_	_	_	_
+10	mejtin	_	_	_	V	_	_	_	_
+11	għandek	_	_	_	V	_	_	_	_
+12	mnejn	_	_	_	PRO	_	_	_	_
+13	issibhom	_	_	_	V	_	_	_	_
+14	iħufu	_	_	_	V	_	_	_	_
+15	fl-	_	_	_	ADP	_	_	_	_
+16	imkejjen	_	_	_	N	_	_	_	_
+17	fejn	_	_	_	PRO	_	_	_	_
+18	ikun	_	_	_	V	_	_	_	_
+19	hemm	_	_	_	V	_	_	_	_
+20	ir-	_	_	_	DET	_	_	_	_
+21	ritratti	_	_	_	N	_	_	_	_
+22	jew	_	_	_	CONJ	_	_	_	_
+23	ix-	_	_	_	DET	_	_	_	_
+24	xbihat	_	_	_	N	_	_	_	_
+25	tagħhom	_	_	_	PRO	_	_	_	_
+26	.	_	_	_	_	_	_	_	_
+
+# sent_id = 46_02F08:28
+# text = Ovvja li m'emminx.
+1	Ovvja	_	_	_	ADJ	_	_	_	_
+2	li	_	_	_	CONJ	_	_	_	_
+3	m'	_	_	_	PART	_	_	_	_
+4	emminx	_	_	_	V	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = 22_02J03:23
+# text = Ftit wara jgħidli li ommu, li tilifha tliet snin ilu, meta qalilha li kien ħiereġ mal-Partit Laburista kienet ħadet xokk kbir.
+1	Ftit	_	_	_	DET	_	_	_	_
+2	wara	_	_	_	ADV	_	_	_	_
+3	jgħidli	_	_	_	V	_	_	_	_
+4	li	_	_	_	CONJ	_	_	_	_
+5	ommu	_	_	_	N	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	li	_	_	_	CONJ	_	_	_	_
+8	tilifha	_	_	_	V	_	_	_	_
+9	tliet	_	_	_	NUM	_	_	_	_
+10	snin	_	_	_	N	_	_	_	_
+11	ilu	_	_	_	ADP	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	meta	_	_	_	CONJ	_	_	_	_
+14	qalilha	_	_	_	V	_	_	_	_
+15	li	_	_	_	CONJ	_	_	_	_
+16	kien	_	_	_	V	_	_	_	_
+17	ħiereġ	_	_	_	V	_	_	_	_
+18	mal-	_	_	_	ADP	_	_	_	_
+19	Partit	_	_	_	N	_	_	_	_
+20	Laburista	_	_	_	ADJ	_	_	_	_
+21	kienet	_	_	_	V	_	_	_	_
+22	ħadet	_	_	_	V	_	_	_	_
+23	xokk	_	_	_	N	_	_	_	_
+24	kbir	_	_	_	ADJ	_	_	_	_
+25	.	_	_	_	_	_	_	_	_
+
+# sent_id = 50_01N10:41
+# text = Madankollu, l-istramberija ta' Żahra mhijiex sempliċiment stilistika; in-novelli tiegħu mhumiex sempliċiment eżerċizzji ta' virtwożiżmu formali.
+1	Madankollu	_	_	_	ADV	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	l-	_	_	_	DET	_	_	_	_
+4	istramberija	_	_	_	N	_	_	_	_
+5	ta'	_	_	_	ADP	_	_	_	_
+6	Żahra	_	_	_	PROPN	_	_	_	_
+7	mhijiex	_	_	_	V	_	_	_	_
+8	sempliċiment	_	_	_	ADV	_	_	_	_
+9	stilistika	_	_	_	ADJ	_	_	_	_
+10	;	_	_	_	_	_	_	_	_
+11	in-	_	_	_	DET	_	_	_	_
+12	novelli	_	_	_	N	_	_	_	_
+13	tiegħu	_	_	_	PRO	_	_	_	_
+14	mhumiex	_	_	_	PART	_	_	_	_
+15	sempliċiment	_	_	_	ADV	_	_	_	_
+16	eżerċizzji	_	_	_	N	_	_	_	_
+17	ta'	_	_	_	ADP	_	_	_	_
+18	virtwożiżmu	_	_	_	N	_	_	_	_
+19	formali	_	_	_	ADJ	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = 42_04F09:22
+# text = Nimlew il-ġonna kollha lwien.
+1	Nimlew	_	_	_	V	_	_	_	_
+2	il-	_	_	_	DET	_	_	_	_
+3	ġonna	_	_	_	N	_	_	_	_
+4	kollha	_	_	_	DET	_	_	_	_
+5	lwien	_	_	_	N	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = 53_04N10:42
+# text = "Il-qamar jimla meta l-qalb tkun ħimla," li jfisser meta l-qalb tkun mimlija jidher isbaħ.
+1	"	_	_	_	_	_	_	_	_
+2	Il-	_	_	_	DET	_	_	_	_
+3	qamar	_	_	_	N	_	_	_	_
+4	jimla	_	_	_	V	_	_	_	_
+5	meta	_	_	_	CONJ	_	_	_	_
+6	l-	_	_	_	DET	_	_	_	_
+7	qalb	_	_	_	N	_	_	_	_
+8	tkun	_	_	_	V	_	_	_	_
+9	ħimla	_	_	_	N	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	"	_	_	_	_	_	_	_	_
+12	li	_	_	_	CONJ	_	_	_	_
+13	jfisser	_	_	_	V	_	_	_	_
+14	meta	_	_	_	CONJ	_	_	_	_
+15	l-	_	_	_	DET	_	_	_	_
+16	qalb	_	_	_	N	_	_	_	_
+17	tkun	_	_	_	V	_	_	_	_
+18	mimlija	_	_	_	V	_	_	_	_
+19	jidher	_	_	_	V	_	_	_	_
+20	isbaħ	_	_	_	V	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = 09_09J01:11
+# text = Numru ta' sindki li tkellmu magħna sostnew li l-attitudni tal-Gvern hi nkwetanti aktar u aktar meta fuq quddiem nett fit-twaqqif mill-ġdid tal-MEUSAC hemm involut l-eks sindku Nazzjonalista Chris Said li issa hu s-Segretarju Parlamentari responsabbli mill-kumitat.
+1	Numru	_	_	_	N	_	_	_	_
+2	ta'	_	_	_	ADP	_	_	_	_
+3	sindki	_	_	_	N	_	_	_	_
+4	li	_	_	_	CONJ	_	_	_	_
+5	tkellmu	_	_	_	V	_	_	_	_
+6	magħna	_	_	_	PRO	_	_	_	_
+7	sostnew	_	_	_	V	_	_	_	_
+8	li	_	_	_	CONJ	_	_	_	_
+9	l-	_	_	_	DET	_	_	_	_
+10	attitudni	_	_	_	N	_	_	_	_
+11	tal-	_	_	_	ADP	_	_	_	_
+12	Gvern	_	_	_	N	_	_	_	_
+13	hi	_	_	_	PRO	_	_	_	_
+14	nkwetanti	_	_	_	ADJ	_	_	_	_
+15	aktar	_	_	_	ADV	_	_	_	_
+16	u	_	_	_	CONJ	_	_	_	_
+17	aktar	_	_	_	ADV	_	_	_	_
+18	meta	_	_	_	CONJ	_	_	_	_
+19	fuq	_	_	_	ADP	_	_	_	_
+20	quddiem	_	_	_	ADV	_	_	_	_
+21	nett	_	_	_	ADV	_	_	_	_
+22	fit-	_	_	_	ADP	_	_	_	_
+23	twaqqif	_	_	_	N	_	_	_	_
+24	mill-	_	_	_	ADP	_	_	_	_
+25	ġdid	_	_	_	ADJ	_	_	_	_
+26	tal-	_	_	_	ADP	_	_	_	_
+27	MEUSAC	_	_	_	N	_	_	_	_
+28	hemm	_	_	_	ADV	_	_	_	_
+29	involut	_	_	_	V	_	_	_	_
+30	l-	_	_	_	DET	_	_	_	_
+31	eks	_	_	_	ADJ	_	_	_	_
+32	sindku	_	_	_	N	_	_	_	_
+33	Nazzjonalista	_	_	_	ADJ	_	_	_	_
+34	Chris	_	_	_	PROPN	_	_	_	_
+35	Said	_	_	_	PROPN	_	_	_	_
+36	li	_	_	_	CONJ	_	_	_	_
+37	issa	_	_	_	ADV	_	_	_	_
+38	hu	_	_	_	PRO	_	_	_	_
+39	s-	_	_	_	DET	_	_	_	_
+40	Segretarju	_	_	_	N	_	_	_	_
+41	Parlamentari	_	_	_	ADJ	_	_	_	_
+42	responsabbli	_	_	_	ADJ	_	_	_	_
+43	mill-	_	_	_	ADP	_	_	_	_
+44	kumitat	_	_	_	N	_	_	_	_
+45	.	_	_	_	_	_	_	_	_
+
+# sent_id = 20_07J02:3
+# text = L-ispjunaġġ mill-Partit Nazzjonalista (PN) fuq iċ-ċittadini Maltin u Għawdxin ma kienx se jibda taħt is-segretarju ġenerali l-ġdid tal-PN, Paul Borg Olivier.
+1	L-	_	_	_	DET	_	_	_	_
+2	ispjunaġġ	_	_	_	N	_	_	_	_
+3	mill-	_	_	_	ADP	_	_	_	_
+4	Partit	_	_	_	N	_	_	_	_
+5	Nazzjonalista	_	_	_	ADJ	_	_	_	_
+6	(	_	_	_	_	_	_	_	_
+7	PN	_	_	_	N	_	_	_	_
+8	)	_	_	_	_	_	_	_	_
+9	fuq	_	_	_	ADP	_	_	_	_
+10	iċ-	_	_	_	DET	_	_	_	_
+11	ċittadini	_	_	_	N	_	_	_	_
+12	Maltin	_	_	_	ADJ	_	_	_	_
+13	u	_	_	_	CONJ	_	_	_	_
+14	Għawdxin	_	_	_	ADJ	_	_	_	_
+15	ma	_	_	_	PART	_	_	_	_
+16	kienx	_	_	_	V	_	_	_	_
+17	se	_	_	_	V	_	_	_	_
+18	jibda	_	_	_	V	_	_	_	_
+19	taħt	_	_	_	ADP	_	_	_	_
+20	is-	_	_	_	DET	_	_	_	_
+21	segretarju	_	_	_	N	_	_	_	_
+22	ġenerali	_	_	_	ADJ	_	_	_	_
+23	l-	_	_	_	DET	_	_	_	_
+24	ġdid	_	_	_	ADJ	_	_	_	_
+25	tal-	_	_	_	ADP	_	_	_	_
+26	PN	_	_	_	N	_	_	_	_
+27	,	_	_	_	_	_	_	_	_
+28	Paul	_	_	_	PROPN	_	_	_	_
+29	Borg	_	_	_	PROPN	_	_	_	_
+30	Olivier	_	_	_	PROPN	_	_	_	_
+31	.	_	_	_	_	_	_	_	_
+
+# sent_id = 13_13J01:12
+# text = Kif iddikjara wkoll il-Prim Ministru Lawrence Gonzi, Malta hi 300 km biss 'il bogħod mill-Libja u l-prijorita' tibqa' s-sigurta' tal-pajjiż u tal-poplu Malti.
+1	Kif	_	_	_	PRO	_	_	_	_
+2	iddikjara	_	_	_	V	_	_	_	_
+3	wkoll	_	_	_	ADV	_	_	_	_
+4	il-	_	_	_	DET	_	_	_	_
+5	Prim	_	_	_	ADJ	_	_	_	_
+6	Ministru	_	_	_	N	_	_	_	_
+7	Lawrence	_	_	_	PROPN	_	_	_	_
+8	Gonzi	_	_	_	PROPN	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	Malta	_	_	_	PROPN	_	_	_	_
+11	hi	_	_	_	PRO	_	_	_	_
+12	300	_	_	_	NUM	_	_	_	_
+13	km	_	_	_	N	_	_	_	_
+14	biss	_	_	_	ADV	_	_	_	_
+15	'il	_	_	_	ADP	_	_	_	_
+16	bogħod	_	_	_	N	_	_	_	_
+17	mill-	_	_	_	ADP	_	_	_	_
+18	Libja	_	_	_	PROPN	_	_	_	_
+19	u	_	_	_	CONJ	_	_	_	_
+20	l-	_	_	_	DET	_	_	_	_
+21	prijorita'	_	_	_	N	_	_	_	_
+22	tibqa'	_	_	_	V	_	_	_	_
+23	s-	_	_	_	DET	_	_	_	_
+24	sigurta'	_	_	_	N	_	_	_	_
+25	tal-	_	_	_	ADP	_	_	_	_
+26	pajjiż	_	_	_	N	_	_	_	_
+27	u	_	_	_	CONJ	_	_	_	_
+28	tal-	_	_	_	ADP	_	_	_	_
+29	poplu	_	_	_	N	_	_	_	_
+30	Malti	_	_	_	ADJ	_	_	_	_
+31	.	_	_	_	_	_	_	_	_
+
+# sent_id = 49_03F09:32
+# text = U jien, moħħi mimli bl-idealiżmi tal-Kulleġġ, xejn ma kont tolleranti.
+1	U	_	_	_	CONJ	_	_	_	_
+2	jien	_	_	_	PRO	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	moħħi	_	_	_	N	_	_	_	_
+5	mimli	_	_	_	V	_	_	_	_
+6	bl-	_	_	_	ADP	_	_	_	_
+7	idealiżmi	_	_	_	N	_	_	_	_
+8	tal-	_	_	_	ADP	_	_	_	_
+9	Kulleġġ	_	_	_	N	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	xejn	_	_	_	PRO	_	_	_	_
+12	ma	_	_	_	PART	_	_	_	_
+13	kont	_	_	_	V	_	_	_	_
+14	tolleranti	_	_	_	ADJ	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = 30_01P05:149
+# text = Mr Chairman, naħseb li jkun tajjeb ninfurmaw lill-pubbliku x'ġara fil-frattemp għax inti għedt li ġie ppreżentat il-kuntratt u tajjeb li nispjegaw x'ġara.
+1	Mr	_	_	_	_	_	_	_	_
+2	Chairman	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	naħseb	_	_	_	V	_	_	_	_
+5	li	_	_	_	CONJ	_	_	_	_
+6	jkun	_	_	_	V	_	_	_	_
+7	tajjeb	_	_	_	ADV	_	_	_	_
+8	ninfurmaw	_	_	_	V	_	_	_	_
+9	lill-	_	_	_	ADP	_	_	_	_
+10	pubbliku	_	_	_	N	_	_	_	_
+11	x'	_	_	_	PRO	_	_	_	_
+12	ġara	_	_	_	V	_	_	_	_
+13	fil-	_	_	_	ADP	_	_	_	_
+14	frattemp	_	_	_	N	_	_	_	_
+15	għax	_	_	_	CONJ	_	_	_	_
+16	inti	_	_	_	PRO	_	_	_	_
+17	għedt	_	_	_	V	_	_	_	_
+18	li	_	_	_	CONJ	_	_	_	_
+19	ġie	_	_	_	V	_	_	_	_
+20	ppreżentat	_	_	_	V	_	_	_	_
+21	il-	_	_	_	DET	_	_	_	_
+22	kuntratt	_	_	_	N	_	_	_	_
+23	u	_	_	_	CONJ	_	_	_	_
+24	tajjeb	_	_	_	ADV	_	_	_	_
+25	li	_	_	_	CONJ	_	_	_	_
+26	nispjegaw	_	_	_	V	_	_	_	_
+27	x'	_	_	_	PRO	_	_	_	_
+28	ġara	_	_	_	V	_	_	_	_
+29	.	_	_	_	_	_	_	_	_
+
+# sent_id = 49b_04F09:6
+# text = Irbaħtha.
+1	Irbaħtha	_	_	_	V	_	_	_	_
+2	.	_	_	_	_	_	_	_	_
+
+# sent_id = 38_02P06:56
+# text = Nerġa' ngħid li tliet ġimgħat ilu tħabbar li l-MDC, l-IPSE u l-METCO kellhom jingħaqdu f'organizzazzjoni waħda u jien nixtieq li xi ħadd jgħidli x'se tkun il-pożizzjoni tal-management u tal-ħaddiema!
+1	Nerġa'	_	_	_	V	_	_	_	_
+2	ngħid	_	_	_	V	_	_	_	_
+3	li	_	_	_	CONJ	_	_	_	_
+4	tliet	_	_	_	NUM	_	_	_	_
+5	ġimgħat	_	_	_	N	_	_	_	_
+6	ilu	_	_	_	ADP	_	_	_	_
+7	tħabbar	_	_	_	V	_	_	_	_
+8	li	_	_	_	CONJ	_	_	_	_
+9	l-	_	_	_	DET	_	_	_	_
+10	MDC	_	_	_	N	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	l-	_	_	_	DET	_	_	_	_
+13	IPSE	_	_	_	N	_	_	_	_
+14	u	_	_	_	CONJ	_	_	_	_
+15	l-	_	_	_	DET	_	_	_	_
+16	METCO	_	_	_	N	_	_	_	_
+17	kellhom	_	_	_	V	_	_	_	_
+18	jingħaqdu	_	_	_	V	_	_	_	_
+19	f'	_	_	_	ADP	_	_	_	_
+20	organizzazzjoni	_	_	_	N	_	_	_	_
+21	waħda	_	_	_	NUM	_	_	_	_
+22	u	_	_	_	CONJ	_	_	_	_
+23	jien	_	_	_	PRO	_	_	_	_
+24	nixtieq	_	_	_	V	_	_	_	_
+25	li	_	_	_	CONJ	_	_	_	_
+26	xi	_	_	_	DET	_	_	_	_
+27	ħadd	_	_	_	PRO	_	_	_	_
+28	jgħidli	_	_	_	V	_	_	_	_
+29	x'	_	_	_	PRO	_	_	_	_
+30	se	_	_	_	V	_	_	_	_
+31	tkun	_	_	_	V	_	_	_	_
+32	il-	_	_	_	DET	_	_	_	_
+33	pożizzjoni	_	_	_	N	_	_	_	_
+34	tal-	_	_	_	ADP	_	_	_	_
+35	management	_	_	_	N	_	_	_	_
+36	u	_	_	_	CONJ	_	_	_	_
+37	tal-	_	_	_	ADP	_	_	_	_
+38	ħaddiema	_	_	_	N	_	_	_	_
+39	!	_	_	_	_	_	_	_	_
+
+# sent_id = 38_02P06:66
+# text = MR SPEAKER: Hawn talba għal quorum.
+1	MR	_	_	_	N	_	_	_	_
+2	SPEAKER	_	_	_	_	_	_	_	_
+3	:	_	_	_	_	_	_	_	_
+4	Hawn	_	_	_	V	_	_	_	_
+5	talba	_	_	_	N	_	_	_	_
+6	għal	_	_	_	ADP	_	_	_	_
+7	quorum	_	_	_	N	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = 43_05F08:13
+# text = Ippruvajt oħrajn u qlibt il-kamra ta' taħt fuq.
+1	Ippruvajt	_	_	_	V	_	_	_	_
+2	oħrajn	_	_	_	N	_	_	_	_
+3	u	_	_	_	CONJ	_	_	_	_
+4	qlibt	_	_	_	V	_	_	_	_
+5	il-	_	_	_	DET	_	_	_	_
+6	kamra	_	_	_	N	_	_	_	_
+7	ta'	_	_	_	ADP	_	_	_	_
+8	taħt	_	_	_	ADP	_	_	_	_
+9	fuq	_	_	_	ADV	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = 07_07J01:6
+# text = "Il-Melita mhix l-unika kumpanija li qed tikkunsidra mezzi simili," stqarr il-kelliem.
+1	"	_	_	_	_	_	_	_	_
+2	Il-	_	_	_	DET	_	_	_	_
+3	Melita	_	_	_	PROPN	_	_	_	_
+4	mhix	_	_	_	PART	_	_	_	_
+5	l-	_	_	_	DET	_	_	_	_
+6	unika	_	_	_	ADJ	_	_	_	_
+7	kumpanija	_	_	_	N	_	_	_	_
+8	li	_	_	_	CONJ	_	_	_	_
+9	qed	_	_	_	V	_	_	_	_
+10	tikkunsidra	_	_	_	V	_	_	_	_
+11	mezzi	_	_	_	N	_	_	_	_
+12	simili	_	_	_	ADJ	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	"	_	_	_	_	_	_	_	_
+15	stqarr	_	_	_	V	_	_	_	_
+16	il-	_	_	_	DET	_	_	_	_
+17	kelliem	_	_	_	N	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = 56_03N11:20
+# text = Il-pjanta tal-capsicum għandha titħalla tikber fi qsari tat-3.5 (9 cm) u jitħallew jilħqu għoli ta' xi 20 - 23 ċentimetru 'il fuq minn wiċċ il-qasrija.
+1	Il-	_	_	_	DET	_	_	_	_
+2	pjanta	_	_	_	N	_	_	_	_
+3	tal-	_	_	_	ADP	_	_	_	_
+4	capsicum	_	_	_	_	_	_	_	_
+5	għandha	_	_	_	V	_	_	_	_
+6	titħalla	_	_	_	V	_	_	_	_
+7	tikber	_	_	_	V	_	_	_	_
+8	fi	_	_	_	ADP	_	_	_	_
+9	qsari	_	_	_	N	_	_	_	_
+10	tat-	_	_	_	ADP	_	_	_	_
+11	3	_	_	_	NUM	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+13	5	_	_	_	NUM	_	_	_	_
+14	(	_	_	_	_	_	_	_	_
+15	9	_	_	_	NUM	_	_	_	_
+16	cm	_	_	_	N	_	_	_	_
+17	)	_	_	_	_	_	_	_	_
+18	u	_	_	_	CONJ	_	_	_	_
+19	jitħallew	_	_	_	V	_	_	_	_
+20	jilħqu	_	_	_	V	_	_	_	_
+21	għoli	_	_	_	N	_	_	_	_
+22	ta'	_	_	_	ADP	_	_	_	_
+23	xi	_	_	_	DET	_	_	_	_
+24	20	_	_	_	NUM	_	_	_	_
+25	-	_	_	_	_	_	_	_	_
+26	23	_	_	_	NUM	_	_	_	_
+27	ċentimetru	_	_	_	N	_	_	_	_
+28	'il	_	_	_	ADP	_	_	_	_
+29	fuq	_	_	_	ADV	_	_	_	_
+30	minn	_	_	_	ADP	_	_	_	_
+31	wiċċ	_	_	_	N	_	_	_	_
+32	il-	_	_	_	DET	_	_	_	_
+33	qasrija	_	_	_	N	_	_	_	_
+34	.	_	_	_	_	_	_	_	_
+
+# sent_id = 30_01P05:43
+# text = Ta' nota pożittiva hija li sussegwentement għal din il-laqgħa, ittieħdet id-deċiżjoni li l-konferenza fejn se tiġi diskussa din il-Kostituzzjoni u t-twaqqif tagħha se ssir f'Malta, b'rabta wkoll mal-fatt li se jkun hawn iċ-CHOGM.
+1	Ta'	_	_	_	ADP	_	_	_	_
+2	nota	_	_	_	N	_	_	_	_
+3	pożittiva	_	_	_	ADJ	_	_	_	_
+4	hija	_	_	_	PRO	_	_	_	_
+5	li	_	_	_	CONJ	_	_	_	_
+6	sussegwentement	_	_	_	ADV	_	_	_	_
+7	għal	_	_	_	ADP	_	_	_	_
+8	din	_	_	_	PRO	_	_	_	_
+9	il-	_	_	_	DET	_	_	_	_
+10	laqgħa	_	_	_	N	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	ittieħdet	_	_	_	V	_	_	_	_
+13	id-	_	_	_	DET	_	_	_	_
+14	deċiżjoni	_	_	_	N	_	_	_	_
+15	li	_	_	_	CONJ	_	_	_	_
+16	l-	_	_	_	DET	_	_	_	_
+17	konferenza	_	_	_	N	_	_	_	_
+18	fejn	_	_	_	PRO	_	_	_	_
+19	se	_	_	_	V	_	_	_	_
+20	tiġi	_	_	_	V	_	_	_	_
+21	diskussa	_	_	_	V	_	_	_	_
+22	din	_	_	_	PRO	_	_	_	_
+23	il-	_	_	_	DET	_	_	_	_
+24	Kostituzzjoni	_	_	_	N	_	_	_	_
+25	u	_	_	_	CONJ	_	_	_	_
+26	t-	_	_	_	DET	_	_	_	_
+27	twaqqif	_	_	_	N	_	_	_	_
+28	tagħha	_	_	_	PRO	_	_	_	_
+29	se	_	_	_	V	_	_	_	_
+30	ssir	_	_	_	V	_	_	_	_
+31	f'	_	_	_	ADP	_	_	_	_
+32	Malta	_	_	_	PROPN	_	_	_	_
+33	,	_	_	_	_	_	_	_	_
+34	b'	_	_	_	ADP	_	_	_	_
+35	rabta	_	_	_	N	_	_	_	_
+36	wkoll	_	_	_	ADV	_	_	_	_
+37	mal-	_	_	_	ADP	_	_	_	_
+38	fatt	_	_	_	N	_	_	_	_
+39	li	_	_	_	CONJ	_	_	_	_
+40	se	_	_	_	V	_	_	_	_
+41	jkun	_	_	_	V	_	_	_	_
+42	hawn	_	_	_	ADV	_	_	_	_
+43	iċ-	_	_	_	DET	_	_	_	_
+44	CHOGM	_	_	_	N	_	_	_	_
+45	.	_	_	_	_	_	_	_	_
+
+# sent_id = 17_04J02:17
+# text = Hi stqarrija u hi mistoqsija.
+1	Hi	_	_	_	PRO	_	_	_	_
+2	stqarrija	_	_	_	N	_	_	_	_
+3	u	_	_	_	CONJ	_	_	_	_
+4	hi	_	_	_	PRO	_	_	_	_
+5	mistoqsija	_	_	_	N	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = 30_01P05:159
+# text = Qed nifhem li dan il-kuntratt jista' jiġi ppubblikat, għax għal mument ġejt fid-dubju.
+1	Qed	_	_	_	V	_	_	_	_
+2	nifhem	_	_	_	V	_	_	_	_
+3	li	_	_	_	CONJ	_	_	_	_
+4	dan	_	_	_	PRO	_	_	_	_
+5	il-	_	_	_	DET	_	_	_	_
+6	kuntratt	_	_	_	N	_	_	_	_
+7	jista'	_	_	_	V	_	_	_	_
+8	jiġi	_	_	_	V	_	_	_	_
+9	ppubblikat	_	_	_	V	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	għax	_	_	_	CONJ	_	_	_	_
+12	għal	_	_	_	ADP	_	_	_	_
+13	mument	_	_	_	N	_	_	_	_
+14	ġejt	_	_	_	V	_	_	_	_
+15	fid-	_	_	_	ADP	_	_	_	_
+16	dubju	_	_	_	N	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = 02_02J01:5
+# text = Dawn il-ħlasijiet kienu jinkludu 500,000 dollaru lil Frank Sammut u Tancred Tabone kif ukoll 40,000 liri Maltin lil Alfred Mallia u Tarcisio Mifsud.
+1	Dawn	_	_	_	PRO	_	_	_	_
+2	il-	_	_	_	DET	_	_	_	_
+3	ħlasijiet	_	_	_	N	_	_	_	_
+4	kienu	_	_	_	V	_	_	_	_
+5	jinkludu	_	_	_	V	_	_	_	_
+6	500,000	_	_	_	NUM	_	_	_	_
+7	dollaru	_	_	_	N	_	_	_	_
+8	lil	_	_	_	ADP	_	_	_	_
+9	Frank	_	_	_	PROPN	_	_	_	_
+10	Sammut	_	_	_	PROPN	_	_	_	_
+11	u	_	_	_	CONJ	_	_	_	_
+12	Tancred	_	_	_	PROPN	_	_	_	_
+13	Tabone	_	_	_	PROPN	_	_	_	_
+14	kif	_	_	_	PRO	_	_	_	_
+15	ukoll	_	_	_	ADV	_	_	_	_
+16	40,000	_	_	_	NUM	_	_	_	_
+17	liri	_	_	_	N	_	_	_	_
+18	Maltin	_	_	_	ADJ	_	_	_	_
+19	lil	_	_	_	ADP	_	_	_	_
+20	Alfred	_	_	_	PROPN	_	_	_	_
+21	Mallia	_	_	_	PROPN	_	_	_	_
+22	u	_	_	_	CONJ	_	_	_	_
+23	Tarcisio	_	_	_	PROPN	_	_	_	_
+24	Mifsud	_	_	_	PROPN	_	_	_	_
+25	.	_	_	_	_	_	_	_	_
+
+# sent_id = 46_02F08:14
+# text = Imbagħad darba sab lilha fuq facebook.
+1	Imbagħad	_	_	_	ADV	_	_	_	_
+2	darba	_	_	_	N	_	_	_	_
+3	sab	_	_	_	V	_	_	_	_
+4	lilha	_	_	_	PRO	_	_	_	_
+5	fuq	_	_	_	ADP	_	_	_	_
+6	facebook	_	_	_	PROPN	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = 56_03N11:27
+# text = Għalkemm il-fjuri ma jkun fihom riħa ta' xejn, il-frott malajr jibda jieħu l-lewn tiegħu li minħabba fih dawn il-pjanti huma daqshekk imfittxa.
+1	Għalkemm	_	_	_	CONJ	_	_	_	_
+2	il-	_	_	_	DET	_	_	_	_
+3	fjuri	_	_	_	N	_	_	_	_
+4	ma	_	_	_	PART	_	_	_	_
+5	jkun	_	_	_	V	_	_	_	_
+6	fihom	_	_	_	V	_	_	_	_
+7	riħa	_	_	_	N	_	_	_	_
+8	ta'	_	_	_	ADP	_	_	_	_
+9	xejn	_	_	_	PRO	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	il-	_	_	_	DET	_	_	_	_
+12	frott	_	_	_	N	_	_	_	_
+13	malajr	_	_	_	ADV	_	_	_	_
+14	jibda	_	_	_	V	_	_	_	_
+15	jieħu	_	_	_	V	_	_	_	_
+16	l-	_	_	_	DET	_	_	_	_
+17	lewn	_	_	_	N	_	_	_	_
+18	tiegħu	_	_	_	PRO	_	_	_	_
+19	li	_	_	_	CONJ	_	_	_	_
+20	minħabba	_	_	_	ADP	_	_	_	_
+21	fih	_	_	_	V	_	_	_	_
+22	dawn	_	_	_	PRO	_	_	_	_
+23	il-	_	_	_	DET	_	_	_	_
+24	pjanti	_	_	_	N	_	_	_	_
+25	huma	_	_	_	PRO	_	_	_	_
+26	daqshekk	_	_	_	ADV	_	_	_	_
+27	imfittxa	_	_	_	V	_	_	_	_
+28	.	_	_	_	_	_	_	_	_
+
+# sent_id = 43_05F08:17
+# text = Ridt nibqa' biha.
+1	Ridt	_	_	_	V	_	_	_	_
+2	nibqa'	_	_	_	V	_	_	_	_
+3	biha	_	_	_	PRO	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = 23b_04J03:49
+# text = "Li nista' ngħidlek hu li għadni kif ġibt il-konferma li l-kantanta Ruslana ta' l-Ukrajna, li rebħet il-Eurovision tas-sena l-oħra, se tkun Malta għall-festival fis-serata finali".
+1	"	_	_	_	_	_	_	_	_
+2	Li	_	_	_	CONJ	_	_	_	_
+3	nista'	_	_	_	V	_	_	_	_
+4	ngħidlek	_	_	_	V	_	_	_	_
+5	hu	_	_	_	PRO	_	_	_	_
+6	li	_	_	_	CONJ	_	_	_	_
+7	għadni	_	_	_	V	_	_	_	_
+8	kif	_	_	_	PRO	_	_	_	_
+9	ġibt	_	_	_	V	_	_	_	_
+10	il-	_	_	_	DET	_	_	_	_
+11	konferma	_	_	_	N	_	_	_	_
+12	li	_	_	_	CONJ	_	_	_	_
+13	l-	_	_	_	DET	_	_	_	_
+14	kantanta	_	_	_	N	_	_	_	_
+15	Ruslana	_	_	_	PROPN	_	_	_	_
+16	ta'	_	_	_	ADP	_	_	_	_
+17	l-	_	_	_	DET	_	_	_	_
+18	Ukrajna	_	_	_	PROPN	_	_	_	_
+19	,	_	_	_	_	_	_	_	_
+20	li	_	_	_	CONJ	_	_	_	_
+21	rebħet	_	_	_	V	_	_	_	_
+22	il-	_	_	_	DET	_	_	_	_
+23	Eurovision	_	_	_	PROPN	_	_	_	_
+24	tas-	_	_	_	ADP	_	_	_	_
+25	sena	_	_	_	N	_	_	_	_
+26	l-	_	_	_	DET	_	_	_	_
+27	oħra	_	_	_	ADJ	_	_	_	_
+28	,	_	_	_	_	_	_	_	_
+29	se	_	_	_	V	_	_	_	_
+30	tkun	_	_	_	V	_	_	_	_
+31	Malta	_	_	_	PROPN	_	_	_	_
+32	għall-	_	_	_	ADP	_	_	_	_
+33	festival	_	_	_	N	_	_	_	_
+34	fis-	_	_	_	ADP	_	_	_	_
+35	serata	_	_	_	N	_	_	_	_
+36	finali	_	_	_	ADJ	_	_	_	_
+37	"	_	_	_	_	_	_	_	_
+38	.	_	_	_	_	_	_	_	_
+
+# sent_id = 49b_04F09:32
+# text = Ma kienx qed jistidinha li jerġgħu jiltaqgħu fuq il-Magna, iżda li jiltaqgħu fil-verità.
+1	Ma	_	_	_	PART	_	_	_	_
+2	kienx	_	_	_	V	_	_	_	_
+3	qed	_	_	_	V	_	_	_	_
+4	jistidinha	_	_	_	V	_	_	_	_
+5	li	_	_	_	CONJ	_	_	_	_
+6	jerġgħu	_	_	_	V	_	_	_	_
+7	jiltaqgħu	_	_	_	V	_	_	_	_
+8	fuq	_	_	_	ADP	_	_	_	_
+9	il-	_	_	_	DET	_	_	_	_
+10	Magna	_	_	_	N	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	iżda	_	_	_	CONJ	_	_	_	_
+13	li	_	_	_	CONJ	_	_	_	_
+14	jiltaqgħu	_	_	_	V	_	_	_	_
+15	fil-	_	_	_	ADP	_	_	_	_
+16	verità	_	_	_	N	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = 49b_04F09:12
+# text = L-eċċitament li kienet qed tħoss Elizabeth waqt dan id-djalogu elettroniku kien qawwi, jekk mhux iktar, daqs dak li kienet tħoss meta kien għad kellha biss seba' jew tmien snin, meta dawn l-istejjer kienu jinħassu iktar reali mir-realtà ta' kuljum.
+1	L-	_	_	_	DET	_	_	_	_
+2	eċċitament	_	_	_	N	_	_	_	_
+3	li	_	_	_	CONJ	_	_	_	_
+4	kienet	_	_	_	V	_	_	_	_
+5	qed	_	_	_	V	_	_	_	_
+6	tħoss	_	_	_	V	_	_	_	_
+7	Elizabeth	_	_	_	PROPN	_	_	_	_
+8	waqt	_	_	_	ADP	_	_	_	_
+9	dan	_	_	_	PRO	_	_	_	_
+10	id-	_	_	_	DET	_	_	_	_
+11	djalogu	_	_	_	N	_	_	_	_
+12	elettroniku	_	_	_	ADJ	_	_	_	_
+13	kien	_	_	_	V	_	_	_	_
+14	qawwi	_	_	_	ADJ	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	jekk	_	_	_	CONJ	_	_	_	_
+17	mhux	_	_	_	PART	_	_	_	_
+18	iktar	_	_	_	ADV	_	_	_	_
+19	,	_	_	_	_	_	_	_	_
+20	daqs	_	_	_	ADP	_	_	_	_
+21	dak	_	_	_	PRO	_	_	_	_
+22	li	_	_	_	CONJ	_	_	_	_
+23	kienet	_	_	_	V	_	_	_	_
+24	tħoss	_	_	_	V	_	_	_	_
+25	meta	_	_	_	CONJ	_	_	_	_
+26	kien	_	_	_	V	_	_	_	_
+27	għad	_	_	_	V	_	_	_	_
+28	kellha	_	_	_	V	_	_	_	_
+29	biss	_	_	_	ADV	_	_	_	_
+30	seba'	_	_	_	NUM	_	_	_	_
+31	jew	_	_	_	CONJ	_	_	_	_
+32	tmien	_	_	_	NUM	_	_	_	_
+33	snin	_	_	_	N	_	_	_	_
+34	,	_	_	_	_	_	_	_	_
+35	meta	_	_	_	CONJ	_	_	_	_
+36	dawn	_	_	_	PRO	_	_	_	_
+37	l-	_	_	_	DET	_	_	_	_
+38	istejjer	_	_	_	N	_	_	_	_
+39	kienu	_	_	_	V	_	_	_	_
+40	jinħassu	_	_	_	V	_	_	_	_
+41	iktar	_	_	_	ADV	_	_	_	_
+42	reali	_	_	_	ADJ	_	_	_	_
+43	mir-	_	_	_	ADP	_	_	_	_
+44	realtà	_	_	_	N	_	_	_	_
+45	ta'	_	_	_	ADP	_	_	_	_
+46	kuljum	_	_	_	ADV	_	_	_	_
+47	.	_	_	_	_	_	_	_	_
+
+# sent_id = 55_02N11:2
+# text = Settijiet:
+1	Settijiet	_	_	_	N	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+
+# sent_id = 17_04J02:63
+# text = Ma biegħux daqskemm iridu over the counter.
+1	Ma	_	_	_	PART	_	_	_	_
+2	biegħux	_	_	_	V	_	_	_	_
+3	daqskemm	_	_	_	CONJ	_	_	_	_
+4	iridu	_	_	_	V	_	_	_	_
+5	over	_	_	_	_	_	_	_	_
+6	the	_	_	_	_	_	_	_	_
+7	counter	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = 05_05J01:20
+# text = Kien għalhekk li xi jumejn wara, fis-7 ta' Ġunju 2012, il-magna li kienet qed iżżomm lil Sharon ħajja ntfiet.
+1	Kien	_	_	_	V	_	_	_	_
+2	għalhekk	_	_	_	ADV	_	_	_	_
+3	li	_	_	_	CONJ	_	_	_	_
+4	xi	_	_	_	DET	_	_	_	_
+5	jumejn	_	_	_	N	_	_	_	_
+6	wara	_	_	_	ADP	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	fis-	_	_	_	ADP	_	_	_	_
+9	7	_	_	_	NUM	_	_	_	_
+10	ta'	_	_	_	ADP	_	_	_	_
+11	Ġunju	_	_	_	PROPN	_	_	_	_
+12	2012	_	_	_	NUM	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	il-	_	_	_	DET	_	_	_	_
+15	magna	_	_	_	N	_	_	_	_
+16	li	_	_	_	CONJ	_	_	_	_
+17	kienet	_	_	_	V	_	_	_	_
+18	qed	_	_	_	V	_	_	_	_
+19	iżżomm	_	_	_	V	_	_	_	_
+20	lil	_	_	_	ADP	_	_	_	_
+21	Sharon	_	_	_	PROPN	_	_	_	_
+22	ħajja	_	_	_	ADJ	_	_	_	_
+23	ntfiet	_	_	_	V	_	_	_	_
+24	.	_	_	_	_	_	_	_	_
+
+# sent_id = 20_07J02:33
+# text = Anki f'dal-każ, bħal-lum, meta ħarġet l-istorja tal-ispjunaġġ li kien qed isir mit-toroq, qam aghħa kbir fil-pajjiż.
+1	Anki	_	_	_	ADV	_	_	_	_
+2	f'	_	_	_	ADP	_	_	_	_
+3	dal-	_	_	_	PRO	_	_	_	_
+4	każ	_	_	_	N	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	bħal-	_	_	_	ADP	_	_	_	_
+7	lum	_	_	_	N	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	meta	_	_	_	CONJ	_	_	_	_
+10	ħarġet	_	_	_	V	_	_	_	_
+11	l-	_	_	_	DET	_	_	_	_
+12	istorja	_	_	_	N	_	_	_	_
+13	tal-	_	_	_	ADP	_	_	_	_
+14	ispjunaġġ	_	_	_	N	_	_	_	_
+15	li	_	_	_	CONJ	_	_	_	_
+16	kien	_	_	_	V	_	_	_	_
+17	qed	_	_	_	V	_	_	_	_
+18	isir	_	_	_	V	_	_	_	_
+19	mit-	_	_	_	ADP	_	_	_	_
+20	toroq	_	_	_	N	_	_	_	_
+21	,	_	_	_	_	_	_	_	_
+22	qam	_	_	_	V	_	_	_	_
+23	aghħa	_	_	_	N	_	_	_	_
+24	kbir	_	_	_	ADJ	_	_	_	_
+25	fil-	_	_	_	ADP	_	_	_	_
+26	pajjiż	_	_	_	N	_	_	_	_
+27	.	_	_	_	_	_	_	_	_
+
+# sent_id = 55_02N11:27
+# text = Fil-kuntest generali, din issir (a * b) * c = a * (b * c).
+1	Fil-	_	_	_	ADP	_	_	_	_
+2	kuntest	_	_	_	N	_	_	_	_
+3	generali	_	_	_	ADJ	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	din	_	_	_	PRO	_	_	_	_
+6	issir	_	_	_	V	_	_	_	_
+7	(	_	_	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	*	_	_	_	_	_	_	_	_
+10	b	_	_	_	_	_	_	_	_
+11	)	_	_	_	_	_	_	_	_
+12	*	_	_	_	_	_	_	_	_
+13	c	_	_	_	_	_	_	_	_
+14	=	_	_	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	*	_	_	_	_	_	_	_	_
+17	(	_	_	_	_	_	_	_	_
+18	b	_	_	_	_	_	_	_	_
+19	*	_	_	_	_	_	_	_	_
+20	c	_	_	_	_	_	_	_	_
+21	)	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# sent_id = 30_01P05:42
+# text = Irrid ngħid li fid-diskussjonijiet li kelli mal-Gvern sibt ħafna sapport għal din l-idea u anke mill-iSpeaker.
+1	Irrid	_	_	_	V	_	_	_	_
+2	ngħid	_	_	_	V	_	_	_	_
+3	li	_	_	_	CONJ	_	_	_	_
+4	fid-	_	_	_	ADP	_	_	_	_
+5	diskussjonijiet	_	_	_	N	_	_	_	_
+6	li	_	_	_	CONJ	_	_	_	_
+7	kelli	_	_	_	V	_	_	_	_
+8	mal-	_	_	_	ADP	_	_	_	_
+9	Gvern	_	_	_	N	_	_	_	_
+10	sibt	_	_	_	V	_	_	_	_
+11	ħafna	_	_	_	DET	_	_	_	_
+12	sapport	_	_	_	N	_	_	_	_
+13	għal	_	_	_	ADP	_	_	_	_
+14	din	_	_	_	PRO	_	_	_	_
+15	l-	_	_	_	DET	_	_	_	_
+16	idea	_	_	_	N	_	_	_	_
+17	u	_	_	_	CONJ	_	_	_	_
+18	anke	_	_	_	ADV	_	_	_	_
+19	mill-	_	_	_	ADP	_	_	_	_
+20	iSpeaker	_	_	_	N	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = 40_02F08:17
+# text = Ġanpatist, sar aħmar nar, telgħatlu għoqla fi griżmejh u f'daqqa waħda dar fuq ibnu u xejjirlu daqqa ta' ħarta fuq ħaddejh li dawru dawra tond waqt li minn ħalq mimli qilla, qallu:
+1	Ġanpatist	_	_	_	PROPN	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	sar	_	_	_	V	_	_	_	_
+4	aħmar	_	_	_	ADJ	_	_	_	_
+5	nar	_	_	_	N	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	telgħatlu	_	_	_	V	_	_	_	_
+8	għoqla	_	_	_	N	_	_	_	_
+9	fi	_	_	_	ADP	_	_	_	_
+10	griżmejh	_	_	_	N	_	_	_	_
+11	u	_	_	_	CONJ	_	_	_	_
+12	f'	_	_	_	ADP	_	_	_	_
+13	daqqa	_	_	_	N	_	_	_	_
+14	waħda	_	_	_	NUM	_	_	_	_
+15	dar	_	_	_	V	_	_	_	_
+16	fuq	_	_	_	ADP	_	_	_	_
+17	ibnu	_	_	_	N	_	_	_	_
+18	u	_	_	_	CONJ	_	_	_	_
+19	xejjirlu	_	_	_	V	_	_	_	_
+20	daqqa	_	_	_	N	_	_	_	_
+21	ta'	_	_	_	ADP	_	_	_	_
+22	ħarta	_	_	_	N	_	_	_	_
+23	fuq	_	_	_	ADP	_	_	_	_
+24	ħaddejh	_	_	_	N	_	_	_	_
+25	li	_	_	_	CONJ	_	_	_	_
+26	dawru	_	_	_	V	_	_	_	_
+27	dawra	_	_	_	N	_	_	_	_
+28	tond	_	_	_	ADJ	_	_	_	_
+29	waqt	_	_	_	ADP	_	_	_	_
+30	li	_	_	_	CONJ	_	_	_	_
+31	minn	_	_	_	ADP	_	_	_	_
+32	ħalq	_	_	_	N	_	_	_	_
+33	mimli	_	_	_	V	_	_	_	_
+34	qilla	_	_	_	N	_	_	_	_
+35	,	_	_	_	_	_	_	_	_
+36	qallu	_	_	_	V	_	_	_	_
+37	:	_	_	_	_	_	_	_	_
+
+# sent_id = 23b_04J03:4
+# text = L-uniċi ismijiet ta' kantanti stabbiliti li rnexxielhom jidħlu bħala finalisti huma Olivia Lewis u William Mangion.
+1	L-	_	_	_	DET	_	_	_	_
+2	uniċi	_	_	_	ADJ	_	_	_	_
+3	ismijiet	_	_	_	N	_	_	_	_
+4	ta'	_	_	_	ADP	_	_	_	_
+5	kantanti	_	_	_	N	_	_	_	_
+6	stabbiliti	_	_	_	V	_	_	_	_
+7	li	_	_	_	CONJ	_	_	_	_
+8	rnexxielhom	_	_	_	V	_	_	_	_
+9	jidħlu	_	_	_	V	_	_	_	_
+10	bħala	_	_	_	ADP	_	_	_	_
+11	finalisti	_	_	_	N	_	_	_	_
+12	huma	_	_	_	PRO	_	_	_	_
+13	Olivia	_	_	_	PROPN	_	_	_	_
+14	Lewis	_	_	_	PROPN	_	_	_	_
+15	u	_	_	_	CONJ	_	_	_	_
+16	William	_	_	_	PROPN	_	_	_	_
+17	Mangion	_	_	_	PROPN	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = 19_06J02:12
+# text = Għad irid jiġi żmien li jkun hemm studju bir-reqqa u analiżi sħiħa dwar kif fil-verità kienu qed isiru l-affarijiet f'kull settur tat-turiżmu min-naħa tal-gvern, kif qed isiru issa u kif se jkomplu jsiru sakemm il-poplu jkollu ċ-ċans demokratiku li jwassal fehmtu permezz ta' elezzjoni.
+1	Għad	_	_	_	V	_	_	_	_
+2	irid	_	_	_	V	_	_	_	_
+3	jiġi	_	_	_	V	_	_	_	_
+4	żmien	_	_	_	N	_	_	_	_
+5	li	_	_	_	CONJ	_	_	_	_
+6	jkun	_	_	_	V	_	_	_	_
+7	hemm	_	_	_	V	_	_	_	_
+8	studju	_	_	_	N	_	_	_	_
+9	bir-	_	_	_	ADP	_	_	_	_
+10	reqqa	_	_	_	N	_	_	_	_
+11	u	_	_	_	CONJ	_	_	_	_
+12	analiżi	_	_	_	N	_	_	_	_
+13	sħiħa	_	_	_	ADJ	_	_	_	_
+14	dwar	_	_	_	ADP	_	_	_	_
+15	kif	_	_	_	PRO	_	_	_	_
+16	fil-	_	_	_	ADP	_	_	_	_
+17	verità	_	_	_	N	_	_	_	_
+18	kienu	_	_	_	V	_	_	_	_
+19	qed	_	_	_	V	_	_	_	_
+20	isiru	_	_	_	V	_	_	_	_
+21	l-	_	_	_	DET	_	_	_	_
+22	affarijiet	_	_	_	N	_	_	_	_
+23	f'	_	_	_	ADP	_	_	_	_
+24	kull	_	_	_	DET	_	_	_	_
+25	settur	_	_	_	N	_	_	_	_
+26	tat-	_	_	_	ADP	_	_	_	_
+27	turiżmu	_	_	_	N	_	_	_	_
+28	min-	_	_	_	ADP	_	_	_	_
+29	naħa	_	_	_	N	_	_	_	_
+30	tal-	_	_	_	ADP	_	_	_	_
+31	gvern	_	_	_	N	_	_	_	_
+32	,	_	_	_	_	_	_	_	_
+33	kif	_	_	_	PRO	_	_	_	_
+34	qed	_	_	_	V	_	_	_	_
+35	isiru	_	_	_	V	_	_	_	_
+36	issa	_	_	_	ADV	_	_	_	_
+37	u	_	_	_	CONJ	_	_	_	_
+38	kif	_	_	_	PRO	_	_	_	_
+39	se	_	_	_	V	_	_	_	_
+40	jkomplu	_	_	_	V	_	_	_	_
+41	jsiru	_	_	_	V	_	_	_	_
+42	sakemm	_	_	_	CONJ	_	_	_	_
+43	il-	_	_	_	DET	_	_	_	_
+44	poplu	_	_	_	N	_	_	_	_
+45	jkollu	_	_	_	V	_	_	_	_
+46	ċ-	_	_	_	DET	_	_	_	_
+47	ċans	_	_	_	N	_	_	_	_
+48	demokratiku	_	_	_	ADJ	_	_	_	_
+49	li	_	_	_	CONJ	_	_	_	_
+50	jwassal	_	_	_	V	_	_	_	_
+51	fehmtu	_	_	_	N	_	_	_	_
+52	permezz	_	_	_	N	_	_	_	_
+53	ta'	_	_	_	ADP	_	_	_	_
+54	elezzjoni	_	_	_	N	_	_	_	_
+55	.	_	_	_	_	_	_	_	_
+
+# sent_id = 50_01N10:124
+# text = Il-kitba hi frott ta' deliberazzjoni, ta' kalkolu, ta' tirqim u reviżjoni, anke jekk b'element ta' sogru meqjus.
+1	Il-	_	_	_	DET	_	_	_	_
+2	kitba	_	_	_	N	_	_	_	_
+3	hi	_	_	_	PRO	_	_	_	_
+4	frott	_	_	_	N	_	_	_	_
+5	ta'	_	_	_	ADP	_	_	_	_
+6	deliberazzjoni	_	_	_	N	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	ta'	_	_	_	ADP	_	_	_	_
+9	kalkolu	_	_	_	N	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	ta'	_	_	_	ADP	_	_	_	_
+12	tirqim	_	_	_	N	_	_	_	_
+13	u	_	_	_	CONJ	_	_	_	_
+14	reviżjoni	_	_	_	N	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	anke	_	_	_	ADV	_	_	_	_
+17	jekk	_	_	_	CONJ	_	_	_	_
+18	b'	_	_	_	ADP	_	_	_	_
+19	element	_	_	_	N	_	_	_	_
+20	ta'	_	_	_	ADP	_	_	_	_
+21	sogru	_	_	_	N	_	_	_	_
+22	meqjus	_	_	_	V	_	_	_	_
+23	.	_	_	_	_	_	_	_	_
+
+# sent_id = 58_05N11:38
+# text = Il-lentijiet gravitazzjonali jistgħu jkunu prova oħra tal-eżistenza tal-materja skura.
+1	Il-	_	_	_	DET	_	_	_	_
+2	lentijiet	_	_	_	N	_	_	_	_
+3	gravitazzjonali	_	_	_	ADJ	_	_	_	_
+4	jistgħu	_	_	_	V	_	_	_	_
+5	jkunu	_	_	_	V	_	_	_	_
+6	prova	_	_	_	N	_	_	_	_
+7	oħra	_	_	_	ADJ	_	_	_	_
+8	tal-	_	_	_	ADP	_	_	_	_
+9	eżistenza	_	_	_	N	_	_	_	_
+10	tal-	_	_	_	ADP	_	_	_	_
+11	materja	_	_	_	N	_	_	_	_
+12	skura	_	_	_	ADJ	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = 05_05J01:4
+# text = Illum, id-dwejjaq tal-koppja nbidlet f'rabja għall-fatt li għalkemm xahrejn ilu talbu li ssir inkjesta dwar il-mewt tagħha s'issa għadhom lanqas biss irċevew acknowledgment tat-talba tagħha.
+1	Illum	_	_	_	ADV	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	id-	_	_	_	DET	_	_	_	_
+4	dwejjaq	_	_	_	N	_	_	_	_
+5	tal-	_	_	_	ADP	_	_	_	_
+6	koppja	_	_	_	N	_	_	_	_
+7	nbidlet	_	_	_	V	_	_	_	_
+8	f'	_	_	_	ADP	_	_	_	_
+9	rabja	_	_	_	N	_	_	_	_
+10	għall-	_	_	_	ADP	_	_	_	_
+11	fatt	_	_	_	N	_	_	_	_
+12	li	_	_	_	CONJ	_	_	_	_
+13	għalkemm	_	_	_	CONJ	_	_	_	_
+14	xahrejn	_	_	_	N	_	_	_	_
+15	ilu	_	_	_	ADP	_	_	_	_
+16	talbu	_	_	_	V	_	_	_	_
+17	li	_	_	_	CONJ	_	_	_	_
+18	ssir	_	_	_	V	_	_	_	_
+19	inkjesta	_	_	_	N	_	_	_	_
+20	dwar	_	_	_	ADP	_	_	_	_
+21	il-	_	_	_	DET	_	_	_	_
+22	mewt	_	_	_	N	_	_	_	_
+23	tagħha	_	_	_	PRO	_	_	_	_
+24	s'	_	_	_	ADP	_	_	_	_
+25	issa	_	_	_	ADV	_	_	_	_
+26	għadhom	_	_	_	V	_	_	_	_
+27	lanqas	_	_	_	ADV	_	_	_	_
+28	biss	_	_	_	ADV	_	_	_	_
+29	irċevew	_	_	_	V	_	_	_	_
+30	acknowledgment	_	_	_	N	_	_	_	_
+31	tat-	_	_	_	ADP	_	_	_	_
+32	talba	_	_	_	N	_	_	_	_
+33	tagħha	_	_	_	PRO	_	_	_	_
+34	.	_	_	_	_	_	_	_	_
+
+# sent_id = 49b_04F09:21
+# text = Iva.
+1	Iva	_	_	_	INTJ	_	_	_	_
+2	.	_	_	_	_	_	_	_	_
+
+# sent_id = 13_13J01:1
+# text = Filwaqt li Malta qatt ma setgħet tinjora r-relazzjonijiet mal-Libja, pajjiż ġar tagħha, meta ġie l-mument tal-verita' ma qagħditx lura milli tgħid li hu abjad, abjad u iswed, iswed.
+1	Filwaqt	_	_	_	CONJ	_	_	_	_
+2	li	_	_	_	CONJ	_	_	_	_
+3	Malta	_	_	_	PROPN	_	_	_	_
+4	qatt	_	_	_	ADV	_	_	_	_
+5	ma	_	_	_	PART	_	_	_	_
+6	setgħet	_	_	_	V	_	_	_	_
+7	tinjora	_	_	_	V	_	_	_	_
+8	r-	_	_	_	DET	_	_	_	_
+9	relazzjonijiet	_	_	_	N	_	_	_	_
+10	mal-	_	_	_	ADP	_	_	_	_
+11	Libja	_	_	_	PROPN	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	pajjiż	_	_	_	N	_	_	_	_
+14	ġar	_	_	_	N	_	_	_	_
+15	tagħha	_	_	_	PRO	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	meta	_	_	_	CONJ	_	_	_	_
+18	ġie	_	_	_	V	_	_	_	_
+19	l-	_	_	_	DET	_	_	_	_
+20	mument	_	_	_	N	_	_	_	_
+21	tal-	_	_	_	ADP	_	_	_	_
+22	verita'	_	_	_	N	_	_	_	_
+23	ma	_	_	_	PART	_	_	_	_
+24	qagħditx	_	_	_	V	_	_	_	_
+25	lura	_	_	_	ADV	_	_	_	_
+26	milli	_	_	_	CONJ	_	_	_	_
+27	tgħid	_	_	_	V	_	_	_	_
+28	li	_	_	_	CONJ	_	_	_	_
+29	hu	_	_	_	PRO	_	_	_	_
+30	abjad	_	_	_	ADJ	_	_	_	_
+31	,	_	_	_	_	_	_	_	_
+32	abjad	_	_	_	ADJ	_	_	_	_
+33	u	_	_	_	CONJ	_	_	_	_
+34	iswed	_	_	_	ADJ	_	_	_	_
+35	,	_	_	_	_	_	_	_	_
+36	iswed	_	_	_	ADJ	_	_	_	_
+37	.	_	_	_	_	_	_	_	_
+
+# sent_id = 53_04N10:39
+# text = Il-qamar isemmuh ukoll għat-tqala, u mara bla tfal kienet tgħid: "Il-qamar mimli le jsellimli!" u biex tinqabad u ssir tqila kienet toħroġ ftit għad-dawl ta' qamar għax kienu jgħidu: "Jekk fil-qamar tħuf, issaħħan il-ġuf."
+1	Il-	_	_	_	DET	_	_	_	_
+2	qamar	_	_	_	N	_	_	_	_
+3	isemmuh	_	_	_	V	_	_	_	_
+4	ukoll	_	_	_	ADV	_	_	_	_
+5	għat-	_	_	_	ADP	_	_	_	_
+6	tqala	_	_	_	N	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	u	_	_	_	CONJ	_	_	_	_
+9	mara	_	_	_	N	_	_	_	_
+10	bla	_	_	_	ADP	_	_	_	_
+11	tfal	_	_	_	N	_	_	_	_
+12	kienet	_	_	_	V	_	_	_	_
+13	tgħid	_	_	_	V	_	_	_	_
+14	:	_	_	_	_	_	_	_	_
+15	"	_	_	_	_	_	_	_	_
+16	Il-	_	_	_	DET	_	_	_	_
+17	qamar	_	_	_	N	_	_	_	_
+18	mimli	_	_	_	V	_	_	_	_
+19	le	_	_	_	PART	_	_	_	_
+20	jsellimli	_	_	_	V	_	_	_	_
+21	!	_	_	_	_	_	_	_	_
+22	"	_	_	_	_	_	_	_	_
+23	u	_	_	_	CONJ	_	_	_	_
+24	biex	_	_	_	CONJ	_	_	_	_
+25	tinqabad	_	_	_	V	_	_	_	_
+26	u	_	_	_	CONJ	_	_	_	_
+27	ssir	_	_	_	V	_	_	_	_
+28	tqila	_	_	_	ADJ	_	_	_	_
+29	kienet	_	_	_	V	_	_	_	_
+30	toħroġ	_	_	_	V	_	_	_	_
+31	ftit	_	_	_	DET	_	_	_	_
+32	għad-	_	_	_	ADP	_	_	_	_
+33	dawl	_	_	_	N	_	_	_	_
+34	ta'	_	_	_	ADP	_	_	_	_
+35	qamar	_	_	_	N	_	_	_	_
+36	għax	_	_	_	CONJ	_	_	_	_
+37	kienu	_	_	_	V	_	_	_	_
+38	jgħidu	_	_	_	V	_	_	_	_
+39	:	_	_	_	_	_	_	_	_
+40	"	_	_	_	_	_	_	_	_
+41	Jekk	_	_	_	CONJ	_	_	_	_
+42	fil-	_	_	_	ADP	_	_	_	_
+43	qamar	_	_	_	N	_	_	_	_
+44	tħuf	_	_	_	V	_	_	_	_
+45	,	_	_	_	_	_	_	_	_
+46	issaħħan	_	_	_	V	_	_	_	_
+47	il-	_	_	_	DET	_	_	_	_
+48	ġuf	_	_	_	N	_	_	_	_
+49	.	_	_	_	_	_	_	_	_
+50	"	_	_	_	_	_	_	_	_
+
+# sent_id = 50_01N10:11
+# text = Qabelxejn nitkellmu fuq devjazzjonijiet stilistiċi:
+1	Qabelxejn	_	_	_	ADV	_	_	_	_
+2	nitkellmu	_	_	_	V	_	_	_	_
+3	fuq	_	_	_	ADP	_	_	_	_
+4	devjazzjonijiet	_	_	_	N	_	_	_	_
+5	stilistiċi	_	_	_	ADJ	_	_	_	_
+6	:	_	_	_	_	_	_	_	_
+
+# sent_id = 43_05F08:15
+# text = "Din għadek ma ppruvajtx!"
+1	"	_	_	_	_	_	_	_	_
+2	Din	_	_	_	PRO	_	_	_	_
+3	għadek	_	_	_	V	_	_	_	_
+4	ma	_	_	_	PART	_	_	_	_
+5	ppruvajtx	_	_	_	V	_	_	_	_
+6	!	_	_	_	_	_	_	_	_
+7	"	_	_	_	_	_	_	_	_
+
+# sent_id = 49_03F09:69
+# text = Wara li nviżtani kien qalli: " Forsi dan l-aħħar għaddejt minn xi żmien diffiċli.
+1	Wara	_	_	_	ADP	_	_	_	_
+2	li	_	_	_	CONJ	_	_	_	_
+3	nviżtani	_	_	_	V	_	_	_	_
+4	kien	_	_	_	V	_	_	_	_
+5	qalli	_	_	_	V	_	_	_	_
+6	:	_	_	_	_	_	_	_	_
+7	"	_	_	_	_	_	_	_	_
+8	Forsi	_	_	_	ADV	_	_	_	_
+9	dan	_	_	_	PRO	_	_	_	_
+10	l-	_	_	_	DET	_	_	_	_
+11	aħħar	_	_	_	N	_	_	_	_
+12	għaddejt	_	_	_	V	_	_	_	_
+13	minn	_	_	_	ADP	_	_	_	_
+14	xi	_	_	_	DET	_	_	_	_
+15	żmien	_	_	_	N	_	_	_	_
+16	diffiċli	_	_	_	ADJ	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = 17_04J02:53
+# text = S'issa hawn min jaħseb li din għadha sitwazzjoni fejn l-istaġnar hu finta u mhux reali, jew inkella dan hu argument politiku li ħolqu l-PN.
+1	S'	_	_	_	ADP	_	_	_	_
+2	issa	_	_	_	ADV	_	_	_	_
+3	hawn	_	_	_	V	_	_	_	_
+4	min	_	_	_	PRO	_	_	_	_
+5	jaħseb	_	_	_	V	_	_	_	_
+6	li	_	_	_	CONJ	_	_	_	_
+7	din	_	_	_	PRO	_	_	_	_
+8	għadha	_	_	_	V	_	_	_	_
+9	sitwazzjoni	_	_	_	N	_	_	_	_
+10	fejn	_	_	_	PRO	_	_	_	_
+11	l-	_	_	_	DET	_	_	_	_
+12	istaġnar	_	_	_	N	_	_	_	_
+13	hu	_	_	_	PRO	_	_	_	_
+14	finta	_	_	_	ADJ	_	_	_	_
+15	u	_	_	_	CONJ	_	_	_	_
+16	mhux	_	_	_	PART	_	_	_	_
+17	reali	_	_	_	ADJ	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	jew	_	_	_	CONJ	_	_	_	_
+20	inkella	_	_	_	ADV	_	_	_	_
+21	dan	_	_	_	PRO	_	_	_	_
+22	hu	_	_	_	PRO	_	_	_	_
+23	argument	_	_	_	N	_	_	_	_
+24	politiku	_	_	_	ADJ	_	_	_	_
+25	li	_	_	_	CONJ	_	_	_	_
+26	ħolqu	_	_	_	V	_	_	_	_
+27	l-	_	_	_	DET	_	_	_	_
+28	PN	_	_	_	N	_	_	_	_
+29	.	_	_	_	_	_	_	_	_
+
+# sent_id = 02_02J01:26
+# text = Waqt li ammetta li ma kienx trasparenti ma' ħutu, Farrugia semma kif darba tela Ġinebra biex jagħti $ 20,000 lil Tancred Tabone, eks- Ċermen tal-Enemalta li qabel din il-kariga kien involut fl-MOBC.
+1	Waqt	_	_	_	ADP	_	_	_	_
+2	li	_	_	_	CONJ	_	_	_	_
+3	ammetta	_	_	_	V	_	_	_	_
+4	li	_	_	_	CONJ	_	_	_	_
+5	ma	_	_	_	PART	_	_	_	_
+6	kienx	_	_	_	V	_	_	_	_
+7	trasparenti	_	_	_	ADJ	_	_	_	_
+8	ma'	_	_	_	ADP	_	_	_	_
+9	ħutu	_	_	_	N	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	Farrugia	_	_	_	PROPN	_	_	_	_
+12	semma	_	_	_	V	_	_	_	_
+13	kif	_	_	_	PRO	_	_	_	_
+14	darba	_	_	_	N	_	_	_	_
+15	tela	_	_	_	V	_	_	_	_
+16	Ġinebra	_	_	_	PROPN	_	_	_	_
+17	biex	_	_	_	CONJ	_	_	_	_
+18	jagħti	_	_	_	V	_	_	_	_
+19	$	_	_	_	_	_	_	_	_
+20	20,000	_	_	_	NUM	_	_	_	_
+21	lil	_	_	_	ADP	_	_	_	_
+22	Tancred	_	_	_	PROPN	_	_	_	_
+23	Tabone	_	_	_	PROPN	_	_	_	_
+24	,	_	_	_	_	_	_	_	_
+25	eks-	_	_	_	ADJ	_	_	_	_
+26	Ċermen	_	_	_	N	_	_	_	_
+27	tal-	_	_	_	ADP	_	_	_	_
+28	Enemalta	_	_	_	PROPN	_	_	_	_
+29	li	_	_	_	CONJ	_	_	_	_
+30	qabel	_	_	_	ADP	_	_	_	_
+31	din	_	_	_	PRO	_	_	_	_
+32	il-	_	_	_	DET	_	_	_	_
+33	kariga	_	_	_	N	_	_	_	_
+34	kien	_	_	_	V	_	_	_	_
+35	involut	_	_	_	V	_	_	_	_
+36	fl-	_	_	_	ADP	_	_	_	_
+37	MOBC	_	_	_	N	_	_	_	_
+38	.	_	_	_	_	_	_	_	_
+
+# sent_id = 23b_04J03:50
+# text = Din se tkun l-ewwel darba li l-festival se jkollu serata għal semifinali li matulha l-ġurija - li għal darb'oħra se tkun kollha barranija - se jkollha 50 fil-mija tal-vot, filwaqt li l-pubbliku se jkollu 50 fil-mija oħra tal-kelma permezz tat-televoting.
+1	Din	_	_	_	PRO	_	_	_	_
+2	se	_	_	_	V	_	_	_	_
+3	tkun	_	_	_	V	_	_	_	_
+4	l-	_	_	_	DET	_	_	_	_
+5	ewwel	_	_	_	NUM	_	_	_	_
+6	darba	_	_	_	N	_	_	_	_
+7	li	_	_	_	CONJ	_	_	_	_
+8	l-	_	_	_	DET	_	_	_	_
+9	festival	_	_	_	N	_	_	_	_
+10	se	_	_	_	V	_	_	_	_
+11	jkollu	_	_	_	V	_	_	_	_
+12	serata	_	_	_	N	_	_	_	_
+13	għal	_	_	_	ADP	_	_	_	_
+14	semifinali	_	_	_	N	_	_	_	_
+15	li	_	_	_	CONJ	_	_	_	_
+16	matulha	_	_	_	PRO	_	_	_	_
+17	l-	_	_	_	DET	_	_	_	_
+18	ġurija	_	_	_	N	_	_	_	_
+19	-	_	_	_	_	_	_	_	_
+20	li	_	_	_	CONJ	_	_	_	_
+21	għal	_	_	_	ADP	_	_	_	_
+22	darb'	_	_	_	N	_	_	_	_
+23	oħra	_	_	_	ADJ	_	_	_	_
+24	se	_	_	_	V	_	_	_	_
+25	tkun	_	_	_	V	_	_	_	_
+26	kollha	_	_	_	DET	_	_	_	_
+27	barranija	_	_	_	ADJ	_	_	_	_
+28	-	_	_	_	_	_	_	_	_
+29	se	_	_	_	V	_	_	_	_
+30	jkollha	_	_	_	V	_	_	_	_
+31	50	_	_	_	NUM	_	_	_	_
+32	fil-	_	_	_	ADP	_	_	_	_
+33	mija	_	_	_	NUM	_	_	_	_
+34	tal-	_	_	_	ADP	_	_	_	_
+35	vot	_	_	_	N	_	_	_	_
+36	,	_	_	_	_	_	_	_	_
+37	filwaqt	_	_	_	CONJ	_	_	_	_
+38	li	_	_	_	CONJ	_	_	_	_
+39	l-	_	_	_	DET	_	_	_	_
+40	pubbliku	_	_	_	N	_	_	_	_
+41	se	_	_	_	V	_	_	_	_
+42	jkollu	_	_	_	V	_	_	_	_
+43	50	_	_	_	NUM	_	_	_	_
+44	fil-	_	_	_	ADP	_	_	_	_
+45	mija	_	_	_	NUM	_	_	_	_
+46	oħra	_	_	_	ADJ	_	_	_	_
+47	tal-	_	_	_	ADP	_	_	_	_
+48	kelma	_	_	_	N	_	_	_	_
+49	permezz	_	_	_	N	_	_	_	_
+50	tat-	_	_	_	ADP	_	_	_	_
+51	televoting	_	_	_	N	_	_	_	_
+52	.	_	_	_	_	_	_	_	_
+
+# sent_id = 55_02N11:55
+# text = Semigrupp għandu operazzjoni binarja assoċjattiva, imma jista' jkun li m'għandux element tal-identità.
+1	Semigrupp	_	_	_	N	_	_	_	_
+2	għandu	_	_	_	V	_	_	_	_
+3	operazzjoni	_	_	_	N	_	_	_	_
+4	binarja	_	_	_	ADJ	_	_	_	_
+5	assoċjattiva	_	_	_	ADJ	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	imma	_	_	_	CONJ	_	_	_	_
+8	jista'	_	_	_	V	_	_	_	_
+9	jkun	_	_	_	V	_	_	_	_
+10	li	_	_	_	CONJ	_	_	_	_
+11	m'	_	_	_	PART	_	_	_	_
+12	għandux	_	_	_	V	_	_	_	_
+13	element	_	_	_	N	_	_	_	_
+14	tal-	_	_	_	ADP	_	_	_	_
+15	identità	_	_	_	N	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = 38_02P06:13
+# text = Lill-Ministru m'iniex nistaqsih affarijiet tekniċi imma qed nagħmillu domanda wiesgħa fuq kwestjoni ta' impjiegi, u dan fuq kollox wara statement li sar fil-pubbliku ftit tal-ġimgħat ilu biss.
+1	Lill-	_	_	_	ADP	_	_	_	_
+2	Ministru	_	_	_	N	_	_	_	_
+3	m'	_	_	_	PART	_	_	_	_
+4	iniex	_	_	_	PART	_	_	_	_
+5	nistaqsih	_	_	_	V	_	_	_	_
+6	affarijiet	_	_	_	N	_	_	_	_
+7	tekniċi	_	_	_	ADJ	_	_	_	_
+8	imma	_	_	_	CONJ	_	_	_	_
+9	qed	_	_	_	V	_	_	_	_
+10	nagħmillu	_	_	_	V	_	_	_	_
+11	domanda	_	_	_	N	_	_	_	_
+12	wiesgħa	_	_	_	ADJ	_	_	_	_
+13	fuq	_	_	_	ADP	_	_	_	_
+14	kwestjoni	_	_	_	N	_	_	_	_
+15	ta'	_	_	_	ADP	_	_	_	_
+16	impjiegi	_	_	_	N	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	u	_	_	_	CONJ	_	_	_	_
+19	dan	_	_	_	PRO	_	_	_	_
+20	fuq	_	_	_	ADP	_	_	_	_
+21	kollox	_	_	_	PRO	_	_	_	_
+22	wara	_	_	_	ADP	_	_	_	_
+23	statement	_	_	_	N	_	_	_	_
+24	li	_	_	_	CONJ	_	_	_	_
+25	sar	_	_	_	V	_	_	_	_
+26	fil-	_	_	_	ADP	_	_	_	_
+27	pubbliku	_	_	_	N	_	_	_	_
+28	ftit	_	_	_	DET	_	_	_	_
+29	tal-	_	_	_	ADP	_	_	_	_
+30	ġimgħat	_	_	_	N	_	_	_	_
+31	ilu	_	_	_	ADP	_	_	_	_
+32	biss	_	_	_	ADV	_	_	_	_
+33	.	_	_	_	_	_	_	_	_
+
+# sent_id = 50_01N10:112
+# text = Fi Fjuri ta' l-Arzell, in-narratur jistagħġeb bir-ritratt antik taz-zija Sor Mansweta li ta' anqas minn erbatax-il sena "donnha ġa kienet ħasbet għas-santa tal-mewt".
+1	Fi	_	_	_	ADP	_	_	_	_
+2	Fjuri	_	_	_	N	_	_	_	_
+3	ta'	_	_	_	ADP	_	_	_	_
+4	l-	_	_	_	DET	_	_	_	_
+5	Arzell	_	_	_	N	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	in-	_	_	_	DET	_	_	_	_
+8	narratur	_	_	_	N	_	_	_	_
+9	jistagħġeb	_	_	_	V	_	_	_	_
+10	bir-	_	_	_	ADP	_	_	_	_
+11	ritratt	_	_	_	N	_	_	_	_
+12	antik	_	_	_	ADJ	_	_	_	_
+13	taz-	_	_	_	ADP	_	_	_	_
+14	zija	_	_	_	N	_	_	_	_
+15	Sor	_	_	_	N	_	_	_	_
+16	Mansweta	_	_	_	PROPN	_	_	_	_
+17	li	_	_	_	CONJ	_	_	_	_
+18	ta'	_	_	_	ADP	_	_	_	_
+19	anqas	_	_	_	ADV	_	_	_	_
+20	minn	_	_	_	ADP	_	_	_	_
+21	erbatax-il	_	_	_	NUM	_	_	_	_
+22	sena	_	_	_	N	_	_	_	_
+23	"	_	_	_	_	_	_	_	_
+24	donnha	_	_	_	V	_	_	_	_
+25	ġa	_	_	_	ADV	_	_	_	_
+26	kienet	_	_	_	V	_	_	_	_
+27	ħasbet	_	_	_	V	_	_	_	_
+28	għas-	_	_	_	ADP	_	_	_	_
+29	santa	_	_	_	N	_	_	_	_
+30	tal-	_	_	_	ADP	_	_	_	_
+31	mewt	_	_	_	N	_	_	_	_
+32	"	_	_	_	_	_	_	_	_
+33	.	_	_	_	_	_	_	_	_
+
+# sent_id = 05_05J01:7
+# text = Sa Mejju 2012, it-tfajla kienet xempju tas-saħħa u s-sbuħija.
+1	Sa	_	_	_	ADP	_	_	_	_
+2	Mejju	_	_	_	PROPN	_	_	_	_
+3	2012	_	_	_	NUM	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	it-	_	_	_	DET	_	_	_	_
+6	tfajla	_	_	_	N	_	_	_	_
+7	kienet	_	_	_	V	_	_	_	_
+8	xempju	_	_	_	N	_	_	_	_
+9	tas-	_	_	_	ADP	_	_	_	_
+10	saħħa	_	_	_	N	_	_	_	_
+11	u	_	_	_	CONJ	_	_	_	_
+12	s-	_	_	_	DET	_	_	_	_
+13	sbuħija	_	_	_	N	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = 17_04J02:11
+# text = Għalina s-self employed, li lkoll għandna n-negozji żgħar jew imdaqqsin tagħna, għandna nispjegaw lil dawk li niltaqgħu magħhom li x-xogħol mhux jirrendi daqskemm kien jirrendi qabel.
+1	Għalina	_	_	_	PRO	_	_	_	_
+2	s-	_	_	_	DET	_	_	_	_
+3	self	_	_	_	ADJ	_	_	_	_
+4	employed	_	_	_	N	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	li	_	_	_	CONJ	_	_	_	_
+7	lkoll	_	_	_	PRO	_	_	_	_
+8	għandna	_	_	_	V	_	_	_	_
+9	n-	_	_	_	DET	_	_	_	_
+10	negozji	_	_	_	N	_	_	_	_
+11	żgħar	_	_	_	ADJ	_	_	_	_
+12	jew	_	_	_	CONJ	_	_	_	_
+13	imdaqqsin	_	_	_	V	_	_	_	_
+14	tagħna	_	_	_	PRO	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	għandna	_	_	_	V	_	_	_	_
+17	nispjegaw	_	_	_	V	_	_	_	_
+18	lil	_	_	_	ADP	_	_	_	_
+19	dawk	_	_	_	PRO	_	_	_	_
+20	li	_	_	_	CONJ	_	_	_	_
+21	niltaqgħu	_	_	_	V	_	_	_	_
+22	magħhom	_	_	_	PRO	_	_	_	_
+23	li	_	_	_	CONJ	_	_	_	_
+24	x-	_	_	_	DET	_	_	_	_
+25	xogħol	_	_	_	N	_	_	_	_
+26	mhux	_	_	_	PART	_	_	_	_
+27	jirrendi	_	_	_	V	_	_	_	_
+28	daqskemm	_	_	_	CONJ	_	_	_	_
+29	kien	_	_	_	V	_	_	_	_
+30	jirrendi	_	_	_	V	_	_	_	_
+31	qabel	_	_	_	ADV	_	_	_	_
+32	.	_	_	_	_	_	_	_	_
+
+# sent_id = 30_01P05:182
+# text = THE CHAIRMAN:
+1	THE	_	_	_	_	_	_	_	_
+2	CHAIRMAN	_	_	_	_	_	_	_	_
+3	:	_	_	_	_	_	_	_	_
+
+# sent_id = 02_02J01:27
+# text = Dan Tabone darba qallu li Allaħares ikun jaf li kien qed jagħti xi ħaġa lil Tarcisio Mifsud u ried anke s-sehem li kien qed jingħata lil Frank Sammut.
+1	Dan	_	_	_	PRO	_	_	_	_
+2	Tabone	_	_	_	PROPN	_	_	_	_
+3	darba	_	_	_	N	_	_	_	_
+4	qallu	_	_	_	V	_	_	_	_
+5	li	_	_	_	CONJ	_	_	_	_
+6	Allaħares	_	_	_	INTJ	_	_	_	_
+7	ikun	_	_	_	V	_	_	_	_
+8	jaf	_	_	_	V	_	_	_	_
+9	li	_	_	_	CONJ	_	_	_	_
+10	kien	_	_	_	V	_	_	_	_
+11	qed	_	_	_	V	_	_	_	_
+12	jagħti	_	_	_	V	_	_	_	_
+13	xi	_	_	_	DET	_	_	_	_
+14	ħaġa	_	_	_	N	_	_	_	_
+15	lil	_	_	_	ADP	_	_	_	_
+16	Tarcisio	_	_	_	PROPN	_	_	_	_
+17	Mifsud	_	_	_	PROPN	_	_	_	_
+18	u	_	_	_	CONJ	_	_	_	_
+19	ried	_	_	_	V	_	_	_	_
+20	anke	_	_	_	ADV	_	_	_	_
+21	s-	_	_	_	DET	_	_	_	_
+22	sehem	_	_	_	N	_	_	_	_
+23	li	_	_	_	CONJ	_	_	_	_
+24	kien	_	_	_	V	_	_	_	_
+25	qed	_	_	_	V	_	_	_	_
+26	jingħata	_	_	_	V	_	_	_	_
+27	lil	_	_	_	ADP	_	_	_	_
+28	Frank	_	_	_	PROPN	_	_	_	_
+29	Sammut	_	_	_	PROPN	_	_	_	_
+30	.	_	_	_	_	_	_	_	_
+
+# sent_id = 58_05N11:7
+# text = L-aħħar kalkoli juru li l-materja skura tagħmel madwar 86 % tal-massa tal-univers u madwar 26 % tal-enerġija tiegħu.
+1	L-	_	_	_	DET	_	_	_	_
+2	aħħar	_	_	_	ADJ	_	_	_	_
+3	kalkoli	_	_	_	N	_	_	_	_
+4	juru	_	_	_	V	_	_	_	_
+5	li	_	_	_	CONJ	_	_	_	_
+6	l-	_	_	_	DET	_	_	_	_
+7	materja	_	_	_	N	_	_	_	_
+8	skura	_	_	_	ADJ	_	_	_	_
+9	tagħmel	_	_	_	V	_	_	_	_
+10	madwar	_	_	_	ADP	_	_	_	_
+11	86	_	_	_	NUM	_	_	_	_
+12	%	_	_	_	_	_	_	_	_
+13	tal-	_	_	_	ADP	_	_	_	_
+14	massa	_	_	_	N	_	_	_	_
+15	tal-	_	_	_	ADP	_	_	_	_
+16	univers	_	_	_	N	_	_	_	_
+17	u	_	_	_	CONJ	_	_	_	_
+18	madwar	_	_	_	ADP	_	_	_	_
+19	26	_	_	_	NUM	_	_	_	_
+20	%	_	_	_	_	_	_	_	_
+21	tal-	_	_	_	ADP	_	_	_	_
+22	enerġija	_	_	_	N	_	_	_	_
+23	tiegħu	_	_	_	PRO	_	_	_	_
+24	.	_	_	_	_	_	_	_	_
+
+# sent_id = 30_01P05:186
+# text = ONOR. CLAUDIO GRECH:
+1	ONOR	_	_	_	N	_	_	_	_
+2	.	_	_	_	_	_	_	_	_
+3	CLAUDIO	_	_	_	PROPN	_	_	_	_
+4	GRECH	_	_	_	PROPN	_	_	_	_
+5	:	_	_	_	_	_	_	_	_
+
+# sent_id = 06_06J01:3
+# text = Il-mijiet ta' nies li telgħu l-Belt biex igawdu l-Karnival laqgħu b'applaws din il-protesta mill-ħaddiema tal-karrijiet.
+1	Il-	_	_	_	DET	_	_	_	_
+2	mijiet	_	_	_	N	_	_	_	_
+3	ta'	_	_	_	ADP	_	_	_	_
+4	nies	_	_	_	N	_	_	_	_
+5	li	_	_	_	CONJ	_	_	_	_
+6	telgħu	_	_	_	V	_	_	_	_
+7	l-	_	_	_	DET	_	_	_	_
+8	Belt	_	_	_	N	_	_	_	_
+9	biex	_	_	_	CONJ	_	_	_	_
+10	igawdu	_	_	_	V	_	_	_	_
+11	l-	_	_	_	DET	_	_	_	_
+12	Karnival	_	_	_	N	_	_	_	_
+13	laqgħu	_	_	_	V	_	_	_	_
+14	b'	_	_	_	ADP	_	_	_	_
+15	applaws	_	_	_	N	_	_	_	_
+16	din	_	_	_	PRO	_	_	_	_
+17	il-	_	_	_	DET	_	_	_	_
+18	protesta	_	_	_	N	_	_	_	_
+19	mill-	_	_	_	ADP	_	_	_	_
+20	ħaddiema	_	_	_	N	_	_	_	_
+21	tal-	_	_	_	ADP	_	_	_	_
+22	karrijiet	_	_	_	N	_	_	_	_
+23	.	_	_	_	_	_	_	_	_
+
+# sent_id = 30_01P05:110
+# text = THE CHAIRMAN:
+1	THE	_	_	_	_	_	_	_	_
+2	CHAIRMAN	_	_	_	_	_	_	_	_
+3	:	_	_	_	_	_	_	_	_
+
+# sent_id = 30_01P05:79
+# text = Mr Chairman, l-uniku kumment li xtaqt nagħmel hu li t-talba hija pjuttost verbuża, fis-sens li hemm ħafna diċitura fiha.
+1	Mr	_	_	_	_	_	_	_	_
+2	Chairman	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	l-	_	_	_	DET	_	_	_	_
+5	uniku	_	_	_	ADJ	_	_	_	_
+6	kumment	_	_	_	N	_	_	_	_
+7	li	_	_	_	CONJ	_	_	_	_
+8	xtaqt	_	_	_	V	_	_	_	_
+9	nagħmel	_	_	_	V	_	_	_	_
+10	hu	_	_	_	PRO	_	_	_	_
+11	li	_	_	_	CONJ	_	_	_	_
+12	t-	_	_	_	DET	_	_	_	_
+13	talba	_	_	_	N	_	_	_	_
+14	hija	_	_	_	PRO	_	_	_	_
+15	pjuttost	_	_	_	ADV	_	_	_	_
+16	verbuża	_	_	_	ADJ	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	fis-	_	_	_	ADP	_	_	_	_
+19	sens	_	_	_	N	_	_	_	_
+20	li	_	_	_	CONJ	_	_	_	_
+21	hemm	_	_	_	V	_	_	_	_
+22	ħafna	_	_	_	DET	_	_	_	_
+23	diċitura	_	_	_	N	_	_	_	_
+24	fiha	_	_	_	PRO	_	_	_	_
+25	.	_	_	_	_	_	_	_	_
+
+# sent_id = 42_04F09:6
+# text = Ħallietna hemm waħedna mitluqin għal riħna bla kliem u bla sliem.
+1	Ħallietna	_	_	_	V	_	_	_	_
+2	hemm	_	_	_	ADV	_	_	_	_
+3	waħedna	_	_	_	ADV	_	_	_	_
+4	mitluqin	_	_	_	V	_	_	_	_
+5	għal	_	_	_	ADP	_	_	_	_
+6	riħna	_	_	_	N	_	_	_	_
+7	bla	_	_	_	ADP	_	_	_	_
+8	kliem	_	_	_	N	_	_	_	_
+9	u	_	_	_	CONJ	_	_	_	_
+10	bla	_	_	_	ADP	_	_	_	_
+11	sliem	_	_	_	N	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = 05_05J01:1
+# text = TFAJLA TMUT BI TRASKURAĠNI?
+1	TFAJLA	_	_	_	N	_	_	_	_
+2	TMUT	_	_	_	V	_	_	_	_
+3	BI	_	_	_	ADP	_	_	_	_
+4	TRASKURAĠNI	_	_	_	N	_	_	_	_
+5	?	_	_	_	_	_	_	_	_
+
+# sent_id = 30_01P05:189
+# text = ONOR. OWEN BONNICI:
+1	ONOR	_	_	_	N	_	_	_	_
+2	.	_	_	_	_	_	_	_	_
+3	OWEN	_	_	_	PROPN	_	_	_	_
+4	BONNICI	_	_	_	PROPN	_	_	_	_
+5	:	_	_	_	_	_	_	_	_
+
+# sent_id = 38_02P06:4
+# text = L-ONOR. NOEL FARRUGIA staqsa lill-Ministru għas-Servizzi Ekonomiċi: Jista' l-Ministru jgħidli x'sar dwar il-kwestjoni ta' vultaġġ baxx fil-Baħrija?
+1	L-	_	_	_	DET	_	_	_	_
+2	ONOR	_	_	_	N	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+4	NOEL	_	_	_	PROPN	_	_	_	_
+5	FARRUGIA	_	_	_	PROPN	_	_	_	_
+6	staqsa	_	_	_	V	_	_	_	_
+7	lill-	_	_	_	ADP	_	_	_	_
+8	Ministru	_	_	_	N	_	_	_	_
+9	għas-	_	_	_	ADP	_	_	_	_
+10	Servizzi	_	_	_	N	_	_	_	_
+11	Ekonomiċi	_	_	_	ADJ	_	_	_	_
+12	:	_	_	_	_	_	_	_	_
+13	Jista'	_	_	_	V	_	_	_	_
+14	l-	_	_	_	DET	_	_	_	_
+15	Ministru	_	_	_	N	_	_	_	_
+16	jgħidli	_	_	_	V	_	_	_	_
+17	x'	_	_	_	PRO	_	_	_	_
+18	sar	_	_	_	V	_	_	_	_
+19	dwar	_	_	_	ADP	_	_	_	_
+20	il-	_	_	_	DET	_	_	_	_
+21	kwestjoni	_	_	_	N	_	_	_	_
+22	ta'	_	_	_	ADP	_	_	_	_
+23	vultaġġ	_	_	_	N	_	_	_	_
+24	baxx	_	_	_	ADJ	_	_	_	_
+25	fil-	_	_	_	ADP	_	_	_	_
+26	Baħrija	_	_	_	PROPN	_	_	_	_
+27	?	_	_	_	_	_	_	_	_
+
+# sent_id = 01_01J01:4
+# text = Ir-rapport kien tpoġġa fuq il-Mejda tal-Kamra tar-Rappreżentanti fit-30 ta' April li għadda.
+1	Ir-	_	_	_	DET	_	_	_	_
+2	rapport	_	_	_	N	_	_	_	_
+3	kien	_	_	_	V	_	_	_	_
+4	tpoġġa	_	_	_	V	_	_	_	_
+5	fuq	_	_	_	ADP	_	_	_	_
+6	il-	_	_	_	DET	_	_	_	_
+7	Mejda	_	_	_	N	_	_	_	_
+8	tal-	_	_	_	ADP	_	_	_	_
+9	Kamra	_	_	_	N	_	_	_	_
+10	tar-	_	_	_	ADP	_	_	_	_
+11	Rappreżentanti	_	_	_	N	_	_	_	_
+12	fit-	_	_	_	ADP	_	_	_	_
+13	30	_	_	_	NUM	_	_	_	_
+14	ta'	_	_	_	ADP	_	_	_	_
+15	April	_	_	_	PROPN	_	_	_	_
+16	li	_	_	_	CONJ	_	_	_	_
+17	għadda	_	_	_	V	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = 46_02F08:3
+# text = Għax għoxrin sena ilu, ix-xmara Ġordan imtliet bil-ħars ċass ta' niesu.
+1	Għax	_	_	_	CONJ	_	_	_	_
+2	għoxrin	_	_	_	NUM	_	_	_	_
+3	sena	_	_	_	N	_	_	_	_
+4	ilu	_	_	_	V	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	ix-	_	_	_	DET	_	_	_	_
+7	xmara	_	_	_	N	_	_	_	_
+8	Ġordan	_	_	_	PROPN	_	_	_	_
+9	imtliet	_	_	_	V	_	_	_	_
+10	bil-	_	_	_	ADP	_	_	_	_
+11	ħars	_	_	_	N	_	_	_	_
+12	ċass	_	_	_	ADJ	_	_	_	_
+13	ta'	_	_	_	ADP	_	_	_	_
+14	niesu	_	_	_	N	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = 58_05N11:8
+# text = Fil-bidu kienu jsejħulha "massa nieqsa", minkejja li effettivament hi materja li l-effetti gravitazzjonali tal-massa tagħha huma osservabbli.
+1	Fil-	_	_	_	ADP	_	_	_	_
+2	bidu	_	_	_	N	_	_	_	_
+3	kienu	_	_	_	V	_	_	_	_
+4	jsejħulha	_	_	_	V	_	_	_	_
+5	"	_	_	_	_	_	_	_	_
+6	massa	_	_	_	N	_	_	_	_
+7	nieqsa	_	_	_	V	_	_	_	_
+8	"	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	minkejja	_	_	_	ADP	_	_	_	_
+11	li	_	_	_	CONJ	_	_	_	_
+12	effettivament	_	_	_	ADV	_	_	_	_
+13	hi	_	_	_	PRO	_	_	_	_
+14	materja	_	_	_	N	_	_	_	_
+15	li	_	_	_	CONJ	_	_	_	_
+16	l-	_	_	_	DET	_	_	_	_
+17	effetti	_	_	_	N	_	_	_	_
+18	gravitazzjonali	_	_	_	ADJ	_	_	_	_
+19	tal-	_	_	_	ADP	_	_	_	_
+20	massa	_	_	_	N	_	_	_	_
+21	tagħha	_	_	_	PRO	_	_	_	_
+22	huma	_	_	_	PRO	_	_	_	_
+23	osservabbli	_	_	_	ADJ	_	_	_	_
+24	.	_	_	_	_	_	_	_	_
+
+# sent_id = 45_07F09:16
+# text = Xi nies li kellhom il-gazzetti f'idejhom bdew jgħidu; "Sewwa ġralhom", "ħaqqhom agħar", "messhom joqtluhom mill-ewwel" u frażijiet oħra li mhux ta' min isemmihom hawn.
+1	Xi	_	_	_	DET	_	_	_	_
+2	nies	_	_	_	N	_	_	_	_
+3	li	_	_	_	CONJ	_	_	_	_
+4	kellhom	_	_	_	V	_	_	_	_
+5	il-	_	_	_	DET	_	_	_	_
+6	gazzetti	_	_	_	N	_	_	_	_
+7	f'	_	_	_	ADP	_	_	_	_
+8	idejhom	_	_	_	N	_	_	_	_
+9	bdew	_	_	_	V	_	_	_	_
+10	jgħidu	_	_	_	V	_	_	_	_
+11	;	_	_	_	_	_	_	_	_
+12	"	_	_	_	_	_	_	_	_
+13	Sewwa	_	_	_	ADV	_	_	_	_
+14	ġralhom	_	_	_	V	_	_	_	_
+15	"	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	"	_	_	_	_	_	_	_	_
+18	ħaqqhom	_	_	_	N	_	_	_	_
+19	agħar	_	_	_	ADJ	_	_	_	_
+20	"	_	_	_	_	_	_	_	_
+21	,	_	_	_	_	_	_	_	_
+22	"	_	_	_	_	_	_	_	_
+23	messhom	_	_	_	V	_	_	_	_
+24	joqtluhom	_	_	_	V	_	_	_	_
+25	mill-	_	_	_	ADP	_	_	_	_
+26	ewwel	_	_	_	NUM	_	_	_	_
+27	"	_	_	_	_	_	_	_	_
+28	u	_	_	_	CONJ	_	_	_	_
+29	frażijiet	_	_	_	N	_	_	_	_
+30	oħra	_	_	_	ADJ	_	_	_	_
+31	li	_	_	_	CONJ	_	_	_	_
+32	mhux	_	_	_	PART	_	_	_	_
+33	ta'	_	_	_	ADP	_	_	_	_
+34	min	_	_	_	PRO	_	_	_	_
+35	isemmihom	_	_	_	V	_	_	_	_
+36	hawn	_	_	_	ADV	_	_	_	_
+37	.	_	_	_	_	_	_	_	_
+
+# sent_id = 50_01N10:9
+# text = Wara kollox l-iskop tal-letteratura fittizzja hi li tissodisfa n-neċessità li nistagħġbu u noħolmu.
+1	Wara	_	_	_	ADP	_	_	_	_
+2	kollox	_	_	_	PRO	_	_	_	_
+3	l-	_	_	_	DET	_	_	_	_
+4	iskop	_	_	_	N	_	_	_	_
+5	tal-	_	_	_	ADP	_	_	_	_
+6	letteratura	_	_	_	N	_	_	_	_
+7	fittizzja	_	_	_	ADJ	_	_	_	_
+8	hi	_	_	_	PRO	_	_	_	_
+9	li	_	_	_	CONJ	_	_	_	_
+10	tissodisfa	_	_	_	V	_	_	_	_
+11	n-	_	_	_	DET	_	_	_	_
+12	neċessità	_	_	_	N	_	_	_	_
+13	li	_	_	_	CONJ	_	_	_	_
+14	nistagħġbu	_	_	_	V	_	_	_	_
+15	u	_	_	_	CONJ	_	_	_	_
+16	noħolmu	_	_	_	V	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = 23b_04J03:24
+# text = Il-ġurija barranija ma jimpurtahiex min hu jew min hi l-kantanta.
+1	Il-	_	_	_	DET	_	_	_	_
+2	ġurija	_	_	_	N	_	_	_	_
+3	barranija	_	_	_	ADJ	_	_	_	_
+4	ma	_	_	_	PART	_	_	_	_
+5	jimpurtahiex	_	_	_	V	_	_	_	_
+6	min	_	_	_	PRO	_	_	_	_
+7	hu	_	_	_	PRO	_	_	_	_
+8	jew	_	_	_	CONJ	_	_	_	_
+9	min	_	_	_	PRO	_	_	_	_
+10	hi	_	_	_	PRO	_	_	_	_
+11	l-	_	_	_	DET	_	_	_	_
+12	kantanta	_	_	_	N	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = 30_01P05:1
+# text = MALTA
+1	MALTA	_	_	_	PROPN	_	_	_	_
+
+# sent_id = 22_02J03:36
+# text = Imma meta dħalna għall-operazzjoni, le.
+1	Imma	_	_	_	CONJ	_	_	_	_
+2	meta	_	_	_	CONJ	_	_	_	_
+3	dħalna	_	_	_	V	_	_	_	_
+4	għall-	_	_	_	ADP	_	_	_	_
+5	operazzjoni	_	_	_	N	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	le	_	_	_	INTJ	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = 30_01P05:71
+# text = a) Jekk il-kuntratt pubbliku tat-12 ta' Diċembru 1997 (fejn il-Gvern Malti hu firmatarju) inkisirx biex jiġi aġevolat finanzjarjament terz;
+1	a	_	_	_	_	_	_	_	_
+2	)	_	_	_	_	_	_	_	_
+3	Jekk	_	_	_	CONJ	_	_	_	_
+4	il-	_	_	_	DET	_	_	_	_
+5	kuntratt	_	_	_	N	_	_	_	_
+6	pubbliku	_	_	_	ADJ	_	_	_	_
+7	tat-	_	_	_	ADP	_	_	_	_
+8	12	_	_	_	NUM	_	_	_	_
+9	ta'	_	_	_	ADP	_	_	_	_
+10	Diċembru	_	_	_	PROPN	_	_	_	_
+11	1997	_	_	_	NUM	_	_	_	_
+12	(	_	_	_	_	_	_	_	_
+13	fejn	_	_	_	PRO	_	_	_	_
+14	il-	_	_	_	DET	_	_	_	_
+15	Gvern	_	_	_	N	_	_	_	_
+16	Malti	_	_	_	ADJ	_	_	_	_
+17	hu	_	_	_	PRO	_	_	_	_
+18	firmatarju	_	_	_	N	_	_	_	_
+19	)	_	_	_	_	_	_	_	_
+20	inkisirx	_	_	_	V	_	_	_	_
+21	biex	_	_	_	CONJ	_	_	_	_
+22	jiġi	_	_	_	V	_	_	_	_
+23	aġevolat	_	_	_	V	_	_	_	_
+24	finanzjarjament	_	_	_	ADV	_	_	_	_
+25	terz	_	_	_	NUM	_	_	_	_
+26	;	_	_	_	_	_	_	_	_
+
+# sent_id = 02_02J01:16
+# text = Ix-xhud qal li huwa qal lil Mallia li kien se jkellem lil ħutu dwar dan u fil-fatt dawn qablu li seta jmexxi bl-arranġament ma' Mallia fejn il-ħlas kien se jkun ta' 12 ċ kull tunellata kull xahar fuq il-ħażna tat-Total.
+1	Ix-	_	_	_	DET	_	_	_	_
+2	xhud	_	_	_	N	_	_	_	_
+3	qal	_	_	_	V	_	_	_	_
+4	li	_	_	_	CONJ	_	_	_	_
+5	huwa	_	_	_	PRO	_	_	_	_
+6	qal	_	_	_	V	_	_	_	_
+7	lil	_	_	_	ADP	_	_	_	_
+8	Mallia	_	_	_	PROPN	_	_	_	_
+9	li	_	_	_	CONJ	_	_	_	_
+10	kien	_	_	_	V	_	_	_	_
+11	se	_	_	_	V	_	_	_	_
+12	jkellem	_	_	_	V	_	_	_	_
+13	lil	_	_	_	ADP	_	_	_	_
+14	ħutu	_	_	_	N	_	_	_	_
+15	dwar	_	_	_	ADP	_	_	_	_
+16	dan	_	_	_	PRO	_	_	_	_
+17	u	_	_	_	CONJ	_	_	_	_
+18	fil-	_	_	_	ADP	_	_	_	_
+19	fatt	_	_	_	N	_	_	_	_
+20	dawn	_	_	_	PRO	_	_	_	_
+21	qablu	_	_	_	V	_	_	_	_
+22	li	_	_	_	CONJ	_	_	_	_
+23	seta	_	_	_	V	_	_	_	_
+24	jmexxi	_	_	_	V	_	_	_	_
+25	bl-	_	_	_	ADP	_	_	_	_
+26	arranġament	_	_	_	N	_	_	_	_
+27	ma'	_	_	_	ADP	_	_	_	_
+28	Mallia	_	_	_	PROPN	_	_	_	_
+29	fejn	_	_	_	PRO	_	_	_	_
+30	il-	_	_	_	DET	_	_	_	_
+31	ħlas	_	_	_	N	_	_	_	_
+32	kien	_	_	_	V	_	_	_	_
+33	se	_	_	_	V	_	_	_	_
+34	jkun	_	_	_	V	_	_	_	_
+35	ta'	_	_	_	ADP	_	_	_	_
+36	12	_	_	_	NUM	_	_	_	_
+37	ċ	_	_	_	N	_	_	_	_
+38	kull	_	_	_	DET	_	_	_	_
+39	tunellata	_	_	_	N	_	_	_	_
+40	kull	_	_	_	DET	_	_	_	_
+41	xahar	_	_	_	N	_	_	_	_
+42	fuq	_	_	_	ADP	_	_	_	_
+43	il-	_	_	_	DET	_	_	_	_
+44	ħażna	_	_	_	N	_	_	_	_
+45	tat-	_	_	_	ADP	_	_	_	_
+46	Total	_	_	_	PROPN	_	_	_	_
+47	.	_	_	_	_	_	_	_	_
+
+# sent_id = 47_01F09:36
+# text = Iż-żewġt itfal daru jħarsu lejh b'għajnejhom mimlija biża'.
+1	Iż-	_	_	_	DET	_	_	_	_
+2	żewġt	_	_	_	NUM	_	_	_	_
+3	itfal	_	_	_	N	_	_	_	_
+4	daru	_	_	_	V	_	_	_	_
+5	jħarsu	_	_	_	V	_	_	_	_
+6	lejh	_	_	_	PRO	_	_	_	_
+7	b'	_	_	_	ADP	_	_	_	_
+8	għajnejhom	_	_	_	N	_	_	_	_
+9	mimlija	_	_	_	V	_	_	_	_
+10	biża'	_	_	_	N	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+

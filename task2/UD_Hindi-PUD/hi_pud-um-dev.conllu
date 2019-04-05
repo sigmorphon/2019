@@ -1,0 +1,2849 @@
+# newdoc id = w01046
+# sent_id = w01046011
+# text = दुर्भाग्यवश, जनसंख्या में तेज वृद्धि और शहरी फैलाव ने विकास के साथ इन ज्यादातर पारिस्थितिकी तंत्रों को ढंक लिया है।
+# text_en = Unfortunately, rapid population growth and urban sprawl has covered much of these ecosystems with development.
+1	दुर्भाग्यवश	_	_	_	ADV	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	जनसंख्या	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+4	में	_	_	_	ADP;ACC	_	_	_	_
+5	तेज	_	_	_	ADJ	_	_	_	_
+6	वृद्धि	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+7	और	_	_	_	CONJ	_	_	_	_
+8	शहरी	_	_	_	ADJ	_	_	_	_
+9	फैलाव	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+10	ने	_	_	_	ADP;ERG	_	_	_	_
+11	विकास	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+12	के	_	_	_	ADP	_	_	_	_
+13	साथ	_	_	_	ADP	_	_	_	_
+14	इन	_	_	_	DET;PL;DEF	_	_	_	_
+15	ज्यादातर	_	_	_	DET	_	_	_	_
+16	पारिस्थितिकी	_	_	_	N;FEM;INAN;SG	_	_	_	_
+17	तंत्रों	_	_	_	PL;N;INAN;ACC;MASC	_	_	_	_
+18	को	_	_	_	ADP;ACC	_	_	_	_
+19	ढंक	_	_	_	V	_	_	_	_
+20	लिया	_	_	_	IND;PFV;V;3;SG;MASC	_	_	_	_
+21	है	_	_	_	V;3;PRS;SG;MASC	_	_	_	_
+22	।	_	_	_	_	_	_	_	_
+
+# sent_id = w01053062
+# text = यदि उस साल असाधारण लीप माह शुरू हो गया होता तो बाद वाली तिथि केवल शुक्रवार को पड़ सकती थी, लेकिन यह तो न्यूटन द्वारा इष्ट था।
+# text_en = The latter date can only have fallen on a Friday if an exceptional leap month had been introduced that year, but this was favoured by Newton.
+1	यदि	_	_	_	CONJ	_	_	_	_
+2	उस	_	_	_	DET;SG;DEF	_	_	_	_
+3	साल	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+4	असाधारण	_	_	_	ADJ	_	_	_	_
+5	लीप	_	_	_	ADJ	_	_	_	_
+6	माह	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+7	शुरू	_	_	_	MASC;N;SG	_	_	_	_
+8	हो	_	_	_	V	_	_	_	_
+9	गया	_	_	_	V;MASC;SG;3	_	_	_	_
+10	होता	_	_	_	PFV;V;3;SG;MASC	_	_	_	_
+11	तो	_	_	_	CONJ	_	_	_	_
+12	बाद	_	_	_	N	_	_	_	_
+13	वाली	_	_	_	ADP;FEM;SG;NOM	_	_	_	_
+14	तिथि	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+15	केवल	_	_	_	DET	_	_	_	_
+16	शुक्रवार	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+17	को	_	_	_	ADP;ACC	_	_	_	_
+18	पड़	_	_	_	V	_	_	_	_
+19	सकती	_	_	_	IND;V;SG;IPFV;3;FEM	_	_	_	_
+20	थी	_	_	_	PST;V;SG;3;FEM	_	_	_	_
+21	,	_	_	_	_	_	_	_	_
+22	लेकिन	_	_	_	CONJ	_	_	_	_
+23	यह	_	_	_	PRO;SG	_	_	_	_
+24	तो	_	_	_	PART	_	_	_	_
+25	न्यूटन	_	_	_	ANIM;PROPN;SG;ACC;MASC	_	_	_	_
+26	द्वारा	_	_	_	ADP;INS	_	_	_	_
+27	इष्ट	_	_	_	ADJ	_	_	_	_
+28	था	_	_	_	PST;IND;PFV;V;3;SG;MASC	_	_	_	_
+29	।	_	_	_	_	_	_	_	_
+
+# sent_id = n01005024
+# text = जॉर्जटाउन बीआईडी के अध्यक्ष जो स्टर्नलीब ने कहा, “हम बहुत ही प्रतिस्पर्धा का सामना करते हैं, और हमें लगता है कि पारगमन इसमें मदद कर सकता है।”
+# text_en = “We face a lot of competition, and we think transit can help,” said Joe Sternlieb, president of the Georgetown BID.
+1	जॉर्जटाउन	_	_	_	MASC;PROPN;SG;INAN	_	_	_	_
+2	बीआईडी	_	_	_	PROPN;SG;INAN;ACC;MASC	_	_	_	_
+3	के	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+4	अध्यक्ष	_	_	_	ANIM;N;SG;NOM	_	_	_	_
+5	जो	_	_	_	MASC;ANIM;PROPN;SG	_	_	_	_
+6	स्टर्नलीब	_	_	_	ANIM;PROPN;SG;ACC;MASC	_	_	_	_
+7	ने	_	_	_	ADP;ERG	_	_	_	_
+8	कहा	_	_	_	PST;IND;PFV;3;SG;V;MASC	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	“	_	_	_	_	_	_	_	_
+11	हम	_	_	_	ANIM;PL;PRO;NOM;1	_	_	_	_
+12	बहुत	_	_	_	DET	_	_	_	_
+13	ही	_	_	_	PART	_	_	_	_
+14	प्रतिस्पर्धा	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+15	का	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+16	सामना	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+17	करते	_	_	_	IND;PL;V;IPFV;1	_	_	_	_
+18	हैं	_	_	_	V;PL;1;PRS	_	_	_	_
+19	,	_	_	_	_	_	_	_	_
+20	और	_	_	_	CONJ	_	_	_	_
+21	हमें	_	_	_	ANIM;PL;PRO;1;ACC	_	_	_	_
+22	लगता	_	_	_	IND;PL;V;IPFV;1	_	_	_	_
+23	है	_	_	_	V;PL;1;PRS	_	_	_	_
+24	कि	_	_	_	CONJ	_	_	_	_
+25	पारगमन	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+26	इसमें	_	_	_	PRO;SG	_	_	_	_
+27	मदद	_	_	_	N;SG;FEM	_	_	_	_
+28	कर	_	_	_	V	_	_	_	_
+29	सकता	_	_	_	IND;V;3;SG;IPFV;MASC	_	_	_	_
+30	है	_	_	_	V;3;PRS;SG;MASC	_	_	_	_
+31	।	_	_	_	_	_	_	_	_
+32	”	_	_	_	_	_	_	_	_
+
+# newdoc id = w01113
+# sent_id = w01113033
+# text = यह कार्ड एक भत्ता प्रदान करता है जिसे स्कूल की जरूरतों जैसे की किताबों और यूनीफॉर्म की खरीददारी के लिए एटीएम से निकाला जा सकता है।
+# text_en = This card gives an allowance that can be withdrawn from ATMs in order to buy school needs such as books and uniforms.
+1	यह	_	_	_	DET;SG;DEF	_	_	_	_
+2	कार्ड	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+3	एक	_	_	_	DET;SG;INDF	_	_	_	_
+4	भत्ता	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+5	प्रदान	_	_	_	MASC;N;SG	_	_	_	_
+6	करता	_	_	_	IND;3;SG;V;IPFV;MASC	_	_	_	_
+7	है	_	_	_	V;3;PRS;SG;MASC	_	_	_	_
+8	जिसे	_	_	_	PSSS;SG;PRO;ACC	_	_	_	_
+9	स्कूल	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+10	की	_	_	_	ADP;GEN;FEM	_	_	_	_
+11	जरूरतों	_	_	_	PL;N;INAN;ACC;FEM	_	_	_	_
+12	जैसे	_	_	_	ADP	_	_	_	_
+13	की	_	_	_	ADP	_	_	_	_
+14	किताबों	_	_	_	PL;N;INAN;ACC;FEM	_	_	_	_
+15	और	_	_	_	CONJ	_	_	_	_
+16	यूनीफॉर्म	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+17	की	_	_	_	ADP;GEN;FEM	_	_	_	_
+18	खरीददारी	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+19	के	_	_	_	ADP	_	_	_	_
+20	लिए	_	_	_	ADP	_	_	_	_
+21	एटीएम	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+22	से	_	_	_	ADP;ACC	_	_	_	_
+23	निकाला	_	_	_	V;MASC;SG;3	_	_	_	_
+24	जा	_	_	_	V	_	_	_	_
+25	सकता	_	_	_	V;3;SG;OPT;IPFV;MASC	_	_	_	_
+26	है	_	_	_	V;3;PRS;SG;MASC	_	_	_	_
+27	।	_	_	_	_	_	_	_	_
+
+# newdoc id = w01034
+# sent_id = w01034023
+# text = केंटुकी और इंडियाना में पारिवारिक जीवन के दौरान, थॉमस लिंकन ने किसान, कैबिनेटमेकर, और बढ़ई के रूप में काम किया।
+# text_en = During the family's years in Kentucky and Indiana, Thomas Lincoln worked as a farmer, cabinetmaker, and carpenter.
+1	केंटुकी	_	_	_	PROPN;SG;INAN;ACC;FEM	_	_	_	_
+2	और	_	_	_	CONJ	_	_	_	_
+3	इंडियाना	_	_	_	PROPN;SG;INAN;ACC;MASC	_	_	_	_
+4	में	_	_	_	ADP;ESS	_	_	_	_
+5	पारिवारिक	_	_	_	ADJ	_	_	_	_
+6	जीवन	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+7	के	_	_	_	ADP	_	_	_	_
+8	दौरान	_	_	_	ADP	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	थॉमस	_	_	_	MASC;ANIM;PROPN;SG	_	_	_	_
+11	लिंकन	_	_	_	ANIM;PROPN;SG;ACC;MASC	_	_	_	_
+12	ने	_	_	_	ADP;ERG	_	_	_	_
+13	किसान	_	_	_	ANIM;N;SG;NOM	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	कैबिनेटमेकर	_	_	_	ANIM;N;SG;NOM	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	और	_	_	_	CONJ	_	_	_	_
+18	बढ़ई	_	_	_	ANIM;N;SG;ACC	_	_	_	_
+19	के	_	_	_	ADP	_	_	_	_
+20	रूप	_	_	_	ADP	_	_	_	_
+21	में	_	_	_	ADP	_	_	_	_
+22	काम	_	_	_	MASC;N;SG	_	_	_	_
+23	किया	_	_	_	PST;IND;PFV;3;SG;V;MASC	_	_	_	_
+24	।	_	_	_	_	_	_	_	_
+
+# sent_id = n03007009
+# text = इसका उद्देश्य यात्रा के वास्तविक समय को मापने में सक्षम हुए बगैर, वास्तविक रूप से पूरे किए गए काम के घंटों से इसे घटाकर यात्रा के समय को ध्यान में रखना है।
+# text_en = It aims to take the journey time into account after deducting this from the working hours actually completed, without being able to measure the real journey time.
+1	इसका	_	_	_	PRO;SG	_	_	_	_
+2	उद्देश्य	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+3	यात्रा	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+4	के	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+5	वास्तविक	_	_	_	ADJ	_	_	_	_
+6	समय	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+7	को	_	_	_	ADP;ACC	_	_	_	_
+8	मापने	_	_	_	V;NFIN	_	_	_	_
+9	में	_	_	_	ADP;ACC	_	_	_	_
+10	सक्षम	_	_	_	ADJ	_	_	_	_
+11	हुए	_	_	_	V;MASC;SG;3	_	_	_	_
+12	बगैर	_	_	_	PART;NEG	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	वास्तविक	_	_	_	ADJ	_	_	_	_
+15	रूप	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+16	से	_	_	_	ADP;ACC	_	_	_	_
+17	पूरे	_	_	_	MASC;ACC;SG;ADJ	_	_	_	_
+18	किए	_	_	_	V;MASC;SG;3	_	_	_	_
+19	गए	_	_	_	V;MASC;SG;3	_	_	_	_
+20	काम	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+21	के	_	_	_	MASC;ADP;GEN;PL	_	_	_	_
+22	घंटों	_	_	_	PL;N;INAN;ACC;MASC	_	_	_	_
+23	से	_	_	_	ADP;ACC	_	_	_	_
+24	इसे	_	_	_	PRO;SG	_	_	_	_
+25	घटाकर	_	_	_	V	_	_	_	_
+26	यात्रा	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+27	के	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+28	समय	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+29	को	_	_	_	ADP;ACC	_	_	_	_
+30	ध्यान	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+31	में	_	_	_	ADP;ACC	_	_	_	_
+32	रखना	_	_	_	V;NFIN	_	_	_	_
+33	है	_	_	_	IND;V;3;PRS;SG;IPFV;MASC	_	_	_	_
+34	।	_	_	_	_	_	_	_	_
+
+# sent_id = w01117029
+# text = उसका नया नॉन-फिक्शन लेनॉक्स की काउंटेस मार्गरेट डगलस के बारे में है।
+# text_en = Her latest non-fiction is about Margaret Douglas, Countess of Lennox.
+1	उसका	_	_	_	ANIM;3;SG;PRO;NOM;MASC	_	_	_	_
+2	नया	_	_	_	MASC;SG;NOM;ADJ	_	_	_	_
+3	नॉन	_	_	_	ADJ	_	_	_	_
+4	-	_	_	_	_	_	_	_	_
+5	फिक्शन	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+6	लेनॉक्स	_	_	_	PROPN;SG;INAN;ACC;MASC	_	_	_	_
+7	की	_	_	_	ADP;GEN;FEM	_	_	_	_
+8	काउंटेस	_	_	_	ANIM;N;SG;NOM;FEM	_	_	_	_
+9	मार्गरेट	_	_	_	ANIM;PROPN;SG;FEM	_	_	_	_
+10	डगलस	_	_	_	ANIM;PROPN;SG;ACC;FEM	_	_	_	_
+11	के	_	_	_	ADP	_	_	_	_
+12	बारे	_	_	_	ADP	_	_	_	_
+13	में	_	_	_	ADP	_	_	_	_
+14	है	_	_	_	IND;3;PRS;SG;V;IPFV;MASC	_	_	_	_
+15	।	_	_	_	_	_	_	_	_
+
+# sent_id = n03001030
+# text = कार्यक्रम के अनुसार, वह 23.45 बजे भाषण देगी।
+# text_en = According to the programme, she will speak at 23.45.
+1	कार्यक्रम	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+2	के	_	_	_	ADP	_	_	_	_
+3	अनुसार	_	_	_	ADP	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	वह	_	_	_	ANIM;SG;PRO;NOM;3	_	_	_	_
+6	23.45	_	_	_	NUM	_	_	_	_
+7	बजे	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+8	भाषण	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+9	देगी	_	_	_	IND;SG;V;IPFV;3;FEM;FUT	_	_	_	_
+10	।	_	_	_	_	_	_	_	_
+
+# newdoc id = w03003
+# sent_id = w03003023
+# text = वॉन बेलिंगशाउसेन ने ब्रांसफील्ड द्वारा अंटार्कटिक की भूमि देखने से तीन दिन पहले, और पामेर से दस महीने पहले, 27 जनवरी 1820 को अंटार्कटिक देखा; पामेर ने नवम्बर 1820 में उसे देखा था।
+# text_en = Von Bellingshausen sighted Antarctica on the 27th of January 1820, three days before Bransfield sighted land, and ten months before Palmer did so in November 1820.
+1	वॉन	_	_	_	MASC;ANIM;PROPN;SG	_	_	_	_
+2	बेलिंगशाउसेन	_	_	_	ANIM;PROPN;SG;ACC;MASC	_	_	_	_
+3	ने	_	_	_	ADP;ERG	_	_	_	_
+4	ब्रांसफील्ड	_	_	_	ANIM;PROPN;SG;ACC;MASC	_	_	_	_
+5	द्वारा	_	_	_	ADP	_	_	_	_
+6	अंटार्कटिक	_	_	_	PROPN;SG;INAN;ACC;MASC	_	_	_	_
+7	की	_	_	_	ADP;GEN;FEM	_	_	_	_
+8	भूमि	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+9	देखने	_	_	_	V;NFIN	_	_	_	_
+10	से	_	_	_	ADP	_	_	_	_
+11	तीन	_	_	_	NUM	_	_	_	_
+12	दिन	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+13	पहले	_	_	_	ADP	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	और	_	_	_	CONJ	_	_	_	_
+16	पामेर	_	_	_	ANIM;PROPN;SG;ACC;MASC	_	_	_	_
+17	से	_	_	_	ADP	_	_	_	_
+18	दस	_	_	_	NUM	_	_	_	_
+19	महीने	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+20	पहले	_	_	_	ADP	_	_	_	_
+21	,	_	_	_	_	_	_	_	_
+22	27	_	_	_	NUM	_	_	_	_
+23	जनवरी	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+24	1820	_	_	_	NUM	_	_	_	_
+25	को	_	_	_	ADP;ESS	_	_	_	_
+26	अंटार्कटिक	_	_	_	PROPN;SG;INAN;NOM;MASC	_	_	_	_
+27	देखा	_	_	_	PST;IND;PFV;3;SG;V;MASC	_	_	_	_
+28	;	_	_	_	_	_	_	_	_
+29	पामेर	_	_	_	ANIM;PROPN;SG;ACC;MASC	_	_	_	_
+30	ने	_	_	_	ADP;ERG	_	_	_	_
+31	नवम्बर	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+32	1820	_	_	_	NUM	_	_	_	_
+33	में	_	_	_	ADP;ESS	_	_	_	_
+34	उसे	_	_	_	3;SG;INAN;PRO;ACC;MASC	_	_	_	_
+35	देखा	_	_	_	IND;PFV;3;SG;V;MASC	_	_	_	_
+36	था	_	_	_	PST;V;3;SG;MASC	_	_	_	_
+37	।	_	_	_	_	_	_	_	_
+
+# newdoc id = w01057
+# sent_id = w01057006
+# text = हर कविता युद्ध के केवल एक हिस्से का बयान करती है।
+# text_en = Each poem narrates only a part of the war.
+1	हर	_	_	_	DET	_	_	_	_
+2	कविता	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+3	युद्ध	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+4	के	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+5	केवल	_	_	_	DET	_	_	_	_
+6	एक	_	_	_	DET;SG;INDF	_	_	_	_
+7	हिस्से	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+8	का	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+9	बयान	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+10	करती	_	_	_	IND;SG;V;IPFV;3;FEM	_	_	_	_
+11	है	_	_	_	V;PRS;SG;3;FEM	_	_	_	_
+12	।	_	_	_	_	_	_	_	_
+
+# sent_id = w01028050
+# text = विवाद का केन्द्र बिन्दु यह था कि कंसास संघ में स्वतंत्र राज्य के रूप में प्रवेश करेगा या गुलाम राज्य के रूप में।
+# text_en = At the heart of the conflict was the question of whether Kansas would enter the Union as a free state or slave state.
+1	विवाद	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+2	का	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+3	केन्द्र	_	_	_	MASC;N;SG;INAN	_	_	_	_
+4	बिन्दु	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+5	यह	_	_	_	PRO;SG	_	_	_	_
+6	था	_	_	_	PST;IND;PFV;3;SG;V;MASC	_	_	_	_
+7	कि	_	_	_	CONJ	_	_	_	_
+8	कंसास	_	_	_	PROPN;SG;INAN;NOM;MASC	_	_	_	_
+9	संघ	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+10	में	_	_	_	ADP;ESS	_	_	_	_
+11	स्वतंत्र	_	_	_	ADJ	_	_	_	_
+12	राज्य	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+13	के	_	_	_	ADP	_	_	_	_
+14	रूप	_	_	_	ADP	_	_	_	_
+15	में	_	_	_	ADP	_	_	_	_
+16	प्रवेश	_	_	_	MASC;N;SG	_	_	_	_
+17	करेगा	_	_	_	IND;3;SG;V;IPFV;MASC;FUT	_	_	_	_
+18	या	_	_	_	CONJ	_	_	_	_
+19	गुलाम	_	_	_	ADJ	_	_	_	_
+20	राज्य	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+21	के	_	_	_	ADP	_	_	_	_
+22	रूप	_	_	_	ADP	_	_	_	_
+23	में	_	_	_	ADP	_	_	_	_
+24	।	_	_	_	_	_	_	_	_
+
+# sent_id = w02019085
+# text = बाद के वर्ष, 1977 में, उसे अमेरिका के प्रति अपने प्रेस को मैत्रीपूर्ण स्थिति में रखने के लिए अमेरिकी मैत्री पदक से सम्मानित किया गया।
+# text_en = In the following year, 1977, he received the distinction of the American Friendship Medal for the friendly position of his press toward the USA.
+1	बाद	_	_	_	N	_	_	_	_
+2	के	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+3	वर्ष	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	1977	_	_	_	NUM	_	_	_	_
+6	में	_	_	_	ADP;ESS	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	उसे	_	_	_	ANIM;SG;PRO;ACC;3	_	_	_	_
+9	अमेरिका	_	_	_	PROPN;SG;INAN;ACC;MASC	_	_	_	_
+10	के	_	_	_	ADP	_	_	_	_
+11	प्रति	_	_	_	ADP	_	_	_	_
+12	अपने	_	_	_	PRO;MASC;SG;ACC	_	_	_	_
+13	प्रेस	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+14	को	_	_	_	ADP;ACC	_	_	_	_
+15	मैत्रीपूर्ण	_	_	_	ADJ	_	_	_	_
+16	स्थिति	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+17	में	_	_	_	ADP;ACC	_	_	_	_
+18	रखने	_	_	_	V;NFIN	_	_	_	_
+19	के	_	_	_	ADP	_	_	_	_
+20	लिए	_	_	_	ADP	_	_	_	_
+21	अमेरिकी	_	_	_	ADJ	_	_	_	_
+22	मैत्री	_	_	_	ADJ	_	_	_	_
+23	पदक	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+24	से	_	_	_	ADP;ACC	_	_	_	_
+25	सम्मानित	_	_	_	ADJ	_	_	_	_
+26	किया	_	_	_	V;MASC;SG;3	_	_	_	_
+27	गया	_	_	_	PST;IND;PFV;V;3;SG;MASC	_	_	_	_
+28	।	_	_	_	_	_	_	_	_
+
+# newdoc id = w02018
+# sent_id = w02018030
+# text = वेइस कोलोन और ब्रेमेन शहरों द्वारा साहित्य पुरस्कारों से सम्मानित किया गया था।
+# text_en = Weiss was honored with the literature prizes from the cities of Cologne and Bremen.
+1	वेइस	_	_	_	ANIM;PROPN;SG;NOM;MASC	_	_	_	_
+2	कोलोन	_	_	_	PROPN;SG;INAN;NOM;MASC	_	_	_	_
+3	और	_	_	_	CONJ	_	_	_	_
+4	ब्रेमेन	_	_	_	PROPN;SG;INAN;NOM;MASC	_	_	_	_
+5	शहरों	_	_	_	PL;N;INAN;ACC;MASC	_	_	_	_
+6	द्वारा	_	_	_	ADP	_	_	_	_
+7	साहित्य	_	_	_	MASC;N;SG;INAN	_	_	_	_
+8	पुरस्कारों	_	_	_	PL;N;INAN;ACC;MASC	_	_	_	_
+9	से	_	_	_	ADP;ACC	_	_	_	_
+10	सम्मानित	_	_	_	ADJ	_	_	_	_
+11	किया	_	_	_	V;MASC;SG;3	_	_	_	_
+12	गया	_	_	_	IND;PFV;V;3;SG;MASC	_	_	_	_
+13	था	_	_	_	PST;V;3;SG;MASC	_	_	_	_
+14	।	_	_	_	_	_	_	_	_
+
+# newdoc id = w03008
+# sent_id = w03008011
+# text = इस प्रकरण को एक परिवर्तनकामी क्रान्तिकारी के रूप में उसके कैरियर की शुरुआत के तौर पर देखा जा सकता है।
+# text_en = This affair can be seen as the starting point for his career as a radical revolutionary.
+1	इस	_	_	_	DET;SG;DEF	_	_	_	_
+2	प्रकरण	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+3	को	_	_	_	ADP;ACC	_	_	_	_
+4	एक	_	_	_	DET;SG;INDF	_	_	_	_
+5	परिवर्तनकामी	_	_	_	ADJ	_	_	_	_
+6	क्रान्तिकारी	_	_	_	ANIM;N;SG;NOM	_	_	_	_
+7	के	_	_	_	ADP	_	_	_	_
+8	रूप	_	_	_	ADP	_	_	_	_
+9	में	_	_	_	ADP	_	_	_	_
+10	उसके	_	_	_	ANIM;SG;PRO;ACC;3	_	_	_	_
+11	कैरियर	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+12	की	_	_	_	ADP;GEN;FEM	_	_	_	_
+13	शुरुआत	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+14	के	_	_	_	ADP	_	_	_	_
+15	तौर	_	_	_	ADP	_	_	_	_
+16	पर	_	_	_	ADP	_	_	_	_
+17	देखा	_	_	_	V;MASC;SG;3	_	_	_	_
+18	जा	_	_	_	V	_	_	_	_
+19	सकता	_	_	_	IND;V;3;SG;IPFV;MASC	_	_	_	_
+20	है	_	_	_	V;3;PRS;SG;MASC	_	_	_	_
+21	।	_	_	_	_	_	_	_	_
+
+# newdoc id = w01063
+# sent_id = w01063048
+# text = देवताओं ने रोजमर्रे के जीवन की व्यावहारिक जरूरतों का स्पष्ट रूप से प्रतिनिधित्व किया, और वे इमानदारी से संस्कारों और यथेष्ट रूप से मान्य प्रार्थनाओं के अनुरूप थे।
+# text_en = The gods represented distinctly the practical needs of daily life, and they were scrupulously accorded the rites and offerings considered proper.
+1	देवताओं	_	_	_	ANIM;N;PL;ACC;MASC	_	_	_	_
+2	ने	_	_	_	ADP;ERG	_	_	_	_
+3	रोजमर्रे	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+4	के	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+5	जीवन	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+6	की	_	_	_	ADP;GEN;FEM	_	_	_	_
+7	व्यावहारिक	_	_	_	ADJ	_	_	_	_
+8	जरूरतों	_	_	_	PL;N;INAN;ACC;FEM	_	_	_	_
+9	का	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+10	स्पष्ट	_	_	_	ADJ	_	_	_	_
+11	रूप	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+12	से	_	_	_	ADP;ACC	_	_	_	_
+13	प्रतिनिधित्व	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+14	किया	_	_	_	PST;IND;PFV;3;SG;V;MASC	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	और	_	_	_	CONJ	_	_	_	_
+17	वे	_	_	_	ANIM;PL;3;PRO;NOM;MASC	_	_	_	_
+18	इमानदारी	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+19	से	_	_	_	ADP;ACC	_	_	_	_
+20	संस्कारों	_	_	_	PL;N;INAN;ACC;MASC	_	_	_	_
+21	और	_	_	_	CONJ	_	_	_	_
+22	यथेष्ट	_	_	_	ADJ	_	_	_	_
+23	रूप	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+24	से	_	_	_	ADP;ACC	_	_	_	_
+25	मान्य	_	_	_	ADJ	_	_	_	_
+26	प्रार्थनाओं	_	_	_	PL;N;INAN;ACC;FEM	_	_	_	_
+27	के	_	_	_	ADP	_	_	_	_
+28	अनुरूप	_	_	_	ADP	_	_	_	_
+29	थे	_	_	_	PST;IND;PL;PFV;3;V;MASC	_	_	_	_
+30	।	_	_	_	_	_	_	_	_
+
+# sent_id = w01050071
+# text = बोड खान द्वारा नियंत्रित क्षेत्र लगभग उतना था जितना क्विंग शासन में पूर्व मंगोलिया का बाहरी क्षेत्र था।
+# text_en = The area controlled by the Bogd Khaan was approximately that of the former Outer Mongolia during the Qing period.
+1	बोड	_	_	_	MASC;ANIM;PROPN;SG	_	_	_	_
+2	खान	_	_	_	ANIM;PROPN;SG;ACC;MASC	_	_	_	_
+3	द्वारा	_	_	_	ADP;INS	_	_	_	_
+4	नियंत्रित	_	_	_	ADJ	_	_	_	_
+5	क्षेत्र	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+6	लगभग	_	_	_	DET	_	_	_	_
+7	उतना	_	_	_	ADP	_	_	_	_
+8	था	_	_	_	PST;IND;3;SG;V;IPFV;MASC	_	_	_	_
+9	जितना	_	_	_	ADP	_	_	_	_
+10	क्विंग	_	_	_	MASC;PROPN;SG;INAN	_	_	_	_
+11	शासन	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+12	में	_	_	_	ADP;ESS	_	_	_	_
+13	पूर्व	_	_	_	ADJ	_	_	_	_
+14	मंगोलिया	_	_	_	PROPN;SG;INAN;ACC;MASC	_	_	_	_
+15	का	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+16	बाहरी	_	_	_	ADJ	_	_	_	_
+17	क्षेत्र	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+18	था	_	_	_	PST;IND;PFV;3;SG;V;MASC	_	_	_	_
+19	।	_	_	_	_	_	_	_	_
+
+# newdoc id = n05008
+# sent_id = n05008012
+# text = परिणामस्वरूप, ट्रम्प राष्ट्रीय स्तर पर लैटिन अमेरिकी वोटों को लेकर बहुत चिंतित नहीं हैं।
+# text_en = As a result, Trump isn't very worried about the Latin American vote at a national level.
+1	परिणामस्वरूप	_	_	_	ADV	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	ट्रम्प	_	_	_	ANIM;PROPN;SG;NOM;MASC	_	_	_	_
+4	राष्ट्रीय	_	_	_	ADJ	_	_	_	_
+5	स्तर	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+6	पर	_	_	_	ADP;ACC	_	_	_	_
+7	लैटिन	_	_	_	ADJ	_	_	_	_
+8	अमेरिकी	_	_	_	ADJ	_	_	_	_
+9	वोटों	_	_	_	PL;N;INAN;ACC;MASC	_	_	_	_
+10	को	_	_	_	ADP;ACC	_	_	_	_
+11	लेकर	_	_	_	V	_	_	_	_
+12	बहुत	_	_	_	DET	_	_	_	_
+13	चिंतित	_	_	_	ADJ	_	_	_	_
+14	नहीं	_	_	_	PART;NEG	_	_	_	_
+15	हैं	_	_	_	IND;FORM;V;3;PRS;SG;IPFV;MASC	_	_	_	_
+16	।	_	_	_	_	_	_	_	_
+
+# newdoc id = w03006
+# sent_id = w03006024
+# text = मध्य युग में, ज्यादातर इसाईयों की पहुंच अपनी मातृभाषा में बाइबिल तक नहीं थी।
+# text_en = In the Middle Ages, most Christians did not have access to the Bible in their mother tongue.
+1	मध्य	_	_	_	ADJ	_	_	_	_
+2	युग	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+3	में	_	_	_	ADP;ESS	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	ज्यादातर	_	_	_	DET	_	_	_	_
+6	इसाईयों	_	_	_	ANIM;N;PL;ACC	_	_	_	_
+7	की	_	_	_	ADP;GEN;FEM	_	_	_	_
+8	पहुंच	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+9	अपनी	_	_	_	PRO;FEM;SG;NOM	_	_	_	_
+10	मातृभाषा	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+11	में	_	_	_	ADP;ACC	_	_	_	_
+12	बाइबिल	_	_	_	PROPN;SG;INAN;ACC;FEM	_	_	_	_
+13	तक	_	_	_	ADP	_	_	_	_
+14	नहीं	_	_	_	PART;NEG	_	_	_	_
+15	थी	_	_	_	PST;IND;PFV;SG;V;3;FEM	_	_	_	_
+16	।	_	_	_	_	_	_	_	_
+
+# sent_id = w02007074
+# text = तुर्क साम्राज्य और रूस को अपने युद्ध बेड़े काला सागर में रखने से रोक दिया गया था।
+# text_en = The Ottoman Empire and Russia were denied permission to keep their war fleet in the Black Sea.
+1	तुर्क	_	_	_	ADJ	_	_	_	_
+2	साम्राज्य	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+3	और	_	_	_	CONJ	_	_	_	_
+4	रूस	_	_	_	PROPN;SG;INAN;ACC;MASC	_	_	_	_
+5	को	_	_	_	ADP;ACC	_	_	_	_
+6	अपने	_	_	_	PRO;MASC;SG;ACC	_	_	_	_
+7	युद्ध	_	_	_	MASC;N;SG;INAN	_	_	_	_
+8	बेड़े	_	_	_	PL;N;INAN;NOM;MASC	_	_	_	_
+9	काला	_	_	_	MASC;SG;NOM;ADJ	_	_	_	_
+10	सागर	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+11	में	_	_	_	ADP;ESS	_	_	_	_
+12	रखने	_	_	_	V;NFIN	_	_	_	_
+13	से	_	_	_	ADP;ACC	_	_	_	_
+14	रोक	_	_	_	V	_	_	_	_
+15	दिया	_	_	_	V;MASC;SG;3	_	_	_	_
+16	गया	_	_	_	IND;PFV;V;3;SG;MASC	_	_	_	_
+17	था	_	_	_	PST;V;3;SG;MASC	_	_	_	_
+18	।	_	_	_	_	_	_	_	_
+
+# newdoc id = n05002
+# sent_id = n05002004
+# text = पिछले छह वर्षों में पहली बार बेरोजगारी की दर 20% से नीचे गिरी है, और एक साल पहले की तुलना में इस बार पहले से ही 600,000 ज्यादा लोगों को रोजगार मिला हुआ है।
+# text_en = For the first time in the last six years the rate of unemployment has dropped below 20%, and there are already 600,000 more people employed than there were a year ago.
+1	पिछले	_	_	_	MASC;ACC;SG;ADJ	_	_	_	_
+2	छह	_	_	_	NUM	_	_	_	_
+3	वर्षों	_	_	_	PL;N;INAN;ACC;MASC	_	_	_	_
+4	में	_	_	_	ADP;ESS	_	_	_	_
+5	पहली	_	_	_	FEM;ADJ	_	_	_	_
+6	बार	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+7	बेरोजगारी	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+8	की	_	_	_	ADP;GEN;FEM	_	_	_	_
+9	दर	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+10	20	_	_	_	NUM	_	_	_	_
+11	%	_	_	_	_	_	_	_	_
+12	से	_	_	_	ADP	_	_	_	_
+13	नीचे	_	_	_	N	_	_	_	_
+14	गिरी	_	_	_	IND;SG;V;IPFV;3;FEM	_	_	_	_
+15	है	_	_	_	V;PRS;SG;3;FEM	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	और	_	_	_	CONJ	_	_	_	_
+18	एक	_	_	_	NUM	_	_	_	_
+19	साल	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+20	पहले	_	_	_	N	_	_	_	_
+21	की	_	_	_	ADP	_	_	_	_
+22	तुलना	_	_	_	ADP	_	_	_	_
+23	में	_	_	_	ADP	_	_	_	_
+24	इस	_	_	_	DET;SG;DEF	_	_	_	_
+25	बार	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+26	पहले	_	_	_	N	_	_	_	_
+27	से	_	_	_	ADP	_	_	_	_
+28	ही	_	_	_	PART	_	_	_	_
+29	600,000	_	_	_	NUM	_	_	_	_
+30	ज्यादा	_	_	_	DET	_	_	_	_
+31	लोगों	_	_	_	ANIM;N;PL;ACC	_	_	_	_
+32	को	_	_	_	ADP;ACC	_	_	_	_
+33	रोजगार	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+34	मिला	_	_	_	V;MASC;SG;3	_	_	_	_
+35	हुआ	_	_	_	IND;PFV;V;3;SG;MASC	_	_	_	_
+36	है	_	_	_	V;3;PRS;SG;MASC	_	_	_	_
+37	।	_	_	_	_	_	_	_	_
+
+# sent_id = n01059019
+# text = रिपब्लिकन पार्टी के अर्थशास्त्री इस डेटा को सबूत के तौर पर लेने के प्रति सचेत करते हैं कि उनकी पार्टी आर्थिक नीति के मामले में घटिया है।
+# text_en = Republican economists caution against taking this data as proof that their party is lousy at economic policy.
+1	रिपब्लिकन	_	_	_	ADJ	_	_	_	_
+2	पार्टी	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+3	के	_	_	_	ADP;GEN;PL	_	_	_	_
+4	अर्थशास्त्री	_	_	_	ANIM;N;PL	_	_	_	_
+5	इस	_	_	_	DET;SG;DEF	_	_	_	_
+6	डेटा	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+7	को	_	_	_	ADP;ACC	_	_	_	_
+8	सबूत	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+9	के	_	_	_	ADP	_	_	_	_
+10	तौर	_	_	_	ADP	_	_	_	_
+11	पर	_	_	_	ADP;ACC	_	_	_	_
+12	लेने	_	_	_	V;NFIN	_	_	_	_
+13	के	_	_	_	ADP	_	_	_	_
+14	प्रति	_	_	_	ADP	_	_	_	_
+15	सचेत	_	_	_	ADJ	_	_	_	_
+16	करते	_	_	_	IND;PL;V;IPFV;3	_	_	_	_
+17	हैं	_	_	_	V;3;PL;PRS	_	_	_	_
+18	कि	_	_	_	CONJ	_	_	_	_
+19	उनकी	_	_	_	PSSP;ANIM;PL;FORM;PRO;NOM;3;FEM	_	_	_	_
+20	पार्टी	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+21	आर्थिक	_	_	_	ADJ	_	_	_	_
+22	नीति	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+23	के	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+24	मामले	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+25	में	_	_	_	ADP;ACC	_	_	_	_
+26	घटिया	_	_	_	ADJ	_	_	_	_
+27	है	_	_	_	IND;V;3;PRS;SG;IPFV;MASC	_	_	_	_
+28	।	_	_	_	_	_	_	_	_
+
+# sent_id = w01029049
+# text = पूरे अमेरिका में अमेरिकी मूल के लोग अपने चिकित्सीय उपचारों के लिए आवश्यक वस्तु के तौर पर इसपर निर्भर होते हैं।
+# text_en = Native Americans across the Americas relied on it as a staple of their medical treatments.
+1	पूरे	_	_	_	MASC;DET;SG;ACC	_	_	_	_
+2	अमेरिका	_	_	_	PROPN;SG;INAN;ACC;MASC	_	_	_	_
+3	में	_	_	_	ADP;ESS	_	_	_	_
+4	अमेरिकी	_	_	_	ADJ	_	_	_	_
+5	मूल	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+6	के	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+7	लोग	_	_	_	PL;ANIM;N;NOM	_	_	_	_
+8	अपने	_	_	_	PRO;MASC;SG;ACC	_	_	_	_
+9	चिकित्सीय	_	_	_	ADJ	_	_	_	_
+10	उपचारों	_	_	_	PL;N;INAN;ACC;MASC	_	_	_	_
+11	के	_	_	_	ADP	_	_	_	_
+12	लिए	_	_	_	ADP	_	_	_	_
+13	आवश्यक	_	_	_	ADJ	_	_	_	_
+14	वस्तु	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+15	के	_	_	_	ADP	_	_	_	_
+16	तौर	_	_	_	ADP	_	_	_	_
+17	पर	_	_	_	ADP	_	_	_	_
+18	इसपर	_	_	_	PRO;SG	_	_	_	_
+19	निर्भर	_	_	_	ADJ	_	_	_	_
+20	होते	_	_	_	IND;PL;V;IPFV;3	_	_	_	_
+21	हैं	_	_	_	V;3;PL;PRS	_	_	_	_
+22	।	_	_	_	_	_	_	_	_
+
+# newdoc id = w01047
+# sent_id = w01047008
+# text = अंडरसी शीर्षक से प्रकाशित इस निबंध में महासागर में यात्रा का एक वैविध्य आख्यान था।
+# text_en = The essay, published as Undersea, was a vivid narrative of a journey along the ocean floor.
+1	अंडरसी	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+2	शीर्षक	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+3	से	_	_	_	ADP;ACC	_	_	_	_
+4	प्रकाशित	_	_	_	ADJ	_	_	_	_
+5	इस	_	_	_	DET;SG;DEF	_	_	_	_
+6	निबंध	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+7	में	_	_	_	ADP;ESS	_	_	_	_
+8	महासागर	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+9	में	_	_	_	ADP;ESS	_	_	_	_
+10	यात्रा	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+11	का	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+12	एक	_	_	_	DET;SG;INDF	_	_	_	_
+13	वैविध्य	_	_	_	ADJ	_	_	_	_
+14	आख्यान	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+15	था	_	_	_	PST;IND;PFV;3;SG;V;MASC	_	_	_	_
+16	।	_	_	_	_	_	_	_	_
+
+# sent_id = w04010031
+# text = उनके विभिन्न सहकार्यों के दौरान, यह स्पष्ट नहीं है कि दोनों में से किसने उन व्यवस्थाओं का शैलीगत समाधान निकाला जो बाद में दोनों कलाकारों की शैली की विशेषता बन गयी।
+# text_en = During their various collaborations, it is not clear who between the two conceived of some stylistic solutions in the arrangements that later on characterised both artists' style.
+1	उनके	_	_	_	PRO;ANIM;3;ACC	_	_	_	_
+2	विभिन्न	_	_	_	ADJ	_	_	_	_
+3	सहकार्यों	_	_	_	PL;N;INAN;ACC;MASC	_	_	_	_
+4	के	_	_	_	ADP	_	_	_	_
+5	दौरान	_	_	_	ADP	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	यह	_	_	_	PRO;SG	_	_	_	_
+8	स्पष्ट	_	_	_	ADJ	_	_	_	_
+9	नहीं	_	_	_	PART;NEG	_	_	_	_
+10	है	_	_	_	IND;V;3;PRS;SG;IPFV;MASC	_	_	_	_
+11	कि	_	_	_	CONJ	_	_	_	_
+12	दोनों	_	_	_	ANIM;N;PL;ACC	_	_	_	_
+13	में	_	_	_	ADP	_	_	_	_
+14	से	_	_	_	ADP	_	_	_	_
+15	किसने	_	_	_	PRO;SG;ACC	_	_	_	_
+16	उन	_	_	_	DET;PL;DEF	_	_	_	_
+17	व्यवस्थाओं	_	_	_	PL;N;INAN;ACC;FEM	_	_	_	_
+18	का	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+19	शैलीगत	_	_	_	ADJ	_	_	_	_
+20	समाधान	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+21	निकाला	_	_	_	PST;IND;PFV;3;SG;V;MASC	_	_	_	_
+22	जो	_	_	_	PSSS;PRO;NOM	_	_	_	_
+23	बाद	_	_	_	N	_	_	_	_
+24	में	_	_	_	ADP;ESS	_	_	_	_
+25	दोनों	_	_	_	DET	_	_	_	_
+26	कलाकारों	_	_	_	ANIM;N;PL;ACC	_	_	_	_
+27	की	_	_	_	ADP;GEN;FEM	_	_	_	_
+28	शैली	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+29	की	_	_	_	ADP;GEN;FEM	_	_	_	_
+30	विशेषता	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+31	बन	_	_	_	V	_	_	_	_
+32	गयी	_	_	_	PST;IND;PFV;V;SG;3;FEM	_	_	_	_
+33	।	_	_	_	_	_	_	_	_
+
+# sent_id = w01086037
+# text = वर्ष 1563 तक, वेनिस की आबादी गिरकर लगभग 168,000 हो गयी।
+# text_en = By 1563, the population of Venice had dropped to about 168,000 people.
+1	वर्ष	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+2	1563	_	_	_	NUM	_	_	_	_
+3	तक	_	_	_	ADP	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	वेनिस	_	_	_	PROPN;SG;INAN;ACC;MASC	_	_	_	_
+6	की	_	_	_	ADP;GEN;FEM	_	_	_	_
+7	आबादी	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+8	गिरकर	_	_	_	V	_	_	_	_
+9	लगभग	_	_	_	DET	_	_	_	_
+10	168,000	_	_	_	NUM	_	_	_	_
+11	हो	_	_	_	V	_	_	_	_
+12	गयी	_	_	_	PST;IND;PFV;V;SG;3;FEM	_	_	_	_
+13	।	_	_	_	_	_	_	_	_
+
+# sent_id = n01051007
+# text = यह बच्चों में पाया जाने वाला सबसे आम ट्यूमर है, जो हर 35,000 जन्मे बच्चों में से एक को होता है।
+# text_en = It is the most common tumour found in babies, occurring in one of every 35,000 births.
+1	यह	_	_	_	PRO;SG	_	_	_	_
+2	बच्चों	_	_	_	ANIM;N;PL;ACC	_	_	_	_
+3	में	_	_	_	ADP;ACC	_	_	_	_
+4	पाया	_	_	_	V;MASC;SG;3	_	_	_	_
+5	जाने	_	_	_	V	_	_	_	_
+6	वाला	_	_	_	MASC;ADP;SG	_	_	_	_
+7	सबसे	_	_	_	ADJ	_	_	_	_
+8	आम	_	_	_	ADJ	_	_	_	_
+9	ट्यूमर	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+10	है	_	_	_	IND;3;PRS;SG;V;IPFV;MASC	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	जो	_	_	_	PSSS;PRO;NOM	_	_	_	_
+13	हर	_	_	_	DET	_	_	_	_
+14	35,000	_	_	_	NUM	_	_	_	_
+15	जन्मे	_	_	_	MASC;ACC;SG;ADJ	_	_	_	_
+16	बच्चों	_	_	_	ANIM;N;PL;ACC	_	_	_	_
+17	में	_	_	_	ADP	_	_	_	_
+18	से	_	_	_	ADP	_	_	_	_
+19	एक	_	_	_	ANIM;N;SG;ACC	_	_	_	_
+20	को	_	_	_	ADP;ACC	_	_	_	_
+21	होता	_	_	_	IND;3;SG;V;IPFV;MASC	_	_	_	_
+22	है	_	_	_	V;3;PRS;SG;MASC	_	_	_	_
+23	।	_	_	_	_	_	_	_	_
+
+# sent_id = w05007080
+# text = शान्ति स्थापित करने के प्रयास आखिरकार 1415 की वसंत में समाप्त हो गए और एनरिक ने अपनी योजना के क्रियान्वयन का फैसला किया: समूचे फ्रांस साम्राज्य पर आक्रमण।
+# text_en = The attempts at making peace finally ended in spring of 1415 and Enrique decided to execute his plan: an invasion of the entire Kingdom of France.
+1	शान्ति	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+2	स्थापित	_	_	_	ADJ	_	_	_	_
+3	करने	_	_	_	V;NFIN	_	_	_	_
+4	के	_	_	_	MASC;ADP;GEN;PL	_	_	_	_
+5	प्रयास	_	_	_	PL;N;INAN;NOM;MASC	_	_	_	_
+6	आखिरकार	_	_	_	ADV	_	_	_	_
+7	1415	_	_	_	NUM	_	_	_	_
+8	की	_	_	_	ADP;GEN;FEM	_	_	_	_
+9	वसंत	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+10	में	_	_	_	ADP;ESS	_	_	_	_
+11	समाप्त	_	_	_	ADJ	_	_	_	_
+12	हो	_	_	_	V	_	_	_	_
+13	गए	_	_	_	PST;IND;PL;PFV;V;3;MASC	_	_	_	_
+14	और	_	_	_	CONJ	_	_	_	_
+15	एनरिक	_	_	_	ANIM;PROPN;SG;ACC;MASC	_	_	_	_
+16	ने	_	_	_	ADP;ERG	_	_	_	_
+17	अपनी	_	_	_	PRO;FEM;SG;NOM	_	_	_	_
+18	योजना	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+19	के	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+20	क्रियान्वयन	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+21	का	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+22	फैसला	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+23	किया	_	_	_	PST;IND;PFV;3;SG;V;MASC	_	_	_	_
+24	:	_	_	_	_	_	_	_	_
+25	समूचे	_	_	_	MASC;DET;SG;ACC	_	_	_	_
+26	फ्रांस	_	_	_	MASC;PROPN;SG;INAN	_	_	_	_
+27	साम्राज्य	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+28	पर	_	_	_	ADP;ESS	_	_	_	_
+29	आक्रमण	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+30	।	_	_	_	_	_	_	_	_
+
+# sent_id = n01017008
+# text = लेकिन ऐसा हो सकता है कि बीए और आईएजी ने इसका समाधान निकाल लिया हो और वो अस्पष्ट रूप से किसी विश्वसनीय चीज की पेशकश कर सकते हैं।
+# text_en = "But it may be that BA and IAG have cracked it and can offer something vaguely reliable."
+1	लेकिन	_	_	_	CONJ	_	_	_	_
+2	ऐसा	_	_	_	PRO;SG	_	_	_	_
+3	हो	_	_	_	V	_	_	_	_
+4	सकता	_	_	_	V;3;SG;OPT;IPFV;MASC	_	_	_	_
+5	है	_	_	_	V;3;PRS;SG;MASC	_	_	_	_
+6	कि	_	_	_	CONJ	_	_	_	_
+7	बीए	_	_	_	PROPN;SG;INAN;ACC;MASC	_	_	_	_
+8	और	_	_	_	CONJ	_	_	_	_
+9	आईएजी	_	_	_	PROPN;SG;INAN;ACC;FEM	_	_	_	_
+10	ने	_	_	_	ADP;ERG	_	_	_	_
+11	इसका	_	_	_	PSSS;3;SG;INAN;PRO;NOM;MASC	_	_	_	_
+12	समाधान	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+13	निकाल	_	_	_	V	_	_	_	_
+14	लिया	_	_	_	PST;PFV;V;3;SG;MASC	_	_	_	_
+15	हो	_	_	_	V	_	_	_	_
+16	और	_	_	_	CONJ	_	_	_	_
+17	वो	_	_	_	ANIM;3;SG;PRO;NOM;MASC	_	_	_	_
+18	अस्पष्ट	_	_	_	ADJ	_	_	_	_
+19	रूप	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+20	से	_	_	_	ADP;ACC	_	_	_	_
+21	किसी	_	_	_	DET	_	_	_	_
+22	विश्वसनीय	_	_	_	ADJ	_	_	_	_
+23	चीज	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+24	की	_	_	_	ADP;GEN;FEM	_	_	_	_
+25	पेशकश	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+26	कर	_	_	_	V	_	_	_	_
+27	सकते	_	_	_	IND;PL;V;3;IPFV;MASC	_	_	_	_
+28	हैं	_	_	_	PL;V;3;PRS;MASC	_	_	_	_
+29	।	_	_	_	_	_	_	_	_
+
+# newdoc id = n01057
+# sent_id = n01057014
+# text = मलबे से पृथ्वी की भूमध्य रेखा के चारों ओर एक छल्ला बन गया और अंततः गुरुत्वाकर्षण के द्वारा दोनों को एक साथ खींचने के कारण चांद बन गया।
+# text_en = The debris formed a ring around the Earth's equator and was eventually drawn together by gravity to form the moon.
+1	मलबे	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+2	से	_	_	_	ADP;ACC	_	_	_	_
+3	पृथ्वी	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+4	की	_	_	_	ADP;GEN;FEM	_	_	_	_
+5	भूमध्य	_	_	_	MASC;N;SG;INAN	_	_	_	_
+6	रेखा	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+7	के	_	_	_	ADP	_	_	_	_
+8	चारों	_	_	_	ADP	_	_	_	_
+9	ओर	_	_	_	ADP	_	_	_	_
+10	एक	_	_	_	DET;SG;INDF	_	_	_	_
+11	छल्ला	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+12	बन	_	_	_	V	_	_	_	_
+13	गया	_	_	_	PST;IND;PFV;V;3;SG;MASC	_	_	_	_
+14	और	_	_	_	CONJ	_	_	_	_
+15	अंततः	_	_	_	ADV	_	_	_	_
+16	गुरुत्वाकर्षण	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+17	के	_	_	_	ADP	_	_	_	_
+18	द्वारा	_	_	_	ADP	_	_	_	_
+19	दोनों	_	_	_	PL;N;INAN;ACC	_	_	_	_
+20	को	_	_	_	ADP;ACC	_	_	_	_
+21	एक	_	_	_	ADP	_	_	_	_
+22	साथ	_	_	_	ADP	_	_	_	_
+23	खींचने	_	_	_	V;NFIN	_	_	_	_
+24	के	_	_	_	ADP	_	_	_	_
+25	कारण	_	_	_	ADP	_	_	_	_
+26	चांद	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+27	बन	_	_	_	V	_	_	_	_
+28	गया	_	_	_	PST;IND;PFV;V;3;SG;MASC	_	_	_	_
+29	।	_	_	_	_	_	_	_	_
+
+# sent_id = w01075038
+# text = अध्ययन इन तीन कारकों को विद्रोह द्वारा त्यागी गयी आयों को परोक्ष बताते हैं, और इसलिए कम त्यागी गयी आय विद्रोह को बढ़ावा देती है।
+# text_en = The study interpreted these three factors as proxies for earnings forgone by rebellion, and therefore that lower forgone earnings encourage rebellion.
+1	अध्ययन	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+2	इन	_	_	_	DET;PL;DEF	_	_	_	_
+3	तीन	_	_	_	NUM	_	_	_	_
+4	कारकों	_	_	_	PL;N;INAN;ACC;MASC	_	_	_	_
+5	को	_	_	_	ADP;ACC	_	_	_	_
+6	विद्रोह	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+7	द्वारा	_	_	_	ADP;INS	_	_	_	_
+8	त्यागी	_	_	_	V;FEM;SG	_	_	_	_
+9	गयी	_	_	_	IND;PFV;V;SG;3;FEM	_	_	_	_
+10	आयों	_	_	_	PL;N;INAN;ACC;FEM	_	_	_	_
+11	को	_	_	_	ADP;ACC	_	_	_	_
+12	परोक्ष	_	_	_	ADJ	_	_	_	_
+13	बताते	_	_	_	IND;PL;V;3;IPFV;MASC	_	_	_	_
+14	हैं	_	_	_	PL;V;3;PRS;MASC	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	और	_	_	_	CONJ	_	_	_	_
+17	इसलिए	_	_	_	CONJ	_	_	_	_
+18	कम	_	_	_	DET	_	_	_	_
+19	त्यागी	_	_	_	V;FEM;SG	_	_	_	_
+20	गयी	_	_	_	IND;PFV;V;SG;3;FEM	_	_	_	_
+21	आय	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+22	विद्रोह	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+23	को	_	_	_	ADP;ACC	_	_	_	_
+24	बढ़ावा	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+25	देती	_	_	_	IND;V;SG;IPFV;3;FEM	_	_	_	_
+26	है	_	_	_	V;PRS;SG;3;FEM	_	_	_	_
+27	।	_	_	_	_	_	_	_	_
+
+# newdoc id = w01005
+# sent_id = w01005020
+# text = डेरियस का उच्च सम्मान प्राप्त कमांडर मेगाबाजुस बाल्कन में मिली जीतों के लिए जिम्मेदार था।
+# text_en = Darius's highly regarded commander Megabazus was responsible to fulfill the conquers in the Balkans.
+1	डेरियस	_	_	_	PROPN;SG;INAN;ACC;MASC	_	_	_	_
+2	का	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+3	उच्च	_	_	_	ADJ	_	_	_	_
+4	सम्मान	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+5	प्राप्त	_	_	_	MASC;ADP;SG;NOM	_	_	_	_
+6	कमांडर	_	_	_	ANIM;N;SG;NOM	_	_	_	_
+7	मेगाबाजुस	_	_	_	ANIM;PROPN;SG;NOM;MASC	_	_	_	_
+8	बाल्कन	_	_	_	PROPN;SG;INAN;ACC;MASC	_	_	_	_
+9	में	_	_	_	ADP;ESS	_	_	_	_
+10	मिली	_	_	_	V;FEM;SG	_	_	_	_
+11	जीतों	_	_	_	PL;N;INAN;ACC;FEM	_	_	_	_
+12	के	_	_	_	ADP	_	_	_	_
+13	लिए	_	_	_	ADP	_	_	_	_
+14	जिम्मेदार	_	_	_	ADJ	_	_	_	_
+15	था	_	_	_	PST;IND;PFV;V;3;SG;MASC	_	_	_	_
+16	।	_	_	_	_	_	_	_	_
+
+# sent_id = w01144056
+# text = रीगन और निवर्तमान राष्ट्रपित जिमी कार्टर के बीच 1980 का राष्ट्रपित चुनाव घरेलू चिंताओं और ईरान बंधक संकट के दौरान आयोजित किया गया था।
+# text_en = The 1980 presidential campaign between Reagan and incumbent President Jimmy Carter was conducted during domestic concerns and the ongoing Iran hostage crisis.
+1	रीगन	_	_	_	ANIM;PROPN;SG;ACC;MASC	_	_	_	_
+2	और	_	_	_	CONJ	_	_	_	_
+3	निवर्तमान	_	_	_	ADJ	_	_	_	_
+4	राष्ट्रपित	_	_	_	ANIM;N;SG;NOM	_	_	_	_
+5	जिमी	_	_	_	MASC;ANIM;PROPN;SG	_	_	_	_
+6	कार्टर	_	_	_	ANIM;PROPN;SG;ACC;MASC	_	_	_	_
+7	के	_	_	_	ADP	_	_	_	_
+8	बीच	_	_	_	ADP	_	_	_	_
+9	1980	_	_	_	NUM	_	_	_	_
+10	का	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+11	राष्ट्रपित	_	_	_	ANIM;N;SG	_	_	_	_
+12	चुनाव	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+13	घरेलू	_	_	_	ADJ	_	_	_	_
+14	चिंताओं	_	_	_	PL;N;INAN;ACC;FEM	_	_	_	_
+15	और	_	_	_	CONJ	_	_	_	_
+16	ईरान	_	_	_	PROPN;SG;INAN;NOM;MASC	_	_	_	_
+17	बंधक	_	_	_	ANIM;N;SG	_	_	_	_
+18	संकट	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+19	के	_	_	_	ADP	_	_	_	_
+20	दौरान	_	_	_	ADP	_	_	_	_
+21	आयोजित	_	_	_	ADJ	_	_	_	_
+22	किया	_	_	_	V;MASC;SG;3	_	_	_	_
+23	गया	_	_	_	IND;PFV;V;3;SG;MASC	_	_	_	_
+24	था	_	_	_	PST;V;3;SG;MASC	_	_	_	_
+25	।	_	_	_	_	_	_	_	_
+
+# newdoc id = w01133
+# sent_id = w01133014
+# text = स्टार्लिन ने इस मुद्दे को एक आलेखक के रूप में लिया, और खलनायक थानोस पर पूरी तरह केन्द्रित एक विस्तृत कहानी को विकसित करना शुरू किया, और उसे मार्वल के कई कॉमिक्स शीर्षकों में प्रसारित किया।
+# text_en = Starlin took over as plotter the following issue, and began developing an elaborate story arc centered on the villainous Thanos, and spread across a number of Marvel titles.
+1	स्टार्लिन	_	_	_	ANIM;PROPN;SG;ACC;MASC	_	_	_	_
+2	ने	_	_	_	ADP;ERG	_	_	_	_
+3	इस	_	_	_	DET;SG;DEF	_	_	_	_
+4	मुद्दे	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+5	को	_	_	_	ADP;ACC	_	_	_	_
+6	एक	_	_	_	DET;SG;INDF	_	_	_	_
+7	आलेखक	_	_	_	ANIM;N;SG;ACC	_	_	_	_
+8	के	_	_	_	ADP	_	_	_	_
+9	रूप	_	_	_	ADP	_	_	_	_
+10	में	_	_	_	ADP	_	_	_	_
+11	लिया	_	_	_	PST;IND;PFV;3;SG;V;MASC	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	और	_	_	_	CONJ	_	_	_	_
+14	खलनायक	_	_	_	ANIM;N;SG;ACC;MASC	_	_	_	_
+15	थानोस	_	_	_	ANIM;PROPN;SG;ACC;MASC	_	_	_	_
+16	पर	_	_	_	ADP;ACC	_	_	_	_
+17	पूरी	_	_	_	DET;FEM	_	_	_	_
+18	तरह	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+19	केन्द्रित	_	_	_	ADJ	_	_	_	_
+20	एक	_	_	_	DET;SG;INDF	_	_	_	_
+21	विस्तृत	_	_	_	ADJ	_	_	_	_
+22	कहानी	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+23	को	_	_	_	ADP;ACC	_	_	_	_
+24	विकसित	_	_	_	ADJ	_	_	_	_
+25	करना	_	_	_	V;NFIN	_	_	_	_
+26	शुरू	_	_	_	MASC;N;SG	_	_	_	_
+27	किया	_	_	_	PST;IND;PFV;3;SG;V;MASC	_	_	_	_
+28	,	_	_	_	_	_	_	_	_
+29	और	_	_	_	CONJ	_	_	_	_
+30	उसे	_	_	_	ANIM;3;SG;PRO;ACC;MASC	_	_	_	_
+31	मार्वल	_	_	_	PROPN;SG;INAN;ACC;MASC	_	_	_	_
+32	के	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+33	कई	_	_	_	DET	_	_	_	_
+34	कॉमिक्स	_	_	_	N;FEM;INAN;SG	_	_	_	_
+35	शीर्षकों	_	_	_	PL;N;INAN;ACC;MASC	_	_	_	_
+36	में	_	_	_	ADP;ACC	_	_	_	_
+37	प्रसारित	_	_	_	ADJ	_	_	_	_
+38	किया	_	_	_	PST;IND;PFV;3;SG;V;MASC	_	_	_	_
+39	।	_	_	_	_	_	_	_	_
+
+# sent_id = n01002042
+# text = क्लिंटन के बड़े बैंक खाते की वजह से नये खर्च में वृद्धि हुई है।
+# text_en = The new spending is fueled by Clinton’s large bank account.
+1	क्लिंटन	_	_	_	ANIM;PROPN;SG;ACC;MASC	_	_	_	_
+2	के	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+3	बड़े	_	_	_	MASC;ACC;SG;ADJ	_	_	_	_
+4	बैंक	_	_	_	MASC;N;SG;INAN	_	_	_	_
+5	खाते	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+6	की	_	_	_	ADP	_	_	_	_
+7	वजह	_	_	_	ADP	_	_	_	_
+8	से	_	_	_	ADP	_	_	_	_
+9	नये	_	_	_	MASC;ACC;SG;ADJ	_	_	_	_
+10	खर्च	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+11	में	_	_	_	ADP;ACC	_	_	_	_
+12	वृद्धि	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+13	हुई	_	_	_	IND;PFV;SG;V;3;FEM	_	_	_	_
+14	है	_	_	_	V;PRS;SG;3;FEM	_	_	_	_
+15	।	_	_	_	_	_	_	_	_
+
+# newdoc id = n01003
+# sent_id = n01003007
+# text = अधिकतम $5,000 प्रति व्यक्ति की स्वीकृति दी गयी है।
+# text_en = $5,000 per person, the maximum allowed.
+1	अधिकतम	_	_	_	ADJ	_	_	_	_
+2	$5,000	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+3	प्रति	_	_	_	DET	_	_	_	_
+4	व्यक्ति	_	_	_	ANIM;N;SG;ACC;MASC	_	_	_	_
+5	की	_	_	_	ADP;GEN;FEM	_	_	_	_
+6	स्वीकृति	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+7	दी	_	_	_	V;3;FEM;SG	_	_	_	_
+8	गयी	_	_	_	IND;PFV;V;SG;3;FEM	_	_	_	_
+9	है	_	_	_	V;PRS;SG;3;FEM	_	_	_	_
+10	।	_	_	_	_	_	_	_	_
+
+# sent_id = w01035081
+# text = आस-पास के परिवेश के विनाश से वास्तव में कृषि योग्य भूमि को भुगतना पड़ सकता है।
+# text_en = Agricultural land can actually suffer from the destruction of the surrounding landscape.
+1	आस	_	_	_	N	_	_	_	_
+2	-	_	_	_	_	_	_	_	_
+3	पास	_	_	_	N	_	_	_	_
+4	के	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+5	परिवेश	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+6	के	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+7	विनाश	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+8	से	_	_	_	ADP;ACC	_	_	_	_
+9	वास्तव	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+10	में	_	_	_	ADP;ACC	_	_	_	_
+11	कृषि	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+12	योग्य	_	_	_	MASC;ADP;SG;NOM	_	_	_	_
+13	भूमि	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+14	को	_	_	_	ADP;ACC	_	_	_	_
+15	भुगतना	_	_	_	NFIN;3;SG;V;MASC	_	_	_	_
+16	पड़	_	_	_	V	_	_	_	_
+17	सकता	_	_	_	IND;V;3;SG;IPFV;MASC	_	_	_	_
+18	है	_	_	_	V;3;PRS;SG;MASC	_	_	_	_
+19	।	_	_	_	_	_	_	_	_
+
+# sent_id = n03002010
+# text = दूसरी ओर, पिछले बीस वर्षों से महाद्वीप के साथ श्रीमती क्लिंटन के संबंध ने बहुत उम्मीदें जगाई हैं।
+# text_en = On the other hand, Ms. Clinton's relations with the continent over the past twenty years leave much to be desired.
+1	दूसरी	_	_	_	FEM;ADJ	_	_	_	_
+2	ओर	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	पिछले	_	_	_	MASC;ACC;SG;ADJ	_	_	_	_
+5	बीस	_	_	_	NUM	_	_	_	_
+6	वर्षों	_	_	_	PL;N;INAN;ACC;MASC	_	_	_	_
+7	से	_	_	_	ADP;ACC	_	_	_	_
+8	महाद्वीप	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+9	के	_	_	_	ADP	_	_	_	_
+10	साथ	_	_	_	ADP	_	_	_	_
+11	श्रीमती	_	_	_	PART	_	_	_	_
+12	क्लिंटन	_	_	_	ANIM;PROPN;SG;ACC;FEM	_	_	_	_
+13	के	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+14	संबंध	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+15	ने	_	_	_	ADP;ERG	_	_	_	_
+16	बहुत	_	_	_	DET	_	_	_	_
+17	उम्मीदें	_	_	_	PL;N;INAN;NOM;FEM	_	_	_	_
+18	जगाई	_	_	_	IND;PL;PFV;V;3;FEM	_	_	_	_
+19	हैं	_	_	_	PL;V;PRS;3;FEM	_	_	_	_
+20	।	_	_	_	_	_	_	_	_
+
+# newdoc id = n02073
+# sent_id = n02073024
+# text = कुछ समय के लिए, एऔन (Aoun) और हरीरी (Hariri) के बीच समझौते ने दो शत्रु गुटों को आपस में करीब ला दिया है।
+# text_en = For the time being, the deal between Aoun and Hariri has brought the two enemy factions closer together.
+1	कुछ	_	_	_	DET	_	_	_	_
+2	समय	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+3	के	_	_	_	ADP	_	_	_	_
+4	लिए	_	_	_	ADP	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	एऔन	_	_	_	ANIM;PROPN;SG;ACC;MASC	_	_	_	_
+7	(	_	_	_	_	_	_	_	_
+8	Aoun	_	_	_	PROPN	_	_	_	_
+9	)	_	_	_	_	_	_	_	_
+10	और	_	_	_	CONJ	_	_	_	_
+11	हरीरी	_	_	_	ANIM;PROPN;SG;ACC;MASC	_	_	_	_
+12	(	_	_	_	_	_	_	_	_
+13	Hariri	_	_	_	PROPN	_	_	_	_
+14	)	_	_	_	_	_	_	_	_
+15	के	_	_	_	ADP	_	_	_	_
+16	बीच	_	_	_	ADP	_	_	_	_
+17	समझौते	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+18	ने	_	_	_	ADP;ERG	_	_	_	_
+19	दो	_	_	_	NUM	_	_	_	_
+20	शत्रु	_	_	_	ADJ	_	_	_	_
+21	गुटों	_	_	_	PL;N;INAN;ACC;MASC	_	_	_	_
+22	को	_	_	_	ADP;ACC	_	_	_	_
+23	आपस	_	_	_	PRO;ACC	_	_	_	_
+24	में	_	_	_	ADP;ACC	_	_	_	_
+25	करीब	_	_	_	N	_	_	_	_
+26	ला	_	_	_	V;MASC;SG;3	_	_	_	_
+27	दिया	_	_	_	IND;PFV;V;3;SG;MASC	_	_	_	_
+28	है	_	_	_	V;3;PRS;SG;MASC	_	_	_	_
+29	।	_	_	_	_	_	_	_	_
+
+# newdoc id = n02032
+# sent_id = n02032022
+# text = इस दृष्टिकोण से, पुरानी संरचनाओं और एक आत्म-संतुष्ट अभिजात्य वर्ग के कारण ही अमेरिका में स्वास्थ्य प्रणाली, शिक्षा और विदेश व्यापार इतनी बुरी स्थिति में है।
+# text_en = From this point of view, stale structures and a self-satisfied elite are the reason why the health system, education and foreign trade in the USA is in such bad shape.
+1	इस	_	_	_	DET;SG;DEF	_	_	_	_
+2	दृष्टिकोण	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+3	से	_	_	_	ADP;ACC	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	पुरानी	_	_	_	FEM;ADJ	_	_	_	_
+6	संरचनाओं	_	_	_	PL;N;INAN;ACC;FEM	_	_	_	_
+7	और	_	_	_	CONJ	_	_	_	_
+8	एक	_	_	_	DET;SG;INDF	_	_	_	_
+9	आत्म	_	_	_	ADJ	_	_	_	_
+10	-	_	_	_	_	_	_	_	_
+11	संतुष्ट	_	_	_	ADJ	_	_	_	_
+12	अभिजात्य	_	_	_	ADJ	_	_	_	_
+13	वर्ग	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+14	के	_	_	_	ADP	_	_	_	_
+15	कारण	_	_	_	ADP	_	_	_	_
+16	ही	_	_	_	PART	_	_	_	_
+17	अमेरिका	_	_	_	PROPN;SG;INAN;ACC;MASC	_	_	_	_
+18	में	_	_	_	ADP;ESS	_	_	_	_
+19	स्वास्थ्य	_	_	_	MASC;N;SG;INAN	_	_	_	_
+20	प्रणाली	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+21	,	_	_	_	_	_	_	_	_
+22	शिक्षा	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+23	और	_	_	_	CONJ	_	_	_	_
+24	विदेश	_	_	_	MASC;N;SG;INAN	_	_	_	_
+25	व्यापार	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+26	इतनी	_	_	_	DET;FEM	_	_	_	_
+27	बुरी	_	_	_	FEM;ADJ	_	_	_	_
+28	स्थिति	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+29	में	_	_	_	ADP;ACC	_	_	_	_
+30	है	_	_	_	IND;3;PRS;SG;V;IPFV;MASC	_	_	_	_
+31	।	_	_	_	_	_	_	_	_
+
+# sent_id = w01006081
+# text = वर्ष 2007 में सबसे सफल फिल्म अल ग्रीको थी, जिसका निर्देशन यान्नी स्माराग्दिस ने किया था।
+# text_en = In 2007 the most successful film was El Greco, directed by Yannis Smaragdis.
+1	वर्ष	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+2	2007	_	_	_	NUM	_	_	_	_
+3	में	_	_	_	ADP;ESS	_	_	_	_
+4	सबसे	_	_	_	ADJ	_	_	_	_
+5	सफल	_	_	_	ADJ	_	_	_	_
+6	फिल्म	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+7	अल	_	_	_	MASC;PROPN;SG;INAN	_	_	_	_
+8	ग्रीको	_	_	_	PROPN;SG;INAN;NOM;MASC	_	_	_	_
+9	थी	_	_	_	PST;IND;PFV;SG;V;3;FEM	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	जिसका	_	_	_	PSSS;SG;PRO;NOM	_	_	_	_
+12	निर्देशन	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+13	यान्नी	_	_	_	ANIM;PROPN;SG;FEM	_	_	_	_
+14	स्माराग्दिस	_	_	_	ANIM;PROPN;SG;ACC;FEM	_	_	_	_
+15	ने	_	_	_	ADP;ERG	_	_	_	_
+16	किया	_	_	_	IND;PFV;3;SG;V;MASC	_	_	_	_
+17	था	_	_	_	PST;V;3;SG;MASC	_	_	_	_
+18	।	_	_	_	_	_	_	_	_
+
+# newdoc id = n01036
+# sent_id = n01036002
+# text = ओंटेरियो में रियल एस्टेट एजेंटों का प्रतिनिधित्व करने वाले एसोसिएशन का कहना है कि ग्राहकों की रक्षा और अनैतिक व्यवहार में लिप्त पाए जाने वाले एजेंटों को दण्डित करने के लिए कुछ और किए जाने की जरूरत है।
+# text_en = The association that represents real estate agents in Ontario says more needs to be done to protect consumers and punish agents found to have engaged in unethical behaviour.
+1	ओंटेरियो	_	_	_	PROPN;SG;INAN;ACC;MASC	_	_	_	_
+2	में	_	_	_	ADP;ESS	_	_	_	_
+3	रियल	_	_	_	ADJ	_	_	_	_
+4	एस्टेट	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+5	एजेंटों	_	_	_	ANIM;N;PL;ACC	_	_	_	_
+6	का	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+7	प्रतिनिधित्व	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+8	करने	_	_	_	V;NFIN	_	_	_	_
+9	वाले	_	_	_	MASC;ADP;SG	_	_	_	_
+10	एसोसिएशन	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+11	का	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+12	कहना	_	_	_	NFIN;3;SG;V;MASC	_	_	_	_
+13	है	_	_	_	IND;V;3;PRS;SG;IPFV;MASC	_	_	_	_
+14	कि	_	_	_	CONJ	_	_	_	_
+15	ग्राहकों	_	_	_	ANIM;N;PL;ACC	_	_	_	_
+16	की	_	_	_	ADP;GEN;FEM	_	_	_	_
+17	रक्षा	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+18	और	_	_	_	CONJ	_	_	_	_
+19	अनैतिक	_	_	_	ADJ	_	_	_	_
+20	व्यवहार	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+21	में	_	_	_	ADP;ACC	_	_	_	_
+22	लिप्त	_	_	_	ADJ	_	_	_	_
+23	पाए	_	_	_	V;3;PL	_	_	_	_
+24	जाने	_	_	_	V;3;PL	_	_	_	_
+25	वाले	_	_	_	ADP;PL	_	_	_	_
+26	एजेंटों	_	_	_	ANIM;N;PL;ACC	_	_	_	_
+27	को	_	_	_	ADP;ACC	_	_	_	_
+28	दण्डित	_	_	_	ADJ	_	_	_	_
+29	करने	_	_	_	V;NFIN	_	_	_	_
+30	के	_	_	_	ADP	_	_	_	_
+31	लिए	_	_	_	ADP	_	_	_	_
+32	कुछ	_	_	_	DET	_	_	_	_
+33	और	_	_	_	DET	_	_	_	_
+34	किए	_	_	_	V;MASC;SG;3	_	_	_	_
+35	जाने	_	_	_	V	_	_	_	_
+36	की	_	_	_	ADP;GEN;FEM	_	_	_	_
+37	जरूरत	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+38	है	_	_	_	IND;PRS;SG;V;IPFV;3;FEM	_	_	_	_
+39	।	_	_	_	_	_	_	_	_
+
+# sent_id = w01130101
+# text = इसमें रेफर्टी के भाई गायक-गीतकार जिम के साथ मिलकर लिखे गए तीन गाने शामिल थे, जिम को 1970 के दशक में डेक्का रेकॉर्ड्स के लिए साइन किया गया था।
+# text_en = It included three tracks cowritten with Rafferty's brother Jim, also a singer-songwriter, who had been signed to Decca Records in the 1970s.
+1	इसमें	_	_	_	PRO;SG	_	_	_	_
+2	रेफर्टी	_	_	_	ANIM;PROPN;SG;ACC;MASC	_	_	_	_
+3	के	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+4	भाई	_	_	_	ANIM;N;SG;NOM;MASC	_	_	_	_
+5	गायक	_	_	_	ANIM;N;SG;ACC;MASC	_	_	_	_
+6	-	_	_	_	_	_	_	_	_
+7	गीतकार	_	_	_	ANIM;N;SG;NOM	_	_	_	_
+8	जिम	_	_	_	ANIM;PROPN;SG;ACC;MASC	_	_	_	_
+9	के	_	_	_	ADP	_	_	_	_
+10	साथ	_	_	_	ADP	_	_	_	_
+11	मिलकर	_	_	_	V	_	_	_	_
+12	लिखे	_	_	_	V;MASC;SG	_	_	_	_
+13	गए	_	_	_	V;MASC;SG;3	_	_	_	_
+14	तीन	_	_	_	NUM	_	_	_	_
+15	गाने	_	_	_	PL;N;INAN;ACC;MASC	_	_	_	_
+16	शामिल	_	_	_	ADJ	_	_	_	_
+17	थे	_	_	_	PST;IND;PL;PFV;3;V;MASC	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	जिम	_	_	_	ANIM;PROPN;SG;ACC;MASC	_	_	_	_
+20	को	_	_	_	ADP;ACC	_	_	_	_
+21	1970	_	_	_	NUM	_	_	_	_
+22	के	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+23	दशक	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+24	में	_	_	_	ADP;ESS	_	_	_	_
+25	डेक्का	_	_	_	MASC;N;SG;INAN	_	_	_	_
+26	रेकॉर्ड्स	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+27	के	_	_	_	ADP	_	_	_	_
+28	लिए	_	_	_	ADP	_	_	_	_
+29	साइन	_	_	_	MASC;N;SG	_	_	_	_
+30	किया	_	_	_	V;MASC;SG;3	_	_	_	_
+31	गया	_	_	_	IND;PFV;V;3;SG;MASC	_	_	_	_
+32	था	_	_	_	PST;V;3;SG;MASC	_	_	_	_
+33	।	_	_	_	_	_	_	_	_
+
+# sent_id = w01107063
+# text = हिचकॉक की फिल्मों में कभी-कभी चरित्र अपनी मां के साथ अपने रिश्तों में संघर्ष करते नजर आते हैं।
+# text_en = Hitchcock's films sometimes feature characters struggling in their relationships with their mothers.
+1	हिचकॉक	_	_	_	ANIM;PROPN;SG;ACC;MASC	_	_	_	_
+2	की	_	_	_	ADP;GEN;FEM	_	_	_	_
+3	फिल्मों	_	_	_	PL;N;INAN;ACC;FEM	_	_	_	_
+4	में	_	_	_	ADP;ESS	_	_	_	_
+5	कभी	_	_	_	ADV	_	_	_	_
+6	-	_	_	_	_	_	_	_	_
+7	कभी	_	_	_	ADV	_	_	_	_
+8	चरित्र	_	_	_	ANIM;N;SG;NOM;MASC	_	_	_	_
+9	अपनी	_	_	_	PRO;FEM;SG;NOM	_	_	_	_
+10	मां	_	_	_	ANIM;N;SG;ACC;FEM	_	_	_	_
+11	के	_	_	_	ADP	_	_	_	_
+12	साथ	_	_	_	ADP	_	_	_	_
+13	अपने	_	_	_	PRO;MASC;SG;ACC	_	_	_	_
+14	रिश्तों	_	_	_	PL;N;INAN;ACC;MASC	_	_	_	_
+15	में	_	_	_	ADP;ACC	_	_	_	_
+16	संघर्ष	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+17	करते	_	_	_	V;MASC;SG;3	_	_	_	_
+18	नजर	_	_	_	MASC;N;SG	_	_	_	_
+19	आते	_	_	_	IND;PL;3;V;IPFV;MASC	_	_	_	_
+20	हैं	_	_	_	PL;V;3;PRS;MASC	_	_	_	_
+21	।	_	_	_	_	_	_	_	_
+
+# newdoc id = w01083
+# sent_id = w01083007
+# text = रोमानोव राजशाही के इस आदर्शीकृत नजरिए ने उसे अपने देश की वास्तविक स्थिति के प्रति अंधा बना दिया।
+# text_en = This idealized vision of the Romanov monarchy blinded him to the actual state of his country.
+1	रोमानोव	_	_	_	MASC;PROPN;SG;INAN	_	_	_	_
+2	राजशाही	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+3	के	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+4	इस	_	_	_	DET;SG;DEF	_	_	_	_
+5	आदर्शीकृत	_	_	_	ADJ	_	_	_	_
+6	नजरिए	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+7	ने	_	_	_	ADP;ERG	_	_	_	_
+8	उसे	_	_	_	SG;INAN;PRO;ACC;3;FEM	_	_	_	_
+9	अपने	_	_	_	PRO;MASC;SG;ACC	_	_	_	_
+10	देश	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+11	की	_	_	_	ADP;GEN;FEM	_	_	_	_
+12	वास्तविक	_	_	_	ADJ	_	_	_	_
+13	स्थिति	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+14	के	_	_	_	ADP	_	_	_	_
+15	प्रति	_	_	_	ADP	_	_	_	_
+16	अंधा	_	_	_	MASC;SG;NOM;ADJ	_	_	_	_
+17	बना	_	_	_	V;MASC;SG;3	_	_	_	_
+18	दिया	_	_	_	PST;IND;PFV;V;3;SG;MASC	_	_	_	_
+19	।	_	_	_	_	_	_	_	_
+
+# sent_id = w01149077
+# text = राइट का एक भाई ऑस्कर है, जो कॉमिक बुक कलाकार है, जो कि एड्गर्स फिल्म्स को स्टोरीबोर्ड, संकल्पना कला और प्रचारात्मक तस्वीरों से योगदान करता है।
+# text_en = Wright has a brother, Oscar, who is a comic book artist, contributing storyboards, conceptual art and promotional pictures for Edgar's films.
+1	राइट	_	_	_	ANIM;PROPN;SG;ACC;MASC	_	_	_	_
+2	का	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+3	एक	_	_	_	DET;SG;INDF	_	_	_	_
+4	भाई	_	_	_	ANIM;N;SG;NOM;MASC	_	_	_	_
+5	ऑस्कर	_	_	_	ANIM;PROPN;SG;NOM;MASC	_	_	_	_
+6	है	_	_	_	IND;V;3;PRS;SG;IPFV;MASC	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	जो	_	_	_	PSSS;PRO;NOM	_	_	_	_
+9	कॉमिक	_	_	_	ADJ	_	_	_	_
+10	बुक	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+11	कलाकार	_	_	_	ANIM;N;SG;NOM	_	_	_	_
+12	है	_	_	_	IND;3;PRS;SG;V;IPFV;MASC	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	जो	_	_	_	PSSS;PRO;NOM	_	_	_	_
+15	कि	_	_	_	CONJ	_	_	_	_
+16	एड्गर्स	_	_	_	MASC;PROPN;SG;INAN	_	_	_	_
+17	फिल्म्स	_	_	_	PROPN;SG;INAN;ACC;FEM	_	_	_	_
+18	को	_	_	_	ADP;ACC	_	_	_	_
+19	स्टोरीबोर्ड	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+20	,	_	_	_	_	_	_	_	_
+21	संकल्पना	_	_	_	N;FEM;INAN;SG	_	_	_	_
+22	कला	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+23	और	_	_	_	CONJ	_	_	_	_
+24	प्रचारात्मक	_	_	_	ADJ	_	_	_	_
+25	तस्वीरों	_	_	_	PL;N;INAN;ACC;FEM	_	_	_	_
+26	से	_	_	_	ADP;ACC	_	_	_	_
+27	योगदान	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+28	करता	_	_	_	IND;3;SG;V;IPFV;MASC	_	_	_	_
+29	है	_	_	_	V;3;PRS;SG;MASC	_	_	_	_
+30	।	_	_	_	_	_	_	_	_
+
+# newdoc id = w01101
+# sent_id = w01101020
+# text = लामार ने मैंडल के साथ कई व्यापार बैठकों में हिस्सा लिया जिसमें उसने सैन्य टेक्नोलॉजी में शामिल वैज्ञानिकों और पेशेवरों के साथ चर्चा की।
+# text_en = Lamarr accompanied Mandl to business meetings where he conferred with scientists and other professionals involved in military technology.
+1	लामार	_	_	_	ANIM;PROPN;SG;ACC;MASC	_	_	_	_
+2	ने	_	_	_	ADP;ERG	_	_	_	_
+3	मैंडल	_	_	_	ANIM;PROPN;SG;ACC;MASC	_	_	_	_
+4	के	_	_	_	ADP	_	_	_	_
+5	साथ	_	_	_	ADP	_	_	_	_
+6	कई	_	_	_	DET	_	_	_	_
+7	व्यापार	_	_	_	MASC;N;SG;INAN	_	_	_	_
+8	बैठकों	_	_	_	PL;N;INAN;ACC;FEM	_	_	_	_
+9	में	_	_	_	ADP;ACC	_	_	_	_
+10	हिस्सा	_	_	_	MASC;N;SG	_	_	_	_
+11	लिया	_	_	_	PST;IND;PFV;3;SG;V;MASC	_	_	_	_
+12	जिसमें	_	_	_	PSSP;SG;PRO;ACC	_	_	_	_
+13	उसने	_	_	_	ANIM;3;SG;PRO;ACC;MASC	_	_	_	_
+14	सैन्य	_	_	_	ADJ	_	_	_	_
+15	टेक्नोलॉजी	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+16	में	_	_	_	ADP;ACC	_	_	_	_
+17	शामिल	_	_	_	ADJ	_	_	_	_
+18	वैज्ञानिकों	_	_	_	ANIM;N;PL;ACC	_	_	_	_
+19	और	_	_	_	CONJ	_	_	_	_
+20	पेशेवरों	_	_	_	ANIM;N;PL;ACC	_	_	_	_
+21	के	_	_	_	ADP	_	_	_	_
+22	साथ	_	_	_	ADP	_	_	_	_
+23	चर्चा	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+24	की	_	_	_	PST;IND;PFV;SG;V;3;FEM	_	_	_	_
+25	।	_	_	_	_	_	_	_	_
+
+# sent_id = w01060040
+# text = वर्ष 1075 की गर्मियों में खितान लियाओ राजवंश का दूत बनाकर भेजे जाने के बाद उसे राजदरबार में और ख्याति प्राप्त हुई।
+# text_en = He gained further reputation at court once he was dispatched as an envoy to the Khitan Liao Dynasty in the summer of 1075.
+1	वर्ष	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+2	1075	_	_	_	NUM	_	_	_	_
+3	की	_	_	_	ADP;GEN;FEM	_	_	_	_
+4	गर्मियों	_	_	_	PL;N;INAN;ACC;FEM	_	_	_	_
+5	में	_	_	_	ADP;ESS	_	_	_	_
+6	खितान	_	_	_	MASC;PROPN;SG;INAN	_	_	_	_
+7	लियाओ	_	_	_	PROPN;SG;INAN;NOM;MASC	_	_	_	_
+8	राजवंश	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+9	का	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+10	दूत	_	_	_	ANIM;N;SG;NOM	_	_	_	_
+11	बनाकर	_	_	_	V	_	_	_	_
+12	भेजे	_	_	_	V;MASC;SG;3	_	_	_	_
+13	जाने	_	_	_	V	_	_	_	_
+14	के	_	_	_	ADP	_	_	_	_
+15	बाद	_	_	_	ADP	_	_	_	_
+16	उसे	_	_	_	ANIM;SG;PRO;ACC;3	_	_	_	_
+17	राजदरबार	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+18	में	_	_	_	ADP;ESS	_	_	_	_
+19	और	_	_	_	DET	_	_	_	_
+20	ख्याति	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+21	प्राप्त	_	_	_	ADJ	_	_	_	_
+22	हुई	_	_	_	PST;IND;PFV;SG;V;3;FEM	_	_	_	_
+23	।	_	_	_	_	_	_	_	_
+
+# sent_id = n05003022
+# text = बेरन डि क्लेरेट, सरकार में कुलीन पद्वी वाला एकमात्र व्यक्ति।
+# text_en = Barón de Claret, the only one in Government with a noble title.
+1	बेरन	_	_	_	MASC;ANIM;PROPN;SG	_	_	_	_
+2	डि	_	_	_	MASC;ANIM;PROPN;SG	_	_	_	_
+3	क्लेरेट	_	_	_	ANIM;PROPN;SG;NOM;MASC	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	सरकार	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+6	में	_	_	_	ADP;ACC	_	_	_	_
+7	कुलीन	_	_	_	ADJ	_	_	_	_
+8	पद्वी	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+9	वाला	_	_	_	MASC;ADP;SG;NOM	_	_	_	_
+10	एकमात्र	_	_	_	ADJ	_	_	_	_
+11	व्यक्ति	_	_	_	ANIM;N;SG;NOM;MASC	_	_	_	_
+12	।	_	_	_	_	_	_	_	_
+
+# sent_id = w01066008
+# text = दिन के थाई शुभ रंग सप्ताह के दिनों की तालिका में दिए गए हैं, जिसके नीचे सप्ताह के प्रत्येक दिन के लिए बुद्ध की तस्वीरों का लिंक दिया गया है।
+# text_en = Thai auspicious colours of the day are given in the table of weekdays, followed below it by a link to the Buddha images for each day of the week.
+1	दिन	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+2	के	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+3	थाई	_	_	_	ADJ	_	_	_	_
+4	शुभ	_	_	_	ADJ	_	_	_	_
+5	रंग	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+6	सप्ताह	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+7	के	_	_	_	MASC;ADP;GEN;PL	_	_	_	_
+8	दिनों	_	_	_	PL;N;INAN;ACC;MASC	_	_	_	_
+9	की	_	_	_	ADP;GEN;FEM	_	_	_	_
+10	तालिका	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+11	में	_	_	_	ADP;ESS	_	_	_	_
+12	दिए	_	_	_	V;MASC;PL;3	_	_	_	_
+13	गए	_	_	_	IND;PL;PFV;V;3;MASC	_	_	_	_
+14	हैं	_	_	_	PL;V;3;PRS;MASC	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	जिसके	_	_	_	PSSS;SG;PRO;ACC	_	_	_	_
+17	नीचे	_	_	_	ADP	_	_	_	_
+18	सप्ताह	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+19	के	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+20	प्रत्येक	_	_	_	DET	_	_	_	_
+21	दिन	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+22	के	_	_	_	ADP	_	_	_	_
+23	लिए	_	_	_	ADP	_	_	_	_
+24	बुद्ध	_	_	_	ANIM;PROPN;SG;ACC;MASC	_	_	_	_
+25	की	_	_	_	ADP;GEN;FEM	_	_	_	_
+26	तस्वीरों	_	_	_	PL;N;INAN;ACC;FEM	_	_	_	_
+27	का	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+28	लिंक	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+29	दिया	_	_	_	V;MASC;SG;3	_	_	_	_
+30	गया	_	_	_	IND;PFV;V;3;SG;MASC	_	_	_	_
+31	है	_	_	_	V;3;PRS;SG;MASC	_	_	_	_
+32	।	_	_	_	_	_	_	_	_
+
+# sent_id = n01050014
+# text = कनैडियन ब्लड सर्विसेज (सीबीएस) का कहना है कि हीमोग्लोबिन के स्तर को सामान्य रखना संभव है, लेकिन समग्र रूप से आयरन का स्तर कम रख पाना नहीं।
+# text_en = It's possible to have normal hemoglobin levels, but to have low iron stores overall, says Canadian Blood Services (CBS).
+1	कनैडियन	_	_	_	ADJ	_	_	_	_
+2	ब्लड	_	_	_	MASC;N;SG;INAN	_	_	_	_
+3	सर्विसेज	_	_	_	PL;N;INAN;ACC;FEM	_	_	_	_
+4	(	_	_	_	_	_	_	_	_
+5	सीबीएस	_	_	_	PROPN;SG;INAN;ACC;FEM	_	_	_	_
+6	)	_	_	_	_	_	_	_	_
+7	का	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+8	कहना	_	_	_	V;NFIN	_	_	_	_
+9	है	_	_	_	IND;V;3;PRS;SG;IPFV;MASC	_	_	_	_
+10	कि	_	_	_	CONJ	_	_	_	_
+11	हीमोग्लोबिन	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+12	के	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+13	स्तर	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+14	को	_	_	_	ADP;ACC	_	_	_	_
+15	सामान्य	_	_	_	ADJ	_	_	_	_
+16	रखना	_	_	_	V;NFIN	_	_	_	_
+17	संभव	_	_	_	ADJ	_	_	_	_
+18	है	_	_	_	IND;V;3;PRS;SG;IPFV;MASC	_	_	_	_
+19	,	_	_	_	_	_	_	_	_
+20	लेकिन	_	_	_	CONJ	_	_	_	_
+21	समग्र	_	_	_	ADJ	_	_	_	_
+22	रूप	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+23	से	_	_	_	ADP;ACC	_	_	_	_
+24	आयरन	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+25	का	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+26	स्तर	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+27	कम	_	_	_	DET	_	_	_	_
+28	रख	_	_	_	V	_	_	_	_
+29	पाना	_	_	_	NFIN;V;3;SG;MASC	_	_	_	_
+30	नहीं	_	_	_	PART;NEG	_	_	_	_
+31	।	_	_	_	_	_	_	_	_
+
+# sent_id = w01095092
+# text = सम्राट मीजी से पहले, युगों के नाम बार-बार बदले जाते थे, और सम्राटों के मरणोपरान्त नाम अलग तरीके से चुने जाते थे।
+# text_en = Prior to Emperor Meiji, the names of the eras were changed more frequently, and the posthumous names of the Emperors were chosen in a different manner.
+1	सम्राट	_	_	_	ANIM;N;SG;NOM;MASC	_	_	_	_
+2	मीजी	_	_	_	ANIM;PROPN;SG;ACC;MASC	_	_	_	_
+3	से	_	_	_	ADP	_	_	_	_
+4	पहले	_	_	_	ADP	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	युगों	_	_	_	PL;N;INAN;ACC;MASC	_	_	_	_
+7	के	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+8	नाम	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+9	बार	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+10	-	_	_	_	_	_	_	_	_
+11	बार	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+12	बदले	_	_	_	V;MASC;PL;3	_	_	_	_
+13	जाते	_	_	_	IND;PL;V;3;IPFV;MASC	_	_	_	_
+14	थे	_	_	_	PST;PL;V;1;MASC	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	और	_	_	_	CONJ	_	_	_	_
+17	सम्राटों	_	_	_	ANIM;N;PL;ACC;MASC	_	_	_	_
+18	के	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+19	मरणोपरान्त	_	_	_	ADJ	_	_	_	_
+20	नाम	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+21	अलग	_	_	_	ADJ	_	_	_	_
+22	तरीके	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+23	से	_	_	_	ADP;ACC	_	_	_	_
+24	चुने	_	_	_	V;MASC;PL;3	_	_	_	_
+25	जाते	_	_	_	IND;PL;V;3;IPFV;MASC	_	_	_	_
+26	थे	_	_	_	PST;PL;V;3;MASC	_	_	_	_
+27	।	_	_	_	_	_	_	_	_
+
+# sent_id = n01116035
+# text = ग्लेंडा को इस तरह आंख पर पट्टी बांधने की अनुमति देने के बाद, कौन उसे दोषी ठहरा सकता है?
+# text_en = But having allowed Glenda to score such a blinder, who can blame it?
+1	ग्लेंडा	_	_	_	ANIM;PROPN;SG;ACC;FEM	_	_	_	_
+2	को	_	_	_	ADP;ACC	_	_	_	_
+3	इस	_	_	_	DET;SG;DEF	_	_	_	_
+4	तरह	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+5	आंख	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+6	पर	_	_	_	ADP;ESS	_	_	_	_
+7	पट्टी	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+8	बांधने	_	_	_	V;NFIN	_	_	_	_
+9	की	_	_	_	ADP;GEN;FEM	_	_	_	_
+10	अनुमति	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+11	देने	_	_	_	V;NFIN	_	_	_	_
+12	के	_	_	_	ADP	_	_	_	_
+13	बाद	_	_	_	ADP	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	कौन	_	_	_	PRO	_	_	_	_
+16	उसे	_	_	_	ANIM;SG;PRO;ACC;3	_	_	_	_
+17	दोषी	_	_	_	ANIM;N;SG;NOM	_	_	_	_
+18	ठहरा	_	_	_	V;MASC;SG;3	_	_	_	_
+19	सकता	_	_	_	IND;V;3;SG;IPFV;MASC	_	_	_	_
+20	है	_	_	_	V;3;PRS;SG;MASC	_	_	_	_
+21	?	_	_	_	_	_	_	_	_
+
+# sent_id = n01003012
+# text = सभा मूल रूप से कुछ ही ब्लॉक दूर एच स्ट्रीट पर स्थित वाशिंगटन के एक निजी मेट्रोपोलिटन क्लब में होनी थी।
+# text_en = The gathering was originally slated for Washington’s private Metropolitan Club on H Street a few blocks away.
+1	सभा	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+2	मूल	_	_	_	ADJ	_	_	_	_
+3	रूप	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+4	से	_	_	_	ADP;ACC	_	_	_	_
+5	कुछ	_	_	_	DET	_	_	_	_
+6	ही	_	_	_	PART	_	_	_	_
+7	ब्लॉक	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+8	दूर	_	_	_	N	_	_	_	_
+9	एच	_	_	_	MASC;PROPN;SG;INAN	_	_	_	_
+10	स्ट्रीट	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+11	पर	_	_	_	ADP;ESS	_	_	_	_
+12	स्थित	_	_	_	ADJ	_	_	_	_
+13	वाशिंगटन	_	_	_	PROPN;SG;INAN;ACC;MASC	_	_	_	_
+14	के	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+15	एक	_	_	_	DET;SG;INDF	_	_	_	_
+16	निजी	_	_	_	ADJ	_	_	_	_
+17	मेट्रोपोलिटन	_	_	_	ADJ	_	_	_	_
+18	क्लब	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+19	में	_	_	_	ADP;ESS	_	_	_	_
+20	होनी	_	_	_	IND;SG;V;IPFV;3;FEM	_	_	_	_
+21	थी	_	_	_	PST;V;SG;3;FEM	_	_	_	_
+22	।	_	_	_	_	_	_	_	_
+
+# newdoc id = w04007
+# sent_id = w04007006
+# text = पहले गठबंधन के युद्ध के दौरान, फ्रांसीसी क्रान्ति के बाद, एक युवा कोर्सिकन तोपखाना अधिकारी नेपोलियन बोनापार्ट तेजी से प्रकाश में आया।
+# text_en = During the War of the First Coalition, light quickly began to be shed upon a young Corsican artillery officer, following the French Revolution: Napoleon Bonaparte.
+1	पहले	_	_	_	MASC;ACC;SG;ADJ	_	_	_	_
+2	गठबंधन	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+3	के	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+4	युद्ध	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+5	के	_	_	_	ADP	_	_	_	_
+6	दौरान	_	_	_	ADP	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	फ्रांसीसी	_	_	_	ADJ	_	_	_	_
+9	क्रान्ति	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+10	के	_	_	_	ADP	_	_	_	_
+11	बाद	_	_	_	ADP	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	एक	_	_	_	DET;SG;INDF	_	_	_	_
+14	युवा	_	_	_	ADJ	_	_	_	_
+15	कोर्सिकन	_	_	_	ADJ	_	_	_	_
+16	तोपखाना	_	_	_	MASC;N;SG;INAN	_	_	_	_
+17	अधिकारी	_	_	_	ANIM;N;SG;NOM	_	_	_	_
+18	नेपोलियन	_	_	_	MASC;ANIM;PROPN;SG	_	_	_	_
+19	बोनापार्ट	_	_	_	ANIM;PROPN;SG;NOM;MASC	_	_	_	_
+20	तेजी	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+21	से	_	_	_	ADP;ACC	_	_	_	_
+22	प्रकाश	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+23	में	_	_	_	ADP;ESS	_	_	_	_
+24	आया	_	_	_	PST;IND;PFV;3;SG;V;MASC	_	_	_	_
+25	।	_	_	_	_	_	_	_	_
+
+# sent_id = w04007021
+# text = यद्यपि इससे संघर्ष का समाधान नहीं हुआ, फिर भी मारेंगो की लड़ाई में फ्रांस की जीत ने ऑस्ट्रिया के लोगों को दूसरी बार इटली पर से अपना अधिकार छोड़ देने को बाध्य कर दिया।
+# text_en = Although not a resolver of the conflict, the French victory at the Battle of Marengo forced the Austrians to give Italy up for the second time.
+1	यद्यपि	_	_	_	CONJ	_	_	_	_
+2	इससे	_	_	_	PRO;SG	_	_	_	_
+3	संघर्ष	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+4	का	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+5	समाधान	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+6	नहीं	_	_	_	PART;NEG	_	_	_	_
+7	हुआ	_	_	_	IND;PFV;3;SG;V;MASC	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	फिर	_	_	_	ADP	_	_	_	_
+10	भी	_	_	_	PART	_	_	_	_
+11	मारेंगो	_	_	_	PROPN;SG;INAN;ACC;MASC	_	_	_	_
+12	की	_	_	_	ADP;GEN;FEM	_	_	_	_
+13	लड़ाई	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+14	में	_	_	_	ADP;ESS	_	_	_	_
+15	फ्रांस	_	_	_	PROPN;SG;INAN;ACC;MASC	_	_	_	_
+16	की	_	_	_	ADP;GEN;FEM	_	_	_	_
+17	जीत	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+18	ने	_	_	_	ADP;ERG	_	_	_	_
+19	ऑस्ट्रिया	_	_	_	PROPN;SG;INAN;ACC;MASC	_	_	_	_
+20	के	_	_	_	MASC;ADP;GEN;PL	_	_	_	_
+21	लोगों	_	_	_	ANIM;N;PL;ACC	_	_	_	_
+22	को	_	_	_	ADP;ACC	_	_	_	_
+23	दूसरी	_	_	_	FEM;ADJ	_	_	_	_
+24	बार	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+25	इटली	_	_	_	PROPN;SG;INAN;ACC;FEM	_	_	_	_
+26	पर	_	_	_	ADP	_	_	_	_
+27	से	_	_	_	ADP	_	_	_	_
+28	अपना	_	_	_	PRO;MASC;SG;NOM	_	_	_	_
+29	अधिकार	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+30	छोड़	_	_	_	V	_	_	_	_
+31	देने	_	_	_	V	_	_	_	_
+32	को	_	_	_	ADP;ACC	_	_	_	_
+33	बाध्य	_	_	_	ADJ	_	_	_	_
+34	कर	_	_	_	V	_	_	_	_
+35	दिया	_	_	_	PST;IND;PFV;V;3;SG;MASC	_	_	_	_
+36	।	_	_	_	_	_	_	_	_
+
+# sent_id = n01087023
+# text = लंदन और फिर ग्लासगो में रहने के बाद कैटेलेनो उस इलाके में वापस लौट गया, जहां ग्लासगो स्कूल आफ आर्ट में उसने ज्वेलरी डिजाइन का अध्ययन किया था।
+# text_en = Catalano moved back to the area after living in London and then Glasgow, where he had studied jewellery design at Glasgow School of Art.
+1	लंदन	_	_	_	PROPN;SG;INAN;ACC;MASC	_	_	_	_
+2	और	_	_	_	CONJ	_	_	_	_
+3	फिर	_	_	_	ADV	_	_	_	_
+4	ग्लासगो	_	_	_	PROPN;SG;INAN;ACC;MASC	_	_	_	_
+5	में	_	_	_	ADP;ESS	_	_	_	_
+6	रहने	_	_	_	V;NFIN	_	_	_	_
+7	के	_	_	_	ADP	_	_	_	_
+8	बाद	_	_	_	ADP	_	_	_	_
+9	कैटेलेनो	_	_	_	ANIM;PROPN;SG;NOM;MASC	_	_	_	_
+10	उस	_	_	_	DET;SG;DEF	_	_	_	_
+11	इलाके	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+12	में	_	_	_	ADP;ESS	_	_	_	_
+13	वापस	_	_	_	ADV	_	_	_	_
+14	लौट	_	_	_	V	_	_	_	_
+15	गया	_	_	_	PST;IND;PFV;V;3;SG;MASC	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	जहां	_	_	_	CONJ	_	_	_	_
+18	ग्लासगो	_	_	_	MASC;PROPN;SG;INAN	_	_	_	_
+19	स्कूल	_	_	_	MASC;N;SG;INAN	_	_	_	_
+20	आफ	_	_	_	ADP;GEN	_	_	_	_
+21	आर्ट	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+22	में	_	_	_	ADP;ESS	_	_	_	_
+23	उसने	_	_	_	ANIM;SG;PRO;ACC;3	_	_	_	_
+24	ज्वेलरी	_	_	_	N;FEM;INAN;SG	_	_	_	_
+25	डिजाइन	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+26	का	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+27	अध्ययन	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+28	किया	_	_	_	IND;PFV;3;SG;V;MASC	_	_	_	_
+29	था	_	_	_	PST;V;3;SG;MASC	_	_	_	_
+30	।	_	_	_	_	_	_	_	_
+
+# sent_id = n01109012
+# text = इयॉन का स्थायी दर शुल्क (फिक्स्ड रेट टैरिफ) £760 है और एवरो एनर्जी के ग्राहक अपने सरल एवं चयन शुल्क (सिंपल एंड सेलेक्ट टैरिफ) के लिए लगभग £760 का भुगतान करेंगे।
+# text_en = Eon’s fixed rate tariff costs £760 and Avro Energy customers would pay around £760 for its Simple and Select tariff.
+1	इयॉन	_	_	_	PROPN;SG;INAN;ACC;MASC	_	_	_	_
+2	का	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+3	स्थायी	_	_	_	ADJ	_	_	_	_
+4	दर	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+5	शुल्क	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+6	(	_	_	_	_	_	_	_	_
+7	फिक्स्ड	_	_	_	ADJ	_	_	_	_
+8	रेट	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+9	टैरिफ	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+10	)	_	_	_	_	_	_	_	_
+11	£	_	_	_	_	_	_	_	_
+12	760	_	_	_	NUM	_	_	_	_
+13	है	_	_	_	IND;V;3;PRS;SG;IPFV;MASC	_	_	_	_
+14	और	_	_	_	CONJ	_	_	_	_
+15	एवरो	_	_	_	MASC;PROPN;SG;INAN	_	_	_	_
+16	एनर्जी	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+17	के	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+18	ग्राहक	_	_	_	PL;ANIM;N;NOM	_	_	_	_
+19	अपने	_	_	_	PRO;MASC;SG;ACC	_	_	_	_
+20	सरल	_	_	_	ADJ	_	_	_	_
+21	एवं	_	_	_	CONJ	_	_	_	_
+22	चयन	_	_	_	MASC;N;SG;INAN	_	_	_	_
+23	शुल्क	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+24	(	_	_	_	_	_	_	_	_
+25	सिंपल	_	_	_	ADJ	_	_	_	_
+26	एंड	_	_	_	CONJ	_	_	_	_
+27	सेलेक्ट	_	_	_	ADJ	_	_	_	_
+28	टैरिफ	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+29	)	_	_	_	_	_	_	_	_
+30	के	_	_	_	ADP	_	_	_	_
+31	लिए	_	_	_	ADP	_	_	_	_
+32	लगभग	_	_	_	DET	_	_	_	_
+33	£	_	_	_	_	_	_	_	_
+34	760	_	_	_	NUM	_	_	_	_
+35	का	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+36	भुगतान	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+37	करेंगे	_	_	_	IND;PL;V;IPFV;3;FUT	_	_	_	_
+38	।	_	_	_	_	_	_	_	_
+
+# sent_id = n01085011
+# text = यह आश्चर्यजनक लग सकता है, यहां तक कि अम्ल वर्षा वाले बादलों में भी रूपहली रेखाएं हो सकती हैं।
+# text_en = Surprising as it may seem, even acid rain clouds can have a silver lining.
+1	यह	_	_	_	PRO;SG	_	_	_	_
+2	आश्चर्यजनक	_	_	_	ADJ	_	_	_	_
+3	लग	_	_	_	V	_	_	_	_
+4	सकता	_	_	_	IND;V;3;SG;IPFV;MASC	_	_	_	_
+5	है	_	_	_	V;3;PRS;SG;MASC	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	यहां	_	_	_	N	_	_	_	_
+8	तक	_	_	_	ADP	_	_	_	_
+9	कि	_	_	_	CONJ	_	_	_	_
+10	अम्ल	_	_	_	MASC;N;SG;INAN	_	_	_	_
+11	वर्षा	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+12	वाले	_	_	_	MASC;ADP;PL	_	_	_	_
+13	बादलों	_	_	_	PL;N;INAN;ACC;MASC	_	_	_	_
+14	में	_	_	_	ADP;ACC	_	_	_	_
+15	भी	_	_	_	PART	_	_	_	_
+16	रूपहली	_	_	_	FEM;ADJ	_	_	_	_
+17	रेखाएं	_	_	_	PL;N;INAN;NOM;FEM	_	_	_	_
+18	हो	_	_	_	V	_	_	_	_
+19	सकती	_	_	_	IND;V;SG;IPFV;3;FEM	_	_	_	_
+20	हैं	_	_	_	PL;V;PRS;3;FEM	_	_	_	_
+21	।	_	_	_	_	_	_	_	_
+
+# sent_id = n01129017
+# text = मंगलवार मतदान का दिन है, लेकिन यदि सूची में पंजीकृत मतदाता नहीं है तो इसका कोई मतलब नहीं है।
+# text_en = Tuesday is all about getting out the vote, but it means nothing if a registered voter isn't on the list.
+1	मंगलवार	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+2	मतदान	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+3	का	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+4	दिन	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+5	है	_	_	_	IND;3;PRS;SG;V;IPFV;MASC	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	लेकिन	_	_	_	CONJ	_	_	_	_
+8	यदि	_	_	_	CONJ	_	_	_	_
+9	सूची	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+10	में	_	_	_	ADP;ESS	_	_	_	_
+11	पंजीकृत	_	_	_	ADJ	_	_	_	_
+12	मतदाता	_	_	_	ANIM;N;SG;NOM	_	_	_	_
+13	नहीं	_	_	_	PART;NEG	_	_	_	_
+14	है	_	_	_	IND;PFV;3;PRS;SG;V;MASC	_	_	_	_
+15	तो	_	_	_	CONJ	_	_	_	_
+16	इसका	_	_	_	PRO;SG	_	_	_	_
+17	कोई	_	_	_	DET	_	_	_	_
+18	मतलब	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+19	नहीं	_	_	_	PART;NEG	_	_	_	_
+20	है	_	_	_	IND;3;PRS;SG;V;IPFV;MASC	_	_	_	_
+21	।	_	_	_	_	_	_	_	_
+
+# newdoc id = n01019
+# sent_id = n01019004
+# text = 10-सप्ताह का पाठ्यक्रम ब्रिटेन की खुफिया एजेंसी जीसीएचक्यू द्वारा "प्रमाणित" किया गया है।
+# text_en = The 10-week course has been "certified" by UK spy agency GCHQ.
+1	10	_	_	_	NUM	_	_	_	_
+2	-	_	_	_	_	_	_	_	_
+3	सप्ताह	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+4	का	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+5	पाठ्यक्रम	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+6	ब्रिटेन	_	_	_	PROPN;SG;INAN;ACC;MASC	_	_	_	_
+7	की	_	_	_	ADP;GEN;FEM	_	_	_	_
+8	खुफिया	_	_	_	ADJ	_	_	_	_
+9	एजेंसी	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+10	जीसीएचक्यू	_	_	_	ANIM;PROPN;SG;ACC;FEM	_	_	_	_
+11	द्वारा	_	_	_	ADP;INS	_	_	_	_
+12	"	_	_	_	_	_	_	_	_
+13	प्रमाणित	_	_	_	ADJ	_	_	_	_
+14	"	_	_	_	_	_	_	_	_
+15	किया	_	_	_	V;MASC;SG;3	_	_	_	_
+16	गया	_	_	_	IND;PFV;V;3;SG;MASC	_	_	_	_
+17	है	_	_	_	V;3;PRS;SG;MASC	_	_	_	_
+18	।	_	_	_	_	_	_	_	_
+
+# newdoc id = w01087
+# sent_id = w01087052
+# text = पुनर्जागरण काल में शिक्षा मुख्य रूप से प्राचीन साहित्य और इतिहास का मिला-जुला रूप थी, क्योंकि ऐसा माना जाता था कि क्लासिकीय साहित्य नैतिक निर्देश और मानव व्यवहार की गहरी समझदारी प्रदान करते हैं।
+# text_en = Education during the Renaissance was mainly composed of ancient literature and history as it was thought that the classics provided moral instruction and an intensive understanding of human behavior.
+1	पुनर्जागरण	_	_	_	MASC;N;SG;INAN	_	_	_	_
+2	काल	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+3	में	_	_	_	ADP;ESS	_	_	_	_
+4	शिक्षा	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+5	मुख्य	_	_	_	ADJ	_	_	_	_
+6	रूप	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+7	से	_	_	_	ADP;ACC	_	_	_	_
+8	प्राचीन	_	_	_	ADJ	_	_	_	_
+9	साहित्य	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+10	और	_	_	_	CONJ	_	_	_	_
+11	इतिहास	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+12	का	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+13	मिला	_	_	_	ADJ	_	_	_	_
+14	-	_	_	_	_	_	_	_	_
+15	जुला	_	_	_	ADJ	_	_	_	_
+16	रूप	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+17	थी	_	_	_	PST;IND;PFV;SG;V;3;FEM	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	क्योंकि	_	_	_	CONJ	_	_	_	_
+20	ऐसा	_	_	_	PRO;SG	_	_	_	_
+21	माना	_	_	_	V;MASC;SG;3	_	_	_	_
+22	जाता	_	_	_	IND;V;3;SG;IPFV;MASC	_	_	_	_
+23	था	_	_	_	PST;V;3;SG;MASC	_	_	_	_
+24	कि	_	_	_	CONJ	_	_	_	_
+25	क्लासिकीय	_	_	_	ADJ	_	_	_	_
+26	साहित्य	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+27	नैतिक	_	_	_	ADJ	_	_	_	_
+28	निर्देश	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+29	और	_	_	_	CONJ	_	_	_	_
+30	मानव	_	_	_	MASC;ANIM;N;SG	_	_	_	_
+31	व्यवहार	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+32	की	_	_	_	ADP;GEN;FEM	_	_	_	_
+33	गहरी	_	_	_	ADJ	_	_	_	_
+34	समझदारी	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+35	प्रदान	_	_	_	MASC;N;SG	_	_	_	_
+36	करते	_	_	_	IND;PL;3;V;IPFV;MASC	_	_	_	_
+37	हैं	_	_	_	PL;V;3;PRS;MASC	_	_	_	_
+38	।	_	_	_	_	_	_	_	_
+
+# sent_id = w05002032
+# text = मध्य एंडीज तथाकथित 'एंडीज डि टिपो एंडिनो' से संबद्ध है जो समुद्री क्रस्ट के धरती की प्लेट के नीचे चले जाने से निर्मित हुए थे।
+# text_en = The central Andes belong to the so-called 'Andes de tipo andino' which were formed by the subduction of the oceanic crust.
+1	मध्य	_	_	_	ADJ	_	_	_	_
+2	एंडीज	_	_	_	PROPN;SG;INAN;NOM;MASC	_	_	_	_
+3	तथाकथित	_	_	_	ADJ	_	_	_	_
+4	'	_	_	_	_	_	_	_	_
+5	एंडीज	_	_	_	PROPN;SG;INAN;ACC;MASC	_	_	_	_
+6	डि	_	_	_	ADP	_	_	_	_
+7	टिपो	_	_	_	MASC;PROPN;SG;INAN	_	_	_	_
+8	एंडिनो	_	_	_	PROPN;SG;INAN;NOM;MASC	_	_	_	_
+9	'	_	_	_	_	_	_	_	_
+10	से	_	_	_	ADP;ACC	_	_	_	_
+11	संबद्ध	_	_	_	ADJ	_	_	_	_
+12	है	_	_	_	IND;V;3;PRS;SG;IPFV;MASC	_	_	_	_
+13	जो	_	_	_	PSSS;PRO;NOM	_	_	_	_
+14	समुद्री	_	_	_	ADJ	_	_	_	_
+15	क्रस्ट	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+16	के	_	_	_	ADP;ACC	_	_	_	_
+17	धरती	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+18	की	_	_	_	ADP;GEN;FEM	_	_	_	_
+19	प्लेट	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+20	के	_	_	_	ADP	_	_	_	_
+21	नीचे	_	_	_	ADP	_	_	_	_
+22	चले	_	_	_	V;MASC;PL;3	_	_	_	_
+23	जाने	_	_	_	V;MASC;PL;3	_	_	_	_
+24	से	_	_	_	ADP;ACC	_	_	_	_
+25	निर्मित	_	_	_	ADJ	_	_	_	_
+26	हुए	_	_	_	IND;PL;PFV;V;3;MASC	_	_	_	_
+27	थे	_	_	_	PST;PL;V;3;MASC	_	_	_	_
+28	।	_	_	_	_	_	_	_	_
+
+# sent_id = w01125037
+# text = जॉर्ज उनकी ढीली नैतिकताओं को देखकर भयभीत था।
+# text_en = George was appalled by what he saw as their loose morals.
+1	जॉर्ज	_	_	_	ANIM;PROPN;SG;NOM;MASC	_	_	_	_
+2	उनकी	_	_	_	ANIM;PL;PRO;NOM;3;FEM	_	_	_	_
+3	ढीली	_	_	_	FEM;ADJ	_	_	_	_
+4	नैतिकताओं	_	_	_	PL;N;INAN;ACC;FEM	_	_	_	_
+5	को	_	_	_	ADP;ACC	_	_	_	_
+6	देखकर	_	_	_	V	_	_	_	_
+7	भयभीत	_	_	_	ADJ	_	_	_	_
+8	था	_	_	_	PST;IND;PFV;V;3;SG;MASC	_	_	_	_
+9	।	_	_	_	_	_	_	_	_
+
+# sent_id = n01017010
+# text = कंपनी ने बीबीसी से कहा है कि इस बात का निर्धारण करना प्रत्येक एयरलाइन ब्रांड की जिम्मेदारी होगी कि यात्रियों से एक्सेस शुल्क वसूला जाना है या नहीं।
+# text_en = The company told the BBC it would be the responsibility of each airline brand to decide whether to charge passengers an access fee.
+1	कंपनी	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+2	ने	_	_	_	ADP;ERG	_	_	_	_
+3	बीबीसी	_	_	_	PROPN;SG;INAN;ACC;FEM	_	_	_	_
+4	से	_	_	_	ADP;ACC	_	_	_	_
+5	कहा	_	_	_	IND;PFV;3;SG;V;MASC	_	_	_	_
+6	है	_	_	_	V;3;PRS;SG;MASC	_	_	_	_
+7	कि	_	_	_	CONJ	_	_	_	_
+8	इस	_	_	_	DET;SG;DEF	_	_	_	_
+9	बात	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+10	का	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+11	निर्धारण	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+12	करना	_	_	_	V;NFIN	_	_	_	_
+13	प्रत्येक	_	_	_	DET	_	_	_	_
+14	एयरलाइन	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+15	ब्रांड	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+16	की	_	_	_	ADP;GEN;FEM	_	_	_	_
+17	जिम्मेदारी	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+18	होगी	_	_	_	IND;SG;V;IPFV;3;FEM;FUT	_	_	_	_
+19	कि	_	_	_	CONJ	_	_	_	_
+20	यात्रियों	_	_	_	ANIM;N;PL;ACC	_	_	_	_
+21	से	_	_	_	ADP;ACC	_	_	_	_
+22	एक्सेस	_	_	_	MASC;N;SG;INAN	_	_	_	_
+23	शुल्क	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+24	वसूला	_	_	_	V;MASC;SG;3	_	_	_	_
+25	जाना	_	_	_	V;MASC;SG;3	_	_	_	_
+26	है	_	_	_	IND;V;3;PRS;SG;IPFV;MASC	_	_	_	_
+27	या	_	_	_	CONJ	_	_	_	_
+28	नहीं	_	_	_	PART;NEG	_	_	_	_
+29	।	_	_	_	_	_	_	_	_
+
+# sent_id = n01029007
+# text = एक जबर्द्स्त गिटार वादक, उसने उसी साल वहां एक संगीत कार्यक्रम (कंसर्ट) किया।
+# text_en = A keen guitarist, he played a concert there the same year.
+1	एक	_	_	_	DET;SG;INDF	_	_	_	_
+2	जबर्द्स्त	_	_	_	ADJ	_	_	_	_
+3	गिटार	_	_	_	MASC;N;SG;INAN	_	_	_	_
+4	वादक	_	_	_	ANIM;N;SG;NOM;MASC	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	उसने	_	_	_	ANIM;SG;PRO;ACC;3	_	_	_	_
+7	उसी	_	_	_	DET;SG;DEF	_	_	_	_
+8	साल	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+9	वहां	_	_	_	N	_	_	_	_
+10	एक	_	_	_	DET;SG;INDF	_	_	_	_
+11	संगीत	_	_	_	MASC;N;SG;INAN	_	_	_	_
+12	कार्यक्रम	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+13	(	_	_	_	_	_	_	_	_
+14	कंसर्ट	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+15	)	_	_	_	_	_	_	_	_
+16	किया	_	_	_	PST;IND;PFV;3;SG;V;MASC	_	_	_	_
+17	।	_	_	_	_	_	_	_	_
+
+# sent_id = n01149027
+# text = प्योंग्यांग में मैंने भी कुछ लोगों को स्मार्टफोन के साथ देखा, लेकिन वे बहुत कम थे।
+# text_en = In Pyongyang I did see some people on their smartphones, but far fewer.
+1	प्योंग्यांग	_	_	_	PROPN;SG;INAN;ACC;MASC	_	_	_	_
+2	में	_	_	_	ADP;ESS	_	_	_	_
+3	मैंने	_	_	_	ANIM;SG;PRO;1;ACC	_	_	_	_
+4	भी	_	_	_	PART	_	_	_	_
+5	कुछ	_	_	_	DET	_	_	_	_
+6	लोगों	_	_	_	ANIM;N;PL;ACC	_	_	_	_
+7	को	_	_	_	ADP;ACC	_	_	_	_
+8	स्मार्टफोन	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+9	के	_	_	_	ADP	_	_	_	_
+10	साथ	_	_	_	ADP	_	_	_	_
+11	देखा	_	_	_	PST;IND;PFV;3;SG;V;MASC	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	लेकिन	_	_	_	CONJ	_	_	_	_
+14	वे	_	_	_	ANIM;PL;PRO;NOM;3	_	_	_	_
+15	बहुत	_	_	_	DET	_	_	_	_
+16	कम	_	_	_	ADJ	_	_	_	_
+17	थे	_	_	_	PST;IND;PL;PFV;V;3	_	_	_	_
+18	।	_	_	_	_	_	_	_	_
+
+# sent_id = n01011017
+# text = मैं किसी भी तरह जेल जा रहा हूं, शायद यह इसी लायक था।
+# text_en = "I'm going to jail either way, hope it was worth it."
+1	मैं	_	_	_	ANIM;SG;PRO;NOM;1;MASC	_	_	_	_
+2	किसी	_	_	_	DET	_	_	_	_
+3	भी	_	_	_	PART	_	_	_	_
+4	तरह	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+5	जेल	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+6	जा	_	_	_	V	_	_	_	_
+7	रहा	_	_	_	IND;V;3;SG;PROG;MASC	_	_	_	_
+8	हूं	_	_	_	V;PRS;SG;1;MASC	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	शायद	_	_	_	ADV	_	_	_	_
+11	यह	_	_	_	ANIM;3;SG;PRO;NOM;MASC	_	_	_	_
+12	इसी	_	_	_	DET;SG;DEF	_	_	_	_
+13	लायक	_	_	_	ADJ	_	_	_	_
+14	था	_	_	_	PST;IND;PFV;V;3;SG;MASC	_	_	_	_
+15	।	_	_	_	_	_	_	_	_
+
+# sent_id = w01096055
+# text = यूरोप में, युद्ध शुरू होने से पहले, मित्र राष्ट्र जनसंख्या और अर्थशास्त्र दोनों मामले में उल्लेखनीय रूप से समृद्ध थे।
+# text_en = In Europe, before the outbreak of the war, the Allies had significant advantages in both population and economics.
+1	यूरोप	_	_	_	PROPN;SG;INAN;ACC;MASC	_	_	_	_
+2	में	_	_	_	ADP;ESS	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	युद्ध	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+5	शुरू	_	_	_	MASC;N;SG	_	_	_	_
+6	होने	_	_	_	V;NFIN	_	_	_	_
+7	से	_	_	_	ADP	_	_	_	_
+8	पहले	_	_	_	ADP	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	मित्र	_	_	_	MASC;N;SG;INAN	_	_	_	_
+11	राष्ट्र	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+12	जनसंख्या	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+13	और	_	_	_	CONJ	_	_	_	_
+14	अर्थशास्त्र	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+15	दोनों	_	_	_	DET;PL;DEF	_	_	_	_
+16	मामले	_	_	_	PL;N;INAN;ACC;MASC	_	_	_	_
+17	में	_	_	_	ADP;ACC	_	_	_	_
+18	उल्लेखनीय	_	_	_	ADJ	_	_	_	_
+19	रूप	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+20	से	_	_	_	ADP;ACC	_	_	_	_
+21	समृद्ध	_	_	_	ADJ	_	_	_	_
+22	थे	_	_	_	PST;IND;PL;PFV;V;3;MASC	_	_	_	_
+23	।	_	_	_	_	_	_	_	_
+
+# sent_id = w05005087
+# text = हालांकि, वे रोक लिए गए और उन्हें हडसन नदी के निकट फ्रीमैन में लड़ाई करनी पड़ी।
+# text_en = However, they were intercepted and had to do battle in Freeman, close to the Hudson River.
+1	हालांकि	_	_	_	CONJ	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	वे	_	_	_	PRO;ANIM;NOM;3	_	_	_	_
+4	रोक	_	_	_	V	_	_	_	_
+5	लिए	_	_	_	V;3	_	_	_	_
+6	गए	_	_	_	PST;IND;PFV;V;3	_	_	_	_
+7	और	_	_	_	CONJ	_	_	_	_
+8	उन्हें	_	_	_	PRO;ANIM;3;ACC	_	_	_	_
+9	हडसन	_	_	_	PROPN;FEM;INAN;SG	_	_	_	_
+10	नदी	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+11	के	_	_	_	ADP	_	_	_	_
+12	निकट	_	_	_	ADP	_	_	_	_
+13	फ्रीमैन	_	_	_	PROPN;SG;INAN;ACC;MASC	_	_	_	_
+14	में	_	_	_	ADP;ESS	_	_	_	_
+15	लड़ाई	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+16	करनी	_	_	_	NFIN;SG;V;3;FEM	_	_	_	_
+17	पड़ी	_	_	_	PST;IND;PFV;V;SG;3;FEM	_	_	_	_
+18	।	_	_	_	_	_	_	_	_
+
+# sent_id = w01020017
+# text = इसने युगों तक कई समुदायों को व्यापार, उपनिवेशन, और युद्ध के लिए मार्ग, साथ ही भोजन (मछली पकड़ने और अन्य समुद्री भोजन एकत्र करने से) उपलब्ध कराया।
+# text_en = It provided routes for trade, colonisation, and war, as well as food (from fishing and the gathering of other seafood) for numerous communities throughout the ages.
+1	इसने	_	_	_	PRO;SG	_	_	_	_
+2	युगों	_	_	_	PL;N;INAN;ACC;MASC	_	_	_	_
+3	तक	_	_	_	ADP	_	_	_	_
+4	कई	_	_	_	DET	_	_	_	_
+5	समुदायों	_	_	_	PL;N;INAN;ACC;MASC	_	_	_	_
+6	को	_	_	_	ADP;ACC	_	_	_	_
+7	व्यापार	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	उपनिवेशन	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	और	_	_	_	CONJ	_	_	_	_
+12	युद्ध	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+13	के	_	_	_	ADP	_	_	_	_
+14	लिए	_	_	_	ADP	_	_	_	_
+15	मार्ग	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	साथ	_	_	_	ADP	_	_	_	_
+18	ही	_	_	_	PART	_	_	_	_
+19	भोजन	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+20	(	_	_	_	_	_	_	_	_
+21	मछली	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+22	पकड़ने	_	_	_	V;NFIN	_	_	_	_
+23	और	_	_	_	CONJ	_	_	_	_
+24	अन्य	_	_	_	ADJ	_	_	_	_
+25	समुद्री	_	_	_	ADJ	_	_	_	_
+26	भोजन	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+27	एकत्र	_	_	_	ADJ	_	_	_	_
+28	करने	_	_	_	V;NFIN	_	_	_	_
+29	से	_	_	_	ADP	_	_	_	_
+30	)	_	_	_	_	_	_	_	_
+31	उपलब्ध	_	_	_	ADJ	_	_	_	_
+32	कराया	_	_	_	PST;IND;PFV;V;3;SG;MASC	_	_	_	_
+33	।	_	_	_	_	_	_	_	_
+
+# newdoc id = n01138
+# sent_id = n01138007
+# text = नेगान (जेफरी डीन मॉर्गन) के शीर्ष लोगों में होने के कारण, उसे कुछ आजादी हासिल है।
+# text_en = As one of Negan's (Jeffrey Dean Morgan) top guys, he's afforded certain freedoms.
+1	नेगान	_	_	_	ANIM;PROPN;SG;ACC;MASC	_	_	_	_
+2	(	_	_	_	_	_	_	_	_
+3	जेफरी	_	_	_	MASC;ANIM;PROPN;SG	_	_	_	_
+4	डीन	_	_	_	MASC;ANIM;PROPN;SG	_	_	_	_
+5	मॉर्गन	_	_	_	ANIM;PROPN;SG;ACC;MASC	_	_	_	_
+6	)	_	_	_	_	_	_	_	_
+7	के	_	_	_	ADP;ACC	_	_	_	_
+8	शीर्ष	_	_	_	ADJ	_	_	_	_
+9	लोगों	_	_	_	ANIM;N;PL;ACC	_	_	_	_
+10	में	_	_	_	ADP;ACC	_	_	_	_
+11	होने	_	_	_	V;NFIN	_	_	_	_
+12	के	_	_	_	ADP	_	_	_	_
+13	कारण	_	_	_	ADP	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	उसे	_	_	_	ANIM;SG;PRO;ACC;3	_	_	_	_
+16	कुछ	_	_	_	DET	_	_	_	_
+17	आजादी	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+18	हासिल	_	_	_	ADJ	_	_	_	_
+19	है	_	_	_	IND;3;PRS;SG;V;IPFV;MASC	_	_	_	_
+20	।	_	_	_	_	_	_	_	_
+
+# sent_id = w05003050
+# text = उसके प्रशासन में, महिला वोट को मंजूरी मिली, राजनीतिक पार्टियों को वैध किया गया, सभी निर्वासितों को वापस लौटने की अनुमति दी गयी और बाकी राजनैतिक कैदियों को आजाद कर दिया गया था।
+# text_en = Under his administration, the female vote was approved, political parties were legalised, all of the exiled were allowed to return and the remaining political prisoners were freed.
+1	उसके	_	_	_	ANIM;SG;PRO;ACC;3	_	_	_	_
+2	प्रशासन	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+3	में	_	_	_	ADP;ESS	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	महिला	_	_	_	ANIM;N;SG;FEM	_	_	_	_
+6	वोट	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+7	को	_	_	_	ADP;ACC	_	_	_	_
+8	मंजूरी	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+9	मिली	_	_	_	PST;IND;PFV;SG;V;3;FEM	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	राजनीतिक	_	_	_	ADJ	_	_	_	_
+12	पार्टियों	_	_	_	PL;N;INAN;ACC;FEM	_	_	_	_
+13	को	_	_	_	ADP;ACC	_	_	_	_
+14	वैध	_	_	_	ADJ	_	_	_	_
+15	किया	_	_	_	V;MASC;SG;3	_	_	_	_
+16	गया	_	_	_	PST;IND;PFV;V;3;SG;MASC	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	सभी	_	_	_	DET	_	_	_	_
+19	निर्वासितों	_	_	_	ANIM;N;PL;ACC	_	_	_	_
+20	को	_	_	_	ADP;ACC	_	_	_	_
+21	वापस	_	_	_	ADV	_	_	_	_
+22	लौटने	_	_	_	V;NFIN	_	_	_	_
+23	की	_	_	_	ADP;GEN;FEM	_	_	_	_
+24	अनुमति	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+25	दी	_	_	_	V;3;FEM;SG	_	_	_	_
+26	गयी	_	_	_	PST;IND;PFV;V;SG;3;FEM	_	_	_	_
+27	और	_	_	_	CONJ	_	_	_	_
+28	बाकी	_	_	_	ADJ	_	_	_	_
+29	राजनैतिक	_	_	_	ADJ	_	_	_	_
+30	कैदियों	_	_	_	ANIM;N;PL;ACC	_	_	_	_
+31	को	_	_	_	ADP;ACC	_	_	_	_
+32	आजाद	_	_	_	ADJ	_	_	_	_
+33	कर	_	_	_	V	_	_	_	_
+34	दिया	_	_	_	V;MASC;SG;3	_	_	_	_
+35	गया	_	_	_	IND;PFV;V;3;SG;MASC	_	_	_	_
+36	था	_	_	_	PST;V;3;SG;MASC	_	_	_	_
+37	।	_	_	_	_	_	_	_	_
+
+# sent_id = w01130103
+# text = ये दो रिकॉर्ड्स थे जिन्हें रेफर्टी ने ह्यूज मर्फी, जिसका निधन 1998 में हो गया था, के साथ मिलकर बनाया।
+# text_en = These were the last two records Rafferty produced with Hugh Murphy, who died in 1998.
+1	ये	_	_	_	PRO;SG	_	_	_	_
+2	दो	_	_	_	NUM	_	_	_	_
+3	रिकॉर्ड्स	_	_	_	PL;N;INAN;ACC;MASC	_	_	_	_
+4	थे	_	_	_	PST;IND;PL;PFV;3;V;MASC	_	_	_	_
+5	जिन्हें	_	_	_	PSSP;PRO;ACC	_	_	_	_
+6	रेफर्टी	_	_	_	ANIM;PROPN;SG;ACC;MASC	_	_	_	_
+7	ने	_	_	_	ADP;ERG	_	_	_	_
+8	ह्यूज	_	_	_	MASC;ANIM;PROPN;SG	_	_	_	_
+9	मर्फी	_	_	_	ANIM;PROPN;SG;NOM;MASC	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	जिसका	_	_	_	PSSS;SG;PRO;NOM	_	_	_	_
+12	निधन	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+13	1998	_	_	_	NUM	_	_	_	_
+14	में	_	_	_	ADP;ESS	_	_	_	_
+15	हो	_	_	_	V	_	_	_	_
+16	गया	_	_	_	IND;PFV;V;3;SG;MASC	_	_	_	_
+17	था	_	_	_	PST;V;3;SG;MASC	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	के	_	_	_	ADP	_	_	_	_
+20	साथ	_	_	_	ADP	_	_	_	_
+21	मिलकर	_	_	_	V	_	_	_	_
+22	बनाया	_	_	_	PST;IND;PFV;3;SG;V;MASC	_	_	_	_
+23	।	_	_	_	_	_	_	_	_
+
+# newdoc id = n02043
+# sent_id = n02043008
+# text = और अब वह भी विश्व चैम्पियन है।
+# text_en = And now he is also world champion.
+1	और	_	_	_	CONJ	_	_	_	_
+2	अब	_	_	_	N	_	_	_	_
+3	वह	_	_	_	ANIM;SG;PRO;NOM;3	_	_	_	_
+4	भी	_	_	_	PART	_	_	_	_
+5	विश्व	_	_	_	MASC;N;SG;INAN	_	_	_	_
+6	चैम्पियन	_	_	_	ANIM;N;SG;NOM	_	_	_	_
+7	है	_	_	_	IND;V;3;PRS;SG;IPFV;MASC	_	_	_	_
+8	।	_	_	_	_	_	_	_	_
+
+# sent_id = n01084036
+# text = इसके साथ, सिद्धान्त रूप में, आप जब चाहें अपने पैसे का उपयोग कर सकते हैं।
+# text_en = With this, in theory, you are able to access your money whenever you like.
+1	इसके	_	_	_	PRO;SG	_	_	_	_
+2	साथ	_	_	_	ADP	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	सिद्धान्त	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+5	रूप	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+6	में	_	_	_	ADP;ACC	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	आप	_	_	_	ANIM;FORM;SG;PRO;NOM;2	_	_	_	_
+9	जब	_	_	_	CONJ	_	_	_	_
+10	चाहें	_	_	_	IMP;SG;V;IPFV;2	_	_	_	_
+11	अपने	_	_	_	PRO;MASC;SG;ACC	_	_	_	_
+12	पैसे	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+13	का	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+14	उपयोग	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+15	कर	_	_	_	V	_	_	_	_
+16	सकते	_	_	_	IND;V;SG;IPFV;2	_	_	_	_
+17	हैं	_	_	_	V;PL;2;PRS	_	_	_	_
+18	।	_	_	_	_	_	_	_	_
+
+# newdoc id = w05003
+# sent_id = w05003012
+# text = हालांकि, उसके और लिनारेस के बीच अवरोध पैदा होने और प्रगतिशील धारा पर विराम लगने से अनुमोदन की क्रान्ति (रिवोल्यूशन ऑफ विंडिकेशन) को बढ़ावा मिला जिसने उसे 1879 में उखाड़ फेंका।
+# text_en = However, the breakdown between him and Linares and the discontinuation of the progressive line provoked the Revolution of Vindication which overthrew him in 1879.
+1	हालांकि	_	_	_	CONJ	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	उसके	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+4	और	_	_	_	CONJ	_	_	_	_
+5	लिनारेस	_	_	_	PROPN;SG;INAN;ACC;MASC	_	_	_	_
+6	के	_	_	_	ADP	_	_	_	_
+7	बीच	_	_	_	ADP	_	_	_	_
+8	अवरोध	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+9	पैदा	_	_	_	MASC;N;SG	_	_	_	_
+10	होने	_	_	_	V;NFIN	_	_	_	_
+11	और	_	_	_	CONJ	_	_	_	_
+12	प्रगतिशील	_	_	_	ADJ	_	_	_	_
+13	धारा	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+14	पर	_	_	_	ADP;ACC	_	_	_	_
+15	विराम	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+16	लगने	_	_	_	V;NFIN	_	_	_	_
+17	से	_	_	_	ADP;ACC	_	_	_	_
+18	अनुमोदन	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+19	की	_	_	_	ADP;GEN;FEM	_	_	_	_
+20	क्रान्ति	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+21	(	_	_	_	_	_	_	_	_
+22	रिवोल्यूशन	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+23	ऑफ	_	_	_	ADP;GEN	_	_	_	_
+24	विंडिकेशन	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+25	)	_	_	_	_	_	_	_	_
+26	को	_	_	_	ADP;ACC	_	_	_	_
+27	बढ़ावा	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+28	मिला	_	_	_	PST;IND;PFV;3;SG;V;MASC	_	_	_	_
+29	जिसने	_	_	_	PSSS;SG;PRO;ACC	_	_	_	_
+30	उसे	_	_	_	3;SG;INAN;PRO;ACC;MASC	_	_	_	_
+31	1879	_	_	_	NUM	_	_	_	_
+32	में	_	_	_	ADP;ESS	_	_	_	_
+33	उखाड़	_	_	_	V	_	_	_	_
+34	फेंका	_	_	_	PST;IND;PFV;V;3;SG;MASC	_	_	_	_
+35	।	_	_	_	_	_	_	_	_
+
+# newdoc id = w02013
+# sent_id = w02013015
+# text = औद्योगिक क्रान्ति किसी अन्य देश से पहले ग्रेट ब्रिटेन में हुई।
+# text_en = The Industrial Revolution took place in Great Britain earlier than in any other country.
+1	औद्योगिक	_	_	_	ADJ	_	_	_	_
+2	क्रान्ति	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+3	किसी	_	_	_	DET	_	_	_	_
+4	अन्य	_	_	_	ADJ	_	_	_	_
+5	देश	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+6	से	_	_	_	ADP	_	_	_	_
+7	पहले	_	_	_	ADP	_	_	_	_
+8	ग्रेट	_	_	_	ADJ	_	_	_	_
+9	ब्रिटेन	_	_	_	PROPN;SG;INAN;ACC;MASC	_	_	_	_
+10	में	_	_	_	ADP;ESS	_	_	_	_
+11	हुई	_	_	_	PST;IND;PFV;SG;V;3;FEM	_	_	_	_
+12	।	_	_	_	_	_	_	_	_
+
+# newdoc id = w01144
+# sent_id = w01144031
+# text = उसने बाद के चुनावों में तीसरे कार्यकाल को नहीं चुना।
+# text_en = He chose not to seek a third term in the following election cycle.
+1	उसने	_	_	_	ANIM;SG;PRO;ACC;3	_	_	_	_
+2	बाद	_	_	_	N	_	_	_	_
+3	के	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+4	चुनावों	_	_	_	PL;N;INAN;ACC;MASC	_	_	_	_
+5	में	_	_	_	ADP;ESS	_	_	_	_
+6	तीसरे	_	_	_	MASC;ACC;SG;ADJ	_	_	_	_
+7	कार्यकाल	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+8	को	_	_	_	ADP;ACC	_	_	_	_
+9	नहीं	_	_	_	PART;NEG	_	_	_	_
+10	चुना	_	_	_	PST;IND;PFV;3;SG;V;MASC	_	_	_	_
+11	।	_	_	_	_	_	_	_	_
+
+# sent_id = n01090037
+# text = मुझे उसकी भूमिका निभाना पसंद है और मैं हमेशा वाग्देवी (म्युजेज) की तस्वीर वाले पोस्टर की तलाश में रहती हूं क्योंकि जब मुझे वह मिलता है तो उसे एकत्र करना बहुत मजेदार होता है।
+# text_en = I love to play with that and I am always looking for muses that fit that bill because it is so interesting making a collection when I find one.
+1	मुझे	_	_	_	ANIM;SG;PRO;ACC;1;FEM	_	_	_	_
+2	उसकी	_	_	_	SG;PRO;NOM;3;FEM	_	_	_	_
+3	भूमिका	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+4	निभाना	_	_	_	V;NFIN	_	_	_	_
+5	पसंद	_	_	_	N;SG;FEM	_	_	_	_
+6	है	_	_	_	IND;3;PRS;SG;V;IPFV;MASC	_	_	_	_
+7	और	_	_	_	CONJ	_	_	_	_
+8	मैं	_	_	_	ANIM;SG;PRO;NOM;1;FEM	_	_	_	_
+9	हमेशा	_	_	_	ADV	_	_	_	_
+10	वाग्देवी	_	_	_	ANIM;PROPN;SG;ACC;FEM	_	_	_	_
+11	(	_	_	_	_	_	_	_	_
+12	म्युजेज	_	_	_	ANIM;PROPN;SG;ACC;FEM	_	_	_	_
+13	)	_	_	_	_	_	_	_	_
+14	की	_	_	_	ADP;GEN;FEM	_	_	_	_
+15	तस्वीर	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+16	वाले	_	_	_	MASC;ADP;SG;ACC	_	_	_	_
+17	पोस्टर	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+18	की	_	_	_	ADP;GEN;FEM	_	_	_	_
+19	तलाश	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+20	में	_	_	_	ADP;ACC	_	_	_	_
+21	रहती	_	_	_	IND;SG;V;IPFV;3;FEM	_	_	_	_
+22	हूं	_	_	_	V;PRS;SG;3;FEM	_	_	_	_
+23	क्योंकि	_	_	_	CONJ	_	_	_	_
+24	जब	_	_	_	CONJ	_	_	_	_
+25	मुझे	_	_	_	ANIM;SG;PRO;ACC;1;FEM	_	_	_	_
+26	वह	_	_	_	3;SG;INAN;PRO;NOM;MASC	_	_	_	_
+27	मिलता	_	_	_	IND;3;SG;V;IPFV;MASC	_	_	_	_
+28	है	_	_	_	V;3;PRS;SG;MASC	_	_	_	_
+29	तो	_	_	_	CONJ	_	_	_	_
+30	उसे	_	_	_	3;SG;INAN;PRO;ACC;MASC	_	_	_	_
+31	एकत्र	_	_	_	ADJ	_	_	_	_
+32	करना	_	_	_	V;NFIN	_	_	_	_
+33	बहुत	_	_	_	DET	_	_	_	_
+34	मजेदार	_	_	_	ADJ	_	_	_	_
+35	होता	_	_	_	IND;3;SG;V;IPFV;MASC	_	_	_	_
+36	है	_	_	_	V;3;PRS;SG;MASC	_	_	_	_
+37	।	_	_	_	_	_	_	_	_
+
+# sent_id = n01101017
+# text = इस बीच, ऐसा लगता है कि हांगकांग विरोध की एक लहर को बढ़ा रहा है।
+# text_en = Hong Kong, meanwhile, appears to be bracing for a wave of protests.
+1	इस	_	_	_	DET;SG;DEF	_	_	_	_
+2	बीच	_	_	_	ADP	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	ऐसा	_	_	_	PRO;SG	_	_	_	_
+5	लगता	_	_	_	IND;3;SG;V;IPFV;MASC	_	_	_	_
+6	है	_	_	_	V;3;PRS;SG;MASC	_	_	_	_
+7	कि	_	_	_	CONJ	_	_	_	_
+8	हांगकांग	_	_	_	PROPN;SG;INAN;NOM;MASC	_	_	_	_
+9	विरोध	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+10	की	_	_	_	ADP;GEN;FEM	_	_	_	_
+11	एक	_	_	_	DET;SG;INDF	_	_	_	_
+12	लहर	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+13	को	_	_	_	ADP;ACC	_	_	_	_
+14	बढ़ा	_	_	_	V;MASC;SG;3	_	_	_	_
+15	रहा	_	_	_	IND;V;3;SG;PROG;MASC	_	_	_	_
+16	है	_	_	_	V;3;PRS;SG;MASC	_	_	_	_
+17	।	_	_	_	_	_	_	_	_
+
+# sent_id = w03002055
+# text = एमनेस्टी इंटरनेशनल ने वर्ष 2008 से अखबार के लेखों का हवाला देते हुए कहा कि जादू-टोने के आरोप में पचास लोगों की हत्या हुई।
+# text_en = Amnesty International cites newspaper articles from 2008 describing the murder of fifty people accused of witchcraft.
+1	एमनेस्टी	_	_	_	PROPN;FEM;INAN;SG	_	_	_	_
+2	इंटरनेशनल	_	_	_	PROPN;SG;INAN;ACC;MASC	_	_	_	_
+3	ने	_	_	_	ADP;ERG	_	_	_	_
+4	वर्ष	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+5	2008	_	_	_	NUM	_	_	_	_
+6	से	_	_	_	ADP;ACC	_	_	_	_
+7	अखबार	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+8	के	_	_	_	MASC;ADP;GEN;PL	_	_	_	_
+9	लेखों	_	_	_	PL;N;INAN;ACC;MASC	_	_	_	_
+10	का	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+11	हवाला	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+12	देते	_	_	_	V;MASC;SG;3	_	_	_	_
+13	हुए	_	_	_	V;MASC;SG;3	_	_	_	_
+14	कहा	_	_	_	IND;PFV;3;SG;V;MASC	_	_	_	_
+15	कि	_	_	_	CONJ	_	_	_	_
+16	जादू	_	_	_	MASC;N;SG;INAN	_	_	_	_
+17	-	_	_	_	_	_	_	_	_
+18	टोने	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+19	के	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+20	आरोप	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+21	में	_	_	_	ADP;ACC	_	_	_	_
+22	पचास	_	_	_	NUM	_	_	_	_
+23	लोगों	_	_	_	ANIM;N;PL;ACC	_	_	_	_
+24	की	_	_	_	ADP;GEN;FEM	_	_	_	_
+25	हत्या	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+26	हुई	_	_	_	PST;IND;PFV;SG;V;3;FEM	_	_	_	_
+27	।	_	_	_	_	_	_	_	_
+
+# newdoc id = w01148
+# sent_id = w01148068
+# text = इस बार वह उसके पास गई, लेकिन उसने यह मानने से इनकार कर दिया कि वह उससे अब शादी करना नहीं चाहती।
+# text_en = This time it reached him, but he refused to believe that she no longer wanted to be married to him.
+1	इस	_	_	_	DET;SG;DEF	_	_	_	_
+2	बार	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+3	वह	_	_	_	ANIM;SG;PRO;NOM;3;FEM	_	_	_	_
+4	उसके	_	_	_	ANIM;SG;PRO;ACC;3	_	_	_	_
+5	पास	_	_	_	ADP	_	_	_	_
+6	गई	_	_	_	PST;IND;PFV;SG;V;3;FEM	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	लेकिन	_	_	_	CONJ	_	_	_	_
+9	उसने	_	_	_	ANIM;3;SG;PRO;ACC;MASC	_	_	_	_
+10	यह	_	_	_	PRO;SG	_	_	_	_
+11	मानने	_	_	_	V;NFIN	_	_	_	_
+12	से	_	_	_	ADP	_	_	_	_
+13	इनकार	_	_	_	MASC;N;SG	_	_	_	_
+14	कर	_	_	_	V	_	_	_	_
+15	दिया	_	_	_	PST;IND;PFV;V;3;SG;MASC	_	_	_	_
+16	कि	_	_	_	CONJ	_	_	_	_
+17	वह	_	_	_	ANIM;SG;PRO;NOM;3;FEM	_	_	_	_
+18	उससे	_	_	_	ANIM;3;SG;PRO;ACC;MASC	_	_	_	_
+19	अब	_	_	_	N	_	_	_	_
+20	शादी	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+21	करना	_	_	_	V;NFIN	_	_	_	_
+22	नहीं	_	_	_	PART;NEG	_	_	_	_
+23	चाहती	_	_	_	PST;IND;PFV;SG;V;3;FEM	_	_	_	_
+24	।	_	_	_	_	_	_	_	_
+
+# sent_id = w01057041
+# text = ऐसा पहले ही कहा गया था कि वह या तो साधारण जीवन जीते हुए बुढ़ापे में मर जाएगा, या युवा अवस्था में युद्धभूमि में वीरगति को प्राप्त होगा और कविता के जरिए अमर हो जाएगा।
+# text_en = It was foretold that he would either die of old age after an uneventful life, or die young in a battlefield and gain immortality through poetry.
+1	ऐसा	_	_	_	CONJ	_	_	_	_
+2	पहले	_	_	_	N	_	_	_	_
+3	ही	_	_	_	PART	_	_	_	_
+4	कहा	_	_	_	V;MASC;SG;3	_	_	_	_
+5	गया	_	_	_	IND;PFV;V;3;SG;MASC	_	_	_	_
+6	था	_	_	_	PST;V;3;SG;MASC	_	_	_	_
+7	कि	_	_	_	CONJ	_	_	_	_
+8	वह	_	_	_	ANIM;3;SG;PRO;NOM;MASC	_	_	_	_
+9	या	_	_	_	CONJ	_	_	_	_
+10	तो	_	_	_	CONJ	_	_	_	_
+11	साधारण	_	_	_	ADJ	_	_	_	_
+12	जीवन	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+13	जीते	_	_	_	V;MASC;SG;3	_	_	_	_
+14	हुए	_	_	_	V;MASC;SG;3	_	_	_	_
+15	बुढ़ापे	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+16	में	_	_	_	ADP;ESS	_	_	_	_
+17	मर	_	_	_	V	_	_	_	_
+18	जाएगा	_	_	_	IND;V;3;SG;IPFV;MASC;FUT	_	_	_	_
+19	,	_	_	_	_	_	_	_	_
+20	या	_	_	_	CONJ	_	_	_	_
+21	युवा	_	_	_	ADJ	_	_	_	_
+22	अवस्था	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+23	में	_	_	_	ADP;ESS	_	_	_	_
+24	युद्धभूमि	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+25	में	_	_	_	ADP;ESS	_	_	_	_
+26	वीरगति	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+27	को	_	_	_	ADP;ACC	_	_	_	_
+28	प्राप्त	_	_	_	ADJ	_	_	_	_
+29	होगा	_	_	_	IND;V;3;SG;IPFV;MASC;FUT	_	_	_	_
+30	और	_	_	_	CONJ	_	_	_	_
+31	कविता	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+32	के	_	_	_	ADP	_	_	_	_
+33	जरिए	_	_	_	ADP	_	_	_	_
+34	अमर	_	_	_	ADJ	_	_	_	_
+35	हो	_	_	_	V	_	_	_	_
+36	जाएगा	_	_	_	IND;V;3;SG;IPFV;MASC;FUT	_	_	_	_
+37	।	_	_	_	_	_	_	_	_
+
+# sent_id = w01039058
+# text = जैसे ब्रिसबेन बढ़ा, नदी अपने सबसे बुरी स्थिति में पहुंच गयी, यह एक खुले नाले और कचरा एकत्र करने की जगह से ज्यादा नहीं रह गयी।
+# text_en = As Brisbane grew, the condition of the river worsened until at its worst it was no more than an open sewer and waste dump.
+1	जैसे	_	_	_	CONJ	_	_	_	_
+2	ब्रिसबेन	_	_	_	PROPN;SG;INAN;ACC;MASC	_	_	_	_
+3	बढ़ा	_	_	_	PST;IND;PFV;3;SG;V;MASC	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	नदी	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+6	अपने	_	_	_	PRO;MASC;SG;ACC	_	_	_	_
+7	सबसे	_	_	_	ADJ	_	_	_	_
+8	बुरी	_	_	_	FEM;ADJ	_	_	_	_
+9	स्थिति	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+10	में	_	_	_	ADP;ESS	_	_	_	_
+11	पहुंच	_	_	_	V	_	_	_	_
+12	गयी	_	_	_	IND;PFV;V;SG;3;FEM	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	यह	_	_	_	PRO;SG	_	_	_	_
+15	एक	_	_	_	DET;SG;INDF	_	_	_	_
+16	खुले	_	_	_	MASC;ACC;SG;ADJ	_	_	_	_
+17	नाले	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+18	और	_	_	_	CONJ	_	_	_	_
+19	कचरा	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+20	एकत्र	_	_	_	ADJ	_	_	_	_
+21	करने	_	_	_	V;NFIN	_	_	_	_
+22	की	_	_	_	ADP;GEN;FEM	_	_	_	_
+23	जगह	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+24	से	_	_	_	ADP	_	_	_	_
+25	ज्यादा	_	_	_	ADP	_	_	_	_
+26	नहीं	_	_	_	PART;NEG	_	_	_	_
+27	रह	_	_	_	V	_	_	_	_
+28	गयी	_	_	_	PST;IND;PFV;V;SG;3;FEM	_	_	_	_
+29	।	_	_	_	_	_	_	_	_
+
+# sent_id = n01145015
+# text = परेड की रचनात्मक (क्रिएटिव) निर्देशकों में से एक अलेजांद्रा गोंजालेज अनाया ने सीएनएन को बताया कि मैक्सिको ने इस तरह का शो इस समय आयोजित करने का फैसला क्यों किया।
+# text_en = Alejandra González Anaya, one of the parade's creative directors, explained to CNN why Mexico have decided now is the time to put on such a show.
+1	परेड	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+2	की	_	_	_	ADP;GEN;FEM	_	_	_	_
+3	रचनात्मक	_	_	_	ADJ	_	_	_	_
+4	(	_	_	_	_	_	_	_	_
+5	क्रिएटिव	_	_	_	ADJ	_	_	_	_
+6	)	_	_	_	_	_	_	_	_
+7	निर्देशकों	_	_	_	ANIM;N;PL;ACC	_	_	_	_
+8	में	_	_	_	ADP	_	_	_	_
+9	से	_	_	_	ADP	_	_	_	_
+10	एक	_	_	_	ANIM;N;SG;NOM	_	_	_	_
+11	अलेजांद्रा	_	_	_	ANIM;PROPN;SG;FEM	_	_	_	_
+12	गोंजालेज	_	_	_	ANIM;PROPN;SG;FEM	_	_	_	_
+13	अनाया	_	_	_	ANIM;PROPN;SG;ACC;FEM	_	_	_	_
+14	ने	_	_	_	ADP;ERG	_	_	_	_
+15	सीएनएन	_	_	_	PROPN;SG;INAN;ACC;MASC	_	_	_	_
+16	को	_	_	_	ADP;ACC	_	_	_	_
+17	बताया	_	_	_	PST;IND;PFV;3;SG;V;MASC	_	_	_	_
+18	कि	_	_	_	CONJ	_	_	_	_
+19	मैक्सिको	_	_	_	PROPN;SG;INAN;ACC;MASC	_	_	_	_
+20	ने	_	_	_	ADP;ERG	_	_	_	_
+21	इस	_	_	_	DET;SG;DEF	_	_	_	_
+22	तरह	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+23	का	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+24	शो	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+25	इस	_	_	_	DET;SG;DEF	_	_	_	_
+26	समय	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+27	आयोजित	_	_	_	ADJ	_	_	_	_
+28	करने	_	_	_	V;NFIN	_	_	_	_
+29	का	_	_	_	MASC;ADP;GEN	_	_	_	_
+30	फैसला	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+31	क्यों	_	_	_	PRO	_	_	_	_
+32	किया	_	_	_	PST;IND;PFV;3;SG;V;MASC	_	_	_	_
+33	।	_	_	_	_	_	_	_	_
+
+# sent_id = n01016019
+# text = कई विश्लेषकों ने सुझाव दिया है कि सैमसंग को लगे झटके का फायदा उठाने के लिए हुआवेई (Huawei) को उतारना सबसे अच्छा है।
+# text_en = Several analysts have suggested Huawei is best placed to benefit from Samsung's setback.
+1	कई	_	_	_	DET	_	_	_	_
+2	विश्लेषकों	_	_	_	ANIM;N;PL;ACC	_	_	_	_
+3	ने	_	_	_	ADP;ERG	_	_	_	_
+4	सुझाव	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+5	दिया	_	_	_	IND;PFV;3;SG;V;MASC	_	_	_	_
+6	है	_	_	_	V;3;PRS;SG;MASC	_	_	_	_
+7	कि	_	_	_	CONJ	_	_	_	_
+8	सैमसंग	_	_	_	PROPN;SG;INAN;ACC;MASC	_	_	_	_
+9	को	_	_	_	ADP;ACC	_	_	_	_
+10	लगे	_	_	_	V;MASC;SG	_	_	_	_
+11	झटके	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+12	का	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+13	फायदा	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+14	उठाने	_	_	_	V;NFIN	_	_	_	_
+15	के	_	_	_	ADP	_	_	_	_
+16	लिए	_	_	_	ADP	_	_	_	_
+17	हुआवेई	_	_	_	PROPN;SG;INAN;NOM;MASC	_	_	_	_
+18	(	_	_	_	_	_	_	_	_
+19	Huawei	_	_	_	PROPN	_	_	_	_
+20	)	_	_	_	_	_	_	_	_
+21	को	_	_	_	ADP;ACC	_	_	_	_
+22	उतारना	_	_	_	V;NFIN	_	_	_	_
+23	सबसे	_	_	_	ADJ	_	_	_	_
+24	अच्छा	_	_	_	MASC;SG;NOM;ADJ	_	_	_	_
+25	है	_	_	_	IND;V;3;PRS;SG;IPFV;MASC	_	_	_	_
+26	।	_	_	_	_	_	_	_	_
+
+# sent_id = n01145012
+# text = यह एक ऐसा आयोजन है जिसके बारे में मैक्सिको को उम्मीद है कि यह अंततः ब्राजील के कार्निवाल का प्रतिद्वंद्वी हो जाएगा।
+# text_en = It's an event Mexico hopes will eventually rival the Carnival of Brazil.
+1	यह	_	_	_	PRO;SG	_	_	_	_
+2	एक	_	_	_	DET;SG;INDF	_	_	_	_
+3	ऐसा	_	_	_	DET;SG;DEF	_	_	_	_
+4	आयोजन	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+5	है	_	_	_	IND;3;PRS;SG;V;IPFV;MASC	_	_	_	_
+6	जिसके	_	_	_	PSSS;SG;PRO;ACC;MASC	_	_	_	_
+7	बारे	_	_	_	ADP	_	_	_	_
+8	में	_	_	_	ADP	_	_	_	_
+9	मैक्सिको	_	_	_	PROPN;SG;INAN;ACC;MASC	_	_	_	_
+10	को	_	_	_	ADP;ACC	_	_	_	_
+11	उम्मीद	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+12	है	_	_	_	IND;PRS;SG;V;IPFV;3;FEM	_	_	_	_
+13	कि	_	_	_	CONJ	_	_	_	_
+14	यह	_	_	_	PRO;SG	_	_	_	_
+15	अंततः	_	_	_	ADV	_	_	_	_
+16	ब्राजील	_	_	_	PROPN;SG;INAN;ACC;MASC	_	_	_	_
+17	के	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+18	कार्निवाल	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+19	का	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+20	प्रतिद्वंद्वी	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+21	हो	_	_	_	V	_	_	_	_
+22	जाएगा	_	_	_	IND;V;3;SG;IPFV;MASC;FUT	_	_	_	_
+23	।	_	_	_	_	_	_	_	_
+
+# sent_id = w03005015
+# text = यूनान कई छोटे, स्वशासी समुदायों, एक ऐसा पैटर्न जो काफी हद तक यूनान के भूगोल से निर्धारित था, में विभाजित था: हर द्वीप, घाटी और मैदान समुद्र और पर्वत श्रृंखलाओं के द्वारा अपने पड़ोसियों से कटा हुआ था।
+# text_en = Greece was divided into many small, self-governing communities, a pattern largely dictated by Greek geography: every island, valley and plain is cut off from its neighbours by the sea or mountain ranges.
+1	यूनान	_	_	_	PROPN;SG;INAN;ACC;MASC	_	_	_	_
+2	कई	_	_	_	DET	_	_	_	_
+3	छोटे	_	_	_	MASC;ACC;SG;ADJ	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	स्वशासी	_	_	_	ADJ	_	_	_	_
+6	समुदायों	_	_	_	PL;N;INAN;ACC;MASC	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	एक	_	_	_	DET;SG;INDF	_	_	_	_
+9	ऐसा	_	_	_	DET;SG;DEF	_	_	_	_
+10	पैटर्न	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+11	जो	_	_	_	PSSS;PRO;NOM	_	_	_	_
+12	काफी	_	_	_	DET	_	_	_	_
+13	हद	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+14	तक	_	_	_	ADP	_	_	_	_
+15	यूनान	_	_	_	PROPN;SG;INAN;ACC;MASC	_	_	_	_
+16	के	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+17	भूगोल	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+18	से	_	_	_	ADP;ACC	_	_	_	_
+19	निर्धारित	_	_	_	ADJ	_	_	_	_
+20	था	_	_	_	PST;IND;PFV;V;3;SG;MASC	_	_	_	_
+21	,	_	_	_	_	_	_	_	_
+22	में	_	_	_	ADP;ACC	_	_	_	_
+23	विभाजित	_	_	_	ADJ	_	_	_	_
+24	था	_	_	_	PST;IND;PFV;V;3;SG;MASC	_	_	_	_
+25	:	_	_	_	_	_	_	_	_
+26	हर	_	_	_	DET	_	_	_	_
+27	द्वीप	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+28	,	_	_	_	_	_	_	_	_
+29	घाटी	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+30	और	_	_	_	CONJ	_	_	_	_
+31	मैदान	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+32	समुद्र	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+33	और	_	_	_	CONJ	_	_	_	_
+34	पर्वत	_	_	_	MASC;N;SG;INAN	_	_	_	_
+35	श्रृंखलाओं	_	_	_	PL;N;INAN;ACC;FEM	_	_	_	_
+36	के	_	_	_	ADP	_	_	_	_
+37	द्वारा	_	_	_	ADP	_	_	_	_
+38	अपने	_	_	_	PRO;MASC;SG;ACC	_	_	_	_
+39	पड़ोसियों	_	_	_	PL;N;INAN;ACC	_	_	_	_
+40	से	_	_	_	ADP;ACC	_	_	_	_
+41	कटा	_	_	_	V;MASC;SG;3	_	_	_	_
+42	हुआ	_	_	_	IND;PFV;V;3;SG;MASC	_	_	_	_
+43	था	_	_	_	PST;V;3;SG;MASC	_	_	_	_
+44	।	_	_	_	_	_	_	_	_
+
+# newdoc id = n01020
+# sent_id = n01020004
+# text = पहले जेट विमान केवल ब्लॉगर्स द्वारा देखे गए थे।
+# text_en = Previously the jets had only been seen by bloggers.
+1	पहले	_	_	_	N	_	_	_	_
+2	जेट	_	_	_	MASC;N;SG;INAN	_	_	_	_
+3	विमान	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+4	केवल	_	_	_	DET	_	_	_	_
+5	ब्लॉगर्स	_	_	_	ANIM;N;PL;ACC	_	_	_	_
+6	द्वारा	_	_	_	ADP;INS	_	_	_	_
+7	देखे	_	_	_	V;3;PL	_	_	_	_
+8	गए	_	_	_	IND;PL;PFV;V;3	_	_	_	_
+9	थे	_	_	_	V;3;PL;PST	_	_	_	_
+10	।	_	_	_	_	_	_	_	_
+
+# sent_id = w01016034
+# text = बरसात के दौरान, पानी की बूंदें आस-पास की हवा से कार्बन डाई ऑक्साइड को सोखकर उसे विघटित कर देती हैं।
+# text_en = During rains precipitation, the water droplets absorb and dissolve carbon dioxide from the surrounding air.
+1	बरसात	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+2	के	_	_	_	ADP	_	_	_	_
+3	दौरान	_	_	_	ADP	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	पानी	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+6	की	_	_	_	ADP;GEN;FEM	_	_	_	_
+7	बूंदें	_	_	_	PL;N;INAN;NOM;FEM	_	_	_	_
+8	आस	_	_	_	N	_	_	_	_
+9	-	_	_	_	_	_	_	_	_
+10	पास	_	_	_	N	_	_	_	_
+11	की	_	_	_	ADP;GEN;FEM	_	_	_	_
+12	हवा	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+13	से	_	_	_	ADP;ACC	_	_	_	_
+14	कार्बन	_	_	_	MASC;N;SG;INAN	_	_	_	_
+15	डाई	_	_	_	MASC;N;SG;INAN	_	_	_	_
+16	ऑक्साइड	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+17	को	_	_	_	ADP;ACC	_	_	_	_
+18	सोखकर	_	_	_	V	_	_	_	_
+19	उसे	_	_	_	3;SG;INAN;PRO;ACC;MASC	_	_	_	_
+20	विघटित	_	_	_	ADJ	_	_	_	_
+21	कर	_	_	_	V	_	_	_	_
+22	देती	_	_	_	IND;PL;V;IPFV;3;FEM	_	_	_	_
+23	हैं	_	_	_	PL;V;PRS;3;FEM	_	_	_	_
+24	।	_	_	_	_	_	_	_	_
+
+# newdoc id = w01099
+# sent_id = w01099012
+# text = संगीत की उत्पत्ति की व्याख्याएं इस बात पर निर्भर करती हैं कि संगीत को कैसे परिभाषित किया जाता है।
+# text_en = Explanations of the origin of music depend on how music is defined.
+1	संगीत	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+2	की	_	_	_	ADP;GEN;FEM	_	_	_	_
+3	उत्पत्ति	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+4	की	_	_	_	ADP;GEN;FEM	_	_	_	_
+5	व्याख्याएं	_	_	_	PL;N;INAN;NOM;FEM	_	_	_	_
+6	इस	_	_	_	DET;SG;DEF	_	_	_	_
+7	बात	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+8	पर	_	_	_	ADP;ACC	_	_	_	_
+9	निर्भर	_	_	_	MASC;N;SG	_	_	_	_
+10	करती	_	_	_	IND;PL;V;IPFV;3;FEM	_	_	_	_
+11	हैं	_	_	_	PL;V;PRS;3;FEM	_	_	_	_
+12	कि	_	_	_	CONJ	_	_	_	_
+13	संगीत	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+14	को	_	_	_	ADP;ACC	_	_	_	_
+15	कैसे	_	_	_	PRO	_	_	_	_
+16	परिभाषित	_	_	_	ADJ	_	_	_	_
+17	किया	_	_	_	V;MASC;SG;3	_	_	_	_
+18	जाता	_	_	_	IND;V;3;SG;IPFV;MASC	_	_	_	_
+19	है	_	_	_	V;3;PRS;SG;MASC	_	_	_	_
+20	।	_	_	_	_	_	_	_	_
+
+# sent_id = w03010099
+# text = गर्मियों में, जॉर्जेज और उसकी पत्नी 18 साल की उस लड़की रोजेन के साथ स्विट्जरलैंड लौट गए जो जर्माइने के एक दोस्त की बेटी थी।
+# text_en = In the summer, Georges and his wife returned to Switzerland, accompanied by Rosane, an 18 year old who was the daughter of one of Germaine's friends.
+1	गर्मियों	_	_	_	PL;N;INAN;ACC;FEM	_	_	_	_
+2	में	_	_	_	ADP;ESS	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	जॉर्जेज	_	_	_	ANIM;PROPN;SG;NOM;MASC	_	_	_	_
+5	और	_	_	_	CONJ	_	_	_	_
+6	उसकी	_	_	_	PSSS;ANIM;SG;PRO;NOM;3;FEM	_	_	_	_
+7	पत्नी	_	_	_	ANIM;N;SG;NOM;FEM	_	_	_	_
+8	18	_	_	_	NUM	_	_	_	_
+9	साल	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+10	की	_	_	_	ADP;GEN;FEM	_	_	_	_
+11	उस	_	_	_	DET;SG;DEF	_	_	_	_
+12	लड़की	_	_	_	ANIM;N;SG;NOM;FEM	_	_	_	_
+13	रोजेन	_	_	_	ANIM;PROPN;SG;ACC;FEM	_	_	_	_
+14	के	_	_	_	ADP	_	_	_	_
+15	साथ	_	_	_	ADP	_	_	_	_
+16	स्विट्जरलैंड	_	_	_	PROPN;SG;INAN;NOM;MASC	_	_	_	_
+17	लौट	_	_	_	V	_	_	_	_
+18	गए	_	_	_	IND;PL;PFV;V;3	_	_	_	_
+19	जो	_	_	_	PSSS;PRO;NOM	_	_	_	_
+20	जर्माइने	_	_	_	ANIM;PROPN;SG;ACC;MASC	_	_	_	_
+21	के	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+22	एक	_	_	_	DET;SG;INDF	_	_	_	_
+23	दोस्त	_	_	_	ANIM;N;SG;ACC	_	_	_	_
+24	की	_	_	_	ADP;GEN;FEM	_	_	_	_
+25	बेटी	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+26	थी	_	_	_	PST;IND;PFV;SG;V;3;FEM	_	_	_	_
+27	।	_	_	_	_	_	_	_	_
+
+# sent_id = n01111021
+# text = इसका पालन अवीवा इन्वेस्टर्स मल्टी स्ट्रेटजी टार्गेट रिटर्न और आय कोषों के द्वारा किया गया था, जिनमें निवेशकों के क्रमशः £2 बिलियन और £1.4 बिलियन जमा थे।
+# text_en = It was followed by the Aviva Investors Multi Strategy Target Return and Income funds, into which investors put £2bn and £1.4bn respectively.
+1	इसका	_	_	_	PRO;SG	_	_	_	_
+2	पालन	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+3	अवीवा	_	_	_	MASC;PROPN;SG;INAN	_	_	_	_
+4	इन्वेस्टर्स	_	_	_	PL;N;INAN;NOM	_	_	_	_
+5	मल्टी	_	_	_	ADJ	_	_	_	_
+6	स्ट्रेटजी	_	_	_	N;FEM;INAN;SG	_	_	_	_
+7	टार्गेट	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+8	रिटर्न	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+9	और	_	_	_	CONJ	_	_	_	_
+10	आय	_	_	_	N;FEM;INAN;SG	_	_	_	_
+11	कोषों	_	_	_	PL;N;INAN;ACC;MASC	_	_	_	_
+12	के	_	_	_	ADP	_	_	_	_
+13	द्वारा	_	_	_	ADP	_	_	_	_
+14	किया	_	_	_	V;MASC;SG;3	_	_	_	_
+15	गया	_	_	_	IND;PFV;V;3;SG;MASC	_	_	_	_
+16	था	_	_	_	PST;V;3;SG;MASC	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	जिनमें	_	_	_	PSSP;PL;PRO;ACC	_	_	_	_
+19	निवेशकों	_	_	_	ANIM;N;PL;ACC	_	_	_	_
+20	के	_	_	_	MASC;ADP;GEN;PL	_	_	_	_
+21	क्रमशः	_	_	_	ADV	_	_	_	_
+22	£	_	_	_	_	_	_	_	_
+23	2	_	_	_	NUM	_	_	_	_
+24	बिलियन	_	_	_	NUM	_	_	_	_
+25	और	_	_	_	CONJ	_	_	_	_
+26	£	_	_	_	_	_	_	_	_
+27	1.4	_	_	_	NUM	_	_	_	_
+28	बिलियन	_	_	_	NUM	_	_	_	_
+29	जमा	_	_	_	ADJ	_	_	_	_
+30	थे	_	_	_	PST;IND;PFV;3;SG;V;MASC	_	_	_	_
+31	।	_	_	_	_	_	_	_	_
+
+# sent_id = w01022092
+# text = फ्योर्ड्स की तरह, मीठे पानी के झील अक्सर गहरे होते हैं।
+# text_en = Like fjords, freshwater lakes are often deep.
+1	फ्योर्ड्स	_	_	_	PROPN;SG;INAN;ACC;MASC	_	_	_	_
+2	की	_	_	_	ADP	_	_	_	_
+3	तरह	_	_	_	ADP	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	मीठे	_	_	_	MASC;ACC;SG;ADJ	_	_	_	_
+6	पानी	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+7	के	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+8	झील	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+9	अक्सर	_	_	_	ADV	_	_	_	_
+10	गहरे	_	_	_	MASC;ACC;SG;ADJ	_	_	_	_
+11	होते	_	_	_	IND;V;3;SG;IPFV;MASC	_	_	_	_
+12	हैं	_	_	_	V;3;PRS;SG;MASC	_	_	_	_
+13	।	_	_	_	_	_	_	_	_
+
+# newdoc id = w01124
+# sent_id = w01124011
+# text = बिलबोर्ड 200 में इसकी प्रगति 96 नंबर पर रुक जाने के बाद , थ़ॉट या न्यू ब्रिटेन में 31 नंबर पर चढ़ गया, लेकिन एल्बम ब्रिटेन में केवल दो सप्ताह तक चार्ट पर रहा।
+# text_en = After its progress had stalled in the Billboard 200 at No. 96, Thought 'Ya Knew climbed to No. 31 in the UK, but the album charted for only two weeks in the UK.
+1	बिलबोर्ड	_	_	_	MASC;PROPN;SG;INAN	_	_	_	_
+2	200	_	_	_	NUM	_	_	_	_
+3	में	_	_	_	ADP;ESS	_	_	_	_
+4	इसकी	_	_	_	SG;INAN;PRO;NOM;3;FEM	_	_	_	_
+5	प्रगति	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+6	96	_	_	_	NUM	_	_	_	_
+7	नंबर	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+8	पर	_	_	_	ADP;ACC	_	_	_	_
+9	रुक	_	_	_	V	_	_	_	_
+10	जाने	_	_	_	V;MASC;SG;3	_	_	_	_
+11	के	_	_	_	ADP	_	_	_	_
+12	बाद	_	_	_	ADP	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	थ़ॉट	_	_	_	PROPN;SG;INAN;ACC;MASC	_	_	_	_
+15	या	_	_	_	CONJ	_	_	_	_
+16	न्यू	_	_	_	ADJ	_	_	_	_
+17	ब्रिटेन	_	_	_	PROPN;SG;INAN;ACC;MASC	_	_	_	_
+18	में	_	_	_	ADP;ESS	_	_	_	_
+19	31	_	_	_	NUM	_	_	_	_
+20	नंबर	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+21	पर	_	_	_	ADP;ACC	_	_	_	_
+22	चढ़	_	_	_	V	_	_	_	_
+23	गया	_	_	_	PST;IND;PFV;V;3;SG;MASC	_	_	_	_
+24	,	_	_	_	_	_	_	_	_
+25	लेकिन	_	_	_	CONJ	_	_	_	_
+26	एल्बम	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+27	ब्रिटेन	_	_	_	PROPN;SG;INAN;ACC;MASC	_	_	_	_
+28	में	_	_	_	ADP;ESS	_	_	_	_
+29	केवल	_	_	_	DET	_	_	_	_
+30	दो	_	_	_	NUM	_	_	_	_
+31	सप्ताह	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+32	तक	_	_	_	ADP	_	_	_	_
+33	चार्ट	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+34	पर	_	_	_	ADP;ESS	_	_	_	_
+35	रहा	_	_	_	PST;IND;PFV;3;SG;V;MASC	_	_	_	_
+36	।	_	_	_	_	_	_	_	_
+
+# sent_id = n01129010
+# text = यह सबसे ज्यादा अस्तित्व संबंधी देश की सुरक्षा का मामला है।
+# text_en = This is a homeland security issue of the most existential kind.
+1	यह	_	_	_	PRO;SG	_	_	_	_
+2	सबसे	_	_	_	ADJ	_	_	_	_
+3	ज्यादा	_	_	_	DET	_	_	_	_
+4	अस्तित्व	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+5	संबंधी	_	_	_	ADP	_	_	_	_
+6	देश	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+7	की	_	_	_	ADP;GEN;FEM	_	_	_	_
+8	सुरक्षा	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+9	का	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+10	मामला	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+11	है	_	_	_	IND;3;PRS;SG;V;IPFV;MASC	_	_	_	_
+12	।	_	_	_	_	_	_	_	_
+
+# sent_id = n01053041
+# text = लीव ने कहा कि उसकी आवाज सचमुच दुनिया भर में फैल गयी।
+# text_en = "Her voice literally went around the world," Leive said.
+1	लीव	_	_	_	ANIM;PROPN;SG;ACC;MASC	_	_	_	_
+2	ने	_	_	_	ADP;ERG	_	_	_	_
+3	कहा	_	_	_	PST;IND;PFV;3;SG;V;MASC	_	_	_	_
+4	कि	_	_	_	CONJ	_	_	_	_
+5	उसकी	_	_	_	ANIM;SG;PRO;NOM;3;FEM	_	_	_	_
+6	आवाज	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+7	सचमुच	_	_	_	ADV	_	_	_	_
+8	दुनिया	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+9	भर	_	_	_	PART	_	_	_	_
+10	में	_	_	_	ADP;ESS	_	_	_	_
+11	फैल	_	_	_	V	_	_	_	_
+12	गयी	_	_	_	IND;PFV;V;SG;3;FEM	_	_	_	_
+13	।	_	_	_	_	_	_	_	_
+
+# sent_id = w04001037
+# text = इसके अलावा, गर्मी के दिनों में द्वीप पर तूफान आने की संभावना रहती है।
+# text_en = Furthermore, the occurrence of hurricanes on the island is possible during the summer.
+1	इसके	_	_	_	PRO;SG	_	_	_	_
+2	अलावा	_	_	_	ADP	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	गर्मी	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+5	के	_	_	_	MASC;ADP;GEN;PL	_	_	_	_
+6	दिनों	_	_	_	PL;N;INAN;ACC;MASC	_	_	_	_
+7	में	_	_	_	ADP;ESS	_	_	_	_
+8	द्वीप	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+9	पर	_	_	_	ADP;ESS	_	_	_	_
+10	तूफान	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+11	आने	_	_	_	V;NFIN	_	_	_	_
+12	की	_	_	_	ADP;GEN;FEM	_	_	_	_
+13	संभावना	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+14	रहती	_	_	_	IND;SG;V;IPFV;3;FEM	_	_	_	_
+15	है	_	_	_	V;PRS;SG;3;FEM	_	_	_	_
+16	।	_	_	_	_	_	_	_	_
+
+# sent_id = n01084023
+# text = इस बीच, बैंक ऑफ स्कॉटलैंड के ग्राहकों ने जब अपने खाते में मुफ्त सुविधा का विकल्प जोड़ते हैं तो उन्हें £3,000-£5,000 की देय राशियों पर 3% की आय होती है।
+# text_en = Meanwhile, Bank of Scotland customers earn 3% on balances of £3,000-£5,000 when they add the free Vantage option to their account.
+1	इस	_	_	_	DET;SG;DEF	_	_	_	_
+2	बीच	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	बैंक	_	_	_	MASC;N;SG;INAN	_	_	_	_
+5	ऑफ	_	_	_	ADP;GEN	_	_	_	_
+6	स्कॉटलैंड	_	_	_	PROPN;SG;INAN;ACC;MASC	_	_	_	_
+7	के	_	_	_	MASC;ADP;GEN;PL	_	_	_	_
+8	ग्राहकों	_	_	_	ANIM;N;PL;ACC	_	_	_	_
+9	ने	_	_	_	ADP;ERG	_	_	_	_
+10	जब	_	_	_	CONJ	_	_	_	_
+11	अपने	_	_	_	PRO;MASC;SG;ACC	_	_	_	_
+12	खाते	_	_	_	N;SG;INAN;ACC;MASC	_	_	_	_
+13	में	_	_	_	ADP;ESS	_	_	_	_
+14	मुफ्त	_	_	_	ADJ	_	_	_	_
+15	सुविधा	_	_	_	N;SG;INAN;ACC;FEM	_	_	_	_
+16	का	_	_	_	MASC;ADP;GEN;SG	_	_	_	_
+17	विकल्प	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+18	जोड़ते	_	_	_	IND;PL;V;IPFV;3	_	_	_	_
+19	हैं	_	_	_	V;3;PL;PRS	_	_	_	_
+20	तो	_	_	_	CONJ	_	_	_	_
+21	उन्हें	_	_	_	ANIM;PL;FORM;PRO;ACC;3	_	_	_	_
+22	£	_	_	_	_	_	_	_	_
+23	3,000	_	_	_	NUM	_	_	_	_
+24	-	_	_	_	_	_	_	_	_
+25	£	_	_	_	_	_	_	_	_
+26	5,000	_	_	_	NUM	_	_	_	_
+27	की	_	_	_	ADP;GEN;FEM	_	_	_	_
+28	देय	_	_	_	ADJ	_	_	_	_
+29	राशियों	_	_	_	PL;N;INAN;ACC;FEM	_	_	_	_
+30	पर	_	_	_	ADP;ACC	_	_	_	_
+31	3	_	_	_	NUM	_	_	_	_
+32	%	_	_	_	_	_	_	_	_
+33	की	_	_	_	ADP;GEN;FEM	_	_	_	_
+34	आय	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+35	होती	_	_	_	IND;SG;V;IPFV;3;FEM	_	_	_	_
+36	है	_	_	_	V;PRS;SG;3;FEM	_	_	_	_
+37	।	_	_	_	_	_	_	_	_
+
+# newdoc id = n02006
+# sent_id = n02006006
+# text = तेल, सोना या खाद्य उत्पाद, जैसेकि गेहूं, प्राकृतिक संसाधन हैं, जिनमें निवेशक दुनिया भर में अरबों की धनराशि निवेश करते हैं।
+# text_en = Oil, gold or food products, such as wheat, are natural resources, in which investors invest billions worldwide.
+1	तेल	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	सोना	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+4	या	_	_	_	CONJ	_	_	_	_
+5	खाद्य	_	_	_	ADJ	_	_	_	_
+6	उत्पाद	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	जैसेकि	_	_	_	ADP	_	_	_	_
+9	गेहूं	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	प्राकृतिक	_	_	_	ADJ	_	_	_	_
+12	संसाधन	_	_	_	N;SG;INAN;NOM;MASC	_	_	_	_
+13	हैं	_	_	_	IND;PL;3;PRS;V;IPFV;MASC	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	जिनमें	_	_	_	PSSP;PL;PRO;ACC	_	_	_	_
+16	निवेशक	_	_	_	ANIM;N;SG;NOM	_	_	_	_
+17	दुनिया	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+18	भर	_	_	_	PART	_	_	_	_
+19	में	_	_	_	ADP;ESS	_	_	_	_
+20	अरबों	_	_	_	PL;N;INAN;ACC;MASC	_	_	_	_
+21	की	_	_	_	ADP;GEN;FEM	_	_	_	_
+22	धनराशि	_	_	_	N;SG;INAN;NOM;FEM	_	_	_	_
+23	निवेश	_	_	_	MASC;N;SG	_	_	_	_
+24	करते	_	_	_	IND;PL;V;IPFV;3	_	_	_	_
+25	हैं	_	_	_	V;3;PL;PRS	_	_	_	_
+26	।	_	_	_	_	_	_	_	_
+

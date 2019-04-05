@@ -1,0 +1,191 @@
+# sent_id = SSLC02_332:117:122
+# text = POJKE GNUGGA-HÄNDER@ca ROLIG GNUGGA-HÄNDER@ca VARELSE(N)+FÖRFLYTTA@p GÅ-IN(N)
+1	POJKE	_	_	_	N	_	_	_	_
+2	GNUGGA-HÄNDER@ca	_	_	_	V	_	_	_	_
+3	ROLIG	_	_	_	ADJ	_	_	_	_
+4	GNUGGA-HÄNDER@ca	_	_	_	V	_	_	_	_
+5	VARELSE(N)+FÖRFLYTTA@p	_	_	_	V	_	_	_	_
+6	GÅ-IN(N)	_	_	_	V	_	_	_	_
+
+# sent_id = SSLC02_331:230:240
+# text = HUND VARELSE(VVb)+FÖRFLYTTA@p TILL POJKE LITEN-PERSON@kl SVANS-VIFTA GLAD PEK OK@b PEK SVANS-VIFTA
+1	HUND	_	_	_	N	_	_	_	_
+2	VARELSE(VVb)+FÖRFLYTTA@p	_	_	_	V	_	_	_	_
+3	TILL	_	_	_	ADP	_	_	_	_
+4	POJKE	_	_	_	N	_	_	_	_
+5	LITEN-PERSON@kl	_	_	_	N	_	_	_	_
+6	SVANS-VIFTA	_	_	_	V	_	_	_	_
+7	GLAD	_	_	_	ADJ	_	_	_	_
+8	PEK	_	_	_	PRO	_	_	_	_
+9	OK@b	_	_	_	INTJ	_	_	_	_
+10	PEK	_	_	_	PRO	_	_	_	_
+11	SVANS-VIFTA	_	_	_	V	_	_	_	_
+
+# sent_id = SSLC02_409:123:128
+# text = FÖRSÖKA ROPA@ca ENTITET(A)+FÖRFLYTTA@p>näsa AVGRÄNS MULLVAD@b LÅTA-VARA
+1	FÖRSÖKA	_	_	_	V	_	_	_	_
+2	ROPA@ca	_	_	_	V	_	_	_	_
+3	ENTITET(A)+FÖRFLYTTA@p>näsa	_	_	_	V	_	_	_	_
+4	AVGRÄNS	_	_	_	_	_	_	_	_
+5	MULLVAD@b	_	_	_	N	_	_	_	_
+6	LÅTA-VARA	_	_	_	_	_	_	_	_
+
+# sent_id = SSLC01_391:111:114
+# text = PRO1 TECKNA.FLYT SA*PRO1 PEK
+1	PRO1	_	_	_	PRO	_	_	_	_
+2	TECKNA.FLYT	_	_	_	V	_	_	_	_
+3	SA*PRO1	_	_	_	V	_	_	_	_
+4	PEK	_	_	_	PRO	_	_	_	_
+
+# sent_id = SSLC02_332:102:109
+# text = glosa@& PÅKALLA-UPPMÄRKSAMHET@g MAMMA VILL*HA MÖSSA(G) NÅGOT HATT NÅGON
+1	glosa@&	_	_	_	_	_	_	_	_
+2	PÅKALLA-UPPMÄRKSAMHET@g	_	_	_	_	_	_	_	_
+3	MAMMA	_	_	_	N	_	_	_	_
+4	VILL*HA	_	_	_	V	_	_	_	_
+5	MÖSSA(G)	_	_	_	N	_	_	_	_
+6	NÅGOT	_	_	_	PRO	_	_	_	_
+7	HATT	_	_	_	N	_	_	_	_
+8	NÅGON	_	_	_	PRO	_	_	_	_
+
+# sent_id = SSLC01_104:102:107
+# text = PRO1 SLUTA(da) GLOSA:(AVGÅ)@z LÄMNA NY@b LEDARE
+1	PRO1	_	_	_	PRO	_	_	_	_
+2	SLUTA(da)	_	_	_	V	_	_	_	_
+3	GLOSA:(AVGÅ)@z	_	_	_	_	_	_	_	_
+4	LÄMNA	_	_	_	V	_	_	_	_
+5	NY@b	_	_	_	ADJ	_	_	_	_
+6	LEDARE	_	_	_	N	_	_	_	_
+
+# sent_id = SSLC01_320:11:20
+# text = PRO1 TECKNA ANN-CHARLOTTE-LINDBLOM@en ORSAK LOCKIG HÅR PRO1 VÄXA-UPP LOCKIG PRO1
+1	PRO1	_	_	_	PRO	_	_	_	_
+2	TECKNA	_	_	_	V	_	_	_	_
+3	ANN-CHARLOTTE-LINDBLOM@en	_	_	_	N	_	_	_	_
+4	ORSAK	_	_	_	CONJ	_	_	_	_
+5	LOCKIG	_	_	_	ADJ	_	_	_	_
+6	HÅR	_	_	_	N	_	_	_	_
+7	PRO1	_	_	_	PRO	_	_	_	_
+8	VÄXA-UPP	_	_	_	N	_	_	_	_
+9	LOCKIG	_	_	_	ADJ	_	_	_	_
+10	PRO1	_	_	_	PRO	_	_	_	_
+
+# sent_id = SSLC02_332:264:270
+# text = GÅ-IN(N) HUS PRO1 UTE FÖLJAS-ÅT TITTA-PÅ KRAMA
+1	GÅ-IN(N)	_	_	_	V	_	_	_	_
+2	HUS	_	_	_	N	_	_	_	_
+3	PRO1	_	_	_	PRO	_	_	_	_
+4	UTE	_	_	_	ADV	_	_	_	_
+5	FÖLJAS-ÅT	_	_	_	V	_	_	_	_
+6	TITTA-PÅ	_	_	_	V	_	_	_	_
+7	KRAMA	_	_	_	V	_	_	_	_
+
+# sent_id = SSLC02_332:158:167
+# text = LIGGA(G) LIGGA-SÖMNLÖS LÅTA-VARA KLÄ-PÅ VARELSE(N)+FÖRFLYTTA@p ZZZ@z TITTA-PÅ TOM FORM(J)+UTSTRÄCKNING@p TITTA-PÅ
+1	LIGGA(G)	_	_	_	V	_	_	_	_
+2	LIGGA-SÖMNLÖS	_	_	_	V	_	_	_	_
+3	LÅTA-VARA	_	_	_	_	_	_	_	_
+4	KLÄ-PÅ	_	_	_	V	_	_	_	_
+5	VARELSE(N)+FÖRFLYTTA@p	_	_	_	V	_	_	_	_
+6	ZZZ@z	_	_	_	_	_	_	_	_
+7	TITTA-PÅ	_	_	_	V	_	_	_	_
+8	TOM	_	_	_	ADJ	_	_	_	_
+9	FORM(J)+UTSTRÄCKNING@p	_	_	_	V	_	_	_	_
+10	TITTA-PÅ	_	_	_	V	_	_	_	_
+
+# sent_id = SSLC01_320:101:111
+# text = PRO1 TA PEK JOBB TID-FRAMÅT BLI(L) FAST I@b^DAG TID-FRAMÅT PRO1 STANNA-KVAR
+1	PRO1	_	_	_	PRO	_	_	_	_
+2	TA	_	_	_	V	_	_	_	_
+3	PEK	_	_	_	DET	_	_	_	_
+4	JOBB	_	_	_	N	_	_	_	_
+5	TID-FRAMÅT	_	_	_	ADV	_	_	_	_
+6	BLI(L)	_	_	_	V	_	_	_	_
+7	FAST	_	_	_	ADV	_	_	_	_
+8	I@b^DAG	_	_	_	ADV	_	_	_	_
+9	TID-FRAMÅT	_	_	_	ADV	_	_	_	_
+10	PRO1	_	_	_	PRO	_	_	_	_
+11	STANNA-KVAR	_	_	_	V	_	_	_	_
+
+# sent_id = SSLC01_320:129:133
+# text = PRO1 PERF MED.VARA OS@b VM@b
+1	PRO1	_	_	_	PRO	_	_	_	_
+2	PERF	_	_	_	V	_	_	_	_
+3	MED.VARA	_	_	_	_	_	_	_	_
+4	OS@b	_	_	_	N	_	_	_	_
+5	VM@b	_	_	_	N	_	_	_	_
+
+# sent_id = SSLC01_391:102:110
+# text = PEK PRO1 TECKNA.FLYT PRO1 TECKNA.FLYT PEK PEK SÅDÄR PEK
+1	PEK	_	_	_	PRO	_	_	_	_
+2	PRO1	_	_	_	PRO	_	_	_	_
+3	TECKNA.FLYT	_	_	_	V	_	_	_	_
+4	PRO1	_	_	_	PRO	_	_	_	_
+5	TECKNA.FLYT	_	_	_	V	_	_	_	_
+6	PEK	_	_	_	PRO	_	_	_	_
+7	PEK	_	_	_	PRO	_	_	_	_
+8	SÅDÄR	_	_	_	ADV	_	_	_	_
+9	PEK	_	_	_	PRO	_	_	_	_
+
+# sent_id = SSLC02_409:227:233
+# text = PÅKALLA-UPPMÄRKSAMHET@g TYST HÖRA NÅGON PEK HYSSJA@ca GEST(J)@ca
+1	PÅKALLA-UPPMÄRKSAMHET@g	_	_	_	_	_	_	_	_
+2	TYST	_	_	_	ADJ	_	_	_	_
+3	HÖRA	_	_	_	V	_	_	_	_
+4	NÅGON	_	_	_	PRO	_	_	_	_
+5	PEK	_	_	_	DET	_	_	_	_
+6	HYSSJA@ca	_	_	_	V	_	_	_	_
+7	GEST(J)@ca	_	_	_	V	_	_	_	_
+
+# sent_id = SSLC01_320:149:153
+# text = POSS1 EGEN SPRÅK VETA-INTE PRO1
+1	POSS1	_	_	_	PRO	_	_	_	_
+2	EGEN	_	_	_	ADJ	_	_	_	_
+3	SPRÅK	_	_	_	N	_	_	_	_
+4	VETA-INTE	_	_	_	V	_	_	_	_
+5	PRO1	_	_	_	PRO	_	_	_	_
+
+# sent_id = SSLC02_409:129:129
+# text = VARELSE(Vb)+FÖRFLYTTA@p
+1	VARELSE(Vb)+FÖRFLYTTA@p	_	_	_	V	_	_	_	_
+
+# sent_id = SSLC01_391:176:178
+# text = POSS1 DRÖM PRO1
+1	POSS1	_	_	_	PRO	_	_	_	_
+2	DRÖM	_	_	_	N	_	_	_	_
+3	PRO1	_	_	_	PRO	_	_	_	_
+
+# sent_id = SSLC02_332:94:101
+# text = HAND(Lvs)+HANTERA@p>mun KOL@b PRO1 HAND(Yb)+HANTERA+HAND(Yb)@p HAND(YYb)+HANTERA@p HAND(Yb)@p@hd HAND(A)+HANTERA@p>mun HAND(A)+HANTERA@p.MULTI>bröst
+1	HAND(Lvs)+HANTERA@p>mun	_	_	_	V	_	_	_	_
+2	KOL@b	_	_	_	N	_	_	_	_
+3	PRO1	_	_	_	PRO	_	_	_	_
+4	HAND(Yb)+HANTERA+HAND(Yb)@p	_	_	_	V	_	_	_	_
+5	HAND(YYb)+HANTERA@p	_	_	_	V	_	_	_	_
+6	HAND(Yb)@p@hd	_	_	_	V	_	_	_	_
+7	HAND(A)+HANTERA@p>mun	_	_	_	V	_	_	_	_
+8	HAND(A)+HANTERA@p.MULTI>bröst	_	_	_	V	_	_	_	_
+
+# sent_id = SSLC01_320:134:136
+# text = PRO1 JA@b VARFÖR*INTE
+1	PRO1	_	_	_	PRO	_	_	_	_
+2	JA@b	_	_	_	INTJ	_	_	_	_
+3	VARFÖR*INTE	_	_	_	V	_	_	_	_
+
+# sent_id = SSLC01_320:228:229
+# text = VEM PEK>person
+1	VEM	_	_	_	PRO	_	_	_	_
+2	PEK>person	_	_	_	PRO	_	_	_	_
+
+# sent_id = SSLC01_320:30:38
+# text = PRO1 FÖDD HÖRANDE@rd PRO1 VÄXA-UPP TRE HALV ÅR@b DÖV(Ao)
+1	PRO1	_	_	_	PRO	_	_	_	_
+2	FÖDD	_	_	_	V	_	_	_	_
+3	HÖRANDE@rd	_	_	_	N	_	_	_	_
+4	PRO1	_	_	_	PRO	_	_	_	_
+5	VÄXA-UPP	_	_	_	N	_	_	_	_
+6	TRE	_	_	_	NUM	_	_	_	_
+7	HALV	_	_	_	ADJ	_	_	_	_
+8	ÅR@b	_	_	_	N	_	_	_	_
+9	DÖV(Ao)	_	_	_	ADJ	_	_	_	_
+
