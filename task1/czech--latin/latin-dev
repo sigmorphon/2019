@@ -154,7 +154,7 @@ inreligiosus	inreligiōsā	ADJ;ABL;FEM;SG
 praegrandis	praegrandia	ADJ;VOC;NEUT;PL
 toficius	tōficiī	ADJ;GEN;MASC;SG
 irremediabilis	irremediābilis	ADJ;NOM;MASC/FEM;SG
-adglomero	adglomerābāminī	V;IND:PASS;PST;2;PL;IPFV
+adglomero	adglomerābāminī	V;IND;PASS;PST;2;PL;IPFV
 somniger	somnigerum	ADJ;NOM;NEUT;SG
 antecurro	antecucurrerītis	V;SBJV;PST;2;PL;PFV
 perstrepo	perstreperētur	V;SBJV;PASS;PST;3;SG;IPFV
@@ -593,7 +593,7 @@ quassabilis	quassābilis	ADJ;GEN;MASC/FEM;SG
 grandevus	grandevī	ADJ;NOM;MASC;PL
 musivum	mūsīvōrum	N;GEN;PL
 expilo	expīlāverim	V;SBJV;PST;1;SG;PFV
-allatro	allātrābāminī	V;IND:PASS;PST;2;PL;IPFV
+allatro	allātrābāminī	V;IND;PASS;PST;2;PL;IPFV
 doto	dōtāveritis	V;IND;FUT;2;PL;PRF
 perpurgo	perpurgāte	V;IMP;PRS;3;PL
 aedilicius	aedīlīcie	ADJ;VOC;MASC;SG
@@ -680,7 +680,7 @@ aspuo	aspueritis	V;IND;FUT;2;PL;PRF
 supervacuus	supervacuae	ADJ;VOC;FEM;PL
 sobrietas	sōbrietās	N;VOC;SG
 mutilo	mutilārēris	V;SBJV;PST;2;SG;IPFV
-renuo	renuēbāminī	V;IND:PASS;PST;2;PL;IPFV
+renuo	renuēbāminī	V;IND;PASS;PST;2;PL;IPFV
 ischuria	ischūriā	N;ABL;SG
 bacrio	bacriōne	N;ABL;SG
 prudentissimus	prūdēntissima	ADJ;NOM;NEUT;PL
@@ -695,7 +695,7 @@ adpeto	adpetere	V;NFIN
 annuntio	annūntiem	V;SBJV;PRS;1;SG
 falsiloquus	falsiloquī	ADJ;NOM;MASC;PL
 abrotonum	abrotonōrum	N;GEN;PL
-nescio	nesciāmur	V;SBJV;PASS:PRS;1;PL
+nescio	nesciāmur	V;SBJV;PASS;PRS;1;PL
 sabbatum	sabbata	N;NOM;PL
 excerebro	excerēbret	V;SBJV;PRS;3;SG
 pinsatio	pinsātiōnī	N;DAT;SG
@@ -725,7 +725,7 @@ fornax	fornācum	N;GEN;PL
 terribilior	terribiliōris	ADJ;GEN;MASC/FEM;SG
 exporto	exportent	V;SBJV;PRS;3;PL
 nevadensis	nevadensibus	ADJ;DAT;NEUT;SG
-conpleo	conplēbāminī	V;IND:PASS;PST;2;PL;IPFV
+conpleo	conplēbāminī	V;IND;PASS;PST;2;PL;IPFV
 diiunctior	diiūnctior	ADJ;VOC;MASC/FEM;SG
 adsimilo	adsimilābat	V;IND;PST;3;SG;IPFV
 paenitentia	paenitentiārum	N;GEN;PL
@@ -971,7 +971,7 @@ procurro	prōcurritor	V;IMP;PASS;FUT;3;SG
 strenuus	strēnuō	ADJ;DAT;FEM;SG
 exul	exulem	N;ACC;SG
 hybridus	hybrida	ADJ;NOM;NEUT;PL
-coarguo	coarguāmur	V;SBJV;PASS:PRS;1;PL
+coarguo	coarguāmur	V;SBJV;PASS;PRS;1;PL
 praesaepio	praesaepiō	V;IND;PRS;1;SG
 adcumbo	adcubuerat	V;IND;PST;3;SG;PRF
 pastino	pastināverint	V;SBJV;PST;3;PL;PFV

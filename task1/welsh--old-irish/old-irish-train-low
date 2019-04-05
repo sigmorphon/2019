@@ -6,7 +6,7 @@ cluichigidir	cluichigedar	V;FIN;IND;PRS;CONJ;3;SG
 leth	lethaib	N;DAT;PL;LGSPEC1
 dogní	digni	V;FIN;IND;PST;PFV;3;SG;LGSPEC2
 ibid	ib	V;FIN;IMP;2;SG
-adgládathar	adroglastar	V;FIN;IND;PST;PRF;3;SG:LGSPEC1
+adgládathar	adroglastar	V;FIN;IND;PST;PRF;3;SG;LGSPEC1
 accuis	acson	N;GEN;SG;LGSPEC1
 gníid	génset	V;FIN;IND;PST;PFV;CONJ;3;PL
 daimid	damtar	V;FIN;SBJV;PRS;CONJ;PASS;PL
@@ -78,7 +78,7 @@ molaidir	molastar	V;FIN;IND;PST;PFV;CONJ;3;SG
 rofinnadar	rofessaid	V;FIN;IND;FUT;2;PL;LGSPEC1
 dobeir	tabur	V;FIN;IND;PRS;1;SG;LGSPEC2
 beirid	beirmis	V;FIN;IND;PST;IPFV;1;PL
-doicc	doránaic	V;FIN;IND;PST;PRF;3;SG:LGSPEC1
+doicc	doránaic	V;FIN;IND;PST;PRF;3;SG;LGSPEC1
 beirid	bertar	V;FIN;SBJV;PASS;PRS;CONJ;PL
 moídid	moídim	V;FIN;IND;PRS;CONJ;1;SG
 accuis	accuisL	N;NOM;SG;LGSPEC1
@@ -90,7 +90,7 @@ is	batar	V;FIN;IND;PST;3;PL;REL
 marbaid	marbais	V;FIN;IND;PST;PFV;ABS;3;SG
 foloing	folil	V;FIN;IND;FUT;3;SG;LGSPEC1
 daimid	dam	V;FIN;IMP;2;SG
-asbeir	asrubbart	V;FIN;IND;PST;PRF;3;SG:LGSPEC1
+asbeir	asrubbart	V;FIN;IND;PST;PRF;3;SG;LGSPEC1
 beirid	biri	V;FIN;IND;PRS;ABS;2;SG
 adgládathar	adgláitis	V;FIN;IND;PST;IPFV;3;PL;LGSPEC1
 daimid	daimtis	V;FIN;IND;PST;IPFV;3;PL

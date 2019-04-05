@@ -43,7 +43,7 @@ puhuma	olevat puhutud	V;PASS;PRS;PRF;POS;QUOT
 hüppama	olen hüpanud	V;ACT;PRS;PRF;POS;IND;1;SG
 häirima	olevat häiritud	V;PASS;PRS;PRF;POS;QUOT
 ootama	ärgu olgu oodatud	V;PASS;PRS;PRF;NEG;IMP
-nägema	oleksite näinud	V;ACT;PRS;PRF:POS;COND;2;PL
+nägema	oleksite näinud	V;ACT;PRS;PRF;POS;COND;2;PL
 keeleluu	keeleluude	N;GEN;PL
 raamat	raamatute	N;GEN;PL
 palataliseerima	oleksin palataliseerinud	V;ACT;PRS;PRF;POS;COND
@@ -138,7 +138,7 @@ arvama	ei ole arvatudp	V;PASS;PRS;PRF;NEG;IND
 majandus	majandustena	N;FRML;PL
 keeleluu	keeleluuks	N;TRANS;SG
 muusik	muusikuga	N;COM;SG
-lükkama	oleksite lükanud	V;ACT;PRS;PRF:POS;COND;2;PL
+lükkama	oleksite lükanud	V;ACT;PRS;PRF;POS;COND;2;PL
 näitleja	näitlejani	N;TERM;SG
 ükssarvik	ükssarviku	N;ACC;SG
 saladus	saladusele	N;AT+ALL;SG
@@ -391,8 +391,8 @@ kinaver	kinaverdel	N;AT+ESS;PL
 küsimus	küsimuseks	N;TRANS;SG
 muretsema	oleks muretsetud	V;PASS;PRS;PRF;POS;COND
 kohvimasin	kohvimasina	N;ACC;SG
-tooma	oleksite toonud	V;ACT;PRS;PRF:POS;COND;2;PL
-suitsetama	oleksite suitsetanud	V;ACT;PRS;PRF:POS;COND;2;PL
+tooma	oleksite toonud	V;ACT;PRS;PRF;POS;COND;2;PL
+suitsetama	oleksite suitsetanud	V;ACT;PRS;PRF;POS;COND;2;PL
 murdma	ei olnud murdnudp	V;ACT;PST;PRF;NEG;IND
 nägema	nägi	V;ACT;PST;POS;IND;3;SG
 jõgi	jõgedeks	N;TRANS;PL
@@ -532,7 +532,7 @@ vaba	vabal	N;AT+ESS;SG
 seletama	ei ole seletanudp	V;ACT;PST;NEG;IND
 aaker	aakrina	N;FRML;SG
 kajastama	ei kajastavat	V;ACT;PRS;NEG;QUOT
-muutma	oleksite muutnud	V;ACT;PRS;PRF:POS;COND;2;PL
+muutma	oleksite muutnud	V;ACT;PRS;PRF;POS;COND;2;PL
 käsitlema	käsitletud	V.PTCP;PASS;PST
 vibutama	ei vibutatavat	V;PASS;PRS;NEG;QUOT
 nobeelium	nobeeliumi	N;GEN;SG
@@ -682,7 +682,7 @@ male	malesid	N;PRT;PL
 kreeklane	kreeklastele	N;AT+ALL;PL
 plutoonium	plutooniumina	N;FRML;SG
 jätma	ei jätetaks	V;PASS;PRS;NEG;COND
-omama	oleksite omanud	V;ACT;PRS;PRF:POS;COND;2;PL
+omama	oleksite omanud	V;ACT;PRS;PRF;POS;COND;2;PL
 keerama	keeraksite	V;ACT;PRS;POS;COND;2;PL
 hukkama	ei ole hukatudp	V;PASS;PRS;PRF;NEG;IND
 sõitma	oleksime sõitnud	V;ACT;PRS;PRF;POS;COND;1;PL
@@ -902,7 +902,7 @@ sadam	sadamatest	N;IN+ABL;PL
 kuurium	kuuriumis	N;IN+ESS;SG
 haarama	oled haaranud	V;ACT;PRS;PRF;POS;IND;2;SG
 pisaraluu	pisaraluule	N;AT+ALL;SG
-aitama	oleksite aidanud	V;ACT;PRS;PRF:POS;COND;2;PL
+aitama	oleksite aidanud	V;ACT;PRS;PRF;POS;COND;2;PL
 preester	preestritest	N;IN+ABL;PL
 jõuluöö	jõuluöödena	N;FRML;PL
 selgitama	ei olnud selgitanudp	V;ACT;PST;PRF;NEG;IND
@@ -948,7 +948,7 @@ hoiduma	on hoidutud	V;PASS;PRS;PRF;POS;IND
 algama	alanud	V.PTCP;ACT;PST
 tätoveerima	ärgu tätoveerigu	V;ACT;PRS;NEG;IMP;3;SG
 otsima	ei olnud otsitudp	V;PASS;PST;PRF;NEG;IND
-naerma	oleksite naernud	V;ACT;PRS;PRF:POS;COND;2;PL
+naerma	oleksite naernud	V;ACT;PRS;PRF;POS;COND;2;PL
 sünoptik	sünoptikuteni	N;TERM;PL
 leidma	olevat leietud	V;PASS;PRS;PRF;POS;QUOT
 ester	estritel	N;AT+ESS;PL
@@ -1242,7 +1242,7 @@ selgitama	selgitagu	V;ACT;PRS;POS;IMP;3;SG
 armeenlane	armeenlastele	N;AT+ALL;PL
 summutama	ärgem summutagem	V;ACT;PRS;NEG;IMP;1;PL
 klaver	klaverina	N;FRML;SG
-jooma	oleksite joonud	V;ACT;PRS;PRF:POS;COND;2;PL
+jooma	oleksite joonud	V;ACT;PRS;PRF;POS;COND;2;PL
 magama	magaksite	V;ACT;PRS;POS;COND;2;PL
 hüppama	hüppaks	V;ACT;PRS;POS;COND;3;SG
 närima	närisime	V;ACT;PST;POS;IND;1;PL
@@ -1459,8 +1459,8 @@ sekretär	sekretäre	N;PRT;PL
 lõikuskuu	lõikuskuud	N;ACC;PL
 uus	uuena	N;FRML;SG
 imetama	ei imetatud	V;PASS;PST;NEG;IND
-teadma	oleksite teadnud	V;ACT;PRS;PRF:POS;COND;2;PL
-lendama	oleksite lennanud	V;ACT;PRS;PRF:POS;COND;2;PL
+teadma	oleksite teadnud	V;ACT;PRS;PRF;POS;COND;2;PL
+lendama	oleksite lennanud	V;ACT;PRS;PRF;POS;COND;2;PL
 algaja	algajatega	N;COM;PL
 õigus	õiguse	N;GEN;SG
 jätma	jätetakse	V;PASS;PRS;POS;IND
@@ -1545,7 +1545,7 @@ võrduma	olete võrdunud	V;ACT;PRS;PRF;POS;IND;2;PL
 hobune	hobusega	N;COM;SG
 männik	männikuni	N;TERM;SG
 fallos	falloses	N;IN+ESS;SG
-häirima	oleksite häirinud	V;ACT;PRS;PRF:POS;COND;2;PL
+häirima	oleksite häirinud	V;ACT;PRS;PRF;POS;COND;2;PL
 sahkluu	sahkluudeks	N;TRANS;PL
 hääletama	ei oleks hääletanudp	V;ACT;PRS;PRF;NEG;COND
 keeleluu	keeleluudele	N;AT+ALL;PL
@@ -2086,7 +2086,7 @@ vihkama	ärgu olgu vihatud	V;PASS;PRS;PRF;NEG;IMP
 ristkülik	ristküliku	N;ACC;SG
 sõsar	sõsarad	N;NOM;PL
 sõitma	sõidaksite	V;ACT;PRS;POS;COND;2;PL
-põletama	oleksite põletanud	V;ACT;PRS;PRF:POS;COND;2;PL
+põletama	oleksite põletanud	V;ACT;PRS;PRF;POS;COND;2;PL
 öökima	öökisid	V;ACT;PST;POS;IND;2;SG
 kopikas	kopika	N;ACC;SG
 luteetsium	luteetsiumdes	N;IN+ESS;PL
@@ -2319,7 +2319,7 @@ masturbeerima	ei olevat masturbeerinudp	V;ACT;PRS;PRF;NEG;QUOT
 kasvaja	kasvajatele	N;AT+ALL;PL
 kinaver	kinaverilt	N;AT+ABL;SG
 armuma	armuvat	V;ACT;PRS;POS;QUOT
-närima	oleksite närinud	V;ACT;PRS;PRF:POS;COND;2;PL
+närima	oleksite närinud	V;ACT;PRS;PRF;POS;COND;2;PL
 jõuluöö	jõuluöölt	N;AT+ABL;SG
 ujuma	olen ujunud	V;ACT;PRS;PRF;POS;IND;1;SG
 katalüüsneutralisaator	katalüüsneutralisaatorite	N;GEN;PL
@@ -2327,7 +2327,7 @@ surmama	olgu surmatud	V;PASS;PRS;PRF;POS;IMP
 vihik	vihiku	N;GEN;SG
 heitma	heidaks	V;ACT;PRS;POS;COND;3;SG
 pöörama	ei pööravat	V;ACT;PRS;NEG;QUOT
-reisima	oleksite reisinud	V;ACT;PRS;PRF:POS;COND;2;PL
+reisima	oleksite reisinud	V;ACT;PRS;PRF;POS;COND;2;PL
 meeldima	ärgu meelditagu	V;PASS;PRS;NEG;IMP
 höövel	höövlina	N;FRML;SG
 kindel	kindla	N;ACC;SG
@@ -2376,7 +2376,7 @@ vaba	vabast	N;IN+ABL;SG
 kaotama	ei oleks kaotanudp	V;ACT;PRS;PRF;NEG;COND
 vangerdus	vangerdusele	N;AT+ALL;SG
 lätlane	lätlaselt	N;AT+ABL;SG
-imetama	oleksite imetanud	V;ACT;PRS;PRF:POS;COND;2;PL
+imetama	oleksite imetanud	V;ACT;PRS;PRF;POS;COND;2;PL
 harima	olen harinud	V;ACT;PRS;PRF;POS;IND;1;SG
 sõelluu	sõelluuga	N;COM;SG
 palataliseerima	palataliseeriksite	V;ACT;PRS;POS;COND;2;PL
@@ -2568,7 +2568,7 @@ kaevur	kaevuritel	N;AT+ESS;PL
 sibulakuppel	sibulakupliga	N;COM;SG
 näitlejatar	näitlejatariga	N;COM;SG
 rõhukamber	rõhukambritega	N;COM;PL
-magama	oleksite maganud	V;ACT;PRS;PRF:POS;COND;2;PL
+magama	oleksite maganud	V;ACT;PRS;PRF;POS;COND;2;PL
 toitma	ärgu olgu toitnud	V;ACT;PRS;PRF;NEG;IMP;SG
 tahtma	tahaksime	V;ACT;PRS;POS;COND;1;PL
 magustama	oleksime magustanud	V;ACT;PRS;PRF;POS;COND;1;PL
@@ -2701,7 +2701,7 @@ ingellik	ingellikes	N;IN+ESS;PL
 peenar	peenrale	N;AT+ALL;SG
 jalanõu	jalanõudelt	N;AT+ABL;PL
 kaevur	kaevuriga	N;COM;SG
-minema	oleksite läinud	V;ACT;PRS;PRF:POS;COND;2;PL
+minema	oleksite läinud	V;ACT;PRS;PRF;POS;COND;2;PL
 roimar	roimaritel	N;AT+ESS;PL
 muna	munade	N;GEN;PL
 ehitama	ehitataks	V;PASS;PRS;POS;COND
@@ -2802,7 +2802,7 @@ teietama	ärge teietage	V;ACT;PRS;NEG;IMP;2;PL
 inimkaubandus	inimkaubanduste	N;GEN;PL
 angerjas	angerjatel	N;AT+ESS;PL
 rahvastikuteadus	rahvastikuteadusteni	N;TERM;PL
-meeldima	oleksite meeldinud	V;ACT;PRS;PRF:POS;COND;2;PL
+meeldima	oleksite meeldinud	V;ACT;PRS;PRF;POS;COND;2;PL
 vesiveski	vesiveskilt	N;AT+ABL;SG
 harjutama	oli harjutanud	V;ACT;PRS;PRF;POS;COND;3;SG
 murjan	murjani	N;GEN;SG
@@ -2989,7 +2989,7 @@ murjan	murjaniteks	N;TRANS;PL
 närima	närib	V;ACT;PRS;POS;IND;3;SG
 väärjumal	väärjumalal	N;AT+ESS;SG
 tanner	tandriteta	N;PRIV;PL
-asuma	oleksite asunud	V;ACT;PRS;PRF:POS;COND;2;PL
+asuma	oleksite asunud	V;ACT;PRS;PRF;POS;COND;2;PL
 õetütar	õetütardes	N;IN+ESS;PL
 ütrium	ütriumiga	N;COM;SG
 kõndima	on kõndinud	V;ACT;PRS;PRF;POS;IND;3;SG
@@ -3066,7 +3066,7 @@ helistama	helistate	V;ACT;PRS;POS;IND;2;PL
 naasma	naastakse	V;PASS;PRS;POS;IND
 sibulakuppel	sibulakuplitesse	N;IN+ALL;PL
 jääkaru	jääkarud	N;NOM;PL
-soovima	oleksite soovinud	V;ACT;PRS;PRF:POS;COND;2;PL
+soovima	oleksite soovinud	V;ACT;PRS;PRF;POS;COND;2;PL
 poloonium	polooniumil	N;AT+ESS;SG
 petma	ei petvat	V;ACT;PRS;NEG;QUOT
 ollus	olluste	N;GEN;PL
@@ -3119,7 +3119,7 @@ asjatundja	asjatundjaid	N;PRT;PL
 lootma	oli loodetud	V;PASS;PST;PRF;POS;IND
 peenar	peenardeta	N;PRIV;PL
 eitama	eitan	V;ACT;PRS;POS;IND;1;SG
-paluma	oleksite palunud	V;ACT;PRS;PRF:POS;COND;2;PL
+paluma	oleksite palunud	V;ACT;PRS;PRF;POS;COND;2;PL
 sinatama	oleksime sinatanud	V;ACT;PRS;PRF;POS;COND;1;PL
 surema	surge	V;ACT;PRS;POS;IMP;2;PL
 hääletama	olite hääletanud	V;ACT;PRS;PRF;POS;COND;2;PL
@@ -3584,7 +3584,7 @@ puhuma	puhud	V;ACT;PRS;POS;IND;2;SG
 diameeter	diameetri	N;GEN;SG
 ravim	ravimile	N;AT+ALL;SG
 pesa	pesas	N;IN+ESS;SG
-paarituma	oleksite paaritunud	V;ACT;PRS;PRF:POS;COND;2;PL
+paarituma	oleksite paaritunud	V;ACT;PRS;PRF;POS;COND;2;PL
 ratas	rattasse	N;IN+ALL;SG
 kohtama	kohataks	V;PASS;PRS;POS;COND
 aiamaa	aiamaad	N;NOM;PL
@@ -3637,7 +3637,7 @@ tooma	olid toonud	V;ACT;PRS;PRF;POS;COND;2;SG
 tänama	olin tänanud	V;ACT;PRS;PRF;POS;COND;1;SG
 teadma	olgu teadnud	V;ACT;PRS;PRF;POS;IMP;SG
 politsei	politsei	N;GEN;SG
-sünnitama	oleksite sünnitanud	V;ACT;PRS;PRF:POS;COND;2;PL
+sünnitama	oleksite sünnitanud	V;ACT;PRS;PRF;POS;COND;2;PL
 omama	omavad	V;ACT;PRS;POS;IND;3;PL
 otsmikuluu	otsmikuluudelt	N;AT+ABL;PL
 ujuma	ei ujuta	V;PASS;PRS;NEG;IND
@@ -3738,7 +3738,7 @@ käsitlema	oli käsitletud	V;PASS;PST;PRF;POS;IND
 häirima	häirisite	V;ACT;PST;POS;IND;2;PL
 minema	läheksime	V;ACT;PRS;POS;COND;1;PL
 kiitma	kiitke	V;ACT;PRS;POS;IMP;2;PL
-kobistama	oleksite kobistanud	V;ACT;PRS;PRF:POS;COND;2;PL
+kobistama	oleksite kobistanud	V;ACT;PRS;PRF;POS;COND;2;PL
 käima	käidud	V.PTCP;PASS;PST
 põlema	põlesime	V;ACT;PST;POS;IND;1;PL
 rubiidium	rubiidiumdele	N;AT+ALL;PL
@@ -3902,9 +3902,9 @@ naatrium	naatriume	N;PRT;PL
 hispaanlane	hispaanlastel	N;AT+ESS;PL
 aasta	aastast	N;IN+ABL;SG
 hõivama	hõiva	V;ACT;PRS;POS;IMP;2;SG
-tõlkima	oleksite tõlkinud	V;ACT;PRS;PRF:POS;COND;2;PL
+tõlkima	oleksite tõlkinud	V;ACT;PRS;PRF;POS;COND;2;PL
 riietumine	riietumises	N;IN+ESS;SG
-sadama	oleksite sadanud	V;ACT;PRS;PRF:POS;COND;2;PL
+sadama	oleksite sadanud	V;ACT;PRS;PRF;POS;COND;2;PL
 armastama	ei ole armastanudp	V;ACT;PST;NEG;IND
 ajama	ei ajata	V;PASS;PRS;NEG;IND
 faasan	faasanini	N;TERM;SG
@@ -4001,7 +4001,7 @@ oksendama	on oksendatud	V;PASS;PRS;PRF;POS;IND
 maa	maadelmail	N;AT+ESS;PL
 veski	veskidel	N;AT+ESS;PL
 jäätis	jäätised	N;NOM;PL
-tundma	oleksite tundnud	V;ACT;PRS;PRF:POS;COND;2;PL
+tundma	oleksite tundnud	V;ACT;PRS;PRF;POS;COND;2;PL
 suitsetama	ärgu olgu suitsetanud	V;ACT;PRS;PRF;NEG;IMP;PL
 õnnelik	õnnelikke	N;PRT;PL
 pronksmedal	pronksmedalit	N;PRT;SG
@@ -4107,7 +4107,7 @@ seisma	seisaksite	V;ACT;PRS;POS;COND;2;PL
 armeenlane	armeenlasteni	N;TERM;PL
 ununtrium	ununtriumina	N;FRML;SG
 sakslane	sakslastel	N;AT+ESS;PL
-masturbeerima	oleksite masturbeerinud	V;ACT;PRS;PRF:POS;COND;2;PL
+masturbeerima	oleksite masturbeerinud	V;ACT;PRS;PRF;POS;COND;2;PL
 lõbu	lõbudeta	N;PRIV;PL
 heitma	heitsid	V;ACT;PST;POS;IND;3;PL
 oktoober	oktoobritest	N;IN+ABL;PL
@@ -4284,7 +4284,7 @@ sõnaraamat	sõnaraamatud	N;ACC;PL
 pöörama	olgu pööratud	V;PASS;PRS;PRF;POS;IMP
 rõhukamber	rõhukambritena	N;FRML;PL
 kartul	kartuli	N;ACC;SG
-keema	oleksite keenud	V;ACT;PRS;PRF:POS;COND;2;PL
+keema	oleksite keenud	V;ACT;PRS;PRF;POS;COND;2;PL
 vaidlema	vaidleksite	V;ACT;PRS;POS;COND;2;PL
 langev	langevateta	N;PRIV;PL
 lavastama	lavastatav	V.PTCP;PASS;PRS
@@ -4313,7 +4313,7 @@ seisma	seisavad	V;ACT;PRS;POS;IND;3;PL
 jaatama	oled jaatanud	V;ACT;PRS;PRF;POS;IND;2;SG
 nokkima	on nokitud	V;PASS;PRS;PRF;POS;IND
 pesa	pesadesse	N;IN+ALL;PL
-lintšima	oleksite lintšinud	V;ACT;PRS;PRF:POS;COND;2;PL
+lintšima	oleksite lintšinud	V;ACT;PRS;PRF;POS;COND;2;PL
 öökima	ei öökivat	V;ACT;PRS;NEG;QUOT
 siduma	olen sidunud	V;ACT;PRS;PRF;POS;IND;1;SG
 tulema	tuleksid	V;ACT;PRS;POS;COND;3;PL
@@ -4716,7 +4716,7 @@ aiamaa	aiamaadena	N;FRML;PL
 varastama	ei oleks varastatudp	V;PASS;PRS;PRF;NEG;COND
 jääpurikas	jääpurika	N;ACC;SG
 langema	langes	V;ACT;PST;POS;IND;3;SG
-hirmuma	oleksite hirmunud	V;ACT;PRS;PRF:POS;COND;2;PL
+hirmuma	oleksite hirmunud	V;ACT;PRS;PRF;POS;COND;2;PL
 vahvel	vahvliks	N;TRANS;SG
 fermium	fermiumid	N;ACC;PL
 arvuti	arvuti	N;ACC;SG
@@ -4762,7 +4762,7 @@ peldik	peldikutesse	N;IN+ALL;PL
 liibuma	liibuksin	V;ACT;PRS;POS;COND;1;SG
 akvaarium	akvaariumdeks	N;TRANS;PL
 rehekuu	rehekuu	N;ACC;SG
-looma	oleksite loonud	V;ACT;PRS;PRF:POS;COND;2;PL
+looma	oleksite loonud	V;ACT;PRS;PRF;POS;COND;2;PL
 keefir	keefireid	N;PRT;PL
 paluma	oli palutud	V;PASS;PST;PRF;POS;IND
 armuma	olgu armunud	V;ACT;PRS;PRF;POS;IMP;SG
@@ -4928,7 +4928,7 @@ hüppama	ärge hüpake	V;ACT;PRS;NEG;IMP;2;PL
 sõltuvus	sõltuvuseks	N;TRANS;SG
 istuma	istu	V;ACT;PRS;POS;IMP;2;SG
 hakkama	hakkate	V;ACT;PRS;POS;IND;2;PL
-katkema	oleksite katkenud	V;ACT;PRS;PRF:POS;COND;2;PL
+katkema	oleksite katkenud	V;ACT;PRS;PRF;POS;COND;2;PL
 koristama	koristatud	V.PTCP;PASS;PST
 kivi	kivides	N;IN+ESS;PL
 suu	suudekssuiks	N;TRANS;PL
@@ -5409,7 +5409,7 @@ kodanlus	kodanlusi	N;PRT;PL
 sünoptik	sünoptikus	N;IN+ESS;SG
 leiutis	leiutised	N;ACC;PL
 naasma	naaseksid	V;ACT;PRS;POS;COND;2;SG
-kasutama	oleksite kasutanud	V;ACT;PRS;PRF:POS;COND;2;PL
+kasutama	oleksite kasutanud	V;ACT;PRS;PRF;POS;COND;2;PL
 katalüüsneutralisaator	katalüüsneutralisaatorist	N;IN+ABL;SG
 tallium	talliumdes	N;IN+ESS;PL
 seller	sellerini	N;TERM;SG
@@ -5520,7 +5520,7 @@ jugapuu	jugapuu	N;GEN;SG
 ratas	ratastel	N;AT+ESS;PL
 võrduma	võrduma	V;NFIN
 käskima	käsitud	V.PTCP;PASS;PST
-liibuma	oleksite liibunud	V;ACT;PRS;PRF:POS;COND;2;PL
+liibuma	oleksite liibunud	V;ACT;PRS;PRF;POS;COND;2;PL
 harjutus	harjutusest	N;IN+ABL;SG
 oda	odade	N;GEN;PL
 lätlane	lätlasteks	N;TRANS;PL
@@ -5638,7 +5638,7 @@ aju	ajudelt	N;AT+ABL;PL
 murdma	murra	V;ACT;PRS;POS;IMP;2;SG
 faasan	faasanid	N;NOM;PL
 holmium	holmiumdes	N;IN+ESS;PL
-võitma	oleksite võitnud	V;ACT;PRS;PRF:POS;COND;2;PL
+võitma	oleksite võitnud	V;ACT;PRS;PRF;POS;COND;2;PL
 ehtima	ehin	V;ACT;PRS;POS;IND;1;SG
 suudlus	suudluse	N;ACC;SG
 kobisema	olen kobisenud	V;ACT;PRS;PRF;POS;IND;1;SG
@@ -5963,7 +5963,7 @@ hoiduma	ei ole hoidutudp	V;PASS;PRS;PRF;NEG;IND
 skandium	skandiumil	N;AT+ESS;SG
 jääpurikas	jääpurikani	N;TERM;SG
 šotlane	šotlasest	N;IN+ABL;SG
-lõpetama	oleksite lõpetanud	V;ACT;PRS;PRF:POS;COND;2;PL
+lõpetama	oleksite lõpetanud	V;ACT;PRS;PRF;POS;COND;2;PL
 viinakuu	viinakuusse	N;IN+ALL;SG
 elavhõbe	elavhõbedale	N;AT+ALL;SG
 ase	asemeteta	N;PRIV;PL
@@ -6049,7 +6049,7 @@ nutma	ei olnud nutnudp	V;ACT;PST;PRF;NEG;IND
 õppima	õppigu	V;ACT;PRS;POS;IMP;3;SG
 väeti	väetid	N;ACC;PL
 lõvi	lõviks	N;TRANS;SG
-põlema	oleksite põlenud	V;ACT;PRS;PRF:POS;COND;2;PL
+põlema	oleksite põlenud	V;ACT;PRS;PRF;POS;COND;2;PL
 järgnema	järgneme	V;ACT;PRS;POS;IND;1;PL
 kinnitama	kinnitataks	V;PASS;PRS;POS;COND
 palataliseerima	olen palataliseerinud	V;ACT;PRS;PRF;POS;IND;1;SG
@@ -6360,7 +6360,7 @@ mõrsja	mõrsjad	N;ACC;PL
 küsima	ärgu küsigu	V;ACT;PRS;NEG;IMP;3;PL
 lööma	ei löö	V;ACT;PRS;NEG;IND
 oletama	oletab	V;ACT;PRS;POS;IND;3;SG
-kippuma	oleksite kippunud	V;ACT;PRS;PRF:POS;COND;2;PL
+kippuma	oleksite kippunud	V;ACT;PRS;PRF;POS;COND;2;PL
 isadus	isadused	N;ACC;PL
 kasutaja	kasutajasse	N;IN+ALL;SG
 germaanium	germaaniumid	N;ACC;PL
@@ -6398,7 +6398,7 @@ purema	puretaks	V;PASS;PRS;POS;COND
 rüütel	rüütliteta	N;PRIV;PL
 kaevama	kaevad	V;ACT;PRS;POS;IND;2;SG
 kirjutama	kirjutagem	V;ACT;PRS;POS;IMP;1;PL
-vaidlema	oleksite vaielnud	V;ACT;PRS;PRF:POS;COND;2;PL
+vaidlema	oleksite vaielnud	V;ACT;PRS;PRF;POS;COND;2;PL
 kaevama	olete kaevanud	V;ACT;PRS;PRF;POS;IND;2;PL
 sõitma	on sõidetud	V;PASS;PRS;PRF;POS;IND
 laulja	lauljal	N;AT+ESS;SG
@@ -6414,7 +6414,7 @@ lendama	lennaku	V;ACT;PRS;POS;IMP;3;PL
 jäätuma	jäätute	V;ACT;PRS;POS;IND;2;PL
 peenis	peenise	N;GEN;SG
 kanarbikukuu	kanarbikukuusse	N;IN+ALL;SG
-sõitma	oleksite sõitnud	V;ACT;PRS;PRF:POS;COND;2;PL
+sõitma	oleksite sõitnud	V;ACT;PRS;PRF;POS;COND;2;PL
 terbium	terbiumdest	N;IN+ABL;PL
 toimetaja	toimetaja	N;GEN;SG
 aiamaa	aiamaani	N;TERM;SG
@@ -6465,7 +6465,7 @@ reenium	reeniumid	N;NOM;PL
 peenar	peenraks	N;TRANS;SG
 alalõualuu	alalõualuus	N;IN+ESS;SG
 nioobium	nioobiumdega	N;COM;PL
-kõndima	oleksite kõndinud	V;ACT;PRS;PRF:POS;COND;2;PL
+kõndima	oleksite kõndinud	V;ACT;PRS;PRF;POS;COND;2;PL
 kustutama	kustutagu	V;ACT;PRS;POS;IMP;3;SG
 parun	parunit	N;PRT;SG
 raudne	raudsena	N;FRML;SG
@@ -7173,7 +7173,7 @@ arvutama	arvutataks	V;PASS;PRS;POS;COND
 kaotama	kaotasite	V;ACT;PST;POS;IND;2;PL
 puhuma	ei ole puhutudp	V;PASS;PRS;PRF;NEG;IND
 jäätuma	jäätusite	V;ACT;PST;POS;IND;2;PL
-austama	oleksite austanud	V;ACT;PRS;PRF:POS;COND;2;PL
+austama	oleksite austanud	V;ACT;PRS;PRF;POS;COND;2;PL
 purema	ei olnud purenudp	V;ACT;PST;PRF;NEG;IND
 lehtpuu	lehtpuude	N;GEN;PL
 keppima	keppigu	V;ACT;PRS;POS;IMP;3;PL
@@ -7186,7 +7186,7 @@ arvama	olin arvanud	V;ACT;PRS;PRF;POS;COND;1;SG
 masturbeerimine	masturbeerimisest	N;IN+ABL;SG
 kaaries	kaariesteks	N;TRANS;PL
 õhufilter	õhufiltriteni	N;TERM;PL
-jäätama	oleksite jäätanud	V;ACT;PRS;PRF:POS;COND;2;PL
+jäätama	oleksite jäätanud	V;ACT;PRS;PRF;POS;COND;2;PL
 armuma	ei armutavat	V;PASS;PRS;NEG;QUOT
 tänama	tänanud	V.PTCP;ACT;PST
 rikastuma	ei olevat rikastutudp	V;PASS;PRS;PRF;NEG;QUOT
@@ -7251,7 +7251,7 @@ kabel	kabelite	N;GEN;PL
 paluma	palutaks	V;PASS;PRS;POS;COND
 sõudma	olin sõudnud	V;ACT;PRS;PRF;POS;COND;1;SG
 astuma	ärge astuge	V;ACT;PRS;NEG;IMP;2;PL
-erinema	oleksite erinenud	V;ACT;PRS;PRF:POS;COND;2;PL
+erinema	oleksite erinenud	V;ACT;PRS;PRF;POS;COND;2;PL
 toomingas	toomingas	N;NOM;SG
 märkima	märkima	V;NFIN
 alkohol	alkoholi	N;ACC;SG
@@ -7373,7 +7373,7 @@ palataliseerima	palataliseeritud	V.PTCP;PASS;PST
 lugema	ärgu olgu lugenud	V;ACT;PRS;PRF;NEG;IMP;PL
 seksuaalpartner	seksuaalpartneritesse	N;IN+ALL;PL
 märkima	ei olnud märgitudp	V;PASS;PST;PRF;NEG;IND
-olema	oleksite olnud	V;ACT;PRS;PRF:POS;COND;2;PL
+olema	oleksite olnud	V;ACT;PRS;PRF;POS;COND;2;PL
 hööveldama	olevat hööveldatud	V;PASS;PRS;PRF;POS;QUOT
 aabe	aapes	N;IN+ESS;SG
 ratsu	ratsu	N;NOM;SG
@@ -7427,7 +7427,7 @@ kaarik	kaarikusse	N;IN+ALL;SG
 kartul	kartuliteni	N;TERM;PL
 hallitama	ärgu hallitagu	V;ACT;PRS;NEG;IMP;3;PL
 sihitav	sihitavas	N;IN+ESS;SG
-arvutama	oleksite arvutanud	V;ACT;PRS;PRF:POS;COND;2;PL
+arvutama	oleksite arvutanud	V;ACT;PRS;PRF;POS;COND;2;PL
 veenma	ei veendavat	V;PASS;PRS;NEG;QUOT
 heitma	olid heitnud	V;ACT;PRS;PRF;POS;COND;2;SG
 korjama	on korjanud	V;ACT;PRS;PRF;POS;IND;3;PL
@@ -7586,7 +7586,7 @@ teietama	teietaksid	V;ACT;PRS;POS;COND;3;PL
 aken	akent	N;PRT;SG
 ohutu	ohutu	N;GEN;SG
 rula	rula	N;PRT;SG
-viitsima	oleksite viitsinud	V;ACT;PRS;PRF:POS;COND;2;PL
+viitsima	oleksite viitsinud	V;ACT;PRS;PRF;POS;COND;2;PL
 austama	austa	V;ACT;PRS;POS;IMP;2;SG
 surmama	on surmanud	V;ACT;PRS;PRF;POS;IND;3;PL
 püü	püüdes	N;IN+ESS;PL
@@ -7855,7 +7855,7 @@ metsis	metsistes	N;IN+ESS;PL
 elama	elatagu	V;PASS;PRS;POS;IMP
 võimalus	võimalussteni	N;TERM;PL
 ilves	ilvestelt	N;AT+ABL;PL
-elama	oleksite elanud	V;ACT;PRS;PRF:POS;COND;2;PL
+elama	oleksite elanud	V;ACT;PRS;PRF;POS;COND;2;PL
 hallitama	oleksime hallitanud	V;ACT;PRS;PRF;POS;COND;1;PL
 paluma	ärgu palugu	V;ACT;PRS;NEG;IMP;3;SG
 põrgu	põrgutesse	N;IN+ALL;PL
@@ -7972,7 +7972,7 @@ hõberebane	hõberebasteni	N;TERM;PL
 poloonium	polooniumdel	N;AT+ESS;PL
 vabastama	ei oleks vabastatudp	V;PASS;PRS;PRF;NEG;COND
 rääkima	ei räägi	V;ACT;PRS;NEG;IND
-kerjama	oleksite kerjanud	V;ACT;PRS;PRF:POS;COND;2;PL
+kerjama	oleksite kerjanud	V;ACT;PRS;PRF;POS;COND;2;PL
 november	novembri	N;ACC;SG
 meeldima	meeldigem	V;ACT;PRS;POS;IMP;1;PL
 partii	partiidena	N;FRML;PL
@@ -8080,7 +8080,7 @@ hõivama	hõivaks	V;ACT;PRS;POS;COND;3;SG
 ester	estrite	N;GEN;PL
 katkema	olevat katkenud	V;ACT;PRS;PRF;POS;QUOT
 üritama	üritad	V;ACT;PRS;POS;IND;2;SG
-peenendama	oleksite peenendanud	V;ACT;PRS;PRF:POS;COND;2;PL
+peenendama	oleksite peenendanud	V;ACT;PRS;PRF;POS;COND;2;PL
 kuklaluu	kuklaluudes	N;IN+ESS;PL
 rästik	rästikul	N;AT+ESS;SG
 suvi	suvedesse	N;IN+ALL;PL
@@ -8559,7 +8559,7 @@ peenar	peenrata	N;PRIV;SG
 ilu	ilud	N;NOM;PL
 osastav	osastavani	N;TERM;SG
 murdma	murraksid	V;ACT;PRS;POS;COND;3;PL
-käskima	oleksite käskinud	V;ACT;PRS;PRF:POS;COND;2;PL
+käskima	oleksite käskinud	V;ACT;PRS;PRF;POS;COND;2;PL
 püüdma	oli püüdnud	V;ACT;PRS;PRF;POS;COND;3;SG
 nahkhiir	nahkhiired	N;NOM;PL
 minema	mindi	V;PASS;PST;POS;IND
@@ -8805,7 +8805,7 @@ höövel	höövlitele	N;AT+ALL;PL
 rula	rulaks	N;TRANS;SG
 kuritöö	kuritöös	N;IN+ESS;SG
 mitmus	mitmusel	N;AT+ESS;SG
-käima	oleksite käinud	V;ACT;PRS;PRF:POS;COND;2;PL
+käima	oleksite käinud	V;ACT;PRS;PRF;POS;COND;2;PL
 kirjutama	kirjutaksid	V;ACT;PRS;POS;COND;2;SG
 sündima	sünniksid	V;ACT;PRS;POS;COND;3;PL
 lavastama	on lavastanud	V;ACT;PRS;PRF;POS;IND;3;SG
@@ -8999,7 +8999,7 @@ berkeelium	berkeeliumiga	N;COM;SG
 ava	ava	N;GEN;SG
 moldovlane	moldovlasele	N;AT+ALL;SG
 võitma	ei võitvat	V;ACT;PRS;NEG;QUOT
-kirjutama	oleksite kirjutanud	V;ACT;PRS;PRF:POS;COND;2;PL
+kirjutama	oleksite kirjutanud	V;ACT;PRS;PRF;POS;COND;2;PL
 rääkima	ärgem rääkigem	V;ACT;PRS;NEG;IMP;1;PL
 jääkaru	jääkaru	N;GEN;SG
 reetma	olevat reedetud	V;PASS;PRS;PRF;POS;QUOT
@@ -9077,7 +9077,7 @@ haridus	hariduses	N;IN+ESS;SG
 valgus	valgusel	N;AT+ESS;SG
 jaanuar	jaanuari	N;IN+ALL;SG
 väeti	väetisse	N;IN+ALL;SG
-helistama	oleksite helistanud	V;ACT;PRS;PRF:POS;COND;2;PL
+helistama	oleksite helistanud	V;ACT;PRS;PRF;POS;COND;2;PL
 järgnema	ei järgneta	V;PASS;PRS;NEG;IND
 kee	keena	N;FRML;SG
 lätlane	lätlasele	N;AT+ALL;SG
@@ -9455,7 +9455,7 @@ hõivama	hõivan	V;ACT;PRS;POS;IND;1;SG
 soo	sooks	N;TRANS;SG
 lätlane	lätlases	N;IN+ESS;SG
 varastama	olete varastanud	V;ACT;PRS;PRF;POS;IND;2;PL
-võtma	oleksite võtnud	V;ACT;PRS;PRF:POS;COND;2;PL
+võtma	oleksite võtnud	V;ACT;PRS;PRF;POS;COND;2;PL
 ehtima	olgu ehtinud	V;ACT;PRS;PRF;POS;IMP;PL
 küsima	küsiksid	V;ACT;PRS;POS;COND;2;SG
 kapten	kapteni	N;ACC;SG
@@ -9629,7 +9629,7 @@ düsproosium	düsproosiumini	N;TERM;SG
 vangerdus	vangerdustega	N;COM;PL
 omama	ei omavat	V;ACT;PRS;NEG;QUOT
 saama	ei olevat saadudp	V;PASS;PRS;PRF;NEG;QUOT
-heitma	oleksite heitnud	V;ACT;PRS;PRF:POS;COND;2;PL
+heitma	oleksite heitnud	V;ACT;PRS;PRF;POS;COND;2;PL
 kaubandus	kaubanduselt	N;AT+ABL;SG
 veebruar	veebruari	N;IN+ALL;SG
 kinnitama	kinnitaksid	V;ACT;PRS;POS;COND;3;PL
@@ -9759,7 +9759,7 @@ telefon	telefon	N;NOM;SG
 sõda	sõjale	N;AT+ALL;SG
 helistama	helistaksid	V;ACT;PRS;POS;COND;3;PL
 võima	on võinud	V;ACT;PRS;PRF;POS;IND;3;SG
-pürgima	oleksite pürginud	V;ACT;PRS;PRF:POS;COND;2;PL
+pürgima	oleksite pürginud	V;ACT;PRS;PRF;POS;COND;2;PL
 protaktiinium	protaktiiniumile	N;AT+ALL;SG
 peatus	peatustesse	N;IN+ALL;PL
 poolkuu	poolkuudesse	N;IN+ALL;PL
@@ -9857,7 +9857,7 @@ alam	alamates	N;IN+ESS;PL
 niisutama	ära niisuta	V;ACT;PRS;NEG;IMP;2;SG
 ajaloolane	ajaloolastel	N;AT+ESS;PL
 reenium	reeniumi	N;GEN;SG
-embama	oleksite emmanud	V;ACT;PRS;PRF:POS;COND;2;PL
+embama	oleksite emmanud	V;ACT;PRS;PRF;POS;COND;2;PL
 umbisikuline	umbisikulisega	N;COM;SG
 ootama	oodatud	V.PTCP;PASS;PST
 promeetium	promeetiumdega	N;COM;PL
@@ -9896,7 +9896,7 @@ meeldima	olin meeldinud	V;ACT;PRS;PRF;POS;COND;1;SG
 käima	käin	V;ACT;PRS;POS;IND;1;SG
 raudtee	raudteed	N;NOM;PL
 hõivama	ei olevat hõivatudp	V;PASS;PRS;PRF;NEG;QUOT
-lootma	oleksite lootnud	V;ACT;PRS;PRF:POS;COND;2;PL
+lootma	oleksite lootnud	V;ACT;PRS;PRF;POS;COND;2;PL
 leedulane	leedulase	N;GEN;SG
 veski	veskiga	N;COM;SG
 reenium	reeniumita	N;PRIV;SG
@@ -9983,7 +9983,7 @@ oskama	ärgu olgu osanud	V;ACT;PRS;PRF;NEG;IMP;SG
 sõnaraamat	sõnaraamatuteks	N;TRANS;PL
 välismaa	välismaadega	N;COM;PL
 oras	oras	N;NOM;SG
-kaotama	oleksite kaotanud	V;ACT;PRS;PRF:POS;COND;2;PL
+kaotama	oleksite kaotanud	V;ACT;PRS;PRF;POS;COND;2;PL
 joodik	joodikut	N;PRT;SG
 võrduma	ärgu võrdugu	V;ACT;PRS;NEG;IMP;3;SG
 kobistama	ei olevat kobistanudp	V;ACT;PRS;PRF;NEG;QUOT

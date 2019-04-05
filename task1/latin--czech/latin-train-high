@@ -187,7 +187,7 @@ defricatio	dēfricātiōnibus	N;ABL;PL
 offertorium	offertōriīs	N;ABL;PL
 ferratus	ferrātam	ADJ;ACC;FEM;SG
 dobrogicus	dobrogicīs	ADJ;ABL; PL
-praeintelligo	praeintelligāmur	V;SBJV;PASS:PRS;1;PL
+praeintelligo	praeintelligāmur	V;SBJV;PASS;PRS;1;PL
 baffinensis	baffinensia	ADJ;VOC;NEUT;PL
 yakushimensis	yakushimensī	ADJ;ABL;MASC/FEM;SG
 acutissimus	acūtissimae	ADJ;GEN;FEM;SG
@@ -273,7 +273,7 @@ pervulgo	pervulgāmur	V;IND;PASS;PRS;1;PL
 praecurro	praecurrerer	V;SBJV;PASS;PST;1;SG;IPFV
 modifico	modificantor	V;IMP;PASS;FUT;3;PL
 dependo	dēpendar	V;IND;PASS;FUT;1;SG
-infusco	īnfuscābāminī	V;IND:PASS;PST;2;PL;IPFV
+infusco	īnfuscābāminī	V;IND;PASS;PST;2;PL;IPFV
 conflo	cōnflāvimus	V;IND;PST;1;PL;PFV
 incrasso	incrassābam	V;IND;PST;1;SG;IPFV
 clino	clīnem	V;SBJV;PRS;1;SG
@@ -363,7 +363,7 @@ aurulentus	aurulenta	ADJ;NOM;NEUT;PL
 temporarius	temporāriīs	ADJ;DAT;NEUT;SG
 ingratus	ingrāta	ADJ;VOC;NEUT;PL
 dogmatizo	dogmatīzārer	V;SBJV;PASS;PST;1;SG;IPFV
-alterno	alternābāminī	V;IND:PASS;PST;2;PL;IPFV
+alterno	alternābāminī	V;IND;PASS;PST;2;PL;IPFV
 impeto	impetīvissent	V;SBJV;PST;3;PL;PRF
 lanceifolius	lanceifoliī	ADJ;NOM;MASC;PL
 doto	dōtāverint	V;IND;FUT;3;PL;PRF
@@ -404,7 +404,7 @@ mino	mināveritis	V;IND;FUT;2;PL;PRF
 borchgravius	borchgrāvī	N;VOC;SG
 deargento	deargentās	V;IND;PRS;2;SG
 exagito	exagitābat	V;IND;PST;3;SG;IPFV
-conveho	convehēbāminī	V;IND:PASS;PST;2;PL;IPFV
+conveho	convehēbāminī	V;IND;PASS;PST;2;PL;IPFV
 dispertitio	dispertītiōnēs	N;NOM;PL
 multiplicativus	multiplicātivae	ADJ;NOM;FEM;PL
 excellentissimus	excellēntissimīs	ADJ;ABL; PL
@@ -514,7 +514,7 @@ freno	frēnāvissēmus	V;SBJV;PST;1;PL;PRF
 jactito	jactitāte	V;IMP;PRS;3;PL
 eburatus	eburāte	ADJ;VOC;MASC;SG
 vio	viētis	V;SBJV;PRS;2;PL
-freno	frēnēmur	V;SBJV;PASS:PRS;1;PL
+freno	frēnēmur	V;SBJV;PASS;PRS;1;PL
 enato	ēnatāvistī	V;IND;PST;2;SG;PFV
 membraneus	membrāneōs	ADJ;ACC;MASC;PL
 irrumpo	irrumpiminī	V;IND;PASS;PRS;2;PL
@@ -640,7 +640,7 @@ costum	coste	N;VOC;SG
 perflo	perflārēris	V;SBJV;PST;2;SG;IPFV
 foedo	foedābās	V;IND;PST;2;SG;IPFV
 inconjugus	inconjugae	ADJ;NOM;FEM;PL
-capisso	capissāmur	V;SBJV;PASS:PRS;1;PL
+capisso	capissāmur	V;SBJV;PASS;PRS;1;PL
 fraudo	fraudābāmur	V;IND;PASS;PST;1;PL;IPFV
 plasmo	plasmāret	V;SBJV;PST;3;SG;IPFV
 traveho	trāvehēns	V.PTCP;PRS
@@ -917,7 +917,7 @@ entheca	enthēcās	N;ACC;PL
 commaculo	commaculābāmur	V;IND;PASS;PST;1;PL;IPFV
 quadrigamus	quadrigamō	N;DAT;SG
 confutuo	cōnfutuerentur	V;SBJV;PASS;PST;3;PL;IPFV
-circumplecto	circumplectēbāminī	V;IND:PASS;PST;2;PL;IPFV
+circumplecto	circumplectēbāminī	V;IND;PASS;PST;2;PL;IPFV
 mortifico	mortificābimus	V;IND;FUT;1;PL
 illigo	illigāvisset	V;SBJV;PST;3;SG;PRF
 coarto	coartābās	V;IND;PST;2;SG;IPFV
@@ -1217,7 +1217,7 @@ obcaeco	obcaecāvērunt	V;IND;PST;3;PL;PFV
 subcrenatus	subcrenatae	ADJ;GEN;FEM;SG
 subsigno	subsignāverant	V;IND;PST;3;PL;PRF
 cacaturio	cacāturiēbāmus	V;IND;PST;1;PL;IPFV
-exploro	explōrēmur	V;SBJV;PASS:PRS;1;PL
+exploro	explōrēmur	V;SBJV;PASS;PRS;1;PL
 praesumo	praesūmpsissem	V;SBJV;PST;1;SG;PRF
 coangusto	coangustāverāmus	V;IND;PST;1;PL;PRF
 vaticinatio	vāticinātiō	N;NOM;SG
@@ -1252,7 +1252,7 @@ turbidissimus	turbidissimī	ADJ;VOC;MASC;PL
 conscius	cōnsciō	ADJ;DAT;MASC;SG
 sulcus	sulcō	N;ABL;SG
 sagacissimus	sagācissima	ADJ;NOM;FEM;SG
-praedispono	praedispōnāmur	V;SBJV;PASS:PRS;1;PL
+praedispono	praedispōnāmur	V;SBJV;PASS;PRS;1;PL
 momentosus	mōmentōsam	ADJ;ACC;FEM;SG
 lector	lēctōrum	N;GEN;PL
 prophetatio	prophētātiōne	N;ABL;SG
@@ -1386,7 +1386,7 @@ permagnus	permagnō	ADJ;DAT;FEM;SG
 sequestro	sequestrer	V;SBJV;PASS;PRS;1;SG
 alienor	aliēniōribus	ADJ;DAT;NEUT;SG
 adtempero	adtemperāverīmus	V;SBJV;PST;1;PL;PFV
-perneo	pernēbāminī	V;IND:PASS;PST;2;PL;IPFV
+perneo	pernēbāminī	V;IND;PASS;PST;2;PL;IPFV
 atrocissimus	atrōcissima	ADJ;NOM;FEM;SG
 irio	īriōnum	N;GEN;PL
 trimus	trīmum	ADJ;ACC;NEUT;SG
@@ -1684,7 +1684,7 @@ deperdo	dēperderentur	V;SBJV;PASS;PST;3;PL;IPFV
 comprendo	comprenderat	V;IND;PST;3;SG;PRF
 lascivio	lascīvīret	V;SBJV;PST;3;SG;IPFV
 incredulus	incrēdulīs	ADJ;DAT;NEUT;SG
-conprobo	conprobābāminī	V;IND:PASS;PST;2;PL;IPFV
+conprobo	conprobābāminī	V;IND;PASS;PST;2;PL;IPFV
 deiudico	deiūdicāveritis	V;IND;FUT;2;PL;PRF
 ignio	ignīrēmus	V;SBJV;PST;1;PL;IPFV
 quinquangulus	quinquangulum	ADJ;ACC;NEUT;SG
@@ -1842,7 +1842,7 @@ devius	dēviī	ADJ;VOC;MASC;PL
 fabricatorius	fābricātōriī	ADJ;GEN;MASC;SG
 adtempto	adtemptāvī	V;IND;PST;1;SG;PFV
 aristatus	aristāte	ADJ;VOC;MASC;SG
-adimpleo	adimpleāmur	V;SBJV;PASS:PRS;1;PL
+adimpleo	adimpleāmur	V;SBJV;PASS;PRS;1;PL
 baceolus	baceolum	ADJ;NOM;NEUT;SG
 mundities	munditiēs	N;VOC;SG
 scenicus	scēnica	ADJ;VOC;FEM;SG
@@ -2084,7 +2084,7 @@ labium	labia	N;VOC;PL
 perfringo	perfringitor	V;IMP;PASS;FUT;3;SG
 pejoro	pējōrāmus	V;IND;PRS;1;PL
 dissupo	dissupētur	V;SBJV;PASS;PRS;3;SG
-admaturo	admātūrēmur	V;SBJV;PASS:PRS;1;PL
+admaturo	admātūrēmur	V;SBJV;PASS;PRS;1;PL
 subservio	subserviētis	V;IND;FUT;2;PL
 rufitarsis	rufitarsia	ADJ;ACC;NEUT;PL
 summurmuro	summurmurāveris	V;IND;FUT;2;SG;PRF
@@ -2285,7 +2285,7 @@ venumdo	vēnumdārētur	V;SBJV;PASS;PST;3;SG;IPFV
 compedio	compedīverīmus	V;SBJV;PST;1;PL;PFV
 receptibilis	receptibile	ADJ;VOC;NEUT;SG
 aspuo	aspuerīmus	V;SBJV;PST;1;PL;PFV
-subverso	subversābāminī	V;IND:PASS;PST;2;PL;IPFV
+subverso	subversābāminī	V;IND;PASS;PST;2;PL;IPFV
 zinzilulo	zinzilulāre	V;IMP;PASS;PRS;3;SG
 malitiosior	malitiōsior	ADJ;VOC;MASC/FEM;SG
 figularis	figulārēs	ADJ;ACC;MASC/FEM;PL
@@ -2579,7 +2579,7 @@ depango	dēpegerint	V;SBJV;PST;3;PL;PFV
 cottidianus	cottīdiāna	ADJ;VOC;FEM;SG
 cauterio	cautēriāveris	V;IND;FUT;2;SG;PRF
 pretio	pretiō	V;IND;PRS;1;SG
-retexo	retexāmur	V;SBJV;PASS:PRS;1;PL
+retexo	retexāmur	V;SBJV;PASS;PRS;1;PL
 quintilis	quīntīlis	ADJ;GEN;MASC/FEM;SG
 eluvies	ēluviēs	N;ACC;PL
 plenissimus	plēnissimōrum	ADJ;GEN;MASC;PL
@@ -2707,7 +2707,7 @@ saxeus	saxeō	ADJ;DAT;MASC;SG
 adaequatus	adaequātae	ADJ;VOC;FEM;PL
 abiudicativus	abiūdicātīvā	ADJ;ABL;FEM;SG
 marita	marīta	N;VOC;SG
-succenseo	succēnseāmur	V;SBJV;PASS:PRS;1;PL
+succenseo	succēnseāmur	V;SBJV;PASS;PRS;1;PL
 obdo	obderēminī	V;SBJV;PASS;PST;2;PL;IPFV
 burggrafius	burggrāfiōrum	N;GEN;PL
 deprecaneus	dēprecāneum	ADJ;ACC;NEUT;SG
@@ -2792,7 +2792,7 @@ completus	complētī	ADJ;GEN;MASC;SG
 thorium	thōriī	N;GEN;SG
 coniectio	coniectiōnis	N;GEN;SG
 proveho	prōvehant	V;SBJV;PRS;3;PL
-recurro	recurrāmur	V;SBJV;PASS:PRS;1;PL
+recurro	recurrāmur	V;SBJV;PASS;PRS;1;PL
 adfirmo	adfirmātur	V;IND;PASS;PRS;3;SG
 sacrificus	sacrificae	ADJ;NOM;FEM;PL
 vulgaritas	vulgāritātī	N;DAT;SG
@@ -2908,8 +2908,8 @@ condio	condiō	V;IND;PRS;1;SG
 sapidus	sapidī	ADJ;GEN;NEUT;SG
 insanior	īnsāniōrēs	ADJ;ACC;MASC/FEM;PL
 inornatus	inōrnātō	ADJ;ABL;NEUT;SG
-redimio	redimiēbāminī	V;IND:PASS;PST;2;PL;IPFV
-exosso	exossābāminī	V;IND:PASS;PST;2;PL;IPFV
+redimio	redimiēbāminī	V;IND;PASS;PST;2;PL;IPFV
+exosso	exossābāminī	V;IND;PASS;PST;2;PL;IPFV
 abundiflorus	abundiflora	ADJ;NOM;FEM;SG
 submitto	submittimus	V;IND;PRS;1;PL
 dinumero	dīnumerārētis	V;SBJV;PST;2;PL;IPFV
@@ -3378,7 +3378,7 @@ tasmanicus	tasmanica	ADJ;NOM;NEUT;PL
 obstruo	obstruēbās	V;IND;PST;2;SG;IPFV
 aemidus	aemidōs	ADJ;ACC;MASC;PL
 vilitas	vīlitātī	N;DAT;SG
-conpugno	conpugnābāminī	V;IND:PASS;PST;2;PL;IPFV
+conpugno	conpugnābāminī	V;IND;PASS;PST;2;PL;IPFV
 exhilaro	exhilarāverit	V;SBJV;PST;3;SG;PFV
 bistriatus	bistriatī	ADJ;VOC;MASC;PL
 hereo	hērentor	V;IMP;PASS;FUT;3;PL
@@ -3481,7 +3481,7 @@ calefacio	calefēcerat	V;IND;PST;3;SG;PRF
 follis	folle	N;DAT;SG
 adtermino	adterminātō	V;IMP;FUT;3;SG
 labo	labābiminī	V;IND;PASS;FUT;2;PL
-innavigo	innāvigēmur	V;SBJV;PASS:PRS;1;PL
+innavigo	innāvigēmur	V;SBJV;PASS;PRS;1;PL
 exturbo	exturbābāmur	V;IND;PASS;PST;1;PL;IPFV
 procurro	prōcurrar	V;SBJV;PASS;PRS;1;SG
 terrenus	terrēnō	ADJ;ABL;MASC;SG
@@ -3590,7 +3590,7 @@ praejicio	praejēcerāmus	V;IND;PST;1;PL;PRF
 iudaeo-hispanicus	iūdaeo-hispānicō	ADJ;DAT;FEM;SG
 intentivus	intentīva	ADJ;NOM;NEUT;PL
 centripetus	centripetum	ADJ;ACC;NEUT;SG
-inspicio	īnspiciāmur	V;SBJV;PASS:PRS;1;PL
+inspicio	īnspiciāmur	V;SBJV;PASS;PRS;1;PL
 recludo	reclūdēbāmur	V;IND;PASS;PST;1;PL;IPFV
 meretricius	meretrīciōs	ADJ;ACC;MASC;PL
 hedus	hedus	N;NOM;SG
@@ -3659,7 +3659,7 @@ divexo	divēxās	V;IND;PRS;2;SG
 circumeo	circumeant	V;SBJV;PRS;3;PL
 peioro	pēiōrābor	V;IND;PASS;FUT;1;SG
 nonagenarius	nōnāgēnāriās	ADJ;ACC;FEM;PL
-adlicefacio	adlicefīēbātis	V;IND:PASS;PST;2;PL;IPFV
+adlicefacio	adlicefīēbātis	V;IND;PASS;PST;2;PL;IPFV
 nitrum	nitrō	N;ABL;SG
 hierosolymitanus	hierosolymītāna	ADJ;VOC;FEM;SG
 seiungo	sēiungere	V;NFIN
@@ -3706,7 +3706,7 @@ perstillo	perstillāverint	V;SBJV;PST;3;PL;PFV
 liturgicus	liturgicō	ADJ;DAT;MASC;SG
 iento	ientābantur	V;IND;PASS;PST;3;PL;IPFV
 lycopersicum	lycopersicōrum	N;GEN;PL
-procrastino	prōcrāstinābāminī	V;IND:PASS;PST;2;PL;IPFV
+procrastino	prōcrāstinābāminī	V;IND;PASS;PST;2;PL;IPFV
 emargino	ēmargināte	V;IMP;PRS;3;PL
 antescholanus	antescholānō	N;DAT;SG
 auxilio	auxiliāvissētis	V;SBJV;PST;2;PL;PRF
@@ -3715,7 +3715,7 @@ prolecto	prōlectāverint	V;SBJV;PST;3;PL;PFV
 praeservo	praeservāveris	V;IND;FUT;2;SG;PRF
 repedo	repedārer	V;SBJV;PASS;PST;1;SG;IPFV
 accendo	accenderint	V;IND;FUT;3;PL;PRF
-remulceo	remulcēbāminī	V;IND:PASS;PST;2;PL;IPFV
+remulceo	remulcēbāminī	V;IND;PASS;PST;2;PL;IPFV
 diritas	dīritātī	N;DAT;SG
 aromatizo	arōmatīzābuntur	V;IND;PASS;FUT;3;PL
 novamexicanus	novamexicanī	ADJ;NOM;MASC;PL
@@ -3726,7 +3726,7 @@ sodalis	sodālēs	N;ACC;PL
 demigro	dēmīgrent	V;SBJV;PRS;3;PL
 intolerabilis	intolerābilia	ADJ;NOM;NEUT;PL
 reticulatus	rēticulātō	ADJ;ABL;MASC;SG
-conflo	cōnflābāminī	V;IND:PASS;PST;2;PL;IPFV
+conflo	cōnflābāminī	V;IND;PASS;PST;2;PL;IPFV
 attributor	attribūtōribus	N;ABL;PL
 consano	cōnsānābis	V;IND;FUT;2;SG
 disputo	disputēmus	V;SBJV;PRS;1;PL
@@ -3807,7 +3807,7 @@ rorulentus	rōrulentae	ADJ;NOM;FEM;PL
 enormitas	ēnormitātibus	N;ABL;PL
 Niliacus	Nīliacōrum	ADJ;GEN;NEUT;PL
 alietum	aliētōrum	N;GEN;PL
-reintegro	reintegrābāminī	V;IND:PASS;PST;2;PL;IPFV
+reintegro	reintegrābāminī	V;IND;PASS;PST;2;PL;IPFV
 pygmaeus	pygmaeārum	ADJ;GEN;FEM;PL
 incommensurabilitas	incommēnsūrābilitās	N;NOM;SG
 vectorius	vectōriō	ADJ;DAT;MASC;SG
@@ -3967,7 +3967,7 @@ albirostris	albirostrium	ADJ;GEN;NEUT;SG
 nicto	nictēs	V;SBJV;PRS;2;SG
 conlaboro	conlabōrāre	V;NFIN
 afganicus	afganicī	ADJ;NOM;MASC;PL
-extermino	exterminēmur	V;SBJV;PASS:PRS;1;PL
+extermino	exterminēmur	V;SBJV;PASS;PRS;1;PL
 papillatus	papillātus	ADJ;NOM;MASC;SG
 annualis	annuāle	ADJ;NOM;NEUT;SG
 perstringo	perstringam	V;IND;FUT;1;SG
@@ -4026,7 +4026,7 @@ penultimus	pēnultimī	ADJ;GEN;MASC;SG
 episcopalis	episcopāle	ADJ;VOC;NEUT;SG
 arieto	arietātō	V;IMP;FUT;3;SG
 inminuo	inminuimur	V;IND;PASS;PRS;1;PL
-fortuno	fortūnābāminī	V;IND:PASS;PST;2;PL;IPFV
+fortuno	fortūnābāminī	V;IND;PASS;PST;2;PL;IPFV
 abiecto	abiectārem	V;SBJV;PST;1;SG;IPFV
 consecratrix	cōnsecrātrīcem	N;ACC;SG
 primipilus	prīmipīlī	N;NOM;PL
@@ -4205,7 +4205,7 @@ subverso	subversābātis	V;IND;PST;2;PL;IPFV
 patulus	patula	ADJ;NOM;FEM;SG
 sabbatizo	sabbatīzābimur	V;IND;PASS;FUT;1;PL
 mansuetus	mansuētās	ADJ;ACC;FEM;PL
-inprobo	inprobābāminī	V;IND:PASS;PST;2;PL;IPFV
+inprobo	inprobābāminī	V;IND;PASS;PST;2;PL;IPFV
 percio	perciātis	V;SBJV;PRS;2;PL
 deiudico	deiūdicāverim	V;SBJV;PST;1;SG;PFV
 ambitiosior	ambitiōsius	ADJ;ACC;NEUT;SG
@@ -4401,7 +4401,7 @@ praetexo	praetexuerim	V;SBJV;PST;1;SG;PFV
 cynomazon	cynomazō	N;ABL;SG
 pluvius	pluvium	ADJ;VOC;NEUT;SG
 arenicolus	arenicolum	ADJ;NOM;NEUT;SG
-redigo	redigāmur	V;SBJV;PASS:PRS;1;PL
+redigo	redigāmur	V;SBJV;PASS;PRS;1;PL
 semimarinus	sēmimarīnō	ADJ;ABL;MASC;SG
 praefoco	praefōcāvissent	V;SBJV;PST;3;PL;PRF
 inexterminabilis	inexterminābilem	ADJ;ACC;MASC/FEM;SG
@@ -4625,7 +4625,7 @@ paganitas	pāgānitātis	N;GEN;SG
 consacro	cōnsacrēs	V;SBJV;PRS;2;SG
 incognitus	incognitōrum	ADJ;GEN;NEUT;PL
 commonstro	commonstrātō	V;IMP;FUT;3;SG
-coambulo	coambulēmur	V;SBJV;PASS:PRS;1;PL
+coambulo	coambulēmur	V;SBJV;PASS;PRS;1;PL
 caminus	camīnī	N;VOC;PL
 sabbatum	sabbatum	N;NOM;SG
 multiplicativus	multiplicātivō	ADJ;DAT;FEM;SG
@@ -4757,10 +4757,10 @@ nudus	nūdā	ADJ;ABL;FEM;SG
 obtusiangulus	obtūsiangule	ADJ;VOC;MASC;SG
 fraudo	fraudābātis	V;IND;PST;2;PL;IPFV
 abligurrio	abligūrriētur	V;IND;PASS;FUT;3;SG
-gratias ago	grātiās agāmur	V;SBJV;PASS:PRS;1;PL
+gratias ago	grātiās agāmur	V;SBJV;PASS;PRS;1;PL
 illiberalis	illīberālis	ADJ;NOM;MASC/FEM;SG
 albomarginatus	albomarginātī	ADJ;GEN;MASC;SG
-exsaturo	exsaturābāminī	V;IND:PASS;PST;2;PL;IPFV
+exsaturo	exsaturābāminī	V;IND;PASS;PST;2;PL;IPFV
 oleamentum	oleāmenta	N;ACC;PL
 circumsepio	circumsēpseris	V;IND;FUT;2;SG;PRF
 guineenis	guineensēs	ADJ;NOM;MASC/FEM;PL
@@ -5074,7 +5074,7 @@ turpo	turpāvimus	V;IND;PST;1;PL;PFV
 adficio	adficitur	V;IND;PASS;PRS;3;SG
 consopio	cōnsōpīre	V;IMP;PASS;PRS;3;SG
 tramitto	trāmīserint	V;IND;FUT;3;PL;PRF
-irretio	irrētiēbāminī	V;IND:PASS;PST;2;PL;IPFV
+irretio	irrētiēbāminī	V;IND;PASS;PST;2;PL;IPFV
 arpitanicus	arpitanicārum	ADJ;GEN;FEM;PL
 gallonicus	gallonicum	ADJ;ACC;MASC;SG
 exsolvo	exsolvitō	V;IMP;FUT;3;SG
@@ -5114,7 +5114,7 @@ adgravo	adgravat	V;IND;PRS;3;SG
 gravito	gravitāverint	V;IND;FUT;3;PL;PRF
 fabrefacio	fābrēfīat	V;SBJV;PASS;PRS;3;SG
 inprobior	inprobiōrēs	ADJ;NOM;MASC/FEM;PL
-fenero	fenerēmur	V;SBJV;PASS:PRS;1;PL
+fenero	fenerēmur	V;SBJV;PASS;PRS;1;PL
 praetermitto	praetermitterēmur	V;SBJV;PASS;PST;1;PL;IPFV
 contrucido	contrucīdābunt	V;IND;FUT;3;PL
 comprendo	comprendimur	V;IND;PASS;PRS;1;PL
@@ -5258,7 +5258,7 @@ bajulo	bājulārem	V;SBJV;PST;1;SG;IPFV
 delinquo	dēlinquar	V;IND;PASS;FUT;1;SG
 vacuefacio	vacuēfīat	V;SBJV;PASS;PRS;3;SG
 maoricus	maorica	ADJ;NOM;NEUT;PL
-despumo	dēspūmābāminī	V;IND:PASS;PST;2;PL;IPFV
+despumo	dēspūmābāminī	V;IND;PASS;PST;2;PL;IPFV
 relativisticus	relātīvisticō	ADJ;DAT;MASC;SG
 allegatio	allēgātōnēs	N;ACC;PL
 convenientia	convenientiīs	N;NOM;PL
@@ -5373,7 +5373,7 @@ patentissimus	patentissimī	ADJ;VOC;MASC;PL
 nigricostus	nigricostae	ADJ;GEN;FEM;SG
 tardo	tardāminī	V;IND;PASS;PRS;2;PL
 offundo	offundam	V;IND;FUT;1;SG
-obverto	obvertēbāminī	V;IND:PASS;PST;2;PL;IPFV
+obverto	obvertēbāminī	V;IND;PASS;PST;2;PL;IPFV
 tudicula	tudicula	N;NOM;SG
 electromagneticus	ēlectromagnēticī	ADJ;VOC;MASC;PL
 optempero	optemperāvissem	V;SBJV;PST;1;SG;PRF
@@ -5399,7 +5399,7 @@ aequipero	aequiperātur	V;IND;PASS;PRS;3;SG
 dubitabundus	dubitabundī	ADJ;GEN;MASC;SG
 desaevio	dēsaevīveritis	V;IND;FUT;2;PL;PRF
 bovarius	bovārium	ADJ;ACC;NEUT;SG
-eximo	eximēbāminī	V;IND:PASS;PST;2;PL;IPFV
+eximo	eximēbāminī	V;IND;PASS;PST;2;PL;IPFV
 depopulo	dēpopulāverint	V;IND;FUT;3;PL;PRF
 palmeus	palmeī	ADJ;VOC;MASC;PL
 praetempto	praetemptentur	V;SBJV;PASS;PRS;3;PL
@@ -5498,7 +5498,7 @@ contaminatissimus	contāminātissimā	ADJ;ABL;FEM;SG
 amethystinus	amethystina	ADJ;ACC;NEUT;PL
 suillus	suillōrum	ADJ;GEN;NEUT;PL
 secundo	secundāveritis	V;IND;FUT;2;PL;PRF
-circundo	circundabāminī	V;IND:PASS;PST;2;PL;IPFV
+circundo	circundabāminī	V;IND;PASS;PST;2;PL;IPFV
 superstruo	superstruerer	V;SBJV;PASS;PST;1;SG;IPFV
 insanus	īnsānī	ADJ;NOM;MASC;PL
 mellosus	mellōsae	ADJ;NOM;FEM;PL
@@ -5576,7 +5576,7 @@ convertibilis	convertibilī	ADJ;DAT;MASC/FEM;SG
 virguncula	virguncula	N;VOC;SG
 immolo	immolārent	V;SBJV;PST;3;PL;IPFV
 turgidus	turgidā	ADJ;ABL;FEM;SG
-confingo	cōnfingāmur	V;SBJV;PASS:PRS;1;PL
+confingo	cōnfingāmur	V;SBJV;PASS;PRS;1;PL
 adrogo	adrogāveritis	V;IND;FUT;2;PL;PRF
 atrocissimus	atrōcissimīs	ADJ;DAT;NEUT;SG
 patricus	patrice	ADJ;VOC;MASC;SG
@@ -5617,7 +5617,7 @@ libanus	lībanī	ADJ;VOC;MASC;PL
 suppono	suppōnerēris	V;SBJV;PST;2;SG;IPFV
 intactus	intacte	ADJ;VOC;MASC;SG
 acuo	acuit	V;IND;PRS;3;SG
-refuto	refūtēmur	V;SBJV;PASS:PRS;1;PL
+refuto	refūtēmur	V;SBJV;PASS;PRS;1;PL
 jejuno	jējūnāvit	V;IND;PST;3;SG;PFV
 palidulus	palidulum	ADJ;NOM;NEUT;SG
 ignosco	īgnōscantur	V;SBJV;PASS;PRS;3;PL
@@ -5826,7 +5826,7 @@ hypocaustus	hypocauste	ADJ;VOC;MASC;SG
 vendibilis	vendibilium	ADJ;GEN;NEUT;SG
 indeprensus	indēprensum	ADJ;ACC;MASC;SG
 excipio	excipiant	V;SBJV;PRS;3;PL
-abomino	abōminābāminī	V;IND:PASS;PST;2;PL;IPFV
+abomino	abōminābāminī	V;IND;PASS;PST;2;PL;IPFV
 sagatus	sagāta	ADJ;NOM;NEUT;PL
 oblatio	oblātiōnibus	N;ABL;PL
 obtrunco	obtruncāret	V;SBJV;PST;3;SG;IPFV
@@ -5918,7 +5918,7 @@ apstineo	apstinueritis	V;IND;FUT;2;PL;PRF
 retundo	rettuderant	V;IND;PST;3;PL;PRF
 departio	dēpartītur	V;IND;PASS;PRS;3;SG
 antefero	anteferēns	V.PTCP;PRS
-incurro	incurrāmur	V;SBJV;PASS:PRS;1;PL
+incurro	incurrāmur	V;SBJV;PASS;PRS;1;PL
 ligurio	ligūrīrēmur	V;SBJV;PASS;PST;1;PL;IPFV
 subvento	subventet	V;SBJV;PRS;3;SG
 pigro	pīgrāverim	V;SBJV;PST;1;SG;PFV
@@ -6435,7 +6435,7 @@ longicaudatus	longicaudāta	ADJ;VOC;FEM;SG
 seductio	sēductiōnum	N;GEN;PL
 runcina	runcīnīs	N;ABL;PL
 nonnus	nonnīs	N;ABL;PL
-inlumino	inlūminābāminī	V;IND:PASS;PST;2;PL;IPFV
+inlumino	inlūminābāminī	V;IND;PASS;PST;2;PL;IPFV
 disjicio	disjicerent	V;SBJV;PST;3;PL;IPFV
 converto	convertistis	V;IND;PST;2;PL;PFV
 discretio	discrētiōnum	N;GEN;PL
@@ -6550,7 +6550,7 @@ accuratior	accūrātiōrēs	ADJ;VOC;MASC/FEM;PL
 subrigo	subrige	V;IMP;PRS;3;SG
 exprobro	exprōbrāverō	V;IND;FUT;1;SG;PRF
 ico	īcisset	V;SBJV;PST;3;SG;PRF
-praeterverto	praetervertāmur	V;SBJV;PASS:PRS;1;PL
+praeterverto	praetervertāmur	V;SBJV;PASS;PRS;1;PL
 acherunticus	acherunticum	ADJ;ACC;NEUT;SG
 torquis	torquibus	N;ABL;PL
 planeta	planētae	N;VOC;PL
@@ -6676,11 +6676,11 @@ evito	ēvītābitur	V;IND;PASS;FUT;3;SG
 transcendo	trānscenditor	V;IMP;PASS;FUT;3;SG
 compitalis	compitālēs	ADJ;VOC;MASC/FEM;PL
 asporto	asportāvissem	V;SBJV;PST;1;SG;PRF
-semustulo	sēmustulēmur	V;SBJV;PASS:PRS;1;PL
+semustulo	sēmustulēmur	V;SBJV;PASS;PRS;1;PL
 inunguo	inunxisset	V;SBJV;PST;3;SG;PRF
 prospecto	prospectābimur	V;IND;PASS;FUT;1;PL
 angor	angōrum	N;GEN;PL
-designo	dēsignēmur	V;SBJV;PASS:PRS;1;PL
+designo	dēsignēmur	V;SBJV;PASS;PRS;1;PL
 homericus	homēricārum	ADJ;GEN;FEM;PL
 internecio	interneciō	N;VOC;SG
 arripio	arripiēris	V;IND;PASS;FUT;2;SG
@@ -6965,7 +6965,7 @@ suppingo	suppinxerō	V;IND;FUT;1;SG;PRF
 somniculosus	somniculōsā	ADJ;ABL;FEM;SG
 opero	operābunt	V;IND;FUT;3;PL
 nipponensis	nipponensibus	ADJ;ABL;NEUT;SG
-dissentio	dissentiēbāminī	V;IND:PASS;PST;2;PL;IPFV
+dissentio	dissentiēbāminī	V;IND;PASS;PST;2;PL;IPFV
 vestis	vestibus	N;ABL;PL
 porricio	porricerētis	V;SBJV;PST;2;PL;IPFV
 attrecto	attrectētur	V;SBJV;PASS;PRS;3;SG
@@ -7002,7 +7002,7 @@ calcio	calciāverītis	V;SBJV;PST;2;PL;PFV
 existimo	existimāminī	V;IND;PASS;PRS;2;PL
 traveho	trāvehitor	V;IMP;PASS;FUT;3;SG
 abominosus	abōminōsae	ADJ;GEN;FEM;SG
-arieto	arietābāminī	V;IND:PASS;PST;2;PL;IPFV
+arieto	arietābāminī	V;IND;PASS;PST;2;PL;IPFV
 tabularium	tabulāriīs	N;ABL;PL
 corrugo	corrūgās	V;IND;PRS;2;SG
 ambulatura	ambulātūrae	N;DAT;SG
@@ -7043,7 +7043,7 @@ reprendo	reprendātur	V;SBJV;PASS;PRS;3;SG
 plumbosus	plumbōsī	ADJ;NOM;MASC;PL
 transduco	trānsdūcō	V;IND;PRS;1;SG
 depugno	dēpugnārer	V;SBJV;PASS;PST;1;SG;IPFV
-recalcitro	recalcitrābāminī	V;IND:PASS;PST;2;PL;IPFV
+recalcitro	recalcitrābāminī	V;IND;PASS;PST;2;PL;IPFV
 arthriticus	arthrītica	ADJ;ACC;NEUT;PL
 circumfundo	circumfundō	V;IND;PRS;1;SG
 venumdo	vēnumdāret	V;SBJV;PST;3;SG;IPFV
@@ -7208,7 +7208,7 @@ taciturnitatas	taciturnitatātēs	N;VOC;PL
 cymbalum	cymbalōrum	N;GEN;PL
 pullatus	pullātā	ADJ;ABL;FEM;SG
 contractivus	contractivam	ADJ;ACC;FEM;SG
-comperendino	comperendinēmur	V;SBJV;PASS:PRS;1;PL
+comperendino	comperendinēmur	V;SBJV;PASS;PRS;1;PL
 dejuro	dējurābunt	V;IND;FUT;3;PL
 phasellus	phasēllō	N;ABL;SG
 erunco	ēruncāvissēs	V;SBJV;PST;2;SG;PRF
@@ -7234,7 +7234,7 @@ feriae	fēriārum	N;GEN;SG
 obligatio	obligātiōnem	N;GEN;SG
 interlino	interlinō	V;IND;PRS;1;SG
 conecto	cōnectite	V;IMP;PRS;3;PL
-exscreo	exscreēmur	V;SBJV;PASS:PRS;1;PL
+exscreo	exscreēmur	V;SBJV;PASS;PRS;1;PL
 falco	falcō	N;NOM;SG
 comitio	comitiāveris	V;IND;FUT;2;SG;PRF
 pathologicus	pathologicae	ADJ;VOC;FEM;PL
@@ -7281,7 +7281,7 @@ cylindraceus	cylindracea	ADJ;VOC;NEUT;PL
 praesentia	praesentiīs	N;DAT;PL
 ossum	ossum	N;ACC;SG
 potor	pōtōrēs	N;NOM;PL
-dissico	dissicēmur	V;SBJV;PASS:PRS;1;PL
+dissico	dissicēmur	V;SBJV;PASS;PRS;1;PL
 manufactus	manufactō	ADJ;ABL;MASC;SG
 inlido	inlīdantur	V;SBJV;PASS;PRS;3;PL
 farcio	farciētur	V;IND;PASS;FUT;3;SG
@@ -7430,7 +7430,7 @@ supercerto	supercertāvistī	V;IND;PST;2;SG;PFV
 denominativus	dēnōminātīvī	ADJ;GEN;MASC;SG
 incuriosus	incūriōsō	ADJ;ABL;NEUT;SG
 ater	ātrās	ADJ;ACC;FEM;PL
-praeopto	praeoptābāminī	V;IND:PASS;PST;2;PL;IPFV
+praeopto	praeoptābāminī	V;IND;PASS;PST;2;PL;IPFV
 novicius	novīcium	ADJ;NOM;NEUT;SG
 piperatus	piperātus	ADJ;NOM;MASC;SG
 polabicus	polabica	ADJ;VOC;NEUT;PL
@@ -7444,7 +7444,7 @@ indigentia	indigentiīs	N;DAT;PL
 perpropinquus	perpropinquōrum	ADJ;GEN;MASC;PL
 linteolum	linteola	N;ACC;PL
 ico	īcuntor	V;IMP;PASS;FUT;3;PL
-erodo	ērōdēbāminī	V;IND:PASS;PST;2;PL;IPFV
+erodo	ērōdēbāminī	V;IND;PASS;PST;2;PL;IPFV
 impatientia	impatientiae	N;NOM;PL
 comperio	comperītur	V;IND;PASS;PRS;3;SG
 demolio	dēmōlītor	V;IMP;PASS;FUT;3;SG
@@ -7515,7 +7515,7 @@ lympho	lymphentur	V;SBJV;PASS;PRS;3;PL
 inveho	invehuntur	V;IND;PASS;PRS;3;PL
 kolymensis	kolymensibus	ADJ;ABL;NEUT;SG
 invoco	invocāminī	V;IMP;PASS;PRS;3;PL
-pisto	pistēmur	V;SBJV;PASS:PRS;1;PL
+pisto	pistēmur	V;SBJV;PASS;PRS;1;PL
 apicolus	apicola	ADJ;VOC;NEUT;PL
 serpyllum	serpylla	N;ACC;PL
 inquino	inquināvissētis	V;SBJV;PST;2;PL;PRF
@@ -7595,7 +7595,7 @@ transporto	trānsportābuntur	V;IND;PASS;FUT;3;PL
 delenio	dēlēniētur	V;IND;PASS;FUT;3;SG
 transabeo	trānsabiī	V;IND;PST;1;SG;PFV
 gothicus	gothicae	ADJ;NOM;FEM;PL
-avoco	āvocābāminī	V;IND:PASS;PST;2;PL;IPFV
+avoco	āvocābāminī	V;IND;PASS;PST;2;PL;IPFV
 subiugo	subiugāvērunt	V;IND;PST;3;PL;PFV
 reintegro	reintegrātor	V;IMP;PASS;FUT;3;SG
 complexo	complexārēmur	V;SBJV;PASS;PST;1;PL;IPFV
@@ -7676,7 +7676,7 @@ offula	offulae	N;VOC;PL
 pugneus	pugneās	ADJ;ACC;FEM;PL
 evolo	ēvolāns	V.PTCP;PRS
 praemando	praemandāvimus	V;IND;PST;1;PL;PFV
-interturbo	interturbābāminī	V;IND:PASS;PST;2;PL;IPFV
+interturbo	interturbābāminī	V;IND;PASS;PST;2;PL;IPFV
 peminosus	pēminōsa	ADJ;VOC;NEUT;PL
 superinpendo	superinpendēbāris	V;IND;PASS;PST;2;SG;IPFV
 sulfureus	sulfurea	ADJ;VOC;NEUT;PL
@@ -7900,7 +7900,7 @@ praepono	praepōnerent	V;SBJV;PST;3;PL;IPFV
 unguo	unxerim	V;SBJV;PST;1;SG;PFV
 lascivio	lascīviātur	V;SBJV;PASS;PRS;3;SG
 exterior	exterior	ADJ;NOM;MASC/FEM;SG
-fideiubeo	fidēiubēbāminī	V;IND:PASS;PST;2;PL;IPFV
+fideiubeo	fidēiubēbāminī	V;IND;PASS;PST;2;PL;IPFV
 infligo	īnflīguntur	V;IND;PASS;PRS;3;PL
 argentinus	argentīnō	ADJ;ABL;NEUT;SG
 cessio	cessiōnēs	N;ACC;PL
@@ -7911,7 +7911,7 @@ lignyzon	lignȳzōn	N;NOM;SG
 camero	camerētis	V;SBJV;PRS;2;PL
 confrico	cōnfricās	V;IND;PRS;2;SG
 vietnamicus	vietnamicīs	ADJ;ABL; PL
-hinnio	hinniāmur	V;SBJV;PASS:PRS;1;PL
+hinnio	hinniāmur	V;SBJV;PASS;PRS;1;PL
 macero	mācerāverint	V;IND;FUT;3;PL;PRF
 brevisetis	brevisēte	ADJ;VOC;NEUT;SG
 hemipterus	hemiptera	ADJ;NOM;NEUT;PL
@@ -7982,7 +7982,7 @@ taurinus	taurīnum	ADJ;ACC;NEUT;SG
 deterior	dēterior	ADJ;NOM;MASC/FEM;SG
 condescendo	condēscendēbāmur	V;IND;PASS;PST;1;PL;IPFV
 bubulus	būbulō	ADJ;ABL;NEUT;SG
-circumsepio	circumsēpiēbāminī	V;IND:PASS;PST;2;PL;IPFV
+circumsepio	circumsēpiēbāminī	V;IND;PASS;PST;2;PL;IPFV
 prolongo	prōlongent	V;SBJV;PRS;3;PL
 inspectio	īnspectiōnēs	N;ACC;PL
 auriger	aurigerum	ADJ;VOC;NEUT;SG
@@ -8075,7 +8075,7 @@ flabellatus	flābellātam	ADJ;ACC;FEM;SG
 intercludo	interclūdor	V;IND;PASS;PRS;1;SG
 depsticius	depstīciō	ADJ;ABL;NEUT;SG
 condus	condīs	N;ABL;PL
-deiero	dēierābāminī	V;IND:PASS;PST;2;PL;IPFV
+deiero	dēierābāminī	V;IND;PASS;PST;2;PL;IPFV
 armenta	armentīs	N;ABL;PL
 profano	profānārer	V;SBJV;PASS;PST;1;SG;IPFV
 garrio	garrīmur	V;IND;PASS;PRS;1;PL
@@ -8088,7 +8088,7 @@ discribo	discrīberēris	V;SBJV;PST;2;SG;IPFV
 adplumbo	adplumbārētis	V;SBJV;PST;2;PL;IPFV
 crypton	cryptīs	N;ACC;PL
 textor	textōris	N;GEN;SG
-avoco	āvocēmur	V;SBJV;PASS:PRS;1;PL
+avoco	āvocēmur	V;SBJV;PASS;PRS;1;PL
 immeritus	immeritī	ADJ;NOM;MASC;PL
 circumscribo	circumscrīberis	V;IND;PASS;PRS;2;SG
 alchemista	alchemistārum	N;GEN;PL
@@ -8118,7 +8118,7 @@ inmodicus	inmodicōrum	ADJ;GEN;NEUT;PL
 longisetus	longisētō	ADJ;DAT;MASC;SG
 brevisetus	brevisētī	ADJ;NOM;MASC;PL
 sulphureus	sulphureum	ADJ;VOC;NEUT;SG
-decurro	dēcurrāmur	V;SBJV;PASS:PRS;1;PL
+decurro	dēcurrāmur	V;SBJV;PASS;PRS;1;PL
 meretricula	merētrīculae	N;GEN;SG
 brevisetus	brevisētam	ADJ;ACC;FEM;SG
 similior	similiōris	ADJ;GEN;MASC/FEM;SG
@@ -8141,7 +8141,7 @@ plasmo	plasmātor	V;IMP;PASS;FUT;3;SG
 despumo	dēspūmāverimus	V;IND;FUT;1;PL;PRF
 exonero	exonerābāris	V;IND;PASS;PST;2;SG;IPFV
 adsentio	adsentiar	V;SBJV;PASS;PRS;1;SG
-prospero	prosperēmur	V;SBJV;PASS:PRS;1;PL
+prospero	prosperēmur	V;SBJV;PASS;PRS;1;PL
 carnaticus	carnaticae	ADJ;NOM;FEM;PL
 spelunca	spēluncae	N;NOM;PL
 afa	afa	N;NOM;SG
@@ -8154,7 +8154,7 @@ persevero	persevērāverītis	V;SBJV;PST;2;PL;PFV
 condemnatio	condemnātiōnī	N;DAT;SG
 commanduco	commandūcārēmur	V;SBJV;PASS;PST;1;PL;IPFV
 solicitus	sōlicita	ADJ;NOM;NEUT;PL
-pervestigo	pervestīgābāminī	V;IND:PASS;PST;2;PL;IPFV
+pervestigo	pervestīgābāminī	V;IND;PASS;PST;2;PL;IPFV
 subordino	subōrdināns	V.PTCP;PRS
 retendo	retenderīmus	V;SBJV;PST;1;PL;PFV
 manuteneo	manutenentor	V;IMP;PASS;FUT;3;PL
@@ -8168,7 +8168,7 @@ prophetizo	prophētīzābam	V;IND;PST;1;SG;IPFV
 rapacitas	rapācitātēs	N;ACC;PL
 exsibilo	exsībilāvissent	V;SBJV;PST;3;PL;PRF
 coronarius	corōnāria	ADJ;NOM;FEM;SG
-regero	regerāmur	V;SBJV;PASS:PRS;1;PL
+regero	regerāmur	V;SBJV;PASS;PRS;1;PL
 mollitorius	mollitōrium	ADJ;ACC;NEUT;SG
 forinsecum	forinseca	N;VOC;PL
 reveho	reveham	V;SBJV;PRS;1;SG
@@ -8238,8 +8238,8 @@ longitarsis	longitarsēs	ADJ;ACC;MASC/FEM;PL
 respergo	rēspergētur	V;IND;PASS;FUT;3;SG
 attributrix	attribūtrīcibus	N;ABL;PL
 arcesso	arcessīvit	V;IND;PST;3;SG;PFV
-circumcalco	circumcalcābāminī	V;IND:PASS;PST;2;PL;IPFV
-fervefacio	fervefīēbātis	V;IND:PASS;PST;2;PL;IPFV
+circumcalco	circumcalcābāminī	V;IND;PASS;PST;2;PL;IPFV
+fervefacio	fervefīēbātis	V;IND;PASS;PST;2;PL;IPFV
 designo	dēsignāre	V;NFIN
 fervefacio	fervefaciam	V;SBJV;PRS;1;SG
 adligo	adligāberis	V;IND;PASS;FUT;2;SG
@@ -8489,7 +8489,7 @@ vineus	vīneī	ADJ;VOC;MASC;PL
 taedeo	taeduī	V;IND;PST;1;SG;PFV
 bimus	bīmō	ADJ;DAT;FEM;SG
 convolvolus	convolvolōs	N;ACC;PL
-admutilo	admutilēmur	V;SBJV;PASS:PRS;1;PL
+admutilo	admutilēmur	V;SBJV;PASS;PRS;1;PL
 canicularis	canīculārēs	ADJ;VOC;MASC/FEM;PL
 flavipennis	flavipennia	ADJ;VOC;NEUT;PL
 aratrum	arātrum	N;GEN;SG
@@ -8498,7 +8498,7 @@ rutilus	rutilīs	ADJ;DAT;NEUT;SG
 vineaticus	vīneātica	ADJ;VOC;NEUT;PL
 flasco	flascōnibus	N;ABL;PL
 illecebra	illecebrīs	N;ABL;PL
-iudaizo	iūdaīzābāminī	V;IND:PASS;PST;2;PL;IPFV
+iudaizo	iūdaīzābāminī	V;IND;PASS;PST;2;PL;IPFV
 pervinco	pervinceret	V;SBJV;PST;3;SG;IPFV
 syntheticus	syntheticae	ADJ;VOC;FEM;PL
 obverto	obvertāminī	V;SBJV;PASS;PRS;2;PL
@@ -8605,7 +8605,7 @@ expeto	expetīvī	V;IND;PST;1;SG;PFV
 judico	jūdicābis	V;IND;FUT;2;SG
 conmoneo	conmonēbāmus	V;IND;PST;1;PL;IPFV
 bombyx	bombycēs	N;VOC;PL
-deiugo	dēiugābāminī	V;IND:PASS;PST;2;PL;IPFV
+deiugo	dēiugābāminī	V;IND;PASS;PST;2;PL;IPFV
 cytropus	cytropodī	N;DAT;SG
 tacitulus	tacitulum	ADJ;ACC;NEUT;SG
 paneros	panerīs	N;DAT;PL
@@ -9031,7 +9031,7 @@ dorsalis	dorsālēs	ADJ;NOM;MASC/FEM;PL
 abjugo	abjugāveritis	V;IND;FUT;2;PL;PRF
 perhaurio	perhauriēbant	V;IND;PST;3;PL;IPFV
 translativus	translātivus	ADJ;NOM;MASC;SG
-detono	dētonābāminī	V;IND:PASS;PST;2;PL;IPFV
+detono	dētonābāminī	V;IND;PASS;PST;2;PL;IPFV
 notio	nōtiōnibus	N;DAT;PL
 interiungo	interiungimus	V;IND;PRS;1;PL
 pulleiaceus	pullēiāceās	ADJ;ACC;FEM;PL
@@ -9102,7 +9102,7 @@ strutheus	strūtheum	ADJ;VOC;NEUT;SG
 projicio	prōjēcissem	V;SBJV;PST;1;SG;PRF
 lubido	lubīdinī	N;DAT;SG
 secuutus	secuutus	N;NOM;SG
-discutio	discutiēbāminī	V;IND:PASS;PST;2;PL;IPFV
+discutio	discutiēbāminī	V;IND;PASS;PST;2;PL;IPFV
 viperinus	viperīnī	ADJ;NOM;MASC;PL
 permeabilis	permeābile	ADJ;ACC;NEUT;SG
 quadrans	quadrantī	N;DAT;SG
@@ -9168,7 +9168,7 @@ subdeltoideus	subdeltoideā	ADJ;ABL;FEM;SG
 glossa	glossae	N;VOC;PL
 subrufus	subrūfōrum	ADJ;GEN;MASC;PL
 porcus	porcī	N;GEN;PL
-temero	temerēmur	V;SBJV;PASS:PRS;1;PL
+temero	temerēmur	V;SBJV;PASS;PRS;1;PL
 inglorius	inglōriīs	ADJ;ABL; PL
 obiectio	obiectiōnēs	N;NOM;PL
 primitivus	prīmitīvī	ADJ;GEN;MASC;SG
@@ -9419,7 +9419,7 @@ anathematizo	anathematīzābat	V;IND;PST;3;SG;IPFV
 elaboro	ēlabōrāvistī	V;IND;PST;2;SG;PFV
 inrepo	inrēpere	V;NFIN
 excubo	excubābātur	V;IND;PASS;PST;3;SG;IPFV
-perago	peragāmur	V;SBJV;PASS:PRS;1;PL
+perago	peragāmur	V;SBJV;PASS;PRS;1;PL
 transpono	trānspōnēbar	V;IND;PASS;PST;1;SG;IPFV
 suppeto	suppetātur	V;SBJV;PASS;PRS;3;SG
 ambiguitas	ambiguitās	N;VOC;SG
@@ -9455,7 +9455,7 @@ gymnicus	gymnicus	ADJ;NOM;MASC;SG
 pollingo	pollingēmur	V;IND;PASS;FUT;1;PL
 refugus	refugīs	ADJ;ABL; PL
 coincido	coincīderem	V;SBJV;PST;1;SG;IPFV
-perverto	pervertāmur	V;SBJV;PASS:PRS;1;PL
+perverto	pervertāmur	V;SBJV;PASS;PRS;1;PL
 exhonoro	exhonōrābās	V;IND;PST;2;SG;IPFV
 auctoro	auctōrābitur	V;IND;PASS;FUT;3;SG
 rejicio	rējiceret	V;SBJV;PST;3;SG;IPFV
@@ -9692,10 +9692,10 @@ mataxa	mataxae	N;GEN;SG
 gyrus	gȳrī	N;GEN;SG
 inquino	inquiner	V;SBJV;PASS;PRS;1;SG
 disciformus	disciformī	ADJ;VOC;MASC;PL
-deprehendo	dēprehendāmur	V;SBJV;PASS:PRS;1;PL
+deprehendo	dēprehendāmur	V;SBJV;PASS;PRS;1;PL
 adultera	adulterae	N;DAT;SG
 octaedron	octaedron	N;NOM;SG
-trucido	trucīdābāminī	V;IND:PASS;PST;2;PL;IPFV
+trucido	trucīdābāminī	V;IND;PASS;PST;2;PL;IPFV
 bisticosus	bisticosum	ADJ;VOC;NEUT;SG
 insimulo	īnsimulāverimus	V;IND;FUT;1;PL;PRF
 libidinosus	libīdinōsō	ADJ;DAT;FEM;SG
@@ -9740,7 +9740,7 @@ diribitor	diribitōrēs	N;NOM;PL
 petraeus	petraeae	ADJ;NOM;FEM;PL
 occursus	occursūs	N;GEN;SG
 interstellaris	interstēllārī	ADJ;ABL;MASC/FEM;SG
-fenero	fenerābāminī	V;IND:PASS;PST;2;PL;IPFV
+fenero	fenerābāminī	V;IND;PASS;PST;2;PL;IPFV
 porrectior	porrectiōre	ADJ;ABL;MASC/FEM;SG
 thiosulfatophilus	thiosulfatophilī	ADJ;VOC;MASC;PL
 dejuro	dējurāverāmus	V;IND;PST;1;PL;PRF
@@ -9772,7 +9772,7 @@ sculptura	sculptūra	N;NOM;SG
 abnuo	abnueram	V;IND;PST;1;SG;PRF
 convello	convelleris	V;IND;PASS;PRS;2;SG
 adnuntiatio	adnuntiātiōnibus	N;ABL;PL
-praetereo	praetereāmur	V;SBJV;PASS:PRS;1;PL
+praetereo	praetereāmur	V;SBJV;PASS;PRS;1;PL
 supervaco	supervacāte	V;IMP;PRS;3;PL
 derelinquo	dēreliquerīmus	V;SBJV;PST;1;PL;PFV
 discumbo	discumbēbāmus	V;IND;PST;1;PL;IPFV
@@ -9781,7 +9781,7 @@ nablizo	nablizārēminī	V;SBJV;PASS;PST;2;PL;IPFV
 intercedo	intercēdit	V;IND;PRS;3;SG
 sambiranensis	sambiranensēs	ADJ;VOC;MASC/FEM;PL
 cudo	cūdat	V;SBJV;PRS;3;SG
-territo	territābāminī	V;IND:PASS;PST;2;PL;IPFV
+territo	territābāminī	V;IND;PASS;PST;2;PL;IPFV
 astrologus	astrologī	N;GEN;SG
 astutus	astūtōrum	ADJ;GEN;NEUT;PL
 subverto	subverterint	V;IND;FUT;3;PL;PRF
@@ -9866,7 +9866,7 @@ exsectio	exsectiō	N;NOM;SG
 perungo	perungēbantur	V;IND;PASS;PST;3;PL;IPFV
 proco	procābantur	V;IND;PASS;PST;3;PL;IPFV
 praestruo	praestruāminī	V;SBJV;PASS;PRS;2;PL
-ahaesito	ahaesitēmur	V;SBJV;PASS:PRS;1;PL
+ahaesito	ahaesitēmur	V;SBJV;PASS;PRS;1;PL
 immediatus	immediātō	ADJ;DAT;FEM;SG
 suscito	suscitābitur	V;IND;PASS;FUT;3;SG
 darwinensis	darwinense	ADJ;NOM;NEUT;SG

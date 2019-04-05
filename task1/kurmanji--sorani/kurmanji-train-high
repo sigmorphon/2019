@@ -59,7 +59,7 @@ zama	zamaine	INDF;LGSPEC1;N;PL
 henase	henasea	DEF;LGSPEC1;N;SG
 kêra kalanî	kêra kalanîno	DEF;N;PL;VOC
 ve-miran	nedive-miran	1;2;3;IND;NEG;PL;PST;V;PROG
-axa bin gû: bi kêrî tu tiþtî nayê	axa bin gû: bi kêrî tu tiþtî nayêinan	INDF;N;PL;ACC
+axa bin gû; bi kêrî tu tiþtî nayê	axa bin gû; bi kêrî tu tiþtî nayêinan	INDF;N;PL;ACC
 savarok	savarokeke	INDF;LGSPEC1;N;SG;ACC
 vejartin	vejartinno	DEF;N;PL;VOC
 bihorîn	bihorîime	1;IND;POS;PRF;PRS;SG;V
@@ -200,7 +200,7 @@ qiltû miltû	qiltû miltûên	DEF;LGSPEC1;N;PL;VOC
 otorîte	otorîteinan	INDF;N;PL;ACC
 genialiteit	genialiteitno	DEF;N;PL;VOC
 þirket	þirketan	DEF;N;PL;ACC;LGSPEC2
-margiros: nêrekewê bi tenê mayî	margiros: nêrekewê bi tenê mayîo	DEF;N;SG;VOC
+margiros; nêrekewê bi tenê mayî	margiros; nêrekewê bi tenê mayîo	DEF;N;SG;VOC
 sûperhêz	sûperhêzek	INDF;N;NOM;SG
 dilþadî	dilþadîan	DEF;N;PL;ACC;LGSPEC2
 orc	orcekî	INDF;LGSPEC1;N;SG;ACC
@@ -218,7 +218,7 @@ pronom	pronoman	DEF;N;PL;ACC;LGSPEC2
 niþtimanperwerî	niþtimanperwerîan	DEF;N;PL;ACC;LGSPEC2
 ra-kirin	ra-kiribû	3;IND;POS;PRF;PST;SG;V
 pirtûkxane	pirtûkxaneeke	INDF;LGSPEC1;N;SG;ACC
-movikên stû : 7 lib in	movikên stû : 7 lib ina	DEF;LGSPEC1;N;SG
+movikên stû ; 7 lib in	movikên stû ; 7 lib ina	DEF;LGSPEC1;N;SG
 keniyan	nekeniyaine	1;2;3;IND;NEG;PL;PRF;PRS;V
 kudik	kudikinan	INDF;N;PL;ACC
 espar	espareke	INDF;LGSPEC1;N;SG;ACC
@@ -283,7 +283,7 @@ mizahirat	mizahiratine	INDF;LGSPEC1;N;PL
 benîþt	benîþtek	INDF;N;NOM;SG
 dûkêl	dûkêlekî	INDF;LGSPEC1;N;SG;ACC
 çarþema reþ	çarþema reþo	DEF;N;SG;VOC
-þîlf þûrî: þûrê tazî	þîlf þûrî: þûrê tazîeke	INDF;LGSPEC1;N;SG;ACC
+þîlf þûrî; þûrê tazî	þîlf þûrî; þûrê tazîeke	INDF;LGSPEC1;N;SG;ACC
 kerb	kerbine	INDF;LGSPEC1;N;PL
 tirabêl	tirabêlin	INDF;N;NOM;PL
 hilûreþk	hilûreþkên	DEF;LGSPEC1;N;PL;VOC
@@ -377,7 +377,7 @@ safado	safadoinan	INDF;N;PL;ACC
 bûs	bûseke	INDF;LGSPEC1;N;SG;ACC
 boke	bokeî	DEF;N;SG;LGSPEC2
 dexlûdan	dexlûdan	DEF;N;NOM;PL;SG;ACC
-gurdan : ji 3-4 tofan pêk tê	gurdan : ji 3-4 tofan pêk têî	DEF;N;SG;LGSPEC2
+gurdan ; ji 3-4 tofan pêk tê	gurdan ; ji 3-4 tofan pêk têî	DEF;N;SG;LGSPEC2
 zimanhal	zimanhalekî	INDF;LGSPEC1;N;SG;ACC
 odeya nivistinê an razanê	odeya nivistinê an razanêa	DEF;LGSPEC1;N;SG
 orta	ortao	DEF;N;SG;VOC
@@ -392,7 +392,7 @@ cebilxane	cebilxaneên	DEF;LGSPEC1;N;PL;VOC
 daqurtandin	daqurtandinin	INDF;N;NOM;PL
 têlî	têlîî	DEF;N;SG;LGSPEC2
 nerît	nerîtek	INDF;N;NOM;SG
-cîq : reþhêle	cîq : reþhêleo	DEF;N;SG;VOC
+cîq ; reþhêle	cîq ; reþhêleo	DEF;N;SG;VOC
 awistronezî	awistronezîên	DEF;LGSPEC1;N;PL;VOC
 ve-zelan	ve-zelaibûyî	2;IND;POS;PRF;PST;SG;V
 kêrika berîkê	kêrika berîkêno	DEF;N;PL;VOC
@@ -479,7 +479,7 @@ newroz	newrozên	DEF;LGSPEC1;N;PL;VOC
 mihafize	mihafizeên	DEF;LGSPEC1;N;PL;VOC
 rontgen	rontgena	DEF;LGSPEC1;N;SG
 zerar	zerarin	INDF;N;NOM;PL
-xeyan: genimê kutayî yê li dora darê coxîn kom dikin	xeyan: genimê kutayî yê li dora darê coxîn kom dikininan	INDF;N;PL;ACC
+xeyan; genimê kutayî yê li dora darê coxîn kom dikin	xeyan; genimê kutayî yê li dora darê coxîn kom dikininan	INDF;N;PL;ACC
 meþiyan/-în	nemeþiyan/-e	3;IMP;NEG;PRS;SBJV;SG;V
 karxezal	karxezalên	DEF;LGSPEC1;N;PL;VOC
 çinok	çinokan	DEF;N;PL;ACC;LGSPEC2
@@ -500,7 +500,7 @@ dirûngeh	dirûngeh	DEF;N;NOM;PL;SG;ACC
 gay	gayek	INDF;N;NOM;SG
 newe	neweên	DEF;LGSPEC1;N;PL;VOC
 verîþandin	verîþandineke	INDF;LGSPEC1;N;SG;ACC
-bûm : kund	bûm : kundeke	INDF;LGSPEC1;N;SG;ACC
+bûm ; kund	bûm ; kundeke	INDF;LGSPEC1;N;SG;ACC
 hewa	hewaeke	INDF;LGSPEC1;N;SG;ACC
 rizamendî	rizamendîin	INDF;N;NOM;PL
 rikrikîn	dirikrikî	2;3;IND;POS;PRS;PST;SG;V;IPFV;PROG
@@ -567,7 +567,7 @@ xewlî	xewlîin	INDF;N;NOM;PL
 radîkal	radîkalekî	INDF;LGSPEC1;N;SG;ACC
 tot	totinan	INDF;N;PL;ACC
 lavahî	lavahîî	DEF;N;SG;LGSPEC2
-axa bin gû: bi kêrî tu tiþtî nayê	axa bin gû: bi kêrî tu tiþtî nayêeke	INDF;LGSPEC1;N;SG;ACC
+axa bin gû; bi kêrî tu tiþtî nayê	axa bin gû; bi kêrî tu tiþtî nayêeke	INDF;LGSPEC1;N;SG;ACC
 koþik	koþikin	INDF;N;NOM;PL
 þamî	þamîeke	INDF;LGSPEC1;N;SG;ACC
 destavxane	destavxanea	DEF;LGSPEC1;N;SG
@@ -879,7 +879,7 @@ av dan	neav dame	1;IND;NEG;PRF;PRS;SG;V
 kelaþtin	kelaþtininan	INDF;N;PL;ACC
 lepik	lepikek	INDF;N;NOM;SG
 kengir	kengirê	DEF;N;SG;VOC;ACC;LGSPEC2
-þîlf þûrî: þûrê tazî	þîlf þûrî: þûrê tazîên	DEF;LGSPEC1;N;PL;VOC
+þîlf þûrî; þûrê tazî	þîlf þûrî; þûrê tazîên	DEF;LGSPEC1;N;PL;VOC
 ra-pîvan	bira-pîvaibûya	2;3;COND;POS;PRF;PST;SG;V
 fotokopîker	fotokopîkerek	INDF;N;NOM;SG
 kartosk	kartoskan	DEF;N;PL;ACC;LGSPEC2
@@ -891,7 +891,7 @@ palûte	palûteên	DEF;LGSPEC1;N;PL;VOC
 ademîza	ademîzaî	DEF;N;SG;LGSPEC2
 kirîvantî	kirîvantîan	DEF;N;PL;ACC;LGSPEC2
 gûzek	gûzeko	DEF;N;SG;VOC
-serþîr: serê þîrê xav e	serþîr: serê þîrê xav eî	DEF;N;SG;LGSPEC2
+serþîr; serê þîrê xav e	serþîr; serê þîrê xav eî	DEF;N;SG;LGSPEC2
 tizbî	tizbîin	INDF;N;NOM;PL
 zingar	zingarinan	INDF;N;PL;ACC
 cînayet	cînayeteke	INDF;LGSPEC1;N;SG;ACC
@@ -950,7 +950,7 @@ kakeyî	kakeyîine	INDF;LGSPEC1;N;PL
 koalisyon	koalisyonin	INDF;N;NOM;PL
 asinger	asingero	DEF;N;SG;VOC
 xalid	xalidine	INDF;LGSPEC1;N;PL
-bargeh: dergah	bargeh: dergahî	DEF;N;SG;LGSPEC2
+bargeh; dergah	bargeh; dergahî	DEF;N;SG;LGSPEC2
 sorgul	sorgulan	DEF;N;PL;ACC;LGSPEC2
 belûr	belûra	DEF;LGSPEC1;N;SG
 zencefîl	zencefîlo	DEF;N;SG;VOC
@@ -1139,7 +1139,7 @@ hil-weþîn	nehil-weþyî	2;NEG;PRS;SBJV;SG;V
 fahm kirin	nefahm kiriama	1;COND;NEG;PST;SG;V
 kezab	kezabê	DEF;N;SG;VOC;ACC;LGSPEC2
 þewitandin	diþewitîne	3;IND;POS;PRS;SG;V;IPFV
-delîlê heyiriyan : rêberê bêçareyan	delîlê heyiriyan : rêberê bêçareyanî	DEF;N;SG;LGSPEC2
+delîlê heyiriyan ; rêberê bêçareyan	delîlê heyiriyan ; rêberê bêçareyanî	DEF;N;SG;LGSPEC2
 skotîn	skotînek	INDF;N;NOM;SG
 kêmî	kêmîeke	INDF;LGSPEC1;N;SG;ACC
 birrîn	dibirryî	2;IND;POS;PRS;SG;V;IPFV
@@ -1229,7 +1229,7 @@ erefat	erefatine	INDF;LGSPEC1;N;PL
 zererker	zererkero	DEF;N;SG;VOC
 mewsîm	mewsîmeke	INDF;LGSPEC1;N;SG;ACC
 îlet	îleta	DEF;LGSPEC1;N;SG
-kirr : girê bê dar	kirr : girê bê darên	DEF;LGSPEC1;N;PL;VOC
+kirr ; girê bê dar	kirr ; girê bê darên	DEF;LGSPEC1;N;PL;VOC
 xwarin	naxwî	2;IND;NEG;PRS;SG;V;IPFV
 karpêker	karpêkerinan	INDF;N;PL;ACC
 ding	dingin	INDF;N;NOM;PL
@@ -1263,7 +1263,7 @@ dêþîr	dêþîrek	INDF;N;NOM;SG
 sifteh	siftehine	INDF;LGSPEC1;N;PL
 bulsá	bulsáinan	INDF;N;PL;ACC
 þilek	þilekno	DEF;N;PL;VOC
-sîlank: kêra bê destî	sîlank: kêra bê destî	DEF;N;NOM;PL;SG;ACC
+sîlank; kêra bê destî	sîlank; kêra bê destî	DEF;N;NOM;PL;SG;ACC
 tevger	tevgerin	INDF;N;NOM;PL
 kirtînî	kirtînîê	DEF;N;SG;VOC;ACC;LGSPEC2
 berdêlî	berdêlîine	INDF;LGSPEC1;N;PL
@@ -1290,7 +1290,7 @@ da-kutan	da-kutame	1;IND;POS;PRF;PRS;SG;V
 majetok	majetokno	DEF;N;PL;VOC
 ao	aoên	DEF;LGSPEC1;N;PL;VOC
 iyar	iyarekî	INDF;LGSPEC1;N;SG;ACC
-liq: ji 3-4 hengan û yekîneyên pêwist pêk tê. jimara leþkeran ji 7000 heta 18000 diguhire	liq: ji 3-4 hengan û yekîneyên pêwist pêk tê. jimara leþkeran ji 7000 heta 18000 diguhireine	INDF;LGSPEC1;N;PL
+liq; ji 3-4 hengan û yekîneyên pêwist pêk tê. jimara leþkeran ji 7000 heta 18000 diguhire	liq; ji 3-4 hengan û yekîneyên pêwist pêk tê. jimara leþkeran ji 7000 heta 18000 diguhireine	INDF;LGSPEC1;N;PL
 solopgang	solopgangên	DEF;LGSPEC1;N;PL;VOC
 rojbûn	rojbûna	DEF;LGSPEC1;N;SG
 niçandin	niçandinên	DEF;LGSPEC1;N;PL;VOC
@@ -1426,7 +1426,7 @@ bazdonek	bazdonekine	INDF;LGSPEC1;N;PL
 adinê rojê	adinê rojêno	DEF;N;PL;VOC
 fergûn	fergûnên	DEF;LGSPEC1;N;PL;VOC
 standard	standardek	INDF;N;NOM;SG
-qemelax : nêçîra kîvroþkan a di berfa pûk de	qemelax : nêçîra kîvroþkan a di berfa pûk deê	DEF;LGSPEC1;N;SG;VOC;ACC;LGSPEC2
+qemelax ; nêçîra kîvroþkan a di berfa pûk de	qemelax ; nêçîra kîvroþkan a di berfa pûk deê	DEF;LGSPEC1;N;SG;VOC;ACC;LGSPEC2
 nehik	nehikeke	INDF;LGSPEC1;N;SG;ACC
 enflasyon	enflasyono	DEF;N;SG;VOC
 istiare	istiareek	INDF;N;NOM;SG
@@ -1437,7 +1437,7 @@ tarawge	tarawgeno	DEF;N;PL;VOC
 orispî	orispîan	DEF;N;PL;ACC;LGSPEC2
 razanxane	razanxaneên	DEF;LGSPEC1;N;PL;VOC
 sikûm	sikûmo	DEF;N;SG;VOC
-delîlê heyiriyan : rêberê bêçareyan	delîlê heyiriyan : rêberê bêçareyaninan	INDF;N;PL;ACC
+delîlê heyiriyan ; rêberê bêçareyan	delîlê heyiriyan ; rêberê bêçareyaninan	INDF;N;PL;ACC
 sijîn	nesijîyî	2;IND;NEG;PFV;PST;SG;V
 diyabet	diyabet	DEF;N;NOM;PL;SG
 lîberalîzm	lîberalîzmno	DEF;N;PL;VOC
@@ -1866,7 +1866,7 @@ ha	haan	DEF;N;PL;ACC;LGSPEC2
 zext	zextên	DEF;LGSPEC1;N;PL;VOC
 logo	logoan	DEF;N;PL;ACC;LGSPEC2
 hilkirin	hilkirinan	DEF;N;PL;ACC;LGSPEC2
-gome : kevirê mezin û giran ê ku ji ciyê xwe nalebite	gome : kevirê mezin û giran ê ku ji ciyê xwe nalebitein	INDF;N;NOM;PL
+gome ; kevirê mezin û giran ê ku ji ciyê xwe nalebite	gome ; kevirê mezin û giran ê ku ji ciyê xwe nalebitein	INDF;N;NOM;PL
 wesle	wesleê	DEF;N;SG;VOC;ACC;LGSPEC2
 sûþî	sûþîan	DEF;N;PL;ACC;LGSPEC2
 samogîtî	samogîtîa	DEF;LGSPEC1;N;SG
@@ -2070,7 +2070,7 @@ hundur	hundurekî	INDF;LGSPEC1;N;SG;ACC
 kifþ	kifþekî	INDF;LGSPEC1;N;SG;ACC
 destûr	destûr	DEF;N;NOM;PL;SG
 kemxa	kemxano	DEF;N;PL;VOC
-avzêr : ava zêr	avzêr : ava zêran	DEF;N;PL;ACC;LGSPEC2
+avzêr ; ava zêr	avzêr ; ava zêran	DEF;N;PL;ACC;LGSPEC2
 musîbet	musîbetekî	INDF;LGSPEC1;N;SG;ACC
 þonayî	þonayîinan	INDF;N;PL;ACC
 bazara kar	bazara karî	DEF;N;SG;LGSPEC2
@@ -2110,7 +2110,7 @@ kefteleft	kefteleftin	INDF;N;NOM;PL
 internetkafê	internetkafêa	DEF;LGSPEC1;N;SG
 noqav	noqavinan	INDF;N;PL;ACC
 tifik	tifikan	DEF;N;PL;ACC;LGSPEC2
-qerisok : nanê ji arvanê nîskan çêkirî	qerisok : nanê ji arvanê nîskan çêkirîinan	INDF;N;PL;ACC
+qerisok ; nanê ji arvanê nîskan çêkirî	qerisok ; nanê ji arvanê nîskan çêkirîinan	INDF;N;PL;ACC
 av û hewa	av û hewaê	DEF;N;SG;VOC;ACC;LGSPEC2
 çop	çopên	DEF;LGSPEC1;N;PL;VOC
 mexzen	mexzeninan	INDF;N;PL;ACC
@@ -2149,7 +2149,7 @@ pitik	pitikno	DEF;N;PL;VOC
 bizaþtîr	bizaþtîr	DEF;N;NOM;PL;SG;ACC
 yekta	yektaa	DEF;LGSPEC1;N;SG
 viyagra	viyagraên	DEF;LGSPEC1;N;PL;VOC
-gulgeþt: seyran û geþta nav gulan	gulgeþt: seyran û geþta nav gulanan	DEF;N;PL;ACC;LGSPEC2
+gulgeþt; seyran û geþta nav gulan	gulgeþt; seyran û geþta nav gulanan	DEF;N;PL;ACC;LGSPEC2
 pilot	pilotek	INDF;N;NOM;SG
 aca diran	aca diranê	DEF;LGSPEC1;N;SG;VOC;ACC;LGSPEC2
 bernas	bernaseke	INDF;LGSPEC1;N;SG;ACC
@@ -2475,7 +2475,7 @@ fîlozof	fîlozofek	INDF;N;NOM;SG
 îbranî	îbranîeke	INDF;LGSPEC1;N;SG;ACC
 sena	senain	INDF;N;NOM;PL
 rêvîng	rêvîngno	DEF;N;PL;VOC
-dêlindêz : ayîna dînî	dêlindêz : ayîna dînîin	INDF;N;NOM;PL
+dêlindêz ; ayîna dînî	dêlindêz ; ayîna dînîin	INDF;N;NOM;PL
 mezeloq	mezeloqek	INDF;N;NOM;SG
 gewriya malzarûkê	gewriya malzarûkêo	DEF;N;SG;VOC
 bakuzîr	bakuzîrek	INDF;N;NOM;SG
@@ -2743,7 +2743,7 @@ qelaç	qelaçî	DEF;N;SG;LGSPEC2
 ziblê madenî	ziblê madenîa	DEF;LGSPEC1;N;SG
 qelîþt	qelîþtno	DEF;N;PL;VOC
 orijîn	orijîn	DEF;N;NOM;PL;SG;ACC
-xeyan: genimê kutayî yê li dora darê coxîn kom dikin	xeyan: genimê kutayî yê li dora darê coxîn kom dikinno	DEF;N;PL;VOC
+xeyan; genimê kutayî yê li dora darê coxîn kom dikin	xeyan; genimê kutayî yê li dora darê coxîn kom dikinno	DEF;N;PL;VOC
 talhur	talhuro	DEF;N;SG;VOC
 vemirandin	nevemirandiûna	1;COND;NEG;PL;PRF;PST;V
 xelîc	xelîcine	INDF;LGSPEC1;N;PL
@@ -2840,7 +2840,7 @@ sarox	saroxa	DEF;LGSPEC1;N;SG
 doskî	doskîa	DEF;LGSPEC1;N;SG
 armada	armadaan	DEF;N;PL;ACC;LGSPEC2
 nûk	nûkine	INDF;LGSPEC1;N;PL
-serþîr: serê þîrê xav e	serþîr: serê þîrê xav e	DEF;N;NOM;PL;SG;ACC
+serþîr; serê þîrê xav e	serþîr; serê þîrê xav e	DEF;N;NOM;PL;SG;ACC
 nuxumîn	dinuxum	3;IND;POS;PRS;SG;V;IPFV
 galaksî	galaksîa	DEF;LGSPEC1;N;SG
 behs kirin	bibehs kiriana	1;2;3;COND;PL;POS;PST;V
@@ -3000,7 +3000,7 @@ boq	boqên	DEF;LGSPEC1;N;PL;VOC
 orispîtî	orispîtîno	DEF;N;PL;VOC
 pirika mêîj	pirika mêîjeke	INDF;LGSPEC1;N;SG;ACC
 fatûre	fatûreê	DEF;N;SG;VOC;ACC;LGSPEC2
-bixaltî : zarokên xaltiyê	bixaltî : zarokên xaltiyêin	INDF;N;NOM;PL
+bixaltî ; zarokên xaltiyê	bixaltî ; zarokên xaltiyêin	INDF;N;NOM;PL
 rewac	rewacan	DEF;N;PL;ACC;LGSPEC2
 zarîn	nezarîbûna	1;2;3;COND;NEG;PL;PRF;PST;V
 da-avêtin	da-avêtin	1;2;3;IND;PFV;PL;POS;PST;V;V.MSDR
@@ -3227,7 +3227,7 @@ hestiyê hinarikê	hestiyê hinarikêo	DEF;N;SG;VOC
 edilandin	biedilînî	2;POS;PRS;SBJV;SG;V
 niqutîn	niqutîna	LGSPEC1;V;V.MSDR
 tirþeþirînî	tirþeþirînîa	DEF;LGSPEC1;N;SG
-þûrkêþ : 1) þûrbaz	þûrkêþ : 1) þûrbazo	DEF;N;SG;VOC
+þûrkêþ ; 1) þûrbaz	þûrkêþ ; 1) þûrbazo	DEF;N;SG;VOC
 sîlo	sîloin	INDF;N;NOM;PL
 qedandin	neqedandî	2;IND;NEG;PFV;PST;SG;V;V.PTCP
 esirandin	esirandininan	INDF;N;PL;ACC
@@ -3315,7 +3315,7 @@ nasyonalîst	nasyonalîsta	DEF;LGSPEC1;N;SG
 proton	protonin	INDF;N;NOM;PL
 atayalî	atayalîek	INDF;N;NOM;SG
 amyan	amyanên	DEF;LGSPEC1;N;PL;VOC
-demþûr : þîreya meywe û zebze ya ku bi destê meriv dizeliqe	demþûr : þîreya meywe û zebze ya ku bi destê meriv dizeliqea	DEF;LGSPEC1;N;SG
+demþûr ; þîreya meywe û zebze ya ku bi destê meriv dizeliqe	demþûr ; þîreya meywe û zebze ya ku bi destê meriv dizeliqea	DEF;LGSPEC1;N;SG
 dûjeh	dûjeh	DEF;N;NOM;PL;SG
 kesidandin	kesidandinên	DEF;LGSPEC1;N;PL;VOC
 tikêt	tikêt	DEF;N;NOM;PL;SG
@@ -3323,7 +3323,7 @@ samahán	samahánê	DEF;LGSPEC1;N;SG;VOC;ACC;LGSPEC2
 simsimîn	nesimsimîana	1;2;3;COND;NEG;PL;PST;V
 waqe	waqeine	INDF;LGSPEC1;N;PL
 ozan	ozanî	DEF;N;SG;LGSPEC2
-bersoîj: berþoþî	bersoîj: berþoþîan	DEF;N;PL;ACC;LGSPEC2
+bersoîj; berþoþî	bersoîj; berþoþîan	DEF;N;PL;ACC;LGSPEC2
 rehê bihîstinê	rehê bihîstinêên	DEF;LGSPEC1;N;PL;VOC
 komar	komarin	INDF;N;NOM;PL
 halan	halanno	DEF;N;PL;VOC
@@ -3418,7 +3418,7 @@ hûrde	hûrdeek	INDF;N;NOM;SG
 istiqamet	istiqametên	DEF;LGSPEC1;N;PL;VOC
 hut	hutine	INDF;LGSPEC1;N;PL
 ciwanmêr	ciwanmêra	DEF;LGSPEC1;N;SG
-piþrûk : 1) hevîrê ku baþ nehatiye histiran	piþrûk : 1) hevîrê ku baþ nehatiye histiran	DEF;N;NOM;PL;SG;ACC
+piþrûk ; 1) hevîrê ku baþ nehatiye histiran	piþrûk ; 1) hevîrê ku baþ nehatiye histiran	DEF;N;NOM;PL;SG;ACC
 qefil	qefilno	DEF;N;PL;VOC
 pîng	pîngine	INDF;LGSPEC1;N;PL
 don	dona	DEF;LGSPEC1;N;SG
@@ -3483,7 +3483,7 @@ da-liqandin	neda-liqandiban	1;2;3;COND;NEG;PL;PRF;PST;V
 þolgenîk	þolgenîkî	DEF;N;SG;LGSPEC2
 monument	monumentine	INDF;LGSPEC1;N;PL
 serbajar	serbajarno	DEF;N;PL;VOC
-keçebav : keça bi esl	keçebav : keça bi eslekî	INDF;LGSPEC1;N;SG;ACC
+keçebav ; keça bi esl	keçebav ; keça bi eslekî	INDF;LGSPEC1;N;SG;ACC
 behî	behîo	DEF;N;SG;VOC
 awayê bangkî	awayê bangkî	DEF;N;NOM;PL;SG;ACC
 zengîn	zengîneke	INDF;LGSPEC1;N;SG;ACC
@@ -3695,7 +3695,7 @@ gay	gayno	DEF;N;PL;VOC
 dêmgeh	dêmgehine	INDF;LGSPEC1;N;PL
 ambasador	ambasadorine	INDF;LGSPEC1;N;PL
 munasebet	munasebeteke	INDF;LGSPEC1;N;SG;ACC
-kirr : girê bê dar	kirr : girê bê darî	DEF;N;SG;LGSPEC2
+kirr ; girê bê dar	kirr ; girê bê darî	DEF;N;SG;LGSPEC2
 tedrîb	tedrîbên	DEF;LGSPEC1;N;PL;VOC
 xeyal	xeyalê	DEF;N;SG;VOC;ACC;LGSPEC2
 dûberxok	dûberxokên	DEF;LGSPEC1;N;PL;VOC
@@ -3950,7 +3950,7 @@ taþandin	taþandinê	DEF;N;SG;VOC;ACC;LGSPEC2
 bahane	bahaneek	INDF;N;NOM;SG
 agha	aghaekî	INDF;LGSPEC1;N;SG;ACC
 axaftin	neaxafve	3;IMP;NEG;PRS;SBJV;SG;V
-darê coxînê: darikê di nîveka bêderê de ye	darê coxînê: darikê di nîveka bêderê de yeeke	INDF;LGSPEC1;N;SG;ACC
+darê coxînê; darikê di nîveka bêderê de ye	darê coxînê; darikê di nîveka bêderê de yeeke	INDF;LGSPEC1;N;SG;ACC
 veciniqîn	veciniqîninan	INDF;N;PL;ACC
 þot	þot	DEF;N;NOM;PL;SG
 gijgijîn	digijgijm	1;IND;POS;PRS;SG;V;IPFV
@@ -3997,10 +3997,10 @@ zimanok	zimanokno	DEF;N;PL;VOC
 totem	totemek	INDF;N;NOM;SG
 ahar	ahara	DEF;LGSPEC1;N;SG
 caxî	caxîinan	INDF;N;PL;ACC
-poxîn : genimê qelandî û hûrkirî	poxîn : genimê qelandî û hûrkirîin	INDF;N;NOM;PL
+poxîn ; genimê qelandî û hûrkirî	poxîn ; genimê qelandî û hûrkirîin	INDF;N;NOM;PL
 hevserok	hevserokek	INDF;N;NOM;SG
 mewt	mewtin	INDF;N;NOM;PL
-terwende : berê nû	terwende : berê nûek	INDF;N;NOM;SG
+terwende ; berê nû	terwende ; berê nûek	INDF;N;NOM;SG
 malzeme	malzemein	INDF;N;NOM;PL
 çirûsk	çirûskên	DEF;LGSPEC1;N;PL;VOC
 qefilîn	qefilîn	1;2;3;DEF;IND;N;NOM;PFV;PL;POS;PST;SG;V;V.MSDR
@@ -4133,14 +4133,14 @@ pîvazterk	pîvazterko	DEF;N;SG;VOC
 hamî	hamîo	DEF;N;SG;VOC
 barûdox	barûdoxine	INDF;LGSPEC1;N;PL
 gum	gumên	DEF;LGSPEC1;N;PL;VOC
-þewla rojê : tîrêja rojê	þewla rojê : tîrêja rojêê	DEF;LGSPEC1;N;SG;VOC;ACC;LGSPEC2
+þewla rojê ; tîrêja rojê	þewla rojê ; tîrêja rojêê	DEF;LGSPEC1;N;SG;VOC;ACC;LGSPEC2
 megafon	megafonekî	INDF;LGSPEC1;N;SG;ACC
 pîpo	pîpoinan	INDF;N;PL;ACC
 xitimandin	bixitimînn	1;2;3;IMP;PL;POS;PRS;SBJV;V
 bare	bareek	INDF;N;NOM;SG
 tawis	tawiso	DEF;N;SG;VOC
 pesnê	pesnê	DEF;N;NOM;PL;SG;ACC
-pehnava rezan : pehniya nav rezan	pehnava rezan : pehniya nav rezanno	DEF;N;PL;VOC
+pehnava rezan ; pehniya nav rezan	pehnava rezan ; pehniya nav rezanno	DEF;N;PL;VOC
 sî	sîê	DEF;N;SG;VOC;ACC;LGSPEC2
 grek	grekine	INDF;LGSPEC1;N;PL
 iktisar	iktisarî	DEF;N;SG;LGSPEC2
@@ -4182,7 +4182,7 @@ qewimîn	biqewimîa	3;COND;POS;PST;SG;V
 herriþandin	herriþandinek	INDF;N;NOM;SG
 pînedoz	pînedoz	DEF;N;NOM;PL;SG;ACC
 selb	selbine	INDF;LGSPEC1;N;PL
-þewla rojê : tîrêja rojê	þewla rojê : tîrêja rojêeke	INDF;LGSPEC1;N;SG;ACC
+þewla rojê ; tîrêja rojê	þewla rojê ; tîrêja rojêeke	INDF;LGSPEC1;N;SG;ACC
 xiristiyanî	xiristiyanîan	DEF;N;PL;ACC;LGSPEC2
 gihistin	negihistibayî	2;COND;NEG;PRF;PST;SG;V
 misamehe	misameheno	DEF;N;PL;VOC
@@ -4245,7 +4245,7 @@ susónyan	susónyanin	INDF;N;NOM;PL
 qewitandin	qewitandinno	DEF;N;PL;VOC
 kilmûþ	kilmûþekî	INDF;LGSPEC1;N;SG;ACC
 liyan	liyanekî	INDF;LGSPEC1;N;SG;ACC
-qerisok : nanê ji arvanê nîskan çêkirî	qerisok : nanê ji arvanê nîskan çêkirîno	DEF;N;PL;VOC
+qerisok ; nanê ji arvanê nîskan çêkirî	qerisok ; nanê ji arvanê nîskan çêkirîno	DEF;N;PL;VOC
 kef û kinc	kef û kincine	INDF;LGSPEC1;N;PL
 itibar	itibarinan	INDF;N;PL;ACC
 hawik	hawikinan	INDF;N;PL;ACC
@@ -4498,7 +4498,7 @@ bizav	bizav	DEF;N;NOM;PL;SG
 bermemk	bermemkinan	INDF;N;PL;ACC
 kulah	kulahê	DEF;LGSPEC1;N;SG
 çaydan	çaydanno	DEF;N;PL;VOC
-tof: ji 3-4 desteyan pêk tê	tof: ji 3-4 desteyan pêk têno	DEF;N;PL;VOC
+tof; ji 3-4 desteyan pêk tê	tof; ji 3-4 desteyan pêk têno	DEF;N;PL;VOC
 qomî	qomîî	DEF;N;SG;LGSPEC2
 mole	molea	DEF;LGSPEC1;N;SG
 heþer	heþeran	DEF;N;PL;ACC;LGSPEC2
@@ -4767,7 +4767,7 @@ dewmast	dewmastine	INDF;LGSPEC1;N;PL
 milîtan	milîtanin	INDF;N;NOM;PL
 rex	rexinan	INDF;N;PL;ACC
 dizîker	dizîkeran	DEF;N;PL;ACC;LGSPEC2
-qursik : xwarineke kurdî; hevîr û hêk û rûn bi çemçik an heskê dixin nav rûnê qijirandî	qursik : xwarineke kurdî; hevîr û hêk û rûn bi çemçik an heskê dixin nav rûnê qijirandîên	DEF;LGSPEC1;N;PL;VOC
+qursik ; xwarineke kurdî; hevîr û hêk û rûn bi çemçik an heskê dixin nav rûnê qijirandî	qursik ; xwarineke kurdî; hevîr û hêk û rûn bi çemçik an heskê dixin nav rûnê qijirandîên	DEF;LGSPEC1;N;PL;VOC
 hevkêþe	hevkêþeinan	INDF;N;PL;ACC
 malbelaþ	malbelaþin	INDF;N;NOM;PL
 trãdare	trãdareê	DEF;LGSPEC1;N;SG;VOC;ACC;LGSPEC2
@@ -5060,7 +5060,7 @@ aþyan	aþyaneke	INDF;LGSPEC1;N;SG;ACC
 jiberbirin	jiberbirineke	INDF;LGSPEC1;N;SG;ACC
 mikemeliyet	mikemeliyetek	INDF;N;NOM;SG
 ayar	ayarên	DEF;LGSPEC1;N;PL;VOC
-liq: ji 3-4 hengan û yekîneyên pêwist pêk tê. jimara leþkeran ji 7000 heta 18000 diguhire	liq: ji 3-4 hengan û yekîneyên pêwist pêk tê. jimara leþkeran ji 7000 heta 18000 diguhireo	DEF;N;SG;VOC
+liq; ji 3-4 hengan û yekîneyên pêwist pêk tê. jimara leþkeran ji 7000 heta 18000 diguhire	liq; ji 3-4 hengan û yekîneyên pêwist pêk tê. jimara leþkeran ji 7000 heta 18000 diguhireo	DEF;N;SG;VOC
 galik	galiko	DEF;N;SG;VOC
 zazakî	zazakîa	DEF;LGSPEC1;N;SG
 rêçare	rêçareinan	INDF;N;PL;ACC
@@ -5126,7 +5126,7 @@ kerax	keraxine	INDF;LGSPEC1;N;PL
 dilêþî	dilêþîê	DEF;N;SG;VOC;ACC;LGSPEC2
 sîpelk	sîpelkine	INDF;LGSPEC1;N;PL
 talþîr	talþîrî	DEF;N;SG;LGSPEC2
-demþûr : þîreya meywe û zebze ya ku bi destê meriv dizeliqe	demþûr : þîreya meywe û zebze ya ku bi destê meriv dizeliqeine	INDF;LGSPEC1;N;PL
+demþûr ; þîreya meywe û zebze ya ku bi destê meriv dizeliqe	demþûr ; þîreya meywe û zebze ya ku bi destê meriv dizeliqeine	INDF;LGSPEC1;N;PL
 gok	gokin	INDF;N;NOM;PL
 sediqandin	sediqandina	DEF;LGSPEC1;N;SG
 beden	bedeno	DEF;N;SG;VOC
@@ -5807,7 +5807,7 @@ fanorî	fanorîan	DEF;N;PL;ACC;LGSPEC2
 kulmik	kulmikan	DEF;N;PL;ACC;LGSPEC2
 cisir	cisirekî	INDF;LGSPEC1;N;SG;ACC
 iflas	iflasa	DEF;LGSPEC1;N;SG
-tof: ji 3-4 desteyan pêk tê	tof: ji 3-4 desteyan pêk têa	DEF;LGSPEC1;N;SG
+tof; ji 3-4 desteyan pêk tê	tof; ji 3-4 desteyan pêk têa	DEF;LGSPEC1;N;SG
 mîm	mîman	DEF;N;PL;ACC;LGSPEC2
 remz	remzek	INDF;N;NOM;SG
 bîber	bîber	DEF;N;NOM;PL;SG;ACC
@@ -5823,7 +5823,7 @@ lebikîn	lebikînan	DEF;N;PL;ACC;LGSPEC2
 lawij	lawijine	INDF;LGSPEC1;N;PL
 aktîvî	aktîvîê	DEF;N;SG;VOC;ACC;LGSPEC2
 dimik	dimikin	INDF;N;NOM;PL
-movikên stû : 7 lib in	movikên stû : 7 lib ininan	INDF;N;PL;ACC
+movikên stû ; 7 lib in	movikên stû ; 7 lib ininan	INDF;N;PL;ACC
 altax	altaxin	INDF;N;NOM;PL
 rêtin	birêtiana	1;2;3;COND;PL;POS;PST;V
 qelpeçîçik	qelpeçîçikan	DEF;N;PL;ACC;LGSPEC2
@@ -5966,7 +5966,7 @@ bizivîn	bizivînek	INDF;N;NOM;SG
 melûlî	melûlîin	INDF;N;NOM;PL
 jiyandin	jiyandinan	DEF;N;PL;ACC;LGSPEC2
 hilç	hilço	DEF;N;SG;VOC
-wexm : bîhna nexweþ	wexm : bîhna nexweþa	DEF;LGSPEC1;N;SG
+wexm ; bîhna nexweþ	wexm ; bîhna nexweþa	DEF;LGSPEC1;N;SG
 hêþ	hêþa	DEF;LGSPEC1;N;SG
 kêfxweþî	kêfxweþîek	INDF;N;NOM;SG
 balyozxane	balyozxaneno	DEF;N;PL;VOC
@@ -5990,7 +5990,7 @@ gir	girî	DEF;N;SG;LGSPEC2
 aprax	aprax	DEF;N;NOM;PL;SG
 cîguherîn	cîguherînin	INDF;N;NOM;PL
 negasyon	negasyonan	DEF;N;PL;ACC;LGSPEC2
-zugurt: bê çare	zugurt: bê çarean	DEF;N;PL;ACC;LGSPEC2
+zugurt; bê çare	zugurt; bê çarean	DEF;N;PL;ACC;LGSPEC2
 kîrîbatî	kîrîbatîên	DEF;LGSPEC1;N;PL;VOC
 vamî	vamîên	DEF;LGSPEC1;N;PL;VOC
 hind-û-ewropî	hind-û-ewropîin	INDF;N;NOM;PL
@@ -6056,7 +6056,7 @@ gezik	gezikin	INDF;N;NOM;PL
 çavbeloq	çavbeloqno	DEF;N;PL;VOC
 navnîþan	navnîþanan	DEF;N;PL;ACC;LGSPEC2
 risq	risqinan	INDF;N;PL;ACC
-bûm : kund	bûm : kundine	INDF;LGSPEC1;N;PL
+bûm ; kund	bûm ; kundine	INDF;LGSPEC1;N;PL
 hevbend	hevbendî	DEF;N;SG;LGSPEC2
 çîpzer e	çîpzer eeke	INDF;LGSPEC1;N;SG;ACC
 bahol	baholin	INDF;N;NOM;PL
@@ -6134,7 +6134,7 @@ cesed	cesedekî	INDF;LGSPEC1;N;SG;ACC
 karûþ	karûþeke	INDF;LGSPEC1;N;SG;ACC
 ewtîn	neewtîibam	1;COND;NEG;PRF;PST;SG;V
 rutbe	rutbeî	DEF;N;SG;LGSPEC2
-panav : deþta bilind a rast	panav : deþta bilind a rastinan	INDF;N;PL;ACC
+panav ; deþta bilind a rast	panav ; deþta bilind a rastinan	INDF;N;PL;ACC
 canemerg	canemerginan	INDF;N;PL;ACC
 kutlik	kutlik	DEF;N;NOM;PL;SG;ACC
 feliþîn	feliþîninan	INDF;N;PL;ACC
@@ -6465,7 +6465,7 @@ xêrxwazî	xêrxwazîno	DEF;N;PL;VOC
 rexnegir	rexnegir	DEF;N;NOM;PL;SG;ACC
 qaçûr	qaçûrno	DEF;N;PL;VOC
 hiqûqa giþtî	hiqûqa giþtîê	DEF;LGSPEC1;N;SG;VOC;ACC;LGSPEC2
-nikar : cinsekî kilsê	nikar : cinsekî kilsêin	INDF;N;NOM;PL
+nikar ; cinsekî kilsê	nikar ; cinsekî kilsêin	INDF;N;NOM;PL
 baranîk	baranîkno	DEF;N;PL;VOC
 kek	kekno	DEF;N;PL;VOC
 bazder	bazderî	DEF;N;SG;LGSPEC2
@@ -6498,7 +6498,7 @@ gozik	goziko	DEF;N;SG;VOC
 zûkanî	zûkanî	DEF;N;NOM;PL;SG
 keçmam	keçmama	DEF;LGSPEC1;N;SG
 þivanîtî	þivanîtîan	DEF;N;PL;ACC;LGSPEC2
-þewla rojê : tîrêja rojê	þewla rojê : tîrêja rojêo	DEF;N;SG;VOC
+þewla rojê ; tîrêja rojê	þewla rojê ; tîrêja rojêo	DEF;N;SG;VOC
 psîkyatrî	psîkyatrîên	DEF;LGSPEC1;N;PL;VOC
 kûre	kûreê	DEF;LGSPEC1;N;SG;VOC;ACC;LGSPEC2
 venan	venano	DEF;N;SG;VOC
@@ -6602,7 +6602,7 @@ maz dibe tirmaz	maz dibe tirmaz	DEF;N;NOM;PL;SG;ACC
 perestroyka	perestroykaine	INDF;LGSPEC1;N;PL
 tehlûke	tehlûke	DEF;N;NOM;PL;SG
 pembû	pembû	DEF;N;NOM;PL;SG;ACC
-nikar : cinsekî kilsê	nikar : cinsekî kilsêan	DEF;N;PL;ACC;LGSPEC2
+nikar ; cinsekî kilsê	nikar ; cinsekî kilsêan	DEF;N;PL;ACC;LGSPEC2
 lingê paþî	lingê paþîine	INDF;LGSPEC1;N;PL
 irc	ircekî	INDF;LGSPEC1;N;SG;ACC
 qapan	qapanine	INDF;LGSPEC1;N;PL
@@ -6640,7 +6640,7 @@ tixûb	tixûbno	DEF;N;PL;VOC
 kleptoman	kleptomanê	DEF;LGSPEC1;N;SG;VOC;ACC;LGSPEC2
 senîmenî	senîmenî	DEF;N;NOM;PL;SG;ACC
 dizîkerî	dizîkerîeke	INDF;LGSPEC1;N;SG;ACC
-zugurt: bê çare	zugurt: bê çareine	INDF;LGSPEC1;N;PL
+zugurt; bê çare	zugurt; bê çareine	INDF;LGSPEC1;N;PL
 kameraman	kameramanan	DEF;N;PL;ACC;LGSPEC2
 ve-qetiyan	nedive-qetiyain	1;2;3;IND;NEG;PL;PST;V;PROG
 qomî	qomîan	DEF;N;PL;ACC;LGSPEC2
@@ -6660,7 +6660,7 @@ jimar	jimarinan	INDF;N;PL;ACC
 rûtîn	rûtîn	DEF;N;NOM;PL;SG
 nas	nasine	INDF;LGSPEC1;N;PL
 îskarpîn	îskarpîn	DEF;N;NOM;PL;SG;ACC
-baqê temberiyê : tûncik	baqê temberiyê : tûncik	DEF;N;NOM;PL;SG;ACC
+baqê temberiyê ; tûncik	baqê temberiyê ; tûncik	DEF;N;NOM;PL;SG;ACC
 xirabe	xirabeek	INDF;N;NOM;SG
 lê-gerîn	nelê-gerîbûn	1;2;3;IND;NEG;PL;PRF;PST;V
 afirîd	afirîdo	DEF;N;SG;VOC
@@ -6726,7 +6726,7 @@ perandin	perandinin	INDF;N;NOM;PL
 gûn	gûnan	DEF;N;PL;ACC;LGSPEC2
 def	defek	INDF;N;NOM;SG
 þok	þokeke	INDF;LGSPEC1;N;SG;ACC
-poxîn : genimê qelandî û hûrkirî	poxîn : genimê qelandî û hûrkirîê	DEF;LGSPEC1;N;SG;VOC;ACC;LGSPEC2
+poxîn ; genimê qelandî û hûrkirî	poxîn ; genimê qelandî û hûrkirîê	DEF;LGSPEC1;N;SG;VOC;ACC;LGSPEC2
 cehþik	cehþik	DEF;N;NOM;PL;SG;ACC
 malniþîn	malniþînine	INDF;LGSPEC1;N;PL
 lihêf	lihêfek	INDF;N;NOM;SG
@@ -6928,7 +6928,7 @@ hezîn	hezîn	DEF;N;NOM;PL;SG
 feltetî	feltetîên	DEF;LGSPEC1;N;PL;VOC
 hor	horinan	INDF;N;PL;ACC
 birrno	birrnoine	INDF;LGSPEC1;N;PL
-avrû: heya	avrû: heyaekî	INDF;LGSPEC1;N;SG;ACC
+avrû; heya	avrû; heyaekî	INDF;LGSPEC1;N;SG;ACC
 þebeke	þebekeeke	INDF;LGSPEC1;N;SG;ACC
 qerd	qerdek	INDF;N;NOM;SG
 jenosîd	jenosîdinan	INDF;N;PL;ACC
@@ -6938,7 +6938,7 @@ sewm	sewmên	DEF;LGSPEC1;N;PL;VOC
 kezî	kezîên	DEF;LGSPEC1;N;PL;VOC
 pitpit	pitpitno	DEF;N;PL;VOC
 wêrîn	wêrînê	DEF;N;SG;V;V.MSDR;VOC;ACC;LGSPEC2
-êrdim : herêm	êrdim : herêmno	DEF;N;PL;VOC
+êrdim ; herêm	êrdim ; herêmno	DEF;N;PL;VOC
 beqal	beqala	DEF;LGSPEC1;N;SG
 nevisî	nevisîinan	INDF;N;PL;ACC
 fermandar	fermandaro	DEF;N;SG;VOC
@@ -7242,7 +7242,7 @@ tê-xistin	tê-xistibûyî	2;IND;POS;PRF;PST;SG;V
 junta	juntao	DEF;N;SG;VOC
 lengergeh	lengergehine	INDF;LGSPEC1;N;PL
 serbajarr	serbajarreke	INDF;LGSPEC1;N;SG;ACC
-pejn: 1) dengê tiþtê nediyar	pejn: 1) dengê tiþtê nediyaran	DEF;N;PL;ACC;LGSPEC2
+pejn; 1) dengê tiþtê nediyar	pejn; 1) dengê tiþtê nediyaran	DEF;N;PL;ACC;LGSPEC2
 west	westek	INDF;N;NOM;SG
 keþnasî	keþnasîa	DEF;LGSPEC1;N;SG
 bulgar	bulgarno	DEF;N;PL;VOC
@@ -7289,7 +7289,7 @@ derya	deryaine	INDF;LGSPEC1;N;PL
 pidî	pidîno	DEF;N;PL;VOC
 tawîz	tawîzên	DEF;LGSPEC1;N;PL;VOC
 leyîstin	dileyîstin	1;2;3;IND;PL;POS;PST;V;PROG
-êrdim : herêm	êrdim : herêmî	DEF;N;SG;LGSPEC2
+êrdim ; herêm	êrdim ; herêmî	DEF;N;SG;LGSPEC2
 havîn	havîn	DEF;N;NOM;PL;SG
 mirov	mirovekî	INDF;LGSPEC1;N;SG;ACC
 çal	çaleke	INDF;LGSPEC1;N;SG;ACC
@@ -7308,7 +7308,7 @@ karate	karate	DEF;N;NOM;PL;SG
 deqisandin	deqisandin	DEF;N;NOM;PL;SG
 kanîbal	kanîbalên	DEF;LGSPEC1;N;PL;VOC
 bêvîl	bêvîline	INDF;LGSPEC1;N;PL
-delîlê heyiriyan : rêberê bêçareyan	delîlê heyiriyan : rêberê bêçareyano	DEF;N;SG;VOC
+delîlê heyiriyan ; rêberê bêçareyan	delîlê heyiriyan ; rêberê bêçareyano	DEF;N;SG;VOC
 tirþe	tirþeê	DEF;LGSPEC1;N;SG;VOC;ACC;LGSPEC2
 girte	girtea	DEF;LGSPEC1;N;SG
 pesinandin	dipesinandi	3;IND;POS;PST;SG;V;PROG
@@ -7360,7 +7360,7 @@ kujer	kujerno	DEF;N;PL;VOC
 gotûbêj	gotûbêjno	DEF;N;PL;VOC
 texrîbat	texrîbatên	DEF;LGSPEC1;N;PL;VOC
 dergistî	dergistî	DEF;N;NOM;PL;SG;ACC
-þûrkêþ : 1) þûrbaz	þûrkêþ : 1) þûrbaza	DEF;LGSPEC1;N;SG
+þûrkêþ ; 1) þûrbaz	þûrkêþ ; 1) þûrbaza	DEF;LGSPEC1;N;SG
 doþk	doþk	DEF;N;NOM;PL;SG;ACC
 navandin	nenavandibûm	1;IND;NEG;PRF;PST;SG;V
 qehirîn	biqehirîana	1;2;3;COND;PL;POS;PST;V
@@ -7524,7 +7524,7 @@ ataþman	ataþmanên	DEF;LGSPEC1;N;PL;VOC
 elage	elageên	DEF;LGSPEC1;N;PL;VOC
 pêt	pêta	DEF;LGSPEC1;N;SG
 zoolojî	zoolojîeke	INDF;LGSPEC1;N;SG;ACC
-gurdan : ji 3-4 tofan pêk tê	gurdan : ji 3-4 tofan pêk têno	DEF;N;PL;VOC
+gurdan ; ji 3-4 tofan pêk tê	gurdan ; ji 3-4 tofan pêk têno	DEF;N;PL;VOC
 serpêhatî	serpêhatîinan	INDF;N;PL;ACC
 ermenî	ermenîine	INDF;LGSPEC1;N;PL
 kenik	kenik	DEF;N;NOM;PL;SG
@@ -7724,7 +7724,7 @@ heval	hevalî	DEF;N;SG;LGSPEC2
 Îhsan	Îhsano	DEF;N;SG;VOC
 keskûsor	keskûsoran	DEF;N;PL;ACC;LGSPEC2
 hesibîn	hesibîn	DEF;N;NOM;PL;SG
-vixîne : dengê mêran li meydana þer	vixîne : dengê mêran li meydana þera	DEF;LGSPEC1;N;SG
+vixîne ; dengê mêran li meydana þer	vixîne ; dengê mêran li meydana þera	DEF;LGSPEC1;N;SG
 xuyan	bixuyaibûya	2;3;COND;POS;PRF;PST;SG;V
 dûmahî	dûmahîeke	INDF;LGSPEC1;N;SG;ACC
 peyivîn	dipeyivî	2;3;IND;POS;PRS;PST;SG;V;IPFV;PROG
@@ -7856,7 +7856,7 @@ sobe	sobeê	DEF;N;SG;VOC;ACC;LGSPEC2
 ritam	ritaminan	INDF;N;PL;ACC
 afirmend	afirmendên	DEF;LGSPEC1;N;PL;VOC
 riba	ribain	INDF;N;NOM;PL
-remldar: kesê ku remlê diavêje	remldar: kesê ku remlê diavêjeên	DEF;LGSPEC1;N;PL;VOC
+remldar; kesê ku remlê diavêje	remldar; kesê ku remlê diavêjeên	DEF;LGSPEC1;N;PL;VOC
 þkêvlato	þkêvlatono	DEF;N;PL;VOC
 domandin	domandineke	INDF;LGSPEC1;N;SG;ACC
 hevirmiþ	hevirmiþeke	INDF;LGSPEC1;N;SG;ACC
@@ -7904,7 +7904,7 @@ helan	helanê	DEF;LGSPEC1;N;SG;VOC;ACC;LGSPEC2
 derdor	derdoreke	INDF;LGSPEC1;N;SG;ACC
 biþkov	biþkov	DEF;N;NOM;PL;SG
 kuxuyan	kuxuyame	1;IND;POS;PRF;PRS;SG;V
-bixaltî : zarokên xaltiyê	bixaltî : zarokên xaltiyê	DEF;N;NOM;PL;SG;ACC
+bixaltî ; zarokên xaltiyê	bixaltî ; zarokên xaltiyê	DEF;N;NOM;PL;SG;ACC
 qompîr	qompîr	DEF;N;NOM;PL;SG
 sabiq	sabiq	DEF;N;NOM;PL;SG;ACC
 asnaw	asnawno	DEF;N;PL;VOC
@@ -8418,7 +8418,7 @@ hevbeþ	hevbeþan	DEF;N;PL;ACC;LGSPEC2
 kaxezk	kaxezkan	DEF;N;PL;ACC;LGSPEC2
 rastîhevhatina dengdaran	rastîhevhatina dengdarana	DEF;LGSPEC1;N;SG
 tewandina awayan	tewandina awayanan	DEF;N;PL;ACC;LGSPEC2
-binrax: doþek	binrax: doþekên	DEF;LGSPEC1;N;PL;VOC
+binrax; doþek	binrax; doþekên	DEF;LGSPEC1;N;PL;VOC
 robot	robotên	DEF;LGSPEC1;N;PL;VOC
 melêvayî	melêvayîan	DEF;N;PL;ACC;LGSPEC2
 kestek	kestekin	INDF;N;NOM;PL
@@ -8523,7 +8523,7 @@ pêhesîn	pêhesînên	DEF;LGSPEC1;N;PL;VOC
 altûn	altûna	DEF;LGSPEC1;N;SG
 bermîl	bermîla	DEF;LGSPEC1;N;SG
 dojeh	dojeha	DEF;LGSPEC1;N;SG
-ayîne : neynik	ayîne : neynikine	INDF;LGSPEC1;N;PL
+ayîne ; neynik	ayîne ; neynikine	INDF;LGSPEC1;N;PL
 kergeden	kergedeno	DEF;N;SG;VOC
 kurdandin	nekurdandi	3;IND;NEG;PFV;PST;SG;V
 bavik	bavika	DEF;LGSPEC1;N;SG
@@ -8540,7 +8540,7 @@ qeyd	qeydên	DEF;LGSPEC1;N;PL;VOC
 erbab	erbabên	DEF;LGSPEC1;N;PL;VOC
 tendans	tendansinan	INDF;N;PL;ACC
 qîrçîn	biqîrçe	3;IMP;POS;PRS;SBJV;SG;V
-piþrûk : 1) hevîrê ku baþ nehatiye histiran	piþrûk : 1) hevîrê ku baþ nehatiye histiranekî	INDF;LGSPEC1;N;SG;ACC
+piþrûk ; 1) hevîrê ku baþ nehatiye histiran	piþrûk ; 1) hevîrê ku baþ nehatiye histiranekî	INDF;LGSPEC1;N;SG;ACC
 oromo	oromo	DEF;N;NOM;PL;SG;ACC
 þûþtek	þûþtekên	DEF;LGSPEC1;N;PL;VOC
 kêmasî	kêmasîin	INDF;N;NOM;PL
@@ -8571,7 +8571,7 @@ xemgînî	xemgînîno	DEF;N;PL;VOC
 wergêrî	wergêrîan	DEF;N;PL;ACC;LGSPEC2
 yekþem	yekþemin	INDF;N;NOM;PL
 belt	beltine	INDF;LGSPEC1;N;PL
-ava bin kayê: kesê ku tiþtên xwe bi dizî dike	ava bin kayê: kesê ku tiþtên xwe bi dizî dikean	DEF;N;PL;ACC;LGSPEC2
+ava bin kayê; kesê ku tiþtên xwe bi dizî dike	ava bin kayê; kesê ku tiþtên xwe bi dizî dikean	DEF;N;PL;ACC;LGSPEC2
 têketin	têketinên	DEF;LGSPEC1;N;PL;VOC
 sonde	sondeno	DEF;N;PL;VOC
 diyod	diyodno	DEF;N;PL;VOC
@@ -8604,9 +8604,9 @@ hevbîrî	hevbîrî	DEF;N;NOM;PL;SG
 þayîþ	þayîþê	DEF;N;SG;VOC;ACC;LGSPEC2
 poxan	poxanên	DEF;LGSPEC1;N;PL;VOC
 qurnaz	qurnaza	DEF;LGSPEC1;N;SG
-carcim : cacim	carcim : cacimeke	INDF;LGSPEC1;N;SG;ACC
+carcim ; cacim	carcim ; cacimeke	INDF;LGSPEC1;N;SG;ACC
 sayêr	sayêro	DEF;N;SG;VOC
-liq: ji 3-4 hengan û yekîneyên pêwist pêk tê. jimara leþkeran ji 7000 heta 18000 diguhire	liq: ji 3-4 hengan û yekîneyên pêwist pêk tê. jimara leþkeran ji 7000 heta 18000 diguhireên	DEF;LGSPEC1;N;PL;VOC
+liq; ji 3-4 hengan û yekîneyên pêwist pêk tê. jimara leþkeran ji 7000 heta 18000 diguhire	liq; ji 3-4 hengan û yekîneyên pêwist pêk tê. jimara leþkeran ji 7000 heta 18000 diguhireên	DEF;LGSPEC1;N;PL;VOC
 selixîn	selixînên	DEF;LGSPEC1;N;PL;VOC
 kevl	kevlek	INDF;N;NOM;SG
 wergêrî	wergêrîinan	INDF;N;PL;ACC
@@ -8731,7 +8731,7 @@ lewat	lewata	DEF;LGSPEC1;N;SG
 zirinc	zirincên	DEF;LGSPEC1;N;PL;VOC
 holik	holikên	DEF;LGSPEC1;N;PL;VOC
 pûng	pûngê	DEF;LGSPEC1;N;SG;VOC;ACC;LGSPEC2
-zugurt: bê çare	zugurt: bê çarein	INDF;N;NOM;PL
+zugurt; bê çare	zugurt; bê çarein	INDF;N;NOM;PL
 hîzar	hîzara	DEF;LGSPEC1;N;SG
 botl	botlan	DEF;N;PL;ACC;LGSPEC2
 sebr kirin	bisebr kiriba	3;COND;POS;PRF;PST;SG;V
@@ -8753,7 +8753,7 @@ metre	metreeke	INDF;LGSPEC1;N;SG;ACC
 qîrçîn	neqîrçîn	1;2;3;IND;NEG;PFV;PL;PST;V;V.MSDR
 þona	þonaa	DEF;LGSPEC1;N;SG
 fote	fote	DEF;N;NOM;PL;SG
-baqê temberiyê : tûncik	baqê temberiyê : tûnciko	DEF;N;SG;VOC
+baqê temberiyê ; tûncik	baqê temberiyê ; tûnciko	DEF;N;SG;VOC
 omutunzi	omutunzieke	INDF;LGSPEC1;N;SG;ACC
 gen	geneke	INDF;LGSPEC1;N;SG;ACC
 hevrîþim	hevrîþima	DEF;LGSPEC1;N;SG
@@ -9052,7 +9052,7 @@ pale	paleo	DEF;N;SG;VOC
 istiqamet	istiqametinan	INDF;N;PL;ACC
 çirr	çirrek	INDF;N;NOM;SG
 biþkuvîn	biþkuvînên	DEF;LGSPEC1;N;PL;VOC
-carût : carûd; xakendaz	carût : carûd; xakendazî	DEF;N;SG;LGSPEC2
+carût ; carûd; xakendaz	carût ; carûd; xakendazî	DEF;N;SG;LGSPEC2
 misrî	misrîin	INDF;N;NOM;PL
 sega	segano	DEF;N;PL;VOC
 filinte	filinteên	DEF;LGSPEC1;N;PL;VOC
@@ -9063,7 +9063,7 @@ eylo	eyloo	DEF;N;SG;VOC
 hêlan	hêlain	1;2;3;IND;PFV;PL;POS;PST;V
 orgeneral	orgeneralinan	INDF;N;PL;ACC
 înfluenza	înfluenzano	DEF;N;PL;VOC
-margiros: nêrekewê bi tenê mayî	margiros: nêrekewê bi tenê mayîine	INDF;LGSPEC1;N;PL
+margiros; nêrekewê bi tenê mayî	margiros; nêrekewê bi tenê mayîine	INDF;LGSPEC1;N;PL
 ker	kerine	INDF;LGSPEC1;N;PL
 sertîr	sertîr	DEF;N;NOM;PL;SG;ACC
 çewal	çewalinan	INDF;N;PL;ACC
@@ -9127,7 +9127,7 @@ heyirîn	heyirînin	INDF;N;NOM;PL
 balîf	balîfine	INDF;LGSPEC1;N;PL
 fiqar	fiqaran	DEF;N;PL;ACC;LGSPEC2
 þehhirî	þehhirîno	DEF;N;PL;VOC
-pereng: 1) hevrîþimê pir sor ê ku dibiriqe	pereng: 1) hevrîþimê pir sor ê ku dibiriqea	DEF;LGSPEC1;N;SG
+pereng; 1) hevrîþimê pir sor ê ku dibiriqe	pereng; 1) hevrîþimê pir sor ê ku dibiriqea	DEF;LGSPEC1;N;SG
 perritandin	perritandinine	INDF;LGSPEC1;N;PL
 zembeq	zembeq	DEF;N;NOM;PL;SG
 tevdan	tevdanê	DEF;N;SG;VOC;ACC;LGSPEC2
@@ -9331,7 +9331,7 @@ engizandin	engizandinno	DEF;N;PL;VOC
 pasdar	pasdarê	DEF;LGSPEC1;N;SG;VOC;ACC;LGSPEC2
 nezan	nezanin	INDF;N;NOM;PL
 peyn	peynan	DEF;N;PL;ACC;LGSPEC2
-parleþker: ji sê liqan û yekîneyên temamkir ên dinê pêk tê	parleþker: ji sê liqan û yekîneyên temamkir ên dinê pêk tê	DEF;N;NOM;PL;SG;ACC
+parleþker; ji sê liqan û yekîneyên temamkir ên dinê pêk tê	parleþker; ji sê liqan û yekîneyên temamkir ên dinê pêk tê	DEF;N;NOM;PL;SG;ACC
 gilîlêkirî	gilîlêkirîê	DEF;LGSPEC1;N;SG;VOC;ACC;LGSPEC2
 futbollîz	futbollîza	DEF;LGSPEC1;N;SG
 reh	rehine	INDF;LGSPEC1;N;PL
@@ -9390,7 +9390,7 @@ rohilat	rohilatinan	INDF;N;PL;ACC
 çexer	çexer	DEF;N;NOM;PL;SG
 toq û zincîra giran ku dixin stûyê mehkûman	toq û zincîra giran ku dixin stûyê mehkûmanên	DEF;LGSPEC1;N;PL;VOC
 qonax	qonaxê	DEF;N;SG;VOC;ACC;LGSPEC2
-xeyan: genimê kutayî yê li dora darê coxîn kom dikin	xeyan: genimê kutayî yê li dora darê coxîn kom dikin	DEF;N;NOM;PL;SG;ACC
+xeyan; genimê kutayî yê li dora darê coxîn kom dikin	xeyan; genimê kutayî yê li dora darê coxîn kom dikin	DEF;N;NOM;PL;SG;ACC
 ateþperês	ateþperêsin	INDF;N;NOM;PL
 osetî	osetîa	DEF;LGSPEC1;N;SG
 seksomniya	seksomniyaek	INDF;N;NOM;SG
@@ -9675,7 +9675,7 @@ lingua franca nova	lingua franca novaê	DEF;N;SG;VOC;ACC;LGSPEC2
 tê-kirin	netê-kirine	1;2;3;IND;NEG;PL;PRF;PRS;V
 dep	depine	INDF;LGSPEC1;N;PL
 welatvan	welatvanine	INDF;LGSPEC1;N;PL
-eba þalîn: eba ji þal çêkirî	eba þalîn: eba ji þal çêkirîinan	INDF;N;PL;ACC
+eba þalîn; eba ji þal çêkirî	eba þalîn; eba ji þal çêkirîinan	INDF;N;PL;ACC
 keþ	keþinan	INDF;N;PL;ACC
 ticaret	ticaretê	DEF;N;SG;VOC;ACC;LGSPEC2
 paþatî	paþatîên	DEF;LGSPEC1;N;PL;VOC
@@ -9779,7 +9779,7 @@ têkilîn	têkilînin	INDF;N;NOM;PL
 merc	merc	DEF;N;NOM;PL;SG;ACC
 revokî	revokîin	INDF;N;NOM;PL
 berxwedan	berxwedanin	INDF;N;NOM;PL
-movikên stû : 7 lib in	movikên stû : 7 lib inên	DEF;LGSPEC1;N;PL;VOC
+movikên stû ; 7 lib in	movikên stû ; 7 lib inên	DEF;LGSPEC1;N;PL;VOC
 berxwedan	berxwedanno	DEF;N;PL;VOC
 kundirê stoyîk	kundirê stoyîkinan	INDF;N;PL;ACC
 salmend	salmendî	DEF;N;SG;LGSPEC2
@@ -9788,7 +9788,7 @@ niþîvî	niþîvîno	DEF;N;PL;VOC
 keþtiya rêwiyan	keþtiya rêwiyanên	DEF;LGSPEC1;N;PL;VOC
 kep	kep	DEF;N;NOM;PL;SG;ACC
 fulahî	fulahîinan	INDF;N;PL;ACC
-pereng: 1) hevrîþimê pir sor ê ku dibiriqe	pereng: 1) hevrîþimê pir sor ê ku dibiriqeine	INDF;LGSPEC1;N;PL
+pereng; 1) hevrîþimê pir sor ê ku dibiriqe	pereng; 1) hevrîþimê pir sor ê ku dibiriqeine	INDF;LGSPEC1;N;PL
 wer bûn divan	wer bûn divanine	INDF;LGSPEC1;N;PL
 kirar	kirara	DEF;LGSPEC1;N;SG
 kerþ û merþ	kerþ û merþên	DEF;LGSPEC1;N;PL;VOC

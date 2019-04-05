@@ -198,7 +198,7 @@ aeróg	na haeróga	N;NOM;PL;DEF
 lárnacht	lárnacht	N;DAT;SG
 móráireamh	leis an móráireamh	N;DAT;SG;DEF
 grúpa stiúrtha	grúpa stiúrtha	N;DAT;SG
-deisigh	go ndeisí tú	V;2:SG;SBJV;PRS
+deisigh	go ndeisí tú	V;2;SG;SBJV;PRS
 comhaireamh	a chomhaireamha	N;VOC;PL
 bratadh	brata	N;GEN;SG
 francach	leis an bhfrancach	N;DAT;SG;DEF
@@ -224,7 +224,7 @@ carst	an carst	N;NOM;SG;DEF
 dílleachtlann	na dílleachtlainne	N;GEN;SG;DEF
 urraigh	d'urraigh tú	V;2;SG;PST;IND
 nigh	nigh sibh	V;2;PL;PST;IND
-malartaigh	dá malartaíteá	V;2:SG;SBJV;PST
+malartaigh	dá malartaíteá	V;2;SG;SBJV;PST
 éimíríocht	éimíríochtaí	N;NOM;PL
 Briotáinis	Briotáinis	N;NOM;SG
 croiméal	croiméal	N;NOM;SG
@@ -347,7 +347,7 @@ antar	a antara	N;VOC;PL
 ceacht	ceachtanna	N;DAT;PL
 uiscigh	uiscíonn sibh	V;2;PL;PRS;IND
 múch	múchadh sé	V;3;SG;IMP
-póraigh	go bpóraí tú	V;2:SG;SBJV;PRS
+póraigh	go bpóraí tú	V;2;SG;SBJV;PRS
 iseatóp	iseatóip	N;NOM;PL
 reiligiúnacht	leis an reiligiúnacht	N;DAT;SG;DEF
 teibiú	teibithe	N;GEN;PL
@@ -389,7 +389,7 @@ X-ghathú	X-ghathú	N;NOM;SG
 ollbhua	ollbhuanna	N;GEN;PL
 slis	na sliseanna	N;NOM;PL;DEF
 Nígireach	Nígireach	N;GEN;PL
-sílim	go síle tú	V;2:SG;SBJV;PRS
+sílim	go síle tú	V;2;SG;SBJV;PRS
 cúl-líne	na cúl-líne	N;GEN;SG;DEF
 rianaigh	rianú	V;V.MSDR
 séimhigh	dá séimhídís	V;3;PL;SBJV;PST
@@ -413,7 +413,7 @@ athleádóir	leis na hathleádóirí	N;DAT;PL;DEF
 céaslaigh	céaslaítear	V;AUTO;IMP
 oibrigh	d'oibríomar	V;1;PL;PST;IND
 suanbhruith	shuanbhruitheamar	V;1;PL;PST;IND
-céaslaigh	go gcéaslaí tú	V;2:SG;SBJV;PRS
+céaslaigh	go gcéaslaí tú	V;2;SG;SBJV;PRS
 bileog shaothair	an bhileog shaothair	N;NOM;SG;DEF
 snúcar	a shnúcair	N;VOC;SG
 fág	a fhágfaidh	V;REL;FUT;IND
@@ -645,7 +645,7 @@ truaí	truanna	N;NOM;PL
 sanasaíocht	sanasaíocht	N;NOM;SG
 réamhíocaíocht	na réamhíocaíochta	N;GEN;SG;DEF
 aonphléacs	leis an aonphléacs	N;DAT;SG;DEF
-ceadaigh	dá gceadaíteá	V;2:SG;SBJV;PST
+ceadaigh	dá gceadaíteá	V;2;SG;SBJV;PST
 ollamh	leis an ollamh	N;DAT;SG;DEF
 bod	boid	N;DAT;PL
 cine	leis an gcine	N;DAT;SG;DEF
@@ -657,10 +657,10 @@ rilíf	rilífí	N;DAT;PL
 lúcháir	leis an lúcháir	N;DAT;SG;DEF
 faiche	faiche	N;DAT;SG
 iarfhocal	leis na hiarfhocail	N;DAT;PL;DEF
-las	go lasa tú	V;2:SG;SBJV;PRS
+las	go lasa tú	V;2;SG;SBJV;PRS
 tiomáin	go dtiomána siad	V;3;PL;SBJV;PRS
 foghlaim	foghlaimeoimid	V;1;PL;FUT;IND
-éirigh	go n-éirí tú	V;2:SG;SBJV;PRS
+éirigh	go n-éirí tú	V;2;SG;SBJV;PRS
 meisceoir	meisceoirí	N;DAT;PL
 éigníocht	an éigníocht	N;NOM;SG;DEF
 imeacht	na himeachtaí	N;NOM;PL;DEF
@@ -727,13 +727,13 @@ breabaireacht	a bhreabaireacht	N;VOC;SG
 urghabh	a urghabhann	V;REL;PRS;IND
 meánábhar	a mheánábhair	N;VOC;SG
 aontaigh	aontaíodh	V;AUTO;PST;IND
-íoslaghdaigh	dá n-íoslaghdaíteá	V;2:SG;SBJV;PST
+íoslaghdaigh	dá n-íoslaghdaíteá	V;2;SG;SBJV;PST
 scread	screada	N;GEN;SG
 fóifíneach	fóifínigh	N;GEN;SG
 pósta	níos pósta	ADJ;CMPR
 fomhaor	fomhaor	N;NOM;SG
 meánoideachas	an mheánoideachais	N;GEN;SG;DEF
-nimhigh	dá nimhíteá	V;2:SG;SBJV;PST
+nimhigh	dá nimhíteá	V;2;SG;SBJV;PST
 spléach	dá spléachaidís	V;3;PL;SBJV;PST
 ardcheannas	ardcheannais	N;GEN;SG
 talmhaigh	talmhaím	V;1;SG;IMP
@@ -808,7 +808,7 @@ closchonsól	closchonsóil	N;GEN;SG
 peileacán	peileacán	N;GEN;PL
 mórthaispeántas	leis na mórthaispeántais	N;DAT;PL;DEF
 grua	gruanna	N;NOM;PL
-aontaigh	dá n-aontaíteá	V;2:SG;SBJV;PST
+aontaigh	dá n-aontaíteá	V;2;SG;SBJV;PST
 othar	othair	N;DAT;PL
 síol	síolta	N;DAT;PL
 naomhainmnigh	naomhainmnigh tú	V;2;SG;PST;IND
@@ -1009,7 +1009,7 @@ Sean-Bhéarla	Sean-Bhéarla	N;NOM;SG
 bolcánachas	bolcánachais	N;DAT;PL
 pionósaigh	pionósaíodh	V;AUTO;PST;IND
 sásar	sásar	N;GEN;PL
-breoigh	go mbreo tú	V;2:SG;SBJV;PRS
+breoigh	go mbreo tú	V;2;SG;SBJV;PRS
 gearrchaile	leis an ngearrchaile	N;DAT;SG;DEF
 néaracráiniam	néaracráiniam	N;DAT;SG
 iorcha	an t-iorcha	N;NOM;SG;DEF
@@ -1320,7 +1320,7 @@ luathaigh	dá luathaínn	V;1;SG;SBJV;PST
 abhaitis	abhaitis	N;NOM;SG
 eisiméadracht	eisiméadracht	N;NOM;SG
 bileog oibre	bileoga oibre	N;NOM;PL
-snigh	dá sniteá	V;2:SG;SBJV;PST
+snigh	dá sniteá	V;2;SG;SBJV;PST
 álainn	álainn	ADJ;DAT;SG;FEM
 ciseal	cisil	N;DAT;PL
 éifeachtacht	a éifeachtacht	N;VOC;SG
@@ -1465,7 +1465,7 @@ Aifreann	Aifrinn	N;DAT;PL
 minicigh	miniceoimid	V;1;PL;FUT;IND
 gnaithe	an ghnaithe	N;GEN;SG;DEF
 bróidnigh	bróidneoidh sé	V;3;SG;FUT;IND
-luaigh	go lua tú	V;2:SG;SBJV;PRS
+luaigh	go lua tú	V;2;SG;SBJV;PRS
 sáithigh	sháitheodh sé	V;3;SG;COND
 athphós	athphósfaidh sibh	V;2;PL;FUT;IND
 mianra	mianra	N;NOM;SG
@@ -1594,7 +1594,7 @@ réimír	réimíreanna	N;NOM;PL
 fleá	fleánna	N;NOM;PL
 leabharcheardaíocht	leis an leabharcheardaíocht	N;DAT;SG;DEF
 vuinsciú	vuinsciúnna	N;DAT;PL
-diúltaigh	go ndiúltaí tú	V;2:SG;SBJV;PRS
+diúltaigh	go ndiúltaí tú	V;2;SG;SBJV;PRS
 athneartaigh	d'athneartóinn	V;1;SG;COND
 dearbhaigh	go ndearbhaí mé	V;1;SG;SBJV;PRS
 sliabh	a shliabh	N;VOC;SG
@@ -1737,9 +1737,9 @@ gas	a ghasa	N;VOC;PL
 aerchonair	aerchonairí	N;DAT;PL
 fliuchadh	a fhliuchadh	N;VOC;SG
 urraigh	d'urróidís	V;3;PL;COND
-teilg	go dteilge tú	V;2:SG;SBJV;PRS
+teilg	go dteilge tú	V;2;SG;SBJV;PRS
 seirbhíseach	seirbhísigh	N;NOM;PL
-éist	dá n-éisteá	V;2:SG;SBJV;PST
+éist	dá n-éisteá	V;2;SG;SBJV;PST
 gloinigh	gloiníodh	V;AUTO;PST;IND
 eidheann	an t-eidheann	N;NOM;SG;DEF
 fo-shuíomh	fo-shuíomh	N;DAT;SG
@@ -1781,7 +1781,7 @@ diúraic	dhiúracfaidís	V;3;PL;COND
 meigeall	leis na meigill	N;DAT;PL;DEF
 Aetópach	Aetópaigh	ADJ;VOC+GEN;SG;MASV
 heicseagán	an heicseagáin	N;GEN;SG;DEF
-comhaontaigh	dá gcomhaontaíteá	V;2:SG;SBJV;PST
+comhaontaigh	dá gcomhaontaíteá	V;2;SG;SBJV;PST
 feighlíocht	feighlíochta	N;GEN;SG
 feiminí	feiminí	N;NOM;SG
 criostalaigineas	criostalaiginis	N;GEN;SG
@@ -1826,7 +1826,7 @@ clois	chloiseadh sé	V;3;SG;PST;HAB;IND
 bainistiú	an bhainistithe	N;GEN;SG;DEF
 frithchaith	d'fhrithchaiteá	V;2;SG;PST;HAB;IND
 fóta-iolróir	fóta-iolróirí	N;NOM;PL
-smaoinigh	dá smaoiníteá	V;2:SG;SBJV;PST
+smaoinigh	dá smaoiníteá	V;2;SG;SBJV;PST
 gealtach	gealtacha	ADJ;NOM;PL
 codail	codlaígí	V;2;PL;IMP
 urthosach	an urthosaigh	N;GEN;SG;DEF
@@ -1914,7 +1914,7 @@ lámhcheird	lámhcheirde	N;GEN;SG
 sabhdánach	a shabhdánaigh	N;VOC;SG
 litrigh	litreodh sibh	V;2;PL;COND
 caith	chaith siad	V;3;PL;PST;IND
-tiúin	dá dtiúntá	V;2:SG;SBJV;PST
+tiúin	dá dtiúntá	V;2;SG;SBJV;PST
 féinchabhair	an fhéinchabhair	N;NOM;SG;DEF
 abhlóir	abhlóir	N;NOM;SG
 méarchlár	a mhéarchláir	N;VOC;SG
@@ -2372,7 +2372,7 @@ scagdhealaigh	scagdhealú	V;V.MSDR
 céimnigh	go gcéimní mé	V;1;SG;SBJV;PRS
 baile margaidh	leis na bailte margaidh	N;DAT;PL;DEF
 mion-mhórphianó	mion-mhórphianó	N;NOM;SG
-reachtaigh	go reachtaí tú	V;2:SG;SBJV;PRS
+reachtaigh	go reachtaí tú	V;2;SG;SBJV;PRS
 xéararadagrafaíocht	an xéararadagrafaíocht	N;NOM;SG;DEF
 fachtóirigh	fachtóireoidh tú	V;2;SG;FUT;IND
 daonpháirc	a dhaonpháirceanna	N;VOC;PL
@@ -2515,7 +2515,7 @@ fo-alt	fo-ailt	N;DAT;PL
 uirí	an uirí	N;NOM;SG;DEF
 bithgheoiceimic	leis an mbithgheoiceimic	N;DAT;SG;DEF
 spréigh	spréigh siad	V;3;PL;PST;IND
-análaigh	dá n-análaíteá	V;2:SG;SBJV;PST
+análaigh	dá n-análaíteá	V;2;SG;SBJV;PST
 argóint	a argóint	N;VOC;SG
 ardghléine	leis na hardghléiní	N;DAT;PL;DEF
 cúlfhuinneog	cúlfhuinneoga	N;NOM;PL
@@ -2553,7 +2553,7 @@ abhrán	a abhráin	N;VOC;SG
 víreolaíocht	víreolaíochtíreolaíochta	N;DAT;SG
 cúlóm	cúlóim	N;NOM;PL
 bardasacht	a bhardasachtaí	N;VOC;PL
-campáil	go gcampála tú	V;2:SG;SBJV;PRS
+campáil	go gcampála tú	V;2;SG;SBJV;PRS
 fótaigeolaíocht	fótaigeolaíocht	N;DAT;SG
 onóraigh	d'onóróimis	V;1;PL;COND
 súgradh	a shúgradh	N;VOC;SG
@@ -2939,7 +2939,7 @@ asfalt	a asfailt	N;VOC;SG
 faighin	faighneacha	N;NOM;PL
 spáid	spáideanna	N;GEN;PL
 mórghrósa	na mórghrósaí	N;NOM;PL;DEF
-folig	go bhfolige tú	V;2:SG;SBJV;PRS
+folig	go bhfolige tú	V;2;SG;SBJV;PRS
 cruth	crutha	N;GEN;SG
 íoslaghdaigh	a íoslaghdaíonn	V;REL;PRS;IND
 cluin	cluinimid	V;1;PL;PRS;IND
@@ -3122,7 +3122,7 @@ cromán	leis an gcromán	N;DAT;SG;DEF
 asp	asp	N;DAT;SG
 aerlínéar	an t-aerlínéar	N;NOM;SG;DEF
 cros-toirchigh	chros-toirchigh sé	V;3;SG;PST;IND
-dí-adharc	dá ndí-adharctá	V;2:SG;SBJV;PST
+dí-adharc	dá ndí-adharctá	V;2;SG;SBJV;PST
 caidhp	caidhpeanna	N;DAT;PL
 saighead	na saigheada	N;NOM;PL;DEF
 músaem	músaeim	N;DAT;PL
@@ -3147,7 +3147,7 @@ Astraláiseach	na hAstraláisigh	N;NOM;PL;DEF
 buaigh	buafaidh sibh	V;2;PL;FUT;IND
 deichshiollach	deichshiollach	N;GEN;PL
 luasteorainn	a luasteorainn	N;VOC;SG
-dligh	go ndlí tú	V;2:SG;SBJV;PRS
+dligh	go ndlí tú	V;2;SG;SBJV;PRS
 nochtacht	a nochtacht	N;VOC;SG
 pailnigh	go bpailní mé	V;1;SG;SBJV;PRS
 donóg	a dhonóga	N;VOC;PL
@@ -3300,7 +3300,7 @@ múscán	leis an múscán	N;DAT;SG;DEF
 díghrádaigh	díghrádóidh tú	V;2;SG;FUT;IND
 liamhán	an liamhán	N;NOM;SG;DEF
 bibliméadracht	bibliméadracht	N;NOM;SG
-fuathaigh	dá bhfuathaíteá	V;2:SG;SBJV;PST
+fuathaigh	dá bhfuathaíteá	V;2;SG;SBJV;PST
 aeroiriúnaigh	aeroiriúnaíonn sibh	V;2;PL;PRS;IND
 normáltacht	normáltacht	N;DAT;SG
 néaróiseachas	néaróiseachas	N;DAT;SG
@@ -3519,7 +3519,7 @@ deighil	dheighilfimis	V;1;PL;COND
 bliain	blianta	N;DAT;PL
 aisig	d'aiseagaimis	V;1;PL;PST;HAB;IND
 eachlann	leis an eachlann	N;DAT;SG;DEF
-achtaigh	dá n-achtaíteá	V;2:SG;SBJV;PST
+achtaigh	dá n-achtaíteá	V;2;SG;SBJV;PST
 bun	bun	N;NOM;SG
 tiomsaigh	thiomsaigh sibh	V;2;PL;PST;IND
 fotheideal	leis an bhfotheideal	N;DAT;SG;DEF
@@ -3684,7 +3684,7 @@ aibíd	aibída	N;DAT;PL
 ceireamach	leis an gceireamach	N;DAT;SG;DEF
 bangharda	leis an mbangharda	N;DAT;SG;DEF
 buachaill	buachaillí	N;DAT;PL
-smaoin	go smaoine tú	V;2:SG;SBJV;PRS
+smaoin	go smaoine tú	V;2;SG;SBJV;PRS
 craobhán	a chraobháin	N;VOC;SG
 airdemhéadar	airdemhéadair	N;NOM;PL
 stiúrthóir	stiúrthóirí	N;GEN;PL
@@ -4005,7 +4005,7 @@ pós	go bpósa mé	V;1;SG;SBJV;PRS
 míncheimiceán	an mhíncheimiceáin	N;GEN;SG;DEF
 spéis	a spéis	N;VOC;SG
 crosán	crosán	N;DAT;SG
-frioch	dá bhfriochtá	V;2:SG;SBJV;PST
+frioch	dá bhfriochtá	V;2;SG;SBJV;PST
 buanóglach	buanóglach	N;NOM;SG
 céadfaigh	dá gcéadfaímis	V;1;PL;SBJV;PST
 tithíocht	a thithíocht	N;VOC;SG
@@ -4026,7 +4026,7 @@ adamhacht	adamhachta	N;GEN;SG
 carabú	carabúnna	N;NOM;PL
 treáigh	threáfaimis	V;1;PL;COND
 abhcóide	abhcóide	N;DAT;SG
-ionsáigh	dá n-ionsáiteá	V;2:SG;SBJV;PST
+ionsáigh	dá n-ionsáiteá	V;2;SG;SBJV;PST
 hiopnóis	hiopnóisí	N;DAT;PL
 foirm	foirmeacha	N;DAT;PL
 orlach	an t-orlach	N;NOM;SG;DEF
@@ -4236,7 +4236,7 @@ creid	chreid siad	V;3;PL;PST;IND
 púdráil	go bpúdráiltear	V;AUTO;SBJV;PRS
 tapaigh	dá dtapaídís	V;3;PL;SBJV;PST
 umhlú	an umhlaithe	N;GEN;SG;DEF
-ianaigh	dá n-ianaíteá	V;2:SG;SBJV;PST
+ianaigh	dá n-ianaíteá	V;2;SG;SBJV;PST
 fostóir	leis na fostóirí	N;DAT;PL;DEF
 línitheoir	línitheoirí	N;NOM;PL
 trach	trach	N;GEN;SG
@@ -4269,7 +4269,7 @@ dúdaire	dúdairí	N;GEN;PL
 alpchorn	alpchorn	N;NOM;SG
 gríobhán	leis na gríobháin	N;DAT;PL;DEF
 adamhacht	adamhacht	N;NOM;SG
-aisbhreathnaigh	go n-aisbhreathnaí tú	V;2:SG;SBJV;PRS
+aisbhreathnaigh	go n-aisbhreathnaí tú	V;2;SG;SBJV;PRS
 spreag	spreagfaidh siad	V;3;PL;FUT;IND
 aonad	aonaid	N;NOM;PL
 titim	titim	N;DAT;SG
@@ -4737,7 +4737,7 @@ Hondúrach	an Hondúraigh	N;GEN;SG;DEF
 gríobhán	an gríobhán	N;NOM;SG;DEF
 íol	íol	N;GEN;PL
 mianraigh	mianraím	V;1;SG;IMP
-céaslaigh	dá gcéaslaíteá	V;2:SG;SBJV;PST
+céaslaigh	dá gcéaslaíteá	V;2;SG;SBJV;PST
 drongadóir	a dhrongadóirí	N;VOC;PL
 guigh	a ghuífeadh	V;REL;COND
 eadrannacht	na headrannachta	N;GEN;SG;DEF
@@ -4817,7 +4817,7 @@ mionfhilltín	na mionfhilltíní	N;NOM;PL;DEF
 seachbhealach	an seachbhealach	N;NOM;SG;DEF
 neodraigh	neodróidh tú	V;2;SG;FUT;IND
 francach	na francaigh	N;NOM;PL;DEF
-cuidigh	go gcuidí tú	V;2:SG;SBJV;PRS
+cuidigh	go gcuidí tú	V;2;SG;SBJV;PRS
 oibrigh	d'oibríodh sé	V;3;SG;PST;HAB;IND
 eachtarshuigh	d'eachtarshuigh tú	V;2;SG;PST;IND
 closchomhdháil	leis na closchomhdhálacha	N;DAT;PL;DEF
@@ -5134,7 +5134,7 @@ aiceannaigh	d'aiceannaigh sé	V;3;SG;PST;IND
 buail	dá mbuaileadh sé	V;3;SG;SBJV;PST
 sorcas	na sorcais	N;NOM;PL;DEF
 uiscechlár	uiscechlár	N;GEN;PL
-idirleath	dá n-idirleatá	V;2:SG;SBJV;PST
+idirleath	dá n-idirleatá	V;2;SG;SBJV;PST
 cuas	cuas	N;DAT;SG
 cláirseoireacht	na cláirseoireachta	N;GEN;SG;DEF
 guigh	ghuigh sibh	V;2;PL;PST;IND
@@ -5437,7 +5437,7 @@ comhaontaigh	comhaontaítear	V;AUTO;IMP
 déadalt	déadalt	N;DAT;SG
 maígh	maífidh mé	V;1;SG;FUT;IND
 cuid	cuid	N;NOM;SG
-pléigh	go bplé tú	V;2:SG;SBJV;PRS
+pléigh	go bplé tú	V;2;SG;SBJV;PRS
 trasfhoirmigh	dá dtrasfhoirmítí	V;AUTO;SBJV;PST
 almsach	almsach	N;NOM;SG
 I-bhíoma	I-bhíoma	N;NOM;SG
@@ -5597,7 +5597,7 @@ Ard-Aifreann	leis na hArd-Aifrinn	N;DAT;PL;DEF
 asp	a aspanna	N;VOC;PL
 peann	a pheanna	N;VOC;PL
 litrigh	litreoimid	V;1;PL;FUT;IND
-naomhainmnigh	go naomhainmní tú	V;2:SG;SBJV;PRS
+naomhainmnigh	go naomhainmní tú	V;2;SG;SBJV;PRS
 óstach	a óstacha	N;VOC;PL
 borra	borraí	N;NOM;PL
 oragrafaíocht	an oragrafaíocht	N;NOM;SG;DEF
@@ -5730,7 +5730,7 @@ xantaein	xantaein	N;DAT;SG
 piobar	piobair	N;GEN;SG
 nuálaíocht	na nuálaíochtaí	N;NOM;PL;DEF
 plánáil	phlánálfadh sé	V;3;SG;COND
-mionghearr	go mionghearr tú	V;2:SG;SBJV;PRS
+mionghearr	go mionghearr tú	V;2;SG;SBJV;PRS
 anairt	an anairt	N;NOM;SG;DEF
 neamhscagacht	neamhscagachta	N;GEN;SG
 laghairt	laghairte	N;GEN;SG
@@ -6218,7 +6218,7 @@ ban-ab	a bhan-ab	N;VOC;SG
 tuig	dá dtuigtí	V;AUTO;SBJV;PST
 pailé-zóeolaíocht	pailé-zóeolaíocht	N;NOM;SG
 aigéadach	aigéadach	ADJ;DAT;SG;MASC
-órphlátáil	dá n-órphlátáilteá	V;2:SG;SBJV;PST
+órphlátáil	dá n-órphlátáilteá	V;2;SG;SBJV;PST
 fearán	an fhearáin	N;GEN;SG;DEF
 réaltbhraisle	na réaltbhraisle	N;GEN;SG;DEF
 abacht	a abacht	N;VOC;SG
@@ -6340,7 +6340,7 @@ naíocht	a naíocht	N;VOC;SG
 fo-rangaigh	dá bhfo-rangaíodh sibh	V;2;PL;SBJV;PST
 bríste	an bríste	N;NOM;SG;DEF
 spreag	spreagtar	V;AUTO;IMP
-lonnaigh	go lonnaí tú	V;2:SG;SBJV;PRS
+lonnaigh	go lonnaí tú	V;2;SG;SBJV;PRS
 aigéadaigh	d'aigéadaítí	V;AUTO;PST;HAB;IND
 bagair	a bhagródh	V;REL;COND
 siolla	siollaí	N;NOM;PL
@@ -6442,7 +6442,7 @@ allapolaplóideach	allapolaplóidigh	N;NOM;PL
 Bútánach	leis na Bútánaigh	N;DAT;PL;DEF
 gealach	gealacha	N;DAT;PL
 inne	leis na hinní	N;DAT;PL;DEF
-fo-rangaigh	dá bhfo-rangaíteá	V;2:SG;SBJV;PST
+fo-rangaigh	dá bhfo-rangaíteá	V;2;SG;SBJV;PST
 líofacht	líofacht	N;NOM;SG
 fuinneoig	fuinneog	N;GEN;PL
 crios	crios	N;NOM;SG
@@ -6631,7 +6631,7 @@ postionad	a phostionaid	N;VOC;SG
 citeal	citil	N;NOM;PL
 athdháir	athdhárach	N;GEN;SG
 brá	a bhránna	N;VOC;PL
-coip	dá gcoipteá	V;2:SG;SBJV;PST
+coip	dá gcoipteá	V;2;SG;SBJV;PST
 léasaigh	léasóimid	V;1;PL;FUT;IND
 ardscoil	ardscoil	N;DAT;SG
 closmhéadar	closmhéadar	N;NOM;SG
@@ -6759,7 +6759,7 @@ gnaíúil	is gnaíúla	ADJ;SPRL
 xéaroftailmia	xéaroftailmia	N;GEN;SG
 néarchorda	a néarchordaí	N;VOC;PL
 ópalacht	ópalacht	N;NOM;SG
-foraoisigh	go bhforaoisí tú	V;2:SG;SBJV;PRS
+foraoisigh	go bhforaoisí tú	V;2;SG;SBJV;PRS
 gealtlann	na gealtlainne	N;GEN;SG;DEF
 snuaphúdar	an snuaphúdar	N;NOM;SG;DEF
 banéigeas	banéigis	N;DAT;PL
@@ -7037,7 +7037,7 @@ fo-rangaigh	d'fho-rangódh sé	V;3;SG;COND
 leictreatrópacht	a leictreatrópacht	N;VOC;SG
 lonnaíocht	a lonnaíocht	N;VOC;SG
 ardtiarna	leis an ardtiarna	N;DAT;SG;DEF
-imdhíon	go n-imdhíona tú	V;2:SG;SBJV;PRS
+imdhíon	go n-imdhíona tú	V;2;SG;SBJV;PRS
 tíor	tíoraidís	V;3;PL;IMP
 Nua-Shéalannach	leis na Nua-Shéalannaigh	N;DAT;PL;DEF
 athshon	athshonaimid	V;1;PL;PRS;IND
@@ -7060,7 +7060,7 @@ miotalóireacht	na miotalóireachta	N;GEN;SG;DEF
 jib	leis na jibeanna	N;DAT;PL;DEF
 abhógacht	abhógacht	N;NOM;SG
 conspóid	na conspóidí	N;NOM;PL;DEF
-leagh	go leagha tú	V;2:SG;SBJV;PRS
+leagh	go leagha tú	V;2;SG;SBJV;PRS
 sonra	an sonra	N;NOM;SG;DEF
 banghiolla	an banghiolla	N;NOM;SG;DEF
 bleacht	an bhleachta	N;GEN;SG;DEF
@@ -7217,7 +7217,7 @@ taicseolaíocht	na taicseolaíochta	N;GEN;SG;DEF
 leaisteachas	a leaisteachais	N;VOC;SG
 tairngir	tairngríonn siad	V;3;PL;PRS;IND
 maiseachán	a mhaiseacháin	N;VOC;SG
-cleacht	dá gcleachtá	V;2:SG;SBJV;PST
+cleacht	dá gcleachtá	V;2;SG;SBJV;PST
 aireachasaigh	aireachasaíonn sé	V;3;SG;PRS;IND
 ainspiorad	leis na hainspioraid	N;DAT;PL;DEF
 spréigh	go spréitear	V;AUTO;SBJV;PRS
@@ -7436,7 +7436,7 @@ gandal	leis an ngandal	N;DAT;SG;DEF
 coigistigh	go gcoigistítear	V;AUTO;SBJV;PRS
 searbhónta	searbhónta	N;DAT;SG
 sílim	síltear	V;AUTO;IMP
-loisc	go loisce tú	V;2:SG;SBJV;PRS
+loisc	go loisce tú	V;2;SG;SBJV;PRS
 cáiligh	a cháileodh	V;REL;COND
 urchosc	urchoisc	N;NOM;PL
 dúchasach	a dhúchasacha	N;VOC;PL
@@ -7482,7 +7482,7 @@ iarnaigh	iarnóimid	V;1;PL;FUT;IND
 maolagán	a mhaolagána	N;VOC;PL
 béirín	béiríní	N;GEN;PL
 péidearastach	a phéidearastacha	N;VOC;PL
-clóbhuail	go gclóbhuaile tú	V;2:SG;SBJV;PRS
+clóbhuail	go gclóbhuaile tú	V;2;SG;SBJV;PRS
 idircheirt	idirchearta	N;GEN;SG
 lagmheasarthacht	a lagmheasarthacht	N;VOC;SG
 Eastónach	an tEastónach	N;NOM;SG;DEF
@@ -7495,7 +7495,7 @@ Danmhargach	Danmhargaigh	N;GEN;SG
 ardiomrá	ardiomrá	N;DAT;SG
 seans	na seansanna	N;NOM;PL;DEF
 peictiúr	an peictiúr	N;NOM;SG;DEF
-tiontaigh	dá dtiontaíteá	V;2:SG;SBJV;PST
+tiontaigh	dá dtiontaíteá	V;2;SG;SBJV;PST
 póna	an póna	N;NOM;SG;DEF
 speictreafótaiméadar	leis na speictreafótaiméadair	N;DAT;PL;DEF
 urbhruinne	na hurbhruinne	N;GEN;SG;DEF
@@ -7534,7 +7534,7 @@ luathaigh	luathaigh sibh	V;2;PL;PST;IND
 comhéifeacht	a chomhéifeacht	N;VOC;SG
 síneadh	leis na síntí	N;DAT;PL;DEF
 snas	an snas	N;NOM;SG;DEF
-éar	dá n-éartá	V;2:SG;SBJV;PST
+éar	dá n-éartá	V;2;SG;SBJV;PST
 buail	bhuaileamar	V;1;PL;PST;IND
 ceannbhrat	ceannbhrait	N;DAT;PL
 ionadaí	ionadaí	N;NOM;SG
@@ -7563,7 +7563,7 @@ fabhtcheartaigh	go bhfabhtcheartaí mé	V;1;SG;SBJV;PRS
 iarnóta	an iarnóta	N;GEN;SG;DEF
 díchineálacht	an díchineálacht	N;NOM;SG;DEF
 guigh	a ghuíodh	V;REL;PST;HAB;IND
-beirigh	dá mbeiríteá	V;2:SG;SBJV;PST
+beirigh	dá mbeiríteá	V;2;SG;SBJV;PST
 tuirseach	tuirseacha	ADJ;DAT;PL
 eitnealárnacht	eitnealárnacht	N;NOM;SG
 maidin	na maidineacha	N;NOM;PL;DEF
@@ -7884,7 +7884,7 @@ tuismigh	go dtuismí mé	V;1;SG;SBJV;PRS
 cianradharcán	leis an gcianradharcán	N;DAT;SG;DEF
 mianra	mianra	N;DAT;SG
 eagraí	eagraí	N;GEN;SG
-pailnigh	go bpailní tú	V;2:SG;SBJV;PRS
+pailnigh	go bpailní tú	V;2;SG;SBJV;PRS
 teirmiméadar	a theirmiméadara	N;VOC;PL
 cúis	na cúiseanna	N;NOM;PL;DEF
 aerlínéar	aerlínéar	N;DAT;SG
@@ -8340,7 +8340,7 @@ luachálaí	a luachálaí	N;VOC;SG
 hiatas	hiatas	N;NOM;SG
 Uigingeach	a Uigingigh	N;VOC;SG
 dúch	an dúch	N;NOM;SG;DEF
-gliúáil	dá ngliúáilteá	V;2:SG;SBJV;PST
+gliúáil	dá ngliúáilteá	V;2;SG;SBJV;PST
 trombón	trombóin	N;GEN;SG
 crosfhocal	leis an gcrosfhocal	N;DAT;SG;DEF
 atóin	atóna	N;GEN;SG
@@ -8734,7 +8734,7 @@ imdhruid	dá n-imdhruidinn	V;1;SG;SBJV;PST
 maoidh	dá maoidhimis	V;1;PL;SBJV;PST
 barda	leis an mbárda	N;DAT;SG;DEF
 aigéan	a aigéana	N;VOC;PL
-nimhigh	go nimhí tú	V;2:SG;SBJV;PRS
+nimhigh	go nimhí tú	V;2;SG;SBJV;PRS
 tarlú	tarluithe	N;DAT;PL
 mac	an mac	N;NOM;SG;DEF
 facs	an facs	N;NOM;SG;DEF
@@ -8938,7 +8938,7 @@ croinicigh	croinicímis	V;1;PL;IMP
 geolta	an geolta	N;NOM;SG;DEF
 adamh	a adamha	N;VOC;PL
 ceardchumannaí	ceardchumannaithe	N;GEN;PL
-donnaigh	dá ndonnaíteá	V;2:SG;SBJV;PST
+donnaigh	dá ndonnaíteá	V;2;SG;SBJV;PST
 athbhliain	a athbhliain	N;VOC;SG
 peictiúr	peictiúr	N;NOM;SG
 géar	géara	ADJ;NOM;PL
@@ -8981,7 +8981,7 @@ ionfhabhtaigh	ionfhabhtaíodh sé	V;3;SG;IMP
 aigéan	aigéan	N;DAT;SG
 spreag	spreag siad	V;3;PL;PST;IND
 mearcair	mearcair	N;DAT;SG
-spléach	dá spléachtá	V;2:SG;SBJV;PST
+spléach	dá spléachtá	V;2;SG;SBJV;PST
 bagair	bagrófar	V;AUTO;FUT;IND
 goiligh	ghoileodh sé	V;3;SG;COND
 imlitir	imlitreacha	N;GEN;PL
@@ -9381,7 +9381,7 @@ neamh-intuigtheacht	neamh-intuigtheacht	N;DAT;SG
 foshruth	a fhoshruthanna	N;VOC;PL
 eipigéineolaíocht	leis an eipigéineolaíocht	N;DAT;SG;DEF
 anfhocal	leis an anfhocal	N;DAT;SG;DEF
-coigistigh	dá gcoigistíteá	V;2:SG;SBJV;PST
+coigistigh	dá gcoigistíteá	V;2;SG;SBJV;PST
 ealaíontóir	a ealaíontóir	N;VOC;SG
 tais-scóp	tais-scóip	N;GEN;SG
 deoin	deonta	N;GEN;PL
@@ -9454,7 +9454,7 @@ paróitid	a pharóitid	N;VOC;SG
 bileog shúile	bileoige súile	N;GEN;SG
 neas-chomhrian	neas-chomhriain	N;GEN;SG
 aontaitheoir	aontaitheoirí	N;NOM;PL
-dathaigh	go ndathaí tú	V;2:SG;SBJV;PRS
+dathaigh	go ndathaí tú	V;2;SG;SBJV;PRS
 histeolaíocht	na histeolaíochta	N;GEN;SG;DEF
 crúigh	a chrúigh	V;REL;PST;IND
 cnáimhseáil	cnáimhseála	N;GEN;SG
@@ -9693,7 +9693,7 @@ aturnae	aturnae	N;GEN;SG
 neoitineacht	neoitineachta	N;GEN;SG
 bleachtaireacht	a bhleachtaireacht	N;VOC;SG
 déirí	an déirí	N;NOM;SG;DEF
-breabhsaigh	go mbreabhsaí tú	V;2:SG;SBJV;PRS
+breabhsaigh	go mbreabhsaí tú	V;2;SG;SBJV;PRS
 uamhan	na huamhna	N;NOM;PL;DEF
 gáma	an gháma	N;GEN;SG;DEF
 promhadh cnapbhóráis	a phromhadha cnapbhóráis	N;VOC;PL
@@ -9751,7 +9751,7 @@ sochreimtheacht	sochreimtheacht	N;DAT;SG
 grús coiteann	an ghrúis choitinn	N;GEN;SG;DEF
 léine	a léinte	N;VOC;PL
 túcán	a thúcána	N;VOC;PL
-léigh	go lé tú	V;2:SG;SBJV;PRS
+léigh	go lé tú	V;2;SG;SBJV;PRS
 bolta	leis an mbolta	N;DAT;SG;DEF
 campáil	go gcampála siad	V;3;PL;SBJV;PRS
 xéinilit	an xéinilit	N;NOM;SG;DEF
@@ -9809,7 +9809,7 @@ butha	an butha	N;NOM;SG;DEF
 teicnic	leis na teicnicí	N;DAT;PL;DEF
 ceannbhrat	ceannbhrait	N;GEN;SG
 ceangail	dá gceanglaínn	V;1;SG;SBJV;PST
-éagothromaigh	go n-éagothromaí tú	V;2:SG;SBJV;PRS
+éagothromaigh	go n-éagothromaí tú	V;2;SG;SBJV;PRS
 fosciorta	fosciortaí	N;DAT;PL
 teampall	leis an teampall	N;DAT;SG;DEF
 ladhar	leis an ladhar	N;DAT;SG;DEF
@@ -9938,7 +9938,7 @@ meatánaigin	leis an meatánaigin	N;DAT;SG;DEF
 bata	bata	N;GEN;SG
 dreapaire	dreapaire	N;DAT;SG
 folig	foligfidh sé	V;3;SG;FUT;IND
-múch	go múcha tú	V;2:SG;SBJV;PRS
+múch	go múcha tú	V;2;SG;SBJV;PRS
 teachtaire	teachtaire	N;DAT;SG
 neamhní	an neamhní	N;NOM;SG;DEF
 fáth	fátha	N;GEN;SG
@@ -9962,7 +9962,7 @@ coirt	leis na coirteacha	N;DAT;PL;DEF
 cnag	na cnaga	N;NOM;PL;DEF
 abhlóir	an abhlóra	N;GEN;SG;DEF
 scéim	scéimeanna	N;GEN;PL
-creim	dá gcreimteá	V;2:SG;SBJV;PST
+creim	dá gcreimteá	V;2;SG;SBJV;PST
 átalamh	átalamh	N;DAT;SG
 foleifteanant	an foleifteanant	N;NOM;SG;DEF
 fail	faile	N;GEN;SG
