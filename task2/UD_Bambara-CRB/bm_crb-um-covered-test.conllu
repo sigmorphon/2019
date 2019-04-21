@@ -1,0 +1,1628 @@
+# sent_id = meyer_gorog-contes_bambara_05sinamuso_jugu.dis.html:27
+# text = o sògòma, o dugujè, masakè ye tabale gosi, ko muso bèè ka na ni u ka buguri ye!
+1	o	_	_	_	_	_	_	_	_
+2	sògòma	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	o	_	_	_	_	_	_	_	_
+5	dugujè	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	masakè	_	_	_	_	_	_	_	_
+8	ye	_	_	_	_	_	_	_	_
+9	tabale	_	_	_	_	_	_	_	_
+10	gosi	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	ko	_	_	_	_	_	_	_	_
+13	muso	_	_	_	_	_	_	_	_
+14	bèè	_	_	_	_	_	_	_	_
+15	ka	_	_	_	_	_	_	_	_
+16	na	_	_	_	_	_	_	_	_
+17	ni	_	_	_	_	_	_	_	_
+18	u	_	_	_	_	_	_	_	_
+19	ka	_	_	_	_	_	_	_	_
+20	buguri	_	_	_	_	_	_	_	_
+21	ye	_	_	_	_	_	_	_	_
+22	!	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_04baramuso_jugu.dis.html:9
+# text = musokòrònin ye kurun ta ka taga o di galomuso ma.
+1	musokòrònin	_	_	_	_	_	_	_	_
+2	ye	_	_	_	_	_	_	_	_
+3	kurun	_	_	_	_	_	_	_	_
+4	ta	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	taga	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	di	_	_	_	_	_	_	_	_
+9	galomuso	_	_	_	_	_	_	_	_
+10	ma	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_08dogonin_ani_koroke.dis.html:94
+# text = kògòji ye jègè camanba di a ma.
+1	kògòji	_	_	_	_	_	_	_	_
+2	ye	_	_	_	_	_	_	_	_
+3	jègè	_	_	_	_	_	_	_	_
+4	camanba	_	_	_	_	_	_	_	_
+5	di	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	ma	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = ko.7
+# text = Olu ye du joli kɛ tomo ye, dugu duman filen kɛ kolon ye, ko olu bɛ ka kɛlɛ kɛ ni Ala ye!
+# label = strange_xcomp
+1	Olu	_	_	_	_	_	_	_	_
+2	ye	_	_	_	_	_	_	_	_
+3	du	_	_	_	_	_	_	_	_
+4	joli	_	_	_	_	_	_	_	_
+5	kɛ	_	_	_	_	_	_	_	_
+6	tomo	_	_	_	_	_	_	_	_
+7	ye	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	dugu	_	_	_	_	_	_	_	_
+10	duman	_	_	_	_	_	_	_	_
+11	filen	_	_	_	_	_	_	_	_
+12	kɛ	_	_	_	_	_	_	_	_
+13	kolon	_	_	_	_	_	_	_	_
+14	ye	_	_	_	_	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	ko	_	_	_	_	_	_	_	_
+17	olu	_	_	_	_	_	_	_	_
+18	bɛ	_	_	_	_	_	_	_	_
+19	ka	_	_	_	_	_	_	_	_
+20	kɛlɛ	_	_	_	_	_	_	_	_
+21	kɛ	_	_	_	_	_	_	_	_
+22	ni	_	_	_	_	_	_	_	_
+23	Ala	_	_	_	_	_	_	_	_
+24	ye	_	_	_	_	_	_	_	_
+25	!	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:66
+# text = jaa Jasun ba be maa dun dè, jaa Jasun ba be maa dun dè, jaa Jasun ba ye subaga ye.
+1	jaa	_	_	_	_	_	_	_	_
+2	Jasun	_	_	_	_	_	_	_	_
+3	ba	_	_	_	_	_	_	_	_
+4	be	_	_	_	_	_	_	_	_
+5	maa	_	_	_	_	_	_	_	_
+6	dun	_	_	_	_	_	_	_	_
+7	dè	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	jaa	_	_	_	_	_	_	_	_
+10	Jasun	_	_	_	_	_	_	_	_
+11	ba	_	_	_	_	_	_	_	_
+12	be	_	_	_	_	_	_	_	_
+13	maa	_	_	_	_	_	_	_	_
+14	dun	_	_	_	_	_	_	_	_
+15	dè	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	jaa	_	_	_	_	_	_	_	_
+18	Jasun	_	_	_	_	_	_	_	_
+19	ba	_	_	_	_	_	_	_	_
+20	ye	_	_	_	_	_	_	_	_
+21	subaga	_	_	_	_	_	_	_	_
+22	ye	_	_	_	_	_	_	_	_
+23	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:71
+# text = mògò ma kuma, a ye a fò bilen : ta ta ta ta, n ye a da gè !
+1	mògò	_	_	_	_	_	_	_	_
+2	ma	_	_	_	_	_	_	_	_
+3	kuma	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	ye	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	fò	_	_	_	_	_	_	_	_
+9	bilen	_	_	_	_	_	_	_	_
+10	:	_	_	_	_	_	_	_	_
+11	ta	_	_	_	_	_	_	_	_
+12	ta	_	_	_	_	_	_	_	_
+13	ta	_	_	_	_	_	_	_	_
+14	ta	_	_	_	_	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	n	_	_	_	_	_	_	_	_
+17	ye	_	_	_	_	_	_	_	_
+18	a	_	_	_	_	_	_	_	_
+19	da	_	_	_	_	_	_	_	_
+20	gè	_	_	_	_	_	_	_	_
+21	!	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:50
+# text = subagamuso nin ye muru ta tugun kò !
+1	subagamuso	_	_	_	_	_	_	_	_
+2	nin	_	_	_	_	_	_	_	_
+3	ye	_	_	_	_	_	_	_	_
+4	muru	_	_	_	_	_	_	_	_
+5	ta	_	_	_	_	_	_	_	_
+6	tugun	_	_	_	_	_	_	_	_
+7	kò	_	_	_	_	_	_	_	_
+8	!	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_10amadu_tara.dis.html:66
+# text = a tagara kòròkè ninw yòrò nyini, yala a bè se ka kelen kelen di u ma, u ka segin nyògòn fè ka na u fa bara.
+1	a	_	_	_	_	_	_	_	_
+2	tagara	_	_	_	_	_	_	_	_
+3	kòròkè	_	_	_	_	_	_	_	_
+4	ninw	_	_	_	_	_	_	_	_
+5	yòrò	_	_	_	_	_	_	_	_
+6	nyini	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	yala	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	bè	_	_	_	_	_	_	_	_
+11	se	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	kelen	_	_	_	_	_	_	_	_
+14	kelen	_	_	_	_	_	_	_	_
+15	di	_	_	_	_	_	_	_	_
+16	u	_	_	_	_	_	_	_	_
+17	ma	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	u	_	_	_	_	_	_	_	_
+20	ka	_	_	_	_	_	_	_	_
+21	segin	_	_	_	_	_	_	_	_
+22	nyògòn	_	_	_	_	_	_	_	_
+23	fè	_	_	_	_	_	_	_	_
+24	ka	_	_	_	_	_	_	_	_
+25	na	_	_	_	_	_	_	_	_
+26	u	_	_	_	_	_	_	_	_
+27	fa	_	_	_	_	_	_	_	_
+28	bara	_	_	_	_	_	_	_	_
+29	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_07denmuso_fila.dis.html:75
+# text = a ko ee, n den, i nana mun nyini, Ala bè a nògòya.
+1	a	_	_	_	_	_	_	_	_
+2	ko	_	_	_	_	_	_	_	_
+3	ee	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	n	_	_	_	_	_	_	_	_
+6	den	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	nana	_	_	_	_	_	_	_	_
+10	mun	_	_	_	_	_	_	_	_
+11	nyini	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	Ala	_	_	_	_	_	_	_	_
+14	bè	_	_	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	nògòya	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_04baramuso_jugu.dis.html:38
+# text = o ma kaba wolo.
+1	o	_	_	_	_	_	_	_	_
+2	ma	_	_	_	_	_	_	_	_
+3	kaba	_	_	_	_	_	_	_	_
+4	wolo	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_05sinamuso_jugu.dis.html:39
+# text = o kòfè, masakè ko batula ninw ye, ko aw bè mun kònò?
+1	o	_	_	_	_	_	_	_	_
+2	kòfè	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	masakè	_	_	_	_	_	_	_	_
+5	ko	_	_	_	_	_	_	_	_
+6	batula	_	_	_	_	_	_	_	_
+7	ninw	_	_	_	_	_	_	_	_
+8	ye	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	ko	_	_	_	_	_	_	_	_
+11	aw	_	_	_	_	_	_	_	_
+12	bè	_	_	_	_	_	_	_	_
+13	mun	_	_	_	_	_	_	_	_
+14	kònò	_	_	_	_	_	_	_	_
+15	?	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:22
+# text = a ye muso dun.
+1	a	_	_	_	_	_	_	_	_
+2	ye	_	_	_	_	_	_	_	_
+3	muso	_	_	_	_	_	_	_	_
+4	dun	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:82
+# text = Jasun ko han, ko ònhòn!
+1	Jasun	_	_	_	_	_	_	_	_
+2	ko	_	_	_	_	_	_	_	_
+3	han	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	ko	_	_	_	_	_	_	_	_
+6	ònhòn	_	_	_	_	_	_	_	_
+7	!	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_05sinamuso_jugu.dis.html:14
+# text = muso nin ko ko u ka a falen ko u ka a falen.
+1	muso	_	_	_	_	_	_	_	_
+2	nin	_	_	_	_	_	_	_	_
+3	ko	_	_	_	_	_	_	_	_
+4	ko	_	_	_	_	_	_	_	_
+5	u	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	falen	_	_	_	_	_	_	_	_
+9	ko	_	_	_	_	_	_	_	_
+10	u	_	_	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	falen	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_03baninyegene_furuli.dis.html:22
+# text = dèrèn dèrèn dèrèn dè!
+1	dèrèn	_	_	_	_	_	_	_	_
+2	dèrèn	_	_	_	_	_	_	_	_
+3	dèrèn	_	_	_	_	_	_	_	_
+4	dè	_	_	_	_	_	_	_	_
+5	!	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_07denmuso_fila.dis.html:152
+# text = a ko e bònè mayira.
+1	a	_	_	_	_	_	_	_	_
+2	ko	_	_	_	_	_	_	_	_
+3	e	_	_	_	_	_	_	_	_
+4	bònè	_	_	_	_	_	_	_	_
+5	mayira	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_04baramuso_jugu.dis.html:80
+# text = aw kana n faga, ne ma ko kè.
+1	aw	_	_	_	_	_	_	_	_
+2	kana	_	_	_	_	_	_	_	_
+3	n	_	_	_	_	_	_	_	_
+4	faga	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	ne	_	_	_	_	_	_	_	_
+7	ma	_	_	_	_	_	_	_	_
+8	ko	_	_	_	_	_	_	_	_
+9	kè	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_syefan_ani_syedennin.dis.html:18
+# text = dugukolo ka yèlè ka yèlè ka yèlè a ni Ala kèlèla.
+1	dugukolo	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	yèlè	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	yèlè	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	yèlè	_	_	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	ni	_	_	_	_	_	_	_	_
+10	Ala	_	_	_	_	_	_	_	_
+11	kèlèla	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_04baramuso_jugu.dis.html:67
+# text = Bilali ni a ka so nana tuguni.
+1	Bilali	_	_	_	_	_	_	_	_
+2	ni	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	so	_	_	_	_	_	_	_	_
+6	nana	_	_	_	_	_	_	_	_
+7	tuguni	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:68
+# text = ni i ye Jasun wele, ne tè i to!
+1	ni	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	ye	_	_	_	_	_	_	_	_
+4	Jasun	_	_	_	_	_	_	_	_
+5	wele	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	ne	_	_	_	_	_	_	_	_
+8	tè	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	to	_	_	_	_	_	_	_	_
+11	!	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:71
+# text = Kusuba kanliba kusa kusa!
+1	Kusuba	_	_	_	_	_	_	_	_
+2	kanliba	_	_	_	_	_	_	_	_
+3	kusa	_	_	_	_	_	_	_	_
+4	kusa	_	_	_	_	_	_	_	_
+5	!	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:76
+# text = wulunin tagara.
+1	wulunin	_	_	_	_	_	_	_	_
+2	tagara	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:69
+# text = Namaramatu ta tora kelen ye.
+1	Namaramatu	_	_	_	_	_	_	_	_
+2	ta	_	_	_	_	_	_	_	_
+3	tora	_	_	_	_	_	_	_	_
+4	kelen	_	_	_	_	_	_	_	_
+5	ye	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = konta-nsiiriw_nsanaw_06cekoroba_n_a_denw.dis.html:15
+# text = A fa ko, o ye mun kɔnɔ suguya ye, o sigijiri na sɔrɔ?
+1	A	_	_	_	_	_	_	_	_
+2	fa	_	_	_	_	_	_	_	_
+3	ko	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	ye	_	_	_	_	_	_	_	_
+7	mun	_	_	_	_	_	_	_	_
+8	kɔnɔ	_	_	_	_	_	_	_	_
+9	suguya	_	_	_	_	_	_	_	_
+10	ye	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	o	_	_	_	_	_	_	_	_
+13	sigijiri	_	_	_	_	_	_	_	_
+14	na	_	_	_	_	_	_	_	_
+15	sɔrɔ	_	_	_	_	_	_	_	_
+16	?	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:45
+# text = ko e bamuso tun bè to ka mun di a ma, e diye sunògò ?
+1	ko	_	_	_	_	_	_	_	_
+2	e	_	_	_	_	_	_	_	_
+3	bamuso	_	_	_	_	_	_	_	_
+4	tun	_	_	_	_	_	_	_	_
+5	bè	_	_	_	_	_	_	_	_
+6	to	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	mun	_	_	_	_	_	_	_	_
+9	di	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	ma	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	e	_	_	_	_	_	_	_	_
+14	diye	_	_	_	_	_	_	_	_
+15	sunògò	_	_	_	_	_	_	_	_
+16	?	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_08dogonin_ani_koroke.dis.html:100
+# text = u tilalen minkè, a ye i sigi ka kasi.
+1	u	_	_	_	_	_	_	_	_
+2	tilalen	_	_	_	_	_	_	_	_
+3	minkè	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	ye	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	sigi	_	_	_	_	_	_	_	_
+9	ka	_	_	_	_	_	_	_	_
+10	kasi	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:62
+# text = - wiyan wiyan wiyan!
+1	-	_	_	_	_	_	_	_	_
+2	wiyan	_	_	_	_	_	_	_	_
+3	wiyan	_	_	_	_	_	_	_	_
+4	wiyan	_	_	_	_	_	_	_	_
+5	!	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_07denmuso_fila.dis.html:115
+# text = a ko Ala kana hèrè kè i ye!
+1	a	_	_	_	_	_	_	_	_
+2	ko	_	_	_	_	_	_	_	_
+3	Ala	_	_	_	_	_	_	_	_
+4	kana	_	_	_	_	_	_	_	_
+5	hèrè	_	_	_	_	_	_	_	_
+6	kè	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	ye	_	_	_	_	_	_	_	_
+9	!	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_10amadu_tara.dis.html:90
+# text = kòròkè ninw ko ko minnògò bè u la, jaa u tun bè a fè ka Amadu Tara faga dè, u tè a fè a ka se so yen.
+1	kòròkè	_	_	_	_	_	_	_	_
+2	ninw	_	_	_	_	_	_	_	_
+3	ko	_	_	_	_	_	_	_	_
+4	ko	_	_	_	_	_	_	_	_
+5	minnògò	_	_	_	_	_	_	_	_
+6	bè	_	_	_	_	_	_	_	_
+7	u	_	_	_	_	_	_	_	_
+8	la	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	jaa	_	_	_	_	_	_	_	_
+11	u	_	_	_	_	_	_	_	_
+12	tun	_	_	_	_	_	_	_	_
+13	bè	_	_	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	fè	_	_	_	_	_	_	_	_
+16	ka	_	_	_	_	_	_	_	_
+17	Amadu	_	_	_	_	_	_	_	_
+18	Tara	_	_	_	_	_	_	_	_
+19	faga	_	_	_	_	_	_	_	_
+20	dè	_	_	_	_	_	_	_	_
+21	,	_	_	_	_	_	_	_	_
+22	u	_	_	_	_	_	_	_	_
+23	tè	_	_	_	_	_	_	_	_
+24	a	_	_	_	_	_	_	_	_
+25	fè	_	_	_	_	_	_	_	_
+26	a	_	_	_	_	_	_	_	_
+27	ka	_	_	_	_	_	_	_	_
+28	se	_	_	_	_	_	_	_	_
+29	so	_	_	_	_	_	_	_	_
+30	yen	_	_	_	_	_	_	_	_
+31	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_10amadu_tara.dis.html:26
+# text = kòòrimugu nin tagara sira min fè, o ni a kòròkèw tagara sira min fè, o tè kelen ye.
+1	kòòrimugu	_	_	_	_	_	_	_	_
+2	nin	_	_	_	_	_	_	_	_
+3	tagara	_	_	_	_	_	_	_	_
+4	sira	_	_	_	_	_	_	_	_
+5	min	_	_	_	_	_	_	_	_
+6	fè	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	o	_	_	_	_	_	_	_	_
+9	ni	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	kòròkèw	_	_	_	_	_	_	_	_
+12	tagara	_	_	_	_	_	_	_	_
+13	sira	_	_	_	_	_	_	_	_
+14	min	_	_	_	_	_	_	_	_
+15	fè	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	o	_	_	_	_	_	_	_	_
+18	tè	_	_	_	_	_	_	_	_
+19	kelen	_	_	_	_	_	_	_	_
+20	ye	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:47
+# text = a ye nugurè sigi tuma min, u bè tagalen, a ko : Mama Ngala ko ko n ka a sanba siginònòkènè dò.
+1	a	_	_	_	_	_	_	_	_
+2	ye	_	_	_	_	_	_	_	_
+3	nugurè	_	_	_	_	_	_	_	_
+4	sigi	_	_	_	_	_	_	_	_
+5	tuma	_	_	_	_	_	_	_	_
+6	min	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	u	_	_	_	_	_	_	_	_
+9	bè	_	_	_	_	_	_	_	_
+10	tagalen	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	ko	_	_	_	_	_	_	_	_
+14	:	_	_	_	_	_	_	_	_
+15	Mama	_	_	_	_	_	_	_	_
+16	Ngala	_	_	_	_	_	_	_	_
+17	ko	_	_	_	_	_	_	_	_
+18	ko	_	_	_	_	_	_	_	_
+19	n	_	_	_	_	_	_	_	_
+20	ka	_	_	_	_	_	_	_	_
+21	a	_	_	_	_	_	_	_	_
+22	sanba	_	_	_	_	_	_	_	_
+23	siginònòkènè	_	_	_	_	_	_	_	_
+24	dò	_	_	_	_	_	_	_	_
+25	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_07denmuso_fila.dis.html:41
+# text = o folen, a ye a ka dukènè bèe furan.
+1	o	_	_	_	_	_	_	_	_
+2	folen	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	ye	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	dukènè	_	_	_	_	_	_	_	_
+9	bèe	_	_	_	_	_	_	_	_
+10	furan	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:87
+# text = jaa Jasun ba bè maa dun dè, jaa Jasun ba bè maa dun dè, jaa Jasun ba ye subaga ye.
+1	jaa	_	_	_	_	_	_	_	_
+2	Jasun	_	_	_	_	_	_	_	_
+3	ba	_	_	_	_	_	_	_	_
+4	bè	_	_	_	_	_	_	_	_
+5	maa	_	_	_	_	_	_	_	_
+6	dun	_	_	_	_	_	_	_	_
+7	dè	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	jaa	_	_	_	_	_	_	_	_
+10	Jasun	_	_	_	_	_	_	_	_
+11	ba	_	_	_	_	_	_	_	_
+12	bè	_	_	_	_	_	_	_	_
+13	maa	_	_	_	_	_	_	_	_
+14	dun	_	_	_	_	_	_	_	_
+15	dè	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	jaa	_	_	_	_	_	_	_	_
+18	Jasun	_	_	_	_	_	_	_	_
+19	ba	_	_	_	_	_	_	_	_
+20	ye	_	_	_	_	_	_	_	_
+21	subaga	_	_	_	_	_	_	_	_
+22	ye	_	_	_	_	_	_	_	_
+23	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_03baninyegene_furuli.dis.html:21
+# text = o tuma na, jelikè fana ye ntaman ta a bè a la:
+1	o	_	_	_	_	_	_	_	_
+2	tuma	_	_	_	_	_	_	_	_
+3	na	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	jelikè	_	_	_	_	_	_	_	_
+6	fana	_	_	_	_	_	_	_	_
+7	ye	_	_	_	_	_	_	_	_
+8	ntaman	_	_	_	_	_	_	_	_
+9	ta	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	bè	_	_	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	la	_	_	_	_	_	_	_	_
+14	:	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:26
+# text = a tagara à yèrè kè dulòki nyumannin dò ye o nyèfè tugun.
+1	a	_	_	_	_	_	_	_	_
+2	tagara	_	_	_	_	_	_	_	_
+3	à	_	_	_	_	_	_	_	_
+4	yèrè	_	_	_	_	_	_	_	_
+5	kè	_	_	_	_	_	_	_	_
+6	dulòki	_	_	_	_	_	_	_	_
+7	nyumannin	_	_	_	_	_	_	_	_
+8	dò	_	_	_	_	_	_	_	_
+9	ye	_	_	_	_	_	_	_	_
+10	o	_	_	_	_	_	_	_	_
+11	nyèfè	_	_	_	_	_	_	_	_
+12	tugun	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_04baramuso_jugu.dis.html:52
+# text = ko don dò tilegan fè, ni Bilali bè na ni so ye, ko i gèrè u la.
+1	ko	_	_	_	_	_	_	_	_
+2	don	_	_	_	_	_	_	_	_
+3	dò	_	_	_	_	_	_	_	_
+4	tilegan	_	_	_	_	_	_	_	_
+5	fè	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	ni	_	_	_	_	_	_	_	_
+8	Bilali	_	_	_	_	_	_	_	_
+9	bè	_	_	_	_	_	_	_	_
+10	na	_	_	_	_	_	_	_	_
+11	ni	_	_	_	_	_	_	_	_
+12	so	_	_	_	_	_	_	_	_
+13	ye	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	ko	_	_	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	gèrè	_	_	_	_	_	_	_	_
+18	u	_	_	_	_	_	_	_	_
+19	la	_	_	_	_	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:62
+# text = Kusuba kanliba kusa kusa!
+1	Kusuba	_	_	_	_	_	_	_	_
+2	kanliba	_	_	_	_	_	_	_	_
+3	kusa	_	_	_	_	_	_	_	_
+4	kusa	_	_	_	_	_	_	_	_
+5	!	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_04baramuso_jugu.dis.html:85
+# text = a ko ne de ye a wolo tuma min, o ye kurun ta ka a di n ma, ka den ta ka a di baramuso ma.
+1	a	_	_	_	_	_	_	_	_
+2	ko	_	_	_	_	_	_	_	_
+3	ne	_	_	_	_	_	_	_	_
+4	de	_	_	_	_	_	_	_	_
+5	ye	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	wolo	_	_	_	_	_	_	_	_
+8	tuma	_	_	_	_	_	_	_	_
+9	min	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	o	_	_	_	_	_	_	_	_
+12	ye	_	_	_	_	_	_	_	_
+13	kurun	_	_	_	_	_	_	_	_
+14	ta	_	_	_	_	_	_	_	_
+15	ka	_	_	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	di	_	_	_	_	_	_	_	_
+18	n	_	_	_	_	_	_	_	_
+19	ma	_	_	_	_	_	_	_	_
+20	,	_	_	_	_	_	_	_	_
+21	ka	_	_	_	_	_	_	_	_
+22	den	_	_	_	_	_	_	_	_
+23	ta	_	_	_	_	_	_	_	_
+24	ka	_	_	_	_	_	_	_	_
+25	a	_	_	_	_	_	_	_	_
+26	di	_	_	_	_	_	_	_	_
+27	baramuso	_	_	_	_	_	_	_	_
+28	ma	_	_	_	_	_	_	_	_
+29	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_07denmuso_fila.dis.html:135
+# text = o ye i kanto ko a!
+1	o	_	_	_	_	_	_	_	_
+2	ye	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	kanto	_	_	_	_	_	_	_	_
+5	ko	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	!	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_04baramuso_jugu.dis.html:61
+# text = o ma kaba wolo.
+1	o	_	_	_	_	_	_	_	_
+2	ma	_	_	_	_	_	_	_	_
+3	kaba	_	_	_	_	_	_	_	_
+4	wolo	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_07denmuso_fila.dis.html:22
+# text = o ye a laminè ko èè ko n den, e bè taga min?
+1	o	_	_	_	_	_	_	_	_
+2	ye	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	laminè	_	_	_	_	_	_	_	_
+5	ko	_	_	_	_	_	_	_	_
+6	èè	_	_	_	_	_	_	_	_
+7	ko	_	_	_	_	_	_	_	_
+8	n	_	_	_	_	_	_	_	_
+9	den	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	e	_	_	_	_	_	_	_	_
+12	bè	_	_	_	_	_	_	_	_
+13	taga	_	_	_	_	_	_	_	_
+14	min	_	_	_	_	_	_	_	_
+15	?	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_08dogonin_ani_koroke.dis.html:25
+# text = olu tagara a fò u fa ye.
+1	olu	_	_	_	_	_	_	_	_
+2	tagara	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	fò	_	_	_	_	_	_	_	_
+5	u	_	_	_	_	_	_	_	_
+6	fa	_	_	_	_	_	_	_	_
+7	ye	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = konta-nsiiriw_nsanaw_06cekoroba_n_a_denw.dis.html:11
+# text = O fana taara kabini sɔgɔma fo tilelafana dun tuma.
+1	O	_	_	_	_	_	_	_	_
+2	fana	_	_	_	_	_	_	_	_
+3	taara	_	_	_	_	_	_	_	_
+4	kabini	_	_	_	_	_	_	_	_
+5	sɔgɔma	_	_	_	_	_	_	_	_
+6	fo	_	_	_	_	_	_	_	_
+7	tilelafana	_	_	_	_	_	_	_	_
+8	dun	_	_	_	_	_	_	_	_
+9	tuma	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_08dogonin_ani_koroke.dis.html:5
+# text = kòròkè ye i kanto dògònin ma: ko an tè an ka kònòw jeni ka u nyimi?
+1	kòròkè	_	_	_	_	_	_	_	_
+2	ye	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	kanto	_	_	_	_	_	_	_	_
+5	dògònin	_	_	_	_	_	_	_	_
+6	ma	_	_	_	_	_	_	_	_
+7	:	_	_	_	_	_	_	_	_
+8	ko	_	_	_	_	_	_	_	_
+9	an	_	_	_	_	_	_	_	_
+10	tè	_	_	_	_	_	_	_	_
+11	an	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	kònòw	_	_	_	_	_	_	_	_
+14	jeni	_	_	_	_	_	_	_	_
+15	ka	_	_	_	_	_	_	_	_
+16	u	_	_	_	_	_	_	_	_
+17	nyimi	_	_	_	_	_	_	_	_
+18	?	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_04baramuso_jugu.dis.html:59
+# text = ‐ne ka so dun tè bin dun.
+1	‐	_	_	_	_	_	_	_	_
+2	ne	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	so	_	_	_	_	_	_	_	_
+5	dun	_	_	_	_	_	_	_	_
+6	tè	_	_	_	_	_	_	_	_
+7	bin	_	_	_	_	_	_	_	_
+8	dun	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:53
+# text = Mama Ngala ko ko n ka a sanba mininyan kènè dò.
+1	Mama	_	_	_	_	_	_	_	_
+2	Ngala	_	_	_	_	_	_	_	_
+3	ko	_	_	_	_	_	_	_	_
+4	ko	_	_	_	_	_	_	_	_
+5	n	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	sanba	_	_	_	_	_	_	_	_
+9	mininyan	_	_	_	_	_	_	_	_
+10	kènè	_	_	_	_	_	_	_	_
+11	dò	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_05sinamuso_jugu.dis.html:13
+# text = muso nin a ye kònòkònò minè ale ye furuba minè.
+1	muso	_	_	_	_	_	_	_	_
+2	nin	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	ye	_	_	_	_	_	_	_	_
+5	kònòkònò	_	_	_	_	_	_	_	_
+6	minè	_	_	_	_	_	_	_	_
+7	ale	_	_	_	_	_	_	_	_
+8	ye	_	_	_	_	_	_	_	_
+9	furuba	_	_	_	_	_	_	_	_
+10	minè	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = ko.17
+# text = musokɔrɔba tlala ka suyansiirin dɔ da: ko musokɔrɔnin dɔ n' a suɲɔgɔnw y' a denw bɛɛ kelen-kelen dun fo ka se wolonflanan ma.
+1	musokɔrɔba	_	_	_	_	_	_	_	_
+2	tlala	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	suyansiirin	_	_	_	_	_	_	_	_
+5	dɔ	_	_	_	_	_	_	_	_
+6	da	_	_	_	_	_	_	_	_
+7	:	_	_	_	_	_	_	_	_
+8	ko	_	_	_	_	_	_	_	_
+9	musokɔrɔnin	_	_	_	_	_	_	_	_
+10	dɔ	_	_	_	_	_	_	_	_
+11	n'	_	_	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	suɲɔgɔnw	_	_	_	_	_	_	_	_
+14	y'	_	_	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	denw	_	_	_	_	_	_	_	_
+17	bɛɛ	_	_	_	_	_	_	_	_
+18	kelen-kelen	_	_	_	_	_	_	_	_
+19	dun	_	_	_	_	_	_	_	_
+20	fo	_	_	_	_	_	_	_	_
+21	ka	_	_	_	_	_	_	_	_
+22	se	_	_	_	_	_	_	_	_
+23	wolonflanan	_	_	_	_	_	_	_	_
+24	ma	_	_	_	_	_	_	_	_
+25	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:36
+# text = a ko an bè taga.
+1	a	_	_	_	_	_	_	_	_
+2	ko	_	_	_	_	_	_	_	_
+3	an	_	_	_	_	_	_	_	_
+4	bè	_	_	_	_	_	_	_	_
+5	taga	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:92
+# text = cènin fila tagara yèlèn o la.
+1	cènin	_	_	_	_	_	_	_	_
+2	fila	_	_	_	_	_	_	_	_
+3	tagara	_	_	_	_	_	_	_	_
+4	yèlèn	_	_	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	la	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_10amadu_tara.dis.html:78
+# text = cènin ko ko a ! ko ale ko a bè to yan, ko ale kòni bè dennin fè, ko a bè taga a furu fana, ko a bè taga a nyini ka a furu.
+1	cènin	_	_	_	_	_	_	_	_
+2	ko	_	_	_	_	_	_	_	_
+3	ko	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	!	_	_	_	_	_	_	_	_
+6	ko	_	_	_	_	_	_	_	_
+7	ale	_	_	_	_	_	_	_	_
+8	ko	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	bè	_	_	_	_	_	_	_	_
+11	to	_	_	_	_	_	_	_	_
+12	yan	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	ko	_	_	_	_	_	_	_	_
+15	ale	_	_	_	_	_	_	_	_
+16	kòni	_	_	_	_	_	_	_	_
+17	bè	_	_	_	_	_	_	_	_
+18	dennin	_	_	_	_	_	_	_	_
+19	fè	_	_	_	_	_	_	_	_
+20	,	_	_	_	_	_	_	_	_
+21	ko	_	_	_	_	_	_	_	_
+22	a	_	_	_	_	_	_	_	_
+23	bè	_	_	_	_	_	_	_	_
+24	taga	_	_	_	_	_	_	_	_
+25	a	_	_	_	_	_	_	_	_
+26	furu	_	_	_	_	_	_	_	_
+27	fana	_	_	_	_	_	_	_	_
+28	,	_	_	_	_	_	_	_	_
+29	ko	_	_	_	_	_	_	_	_
+30	a	_	_	_	_	_	_	_	_
+31	bè	_	_	_	_	_	_	_	_
+32	taga	_	_	_	_	_	_	_	_
+33	a	_	_	_	_	_	_	_	_
+34	nyini	_	_	_	_	_	_	_	_
+35	ka	_	_	_	_	_	_	_	_
+36	a	_	_	_	_	_	_	_	_
+37	furu	_	_	_	_	_	_	_	_
+38	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_04baramuso_jugu.dis.html:76
+# text = bèe nana, u bè a fò ne tè, ne tè, ne tè.
+1	bèe	_	_	_	_	_	_	_	_
+2	nana	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	u	_	_	_	_	_	_	_	_
+5	bè	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	fò	_	_	_	_	_	_	_	_
+8	ne	_	_	_	_	_	_	_	_
+9	tè	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	ne	_	_	_	_	_	_	_	_
+12	tè	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	ne	_	_	_	_	_	_	_	_
+15	tè	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:52
+# text = sosobarafa filè ti, nyamògòsanba !
+1	sosobarafa	_	_	_	_	_	_	_	_
+2	filè	_	_	_	_	_	_	_	_
+3	ti	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	nyamògòsanba	_	_	_	_	_	_	_	_
+6	!	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_03baninyegene_furuli.dis.html:34
+# text = jelikè kòni bè a la:
+1	jelikè	_	_	_	_	_	_	_	_
+2	kòni	_	_	_	_	_	_	_	_
+3	bè	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	la	_	_	_	_	_	_	_	_
+6	:	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_10amadu_tara.dis.html:40
+# text = a ye Amadu Tara sigi yen.
+1	a	_	_	_	_	_	_	_	_
+2	ye	_	_	_	_	_	_	_	_
+3	Amadu	_	_	_	_	_	_	_	_
+4	Tara	_	_	_	_	_	_	_	_
+5	sigi	_	_	_	_	_	_	_	_
+6	yen	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:111
+# text = Dawuda tagara foronto si diye o fili subagamuso nin nyèkili la.
+1	Dawuda	_	_	_	_	_	_	_	_
+2	tagara	_	_	_	_	_	_	_	_
+3	foronto	_	_	_	_	_	_	_	_
+4	si	_	_	_	_	_	_	_	_
+5	diye	_	_	_	_	_	_	_	_
+6	o	_	_	_	_	_	_	_	_
+7	fili	_	_	_	_	_	_	_	_
+8	subagamuso	_	_	_	_	_	_	_	_
+9	nin	_	_	_	_	_	_	_	_
+10	nyèkili	_	_	_	_	_	_	_	_
+11	la	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_07denmuso_fila.dis.html:3
+# text = dennin dò don.
+1	dennin	_	_	_	_	_	_	_	_
+2	dò	_	_	_	_	_	_	_	_
+3	don	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_04baramuso_jugu.dis.html:75
+# text = ayiwa, o ye tinkòròmusow wele a ko min ye nin kè, o tigi ka na a fò.
+1	ayiwa	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	o	_	_	_	_	_	_	_	_
+4	ye	_	_	_	_	_	_	_	_
+5	tinkòròmusow	_	_	_	_	_	_	_	_
+6	wele	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	ko	_	_	_	_	_	_	_	_
+9	min	_	_	_	_	_	_	_	_
+10	ye	_	_	_	_	_	_	_	_
+11	nin	_	_	_	_	_	_	_	_
+12	kè	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	o	_	_	_	_	_	_	_	_
+15	tigi	_	_	_	_	_	_	_	_
+16	ka	_	_	_	_	_	_	_	_
+17	na	_	_	_	_	_	_	_	_
+18	a	_	_	_	_	_	_	_	_
+19	fò	_	_	_	_	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_03baninyegene_furuli.dis.html:30
+# text = ayiwa, den ye i sigilen to so kònò a kasira ko ne ba yo!
+1	ayiwa	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	den	_	_	_	_	_	_	_	_
+4	ye	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	sigilen	_	_	_	_	_	_	_	_
+7	to	_	_	_	_	_	_	_	_
+8	so	_	_	_	_	_	_	_	_
+9	kònò	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	kasira	_	_	_	_	_	_	_	_
+12	ko	_	_	_	_	_	_	_	_
+13	ne	_	_	_	_	_	_	_	_
+14	ba	_	_	_	_	_	_	_	_
+15	yo	_	_	_	_	_	_	_	_
+16	!	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_08dogonin_ani_koroke.dis.html:88
+# text = n bòra kògò le julaba! julaba, n na lògò to n bolo!
+1	n	_	_	_	_	_	_	_	_
+2	bòra	_	_	_	_	_	_	_	_
+3	kògò	_	_	_	_	_	_	_	_
+4	le	_	_	_	_	_	_	_	_
+5	julaba	_	_	_	_	_	_	_	_
+6	!	_	_	_	_	_	_	_	_
+7	julaba	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	n	_	_	_	_	_	_	_	_
+10	na	_	_	_	_	_	_	_	_
+11	lògò	_	_	_	_	_	_	_	_
+12	to	_	_	_	_	_	_	_	_
+13	n	_	_	_	_	_	_	_	_
+14	bolo	_	_	_	_	_	_	_	_
+15	!	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_07denmuso_fila.dis.html:137
+# text = a ko i nana ni e da ye, tèmèn ni e da ye.
+1	a	_	_	_	_	_	_	_	_
+2	ko	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	nana	_	_	_	_	_	_	_	_
+5	ni	_	_	_	_	_	_	_	_
+6	e	_	_	_	_	_	_	_	_
+7	da	_	_	_	_	_	_	_	_
+8	ye	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	tèmèn	_	_	_	_	_	_	_	_
+11	ni	_	_	_	_	_	_	_	_
+12	e	_	_	_	_	_	_	_	_
+13	da	_	_	_	_	_	_	_	_
+14	ye	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_08dogonin_ani_koroke.dis.html:14
+# text = olu ye a wele ko a ka na u ka tulonkè kè.
+1	olu	_	_	_	_	_	_	_	_
+2	ye	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	wele	_	_	_	_	_	_	_	_
+5	ko	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	na	_	_	_	_	_	_	_	_
+9	u	_	_	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	tulonkè	_	_	_	_	_	_	_	_
+12	kè	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_07denmuso_fila.dis.html:154
+# text = n nana ka na o ye sisan?
+1	n	_	_	_	_	_	_	_	_
+2	nana	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	na	_	_	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	ye	_	_	_	_	_	_	_	_
+7	sisan	_	_	_	_	_	_	_	_
+8	?	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:68
+# text = subagamuso nin kòròtòra ka na.
+1	subagamuso	_	_	_	_	_	_	_	_
+2	nin	_	_	_	_	_	_	_	_
+3	kòròtòra	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	na	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_07denmuso_fila.dis.html:73
+# text = ni ne ba kò tun bè komi e kò, ne tun tè se i ma.
+1	ni	_	_	_	_	_	_	_	_
+2	ne	_	_	_	_	_	_	_	_
+3	ba	_	_	_	_	_	_	_	_
+4	kò	_	_	_	_	_	_	_	_
+5	tun	_	_	_	_	_	_	_	_
+6	bè	_	_	_	_	_	_	_	_
+7	komi	_	_	_	_	_	_	_	_
+8	e	_	_	_	_	_	_	_	_
+9	kò	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	ne	_	_	_	_	_	_	_	_
+12	tun	_	_	_	_	_	_	_	_
+13	tè	_	_	_	_	_	_	_	_
+14	se	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	ma	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:96
+# text = a ko: ne de ye nin ye!
+1	a	_	_	_	_	_	_	_	_
+2	ko	_	_	_	_	_	_	_	_
+3	:	_	_	_	_	_	_	_	_
+4	ne	_	_	_	_	_	_	_	_
+5	de	_	_	_	_	_	_	_	_
+6	ye	_	_	_	_	_	_	_	_
+7	nin	_	_	_	_	_	_	_	_
+8	ye	_	_	_	_	_	_	_	_
+9	!	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:37
+# text = ni i be se, n bè yèlèn i kan ni n ka minanw, i be taga n danda, an be taga.
+1	ni	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	be	_	_	_	_	_	_	_	_
+4	se	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	n	_	_	_	_	_	_	_	_
+7	bè	_	_	_	_	_	_	_	_
+8	yèlèn	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	kan	_	_	_	_	_	_	_	_
+11	ni	_	_	_	_	_	_	_	_
+12	n	_	_	_	_	_	_	_	_
+13	ka	_	_	_	_	_	_	_	_
+14	minanw	_	_	_	_	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	be	_	_	_	_	_	_	_	_
+18	taga	_	_	_	_	_	_	_	_
+19	n	_	_	_	_	_	_	_	_
+20	danda	_	_	_	_	_	_	_	_
+21	,	_	_	_	_	_	_	_	_
+22	an	_	_	_	_	_	_	_	_
+23	be	_	_	_	_	_	_	_	_
+24	taga	_	_	_	_	_	_	_	_
+25	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_07denmuso_fila.dis.html:86
+# text = ni i bè taga, i ni u bè nyògòn kunbèn.
+1	ni	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	bè	_	_	_	_	_	_	_	_
+4	taga	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	ni	_	_	_	_	_	_	_	_
+8	u	_	_	_	_	_	_	_	_
+9	bè	_	_	_	_	_	_	_	_
+10	nyògòn	_	_	_	_	_	_	_	_
+11	kunbèn	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_07denmuso_fila.dis.html:133
+# text = a tagara se fo jinamusokòròba nin ma ka a sòrò.
+1	a	_	_	_	_	_	_	_	_
+2	tagara	_	_	_	_	_	_	_	_
+3	se	_	_	_	_	_	_	_	_
+4	fo	_	_	_	_	_	_	_	_
+5	jinamusokòròba	_	_	_	_	_	_	_	_
+6	nin	_	_	_	_	_	_	_	_
+7	ma	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	sòrò	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_05sinamuso_jugu.dis.html:1
+# text = SINAMUSO JUGU
+1	SINAMUSO	_	_	_	_	_	_	_	_
+2	JUGU	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:70
+# text = dugu gèra.
+1	dugu	_	_	_	_	_	_	_	_
+2	gèra	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_04baramuso_jugu.dis.html:79
+# text = o bè taga n faga, o bè taga n faga.
+1	o	_	_	_	_	_	_	_	_
+2	bè	_	_	_	_	_	_	_	_
+3	taga	_	_	_	_	_	_	_	_
+4	n	_	_	_	_	_	_	_	_
+5	faga	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	bè	_	_	_	_	_	_	_	_
+9	taga	_	_	_	_	_	_	_	_
+10	n	_	_	_	_	_	_	_	_
+11	faga	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_07denmuso_fila.dis.html:48
+# text = o gòòtèmuso o kunsigi o bònnen bè ka na fo dugukolo.
+1	o	_	_	_	_	_	_	_	_
+2	gòòtèmuso	_	_	_	_	_	_	_	_
+3	o	_	_	_	_	_	_	_	_
+4	kunsigi	_	_	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	bònnen	_	_	_	_	_	_	_	_
+7	bè	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	na	_	_	_	_	_	_	_	_
+10	fo	_	_	_	_	_	_	_	_
+11	dugukolo	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_07denmuso_fila.dis.html:130
+# text = a ko Ala kana i ni hèra bèn!
+1	a	_	_	_	_	_	_	_	_
+2	ko	_	_	_	_	_	_	_	_
+3	Ala	_	_	_	_	_	_	_	_
+4	kana	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	ni	_	_	_	_	_	_	_	_
+7	hèra	_	_	_	_	_	_	_	_
+8	bèn	_	_	_	_	_	_	_	_
+9	!	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:66
+# text = Mama Ngala ko ko n ka a sanba siginònò kènè dò siginònòkènè dò filè ti, nyamògòsanba!
+1	Mama	_	_	_	_	_	_	_	_
+2	Ngala	_	_	_	_	_	_	_	_
+3	ko	_	_	_	_	_	_	_	_
+4	ko	_	_	_	_	_	_	_	_
+5	n	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	sanba	_	_	_	_	_	_	_	_
+9	siginònò	_	_	_	_	_	_	_	_
+10	kènè	_	_	_	_	_	_	_	_
+11	dò	_	_	_	_	_	_	_	_
+12	siginònòkènè	_	_	_	_	_	_	_	_
+13	dò	_	_	_	_	_	_	_	_
+14	filè	_	_	_	_	_	_	_	_
+15	ti	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	nyamògòsanba	_	_	_	_	_	_	_	_
+18	!	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:33
+# text = a ka ca fo ka a cèmancè fa.
+1	a	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	ca	_	_	_	_	_	_	_	_
+4	fo	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	cèmancè	_	_	_	_	_	_	_	_
+8	fa	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_07denmuso_fila.dis.html:132
+# text = a tèmèna.
+1	a	_	_	_	_	_	_	_	_
+2	tèmèna	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_10amadu_tara.dis.html:34
+# text = ko Amadu Tara ka yèlèn a kan.
+1	ko	_	_	_	_	_	_	_	_
+2	Amadu	_	_	_	_	_	_	_	_
+3	Tara	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	yèlèn	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	kan	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:108
+# text = e ma wolo ban ji nin bè yan !
+1	e	_	_	_	_	_	_	_	_
+2	ma	_	_	_	_	_	_	_	_
+3	wolo	_	_	_	_	_	_	_	_
+4	ban	_	_	_	_	_	_	_	_
+5	ji	_	_	_	_	_	_	_	_
+6	nin	_	_	_	_	_	_	_	_
+7	bè	_	_	_	_	_	_	_	_
+8	yan	_	_	_	_	_	_	_	_
+9	!	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_08dogonin_ani_koroke.dis.html:42
+# text = ko sani aw ka si kè aw ka dulòki kònò ka o bèè farafara, segi filè ne bolo.
+1	ko	_	_	_	_	_	_	_	_
+2	sani	_	_	_	_	_	_	_	_
+3	aw	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	si	_	_	_	_	_	_	_	_
+6	kè	_	_	_	_	_	_	_	_
+7	aw	_	_	_	_	_	_	_	_
+8	ka	_	_	_	_	_	_	_	_
+9	dulòki	_	_	_	_	_	_	_	_
+10	kònò	_	_	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	o	_	_	_	_	_	_	_	_
+13	bèè	_	_	_	_	_	_	_	_
+14	farafara	_	_	_	_	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	segi	_	_	_	_	_	_	_	_
+17	filè	_	_	_	_	_	_	_	_
+18	ne	_	_	_	_	_	_	_	_
+19	bolo	_	_	_	_	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_12ala_ani_sonsannin.dis.html:23
+# text = a ko nin bè a fa, nin tè a fa, nin bè a fa, nin tè a fa !
+1	a	_	_	_	_	_	_	_	_
+2	ko	_	_	_	_	_	_	_	_
+3	nin	_	_	_	_	_	_	_	_
+4	bè	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	fa	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	nin	_	_	_	_	_	_	_	_
+9	tè	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	fa	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	nin	_	_	_	_	_	_	_	_
+14	bè	_	_	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	fa	_	_	_	_	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	nin	_	_	_	_	_	_	_	_
+19	tè	_	_	_	_	_	_	_	_
+20	a	_	_	_	_	_	_	_	_
+21	fa	_	_	_	_	_	_	_	_
+22	!	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:42
+# text = a ye dennin yèlèn o bala, ko dennin ka a tigè.
+1	a	_	_	_	_	_	_	_	_
+2	ye	_	_	_	_	_	_	_	_
+3	dennin	_	_	_	_	_	_	_	_
+4	yèlèn	_	_	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	bala	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	ko	_	_	_	_	_	_	_	_
+9	dennin	_	_	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	tigè	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_07denmuso_fila.dis.html:59
+# text = a tagara Maromaro.
+1	a	_	_	_	_	_	_	_	_
+2	tagara	_	_	_	_	_	_	_	_
+3	Maromaro	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_06subagamuso_ani_a_biranmuso.dis.html:47
+# text = dennin bè dògò tigè yòrò min, a dèsèra ka dògò tigè.
+# label = rel_elided
+1	dennin	_	_	_	_	_	_	_	_
+2	bè	_	_	_	_	_	_	_	_
+3	dògò	_	_	_	_	_	_	_	_
+4	tigè	_	_	_	_	_	_	_	_
+5	yòrò	_	_	_	_	_	_	_	_
+6	min	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	dèsèra	_	_	_	_	_	_	_	_
+10	ka	_	_	_	_	_	_	_	_
+11	dògò	_	_	_	_	_	_	_	_
+12	tigè	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_10amadu_tara.dis.html:60
+# text = a ye o di a ma.
+1	a	_	_	_	_	_	_	_	_
+2	ye	_	_	_	_	_	_	_	_
+3	o	_	_	_	_	_	_	_	_
+4	di	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	ma	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_03baninyegene_furuli.dis.html:6
+# text = a bonyana ka bonya fo ka a se furu ma.
+1	a	_	_	_	_	_	_	_	_
+2	bonyana	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	bonya	_	_	_	_	_	_	_	_
+5	fo	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	se	_	_	_	_	_	_	_	_
+9	furu	_	_	_	_	_	_	_	_
+10	ma	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_04baramuso_jugu.dis.html:82
+# text = u ni a tagara.
+1	u	_	_	_	_	_	_	_	_
+2	ni	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	tagara	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_08dogonin_ani_koroke.dis.html:95
+# text = a tagara ka taga ka taga se dugu dò la.
+1	a	_	_	_	_	_	_	_	_
+2	tagara	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	taga	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	taga	_	_	_	_	_	_	_	_
+7	se	_	_	_	_	_	_	_	_
+8	dugu	_	_	_	_	_	_	_	_
+9	dò	_	_	_	_	_	_	_	_
+10	la	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_07denmuso_fila.dis.html:44
+# text = a ko a tè kala yòrò si ni Maromaro jinamuso tè.
+1	a	_	_	_	_	_	_	_	_
+2	ko	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	tè	_	_	_	_	_	_	_	_
+5	kala	_	_	_	_	_	_	_	_
+6	yòrò	_	_	_	_	_	_	_	_
+7	si	_	_	_	_	_	_	_	_
+8	ni	_	_	_	_	_	_	_	_
+9	Maromaro	_	_	_	_	_	_	_	_
+10	jinamuso	_	_	_	_	_	_	_	_
+11	tè	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_07denmuso_fila.dis.html:105
+# text = fa tè a la, ba tè a la, o filè nin ye, o kèra faama ye.
+1	fa	_	_	_	_	_	_	_	_
+2	tè	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	la	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	ba	_	_	_	_	_	_	_	_
+7	tè	_	_	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	la	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	o	_	_	_	_	_	_	_	_
+12	filè	_	_	_	_	_	_	_	_
+13	nin	_	_	_	_	_	_	_	_
+14	ye	_	_	_	_	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	o	_	_	_	_	_	_	_	_
+17	kèra	_	_	_	_	_	_	_	_
+18	faama	_	_	_	_	_	_	_	_
+19	ye	_	_	_	_	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:37
+# text = numukè lara sa ka la ka kili bò.
+1	numukè	_	_	_	_	_	_	_	_
+2	lara	_	_	_	_	_	_	_	_
+3	sa	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	la	_	_	_	_	_	_	_	_
+6	k	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	kili	_	_	_	_	_	_	_	_
+9	bò	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_08dogonin_ani_koroke.dis.html:105
+# text = n bòra lògò le genju, genju, n na tulu to n bolo
+1	n	_	_	_	_	_	_	_	_
+2	bòra	_	_	_	_	_	_	_	_
+3	lògò	_	_	_	_	_	_	_	_
+4	le	_	_	_	_	_	_	_	_
+5	genju	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	genju	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	n	_	_	_	_	_	_	_	_
+10	na	_	_	_	_	_	_	_	_
+11	tulu	_	_	_	_	_	_	_	_
+12	to	_	_	_	_	_	_	_	_
+13	n	_	_	_	_	_	_	_	_
+14	bolo	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_03baninyegene_furuli.dis.html:44
+# text = o tuma, n bè a fò i baw ye u ka i ka kònyòminènw siri.
+1	o	_	_	_	_	_	_	_	_
+2	tuma	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	n	_	_	_	_	_	_	_	_
+5	bè	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	fò	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	baw	_	_	_	_	_	_	_	_
+10	ye	_	_	_	_	_	_	_	_
+11	u	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	ka	_	_	_	_	_	_	_	_
+15	kònyòminènw	_	_	_	_	_	_	_	_
+16	siri	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_09cenin_kegunman.dis.html:96
+# text = subagamuso nin ka saga tun tununnen bè.
+1	subagamuso	_	_	_	_	_	_	_	_
+2	nin	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	saga	_	_	_	_	_	_	_	_
+5	tun	_	_	_	_	_	_	_	_
+6	tununnen	_	_	_	_	_	_	_	_
+7	bè	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_04baramuso_jugu.dis.html:50
+# text = a ko n fa masa, n ba masa, fèn bè i ka dugu kònò, e ma o faamuya.
+1	a	_	_	_	_	_	_	_	_
+2	ko	_	_	_	_	_	_	_	_
+3	n	_	_	_	_	_	_	_	_
+4	fa	_	_	_	_	_	_	_	_
+5	masa	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	n	_	_	_	_	_	_	_	_
+8	ba	_	_	_	_	_	_	_	_
+9	masa	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	fèn	_	_	_	_	_	_	_	_
+12	bè	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	ka	_	_	_	_	_	_	_	_
+15	dugu	_	_	_	_	_	_	_	_
+16	kònò	_	_	_	_	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	e	_	_	_	_	_	_	_	_
+19	ma	_	_	_	_	_	_	_	_
+20	o	_	_	_	_	_	_	_	_
+21	faamuya	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_11namaramatu_denin_karogelen.dis.html:13
+# text = a ko fònhòn !
+1	a	_	_	_	_	_	_	_	_
+2	ko	_	_	_	_	_	_	_	_
+3	fònhòn	_	_	_	_	_	_	_	_
+4	!	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_04baramuso_jugu.dis.html:73
+# text = o ma kaba wolo.
+1	o	_	_	_	_	_	_	_	_
+2	ma	_	_	_	_	_	_	_	_
+3	kaba	_	_	_	_	_	_	_	_
+4	wolo	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_04baramuso_jugu.dis.html:21
+# text = a bè taga ni a ye.
+1	a	_	_	_	_	_	_	_	_
+2	bè	_	_	_	_	_	_	_	_
+3	taga	_	_	_	_	_	_	_	_
+4	ni	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	ye	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = konta-nsiiriw_nsanaw_06cekoroba_n_a_denw.dis.html:14
+# text = Hali sisan n'i taara, i b'a sɔrɔ a ku ma tunu fɔlɔ”.
+1	Hali	_	_	_	_	_	_	_	_
+2	sisan	_	_	_	_	_	_	_	_
+3	n'	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	taara	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	b'	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	sɔrɔ	_	_	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	ku	_	_	_	_	_	_	_	_
+13	ma	_	_	_	_	_	_	_	_
+14	tunu	_	_	_	_	_	_	_	_
+15	fɔlɔ	_	_	_	_	_	_	_	_
+16	”	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_07denmuso_fila.dis.html:144
+# text = n dun nana, ni a ye a sòrò, ni i bè se ka a kala yen.
+1	n	_	_	_	_	_	_	_	_
+2	dun	_	_	_	_	_	_	_	_
+3	nana	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	ni	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	ye	_	_	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	sòrò	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	ni	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	bè	_	_	_	_	_	_	_	_
+14	se	_	_	_	_	_	_	_	_
+15	ka	_	_	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	kala	_	_	_	_	_	_	_	_
+18	yen	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_10amadu_tara.dis.html:120
+# text = Amadu Tara nana.
+1	Amadu	_	_	_	_	_	_	_	_
+2	Tara	_	_	_	_	_	_	_	_
+3	nana	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_03baninyegene_furuli.dis.html:15
+# text = ko ne bè taga dugu dò la, ko dò bè yen, a ko a tè a den di mògò si ma, fo o ka a tògò dòn.
+1	ko	_	_	_	_	_	_	_	_
+2	ne	_	_	_	_	_	_	_	_
+3	bè	_	_	_	_	_	_	_	_
+4	taga	_	_	_	_	_	_	_	_
+5	dugu	_	_	_	_	_	_	_	_
+6	dò	_	_	_	_	_	_	_	_
+7	la	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	ko	_	_	_	_	_	_	_	_
+10	dò	_	_	_	_	_	_	_	_
+11	bè	_	_	_	_	_	_	_	_
+12	yen	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	ko	_	_	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	tè	_	_	_	_	_	_	_	_
+18	a	_	_	_	_	_	_	_	_
+19	den	_	_	_	_	_	_	_	_
+20	di	_	_	_	_	_	_	_	_
+21	mògò	_	_	_	_	_	_	_	_
+22	si	_	_	_	_	_	_	_	_
+23	ma	_	_	_	_	_	_	_	_
+24	,	_	_	_	_	_	_	_	_
+25	fo	_	_	_	_	_	_	_	_
+26	o	_	_	_	_	_	_	_	_
+27	ka	_	_	_	_	_	_	_	_
+28	a	_	_	_	_	_	_	_	_
+29	tògò	_	_	_	_	_	_	_	_
+30	dòn	_	_	_	_	_	_	_	_
+31	.	_	_	_	_	_	_	_	_
+
+# sent_id = meyer_gorog-contes_bambara_07denmuso_fila.dis.html:71
+# text = a bolo tigèlen tuma min, jinamuso ye i kanto ko ne kò ani i ba kò, jòn nugulen bè?
+1	a	_	_	_	_	_	_	_	_
+2	bolo	_	_	_	_	_	_	_	_
+3	tigèlen	_	_	_	_	_	_	_	_
+4	tuma	_	_	_	_	_	_	_	_
+5	min	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	jinamuso	_	_	_	_	_	_	_	_
+8	ye	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	kanto	_	_	_	_	_	_	_	_
+11	ko	_	_	_	_	_	_	_	_
+12	ne	_	_	_	_	_	_	_	_
+13	kò	_	_	_	_	_	_	_	_
+14	ani	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	ba	_	_	_	_	_	_	_	_
+17	kò	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	jòn	_	_	_	_	_	_	_	_
+20	nugulen	_	_	_	_	_	_	_	_
+21	bè	_	_	_	_	_	_	_	_
+22	?	_	_	_	_	_	_	_	_
+

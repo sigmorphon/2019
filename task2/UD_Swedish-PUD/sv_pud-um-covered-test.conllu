@@ -1,0 +1,2612 @@
+# sent_id = w01020019
+# text = Två av de mest framstående medelhavscivilisationerna i den klassiska antiken var de grekiska stadsstaterna och fenicierna, vilka båda koloniserade Medelhavets kustlinjer i hög grad.
+# text_en = Two of the most notable Mediterranean civilisations in classical antiquity were the Greek city states and the Phoenicians, both of which extensively colonised the coastlines of the Mediterranean.
+1	Två	_	_	_	_	_	_	_	_
+2	av	_	_	_	_	_	_	_	_
+3	de	_	_	_	_	_	_	_	_
+4	mest	_	_	_	_	_	_	_	_
+5	framstående	_	_	_	_	_	_	_	_
+6	medelhavscivilisationerna	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	den	_	_	_	_	_	_	_	_
+9	klassiska	_	_	_	_	_	_	_	_
+10	antiken	_	_	_	_	_	_	_	_
+11	var	_	_	_	_	_	_	_	_
+12	de	_	_	_	_	_	_	_	_
+13	grekiska	_	_	_	_	_	_	_	_
+14	stadsstaterna	_	_	_	_	_	_	_	_
+15	och	_	_	_	_	_	_	_	_
+16	fenicierna	_	_	_	_	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	vilka	_	_	_	_	_	_	_	_
+19	båda	_	_	_	_	_	_	_	_
+20	koloniserade	_	_	_	_	_	_	_	_
+21	Medelhavets	_	_	_	_	_	_	_	_
+22	kustlinjer	_	_	_	_	_	_	_	_
+23	i	_	_	_	_	_	_	_	_
+24	hög	_	_	_	_	_	_	_	_
+25	grad	_	_	_	_	_	_	_	_
+26	.	_	_	_	_	_	_	_	_
+
+# sent_id = n04007015
+# text = Som det anges är beslutet ECB:s prerogativ och det skulle verka olämpligt för banken att uttala sig å dess vägnar genom att utesluta möjligheten att se på andra alternativ.
+# text_en = As stated, the decision is the prerogative of the ECB and would appear inappropriate for the Bank to speak on its behalf by excluding the possibility of looking at other alternatives.
+1	Som	_	_	_	_	_	_	_	_
+2	det	_	_	_	_	_	_	_	_
+3	anges	_	_	_	_	_	_	_	_
+4	är	_	_	_	_	_	_	_	_
+5	beslutet	_	_	_	_	_	_	_	_
+6	ECB:s	_	_	_	_	_	_	_	_
+7	prerogativ	_	_	_	_	_	_	_	_
+8	och	_	_	_	_	_	_	_	_
+9	det	_	_	_	_	_	_	_	_
+10	skulle	_	_	_	_	_	_	_	_
+11	verka	_	_	_	_	_	_	_	_
+12	olämpligt	_	_	_	_	_	_	_	_
+13	för	_	_	_	_	_	_	_	_
+14	banken	_	_	_	_	_	_	_	_
+15	att	_	_	_	_	_	_	_	_
+16	uttala	_	_	_	_	_	_	_	_
+17	sig	_	_	_	_	_	_	_	_
+18	å	_	_	_	_	_	_	_	_
+19	dess	_	_	_	_	_	_	_	_
+20	vägnar	_	_	_	_	_	_	_	_
+21	genom	_	_	_	_	_	_	_	_
+22	att	_	_	_	_	_	_	_	_
+23	utesluta	_	_	_	_	_	_	_	_
+24	möjligheten	_	_	_	_	_	_	_	_
+25	att	_	_	_	_	_	_	_	_
+26	se	_	_	_	_	_	_	_	_
+27	på	_	_	_	_	_	_	_	_
+28	andra	_	_	_	_	_	_	_	_
+29	alternativ	_	_	_	_	_	_	_	_
+30	.	_	_	_	_	_	_	_	_
+
+# sent_id = n04010017
+# text = Amazon har blivit det fjärde amerikanska företaget med det högsta börsvärdet, överträffande ExxonMobil.
+# text_en = Amazon has become the fourth American company with the largest market capitalisation, surpassing ExxonMobil.
+1	Amazon	_	_	_	_	_	_	_	_
+2	har	_	_	_	_	_	_	_	_
+3	blivit	_	_	_	_	_	_	_	_
+4	det	_	_	_	_	_	_	_	_
+5	fjärde	_	_	_	_	_	_	_	_
+6	amerikanska	_	_	_	_	_	_	_	_
+7	företaget	_	_	_	_	_	_	_	_
+8	med	_	_	_	_	_	_	_	_
+9	det	_	_	_	_	_	_	_	_
+10	högsta	_	_	_	_	_	_	_	_
+11	börsvärdet	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	överträffande	_	_	_	_	_	_	_	_
+14	ExxonMobil	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w01063
+# sent_id = w01063048
+# text = Gudarna representerade tydligt det dagliga livets praktiska behov, och de beviljades skrupulöst de riter och offergåvor som ansågs lämpliga.
+# text_en = The gods represented distinctly the practical needs of daily life, and they were scrupulously accorded the rites and offerings considered proper.
+1	Gudarna	_	_	_	_	_	_	_	_
+2	representerade	_	_	_	_	_	_	_	_
+3	tydligt	_	_	_	_	_	_	_	_
+4	det	_	_	_	_	_	_	_	_
+5	dagliga	_	_	_	_	_	_	_	_
+6	livets	_	_	_	_	_	_	_	_
+7	praktiska	_	_	_	_	_	_	_	_
+8	behov	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	och	_	_	_	_	_	_	_	_
+11	de	_	_	_	_	_	_	_	_
+12	beviljades	_	_	_	_	_	_	_	_
+13	skrupulöst	_	_	_	_	_	_	_	_
+14	de	_	_	_	_	_	_	_	_
+15	riter	_	_	_	_	_	_	_	_
+16	och	_	_	_	_	_	_	_	_
+17	offergåvor	_	_	_	_	_	_	_	_
+18	som	_	_	_	_	_	_	_	_
+19	ansågs	_	_	_	_	_	_	_	_
+20	lämpliga	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01066093
+# text = ”Fullständig försummelse av sin egen hälsa”, rapporterade hans fru, Alice.
+# text_en = “Complete neglect of his own health,” his wife, Alice, reported.
+1	”	_	_	_	_	_	_	_	_
+2	Fullständig	_	_	_	_	_	_	_	_
+3	försummelse	_	_	_	_	_	_	_	_
+4	av	_	_	_	_	_	_	_	_
+5	sin	_	_	_	_	_	_	_	_
+6	egen	_	_	_	_	_	_	_	_
+7	hälsa	_	_	_	_	_	_	_	_
+8	”	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	rapporterade	_	_	_	_	_	_	_	_
+11	hans	_	_	_	_	_	_	_	_
+12	fru	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	Alice	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01050014
+# text = Det är möjligt att ha normala nivåer av hemoglobin, men att ha låga reserver av järn totalt sett, säger Canadian Blood Services (CBS).
+# text_en = It's possible to have normal hemoglobin levels, but to have low iron stores overall, says Canadian Blood Services (CBS).
+1	Det	_	_	_	_	_	_	_	_
+2	är	_	_	_	_	_	_	_	_
+3	möjligt	_	_	_	_	_	_	_	_
+4	att	_	_	_	_	_	_	_	_
+5	ha	_	_	_	_	_	_	_	_
+6	normala	_	_	_	_	_	_	_	_
+7	nivåer	_	_	_	_	_	_	_	_
+8	av	_	_	_	_	_	_	_	_
+9	hemoglobin	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	men	_	_	_	_	_	_	_	_
+12	att	_	_	_	_	_	_	_	_
+13	ha	_	_	_	_	_	_	_	_
+14	låga	_	_	_	_	_	_	_	_
+15	reserver	_	_	_	_	_	_	_	_
+16	av	_	_	_	_	_	_	_	_
+17	järn	_	_	_	_	_	_	_	_
+18	totalt	_	_	_	_	_	_	_	_
+19	sett	_	_	_	_	_	_	_	_
+20	,	_	_	_	_	_	_	_	_
+21	säger	_	_	_	_	_	_	_	_
+22	Canadian	_	_	_	_	_	_	_	_
+23	Blood	_	_	_	_	_	_	_	_
+24	Services	_	_	_	_	_	_	_	_
+25	(	_	_	_	_	_	_	_	_
+26	CBS	_	_	_	_	_	_	_	_
+27	)	_	_	_	_	_	_	_	_
+28	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n01059
+# sent_id = n01059008
+# text = Denna motsägelse mellan ekonomiska data och politisk retorik är bekant, eller borde vara det.
+# text_en = This discordance between economic data and political rhetoric is familiar, or should be.
+1	Denna	_	_	_	_	_	_	_	_
+2	motsägelse	_	_	_	_	_	_	_	_
+3	mellan	_	_	_	_	_	_	_	_
+4	ekonomiska	_	_	_	_	_	_	_	_
+5	data	_	_	_	_	_	_	_	_
+6	och	_	_	_	_	_	_	_	_
+7	politisk	_	_	_	_	_	_	_	_
+8	retorik	_	_	_	_	_	_	_	_
+9	är	_	_	_	_	_	_	_	_
+10	bekant	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	eller	_	_	_	_	_	_	_	_
+13	borde	_	_	_	_	_	_	_	_
+14	vara	_	_	_	_	_	_	_	_
+15	det	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01027041
+# text = Jag frågade henne efteråt om hon förstod varför personer kanske röstar på Trump.
+# text_en = I asked her afterwards if she understood why people might vote for Trump.
+1	Jag	_	_	_	_	_	_	_	_
+2	frågade	_	_	_	_	_	_	_	_
+3	henne	_	_	_	_	_	_	_	_
+4	efteråt	_	_	_	_	_	_	_	_
+5	om	_	_	_	_	_	_	_	_
+6	hon	_	_	_	_	_	_	_	_
+7	förstod	_	_	_	_	_	_	_	_
+8	varför	_	_	_	_	_	_	_	_
+9	personer	_	_	_	_	_	_	_	_
+10	kanske	_	_	_	_	_	_	_	_
+11	röstar	_	_	_	_	_	_	_	_
+12	på	_	_	_	_	_	_	_	_
+13	Trump	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01125038
+# text = 1770 avslöjades hans bror prins Henry, hertig av Cumberland och Strathearn, som äktenskapsbrytare och följande år gifte sig Cumberland med en ung änka, Anne Horton.
+# text_en = In 1770, his brother Prince Henry, Duke of Cumberland and Strathearn, was exposed as an adulterer, and the following year Cumberland married a young widow, Anne Horton.
+1	1770	_	_	_	_	_	_	_	_
+2	avslöjades	_	_	_	_	_	_	_	_
+3	hans	_	_	_	_	_	_	_	_
+4	bror	_	_	_	_	_	_	_	_
+5	prins	_	_	_	_	_	_	_	_
+6	Henry	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	hertig	_	_	_	_	_	_	_	_
+9	av	_	_	_	_	_	_	_	_
+10	Cumberland	_	_	_	_	_	_	_	_
+11	och	_	_	_	_	_	_	_	_
+12	Strathearn	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	som	_	_	_	_	_	_	_	_
+15	äktenskapsbrytare	_	_	_	_	_	_	_	_
+16	och	_	_	_	_	_	_	_	_
+17	följande	_	_	_	_	_	_	_	_
+18	år	_	_	_	_	_	_	_	_
+19	gifte	_	_	_	_	_	_	_	_
+20	sig	_	_	_	_	_	_	_	_
+21	Cumberland	_	_	_	_	_	_	_	_
+22	med	_	_	_	_	_	_	_	_
+23	en	_	_	_	_	_	_	_	_
+24	ung	_	_	_	_	_	_	_	_
+25	änka	_	_	_	_	_	_	_	_
+26	,	_	_	_	_	_	_	_	_
+27	Anne	_	_	_	_	_	_	_	_
+28	Horton	_	_	_	_	_	_	_	_
+29	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w01032
+# sent_id = w01032139
+# text = Global uppvärmning har orsakat en förändring i regnperiodernas mönster.
+# text_en = Global warming has caused a change in the pattern of the rainy seasons.
+1	Global	_	_	_	_	_	_	_	_
+2	uppvärmning	_	_	_	_	_	_	_	_
+3	har	_	_	_	_	_	_	_	_
+4	orsakat	_	_	_	_	_	_	_	_
+5	en	_	_	_	_	_	_	_	_
+6	förändring	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	regnperiodernas	_	_	_	_	_	_	_	_
+9	mönster	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = w03003039
+# text = Under Endurance-expeditionen 1914 satte det brittiska skeppet Endurance, med kaptenen Sir Ernest Shackleton, segel med tjugoåtta män för att korsa Antarktis.
+# text_en = In the Endurance expedition in 1914, the British ship Endurance, captained by Sir Ernest Shackleton, set sail with twenty eight men to cross the Antarctic.
+1	Under	_	_	_	_	_	_	_	_
+2	Endurance-expeditionen	_	_	_	_	_	_	_	_
+3	1914	_	_	_	_	_	_	_	_
+4	satte	_	_	_	_	_	_	_	_
+5	det	_	_	_	_	_	_	_	_
+6	brittiska	_	_	_	_	_	_	_	_
+7	skeppet	_	_	_	_	_	_	_	_
+8	Endurance	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	med	_	_	_	_	_	_	_	_
+11	kaptenen	_	_	_	_	_	_	_	_
+12	Sir	_	_	_	_	_	_	_	_
+13	Ernest	_	_	_	_	_	_	_	_
+14	Shackleton	_	_	_	_	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	segel	_	_	_	_	_	_	_	_
+17	med	_	_	_	_	_	_	_	_
+18	tjugoåtta	_	_	_	_	_	_	_	_
+19	män	_	_	_	_	_	_	_	_
+20	för	_	_	_	_	_	_	_	_
+21	att	_	_	_	_	_	_	_	_
+22	korsa	_	_	_	_	_	_	_	_
+23	Antarktis	_	_	_	_	_	_	_	_
+24	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n01020
+# sent_id = n01020004
+# text = Tidigare hade jetplanen bara setts av bloggare.
+# text_en = Previously the jets had only been seen by bloggers.
+1	Tidigare	_	_	_	_	_	_	_	_
+2	hade	_	_	_	_	_	_	_	_
+3	jetplanen	_	_	_	_	_	_	_	_
+4	bara	_	_	_	_	_	_	_	_
+5	setts	_	_	_	_	_	_	_	_
+6	av	_	_	_	_	_	_	_	_
+7	bloggare	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01133022
+# text = En taleskvinna för Harley-Davidson sade att de tidslinjer som flutit runt i medierna – 2017 eller 2020 – inte stämmer.
+# text_en = A Harley-Davidson spokeswoman said timelines that have been floated in the media -- 2017 or 2020 -- aren't accurate.
+1	En	_	_	_	_	_	_	_	_
+2	taleskvinna	_	_	_	_	_	_	_	_
+3	för	_	_	_	_	_	_	_	_
+4	Harley-Davidson	_	_	_	_	_	_	_	_
+5	sade	_	_	_	_	_	_	_	_
+6	att	_	_	_	_	_	_	_	_
+7	de	_	_	_	_	_	_	_	_
+8	tidslinjer	_	_	_	_	_	_	_	_
+9	som	_	_	_	_	_	_	_	_
+10	flutit	_	_	_	_	_	_	_	_
+11	runt	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	medierna	_	_	_	_	_	_	_	_
+14	–	_	_	_	_	_	_	_	_
+15	2017	_	_	_	_	_	_	_	_
+16	eller	_	_	_	_	_	_	_	_
+17	2020	_	_	_	_	_	_	_	_
+18	–	_	_	_	_	_	_	_	_
+19	inte	_	_	_	_	_	_	_	_
+20	stämmer	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01053045
+# text = Enligt Nya testamentet tillbringade Paulus arton månader i Korint, uppskattningsvis sjutton år efter sin konvertering.
+# text_en = According to the New Testament, Paul spent eighteen months in Corinth, approximately seventeen years after his conversion.
+1	Enligt	_	_	_	_	_	_	_	_
+2	Nya	_	_	_	_	_	_	_	_
+3	testamentet	_	_	_	_	_	_	_	_
+4	tillbringade	_	_	_	_	_	_	_	_
+5	Paulus	_	_	_	_	_	_	_	_
+6	arton	_	_	_	_	_	_	_	_
+7	månader	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	Korint	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	uppskattningsvis	_	_	_	_	_	_	_	_
+12	sjutton	_	_	_	_	_	_	_	_
+13	år	_	_	_	_	_	_	_	_
+14	efter	_	_	_	_	_	_	_	_
+15	sin	_	_	_	_	_	_	_	_
+16	konvertering	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w04009
+# sent_id = w04009042
+# text = "Mannen berättade för honom att ett krig mellan två universum är på väg, så som han och Walter hade förutsagt; det är av denna anledning som Olivia, bland andra, tränades som barn. "
+# text_en = The man told him that a war between the two universes is coming, as he and Walter had predicted; it is for this reason that Olivia, among others, was trained as a child.
+1	"	_	_	_	_	_	_	_	_
+2	Mannen	_	_	_	_	_	_	_	_
+3	berättade	_	_	_	_	_	_	_	_
+4	för	_	_	_	_	_	_	_	_
+5	honom	_	_	_	_	_	_	_	_
+6	att	_	_	_	_	_	_	_	_
+7	ett	_	_	_	_	_	_	_	_
+8	krig	_	_	_	_	_	_	_	_
+9	mellan	_	_	_	_	_	_	_	_
+10	två	_	_	_	_	_	_	_	_
+11	universum	_	_	_	_	_	_	_	_
+12	är	_	_	_	_	_	_	_	_
+13	på	_	_	_	_	_	_	_	_
+14	väg	_	_	_	_	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	så	_	_	_	_	_	_	_	_
+17	som	_	_	_	_	_	_	_	_
+18	han	_	_	_	_	_	_	_	_
+19	och	_	_	_	_	_	_	_	_
+20	Walter	_	_	_	_	_	_	_	_
+21	hade	_	_	_	_	_	_	_	_
+22	förutsagt	_	_	_	_	_	_	_	_
+23	;	_	_	_	_	_	_	_	_
+24	det	_	_	_	_	_	_	_	_
+25	är	_	_	_	_	_	_	_	_
+26	av	_	_	_	_	_	_	_	_
+27	denna	_	_	_	_	_	_	_	_
+28	anledning	_	_	_	_	_	_	_	_
+29	som	_	_	_	_	_	_	_	_
+30	Olivia	_	_	_	_	_	_	_	_
+31	,	_	_	_	_	_	_	_	_
+32	bland	_	_	_	_	_	_	_	_
+33	andra	_	_	_	_	_	_	_	_
+34	,	_	_	_	_	_	_	_	_
+35	tränades	_	_	_	_	_	_	_	_
+36	som	_	_	_	_	_	_	_	_
+37	barn	_	_	_	_	_	_	_	_
+38	.	_	_	_	_	_	_	_	_
+39	"	_	_	_	_	_	_	_	_
+
+# sent_id = w02019085
+# text = Följande år 1977 mottog han distinktionen av den Amerikanska vänskapsmedaljen för den vänliga inställning hans press hade gentemot USA.
+# text_en = In the following year, 1977, he received the distinction of the American Friendship Medal for the friendly position of his press toward the USA.
+1	Följande	_	_	_	_	_	_	_	_
+2	år	_	_	_	_	_	_	_	_
+3	1977	_	_	_	_	_	_	_	_
+4	mottog	_	_	_	_	_	_	_	_
+5	han	_	_	_	_	_	_	_	_
+6	distinktionen	_	_	_	_	_	_	_	_
+7	av	_	_	_	_	_	_	_	_
+8	den	_	_	_	_	_	_	_	_
+9	Amerikanska	_	_	_	_	_	_	_	_
+10	vänskapsmedaljen	_	_	_	_	_	_	_	_
+11	för	_	_	_	_	_	_	_	_
+12	den	_	_	_	_	_	_	_	_
+13	vänliga	_	_	_	_	_	_	_	_
+14	inställning	_	_	_	_	_	_	_	_
+15	hans	_	_	_	_	_	_	_	_
+16	press	_	_	_	_	_	_	_	_
+17	hade	_	_	_	_	_	_	_	_
+18	gentemot	_	_	_	_	_	_	_	_
+19	USA	_	_	_	_	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01027035
+# text = Norra Algeriet är i den tempererade zonen och åtnjuter ett milt medelhavsklimat.
+# text_en = Northern Algeria is in the temperate zone and enjoys a mild, Mediterranean climate.
+1	Norra	_	_	_	_	_	_	_	_
+2	Algeriet	_	_	_	_	_	_	_	_
+3	är	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	den	_	_	_	_	_	_	_	_
+6	tempererade	_	_	_	_	_	_	_	_
+7	zonen	_	_	_	_	_	_	_	_
+8	och	_	_	_	_	_	_	_	_
+9	åtnjuter	_	_	_	_	_	_	_	_
+10	ett	_	_	_	_	_	_	_	_
+11	milt	_	_	_	_	_	_	_	_
+12	medelhavsklimat	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w01087
+# sent_id = w01087052
+# text = Utbildning under renässansen bestod mestadels av antik litteratur och historia eftersom det ansågs att klassikerna erbjöd moralisk instruktion och en intensiv förståelse för mänskligt beteende.
+# text_en = Education during the Renaissance was mainly composed of ancient literature and history as it was thought that the classics provided moral instruction and an intensive understanding of human behavior.
+1	Utbildning	_	_	_	_	_	_	_	_
+2	under	_	_	_	_	_	_	_	_
+3	renässansen	_	_	_	_	_	_	_	_
+4	bestod	_	_	_	_	_	_	_	_
+5	mestadels	_	_	_	_	_	_	_	_
+6	av	_	_	_	_	_	_	_	_
+7	antik	_	_	_	_	_	_	_	_
+8	litteratur	_	_	_	_	_	_	_	_
+9	och	_	_	_	_	_	_	_	_
+10	historia	_	_	_	_	_	_	_	_
+11	eftersom	_	_	_	_	_	_	_	_
+12	det	_	_	_	_	_	_	_	_
+13	ansågs	_	_	_	_	_	_	_	_
+14	att	_	_	_	_	_	_	_	_
+15	klassikerna	_	_	_	_	_	_	_	_
+16	erbjöd	_	_	_	_	_	_	_	_
+17	moralisk	_	_	_	_	_	_	_	_
+18	instruktion	_	_	_	_	_	_	_	_
+19	och	_	_	_	_	_	_	_	_
+20	en	_	_	_	_	_	_	_	_
+21	intensiv	_	_	_	_	_	_	_	_
+22	förståelse	_	_	_	_	_	_	_	_
+23	för	_	_	_	_	_	_	_	_
+24	mänskligt	_	_	_	_	_	_	_	_
+25	beteende	_	_	_	_	_	_	_	_
+26	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n01013
+# sent_id = n01013005
+# text = Mr Osborne gick med i en talaragentur efter att ha blivit avskedad i juli.
+# text_en = Mr Osborne signed up with a US speakers agency after being sacked in July.
+1	Mr	_	_	_	_	_	_	_	_
+2	Osborne	_	_	_	_	_	_	_	_
+3	gick	_	_	_	_	_	_	_	_
+4	med	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	en	_	_	_	_	_	_	_	_
+7	talaragentur	_	_	_	_	_	_	_	_
+8	efter	_	_	_	_	_	_	_	_
+9	att	_	_	_	_	_	_	_	_
+10	ha	_	_	_	_	_	_	_	_
+11	blivit	_	_	_	_	_	_	_	_
+12	avskedad	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	juli	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = w05007080
+# text = Försöken att sluta fred tog till sist slut på våren 1415 och Enrique beslöt sig för att utföra sin plan: en invasion av hela kungadömet Frankrike.
+# text_en = The attempts at making peace finally ended in spring of 1415 and Enrique decided to execute his plan: an invasion of the entire Kingdom of France.
+1	Försöken	_	_	_	_	_	_	_	_
+2	att	_	_	_	_	_	_	_	_
+3	sluta	_	_	_	_	_	_	_	_
+4	fred	_	_	_	_	_	_	_	_
+5	tog	_	_	_	_	_	_	_	_
+6	till	_	_	_	_	_	_	_	_
+7	sist	_	_	_	_	_	_	_	_
+8	slut	_	_	_	_	_	_	_	_
+9	på	_	_	_	_	_	_	_	_
+10	våren	_	_	_	_	_	_	_	_
+11	1415	_	_	_	_	_	_	_	_
+12	och	_	_	_	_	_	_	_	_
+13	Enrique	_	_	_	_	_	_	_	_
+14	beslöt	_	_	_	_	_	_	_	_
+15	sig	_	_	_	_	_	_	_	_
+16	för	_	_	_	_	_	_	_	_
+17	att	_	_	_	_	_	_	_	_
+18	utföra	_	_	_	_	_	_	_	_
+19	sin	_	_	_	_	_	_	_	_
+20	plan	_	_	_	_	_	_	_	_
+21	:	_	_	_	_	_	_	_	_
+22	en	_	_	_	_	_	_	_	_
+23	invasion	_	_	_	_	_	_	_	_
+24	av	_	_	_	_	_	_	_	_
+25	hela	_	_	_	_	_	_	_	_
+26	kungadömet	_	_	_	_	_	_	_	_
+27	Frankrike	_	_	_	_	_	_	_	_
+28	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n01027
+# sent_id = n01027007
+# text = Vilka är de?
+# text_en = Who are they?
+1	Vilka	_	_	_	_	_	_	_	_
+2	är	_	_	_	_	_	_	_	_
+3	de	_	_	_	_	_	_	_	_
+4	?	_	_	_	_	_	_	_	_
+
+# newdoc id = w01001
+# sent_id = w01001049
+# text = Urkunden gav tillstånd för bildandet av ett köpmannagille, drivet av stadens borgerskap som beskattade människor som passerade genom staden.
+# text_en = The charter allowed for the creation of a merchants' guild, run by the town's burgesses to tax people passing through the borough.
+1	Urkunden	_	_	_	_	_	_	_	_
+2	gav	_	_	_	_	_	_	_	_
+3	tillstånd	_	_	_	_	_	_	_	_
+4	för	_	_	_	_	_	_	_	_
+5	bildandet	_	_	_	_	_	_	_	_
+6	av	_	_	_	_	_	_	_	_
+7	ett	_	_	_	_	_	_	_	_
+8	köpmannagille	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	drivet	_	_	_	_	_	_	_	_
+11	av	_	_	_	_	_	_	_	_
+12	stadens	_	_	_	_	_	_	_	_
+13	borgerskap	_	_	_	_	_	_	_	_
+14	som	_	_	_	_	_	_	_	_
+15	beskattade	_	_	_	_	_	_	_	_
+16	människor	_	_	_	_	_	_	_	_
+17	som	_	_	_	_	_	_	_	_
+18	passerade	_	_	_	_	_	_	_	_
+19	genom	_	_	_	_	_	_	_	_
+20	staden	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01107124
+# text = Hitchcock föredrog att arbeta med sin tids främsta talanger – filmaffischdesigner som Bill Gold och Saul Bass – som tog fram affischer som pricksäkert representerade hans filmer.
+# text_en = Hitchcock preferred to work with the best talent of his day—film poster designers such as Bill Gold and Saul Bass—who would produce posters that accurately represented his films.
+1	Hitchcock	_	_	_	_	_	_	_	_
+2	föredrog	_	_	_	_	_	_	_	_
+3	att	_	_	_	_	_	_	_	_
+4	arbeta	_	_	_	_	_	_	_	_
+5	med	_	_	_	_	_	_	_	_
+6	sin	_	_	_	_	_	_	_	_
+7	tids	_	_	_	_	_	_	_	_
+8	främsta	_	_	_	_	_	_	_	_
+9	talanger	_	_	_	_	_	_	_	_
+10	–	_	_	_	_	_	_	_	_
+11	filmaffischdesigner	_	_	_	_	_	_	_	_
+12	som	_	_	_	_	_	_	_	_
+13	Bill	_	_	_	_	_	_	_	_
+14	Gold	_	_	_	_	_	_	_	_
+15	och	_	_	_	_	_	_	_	_
+16	Saul	_	_	_	_	_	_	_	_
+17	Bass	_	_	_	_	_	_	_	_
+18	–	_	_	_	_	_	_	_	_
+19	som	_	_	_	_	_	_	_	_
+20	tog	_	_	_	_	_	_	_	_
+21	fram	_	_	_	_	_	_	_	_
+22	affischer	_	_	_	_	_	_	_	_
+23	som	_	_	_	_	_	_	_	_
+24	pricksäkert	_	_	_	_	_	_	_	_
+25	representerade	_	_	_	_	_	_	_	_
+26	hans	_	_	_	_	_	_	_	_
+27	filmer	_	_	_	_	_	_	_	_
+28	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n01042
+# sent_id = n01042004
+# text = Chefen för Ontario Independent Police Review, Gerry McNeilly, satte ut villkoren för sin granskning den här veckan efter att ”alarmerande frågor” hade väckts över hur poliser bemöter ursprungsbefolkningar.
+# text_en = The Ontario Independent Police Review Director, Gerry McNeilly, set the terms for his review this week after "alarming questions" were raised about how officers interact with Indigenous peoples.
+1	Chefen	_	_	_	_	_	_	_	_
+2	för	_	_	_	_	_	_	_	_
+3	Ontario	_	_	_	_	_	_	_	_
+4	Independent	_	_	_	_	_	_	_	_
+5	Police	_	_	_	_	_	_	_	_
+6	Review	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	Gerry	_	_	_	_	_	_	_	_
+9	McNeilly	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	satte	_	_	_	_	_	_	_	_
+12	ut	_	_	_	_	_	_	_	_
+13	villkoren	_	_	_	_	_	_	_	_
+14	för	_	_	_	_	_	_	_	_
+15	sin	_	_	_	_	_	_	_	_
+16	granskning	_	_	_	_	_	_	_	_
+17	den	_	_	_	_	_	_	_	_
+18	här	_	_	_	_	_	_	_	_
+19	veckan	_	_	_	_	_	_	_	_
+20	efter	_	_	_	_	_	_	_	_
+21	att	_	_	_	_	_	_	_	_
+22	”	_	_	_	_	_	_	_	_
+23	alarmerande	_	_	_	_	_	_	_	_
+24	frågor	_	_	_	_	_	_	_	_
+25	”	_	_	_	_	_	_	_	_
+26	hade	_	_	_	_	_	_	_	_
+27	väckts	_	_	_	_	_	_	_	_
+28	över	_	_	_	_	_	_	_	_
+29	hur	_	_	_	_	_	_	_	_
+30	poliser	_	_	_	_	_	_	_	_
+31	bemöter	_	_	_	_	_	_	_	_
+32	ursprungsbefolkningar	_	_	_	_	_	_	_	_
+33	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01110008
+# text = Om de gjorde det skulle premieobligationer vara omöjliga att särskilja från vanliga sparkonton.
+# text_en = If they did, Premium Bonds would be indistinguishable from ordinary savings accounts.
+1	Om	_	_	_	_	_	_	_	_
+2	de	_	_	_	_	_	_	_	_
+3	gjorde	_	_	_	_	_	_	_	_
+4	det	_	_	_	_	_	_	_	_
+5	skulle	_	_	_	_	_	_	_	_
+6	premieobligationer	_	_	_	_	_	_	_	_
+7	vara	_	_	_	_	_	_	_	_
+8	omöjliga	_	_	_	_	_	_	_	_
+9	att	_	_	_	_	_	_	_	_
+10	särskilja	_	_	_	_	_	_	_	_
+11	från	_	_	_	_	_	_	_	_
+12	vanliga	_	_	_	_	_	_	_	_
+13	sparkonton	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w05005
+# sent_id = w05005083
+# text = Saker började förändras i oktober 1777 när brittiska styrkor under befäl av general John Burgoyne kapitulerade i Saratoga i den norra delen av staten New York.
+# text_en = Things started to change in October 1777 when British forces under the command of General John Burgoyne surrendered in Saratoga in the north of the state of New York.
+1	Saker	_	_	_	_	_	_	_	_
+2	började	_	_	_	_	_	_	_	_
+3	förändras	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	oktober	_	_	_	_	_	_	_	_
+6	1777	_	_	_	_	_	_	_	_
+7	när	_	_	_	_	_	_	_	_
+8	brittiska	_	_	_	_	_	_	_	_
+9	styrkor	_	_	_	_	_	_	_	_
+10	under	_	_	_	_	_	_	_	_
+11	befäl	_	_	_	_	_	_	_	_
+12	av	_	_	_	_	_	_	_	_
+13	general	_	_	_	_	_	_	_	_
+14	John	_	_	_	_	_	_	_	_
+15	Burgoyne	_	_	_	_	_	_	_	_
+16	kapitulerade	_	_	_	_	_	_	_	_
+17	i	_	_	_	_	_	_	_	_
+18	Saratoga	_	_	_	_	_	_	_	_
+19	i	_	_	_	_	_	_	_	_
+20	den	_	_	_	_	_	_	_	_
+21	norra	_	_	_	_	_	_	_	_
+22	delen	_	_	_	_	_	_	_	_
+23	av	_	_	_	_	_	_	_	_
+24	staten	_	_	_	_	_	_	_	_
+25	New	_	_	_	_	_	_	_	_
+26	York	_	_	_	_	_	_	_	_
+27	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n02027
+# sent_id = n02027007
+# text = Enligt Parker är Ryska underrättelseagenter aktiva i stora antal i Storbritannien.
+# text_en = According to Parker, Russian Secret Service agents are active in large numbers in Great Britain.
+1	Enligt	_	_	_	_	_	_	_	_
+2	Parker	_	_	_	_	_	_	_	_
+3	är	_	_	_	_	_	_	_	_
+4	Ryska	_	_	_	_	_	_	_	_
+5	underrättelseagenter	_	_	_	_	_	_	_	_
+6	aktiva	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	stora	_	_	_	_	_	_	_	_
+9	antal	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	Storbritannien	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n01018
+# sent_id = n01018024
+# text = Det är som en superkraft ibland.
+# text_en = It's like a super power sometimes.
+1	Det	_	_	_	_	_	_	_	_
+2	är	_	_	_	_	_	_	_	_
+3	som	_	_	_	_	_	_	_	_
+4	en	_	_	_	_	_	_	_	_
+5	superkraft	_	_	_	_	_	_	_	_
+6	ibland	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w01064
+# sent_id = w01064034
+# text = Detta var med båt från den europeiska kontinenten.
+# text_en = This was by boat from continental Europe.
+1	Detta	_	_	_	_	_	_	_	_
+2	var	_	_	_	_	_	_	_	_
+3	med	_	_	_	_	_	_	_	_
+4	båt	_	_	_	_	_	_	_	_
+5	från	_	_	_	_	_	_	_	_
+6	den	_	_	_	_	_	_	_	_
+7	europeiska	_	_	_	_	_	_	_	_
+8	kontinenten	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w01086
+# sent_id = w01086012
+# text = Offensiven mot den stora armé som Venedig anlitat påbörjades från Frankrike.
+# text_en = The offensive against the huge army enlisted by Venice was launched from France.
+1	Offensiven	_	_	_	_	_	_	_	_
+2	mot	_	_	_	_	_	_	_	_
+3	den	_	_	_	_	_	_	_	_
+4	stora	_	_	_	_	_	_	_	_
+5	armé	_	_	_	_	_	_	_	_
+6	som	_	_	_	_	_	_	_	_
+7	Venedig	_	_	_	_	_	_	_	_
+8	anlitat	_	_	_	_	_	_	_	_
+9	påbörjades	_	_	_	_	_	_	_	_
+10	från	_	_	_	_	_	_	_	_
+11	Frankrike	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01052038
+# text = Den egyptiske faraon fann sig så i Norra Amurru, långt bortanför Kadesh, i Tunip, dit ingen egyptisk soldat hade varit sedan Thutmosis III nästan 120 år tidigare.
+# text_en = The Egyptian pharaoh thus found himself in northern Amurru, well past Kadesh, in Tunip, where no Egyptian soldier had been seen since the time of Thutmose III almost 120 years earlier.
+1	Den	_	_	_	_	_	_	_	_
+2	egyptiske	_	_	_	_	_	_	_	_
+3	faraon	_	_	_	_	_	_	_	_
+4	fann	_	_	_	_	_	_	_	_
+5	sig	_	_	_	_	_	_	_	_
+6	så	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	Norra	_	_	_	_	_	_	_	_
+9	Amurru	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	långt	_	_	_	_	_	_	_	_
+12	bortanför	_	_	_	_	_	_	_	_
+13	Kadesh	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	Tunip	_	_	_	_	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	dit	_	_	_	_	_	_	_	_
+19	ingen	_	_	_	_	_	_	_	_
+20	egyptisk	_	_	_	_	_	_	_	_
+21	soldat	_	_	_	_	_	_	_	_
+22	hade	_	_	_	_	_	_	_	_
+23	varit	_	_	_	_	_	_	_	_
+24	sedan	_	_	_	_	_	_	_	_
+25	Thutmosis	_	_	_	_	_	_	_	_
+26	III	_	_	_	_	_	_	_	_
+26.1	dit	_	_	_	_	_	_	_	_
+27	nästan	_	_	_	_	_	_	_	_
+28	120	_	_	_	_	_	_	_	_
+29	år	_	_	_	_	_	_	_	_
+30	tidigare	_	_	_	_	_	_	_	_
+31	.	_	_	_	_	_	_	_	_
+
+# sent_id = w03005014
+# text = Från 800-talet f.Kr. börjar de första grekiska texterna uppträda.
+# text_en = From the 9th century BC, the first Greek texts began to appear.
+1	Från	_	_	_	_	_	_	_	_
+2	800-talet	_	_	_	_	_	_	_	_
+3	f.Kr.	_	_	_	_	_	_	_	_
+4	börjar	_	_	_	_	_	_	_	_
+5	de	_	_	_	_	_	_	_	_
+6	första	_	_	_	_	_	_	_	_
+7	grekiska	_	_	_	_	_	_	_	_
+8	texterna	_	_	_	_	_	_	_	_
+9	uppträda	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01150047
+# text = Efter att det stod klart att det Osmanska imperiet skulle förlora hela Makedonien och dess territoriella förbindelse med Albanien förstod stormakterna att de behövde ändra sitt beslut.
+# text_en = After it became obvious that Ottoman Empire would lose all of Macedonia and its territorial connection with Albania, the Great Powers realized they had to change their decision.
+1	Efter	_	_	_	_	_	_	_	_
+2	att	_	_	_	_	_	_	_	_
+3	det	_	_	_	_	_	_	_	_
+4	stod	_	_	_	_	_	_	_	_
+5	klart	_	_	_	_	_	_	_	_
+6	att	_	_	_	_	_	_	_	_
+7	det	_	_	_	_	_	_	_	_
+8	Osmanska	_	_	_	_	_	_	_	_
+9	imperiet	_	_	_	_	_	_	_	_
+10	skulle	_	_	_	_	_	_	_	_
+11	förlora	_	_	_	_	_	_	_	_
+12	hela	_	_	_	_	_	_	_	_
+13	Makedonien	_	_	_	_	_	_	_	_
+14	och	_	_	_	_	_	_	_	_
+15	dess	_	_	_	_	_	_	_	_
+16	territoriella	_	_	_	_	_	_	_	_
+17	förbindelse	_	_	_	_	_	_	_	_
+18	med	_	_	_	_	_	_	_	_
+19	Albanien	_	_	_	_	_	_	_	_
+20	förstod	_	_	_	_	_	_	_	_
+21	stormakterna	_	_	_	_	_	_	_	_
+22	att	_	_	_	_	_	_	_	_
+23	de	_	_	_	_	_	_	_	_
+24	behövde	_	_	_	_	_	_	_	_
+25	ändra	_	_	_	_	_	_	_	_
+26	sitt	_	_	_	_	_	_	_	_
+27	beslut	_	_	_	_	_	_	_	_
+28	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w01019
+# sent_id = w01019014
+# text = Sahelens klimat liknar, men är mindre extremt än, det i Saharaöknen alldeles i norr.
+# text_en = The Sahel's climate is similar to, but less extreme than, the climate of the Sahara desert located just to the north.
+1	Sahelens	_	_	_	_	_	_	_	_
+2	klimat	_	_	_	_	_	_	_	_
+3	liknar	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	men	_	_	_	_	_	_	_	_
+6	är	_	_	_	_	_	_	_	_
+7	mindre	_	_	_	_	_	_	_	_
+8	extremt	_	_	_	_	_	_	_	_
+9	än	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	det	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	Saharaöknen	_	_	_	_	_	_	_	_
+14	alldeles	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	norr	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01097041
+# text = Jag lade märke till några stycken.
+# text_en = I spotted a few.
+1	Jag	_	_	_	_	_	_	_	_
+2	lade	_	_	_	_	_	_	_	_
+3	märke	_	_	_	_	_	_	_	_
+4	till	_	_	_	_	_	_	_	_
+5	några	_	_	_	_	_	_	_	_
+6	stycken	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w01125
+# sent_id = w01125034
+# text = Wilkes återvaldes och utestängdes två gånger till innan underhuset beslöt att hans kandidatur var ogiltig och förklarade tvåan som vinnare.
+# text_en = Wilkes was re-elected and expelled twice more, before the House of Commons resolved that his candidature was invalid and declared the runner-up as the victor.
+1	Wilkes	_	_	_	_	_	_	_	_
+2	återvaldes	_	_	_	_	_	_	_	_
+3	och	_	_	_	_	_	_	_	_
+4	utestängdes	_	_	_	_	_	_	_	_
+5	två	_	_	_	_	_	_	_	_
+6	gånger	_	_	_	_	_	_	_	_
+7	till	_	_	_	_	_	_	_	_
+8	innan	_	_	_	_	_	_	_	_
+9	underhuset	_	_	_	_	_	_	_	_
+10	beslöt	_	_	_	_	_	_	_	_
+11	att	_	_	_	_	_	_	_	_
+12	hans	_	_	_	_	_	_	_	_
+13	kandidatur	_	_	_	_	_	_	_	_
+14	var	_	_	_	_	_	_	_	_
+15	ogiltig	_	_	_	_	_	_	_	_
+16	och	_	_	_	_	_	_	_	_
+17	förklarade	_	_	_	_	_	_	_	_
+18	tvåan	_	_	_	_	_	_	_	_
+19	som	_	_	_	_	_	_	_	_
+20	vinnare	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01022010
+# text = Vi rör oss i rätt riktning: Paris-avtalet kommer att sakta ner klimatförändringarna, vilket även det nyliga Kigali-tillägget för att minska HFC:er kommer att göra, sade Erik Solheim, chef för FN:s miljöorgan.
+# text_en = "We are moving in the right direction: the Paris Agreement will slow climate change, as will the recent Kigali Amendment to reduce HFCs," said Erik Solheim, head of UN Environment.
+1	Vi	_	_	_	_	_	_	_	_
+2	rör	_	_	_	_	_	_	_	_
+3	oss	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	rätt	_	_	_	_	_	_	_	_
+6	riktning	_	_	_	_	_	_	_	_
+7	:	_	_	_	_	_	_	_	_
+8	Paris-avtalet	_	_	_	_	_	_	_	_
+9	kommer	_	_	_	_	_	_	_	_
+10	att	_	_	_	_	_	_	_	_
+11	sakta	_	_	_	_	_	_	_	_
+12	ner	_	_	_	_	_	_	_	_
+13	klimatförändringarna	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	vilket	_	_	_	_	_	_	_	_
+16	även	_	_	_	_	_	_	_	_
+17	det	_	_	_	_	_	_	_	_
+18	nyliga	_	_	_	_	_	_	_	_
+19	Kigali-tillägget	_	_	_	_	_	_	_	_
+20	för	_	_	_	_	_	_	_	_
+21	att	_	_	_	_	_	_	_	_
+22	minska	_	_	_	_	_	_	_	_
+23	HFC:er	_	_	_	_	_	_	_	_
+24	kommer	_	_	_	_	_	_	_	_
+25	att	_	_	_	_	_	_	_	_
+26	göra	_	_	_	_	_	_	_	_
+27	,	_	_	_	_	_	_	_	_
+28	sade	_	_	_	_	_	_	_	_
+29	Erik	_	_	_	_	_	_	_	_
+30	Solheim	_	_	_	_	_	_	_	_
+31	,	_	_	_	_	_	_	_	_
+32	chef	_	_	_	_	_	_	_	_
+33	för	_	_	_	_	_	_	_	_
+34	FN:s	_	_	_	_	_	_	_	_
+35	miljöorgan	_	_	_	_	_	_	_	_
+36	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01029011
+# text = Seagal, vars farmor kom från Vladivostok i Rysslands östligaste delar har gjort flera resor till Ryssland de senaste åren och besökte Kamtjatka och Sakhalin i september.
+# text_en = Seagal, whose grandmother was from Vladivostok in Russia's far east, has made frequent trips to Russia in recent years and visited Kamchatka and Sakhalin in September.
+1	Seagal	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	vars	_	_	_	_	_	_	_	_
+4	farmor	_	_	_	_	_	_	_	_
+5	kom	_	_	_	_	_	_	_	_
+6	från	_	_	_	_	_	_	_	_
+7	Vladivostok	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	Rysslands	_	_	_	_	_	_	_	_
+10	östligaste	_	_	_	_	_	_	_	_
+11	delar	_	_	_	_	_	_	_	_
+12	har	_	_	_	_	_	_	_	_
+13	gjort	_	_	_	_	_	_	_	_
+14	flera	_	_	_	_	_	_	_	_
+15	resor	_	_	_	_	_	_	_	_
+16	till	_	_	_	_	_	_	_	_
+17	Ryssland	_	_	_	_	_	_	_	_
+18	de	_	_	_	_	_	_	_	_
+19	senaste	_	_	_	_	_	_	_	_
+20	åren	_	_	_	_	_	_	_	_
+21	och	_	_	_	_	_	_	_	_
+22	besökte	_	_	_	_	_	_	_	_
+23	Kamtjatka	_	_	_	_	_	_	_	_
+24	och	_	_	_	_	_	_	_	_
+25	Sakhalin	_	_	_	_	_	_	_	_
+26	i	_	_	_	_	_	_	_	_
+27	september	_	_	_	_	_	_	_	_
+28	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01019005
+# text = Men några säkerhetsexperter väckte frågor om behovet av kursen och avsikten bakom den.
+# text_en = But some security experts raised questions about the need for the course and the intent behind it.
+1	Men	_	_	_	_	_	_	_	_
+2	några	_	_	_	_	_	_	_	_
+3	säkerhetsexperter	_	_	_	_	_	_	_	_
+4	väckte	_	_	_	_	_	_	_	_
+5	frågor	_	_	_	_	_	_	_	_
+6	om	_	_	_	_	_	_	_	_
+7	behovet	_	_	_	_	_	_	_	_
+8	av	_	_	_	_	_	_	_	_
+9	kursen	_	_	_	_	_	_	_	_
+10	och	_	_	_	_	_	_	_	_
+11	avsikten	_	_	_	_	_	_	_	_
+12	bakom	_	_	_	_	_	_	_	_
+13	den	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01115025
+# text = Efter att ha följt en jobbannons som hans syster hittat i The Scotsman arbetade han i ett och ett halvt år som anställd journalist på Nottingham Journal.
+# text_en = Following a job advertisement found by his sister in The Scotsman, he worked for a year and a half as a staff journalist on the Nottingham Journal.
+1	Efter	_	_	_	_	_	_	_	_
+2	att	_	_	_	_	_	_	_	_
+3	ha	_	_	_	_	_	_	_	_
+4	följt	_	_	_	_	_	_	_	_
+5	en	_	_	_	_	_	_	_	_
+6	jobbannons	_	_	_	_	_	_	_	_
+7	som	_	_	_	_	_	_	_	_
+8	hans	_	_	_	_	_	_	_	_
+9	syster	_	_	_	_	_	_	_	_
+10	hittat	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	The	_	_	_	_	_	_	_	_
+13	Scotsman	_	_	_	_	_	_	_	_
+14	arbetade	_	_	_	_	_	_	_	_
+15	han	_	_	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	ett	_	_	_	_	_	_	_	_
+18	och	_	_	_	_	_	_	_	_
+19	ett	_	_	_	_	_	_	_	_
+20	halvt	_	_	_	_	_	_	_	_
+21	år	_	_	_	_	_	_	_	_
+22	som	_	_	_	_	_	_	_	_
+23	anställd	_	_	_	_	_	_	_	_
+24	journalist	_	_	_	_	_	_	_	_
+25	på	_	_	_	_	_	_	_	_
+26	Nottingham	_	_	_	_	_	_	_	_
+27	Journal	_	_	_	_	_	_	_	_
+28	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w01134
+# sent_id = w01134009
+# text = Genom sin mormor var Mishima en direkt ättling till Tokugawa Ieyasu.
+# text_en = Through his grandmother, Mishima was a direct descendant of Tokugawa Ieyasu.
+1	Genom	_	_	_	_	_	_	_	_
+2	sin	_	_	_	_	_	_	_	_
+3	mormor	_	_	_	_	_	_	_	_
+4	var	_	_	_	_	_	_	_	_
+5	Mishima	_	_	_	_	_	_	_	_
+6	en	_	_	_	_	_	_	_	_
+7	direkt	_	_	_	_	_	_	_	_
+8	ättling	_	_	_	_	_	_	_	_
+9	till	_	_	_	_	_	_	_	_
+10	Tokugawa	_	_	_	_	_	_	_	_
+11	Ieyasu	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w01121
+# sent_id = w01121052
+# text = Emellertid fanns det inget mer allmänt erkännande av hennes motstånd under kriget och humanitära arbete fram till efter slutet på det kommunistiska styret i Polen.
+# text_en = However, there was no further public recognition of her wartime resistance and humanitarian work until after the end of communist rule in Poland.
+1	Emellertid	_	_	_	_	_	_	_	_
+2	fanns	_	_	_	_	_	_	_	_
+3	det	_	_	_	_	_	_	_	_
+4	inget	_	_	_	_	_	_	_	_
+5	mer	_	_	_	_	_	_	_	_
+6	allmänt	_	_	_	_	_	_	_	_
+7	erkännande	_	_	_	_	_	_	_	_
+8	av	_	_	_	_	_	_	_	_
+9	hennes	_	_	_	_	_	_	_	_
+10	motstånd	_	_	_	_	_	_	_	_
+11	under	_	_	_	_	_	_	_	_
+12	kriget	_	_	_	_	_	_	_	_
+13	och	_	_	_	_	_	_	_	_
+14	humanitära	_	_	_	_	_	_	_	_
+15	arbete	_	_	_	_	_	_	_	_
+16	fram	_	_	_	_	_	_	_	_
+17	till	_	_	_	_	_	_	_	_
+18	efter	_	_	_	_	_	_	_	_
+19	slutet	_	_	_	_	_	_	_	_
+20	på	_	_	_	_	_	_	_	_
+21	det	_	_	_	_	_	_	_	_
+22	kommunistiska	_	_	_	_	_	_	_	_
+23	styret	_	_	_	_	_	_	_	_
+24	i	_	_	_	_	_	_	_	_
+25	Polen	_	_	_	_	_	_	_	_
+26	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01130102
+# text = Rafferty spelade in en ny version av sin Humblebums-låt ”Her Father Didn't Like Me Anyway” på albumet Over My Head (1994).
+# text_en = Rafferty recorded a new version of his Humblebums song "Her Father Didn't Like Me Anyway" on the album Over My Head (1994).
+1	Rafferty	_	_	_	_	_	_	_	_
+2	spelade	_	_	_	_	_	_	_	_
+3	in	_	_	_	_	_	_	_	_
+4	en	_	_	_	_	_	_	_	_
+5	ny	_	_	_	_	_	_	_	_
+6	version	_	_	_	_	_	_	_	_
+7	av	_	_	_	_	_	_	_	_
+8	sin	_	_	_	_	_	_	_	_
+9	Humblebums-låt	_	_	_	_	_	_	_	_
+10	”	_	_	_	_	_	_	_	_
+11	Her	_	_	_	_	_	_	_	_
+12	Father	_	_	_	_	_	_	_	_
+13	Didn't	_	_	_	_	_	_	_	_
+14	Like	_	_	_	_	_	_	_	_
+15	Me	_	_	_	_	_	_	_	_
+16	Anyway	_	_	_	_	_	_	_	_
+17	”	_	_	_	_	_	_	_	_
+18	på	_	_	_	_	_	_	_	_
+19	albumet	_	_	_	_	_	_	_	_
+20	Over	_	_	_	_	_	_	_	_
+21	My	_	_	_	_	_	_	_	_
+22	Head	_	_	_	_	_	_	_	_
+23	(	_	_	_	_	_	_	_	_
+24	1994	_	_	_	_	_	_	_	_
+25	)	_	_	_	_	_	_	_	_
+26	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n01032
+# sent_id = n01032032
+# text = Emellertid finns det många MLA:er med djupt hållna religiösa trosuppfattningar som motsätter sig all nya lagstiftning.
+# text_en = However there are many MLAs with deeply-held religious beliefs who oppose any new legislation.
+1	Emellertid	_	_	_	_	_	_	_	_
+2	finns	_	_	_	_	_	_	_	_
+3	det	_	_	_	_	_	_	_	_
+4	många	_	_	_	_	_	_	_	_
+5	MLA:er	_	_	_	_	_	_	_	_
+6	med	_	_	_	_	_	_	_	_
+7	djupt	_	_	_	_	_	_	_	_
+8	hållna	_	_	_	_	_	_	_	_
+9	religiösa	_	_	_	_	_	_	_	_
+10	trosuppfattningar	_	_	_	_	_	_	_	_
+11	som	_	_	_	_	_	_	_	_
+12	motsätter	_	_	_	_	_	_	_	_
+13	sig	_	_	_	_	_	_	_	_
+14	all	_	_	_	_	_	_	_	_
+15	nya	_	_	_	_	_	_	_	_
+16	lagstiftning	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01109022
+# text = Eller är det en dyr standard- eller förbetalningstariff?
+# text_en = Or is it an expensive standard or prepayment tariff?
+1	Eller	_	_	_	_	_	_	_	_
+2	är	_	_	_	_	_	_	_	_
+3	det	_	_	_	_	_	_	_	_
+4	en	_	_	_	_	_	_	_	_
+5	dyr	_	_	_	_	_	_	_	_
+6	standard-	_	_	_	_	_	_	_	_
+7	eller	_	_	_	_	_	_	_	_
+8	förbetalningstariff	_	_	_	_	_	_	_	_
+9	?	_	_	_	_	_	_	_	_
+
+# sent_id = w01025084
+# text = Denna reträtt kom som en överraskning för den Österrike-preussiska armén, och nästan hela den danska armén lyckades slutföra evakueringen.
+# text_en = This retreat came as a surprise to the Austro-Prussian army, and almost all of the Danish army succeeded in completing the evacuation.
+1	Denna	_	_	_	_	_	_	_	_
+2	reträtt	_	_	_	_	_	_	_	_
+3	kom	_	_	_	_	_	_	_	_
+4	som	_	_	_	_	_	_	_	_
+5	en	_	_	_	_	_	_	_	_
+6	överraskning	_	_	_	_	_	_	_	_
+7	för	_	_	_	_	_	_	_	_
+8	den	_	_	_	_	_	_	_	_
+9	Österrike-preussiska	_	_	_	_	_	_	_	_
+10	armén	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	och	_	_	_	_	_	_	_	_
+13	nästan	_	_	_	_	_	_	_	_
+14	hela	_	_	_	_	_	_	_	_
+15	den	_	_	_	_	_	_	_	_
+16	danska	_	_	_	_	_	_	_	_
+17	armén	_	_	_	_	_	_	_	_
+18	lyckades	_	_	_	_	_	_	_	_
+19	slutföra	_	_	_	_	_	_	_	_
+20	evakueringen	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01105013
+# text = Men just nu är allting paj och han verkar söka efter svar hela tiden.
+# text_en = But right now everything is out of kilter and he seems to be seeking answers all the time.
+1	Men	_	_	_	_	_	_	_	_
+2	just	_	_	_	_	_	_	_	_
+3	nu	_	_	_	_	_	_	_	_
+4	är	_	_	_	_	_	_	_	_
+5	allting	_	_	_	_	_	_	_	_
+6	paj	_	_	_	_	_	_	_	_
+7	och	_	_	_	_	_	_	_	_
+8	han	_	_	_	_	_	_	_	_
+9	verkar	_	_	_	_	_	_	_	_
+10	söka	_	_	_	_	_	_	_	_
+11	efter	_	_	_	_	_	_	_	_
+12	svar	_	_	_	_	_	_	_	_
+13	hela	_	_	_	_	_	_	_	_
+14	tiden	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01127096
+# text = Vid den här tiden hade extravagant spenderande och en rad av dåliga investeringar av hennes investerare lämnat henne nästan barskrapad.
+# text_en = By this time, extravagant spending and a string of bad investments by her investors had left her nearly broke.
+1	Vid	_	_	_	_	_	_	_	_
+2	den	_	_	_	_	_	_	_	_
+3	här	_	_	_	_	_	_	_	_
+4	tiden	_	_	_	_	_	_	_	_
+5	hade	_	_	_	_	_	_	_	_
+6	extravagant	_	_	_	_	_	_	_	_
+7	spenderande	_	_	_	_	_	_	_	_
+8	och	_	_	_	_	_	_	_	_
+9	en	_	_	_	_	_	_	_	_
+10	rad	_	_	_	_	_	_	_	_
+11	av	_	_	_	_	_	_	_	_
+12	dåliga	_	_	_	_	_	_	_	_
+13	investeringar	_	_	_	_	_	_	_	_
+14	av	_	_	_	_	_	_	_	_
+15	hennes	_	_	_	_	_	_	_	_
+16	investerare	_	_	_	_	_	_	_	_
+17	lämnat	_	_	_	_	_	_	_	_
+18	henne	_	_	_	_	_	_	_	_
+19	nästan	_	_	_	_	_	_	_	_
+20	barskrapad	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w01129
+# sent_id = w01129019
+# text = Bilen slog ut i lågor, och Kenseth gick därifrån.
+# text_en = The car burst into flames, and Kenseth walked away.
+1	Bilen	_	_	_	_	_	_	_	_
+2	slog	_	_	_	_	_	_	_	_
+3	ut	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	lågor	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	och	_	_	_	_	_	_	_	_
+8	Kenseth	_	_	_	_	_	_	_	_
+9	gick	_	_	_	_	_	_	_	_
+10	därifrån	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01070034
+# text = Fyra andra ger de minsta och största deklinationerna för fullmånen: på sommaren och på vintern.
+# text_en = Four more give the minimum and maximum declinations of the full moon: in summer, and in winter.
+1	Fyra	_	_	_	_	_	_	_	_
+2	andra	_	_	_	_	_	_	_	_
+3	ger	_	_	_	_	_	_	_	_
+4	de	_	_	_	_	_	_	_	_
+5	minsta	_	_	_	_	_	_	_	_
+6	och	_	_	_	_	_	_	_	_
+7	största	_	_	_	_	_	_	_	_
+8	deklinationerna	_	_	_	_	_	_	_	_
+9	för	_	_	_	_	_	_	_	_
+10	fullmånen	_	_	_	_	_	_	_	_
+11	:	_	_	_	_	_	_	_	_
+12	på	_	_	_	_	_	_	_	_
+13	sommaren	_	_	_	_	_	_	_	_
+14	och	_	_	_	_	_	_	_	_
+15	på	_	_	_	_	_	_	_	_
+16	vintern	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01140033
+# text = Då hon fått ett rykte som en expert i ämnet tog hon med sig de färdigheterna tillbaka till Radiuminstitutet tillsammans med en liten skiva polonium.
+# text_en = Gaining recognition as an expert in the field, she took those skills back to the Radium Institute along with a small disc of polonium.
+1	Då	_	_	_	_	_	_	_	_
+2	hon	_	_	_	_	_	_	_	_
+3	fått	_	_	_	_	_	_	_	_
+4	ett	_	_	_	_	_	_	_	_
+5	rykte	_	_	_	_	_	_	_	_
+6	som	_	_	_	_	_	_	_	_
+7	en	_	_	_	_	_	_	_	_
+8	expert	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	ämnet	_	_	_	_	_	_	_	_
+11	tog	_	_	_	_	_	_	_	_
+12	hon	_	_	_	_	_	_	_	_
+13	med	_	_	_	_	_	_	_	_
+14	sig	_	_	_	_	_	_	_	_
+15	de	_	_	_	_	_	_	_	_
+16	färdigheterna	_	_	_	_	_	_	_	_
+17	tillbaka	_	_	_	_	_	_	_	_
+18	till	_	_	_	_	_	_	_	_
+19	Radiuminstitutet	_	_	_	_	_	_	_	_
+20	tillsammans	_	_	_	_	_	_	_	_
+21	med	_	_	_	_	_	_	_	_
+22	en	_	_	_	_	_	_	_	_
+23	liten	_	_	_	_	_	_	_	_
+24	skiva	_	_	_	_	_	_	_	_
+25	polonium	_	_	_	_	_	_	_	_
+26	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w05006
+# sent_id = w05006024
+# text = Guldåldersspanska eller tidigmodern spanska är den variant av språket som utgör övergången från medeltidsspanska till modern spanska.
+# text_en = Golden Age Spanish or Early Modern Spanish is the variant of the language that constitutes the transition from Medieval Spanish to Modern Spanish.
+1	Guldåldersspanska	_	_	_	_	_	_	_	_
+2	eller	_	_	_	_	_	_	_	_
+3	tidigmodern	_	_	_	_	_	_	_	_
+4	spanska	_	_	_	_	_	_	_	_
+5	är	_	_	_	_	_	_	_	_
+6	den	_	_	_	_	_	_	_	_
+7	variant	_	_	_	_	_	_	_	_
+8	av	_	_	_	_	_	_	_	_
+9	språket	_	_	_	_	_	_	_	_
+10	som	_	_	_	_	_	_	_	_
+11	utgör	_	_	_	_	_	_	_	_
+12	övergången	_	_	_	_	_	_	_	_
+13	från	_	_	_	_	_	_	_	_
+14	medeltidsspanska	_	_	_	_	_	_	_	_
+15	till	_	_	_	_	_	_	_	_
+16	modern	_	_	_	_	_	_	_	_
+17	spanska	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w01061
+# sent_id = w01061050
+# text = Medicin studerades också, särskilt i södra Italien där muslimsk medicin influerade skolan vid Salerno.
+# text_en = Medicine was also studied, especially in southern Italy, where Islamic medicine influenced the school at Salerno.
+1	Medicin	_	_	_	_	_	_	_	_
+2	studerades	_	_	_	_	_	_	_	_
+3	också	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	särskilt	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	södra	_	_	_	_	_	_	_	_
+8	Italien	_	_	_	_	_	_	_	_
+9	där	_	_	_	_	_	_	_	_
+10	muslimsk	_	_	_	_	_	_	_	_
+11	medicin	_	_	_	_	_	_	_	_
+12	influerade	_	_	_	_	_	_	_	_
+13	skolan	_	_	_	_	_	_	_	_
+14	vid	_	_	_	_	_	_	_	_
+15	Salerno	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01034060
+# text = Trudeau kommer att utsträcka den inbjudan till USA:s 45:e president, vem han eller hon än må vara.
+# text_en = Trudeau will extend that invitation to the 45th president of the United States, whoever he or she may be.
+1	Trudeau	_	_	_	_	_	_	_	_
+2	kommer	_	_	_	_	_	_	_	_
+3	att	_	_	_	_	_	_	_	_
+4	utsträcka	_	_	_	_	_	_	_	_
+5	den	_	_	_	_	_	_	_	_
+6	inbjudan	_	_	_	_	_	_	_	_
+7	till	_	_	_	_	_	_	_	_
+8	USA:s	_	_	_	_	_	_	_	_
+9	45:e	_	_	_	_	_	_	_	_
+10	president	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	vem	_	_	_	_	_	_	_	_
+13	han	_	_	_	_	_	_	_	_
+14	eller	_	_	_	_	_	_	_	_
+15	hon	_	_	_	_	_	_	_	_
+16	än	_	_	_	_	_	_	_	_
+17	må	_	_	_	_	_	_	_	_
+18	vara	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w01149
+# sent_id = w01149002
+# text = Wright föddes i Poole, Dorset, men växte huvudsakligen upp i Wells, Somerset.
+# text_en = Wright was born in Poole, Dorset, but grew up predominantly in Wells, Somerset.
+1	Wright	_	_	_	_	_	_	_	_
+2	föddes	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	Poole	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	Dorset	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	men	_	_	_	_	_	_	_	_
+9	växte	_	_	_	_	_	_	_	_
+10	huvudsakligen	_	_	_	_	_	_	_	_
+11	upp	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	Wells	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	Somerset	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01035082
+# text = De senaste 50 åren har förstörelse av livmiljöer runt jordbruksmarker försämrat cirka 40 % av jordbruksarealer världen över genom erosion, försaltning, kompaktering, utarmning av näringsämnen, förorening och urbanisering.
+# text_en = Over the past 50 years, the destruction of habitat surrounding agricultural land has degraded approximately 40% of agricultural land worldwide via erosion, salinization, compaction, nutrient depletion, pollution, and urbanization.
+1	De	_	_	_	_	_	_	_	_
+2	senaste	_	_	_	_	_	_	_	_
+3	50	_	_	_	_	_	_	_	_
+4	åren	_	_	_	_	_	_	_	_
+5	har	_	_	_	_	_	_	_	_
+6	förstörelse	_	_	_	_	_	_	_	_
+7	av	_	_	_	_	_	_	_	_
+8	livmiljöer	_	_	_	_	_	_	_	_
+9	runt	_	_	_	_	_	_	_	_
+10	jordbruksmarker	_	_	_	_	_	_	_	_
+11	försämrat	_	_	_	_	_	_	_	_
+12	cirka	_	_	_	_	_	_	_	_
+13	40	_	_	_	_	_	_	_	_
+14	%	_	_	_	_	_	_	_	_
+15	av	_	_	_	_	_	_	_	_
+16	jordbruksarealer	_	_	_	_	_	_	_	_
+17	världen	_	_	_	_	_	_	_	_
+18	över	_	_	_	_	_	_	_	_
+19	genom	_	_	_	_	_	_	_	_
+20	erosion	_	_	_	_	_	_	_	_
+21	,	_	_	_	_	_	_	_	_
+22	försaltning	_	_	_	_	_	_	_	_
+23	,	_	_	_	_	_	_	_	_
+24	kompaktering	_	_	_	_	_	_	_	_
+25	,	_	_	_	_	_	_	_	_
+26	utarmning	_	_	_	_	_	_	_	_
+27	av	_	_	_	_	_	_	_	_
+28	näringsämnen	_	_	_	_	_	_	_	_
+29	,	_	_	_	_	_	_	_	_
+30	förorening	_	_	_	_	_	_	_	_
+31	och	_	_	_	_	_	_	_	_
+32	urbanisering	_	_	_	_	_	_	_	_
+33	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w04001
+# sent_id = w04001027
+# text = I den nedersta delen finns det tre palmer som höjer sig över havet, vilka representerar kärleken som den här öns folk känner för sitt land.
+# text_en = In the lower part, there are three palm trees overlooking the sea, which represent the love that the people of this Island have for their land.
+1	I	_	_	_	_	_	_	_	_
+2	den	_	_	_	_	_	_	_	_
+3	nedersta	_	_	_	_	_	_	_	_
+4	delen	_	_	_	_	_	_	_	_
+5	finns	_	_	_	_	_	_	_	_
+6	det	_	_	_	_	_	_	_	_
+7	tre	_	_	_	_	_	_	_	_
+8	palmer	_	_	_	_	_	_	_	_
+9	som	_	_	_	_	_	_	_	_
+10	höjer	_	_	_	_	_	_	_	_
+11	sig	_	_	_	_	_	_	_	_
+12	över	_	_	_	_	_	_	_	_
+13	havet	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	vilka	_	_	_	_	_	_	_	_
+16	representerar	_	_	_	_	_	_	_	_
+17	kärleken	_	_	_	_	_	_	_	_
+18	som	_	_	_	_	_	_	_	_
+19	den	_	_	_	_	_	_	_	_
+20	här	_	_	_	_	_	_	_	_
+21	öns	_	_	_	_	_	_	_	_
+22	folk	_	_	_	_	_	_	_	_
+23	känner	_	_	_	_	_	_	_	_
+24	för	_	_	_	_	_	_	_	_
+25	sitt	_	_	_	_	_	_	_	_
+26	land	_	_	_	_	_	_	_	_
+27	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w03003
+# sent_id = w03003023
+# text = Von Bellingshausen såg Antarktis den 27 januari 1820, tre dagar innan Bransfield såg land och tio månader innan Palmer gjorde det i november 1820.
+# text_en = Von Bellingshausen sighted Antarctica on the 27th of January 1820, three days before Bransfield sighted land, and ten months before Palmer did so in November 1820.
+1	Von	_	_	_	_	_	_	_	_
+2	Bellingshausen	_	_	_	_	_	_	_	_
+3	såg	_	_	_	_	_	_	_	_
+4	Antarktis	_	_	_	_	_	_	_	_
+5	den	_	_	_	_	_	_	_	_
+6	27	_	_	_	_	_	_	_	_
+7	januari	_	_	_	_	_	_	_	_
+8	1820	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	tre	_	_	_	_	_	_	_	_
+11	dagar	_	_	_	_	_	_	_	_
+12	innan	_	_	_	_	_	_	_	_
+13	Bransfield	_	_	_	_	_	_	_	_
+14	såg	_	_	_	_	_	_	_	_
+15	land	_	_	_	_	_	_	_	_
+16	och	_	_	_	_	_	_	_	_
+17	tio	_	_	_	_	_	_	_	_
+18	månader	_	_	_	_	_	_	_	_
+19	innan	_	_	_	_	_	_	_	_
+20	Palmer	_	_	_	_	_	_	_	_
+21	gjorde	_	_	_	_	_	_	_	_
+22	det	_	_	_	_	_	_	_	_
+23	i	_	_	_	_	_	_	_	_
+24	november	_	_	_	_	_	_	_	_
+25	1820	_	_	_	_	_	_	_	_
+26	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w04007
+# sent_id = w04007006
+# text = Under första koalitionskriget började snabbt ljus lysa på en ung korsikansk artilleriofficer i den franska revolutionens spår: Napoleon Bonaparte.
+# text_en = During the War of the First Coalition, light quickly began to be shed upon a young Corsican artillery officer, following the French Revolution: Napoleon Bonaparte.
+1	Under	_	_	_	_	_	_	_	_
+2	första	_	_	_	_	_	_	_	_
+3	koalitionskriget	_	_	_	_	_	_	_	_
+4	började	_	_	_	_	_	_	_	_
+5	snabbt	_	_	_	_	_	_	_	_
+6	ljus	_	_	_	_	_	_	_	_
+7	lysa	_	_	_	_	_	_	_	_
+8	på	_	_	_	_	_	_	_	_
+9	en	_	_	_	_	_	_	_	_
+10	ung	_	_	_	_	_	_	_	_
+11	korsikansk	_	_	_	_	_	_	_	_
+12	artilleriofficer	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	den	_	_	_	_	_	_	_	_
+15	franska	_	_	_	_	_	_	_	_
+16	revolutionens	_	_	_	_	_	_	_	_
+17	spår	_	_	_	_	_	_	_	_
+18	:	_	_	_	_	_	_	_	_
+19	Napoleon	_	_	_	_	_	_	_	_
+20	Bonaparte	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w03009
+# sent_id = w03009029
+# text = Finansierade helt med Bernard Tapies egna pengar stängdes dessa skolor 1994 när han försattes i konkurs.
+# text_en = Financed entirely with Bernard Tapie's own money, these schools were closed in 1994 when he was declared bankrupt.
+1	Finansierade	_	_	_	_	_	_	_	_
+2	helt	_	_	_	_	_	_	_	_
+3	med	_	_	_	_	_	_	_	_
+4	Bernard	_	_	_	_	_	_	_	_
+5	Tapies	_	_	_	_	_	_	_	_
+6	egna	_	_	_	_	_	_	_	_
+7	pengar	_	_	_	_	_	_	_	_
+8	stängdes	_	_	_	_	_	_	_	_
+9	dessa	_	_	_	_	_	_	_	_
+10	skolor	_	_	_	_	_	_	_	_
+11	1994	_	_	_	_	_	_	_	_
+12	när	_	_	_	_	_	_	_	_
+13	han	_	_	_	_	_	_	_	_
+14	försattes	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	konkurs	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = n03001023
+# text = Om någon inte kan hantera ett twitterkonto, kan de inte hantera kärnvapenkoderna, hånade Obama.
+# text_en = "If somebody can't handle a Twitter account, they can't handle the nuclear codes," Obama mocked.
+1	Om	_	_	_	_	_	_	_	_
+2	någon	_	_	_	_	_	_	_	_
+3	inte	_	_	_	_	_	_	_	_
+4	kan	_	_	_	_	_	_	_	_
+5	hantera	_	_	_	_	_	_	_	_
+6	ett	_	_	_	_	_	_	_	_
+7	twitterkonto	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	kan	_	_	_	_	_	_	_	_
+10	de	_	_	_	_	_	_	_	_
+11	inte	_	_	_	_	_	_	_	_
+12	hantera	_	_	_	_	_	_	_	_
+13	kärnvapenkoderna	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	hånade	_	_	_	_	_	_	_	_
+16	Obama	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01144063
+# text = Republikanerna tog över senaten för första gången sedan 1952, och vann 34 platser i representanthuset, men demokraterna behöll fortfarande majoriteten.
+# text_en = Republicans captured the Senate for the first time since 1952, and gained 34 House seats, but the Democrats retained a majority.
+1	Republikanerna	_	_	_	_	_	_	_	_
+2	tog	_	_	_	_	_	_	_	_
+3	över	_	_	_	_	_	_	_	_
+4	senaten	_	_	_	_	_	_	_	_
+5	för	_	_	_	_	_	_	_	_
+6	första	_	_	_	_	_	_	_	_
+7	gången	_	_	_	_	_	_	_	_
+8	sedan	_	_	_	_	_	_	_	_
+9	1952	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	och	_	_	_	_	_	_	_	_
+12	vann	_	_	_	_	_	_	_	_
+13	34	_	_	_	_	_	_	_	_
+14	platser	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	representanthuset	_	_	_	_	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	men	_	_	_	_	_	_	_	_
+19	demokraterna	_	_	_	_	_	_	_	_
+20	behöll	_	_	_	_	_	_	_	_
+21	fortfarande	_	_	_	_	_	_	_	_
+22	majoriteten	_	_	_	_	_	_	_	_
+23	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01069056
+# text = 1566 presenterade ett förbund av runt 400 medlemmar ur adeln en anhållan till guvernör Margaret av Parma att avbryta förföljelsen till dess resten hade återvänt.
+# text_en = In 1566, a league of about 400 members of the nobility presented a petition to the governor Margaret of Parma, to suspend persecution until the rest had returned.
+1	1566	_	_	_	_	_	_	_	_
+2	presenterade	_	_	_	_	_	_	_	_
+3	ett	_	_	_	_	_	_	_	_
+4	förbund	_	_	_	_	_	_	_	_
+5	av	_	_	_	_	_	_	_	_
+6	runt	_	_	_	_	_	_	_	_
+7	400	_	_	_	_	_	_	_	_
+8	medlemmar	_	_	_	_	_	_	_	_
+9	ur	_	_	_	_	_	_	_	_
+10	adeln	_	_	_	_	_	_	_	_
+11	en	_	_	_	_	_	_	_	_
+12	anhållan	_	_	_	_	_	_	_	_
+13	till	_	_	_	_	_	_	_	_
+14	guvernör	_	_	_	_	_	_	_	_
+15	Margaret	_	_	_	_	_	_	_	_
+16	av	_	_	_	_	_	_	_	_
+17	Parma	_	_	_	_	_	_	_	_
+18	att	_	_	_	_	_	_	_	_
+19	avbryta	_	_	_	_	_	_	_	_
+20	förföljelsen	_	_	_	_	_	_	_	_
+21	till	_	_	_	_	_	_	_	_
+22	dess	_	_	_	_	_	_	_	_
+23	resten	_	_	_	_	_	_	_	_
+24	hade	_	_	_	_	_	_	_	_
+25	återvänt	_	_	_	_	_	_	_	_
+26	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n01144
+# sent_id = n01144021
+# text = Snowman brukade hoppa över det höga staket som skiljde de två ägorna åt och alltid återvända dit han kände sig hemma.
+# text_en = Snowman would jump the high fencing that separated the two properties and always return to where he felt was home.
+1	Snowman	_	_	_	_	_	_	_	_
+2	brukade	_	_	_	_	_	_	_	_
+3	hoppa	_	_	_	_	_	_	_	_
+4	över	_	_	_	_	_	_	_	_
+5	det	_	_	_	_	_	_	_	_
+6	höga	_	_	_	_	_	_	_	_
+7	staket	_	_	_	_	_	_	_	_
+8	som	_	_	_	_	_	_	_	_
+9	skiljde	_	_	_	_	_	_	_	_
+10	de	_	_	_	_	_	_	_	_
+11	två	_	_	_	_	_	_	_	_
+12	ägorna	_	_	_	_	_	_	_	_
+13	åt	_	_	_	_	_	_	_	_
+14	och	_	_	_	_	_	_	_	_
+15	alltid	_	_	_	_	_	_	_	_
+16	återvända	_	_	_	_	_	_	_	_
+17	dit	_	_	_	_	_	_	_	_
+18	han	_	_	_	_	_	_	_	_
+19	kände	_	_	_	_	_	_	_	_
+20	sig	_	_	_	_	_	_	_	_
+21	hemma	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n01036
+# sent_id = n01036002
+# text = Sammanslutningen som representerar fastighetsmäklare i Ontario säger att mer måste göras för att skydda konsumenter och bestraffa mäklare som ertappas med att ha varit inblandade i oetiska affärer.
+# text_en = The association that represents real estate agents in Ontario says more needs to be done to protect consumers and punish agents found to have engaged in unethical behaviour.
+1	Sammanslutningen	_	_	_	_	_	_	_	_
+2	som	_	_	_	_	_	_	_	_
+3	representerar	_	_	_	_	_	_	_	_
+4	fastighetsmäklare	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	Ontario	_	_	_	_	_	_	_	_
+7	säger	_	_	_	_	_	_	_	_
+8	att	_	_	_	_	_	_	_	_
+9	mer	_	_	_	_	_	_	_	_
+10	måste	_	_	_	_	_	_	_	_
+11	göras	_	_	_	_	_	_	_	_
+12	för	_	_	_	_	_	_	_	_
+13	att	_	_	_	_	_	_	_	_
+14	skydda	_	_	_	_	_	_	_	_
+15	konsumenter	_	_	_	_	_	_	_	_
+16	och	_	_	_	_	_	_	_	_
+17	bestraffa	_	_	_	_	_	_	_	_
+18	mäklare	_	_	_	_	_	_	_	_
+19	som	_	_	_	_	_	_	_	_
+20	ertappas	_	_	_	_	_	_	_	_
+21	med	_	_	_	_	_	_	_	_
+22	att	_	_	_	_	_	_	_	_
+23	ha	_	_	_	_	_	_	_	_
+24	varit	_	_	_	_	_	_	_	_
+25	inblandade	_	_	_	_	_	_	_	_
+26	i	_	_	_	_	_	_	_	_
+27	oetiska	_	_	_	_	_	_	_	_
+28	affärer	_	_	_	_	_	_	_	_
+29	.	_	_	_	_	_	_	_	_
+
+# sent_id = n05007014
+# text = Kanske är det anledningen till att tårar väller fram och grumlar hans pupiller medan tidens stavelse bringar hans skörd i dagen och släpper ifrån sig hans mysterium till det bundna vattnet.
+# text_en = Perhaps that's why a surge of tears clouds his pupils while the syllable of time unearths his crop and surrenders his mystery to the bound waters.
+1	Kanske	_	_	_	_	_	_	_	_
+2	är	_	_	_	_	_	_	_	_
+3	det	_	_	_	_	_	_	_	_
+4	anledningen	_	_	_	_	_	_	_	_
+5	till	_	_	_	_	_	_	_	_
+6	att	_	_	_	_	_	_	_	_
+7	tårar	_	_	_	_	_	_	_	_
+8	väller	_	_	_	_	_	_	_	_
+9	fram	_	_	_	_	_	_	_	_
+10	och	_	_	_	_	_	_	_	_
+11	grumlar	_	_	_	_	_	_	_	_
+12	hans	_	_	_	_	_	_	_	_
+13	pupiller	_	_	_	_	_	_	_	_
+14	medan	_	_	_	_	_	_	_	_
+15	tidens	_	_	_	_	_	_	_	_
+16	stavelse	_	_	_	_	_	_	_	_
+17	bringar	_	_	_	_	_	_	_	_
+18	hans	_	_	_	_	_	_	_	_
+19	skörd	_	_	_	_	_	_	_	_
+20	i	_	_	_	_	_	_	_	_
+21	dagen	_	_	_	_	_	_	_	_
+22	och	_	_	_	_	_	_	_	_
+23	släpper	_	_	_	_	_	_	_	_
+24	ifrån	_	_	_	_	_	_	_	_
+25	sig	_	_	_	_	_	_	_	_
+26	hans	_	_	_	_	_	_	_	_
+27	mysterium	_	_	_	_	_	_	_	_
+28	till	_	_	_	_	_	_	_	_
+29	det	_	_	_	_	_	_	_	_
+30	bundna	_	_	_	_	_	_	_	_
+31	vattnet	_	_	_	_	_	_	_	_
+32	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w01028
+# sent_id = w01028004
+# text = Den första och främsta var Ohiofloden som rinner ut i Missisippifloden.
+# text_en = The first and foremost was the Ohio River, which flowed into the Mississippi River.
+1	Den	_	_	_	_	_	_	_	_
+2	första	_	_	_	_	_	_	_	_
+3	och	_	_	_	_	_	_	_	_
+4	främsta	_	_	_	_	_	_	_	_
+5	var	_	_	_	_	_	_	_	_
+6	Ohiofloden	_	_	_	_	_	_	_	_
+7	som	_	_	_	_	_	_	_	_
+8	rinner	_	_	_	_	_	_	_	_
+9	ut	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	Missisippifloden	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = w02005027
+# text = Den tjänstgör som en lokal plats för vila och avkoppling för San Franciscoborna.
+# text_en = It serves as a local place of rest and relaxation for San Franciscans.
+1	Den	_	_	_	_	_	_	_	_
+2	tjänstgör	_	_	_	_	_	_	_	_
+3	som	_	_	_	_	_	_	_	_
+4	en	_	_	_	_	_	_	_	_
+5	lokal	_	_	_	_	_	_	_	_
+6	plats	_	_	_	_	_	_	_	_
+7	för	_	_	_	_	_	_	_	_
+8	vila	_	_	_	_	_	_	_	_
+9	och	_	_	_	_	_	_	_	_
+10	avkoppling	_	_	_	_	_	_	_	_
+11	för	_	_	_	_	_	_	_	_
+12	San	_	_	_	_	_	_	_	_
+13	Franciscoborna	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01052046
+# text = Den här gången påstod han sig ha utkämpat slaget utan att ens brytt sig om att ta på sig sitt bröstharnesk förrän två timmar efter att striderna började.
+# text_en = This time he claimed to have fought the battle without even bothering to put on his corslet until two hours after the fighting began.
+1	Den	_	_	_	_	_	_	_	_
+2	här	_	_	_	_	_	_	_	_
+3	gången	_	_	_	_	_	_	_	_
+4	påstod	_	_	_	_	_	_	_	_
+5	han	_	_	_	_	_	_	_	_
+6	sig	_	_	_	_	_	_	_	_
+7	ha	_	_	_	_	_	_	_	_
+8	utkämpat	_	_	_	_	_	_	_	_
+9	slaget	_	_	_	_	_	_	_	_
+10	utan	_	_	_	_	_	_	_	_
+11	att	_	_	_	_	_	_	_	_
+12	ens	_	_	_	_	_	_	_	_
+13	brytt	_	_	_	_	_	_	_	_
+14	sig	_	_	_	_	_	_	_	_
+15	om	_	_	_	_	_	_	_	_
+16	att	_	_	_	_	_	_	_	_
+17	ta	_	_	_	_	_	_	_	_
+18	på	_	_	_	_	_	_	_	_
+19	sig	_	_	_	_	_	_	_	_
+20	sitt	_	_	_	_	_	_	_	_
+21	bröstharnesk	_	_	_	_	_	_	_	_
+22	förrän	_	_	_	_	_	_	_	_
+23	två	_	_	_	_	_	_	_	_
+24	timmar	_	_	_	_	_	_	_	_
+25	efter	_	_	_	_	_	_	_	_
+26	att	_	_	_	_	_	_	_	_
+27	striderna	_	_	_	_	_	_	_	_
+28	började	_	_	_	_	_	_	_	_
+29	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01009054
+# text = ”Vi har bett andra stater att hjälpa oss befolka djurparken med olika djurarter, inklusive en gris”, sade Saqib.
+# text_en = “We’ve requested other nations to help us populate the zoo with different species of animals, including a pig,” Saqib said.
+1	”	_	_	_	_	_	_	_	_
+2	Vi	_	_	_	_	_	_	_	_
+3	har	_	_	_	_	_	_	_	_
+4	bett	_	_	_	_	_	_	_	_
+5	andra	_	_	_	_	_	_	_	_
+6	stater	_	_	_	_	_	_	_	_
+7	att	_	_	_	_	_	_	_	_
+8	hjälpa	_	_	_	_	_	_	_	_
+9	oss	_	_	_	_	_	_	_	_
+10	befolka	_	_	_	_	_	_	_	_
+11	djurparken	_	_	_	_	_	_	_	_
+12	med	_	_	_	_	_	_	_	_
+13	olika	_	_	_	_	_	_	_	_
+14	djurarter	_	_	_	_	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	inklusive	_	_	_	_	_	_	_	_
+17	en	_	_	_	_	_	_	_	_
+18	gris	_	_	_	_	_	_	_	_
+19	”	_	_	_	_	_	_	_	_
+20	,	_	_	_	_	_	_	_	_
+21	sade	_	_	_	_	_	_	_	_
+22	Saqib	_	_	_	_	_	_	_	_
+23	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w01072
+# sent_id = w01072002
+# text = Ursprunget för ordet Hispania är mycket omstritt och bevisen för de olika spekulationerna baseras enbart på vad som i bästa fall är rena likheter, troligtvis slumpmässiga, och tveksamma stödjebevis.
+# text_en = The origin of the word Hispania is much disputed and the evidence for the various speculations are based merely upon what are at best mere resemblances, likely to be accidental, and suspect supporting evidence.
+1	Ursprunget	_	_	_	_	_	_	_	_
+2	för	_	_	_	_	_	_	_	_
+3	ordet	_	_	_	_	_	_	_	_
+4	Hispania	_	_	_	_	_	_	_	_
+5	är	_	_	_	_	_	_	_	_
+6	mycket	_	_	_	_	_	_	_	_
+7	omstritt	_	_	_	_	_	_	_	_
+8	och	_	_	_	_	_	_	_	_
+9	bevisen	_	_	_	_	_	_	_	_
+10	för	_	_	_	_	_	_	_	_
+11	de	_	_	_	_	_	_	_	_
+12	olika	_	_	_	_	_	_	_	_
+13	spekulationerna	_	_	_	_	_	_	_	_
+14	baseras	_	_	_	_	_	_	_	_
+15	enbart	_	_	_	_	_	_	_	_
+16	på	_	_	_	_	_	_	_	_
+17	vad	_	_	_	_	_	_	_	_
+18	som	_	_	_	_	_	_	_	_
+19	i	_	_	_	_	_	_	_	_
+20	bästa	_	_	_	_	_	_	_	_
+21	fall	_	_	_	_	_	_	_	_
+22	är	_	_	_	_	_	_	_	_
+23	rena	_	_	_	_	_	_	_	_
+24	likheter	_	_	_	_	_	_	_	_
+25	,	_	_	_	_	_	_	_	_
+26	troligtvis	_	_	_	_	_	_	_	_
+27	slumpmässiga	_	_	_	_	_	_	_	_
+28	,	_	_	_	_	_	_	_	_
+29	och	_	_	_	_	_	_	_	_
+30	tveksamma	_	_	_	_	_	_	_	_
+31	stödjebevis	_	_	_	_	_	_	_	_
+32	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01062063
+# text = Han verkar ha önskat att Senaten och staten helt enkelt hade agerat utan honom och hans direkta befallningar var ganska vaga, och orsakade debatt mer om vad han faktiskt menade än om att godkänna hans lagar.
+# text_en = He seems to have wished for the Senate and the state to simply act without him and his direct orders were rather vague, inspiring debate more on what he actually meant than on passing his legislation.
+1	Han	_	_	_	_	_	_	_	_
+2	verkar	_	_	_	_	_	_	_	_
+3	ha	_	_	_	_	_	_	_	_
+4	önskat	_	_	_	_	_	_	_	_
+5	att	_	_	_	_	_	_	_	_
+6	Senaten	_	_	_	_	_	_	_	_
+7	och	_	_	_	_	_	_	_	_
+8	staten	_	_	_	_	_	_	_	_
+9	helt	_	_	_	_	_	_	_	_
+10	enkelt	_	_	_	_	_	_	_	_
+11	hade	_	_	_	_	_	_	_	_
+12	agerat	_	_	_	_	_	_	_	_
+13	utan	_	_	_	_	_	_	_	_
+14	honom	_	_	_	_	_	_	_	_
+15	och	_	_	_	_	_	_	_	_
+16	hans	_	_	_	_	_	_	_	_
+17	direkta	_	_	_	_	_	_	_	_
+18	befallningar	_	_	_	_	_	_	_	_
+19	var	_	_	_	_	_	_	_	_
+20	ganska	_	_	_	_	_	_	_	_
+21	vaga	_	_	_	_	_	_	_	_
+22	,	_	_	_	_	_	_	_	_
+23	och	_	_	_	_	_	_	_	_
+24	orsakade	_	_	_	_	_	_	_	_
+25	debatt	_	_	_	_	_	_	_	_
+26	mer	_	_	_	_	_	_	_	_
+27	om	_	_	_	_	_	_	_	_
+28	vad	_	_	_	_	_	_	_	_
+29	han	_	_	_	_	_	_	_	_
+30	faktiskt	_	_	_	_	_	_	_	_
+31	menade	_	_	_	_	_	_	_	_
+32	än	_	_	_	_	_	_	_	_
+33	om	_	_	_	_	_	_	_	_
+34	att	_	_	_	_	_	_	_	_
+35	godkänna	_	_	_	_	_	_	_	_
+36	hans	_	_	_	_	_	_	_	_
+37	lagar	_	_	_	_	_	_	_	_
+38	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01076054
+# text = Arabrevolten som började 1916 vände förloppet mot osmanerna på mellanösternfronten, där de inledningsvis verkade ha överhanden under de två första åren av kriget.
+# text_en = The Arab Revolt which began in 1916 turned the tide against the Ottomans on the Middle Eastern front, where they initially seemed to have the upper hand during the first two years of the war.
+1	Arabrevolten	_	_	_	_	_	_	_	_
+2	som	_	_	_	_	_	_	_	_
+3	började	_	_	_	_	_	_	_	_
+4	1916	_	_	_	_	_	_	_	_
+5	vände	_	_	_	_	_	_	_	_
+6	förloppet	_	_	_	_	_	_	_	_
+7	mot	_	_	_	_	_	_	_	_
+8	osmanerna	_	_	_	_	_	_	_	_
+9	på	_	_	_	_	_	_	_	_
+10	mellanösternfronten	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	där	_	_	_	_	_	_	_	_
+13	de	_	_	_	_	_	_	_	_
+14	inledningsvis	_	_	_	_	_	_	_	_
+15	verkade	_	_	_	_	_	_	_	_
+16	ha	_	_	_	_	_	_	_	_
+17	överhanden	_	_	_	_	_	_	_	_
+18	under	_	_	_	_	_	_	_	_
+19	de	_	_	_	_	_	_	_	_
+20	två	_	_	_	_	_	_	_	_
+21	första	_	_	_	_	_	_	_	_
+22	åren	_	_	_	_	_	_	_	_
+23	av	_	_	_	_	_	_	_	_
+24	kriget	_	_	_	_	_	_	_	_
+25	.	_	_	_	_	_	_	_	_
+
+# sent_id = n02027021
+# text = Lagen beskriver ett antal villkor vars uppfyllelse kan få överenskommelsen att gälla igen: USA skulle behöva dra tillbaka alla sina trupper från länder som gått med i NATO efter 2000, upphäva alla sanktioner mot Ryssland samt ersätta de kostnader som har uppkommit som en följd av sanktionerna.
+# text_en = The law delineates a number of conditions whose fulfillment could bring the agreement back into effect: the USA would have to withdraw all of its troops from countries who joined NATO after 2000, rescind all of the sanctions against Russia as well as reimburse the costs that have been incurred as a result of the sanctions.
+1	Lagen	_	_	_	_	_	_	_	_
+2	beskriver	_	_	_	_	_	_	_	_
+3	ett	_	_	_	_	_	_	_	_
+4	antal	_	_	_	_	_	_	_	_
+5	villkor	_	_	_	_	_	_	_	_
+6	vars	_	_	_	_	_	_	_	_
+7	uppfyllelse	_	_	_	_	_	_	_	_
+8	kan	_	_	_	_	_	_	_	_
+9	få	_	_	_	_	_	_	_	_
+10	överenskommelsen	_	_	_	_	_	_	_	_
+11	att	_	_	_	_	_	_	_	_
+12	gälla	_	_	_	_	_	_	_	_
+13	igen	_	_	_	_	_	_	_	_
+14	:	_	_	_	_	_	_	_	_
+15	USA	_	_	_	_	_	_	_	_
+16	skulle	_	_	_	_	_	_	_	_
+17	behöva	_	_	_	_	_	_	_	_
+18	dra	_	_	_	_	_	_	_	_
+19	tillbaka	_	_	_	_	_	_	_	_
+20	alla	_	_	_	_	_	_	_	_
+21	sina	_	_	_	_	_	_	_	_
+22	trupper	_	_	_	_	_	_	_	_
+23	från	_	_	_	_	_	_	_	_
+24	länder	_	_	_	_	_	_	_	_
+25	som	_	_	_	_	_	_	_	_
+26	gått	_	_	_	_	_	_	_	_
+27	med	_	_	_	_	_	_	_	_
+28	i	_	_	_	_	_	_	_	_
+29	NATO	_	_	_	_	_	_	_	_
+30	efter	_	_	_	_	_	_	_	_
+31	2000	_	_	_	_	_	_	_	_
+32	,	_	_	_	_	_	_	_	_
+33	upphäva	_	_	_	_	_	_	_	_
+34	alla	_	_	_	_	_	_	_	_
+35	sanktioner	_	_	_	_	_	_	_	_
+36	mot	_	_	_	_	_	_	_	_
+37	Ryssland	_	_	_	_	_	_	_	_
+38	samt	_	_	_	_	_	_	_	_
+39	ersätta	_	_	_	_	_	_	_	_
+40	de	_	_	_	_	_	_	_	_
+41	kostnader	_	_	_	_	_	_	_	_
+42	som	_	_	_	_	_	_	_	_
+43	har	_	_	_	_	_	_	_	_
+44	uppkommit	_	_	_	_	_	_	_	_
+45	som	_	_	_	_	_	_	_	_
+46	en	_	_	_	_	_	_	_	_
+47	följd	_	_	_	_	_	_	_	_
+48	av	_	_	_	_	_	_	_	_
+49	sanktionerna	_	_	_	_	_	_	_	_
+50	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w01007
+# sent_id = w01007004
+# text = I juli 1918 skrevs det fransk-monegaskiska avtalet under, vilket innebar ett begränsat franskt beskydd över Monaco.
+# text_en = In July 1918, the Franco-Monegasque Treaty was signed, providing for limited French protection over Monaco.
+1	I	_	_	_	_	_	_	_	_
+2	juli	_	_	_	_	_	_	_	_
+3	1918	_	_	_	_	_	_	_	_
+4	skrevs	_	_	_	_	_	_	_	_
+5	det	_	_	_	_	_	_	_	_
+6	fransk-monegaskiska	_	_	_	_	_	_	_	_
+7	avtalet	_	_	_	_	_	_	_	_
+8	under	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	vilket	_	_	_	_	_	_	_	_
+11	innebar	_	_	_	_	_	_	_	_
+12	ett	_	_	_	_	_	_	_	_
+13	begränsat	_	_	_	_	_	_	_	_
+14	franskt	_	_	_	_	_	_	_	_
+15	beskydd	_	_	_	_	_	_	_	_
+16	över	_	_	_	_	_	_	_	_
+17	Monaco	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01135038
+# text = "I januari 2011 började Blunt spela in en amerikansk science-fictionfilm, Looper, i regi av Rian Johnson med motspelarna Bruce Willis och Joseph Gordon-Levitt; filmen kom ut i september 2012."
+# text_en = In January 2011, Blunt began filming an American science-fiction film, Looper, directed by Rian Johnson and co-starring Bruce Willis and Joseph Gordon-Levitt; the film was released in September 2012.
+1	"	_	_	_	_	_	_	_	_
+2	I	_	_	_	_	_	_	_	_
+3	januari	_	_	_	_	_	_	_	_
+4	2011	_	_	_	_	_	_	_	_
+5	började	_	_	_	_	_	_	_	_
+6	Blunt	_	_	_	_	_	_	_	_
+7	spela	_	_	_	_	_	_	_	_
+8	in	_	_	_	_	_	_	_	_
+9	en	_	_	_	_	_	_	_	_
+10	amerikansk	_	_	_	_	_	_	_	_
+11	science-fictionfilm	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	Looper	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	regi	_	_	_	_	_	_	_	_
+17	av	_	_	_	_	_	_	_	_
+18	Rian	_	_	_	_	_	_	_	_
+19	Johnson	_	_	_	_	_	_	_	_
+20	med	_	_	_	_	_	_	_	_
+21	motspelarna	_	_	_	_	_	_	_	_
+22	Bruce	_	_	_	_	_	_	_	_
+23	Willis	_	_	_	_	_	_	_	_
+24	och	_	_	_	_	_	_	_	_
+25	Joseph	_	_	_	_	_	_	_	_
+26	Gordon-Levitt	_	_	_	_	_	_	_	_
+27	;	_	_	_	_	_	_	_	_
+28	filmen	_	_	_	_	_	_	_	_
+29	kom	_	_	_	_	_	_	_	_
+30	ut	_	_	_	_	_	_	_	_
+31	i	_	_	_	_	_	_	_	_
+32	september	_	_	_	_	_	_	_	_
+33	2012	_	_	_	_	_	_	_	_
+34	.	_	_	_	_	_	_	_	_
+35	"	_	_	_	_	_	_	_	_
+
+# sent_id = w01066040
+# text = Det kinesiska nyåret och andra högtider som uppmärksammas av thailändska kineser varierar i förhållande till båda, då dessa beräknas enligt den kinesiska kalendern.
+# text_en = Chinese New Year and other feasts observed by Thai Chinese vary with respect to both, as these are calculated according to the Chinese calendar.
+1	Det	_	_	_	_	_	_	_	_
+2	kinesiska	_	_	_	_	_	_	_	_
+3	nyåret	_	_	_	_	_	_	_	_
+4	och	_	_	_	_	_	_	_	_
+5	andra	_	_	_	_	_	_	_	_
+6	högtider	_	_	_	_	_	_	_	_
+7	som	_	_	_	_	_	_	_	_
+8	uppmärksammas	_	_	_	_	_	_	_	_
+9	av	_	_	_	_	_	_	_	_
+10	thailändska	_	_	_	_	_	_	_	_
+11	kineser	_	_	_	_	_	_	_	_
+12	varierar	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	förhållande	_	_	_	_	_	_	_	_
+15	till	_	_	_	_	_	_	_	_
+16	båda	_	_	_	_	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	då	_	_	_	_	_	_	_	_
+19	dessa	_	_	_	_	_	_	_	_
+20	beräknas	_	_	_	_	_	_	_	_
+21	enligt	_	_	_	_	_	_	_	_
+22	den	_	_	_	_	_	_	_	_
+23	kinesiska	_	_	_	_	_	_	_	_
+24	kalendern	_	_	_	_	_	_	_	_
+25	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w01068
+# sent_id = w01068027
+# text = Den 9 september 2002 lurades Aldrin till ett hotell i Beverly Hills under föregivelsen att han skulle intervjuas för ett japanskt barn-tv-program om rymden.
+# text_en = On September 9, 2002, Aldrin was lured to a Beverly Hills hotel on the pretext of being interviewed for a Japanese children's television show on the subject of space.
+1	Den	_	_	_	_	_	_	_	_
+2	9	_	_	_	_	_	_	_	_
+3	september	_	_	_	_	_	_	_	_
+4	2002	_	_	_	_	_	_	_	_
+5	lurades	_	_	_	_	_	_	_	_
+6	Aldrin	_	_	_	_	_	_	_	_
+7	till	_	_	_	_	_	_	_	_
+8	ett	_	_	_	_	_	_	_	_
+9	hotell	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	Beverly	_	_	_	_	_	_	_	_
+12	Hills	_	_	_	_	_	_	_	_
+13	under	_	_	_	_	_	_	_	_
+14	föregivelsen	_	_	_	_	_	_	_	_
+15	att	_	_	_	_	_	_	_	_
+16	han	_	_	_	_	_	_	_	_
+17	skulle	_	_	_	_	_	_	_	_
+18	intervjuas	_	_	_	_	_	_	_	_
+19	för	_	_	_	_	_	_	_	_
+20	ett	_	_	_	_	_	_	_	_
+21	japanskt	_	_	_	_	_	_	_	_
+22	barn-tv-program	_	_	_	_	_	_	_	_
+23	om	_	_	_	_	_	_	_	_
+24	rymden	_	_	_	_	_	_	_	_
+25	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n01044
+# sent_id = n01044004
+# text = Gomery, som ledde undersökningskommissionen om den federala sponsringsskandalen mellan 2004 och 2006 sade att sådana organisationer är oundgängliga för att hjälpa till för att bygga upp allmänhetens förtroende för laglig rätt.
+# text_en = Gomery, who led the commission of inquiry into the federal sponsorship scandal between 2004 and 2006, said such bodies are essential to help restore public confidence in the rule of law.
+1	Gomery	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	som	_	_	_	_	_	_	_	_
+4	ledde	_	_	_	_	_	_	_	_
+5	undersökningskommissionen	_	_	_	_	_	_	_	_
+6	om	_	_	_	_	_	_	_	_
+7	den	_	_	_	_	_	_	_	_
+8	federala	_	_	_	_	_	_	_	_
+9	sponsringsskandalen	_	_	_	_	_	_	_	_
+10	mellan	_	_	_	_	_	_	_	_
+11	2004	_	_	_	_	_	_	_	_
+12	och	_	_	_	_	_	_	_	_
+13	2006	_	_	_	_	_	_	_	_
+14	sade	_	_	_	_	_	_	_	_
+15	att	_	_	_	_	_	_	_	_
+16	sådana	_	_	_	_	_	_	_	_
+17	organisationer	_	_	_	_	_	_	_	_
+18	är	_	_	_	_	_	_	_	_
+19	oundgängliga	_	_	_	_	_	_	_	_
+20	för	_	_	_	_	_	_	_	_
+21	att	_	_	_	_	_	_	_	_
+22	hjälpa	_	_	_	_	_	_	_	_
+23	till	_	_	_	_	_	_	_	_
+24	för	_	_	_	_	_	_	_	_
+25	att	_	_	_	_	_	_	_	_
+26	bygga	_	_	_	_	_	_	_	_
+27	upp	_	_	_	_	_	_	_	_
+28	allmänhetens	_	_	_	_	_	_	_	_
+29	förtroende	_	_	_	_	_	_	_	_
+30	för	_	_	_	_	_	_	_	_
+31	laglig	_	_	_	_	_	_	_	_
+32	rätt	_	_	_	_	_	_	_	_
+33	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n01092
+# sent_id = n01092008
+# text = Låt oss bara säga att han har fel.
+# text_en = Let’s just say he’s wrong.
+1	Låt	_	_	_	_	_	_	_	_
+2	oss	_	_	_	_	_	_	_	_
+3	bara	_	_	_	_	_	_	_	_
+4	säga	_	_	_	_	_	_	_	_
+5	att	_	_	_	_	_	_	_	_
+6	han	_	_	_	_	_	_	_	_
+7	har	_	_	_	_	_	_	_	_
+8	fel	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = n04006004
+# text = CGI Mestre har uppgett i en notering att det inte kommer förekomma någon höjning av moms, i alla fall inte under 2017.
+# text_en = The CGI Mestre have stated in a note, that there will be no rise in VAT, for 2017 at least.
+1	CGI	_	_	_	_	_	_	_	_
+2	Mestre	_	_	_	_	_	_	_	_
+3	har	_	_	_	_	_	_	_	_
+4	uppgett	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	en	_	_	_	_	_	_	_	_
+7	notering	_	_	_	_	_	_	_	_
+8	att	_	_	_	_	_	_	_	_
+9	det	_	_	_	_	_	_	_	_
+10	inte	_	_	_	_	_	_	_	_
+11	kommer	_	_	_	_	_	_	_	_
+12	förekomma	_	_	_	_	_	_	_	_
+13	någon	_	_	_	_	_	_	_	_
+14	höjning	_	_	_	_	_	_	_	_
+15	av	_	_	_	_	_	_	_	_
+16	moms	_	_	_	_	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	i	_	_	_	_	_	_	_	_
+19	alla	_	_	_	_	_	_	_	_
+20	fall	_	_	_	_	_	_	_	_
+21	inte	_	_	_	_	_	_	_	_
+22	under	_	_	_	_	_	_	_	_
+23	2017	_	_	_	_	_	_	_	_
+24	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01109120
+# text = Vid ett tillfälle antyds det att han är en agent under täckmantel, vars mål är Homer.
+# text_en = On one occasion, it is implied he is an undercover agent whose target is Homer.
+1	Vid	_	_	_	_	_	_	_	_
+2	ett	_	_	_	_	_	_	_	_
+3	tillfälle	_	_	_	_	_	_	_	_
+4	antyds	_	_	_	_	_	_	_	_
+5	det	_	_	_	_	_	_	_	_
+6	att	_	_	_	_	_	_	_	_
+7	han	_	_	_	_	_	_	_	_
+8	är	_	_	_	_	_	_	_	_
+9	en	_	_	_	_	_	_	_	_
+10	agent	_	_	_	_	_	_	_	_
+11	under	_	_	_	_	_	_	_	_
+12	täckmantel	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	vars	_	_	_	_	_	_	_	_
+15	mål	_	_	_	_	_	_	_	_
+16	är	_	_	_	_	_	_	_	_
+17	Homer	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01005031
+# text = Rimlighetsstudien uppskattar att det skulle ta passagerare ungefär fyra minuter att korsa Potomacfloden med gondolen.
+# text_en = The feasibility study estimates that it would take passengers about four minutes to cross the Potomac River on the gondola.
+1	Rimlighetsstudien	_	_	_	_	_	_	_	_
+2	uppskattar	_	_	_	_	_	_	_	_
+3	att	_	_	_	_	_	_	_	_
+4	det	_	_	_	_	_	_	_	_
+5	skulle	_	_	_	_	_	_	_	_
+6	ta	_	_	_	_	_	_	_	_
+7	passagerare	_	_	_	_	_	_	_	_
+8	ungefär	_	_	_	_	_	_	_	_
+9	fyra	_	_	_	_	_	_	_	_
+10	minuter	_	_	_	_	_	_	_	_
+11	att	_	_	_	_	_	_	_	_
+12	korsa	_	_	_	_	_	_	_	_
+13	Potomacfloden	_	_	_	_	_	_	_	_
+14	med	_	_	_	_	_	_	_	_
+15	gondolen	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01075037
+# text = Specifikt minskade en manlig inskrivningsgrad i fortsättningsskola på 10 % över genomsnitt risken för en konflikt med cirka 3 % medan en tillväxt 1 % högre än studiens genomsnitt resulterade i en minskning i risken för inbördeskrig med cirka 1 %.
+# text_en = Specifically, a male secondary school enrollment 10% above the average reduced the chance of a conflict by about 3%, while a growth rate 1% higher than the study average resulted in a decline in the chance of a civil war of about 1%.
+1	Specifikt	_	_	_	_	_	_	_	_
+2	minskade	_	_	_	_	_	_	_	_
+3	en	_	_	_	_	_	_	_	_
+4	manlig	_	_	_	_	_	_	_	_
+5	inskrivningsgrad	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	fortsättningsskola	_	_	_	_	_	_	_	_
+8	på	_	_	_	_	_	_	_	_
+9	10	_	_	_	_	_	_	_	_
+10	%	_	_	_	_	_	_	_	_
+11	över	_	_	_	_	_	_	_	_
+12	genomsnitt	_	_	_	_	_	_	_	_
+13	risken	_	_	_	_	_	_	_	_
+14	för	_	_	_	_	_	_	_	_
+15	en	_	_	_	_	_	_	_	_
+16	konflikt	_	_	_	_	_	_	_	_
+17	med	_	_	_	_	_	_	_	_
+18	cirka	_	_	_	_	_	_	_	_
+19	3	_	_	_	_	_	_	_	_
+20	%	_	_	_	_	_	_	_	_
+21	medan	_	_	_	_	_	_	_	_
+22	en	_	_	_	_	_	_	_	_
+23	tillväxt	_	_	_	_	_	_	_	_
+24	1	_	_	_	_	_	_	_	_
+25	%	_	_	_	_	_	_	_	_
+26	högre	_	_	_	_	_	_	_	_
+27	än	_	_	_	_	_	_	_	_
+28	studiens	_	_	_	_	_	_	_	_
+29	genomsnitt	_	_	_	_	_	_	_	_
+30	resulterade	_	_	_	_	_	_	_	_
+31	i	_	_	_	_	_	_	_	_
+32	en	_	_	_	_	_	_	_	_
+33	minskning	_	_	_	_	_	_	_	_
+34	i	_	_	_	_	_	_	_	_
+35	risken	_	_	_	_	_	_	_	_
+36	för	_	_	_	_	_	_	_	_
+37	inbördeskrig	_	_	_	_	_	_	_	_
+38	med	_	_	_	_	_	_	_	_
+39	cirka	_	_	_	_	_	_	_	_
+40	1	_	_	_	_	_	_	_	_
+41	%	_	_	_	_	_	_	_	_
+42	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01075039
+# text = Uttryckt på ett annat sätt: unga män (som utgör den stora majoriteten av stridande i inbördeskrig) är mindre troliga att gå med i en revolt om de får utbildning eller har en trygg lön, och rimligen kan anta att de kommer att ha framgång i framtiden.
+# text_en = Phrased another way: young males (who make up the vast majority of combatants in civil wars) are less likely to join a rebellion if they are getting an education or have a comfortable salary, and can reasonably assume that they will prosper in the future.
+1	Uttryckt	_	_	_	_	_	_	_	_
+2	på	_	_	_	_	_	_	_	_
+3	ett	_	_	_	_	_	_	_	_
+4	annat	_	_	_	_	_	_	_	_
+5	sätt	_	_	_	_	_	_	_	_
+6	:	_	_	_	_	_	_	_	_
+7	unga	_	_	_	_	_	_	_	_
+8	män	_	_	_	_	_	_	_	_
+9	(	_	_	_	_	_	_	_	_
+10	som	_	_	_	_	_	_	_	_
+11	utgör	_	_	_	_	_	_	_	_
+12	den	_	_	_	_	_	_	_	_
+13	stora	_	_	_	_	_	_	_	_
+14	majoriteten	_	_	_	_	_	_	_	_
+15	av	_	_	_	_	_	_	_	_
+16	stridande	_	_	_	_	_	_	_	_
+17	i	_	_	_	_	_	_	_	_
+18	inbördeskrig	_	_	_	_	_	_	_	_
+19	)	_	_	_	_	_	_	_	_
+20	är	_	_	_	_	_	_	_	_
+21	mindre	_	_	_	_	_	_	_	_
+22	troliga	_	_	_	_	_	_	_	_
+23	att	_	_	_	_	_	_	_	_
+24	gå	_	_	_	_	_	_	_	_
+25	med	_	_	_	_	_	_	_	_
+26	i	_	_	_	_	_	_	_	_
+27	en	_	_	_	_	_	_	_	_
+28	revolt	_	_	_	_	_	_	_	_
+29	om	_	_	_	_	_	_	_	_
+30	de	_	_	_	_	_	_	_	_
+31	får	_	_	_	_	_	_	_	_
+32	utbildning	_	_	_	_	_	_	_	_
+33	eller	_	_	_	_	_	_	_	_
+34	har	_	_	_	_	_	_	_	_
+35	en	_	_	_	_	_	_	_	_
+36	trygg	_	_	_	_	_	_	_	_
+37	lön	_	_	_	_	_	_	_	_
+38	,	_	_	_	_	_	_	_	_
+39	och	_	_	_	_	_	_	_	_
+40	rimligen	_	_	_	_	_	_	_	_
+41	kan	_	_	_	_	_	_	_	_
+42	anta	_	_	_	_	_	_	_	_
+43	att	_	_	_	_	_	_	_	_
+44	de	_	_	_	_	_	_	_	_
+45	kommer	_	_	_	_	_	_	_	_
+46	att	_	_	_	_	_	_	_	_
+47	ha	_	_	_	_	_	_	_	_
+48	framgång	_	_	_	_	_	_	_	_
+49	i	_	_	_	_	_	_	_	_
+50	framtiden	_	_	_	_	_	_	_	_
+51	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01135037
+# text = Hon spelade huvudrollen i filmen The Five-Year Engagement från 2012, regisserad av Nicholas Stoller och med Jason Segel som motspelare.
+# text_en = She starred in the 2012 film The Five-Year Engagement, directed by Nicholas Stoller and co-starring Jason Segel.
+1	Hon	_	_	_	_	_	_	_	_
+2	spelade	_	_	_	_	_	_	_	_
+3	huvudrollen	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	filmen	_	_	_	_	_	_	_	_
+6	The	_	_	_	_	_	_	_	_
+7	Five-Year	_	_	_	_	_	_	_	_
+8	Engagement	_	_	_	_	_	_	_	_
+9	från	_	_	_	_	_	_	_	_
+10	2012	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	regisserad	_	_	_	_	_	_	_	_
+13	av	_	_	_	_	_	_	_	_
+14	Nicholas	_	_	_	_	_	_	_	_
+15	Stoller	_	_	_	_	_	_	_	_
+16	och	_	_	_	_	_	_	_	_
+17	med	_	_	_	_	_	_	_	_
+18	Jason	_	_	_	_	_	_	_	_
+19	Segel	_	_	_	_	_	_	_	_
+20	som	_	_	_	_	_	_	_	_
+21	motspelare	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n01134
+# sent_id = n01134005
+# text = Amerikanska aktiespekulationer stiger med mer än 1 % vid sidan av europeiska marknader.
+# text_en = U.S. stock futures are surging by more than 1%, alongside European markets.
+1	Amerikanska	_	_	_	_	_	_	_	_
+2	aktiespekulationer	_	_	_	_	_	_	_	_
+3	stiger	_	_	_	_	_	_	_	_
+4	med	_	_	_	_	_	_	_	_
+5	mer	_	_	_	_	_	_	_	_
+6	än	_	_	_	_	_	_	_	_
+7	1	_	_	_	_	_	_	_	_
+8	%	_	_	_	_	_	_	_	_
+9	vid	_	_	_	_	_	_	_	_
+10	sidan	_	_	_	_	_	_	_	_
+11	av	_	_	_	_	_	_	_	_
+12	europeiska	_	_	_	_	_	_	_	_
+13	marknader	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n01096
+# sent_id = n01096006
+# text = Världen – och i förlängningen Storbritannien – står inför en brist på personer med de färdigheter som krävs för att ordna ett effektivt försvar.
+# text_en = The world – and by extension the UK – is facing a shortage of people with the skills needed to mount an effective defence.
+1	Världen	_	_	_	_	_	_	_	_
+2	–	_	_	_	_	_	_	_	_
+3	och	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	förlängningen	_	_	_	_	_	_	_	_
+6	Storbritannien	_	_	_	_	_	_	_	_
+7	–	_	_	_	_	_	_	_	_
+8	står	_	_	_	_	_	_	_	_
+9	inför	_	_	_	_	_	_	_	_
+10	en	_	_	_	_	_	_	_	_
+11	brist	_	_	_	_	_	_	_	_
+12	på	_	_	_	_	_	_	_	_
+13	personer	_	_	_	_	_	_	_	_
+14	med	_	_	_	_	_	_	_	_
+15	de	_	_	_	_	_	_	_	_
+16	färdigheter	_	_	_	_	_	_	_	_
+17	som	_	_	_	_	_	_	_	_
+18	krävs	_	_	_	_	_	_	_	_
+19	för	_	_	_	_	_	_	_	_
+20	att	_	_	_	_	_	_	_	_
+21	ordna	_	_	_	_	_	_	_	_
+22	ett	_	_	_	_	_	_	_	_
+23	effektivt	_	_	_	_	_	_	_	_
+24	försvar	_	_	_	_	_	_	_	_
+25	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w01088
+# sent_id = w01088099
+# text = Det har dock gjorts omfattande statistisk analys av demografi- och befolkningsdata som inkluderar kvinnor, särskilt i sin barnafödande roll.
+# text_en = There has, however, been extensive statistical analysis of demographic and population data which includes women, especially in their childbearing roles.
+1	Det	_	_	_	_	_	_	_	_
+2	har	_	_	_	_	_	_	_	_
+3	dock	_	_	_	_	_	_	_	_
+4	gjorts	_	_	_	_	_	_	_	_
+5	omfattande	_	_	_	_	_	_	_	_
+6	statistisk	_	_	_	_	_	_	_	_
+7	analys	_	_	_	_	_	_	_	_
+8	av	_	_	_	_	_	_	_	_
+9	demografi-	_	_	_	_	_	_	_	_
+10	och	_	_	_	_	_	_	_	_
+11	befolkningsdata	_	_	_	_	_	_	_	_
+12	som	_	_	_	_	_	_	_	_
+13	inkluderar	_	_	_	_	_	_	_	_
+14	kvinnor	_	_	_	_	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	särskilt	_	_	_	_	_	_	_	_
+17	i	_	_	_	_	_	_	_	_
+18	sin	_	_	_	_	_	_	_	_
+19	barnafödande	_	_	_	_	_	_	_	_
+20	roll	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01036020
+# text = Han skulle också vilja se större övervaknings- och undersökningsbefogenheter för Real Estate Council of Ontario (RECO) som reglerar mäklare i provinsen.
+# text_en = He'd also like to see greater enforcement and investigative powers for the Real Estate Council of Ontario (RECO), which regulates agents in the province.
+1	Han	_	_	_	_	_	_	_	_
+2	skulle	_	_	_	_	_	_	_	_
+3	också	_	_	_	_	_	_	_	_
+4	vilja	_	_	_	_	_	_	_	_
+5	se	_	_	_	_	_	_	_	_
+6	större	_	_	_	_	_	_	_	_
+7	övervaknings-	_	_	_	_	_	_	_	_
+8	och	_	_	_	_	_	_	_	_
+9	undersökningsbefogenheter	_	_	_	_	_	_	_	_
+10	för	_	_	_	_	_	_	_	_
+11	Real	_	_	_	_	_	_	_	_
+12	Estate	_	_	_	_	_	_	_	_
+13	Council	_	_	_	_	_	_	_	_
+14	of	_	_	_	_	_	_	_	_
+15	Ontario	_	_	_	_	_	_	_	_
+16	(	_	_	_	_	_	_	_	_
+17	RECO	_	_	_	_	_	_	_	_
+18	)	_	_	_	_	_	_	_	_
+19	som	_	_	_	_	_	_	_	_
+20	reglerar	_	_	_	_	_	_	_	_
+21	mäklare	_	_	_	_	_	_	_	_
+22	i	_	_	_	_	_	_	_	_
+23	provinsen	_	_	_	_	_	_	_	_
+24	.	_	_	_	_	_	_	_	_
+
+# sent_id = n05002017
+# text = Fackförbunden har varit väldigt stridslystna och vid flera tillfällen har de krävt ett upphävande av den lagstiftning som Fátima Báñez är mest stolt över.
+# text_en = The unions have been very combative and on several occasions have called for the repeal of the legislation that Fátima Báñez is proudest of.
+1	Fackförbunden	_	_	_	_	_	_	_	_
+2	har	_	_	_	_	_	_	_	_
+3	varit	_	_	_	_	_	_	_	_
+4	väldigt	_	_	_	_	_	_	_	_
+5	stridslystna	_	_	_	_	_	_	_	_
+6	och	_	_	_	_	_	_	_	_
+7	vid	_	_	_	_	_	_	_	_
+8	flera	_	_	_	_	_	_	_	_
+9	tillfällen	_	_	_	_	_	_	_	_
+10	har	_	_	_	_	_	_	_	_
+11	de	_	_	_	_	_	_	_	_
+12	krävt	_	_	_	_	_	_	_	_
+13	ett	_	_	_	_	_	_	_	_
+14	upphävande	_	_	_	_	_	_	_	_
+15	av	_	_	_	_	_	_	_	_
+16	den	_	_	_	_	_	_	_	_
+17	lagstiftning	_	_	_	_	_	_	_	_
+18	som	_	_	_	_	_	_	_	_
+19	Fátima	_	_	_	_	_	_	_	_
+20	Báñez	_	_	_	_	_	_	_	_
+21	är	_	_	_	_	_	_	_	_
+22	mest	_	_	_	_	_	_	_	_
+23	stolt	_	_	_	_	_	_	_	_
+24	över	_	_	_	_	_	_	_	_
+25	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n01135
+# sent_id = n01135002
+# text = Kina omättliga aptit på friterad kyckling brukade vara en stor anledning till att investerare älskade KFC:s moderföretag Yum Brands.
+# text_en = China's insatiable appetite for fried chicken used to be a big reason why investors loved KFC-parent Yum Brands.
+1	Kina	_	_	_	_	_	_	_	_
+2	omättliga	_	_	_	_	_	_	_	_
+3	aptit	_	_	_	_	_	_	_	_
+4	på	_	_	_	_	_	_	_	_
+5	friterad	_	_	_	_	_	_	_	_
+6	kyckling	_	_	_	_	_	_	_	_
+7	brukade	_	_	_	_	_	_	_	_
+8	vara	_	_	_	_	_	_	_	_
+9	en	_	_	_	_	_	_	_	_
+10	stor	_	_	_	_	_	_	_	_
+11	anledning	_	_	_	_	_	_	_	_
+12	till	_	_	_	_	_	_	_	_
+13	att	_	_	_	_	_	_	_	_
+14	investerare	_	_	_	_	_	_	_	_
+15	älskade	_	_	_	_	_	_	_	_
+16	KFC:s	_	_	_	_	_	_	_	_
+17	moderföretag	_	_	_	_	_	_	_	_
+18	Yum	_	_	_	_	_	_	_	_
+19	Brands	_	_	_	_	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n04001
+# sent_id = n04001002
+# text = "Tina Anselmi föddes den 25 mars 1927 i Castelfranco Veneto; hon växte upp i en antifacistisk katolsk familj, som präglades av förföljelsen av hennes militant socialistiske fader. "
+# text_en = Tina Anselmi was born on the 25th of March, 1927 in Castelfranco Veneto; she grew up in an anti-fascist Catholic family, which was marked by the persecution of her militant socialist father.
+1	"	_	_	_	_	_	_	_	_
+2	Tina	_	_	_	_	_	_	_	_
+3	Anselmi	_	_	_	_	_	_	_	_
+4	föddes	_	_	_	_	_	_	_	_
+5	den	_	_	_	_	_	_	_	_
+6	25	_	_	_	_	_	_	_	_
+7	mars	_	_	_	_	_	_	_	_
+8	1927	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	Castelfranco	_	_	_	_	_	_	_	_
+11	Veneto	_	_	_	_	_	_	_	_
+12	;	_	_	_	_	_	_	_	_
+13	hon	_	_	_	_	_	_	_	_
+14	växte	_	_	_	_	_	_	_	_
+15	upp	_	_	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	en	_	_	_	_	_	_	_	_
+18	antifacistisk	_	_	_	_	_	_	_	_
+19	katolsk	_	_	_	_	_	_	_	_
+20	familj	_	_	_	_	_	_	_	_
+21	,	_	_	_	_	_	_	_	_
+22	som	_	_	_	_	_	_	_	_
+23	präglades	_	_	_	_	_	_	_	_
+24	av	_	_	_	_	_	_	_	_
+25	förföljelsen	_	_	_	_	_	_	_	_
+26	av	_	_	_	_	_	_	_	_
+27	hennes	_	_	_	_	_	_	_	_
+28	militant	_	_	_	_	_	_	_	_
+29	socialistiske	_	_	_	_	_	_	_	_
+30	fader	_	_	_	_	_	_	_	_
+31	.	_	_	_	_	_	_	_	_
+32	"	_	_	_	_	_	_	_	_
+
+# sent_id = w01113046
+# text = Han byggde och renoverade även fem traditionella marknader 2013 och fyra traditionella marknader 2014.
+# text_en = He also built and renovated five traditional markets in 2013 and four traditional markets in 2014.
+1	Han	_	_	_	_	_	_	_	_
+2	byggde	_	_	_	_	_	_	_	_
+3	och	_	_	_	_	_	_	_	_
+4	renoverade	_	_	_	_	_	_	_	_
+5	även	_	_	_	_	_	_	_	_
+6	fem	_	_	_	_	_	_	_	_
+7	traditionella	_	_	_	_	_	_	_	_
+8	marknader	_	_	_	_	_	_	_	_
+9	2013	_	_	_	_	_	_	_	_
+10	och	_	_	_	_	_	_	_	_
+10.1	byggde	_	_	_	_	_	_	_	_
+10.2	renoverade	_	_	_	_	_	_	_	_
+11	fyra	_	_	_	_	_	_	_	_
+12	traditionella	_	_	_	_	_	_	_	_
+13	marknader	_	_	_	_	_	_	_	_
+14	2014	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n01073
+# sent_id = n01073004
+# text = Vem kan stoppa det här Australien-laget?
+# text_en = Who can stop this Australia side?
+1	Vem	_	_	_	_	_	_	_	_
+2	kan	_	_	_	_	_	_	_	_
+3	stoppa	_	_	_	_	_	_	_	_
+4	det	_	_	_	_	_	_	_	_
+5	här	_	_	_	_	_	_	_	_
+6	Australien-laget	_	_	_	_	_	_	_	_
+7	?	_	_	_	_	_	_	_	_
+
+# sent_id = w01050071
+# text = Området som kontrollerades av Bogd Khaan var ungefärligen det samma som Yttre Mongoliet under Qing-perioden.
+# text_en = The area controlled by the Bogd Khaan was approximately that of the former Outer Mongolia during the Qing period.
+1	Området	_	_	_	_	_	_	_	_
+2	som	_	_	_	_	_	_	_	_
+3	kontrollerades	_	_	_	_	_	_	_	_
+4	av	_	_	_	_	_	_	_	_
+5	Bogd	_	_	_	_	_	_	_	_
+6	Khaan	_	_	_	_	_	_	_	_
+7	var	_	_	_	_	_	_	_	_
+8	ungefärligen	_	_	_	_	_	_	_	_
+9	det	_	_	_	_	_	_	_	_
+10	samma	_	_	_	_	_	_	_	_
+11	som	_	_	_	_	_	_	_	_
+12	Yttre	_	_	_	_	_	_	_	_
+13	Mongoliet	_	_	_	_	_	_	_	_
+14	under	_	_	_	_	_	_	_	_
+15	Qing-perioden	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = n03009011
+# text = Det Franska digitala rådet, som ger råd om lagförslag i linje med frågor om digital teknologi, kunde också granska det.
+# text_en = The French Digital Council, which advises on bills in line with questions of digital technology, could also scrutinise it.
+1	Det	_	_	_	_	_	_	_	_
+2	Franska	_	_	_	_	_	_	_	_
+3	digitala	_	_	_	_	_	_	_	_
+4	rådet	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	som	_	_	_	_	_	_	_	_
+7	ger	_	_	_	_	_	_	_	_
+8	råd	_	_	_	_	_	_	_	_
+9	om	_	_	_	_	_	_	_	_
+10	lagförslag	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	linje	_	_	_	_	_	_	_	_
+13	med	_	_	_	_	_	_	_	_
+14	frågor	_	_	_	_	_	_	_	_
+15	om	_	_	_	_	_	_	_	_
+16	digital	_	_	_	_	_	_	_	_
+17	teknologi	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	kunde	_	_	_	_	_	_	_	_
+20	också	_	_	_	_	_	_	_	_
+21	granska	_	_	_	_	_	_	_	_
+22	det	_	_	_	_	_	_	_	_
+23	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w01137
+# sent_id = w01137050
+# text = Lord Halifax, Lord President of the Council, besökte Tyskland privat i november och träffade Hitler och andra tyska befattningshavare.
+# text_en = Lord Halifax, the Lord President of the Council, visited Germany privately in November and met Hitler and other German officials.
+1	Lord	_	_	_	_	_	_	_	_
+2	Halifax	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	Lord	_	_	_	_	_	_	_	_
+5	President	_	_	_	_	_	_	_	_
+6	of	_	_	_	_	_	_	_	_
+7	the	_	_	_	_	_	_	_	_
+8	Council	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	besökte	_	_	_	_	_	_	_	_
+11	Tyskland	_	_	_	_	_	_	_	_
+12	privat	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	november	_	_	_	_	_	_	_	_
+15	och	_	_	_	_	_	_	_	_
+16	träffade	_	_	_	_	_	_	_	_
+17	Hitler	_	_	_	_	_	_	_	_
+18	och	_	_	_	_	_	_	_	_
+19	andra	_	_	_	_	_	_	_	_
+20	tyska	_	_	_	_	_	_	_	_
+21	befattningshavare	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n03010
+# sent_id = n03010012
+# text = Enligt Le Figaro kan denna regeringsplan frigöra upp till 42 miljoner euro, varav 15,5 miljoner skulle gå till säkerhet.
+# text_en = According to Le Figaro, this government plan could free up 42 million euros, of which 15.5 million would go towards security.
+1	Enligt	_	_	_	_	_	_	_	_
+2	Le	_	_	_	_	_	_	_	_
+3	Figaro	_	_	_	_	_	_	_	_
+4	kan	_	_	_	_	_	_	_	_
+5	denna	_	_	_	_	_	_	_	_
+6	regeringsplan	_	_	_	_	_	_	_	_
+7	frigöra	_	_	_	_	_	_	_	_
+8	upp	_	_	_	_	_	_	_	_
+9	till	_	_	_	_	_	_	_	_
+10	42	_	_	_	_	_	_	_	_
+11	miljoner	_	_	_	_	_	_	_	_
+12	euro	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	varav	_	_	_	_	_	_	_	_
+15	15,5	_	_	_	_	_	_	_	_
+16	miljoner	_	_	_	_	_	_	_	_
+17	skulle	_	_	_	_	_	_	_	_
+18	gå	_	_	_	_	_	_	_	_
+19	till	_	_	_	_	_	_	_	_
+20	säkerhet	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w01080
+# sent_id = w01080128
+# text = Den makedoniska östra gränsen säkrades nu vid floden Nestus (Mesta).
+# text_en = The Macedonian eastern border with Thrace was now secured at the river Nestus (Mesta).
+1	Den	_	_	_	_	_	_	_	_
+2	makedoniska	_	_	_	_	_	_	_	_
+3	östra	_	_	_	_	_	_	_	_
+4	gränsen	_	_	_	_	_	_	_	_
+5	säkrades	_	_	_	_	_	_	_	_
+6	nu	_	_	_	_	_	_	_	_
+7	vid	_	_	_	_	_	_	_	_
+8	floden	_	_	_	_	_	_	_	_
+9	Nestus	_	_	_	_	_	_	_	_
+10	(	_	_	_	_	_	_	_	_
+11	Mesta	_	_	_	_	_	_	_	_
+12	)	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+

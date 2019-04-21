@@ -1,0 +1,2749 @@
+# sent_id = 777
+# text = Bhí an fear anaithnid ag faire ar an gcailín dathúil agus ba ea a dhéine a bhí sé á breathnú nach bhfaca sé an bheirt againn agus d'fhág sin radharc maith agamsa air.
+1	Bhí	_	_	_	_	_	_	_	_
+2	an	_	_	_	_	_	_	_	_
+3	fear	_	_	_	_	_	_	_	_
+4	anaithnid	_	_	_	_	_	_	_	_
+5	ag	_	_	_	_	_	_	_	_
+6	faire	_	_	_	_	_	_	_	_
+7	ar	_	_	_	_	_	_	_	_
+8	an	_	_	_	_	_	_	_	_
+9	gcailín	_	_	_	_	_	_	_	_
+10	dathúil	_	_	_	_	_	_	_	_
+11	agus	_	_	_	_	_	_	_	_
+12	ba	_	_	_	_	_	_	_	_
+13	ea	_	_	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	dhéine	_	_	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	bhí	_	_	_	_	_	_	_	_
+18	sé	_	_	_	_	_	_	_	_
+19	á	_	_	_	_	_	_	_	_
+20	breathnú	_	_	_	_	_	_	_	_
+21	nach	_	_	_	_	_	_	_	_
+22	bhfaca	_	_	_	_	_	_	_	_
+23	sé	_	_	_	_	_	_	_	_
+24	an	_	_	_	_	_	_	_	_
+25	bheirt	_	_	_	_	_	_	_	_
+26	againn	_	_	_	_	_	_	_	_
+27	agus	_	_	_	_	_	_	_	_
+28	d'	_	_	_	_	_	_	_	_
+29	fhág	_	_	_	_	_	_	_	_
+30	sin	_	_	_	_	_	_	_	_
+31	radharc	_	_	_	_	_	_	_	_
+32	maith	_	_	_	_	_	_	_	_
+33	agamsa	_	_	_	_	_	_	_	_
+34	air	_	_	_	_	_	_	_	_
+35	.	_	_	_	_	_	_	_	_
+
+# sent_id = 580
+# text = Cothaíonn sé a chuid Ghaeilge gach bliain ar saoire sa Spidéal.
+1	Cothaíonn	_	_	_	_	_	_	_	_
+2	sé	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	chuid	_	_	_	_	_	_	_	_
+5	Ghaeilge	_	_	_	_	_	_	_	_
+6	gach	_	_	_	_	_	_	_	_
+7	bliain	_	_	_	_	_	_	_	_
+8	ar	_	_	_	_	_	_	_	_
+9	saoire	_	_	_	_	_	_	_	_
+10	sa	_	_	_	_	_	_	_	_
+11	Spidéal	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = 449
+# text = Tuairisc ar limistéir thuaithe cháilitheacha Shligigh.
+1	Tuairisc	_	_	_	_	_	_	_	_
+2	ar	_	_	_	_	_	_	_	_
+3	limistéir	_	_	_	_	_	_	_	_
+4	thuaithe	_	_	_	_	_	_	_	_
+5	cháilitheacha	_	_	_	_	_	_	_	_
+6	Shligigh	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = 565
+# text = Cnoc Fola Anseo tá clagarnach claíomh le cluinstean I ngaoth pholltach na Rinne ag tógáil bruíne.
+1	Cnoc	_	_	_	_	_	_	_	_
+2	Fola	_	_	_	_	_	_	_	_
+3	Anseo	_	_	_	_	_	_	_	_
+4	tá	_	_	_	_	_	_	_	_
+5	clagarnach	_	_	_	_	_	_	_	_
+6	claíomh	_	_	_	_	_	_	_	_
+7	le	_	_	_	_	_	_	_	_
+8	cluinstean	_	_	_	_	_	_	_	_
+9	I	_	_	_	_	_	_	_	_
+10	ngaoth	_	_	_	_	_	_	_	_
+11	pholltach	_	_	_	_	_	_	_	_
+12	na	_	_	_	_	_	_	_	_
+13	Rinne	_	_	_	_	_	_	_	_
+14	ag	_	_	_	_	_	_	_	_
+15	tógáil	_	_	_	_	_	_	_	_
+16	bruíne	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = 77
+# text = Tá sé ag caoineadh gan stad.
+1	Tá	_	_	_	_	_	_	_	_
+2	sé	_	_	_	_	_	_	_	_
+3	ag	_	_	_	_	_	_	_	_
+4	caoineadh	_	_	_	_	_	_	_	_
+5	gan	_	_	_	_	_	_	_	_
+6	stad	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = 734
+# text = Sa deireadh shuigh sé síos agus scríobh sé, Is dóigh liom a Mháiréad, go bhfuil mé i ngrá leat ón chéad lá sin ar leag mé súil ort.
+1	Sa	_	_	_	_	_	_	_	_
+2	deireadh	_	_	_	_	_	_	_	_
+3	shuigh	_	_	_	_	_	_	_	_
+4	sé	_	_	_	_	_	_	_	_
+5	síos	_	_	_	_	_	_	_	_
+6	agus	_	_	_	_	_	_	_	_
+7	scríobh	_	_	_	_	_	_	_	_
+8	sé	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	Is	_	_	_	_	_	_	_	_
+11	dóigh	_	_	_	_	_	_	_	_
+12	liom	_	_	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	Mháiréad	_	_	_	_	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	go	_	_	_	_	_	_	_	_
+17	bhfuil	_	_	_	_	_	_	_	_
+18	mé	_	_	_	_	_	_	_	_
+19	i	_	_	_	_	_	_	_	_
+20	ngrá	_	_	_	_	_	_	_	_
+21	leat	_	_	_	_	_	_	_	_
+22	ón	_	_	_	_	_	_	_	_
+23	chéad	_	_	_	_	_	_	_	_
+24	lá	_	_	_	_	_	_	_	_
+25	sin	_	_	_	_	_	_	_	_
+26	ar	_	_	_	_	_	_	_	_
+27	leag	_	_	_	_	_	_	_	_
+28	mé	_	_	_	_	_	_	_	_
+29	súil	_	_	_	_	_	_	_	_
+30	ort	_	_	_	_	_	_	_	_
+31	.	_	_	_	_	_	_	_	_
+
+# sent_id = 975
+# text = (4) Gach rialachán a déanfar fén alt so leagfar é fé bhráid gach Tighe den Oireachtas chó luath agus is féidir é tar éis a dhéanta agus má dhineann aon Tigh acu san laistigh den lá is fiche a shuidhfidh an Tigh sin ina dhiaidh sin rún do rith ag cur an rialacháin sin ar nea-mbrí beidh an rialachán san ar nea-mbrí dá réir sin ach beidh san gan dochar do dhleathacht éinní a dineadh roimhe sin fén rialachán san.
+1	(4)	_	_	_	_	_	_	_	_
+2	Gach	_	_	_	_	_	_	_	_
+3	rialachán	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	déanfar	_	_	_	_	_	_	_	_
+6	fén	_	_	_	_	_	_	_	_
+7	alt	_	_	_	_	_	_	_	_
+8	so	_	_	_	_	_	_	_	_
+9	leagfar	_	_	_	_	_	_	_	_
+10	é	_	_	_	_	_	_	_	_
+11	fé	_	_	_	_	_	_	_	_
+12	bhráid	_	_	_	_	_	_	_	_
+13	gach	_	_	_	_	_	_	_	_
+14	Tighe	_	_	_	_	_	_	_	_
+15	den	_	_	_	_	_	_	_	_
+16	Oireachtas	_	_	_	_	_	_	_	_
+17	chó	_	_	_	_	_	_	_	_
+18	luath	_	_	_	_	_	_	_	_
+19	agus	_	_	_	_	_	_	_	_
+20	is	_	_	_	_	_	_	_	_
+21	féidir	_	_	_	_	_	_	_	_
+22	é	_	_	_	_	_	_	_	_
+23	tar	_	_	_	_	_	_	_	_
+24	éis	_	_	_	_	_	_	_	_
+25	a	_	_	_	_	_	_	_	_
+26	dhéanta	_	_	_	_	_	_	_	_
+27	agus	_	_	_	_	_	_	_	_
+28	má	_	_	_	_	_	_	_	_
+29	dhineann	_	_	_	_	_	_	_	_
+30	aon	_	_	_	_	_	_	_	_
+31	Tigh	_	_	_	_	_	_	_	_
+32	acu	_	_	_	_	_	_	_	_
+33	san	_	_	_	_	_	_	_	_
+34	laistigh	_	_	_	_	_	_	_	_
+35	den	_	_	_	_	_	_	_	_
+36	lá	_	_	_	_	_	_	_	_
+37	is	_	_	_	_	_	_	_	_
+38	fiche	_	_	_	_	_	_	_	_
+39	a	_	_	_	_	_	_	_	_
+40	shuidhfidh	_	_	_	_	_	_	_	_
+41	an	_	_	_	_	_	_	_	_
+42	Tigh	_	_	_	_	_	_	_	_
+43	sin	_	_	_	_	_	_	_	_
+44	ina	_	_	_	_	_	_	_	_
+45	dhiaidh	_	_	_	_	_	_	_	_
+46	sin	_	_	_	_	_	_	_	_
+47	rún	_	_	_	_	_	_	_	_
+48	do	_	_	_	_	_	_	_	_
+49	rith	_	_	_	_	_	_	_	_
+50	ag	_	_	_	_	_	_	_	_
+51	cur	_	_	_	_	_	_	_	_
+52	an	_	_	_	_	_	_	_	_
+53	rialacháin	_	_	_	_	_	_	_	_
+54	sin	_	_	_	_	_	_	_	_
+55	ar	_	_	_	_	_	_	_	_
+56	nea-mbrí	_	_	_	_	_	_	_	_
+57	beidh	_	_	_	_	_	_	_	_
+58	an	_	_	_	_	_	_	_	_
+59	rialachán	_	_	_	_	_	_	_	_
+60	san	_	_	_	_	_	_	_	_
+61	ar	_	_	_	_	_	_	_	_
+62	nea-mbrí	_	_	_	_	_	_	_	_
+63	dá	_	_	_	_	_	_	_	_
+64	réir	_	_	_	_	_	_	_	_
+65	sin	_	_	_	_	_	_	_	_
+66	ach	_	_	_	_	_	_	_	_
+67	beidh	_	_	_	_	_	_	_	_
+68	san	_	_	_	_	_	_	_	_
+69	gan	_	_	_	_	_	_	_	_
+70	dochar	_	_	_	_	_	_	_	_
+71	do	_	_	_	_	_	_	_	_
+72	dhleathacht	_	_	_	_	_	_	_	_
+73	éinní	_	_	_	_	_	_	_	_
+74	a	_	_	_	_	_	_	_	_
+75	dineadh	_	_	_	_	_	_	_	_
+76	roimhe	_	_	_	_	_	_	_	_
+77	sin	_	_	_	_	_	_	_	_
+78	fén	_	_	_	_	_	_	_	_
+79	rialachán	_	_	_	_	_	_	_	_
+80	san	_	_	_	_	_	_	_	_
+81	.	_	_	_	_	_	_	_	_
+
+# sent_id = 923
+# text = Bhí Garret FitzGerald, an chéad cheannaire eile ar an bpáirtí agus a gcéad Taoiseach eile freisin, ina chomhalta de rialtas an Heavy Gang.
+1	Bhí	_	_	_	_	_	_	_	_
+2	Garret	_	_	_	_	_	_	_	_
+3	FitzGerald	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	an	_	_	_	_	_	_	_	_
+6	chéad	_	_	_	_	_	_	_	_
+7	cheannaire	_	_	_	_	_	_	_	_
+8	eile	_	_	_	_	_	_	_	_
+9	ar	_	_	_	_	_	_	_	_
+10	an	_	_	_	_	_	_	_	_
+11	bpáirtí	_	_	_	_	_	_	_	_
+12	agus	_	_	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	gcéad	_	_	_	_	_	_	_	_
+15	Taoiseach	_	_	_	_	_	_	_	_
+16	eile	_	_	_	_	_	_	_	_
+17	freisin	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	ina	_	_	_	_	_	_	_	_
+20	chomhalta	_	_	_	_	_	_	_	_
+21	de	_	_	_	_	_	_	_	_
+22	rialtas	_	_	_	_	_	_	_	_
+23	an	_	_	_	_	_	_	_	_
+24	Heavy	_	_	_	_	_	_	_	_
+25	Gang	_	_	_	_	_	_	_	_
+26	.	_	_	_	_	_	_	_	_
+
+# sent_id = 613
+# text = 'dá mbeadh cóiste saor... Dá mbínn i m'fhile, cheolfainn agus mholfainn' an mhuc dhubh '( an t-ainm a bheireadh bunadh na mbailte s'againne ar an traein roimhe seo) go ceann seacht mblian.
+1	'	_	_	_	_	_	_	_	_
+2	dá	_	_	_	_	_	_	_	_
+3	mbeadh	_	_	_	_	_	_	_	_
+4	cóiste	_	_	_	_	_	_	_	_
+5	saor	_	_	_	_	_	_	_	_
+6	...	_	_	_	_	_	_	_	_
+7	Dá	_	_	_	_	_	_	_	_
+8	mbínn	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	m'	_	_	_	_	_	_	_	_
+11	fhile	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	cheolfainn	_	_	_	_	_	_	_	_
+14	agus	_	_	_	_	_	_	_	_
+15	mholfainn	_	_	_	_	_	_	_	_
+16	'	_	_	_	_	_	_	_	_
+17	an	_	_	_	_	_	_	_	_
+18	mhuc	_	_	_	_	_	_	_	_
+19	dhubh	_	_	_	_	_	_	_	_
+20	'	_	_	_	_	_	_	_	_
+21	(	_	_	_	_	_	_	_	_
+22	an	_	_	_	_	_	_	_	_
+23	t-ainm	_	_	_	_	_	_	_	_
+24	a	_	_	_	_	_	_	_	_
+25	bheireadh	_	_	_	_	_	_	_	_
+26	bunadh	_	_	_	_	_	_	_	_
+27	na	_	_	_	_	_	_	_	_
+28	mbailte	_	_	_	_	_	_	_	_
+29	s'	_	_	_	_	_	_	_	_
+30	againne	_	_	_	_	_	_	_	_
+31	ar	_	_	_	_	_	_	_	_
+32	an	_	_	_	_	_	_	_	_
+33	traein	_	_	_	_	_	_	_	_
+34	roimhe	_	_	_	_	_	_	_	_
+35	seo	_	_	_	_	_	_	_	_
+36	)	_	_	_	_	_	_	_	_
+37	go	_	_	_	_	_	_	_	_
+38	ceann	_	_	_	_	_	_	_	_
+39	seacht	_	_	_	_	_	_	_	_
+40	mblian	_	_	_	_	_	_	_	_
+41	.	_	_	_	_	_	_	_	_
+
+# sent_id = 419
+# text = Táthar á rá gurb í is ciontach le galar nua ar a dtugtar 'bréagthochtán' - tinneas a chuireann isteach ar pháistí go háirithe.
+1	Táthar	_	_	_	_	_	_	_	_
+2	á	_	_	_	_	_	_	_	_
+3	rá	_	_	_	_	_	_	_	_
+4	gurb	_	_	_	_	_	_	_	_
+5	í	_	_	_	_	_	_	_	_
+6	is	_	_	_	_	_	_	_	_
+7	ciontach	_	_	_	_	_	_	_	_
+8	le	_	_	_	_	_	_	_	_
+9	galar	_	_	_	_	_	_	_	_
+10	nua	_	_	_	_	_	_	_	_
+11	ar	_	_	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	dtugtar	_	_	_	_	_	_	_	_
+14	'	_	_	_	_	_	_	_	_
+15	bréagthochtán	_	_	_	_	_	_	_	_
+16	'	_	_	_	_	_	_	_	_
+17	-	_	_	_	_	_	_	_	_
+18	tinneas	_	_	_	_	_	_	_	_
+19	a	_	_	_	_	_	_	_	_
+20	chuireann	_	_	_	_	_	_	_	_
+21	isteach	_	_	_	_	_	_	_	_
+22	ar	_	_	_	_	_	_	_	_
+23	pháistí	_	_	_	_	_	_	_	_
+24	go	_	_	_	_	_	_	_	_
+25	háirithe	_	_	_	_	_	_	_	_
+26	.	_	_	_	_	_	_	_	_
+
+# sent_id = 539
+# text = 'Athraíonn sí a haigne ansin chomh luath is a chastar ar a chéile iad!
+1	'	_	_	_	_	_	_	_	_
+2	Athraíonn	_	_	_	_	_	_	_	_
+3	sí	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	haigne	_	_	_	_	_	_	_	_
+6	ansin	_	_	_	_	_	_	_	_
+7	chomh	_	_	_	_	_	_	_	_
+8	luath	_	_	_	_	_	_	_	_
+9	is	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	chastar	_	_	_	_	_	_	_	_
+12	ar	_	_	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	chéile	_	_	_	_	_	_	_	_
+15	iad	_	_	_	_	_	_	_	_
+16	!	_	_	_	_	_	_	_	_
+
+# sent_id = 884
+# text = 'Ar thug tú taisléine nó brat áise nó aon ní den tsórt leat, a naofacht?
+1	'	_	_	_	_	_	_	_	_
+2	Ar	_	_	_	_	_	_	_	_
+3	thug	_	_	_	_	_	_	_	_
+4	tú	_	_	_	_	_	_	_	_
+5	taisléine	_	_	_	_	_	_	_	_
+6	nó	_	_	_	_	_	_	_	_
+7	brat	_	_	_	_	_	_	_	_
+8	áise	_	_	_	_	_	_	_	_
+9	nó	_	_	_	_	_	_	_	_
+10	aon	_	_	_	_	_	_	_	_
+11	ní	_	_	_	_	_	_	_	_
+12	den	_	_	_	_	_	_	_	_
+13	tsórt	_	_	_	_	_	_	_	_
+14	leat	_	_	_	_	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	naofacht	_	_	_	_	_	_	_	_
+18	?	_	_	_	_	_	_	_	_
+
+# sent_id = 550
+# text = Is deacair treo na gaoithe a mheas ar uairibh, sa ghnáthgharraí cúil sa bhaile go háirithe, mar gheall ar na foirgnimh agus na crainn mórthimpeall.
+1	Is	_	_	_	_	_	_	_	_
+2	deacair	_	_	_	_	_	_	_	_
+3	treo	_	_	_	_	_	_	_	_
+4	na	_	_	_	_	_	_	_	_
+5	gaoithe	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	mheas	_	_	_	_	_	_	_	_
+8	ar	_	_	_	_	_	_	_	_
+9	uairibh	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	sa	_	_	_	_	_	_	_	_
+12	ghnáthgharraí	_	_	_	_	_	_	_	_
+13	cúil	_	_	_	_	_	_	_	_
+14	sa	_	_	_	_	_	_	_	_
+15	bhaile	_	_	_	_	_	_	_	_
+16	go	_	_	_	_	_	_	_	_
+17	háirithe	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	mar	_	_	_	_	_	_	_	_
+20	gheall	_	_	_	_	_	_	_	_
+21	ar	_	_	_	_	_	_	_	_
+22	na	_	_	_	_	_	_	_	_
+23	foirgnimh	_	_	_	_	_	_	_	_
+24	agus	_	_	_	_	_	_	_	_
+25	na	_	_	_	_	_	_	_	_
+26	crainn	_	_	_	_	_	_	_	_
+27	mórthimpeall	_	_	_	_	_	_	_	_
+28	.	_	_	_	_	_	_	_	_
+
+# sent_id = 835
+# text = Cé go ndeachaigh sé thar fóir leis an tuairim sin, is cinnte go raibh mórán scríbhneoirí Béarla den bharúil chéanna i gcéadlaethanta na hathbheochana.
+1	Cé	_	_	_	_	_	_	_	_
+2	go	_	_	_	_	_	_	_	_
+3	ndeachaigh	_	_	_	_	_	_	_	_
+4	sé	_	_	_	_	_	_	_	_
+5	thar	_	_	_	_	_	_	_	_
+6	fóir	_	_	_	_	_	_	_	_
+7	leis	_	_	_	_	_	_	_	_
+8	an	_	_	_	_	_	_	_	_
+9	tuairim	_	_	_	_	_	_	_	_
+10	sin	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	is	_	_	_	_	_	_	_	_
+13	cinnte	_	_	_	_	_	_	_	_
+14	go	_	_	_	_	_	_	_	_
+15	raibh	_	_	_	_	_	_	_	_
+16	mórán	_	_	_	_	_	_	_	_
+17	scríbhneoirí	_	_	_	_	_	_	_	_
+18	Béarla	_	_	_	_	_	_	_	_
+19	den	_	_	_	_	_	_	_	_
+20	bharúil	_	_	_	_	_	_	_	_
+21	chéanna	_	_	_	_	_	_	_	_
+22	i	_	_	_	_	_	_	_	_
+23	gcéadlaethanta	_	_	_	_	_	_	_	_
+24	na	_	_	_	_	_	_	_	_
+25	hathbheochana	_	_	_	_	_	_	_	_
+26	.	_	_	_	_	_	_	_	_
+
+# sent_id = 941
+# text = Ar ndóigh, is mó an nádúrthacht a bhaineann le samplaí di ná a chéile.
+1	Ar	_	_	_	_	_	_	_	_
+2	ndóigh	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	is	_	_	_	_	_	_	_	_
+5	mó	_	_	_	_	_	_	_	_
+6	an	_	_	_	_	_	_	_	_
+7	nádúrthacht	_	_	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	bhaineann	_	_	_	_	_	_	_	_
+10	le	_	_	_	_	_	_	_	_
+11	samplaí	_	_	_	_	_	_	_	_
+12	di	_	_	_	_	_	_	_	_
+13	ná	_	_	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	chéile	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = 759
+# text = 'Sleamhnán?
+1	'	_	_	_	_	_	_	_	_
+2	Sleamhnán	_	_	_	_	_	_	_	_
+3	?	_	_	_	_	_	_	_	_
+
+# sent_id = 988
+# text = Ní thugtar íocaíochtaí mura n-iarrtar iad.
+1	Ní	_	_	_	_	_	_	_	_
+2	thugtar	_	_	_	_	_	_	_	_
+3	íocaíochtaí	_	_	_	_	_	_	_	_
+4	mura	_	_	_	_	_	_	_	_
+5	n-iarrtar	_	_	_	_	_	_	_	_
+6	iad	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = 661
+# text = Níl an ceard-cumannachas láidir go leor sna tionscail atá bunaithe sa Ghaeltacht.
+1	Níl	_	_	_	_	_	_	_	_
+2	an	_	_	_	_	_	_	_	_
+3	ceard-cumannachas	_	_	_	_	_	_	_	_
+4	láidir	_	_	_	_	_	_	_	_
+5	go	_	_	_	_	_	_	_	_
+6	leor	_	_	_	_	_	_	_	_
+7	sna	_	_	_	_	_	_	_	_
+8	tionscail	_	_	_	_	_	_	_	_
+9	atá	_	_	_	_	_	_	_	_
+10	bunaithe	_	_	_	_	_	_	_	_
+11	sa	_	_	_	_	_	_	_	_
+12	Ghaeltacht	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = 953
+# text = Chuige sin, tá an t-ábhar roinnte ina cheithre chuid aige - aistí ar Áit, Stair, Creideamh agus Polaitíocht.
+1	Chuige	_	_	_	_	_	_	_	_
+2	sin	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	tá	_	_	_	_	_	_	_	_
+5	an	_	_	_	_	_	_	_	_
+6	t-ábhar	_	_	_	_	_	_	_	_
+7	roinnte	_	_	_	_	_	_	_	_
+8	ina	_	_	_	_	_	_	_	_
+9	cheithre	_	_	_	_	_	_	_	_
+10	chuid	_	_	_	_	_	_	_	_
+11	aige	_	_	_	_	_	_	_	_
+12	-	_	_	_	_	_	_	_	_
+13	aistí	_	_	_	_	_	_	_	_
+14	ar	_	_	_	_	_	_	_	_
+15	Áit	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	Stair	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	Creideamh	_	_	_	_	_	_	_	_
+20	agus	_	_	_	_	_	_	_	_
+21	Polaitíocht	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# sent_id = 508
+# text = ... '' Go deimhin, rinne Séamus Puirséal, príomhfheidhmeannach Chomhairle na nDámhachtainí Ardoideachais Oiliúna, tairiscint go dtacódh an t-eagras sin le comhdháil dá leithéid.
+1	...	_	_	_	_	_	_	_	_
+2	''	_	_	_	_	_	_	_	_
+3	Go	_	_	_	_	_	_	_	_
+4	deimhin	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	rinne	_	_	_	_	_	_	_	_
+7	Séamus	_	_	_	_	_	_	_	_
+8	Puirséal	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	príomhfheidhmeannach	_	_	_	_	_	_	_	_
+11	Chomhairle	_	_	_	_	_	_	_	_
+12	na	_	_	_	_	_	_	_	_
+13	nDámhachtainí	_	_	_	_	_	_	_	_
+14	Ardoideachais	_	_	_	_	_	_	_	_
+15	Oiliúna	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	tairiscint	_	_	_	_	_	_	_	_
+18	go	_	_	_	_	_	_	_	_
+19	dtacódh	_	_	_	_	_	_	_	_
+20	an	_	_	_	_	_	_	_	_
+21	t-eagras	_	_	_	_	_	_	_	_
+22	sin	_	_	_	_	_	_	_	_
+23	le	_	_	_	_	_	_	_	_
+24	comhdháil	_	_	_	_	_	_	_	_
+25	dá	_	_	_	_	_	_	_	_
+26	leithéid	_	_	_	_	_	_	_	_
+27	.	_	_	_	_	_	_	_	_
+
+# sent_id = 867
+# text = Bíonn teangmháil ar leith ag go leor carachtar sna gearrscéalta leis an aimsir chaite, a fhágann gur deacair scaradh scun scan lenar tharla fadó, in ainneoin do dhíchill.
+1	Bíonn	_	_	_	_	_	_	_	_
+2	teangmháil	_	_	_	_	_	_	_	_
+3	ar	_	_	_	_	_	_	_	_
+4	leith	_	_	_	_	_	_	_	_
+5	ag	_	_	_	_	_	_	_	_
+6	go	_	_	_	_	_	_	_	_
+7	leor	_	_	_	_	_	_	_	_
+8	carachtar	_	_	_	_	_	_	_	_
+9	sna	_	_	_	_	_	_	_	_
+10	gearrscéalta	_	_	_	_	_	_	_	_
+11	leis	_	_	_	_	_	_	_	_
+12	an	_	_	_	_	_	_	_	_
+13	aimsir	_	_	_	_	_	_	_	_
+14	chaite	_	_	_	_	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	fhágann	_	_	_	_	_	_	_	_
+18	gur	_	_	_	_	_	_	_	_
+19	deacair	_	_	_	_	_	_	_	_
+20	scaradh	_	_	_	_	_	_	_	_
+21	scun	_	_	_	_	_	_	_	_
+22	scan	_	_	_	_	_	_	_	_
+23	lenar	_	_	_	_	_	_	_	_
+24	tharla	_	_	_	_	_	_	_	_
+25	fadó	_	_	_	_	_	_	_	_
+26	,	_	_	_	_	_	_	_	_
+27	in	_	_	_	_	_	_	_	_
+28	ainneoin	_	_	_	_	_	_	_	_
+29	do	_	_	_	_	_	_	_	_
+30	dhíchill	_	_	_	_	_	_	_	_
+31	.	_	_	_	_	_	_	_	_
+
+# sent_id = 845
+# text = Luasc siad leaba an fheirmeora go ciúin séimh i dtús báire (bata rithime a bhualadh go séimh / cosa a bhualadh ar an urlár).
+1	Luasc	_	_	_	_	_	_	_	_
+2	siad	_	_	_	_	_	_	_	_
+3	leaba	_	_	_	_	_	_	_	_
+4	an	_	_	_	_	_	_	_	_
+5	fheirmeora	_	_	_	_	_	_	_	_
+6	go	_	_	_	_	_	_	_	_
+7	ciúin	_	_	_	_	_	_	_	_
+8	séimh	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	dtús	_	_	_	_	_	_	_	_
+11	báire	_	_	_	_	_	_	_	_
+12	(	_	_	_	_	_	_	_	_
+13	bata	_	_	_	_	_	_	_	_
+14	rithime	_	_	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	bhualadh	_	_	_	_	_	_	_	_
+17	go	_	_	_	_	_	_	_	_
+18	séimh	_	_	_	_	_	_	_	_
+19	/	_	_	_	_	_	_	_	_
+20	cosa	_	_	_	_	_	_	_	_
+21	a	_	_	_	_	_	_	_	_
+22	bhualadh	_	_	_	_	_	_	_	_
+23	ar	_	_	_	_	_	_	_	_
+24	an	_	_	_	_	_	_	_	_
+25	urlár	_	_	_	_	_	_	_	_
+26	)	_	_	_	_	_	_	_	_
+27	.	_	_	_	_	_	_	_	_
+
+# sent_id = 793
+# text = Bhí an-easpa cailíní agus ban idir dhá bhliain déag agus fiche bliain d'aois.
+1	Bhí	_	_	_	_	_	_	_	_
+2	an-easpa	_	_	_	_	_	_	_	_
+3	cailíní	_	_	_	_	_	_	_	_
+4	agus	_	_	_	_	_	_	_	_
+5	ban	_	_	_	_	_	_	_	_
+6	idir	_	_	_	_	_	_	_	_
+7	dhá	_	_	_	_	_	_	_	_
+8	bhliain	_	_	_	_	_	_	_	_
+9	déag	_	_	_	_	_	_	_	_
+10	agus	_	_	_	_	_	_	_	_
+11	fiche	_	_	_	_	_	_	_	_
+12	bliain	_	_	_	_	_	_	_	_
+13	d'	_	_	_	_	_	_	_	_
+14	aois	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = 870
+# text = Is fearr liom úlla ná oráistí.
+1	Is	_	_	_	_	_	_	_	_
+2	fearr	_	_	_	_	_	_	_	_
+3	liom	_	_	_	_	_	_	_	_
+4	úlla	_	_	_	_	_	_	_	_
+5	ná	_	_	_	_	_	_	_	_
+6	oráistí	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = 827
+# text = D'admhaigh Piaras Ó Dochartaigh go raibh an páirtí rólag le tabhairt faoin suíochán i gceart an iarraidh seo.
+1	D'	_	_	_	_	_	_	_	_
+2	admhaigh	_	_	_	_	_	_	_	_
+3	Piaras	_	_	_	_	_	_	_	_
+4	Ó	_	_	_	_	_	_	_	_
+5	Dochartaigh	_	_	_	_	_	_	_	_
+6	go	_	_	_	_	_	_	_	_
+7	raibh	_	_	_	_	_	_	_	_
+8	an	_	_	_	_	_	_	_	_
+9	páirtí	_	_	_	_	_	_	_	_
+10	rólag	_	_	_	_	_	_	_	_
+11	le	_	_	_	_	_	_	_	_
+12	tabhairt	_	_	_	_	_	_	_	_
+13	faoin	_	_	_	_	_	_	_	_
+14	suíochán	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	gceart	_	_	_	_	_	_	_	_
+17	an	_	_	_	_	_	_	_	_
+18	iarraidh	_	_	_	_	_	_	_	_
+19	seo	_	_	_	_	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = 716
+# text = Go dtí inniu.
+1	Go	_	_	_	_	_	_	_	_
+2	dtí	_	_	_	_	_	_	_	_
+3	inniu	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = 85
+# text = Thug an Tiarna Longueville, Co. Chorcaí, 'that general Jail-Deliverer' air le linn na tréimhse sin.
+1	Thug	_	_	_	_	_	_	_	_
+2	an	_	_	_	_	_	_	_	_
+3	Tiarna	_	_	_	_	_	_	_	_
+4	Longueville	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	Co.	_	_	_	_	_	_	_	_
+7	Chorcaí	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	'	_	_	_	_	_	_	_	_
+10	that	_	_	_	_	_	_	_	_
+11	general	_	_	_	_	_	_	_	_
+12	Jail-Deliverer	_	_	_	_	_	_	_	_
+13	'	_	_	_	_	_	_	_	_
+14	air	_	_	_	_	_	_	_	_
+15	le	_	_	_	_	_	_	_	_
+16	linn	_	_	_	_	_	_	_	_
+17	na	_	_	_	_	_	_	_	_
+18	tréimhse	_	_	_	_	_	_	_	_
+19	sin	_	_	_	_	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = 451
+# text = Millfidh tú agus scriosfaidh tú an aiste le botúin mar sin.
+1	Millfidh	_	_	_	_	_	_	_	_
+2	tú	_	_	_	_	_	_	_	_
+3	agus	_	_	_	_	_	_	_	_
+4	scriosfaidh	_	_	_	_	_	_	_	_
+5	tú	_	_	_	_	_	_	_	_
+6	an	_	_	_	_	_	_	_	_
+7	aiste	_	_	_	_	_	_	_	_
+8	le	_	_	_	_	_	_	_	_
+9	botúin	_	_	_	_	_	_	_	_
+10	mar	_	_	_	_	_	_	_	_
+11	sin	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = 622
+# text = ), Bhuail Éire iad dhá uair i gcluiche coimhlinteach, i mBaile Átha Cliath i 1965 agus i 1989, 1-0 an dá uair.
+1	)	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	Bhuail	_	_	_	_	_	_	_	_
+4	Éire	_	_	_	_	_	_	_	_
+5	iad	_	_	_	_	_	_	_	_
+6	dhá	_	_	_	_	_	_	_	_
+7	uair	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	gcluiche	_	_	_	_	_	_	_	_
+10	coimhlinteach	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	mBaile	_	_	_	_	_	_	_	_
+14	Átha	_	_	_	_	_	_	_	_
+15	Cliath	_	_	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	1965	_	_	_	_	_	_	_	_
+18	agus	_	_	_	_	_	_	_	_
+19	i	_	_	_	_	_	_	_	_
+20	1989	_	_	_	_	_	_	_	_
+21	,	_	_	_	_	_	_	_	_
+22	1-0	_	_	_	_	_	_	_	_
+23	an	_	_	_	_	_	_	_	_
+24	dá	_	_	_	_	_	_	_	_
+25	uair	_	_	_	_	_	_	_	_
+26	.	_	_	_	_	_	_	_	_
+
+# sent_id = 581
+# text = Dúirt siad nach bhfeiceann siad an cineál seo chomh minic sin.
+1	Dúirt	_	_	_	_	_	_	_	_
+2	siad	_	_	_	_	_	_	_	_
+3	nach	_	_	_	_	_	_	_	_
+4	bhfeiceann	_	_	_	_	_	_	_	_
+5	siad	_	_	_	_	_	_	_	_
+6	an	_	_	_	_	_	_	_	_
+7	cineál	_	_	_	_	_	_	_	_
+8	seo	_	_	_	_	_	_	_	_
+9	chomh	_	_	_	_	_	_	_	_
+10	minic	_	_	_	_	_	_	_	_
+11	sin	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = 178
+# text = An mothaíonn tú sábháilte?
+1	An	_	_	_	_	_	_	_	_
+2	mothaíonn	_	_	_	_	_	_	_	_
+3	tú	_	_	_	_	_	_	_	_
+4	sábháilte	_	_	_	_	_	_	_	_
+5	?	_	_	_	_	_	_	_	_
+
+# sent_id = 180
+# text = Gearrtheideal agus comhlua.
+1	Gearrtheideal	_	_	_	_	_	_	_	_
+2	agus	_	_	_	_	_	_	_	_
+3	comhlua	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = 277
+# text = Tar éis dó bogadh go Meiriceá dhein sé an-chuid staidéir agus taighde ar cheol na nGael thall agus bhain sé amach Ph.D.
+1	Tar	_	_	_	_	_	_	_	_
+2	éis	_	_	_	_	_	_	_	_
+3	dó	_	_	_	_	_	_	_	_
+4	bogadh	_	_	_	_	_	_	_	_
+5	go	_	_	_	_	_	_	_	_
+6	Meiriceá	_	_	_	_	_	_	_	_
+7	dhein	_	_	_	_	_	_	_	_
+8	sé	_	_	_	_	_	_	_	_
+9	an-chuid	_	_	_	_	_	_	_	_
+10	staidéir	_	_	_	_	_	_	_	_
+11	agus	_	_	_	_	_	_	_	_
+12	taighde	_	_	_	_	_	_	_	_
+13	ar	_	_	_	_	_	_	_	_
+14	cheol	_	_	_	_	_	_	_	_
+15	na	_	_	_	_	_	_	_	_
+16	nGael	_	_	_	_	_	_	_	_
+17	thall	_	_	_	_	_	_	_	_
+18	agus	_	_	_	_	_	_	_	_
+19	bhain	_	_	_	_	_	_	_	_
+20	sé	_	_	_	_	_	_	_	_
+21	amach	_	_	_	_	_	_	_	_
+22	Ph.D	_	_	_	_	_	_	_	_
+23	.	_	_	_	_	_	_	_	_
+
+# sent_id = 549
+# text = Bhfuil cop-on ar bith a' t?
+1	Bhfuil	_	_	_	_	_	_	_	_
+2	cop-on	_	_	_	_	_	_	_	_
+3	ar	_	_	_	_	_	_	_	_
+4	bith	_	_	_	_	_	_	_	_
+5	a'	_	_	_	_	_	_	_	_
+6	t	_	_	_	_	_	_	_	_
+7	?	_	_	_	_	_	_	_	_
+
+# sent_id = 367
+# text = An tUachtarán a rinne sin, agus tá sé ráite gur tháinig leathadh súl air nuair a chonaic sé nach Gaeilge a bhí sa scríbhinn uirthi, ná fiú Gaeilge agus Béarla, ach Béarla amháin (cé is moite den leasainm nó ainm cleite 'An Craoibhín Aoibhinn'):
+1	An	_	_	_	_	_	_	_	_
+2	tUachtarán	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	rinne	_	_	_	_	_	_	_	_
+5	sin	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	agus	_	_	_	_	_	_	_	_
+8	tá	_	_	_	_	_	_	_	_
+9	sé	_	_	_	_	_	_	_	_
+10	ráite	_	_	_	_	_	_	_	_
+11	gur	_	_	_	_	_	_	_	_
+12	tháinig	_	_	_	_	_	_	_	_
+13	leathadh	_	_	_	_	_	_	_	_
+14	súl	_	_	_	_	_	_	_	_
+15	air	_	_	_	_	_	_	_	_
+16	nuair	_	_	_	_	_	_	_	_
+17	a	_	_	_	_	_	_	_	_
+18	chonaic	_	_	_	_	_	_	_	_
+19	sé	_	_	_	_	_	_	_	_
+20	nach	_	_	_	_	_	_	_	_
+21	Gaeilge	_	_	_	_	_	_	_	_
+22	a	_	_	_	_	_	_	_	_
+23	bhí	_	_	_	_	_	_	_	_
+24	sa	_	_	_	_	_	_	_	_
+25	scríbhinn	_	_	_	_	_	_	_	_
+26	uirthi	_	_	_	_	_	_	_	_
+27	,	_	_	_	_	_	_	_	_
+28	ná	_	_	_	_	_	_	_	_
+29	fiú	_	_	_	_	_	_	_	_
+30	Gaeilge	_	_	_	_	_	_	_	_
+31	agus	_	_	_	_	_	_	_	_
+32	Béarla	_	_	_	_	_	_	_	_
+33	,	_	_	_	_	_	_	_	_
+34	ach	_	_	_	_	_	_	_	_
+35	Béarla	_	_	_	_	_	_	_	_
+36	amháin	_	_	_	_	_	_	_	_
+37	(	_	_	_	_	_	_	_	_
+38	cé	_	_	_	_	_	_	_	_
+39	is	_	_	_	_	_	_	_	_
+40	moite	_	_	_	_	_	_	_	_
+41	den	_	_	_	_	_	_	_	_
+42	leasainm	_	_	_	_	_	_	_	_
+43	nó	_	_	_	_	_	_	_	_
+44	ainm	_	_	_	_	_	_	_	_
+45	cleite	_	_	_	_	_	_	_	_
+46	'	_	_	_	_	_	_	_	_
+47	An	_	_	_	_	_	_	_	_
+48	Craoibhín	_	_	_	_	_	_	_	_
+49	Aoibhinn	_	_	_	_	_	_	_	_
+50	'	_	_	_	_	_	_	_	_
+51	)	_	_	_	_	_	_	_	_
+52	:	_	_	_	_	_	_	_	_
+
+# sent_id = 569
+# text = An Domhnach seo ar Pháirc an Chrócaigh caithfidh siad féin agus Francis Bellew seasamh guaille ar ghuaille leis an líne lántosach is mó clú a tháinig as Ciarraí ó bhí aimsir Sheehy, Liston agus Egan ann.
+1	An	_	_	_	_	_	_	_	_
+2	Domhnach	_	_	_	_	_	_	_	_
+3	seo	_	_	_	_	_	_	_	_
+4	ar	_	_	_	_	_	_	_	_
+5	Pháirc	_	_	_	_	_	_	_	_
+6	an	_	_	_	_	_	_	_	_
+7	Chrócaigh	_	_	_	_	_	_	_	_
+8	caithfidh	_	_	_	_	_	_	_	_
+9	siad	_	_	_	_	_	_	_	_
+10	féin	_	_	_	_	_	_	_	_
+11	agus	_	_	_	_	_	_	_	_
+12	Francis	_	_	_	_	_	_	_	_
+13	Bellew	_	_	_	_	_	_	_	_
+14	seasamh	_	_	_	_	_	_	_	_
+15	guaille	_	_	_	_	_	_	_	_
+16	ar	_	_	_	_	_	_	_	_
+17	ghuaille	_	_	_	_	_	_	_	_
+18	leis	_	_	_	_	_	_	_	_
+19	an	_	_	_	_	_	_	_	_
+20	líne	_	_	_	_	_	_	_	_
+21	lántosach	_	_	_	_	_	_	_	_
+22	is	_	_	_	_	_	_	_	_
+23	mó	_	_	_	_	_	_	_	_
+24	clú	_	_	_	_	_	_	_	_
+25	a	_	_	_	_	_	_	_	_
+26	tháinig	_	_	_	_	_	_	_	_
+27	as	_	_	_	_	_	_	_	_
+28	Ciarraí	_	_	_	_	_	_	_	_
+29	ó	_	_	_	_	_	_	_	_
+30	bhí	_	_	_	_	_	_	_	_
+31	aimsir	_	_	_	_	_	_	_	_
+32	Sheehy	_	_	_	_	_	_	_	_
+33	,	_	_	_	_	_	_	_	_
+34	Liston	_	_	_	_	_	_	_	_
+35	agus	_	_	_	_	_	_	_	_
+36	Egan	_	_	_	_	_	_	_	_
+37	ann	_	_	_	_	_	_	_	_
+38	.	_	_	_	_	_	_	_	_
+
+# sent_id = 425
+# text = As a phóca flaithiúil féin a tháinig an t-airgead a choinnigh ag imeacht iad.
+1	As	_	_	_	_	_	_	_	_
+2	a	_	_	_	_	_	_	_	_
+3	phóca	_	_	_	_	_	_	_	_
+4	flaithiúil	_	_	_	_	_	_	_	_
+5	féin	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	tháinig	_	_	_	_	_	_	_	_
+8	an	_	_	_	_	_	_	_	_
+9	t-airgead	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	choinnigh	_	_	_	_	_	_	_	_
+12	ag	_	_	_	_	_	_	_	_
+13	imeacht	_	_	_	_	_	_	_	_
+14	iad	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = 562
+# text = Má itear an mhil seo sula dtosaíonn astú pailine, tá seans go spreagfaidh sé córas imdhíonach an choirp le go mbeidh sé ábalta éifeachtaí na pailine a cheansú.
+1	Má	_	_	_	_	_	_	_	_
+2	itear	_	_	_	_	_	_	_	_
+3	an	_	_	_	_	_	_	_	_
+4	mhil	_	_	_	_	_	_	_	_
+5	seo	_	_	_	_	_	_	_	_
+6	sula	_	_	_	_	_	_	_	_
+7	dtosaíonn	_	_	_	_	_	_	_	_
+8	astú	_	_	_	_	_	_	_	_
+9	pailine	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	tá	_	_	_	_	_	_	_	_
+12	seans	_	_	_	_	_	_	_	_
+13	go	_	_	_	_	_	_	_	_
+14	spreagfaidh	_	_	_	_	_	_	_	_
+15	sé	_	_	_	_	_	_	_	_
+16	córas	_	_	_	_	_	_	_	_
+17	imdhíonach	_	_	_	_	_	_	_	_
+18	an	_	_	_	_	_	_	_	_
+19	choirp	_	_	_	_	_	_	_	_
+20	le	_	_	_	_	_	_	_	_
+21	go	_	_	_	_	_	_	_	_
+22	mbeidh	_	_	_	_	_	_	_	_
+23	sé	_	_	_	_	_	_	_	_
+24	ábalta	_	_	_	_	_	_	_	_
+25	éifeachtaí	_	_	_	_	_	_	_	_
+26	na	_	_	_	_	_	_	_	_
+27	pailine	_	_	_	_	_	_	_	_
+28	a	_	_	_	_	_	_	_	_
+29	cheansú	_	_	_	_	_	_	_	_
+30	.	_	_	_	_	_	_	_	_
+
+# sent_id = 578
+# text = Bhí a ngruanna faoi lasadh.
+1	Bhí	_	_	_	_	_	_	_	_
+2	a	_	_	_	_	_	_	_	_
+3	ngruanna	_	_	_	_	_	_	_	_
+4	faoi	_	_	_	_	_	_	_	_
+5	lasadh	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = 924
+# text = (2) Féadfidh cigire gach clár atá á chimeád do réir an ailt seo do scrúdú aon uair le linn tráthanna oifige chun aon chríche eireos as an Acht so no as aon rialachán a déanfar fé no a eireos de bharr ceachtar acu agus, ar a iarraidh sin don chigire, beidh sé de dhualgas ar únaer chláruithe an áitreibh ina bhfuil an clár san á chimeád an clár san do thaisbeáint, chun go scrúdóidh an cigire sin é, agus fós gach billín, nóta consighneachta, admháil, agus scríbhinn eile (ar a n-áirítear cóipeanna dhíobh i gcás gan iad féin a bheith ar fáil) a iarrfidh an cigire sin go réasúnta chun féachaint an fíor aon iontráil áirithe sa chlár san no cad fé ndeár éinní áirithe d'fhágaint amach as.
+1	(2)	_	_	_	_	_	_	_	_
+2	Féadfidh	_	_	_	_	_	_	_	_
+3	cigire	_	_	_	_	_	_	_	_
+4	gach	_	_	_	_	_	_	_	_
+5	clár	_	_	_	_	_	_	_	_
+6	atá	_	_	_	_	_	_	_	_
+7	á	_	_	_	_	_	_	_	_
+8	chimeád	_	_	_	_	_	_	_	_
+9	do	_	_	_	_	_	_	_	_
+10	réir	_	_	_	_	_	_	_	_
+11	an	_	_	_	_	_	_	_	_
+12	ailt	_	_	_	_	_	_	_	_
+13	seo	_	_	_	_	_	_	_	_
+14	do	_	_	_	_	_	_	_	_
+15	scrúdú	_	_	_	_	_	_	_	_
+16	aon	_	_	_	_	_	_	_	_
+17	uair	_	_	_	_	_	_	_	_
+18	le	_	_	_	_	_	_	_	_
+19	linn	_	_	_	_	_	_	_	_
+20	tráthanna	_	_	_	_	_	_	_	_
+21	oifige	_	_	_	_	_	_	_	_
+22	chun	_	_	_	_	_	_	_	_
+23	aon	_	_	_	_	_	_	_	_
+24	chríche	_	_	_	_	_	_	_	_
+25	eireos	_	_	_	_	_	_	_	_
+26	as	_	_	_	_	_	_	_	_
+27	an	_	_	_	_	_	_	_	_
+28	Acht	_	_	_	_	_	_	_	_
+29	so	_	_	_	_	_	_	_	_
+30	no	_	_	_	_	_	_	_	_
+31	as	_	_	_	_	_	_	_	_
+32	aon	_	_	_	_	_	_	_	_
+33	rialachán	_	_	_	_	_	_	_	_
+34	a	_	_	_	_	_	_	_	_
+35	déanfar	_	_	_	_	_	_	_	_
+36	fé	_	_	_	_	_	_	_	_
+37	no	_	_	_	_	_	_	_	_
+38	a	_	_	_	_	_	_	_	_
+39	eireos	_	_	_	_	_	_	_	_
+40	de	_	_	_	_	_	_	_	_
+41	bharr	_	_	_	_	_	_	_	_
+42	ceachtar	_	_	_	_	_	_	_	_
+43	acu	_	_	_	_	_	_	_	_
+44	agus	_	_	_	_	_	_	_	_
+45	,	_	_	_	_	_	_	_	_
+46	ar	_	_	_	_	_	_	_	_
+47	a	_	_	_	_	_	_	_	_
+48	iarraidh	_	_	_	_	_	_	_	_
+49	sin	_	_	_	_	_	_	_	_
+50	don	_	_	_	_	_	_	_	_
+51	chigire	_	_	_	_	_	_	_	_
+52	,	_	_	_	_	_	_	_	_
+53	beidh	_	_	_	_	_	_	_	_
+54	sé	_	_	_	_	_	_	_	_
+55	de	_	_	_	_	_	_	_	_
+56	dhualgas	_	_	_	_	_	_	_	_
+57	ar	_	_	_	_	_	_	_	_
+58	únaer	_	_	_	_	_	_	_	_
+59	chláruithe	_	_	_	_	_	_	_	_
+60	an	_	_	_	_	_	_	_	_
+61	áitreibh	_	_	_	_	_	_	_	_
+62	ina	_	_	_	_	_	_	_	_
+63	bhfuil	_	_	_	_	_	_	_	_
+64	an	_	_	_	_	_	_	_	_
+65	clár	_	_	_	_	_	_	_	_
+66	san	_	_	_	_	_	_	_	_
+67	á	_	_	_	_	_	_	_	_
+68	chimeád	_	_	_	_	_	_	_	_
+69	an	_	_	_	_	_	_	_	_
+70	clár	_	_	_	_	_	_	_	_
+71	san	_	_	_	_	_	_	_	_
+72	do	_	_	_	_	_	_	_	_
+73	thaisbeáint	_	_	_	_	_	_	_	_
+74	,	_	_	_	_	_	_	_	_
+75	chun	_	_	_	_	_	_	_	_
+76	go	_	_	_	_	_	_	_	_
+77	scrúdóidh	_	_	_	_	_	_	_	_
+78	an	_	_	_	_	_	_	_	_
+79	cigire	_	_	_	_	_	_	_	_
+80	sin	_	_	_	_	_	_	_	_
+81	é	_	_	_	_	_	_	_	_
+82	,	_	_	_	_	_	_	_	_
+83	agus	_	_	_	_	_	_	_	_
+84	fós	_	_	_	_	_	_	_	_
+85	gach	_	_	_	_	_	_	_	_
+86	billín	_	_	_	_	_	_	_	_
+87	,	_	_	_	_	_	_	_	_
+88	nóta	_	_	_	_	_	_	_	_
+89	consighneachta	_	_	_	_	_	_	_	_
+90	,	_	_	_	_	_	_	_	_
+91	admháil	_	_	_	_	_	_	_	_
+92	,	_	_	_	_	_	_	_	_
+93	agus	_	_	_	_	_	_	_	_
+94	scríbhinn	_	_	_	_	_	_	_	_
+95	eile	_	_	_	_	_	_	_	_
+96	(	_	_	_	_	_	_	_	_
+97	ar	_	_	_	_	_	_	_	_
+98	a	_	_	_	_	_	_	_	_
+99	n-áirítear	_	_	_	_	_	_	_	_
+100	cóipeanna	_	_	_	_	_	_	_	_
+101	dhíobh	_	_	_	_	_	_	_	_
+102	i	_	_	_	_	_	_	_	_
+103	gcás	_	_	_	_	_	_	_	_
+104	gan	_	_	_	_	_	_	_	_
+105	iad	_	_	_	_	_	_	_	_
+106	féin	_	_	_	_	_	_	_	_
+107	a	_	_	_	_	_	_	_	_
+108	bheith	_	_	_	_	_	_	_	_
+109	ar	_	_	_	_	_	_	_	_
+110	fáil	_	_	_	_	_	_	_	_
+111	)	_	_	_	_	_	_	_	_
+112	a	_	_	_	_	_	_	_	_
+113	iarrfidh	_	_	_	_	_	_	_	_
+114	an	_	_	_	_	_	_	_	_
+115	cigire	_	_	_	_	_	_	_	_
+116	sin	_	_	_	_	_	_	_	_
+117	go	_	_	_	_	_	_	_	_
+118	réasúnta	_	_	_	_	_	_	_	_
+119	chun	_	_	_	_	_	_	_	_
+120	féachaint	_	_	_	_	_	_	_	_
+121	an	_	_	_	_	_	_	_	_
+122	fíor	_	_	_	_	_	_	_	_
+123	aon	_	_	_	_	_	_	_	_
+124	iontráil	_	_	_	_	_	_	_	_
+125	áirithe	_	_	_	_	_	_	_	_
+126	sa	_	_	_	_	_	_	_	_
+127	chlár	_	_	_	_	_	_	_	_
+128	san	_	_	_	_	_	_	_	_
+129	no	_	_	_	_	_	_	_	_
+130	cad	_	_	_	_	_	_	_	_
+131	fé	_	_	_	_	_	_	_	_
+132	ndeár	_	_	_	_	_	_	_	_
+133	éinní	_	_	_	_	_	_	_	_
+134	áirithe	_	_	_	_	_	_	_	_
+135	d'	_	_	_	_	_	_	_	_
+136	fhágaint	_	_	_	_	_	_	_	_
+137	amach	_	_	_	_	_	_	_	_
+138	as	_	_	_	_	_	_	_	_
+139	.	_	_	_	_	_	_	_	_
+
+# sent_id = 519
+# text = '' Ach ní hé sin amháin: tráchtáil gan bac le tíortha iasachta ceann de na buntáistí is luachmhaire a bhíonn ag pobal neamhspléach, agus is fada uainne an buntáiste sin.
+1	''	_	_	_	_	_	_	_	_
+2	Ach	_	_	_	_	_	_	_	_
+3	ní	_	_	_	_	_	_	_	_
+4	hé	_	_	_	_	_	_	_	_
+5	sin	_	_	_	_	_	_	_	_
+6	amháin	_	_	_	_	_	_	_	_
+7	:	_	_	_	_	_	_	_	_
+8	tráchtáil	_	_	_	_	_	_	_	_
+9	gan	_	_	_	_	_	_	_	_
+10	bac	_	_	_	_	_	_	_	_
+11	le	_	_	_	_	_	_	_	_
+12	tíortha	_	_	_	_	_	_	_	_
+13	iasachta	_	_	_	_	_	_	_	_
+14	ceann	_	_	_	_	_	_	_	_
+15	de	_	_	_	_	_	_	_	_
+16	na	_	_	_	_	_	_	_	_
+17	buntáistí	_	_	_	_	_	_	_	_
+18	is	_	_	_	_	_	_	_	_
+19	luachmhaire	_	_	_	_	_	_	_	_
+20	a	_	_	_	_	_	_	_	_
+21	bhíonn	_	_	_	_	_	_	_	_
+22	ag	_	_	_	_	_	_	_	_
+23	pobal	_	_	_	_	_	_	_	_
+24	neamhspléach	_	_	_	_	_	_	_	_
+25	,	_	_	_	_	_	_	_	_
+26	agus	_	_	_	_	_	_	_	_
+27	is	_	_	_	_	_	_	_	_
+28	fada	_	_	_	_	_	_	_	_
+29	uainne	_	_	_	_	_	_	_	_
+30	an	_	_	_	_	_	_	_	_
+31	buntáiste	_	_	_	_	_	_	_	_
+32	sin	_	_	_	_	_	_	_	_
+33	.	_	_	_	_	_	_	_	_
+
+# sent_id = 782
+# text = Anois, áfach, iontaím thart an seanchreideamh sin a raibh tacaíocht an tí iomláin leis, agus déanaim amach....
+1	Anois	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	áfach	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	iontaím	_	_	_	_	_	_	_	_
+6	thart	_	_	_	_	_	_	_	_
+7	an	_	_	_	_	_	_	_	_
+8	seanchreideamh	_	_	_	_	_	_	_	_
+9	sin	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	raibh	_	_	_	_	_	_	_	_
+12	tacaíocht	_	_	_	_	_	_	_	_
+13	an	_	_	_	_	_	_	_	_
+14	tí	_	_	_	_	_	_	_	_
+15	iomláin	_	_	_	_	_	_	_	_
+16	leis	_	_	_	_	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	agus	_	_	_	_	_	_	_	_
+19	déanaim	_	_	_	_	_	_	_	_
+20	amach	_	_	_	_	_	_	_	_
+21	...	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# sent_id = 527
+# text = Níorbh é.
+1	Níorbh	_	_	_	_	_	_	_	_
+2	é	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+# sent_id = 680
+# text = 'Ní cóir go mbeadh constaicí ar bith ann.
+1	'	_	_	_	_	_	_	_	_
+2	Ní	_	_	_	_	_	_	_	_
+3	cóir	_	_	_	_	_	_	_	_
+4	go	_	_	_	_	_	_	_	_
+5	mbeadh	_	_	_	_	_	_	_	_
+6	constaicí	_	_	_	_	_	_	_	_
+7	ar	_	_	_	_	_	_	_	_
+8	bith	_	_	_	_	_	_	_	_
+9	ann	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = 531
+# text = Ach sin an toradh is measa a fhéadfadh tarlú don pháirtí agus déarfaidís leat nár cóir an iomad airde a thabhairt do na pobalbhreitheanna nach raibh riamh fabhrach do na páirtithe beaga.
+1	Ach	_	_	_	_	_	_	_	_
+2	sin	_	_	_	_	_	_	_	_
+3	an	_	_	_	_	_	_	_	_
+4	toradh	_	_	_	_	_	_	_	_
+5	is	_	_	_	_	_	_	_	_
+6	measa	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	fhéadfadh	_	_	_	_	_	_	_	_
+9	tarlú	_	_	_	_	_	_	_	_
+10	don	_	_	_	_	_	_	_	_
+11	pháirtí	_	_	_	_	_	_	_	_
+12	agus	_	_	_	_	_	_	_	_
+13	déarfaidís	_	_	_	_	_	_	_	_
+14	leat	_	_	_	_	_	_	_	_
+15	nár	_	_	_	_	_	_	_	_
+16	cóir	_	_	_	_	_	_	_	_
+17	an	_	_	_	_	_	_	_	_
+18	iomad	_	_	_	_	_	_	_	_
+19	airde	_	_	_	_	_	_	_	_
+20	a	_	_	_	_	_	_	_	_
+21	thabhairt	_	_	_	_	_	_	_	_
+22	do	_	_	_	_	_	_	_	_
+23	na	_	_	_	_	_	_	_	_
+24	pobalbhreitheanna	_	_	_	_	_	_	_	_
+25	nach	_	_	_	_	_	_	_	_
+26	raibh	_	_	_	_	_	_	_	_
+27	riamh	_	_	_	_	_	_	_	_
+28	fabhrach	_	_	_	_	_	_	_	_
+29	do	_	_	_	_	_	_	_	_
+30	na	_	_	_	_	_	_	_	_
+31	páirtithe	_	_	_	_	_	_	_	_
+32	beaga	_	_	_	_	_	_	_	_
+33	.	_	_	_	_	_	_	_	_
+
+# sent_id = 106
+# text = Cheapfá ar dtús nach n-aireofá ar do chloigeann í, ach bheadh a fhios agat dá laghad suarach gortach í go raibh sí ann in áit eicínt, agus gur ceist eile fós í d'ualach géagach na croise a chaithfí a iompar.
+1	Cheapfá	_	_	_	_	_	_	_	_
+2	ar	_	_	_	_	_	_	_	_
+3	dtús	_	_	_	_	_	_	_	_
+4	nach	_	_	_	_	_	_	_	_
+5	n-aireofá	_	_	_	_	_	_	_	_
+6	ar	_	_	_	_	_	_	_	_
+7	do	_	_	_	_	_	_	_	_
+8	chloigeann	_	_	_	_	_	_	_	_
+9	í	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	ach	_	_	_	_	_	_	_	_
+12	bheadh	_	_	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	fhios	_	_	_	_	_	_	_	_
+15	agat	_	_	_	_	_	_	_	_
+16	dá	_	_	_	_	_	_	_	_
+17	laghad	_	_	_	_	_	_	_	_
+18	suarach	_	_	_	_	_	_	_	_
+19	gortach	_	_	_	_	_	_	_	_
+20	í	_	_	_	_	_	_	_	_
+21	go	_	_	_	_	_	_	_	_
+22	raibh	_	_	_	_	_	_	_	_
+23	sí	_	_	_	_	_	_	_	_
+24	ann	_	_	_	_	_	_	_	_
+25	in	_	_	_	_	_	_	_	_
+26	áit	_	_	_	_	_	_	_	_
+27	eicínt	_	_	_	_	_	_	_	_
+28	,	_	_	_	_	_	_	_	_
+29	agus	_	_	_	_	_	_	_	_
+30	gur	_	_	_	_	_	_	_	_
+31	ceist	_	_	_	_	_	_	_	_
+32	eile	_	_	_	_	_	_	_	_
+33	fós	_	_	_	_	_	_	_	_
+34	í	_	_	_	_	_	_	_	_
+35	d'	_	_	_	_	_	_	_	_
+36	ualach	_	_	_	_	_	_	_	_
+37	géagach	_	_	_	_	_	_	_	_
+38	na	_	_	_	_	_	_	_	_
+39	croise	_	_	_	_	_	_	_	_
+40	a	_	_	_	_	_	_	_	_
+41	chaithfí	_	_	_	_	_	_	_	_
+42	a	_	_	_	_	_	_	_	_
+43	iompar	_	_	_	_	_	_	_	_
+44	.	_	_	_	_	_	_	_	_
+
+# sent_id = 901
+# text = Bhí an lá an-te agus bhí gach duine spalptha leis an tart.
+1	Bhí	_	_	_	_	_	_	_	_
+2	an	_	_	_	_	_	_	_	_
+3	lá	_	_	_	_	_	_	_	_
+4	an-te	_	_	_	_	_	_	_	_
+5	agus	_	_	_	_	_	_	_	_
+6	bhí	_	_	_	_	_	_	_	_
+7	gach	_	_	_	_	_	_	_	_
+8	duine	_	_	_	_	_	_	_	_
+9	spalptha	_	_	_	_	_	_	_	_
+10	leis	_	_	_	_	_	_	_	_
+11	an	_	_	_	_	_	_	_	_
+12	tart	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = 491
+# text = Nuacht 4.08 Nuacht a hAon 2.00 Nuair a bheidh an Coiste sin tofa, iad do chroma láithreach ar an Teaghlach Meán-suidhte d'ullamhú chun iostuithe, etc.
+1	Nuacht	_	_	_	_	_	_	_	_
+2	4.08	_	_	_	_	_	_	_	_
+3	Nuacht	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	hAon	_	_	_	_	_	_	_	_
+6	2.00	_	_	_	_	_	_	_	_
+7	Nuair	_	_	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	bheidh	_	_	_	_	_	_	_	_
+10	an	_	_	_	_	_	_	_	_
+11	Coiste	_	_	_	_	_	_	_	_
+12	sin	_	_	_	_	_	_	_	_
+13	tofa	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	iad	_	_	_	_	_	_	_	_
+16	do	_	_	_	_	_	_	_	_
+17	chroma	_	_	_	_	_	_	_	_
+18	láithreach	_	_	_	_	_	_	_	_
+19	ar	_	_	_	_	_	_	_	_
+20	an	_	_	_	_	_	_	_	_
+21	Teaghlach	_	_	_	_	_	_	_	_
+22	Meán-suidhte	_	_	_	_	_	_	_	_
+23	d'	_	_	_	_	_	_	_	_
+24	ullamhú	_	_	_	_	_	_	_	_
+25	chun	_	_	_	_	_	_	_	_
+26	iostuithe	_	_	_	_	_	_	_	_
+27	,	_	_	_	_	_	_	_	_
+28	etc	_	_	_	_	_	_	_	_
+29	.	_	_	_	_	_	_	_	_
+
+# sent_id = 310
+# text = 'Ní bheidh goile aige chuige!
+1	'	_	_	_	_	_	_	_	_
+2	Ní	_	_	_	_	_	_	_	_
+3	bheidh	_	_	_	_	_	_	_	_
+4	goile	_	_	_	_	_	_	_	_
+5	aige	_	_	_	_	_	_	_	_
+6	chuige	_	_	_	_	_	_	_	_
+7	!	_	_	_	_	_	_	_	_
+
+# sent_id = 78
+# text = Och, a chumannaigh!
+1	Och	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	chumannaigh	_	_	_	_	_	_	_	_
+5	!	_	_	_	_	_	_	_	_
+
+# sent_id = 435
+# text = Suirbhéireacht Ordanáis Éireann, Rehab Group, Irish Shell, Sportsfile, Tesco Ireland agus The Yard.
+1	Suirbhéireacht	_	_	_	_	_	_	_	_
+2	Ordanáis	_	_	_	_	_	_	_	_
+3	Éireann	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	Rehab	_	_	_	_	_	_	_	_
+6	Group	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	Irish	_	_	_	_	_	_	_	_
+9	Shell	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	Sportsfile	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	Tesco	_	_	_	_	_	_	_	_
+14	Ireland	_	_	_	_	_	_	_	_
+15	agus	_	_	_	_	_	_	_	_
+16	The	_	_	_	_	_	_	_	_
+17	Yard	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = 780
+# text = Tá cur síos sa leabhar ar thuras scoile a thug siad ar an trá in aice leis an gCaisleán Nua.
+1	Tá	_	_	_	_	_	_	_	_
+2	cur	_	_	_	_	_	_	_	_
+3	síos	_	_	_	_	_	_	_	_
+4	sa	_	_	_	_	_	_	_	_
+5	leabhar	_	_	_	_	_	_	_	_
+6	ar	_	_	_	_	_	_	_	_
+7	thuras	_	_	_	_	_	_	_	_
+8	scoile	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	thug	_	_	_	_	_	_	_	_
+11	siad	_	_	_	_	_	_	_	_
+12	ar	_	_	_	_	_	_	_	_
+13	an	_	_	_	_	_	_	_	_
+14	trá	_	_	_	_	_	_	_	_
+15	in	_	_	_	_	_	_	_	_
+16	aice	_	_	_	_	_	_	_	_
+17	leis	_	_	_	_	_	_	_	_
+18	an	_	_	_	_	_	_	_	_
+19	gCaisleán	_	_	_	_	_	_	_	_
+20	Nua	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = 940
+# text = Tá chuile rud dá bhfuil le rá ráite a'm.
+1	Tá	_	_	_	_	_	_	_	_
+2	chuile	_	_	_	_	_	_	_	_
+3	rud	_	_	_	_	_	_	_	_
+4	dá	_	_	_	_	_	_	_	_
+5	bhfuil	_	_	_	_	_	_	_	_
+6	le	_	_	_	_	_	_	_	_
+7	rá	_	_	_	_	_	_	_	_
+8	ráite	_	_	_	_	_	_	_	_
+9	a'm	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = 232
+# text = (3) Is saoránach Éireannach óna bhreith no óna breith duine a bheirtear in oileán na hÉireann mura bhfuil sé nó sí i dteideal saoránacht aon tíre eile a bheith aige nó aici.
+1	(3)	_	_	_	_	_	_	_	_
+2	Is	_	_	_	_	_	_	_	_
+3	saoránach	_	_	_	_	_	_	_	_
+4	Éireannach	_	_	_	_	_	_	_	_
+5	óna	_	_	_	_	_	_	_	_
+6	bhreith	_	_	_	_	_	_	_	_
+7	no	_	_	_	_	_	_	_	_
+8	óna	_	_	_	_	_	_	_	_
+9	breith	_	_	_	_	_	_	_	_
+10	duine	_	_	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	bheirtear	_	_	_	_	_	_	_	_
+13	in	_	_	_	_	_	_	_	_
+14	oileán	_	_	_	_	_	_	_	_
+15	na	_	_	_	_	_	_	_	_
+16	hÉireann	_	_	_	_	_	_	_	_
+17	mura	_	_	_	_	_	_	_	_
+18	bhfuil	_	_	_	_	_	_	_	_
+19	sé	_	_	_	_	_	_	_	_
+20	nó	_	_	_	_	_	_	_	_
+21	sí	_	_	_	_	_	_	_	_
+22	i	_	_	_	_	_	_	_	_
+23	dteideal	_	_	_	_	_	_	_	_
+24	saoránacht	_	_	_	_	_	_	_	_
+25	aon	_	_	_	_	_	_	_	_
+26	tíre	_	_	_	_	_	_	_	_
+27	eile	_	_	_	_	_	_	_	_
+28	a	_	_	_	_	_	_	_	_
+29	bheith	_	_	_	_	_	_	_	_
+30	aige	_	_	_	_	_	_	_	_
+31	nó	_	_	_	_	_	_	_	_
+32	aici	_	_	_	_	_	_	_	_
+33	.	_	_	_	_	_	_	_	_
+
+# sent_id = 553
+# text = D'fhoilsigh Ó Cléirigh aistriúchán Breatnaise ar chuid dá shaothar.
+1	D'	_	_	_	_	_	_	_	_
+2	fhoilsigh	_	_	_	_	_	_	_	_
+3	Ó	_	_	_	_	_	_	_	_
+4	Cléirigh	_	_	_	_	_	_	_	_
+5	aistriúchán	_	_	_	_	_	_	_	_
+6	Breatnaise	_	_	_	_	_	_	_	_
+7	ar	_	_	_	_	_	_	_	_
+8	chuid	_	_	_	_	_	_	_	_
+9	dá	_	_	_	_	_	_	_	_
+10	shaothar	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = 187
+# text = taithí a fháil ar atmaisféar ranga a léiríonn meas ar an bhfocal scríofa agus a thugann luach do dhea-iarrachtaí scríbhneoireachta obair ar taispeáint.
+1	taithí	_	_	_	_	_	_	_	_
+2	a	_	_	_	_	_	_	_	_
+3	fháil	_	_	_	_	_	_	_	_
+4	ar	_	_	_	_	_	_	_	_
+5	atmaisféar	_	_	_	_	_	_	_	_
+6	ranga	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	léiríonn	_	_	_	_	_	_	_	_
+9	meas	_	_	_	_	_	_	_	_
+10	ar	_	_	_	_	_	_	_	_
+11	an	_	_	_	_	_	_	_	_
+12	bhfocal	_	_	_	_	_	_	_	_
+13	scríofa	_	_	_	_	_	_	_	_
+14	agus	_	_	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	thugann	_	_	_	_	_	_	_	_
+17	luach	_	_	_	_	_	_	_	_
+18	do	_	_	_	_	_	_	_	_
+19	dhea-iarrachtaí	_	_	_	_	_	_	_	_
+20	scríbhneoireachta	_	_	_	_	_	_	_	_
+21	obair	_	_	_	_	_	_	_	_
+22	ar	_	_	_	_	_	_	_	_
+23	taispeáint	_	_	_	_	_	_	_	_
+24	.	_	_	_	_	_	_	_	_
+
+# sent_id = 978
+# text = Ar nós smaoineamh ar bith eile nach bhfuil ag teacht le dearcadh ceannasach an tsochaí, bhí troid fada casta ag Linux.
+1	Ar	_	_	_	_	_	_	_	_
+2	nós	_	_	_	_	_	_	_	_
+3	smaoineamh	_	_	_	_	_	_	_	_
+4	ar	_	_	_	_	_	_	_	_
+5	bith	_	_	_	_	_	_	_	_
+6	eile	_	_	_	_	_	_	_	_
+7	nach	_	_	_	_	_	_	_	_
+8	bhfuil	_	_	_	_	_	_	_	_
+9	ag	_	_	_	_	_	_	_	_
+10	teacht	_	_	_	_	_	_	_	_
+11	le	_	_	_	_	_	_	_	_
+12	dearcadh	_	_	_	_	_	_	_	_
+13	ceannasach	_	_	_	_	_	_	_	_
+14	an	_	_	_	_	_	_	_	_
+15	tsochaí	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	bhí	_	_	_	_	_	_	_	_
+18	troid	_	_	_	_	_	_	_	_
+19	fada	_	_	_	_	_	_	_	_
+20	casta	_	_	_	_	_	_	_	_
+21	ag	_	_	_	_	_	_	_	_
+22	Linux	_	_	_	_	_	_	_	_
+23	.	_	_	_	_	_	_	_	_
+
+# sent_id = 318
+# text = Ba mhaith liom cáca a dhéanamh.
+1	Ba	_	_	_	_	_	_	_	_
+2	mhaith	_	_	_	_	_	_	_	_
+3	liom	_	_	_	_	_	_	_	_
+4	cáca	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	dhéanamh	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = 239
+# text = Is iad a bheidh ina gcomhaltaí de na coistí sin ná comhaltaí tofa an údaráis don limistéar a bheidh i gceist.
+1	Is	_	_	_	_	_	_	_	_
+2	iad	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	bheidh	_	_	_	_	_	_	_	_
+5	ina	_	_	_	_	_	_	_	_
+6	gcomhaltaí	_	_	_	_	_	_	_	_
+7	de	_	_	_	_	_	_	_	_
+8	na	_	_	_	_	_	_	_	_
+9	coistí	_	_	_	_	_	_	_	_
+10	sin	_	_	_	_	_	_	_	_
+11	ná	_	_	_	_	_	_	_	_
+12	comhaltaí	_	_	_	_	_	_	_	_
+13	tofa	_	_	_	_	_	_	_	_
+14	an	_	_	_	_	_	_	_	_
+15	údaráis	_	_	_	_	_	_	_	_
+16	don	_	_	_	_	_	_	_	_
+17	limistéar	_	_	_	_	_	_	_	_
+18	a	_	_	_	_	_	_	_	_
+19	bheidh	_	_	_	_	_	_	_	_
+20	i	_	_	_	_	_	_	_	_
+21	gceist	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# sent_id = 849
+# text = Lena linn sin tá líon na ndaoine dífhostaithe ag dul i méid i rith an ama (cionn is nach bhfuil sé de bhéasa ag daoine a thuilleadh dul ar an imirce mar a rinne a muintir rompu, a shílfeá ó bheith ag éisteacht le daoine áirithe).
+1	Lena	_	_	_	_	_	_	_	_
+2	linn	_	_	_	_	_	_	_	_
+3	sin	_	_	_	_	_	_	_	_
+4	tá	_	_	_	_	_	_	_	_
+5	líon	_	_	_	_	_	_	_	_
+6	na	_	_	_	_	_	_	_	_
+7	ndaoine	_	_	_	_	_	_	_	_
+8	dífhostaithe	_	_	_	_	_	_	_	_
+9	ag	_	_	_	_	_	_	_	_
+10	dul	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	méid	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	rith	_	_	_	_	_	_	_	_
+15	an	_	_	_	_	_	_	_	_
+16	ama	_	_	_	_	_	_	_	_
+17	(	_	_	_	_	_	_	_	_
+18	cionn	_	_	_	_	_	_	_	_
+19	is	_	_	_	_	_	_	_	_
+20	nach	_	_	_	_	_	_	_	_
+21	bhfuil	_	_	_	_	_	_	_	_
+22	sé	_	_	_	_	_	_	_	_
+23	de	_	_	_	_	_	_	_	_
+24	bhéasa	_	_	_	_	_	_	_	_
+25	ag	_	_	_	_	_	_	_	_
+26	daoine	_	_	_	_	_	_	_	_
+27	a	_	_	_	_	_	_	_	_
+28	thuilleadh	_	_	_	_	_	_	_	_
+29	dul	_	_	_	_	_	_	_	_
+30	ar	_	_	_	_	_	_	_	_
+31	an	_	_	_	_	_	_	_	_
+32	imirce	_	_	_	_	_	_	_	_
+33	mar	_	_	_	_	_	_	_	_
+34	a	_	_	_	_	_	_	_	_
+35	rinne	_	_	_	_	_	_	_	_
+36	a	_	_	_	_	_	_	_	_
+37	muintir	_	_	_	_	_	_	_	_
+38	rompu	_	_	_	_	_	_	_	_
+39	,	_	_	_	_	_	_	_	_
+40	a	_	_	_	_	_	_	_	_
+41	shílfeá	_	_	_	_	_	_	_	_
+42	ó	_	_	_	_	_	_	_	_
+43	bheith	_	_	_	_	_	_	_	_
+44	ag	_	_	_	_	_	_	_	_
+45	éisteacht	_	_	_	_	_	_	_	_
+46	le	_	_	_	_	_	_	_	_
+47	daoine	_	_	_	_	_	_	_	_
+48	áirithe	_	_	_	_	_	_	_	_
+49	)	_	_	_	_	_	_	_	_
+50	.	_	_	_	_	_	_	_	_
+
+# sent_id = 484
+# text = 'Seirbhísí Sóisialta don Chainteoir Gaeilge / Dátheangach' a bhí mar théama ag an siompóisiam, a d'eagraigh Comhdháil Náisiúnta na Gaeilge.
+1	'	_	_	_	_	_	_	_	_
+2	Seirbhísí	_	_	_	_	_	_	_	_
+3	Sóisialta	_	_	_	_	_	_	_	_
+4	don	_	_	_	_	_	_	_	_
+5	Chainteoir	_	_	_	_	_	_	_	_
+6	Gaeilge	_	_	_	_	_	_	_	_
+7	/	_	_	_	_	_	_	_	_
+8	Dátheangach	_	_	_	_	_	_	_	_
+9	'	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	bhí	_	_	_	_	_	_	_	_
+12	mar	_	_	_	_	_	_	_	_
+13	théama	_	_	_	_	_	_	_	_
+14	ag	_	_	_	_	_	_	_	_
+15	an	_	_	_	_	_	_	_	_
+16	siompóisiam	_	_	_	_	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	a	_	_	_	_	_	_	_	_
+19	d'	_	_	_	_	_	_	_	_
+20	eagraigh	_	_	_	_	_	_	_	_
+21	Comhdháil	_	_	_	_	_	_	_	_
+22	Náisiúnta	_	_	_	_	_	_	_	_
+23	na	_	_	_	_	_	_	_	_
+24	Gaeilge	_	_	_	_	_	_	_	_
+25	.	_	_	_	_	_	_	_	_
+
+# sent_id = 2
+# text = Bíonn cinn óga le haithint thar aon siorc eile óna scoilteanna fada geolbhaigh.
+1	Bíonn	_	_	_	_	_	_	_	_
+2	cinn	_	_	_	_	_	_	_	_
+3	óga	_	_	_	_	_	_	_	_
+4	le	_	_	_	_	_	_	_	_
+5	haithint	_	_	_	_	_	_	_	_
+6	thar	_	_	_	_	_	_	_	_
+7	aon	_	_	_	_	_	_	_	_
+8	siorc	_	_	_	_	_	_	_	_
+9	eile	_	_	_	_	_	_	_	_
+10	óna	_	_	_	_	_	_	_	_
+11	scoilteanna	_	_	_	_	_	_	_	_
+12	fada	_	_	_	_	_	_	_	_
+13	geolbhaigh	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = 656
+# text = I ngrianghrafanna suimiúila déanann P. Ó Síocháin comparáid idir an muileata deartha ar an gcloch i mBrú na Bóinne agus an muileata atá mar dhearadh coitianta i ngeansaí Árann.
+1	I	_	_	_	_	_	_	_	_
+2	ngrianghrafanna	_	_	_	_	_	_	_	_
+3	suimiúila	_	_	_	_	_	_	_	_
+4	déanann	_	_	_	_	_	_	_	_
+5	P.	_	_	_	_	_	_	_	_
+6	Ó	_	_	_	_	_	_	_	_
+7	Síocháin	_	_	_	_	_	_	_	_
+8	comparáid	_	_	_	_	_	_	_	_
+9	idir	_	_	_	_	_	_	_	_
+10	an	_	_	_	_	_	_	_	_
+11	muileata	_	_	_	_	_	_	_	_
+12	deartha	_	_	_	_	_	_	_	_
+13	ar	_	_	_	_	_	_	_	_
+14	an	_	_	_	_	_	_	_	_
+15	gcloch	_	_	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	mBrú	_	_	_	_	_	_	_	_
+18	na	_	_	_	_	_	_	_	_
+19	Bóinne	_	_	_	_	_	_	_	_
+20	agus	_	_	_	_	_	_	_	_
+21	an	_	_	_	_	_	_	_	_
+22	muileata	_	_	_	_	_	_	_	_
+23	atá	_	_	_	_	_	_	_	_
+24	mar	_	_	_	_	_	_	_	_
+25	dhearadh	_	_	_	_	_	_	_	_
+26	coitianta	_	_	_	_	_	_	_	_
+27	i	_	_	_	_	_	_	_	_
+28	ngeansaí	_	_	_	_	_	_	_	_
+29	Árann	_	_	_	_	_	_	_	_
+30	.	_	_	_	_	_	_	_	_
+
+# sent_id = 810
+# text = Labhair sé os ard.
+1	Labhair	_	_	_	_	_	_	_	_
+2	sé	_	_	_	_	_	_	_	_
+3	os	_	_	_	_	_	_	_	_
+4	ard	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = 393
+# text = Ar an gcéad dul síos, tá an Rialtas páirteach ann.
+1	Ar	_	_	_	_	_	_	_	_
+2	an	_	_	_	_	_	_	_	_
+3	gcéad	_	_	_	_	_	_	_	_
+4	dul	_	_	_	_	_	_	_	_
+5	síos	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	tá	_	_	_	_	_	_	_	_
+8	an	_	_	_	_	_	_	_	_
+9	Rialtas	_	_	_	_	_	_	_	_
+10	páirteach	_	_	_	_	_	_	_	_
+11	ann	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = 709
+# text = Theastaigh uaidh a bheith i gcomhluadar lucht ollscoile.
+1	Theastaigh	_	_	_	_	_	_	_	_
+2	uaidh	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	bheith	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	gcomhluadar	_	_	_	_	_	_	_	_
+7	lucht	_	_	_	_	_	_	_	_
+8	ollscoile	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = 14
+# text = 'Cad chuige nach n-abrófá féin staic d'amhrán dúinn, is gur tú an fear ceoil is fearr ar an mbaile?
+1	'	_	_	_	_	_	_	_	_
+2	Cad	_	_	_	_	_	_	_	_
+3	chuige	_	_	_	_	_	_	_	_
+4	nach	_	_	_	_	_	_	_	_
+5	n-abrófá	_	_	_	_	_	_	_	_
+6	féin	_	_	_	_	_	_	_	_
+7	staic	_	_	_	_	_	_	_	_
+8	d'	_	_	_	_	_	_	_	_
+9	amhrán	_	_	_	_	_	_	_	_
+10	dúinn	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	is	_	_	_	_	_	_	_	_
+13	gur	_	_	_	_	_	_	_	_
+14	tú	_	_	_	_	_	_	_	_
+15	an	_	_	_	_	_	_	_	_
+16	fear	_	_	_	_	_	_	_	_
+17	ceoil	_	_	_	_	_	_	_	_
+18	is	_	_	_	_	_	_	_	_
+19	fearr	_	_	_	_	_	_	_	_
+20	ar	_	_	_	_	_	_	_	_
+21	an	_	_	_	_	_	_	_	_
+22	mbaile	_	_	_	_	_	_	_	_
+23	?	_	_	_	_	_	_	_	_
+
+# sent_id = 542
+# text = / Níl fhios agam c 'n áit a bhfuil do lán / Mur in do lár atá do thóin.
+1	/	_	_	_	_	_	_	_	_
+2	Níl	_	_	_	_	_	_	_	_
+3	fhios	_	_	_	_	_	_	_	_
+4	agam	_	_	_	_	_	_	_	_
+5	c	_	_	_	_	_	_	_	_
+6	'n	_	_	_	_	_	_	_	_
+7	áit	_	_	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	bhfuil	_	_	_	_	_	_	_	_
+10	do	_	_	_	_	_	_	_	_
+11	lán	_	_	_	_	_	_	_	_
+12	/	_	_	_	_	_	_	_	_
+13	Mur	_	_	_	_	_	_	_	_
+14	in	_	_	_	_	_	_	_	_
+15	do	_	_	_	_	_	_	_	_
+16	lár	_	_	_	_	_	_	_	_
+17	atá	_	_	_	_	_	_	_	_
+18	do	_	_	_	_	_	_	_	_
+19	thóin	_	_	_	_	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = 1014
+# text = 'Chaith muid an oíche aréir amuigh ar an fharraige agus níor thóg muid a dhath ar bith, oiread is gilidín.
+1	'	_	_	_	_	_	_	_	_
+2	Chaith	_	_	_	_	_	_	_	_
+3	muid	_	_	_	_	_	_	_	_
+4	an	_	_	_	_	_	_	_	_
+5	oíche	_	_	_	_	_	_	_	_
+6	aréir	_	_	_	_	_	_	_	_
+7	amuigh	_	_	_	_	_	_	_	_
+8	ar	_	_	_	_	_	_	_	_
+9	an	_	_	_	_	_	_	_	_
+10	fharraige	_	_	_	_	_	_	_	_
+11	agus	_	_	_	_	_	_	_	_
+12	níor	_	_	_	_	_	_	_	_
+13	thóg	_	_	_	_	_	_	_	_
+14	muid	_	_	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	dhath	_	_	_	_	_	_	_	_
+17	ar	_	_	_	_	_	_	_	_
+18	bith	_	_	_	_	_	_	_	_
+19	,	_	_	_	_	_	_	_	_
+20	oiread	_	_	_	_	_	_	_	_
+21	is	_	_	_	_	_	_	_	_
+22	gilidín	_	_	_	_	_	_	_	_
+23	.	_	_	_	_	_	_	_	_
+
+# sent_id = 258
+# text = Agus b'in mar a tharla.
+1	Agus	_	_	_	_	_	_	_	_
+2	b'	_	_	_	_	_	_	_	_
+3	in	_	_	_	_	_	_	_	_
+4	mar	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	tharla	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = 856
+# text = Ach ní rabhthas ullamh don tromaíocht a rinneadh ar fud na cruinne agus is cosúil go bhfuil an réasúnú a spreag an cinneadh a chéaduair i gceannas fós: gur gá córas ceart cosanta a chur ar fáil don 'Eoraip' agus gur fearr don Fhrainc a bheith ar thús cadhnaíochta trí na tástálacha núicléacha a chur sa siúl athuair.
+1	Ach	_	_	_	_	_	_	_	_
+2	ní	_	_	_	_	_	_	_	_
+3	rabhthas	_	_	_	_	_	_	_	_
+4	ullamh	_	_	_	_	_	_	_	_
+5	don	_	_	_	_	_	_	_	_
+6	tromaíocht	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	rinneadh	_	_	_	_	_	_	_	_
+9	ar	_	_	_	_	_	_	_	_
+10	fud	_	_	_	_	_	_	_	_
+11	na	_	_	_	_	_	_	_	_
+12	cruinne	_	_	_	_	_	_	_	_
+13	agus	_	_	_	_	_	_	_	_
+14	is	_	_	_	_	_	_	_	_
+15	cosúil	_	_	_	_	_	_	_	_
+16	go	_	_	_	_	_	_	_	_
+17	bhfuil	_	_	_	_	_	_	_	_
+18	an	_	_	_	_	_	_	_	_
+19	réasúnú	_	_	_	_	_	_	_	_
+20	a	_	_	_	_	_	_	_	_
+21	spreag	_	_	_	_	_	_	_	_
+22	an	_	_	_	_	_	_	_	_
+23	cinneadh	_	_	_	_	_	_	_	_
+24	a	_	_	_	_	_	_	_	_
+25	chéaduair	_	_	_	_	_	_	_	_
+26	i	_	_	_	_	_	_	_	_
+27	gceannas	_	_	_	_	_	_	_	_
+28	fós	_	_	_	_	_	_	_	_
+29	:	_	_	_	_	_	_	_	_
+30	gur	_	_	_	_	_	_	_	_
+31	gá	_	_	_	_	_	_	_	_
+32	córas	_	_	_	_	_	_	_	_
+33	ceart	_	_	_	_	_	_	_	_
+34	cosanta	_	_	_	_	_	_	_	_
+35	a	_	_	_	_	_	_	_	_
+36	chur	_	_	_	_	_	_	_	_
+37	ar	_	_	_	_	_	_	_	_
+38	fáil	_	_	_	_	_	_	_	_
+39	don	_	_	_	_	_	_	_	_
+40	'	_	_	_	_	_	_	_	_
+41	Eoraip	_	_	_	_	_	_	_	_
+42	'	_	_	_	_	_	_	_	_
+43	agus	_	_	_	_	_	_	_	_
+44	gur	_	_	_	_	_	_	_	_
+45	fearr	_	_	_	_	_	_	_	_
+46	don	_	_	_	_	_	_	_	_
+47	Fhrainc	_	_	_	_	_	_	_	_
+48	a	_	_	_	_	_	_	_	_
+49	bheith	_	_	_	_	_	_	_	_
+50	ar	_	_	_	_	_	_	_	_
+51	thús	_	_	_	_	_	_	_	_
+52	cadhnaíochta	_	_	_	_	_	_	_	_
+53	trí	_	_	_	_	_	_	_	_
+54	na	_	_	_	_	_	_	_	_
+55	tástálacha	_	_	_	_	_	_	_	_
+56	núicléacha	_	_	_	_	_	_	_	_
+57	a	_	_	_	_	_	_	_	_
+58	chur	_	_	_	_	_	_	_	_
+59	sa	_	_	_	_	_	_	_	_
+60	siúl	_	_	_	_	_	_	_	_
+61	athuair	_	_	_	_	_	_	_	_
+62	.	_	_	_	_	_	_	_	_
+
+# sent_id = 473
+# text = Sa Deibhí bíonn seacht siolla sa líne freisin, ach bíonn siolla sa bhreis i bhfocal deireanach b ar a, agus in d ar c.
+1	Sa	_	_	_	_	_	_	_	_
+2	Deibhí	_	_	_	_	_	_	_	_
+3	bíonn	_	_	_	_	_	_	_	_
+4	seacht	_	_	_	_	_	_	_	_
+5	siolla	_	_	_	_	_	_	_	_
+6	sa	_	_	_	_	_	_	_	_
+7	líne	_	_	_	_	_	_	_	_
+8	freisin	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	ach	_	_	_	_	_	_	_	_
+11	bíonn	_	_	_	_	_	_	_	_
+12	siolla	_	_	_	_	_	_	_	_
+13	sa	_	_	_	_	_	_	_	_
+14	bhreis	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	bhfocal	_	_	_	_	_	_	_	_
+17	deireanach	_	_	_	_	_	_	_	_
+18	b	_	_	_	_	_	_	_	_
+19	ar	_	_	_	_	_	_	_	_
+20	a	_	_	_	_	_	_	_	_
+21	,	_	_	_	_	_	_	_	_
+22	agus	_	_	_	_	_	_	_	_
+23	in	_	_	_	_	_	_	_	_
+24	d	_	_	_	_	_	_	_	_
+25	ar	_	_	_	_	_	_	_	_
+26	c	_	_	_	_	_	_	_	_
+27	.	_	_	_	_	_	_	_	_
+
+# sent_id = 958
+# text = Ach nuair a bhíodar ag dul aníos casadh mairnéalach leo, nó cheap siad féin gurb ea, báite i snátha mara.
+1	Ach	_	_	_	_	_	_	_	_
+2	nuair	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	bhíodar	_	_	_	_	_	_	_	_
+5	ag	_	_	_	_	_	_	_	_
+6	dul	_	_	_	_	_	_	_	_
+7	aníos	_	_	_	_	_	_	_	_
+8	casadh	_	_	_	_	_	_	_	_
+9	mairnéalach	_	_	_	_	_	_	_	_
+10	leo	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	nó	_	_	_	_	_	_	_	_
+13	cheap	_	_	_	_	_	_	_	_
+14	siad	_	_	_	_	_	_	_	_
+15	féin	_	_	_	_	_	_	_	_
+16	gurb	_	_	_	_	_	_	_	_
+17	ea	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	báite	_	_	_	_	_	_	_	_
+20	i	_	_	_	_	_	_	_	_
+21	snátha	_	_	_	_	_	_	_	_
+22	mara	_	_	_	_	_	_	_	_
+23	.	_	_	_	_	_	_	_	_
+
+# sent_id = 906
+# text = Bhí cara dhom ag dul anonn ag an am seo.
+1	Bhí	_	_	_	_	_	_	_	_
+2	cara	_	_	_	_	_	_	_	_
+3	dhom	_	_	_	_	_	_	_	_
+4	ag	_	_	_	_	_	_	_	_
+5	dul	_	_	_	_	_	_	_	_
+6	anonn	_	_	_	_	_	_	_	_
+7	ag	_	_	_	_	_	_	_	_
+8	an	_	_	_	_	_	_	_	_
+9	am	_	_	_	_	_	_	_	_
+10	seo	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = 607
+# text = D'áitigh an rí air dul i gceannas ar an obair.
+1	D'	_	_	_	_	_	_	_	_
+2	áitigh	_	_	_	_	_	_	_	_
+3	an	_	_	_	_	_	_	_	_
+4	rí	_	_	_	_	_	_	_	_
+5	air	_	_	_	_	_	_	_	_
+6	dul	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	gceannas	_	_	_	_	_	_	_	_
+9	ar	_	_	_	_	_	_	_	_
+10	an	_	_	_	_	_	_	_	_
+11	obair	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = 432
+# text = Dá mba mise thú ní dhéanfainn é.
+1	Dá	_	_	_	_	_	_	_	_
+2	mba	_	_	_	_	_	_	_	_
+3	mise	_	_	_	_	_	_	_	_
+4	thú	_	_	_	_	_	_	_	_
+5	ní	_	_	_	_	_	_	_	_
+6	dhéanfainn	_	_	_	_	_	_	_	_
+7	é	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = 101
+# text = Réitíonn an sagart an fhadhb dóibh agus deir go ndéanfaidh an Teagasc Críostaí cúis bhreá i nGaeilge.
+1	Réitíonn	_	_	_	_	_	_	_	_
+2	an	_	_	_	_	_	_	_	_
+3	sagart	_	_	_	_	_	_	_	_
+4	an	_	_	_	_	_	_	_	_
+5	fhadhb	_	_	_	_	_	_	_	_
+6	dóibh	_	_	_	_	_	_	_	_
+7	agus	_	_	_	_	_	_	_	_
+8	deir	_	_	_	_	_	_	_	_
+9	go	_	_	_	_	_	_	_	_
+10	ndéanfaidh	_	_	_	_	_	_	_	_
+11	an	_	_	_	_	_	_	_	_
+12	Teagasc	_	_	_	_	_	_	_	_
+13	Críostaí	_	_	_	_	_	_	_	_
+14	cúis	_	_	_	_	_	_	_	_
+15	bhreá	_	_	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	nGaeilge	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = 471
+# text = 'Cén diabhal útamála atá ar siúl ansin thíos?
+1	'	_	_	_	_	_	_	_	_
+2	Cén	_	_	_	_	_	_	_	_
+3	diabhal	_	_	_	_	_	_	_	_
+4	útamála	_	_	_	_	_	_	_	_
+5	atá	_	_	_	_	_	_	_	_
+6	ar	_	_	_	_	_	_	_	_
+7	siúl	_	_	_	_	_	_	_	_
+8	ansin	_	_	_	_	_	_	_	_
+9	thíos	_	_	_	_	_	_	_	_
+10	?	_	_	_	_	_	_	_	_
+
+# sent_id = 682
+# text = IS maith liom an moladh atá ag an Ard-Stiúrthóir maidir le beirt réiteoirí d'úsáid i gcluichí móra ar bhonn trialach idir seo agus an bhliain 2,000 nuair a thiocfaidh leasuithe ar na rialacha i gceist arís.
+1	IS	_	_	_	_	_	_	_	_
+2	maith	_	_	_	_	_	_	_	_
+3	liom	_	_	_	_	_	_	_	_
+4	an	_	_	_	_	_	_	_	_
+5	moladh	_	_	_	_	_	_	_	_
+6	atá	_	_	_	_	_	_	_	_
+7	ag	_	_	_	_	_	_	_	_
+8	an	_	_	_	_	_	_	_	_
+9	Ard-Stiúrthóir	_	_	_	_	_	_	_	_
+10	maidir	_	_	_	_	_	_	_	_
+11	le	_	_	_	_	_	_	_	_
+12	beirt	_	_	_	_	_	_	_	_
+13	réiteoirí	_	_	_	_	_	_	_	_
+14	d'	_	_	_	_	_	_	_	_
+15	úsáid	_	_	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	gcluichí	_	_	_	_	_	_	_	_
+18	móra	_	_	_	_	_	_	_	_
+19	ar	_	_	_	_	_	_	_	_
+20	bhonn	_	_	_	_	_	_	_	_
+21	trialach	_	_	_	_	_	_	_	_
+22	idir	_	_	_	_	_	_	_	_
+23	seo	_	_	_	_	_	_	_	_
+24	agus	_	_	_	_	_	_	_	_
+25	an	_	_	_	_	_	_	_	_
+26	bhliain	_	_	_	_	_	_	_	_
+27	2,000	_	_	_	_	_	_	_	_
+28	nuair	_	_	_	_	_	_	_	_
+29	a	_	_	_	_	_	_	_	_
+30	thiocfaidh	_	_	_	_	_	_	_	_
+31	leasuithe	_	_	_	_	_	_	_	_
+32	ar	_	_	_	_	_	_	_	_
+33	na	_	_	_	_	_	_	_	_
+34	rialacha	_	_	_	_	_	_	_	_
+35	i	_	_	_	_	_	_	_	_
+36	gceist	_	_	_	_	_	_	_	_
+37	arís	_	_	_	_	_	_	_	_
+38	.	_	_	_	_	_	_	_	_
+
+# sent_id = 898
+# text = Bhí máthair Jamesie ag éirí ar mire gur tubaist éigin trom a bhain dóibh.
+1	Bhí	_	_	_	_	_	_	_	_
+2	máthair	_	_	_	_	_	_	_	_
+3	Jamesie	_	_	_	_	_	_	_	_
+4	ag	_	_	_	_	_	_	_	_
+5	éirí	_	_	_	_	_	_	_	_
+6	ar	_	_	_	_	_	_	_	_
+7	mire	_	_	_	_	_	_	_	_
+8	gur	_	_	_	_	_	_	_	_
+9	tubaist	_	_	_	_	_	_	_	_
+10	éigin	_	_	_	_	_	_	_	_
+11	trom	_	_	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	bhain	_	_	_	_	_	_	_	_
+14	dóibh	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = 730
+# text = Bhí sé ina bhall de Mhuintir Shíomóin ó 1976 go 1986.
+1	Bhí	_	_	_	_	_	_	_	_
+2	sé	_	_	_	_	_	_	_	_
+3	ina	_	_	_	_	_	_	_	_
+4	bhall	_	_	_	_	_	_	_	_
+5	de	_	_	_	_	_	_	_	_
+6	Mhuintir	_	_	_	_	_	_	_	_
+7	Shíomóin	_	_	_	_	_	_	_	_
+8	ó	_	_	_	_	_	_	_	_
+9	1976	_	_	_	_	_	_	_	_
+10	go	_	_	_	_	_	_	_	_
+11	1986	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = 311
+# text = Nuair a bhí mé tamall ag amharc orthu ba é an smaointiú a tháinig chugam gur a leithéid seo de lorg láimhe a d'fhágfadh fear ina dhiaidh a nochtfadh a chuid peacaí le hart an dathadóra.
+1	Nuair	_	_	_	_	_	_	_	_
+2	a	_	_	_	_	_	_	_	_
+3	bhí	_	_	_	_	_	_	_	_
+4	mé	_	_	_	_	_	_	_	_
+5	tamall	_	_	_	_	_	_	_	_
+6	ag	_	_	_	_	_	_	_	_
+7	amharc	_	_	_	_	_	_	_	_
+8	orthu	_	_	_	_	_	_	_	_
+9	ba	_	_	_	_	_	_	_	_
+10	é	_	_	_	_	_	_	_	_
+11	an	_	_	_	_	_	_	_	_
+12	smaointiú	_	_	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	tháinig	_	_	_	_	_	_	_	_
+15	chugam	_	_	_	_	_	_	_	_
+16	gur	_	_	_	_	_	_	_	_
+17	a	_	_	_	_	_	_	_	_
+18	leithéid	_	_	_	_	_	_	_	_
+19	seo	_	_	_	_	_	_	_	_
+20	de	_	_	_	_	_	_	_	_
+21	lorg	_	_	_	_	_	_	_	_
+22	láimhe	_	_	_	_	_	_	_	_
+23	a	_	_	_	_	_	_	_	_
+24	d'	_	_	_	_	_	_	_	_
+25	fhágfadh	_	_	_	_	_	_	_	_
+26	fear	_	_	_	_	_	_	_	_
+27	ina	_	_	_	_	_	_	_	_
+28	dhiaidh	_	_	_	_	_	_	_	_
+29	a	_	_	_	_	_	_	_	_
+30	nochtfadh	_	_	_	_	_	_	_	_
+31	a	_	_	_	_	_	_	_	_
+32	chuid	_	_	_	_	_	_	_	_
+33	peacaí	_	_	_	_	_	_	_	_
+34	le	_	_	_	_	_	_	_	_
+35	hart	_	_	_	_	_	_	_	_
+36	an	_	_	_	_	_	_	_	_
+37	dathadóra	_	_	_	_	_	_	_	_
+38	.	_	_	_	_	_	_	_	_
+
+# sent_id = 904
+# text = Creidtear gur go mailíseach a tosaíodh an tine.
+1	Creidtear	_	_	_	_	_	_	_	_
+2	gur	_	_	_	_	_	_	_	_
+3	go	_	_	_	_	_	_	_	_
+4	mailíseach	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	tosaíodh	_	_	_	_	_	_	_	_
+7	an	_	_	_	_	_	_	_	_
+8	tine	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = 812
+# text = Bhí an saol uaigneach ag Daisy, agus is mór mar a ghoill sin agus an easpa deise mar bhean tí uirthi.
+1	Bhí	_	_	_	_	_	_	_	_
+2	an	_	_	_	_	_	_	_	_
+3	saol	_	_	_	_	_	_	_	_
+4	uaigneach	_	_	_	_	_	_	_	_
+5	ag	_	_	_	_	_	_	_	_
+6	Daisy	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	agus	_	_	_	_	_	_	_	_
+9	is	_	_	_	_	_	_	_	_
+10	mór	_	_	_	_	_	_	_	_
+11	mar	_	_	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	ghoill	_	_	_	_	_	_	_	_
+14	sin	_	_	_	_	_	_	_	_
+15	agus	_	_	_	_	_	_	_	_
+16	an	_	_	_	_	_	_	_	_
+17	easpa	_	_	_	_	_	_	_	_
+18	deise	_	_	_	_	_	_	_	_
+19	mar	_	_	_	_	_	_	_	_
+20	bhean	_	_	_	_	_	_	_	_
+21	tí	_	_	_	_	_	_	_	_
+22	uirthi	_	_	_	_	_	_	_	_
+23	.	_	_	_	_	_	_	_	_
+
+# sent_id = 986
+# text = Nár thug sí an leabhar do Mháire?
+1	Nár	_	_	_	_	_	_	_	_
+2	thug	_	_	_	_	_	_	_	_
+3	sí	_	_	_	_	_	_	_	_
+4	an	_	_	_	_	_	_	_	_
+5	leabhar	_	_	_	_	_	_	_	_
+6	do	_	_	_	_	_	_	_	_
+7	Mháire	_	_	_	_	_	_	_	_
+8	?	_	_	_	_	_	_	_	_
+
+# sent_id = 914
+# text = Bhíodh tithe aitheantais acu ag gabháil ann, ag teacht ar ais agus ag ceann scríbe.
+1	Bhíodh	_	_	_	_	_	_	_	_
+2	tithe	_	_	_	_	_	_	_	_
+3	aitheantais	_	_	_	_	_	_	_	_
+4	acu	_	_	_	_	_	_	_	_
+5	ag	_	_	_	_	_	_	_	_
+6	gabháil	_	_	_	_	_	_	_	_
+7	ann	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	ag	_	_	_	_	_	_	_	_
+10	teacht	_	_	_	_	_	_	_	_
+11	ar	_	_	_	_	_	_	_	_
+12	ais	_	_	_	_	_	_	_	_
+13	agus	_	_	_	_	_	_	_	_
+14	ag	_	_	_	_	_	_	_	_
+15	ceann	_	_	_	_	_	_	_	_
+16	scríbe	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = 252
+# text = Téitheoir uisce iniompartha déanta as cré-umha.
+1	Téitheoir	_	_	_	_	_	_	_	_
+2	uisce	_	_	_	_	_	_	_	_
+3	iniompartha	_	_	_	_	_	_	_	_
+4	déanta	_	_	_	_	_	_	_	_
+5	as	_	_	_	_	_	_	_	_
+6	cré-umha	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = 623
+# text = Tá an éide scoile s'againne maith go leor anseo i Scoil Naomh Pól.
+1	Tá	_	_	_	_	_	_	_	_
+2	an	_	_	_	_	_	_	_	_
+3	éide	_	_	_	_	_	_	_	_
+4	scoile	_	_	_	_	_	_	_	_
+5	s'	_	_	_	_	_	_	_	_
+6	againne	_	_	_	_	_	_	_	_
+7	maith	_	_	_	_	_	_	_	_
+8	go	_	_	_	_	_	_	_	_
+9	leor	_	_	_	_	_	_	_	_
+10	anseo	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	Scoil	_	_	_	_	_	_	_	_
+13	Naomh	_	_	_	_	_	_	_	_
+14	Pól	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = 762
+# text = 'Amuigh?
+1	'	_	_	_	_	_	_	_	_
+2	Amuigh	_	_	_	_	_	_	_	_
+3	?	_	_	_	_	_	_	_	_
+
+# sent_id = 285
+# text = Tá gearán déanta ag Unison, ceardchumann lucht na mbónaí bána, leis an gCoimisiún um Comhionannas Ciníoch thall agus tá an Coimisiún ag rá go bhféadfadh caingean dlí a bheith ann dá rachadh an polasaí 'leithchealach' chun cinn.
+1	Tá	_	_	_	_	_	_	_	_
+2	gearán	_	_	_	_	_	_	_	_
+3	déanta	_	_	_	_	_	_	_	_
+4	ag	_	_	_	_	_	_	_	_
+5	Unison	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	ceardchumann	_	_	_	_	_	_	_	_
+8	lucht	_	_	_	_	_	_	_	_
+9	na	_	_	_	_	_	_	_	_
+10	mbónaí	_	_	_	_	_	_	_	_
+11	bána	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	leis	_	_	_	_	_	_	_	_
+14	an	_	_	_	_	_	_	_	_
+15	gCoimisiún	_	_	_	_	_	_	_	_
+16	um	_	_	_	_	_	_	_	_
+17	Comhionannas	_	_	_	_	_	_	_	_
+18	Ciníoch	_	_	_	_	_	_	_	_
+19	thall	_	_	_	_	_	_	_	_
+20	agus	_	_	_	_	_	_	_	_
+21	tá	_	_	_	_	_	_	_	_
+22	an	_	_	_	_	_	_	_	_
+23	Coimisiún	_	_	_	_	_	_	_	_
+24	ag	_	_	_	_	_	_	_	_
+25	rá	_	_	_	_	_	_	_	_
+26	go	_	_	_	_	_	_	_	_
+27	bhféadfadh	_	_	_	_	_	_	_	_
+28	caingean	_	_	_	_	_	_	_	_
+29	dlí	_	_	_	_	_	_	_	_
+30	a	_	_	_	_	_	_	_	_
+31	bheith	_	_	_	_	_	_	_	_
+32	ann	_	_	_	_	_	_	_	_
+33	dá	_	_	_	_	_	_	_	_
+34	rachadh	_	_	_	_	_	_	_	_
+35	an	_	_	_	_	_	_	_	_
+36	polasaí	_	_	_	_	_	_	_	_
+37	'	_	_	_	_	_	_	_	_
+38	leithchealach	_	_	_	_	_	_	_	_
+39	'	_	_	_	_	_	_	_	_
+40	chun	_	_	_	_	_	_	_	_
+41	cinn	_	_	_	_	_	_	_	_
+42	.	_	_	_	_	_	_	_	_
+
+# sent_id = 510
+# text = Tá a fhios sin agat anois, ar ndóigh.
+1	Tá	_	_	_	_	_	_	_	_
+2	a	_	_	_	_	_	_	_	_
+3	fhios	_	_	_	_	_	_	_	_
+4	sin	_	_	_	_	_	_	_	_
+5	agat	_	_	_	_	_	_	_	_
+6	anois	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	ar	_	_	_	_	_	_	_	_
+9	ndóigh	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = 918
+# text = Tá an treas bean dá mhná troigh taobh thíos de sin, óir ní bhíonn sé choíche gan triúr ban aige.
+1	Tá	_	_	_	_	_	_	_	_
+2	an	_	_	_	_	_	_	_	_
+3	treas	_	_	_	_	_	_	_	_
+4	bean	_	_	_	_	_	_	_	_
+5	dá	_	_	_	_	_	_	_	_
+6	mhná	_	_	_	_	_	_	_	_
+7	troigh	_	_	_	_	_	_	_	_
+8	taobh	_	_	_	_	_	_	_	_
+9	thíos	_	_	_	_	_	_	_	_
+10	de	_	_	_	_	_	_	_	_
+11	sin	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	óir	_	_	_	_	_	_	_	_
+14	ní	_	_	_	_	_	_	_	_
+15	bhíonn	_	_	_	_	_	_	_	_
+16	sé	_	_	_	_	_	_	_	_
+17	choíche	_	_	_	_	_	_	_	_
+18	gan	_	_	_	_	_	_	_	_
+19	triúr	_	_	_	_	_	_	_	_
+20	ban	_	_	_	_	_	_	_	_
+21	aige	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# sent_id = 590
+# text = Tá a fhios againn gur ar shuíomh an bhaile a bhraitheann an fhorbairt cuid mhaith.
+1	Tá	_	_	_	_	_	_	_	_
+2	a	_	_	_	_	_	_	_	_
+3	fhios	_	_	_	_	_	_	_	_
+4	againn	_	_	_	_	_	_	_	_
+5	gur	_	_	_	_	_	_	_	_
+6	ar	_	_	_	_	_	_	_	_
+7	shuíomh	_	_	_	_	_	_	_	_
+8	an	_	_	_	_	_	_	_	_
+9	bhaile	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	bhraitheann	_	_	_	_	_	_	_	_
+12	an	_	_	_	_	_	_	_	_
+13	fhorbairt	_	_	_	_	_	_	_	_
+14	cuid	_	_	_	_	_	_	_	_
+15	mhaith	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = 483
+# text = Tá sé fóirsteanach go maith, mar sin, go bhfuil Golway tar éis stair Rannóg Dóiteáin Nua-Eabhrac le trí chéad bliain anuas a scríobh.Tá sé le fáil ar lch. 202-203 de S1067, Scoil na gCailíní, Doirí Beaga.
+1	Tá	_	_	_	_	_	_	_	_
+2	sé	_	_	_	_	_	_	_	_
+3	fóirsteanach	_	_	_	_	_	_	_	_
+4	go	_	_	_	_	_	_	_	_
+5	maith	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	mar	_	_	_	_	_	_	_	_
+8	sin	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	go	_	_	_	_	_	_	_	_
+11	bhfuil	_	_	_	_	_	_	_	_
+12	Golway	_	_	_	_	_	_	_	_
+13	tar	_	_	_	_	_	_	_	_
+14	éis	_	_	_	_	_	_	_	_
+15	stair	_	_	_	_	_	_	_	_
+16	Rannóg	_	_	_	_	_	_	_	_
+17	Dóiteáin	_	_	_	_	_	_	_	_
+18	Nua-Eabhrac	_	_	_	_	_	_	_	_
+19	le	_	_	_	_	_	_	_	_
+20	trí	_	_	_	_	_	_	_	_
+21	chéad	_	_	_	_	_	_	_	_
+22	bliain	_	_	_	_	_	_	_	_
+23	anuas	_	_	_	_	_	_	_	_
+24	a	_	_	_	_	_	_	_	_
+25	scríobh	_	_	_	_	_	_	_	_
+26	.	_	_	_	_	_	_	_	_
+27	Tá	_	_	_	_	_	_	_	_
+28	sé	_	_	_	_	_	_	_	_
+29	le	_	_	_	_	_	_	_	_
+30	fáil	_	_	_	_	_	_	_	_
+31	ar	_	_	_	_	_	_	_	_
+32	lch.	_	_	_	_	_	_	_	_
+33	202-203	_	_	_	_	_	_	_	_
+34	de	_	_	_	_	_	_	_	_
+35	S1067	_	_	_	_	_	_	_	_
+36	,	_	_	_	_	_	_	_	_
+37	Scoil	_	_	_	_	_	_	_	_
+38	na	_	_	_	_	_	_	_	_
+39	gCailíní	_	_	_	_	_	_	_	_
+40	,	_	_	_	_	_	_	_	_
+41	Doirí	_	_	_	_	_	_	_	_
+42	Beaga	_	_	_	_	_	_	_	_
+43	.	_	_	_	_	_	_	_	_
+
+# sent_id = 308
+# text = Cuirtear chuile áis agus compord ar fáil don aoi sa phálás ríoga seo.
+1	Cuirtear	_	_	_	_	_	_	_	_
+2	chuile	_	_	_	_	_	_	_	_
+3	áis	_	_	_	_	_	_	_	_
+4	agus	_	_	_	_	_	_	_	_
+5	compord	_	_	_	_	_	_	_	_
+6	ar	_	_	_	_	_	_	_	_
+7	fáil	_	_	_	_	_	_	_	_
+8	don	_	_	_	_	_	_	_	_
+9	aoi	_	_	_	_	_	_	_	_
+10	sa	_	_	_	_	_	_	_	_
+11	phálás	_	_	_	_	_	_	_	_
+12	ríoga	_	_	_	_	_	_	_	_
+13	seo	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = 795
+# text = Bhí sí ag freastal ar Scoil na gCailíní, Doirí Beaga.
+1	Bhí	_	_	_	_	_	_	_	_
+2	sí	_	_	_	_	_	_	_	_
+3	ag	_	_	_	_	_	_	_	_
+4	freastal	_	_	_	_	_	_	_	_
+5	ar	_	_	_	_	_	_	_	_
+6	Scoil	_	_	_	_	_	_	_	_
+7	na	_	_	_	_	_	_	_	_
+8	gCailíní	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	Doirí	_	_	_	_	_	_	_	_
+11	Beaga	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = 412
+# text = 'Ach tá a thrí oiread agatsa le maitheamh domhsa.
+1	'	_	_	_	_	_	_	_	_
+2	Ach	_	_	_	_	_	_	_	_
+3	tá	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	thrí	_	_	_	_	_	_	_	_
+6	oiread	_	_	_	_	_	_	_	_
+7	agatsa	_	_	_	_	_	_	_	_
+8	le	_	_	_	_	_	_	_	_
+9	maitheamh	_	_	_	_	_	_	_	_
+10	domhsa	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = 520
+# text = D'fhéadfadh duine nó dhó díobh siúd a bheith ina nAirí Stáit ach tá ar a laghad seisear Airí Stáit nach mbeadh postanna acu.
+1	D'	_	_	_	_	_	_	_	_
+2	fhéadfadh	_	_	_	_	_	_	_	_
+3	duine	_	_	_	_	_	_	_	_
+4	nó	_	_	_	_	_	_	_	_
+5	dhó	_	_	_	_	_	_	_	_
+6	díobh	_	_	_	_	_	_	_	_
+7	siúd	_	_	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	bheith	_	_	_	_	_	_	_	_
+10	ina	_	_	_	_	_	_	_	_
+11	nAirí	_	_	_	_	_	_	_	_
+12	Stáit	_	_	_	_	_	_	_	_
+13	ach	_	_	_	_	_	_	_	_
+14	tá	_	_	_	_	_	_	_	_
+15	ar	_	_	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	laghad	_	_	_	_	_	_	_	_
+18	seisear	_	_	_	_	_	_	_	_
+19	Airí	_	_	_	_	_	_	_	_
+20	Stáit	_	_	_	_	_	_	_	_
+21	nach	_	_	_	_	_	_	_	_
+22	mbeadh	_	_	_	_	_	_	_	_
+23	postanna	_	_	_	_	_	_	_	_
+24	acu	_	_	_	_	_	_	_	_
+25	.	_	_	_	_	_	_	_	_
+
+# sent_id = 264
+# text = (3) Faoi réir fho-alt (5), más rud é - (a) go bhfuil aon liúntas nó liúntais faoi Chaibidil 1 de Chuid 9 le tabhairt do bhliain mheasúnachta do phearsa aonair, ar pearsa aonair é nó í is comhpháirtí i dtrádáil chomhpháirtíochta, i leith caiteachais chaipitiúil arna thabhú an 3ú lá de Nollaig, 1997, nó dá éis, ar fhoirgneamh sonraithe, agus (b) go bhfuil an liúntas nó na liúntais sin le tabhairt le linn trádáil leithleach na pearsan aonair a bheith á cur faoi cháin, ansin, mura rud é, sa bhonntréimhse don bhliain mheasúnachta ar ina leith atá an liúntas nó na liúntais sin le tabhairt, gur comhpháirtí gníomhach i ndáil leis an trádáil chomhpháirtíochta an phearsa aonair, ní mó méid aon liúntais nó liúntas den sórt sin a bheidh le cur i gcuntas chun críocha alt 392 (1) ná méid a chinnfear de réir na foirmle A plus IRP25,000 i gcás gurb é A méid bhrabúis nó ghnóchain thrádáil leithleach na pearsan aonair sa bhliain chaillteanais sula gcuirtear alt 392 (1) i bhfeidhm.
+1	(3)	_	_	_	_	_	_	_	_
+2	Faoi	_	_	_	_	_	_	_	_
+3	réir	_	_	_	_	_	_	_	_
+4	fho-alt	_	_	_	_	_	_	_	_
+5	(5)	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	más	_	_	_	_	_	_	_	_
+8	rud	_	_	_	_	_	_	_	_
+9	é	_	_	_	_	_	_	_	_
+10	-	_	_	_	_	_	_	_	_
+11	(a)	_	_	_	_	_	_	_	_
+12	go	_	_	_	_	_	_	_	_
+13	bhfuil	_	_	_	_	_	_	_	_
+14	aon	_	_	_	_	_	_	_	_
+15	liúntas	_	_	_	_	_	_	_	_
+16	nó	_	_	_	_	_	_	_	_
+17	liúntais	_	_	_	_	_	_	_	_
+18	faoi	_	_	_	_	_	_	_	_
+19	Chaibidil	_	_	_	_	_	_	_	_
+20	1	_	_	_	_	_	_	_	_
+21	de	_	_	_	_	_	_	_	_
+22	Chuid	_	_	_	_	_	_	_	_
+23	9	_	_	_	_	_	_	_	_
+24	le	_	_	_	_	_	_	_	_
+25	tabhairt	_	_	_	_	_	_	_	_
+26	do	_	_	_	_	_	_	_	_
+27	bhliain	_	_	_	_	_	_	_	_
+28	mheasúnachta	_	_	_	_	_	_	_	_
+29	do	_	_	_	_	_	_	_	_
+30	phearsa	_	_	_	_	_	_	_	_
+31	aonair	_	_	_	_	_	_	_	_
+32	,	_	_	_	_	_	_	_	_
+33	ar	_	_	_	_	_	_	_	_
+34	pearsa	_	_	_	_	_	_	_	_
+35	aonair	_	_	_	_	_	_	_	_
+36	é	_	_	_	_	_	_	_	_
+37	nó	_	_	_	_	_	_	_	_
+38	í	_	_	_	_	_	_	_	_
+39	is	_	_	_	_	_	_	_	_
+40	comhpháirtí	_	_	_	_	_	_	_	_
+41	i	_	_	_	_	_	_	_	_
+42	dtrádáil	_	_	_	_	_	_	_	_
+43	chomhpháirtíochta	_	_	_	_	_	_	_	_
+44	,	_	_	_	_	_	_	_	_
+45	i	_	_	_	_	_	_	_	_
+46	leith	_	_	_	_	_	_	_	_
+47	caiteachais	_	_	_	_	_	_	_	_
+48	chaipitiúil	_	_	_	_	_	_	_	_
+49	arna	_	_	_	_	_	_	_	_
+50	thabhú	_	_	_	_	_	_	_	_
+51	an	_	_	_	_	_	_	_	_
+52	3ú	_	_	_	_	_	_	_	_
+53	lá	_	_	_	_	_	_	_	_
+54	de	_	_	_	_	_	_	_	_
+55	Nollaig	_	_	_	_	_	_	_	_
+56	,	_	_	_	_	_	_	_	_
+57	1997	_	_	_	_	_	_	_	_
+58	,	_	_	_	_	_	_	_	_
+59	nó	_	_	_	_	_	_	_	_
+60	dá	_	_	_	_	_	_	_	_
+61	éis	_	_	_	_	_	_	_	_
+62	,	_	_	_	_	_	_	_	_
+63	ar	_	_	_	_	_	_	_	_
+64	fhoirgneamh	_	_	_	_	_	_	_	_
+65	sonraithe	_	_	_	_	_	_	_	_
+66	,	_	_	_	_	_	_	_	_
+67	agus	_	_	_	_	_	_	_	_
+68	(b)	_	_	_	_	_	_	_	_
+69	go	_	_	_	_	_	_	_	_
+70	bhfuil	_	_	_	_	_	_	_	_
+71	an	_	_	_	_	_	_	_	_
+72	liúntas	_	_	_	_	_	_	_	_
+73	nó	_	_	_	_	_	_	_	_
+74	na	_	_	_	_	_	_	_	_
+75	liúntais	_	_	_	_	_	_	_	_
+76	sin	_	_	_	_	_	_	_	_
+77	le	_	_	_	_	_	_	_	_
+78	tabhairt	_	_	_	_	_	_	_	_
+79	le	_	_	_	_	_	_	_	_
+80	linn	_	_	_	_	_	_	_	_
+81	trádáil	_	_	_	_	_	_	_	_
+82	leithleach	_	_	_	_	_	_	_	_
+83	na	_	_	_	_	_	_	_	_
+84	pearsan	_	_	_	_	_	_	_	_
+85	aonair	_	_	_	_	_	_	_	_
+86	a	_	_	_	_	_	_	_	_
+87	bheith	_	_	_	_	_	_	_	_
+88	á	_	_	_	_	_	_	_	_
+89	cur	_	_	_	_	_	_	_	_
+90	faoi	_	_	_	_	_	_	_	_
+91	cháin	_	_	_	_	_	_	_	_
+92	,	_	_	_	_	_	_	_	_
+93	ansin	_	_	_	_	_	_	_	_
+94	,	_	_	_	_	_	_	_	_
+95	mura	_	_	_	_	_	_	_	_
+96	rud	_	_	_	_	_	_	_	_
+97	é	_	_	_	_	_	_	_	_
+98	,	_	_	_	_	_	_	_	_
+99	sa	_	_	_	_	_	_	_	_
+100	bhonntréimhse	_	_	_	_	_	_	_	_
+101	don	_	_	_	_	_	_	_	_
+102	bhliain	_	_	_	_	_	_	_	_
+103	mheasúnachta	_	_	_	_	_	_	_	_
+104	ar	_	_	_	_	_	_	_	_
+105	ina	_	_	_	_	_	_	_	_
+106	leith	_	_	_	_	_	_	_	_
+107	atá	_	_	_	_	_	_	_	_
+108	an	_	_	_	_	_	_	_	_
+109	liúntas	_	_	_	_	_	_	_	_
+110	nó	_	_	_	_	_	_	_	_
+111	na	_	_	_	_	_	_	_	_
+112	liúntais	_	_	_	_	_	_	_	_
+113	sin	_	_	_	_	_	_	_	_
+114	le	_	_	_	_	_	_	_	_
+115	tabhairt	_	_	_	_	_	_	_	_
+116	,	_	_	_	_	_	_	_	_
+117	gur	_	_	_	_	_	_	_	_
+118	comhpháirtí	_	_	_	_	_	_	_	_
+119	gníomhach	_	_	_	_	_	_	_	_
+120	i	_	_	_	_	_	_	_	_
+121	ndáil	_	_	_	_	_	_	_	_
+122	leis	_	_	_	_	_	_	_	_
+123	an	_	_	_	_	_	_	_	_
+124	trádáil	_	_	_	_	_	_	_	_
+125	chomhpháirtíochta	_	_	_	_	_	_	_	_
+126	an	_	_	_	_	_	_	_	_
+127	phearsa	_	_	_	_	_	_	_	_
+128	aonair	_	_	_	_	_	_	_	_
+129	,	_	_	_	_	_	_	_	_
+130	ní	_	_	_	_	_	_	_	_
+131	mó	_	_	_	_	_	_	_	_
+132	méid	_	_	_	_	_	_	_	_
+133	aon	_	_	_	_	_	_	_	_
+134	liúntais	_	_	_	_	_	_	_	_
+135	nó	_	_	_	_	_	_	_	_
+136	liúntas	_	_	_	_	_	_	_	_
+137	den	_	_	_	_	_	_	_	_
+138	sórt	_	_	_	_	_	_	_	_
+139	sin	_	_	_	_	_	_	_	_
+140	a	_	_	_	_	_	_	_	_
+141	bheidh	_	_	_	_	_	_	_	_
+142	le	_	_	_	_	_	_	_	_
+143	cur	_	_	_	_	_	_	_	_
+144	i	_	_	_	_	_	_	_	_
+145	gcuntas	_	_	_	_	_	_	_	_
+146	chun	_	_	_	_	_	_	_	_
+147	críocha	_	_	_	_	_	_	_	_
+148	alt	_	_	_	_	_	_	_	_
+149	392	_	_	_	_	_	_	_	_
+150	(1)	_	_	_	_	_	_	_	_
+151	ná	_	_	_	_	_	_	_	_
+152	méid	_	_	_	_	_	_	_	_
+153	a	_	_	_	_	_	_	_	_
+154	chinnfear	_	_	_	_	_	_	_	_
+155	de	_	_	_	_	_	_	_	_
+156	réir	_	_	_	_	_	_	_	_
+157	na	_	_	_	_	_	_	_	_
+158	foirmle	_	_	_	_	_	_	_	_
+159	A	_	_	_	_	_	_	_	_
+160	plus	_	_	_	_	_	_	_	_
+161	IRP25,000	_	_	_	_	_	_	_	_
+162	i	_	_	_	_	_	_	_	_
+163	gcás	_	_	_	_	_	_	_	_
+164	gurb	_	_	_	_	_	_	_	_
+165	é	_	_	_	_	_	_	_	_
+166	A	_	_	_	_	_	_	_	_
+167	méid	_	_	_	_	_	_	_	_
+168	bhrabúis	_	_	_	_	_	_	_	_
+169	nó	_	_	_	_	_	_	_	_
+170	ghnóchain	_	_	_	_	_	_	_	_
+171	thrádáil	_	_	_	_	_	_	_	_
+172	leithleach	_	_	_	_	_	_	_	_
+173	na	_	_	_	_	_	_	_	_
+174	pearsan	_	_	_	_	_	_	_	_
+175	aonair	_	_	_	_	_	_	_	_
+176	sa	_	_	_	_	_	_	_	_
+177	bhliain	_	_	_	_	_	_	_	_
+178	chaillteanais	_	_	_	_	_	_	_	_
+179	sula	_	_	_	_	_	_	_	_
+180	gcuirtear	_	_	_	_	_	_	_	_
+181	alt	_	_	_	_	_	_	_	_
+182	392	_	_	_	_	_	_	_	_
+183	(1)	_	_	_	_	_	_	_	_
+184	i	_	_	_	_	_	_	_	_
+185	bhfeidhm	_	_	_	_	_	_	_	_
+186	.	_	_	_	_	_	_	_	_
+
+# sent_id = 429
+# text = Airteagal 23 Oibríochtaí eachtracha Féadfaidh BCE agus bainc cheannais náisiúnta: - caidreamh a bhunú le bainc cheannais agus le hinstitiúidí airgeadais i dtíortha eile agus, más iomchuí, le heagraíochtaí idirnáisiúnta; - gach saghas sócmhainní airgid eachtraigh agus miotal lómhar a fháil agus a dhíol trí spotbheart agus réamhdhéileáil; cuimseoidh an abairt 'sócmhainn airgid eachtraigh' urrúis agus gach sócmhainn eile in airgeadra aon tíre nó in aonaid chuntais, is cuma cén fhoirm ina sealbhaítear iad; - na sócmhainní dá dtagraítear san Airteagal seo a shealbhú agus a bhainisteoireacht; - gach saghas idirbheart baincéireachta a sheoladh i ndáil le tríú tíortha agus le heagraíochtaí idirnáisiúnta lena n-áirítear oibríochtaí chun iasachtaí a fháil agus a thabhairt.
+1	Airteagal	_	_	_	_	_	_	_	_
+2	23	_	_	_	_	_	_	_	_
+3	Oibríochtaí	_	_	_	_	_	_	_	_
+4	eachtracha	_	_	_	_	_	_	_	_
+5	Féadfaidh	_	_	_	_	_	_	_	_
+6	BCE	_	_	_	_	_	_	_	_
+7	agus	_	_	_	_	_	_	_	_
+8	bainc	_	_	_	_	_	_	_	_
+9	cheannais	_	_	_	_	_	_	_	_
+10	náisiúnta	_	_	_	_	_	_	_	_
+11	:	_	_	_	_	_	_	_	_
+12	-	_	_	_	_	_	_	_	_
+13	caidreamh	_	_	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	bhunú	_	_	_	_	_	_	_	_
+16	le	_	_	_	_	_	_	_	_
+17	bainc	_	_	_	_	_	_	_	_
+18	cheannais	_	_	_	_	_	_	_	_
+19	agus	_	_	_	_	_	_	_	_
+20	le	_	_	_	_	_	_	_	_
+21	hinstitiúidí	_	_	_	_	_	_	_	_
+22	airgeadais	_	_	_	_	_	_	_	_
+23	i	_	_	_	_	_	_	_	_
+24	dtíortha	_	_	_	_	_	_	_	_
+25	eile	_	_	_	_	_	_	_	_
+26	agus	_	_	_	_	_	_	_	_
+27	,	_	_	_	_	_	_	_	_
+28	más	_	_	_	_	_	_	_	_
+29	iomchuí	_	_	_	_	_	_	_	_
+30	,	_	_	_	_	_	_	_	_
+31	le	_	_	_	_	_	_	_	_
+32	heagraíochtaí	_	_	_	_	_	_	_	_
+33	idirnáisiúnta	_	_	_	_	_	_	_	_
+34	;	_	_	_	_	_	_	_	_
+35	-	_	_	_	_	_	_	_	_
+36	gach	_	_	_	_	_	_	_	_
+37	saghas	_	_	_	_	_	_	_	_
+38	sócmhainní	_	_	_	_	_	_	_	_
+39	airgid	_	_	_	_	_	_	_	_
+40	eachtraigh	_	_	_	_	_	_	_	_
+41	agus	_	_	_	_	_	_	_	_
+42	miotal	_	_	_	_	_	_	_	_
+43	lómhar	_	_	_	_	_	_	_	_
+44	a	_	_	_	_	_	_	_	_
+45	fháil	_	_	_	_	_	_	_	_
+46	agus	_	_	_	_	_	_	_	_
+47	a	_	_	_	_	_	_	_	_
+48	dhíol	_	_	_	_	_	_	_	_
+49	trí	_	_	_	_	_	_	_	_
+50	spotbheart	_	_	_	_	_	_	_	_
+51	agus	_	_	_	_	_	_	_	_
+52	réamhdhéileáil	_	_	_	_	_	_	_	_
+53	;	_	_	_	_	_	_	_	_
+54	cuimseoidh	_	_	_	_	_	_	_	_
+55	an	_	_	_	_	_	_	_	_
+56	abairt	_	_	_	_	_	_	_	_
+57	'	_	_	_	_	_	_	_	_
+58	sócmhainn	_	_	_	_	_	_	_	_
+59	airgid	_	_	_	_	_	_	_	_
+60	eachtraigh	_	_	_	_	_	_	_	_
+61	'	_	_	_	_	_	_	_	_
+62	urrúis	_	_	_	_	_	_	_	_
+63	agus	_	_	_	_	_	_	_	_
+64	gach	_	_	_	_	_	_	_	_
+65	sócmhainn	_	_	_	_	_	_	_	_
+66	eile	_	_	_	_	_	_	_	_
+67	in	_	_	_	_	_	_	_	_
+68	airgeadra	_	_	_	_	_	_	_	_
+69	aon	_	_	_	_	_	_	_	_
+70	tíre	_	_	_	_	_	_	_	_
+71	nó	_	_	_	_	_	_	_	_
+72	in	_	_	_	_	_	_	_	_
+73	aonaid	_	_	_	_	_	_	_	_
+74	chuntais	_	_	_	_	_	_	_	_
+75	,	_	_	_	_	_	_	_	_
+76	is	_	_	_	_	_	_	_	_
+77	cuma	_	_	_	_	_	_	_	_
+78	cén	_	_	_	_	_	_	_	_
+79	fhoirm	_	_	_	_	_	_	_	_
+80	ina	_	_	_	_	_	_	_	_
+81	sealbhaítear	_	_	_	_	_	_	_	_
+82	iad	_	_	_	_	_	_	_	_
+83	;	_	_	_	_	_	_	_	_
+84	-	_	_	_	_	_	_	_	_
+85	na	_	_	_	_	_	_	_	_
+86	sócmhainní	_	_	_	_	_	_	_	_
+87	dá	_	_	_	_	_	_	_	_
+88	dtagraítear	_	_	_	_	_	_	_	_
+89	san	_	_	_	_	_	_	_	_
+90	Airteagal	_	_	_	_	_	_	_	_
+91	seo	_	_	_	_	_	_	_	_
+92	a	_	_	_	_	_	_	_	_
+93	shealbhú	_	_	_	_	_	_	_	_
+94	agus	_	_	_	_	_	_	_	_
+95	a	_	_	_	_	_	_	_	_
+96	bhainisteoireacht	_	_	_	_	_	_	_	_
+97	;	_	_	_	_	_	_	_	_
+98	-	_	_	_	_	_	_	_	_
+99	gach	_	_	_	_	_	_	_	_
+100	saghas	_	_	_	_	_	_	_	_
+101	idirbheart	_	_	_	_	_	_	_	_
+102	baincéireachta	_	_	_	_	_	_	_	_
+103	a	_	_	_	_	_	_	_	_
+104	sheoladh	_	_	_	_	_	_	_	_
+105	i	_	_	_	_	_	_	_	_
+106	ndáil	_	_	_	_	_	_	_	_
+107	le	_	_	_	_	_	_	_	_
+108	tríú	_	_	_	_	_	_	_	_
+109	tíortha	_	_	_	_	_	_	_	_
+110	agus	_	_	_	_	_	_	_	_
+111	le	_	_	_	_	_	_	_	_
+112	heagraíochtaí	_	_	_	_	_	_	_	_
+113	idirnáisiúnta	_	_	_	_	_	_	_	_
+114	lena	_	_	_	_	_	_	_	_
+115	n-áirítear	_	_	_	_	_	_	_	_
+116	oibríochtaí	_	_	_	_	_	_	_	_
+117	chun	_	_	_	_	_	_	_	_
+118	iasachtaí	_	_	_	_	_	_	_	_
+119	a	_	_	_	_	_	_	_	_
+120	fháil	_	_	_	_	_	_	_	_
+121	agus	_	_	_	_	_	_	_	_
+122	a	_	_	_	_	_	_	_	_
+123	thabhairt	_	_	_	_	_	_	_	_
+124	.	_	_	_	_	_	_	_	_
+
+# sent_id = 773
+# text = Bhí an geata dúnta ag Seán.
+1	Bhí	_	_	_	_	_	_	_	_
+2	an	_	_	_	_	_	_	_	_
+3	geata	_	_	_	_	_	_	_	_
+4	dúnta	_	_	_	_	_	_	_	_
+5	ag	_	_	_	_	_	_	_	_
+6	Seán	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = 862
+# text = Tá siad sásta, is cosúil, ligean do na paráideanna a dhul ar aghaidh sna háiteacha sin, ar choinníollacha ar leith, fad is go dtéann an lucht eagraithe i gcomhairle leosan i dtosach.
+1	Tá	_	_	_	_	_	_	_	_
+2	siad	_	_	_	_	_	_	_	_
+3	sásta	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	is	_	_	_	_	_	_	_	_
+6	cosúil	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	ligean	_	_	_	_	_	_	_	_
+9	do	_	_	_	_	_	_	_	_
+10	na	_	_	_	_	_	_	_	_
+11	paráideanna	_	_	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	dhul	_	_	_	_	_	_	_	_
+14	ar	_	_	_	_	_	_	_	_
+15	aghaidh	_	_	_	_	_	_	_	_
+16	sna	_	_	_	_	_	_	_	_
+17	háiteacha	_	_	_	_	_	_	_	_
+18	sin	_	_	_	_	_	_	_	_
+19	,	_	_	_	_	_	_	_	_
+20	ar	_	_	_	_	_	_	_	_
+21	choinníollacha	_	_	_	_	_	_	_	_
+22	ar	_	_	_	_	_	_	_	_
+23	leith	_	_	_	_	_	_	_	_
+24	,	_	_	_	_	_	_	_	_
+25	fad	_	_	_	_	_	_	_	_
+26	is	_	_	_	_	_	_	_	_
+27	go	_	_	_	_	_	_	_	_
+28	dtéann	_	_	_	_	_	_	_	_
+29	an	_	_	_	_	_	_	_	_
+30	lucht	_	_	_	_	_	_	_	_
+31	eagraithe	_	_	_	_	_	_	_	_
+32	i	_	_	_	_	_	_	_	_
+33	gcomhairle	_	_	_	_	_	_	_	_
+34	leosan	_	_	_	_	_	_	_	_
+35	i	_	_	_	_	_	_	_	_
+36	dtosach	_	_	_	_	_	_	_	_
+37	.	_	_	_	_	_	_	_	_
+

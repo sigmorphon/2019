@@ -1,0 +1,2170 @@
+# sent_id = w01025084
+# text = 이번 퇴각은 오스트리아-프러시아군 에게는 상당히 놀랍게 다가왔으며 그 결과 거의 모든 덴마크 병력이 완벽히 탈출할수 있었다.
+# text_en = This retreat came as a surprise to the Austro-Prussian army, and almost all of the Danish army succeeded in completing the evacuation.
+# ToDoOrigText = 이번 퇴각은 오스트리아-프러시아 군에게는 상당히 놀랍게 다가왔으며 그 결과 거의 모든 덴마크 병력이 완벽히 탈출할 수 있었다.
+# translit = .i.beon .toe.gag.eun .o.seu.teu.ri.a-.peu.reo.si.a.gun .e.ge.neun .sang.dang.hi .nol.rab.ge .da.ga.wass.eu.myeo .geu .gyeol.gwa .geo.yi .mo.deun .den.ma.keu .byeong.ryeog.i .wan.byeog.hi .tal.chul.hal.su .iss.eoss.da.
+1	이번	_	_	_	_	_	_	_	_
+2	퇴각은	_	_	_	_	_	_	_	_
+3	오스트리아	_	_	_	_	_	_	_	_
+4	-	_	_	_	_	_	_	_	_
+5	프러시아군	_	_	_	_	_	_	_	_
+6	에게	_	_	_	_	_	_	_	_
+7	는	_	_	_	_	_	_	_	_
+8	상당히	_	_	_	_	_	_	_	_
+9	놀랍게	_	_	_	_	_	_	_	_
+10	다가왔으며	_	_	_	_	_	_	_	_
+11	그	_	_	_	_	_	_	_	_
+12	결과	_	_	_	_	_	_	_	_
+13	거의	_	_	_	_	_	_	_	_
+14	모든	_	_	_	_	_	_	_	_
+15	덴마크	_	_	_	_	_	_	_	_
+16	병력이	_	_	_	_	_	_	_	_
+17	완벽히	_	_	_	_	_	_	_	_
+18	탈출할	_	_	_	_	_	_	_	_
+19	수	_	_	_	_	_	_	_	_
+20	있었다	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01150007
+# text = 그러나 건축은 산 자와 죽은 자를 잇는 다리를 지을 수 있고 그 경계를 어느 정도 모호하게 만들 수 있다.
+# text_en = "But architecture can build a bridge between the living and the dead and, to some extent, blur the boundaries."
+# translit = .geu.reo.na .geon.chug.eun .san .ja.wa .jug.eun .ja.reul .is.neun .da.ri.reul .ji.eul .su .iss.go .geu .gyeong.gye.reul .eo.neu .jeong.do .mo.ho.ha.ge .man.deul .su .iss.da.
+1	그러나	_	_	_	_	_	_	_	_
+2	건축은	_	_	_	_	_	_	_	_
+3	산	_	_	_	_	_	_	_	_
+4	자와	_	_	_	_	_	_	_	_
+5	죽은	_	_	_	_	_	_	_	_
+6	자를	_	_	_	_	_	_	_	_
+7	잇는	_	_	_	_	_	_	_	_
+8	다리를	_	_	_	_	_	_	_	_
+9	지을	_	_	_	_	_	_	_	_
+10	수	_	_	_	_	_	_	_	_
+11	있고	_	_	_	_	_	_	_	_
+12	그	_	_	_	_	_	_	_	_
+13	경계를	_	_	_	_	_	_	_	_
+14	어느	_	_	_	_	_	_	_	_
+15	정도	_	_	_	_	_	_	_	_
+16	모호하게	_	_	_	_	_	_	_	_
+17	만들	_	_	_	_	_	_	_	_
+18	수	_	_	_	_	_	_	_	_
+19	있다	_	_	_	_	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01051007
+# text = 그것은 신생아 35,000명 중 한 명 꼴로 발생하는가장 흔한 신생아 종양이다.
+# text_en = It is the most common tumour found in babies, occurring in one of every 35,000 births.
+# ToDoOrigText = 그것은 신생아 35,000명 중 한 명 꼴로 발생하는 가장 흔한 신생아 종양이다.
+# translit = .geu.geos.eun .sin.saeng.a 35,000.myeong .jung .han .myeong .ggol.ro .bal.saeng.ha.neun.ga.jang .heun.han .sin.saeng.a .jong.yang.i.da.
+1	그것은	_	_	_	_	_	_	_	_
+2	신생아	_	_	_	_	_	_	_	_
+3	35,000	_	_	_	_	_	_	_	_
+4	명	_	_	_	_	_	_	_	_
+5	중	_	_	_	_	_	_	_	_
+6	한	_	_	_	_	_	_	_	_
+7	명	_	_	_	_	_	_	_	_
+8	꼴	_	_	_	_	_	_	_	_
+9	로	_	_	_	_	_	_	_	_
+10	발생하는	_	_	_	_	_	_	_	_
+11	가장	_	_	_	_	_	_	_	_
+12	흔한	_	_	_	_	_	_	_	_
+13	신생아	_	_	_	_	_	_	_	_
+14	종양	_	_	_	_	_	_	_	_
+15	이다	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01050069
+# text = 중국의 위안 스카이 총통은 새로운 중국을 청의 후계자로 선언하였다.
+# text_en = Yuan Shikai, the President of the Republic of China, considered the new republic to be the successor of the Qing.
+# translit = .jung.gug.yi .wi.an .seu.ka.i .chong.tong.eun .sae.ro.un .jung.gug.eul .cheong.yi .hu.gye.ja.ro .seon.eon.ha.yeoss.da.
+1	중국의	_	_	_	_	_	_	_	_
+2	위안	_	_	_	_	_	_	_	_
+3	스카이	_	_	_	_	_	_	_	_
+4	총통은	_	_	_	_	_	_	_	_
+5	새로운	_	_	_	_	_	_	_	_
+6	중국을	_	_	_	_	_	_	_	_
+7	청의	_	_	_	_	_	_	_	_
+8	후계자로	_	_	_	_	_	_	_	_
+9	선언하였다	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01078025
+# text = 물론, 나는 현대의 독일과 나치 시대의 독일은 분리시켜서생각해야한다는 것을 알고 있다.
+# text_en = Of course, I do understand that modern-day Germany must be separated from the Nazi regime.
+# ToDoOrigText = 물론, 나는 현대의 독일과 나치 시대의 독일은 분리시켜서 생각해야 한다는 것을 알고 있다.
+# translit = .mul.ron, .na.neun .hyeon.dae.yi .dog.il.gwa .na.chi .si.dae.yi .dog.il.eun .bun.ri.si.kyeo.seo.saeng.gag.hae.ya.han.da.neun .geos.eul .al.go .iss.da.
+1	물론	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	나는	_	_	_	_	_	_	_	_
+4	현대의	_	_	_	_	_	_	_	_
+5	독일과	_	_	_	_	_	_	_	_
+6	나치	_	_	_	_	_	_	_	_
+7	시대의	_	_	_	_	_	_	_	_
+8	독일은	_	_	_	_	_	_	_	_
+9	분리시켜서	_	_	_	_	_	_	_	_
+10	생각해야	_	_	_	_	_	_	_	_
+11	한다는	_	_	_	_	_	_	_	_
+12	것을	_	_	_	_	_	_	_	_
+13	알고	_	_	_	_	_	_	_	_
+14	있다	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = n02078004
+# text = 아시아 경제 지표 호조로 아시아 주식 시장의 주가가 즉각 상승했다.
+# text_en = The good numbers in Asia promptly pushed the stock markets up.
+# translit = .a.si.a .gyeong.je .ji.pyo .ho.jo.ro .a.si.a .ju.sig .si.jang.yi .ju.ga.ga .jeug.gag .sang.seung.haess.da.
+1	아시아	_	_	_	_	_	_	_	_
+2	경제	_	_	_	_	_	_	_	_
+3	지표	_	_	_	_	_	_	_	_
+4	호조로	_	_	_	_	_	_	_	_
+5	아시아	_	_	_	_	_	_	_	_
+6	주식	_	_	_	_	_	_	_	_
+7	시장의	_	_	_	_	_	_	_	_
+8	주가가	_	_	_	_	_	_	_	_
+9	즉각	_	_	_	_	_	_	_	_
+10	상승했다	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = w05006024
+# text = 황금시대 스페인어 또는 초기 현대 스페인어는 중세 스페인어에서 현대 스페인어로 옮겨가는 과정을 구성하는언어의 변형이다.
+# text_en = Golden Age Spanish or Early Modern Spanish is the variant of the language that constitutes the transition from Medieval Spanish to Modern Spanish.
+# ToDoOrigText = 황금시대 스페인어 또는 초기 현대 스페인어는 중세 스페인어에서 현대 스페인어로 옮겨가는 과정을 구성하는 언어의 변형이다.
+# translit = .hwang.geum.si.dae .seu.pe.in.eo .ddo.neun .cho.gi .hyeon.dae .seu.pe.in.eo.neun .jung.se .seu.pe.in.eo.e.seo .hyeon.dae .seu.pe.in.eo.ro .orm.gyeo.ga.neun .gwa.jeong.eul .gu.seong.ha.neun.eon.eo.yi .byeon.hyeong.i.da.
+1	황금	_	_	_	_	_	_	_	_
+2	시대	_	_	_	_	_	_	_	_
+3	스페인어	_	_	_	_	_	_	_	_
+4	또는	_	_	_	_	_	_	_	_
+5	초기	_	_	_	_	_	_	_	_
+6	현대	_	_	_	_	_	_	_	_
+7	스페인어는	_	_	_	_	_	_	_	_
+8	중세	_	_	_	_	_	_	_	_
+9	스페인어에서	_	_	_	_	_	_	_	_
+10	현대	_	_	_	_	_	_	_	_
+11	스페인어로	_	_	_	_	_	_	_	_
+12	옮겨	_	_	_	_	_	_	_	_
+13	가는	_	_	_	_	_	_	_	_
+14	과정을	_	_	_	_	_	_	_	_
+15	구성하는	_	_	_	_	_	_	_	_
+16	언어의	_	_	_	_	_	_	_	_
+17	변형	_	_	_	_	_	_	_	_
+18	이다	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01120010
+# text = 도스의 이야기는 믿을 수 없을 정도로 특별해서더욱더 호소력 있게 다가온다.
+# text_en = Doss’s story also has an unlikely quality to it that makes it all the more appealing.
+# ToDoOrigText = 도스의 이야기는 믿을 수 없을 정도로 특별해서 더욱더 호소력 있게 다가온다.
+# translit = .do.seu.yi .i.ya.gi.neun .mid.eul .su .eobs.eul .jeong.do.ro .teug.byeol.hae.seo.deo.ug.deo .ho.so.ryeog .iss.ge .da.ga.on.da.
+1	도스의	_	_	_	_	_	_	_	_
+2	이야기는	_	_	_	_	_	_	_	_
+3	믿을	_	_	_	_	_	_	_	_
+4	수	_	_	_	_	_	_	_	_
+5	없을	_	_	_	_	_	_	_	_
+6	정도로	_	_	_	_	_	_	_	_
+7	특별해서	_	_	_	_	_	_	_	_
+8	더욱더	_	_	_	_	_	_	_	_
+9	호소력	_	_	_	_	_	_	_	_
+10	있게	_	_	_	_	_	_	_	_
+11	다가온다	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01148029
+# text = 또한 방콕에서 가장 높은 빌딩인 마하나컨(MahaNakhon)처럼 현대적인 고층 빌딩들이 방콕에 우뚝 솟아 있다.
+# text_en = It's also fuelled the emergence of modern high-rises -- like the visionary MahaNakhon, Bangkok's tallest building.
+# translit = .ddo.han .bang.kog.e.seo .ga.jang .nop.eun .bil.ding.in .ma.ha.na.keon(MahaNakhon).cheo.reom .hyeon.dae.jeog.in .go.cheung .bil.ding.deul.i .bang.kog.e .u.ddug .sos.a .iss.da.
+1	또한	_	_	_	_	_	_	_	_
+2	방콕에서	_	_	_	_	_	_	_	_
+3	가장	_	_	_	_	_	_	_	_
+4	높은	_	_	_	_	_	_	_	_
+5	빌딩	_	_	_	_	_	_	_	_
+6	인	_	_	_	_	_	_	_	_
+7	마하나컨	_	_	_	_	_	_	_	_
+8	(	_	_	_	_	_	_	_	_
+9	MahaNakhon	_	_	_	_	_	_	_	_
+10	)	_	_	_	_	_	_	_	_
+11	처럼	_	_	_	_	_	_	_	_
+12	현대적	_	_	_	_	_	_	_	_
+13	인	_	_	_	_	_	_	_	_
+14	고층	_	_	_	_	_	_	_	_
+15	빌딩들이	_	_	_	_	_	_	_	_
+16	방콕에	_	_	_	_	_	_	_	_
+17	우뚝	_	_	_	_	_	_	_	_
+18	솟아	_	_	_	_	_	_	_	_
+19	있다	_	_	_	_	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01066093
+# text = 그의 아내 앨리스는 “그는 자신의 건강을 전혀 돌보지 않았어요”라고 말했다.
+# text_en = “Complete neglect of his own health,” his wife, Alice, reported.
+# translit = .geu.yi .a.nae .ael.ri.seu.neun “.geu.neun .ja.sin.yi .geon.gang.eul .jeon.hyeo .dol.bo.ji .anh.ass.eo.yo”.ra.go .mal.haess.da.
+1	그의	_	_	_	_	_	_	_	_
+2	아내	_	_	_	_	_	_	_	_
+3	앨리스는	_	_	_	_	_	_	_	_
+4	“	_	_	_	_	_	_	_	_
+5	그는	_	_	_	_	_	_	_	_
+6	자신의	_	_	_	_	_	_	_	_
+7	건강을	_	_	_	_	_	_	_	_
+8	전혀	_	_	_	_	_	_	_	_
+9	돌보지	_	_	_	_	_	_	_	_
+10	않았어요	_	_	_	_	_	_	_	_
+11	”	_	_	_	_	_	_	_	_
+12	라고	_	_	_	_	_	_	_	_
+13	말했다	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01095089
+# text = 이러한 관습은 현대에 들어와서 약간 완화되었지만지금도 친구 사이에 이름을 부르는 것보다는 성을 부르는 게 여전히 일반적이다.
+# text_en = This convention is only slightly relaxed in modern age and now it is still unadvisable among friends to use the given name, but use of the family name is still common.
+# ToDoOrigText = 이러한 관습은 현대에 들어와서 약간 완화되었지만 지금도 친구 사이에 이름을 부르는 것보다는 성을 부르는 게 여전히 일반적이다.
+# translit = .i.reo.han .gwan.seub.eun .hyeon.dae.e .deul.eo.wa.seo .yag.gan .wan.hwa.doe.eoss.ji.man.ji.geum.do .chin.gu .sa.i.e .i.reum.eul .bu.reu.neun .geos.bo.da.neun .seong.eul .bu.reu.neun .ge .yeo.jeon.hi .il.ban.jeog.i.da.
+1	이러한	_	_	_	_	_	_	_	_
+2	관습은	_	_	_	_	_	_	_	_
+3	현대에	_	_	_	_	_	_	_	_
+4	들어와서	_	_	_	_	_	_	_	_
+5	약간	_	_	_	_	_	_	_	_
+6	완화되었지만	_	_	_	_	_	_	_	_
+7	지금도	_	_	_	_	_	_	_	_
+8	친구	_	_	_	_	_	_	_	_
+9	사이에	_	_	_	_	_	_	_	_
+10	이름을	_	_	_	_	_	_	_	_
+11	부르는	_	_	_	_	_	_	_	_
+12	것보다	_	_	_	_	_	_	_	_
+13	는	_	_	_	_	_	_	_	_
+14	성을	_	_	_	_	_	_	_	_
+15	부르는	_	_	_	_	_	_	_	_
+16	게	_	_	_	_	_	_	_	_
+17	여전히	_	_	_	_	_	_	_	_
+18	일반적	_	_	_	_	_	_	_	_
+19	이다	_	_	_	_	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01075038
+# text = 이 연구는 이러한 세 가지 요소를 반란을 통해 예측한수익과 유사한요소로 해석하였으며그렇기 때문에 예상 소득이 낮아지게 되면 반란의 가능성이 높아진다고 해석했다.
+# text_en = The study interpreted these three factors as proxies for earnings forgone by rebellion, and therefore that lower forgone earnings encourage rebellion.
+# ToDoOrigText = 이 연구는 이러한 세 가지 요소를 반란을 통해 예측한 수익과 유사한 요소로 해석하였으며 그렇기 때문에 예상 소득이 낮아지게 되면 반란의 가능성이 높아진다고 해석했다.
+# translit = .i .yeon.gu.neun .i.reo.han .se .ga.ji .yo.so.reul .ban.ran.eul .tong.hae .ye.cheug.han.su.ig.gwa .yu.sa.han.yo.so.ro .hae.seog.ha.yeoss.eu.myeo.geu.reoh.gi .ddae.mun.e .ye.sang .so.deug.i .naj.a.ji.ge .doe.myeon .ban.ran.yi .ga.neung.seong.i .nop.a.jin.da.go .hae.seog.haess.da.
+1	이	_	_	_	_	_	_	_	_
+2	연구는	_	_	_	_	_	_	_	_
+3	이러한	_	_	_	_	_	_	_	_
+4	세	_	_	_	_	_	_	_	_
+5	가지	_	_	_	_	_	_	_	_
+6	요소를	_	_	_	_	_	_	_	_
+7	반란을	_	_	_	_	_	_	_	_
+8	통해	_	_	_	_	_	_	_	_
+9	예측한	_	_	_	_	_	_	_	_
+10	수익과	_	_	_	_	_	_	_	_
+11	유사한	_	_	_	_	_	_	_	_
+12	요소로	_	_	_	_	_	_	_	_
+13	해석하였으며	_	_	_	_	_	_	_	_
+14	그렇기	_	_	_	_	_	_	_	_
+15	때문에	_	_	_	_	_	_	_	_
+16	예상	_	_	_	_	_	_	_	_
+17	소득이	_	_	_	_	_	_	_	_
+18	낮아지게	_	_	_	_	_	_	_	_
+19	되면	_	_	_	_	_	_	_	_
+20	반란의	_	_	_	_	_	_	_	_
+21	가능성이	_	_	_	_	_	_	_	_
+22	높아진다고	_	_	_	_	_	_	_	_
+23	해석했다	_	_	_	_	_	_	_	_
+24	.	_	_	_	_	_	_	_	_
+
+# sent_id = w03010096
+# text = 이런 모든 것들로부터 벗어나기 위해 레미는 1947년 여름을 대부분 스위스에서 보냈다.
+# text_en = To get away from it all, the Remis resided in Switzerland for most of summer 1947.
+# translit = .i.reon .mo.deun .geos.deul.ro.bu.teo .beos.eo.na.gi .wi.hae .re.mi.neun 1947.nyeon .yeo.reum.eul .dae.bu.bun .seu.wi.seu.e.seo .bo.naess.da.
+1	이런	_	_	_	_	_	_	_	_
+2	모든	_	_	_	_	_	_	_	_
+3	것들로부터	_	_	_	_	_	_	_	_
+4	벗어나기	_	_	_	_	_	_	_	_
+5	위해	_	_	_	_	_	_	_	_
+6	레미는	_	_	_	_	_	_	_	_
+7	1947	_	_	_	_	_	_	_	_
+8	년	_	_	_	_	_	_	_	_
+9	여름을	_	_	_	_	_	_	_	_
+10	대부분	_	_	_	_	_	_	_	_
+11	스위스에서	_	_	_	_	_	_	_	_
+12	보냈다	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01113033
+# text = 이 카드는 사용하면ATM에서 현금을 인출해책과 교복과 같은 학용품을 구매할수 있다.
+# text_en = This card gives an allowance that can be withdrawn from ATMs in order to buy school needs such as books and uniforms.
+# ToDoOrigText = 이 카드는 사용하면 ATM에서 현금을 인출해 책과 교복과 같은 학용품을 구매할 수 있다.
+# translit = .i .ka.deu.neun .sa.yong.ha.myeonATM.e.seo .hyeon.geum.eul .in.chul.hae.chaeg.gwa .gyo.bog.gwa .gat.eun .hag.yong.pum.eul .gu.mae.hal.su .iss.da.
+1	이	_	_	_	_	_	_	_	_
+2	카드는	_	_	_	_	_	_	_	_
+3	사용하면	_	_	_	_	_	_	_	_
+4	ATM에서	_	_	_	_	_	_	_	_
+5	현금을	_	_	_	_	_	_	_	_
+6	인출해	_	_	_	_	_	_	_	_
+7	책과	_	_	_	_	_	_	_	_
+8	교복과	_	_	_	_	_	_	_	_
+9	같은	_	_	_	_	_	_	_	_
+10	학용품을	_	_	_	_	_	_	_	_
+11	구매할	_	_	_	_	_	_	_	_
+12	수	_	_	_	_	_	_	_	_
+13	있다	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01091016
+# text = 처음에 동남아시아, 아마 파푸아뉴기니에서 재배가 이뤄지던 바나나와 플랜테인은 이미 약 5천년 전 아프리카에서도 재경작이 이뤄졌다.
+# text_en = Bananas and plantains, which were first domesticated in Southeast Asia, most likely Papua New Guinea, were re-domesticated in Africa possibly as early as 5,000 years ago.
+# translit = .cheo.eum.e .dong.nam.a.si.a, .a.ma .pa.pu.a.nyu.gi.ni.e.seo .jae.bae.ga .i.rweo.ji.deon .ba.na.na.wa .peul.raen.te.in.eun .i.mi .yag 5.cheon.nyeon .jeon .a.peu.ri.ka.e.seo.do .jae.gyeong.jag.i .i.rweo.jyeoss.da.
+1	처음에	_	_	_	_	_	_	_	_
+2	동남아시아	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	아마	_	_	_	_	_	_	_	_
+5	파푸아뉴기니	_	_	_	_	_	_	_	_
+6	에서	_	_	_	_	_	_	_	_
+7	재배가	_	_	_	_	_	_	_	_
+8	이뤄지던	_	_	_	_	_	_	_	_
+9	바나나와	_	_	_	_	_	_	_	_
+10	플랜테인은	_	_	_	_	_	_	_	_
+11	이미	_	_	_	_	_	_	_	_
+12	약	_	_	_	_	_	_	_	_
+13	5	_	_	_	_	_	_	_	_
+14	천	_	_	_	_	_	_	_	_
+15	년	_	_	_	_	_	_	_	_
+16	전	_	_	_	_	_	_	_	_
+17	아프리카에서	_	_	_	_	_	_	_	_
+18	도	_	_	_	_	_	_	_	_
+19	재경작이	_	_	_	_	_	_	_	_
+20	이뤄졌다	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01128025
+# text = 첫째, 안전한온라인 이용 방법에 대한 교육을 시행해야한다.
+# text_en = First, we must educate people on how to protect themselves better online.
+# ToDoOrigText = 첫째, 안전한 온라인 이용 방법에 대한 교육을 시행해야 한다.
+# translit = .cheos.jjae, .an.jeon.han.on.ra.in .i.yong .bang.beob.e .dae.han .gyo.yug.eul .si.haeng.hae.ya.han.da.
+1	첫째	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	안전한	_	_	_	_	_	_	_	_
+4	온라인	_	_	_	_	_	_	_	_
+5	이용	_	_	_	_	_	_	_	_
+6	방법에	_	_	_	_	_	_	_	_
+7	대한	_	_	_	_	_	_	_	_
+8	교육을	_	_	_	_	_	_	_	_
+9	시행해야	_	_	_	_	_	_	_	_
+10	한다	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01065019
+# text = 이러한 거대 석상을 세운 정확한목적에 대해선 여전히 논쟁 중이지만 기원전 1600년 무렵 청동기 시대 중반으로부터 가나안인들의 "예배소"를 이루는 요소일 수도 있다.
+# text_en = The exact purpose of these megaliths is still debated, but they may have constituted a Canaanite "high place" from the Middle Bronze Age, ca. 1600 B.C.E.
+# ToDoOrigText = 이러한 거대 석상을 세운 정확한 목적에 대해선 여전히 논쟁 중이지만 기원전 1600년 무렵 청동기 시대 중반으로부터 가나안인들의 "예배소"를 이루는 요소일 수도 있다.
+# translit = .i.reo.han .geo.dae .seog.sang.eul .se.un .jeong.hwag.han.mog.jeog.e .dae.hae.seon .yeo.jeon.hi .non.jaeng .jung.i.ji.man .gi.weon.jeon 1600.nyeon .mu.ryeob .cheong.dong.gi .si.dae .jung.ban.eu.ro.bu.teo .ga.na.an.in.deul.yi ".ye.bae.so".reul .i.ru.neun .yo.so.il .su.do .iss.da.
+1	이러한	_	_	_	_	_	_	_	_
+2	거대	_	_	_	_	_	_	_	_
+3	석상을	_	_	_	_	_	_	_	_
+4	세운	_	_	_	_	_	_	_	_
+5	정확한	_	_	_	_	_	_	_	_
+6	목적에	_	_	_	_	_	_	_	_
+7	대해선	_	_	_	_	_	_	_	_
+8	여전히	_	_	_	_	_	_	_	_
+9	논쟁	_	_	_	_	_	_	_	_
+10	중	_	_	_	_	_	_	_	_
+11	이지만	_	_	_	_	_	_	_	_
+12	기원전	_	_	_	_	_	_	_	_
+13	1600	_	_	_	_	_	_	_	_
+14	년	_	_	_	_	_	_	_	_
+15	무렵	_	_	_	_	_	_	_	_
+16	청동기	_	_	_	_	_	_	_	_
+17	시대	_	_	_	_	_	_	_	_
+18	중반으로부터	_	_	_	_	_	_	_	_
+19	가나안인들의	_	_	_	_	_	_	_	_
+20	"	_	_	_	_	_	_	_	_
+21	예배소	_	_	_	_	_	_	_	_
+22	"	_	_	_	_	_	_	_	_
+23	를	_	_	_	_	_	_	_	_
+24	이루는	_	_	_	_	_	_	_	_
+25	요소	_	_	_	_	_	_	_	_
+26	일	_	_	_	_	_	_	_	_
+27	수도	_	_	_	_	_	_	_	_
+28	있다	_	_	_	_	_	_	_	_
+29	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01145012
+# text = 멕시코는 이 퍼레이드가 브라질의 카니발에 필적하는행사가 되기를 바라고 있다.
+# text_en = It's an event Mexico hopes will eventually rival the Carnival of Brazil.
+# ToDoOrigText = 멕시코는 이 퍼레이드가 브라질의 카니발에 필적하는 행사가 되기를 바라고 있다.
+# translit = .meg.si.ko.neun .i .peo.re.i.deu.ga .beu.ra.jil.yi .ka.ni.bal.e .pil.jeog.ha.neun.haeng.sa.ga .doe.gi.reul .ba.ra.go .iss.da.
+1	멕시코는	_	_	_	_	_	_	_	_
+2	이	_	_	_	_	_	_	_	_
+3	퍼레이드가	_	_	_	_	_	_	_	_
+4	브라질의	_	_	_	_	_	_	_	_
+5	카니발에	_	_	_	_	_	_	_	_
+6	필적하는	_	_	_	_	_	_	_	_
+7	행사가	_	_	_	_	_	_	_	_
+8	되기를	_	_	_	_	_	_	_	_
+9	바라고	_	_	_	_	_	_	_	_
+10	있다	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = w02005027
+# text = 그곳은 샌프란시스코 주민들에게 안식과 휴식의 공간이 되어준다.
+# text_en = It serves as a local place of rest and relaxation for San Franciscans.
+# translit = .geu.gos.eun .saen.peu.ran.si.seu.ko .ju.min.deul.e.ge .an.sig.gwa .hyu.sig.yi .gong.gan.i .doe.eo.jun.da.
+1	그곳은	_	_	_	_	_	_	_	_
+2	샌프란시스코	_	_	_	_	_	_	_	_
+3	주민들에게	_	_	_	_	_	_	_	_
+4	안식과	_	_	_	_	_	_	_	_
+5	휴식의	_	_	_	_	_	_	_	_
+6	공간이	_	_	_	_	_	_	_	_
+7	되어	_	_	_	_	_	_	_	_
+8	준다	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01074030
+# text = 그것을 당해 낼 재간이 있어야 하는데 누군가 주변을 빙빙 돌지만 말고 직접 덤벼들었으면 좋겠어요.
+# text_en = You have to stand up to that and I would rather someone ran at me rather than round me.
+# translit = .geu.geos.eul .dang.hae .nael .jae.gan.i .iss.eo.ya .ha.neun.de .nu.gun.ga .ju.byeon.eul .bing.bing .dol.ji.man .mal.go .jig.jeob .deom.byeo.deul.eoss.eu.myeon .joh.gess.eo.yo.
+1	그것을	_	_	_	_	_	_	_	_
+2	당해	_	_	_	_	_	_	_	_
+3	낼	_	_	_	_	_	_	_	_
+4	재간이	_	_	_	_	_	_	_	_
+5	있어야	_	_	_	_	_	_	_	_
+6	하는데	_	_	_	_	_	_	_	_
+7	누군	_	_	_	_	_	_	_	_
+8	가	_	_	_	_	_	_	_	_
+9	주변을	_	_	_	_	_	_	_	_
+10	빙빙	_	_	_	_	_	_	_	_
+11	돌지만	_	_	_	_	_	_	_	_
+12	말고	_	_	_	_	_	_	_	_
+13	직접	_	_	_	_	_	_	_	_
+14	덤벼들었으면	_	_	_	_	_	_	_	_
+15	좋겠어요	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01053031
+# text = 헤롯이 당시 예루살렘에 있었다는 사실로 볼 때 빌라도는 예수를 헤롯에게 보내 재판을 열기로 결심했다.
+# text_en = Given that Herod was in Jerusalem at that time, Pilate decided to send Jesus to Herod to be tried.
+# translit = .he.ros.i .dang.si .ye.ru.sal.rem.e .iss.eoss.da.neun .sa.sil.ro .bol .ddae .bil.ra.do.neun .ye.su.reul .he.ros.e.ge .bo.nae .jae.pan.eul .yeol.gi.ro .gyeol.sim.haess.da.
+1	헤롯이	_	_	_	_	_	_	_	_
+2	당시	_	_	_	_	_	_	_	_
+3	예루살렘에	_	_	_	_	_	_	_	_
+4	있었다는	_	_	_	_	_	_	_	_
+5	사실로	_	_	_	_	_	_	_	_
+6	볼	_	_	_	_	_	_	_	_
+7	때	_	_	_	_	_	_	_	_
+8	빌라도는	_	_	_	_	_	_	_	_
+9	예수를	_	_	_	_	_	_	_	_
+10	헤롯에게	_	_	_	_	_	_	_	_
+11	보내	_	_	_	_	_	_	_	_
+12	재판을	_	_	_	_	_	_	_	_
+13	열기로	_	_	_	_	_	_	_	_
+14	결심했다	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01011011
+# text = 경찰은 그녀가 거실에 있는 에어 매트리스에 안드레 프라이스 3세의 얼굴을 눌러 질식사시킨후 딸 엔젤도 같은 방법으로 죽이려 했다고 발표했다.
+# text_en = She killed Andre Price III by pressing his face into an air mattress in her sitting room before trying to do the same to her daughter, Angel, police said.
+# ToDoOrigText = 경찰은 그녀가 거실에 있는 에어 매트리스에 안드레 프라이스 3세의 얼굴을 눌러 질식사시킨 후 딸 엔젤도 같은 방법으로 죽이려 했다고 발표했다.
+# translit = .gyeong.chal.eun .geu.nyeo.ga .geo.sil.e .iss.neun .e.eo .mae.teu.ri.seu.e .an.deu.re .peu.ra.i.seu 3.se.yi .eol.gul.eul .nul.reo .jil.sig.sa.si.kin.hu .ddal .en.jel.do .gat.eun .bang.beob.eu.ro .jug.i.ryeo .haess.da.go .bal.pyo.haess.da.
+1	경찰은	_	_	_	_	_	_	_	_
+2	그녀가	_	_	_	_	_	_	_	_
+3	거실에	_	_	_	_	_	_	_	_
+4	있는	_	_	_	_	_	_	_	_
+5	에어	_	_	_	_	_	_	_	_
+6	매트리스에	_	_	_	_	_	_	_	_
+7	안드레	_	_	_	_	_	_	_	_
+8	프라이스	_	_	_	_	_	_	_	_
+9	3	_	_	_	_	_	_	_	_
+10	세의	_	_	_	_	_	_	_	_
+11	얼굴을	_	_	_	_	_	_	_	_
+12	눌러	_	_	_	_	_	_	_	_
+13	질식사시킨	_	_	_	_	_	_	_	_
+14	후	_	_	_	_	_	_	_	_
+15	딸	_	_	_	_	_	_	_	_
+16	엔젤도	_	_	_	_	_	_	_	_
+17	같은	_	_	_	_	_	_	_	_
+18	방법으로	_	_	_	_	_	_	_	_
+19	죽이려	_	_	_	_	_	_	_	_
+20	했다고	_	_	_	_	_	_	_	_
+21	발표했다	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01028050
+# text = 분쟁의 중심은 캔사스가 자유국가 또는 노예 국가로 연합에 참여하느냐에 대한 질문이었다.
+# text_en = At the heart of the conflict was the question of whether Kansas would enter the Union as a free state or slave state.
+# translit = .bun.jaeng.yi .jung.sim.eun .kaen.sa.seu.ga .ja.yu.gug.ga .ddo.neun .no.ye .gug.ga.ro .yeon.hab.e .cham.yeo.ha.neu.nya.e .dae.han .jil.mun.i.eoss.da.
+1	분쟁의	_	_	_	_	_	_	_	_
+2	중심은	_	_	_	_	_	_	_	_
+3	캔사스가	_	_	_	_	_	_	_	_
+4	자유	_	_	_	_	_	_	_	_
+5	국가	_	_	_	_	_	_	_	_
+6	또는	_	_	_	_	_	_	_	_
+7	노예	_	_	_	_	_	_	_	_
+8	국가로	_	_	_	_	_	_	_	_
+9	연합에	_	_	_	_	_	_	_	_
+10	참여하느냐에	_	_	_	_	_	_	_	_
+11	대한	_	_	_	_	_	_	_	_
+12	질문	_	_	_	_	_	_	_	_
+13	이었다	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01141020
+# text = 그러한 행보는 사용자가 자사 제품을 단순히 생산성 도구가 아니라 그 이상의 것으로 생각해주기를 바라는 회사의 욕구를 부각시켰다.
+# text_en = The move highlighted the company's desire for users to start thinking of its products as more than just productivity tools.
+# ToDoOrigText = 그러한 행보는 사용자가 자사 제품을 단순히 생산성 도구가 아니라 그 이상의 것으로 생각해 주기를 바라는 회사의 욕구를 부각시켰다.
+# translit = .geu.reo.han .haeng.bo.neun .sa.yong.ja.ga .ja.sa .je.pum.eul .dan.sun.hi .saeng.san.seong .do.gu.ga .a.ni.ra .geu .i.sang.yi .geos.eu.ro .saeng.gag.hae.ju.gi.reul .ba.ra.neun .hoe.sa.yi .yog.gu.reul .bu.gag.si.kyeoss.da.
+1	그러한	_	_	_	_	_	_	_	_
+2	행보는	_	_	_	_	_	_	_	_
+3	사용자가	_	_	_	_	_	_	_	_
+4	자사	_	_	_	_	_	_	_	_
+5	제품을	_	_	_	_	_	_	_	_
+6	단순히	_	_	_	_	_	_	_	_
+7	생산성	_	_	_	_	_	_	_	_
+8	도구가	_	_	_	_	_	_	_	_
+9	아니라	_	_	_	_	_	_	_	_
+10	그	_	_	_	_	_	_	_	_
+11	이상의	_	_	_	_	_	_	_	_
+12	것으로	_	_	_	_	_	_	_	_
+13	생각해	_	_	_	_	_	_	_	_
+14	주기를	_	_	_	_	_	_	_	_
+15	바라는	_	_	_	_	_	_	_	_
+16	회사의	_	_	_	_	_	_	_	_
+17	욕구를	_	_	_	_	_	_	_	_
+18	부각시켰다	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01063051
+# text = 그들의 리바이벌 곡은 예술적이든 아니든 불편함, 성장, 의미 있는 연결 등 좋은 도전의 매력을 강조한다.
+# text_en = Their revivals underscore the appeal of a good challenge, artistic or otherwise: discomfort, growth, and a meaningful connection.
+# translit = .geu.deul.yi .ri.ba.i.beol .gog.eun .ye.sul.jeog.i.deun .a.ni.deun .bul.pyeon.ham, .seong.jang, .yi.mi .iss.neun .yeon.gyeol .deung .joh.eun .do.jeon.yi .mae.ryeog.eul .gang.jo.han.da.
+1	그들의	_	_	_	_	_	_	_	_
+2	리바이벌	_	_	_	_	_	_	_	_
+3	곡은	_	_	_	_	_	_	_	_
+4	예술적	_	_	_	_	_	_	_	_
+5	이든	_	_	_	_	_	_	_	_
+6	아니든	_	_	_	_	_	_	_	_
+7	불편함	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	성장	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	의미	_	_	_	_	_	_	_	_
+12	있는	_	_	_	_	_	_	_	_
+13	연결	_	_	_	_	_	_	_	_
+14	등	_	_	_	_	_	_	_	_
+15	좋은	_	_	_	_	_	_	_	_
+16	도전의	_	_	_	_	_	_	_	_
+17	매력을	_	_	_	_	_	_	_	_
+18	강조한다	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = w04009042
+# text = 그 남자는 자신과 월터가 예상한것처럼 두 은하계사이의 전쟁이 다가오고 있다고 말했고, 이런 이유로 올리비아는 그 중에서도 어린이로서 훈련을 받았다.
+# text_en = The man told him that a war between the two universes is coming, as he and Walter had predicted; it is for this reason that Olivia, among others, was trained as a child.
+# ToDoOrigText = 그 남자는 자신과 월터가 예상한 것처럼 두 은하계 사이의 전쟁이 다가오고 있다고 말했고, 이런 이유로 올리비아는 그 중에서도 어린이로서 훈련을 받았다.
+# translit = .geu .nam.ja.neun .ja.sin.gwa .weol.teo.ga .ye.sang.han.geos.cheo.reom .du .eun.ha.gye.sa.i.yi .jeon.jaeng.i .da.ga.o.go .iss.da.go .mal.haess.go, .i.reon .i.yu.ro .ol.ri.bi.a.neun .geu .jung.e.seo.do .eo.rin.i.ro.seo .hun.ryeon.eul .bad.ass.da.
+1	그	_	_	_	_	_	_	_	_
+2	남자는	_	_	_	_	_	_	_	_
+3	자신과	_	_	_	_	_	_	_	_
+4	월터가	_	_	_	_	_	_	_	_
+5	예상한	_	_	_	_	_	_	_	_
+6	것처럼	_	_	_	_	_	_	_	_
+7	두	_	_	_	_	_	_	_	_
+8	은하계	_	_	_	_	_	_	_	_
+9	사이의	_	_	_	_	_	_	_	_
+10	전쟁이	_	_	_	_	_	_	_	_
+11	다가오고	_	_	_	_	_	_	_	_
+12	있다고	_	_	_	_	_	_	_	_
+13	말했고	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	이런	_	_	_	_	_	_	_	_
+16	이유로	_	_	_	_	_	_	_	_
+17	올리비아는	_	_	_	_	_	_	_	_
+18	그	_	_	_	_	_	_	_	_
+19	중에서	_	_	_	_	_	_	_	_
+20	도	_	_	_	_	_	_	_	_
+21	어린이로서	_	_	_	_	_	_	_	_
+22	훈련을	_	_	_	_	_	_	_	_
+23	받았다	_	_	_	_	_	_	_	_
+24	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01023034
+# text = 이것으로 지구에 불시에 닥쳐서 공룡뿐 아니라 수많은 생물종들을 망각 속으로 사라지게 만든 환경 변화의 성격은 새로운 한계에 봉착하게될 것이다.
+# text_en = This will put new limits on the nature of the environmental changes that overtook the Earth and sent so many species - not just the dinosaurs - into oblivion.
+# ToDoOrigText = 이것으로 지구에 불시에 닥쳐서 공룡뿐 아니라 수많은 생물종들을 망각 속으로 사라지게 만든 환경 변화의 성격은 새로운 한계에 봉착하게 될 것이다.
+# translit = .i.geos.eu.ro .ji.gu.e .bul.si.e .dag.chyeo.seo .gong.ryong.bbun .a.ni.ra .su.manh.eun .saeng.mul.jong.deul.eul .mang.gag .sog.eu.ro .sa.ra.ji.ge .man.deun .hwan.gyeong .byeon.hwa.yi .seong.gyeog.eun .sae.ro.un .han.gye.e .bong.chag.ha.ge.doel .geos.i.da.
+1	이것으로	_	_	_	_	_	_	_	_
+2	지구에	_	_	_	_	_	_	_	_
+3	불시에	_	_	_	_	_	_	_	_
+4	닥쳐서	_	_	_	_	_	_	_	_
+5	공룡뿐	_	_	_	_	_	_	_	_
+6	아니라	_	_	_	_	_	_	_	_
+7	수많은	_	_	_	_	_	_	_	_
+8	생물	_	_	_	_	_	_	_	_
+9	종들을	_	_	_	_	_	_	_	_
+10	망각	_	_	_	_	_	_	_	_
+11	속으로	_	_	_	_	_	_	_	_
+12	사라지게	_	_	_	_	_	_	_	_
+13	만든	_	_	_	_	_	_	_	_
+14	환경	_	_	_	_	_	_	_	_
+15	변화의	_	_	_	_	_	_	_	_
+16	성격은	_	_	_	_	_	_	_	_
+17	새로운	_	_	_	_	_	_	_	_
+18	한계에	_	_	_	_	_	_	_	_
+19	봉착하게	_	_	_	_	_	_	_	_
+20	될	_	_	_	_	_	_	_	_
+21	것	_	_	_	_	_	_	_	_
+22	이다	_	_	_	_	_	_	_	_
+23	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01047048
+# text = 바로 그렇기 때문에 계속해서더 많은 것을 요구하게된다.
+# text_en = That's what keeps us coming back for more.
+# ToDoOrigText = 바로 그렇기 때문에 계속해서 더 많은 것을 요구하게 된다.
+# translit = .ba.ro .geu.reoh.gi .ddae.mun.e .gye.sog.hae.seo.deo .manh.eun .geos.eul .yo.gu.ha.ge.doen.da.
+1	바로	_	_	_	_	_	_	_	_
+2	그렇기	_	_	_	_	_	_	_	_
+3	때문에	_	_	_	_	_	_	_	_
+4	계속해서	_	_	_	_	_	_	_	_
+5	더	_	_	_	_	_	_	_	_
+6	많은	_	_	_	_	_	_	_	_
+7	것을	_	_	_	_	_	_	_	_
+8	요구하게	_	_	_	_	_	_	_	_
+9	된다	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01039018
+# text = 그것은 우리 나라에 필요한것이 아닙니다, 여러분.
+# text_en = That's not what we need in our country, folks.
+# ToDoOrigText = 그것은 우리 나라에 필요한 것이 아닙니다, 여러분.
+# translit = .geu.geos.eun .u.ri .na.ra.e .pil.yo.han.geos.i .a.nib.ni.da, .yeo.reo.bun.
+1	그것은	_	_	_	_	_	_	_	_
+2	우리	_	_	_	_	_	_	_	_
+3	나라	_	_	_	_	_	_	_	_
+4	에	_	_	_	_	_	_	_	_
+5	필요한	_	_	_	_	_	_	_	_
+6	것이	_	_	_	_	_	_	_	_
+7	아닙니다	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	여러분	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = w04004051
+# text = 이후 두 번째 아풀리아 및 칼라브리아 왕조를 수립했으며몰리세 및 동쪽 바실리카타의 일부인 삼니움도 포함됐다.
+# text_en = The second Apulian and Calabrian Royal Region was then established, also including Samnium, parts of Molise and the oriental Basilicata.
+# ToDoOrigText = 이후 두 번째 아풀리아 및 칼라브리아 왕조를 수립했으며 몰리세 및 동쪽 바실리카타의 일부인 삼니움도 포함됐다.
+# translit = .i.hu .du .beon.jjae .a.pul.ri.a .mich .kal.ra.beu.ri.a .wang.jo.reul .su.rib.haess.eu.myeo.mol.ri.se .mich .dong.jjog .ba.sil.ri.ka.ta.yi .il.bu.in .sam.ni.um.do .po.ham.dwaess.da.
+1	이후	_	_	_	_	_	_	_	_
+2	두	_	_	_	_	_	_	_	_
+3	번째	_	_	_	_	_	_	_	_
+4	아풀리아	_	_	_	_	_	_	_	_
+5	및	_	_	_	_	_	_	_	_
+6	칼라브리아	_	_	_	_	_	_	_	_
+7	왕조를	_	_	_	_	_	_	_	_
+8	수립했으며	_	_	_	_	_	_	_	_
+9	몰리세	_	_	_	_	_	_	_	_
+10	및	_	_	_	_	_	_	_	_
+11	동쪽	_	_	_	_	_	_	_	_
+12	바실리카타의	_	_	_	_	_	_	_	_
+13	일부	_	_	_	_	_	_	_	_
+14	인	_	_	_	_	_	_	_	_
+15	삼니움도	_	_	_	_	_	_	_	_
+16	포함됐다	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01113046
+# text = 그는 또한 2013년에는 다섯 개, 2014년에는 네 개의 전통시장을 건설하고리모델링하였다.
+# text_en = He also built and renovated five traditional markets in 2013 and four traditional markets in 2014.
+# ToDoOrigText = 그는 또한 2013년에는 다섯 개, 2014년에는 네 개의 전통시장을 건설하고 리모델링하였다.
+# translit = .geu.neun .ddo.han 2013.nyeon.e.neun .da.seos .gae, 2014.nyeon.e.neun .ne .gae.yi .jeon.tong.si.jang.eul .geon.seol.ha.go.ri.mo.del.ring.ha.yeoss.da.
+1	그는	_	_	_	_	_	_	_	_
+2	또한	_	_	_	_	_	_	_	_
+3	2013	_	_	_	_	_	_	_	_
+4	년에는	_	_	_	_	_	_	_	_
+5	다섯	_	_	_	_	_	_	_	_
+6	개	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	2014	_	_	_	_	_	_	_	_
+9	년에는	_	_	_	_	_	_	_	_
+10	네	_	_	_	_	_	_	_	_
+11	개의	_	_	_	_	_	_	_	_
+12	전통	_	_	_	_	_	_	_	_
+13	시장을	_	_	_	_	_	_	_	_
+14	건설하고	_	_	_	_	_	_	_	_
+15	리모델링하였다	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = n02046037
+# text = 지금으로서는 어느 쪽인지 불분명하다.
+# text_en = It is now only unclear, in which one.
+# translit = .ji.geum.eu.ro.seo.neun .eo.neu .jjog.in.ji .bul.bun.myeong.ha.da.
+1	지금으로서	_	_	_	_	_	_	_	_
+2	는	_	_	_	_	_	_	_	_
+3	어느	_	_	_	_	_	_	_	_
+4	쪽	_	_	_	_	_	_	_	_
+5	인지	_	_	_	_	_	_	_	_
+6	불분명하다	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01143015
+# text = 여배우인 글로리아 홀덴과 이혼한지 얼마 되지 않았지만 결혼생활이 파탄이 난 후 짝사랑을 했다.
+# text_en = Not long ago he was divorced from the actress, Gloria Holden, but carried the torch after the marital rift.
+# translit = .yeo.bae.u.in .geul.ro.ri.a .hol.den.gwa .i.hon.han.ji .eol.ma .doe.ji .anh.ass.ji.man .gyeol.hon.saeng.hwal.i .pa.tan.i .nan .hu .jjag.sa.rang.eul .haess.da.
+1	여배우	_	_	_	_	_	_	_	_
+2	인	_	_	_	_	_	_	_	_
+3	글로리아	_	_	_	_	_	_	_	_
+4	홀덴	_	_	_	_	_	_	_	_
+5	과	_	_	_	_	_	_	_	_
+6	이혼한	_	_	_	_	_	_	_	_
+7	지	_	_	_	_	_	_	_	_
+8	얼마	_	_	_	_	_	_	_	_
+9	되지	_	_	_	_	_	_	_	_
+10	않았지만	_	_	_	_	_	_	_	_
+11	결혼	_	_	_	_	_	_	_	_
+12	생활이	_	_	_	_	_	_	_	_
+13	파탄이	_	_	_	_	_	_	_	_
+14	난	_	_	_	_	_	_	_	_
+15	후	_	_	_	_	_	_	_	_
+16	짝사랑을	_	_	_	_	_	_	_	_
+17	했다	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01061023
+# text = 도널드 트럼프로 분장한존 디 도메니코는 지난 해 슬레이트에게 “나는 트럼프로 분장했을때 강한 사람이 된 듯한느낌이 듭니다”라고 설명했다.
+# text_en = “When I’m playing him, I feel powerful,” the Donald Trump impersonator John Di Domenico explained to Slate last year.
+# ToDoOrigText = 도널드 트럼프로 분장한 존 디 도메니코는 지난 해 슬레이트에게 “나는 트럼프로 분장했을 때 강한 사람이 된 듯한 느낌이 듭니다”라고 설명했다.
+# translit = .do.neol.deu .teu.reom.peu.ro .bun.jang.han.jon .di .do.me.ni.ko.neun .ji.nan .hae .seul.re.i.teu.e.ge “.na.neun .teu.reom.peu.ro .bun.jang.haess.eul.ddae .gang.han .sa.ram.i .doen .deus.han.neu.ggim.i .deub.ni.da”.ra.go .seol.myeong.haess.da.
+1	도널드	_	_	_	_	_	_	_	_
+2	트럼프	_	_	_	_	_	_	_	_
+3	로	_	_	_	_	_	_	_	_
+4	분장한	_	_	_	_	_	_	_	_
+5	존	_	_	_	_	_	_	_	_
+6	디	_	_	_	_	_	_	_	_
+7	도메니코는	_	_	_	_	_	_	_	_
+8	지난	_	_	_	_	_	_	_	_
+9	해	_	_	_	_	_	_	_	_
+10	슬레이트에게	_	_	_	_	_	_	_	_
+11	“	_	_	_	_	_	_	_	_
+12	나는	_	_	_	_	_	_	_	_
+13	트럼프로	_	_	_	_	_	_	_	_
+14	분장했을	_	_	_	_	_	_	_	_
+15	때	_	_	_	_	_	_	_	_
+16	강한	_	_	_	_	_	_	_	_
+17	사람이	_	_	_	_	_	_	_	_
+18	된	_	_	_	_	_	_	_	_
+19	듯한	_	_	_	_	_	_	_	_
+20	느낌이	_	_	_	_	_	_	_	_
+21	듭니다	_	_	_	_	_	_	_	_
+22	”	_	_	_	_	_	_	_	_
+23	라고	_	_	_	_	_	_	_	_
+24	설명했다	_	_	_	_	_	_	_	_
+25	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01072065
+# text = 로마화의 첫 단계에서 로마인들은 이탈리아 반도를 행정상의 목적으로 두 개로 나눴다.
+# text_en = During the first stages of Romanization, the peninsula was divided in two by the Romans for administrative purposes.
+# translit = .ro.ma.hwa.yi .cheos .dan.gye.e.seo .ro.ma.in.deul.eun .i.tal.ri.a .ban.do.reul .haeng.jeong.sang.yi .mog.jeog.eu.ro .du .gae.ro .na.nweoss.da.
+1	로마화의	_	_	_	_	_	_	_	_
+2	첫	_	_	_	_	_	_	_	_
+3	단계에서	_	_	_	_	_	_	_	_
+4	로마인들은	_	_	_	_	_	_	_	_
+5	이탈리아	_	_	_	_	_	_	_	_
+6	반도를	_	_	_	_	_	_	_	_
+7	행정상의	_	_	_	_	_	_	_	_
+8	목적으로	_	_	_	_	_	_	_	_
+9	두	_	_	_	_	_	_	_	_
+10	개로	_	_	_	_	_	_	_	_
+11	나눴다	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01130101
+# text = 자신 또한 싱어송라이터이며 1970년대 데카 레코드와의 계약을 체결한래퍼티의 형인 짐과 공동 작곡한세 곡도 포함되어있다.
+# text_en = It included three tracks cowritten with Rafferty's brother Jim, also a singer-songwriter, who had been signed to Decca Records in the 1970s.
+# ToDoOrigText = 자신 또한 싱어송라이터이며 1970년대 데카 레코드와의 계약을 체결한 래퍼티의 형인 짐과 공동 작곡한 세 곡도 포함되어 있다.
+# translit = .ja.sin .ddo.han .sing.eo.song.ra.i.teo.i.myeo 1970.nyeon.dae .de.ka .re.ko.deu.wa.yi .gye.yag.eul .che.gyeol.han.rae.peo.ti.yi .hyeong.in .jim.gwa .gong.dong .jag.gog.han.se .gog.do .po.ham.doe.eo.iss.da.
+1	자신	_	_	_	_	_	_	_	_
+2	또한	_	_	_	_	_	_	_	_
+3	싱어송라이터	_	_	_	_	_	_	_	_
+4	이며	_	_	_	_	_	_	_	_
+5	1970	_	_	_	_	_	_	_	_
+6	년대	_	_	_	_	_	_	_	_
+7	데카	_	_	_	_	_	_	_	_
+8	레코드	_	_	_	_	_	_	_	_
+9	와	_	_	_	_	_	_	_	_
+10	의	_	_	_	_	_	_	_	_
+11	계약을	_	_	_	_	_	_	_	_
+12	체결한	_	_	_	_	_	_	_	_
+13	래퍼티의	_	_	_	_	_	_	_	_
+14	형	_	_	_	_	_	_	_	_
+15	인	_	_	_	_	_	_	_	_
+16	짐과	_	_	_	_	_	_	_	_
+17	공동	_	_	_	_	_	_	_	_
+18	작곡한	_	_	_	_	_	_	_	_
+19	세	_	_	_	_	_	_	_	_
+20	곡도	_	_	_	_	_	_	_	_
+21	포함되어	_	_	_	_	_	_	_	_
+22	있다	_	_	_	_	_	_	_	_
+23	.	_	_	_	_	_	_	_	_
+
+# sent_id = w04001037
+# text = 또한, 여름에는 섬에 허리케인이 발생할수 있다.
+# text_en = Furthermore, the occurrence of hurricanes on the island is possible during the summer.
+# ToDoOrigText = 또한, 여름에는 섬에 허리케인이 발생할 수 있다.
+# translit = .ddo.han, .yeo.reum.e.neun .seom.e .heo.ri.ke.in.i .bal.saeng.hal.su .iss.da.
+1	또한	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	여름에는	_	_	_	_	_	_	_	_
+4	섬에	_	_	_	_	_	_	_	_
+5	허리케인이	_	_	_	_	_	_	_	_
+6	발생할	_	_	_	_	_	_	_	_
+7	수	_	_	_	_	_	_	_	_
+8	있다	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01106073
+# text = 고도가 높기 때문에 기후가 서늘했는데 그렇지 않았으면 아주 더웠을 것이다.
+# text_en = The high altitude serves to cool the climate, which would otherwise be very hot.
+# translit = .go.do.ga .nop.gi .ddae.mun.e .gi.hu.ga .seo.neul.haess.neun.de .geu.reoh.ji .anh.ass.eu.myeon .a.ju .deo.weoss.eul .geos.i.da.
+1	고도가	_	_	_	_	_	_	_	_
+2	높기	_	_	_	_	_	_	_	_
+3	때문에	_	_	_	_	_	_	_	_
+4	기후가	_	_	_	_	_	_	_	_
+5	서늘했는데	_	_	_	_	_	_	_	_
+6	그렇지	_	_	_	_	_	_	_	_
+7	않았으면	_	_	_	_	_	_	_	_
+8	아주	_	_	_	_	_	_	_	_
+9	더웠을	_	_	_	_	_	_	_	_
+10	것	_	_	_	_	_	_	_	_
+11	이다	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01147010
+# text = 페브는 1991년 자신이 작사한작품에 대한 새로운 저작권을 보호한후 가족이 있는 테네시 주 내시빌로 옮겨갔다.
+# text_en = Pebe moved the family to Nashville, Tennessee, in 1991 after securing a new publishing deal for her songwriting.
+# ToDoOrigText = 페브는 1991년 자신이 작사한 작품에 대한 새로운 저작권을 보호한 후 가족이 있는 테네시 주 내시빌로 옮겨갔다.
+# translit = .pe.beu.neun 1991.nyeon .ja.sin.i .jag.sa.han.jag.pum.e .dae.han .sae.ro.un .jeo.jag.gweon.eul .bo.ho.han.hu .ga.jog.i .iss.neun .te.ne.si .ju .nae.si.bil.ro .orm.gyeo.gass.da.
+1	페브는	_	_	_	_	_	_	_	_
+2	1991	_	_	_	_	_	_	_	_
+3	년	_	_	_	_	_	_	_	_
+4	자신이	_	_	_	_	_	_	_	_
+5	작사한	_	_	_	_	_	_	_	_
+6	작품에	_	_	_	_	_	_	_	_
+7	대한	_	_	_	_	_	_	_	_
+8	새로운	_	_	_	_	_	_	_	_
+9	저작권을	_	_	_	_	_	_	_	_
+10	보호한	_	_	_	_	_	_	_	_
+11	후	_	_	_	_	_	_	_	_
+12	가족이	_	_	_	_	_	_	_	_
+13	있는	_	_	_	_	_	_	_	_
+14	테네시	_	_	_	_	_	_	_	_
+15	주	_	_	_	_	_	_	_	_
+16	내시빌로	_	_	_	_	_	_	_	_
+17	옮겨	_	_	_	_	_	_	_	_
+18	갔다	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = n02033063
+# text = 쿤은 그저 고개만 저었다.
+# text_en = Kühn can only shake his head.
+# translit = .kun.eun .geu.jeo .go.gae.man .jeo.eoss.da.
+1	쿤은	_	_	_	_	_	_	_	_
+2	그저	_	_	_	_	_	_	_	_
+3	고개만	_	_	_	_	_	_	_	_
+4	저었다	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01039058
+# text = 브리즈번이 발전하면서강의 상태는 악화돼하수와 쓰레기 더미만 남을 정도였다.
+# text_en = As Brisbane grew, the condition of the river worsened until at its worst it was no more than an open sewer and waste dump.
+# ToDoOrigText = 브리즈번이 발전하면서 강의 상태는 악화돼 하수와 쓰레기 더미만 남을 정도였다.
+# translit = .beu.ri.jeu.beon.i .bal.jeon.ha.myeon.seo.gang.yi .sang.tae.neun .ag.hwa.dwae.ha.su.wa .sseu.re.gi .deo.mi.man .nam.eul .jeong.do.yeoss.da.
+1	브리즈번이	_	_	_	_	_	_	_	_
+2	발전하면서	_	_	_	_	_	_	_	_
+3	강의	_	_	_	_	_	_	_	_
+4	상태는	_	_	_	_	_	_	_	_
+5	악화돼	_	_	_	_	_	_	_	_
+6	하수와	_	_	_	_	_	_	_	_
+7	쓰레기	_	_	_	_	_	_	_	_
+8	더미만	_	_	_	_	_	_	_	_
+9	남을	_	_	_	_	_	_	_	_
+10	정도	_	_	_	_	_	_	_	_
+11	였다	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01109012
+# text = Eon의 고정 금리 관세는 760파운드이고 Avro Energy 고객은 Simple and Select 관세로 약 760파운드를 지불할것이다.
+# text_en = Eon’s fixed rate tariff costs £760 and Avro Energy customers would pay around £760 for its Simple and Select tariff.
+# ToDoOrigText = Eon의 고정 금리 관세는 760파운드이고 Avro Energy 고객은 Simple and Select 관세로 약 760파운드를 지불할 것이다.
+# translit = Eon.yi .go.jeong .geum.ri .gwan.se.neun 760.pa.un.deu.i.go Avro Energy .go.gaeg.eun Simple and Select .gwan.se.ro .yag 760.pa.un.deu.reul .ji.bul.hal.geos.i.da.
+1	Eon의	_	_	_	_	_	_	_	_
+2	고정	_	_	_	_	_	_	_	_
+3	금리	_	_	_	_	_	_	_	_
+4	관세는	_	_	_	_	_	_	_	_
+5	760	_	_	_	_	_	_	_	_
+6	파운드	_	_	_	_	_	_	_	_
+7	이고	_	_	_	_	_	_	_	_
+8	Avro	_	_	_	_	_	_	_	_
+9	Energy	_	_	_	_	_	_	_	_
+10	고객은	_	_	_	_	_	_	_	_
+11	Simple	_	_	_	_	_	_	_	_
+12	and	_	_	_	_	_	_	_	_
+13	Select	_	_	_	_	_	_	_	_
+14	관세로	_	_	_	_	_	_	_	_
+15	약	_	_	_	_	_	_	_	_
+16	760	_	_	_	_	_	_	_	_
+17	파운드를	_	_	_	_	_	_	_	_
+18	지불할	_	_	_	_	_	_	_	_
+19	것	_	_	_	_	_	_	_	_
+20	이다	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01150044
+# text = 강대국들은 알바니아를 인정하라는요청을 충족하지못했다.
+# text_en = The Great Powers did not fulfill the requests for recognition of Albania.
+# ToDoOrigText = 강대국들은 알바니아를 인정하라는 요청을 충족하지 못했다.
+# translit = .gang.dae.gug.deul.eun .al.ba.ni.a.reul .in.jeong.ha.ra.neun.yo.cheong.eul .chung.jog.ha.ji.mos.haess.da.
+1	강대국들은	_	_	_	_	_	_	_	_
+2	알바니아를	_	_	_	_	_	_	_	_
+3	인정하라는	_	_	_	_	_	_	_	_
+4	요청을	_	_	_	_	_	_	_	_
+5	충족하지	_	_	_	_	_	_	_	_
+6	못했다	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01022027
+# text = 파리 기후 협약을 체결한것은 멋진 일이지만 지금까지 각국의 감축 기여도는 목표한1.5도를 달성하기에는 한참 역부족이다.
+# text_en = It's fantastic that they got the Paris Agreement but their contributions at the moment are nowhere near the 1.5-degree target.
+# ToDoOrigText = 파리 기후 협약을 체결한 것은 멋진 일이지만 지금까지 각국의 감축 기여도는 목표한 1.5도를 달성하기에는 한참 역부족이다.
+# translit = .pa.ri .gi.hu .hyeob.yag.eul .che.gyeol.han.geos.eun .meos.jin .il.i.ji.man .ji.geum.gga.ji .gag.gug.yi .gam.chug .gi.yeo.do.neun .mog.pyo.han1.5.do.reul .dal.seong.ha.gi.e.neun .han.cham .yeog.bu.jog.i.da.
+1	파리	_	_	_	_	_	_	_	_
+2	기후	_	_	_	_	_	_	_	_
+3	협약을	_	_	_	_	_	_	_	_
+4	체결한	_	_	_	_	_	_	_	_
+5	것은	_	_	_	_	_	_	_	_
+6	멋진	_	_	_	_	_	_	_	_
+7	일	_	_	_	_	_	_	_	_
+8	이지만	_	_	_	_	_	_	_	_
+9	지금까지	_	_	_	_	_	_	_	_
+10	각국의	_	_	_	_	_	_	_	_
+11	감축	_	_	_	_	_	_	_	_
+12	기여도는	_	_	_	_	_	_	_	_
+13	목표한	_	_	_	_	_	_	_	_
+14	1.5	_	_	_	_	_	_	_	_
+15	도를	_	_	_	_	_	_	_	_
+16	달성하기에는	_	_	_	_	_	_	_	_
+17	한참	_	_	_	_	_	_	_	_
+18	역부족	_	_	_	_	_	_	_	_
+19	이다	_	_	_	_	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = w04007006
+# text = 프랑스 혁명 이후 제1차 대프랑스 동맹에서 한 줄기 빛이 코르시카 출신의 젊은 포병 장교에게 비추기 시작했는데, 그는 바로 나폴레옹 보나파르트였다.
+# text_en = During the War of the First Coalition, light quickly began to be shed upon a young Corsican artillery officer, following the French Revolution: Napoleon Bonaparte.
+# translit = .peu.rang.seu .hyeog.myeong .i.hu .je1.cha .dae.peu.rang.seu .dong.maeng.e.seo .han .jul.gi .bich.i .ko.reu.si.ka .chul.sin.yi .jeorm.eun .po.byeong .jang.gyo.e.ge .bi.chu.gi .si.jag.haess.neun.de, .geu.neun .ba.ro .na.pol.re.ong .bo.na.pa.reu.teu.yeoss.da.
+1	프랑스	_	_	_	_	_	_	_	_
+2	혁명	_	_	_	_	_	_	_	_
+3	이후	_	_	_	_	_	_	_	_
+4	제1	_	_	_	_	_	_	_	_
+5	차	_	_	_	_	_	_	_	_
+6	대프랑스	_	_	_	_	_	_	_	_
+7	동맹에서	_	_	_	_	_	_	_	_
+8	한	_	_	_	_	_	_	_	_
+9	줄기	_	_	_	_	_	_	_	_
+10	빛이	_	_	_	_	_	_	_	_
+11	코르시카	_	_	_	_	_	_	_	_
+12	출신의	_	_	_	_	_	_	_	_
+13	젊은	_	_	_	_	_	_	_	_
+14	포병	_	_	_	_	_	_	_	_
+15	장교에게	_	_	_	_	_	_	_	_
+16	비추기	_	_	_	_	_	_	_	_
+17	시작했는데	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	그는	_	_	_	_	_	_	_	_
+20	바로	_	_	_	_	_	_	_	_
+21	나폴레옹	_	_	_	_	_	_	_	_
+22	보나파르트	_	_	_	_	_	_	_	_
+23	였다	_	_	_	_	_	_	_	_
+24	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01085007
+# text = 미국은 미군점령 이후 쿠바를 해방시켰다.
+# text_en = The United States freed Cuba (after an occupation by the U.S. Army).
+# ToDoOrigText = 미국은 미군 점령 이후 쿠바를 해방시켰다.
+# translit = .mi.gug.eun .mi.gun.jeom.ryeong .i.hu .ku.ba.reul .hae.bang.si.kyeoss.da.
+1	미국은	_	_	_	_	_	_	_	_
+2	미군	_	_	_	_	_	_	_	_
+3	점령	_	_	_	_	_	_	_	_
+4	이후	_	_	_	_	_	_	_	_
+5	쿠바를	_	_	_	_	_	_	_	_
+6	해방시켰다	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = n02078011
+# text = 부동산 호경기와 연방 지출 증가세가 둔화될전망이다.
+# text_en = One expects a bump from the booming real estate market and increasing federal expenditures.
+# ToDoOrigText = 부동산 호경기와 연방 지출 증가세가 둔화될 전망이다.
+# translit = .bu.dong.san .ho.gyeong.gi.wa .yeon.bang .ji.chul .jeung.ga.se.ga .dun.hwa.doel.jeon.mang.i.da.
+1	부동산	_	_	_	_	_	_	_	_
+2	호경기와	_	_	_	_	_	_	_	_
+3	연방	_	_	_	_	_	_	_	_
+4	지출	_	_	_	_	_	_	_	_
+5	증가세가	_	_	_	_	_	_	_	_
+6	둔화될	_	_	_	_	_	_	_	_
+7	전망	_	_	_	_	_	_	_	_
+8	이다	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01048090
+# text = 1960년대 이후로 한국 경제는 괄목할성장을 기록했으며경제 구조도 빠르게 개편되었다.
+# text_en = Since the 1960s, the South Korean economy has grown enormously and the economic structure was radically transformed.
+# ToDoOrigText = 1960년대 이후로 한국 경제는 괄목할 성장을 기록했으며 경제 구조도 빠르게 개편되었다.
+# translit = 1960.nyeon.dae .i.hu.ro .han.gug .gyeong.je.neun .gwal.mog.hal.seong.jang.eul .gi.rog.haess.eu.myeo.gyeong.je .gu.jo.do .bba.reu.ge .gae.pyeon.doe.eoss.da.
+1	1960	_	_	_	_	_	_	_	_
+2	년대	_	_	_	_	_	_	_	_
+3	이후로	_	_	_	_	_	_	_	_
+4	한국	_	_	_	_	_	_	_	_
+5	경제는	_	_	_	_	_	_	_	_
+6	괄목할	_	_	_	_	_	_	_	_
+7	성장을	_	_	_	_	_	_	_	_
+8	기록했으며	_	_	_	_	_	_	_	_
+9	경제	_	_	_	_	_	_	_	_
+10	구조도	_	_	_	_	_	_	_	_
+11	빠르게	_	_	_	_	_	_	_	_
+12	개편되었다	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01046036
+# text = 지난 달 SaskTel 무제한 데이터 고객 린제이 게이는 놀랍다고 보고했다.
+# text_en = "It is amazing," reported SaskTel unlimited data customer Lindsay Gay last month.
+# translit = .ji.nan .dal SaskTel .mu.je.han .de.i.teo .go.gaeg .rin.je.i .ge.i.neun .nol.rab.da.go .bo.go.haess.da.
+1	지난	_	_	_	_	_	_	_	_
+2	달	_	_	_	_	_	_	_	_
+3	SaskTel	_	_	_	_	_	_	_	_
+4	무제한	_	_	_	_	_	_	_	_
+5	데이터	_	_	_	_	_	_	_	_
+6	고객	_	_	_	_	_	_	_	_
+7	린제이	_	_	_	_	_	_	_	_
+8	게이	_	_	_	_	_	_	_	_
+9	는	_	_	_	_	_	_	_	_
+10	놀랍다고	_	_	_	_	_	_	_	_
+11	보고했다	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = n05006013
+# text = 강조, 정교한아이러니, 퉁명스러운풍자, 그 외에 잘 사용된언어적장치는 의회 수사에 딱 맞았으나 만담과 기타 슬랩스틱 코미디는 그렇지 않다.
+# text_en = Emphasis, fine irony, blunt innuendos and other well used verbal devices fit into parliamentary oratory, but flicking at each other and slapstick comedy do not.
+# ToDoOrigText = 강조, 정교한 아이러니, 퉁명스러운 풍자, 그 외에 잘 사용된 언어적 장치는 의회 수사에 딱 맞았으나 만담과 기타 슬랩스틱 코미디는 그렇지 않다.
+# translit = .gang.jo, .jeong.gyo.han.a.i.reo.ni, .tung.myeong.seu.reo.un.pung.ja, .geu .oe.e .jal .sa.yong.doen.eon.eo.jeog.jang.chi.neun .yi.hoe .su.sa.e .ddag .maj.ass.eu.na .man.dam.gwa .gi.ta .seul.raeb.seu.tig .ko.mi.di.neun .geu.reoh.ji .anh.da.
+1	강조	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	정교한	_	_	_	_	_	_	_	_
+4	아이러니	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	퉁명스러운	_	_	_	_	_	_	_	_
+7	풍자	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	그	_	_	_	_	_	_	_	_
+10	외에	_	_	_	_	_	_	_	_
+11	잘	_	_	_	_	_	_	_	_
+12	사용된	_	_	_	_	_	_	_	_
+13	언어적	_	_	_	_	_	_	_	_
+14	장치는	_	_	_	_	_	_	_	_
+15	의회	_	_	_	_	_	_	_	_
+16	수사에	_	_	_	_	_	_	_	_
+17	딱	_	_	_	_	_	_	_	_
+18	맞았으나	_	_	_	_	_	_	_	_
+19	만담과	_	_	_	_	_	_	_	_
+20	기타	_	_	_	_	_	_	_	_
+21	슬랩스틱	_	_	_	_	_	_	_	_
+22	코미디는	_	_	_	_	_	_	_	_
+23	그렇지	_	_	_	_	_	_	_	_
+24	않다	_	_	_	_	_	_	_	_
+25	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01111089
+# text = 윈스턴은 1979년 그 여름이란 작품을 찍으면서 부인인 엘레인을 만났다.
+# text_en = Winstone met his wife, Elaine, while filming That Summer in 1979.
+# translit = .win.seu.teon.eun 1979.nyeon .geu .yeo.reum.i.ran .jag.pum.eul .jjig.eu.myeon.seo .bu.in.in .el.re.in.eul .man.nass.da.
+1	윈스턴은	_	_	_	_	_	_	_	_
+2	1979	_	_	_	_	_	_	_	_
+3	년	_	_	_	_	_	_	_	_
+4	그	_	_	_	_	_	_	_	_
+5	여름	_	_	_	_	_	_	_	_
+6	이란	_	_	_	_	_	_	_	_
+7	작품을	_	_	_	_	_	_	_	_
+8	찍으면서	_	_	_	_	_	_	_	_
+9	부인	_	_	_	_	_	_	_	_
+10	인	_	_	_	_	_	_	_	_
+11	엘레인을	_	_	_	_	_	_	_	_
+12	만났다	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01123012
+# text = 코튼은 1832년 10월 31일 선더랜드 인근의 한 마을에서 태어났다.
+# text_en = Cotton was born on October 31, 1832, in a village near Sunderland.
+# translit = .ko.teun.eun 1832.nyeon 10.weol 31.il .seon.deo.raen.deu .in.geun.yi .han .ma.eul.e.seo .tae.eo.nass.da.
+1	코튼은	_	_	_	_	_	_	_	_
+2	1832	_	_	_	_	_	_	_	_
+3	년	_	_	_	_	_	_	_	_
+4	10	_	_	_	_	_	_	_	_
+5	월	_	_	_	_	_	_	_	_
+6	31	_	_	_	_	_	_	_	_
+7	일	_	_	_	_	_	_	_	_
+8	선더랜드	_	_	_	_	_	_	_	_
+9	인근의	_	_	_	_	_	_	_	_
+10	한	_	_	_	_	_	_	_	_
+11	마을에서	_	_	_	_	_	_	_	_
+12	태어났다	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01092014
+# text = 그렇다면 오스트레일리아의 입장은 어떤가?
+# text_en = And what about Australia’s position?
+# translit = .geu.reoh.da.myeon .o.seu.teu.re.il.ri.a.yi .ib.jang.eun .eo.ddeon.ga?
+1	그렇다면	_	_	_	_	_	_	_	_
+2	오스트레일리아의	_	_	_	_	_	_	_	_
+3	입장은	_	_	_	_	_	_	_	_
+4	어떤가	_	_	_	_	_	_	_	_
+5	?	_	_	_	_	_	_	_	_
+
+# sent_id = w04010030
+# text = 그러나 이들의 우정은 둘 사이의 비공식적인 협업으로 인해깨졌으며 결국 법적다툼이 일어났다.
+# text_en = However, the friendship has fallen apart due to unofficial collaborations between the two, which has given rise to legal disputes.
+# ToDoOrigText = 그러나 이들의 우정은 둘 사이의 비공식적인 협업으로 인해 깨졌으며 결국 법적 다툼이 일어났다.
+# translit = .geu.reo.na .i.deul.yi .u.jeong.eun .dul .sa.i.yi .bi.gong.sig.jeog.in .hyeob.eob.eu.ro .in.hae.ggae.jyeoss.eu.myeo .gyeol.gug .beob.jeog.da.tum.i .il.eo.nass.da.
+1	그러나	_	_	_	_	_	_	_	_
+2	이들의	_	_	_	_	_	_	_	_
+3	우정은	_	_	_	_	_	_	_	_
+4	둘	_	_	_	_	_	_	_	_
+5	사이의	_	_	_	_	_	_	_	_
+6	비공식적	_	_	_	_	_	_	_	_
+7	인	_	_	_	_	_	_	_	_
+8	협업으로	_	_	_	_	_	_	_	_
+9	인해	_	_	_	_	_	_	_	_
+10	깨졌으며	_	_	_	_	_	_	_	_
+11	결국	_	_	_	_	_	_	_	_
+12	법적	_	_	_	_	_	_	_	_
+13	다툼이	_	_	_	_	_	_	_	_
+14	일어났다	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01100047
+# text = 중국이 패배하면서1842년 난징 조약 체결에 동의했다.
+# text_en = China was defeated, and in 1842 agreed to the provisions of the Treaty of Nanking.
+# ToDoOrigText = 중국이 패배하면서 1842년 난징 조약 체결에 동의했다.
+# translit = .jung.gug.i .pae.bae.ha.myeon.seo1842.nyeon .nan.jing .jo.yag .che.gyeol.e .dong.yi.haess.da.
+1	중국이	_	_	_	_	_	_	_	_
+2	패배하면서	_	_	_	_	_	_	_	_
+3	1842	_	_	_	_	_	_	_	_
+4	년	_	_	_	_	_	_	_	_
+5	난징	_	_	_	_	_	_	_	_
+6	조약	_	_	_	_	_	_	_	_
+7	체결에	_	_	_	_	_	_	_	_
+8	동의했다	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01073004
+# text = 누가 이 오스트레일리아 측을 멈출 수 있는가?
+# text_en = Who can stop this Australia side?
+# translit = .nu.ga .i .o.seu.teu.re.il.ri.a .cheug.eul .meom.chul .su .iss.neun.ga?
+1	누가	_	_	_	_	_	_	_	_
+2	이	_	_	_	_	_	_	_	_
+3	오스트레일리아	_	_	_	_	_	_	_	_
+4	측을	_	_	_	_	_	_	_	_
+5	멈출	_	_	_	_	_	_	_	_
+6	수	_	_	_	_	_	_	_	_
+7	있는가	_	_	_	_	_	_	_	_
+8	?	_	_	_	_	_	_	_	_
+
+# sent_id = n01094014
+# text = 시장은 50개뿐이었다.
+# text_en = Only 50 were marketplaces.
+# translit = .si.jang.eun 50.gae.bbun.i.eoss.da.
+1	시장은	_	_	_	_	_	_	_	_
+2	50	_	_	_	_	_	_	_	_
+3	개뿐	_	_	_	_	_	_	_	_
+4	이었다	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01022002
+# text = 탄소 배출 감축을 위한 국가 계획에 대한 UN의 검토는 그 계획들이 세계 온도 상승을 섭씨 2도 이하로 제한하기에는 한참 못 미치는 수준이라는 것을 말해준다.
+# text_en = A UN review of national plans to cut carbon says they are well short of the levels needed to keep the rise in global temperatures under 2C.
+# translit = .tan.so .bae.chul .gam.chug.eul .wi.han .gug.ga .gye.hoeg.e .dae.han UN.yi .geom.to.neun .geu .gye.hoeg.deul.i .se.gye .on.do .sang.seung.eul .seob.ssi 2.do .i.ha.ro .je.han.ha.gi.e.neun .han.cham .mos .mi.chi.neun .su.jun.i.ra.neun .geos.eul .mal.hae.jun.da.
+1	탄소	_	_	_	_	_	_	_	_
+2	배출	_	_	_	_	_	_	_	_
+3	감축을	_	_	_	_	_	_	_	_
+4	위한	_	_	_	_	_	_	_	_
+5	국가	_	_	_	_	_	_	_	_
+6	계획에	_	_	_	_	_	_	_	_
+7	대한	_	_	_	_	_	_	_	_
+8	UN의	_	_	_	_	_	_	_	_
+9	검토는	_	_	_	_	_	_	_	_
+10	그	_	_	_	_	_	_	_	_
+11	계획들이	_	_	_	_	_	_	_	_
+12	세계	_	_	_	_	_	_	_	_
+13	온도	_	_	_	_	_	_	_	_
+14	상승을	_	_	_	_	_	_	_	_
+15	섭씨	_	_	_	_	_	_	_	_
+16	2	_	_	_	_	_	_	_	_
+17	도	_	_	_	_	_	_	_	_
+18	이하로	_	_	_	_	_	_	_	_
+19	제한하기에는	_	_	_	_	_	_	_	_
+20	한참	_	_	_	_	_	_	_	_
+21	못	_	_	_	_	_	_	_	_
+22	미치는	_	_	_	_	_	_	_	_
+23	수준	_	_	_	_	_	_	_	_
+24	이라는	_	_	_	_	_	_	_	_
+25	것을	_	_	_	_	_	_	_	_
+26	말해	_	_	_	_	_	_	_	_
+27	준다	_	_	_	_	_	_	_	_
+28	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01058009
+# text = 그러나 이는 363년 율리안이 전쟁에서 사망하면서뒤집어졌다.
+# text_en = However this was reversed when Julian was killed in battle in 363.
+# ToDoOrigText = 그러나 이는 363년 율리안이 전쟁에서 사망하면서 뒤집어졌다.
+# translit = .geu.reo.na .i.neun 363.nyeon .yul.ri.an.i .jeon.jaeng.e.seo .sa.mang.ha.myeon.seo.dwi.jib.eo.jyeoss.da.
+1	그러나	_	_	_	_	_	_	_	_
+2	이는	_	_	_	_	_	_	_	_
+3	363	_	_	_	_	_	_	_	_
+4	년	_	_	_	_	_	_	_	_
+5	율리안이	_	_	_	_	_	_	_	_
+6	전쟁에서	_	_	_	_	_	_	_	_
+7	사망하면서	_	_	_	_	_	_	_	_
+8	뒤집어졌다	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01072021
+# text = 페이스북에 올라온 많은 애도하는포스트들 중 하나에는 "내가 아는 어떤 사람들보다 당신이 더 아프리카 사람다웠어요."라는 크리스를 기쁘게 했을 법한글 한 줄이 있었다.
+# text_en = One of their many grieving Facebook posts has a line which would have delighted Chris: “More African than you, I have not known.”
+# ToDoOrigText = 페이스북에 올라온 많은 애도하는 포스트들 중 하나에는 "내가 아는 어떤 사람들보다 당신이 더 아프리카 사람다웠어요."라는 크리스를 기쁘게 했을 법한 글 한 줄이 있었다.
+# translit = .pe.i.seu.bug.e .ol.ra.on .manh.eun .ae.do.ha.neun.po.seu.teu.deul .jung .ha.na.e.neun ".nae.ga .a.neun .eo.ddeon .sa.ram.deul.bo.da .dang.sin.i .deo .a.peu.ri.ka .sa.ram.da.weoss.eo.yo.".ra.neun .keu.ri.seu.reul .gi.bbeu.ge .haess.eul .beob.han.geul .han .jul.i .iss.eoss.da.
+1	페이스	_	_	_	_	_	_	_	_
+2	북에	_	_	_	_	_	_	_	_
+3	올라온	_	_	_	_	_	_	_	_
+4	많은	_	_	_	_	_	_	_	_
+5	애도하는	_	_	_	_	_	_	_	_
+6	포스트들	_	_	_	_	_	_	_	_
+7	중	_	_	_	_	_	_	_	_
+8	하나에는	_	_	_	_	_	_	_	_
+9	"	_	_	_	_	_	_	_	_
+10	내가	_	_	_	_	_	_	_	_
+11	아는	_	_	_	_	_	_	_	_
+12	어떤	_	_	_	_	_	_	_	_
+13	사람들보다	_	_	_	_	_	_	_	_
+14	당신이	_	_	_	_	_	_	_	_
+15	더	_	_	_	_	_	_	_	_
+16	아프리카	_	_	_	_	_	_	_	_
+17	사람다웠어요	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+19	"	_	_	_	_	_	_	_	_
+20	라는	_	_	_	_	_	_	_	_
+21	크리스를	_	_	_	_	_	_	_	_
+22	기쁘게	_	_	_	_	_	_	_	_
+23	했을	_	_	_	_	_	_	_	_
+24	법한	_	_	_	_	_	_	_	_
+25	글	_	_	_	_	_	_	_	_
+26	한	_	_	_	_	_	_	_	_
+27	줄이	_	_	_	_	_	_	_	_
+28	있었다	_	_	_	_	_	_	_	_
+29	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01100046
+# text = 1839년 후난 및 후베이성 성주인 임칙서가 외국과의 아편 거래를 중단시킨후 영국과 1차 아편전쟁을 벌이게 되었다.
+# text_en = In 1839, China found itself fighting the First Opium War with Great Britain after the Governor-General of Hunan and Hubei, Lin Zexu, banned the foreign trade of opium.
+# ToDoOrigText = 1839년 후난 및 후베이성 성주인 임칙서가 외국과의 아편 거래를 중단시킨 후 영국과 1차 아편전쟁을 벌이게 되었다.
+# translit = 1839.nyeon .hu.nan .mich .hu.be.i.seong .seong.ju.in .im.chig.seo.ga .oe.gug.gwa.yi .a.pyeon .geo.rae.reul .jung.dan.si.kin.hu .yeong.gug.gwa 1.cha .a.pyeon.jeon.jaeng.eul .beol.i.ge .doe.eoss.da.
+1	1839	_	_	_	_	_	_	_	_
+2	년	_	_	_	_	_	_	_	_
+3	후난	_	_	_	_	_	_	_	_
+4	및	_	_	_	_	_	_	_	_
+5	후베이	_	_	_	_	_	_	_	_
+6	성	_	_	_	_	_	_	_	_
+7	성주	_	_	_	_	_	_	_	_
+8	인	_	_	_	_	_	_	_	_
+9	임칙서가	_	_	_	_	_	_	_	_
+10	외국과	_	_	_	_	_	_	_	_
+11	의	_	_	_	_	_	_	_	_
+12	아편	_	_	_	_	_	_	_	_
+13	거래를	_	_	_	_	_	_	_	_
+14	중단시킨	_	_	_	_	_	_	_	_
+15	후	_	_	_	_	_	_	_	_
+16	영국과	_	_	_	_	_	_	_	_
+17	1	_	_	_	_	_	_	_	_
+18	차	_	_	_	_	_	_	_	_
+19	아편	_	_	_	_	_	_	_	_
+20	전쟁을	_	_	_	_	_	_	_	_
+21	벌이게	_	_	_	_	_	_	_	_
+22	되었다	_	_	_	_	_	_	_	_
+23	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01109036
+# text = 레니는 여자운은 지지리도 없는 모태 솔로이다.
+# text_en = Lenny is a persistent bachelor who has poor luck with women.
+# translit = .re.ni.neun .yeo.ja.un.eun .ji.ji.ri.do .eobs.neun .mo.tae .sol.ro.i.da.
+1	레니는	_	_	_	_	_	_	_	_
+2	여자	_	_	_	_	_	_	_	_
+3	운은	_	_	_	_	_	_	_	_
+4	지지리도	_	_	_	_	_	_	_	_
+5	없는	_	_	_	_	_	_	_	_
+6	모태	_	_	_	_	_	_	_	_
+7	솔로	_	_	_	_	_	_	_	_
+8	이다	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = w04008006
+# text = 종교적관행이라는 측면에서, 피오렐로는 영국 성공회에서 교육을 받았으며 일생을 개신교 교회의 일원으로 보냈다.
+# text_en = With regards to religious practices, Fiorello was educated within the Episcopal Church, and remained a member of the Protestant Church throughout his life.
+# ToDoOrigText = 종교적 관행이라는 측면에서, 피오렐로는 영국 성공회에서 교육을 받았으며 일생을 개신교 교회의 일원으로 보냈다.
+# translit = .jong.gyo.jeog.gwan.haeng.i.ra.neun .cheug.myeon.e.seo, .pi.o.rel.ro.neun .yeong.gug .seong.gong.hoe.e.seo .gyo.yug.eul .bad.ass.eu.myeo .il.saeng.eul .gae.sin.gyo .gyo.hoe.yi .il.weon.eu.ro .bo.naess.da.
+1	종교적	_	_	_	_	_	_	_	_
+2	관행	_	_	_	_	_	_	_	_
+3	이라는	_	_	_	_	_	_	_	_
+4	측면에서	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	피오렐로는	_	_	_	_	_	_	_	_
+7	영국	_	_	_	_	_	_	_	_
+8	성공회	_	_	_	_	_	_	_	_
+9	에서	_	_	_	_	_	_	_	_
+10	교육을	_	_	_	_	_	_	_	_
+11	받았으며	_	_	_	_	_	_	_	_
+12	일생을	_	_	_	_	_	_	_	_
+13	개신교	_	_	_	_	_	_	_	_
+14	교회의	_	_	_	_	_	_	_	_
+15	일원으로	_	_	_	_	_	_	_	_
+16	보냈다	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01022010
+# text = 에릭 솔하임 유엔환경계획 사무총장은 우리가 올바른 방향으로 나아가고 있다며, 수소불화탄소(HFC) 감축을 골자로 한 최근의 키갈리 협정(Kigali Amendment)처럼 파리 기후 협약을 통해서도 기후 변화 속도가 늦추어질 것이라고 말했다.
+# text_en = "We are moving in the right direction: the Paris Agreement will slow climate change, as will the recent Kigali Amendment to reduce HFCs," said Erik Solheim, head of UN Environment.
+# translit = .e.rig .sol.ha.im .yu.en.hwan.gyeong.gye.hoeg .sa.mu.chong.jang.eun .u.ri.ga .ol.ba.reun .bang.hyang.eu.ro .na.a.ga.go .iss.da.myeo, .su.so.bul.hwa.tan.so(HFC) .gam.chug.eul .gol.ja.ro .han .choe.geun.yi .ki.gal.ri .hyeob.jeong(Kigali Amendment).cheo.reom .pa.ri .gi.hu .hyeob.yag.eul .tong.hae.seo.do .gi.hu .byeon.hwa .sog.do.ga .neuj.chu.eo.jil .geos.i.ra.go .mal.haess.da.
+1	에릭	_	_	_	_	_	_	_	_
+2	솔하임	_	_	_	_	_	_	_	_
+3	유엔	_	_	_	_	_	_	_	_
+4	환경	_	_	_	_	_	_	_	_
+5	계획	_	_	_	_	_	_	_	_
+6	사무	_	_	_	_	_	_	_	_
+7	총장은	_	_	_	_	_	_	_	_
+8	우리가	_	_	_	_	_	_	_	_
+9	올바른	_	_	_	_	_	_	_	_
+10	방향으로	_	_	_	_	_	_	_	_
+11	나아가고	_	_	_	_	_	_	_	_
+12	있다며	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	수소불화탄소	_	_	_	_	_	_	_	_
+15	(	_	_	_	_	_	_	_	_
+16	HFC	_	_	_	_	_	_	_	_
+17	)	_	_	_	_	_	_	_	_
+18	감축을	_	_	_	_	_	_	_	_
+19	골자로	_	_	_	_	_	_	_	_
+20	한	_	_	_	_	_	_	_	_
+21	최근의	_	_	_	_	_	_	_	_
+22	키갈리	_	_	_	_	_	_	_	_
+23	협정	_	_	_	_	_	_	_	_
+24	(	_	_	_	_	_	_	_	_
+25	Kigali	_	_	_	_	_	_	_	_
+26	Amendment	_	_	_	_	_	_	_	_
+27	)	_	_	_	_	_	_	_	_
+28	처럼	_	_	_	_	_	_	_	_
+29	파리	_	_	_	_	_	_	_	_
+30	기후	_	_	_	_	_	_	_	_
+31	협약을	_	_	_	_	_	_	_	_
+32	통해서도	_	_	_	_	_	_	_	_
+33	기후	_	_	_	_	_	_	_	_
+34	변화	_	_	_	_	_	_	_	_
+35	속도가	_	_	_	_	_	_	_	_
+36	늦추어질	_	_	_	_	_	_	_	_
+37	것	_	_	_	_	_	_	_	_
+38	이라	_	_	_	_	_	_	_	_
+39	고	_	_	_	_	_	_	_	_
+40	말했다	_	_	_	_	_	_	_	_
+41	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01095090
+# text = 왕족의 경우, 이름을 부르는 건 상당히 부적절하게 여겨진다.
+# text_en = In the case of the imperial family, it is considered extremely inappropriate to use the given name.
+# translit = .wang.jog.yi .gyeong.u, .i.reum.eul .bu.reu.neun .geon .sang.dang.hi .bu.jeog.jeol.ha.ge .yeo.gyeo.jin.da.
+1	왕족의	_	_	_	_	_	_	_	_
+2	경우	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	이름을	_	_	_	_	_	_	_	_
+5	부르는	_	_	_	_	_	_	_	_
+6	건	_	_	_	_	_	_	_	_
+7	상당히	_	_	_	_	_	_	_	_
+8	부적절하게	_	_	_	_	_	_	_	_
+9	여겨진다	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01119017
+# text = 그리고 물론 끊임없는 즐거움의 원천인 Bob이 있다.
+# text_en = And, of course, there's Bob, a constant source of entertainment.
+# translit = .geu.ri.go .mul.ron .ggeunh.im.eobs.neun .jeul.geo.um.yi .weon.cheon.in Bob.i .iss.da.
+1	그리고	_	_	_	_	_	_	_	_
+2	물론	_	_	_	_	_	_	_	_
+3	끊임없는	_	_	_	_	_	_	_	_
+4	즐거움의	_	_	_	_	_	_	_	_
+5	원천	_	_	_	_	_	_	_	_
+6	인	_	_	_	_	_	_	_	_
+7	Bob이	_	_	_	_	_	_	_	_
+8	있다	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01039013
+# text = 한편, 클린턴과 지지자들은 여성과 소수민족을 폄하하는발언을 한 트럼프가 대통령직을 수행하기에 부적합한기질을 가진 인물이라고 비난하면서그를 집중 공격하고있다.
+# text_en = Clinton and allies, meanwhile, are seeking to keep the spotlight on Trump, charging that his disparaging comments about women and minorities, and his temperament make him unfit for office.
+# ToDoOrigText = 한편, 클린턴과 지지자들은 여성과 소수민족을 폄하하는 발언을 한 트럼프가 대통령직을 수행하기에 부적합한 기질을 가진 인물이라고 비난하면서 그를 집중 공격하고 있다.
+# translit = .han.pyeon, .keul.rin.teon.gwa .ji.ji.ja.deul.eun .yeo.seong.gwa .so.su.min.jog.eul .pyeom.ha.ha.neun.bal.eon.eul .han .teu.reom.peu.ga .dae.tong.ryeong.jig.eul .su.haeng.ha.gi.e .bu.jeog.hab.han.gi.jil.eul .ga.jin .in.mul.i.ra.go .bi.nan.ha.myeon.seo.geu.reul .jib.jung .gong.gyeog.ha.go.iss.da.
+1	한편	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	클린턴과	_	_	_	_	_	_	_	_
+4	지지자들은	_	_	_	_	_	_	_	_
+5	여성과	_	_	_	_	_	_	_	_
+6	소수	_	_	_	_	_	_	_	_
+7	민족을	_	_	_	_	_	_	_	_
+8	폄하하는	_	_	_	_	_	_	_	_
+9	발언을	_	_	_	_	_	_	_	_
+10	한	_	_	_	_	_	_	_	_
+11	트럼프가	_	_	_	_	_	_	_	_
+12	대통령직을	_	_	_	_	_	_	_	_
+13	수행하기에	_	_	_	_	_	_	_	_
+14	부적합한	_	_	_	_	_	_	_	_
+15	기질을	_	_	_	_	_	_	_	_
+16	가진	_	_	_	_	_	_	_	_
+17	인물	_	_	_	_	_	_	_	_
+18	이라	_	_	_	_	_	_	_	_
+19	고	_	_	_	_	_	_	_	_
+20	비난하면서	_	_	_	_	_	_	_	_
+21	그를	_	_	_	_	_	_	_	_
+22	집중	_	_	_	_	_	_	_	_
+23	공격하고	_	_	_	_	_	_	_	_
+24	있다	_	_	_	_	_	_	_	_
+25	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01142031
+# text = 곤트의 존은 1339년 사망했다.
+# text_en = John of Gaunt died in 1399.
+# translit = .gon.teu.yi .jon.eun 1339.nyeon .sa.mang.haess.da.
+1	곤트의	_	_	_	_	_	_	_	_
+2	존은	_	_	_	_	_	_	_	_
+3	1339	_	_	_	_	_	_	_	_
+4	년	_	_	_	_	_	_	_	_
+5	사망했다	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = w02016060
+# text = 2004년 아테네 올림픽 대회 스트리트 레이스 우승자인 울리히는 두 번째 금메달을 따겠다는 목표를 추구하였다.
+# text_en = At the Olympic Games in 2004 in Athens, Ulrich, as winner of the street race, pursued the goal of winning his second gold medal.
+# translit = 2004.nyeon .a.te.ne .ol.rim.pig .dae.hoe .seu.teu.ri.teu .re.i.seu .u.seung.ja.in .ul.ri.hi.neun .du .beon.jjae .geum.me.dal.eul .dda.gess.da.neun .mog.pyo.reul .chu.gu.ha.yeoss.da.
+1	2004	_	_	_	_	_	_	_	_
+2	년	_	_	_	_	_	_	_	_
+3	아테네	_	_	_	_	_	_	_	_
+4	올림픽	_	_	_	_	_	_	_	_
+5	대회	_	_	_	_	_	_	_	_
+6	스트리트	_	_	_	_	_	_	_	_
+7	레이스	_	_	_	_	_	_	_	_
+8	우승자	_	_	_	_	_	_	_	_
+9	인	_	_	_	_	_	_	_	_
+10	울리히는	_	_	_	_	_	_	_	_
+11	두	_	_	_	_	_	_	_	_
+12	번째	_	_	_	_	_	_	_	_
+13	금메달을	_	_	_	_	_	_	_	_
+14	따겠다는	_	_	_	_	_	_	_	_
+15	목표를	_	_	_	_	_	_	_	_
+16	추구하였다	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01030006
+# text = 마지막 작품이 오스카 수상작 그래비티인 쿠아론 감독은 그 사건이 있던 시각에 세트장에 없었던 것으로 보도되었다.
+# text_en = Cuaron, whose last film was the Oscar-winning Gravity, was reportedly not on set at the time of the incident.
+# translit = .ma.ji.mag .jag.pum.i .o.seu.ka .su.sang.jag .geu.rae.bi.ti.in .ku.a.ron .gam.dog.eun .geu .sa.geon.i .iss.deon .si.gag.e .se.teu.jang.e .eobs.eoss.deon .geos.eu.ro .bo.do.doe.eoss.da.
+1	마지막	_	_	_	_	_	_	_	_
+2	작품이	_	_	_	_	_	_	_	_
+3	오스카	_	_	_	_	_	_	_	_
+4	수상작	_	_	_	_	_	_	_	_
+5	그래비티	_	_	_	_	_	_	_	_
+6	인	_	_	_	_	_	_	_	_
+7	쿠아론	_	_	_	_	_	_	_	_
+8	감독은	_	_	_	_	_	_	_	_
+9	그	_	_	_	_	_	_	_	_
+10	사건이	_	_	_	_	_	_	_	_
+11	있던	_	_	_	_	_	_	_	_
+12	시각에	_	_	_	_	_	_	_	_
+13	세트장에	_	_	_	_	_	_	_	_
+14	없었던	_	_	_	_	_	_	_	_
+15	것으로	_	_	_	_	_	_	_	_
+16	보도되었다	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = w03004037
+# text = 이러한 입안 작성은 로마법, 로마 공화정 기관 및 이전의 전통에 따라 작성된것이었다.
+# text_en = This drawing up was the founding act of Roman law, the institutions of the Roman Republic and the mos maiorum.
+# ToDoOrigText = 이러한 입안 작성은 로마법, 로마 공화정 기관 및 이전의 전통에 따라 작성된 것이었다.
+# translit = .i.reo.han .ib.an .jag.seong.eun .ro.ma.beob, .ro.ma .gong.hwa.jeong .gi.gwan .mich .i.jeon.yi .jeon.tong.e .dda.ra .jag.seong.doen.geos.i.eoss.da.
+1	이러한	_	_	_	_	_	_	_	_
+2	입안	_	_	_	_	_	_	_	_
+3	작성은	_	_	_	_	_	_	_	_
+4	로마	_	_	_	_	_	_	_	_
+5	법	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	로마	_	_	_	_	_	_	_	_
+8	공화정	_	_	_	_	_	_	_	_
+9	기관	_	_	_	_	_	_	_	_
+10	및	_	_	_	_	_	_	_	_
+11	이전의	_	_	_	_	_	_	_	_
+12	전통에	_	_	_	_	_	_	_	_
+13	따라	_	_	_	_	_	_	_	_
+14	작성된	_	_	_	_	_	_	_	_
+15	것	_	_	_	_	_	_	_	_
+16	이었다	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01109120
+# text = 어느 날, 그가 호머를 타깃으로 한 사복 경찰이란 사실이 암시된다.
+# text_en = On one occasion, it is implied he is an undercover agent whose target is Homer.
+# translit = .eo.neu .nal, .geu.ga .ho.meo.reul .ta.gis.eu.ro .han .sa.bog .gyeong.chal.i.ran .sa.sil.i .am.si.doen.da.
+1	어느	_	_	_	_	_	_	_	_
+2	날	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	그가	_	_	_	_	_	_	_	_
+5	호머를	_	_	_	_	_	_	_	_
+6	타깃으로	_	_	_	_	_	_	_	_
+7	한	_	_	_	_	_	_	_	_
+8	사복	_	_	_	_	_	_	_	_
+9	경찰	_	_	_	_	_	_	_	_
+10	이란	_	_	_	_	_	_	_	_
+11	사실이	_	_	_	_	_	_	_	_
+12	암시된다	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = n02036018
+# text = 폰 보이스트는 계획이 세부적이지 않아서 비용이 증가한것이라고 해명했다.
+# text_en = Von Beust justified the cost increases as lack of detailed planning.
+# ToDoOrigText = 폰 보이스트는 계획이 세부적이지 않아서 비용이 증가한 것이라고 해명했다.
+# translit = .pon .bo.i.seu.teu.neun .gye.hoeg.i .se.bu.jeog.i.ji .anh.a.seo .bi.yong.i .jeung.ga.han.geos.i.ra.go .hae.myeong.haess.da.
+1	폰	_	_	_	_	_	_	_	_
+2	보이스트	_	_	_	_	_	_	_	_
+3	는	_	_	_	_	_	_	_	_
+4	계획이	_	_	_	_	_	_	_	_
+5	세부적	_	_	_	_	_	_	_	_
+6	이지	_	_	_	_	_	_	_	_
+7	않아서	_	_	_	_	_	_	_	_
+8	비용이	_	_	_	_	_	_	_	_
+9	증가한	_	_	_	_	_	_	_	_
+10	것	_	_	_	_	_	_	_	_
+11	이라	_	_	_	_	_	_	_	_
+12	고	_	_	_	_	_	_	_	_
+13	해명했다	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01107008
+# text = 그 조사는 6월에 시작되었고그 자동차 회사에 남아 있던 최고 브랜드 책임자인 헤르베리트 디스와 빈터코른에 집중되었다.
+# text_en = The probe began in June, focusing on Mr Winterkorn and brand chief Herbert Diess, who remains at the car maker.
+# ToDoOrigText = 그 조사는 6월에 시작되었고 그 자동차 회사에 남아 있던 최고 브랜드 책임자인 헤르베리트 디스와 빈터코른에 집중되었다.
+# translit = .geu .jo.sa.neun 6.weol.e .si.jag.doe.eoss.go.geu .ja.dong.cha .hoe.sa.e .nam.a .iss.deon .choe.go .beu.raen.deu .chaeg.im.ja.in .he.reu.be.ri.teu .di.seu.wa .bin.teo.ko.reun.e .jib.jung.doe.eoss.da.
+1	그	_	_	_	_	_	_	_	_
+2	조사는	_	_	_	_	_	_	_	_
+3	6	_	_	_	_	_	_	_	_
+4	월에	_	_	_	_	_	_	_	_
+5	시작되었고	_	_	_	_	_	_	_	_
+6	그	_	_	_	_	_	_	_	_
+7	자동차	_	_	_	_	_	_	_	_
+8	회사에	_	_	_	_	_	_	_	_
+9	남아	_	_	_	_	_	_	_	_
+10	있던	_	_	_	_	_	_	_	_
+11	최고	_	_	_	_	_	_	_	_
+12	브랜드	_	_	_	_	_	_	_	_
+13	책임자	_	_	_	_	_	_	_	_
+14	인	_	_	_	_	_	_	_	_
+15	헤르베리트	_	_	_	_	_	_	_	_
+16	디스	_	_	_	_	_	_	_	_
+17	와	_	_	_	_	_	_	_	_
+18	빈터	_	_	_	_	_	_	_	_
+19	코른	_	_	_	_	_	_	_	_
+20	에	_	_	_	_	_	_	_	_
+21	집중되었다	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01026004
+# text = 푯말에는 오늘 밤에는 상향 전조등을 이용한처벌을 집행하겠다고 적혀 있다.
+# text_en = "Tonight we are carrying out punishments using a high beam," the post reads.
+# ToDoOrigText = 푯말에는 오늘 밤에는 상향 전조등을 이용한 처벌을 집행하겠다고 적혀 있다.
+# translit = .pyos.mal.e.neun .o.neul .bam.e.neun .sang.hyang .jeon.jo.deung.eul .i.yong.han.cheo.beol.eul .jib.haeng.ha.gess.da.go .jeog.hyeo .iss.da.
+1	푯말에는	_	_	_	_	_	_	_	_
+2	오늘	_	_	_	_	_	_	_	_
+3	밤에는	_	_	_	_	_	_	_	_
+4	상향	_	_	_	_	_	_	_	_
+5	전조등을	_	_	_	_	_	_	_	_
+6	이용한	_	_	_	_	_	_	_	_
+7	처벌을	_	_	_	_	_	_	_	_
+8	집행하겠다고	_	_	_	_	_	_	_	_
+9	적혀	_	_	_	_	_	_	_	_
+10	있다	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01063011
+# text = 마이애미 베이스(Miami Bass) 음악 프로듀서들은 엉덩이를 흔드는 기술을 실험했고그것이 그들의 주요 관심사였다.
+# text_en = Miami Bass producers were clinical in the art of moving butts—their main concern.
+# ToDoOrigText = 마이애미 베이스(Miami Bass) 음악 프로듀서들은 엉덩이를 흔드는 기술을 실험했고 그것이 그들의 주요 관심사였다.
+# translit = .ma.i.ae.mi .be.i.seu(Miami Bass) .eum.ag .peu.ro.dyu.seo.deul.eun .eong.deong.i.reul .heun.deu.neun .gi.sul.eul .sil.heom.haess.go.geu.geos.i .geu.deul.yi .ju.yo .gwan.sim.sa.yeoss.da.
+1	마이애미	_	_	_	_	_	_	_	_
+2	베이스	_	_	_	_	_	_	_	_
+3	(	_	_	_	_	_	_	_	_
+4	Miami	_	_	_	_	_	_	_	_
+5	Bass	_	_	_	_	_	_	_	_
+6	)	_	_	_	_	_	_	_	_
+7	음악	_	_	_	_	_	_	_	_
+8	프로듀서들은	_	_	_	_	_	_	_	_
+9	엉덩이를	_	_	_	_	_	_	_	_
+10	흔드는	_	_	_	_	_	_	_	_
+11	기술을	_	_	_	_	_	_	_	_
+12	실험했고	_	_	_	_	_	_	_	_
+13	그것이	_	_	_	_	_	_	_	_
+14	그들의	_	_	_	_	_	_	_	_
+15	주요	_	_	_	_	_	_	_	_
+16	관심사	_	_	_	_	_	_	_	_
+17	였다	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01032032
+# text = 하지만 새 법안에 반대하는돈독한 종교적신앙심을 가진 많은 MLA가 있다.
+# text_en = However there are many MLAs with deeply-held religious beliefs who oppose any new legislation.
+# ToDoOrigText = 하지만 새 법안에 반대하는 돈독한 종교적 신앙심을 가진 많은 MLA가 있다.
+# translit = .ha.ji.man .sae .beob.an.e .ban.dae.ha.neun.don.dog.han .jong.gyo.jeog.sin.ang.sim.eul .ga.jin .manh.eun MLA.ga .iss.da.
+1	하지만	_	_	_	_	_	_	_	_
+2	새	_	_	_	_	_	_	_	_
+3	법안에	_	_	_	_	_	_	_	_
+4	반대하는	_	_	_	_	_	_	_	_
+5	돈독한	_	_	_	_	_	_	_	_
+6	종교적	_	_	_	_	_	_	_	_
+7	신앙심을	_	_	_	_	_	_	_	_
+8	가진	_	_	_	_	_	_	_	_
+9	많은	_	_	_	_	_	_	_	_
+10	MLA가	_	_	_	_	_	_	_	_
+11	있다	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01150031
+# text = 인도에서는 늙어서 죽는 것을 축복이라고 생각한다.
+# text_en = When people die of old age in India, it is supposed to be a celebration.
+# translit = .in.do.e.seo.neun .neurg.eo.seo .jug.neun .geos.eul .chug.bog.i.ra.go .saeng.gag.han.da.
+1	인도에서	_	_	_	_	_	_	_	_
+2	는	_	_	_	_	_	_	_	_
+3	늙어서	_	_	_	_	_	_	_	_
+4	죽는	_	_	_	_	_	_	_	_
+5	것을	_	_	_	_	_	_	_	_
+6	축복	_	_	_	_	_	_	_	_
+7	이라	_	_	_	_	_	_	_	_
+8	고	_	_	_	_	_	_	_	_
+9	생각한다	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01002032
+# text = 그는 노스캐롤라이나 대학의 운동 경기장에 모인 군중에게 “부담 주기 싫지만 국가의 운명이 여러분의 어깨에 달려 있습니다”라고 말했다.
+# text_en = “So I hate to put a little pressure on you, but the fate of the republic rests on your shoulders,” he told the crowd gathered on a sports field at the University of North Carolina.
+# translit = .geu.neun .no.seu.kae.rol.ra.i.na .dae.hag.yi .un.dong .gyeong.gi.jang.e .mo.in .gun.jung.e.ge “.bu.dam .ju.gi .sirh.ji.man .gug.ga.yi .un.myeong.i .yeo.reo.bun.yi .eo.ggae.e .dal.ryeo .iss.seub.ni.da”.ra.go .mal.haess.da.
+1	그는	_	_	_	_	_	_	_	_
+2	노스	_	_	_	_	_	_	_	_
+3	캐롤라이나	_	_	_	_	_	_	_	_
+4	대학의	_	_	_	_	_	_	_	_
+5	운동	_	_	_	_	_	_	_	_
+6	경기장에	_	_	_	_	_	_	_	_
+7	모인	_	_	_	_	_	_	_	_
+8	군중에게	_	_	_	_	_	_	_	_
+9	“	_	_	_	_	_	_	_	_
+10	부담	_	_	_	_	_	_	_	_
+11	주기	_	_	_	_	_	_	_	_
+12	싫지만	_	_	_	_	_	_	_	_
+13	국가의	_	_	_	_	_	_	_	_
+14	운명이	_	_	_	_	_	_	_	_
+15	여러분의	_	_	_	_	_	_	_	_
+16	어깨에	_	_	_	_	_	_	_	_
+17	달려	_	_	_	_	_	_	_	_
+18	있습니다	_	_	_	_	_	_	_	_
+19	”	_	_	_	_	_	_	_	_
+20	라고	_	_	_	_	_	_	_	_
+21	말했다	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01141002
+# text = 마이크로소프트는 기업용메신저 슬랙(Slack)을 차용해서개발한새로운 직장 내 채팅 툴을 수요일에 발표했다.
+# text_en = Microsoft announced on Wednesday a new workplace chat tool poised to take on industry darling Slack.
+# ToDoOrigText = 마이크로소프트는 기업용 메신저 슬랙(Slack)을 차용해서 개발한 새로운 직장 내 채팅 툴을 수요일에 발표했다.
+# translit = .ma.i.keu.ro.so.peu.teu.neun .gi.eob.yong.me.sin.jeo .seul.raeg(Slack).eul .cha.yong.hae.seo.gae.bal.han.sae.ro.un .jig.jang .nae .chae.ting .tul.eul .su.yo.il.e .bal.pyo.haess.da.
+1	마이크로	_	_	_	_	_	_	_	_
+2	소프트는	_	_	_	_	_	_	_	_
+3	기업용	_	_	_	_	_	_	_	_
+4	메신저	_	_	_	_	_	_	_	_
+5	슬랙	_	_	_	_	_	_	_	_
+6	(	_	_	_	_	_	_	_	_
+7	Slack	_	_	_	_	_	_	_	_
+8	)	_	_	_	_	_	_	_	_
+9	을	_	_	_	_	_	_	_	_
+10	차용해서	_	_	_	_	_	_	_	_
+11	개발한	_	_	_	_	_	_	_	_
+12	새로운	_	_	_	_	_	_	_	_
+13	직장	_	_	_	_	_	_	_	_
+14	내	_	_	_	_	_	_	_	_
+15	채팅	_	_	_	_	_	_	_	_
+16	툴을	_	_	_	_	_	_	_	_
+17	수요일에	_	_	_	_	_	_	_	_
+18	발표했다	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = w05007004
+# text = 그럼에도 불구하고, 영국 법이 수용되었다면, 루이 X세, 펠리페 V세, 그리고 카를로스 IV세의 딸들은 그들의 고모인 프랑스의 이사벨라보다 왕좌에 대해 더 많은 주장을 했을지도 모른다.
+# text_en = Nonetheless, if the English law had been accepted, the daughters of Luis X, Felipe V and Carlos IV would have had more of a claim to the throne, above their aunt Isabella of France.
+# translit = .geu.reom.e.do .bul.gu.ha.go, .yeong.gug .beob.i .su.yong.doe.eoss.da.myeon, .ru.i X.se, .pel.ri.pe V.se, .geu.ri.go .ka.reul.ro.seu IV.se.yi .ddal.deul.eun .geu.deul.yi .go.mo.in .peu.rang.seu.yi .i.sa.bel.ra.bo.da .wang.jwa.e .dae.hae .deo .manh.eun .ju.jang.eul .haess.eul.ji.do .mo.reun.da.
+1	그럼에	_	_	_	_	_	_	_	_
+2	도	_	_	_	_	_	_	_	_
+3	불구하고	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	영국	_	_	_	_	_	_	_	_
+6	법이	_	_	_	_	_	_	_	_
+7	수용되었다면	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	루이	_	_	_	_	_	_	_	_
+10	X	_	_	_	_	_	_	_	_
+11	세	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	펠리페	_	_	_	_	_	_	_	_
+14	V	_	_	_	_	_	_	_	_
+15	세	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	그리고	_	_	_	_	_	_	_	_
+18	카를로스	_	_	_	_	_	_	_	_
+19	IV	_	_	_	_	_	_	_	_
+20	세의	_	_	_	_	_	_	_	_
+21	딸들은	_	_	_	_	_	_	_	_
+22	그들의	_	_	_	_	_	_	_	_
+23	고모	_	_	_	_	_	_	_	_
+24	인	_	_	_	_	_	_	_	_
+25	프랑스의	_	_	_	_	_	_	_	_
+26	이사벨라보다	_	_	_	_	_	_	_	_
+27	왕좌에	_	_	_	_	_	_	_	_
+28	대해	_	_	_	_	_	_	_	_
+29	더	_	_	_	_	_	_	_	_
+30	많은	_	_	_	_	_	_	_	_
+31	주장을	_	_	_	_	_	_	_	_
+32	했을지도	_	_	_	_	_	_	_	_
+33	모른다	_	_	_	_	_	_	_	_
+34	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01064113
+# text = 캐플런은 일부 학자들의 말을 인용하면서"나일 강이 범람하지않았는데 파라오를 죽이는 것만큼 합리적이지 않은 일"이라고 회고적투표를 일축했다.
+# text_en = Caplan dismisses retrospective voting, quoting a pair of scholars who call it “no more rational than killing the pharaoh when the Nile does not flood.”
+# ToDoOrigText = 캐플런은 일부 학자들의 말을 인용하면서 "나일 강이 범람하지 않았는데 파라오를 죽이는 것만큼 합리적이지 않은 일"이라고 회고적 투표를 일축했다.
+# translit = .kae.peul.reon.eun .il.bu .hag.ja.deul.yi .mal.eul .in.yong.ha.myeon.seo".na.il .gang.i .beom.ram.ha.ji.anh.ass.neun.de .pa.ra.o.reul .jug.i.neun .geos.man.keum .hab.ri.jeog.i.ji .anh.eun .il".i.ra.go .hoe.go.jeog.tu.pyo.reul .il.chug.haess.da.
+1	캐플런은	_	_	_	_	_	_	_	_
+2	일부	_	_	_	_	_	_	_	_
+3	학자들의	_	_	_	_	_	_	_	_
+4	말을	_	_	_	_	_	_	_	_
+5	인용하면서	_	_	_	_	_	_	_	_
+6	"	_	_	_	_	_	_	_	_
+7	나일	_	_	_	_	_	_	_	_
+8	강이	_	_	_	_	_	_	_	_
+9	범람하지	_	_	_	_	_	_	_	_
+10	않았는데	_	_	_	_	_	_	_	_
+11	파라오를	_	_	_	_	_	_	_	_
+12	죽이는	_	_	_	_	_	_	_	_
+13	것만큼	_	_	_	_	_	_	_	_
+14	합리적	_	_	_	_	_	_	_	_
+15	이지	_	_	_	_	_	_	_	_
+16	않은	_	_	_	_	_	_	_	_
+17	일	_	_	_	_	_	_	_	_
+18	"	_	_	_	_	_	_	_	_
+19	이라	_	_	_	_	_	_	_	_
+20	고	_	_	_	_	_	_	_	_
+21	회고적	_	_	_	_	_	_	_	_
+22	투표를	_	_	_	_	_	_	_	_
+23	일축했다	_	_	_	_	_	_	_	_
+24	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01114025
+# text = 성인 10명 중 4명이 악천후로 인해부상을 입는데도 10명 중 9명은 겨울철 영국의 날씨가 얼마나 쌀쌀한지를 과소평가한다.
+# text_en = Four in 10 adults have been injured due to bad weather while nine in 10 underestimate how chilly Britain can get in the winter time.
+# ToDoOrigText = 성인 10명 중 4명이 악천후로 인해 부상을 입는데도 10명 중 9명은 겨울철 영국의 날씨가 얼마나 쌀쌀한지를 과소평가한다.
+# translit = .seong.in 10.myeong .jung 4.myeong.i .ag.cheon.hu.ro .in.hae.bu.sang.eul .ib.neun.de.do 10.myeong .jung 9.myeong.eun .gyeo.ul.cheol .yeong.gug.yi .nal.ssi.ga .eol.ma.na .ssal.ssal.han.ji.reul .gwa.so.pyeong.ga.han.da.
+1	성인	_	_	_	_	_	_	_	_
+2	10	_	_	_	_	_	_	_	_
+3	명	_	_	_	_	_	_	_	_
+4	중	_	_	_	_	_	_	_	_
+5	4	_	_	_	_	_	_	_	_
+6	명이	_	_	_	_	_	_	_	_
+7	악천후로	_	_	_	_	_	_	_	_
+8	인해	_	_	_	_	_	_	_	_
+9	부상을	_	_	_	_	_	_	_	_
+10	입는데도	_	_	_	_	_	_	_	_
+11	10	_	_	_	_	_	_	_	_
+12	명	_	_	_	_	_	_	_	_
+13	중	_	_	_	_	_	_	_	_
+14	9	_	_	_	_	_	_	_	_
+15	명은	_	_	_	_	_	_	_	_
+16	겨울철	_	_	_	_	_	_	_	_
+17	영국의	_	_	_	_	_	_	_	_
+18	날씨가	_	_	_	_	_	_	_	_
+19	얼마나	_	_	_	_	_	_	_	_
+20	쌀쌀한지를	_	_	_	_	_	_	_	_
+21	과소평가한다	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01036033
+# text = 현재, RECO가 한 중개인에게 물릴 수 있는 벌금은 최대 25,000달러이다.
+# text_en = Currently, the maximum fine RECO can levy against an agent is $25,000.
+# translit = .hyeon.jae, RECO.ga .han .jung.gae.in.e.ge .mul.ril .su .iss.neun .beol.geum.eun .choe.dae 25,000.dal.reo.i.da.
+1	현재	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	RECO가	_	_	_	_	_	_	_	_
+4	한	_	_	_	_	_	_	_	_
+5	중개인에게	_	_	_	_	_	_	_	_
+6	물릴	_	_	_	_	_	_	_	_
+7	수	_	_	_	_	_	_	_	_
+8	있는	_	_	_	_	_	_	_	_
+9	벌금은	_	_	_	_	_	_	_	_
+10	최대	_	_	_	_	_	_	_	_
+11	25,000	_	_	_	_	_	_	_	_
+12	달러	_	_	_	_	_	_	_	_
+13	이다	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01142013
+# text = 이들의 딸인 세실리가 요크공 3세인 리차드 플랜태저넷과 결혼하고에드워드 IV세 및 리처드 III세 등 여러 명의 아이를 낳았을 때 조안은 두 명의 잉글랜드 요크공의 할머니가 되었다.
+# text_en = When their daughter Cecily married Richard Plantagenet, the 3rd Duke of York, and had several offspring, including Edward IV and Richard III, Joan became the grandmother of two York kings of England.
+# ToDoOrigText = 이들의 딸인 세실리가 요크공 3세인 리차드 플랜태저넷과 결혼하고 에드워드 IV세 및 리처드 III세 등 여러 명의 아이를 낳았을 때 조안은 두 명의 잉글랜드 요크공의 할머니가 되었다.
+# translit = .i.deul.yi .ddal.in .se.sil.ri.ga .yo.keu.gong 3.se.in .ri.cha.deu .peul.raen.tae.jeo.nes.gwa .gyeol.hon.ha.go.e.deu.weo.deu IV.se .mich .ri.cheo.deu III.se .deung .yeo.reo .myeong.yi .a.i.reul .nah.ass.eul .ddae .jo.an.eun .du .myeong.yi .ing.geul.raen.deu .yo.keu.gong.yi .hal.meo.ni.ga .doe.eoss.da.
+1	이들의	_	_	_	_	_	_	_	_
+2	딸	_	_	_	_	_	_	_	_
+3	인	_	_	_	_	_	_	_	_
+4	세실리가	_	_	_	_	_	_	_	_
+5	요크	_	_	_	_	_	_	_	_
+6	공	_	_	_	_	_	_	_	_
+7	3	_	_	_	_	_	_	_	_
+8	세	_	_	_	_	_	_	_	_
+9	인	_	_	_	_	_	_	_	_
+10	리차드	_	_	_	_	_	_	_	_
+11	플랜태저넷	_	_	_	_	_	_	_	_
+12	과	_	_	_	_	_	_	_	_
+13	결혼하고	_	_	_	_	_	_	_	_
+14	에드워드	_	_	_	_	_	_	_	_
+15	IV	_	_	_	_	_	_	_	_
+16	세	_	_	_	_	_	_	_	_
+17	및	_	_	_	_	_	_	_	_
+18	리처드	_	_	_	_	_	_	_	_
+19	III	_	_	_	_	_	_	_	_
+20	세	_	_	_	_	_	_	_	_
+21	등	_	_	_	_	_	_	_	_
+22	여러	_	_	_	_	_	_	_	_
+23	명의	_	_	_	_	_	_	_	_
+24	아이를	_	_	_	_	_	_	_	_
+25	낳았을	_	_	_	_	_	_	_	_
+26	때	_	_	_	_	_	_	_	_
+27	조안은	_	_	_	_	_	_	_	_
+28	두	_	_	_	_	_	_	_	_
+29	명의	_	_	_	_	_	_	_	_
+30	잉글랜드	_	_	_	_	_	_	_	_
+31	요크	_	_	_	_	_	_	_	_
+32	공의	_	_	_	_	_	_	_	_
+33	할머니가	_	_	_	_	_	_	_	_
+34	되었다	_	_	_	_	_	_	_	_
+35	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01022055
+# text = 덴마크어에서 이 단어는 얕은 석호를 의미하기도 한다.
+# text_en = In Danish, the word may even apply to shallow lagoons.
+# translit = .den.ma.keu.eo.e.seo .i .dan.eo.neun .yat.eun .seog.ho.reul .yi.mi.ha.gi.do .han.da.
+1	덴마크어에서	_	_	_	_	_	_	_	_
+2	이	_	_	_	_	_	_	_	_
+3	단어는	_	_	_	_	_	_	_	_
+4	얕은	_	_	_	_	_	_	_	_
+5	석호를	_	_	_	_	_	_	_	_
+6	의미하기도	_	_	_	_	_	_	_	_
+7	한다	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01059008
+# text = 경제 데이터와 정치적수사가 이렇게 불일치하는것은 익숙한 일이거나 익숙한 일이어야 한다.
+# text_en = This discordance between economic data and political rhetoric is familiar, or should be.
+# ToDoOrigText = 경제 데이터와 정치적 수사가 이렇게 불일치하는 것은 익숙한 일이거나 익숙한 일이어야 한다.
+# translit = .gyeong.je .de.i.teo.wa .jeong.chi.jeog.su.sa.ga .i.reoh.ge .bul.il.chi.ha.neun.geos.eun .ig.sug.han .il.i.geo.na .ig.sug.han .il.i.eo.ya .han.da.
+1	경제	_	_	_	_	_	_	_	_
+2	데이터와	_	_	_	_	_	_	_	_
+3	정치적	_	_	_	_	_	_	_	_
+4	수사가	_	_	_	_	_	_	_	_
+5	이렇게	_	_	_	_	_	_	_	_
+6	불일치하는	_	_	_	_	_	_	_	_
+7	것은	_	_	_	_	_	_	_	_
+8	익숙한	_	_	_	_	_	_	_	_
+9	일	_	_	_	_	_	_	_	_
+10	이거나	_	_	_	_	_	_	_	_
+11	익숙한	_	_	_	_	_	_	_	_
+12	일	_	_	_	_	_	_	_	_
+13	이어야	_	_	_	_	_	_	_	_
+14	한다	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01134005
+# text = 미국 주식 선물 가격이 유럽 시장과 나란히 1% 넘게 급등하고있다.
+# text_en = U.S. stock futures are surging by more than 1%, alongside European markets.
+# ToDoOrigText = 미국 주식 선물 가격이 유럽 시장과 나란히 1% 넘게 급등하고 있다.
+# translit = .mi.gug .ju.sig .seon.mul .ga.gyeog.i .yu.reob .si.jang.gwa .na.ran.hi 1% .neom.ge .geub.deung.ha.go.iss.da.
+1	미국	_	_	_	_	_	_	_	_
+2	주식	_	_	_	_	_	_	_	_
+3	선물	_	_	_	_	_	_	_	_
+4	가격이	_	_	_	_	_	_	_	_
+5	유럽	_	_	_	_	_	_	_	_
+6	시장과	_	_	_	_	_	_	_	_
+7	나란히	_	_	_	_	_	_	_	_
+8	1	_	_	_	_	_	_	_	_
+9	%	_	_	_	_	_	_	_	_
+10	넘게	_	_	_	_	_	_	_	_
+11	급등하고	_	_	_	_	_	_	_	_
+12	있다	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01073067
+# text = 라호르로 돌아온 후, 1886년 11월과 1887년 6월 사이 관보에 서른 아홉 편 정도의 이야기가 실렸다.
+# text_en = Back in Lahore, some thirty-nine stories appeared in the Gazette between November 1886 and June 1887.
+# translit = .ra.ho.reu.ro .dol.a.on .hu, 1886.nyeon 11.weol.gwa 1887.nyeon 6.weol .sa.i .gwan.bo.e .seo.reun .a.hob .pyeon .jeong.do.yi .i.ya.gi.ga .sil.ryeoss.da.
+1	라호르로	_	_	_	_	_	_	_	_
+2	돌아온	_	_	_	_	_	_	_	_
+3	후	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	1886	_	_	_	_	_	_	_	_
+6	년	_	_	_	_	_	_	_	_
+7	11	_	_	_	_	_	_	_	_
+8	월과	_	_	_	_	_	_	_	_
+9	1887	_	_	_	_	_	_	_	_
+10	년	_	_	_	_	_	_	_	_
+11	6	_	_	_	_	_	_	_	_
+12	월	_	_	_	_	_	_	_	_
+13	사이	_	_	_	_	_	_	_	_
+14	관보에	_	_	_	_	_	_	_	_
+15	서른	_	_	_	_	_	_	_	_
+16	아홉	_	_	_	_	_	_	_	_
+17	편	_	_	_	_	_	_	_	_
+18	정도의	_	_	_	_	_	_	_	_
+19	이야기가	_	_	_	_	_	_	_	_
+20	실렸다	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = n05007025
+# text = 그리고 열린 마음과 깨끗한 마음으로 이들을 맞이해야 하는데 그 이유는 이들이 새로운 아름다움과 희망의 세대를 만들기 때문이다.
+# text_en = And they must be greeted with an open spirit and clear mind because they form the new generation of beauty and hope.
+# translit = .geu.ri.go .yeol.rin .ma.eum.gwa .ggae.ggeus.han .ma.eum.eu.ro .i.deul.eul .maj.i.hae.ya .ha.neun.de .geu .i.yu.neun .i.deul.i .sae.ro.un .a.reum.da.um.gwa .hyi.mang.yi .se.dae.reul .man.deul.gi .ddae.mun.i.da.
+1	그리고	_	_	_	_	_	_	_	_
+2	열린	_	_	_	_	_	_	_	_
+3	마음과	_	_	_	_	_	_	_	_
+4	깨끗한	_	_	_	_	_	_	_	_
+5	마음으로	_	_	_	_	_	_	_	_
+6	이들을	_	_	_	_	_	_	_	_
+7	맞이해야	_	_	_	_	_	_	_	_
+8	하는데	_	_	_	_	_	_	_	_
+9	그	_	_	_	_	_	_	_	_
+10	이유는	_	_	_	_	_	_	_	_
+11	이들이	_	_	_	_	_	_	_	_
+12	새로운	_	_	_	_	_	_	_	_
+13	아름다움과	_	_	_	_	_	_	_	_
+14	희망의	_	_	_	_	_	_	_	_
+15	세대를	_	_	_	_	_	_	_	_
+16	만들기	_	_	_	_	_	_	_	_
+17	때문	_	_	_	_	_	_	_	_
+18	이다	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01038009
+# text = 이곳들은 종종 거리가 멀고 도로가 없기 때문에 아주 인기가 있는 곳은 아니다.
+# text_en = These are not very popular due to the often remote and roadless locations.
+# translit = .i.gos.deul.eun .jong.jong .geo.ri.ga .meol.go .do.ro.ga .eobs.gi .ddae.mun.e .a.ju .in.gi.ga .iss.neun .gos.eun .a.ni.da.
+1	이곳들은	_	_	_	_	_	_	_	_
+2	종종	_	_	_	_	_	_	_	_
+3	거리가	_	_	_	_	_	_	_	_
+4	멀고	_	_	_	_	_	_	_	_
+5	도로가	_	_	_	_	_	_	_	_
+6	없기	_	_	_	_	_	_	_	_
+7	때문에	_	_	_	_	_	_	_	_
+8	아주	_	_	_	_	_	_	_	_
+9	인기가	_	_	_	_	_	_	_	_
+10	있는	_	_	_	_	_	_	_	_
+11	곳은	_	_	_	_	_	_	_	_
+12	아니다	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = n04010017
+# text = 아마존은 세계 최대의 시장 자본화를 이룬 미국 4위의 기업으로 그 규모가 엑슨 모빌보다 크다.
+# text_en = Amazon has become the fourth American company with the largest market capitalisation, surpassing ExxonMobil.
+# translit = .a.ma.jon.eun .se.gye .choe.dae.yi .si.jang .ja.bon.hwa.reul .i.run .mi.gug 4.wi.yi .gi.eob.eu.ro .geu .gyu.mo.ga .eg.seun .mo.bil.bo.da .keu.da.
+1	아마존은	_	_	_	_	_	_	_	_
+2	세계	_	_	_	_	_	_	_	_
+3	최대의	_	_	_	_	_	_	_	_
+4	시장	_	_	_	_	_	_	_	_
+5	자본화를	_	_	_	_	_	_	_	_
+6	이룬	_	_	_	_	_	_	_	_
+7	미국	_	_	_	_	_	_	_	_
+8	4	_	_	_	_	_	_	_	_
+9	위의	_	_	_	_	_	_	_	_
+10	기업으로	_	_	_	_	_	_	_	_
+11	그	_	_	_	_	_	_	_	_
+12	규모가	_	_	_	_	_	_	_	_
+13	엑슨	_	_	_	_	_	_	_	_
+14	모빌	_	_	_	_	_	_	_	_
+15	보다	_	_	_	_	_	_	_	_
+16	크다	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01023043
+# text = 이 운석 물질이 발견되었다는것은 고농도 이리듐이 있다는 숨길 수 없는 증거가 될 수 있다.
+# text_en = A telltale of this meteoritic material will likely be high levels of the element iridium.
+# ToDoOrigText = 이 운석 물질이 발견되었다는 것은 고농도 이리듐이 있다는 숨길 수 없는 증거가 될 수 있다.
+# translit = .i .un.seog .mul.jil.i .bal.gyeon.doe.eoss.da.neun.geos.eun .go.nong.do .i.ri.dyum.i .iss.da.neun .sum.gil .su .eobs.neun .jeung.geo.ga .doel .su .iss.da.
+1	이	_	_	_	_	_	_	_	_
+2	운석	_	_	_	_	_	_	_	_
+3	물질이	_	_	_	_	_	_	_	_
+4	발견되었다는	_	_	_	_	_	_	_	_
+5	것은	_	_	_	_	_	_	_	_
+6	고농도	_	_	_	_	_	_	_	_
+7	이리듐이	_	_	_	_	_	_	_	_
+8	있다는	_	_	_	_	_	_	_	_
+9	숨길	_	_	_	_	_	_	_	_
+10	수	_	_	_	_	_	_	_	_
+11	없는	_	_	_	_	_	_	_	_
+12	증거가	_	_	_	_	_	_	_	_
+13	될	_	_	_	_	_	_	_	_
+14	수	_	_	_	_	_	_	_	_
+15	있다	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01052022
+# text = 실제적으로 오랜 침략을 유지할수 없었던 람세스는 이집트로 돌아왔다.
+# text_en = Ramesses, logistically unable to sustain a long siege, returned to Egypt.
+# ToDoOrigText = 실제적으로 오랜 침략을 유지할 수 없었던 람세스는 이집트로 돌아왔다.
+# translit = .sil.je.jeog.eu.ro .o.raen .chim.ryag.eul .yu.ji.hal.su .eobs.eoss.deon .ram.se.seu.neun .i.jib.teu.ro .dol.a.wass.da.
+1	실제적으로	_	_	_	_	_	_	_	_
+2	오랜	_	_	_	_	_	_	_	_
+3	침략을	_	_	_	_	_	_	_	_
+4	유지할	_	_	_	_	_	_	_	_
+5	수	_	_	_	_	_	_	_	_
+6	없었던	_	_	_	_	_	_	_	_
+7	람세스는	_	_	_	_	_	_	_	_
+8	이집트로	_	_	_	_	_	_	_	_
+9	돌아왔다	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01072012
+# text = 그는 십 년 간 BBC에서 일했다.
+# text_en = He worked for the BBC for a decade.
+# translit = .geu.neun .sib .nyeon .gan BBC.e.seo .il.haess.da.
+1	그는	_	_	_	_	_	_	_	_
+2	십	_	_	_	_	_	_	_	_
+3	년	_	_	_	_	_	_	_	_
+4	간	_	_	_	_	_	_	_	_
+5	BBC에서	_	_	_	_	_	_	_	_
+6	일했다	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01005023
+# text = 다민족으로 구성된아케메네스 군대는 발칸반도에서 많은 군인을 확보하였다.
+# text_en = The multi-ethnic Achaemenid army possessed many soldiers from the Balkans.
+# ToDoOrigText = 다민족으로 구성된 아케메네스 군대는 발칸반도에서 많은 군인을 확보하였다.
+# translit = .da.min.jog.eu.ro .gu.seong.doen.a.ke.me.ne.seu .gun.dae.neun .bal.kan.ban.do.e.seo .manh.eun .gun.in.eul .hwag.bo.ha.yeoss.da.
+1	다민족으로	_	_	_	_	_	_	_	_
+2	구성된	_	_	_	_	_	_	_	_
+3	아케메네스	_	_	_	_	_	_	_	_
+4	군대는	_	_	_	_	_	_	_	_
+5	발칸	_	_	_	_	_	_	_	_
+6	반도에서	_	_	_	_	_	_	_	_
+7	많은	_	_	_	_	_	_	_	_
+8	군인을	_	_	_	_	_	_	_	_
+9	확보하였다	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01140033
+# text = 해당 분야에서 전문가의 명성을 얻게 되면서 작은 폴로늄 원판을 갖고 라듐 연구소로 돌아가 기술을 전파했다.
+# text_en = Gaining recognition as an expert in the field, she took those skills back to the Radium Institute along with a small disc of polonium.
+# translit = .hae.dang .bun.ya.e.seo .jeon.mun.ga.yi .myeong.seong.eul .eod.ge .doe.myeon.seo .jag.eun .pol.ro.nyum .weon.pan.eul .gaj.go .ra.dyum .yeon.gu.so.ro .dol.a.ga .gi.sul.eul .jeon.pa.haess.da.
+1	해당	_	_	_	_	_	_	_	_
+2	분야에서	_	_	_	_	_	_	_	_
+3	전문가의	_	_	_	_	_	_	_	_
+4	명성을	_	_	_	_	_	_	_	_
+5	얻게	_	_	_	_	_	_	_	_
+6	되면서	_	_	_	_	_	_	_	_
+7	작은	_	_	_	_	_	_	_	_
+8	폴로늄	_	_	_	_	_	_	_	_
+9	원판을	_	_	_	_	_	_	_	_
+10	갖고	_	_	_	_	_	_	_	_
+11	라듐	_	_	_	_	_	_	_	_
+12	연구소로	_	_	_	_	_	_	_	_
+13	돌아가	_	_	_	_	_	_	_	_
+14	기술을	_	_	_	_	_	_	_	_
+15	전파했다	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = w04010028
+# text = 이들 사이에는 직업적, 개인적인 친분이 있었으며 이 친분은 수년간 지속됐다.
+# text_en = Between them bloomed a long professional and amicable relationship that lasted for years.
+# translit = .i.deul .sa.i.e.neun .jig.eob.jeog, .gae.in.jeog.in .chin.bun.i .iss.eoss.eu.myeo .i .chin.bun.eun .su.nyeon.gan .ji.sog.dwaess.da.
+1	이들	_	_	_	_	_	_	_	_
+2	사이에는	_	_	_	_	_	_	_	_
+3	직업적	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	개인적	_	_	_	_	_	_	_	_
+6	인	_	_	_	_	_	_	_	_
+7	친분이	_	_	_	_	_	_	_	_
+8	있었으며	_	_	_	_	_	_	_	_
+9	이	_	_	_	_	_	_	_	_
+10	친분은	_	_	_	_	_	_	_	_
+11	수년간	_	_	_	_	_	_	_	_
+12	지속됐다	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01053015
+# text = 헤롯 안티파스와 헤로디아스가 결혼한정확한연도를 두고 학자간 분쟁이 분분했다.
+# text_en = The exact year of the marriage of Herod Antipas and Herodias is subject to debate among scholars.
+# ToDoOrigText = 헤롯 안티파스와 헤로디아스가 결혼한 정확한 연도를 두고 학자간 분쟁이 분분했다.
+# translit = .he.ros .an.ti.pa.seu.wa .he.ro.di.a.seu.ga .gyeol.hon.han.jeong.hwag.han.yeon.do.reul .du.go .hag.ja.gan .bun.jaeng.i .bun.bun.haess.da.
+1	헤롯	_	_	_	_	_	_	_	_
+2	안티파스	_	_	_	_	_	_	_	_
+3	와	_	_	_	_	_	_	_	_
+4	헤로디아스가	_	_	_	_	_	_	_	_
+5	결혼한	_	_	_	_	_	_	_	_
+6	정확한	_	_	_	_	_	_	_	_
+7	연도를	_	_	_	_	_	_	_	_
+8	두고	_	_	_	_	_	_	_	_
+9	학자	_	_	_	_	_	_	_	_
+10	간	_	_	_	_	_	_	_	_
+11	분쟁이	_	_	_	_	_	_	_	_
+12	분분했다	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01045005
+# text = 16세기부터 카리브해 지역을 방문한유럽인들은 "북해"(카리브해, 파나마 지협의 북쪽)와는 반대로 "남해"(태평양, 파나마 지협의 남쪽)라고 불렀다.
+# text_en = From the 16th century, Europeans visiting the Caribbean region identified the "South Sea" (the Pacific Ocean, to the south of the isthmus of Panama) as opposed to the "North Sea" (the Caribbean Sea, to the north of the same isthmus).
+# ToDoOrigText = 16세기부터 카리브해 지역을 방문한 유럽인들은 "북해"(카리브해, 파나마 지협의 북쪽)와는 반대로 "남해"(태평양, 파나마 지협의 남쪽)라고 불렀다.
+# translit = 16.se.gi.bu.teo .ka.ri.beu.hae .ji.yeog.eul .bang.mun.han.yu.reob.in.deul.eun ".bug.hae"(.ka.ri.beu.hae, .pa.na.ma .ji.hyeob.yi .bug.jjog).wa.neun .ban.dae.ro ".nam.hae"(.tae.pyeong.yang, .pa.na.ma .ji.hyeob.yi .nam.jjog).ra.go .bul.reoss.da.
+1	16	_	_	_	_	_	_	_	_
+2	세기부터	_	_	_	_	_	_	_	_
+3	카리브	_	_	_	_	_	_	_	_
+4	해	_	_	_	_	_	_	_	_
+5	지역을	_	_	_	_	_	_	_	_
+6	방문한	_	_	_	_	_	_	_	_
+7	유럽인들은	_	_	_	_	_	_	_	_
+8	"	_	_	_	_	_	_	_	_
+9	북해	_	_	_	_	_	_	_	_
+10	"	_	_	_	_	_	_	_	_
+11	(	_	_	_	_	_	_	_	_
+12	카리브	_	_	_	_	_	_	_	_
+13	해	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	파나마	_	_	_	_	_	_	_	_
+16	지협의	_	_	_	_	_	_	_	_
+17	북쪽	_	_	_	_	_	_	_	_
+18	)	_	_	_	_	_	_	_	_
+19	와	_	_	_	_	_	_	_	_
+20	는	_	_	_	_	_	_	_	_
+21	반대로	_	_	_	_	_	_	_	_
+22	"	_	_	_	_	_	_	_	_
+23	남해	_	_	_	_	_	_	_	_
+24	"	_	_	_	_	_	_	_	_
+25	(	_	_	_	_	_	_	_	_
+26	태평양	_	_	_	_	_	_	_	_
+27	,	_	_	_	_	_	_	_	_
+28	파나마	_	_	_	_	_	_	_	_
+29	지협의	_	_	_	_	_	_	_	_
+30	남쪽	_	_	_	_	_	_	_	_
+31	)	_	_	_	_	_	_	_	_
+32	라고	_	_	_	_	_	_	_	_
+33	불렀다	_	_	_	_	_	_	_	_
+34	.	_	_	_	_	_	_	_	_
+

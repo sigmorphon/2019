@@ -1,0 +1,5847 @@
+# sent_id = en_partut-ud-1114
+# text = Physicists or engineers with doctorates can choose to develop complex mathematical models of market movements for investment banks or hedge funds, where they are known colloquially as "rocket scientists.
+1	Physicists	_	_	_	_	_	_	_	_
+2	or	_	_	_	_	_	_	_	_
+3	engineers	_	_	_	_	_	_	_	_
+4	with	_	_	_	_	_	_	_	_
+5	doctorates	_	_	_	_	_	_	_	_
+6	can	_	_	_	_	_	_	_	_
+7	choose	_	_	_	_	_	_	_	_
+8	to	_	_	_	_	_	_	_	_
+9	develop	_	_	_	_	_	_	_	_
+10	complex	_	_	_	_	_	_	_	_
+11	mathematical	_	_	_	_	_	_	_	_
+12	models	_	_	_	_	_	_	_	_
+13	of	_	_	_	_	_	_	_	_
+14	market	_	_	_	_	_	_	_	_
+15	movements	_	_	_	_	_	_	_	_
+16	for	_	_	_	_	_	_	_	_
+17	investment	_	_	_	_	_	_	_	_
+18	banks	_	_	_	_	_	_	_	_
+19	or	_	_	_	_	_	_	_	_
+20	hedge	_	_	_	_	_	_	_	_
+21	funds	_	_	_	_	_	_	_	_
+22	,	_	_	_	_	_	_	_	_
+23	where	_	_	_	_	_	_	_	_
+24	they	_	_	_	_	_	_	_	_
+25	are	_	_	_	_	_	_	_	_
+26	known	_	_	_	_	_	_	_	_
+27	colloquially	_	_	_	_	_	_	_	_
+28	as	_	_	_	_	_	_	_	_
+29	"	_	_	_	_	_	_	_	_
+30	rocket	_	_	_	_	_	_	_	_
+31	scientists	_	_	_	_	_	_	_	_
+32	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1852
+# text = Scholars differ on the exact meaning of these words, but most agree that Greene is accusing Shakespeare of reaching above his rank in trying to match university-educated writers such as Christopher Marlowe, Thomas Nashe and Greene himself (the "university wits").
+1	Scholars	_	_	_	_	_	_	_	_
+2	differ	_	_	_	_	_	_	_	_
+3	on	_	_	_	_	_	_	_	_
+4	the	_	_	_	_	_	_	_	_
+5	exact	_	_	_	_	_	_	_	_
+6	meaning	_	_	_	_	_	_	_	_
+7	of	_	_	_	_	_	_	_	_
+8	these	_	_	_	_	_	_	_	_
+9	words	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	but	_	_	_	_	_	_	_	_
+12	most	_	_	_	_	_	_	_	_
+13	agree	_	_	_	_	_	_	_	_
+14	that	_	_	_	_	_	_	_	_
+15	Greene	_	_	_	_	_	_	_	_
+16	is	_	_	_	_	_	_	_	_
+17	accusing	_	_	_	_	_	_	_	_
+18	Shakespeare	_	_	_	_	_	_	_	_
+19	of	_	_	_	_	_	_	_	_
+20	reaching	_	_	_	_	_	_	_	_
+21	above	_	_	_	_	_	_	_	_
+22	his	_	_	_	_	_	_	_	_
+23	rank	_	_	_	_	_	_	_	_
+24	in	_	_	_	_	_	_	_	_
+25	trying	_	_	_	_	_	_	_	_
+26	to	_	_	_	_	_	_	_	_
+27	match	_	_	_	_	_	_	_	_
+28	university	_	_	_	_	_	_	_	_
+29	-	_	_	_	_	_	_	_	_
+30	educated	_	_	_	_	_	_	_	_
+31	writers	_	_	_	_	_	_	_	_
+32	such	_	_	_	_	_	_	_	_
+33	as	_	_	_	_	_	_	_	_
+34	Christopher	_	_	_	_	_	_	_	_
+35	Marlowe	_	_	_	_	_	_	_	_
+36	,	_	_	_	_	_	_	_	_
+37	Thomas	_	_	_	_	_	_	_	_
+38	Nashe	_	_	_	_	_	_	_	_
+39	and	_	_	_	_	_	_	_	_
+40	Greene	_	_	_	_	_	_	_	_
+41	himself	_	_	_	_	_	_	_	_
+42	(	_	_	_	_	_	_	_	_
+43	the	_	_	_	_	_	_	_	_
+44	"	_	_	_	_	_	_	_	_
+45	university	_	_	_	_	_	_	_	_
+46	wits	_	_	_	_	_	_	_	_
+47	"	_	_	_	_	_	_	_	_
+48	)	_	_	_	_	_	_	_	_
+49	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1628
+# text = He gave the businesses to a friend (who made them successful) but carried the debts for many years.
+1	He	_	_	_	_	_	_	_	_
+2	gave	_	_	_	_	_	_	_	_
+3	the	_	_	_	_	_	_	_	_
+4	businesses	_	_	_	_	_	_	_	_
+5	to	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	friend	_	_	_	_	_	_	_	_
+8	(	_	_	_	_	_	_	_	_
+9	who	_	_	_	_	_	_	_	_
+10	made	_	_	_	_	_	_	_	_
+11	them	_	_	_	_	_	_	_	_
+12	successful	_	_	_	_	_	_	_	_
+13	)	_	_	_	_	_	_	_	_
+14	but	_	_	_	_	_	_	_	_
+15	carried	_	_	_	_	_	_	_	_
+16	the	_	_	_	_	_	_	_	_
+17	debts	_	_	_	_	_	_	_	_
+18	for	_	_	_	_	_	_	_	_
+19	many	_	_	_	_	_	_	_	_
+20	years	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1576
+# text = As a result, he was frequently sent to the "alcove," a punishment cell reserved for disobedient students.
+1	As	_	_	_	_	_	_	_	_
+2	a	_	_	_	_	_	_	_	_
+3	result	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	he	_	_	_	_	_	_	_	_
+6	was	_	_	_	_	_	_	_	_
+7	frequently	_	_	_	_	_	_	_	_
+8	sent	_	_	_	_	_	_	_	_
+9	to	_	_	_	_	_	_	_	_
+10	the	_	_	_	_	_	_	_	_
+11	"	_	_	_	_	_	_	_	_
+12	alcove	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	"	_	_	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	punishment	_	_	_	_	_	_	_	_
+17	cell	_	_	_	_	_	_	_	_
+18	reserved	_	_	_	_	_	_	_	_
+19	for	_	_	_	_	_	_	_	_
+20	disobedient	_	_	_	_	_	_	_	_
+21	students	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1809
+# text = Susanna, and twins Hamnet and Judith.
+1	Susanna	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	and	_	_	_	_	_	_	_	_
+4	twins	_	_	_	_	_	_	_	_
+5	Hamnet	_	_	_	_	_	_	_	_
+6	and	_	_	_	_	_	_	_	_
+7	Judith	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1489
+# text = The desire of diplomats to find a peaceful solution to Ukraine's crisis is understandable.
+1	The	_	_	_	_	_	_	_	_
+2	desire	_	_	_	_	_	_	_	_
+3	of	_	_	_	_	_	_	_	_
+4	diplomats	_	_	_	_	_	_	_	_
+5	to	_	_	_	_	_	_	_	_
+6	find	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	peaceful	_	_	_	_	_	_	_	_
+9	solution	_	_	_	_	_	_	_	_
+10	to	_	_	_	_	_	_	_	_
+11	Ukraine	_	_	_	_	_	_	_	_
+12	's	_	_	_	_	_	_	_	_
+13	crisis	_	_	_	_	_	_	_	_
+14	is	_	_	_	_	_	_	_	_
+15	understandable	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1077
+# text = Over the last two years, India has invalidated or otherwise attacked patents on 15 drugs produced by international firms in order to make way for local champions, claiming that exclusivity enables companies to charge high prices that harm consumers.
+1	Over	_	_	_	_	_	_	_	_
+2	the	_	_	_	_	_	_	_	_
+3	last	_	_	_	_	_	_	_	_
+4	two	_	_	_	_	_	_	_	_
+5	years	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	India	_	_	_	_	_	_	_	_
+8	has	_	_	_	_	_	_	_	_
+9	invalidated	_	_	_	_	_	_	_	_
+10	or	_	_	_	_	_	_	_	_
+11	otherwise	_	_	_	_	_	_	_	_
+12	attacked	_	_	_	_	_	_	_	_
+13	patents	_	_	_	_	_	_	_	_
+14	on	_	_	_	_	_	_	_	_
+15	15	_	_	_	_	_	_	_	_
+16	drugs	_	_	_	_	_	_	_	_
+17	produced	_	_	_	_	_	_	_	_
+18	by	_	_	_	_	_	_	_	_
+19	international	_	_	_	_	_	_	_	_
+20	firms	_	_	_	_	_	_	_	_
+21	in	_	_	_	_	_	_	_	_
+22	order	_	_	_	_	_	_	_	_
+23	to	_	_	_	_	_	_	_	_
+24	make	_	_	_	_	_	_	_	_
+25	way	_	_	_	_	_	_	_	_
+26	for	_	_	_	_	_	_	_	_
+27	local	_	_	_	_	_	_	_	_
+28	champions	_	_	_	_	_	_	_	_
+29	,	_	_	_	_	_	_	_	_
+30	claiming	_	_	_	_	_	_	_	_
+31	that	_	_	_	_	_	_	_	_
+32	exclusivity	_	_	_	_	_	_	_	_
+33	enables	_	_	_	_	_	_	_	_
+34	companies	_	_	_	_	_	_	_	_
+35	to	_	_	_	_	_	_	_	_
+36	charge	_	_	_	_	_	_	_	_
+37	high	_	_	_	_	_	_	_	_
+38	prices	_	_	_	_	_	_	_	_
+39	that	_	_	_	_	_	_	_	_
+40	harm	_	_	_	_	_	_	_	_
+41	consumers	_	_	_	_	_	_	_	_
+42	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-927
+# text = 420 million years ago, this organism existed.
+1	420	_	_	_	_	_	_	_	_
+2	million	_	_	_	_	_	_	_	_
+3	years	_	_	_	_	_	_	_	_
+4	ago	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	this	_	_	_	_	_	_	_	_
+7	organism	_	_	_	_	_	_	_	_
+8	existed	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1385
+# text = This June, leaders from all over Africa will meet in Malabo, Equatorial Guinea, to set the agenda for agricultural policy in the next decade.
+1	This	_	_	_	_	_	_	_	_
+2	June	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	leaders	_	_	_	_	_	_	_	_
+5	from	_	_	_	_	_	_	_	_
+6	all	_	_	_	_	_	_	_	_
+7	over	_	_	_	_	_	_	_	_
+8	Africa	_	_	_	_	_	_	_	_
+9	will	_	_	_	_	_	_	_	_
+10	meet	_	_	_	_	_	_	_	_
+11	in	_	_	_	_	_	_	_	_
+12	Malabo	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	Equatorial	_	_	_	_	_	_	_	_
+15	Guinea	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	to	_	_	_	_	_	_	_	_
+18	set	_	_	_	_	_	_	_	_
+19	the	_	_	_	_	_	_	_	_
+20	agenda	_	_	_	_	_	_	_	_
+21	for	_	_	_	_	_	_	_	_
+22	agricultural	_	_	_	_	_	_	_	_
+23	policy	_	_	_	_	_	_	_	_
+24	in	_	_	_	_	_	_	_	_
+25	the	_	_	_	_	_	_	_	_
+26	next	_	_	_	_	_	_	_	_
+27	decade	_	_	_	_	_	_	_	_
+28	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-755
+# text = No one shall be subjected to torture or to cruel, inhuman or degrading treatment or punishment.
+1	No	_	_	_	_	_	_	_	_
+2	one	_	_	_	_	_	_	_	_
+3	shall	_	_	_	_	_	_	_	_
+4	be	_	_	_	_	_	_	_	_
+5	subjected	_	_	_	_	_	_	_	_
+6	to	_	_	_	_	_	_	_	_
+7	torture	_	_	_	_	_	_	_	_
+8	or	_	_	_	_	_	_	_	_
+9	to	_	_	_	_	_	_	_	_
+10	cruel	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	inhuman	_	_	_	_	_	_	_	_
+13	or	_	_	_	_	_	_	_	_
+14	degrading	_	_	_	_	_	_	_	_
+15	treatment	_	_	_	_	_	_	_	_
+16	or	_	_	_	_	_	_	_	_
+17	punishment	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-311
+# text = We are dissatisfied with the fact that those figures seem to have been in some way hidden within UK figures.
+1	We	_	_	_	_	_	_	_	_
+2	are	_	_	_	_	_	_	_	_
+3	dissatisfied	_	_	_	_	_	_	_	_
+4	with	_	_	_	_	_	_	_	_
+5	the	_	_	_	_	_	_	_	_
+6	fact	_	_	_	_	_	_	_	_
+7	that	_	_	_	_	_	_	_	_
+8	those	_	_	_	_	_	_	_	_
+9	figures	_	_	_	_	_	_	_	_
+10	seem	_	_	_	_	_	_	_	_
+11	to	_	_	_	_	_	_	_	_
+12	have	_	_	_	_	_	_	_	_
+13	been	_	_	_	_	_	_	_	_
+14	in	_	_	_	_	_	_	_	_
+15	some	_	_	_	_	_	_	_	_
+16	way	_	_	_	_	_	_	_	_
+17	hidden	_	_	_	_	_	_	_	_
+18	within	_	_	_	_	_	_	_	_
+19	UK	_	_	_	_	_	_	_	_
+20	figures	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-165
+# text = I think this is a better solution than proceeding now to extremely time-consuming explanations of votes.
+1	I	_	_	_	_	_	_	_	_
+2	think	_	_	_	_	_	_	_	_
+3	this	_	_	_	_	_	_	_	_
+4	is	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	better	_	_	_	_	_	_	_	_
+7	solution	_	_	_	_	_	_	_	_
+8	than	_	_	_	_	_	_	_	_
+9	proceeding	_	_	_	_	_	_	_	_
+10	now	_	_	_	_	_	_	_	_
+11	to	_	_	_	_	_	_	_	_
+12	extremely	_	_	_	_	_	_	_	_
+13	time-consuming	_	_	_	_	_	_	_	_
+14	explanations	_	_	_	_	_	_	_	_
+15	of	_	_	_	_	_	_	_	_
+16	votes	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-808
+# text = It can be a very complicated thing, the ocean.
+1	It	_	_	_	_	_	_	_	_
+2	can	_	_	_	_	_	_	_	_
+3	be	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	very	_	_	_	_	_	_	_	_
+6	complicated	_	_	_	_	_	_	_	_
+7	thing	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	the	_	_	_	_	_	_	_	_
+10	ocean	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1142
+# text = Ukrainians have demonstrated their allegiance to a European Union that is itself hopelessly divided, with the euro crisis pitting creditor and debtor countries against one another.
+1	Ukrainians	_	_	_	_	_	_	_	_
+2	have	_	_	_	_	_	_	_	_
+3	demonstrated	_	_	_	_	_	_	_	_
+4	their	_	_	_	_	_	_	_	_
+5	allegiance	_	_	_	_	_	_	_	_
+6	to	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	European	_	_	_	_	_	_	_	_
+9	Union	_	_	_	_	_	_	_	_
+10	that	_	_	_	_	_	_	_	_
+11	is	_	_	_	_	_	_	_	_
+12	itself	_	_	_	_	_	_	_	_
+13	hopelessly	_	_	_	_	_	_	_	_
+14	divided	_	_	_	_	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	with	_	_	_	_	_	_	_	_
+17	the	_	_	_	_	_	_	_	_
+18	euro	_	_	_	_	_	_	_	_
+19	crisis	_	_	_	_	_	_	_	_
+20	pitting	_	_	_	_	_	_	_	_
+21	creditor	_	_	_	_	_	_	_	_
+22	and	_	_	_	_	_	_	_	_
+23	debtor	_	_	_	_	_	_	_	_
+24	countries	_	_	_	_	_	_	_	_
+25	against	_	_	_	_	_	_	_	_
+26	one	_	_	_	_	_	_	_	_
+27	another	_	_	_	_	_	_	_	_
+28	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-389
+# text = Mr President, Commissioner, as proof that this Parliament has not yet overcome its role as a consultative and subordinate institution, the excellent report by a fellow member of my Group, Elisabeth Schroedter, has not been able to reach plenary sitting because the plans for regional development for the period 2000-2006 for Objective 1 regions have been sitting in the Commission's offices for several months.
+1	Mr	_	_	_	_	_	_	_	_
+2	President	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	Commissioner	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	as	_	_	_	_	_	_	_	_
+7	proof	_	_	_	_	_	_	_	_
+8	that	_	_	_	_	_	_	_	_
+9	this	_	_	_	_	_	_	_	_
+10	Parliament	_	_	_	_	_	_	_	_
+11	has	_	_	_	_	_	_	_	_
+12	not	_	_	_	_	_	_	_	_
+13	yet	_	_	_	_	_	_	_	_
+14	overcome	_	_	_	_	_	_	_	_
+15	its	_	_	_	_	_	_	_	_
+16	role	_	_	_	_	_	_	_	_
+17	as	_	_	_	_	_	_	_	_
+18	a	_	_	_	_	_	_	_	_
+19	consultative	_	_	_	_	_	_	_	_
+20	and	_	_	_	_	_	_	_	_
+21	subordinate	_	_	_	_	_	_	_	_
+22	institution	_	_	_	_	_	_	_	_
+23	,	_	_	_	_	_	_	_	_
+24	the	_	_	_	_	_	_	_	_
+25	excellent	_	_	_	_	_	_	_	_
+26	report	_	_	_	_	_	_	_	_
+27	by	_	_	_	_	_	_	_	_
+28	a	_	_	_	_	_	_	_	_
+29	fellow	_	_	_	_	_	_	_	_
+30	member	_	_	_	_	_	_	_	_
+31	of	_	_	_	_	_	_	_	_
+32	my	_	_	_	_	_	_	_	_
+33	Group	_	_	_	_	_	_	_	_
+34	,	_	_	_	_	_	_	_	_
+35	Elisabeth	_	_	_	_	_	_	_	_
+36	Schroedter	_	_	_	_	_	_	_	_
+37	,	_	_	_	_	_	_	_	_
+38	has	_	_	_	_	_	_	_	_
+39	not	_	_	_	_	_	_	_	_
+40	been	_	_	_	_	_	_	_	_
+41	able	_	_	_	_	_	_	_	_
+42	to	_	_	_	_	_	_	_	_
+43	reach	_	_	_	_	_	_	_	_
+44	plenary	_	_	_	_	_	_	_	_
+45	sitting	_	_	_	_	_	_	_	_
+46	because	_	_	_	_	_	_	_	_
+47	the	_	_	_	_	_	_	_	_
+48	plans	_	_	_	_	_	_	_	_
+49	for	_	_	_	_	_	_	_	_
+50	regional	_	_	_	_	_	_	_	_
+51	development	_	_	_	_	_	_	_	_
+52	for	_	_	_	_	_	_	_	_
+53	the	_	_	_	_	_	_	_	_
+54	period	_	_	_	_	_	_	_	_
+55	2000	_	_	_	_	_	_	_	_
+56	-	_	_	_	_	_	_	_	_
+57	2006	_	_	_	_	_	_	_	_
+58	for	_	_	_	_	_	_	_	_
+59	Objective	_	_	_	_	_	_	_	_
+60	1	_	_	_	_	_	_	_	_
+61	regions	_	_	_	_	_	_	_	_
+62	have	_	_	_	_	_	_	_	_
+63	been	_	_	_	_	_	_	_	_
+64	sitting	_	_	_	_	_	_	_	_
+65	in	_	_	_	_	_	_	_	_
+66	the	_	_	_	_	_	_	_	_
+67	Commission	_	_	_	_	_	_	_	_
+68	's	_	_	_	_	_	_	_	_
+69	offices	_	_	_	_	_	_	_	_
+70	for	_	_	_	_	_	_	_	_
+71	several	_	_	_	_	_	_	_	_
+72	months	_	_	_	_	_	_	_	_
+73	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1952
+# text = Burbage played the leading role in the first performances of many of Shakespeare's plays, including Richard III, Hamlet, Othello, and King Lear.
+1	Burbage	_	_	_	_	_	_	_	_
+2	played	_	_	_	_	_	_	_	_
+3	the	_	_	_	_	_	_	_	_
+4	leading	_	_	_	_	_	_	_	_
+5	role	_	_	_	_	_	_	_	_
+6	in	_	_	_	_	_	_	_	_
+7	the	_	_	_	_	_	_	_	_
+8	first	_	_	_	_	_	_	_	_
+9	performances	_	_	_	_	_	_	_	_
+10	of	_	_	_	_	_	_	_	_
+11	many	_	_	_	_	_	_	_	_
+12	of	_	_	_	_	_	_	_	_
+13	Shakespeare	_	_	_	_	_	_	_	_
+14	's	_	_	_	_	_	_	_	_
+15	plays	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	including	_	_	_	_	_	_	_	_
+18	Richard	_	_	_	_	_	_	_	_
+19	III	_	_	_	_	_	_	_	_
+20	,	_	_	_	_	_	_	_	_
+21	Hamlet	_	_	_	_	_	_	_	_
+22	,	_	_	_	_	_	_	_	_
+23	Othello	_	_	_	_	_	_	_	_
+24	,	_	_	_	_	_	_	_	_
+25	and	_	_	_	_	_	_	_	_
+26	King	_	_	_	_	_	_	_	_
+27	Lear	_	_	_	_	_	_	_	_
+28	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1851
+# text = and being an absolute Johannes factotum, is in his own conceit the only Shake-Scene in a country.
+1	and	_	_	_	_	_	_	_	_
+2	being	_	_	_	_	_	_	_	_
+3	an	_	_	_	_	_	_	_	_
+4	absolute	_	_	_	_	_	_	_	_
+5	Johannes	_	_	_	_	_	_	_	_
+6	factotum	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	is	_	_	_	_	_	_	_	_
+9	in	_	_	_	_	_	_	_	_
+10	his	_	_	_	_	_	_	_	_
+11	own	_	_	_	_	_	_	_	_
+12	conceit	_	_	_	_	_	_	_	_
+13	the	_	_	_	_	_	_	_	_
+14	only	_	_	_	_	_	_	_	_
+15	Shake	_	_	_	_	_	_	_	_
+16	-	_	_	_	_	_	_	_	_
+17	Scene	_	_	_	_	_	_	_	_
+18	in	_	_	_	_	_	_	_	_
+19	a	_	_	_	_	_	_	_	_
+20	country	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1997
+# text = He increasingly tuned his metaphors and images to the needs of the drama itself.
+1	He	_	_	_	_	_	_	_	_
+2	increasingly	_	_	_	_	_	_	_	_
+3	tuned	_	_	_	_	_	_	_	_
+4	his	_	_	_	_	_	_	_	_
+5	metaphors	_	_	_	_	_	_	_	_
+6	and	_	_	_	_	_	_	_	_
+7	images	_	_	_	_	_	_	_	_
+8	to	_	_	_	_	_	_	_	_
+9	the	_	_	_	_	_	_	_	_
+10	needs	_	_	_	_	_	_	_	_
+11	of	_	_	_	_	_	_	_	_
+12	the	_	_	_	_	_	_	_	_
+13	drama	_	_	_	_	_	_	_	_
+14	itself	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-420
+# text = This is not the first time that this issue has not been given the consideration it deserves.
+1	This	_	_	_	_	_	_	_	_
+2	is	_	_	_	_	_	_	_	_
+3	not	_	_	_	_	_	_	_	_
+4	the	_	_	_	_	_	_	_	_
+5	first	_	_	_	_	_	_	_	_
+6	time	_	_	_	_	_	_	_	_
+7	that	_	_	_	_	_	_	_	_
+8	this	_	_	_	_	_	_	_	_
+9	issue	_	_	_	_	_	_	_	_
+10	has	_	_	_	_	_	_	_	_
+11	not	_	_	_	_	_	_	_	_
+12	been	_	_	_	_	_	_	_	_
+13	given	_	_	_	_	_	_	_	_
+14	the	_	_	_	_	_	_	_	_
+15	consideration	_	_	_	_	_	_	_	_
+16	it	_	_	_	_	_	_	_	_
+17	deserves	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-321
+# text = In my opinion the committee drafting the report has not taken sufficient account of this, so on behalf of the Committee on Industry, External Trade, Research and Energy, I would draw the Commission's attention to this issue.
+1	In	_	_	_	_	_	_	_	_
+2	my	_	_	_	_	_	_	_	_
+3	opinion	_	_	_	_	_	_	_	_
+4	the	_	_	_	_	_	_	_	_
+5	committee	_	_	_	_	_	_	_	_
+6	drafting	_	_	_	_	_	_	_	_
+7	the	_	_	_	_	_	_	_	_
+8	report	_	_	_	_	_	_	_	_
+9	has	_	_	_	_	_	_	_	_
+10	not	_	_	_	_	_	_	_	_
+11	taken	_	_	_	_	_	_	_	_
+12	sufficient	_	_	_	_	_	_	_	_
+13	account	_	_	_	_	_	_	_	_
+14	of	_	_	_	_	_	_	_	_
+15	this	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	so	_	_	_	_	_	_	_	_
+18	on	_	_	_	_	_	_	_	_
+19	behalf	_	_	_	_	_	_	_	_
+20	of	_	_	_	_	_	_	_	_
+21	the	_	_	_	_	_	_	_	_
+22	Committee	_	_	_	_	_	_	_	_
+23	on	_	_	_	_	_	_	_	_
+24	Industry	_	_	_	_	_	_	_	_
+25	,	_	_	_	_	_	_	_	_
+26	External	_	_	_	_	_	_	_	_
+27	Trade	_	_	_	_	_	_	_	_
+28	,	_	_	_	_	_	_	_	_
+29	Research	_	_	_	_	_	_	_	_
+30	and	_	_	_	_	_	_	_	_
+31	Energy	_	_	_	_	_	_	_	_
+32	,	_	_	_	_	_	_	_	_
+33	I	_	_	_	_	_	_	_	_
+34	would	_	_	_	_	_	_	_	_
+35	draw	_	_	_	_	_	_	_	_
+36	the	_	_	_	_	_	_	_	_
+37	Commission	_	_	_	_	_	_	_	_
+38	's	_	_	_	_	_	_	_	_
+39	attention	_	_	_	_	_	_	_	_
+40	to	_	_	_	_	_	_	_	_
+41	this	_	_	_	_	_	_	_	_
+42	issue	_	_	_	_	_	_	_	_
+43	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-333
+# text = We hope that the Commission can reassure us that this was an oversight which is now being dealt with constructively.
+1	We	_	_	_	_	_	_	_	_
+2	hope	_	_	_	_	_	_	_	_
+3	that	_	_	_	_	_	_	_	_
+4	the	_	_	_	_	_	_	_	_
+5	Commission	_	_	_	_	_	_	_	_
+6	can	_	_	_	_	_	_	_	_
+7	reassure	_	_	_	_	_	_	_	_
+8	us	_	_	_	_	_	_	_	_
+9	that	_	_	_	_	_	_	_	_
+10	this	_	_	_	_	_	_	_	_
+11	was	_	_	_	_	_	_	_	_
+12	an	_	_	_	_	_	_	_	_
+13	oversight	_	_	_	_	_	_	_	_
+14	which	_	_	_	_	_	_	_	_
+15	is	_	_	_	_	_	_	_	_
+16	now	_	_	_	_	_	_	_	_
+17	being	_	_	_	_	_	_	_	_
+18	dealt	_	_	_	_	_	_	_	_
+19	with	_	_	_	_	_	_	_	_
+20	constructively	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1185
+# text = In other words, what we are witnessing is the effect of a major shift from hyper-growth led by exports and investment (thanks to a vibrant manufacturing sector) to a model that is much more reliant on the slower but steadier growth dynamic of consumer spending and services.
+1	In	_	_	_	_	_	_	_	_
+2	other	_	_	_	_	_	_	_	_
+3	words	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	what	_	_	_	_	_	_	_	_
+6	we	_	_	_	_	_	_	_	_
+7	are	_	_	_	_	_	_	_	_
+8	witnessing	_	_	_	_	_	_	_	_
+9	is	_	_	_	_	_	_	_	_
+10	the	_	_	_	_	_	_	_	_
+11	effect	_	_	_	_	_	_	_	_
+12	of	_	_	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	major	_	_	_	_	_	_	_	_
+15	shift	_	_	_	_	_	_	_	_
+16	from	_	_	_	_	_	_	_	_
+17	hyper	_	_	_	_	_	_	_	_
+18	-	_	_	_	_	_	_	_	_
+19	growth	_	_	_	_	_	_	_	_
+20	led	_	_	_	_	_	_	_	_
+21	by	_	_	_	_	_	_	_	_
+22	exports	_	_	_	_	_	_	_	_
+23	and	_	_	_	_	_	_	_	_
+24	investment	_	_	_	_	_	_	_	_
+25	(	_	_	_	_	_	_	_	_
+26	thanks	_	_	_	_	_	_	_	_
+27	to	_	_	_	_	_	_	_	_
+28	a	_	_	_	_	_	_	_	_
+29	vibrant	_	_	_	_	_	_	_	_
+30	manufacturing	_	_	_	_	_	_	_	_
+31	sector	_	_	_	_	_	_	_	_
+32	)	_	_	_	_	_	_	_	_
+33	to	_	_	_	_	_	_	_	_
+34	a	_	_	_	_	_	_	_	_
+35	model	_	_	_	_	_	_	_	_
+36	that	_	_	_	_	_	_	_	_
+37	is	_	_	_	_	_	_	_	_
+38	much	_	_	_	_	_	_	_	_
+39	more	_	_	_	_	_	_	_	_
+40	reliant	_	_	_	_	_	_	_	_
+41	on	_	_	_	_	_	_	_	_
+42	the	_	_	_	_	_	_	_	_
+43	slower	_	_	_	_	_	_	_	_
+44	but	_	_	_	_	_	_	_	_
+45	steadier	_	_	_	_	_	_	_	_
+46	growth	_	_	_	_	_	_	_	_
+47	dynamic	_	_	_	_	_	_	_	_
+48	of	_	_	_	_	_	_	_	_
+49	consumer	_	_	_	_	_	_	_	_
+50	spending	_	_	_	_	_	_	_	_
+51	and	_	_	_	_	_	_	_	_
+52	services	_	_	_	_	_	_	_	_
+53	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1502
+# text = The good news is that a promising new technology is ready for field-testing.
+1	The	_	_	_	_	_	_	_	_
+2	good	_	_	_	_	_	_	_	_
+3	news	_	_	_	_	_	_	_	_
+4	is	_	_	_	_	_	_	_	_
+5	that	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	promising	_	_	_	_	_	_	_	_
+8	new	_	_	_	_	_	_	_	_
+9	technology	_	_	_	_	_	_	_	_
+10	is	_	_	_	_	_	_	_	_
+11	ready	_	_	_	_	_	_	_	_
+12	for	_	_	_	_	_	_	_	_
+13	field-testing	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1824
+# text = William Shakespeare was the son of John Shakespeare, an alderman and a successful glover originally from Snitterfield, and Mary Arden, the daughter of an affluent landowning farmer.
+1	William	_	_	_	_	_	_	_	_
+2	Shakespeare	_	_	_	_	_	_	_	_
+3	was	_	_	_	_	_	_	_	_
+4	the	_	_	_	_	_	_	_	_
+5	son	_	_	_	_	_	_	_	_
+6	of	_	_	_	_	_	_	_	_
+7	John	_	_	_	_	_	_	_	_
+8	Shakespeare	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	an	_	_	_	_	_	_	_	_
+11	alderman	_	_	_	_	_	_	_	_
+12	and	_	_	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	successful	_	_	_	_	_	_	_	_
+15	glover	_	_	_	_	_	_	_	_
+16	originally	_	_	_	_	_	_	_	_
+17	from	_	_	_	_	_	_	_	_
+18	Snitterfield	_	_	_	_	_	_	_	_
+19	,	_	_	_	_	_	_	_	_
+20	and	_	_	_	_	_	_	_	_
+21	Mary	_	_	_	_	_	_	_	_
+22	Arden	_	_	_	_	_	_	_	_
+23	,	_	_	_	_	_	_	_	_
+24	the	_	_	_	_	_	_	_	_
+25	daughter	_	_	_	_	_	_	_	_
+26	of	_	_	_	_	_	_	_	_
+27	an	_	_	_	_	_	_	_	_
+28	affluent	_	_	_	_	_	_	_	_
+29	landowning	_	_	_	_	_	_	_	_
+30	farmer	_	_	_	_	_	_	_	_
+31	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-2090
+# text = In the late 19th century, Edward Dowden classified four of the late comedies as romances, and though many scholars prefer to call them tragicomedies, his term is often used.
+1	In	_	_	_	_	_	_	_	_
+2	the	_	_	_	_	_	_	_	_
+3	late	_	_	_	_	_	_	_	_
+4	19	_	_	_	_	_	_	_	_
+5	th	_	_	_	_	_	_	_	_
+6	century	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	Edward	_	_	_	_	_	_	_	_
+9	Dowden	_	_	_	_	_	_	_	_
+10	classified	_	_	_	_	_	_	_	_
+11	four	_	_	_	_	_	_	_	_
+12	of	_	_	_	_	_	_	_	_
+13	the	_	_	_	_	_	_	_	_
+14	late	_	_	_	_	_	_	_	_
+15	comedies	_	_	_	_	_	_	_	_
+16	as	_	_	_	_	_	_	_	_
+17	romances	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	and	_	_	_	_	_	_	_	_
+20	though	_	_	_	_	_	_	_	_
+21	many	_	_	_	_	_	_	_	_
+22	scholars	_	_	_	_	_	_	_	_
+23	prefer	_	_	_	_	_	_	_	_
+24	to	_	_	_	_	_	_	_	_
+25	call	_	_	_	_	_	_	_	_
+26	them	_	_	_	_	_	_	_	_
+27	tragicomedies	_	_	_	_	_	_	_	_
+28	,	_	_	_	_	_	_	_	_
+29	his	_	_	_	_	_	_	_	_
+30	term	_	_	_	_	_	_	_	_
+31	is	_	_	_	_	_	_	_	_
+32	often	_	_	_	_	_	_	_	_
+33	used	_	_	_	_	_	_	_	_
+34	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-440
+# text = Public opinion and the press nowadays accuse us of being unavailable to give a response, even though we are going to be funding a large proportion of the national operations.
+1	Public	_	_	_	_	_	_	_	_
+2	opinion	_	_	_	_	_	_	_	_
+3	and	_	_	_	_	_	_	_	_
+4	the	_	_	_	_	_	_	_	_
+5	press	_	_	_	_	_	_	_	_
+6	nowadays	_	_	_	_	_	_	_	_
+7	accuse	_	_	_	_	_	_	_	_
+8	us	_	_	_	_	_	_	_	_
+9	of	_	_	_	_	_	_	_	_
+10	being	_	_	_	_	_	_	_	_
+11	unavailable	_	_	_	_	_	_	_	_
+12	to	_	_	_	_	_	_	_	_
+13	give	_	_	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	response	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	even	_	_	_	_	_	_	_	_
+18	though	_	_	_	_	_	_	_	_
+19	we	_	_	_	_	_	_	_	_
+20	are	_	_	_	_	_	_	_	_
+21	going	_	_	_	_	_	_	_	_
+22	to	_	_	_	_	_	_	_	_
+23	be	_	_	_	_	_	_	_	_
+24	funding	_	_	_	_	_	_	_	_
+25	a	_	_	_	_	_	_	_	_
+26	large	_	_	_	_	_	_	_	_
+27	proportion	_	_	_	_	_	_	_	_
+28	of	_	_	_	_	_	_	_	_
+29	the	_	_	_	_	_	_	_	_
+30	national	_	_	_	_	_	_	_	_
+31	operations	_	_	_	_	_	_	_	_
+32	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-626
+# text = In the case of generic ecodesign requirements harmonised standards could contribute considerably to guiding manufacturers in establishing the ecological profile of their products in accordance with the requirements of the applicable implementing measure.
+1	In	_	_	_	_	_	_	_	_
+2	the	_	_	_	_	_	_	_	_
+3	case	_	_	_	_	_	_	_	_
+4	of	_	_	_	_	_	_	_	_
+5	generic	_	_	_	_	_	_	_	_
+6	ecodesign	_	_	_	_	_	_	_	_
+7	requirements	_	_	_	_	_	_	_	_
+8	harmonised	_	_	_	_	_	_	_	_
+9	standards	_	_	_	_	_	_	_	_
+10	could	_	_	_	_	_	_	_	_
+11	contribute	_	_	_	_	_	_	_	_
+12	considerably	_	_	_	_	_	_	_	_
+13	to	_	_	_	_	_	_	_	_
+14	guiding	_	_	_	_	_	_	_	_
+15	manufacturers	_	_	_	_	_	_	_	_
+16	in	_	_	_	_	_	_	_	_
+17	establishing	_	_	_	_	_	_	_	_
+18	the	_	_	_	_	_	_	_	_
+19	ecological	_	_	_	_	_	_	_	_
+20	profile	_	_	_	_	_	_	_	_
+21	of	_	_	_	_	_	_	_	_
+22	their	_	_	_	_	_	_	_	_
+23	products	_	_	_	_	_	_	_	_
+24	in	_	_	_	_	_	_	_	_
+25	accordance	_	_	_	_	_	_	_	_
+26	with	_	_	_	_	_	_	_	_
+27	the	_	_	_	_	_	_	_	_
+28	requirements	_	_	_	_	_	_	_	_
+29	of	_	_	_	_	_	_	_	_
+30	the	_	_	_	_	_	_	_	_
+31	applicable	_	_	_	_	_	_	_	_
+32	implementing	_	_	_	_	_	_	_	_
+33	measure	_	_	_	_	_	_	_	_
+34	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-543
+# text = You've always been subscribed to friends.
+1	You	_	_	_	_	_	_	_	_
+2	've	_	_	_	_	_	_	_	_
+3	always	_	_	_	_	_	_	_	_
+4	been	_	_	_	_	_	_	_	_
+5	subscribed	_	_	_	_	_	_	_	_
+6	to	_	_	_	_	_	_	_	_
+7	friends	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-161
+# text = Even so, I think the positions are quite clear and they shall be entered in the Minutes.
+1	Even	_	_	_	_	_	_	_	_
+2	so	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	I	_	_	_	_	_	_	_	_
+5	think	_	_	_	_	_	_	_	_
+6	the	_	_	_	_	_	_	_	_
+7	positions	_	_	_	_	_	_	_	_
+8	are	_	_	_	_	_	_	_	_
+9	quite	_	_	_	_	_	_	_	_
+10	clear	_	_	_	_	_	_	_	_
+11	and	_	_	_	_	_	_	_	_
+12	they	_	_	_	_	_	_	_	_
+13	shall	_	_	_	_	_	_	_	_
+14	be	_	_	_	_	_	_	_	_
+15	entered	_	_	_	_	_	_	_	_
+16	in	_	_	_	_	_	_	_	_
+17	the	_	_	_	_	_	_	_	_
+18	Minutes	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-58
+# text = Each time You distribute or publicly digitally perform a Derivative Work, Licensor offers to the recipient a license to the original Work on the same terms and conditions as the license granted to You under this License.
+1	Each	_	_	_	_	_	_	_	_
+2	time	_	_	_	_	_	_	_	_
+3	You	_	_	_	_	_	_	_	_
+4	distribute	_	_	_	_	_	_	_	_
+5	or	_	_	_	_	_	_	_	_
+6	publicly	_	_	_	_	_	_	_	_
+7	digitally	_	_	_	_	_	_	_	_
+8	perform	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	Derivative	_	_	_	_	_	_	_	_
+11	Work	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	Licensor	_	_	_	_	_	_	_	_
+14	offers	_	_	_	_	_	_	_	_
+15	to	_	_	_	_	_	_	_	_
+16	the	_	_	_	_	_	_	_	_
+17	recipient	_	_	_	_	_	_	_	_
+18	a	_	_	_	_	_	_	_	_
+19	license	_	_	_	_	_	_	_	_
+20	to	_	_	_	_	_	_	_	_
+21	the	_	_	_	_	_	_	_	_
+22	original	_	_	_	_	_	_	_	_
+23	Work	_	_	_	_	_	_	_	_
+24	on	_	_	_	_	_	_	_	_
+25	the	_	_	_	_	_	_	_	_
+26	same	_	_	_	_	_	_	_	_
+27	terms	_	_	_	_	_	_	_	_
+28	and	_	_	_	_	_	_	_	_
+29	conditions	_	_	_	_	_	_	_	_
+30	as	_	_	_	_	_	_	_	_
+31	the	_	_	_	_	_	_	_	_
+32	license	_	_	_	_	_	_	_	_
+33	granted	_	_	_	_	_	_	_	_
+34	to	_	_	_	_	_	_	_	_
+35	You	_	_	_	_	_	_	_	_
+36	under	_	_	_	_	_	_	_	_
+37	this	_	_	_	_	_	_	_	_
+38	License	_	_	_	_	_	_	_	_
+39	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1961
+# text = Alfred Pollard termed some of them "bad quartos" because of their adapted, paraphrased or garbled texts, which may in places have been reconstructed from memory.
+1	Alfred	_	_	_	_	_	_	_	_
+2	Pollard	_	_	_	_	_	_	_	_
+3	termed	_	_	_	_	_	_	_	_
+4	some	_	_	_	_	_	_	_	_
+5	of	_	_	_	_	_	_	_	_
+6	them	_	_	_	_	_	_	_	_
+7	"	_	_	_	_	_	_	_	_
+8	bad	_	_	_	_	_	_	_	_
+9	quartos	_	_	_	_	_	_	_	_
+10	"	_	_	_	_	_	_	_	_
+11	because	_	_	_	_	_	_	_	_
+12	of	_	_	_	_	_	_	_	_
+13	their	_	_	_	_	_	_	_	_
+14	adapted	_	_	_	_	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	paraphrased	_	_	_	_	_	_	_	_
+17	or	_	_	_	_	_	_	_	_
+18	garbled	_	_	_	_	_	_	_	_
+19	texts	_	_	_	_	_	_	_	_
+20	,	_	_	_	_	_	_	_	_
+21	which	_	_	_	_	_	_	_	_
+22	may	_	_	_	_	_	_	_	_
+23	in	_	_	_	_	_	_	_	_
+24	places	_	_	_	_	_	_	_	_
+25	have	_	_	_	_	_	_	_	_
+26	been	_	_	_	_	_	_	_	_
+27	reconstructed	_	_	_	_	_	_	_	_
+28	from	_	_	_	_	_	_	_	_
+29	memory	_	_	_	_	_	_	_	_
+30	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-519
+# text = Adjust your daily budget at any time.
+1	Adjust	_	_	_	_	_	_	_	_
+2	your	_	_	_	_	_	_	_	_
+3	daily	_	_	_	_	_	_	_	_
+4	budget	_	_	_	_	_	_	_	_
+5	at	_	_	_	_	_	_	_	_
+6	any	_	_	_	_	_	_	_	_
+7	time	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1974
+# text = Critics consider that its fine qualities are marred by leaden effects.
+1	Critics	_	_	_	_	_	_	_	_
+2	consider	_	_	_	_	_	_	_	_
+3	that	_	_	_	_	_	_	_	_
+4	its	_	_	_	_	_	_	_	_
+5	fine	_	_	_	_	_	_	_	_
+6	qualities	_	_	_	_	_	_	_	_
+7	are	_	_	_	_	_	_	_	_
+8	marred	_	_	_	_	_	_	_	_
+9	by	_	_	_	_	_	_	_	_
+10	leaden	_	_	_	_	_	_	_	_
+11	effects	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1761
+# text = the scene of a young man coming into the city to find his fortune is ubiquitous in the realist novel, and appears repeatedly in Balzac's works, such as Illusions Perdues.
+1	the	_	_	_	_	_	_	_	_
+2	scene	_	_	_	_	_	_	_	_
+3	of	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	young	_	_	_	_	_	_	_	_
+6	man	_	_	_	_	_	_	_	_
+7	coming	_	_	_	_	_	_	_	_
+8	into	_	_	_	_	_	_	_	_
+9	the	_	_	_	_	_	_	_	_
+10	city	_	_	_	_	_	_	_	_
+11	to	_	_	_	_	_	_	_	_
+12	find	_	_	_	_	_	_	_	_
+13	his	_	_	_	_	_	_	_	_
+14	fortune	_	_	_	_	_	_	_	_
+15	is	_	_	_	_	_	_	_	_
+16	ubiquitous	_	_	_	_	_	_	_	_
+17	in	_	_	_	_	_	_	_	_
+18	the	_	_	_	_	_	_	_	_
+19	realist	_	_	_	_	_	_	_	_
+20	novel	_	_	_	_	_	_	_	_
+21	,	_	_	_	_	_	_	_	_
+22	and	_	_	_	_	_	_	_	_
+23	appears	_	_	_	_	_	_	_	_
+24	repeatedly	_	_	_	_	_	_	_	_
+25	in	_	_	_	_	_	_	_	_
+26	Balzac	_	_	_	_	_	_	_	_
+27	's	_	_	_	_	_	_	_	_
+28	works	_	_	_	_	_	_	_	_
+29	,	_	_	_	_	_	_	_	_
+30	such	_	_	_	_	_	_	_	_
+31	as	_	_	_	_	_	_	_	_
+32	Illusions	_	_	_	_	_	_	_	_
+33	Perdues	_	_	_	_	_	_	_	_
+34	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1569
+# text = (Although Genevan philosopher Jean-Jacques Rousseau's influential book Émile convinced many mothers of the time to nurse their own children, sending babies to wet-nurses was still common among the middle and upper classes.)
+1	(	_	_	_	_	_	_	_	_
+2	Although	_	_	_	_	_	_	_	_
+3	Genevan	_	_	_	_	_	_	_	_
+4	philosopher	_	_	_	_	_	_	_	_
+5	Jean	_	_	_	_	_	_	_	_
+6	-	_	_	_	_	_	_	_	_
+7	Jacques	_	_	_	_	_	_	_	_
+8	Rousseau	_	_	_	_	_	_	_	_
+9	's	_	_	_	_	_	_	_	_
+10	influential	_	_	_	_	_	_	_	_
+11	book	_	_	_	_	_	_	_	_
+12	Émile	_	_	_	_	_	_	_	_
+13	convinced	_	_	_	_	_	_	_	_
+14	many	_	_	_	_	_	_	_	_
+15	mothers	_	_	_	_	_	_	_	_
+16	of	_	_	_	_	_	_	_	_
+17	the	_	_	_	_	_	_	_	_
+18	time	_	_	_	_	_	_	_	_
+19	to	_	_	_	_	_	_	_	_
+20	nurse	_	_	_	_	_	_	_	_
+21	their	_	_	_	_	_	_	_	_
+22	own	_	_	_	_	_	_	_	_
+23	children	_	_	_	_	_	_	_	_
+24	,	_	_	_	_	_	_	_	_
+25	sending	_	_	_	_	_	_	_	_
+26	babies	_	_	_	_	_	_	_	_
+27	to	_	_	_	_	_	_	_	_
+28	wet-nurses	_	_	_	_	_	_	_	_
+29	was	_	_	_	_	_	_	_	_
+30	still	_	_	_	_	_	_	_	_
+31	common	_	_	_	_	_	_	_	_
+32	among	_	_	_	_	_	_	_	_
+33	the	_	_	_	_	_	_	_	_
+34	middle	_	_	_	_	_	_	_	_
+35	and	_	_	_	_	_	_	_	_
+36	upper	_	_	_	_	_	_	_	_
+37	classes	_	_	_	_	_	_	_	_
+38	.	_	_	_	_	_	_	_	_
+39	)	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-339
+# text = It is the young people who are disappearing, who are getting an education and finding work outside of the rural areas, all of which has an unfavourable effect on those areas.
+1	It	_	_	_	_	_	_	_	_
+2	is	_	_	_	_	_	_	_	_
+3	the	_	_	_	_	_	_	_	_
+4	young	_	_	_	_	_	_	_	_
+5	people	_	_	_	_	_	_	_	_
+6	who	_	_	_	_	_	_	_	_
+7	are	_	_	_	_	_	_	_	_
+8	disappearing	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	who	_	_	_	_	_	_	_	_
+11	are	_	_	_	_	_	_	_	_
+12	getting	_	_	_	_	_	_	_	_
+13	an	_	_	_	_	_	_	_	_
+14	education	_	_	_	_	_	_	_	_
+15	and	_	_	_	_	_	_	_	_
+16	finding	_	_	_	_	_	_	_	_
+17	work	_	_	_	_	_	_	_	_
+18	outside	_	_	_	_	_	_	_	_
+19	of	_	_	_	_	_	_	_	_
+20	the	_	_	_	_	_	_	_	_
+21	rural	_	_	_	_	_	_	_	_
+22	areas	_	_	_	_	_	_	_	_
+23	,	_	_	_	_	_	_	_	_
+24	all	_	_	_	_	_	_	_	_
+25	of	_	_	_	_	_	_	_	_
+26	which	_	_	_	_	_	_	_	_
+27	has	_	_	_	_	_	_	_	_
+28	an	_	_	_	_	_	_	_	_
+29	unfavourable	_	_	_	_	_	_	_	_
+30	effect	_	_	_	_	_	_	_	_
+31	on	_	_	_	_	_	_	_	_
+32	those	_	_	_	_	_	_	_	_
+33	areas	_	_	_	_	_	_	_	_
+34	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1215
+# text = Periodic political rebalancing, sometimes peaceful, sometimes not, has ensured that the vast majority of people have benefited, albeit some far more than others.
+1	Periodic	_	_	_	_	_	_	_	_
+2	political	_	_	_	_	_	_	_	_
+3	rebalancing	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	sometimes	_	_	_	_	_	_	_	_
+6	peaceful	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	sometimes	_	_	_	_	_	_	_	_
+9	not	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	has	_	_	_	_	_	_	_	_
+12	ensured	_	_	_	_	_	_	_	_
+13	that	_	_	_	_	_	_	_	_
+14	the	_	_	_	_	_	_	_	_
+15	vast	_	_	_	_	_	_	_	_
+16	majority	_	_	_	_	_	_	_	_
+17	of	_	_	_	_	_	_	_	_
+18	people	_	_	_	_	_	_	_	_
+19	have	_	_	_	_	_	_	_	_
+20	benefited	_	_	_	_	_	_	_	_
+21	,	_	_	_	_	_	_	_	_
+22	albeit	_	_	_	_	_	_	_	_
+23	some	_	_	_	_	_	_	_	_
+24	far	_	_	_	_	_	_	_	_
+25	more	_	_	_	_	_	_	_	_
+26	than	_	_	_	_	_	_	_	_
+27	others	_	_	_	_	_	_	_	_
+28	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-315
+# text = Too much of what takes place within this Parliament is not transparent.
+1	Too	_	_	_	_	_	_	_	_
+2	much	_	_	_	_	_	_	_	_
+3	of	_	_	_	_	_	_	_	_
+4	what	_	_	_	_	_	_	_	_
+5	takes	_	_	_	_	_	_	_	_
+6	place	_	_	_	_	_	_	_	_
+7	within	_	_	_	_	_	_	_	_
+8	this	_	_	_	_	_	_	_	_
+9	Parliament	_	_	_	_	_	_	_	_
+10	is	_	_	_	_	_	_	_	_
+11	not	_	_	_	_	_	_	_	_
+12	transparent	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1615
+# text = For example, the scandalous novel Vicaire des Ardennes (1822) - banned for its depiction of nearly-incestuous relations and, more egregiously, of a married priest - attributed to a 'Horace De Saint-Aubin'.
+1	For	_	_	_	_	_	_	_	_
+2	example	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	the	_	_	_	_	_	_	_	_
+5	scandalous	_	_	_	_	_	_	_	_
+6	novel	_	_	_	_	_	_	_	_
+7	Vicaire	_	_	_	_	_	_	_	_
+8	des	_	_	_	_	_	_	_	_
+9	Ardennes	_	_	_	_	_	_	_	_
+10	(	_	_	_	_	_	_	_	_
+11	1822	_	_	_	_	_	_	_	_
+12	)	_	_	_	_	_	_	_	_
+13	-	_	_	_	_	_	_	_	_
+14	banned	_	_	_	_	_	_	_	_
+15	for	_	_	_	_	_	_	_	_
+16	its	_	_	_	_	_	_	_	_
+17	depiction	_	_	_	_	_	_	_	_
+18	of	_	_	_	_	_	_	_	_
+19	nearly	_	_	_	_	_	_	_	_
+20	-	_	_	_	_	_	_	_	_
+21	incestuous	_	_	_	_	_	_	_	_
+22	relations	_	_	_	_	_	_	_	_
+23	and	_	_	_	_	_	_	_	_
+24	,	_	_	_	_	_	_	_	_
+25	more	_	_	_	_	_	_	_	_
+26	egregiously	_	_	_	_	_	_	_	_
+27	,	_	_	_	_	_	_	_	_
+28	of	_	_	_	_	_	_	_	_
+29	a	_	_	_	_	_	_	_	_
+30	married	_	_	_	_	_	_	_	_
+31	priest	_	_	_	_	_	_	_	_
+32	-	_	_	_	_	_	_	_	_
+33	attributed	_	_	_	_	_	_	_	_
+34	to	_	_	_	_	_	_	_	_
+35	a	_	_	_	_	_	_	_	_
+36	'	_	_	_	_	_	_	_	_
+37	Horace	_	_	_	_	_	_	_	_
+38	De	_	_	_	_	_	_	_	_
+39	Saint	_	_	_	_	_	_	_	_
+40	-	_	_	_	_	_	_	_	_
+41	Aubin	_	_	_	_	_	_	_	_
+42	'	_	_	_	_	_	_	_	_
+43	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-147
+# text = It is not a lot to ask.
+1	It	_	_	_	_	_	_	_	_
+2	is	_	_	_	_	_	_	_	_
+3	not	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	lot	_	_	_	_	_	_	_	_
+6	to	_	_	_	_	_	_	_	_
+7	ask	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-390
+# text = Bearing this in mind, this House should, in any event, demand that, before the Community support frameworks for the period in question are approved, they be studied and submitted for debate in this Parliament, specifically in light of the guidelines that we have presented today.
+1	Bearing	_	_	_	_	_	_	_	_
+2	this	_	_	_	_	_	_	_	_
+3	in	_	_	_	_	_	_	_	_
+4	mind	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	this	_	_	_	_	_	_	_	_
+7	House	_	_	_	_	_	_	_	_
+8	should	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	in	_	_	_	_	_	_	_	_
+11	any	_	_	_	_	_	_	_	_
+12	event	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	demand	_	_	_	_	_	_	_	_
+15	that	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	before	_	_	_	_	_	_	_	_
+18	the	_	_	_	_	_	_	_	_
+19	Community	_	_	_	_	_	_	_	_
+20	support	_	_	_	_	_	_	_	_
+21	frameworks	_	_	_	_	_	_	_	_
+22	for	_	_	_	_	_	_	_	_
+23	the	_	_	_	_	_	_	_	_
+24	period	_	_	_	_	_	_	_	_
+25	in	_	_	_	_	_	_	_	_
+26	question	_	_	_	_	_	_	_	_
+27	are	_	_	_	_	_	_	_	_
+28	approved	_	_	_	_	_	_	_	_
+29	,	_	_	_	_	_	_	_	_
+30	they	_	_	_	_	_	_	_	_
+31	be	_	_	_	_	_	_	_	_
+32	studied	_	_	_	_	_	_	_	_
+33	and	_	_	_	_	_	_	_	_
+34	submitted	_	_	_	_	_	_	_	_
+35	for	_	_	_	_	_	_	_	_
+36	debate	_	_	_	_	_	_	_	_
+37	in	_	_	_	_	_	_	_	_
+38	this	_	_	_	_	_	_	_	_
+39	Parliament	_	_	_	_	_	_	_	_
+40	,	_	_	_	_	_	_	_	_
+41	specifically	_	_	_	_	_	_	_	_
+42	in	_	_	_	_	_	_	_	_
+43	light	_	_	_	_	_	_	_	_
+44	of	_	_	_	_	_	_	_	_
+45	the	_	_	_	_	_	_	_	_
+46	guidelines	_	_	_	_	_	_	_	_
+47	that	_	_	_	_	_	_	_	_
+48	we	_	_	_	_	_	_	_	_
+49	have	_	_	_	_	_	_	_	_
+50	presented	_	_	_	_	_	_	_	_
+51	today	_	_	_	_	_	_	_	_
+52	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1660
+# text = The tale of a young lady who inherits her father's miserliness, it also became the most critically acclaimed book of his career.
+1	The	_	_	_	_	_	_	_	_
+2	tale	_	_	_	_	_	_	_	_
+3	of	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	young	_	_	_	_	_	_	_	_
+6	lady	_	_	_	_	_	_	_	_
+7	who	_	_	_	_	_	_	_	_
+8	inherits	_	_	_	_	_	_	_	_
+9	her	_	_	_	_	_	_	_	_
+10	father	_	_	_	_	_	_	_	_
+11	's	_	_	_	_	_	_	_	_
+12	miserliness	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	it	_	_	_	_	_	_	_	_
+15	also	_	_	_	_	_	_	_	_
+16	became	_	_	_	_	_	_	_	_
+17	the	_	_	_	_	_	_	_	_
+18	most	_	_	_	_	_	_	_	_
+19	critically	_	_	_	_	_	_	_	_
+20	acclaimed	_	_	_	_	_	_	_	_
+21	book	_	_	_	_	_	_	_	_
+22	of	_	_	_	_	_	_	_	_
+23	his	_	_	_	_	_	_	_	_
+24	career	_	_	_	_	_	_	_	_
+25	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-53
+# text = Subject to the above terms and conditions, the license granted here is perpetual (for the duration of the applicable copyright in the Work).
+1	Subject	_	_	_	_	_	_	_	_
+2	to	_	_	_	_	_	_	_	_
+3	the	_	_	_	_	_	_	_	_
+4	above	_	_	_	_	_	_	_	_
+5	terms	_	_	_	_	_	_	_	_
+6	and	_	_	_	_	_	_	_	_
+7	conditions	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	the	_	_	_	_	_	_	_	_
+10	license	_	_	_	_	_	_	_	_
+11	granted	_	_	_	_	_	_	_	_
+12	here	_	_	_	_	_	_	_	_
+13	is	_	_	_	_	_	_	_	_
+14	perpetual	_	_	_	_	_	_	_	_
+15	(	_	_	_	_	_	_	_	_
+16	for	_	_	_	_	_	_	_	_
+17	the	_	_	_	_	_	_	_	_
+18	duration	_	_	_	_	_	_	_	_
+19	of	_	_	_	_	_	_	_	_
+20	the	_	_	_	_	_	_	_	_
+21	applicable	_	_	_	_	_	_	_	_
+22	copyright	_	_	_	_	_	_	_	_
+23	in	_	_	_	_	_	_	_	_
+24	the	_	_	_	_	_	_	_	_
+25	Work	_	_	_	_	_	_	_	_
+26	)	_	_	_	_	_	_	_	_
+27	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-326
+# text = In the past, this Parliament has viewed the social economy as an important potential provider of employment.
+1	In	_	_	_	_	_	_	_	_
+2	the	_	_	_	_	_	_	_	_
+3	past	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	this	_	_	_	_	_	_	_	_
+6	Parliament	_	_	_	_	_	_	_	_
+7	has	_	_	_	_	_	_	_	_
+8	viewed	_	_	_	_	_	_	_	_
+9	the	_	_	_	_	_	_	_	_
+10	social	_	_	_	_	_	_	_	_
+11	economy	_	_	_	_	_	_	_	_
+12	as	_	_	_	_	_	_	_	_
+13	an	_	_	_	_	_	_	_	_
+14	important	_	_	_	_	_	_	_	_
+15	potential	_	_	_	_	_	_	_	_
+16	provider	_	_	_	_	_	_	_	_
+17	of	_	_	_	_	_	_	_	_
+18	employment	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1380
+# text = The problem is compounded by the fact that women are also likely to have less income to hire laborers in the first place.
+1	The	_	_	_	_	_	_	_	_
+2	problem	_	_	_	_	_	_	_	_
+3	is	_	_	_	_	_	_	_	_
+4	compounded	_	_	_	_	_	_	_	_
+5	by	_	_	_	_	_	_	_	_
+6	the	_	_	_	_	_	_	_	_
+7	fact	_	_	_	_	_	_	_	_
+8	that	_	_	_	_	_	_	_	_
+9	women	_	_	_	_	_	_	_	_
+10	are	_	_	_	_	_	_	_	_
+11	also	_	_	_	_	_	_	_	_
+12	likely	_	_	_	_	_	_	_	_
+13	to	_	_	_	_	_	_	_	_
+14	have	_	_	_	_	_	_	_	_
+15	less	_	_	_	_	_	_	_	_
+16	income	_	_	_	_	_	_	_	_
+17	to	_	_	_	_	_	_	_	_
+18	hire	_	_	_	_	_	_	_	_
+19	laborers	_	_	_	_	_	_	_	_
+20	in	_	_	_	_	_	_	_	_
+21	the	_	_	_	_	_	_	_	_
+22	first	_	_	_	_	_	_	_	_
+23	place	_	_	_	_	_	_	_	_
+24	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-197
+# text = In short, the issue is an important one.
+1	In	_	_	_	_	_	_	_	_
+2	short	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	the	_	_	_	_	_	_	_	_
+5	issue	_	_	_	_	_	_	_	_
+6	is	_	_	_	_	_	_	_	_
+7	an	_	_	_	_	_	_	_	_
+8	important	_	_	_	_	_	_	_	_
+9	one	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1468
+# text = for him, a federal system is a means for the Kremlin to make political mischief and ultimately incorporate Ukraine's eastern and southern regions into the Russian Federation.
+1	for	_	_	_	_	_	_	_	_
+2	him	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	federal	_	_	_	_	_	_	_	_
+6	system	_	_	_	_	_	_	_	_
+7	is	_	_	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	means	_	_	_	_	_	_	_	_
+10	for	_	_	_	_	_	_	_	_
+11	the	_	_	_	_	_	_	_	_
+12	Kremlin	_	_	_	_	_	_	_	_
+13	to	_	_	_	_	_	_	_	_
+14	make	_	_	_	_	_	_	_	_
+15	political	_	_	_	_	_	_	_	_
+16	mischief	_	_	_	_	_	_	_	_
+17	and	_	_	_	_	_	_	_	_
+18	ultimately	_	_	_	_	_	_	_	_
+19	incorporate	_	_	_	_	_	_	_	_
+20	Ukraine	_	_	_	_	_	_	_	_
+21	's	_	_	_	_	_	_	_	_
+22	eastern	_	_	_	_	_	_	_	_
+23	and	_	_	_	_	_	_	_	_
+24	southern	_	_	_	_	_	_	_	_
+25	regions	_	_	_	_	_	_	_	_
+26	into	_	_	_	_	_	_	_	_
+27	the	_	_	_	_	_	_	_	_
+28	Russian	_	_	_	_	_	_	_	_
+29	Federation	_	_	_	_	_	_	_	_
+30	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-425
+# text = I am absolutely certain that this code will be observed and that Parliament will keep abreast of all the developments and details concerning the implementation of the programmes.
+1	I	_	_	_	_	_	_	_	_
+2	am	_	_	_	_	_	_	_	_
+3	absolutely	_	_	_	_	_	_	_	_
+4	certain	_	_	_	_	_	_	_	_
+5	that	_	_	_	_	_	_	_	_
+6	this	_	_	_	_	_	_	_	_
+7	code	_	_	_	_	_	_	_	_
+8	will	_	_	_	_	_	_	_	_
+9	be	_	_	_	_	_	_	_	_
+10	observed	_	_	_	_	_	_	_	_
+11	and	_	_	_	_	_	_	_	_
+12	that	_	_	_	_	_	_	_	_
+13	Parliament	_	_	_	_	_	_	_	_
+14	will	_	_	_	_	_	_	_	_
+15	keep	_	_	_	_	_	_	_	_
+16	abreast	_	_	_	_	_	_	_	_
+17	of	_	_	_	_	_	_	_	_
+18	all	_	_	_	_	_	_	_	_
+19	the	_	_	_	_	_	_	_	_
+20	developments	_	_	_	_	_	_	_	_
+21	and	_	_	_	_	_	_	_	_
+22	details	_	_	_	_	_	_	_	_
+23	concerning	_	_	_	_	_	_	_	_
+24	the	_	_	_	_	_	_	_	_
+25	implementation	_	_	_	_	_	_	_	_
+26	of	_	_	_	_	_	_	_	_
+27	the	_	_	_	_	_	_	_	_
+28	programmes	_	_	_	_	_	_	_	_
+29	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1331
+# text = Indeed, any effective South Korean growth strategy must create more and better economic opportunities for women, in part by establishing more accommodating working environments and instituting a more diverse and flexible education system.
+1	Indeed	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	any	_	_	_	_	_	_	_	_
+4	effective	_	_	_	_	_	_	_	_
+5	South	_	_	_	_	_	_	_	_
+6	Korean	_	_	_	_	_	_	_	_
+7	growth	_	_	_	_	_	_	_	_
+8	strategy	_	_	_	_	_	_	_	_
+9	must	_	_	_	_	_	_	_	_
+10	create	_	_	_	_	_	_	_	_
+11	more	_	_	_	_	_	_	_	_
+12	and	_	_	_	_	_	_	_	_
+13	better	_	_	_	_	_	_	_	_
+14	economic	_	_	_	_	_	_	_	_
+15	opportunities	_	_	_	_	_	_	_	_
+16	for	_	_	_	_	_	_	_	_
+17	women	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	in	_	_	_	_	_	_	_	_
+20	part	_	_	_	_	_	_	_	_
+21	by	_	_	_	_	_	_	_	_
+22	establishing	_	_	_	_	_	_	_	_
+23	more	_	_	_	_	_	_	_	_
+24	accommodating	_	_	_	_	_	_	_	_
+25	working	_	_	_	_	_	_	_	_
+26	environments	_	_	_	_	_	_	_	_
+27	and	_	_	_	_	_	_	_	_
+28	instituting	_	_	_	_	_	_	_	_
+29	a	_	_	_	_	_	_	_	_
+30	more	_	_	_	_	_	_	_	_
+31	diverse	_	_	_	_	_	_	_	_
+32	and	_	_	_	_	_	_	_	_
+33	flexible	_	_	_	_	_	_	_	_
+34	education	_	_	_	_	_	_	_	_
+35	system	_	_	_	_	_	_	_	_
+36	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-867
+# text = We had these data a few years ago.
+1	We	_	_	_	_	_	_	_	_
+2	had	_	_	_	_	_	_	_	_
+3	these	_	_	_	_	_	_	_	_
+4	data	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	few	_	_	_	_	_	_	_	_
+7	years	_	_	_	_	_	_	_	_
+8	ago	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1471
+# text = Ukraine's new federal units would have a powerful say over "Ukraine's foreign-policy direction.
+1	Ukraine	_	_	_	_	_	_	_	_
+2	's	_	_	_	_	_	_	_	_
+3	new	_	_	_	_	_	_	_	_
+4	federal	_	_	_	_	_	_	_	_
+5	units	_	_	_	_	_	_	_	_
+6	would	_	_	_	_	_	_	_	_
+7	have	_	_	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	powerful	_	_	_	_	_	_	_	_
+10	say	_	_	_	_	_	_	_	_
+11	over	_	_	_	_	_	_	_	_
+12	"	_	_	_	_	_	_	_	_
+13	Ukraine	_	_	_	_	_	_	_	_
+14	's	_	_	_	_	_	_	_	_
+15	foreign	_	_	_	_	_	_	_	_
+16	-	_	_	_	_	_	_	_	_
+17	policy	_	_	_	_	_	_	_	_
+18	direction	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-607
+# text = 19) Chapter 6 of the Commission's "Communication on Environmental Agreements at Community level within the Framework of the Action Plan on the Simplification and Improvement of the Regulatory Environment" could provide useful guidance when assessing self-regulation by industry in the context of this Directive.
+1	19	_	_	_	_	_	_	_	_
+2	)	_	_	_	_	_	_	_	_
+3	Chapter	_	_	_	_	_	_	_	_
+4	6	_	_	_	_	_	_	_	_
+5	of	_	_	_	_	_	_	_	_
+6	the	_	_	_	_	_	_	_	_
+7	Commission	_	_	_	_	_	_	_	_
+8	's	_	_	_	_	_	_	_	_
+9	"	_	_	_	_	_	_	_	_
+10	Communication	_	_	_	_	_	_	_	_
+11	on	_	_	_	_	_	_	_	_
+12	Environmental	_	_	_	_	_	_	_	_
+13	Agreements	_	_	_	_	_	_	_	_
+14	at	_	_	_	_	_	_	_	_
+15	Community	_	_	_	_	_	_	_	_
+16	level	_	_	_	_	_	_	_	_
+17	within	_	_	_	_	_	_	_	_
+18	the	_	_	_	_	_	_	_	_
+19	Framework	_	_	_	_	_	_	_	_
+20	of	_	_	_	_	_	_	_	_
+21	the	_	_	_	_	_	_	_	_
+22	Action	_	_	_	_	_	_	_	_
+23	Plan	_	_	_	_	_	_	_	_
+24	on	_	_	_	_	_	_	_	_
+25	the	_	_	_	_	_	_	_	_
+26	Simplification	_	_	_	_	_	_	_	_
+27	and	_	_	_	_	_	_	_	_
+28	Improvement	_	_	_	_	_	_	_	_
+29	of	_	_	_	_	_	_	_	_
+30	the	_	_	_	_	_	_	_	_
+31	Regulatory	_	_	_	_	_	_	_	_
+32	Environment	_	_	_	_	_	_	_	_
+33	"	_	_	_	_	_	_	_	_
+34	could	_	_	_	_	_	_	_	_
+35	provide	_	_	_	_	_	_	_	_
+36	useful	_	_	_	_	_	_	_	_
+37	guidance	_	_	_	_	_	_	_	_
+38	when	_	_	_	_	_	_	_	_
+39	assessing	_	_	_	_	_	_	_	_
+40	self-regulation	_	_	_	_	_	_	_	_
+41	by	_	_	_	_	_	_	_	_
+42	industry	_	_	_	_	_	_	_	_
+43	in	_	_	_	_	_	_	_	_
+44	the	_	_	_	_	_	_	_	_
+45	context	_	_	_	_	_	_	_	_
+46	of	_	_	_	_	_	_	_	_
+47	this	_	_	_	_	_	_	_	_
+48	Directive	_	_	_	_	_	_	_	_
+49	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1869
+# text = In 1610, John Davies of Hereford wrote that "good Will" played "kingly" roles.
+1	In	_	_	_	_	_	_	_	_
+2	1610	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	John	_	_	_	_	_	_	_	_
+5	Davies	_	_	_	_	_	_	_	_
+6	of	_	_	_	_	_	_	_	_
+7	Hereford	_	_	_	_	_	_	_	_
+8	wrote	_	_	_	_	_	_	_	_
+9	that	_	_	_	_	_	_	_	_
+10	"	_	_	_	_	_	_	_	_
+11	good	_	_	_	_	_	_	_	_
+12	Will	_	_	_	_	_	_	_	_
+13	"	_	_	_	_	_	_	_	_
+14	played	_	_	_	_	_	_	_	_
+15	"	_	_	_	_	_	_	_	_
+16	kingly	_	_	_	_	_	_	_	_
+17	"	_	_	_	_	_	_	_	_
+18	roles	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-732
+# text = - continue vigilance in order to maintain or reduce the current level of euro banknote counterfeiting and avoid any increase in euro coin counterfeiting that would undermine the confidence of the public;
+1	-	_	_	_	_	_	_	_	_
+2	continue	_	_	_	_	_	_	_	_
+3	vigilance	_	_	_	_	_	_	_	_
+4	in	_	_	_	_	_	_	_	_
+5	order	_	_	_	_	_	_	_	_
+6	to	_	_	_	_	_	_	_	_
+7	maintain	_	_	_	_	_	_	_	_
+8	or	_	_	_	_	_	_	_	_
+9	reduce	_	_	_	_	_	_	_	_
+10	the	_	_	_	_	_	_	_	_
+11	current	_	_	_	_	_	_	_	_
+12	level	_	_	_	_	_	_	_	_
+13	of	_	_	_	_	_	_	_	_
+14	euro	_	_	_	_	_	_	_	_
+15	banknote	_	_	_	_	_	_	_	_
+16	counterfeiting	_	_	_	_	_	_	_	_
+17	and	_	_	_	_	_	_	_	_
+18	avoid	_	_	_	_	_	_	_	_
+19	any	_	_	_	_	_	_	_	_
+20	increase	_	_	_	_	_	_	_	_
+21	in	_	_	_	_	_	_	_	_
+22	euro	_	_	_	_	_	_	_	_
+23	coin	_	_	_	_	_	_	_	_
+24	counterfeiting	_	_	_	_	_	_	_	_
+25	that	_	_	_	_	_	_	_	_
+26	would	_	_	_	_	_	_	_	_
+27	undermine	_	_	_	_	_	_	_	_
+28	the	_	_	_	_	_	_	_	_
+29	confidence	_	_	_	_	_	_	_	_
+30	of	_	_	_	_	_	_	_	_
+31	the	_	_	_	_	_	_	_	_
+32	public	_	_	_	_	_	_	_	_
+33	;	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-971
+# text = The committee shall adopt its rules of procedure.
+1	The	_	_	_	_	_	_	_	_
+2	committee	_	_	_	_	_	_	_	_
+3	shall	_	_	_	_	_	_	_	_
+4	adopt	_	_	_	_	_	_	_	_
+5	its	_	_	_	_	_	_	_	_
+6	rules	_	_	_	_	_	_	_	_
+7	of	_	_	_	_	_	_	_	_
+8	procedure	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-27
+# text = 4. Restrictions.
+1	4	_	_	_	_	_	_	_	_
+2	.	_	_	_	_	_	_	_	_
+3	Restrictions	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-856
+# text = In fact, what we did a few years ago was learn how to smuggle a molecular biology lab into Tokyo and use it to genetically test the DNA out of whale meat samples and identify what they really were.
+1	In	_	_	_	_	_	_	_	_
+2	fact	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	what	_	_	_	_	_	_	_	_
+5	we	_	_	_	_	_	_	_	_
+6	did	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	few	_	_	_	_	_	_	_	_
+9	years	_	_	_	_	_	_	_	_
+10	ago	_	_	_	_	_	_	_	_
+11	was	_	_	_	_	_	_	_	_
+12	learn	_	_	_	_	_	_	_	_
+13	how	_	_	_	_	_	_	_	_
+14	to	_	_	_	_	_	_	_	_
+15	smuggle	_	_	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	molecular	_	_	_	_	_	_	_	_
+18	biology	_	_	_	_	_	_	_	_
+19	lab	_	_	_	_	_	_	_	_
+20	into	_	_	_	_	_	_	_	_
+21	Tokyo	_	_	_	_	_	_	_	_
+22	and	_	_	_	_	_	_	_	_
+23	use	_	_	_	_	_	_	_	_
+24	it	_	_	_	_	_	_	_	_
+25	to	_	_	_	_	_	_	_	_
+26	genetically	_	_	_	_	_	_	_	_
+27	test	_	_	_	_	_	_	_	_
+28	the	_	_	_	_	_	_	_	_
+29	DNA	_	_	_	_	_	_	_	_
+30	out	_	_	_	_	_	_	_	_
+31	of	_	_	_	_	_	_	_	_
+32	whale	_	_	_	_	_	_	_	_
+33	meat	_	_	_	_	_	_	_	_
+34	samples	_	_	_	_	_	_	_	_
+35	and	_	_	_	_	_	_	_	_
+36	identify	_	_	_	_	_	_	_	_
+37	what	_	_	_	_	_	_	_	_
+38	they	_	_	_	_	_	_	_	_
+39	really	_	_	_	_	_	_	_	_
+40	were	_	_	_	_	_	_	_	_
+41	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-112
+# text = Mrs Lynne, you are quite right and I shall check whether this has actually not been done.
+1	Mrs	_	_	_	_	_	_	_	_
+2	Lynne	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	you	_	_	_	_	_	_	_	_
+5	are	_	_	_	_	_	_	_	_
+6	quite	_	_	_	_	_	_	_	_
+7	right	_	_	_	_	_	_	_	_
+8	and	_	_	_	_	_	_	_	_
+9	I	_	_	_	_	_	_	_	_
+10	shall	_	_	_	_	_	_	_	_
+11	check	_	_	_	_	_	_	_	_
+12	whether	_	_	_	_	_	_	_	_
+13	this	_	_	_	_	_	_	_	_
+14	has	_	_	_	_	_	_	_	_
+15	actually	_	_	_	_	_	_	_	_
+16	not	_	_	_	_	_	_	_	_
+17	been	_	_	_	_	_	_	_	_
+18	done	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1434
+# text = · Finely manipulating things with small muscles.
+1	·	_	_	_	_	_	_	_	_
+2	Finely	_	_	_	_	_	_	_	_
+3	manipulating	_	_	_	_	_	_	_	_
+4	things	_	_	_	_	_	_	_	_
+5	with	_	_	_	_	_	_	_	_
+6	small	_	_	_	_	_	_	_	_
+7	muscles	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1041
+# text = In reality, few economies can bear the requisite currency alignments without pain.
+1	In	_	_	_	_	_	_	_	_
+2	reality	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	few	_	_	_	_	_	_	_	_
+5	economies	_	_	_	_	_	_	_	_
+6	can	_	_	_	_	_	_	_	_
+7	bear	_	_	_	_	_	_	_	_
+8	the	_	_	_	_	_	_	_	_
+9	requisite	_	_	_	_	_	_	_	_
+10	currency	_	_	_	_	_	_	_	_
+11	alignments	_	_	_	_	_	_	_	_
+12	without	_	_	_	_	_	_	_	_
+13	pain	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-427
+# text = I know many have already done so, but she has indeed earned our praise for being particularly open and attentive to proposals from all sides, and I think it is this openness which has given her report the quality we see today.
+1	I	_	_	_	_	_	_	_	_
+2	know	_	_	_	_	_	_	_	_
+3	many	_	_	_	_	_	_	_	_
+4	have	_	_	_	_	_	_	_	_
+5	already	_	_	_	_	_	_	_	_
+6	done	_	_	_	_	_	_	_	_
+7	so	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	but	_	_	_	_	_	_	_	_
+10	she	_	_	_	_	_	_	_	_
+11	has	_	_	_	_	_	_	_	_
+12	indeed	_	_	_	_	_	_	_	_
+13	earned	_	_	_	_	_	_	_	_
+14	our	_	_	_	_	_	_	_	_
+15	praise	_	_	_	_	_	_	_	_
+16	for	_	_	_	_	_	_	_	_
+17	being	_	_	_	_	_	_	_	_
+18	particularly	_	_	_	_	_	_	_	_
+19	open	_	_	_	_	_	_	_	_
+20	and	_	_	_	_	_	_	_	_
+21	attentive	_	_	_	_	_	_	_	_
+22	to	_	_	_	_	_	_	_	_
+23	proposals	_	_	_	_	_	_	_	_
+24	from	_	_	_	_	_	_	_	_
+25	all	_	_	_	_	_	_	_	_
+26	sides	_	_	_	_	_	_	_	_
+27	,	_	_	_	_	_	_	_	_
+28	and	_	_	_	_	_	_	_	_
+29	I	_	_	_	_	_	_	_	_
+30	think	_	_	_	_	_	_	_	_
+31	it	_	_	_	_	_	_	_	_
+32	is	_	_	_	_	_	_	_	_
+33	this	_	_	_	_	_	_	_	_
+34	openness	_	_	_	_	_	_	_	_
+35	which	_	_	_	_	_	_	_	_
+36	has	_	_	_	_	_	_	_	_
+37	given	_	_	_	_	_	_	_	_
+38	her	_	_	_	_	_	_	_	_
+39	report	_	_	_	_	_	_	_	_
+40	the	_	_	_	_	_	_	_	_
+41	quality	_	_	_	_	_	_	_	_
+42	we	_	_	_	_	_	_	_	_
+43	see	_	_	_	_	_	_	_	_
+44	today	_	_	_	_	_	_	_	_
+45	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-371
+# text = Mr President, Commissioner, I would like to thank Mrs Schroedter for an excellent report.
+1	Mr	_	_	_	_	_	_	_	_
+2	President	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	Commissioner	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	I	_	_	_	_	_	_	_	_
+7	would	_	_	_	_	_	_	_	_
+8	like	_	_	_	_	_	_	_	_
+9	to	_	_	_	_	_	_	_	_
+10	thank	_	_	_	_	_	_	_	_
+11	Mrs	_	_	_	_	_	_	_	_
+12	Schroedter	_	_	_	_	_	_	_	_
+13	for	_	_	_	_	_	_	_	_
+14	an	_	_	_	_	_	_	_	_
+15	excellent	_	_	_	_	_	_	_	_
+16	report	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1783
+# text = "What Balzac started", says Lehan, "Flaubert helped finish.
+1	"	_	_	_	_	_	_	_	_
+2	What	_	_	_	_	_	_	_	_
+3	Balzac	_	_	_	_	_	_	_	_
+4	started	_	_	_	_	_	_	_	_
+5	"	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	says	_	_	_	_	_	_	_	_
+8	Lehan	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	"	_	_	_	_	_	_	_	_
+11	Flaubert	_	_	_	_	_	_	_	_
+12	helped	_	_	_	_	_	_	_	_
+13	finish	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1450
+# text = APR 4, 2014.
+1	APR	_	_	_	_	_	_	_	_
+2	4	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	2014	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1453
+# text = Our young men and women are volunteering for military service like never before.
+1	Our	_	_	_	_	_	_	_	_
+2	young	_	_	_	_	_	_	_	_
+3	men	_	_	_	_	_	_	_	_
+4	and	_	_	_	_	_	_	_	_
+5	women	_	_	_	_	_	_	_	_
+6	are	_	_	_	_	_	_	_	_
+7	volunteering	_	_	_	_	_	_	_	_
+8	for	_	_	_	_	_	_	_	_
+9	military	_	_	_	_	_	_	_	_
+10	service	_	_	_	_	_	_	_	_
+11	like	_	_	_	_	_	_	_	_
+12	never	_	_	_	_	_	_	_	_
+13	before	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1838
+# text = After the birth of the twins, Shakespeare left few historical traces until he is mentioned as part of the London theatre scene in 1592.
+1	After	_	_	_	_	_	_	_	_
+2	the	_	_	_	_	_	_	_	_
+3	birth	_	_	_	_	_	_	_	_
+4	of	_	_	_	_	_	_	_	_
+5	the	_	_	_	_	_	_	_	_
+6	twins	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	Shakespeare	_	_	_	_	_	_	_	_
+9	left	_	_	_	_	_	_	_	_
+10	few	_	_	_	_	_	_	_	_
+11	historical	_	_	_	_	_	_	_	_
+12	traces	_	_	_	_	_	_	_	_
+13	until	_	_	_	_	_	_	_	_
+14	he	_	_	_	_	_	_	_	_
+15	is	_	_	_	_	_	_	_	_
+16	mentioned	_	_	_	_	_	_	_	_
+17	as	_	_	_	_	_	_	_	_
+18	part	_	_	_	_	_	_	_	_
+19	of	_	_	_	_	_	_	_	_
+20	the	_	_	_	_	_	_	_	_
+21	London	_	_	_	_	_	_	_	_
+22	theatre	_	_	_	_	_	_	_	_
+23	scene	_	_	_	_	_	_	_	_
+24	in	_	_	_	_	_	_	_	_
+25	1592	_	_	_	_	_	_	_	_
+26	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-966
+# text = Exceptionally and in duly justified cases, limited extensions in terms of duration may be granted for execution of contracts.
+1	Exceptionally	_	_	_	_	_	_	_	_
+2	and	_	_	_	_	_	_	_	_
+3	in	_	_	_	_	_	_	_	_
+4	duly	_	_	_	_	_	_	_	_
+5	justified	_	_	_	_	_	_	_	_
+6	cases	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	limited	_	_	_	_	_	_	_	_
+9	extensions	_	_	_	_	_	_	_	_
+10	in	_	_	_	_	_	_	_	_
+11	terms	_	_	_	_	_	_	_	_
+12	of	_	_	_	_	_	_	_	_
+13	duration	_	_	_	_	_	_	_	_
+14	may	_	_	_	_	_	_	_	_
+15	be	_	_	_	_	_	_	_	_
+16	granted	_	_	_	_	_	_	_	_
+17	for	_	_	_	_	_	_	_	_
+18	execution	_	_	_	_	_	_	_	_
+19	of	_	_	_	_	_	_	_	_
+20	contracts	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-942
+# text = The mycelium, in the right conditions, produces a mushroom - it bursts through with such ferocity that it can break asphalt.
+1	The	_	_	_	_	_	_	_	_
+2	mycelium	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	in	_	_	_	_	_	_	_	_
+5	the	_	_	_	_	_	_	_	_
+6	right	_	_	_	_	_	_	_	_
+7	conditions	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	produces	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	mushroom	_	_	_	_	_	_	_	_
+12	-	_	_	_	_	_	_	_	_
+13	it	_	_	_	_	_	_	_	_
+14	bursts	_	_	_	_	_	_	_	_
+15	through	_	_	_	_	_	_	_	_
+16	with	_	_	_	_	_	_	_	_
+17	such	_	_	_	_	_	_	_	_
+18	ferocity	_	_	_	_	_	_	_	_
+19	that	_	_	_	_	_	_	_	_
+20	it	_	_	_	_	_	_	_	_
+21	can	_	_	_	_	_	_	_	_
+22	break	_	_	_	_	_	_	_	_
+23	asphalt	_	_	_	_	_	_	_	_
+24	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1940
+# text = It is not clear for which companies Shakespeare wrote his early plays.
+1	It	_	_	_	_	_	_	_	_
+2	is	_	_	_	_	_	_	_	_
+3	not	_	_	_	_	_	_	_	_
+4	clear	_	_	_	_	_	_	_	_
+5	for	_	_	_	_	_	_	_	_
+6	which	_	_	_	_	_	_	_	_
+7	companies	_	_	_	_	_	_	_	_
+8	Shakespeare	_	_	_	_	_	_	_	_
+9	wrote	_	_	_	_	_	_	_	_
+10	his	_	_	_	_	_	_	_	_
+11	early	_	_	_	_	_	_	_	_
+12	plays	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-189
+# text = We still have a lot of work to do in this area as recent events have proved.
+1	We	_	_	_	_	_	_	_	_
+2	still	_	_	_	_	_	_	_	_
+3	have	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	lot	_	_	_	_	_	_	_	_
+6	of	_	_	_	_	_	_	_	_
+7	work	_	_	_	_	_	_	_	_
+8	to	_	_	_	_	_	_	_	_
+9	do	_	_	_	_	_	_	_	_
+10	in	_	_	_	_	_	_	_	_
+11	this	_	_	_	_	_	_	_	_
+12	area	_	_	_	_	_	_	_	_
+13	as	_	_	_	_	_	_	_	_
+14	recent	_	_	_	_	_	_	_	_
+15	events	_	_	_	_	_	_	_	_
+16	have	_	_	_	_	_	_	_	_
+17	proved	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1727
+# text = Later, Balzac became the subject of a monumental statue by the French sculptor Auguste Rodin, which stands near the intersection of Boulevard Raspail and Boulevard Montparnasse.
+1	Later	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	Balzac	_	_	_	_	_	_	_	_
+4	became	_	_	_	_	_	_	_	_
+5	the	_	_	_	_	_	_	_	_
+6	subject	_	_	_	_	_	_	_	_
+7	of	_	_	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	monumental	_	_	_	_	_	_	_	_
+10	statue	_	_	_	_	_	_	_	_
+11	by	_	_	_	_	_	_	_	_
+12	the	_	_	_	_	_	_	_	_
+13	French	_	_	_	_	_	_	_	_
+14	sculptor	_	_	_	_	_	_	_	_
+15	Auguste	_	_	_	_	_	_	_	_
+16	Rodin	_	_	_	_	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	which	_	_	_	_	_	_	_	_
+19	stands	_	_	_	_	_	_	_	_
+20	near	_	_	_	_	_	_	_	_
+21	the	_	_	_	_	_	_	_	_
+22	intersection	_	_	_	_	_	_	_	_
+23	of	_	_	_	_	_	_	_	_
+24	Boulevard	_	_	_	_	_	_	_	_
+25	Raspail	_	_	_	_	_	_	_	_
+26	and	_	_	_	_	_	_	_	_
+27	Boulevard	_	_	_	_	_	_	_	_
+28	Montparnasse	_	_	_	_	_	_	_	_
+29	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1038
+# text = Governments that enjoyed the rollercoaster ride on the way up should not have been surprised by the plunge that inevitably follows.
+1	Governments	_	_	_	_	_	_	_	_
+2	that	_	_	_	_	_	_	_	_
+3	enjoyed	_	_	_	_	_	_	_	_
+4	the	_	_	_	_	_	_	_	_
+5	rollercoaster	_	_	_	_	_	_	_	_
+6	ride	_	_	_	_	_	_	_	_
+7	on	_	_	_	_	_	_	_	_
+8	the	_	_	_	_	_	_	_	_
+9	way	_	_	_	_	_	_	_	_
+10	up	_	_	_	_	_	_	_	_
+11	should	_	_	_	_	_	_	_	_
+12	not	_	_	_	_	_	_	_	_
+13	have	_	_	_	_	_	_	_	_
+14	been	_	_	_	_	_	_	_	_
+15	surprised	_	_	_	_	_	_	_	_
+16	by	_	_	_	_	_	_	_	_
+17	the	_	_	_	_	_	_	_	_
+18	plunge	_	_	_	_	_	_	_	_
+19	that	_	_	_	_	_	_	_	_
+20	inevitably	_	_	_	_	_	_	_	_
+21	follows	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-635
+# text = (35) Directive 92/42/EEC provides for a star rating system intended to ascertain the energy performance of boilers.
+1	(	_	_	_	_	_	_	_	_
+2	35	_	_	_	_	_	_	_	_
+3	)	_	_	_	_	_	_	_	_
+4	Directive	_	_	_	_	_	_	_	_
+5	92	_	_	_	_	_	_	_	_
+6	/	_	_	_	_	_	_	_	_
+7	42	_	_	_	_	_	_	_	_
+8	/	_	_	_	_	_	_	_	_
+9	EEC	_	_	_	_	_	_	_	_
+10	provides	_	_	_	_	_	_	_	_
+11	for	_	_	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	star	_	_	_	_	_	_	_	_
+14	rating	_	_	_	_	_	_	_	_
+15	system	_	_	_	_	_	_	_	_
+16	intended	_	_	_	_	_	_	_	_
+17	to	_	_	_	_	_	_	_	_
+18	ascertain	_	_	_	_	_	_	_	_
+19	the	_	_	_	_	_	_	_	_
+20	energy	_	_	_	_	_	_	_	_
+21	performance	_	_	_	_	_	_	_	_
+22	of	_	_	_	_	_	_	_	_
+23	boilers	_	_	_	_	_	_	_	_
+24	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-918
+# text = They came to land 1.3 billion years ago, and plants followed several hundred million years later.
+1	They	_	_	_	_	_	_	_	_
+2	came	_	_	_	_	_	_	_	_
+3	to	_	_	_	_	_	_	_	_
+4	land	_	_	_	_	_	_	_	_
+5	1.3	_	_	_	_	_	_	_	_
+6	billion	_	_	_	_	_	_	_	_
+7	years	_	_	_	_	_	_	_	_
+8	ago	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	and	_	_	_	_	_	_	_	_
+11	plants	_	_	_	_	_	_	_	_
+12	followed	_	_	_	_	_	_	_	_
+13	several	_	_	_	_	_	_	_	_
+14	hundred	_	_	_	_	_	_	_	_
+15	million	_	_	_	_	_	_	_	_
+16	years	_	_	_	_	_	_	_	_
+17	later	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-924
+# text = This was first discovered in 1859.
+1	This	_	_	_	_	_	_	_	_
+2	was	_	_	_	_	_	_	_	_
+3	first	_	_	_	_	_	_	_	_
+4	discovered	_	_	_	_	_	_	_	_
+5	in	_	_	_	_	_	_	_	_
+6	1859	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1587
+# text = In 1814 the Balzac family moved to Paris, and Honoré was sent to private tutors and schools for the next two and a half years.
+1	In	_	_	_	_	_	_	_	_
+2	1814	_	_	_	_	_	_	_	_
+3	the	_	_	_	_	_	_	_	_
+4	Balzac	_	_	_	_	_	_	_	_
+5	family	_	_	_	_	_	_	_	_
+6	moved	_	_	_	_	_	_	_	_
+7	to	_	_	_	_	_	_	_	_
+8	Paris	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	and	_	_	_	_	_	_	_	_
+11	Honoré	_	_	_	_	_	_	_	_
+12	was	_	_	_	_	_	_	_	_
+13	sent	_	_	_	_	_	_	_	_
+14	to	_	_	_	_	_	_	_	_
+15	private	_	_	_	_	_	_	_	_
+16	tutors	_	_	_	_	_	_	_	_
+17	and	_	_	_	_	_	_	_	_
+18	schools	_	_	_	_	_	_	_	_
+19	for	_	_	_	_	_	_	_	_
+20	the	_	_	_	_	_	_	_	_
+21	next	_	_	_	_	_	_	_	_
+22	two	_	_	_	_	_	_	_	_
+23	and	_	_	_	_	_	_	_	_
+24	a	_	_	_	_	_	_	_	_
+25	half	_	_	_	_	_	_	_	_
+26	years	_	_	_	_	_	_	_	_
+27	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1023
+# text = PRINCETON – How quickly emerging markets' fortunes have turned.
+1	PRINCETON	_	_	_	_	_	_	_	_
+2	–	_	_	_	_	_	_	_	_
+3	How	_	_	_	_	_	_	_	_
+4	quickly	_	_	_	_	_	_	_	_
+5	emerging	_	_	_	_	_	_	_	_
+6	markets	_	_	_	_	_	_	_	_
+7	'	_	_	_	_	_	_	_	_
+8	fortunes	_	_	_	_	_	_	_	_
+9	have	_	_	_	_	_	_	_	_
+10	turned	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1085
+# text = It is time for India's leaders to recognize the positive role that IP can play in fostering growth and improving citizens' wellbeing.
+1	It	_	_	_	_	_	_	_	_
+2	is	_	_	_	_	_	_	_	_
+3	time	_	_	_	_	_	_	_	_
+4	for	_	_	_	_	_	_	_	_
+5	India	_	_	_	_	_	_	_	_
+6	's	_	_	_	_	_	_	_	_
+7	leaders	_	_	_	_	_	_	_	_
+8	to	_	_	_	_	_	_	_	_
+9	recognize	_	_	_	_	_	_	_	_
+10	the	_	_	_	_	_	_	_	_
+11	positive	_	_	_	_	_	_	_	_
+12	role	_	_	_	_	_	_	_	_
+13	that	_	_	_	_	_	_	_	_
+14	IP	_	_	_	_	_	_	_	_
+15	can	_	_	_	_	_	_	_	_
+16	play	_	_	_	_	_	_	_	_
+17	in	_	_	_	_	_	_	_	_
+18	fostering	_	_	_	_	_	_	_	_
+19	growth	_	_	_	_	_	_	_	_
+20	and	_	_	_	_	_	_	_	_
+21	improving	_	_	_	_	_	_	_	_
+22	citizens	_	_	_	_	_	_	_	_
+23	'	_	_	_	_	_	_	_	_
+24	wellbeing	_	_	_	_	_	_	_	_
+25	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-12
+# text = 1. Definitions.
+1	1	_	_	_	_	_	_	_	_
+2	.	_	_	_	_	_	_	_	_
+3	Definitions	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-714
+# text = In line with Article 5 of the Pericles Decision, the programme is implemented and coordinated by the Commission and the Member States working closely together.
+1	In	_	_	_	_	_	_	_	_
+2	line	_	_	_	_	_	_	_	_
+3	with	_	_	_	_	_	_	_	_
+4	Article	_	_	_	_	_	_	_	_
+5	5	_	_	_	_	_	_	_	_
+6	of	_	_	_	_	_	_	_	_
+7	the	_	_	_	_	_	_	_	_
+8	Pericles	_	_	_	_	_	_	_	_
+9	Decision	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	the	_	_	_	_	_	_	_	_
+12	programme	_	_	_	_	_	_	_	_
+13	is	_	_	_	_	_	_	_	_
+14	implemented	_	_	_	_	_	_	_	_
+15	and	_	_	_	_	_	_	_	_
+16	coordinated	_	_	_	_	_	_	_	_
+17	by	_	_	_	_	_	_	_	_
+18	the	_	_	_	_	_	_	_	_
+19	Commission	_	_	_	_	_	_	_	_
+20	and	_	_	_	_	_	_	_	_
+21	the	_	_	_	_	_	_	_	_
+22	Member	_	_	_	_	_	_	_	_
+23	States	_	_	_	_	_	_	_	_
+24	working	_	_	_	_	_	_	_	_
+25	closely	_	_	_	_	_	_	_	_
+26	together	_	_	_	_	_	_	_	_
+27	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-2030
+# text = Scholars have identified 20,000 pieces of music linked to Shakespeare's works.
+1	Scholars	_	_	_	_	_	_	_	_
+2	have	_	_	_	_	_	_	_	_
+3	identified	_	_	_	_	_	_	_	_
+4	20,000	_	_	_	_	_	_	_	_
+5	pieces	_	_	_	_	_	_	_	_
+6	of	_	_	_	_	_	_	_	_
+7	music	_	_	_	_	_	_	_	_
+8	linked	_	_	_	_	_	_	_	_
+9	to	_	_	_	_	_	_	_	_
+10	Shakespeare	_	_	_	_	_	_	_	_
+11	's	_	_	_	_	_	_	_	_
+12	works	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-299
+# text = I would like to say, with regard to Mr Swoboda's comments on the activity of the CEN, that we are urging them to speed up their work as much as possible because it would be terrible if, despite the new deadline, we were to find ourselves after a year and a bit with the same difficulties because their work has not been concluded.
+1	I	_	_	_	_	_	_	_	_
+2	would	_	_	_	_	_	_	_	_
+3	like	_	_	_	_	_	_	_	_
+4	to	_	_	_	_	_	_	_	_
+5	say	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	with	_	_	_	_	_	_	_	_
+8	regard	_	_	_	_	_	_	_	_
+9	to	_	_	_	_	_	_	_	_
+10	Mr	_	_	_	_	_	_	_	_
+11	Swoboda	_	_	_	_	_	_	_	_
+12	's	_	_	_	_	_	_	_	_
+13	comments	_	_	_	_	_	_	_	_
+14	on	_	_	_	_	_	_	_	_
+15	the	_	_	_	_	_	_	_	_
+16	activity	_	_	_	_	_	_	_	_
+17	of	_	_	_	_	_	_	_	_
+18	the	_	_	_	_	_	_	_	_
+19	CEN	_	_	_	_	_	_	_	_
+20	,	_	_	_	_	_	_	_	_
+21	that	_	_	_	_	_	_	_	_
+22	we	_	_	_	_	_	_	_	_
+23	are	_	_	_	_	_	_	_	_
+24	urging	_	_	_	_	_	_	_	_
+25	them	_	_	_	_	_	_	_	_
+26	to	_	_	_	_	_	_	_	_
+27	speed	_	_	_	_	_	_	_	_
+28	up	_	_	_	_	_	_	_	_
+29	their	_	_	_	_	_	_	_	_
+30	work	_	_	_	_	_	_	_	_
+31	as	_	_	_	_	_	_	_	_
+32	much	_	_	_	_	_	_	_	_
+33	as	_	_	_	_	_	_	_	_
+34	possible	_	_	_	_	_	_	_	_
+35	because	_	_	_	_	_	_	_	_
+36	it	_	_	_	_	_	_	_	_
+37	would	_	_	_	_	_	_	_	_
+38	be	_	_	_	_	_	_	_	_
+39	terrible	_	_	_	_	_	_	_	_
+40	if	_	_	_	_	_	_	_	_
+41	,	_	_	_	_	_	_	_	_
+42	despite	_	_	_	_	_	_	_	_
+43	the	_	_	_	_	_	_	_	_
+44	new	_	_	_	_	_	_	_	_
+45	deadline	_	_	_	_	_	_	_	_
+46	,	_	_	_	_	_	_	_	_
+47	we	_	_	_	_	_	_	_	_
+48	were	_	_	_	_	_	_	_	_
+49	to	_	_	_	_	_	_	_	_
+50	find	_	_	_	_	_	_	_	_
+51	ourselves	_	_	_	_	_	_	_	_
+52	after	_	_	_	_	_	_	_	_
+53	a	_	_	_	_	_	_	_	_
+54	year	_	_	_	_	_	_	_	_
+55	and	_	_	_	_	_	_	_	_
+56	a	_	_	_	_	_	_	_	_
+57	bit	_	_	_	_	_	_	_	_
+58	with	_	_	_	_	_	_	_	_
+59	the	_	_	_	_	_	_	_	_
+60	same	_	_	_	_	_	_	_	_
+61	difficulties	_	_	_	_	_	_	_	_
+62	because	_	_	_	_	_	_	_	_
+63	their	_	_	_	_	_	_	_	_
+64	work	_	_	_	_	_	_	_	_
+65	has	_	_	_	_	_	_	_	_
+66	not	_	_	_	_	_	_	_	_
+67	been	_	_	_	_	_	_	_	_
+68	concluded	_	_	_	_	_	_	_	_
+69	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1219
+# text = But past growth performance is no guarantee that a broadly similar trajectory can be maintained throughout this century.
+1	But	_	_	_	_	_	_	_	_
+2	past	_	_	_	_	_	_	_	_
+3	growth	_	_	_	_	_	_	_	_
+4	performance	_	_	_	_	_	_	_	_
+5	is	_	_	_	_	_	_	_	_
+6	no	_	_	_	_	_	_	_	_
+7	guarantee	_	_	_	_	_	_	_	_
+8	that	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	broadly	_	_	_	_	_	_	_	_
+11	similar	_	_	_	_	_	_	_	_
+12	trajectory	_	_	_	_	_	_	_	_
+13	can	_	_	_	_	_	_	_	_
+14	be	_	_	_	_	_	_	_	_
+15	maintained	_	_	_	_	_	_	_	_
+16	throughout	_	_	_	_	_	_	_	_
+17	this	_	_	_	_	_	_	_	_
+18	century	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-855
+# text = This is whale meat that I photographed in a grocery store in Tokyo - or is it?
+1	This	_	_	_	_	_	_	_	_
+2	is	_	_	_	_	_	_	_	_
+3	whale	_	_	_	_	_	_	_	_
+4	meat	_	_	_	_	_	_	_	_
+5	that	_	_	_	_	_	_	_	_
+6	I	_	_	_	_	_	_	_	_
+7	photographed	_	_	_	_	_	_	_	_
+8	in	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	grocery	_	_	_	_	_	_	_	_
+11	store	_	_	_	_	_	_	_	_
+12	in	_	_	_	_	_	_	_	_
+13	Tokyo	_	_	_	_	_	_	_	_
+14	-	_	_	_	_	_	_	_	_
+15	or	_	_	_	_	_	_	_	_
+16	is	_	_	_	_	_	_	_	_
+17	it	_	_	_	_	_	_	_	_
+18	?	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1750
+# text = they emerge from the privacy of their own lives which, for an interval, we have not been allowed to see.
+1	they	_	_	_	_	_	_	_	_
+2	emerge	_	_	_	_	_	_	_	_
+3	from	_	_	_	_	_	_	_	_
+4	the	_	_	_	_	_	_	_	_
+5	privacy	_	_	_	_	_	_	_	_
+6	of	_	_	_	_	_	_	_	_
+7	their	_	_	_	_	_	_	_	_
+8	own	_	_	_	_	_	_	_	_
+9	lives	_	_	_	_	_	_	_	_
+10	which	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	for	_	_	_	_	_	_	_	_
+13	an	_	_	_	_	_	_	_	_
+14	interval	_	_	_	_	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	we	_	_	_	_	_	_	_	_
+17	have	_	_	_	_	_	_	_	_
+18	not	_	_	_	_	_	_	_	_
+19	been	_	_	_	_	_	_	_	_
+20	allowed	_	_	_	_	_	_	_	_
+21	to	_	_	_	_	_	_	_	_
+22	see	_	_	_	_	_	_	_	_
+23	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-233
+# text = As Mr Simpson has said very correctly, this is a process which we can never take for granted or regard as having come to an end.
+1	As	_	_	_	_	_	_	_	_
+2	Mr	_	_	_	_	_	_	_	_
+3	Simpson	_	_	_	_	_	_	_	_
+4	has	_	_	_	_	_	_	_	_
+5	said	_	_	_	_	_	_	_	_
+6	very	_	_	_	_	_	_	_	_
+7	correctly	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	this	_	_	_	_	_	_	_	_
+10	is	_	_	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	process	_	_	_	_	_	_	_	_
+13	which	_	_	_	_	_	_	_	_
+14	we	_	_	_	_	_	_	_	_
+15	can	_	_	_	_	_	_	_	_
+16	never	_	_	_	_	_	_	_	_
+17	take	_	_	_	_	_	_	_	_
+18	for	_	_	_	_	_	_	_	_
+19	granted	_	_	_	_	_	_	_	_
+20	or	_	_	_	_	_	_	_	_
+21	regard	_	_	_	_	_	_	_	_
+22	as	_	_	_	_	_	_	_	_
+23	having	_	_	_	_	_	_	_	_
+24	come	_	_	_	_	_	_	_	_
+25	to	_	_	_	_	_	_	_	_
+26	an	_	_	_	_	_	_	_	_
+27	end	_	_	_	_	_	_	_	_
+28	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1899
+# text = Some scholars see the bequest as an insult to Anne, whereas others believe that the second-best bed would have been the matrimonial bed and therefore rich in significance.
+1	Some	_	_	_	_	_	_	_	_
+2	scholars	_	_	_	_	_	_	_	_
+3	see	_	_	_	_	_	_	_	_
+4	the	_	_	_	_	_	_	_	_
+5	bequest	_	_	_	_	_	_	_	_
+6	as	_	_	_	_	_	_	_	_
+7	an	_	_	_	_	_	_	_	_
+8	insult	_	_	_	_	_	_	_	_
+9	to	_	_	_	_	_	_	_	_
+10	Anne	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	whereas	_	_	_	_	_	_	_	_
+13	others	_	_	_	_	_	_	_	_
+14	believe	_	_	_	_	_	_	_	_
+15	that	_	_	_	_	_	_	_	_
+16	the	_	_	_	_	_	_	_	_
+17	second-best	_	_	_	_	_	_	_	_
+18	bed	_	_	_	_	_	_	_	_
+19	would	_	_	_	_	_	_	_	_
+20	have	_	_	_	_	_	_	_	_
+21	been	_	_	_	_	_	_	_	_
+22	the	_	_	_	_	_	_	_	_
+23	matrimonial	_	_	_	_	_	_	_	_
+24	bed	_	_	_	_	_	_	_	_
+25	and	_	_	_	_	_	_	_	_
+26	therefore	_	_	_	_	_	_	_	_
+27	rich	_	_	_	_	_	_	_	_
+28	in	_	_	_	_	_	_	_	_
+29	significance	_	_	_	_	_	_	_	_
+30	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1334
+# text = But a significant gender gap remains in terms of the return on human capital.
+1	But	_	_	_	_	_	_	_	_
+2	a	_	_	_	_	_	_	_	_
+3	significant	_	_	_	_	_	_	_	_
+4	gender	_	_	_	_	_	_	_	_
+5	gap	_	_	_	_	_	_	_	_
+6	remains	_	_	_	_	_	_	_	_
+7	in	_	_	_	_	_	_	_	_
+8	terms	_	_	_	_	_	_	_	_
+9	of	_	_	_	_	_	_	_	_
+10	the	_	_	_	_	_	_	_	_
+11	return	_	_	_	_	_	_	_	_
+12	on	_	_	_	_	_	_	_	_
+13	human	_	_	_	_	_	_	_	_
+14	capital	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-782
+# text = (1) Everyone has the right to freedom of peaceful assembly and association.
+1	(	_	_	_	_	_	_	_	_
+2	1	_	_	_	_	_	_	_	_
+3	)	_	_	_	_	_	_	_	_
+4	Everyone	_	_	_	_	_	_	_	_
+5	has	_	_	_	_	_	_	_	_
+6	the	_	_	_	_	_	_	_	_
+7	right	_	_	_	_	_	_	_	_
+8	to	_	_	_	_	_	_	_	_
+9	freedom	_	_	_	_	_	_	_	_
+10	of	_	_	_	_	_	_	_	_
+11	peaceful	_	_	_	_	_	_	_	_
+12	assembly	_	_	_	_	_	_	_	_
+13	and	_	_	_	_	_	_	_	_
+14	association	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-698
+# text = In that respect, the evaluation report (p. 10 and 11) shows that, until March 2004, 65% of participants were mainly from law enforcement agencies.
+1	In	_	_	_	_	_	_	_	_
+2	that	_	_	_	_	_	_	_	_
+3	respect	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	the	_	_	_	_	_	_	_	_
+6	evaluation	_	_	_	_	_	_	_	_
+7	report	_	_	_	_	_	_	_	_
+8	(	_	_	_	_	_	_	_	_
+9	p.	_	_	_	_	_	_	_	_
+10	10	_	_	_	_	_	_	_	_
+11	and	_	_	_	_	_	_	_	_
+12	11	_	_	_	_	_	_	_	_
+13	)	_	_	_	_	_	_	_	_
+14	shows	_	_	_	_	_	_	_	_
+15	that	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	until	_	_	_	_	_	_	_	_
+18	March	_	_	_	_	_	_	_	_
+19	2004	_	_	_	_	_	_	_	_
+20	,	_	_	_	_	_	_	_	_
+21	65	_	_	_	_	_	_	_	_
+22	%	_	_	_	_	_	_	_	_
+23	of	_	_	_	_	_	_	_	_
+24	participants	_	_	_	_	_	_	_	_
+25	were	_	_	_	_	_	_	_	_
+26	mainly	_	_	_	_	_	_	_	_
+27	from	_	_	_	_	_	_	_	_
+28	law	_	_	_	_	_	_	_	_
+29	enforcement	_	_	_	_	_	_	_	_
+30	agencies	_	_	_	_	_	_	_	_
+31	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-363
+# text = My Group has made extensive amendments to both reports up for debate today.
+1	My	_	_	_	_	_	_	_	_
+2	Group	_	_	_	_	_	_	_	_
+3	has	_	_	_	_	_	_	_	_
+4	made	_	_	_	_	_	_	_	_
+5	extensive	_	_	_	_	_	_	_	_
+6	amendments	_	_	_	_	_	_	_	_
+7	to	_	_	_	_	_	_	_	_
+8	both	_	_	_	_	_	_	_	_
+9	reports	_	_	_	_	_	_	_	_
+10	up	_	_	_	_	_	_	_	_
+11	for	_	_	_	_	_	_	_	_
+12	debate	_	_	_	_	_	_	_	_
+13	today	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-773
+# text = (1) Men and women of full age, without any limitation due to race, nationality or religion, have the right to marry and to found a family.
+1	(	_	_	_	_	_	_	_	_
+2	1	_	_	_	_	_	_	_	_
+3	)	_	_	_	_	_	_	_	_
+4	Men	_	_	_	_	_	_	_	_
+5	and	_	_	_	_	_	_	_	_
+6	women	_	_	_	_	_	_	_	_
+7	of	_	_	_	_	_	_	_	_
+8	full	_	_	_	_	_	_	_	_
+9	age	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	without	_	_	_	_	_	_	_	_
+12	any	_	_	_	_	_	_	_	_
+13	limitation	_	_	_	_	_	_	_	_
+14	due	_	_	_	_	_	_	_	_
+15	to	_	_	_	_	_	_	_	_
+16	race	_	_	_	_	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	nationality	_	_	_	_	_	_	_	_
+19	or	_	_	_	_	_	_	_	_
+20	religion	_	_	_	_	_	_	_	_
+21	,	_	_	_	_	_	_	_	_
+22	have	_	_	_	_	_	_	_	_
+23	the	_	_	_	_	_	_	_	_
+24	right	_	_	_	_	_	_	_	_
+25	to	_	_	_	_	_	_	_	_
+26	marry	_	_	_	_	_	_	_	_
+27	and	_	_	_	_	_	_	_	_
+28	to	_	_	_	_	_	_	_	_
+29	found	_	_	_	_	_	_	_	_
+30	a	_	_	_	_	_	_	_	_
+31	family	_	_	_	_	_	_	_	_
+32	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1518
+# text = The World Health Organization's Special Program for Research and Training in Tropical Diseases has called upon regulatory agencies to emphasize "science-based, case-by-case targeted requirements with a degree of practical parsimony," instead of relying on "a precautionary approach that can require data to address all theoretical risks.
+1	The	_	_	_	_	_	_	_	_
+2	World	_	_	_	_	_	_	_	_
+3	Health	_	_	_	_	_	_	_	_
+4	Organization	_	_	_	_	_	_	_	_
+5	's	_	_	_	_	_	_	_	_
+6	Special	_	_	_	_	_	_	_	_
+7	Program	_	_	_	_	_	_	_	_
+8	for	_	_	_	_	_	_	_	_
+9	Research	_	_	_	_	_	_	_	_
+10	and	_	_	_	_	_	_	_	_
+11	Training	_	_	_	_	_	_	_	_
+12	in	_	_	_	_	_	_	_	_
+13	Tropical	_	_	_	_	_	_	_	_
+14	Diseases	_	_	_	_	_	_	_	_
+15	has	_	_	_	_	_	_	_	_
+16	called	_	_	_	_	_	_	_	_
+17	upon	_	_	_	_	_	_	_	_
+18	regulatory	_	_	_	_	_	_	_	_
+19	agencies	_	_	_	_	_	_	_	_
+20	to	_	_	_	_	_	_	_	_
+21	emphasize	_	_	_	_	_	_	_	_
+22	"	_	_	_	_	_	_	_	_
+23	science	_	_	_	_	_	_	_	_
+24	-	_	_	_	_	_	_	_	_
+25	based	_	_	_	_	_	_	_	_
+26	,	_	_	_	_	_	_	_	_
+27	case-by-case	_	_	_	_	_	_	_	_
+28	targeted	_	_	_	_	_	_	_	_
+29	requirements	_	_	_	_	_	_	_	_
+30	with	_	_	_	_	_	_	_	_
+31	a	_	_	_	_	_	_	_	_
+32	degree	_	_	_	_	_	_	_	_
+33	of	_	_	_	_	_	_	_	_
+34	practical	_	_	_	_	_	_	_	_
+35	parsimony	_	_	_	_	_	_	_	_
+36	,	_	_	_	_	_	_	_	_
+37	"	_	_	_	_	_	_	_	_
+38	instead	_	_	_	_	_	_	_	_
+39	of	_	_	_	_	_	_	_	_
+40	relying	_	_	_	_	_	_	_	_
+41	on	_	_	_	_	_	_	_	_
+42	"	_	_	_	_	_	_	_	_
+43	a	_	_	_	_	_	_	_	_
+44	precautionary	_	_	_	_	_	_	_	_
+45	approach	_	_	_	_	_	_	_	_
+46	that	_	_	_	_	_	_	_	_
+47	can	_	_	_	_	_	_	_	_
+48	require	_	_	_	_	_	_	_	_
+49	data	_	_	_	_	_	_	_	_
+50	to	_	_	_	_	_	_	_	_
+51	address	_	_	_	_	_	_	_	_
+52	all	_	_	_	_	_	_	_	_
+53	theoretical	_	_	_	_	_	_	_	_
+54	risks	_	_	_	_	_	_	_	_
+55	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1022
+# text = Death by Finance.
+1	Death	_	_	_	_	_	_	_	_
+2	by	_	_	_	_	_	_	_	_
+3	Finance	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1064
+# text = Instead of diluting IP rights, developing countries like India should recognize that strengthening IP protection is a prerequisite for attracting the foreign investment that they need to help their economies grow, create jobs, and improve their citizens'capacity to consume.
+1	Instead	_	_	_	_	_	_	_	_
+2	of	_	_	_	_	_	_	_	_
+3	diluting	_	_	_	_	_	_	_	_
+4	IP	_	_	_	_	_	_	_	_
+5	rights	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	developing	_	_	_	_	_	_	_	_
+8	countries	_	_	_	_	_	_	_	_
+9	like	_	_	_	_	_	_	_	_
+10	India	_	_	_	_	_	_	_	_
+11	should	_	_	_	_	_	_	_	_
+12	recognize	_	_	_	_	_	_	_	_
+13	that	_	_	_	_	_	_	_	_
+14	strengthening	_	_	_	_	_	_	_	_
+15	IP	_	_	_	_	_	_	_	_
+16	protection	_	_	_	_	_	_	_	_
+17	is	_	_	_	_	_	_	_	_
+18	a	_	_	_	_	_	_	_	_
+19	prerequisite	_	_	_	_	_	_	_	_
+20	for	_	_	_	_	_	_	_	_
+21	attracting	_	_	_	_	_	_	_	_
+22	the	_	_	_	_	_	_	_	_
+23	foreign	_	_	_	_	_	_	_	_
+24	investment	_	_	_	_	_	_	_	_
+25	that	_	_	_	_	_	_	_	_
+26	they	_	_	_	_	_	_	_	_
+27	need	_	_	_	_	_	_	_	_
+28	to	_	_	_	_	_	_	_	_
+29	help	_	_	_	_	_	_	_	_
+30	their	_	_	_	_	_	_	_	_
+31	economies	_	_	_	_	_	_	_	_
+32	grow	_	_	_	_	_	_	_	_
+33	,	_	_	_	_	_	_	_	_
+34	create	_	_	_	_	_	_	_	_
+35	jobs	_	_	_	_	_	_	_	_
+36	,	_	_	_	_	_	_	_	_
+37	and	_	_	_	_	_	_	_	_
+38	improve	_	_	_	_	_	_	_	_
+39	their	_	_	_	_	_	_	_	_
+40	citizens	_	_	_	_	_	_	_	_
+41	'	_	_	_	_	_	_	_	_
+42	capacity	_	_	_	_	_	_	_	_
+43	to	_	_	_	_	_	_	_	_
+44	consume	_	_	_	_	_	_	_	_
+45	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-195
+# text = Or ships from Eastern Europe which moor adjacent to ships over here, with all the obvious risks that this entails.
+1	Or	_	_	_	_	_	_	_	_
+2	ships	_	_	_	_	_	_	_	_
+3	from	_	_	_	_	_	_	_	_
+4	Eastern	_	_	_	_	_	_	_	_
+5	Europe	_	_	_	_	_	_	_	_
+6	which	_	_	_	_	_	_	_	_
+7	moor	_	_	_	_	_	_	_	_
+8	adjacent	_	_	_	_	_	_	_	_
+9	to	_	_	_	_	_	_	_	_
+10	ships	_	_	_	_	_	_	_	_
+11	over	_	_	_	_	_	_	_	_
+12	here	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	with	_	_	_	_	_	_	_	_
+15	all	_	_	_	_	_	_	_	_
+16	the	_	_	_	_	_	_	_	_
+17	obvious	_	_	_	_	_	_	_	_
+18	risks	_	_	_	_	_	_	_	_
+19	that	_	_	_	_	_	_	_	_
+20	this	_	_	_	_	_	_	_	_
+21	entails	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-2004
+# text = Shakespeare uses it, for example, to convey the turmoil in Hamlet's mind.
+1	Shakespeare	_	_	_	_	_	_	_	_
+2	uses	_	_	_	_	_	_	_	_
+3	it	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	for	_	_	_	_	_	_	_	_
+6	example	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	to	_	_	_	_	_	_	_	_
+9	convey	_	_	_	_	_	_	_	_
+10	the	_	_	_	_	_	_	_	_
+11	turmoil	_	_	_	_	_	_	_	_
+12	in	_	_	_	_	_	_	_	_
+13	Hamlet	_	_	_	_	_	_	_	_
+14	's	_	_	_	_	_	_	_	_
+15	mind	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1374
+# text = Previously, experts believed that women's farms produced less because women have less access to inputs like fertilizer, water, and even information.
+1	Previously	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	experts	_	_	_	_	_	_	_	_
+4	believed	_	_	_	_	_	_	_	_
+5	that	_	_	_	_	_	_	_	_
+6	women	_	_	_	_	_	_	_	_
+7	's	_	_	_	_	_	_	_	_
+8	farms	_	_	_	_	_	_	_	_
+9	produced	_	_	_	_	_	_	_	_
+10	less	_	_	_	_	_	_	_	_
+11	because	_	_	_	_	_	_	_	_
+12	women	_	_	_	_	_	_	_	_
+13	have	_	_	_	_	_	_	_	_
+14	less	_	_	_	_	_	_	_	_
+15	access	_	_	_	_	_	_	_	_
+16	to	_	_	_	_	_	_	_	_
+17	inputs	_	_	_	_	_	_	_	_
+18	like	_	_	_	_	_	_	_	_
+19	fertilizer	_	_	_	_	_	_	_	_
+20	,	_	_	_	_	_	_	_	_
+21	water	_	_	_	_	_	_	_	_
+22	,	_	_	_	_	_	_	_	_
+23	and	_	_	_	_	_	_	_	_
+24	even	_	_	_	_	_	_	_	_
+25	information	_	_	_	_	_	_	_	_
+26	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-345
+# text = However, even though the role of agriculture is not exclusive, it is still essential, not only to prevent economic and social disintegration and the creation of ghost towns, but also because farmers play a fundamental role in managing the land, in preserving biodiversity and in protecting the environment.
+1	However	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	even	_	_	_	_	_	_	_	_
+4	though	_	_	_	_	_	_	_	_
+5	the	_	_	_	_	_	_	_	_
+6	role	_	_	_	_	_	_	_	_
+7	of	_	_	_	_	_	_	_	_
+8	agriculture	_	_	_	_	_	_	_	_
+9	is	_	_	_	_	_	_	_	_
+10	not	_	_	_	_	_	_	_	_
+11	exclusive	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	it	_	_	_	_	_	_	_	_
+14	is	_	_	_	_	_	_	_	_
+15	still	_	_	_	_	_	_	_	_
+16	essential	_	_	_	_	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	not	_	_	_	_	_	_	_	_
+19	only	_	_	_	_	_	_	_	_
+20	to	_	_	_	_	_	_	_	_
+21	prevent	_	_	_	_	_	_	_	_
+22	economic	_	_	_	_	_	_	_	_
+23	and	_	_	_	_	_	_	_	_
+24	social	_	_	_	_	_	_	_	_
+25	disintegration	_	_	_	_	_	_	_	_
+26	and	_	_	_	_	_	_	_	_
+27	the	_	_	_	_	_	_	_	_
+28	creation	_	_	_	_	_	_	_	_
+29	of	_	_	_	_	_	_	_	_
+30	ghost	_	_	_	_	_	_	_	_
+31	towns	_	_	_	_	_	_	_	_
+32	,	_	_	_	_	_	_	_	_
+33	but	_	_	_	_	_	_	_	_
+34	also	_	_	_	_	_	_	_	_
+35	because	_	_	_	_	_	_	_	_
+36	farmers	_	_	_	_	_	_	_	_
+37	play	_	_	_	_	_	_	_	_
+38	a	_	_	_	_	_	_	_	_
+39	fundamental	_	_	_	_	_	_	_	_
+40	role	_	_	_	_	_	_	_	_
+41	in	_	_	_	_	_	_	_	_
+42	managing	_	_	_	_	_	_	_	_
+43	the	_	_	_	_	_	_	_	_
+44	land	_	_	_	_	_	_	_	_
+45	,	_	_	_	_	_	_	_	_
+46	in	_	_	_	_	_	_	_	_
+47	preserving	_	_	_	_	_	_	_	_
+48	biodiversity	_	_	_	_	_	_	_	_
+49	and	_	_	_	_	_	_	_	_
+50	in	_	_	_	_	_	_	_	_
+51	protecting	_	_	_	_	_	_	_	_
+52	the	_	_	_	_	_	_	_	_
+53	environment	_	_	_	_	_	_	_	_
+54	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1624
+# text = This business failed miserably, with many of the books "sold as waste paper".
+1	This	_	_	_	_	_	_	_	_
+2	business	_	_	_	_	_	_	_	_
+3	failed	_	_	_	_	_	_	_	_
+4	miserably	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	with	_	_	_	_	_	_	_	_
+7	many	_	_	_	_	_	_	_	_
+8	of	_	_	_	_	_	_	_	_
+9	the	_	_	_	_	_	_	_	_
+10	books	_	_	_	_	_	_	_	_
+11	"	_	_	_	_	_	_	_	_
+12	sold	_	_	_	_	_	_	_	_
+13	as	_	_	_	_	_	_	_	_
+14	waste	_	_	_	_	_	_	_	_
+15	paper	_	_	_	_	_	_	_	_
+16	"	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1477
+# text = Ukraine is a fully sovereign state, recognized as such by the world, including Russia.
+1	Ukraine	_	_	_	_	_	_	_	_
+2	is	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	fully	_	_	_	_	_	_	_	_
+5	sovereign	_	_	_	_	_	_	_	_
+6	state	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	recognized	_	_	_	_	_	_	_	_
+9	as	_	_	_	_	_	_	_	_
+10	such	_	_	_	_	_	_	_	_
+11	by	_	_	_	_	_	_	_	_
+12	the	_	_	_	_	_	_	_	_
+13	world	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	including	_	_	_	_	_	_	_	_
+16	Russia	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-141
+# text = I do not know whether this information is correct, but the PPE-DE Group would, in any case, be grateful if this item were removed because Parliament has addressed this issue several times already.
+1	I	_	_	_	_	_	_	_	_
+2	do	_	_	_	_	_	_	_	_
+3	not	_	_	_	_	_	_	_	_
+4	know	_	_	_	_	_	_	_	_
+5	whether	_	_	_	_	_	_	_	_
+6	this	_	_	_	_	_	_	_	_
+7	information	_	_	_	_	_	_	_	_
+8	is	_	_	_	_	_	_	_	_
+9	correct	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	but	_	_	_	_	_	_	_	_
+12	the	_	_	_	_	_	_	_	_
+13	PPE	_	_	_	_	_	_	_	_
+14	-	_	_	_	_	_	_	_	_
+15	DE	_	_	_	_	_	_	_	_
+16	Group	_	_	_	_	_	_	_	_
+17	would	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	in	_	_	_	_	_	_	_	_
+20	any	_	_	_	_	_	_	_	_
+21	case	_	_	_	_	_	_	_	_
+22	,	_	_	_	_	_	_	_	_
+23	be	_	_	_	_	_	_	_	_
+24	grateful	_	_	_	_	_	_	_	_
+25	if	_	_	_	_	_	_	_	_
+26	this	_	_	_	_	_	_	_	_
+27	item	_	_	_	_	_	_	_	_
+28	were	_	_	_	_	_	_	_	_
+29	removed	_	_	_	_	_	_	_	_
+30	because	_	_	_	_	_	_	_	_
+31	Parliament	_	_	_	_	_	_	_	_
+32	has	_	_	_	_	_	_	_	_
+33	addressed	_	_	_	_	_	_	_	_
+34	this	_	_	_	_	_	_	_	_
+35	issue	_	_	_	_	_	_	_	_
+36	several	_	_	_	_	_	_	_	_
+37	times	_	_	_	_	_	_	_	_
+38	already	_	_	_	_	_	_	_	_
+39	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-508
+# text = Create an Advert or contact our sales team.
+1	Create	_	_	_	_	_	_	_	_
+2	an	_	_	_	_	_	_	_	_
+3	Advert	_	_	_	_	_	_	_	_
+4	or	_	_	_	_	_	_	_	_
+5	contact	_	_	_	_	_	_	_	_
+6	our	_	_	_	_	_	_	_	_
+7	sales	_	_	_	_	_	_	_	_
+8	team	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1868
+# text = The First Folio of 1623, however, lists Shakespeare as one of "the Principal Actors in all these Plays", some of which were first staged after Volpone, although we cannot know for certain which roles he played.
+1	The	_	_	_	_	_	_	_	_
+2	First	_	_	_	_	_	_	_	_
+3	Folio	_	_	_	_	_	_	_	_
+4	of	_	_	_	_	_	_	_	_
+5	1623	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	however	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	lists	_	_	_	_	_	_	_	_
+10	Shakespeare	_	_	_	_	_	_	_	_
+11	as	_	_	_	_	_	_	_	_
+12	one	_	_	_	_	_	_	_	_
+13	of	_	_	_	_	_	_	_	_
+14	"	_	_	_	_	_	_	_	_
+15	the	_	_	_	_	_	_	_	_
+16	Principal	_	_	_	_	_	_	_	_
+17	Actors	_	_	_	_	_	_	_	_
+18	in	_	_	_	_	_	_	_	_
+19	all	_	_	_	_	_	_	_	_
+20	these	_	_	_	_	_	_	_	_
+21	Plays	_	_	_	_	_	_	_	_
+22	"	_	_	_	_	_	_	_	_
+23	,	_	_	_	_	_	_	_	_
+24	some	_	_	_	_	_	_	_	_
+25	of	_	_	_	_	_	_	_	_
+26	which	_	_	_	_	_	_	_	_
+27	were	_	_	_	_	_	_	_	_
+28	first	_	_	_	_	_	_	_	_
+29	staged	_	_	_	_	_	_	_	_
+30	after	_	_	_	_	_	_	_	_
+31	Volpone	_	_	_	_	_	_	_	_
+32	,	_	_	_	_	_	_	_	_
+33	although	_	_	_	_	_	_	_	_
+34	we	_	_	_	_	_	_	_	_
+35	can	_	_	_	_	_	_	_	_
+36	not	_	_	_	_	_	_	_	_
+37	know	_	_	_	_	_	_	_	_
+38	for	_	_	_	_	_	_	_	_
+39	certain	_	_	_	_	_	_	_	_
+40	which	_	_	_	_	_	_	_	_
+41	roles	_	_	_	_	_	_	_	_
+42	he	_	_	_	_	_	_	_	_
+43	played	_	_	_	_	_	_	_	_
+44	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-229
+# text = in the end there is only one amendment on the requirements for the aptitude examination for safety advisers in the transport of dangerous goods by road, rail or inland waterway.
+1	in	_	_	_	_	_	_	_	_
+2	the	_	_	_	_	_	_	_	_
+3	end	_	_	_	_	_	_	_	_
+4	there	_	_	_	_	_	_	_	_
+5	is	_	_	_	_	_	_	_	_
+6	only	_	_	_	_	_	_	_	_
+7	one	_	_	_	_	_	_	_	_
+8	amendment	_	_	_	_	_	_	_	_
+9	on	_	_	_	_	_	_	_	_
+10	the	_	_	_	_	_	_	_	_
+11	requirements	_	_	_	_	_	_	_	_
+12	for	_	_	_	_	_	_	_	_
+13	the	_	_	_	_	_	_	_	_
+14	aptitude	_	_	_	_	_	_	_	_
+15	examination	_	_	_	_	_	_	_	_
+16	for	_	_	_	_	_	_	_	_
+17	safety	_	_	_	_	_	_	_	_
+18	advisers	_	_	_	_	_	_	_	_
+19	in	_	_	_	_	_	_	_	_
+20	the	_	_	_	_	_	_	_	_
+21	transport	_	_	_	_	_	_	_	_
+22	of	_	_	_	_	_	_	_	_
+23	dangerous	_	_	_	_	_	_	_	_
+24	goods	_	_	_	_	_	_	_	_
+25	by	_	_	_	_	_	_	_	_
+26	road	_	_	_	_	_	_	_	_
+27	,	_	_	_	_	_	_	_	_
+28	rail	_	_	_	_	_	_	_	_
+29	or	_	_	_	_	_	_	_	_
+30	inland	_	_	_	_	_	_	_	_
+31	waterway	_	_	_	_	_	_	_	_
+32	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1970
+# text = Influenced by Ovid's Metamorphoses, the poems show the guilt and moral confusion that result from uncontrolled lust.
+1	Influenced	_	_	_	_	_	_	_	_
+2	by	_	_	_	_	_	_	_	_
+3	Ovid	_	_	_	_	_	_	_	_
+4	's	_	_	_	_	_	_	_	_
+5	Metamorphoses	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	the	_	_	_	_	_	_	_	_
+8	poems	_	_	_	_	_	_	_	_
+9	show	_	_	_	_	_	_	_	_
+10	the	_	_	_	_	_	_	_	_
+11	guilt	_	_	_	_	_	_	_	_
+12	and	_	_	_	_	_	_	_	_
+13	moral	_	_	_	_	_	_	_	_
+14	confusion	_	_	_	_	_	_	_	_
+15	that	_	_	_	_	_	_	_	_
+16	result	_	_	_	_	_	_	_	_
+17	from	_	_	_	_	_	_	_	_
+18	uncontrolled	_	_	_	_	_	_	_	_
+19	lust	_	_	_	_	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1956
+# text = On 29 June, however, a cannon set fire to the thatch of the Globe and burned the theatre to the ground, an event which pinpoints the date of a Shakespeare play with rare precision.
+1	On	_	_	_	_	_	_	_	_
+2	29	_	_	_	_	_	_	_	_
+3	June	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	however	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	cannon	_	_	_	_	_	_	_	_
+9	set	_	_	_	_	_	_	_	_
+10	fire	_	_	_	_	_	_	_	_
+11	to	_	_	_	_	_	_	_	_
+12	the	_	_	_	_	_	_	_	_
+13	thatch	_	_	_	_	_	_	_	_
+14	of	_	_	_	_	_	_	_	_
+15	the	_	_	_	_	_	_	_	_
+16	Globe	_	_	_	_	_	_	_	_
+17	and	_	_	_	_	_	_	_	_
+18	burned	_	_	_	_	_	_	_	_
+19	the	_	_	_	_	_	_	_	_
+20	theatre	_	_	_	_	_	_	_	_
+21	to	_	_	_	_	_	_	_	_
+22	the	_	_	_	_	_	_	_	_
+23	ground	_	_	_	_	_	_	_	_
+24	,	_	_	_	_	_	_	_	_
+25	an	_	_	_	_	_	_	_	_
+26	event	_	_	_	_	_	_	_	_
+27	which	_	_	_	_	_	_	_	_
+28	pinpoints	_	_	_	_	_	_	_	_
+29	the	_	_	_	_	_	_	_	_
+30	date	_	_	_	_	_	_	_	_
+31	of	_	_	_	_	_	_	_	_
+32	a	_	_	_	_	_	_	_	_
+33	Shakespeare	_	_	_	_	_	_	_	_
+34	play	_	_	_	_	_	_	_	_
+35	with	_	_	_	_	_	_	_	_
+36	rare	_	_	_	_	_	_	_	_
+37	precision	_	_	_	_	_	_	_	_
+38	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-524
+# text = Of the Facebook users who were directed to CM Photographics’ website from the adverts, 60% became qualified leads and actively expressed interest in more information.
+1	Of	_	_	_	_	_	_	_	_
+2	the	_	_	_	_	_	_	_	_
+3	Facebook	_	_	_	_	_	_	_	_
+4	users	_	_	_	_	_	_	_	_
+5	who	_	_	_	_	_	_	_	_
+6	were	_	_	_	_	_	_	_	_
+7	directed	_	_	_	_	_	_	_	_
+8	to	_	_	_	_	_	_	_	_
+9	CM	_	_	_	_	_	_	_	_
+10	Photographics	_	_	_	_	_	_	_	_
+11	’	_	_	_	_	_	_	_	_
+12	website	_	_	_	_	_	_	_	_
+13	from	_	_	_	_	_	_	_	_
+14	the	_	_	_	_	_	_	_	_
+15	adverts	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	60	_	_	_	_	_	_	_	_
+18	%	_	_	_	_	_	_	_	_
+19	became	_	_	_	_	_	_	_	_
+20	qualified	_	_	_	_	_	_	_	_
+21	leads	_	_	_	_	_	_	_	_
+22	and	_	_	_	_	_	_	_	_
+23	actively	_	_	_	_	_	_	_	_
+24	expressed	_	_	_	_	_	_	_	_
+25	interest	_	_	_	_	_	_	_	_
+26	in	_	_	_	_	_	_	_	_
+27	more	_	_	_	_	_	_	_	_
+28	information	_	_	_	_	_	_	_	_
+29	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-632
+# text = (33) This Directive is complementary to existing Community instruments such as Council Directive 92/75/EEC of 22 September 1992 on the indication by labelling and standard product information of the consumption of energy and other resources by household appliances, Regulation (EC) No 1980/2000 of the European Parliament and of the Council of 17 July 2000 on a revised Community eco-label award scheme, Regulation (EC) No 2422/2001 of the European Parliament and of the Council of 6 November 2001 on a Community energy efficiency labelling programme for office equipment, Directive 2002/96/EC of the European Parliament and of the Council of 27 January 2003 on waste electrical and electronic equipment (WEEE), Directive 2002/95/EC of the European Parliament and of the Council of 27 January 2003 on the restriction of the use of certain hazardous substances in electrical and electronic equipment and Council Directive 76/769/EEC of 27 July 1976 on the approximation of the laws, regulations and administrative provisions of the Member States relating to restrictions on the marketing and use of certain dangerous substances and preparations.
+1	(	_	_	_	_	_	_	_	_
+2	33	_	_	_	_	_	_	_	_
+3	)	_	_	_	_	_	_	_	_
+4	This	_	_	_	_	_	_	_	_
+5	Directive	_	_	_	_	_	_	_	_
+6	is	_	_	_	_	_	_	_	_
+7	complementary	_	_	_	_	_	_	_	_
+8	to	_	_	_	_	_	_	_	_
+9	existing	_	_	_	_	_	_	_	_
+10	Community	_	_	_	_	_	_	_	_
+11	instruments	_	_	_	_	_	_	_	_
+12	such	_	_	_	_	_	_	_	_
+13	as	_	_	_	_	_	_	_	_
+14	Council	_	_	_	_	_	_	_	_
+15	Directive	_	_	_	_	_	_	_	_
+16	92	_	_	_	_	_	_	_	_
+17	/	_	_	_	_	_	_	_	_
+18	75	_	_	_	_	_	_	_	_
+19	/	_	_	_	_	_	_	_	_
+20	EEC	_	_	_	_	_	_	_	_
+21	of	_	_	_	_	_	_	_	_
+22	22	_	_	_	_	_	_	_	_
+23	September	_	_	_	_	_	_	_	_
+24	1992	_	_	_	_	_	_	_	_
+25	on	_	_	_	_	_	_	_	_
+26	the	_	_	_	_	_	_	_	_
+27	indication	_	_	_	_	_	_	_	_
+28	by	_	_	_	_	_	_	_	_
+29	labelling	_	_	_	_	_	_	_	_
+30	and	_	_	_	_	_	_	_	_
+31	standard	_	_	_	_	_	_	_	_
+32	product	_	_	_	_	_	_	_	_
+33	information	_	_	_	_	_	_	_	_
+34	of	_	_	_	_	_	_	_	_
+35	the	_	_	_	_	_	_	_	_
+36	consumption	_	_	_	_	_	_	_	_
+37	of	_	_	_	_	_	_	_	_
+38	energy	_	_	_	_	_	_	_	_
+39	and	_	_	_	_	_	_	_	_
+40	other	_	_	_	_	_	_	_	_
+41	resources	_	_	_	_	_	_	_	_
+42	by	_	_	_	_	_	_	_	_
+43	household	_	_	_	_	_	_	_	_
+44	appliances	_	_	_	_	_	_	_	_
+45	,	_	_	_	_	_	_	_	_
+46	Regulation	_	_	_	_	_	_	_	_
+47	(	_	_	_	_	_	_	_	_
+48	EC	_	_	_	_	_	_	_	_
+49	)	_	_	_	_	_	_	_	_
+50	No	_	_	_	_	_	_	_	_
+51	1980	_	_	_	_	_	_	_	_
+52	/	_	_	_	_	_	_	_	_
+53	2000	_	_	_	_	_	_	_	_
+54	of	_	_	_	_	_	_	_	_
+55	the	_	_	_	_	_	_	_	_
+56	European	_	_	_	_	_	_	_	_
+57	Parliament	_	_	_	_	_	_	_	_
+58	and	_	_	_	_	_	_	_	_
+59	of	_	_	_	_	_	_	_	_
+60	the	_	_	_	_	_	_	_	_
+61	Council	_	_	_	_	_	_	_	_
+62	of	_	_	_	_	_	_	_	_
+63	17	_	_	_	_	_	_	_	_
+64	July	_	_	_	_	_	_	_	_
+65	2000	_	_	_	_	_	_	_	_
+66	on	_	_	_	_	_	_	_	_
+67	a	_	_	_	_	_	_	_	_
+68	revised	_	_	_	_	_	_	_	_
+69	Community	_	_	_	_	_	_	_	_
+70	eco	_	_	_	_	_	_	_	_
+71	-	_	_	_	_	_	_	_	_
+72	label	_	_	_	_	_	_	_	_
+73	award	_	_	_	_	_	_	_	_
+74	scheme	_	_	_	_	_	_	_	_
+75	,	_	_	_	_	_	_	_	_
+76	Regulation	_	_	_	_	_	_	_	_
+77	(	_	_	_	_	_	_	_	_
+78	EC	_	_	_	_	_	_	_	_
+79	)	_	_	_	_	_	_	_	_
+80	No	_	_	_	_	_	_	_	_
+81	2422	_	_	_	_	_	_	_	_
+82	/	_	_	_	_	_	_	_	_
+83	2001	_	_	_	_	_	_	_	_
+84	of	_	_	_	_	_	_	_	_
+85	the	_	_	_	_	_	_	_	_
+86	European	_	_	_	_	_	_	_	_
+87	Parliament	_	_	_	_	_	_	_	_
+88	and	_	_	_	_	_	_	_	_
+89	of	_	_	_	_	_	_	_	_
+90	the	_	_	_	_	_	_	_	_
+91	Council	_	_	_	_	_	_	_	_
+92	of	_	_	_	_	_	_	_	_
+93	6	_	_	_	_	_	_	_	_
+94	November	_	_	_	_	_	_	_	_
+95	2001	_	_	_	_	_	_	_	_
+96	on	_	_	_	_	_	_	_	_
+97	a	_	_	_	_	_	_	_	_
+98	Community	_	_	_	_	_	_	_	_
+99	energy	_	_	_	_	_	_	_	_
+100	efficiency	_	_	_	_	_	_	_	_
+101	labelling	_	_	_	_	_	_	_	_
+102	programme	_	_	_	_	_	_	_	_
+103	for	_	_	_	_	_	_	_	_
+104	office	_	_	_	_	_	_	_	_
+105	equipment	_	_	_	_	_	_	_	_
+106	,	_	_	_	_	_	_	_	_
+107	Directive	_	_	_	_	_	_	_	_
+108	2002	_	_	_	_	_	_	_	_
+109	/	_	_	_	_	_	_	_	_
+110	96	_	_	_	_	_	_	_	_
+111	/	_	_	_	_	_	_	_	_
+112	EC	_	_	_	_	_	_	_	_
+113	of	_	_	_	_	_	_	_	_
+114	the	_	_	_	_	_	_	_	_
+115	European	_	_	_	_	_	_	_	_
+116	Parliament	_	_	_	_	_	_	_	_
+117	and	_	_	_	_	_	_	_	_
+118	of	_	_	_	_	_	_	_	_
+119	the	_	_	_	_	_	_	_	_
+120	Council	_	_	_	_	_	_	_	_
+121	of	_	_	_	_	_	_	_	_
+122	27	_	_	_	_	_	_	_	_
+123	January	_	_	_	_	_	_	_	_
+124	2003	_	_	_	_	_	_	_	_
+125	on	_	_	_	_	_	_	_	_
+126	waste	_	_	_	_	_	_	_	_
+127	electrical	_	_	_	_	_	_	_	_
+128	and	_	_	_	_	_	_	_	_
+129	electronic	_	_	_	_	_	_	_	_
+130	equipment	_	_	_	_	_	_	_	_
+131	(	_	_	_	_	_	_	_	_
+132	WEEE	_	_	_	_	_	_	_	_
+133	)	_	_	_	_	_	_	_	_
+134	,	_	_	_	_	_	_	_	_
+135	Directive	_	_	_	_	_	_	_	_
+136	2002	_	_	_	_	_	_	_	_
+137	/	_	_	_	_	_	_	_	_
+138	95	_	_	_	_	_	_	_	_
+139	/	_	_	_	_	_	_	_	_
+140	EC	_	_	_	_	_	_	_	_
+141	of	_	_	_	_	_	_	_	_
+142	the	_	_	_	_	_	_	_	_
+143	European	_	_	_	_	_	_	_	_
+144	Parliament	_	_	_	_	_	_	_	_
+145	and	_	_	_	_	_	_	_	_
+146	of	_	_	_	_	_	_	_	_
+147	the	_	_	_	_	_	_	_	_
+148	Council	_	_	_	_	_	_	_	_
+149	of	_	_	_	_	_	_	_	_
+150	27	_	_	_	_	_	_	_	_
+151	January	_	_	_	_	_	_	_	_
+152	2003	_	_	_	_	_	_	_	_
+153	on	_	_	_	_	_	_	_	_
+154	the	_	_	_	_	_	_	_	_
+155	restriction	_	_	_	_	_	_	_	_
+156	of	_	_	_	_	_	_	_	_
+157	the	_	_	_	_	_	_	_	_
+158	use	_	_	_	_	_	_	_	_
+159	of	_	_	_	_	_	_	_	_
+160	certain	_	_	_	_	_	_	_	_
+161	hazardous	_	_	_	_	_	_	_	_
+162	substances	_	_	_	_	_	_	_	_
+163	in	_	_	_	_	_	_	_	_
+164	electrical	_	_	_	_	_	_	_	_
+165	and	_	_	_	_	_	_	_	_
+166	electronic	_	_	_	_	_	_	_	_
+167	equipment	_	_	_	_	_	_	_	_
+168	and	_	_	_	_	_	_	_	_
+169	Council	_	_	_	_	_	_	_	_
+170	Directive	_	_	_	_	_	_	_	_
+171	76	_	_	_	_	_	_	_	_
+172	/	_	_	_	_	_	_	_	_
+173	769	_	_	_	_	_	_	_	_
+174	/	_	_	_	_	_	_	_	_
+175	EEC	_	_	_	_	_	_	_	_
+176	of	_	_	_	_	_	_	_	_
+177	27	_	_	_	_	_	_	_	_
+178	July	_	_	_	_	_	_	_	_
+179	1976	_	_	_	_	_	_	_	_
+180	on	_	_	_	_	_	_	_	_
+181	the	_	_	_	_	_	_	_	_
+182	approximation	_	_	_	_	_	_	_	_
+183	of	_	_	_	_	_	_	_	_
+184	the	_	_	_	_	_	_	_	_
+185	laws	_	_	_	_	_	_	_	_
+186	,	_	_	_	_	_	_	_	_
+187	regulations	_	_	_	_	_	_	_	_
+188	and	_	_	_	_	_	_	_	_
+189	administrative	_	_	_	_	_	_	_	_
+190	provisions	_	_	_	_	_	_	_	_
+191	of	_	_	_	_	_	_	_	_
+192	the	_	_	_	_	_	_	_	_
+193	Member	_	_	_	_	_	_	_	_
+194	States	_	_	_	_	_	_	_	_
+195	relating	_	_	_	_	_	_	_	_
+196	to	_	_	_	_	_	_	_	_
+197	restrictions	_	_	_	_	_	_	_	_
+198	on	_	_	_	_	_	_	_	_
+199	the	_	_	_	_	_	_	_	_
+200	marketing	_	_	_	_	_	_	_	_
+201	and	_	_	_	_	_	_	_	_
+202	use	_	_	_	_	_	_	_	_
+203	of	_	_	_	_	_	_	_	_
+204	certain	_	_	_	_	_	_	_	_
+205	dangerous	_	_	_	_	_	_	_	_
+206	substances	_	_	_	_	_	_	_	_
+207	and	_	_	_	_	_	_	_	_
+208	preparations	_	_	_	_	_	_	_	_
+209	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-15
+# text = Attribution, ShareAlike.
+1	Attribution	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	ShareAlike	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1086
+# text = It is equally important for trade negotiators worldwide to reject the notion that IP protection is a luxury that only rich countries can afford.
+1	It	_	_	_	_	_	_	_	_
+2	is	_	_	_	_	_	_	_	_
+3	equally	_	_	_	_	_	_	_	_
+4	important	_	_	_	_	_	_	_	_
+5	for	_	_	_	_	_	_	_	_
+6	trade	_	_	_	_	_	_	_	_
+7	negotiators	_	_	_	_	_	_	_	_
+8	worldwide	_	_	_	_	_	_	_	_
+9	to	_	_	_	_	_	_	_	_
+10	reject	_	_	_	_	_	_	_	_
+11	the	_	_	_	_	_	_	_	_
+12	notion	_	_	_	_	_	_	_	_
+13	that	_	_	_	_	_	_	_	_
+14	IP	_	_	_	_	_	_	_	_
+15	protection	_	_	_	_	_	_	_	_
+16	is	_	_	_	_	_	_	_	_
+17	a	_	_	_	_	_	_	_	_
+18	luxury	_	_	_	_	_	_	_	_
+19	that	_	_	_	_	_	_	_	_
+20	only	_	_	_	_	_	_	_	_
+21	rich	_	_	_	_	_	_	_	_
+22	countries	_	_	_	_	_	_	_	_
+23	can	_	_	_	_	_	_	_	_
+24	afford	_	_	_	_	_	_	_	_
+25	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1034
+# text = Economists, in particular, should have learned a few fundamental lessons long ago.
+1	Economists	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	in	_	_	_	_	_	_	_	_
+4	particular	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	should	_	_	_	_	_	_	_	_
+7	have	_	_	_	_	_	_	_	_
+8	learned	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	few	_	_	_	_	_	_	_	_
+11	fundamental	_	_	_	_	_	_	_	_
+12	lessons	_	_	_	_	_	_	_	_
+13	long	_	_	_	_	_	_	_	_
+14	ago	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1277
+# text = And this is even more apparent in other arenas:
+1	And	_	_	_	_	_	_	_	_
+2	this	_	_	_	_	_	_	_	_
+3	is	_	_	_	_	_	_	_	_
+4	even	_	_	_	_	_	_	_	_
+5	more	_	_	_	_	_	_	_	_
+6	apparent	_	_	_	_	_	_	_	_
+7	in	_	_	_	_	_	_	_	_
+8	other	_	_	_	_	_	_	_	_
+9	arenas	_	_	_	_	_	_	_	_
+10	:	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-589
+# text = (11) The approach set out in the Green Paper on Integrated Product Policy, which is a major innovative element of the Sixth Community Environment Action Programme, aims to reduce the environmental impacts of products across the whole of their life cycle.
+1	(	_	_	_	_	_	_	_	_
+2	11	_	_	_	_	_	_	_	_
+3	)	_	_	_	_	_	_	_	_
+4	The	_	_	_	_	_	_	_	_
+5	approach	_	_	_	_	_	_	_	_
+6	set	_	_	_	_	_	_	_	_
+7	out	_	_	_	_	_	_	_	_
+8	in	_	_	_	_	_	_	_	_
+9	the	_	_	_	_	_	_	_	_
+10	Green	_	_	_	_	_	_	_	_
+11	Paper	_	_	_	_	_	_	_	_
+12	on	_	_	_	_	_	_	_	_
+13	Integrated	_	_	_	_	_	_	_	_
+14	Product	_	_	_	_	_	_	_	_
+15	Policy	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	which	_	_	_	_	_	_	_	_
+18	is	_	_	_	_	_	_	_	_
+19	a	_	_	_	_	_	_	_	_
+20	major	_	_	_	_	_	_	_	_
+21	innovative	_	_	_	_	_	_	_	_
+22	element	_	_	_	_	_	_	_	_
+23	of	_	_	_	_	_	_	_	_
+24	the	_	_	_	_	_	_	_	_
+25	Sixth	_	_	_	_	_	_	_	_
+26	Community	_	_	_	_	_	_	_	_
+27	Environment	_	_	_	_	_	_	_	_
+28	Action	_	_	_	_	_	_	_	_
+29	Programme	_	_	_	_	_	_	_	_
+30	,	_	_	_	_	_	_	_	_
+31	aims	_	_	_	_	_	_	_	_
+32	to	_	_	_	_	_	_	_	_
+33	reduce	_	_	_	_	_	_	_	_
+34	the	_	_	_	_	_	_	_	_
+35	environmental	_	_	_	_	_	_	_	_
+36	impacts	_	_	_	_	_	_	_	_
+37	of	_	_	_	_	_	_	_	_
+38	products	_	_	_	_	_	_	_	_
+39	across	_	_	_	_	_	_	_	_
+40	the	_	_	_	_	_	_	_	_
+41	whole	_	_	_	_	_	_	_	_
+42	of	_	_	_	_	_	_	_	_
+43	their	_	_	_	_	_	_	_	_
+44	life	_	_	_	_	_	_	_	_
+45	cycle	_	_	_	_	_	_	_	_
+46	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-535
+# text = When you have a broader presence on Facebook with Facebook pages or Facebook events plus adverts for instance, you can turn your advertising message into a trusted referral by including content from a user’s friends who are already affiliated with your products.
+1	When	_	_	_	_	_	_	_	_
+2	you	_	_	_	_	_	_	_	_
+3	have	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	broader	_	_	_	_	_	_	_	_
+6	presence	_	_	_	_	_	_	_	_
+7	on	_	_	_	_	_	_	_	_
+8	Facebook	_	_	_	_	_	_	_	_
+9	with	_	_	_	_	_	_	_	_
+10	Facebook	_	_	_	_	_	_	_	_
+11	pages	_	_	_	_	_	_	_	_
+12	or	_	_	_	_	_	_	_	_
+13	Facebook	_	_	_	_	_	_	_	_
+14	events	_	_	_	_	_	_	_	_
+15	plus	_	_	_	_	_	_	_	_
+16	adverts	_	_	_	_	_	_	_	_
+17	for	_	_	_	_	_	_	_	_
+18	instance	_	_	_	_	_	_	_	_
+19	,	_	_	_	_	_	_	_	_
+20	you	_	_	_	_	_	_	_	_
+21	can	_	_	_	_	_	_	_	_
+22	turn	_	_	_	_	_	_	_	_
+23	your	_	_	_	_	_	_	_	_
+24	advertising	_	_	_	_	_	_	_	_
+25	message	_	_	_	_	_	_	_	_
+26	into	_	_	_	_	_	_	_	_
+27	a	_	_	_	_	_	_	_	_
+28	trusted	_	_	_	_	_	_	_	_
+29	referral	_	_	_	_	_	_	_	_
+30	by	_	_	_	_	_	_	_	_
+31	including	_	_	_	_	_	_	_	_
+32	content	_	_	_	_	_	_	_	_
+33	from	_	_	_	_	_	_	_	_
+34	a	_	_	_	_	_	_	_	_
+35	user	_	_	_	_	_	_	_	_
+36	’s	_	_	_	_	_	_	_	_
+37	friends	_	_	_	_	_	_	_	_
+38	who	_	_	_	_	_	_	_	_
+39	are	_	_	_	_	_	_	_	_
+40	already	_	_	_	_	_	_	_	_
+41	affiliated	_	_	_	_	_	_	_	_
+42	with	_	_	_	_	_	_	_	_
+43	your	_	_	_	_	_	_	_	_
+44	products	_	_	_	_	_	_	_	_
+45	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-285
+# text = In many ways, the prerequisites differ from one Member State to another.
+1	In	_	_	_	_	_	_	_	_
+2	many	_	_	_	_	_	_	_	_
+3	ways	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	the	_	_	_	_	_	_	_	_
+6	prerequisites	_	_	_	_	_	_	_	_
+7	differ	_	_	_	_	_	_	_	_
+8	from	_	_	_	_	_	_	_	_
+9	one	_	_	_	_	_	_	_	_
+10	Member	_	_	_	_	_	_	_	_
+11	State	_	_	_	_	_	_	_	_
+12	to	_	_	_	_	_	_	_	_
+13	another	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-2082
+# text = Others read the same passages as the expression of intense friendship rather than sexual love.
+1	Others	_	_	_	_	_	_	_	_
+2	read	_	_	_	_	_	_	_	_
+3	the	_	_	_	_	_	_	_	_
+4	same	_	_	_	_	_	_	_	_
+5	passages	_	_	_	_	_	_	_	_
+6	as	_	_	_	_	_	_	_	_
+7	the	_	_	_	_	_	_	_	_
+8	expression	_	_	_	_	_	_	_	_
+9	of	_	_	_	_	_	_	_	_
+10	intense	_	_	_	_	_	_	_	_
+11	friendship	_	_	_	_	_	_	_	_
+12	rather	_	_	_	_	_	_	_	_
+13	than	_	_	_	_	_	_	_	_
+14	sexual	_	_	_	_	_	_	_	_
+15	love	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-277
+# text = I thought that it was quite superb.
+1	I	_	_	_	_	_	_	_	_
+2	thought	_	_	_	_	_	_	_	_
+3	that	_	_	_	_	_	_	_	_
+4	it	_	_	_	_	_	_	_	_
+5	was	_	_	_	_	_	_	_	_
+6	quite	_	_	_	_	_	_	_	_
+7	superb	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-886
+# text = We call it mycophobia, the irrational fear of the unknown, when it comes to fungi.
+1	We	_	_	_	_	_	_	_	_
+2	call	_	_	_	_	_	_	_	_
+3	it	_	_	_	_	_	_	_	_
+4	mycophobia	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	the	_	_	_	_	_	_	_	_
+7	irrational	_	_	_	_	_	_	_	_
+8	fear	_	_	_	_	_	_	_	_
+9	of	_	_	_	_	_	_	_	_
+10	the	_	_	_	_	_	_	_	_
+11	unknown	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	when	_	_	_	_	_	_	_	_
+14	it	_	_	_	_	_	_	_	_
+15	comes	_	_	_	_	_	_	_	_
+16	to	_	_	_	_	_	_	_	_
+17	fungi	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-634
+# text = (34) Since Council Directive 92/42/EEC of 21 May 1992 on efficiency requirements for new hot-water boilers fired with liquid or gaseous fuels, Directive 96/57/EC of the European Parliament and of the Council of 3 September 1996 on energy efficiency requirements for household electric refrigerators, freezers and combinations thereof and Directive 2000/55/EC of the European Parliament and of the Council of 18 September 2000 on energy efficiency requirements for ballasts for fluorescent lighting already contain provisions for the revision of the energy efficiency requirements, they should be integrated into the present framework.
+1	(	_	_	_	_	_	_	_	_
+2	34	_	_	_	_	_	_	_	_
+3	)	_	_	_	_	_	_	_	_
+4	Since	_	_	_	_	_	_	_	_
+5	Council	_	_	_	_	_	_	_	_
+6	Directive	_	_	_	_	_	_	_	_
+7	92	_	_	_	_	_	_	_	_
+8	/	_	_	_	_	_	_	_	_
+9	42	_	_	_	_	_	_	_	_
+10	/	_	_	_	_	_	_	_	_
+11	EEC	_	_	_	_	_	_	_	_
+12	of	_	_	_	_	_	_	_	_
+13	21	_	_	_	_	_	_	_	_
+14	May	_	_	_	_	_	_	_	_
+15	1992	_	_	_	_	_	_	_	_
+16	on	_	_	_	_	_	_	_	_
+17	efficiency	_	_	_	_	_	_	_	_
+18	requirements	_	_	_	_	_	_	_	_
+19	for	_	_	_	_	_	_	_	_
+20	new	_	_	_	_	_	_	_	_
+21	hot	_	_	_	_	_	_	_	_
+22	-	_	_	_	_	_	_	_	_
+23	water	_	_	_	_	_	_	_	_
+24	boilers	_	_	_	_	_	_	_	_
+25	fired	_	_	_	_	_	_	_	_
+26	with	_	_	_	_	_	_	_	_
+27	liquid	_	_	_	_	_	_	_	_
+28	or	_	_	_	_	_	_	_	_
+29	gaseous	_	_	_	_	_	_	_	_
+30	fuels	_	_	_	_	_	_	_	_
+31	,	_	_	_	_	_	_	_	_
+32	Directive	_	_	_	_	_	_	_	_
+33	96	_	_	_	_	_	_	_	_
+34	/	_	_	_	_	_	_	_	_
+35	57	_	_	_	_	_	_	_	_
+36	/	_	_	_	_	_	_	_	_
+37	EC	_	_	_	_	_	_	_	_
+38	of	_	_	_	_	_	_	_	_
+39	the	_	_	_	_	_	_	_	_
+40	European	_	_	_	_	_	_	_	_
+41	Parliament	_	_	_	_	_	_	_	_
+42	and	_	_	_	_	_	_	_	_
+43	of	_	_	_	_	_	_	_	_
+44	the	_	_	_	_	_	_	_	_
+45	Council	_	_	_	_	_	_	_	_
+46	of	_	_	_	_	_	_	_	_
+47	3	_	_	_	_	_	_	_	_
+48	September	_	_	_	_	_	_	_	_
+49	1996	_	_	_	_	_	_	_	_
+50	on	_	_	_	_	_	_	_	_
+51	energy	_	_	_	_	_	_	_	_
+52	efficiency	_	_	_	_	_	_	_	_
+53	requirements	_	_	_	_	_	_	_	_
+54	for	_	_	_	_	_	_	_	_
+55	household	_	_	_	_	_	_	_	_
+56	electric	_	_	_	_	_	_	_	_
+57	refrigerators	_	_	_	_	_	_	_	_
+58	,	_	_	_	_	_	_	_	_
+59	freezers	_	_	_	_	_	_	_	_
+60	and	_	_	_	_	_	_	_	_
+61	combinations	_	_	_	_	_	_	_	_
+62	thereof	_	_	_	_	_	_	_	_
+63	and	_	_	_	_	_	_	_	_
+64	Directive	_	_	_	_	_	_	_	_
+65	2000	_	_	_	_	_	_	_	_
+66	/	_	_	_	_	_	_	_	_
+67	55	_	_	_	_	_	_	_	_
+68	/	_	_	_	_	_	_	_	_
+69	EC	_	_	_	_	_	_	_	_
+70	of	_	_	_	_	_	_	_	_
+71	the	_	_	_	_	_	_	_	_
+72	European	_	_	_	_	_	_	_	_
+73	Parliament	_	_	_	_	_	_	_	_
+74	and	_	_	_	_	_	_	_	_
+75	of	_	_	_	_	_	_	_	_
+76	the	_	_	_	_	_	_	_	_
+77	Council	_	_	_	_	_	_	_	_
+78	of	_	_	_	_	_	_	_	_
+79	18	_	_	_	_	_	_	_	_
+80	September	_	_	_	_	_	_	_	_
+81	2000	_	_	_	_	_	_	_	_
+82	on	_	_	_	_	_	_	_	_
+83	energy	_	_	_	_	_	_	_	_
+84	efficiency	_	_	_	_	_	_	_	_
+85	requirements	_	_	_	_	_	_	_	_
+86	for	_	_	_	_	_	_	_	_
+87	ballasts	_	_	_	_	_	_	_	_
+88	for	_	_	_	_	_	_	_	_
+89	fluorescent	_	_	_	_	_	_	_	_
+90	lighting	_	_	_	_	_	_	_	_
+91	already	_	_	_	_	_	_	_	_
+92	contain	_	_	_	_	_	_	_	_
+93	provisions	_	_	_	_	_	_	_	_
+94	for	_	_	_	_	_	_	_	_
+95	the	_	_	_	_	_	_	_	_
+96	revision	_	_	_	_	_	_	_	_
+97	of	_	_	_	_	_	_	_	_
+98	the	_	_	_	_	_	_	_	_
+99	energy	_	_	_	_	_	_	_	_
+100	efficiency	_	_	_	_	_	_	_	_
+101	requirements	_	_	_	_	_	_	_	_
+102	,	_	_	_	_	_	_	_	_
+103	they	_	_	_	_	_	_	_	_
+104	should	_	_	_	_	_	_	_	_
+105	be	_	_	_	_	_	_	_	_
+106	integrated	_	_	_	_	_	_	_	_
+107	into	_	_	_	_	_	_	_	_
+108	the	_	_	_	_	_	_	_	_
+109	present	_	_	_	_	_	_	_	_
+110	framework	_	_	_	_	_	_	_	_
+111	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-617
+# text = ll The exchange of information on environmental life cycle performance and on the achievements of design solutions should be facilitated.
+1	ll	_	_	_	_	_	_	_	_
+2	The	_	_	_	_	_	_	_	_
+3	exchange	_	_	_	_	_	_	_	_
+4	of	_	_	_	_	_	_	_	_
+5	information	_	_	_	_	_	_	_	_
+6	on	_	_	_	_	_	_	_	_
+7	environmental	_	_	_	_	_	_	_	_
+8	life	_	_	_	_	_	_	_	_
+9	cycle	_	_	_	_	_	_	_	_
+10	performance	_	_	_	_	_	_	_	_
+11	and	_	_	_	_	_	_	_	_
+12	on	_	_	_	_	_	_	_	_
+13	the	_	_	_	_	_	_	_	_
+14	achievements	_	_	_	_	_	_	_	_
+15	of	_	_	_	_	_	_	_	_
+16	design	_	_	_	_	_	_	_	_
+17	solutions	_	_	_	_	_	_	_	_
+18	should	_	_	_	_	_	_	_	_
+19	be	_	_	_	_	_	_	_	_
+20	facilitated	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-903
+# text = It inhales oxygen, just like we do.
+1	It	_	_	_	_	_	_	_	_
+2	inhales	_	_	_	_	_	_	_	_
+3	oxygen	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	just	_	_	_	_	_	_	_	_
+6	like	_	_	_	_	_	_	_	_
+7	we	_	_	_	_	_	_	_	_
+8	do	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1583
+# text = When he returned home, his grandmother said:
+1	When	_	_	_	_	_	_	_	_
+2	he	_	_	_	_	_	_	_	_
+3	returned	_	_	_	_	_	_	_	_
+4	home	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	his	_	_	_	_	_	_	_	_
+7	grandmother	_	_	_	_	_	_	_	_
+8	said	_	_	_	_	_	_	_	_
+9	:	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1759
+# text = The centrality of Paris in La Comédie Humaine is key to Balzac's legacy as a realist.
+1	The	_	_	_	_	_	_	_	_
+2	centrality	_	_	_	_	_	_	_	_
+3	of	_	_	_	_	_	_	_	_
+4	Paris	_	_	_	_	_	_	_	_
+5	in	_	_	_	_	_	_	_	_
+6	La	_	_	_	_	_	_	_	_
+7	Comédie	_	_	_	_	_	_	_	_
+8	Humaine	_	_	_	_	_	_	_	_
+9	is	_	_	_	_	_	_	_	_
+10	key	_	_	_	_	_	_	_	_
+11	to	_	_	_	_	_	_	_	_
+12	Balzac	_	_	_	_	_	_	_	_
+13	's	_	_	_	_	_	_	_	_
+14	legacy	_	_	_	_	_	_	_	_
+15	as	_	_	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	realist	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1798
+# text = "I have learned more [from Balzac] than from all the professional historians, economists and statisticians put together.
+1	"	_	_	_	_	_	_	_	_
+2	I	_	_	_	_	_	_	_	_
+3	have	_	_	_	_	_	_	_	_
+4	learned	_	_	_	_	_	_	_	_
+5	more	_	_	_	_	_	_	_	_
+6	[	_	_	_	_	_	_	_	_
+7	from	_	_	_	_	_	_	_	_
+8	Balzac	_	_	_	_	_	_	_	_
+9	]	_	_	_	_	_	_	_	_
+10	than	_	_	_	_	_	_	_	_
+11	from	_	_	_	_	_	_	_	_
+12	all	_	_	_	_	_	_	_	_
+13	the	_	_	_	_	_	_	_	_
+14	professional	_	_	_	_	_	_	_	_
+15	historians	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	economists	_	_	_	_	_	_	_	_
+18	and	_	_	_	_	_	_	_	_
+19	statisticians	_	_	_	_	_	_	_	_
+20	put	_	_	_	_	_	_	_	_
+21	together	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1805
+# text = His extant works, including some collaborations, consist of about 38 plays, 154 sonnets, two long narrative poems, and a few other verses, the authorship of some of which is uncertain.
+1	His	_	_	_	_	_	_	_	_
+2	extant	_	_	_	_	_	_	_	_
+3	works	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	including	_	_	_	_	_	_	_	_
+6	some	_	_	_	_	_	_	_	_
+7	collaborations	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	consist	_	_	_	_	_	_	_	_
+10	of	_	_	_	_	_	_	_	_
+11	about	_	_	_	_	_	_	_	_
+12	38	_	_	_	_	_	_	_	_
+13	plays	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	154	_	_	_	_	_	_	_	_
+16	sonnets	_	_	_	_	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	two	_	_	_	_	_	_	_	_
+19	long	_	_	_	_	_	_	_	_
+20	narrative	_	_	_	_	_	_	_	_
+21	poems	_	_	_	_	_	_	_	_
+22	,	_	_	_	_	_	_	_	_
+23	and	_	_	_	_	_	_	_	_
+24	a	_	_	_	_	_	_	_	_
+25	few	_	_	_	_	_	_	_	_
+26	other	_	_	_	_	_	_	_	_
+27	verses	_	_	_	_	_	_	_	_
+28	,	_	_	_	_	_	_	_	_
+29	the	_	_	_	_	_	_	_	_
+30	authorship	_	_	_	_	_	_	_	_
+31	of	_	_	_	_	_	_	_	_
+32	some	_	_	_	_	_	_	_	_
+33	of	_	_	_	_	_	_	_	_
+34	which	_	_	_	_	_	_	_	_
+35	is	_	_	_	_	_	_	_	_
+36	uncertain	_	_	_	_	_	_	_	_
+37	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-631
+# text = The Council Resolution of 28 October 1999 on the role of standardisation in Europe recommended that the Commission should examine whether the New Approach principle could be extended to sectors not yet covered as a means of improving and simplifying legislation wherever possible.
+1	The	_	_	_	_	_	_	_	_
+2	Council	_	_	_	_	_	_	_	_
+3	Resolution	_	_	_	_	_	_	_	_
+4	of	_	_	_	_	_	_	_	_
+5	28	_	_	_	_	_	_	_	_
+6	October	_	_	_	_	_	_	_	_
+7	1999	_	_	_	_	_	_	_	_
+8	on	_	_	_	_	_	_	_	_
+9	the	_	_	_	_	_	_	_	_
+10	role	_	_	_	_	_	_	_	_
+11	of	_	_	_	_	_	_	_	_
+12	standardisation	_	_	_	_	_	_	_	_
+13	in	_	_	_	_	_	_	_	_
+14	Europe	_	_	_	_	_	_	_	_
+15	recommended	_	_	_	_	_	_	_	_
+16	that	_	_	_	_	_	_	_	_
+17	the	_	_	_	_	_	_	_	_
+18	Commission	_	_	_	_	_	_	_	_
+19	should	_	_	_	_	_	_	_	_
+20	examine	_	_	_	_	_	_	_	_
+21	whether	_	_	_	_	_	_	_	_
+22	the	_	_	_	_	_	_	_	_
+23	New	_	_	_	_	_	_	_	_
+24	Approach	_	_	_	_	_	_	_	_
+25	principle	_	_	_	_	_	_	_	_
+26	could	_	_	_	_	_	_	_	_
+27	be	_	_	_	_	_	_	_	_
+28	extended	_	_	_	_	_	_	_	_
+29	to	_	_	_	_	_	_	_	_
+30	sectors	_	_	_	_	_	_	_	_
+31	not	_	_	_	_	_	_	_	_
+32	yet	_	_	_	_	_	_	_	_
+33	covered	_	_	_	_	_	_	_	_
+34	as	_	_	_	_	_	_	_	_
+35	a	_	_	_	_	_	_	_	_
+36	means	_	_	_	_	_	_	_	_
+37	of	_	_	_	_	_	_	_	_
+38	improving	_	_	_	_	_	_	_	_
+39	and	_	_	_	_	_	_	_	_
+40	simplifying	_	_	_	_	_	_	_	_
+41	legislation	_	_	_	_	_	_	_	_
+42	wherever	_	_	_	_	_	_	_	_
+43	possible	_	_	_	_	_	_	_	_
+44	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-847
+# text = Here's a diagram of the PCB load of dolphins in Sarasota Bay.
+1	Here	_	_	_	_	_	_	_	_
+2	's	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	diagram	_	_	_	_	_	_	_	_
+5	of	_	_	_	_	_	_	_	_
+6	the	_	_	_	_	_	_	_	_
+7	PCB	_	_	_	_	_	_	_	_
+8	load	_	_	_	_	_	_	_	_
+9	of	_	_	_	_	_	_	_	_
+10	dolphins	_	_	_	_	_	_	_	_
+11	in	_	_	_	_	_	_	_	_
+12	Sarasota	_	_	_	_	_	_	_	_
+13	Bay	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1006
+# text = Where these derogations are adopted after accession they may be applied as from the date of accession.
+1	Where	_	_	_	_	_	_	_	_
+2	these	_	_	_	_	_	_	_	_
+3	derogations	_	_	_	_	_	_	_	_
+4	are	_	_	_	_	_	_	_	_
+5	adopted	_	_	_	_	_	_	_	_
+6	after	_	_	_	_	_	_	_	_
+7	accession	_	_	_	_	_	_	_	_
+8	they	_	_	_	_	_	_	_	_
+9	may	_	_	_	_	_	_	_	_
+10	be	_	_	_	_	_	_	_	_
+11	applied	_	_	_	_	_	_	_	_
+12	as	_	_	_	_	_	_	_	_
+13	from	_	_	_	_	_	_	_	_
+14	the	_	_	_	_	_	_	_	_
+15	date	_	_	_	_	_	_	_	_
+16	of	_	_	_	_	_	_	_	_
+17	accession	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-657
+# text = With a view to ensuring the clear structure in the fight against currency counterfeiting as well as close cooperation and efficient flow of information National Central Offices (NCO) were established in all Member States.
+1	With	_	_	_	_	_	_	_	_
+2	a	_	_	_	_	_	_	_	_
+3	view	_	_	_	_	_	_	_	_
+4	to	_	_	_	_	_	_	_	_
+5	ensuring	_	_	_	_	_	_	_	_
+6	the	_	_	_	_	_	_	_	_
+7	clear	_	_	_	_	_	_	_	_
+8	structure	_	_	_	_	_	_	_	_
+9	in	_	_	_	_	_	_	_	_
+10	the	_	_	_	_	_	_	_	_
+11	fight	_	_	_	_	_	_	_	_
+12	against	_	_	_	_	_	_	_	_
+13	currency	_	_	_	_	_	_	_	_
+14	counterfeiting	_	_	_	_	_	_	_	_
+15	as	_	_	_	_	_	_	_	_
+16	well	_	_	_	_	_	_	_	_
+17	as	_	_	_	_	_	_	_	_
+18	close	_	_	_	_	_	_	_	_
+19	cooperation	_	_	_	_	_	_	_	_
+20	and	_	_	_	_	_	_	_	_
+21	efficient	_	_	_	_	_	_	_	_
+22	flow	_	_	_	_	_	_	_	_
+23	of	_	_	_	_	_	_	_	_
+24	information	_	_	_	_	_	_	_	_
+25	National	_	_	_	_	_	_	_	_
+26	Central	_	_	_	_	_	_	_	_
+27	Offices	_	_	_	_	_	_	_	_
+28	(	_	_	_	_	_	_	_	_
+29	NCO	_	_	_	_	_	_	_	_
+30	)	_	_	_	_	_	_	_	_
+31	were	_	_	_	_	_	_	_	_
+32	established	_	_	_	_	_	_	_	_
+33	in	_	_	_	_	_	_	_	_
+34	all	_	_	_	_	_	_	_	_
+35	Member	_	_	_	_	_	_	_	_
+36	States	_	_	_	_	_	_	_	_
+37	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-842
+# text = They get into the food chain.
+1	They	_	_	_	_	_	_	_	_
+2	get	_	_	_	_	_	_	_	_
+3	into	_	_	_	_	_	_	_	_
+4	the	_	_	_	_	_	_	_	_
+5	food	_	_	_	_	_	_	_	_
+6	chain	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-118
+# text = Mr Berenguer Fuster, we shall check all this.
+1	Mr	_	_	_	_	_	_	_	_
+2	Berenguer	_	_	_	_	_	_	_	_
+3	Fuster	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	we	_	_	_	_	_	_	_	_
+6	shall	_	_	_	_	_	_	_	_
+7	check	_	_	_	_	_	_	_	_
+8	all	_	_	_	_	_	_	_	_
+9	this	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1160
+# text = I have been arguing for several years that Germany should accept the responsibilities and liabilities of its dominant position in Europe.
+1	I	_	_	_	_	_	_	_	_
+2	have	_	_	_	_	_	_	_	_
+3	been	_	_	_	_	_	_	_	_
+4	arguing	_	_	_	_	_	_	_	_
+5	for	_	_	_	_	_	_	_	_
+6	several	_	_	_	_	_	_	_	_
+7	years	_	_	_	_	_	_	_	_
+8	that	_	_	_	_	_	_	_	_
+9	Germany	_	_	_	_	_	_	_	_
+10	should	_	_	_	_	_	_	_	_
+11	accept	_	_	_	_	_	_	_	_
+12	the	_	_	_	_	_	_	_	_
+13	responsibilities	_	_	_	_	_	_	_	_
+14	and	_	_	_	_	_	_	_	_
+15	liabilities	_	_	_	_	_	_	_	_
+16	of	_	_	_	_	_	_	_	_
+17	its	_	_	_	_	_	_	_	_
+18	dominant	_	_	_	_	_	_	_	_
+19	position	_	_	_	_	_	_	_	_
+20	in	_	_	_	_	_	_	_	_
+21	Europe	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1375
+# text = But we now know that the story is much more complicated.
+1	But	_	_	_	_	_	_	_	_
+2	we	_	_	_	_	_	_	_	_
+3	now	_	_	_	_	_	_	_	_
+4	know	_	_	_	_	_	_	_	_
+5	that	_	_	_	_	_	_	_	_
+6	the	_	_	_	_	_	_	_	_
+7	story	_	_	_	_	_	_	_	_
+8	is	_	_	_	_	_	_	_	_
+9	much	_	_	_	_	_	_	_	_
+10	more	_	_	_	_	_	_	_	_
+11	complicated	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1202
+# text = The other path holds great opportunity:
+1	The	_	_	_	_	_	_	_	_
+2	other	_	_	_	_	_	_	_	_
+3	path	_	_	_	_	_	_	_	_
+4	holds	_	_	_	_	_	_	_	_
+5	great	_	_	_	_	_	_	_	_
+6	opportunity	_	_	_	_	_	_	_	_
+7	:	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-836
+# text = There's no mechanism in this game for them to go anywhere but into a bigger and bigger pile of indigestible Styrofoam peanuts.
+1	There	_	_	_	_	_	_	_	_
+2	's	_	_	_	_	_	_	_	_
+3	no	_	_	_	_	_	_	_	_
+4	mechanism	_	_	_	_	_	_	_	_
+5	in	_	_	_	_	_	_	_	_
+6	this	_	_	_	_	_	_	_	_
+7	game	_	_	_	_	_	_	_	_
+8	for	_	_	_	_	_	_	_	_
+9	them	_	_	_	_	_	_	_	_
+10	to	_	_	_	_	_	_	_	_
+11	go	_	_	_	_	_	_	_	_
+12	anywhere	_	_	_	_	_	_	_	_
+13	but	_	_	_	_	_	_	_	_
+14	into	_	_	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	bigger	_	_	_	_	_	_	_	_
+17	and	_	_	_	_	_	_	_	_
+18	bigger	_	_	_	_	_	_	_	_
+19	pile	_	_	_	_	_	_	_	_
+20	of	_	_	_	_	_	_	_	_
+21	indigestible	_	_	_	_	_	_	_	_
+22	Styrofoam	_	_	_	_	_	_	_	_
+23	peanuts	_	_	_	_	_	_	_	_
+24	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-872
+# text = We all know the Earth is in trouble.
+1	We	_	_	_	_	_	_	_	_
+2	all	_	_	_	_	_	_	_	_
+3	know	_	_	_	_	_	_	_	_
+4	the	_	_	_	_	_	_	_	_
+5	Earth	_	_	_	_	_	_	_	_
+6	is	_	_	_	_	_	_	_	_
+7	in	_	_	_	_	_	_	_	_
+8	trouble	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1836
+# text = Twins, son Hamnet and daughter Judith, followed almost two years later and were baptised 2 February 1585.
+1	Twins	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	son	_	_	_	_	_	_	_	_
+4	Hamnet	_	_	_	_	_	_	_	_
+5	and	_	_	_	_	_	_	_	_
+6	daughter	_	_	_	_	_	_	_	_
+7	Judith	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	followed	_	_	_	_	_	_	_	_
+10	almost	_	_	_	_	_	_	_	_
+11	two	_	_	_	_	_	_	_	_
+12	years	_	_	_	_	_	_	_	_
+13	later	_	_	_	_	_	_	_	_
+14	and	_	_	_	_	_	_	_	_
+15	were	_	_	_	_	_	_	_	_
+16	baptised	_	_	_	_	_	_	_	_
+17	2	_	_	_	_	_	_	_	_
+18	February	_	_	_	_	_	_	_	_
+19	1585	_	_	_	_	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1659
+# text = "In 1833 Balzac released Eugénie Grandet, his first best-selling novel.
+1	"	_	_	_	_	_	_	_	_
+2	In	_	_	_	_	_	_	_	_
+3	1833	_	_	_	_	_	_	_	_
+4	Balzac	_	_	_	_	_	_	_	_
+5	released	_	_	_	_	_	_	_	_
+6	Eugénie	_	_	_	_	_	_	_	_
+7	Grandet	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	his	_	_	_	_	_	_	_	_
+10	first	_	_	_	_	_	_	_	_
+11	best-selling	_	_	_	_	_	_	_	_
+12	novel	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-2041
+# text = In the First Folio, Ben Jonson called Shakespeare the "Soul of the age, the applause, delight, the wonder of our stage", though he had remarked elsewhere that "Shakespeare wanted art".
+1	In	_	_	_	_	_	_	_	_
+2	the	_	_	_	_	_	_	_	_
+3	First	_	_	_	_	_	_	_	_
+4	Folio	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	Ben	_	_	_	_	_	_	_	_
+7	Jonson	_	_	_	_	_	_	_	_
+8	called	_	_	_	_	_	_	_	_
+9	Shakespeare	_	_	_	_	_	_	_	_
+10	the	_	_	_	_	_	_	_	_
+11	"	_	_	_	_	_	_	_	_
+12	Soul	_	_	_	_	_	_	_	_
+13	of	_	_	_	_	_	_	_	_
+14	the	_	_	_	_	_	_	_	_
+15	age	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	the	_	_	_	_	_	_	_	_
+18	applause	_	_	_	_	_	_	_	_
+19	,	_	_	_	_	_	_	_	_
+20	delight	_	_	_	_	_	_	_	_
+21	,	_	_	_	_	_	_	_	_
+22	the	_	_	_	_	_	_	_	_
+23	wonder	_	_	_	_	_	_	_	_
+24	of	_	_	_	_	_	_	_	_
+25	our	_	_	_	_	_	_	_	_
+26	stage	_	_	_	_	_	_	_	_
+27	"	_	_	_	_	_	_	_	_
+28	,	_	_	_	_	_	_	_	_
+29	though	_	_	_	_	_	_	_	_
+30	he	_	_	_	_	_	_	_	_
+31	had	_	_	_	_	_	_	_	_
+32	remarked	_	_	_	_	_	_	_	_
+33	elsewhere	_	_	_	_	_	_	_	_
+34	that	_	_	_	_	_	_	_	_
+35	"	_	_	_	_	_	_	_	_
+36	Shakespeare	_	_	_	_	_	_	_	_
+37	wanted	_	_	_	_	_	_	_	_
+38	art	_	_	_	_	_	_	_	_
+39	"	_	_	_	_	_	_	_	_
+40	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-2039
+# text = In 1598, the cleric and author Francis Meres singled him out from a group of English writers as "the most excellent" in both comedy and tragedy.
+1	In	_	_	_	_	_	_	_	_
+2	1598	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	the	_	_	_	_	_	_	_	_
+5	cleric	_	_	_	_	_	_	_	_
+6	and	_	_	_	_	_	_	_	_
+7	author	_	_	_	_	_	_	_	_
+8	Francis	_	_	_	_	_	_	_	_
+9	Meres	_	_	_	_	_	_	_	_
+10	singled	_	_	_	_	_	_	_	_
+11	him	_	_	_	_	_	_	_	_
+12	out	_	_	_	_	_	_	_	_
+13	from	_	_	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	group	_	_	_	_	_	_	_	_
+16	of	_	_	_	_	_	_	_	_
+17	English	_	_	_	_	_	_	_	_
+18	writers	_	_	_	_	_	_	_	_
+19	as	_	_	_	_	_	_	_	_
+20	"	_	_	_	_	_	_	_	_
+21	the	_	_	_	_	_	_	_	_
+22	most	_	_	_	_	_	_	_	_
+23	excellent	_	_	_	_	_	_	_	_
+24	"	_	_	_	_	_	_	_	_
+25	in	_	_	_	_	_	_	_	_
+26	both	_	_	_	_	_	_	_	_
+27	comedy	_	_	_	_	_	_	_	_
+28	and	_	_	_	_	_	_	_	_
+29	tragedy	_	_	_	_	_	_	_	_
+30	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-678
+# text = These activities are also more cost efficient.
+1	These	_	_	_	_	_	_	_	_
+2	activities	_	_	_	_	_	_	_	_
+3	are	_	_	_	_	_	_	_	_
+4	also	_	_	_	_	_	_	_	_
+5	more	_	_	_	_	_	_	_	_
+6	cost	_	_	_	_	_	_	_	_
+7	efficient	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-350
+# text = We feel that it is important that the Commission takes account of the conclusions adopted by this Parliament, at least in spirit, because at this stage, it might seem as though what we are doing here is a useless exercise, and nothing but hot air.
+1	We	_	_	_	_	_	_	_	_
+2	feel	_	_	_	_	_	_	_	_
+3	that	_	_	_	_	_	_	_	_
+4	it	_	_	_	_	_	_	_	_
+5	is	_	_	_	_	_	_	_	_
+6	important	_	_	_	_	_	_	_	_
+7	that	_	_	_	_	_	_	_	_
+8	the	_	_	_	_	_	_	_	_
+9	Commission	_	_	_	_	_	_	_	_
+10	takes	_	_	_	_	_	_	_	_
+11	account	_	_	_	_	_	_	_	_
+12	of	_	_	_	_	_	_	_	_
+13	the	_	_	_	_	_	_	_	_
+14	conclusions	_	_	_	_	_	_	_	_
+15	adopted	_	_	_	_	_	_	_	_
+16	by	_	_	_	_	_	_	_	_
+17	this	_	_	_	_	_	_	_	_
+18	Parliament	_	_	_	_	_	_	_	_
+19	,	_	_	_	_	_	_	_	_
+20	at	_	_	_	_	_	_	_	_
+21	least	_	_	_	_	_	_	_	_
+22	in	_	_	_	_	_	_	_	_
+23	spirit	_	_	_	_	_	_	_	_
+24	,	_	_	_	_	_	_	_	_
+25	because	_	_	_	_	_	_	_	_
+26	at	_	_	_	_	_	_	_	_
+27	this	_	_	_	_	_	_	_	_
+28	stage	_	_	_	_	_	_	_	_
+29	,	_	_	_	_	_	_	_	_
+30	it	_	_	_	_	_	_	_	_
+31	might	_	_	_	_	_	_	_	_
+32	seem	_	_	_	_	_	_	_	_
+33	as	_	_	_	_	_	_	_	_
+34	though	_	_	_	_	_	_	_	_
+35	what	_	_	_	_	_	_	_	_
+36	we	_	_	_	_	_	_	_	_
+37	are	_	_	_	_	_	_	_	_
+38	doing	_	_	_	_	_	_	_	_
+39	here	_	_	_	_	_	_	_	_
+40	is	_	_	_	_	_	_	_	_
+41	a	_	_	_	_	_	_	_	_
+42	useless	_	_	_	_	_	_	_	_
+43	exercise	_	_	_	_	_	_	_	_
+44	,	_	_	_	_	_	_	_	_
+45	and	_	_	_	_	_	_	_	_
+46	nothing	_	_	_	_	_	_	_	_
+47	but	_	_	_	_	_	_	_	_
+48	hot	_	_	_	_	_	_	_	_
+49	air	_	_	_	_	_	_	_	_
+50	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-896
+# text = And so we see a mushroom here sporulating.
+1	And	_	_	_	_	_	_	_	_
+2	so	_	_	_	_	_	_	_	_
+3	we	_	_	_	_	_	_	_	_
+4	see	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	mushroom	_	_	_	_	_	_	_	_
+7	here	_	_	_	_	_	_	_	_
+8	sporulating	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-897
+# text = And the spores are germinating, and the mycelium forms and goes underground.
+1	And	_	_	_	_	_	_	_	_
+2	the	_	_	_	_	_	_	_	_
+3	spores	_	_	_	_	_	_	_	_
+4	are	_	_	_	_	_	_	_	_
+5	germinating	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	and	_	_	_	_	_	_	_	_
+8	the	_	_	_	_	_	_	_	_
+9	mycelium	_	_	_	_	_	_	_	_
+10	forms	_	_	_	_	_	_	_	_
+11	and	_	_	_	_	_	_	_	_
+12	goes	_	_	_	_	_	_	_	_
+13	underground	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1669
+# text = It lasted for three issues.
+1	It	_	_	_	_	_	_	_	_
+2	lasted	_	_	_	_	_	_	_	_
+3	for	_	_	_	_	_	_	_	_
+4	three	_	_	_	_	_	_	_	_
+5	issues	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1267
+# text = Two things should be clear.
+1	Two	_	_	_	_	_	_	_	_
+2	things	_	_	_	_	_	_	_	_
+3	should	_	_	_	_	_	_	_	_
+4	be	_	_	_	_	_	_	_	_
+5	clear	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1173
+# text = The US Federal Reserve's tapering of its unprecedented liquidity injections has been an obvious and important trigger.
+1	The	_	_	_	_	_	_	_	_
+2	US	_	_	_	_	_	_	_	_
+3	Federal	_	_	_	_	_	_	_	_
+4	Reserve	_	_	_	_	_	_	_	_
+5	's	_	_	_	_	_	_	_	_
+6	tapering	_	_	_	_	_	_	_	_
+7	of	_	_	_	_	_	_	_	_
+8	its	_	_	_	_	_	_	_	_
+9	unprecedented	_	_	_	_	_	_	_	_
+10	liquidity	_	_	_	_	_	_	_	_
+11	injections	_	_	_	_	_	_	_	_
+12	has	_	_	_	_	_	_	_	_
+13	been	_	_	_	_	_	_	_	_
+14	an	_	_	_	_	_	_	_	_
+15	obvious	_	_	_	_	_	_	_	_
+16	and	_	_	_	_	_	_	_	_
+17	important	_	_	_	_	_	_	_	_
+18	trigger	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1994
+# text = No single play marks a change from the traditional to the freer style.
+1	No	_	_	_	_	_	_	_	_
+2	single	_	_	_	_	_	_	_	_
+3	play	_	_	_	_	_	_	_	_
+4	marks	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	change	_	_	_	_	_	_	_	_
+7	from	_	_	_	_	_	_	_	_
+8	the	_	_	_	_	_	_	_	_
+9	traditional	_	_	_	_	_	_	_	_
+10	to	_	_	_	_	_	_	_	_
+11	the	_	_	_	_	_	_	_	_
+12	freer	_	_	_	_	_	_	_	_
+13	style	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1013
+# text = A national base area for each producing Member State is hereby established.
+1	A	_	_	_	_	_	_	_	_
+2	national	_	_	_	_	_	_	_	_
+3	base	_	_	_	_	_	_	_	_
+4	area	_	_	_	_	_	_	_	_
+5	for	_	_	_	_	_	_	_	_
+6	each	_	_	_	_	_	_	_	_
+7	producing	_	_	_	_	_	_	_	_
+8	Member	_	_	_	_	_	_	_	_
+9	State	_	_	_	_	_	_	_	_
+10	is	_	_	_	_	_	_	_	_
+11	hereby	_	_	_	_	_	_	_	_
+12	established	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-2042
+# text = Between the Restoration of the monarchy in 1660 and the end of the 17th century, classical ideas were in vogue.
+1	Between	_	_	_	_	_	_	_	_
+2	the	_	_	_	_	_	_	_	_
+3	Restoration	_	_	_	_	_	_	_	_
+4	of	_	_	_	_	_	_	_	_
+5	the	_	_	_	_	_	_	_	_
+6	monarchy	_	_	_	_	_	_	_	_
+7	in	_	_	_	_	_	_	_	_
+8	1660	_	_	_	_	_	_	_	_
+9	and	_	_	_	_	_	_	_	_
+10	the	_	_	_	_	_	_	_	_
+11	end	_	_	_	_	_	_	_	_
+12	of	_	_	_	_	_	_	_	_
+13	the	_	_	_	_	_	_	_	_
+14	17	_	_	_	_	_	_	_	_
+15	th	_	_	_	_	_	_	_	_
+16	century	_	_	_	_	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	classical	_	_	_	_	_	_	_	_
+19	ideas	_	_	_	_	_	_	_	_
+20	were	_	_	_	_	_	_	_	_
+21	in	_	_	_	_	_	_	_	_
+22	vogue	_	_	_	_	_	_	_	_
+23	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-381
+# text = Our Group also considers it important to take greater account of remote and peripheral areas and wishes to increase interaction between towns and rural areas.
+1	Our	_	_	_	_	_	_	_	_
+2	Group	_	_	_	_	_	_	_	_
+3	also	_	_	_	_	_	_	_	_
+4	considers	_	_	_	_	_	_	_	_
+5	it	_	_	_	_	_	_	_	_
+6	important	_	_	_	_	_	_	_	_
+7	to	_	_	_	_	_	_	_	_
+8	take	_	_	_	_	_	_	_	_
+9	greater	_	_	_	_	_	_	_	_
+10	account	_	_	_	_	_	_	_	_
+11	of	_	_	_	_	_	_	_	_
+12	remote	_	_	_	_	_	_	_	_
+13	and	_	_	_	_	_	_	_	_
+14	peripheral	_	_	_	_	_	_	_	_
+15	areas	_	_	_	_	_	_	_	_
+16	and	_	_	_	_	_	_	_	_
+17	wishes	_	_	_	_	_	_	_	_
+18	to	_	_	_	_	_	_	_	_
+19	increase	_	_	_	_	_	_	_	_
+20	interaction	_	_	_	_	_	_	_	_
+21	between	_	_	_	_	_	_	_	_
+22	towns	_	_	_	_	_	_	_	_
+23	and	_	_	_	_	_	_	_	_
+24	rural	_	_	_	_	_	_	_	_
+25	areas	_	_	_	_	_	_	_	_
+26	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1232
+# text = A leading example is food supply – an area where technology has continually produced ever-more highly processed and genetically refined food that scientists are only beginning to assess.
+1	A	_	_	_	_	_	_	_	_
+2	leading	_	_	_	_	_	_	_	_
+3	example	_	_	_	_	_	_	_	_
+4	is	_	_	_	_	_	_	_	_
+5	food	_	_	_	_	_	_	_	_
+6	supply	_	_	_	_	_	_	_	_
+7	–	_	_	_	_	_	_	_	_
+8	an	_	_	_	_	_	_	_	_
+9	area	_	_	_	_	_	_	_	_
+10	where	_	_	_	_	_	_	_	_
+11	technology	_	_	_	_	_	_	_	_
+12	has	_	_	_	_	_	_	_	_
+13	continually	_	_	_	_	_	_	_	_
+14	produced	_	_	_	_	_	_	_	_
+15	ever	_	_	_	_	_	_	_	_
+16	-	_	_	_	_	_	_	_	_
+17	more	_	_	_	_	_	_	_	_
+18	highly	_	_	_	_	_	_	_	_
+19	processed	_	_	_	_	_	_	_	_
+20	and	_	_	_	_	_	_	_	_
+21	genetically	_	_	_	_	_	_	_	_
+22	refined	_	_	_	_	_	_	_	_
+23	food	_	_	_	_	_	_	_	_
+24	that	_	_	_	_	_	_	_	_
+25	scientists	_	_	_	_	_	_	_	_
+26	are	_	_	_	_	_	_	_	_
+27	only	_	_	_	_	_	_	_	_
+28	beginning	_	_	_	_	_	_	_	_
+29	to	_	_	_	_	_	_	_	_
+30	assess	_	_	_	_	_	_	_	_
+31	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1797
+# text = Marxist Friedrich Engels wrote:
+1	Marxist	_	_	_	_	_	_	_	_
+2	Friedrich	_	_	_	_	_	_	_	_
+3	Engels	_	_	_	_	_	_	_	_
+4	wrote	_	_	_	_	_	_	_	_
+5	:	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-949
+# text = The provisions of that Act shall form an integral part of this Treaty.
+1	The	_	_	_	_	_	_	_	_
+2	provisions	_	_	_	_	_	_	_	_
+3	of	_	_	_	_	_	_	_	_
+4	that	_	_	_	_	_	_	_	_
+5	Act	_	_	_	_	_	_	_	_
+6	shall	_	_	_	_	_	_	_	_
+7	form	_	_	_	_	_	_	_	_
+8	an	_	_	_	_	_	_	_	_
+9	integral	_	_	_	_	_	_	_	_
+10	part	_	_	_	_	_	_	_	_
+11	of	_	_	_	_	_	_	_	_
+12	this	_	_	_	_	_	_	_	_
+13	Treaty	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1521
+# text = Only with pragmatic, fact-based Regulation can the world realize genetic engineering's full disease-fighting potential.
+1	Only	_	_	_	_	_	_	_	_
+2	with	_	_	_	_	_	_	_	_
+3	pragmatic	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	fact	_	_	_	_	_	_	_	_
+6	-	_	_	_	_	_	_	_	_
+7	based	_	_	_	_	_	_	_	_
+8	Regulation	_	_	_	_	_	_	_	_
+9	can	_	_	_	_	_	_	_	_
+10	the	_	_	_	_	_	_	_	_
+11	world	_	_	_	_	_	_	_	_
+12	realize	_	_	_	_	_	_	_	_
+13	genetic	_	_	_	_	_	_	_	_
+14	engineering	_	_	_	_	_	_	_	_
+15	's	_	_	_	_	_	_	_	_
+16	full	_	_	_	_	_	_	_	_
+17	disease	_	_	_	_	_	_	_	_
+18	-	_	_	_	_	_	_	_	_
+19	fighting	_	_	_	_	_	_	_	_
+20	potential	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1310
+# text = Given how few scientists have recognized the extent to which a woman's eggs shape her grandchildren's prospects, it is not surprising that policymakers remain so oblivious to the long-term impact of women's health.
+1	Given	_	_	_	_	_	_	_	_
+2	how	_	_	_	_	_	_	_	_
+3	few	_	_	_	_	_	_	_	_
+4	scientists	_	_	_	_	_	_	_	_
+5	have	_	_	_	_	_	_	_	_
+6	recognized	_	_	_	_	_	_	_	_
+7	the	_	_	_	_	_	_	_	_
+8	extent	_	_	_	_	_	_	_	_
+9	to	_	_	_	_	_	_	_	_
+10	which	_	_	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	woman	_	_	_	_	_	_	_	_
+13	's	_	_	_	_	_	_	_	_
+14	eggs	_	_	_	_	_	_	_	_
+15	shape	_	_	_	_	_	_	_	_
+16	her	_	_	_	_	_	_	_	_
+17	grandchildren	_	_	_	_	_	_	_	_
+18	's	_	_	_	_	_	_	_	_
+19	prospects	_	_	_	_	_	_	_	_
+20	,	_	_	_	_	_	_	_	_
+21	it	_	_	_	_	_	_	_	_
+22	is	_	_	_	_	_	_	_	_
+23	not	_	_	_	_	_	_	_	_
+24	surprising	_	_	_	_	_	_	_	_
+25	that	_	_	_	_	_	_	_	_
+26	policymakers	_	_	_	_	_	_	_	_
+27	remain	_	_	_	_	_	_	_	_
+28	so	_	_	_	_	_	_	_	_
+29	oblivious	_	_	_	_	_	_	_	_
+30	to	_	_	_	_	_	_	_	_
+31	the	_	_	_	_	_	_	_	_
+32	long-term	_	_	_	_	_	_	_	_
+33	impact	_	_	_	_	_	_	_	_
+34	of	_	_	_	_	_	_	_	_
+35	women	_	_	_	_	_	_	_	_
+36	's	_	_	_	_	_	_	_	_
+37	health	_	_	_	_	_	_	_	_
+38	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-33
+# text = The above applies to the Work as incorporated in a Collective Work, but this does not require the Collective Work apart from the Work itself to be made subject to the terms of this License.
+1	The	_	_	_	_	_	_	_	_
+2	above	_	_	_	_	_	_	_	_
+3	applies	_	_	_	_	_	_	_	_
+4	to	_	_	_	_	_	_	_	_
+5	the	_	_	_	_	_	_	_	_
+6	Work	_	_	_	_	_	_	_	_
+7	as	_	_	_	_	_	_	_	_
+8	incorporated	_	_	_	_	_	_	_	_
+9	in	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	Collective	_	_	_	_	_	_	_	_
+12	Work	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	but	_	_	_	_	_	_	_	_
+15	this	_	_	_	_	_	_	_	_
+16	does	_	_	_	_	_	_	_	_
+17	not	_	_	_	_	_	_	_	_
+18	require	_	_	_	_	_	_	_	_
+19	the	_	_	_	_	_	_	_	_
+20	Collective	_	_	_	_	_	_	_	_
+21	Work	_	_	_	_	_	_	_	_
+22	apart	_	_	_	_	_	_	_	_
+23	from	_	_	_	_	_	_	_	_
+24	the	_	_	_	_	_	_	_	_
+25	Work	_	_	_	_	_	_	_	_
+26	itself	_	_	_	_	_	_	_	_
+27	to	_	_	_	_	_	_	_	_
+28	be	_	_	_	_	_	_	_	_
+29	made	_	_	_	_	_	_	_	_
+30	subject	_	_	_	_	_	_	_	_
+31	to	_	_	_	_	_	_	_	_
+32	the	_	_	_	_	_	_	_	_
+33	terms	_	_	_	_	_	_	_	_
+34	of	_	_	_	_	_	_	_	_
+35	this	_	_	_	_	_	_	_	_
+36	License	_	_	_	_	_	_	_	_
+37	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1106
+# text = Greenwood and Scharfstein argue that increased financialization was a mixed blessing.
+1	Greenwood	_	_	_	_	_	_	_	_
+2	and	_	_	_	_	_	_	_	_
+3	Scharfstein	_	_	_	_	_	_	_	_
+4	argue	_	_	_	_	_	_	_	_
+5	that	_	_	_	_	_	_	_	_
+6	increased	_	_	_	_	_	_	_	_
+7	financialization	_	_	_	_	_	_	_	_
+8	was	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	mixed	_	_	_	_	_	_	_	_
+11	blessing	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-442
+# text = I also think we should ensure, or ask Member States to ensure, that there is some publicity given to European aid whenever it is used to repair damage caused by natural disasters or accidents.
+1	I	_	_	_	_	_	_	_	_
+2	also	_	_	_	_	_	_	_	_
+3	think	_	_	_	_	_	_	_	_
+4	we	_	_	_	_	_	_	_	_
+5	should	_	_	_	_	_	_	_	_
+6	ensure	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	or	_	_	_	_	_	_	_	_
+9	ask	_	_	_	_	_	_	_	_
+10	Member	_	_	_	_	_	_	_	_
+11	States	_	_	_	_	_	_	_	_
+12	to	_	_	_	_	_	_	_	_
+13	ensure	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	that	_	_	_	_	_	_	_	_
+16	there	_	_	_	_	_	_	_	_
+17	is	_	_	_	_	_	_	_	_
+18	some	_	_	_	_	_	_	_	_
+19	publicity	_	_	_	_	_	_	_	_
+20	given	_	_	_	_	_	_	_	_
+21	to	_	_	_	_	_	_	_	_
+22	European	_	_	_	_	_	_	_	_
+23	aid	_	_	_	_	_	_	_	_
+24	whenever	_	_	_	_	_	_	_	_
+25	it	_	_	_	_	_	_	_	_
+26	is	_	_	_	_	_	_	_	_
+27	used	_	_	_	_	_	_	_	_
+28	to	_	_	_	_	_	_	_	_
+29	repair	_	_	_	_	_	_	_	_
+30	damage	_	_	_	_	_	_	_	_
+31	caused	_	_	_	_	_	_	_	_
+32	by	_	_	_	_	_	_	_	_
+33	natural	_	_	_	_	_	_	_	_
+34	disasters	_	_	_	_	_	_	_	_
+35	or	_	_	_	_	_	_	_	_
+36	accidents	_	_	_	_	_	_	_	_
+37	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1056
+# text = It is true, but unhelpful, to say that governments have only themselves to blame for having recklessly rushed into this wild ride.
+1	It	_	_	_	_	_	_	_	_
+2	is	_	_	_	_	_	_	_	_
+3	true	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	but	_	_	_	_	_	_	_	_
+6	unhelpful	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	to	_	_	_	_	_	_	_	_
+9	say	_	_	_	_	_	_	_	_
+10	that	_	_	_	_	_	_	_	_
+11	governments	_	_	_	_	_	_	_	_
+12	have	_	_	_	_	_	_	_	_
+13	only	_	_	_	_	_	_	_	_
+14	themselves	_	_	_	_	_	_	_	_
+15	to	_	_	_	_	_	_	_	_
+16	blame	_	_	_	_	_	_	_	_
+17	for	_	_	_	_	_	_	_	_
+18	having	_	_	_	_	_	_	_	_
+19	recklessly	_	_	_	_	_	_	_	_
+20	rushed	_	_	_	_	_	_	_	_
+21	into	_	_	_	_	_	_	_	_
+22	this	_	_	_	_	_	_	_	_
+23	wild	_	_	_	_	_	_	_	_
+24	ride	_	_	_	_	_	_	_	_
+25	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-2080
+# text = Susanna, the first of their three children, was born six months later on 26 May 1583.
+1	Susanna	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	the	_	_	_	_	_	_	_	_
+4	first	_	_	_	_	_	_	_	_
+5	of	_	_	_	_	_	_	_	_
+6	their	_	_	_	_	_	_	_	_
+7	three	_	_	_	_	_	_	_	_
+8	children	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	was	_	_	_	_	_	_	_	_
+11	born	_	_	_	_	_	_	_	_
+12	six	_	_	_	_	_	_	_	_
+13	months	_	_	_	_	_	_	_	_
+14	later	_	_	_	_	_	_	_	_
+15	on	_	_	_	_	_	_	_	_
+16	26	_	_	_	_	_	_	_	_
+17	May	_	_	_	_	_	_	_	_
+18	1583	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-349
+# text = I would also like to thank her for her willingness to enter into dialogue with the other political groups when compromise formulas have needed to be reached in the face of this avalanche of amendments - and perhaps there are more of them than we expected - but which genuinely reflect the importance of the report we are now discussing.
+1	I	_	_	_	_	_	_	_	_
+2	would	_	_	_	_	_	_	_	_
+3	also	_	_	_	_	_	_	_	_
+4	like	_	_	_	_	_	_	_	_
+5	to	_	_	_	_	_	_	_	_
+6	thank	_	_	_	_	_	_	_	_
+7	her	_	_	_	_	_	_	_	_
+8	for	_	_	_	_	_	_	_	_
+9	her	_	_	_	_	_	_	_	_
+10	willingness	_	_	_	_	_	_	_	_
+11	to	_	_	_	_	_	_	_	_
+12	enter	_	_	_	_	_	_	_	_
+13	into	_	_	_	_	_	_	_	_
+14	dialogue	_	_	_	_	_	_	_	_
+15	with	_	_	_	_	_	_	_	_
+16	the	_	_	_	_	_	_	_	_
+17	other	_	_	_	_	_	_	_	_
+18	political	_	_	_	_	_	_	_	_
+19	groups	_	_	_	_	_	_	_	_
+20	when	_	_	_	_	_	_	_	_
+21	compromise	_	_	_	_	_	_	_	_
+22	formulas	_	_	_	_	_	_	_	_
+23	have	_	_	_	_	_	_	_	_
+24	needed	_	_	_	_	_	_	_	_
+25	to	_	_	_	_	_	_	_	_
+26	be	_	_	_	_	_	_	_	_
+27	reached	_	_	_	_	_	_	_	_
+28	in	_	_	_	_	_	_	_	_
+29	the	_	_	_	_	_	_	_	_
+30	face	_	_	_	_	_	_	_	_
+31	of	_	_	_	_	_	_	_	_
+32	this	_	_	_	_	_	_	_	_
+33	avalanche	_	_	_	_	_	_	_	_
+34	of	_	_	_	_	_	_	_	_
+35	amendments	_	_	_	_	_	_	_	_
+36	-	_	_	_	_	_	_	_	_
+37	and	_	_	_	_	_	_	_	_
+38	perhaps	_	_	_	_	_	_	_	_
+39	there	_	_	_	_	_	_	_	_
+40	are	_	_	_	_	_	_	_	_
+41	more	_	_	_	_	_	_	_	_
+42	of	_	_	_	_	_	_	_	_
+43	them	_	_	_	_	_	_	_	_
+44	than	_	_	_	_	_	_	_	_
+45	we	_	_	_	_	_	_	_	_
+46	expected	_	_	_	_	_	_	_	_
+47	-	_	_	_	_	_	_	_	_
+48	but	_	_	_	_	_	_	_	_
+49	which	_	_	_	_	_	_	_	_
+50	genuinely	_	_	_	_	_	_	_	_
+51	reflect	_	_	_	_	_	_	_	_
+52	the	_	_	_	_	_	_	_	_
+53	importance	_	_	_	_	_	_	_	_
+54	of	_	_	_	_	_	_	_	_
+55	the	_	_	_	_	_	_	_	_
+56	report	_	_	_	_	_	_	_	_
+57	we	_	_	_	_	_	_	_	_
+58	are	_	_	_	_	_	_	_	_
+59	now	_	_	_	_	_	_	_	_
+60	discussing	_	_	_	_	_	_	_	_
+61	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1529
+# text = Even as Germany's Bundesbank fiercely (and rightly) opposed the OMT program for its focus on countries' solvency, rather than liquidity risk – thus creating a backdoor fiscal union – the government was relieved that the German Constitutional Court, assessing the scheme's legality, ultimately passed the buck to the European Court of Justice.
+1	Even	_	_	_	_	_	_	_	_
+2	as	_	_	_	_	_	_	_	_
+3	Germany	_	_	_	_	_	_	_	_
+4	's	_	_	_	_	_	_	_	_
+5	Bundesbank	_	_	_	_	_	_	_	_
+6	fiercely	_	_	_	_	_	_	_	_
+7	(	_	_	_	_	_	_	_	_
+8	and	_	_	_	_	_	_	_	_
+9	rightly	_	_	_	_	_	_	_	_
+10	)	_	_	_	_	_	_	_	_
+11	opposed	_	_	_	_	_	_	_	_
+12	the	_	_	_	_	_	_	_	_
+13	OMT	_	_	_	_	_	_	_	_
+14	program	_	_	_	_	_	_	_	_
+15	for	_	_	_	_	_	_	_	_
+16	its	_	_	_	_	_	_	_	_
+17	focus	_	_	_	_	_	_	_	_
+18	on	_	_	_	_	_	_	_	_
+19	countries	_	_	_	_	_	_	_	_
+20	'	_	_	_	_	_	_	_	_
+21	solvency	_	_	_	_	_	_	_	_
+22	,	_	_	_	_	_	_	_	_
+23	rather	_	_	_	_	_	_	_	_
+24	than	_	_	_	_	_	_	_	_
+25	liquidity	_	_	_	_	_	_	_	_
+26	risk	_	_	_	_	_	_	_	_
+27	–	_	_	_	_	_	_	_	_
+28	thus	_	_	_	_	_	_	_	_
+29	creating	_	_	_	_	_	_	_	_
+30	a	_	_	_	_	_	_	_	_
+31	backdoor	_	_	_	_	_	_	_	_
+32	fiscal	_	_	_	_	_	_	_	_
+33	union	_	_	_	_	_	_	_	_
+34	–	_	_	_	_	_	_	_	_
+35	the	_	_	_	_	_	_	_	_
+36	government	_	_	_	_	_	_	_	_
+37	was	_	_	_	_	_	_	_	_
+38	relieved	_	_	_	_	_	_	_	_
+39	that	_	_	_	_	_	_	_	_
+40	the	_	_	_	_	_	_	_	_
+41	German	_	_	_	_	_	_	_	_
+42	Constitutional	_	_	_	_	_	_	_	_
+43	Court	_	_	_	_	_	_	_	_
+44	,	_	_	_	_	_	_	_	_
+45	assessing	_	_	_	_	_	_	_	_
+46	the	_	_	_	_	_	_	_	_
+47	scheme	_	_	_	_	_	_	_	_
+48	's	_	_	_	_	_	_	_	_
+49	legality	_	_	_	_	_	_	_	_
+50	,	_	_	_	_	_	_	_	_
+51	ultimately	_	_	_	_	_	_	_	_
+52	passed	_	_	_	_	_	_	_	_
+53	the	_	_	_	_	_	_	_	_
+54	buck	_	_	_	_	_	_	_	_
+55	to	_	_	_	_	_	_	_	_
+56	the	_	_	_	_	_	_	_	_
+57	European	_	_	_	_	_	_	_	_
+58	Court	_	_	_	_	_	_	_	_
+59	of	_	_	_	_	_	_	_	_
+60	Justice	_	_	_	_	_	_	_	_
+61	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-873
+# text = We have now entered in the 6X:
+1	We	_	_	_	_	_	_	_	_
+2	have	_	_	_	_	_	_	_	_
+3	now	_	_	_	_	_	_	_	_
+4	entered	_	_	_	_	_	_	_	_
+5	in	_	_	_	_	_	_	_	_
+6	the	_	_	_	_	_	_	_	_
+7	6	_	_	_	_	_	_	_	_
+8	X	_	_	_	_	_	_	_	_
+9	:	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1181
+# text = Yet a superficial fixation on China's headline GDP growth persists, so that a 25% deceleration, to a 7-8% annual rate, is perceived as somehow heralding the end of the modern world's greatest development story.
+1	Yet	_	_	_	_	_	_	_	_
+2	a	_	_	_	_	_	_	_	_
+3	superficial	_	_	_	_	_	_	_	_
+4	fixation	_	_	_	_	_	_	_	_
+5	on	_	_	_	_	_	_	_	_
+6	China	_	_	_	_	_	_	_	_
+7	's	_	_	_	_	_	_	_	_
+8	headline	_	_	_	_	_	_	_	_
+9	GDP	_	_	_	_	_	_	_	_
+10	growth	_	_	_	_	_	_	_	_
+11	persists	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	so	_	_	_	_	_	_	_	_
+14	that	_	_	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	25	_	_	_	_	_	_	_	_
+17	%	_	_	_	_	_	_	_	_
+18	deceleration	_	_	_	_	_	_	_	_
+19	,	_	_	_	_	_	_	_	_
+20	to	_	_	_	_	_	_	_	_
+21	a	_	_	_	_	_	_	_	_
+22	7	_	_	_	_	_	_	_	_
+23	-	_	_	_	_	_	_	_	_
+24	8	_	_	_	_	_	_	_	_
+25	%	_	_	_	_	_	_	_	_
+26	annual	_	_	_	_	_	_	_	_
+27	rate	_	_	_	_	_	_	_	_
+28	,	_	_	_	_	_	_	_	_
+29	is	_	_	_	_	_	_	_	_
+30	perceived	_	_	_	_	_	_	_	_
+31	as	_	_	_	_	_	_	_	_
+32	somehow	_	_	_	_	_	_	_	_
+33	heralding	_	_	_	_	_	_	_	_
+34	the	_	_	_	_	_	_	_	_
+35	end	_	_	_	_	_	_	_	_
+36	of	_	_	_	_	_	_	_	_
+37	the	_	_	_	_	_	_	_	_
+38	modern	_	_	_	_	_	_	_	_
+39	world	_	_	_	_	_	_	_	_
+40	's	_	_	_	_	_	_	_	_
+41	greatest	_	_	_	_	_	_	_	_
+42	development	_	_	_	_	_	_	_	_
+43	story	_	_	_	_	_	_	_	_
+44	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-2052
+# text = During the Romantic era, Shakespeare was praised by the poet and literary philosopher Samuel Taylor Coleridge;
+1	During	_	_	_	_	_	_	_	_
+2	the	_	_	_	_	_	_	_	_
+3	Romantic	_	_	_	_	_	_	_	_
+4	era	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	Shakespeare	_	_	_	_	_	_	_	_
+7	was	_	_	_	_	_	_	_	_
+8	praised	_	_	_	_	_	_	_	_
+9	by	_	_	_	_	_	_	_	_
+10	the	_	_	_	_	_	_	_	_
+11	poet	_	_	_	_	_	_	_	_
+12	and	_	_	_	_	_	_	_	_
+13	literary	_	_	_	_	_	_	_	_
+14	philosopher	_	_	_	_	_	_	_	_
+15	Samuel	_	_	_	_	_	_	_	_
+16	Taylor	_	_	_	_	_	_	_	_
+17	Coleridge	_	_	_	_	_	_	_	_
+18	;	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-119
+# text = I admit that, at present, the matter seems to be somewhat confused.
+1	I	_	_	_	_	_	_	_	_
+2	admit	_	_	_	_	_	_	_	_
+3	that	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	at	_	_	_	_	_	_	_	_
+6	present	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	the	_	_	_	_	_	_	_	_
+9	matter	_	_	_	_	_	_	_	_
+10	seems	_	_	_	_	_	_	_	_
+11	to	_	_	_	_	_	_	_	_
+12	be	_	_	_	_	_	_	_	_
+13	somewhat	_	_	_	_	_	_	_	_
+14	confused	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1711
+# text = On 14 March 1850, with Balzac's health in serious decline, they drove from her estate in Wierzchownia (village of Verkhivnia) to a church in Berdyczów (city of Berdychiv, today in Ukraine) and were married.
+1	On	_	_	_	_	_	_	_	_
+2	14	_	_	_	_	_	_	_	_
+3	March	_	_	_	_	_	_	_	_
+4	1850	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	with	_	_	_	_	_	_	_	_
+7	Balzac	_	_	_	_	_	_	_	_
+8	's	_	_	_	_	_	_	_	_
+9	health	_	_	_	_	_	_	_	_
+10	in	_	_	_	_	_	_	_	_
+11	serious	_	_	_	_	_	_	_	_
+12	decline	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	they	_	_	_	_	_	_	_	_
+15	drove	_	_	_	_	_	_	_	_
+16	from	_	_	_	_	_	_	_	_
+17	her	_	_	_	_	_	_	_	_
+18	estate	_	_	_	_	_	_	_	_
+19	in	_	_	_	_	_	_	_	_
+20	Wierzchownia	_	_	_	_	_	_	_	_
+21	(	_	_	_	_	_	_	_	_
+22	village	_	_	_	_	_	_	_	_
+23	of	_	_	_	_	_	_	_	_
+24	Verkhivnia	_	_	_	_	_	_	_	_
+25	)	_	_	_	_	_	_	_	_
+26	to	_	_	_	_	_	_	_	_
+27	a	_	_	_	_	_	_	_	_
+28	church	_	_	_	_	_	_	_	_
+29	in	_	_	_	_	_	_	_	_
+30	Berdyczów	_	_	_	_	_	_	_	_
+31	(	_	_	_	_	_	_	_	_
+32	city	_	_	_	_	_	_	_	_
+33	of	_	_	_	_	_	_	_	_
+34	Berdychiv	_	_	_	_	_	_	_	_
+35	,	_	_	_	_	_	_	_	_
+36	today	_	_	_	_	_	_	_	_
+37	in	_	_	_	_	_	_	_	_
+38	Ukraine	_	_	_	_	_	_	_	_
+39	)	_	_	_	_	_	_	_	_
+40	and	_	_	_	_	_	_	_	_
+41	were	_	_	_	_	_	_	_	_
+42	married	_	_	_	_	_	_	_	_
+43	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1260
+# text = But, upon closer inspection, it became clear that most of this innovation involved devising better ways of scamming others, manipulating markets without getting caught (at least for a long time), and exploiting market power.
+1	But	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	upon	_	_	_	_	_	_	_	_
+4	closer	_	_	_	_	_	_	_	_
+5	inspection	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	it	_	_	_	_	_	_	_	_
+8	became	_	_	_	_	_	_	_	_
+9	clear	_	_	_	_	_	_	_	_
+10	that	_	_	_	_	_	_	_	_
+11	most	_	_	_	_	_	_	_	_
+12	of	_	_	_	_	_	_	_	_
+13	this	_	_	_	_	_	_	_	_
+14	innovation	_	_	_	_	_	_	_	_
+15	involved	_	_	_	_	_	_	_	_
+16	devising	_	_	_	_	_	_	_	_
+17	better	_	_	_	_	_	_	_	_
+18	ways	_	_	_	_	_	_	_	_
+19	of	_	_	_	_	_	_	_	_
+20	scamming	_	_	_	_	_	_	_	_
+21	others	_	_	_	_	_	_	_	_
+22	,	_	_	_	_	_	_	_	_
+23	manipulating	_	_	_	_	_	_	_	_
+24	markets	_	_	_	_	_	_	_	_
+25	without	_	_	_	_	_	_	_	_
+26	getting	_	_	_	_	_	_	_	_
+27	caught	_	_	_	_	_	_	_	_
+28	(	_	_	_	_	_	_	_	_
+29	at	_	_	_	_	_	_	_	_
+30	least	_	_	_	_	_	_	_	_
+31	for	_	_	_	_	_	_	_	_
+32	a	_	_	_	_	_	_	_	_
+33	long	_	_	_	_	_	_	_	_
+34	time	_	_	_	_	_	_	_	_
+35	)	_	_	_	_	_	_	_	_
+36	,	_	_	_	_	_	_	_	_
+37	and	_	_	_	_	_	_	_	_
+38	exploiting	_	_	_	_	_	_	_	_
+39	market	_	_	_	_	_	_	_	_
+40	power	_	_	_	_	_	_	_	_
+41	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-647
+# text = - a report, independent from the programme manager, evaluating the relevance, the efficiency and the effectiveness of the programme;
+1	-	_	_	_	_	_	_	_	_
+2	a	_	_	_	_	_	_	_	_
+3	report	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	independent	_	_	_	_	_	_	_	_
+6	from	_	_	_	_	_	_	_	_
+7	the	_	_	_	_	_	_	_	_
+8	programme	_	_	_	_	_	_	_	_
+9	manager	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	evaluating	_	_	_	_	_	_	_	_
+12	the	_	_	_	_	_	_	_	_
+13	relevance	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	the	_	_	_	_	_	_	_	_
+16	efficiency	_	_	_	_	_	_	_	_
+17	and	_	_	_	_	_	_	_	_
+18	the	_	_	_	_	_	_	_	_
+19	effectiveness	_	_	_	_	_	_	_	_
+20	of	_	_	_	_	_	_	_	_
+21	the	_	_	_	_	_	_	_	_
+22	programme	_	_	_	_	_	_	_	_
+23	;	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-553
+# text = Common questions.
+1	Common	_	_	_	_	_	_	_	_
+2	questions	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-335
+# text = I would like to point out, however, that this starting point indicates to us the challenges which face us:
+1	I	_	_	_	_	_	_	_	_
+2	would	_	_	_	_	_	_	_	_
+3	like	_	_	_	_	_	_	_	_
+4	to	_	_	_	_	_	_	_	_
+5	point	_	_	_	_	_	_	_	_
+6	out	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	however	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	that	_	_	_	_	_	_	_	_
+11	this	_	_	_	_	_	_	_	_
+12	starting	_	_	_	_	_	_	_	_
+13	point	_	_	_	_	_	_	_	_
+14	indicates	_	_	_	_	_	_	_	_
+15	to	_	_	_	_	_	_	_	_
+16	us	_	_	_	_	_	_	_	_
+17	the	_	_	_	_	_	_	_	_
+18	challenges	_	_	_	_	_	_	_	_
+19	which	_	_	_	_	_	_	_	_
+20	face	_	_	_	_	_	_	_	_
+21	us	_	_	_	_	_	_	_	_
+22	:	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-983
+# text = In response to progress made by the new Member State concerned in fulfilling its commitments, the Commission may adapt the measures as appropriate.
+1	In	_	_	_	_	_	_	_	_
+2	response	_	_	_	_	_	_	_	_
+3	to	_	_	_	_	_	_	_	_
+4	progress	_	_	_	_	_	_	_	_
+5	made	_	_	_	_	_	_	_	_
+6	by	_	_	_	_	_	_	_	_
+7	the	_	_	_	_	_	_	_	_
+8	new	_	_	_	_	_	_	_	_
+9	Member	_	_	_	_	_	_	_	_
+10	State	_	_	_	_	_	_	_	_
+11	concerned	_	_	_	_	_	_	_	_
+12	in	_	_	_	_	_	_	_	_
+13	fulfilling	_	_	_	_	_	_	_	_
+14	its	_	_	_	_	_	_	_	_
+15	commitments	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	the	_	_	_	_	_	_	_	_
+18	Commission	_	_	_	_	_	_	_	_
+19	may	_	_	_	_	_	_	_	_
+20	adapt	_	_	_	_	_	_	_	_
+21	the	_	_	_	_	_	_	_	_
+22	measures	_	_	_	_	_	_	_	_
+23	as	_	_	_	_	_	_	_	_
+24	appropriate	_	_	_	_	_	_	_	_
+25	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-861
+# text = Even though they were labeled whale meat, they were dolphin meat.
+1	Even	_	_	_	_	_	_	_	_
+2	though	_	_	_	_	_	_	_	_
+3	they	_	_	_	_	_	_	_	_
+4	were	_	_	_	_	_	_	_	_
+5	labeled	_	_	_	_	_	_	_	_
+6	whale	_	_	_	_	_	_	_	_
+7	meat	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	they	_	_	_	_	_	_	_	_
+10	were	_	_	_	_	_	_	_	_
+11	dolphin	_	_	_	_	_	_	_	_
+12	meat	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-340
+# text = This lack of infrastructure is also an obstacle to the establishment of companies and the creation of jobs.
+1	This	_	_	_	_	_	_	_	_
+2	lack	_	_	_	_	_	_	_	_
+3	of	_	_	_	_	_	_	_	_
+4	infrastructure	_	_	_	_	_	_	_	_
+5	is	_	_	_	_	_	_	_	_
+6	also	_	_	_	_	_	_	_	_
+7	an	_	_	_	_	_	_	_	_
+8	obstacle	_	_	_	_	_	_	_	_
+9	to	_	_	_	_	_	_	_	_
+10	the	_	_	_	_	_	_	_	_
+11	establishment	_	_	_	_	_	_	_	_
+12	of	_	_	_	_	_	_	_	_
+13	companies	_	_	_	_	_	_	_	_
+14	and	_	_	_	_	_	_	_	_
+15	the	_	_	_	_	_	_	_	_
+16	creation	_	_	_	_	_	_	_	_
+17	of	_	_	_	_	_	_	_	_
+18	jobs	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1304
+# text = This reflects a fundamental failing on the part of the scientific community to relay relevant data to decision-makers.
+1	This	_	_	_	_	_	_	_	_
+2	reflects	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	fundamental	_	_	_	_	_	_	_	_
+5	failing	_	_	_	_	_	_	_	_
+6	on	_	_	_	_	_	_	_	_
+7	the	_	_	_	_	_	_	_	_
+8	part	_	_	_	_	_	_	_	_
+9	of	_	_	_	_	_	_	_	_
+10	the	_	_	_	_	_	_	_	_
+11	scientific	_	_	_	_	_	_	_	_
+12	community	_	_	_	_	_	_	_	_
+13	to	_	_	_	_	_	_	_	_
+14	relay	_	_	_	_	_	_	_	_
+15	relevant	_	_	_	_	_	_	_	_
+16	data	_	_	_	_	_	_	_	_
+17	to	_	_	_	_	_	_	_	_
+18	decision	_	_	_	_	_	_	_	_
+19	-	_	_	_	_	_	_	_	_
+20	makers	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-171
+# text = Madam President, we cannot and must not accept the fact that we hear ever more frequently of accidents causing major damage on our roads, but also on our railways and waterways, not solely but at least partly because those involved do not take the transport of dangerous goods seriously enough or because - as a result of ignorance or a lack of training on the part of the drivers or others responsible for the various vehicles - a minor accident has all too often become a major disaster.
+1	Madam	_	_	_	_	_	_	_	_
+2	President	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	we	_	_	_	_	_	_	_	_
+5	can	_	_	_	_	_	_	_	_
+6	not	_	_	_	_	_	_	_	_
+7	and	_	_	_	_	_	_	_	_
+8	must	_	_	_	_	_	_	_	_
+9	not	_	_	_	_	_	_	_	_
+10	accept	_	_	_	_	_	_	_	_
+11	the	_	_	_	_	_	_	_	_
+12	fact	_	_	_	_	_	_	_	_
+13	that	_	_	_	_	_	_	_	_
+14	we	_	_	_	_	_	_	_	_
+15	hear	_	_	_	_	_	_	_	_
+16	ever	_	_	_	_	_	_	_	_
+17	more	_	_	_	_	_	_	_	_
+18	frequently	_	_	_	_	_	_	_	_
+19	of	_	_	_	_	_	_	_	_
+20	accidents	_	_	_	_	_	_	_	_
+21	causing	_	_	_	_	_	_	_	_
+22	major	_	_	_	_	_	_	_	_
+23	damage	_	_	_	_	_	_	_	_
+24	on	_	_	_	_	_	_	_	_
+25	our	_	_	_	_	_	_	_	_
+26	roads	_	_	_	_	_	_	_	_
+27	,	_	_	_	_	_	_	_	_
+28	but	_	_	_	_	_	_	_	_
+29	also	_	_	_	_	_	_	_	_
+30	on	_	_	_	_	_	_	_	_
+31	our	_	_	_	_	_	_	_	_
+32	railways	_	_	_	_	_	_	_	_
+33	and	_	_	_	_	_	_	_	_
+34	waterways	_	_	_	_	_	_	_	_
+35	,	_	_	_	_	_	_	_	_
+36	not	_	_	_	_	_	_	_	_
+37	solely	_	_	_	_	_	_	_	_
+38	but	_	_	_	_	_	_	_	_
+39	at	_	_	_	_	_	_	_	_
+40	least	_	_	_	_	_	_	_	_
+41	partly	_	_	_	_	_	_	_	_
+42	because	_	_	_	_	_	_	_	_
+43	those	_	_	_	_	_	_	_	_
+44	involved	_	_	_	_	_	_	_	_
+45	do	_	_	_	_	_	_	_	_
+46	not	_	_	_	_	_	_	_	_
+47	take	_	_	_	_	_	_	_	_
+48	the	_	_	_	_	_	_	_	_
+49	transport	_	_	_	_	_	_	_	_
+50	of	_	_	_	_	_	_	_	_
+51	dangerous	_	_	_	_	_	_	_	_
+52	goods	_	_	_	_	_	_	_	_
+53	seriously	_	_	_	_	_	_	_	_
+54	enough	_	_	_	_	_	_	_	_
+55	or	_	_	_	_	_	_	_	_
+56	because	_	_	_	_	_	_	_	_
+57	-	_	_	_	_	_	_	_	_
+58	as	_	_	_	_	_	_	_	_
+59	a	_	_	_	_	_	_	_	_
+60	result	_	_	_	_	_	_	_	_
+61	of	_	_	_	_	_	_	_	_
+62	ignorance	_	_	_	_	_	_	_	_
+63	or	_	_	_	_	_	_	_	_
+64	a	_	_	_	_	_	_	_	_
+65	lack	_	_	_	_	_	_	_	_
+66	of	_	_	_	_	_	_	_	_
+67	training	_	_	_	_	_	_	_	_
+68	on	_	_	_	_	_	_	_	_
+69	the	_	_	_	_	_	_	_	_
+70	part	_	_	_	_	_	_	_	_
+71	of	_	_	_	_	_	_	_	_
+72	the	_	_	_	_	_	_	_	_
+73	drivers	_	_	_	_	_	_	_	_
+74	or	_	_	_	_	_	_	_	_
+75	others	_	_	_	_	_	_	_	_
+76	responsible	_	_	_	_	_	_	_	_
+77	for	_	_	_	_	_	_	_	_
+78	the	_	_	_	_	_	_	_	_
+79	various	_	_	_	_	_	_	_	_
+80	vehicles	_	_	_	_	_	_	_	_
+81	-	_	_	_	_	_	_	_	_
+82	a	_	_	_	_	_	_	_	_
+83	minor	_	_	_	_	_	_	_	_
+84	accident	_	_	_	_	_	_	_	_
+85	has	_	_	_	_	_	_	_	_
+86	all	_	_	_	_	_	_	_	_
+87	too	_	_	_	_	_	_	_	_
+88	often	_	_	_	_	_	_	_	_
+89	become	_	_	_	_	_	_	_	_
+90	a	_	_	_	_	_	_	_	_
+91	major	_	_	_	_	_	_	_	_
+92	disaster	_	_	_	_	_	_	_	_
+93	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-493
+# text = For added security, your Facebook password should also be different than other passwords that you use on the internet.
+1	For	_	_	_	_	_	_	_	_
+2	added	_	_	_	_	_	_	_	_
+3	security	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	your	_	_	_	_	_	_	_	_
+6	Facebook	_	_	_	_	_	_	_	_
+7	password	_	_	_	_	_	_	_	_
+8	should	_	_	_	_	_	_	_	_
+9	also	_	_	_	_	_	_	_	_
+10	be	_	_	_	_	_	_	_	_
+11	different	_	_	_	_	_	_	_	_
+12	than	_	_	_	_	_	_	_	_
+13	other	_	_	_	_	_	_	_	_
+14	passwords	_	_	_	_	_	_	_	_
+15	that	_	_	_	_	_	_	_	_
+16	you	_	_	_	_	_	_	_	_
+17	use	_	_	_	_	_	_	_	_
+18	on	_	_	_	_	_	_	_	_
+19	the	_	_	_	_	_	_	_	_
+20	internet	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-4
+# text = Creative Commons provides this information on an "as-is" basis.
+1	Creative	_	_	_	_	_	_	_	_
+2	Commons	_	_	_	_	_	_	_	_
+3	provides	_	_	_	_	_	_	_	_
+4	this	_	_	_	_	_	_	_	_
+5	information	_	_	_	_	_	_	_	_
+6	on	_	_	_	_	_	_	_	_
+7	an	_	_	_	_	_	_	_	_
+8	"	_	_	_	_	_	_	_	_
+9	as	_	_	_	_	_	_	_	_
+10	-	_	_	_	_	_	_	_	_
+11	is	_	_	_	_	_	_	_	_
+12	"	_	_	_	_	_	_	_	_
+13	basis	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-331
+# text = But the lack of specific guidelines here is particularly to be regretted, as the idea of linking Social Fund assistance to the employment strategy will be put into effect for the first time during the 2000-2006 programme.
+1	But	_	_	_	_	_	_	_	_
+2	the	_	_	_	_	_	_	_	_
+3	lack	_	_	_	_	_	_	_	_
+4	of	_	_	_	_	_	_	_	_
+5	specific	_	_	_	_	_	_	_	_
+6	guidelines	_	_	_	_	_	_	_	_
+7	here	_	_	_	_	_	_	_	_
+8	is	_	_	_	_	_	_	_	_
+9	particularly	_	_	_	_	_	_	_	_
+10	to	_	_	_	_	_	_	_	_
+11	be	_	_	_	_	_	_	_	_
+12	regretted	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	as	_	_	_	_	_	_	_	_
+15	the	_	_	_	_	_	_	_	_
+16	idea	_	_	_	_	_	_	_	_
+17	of	_	_	_	_	_	_	_	_
+18	linking	_	_	_	_	_	_	_	_
+19	Social	_	_	_	_	_	_	_	_
+20	Fund	_	_	_	_	_	_	_	_
+21	assistance	_	_	_	_	_	_	_	_
+22	to	_	_	_	_	_	_	_	_
+23	the	_	_	_	_	_	_	_	_
+24	employment	_	_	_	_	_	_	_	_
+25	strategy	_	_	_	_	_	_	_	_
+26	will	_	_	_	_	_	_	_	_
+27	be	_	_	_	_	_	_	_	_
+28	put	_	_	_	_	_	_	_	_
+29	into	_	_	_	_	_	_	_	_
+30	effect	_	_	_	_	_	_	_	_
+31	for	_	_	_	_	_	_	_	_
+32	the	_	_	_	_	_	_	_	_
+33	first	_	_	_	_	_	_	_	_
+34	time	_	_	_	_	_	_	_	_
+35	during	_	_	_	_	_	_	_	_
+36	the	_	_	_	_	_	_	_	_
+37	2000	_	_	_	_	_	_	_	_
+38	-	_	_	_	_	_	_	_	_
+39	2006	_	_	_	_	_	_	_	_
+40	programme	_	_	_	_	_	_	_	_
+41	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1766
+# text = Balzac concerned himself overwhelmingly with the darker essence of human nature and the corrupting influence of middle and high societies.
+1	Balzac	_	_	_	_	_	_	_	_
+2	concerned	_	_	_	_	_	_	_	_
+3	himself	_	_	_	_	_	_	_	_
+4	overwhelmingly	_	_	_	_	_	_	_	_
+5	with	_	_	_	_	_	_	_	_
+6	the	_	_	_	_	_	_	_	_
+7	darker	_	_	_	_	_	_	_	_
+8	essence	_	_	_	_	_	_	_	_
+9	of	_	_	_	_	_	_	_	_
+10	human	_	_	_	_	_	_	_	_
+11	nature	_	_	_	_	_	_	_	_
+12	and	_	_	_	_	_	_	_	_
+13	the	_	_	_	_	_	_	_	_
+14	corrupting	_	_	_	_	_	_	_	_
+15	influence	_	_	_	_	_	_	_	_
+16	of	_	_	_	_	_	_	_	_
+17	middle	_	_	_	_	_	_	_	_
+18	and	_	_	_	_	_	_	_	_
+19	high	_	_	_	_	_	_	_	_
+20	societies	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-488
+# text = What is the minimum password strength?
+1	What	_	_	_	_	_	_	_	_
+2	is	_	_	_	_	_	_	_	_
+3	the	_	_	_	_	_	_	_	_
+4	minimum	_	_	_	_	_	_	_	_
+5	password	_	_	_	_	_	_	_	_
+6	strength	_	_	_	_	_	_	_	_
+7	?	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-564
+# text = Learn more about the "Subscribe" button in the Help Centre.
+1	Learn	_	_	_	_	_	_	_	_
+2	more	_	_	_	_	_	_	_	_
+3	about	_	_	_	_	_	_	_	_
+4	the	_	_	_	_	_	_	_	_
+5	"	_	_	_	_	_	_	_	_
+6	Subscribe	_	_	_	_	_	_	_	_
+7	"	_	_	_	_	_	_	_	_
+8	button	_	_	_	_	_	_	_	_
+9	in	_	_	_	_	_	_	_	_
+10	the	_	_	_	_	_	_	_	_
+11	Help	_	_	_	_	_	_	_	_
+12	Centre	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1944
+# text = When the company found themselves in dispute with their landlord, they pulled The Theatre down and used the timbers to construct the Globe Theatre, the first playhouse built by actors for actors, on the south bank of the Thames at Southwark.
+1	When	_	_	_	_	_	_	_	_
+2	the	_	_	_	_	_	_	_	_
+3	company	_	_	_	_	_	_	_	_
+4	found	_	_	_	_	_	_	_	_
+5	themselves	_	_	_	_	_	_	_	_
+6	in	_	_	_	_	_	_	_	_
+7	dispute	_	_	_	_	_	_	_	_
+8	with	_	_	_	_	_	_	_	_
+9	their	_	_	_	_	_	_	_	_
+10	landlord	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	they	_	_	_	_	_	_	_	_
+13	pulled	_	_	_	_	_	_	_	_
+14	The	_	_	_	_	_	_	_	_
+15	Theatre	_	_	_	_	_	_	_	_
+16	down	_	_	_	_	_	_	_	_
+17	and	_	_	_	_	_	_	_	_
+18	used	_	_	_	_	_	_	_	_
+19	the	_	_	_	_	_	_	_	_
+20	timbers	_	_	_	_	_	_	_	_
+21	to	_	_	_	_	_	_	_	_
+22	construct	_	_	_	_	_	_	_	_
+23	the	_	_	_	_	_	_	_	_
+24	Globe	_	_	_	_	_	_	_	_
+25	Theatre	_	_	_	_	_	_	_	_
+26	,	_	_	_	_	_	_	_	_
+27	the	_	_	_	_	_	_	_	_
+28	first	_	_	_	_	_	_	_	_
+29	playhouse	_	_	_	_	_	_	_	_
+30	built	_	_	_	_	_	_	_	_
+31	by	_	_	_	_	_	_	_	_
+32	actors	_	_	_	_	_	_	_	_
+33	for	_	_	_	_	_	_	_	_
+34	actors	_	_	_	_	_	_	_	_
+35	,	_	_	_	_	_	_	_	_
+36	on	_	_	_	_	_	_	_	_
+37	the	_	_	_	_	_	_	_	_
+38	south	_	_	_	_	_	_	_	_
+39	bank	_	_	_	_	_	_	_	_
+40	of	_	_	_	_	_	_	_	_
+41	the	_	_	_	_	_	_	_	_
+42	Thames	_	_	_	_	_	_	_	_
+43	at	_	_	_	_	_	_	_	_
+44	Southwark	_	_	_	_	_	_	_	_
+45	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1639
+# text = There he drew inspiration for Les Chouans (1829), a tale of love gone wrong amid the Chouan royalist forces.
+1	There	_	_	_	_	_	_	_	_
+2	he	_	_	_	_	_	_	_	_
+3	drew	_	_	_	_	_	_	_	_
+4	inspiration	_	_	_	_	_	_	_	_
+5	for	_	_	_	_	_	_	_	_
+6	Les	_	_	_	_	_	_	_	_
+7	Chouans	_	_	_	_	_	_	_	_
+8	(	_	_	_	_	_	_	_	_
+9	1829	_	_	_	_	_	_	_	_
+10	)	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	tale	_	_	_	_	_	_	_	_
+14	of	_	_	_	_	_	_	_	_
+15	love	_	_	_	_	_	_	_	_
+16	gone	_	_	_	_	_	_	_	_
+17	wrong	_	_	_	_	_	_	_	_
+18	amid	_	_	_	_	_	_	_	_
+19	the	_	_	_	_	_	_	_	_
+20	Chouan	_	_	_	_	_	_	_	_
+21	royalist	_	_	_	_	_	_	_	_
+22	forces	_	_	_	_	_	_	_	_
+23	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1178
+# text = As a result, there is no risk of portfolio outflows resulting from the Fed's tapering of its monthly asset purchases.
+1	As	_	_	_	_	_	_	_	_
+2	a	_	_	_	_	_	_	_	_
+3	result	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	there	_	_	_	_	_	_	_	_
+6	is	_	_	_	_	_	_	_	_
+7	no	_	_	_	_	_	_	_	_
+8	risk	_	_	_	_	_	_	_	_
+9	of	_	_	_	_	_	_	_	_
+10	portfolio	_	_	_	_	_	_	_	_
+11	outflows	_	_	_	_	_	_	_	_
+12	resulting	_	_	_	_	_	_	_	_
+13	from	_	_	_	_	_	_	_	_
+14	the	_	_	_	_	_	_	_	_
+15	Fed	_	_	_	_	_	_	_	_
+16	's	_	_	_	_	_	_	_	_
+17	tapering	_	_	_	_	_	_	_	_
+18	of	_	_	_	_	_	_	_	_
+19	its	_	_	_	_	_	_	_	_
+20	monthly	_	_	_	_	_	_	_	_
+21	asset	_	_	_	_	_	_	_	_
+22	purchases	_	_	_	_	_	_	_	_
+23	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1999
+# text = In practice, this meant that his verse was usually unrhymed and consisted of ten syllables to a line, spoken with a stress on every second syllable.
+1	In	_	_	_	_	_	_	_	_
+2	practice	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	this	_	_	_	_	_	_	_	_
+5	meant	_	_	_	_	_	_	_	_
+6	that	_	_	_	_	_	_	_	_
+7	his	_	_	_	_	_	_	_	_
+8	verse	_	_	_	_	_	_	_	_
+9	was	_	_	_	_	_	_	_	_
+10	usually	_	_	_	_	_	_	_	_
+11	unrhymed	_	_	_	_	_	_	_	_
+12	and	_	_	_	_	_	_	_	_
+13	consisted	_	_	_	_	_	_	_	_
+14	of	_	_	_	_	_	_	_	_
+15	ten	_	_	_	_	_	_	_	_
+16	syllables	_	_	_	_	_	_	_	_
+17	to	_	_	_	_	_	_	_	_
+18	a	_	_	_	_	_	_	_	_
+19	line	_	_	_	_	_	_	_	_
+20	,	_	_	_	_	_	_	_	_
+21	spoken	_	_	_	_	_	_	_	_
+22	with	_	_	_	_	_	_	_	_
+23	a	_	_	_	_	_	_	_	_
+24	stress	_	_	_	_	_	_	_	_
+25	on	_	_	_	_	_	_	_	_
+26	every	_	_	_	_	_	_	_	_
+27	second	_	_	_	_	_	_	_	_
+28	syllable	_	_	_	_	_	_	_	_
+29	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-860
+# text = But some of them were not whale meat at all.
+1	But	_	_	_	_	_	_	_	_
+2	some	_	_	_	_	_	_	_	_
+3	of	_	_	_	_	_	_	_	_
+4	them	_	_	_	_	_	_	_	_
+5	were	_	_	_	_	_	_	_	_
+6	not	_	_	_	_	_	_	_	_
+7	whale	_	_	_	_	_	_	_	_
+8	meat	_	_	_	_	_	_	_	_
+9	at	_	_	_	_	_	_	_	_
+10	all	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-544
+# text = Now you can hear from journalists, celebrities, political figures and other people too.
+1	Now	_	_	_	_	_	_	_	_
+2	you	_	_	_	_	_	_	_	_
+3	can	_	_	_	_	_	_	_	_
+4	hear	_	_	_	_	_	_	_	_
+5	from	_	_	_	_	_	_	_	_
+6	journalists	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	celebrities	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	political	_	_	_	_	_	_	_	_
+11	figures	_	_	_	_	_	_	_	_
+12	and	_	_	_	_	_	_	_	_
+13	other	_	_	_	_	_	_	_	_
+14	people	_	_	_	_	_	_	_	_
+15	too	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1703
+# text = Hanska was married to a man twenty years her senior, Waclaw Hanski, a wealthy Polish landowner living near Kiev.
+1	Hanska	_	_	_	_	_	_	_	_
+2	was	_	_	_	_	_	_	_	_
+3	married	_	_	_	_	_	_	_	_
+4	to	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	man	_	_	_	_	_	_	_	_
+7	twenty	_	_	_	_	_	_	_	_
+8	years	_	_	_	_	_	_	_	_
+9	her	_	_	_	_	_	_	_	_
+10	senior	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	Waclaw	_	_	_	_	_	_	_	_
+13	Hanski	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	wealthy	_	_	_	_	_	_	_	_
+17	Polish	_	_	_	_	_	_	_	_
+18	landowner	_	_	_	_	_	_	_	_
+19	living	_	_	_	_	_	_	_	_
+20	near	_	_	_	_	_	_	_	_
+21	Kiev	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-30
+# text = You may not sublicense the Work.
+1	You	_	_	_	_	_	_	_	_
+2	may	_	_	_	_	_	_	_	_
+3	not	_	_	_	_	_	_	_	_
+4	sublicense	_	_	_	_	_	_	_	_
+5	the	_	_	_	_	_	_	_	_
+6	Work	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1682
+# text = Illusions Perdues extends to a thousand pages after starting inauspiciously in a small-town print shop, whereas La Fille aux Yeux D'Or (the girl with the golden eyes, 1835) opens with a broad panorama of Paris but becomes a closely plotted novella of only fifty pages.
+1	Illusions	_	_	_	_	_	_	_	_
+2	Perdues	_	_	_	_	_	_	_	_
+3	extends	_	_	_	_	_	_	_	_
+4	to	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	thousand	_	_	_	_	_	_	_	_
+7	pages	_	_	_	_	_	_	_	_
+8	after	_	_	_	_	_	_	_	_
+9	starting	_	_	_	_	_	_	_	_
+10	inauspiciously	_	_	_	_	_	_	_	_
+11	in	_	_	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	small	_	_	_	_	_	_	_	_
+14	-	_	_	_	_	_	_	_	_
+15	town	_	_	_	_	_	_	_	_
+16	print	_	_	_	_	_	_	_	_
+17	shop	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	whereas	_	_	_	_	_	_	_	_
+20	La	_	_	_	_	_	_	_	_
+21	Fille	_	_	_	_	_	_	_	_
+22	aux	_	_	_	_	_	_	_	_
+23	Yeux	_	_	_	_	_	_	_	_
+24	D'	_	_	_	_	_	_	_	_
+25	Or	_	_	_	_	_	_	_	_
+26	(	_	_	_	_	_	_	_	_
+27	the	_	_	_	_	_	_	_	_
+28	girl	_	_	_	_	_	_	_	_
+29	with	_	_	_	_	_	_	_	_
+30	the	_	_	_	_	_	_	_	_
+31	golden	_	_	_	_	_	_	_	_
+32	eyes	_	_	_	_	_	_	_	_
+33	,	_	_	_	_	_	_	_	_
+34	1835	_	_	_	_	_	_	_	_
+35	)	_	_	_	_	_	_	_	_
+36	opens	_	_	_	_	_	_	_	_
+37	with	_	_	_	_	_	_	_	_
+38	a	_	_	_	_	_	_	_	_
+39	broad	_	_	_	_	_	_	_	_
+40	panorama	_	_	_	_	_	_	_	_
+41	of	_	_	_	_	_	_	_	_
+42	Paris	_	_	_	_	_	_	_	_
+43	but	_	_	_	_	_	_	_	_
+44	becomes	_	_	_	_	_	_	_	_
+45	a	_	_	_	_	_	_	_	_
+46	closely	_	_	_	_	_	_	_	_
+47	plotted	_	_	_	_	_	_	_	_
+48	novella	_	_	_	_	_	_	_	_
+49	of	_	_	_	_	_	_	_	_
+50	only	_	_	_	_	_	_	_	_
+51	fifty	_	_	_	_	_	_	_	_
+52	pages	_	_	_	_	_	_	_	_
+53	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-387
+# text = For us new members, it was the first time, and this was a very interesting process.
+1	For	_	_	_	_	_	_	_	_
+2	us	_	_	_	_	_	_	_	_
+3	new	_	_	_	_	_	_	_	_
+4	members	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	it	_	_	_	_	_	_	_	_
+7	was	_	_	_	_	_	_	_	_
+8	the	_	_	_	_	_	_	_	_
+9	first	_	_	_	_	_	_	_	_
+10	time	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	and	_	_	_	_	_	_	_	_
+13	this	_	_	_	_	_	_	_	_
+14	was	_	_	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	very	_	_	_	_	_	_	_	_
+17	interesting	_	_	_	_	_	_	_	_
+18	process	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1235
+# text = Government interventions to date, mainly in the form of enhanced education, have proved largely ineffective.
+1	Government	_	_	_	_	_	_	_	_
+2	interventions	_	_	_	_	_	_	_	_
+3	to	_	_	_	_	_	_	_	_
+4	date	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	mainly	_	_	_	_	_	_	_	_
+7	in	_	_	_	_	_	_	_	_
+8	the	_	_	_	_	_	_	_	_
+9	form	_	_	_	_	_	_	_	_
+10	of	_	_	_	_	_	_	_	_
+11	enhanced	_	_	_	_	_	_	_	_
+12	education	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	have	_	_	_	_	_	_	_	_
+15	proved	_	_	_	_	_	_	_	_
+16	largely	_	_	_	_	_	_	_	_
+17	ineffective	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-265
+# text = Mr President, colleagues, a happy new year and millennium to you all.
+1	Mr	_	_	_	_	_	_	_	_
+2	President	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	colleagues	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	happy	_	_	_	_	_	_	_	_
+8	new	_	_	_	_	_	_	_	_
+9	year	_	_	_	_	_	_	_	_
+10	and	_	_	_	_	_	_	_	_
+11	millennium	_	_	_	_	_	_	_	_
+12	to	_	_	_	_	_	_	_	_
+13	you	_	_	_	_	_	_	_	_
+14	all	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-969
+# text = The Commission may adopt rules for implementation of the assistance referred to in paragraph 2.
+1	The	_	_	_	_	_	_	_	_
+2	Commission	_	_	_	_	_	_	_	_
+3	may	_	_	_	_	_	_	_	_
+4	adopt	_	_	_	_	_	_	_	_
+5	rules	_	_	_	_	_	_	_	_
+6	for	_	_	_	_	_	_	_	_
+7	implementation	_	_	_	_	_	_	_	_
+8	of	_	_	_	_	_	_	_	_
+9	the	_	_	_	_	_	_	_	_
+10	assistance	_	_	_	_	_	_	_	_
+11	referred	_	_	_	_	_	_	_	_
+12	to	_	_	_	_	_	_	_	_
+13	in	_	_	_	_	_	_	_	_
+14	paragraph	_	_	_	_	_	_	_	_
+15	2	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-859
+# text = That's another story.
+1	That	_	_	_	_	_	_	_	_
+2	's	_	_	_	_	_	_	_	_
+3	another	_	_	_	_	_	_	_	_
+4	story	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-939
+# text = The largest organism in the world is in Eastern Oregon.
+1	The	_	_	_	_	_	_	_	_
+2	largest	_	_	_	_	_	_	_	_
+3	organism	_	_	_	_	_	_	_	_
+4	in	_	_	_	_	_	_	_	_
+5	the	_	_	_	_	_	_	_	_
+6	world	_	_	_	_	_	_	_	_
+7	is	_	_	_	_	_	_	_	_
+8	in	_	_	_	_	_	_	_	_
+9	Eastern	_	_	_	_	_	_	_	_
+10	Oregon	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-124
+# text = It is irresponsible of EU Member States to refuse to renew the embargo.
+1	It	_	_	_	_	_	_	_	_
+2	is	_	_	_	_	_	_	_	_
+3	irresponsible	_	_	_	_	_	_	_	_
+4	of	_	_	_	_	_	_	_	_
+5	EU	_	_	_	_	_	_	_	_
+6	Member	_	_	_	_	_	_	_	_
+7	States	_	_	_	_	_	_	_	_
+8	to	_	_	_	_	_	_	_	_
+9	refuse	_	_	_	_	_	_	_	_
+10	to	_	_	_	_	_	_	_	_
+11	renew	_	_	_	_	_	_	_	_
+12	the	_	_	_	_	_	_	_	_
+13	embargo	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-316
+# text = This is one area in which I believe the Commission can be a very great friend to Wales.
+1	This	_	_	_	_	_	_	_	_
+2	is	_	_	_	_	_	_	_	_
+3	one	_	_	_	_	_	_	_	_
+4	area	_	_	_	_	_	_	_	_
+5	in	_	_	_	_	_	_	_	_
+6	which	_	_	_	_	_	_	_	_
+7	I	_	_	_	_	_	_	_	_
+8	believe	_	_	_	_	_	_	_	_
+9	the	_	_	_	_	_	_	_	_
+10	Commission	_	_	_	_	_	_	_	_
+11	can	_	_	_	_	_	_	_	_
+12	be	_	_	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	very	_	_	_	_	_	_	_	_
+15	great	_	_	_	_	_	_	_	_
+16	friend	_	_	_	_	_	_	_	_
+17	to	_	_	_	_	_	_	_	_
+18	Wales	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-102
+# text = I would therefore once more ask you to ensure that we get a Dutch channel as well.
+1	I	_	_	_	_	_	_	_	_
+2	would	_	_	_	_	_	_	_	_
+3	therefore	_	_	_	_	_	_	_	_
+4	once	_	_	_	_	_	_	_	_
+5	more	_	_	_	_	_	_	_	_
+6	ask	_	_	_	_	_	_	_	_
+7	you	_	_	_	_	_	_	_	_
+8	to	_	_	_	_	_	_	_	_
+9	ensure	_	_	_	_	_	_	_	_
+10	that	_	_	_	_	_	_	_	_
+11	we	_	_	_	_	_	_	_	_
+12	get	_	_	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	Dutch	_	_	_	_	_	_	_	_
+15	channel	_	_	_	_	_	_	_	_
+16	as	_	_	_	_	_	_	_	_
+17	well	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-571
+# text = For the vast majority of product categories available on the Community market, very different degrees of environmental impact can be noted though they provide similar functional performances.
+1	For	_	_	_	_	_	_	_	_
+2	the	_	_	_	_	_	_	_	_
+3	vast	_	_	_	_	_	_	_	_
+4	majority	_	_	_	_	_	_	_	_
+5	of	_	_	_	_	_	_	_	_
+6	product	_	_	_	_	_	_	_	_
+7	categories	_	_	_	_	_	_	_	_
+8	available	_	_	_	_	_	_	_	_
+9	on	_	_	_	_	_	_	_	_
+10	the	_	_	_	_	_	_	_	_
+11	Community	_	_	_	_	_	_	_	_
+12	market	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	very	_	_	_	_	_	_	_	_
+15	different	_	_	_	_	_	_	_	_
+16	degrees	_	_	_	_	_	_	_	_
+17	of	_	_	_	_	_	_	_	_
+18	environmental	_	_	_	_	_	_	_	_
+19	impact	_	_	_	_	_	_	_	_
+20	can	_	_	_	_	_	_	_	_
+21	be	_	_	_	_	_	_	_	_
+22	noted	_	_	_	_	_	_	_	_
+23	though	_	_	_	_	_	_	_	_
+24	they	_	_	_	_	_	_	_	_
+25	provide	_	_	_	_	_	_	_	_
+26	similar	_	_	_	_	_	_	_	_
+27	functional	_	_	_	_	_	_	_	_
+28	performances	_	_	_	_	_	_	_	_
+29	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-756
+# text = Everyone has the right to recognition everywhere as a person before the law.
+1	Everyone	_	_	_	_	_	_	_	_
+2	has	_	_	_	_	_	_	_	_
+3	the	_	_	_	_	_	_	_	_
+4	right	_	_	_	_	_	_	_	_
+5	to	_	_	_	_	_	_	_	_
+6	recognition	_	_	_	_	_	_	_	_
+7	everywhere	_	_	_	_	_	_	_	_
+8	as	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	person	_	_	_	_	_	_	_	_
+11	before	_	_	_	_	_	_	_	_
+12	the	_	_	_	_	_	_	_	_
+13	law	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-253
+# text = Should the European Union fail to take action, then Member States would be obliged to amend their national legislation for a very brief period, until the CEN completes its work, which would cause unnecessary cost and uncertainty.
+1	Should	_	_	_	_	_	_	_	_
+2	the	_	_	_	_	_	_	_	_
+3	European	_	_	_	_	_	_	_	_
+4	Union	_	_	_	_	_	_	_	_
+5	fail	_	_	_	_	_	_	_	_
+6	to	_	_	_	_	_	_	_	_
+7	take	_	_	_	_	_	_	_	_
+8	action	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	then	_	_	_	_	_	_	_	_
+11	Member	_	_	_	_	_	_	_	_
+12	States	_	_	_	_	_	_	_	_
+13	would	_	_	_	_	_	_	_	_
+14	be	_	_	_	_	_	_	_	_
+15	obliged	_	_	_	_	_	_	_	_
+16	to	_	_	_	_	_	_	_	_
+17	amend	_	_	_	_	_	_	_	_
+18	their	_	_	_	_	_	_	_	_
+19	national	_	_	_	_	_	_	_	_
+20	legislation	_	_	_	_	_	_	_	_
+21	for	_	_	_	_	_	_	_	_
+22	a	_	_	_	_	_	_	_	_
+23	very	_	_	_	_	_	_	_	_
+24	brief	_	_	_	_	_	_	_	_
+25	period	_	_	_	_	_	_	_	_
+26	,	_	_	_	_	_	_	_	_
+27	until	_	_	_	_	_	_	_	_
+28	the	_	_	_	_	_	_	_	_
+29	CEN	_	_	_	_	_	_	_	_
+30	completes	_	_	_	_	_	_	_	_
+31	its	_	_	_	_	_	_	_	_
+32	work	_	_	_	_	_	_	_	_
+33	,	_	_	_	_	_	_	_	_
+34	which	_	_	_	_	_	_	_	_
+35	would	_	_	_	_	_	_	_	_
+36	cause	_	_	_	_	_	_	_	_
+37	unnecessary	_	_	_	_	_	_	_	_
+38	cost	_	_	_	_	_	_	_	_
+39	and	_	_	_	_	_	_	_	_
+40	uncertainty	_	_	_	_	_	_	_	_
+41	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-900
+# text = This is photomicrographs from Nick Read and Patrick Hickey.
+1	This	_	_	_	_	_	_	_	_
+2	is	_	_	_	_	_	_	_	_
+3	photomicrographs	_	_	_	_	_	_	_	_
+4	from	_	_	_	_	_	_	_	_
+5	Nick	_	_	_	_	_	_	_	_
+6	Read	_	_	_	_	_	_	_	_
+7	and	_	_	_	_	_	_	_	_
+8	Patrick	_	_	_	_	_	_	_	_
+9	Hickey	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-575
+# text = (4) Energy efficiency improvement - with one of the available options being more efficient end use of electricity - is regarded as contributing substantially to the achievement of greenhouse gas emission targets in the Community.
+1	(	_	_	_	_	_	_	_	_
+2	4	_	_	_	_	_	_	_	_
+3	)	_	_	_	_	_	_	_	_
+4	Energy	_	_	_	_	_	_	_	_
+5	efficiency	_	_	_	_	_	_	_	_
+6	improvement	_	_	_	_	_	_	_	_
+7	-	_	_	_	_	_	_	_	_
+8	with	_	_	_	_	_	_	_	_
+9	one	_	_	_	_	_	_	_	_
+10	of	_	_	_	_	_	_	_	_
+11	the	_	_	_	_	_	_	_	_
+12	available	_	_	_	_	_	_	_	_
+13	options	_	_	_	_	_	_	_	_
+14	being	_	_	_	_	_	_	_	_
+15	more	_	_	_	_	_	_	_	_
+16	efficient	_	_	_	_	_	_	_	_
+17	end	_	_	_	_	_	_	_	_
+18	use	_	_	_	_	_	_	_	_
+19	of	_	_	_	_	_	_	_	_
+20	electricity	_	_	_	_	_	_	_	_
+21	-	_	_	_	_	_	_	_	_
+22	is	_	_	_	_	_	_	_	_
+23	regarded	_	_	_	_	_	_	_	_
+24	as	_	_	_	_	_	_	_	_
+25	contributing	_	_	_	_	_	_	_	_
+26	substantially	_	_	_	_	_	_	_	_
+27	to	_	_	_	_	_	_	_	_
+28	the	_	_	_	_	_	_	_	_
+29	achievement	_	_	_	_	_	_	_	_
+30	of	_	_	_	_	_	_	_	_
+31	greenhouse	_	_	_	_	_	_	_	_
+32	gas	_	_	_	_	_	_	_	_
+33	emission	_	_	_	_	_	_	_	_
+34	targets	_	_	_	_	_	_	_	_
+35	in	_	_	_	_	_	_	_	_
+36	the	_	_	_	_	_	_	_	_
+37	Community	_	_	_	_	_	_	_	_
+38	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1389
+# text = It also has the great advantage of almost always being perceived as incredibly boring.
+1	It	_	_	_	_	_	_	_	_
+2	also	_	_	_	_	_	_	_	_
+3	has	_	_	_	_	_	_	_	_
+4	the	_	_	_	_	_	_	_	_
+5	great	_	_	_	_	_	_	_	_
+6	advantage	_	_	_	_	_	_	_	_
+7	of	_	_	_	_	_	_	_	_
+8	almost	_	_	_	_	_	_	_	_
+9	always	_	_	_	_	_	_	_	_
+10	being	_	_	_	_	_	_	_	_
+11	perceived	_	_	_	_	_	_	_	_
+12	as	_	_	_	_	_	_	_	_
+13	incredibly	_	_	_	_	_	_	_	_
+14	boring	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = en_partut-ud-1649
+# text = "The disappearance of the father coincides with the adoption of the nobiliary particle.
+1	"	_	_	_	_	_	_	_	_
+2	The	_	_	_	_	_	_	_	_
+3	disappearance	_	_	_	_	_	_	_	_
+4	of	_	_	_	_	_	_	_	_
+5	the	_	_	_	_	_	_	_	_
+6	father	_	_	_	_	_	_	_	_
+7	coincides	_	_	_	_	_	_	_	_
+8	with	_	_	_	_	_	_	_	_
+9	the	_	_	_	_	_	_	_	_
+10	adoption	_	_	_	_	_	_	_	_
+11	of	_	_	_	_	_	_	_	_
+12	the	_	_	_	_	_	_	_	_
+13	nobiliary	_	_	_	_	_	_	_	_
+14	particle	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+

@@ -1,0 +1,61 @@
+# sent_id = schachter-otanes-69-2
+# text = Naghihilik ang lolo.
+# text_en = Grandfather is snoring.
+1	Naghihilik	_	_	_	_	_	_	_	_
+2	ang	_	_	_	_	_	_	_	_
+3	lolo	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = schachter-otanes-61-2
+# text = Dumarating na ang bus.
+# text_en = The bus is coming now.
+1	Dumarating	_	_	_	_	_	_	_	_
+2	na	_	_	_	_	_	_	_	_
+3	ang	_	_	_	_	_	_	_	_
+4	bus	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = schachter-otanes-67-4
+# text = Nagluluto na ng pagkain ang nanay.
+# text_en = Mother is cooking some food now.
+1	Nagluluto	_	_	_	_	_	_	_	_
+2	na	_	_	_	_	_	_	_	_
+3	ng	_	_	_	_	_	_	_	_
+4	pagkain	_	_	_	_	_	_	_	_
+5	ang	_	_	_	_	_	_	_	_
+6	nanay	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = schachter-otanes-70-6
+# text = Bumili ng bangka ang mangingisda.
+# text_en = The fisherman bought a boat.
+1	Bumili	_	_	_	_	_	_	_	_
+2	ng	_	_	_	_	_	_	_	_
+3	bangka	_	_	_	_	_	_	_	_
+4	ang	_	_	_	_	_	_	_	_
+5	mangingisda	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = schachter-otanes-65-7
+# text = Tungkol sa giyera ang kuwento.
+# text_en = The story is about the war.
+1	Tungkol	_	_	_	_	_	_	_	_
+2	sa	_	_	_	_	_	_	_	_
+3	giyera	_	_	_	_	_	_	_	_
+4	ang	_	_	_	_	_	_	_	_
+5	kuwento	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = schachter-otanes-67-5
+# text = Nagluluto ng pagkain ang nanay noong dumating ako.
+# text_en = Mother had cooked some food when I arrived.
+1	Nagluluto	_	_	_	_	_	_	_	_
+2	ng	_	_	_	_	_	_	_	_
+3	pagkain	_	_	_	_	_	_	_	_
+4	ang	_	_	_	_	_	_	_	_
+5	nanay	_	_	_	_	_	_	_	_
+6	noong	_	_	_	_	_	_	_	_
+7	dumating	_	_	_	_	_	_	_	_
+8	ako	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+

@@ -1,0 +1,1646 @@
+# sent_id = wikipedia.vislcg.txt:1202:24679
+# text = Sigrar eftir landi.
+# text[eng] =
+# labels = checked
+1	Sigrar	_	_	_	_	_	_	_	_
+2	eftir	_	_	_	_	_	_	_	_
+3	landi	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:855:17459
+# text = Har eru heilt djúpir áarósar sum firðir.
+# text[eng] =
+# labels = to_check
+1	Har	_	_	_	_	_	_	_	_
+2	eru	_	_	_	_	_	_	_	_
+3	heilt	_	_	_	_	_	_	_	_
+4	djúpir	_	_	_	_	_	_	_	_
+5	áarósar	_	_	_	_	_	_	_	_
+6	sum	_	_	_	_	_	_	_	_
+7	firðir	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:1014:20737
+# text = Egina er ein kommuna í Attika landslutinum.
+# text[eng] =
+# labels = to_check
+1	Egina	_	_	_	_	_	_	_	_
+2	er	_	_	_	_	_	_	_	_
+3	ein	_	_	_	_	_	_	_	_
+4	kommuna	_	_	_	_	_	_	_	_
+5	í	_	_	_	_	_	_	_	_
+6	Attika	_	_	_	_	_	_	_	_
+7	landslutinum	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:478:9665
+# text = Súla er størsti byggingarfuglur í Føroyum.
+# text[eng] =
+# labels = to_check
+1	Súla	_	_	_	_	_	_	_	_
+2	er	_	_	_	_	_	_	_	_
+3	størsti	_	_	_	_	_	_	_	_
+4	byggingarfuglur	_	_	_	_	_	_	_	_
+5	í	_	_	_	_	_	_	_	_
+6	Føroyum	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:388:7821
+# text = Tørvur var á bóndum norðanfyri.
+# text[eng] =
+# labels = to_check
+1	Tørvur	_	_	_	_	_	_	_	_
+2	var	_	_	_	_	_	_	_	_
+3	á	_	_	_	_	_	_	_	_
+4	bóndum	_	_	_	_	_	_	_	_
+5	norðanfyri	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:72:1487
+# text = Amtmaðurin er ovasti embætismaður í amti.
+# text[eng] = The prefect is the top official in a prefecture.
+# labels = to_check
+1	Amtmaðurin	_	_	_	_	_	_	_	_
+2	er	_	_	_	_	_	_	_	_
+3	ovasti	_	_	_	_	_	_	_	_
+4	embætismaður	_	_	_	_	_	_	_	_
+5	í	_	_	_	_	_	_	_	_
+6	amti	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:299:5967
+# text = Í Føroyum eru 14 prestagjøld og 20 prestar.
+# text[eng] = There are 14 parishes and 20 priests in the Faroe Islands.
+# labels = to_check
+1	Í	_	_	_	_	_	_	_	_
+2	Føroyum	_	_	_	_	_	_	_	_
+3	eru	_	_	_	_	_	_	_	_
+4	14	_	_	_	_	_	_	_	_
+5	prestagjøld	_	_	_	_	_	_	_	_
+6	og	_	_	_	_	_	_	_	_
+7	20	_	_	_	_	_	_	_	_
+8	prestar	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:486:9853
+# text = Í 1815 varð landið sameint við Niðurlond.
+# text[eng] = In 1815 the country was joined with the Netherlands.
+# labels = to_check
+1	Í	_	_	_	_	_	_	_	_
+2	1815	_	_	_	_	_	_	_	_
+3	varð	_	_	_	_	_	_	_	_
+4	landið	_	_	_	_	_	_	_	_
+5	sameint	_	_	_	_	_	_	_	_
+6	við	_	_	_	_	_	_	_	_
+7	Niðurlond	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:127:2599
+# text = Dagurin nevnist eisini kyndilsmessa.
+# text[eng] = The day is also called Candlemass.
+# labels = to_check
+1	Dagurin	_	_	_	_	_	_	_	_
+2	nevnist	_	_	_	_	_	_	_	_
+3	eisini	_	_	_	_	_	_	_	_
+4	kyndilsmessa	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:303:6039
+# text = Týskland var fallið.
+# text[eng] =
+# labels = to_check
+1	Týskland	_	_	_	_	_	_	_	_
+2	var	_	_	_	_	_	_	_	_
+3	fallið	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:555:11247
+# text = Høvuðsstaðurin er Montgomery og størsti býur er Birmingham.
+# text[eng] = The capital is Montgomery and the biggest city is Birmingham.
+# labels = to_check
+1	Høvuðsstaðurin	_	_	_	_	_	_	_	_
+2	er	_	_	_	_	_	_	_	_
+3	Montgomery	_	_	_	_	_	_	_	_
+4	og	_	_	_	_	_	_	_	_
+5	størsti	_	_	_	_	_	_	_	_
+6	býur	_	_	_	_	_	_	_	_
+7	er	_	_	_	_	_	_	_	_
+8	Birmingham	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:791:16073
+# text = Hon var lærari.
+# text[eng] = She was a teacher.
+# labels = to_check
+1	Hon	_	_	_	_	_	_	_	_
+2	var	_	_	_	_	_	_	_	_
+3	lærari	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:161:3235
+# text = Í Syðradali eru tvey festi.
+# text[eng] =
+# labels = to_check
+1	Í	_	_	_	_	_	_	_	_
+2	Syðradali	_	_	_	_	_	_	_	_
+3	eru	_	_	_	_	_	_	_	_
+4	tvey	_	_	_	_	_	_	_	_
+5	festi	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:1136:23187
+# text = Hon hevur eisini teknað nógv frímerki og jólamerki.
+# text[eng] =
+# labels = to_check
+1	Hon	_	_	_	_	_	_	_	_
+2	hevur	_	_	_	_	_	_	_	_
+3	eisini	_	_	_	_	_	_	_	_
+4	teknað	_	_	_	_	_	_	_	_
+5	nógv	_	_	_	_	_	_	_	_
+6	frímerki	_	_	_	_	_	_	_	_
+7	og	_	_	_	_	_	_	_	_
+8	jólamerki	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:1174:24023
+# text = Ofta eru fleiri legur í sama rottureiðrið, soleiðis eru fleiri rottur um somu holu.
+# text[eng] =
+# labels = to_check
+1	Ofta	_	_	_	_	_	_	_	_
+2	eru	_	_	_	_	_	_	_	_
+3	fleiri	_	_	_	_	_	_	_	_
+4	legur	_	_	_	_	_	_	_	_
+5	í	_	_	_	_	_	_	_	_
+6	sama	_	_	_	_	_	_	_	_
+7	rottureiðrið	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	soleiðis	_	_	_	_	_	_	_	_
+10	eru	_	_	_	_	_	_	_	_
+11	fleiri	_	_	_	_	_	_	_	_
+12	rottur	_	_	_	_	_	_	_	_
+13	um	_	_	_	_	_	_	_	_
+14	somu	_	_	_	_	_	_	_	_
+15	holu	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:1166:23825
+# text = Juneau er eisini ein sjálvstýrandi landslutur.
+# text[eng] =
+# labels = to_check
+1	Juneau	_	_	_	_	_	_	_	_
+2	er	_	_	_	_	_	_	_	_
+3	eisini	_	_	_	_	_	_	_	_
+4	ein	_	_	_	_	_	_	_	_
+5	sjálvstýrandi	_	_	_	_	_	_	_	_
+6	landslutur	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:669:13625
+# text = Tinganest: Tinganest er ein føroyskur tónleikabólkur.
+# text[eng] = Tinganest: Tinganest is a Faroese music group.
+# labels = to_check
+1	Tinganest	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Tinganest	_	_	_	_	_	_	_	_
+4	er	_	_	_	_	_	_	_	_
+5	ein	_	_	_	_	_	_	_	_
+6	føroyskur	_	_	_	_	_	_	_	_
+7	tónleikabólkur	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:989:20203
+# text = 26 kommunur eru í Rogaland og Stavanger er fyrisitingarbýur í fylkinum.
+# text[eng] =
+# labels = to_check
+1	26	_	_	_	_	_	_	_	_
+2	kommunur	_	_	_	_	_	_	_	_
+3	eru	_	_	_	_	_	_	_	_
+4	í	_	_	_	_	_	_	_	_
+5	Rogaland	_	_	_	_	_	_	_	_
+6	og	_	_	_	_	_	_	_	_
+7	Stavanger	_	_	_	_	_	_	_	_
+8	er	_	_	_	_	_	_	_	_
+9	fyrisitingarbýur	_	_	_	_	_	_	_	_
+10	í	_	_	_	_	_	_	_	_
+11	fylkinum	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:589:11915
+# text = Vatntrot og kørg jørð eru bóndunum mikil meinbogi.
+# text[eng] =
+# labels = to_check
+1	Vatntrot	_	_	_	_	_	_	_	_
+2	og	_	_	_	_	_	_	_	_
+3	kørg	_	_	_	_	_	_	_	_
+4	jørð	_	_	_	_	_	_	_	_
+5	eru	_	_	_	_	_	_	_	_
+6	bóndunum	_	_	_	_	_	_	_	_
+7	mikil	_	_	_	_	_	_	_	_
+8	meinbogi	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:445:8945
+# text = Fór frá!
+# text[eng] = She left!
+# labels = to_check
+1	Fór	_	_	_	_	_	_	_	_
+2	frá	_	_	_	_	_	_	_	_
+3	!	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:1176:24085
+# text = Í Føroyum hevur hon nærum forkomið einstøkum bjargafuglum.
+# text[eng] =
+# labels = to_check
+1	Í	_	_	_	_	_	_	_	_
+2	Føroyum	_	_	_	_	_	_	_	_
+3	hevur	_	_	_	_	_	_	_	_
+4	hon	_	_	_	_	_	_	_	_
+5	nærum	_	_	_	_	_	_	_	_
+6	forkomið	_	_	_	_	_	_	_	_
+7	einstøkum	_	_	_	_	_	_	_	_
+8	bjargafuglum	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:79:1637
+# text = Í 1900 var bert ein katolikkur í Føroyum.
+# text[eng] = In 1900 there was only one Catholic in the Faroe Islands.
+# labels = to_check
+1	Í	_	_	_	_	_	_	_	_
+2	1900	_	_	_	_	_	_	_	_
+3	var	_	_	_	_	_	_	_	_
+4	bert	_	_	_	_	_	_	_	_
+5	ein	_	_	_	_	_	_	_	_
+6	katolikkur	_	_	_	_	_	_	_	_
+7	í	_	_	_	_	_	_	_	_
+8	Føroyum	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:340:6781
+# text = Í 2011 vóru 14 nýggir bussar keyptir til býbusskoyringini hjá Tórshavnar kommunu.
+# text[eng] = In 2011 14 new busses were bought for the municipal bus service in Tórshavn commune.
+# labels = to_check
+1	Í	_	_	_	_	_	_	_	_
+2	2011	_	_	_	_	_	_	_	_
+3	vóru	_	_	_	_	_	_	_	_
+4	14	_	_	_	_	_	_	_	_
+5	nýggir	_	_	_	_	_	_	_	_
+6	bussar	_	_	_	_	_	_	_	_
+7	keyptir	_	_	_	_	_	_	_	_
+8	til	_	_	_	_	_	_	_	_
+9	býbusskoyringini	_	_	_	_	_	_	_	_
+10	hjá	_	_	_	_	_	_	_	_
+11	Tórshavnar	_	_	_	_	_	_	_	_
+12	kommunu	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:824:16765
+# text = Menn eru ymiskir á máli um tíðarfestingina, um tað var fyri ella eftir pínsludeyða Pæturs og Paulusar.
+# text[eng] =
+# labels = to_check
+1	Menn	_	_	_	_	_	_	_	_
+2	eru	_	_	_	_	_	_	_	_
+3	ymiskir	_	_	_	_	_	_	_	_
+4	á	_	_	_	_	_	_	_	_
+5	máli	_	_	_	_	_	_	_	_
+6	um	_	_	_	_	_	_	_	_
+7	tíðarfestingina	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	um	_	_	_	_	_	_	_	_
+10	tað	_	_	_	_	_	_	_	_
+11	var	_	_	_	_	_	_	_	_
+12	fyri	_	_	_	_	_	_	_	_
+13	ella	_	_	_	_	_	_	_	_
+14	eftir	_	_	_	_	_	_	_	_
+15	pínsludeyða	_	_	_	_	_	_	_	_
+16	Pæturs	_	_	_	_	_	_	_	_
+17	og	_	_	_	_	_	_	_	_
+18	Paulusar	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:635:12909
+# text = Richmond: Richmond er høvuðsstaður amerikanska lutastatinum Virginia.
+# text[eng] =
+# labels = to_check
+1	Richmond	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Richmond	_	_	_	_	_	_	_	_
+4	er	_	_	_	_	_	_	_	_
+5	høvuðsstaður	_	_	_	_	_	_	_	_
+6	amerikanska	_	_	_	_	_	_	_	_
+7	lutastatinum	_	_	_	_	_	_	_	_
+8	Virginia	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:266:5333
+# text = Restin liggur í Asia.
+# text[eng] = The rest lies in Asia.
+# labels = to_check
+1	Restin	_	_	_	_	_	_	_	_
+2	liggur	_	_	_	_	_	_	_	_
+3	í	_	_	_	_	_	_	_	_
+4	Asia	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:39:845
+# text = Hetta er nesið, sum býtir sjálva havnina sundur.
+# text[eng] = This is the cape that splits the harbour.
+# labels = to_check disam
+1	Hetta	_	_	_	_	_	_	_	_
+2	er	_	_	_	_	_	_	_	_
+3	nesið	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	sum	_	_	_	_	_	_	_	_
+6	býtir	_	_	_	_	_	_	_	_
+7	sjálva	_	_	_	_	_	_	_	_
+8	havnina	_	_	_	_	_	_	_	_
+9	sundur	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:1090:22195
+# text = Býurin liggur í landslutinum Lappland.
+# text[eng] = The town is in the province of Lappland.
+# labels = to_check
+1	Býurin	_	_	_	_	_	_	_	_
+2	liggur	_	_	_	_	_	_	_	_
+3	í	_	_	_	_	_	_	_	_
+4	landslutinum	_	_	_	_	_	_	_	_
+5	Lappland	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:1007:20573
+# text = Bara Dracula veit, at eitt menniskja er á hotellinum.
+# text[eng] = Only Dracula knows, that a man is in the hotel.
+# labels = to_check
+1	Bara	_	_	_	_	_	_	_	_
+2	Dracula	_	_	_	_	_	_	_	_
+3	veit	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	at	_	_	_	_	_	_	_	_
+6	eitt	_	_	_	_	_	_	_	_
+7	menniskja	_	_	_	_	_	_	_	_
+8	er	_	_	_	_	_	_	_	_
+9	á	_	_	_	_	_	_	_	_
+10	hotellinum	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:423:8563
+# text = Ein spæta (heilagi fuglurin hjá Marsi) hjálpti úlvinum at geva børnunum at eta.
+# text[eng] =
+# labels = to_check
+1	Ein	_	_	_	_	_	_	_	_
+2	spæta	_	_	_	_	_	_	_	_
+3	(	_	_	_	_	_	_	_	_
+4	heilagi	_	_	_	_	_	_	_	_
+5	fuglurin	_	_	_	_	_	_	_	_
+6	hjá	_	_	_	_	_	_	_	_
+7	Marsi	_	_	_	_	_	_	_	_
+8	)	_	_	_	_	_	_	_	_
+9	hjálpti	_	_	_	_	_	_	_	_
+10	úlvinum	_	_	_	_	_	_	_	_
+11	at	_	_	_	_	_	_	_	_
+12	geva	_	_	_	_	_	_	_	_
+13	børnunum	_	_	_	_	_	_	_	_
+14	at	_	_	_	_	_	_	_	_
+15	eta	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:849:17317
+# text = Um summarið, tá ið ísurin tánar á vøtnum og í áum, fer elgurin úti at eta vatnplantur.
+# text[eng] = In the summer, when the ice covers the lakes and the rivers, the elk go out to eat water plants.
+# labels = to_check
+1	Um	_	_	_	_	_	_	_	_
+2	summarið	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	tá	_	_	_	_	_	_	_	_
+5	ið	_	_	_	_	_	_	_	_
+6	ísurin	_	_	_	_	_	_	_	_
+7	tánar	_	_	_	_	_	_	_	_
+8	á	_	_	_	_	_	_	_	_
+9	vøtnum	_	_	_	_	_	_	_	_
+10	og	_	_	_	_	_	_	_	_
+11	í	_	_	_	_	_	_	_	_
+12	áum	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	fer	_	_	_	_	_	_	_	_
+15	elgurin	_	_	_	_	_	_	_	_
+16	úti	_	_	_	_	_	_	_	_
+17	at	_	_	_	_	_	_	_	_
+18	eta	_	_	_	_	_	_	_	_
+19	vatnplantur	_	_	_	_	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:108:2185
+# text = Mann er eitt sjálvstøðugt ríki í kongsfelagsskapi við Ongland.
+# text[eng] = The Isle of Mann is an independent kingdom in union with England.
+# labels = to_check
+1	Mann	_	_	_	_	_	_	_	_
+2	er	_	_	_	_	_	_	_	_
+3	eitt	_	_	_	_	_	_	_	_
+4	sjálvstøðugt	_	_	_	_	_	_	_	_
+5	ríki	_	_	_	_	_	_	_	_
+6	í	_	_	_	_	_	_	_	_
+7	kongsfelagsskapi	_	_	_	_	_	_	_	_
+8	við	_	_	_	_	_	_	_	_
+9	Ongland	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:1024:20929
+# text = Virðislønin er á 10 milliónir svenskar krónur.
+# text[eng] =
+# labels = to_check
+1	Virðislønin	_	_	_	_	_	_	_	_
+2	er	_	_	_	_	_	_	_	_
+3	á	_	_	_	_	_	_	_	_
+4	10	_	_	_	_	_	_	_	_
+5	milliónir	_	_	_	_	_	_	_	_
+6	svenskar	_	_	_	_	_	_	_	_
+7	krónur	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:291:5819
+# text = Landið var fram við Kyrrahavi.
+# text[eng] =
+# labels = to_check
+1	Landið	_	_	_	_	_	_	_	_
+2	var	_	_	_	_	_	_	_	_
+3	fram	_	_	_	_	_	_	_	_
+4	við	_	_	_	_	_	_	_	_
+5	Kyrrahavi	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:113:2303
+# text = Býurin er eisini høvuðsstaður, har býr drotningin, og har eru Fólkatingið og stjórnin.
+# text[eng] = The city is also the capital, the queen lives here, and the parliament and government are here.
+# labels = to_check
+1	Býurin	_	_	_	_	_	_	_	_
+2	er	_	_	_	_	_	_	_	_
+3	eisini	_	_	_	_	_	_	_	_
+4	høvuðsstaður	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	har	_	_	_	_	_	_	_	_
+7	býr	_	_	_	_	_	_	_	_
+8	drotningin	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	og	_	_	_	_	_	_	_	_
+11	har	_	_	_	_	_	_	_	_
+12	eru	_	_	_	_	_	_	_	_
+13	Fólkatingið	_	_	_	_	_	_	_	_
+14	og	_	_	_	_	_	_	_	_
+15	stjórnin	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:245:4907
+# text = Við í leikinum eru bara kongurin og annar rókurin.
+# text[eng] =
+# labels = to_check
+1	Við	_	_	_	_	_	_	_	_
+2	í	_	_	_	_	_	_	_	_
+3	leikinum	_	_	_	_	_	_	_	_
+4	eru	_	_	_	_	_	_	_	_
+5	bara	_	_	_	_	_	_	_	_
+6	kongurin	_	_	_	_	_	_	_	_
+7	og	_	_	_	_	_	_	_	_
+8	annar	_	_	_	_	_	_	_	_
+9	rókurin	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:1058:21529
+# text = Laksur hevur stóran vinnuligan týdning.
+# text[eng] =
+# labels = to_check
+1	Laksur	_	_	_	_	_	_	_	_
+2	hevur	_	_	_	_	_	_	_	_
+3	stóran	_	_	_	_	_	_	_	_
+4	vinnuligan	_	_	_	_	_	_	_	_
+5	týdning	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:6:105
+# text = Í frískúlum/privatskúlum fæst frálæra, á sama hátt sum í fólkaskúlanum.
+# text[eng] = In free/private schools education is available, similar to in public schools.
+# labels = to_check
+1	Í	_	_	_	_	_	_	_	_
+2	frískúlum	_	_	_	_	_	_	_	_
+3	/	_	_	_	_	_	_	_	_
+4	privatskúlum	_	_	_	_	_	_	_	_
+5	fæst	_	_	_	_	_	_	_	_
+6	frálæra	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	á	_	_	_	_	_	_	_	_
+9	sama	_	_	_	_	_	_	_	_
+10	hátt	_	_	_	_	_	_	_	_
+11	sum	_	_	_	_	_	_	_	_
+12	í	_	_	_	_	_	_	_	_
+13	fólkaskúlanum	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:710:14475
+# text = Sameindu Tjóðir.
+# text[eng] = United Nations.
+# labels = to_check
+1	Sameindu	_	_	_	_	_	_	_	_
+2	Tjóðir	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:655:13319
+# text = Konservatisman kom at viga upp ímóti frælsishugsjónunum í fronsku kollveltingini.
+# text[eng] = Conservativism came to weigh up against liberalism in the French revolution.
+# labels = to_check
+1	Konservatisman	_	_	_	_	_	_	_	_
+2	kom	_	_	_	_	_	_	_	_
+3	at	_	_	_	_	_	_	_	_
+4	viga	_	_	_	_	_	_	_	_
+5	upp	_	_	_	_	_	_	_	_
+6	ímóti	_	_	_	_	_	_	_	_
+7	frælsishugsjónunum	_	_	_	_	_	_	_	_
+8	í	_	_	_	_	_	_	_	_
+9	fronsku	_	_	_	_	_	_	_	_
+10	kollveltingini	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:590:11937
+# text = Pál var einasti norðurlendingurin, sum svam í finaluni, sum varð 11. august.
+# text[eng] = Pál was the only Scandinavian who swam in the final that took place on the 11th August.
+# labels = to_check
+1	Pál	_	_	_	_	_	_	_	_
+2	var	_	_	_	_	_	_	_	_
+3	einasti	_	_	_	_	_	_	_	_
+4	norðurlendingurin	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	sum	_	_	_	_	_	_	_	_
+7	svam	_	_	_	_	_	_	_	_
+8	í	_	_	_	_	_	_	_	_
+9	finaluni	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	sum	_	_	_	_	_	_	_	_
+12	varð	_	_	_	_	_	_	_	_
+13	11.	_	_	_	_	_	_	_	_
+14	august	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:780:15785
+# text = Mangir doyðu av ræðuligu arbeiðsumstøðunum, vánaliga kostinum og ringu bústaðarviðurskiftunum.
+# text[eng] = Many died from terrible working conditions, poor diet and bad housing conditions.
+# labels = to_check
+1	Mangir	_	_	_	_	_	_	_	_
+2	doyðu	_	_	_	_	_	_	_	_
+3	av	_	_	_	_	_	_	_	_
+4	ræðuligu	_	_	_	_	_	_	_	_
+5	arbeiðsumstøðunum	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	vánaliga	_	_	_	_	_	_	_	_
+8	kostinum	_	_	_	_	_	_	_	_
+9	og	_	_	_	_	_	_	_	_
+10	ringu	_	_	_	_	_	_	_	_
+11	bústaðarviðurskiftunum	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:540:10957
+# text = Eftir hetta búsetti hon seg í Edinburgh.
+# text[eng] = After that she settled in Edinburgh.
+# labels = to_check
+1	Eftir	_	_	_	_	_	_	_	_
+2	hetta	_	_	_	_	_	_	_	_
+3	búsetti	_	_	_	_	_	_	_	_
+4	hon	_	_	_	_	_	_	_	_
+5	seg	_	_	_	_	_	_	_	_
+6	í	_	_	_	_	_	_	_	_
+7	Edinburgh	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:1204:24709
+# text = Franska fótbóltslandsliðið: Franska fótbóltslandsliðið er fótbóltslandslið Fraklands.
+# text[eng] = French football team: The French football team is the football team of France.
+# labels = checked
+1	Franska	_	_	_	_	_	_	_	_
+2	fótbóltslandsliðið	_	_	_	_	_	_	_	_
+3	:	_	_	_	_	_	_	_	_
+4	Franska	_	_	_	_	_	_	_	_
+5	fótbóltslandsliðið	_	_	_	_	_	_	_	_
+6	er	_	_	_	_	_	_	_	_
+7	fótbóltslandslið	_	_	_	_	_	_	_	_
+8	Fraklands	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:656:13345
+# text = Konservatisma er í stóran mun grundað á liberalismu.
+# text[eng] = Conservatism is in large part grounded in liberalism.
+# labels = to_check
+1	Konservatisma	_	_	_	_	_	_	_	_
+2	er	_	_	_	_	_	_	_	_
+3	í	_	_	_	_	_	_	_	_
+4	stóran	_	_	_	_	_	_	_	_
+5	mun	_	_	_	_	_	_	_	_
+6	grundað	_	_	_	_	_	_	_	_
+7	á	_	_	_	_	_	_	_	_
+8	liberalismu	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:494:10001
+# text = Endamálið var at seta á stovn kommunistiskt stýri í landinum.
+# text[eng] = The objective was to establish communist government in the country.
+# labels = to_check
+1	Endamálið	_	_	_	_	_	_	_	_
+2	var	_	_	_	_	_	_	_	_
+3	at	_	_	_	_	_	_	_	_
+4	seta	_	_	_	_	_	_	_	_
+5	á	_	_	_	_	_	_	_	_
+6	stovn	_	_	_	_	_	_	_	_
+7	kommunistiskt	_	_	_	_	_	_	_	_
+8	stýri	_	_	_	_	_	_	_	_
+9	í	_	_	_	_	_	_	_	_
+10	landinum	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:137:2773
+# text = Torkil er eisini telvari.
+# text[eng] = Torkil was also a chessplayer.
+# labels = to_check
+1	Torkil	_	_	_	_	_	_	_	_
+2	er	_	_	_	_	_	_	_	_
+3	eisini	_	_	_	_	_	_	_	_
+4	telvari	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:322:6399
+# text = Italia er kent fyri sína list og mentan.
+# text[eng] = Italy is known for its art and culture.
+# labels = to_check
+1	Italia	_	_	_	_	_	_	_	_
+2	er	_	_	_	_	_	_	_	_
+3	kent	_	_	_	_	_	_	_	_
+4	fyri	_	_	_	_	_	_	_	_
+5	sína	_	_	_	_	_	_	_	_
+6	list	_	_	_	_	_	_	_	_
+7	og	_	_	_	_	_	_	_	_
+8	mentan	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:495:10027
+# text = Fiskamjøl úr ansjósum er stór útflutningsvøra hjá Peru.
+# text[eng] =
+# labels = to_check
+1	Fiskamjøl	_	_	_	_	_	_	_	_
+2	úr	_	_	_	_	_	_	_	_
+3	ansjósum	_	_	_	_	_	_	_	_
+4	er	_	_	_	_	_	_	_	_
+5	stór	_	_	_	_	_	_	_	_
+6	útflutningsvøra	_	_	_	_	_	_	_	_
+7	hjá	_	_	_	_	_	_	_	_
+8	Peru	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:143:2901
+# text = Sí eisini.
+# text[eng] =
+# labels = to_check
+1	Sí	_	_	_	_	_	_	_	_
+2	eisini	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:298:5945
+# text = Ein onnur framtíðarhugsjón er ES sum politiskt samveldi.
+# text[eng] = Another future idea is the EU as a political union.
+# labels = to_check
+1	Ein	_	_	_	_	_	_	_	_
+2	onnur	_	_	_	_	_	_	_	_
+3	framtíðarhugsjón	_	_	_	_	_	_	_	_
+4	er	_	_	_	_	_	_	_	_
+5	ES	_	_	_	_	_	_	_	_
+6	sum	_	_	_	_	_	_	_	_
+7	politiskt	_	_	_	_	_	_	_	_
+8	samveldi	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:1108:22577
+# text = Foreldur hansara vóru jødar.
+# text[eng] =
+# labels = to_check
+1	Foreldur	_	_	_	_	_	_	_	_
+2	hansara	_	_	_	_	_	_	_	_
+3	vóru	_	_	_	_	_	_	_	_
+4	jødar	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:831:16909
+# text = 18 oyggjar eru í Føroyum.
+# text[eng] = There are 18 islands in the Faroes.
+# labels = to_check
+1	18	_	_	_	_	_	_	_	_
+2	oyggjar	_	_	_	_	_	_	_	_
+3	eru	_	_	_	_	_	_	_	_
+4	í	_	_	_	_	_	_	_	_
+5	Føroyum	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:595:12061
+# text = Í 16. øld royndu tveir sterkir valdsharrar at byggja eitt stórt ríki í Burma.
+# text[eng] = In the 16th century two strong tyrants tried to build a big kingdom in Burma.
+# labels = to_check
+1	Í	_	_	_	_	_	_	_	_
+2	16.	_	_	_	_	_	_	_	_
+3	øld	_	_	_	_	_	_	_	_
+4	royndu	_	_	_	_	_	_	_	_
+5	tveir	_	_	_	_	_	_	_	_
+6	sterkir	_	_	_	_	_	_	_	_
+7	valdsharrar	_	_	_	_	_	_	_	_
+8	at	_	_	_	_	_	_	_	_
+9	byggja	_	_	_	_	_	_	_	_
+10	eitt	_	_	_	_	_	_	_	_
+11	stórt	_	_	_	_	_	_	_	_
+12	ríki	_	_	_	_	_	_	_	_
+13	í	_	_	_	_	_	_	_	_
+14	Burma	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:884:18061
+# text = Í miðøld hevði kirkjan mikið vald í samfelagnum.
+# text[eng] =
+# labels = to_check
+1	Í	_	_	_	_	_	_	_	_
+2	miðøld	_	_	_	_	_	_	_	_
+3	hevði	_	_	_	_	_	_	_	_
+4	kirkjan	_	_	_	_	_	_	_	_
+5	mikið	_	_	_	_	_	_	_	_
+6	vald	_	_	_	_	_	_	_	_
+7	í	_	_	_	_	_	_	_	_
+8	samfelagnum	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:1158:23675
+# text = Eg taki sjálvsagt átaluna til eftirtektar.
+# text[eng] =
+# labels = checked
+1	Eg	_	_	_	_	_	_	_	_
+2	taki	_	_	_	_	_	_	_	_
+3	sjálvsagt	_	_	_	_	_	_	_	_
+4	átaluna	_	_	_	_	_	_	_	_
+5	til	_	_	_	_	_	_	_	_
+6	eftirtektar	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:926:18931
+# text = Heilsumyndugleikarnir royna at fáa fólk at leggja av.
+# text[eng] =
+# labels = to_check
+1	Heilsumyndugleikarnir	_	_	_	_	_	_	_	_
+2	royna	_	_	_	_	_	_	_	_
+3	at	_	_	_	_	_	_	_	_
+4	fáa	_	_	_	_	_	_	_	_
+5	fólk	_	_	_	_	_	_	_	_
+6	at	_	_	_	_	_	_	_	_
+7	leggja	_	_	_	_	_	_	_	_
+8	av	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:1120:22815
+# text = Jondal: Jondal er ein kommuna í Hordalandi í Noregi.
+# text[eng] =
+# labels = to_check
+1	Jondal	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Jondal	_	_	_	_	_	_	_	_
+4	er	_	_	_	_	_	_	_	_
+5	ein	_	_	_	_	_	_	_	_
+6	kommuna	_	_	_	_	_	_	_	_
+7	í	_	_	_	_	_	_	_	_
+8	Hordalandi	_	_	_	_	_	_	_	_
+9	í	_	_	_	_	_	_	_	_
+10	Noregi	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:308:6121
+# text = Í Bíbliuni eru 66 bøkur.
+# text[eng] = There are 66 books in the Bible.
+# labels = to_check
+1	Í	_	_	_	_	_	_	_	_
+2	Bíbliuni	_	_	_	_	_	_	_	_
+3	eru	_	_	_	_	_	_	_	_
+4	66	_	_	_	_	_	_	_	_
+5	bøkur	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:206:4079
+# text = Býlingurin liggur omanfyri og sunnanfyri gomlu bygdina.
+# text[eng] =
+# labels = to_check
+1	Býlingurin	_	_	_	_	_	_	_	_
+2	liggur	_	_	_	_	_	_	_	_
+3	omanfyri	_	_	_	_	_	_	_	_
+4	og	_	_	_	_	_	_	_	_
+5	sunnanfyri	_	_	_	_	_	_	_	_
+6	gomlu	_	_	_	_	_	_	_	_
+7	bygdina	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:73:1505
+# text = Felagsskapurin sigur, at umstøðurnar eru vanlukkuligar í Norðurkorea.
+# text[eng] =
+# labels = to_check
+1	Felagsskapurin	_	_	_	_	_	_	_	_
+2	sigur	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	at	_	_	_	_	_	_	_	_
+5	umstøðurnar	_	_	_	_	_	_	_	_
+6	eru	_	_	_	_	_	_	_	_
+7	vanlukkuligar	_	_	_	_	_	_	_	_
+8	í	_	_	_	_	_	_	_	_
+9	Norðurkorea	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:630:12787
+# text = Wichita: Wichita er størsti býur í Kansas í Sambandsríkinum Amerika.
+# text[eng] =
+# labels = to_check
+1	Wichita	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Wichita	_	_	_	_	_	_	_	_
+4	er	_	_	_	_	_	_	_	_
+5	størsti	_	_	_	_	_	_	_	_
+6	býur	_	_	_	_	_	_	_	_
+7	í	_	_	_	_	_	_	_	_
+8	Kansas	_	_	_	_	_	_	_	_
+9	í	_	_	_	_	_	_	_	_
+10	Sambandsríkinum	_	_	_	_	_	_	_	_
+11	Amerika	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:796:16175
+# text = Jóhan er triðja ættarlið av bátasmiðum á Tvøroyri.
+# text[eng] = Jóhan is the third generation of boat builders in Tvøroyri.
+# labels = to_check
+1	Jóhan	_	_	_	_	_	_	_	_
+2	er	_	_	_	_	_	_	_	_
+3	triðja	_	_	_	_	_	_	_	_
+4	ættarlið	_	_	_	_	_	_	_	_
+5	av	_	_	_	_	_	_	_	_
+6	bátasmiðum	_	_	_	_	_	_	_	_
+7	á	_	_	_	_	_	_	_	_
+8	Tvøroyri	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:305:6065
+# text = Búskaparligu broytingarnar vóru eisini stórar.
+# text[eng] = Economic changes were also big.
+# labels = to_check
+1	Búskaparligu	_	_	_	_	_	_	_	_
+2	broytingarnar	_	_	_	_	_	_	_	_
+3	vóru	_	_	_	_	_	_	_	_
+4	eisini	_	_	_	_	_	_	_	_
+5	stórar	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:777:15733
+# text = Á savninum eru oljumálningar og blýantstekningar eftir Ruth Smith.
+# text[eng] =
+# labels = to_check
+1	Á	_	_	_	_	_	_	_	_
+2	savninum	_	_	_	_	_	_	_	_
+3	eru	_	_	_	_	_	_	_	_
+4	oljumálningar	_	_	_	_	_	_	_	_
+5	og	_	_	_	_	_	_	_	_
+6	blýantstekningar	_	_	_	_	_	_	_	_
+7	eftir	_	_	_	_	_	_	_	_
+8	Ruth	_	_	_	_	_	_	_	_
+9	Smith	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:1102:22455
+# text = Í motorinum er ein snælda, sum situr í einum sigulsøki.
+# text[eng] =
+# labels = to_check
+1	Í	_	_	_	_	_	_	_	_
+2	motorinum	_	_	_	_	_	_	_	_
+3	er	_	_	_	_	_	_	_	_
+4	ein	_	_	_	_	_	_	_	_
+5	snælda	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	sum	_	_	_	_	_	_	_	_
+8	situr	_	_	_	_	_	_	_	_
+9	í	_	_	_	_	_	_	_	_
+10	einum	_	_	_	_	_	_	_	_
+11	sigulsøki	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:265:5319
+# text = Tjóðardagur er 29. oktober.
+# text[eng] =
+# labels = to_check
+1	Tjóðardagur	_	_	_	_	_	_	_	_
+2	er	_	_	_	_	_	_	_	_
+3	29.	_	_	_	_	_	_	_	_
+4	oktober	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:509:10319
+# text = Sí eisini.
+# text[eng] = See also.
+# labels = to_check
+1	Sí	_	_	_	_	_	_	_	_
+2	eisini	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:366:7339
+# text = Soleiðis gjørdist bøndurnir sjálvbjargnir við mati.
+# text[eng] =
+# labels = to_check
+1	Soleiðis	_	_	_	_	_	_	_	_
+2	gjørdist	_	_	_	_	_	_	_	_
+3	bøndurnir	_	_	_	_	_	_	_	_
+4	sjálvbjargnir	_	_	_	_	_	_	_	_
+5	við	_	_	_	_	_	_	_	_
+6	mati	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:654:13299
+# text = Høvuðspersónurin í teknirøðini er ungi tíðindamaðurin Tintin.
+# text[eng] = The main character in the comic strip is the young reporter Tintin.
+# labels = to_check
+1	Høvuðspersónurin	_	_	_	_	_	_	_	_
+2	í	_	_	_	_	_	_	_	_
+3	teknirøðini	_	_	_	_	_	_	_	_
+4	er	_	_	_	_	_	_	_	_
+5	ungi	_	_	_	_	_	_	_	_
+6	tíðindamaðurin	_	_	_	_	_	_	_	_
+7	Tintin	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:567:11513
+# text = Flestu býir eru smáir.
+# text[eng] = Most towns are small.
+# labels = to_check
+1	Flestu	_	_	_	_	_	_	_	_
+2	býir	_	_	_	_	_	_	_	_
+3	eru	_	_	_	_	_	_	_	_
+4	smáir	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:27:591
+# text = Allar plantur og øll dýr í sama øki eru eitt samfelag.
+# text[eng] = All plants and all animals in the same place are a society.
+# labels = to_check
+1	Allar	_	_	_	_	_	_	_	_
+2	plantur	_	_	_	_	_	_	_	_
+3	og	_	_	_	_	_	_	_	_
+4	øll	_	_	_	_	_	_	_	_
+5	dýr	_	_	_	_	_	_	_	_
+6	í	_	_	_	_	_	_	_	_
+7	sama	_	_	_	_	_	_	_	_
+8	øki	_	_	_	_	_	_	_	_
+9	eru	_	_	_	_	_	_	_	_
+10	eitt	_	_	_	_	_	_	_	_
+11	samfelag	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:522:10569
+# text = Springfield er høvuðsstaðurin, og størsti býurin er Chicago.
+# text[eng] = Springfield is the capital and the biggest city is Chicago.
+# labels = to_check
+1	Springfield	_	_	_	_	_	_	_	_
+2	er	_	_	_	_	_	_	_	_
+3	høvuðsstaðurin	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	og	_	_	_	_	_	_	_	_
+6	størsti	_	_	_	_	_	_	_	_
+7	býurin	_	_	_	_	_	_	_	_
+8	er	_	_	_	_	_	_	_	_
+9	Chicago	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:410:8289
+# text = Einskildur ognarrættur, lágur skattur og ein veikur statur eru umráðandi í kapitalistiskum samfeløgum.
+# text[eng] = Rights to private property, low taxes and a weak state are important in a capitalist society.
+# labels = to_check
+1	Einskildur	_	_	_	_	_	_	_	_
+2	ognarrættur	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	lágur	_	_	_	_	_	_	_	_
+5	skattur	_	_	_	_	_	_	_	_
+6	og	_	_	_	_	_	_	_	_
+7	ein	_	_	_	_	_	_	_	_
+8	veikur	_	_	_	_	_	_	_	_
+9	statur	_	_	_	_	_	_	_	_
+10	eru	_	_	_	_	_	_	_	_
+11	umráðandi	_	_	_	_	_	_	_	_
+12	í	_	_	_	_	_	_	_	_
+13	kapitalistiskum	_	_	_	_	_	_	_	_
+14	samfeløgum	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:982:20053
+# text = Í symfoniorkestri eru vanliga 90 tónleikarar.
+# text[eng] =
+# labels = to_check
+1	Í	_	_	_	_	_	_	_	_
+2	symfoniorkestri	_	_	_	_	_	_	_	_
+3	eru	_	_	_	_	_	_	_	_
+4	vanliga	_	_	_	_	_	_	_	_
+5	90	_	_	_	_	_	_	_	_
+6	tónleikarar	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:1030:21045
+# text = Virðislønin er á 350 000 krónur.
+# text[eng] =
+# labels = to_check
+1	Virðislønin	_	_	_	_	_	_	_	_
+2	er	_	_	_	_	_	_	_	_
+3	á	_	_	_	_	_	_	_	_
+4	350	_	_	_	_	_	_	_	_
+5	000	_	_	_	_	_	_	_	_
+6	krónur	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:1124:22925
+# text = Tokelau: Tokelau er ein lítil oyggj í Kyrrahavi, sum hoyrir til Nýsæland.
+# text[eng] =
+# labels = to_check
+1	Tokelau	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Tokelau	_	_	_	_	_	_	_	_
+4	er	_	_	_	_	_	_	_	_
+5	ein	_	_	_	_	_	_	_	_
+6	lítil	_	_	_	_	_	_	_	_
+7	oyggj	_	_	_	_	_	_	_	_
+8	í	_	_	_	_	_	_	_	_
+9	Kyrrahavi	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	sum	_	_	_	_	_	_	_	_
+12	hoyrir	_	_	_	_	_	_	_	_
+13	til	_	_	_	_	_	_	_	_
+14	Nýsæland	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:881:18003
+# text = Men enn er ikki friður.
+# text[eng] =
+# labels = to_check
+1	Men	_	_	_	_	_	_	_	_
+2	enn	_	_	_	_	_	_	_	_
+3	er	_	_	_	_	_	_	_	_
+4	ikki	_	_	_	_	_	_	_	_
+5	friður	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:537:10901
+# text = Grundarlagið undir búskapinum er ferðavinna.
+# text[eng] = The economy is based on tourism.
+# labels = to_check
+1	Grundarlagið	_	_	_	_	_	_	_	_
+2	undir	_	_	_	_	_	_	_	_
+3	búskapinum	_	_	_	_	_	_	_	_
+4	er	_	_	_	_	_	_	_	_
+5	ferðavinna	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:457:9199
+# text = Utah: Utah er ein lutstatur í USA við 2,7 mió íbúgvar.
+# text[eng] = Utah: Utah is a state in the USA with 2.7 million inhabitants.
+# labels = to_check
+1	Utah	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Utah	_	_	_	_	_	_	_	_
+4	er	_	_	_	_	_	_	_	_
+5	ein	_	_	_	_	_	_	_	_
+6	lutstatur	_	_	_	_	_	_	_	_
+7	í	_	_	_	_	_	_	_	_
+8	USA	_	_	_	_	_	_	_	_
+9	við	_	_	_	_	_	_	_	_
+10	2,7	_	_	_	_	_	_	_	_
+11	mió	_	_	_	_	_	_	_	_
+12	íbúgvar	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:13:273
+# text = Føroyar og Grønland eru sjálvstýrandi lond í danska kongaríkinum.
+# text[eng] = The Faroe Islands and Greenland are autonomous countries in the Danish kingdom.
+# labels = to_check
+1	Føroyar	_	_	_	_	_	_	_	_
+2	og	_	_	_	_	_	_	_	_
+3	Grønland	_	_	_	_	_	_	_	_
+4	eru	_	_	_	_	_	_	_	_
+5	sjálvstýrandi	_	_	_	_	_	_	_	_
+6	lond	_	_	_	_	_	_	_	_
+7	í	_	_	_	_	_	_	_	_
+8	danska	_	_	_	_	_	_	_	_
+9	kongaríkinum	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:125:2563
+# text = -At stovnseta føroyskan háskúla.
+# text[eng] =
+# labels = to_check
+1	-	_	_	_	_	_	_	_	_
+2	At	_	_	_	_	_	_	_	_
+3	stovnseta	_	_	_	_	_	_	_	_
+4	føroyskan	_	_	_	_	_	_	_	_
+5	háskúla	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:130:2641
+# text = Dansitíðin er frá 2. jóladegi til føstuinngang.
+# text[eng] = Dancing time is from the 2nd day of Christmas until Shrovetide.
+# labels = to_check
+1	Dansitíðin	_	_	_	_	_	_	_	_
+2	er	_	_	_	_	_	_	_	_
+3	frá	_	_	_	_	_	_	_	_
+4	2.	_	_	_	_	_	_	_	_
+5	jóladegi	_	_	_	_	_	_	_	_
+6	til	_	_	_	_	_	_	_	_
+7	føstuinngang	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:392:7895
+# text = Hann er vakur býur við prýðiligum bygningum og vakstrargørðum.
+# text[eng] =
+# labels = to_check
+1	Hann	_	_	_	_	_	_	_	_
+2	er	_	_	_	_	_	_	_	_
+3	vakur	_	_	_	_	_	_	_	_
+4	býur	_	_	_	_	_	_	_	_
+5	við	_	_	_	_	_	_	_	_
+6	prýðiligum	_	_	_	_	_	_	_	_
+7	bygningum	_	_	_	_	_	_	_	_
+8	og	_	_	_	_	_	_	_	_
+9	vakstrargørðum	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:157:3163
+# text = Umsitingin hjá kommununi liggur í býnum Umeå.
+# text[eng] =
+# labels = to_check
+1	Umsitingin	_	_	_	_	_	_	_	_
+2	hjá	_	_	_	_	_	_	_	_
+3	kommununi	_	_	_	_	_	_	_	_
+4	liggur	_	_	_	_	_	_	_	_
+5	í	_	_	_	_	_	_	_	_
+6	býnum	_	_	_	_	_	_	_	_
+7	Umeå	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:645:13133
+# text = Lutherska kirkjan í Nigeria er í stórum vøkstri.
+# text[eng] = The Lutheran Church in Nigeria is growing strongly.
+# labels = to_check
+1	Lutherska	_	_	_	_	_	_	_	_
+2	kirkjan	_	_	_	_	_	_	_	_
+3	í	_	_	_	_	_	_	_	_
+4	Nigeria	_	_	_	_	_	_	_	_
+5	er	_	_	_	_	_	_	_	_
+6	í	_	_	_	_	_	_	_	_
+7	stórum	_	_	_	_	_	_	_	_
+8	vøkstri	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:614:12437
+# text = Eisini aðrir felagsskapir hjálpa menningarlondunum.
+# text[eng] = Other associations also help developing countries.
+# labels = to_check
+1	Eisini	_	_	_	_	_	_	_	_
+2	aðrir	_	_	_	_	_	_	_	_
+3	felagsskapir	_	_	_	_	_	_	_	_
+4	hjálpa	_	_	_	_	_	_	_	_
+5	menningarlondunum	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:623:12619
+# text = Winnipeg: Winnipeg er ein býur í Kanada.
+# text[eng] =
+# labels = to_check
+1	Winnipeg	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Winnipeg	_	_	_	_	_	_	_	_
+4	er	_	_	_	_	_	_	_	_
+5	ein	_	_	_	_	_	_	_	_
+6	býur	_	_	_	_	_	_	_	_
+7	í	_	_	_	_	_	_	_	_
+8	Kanada	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:254:5091
+# text = Høvuðsstaður er Kathmandu.
+# text[eng] =
+# labels = to_check
+1	Høvuðsstaður	_	_	_	_	_	_	_	_
+2	er	_	_	_	_	_	_	_	_
+3	Kathmandu	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:520:10515
+# text = Býurin er ein týdningarmikil handils og ídnaðarbýur og fleiri jarnbreytir og høvuðsvegir møtast har.
+# text[eng] =
+# labels = to_check
+1	Býurin	_	_	_	_	_	_	_	_
+2	er	_	_	_	_	_	_	_	_
+3	ein	_	_	_	_	_	_	_	_
+4	týdningarmikil	_	_	_	_	_	_	_	_
+5	handils	_	_	_	_	_	_	_	_
+6	og	_	_	_	_	_	_	_	_
+7	ídnaðarbýur	_	_	_	_	_	_	_	_
+8	og	_	_	_	_	_	_	_	_
+9	fleiri	_	_	_	_	_	_	_	_
+10	jarnbreytir	_	_	_	_	_	_	_	_
+11	og	_	_	_	_	_	_	_	_
+12	høvuðsvegir	_	_	_	_	_	_	_	_
+13	møtast	_	_	_	_	_	_	_	_
+14	har	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:1115:22699
+# text = Summi orkuverk eru í høgum fjallalendi.
+# text[eng] =
+# labels = to_check
+1	Summi	_	_	_	_	_	_	_	_
+2	orkuverk	_	_	_	_	_	_	_	_
+3	eru	_	_	_	_	_	_	_	_
+4	í	_	_	_	_	_	_	_	_
+5	høgum	_	_	_	_	_	_	_	_
+6	fjallalendi	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:258:5169
+# text = Landbúnaður og fiskivinna vóru grundarlagið undir spanska búskapinum.
+# text[eng] =
+# labels = to_check
+1	Landbúnaður	_	_	_	_	_	_	_	_
+2	og	_	_	_	_	_	_	_	_
+3	fiskivinna	_	_	_	_	_	_	_	_
+4	vóru	_	_	_	_	_	_	_	_
+5	grundarlagið	_	_	_	_	_	_	_	_
+6	undir	_	_	_	_	_	_	_	_
+7	spanska	_	_	_	_	_	_	_	_
+8	búskapinum	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:788:15985
+# text = Guantánamo: Guantánamo er fangalegur á Kuba.
+# text[eng] = Guantánamo: Guantánamo is a prison in Cuba.
+# labels = to_check
+1	Guantánamo	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Guantánamo	_	_	_	_	_	_	_	_
+4	er	_	_	_	_	_	_	_	_
+5	fangalegur	_	_	_	_	_	_	_	_
+6	á	_	_	_	_	_	_	_	_
+7	Kuba	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:1165:23799
+# text = Hon er størsta oyggin í Kodiak-bólkinum í Alaska.
+# text[eng] =
+# labels = to_check
+1	Hon	_	_	_	_	_	_	_	_
+2	er	_	_	_	_	_	_	_	_
+3	størsta	_	_	_	_	_	_	_	_
+4	oyggin	_	_	_	_	_	_	_	_
+5	í	_	_	_	_	_	_	_	_
+6	Kodiak	_	_	_	_	_	_	_	_
+7	-	_	_	_	_	_	_	_	_
+8	bólkinum	_	_	_	_	_	_	_	_
+9	í	_	_	_	_	_	_	_	_
+10	Alaska	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:852:17397
+# text = Øll sløgini eru í USA.
+# text[eng] = There are all kinds in the USA.
+# labels = to_check
+1	Øll	_	_	_	_	_	_	_	_
+2	sløgini	_	_	_	_	_	_	_	_
+3	eru	_	_	_	_	_	_	_	_
+4	í	_	_	_	_	_	_	_	_
+5	USA	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:543:11013
+# text = Hon er filmsleikari.
+# text[eng] = She was an actress.
+# labels = to_check
+1	Hon	_	_	_	_	_	_	_	_
+2	er	_	_	_	_	_	_	_	_
+3	filmsleikari	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:506:10247
+# text = — Í Føroyum sæst hon sjaldan; minst tvær ferðir er hon tó skotin.
+# text[eng] = In the Faroe Islands she is seldom seen; at least two times she is _.
+# labels = to_check
+1	—	_	_	_	_	_	_	_	_
+2	Í	_	_	_	_	_	_	_	_
+3	Føroyum	_	_	_	_	_	_	_	_
+4	sæst	_	_	_	_	_	_	_	_
+5	hon	_	_	_	_	_	_	_	_
+6	sjaldan	_	_	_	_	_	_	_	_
+7	;	_	_	_	_	_	_	_	_
+8	minst	_	_	_	_	_	_	_	_
+9	tvær	_	_	_	_	_	_	_	_
+10	ferðir	_	_	_	_	_	_	_	_
+11	er	_	_	_	_	_	_	_	_
+12	hon	_	_	_	_	_	_	_	_
+13	tó	_	_	_	_	_	_	_	_
+14	skotin	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:351:7031
+# text = Mitt í Moskva er Kreml, russiska tinginum.
+# text[eng] = In the middle of Moscow is the Kremlin, Russia's parliament.
+# labels = to_check
+1	Mitt	_	_	_	_	_	_	_	_
+2	í	_	_	_	_	_	_	_	_
+3	Moskva	_	_	_	_	_	_	_	_
+4	er	_	_	_	_	_	_	_	_
+5	Kreml	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	russiska	_	_	_	_	_	_	_	_
+8	tinginum	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:661:13457
+# text = Loðsurin er Bismarck.
+# text[eng] = The pilot is Bismarck.
+# labels = to_check
+1	Loðsurin	_	_	_	_	_	_	_	_
+2	er	_	_	_	_	_	_	_	_
+3	Bismarck	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:1149:23461
+# text = Changsha: Changsha er ein býur í Kina og høvuðsstaður í Hunan landslutinum.
+# text[eng] =
+# labels = to_check
+1	Changsha	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Changsha	_	_	_	_	_	_	_	_
+4	er	_	_	_	_	_	_	_	_
+5	ein	_	_	_	_	_	_	_	_
+6	býur	_	_	_	_	_	_	_	_
+7	í	_	_	_	_	_	_	_	_
+8	Kina	_	_	_	_	_	_	_	_
+9	og	_	_	_	_	_	_	_	_
+10	høvuðsstaður	_	_	_	_	_	_	_	_
+11	í	_	_	_	_	_	_	_	_
+12	Hunan	_	_	_	_	_	_	_	_
+13	landslutinum	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:397:8005
+# text = Flestu skriðdýr eru í hitalondum.
+# text[eng] = Most reptiles are in the tropics.
+# labels = to_check
+1	Flestu	_	_	_	_	_	_	_	_
+2	skriðdýr	_	_	_	_	_	_	_	_
+3	eru	_	_	_	_	_	_	_	_
+4	í	_	_	_	_	_	_	_	_
+5	hitalondum	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:138:2787
+# text = Báturin er hvítur og hevur bláar listar.
+# text[eng] =
+# labels = to_check
+1	Báturin	_	_	_	_	_	_	_	_
+2	er	_	_	_	_	_	_	_	_
+3	hvítur	_	_	_	_	_	_	_	_
+4	og	_	_	_	_	_	_	_	_
+5	hevur	_	_	_	_	_	_	_	_
+6	bláar	_	_	_	_	_	_	_	_
+7	listar	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:36:777
+# text = Slovakia: Slovakia er eitt lýðveldi í Miðevropa.
+# text[eng] = Slovakia: Slovakia is a republic in Central Europe.
+# labels = to_check
+1	Slovakia	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Slovakia	_	_	_	_	_	_	_	_
+4	er	_	_	_	_	_	_	_	_
+5	eitt	_	_	_	_	_	_	_	_
+6	lýðveldi	_	_	_	_	_	_	_	_
+7	í	_	_	_	_	_	_	_	_
+8	Miðevropa	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:43:925
+# text = Limirnir í føstu nevndunum skulu vera býráðslimir.
+# text[eng] = The members in the permanent board should be town councillors
+# labels = to_check
+1	Limirnir	_	_	_	_	_	_	_	_
+2	í	_	_	_	_	_	_	_	_
+3	føstu	_	_	_	_	_	_	_	_
+4	nevndunum	_	_	_	_	_	_	_	_
+5	skulu	_	_	_	_	_	_	_	_
+6	vera	_	_	_	_	_	_	_	_
+7	býráðslimir	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:368:7367
+# text = Fíggingargrunnurin gjørdist tískil størsti eigarin í Sjóvinnubankanum.
+# text[eng] =
+# labels = to_check
+1	Fíggingargrunnurin	_	_	_	_	_	_	_	_
+2	gjørdist	_	_	_	_	_	_	_	_
+3	tískil	_	_	_	_	_	_	_	_
+4	størsti	_	_	_	_	_	_	_	_
+5	eigarin	_	_	_	_	_	_	_	_
+6	í	_	_	_	_	_	_	_	_
+7	Sjóvinnubankanum	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:19:417
+# text = Flogskiparin og 7 ferðafólk doyðu.
+# text[eng] = The plane's captain and 7 tourists died.
+# labels = to_check
+1	Flogskiparin	_	_	_	_	_	_	_	_
+2	og	_	_	_	_	_	_	_	_
+3	7	_	_	_	_	_	_	_	_
+4	ferðafólk	_	_	_	_	_	_	_	_
+5	doyðu	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:346:6925
+# text = Bulgaria: Bulgaria er eitt lýðveldi í Evropa.
+# text[eng] =
+# labels = to_check
+1	Bulgaria	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Bulgaria	_	_	_	_	_	_	_	_
+4	er	_	_	_	_	_	_	_	_
+5	eitt	_	_	_	_	_	_	_	_
+6	lýðveldi	_	_	_	_	_	_	_	_
+7	í	_	_	_	_	_	_	_	_
+8	Evropa	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:1040:21215
+# text = Høvuðsstaðurin er Härnösand.
+# text[eng] =
+# labels = to_check
+1	Høvuðsstaðurin	_	_	_	_	_	_	_	_
+2	er	_	_	_	_	_	_	_	_
+3	Härnösand	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:995:20339
+# text = Føroyar er limur í NEAFC.
+# text[eng] = The Faroe Islands are a member of the NEAFC.
+# labels = to_check
+1	Føroyar	_	_	_	_	_	_	_	_
+2	er	_	_	_	_	_	_	_	_
+3	limur	_	_	_	_	_	_	_	_
+4	í	_	_	_	_	_	_	_	_
+5	NEAFC	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:911:18611
+# text = Tað eru tveir lærdir háskúlar í Thessaloniki.
+# text[eng] =
+# labels = to_check
+1	Tað	_	_	_	_	_	_	_	_
+2	eru	_	_	_	_	_	_	_	_
+3	tveir	_	_	_	_	_	_	_	_
+4	lærdir	_	_	_	_	_	_	_	_
+5	háskúlar	_	_	_	_	_	_	_	_
+6	í	_	_	_	_	_	_	_	_
+7	Thessaloniki	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:591:11971
+# text = Meginparturin av landinum er turr oyðimørk og berligt fjallalendi.
+# text[eng] = The majority of the country is dry desert and bare mountain country.
+# labels = to_check
+1	Meginparturin	_	_	_	_	_	_	_	_
+2	av	_	_	_	_	_	_	_	_
+3	landinum	_	_	_	_	_	_	_	_
+4	er	_	_	_	_	_	_	_	_
+5	turr	_	_	_	_	_	_	_	_
+6	oyðimørk	_	_	_	_	_	_	_	_
+7	og	_	_	_	_	_	_	_	_
+8	berligt	_	_	_	_	_	_	_	_
+9	fjallalendi	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:1160:23709
+# text = Hon varð vald við 396 persónligum atkvøðum.
+# text[eng] = He was elected with 396 personal votes.
+# labels = to_check disam typo
+1	Hon	_	_	_	_	_	_	_	_
+2	varð	_	_	_	_	_	_	_	_
+3	vald	_	_	_	_	_	_	_	_
+4	við	_	_	_	_	_	_	_	_
+5	396	_	_	_	_	_	_	_	_
+6	persónligum	_	_	_	_	_	_	_	_
+7	atkvøðum	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:909:18565
+# text = Landsstýrismaðurin velur formann og næstformann millum limirnar í ráðnum.
+# text[eng] =
+# labels = to_check
+1	Landsstýrismaðurin	_	_	_	_	_	_	_	_
+2	velur	_	_	_	_	_	_	_	_
+3	formann	_	_	_	_	_	_	_	_
+4	og	_	_	_	_	_	_	_	_
+5	næstformann	_	_	_	_	_	_	_	_
+6	millum	_	_	_	_	_	_	_	_
+7	limirnar	_	_	_	_	_	_	_	_
+8	í	_	_	_	_	_	_	_	_
+9	ráðnum	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:830:16889
+# text = Føroyar eru eisini partur í danska kongsríkinum.
+# text[eng] = The Faroe Islands are also part of the Kingdom of Denmark
+# labels = to_check
+1	Føroyar	_	_	_	_	_	_	_	_
+2	eru	_	_	_	_	_	_	_	_
+3	eisini	_	_	_	_	_	_	_	_
+4	partur	_	_	_	_	_	_	_	_
+5	í	_	_	_	_	_	_	_	_
+6	danska	_	_	_	_	_	_	_	_
+7	kongsríkinum	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:517:10467
+# text = Í Manilla er stórt fjall.
+# text[eng] = There is a big mountain in Manilla.
+# labels = to_check
+1	Í	_	_	_	_	_	_	_	_
+2	Manilla	_	_	_	_	_	_	_	_
+3	er	_	_	_	_	_	_	_	_
+4	stórt	_	_	_	_	_	_	_	_
+5	fjall	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:44:945
+# text = Nú á døgum er stórur búskaparvøkstur í Estlandi.
+# text[eng] = Nowadays there is high economic growth in Estonia.
+# labels = to_check
+1	Nú	_	_	_	_	_	_	_	_
+2	á	_	_	_	_	_	_	_	_
+3	døgum	_	_	_	_	_	_	_	_
+4	er	_	_	_	_	_	_	_	_
+5	stórur	_	_	_	_	_	_	_	_
+6	búskaparvøkstur	_	_	_	_	_	_	_	_
+7	í	_	_	_	_	_	_	_	_
+8	Estlandi	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:553:11213
+# text = Soleiðis sigur amerikanska grundlógin.
+# text[eng] = So says the American constitution.
+# labels = to_check
+1	Soleiðis	_	_	_	_	_	_	_	_
+2	sigur	_	_	_	_	_	_	_	_
+3	amerikanska	_	_	_	_	_	_	_	_
+4	grundlógin	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:905:18495
+# text = Í Ulster eru nýggju sýslur.
+# text[eng] =
+# labels = to_check
+1	Í	_	_	_	_	_	_	_	_
+2	Ulster	_	_	_	_	_	_	_	_
+3	eru	_	_	_	_	_	_	_	_
+4	nýggju	_	_	_	_	_	_	_	_
+5	sýslur	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:491:9953
+# text = Veitin skal kappast við Panama-veitina.
+# text[eng] =
+# labels = to_check
+1	Veitin	_	_	_	_	_	_	_	_
+2	skal	_	_	_	_	_	_	_	_
+3	kappast	_	_	_	_	_	_	_	_
+4	við	_	_	_	_	_	_	_	_
+5	Panama	_	_	_	_	_	_	_	_
+6	-	_	_	_	_	_	_	_	_
+7	veitina	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:686:13991
+# text = Eisini hevur hon sitið í javnstøðunevndini.
+# text[eng] = She has also sat in the equal opportunities commission.
+# labels = to_check
+1	Eisini	_	_	_	_	_	_	_	_
+2	hevur	_	_	_	_	_	_	_	_
+3	hon	_	_	_	_	_	_	_	_
+4	sitið	_	_	_	_	_	_	_	_
+5	í	_	_	_	_	_	_	_	_
+6	javnstøðunevndini	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = wikipedia.vislcg.txt:327:6521
+# text = Fiskiveiðan í Fraklandi er hópin stór.
+# text[eng] =
+# labels = to_check disam
+1	Fiskiveiðan	_	_	_	_	_	_	_	_
+2	í	_	_	_	_	_	_	_	_
+3	Fraklandi	_	_	_	_	_	_	_	_
+4	er	_	_	_	_	_	_	_	_
+5	hópin	_	_	_	_	_	_	_	_
+6	stór	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+

@@ -1,0 +1,4930 @@
+# sent_id = dev-373
+# text = Ennek értelmében bűnüldözési és bűnmegelőzési érdekből a határőrség a határátlépők adatait visszatérésük, illetve távozásuk után legfeljebb 90 napig kezelheti.
+1	Ennek	_	_	_	_	_	_	_	_
+2	értelmében	_	_	_	_	_	_	_	_
+3	bűnüldözési	_	_	_	_	_	_	_	_
+4	és	_	_	_	_	_	_	_	_
+5	bűnmegelőzési	_	_	_	_	_	_	_	_
+6	érdekből	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	határőrség	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	határátlépők	_	_	_	_	_	_	_	_
+11	adatait	_	_	_	_	_	_	_	_
+12	visszatérésük	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	illetve	_	_	_	_	_	_	_	_
+15	távozásuk	_	_	_	_	_	_	_	_
+16	után	_	_	_	_	_	_	_	_
+17	legfeljebb	_	_	_	_	_	_	_	_
+18	90	_	_	_	_	_	_	_	_
+19	napig	_	_	_	_	_	_	_	_
+20	kezelheti	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-522
+# text = A filmvásznakról is jól ismert Orosz Lujza szinte egész pályája Kolozsvárhoz kapcsolódik.
+1	A	_	_	_	_	_	_	_	_
+2	filmvásznakról	_	_	_	_	_	_	_	_
+3	is	_	_	_	_	_	_	_	_
+4	jól	_	_	_	_	_	_	_	_
+5	ismert	_	_	_	_	_	_	_	_
+6	Orosz	_	_	_	_	_	_	_	_
+7	Lujza	_	_	_	_	_	_	_	_
+8	szinte	_	_	_	_	_	_	_	_
+9	egész	_	_	_	_	_	_	_	_
+10	pályája	_	_	_	_	_	_	_	_
+11	Kolozsvárhoz	_	_	_	_	_	_	_	_
+12	kapcsolódik	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-355
+# text = — Mozart operája örökérvényű remekmű, amelynek minden korban van mondanivalója.
+1	—	_	_	_	_	_	_	_	_
+2	Mozart	_	_	_	_	_	_	_	_
+3	operája	_	_	_	_	_	_	_	_
+4	örökérvényű	_	_	_	_	_	_	_	_
+5	remekmű	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	amelynek	_	_	_	_	_	_	_	_
+8	minden	_	_	_	_	_	_	_	_
+9	korban	_	_	_	_	_	_	_	_
+10	van	_	_	_	_	_	_	_	_
+11	mondanivalója	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-908
+# text = Kouchnerhez hasonlóan a tanács többi tagja sem tudja még, miképpen lehetne szavatolni a szerb kisebbség biztonságát, s így a kérdés valószínűleg még többször napirendre kerül a testület ülésein.
+1	Kouchnerhez	_	_	_	_	_	_	_	_
+2	hasonlóan	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	tanács	_	_	_	_	_	_	_	_
+5	többi	_	_	_	_	_	_	_	_
+6	tagja	_	_	_	_	_	_	_	_
+7	sem	_	_	_	_	_	_	_	_
+8	tudja	_	_	_	_	_	_	_	_
+9	még	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	miképpen	_	_	_	_	_	_	_	_
+12	lehetne	_	_	_	_	_	_	_	_
+13	szavatolni	_	_	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	szerb	_	_	_	_	_	_	_	_
+16	kisebbség	_	_	_	_	_	_	_	_
+17	biztonságát	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	s	_	_	_	_	_	_	_	_
+20	így	_	_	_	_	_	_	_	_
+21	a	_	_	_	_	_	_	_	_
+22	kérdés	_	_	_	_	_	_	_	_
+23	valószínűleg	_	_	_	_	_	_	_	_
+24	még	_	_	_	_	_	_	_	_
+25	többször	_	_	_	_	_	_	_	_
+26	napirendre	_	_	_	_	_	_	_	_
+27	kerül	_	_	_	_	_	_	_	_
+28	a	_	_	_	_	_	_	_	_
+29	testület	_	_	_	_	_	_	_	_
+30	ülésein	_	_	_	_	_	_	_	_
+31	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-111
+# text = "Mindegyik ezt csinálja" — panaszkodnak a közútkezelő dolgozói.
+1	"	_	_	_	_	_	_	_	_
+2	Mindegyik	_	_	_	_	_	_	_	_
+3	ezt	_	_	_	_	_	_	_	_
+4	csinálja	_	_	_	_	_	_	_	_
+5	"	_	_	_	_	_	_	_	_
+6	—	_	_	_	_	_	_	_	_
+7	panaszkodnak	_	_	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	közútkezelő	_	_	_	_	_	_	_	_
+10	dolgozói	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-361
+# text = Ugyanakkor megkockáztatható: a Fidesz-MPP választási programjában leírtak közelebb álltak a vállalható "jövőképhez", miszerint ma már nincs szükség az újraelosztás mindenáron való csökkentésére, hiszen a hazai centralizáció már az európai uniós országok átlagához közelít.
+1	Ugyanakkor	_	_	_	_	_	_	_	_
+2	megkockáztatható	_	_	_	_	_	_	_	_
+3	:	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	Fidesz-MPP	_	_	_	_	_	_	_	_
+6	választási	_	_	_	_	_	_	_	_
+7	programjában	_	_	_	_	_	_	_	_
+8	leírtak	_	_	_	_	_	_	_	_
+9	közelebb	_	_	_	_	_	_	_	_
+10	álltak	_	_	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	vállalható	_	_	_	_	_	_	_	_
+13	"	_	_	_	_	_	_	_	_
+14	jövőképhez	_	_	_	_	_	_	_	_
+15	"	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	miszerint	_	_	_	_	_	_	_	_
+18	ma	_	_	_	_	_	_	_	_
+19	már	_	_	_	_	_	_	_	_
+20	nincs	_	_	_	_	_	_	_	_
+21	szükség	_	_	_	_	_	_	_	_
+22	az	_	_	_	_	_	_	_	_
+23	újraelosztás	_	_	_	_	_	_	_	_
+24	mindenáron	_	_	_	_	_	_	_	_
+25	való	_	_	_	_	_	_	_	_
+26	csökkentésére	_	_	_	_	_	_	_	_
+27	,	_	_	_	_	_	_	_	_
+28	hiszen	_	_	_	_	_	_	_	_
+29	a	_	_	_	_	_	_	_	_
+30	hazai	_	_	_	_	_	_	_	_
+31	centralizáció	_	_	_	_	_	_	_	_
+32	már	_	_	_	_	_	_	_	_
+33	az	_	_	_	_	_	_	_	_
+34	európai	_	_	_	_	_	_	_	_
+35	uniós	_	_	_	_	_	_	_	_
+36	országok	_	_	_	_	_	_	_	_
+37	átlagához	_	_	_	_	_	_	_	_
+38	közelít	_	_	_	_	_	_	_	_
+39	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-677
+# text = A városi hatóságokra erős nyomást gyakorolt a prágai kormány is a fal lebontása érdekében.
+1	A	_	_	_	_	_	_	_	_
+2	városi	_	_	_	_	_	_	_	_
+3	hatóságokra	_	_	_	_	_	_	_	_
+4	erős	_	_	_	_	_	_	_	_
+5	nyomást	_	_	_	_	_	_	_	_
+6	gyakorolt	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	prágai	_	_	_	_	_	_	_	_
+9	kormány	_	_	_	_	_	_	_	_
+10	is	_	_	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	fal	_	_	_	_	_	_	_	_
+13	lebontása	_	_	_	_	_	_	_	_
+14	érdekében	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-540
+# text = A kiadvány 160 színes fotó segítségével ad képet az alkotó munkásságáról.
+1	A	_	_	_	_	_	_	_	_
+2	kiadvány	_	_	_	_	_	_	_	_
+3	160	_	_	_	_	_	_	_	_
+4	színes	_	_	_	_	_	_	_	_
+5	fotó	_	_	_	_	_	_	_	_
+6	segítségével	_	_	_	_	_	_	_	_
+7	ad	_	_	_	_	_	_	_	_
+8	képet	_	_	_	_	_	_	_	_
+9	az	_	_	_	_	_	_	_	_
+10	alkotó	_	_	_	_	_	_	_	_
+11	munkásságáról	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-646
+# text = Az orosz kormányfő büntetlenséget ígért azoknak a csecsen fegyvereseknek, akiknek nem tapad vér a kezéhez, s leteszik a fegyvert a szövetségi erők előtt.
+1	Az	_	_	_	_	_	_	_	_
+2	orosz	_	_	_	_	_	_	_	_
+3	kormányfő	_	_	_	_	_	_	_	_
+4	büntetlenséget	_	_	_	_	_	_	_	_
+5	ígért	_	_	_	_	_	_	_	_
+6	azoknak	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	csecsen	_	_	_	_	_	_	_	_
+9	fegyvereseknek	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	akiknek	_	_	_	_	_	_	_	_
+12	nem	_	_	_	_	_	_	_	_
+13	tapad	_	_	_	_	_	_	_	_
+14	vér	_	_	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	kezéhez	_	_	_	_	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	s	_	_	_	_	_	_	_	_
+19	leteszik	_	_	_	_	_	_	_	_
+20	a	_	_	_	_	_	_	_	_
+21	fegyvert	_	_	_	_	_	_	_	_
+22	a	_	_	_	_	_	_	_	_
+23	szövetségi	_	_	_	_	_	_	_	_
+24	erők	_	_	_	_	_	_	_	_
+25	előtt	_	_	_	_	_	_	_	_
+26	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-388
+# text = Skopje azzal vádolja a NATO-t, hogy minden eszközzel igyekszik akadályozni a baleset körülményeinek kivizsgálását, s az a célja, hogy a katona elkerülje a felelősségre vonást.
+1	Skopje	_	_	_	_	_	_	_	_
+2	azzal	_	_	_	_	_	_	_	_
+3	vádolja	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	NATO-t	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	hogy	_	_	_	_	_	_	_	_
+8	minden	_	_	_	_	_	_	_	_
+9	eszközzel	_	_	_	_	_	_	_	_
+10	igyekszik	_	_	_	_	_	_	_	_
+11	akadályozni	_	_	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	baleset	_	_	_	_	_	_	_	_
+14	körülményeinek	_	_	_	_	_	_	_	_
+15	kivizsgálását	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	s	_	_	_	_	_	_	_	_
+18	az	_	_	_	_	_	_	_	_
+19	a	_	_	_	_	_	_	_	_
+20	célja	_	_	_	_	_	_	_	_
+21	,	_	_	_	_	_	_	_	_
+22	hogy	_	_	_	_	_	_	_	_
+23	a	_	_	_	_	_	_	_	_
+24	katona	_	_	_	_	_	_	_	_
+25	elkerülje	_	_	_	_	_	_	_	_
+26	a	_	_	_	_	_	_	_	_
+27	felelősségre	_	_	_	_	_	_	_	_
+28	vonást	_	_	_	_	_	_	_	_
+29	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-309
+# text = Ami a kormány egészének ellenőrzését illeti, a parlamenti helyek 45 százalékát birtokló mai ellenzék jóval kevesebb alkalommal tudta konkrét ügyekben elszámoltatni tavasszal a kabinetet, mint négy éve az akkor 28 százalékos parlamenti kisebbség a Horn-adminisztrációt.
+1	Ami	_	_	_	_	_	_	_	_
+2	a	_	_	_	_	_	_	_	_
+3	kormány	_	_	_	_	_	_	_	_
+4	egészének	_	_	_	_	_	_	_	_
+5	ellenőrzését	_	_	_	_	_	_	_	_
+6	illeti	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	parlamenti	_	_	_	_	_	_	_	_
+10	helyek	_	_	_	_	_	_	_	_
+11	45	_	_	_	_	_	_	_	_
+12	százalékát	_	_	_	_	_	_	_	_
+13	birtokló	_	_	_	_	_	_	_	_
+14	mai	_	_	_	_	_	_	_	_
+15	ellenzék	_	_	_	_	_	_	_	_
+16	jóval	_	_	_	_	_	_	_	_
+17	kevesebb	_	_	_	_	_	_	_	_
+18	alkalommal	_	_	_	_	_	_	_	_
+19	tudta	_	_	_	_	_	_	_	_
+20	konkrét	_	_	_	_	_	_	_	_
+21	ügyekben	_	_	_	_	_	_	_	_
+22	elszámoltatni	_	_	_	_	_	_	_	_
+23	tavasszal	_	_	_	_	_	_	_	_
+24	a	_	_	_	_	_	_	_	_
+25	kabinetet	_	_	_	_	_	_	_	_
+26	,	_	_	_	_	_	_	_	_
+27	mint	_	_	_	_	_	_	_	_
+28	négy	_	_	_	_	_	_	_	_
+29	éve	_	_	_	_	_	_	_	_
+30	az	_	_	_	_	_	_	_	_
+31	akkor	_	_	_	_	_	_	_	_
+32	28	_	_	_	_	_	_	_	_
+33	százalékos	_	_	_	_	_	_	_	_
+34	parlamenti	_	_	_	_	_	_	_	_
+35	kisebbség	_	_	_	_	_	_	_	_
+36	a	_	_	_	_	_	_	_	_
+37	Horn-adminisztrációt	_	_	_	_	_	_	_	_
+38	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-2
+# text = Nem csupán a féktelenebb ünneplés nemkívánatos következményeire készülnek, de a számítógépes évszámváltás és a távközlés túlterheltsége is átmeneti gondot okozhat a segélynyújtóknak.
+1	Nem	_	_	_	_	_	_	_	_
+2	csupán	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	féktelenebb	_	_	_	_	_	_	_	_
+5	ünneplés	_	_	_	_	_	_	_	_
+6	nemkívánatos	_	_	_	_	_	_	_	_
+7	következményeire	_	_	_	_	_	_	_	_
+8	készülnek	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	de	_	_	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	számítógépes	_	_	_	_	_	_	_	_
+13	évszámváltás	_	_	_	_	_	_	_	_
+14	és	_	_	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	távközlés	_	_	_	_	_	_	_	_
+17	túlterheltsége	_	_	_	_	_	_	_	_
+18	is	_	_	_	_	_	_	_	_
+19	átmeneti	_	_	_	_	_	_	_	_
+20	gondot	_	_	_	_	_	_	_	_
+21	okozhat	_	_	_	_	_	_	_	_
+22	a	_	_	_	_	_	_	_	_
+23	segélynyújtóknak	_	_	_	_	_	_	_	_
+24	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-656
+# text = Dubceknak az volt az álláspontja, hogy a közös állam szétválasztása egyes cseh és szlovák politikusok egyéni ambícióit szolgálhatja ugyan, de semmiképpen nem a két nép érdekeit.
+1	Dubceknak	_	_	_	_	_	_	_	_
+2	az	_	_	_	_	_	_	_	_
+3	volt	_	_	_	_	_	_	_	_
+4	az	_	_	_	_	_	_	_	_
+5	álláspontja	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	hogy	_	_	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	közös	_	_	_	_	_	_	_	_
+10	állam	_	_	_	_	_	_	_	_
+11	szétválasztása	_	_	_	_	_	_	_	_
+12	egyes	_	_	_	_	_	_	_	_
+13	cseh	_	_	_	_	_	_	_	_
+14	és	_	_	_	_	_	_	_	_
+15	szlovák	_	_	_	_	_	_	_	_
+16	politikusok	_	_	_	_	_	_	_	_
+17	egyéni	_	_	_	_	_	_	_	_
+18	ambícióit	_	_	_	_	_	_	_	_
+19	szolgálhatja	_	_	_	_	_	_	_	_
+20	ugyan	_	_	_	_	_	_	_	_
+21	,	_	_	_	_	_	_	_	_
+22	de	_	_	_	_	_	_	_	_
+23	semmiképpen	_	_	_	_	_	_	_	_
+24	nem	_	_	_	_	_	_	_	_
+25	a	_	_	_	_	_	_	_	_
+26	két	_	_	_	_	_	_	_	_
+27	nép	_	_	_	_	_	_	_	_
+28	érdekeit	_	_	_	_	_	_	_	_
+29	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-141
+# text = Fejérben volt a legkritikusabb a helyzet: 8 települést egyáltalán nem lehet megközelíteni, s időlegesen elvesztette kapcsolatát a külvilággal Lepsény és Enying is.
+1	Fejérben	_	_	_	_	_	_	_	_
+2	volt	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	legkritikusabb	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	helyzet	_	_	_	_	_	_	_	_
+7	:	_	_	_	_	_	_	_	_
+8	8	_	_	_	_	_	_	_	_
+9	települést	_	_	_	_	_	_	_	_
+10	egyáltalán	_	_	_	_	_	_	_	_
+11	nem	_	_	_	_	_	_	_	_
+12	lehet	_	_	_	_	_	_	_	_
+13	megközelíteni	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	s	_	_	_	_	_	_	_	_
+16	időlegesen	_	_	_	_	_	_	_	_
+17	elvesztette	_	_	_	_	_	_	_	_
+18	kapcsolatát	_	_	_	_	_	_	_	_
+19	a	_	_	_	_	_	_	_	_
+20	külvilággal	_	_	_	_	_	_	_	_
+21	Lepsény	_	_	_	_	_	_	_	_
+22	és	_	_	_	_	_	_	_	_
+23	Enying	_	_	_	_	_	_	_	_
+24	is	_	_	_	_	_	_	_	_
+25	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-27
+# text = A Fidesz képviselője úgy véli, ha a kisgazdák által kezdeményezett testület is megkezdi munkáját, akár párhuzamosan is dolgozhat a két bizottság.
+1	A	_	_	_	_	_	_	_	_
+2	Fidesz	_	_	_	_	_	_	_	_
+3	képviselője	_	_	_	_	_	_	_	_
+4	úgy	_	_	_	_	_	_	_	_
+5	véli	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	ha	_	_	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	kisgazdák	_	_	_	_	_	_	_	_
+10	által	_	_	_	_	_	_	_	_
+11	kezdeményezett	_	_	_	_	_	_	_	_
+12	testület	_	_	_	_	_	_	_	_
+13	is	_	_	_	_	_	_	_	_
+14	megkezdi	_	_	_	_	_	_	_	_
+15	munkáját	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	akár	_	_	_	_	_	_	_	_
+18	párhuzamosan	_	_	_	_	_	_	_	_
+19	is	_	_	_	_	_	_	_	_
+20	dolgozhat	_	_	_	_	_	_	_	_
+21	a	_	_	_	_	_	_	_	_
+22	két	_	_	_	_	_	_	_	_
+23	bizottság	_	_	_	_	_	_	_	_
+24	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-876
+# text = Az SPD-tag Welteke jóval kevesebb eszközzel rendelkezik majd, hiszen az év eleje óta a monetáris politika egészét már nem a frankfurti szövetségi bank, hanem a helyileg ugyanott székelő Európai Központi Bank szabja meg, s ennek vezetésében a Bundesbank elnökének már csupán 1 szavazat jut a 17-ből.
+1	Az	_	_	_	_	_	_	_	_
+2	SPD-tag	_	_	_	_	_	_	_	_
+3	Welteke	_	_	_	_	_	_	_	_
+4	jóval	_	_	_	_	_	_	_	_
+5	kevesebb	_	_	_	_	_	_	_	_
+6	eszközzel	_	_	_	_	_	_	_	_
+7	rendelkezik	_	_	_	_	_	_	_	_
+8	majd	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	hiszen	_	_	_	_	_	_	_	_
+11	az	_	_	_	_	_	_	_	_
+12	év	_	_	_	_	_	_	_	_
+13	eleje	_	_	_	_	_	_	_	_
+14	óta	_	_	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	monetáris	_	_	_	_	_	_	_	_
+17	politika	_	_	_	_	_	_	_	_
+18	egészét	_	_	_	_	_	_	_	_
+19	már	_	_	_	_	_	_	_	_
+20	nem	_	_	_	_	_	_	_	_
+21	a	_	_	_	_	_	_	_	_
+22	frankfurti	_	_	_	_	_	_	_	_
+23	szövetségi	_	_	_	_	_	_	_	_
+24	bank	_	_	_	_	_	_	_	_
+25	,	_	_	_	_	_	_	_	_
+26	hanem	_	_	_	_	_	_	_	_
+27	a	_	_	_	_	_	_	_	_
+28	helyileg	_	_	_	_	_	_	_	_
+29	ugyanott	_	_	_	_	_	_	_	_
+30	székelő	_	_	_	_	_	_	_	_
+31	Európai	_	_	_	_	_	_	_	_
+32	Központi	_	_	_	_	_	_	_	_
+33	Bank	_	_	_	_	_	_	_	_
+34	szabja	_	_	_	_	_	_	_	_
+35	meg	_	_	_	_	_	_	_	_
+36	,	_	_	_	_	_	_	_	_
+37	s	_	_	_	_	_	_	_	_
+38	ennek	_	_	_	_	_	_	_	_
+39	vezetésében	_	_	_	_	_	_	_	_
+40	a	_	_	_	_	_	_	_	_
+41	Bundesbank	_	_	_	_	_	_	_	_
+42	elnökének	_	_	_	_	_	_	_	_
+43	már	_	_	_	_	_	_	_	_
+44	csupán	_	_	_	_	_	_	_	_
+45	1	_	_	_	_	_	_	_	_
+46	szavazat	_	_	_	_	_	_	_	_
+47	jut	_	_	_	_	_	_	_	_
+48	a	_	_	_	_	_	_	_	_
+49	17-ből	_	_	_	_	_	_	_	_
+50	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-182
+# text = Az aranyműves Márkus Erzsébet volt, aki a női 69 kg-ban szakításban orozta el az esélyesebbnek vélt ázsiaiak orra elől az elsőséget.
+1	Az	_	_	_	_	_	_	_	_
+2	aranyműves	_	_	_	_	_	_	_	_
+3	Márkus	_	_	_	_	_	_	_	_
+4	Erzsébet	_	_	_	_	_	_	_	_
+5	volt	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	aki	_	_	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	női	_	_	_	_	_	_	_	_
+10	69	_	_	_	_	_	_	_	_
+11	kg-ban	_	_	_	_	_	_	_	_
+12	szakításban	_	_	_	_	_	_	_	_
+13	orozta	_	_	_	_	_	_	_	_
+14	el	_	_	_	_	_	_	_	_
+15	az	_	_	_	_	_	_	_	_
+16	esélyesebbnek	_	_	_	_	_	_	_	_
+17	vélt	_	_	_	_	_	_	_	_
+18	ázsiaiak	_	_	_	_	_	_	_	_
+19	orra	_	_	_	_	_	_	_	_
+20	elől	_	_	_	_	_	_	_	_
+21	az	_	_	_	_	_	_	_	_
+22	elsőséget	_	_	_	_	_	_	_	_
+23	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-437
+# text = Miközben folyik a földrajzi terjeszkedés, az amerikai cég megpróbálja a palettáját is szélesíteni, ám eredményei egyelőre felemásak.
+1	Miközben	_	_	_	_	_	_	_	_
+2	folyik	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	földrajzi	_	_	_	_	_	_	_	_
+5	terjeszkedés	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	az	_	_	_	_	_	_	_	_
+8	amerikai	_	_	_	_	_	_	_	_
+9	cég	_	_	_	_	_	_	_	_
+10	megpróbálja	_	_	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	palettáját	_	_	_	_	_	_	_	_
+13	is	_	_	_	_	_	_	_	_
+14	szélesíteni	_	_	_	_	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	ám	_	_	_	_	_	_	_	_
+17	eredményei	_	_	_	_	_	_	_	_
+18	egyelőre	_	_	_	_	_	_	_	_
+19	felemásak	_	_	_	_	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-777
+# text = Az Állami Pénz- és Tőkepiaci Felügyelet ez év márciusában kötelezte a bank igazgatóságát, hogy a május 31-éig összehívott közgyűlésen hozzon döntést a tőkeemelésről, miután az Erste 3,9 milliárd forintnyi tavalyi vesztesége miatt a bank saját tőkéje 7,2 milliárd forintra csökkent, ez pedig 2 milliárddal kevesebb a jegyzett tőkénél.
+1	Az	_	_	_	_	_	_	_	_
+2	Állami	_	_	_	_	_	_	_	_
+3	Pénz-	_	_	_	_	_	_	_	_
+4	és	_	_	_	_	_	_	_	_
+5	Tőkepiaci	_	_	_	_	_	_	_	_
+6	Felügyelet	_	_	_	_	_	_	_	_
+7	ez	_	_	_	_	_	_	_	_
+8	év	_	_	_	_	_	_	_	_
+9	márciusában	_	_	_	_	_	_	_	_
+10	kötelezte	_	_	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	bank	_	_	_	_	_	_	_	_
+13	igazgatóságát	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	hogy	_	_	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	május	_	_	_	_	_	_	_	_
+18	31-éig	_	_	_	_	_	_	_	_
+19	összehívott	_	_	_	_	_	_	_	_
+20	közgyűlésen	_	_	_	_	_	_	_	_
+21	hozzon	_	_	_	_	_	_	_	_
+22	döntést	_	_	_	_	_	_	_	_
+23	a	_	_	_	_	_	_	_	_
+24	tőkeemelésről	_	_	_	_	_	_	_	_
+25	,	_	_	_	_	_	_	_	_
+26	miután	_	_	_	_	_	_	_	_
+27	az	_	_	_	_	_	_	_	_
+28	Erste	_	_	_	_	_	_	_	_
+29	3,9	_	_	_	_	_	_	_	_
+30	milliárd	_	_	_	_	_	_	_	_
+31	forintnyi	_	_	_	_	_	_	_	_
+32	tavalyi	_	_	_	_	_	_	_	_
+33	vesztesége	_	_	_	_	_	_	_	_
+34	miatt	_	_	_	_	_	_	_	_
+35	a	_	_	_	_	_	_	_	_
+36	bank	_	_	_	_	_	_	_	_
+37	saját	_	_	_	_	_	_	_	_
+38	tőkéje	_	_	_	_	_	_	_	_
+39	7,2	_	_	_	_	_	_	_	_
+40	milliárd	_	_	_	_	_	_	_	_
+41	forintra	_	_	_	_	_	_	_	_
+42	csökkent	_	_	_	_	_	_	_	_
+43	,	_	_	_	_	_	_	_	_
+44	ez	_	_	_	_	_	_	_	_
+45	pedig	_	_	_	_	_	_	_	_
+46	2	_	_	_	_	_	_	_	_
+47	milliárddal	_	_	_	_	_	_	_	_
+48	kevesebb	_	_	_	_	_	_	_	_
+49	a	_	_	_	_	_	_	_	_
+50	jegyzett	_	_	_	_	_	_	_	_
+51	tőkénél	_	_	_	_	_	_	_	_
+52	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-337
+# text = A parlamentet paragrafusgyártó gépezetté, kormányzati pecsétnyomóvá silányították, amelynek feladata a kormányfő szemében nem a felelősségelv érvényesítése, hanem a kormánydöntések szentesítése " — így ostorozta az Antall-kabinetet 1991 decemberében a következő évi állami költségvetés parlamenti vitájában Orbán Viktor, a Fidesz frakcióvezetője.
+1	A	_	_	_	_	_	_	_	_
+2	parlamentet	_	_	_	_	_	_	_	_
+3	paragrafusgyártó	_	_	_	_	_	_	_	_
+4	gépezetté	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	kormányzati	_	_	_	_	_	_	_	_
+7	pecsétnyomóvá	_	_	_	_	_	_	_	_
+8	silányították	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	amelynek	_	_	_	_	_	_	_	_
+11	feladata	_	_	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	kormányfő	_	_	_	_	_	_	_	_
+14	szemében	_	_	_	_	_	_	_	_
+15	nem	_	_	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	felelősségelv	_	_	_	_	_	_	_	_
+18	érvényesítése	_	_	_	_	_	_	_	_
+19	,	_	_	_	_	_	_	_	_
+20	hanem	_	_	_	_	_	_	_	_
+21	a	_	_	_	_	_	_	_	_
+22	kormánydöntések	_	_	_	_	_	_	_	_
+23	szentesítése	_	_	_	_	_	_	_	_
+24	"	_	_	_	_	_	_	_	_
+25	—	_	_	_	_	_	_	_	_
+26	így	_	_	_	_	_	_	_	_
+27	ostorozta	_	_	_	_	_	_	_	_
+28	az	_	_	_	_	_	_	_	_
+29	Antall-kabinetet	_	_	_	_	_	_	_	_
+30	1991	_	_	_	_	_	_	_	_
+31	decemberében	_	_	_	_	_	_	_	_
+32	a	_	_	_	_	_	_	_	_
+33	következő	_	_	_	_	_	_	_	_
+34	évi	_	_	_	_	_	_	_	_
+35	állami	_	_	_	_	_	_	_	_
+36	költségvetés	_	_	_	_	_	_	_	_
+37	parlamenti	_	_	_	_	_	_	_	_
+38	vitájában	_	_	_	_	_	_	_	_
+39	Orbán	_	_	_	_	_	_	_	_
+40	Viktor	_	_	_	_	_	_	_	_
+41	,	_	_	_	_	_	_	_	_
+42	a	_	_	_	_	_	_	_	_
+43	Fidesz	_	_	_	_	_	_	_	_
+44	frakcióvezetője	_	_	_	_	_	_	_	_
+45	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-249
+# text = Mark Voorbergen szerint a gyilkos verseny az élelmiszeriparban és a kereskedelemben is tovább folytatódik és mindkét ágazatban számítani kell újabb cégegyesülésekre is.
+1	Mark	_	_	_	_	_	_	_	_
+2	Voorbergen	_	_	_	_	_	_	_	_
+3	szerint	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	gyilkos	_	_	_	_	_	_	_	_
+6	verseny	_	_	_	_	_	_	_	_
+7	az	_	_	_	_	_	_	_	_
+8	élelmiszeriparban	_	_	_	_	_	_	_	_
+9	és	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	kereskedelemben	_	_	_	_	_	_	_	_
+12	is	_	_	_	_	_	_	_	_
+13	tovább	_	_	_	_	_	_	_	_
+14	folytatódik	_	_	_	_	_	_	_	_
+15	és	_	_	_	_	_	_	_	_
+16	mindkét	_	_	_	_	_	_	_	_
+17	ágazatban	_	_	_	_	_	_	_	_
+18	számítani	_	_	_	_	_	_	_	_
+19	kell	_	_	_	_	_	_	_	_
+20	újabb	_	_	_	_	_	_	_	_
+21	cégegyesülésekre	_	_	_	_	_	_	_	_
+22	is	_	_	_	_	_	_	_	_
+23	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-94
+# text = A tűzoltóság szakemberei decemberben bejárták a 2/B terminál valamennyi tűzszakaszát, megvizsgálták és kipróbálták valamennyi tűzvédelmi berendezést.
+1	A	_	_	_	_	_	_	_	_
+2	tűzoltóság	_	_	_	_	_	_	_	_
+3	szakemberei	_	_	_	_	_	_	_	_
+4	decemberben	_	_	_	_	_	_	_	_
+5	bejárták	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	2/B	_	_	_	_	_	_	_	_
+8	terminál	_	_	_	_	_	_	_	_
+9	valamennyi	_	_	_	_	_	_	_	_
+10	tűzszakaszát	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	megvizsgálták	_	_	_	_	_	_	_	_
+13	és	_	_	_	_	_	_	_	_
+14	kipróbálták	_	_	_	_	_	_	_	_
+15	valamennyi	_	_	_	_	_	_	_	_
+16	tűzvédelmi	_	_	_	_	_	_	_	_
+17	berendezést	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-718
+# text = A nagyobbik koalíciós erő, a Szolidaritás Választási Akció (AWS) egyik csoportja, a Katolikus Családok Szervezete tagjának számító Kapera 1991-ben már lemondani kényszerült akkori egészségügyi államtitkár-helyettesi posztjáról, mert nyilvánosan perverzeknek minősítette a homoszexuálisokat.
+1	A	_	_	_	_	_	_	_	_
+2	nagyobbik	_	_	_	_	_	_	_	_
+3	koalíciós	_	_	_	_	_	_	_	_
+4	erő	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	Szolidaritás	_	_	_	_	_	_	_	_
+8	Választási	_	_	_	_	_	_	_	_
+9	Akció	_	_	_	_	_	_	_	_
+10	(	_	_	_	_	_	_	_	_
+11	AWS	_	_	_	_	_	_	_	_
+12	)	_	_	_	_	_	_	_	_
+13	egyik	_	_	_	_	_	_	_	_
+14	csoportja	_	_	_	_	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	Katolikus	_	_	_	_	_	_	_	_
+18	Családok	_	_	_	_	_	_	_	_
+19	Szervezete	_	_	_	_	_	_	_	_
+20	tagjának	_	_	_	_	_	_	_	_
+21	számító	_	_	_	_	_	_	_	_
+22	Kapera	_	_	_	_	_	_	_	_
+23	1991-ben	_	_	_	_	_	_	_	_
+24	már	_	_	_	_	_	_	_	_
+25	lemondani	_	_	_	_	_	_	_	_
+26	kényszerült	_	_	_	_	_	_	_	_
+27	akkori	_	_	_	_	_	_	_	_
+28	egészségügyi	_	_	_	_	_	_	_	_
+29	államtitkár-helyettesi	_	_	_	_	_	_	_	_
+30	posztjáról	_	_	_	_	_	_	_	_
+31	,	_	_	_	_	_	_	_	_
+32	mert	_	_	_	_	_	_	_	_
+33	nyilvánosan	_	_	_	_	_	_	_	_
+34	perverzeknek	_	_	_	_	_	_	_	_
+35	minősítette	_	_	_	_	_	_	_	_
+36	a	_	_	_	_	_	_	_	_
+37	homoszexuálisokat	_	_	_	_	_	_	_	_
+38	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-172
+# text = Több mint 2000 tanuló kényszerülhet más intézményben, esetleg más pedagógiai módszerek alapján tanulni.
+1	Több	_	_	_	_	_	_	_	_
+2	mint	_	_	_	_	_	_	_	_
+3	2000	_	_	_	_	_	_	_	_
+4	tanuló	_	_	_	_	_	_	_	_
+5	kényszerülhet	_	_	_	_	_	_	_	_
+6	más	_	_	_	_	_	_	_	_
+7	intézményben	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	esetleg	_	_	_	_	_	_	_	_
+10	más	_	_	_	_	_	_	_	_
+11	pedagógiai	_	_	_	_	_	_	_	_
+12	módszerek	_	_	_	_	_	_	_	_
+13	alapján	_	_	_	_	_	_	_	_
+14	tanulni	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-401
+# text = Mindez azonban aligha menti fel a Gazprom jelenlegi menedzsmentjét a cég gazdálkodásának meglehetősen alacsony hatékonyságára vonatkozó vádak alól.
+1	Mindez	_	_	_	_	_	_	_	_
+2	azonban	_	_	_	_	_	_	_	_
+3	aligha	_	_	_	_	_	_	_	_
+4	menti	_	_	_	_	_	_	_	_
+5	fel	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	Gazprom	_	_	_	_	_	_	_	_
+8	jelenlegi	_	_	_	_	_	_	_	_
+9	menedzsmentjét	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	cég	_	_	_	_	_	_	_	_
+12	gazdálkodásának	_	_	_	_	_	_	_	_
+13	meglehetősen	_	_	_	_	_	_	_	_
+14	alacsony	_	_	_	_	_	_	_	_
+15	hatékonyságára	_	_	_	_	_	_	_	_
+16	vonatkozó	_	_	_	_	_	_	_	_
+17	vádak	_	_	_	_	_	_	_	_
+18	alól	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-375
+# text = Az ideiglenesen vagy időszakosan működő kisebb határátkelőhelyek némelyikén még számítógép sincs, így ott teljesen manuálisan folyik majd a nyilvántartás, az esetleges névelírások így az utazók visszatérésekor fennakadást okozhatnak.
+1	Az	_	_	_	_	_	_	_	_
+2	ideiglenesen	_	_	_	_	_	_	_	_
+3	vagy	_	_	_	_	_	_	_	_
+4	időszakosan	_	_	_	_	_	_	_	_
+5	működő	_	_	_	_	_	_	_	_
+6	kisebb	_	_	_	_	_	_	_	_
+7	határátkelőhelyek	_	_	_	_	_	_	_	_
+8	némelyikén	_	_	_	_	_	_	_	_
+9	még	_	_	_	_	_	_	_	_
+10	számítógép	_	_	_	_	_	_	_	_
+11	sincs	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	így	_	_	_	_	_	_	_	_
+14	ott	_	_	_	_	_	_	_	_
+15	teljesen	_	_	_	_	_	_	_	_
+16	manuálisan	_	_	_	_	_	_	_	_
+17	folyik	_	_	_	_	_	_	_	_
+18	majd	_	_	_	_	_	_	_	_
+19	a	_	_	_	_	_	_	_	_
+20	nyilvántartás	_	_	_	_	_	_	_	_
+21	,	_	_	_	_	_	_	_	_
+22	az	_	_	_	_	_	_	_	_
+23	esetleges	_	_	_	_	_	_	_	_
+24	névelírások	_	_	_	_	_	_	_	_
+25	így	_	_	_	_	_	_	_	_
+26	az	_	_	_	_	_	_	_	_
+27	utazók	_	_	_	_	_	_	_	_
+28	visszatérésekor	_	_	_	_	_	_	_	_
+29	fennakadást	_	_	_	_	_	_	_	_
+30	okozhatnak	_	_	_	_	_	_	_	_
+31	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-122
+# text = Tudják, sehova nem érdemes elindulni.
+1	Tudják	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	sehova	_	_	_	_	_	_	_	_
+4	nem	_	_	_	_	_	_	_	_
+5	érdemes	_	_	_	_	_	_	_	_
+6	elindulni	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-266
+# text = És elvitték a főhadiszállásra.
+1	És	_	_	_	_	_	_	_	_
+2	elvitték	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	főhadiszállásra	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-98
+# text = Csiki Károly, az MLSZ szervezési osztályának vezetője kijelentette, nem tudott erről a lehetőségről: — Csak szeptemberben jöttem vissza az MLSZ-be, s az elnökségtől azt az információt kaptam, hogy május 31-ig be kell fejezni a bajnokságot — mondta Csiki.
+1	Csiki	_	_	_	_	_	_	_	_
+2	Károly	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	az	_	_	_	_	_	_	_	_
+5	MLSZ	_	_	_	_	_	_	_	_
+6	szervezési	_	_	_	_	_	_	_	_
+7	osztályának	_	_	_	_	_	_	_	_
+8	vezetője	_	_	_	_	_	_	_	_
+9	kijelentette	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	nem	_	_	_	_	_	_	_	_
+12	tudott	_	_	_	_	_	_	_	_
+13	erről	_	_	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	lehetőségről	_	_	_	_	_	_	_	_
+16	:	_	_	_	_	_	_	_	_
+17	—	_	_	_	_	_	_	_	_
+18	Csak	_	_	_	_	_	_	_	_
+19	szeptemberben	_	_	_	_	_	_	_	_
+20	jöttem	_	_	_	_	_	_	_	_
+21	vissza	_	_	_	_	_	_	_	_
+22	az	_	_	_	_	_	_	_	_
+23	MLSZ-be	_	_	_	_	_	_	_	_
+24	,	_	_	_	_	_	_	_	_
+25	s	_	_	_	_	_	_	_	_
+26	az	_	_	_	_	_	_	_	_
+27	elnökségtől	_	_	_	_	_	_	_	_
+28	azt	_	_	_	_	_	_	_	_
+29	az	_	_	_	_	_	_	_	_
+30	információt	_	_	_	_	_	_	_	_
+31	kaptam	_	_	_	_	_	_	_	_
+32	,	_	_	_	_	_	_	_	_
+33	hogy	_	_	_	_	_	_	_	_
+34	május	_	_	_	_	_	_	_	_
+35	31-ig	_	_	_	_	_	_	_	_
+36	be	_	_	_	_	_	_	_	_
+37	kell	_	_	_	_	_	_	_	_
+38	fejezni	_	_	_	_	_	_	_	_
+39	a	_	_	_	_	_	_	_	_
+40	bajnokságot	_	_	_	_	_	_	_	_
+41	—	_	_	_	_	_	_	_	_
+42	mondta	_	_	_	_	_	_	_	_
+43	Csiki	_	_	_	_	_	_	_	_
+44	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-93
+# text = Mégis mit képzeltek, szándékosan szabotálta a sofőr az utazást? " — mérgelődik Pfeiffer Ferenc.
+1	Mégis	_	_	_	_	_	_	_	_
+2	mit	_	_	_	_	_	_	_	_
+3	képzeltek	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	szándékosan	_	_	_	_	_	_	_	_
+6	szabotálta	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	sofőr	_	_	_	_	_	_	_	_
+9	az	_	_	_	_	_	_	_	_
+10	utazást	_	_	_	_	_	_	_	_
+11	?	_	_	_	_	_	_	_	_
+12	"	_	_	_	_	_	_	_	_
+13	—	_	_	_	_	_	_	_	_
+14	mérgelődik	_	_	_	_	_	_	_	_
+15	Pfeiffer	_	_	_	_	_	_	_	_
+16	Ferenc	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-342
+# text = Könnyen lehet ugyanis, hogy a cég úgy fog taktikázni, még véletlenül se találjon rájuk vevőt.
+1	Könnyen	_	_	_	_	_	_	_	_
+2	lehet	_	_	_	_	_	_	_	_
+3	ugyanis	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	hogy	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	cég	_	_	_	_	_	_	_	_
+8	úgy	_	_	_	_	_	_	_	_
+9	fog	_	_	_	_	_	_	_	_
+10	taktikázni	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	még	_	_	_	_	_	_	_	_
+13	véletlenül	_	_	_	_	_	_	_	_
+14	se	_	_	_	_	_	_	_	_
+15	találjon	_	_	_	_	_	_	_	_
+16	rájuk	_	_	_	_	_	_	_	_
+17	vevőt	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-295
+# text = "Szerencsésebbnek tartanánk a plénum kéthetenkénti összehívását" — mondta a HVG-nek Túri Kovács Béla, az FKGP frakcióvezető-helyettese, s hasonló álláspontra helyezkedett Balsai István, az MDF képviselőcsoportjának vezetője is.
+1	"	_	_	_	_	_	_	_	_
+2	Szerencsésebbnek	_	_	_	_	_	_	_	_
+3	tartanánk	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	plénum	_	_	_	_	_	_	_	_
+6	kéthetenkénti	_	_	_	_	_	_	_	_
+7	összehívását	_	_	_	_	_	_	_	_
+8	"	_	_	_	_	_	_	_	_
+9	—	_	_	_	_	_	_	_	_
+10	mondta	_	_	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	HVG-nek	_	_	_	_	_	_	_	_
+13	Túri	_	_	_	_	_	_	_	_
+14	Kovács	_	_	_	_	_	_	_	_
+15	Béla	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	az	_	_	_	_	_	_	_	_
+18	FKGP	_	_	_	_	_	_	_	_
+19	frakcióvezető-helyettese	_	_	_	_	_	_	_	_
+20	,	_	_	_	_	_	_	_	_
+21	s	_	_	_	_	_	_	_	_
+22	hasonló	_	_	_	_	_	_	_	_
+23	álláspontra	_	_	_	_	_	_	_	_
+24	helyezkedett	_	_	_	_	_	_	_	_
+25	Balsai	_	_	_	_	_	_	_	_
+26	István	_	_	_	_	_	_	_	_
+27	,	_	_	_	_	_	_	_	_
+28	az	_	_	_	_	_	_	_	_
+29	MDF	_	_	_	_	_	_	_	_
+30	képviselőcsoportjának	_	_	_	_	_	_	_	_
+31	vezetője	_	_	_	_	_	_	_	_
+32	is	_	_	_	_	_	_	_	_
+33	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-209
+# text = Három és fél perccel a vége előtt Magyarország 65-47-re vezetett!
+1	Három	_	_	_	_	_	_	_	_
+2	és	_	_	_	_	_	_	_	_
+3	fél	_	_	_	_	_	_	_	_
+4	perccel	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	vége	_	_	_	_	_	_	_	_
+7	előtt	_	_	_	_	_	_	_	_
+8	Magyarország	_	_	_	_	_	_	_	_
+9	65-47-re	_	_	_	_	_	_	_	_
+10	vezetett	_	_	_	_	_	_	_	_
+11	!	_	_	_	_	_	_	_	_
+
+# sent_id = train-181
+# text = Németországban Baden-Württemberg tartományban és Bajorországban a főutakon és az autópályán egyaránt 25-30 kilométer hosszan torlódtak fel az személygépkocsik és az autóbuszok.
+1	Németországban	_	_	_	_	_	_	_	_
+2	Baden-Württemberg	_	_	_	_	_	_	_	_
+3	tartományban	_	_	_	_	_	_	_	_
+4	és	_	_	_	_	_	_	_	_
+5	Bajorországban	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	főutakon	_	_	_	_	_	_	_	_
+8	és	_	_	_	_	_	_	_	_
+9	az	_	_	_	_	_	_	_	_
+10	autópályán	_	_	_	_	_	_	_	_
+11	egyaránt	_	_	_	_	_	_	_	_
+12	25-30	_	_	_	_	_	_	_	_
+13	kilométer	_	_	_	_	_	_	_	_
+14	hosszan	_	_	_	_	_	_	_	_
+15	torlódtak	_	_	_	_	_	_	_	_
+16	fel	_	_	_	_	_	_	_	_
+17	az	_	_	_	_	_	_	_	_
+18	személygépkocsik	_	_	_	_	_	_	_	_
+19	és	_	_	_	_	_	_	_	_
+20	az	_	_	_	_	_	_	_	_
+21	autóbuszok	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-364
+# text = A válságban leginkább érintett Dél-Korea, Szingapúr, Thaiföld, Malajzia, a Fülöp-szigetek és Indonézia — amelyek 1997-ben meredeken csökkenő GDP-t mutattak — az idén egytől egyig legalább 2,5-3 százalékos (egyes esetekben ennél is magasabb) növekedésben bíznak.
+1	A	_	_	_	_	_	_	_	_
+2	válságban	_	_	_	_	_	_	_	_
+3	leginkább	_	_	_	_	_	_	_	_
+4	érintett	_	_	_	_	_	_	_	_
+5	Dél-Korea	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	Szingapúr	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	Thaiföld	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	Malajzia	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	Fülöp-szigetek	_	_	_	_	_	_	_	_
+15	és	_	_	_	_	_	_	_	_
+16	Indonézia	_	_	_	_	_	_	_	_
+17	—	_	_	_	_	_	_	_	_
+18	amelyek	_	_	_	_	_	_	_	_
+19	1997-ben	_	_	_	_	_	_	_	_
+20	meredeken	_	_	_	_	_	_	_	_
+21	csökkenő	_	_	_	_	_	_	_	_
+22	GDP-t	_	_	_	_	_	_	_	_
+23	mutattak	_	_	_	_	_	_	_	_
+24	—	_	_	_	_	_	_	_	_
+25	az	_	_	_	_	_	_	_	_
+26	idén	_	_	_	_	_	_	_	_
+27	egytől	_	_	_	_	_	_	_	_
+28	egyig	_	_	_	_	_	_	_	_
+29	legalább	_	_	_	_	_	_	_	_
+30	2,5-3	_	_	_	_	_	_	_	_
+31	százalékos	_	_	_	_	_	_	_	_
+32	(	_	_	_	_	_	_	_	_
+33	egyes	_	_	_	_	_	_	_	_
+34	esetekben	_	_	_	_	_	_	_	_
+35	ennél	_	_	_	_	_	_	_	_
+36	is	_	_	_	_	_	_	_	_
+37	magasabb	_	_	_	_	_	_	_	_
+38	)	_	_	_	_	_	_	_	_
+39	növekedésben	_	_	_	_	_	_	_	_
+40	bíznak	_	_	_	_	_	_	_	_
+41	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-332
+# text = A kormány jogalkotási programjában szereplő tervezetek közül a legsúlyosabb fenntartással Avarkeszi ugyanakkor az önkormányzati törvény tervezett módosítását fogadta.
+1	A	_	_	_	_	_	_	_	_
+2	kormány	_	_	_	_	_	_	_	_
+3	jogalkotási	_	_	_	_	_	_	_	_
+4	programjában	_	_	_	_	_	_	_	_
+5	szereplő	_	_	_	_	_	_	_	_
+6	tervezetek	_	_	_	_	_	_	_	_
+7	közül	_	_	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	legsúlyosabb	_	_	_	_	_	_	_	_
+10	fenntartással	_	_	_	_	_	_	_	_
+11	Avarkeszi	_	_	_	_	_	_	_	_
+12	ugyanakkor	_	_	_	_	_	_	_	_
+13	az	_	_	_	_	_	_	_	_
+14	önkormányzati	_	_	_	_	_	_	_	_
+15	törvény	_	_	_	_	_	_	_	_
+16	tervezett	_	_	_	_	_	_	_	_
+17	módosítását	_	_	_	_	_	_	_	_
+18	fogadta	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-763
+# text = 1997 decembere óta a London Bróker Rt. tulajdonosa a Portofinó Építő és Szolgáltató Kft.
+1	1997	_	_	_	_	_	_	_	_
+2	decembere	_	_	_	_	_	_	_	_
+3	óta	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	London	_	_	_	_	_	_	_	_
+6	Bróker	_	_	_	_	_	_	_	_
+7	Rt.	_	_	_	_	_	_	_	_
+8	tulajdonosa	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	Portofinó	_	_	_	_	_	_	_	_
+11	Építő	_	_	_	_	_	_	_	_
+12	és	_	_	_	_	_	_	_	_
+13	Szolgáltató	_	_	_	_	_	_	_	_
+14	Kft	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-356
+# text = Mint ahogy az sem, hogy az egyik szöuli bíróság a napokban felmentette Kang Kjung Szik korábbi pénzügyminisztert és Kim In Ho egykori elnöki tanácsadót.
+1	Mint	_	_	_	_	_	_	_	_
+2	ahogy	_	_	_	_	_	_	_	_
+3	az	_	_	_	_	_	_	_	_
+4	sem	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	hogy	_	_	_	_	_	_	_	_
+7	az	_	_	_	_	_	_	_	_
+8	egyik	_	_	_	_	_	_	_	_
+9	szöuli	_	_	_	_	_	_	_	_
+10	bíróság	_	_	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	napokban	_	_	_	_	_	_	_	_
+13	felmentette	_	_	_	_	_	_	_	_
+14	Kang	_	_	_	_	_	_	_	_
+15	Kjung	_	_	_	_	_	_	_	_
+16	Szik	_	_	_	_	_	_	_	_
+17	korábbi	_	_	_	_	_	_	_	_
+18	pénzügyminisztert	_	_	_	_	_	_	_	_
+19	és	_	_	_	_	_	_	_	_
+20	Kim	_	_	_	_	_	_	_	_
+21	In	_	_	_	_	_	_	_	_
+22	Ho	_	_	_	_	_	_	_	_
+23	egykori	_	_	_	_	_	_	_	_
+24	elnöki	_	_	_	_	_	_	_	_
+25	tanácsadót	_	_	_	_	_	_	_	_
+26	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-626
+# text = A magyar-orosz kapcsolatokat azonban nem ez jellemezte az eltelt időszakban.
+1	A	_	_	_	_	_	_	_	_
+2	magyar-orosz	_	_	_	_	_	_	_	_
+3	kapcsolatokat	_	_	_	_	_	_	_	_
+4	azonban	_	_	_	_	_	_	_	_
+5	nem	_	_	_	_	_	_	_	_
+6	ez	_	_	_	_	_	_	_	_
+7	jellemezte	_	_	_	_	_	_	_	_
+8	az	_	_	_	_	_	_	_	_
+9	eltelt	_	_	_	_	_	_	_	_
+10	időszakban	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-110
+# text = Persze jól jönnek a hómunkások, amikor már megtörtént a baj, és a csupadísz Audit ki kell szabadítani a kátyúból.
+1	Persze	_	_	_	_	_	_	_	_
+2	jól	_	_	_	_	_	_	_	_
+3	jönnek	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	hómunkások	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	amikor	_	_	_	_	_	_	_	_
+8	már	_	_	_	_	_	_	_	_
+9	megtörtént	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	baj	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	és	_	_	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	csupadísz	_	_	_	_	_	_	_	_
+16	Audit	_	_	_	_	_	_	_	_
+17	ki	_	_	_	_	_	_	_	_
+18	kell	_	_	_	_	_	_	_	_
+19	szabadítani	_	_	_	_	_	_	_	_
+20	a	_	_	_	_	_	_	_	_
+21	kátyúból	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-6
+# text = A természeti tényezőkért — nyersanyagért, energiahordozókért, munkaerőért, információért, technológiáért — vívott harcnak ma már nincsenek korlátai.
+1	A	_	_	_	_	_	_	_	_
+2	természeti	_	_	_	_	_	_	_	_
+3	tényezőkért	_	_	_	_	_	_	_	_
+4	—	_	_	_	_	_	_	_	_
+5	nyersanyagért	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	energiahordozókért	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	munkaerőért	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	információért	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	technológiáért	_	_	_	_	_	_	_	_
+14	—	_	_	_	_	_	_	_	_
+15	vívott	_	_	_	_	_	_	_	_
+16	harcnak	_	_	_	_	_	_	_	_
+17	ma	_	_	_	_	_	_	_	_
+18	már	_	_	_	_	_	_	_	_
+19	nincsenek	_	_	_	_	_	_	_	_
+20	korlátai	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-668
+# text = Jaroslav Volf nem gyanúsít, hanem azt mondja: jó lenne végre tisztán látni.
+1	Jaroslav	_	_	_	_	_	_	_	_
+2	Volf	_	_	_	_	_	_	_	_
+3	nem	_	_	_	_	_	_	_	_
+4	gyanúsít	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	hanem	_	_	_	_	_	_	_	_
+7	azt	_	_	_	_	_	_	_	_
+8	mondja	_	_	_	_	_	_	_	_
+9	:	_	_	_	_	_	_	_	_
+10	jó	_	_	_	_	_	_	_	_
+11	lenne	_	_	_	_	_	_	_	_
+12	végre	_	_	_	_	_	_	_	_
+13	tisztán	_	_	_	_	_	_	_	_
+14	látni	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-295
+# text = Egyre feszültebbé válik a helyzet Észak-Kaukázus eddig legbékésebbnek tartott köztársaságában, Karacsáj- és Cserkeszföldön.
+1	Egyre	_	_	_	_	_	_	_	_
+2	feszültebbé	_	_	_	_	_	_	_	_
+3	válik	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	helyzet	_	_	_	_	_	_	_	_
+6	Észak-Kaukázus	_	_	_	_	_	_	_	_
+7	eddig	_	_	_	_	_	_	_	_
+8	legbékésebbnek	_	_	_	_	_	_	_	_
+9	tartott	_	_	_	_	_	_	_	_
+10	köztársaságában	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	Karacsáj-	_	_	_	_	_	_	_	_
+13	és	_	_	_	_	_	_	_	_
+14	Cserkeszföldön	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-264
+# text = Jóllehet, Magyarország a kelet-európai térségben elsőként kezdte el az európai uniós viszonyokhoz igazítani árszintjét és árstruktúráját, még ma is nagyok az eltérések, hiszen nálunk egyelőre — legalábbis az uniós átlaggal összevetve — alacsonyak a lakossági és magasak az ipari fogyasztói árak — hangzott el a Budapesti Kereskedelmi és Iparkamara szervezésében tegnap kezdődött kétnapos konferencián.
+1	Jóllehet	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	Magyarország	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	kelet-európai	_	_	_	_	_	_	_	_
+6	térségben	_	_	_	_	_	_	_	_
+7	elsőként	_	_	_	_	_	_	_	_
+8	kezdte	_	_	_	_	_	_	_	_
+9	el	_	_	_	_	_	_	_	_
+10	az	_	_	_	_	_	_	_	_
+11	európai	_	_	_	_	_	_	_	_
+12	uniós	_	_	_	_	_	_	_	_
+13	viszonyokhoz	_	_	_	_	_	_	_	_
+14	igazítani	_	_	_	_	_	_	_	_
+15	árszintjét	_	_	_	_	_	_	_	_
+16	és	_	_	_	_	_	_	_	_
+17	árstruktúráját	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	még	_	_	_	_	_	_	_	_
+20	ma	_	_	_	_	_	_	_	_
+21	is	_	_	_	_	_	_	_	_
+22	nagyok	_	_	_	_	_	_	_	_
+23	az	_	_	_	_	_	_	_	_
+24	eltérések	_	_	_	_	_	_	_	_
+25	,	_	_	_	_	_	_	_	_
+26	hiszen	_	_	_	_	_	_	_	_
+27	nálunk	_	_	_	_	_	_	_	_
+28	egyelőre	_	_	_	_	_	_	_	_
+29	—	_	_	_	_	_	_	_	_
+30	legalábbis	_	_	_	_	_	_	_	_
+31	az	_	_	_	_	_	_	_	_
+32	uniós	_	_	_	_	_	_	_	_
+33	átlaggal	_	_	_	_	_	_	_	_
+34	összevetve	_	_	_	_	_	_	_	_
+35	—	_	_	_	_	_	_	_	_
+36	alacsonyak	_	_	_	_	_	_	_	_
+37	a	_	_	_	_	_	_	_	_
+38	lakossági	_	_	_	_	_	_	_	_
+39	és	_	_	_	_	_	_	_	_
+40	magasak	_	_	_	_	_	_	_	_
+41	az	_	_	_	_	_	_	_	_
+42	ipari	_	_	_	_	_	_	_	_
+43	fogyasztói	_	_	_	_	_	_	_	_
+44	árak	_	_	_	_	_	_	_	_
+45	—	_	_	_	_	_	_	_	_
+46	hangzott	_	_	_	_	_	_	_	_
+47	el	_	_	_	_	_	_	_	_
+48	a	_	_	_	_	_	_	_	_
+49	Budapesti	_	_	_	_	_	_	_	_
+50	Kereskedelmi	_	_	_	_	_	_	_	_
+51	és	_	_	_	_	_	_	_	_
+52	Iparkamara	_	_	_	_	_	_	_	_
+53	szervezésében	_	_	_	_	_	_	_	_
+54	tegnap	_	_	_	_	_	_	_	_
+55	kezdődött	_	_	_	_	_	_	_	_
+56	kétnapos	_	_	_	_	_	_	_	_
+57	konferencián	_	_	_	_	_	_	_	_
+58	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-171
+# text = Az első körben 20-30, a teljes átszervezéssel 70-80 pedagógus egzisztenciája kerülhet veszélybe.
+1	Az	_	_	_	_	_	_	_	_
+2	első	_	_	_	_	_	_	_	_
+3	körben	_	_	_	_	_	_	_	_
+4	20-30	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	teljes	_	_	_	_	_	_	_	_
+8	átszervezéssel	_	_	_	_	_	_	_	_
+9	70-80	_	_	_	_	_	_	_	_
+10	pedagógus	_	_	_	_	_	_	_	_
+11	egzisztenciája	_	_	_	_	_	_	_	_
+12	kerülhet	_	_	_	_	_	_	_	_
+13	veszélybe	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-93
+# text = Tatár Attila tűzoltó ezredes, a BM TOP repülőtéri tűzoltó-parancsnokság parancsnoka lapunknak elmondta, a jelentésben leírt megállapítás túlzó.
+1	Tatár	_	_	_	_	_	_	_	_
+2	Attila	_	_	_	_	_	_	_	_
+3	tűzoltó	_	_	_	_	_	_	_	_
+4	ezredes	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	BM	_	_	_	_	_	_	_	_
+8	TOP	_	_	_	_	_	_	_	_
+9	repülőtéri	_	_	_	_	_	_	_	_
+10	tűzoltó-parancsnokság	_	_	_	_	_	_	_	_
+11	parancsnoka	_	_	_	_	_	_	_	_
+12	lapunknak	_	_	_	_	_	_	_	_
+13	elmondta	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	jelentésben	_	_	_	_	_	_	_	_
+17	leírt	_	_	_	_	_	_	_	_
+18	megállapítás	_	_	_	_	_	_	_	_
+19	túlzó	_	_	_	_	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-636
+# text = Mumadi Szajdajev ugyancsak hamisnak nevezte azokat az orosz jelentéseket, amelyek szerint a csecsen harcosok tömegesen hagyják el Groznijt és a várostól délre lévő hegyekben keresnek menedéket.
+1	Mumadi	_	_	_	_	_	_	_	_
+2	Szajdajev	_	_	_	_	_	_	_	_
+3	ugyancsak	_	_	_	_	_	_	_	_
+4	hamisnak	_	_	_	_	_	_	_	_
+5	nevezte	_	_	_	_	_	_	_	_
+6	azokat	_	_	_	_	_	_	_	_
+7	az	_	_	_	_	_	_	_	_
+8	orosz	_	_	_	_	_	_	_	_
+9	jelentéseket	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	amelyek	_	_	_	_	_	_	_	_
+12	szerint	_	_	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	csecsen	_	_	_	_	_	_	_	_
+15	harcosok	_	_	_	_	_	_	_	_
+16	tömegesen	_	_	_	_	_	_	_	_
+17	hagyják	_	_	_	_	_	_	_	_
+18	el	_	_	_	_	_	_	_	_
+19	Groznijt	_	_	_	_	_	_	_	_
+20	és	_	_	_	_	_	_	_	_
+21	a	_	_	_	_	_	_	_	_
+22	várostól	_	_	_	_	_	_	_	_
+23	délre	_	_	_	_	_	_	_	_
+24	lévő	_	_	_	_	_	_	_	_
+25	hegyekben	_	_	_	_	_	_	_	_
+26	keresnek	_	_	_	_	_	_	_	_
+27	menedéket	_	_	_	_	_	_	_	_
+28	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-162
+# text = — Ilyen megerőltető sorozat után feltehetően várja már a szezonzárást?
+1	—	_	_	_	_	_	_	_	_
+2	Ilyen	_	_	_	_	_	_	_	_
+3	megerőltető	_	_	_	_	_	_	_	_
+4	sorozat	_	_	_	_	_	_	_	_
+5	után	_	_	_	_	_	_	_	_
+6	feltehetően	_	_	_	_	_	_	_	_
+7	várja	_	_	_	_	_	_	_	_
+8	már	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	szezonzárást	_	_	_	_	_	_	_	_
+11	?	_	_	_	_	_	_	_	_
+
+# sent_id = dev-257
+# text = Ennek ellenére Fórián Zoltán szerint egyes élelmiszer-ipari ágazatokban újabb cégegyesülésekre, felvásárlásokra kell számítani.
+1	Ennek	_	_	_	_	_	_	_	_
+2	ellenére	_	_	_	_	_	_	_	_
+3	Fórián	_	_	_	_	_	_	_	_
+4	Zoltán	_	_	_	_	_	_	_	_
+5	szerint	_	_	_	_	_	_	_	_
+6	egyes	_	_	_	_	_	_	_	_
+7	élelmiszer-ipari	_	_	_	_	_	_	_	_
+8	ágazatokban	_	_	_	_	_	_	_	_
+9	újabb	_	_	_	_	_	_	_	_
+10	cégegyesülésekre	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	felvásárlásokra	_	_	_	_	_	_	_	_
+13	kell	_	_	_	_	_	_	_	_
+14	számítani	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-422
+# text = Schultz a számítottnál 5 millióval többre, 29 millió dollárra tett szert, záráskor pedig az általa 4 millióért megvett céget a piac 273 millió dollárra értékelte.
+1	Schultz	_	_	_	_	_	_	_	_
+2	a	_	_	_	_	_	_	_	_
+3	számítottnál	_	_	_	_	_	_	_	_
+4	5	_	_	_	_	_	_	_	_
+5	millióval	_	_	_	_	_	_	_	_
+6	többre	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	29	_	_	_	_	_	_	_	_
+9	millió	_	_	_	_	_	_	_	_
+10	dollárra	_	_	_	_	_	_	_	_
+11	tett	_	_	_	_	_	_	_	_
+12	szert	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	záráskor	_	_	_	_	_	_	_	_
+15	pedig	_	_	_	_	_	_	_	_
+16	az	_	_	_	_	_	_	_	_
+17	általa	_	_	_	_	_	_	_	_
+18	4	_	_	_	_	_	_	_	_
+19	millióért	_	_	_	_	_	_	_	_
+20	megvett	_	_	_	_	_	_	_	_
+21	céget	_	_	_	_	_	_	_	_
+22	a	_	_	_	_	_	_	_	_
+23	piac	_	_	_	_	_	_	_	_
+24	273	_	_	_	_	_	_	_	_
+25	millió	_	_	_	_	_	_	_	_
+26	dollárra	_	_	_	_	_	_	_	_
+27	értékelte	_	_	_	_	_	_	_	_
+28	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-858
+# text = Kulcskérdés, hogy a két említett tartományban meg tudja -e őrizni többségét, mert ha nem, akkor végleg elveszíti az esélyét annak, hogy a felsőház, a Bundesrat 69 szavazatából 35-öt megszerezzen a takarékossági csomagtervhez.
+1	Kulcskérdés	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	hogy	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	két	_	_	_	_	_	_	_	_
+6	említett	_	_	_	_	_	_	_	_
+7	tartományban	_	_	_	_	_	_	_	_
+8	meg	_	_	_	_	_	_	_	_
+9	tudja	_	_	_	_	_	_	_	_
+10	-e	_	_	_	_	_	_	_	_
+11	őrizni	_	_	_	_	_	_	_	_
+12	többségét	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	mert	_	_	_	_	_	_	_	_
+15	ha	_	_	_	_	_	_	_	_
+16	nem	_	_	_	_	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	akkor	_	_	_	_	_	_	_	_
+19	végleg	_	_	_	_	_	_	_	_
+20	elveszíti	_	_	_	_	_	_	_	_
+21	az	_	_	_	_	_	_	_	_
+22	esélyét	_	_	_	_	_	_	_	_
+23	annak	_	_	_	_	_	_	_	_
+24	,	_	_	_	_	_	_	_	_
+25	hogy	_	_	_	_	_	_	_	_
+26	a	_	_	_	_	_	_	_	_
+27	felsőház	_	_	_	_	_	_	_	_
+28	,	_	_	_	_	_	_	_	_
+29	a	_	_	_	_	_	_	_	_
+30	Bundesrat	_	_	_	_	_	_	_	_
+31	69	_	_	_	_	_	_	_	_
+32	szavazatából	_	_	_	_	_	_	_	_
+33	35-öt	_	_	_	_	_	_	_	_
+34	megszerezzen	_	_	_	_	_	_	_	_
+35	a	_	_	_	_	_	_	_	_
+36	takarékossági	_	_	_	_	_	_	_	_
+37	csomagtervhez	_	_	_	_	_	_	_	_
+38	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-276
+# text = Megdöbbentő látvány tárult a Samsung dolgozói elé, amikor a jászfényszarui gyárban felnyitottak egy Dél-Koreából érkezett konténert.
+1	Megdöbbentő	_	_	_	_	_	_	_	_
+2	látvány	_	_	_	_	_	_	_	_
+3	tárult	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	Samsung	_	_	_	_	_	_	_	_
+6	dolgozói	_	_	_	_	_	_	_	_
+7	elé	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	amikor	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	jászfényszarui	_	_	_	_	_	_	_	_
+12	gyárban	_	_	_	_	_	_	_	_
+13	felnyitottak	_	_	_	_	_	_	_	_
+14	egy	_	_	_	_	_	_	_	_
+15	Dél-Koreából	_	_	_	_	_	_	_	_
+16	érkezett	_	_	_	_	_	_	_	_
+17	konténert	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-75
+# text = Tudják, hogy az imént letakarított útszakaszra percek múlva vissza kell térniük.
+1	Tudják	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	hogy	_	_	_	_	_	_	_	_
+4	az	_	_	_	_	_	_	_	_
+5	imént	_	_	_	_	_	_	_	_
+6	letakarított	_	_	_	_	_	_	_	_
+7	útszakaszra	_	_	_	_	_	_	_	_
+8	percek	_	_	_	_	_	_	_	_
+9	múlva	_	_	_	_	_	_	_	_
+10	vissza	_	_	_	_	_	_	_	_
+11	kell	_	_	_	_	_	_	_	_
+12	térniük	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-881
+# text = A brit főtiszt és a volt svéd miniszterelnök derűlátásának alapja sokak szerint megkérdőjelezhető, hiszen a biztonsági helyzet javulásának hátterében elsősorban az áll, hogy néhány hét alatt tizedére csökkent a potenciális áldozatok száma: a mintegy 200 ezer szerb közül több mint 180 ezren távoztak, s hasonló a helyzet a romák, illetve a montenegróiak, sőt a szerbül beszélő koszovói muszlimok esetében is.
+1	A	_	_	_	_	_	_	_	_
+2	brit	_	_	_	_	_	_	_	_
+3	főtiszt	_	_	_	_	_	_	_	_
+4	és	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	volt	_	_	_	_	_	_	_	_
+7	svéd	_	_	_	_	_	_	_	_
+8	miniszterelnök	_	_	_	_	_	_	_	_
+9	derűlátásának	_	_	_	_	_	_	_	_
+10	alapja	_	_	_	_	_	_	_	_
+11	sokak	_	_	_	_	_	_	_	_
+12	szerint	_	_	_	_	_	_	_	_
+13	megkérdőjelezhető	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	hiszen	_	_	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	biztonsági	_	_	_	_	_	_	_	_
+18	helyzet	_	_	_	_	_	_	_	_
+19	javulásának	_	_	_	_	_	_	_	_
+20	hátterében	_	_	_	_	_	_	_	_
+21	elsősorban	_	_	_	_	_	_	_	_
+22	az	_	_	_	_	_	_	_	_
+23	áll	_	_	_	_	_	_	_	_
+24	,	_	_	_	_	_	_	_	_
+25	hogy	_	_	_	_	_	_	_	_
+26	néhány	_	_	_	_	_	_	_	_
+27	hét	_	_	_	_	_	_	_	_
+28	alatt	_	_	_	_	_	_	_	_
+29	tizedére	_	_	_	_	_	_	_	_
+30	csökkent	_	_	_	_	_	_	_	_
+31	a	_	_	_	_	_	_	_	_
+32	potenciális	_	_	_	_	_	_	_	_
+33	áldozatok	_	_	_	_	_	_	_	_
+34	száma	_	_	_	_	_	_	_	_
+35	:	_	_	_	_	_	_	_	_
+36	a	_	_	_	_	_	_	_	_
+37	mintegy	_	_	_	_	_	_	_	_
+38	200	_	_	_	_	_	_	_	_
+39	ezer	_	_	_	_	_	_	_	_
+40	szerb	_	_	_	_	_	_	_	_
+41	közül	_	_	_	_	_	_	_	_
+42	több	_	_	_	_	_	_	_	_
+43	mint	_	_	_	_	_	_	_	_
+44	180	_	_	_	_	_	_	_	_
+45	ezren	_	_	_	_	_	_	_	_
+46	távoztak	_	_	_	_	_	_	_	_
+47	,	_	_	_	_	_	_	_	_
+48	s	_	_	_	_	_	_	_	_
+49	hasonló	_	_	_	_	_	_	_	_
+50	a	_	_	_	_	_	_	_	_
+51	helyzet	_	_	_	_	_	_	_	_
+52	a	_	_	_	_	_	_	_	_
+53	romák	_	_	_	_	_	_	_	_
+54	,	_	_	_	_	_	_	_	_
+55	illetve	_	_	_	_	_	_	_	_
+56	a	_	_	_	_	_	_	_	_
+57	montenegróiak	_	_	_	_	_	_	_	_
+58	,	_	_	_	_	_	_	_	_
+59	sőt	_	_	_	_	_	_	_	_
+60	a	_	_	_	_	_	_	_	_
+61	szerbül	_	_	_	_	_	_	_	_
+62	beszélő	_	_	_	_	_	_	_	_
+63	koszovói	_	_	_	_	_	_	_	_
+64	muszlimok	_	_	_	_	_	_	_	_
+65	esetében	_	_	_	_	_	_	_	_
+66	is	_	_	_	_	_	_	_	_
+67	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-753
+# text = A társaság végelszámolással történő megszüntetéséről döntenek a Corso Rt. tulajdonosai a cipőkereskedelmi cég jövő hétre meghirdetett közgyűlésén.
+1	A	_	_	_	_	_	_	_	_
+2	társaság	_	_	_	_	_	_	_	_
+3	végelszámolással	_	_	_	_	_	_	_	_
+4	történő	_	_	_	_	_	_	_	_
+5	megszüntetéséről	_	_	_	_	_	_	_	_
+6	döntenek	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	Corso	_	_	_	_	_	_	_	_
+9	Rt.	_	_	_	_	_	_	_	_
+10	tulajdonosai	_	_	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	cipőkereskedelmi	_	_	_	_	_	_	_	_
+13	cég	_	_	_	_	_	_	_	_
+14	jövő	_	_	_	_	_	_	_	_
+15	hétre	_	_	_	_	_	_	_	_
+16	meghirdetett	_	_	_	_	_	_	_	_
+17	közgyűlésén	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-63
+# text = Helmeczy elmondta, hogy a Napi Magyarországgal szemben, amely szintén több cikkben foglalkozott családja ügyeivel, már legalább öt büntető- és személyiségi jogi pert kezdeményezett.
+1	Helmeczy	_	_	_	_	_	_	_	_
+2	elmondta	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	hogy	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	Napi	_	_	_	_	_	_	_	_
+7	Magyarországgal	_	_	_	_	_	_	_	_
+8	szemben	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	amely	_	_	_	_	_	_	_	_
+11	szintén	_	_	_	_	_	_	_	_
+12	több	_	_	_	_	_	_	_	_
+13	cikkben	_	_	_	_	_	_	_	_
+14	foglalkozott	_	_	_	_	_	_	_	_
+15	családja	_	_	_	_	_	_	_	_
+16	ügyeivel	_	_	_	_	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	már	_	_	_	_	_	_	_	_
+19	legalább	_	_	_	_	_	_	_	_
+20	öt	_	_	_	_	_	_	_	_
+21	büntető-	_	_	_	_	_	_	_	_
+22	és	_	_	_	_	_	_	_	_
+23	személyiségi	_	_	_	_	_	_	_	_
+24	jogi	_	_	_	_	_	_	_	_
+25	pert	_	_	_	_	_	_	_	_
+26	kezdeményezett	_	_	_	_	_	_	_	_
+27	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-336
+# text = Ha a szemlélő túlteszi magát az egy éve tartó és várhatóan tovább durvuló főváros-kormány vitán, akkor is látszik, hogy a nagyobb beruházások még közös finanszírozásban is túl nagy falatot jelentenének.
+1	Ha	_	_	_	_	_	_	_	_
+2	a	_	_	_	_	_	_	_	_
+3	szemlélő	_	_	_	_	_	_	_	_
+4	túlteszi	_	_	_	_	_	_	_	_
+5	magát	_	_	_	_	_	_	_	_
+6	az	_	_	_	_	_	_	_	_
+7	egy	_	_	_	_	_	_	_	_
+8	éve	_	_	_	_	_	_	_	_
+9	tartó	_	_	_	_	_	_	_	_
+10	és	_	_	_	_	_	_	_	_
+11	várhatóan	_	_	_	_	_	_	_	_
+12	tovább	_	_	_	_	_	_	_	_
+13	durvuló	_	_	_	_	_	_	_	_
+14	főváros-kormány	_	_	_	_	_	_	_	_
+15	vitán	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	akkor	_	_	_	_	_	_	_	_
+18	is	_	_	_	_	_	_	_	_
+19	látszik	_	_	_	_	_	_	_	_
+20	,	_	_	_	_	_	_	_	_
+21	hogy	_	_	_	_	_	_	_	_
+22	a	_	_	_	_	_	_	_	_
+23	nagyobb	_	_	_	_	_	_	_	_
+24	beruházások	_	_	_	_	_	_	_	_
+25	még	_	_	_	_	_	_	_	_
+26	közös	_	_	_	_	_	_	_	_
+27	finanszírozásban	_	_	_	_	_	_	_	_
+28	is	_	_	_	_	_	_	_	_
+29	túl	_	_	_	_	_	_	_	_
+30	nagy	_	_	_	_	_	_	_	_
+31	falatot	_	_	_	_	_	_	_	_
+32	jelentenének	_	_	_	_	_	_	_	_
+33	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-179
+# text = Zaporozsje megyeszékhelyen a leszakadt villanyvezetékek miatt rendkívüli állapotot vezettek be.
+1	Zaporozsje	_	_	_	_	_	_	_	_
+2	megyeszékhelyen	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	leszakadt	_	_	_	_	_	_	_	_
+5	villanyvezetékek	_	_	_	_	_	_	_	_
+6	miatt	_	_	_	_	_	_	_	_
+7	rendkívüli	_	_	_	_	_	_	_	_
+8	állapotot	_	_	_	_	_	_	_	_
+9	vezettek	_	_	_	_	_	_	_	_
+10	be	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-710
+# text = Ezekben az országokban 1997 és 1999 között megduplázódott az AIDS-esek száma.
+1	Ezekben	_	_	_	_	_	_	_	_
+2	az	_	_	_	_	_	_	_	_
+3	országokban	_	_	_	_	_	_	_	_
+4	1997	_	_	_	_	_	_	_	_
+5	és	_	_	_	_	_	_	_	_
+6	1999	_	_	_	_	_	_	_	_
+7	között	_	_	_	_	_	_	_	_
+8	megduplázódott	_	_	_	_	_	_	_	_
+9	az	_	_	_	_	_	_	_	_
+10	AIDS-esek	_	_	_	_	_	_	_	_
+11	száma	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-223
+# text = Azt is elmondta, a német RTL Nachtjournal című késő esti magazinját tekintik példaképnek, és műsorukkal a döntéshozó, felnőtt korú, aktív, jól kereső népességet célozzák meg.
+1	Azt	_	_	_	_	_	_	_	_
+2	is	_	_	_	_	_	_	_	_
+3	elmondta	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	német	_	_	_	_	_	_	_	_
+7	RTL	_	_	_	_	_	_	_	_
+8	Nachtjournal	_	_	_	_	_	_	_	_
+9	című	_	_	_	_	_	_	_	_
+10	késő	_	_	_	_	_	_	_	_
+11	esti	_	_	_	_	_	_	_	_
+12	magazinját	_	_	_	_	_	_	_	_
+13	tekintik	_	_	_	_	_	_	_	_
+14	példaképnek	_	_	_	_	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	és	_	_	_	_	_	_	_	_
+17	műsorukkal	_	_	_	_	_	_	_	_
+18	a	_	_	_	_	_	_	_	_
+19	döntéshozó	_	_	_	_	_	_	_	_
+20	,	_	_	_	_	_	_	_	_
+21	felnőtt	_	_	_	_	_	_	_	_
+22	korú	_	_	_	_	_	_	_	_
+23	,	_	_	_	_	_	_	_	_
+24	aktív	_	_	_	_	_	_	_	_
+25	,	_	_	_	_	_	_	_	_
+26	jól	_	_	_	_	_	_	_	_
+27	kereső	_	_	_	_	_	_	_	_
+28	népességet	_	_	_	_	_	_	_	_
+29	célozzák	_	_	_	_	_	_	_	_
+30	meg	_	_	_	_	_	_	_	_
+31	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-904
+# text = A Trajkovics-féle javaslatot a hivatalos Belgrád egyelőre nem kommentálta, ám szerbiai értesülések szerint a színfalak mögötti tárgyalások napirendjén mindig ott volt a Koszovó megosztását szorgalmazó javaslat.
+1	A	_	_	_	_	_	_	_	_
+2	Trajkovics-féle	_	_	_	_	_	_	_	_
+3	javaslatot	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	hivatalos	_	_	_	_	_	_	_	_
+6	Belgrád	_	_	_	_	_	_	_	_
+7	egyelőre	_	_	_	_	_	_	_	_
+8	nem	_	_	_	_	_	_	_	_
+9	kommentálta	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	ám	_	_	_	_	_	_	_	_
+12	szerbiai	_	_	_	_	_	_	_	_
+13	értesülések	_	_	_	_	_	_	_	_
+14	szerint	_	_	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	színfalak	_	_	_	_	_	_	_	_
+17	mögötti	_	_	_	_	_	_	_	_
+18	tárgyalások	_	_	_	_	_	_	_	_
+19	napirendjén	_	_	_	_	_	_	_	_
+20	mindig	_	_	_	_	_	_	_	_
+21	ott	_	_	_	_	_	_	_	_
+22	volt	_	_	_	_	_	_	_	_
+23	a	_	_	_	_	_	_	_	_
+24	Koszovó	_	_	_	_	_	_	_	_
+25	megosztását	_	_	_	_	_	_	_	_
+26	szorgalmazó	_	_	_	_	_	_	_	_
+27	javaslat	_	_	_	_	_	_	_	_
+28	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-377
+# text = — A szép beszéd egyébként is kiemelkedő szerephez jut pályáján, hiszen minden évben egyszer díjátadóként lép színpadra az Operaházban, hogy a szép magyar kiejtésért alapított elismerését az erre legméltóbbnak talált kollégájának átnyújtsa.
+1	—	_	_	_	_	_	_	_	_
+2	A	_	_	_	_	_	_	_	_
+3	szép	_	_	_	_	_	_	_	_
+4	beszéd	_	_	_	_	_	_	_	_
+5	egyébként	_	_	_	_	_	_	_	_
+6	is	_	_	_	_	_	_	_	_
+7	kiemelkedő	_	_	_	_	_	_	_	_
+8	szerephez	_	_	_	_	_	_	_	_
+9	jut	_	_	_	_	_	_	_	_
+10	pályáján	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	hiszen	_	_	_	_	_	_	_	_
+13	minden	_	_	_	_	_	_	_	_
+14	évben	_	_	_	_	_	_	_	_
+15	egyszer	_	_	_	_	_	_	_	_
+16	díjátadóként	_	_	_	_	_	_	_	_
+17	lép	_	_	_	_	_	_	_	_
+18	színpadra	_	_	_	_	_	_	_	_
+19	az	_	_	_	_	_	_	_	_
+20	Operaházban	_	_	_	_	_	_	_	_
+21	,	_	_	_	_	_	_	_	_
+22	hogy	_	_	_	_	_	_	_	_
+23	a	_	_	_	_	_	_	_	_
+24	szép	_	_	_	_	_	_	_	_
+25	magyar	_	_	_	_	_	_	_	_
+26	kiejtésért	_	_	_	_	_	_	_	_
+27	alapított	_	_	_	_	_	_	_	_
+28	elismerését	_	_	_	_	_	_	_	_
+29	az	_	_	_	_	_	_	_	_
+30	erre	_	_	_	_	_	_	_	_
+31	legméltóbbnak	_	_	_	_	_	_	_	_
+32	talált	_	_	_	_	_	_	_	_
+33	kollégájának	_	_	_	_	_	_	_	_
+34	átnyújtsa	_	_	_	_	_	_	_	_
+35	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-344
+# text = Ez pedig könnyen megrendítheti a válságból éppen kilábaló gazdaságot, ahogy történt 1997-ben, amikor a közepes chaebolnak számító Kia vált fizetésképtelenné, nyomában cégek egész sora kényszerült térdre, s végül Dél-Koreát az a megaláztatás érte, hogy el kellett fogadnia az IMF által közvetített 58 milliárd dolláros hitelcsomagot.
+1	Ez	_	_	_	_	_	_	_	_
+2	pedig	_	_	_	_	_	_	_	_
+3	könnyen	_	_	_	_	_	_	_	_
+4	megrendítheti	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	válságból	_	_	_	_	_	_	_	_
+7	éppen	_	_	_	_	_	_	_	_
+8	kilábaló	_	_	_	_	_	_	_	_
+9	gazdaságot	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	ahogy	_	_	_	_	_	_	_	_
+12	történt	_	_	_	_	_	_	_	_
+13	1997-ben	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	amikor	_	_	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	közepes	_	_	_	_	_	_	_	_
+18	chaebolnak	_	_	_	_	_	_	_	_
+19	számító	_	_	_	_	_	_	_	_
+20	Kia	_	_	_	_	_	_	_	_
+21	vált	_	_	_	_	_	_	_	_
+22	fizetésképtelenné	_	_	_	_	_	_	_	_
+23	,	_	_	_	_	_	_	_	_
+24	nyomában	_	_	_	_	_	_	_	_
+25	cégek	_	_	_	_	_	_	_	_
+26	egész	_	_	_	_	_	_	_	_
+27	sora	_	_	_	_	_	_	_	_
+28	kényszerült	_	_	_	_	_	_	_	_
+29	térdre	_	_	_	_	_	_	_	_
+30	,	_	_	_	_	_	_	_	_
+31	s	_	_	_	_	_	_	_	_
+32	végül	_	_	_	_	_	_	_	_
+33	Dél-Koreát	_	_	_	_	_	_	_	_
+34	az	_	_	_	_	_	_	_	_
+35	a	_	_	_	_	_	_	_	_
+36	megaláztatás	_	_	_	_	_	_	_	_
+37	érte	_	_	_	_	_	_	_	_
+38	,	_	_	_	_	_	_	_	_
+39	hogy	_	_	_	_	_	_	_	_
+40	el	_	_	_	_	_	_	_	_
+41	kellett	_	_	_	_	_	_	_	_
+42	fogadnia	_	_	_	_	_	_	_	_
+43	az	_	_	_	_	_	_	_	_
+44	IMF	_	_	_	_	_	_	_	_
+45	által	_	_	_	_	_	_	_	_
+46	közvetített	_	_	_	_	_	_	_	_
+47	58	_	_	_	_	_	_	_	_
+48	milliárd	_	_	_	_	_	_	_	_
+49	dolláros	_	_	_	_	_	_	_	_
+50	hitelcsomagot	_	_	_	_	_	_	_	_
+51	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-12
+# text = Az ebből származó kár legalább több száz-millió forint, ami az államot terheli.
+1	Az	_	_	_	_	_	_	_	_
+2	ebből	_	_	_	_	_	_	_	_
+3	származó	_	_	_	_	_	_	_	_
+4	kár	_	_	_	_	_	_	_	_
+5	legalább	_	_	_	_	_	_	_	_
+6	több	_	_	_	_	_	_	_	_
+7	száz-millió	_	_	_	_	_	_	_	_
+8	forint	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	ami	_	_	_	_	_	_	_	_
+11	az	_	_	_	_	_	_	_	_
+12	államot	_	_	_	_	_	_	_	_
+13	terheli	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-452
+# text = A festmény-, könyv- és műtárgy-aukcióknak különleges kultusza alakult ki az utóbbi időben Magyarországon.
+1	A	_	_	_	_	_	_	_	_
+2	festmény-	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	könyv-	_	_	_	_	_	_	_	_
+5	és	_	_	_	_	_	_	_	_
+6	műtárgy-aukcióknak	_	_	_	_	_	_	_	_
+7	különleges	_	_	_	_	_	_	_	_
+8	kultusza	_	_	_	_	_	_	_	_
+9	alakult	_	_	_	_	_	_	_	_
+10	ki	_	_	_	_	_	_	_	_
+11	az	_	_	_	_	_	_	_	_
+12	utóbbi	_	_	_	_	_	_	_	_
+13	időben	_	_	_	_	_	_	_	_
+14	Magyarországon	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-119
+# text = Így az önkormányzatok szja jogcímen kapott forrásai jövőre kétharmaddal lesznek kisebbek, mint jelenleg.
+1	Így	_	_	_	_	_	_	_	_
+2	az	_	_	_	_	_	_	_	_
+3	önkormányzatok	_	_	_	_	_	_	_	_
+4	szja	_	_	_	_	_	_	_	_
+5	jogcímen	_	_	_	_	_	_	_	_
+6	kapott	_	_	_	_	_	_	_	_
+7	forrásai	_	_	_	_	_	_	_	_
+8	jövőre	_	_	_	_	_	_	_	_
+9	kétharmaddal	_	_	_	_	_	_	_	_
+10	lesznek	_	_	_	_	_	_	_	_
+11	kisebbek	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	mint	_	_	_	_	_	_	_	_
+14	jelenleg	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-100
+# text = Az ezredes szerint nézőpont kérdése, hogy megtörtént -e a teljes körű tűzvédelmi próba.
+1	Az	_	_	_	_	_	_	_	_
+2	ezredes	_	_	_	_	_	_	_	_
+3	szerint	_	_	_	_	_	_	_	_
+4	nézőpont	_	_	_	_	_	_	_	_
+5	kérdése	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	hogy	_	_	_	_	_	_	_	_
+8	megtörtént	_	_	_	_	_	_	_	_
+9	-e	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	teljes	_	_	_	_	_	_	_	_
+12	körű	_	_	_	_	_	_	_	_
+13	tűzvédelmi	_	_	_	_	_	_	_	_
+14	próba	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-770
+# text = A Kravtex Kft.-t 1992-ben az orosz Atex-holding egyik tagja, az Avtoexport és egy magyar magánszemély, Krankovics István, a győri Rába egykori marketingigazgatója 3,5 millió forint törzstőkével alapította.
+1	A	_	_	_	_	_	_	_	_
+2	Kravtex	_	_	_	_	_	_	_	_
+3	Kft.-t	_	_	_	_	_	_	_	_
+4	1992-ben	_	_	_	_	_	_	_	_
+5	az	_	_	_	_	_	_	_	_
+6	orosz	_	_	_	_	_	_	_	_
+7	Atex-holding	_	_	_	_	_	_	_	_
+8	egyik	_	_	_	_	_	_	_	_
+9	tagja	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	az	_	_	_	_	_	_	_	_
+12	Avtoexport	_	_	_	_	_	_	_	_
+13	és	_	_	_	_	_	_	_	_
+14	egy	_	_	_	_	_	_	_	_
+15	magyar	_	_	_	_	_	_	_	_
+16	magánszemély	_	_	_	_	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	Krankovics	_	_	_	_	_	_	_	_
+19	István	_	_	_	_	_	_	_	_
+20	,	_	_	_	_	_	_	_	_
+21	a	_	_	_	_	_	_	_	_
+22	győri	_	_	_	_	_	_	_	_
+23	Rába	_	_	_	_	_	_	_	_
+24	egykori	_	_	_	_	_	_	_	_
+25	marketingigazgatója	_	_	_	_	_	_	_	_
+26	3,5	_	_	_	_	_	_	_	_
+27	millió	_	_	_	_	_	_	_	_
+28	forint	_	_	_	_	_	_	_	_
+29	törzstőkével	_	_	_	_	_	_	_	_
+30	alapította	_	_	_	_	_	_	_	_
+31	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-213
+# text = A szerződést a változtatások miatt újra a fővárosi közgyűlés elé kell vinni, amelyet az várhatóan még idén elfogad.
+1	A	_	_	_	_	_	_	_	_
+2	szerződést	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	változtatások	_	_	_	_	_	_	_	_
+5	miatt	_	_	_	_	_	_	_	_
+6	újra	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	fővárosi	_	_	_	_	_	_	_	_
+9	közgyűlés	_	_	_	_	_	_	_	_
+10	elé	_	_	_	_	_	_	_	_
+11	kell	_	_	_	_	_	_	_	_
+12	vinni	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	amelyet	_	_	_	_	_	_	_	_
+15	az	_	_	_	_	_	_	_	_
+16	várhatóan	_	_	_	_	_	_	_	_
+17	még	_	_	_	_	_	_	_	_
+18	idén	_	_	_	_	_	_	_	_
+19	elfogad	_	_	_	_	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-476
+# text = Örülök, ha azokkal a munkáimmal, amiket huszonöt év alatt csináltam, meg tudok tölteni egy-két szobát.
+1	Örülök	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	ha	_	_	_	_	_	_	_	_
+4	azokkal	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	munkáimmal	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	amiket	_	_	_	_	_	_	_	_
+9	huszonöt	_	_	_	_	_	_	_	_
+10	év	_	_	_	_	_	_	_	_
+11	alatt	_	_	_	_	_	_	_	_
+12	csináltam	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	meg	_	_	_	_	_	_	_	_
+15	tudok	_	_	_	_	_	_	_	_
+16	tölteni	_	_	_	_	_	_	_	_
+17	egy-két	_	_	_	_	_	_	_	_
+18	szobát	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-78
+# text = Világosi Gábor szerint a megfigyelési ügyben a fideszes Kosztolányi Dénes által készített bizottsági jelentéstervezetnek az a fő törekvése, hogy eltussolja a tényeket.
+1	Világosi	_	_	_	_	_	_	_	_
+2	Gábor	_	_	_	_	_	_	_	_
+3	szerint	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	megfigyelési	_	_	_	_	_	_	_	_
+6	ügyben	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	fideszes	_	_	_	_	_	_	_	_
+9	Kosztolányi	_	_	_	_	_	_	_	_
+10	Dénes	_	_	_	_	_	_	_	_
+11	által	_	_	_	_	_	_	_	_
+12	készített	_	_	_	_	_	_	_	_
+13	bizottsági	_	_	_	_	_	_	_	_
+14	jelentéstervezetnek	_	_	_	_	_	_	_	_
+15	az	_	_	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	fő	_	_	_	_	_	_	_	_
+18	törekvése	_	_	_	_	_	_	_	_
+19	,	_	_	_	_	_	_	_	_
+20	hogy	_	_	_	_	_	_	_	_
+21	eltussolja	_	_	_	_	_	_	_	_
+22	a	_	_	_	_	_	_	_	_
+23	tényeket	_	_	_	_	_	_	_	_
+24	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-233
+# text = Ezek a folyamatok néhány éven belül felgyorsulhatnak, hiszen már nálunk is működnek a nagy kereskedelmi láncok és minden jel arra mutat, hogy az európai élelmiszer-ipari vállalkozások is térségünkben fognak terjeszkedni.
+1	Ezek	_	_	_	_	_	_	_	_
+2	a	_	_	_	_	_	_	_	_
+3	folyamatok	_	_	_	_	_	_	_	_
+4	néhány	_	_	_	_	_	_	_	_
+5	éven	_	_	_	_	_	_	_	_
+6	belül	_	_	_	_	_	_	_	_
+7	felgyorsulhatnak	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	hiszen	_	_	_	_	_	_	_	_
+10	már	_	_	_	_	_	_	_	_
+11	nálunk	_	_	_	_	_	_	_	_
+12	is	_	_	_	_	_	_	_	_
+13	működnek	_	_	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	nagy	_	_	_	_	_	_	_	_
+16	kereskedelmi	_	_	_	_	_	_	_	_
+17	láncok	_	_	_	_	_	_	_	_
+18	és	_	_	_	_	_	_	_	_
+19	minden	_	_	_	_	_	_	_	_
+20	jel	_	_	_	_	_	_	_	_
+21	arra	_	_	_	_	_	_	_	_
+22	mutat	_	_	_	_	_	_	_	_
+23	,	_	_	_	_	_	_	_	_
+24	hogy	_	_	_	_	_	_	_	_
+25	az	_	_	_	_	_	_	_	_
+26	európai	_	_	_	_	_	_	_	_
+27	élelmiszer-ipari	_	_	_	_	_	_	_	_
+28	vállalkozások	_	_	_	_	_	_	_	_
+29	is	_	_	_	_	_	_	_	_
+30	térségünkben	_	_	_	_	_	_	_	_
+31	fognak	_	_	_	_	_	_	_	_
+32	terjeszkedni	_	_	_	_	_	_	_	_
+33	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-123
+# text = Új népszokás született, aki unatkozik, kimegy a ház elé, és elhányja a havat.
+1	Új	_	_	_	_	_	_	_	_
+2	népszokás	_	_	_	_	_	_	_	_
+3	született	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	aki	_	_	_	_	_	_	_	_
+6	unatkozik	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	kimegy	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	ház	_	_	_	_	_	_	_	_
+11	elé	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	és	_	_	_	_	_	_	_	_
+14	elhányja	_	_	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	havat	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-416
+# text = Ráadásul azt gondolom, hogy az én muzsikám a hallgathatóbb, populárisabb kortárs zenék közé tartozik.
+1	Ráadásul	_	_	_	_	_	_	_	_
+2	azt	_	_	_	_	_	_	_	_
+3	gondolom	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	hogy	_	_	_	_	_	_	_	_
+6	az	_	_	_	_	_	_	_	_
+7	én	_	_	_	_	_	_	_	_
+8	muzsikám	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	hallgathatóbb	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	populárisabb	_	_	_	_	_	_	_	_
+13	kortárs	_	_	_	_	_	_	_	_
+14	zenék	_	_	_	_	_	_	_	_
+15	közé	_	_	_	_	_	_	_	_
+16	tartozik	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-398
+# text = Kicserélték a Konzumbank vezető tisztségviselőit is: az igazgatóság új elnöke a lemondott Pázmándi Gyula helyett Baranyai László, az MFB ügyvezető igazgatója lett, alelnök pedig a júliusban távozott vezérigazgató, Szabóné Pákozdi Éva utódaként Szász Károly, akit egyben kineveztek vezérigazgatónak.
+1	Kicserélték	_	_	_	_	_	_	_	_
+2	a	_	_	_	_	_	_	_	_
+3	Konzumbank	_	_	_	_	_	_	_	_
+4	vezető	_	_	_	_	_	_	_	_
+5	tisztségviselőit	_	_	_	_	_	_	_	_
+6	is	_	_	_	_	_	_	_	_
+7	:	_	_	_	_	_	_	_	_
+8	az	_	_	_	_	_	_	_	_
+9	igazgatóság	_	_	_	_	_	_	_	_
+10	új	_	_	_	_	_	_	_	_
+11	elnöke	_	_	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	lemondott	_	_	_	_	_	_	_	_
+14	Pázmándi	_	_	_	_	_	_	_	_
+15	Gyula	_	_	_	_	_	_	_	_
+16	helyett	_	_	_	_	_	_	_	_
+17	Baranyai	_	_	_	_	_	_	_	_
+18	László	_	_	_	_	_	_	_	_
+19	,	_	_	_	_	_	_	_	_
+20	az	_	_	_	_	_	_	_	_
+21	MFB	_	_	_	_	_	_	_	_
+22	ügyvezető	_	_	_	_	_	_	_	_
+23	igazgatója	_	_	_	_	_	_	_	_
+24	lett	_	_	_	_	_	_	_	_
+25	,	_	_	_	_	_	_	_	_
+26	alelnök	_	_	_	_	_	_	_	_
+27	pedig	_	_	_	_	_	_	_	_
+28	a	_	_	_	_	_	_	_	_
+29	júliusban	_	_	_	_	_	_	_	_
+30	távozott	_	_	_	_	_	_	_	_
+31	vezérigazgató	_	_	_	_	_	_	_	_
+32	,	_	_	_	_	_	_	_	_
+33	Szabóné	_	_	_	_	_	_	_	_
+34	Pákozdi	_	_	_	_	_	_	_	_
+35	Éva	_	_	_	_	_	_	_	_
+36	utódaként	_	_	_	_	_	_	_	_
+37	Szász	_	_	_	_	_	_	_	_
+38	Károly	_	_	_	_	_	_	_	_
+39	,	_	_	_	_	_	_	_	_
+40	akit	_	_	_	_	_	_	_	_
+41	egyben	_	_	_	_	_	_	_	_
+42	kineveztek	_	_	_	_	_	_	_	_
+43	vezérigazgatónak	_	_	_	_	_	_	_	_
+44	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-227
+# text = A díjazottak nekik tetszenek.
+1	A	_	_	_	_	_	_	_	_
+2	díjazottak	_	_	_	_	_	_	_	_
+3	nekik	_	_	_	_	_	_	_	_
+4	tetszenek	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-258
+# text = (Radnóti a második transzportban volt.)
+1	(	_	_	_	_	_	_	_	_
+2	Radnóti	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	második	_	_	_	_	_	_	_	_
+5	transzportban	_	_	_	_	_	_	_	_
+6	volt	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+8	)	_	_	_	_	_	_	_	_
+
+# sent_id = train-601
+# text = A nisi polgármesteri hivataltól származó értesüléseink szerint a szerbiai városba szerda este megérkezett a 10 teherautó, amely az Európai Unió és a szerb ellenzék között létrejött megállapodás értelmében fűtőolajat szállít az ellenzéki vezetésű, közép-szerbiai településnek.
+1	A	_	_	_	_	_	_	_	_
+2	nisi	_	_	_	_	_	_	_	_
+3	polgármesteri	_	_	_	_	_	_	_	_
+4	hivataltól	_	_	_	_	_	_	_	_
+5	származó	_	_	_	_	_	_	_	_
+6	értesüléseink	_	_	_	_	_	_	_	_
+7	szerint	_	_	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	szerbiai	_	_	_	_	_	_	_	_
+10	városba	_	_	_	_	_	_	_	_
+11	szerda	_	_	_	_	_	_	_	_
+12	este	_	_	_	_	_	_	_	_
+13	megérkezett	_	_	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	10	_	_	_	_	_	_	_	_
+16	teherautó	_	_	_	_	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	amely	_	_	_	_	_	_	_	_
+19	az	_	_	_	_	_	_	_	_
+20	Európai	_	_	_	_	_	_	_	_
+21	Unió	_	_	_	_	_	_	_	_
+22	és	_	_	_	_	_	_	_	_
+23	a	_	_	_	_	_	_	_	_
+24	szerb	_	_	_	_	_	_	_	_
+25	ellenzék	_	_	_	_	_	_	_	_
+26	között	_	_	_	_	_	_	_	_
+27	létrejött	_	_	_	_	_	_	_	_
+28	megállapodás	_	_	_	_	_	_	_	_
+29	értelmében	_	_	_	_	_	_	_	_
+30	fűtőolajat	_	_	_	_	_	_	_	_
+31	szállít	_	_	_	_	_	_	_	_
+32	az	_	_	_	_	_	_	_	_
+33	ellenzéki	_	_	_	_	_	_	_	_
+34	vezetésű	_	_	_	_	_	_	_	_
+35	,	_	_	_	_	_	_	_	_
+36	közép-szerbiai	_	_	_	_	_	_	_	_
+37	településnek	_	_	_	_	_	_	_	_
+38	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-73
+# text = A tagok támogatták azt a módosító javaslatot, mely a Mező Ferenc Közalapítvány jövő évi ötmillió forintos központi támogatását tízmillióval növelné.
+1	A	_	_	_	_	_	_	_	_
+2	tagok	_	_	_	_	_	_	_	_
+3	támogatták	_	_	_	_	_	_	_	_
+4	azt	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	módosító	_	_	_	_	_	_	_	_
+7	javaslatot	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	mely	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	Mező	_	_	_	_	_	_	_	_
+12	Ferenc	_	_	_	_	_	_	_	_
+13	Közalapítvány	_	_	_	_	_	_	_	_
+14	jövő	_	_	_	_	_	_	_	_
+15	évi	_	_	_	_	_	_	_	_
+16	ötmillió	_	_	_	_	_	_	_	_
+17	forintos	_	_	_	_	_	_	_	_
+18	központi	_	_	_	_	_	_	_	_
+19	támogatását	_	_	_	_	_	_	_	_
+20	tízmillióval	_	_	_	_	_	_	_	_
+21	növelné	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-393
+# text = Így a Gazprom hiába növelte az előző évihez képest 3 százalékkal 120,5 milliárd köbméterre a földgáz exportját, valutabevételei csökkentek.
+1	Így	_	_	_	_	_	_	_	_
+2	a	_	_	_	_	_	_	_	_
+3	Gazprom	_	_	_	_	_	_	_	_
+4	hiába	_	_	_	_	_	_	_	_
+5	növelte	_	_	_	_	_	_	_	_
+6	az	_	_	_	_	_	_	_	_
+7	előző	_	_	_	_	_	_	_	_
+8	évihez	_	_	_	_	_	_	_	_
+9	képest	_	_	_	_	_	_	_	_
+10	3	_	_	_	_	_	_	_	_
+11	százalékkal	_	_	_	_	_	_	_	_
+12	120,5	_	_	_	_	_	_	_	_
+13	milliárd	_	_	_	_	_	_	_	_
+14	köbméterre	_	_	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	földgáz	_	_	_	_	_	_	_	_
+17	exportját	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	valutabevételei	_	_	_	_	_	_	_	_
+20	csökkentek	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-137
+# text = S azt sem, hogy emlékeik felélednek -e majd, ha jövőre kocsit kell venni az önkéntes tűzoltóknak vagy hálájuk elolvad tavasszal a ma még legyőzhetetlennek tűnő hóval együtt.
+1	S	_	_	_	_	_	_	_	_
+2	azt	_	_	_	_	_	_	_	_
+3	sem	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	hogy	_	_	_	_	_	_	_	_
+6	emlékeik	_	_	_	_	_	_	_	_
+7	felélednek	_	_	_	_	_	_	_	_
+8	-e	_	_	_	_	_	_	_	_
+9	majd	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	ha	_	_	_	_	_	_	_	_
+12	jövőre	_	_	_	_	_	_	_	_
+13	kocsit	_	_	_	_	_	_	_	_
+14	kell	_	_	_	_	_	_	_	_
+15	venni	_	_	_	_	_	_	_	_
+16	az	_	_	_	_	_	_	_	_
+17	önkéntes	_	_	_	_	_	_	_	_
+18	tűzoltóknak	_	_	_	_	_	_	_	_
+19	vagy	_	_	_	_	_	_	_	_
+20	hálájuk	_	_	_	_	_	_	_	_
+21	elolvad	_	_	_	_	_	_	_	_
+22	tavasszal	_	_	_	_	_	_	_	_
+23	a	_	_	_	_	_	_	_	_
+24	ma	_	_	_	_	_	_	_	_
+25	még	_	_	_	_	_	_	_	_
+26	legyőzhetetlennek	_	_	_	_	_	_	_	_
+27	tűnő	_	_	_	_	_	_	_	_
+28	hóval	_	_	_	_	_	_	_	_
+29	együtt	_	_	_	_	_	_	_	_
+30	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-99
+# text = A tűzoltóparancsnok szerint a 2/B terminál a legkorszerűbb tűzvédelmi rendszerekkel lett felszerelve.
+1	A	_	_	_	_	_	_	_	_
+2	tűzoltóparancsnok	_	_	_	_	_	_	_	_
+3	szerint	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	2/B	_	_	_	_	_	_	_	_
+6	terminál	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	legkorszerűbb	_	_	_	_	_	_	_	_
+9	tűzvédelmi	_	_	_	_	_	_	_	_
+10	rendszerekkel	_	_	_	_	_	_	_	_
+11	lett	_	_	_	_	_	_	_	_
+12	felszerelve	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-280
+# text = A bizalmas együttlétek persze módot adtak némely csevegésekre is.
+1	A	_	_	_	_	_	_	_	_
+2	bizalmas	_	_	_	_	_	_	_	_
+3	együttlétek	_	_	_	_	_	_	_	_
+4	persze	_	_	_	_	_	_	_	_
+5	módot	_	_	_	_	_	_	_	_
+6	adtak	_	_	_	_	_	_	_	_
+7	némely	_	_	_	_	_	_	_	_
+8	csevegésekre	_	_	_	_	_	_	_	_
+9	is	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-242
+# text = Pedig csöndes lélek lakozott benne, túlságosan is.
+1	Pedig	_	_	_	_	_	_	_	_
+2	csöndes	_	_	_	_	_	_	_	_
+3	lélek	_	_	_	_	_	_	_	_
+4	lakozott	_	_	_	_	_	_	_	_
+5	benne	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	túlságosan	_	_	_	_	_	_	_	_
+8	is	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-477
+# text = Nem szeretem a zsúfoltságot, egy zsúfolt kiállításról jobb az elején kijönni, mielőtt elfolyik a maradék életerőnk.
+1	Nem	_	_	_	_	_	_	_	_
+2	szeretem	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	zsúfoltságot	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	egy	_	_	_	_	_	_	_	_
+7	zsúfolt	_	_	_	_	_	_	_	_
+8	kiállításról	_	_	_	_	_	_	_	_
+9	jobb	_	_	_	_	_	_	_	_
+10	az	_	_	_	_	_	_	_	_
+11	elején	_	_	_	_	_	_	_	_
+12	kijönni	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	mielőtt	_	_	_	_	_	_	_	_
+15	elfolyik	_	_	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	maradék	_	_	_	_	_	_	_	_
+18	életerőnk	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-218
+# text = Igaz, csak egy óra 45 perc árán adta meg magát a világranglista 4. svéd Thomas Enqvistnek (6-4, 7-5).
+1	Igaz	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	csak	_	_	_	_	_	_	_	_
+4	egy	_	_	_	_	_	_	_	_
+5	óra	_	_	_	_	_	_	_	_
+6	45	_	_	_	_	_	_	_	_
+7	perc	_	_	_	_	_	_	_	_
+8	árán	_	_	_	_	_	_	_	_
+9	adta	_	_	_	_	_	_	_	_
+10	meg	_	_	_	_	_	_	_	_
+11	magát	_	_	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	világranglista	_	_	_	_	_	_	_	_
+14	4.	_	_	_	_	_	_	_	_
+15	svéd	_	_	_	_	_	_	_	_
+16	Thomas	_	_	_	_	_	_	_	_
+17	Enqvistnek	_	_	_	_	_	_	_	_
+18	(	_	_	_	_	_	_	_	_
+19	6-4	_	_	_	_	_	_	_	_
+20	,	_	_	_	_	_	_	_	_
+21	7-5	_	_	_	_	_	_	_	_
+22	)	_	_	_	_	_	_	_	_
+23	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-198
+# text = Mindkét bizottság elfogadta a javaslatot, parlamenti vitára alkalmasnak találta.
+1	Mindkét	_	_	_	_	_	_	_	_
+2	bizottság	_	_	_	_	_	_	_	_
+3	elfogadta	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	javaslatot	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	parlamenti	_	_	_	_	_	_	_	_
+8	vitára	_	_	_	_	_	_	_	_
+9	alkalmasnak	_	_	_	_	_	_	_	_
+10	találta	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-612
+# text = A koszovói háború idején kirobbant konvojügy, az orosz KFOR-gépek átrepülése körüli bonyodalom, legutóbb pedig Orbán Viktor kanadai nyilatkozata váltott ki ingerült reakciókat Moszkvában.
+1	A	_	_	_	_	_	_	_	_
+2	koszovói	_	_	_	_	_	_	_	_
+3	háború	_	_	_	_	_	_	_	_
+4	idején	_	_	_	_	_	_	_	_
+5	kirobbant	_	_	_	_	_	_	_	_
+6	konvojügy	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	az	_	_	_	_	_	_	_	_
+9	orosz	_	_	_	_	_	_	_	_
+10	KFOR-gépek	_	_	_	_	_	_	_	_
+11	átrepülése	_	_	_	_	_	_	_	_
+12	körüli	_	_	_	_	_	_	_	_
+13	bonyodalom	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	legutóbb	_	_	_	_	_	_	_	_
+16	pedig	_	_	_	_	_	_	_	_
+17	Orbán	_	_	_	_	_	_	_	_
+18	Viktor	_	_	_	_	_	_	_	_
+19	kanadai	_	_	_	_	_	_	_	_
+20	nyilatkozata	_	_	_	_	_	_	_	_
+21	váltott	_	_	_	_	_	_	_	_
+22	ki	_	_	_	_	_	_	_	_
+23	ingerült	_	_	_	_	_	_	_	_
+24	reakciókat	_	_	_	_	_	_	_	_
+25	Moszkvában	_	_	_	_	_	_	_	_
+26	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-478
+# text = Ezért szeretem ezt a kiállítást a Mai Manó Házban: itt csak egy tárgy van.
+1	Ezért	_	_	_	_	_	_	_	_
+2	szeretem	_	_	_	_	_	_	_	_
+3	ezt	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	kiállítást	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	Mai	_	_	_	_	_	_	_	_
+8	Manó	_	_	_	_	_	_	_	_
+9	Házban	_	_	_	_	_	_	_	_
+10	:	_	_	_	_	_	_	_	_
+11	itt	_	_	_	_	_	_	_	_
+12	csak	_	_	_	_	_	_	_	_
+13	egy	_	_	_	_	_	_	_	_
+14	tárgy	_	_	_	_	_	_	_	_
+15	van	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-146
+# text = Az ellenzék kivonult, ugyanis a városvezető koalíció olyan módosító indítványt csatolt a határozathoz, amely a kormányra hárítja a felelősséget, hogy Budapestet sújtó költségvetési elvonásai miatt nem lehet tartani a fejlesztések ütemét.
+1	Az	_	_	_	_	_	_	_	_
+2	ellenzék	_	_	_	_	_	_	_	_
+3	kivonult	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	ugyanis	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	városvezető	_	_	_	_	_	_	_	_
+8	koalíció	_	_	_	_	_	_	_	_
+9	olyan	_	_	_	_	_	_	_	_
+10	módosító	_	_	_	_	_	_	_	_
+11	indítványt	_	_	_	_	_	_	_	_
+12	csatolt	_	_	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	határozathoz	_	_	_	_	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	amely	_	_	_	_	_	_	_	_
+17	a	_	_	_	_	_	_	_	_
+18	kormányra	_	_	_	_	_	_	_	_
+19	hárítja	_	_	_	_	_	_	_	_
+20	a	_	_	_	_	_	_	_	_
+21	felelősséget	_	_	_	_	_	_	_	_
+22	,	_	_	_	_	_	_	_	_
+23	hogy	_	_	_	_	_	_	_	_
+24	Budapestet	_	_	_	_	_	_	_	_
+25	sújtó	_	_	_	_	_	_	_	_
+26	költségvetési	_	_	_	_	_	_	_	_
+27	elvonásai	_	_	_	_	_	_	_	_
+28	miatt	_	_	_	_	_	_	_	_
+29	nem	_	_	_	_	_	_	_	_
+30	lehet	_	_	_	_	_	_	_	_
+31	tartani	_	_	_	_	_	_	_	_
+32	a	_	_	_	_	_	_	_	_
+33	fejlesztések	_	_	_	_	_	_	_	_
+34	ütemét	_	_	_	_	_	_	_	_
+35	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-41
+# text = A külkereskedelmi mérleg hiánya kisebb lesz, mint amire tavaly a gazdasági szakértők számítottak.
+1	A	_	_	_	_	_	_	_	_
+2	külkereskedelmi	_	_	_	_	_	_	_	_
+3	mérleg	_	_	_	_	_	_	_	_
+4	hiánya	_	_	_	_	_	_	_	_
+5	kisebb	_	_	_	_	_	_	_	_
+6	lesz	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	mint	_	_	_	_	_	_	_	_
+9	amire	_	_	_	_	_	_	_	_
+10	tavaly	_	_	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	gazdasági	_	_	_	_	_	_	_	_
+13	szakértők	_	_	_	_	_	_	_	_
+14	számítottak	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-736
+# text = Egy év után Simicska Lajos feladta: az adóhivatal elnöke családi halálesetekre és az ellene irányuló folyamatos támadásokra hivatkozva kedden — miután találkozott Orbán Viktor miniszterelnökkel — lemondott.
+1	Egy	_	_	_	_	_	_	_	_
+2	év	_	_	_	_	_	_	_	_
+3	után	_	_	_	_	_	_	_	_
+4	Simicska	_	_	_	_	_	_	_	_
+5	Lajos	_	_	_	_	_	_	_	_
+6	feladta	_	_	_	_	_	_	_	_
+7	:	_	_	_	_	_	_	_	_
+8	az	_	_	_	_	_	_	_	_
+9	adóhivatal	_	_	_	_	_	_	_	_
+10	elnöke	_	_	_	_	_	_	_	_
+11	családi	_	_	_	_	_	_	_	_
+12	halálesetekre	_	_	_	_	_	_	_	_
+13	és	_	_	_	_	_	_	_	_
+14	az	_	_	_	_	_	_	_	_
+15	ellene	_	_	_	_	_	_	_	_
+16	irányuló	_	_	_	_	_	_	_	_
+17	folyamatos	_	_	_	_	_	_	_	_
+18	támadásokra	_	_	_	_	_	_	_	_
+19	hivatkozva	_	_	_	_	_	_	_	_
+20	kedden	_	_	_	_	_	_	_	_
+21	—	_	_	_	_	_	_	_	_
+22	miután	_	_	_	_	_	_	_	_
+23	találkozott	_	_	_	_	_	_	_	_
+24	Orbán	_	_	_	_	_	_	_	_
+25	Viktor	_	_	_	_	_	_	_	_
+26	miniszterelnökkel	_	_	_	_	_	_	_	_
+27	—	_	_	_	_	_	_	_	_
+28	lemondott	_	_	_	_	_	_	_	_
+29	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-1
+# text = Az ezredfordulós szilveszter valószínűleg az átlagos év véginél komolyabb feladatokat ró a sürgősségi betegellátás szervezeteire és a rendőrségre.
+1	Az	_	_	_	_	_	_	_	_
+2	ezredfordulós	_	_	_	_	_	_	_	_
+3	szilveszter	_	_	_	_	_	_	_	_
+4	valószínűleg	_	_	_	_	_	_	_	_
+5	az	_	_	_	_	_	_	_	_
+6	átlagos	_	_	_	_	_	_	_	_
+7	év	_	_	_	_	_	_	_	_
+8	véginél	_	_	_	_	_	_	_	_
+9	komolyabb	_	_	_	_	_	_	_	_
+10	feladatokat	_	_	_	_	_	_	_	_
+11	ró	_	_	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	sürgősségi	_	_	_	_	_	_	_	_
+14	betegellátás	_	_	_	_	_	_	_	_
+15	szervezeteire	_	_	_	_	_	_	_	_
+16	és	_	_	_	_	_	_	_	_
+17	a	_	_	_	_	_	_	_	_
+18	rendőrségre	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-274
+# text = "Magyar orvos nem kell!" mondta Tito, ami tökéletesen megfelelt az akkori és az ottani közhangulatnak.
+1	"	_	_	_	_	_	_	_	_
+2	Magyar	_	_	_	_	_	_	_	_
+3	orvos	_	_	_	_	_	_	_	_
+4	nem	_	_	_	_	_	_	_	_
+5	kell	_	_	_	_	_	_	_	_
+6	!	_	_	_	_	_	_	_	_
+7	"	_	_	_	_	_	_	_	_
+8	mondta	_	_	_	_	_	_	_	_
+9	Tito	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	ami	_	_	_	_	_	_	_	_
+12	tökéletesen	_	_	_	_	_	_	_	_
+13	megfelelt	_	_	_	_	_	_	_	_
+14	az	_	_	_	_	_	_	_	_
+15	akkori	_	_	_	_	_	_	_	_
+16	és	_	_	_	_	_	_	_	_
+17	az	_	_	_	_	_	_	_	_
+18	ottani	_	_	_	_	_	_	_	_
+19	közhangulatnak	_	_	_	_	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-767
+# text = Elővárosi közlekedésre alkalmas, mintegy 30 személyes midibusz sorozatgyártását kezdte meg a héten a győri székhelyű, 300 millió forint törzstőkéjű, mintegy 1 milliárd forint saját vagyonú Kravtex Kft. a 87 százalékos tulajdonában lévő mosonmagyaróvári Kühne Mezőgazdasági Gépgyár Rt.-vel közösen.
+1	Elővárosi	_	_	_	_	_	_	_	_
+2	közlekedésre	_	_	_	_	_	_	_	_
+3	alkalmas	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	mintegy	_	_	_	_	_	_	_	_
+6	30	_	_	_	_	_	_	_	_
+7	személyes	_	_	_	_	_	_	_	_
+8	midibusz	_	_	_	_	_	_	_	_
+9	sorozatgyártását	_	_	_	_	_	_	_	_
+10	kezdte	_	_	_	_	_	_	_	_
+11	meg	_	_	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	héten	_	_	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	győri	_	_	_	_	_	_	_	_
+16	székhelyű	_	_	_	_	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	300	_	_	_	_	_	_	_	_
+19	millió	_	_	_	_	_	_	_	_
+20	forint	_	_	_	_	_	_	_	_
+21	törzstőkéjű	_	_	_	_	_	_	_	_
+22	,	_	_	_	_	_	_	_	_
+23	mintegy	_	_	_	_	_	_	_	_
+24	1	_	_	_	_	_	_	_	_
+25	milliárd	_	_	_	_	_	_	_	_
+26	forint	_	_	_	_	_	_	_	_
+27	saját	_	_	_	_	_	_	_	_
+28	vagyonú	_	_	_	_	_	_	_	_
+29	Kravtex	_	_	_	_	_	_	_	_
+30	Kft.	_	_	_	_	_	_	_	_
+31	a	_	_	_	_	_	_	_	_
+32	87	_	_	_	_	_	_	_	_
+33	százalékos	_	_	_	_	_	_	_	_
+34	tulajdonában	_	_	_	_	_	_	_	_
+35	lévő	_	_	_	_	_	_	_	_
+36	mosonmagyaróvári	_	_	_	_	_	_	_	_
+37	Kühne	_	_	_	_	_	_	_	_
+38	Mezőgazdasági	_	_	_	_	_	_	_	_
+39	Gépgyár	_	_	_	_	_	_	_	_
+40	Rt.-vel	_	_	_	_	_	_	_	_
+41	közösen	_	_	_	_	_	_	_	_
+42	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-136
+# text = Azt azonban nem lehet tudni, vajon megfogadják -e legközelebb az otthonmaradásra ösztönző jó tanácsot.
+1	Azt	_	_	_	_	_	_	_	_
+2	azonban	_	_	_	_	_	_	_	_
+3	nem	_	_	_	_	_	_	_	_
+4	lehet	_	_	_	_	_	_	_	_
+5	tudni	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	vajon	_	_	_	_	_	_	_	_
+8	megfogadják	_	_	_	_	_	_	_	_
+9	-e	_	_	_	_	_	_	_	_
+10	legközelebb	_	_	_	_	_	_	_	_
+11	az	_	_	_	_	_	_	_	_
+12	otthonmaradásra	_	_	_	_	_	_	_	_
+13	ösztönző	_	_	_	_	_	_	_	_
+14	jó	_	_	_	_	_	_	_	_
+15	tanácsot	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-216
+# text = Minden kimondhatóvá vált, amit nem tilt törvény, írott szabály.
+1	Minden	_	_	_	_	_	_	_	_
+2	kimondhatóvá	_	_	_	_	_	_	_	_
+3	vált	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	amit	_	_	_	_	_	_	_	_
+6	nem	_	_	_	_	_	_	_	_
+7	tilt	_	_	_	_	_	_	_	_
+8	törvény	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	írott	_	_	_	_	_	_	_	_
+11	szabály	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-310
+# text = Amikor nem olyan régen a balkáni háborúról olvastam, bevallom, csak és kizárólag öreg orvos barátomra gondoltam.
+1	Amikor	_	_	_	_	_	_	_	_
+2	nem	_	_	_	_	_	_	_	_
+3	olyan	_	_	_	_	_	_	_	_
+4	régen	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	balkáni	_	_	_	_	_	_	_	_
+7	háborúról	_	_	_	_	_	_	_	_
+8	olvastam	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	bevallom	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	csak	_	_	_	_	_	_	_	_
+13	és	_	_	_	_	_	_	_	_
+14	kizárólag	_	_	_	_	_	_	_	_
+15	öreg	_	_	_	_	_	_	_	_
+16	orvos	_	_	_	_	_	_	_	_
+17	barátomra	_	_	_	_	_	_	_	_
+18	gondoltam	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-684
+# text = II. János Pál pápa már júniusi, majd szeptemberi levelében is bírálta a német püspökségek részvételét a terhes nőknek szervezett állami tanácsadásban, azt vetve a szemükre, hogy az igazolások kiállításával lehetővé teszik meg nem született életek elpusztítását.
+1	II.	_	_	_	_	_	_	_	_
+2	János	_	_	_	_	_	_	_	_
+3	Pál	_	_	_	_	_	_	_	_
+4	pápa	_	_	_	_	_	_	_	_
+5	már	_	_	_	_	_	_	_	_
+6	júniusi	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	majd	_	_	_	_	_	_	_	_
+9	szeptemberi	_	_	_	_	_	_	_	_
+10	levelében	_	_	_	_	_	_	_	_
+11	is	_	_	_	_	_	_	_	_
+12	bírálta	_	_	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	német	_	_	_	_	_	_	_	_
+15	püspökségek	_	_	_	_	_	_	_	_
+16	részvételét	_	_	_	_	_	_	_	_
+17	a	_	_	_	_	_	_	_	_
+18	terhes	_	_	_	_	_	_	_	_
+19	nőknek	_	_	_	_	_	_	_	_
+20	szervezett	_	_	_	_	_	_	_	_
+21	állami	_	_	_	_	_	_	_	_
+22	tanácsadásban	_	_	_	_	_	_	_	_
+23	,	_	_	_	_	_	_	_	_
+24	azt	_	_	_	_	_	_	_	_
+25	vetve	_	_	_	_	_	_	_	_
+26	a	_	_	_	_	_	_	_	_
+27	szemükre	_	_	_	_	_	_	_	_
+28	,	_	_	_	_	_	_	_	_
+29	hogy	_	_	_	_	_	_	_	_
+30	az	_	_	_	_	_	_	_	_
+31	igazolások	_	_	_	_	_	_	_	_
+32	kiállításával	_	_	_	_	_	_	_	_
+33	lehetővé	_	_	_	_	_	_	_	_
+34	teszik	_	_	_	_	_	_	_	_
+35	meg	_	_	_	_	_	_	_	_
+36	nem	_	_	_	_	_	_	_	_
+37	született	_	_	_	_	_	_	_	_
+38	életek	_	_	_	_	_	_	_	_
+39	elpusztítását	_	_	_	_	_	_	_	_
+40	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-72
+# text = A bizottság a labdarúgás-fejlesztési programról meghallgatta Dénes Ferencet, az ISM helyettes államtitkárát, aki többek között elmondta: a minisztérium jövőre egyes előirányzott feladatok végrehajtását jelentős összegekkel támogatja.
+1	A	_	_	_	_	_	_	_	_
+2	bizottság	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	labdarúgás-fejlesztési	_	_	_	_	_	_	_	_
+5	programról	_	_	_	_	_	_	_	_
+6	meghallgatta	_	_	_	_	_	_	_	_
+7	Dénes	_	_	_	_	_	_	_	_
+8	Ferencet	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	az	_	_	_	_	_	_	_	_
+11	ISM	_	_	_	_	_	_	_	_
+12	helyettes	_	_	_	_	_	_	_	_
+13	államtitkárát	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	aki	_	_	_	_	_	_	_	_
+16	többek	_	_	_	_	_	_	_	_
+17	között	_	_	_	_	_	_	_	_
+18	elmondta	_	_	_	_	_	_	_	_
+19	:	_	_	_	_	_	_	_	_
+20	a	_	_	_	_	_	_	_	_
+21	minisztérium	_	_	_	_	_	_	_	_
+22	jövőre	_	_	_	_	_	_	_	_
+23	egyes	_	_	_	_	_	_	_	_
+24	előirányzott	_	_	_	_	_	_	_	_
+25	feladatok	_	_	_	_	_	_	_	_
+26	végrehajtását	_	_	_	_	_	_	_	_
+27	jelentős	_	_	_	_	_	_	_	_
+28	összegekkel	_	_	_	_	_	_	_	_
+29	támogatja	_	_	_	_	_	_	_	_
+30	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-166
+# text = Az önkormányzat képviselője ismertette a megszüntetésekre, illetve összevonásokra vonatkozó terveket.
+1	Az	_	_	_	_	_	_	_	_
+2	önkormányzat	_	_	_	_	_	_	_	_
+3	képviselője	_	_	_	_	_	_	_	_
+4	ismertette	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	megszüntetésekre	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	illetve	_	_	_	_	_	_	_	_
+9	összevonásokra	_	_	_	_	_	_	_	_
+10	vonatkozó	_	_	_	_	_	_	_	_
+11	terveket	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-56
+# text = Az április 4-5-én a Budapesti Műszaki Egyetem központi épületének aulájában tartandó fórumra közel tízezer diákot várnak.
+1	Az	_	_	_	_	_	_	_	_
+2	április	_	_	_	_	_	_	_	_
+3	4-5-én	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	Budapesti	_	_	_	_	_	_	_	_
+6	Műszaki	_	_	_	_	_	_	_	_
+7	Egyetem	_	_	_	_	_	_	_	_
+8	központi	_	_	_	_	_	_	_	_
+9	épületének	_	_	_	_	_	_	_	_
+10	aulájában	_	_	_	_	_	_	_	_
+11	tartandó	_	_	_	_	_	_	_	_
+12	fórumra	_	_	_	_	_	_	_	_
+13	közel	_	_	_	_	_	_	_	_
+14	tízezer	_	_	_	_	_	_	_	_
+15	diákot	_	_	_	_	_	_	_	_
+16	várnak	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-860
+# text = Ami persze értelmezhető egyszerű szavazatszerző kampányfogásként — de jól mutatja a szociáldemokraták hosszabb távú dilemmáit és megosztottságát is.
+1	Ami	_	_	_	_	_	_	_	_
+2	persze	_	_	_	_	_	_	_	_
+3	értelmezhető	_	_	_	_	_	_	_	_
+4	egyszerű	_	_	_	_	_	_	_	_
+5	szavazatszerző	_	_	_	_	_	_	_	_
+6	kampányfogásként	_	_	_	_	_	_	_	_
+7	—	_	_	_	_	_	_	_	_
+8	de	_	_	_	_	_	_	_	_
+9	jól	_	_	_	_	_	_	_	_
+10	mutatja	_	_	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	szociáldemokraták	_	_	_	_	_	_	_	_
+13	hosszabb	_	_	_	_	_	_	_	_
+14	távú	_	_	_	_	_	_	_	_
+15	dilemmáit	_	_	_	_	_	_	_	_
+16	és	_	_	_	_	_	_	_	_
+17	megosztottságát	_	_	_	_	_	_	_	_
+18	is	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-305
+# text = Figyelemre méltó például, hogy a kormányfő az év első felében kizárólag napirend előtti szózatokat intézett az Országgyűléshez (11 esetben), a napirend szerinti vitákban ugyanakkor — Antallal és Hornnal ellentétben — egyetlen alkalommal sem szólalt fel.
+1	Figyelemre	_	_	_	_	_	_	_	_
+2	méltó	_	_	_	_	_	_	_	_
+3	például	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	hogy	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	kormányfő	_	_	_	_	_	_	_	_
+8	az	_	_	_	_	_	_	_	_
+9	év	_	_	_	_	_	_	_	_
+10	első	_	_	_	_	_	_	_	_
+11	felében	_	_	_	_	_	_	_	_
+12	kizárólag	_	_	_	_	_	_	_	_
+13	napirend	_	_	_	_	_	_	_	_
+14	előtti	_	_	_	_	_	_	_	_
+15	szózatokat	_	_	_	_	_	_	_	_
+16	intézett	_	_	_	_	_	_	_	_
+17	az	_	_	_	_	_	_	_	_
+18	Országgyűléshez	_	_	_	_	_	_	_	_
+19	(	_	_	_	_	_	_	_	_
+20	11	_	_	_	_	_	_	_	_
+21	esetben	_	_	_	_	_	_	_	_
+22	)	_	_	_	_	_	_	_	_
+23	,	_	_	_	_	_	_	_	_
+24	a	_	_	_	_	_	_	_	_
+25	napirend	_	_	_	_	_	_	_	_
+26	szerinti	_	_	_	_	_	_	_	_
+27	vitákban	_	_	_	_	_	_	_	_
+28	ugyanakkor	_	_	_	_	_	_	_	_
+29	—	_	_	_	_	_	_	_	_
+30	Antallal	_	_	_	_	_	_	_	_
+31	és	_	_	_	_	_	_	_	_
+32	Hornnal	_	_	_	_	_	_	_	_
+33	ellentétben	_	_	_	_	_	_	_	_
+34	—	_	_	_	_	_	_	_	_
+35	egyetlen	_	_	_	_	_	_	_	_
+36	alkalommal	_	_	_	_	_	_	_	_
+37	sem	_	_	_	_	_	_	_	_
+38	szólalt	_	_	_	_	_	_	_	_
+39	fel	_	_	_	_	_	_	_	_
+40	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-287
+# text = Ferke Mihály, a Magyar Ásványolaj Szövetség munkatársa viszont óva intett a nyersolaj világpiaci árváltozásainak a "túldimenzionálásától".
+1	Ferke	_	_	_	_	_	_	_	_
+2	Mihály	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	Magyar	_	_	_	_	_	_	_	_
+6	Ásványolaj	_	_	_	_	_	_	_	_
+7	Szövetség	_	_	_	_	_	_	_	_
+8	munkatársa	_	_	_	_	_	_	_	_
+9	viszont	_	_	_	_	_	_	_	_
+10	óva	_	_	_	_	_	_	_	_
+11	intett	_	_	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	nyersolaj	_	_	_	_	_	_	_	_
+14	világpiaci	_	_	_	_	_	_	_	_
+15	árváltozásainak	_	_	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	"	_	_	_	_	_	_	_	_
+18	túldimenzionálásától	_	_	_	_	_	_	_	_
+19	"	_	_	_	_	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-325
+# text = A Daewoo bukása szakértők szerint új korszakot jelez, s arra utal, hogy Kim elnök hozzálátott két évvel ezelőtti választási kampánya ígéreteinek végrehajtásához, azaz az ország politikai és gazdasági életét behálózó mamutcégek hatalmának a megnyirbálásához, a nyugati típusú gazdasági rendszer kialakításához.
+1	A	_	_	_	_	_	_	_	_
+2	Daewoo	_	_	_	_	_	_	_	_
+3	bukása	_	_	_	_	_	_	_	_
+4	szakértők	_	_	_	_	_	_	_	_
+5	szerint	_	_	_	_	_	_	_	_
+6	új	_	_	_	_	_	_	_	_
+7	korszakot	_	_	_	_	_	_	_	_
+8	jelez	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	s	_	_	_	_	_	_	_	_
+11	arra	_	_	_	_	_	_	_	_
+12	utal	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	hogy	_	_	_	_	_	_	_	_
+15	Kim	_	_	_	_	_	_	_	_
+16	elnök	_	_	_	_	_	_	_	_
+17	hozzálátott	_	_	_	_	_	_	_	_
+18	két	_	_	_	_	_	_	_	_
+19	évvel	_	_	_	_	_	_	_	_
+20	ezelőtti	_	_	_	_	_	_	_	_
+21	választási	_	_	_	_	_	_	_	_
+22	kampánya	_	_	_	_	_	_	_	_
+23	ígéreteinek	_	_	_	_	_	_	_	_
+24	végrehajtásához	_	_	_	_	_	_	_	_
+25	,	_	_	_	_	_	_	_	_
+26	azaz	_	_	_	_	_	_	_	_
+27	az	_	_	_	_	_	_	_	_
+28	ország	_	_	_	_	_	_	_	_
+29	politikai	_	_	_	_	_	_	_	_
+30	és	_	_	_	_	_	_	_	_
+31	gazdasági	_	_	_	_	_	_	_	_
+32	életét	_	_	_	_	_	_	_	_
+33	behálózó	_	_	_	_	_	_	_	_
+34	mamutcégek	_	_	_	_	_	_	_	_
+35	hatalmának	_	_	_	_	_	_	_	_
+36	a	_	_	_	_	_	_	_	_
+37	megnyirbálásához	_	_	_	_	_	_	_	_
+38	,	_	_	_	_	_	_	_	_
+39	a	_	_	_	_	_	_	_	_
+40	nyugati	_	_	_	_	_	_	_	_
+41	típusú	_	_	_	_	_	_	_	_
+42	gazdasági	_	_	_	_	_	_	_	_
+43	rendszer	_	_	_	_	_	_	_	_
+44	kialakításához	_	_	_	_	_	_	_	_
+45	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-232
+# text = Aminek a 12 ezer néző között ülő Boris Becker, Szergej Bubka és Andre kedvese, Steffi Graf örült a legjobban.
+1	Aminek	_	_	_	_	_	_	_	_
+2	a	_	_	_	_	_	_	_	_
+3	12	_	_	_	_	_	_	_	_
+4	ezer	_	_	_	_	_	_	_	_
+5	néző	_	_	_	_	_	_	_	_
+6	között	_	_	_	_	_	_	_	_
+7	ülő	_	_	_	_	_	_	_	_
+8	Boris	_	_	_	_	_	_	_	_
+9	Becker	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	Szergej	_	_	_	_	_	_	_	_
+12	Bubka	_	_	_	_	_	_	_	_
+13	és	_	_	_	_	_	_	_	_
+14	Andre	_	_	_	_	_	_	_	_
+15	kedvese	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	Steffi	_	_	_	_	_	_	_	_
+18	Graf	_	_	_	_	_	_	_	_
+19	örült	_	_	_	_	_	_	_	_
+20	a	_	_	_	_	_	_	_	_
+21	legjobban	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-46
+# text = Legutóbb egy húsipari cég dolgozói kértek vizsgálatot, miszerint még a női öltözőkbe is kamerák kerültek.
+1	Legutóbb	_	_	_	_	_	_	_	_
+2	egy	_	_	_	_	_	_	_	_
+3	húsipari	_	_	_	_	_	_	_	_
+4	cég	_	_	_	_	_	_	_	_
+5	dolgozói	_	_	_	_	_	_	_	_
+6	kértek	_	_	_	_	_	_	_	_
+7	vizsgálatot	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	miszerint	_	_	_	_	_	_	_	_
+10	még	_	_	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	női	_	_	_	_	_	_	_	_
+13	öltözőkbe	_	_	_	_	_	_	_	_
+14	is	_	_	_	_	_	_	_	_
+15	kamerák	_	_	_	_	_	_	_	_
+16	kerültek	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-202
+# text = Ha egyes önkormányzatoknál például csak 4 órás munkalehetőség van, elképzelhető, hogy mindössze 7 ezer forintot kap a munkanélküli a letöltött egy hónapra a közcélú munkáért.
+1	Ha	_	_	_	_	_	_	_	_
+2	egyes	_	_	_	_	_	_	_	_
+3	önkormányzatoknál	_	_	_	_	_	_	_	_
+4	például	_	_	_	_	_	_	_	_
+5	csak	_	_	_	_	_	_	_	_
+6	4	_	_	_	_	_	_	_	_
+7	órás	_	_	_	_	_	_	_	_
+8	munkalehetőség	_	_	_	_	_	_	_	_
+9	van	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	elképzelhető	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	hogy	_	_	_	_	_	_	_	_
+14	mindössze	_	_	_	_	_	_	_	_
+15	7	_	_	_	_	_	_	_	_
+16	ezer	_	_	_	_	_	_	_	_
+17	forintot	_	_	_	_	_	_	_	_
+18	kap	_	_	_	_	_	_	_	_
+19	a	_	_	_	_	_	_	_	_
+20	munkanélküli	_	_	_	_	_	_	_	_
+21	a	_	_	_	_	_	_	_	_
+22	letöltött	_	_	_	_	_	_	_	_
+23	egy	_	_	_	_	_	_	_	_
+24	hónapra	_	_	_	_	_	_	_	_
+25	a	_	_	_	_	_	_	_	_
+26	közcélú	_	_	_	_	_	_	_	_
+27	munkáért	_	_	_	_	_	_	_	_
+28	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-187
+# text = S még nem volt vége: lökésben Márkus 125 kg-ig verekedte fel magát, ami csak 50 dkg-mal maradt alatta országos rekordjának.
+1	S	_	_	_	_	_	_	_	_
+2	még	_	_	_	_	_	_	_	_
+3	nem	_	_	_	_	_	_	_	_
+4	volt	_	_	_	_	_	_	_	_
+5	vége	_	_	_	_	_	_	_	_
+6	:	_	_	_	_	_	_	_	_
+7	lökésben	_	_	_	_	_	_	_	_
+8	Márkus	_	_	_	_	_	_	_	_
+9	125	_	_	_	_	_	_	_	_
+10	kg-ig	_	_	_	_	_	_	_	_
+11	verekedte	_	_	_	_	_	_	_	_
+12	fel	_	_	_	_	_	_	_	_
+13	magát	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	ami	_	_	_	_	_	_	_	_
+16	csak	_	_	_	_	_	_	_	_
+17	50	_	_	_	_	_	_	_	_
+18	dkg-mal	_	_	_	_	_	_	_	_
+19	maradt	_	_	_	_	_	_	_	_
+20	alatta	_	_	_	_	_	_	_	_
+21	országos	_	_	_	_	_	_	_	_
+22	rekordjának	_	_	_	_	_	_	_	_
+23	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-127
+# text = Az 52. percben aztán Berg vesztette el a labdát az oldalvonalnál, Batistuta ismét lecsapott a lehetőségre, majd testvéri passza után ezúttal Balbo lőtt Bosnich kapujába.
+1	Az	_	_	_	_	_	_	_	_
+2	52.	_	_	_	_	_	_	_	_
+3	percben	_	_	_	_	_	_	_	_
+4	aztán	_	_	_	_	_	_	_	_
+5	Berg	_	_	_	_	_	_	_	_
+6	vesztette	_	_	_	_	_	_	_	_
+7	el	_	_	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	labdát	_	_	_	_	_	_	_	_
+10	az	_	_	_	_	_	_	_	_
+11	oldalvonalnál	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	Batistuta	_	_	_	_	_	_	_	_
+14	ismét	_	_	_	_	_	_	_	_
+15	lecsapott	_	_	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	lehetőségre	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	majd	_	_	_	_	_	_	_	_
+20	testvéri	_	_	_	_	_	_	_	_
+21	passza	_	_	_	_	_	_	_	_
+22	után	_	_	_	_	_	_	_	_
+23	ezúttal	_	_	_	_	_	_	_	_
+24	Balbo	_	_	_	_	_	_	_	_
+25	lőtt	_	_	_	_	_	_	_	_
+26	Bosnich	_	_	_	_	_	_	_	_
+27	kapujába	_	_	_	_	_	_	_	_
+28	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-158
+# text = Szekszárdon a 6-os úton parkolóba terelték az arra tartókat, s számukra itt pihenő-melegedő helyet alakítottak ki — tájékoztatta lapunkat Schieber József, a Polgári Védelem Országos Parancsnokságának szóvivője.
+1	Szekszárdon	_	_	_	_	_	_	_	_
+2	a	_	_	_	_	_	_	_	_
+3	6-os	_	_	_	_	_	_	_	_
+4	úton	_	_	_	_	_	_	_	_
+5	parkolóba	_	_	_	_	_	_	_	_
+6	terelték	_	_	_	_	_	_	_	_
+7	az	_	_	_	_	_	_	_	_
+8	arra	_	_	_	_	_	_	_	_
+9	tartókat	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	s	_	_	_	_	_	_	_	_
+12	számukra	_	_	_	_	_	_	_	_
+13	itt	_	_	_	_	_	_	_	_
+14	pihenő-melegedő	_	_	_	_	_	_	_	_
+15	helyet	_	_	_	_	_	_	_	_
+16	alakítottak	_	_	_	_	_	_	_	_
+17	ki	_	_	_	_	_	_	_	_
+18	—	_	_	_	_	_	_	_	_
+19	tájékoztatta	_	_	_	_	_	_	_	_
+20	lapunkat	_	_	_	_	_	_	_	_
+21	Schieber	_	_	_	_	_	_	_	_
+22	József	_	_	_	_	_	_	_	_
+23	,	_	_	_	_	_	_	_	_
+24	a	_	_	_	_	_	_	_	_
+25	Polgári	_	_	_	_	_	_	_	_
+26	Védelem	_	_	_	_	_	_	_	_
+27	Országos	_	_	_	_	_	_	_	_
+28	Parancsnokságának	_	_	_	_	_	_	_	_
+29	szóvivője	_	_	_	_	_	_	_	_
+30	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-115
+# text = Mindenkinek az a legjobb, ha jó időben, jó minőségű pályákon zajlanak az összecsapások.
+1	Mindenkinek	_	_	_	_	_	_	_	_
+2	az	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	legjobb	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	ha	_	_	_	_	_	_	_	_
+7	jó	_	_	_	_	_	_	_	_
+8	időben	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	jó	_	_	_	_	_	_	_	_
+11	minőségű	_	_	_	_	_	_	_	_
+12	pályákon	_	_	_	_	_	_	_	_
+13	zajlanak	_	_	_	_	_	_	_	_
+14	az	_	_	_	_	_	_	_	_
+15	összecsapások	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-290
+# text = A politikától távol tartotta magát, jóllehet, azokban a fényes szelekkel átfújt években a magyar baloldalon még nagyon szerették Titót.
+1	A	_	_	_	_	_	_	_	_
+2	politikától	_	_	_	_	_	_	_	_
+3	távol	_	_	_	_	_	_	_	_
+4	tartotta	_	_	_	_	_	_	_	_
+5	magát	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	jóllehet	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	azokban	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	fényes	_	_	_	_	_	_	_	_
+12	szelekkel	_	_	_	_	_	_	_	_
+13	átfújt	_	_	_	_	_	_	_	_
+14	években	_	_	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	magyar	_	_	_	_	_	_	_	_
+17	baloldalon	_	_	_	_	_	_	_	_
+18	még	_	_	_	_	_	_	_	_
+19	nagyon	_	_	_	_	_	_	_	_
+20	szerették	_	_	_	_	_	_	_	_
+21	Titót	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-365
+# text = A kormány sem véletlenül küldte szét a múlt héten a helyi iparűzési adók Pénzügyminisztérium által kidolgozott új rendszerének tervét, ha ugyanis ezt a frakciók magukévá tennék, akkor a kormány szívesen hagyná magát rábeszélni arra, hogy az adót központilag rendeljék el s osszák újra a települések között (HVG, 1999. augusztus 28.).
+1	A	_	_	_	_	_	_	_	_
+2	kormány	_	_	_	_	_	_	_	_
+3	sem	_	_	_	_	_	_	_	_
+4	véletlenül	_	_	_	_	_	_	_	_
+5	küldte	_	_	_	_	_	_	_	_
+6	szét	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	múlt	_	_	_	_	_	_	_	_
+9	héten	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	helyi	_	_	_	_	_	_	_	_
+12	iparűzési	_	_	_	_	_	_	_	_
+13	adók	_	_	_	_	_	_	_	_
+14	Pénzügyminisztérium	_	_	_	_	_	_	_	_
+15	által	_	_	_	_	_	_	_	_
+16	kidolgozott	_	_	_	_	_	_	_	_
+17	új	_	_	_	_	_	_	_	_
+18	rendszerének	_	_	_	_	_	_	_	_
+19	tervét	_	_	_	_	_	_	_	_
+20	,	_	_	_	_	_	_	_	_
+21	ha	_	_	_	_	_	_	_	_
+22	ugyanis	_	_	_	_	_	_	_	_
+23	ezt	_	_	_	_	_	_	_	_
+24	a	_	_	_	_	_	_	_	_
+25	frakciók	_	_	_	_	_	_	_	_
+26	magukévá	_	_	_	_	_	_	_	_
+27	tennék	_	_	_	_	_	_	_	_
+28	,	_	_	_	_	_	_	_	_
+29	akkor	_	_	_	_	_	_	_	_
+30	a	_	_	_	_	_	_	_	_
+31	kormány	_	_	_	_	_	_	_	_
+32	szívesen	_	_	_	_	_	_	_	_
+33	hagyná	_	_	_	_	_	_	_	_
+34	magát	_	_	_	_	_	_	_	_
+35	rábeszélni	_	_	_	_	_	_	_	_
+36	arra	_	_	_	_	_	_	_	_
+37	,	_	_	_	_	_	_	_	_
+38	hogy	_	_	_	_	_	_	_	_
+39	az	_	_	_	_	_	_	_	_
+40	adót	_	_	_	_	_	_	_	_
+41	központilag	_	_	_	_	_	_	_	_
+42	rendeljék	_	_	_	_	_	_	_	_
+43	el	_	_	_	_	_	_	_	_
+44	s	_	_	_	_	_	_	_	_
+45	osszák	_	_	_	_	_	_	_	_
+46	újra	_	_	_	_	_	_	_	_
+47	a	_	_	_	_	_	_	_	_
+48	települések	_	_	_	_	_	_	_	_
+49	között	_	_	_	_	_	_	_	_
+50	(	_	_	_	_	_	_	_	_
+51	HVG	_	_	_	_	_	_	_	_
+52	,	_	_	_	_	_	_	_	_
+53	1999.	_	_	_	_	_	_	_	_
+54	augusztus	_	_	_	_	_	_	_	_
+55	28.	_	_	_	_	_	_	_	_
+56	)	_	_	_	_	_	_	_	_
+57	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-347
+# text = Még egy jövő évi költségvetési mérleggel sem tisztelte meg a kormány a képviselőházat, az államháztartási mérlegből kellene azt a képviselőknek kibogarászniuk.
+1	Még	_	_	_	_	_	_	_	_
+2	egy	_	_	_	_	_	_	_	_
+3	jövő	_	_	_	_	_	_	_	_
+4	évi	_	_	_	_	_	_	_	_
+5	költségvetési	_	_	_	_	_	_	_	_
+6	mérleggel	_	_	_	_	_	_	_	_
+7	sem	_	_	_	_	_	_	_	_
+8	tisztelte	_	_	_	_	_	_	_	_
+9	meg	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	kormány	_	_	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	képviselőházat	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	az	_	_	_	_	_	_	_	_
+16	államháztartási	_	_	_	_	_	_	_	_
+17	mérlegből	_	_	_	_	_	_	_	_
+18	kellene	_	_	_	_	_	_	_	_
+19	azt	_	_	_	_	_	_	_	_
+20	a	_	_	_	_	_	_	_	_
+21	képviselőknek	_	_	_	_	_	_	_	_
+22	kibogarászniuk	_	_	_	_	_	_	_	_
+23	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-305
+# text = "Ki ez?" — kérdezte a magyar kommunisták első embere.
+1	"	_	_	_	_	_	_	_	_
+2	Ki	_	_	_	_	_	_	_	_
+3	ez	_	_	_	_	_	_	_	_
+4	?	_	_	_	_	_	_	_	_
+5	"	_	_	_	_	_	_	_	_
+6	—	_	_	_	_	_	_	_	_
+7	kérdezte	_	_	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	magyar	_	_	_	_	_	_	_	_
+10	kommunisták	_	_	_	_	_	_	_	_
+11	első	_	_	_	_	_	_	_	_
+12	embere	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-261
+# text = Jugoszlávia hegyei már csak ilyenek: ott fenyőfák és partizánok teremnek leginkább.
+1	Jugoszlávia	_	_	_	_	_	_	_	_
+2	hegyei	_	_	_	_	_	_	_	_
+3	már	_	_	_	_	_	_	_	_
+4	csak	_	_	_	_	_	_	_	_
+5	ilyenek	_	_	_	_	_	_	_	_
+6	:	_	_	_	_	_	_	_	_
+7	ott	_	_	_	_	_	_	_	_
+8	fenyőfák	_	_	_	_	_	_	_	_
+9	és	_	_	_	_	_	_	_	_
+10	partizánok	_	_	_	_	_	_	_	_
+11	teremnek	_	_	_	_	_	_	_	_
+12	leginkább	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-90
+# text = A szlovéneknél Beljavszkij az éltáblás, a cseheknél Movszeszian, a lengyeleknél Kraszenkov, Svájc válogatottjában pedig Korcsnoj.
+1	A	_	_	_	_	_	_	_	_
+2	szlovéneknél	_	_	_	_	_	_	_	_
+3	Beljavszkij	_	_	_	_	_	_	_	_
+4	az	_	_	_	_	_	_	_	_
+5	éltáblás	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	cseheknél	_	_	_	_	_	_	_	_
+9	Movszeszian	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	lengyeleknél	_	_	_	_	_	_	_	_
+13	Kraszenkov	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	Svájc	_	_	_	_	_	_	_	_
+16	válogatottjában	_	_	_	_	_	_	_	_
+17	pedig	_	_	_	_	_	_	_	_
+18	Korcsnoj	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-85
+# text = Ráadásul azokat az úgynevezett hiánypótlásokat, amelyek a szerződésben vállalt, de be nem fejezett vagy el nem készült "teljesítéseket" sorolja fel, Somogyi-Tóth megbízott igazgató működési idején átminősítették garanciális hibákká.
+1	Ráadásul	_	_	_	_	_	_	_	_
+2	azokat	_	_	_	_	_	_	_	_
+3	az	_	_	_	_	_	_	_	_
+4	úgynevezett	_	_	_	_	_	_	_	_
+5	hiánypótlásokat	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	amelyek	_	_	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	szerződésben	_	_	_	_	_	_	_	_
+10	vállalt	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	de	_	_	_	_	_	_	_	_
+13	be	_	_	_	_	_	_	_	_
+14	nem	_	_	_	_	_	_	_	_
+15	fejezett	_	_	_	_	_	_	_	_
+16	vagy	_	_	_	_	_	_	_	_
+17	el	_	_	_	_	_	_	_	_
+18	nem	_	_	_	_	_	_	_	_
+19	készült	_	_	_	_	_	_	_	_
+20	"	_	_	_	_	_	_	_	_
+21	teljesítéseket	_	_	_	_	_	_	_	_
+22	"	_	_	_	_	_	_	_	_
+23	sorolja	_	_	_	_	_	_	_	_
+24	fel	_	_	_	_	_	_	_	_
+25	,	_	_	_	_	_	_	_	_
+26	Somogyi-Tóth	_	_	_	_	_	_	_	_
+27	megbízott	_	_	_	_	_	_	_	_
+28	igazgató	_	_	_	_	_	_	_	_
+29	működési	_	_	_	_	_	_	_	_
+30	idején	_	_	_	_	_	_	_	_
+31	átminősítették	_	_	_	_	_	_	_	_
+32	garanciális	_	_	_	_	_	_	_	_
+33	hibákká	_	_	_	_	_	_	_	_
+34	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-320
+# text = Még nem látszik, hogy sikerrel jár -e a dél-koreai gazdaság egyik jelképeként emlegetett Daewoo-csoport átszervezése, ám szöuli megfigyelők máris azt latolgatják, melyik cég lehet a politikai és gazdasági életet uraló nagyvállalatok ellen meghirdetett államfői kampány következő áldozata.
+1	Még	_	_	_	_	_	_	_	_
+2	nem	_	_	_	_	_	_	_	_
+3	látszik	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	hogy	_	_	_	_	_	_	_	_
+6	sikerrel	_	_	_	_	_	_	_	_
+7	jár	_	_	_	_	_	_	_	_
+8	-e	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	dél-koreai	_	_	_	_	_	_	_	_
+11	gazdaság	_	_	_	_	_	_	_	_
+12	egyik	_	_	_	_	_	_	_	_
+13	jelképeként	_	_	_	_	_	_	_	_
+14	emlegetett	_	_	_	_	_	_	_	_
+15	Daewoo-csoport	_	_	_	_	_	_	_	_
+16	átszervezése	_	_	_	_	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	ám	_	_	_	_	_	_	_	_
+19	szöuli	_	_	_	_	_	_	_	_
+20	megfigyelők	_	_	_	_	_	_	_	_
+21	máris	_	_	_	_	_	_	_	_
+22	azt	_	_	_	_	_	_	_	_
+23	latolgatják	_	_	_	_	_	_	_	_
+24	,	_	_	_	_	_	_	_	_
+25	melyik	_	_	_	_	_	_	_	_
+26	cég	_	_	_	_	_	_	_	_
+27	lehet	_	_	_	_	_	_	_	_
+28	a	_	_	_	_	_	_	_	_
+29	politikai	_	_	_	_	_	_	_	_
+30	és	_	_	_	_	_	_	_	_
+31	gazdasági	_	_	_	_	_	_	_	_
+32	életet	_	_	_	_	_	_	_	_
+33	uraló	_	_	_	_	_	_	_	_
+34	nagyvállalatok	_	_	_	_	_	_	_	_
+35	ellen	_	_	_	_	_	_	_	_
+36	meghirdetett	_	_	_	_	_	_	_	_
+37	államfői	_	_	_	_	_	_	_	_
+38	kampány	_	_	_	_	_	_	_	_
+39	következő	_	_	_	_	_	_	_	_
+40	áldozata	_	_	_	_	_	_	_	_
+41	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-378
+# text = A Jelcin orosz elnök korrumpálásával vádolt svájci vállalkozó (lásd cikkünket a 39. oldalon), Behgjet Pacolli 1992. január 30-án alapította a Mabetex Kft.-t Budapesten Györök Anitával, György Sándorral és Müller Andrással.
+1	A	_	_	_	_	_	_	_	_
+2	Jelcin	_	_	_	_	_	_	_	_
+3	orosz	_	_	_	_	_	_	_	_
+4	elnök	_	_	_	_	_	_	_	_
+5	korrumpálásával	_	_	_	_	_	_	_	_
+6	vádolt	_	_	_	_	_	_	_	_
+7	svájci	_	_	_	_	_	_	_	_
+8	vállalkozó	_	_	_	_	_	_	_	_
+9	(	_	_	_	_	_	_	_	_
+10	lásd	_	_	_	_	_	_	_	_
+11	cikkünket	_	_	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	39.	_	_	_	_	_	_	_	_
+14	oldalon	_	_	_	_	_	_	_	_
+15	)	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	Behgjet	_	_	_	_	_	_	_	_
+18	Pacolli	_	_	_	_	_	_	_	_
+19	1992.	_	_	_	_	_	_	_	_
+20	január	_	_	_	_	_	_	_	_
+21	30-án	_	_	_	_	_	_	_	_
+22	alapította	_	_	_	_	_	_	_	_
+23	a	_	_	_	_	_	_	_	_
+24	Mabetex	_	_	_	_	_	_	_	_
+25	Kft.-t	_	_	_	_	_	_	_	_
+26	Budapesten	_	_	_	_	_	_	_	_
+27	Györök	_	_	_	_	_	_	_	_
+28	Anitával	_	_	_	_	_	_	_	_
+29	,	_	_	_	_	_	_	_	_
+30	György	_	_	_	_	_	_	_	_
+31	Sándorral	_	_	_	_	_	_	_	_
+32	és	_	_	_	_	_	_	_	_
+33	Müller	_	_	_	_	_	_	_	_
+34	Andrással	_	_	_	_	_	_	_	_
+35	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-428
+# text = Készítek emellett az Amadindának egy Full kontakt című darabot is, amelyben az ütősök egy idő után már nem a hangszereket, hanem egymást ütik.
+1	Készítek	_	_	_	_	_	_	_	_
+2	emellett	_	_	_	_	_	_	_	_
+3	az	_	_	_	_	_	_	_	_
+4	Amadindának	_	_	_	_	_	_	_	_
+5	egy	_	_	_	_	_	_	_	_
+6	Full	_	_	_	_	_	_	_	_
+7	kontakt	_	_	_	_	_	_	_	_
+8	című	_	_	_	_	_	_	_	_
+9	darabot	_	_	_	_	_	_	_	_
+10	is	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	amelyben	_	_	_	_	_	_	_	_
+13	az	_	_	_	_	_	_	_	_
+14	ütősök	_	_	_	_	_	_	_	_
+15	egy	_	_	_	_	_	_	_	_
+16	idő	_	_	_	_	_	_	_	_
+17	után	_	_	_	_	_	_	_	_
+18	már	_	_	_	_	_	_	_	_
+19	nem	_	_	_	_	_	_	_	_
+20	a	_	_	_	_	_	_	_	_
+21	hangszereket	_	_	_	_	_	_	_	_
+22	,	_	_	_	_	_	_	_	_
+23	hanem	_	_	_	_	_	_	_	_
+24	egymást	_	_	_	_	_	_	_	_
+25	ütik	_	_	_	_	_	_	_	_
+26	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-357
+# text = Őket azzal vádolták, hogy — rossz döntéseikkel és a helyzet súlyosságának elkendőzésével — felelősek voltak a gazdasági válság kirobbanásáért, s ezért eredetileg négy-, illetve hároméves börtönbüntetés kiszabását kérték rájuk.
+1	Őket	_	_	_	_	_	_	_	_
+2	azzal	_	_	_	_	_	_	_	_
+3	vádolták	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	hogy	_	_	_	_	_	_	_	_
+6	—	_	_	_	_	_	_	_	_
+7	rossz	_	_	_	_	_	_	_	_
+8	döntéseikkel	_	_	_	_	_	_	_	_
+9	és	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	helyzet	_	_	_	_	_	_	_	_
+12	súlyosságának	_	_	_	_	_	_	_	_
+13	elkendőzésével	_	_	_	_	_	_	_	_
+14	—	_	_	_	_	_	_	_	_
+15	felelősek	_	_	_	_	_	_	_	_
+16	voltak	_	_	_	_	_	_	_	_
+17	a	_	_	_	_	_	_	_	_
+18	gazdasági	_	_	_	_	_	_	_	_
+19	válság	_	_	_	_	_	_	_	_
+20	kirobbanásáért	_	_	_	_	_	_	_	_
+21	,	_	_	_	_	_	_	_	_
+22	s	_	_	_	_	_	_	_	_
+23	ezért	_	_	_	_	_	_	_	_
+24	eredetileg	_	_	_	_	_	_	_	_
+25	négy-	_	_	_	_	_	_	_	_
+26	,	_	_	_	_	_	_	_	_
+27	illetve	_	_	_	_	_	_	_	_
+28	hároméves	_	_	_	_	_	_	_	_
+29	börtönbüntetés	_	_	_	_	_	_	_	_
+30	kiszabását	_	_	_	_	_	_	_	_
+31	kérték	_	_	_	_	_	_	_	_
+32	rájuk	_	_	_	_	_	_	_	_
+33	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-290
+# text = A szakember úgy véli: világpiac áringadozásai miatt jövőre legfeljebb néhány forinttal drágulnak majd az üzemanyag-árak Magyarországon.
+1	A	_	_	_	_	_	_	_	_
+2	szakember	_	_	_	_	_	_	_	_
+3	úgy	_	_	_	_	_	_	_	_
+4	véli	_	_	_	_	_	_	_	_
+5	:	_	_	_	_	_	_	_	_
+6	világpiac	_	_	_	_	_	_	_	_
+7	áringadozásai	_	_	_	_	_	_	_	_
+8	miatt	_	_	_	_	_	_	_	_
+9	jövőre	_	_	_	_	_	_	_	_
+10	legfeljebb	_	_	_	_	_	_	_	_
+11	néhány	_	_	_	_	_	_	_	_
+12	forinttal	_	_	_	_	_	_	_	_
+13	drágulnak	_	_	_	_	_	_	_	_
+14	majd	_	_	_	_	_	_	_	_
+15	az	_	_	_	_	_	_	_	_
+16	üzemanyag-árak	_	_	_	_	_	_	_	_
+17	Magyarországon	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-316
+# text = Miközben két legfontosabb feladata, a törvényhozás, illetve a végrehajtó hatalom ellenőrzése során számos negatív tapasztalatot halmozott fel a Országgyűlés, egyes területeken tagadhatatlan eredményeket is képes felmutatni a jelenlegi parlament.
+1	Miközben	_	_	_	_	_	_	_	_
+2	két	_	_	_	_	_	_	_	_
+3	legfontosabb	_	_	_	_	_	_	_	_
+4	feladata	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	törvényhozás	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	illetve	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	végrehajtó	_	_	_	_	_	_	_	_
+12	hatalom	_	_	_	_	_	_	_	_
+13	ellenőrzése	_	_	_	_	_	_	_	_
+14	során	_	_	_	_	_	_	_	_
+15	számos	_	_	_	_	_	_	_	_
+16	negatív	_	_	_	_	_	_	_	_
+17	tapasztalatot	_	_	_	_	_	_	_	_
+18	halmozott	_	_	_	_	_	_	_	_
+19	fel	_	_	_	_	_	_	_	_
+20	a	_	_	_	_	_	_	_	_
+21	Országgyűlés	_	_	_	_	_	_	_	_
+22	,	_	_	_	_	_	_	_	_
+23	egyes	_	_	_	_	_	_	_	_
+24	területeken	_	_	_	_	_	_	_	_
+25	tagadhatatlan	_	_	_	_	_	_	_	_
+26	eredményeket	_	_	_	_	_	_	_	_
+27	is	_	_	_	_	_	_	_	_
+28	képes	_	_	_	_	_	_	_	_
+29	felmutatni	_	_	_	_	_	_	_	_
+30	a	_	_	_	_	_	_	_	_
+31	jelenlegi	_	_	_	_	_	_	_	_
+32	parlament	_	_	_	_	_	_	_	_
+33	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-423
+# text = Ez volt az első komolyabb robbantásos merénylet a tálibok kezén lévő ellenőrzött területeken azóta, hogy a mozgalom 1996-ban kiterjesztette uralmát Afganisztán jelentős részére.
+1	Ez	_	_	_	_	_	_	_	_
+2	volt	_	_	_	_	_	_	_	_
+3	az	_	_	_	_	_	_	_	_
+4	első	_	_	_	_	_	_	_	_
+5	komolyabb	_	_	_	_	_	_	_	_
+6	robbantásos	_	_	_	_	_	_	_	_
+7	merénylet	_	_	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	tálibok	_	_	_	_	_	_	_	_
+10	kezén	_	_	_	_	_	_	_	_
+11	lévő	_	_	_	_	_	_	_	_
+12	ellenőrzött	_	_	_	_	_	_	_	_
+13	területeken	_	_	_	_	_	_	_	_
+14	azóta	_	_	_	_	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	hogy	_	_	_	_	_	_	_	_
+17	a	_	_	_	_	_	_	_	_
+18	mozgalom	_	_	_	_	_	_	_	_
+19	1996-ban	_	_	_	_	_	_	_	_
+20	kiterjesztette	_	_	_	_	_	_	_	_
+21	uralmát	_	_	_	_	_	_	_	_
+22	Afganisztán	_	_	_	_	_	_	_	_
+23	jelentős	_	_	_	_	_	_	_	_
+24	részére	_	_	_	_	_	_	_	_
+25	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-161
+# text = Eszerint szükséges lenne ezek törvényi szabályozása, miután sok esetben valóban személyiségi jogokat sérthet a kamerahasználat.
+1	Eszerint	_	_	_	_	_	_	_	_
+2	szükséges	_	_	_	_	_	_	_	_
+3	lenne	_	_	_	_	_	_	_	_
+4	ezek	_	_	_	_	_	_	_	_
+5	törvényi	_	_	_	_	_	_	_	_
+6	szabályozása	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	miután	_	_	_	_	_	_	_	_
+9	sok	_	_	_	_	_	_	_	_
+10	esetben	_	_	_	_	_	_	_	_
+11	valóban	_	_	_	_	_	_	_	_
+12	személyiségi	_	_	_	_	_	_	_	_
+13	jogokat	_	_	_	_	_	_	_	_
+14	sérthet	_	_	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	kamerahasználat	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-234
+# text = A Csongrád Megyei Bíróságon, Szegeden szerdán kezdődött meg Csapó József büntetőpere: a 29 éves vállalkozó ellen aljas indokból elkövetett emberölés és más bűncselekmények, valamint Farkas Helga személyi szabadságának aljas célból elkövetett megsértése, apjának, Farkas Imrének súlyos fenyegetéssel elkövetett megzsarolása a vád.
+1	A	_	_	_	_	_	_	_	_
+2	Csongrád	_	_	_	_	_	_	_	_
+3	Megyei	_	_	_	_	_	_	_	_
+4	Bíróságon	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	Szegeden	_	_	_	_	_	_	_	_
+7	szerdán	_	_	_	_	_	_	_	_
+8	kezdődött	_	_	_	_	_	_	_	_
+9	meg	_	_	_	_	_	_	_	_
+10	Csapó	_	_	_	_	_	_	_	_
+11	József	_	_	_	_	_	_	_	_
+12	büntetőpere	_	_	_	_	_	_	_	_
+13	:	_	_	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	29	_	_	_	_	_	_	_	_
+16	éves	_	_	_	_	_	_	_	_
+17	vállalkozó	_	_	_	_	_	_	_	_
+18	ellen	_	_	_	_	_	_	_	_
+19	aljas	_	_	_	_	_	_	_	_
+20	indokból	_	_	_	_	_	_	_	_
+21	elkövetett	_	_	_	_	_	_	_	_
+22	emberölés	_	_	_	_	_	_	_	_
+23	és	_	_	_	_	_	_	_	_
+24	más	_	_	_	_	_	_	_	_
+25	bűncselekmények	_	_	_	_	_	_	_	_
+26	,	_	_	_	_	_	_	_	_
+27	valamint	_	_	_	_	_	_	_	_
+28	Farkas	_	_	_	_	_	_	_	_
+29	Helga	_	_	_	_	_	_	_	_
+30	személyi	_	_	_	_	_	_	_	_
+31	szabadságának	_	_	_	_	_	_	_	_
+32	aljas	_	_	_	_	_	_	_	_
+33	célból	_	_	_	_	_	_	_	_
+34	elkövetett	_	_	_	_	_	_	_	_
+35	megsértése	_	_	_	_	_	_	_	_
+36	,	_	_	_	_	_	_	_	_
+37	apjának	_	_	_	_	_	_	_	_
+38	,	_	_	_	_	_	_	_	_
+39	Farkas	_	_	_	_	_	_	_	_
+40	Imrének	_	_	_	_	_	_	_	_
+41	súlyos	_	_	_	_	_	_	_	_
+42	fenyegetéssel	_	_	_	_	_	_	_	_
+43	elkövetett	_	_	_	_	_	_	_	_
+44	megzsarolása	_	_	_	_	_	_	_	_
+45	a	_	_	_	_	_	_	_	_
+46	vád	_	_	_	_	_	_	_	_
+47	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-84
+# text = Látni ezt az árkokba vezető keréknyomokból.
+1	Látni	_	_	_	_	_	_	_	_
+2	ezt	_	_	_	_	_	_	_	_
+3	az	_	_	_	_	_	_	_	_
+4	árkokba	_	_	_	_	_	_	_	_
+5	vezető	_	_	_	_	_	_	_	_
+6	keréknyomokból	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-457
+# text = A tárlaton mintegy hatvan művet tekinthetnek meg az érdeklődők Marghescuné Hunor Mária gyűjteményéből.
+1	A	_	_	_	_	_	_	_	_
+2	tárlaton	_	_	_	_	_	_	_	_
+3	mintegy	_	_	_	_	_	_	_	_
+4	hatvan	_	_	_	_	_	_	_	_
+5	művet	_	_	_	_	_	_	_	_
+6	tekinthetnek	_	_	_	_	_	_	_	_
+7	meg	_	_	_	_	_	_	_	_
+8	az	_	_	_	_	_	_	_	_
+9	érdeklődők	_	_	_	_	_	_	_	_
+10	Marghescuné	_	_	_	_	_	_	_	_
+11	Hunor	_	_	_	_	_	_	_	_
+12	Mária	_	_	_	_	_	_	_	_
+13	gyűjteményéből	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-301
+# text = 1991 első hat hónapjában például a jelenlegi miniszterelnök politikai példaképének mondott Antall József a plenáris ülések 76 százalékán beült a kormányfői bársonyszékbe (49 ülésnap közül 37 alkalommal), ezzel szemben a jelenlegi kormány első emberének jelenléti indexe az országgyűlési jegyzőkönyvek tanúsága szerint csupán 37 százalékos volt, ugyanannyi, mint a többpárti parlamenttel szemben közismerten averziókat tápláló Horn Gyuláé az előző ciklus hasonló időszakában.
+1	1991	_	_	_	_	_	_	_	_
+2	első	_	_	_	_	_	_	_	_
+3	hat	_	_	_	_	_	_	_	_
+4	hónapjában	_	_	_	_	_	_	_	_
+5	például	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	jelenlegi	_	_	_	_	_	_	_	_
+8	miniszterelnök	_	_	_	_	_	_	_	_
+9	politikai	_	_	_	_	_	_	_	_
+10	példaképének	_	_	_	_	_	_	_	_
+11	mondott	_	_	_	_	_	_	_	_
+12	Antall	_	_	_	_	_	_	_	_
+13	József	_	_	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	plenáris	_	_	_	_	_	_	_	_
+16	ülések	_	_	_	_	_	_	_	_
+17	76	_	_	_	_	_	_	_	_
+18	százalékán	_	_	_	_	_	_	_	_
+19	beült	_	_	_	_	_	_	_	_
+20	a	_	_	_	_	_	_	_	_
+21	kormányfői	_	_	_	_	_	_	_	_
+22	bársonyszékbe	_	_	_	_	_	_	_	_
+23	(	_	_	_	_	_	_	_	_
+24	49	_	_	_	_	_	_	_	_
+25	ülésnap	_	_	_	_	_	_	_	_
+26	közül	_	_	_	_	_	_	_	_
+27	37	_	_	_	_	_	_	_	_
+28	alkalommal	_	_	_	_	_	_	_	_
+29	)	_	_	_	_	_	_	_	_
+30	,	_	_	_	_	_	_	_	_
+31	ezzel	_	_	_	_	_	_	_	_
+32	szemben	_	_	_	_	_	_	_	_
+33	a	_	_	_	_	_	_	_	_
+34	jelenlegi	_	_	_	_	_	_	_	_
+35	kormány	_	_	_	_	_	_	_	_
+36	első	_	_	_	_	_	_	_	_
+37	emberének	_	_	_	_	_	_	_	_
+38	jelenléti	_	_	_	_	_	_	_	_
+39	indexe	_	_	_	_	_	_	_	_
+40	az	_	_	_	_	_	_	_	_
+41	országgyűlési	_	_	_	_	_	_	_	_
+42	jegyzőkönyvek	_	_	_	_	_	_	_	_
+43	tanúsága	_	_	_	_	_	_	_	_
+44	szerint	_	_	_	_	_	_	_	_
+45	csupán	_	_	_	_	_	_	_	_
+46	37	_	_	_	_	_	_	_	_
+47	százalékos	_	_	_	_	_	_	_	_
+48	volt	_	_	_	_	_	_	_	_
+49	,	_	_	_	_	_	_	_	_
+50	ugyanannyi	_	_	_	_	_	_	_	_
+51	,	_	_	_	_	_	_	_	_
+52	mint	_	_	_	_	_	_	_	_
+53	a	_	_	_	_	_	_	_	_
+54	többpárti	_	_	_	_	_	_	_	_
+55	parlamenttel	_	_	_	_	_	_	_	_
+56	szemben	_	_	_	_	_	_	_	_
+57	közismerten	_	_	_	_	_	_	_	_
+58	averziókat	_	_	_	_	_	_	_	_
+59	tápláló	_	_	_	_	_	_	_	_
+60	Horn	_	_	_	_	_	_	_	_
+61	Gyuláé	_	_	_	_	_	_	_	_
+62	az	_	_	_	_	_	_	_	_
+63	előző	_	_	_	_	_	_	_	_
+64	ciklus	_	_	_	_	_	_	_	_
+65	hasonló	_	_	_	_	_	_	_	_
+66	időszakában	_	_	_	_	_	_	_	_
+67	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-381
+# text = (Egyes lapértesülések szerint a titkosszolgálatok utasítást kaptak arra, hogy gyűjtsenek terhelő adatokat Vjahirevre és fiára, a Gazprom külkereskedelmi vállalatát, a Gazekszportot igazgató Jurij Vjahirevre nézve.)
+1	(	_	_	_	_	_	_	_	_
+2	Egyes	_	_	_	_	_	_	_	_
+3	lapértesülések	_	_	_	_	_	_	_	_
+4	szerint	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	titkosszolgálatok	_	_	_	_	_	_	_	_
+7	utasítást	_	_	_	_	_	_	_	_
+8	kaptak	_	_	_	_	_	_	_	_
+9	arra	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	hogy	_	_	_	_	_	_	_	_
+12	gyűjtsenek	_	_	_	_	_	_	_	_
+13	terhelő	_	_	_	_	_	_	_	_
+14	adatokat	_	_	_	_	_	_	_	_
+15	Vjahirevre	_	_	_	_	_	_	_	_
+16	és	_	_	_	_	_	_	_	_
+17	fiára	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	a	_	_	_	_	_	_	_	_
+20	Gazprom	_	_	_	_	_	_	_	_
+21	külkereskedelmi	_	_	_	_	_	_	_	_
+22	vállalatát	_	_	_	_	_	_	_	_
+23	,	_	_	_	_	_	_	_	_
+24	a	_	_	_	_	_	_	_	_
+25	Gazekszportot	_	_	_	_	_	_	_	_
+26	igazgató	_	_	_	_	_	_	_	_
+27	Jurij	_	_	_	_	_	_	_	_
+28	Vjahirevre	_	_	_	_	_	_	_	_
+29	nézve	_	_	_	_	_	_	_	_
+30	.	_	_	_	_	_	_	_	_
+31	)	_	_	_	_	_	_	_	_
+
+# sent_id = train-895
+# text = Az utóbbi évtized balkáni történelme alapján valószínűnek tűnik, hogy az otthonuk mellett kitartóknak hamarosan fegyveres látogatókra is számítaniuk kell.
+1	Az	_	_	_	_	_	_	_	_
+2	utóbbi	_	_	_	_	_	_	_	_
+3	évtized	_	_	_	_	_	_	_	_
+4	balkáni	_	_	_	_	_	_	_	_
+5	történelme	_	_	_	_	_	_	_	_
+6	alapján	_	_	_	_	_	_	_	_
+7	valószínűnek	_	_	_	_	_	_	_	_
+8	tűnik	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	hogy	_	_	_	_	_	_	_	_
+11	az	_	_	_	_	_	_	_	_
+12	otthonuk	_	_	_	_	_	_	_	_
+13	mellett	_	_	_	_	_	_	_	_
+14	kitartóknak	_	_	_	_	_	_	_	_
+15	hamarosan	_	_	_	_	_	_	_	_
+16	fegyveres	_	_	_	_	_	_	_	_
+17	látogatókra	_	_	_	_	_	_	_	_
+18	is	_	_	_	_	_	_	_	_
+19	számítaniuk	_	_	_	_	_	_	_	_
+20	kell	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-262
+# text = Munkaügyi Bírósághoz fordult, visszahelyezését és annak kimondását kérve, hogy jogellenesen mentették őt fel.
+1	Munkaügyi	_	_	_	_	_	_	_	_
+2	Bírósághoz	_	_	_	_	_	_	_	_
+3	fordult	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	visszahelyezését	_	_	_	_	_	_	_	_
+6	és	_	_	_	_	_	_	_	_
+7	annak	_	_	_	_	_	_	_	_
+8	kimondását	_	_	_	_	_	_	_	_
+9	kérve	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	hogy	_	_	_	_	_	_	_	_
+12	jogellenesen	_	_	_	_	_	_	_	_
+13	mentették	_	_	_	_	_	_	_	_
+14	őt	_	_	_	_	_	_	_	_
+15	fel	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-339
+# text = Így volt ez már tavaly év végén is az 1998. évi büdzsé mérlegének elrontásakor — például a postabanki konszolidációval s az Állami Privatizációs és Vagyonkezelő Rt. 50 milliárd forintos idei támogatásának előrehozatalával — s az idei költségvetés előterjesztésekor is: a kormányfő lelkén szárad az általános forgalmi adó előirányzatának irreális felültervezése.
+1	Így	_	_	_	_	_	_	_	_
+2	volt	_	_	_	_	_	_	_	_
+3	ez	_	_	_	_	_	_	_	_
+4	már	_	_	_	_	_	_	_	_
+5	tavaly	_	_	_	_	_	_	_	_
+6	év	_	_	_	_	_	_	_	_
+7	végén	_	_	_	_	_	_	_	_
+8	is	_	_	_	_	_	_	_	_
+9	az	_	_	_	_	_	_	_	_
+10	1998.	_	_	_	_	_	_	_	_
+11	évi	_	_	_	_	_	_	_	_
+12	büdzsé	_	_	_	_	_	_	_	_
+13	mérlegének	_	_	_	_	_	_	_	_
+14	elrontásakor	_	_	_	_	_	_	_	_
+15	—	_	_	_	_	_	_	_	_
+16	például	_	_	_	_	_	_	_	_
+17	a	_	_	_	_	_	_	_	_
+18	postabanki	_	_	_	_	_	_	_	_
+19	konszolidációval	_	_	_	_	_	_	_	_
+20	s	_	_	_	_	_	_	_	_
+21	az	_	_	_	_	_	_	_	_
+22	Állami	_	_	_	_	_	_	_	_
+23	Privatizációs	_	_	_	_	_	_	_	_
+24	és	_	_	_	_	_	_	_	_
+25	Vagyonkezelő	_	_	_	_	_	_	_	_
+26	Rt.	_	_	_	_	_	_	_	_
+27	50	_	_	_	_	_	_	_	_
+28	milliárd	_	_	_	_	_	_	_	_
+29	forintos	_	_	_	_	_	_	_	_
+30	idei	_	_	_	_	_	_	_	_
+31	támogatásának	_	_	_	_	_	_	_	_
+32	előrehozatalával	_	_	_	_	_	_	_	_
+33	—	_	_	_	_	_	_	_	_
+34	s	_	_	_	_	_	_	_	_
+35	az	_	_	_	_	_	_	_	_
+36	idei	_	_	_	_	_	_	_	_
+37	költségvetés	_	_	_	_	_	_	_	_
+38	előterjesztésekor	_	_	_	_	_	_	_	_
+39	is	_	_	_	_	_	_	_	_
+40	:	_	_	_	_	_	_	_	_
+41	a	_	_	_	_	_	_	_	_
+42	kormányfő	_	_	_	_	_	_	_	_
+43	lelkén	_	_	_	_	_	_	_	_
+44	szárad	_	_	_	_	_	_	_	_
+45	az	_	_	_	_	_	_	_	_
+46	általános	_	_	_	_	_	_	_	_
+47	forgalmi	_	_	_	_	_	_	_	_
+48	adó	_	_	_	_	_	_	_	_
+49	előirányzatának	_	_	_	_	_	_	_	_
+50	irreális	_	_	_	_	_	_	_	_
+51	felültervezése	_	_	_	_	_	_	_	_
+52	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-584
+# text = A Vecernji List című napilap úgy értesült, hogy a Dubrava kórházban lélegeztető készülékkel segítik Tudjman szervezetének működését, de az államfő nincs kómában.
+1	A	_	_	_	_	_	_	_	_
+2	Vecernji	_	_	_	_	_	_	_	_
+3	List	_	_	_	_	_	_	_	_
+4	című	_	_	_	_	_	_	_	_
+5	napilap	_	_	_	_	_	_	_	_
+6	úgy	_	_	_	_	_	_	_	_
+7	értesült	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	hogy	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	Dubrava	_	_	_	_	_	_	_	_
+12	kórházban	_	_	_	_	_	_	_	_
+13	lélegeztető	_	_	_	_	_	_	_	_
+14	készülékkel	_	_	_	_	_	_	_	_
+15	segítik	_	_	_	_	_	_	_	_
+16	Tudjman	_	_	_	_	_	_	_	_
+17	szervezetének	_	_	_	_	_	_	_	_
+18	működését	_	_	_	_	_	_	_	_
+19	,	_	_	_	_	_	_	_	_
+20	de	_	_	_	_	_	_	_	_
+21	az	_	_	_	_	_	_	_	_
+22	államfő	_	_	_	_	_	_	_	_
+23	nincs	_	_	_	_	_	_	_	_
+24	kómában	_	_	_	_	_	_	_	_
+25	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-541
+# text = Nevezetes hősök térnek vissza a mozinézők életébe ezen a héten.
+1	Nevezetes	_	_	_	_	_	_	_	_
+2	hősök	_	_	_	_	_	_	_	_
+3	térnek	_	_	_	_	_	_	_	_
+4	vissza	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	mozinézők	_	_	_	_	_	_	_	_
+7	életébe	_	_	_	_	_	_	_	_
+8	ezen	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	héten	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-193
+# text = Nem mintha annak előtte a mindenkori hatalom dédelgette volna a szavakat.
+1	Nem	_	_	_	_	_	_	_	_
+2	mintha	_	_	_	_	_	_	_	_
+3	annak	_	_	_	_	_	_	_	_
+4	előtte	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	mindenkori	_	_	_	_	_	_	_	_
+7	hatalom	_	_	_	_	_	_	_	_
+8	dédelgette	_	_	_	_	_	_	_	_
+9	volna	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	szavakat	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-60
+# text = Ezen a gálán bokszol például a kisebbik Klicsko, Vlagyimir is, méghozzá a magyar Erős Lajossal.
+1	Ezen	_	_	_	_	_	_	_	_
+2	a	_	_	_	_	_	_	_	_
+3	gálán	_	_	_	_	_	_	_	_
+4	bokszol	_	_	_	_	_	_	_	_
+5	például	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	kisebbik	_	_	_	_	_	_	_	_
+8	Klicsko	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	Vlagyimir	_	_	_	_	_	_	_	_
+11	is	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	méghozzá	_	_	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	magyar	_	_	_	_	_	_	_	_
+16	Erős	_	_	_	_	_	_	_	_
+17	Lajossal	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-448
+# text = A tekercset az ő rokona kívánja most értékesíteni.
+1	A	_	_	_	_	_	_	_	_
+2	tekercset	_	_	_	_	_	_	_	_
+3	az	_	_	_	_	_	_	_	_
+4	ő	_	_	_	_	_	_	_	_
+5	rokona	_	_	_	_	_	_	_	_
+6	kívánja	_	_	_	_	_	_	_	_
+7	most	_	_	_	_	_	_	_	_
+8	értékesíteni	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-177
+# text = Például az, hogy a Fillér utcai iskola pedagógiai programjába nem illene bele a Fenyves utcaié.
+1	Például	_	_	_	_	_	_	_	_
+2	az	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	hogy	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	Fillér	_	_	_	_	_	_	_	_
+7	utcai	_	_	_	_	_	_	_	_
+8	iskola	_	_	_	_	_	_	_	_
+9	pedagógiai	_	_	_	_	_	_	_	_
+10	programjába	_	_	_	_	_	_	_	_
+11	nem	_	_	_	_	_	_	_	_
+12	illene	_	_	_	_	_	_	_	_
+13	bele	_	_	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	Fenyves	_	_	_	_	_	_	_	_
+16	utcaié	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-367
+# text = Zsaroló stratégiájának célja, hogy a minisztériumi hatáskörök "felülíratásával" kikényszerítse: a 2000. évi büdzsétervekben agrár-, vidék- és területfejlesztésre előirányzott — a Torgyán által kért 413 milliárd forintnál is nagyobb összeg — 430 milliárd forint teljes egészében az ő minisztériumához kerüljön, adott esetben a belügyi, a környezetvédelmi vagy a gazdasági tárcától.
+1	Zsaroló	_	_	_	_	_	_	_	_
+2	stratégiájának	_	_	_	_	_	_	_	_
+3	célja	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	hogy	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	minisztériumi	_	_	_	_	_	_	_	_
+8	hatáskörök	_	_	_	_	_	_	_	_
+9	"	_	_	_	_	_	_	_	_
+10	felülíratásával	_	_	_	_	_	_	_	_
+11	"	_	_	_	_	_	_	_	_
+12	kikényszerítse	_	_	_	_	_	_	_	_
+13	:	_	_	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	2000.	_	_	_	_	_	_	_	_
+16	évi	_	_	_	_	_	_	_	_
+17	büdzsétervekben	_	_	_	_	_	_	_	_
+18	agrár-	_	_	_	_	_	_	_	_
+19	,	_	_	_	_	_	_	_	_
+20	vidék-	_	_	_	_	_	_	_	_
+21	és	_	_	_	_	_	_	_	_
+22	területfejlesztésre	_	_	_	_	_	_	_	_
+23	előirányzott	_	_	_	_	_	_	_	_
+24	—	_	_	_	_	_	_	_	_
+25	a	_	_	_	_	_	_	_	_
+26	Torgyán	_	_	_	_	_	_	_	_
+27	által	_	_	_	_	_	_	_	_
+28	kért	_	_	_	_	_	_	_	_
+29	413	_	_	_	_	_	_	_	_
+30	milliárd	_	_	_	_	_	_	_	_
+31	forintnál	_	_	_	_	_	_	_	_
+32	is	_	_	_	_	_	_	_	_
+33	nagyobb	_	_	_	_	_	_	_	_
+34	összeg	_	_	_	_	_	_	_	_
+35	—	_	_	_	_	_	_	_	_
+36	430	_	_	_	_	_	_	_	_
+37	milliárd	_	_	_	_	_	_	_	_
+38	forint	_	_	_	_	_	_	_	_
+39	teljes	_	_	_	_	_	_	_	_
+40	egészében	_	_	_	_	_	_	_	_
+41	az	_	_	_	_	_	_	_	_
+42	ő	_	_	_	_	_	_	_	_
+43	minisztériumához	_	_	_	_	_	_	_	_
+44	kerüljön	_	_	_	_	_	_	_	_
+45	,	_	_	_	_	_	_	_	_
+46	adott	_	_	_	_	_	_	_	_
+47	esetben	_	_	_	_	_	_	_	_
+48	a	_	_	_	_	_	_	_	_
+49	belügyi	_	_	_	_	_	_	_	_
+50	,	_	_	_	_	_	_	_	_
+51	a	_	_	_	_	_	_	_	_
+52	környezetvédelmi	_	_	_	_	_	_	_	_
+53	vagy	_	_	_	_	_	_	_	_
+54	a	_	_	_	_	_	_	_	_
+55	gazdasági	_	_	_	_	_	_	_	_
+56	tárcától	_	_	_	_	_	_	_	_
+57	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-217
+# text = Az építkezés jövőre kezdődne és 2002-ben fejeződne be.
+1	Az	_	_	_	_	_	_	_	_
+2	építkezés	_	_	_	_	_	_	_	_
+3	jövőre	_	_	_	_	_	_	_	_
+4	kezdődne	_	_	_	_	_	_	_	_
+5	és	_	_	_	_	_	_	_	_
+6	2002-ben	_	_	_	_	_	_	_	_
+7	fejeződne	_	_	_	_	_	_	_	_
+8	be	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-681
+# text = A 72 tagú konferencia által, három püspök fenntartásai mellett elfogadott közlemény szerint a testület megvizsgálja, van -e lehetőség arra, hogy a katolikus irodák az igazolások kiállítása nélkül is benn maradjanak a terhestanácsadás törvényes rendszerében.
+1	A	_	_	_	_	_	_	_	_
+2	72	_	_	_	_	_	_	_	_
+3	tagú	_	_	_	_	_	_	_	_
+4	konferencia	_	_	_	_	_	_	_	_
+5	által	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	három	_	_	_	_	_	_	_	_
+8	püspök	_	_	_	_	_	_	_	_
+9	fenntartásai	_	_	_	_	_	_	_	_
+10	mellett	_	_	_	_	_	_	_	_
+11	elfogadott	_	_	_	_	_	_	_	_
+12	közlemény	_	_	_	_	_	_	_	_
+13	szerint	_	_	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	testület	_	_	_	_	_	_	_	_
+16	megvizsgálja	_	_	_	_	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	van	_	_	_	_	_	_	_	_
+19	-e	_	_	_	_	_	_	_	_
+20	lehetőség	_	_	_	_	_	_	_	_
+21	arra	_	_	_	_	_	_	_	_
+22	,	_	_	_	_	_	_	_	_
+23	hogy	_	_	_	_	_	_	_	_
+24	a	_	_	_	_	_	_	_	_
+25	katolikus	_	_	_	_	_	_	_	_
+26	irodák	_	_	_	_	_	_	_	_
+27	az	_	_	_	_	_	_	_	_
+28	igazolások	_	_	_	_	_	_	_	_
+29	kiállítása	_	_	_	_	_	_	_	_
+30	nélkül	_	_	_	_	_	_	_	_
+31	is	_	_	_	_	_	_	_	_
+32	benn	_	_	_	_	_	_	_	_
+33	maradjanak	_	_	_	_	_	_	_	_
+34	a	_	_	_	_	_	_	_	_
+35	terhestanácsadás	_	_	_	_	_	_	_	_
+36	törvényes	_	_	_	_	_	_	_	_
+37	rendszerében	_	_	_	_	_	_	_	_
+38	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-267
+# text = Ezért mindenképpen a Kelet és a Nyugat közötti kapu szerepét kellene magára vállalnia, mégpedig úgy, hogy a többségi állami tulajdonban maradó Magyar Villamos Művek aktívan működjön közre a két égtáj közötti energiaáramlásban, a vezetékes rendszerek összekapcsolásában.
+1	Ezért	_	_	_	_	_	_	_	_
+2	mindenképpen	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	Kelet	_	_	_	_	_	_	_	_
+5	és	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	Nyugat	_	_	_	_	_	_	_	_
+8	közötti	_	_	_	_	_	_	_	_
+9	kapu	_	_	_	_	_	_	_	_
+10	szerepét	_	_	_	_	_	_	_	_
+11	kellene	_	_	_	_	_	_	_	_
+12	magára	_	_	_	_	_	_	_	_
+13	vállalnia	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	mégpedig	_	_	_	_	_	_	_	_
+16	úgy	_	_	_	_	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	hogy	_	_	_	_	_	_	_	_
+19	a	_	_	_	_	_	_	_	_
+20	többségi	_	_	_	_	_	_	_	_
+21	állami	_	_	_	_	_	_	_	_
+22	tulajdonban	_	_	_	_	_	_	_	_
+23	maradó	_	_	_	_	_	_	_	_
+24	Magyar	_	_	_	_	_	_	_	_
+25	Villamos	_	_	_	_	_	_	_	_
+26	Művek	_	_	_	_	_	_	_	_
+27	aktívan	_	_	_	_	_	_	_	_
+28	működjön	_	_	_	_	_	_	_	_
+29	közre	_	_	_	_	_	_	_	_
+30	a	_	_	_	_	_	_	_	_
+31	két	_	_	_	_	_	_	_	_
+32	égtáj	_	_	_	_	_	_	_	_
+33	közötti	_	_	_	_	_	_	_	_
+34	energiaáramlásban	_	_	_	_	_	_	_	_
+35	,	_	_	_	_	_	_	_	_
+36	a	_	_	_	_	_	_	_	_
+37	vezetékes	_	_	_	_	_	_	_	_
+38	rendszerek	_	_	_	_	_	_	_	_
+39	összekapcsolásában	_	_	_	_	_	_	_	_
+40	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-662
+# text = Korábbi sofőrjével jó személyes viszonya volt, teljesen megbízott benne.
+1	Korábbi	_	_	_	_	_	_	_	_
+2	sofőrjével	_	_	_	_	_	_	_	_
+3	jó	_	_	_	_	_	_	_	_
+4	személyes	_	_	_	_	_	_	_	_
+5	viszonya	_	_	_	_	_	_	_	_
+6	volt	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	teljesen	_	_	_	_	_	_	_	_
+9	megbízott	_	_	_	_	_	_	_	_
+10	benne	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-272
+# text = Rövidtávú — féléves — kilátásaikat illetően a cégek egész évben októberben voltak a legoptimistábbak.
+1	Rövidtávú	_	_	_	_	_	_	_	_
+2	—	_	_	_	_	_	_	_	_
+3	féléves	_	_	_	_	_	_	_	_
+4	—	_	_	_	_	_	_	_	_
+5	kilátásaikat	_	_	_	_	_	_	_	_
+6	illetően	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	cégek	_	_	_	_	_	_	_	_
+9	egész	_	_	_	_	_	_	_	_
+10	évben	_	_	_	_	_	_	_	_
+11	októberben	_	_	_	_	_	_	_	_
+12	voltak	_	_	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	legoptimistábbak	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-618
+# text = Oroszország mintegy 400 millió dolláros tartozásának kiegyenlítése volt a témája a magyar-orosz gazdasági vegyes bizottság legutóbbi, októberi ülésének.
+1	Oroszország	_	_	_	_	_	_	_	_
+2	mintegy	_	_	_	_	_	_	_	_
+3	400	_	_	_	_	_	_	_	_
+4	millió	_	_	_	_	_	_	_	_
+5	dolláros	_	_	_	_	_	_	_	_
+6	tartozásának	_	_	_	_	_	_	_	_
+7	kiegyenlítése	_	_	_	_	_	_	_	_
+8	volt	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	témája	_	_	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	magyar-orosz	_	_	_	_	_	_	_	_
+13	gazdasági	_	_	_	_	_	_	_	_
+14	vegyes	_	_	_	_	_	_	_	_
+15	bizottság	_	_	_	_	_	_	_	_
+16	legutóbbi	_	_	_	_	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	októberi	_	_	_	_	_	_	_	_
+19	ülésének	_	_	_	_	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-430
+# text = Pazar látványosság fogadja a várbéli Fortuna 11 Galéria (Bp. I., Tárnok utca 10.) látogatóit a Zsolnay Gyár Stúdiójának most megnyílt kiállításán.
+1	Pazar	_	_	_	_	_	_	_	_
+2	látványosság	_	_	_	_	_	_	_	_
+3	fogadja	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	várbéli	_	_	_	_	_	_	_	_
+6	Fortuna	_	_	_	_	_	_	_	_
+7	11	_	_	_	_	_	_	_	_
+8	Galéria	_	_	_	_	_	_	_	_
+9	(	_	_	_	_	_	_	_	_
+10	Bp.	_	_	_	_	_	_	_	_
+11	I.	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	Tárnok	_	_	_	_	_	_	_	_
+14	utca	_	_	_	_	_	_	_	_
+15	10.	_	_	_	_	_	_	_	_
+16	)	_	_	_	_	_	_	_	_
+17	látogatóit	_	_	_	_	_	_	_	_
+18	a	_	_	_	_	_	_	_	_
+19	Zsolnay	_	_	_	_	_	_	_	_
+20	Gyár	_	_	_	_	_	_	_	_
+21	Stúdiójának	_	_	_	_	_	_	_	_
+22	most	_	_	_	_	_	_	_	_
+23	megnyílt	_	_	_	_	_	_	_	_
+24	kiállításán	_	_	_	_	_	_	_	_
+25	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-404
+# text = Elemzők vitathatónak tartják a Gazprom számos pénzügyi befektetését is.
+1	Elemzők	_	_	_	_	_	_	_	_
+2	vitathatónak	_	_	_	_	_	_	_	_
+3	tartják	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	Gazprom	_	_	_	_	_	_	_	_
+6	számos	_	_	_	_	_	_	_	_
+7	pénzügyi	_	_	_	_	_	_	_	_
+8	befektetését	_	_	_	_	_	_	_	_
+9	is	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-129
+# text = A PSZ szerint a cél az, hogy az oktatási ágazat átlagkeresete a fejlett országokéhoz hasonlóan 20-30 százalékkal legyen a nemzetgazdasági átlag felett.
+1	A	_	_	_	_	_	_	_	_
+2	PSZ	_	_	_	_	_	_	_	_
+3	szerint	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	cél	_	_	_	_	_	_	_	_
+6	az	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	hogy	_	_	_	_	_	_	_	_
+9	az	_	_	_	_	_	_	_	_
+10	oktatási	_	_	_	_	_	_	_	_
+11	ágazat	_	_	_	_	_	_	_	_
+12	átlagkeresete	_	_	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	fejlett	_	_	_	_	_	_	_	_
+15	országokéhoz	_	_	_	_	_	_	_	_
+16	hasonlóan	_	_	_	_	_	_	_	_
+17	20-30	_	_	_	_	_	_	_	_
+18	százalékkal	_	_	_	_	_	_	_	_
+19	legyen	_	_	_	_	_	_	_	_
+20	a	_	_	_	_	_	_	_	_
+21	nemzetgazdasági	_	_	_	_	_	_	_	_
+22	átlag	_	_	_	_	_	_	_	_
+23	felett	_	_	_	_	_	_	_	_
+24	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-723
+# text = A szerződés a jövőre nézve liberalizálja számos mezőgazdasági termék kereskedelmét, kitér a diplomák és védjegyek kölcsönös elismerésére, a közbeszerzési pályázatokra, valamint arra, hogy a jövőben Svájc az EU-tagállamokhoz hasonlóan veheti majd ki részét az uniós kutatási programokból és forrásokból.
+1	A	_	_	_	_	_	_	_	_
+2	szerződés	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	jövőre	_	_	_	_	_	_	_	_
+5	nézve	_	_	_	_	_	_	_	_
+6	liberalizálja	_	_	_	_	_	_	_	_
+7	számos	_	_	_	_	_	_	_	_
+8	mezőgazdasági	_	_	_	_	_	_	_	_
+9	termék	_	_	_	_	_	_	_	_
+10	kereskedelmét	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	kitér	_	_	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	diplomák	_	_	_	_	_	_	_	_
+15	és	_	_	_	_	_	_	_	_
+16	védjegyek	_	_	_	_	_	_	_	_
+17	kölcsönös	_	_	_	_	_	_	_	_
+18	elismerésére	_	_	_	_	_	_	_	_
+19	,	_	_	_	_	_	_	_	_
+20	a	_	_	_	_	_	_	_	_
+21	közbeszerzési	_	_	_	_	_	_	_	_
+22	pályázatokra	_	_	_	_	_	_	_	_
+23	,	_	_	_	_	_	_	_	_
+24	valamint	_	_	_	_	_	_	_	_
+25	arra	_	_	_	_	_	_	_	_
+26	,	_	_	_	_	_	_	_	_
+27	hogy	_	_	_	_	_	_	_	_
+28	a	_	_	_	_	_	_	_	_
+29	jövőben	_	_	_	_	_	_	_	_
+30	Svájc	_	_	_	_	_	_	_	_
+31	az	_	_	_	_	_	_	_	_
+32	EU-tagállamokhoz	_	_	_	_	_	_	_	_
+33	hasonlóan	_	_	_	_	_	_	_	_
+34	veheti	_	_	_	_	_	_	_	_
+35	majd	_	_	_	_	_	_	_	_
+36	ki	_	_	_	_	_	_	_	_
+37	részét	_	_	_	_	_	_	_	_
+38	az	_	_	_	_	_	_	_	_
+39	uniós	_	_	_	_	_	_	_	_
+40	kutatási	_	_	_	_	_	_	_	_
+41	programokból	_	_	_	_	_	_	_	_
+42	és	_	_	_	_	_	_	_	_
+43	forrásokból	_	_	_	_	_	_	_	_
+44	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-479
+# text = Egy tárgyat meg lehet nézni, sokat nem.
+1	Egy	_	_	_	_	_	_	_	_
+2	tárgyat	_	_	_	_	_	_	_	_
+3	meg	_	_	_	_	_	_	_	_
+4	lehet	_	_	_	_	_	_	_	_
+5	nézni	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	sokat	_	_	_	_	_	_	_	_
+8	nem	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-290
+# text = A kis épületet, amely a belső udvaron áll, rabruharaktárként használják, s hogy a lángok miért lobbantak fel, egyelőre nem tudni, a tűz vizsgálói rövidzárlatra gyanakodnak.
+1	A	_	_	_	_	_	_	_	_
+2	kis	_	_	_	_	_	_	_	_
+3	épületet	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	amely	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	belső	_	_	_	_	_	_	_	_
+8	udvaron	_	_	_	_	_	_	_	_
+9	áll	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	rabruharaktárként	_	_	_	_	_	_	_	_
+12	használják	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	s	_	_	_	_	_	_	_	_
+15	hogy	_	_	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	lángok	_	_	_	_	_	_	_	_
+18	miért	_	_	_	_	_	_	_	_
+19	lobbantak	_	_	_	_	_	_	_	_
+20	fel	_	_	_	_	_	_	_	_
+21	,	_	_	_	_	_	_	_	_
+22	egyelőre	_	_	_	_	_	_	_	_
+23	nem	_	_	_	_	_	_	_	_
+24	tudni	_	_	_	_	_	_	_	_
+25	,	_	_	_	_	_	_	_	_
+26	a	_	_	_	_	_	_	_	_
+27	tűz	_	_	_	_	_	_	_	_
+28	vizsgálói	_	_	_	_	_	_	_	_
+29	rövidzárlatra	_	_	_	_	_	_	_	_
+30	gyanakodnak	_	_	_	_	_	_	_	_
+31	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-365
+# text = Akkoriban kezdtem egyre jelentősebb szerepeket kapni, s egy Bánk bán után, amelyben akkor Biberachot alakítottam, Palló Imre, a kiváló bariton azt mondta nekem: " Gyuri fiam, name felejtsd el, előadás után indulás haza.
+1	Akkoriban	_	_	_	_	_	_	_	_
+2	kezdtem	_	_	_	_	_	_	_	_
+3	egyre	_	_	_	_	_	_	_	_
+4	jelentősebb	_	_	_	_	_	_	_	_
+5	szerepeket	_	_	_	_	_	_	_	_
+6	kapni	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	s	_	_	_	_	_	_	_	_
+9	egy	_	_	_	_	_	_	_	_
+10	Bánk	_	_	_	_	_	_	_	_
+11	bán	_	_	_	_	_	_	_	_
+12	után	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	amelyben	_	_	_	_	_	_	_	_
+15	akkor	_	_	_	_	_	_	_	_
+16	Biberachot	_	_	_	_	_	_	_	_
+17	alakítottam	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	Palló	_	_	_	_	_	_	_	_
+20	Imre	_	_	_	_	_	_	_	_
+21	,	_	_	_	_	_	_	_	_
+22	a	_	_	_	_	_	_	_	_
+23	kiváló	_	_	_	_	_	_	_	_
+24	bariton	_	_	_	_	_	_	_	_
+25	azt	_	_	_	_	_	_	_	_
+26	mondta	_	_	_	_	_	_	_	_
+27	nekem	_	_	_	_	_	_	_	_
+28	:	_	_	_	_	_	_	_	_
+29	"	_	_	_	_	_	_	_	_
+30	Gyuri	_	_	_	_	_	_	_	_
+31	fiam	_	_	_	_	_	_	_	_
+32	,	_	_	_	_	_	_	_	_
+33	name	_	_	_	_	_	_	_	_
+34	felejtsd	_	_	_	_	_	_	_	_
+35	el	_	_	_	_	_	_	_	_
+36	,	_	_	_	_	_	_	_	_
+37	előadás	_	_	_	_	_	_	_	_
+38	után	_	_	_	_	_	_	_	_
+39	indulás	_	_	_	_	_	_	_	_
+40	haza	_	_	_	_	_	_	_	_
+41	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-355
+# text = A gazdasági eredményekhez ugyanakkor politikai eltökéltségnek is társulni kell, s a bizonytalankodás, valamint a Daewoo-megállapodásban rejlő kiskapuk egyelőre nem ebbe az irányba mutatnak.
+1	A	_	_	_	_	_	_	_	_
+2	gazdasági	_	_	_	_	_	_	_	_
+3	eredményekhez	_	_	_	_	_	_	_	_
+4	ugyanakkor	_	_	_	_	_	_	_	_
+5	politikai	_	_	_	_	_	_	_	_
+6	eltökéltségnek	_	_	_	_	_	_	_	_
+7	is	_	_	_	_	_	_	_	_
+8	társulni	_	_	_	_	_	_	_	_
+9	kell	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	s	_	_	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	bizonytalankodás	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	valamint	_	_	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	Daewoo-megállapodásban	_	_	_	_	_	_	_	_
+18	rejlő	_	_	_	_	_	_	_	_
+19	kiskapuk	_	_	_	_	_	_	_	_
+20	egyelőre	_	_	_	_	_	_	_	_
+21	nem	_	_	_	_	_	_	_	_
+22	ebbe	_	_	_	_	_	_	_	_
+23	az	_	_	_	_	_	_	_	_
+24	irányba	_	_	_	_	_	_	_	_
+25	mutatnak	_	_	_	_	_	_	_	_
+26	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-359
+# text = Ám a kormány egyetlen adó csökkentését sem javasolja.
+1	Ám	_	_	_	_	_	_	_	_
+2	a	_	_	_	_	_	_	_	_
+3	kormány	_	_	_	_	_	_	_	_
+4	egyetlen	_	_	_	_	_	_	_	_
+5	adó	_	_	_	_	_	_	_	_
+6	csökkentését	_	_	_	_	_	_	_	_
+7	sem	_	_	_	_	_	_	_	_
+8	javasolja	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-417
+# text = Rosszul érezném magam, ha ezt félreértenék, de nem kell mindenáron mindenkinek tetszeni.
+1	Rosszul	_	_	_	_	_	_	_	_
+2	érezném	_	_	_	_	_	_	_	_
+3	magam	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	ha	_	_	_	_	_	_	_	_
+6	ezt	_	_	_	_	_	_	_	_
+7	félreértenék	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	de	_	_	_	_	_	_	_	_
+10	nem	_	_	_	_	_	_	_	_
+11	kell	_	_	_	_	_	_	_	_
+12	mindenáron	_	_	_	_	_	_	_	_
+13	mindenkinek	_	_	_	_	_	_	_	_
+14	tetszeni	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-580
+# text = A Globus című zágrábi hetilap orvosi körökre hivatkozva azt jelentette, hogy bármelyik pillanatban bekövetkezhet Tudjman halála.
+1	A	_	_	_	_	_	_	_	_
+2	Globus	_	_	_	_	_	_	_	_
+3	című	_	_	_	_	_	_	_	_
+4	zágrábi	_	_	_	_	_	_	_	_
+5	hetilap	_	_	_	_	_	_	_	_
+6	orvosi	_	_	_	_	_	_	_	_
+7	körökre	_	_	_	_	_	_	_	_
+8	hivatkozva	_	_	_	_	_	_	_	_
+9	azt	_	_	_	_	_	_	_	_
+10	jelentette	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	hogy	_	_	_	_	_	_	_	_
+13	bármelyik	_	_	_	_	_	_	_	_
+14	pillanatban	_	_	_	_	_	_	_	_
+15	bekövetkezhet	_	_	_	_	_	_	_	_
+16	Tudjman	_	_	_	_	_	_	_	_
+17	halála	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-76
+# text = Idén júliusban magyarországi roma közéleti szereplők bírálták Jeszenszkyt, aki a Washington Times-ban megjelent olvasói levelében a cigányság jelenlegi helyzetéért a szegénység és az alacsony iskolázottság mellett az "örökölt életstílust" is felelőssé teszi, amely szerinte "minden kezdeményezést nélkülöz a kitörésre".
+1	Idén	_	_	_	_	_	_	_	_
+2	júliusban	_	_	_	_	_	_	_	_
+3	magyarországi	_	_	_	_	_	_	_	_
+4	roma	_	_	_	_	_	_	_	_
+5	közéleti	_	_	_	_	_	_	_	_
+6	szereplők	_	_	_	_	_	_	_	_
+7	bírálták	_	_	_	_	_	_	_	_
+8	Jeszenszkyt	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	aki	_	_	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	Washington	_	_	_	_	_	_	_	_
+13	Times-ban	_	_	_	_	_	_	_	_
+14	megjelent	_	_	_	_	_	_	_	_
+15	olvasói	_	_	_	_	_	_	_	_
+16	levelében	_	_	_	_	_	_	_	_
+17	a	_	_	_	_	_	_	_	_
+18	cigányság	_	_	_	_	_	_	_	_
+19	jelenlegi	_	_	_	_	_	_	_	_
+20	helyzetéért	_	_	_	_	_	_	_	_
+21	a	_	_	_	_	_	_	_	_
+22	szegénység	_	_	_	_	_	_	_	_
+23	és	_	_	_	_	_	_	_	_
+24	az	_	_	_	_	_	_	_	_
+25	alacsony	_	_	_	_	_	_	_	_
+26	iskolázottság	_	_	_	_	_	_	_	_
+27	mellett	_	_	_	_	_	_	_	_
+28	az	_	_	_	_	_	_	_	_
+29	"	_	_	_	_	_	_	_	_
+30	örökölt	_	_	_	_	_	_	_	_
+31	életstílust	_	_	_	_	_	_	_	_
+32	"	_	_	_	_	_	_	_	_
+33	is	_	_	_	_	_	_	_	_
+34	felelőssé	_	_	_	_	_	_	_	_
+35	teszi	_	_	_	_	_	_	_	_
+36	,	_	_	_	_	_	_	_	_
+37	amely	_	_	_	_	_	_	_	_
+38	szerinte	_	_	_	_	_	_	_	_
+39	"	_	_	_	_	_	_	_	_
+40	minden	_	_	_	_	_	_	_	_
+41	kezdeményezést	_	_	_	_	_	_	_	_
+42	nélkülöz	_	_	_	_	_	_	_	_
+43	a	_	_	_	_	_	_	_	_
+44	kitörésre	_	_	_	_	_	_	_	_
+45	"	_	_	_	_	_	_	_	_
+46	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-357
+# text = A jövő évi költségvetési számításokat 6-7 százalékos fogyasztóiár-változásra építenék, azaz ha az infláció nagyobb, a költségvetés is szépen gyarapodik.
+1	A	_	_	_	_	_	_	_	_
+2	jövő	_	_	_	_	_	_	_	_
+3	évi	_	_	_	_	_	_	_	_
+4	költségvetési	_	_	_	_	_	_	_	_
+5	számításokat	_	_	_	_	_	_	_	_
+6	6-7	_	_	_	_	_	_	_	_
+7	százalékos	_	_	_	_	_	_	_	_
+8	fogyasztóiár-változásra	_	_	_	_	_	_	_	_
+9	építenék	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	azaz	_	_	_	_	_	_	_	_
+12	ha	_	_	_	_	_	_	_	_
+13	az	_	_	_	_	_	_	_	_
+14	infláció	_	_	_	_	_	_	_	_
+15	nagyobb	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	a	_	_	_	_	_	_	_	_
+18	költségvetés	_	_	_	_	_	_	_	_
+19	is	_	_	_	_	_	_	_	_
+20	szépen	_	_	_	_	_	_	_	_
+21	gyarapodik	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-340
+# text = Elég, ha arra gondolunk, hogy az elmúlt tíz évben a fővárosnak aránylag kedvező politikai konstellációk ellenére is egy szem híd és a Hungária körútnak egy szakasza tudott megépülni.
+1	Elég	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	ha	_	_	_	_	_	_	_	_
+4	arra	_	_	_	_	_	_	_	_
+5	gondolunk	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	hogy	_	_	_	_	_	_	_	_
+8	az	_	_	_	_	_	_	_	_
+9	elmúlt	_	_	_	_	_	_	_	_
+10	tíz	_	_	_	_	_	_	_	_
+11	évben	_	_	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	fővárosnak	_	_	_	_	_	_	_	_
+14	aránylag	_	_	_	_	_	_	_	_
+15	kedvező	_	_	_	_	_	_	_	_
+16	politikai	_	_	_	_	_	_	_	_
+17	konstellációk	_	_	_	_	_	_	_	_
+18	ellenére	_	_	_	_	_	_	_	_
+19	is	_	_	_	_	_	_	_	_
+20	egy	_	_	_	_	_	_	_	_
+21	szem	_	_	_	_	_	_	_	_
+22	híd	_	_	_	_	_	_	_	_
+23	és	_	_	_	_	_	_	_	_
+24	a	_	_	_	_	_	_	_	_
+25	Hungária	_	_	_	_	_	_	_	_
+26	körútnak	_	_	_	_	_	_	_	_
+27	egy	_	_	_	_	_	_	_	_
+28	szakasza	_	_	_	_	_	_	_	_
+29	tudott	_	_	_	_	_	_	_	_
+30	megépülni	_	_	_	_	_	_	_	_
+31	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-795
+# text = Bülent Ecevit török kormányfő pedig jelezte, szeptember végi washingtoni látogatásán kérni fogja az Egyesült Államok segítségét török építési kötvény tengerentúli kibocsátásához 5 milliárd dollár értékben.
+1	Bülent	_	_	_	_	_	_	_	_
+2	Ecevit	_	_	_	_	_	_	_	_
+3	török	_	_	_	_	_	_	_	_
+4	kormányfő	_	_	_	_	_	_	_	_
+5	pedig	_	_	_	_	_	_	_	_
+6	jelezte	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	szeptember	_	_	_	_	_	_	_	_
+9	végi	_	_	_	_	_	_	_	_
+10	washingtoni	_	_	_	_	_	_	_	_
+11	látogatásán	_	_	_	_	_	_	_	_
+12	kérni	_	_	_	_	_	_	_	_
+13	fogja	_	_	_	_	_	_	_	_
+14	az	_	_	_	_	_	_	_	_
+15	Egyesült	_	_	_	_	_	_	_	_
+16	Államok	_	_	_	_	_	_	_	_
+17	segítségét	_	_	_	_	_	_	_	_
+18	török	_	_	_	_	_	_	_	_
+19	építési	_	_	_	_	_	_	_	_
+20	kötvény	_	_	_	_	_	_	_	_
+21	tengerentúli	_	_	_	_	_	_	_	_
+22	kibocsátásához	_	_	_	_	_	_	_	_
+23	5	_	_	_	_	_	_	_	_
+24	milliárd	_	_	_	_	_	_	_	_
+25	dollár	_	_	_	_	_	_	_	_
+26	értékben	_	_	_	_	_	_	_	_
+27	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-157
+# text = Persze azért Röber edző gratulált a csapatnak, és jó eredménynek tartotta az egy pontot.
+1	Persze	_	_	_	_	_	_	_	_
+2	azért	_	_	_	_	_	_	_	_
+3	Röber	_	_	_	_	_	_	_	_
+4	edző	_	_	_	_	_	_	_	_
+5	gratulált	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	csapatnak	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	és	_	_	_	_	_	_	_	_
+10	jó	_	_	_	_	_	_	_	_
+11	eredménynek	_	_	_	_	_	_	_	_
+12	tartotta	_	_	_	_	_	_	_	_
+13	az	_	_	_	_	_	_	_	_
+14	egy	_	_	_	_	_	_	_	_
+15	pontot	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-692
+# text = Az olasz tábornok 1957-től a moszkvai olasz nagykövetség légügyi attaséja volt.
+1	Az	_	_	_	_	_	_	_	_
+2	olasz	_	_	_	_	_	_	_	_
+3	tábornok	_	_	_	_	_	_	_	_
+4	1957-től	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	moszkvai	_	_	_	_	_	_	_	_
+7	olasz	_	_	_	_	_	_	_	_
+8	nagykövetség	_	_	_	_	_	_	_	_
+9	légügyi	_	_	_	_	_	_	_	_
+10	attaséja	_	_	_	_	_	_	_	_
+11	volt	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-842
+# text = Rohamosan veszít népszerűségéből a nagyobbik német kormánypárt, az SPD, s vele együtt Gerhard Schröder kancellár, elsősorban a 30 milliárd márkás takarékossági csomagterv s a párton belül ennek kapcsán felszínre került ellentétek miatt.
+1	Rohamosan	_	_	_	_	_	_	_	_
+2	veszít	_	_	_	_	_	_	_	_
+3	népszerűségéből	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	nagyobbik	_	_	_	_	_	_	_	_
+6	német	_	_	_	_	_	_	_	_
+7	kormánypárt	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	az	_	_	_	_	_	_	_	_
+10	SPD	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	s	_	_	_	_	_	_	_	_
+13	vele	_	_	_	_	_	_	_	_
+14	együtt	_	_	_	_	_	_	_	_
+15	Gerhard	_	_	_	_	_	_	_	_
+16	Schröder	_	_	_	_	_	_	_	_
+17	kancellár	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	elsősorban	_	_	_	_	_	_	_	_
+20	a	_	_	_	_	_	_	_	_
+21	30	_	_	_	_	_	_	_	_
+22	milliárd	_	_	_	_	_	_	_	_
+23	márkás	_	_	_	_	_	_	_	_
+24	takarékossági	_	_	_	_	_	_	_	_
+25	csomagterv	_	_	_	_	_	_	_	_
+26	s	_	_	_	_	_	_	_	_
+27	a	_	_	_	_	_	_	_	_
+28	párton	_	_	_	_	_	_	_	_
+29	belül	_	_	_	_	_	_	_	_
+30	ennek	_	_	_	_	_	_	_	_
+31	kapcsán	_	_	_	_	_	_	_	_
+32	felszínre	_	_	_	_	_	_	_	_
+33	került	_	_	_	_	_	_	_	_
+34	ellentétek	_	_	_	_	_	_	_	_
+35	miatt	_	_	_	_	_	_	_	_
+36	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-29
+# text = Kérdésünkre Buza azt is elmondta: azért volt szükség az albizottság felállítására és munkájára, mert így lehetett a leggyorsabban elkezdeni a Békés megyei olajügyek tisztázását.
+1	Kérdésünkre	_	_	_	_	_	_	_	_
+2	Buza	_	_	_	_	_	_	_	_
+3	azt	_	_	_	_	_	_	_	_
+4	is	_	_	_	_	_	_	_	_
+5	elmondta	_	_	_	_	_	_	_	_
+6	:	_	_	_	_	_	_	_	_
+7	azért	_	_	_	_	_	_	_	_
+8	volt	_	_	_	_	_	_	_	_
+9	szükség	_	_	_	_	_	_	_	_
+10	az	_	_	_	_	_	_	_	_
+11	albizottság	_	_	_	_	_	_	_	_
+12	felállítására	_	_	_	_	_	_	_	_
+13	és	_	_	_	_	_	_	_	_
+14	munkájára	_	_	_	_	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	mert	_	_	_	_	_	_	_	_
+17	így	_	_	_	_	_	_	_	_
+18	lehetett	_	_	_	_	_	_	_	_
+19	a	_	_	_	_	_	_	_	_
+20	leggyorsabban	_	_	_	_	_	_	_	_
+21	elkezdeni	_	_	_	_	_	_	_	_
+22	a	_	_	_	_	_	_	_	_
+23	Békés	_	_	_	_	_	_	_	_
+24	megyei	_	_	_	_	_	_	_	_
+25	olajügyek	_	_	_	_	_	_	_	_
+26	tisztázását	_	_	_	_	_	_	_	_
+27	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-272
+# text = Kardelj hozta a hírt, hogy valamelyik hegyi kórházukban működik egy magyar orvos, aki bizonyos helyzetekben hipnózisban altatja az operálandó betegeket.
+1	Kardelj	_	_	_	_	_	_	_	_
+2	hozta	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	hírt	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	hogy	_	_	_	_	_	_	_	_
+7	valamelyik	_	_	_	_	_	_	_	_
+8	hegyi	_	_	_	_	_	_	_	_
+9	kórházukban	_	_	_	_	_	_	_	_
+10	működik	_	_	_	_	_	_	_	_
+11	egy	_	_	_	_	_	_	_	_
+12	magyar	_	_	_	_	_	_	_	_
+13	orvos	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	aki	_	_	_	_	_	_	_	_
+16	bizonyos	_	_	_	_	_	_	_	_
+17	helyzetekben	_	_	_	_	_	_	_	_
+18	hipnózisban	_	_	_	_	_	_	_	_
+19	altatja	_	_	_	_	_	_	_	_
+20	az	_	_	_	_	_	_	_	_
+21	operálandó	_	_	_	_	_	_	_	_
+22	betegeket	_	_	_	_	_	_	_	_
+23	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-190
+# text = A magyar országgyűlési képviselő, ha akarja, szenátornak nevezi magát, ugyanaz a párt egyik nap ellenzék, a másik nap kormányoldalon álló, sőt a parlamenti többség akarata még a matematikánál is erősebb.
+1	A	_	_	_	_	_	_	_	_
+2	magyar	_	_	_	_	_	_	_	_
+3	országgyűlési	_	_	_	_	_	_	_	_
+4	képviselő	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	ha	_	_	_	_	_	_	_	_
+7	akarja	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	szenátornak	_	_	_	_	_	_	_	_
+10	nevezi	_	_	_	_	_	_	_	_
+11	magát	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	ugyanaz	_	_	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	párt	_	_	_	_	_	_	_	_
+16	egyik	_	_	_	_	_	_	_	_
+17	nap	_	_	_	_	_	_	_	_
+18	ellenzék	_	_	_	_	_	_	_	_
+19	,	_	_	_	_	_	_	_	_
+20	a	_	_	_	_	_	_	_	_
+21	másik	_	_	_	_	_	_	_	_
+22	nap	_	_	_	_	_	_	_	_
+23	kormányoldalon	_	_	_	_	_	_	_	_
+24	álló	_	_	_	_	_	_	_	_
+25	,	_	_	_	_	_	_	_	_
+26	sőt	_	_	_	_	_	_	_	_
+27	a	_	_	_	_	_	_	_	_
+28	parlamenti	_	_	_	_	_	_	_	_
+29	többség	_	_	_	_	_	_	_	_
+30	akarata	_	_	_	_	_	_	_	_
+31	még	_	_	_	_	_	_	_	_
+32	a	_	_	_	_	_	_	_	_
+33	matematikánál	_	_	_	_	_	_	_	_
+34	is	_	_	_	_	_	_	_	_
+35	erősebb	_	_	_	_	_	_	_	_
+36	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-260
+# text = A hús-, a tej-, a baromfi-, a malom-, az édes- és a konzerviparban azonban még nagy átalakulásokra várhatók.
+1	A	_	_	_	_	_	_	_	_
+2	hús-	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	tej-	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	baromfi-	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	malom-	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	az	_	_	_	_	_	_	_	_
+14	édes-	_	_	_	_	_	_	_	_
+15	és	_	_	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	konzerviparban	_	_	_	_	_	_	_	_
+18	azonban	_	_	_	_	_	_	_	_
+19	még	_	_	_	_	_	_	_	_
+20	nagy	_	_	_	_	_	_	_	_
+21	átalakulásokra	_	_	_	_	_	_	_	_
+22	várhatók	_	_	_	_	_	_	_	_
+23	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-625
+# text = A diplomata ugyanakkor hozzátette: a restitúcióra csak kedvező politikai légkörben kerülhet sor.
+1	A	_	_	_	_	_	_	_	_
+2	diplomata	_	_	_	_	_	_	_	_
+3	ugyanakkor	_	_	_	_	_	_	_	_
+4	hozzátette	_	_	_	_	_	_	_	_
+5	:	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	restitúcióra	_	_	_	_	_	_	_	_
+8	csak	_	_	_	_	_	_	_	_
+9	kedvező	_	_	_	_	_	_	_	_
+10	politikai	_	_	_	_	_	_	_	_
+11	légkörben	_	_	_	_	_	_	_	_
+12	kerülhet	_	_	_	_	_	_	_	_
+13	sor	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-22
+# text = A legfőbb ügyész, Györgyi Kálmán meghallgatásával, kisgazda képviselők nélkül ma megkezdi munkáját az olajügyeket vizsgáló parlamenti testület.
+1	A	_	_	_	_	_	_	_	_
+2	legfőbb	_	_	_	_	_	_	_	_
+3	ügyész	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	Györgyi	_	_	_	_	_	_	_	_
+6	Kálmán	_	_	_	_	_	_	_	_
+7	meghallgatásával	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	kisgazda	_	_	_	_	_	_	_	_
+10	képviselők	_	_	_	_	_	_	_	_
+11	nélkül	_	_	_	_	_	_	_	_
+12	ma	_	_	_	_	_	_	_	_
+13	megkezdi	_	_	_	_	_	_	_	_
+14	munkáját	_	_	_	_	_	_	_	_
+15	az	_	_	_	_	_	_	_	_
+16	olajügyeket	_	_	_	_	_	_	_	_
+17	vizsgáló	_	_	_	_	_	_	_	_
+18	parlamenti	_	_	_	_	_	_	_	_
+19	testület	_	_	_	_	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-311
+# text = A két "államalkotó" nemzetiség között ugyanis annyira kiéleződtek az ellentétek, hogy feltehetően a választások megismétlése sem jelentene kiutat.
+1	A	_	_	_	_	_	_	_	_
+2	két	_	_	_	_	_	_	_	_
+3	"	_	_	_	_	_	_	_	_
+4	államalkotó	_	_	_	_	_	_	_	_
+5	"	_	_	_	_	_	_	_	_
+6	nemzetiség	_	_	_	_	_	_	_	_
+7	között	_	_	_	_	_	_	_	_
+8	ugyanis	_	_	_	_	_	_	_	_
+9	annyira	_	_	_	_	_	_	_	_
+10	kiéleződtek	_	_	_	_	_	_	_	_
+11	az	_	_	_	_	_	_	_	_
+12	ellentétek	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	hogy	_	_	_	_	_	_	_	_
+15	feltehetően	_	_	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	választások	_	_	_	_	_	_	_	_
+18	megismétlése	_	_	_	_	_	_	_	_
+19	sem	_	_	_	_	_	_	_	_
+20	jelentene	_	_	_	_	_	_	_	_
+21	kiutat	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-323
+# text = Őszi jogalkotási programja összeállításakor — vélhetően a parlament megváltozott teljesítőképességével kalkulálva — a kormány egyébként nem kívánta túlvállalni magát: a házelnöknek küldött június 30-ai levelében Orbán Viktor összesen 43 törvényjavaslatot sorol fel, amelyek közül 28 tervezetet minősített okvetlenül "elfogadandónak".
+1	Őszi	_	_	_	_	_	_	_	_
+2	jogalkotási	_	_	_	_	_	_	_	_
+3	programja	_	_	_	_	_	_	_	_
+4	összeállításakor	_	_	_	_	_	_	_	_
+5	—	_	_	_	_	_	_	_	_
+6	vélhetően	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	parlament	_	_	_	_	_	_	_	_
+9	megváltozott	_	_	_	_	_	_	_	_
+10	teljesítőképességével	_	_	_	_	_	_	_	_
+11	kalkulálva	_	_	_	_	_	_	_	_
+12	—	_	_	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	kormány	_	_	_	_	_	_	_	_
+15	egyébként	_	_	_	_	_	_	_	_
+16	nem	_	_	_	_	_	_	_	_
+17	kívánta	_	_	_	_	_	_	_	_
+18	túlvállalni	_	_	_	_	_	_	_	_
+19	magát	_	_	_	_	_	_	_	_
+20	:	_	_	_	_	_	_	_	_
+21	a	_	_	_	_	_	_	_	_
+22	házelnöknek	_	_	_	_	_	_	_	_
+23	küldött	_	_	_	_	_	_	_	_
+24	június	_	_	_	_	_	_	_	_
+25	30-ai	_	_	_	_	_	_	_	_
+26	levelében	_	_	_	_	_	_	_	_
+27	Orbán	_	_	_	_	_	_	_	_
+28	Viktor	_	_	_	_	_	_	_	_
+29	összesen	_	_	_	_	_	_	_	_
+30	43	_	_	_	_	_	_	_	_
+31	törvényjavaslatot	_	_	_	_	_	_	_	_
+32	sorol	_	_	_	_	_	_	_	_
+33	fel	_	_	_	_	_	_	_	_
+34	,	_	_	_	_	_	_	_	_
+35	amelyek	_	_	_	_	_	_	_	_
+36	közül	_	_	_	_	_	_	_	_
+37	28	_	_	_	_	_	_	_	_
+38	tervezetet	_	_	_	_	_	_	_	_
+39	minősített	_	_	_	_	_	_	_	_
+40	okvetlenül	_	_	_	_	_	_	_	_
+41	"	_	_	_	_	_	_	_	_
+42	elfogadandónak	_	_	_	_	_	_	_	_
+43	"	_	_	_	_	_	_	_	_
+44	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-493
+# text = Olyan vagyok ebben a társadalomban, mint volt egykor a dinoszaurusz: hiába mondták neki, hogy "Repülj!", nem tudott repülni és kihalt.
+1	Olyan	_	_	_	_	_	_	_	_
+2	vagyok	_	_	_	_	_	_	_	_
+3	ebben	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	társadalomban	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	mint	_	_	_	_	_	_	_	_
+8	volt	_	_	_	_	_	_	_	_
+9	egykor	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	dinoszaurusz	_	_	_	_	_	_	_	_
+12	:	_	_	_	_	_	_	_	_
+13	hiába	_	_	_	_	_	_	_	_
+14	mondták	_	_	_	_	_	_	_	_
+15	neki	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	hogy	_	_	_	_	_	_	_	_
+18	"	_	_	_	_	_	_	_	_
+19	Repülj	_	_	_	_	_	_	_	_
+20	!	_	_	_	_	_	_	_	_
+21	"	_	_	_	_	_	_	_	_
+22	,	_	_	_	_	_	_	_	_
+23	nem	_	_	_	_	_	_	_	_
+24	tudott	_	_	_	_	_	_	_	_
+25	repülni	_	_	_	_	_	_	_	_
+26	és	_	_	_	_	_	_	_	_
+27	kihalt	_	_	_	_	_	_	_	_
+28	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-638
+# text = Aszlan Maszhadov csecsen elnök közölte: az urusz-martani harcosok megfogadták, hogy egész télen helyükön maradnak és harcolnak.
+1	Aszlan	_	_	_	_	_	_	_	_
+2	Maszhadov	_	_	_	_	_	_	_	_
+3	csecsen	_	_	_	_	_	_	_	_
+4	elnök	_	_	_	_	_	_	_	_
+5	közölte	_	_	_	_	_	_	_	_
+6	:	_	_	_	_	_	_	_	_
+7	az	_	_	_	_	_	_	_	_
+8	urusz-martani	_	_	_	_	_	_	_	_
+9	harcosok	_	_	_	_	_	_	_	_
+10	megfogadták	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	hogy	_	_	_	_	_	_	_	_
+13	egész	_	_	_	_	_	_	_	_
+14	télen	_	_	_	_	_	_	_	_
+15	helyükön	_	_	_	_	_	_	_	_
+16	maradnak	_	_	_	_	_	_	_	_
+17	és	_	_	_	_	_	_	_	_
+18	harcolnak	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-828
+# text = Az elégedetlenséget hosszabb távon az ellenzék, elsősorban is az iszlámisták aknázhatják ki, akiknek jelentős politikai muníciót szolgáltathat a "könyörtelen, profitéhes építészeti maffia" elleni harag.
+1	Az	_	_	_	_	_	_	_	_
+2	elégedetlenséget	_	_	_	_	_	_	_	_
+3	hosszabb	_	_	_	_	_	_	_	_
+4	távon	_	_	_	_	_	_	_	_
+5	az	_	_	_	_	_	_	_	_
+6	ellenzék	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	elsősorban	_	_	_	_	_	_	_	_
+9	is	_	_	_	_	_	_	_	_
+10	az	_	_	_	_	_	_	_	_
+11	iszlámisták	_	_	_	_	_	_	_	_
+12	aknázhatják	_	_	_	_	_	_	_	_
+13	ki	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	akiknek	_	_	_	_	_	_	_	_
+16	jelentős	_	_	_	_	_	_	_	_
+17	politikai	_	_	_	_	_	_	_	_
+18	muníciót	_	_	_	_	_	_	_	_
+19	szolgáltathat	_	_	_	_	_	_	_	_
+20	a	_	_	_	_	_	_	_	_
+21	"	_	_	_	_	_	_	_	_
+22	könyörtelen	_	_	_	_	_	_	_	_
+23	,	_	_	_	_	_	_	_	_
+24	profitéhes	_	_	_	_	_	_	_	_
+25	építészeti	_	_	_	_	_	_	_	_
+26	maffia	_	_	_	_	_	_	_	_
+27	"	_	_	_	_	_	_	_	_
+28	elleni	_	_	_	_	_	_	_	_
+29	harag	_	_	_	_	_	_	_	_
+30	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-176
+# text = Tudomásunk szerint további szakmai kérdések is felmerülnek.
+1	Tudomásunk	_	_	_	_	_	_	_	_
+2	szerint	_	_	_	_	_	_	_	_
+3	további	_	_	_	_	_	_	_	_
+4	szakmai	_	_	_	_	_	_	_	_
+5	kérdések	_	_	_	_	_	_	_	_
+6	is	_	_	_	_	_	_	_	_
+7	felmerülnek	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-96
+# text = Pedig a hó elleni küzdelem önmagában sem könnyű " — teszi hozzá a lelkes kis csapat vezetője.
+1	Pedig	_	_	_	_	_	_	_	_
+2	a	_	_	_	_	_	_	_	_
+3	hó	_	_	_	_	_	_	_	_
+4	elleni	_	_	_	_	_	_	_	_
+5	küzdelem	_	_	_	_	_	_	_	_
+6	önmagában	_	_	_	_	_	_	_	_
+7	sem	_	_	_	_	_	_	_	_
+8	könnyű	_	_	_	_	_	_	_	_
+9	"	_	_	_	_	_	_	_	_
+10	—	_	_	_	_	_	_	_	_
+11	teszi	_	_	_	_	_	_	_	_
+12	hozzá	_	_	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	lelkes	_	_	_	_	_	_	_	_
+15	kis	_	_	_	_	_	_	_	_
+16	csapat	_	_	_	_	_	_	_	_
+17	vezetője	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+

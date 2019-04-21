@@ -1,0 +1,4407 @@
+# sent_id = 2020
+# text = en ce qui me concerne j' aimerais enseigner dans un établissement public
+1	en	_	_	_	_	_	_	_	_
+2	ce	_	_	_	_	_	_	_	_
+3	qui	_	_	_	_	_	_	_	_
+4	me	_	_	_	_	_	_	_	_
+5	concerne	_	_	_	_	_	_	_	_
+6	j'	_	_	_	_	_	_	_	_
+7	aimerais	_	_	_	_	_	_	_	_
+8	enseigner	_	_	_	_	_	_	_	_
+9	dans	_	_	_	_	_	_	_	_
+10	un	_	_	_	_	_	_	_	_
+11	établissement	_	_	_	_	_	_	_	_
+12	public	_	_	_	_	_	_	_	_
+
+# sent_id = 1080
+# text = il y a
+1	il	_	_	_	_	_	_	_	_
+2	y	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+
+# sent_id = 396
+# text = bah euh oh bah de
+1	bah	_	_	_	_	_	_	_	_
+2	euh	_	_	_	_	_	_	_	_
+3	oh	_	_	_	_	_	_	_	_
+4	bah	_	_	_	_	_	_	_	_
+5	de	_	_	_	_	_	_	_	_
+
+# sent_id = 2104
+# text = j' ouvre
+1	j'	_	_	_	_	_	_	_	_
+2	ouvre	_	_	_	_	_	_	_	_
+
+# sent_id = 1218
+# text = et ils ont envie de faire la spécialité qui rapportera le plus
+1	et	_	_	_	_	_	_	_	_
+2	ils	_	_	_	_	_	_	_	_
+3	ont	_	_	_	_	_	_	_	_
+4	envie	_	_	_	_	_	_	_	_
+5	de	_	_	_	_	_	_	_	_
+6	faire	_	_	_	_	_	_	_	_
+7	la	_	_	_	_	_	_	_	_
+8	spécialité	_	_	_	_	_	_	_	_
+9	qui	_	_	_	_	_	_	_	_
+10	rapportera	_	_	_	_	_	_	_	_
+11	le	_	_	_	_	_	_	_	_
+12	plus	_	_	_	_	_	_	_	_
+
+# sent_id = 1391
+# text = au rond - point il faut tourner à gauche
+1	au	_	_	_	_	_	_	_	_
+2	rond	_	_	_	_	_	_	_	_
+3	-	_	_	_	_	_	_	_	_
+4	point	_	_	_	_	_	_	_	_
+5	il	_	_	_	_	_	_	_	_
+6	faut	_	_	_	_	_	_	_	_
+7	tourner	_	_	_	_	_	_	_	_
+8	à	_	_	_	_	_	_	_	_
+9	gauche	_	_	_	_	_	_	_	_
+
+# sent_id = 288
+# text = et pour l' instant l' équipe de France n' arrive pas à récupérer ce ballon
+1	et	_	_	_	_	_	_	_	_
+2	pour	_	_	_	_	_	_	_	_
+3	l'	_	_	_	_	_	_	_	_
+4	instant	_	_	_	_	_	_	_	_
+5	l'	_	_	_	_	_	_	_	_
+6	équipe	_	_	_	_	_	_	_	_
+7	de	_	_	_	_	_	_	_	_
+8	France	_	_	_	_	_	_	_	_
+9	n'	_	_	_	_	_	_	_	_
+10	arrive	_	_	_	_	_	_	_	_
+11	pas	_	_	_	_	_	_	_	_
+12	à	_	_	_	_	_	_	_	_
+13	récupérer	_	_	_	_	_	_	_	_
+14	ce	_	_	_	_	_	_	_	_
+15	ballon	_	_	_	_	_	_	_	_
+
+# sent_id = 541
+# text = voilà elle a l' air triste
+1	voilà	_	_	_	_	_	_	_	_
+2	elle	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	l'	_	_	_	_	_	_	_	_
+5	air	_	_	_	_	_	_	_	_
+6	triste	_	_	_	_	_	_	_	_
+
+# sent_id = 1379
+# text = et euh jusque jusqu' à la première justement où après on m' a dit tu tu iras pas en S
+1	et	_	_	_	_	_	_	_	_
+2	euh	_	_	_	_	_	_	_	_
+3	jusque	_	_	_	_	_	_	_	_
+4	jusqu'	_	_	_	_	_	_	_	_
+5	à	_	_	_	_	_	_	_	_
+6	la	_	_	_	_	_	_	_	_
+7	première	_	_	_	_	_	_	_	_
+8	justement	_	_	_	_	_	_	_	_
+9	où	_	_	_	_	_	_	_	_
+10	après	_	_	_	_	_	_	_	_
+11	on	_	_	_	_	_	_	_	_
+12	m'	_	_	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	dit	_	_	_	_	_	_	_	_
+15	tu	_	_	_	_	_	_	_	_
+16	tu	_	_	_	_	_	_	_	_
+17	iras	_	_	_	_	_	_	_	_
+18	pas	_	_	_	_	_	_	_	_
+19	en	_	_	_	_	_	_	_	_
+20	S	_	_	_	_	_	_	_	_
+
+# sent_id = 20
+# text = et voilà
+1	et	_	_	_	_	_	_	_	_
+2	voilà	_	_	_	_	_	_	_	_
+
+# sent_id = 783
+# text = on n' a pas beaucoup parlé de l' expérience ressentie de l' art
+1	on	_	_	_	_	_	_	_	_
+2	n'	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	pas	_	_	_	_	_	_	_	_
+5	beaucoup	_	_	_	_	_	_	_	_
+6	parlé	_	_	_	_	_	_	_	_
+7	de	_	_	_	_	_	_	_	_
+8	l'	_	_	_	_	_	_	_	_
+9	expérience	_	_	_	_	_	_	_	_
+10	ressentie	_	_	_	_	_	_	_	_
+11	de	_	_	_	_	_	_	_	_
+12	l'	_	_	_	_	_	_	_	_
+13	art	_	_	_	_	_	_	_	_
+
+# sent_id = 176
+# text = il faut y aller plus vite
+1	il	_	_	_	_	_	_	_	_
+2	faut	_	_	_	_	_	_	_	_
+3	y	_	_	_	_	_	_	_	_
+4	aller	_	_	_	_	_	_	_	_
+5	plus	_	_	_	_	_	_	_	_
+6	vite	_	_	_	_	_	_	_	_
+
+# sent_id = 36
+# text = c' est donc à euh gauche euh ensuite euh donc gauche
+1	c'	_	_	_	_	_	_	_	_
+2	est	_	_	_	_	_	_	_	_
+3	donc	_	_	_	_	_	_	_	_
+4	à	_	_	_	_	_	_	_	_
+5	euh	_	_	_	_	_	_	_	_
+6	gauche	_	_	_	_	_	_	_	_
+7	euh	_	_	_	_	_	_	_	_
+8	ensuite	_	_	_	_	_	_	_	_
+9	euh	_	_	_	_	_	_	_	_
+10	donc	_	_	_	_	_	_	_	_
+11	gauche	_	_	_	_	_	_	_	_
+
+# sent_id = 1079
+# text = donc oui euh de ce point de vue -là puis il y a deux maternelles mais euh de ce point de vue -là ce sont des écoles publiques hein
+1	donc	_	_	_	_	_	_	_	_
+2	oui	_	_	_	_	_	_	_	_
+3	euh	_	_	_	_	_	_	_	_
+4	de	_	_	_	_	_	_	_	_
+5	ce	_	_	_	_	_	_	_	_
+6	point	_	_	_	_	_	_	_	_
+7	de	_	_	_	_	_	_	_	_
+8	vue	_	_	_	_	_	_	_	_
+9	-là	_	_	_	_	_	_	_	_
+10	puis	_	_	_	_	_	_	_	_
+11	il	_	_	_	_	_	_	_	_
+12	y	_	_	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	deux	_	_	_	_	_	_	_	_
+15	maternelles	_	_	_	_	_	_	_	_
+16	mais	_	_	_	_	_	_	_	_
+17	euh	_	_	_	_	_	_	_	_
+18	de	_	_	_	_	_	_	_	_
+19	ce	_	_	_	_	_	_	_	_
+20	point	_	_	_	_	_	_	_	_
+21	de	_	_	_	_	_	_	_	_
+22	vue	_	_	_	_	_	_	_	_
+23	-là	_	_	_	_	_	_	_	_
+24	ce	_	_	_	_	_	_	_	_
+25	sont	_	_	_	_	_	_	_	_
+26	des	_	_	_	_	_	_	_	_
+27	écoles	_	_	_	_	_	_	_	_
+28	publiques	_	_	_	_	_	_	_	_
+29	hein	_	_	_	_	_	_	_	_
+
+# sent_id = 2350
+# text = vous êtes par ailleurs responsable du développement des vaccins contre les maladies virales émergentes dans un laboratoire
+1	vous	_	_	_	_	_	_	_	_
+2	êtes	_	_	_	_	_	_	_	_
+3	par	_	_	_	_	_	_	_	_
+4	ailleurs	_	_	_	_	_	_	_	_
+5	responsable	_	_	_	_	_	_	_	_
+6	du	_	_	_	_	_	_	_	_
+7	développement	_	_	_	_	_	_	_	_
+8	des	_	_	_	_	_	_	_	_
+9	vaccins	_	_	_	_	_	_	_	_
+10	contre	_	_	_	_	_	_	_	_
+11	les	_	_	_	_	_	_	_	_
+12	maladies	_	_	_	_	_	_	_	_
+13	virales	_	_	_	_	_	_	_	_
+14	émergentes	_	_	_	_	_	_	_	_
+15	dans	_	_	_	_	_	_	_	_
+16	un	_	_	_	_	_	_	_	_
+17	laboratoire	_	_	_	_	_	_	_	_
+
+# sent_id = 711
+# text = et donc elle se dit eh bah elle peut récupérer elle pourra récupérer quelque chose
+1	et	_	_	_	_	_	_	_	_
+2	donc	_	_	_	_	_	_	_	_
+3	elle	_	_	_	_	_	_	_	_
+4	se	_	_	_	_	_	_	_	_
+5	dit	_	_	_	_	_	_	_	_
+6	eh	_	_	_	_	_	_	_	_
+7	bah	_	_	_	_	_	_	_	_
+8	elle	_	_	_	_	_	_	_	_
+9	peut	_	_	_	_	_	_	_	_
+10	récupérer	_	_	_	_	_	_	_	_
+11	elle	_	_	_	_	_	_	_	_
+12	pourra	_	_	_	_	_	_	_	_
+13	récupérer	_	_	_	_	_	_	_	_
+14	quelque	_	_	_	_	_	_	_	_
+15	chose	_	_	_	_	_	_	_	_
+
+# sent_id = 1675
+# text = on s' en va
+1	on	_	_	_	_	_	_	_	_
+2	s'	_	_	_	_	_	_	_	_
+3	en	_	_	_	_	_	_	_	_
+4	va	_	_	_	_	_	_	_	_
+
+# sent_id = 353
+# text = progrès de la science
+1	progrès	_	_	_	_	_	_	_	_
+2	de	_	_	_	_	_	_	_	_
+3	la	_	_	_	_	_	_	_	_
+4	science	_	_	_	_	_	_	_	_
+
+# sent_id = 47
+# text = et tu montes
+1	et	_	_	_	_	_	_	_	_
+2	tu	_	_	_	_	_	_	_	_
+3	montes	_	_	_	_	_	_	_	_
+
+# sent_id = 1406
+# text = bon autre chose
+1	bon	_	_	_	_	_	_	_	_
+2	autre	_	_	_	_	_	_	_	_
+3	chose	_	_	_	_	_	_	_	_
+
+# sent_id = 46
+# text = et ensuite c' est la première ou enfin non euh deuxième ou troisième troisième il me semble à droite
+1	et	_	_	_	_	_	_	_	_
+2	ensuite	_	_	_	_	_	_	_	_
+3	c'	_	_	_	_	_	_	_	_
+4	est	_	_	_	_	_	_	_	_
+5	la	_	_	_	_	_	_	_	_
+6	première	_	_	_	_	_	_	_	_
+7	ou	_	_	_	_	_	_	_	_
+8	enfin	_	_	_	_	_	_	_	_
+9	non	_	_	_	_	_	_	_	_
+10	euh	_	_	_	_	_	_	_	_
+11	deuxième	_	_	_	_	_	_	_	_
+12	ou	_	_	_	_	_	_	_	_
+13	troisième	_	_	_	_	_	_	_	_
+14	troisième	_	_	_	_	_	_	_	_
+15	il	_	_	_	_	_	_	_	_
+16	me	_	_	_	_	_	_	_	_
+17	semble	_	_	_	_	_	_	_	_
+18	à	_	_	_	_	_	_	_	_
+19	droite	_	_	_	_	_	_	_	_
+
+# sent_id = 910
+# text = pas de problème
+1	pas	_	_	_	_	_	_	_	_
+2	de	_	_	_	_	_	_	_	_
+3	problème	_	_	_	_	_	_	_	_
+
+# sent_id = 1481
+# text = tu as vu comment ils sont
+1	tu	_	_	_	_	_	_	_	_
+2	as	_	_	_	_	_	_	_	_
+3	vu	_	_	_	_	_	_	_	_
+4	comment	_	_	_	_	_	_	_	_
+5	ils	_	_	_	_	_	_	_	_
+6	sont	_	_	_	_	_	_	_	_
+
+# sent_id = 233
+# text = pour Rodriguez
+1	pour	_	_	_	_	_	_	_	_
+2	Rodriguez	_	_	_	_	_	_	_	_
+
+# sent_id = 1938
+# text = bah oui
+1	bah	_	_	_	_	_	_	_	_
+2	oui	_	_	_	_	_	_	_	_
+
+# sent_id = 519
+# text = c' est une petite référence philosophique
+1	c'	_	_	_	_	_	_	_	_
+2	est	_	_	_	_	_	_	_	_
+3	une	_	_	_	_	_	_	_	_
+4	petite	_	_	_	_	_	_	_	_
+5	référence	_	_	_	_	_	_	_	_
+6	philosophique	_	_	_	_	_	_	_	_
+
+# sent_id = 2573
+# text = on s' en aperçoit tout de suite
+1	on	_	_	_	_	_	_	_	_
+2	s'	_	_	_	_	_	_	_	_
+3	en	_	_	_	_	_	_	_	_
+4	aperçoit	_	_	_	_	_	_	_	_
+5	tout	_	_	_	_	_	_	_	_
+6	de	_	_	_	_	_	_	_	_
+7	suite	_	_	_	_	_	_	_	_
+
+# sent_id = 85
+# text = oui puisque finalement ça fait euh quarante-huit ans que vous êtes au Kenya quarante-huit ans
+1	oui	_	_	_	_	_	_	_	_
+2	puisque	_	_	_	_	_	_	_	_
+3	finalement	_	_	_	_	_	_	_	_
+4	ça	_	_	_	_	_	_	_	_
+5	fait	_	_	_	_	_	_	_	_
+6	euh	_	_	_	_	_	_	_	_
+7	quarante-huit	_	_	_	_	_	_	_	_
+8	ans	_	_	_	_	_	_	_	_
+9	que	_	_	_	_	_	_	_	_
+10	vous	_	_	_	_	_	_	_	_
+11	êtes	_	_	_	_	_	_	_	_
+12	au	_	_	_	_	_	_	_	_
+13	Kenya	_	_	_	_	_	_	_	_
+14	quarante-huit	_	_	_	_	_	_	_	_
+15	ans	_	_	_	_	_	_	_	_
+
+# sent_id = 2727
+# text = je leur adresse un salut très amical
+1	je	_	_	_	_	_	_	_	_
+2	leur	_	_	_	_	_	_	_	_
+3	adresse	_	_	_	_	_	_	_	_
+4	un	_	_	_	_	_	_	_	_
+5	salut	_	_	_	_	_	_	_	_
+6	très	_	_	_	_	_	_	_	_
+7	amical	_	_	_	_	_	_	_	_
+
+# sent_id = 1536
+# text = soit que c' était une frange soit le tissu ou rien
+1	soit	_	_	_	_	_	_	_	_
+2	que	_	_	_	_	_	_	_	_
+3	c'	_	_	_	_	_	_	_	_
+4	était	_	_	_	_	_	_	_	_
+5	une	_	_	_	_	_	_	_	_
+6	frange	_	_	_	_	_	_	_	_
+7	soit	_	_	_	_	_	_	_	_
+8	le	_	_	_	_	_	_	_	_
+9	tissu	_	_	_	_	_	_	_	_
+10	ou	_	_	_	_	_	_	_	_
+11	rien	_	_	_	_	_	_	_	_
+
+# sent_id = 1506
+# text = ben oui mais si je veux garder les teintes de l' époque non c' est pas possible
+1	ben	_	_	_	_	_	_	_	_
+2	oui	_	_	_	_	_	_	_	_
+3	mais	_	_	_	_	_	_	_	_
+4	si	_	_	_	_	_	_	_	_
+5	je	_	_	_	_	_	_	_	_
+6	veux	_	_	_	_	_	_	_	_
+7	garder	_	_	_	_	_	_	_	_
+8	les	_	_	_	_	_	_	_	_
+9	teintes	_	_	_	_	_	_	_	_
+10	de	_	_	_	_	_	_	_	_
+11	l'	_	_	_	_	_	_	_	_
+12	époque	_	_	_	_	_	_	_	_
+13	non	_	_	_	_	_	_	_	_
+14	c'	_	_	_	_	_	_	_	_
+15	est	_	_	_	_	_	_	_	_
+16	pas	_	_	_	_	_	_	_	_
+17	possible	_	_	_	_	_	_	_	_
+
+# sent_id = 584
+# text = ah oui c' est un très beau trajet ce quatre-vingt-six
+1	ah	_	_	_	_	_	_	_	_
+2	oui	_	_	_	_	_	_	_	_
+3	c'	_	_	_	_	_	_	_	_
+4	est	_	_	_	_	_	_	_	_
+5	un	_	_	_	_	_	_	_	_
+6	très	_	_	_	_	_	_	_	_
+7	beau	_	_	_	_	_	_	_	_
+8	trajet	_	_	_	_	_	_	_	_
+9	ce	_	_	_	_	_	_	_	_
+10	quatre-vingt-six	_	_	_	_	_	_	_	_
+
+# sent_id = 2525
+# text = ça n' a rien à voir avec euh la littérature
+1	ça	_	_	_	_	_	_	_	_
+2	n'	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	rien	_	_	_	_	_	_	_	_
+5	à	_	_	_	_	_	_	_	_
+6	voir	_	_	_	_	_	_	_	_
+7	avec	_	_	_	_	_	_	_	_
+8	euh	_	_	_	_	_	_	_	_
+9	la	_	_	_	_	_	_	_	_
+10	littérature	_	_	_	_	_	_	_	_
+
+# sent_id = 449
+# text = au déb~ ils avaient même peur si tu veux d' appuyer sur une mauvaise touche
+1	au	_	_	_	_	_	_	_	_
+2	déb~	_	_	_	_	_	_	_	_
+3	ils	_	_	_	_	_	_	_	_
+4	avaient	_	_	_	_	_	_	_	_
+5	même	_	_	_	_	_	_	_	_
+6	peur	_	_	_	_	_	_	_	_
+7	si	_	_	_	_	_	_	_	_
+8	tu	_	_	_	_	_	_	_	_
+9	veux	_	_	_	_	_	_	_	_
+10	d'	_	_	_	_	_	_	_	_
+11	appuyer	_	_	_	_	_	_	_	_
+12	sur	_	_	_	_	_	_	_	_
+13	une	_	_	_	_	_	_	_	_
+14	mauvaise	_	_	_	_	_	_	_	_
+15	touche	_	_	_	_	_	_	_	_
+
+# sent_id = 931
+# text = entre Häagen Dazs et France Loisirs il y a une rue
+1	entre	_	_	_	_	_	_	_	_
+2	Häagen	_	_	_	_	_	_	_	_
+3	Dazs	_	_	_	_	_	_	_	_
+4	et	_	_	_	_	_	_	_	_
+5	France	_	_	_	_	_	_	_	_
+6	Loisirs	_	_	_	_	_	_	_	_
+7	il	_	_	_	_	_	_	_	_
+8	y	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	une	_	_	_	_	_	_	_	_
+11	rue	_	_	_	_	_	_	_	_
+
+# sent_id = 990
+# text = et c' est en cela que peut-être ma situation est un peu difficile à repérer
+1	et	_	_	_	_	_	_	_	_
+2	c'	_	_	_	_	_	_	_	_
+3	est	_	_	_	_	_	_	_	_
+4	en	_	_	_	_	_	_	_	_
+5	cela	_	_	_	_	_	_	_	_
+6	que	_	_	_	_	_	_	_	_
+7	peut-être	_	_	_	_	_	_	_	_
+8	ma	_	_	_	_	_	_	_	_
+9	situation	_	_	_	_	_	_	_	_
+10	est	_	_	_	_	_	_	_	_
+11	un	_	_	_	_	_	_	_	_
+12	peu	_	_	_	_	_	_	_	_
+13	difficile	_	_	_	_	_	_	_	_
+14	à	_	_	_	_	_	_	_	_
+15	repérer	_	_	_	_	_	_	_	_
+
+# sent_id = 2233
+# text = et vous êtes sur un bac qui traverse le fleuve c' est - à - dire le Mekong
+1	et	_	_	_	_	_	_	_	_
+2	vous	_	_	_	_	_	_	_	_
+3	êtes	_	_	_	_	_	_	_	_
+4	sur	_	_	_	_	_	_	_	_
+5	un	_	_	_	_	_	_	_	_
+6	bac	_	_	_	_	_	_	_	_
+7	qui	_	_	_	_	_	_	_	_
+8	traverse	_	_	_	_	_	_	_	_
+9	le	_	_	_	_	_	_	_	_
+10	fleuve	_	_	_	_	_	_	_	_
+11	c'	_	_	_	_	_	_	_	_
+12	est	_	_	_	_	_	_	_	_
+13	-	_	_	_	_	_	_	_	_
+14	à	_	_	_	_	_	_	_	_
+15	-	_	_	_	_	_	_	_	_
+16	dire	_	_	_	_	_	_	_	_
+17	le	_	_	_	_	_	_	_	_
+18	Mekong	_	_	_	_	_	_	_	_
+
+# sent_id = 1061
+# text = moi je suis là depuis euh vingt-trois ans
+1	moi	_	_	_	_	_	_	_	_
+2	je	_	_	_	_	_	_	_	_
+3	suis	_	_	_	_	_	_	_	_
+4	là	_	_	_	_	_	_	_	_
+5	depuis	_	_	_	_	_	_	_	_
+6	euh	_	_	_	_	_	_	_	_
+7	vingt-trois	_	_	_	_	_	_	_	_
+8	ans	_	_	_	_	_	_	_	_
+
+# sent_id = 539
+# text = et on se retrouve dans la rue avec une jeune fille euh qui visiblement regarde des vitrines euh avec des chaussures
+1	et	_	_	_	_	_	_	_	_
+2	on	_	_	_	_	_	_	_	_
+3	se	_	_	_	_	_	_	_	_
+4	retrouve	_	_	_	_	_	_	_	_
+5	dans	_	_	_	_	_	_	_	_
+6	la	_	_	_	_	_	_	_	_
+7	rue	_	_	_	_	_	_	_	_
+8	avec	_	_	_	_	_	_	_	_
+9	une	_	_	_	_	_	_	_	_
+10	jeune	_	_	_	_	_	_	_	_
+11	fille	_	_	_	_	_	_	_	_
+12	euh	_	_	_	_	_	_	_	_
+13	qui	_	_	_	_	_	_	_	_
+14	visiblement	_	_	_	_	_	_	_	_
+15	regarde	_	_	_	_	_	_	_	_
+16	des	_	_	_	_	_	_	_	_
+17	vitrines	_	_	_	_	_	_	_	_
+18	euh	_	_	_	_	_	_	_	_
+19	avec	_	_	_	_	_	_	_	_
+20	des	_	_	_	_	_	_	_	_
+21	chaussures	_	_	_	_	_	_	_	_
+
+# sent_id = 1304
+# text = merci Sébastien Paour
+1	merci	_	_	_	_	_	_	_	_
+2	Sébastien	_	_	_	_	_	_	_	_
+3	Paour	_	_	_	_	_	_	_	_
+
+# sent_id = 2082
+# text = bonjour Pierre
+1	bonjour	_	_	_	_	_	_	_	_
+2	Pierre	_	_	_	_	_	_	_	_
+
+# sent_id = 2616
+# text = faudrait quand même revenir un peu au début
+1	faudrait	_	_	_	_	_	_	_	_
+2	quand	_	_	_	_	_	_	_	_
+3	même	_	_	_	_	_	_	_	_
+4	revenir	_	_	_	_	_	_	_	_
+5	un	_	_	_	_	_	_	_	_
+6	peu	_	_	_	_	_	_	_	_
+7	au	_	_	_	_	_	_	_	_
+8	début	_	_	_	_	_	_	_	_
+
+# sent_id = 239
+# text = c' est Gutiérrez
+1	c'	_	_	_	_	_	_	_	_
+2	est	_	_	_	_	_	_	_	_
+3	Gutiérrez	_	_	_	_	_	_	_	_
+
+# sent_id = 136
+# text = alors vous vous rendez compte
+1	alors	_	_	_	_	_	_	_	_
+2	vous	_	_	_	_	_	_	_	_
+3	vous	_	_	_	_	_	_	_	_
+4	rendez	_	_	_	_	_	_	_	_
+5	compte	_	_	_	_	_	_	_	_
+
+# sent_id = 2698
+# text = nous étions tous les deux d' origine bourgeoise élevés un peu de la même manière euh c' est - à - dire disons d' une façon un peu britannique dans le comportement n' est -ce pas
+1	nous	_	_	_	_	_	_	_	_
+2	étions	_	_	_	_	_	_	_	_
+3	tous	_	_	_	_	_	_	_	_
+4	les	_	_	_	_	_	_	_	_
+5	deux	_	_	_	_	_	_	_	_
+6	d'	_	_	_	_	_	_	_	_
+7	origine	_	_	_	_	_	_	_	_
+8	bourgeoise	_	_	_	_	_	_	_	_
+9	élevés	_	_	_	_	_	_	_	_
+10	un	_	_	_	_	_	_	_	_
+11	peu	_	_	_	_	_	_	_	_
+12	de	_	_	_	_	_	_	_	_
+13	la	_	_	_	_	_	_	_	_
+14	même	_	_	_	_	_	_	_	_
+15	manière	_	_	_	_	_	_	_	_
+16	euh	_	_	_	_	_	_	_	_
+17	c'	_	_	_	_	_	_	_	_
+18	est	_	_	_	_	_	_	_	_
+19	-	_	_	_	_	_	_	_	_
+20	à	_	_	_	_	_	_	_	_
+21	-	_	_	_	_	_	_	_	_
+22	dire	_	_	_	_	_	_	_	_
+23	disons	_	_	_	_	_	_	_	_
+24	d'	_	_	_	_	_	_	_	_
+25	une	_	_	_	_	_	_	_	_
+26	façon	_	_	_	_	_	_	_	_
+27	un	_	_	_	_	_	_	_	_
+28	peu	_	_	_	_	_	_	_	_
+29	britannique	_	_	_	_	_	_	_	_
+30	dans	_	_	_	_	_	_	_	_
+31	le	_	_	_	_	_	_	_	_
+32	comportement	_	_	_	_	_	_	_	_
+33	n'	_	_	_	_	_	_	_	_
+34	est	_	_	_	_	_	_	_	_
+35	-ce	_	_	_	_	_	_	_	_
+36	pas	_	_	_	_	_	_	_	_
+
+# sent_id = 1729
+# text = très bien
+1	très	_	_	_	_	_	_	_	_
+2	bien	_	_	_	_	_	_	_	_
+
+# sent_id = 126
+# text = j' ai travaillé à l' hôpital d' Aden
+1	j'	_	_	_	_	_	_	_	_
+2	ai	_	_	_	_	_	_	_	_
+3	travaillé	_	_	_	_	_	_	_	_
+4	à	_	_	_	_	_	_	_	_
+5	l'	_	_	_	_	_	_	_	_
+6	hôpital	_	_	_	_	_	_	_	_
+7	d'	_	_	_	_	_	_	_	_
+8	Aden	_	_	_	_	_	_	_	_
+
+# sent_id = 2224
+# text = ils voulaient pas
+1	ils	_	_	_	_	_	_	_	_
+2	voulaient	_	_	_	_	_	_	_	_
+3	pas	_	_	_	_	_	_	_	_
+
+# sent_id = 2323
+# text = les uns ont plus de succès que les autres
+1	les	_	_	_	_	_	_	_	_
+2	uns	_	_	_	_	_	_	_	_
+3	ont	_	_	_	_	_	_	_	_
+4	plus	_	_	_	_	_	_	_	_
+5	de	_	_	_	_	_	_	_	_
+6	succès	_	_	_	_	_	_	_	_
+7	que	_	_	_	_	_	_	_	_
+8	les	_	_	_	_	_	_	_	_
+9	autres	_	_	_	_	_	_	_	_
+
+# sent_id = 2430
+# text = vous voyez
+1	vous	_	_	_	_	_	_	_	_
+2	voyez	_	_	_	_	_	_	_	_
+
+# sent_id = 1357
+# text = donc euh ça m' a vraiment vraiment marquée
+1	donc	_	_	_	_	_	_	_	_
+2	euh	_	_	_	_	_	_	_	_
+3	ça	_	_	_	_	_	_	_	_
+4	m'	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	vraiment	_	_	_	_	_	_	_	_
+7	vraiment	_	_	_	_	_	_	_	_
+8	marquée	_	_	_	_	_	_	_	_
+
+# sent_id = 922
+# text = vous continuez
+1	vous	_	_	_	_	_	_	_	_
+2	continuez	_	_	_	_	_	_	_	_
+
+# sent_id = 1972
+# text = donc là ben vous partez là
+1	donc	_	_	_	_	_	_	_	_
+2	là	_	_	_	_	_	_	_	_
+3	ben	_	_	_	_	_	_	_	_
+4	vous	_	_	_	_	_	_	_	_
+5	partez	_	_	_	_	_	_	_	_
+6	là	_	_	_	_	_	_	_	_
+
+# sent_id = 1513
+# text = oui mais j' aurais mis des coussins à fond euh rouge comme j' ai sur le la méridienne
+1	oui	_	_	_	_	_	_	_	_
+2	mais	_	_	_	_	_	_	_	_
+3	j'	_	_	_	_	_	_	_	_
+4	aurais	_	_	_	_	_	_	_	_
+5	mis	_	_	_	_	_	_	_	_
+6	des	_	_	_	_	_	_	_	_
+7	coussins	_	_	_	_	_	_	_	_
+8	à	_	_	_	_	_	_	_	_
+9	fond	_	_	_	_	_	_	_	_
+10	euh	_	_	_	_	_	_	_	_
+11	rouge	_	_	_	_	_	_	_	_
+12	comme	_	_	_	_	_	_	_	_
+13	j'	_	_	_	_	_	_	_	_
+14	ai	_	_	_	_	_	_	_	_
+15	sur	_	_	_	_	_	_	_	_
+16	le	_	_	_	_	_	_	_	_
+17	la	_	_	_	_	_	_	_	_
+18	méridienne	_	_	_	_	_	_	_	_
+
+# sent_id = 43
+# text = tu passes devant les pompiers
+1	tu	_	_	_	_	_	_	_	_
+2	passes	_	_	_	_	_	_	_	_
+3	devant	_	_	_	_	_	_	_	_
+4	les	_	_	_	_	_	_	_	_
+5	pompiers	_	_	_	_	_	_	_	_
+
+# sent_id = 1355
+# text = et euh et donc à chaque fois je on changeait d' école
+1	et	_	_	_	_	_	_	_	_
+2	euh	_	_	_	_	_	_	_	_
+3	et	_	_	_	_	_	_	_	_
+4	donc	_	_	_	_	_	_	_	_
+5	à	_	_	_	_	_	_	_	_
+6	chaque	_	_	_	_	_	_	_	_
+7	fois	_	_	_	_	_	_	_	_
+8	je	_	_	_	_	_	_	_	_
+9	on	_	_	_	_	_	_	_	_
+10	changeait	_	_	_	_	_	_	_	_
+11	d'	_	_	_	_	_	_	_	_
+12	école	_	_	_	_	_	_	_	_
+
+# sent_id = 1720
+# text = c' est déjà arrivé ça
+1	c'	_	_	_	_	_	_	_	_
+2	est	_	_	_	_	_	_	_	_
+3	déjà	_	_	_	_	_	_	_	_
+4	arrivé	_	_	_	_	_	_	_	_
+5	ça	_	_	_	_	_	_	_	_
+
+# sent_id = 555
+# text = il y a une explication qui commence avec euh la foule qui s' attroupe et euh et le policier
+1	il	_	_	_	_	_	_	_	_
+2	y	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	une	_	_	_	_	_	_	_	_
+5	explication	_	_	_	_	_	_	_	_
+6	qui	_	_	_	_	_	_	_	_
+7	commence	_	_	_	_	_	_	_	_
+8	avec	_	_	_	_	_	_	_	_
+9	euh	_	_	_	_	_	_	_	_
+10	la	_	_	_	_	_	_	_	_
+11	foule	_	_	_	_	_	_	_	_
+12	qui	_	_	_	_	_	_	_	_
+13	s'	_	_	_	_	_	_	_	_
+14	attroupe	_	_	_	_	_	_	_	_
+15	et	_	_	_	_	_	_	_	_
+16	euh	_	_	_	_	_	_	_	_
+17	et	_	_	_	_	_	_	_	_
+18	le	_	_	_	_	_	_	_	_
+19	policier	_	_	_	_	_	_	_	_
+
+# sent_id = 1083
+# text = oui bon alors euh pour ce qui est de pour ce qui est du livre jeunesse on va dire du livre de détente mais oui oui pas pas du livre scolaire hein
+1	oui	_	_	_	_	_	_	_	_
+2	bon	_	_	_	_	_	_	_	_
+3	alors	_	_	_	_	_	_	_	_
+4	euh	_	_	_	_	_	_	_	_
+5	pour	_	_	_	_	_	_	_	_
+6	ce	_	_	_	_	_	_	_	_
+7	qui	_	_	_	_	_	_	_	_
+8	est	_	_	_	_	_	_	_	_
+9	de	_	_	_	_	_	_	_	_
+10	pour	_	_	_	_	_	_	_	_
+11	ce	_	_	_	_	_	_	_	_
+12	qui	_	_	_	_	_	_	_	_
+13	est	_	_	_	_	_	_	_	_
+14	du	_	_	_	_	_	_	_	_
+15	livre	_	_	_	_	_	_	_	_
+16	jeunesse	_	_	_	_	_	_	_	_
+17	on	_	_	_	_	_	_	_	_
+18	va	_	_	_	_	_	_	_	_
+19	dire	_	_	_	_	_	_	_	_
+20	du	_	_	_	_	_	_	_	_
+21	livre	_	_	_	_	_	_	_	_
+22	de	_	_	_	_	_	_	_	_
+23	détente	_	_	_	_	_	_	_	_
+24	mais	_	_	_	_	_	_	_	_
+25	oui	_	_	_	_	_	_	_	_
+26	oui	_	_	_	_	_	_	_	_
+27	pas	_	_	_	_	_	_	_	_
+28	pas	_	_	_	_	_	_	_	_
+29	du	_	_	_	_	_	_	_	_
+30	livre	_	_	_	_	_	_	_	_
+31	scolaire	_	_	_	_	_	_	_	_
+32	hein	_	_	_	_	_	_	_	_
+
+# sent_id = 489
+# text = quand tu achètes quand tu achètes un ordinateur il est il est déjà dépassé quoi
+1	quand	_	_	_	_	_	_	_	_
+2	tu	_	_	_	_	_	_	_	_
+3	achètes	_	_	_	_	_	_	_	_
+4	quand	_	_	_	_	_	_	_	_
+5	tu	_	_	_	_	_	_	_	_
+6	achètes	_	_	_	_	_	_	_	_
+7	un	_	_	_	_	_	_	_	_
+8	ordinateur	_	_	_	_	_	_	_	_
+9	il	_	_	_	_	_	_	_	_
+10	est	_	_	_	_	_	_	_	_
+11	il	_	_	_	_	_	_	_	_
+12	est	_	_	_	_	_	_	_	_
+13	déjà	_	_	_	_	_	_	_	_
+14	dépassé	_	_	_	_	_	_	_	_
+15	quoi	_	_	_	_	_	_	_	_
+
+# sent_id = 1981
+# text = là sur la place de Verdun il y a mh la Préfecture
+1	là	_	_	_	_	_	_	_	_
+2	sur	_	_	_	_	_	_	_	_
+3	la	_	_	_	_	_	_	_	_
+4	place	_	_	_	_	_	_	_	_
+5	de	_	_	_	_	_	_	_	_
+6	Verdun	_	_	_	_	_	_	_	_
+7	il	_	_	_	_	_	_	_	_
+8	y	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	mh	_	_	_	_	_	_	_	_
+11	la	_	_	_	_	_	_	_	_
+12	Préfecture	_	_	_	_	_	_	_	_
+
+# sent_id = 1354
+# text = parce que j' ai démé~ déménagé neuf fois dans ma vie
+1	parce	_	_	_	_	_	_	_	_
+2	que	_	_	_	_	_	_	_	_
+3	j'	_	_	_	_	_	_	_	_
+4	ai	_	_	_	_	_	_	_	_
+5	démé~	_	_	_	_	_	_	_	_
+6	déménagé	_	_	_	_	_	_	_	_
+7	neuf	_	_	_	_	_	_	_	_
+8	fois	_	_	_	_	_	_	_	_
+9	dans	_	_	_	_	_	_	_	_
+10	ma	_	_	_	_	_	_	_	_
+11	vie	_	_	_	_	_	_	_	_
+
+# sent_id = 1367
+# text = et euh j' ai aussi très mal vécu le la chose parce que je je je je connaissais aucun mot du portugais
+1	et	_	_	_	_	_	_	_	_
+2	euh	_	_	_	_	_	_	_	_
+3	j'	_	_	_	_	_	_	_	_
+4	ai	_	_	_	_	_	_	_	_
+5	aussi	_	_	_	_	_	_	_	_
+6	très	_	_	_	_	_	_	_	_
+7	mal	_	_	_	_	_	_	_	_
+8	vécu	_	_	_	_	_	_	_	_
+9	le	_	_	_	_	_	_	_	_
+10	la	_	_	_	_	_	_	_	_
+11	chose	_	_	_	_	_	_	_	_
+12	parce	_	_	_	_	_	_	_	_
+13	que	_	_	_	_	_	_	_	_
+14	je	_	_	_	_	_	_	_	_
+15	je	_	_	_	_	_	_	_	_
+16	je	_	_	_	_	_	_	_	_
+17	je	_	_	_	_	_	_	_	_
+18	connaissais	_	_	_	_	_	_	_	_
+19	aucun	_	_	_	_	_	_	_	_
+20	mot	_	_	_	_	_	_	_	_
+21	du	_	_	_	_	_	_	_	_
+22	portugais	_	_	_	_	_	_	_	_
+
+# sent_id = 1340
+# text = un mot de foot
+1	un	_	_	_	_	_	_	_	_
+2	mot	_	_	_	_	_	_	_	_
+3	de	_	_	_	_	_	_	_	_
+4	foot	_	_	_	_	_	_	_	_
+
+# sent_id = 2254
+# text = il m' a été commandé ce livre attention hein
+1	il	_	_	_	_	_	_	_	_
+2	m'	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	été	_	_	_	_	_	_	_	_
+5	commandé	_	_	_	_	_	_	_	_
+6	ce	_	_	_	_	_	_	_	_
+7	livre	_	_	_	_	_	_	_	_
+8	attention	_	_	_	_	_	_	_	_
+9	hein	_	_	_	_	_	_	_	_
+
+# sent_id = 1497
+# text = oui mais je pense que non ça va ça va pas très très loin en sellerie euh avec euh
+1	oui	_	_	_	_	_	_	_	_
+2	mais	_	_	_	_	_	_	_	_
+3	je	_	_	_	_	_	_	_	_
+4	pense	_	_	_	_	_	_	_	_
+5	que	_	_	_	_	_	_	_	_
+6	non	_	_	_	_	_	_	_	_
+7	ça	_	_	_	_	_	_	_	_
+8	va	_	_	_	_	_	_	_	_
+9	ça	_	_	_	_	_	_	_	_
+10	va	_	_	_	_	_	_	_	_
+11	pas	_	_	_	_	_	_	_	_
+12	très	_	_	_	_	_	_	_	_
+13	très	_	_	_	_	_	_	_	_
+14	loin	_	_	_	_	_	_	_	_
+15	en	_	_	_	_	_	_	_	_
+16	sellerie	_	_	_	_	_	_	_	_
+17	euh	_	_	_	_	_	_	_	_
+18	avec	_	_	_	_	_	_	_	_
+19	euh	_	_	_	_	_	_	_	_
+
+# sent_id = 1489
+# text = il peut
+1	il	_	_	_	_	_	_	_	_
+2	peut	_	_	_	_	_	_	_	_
+
+# sent_id = 683
+# text = je m' embrouille
+1	je	_	_	_	_	_	_	_	_
+2	m'	_	_	_	_	_	_	_	_
+3	embrouille	_	_	_	_	_	_	_	_
+
+# sent_id = 791
+# text = euh première distinction donc fondamentale parce que je veux dire selon les sociétés je dirais que la euh la composante de production ou la composante de réception euh varie beaucoup
+1	euh	_	_	_	_	_	_	_	_
+2	première	_	_	_	_	_	_	_	_
+3	distinction	_	_	_	_	_	_	_	_
+4	donc	_	_	_	_	_	_	_	_
+5	fondamentale	_	_	_	_	_	_	_	_
+6	parce	_	_	_	_	_	_	_	_
+7	que	_	_	_	_	_	_	_	_
+8	je	_	_	_	_	_	_	_	_
+9	veux	_	_	_	_	_	_	_	_
+10	dire	_	_	_	_	_	_	_	_
+11	selon	_	_	_	_	_	_	_	_
+12	les	_	_	_	_	_	_	_	_
+13	sociétés	_	_	_	_	_	_	_	_
+14	je	_	_	_	_	_	_	_	_
+15	dirais	_	_	_	_	_	_	_	_
+16	que	_	_	_	_	_	_	_	_
+17	la	_	_	_	_	_	_	_	_
+18	euh	_	_	_	_	_	_	_	_
+19	la	_	_	_	_	_	_	_	_
+20	composante	_	_	_	_	_	_	_	_
+21	de	_	_	_	_	_	_	_	_
+22	production	_	_	_	_	_	_	_	_
+23	ou	_	_	_	_	_	_	_	_
+24	la	_	_	_	_	_	_	_	_
+25	composante	_	_	_	_	_	_	_	_
+26	de	_	_	_	_	_	_	_	_
+27	réception	_	_	_	_	_	_	_	_
+28	euh	_	_	_	_	_	_	_	_
+29	varie	_	_	_	_	_	_	_	_
+30	beaucoup	_	_	_	_	_	_	_	_
+
+# sent_id = 2312
+# text = et à la fin de sa vie euh quand il est en France d' ailleurs pour essayer de soigner en vain euh sa tuberculose euh il dira euh si si je dois aller dans un bouiboui euh je caricature un petit peu mais enfin euh si je dois descendre dans un hôtel de troisième catégorie alors ça ne vaut plus la peine
+1	et	_	_	_	_	_	_	_	_
+2	à	_	_	_	_	_	_	_	_
+3	la	_	_	_	_	_	_	_	_
+4	fin	_	_	_	_	_	_	_	_
+5	de	_	_	_	_	_	_	_	_
+6	sa	_	_	_	_	_	_	_	_
+7	vie	_	_	_	_	_	_	_	_
+8	euh	_	_	_	_	_	_	_	_
+9	quand	_	_	_	_	_	_	_	_
+10	il	_	_	_	_	_	_	_	_
+11	est	_	_	_	_	_	_	_	_
+12	en	_	_	_	_	_	_	_	_
+13	France	_	_	_	_	_	_	_	_
+14	d'	_	_	_	_	_	_	_	_
+15	ailleurs	_	_	_	_	_	_	_	_
+16	pour	_	_	_	_	_	_	_	_
+17	essayer	_	_	_	_	_	_	_	_
+18	de	_	_	_	_	_	_	_	_
+19	soigner	_	_	_	_	_	_	_	_
+20	en	_	_	_	_	_	_	_	_
+21	vain	_	_	_	_	_	_	_	_
+22	euh	_	_	_	_	_	_	_	_
+23	sa	_	_	_	_	_	_	_	_
+24	tuberculose	_	_	_	_	_	_	_	_
+25	euh	_	_	_	_	_	_	_	_
+26	il	_	_	_	_	_	_	_	_
+27	dira	_	_	_	_	_	_	_	_
+28	euh	_	_	_	_	_	_	_	_
+29	si	_	_	_	_	_	_	_	_
+30	si	_	_	_	_	_	_	_	_
+31	je	_	_	_	_	_	_	_	_
+32	dois	_	_	_	_	_	_	_	_
+33	aller	_	_	_	_	_	_	_	_
+34	dans	_	_	_	_	_	_	_	_
+35	un	_	_	_	_	_	_	_	_
+36	bouiboui	_	_	_	_	_	_	_	_
+37	euh	_	_	_	_	_	_	_	_
+38	je	_	_	_	_	_	_	_	_
+39	caricature	_	_	_	_	_	_	_	_
+40	un	_	_	_	_	_	_	_	_
+41	petit	_	_	_	_	_	_	_	_
+42	peu	_	_	_	_	_	_	_	_
+43	mais	_	_	_	_	_	_	_	_
+44	enfin	_	_	_	_	_	_	_	_
+45	euh	_	_	_	_	_	_	_	_
+46	si	_	_	_	_	_	_	_	_
+47	je	_	_	_	_	_	_	_	_
+48	dois	_	_	_	_	_	_	_	_
+49	descendre	_	_	_	_	_	_	_	_
+50	dans	_	_	_	_	_	_	_	_
+51	un	_	_	_	_	_	_	_	_
+52	hôtel	_	_	_	_	_	_	_	_
+53	de	_	_	_	_	_	_	_	_
+54	troisième	_	_	_	_	_	_	_	_
+55	catégorie	_	_	_	_	_	_	_	_
+56	alors	_	_	_	_	_	_	_	_
+57	ça	_	_	_	_	_	_	_	_
+58	ne	_	_	_	_	_	_	_	_
+59	vaut	_	_	_	_	_	_	_	_
+60	plus	_	_	_	_	_	_	_	_
+61	la	_	_	_	_	_	_	_	_
+62	peine	_	_	_	_	_	_	_	_
+
+# sent_id = 1096
+# text = bon je vois ici
+1	bon	_	_	_	_	_	_	_	_
+2	je	_	_	_	_	_	_	_	_
+3	vois	_	_	_	_	_	_	_	_
+4	ici	_	_	_	_	_	_	_	_
+
+# sent_id = 1841
+# text = tout le monde partait
+1	tout	_	_	_	_	_	_	_	_
+2	le	_	_	_	_	_	_	_	_
+3	monde	_	_	_	_	_	_	_	_
+4	partait	_	_	_	_	_	_	_	_
+
+# sent_id = 2381
+# text = et on regarde c~ le plus proche cyclone euh ou embryon de cyclone de ce que l' on voit euh actuellement
+1	et	_	_	_	_	_	_	_	_
+2	on	_	_	_	_	_	_	_	_
+3	regarde	_	_	_	_	_	_	_	_
+4	c~	_	_	_	_	_	_	_	_
+5	le	_	_	_	_	_	_	_	_
+6	plus	_	_	_	_	_	_	_	_
+7	proche	_	_	_	_	_	_	_	_
+8	cyclone	_	_	_	_	_	_	_	_
+9	euh	_	_	_	_	_	_	_	_
+10	ou	_	_	_	_	_	_	_	_
+11	embryon	_	_	_	_	_	_	_	_
+12	de	_	_	_	_	_	_	_	_
+13	cyclone	_	_	_	_	_	_	_	_
+14	de	_	_	_	_	_	_	_	_
+15	ce	_	_	_	_	_	_	_	_
+16	que	_	_	_	_	_	_	_	_
+17	l'	_	_	_	_	_	_	_	_
+18	on	_	_	_	_	_	_	_	_
+19	voit	_	_	_	_	_	_	_	_
+20	euh	_	_	_	_	_	_	_	_
+21	actuellement	_	_	_	_	_	_	_	_
+
+# sent_id = 576
+# text = on traverse la Seine euh la Bastille
+1	on	_	_	_	_	_	_	_	_
+2	traverse	_	_	_	_	_	_	_	_
+3	la	_	_	_	_	_	_	_	_
+4	Seine	_	_	_	_	_	_	_	_
+5	euh	_	_	_	_	_	_	_	_
+6	la	_	_	_	_	_	_	_	_
+7	Bastille	_	_	_	_	_	_	_	_
+
+# sent_id = 1965
+# text = et là ils sont tombés tous les deux
+1	et	_	_	_	_	_	_	_	_
+2	là	_	_	_	_	_	_	_	_
+3	ils	_	_	_	_	_	_	_	_
+4	sont	_	_	_	_	_	_	_	_
+5	tombés	_	_	_	_	_	_	_	_
+6	tous	_	_	_	_	_	_	_	_
+7	les	_	_	_	_	_	_	_	_
+8	deux	_	_	_	_	_	_	_	_
+
+# sent_id = 2011
+# text = par ailleurs ça demande également d' être à l' écoute
+1	par	_	_	_	_	_	_	_	_
+2	ailleurs	_	_	_	_	_	_	_	_
+3	ça	_	_	_	_	_	_	_	_
+4	demande	_	_	_	_	_	_	_	_
+5	également	_	_	_	_	_	_	_	_
+6	d'	_	_	_	_	_	_	_	_
+7	être	_	_	_	_	_	_	_	_
+8	à	_	_	_	_	_	_	_	_
+9	l'	_	_	_	_	_	_	_	_
+10	écoute	_	_	_	_	_	_	_	_
+
+# sent_id = 2642
+# text = c' était le vrai départ
+1	c'	_	_	_	_	_	_	_	_
+2	était	_	_	_	_	_	_	_	_
+3	le	_	_	_	_	_	_	_	_
+4	vrai	_	_	_	_	_	_	_	_
+5	départ	_	_	_	_	_	_	_	_
+
+# sent_id = 2343
+# text = et voici les invités qui ont accepté d' y participer en direct comme chaque soir
+1	et	_	_	_	_	_	_	_	_
+2	voici	_	_	_	_	_	_	_	_
+3	les	_	_	_	_	_	_	_	_
+4	invités	_	_	_	_	_	_	_	_
+5	qui	_	_	_	_	_	_	_	_
+6	ont	_	_	_	_	_	_	_	_
+7	accepté	_	_	_	_	_	_	_	_
+8	d'	_	_	_	_	_	_	_	_
+9	y	_	_	_	_	_	_	_	_
+10	participer	_	_	_	_	_	_	_	_
+11	en	_	_	_	_	_	_	_	_
+12	direct	_	_	_	_	_	_	_	_
+13	comme	_	_	_	_	_	_	_	_
+14	chaque	_	_	_	_	_	_	_	_
+15	soir	_	_	_	_	_	_	_	_
+
+# sent_id = 1086
+# text = du du point de vue scolaire
+1	du	_	_	_	_	_	_	_	_
+2	du	_	_	_	_	_	_	_	_
+3	point	_	_	_	_	_	_	_	_
+4	de	_	_	_	_	_	_	_	_
+5	vue	_	_	_	_	_	_	_	_
+6	scolaire	_	_	_	_	_	_	_	_
+
+# sent_id = 1716
+# text = et en plus tu es chez toi mh
+1	et	_	_	_	_	_	_	_	_
+2	en	_	_	_	_	_	_	_	_
+3	plus	_	_	_	_	_	_	_	_
+4	tu	_	_	_	_	_	_	_	_
+5	es	_	_	_	_	_	_	_	_
+6	chez	_	_	_	_	_	_	_	_
+7	toi	_	_	_	_	_	_	_	_
+8	mh	_	_	_	_	_	_	_	_
+
+# sent_id = 38
+# text = euh mais bon tu tu traverses le champ de foire
+1	euh	_	_	_	_	_	_	_	_
+2	mais	_	_	_	_	_	_	_	_
+3	bon	_	_	_	_	_	_	_	_
+4	tu	_	_	_	_	_	_	_	_
+5	tu	_	_	_	_	_	_	_	_
+6	traverses	_	_	_	_	_	_	_	_
+7	le	_	_	_	_	_	_	_	_
+8	champ	_	_	_	_	_	_	_	_
+9	de	_	_	_	_	_	_	_	_
+10	foire	_	_	_	_	_	_	_	_
+
+# sent_id = 2760
+# text = le Gâtinais lui c' est une région beaucoup plus euh boisée d' une part et puis beaucoup plus euh vouée à à l' élevage
+1	le	_	_	_	_	_	_	_	_
+2	Gâtinais	_	_	_	_	_	_	_	_
+3	lui	_	_	_	_	_	_	_	_
+4	c'	_	_	_	_	_	_	_	_
+5	est	_	_	_	_	_	_	_	_
+6	une	_	_	_	_	_	_	_	_
+7	région	_	_	_	_	_	_	_	_
+8	beaucoup	_	_	_	_	_	_	_	_
+9	plus	_	_	_	_	_	_	_	_
+10	euh	_	_	_	_	_	_	_	_
+11	boisée	_	_	_	_	_	_	_	_
+12	d'	_	_	_	_	_	_	_	_
+13	une	_	_	_	_	_	_	_	_
+14	part	_	_	_	_	_	_	_	_
+15	et	_	_	_	_	_	_	_	_
+16	puis	_	_	_	_	_	_	_	_
+17	beaucoup	_	_	_	_	_	_	_	_
+18	plus	_	_	_	_	_	_	_	_
+19	euh	_	_	_	_	_	_	_	_
+20	vouée	_	_	_	_	_	_	_	_
+21	à	_	_	_	_	_	_	_	_
+22	à	_	_	_	_	_	_	_	_
+23	l'	_	_	_	_	_	_	_	_
+24	élevage	_	_	_	_	_	_	_	_
+
+# sent_id = 348
+# text = pourtant j' ai confiance
+1	pourtant	_	_	_	_	_	_	_	_
+2	j'	_	_	_	_	_	_	_	_
+3	ai	_	_	_	_	_	_	_	_
+4	confiance	_	_	_	_	_	_	_	_
+
+# sent_id = 2617
+# text = il y a eu votre père
+1	il	_	_	_	_	_	_	_	_
+2	y	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	eu	_	_	_	_	_	_	_	_
+5	votre	_	_	_	_	_	_	_	_
+6	père	_	_	_	_	_	_	_	_
+
+# sent_id = 1434
+# text = bon c' est de de la maison là
+1	bon	_	_	_	_	_	_	_	_
+2	c'	_	_	_	_	_	_	_	_
+3	est	_	_	_	_	_	_	_	_
+4	de	_	_	_	_	_	_	_	_
+5	de	_	_	_	_	_	_	_	_
+6	la	_	_	_	_	_	_	_	_
+7	maison	_	_	_	_	_	_	_	_
+8	là	_	_	_	_	_	_	_	_
+
+# sent_id = 417
+# text = et euh bon ben ça pose des problèmes de maintenan~ enfin de maintenance euh de de mise à jour et tout ça euh
+1	et	_	_	_	_	_	_	_	_
+2	euh	_	_	_	_	_	_	_	_
+3	bon	_	_	_	_	_	_	_	_
+4	ben	_	_	_	_	_	_	_	_
+5	ça	_	_	_	_	_	_	_	_
+6	pose	_	_	_	_	_	_	_	_
+7	des	_	_	_	_	_	_	_	_
+8	problèmes	_	_	_	_	_	_	_	_
+9	de	_	_	_	_	_	_	_	_
+10	maintenan~	_	_	_	_	_	_	_	_
+11	enfin	_	_	_	_	_	_	_	_
+12	de	_	_	_	_	_	_	_	_
+13	maintenance	_	_	_	_	_	_	_	_
+14	euh	_	_	_	_	_	_	_	_
+15	de	_	_	_	_	_	_	_	_
+16	de	_	_	_	_	_	_	_	_
+17	mise	_	_	_	_	_	_	_	_
+18	à	_	_	_	_	_	_	_	_
+19	jour	_	_	_	_	_	_	_	_
+20	et	_	_	_	_	_	_	_	_
+21	tout	_	_	_	_	_	_	_	_
+22	ça	_	_	_	_	_	_	_	_
+23	euh	_	_	_	_	_	_	_	_
+
+# sent_id = 1990
+# text = et là vous tombez donc euh à la Maison du tourisme
+1	et	_	_	_	_	_	_	_	_
+2	là	_	_	_	_	_	_	_	_
+3	vous	_	_	_	_	_	_	_	_
+4	tombez	_	_	_	_	_	_	_	_
+5	donc	_	_	_	_	_	_	_	_
+6	euh	_	_	_	_	_	_	_	_
+7	à	_	_	_	_	_	_	_	_
+8	la	_	_	_	_	_	_	_	_
+9	Maison	_	_	_	_	_	_	_	_
+10	du	_	_	_	_	_	_	_	_
+11	tourisme	_	_	_	_	_	_	_	_
+
+# sent_id = 2406
+# text = en mille neuf cent dix-huit il y avait pas de de de
+1	en	_	_	_	_	_	_	_	_
+2	mille	_	_	_	_	_	_	_	_
+3	neuf	_	_	_	_	_	_	_	_
+4	cent	_	_	_	_	_	_	_	_
+5	dix-huit	_	_	_	_	_	_	_	_
+6	il	_	_	_	_	_	_	_	_
+7	y	_	_	_	_	_	_	_	_
+8	avait	_	_	_	_	_	_	_	_
+9	pas	_	_	_	_	_	_	_	_
+10	de	_	_	_	_	_	_	_	_
+11	de	_	_	_	_	_	_	_	_
+12	de	_	_	_	_	_	_	_	_
+
+# sent_id = 1932
+# text = mh bon donc par définition cet enfant va perdre pied en en CP
+1	mh	_	_	_	_	_	_	_	_
+2	bon	_	_	_	_	_	_	_	_
+3	donc	_	_	_	_	_	_	_	_
+4	par	_	_	_	_	_	_	_	_
+5	définition	_	_	_	_	_	_	_	_
+6	cet	_	_	_	_	_	_	_	_
+7	enfant	_	_	_	_	_	_	_	_
+8	va	_	_	_	_	_	_	_	_
+9	perdre	_	_	_	_	_	_	_	_
+10	pied	_	_	_	_	_	_	_	_
+11	en	_	_	_	_	_	_	_	_
+12	en	_	_	_	_	_	_	_	_
+13	CP	_	_	_	_	_	_	_	_
+
+# sent_id = 1156
+# text = les policiers sont arrivés en raison du du du vacarme je p~ je pense
+1	les	_	_	_	_	_	_	_	_
+2	policiers	_	_	_	_	_	_	_	_
+3	sont	_	_	_	_	_	_	_	_
+4	arrivés	_	_	_	_	_	_	_	_
+5	en	_	_	_	_	_	_	_	_
+6	raison	_	_	_	_	_	_	_	_
+7	du	_	_	_	_	_	_	_	_
+8	du	_	_	_	_	_	_	_	_
+9	du	_	_	_	_	_	_	_	_
+10	vacarme	_	_	_	_	_	_	_	_
+11	je	_	_	_	_	_	_	_	_
+12	p~	_	_	_	_	_	_	_	_
+13	je	_	_	_	_	_	_	_	_
+14	pense	_	_	_	_	_	_	_	_
+
+# sent_id = 2146
+# text = les couleurs sont conservées
+1	les	_	_	_	_	_	_	_	_
+2	couleurs	_	_	_	_	_	_	_	_
+3	sont	_	_	_	_	_	_	_	_
+4	conservées	_	_	_	_	_	_	_	_
+
+# sent_id = 294
+# text = là les Français qui sont euh dépassés par les évènements
+1	là	_	_	_	_	_	_	_	_
+2	les	_	_	_	_	_	_	_	_
+3	Français	_	_	_	_	_	_	_	_
+4	qui	_	_	_	_	_	_	_	_
+5	sont	_	_	_	_	_	_	_	_
+6	euh	_	_	_	_	_	_	_	_
+7	dépassés	_	_	_	_	_	_	_	_
+8	par	_	_	_	_	_	_	_	_
+9	les	_	_	_	_	_	_	_	_
+10	évènements	_	_	_	_	_	_	_	_
+
+# sent_id = 968
+# text = une dame euh vertueuse et bien pensante de bonne bourgeoisie dénonce le larcin euh au solide gaillard qui est le euh qui est donc le l' employé de la pâtisserie qui se précipite pour rétablir l' ordre
+1	une	_	_	_	_	_	_	_	_
+2	dame	_	_	_	_	_	_	_	_
+3	euh	_	_	_	_	_	_	_	_
+4	vertueuse	_	_	_	_	_	_	_	_
+5	et	_	_	_	_	_	_	_	_
+6	bien	_	_	_	_	_	_	_	_
+7	pensante	_	_	_	_	_	_	_	_
+8	de	_	_	_	_	_	_	_	_
+9	bonne	_	_	_	_	_	_	_	_
+10	bourgeoisie	_	_	_	_	_	_	_	_
+11	dénonce	_	_	_	_	_	_	_	_
+12	le	_	_	_	_	_	_	_	_
+13	larcin	_	_	_	_	_	_	_	_
+14	euh	_	_	_	_	_	_	_	_
+15	au	_	_	_	_	_	_	_	_
+16	solide	_	_	_	_	_	_	_	_
+17	gaillard	_	_	_	_	_	_	_	_
+18	qui	_	_	_	_	_	_	_	_
+19	est	_	_	_	_	_	_	_	_
+20	le	_	_	_	_	_	_	_	_
+21	euh	_	_	_	_	_	_	_	_
+22	qui	_	_	_	_	_	_	_	_
+23	est	_	_	_	_	_	_	_	_
+24	donc	_	_	_	_	_	_	_	_
+25	le	_	_	_	_	_	_	_	_
+26	l'	_	_	_	_	_	_	_	_
+27	employé	_	_	_	_	_	_	_	_
+28	de	_	_	_	_	_	_	_	_
+29	la	_	_	_	_	_	_	_	_
+30	pâtisserie	_	_	_	_	_	_	_	_
+31	qui	_	_	_	_	_	_	_	_
+32	se	_	_	_	_	_	_	_	_
+33	précipite	_	_	_	_	_	_	_	_
+34	pour	_	_	_	_	_	_	_	_
+35	rétablir	_	_	_	_	_	_	_	_
+36	l'	_	_	_	_	_	_	_	_
+37	ordre	_	_	_	_	_	_	_	_
+
+# sent_id = 1117
+# text = mais non
+1	mais	_	_	_	_	_	_	_	_
+2	non	_	_	_	_	_	_	_	_
+
+# sent_id = 307
+# text = Gago qui est contré qui est contré
+1	Gago	_	_	_	_	_	_	_	_
+2	qui	_	_	_	_	_	_	_	_
+3	est	_	_	_	_	_	_	_	_
+4	contré	_	_	_	_	_	_	_	_
+5	qui	_	_	_	_	_	_	_	_
+6	est	_	_	_	_	_	_	_	_
+7	contré	_	_	_	_	_	_	_	_
+
+# sent_id = 647
+# text = et puis oui quand même quarante
+1	et	_	_	_	_	_	_	_	_
+2	puis	_	_	_	_	_	_	_	_
+3	oui	_	_	_	_	_	_	_	_
+4	quand	_	_	_	_	_	_	_	_
+5	même	_	_	_	_	_	_	_	_
+6	quarante	_	_	_	_	_	_	_	_
+
+# sent_id = 2777
+# text = le prêtre connaît très bien tout le monde
+1	le	_	_	_	_	_	_	_	_
+2	prêtre	_	_	_	_	_	_	_	_
+3	connaît	_	_	_	_	_	_	_	_
+4	très	_	_	_	_	_	_	_	_
+5	bien	_	_	_	_	_	_	_	_
+6	tout	_	_	_	_	_	_	_	_
+7	le	_	_	_	_	_	_	_	_
+8	monde	_	_	_	_	_	_	_	_
+
+# sent_id = 2117
+# text = blanc immaculé pour les chaussures
+1	blanc	_	_	_	_	_	_	_	_
+2	immaculé	_	_	_	_	_	_	_	_
+3	pour	_	_	_	_	_	_	_	_
+4	les	_	_	_	_	_	_	_	_
+5	chaussures	_	_	_	_	_	_	_	_
+
+# sent_id = 1657
+# text = il y a plus de question
+1	il	_	_	_	_	_	_	_	_
+2	y	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	plus	_	_	_	_	_	_	_	_
+5	de	_	_	_	_	_	_	_	_
+6	question	_	_	_	_	_	_	_	_
+
+# sent_id = 1073
+# text = et puis les lycées si vous voulez maintenant les livres sont gratuits
+1	et	_	_	_	_	_	_	_	_
+2	puis	_	_	_	_	_	_	_	_
+3	les	_	_	_	_	_	_	_	_
+4	lycées	_	_	_	_	_	_	_	_
+5	si	_	_	_	_	_	_	_	_
+6	vous	_	_	_	_	_	_	_	_
+7	voulez	_	_	_	_	_	_	_	_
+8	maintenant	_	_	_	_	_	_	_	_
+9	les	_	_	_	_	_	_	_	_
+10	livres	_	_	_	_	_	_	_	_
+11	sont	_	_	_	_	_	_	_	_
+12	gratuits	_	_	_	_	_	_	_	_
+
+# sent_id = 2641
+# text = et j' ai donc été à l' école Remington apprendre la sténodactylo
+1	et	_	_	_	_	_	_	_	_
+2	j'	_	_	_	_	_	_	_	_
+3	ai	_	_	_	_	_	_	_	_
+4	donc	_	_	_	_	_	_	_	_
+5	été	_	_	_	_	_	_	_	_
+6	à	_	_	_	_	_	_	_	_
+7	l'	_	_	_	_	_	_	_	_
+8	école	_	_	_	_	_	_	_	_
+9	Remington	_	_	_	_	_	_	_	_
+10	apprendre	_	_	_	_	_	_	_	_
+11	la	_	_	_	_	_	_	_	_
+12	sténodactylo	_	_	_	_	_	_	_	_
+
+# sent_id = 1992
+# text = à la Maison du tourisme donc vous allez continuer s~ à droite de la Maison du tourisme passer de~
+1	à	_	_	_	_	_	_	_	_
+2	la	_	_	_	_	_	_	_	_
+3	Maison	_	_	_	_	_	_	_	_
+4	du	_	_	_	_	_	_	_	_
+5	tourisme	_	_	_	_	_	_	_	_
+6	donc	_	_	_	_	_	_	_	_
+7	vous	_	_	_	_	_	_	_	_
+8	allez	_	_	_	_	_	_	_	_
+9	continuer	_	_	_	_	_	_	_	_
+10	s~	_	_	_	_	_	_	_	_
+11	à	_	_	_	_	_	_	_	_
+12	droite	_	_	_	_	_	_	_	_
+13	de	_	_	_	_	_	_	_	_
+14	la	_	_	_	_	_	_	_	_
+15	Maison	_	_	_	_	_	_	_	_
+16	du	_	_	_	_	_	_	_	_
+17	tourisme	_	_	_	_	_	_	_	_
+18	passer	_	_	_	_	_	_	_	_
+19	de~	_	_	_	_	_	_	_	_
+
+# sent_id = 946
+# text = mais en en vous dirigeant vers la gauche vous allez passer aussi devant
+1	mais	_	_	_	_	_	_	_	_
+2	en	_	_	_	_	_	_	_	_
+3	en	_	_	_	_	_	_	_	_
+4	vous	_	_	_	_	_	_	_	_
+5	dirigeant	_	_	_	_	_	_	_	_
+6	vers	_	_	_	_	_	_	_	_
+7	la	_	_	_	_	_	_	_	_
+8	gauche	_	_	_	_	_	_	_	_
+9	vous	_	_	_	_	_	_	_	_
+10	allez	_	_	_	_	_	_	_	_
+11	passer	_	_	_	_	_	_	_	_
+12	aussi	_	_	_	_	_	_	_	_
+13	devant	_	_	_	_	_	_	_	_
+
+# sent_id = 1517
+# text = mon tissu là de coussins est quand même euh foncé rouge ouais genre madras un peu
+1	mon	_	_	_	_	_	_	_	_
+2	tissu	_	_	_	_	_	_	_	_
+3	là	_	_	_	_	_	_	_	_
+4	de	_	_	_	_	_	_	_	_
+5	coussins	_	_	_	_	_	_	_	_
+6	est	_	_	_	_	_	_	_	_
+7	quand	_	_	_	_	_	_	_	_
+8	même	_	_	_	_	_	_	_	_
+9	euh	_	_	_	_	_	_	_	_
+10	foncé	_	_	_	_	_	_	_	_
+11	rouge	_	_	_	_	_	_	_	_
+12	ouais	_	_	_	_	_	_	_	_
+13	genre	_	_	_	_	_	_	_	_
+14	madras	_	_	_	_	_	_	_	_
+15	un	_	_	_	_	_	_	_	_
+16	peu	_	_	_	_	_	_	_	_
+
+# sent_id = 1747
+# text = en croyant que c' était la fille ah oui
+1	en	_	_	_	_	_	_	_	_
+2	croyant	_	_	_	_	_	_	_	_
+3	que	_	_	_	_	_	_	_	_
+4	c'	_	_	_	_	_	_	_	_
+5	était	_	_	_	_	_	_	_	_
+6	la	_	_	_	_	_	_	_	_
+7	fille	_	_	_	_	_	_	_	_
+8	ah	_	_	_	_	_	_	_	_
+9	oui	_	_	_	_	_	_	_	_
+
+# sent_id = 2062
+# text = tu passes à côté d' une petite fontaine
+1	tu	_	_	_	_	_	_	_	_
+2	passes	_	_	_	_	_	_	_	_
+3	à	_	_	_	_	_	_	_	_
+4	côté	_	_	_	_	_	_	_	_
+5	d'	_	_	_	_	_	_	_	_
+6	une	_	_	_	_	_	_	_	_
+7	petite	_	_	_	_	_	_	_	_
+8	fontaine	_	_	_	_	_	_	_	_
+
+# sent_id = 1973
+# text = vous remontez le grand boulevard là euh
+1	vous	_	_	_	_	_	_	_	_
+2	remontez	_	_	_	_	_	_	_	_
+3	le	_	_	_	_	_	_	_	_
+4	grand	_	_	_	_	_	_	_	_
+5	boulevard	_	_	_	_	_	_	_	_
+6	là	_	_	_	_	_	_	_	_
+7	euh	_	_	_	_	_	_	_	_
+
+# sent_id = 549
+# text = euh et le le
+1	euh	_	_	_	_	_	_	_	_
+2	et	_	_	_	_	_	_	_	_
+3	le	_	_	_	_	_	_	_	_
+4	le	_	_	_	_	_	_	_	_
+
+# sent_id = 1957
+# text = mh mh mh mh elles veulent pas
+1	mh	_	_	_	_	_	_	_	_
+2	mh	_	_	_	_	_	_	_	_
+3	mh	_	_	_	_	_	_	_	_
+4	mh	_	_	_	_	_	_	_	_
+5	elles	_	_	_	_	_	_	_	_
+6	veulent	_	_	_	_	_	_	_	_
+7	pas	_	_	_	_	_	_	_	_
+
+# sent_id = 996
+# text = pourquoi à ce point avoir voulu réhabiliter le lecteur
+1	pourquoi	_	_	_	_	_	_	_	_
+2	à	_	_	_	_	_	_	_	_
+3	ce	_	_	_	_	_	_	_	_
+4	point	_	_	_	_	_	_	_	_
+5	avoir	_	_	_	_	_	_	_	_
+6	voulu	_	_	_	_	_	_	_	_
+7	réhabiliter	_	_	_	_	_	_	_	_
+8	le	_	_	_	_	_	_	_	_
+9	lecteur	_	_	_	_	_	_	_	_
+
+# sent_id = 1928
+# text = donc euh non je je pense que le problème
+1	donc	_	_	_	_	_	_	_	_
+2	euh	_	_	_	_	_	_	_	_
+3	non	_	_	_	_	_	_	_	_
+4	je	_	_	_	_	_	_	_	_
+5	je	_	_	_	_	_	_	_	_
+6	pense	_	_	_	_	_	_	_	_
+7	que	_	_	_	_	_	_	_	_
+8	le	_	_	_	_	_	_	_	_
+9	problème	_	_	_	_	_	_	_	_
+
+# sent_id = 232
+# text = il ne le tire pas d' ailleurs
+1	il	_	_	_	_	_	_	_	_
+2	ne	_	_	_	_	_	_	_	_
+3	le	_	_	_	_	_	_	_	_
+4	tire	_	_	_	_	_	_	_	_
+5	pas	_	_	_	_	_	_	_	_
+6	d'	_	_	_	_	_	_	_	_
+7	ailleurs	_	_	_	_	_	_	_	_
+
+# sent_id = 1605
+# text = et vous marchez sur deux cents mètres
+1	et	_	_	_	_	_	_	_	_
+2	vous	_	_	_	_	_	_	_	_
+3	marchez	_	_	_	_	_	_	_	_
+4	sur	_	_	_	_	_	_	_	_
+5	deux	_	_	_	_	_	_	_	_
+6	cents	_	_	_	_	_	_	_	_
+7	mètres	_	_	_	_	_	_	_	_
+
+# sent_id = 2243
+# text = on doit vous remarquer
+1	on	_	_	_	_	_	_	_	_
+2	doit	_	_	_	_	_	_	_	_
+3	vous	_	_	_	_	_	_	_	_
+4	remarquer	_	_	_	_	_	_	_	_
+
+# sent_id = 942
+# text = passez devant
+1	passez	_	_	_	_	_	_	_	_
+2	devant	_	_	_	_	_	_	_	_
+
+# sent_id = 274
+# text = mais euh surtout il frappe comme une mule
+1	mais	_	_	_	_	_	_	_	_
+2	euh	_	_	_	_	_	_	_	_
+3	surtout	_	_	_	_	_	_	_	_
+4	il	_	_	_	_	_	_	_	_
+5	frappe	_	_	_	_	_	_	_	_
+6	comme	_	_	_	_	_	_	_	_
+7	une	_	_	_	_	_	_	_	_
+8	mule	_	_	_	_	_	_	_	_
+
+# sent_id = 426
+# text = en vingt-cinq en vingt-cinq ans les gens
+1	en	_	_	_	_	_	_	_	_
+2	vingt-cinq	_	_	_	_	_	_	_	_
+3	en	_	_	_	_	_	_	_	_
+4	vingt-cinq	_	_	_	_	_	_	_	_
+5	ans	_	_	_	_	_	_	_	_
+6	les	_	_	_	_	_	_	_	_
+7	gens	_	_	_	_	_	_	_	_
+
+# sent_id = 1074
+# text = mh mh euh nous dans le quartier on n' a on n' a pas de lycée déjà
+1	mh	_	_	_	_	_	_	_	_
+2	mh	_	_	_	_	_	_	_	_
+3	euh	_	_	_	_	_	_	_	_
+4	nous	_	_	_	_	_	_	_	_
+5	dans	_	_	_	_	_	_	_	_
+6	le	_	_	_	_	_	_	_	_
+7	quartier	_	_	_	_	_	_	_	_
+8	on	_	_	_	_	_	_	_	_
+9	n'	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	on	_	_	_	_	_	_	_	_
+12	n'	_	_	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	pas	_	_	_	_	_	_	_	_
+15	de	_	_	_	_	_	_	_	_
+16	lycée	_	_	_	_	_	_	_	_
+17	déjà	_	_	_	_	_	_	_	_
+
+# sent_id = 1136
+# text = sauf que pour le policier c' est quand même du vol
+1	sauf	_	_	_	_	_	_	_	_
+2	que	_	_	_	_	_	_	_	_
+3	pour	_	_	_	_	_	_	_	_
+4	le	_	_	_	_	_	_	_	_
+5	policier	_	_	_	_	_	_	_	_
+6	c'	_	_	_	_	_	_	_	_
+7	est	_	_	_	_	_	_	_	_
+8	quand	_	_	_	_	_	_	_	_
+9	même	_	_	_	_	_	_	_	_
+10	du	_	_	_	_	_	_	_	_
+11	vol	_	_	_	_	_	_	_	_
+
+# sent_id = 1665
+# text = euh moi je je je préviens avant de rentrer surtout plus tôt quoi
+1	euh	_	_	_	_	_	_	_	_
+2	moi	_	_	_	_	_	_	_	_
+3	je	_	_	_	_	_	_	_	_
+4	je	_	_	_	_	_	_	_	_
+5	je	_	_	_	_	_	_	_	_
+6	préviens	_	_	_	_	_	_	_	_
+7	avant	_	_	_	_	_	_	_	_
+8	de	_	_	_	_	_	_	_	_
+9	rentrer	_	_	_	_	_	_	_	_
+10	surtout	_	_	_	_	_	_	_	_
+11	plus	_	_	_	_	_	_	_	_
+12	tôt	_	_	_	_	_	_	_	_
+13	quoi	_	_	_	_	_	_	_	_
+
+# sent_id = 428
+# text = moi je suis aussi
+1	moi	_	_	_	_	_	_	_	_
+2	je	_	_	_	_	_	_	_	_
+3	suis	_	_	_	_	_	_	_	_
+4	aussi	_	_	_	_	_	_	_	_
+
+# sent_id = 2123
+# text = eh bien le secret il est là dans ce eh oui petit bruit que l' on entend
+1	eh	_	_	_	_	_	_	_	_
+2	bien	_	_	_	_	_	_	_	_
+3	le	_	_	_	_	_	_	_	_
+4	secret	_	_	_	_	_	_	_	_
+5	il	_	_	_	_	_	_	_	_
+6	est	_	_	_	_	_	_	_	_
+7	là	_	_	_	_	_	_	_	_
+8	dans	_	_	_	_	_	_	_	_
+9	ce	_	_	_	_	_	_	_	_
+10	eh	_	_	_	_	_	_	_	_
+11	oui	_	_	_	_	_	_	_	_
+12	petit	_	_	_	_	_	_	_	_
+13	bruit	_	_	_	_	_	_	_	_
+14	que	_	_	_	_	_	_	_	_
+15	l'	_	_	_	_	_	_	_	_
+16	on	_	_	_	_	_	_	_	_
+17	entend	_	_	_	_	_	_	_	_
+
+# sent_id = 1250
+# text = euh et sinon les spécialités les m~ un peu moins je sais pas si c' est ça qui vous intéresse petit peu moins prises bah c' est les c' est les spécialités à risques la gynéco obstétrique par exemple la cancérologie
+1	euh	_	_	_	_	_	_	_	_
+2	et	_	_	_	_	_	_	_	_
+3	sinon	_	_	_	_	_	_	_	_
+4	les	_	_	_	_	_	_	_	_
+5	spécialités	_	_	_	_	_	_	_	_
+6	les	_	_	_	_	_	_	_	_
+7	m~	_	_	_	_	_	_	_	_
+8	un	_	_	_	_	_	_	_	_
+9	peu	_	_	_	_	_	_	_	_
+10	moins	_	_	_	_	_	_	_	_
+11	je	_	_	_	_	_	_	_	_
+12	sais	_	_	_	_	_	_	_	_
+13	pas	_	_	_	_	_	_	_	_
+14	si	_	_	_	_	_	_	_	_
+15	c'	_	_	_	_	_	_	_	_
+16	est	_	_	_	_	_	_	_	_
+17	ça	_	_	_	_	_	_	_	_
+18	qui	_	_	_	_	_	_	_	_
+19	vous	_	_	_	_	_	_	_	_
+20	intéresse	_	_	_	_	_	_	_	_
+21	petit	_	_	_	_	_	_	_	_
+22	peu	_	_	_	_	_	_	_	_
+23	moins	_	_	_	_	_	_	_	_
+24	prises	_	_	_	_	_	_	_	_
+25	bah	_	_	_	_	_	_	_	_
+26	c'	_	_	_	_	_	_	_	_
+27	est	_	_	_	_	_	_	_	_
+28	les	_	_	_	_	_	_	_	_
+29	c'	_	_	_	_	_	_	_	_
+30	est	_	_	_	_	_	_	_	_
+31	les	_	_	_	_	_	_	_	_
+32	spécialités	_	_	_	_	_	_	_	_
+33	à	_	_	_	_	_	_	_	_
+34	risques	_	_	_	_	_	_	_	_
+35	la	_	_	_	_	_	_	_	_
+36	gynéco	_	_	_	_	_	_	_	_
+37	obstétrique	_	_	_	_	_	_	_	_
+38	par	_	_	_	_	_	_	_	_
+39	exemple	_	_	_	_	_	_	_	_
+40	la	_	_	_	_	_	_	_	_
+41	cancérologie	_	_	_	_	_	_	_	_
+
+# sent_id = 619
+# text = et puis après donc euh j' étais une année à la classe de philo au lycée Paul Valéry mh mh euh et en prépa évidemment euh à à la sor~ à Censier puis la Sorbonne quoi
+1	et	_	_	_	_	_	_	_	_
+2	puis	_	_	_	_	_	_	_	_
+3	après	_	_	_	_	_	_	_	_
+4	donc	_	_	_	_	_	_	_	_
+5	euh	_	_	_	_	_	_	_	_
+6	j'	_	_	_	_	_	_	_	_
+7	étais	_	_	_	_	_	_	_	_
+8	une	_	_	_	_	_	_	_	_
+9	année	_	_	_	_	_	_	_	_
+10	à	_	_	_	_	_	_	_	_
+11	la	_	_	_	_	_	_	_	_
+12	classe	_	_	_	_	_	_	_	_
+13	de	_	_	_	_	_	_	_	_
+14	philo	_	_	_	_	_	_	_	_
+15	au	_	_	_	_	_	_	_	_
+16	lycée	_	_	_	_	_	_	_	_
+17	Paul	_	_	_	_	_	_	_	_
+18	Valéry	_	_	_	_	_	_	_	_
+19	mh	_	_	_	_	_	_	_	_
+20	mh	_	_	_	_	_	_	_	_
+21	euh	_	_	_	_	_	_	_	_
+22	et	_	_	_	_	_	_	_	_
+23	en	_	_	_	_	_	_	_	_
+24	prépa	_	_	_	_	_	_	_	_
+25	évidemment	_	_	_	_	_	_	_	_
+26	euh	_	_	_	_	_	_	_	_
+27	à	_	_	_	_	_	_	_	_
+28	à	_	_	_	_	_	_	_	_
+29	la	_	_	_	_	_	_	_	_
+30	sor~	_	_	_	_	_	_	_	_
+31	à	_	_	_	_	_	_	_	_
+32	Censier	_	_	_	_	_	_	_	_
+33	puis	_	_	_	_	_	_	_	_
+34	la	_	_	_	_	_	_	_	_
+35	Sorbonne	_	_	_	_	_	_	_	_
+36	quoi	_	_	_	_	_	_	_	_
+
+# sent_id = 2394
+# text = s' il y a six fois plus de cas simplement de cas de gens infectés par le virus alors mécaniquement il y a une chance un risque qu' il y ait six fois plus de de décès
+1	s'	_	_	_	_	_	_	_	_
+2	il	_	_	_	_	_	_	_	_
+3	y	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	six	_	_	_	_	_	_	_	_
+6	fois	_	_	_	_	_	_	_	_
+7	plus	_	_	_	_	_	_	_	_
+8	de	_	_	_	_	_	_	_	_
+9	cas	_	_	_	_	_	_	_	_
+10	simplement	_	_	_	_	_	_	_	_
+11	de	_	_	_	_	_	_	_	_
+12	cas	_	_	_	_	_	_	_	_
+13	de	_	_	_	_	_	_	_	_
+14	gens	_	_	_	_	_	_	_	_
+15	infectés	_	_	_	_	_	_	_	_
+16	par	_	_	_	_	_	_	_	_
+17	le	_	_	_	_	_	_	_	_
+18	virus	_	_	_	_	_	_	_	_
+19	alors	_	_	_	_	_	_	_	_
+20	mécaniquement	_	_	_	_	_	_	_	_
+21	il	_	_	_	_	_	_	_	_
+22	y	_	_	_	_	_	_	_	_
+23	a	_	_	_	_	_	_	_	_
+24	une	_	_	_	_	_	_	_	_
+25	chance	_	_	_	_	_	_	_	_
+26	un	_	_	_	_	_	_	_	_
+27	risque	_	_	_	_	_	_	_	_
+28	qu'	_	_	_	_	_	_	_	_
+29	il	_	_	_	_	_	_	_	_
+30	y	_	_	_	_	_	_	_	_
+31	ait	_	_	_	_	_	_	_	_
+32	six	_	_	_	_	_	_	_	_
+33	fois	_	_	_	_	_	_	_	_
+34	plus	_	_	_	_	_	_	_	_
+35	de	_	_	_	_	_	_	_	_
+36	de	_	_	_	_	_	_	_	_
+37	décès	_	_	_	_	_	_	_	_
+
+# sent_id = 579
+# text = c' est d' ailleurs en partie à cause de ça que j' ai choisi mon mon affectation de travail tellement c' était agréable de revenir comme ça tous les jours quoi
+1	c'	_	_	_	_	_	_	_	_
+2	est	_	_	_	_	_	_	_	_
+3	d'	_	_	_	_	_	_	_	_
+4	ailleurs	_	_	_	_	_	_	_	_
+5	en	_	_	_	_	_	_	_	_
+6	partie	_	_	_	_	_	_	_	_
+7	à	_	_	_	_	_	_	_	_
+8	cause	_	_	_	_	_	_	_	_
+9	de	_	_	_	_	_	_	_	_
+10	ça	_	_	_	_	_	_	_	_
+11	que	_	_	_	_	_	_	_	_
+12	j'	_	_	_	_	_	_	_	_
+13	ai	_	_	_	_	_	_	_	_
+14	choisi	_	_	_	_	_	_	_	_
+15	mon	_	_	_	_	_	_	_	_
+16	mon	_	_	_	_	_	_	_	_
+17	affectation	_	_	_	_	_	_	_	_
+18	de	_	_	_	_	_	_	_	_
+19	travail	_	_	_	_	_	_	_	_
+20	tellement	_	_	_	_	_	_	_	_
+21	c'	_	_	_	_	_	_	_	_
+22	était	_	_	_	_	_	_	_	_
+23	agréable	_	_	_	_	_	_	_	_
+24	de	_	_	_	_	_	_	_	_
+25	revenir	_	_	_	_	_	_	_	_
+26	comme	_	_	_	_	_	_	_	_
+27	ça	_	_	_	_	_	_	_	_
+28	tous	_	_	_	_	_	_	_	_
+29	les	_	_	_	_	_	_	_	_
+30	jours	_	_	_	_	_	_	_	_
+31	quoi	_	_	_	_	_	_	_	_
+
+# sent_id = 937
+# text = il est juste en face
+1	il	_	_	_	_	_	_	_	_
+2	est	_	_	_	_	_	_	_	_
+3	juste	_	_	_	_	_	_	_	_
+4	en	_	_	_	_	_	_	_	_
+5	face	_	_	_	_	_	_	_	_
+
+# sent_id = 1294
+# text = le chef de l' État annonce des mesures de justice je cite pour les salariés touchés par la crise économique
+1	le	_	_	_	_	_	_	_	_
+2	chef	_	_	_	_	_	_	_	_
+3	de	_	_	_	_	_	_	_	_
+4	l'	_	_	_	_	_	_	_	_
+5	État	_	_	_	_	_	_	_	_
+6	annonce	_	_	_	_	_	_	_	_
+7	des	_	_	_	_	_	_	_	_
+8	mesures	_	_	_	_	_	_	_	_
+9	de	_	_	_	_	_	_	_	_
+10	justice	_	_	_	_	_	_	_	_
+11	je	_	_	_	_	_	_	_	_
+12	cite	_	_	_	_	_	_	_	_
+13	pour	_	_	_	_	_	_	_	_
+14	les	_	_	_	_	_	_	_	_
+15	salariés	_	_	_	_	_	_	_	_
+16	touchés	_	_	_	_	_	_	_	_
+17	par	_	_	_	_	_	_	_	_
+18	la	_	_	_	_	_	_	_	_
+19	crise	_	_	_	_	_	_	_	_
+20	économique	_	_	_	_	_	_	_	_
+
+# sent_id = 1054
+# text = mh mh il y a des déménagements et des emménagements en permanence
+1	mh	_	_	_	_	_	_	_	_
+2	mh	_	_	_	_	_	_	_	_
+3	il	_	_	_	_	_	_	_	_
+4	y	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	des	_	_	_	_	_	_	_	_
+7	déménagements	_	_	_	_	_	_	_	_
+8	et	_	_	_	_	_	_	_	_
+9	des	_	_	_	_	_	_	_	_
+10	emménagements	_	_	_	_	_	_	_	_
+11	en	_	_	_	_	_	_	_	_
+12	permanence	_	_	_	_	_	_	_	_
+
+# sent_id = 595
+# text = il m' arrive d' aller
+1	il	_	_	_	_	_	_	_	_
+2	m'	_	_	_	_	_	_	_	_
+3	arrive	_	_	_	_	_	_	_	_
+4	d'	_	_	_	_	_	_	_	_
+5	aller	_	_	_	_	_	_	_	_
+
+# sent_id = 203
+# text = sortie de but sortie de but puisque il a poussé le ballon trop loin Messi
+1	sortie	_	_	_	_	_	_	_	_
+2	de	_	_	_	_	_	_	_	_
+3	but	_	_	_	_	_	_	_	_
+4	sortie	_	_	_	_	_	_	_	_
+5	de	_	_	_	_	_	_	_	_
+6	but	_	_	_	_	_	_	_	_
+7	puisque	_	_	_	_	_	_	_	_
+8	il	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	poussé	_	_	_	_	_	_	_	_
+11	le	_	_	_	_	_	_	_	_
+12	ballon	_	_	_	_	_	_	_	_
+13	trop	_	_	_	_	_	_	_	_
+14	loin	_	_	_	_	_	_	_	_
+15	Messi	_	_	_	_	_	_	_	_
+
+# sent_id = 1770
+# text = euh mon père était un autodidacte venant d' un milieu très pauvre ayant fait aucune étude mais ayant une passion de la littérature et du savoir et ayant accumulé un énorme savoir d' autodidacte
+1	euh	_	_	_	_	_	_	_	_
+2	mon	_	_	_	_	_	_	_	_
+3	père	_	_	_	_	_	_	_	_
+4	était	_	_	_	_	_	_	_	_
+5	un	_	_	_	_	_	_	_	_
+6	autodidacte	_	_	_	_	_	_	_	_
+7	venant	_	_	_	_	_	_	_	_
+8	d'	_	_	_	_	_	_	_	_
+9	un	_	_	_	_	_	_	_	_
+10	milieu	_	_	_	_	_	_	_	_
+11	très	_	_	_	_	_	_	_	_
+12	pauvre	_	_	_	_	_	_	_	_
+13	ayant	_	_	_	_	_	_	_	_
+14	fait	_	_	_	_	_	_	_	_
+15	aucune	_	_	_	_	_	_	_	_
+16	étude	_	_	_	_	_	_	_	_
+17	mais	_	_	_	_	_	_	_	_
+18	ayant	_	_	_	_	_	_	_	_
+19	une	_	_	_	_	_	_	_	_
+20	passion	_	_	_	_	_	_	_	_
+21	de	_	_	_	_	_	_	_	_
+22	la	_	_	_	_	_	_	_	_
+23	littérature	_	_	_	_	_	_	_	_
+24	et	_	_	_	_	_	_	_	_
+25	du	_	_	_	_	_	_	_	_
+26	savoir	_	_	_	_	_	_	_	_
+27	et	_	_	_	_	_	_	_	_
+28	ayant	_	_	_	_	_	_	_	_
+29	accumulé	_	_	_	_	_	_	_	_
+30	un	_	_	_	_	_	_	_	_
+31	énorme	_	_	_	_	_	_	_	_
+32	savoir	_	_	_	_	_	_	_	_
+33	d'	_	_	_	_	_	_	_	_
+34	autodidacte	_	_	_	_	_	_	_	_
+
+# sent_id = 1763
+# text = il démissionne et se retire
+1	il	_	_	_	_	_	_	_	_
+2	démissionne	_	_	_	_	_	_	_	_
+3	et	_	_	_	_	_	_	_	_
+4	se	_	_	_	_	_	_	_	_
+5	retire	_	_	_	_	_	_	_	_
+
+# sent_id = 945
+# text = parce parce que euh d' accord vous longez
+1	parce	_	_	_	_	_	_	_	_
+2	parce	_	_	_	_	_	_	_	_
+3	que	_	_	_	_	_	_	_	_
+4	euh	_	_	_	_	_	_	_	_
+5	d'	_	_	_	_	_	_	_	_
+6	accord	_	_	_	_	_	_	_	_
+7	vous	_	_	_	_	_	_	_	_
+8	longez	_	_	_	_	_	_	_	_
+
+# sent_id = 1969
+# text = et visiblement même si c' est un film muet euh on comprend que euh Charlie Chaplin s' accuse à la place de la jeune fille qui donc euh reste euh toute seule fort étonnée
+1	et	_	_	_	_	_	_	_	_
+2	visiblement	_	_	_	_	_	_	_	_
+3	même	_	_	_	_	_	_	_	_
+4	si	_	_	_	_	_	_	_	_
+5	c'	_	_	_	_	_	_	_	_
+6	est	_	_	_	_	_	_	_	_
+7	un	_	_	_	_	_	_	_	_
+8	film	_	_	_	_	_	_	_	_
+9	muet	_	_	_	_	_	_	_	_
+10	euh	_	_	_	_	_	_	_	_
+11	on	_	_	_	_	_	_	_	_
+12	comprend	_	_	_	_	_	_	_	_
+13	que	_	_	_	_	_	_	_	_
+14	euh	_	_	_	_	_	_	_	_
+15	Charlie	_	_	_	_	_	_	_	_
+16	Chaplin	_	_	_	_	_	_	_	_
+17	s'	_	_	_	_	_	_	_	_
+18	accuse	_	_	_	_	_	_	_	_
+19	à	_	_	_	_	_	_	_	_
+20	la	_	_	_	_	_	_	_	_
+21	place	_	_	_	_	_	_	_	_
+22	de	_	_	_	_	_	_	_	_
+23	la	_	_	_	_	_	_	_	_
+24	jeune	_	_	_	_	_	_	_	_
+25	fille	_	_	_	_	_	_	_	_
+26	qui	_	_	_	_	_	_	_	_
+27	donc	_	_	_	_	_	_	_	_
+28	euh	_	_	_	_	_	_	_	_
+29	reste	_	_	_	_	_	_	_	_
+30	euh	_	_	_	_	_	_	_	_
+31	toute	_	_	_	_	_	_	_	_
+32	seule	_	_	_	_	_	_	_	_
+33	fort	_	_	_	_	_	_	_	_
+34	étonnée	_	_	_	_	_	_	_	_
+
+# sent_id = 1523
+# text = parce que j' aime pas trop la frange tout autour encore
+1	parce	_	_	_	_	_	_	_	_
+2	que	_	_	_	_	_	_	_	_
+3	j'	_	_	_	_	_	_	_	_
+4	aime	_	_	_	_	_	_	_	_
+5	pas	_	_	_	_	_	_	_	_
+6	trop	_	_	_	_	_	_	_	_
+7	la	_	_	_	_	_	_	_	_
+8	frange	_	_	_	_	_	_	_	_
+9	tout	_	_	_	_	_	_	_	_
+10	autour	_	_	_	_	_	_	_	_
+11	encore	_	_	_	_	_	_	_	_
+
+# sent_id = 117
+# text = alors depuis avant la guerre j' avais rencontré euh Monfreid Henry de Monfreid qui venait faire des conférences à à Mulhouse
+1	alors	_	_	_	_	_	_	_	_
+2	depuis	_	_	_	_	_	_	_	_
+3	avant	_	_	_	_	_	_	_	_
+4	la	_	_	_	_	_	_	_	_
+5	guerre	_	_	_	_	_	_	_	_
+6	j'	_	_	_	_	_	_	_	_
+7	avais	_	_	_	_	_	_	_	_
+8	rencontré	_	_	_	_	_	_	_	_
+9	euh	_	_	_	_	_	_	_	_
+10	Monfreid	_	_	_	_	_	_	_	_
+11	Henry	_	_	_	_	_	_	_	_
+12	de	_	_	_	_	_	_	_	_
+13	Monfreid	_	_	_	_	_	_	_	_
+14	qui	_	_	_	_	_	_	_	_
+15	venait	_	_	_	_	_	_	_	_
+16	faire	_	_	_	_	_	_	_	_
+17	des	_	_	_	_	_	_	_	_
+18	conférences	_	_	_	_	_	_	_	_
+19	à	_	_	_	_	_	_	_	_
+20	à	_	_	_	_	_	_	_	_
+21	Mulhouse	_	_	_	_	_	_	_	_
+
+# sent_id = 1101
+# text = c' est mh mh un peu bon évidemment les achats sur internet mh mh euh donc sur les sites de vente de livres et puis ça ça commence aussi oui et puis surtout le le temps que les gens passent devant Internet
+1	c'	_	_	_	_	_	_	_	_
+2	est	_	_	_	_	_	_	_	_
+3	mh	_	_	_	_	_	_	_	_
+4	mh	_	_	_	_	_	_	_	_
+5	un	_	_	_	_	_	_	_	_
+6	peu	_	_	_	_	_	_	_	_
+7	bon	_	_	_	_	_	_	_	_
+8	évidemment	_	_	_	_	_	_	_	_
+9	les	_	_	_	_	_	_	_	_
+10	achats	_	_	_	_	_	_	_	_
+11	sur	_	_	_	_	_	_	_	_
+12	internet	_	_	_	_	_	_	_	_
+13	mh	_	_	_	_	_	_	_	_
+14	mh	_	_	_	_	_	_	_	_
+15	euh	_	_	_	_	_	_	_	_
+16	donc	_	_	_	_	_	_	_	_
+17	sur	_	_	_	_	_	_	_	_
+18	les	_	_	_	_	_	_	_	_
+19	sites	_	_	_	_	_	_	_	_
+20	de	_	_	_	_	_	_	_	_
+21	vente	_	_	_	_	_	_	_	_
+22	de	_	_	_	_	_	_	_	_
+23	livres	_	_	_	_	_	_	_	_
+24	et	_	_	_	_	_	_	_	_
+25	puis	_	_	_	_	_	_	_	_
+26	ça	_	_	_	_	_	_	_	_
+27	ça	_	_	_	_	_	_	_	_
+28	commence	_	_	_	_	_	_	_	_
+29	aussi	_	_	_	_	_	_	_	_
+30	oui	_	_	_	_	_	_	_	_
+31	et	_	_	_	_	_	_	_	_
+32	puis	_	_	_	_	_	_	_	_
+33	surtout	_	_	_	_	_	_	_	_
+34	le	_	_	_	_	_	_	_	_
+35	le	_	_	_	_	_	_	_	_
+36	temps	_	_	_	_	_	_	_	_
+37	que	_	_	_	_	_	_	_	_
+38	les	_	_	_	_	_	_	_	_
+39	gens	_	_	_	_	_	_	_	_
+40	passent	_	_	_	_	_	_	_	_
+41	devant	_	_	_	_	_	_	_	_
+42	Internet	_	_	_	_	_	_	_	_
+
+# sent_id = 164
+# text = c' est une tornade
+1	c'	_	_	_	_	_	_	_	_
+2	est	_	_	_	_	_	_	_	_
+3	une	_	_	_	_	_	_	_	_
+4	tornade	_	_	_	_	_	_	_	_
+
+# sent_id = 1539
+# text = il y avait les deux
+1	il	_	_	_	_	_	_	_	_
+2	y	_	_	_	_	_	_	_	_
+3	avait	_	_	_	_	_	_	_	_
+4	les	_	_	_	_	_	_	_	_
+5	deux	_	_	_	_	_	_	_	_
+
+# sent_id = 2669
+# text = et il m' a dit écoute tout ça n' est pas sérieux il faut que tu deviennes script girl par exemple viens travailler avec moi
+1	et	_	_	_	_	_	_	_	_
+2	il	_	_	_	_	_	_	_	_
+3	m'	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	dit	_	_	_	_	_	_	_	_
+6	écoute	_	_	_	_	_	_	_	_
+7	tout	_	_	_	_	_	_	_	_
+8	ça	_	_	_	_	_	_	_	_
+9	n'	_	_	_	_	_	_	_	_
+10	est	_	_	_	_	_	_	_	_
+11	pas	_	_	_	_	_	_	_	_
+12	sérieux	_	_	_	_	_	_	_	_
+13	il	_	_	_	_	_	_	_	_
+14	faut	_	_	_	_	_	_	_	_
+15	que	_	_	_	_	_	_	_	_
+16	tu	_	_	_	_	_	_	_	_
+17	deviennes	_	_	_	_	_	_	_	_
+18	script	_	_	_	_	_	_	_	_
+19	girl	_	_	_	_	_	_	_	_
+20	par	_	_	_	_	_	_	_	_
+21	exemple	_	_	_	_	_	_	_	_
+22	viens	_	_	_	_	_	_	_	_
+23	travailler	_	_	_	_	_	_	_	_
+24	avec	_	_	_	_	_	_	_	_
+25	moi	_	_	_	_	_	_	_	_
+
+# sent_id = 14
+# text = ensuite euh je vais euh prendre je crois que c' est l' avenue Alsace - Lorraine que je vais remonter remonter
+1	ensuite	_	_	_	_	_	_	_	_
+2	euh	_	_	_	_	_	_	_	_
+3	je	_	_	_	_	_	_	_	_
+4	vais	_	_	_	_	_	_	_	_
+5	euh	_	_	_	_	_	_	_	_
+6	prendre	_	_	_	_	_	_	_	_
+7	je	_	_	_	_	_	_	_	_
+8	crois	_	_	_	_	_	_	_	_
+9	que	_	_	_	_	_	_	_	_
+10	c'	_	_	_	_	_	_	_	_
+11	est	_	_	_	_	_	_	_	_
+12	l'	_	_	_	_	_	_	_	_
+13	avenue	_	_	_	_	_	_	_	_
+14	Alsace	_	_	_	_	_	_	_	_
+15	-	_	_	_	_	_	_	_	_
+16	Lorraine	_	_	_	_	_	_	_	_
+17	que	_	_	_	_	_	_	_	_
+18	je	_	_	_	_	_	_	_	_
+19	vais	_	_	_	_	_	_	_	_
+20	remonter	_	_	_	_	_	_	_	_
+21	remonter	_	_	_	_	_	_	_	_
+
+# sent_id = 1368
+# text = et quand je suis arrivée là - bas on m' a on en gros on m' a mis dans le lycée en me disant bon enfin dans le collège
+1	et	_	_	_	_	_	_	_	_
+2	quand	_	_	_	_	_	_	_	_
+3	je	_	_	_	_	_	_	_	_
+4	suis	_	_	_	_	_	_	_	_
+5	arrivée	_	_	_	_	_	_	_	_
+6	là	_	_	_	_	_	_	_	_
+7	-	_	_	_	_	_	_	_	_
+8	bas	_	_	_	_	_	_	_	_
+9	on	_	_	_	_	_	_	_	_
+10	m'	_	_	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	on	_	_	_	_	_	_	_	_
+13	en	_	_	_	_	_	_	_	_
+14	gros	_	_	_	_	_	_	_	_
+15	on	_	_	_	_	_	_	_	_
+16	m'	_	_	_	_	_	_	_	_
+17	a	_	_	_	_	_	_	_	_
+18	mis	_	_	_	_	_	_	_	_
+19	dans	_	_	_	_	_	_	_	_
+20	le	_	_	_	_	_	_	_	_
+21	lycée	_	_	_	_	_	_	_	_
+22	en	_	_	_	_	_	_	_	_
+23	me	_	_	_	_	_	_	_	_
+24	disant	_	_	_	_	_	_	_	_
+25	bon	_	_	_	_	_	_	_	_
+26	enfin	_	_	_	_	_	_	_	_
+27	dans	_	_	_	_	_	_	_	_
+28	le	_	_	_	_	_	_	_	_
+29	collège	_	_	_	_	_	_	_	_
+
+# sent_id = 1031
+# text = il y a des gens qui écrivent mais selon un statut souvent un peu honteux
+1	il	_	_	_	_	_	_	_	_
+2	y	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	des	_	_	_	_	_	_	_	_
+5	gens	_	_	_	_	_	_	_	_
+6	qui	_	_	_	_	_	_	_	_
+7	écrivent	_	_	_	_	_	_	_	_
+8	mais	_	_	_	_	_	_	_	_
+9	selon	_	_	_	_	_	_	_	_
+10	un	_	_	_	_	_	_	_	_
+11	statut	_	_	_	_	_	_	_	_
+12	souvent	_	_	_	_	_	_	_	_
+13	un	_	_	_	_	_	_	_	_
+14	peu	_	_	_	_	_	_	_	_
+15	honteux	_	_	_	_	_	_	_	_
+
+# sent_id = 739
+# text = tu suis la ligne du tram jusqu' à jusqu' à ben jusqu' à La Nef Chavant
+1	tu	_	_	_	_	_	_	_	_
+2	suis	_	_	_	_	_	_	_	_
+3	la	_	_	_	_	_	_	_	_
+4	ligne	_	_	_	_	_	_	_	_
+5	du	_	_	_	_	_	_	_	_
+6	tram	_	_	_	_	_	_	_	_
+7	jusqu'	_	_	_	_	_	_	_	_
+8	à	_	_	_	_	_	_	_	_
+9	jusqu'	_	_	_	_	_	_	_	_
+10	à	_	_	_	_	_	_	_	_
+11	ben	_	_	_	_	_	_	_	_
+12	jusqu'	_	_	_	_	_	_	_	_
+13	à	_	_	_	_	_	_	_	_
+14	La	_	_	_	_	_	_	_	_
+15	Nef	_	_	_	_	_	_	_	_
+16	Chavant	_	_	_	_	_	_	_	_
+
+# sent_id = 737
+# text = tu verras il y a un arrêt de tram
+1	tu	_	_	_	_	_	_	_	_
+2	verras	_	_	_	_	_	_	_	_
+3	il	_	_	_	_	_	_	_	_
+4	y	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	un	_	_	_	_	_	_	_	_
+7	arrêt	_	_	_	_	_	_	_	_
+8	de	_	_	_	_	_	_	_	_
+9	tram	_	_	_	_	_	_	_	_
+
+# sent_id = 2196
+# text = pendant dix ans
+1	pendant	_	_	_	_	_	_	_	_
+2	dix	_	_	_	_	_	_	_	_
+3	ans	_	_	_	_	_	_	_	_
+
+# sent_id = 1161
+# text = il se trouve que dans les adresses qu' on m' avait données j' ai euh il y a deux rendez - vous que j' ai dû remettre parce que les gens vendaient euh euh des biens de famille
+1	il	_	_	_	_	_	_	_	_
+2	se	_	_	_	_	_	_	_	_
+3	trouve	_	_	_	_	_	_	_	_
+4	que	_	_	_	_	_	_	_	_
+5	dans	_	_	_	_	_	_	_	_
+6	les	_	_	_	_	_	_	_	_
+7	adresses	_	_	_	_	_	_	_	_
+8	qu'	_	_	_	_	_	_	_	_
+9	on	_	_	_	_	_	_	_	_
+10	m'	_	_	_	_	_	_	_	_
+11	avait	_	_	_	_	_	_	_	_
+12	données	_	_	_	_	_	_	_	_
+13	j'	_	_	_	_	_	_	_	_
+14	ai	_	_	_	_	_	_	_	_
+15	euh	_	_	_	_	_	_	_	_
+16	il	_	_	_	_	_	_	_	_
+17	y	_	_	_	_	_	_	_	_
+18	a	_	_	_	_	_	_	_	_
+19	deux	_	_	_	_	_	_	_	_
+20	rendez	_	_	_	_	_	_	_	_
+21	-	_	_	_	_	_	_	_	_
+22	vous	_	_	_	_	_	_	_	_
+23	que	_	_	_	_	_	_	_	_
+24	j'	_	_	_	_	_	_	_	_
+25	ai	_	_	_	_	_	_	_	_
+26	dû	_	_	_	_	_	_	_	_
+27	remettre	_	_	_	_	_	_	_	_
+28	parce	_	_	_	_	_	_	_	_
+29	que	_	_	_	_	_	_	_	_
+30	les	_	_	_	_	_	_	_	_
+31	gens	_	_	_	_	_	_	_	_
+32	vendaient	_	_	_	_	_	_	_	_
+33	euh	_	_	_	_	_	_	_	_
+34	euh	_	_	_	_	_	_	_	_
+35	des	_	_	_	_	_	_	_	_
+36	biens	_	_	_	_	_	_	_	_
+37	de	_	_	_	_	_	_	_	_
+38	famille	_	_	_	_	_	_	_	_
+
+# sent_id = 329
+# text = il y a une mauvais séquence hein pour l' équipe de France actuellement oui qui se fait là vraiment balader hein
+1	il	_	_	_	_	_	_	_	_
+2	y	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	une	_	_	_	_	_	_	_	_
+5	mauvais	_	_	_	_	_	_	_	_
+6	séquence	_	_	_	_	_	_	_	_
+7	hein	_	_	_	_	_	_	_	_
+8	pour	_	_	_	_	_	_	_	_
+9	l'	_	_	_	_	_	_	_	_
+10	équipe	_	_	_	_	_	_	_	_
+11	de	_	_	_	_	_	_	_	_
+12	France	_	_	_	_	_	_	_	_
+13	actuellement	_	_	_	_	_	_	_	_
+14	oui	_	_	_	_	_	_	_	_
+15	qui	_	_	_	_	_	_	_	_
+16	se	_	_	_	_	_	_	_	_
+17	fait	_	_	_	_	_	_	_	_
+18	là	_	_	_	_	_	_	_	_
+19	vraiment	_	_	_	_	_	_	_	_
+20	balader	_	_	_	_	_	_	_	_
+21	hein	_	_	_	_	_	_	_	_
+
+# sent_id = 1621
+# text = est -ce que ça vous va
+1	est	_	_	_	_	_	_	_	_
+2	-ce	_	_	_	_	_	_	_	_
+3	que	_	_	_	_	_	_	_	_
+4	ça	_	_	_	_	_	_	_	_
+5	vous	_	_	_	_	_	_	_	_
+6	va	_	_	_	_	_	_	_	_
+
+# sent_id = 997
+# text = ah mais ça c' est parce que d' abord il y a il y avait une tâche historique à accomplir
+1	ah	_	_	_	_	_	_	_	_
+2	mais	_	_	_	_	_	_	_	_
+3	ça	_	_	_	_	_	_	_	_
+4	c'	_	_	_	_	_	_	_	_
+5	est	_	_	_	_	_	_	_	_
+6	parce	_	_	_	_	_	_	_	_
+7	que	_	_	_	_	_	_	_	_
+8	d'	_	_	_	_	_	_	_	_
+9	abord	_	_	_	_	_	_	_	_
+10	il	_	_	_	_	_	_	_	_
+11	y	_	_	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	il	_	_	_	_	_	_	_	_
+14	y	_	_	_	_	_	_	_	_
+15	avait	_	_	_	_	_	_	_	_
+16	une	_	_	_	_	_	_	_	_
+17	tâche	_	_	_	_	_	_	_	_
+18	historique	_	_	_	_	_	_	_	_
+19	à	_	_	_	_	_	_	_	_
+20	accomplir	_	_	_	_	_	_	_	_
+
+# sent_id = 725
+# text = et euh en fait euh bon forcément euh Charlot comme ils se sont rencontrés tous les deux Charlot a récupéré la la baguette
+1	et	_	_	_	_	_	_	_	_
+2	euh	_	_	_	_	_	_	_	_
+3	en	_	_	_	_	_	_	_	_
+4	fait	_	_	_	_	_	_	_	_
+5	euh	_	_	_	_	_	_	_	_
+6	bon	_	_	_	_	_	_	_	_
+7	forcément	_	_	_	_	_	_	_	_
+8	euh	_	_	_	_	_	_	_	_
+9	Charlot	_	_	_	_	_	_	_	_
+10	comme	_	_	_	_	_	_	_	_
+11	ils	_	_	_	_	_	_	_	_
+12	se	_	_	_	_	_	_	_	_
+13	sont	_	_	_	_	_	_	_	_
+14	rencontrés	_	_	_	_	_	_	_	_
+15	tous	_	_	_	_	_	_	_	_
+16	les	_	_	_	_	_	_	_	_
+17	deux	_	_	_	_	_	_	_	_
+18	Charlot	_	_	_	_	_	_	_	_
+19	a	_	_	_	_	_	_	_	_
+20	récupéré	_	_	_	_	_	_	_	_
+21	la	_	_	_	_	_	_	_	_
+22	la	_	_	_	_	_	_	_	_
+23	baguette	_	_	_	_	_	_	_	_
+
+# sent_id = 395
+# text = ah bah oui oui oui oui
+1	ah	_	_	_	_	_	_	_	_
+2	bah	_	_	_	_	_	_	_	_
+3	oui	_	_	_	_	_	_	_	_
+4	oui	_	_	_	_	_	_	_	_
+5	oui	_	_	_	_	_	_	_	_
+6	oui	_	_	_	_	_	_	_	_
+
+# sent_id = 1439
+# text = c' est pas joli hein
+1	c'	_	_	_	_	_	_	_	_
+2	est	_	_	_	_	_	_	_	_
+3	pas	_	_	_	_	_	_	_	_
+4	joli	_	_	_	_	_	_	_	_
+5	hein	_	_	_	_	_	_	_	_
+
+# sent_id = 2575
+# text = et j' ai l' impression que c' est avec ces yeux que vous avez dessiné votre route Françoise Giroud
+1	et	_	_	_	_	_	_	_	_
+2	j'	_	_	_	_	_	_	_	_
+3	ai	_	_	_	_	_	_	_	_
+4	l'	_	_	_	_	_	_	_	_
+5	impression	_	_	_	_	_	_	_	_
+6	que	_	_	_	_	_	_	_	_
+7	c'	_	_	_	_	_	_	_	_
+8	est	_	_	_	_	_	_	_	_
+9	avec	_	_	_	_	_	_	_	_
+10	ces	_	_	_	_	_	_	_	_
+11	yeux	_	_	_	_	_	_	_	_
+12	que	_	_	_	_	_	_	_	_
+13	vous	_	_	_	_	_	_	_	_
+14	avez	_	_	_	_	_	_	_	_
+15	dessiné	_	_	_	_	_	_	_	_
+16	votre	_	_	_	_	_	_	_	_
+17	route	_	_	_	_	_	_	_	_
+18	Françoise	_	_	_	_	_	_	_	_
+19	Giroud	_	_	_	_	_	_	_	_
+
+# sent_id = 490
+# text = c' est c' est pra~ ah ouais pratiquement
+1	c'	_	_	_	_	_	_	_	_
+2	est	_	_	_	_	_	_	_	_
+3	c'	_	_	_	_	_	_	_	_
+4	est	_	_	_	_	_	_	_	_
+5	pra~	_	_	_	_	_	_	_	_
+6	ah	_	_	_	_	_	_	_	_
+7	ouais	_	_	_	_	_	_	_	_
+8	pratiquement	_	_	_	_	_	_	_	_
+
+# sent_id = 674
+# text = et je passe sous le lycée Stendhal
+1	et	_	_	_	_	_	_	_	_
+2	je	_	_	_	_	_	_	_	_
+3	passe	_	_	_	_	_	_	_	_
+4	sous	_	_	_	_	_	_	_	_
+5	le	_	_	_	_	_	_	_	_
+6	lycée	_	_	_	_	_	_	_	_
+7	Stendhal	_	_	_	_	_	_	_	_
+
+# sent_id = 419
+# text = à un moment donné ça devenait
+1	à	_	_	_	_	_	_	_	_
+2	un	_	_	_	_	_	_	_	_
+3	moment	_	_	_	_	_	_	_	_
+4	donné	_	_	_	_	_	_	_	_
+5	ça	_	_	_	_	_	_	_	_
+6	devenait	_	_	_	_	_	_	_	_
+
+# sent_id = 2758
+# text = mais nos prêtres de Beauce qui sont les curés de campagne euh ont en général avec leur population euh cet euh ce ce lien si vous voulez qui n' est pas superficiel mais en profondeur euh qui correspond bien à la fidélité d' une d' une race
+1	mais	_	_	_	_	_	_	_	_
+2	nos	_	_	_	_	_	_	_	_
+3	prêtres	_	_	_	_	_	_	_	_
+4	de	_	_	_	_	_	_	_	_
+5	Beauce	_	_	_	_	_	_	_	_
+6	qui	_	_	_	_	_	_	_	_
+7	sont	_	_	_	_	_	_	_	_
+8	les	_	_	_	_	_	_	_	_
+9	curés	_	_	_	_	_	_	_	_
+10	de	_	_	_	_	_	_	_	_
+11	campagne	_	_	_	_	_	_	_	_
+12	euh	_	_	_	_	_	_	_	_
+13	ont	_	_	_	_	_	_	_	_
+14	en	_	_	_	_	_	_	_	_
+15	général	_	_	_	_	_	_	_	_
+16	avec	_	_	_	_	_	_	_	_
+17	leur	_	_	_	_	_	_	_	_
+18	population	_	_	_	_	_	_	_	_
+19	euh	_	_	_	_	_	_	_	_
+20	cet	_	_	_	_	_	_	_	_
+21	euh	_	_	_	_	_	_	_	_
+22	ce	_	_	_	_	_	_	_	_
+23	ce	_	_	_	_	_	_	_	_
+24	lien	_	_	_	_	_	_	_	_
+25	si	_	_	_	_	_	_	_	_
+26	vous	_	_	_	_	_	_	_	_
+27	voulez	_	_	_	_	_	_	_	_
+28	qui	_	_	_	_	_	_	_	_
+29	n'	_	_	_	_	_	_	_	_
+30	est	_	_	_	_	_	_	_	_
+31	pas	_	_	_	_	_	_	_	_
+32	superficiel	_	_	_	_	_	_	_	_
+33	mais	_	_	_	_	_	_	_	_
+34	en	_	_	_	_	_	_	_	_
+35	profondeur	_	_	_	_	_	_	_	_
+36	euh	_	_	_	_	_	_	_	_
+37	qui	_	_	_	_	_	_	_	_
+38	correspond	_	_	_	_	_	_	_	_
+39	bien	_	_	_	_	_	_	_	_
+40	à	_	_	_	_	_	_	_	_
+41	la	_	_	_	_	_	_	_	_
+42	fidélité	_	_	_	_	_	_	_	_
+43	d'	_	_	_	_	_	_	_	_
+44	une	_	_	_	_	_	_	_	_
+45	d'	_	_	_	_	_	_	_	_
+46	une	_	_	_	_	_	_	_	_
+47	race	_	_	_	_	_	_	_	_
+
+# sent_id = 1794
+# text = j' étais très impressionné par le théâtre de Marivaux qui était important pour moi
+1	j'	_	_	_	_	_	_	_	_
+2	étais	_	_	_	_	_	_	_	_
+3	très	_	_	_	_	_	_	_	_
+4	impressionné	_	_	_	_	_	_	_	_
+5	par	_	_	_	_	_	_	_	_
+6	le	_	_	_	_	_	_	_	_
+7	théâtre	_	_	_	_	_	_	_	_
+8	de	_	_	_	_	_	_	_	_
+9	Marivaux	_	_	_	_	_	_	_	_
+10	qui	_	_	_	_	_	_	_	_
+11	était	_	_	_	_	_	_	_	_
+12	important	_	_	_	_	_	_	_	_
+13	pour	_	_	_	_	_	_	_	_
+14	moi	_	_	_	_	_	_	_	_
+
+# sent_id = 173
+# text = comme en écho dans Libération Laurent Joffrin qui n' est évidemment pas convaincu balaye d' un ricanement la pensée d' Étienne Mougeotte
+1	comme	_	_	_	_	_	_	_	_
+2	en	_	_	_	_	_	_	_	_
+3	écho	_	_	_	_	_	_	_	_
+4	dans	_	_	_	_	_	_	_	_
+5	Libération	_	_	_	_	_	_	_	_
+6	Laurent	_	_	_	_	_	_	_	_
+7	Joffrin	_	_	_	_	_	_	_	_
+8	qui	_	_	_	_	_	_	_	_
+9	n'	_	_	_	_	_	_	_	_
+10	est	_	_	_	_	_	_	_	_
+11	évidemment	_	_	_	_	_	_	_	_
+12	pas	_	_	_	_	_	_	_	_
+13	convaincu	_	_	_	_	_	_	_	_
+14	balaye	_	_	_	_	_	_	_	_
+15	d'	_	_	_	_	_	_	_	_
+16	un	_	_	_	_	_	_	_	_
+17	ricanement	_	_	_	_	_	_	_	_
+18	la	_	_	_	_	_	_	_	_
+19	pensée	_	_	_	_	_	_	_	_
+20	d'	_	_	_	_	_	_	_	_
+21	Étienne	_	_	_	_	_	_	_	_
+22	Mougeotte	_	_	_	_	_	_	_	_
+
+# sent_id = 2070
+# text = et pourtant aujourd' hui on y croit dur comme fer
+1	et	_	_	_	_	_	_	_	_
+2	pourtant	_	_	_	_	_	_	_	_
+3	aujourd'	_	_	_	_	_	_	_	_
+4	hui	_	_	_	_	_	_	_	_
+5	on	_	_	_	_	_	_	_	_
+6	y	_	_	_	_	_	_	_	_
+7	croit	_	_	_	_	_	_	_	_
+8	dur	_	_	_	_	_	_	_	_
+9	comme	_	_	_	_	_	_	_	_
+10	fer	_	_	_	_	_	_	_	_
+
+# sent_id = 887
+# text = et normalement vous continuez toujours toujours tout droit
+1	et	_	_	_	_	_	_	_	_
+2	normalement	_	_	_	_	_	_	_	_
+3	vous	_	_	_	_	_	_	_	_
+4	continuez	_	_	_	_	_	_	_	_
+5	toujours	_	_	_	_	_	_	_	_
+6	toujours	_	_	_	_	_	_	_	_
+7	tout	_	_	_	_	_	_	_	_
+8	droit	_	_	_	_	_	_	_	_
+
+# sent_id = 959
+# text = ben de rien
+1	ben	_	_	_	_	_	_	_	_
+2	de	_	_	_	_	_	_	_	_
+3	rien	_	_	_	_	_	_	_	_
+
+# sent_id = 1122
+# text = mh euh bon eux n' ont pas d' enfants
+1	mh	_	_	_	_	_	_	_	_
+2	euh	_	_	_	_	_	_	_	_
+3	bon	_	_	_	_	_	_	_	_
+4	eux	_	_	_	_	_	_	_	_
+5	n'	_	_	_	_	_	_	_	_
+6	ont	_	_	_	_	_	_	_	_
+7	pas	_	_	_	_	_	_	_	_
+8	d'	_	_	_	_	_	_	_	_
+9	enfants	_	_	_	_	_	_	_	_
+
+# sent_id = 213
+# text = alors Gallas a pris un carton je vous signale tout de même
+1	alors	_	_	_	_	_	_	_	_
+2	Gallas	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	pris	_	_	_	_	_	_	_	_
+5	un	_	_	_	_	_	_	_	_
+6	carton	_	_	_	_	_	_	_	_
+7	je	_	_	_	_	_	_	_	_
+8	vous	_	_	_	_	_	_	_	_
+9	signale	_	_	_	_	_	_	_	_
+10	tout	_	_	_	_	_	_	_	_
+11	de	_	_	_	_	_	_	_	_
+12	même	_	_	_	_	_	_	_	_
+
+# sent_id = 1663
+# text = moi je serais en prison
+1	moi	_	_	_	_	_	_	_	_
+2	je	_	_	_	_	_	_	_	_
+3	serais	_	_	_	_	_	_	_	_
+4	en	_	_	_	_	_	_	_	_
+5	prison	_	_	_	_	_	_	_	_
+
+# sent_id = 1949
+# text = parce que quand ils sont petits ben euh quand il faut les emmener et que c' est pas facile
+1	parce	_	_	_	_	_	_	_	_
+2	que	_	_	_	_	_	_	_	_
+3	quand	_	_	_	_	_	_	_	_
+4	ils	_	_	_	_	_	_	_	_
+5	sont	_	_	_	_	_	_	_	_
+6	petits	_	_	_	_	_	_	_	_
+7	ben	_	_	_	_	_	_	_	_
+8	euh	_	_	_	_	_	_	_	_
+9	quand	_	_	_	_	_	_	_	_
+10	il	_	_	_	_	_	_	_	_
+11	faut	_	_	_	_	_	_	_	_
+12	les	_	_	_	_	_	_	_	_
+13	emmener	_	_	_	_	_	_	_	_
+14	et	_	_	_	_	_	_	_	_
+15	que	_	_	_	_	_	_	_	_
+16	c'	_	_	_	_	_	_	_	_
+17	est	_	_	_	_	_	_	_	_
+18	pas	_	_	_	_	_	_	_	_
+19	facile	_	_	_	_	_	_	_	_
+
+# sent_id = 2452
+# text = c' est euh
+1	c'	_	_	_	_	_	_	_	_
+2	est	_	_	_	_	_	_	_	_
+3	euh	_	_	_	_	_	_	_	_
+
+# sent_id = 2574
+# text = mais on l' oublie dès qu' on a regardé ses yeux des yeux qui sont en même temps et c' est difficile profonds et perçants pleins de curiosité et de mystère des yeux qui enregistrent chaque détail avec l' implacable précision d' une caméra
+1	mais	_	_	_	_	_	_	_	_
+2	on	_	_	_	_	_	_	_	_
+3	l'	_	_	_	_	_	_	_	_
+4	oublie	_	_	_	_	_	_	_	_
+5	dès	_	_	_	_	_	_	_	_
+6	qu'	_	_	_	_	_	_	_	_
+7	on	_	_	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	regardé	_	_	_	_	_	_	_	_
+10	ses	_	_	_	_	_	_	_	_
+11	yeux	_	_	_	_	_	_	_	_
+12	des	_	_	_	_	_	_	_	_
+13	yeux	_	_	_	_	_	_	_	_
+14	qui	_	_	_	_	_	_	_	_
+15	sont	_	_	_	_	_	_	_	_
+16	en	_	_	_	_	_	_	_	_
+17	même	_	_	_	_	_	_	_	_
+18	temps	_	_	_	_	_	_	_	_
+19	et	_	_	_	_	_	_	_	_
+20	c'	_	_	_	_	_	_	_	_
+21	est	_	_	_	_	_	_	_	_
+22	difficile	_	_	_	_	_	_	_	_
+23	profonds	_	_	_	_	_	_	_	_
+24	et	_	_	_	_	_	_	_	_
+25	perçants	_	_	_	_	_	_	_	_
+26	pleins	_	_	_	_	_	_	_	_
+27	de	_	_	_	_	_	_	_	_
+28	curiosité	_	_	_	_	_	_	_	_
+29	et	_	_	_	_	_	_	_	_
+30	de	_	_	_	_	_	_	_	_
+31	mystère	_	_	_	_	_	_	_	_
+32	des	_	_	_	_	_	_	_	_
+33	yeux	_	_	_	_	_	_	_	_
+34	qui	_	_	_	_	_	_	_	_
+35	enregistrent	_	_	_	_	_	_	_	_
+36	chaque	_	_	_	_	_	_	_	_
+37	détail	_	_	_	_	_	_	_	_
+38	avec	_	_	_	_	_	_	_	_
+39	l'	_	_	_	_	_	_	_	_
+40	implacable	_	_	_	_	_	_	_	_
+41	précision	_	_	_	_	_	_	_	_
+42	d'	_	_	_	_	_	_	_	_
+43	une	_	_	_	_	_	_	_	_
+44	caméra	_	_	_	_	_	_	_	_
+
+# sent_id = 227
+# text = il saute plus haut euh que les attaquants argentins
+1	il	_	_	_	_	_	_	_	_
+2	saute	_	_	_	_	_	_	_	_
+3	plus	_	_	_	_	_	_	_	_
+4	haut	_	_	_	_	_	_	_	_
+5	euh	_	_	_	_	_	_	_	_
+6	que	_	_	_	_	_	_	_	_
+7	les	_	_	_	_	_	_	_	_
+8	attaquants	_	_	_	_	_	_	_	_
+9	argentins	_	_	_	_	_	_	_	_
+
+# sent_id = 1488
+# text = ah oui il fait pas que de le remettre le restaurer
+1	ah	_	_	_	_	_	_	_	_
+2	oui	_	_	_	_	_	_	_	_
+3	il	_	_	_	_	_	_	_	_
+4	fait	_	_	_	_	_	_	_	_
+5	pas	_	_	_	_	_	_	_	_
+6	que	_	_	_	_	_	_	_	_
+7	de	_	_	_	_	_	_	_	_
+8	le	_	_	_	_	_	_	_	_
+9	remettre	_	_	_	_	_	_	_	_
+10	le	_	_	_	_	_	_	_	_
+11	restaurer	_	_	_	_	_	_	_	_
+
+# sent_id = 1653
+# text = Orson Welles
+1	Orson	_	_	_	_	_	_	_	_
+2	Welles	_	_	_	_	_	_	_	_
+
+# sent_id = 305
+# text = alors que le ballon est revenu maintenant dans le camp ouh à nouveau dans les pieds de Zanetti là - bas sur la droite tout près de la ligne de touche
+1	alors	_	_	_	_	_	_	_	_
+2	que	_	_	_	_	_	_	_	_
+3	le	_	_	_	_	_	_	_	_
+4	ballon	_	_	_	_	_	_	_	_
+5	est	_	_	_	_	_	_	_	_
+6	revenu	_	_	_	_	_	_	_	_
+7	maintenant	_	_	_	_	_	_	_	_
+8	dans	_	_	_	_	_	_	_	_
+9	le	_	_	_	_	_	_	_	_
+10	camp	_	_	_	_	_	_	_	_
+11	ouh	_	_	_	_	_	_	_	_
+12	à	_	_	_	_	_	_	_	_
+13	nouveau	_	_	_	_	_	_	_	_
+14	dans	_	_	_	_	_	_	_	_
+15	les	_	_	_	_	_	_	_	_
+16	pieds	_	_	_	_	_	_	_	_
+17	de	_	_	_	_	_	_	_	_
+18	Zanetti	_	_	_	_	_	_	_	_
+19	là	_	_	_	_	_	_	_	_
+20	-	_	_	_	_	_	_	_	_
+21	bas	_	_	_	_	_	_	_	_
+22	sur	_	_	_	_	_	_	_	_
+23	la	_	_	_	_	_	_	_	_
+24	droite	_	_	_	_	_	_	_	_
+25	tout	_	_	_	_	_	_	_	_
+26	près	_	_	_	_	_	_	_	_
+27	de	_	_	_	_	_	_	_	_
+28	la	_	_	_	_	_	_	_	_
+29	ligne	_	_	_	_	_	_	_	_
+30	de	_	_	_	_	_	_	_	_
+31	touche	_	_	_	_	_	_	_	_
+
+# sent_id = 1063
+# text = ce qui fait que pour nous maintenant dans des petites dans des petites rues comme ça où on n' a pas ce passage de l' avenue les gens ne rentrent pas dans les quartiers maintenant
+1	ce	_	_	_	_	_	_	_	_
+2	qui	_	_	_	_	_	_	_	_
+3	fait	_	_	_	_	_	_	_	_
+4	que	_	_	_	_	_	_	_	_
+5	pour	_	_	_	_	_	_	_	_
+6	nous	_	_	_	_	_	_	_	_
+7	maintenant	_	_	_	_	_	_	_	_
+8	dans	_	_	_	_	_	_	_	_
+9	des	_	_	_	_	_	_	_	_
+10	petites	_	_	_	_	_	_	_	_
+11	dans	_	_	_	_	_	_	_	_
+12	des	_	_	_	_	_	_	_	_
+13	petites	_	_	_	_	_	_	_	_
+14	rues	_	_	_	_	_	_	_	_
+15	comme	_	_	_	_	_	_	_	_
+16	ça	_	_	_	_	_	_	_	_
+17	où	_	_	_	_	_	_	_	_
+18	on	_	_	_	_	_	_	_	_
+19	n'	_	_	_	_	_	_	_	_
+20	a	_	_	_	_	_	_	_	_
+21	pas	_	_	_	_	_	_	_	_
+22	ce	_	_	_	_	_	_	_	_
+23	passage	_	_	_	_	_	_	_	_
+24	de	_	_	_	_	_	_	_	_
+25	l'	_	_	_	_	_	_	_	_
+26	avenue	_	_	_	_	_	_	_	_
+27	les	_	_	_	_	_	_	_	_
+28	gens	_	_	_	_	_	_	_	_
+29	ne	_	_	_	_	_	_	_	_
+30	rentrent	_	_	_	_	_	_	_	_
+31	pas	_	_	_	_	_	_	_	_
+32	dans	_	_	_	_	_	_	_	_
+33	les	_	_	_	_	_	_	_	_
+34	quartiers	_	_	_	_	_	_	_	_
+35	maintenant	_	_	_	_	_	_	_	_
+
+# sent_id = 2746
+# text = mais c' est solide
+1	mais	_	_	_	_	_	_	_	_
+2	c'	_	_	_	_	_	_	_	_
+3	est	_	_	_	_	_	_	_	_
+4	solide	_	_	_	_	_	_	_	_
+
+# sent_id = 350
+# text = même si le passé est bien présent dans notre mémoire je ne m' attarderai pas sur le siècle qui s' achève siècle de progrès sans précédent pour la santé l' éducation les conditions de vie pour les libertés la vie démocratique la situation des femmes les solidarités mais aussi siècle d' horreur de tragédies de convulsions qui a vu deux guerres mondiales le goulag les dictatures totalitaires et la Shoah
+1	même	_	_	_	_	_	_	_	_
+2	si	_	_	_	_	_	_	_	_
+3	le	_	_	_	_	_	_	_	_
+4	passé	_	_	_	_	_	_	_	_
+5	est	_	_	_	_	_	_	_	_
+6	bien	_	_	_	_	_	_	_	_
+7	présent	_	_	_	_	_	_	_	_
+8	dans	_	_	_	_	_	_	_	_
+9	notre	_	_	_	_	_	_	_	_
+10	mémoire	_	_	_	_	_	_	_	_
+11	je	_	_	_	_	_	_	_	_
+12	ne	_	_	_	_	_	_	_	_
+13	m'	_	_	_	_	_	_	_	_
+14	attarderai	_	_	_	_	_	_	_	_
+15	pas	_	_	_	_	_	_	_	_
+16	sur	_	_	_	_	_	_	_	_
+17	le	_	_	_	_	_	_	_	_
+18	siècle	_	_	_	_	_	_	_	_
+19	qui	_	_	_	_	_	_	_	_
+20	s'	_	_	_	_	_	_	_	_
+21	achève	_	_	_	_	_	_	_	_
+22	siècle	_	_	_	_	_	_	_	_
+23	de	_	_	_	_	_	_	_	_
+24	progrès	_	_	_	_	_	_	_	_
+25	sans	_	_	_	_	_	_	_	_
+26	précédent	_	_	_	_	_	_	_	_
+27	pour	_	_	_	_	_	_	_	_
+28	la	_	_	_	_	_	_	_	_
+29	santé	_	_	_	_	_	_	_	_
+30	l'	_	_	_	_	_	_	_	_
+31	éducation	_	_	_	_	_	_	_	_
+32	les	_	_	_	_	_	_	_	_
+33	conditions	_	_	_	_	_	_	_	_
+34	de	_	_	_	_	_	_	_	_
+35	vie	_	_	_	_	_	_	_	_
+36	pour	_	_	_	_	_	_	_	_
+37	les	_	_	_	_	_	_	_	_
+38	libertés	_	_	_	_	_	_	_	_
+39	la	_	_	_	_	_	_	_	_
+40	vie	_	_	_	_	_	_	_	_
+41	démocratique	_	_	_	_	_	_	_	_
+42	la	_	_	_	_	_	_	_	_
+43	situation	_	_	_	_	_	_	_	_
+44	des	_	_	_	_	_	_	_	_
+45	femmes	_	_	_	_	_	_	_	_
+46	les	_	_	_	_	_	_	_	_
+47	solidarités	_	_	_	_	_	_	_	_
+48	mais	_	_	_	_	_	_	_	_
+49	aussi	_	_	_	_	_	_	_	_
+50	siècle	_	_	_	_	_	_	_	_
+51	d'	_	_	_	_	_	_	_	_
+52	horreur	_	_	_	_	_	_	_	_
+53	de	_	_	_	_	_	_	_	_
+54	tragédies	_	_	_	_	_	_	_	_
+55	de	_	_	_	_	_	_	_	_
+56	convulsions	_	_	_	_	_	_	_	_
+57	qui	_	_	_	_	_	_	_	_
+58	a	_	_	_	_	_	_	_	_
+59	vu	_	_	_	_	_	_	_	_
+60	deux	_	_	_	_	_	_	_	_
+61	guerres	_	_	_	_	_	_	_	_
+62	mondiales	_	_	_	_	_	_	_	_
+63	le	_	_	_	_	_	_	_	_
+64	goulag	_	_	_	_	_	_	_	_
+65	les	_	_	_	_	_	_	_	_
+66	dictatures	_	_	_	_	_	_	_	_
+67	totalitaires	_	_	_	_	_	_	_	_
+68	et	_	_	_	_	_	_	_	_
+69	la	_	_	_	_	_	_	_	_
+70	Shoah	_	_	_	_	_	_	_	_
+
+# sent_id = 499
+# text = là vous continuez jusqu' à l' arrêt euh Hubert Dubedout
+1	là	_	_	_	_	_	_	_	_
+2	vous	_	_	_	_	_	_	_	_
+3	continuez	_	_	_	_	_	_	_	_
+4	jusqu'	_	_	_	_	_	_	_	_
+5	à	_	_	_	_	_	_	_	_
+6	l'	_	_	_	_	_	_	_	_
+7	arrêt	_	_	_	_	_	_	_	_
+8	euh	_	_	_	_	_	_	_	_
+9	Hubert	_	_	_	_	_	_	_	_
+10	Dubedout	_	_	_	_	_	_	_	_
+
+# sent_id = 2439
+# text = et chaque année c' est un virus qui a fait le tour du monde qui nous revient euh
+1	et	_	_	_	_	_	_	_	_
+2	chaque	_	_	_	_	_	_	_	_
+3	année	_	_	_	_	_	_	_	_
+4	c'	_	_	_	_	_	_	_	_
+5	est	_	_	_	_	_	_	_	_
+6	un	_	_	_	_	_	_	_	_
+7	virus	_	_	_	_	_	_	_	_
+8	qui	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	fait	_	_	_	_	_	_	_	_
+11	le	_	_	_	_	_	_	_	_
+12	tour	_	_	_	_	_	_	_	_
+13	du	_	_	_	_	_	_	_	_
+14	monde	_	_	_	_	_	_	_	_
+15	qui	_	_	_	_	_	_	_	_
+16	nous	_	_	_	_	_	_	_	_
+17	revient	_	_	_	_	_	_	_	_
+18	euh	_	_	_	_	_	_	_	_
+
+# sent_id = 416
+# text = bon il y a un parc euh une cinquantaine euh d' ordinateurs euh plus un certain nombre d' imprimantes et tout ça
+1	bon	_	_	_	_	_	_	_	_
+2	il	_	_	_	_	_	_	_	_
+3	y	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	un	_	_	_	_	_	_	_	_
+6	parc	_	_	_	_	_	_	_	_
+7	euh	_	_	_	_	_	_	_	_
+8	une	_	_	_	_	_	_	_	_
+9	cinquantaine	_	_	_	_	_	_	_	_
+10	euh	_	_	_	_	_	_	_	_
+11	d'	_	_	_	_	_	_	_	_
+12	ordinateurs	_	_	_	_	_	_	_	_
+13	euh	_	_	_	_	_	_	_	_
+14	plus	_	_	_	_	_	_	_	_
+15	un	_	_	_	_	_	_	_	_
+16	certain	_	_	_	_	_	_	_	_
+17	nombre	_	_	_	_	_	_	_	_
+18	d'	_	_	_	_	_	_	_	_
+19	imprimantes	_	_	_	_	_	_	_	_
+20	et	_	_	_	_	_	_	_	_
+21	tout	_	_	_	_	_	_	_	_
+22	ça	_	_	_	_	_	_	_	_
+
+# sent_id = 118
+# text = et et et c' est un type euh passionnant
+1	et	_	_	_	_	_	_	_	_
+2	et	_	_	_	_	_	_	_	_
+3	et	_	_	_	_	_	_	_	_
+4	c'	_	_	_	_	_	_	_	_
+5	est	_	_	_	_	_	_	_	_
+6	un	_	_	_	_	_	_	_	_
+7	type	_	_	_	_	_	_	_	_
+8	euh	_	_	_	_	_	_	_	_
+9	passionnant	_	_	_	_	_	_	_	_
+
+# sent_id = 2368
+# text = et euh on n' a pas beaucoup d' expérience
+1	et	_	_	_	_	_	_	_	_
+2	euh	_	_	_	_	_	_	_	_
+3	on	_	_	_	_	_	_	_	_
+4	n'	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	pas	_	_	_	_	_	_	_	_
+7	beaucoup	_	_	_	_	_	_	_	_
+8	d'	_	_	_	_	_	_	_	_
+9	expérience	_	_	_	_	_	_	_	_
+
+# sent_id = 2144
+# text = mon linge est super propre
+1	mon	_	_	_	_	_	_	_	_
+2	linge	_	_	_	_	_	_	_	_
+3	est	_	_	_	_	_	_	_	_
+4	super	_	_	_	_	_	_	_	_
+5	propre	_	_	_	_	_	_	_	_
+
+# sent_id = 403
+# text = ah d' accord c' est pas rien et euh et
+1	ah	_	_	_	_	_	_	_	_
+2	d'	_	_	_	_	_	_	_	_
+3	accord	_	_	_	_	_	_	_	_
+4	c'	_	_	_	_	_	_	_	_
+5	est	_	_	_	_	_	_	_	_
+6	pas	_	_	_	_	_	_	_	_
+7	rien	_	_	_	_	_	_	_	_
+8	et	_	_	_	_	_	_	_	_
+9	euh	_	_	_	_	_	_	_	_
+10	et	_	_	_	_	_	_	_	_
+
+# sent_id = 2670
+# text = c' était une autre époque où on pouvait faire ça
+1	c'	_	_	_	_	_	_	_	_
+2	était	_	_	_	_	_	_	_	_
+3	une	_	_	_	_	_	_	_	_
+4	autre	_	_	_	_	_	_	_	_
+5	époque	_	_	_	_	_	_	_	_
+6	où	_	_	_	_	_	_	_	_
+7	on	_	_	_	_	_	_	_	_
+8	pouvait	_	_	_	_	_	_	_	_
+9	faire	_	_	_	_	_	_	_	_
+10	ça	_	_	_	_	_	_	_	_
+
+# sent_id = 1382
+# text = ça m' a~ ça m' avait beaucoup en~ enrichie intérieurement
+1	ça	_	_	_	_	_	_	_	_
+2	m'	_	_	_	_	_	_	_	_
+3	a~	_	_	_	_	_	_	_	_
+4	ça	_	_	_	_	_	_	_	_
+5	m'	_	_	_	_	_	_	_	_
+6	avait	_	_	_	_	_	_	_	_
+7	beaucoup	_	_	_	_	_	_	_	_
+8	en~	_	_	_	_	_	_	_	_
+9	enrichie	_	_	_	_	_	_	_	_
+10	intérieurement	_	_	_	_	_	_	_	_
+
+# sent_id = 1049
+# text = je crois qu' il y a il y a quelques années ils avaient dit que l' immobilier avait augmenté d' environ neuf pour cent à Paris
+1	je	_	_	_	_	_	_	_	_
+2	crois	_	_	_	_	_	_	_	_
+3	qu'	_	_	_	_	_	_	_	_
+4	il	_	_	_	_	_	_	_	_
+5	y	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	il	_	_	_	_	_	_	_	_
+8	y	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	quelques	_	_	_	_	_	_	_	_
+11	années	_	_	_	_	_	_	_	_
+12	ils	_	_	_	_	_	_	_	_
+13	avaient	_	_	_	_	_	_	_	_
+14	dit	_	_	_	_	_	_	_	_
+15	que	_	_	_	_	_	_	_	_
+16	l'	_	_	_	_	_	_	_	_
+17	immobilier	_	_	_	_	_	_	_	_
+18	avait	_	_	_	_	_	_	_	_
+19	augmenté	_	_	_	_	_	_	_	_
+20	d'	_	_	_	_	_	_	_	_
+21	environ	_	_	_	_	_	_	_	_
+22	neuf	_	_	_	_	_	_	_	_
+23	pour	_	_	_	_	_	_	_	_
+24	cent	_	_	_	_	_	_	_	_
+25	à	_	_	_	_	_	_	_	_
+26	Paris	_	_	_	_	_	_	_	_
+
+# sent_id = 1931
+# text = comment voulez vous apprendre à lire à un enfant qui parle pas français
+1	comment	_	_	_	_	_	_	_	_
+2	voulez	_	_	_	_	_	_	_	_
+3	vous	_	_	_	_	_	_	_	_
+4	apprendre	_	_	_	_	_	_	_	_
+5	à	_	_	_	_	_	_	_	_
+6	lire	_	_	_	_	_	_	_	_
+7	à	_	_	_	_	_	_	_	_
+8	un	_	_	_	_	_	_	_	_
+9	enfant	_	_	_	_	_	_	_	_
+10	qui	_	_	_	_	_	_	_	_
+11	parle	_	_	_	_	_	_	_	_
+12	pas	_	_	_	_	_	_	_	_
+13	français	_	_	_	_	_	_	_	_
+
+# sent_id = 1176
+# text = ben non
+1	ben	_	_	_	_	_	_	_	_
+2	non	_	_	_	_	_	_	_	_
+
+# sent_id = 2280
+# text = j' étais un peu étonnée un peu épatée enfin et attirée aussi bien sûr
+1	j'	_	_	_	_	_	_	_	_
+2	étais	_	_	_	_	_	_	_	_
+3	un	_	_	_	_	_	_	_	_
+4	peu	_	_	_	_	_	_	_	_
+5	étonnée	_	_	_	_	_	_	_	_
+6	un	_	_	_	_	_	_	_	_
+7	peu	_	_	_	_	_	_	_	_
+8	épatée	_	_	_	_	_	_	_	_
+9	enfin	_	_	_	_	_	_	_	_
+10	et	_	_	_	_	_	_	_	_
+11	attirée	_	_	_	_	_	_	_	_
+12	aussi	_	_	_	_	_	_	_	_
+13	bien	_	_	_	_	_	_	_	_
+14	sûr	_	_	_	_	_	_	_	_
+
+# sent_id = 2473
+# text = ce que je crois c' est qu' à la fin de l' été si on sait qu' il y a eu des très fortes épidémies dans l' hémisphère sud la probabilité sera très renforcée que ça nous nous nous revienne pendant notre hiver à nous et peut-être même pendant l' automne c' est - à - dire peut-être assez précocement
+1	ce	_	_	_	_	_	_	_	_
+2	que	_	_	_	_	_	_	_	_
+3	je	_	_	_	_	_	_	_	_
+4	crois	_	_	_	_	_	_	_	_
+5	c'	_	_	_	_	_	_	_	_
+6	est	_	_	_	_	_	_	_	_
+7	qu'	_	_	_	_	_	_	_	_
+8	à	_	_	_	_	_	_	_	_
+9	la	_	_	_	_	_	_	_	_
+10	fin	_	_	_	_	_	_	_	_
+11	de	_	_	_	_	_	_	_	_
+12	l'	_	_	_	_	_	_	_	_
+13	été	_	_	_	_	_	_	_	_
+14	si	_	_	_	_	_	_	_	_
+15	on	_	_	_	_	_	_	_	_
+16	sait	_	_	_	_	_	_	_	_
+17	qu'	_	_	_	_	_	_	_	_
+18	il	_	_	_	_	_	_	_	_
+19	y	_	_	_	_	_	_	_	_
+20	a	_	_	_	_	_	_	_	_
+21	eu	_	_	_	_	_	_	_	_
+22	des	_	_	_	_	_	_	_	_
+23	très	_	_	_	_	_	_	_	_
+24	fortes	_	_	_	_	_	_	_	_
+25	épidémies	_	_	_	_	_	_	_	_
+26	dans	_	_	_	_	_	_	_	_
+27	l'	_	_	_	_	_	_	_	_
+28	hémisphère	_	_	_	_	_	_	_	_
+29	sud	_	_	_	_	_	_	_	_
+30	la	_	_	_	_	_	_	_	_
+31	probabilité	_	_	_	_	_	_	_	_
+32	sera	_	_	_	_	_	_	_	_
+33	très	_	_	_	_	_	_	_	_
+34	renforcée	_	_	_	_	_	_	_	_
+35	que	_	_	_	_	_	_	_	_
+36	ça	_	_	_	_	_	_	_	_
+37	nous	_	_	_	_	_	_	_	_
+38	nous	_	_	_	_	_	_	_	_
+39	nous	_	_	_	_	_	_	_	_
+40	revienne	_	_	_	_	_	_	_	_
+41	pendant	_	_	_	_	_	_	_	_
+42	notre	_	_	_	_	_	_	_	_
+43	hiver	_	_	_	_	_	_	_	_
+44	à	_	_	_	_	_	_	_	_
+45	nous	_	_	_	_	_	_	_	_
+46	et	_	_	_	_	_	_	_	_
+47	peut-être	_	_	_	_	_	_	_	_
+48	même	_	_	_	_	_	_	_	_
+49	pendant	_	_	_	_	_	_	_	_
+50	l'	_	_	_	_	_	_	_	_
+51	automne	_	_	_	_	_	_	_	_
+52	c'	_	_	_	_	_	_	_	_
+53	est	_	_	_	_	_	_	_	_
+54	-	_	_	_	_	_	_	_	_
+55	à	_	_	_	_	_	_	_	_
+56	-	_	_	_	_	_	_	_	_
+57	dire	_	_	_	_	_	_	_	_
+58	peut-être	_	_	_	_	_	_	_	_
+59	assez	_	_	_	_	_	_	_	_
+60	précocement	_	_	_	_	_	_	_	_
+
+# sent_id = 515
+# text = ça fait pas partie de ces artistes très théoriciens Yves Klein
+1	ça	_	_	_	_	_	_	_	_
+2	fait	_	_	_	_	_	_	_	_
+3	pas	_	_	_	_	_	_	_	_
+4	partie	_	_	_	_	_	_	_	_
+5	de	_	_	_	_	_	_	_	_
+6	ces	_	_	_	_	_	_	_	_
+7	artistes	_	_	_	_	_	_	_	_
+8	très	_	_	_	_	_	_	_	_
+9	théoriciens	_	_	_	_	_	_	_	_
+10	Yves	_	_	_	_	_	_	_	_
+11	Klein	_	_	_	_	_	_	_	_
+
+# sent_id = 2041
+# text = mh d' autre part le comportement des élèves semble au fil des années se dégrader également
+1	mh	_	_	_	_	_	_	_	_
+2	d'	_	_	_	_	_	_	_	_
+3	autre	_	_	_	_	_	_	_	_
+4	part	_	_	_	_	_	_	_	_
+5	le	_	_	_	_	_	_	_	_
+6	comportement	_	_	_	_	_	_	_	_
+7	des	_	_	_	_	_	_	_	_
+8	élèves	_	_	_	_	_	_	_	_
+9	semble	_	_	_	_	_	_	_	_
+10	au	_	_	_	_	_	_	_	_
+11	fil	_	_	_	_	_	_	_	_
+12	des	_	_	_	_	_	_	_	_
+13	années	_	_	_	_	_	_	_	_
+14	se	_	_	_	_	_	_	_	_
+15	dégrader	_	_	_	_	_	_	_	_
+16	également	_	_	_	_	_	_	_	_
+
+# sent_id = 295
+# text = ils se sont bien repris ensuite
+1	ils	_	_	_	_	_	_	_	_
+2	se	_	_	_	_	_	_	_	_
+3	sont	_	_	_	_	_	_	_	_
+4	bien	_	_	_	_	_	_	_	_
+5	repris	_	_	_	_	_	_	_	_
+6	ensuite	_	_	_	_	_	_	_	_
+
+# sent_id = 2234
+# text = et vous êtes drôlement attifée quand même
+1	et	_	_	_	_	_	_	_	_
+2	vous	_	_	_	_	_	_	_	_
+3	êtes	_	_	_	_	_	_	_	_
+4	drôlement	_	_	_	_	_	_	_	_
+5	attifée	_	_	_	_	_	_	_	_
+6	quand	_	_	_	_	_	_	_	_
+7	même	_	_	_	_	_	_	_	_
+
+# sent_id = 2179
+# text = ah alors
+1	ah	_	_	_	_	_	_	_	_
+2	alors	_	_	_	_	_	_	_	_
+
+# sent_id = 580
+# text = plutôt que de
+1	plutôt	_	_	_	_	_	_	_	_
+2	que	_	_	_	_	_	_	_	_
+3	de	_	_	_	_	_	_	_	_
+
+# sent_id = 590
+# text = je descends le boulevard euh le boulevard Diderot
+1	je	_	_	_	_	_	_	_	_
+2	descends	_	_	_	_	_	_	_	_
+3	le	_	_	_	_	_	_	_	_
+4	boulevard	_	_	_	_	_	_	_	_
+5	euh	_	_	_	_	_	_	_	_
+6	le	_	_	_	_	_	_	_	_
+7	boulevard	_	_	_	_	_	_	_	_
+8	Diderot	_	_	_	_	_	_	_	_
+
+# sent_id = 1048
+# text = on avait eu des chiffres
+1	on	_	_	_	_	_	_	_	_
+2	avait	_	_	_	_	_	_	_	_
+3	eu	_	_	_	_	_	_	_	_
+4	des	_	_	_	_	_	_	_	_
+5	chiffres	_	_	_	_	_	_	_	_
+
+# sent_id = 2322
+# text = alors c' est un groupe qui va très vite se désunir parce qu' il y a des des jalousies il y a des inimitiés euh
+1	alors	_	_	_	_	_	_	_	_
+2	c'	_	_	_	_	_	_	_	_
+3	est	_	_	_	_	_	_	_	_
+4	un	_	_	_	_	_	_	_	_
+5	groupe	_	_	_	_	_	_	_	_
+6	qui	_	_	_	_	_	_	_	_
+7	va	_	_	_	_	_	_	_	_
+8	très	_	_	_	_	_	_	_	_
+9	vite	_	_	_	_	_	_	_	_
+10	se	_	_	_	_	_	_	_	_
+11	désunir	_	_	_	_	_	_	_	_
+12	parce	_	_	_	_	_	_	_	_
+13	qu'	_	_	_	_	_	_	_	_
+14	il	_	_	_	_	_	_	_	_
+15	y	_	_	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	des	_	_	_	_	_	_	_	_
+18	des	_	_	_	_	_	_	_	_
+19	jalousies	_	_	_	_	_	_	_	_
+20	il	_	_	_	_	_	_	_	_
+21	y	_	_	_	_	_	_	_	_
+22	a	_	_	_	_	_	_	_	_
+23	des	_	_	_	_	_	_	_	_
+24	inimitiés	_	_	_	_	_	_	_	_
+25	euh	_	_	_	_	_	_	_	_
+
+# sent_id = 928
+# text = d' accord oui
+1	d'	_	_	_	_	_	_	_	_
+2	accord	_	_	_	_	_	_	_	_
+3	oui	_	_	_	_	_	_	_	_
+
+# sent_id = 1398
+# text = et euh donc vous passez à côté de la poste et caetera
+1	et	_	_	_	_	_	_	_	_
+2	euh	_	_	_	_	_	_	_	_
+3	donc	_	_	_	_	_	_	_	_
+4	vous	_	_	_	_	_	_	_	_
+5	passez	_	_	_	_	_	_	_	_
+6	à	_	_	_	_	_	_	_	_
+7	côté	_	_	_	_	_	_	_	_
+8	de	_	_	_	_	_	_	_	_
+9	la	_	_	_	_	_	_	_	_
+10	poste	_	_	_	_	_	_	_	_
+11	et	_	_	_	_	_	_	_	_
+12	caetera	_	_	_	_	_	_	_	_
+
+# sent_id = 1880
+# text = je dirais c~ c' était
+1	je	_	_	_	_	_	_	_	_
+2	dirais	_	_	_	_	_	_	_	_
+3	c~	_	_	_	_	_	_	_	_
+4	c'	_	_	_	_	_	_	_	_
+5	était	_	_	_	_	_	_	_	_
+
+# sent_id = 648
+# text = on n' était pas
+1	on	_	_	_	_	_	_	_	_
+2	n'	_	_	_	_	_	_	_	_
+3	était	_	_	_	_	_	_	_	_
+4	pas	_	_	_	_	_	_	_	_
+
+# sent_id = 1887
+# text = et j' ai j' ai jamais très bien compris les gens qui
+1	et	_	_	_	_	_	_	_	_
+2	j'	_	_	_	_	_	_	_	_
+3	ai	_	_	_	_	_	_	_	_
+4	j'	_	_	_	_	_	_	_	_
+5	ai	_	_	_	_	_	_	_	_
+6	jamais	_	_	_	_	_	_	_	_
+7	très	_	_	_	_	_	_	_	_
+8	bien	_	_	_	_	_	_	_	_
+9	compris	_	_	_	_	_	_	_	_
+10	les	_	_	_	_	_	_	_	_
+11	gens	_	_	_	_	_	_	_	_
+12	qui	_	_	_	_	_	_	_	_
+
+# sent_id = 8
+# text = c' est l' autre
+1	c'	_	_	_	_	_	_	_	_
+2	est	_	_	_	_	_	_	_	_
+3	l'	_	_	_	_	_	_	_	_
+4	autre	_	_	_	_	_	_	_	_
+
+# sent_id = 883
+# text = ensuite aux feux vous tournez à droite
+1	ensuite	_	_	_	_	_	_	_	_
+2	aux	_	_	_	_	_	_	_	_
+3	feux	_	_	_	_	_	_	_	_
+4	vous	_	_	_	_	_	_	_	_
+5	tournez	_	_	_	_	_	_	_	_
+6	à	_	_	_	_	_	_	_	_
+7	droite	_	_	_	_	_	_	_	_
+
+# sent_id = 2391
+# text = la grippe saisonnière
+1	la	_	_	_	_	_	_	_	_
+2	grippe	_	_	_	_	_	_	_	_
+3	saisonnière	_	_	_	_	_	_	_	_
+
+# sent_id = 137
+# text = ils étaient déjà quinze millions à peu près
+1	ils	_	_	_	_	_	_	_	_
+2	étaient	_	_	_	_	_	_	_	_
+3	déjà	_	_	_	_	_	_	_	_
+4	quinze	_	_	_	_	_	_	_	_
+5	millions	_	_	_	_	_	_	_	_
+6	à	_	_	_	_	_	_	_	_
+7	peu	_	_	_	_	_	_	_	_
+8	près	_	_	_	_	_	_	_	_
+
+# sent_id = 1575
+# text = après vous continuez direction Saint - Jean
+1	après	_	_	_	_	_	_	_	_
+2	vous	_	_	_	_	_	_	_	_
+3	continuez	_	_	_	_	_	_	_	_
+4	direction	_	_	_	_	_	_	_	_
+5	Saint	_	_	_	_	_	_	_	_
+6	-	_	_	_	_	_	_	_	_
+7	Jean	_	_	_	_	_	_	_	_
+
+# sent_id = 835
+# text = ça celui -là il vient de sortir
+1	ça	_	_	_	_	_	_	_	_
+2	celui	_	_	_	_	_	_	_	_
+3	-là	_	_	_	_	_	_	_	_
+4	il	_	_	_	_	_	_	_	_
+5	vient	_	_	_	_	_	_	_	_
+6	de	_	_	_	_	_	_	_	_
+7	sortir	_	_	_	_	_	_	_	_
+
+# sent_id = 1762
+# text = et la tourmente qu' il génère va l' emporter
+1	et	_	_	_	_	_	_	_	_
+2	la	_	_	_	_	_	_	_	_
+3	tourmente	_	_	_	_	_	_	_	_
+4	qu'	_	_	_	_	_	_	_	_
+5	il	_	_	_	_	_	_	_	_
+6	génère	_	_	_	_	_	_	_	_
+7	va	_	_	_	_	_	_	_	_
+8	l'	_	_	_	_	_	_	_	_
+9	emporter	_	_	_	_	_	_	_	_
+
+# sent_id = 955
+# text = oui oui
+1	oui	_	_	_	_	_	_	_	_
+2	oui	_	_	_	_	_	_	_	_
+
+# sent_id = 543
+# text = ça a l' air d' être un traiteur
+1	ça	_	_	_	_	_	_	_	_
+2	a	_	_	_	_	_	_	_	_
+3	l'	_	_	_	_	_	_	_	_
+4	air	_	_	_	_	_	_	_	_
+5	d'	_	_	_	_	_	_	_	_
+6	être	_	_	_	_	_	_	_	_
+7	un	_	_	_	_	_	_	_	_
+8	traiteur	_	_	_	_	_	_	_	_
+
+# sent_id = 690
+# text = on peut citer par exemple le site A Small World
+1	on	_	_	_	_	_	_	_	_
+2	peut	_	_	_	_	_	_	_	_
+3	citer	_	_	_	_	_	_	_	_
+4	par	_	_	_	_	_	_	_	_
+5	exemple	_	_	_	_	_	_	_	_
+6	le	_	_	_	_	_	_	_	_
+7	site	_	_	_	_	_	_	_	_
+8	A	_	_	_	_	_	_	_	_
+9	Small	_	_	_	_	_	_	_	_
+10	World	_	_	_	_	_	_	_	_
+
+# sent_id = 1183
+# text = c' est les parents je pense
+1	c'	_	_	_	_	_	_	_	_
+2	est	_	_	_	_	_	_	_	_
+3	les	_	_	_	_	_	_	_	_
+4	parents	_	_	_	_	_	_	_	_
+5	je	_	_	_	_	_	_	_	_
+6	pense	_	_	_	_	_	_	_	_
+
+# sent_id = 1050
+# text = et euh sur le quartier vert ce fameux mh mh quartier vert euh ils ont dit que ça avait augmenté d' à peu près douze à treize pour cent là par contre
+1	et	_	_	_	_	_	_	_	_
+2	euh	_	_	_	_	_	_	_	_
+3	sur	_	_	_	_	_	_	_	_
+4	le	_	_	_	_	_	_	_	_
+5	quartier	_	_	_	_	_	_	_	_
+6	vert	_	_	_	_	_	_	_	_
+7	ce	_	_	_	_	_	_	_	_
+8	fameux	_	_	_	_	_	_	_	_
+9	mh	_	_	_	_	_	_	_	_
+10	mh	_	_	_	_	_	_	_	_
+11	quartier	_	_	_	_	_	_	_	_
+12	vert	_	_	_	_	_	_	_	_
+13	euh	_	_	_	_	_	_	_	_
+14	ils	_	_	_	_	_	_	_	_
+15	ont	_	_	_	_	_	_	_	_
+16	dit	_	_	_	_	_	_	_	_
+17	que	_	_	_	_	_	_	_	_
+18	ça	_	_	_	_	_	_	_	_
+19	avait	_	_	_	_	_	_	_	_
+20	augmenté	_	_	_	_	_	_	_	_
+21	d'	_	_	_	_	_	_	_	_
+22	à	_	_	_	_	_	_	_	_
+23	peu	_	_	_	_	_	_	_	_
+24	près	_	_	_	_	_	_	_	_
+25	douze	_	_	_	_	_	_	_	_
+26	à	_	_	_	_	_	_	_	_
+27	treize	_	_	_	_	_	_	_	_
+28	pour	_	_	_	_	_	_	_	_
+29	cent	_	_	_	_	_	_	_	_
+30	là	_	_	_	_	_	_	_	_
+31	par	_	_	_	_	_	_	_	_
+32	contre	_	_	_	_	_	_	_	_
+
+# sent_id = 2549
+# text = je suis plus euh
+1	je	_	_	_	_	_	_	_	_
+2	suis	_	_	_	_	_	_	_	_
+3	plus	_	_	_	_	_	_	_	_
+4	euh	_	_	_	_	_	_	_	_
+
+# sent_id = 820
+# text = vous me parlez même pas de livres politiques là
+1	vous	_	_	_	_	_	_	_	_
+2	me	_	_	_	_	_	_	_	_
+3	parlez	_	_	_	_	_	_	_	_
+4	même	_	_	_	_	_	_	_	_
+5	pas	_	_	_	_	_	_	_	_
+6	de	_	_	_	_	_	_	_	_
+7	livres	_	_	_	_	_	_	_	_
+8	politiques	_	_	_	_	_	_	_	_
+9	là	_	_	_	_	_	_	_	_
+
+# sent_id = 1913
+# text = beh j~ j' ai vu mh mh que ça commençait à se faire
+1	beh	_	_	_	_	_	_	_	_
+2	j~	_	_	_	_	_	_	_	_
+3	j'	_	_	_	_	_	_	_	_
+4	ai	_	_	_	_	_	_	_	_
+5	vu	_	_	_	_	_	_	_	_
+6	mh	_	_	_	_	_	_	_	_
+7	mh	_	_	_	_	_	_	_	_
+8	que	_	_	_	_	_	_	_	_
+9	ça	_	_	_	_	_	_	_	_
+10	commençait	_	_	_	_	_	_	_	_
+11	à	_	_	_	_	_	_	_	_
+12	se	_	_	_	_	_	_	_	_
+13	faire	_	_	_	_	_	_	_	_
+
+# sent_id = 2286
+# text = alors c' est à la fois euh comment dire
+1	alors	_	_	_	_	_	_	_	_
+2	c'	_	_	_	_	_	_	_	_
+3	est	_	_	_	_	_	_	_	_
+4	à	_	_	_	_	_	_	_	_
+5	la	_	_	_	_	_	_	_	_
+6	fois	_	_	_	_	_	_	_	_
+7	euh	_	_	_	_	_	_	_	_
+8	comment	_	_	_	_	_	_	_	_
+9	dire	_	_	_	_	_	_	_	_
+
+# sent_id = 886
+# text = et vous allez toujours tout droit
+1	et	_	_	_	_	_	_	_	_
+2	vous	_	_	_	_	_	_	_	_
+3	allez	_	_	_	_	_	_	_	_
+4	toujours	_	_	_	_	_	_	_	_
+5	tout	_	_	_	_	_	_	_	_
+6	droit	_	_	_	_	_	_	_	_
+
+# sent_id = 1155
+# text = euh dans la confusion donc une euh une passante a dénoncé la jeune fille au livreur qui a couru après la jeune fille euh
+1	euh	_	_	_	_	_	_	_	_
+2	dans	_	_	_	_	_	_	_	_
+3	la	_	_	_	_	_	_	_	_
+4	confusion	_	_	_	_	_	_	_	_
+5	donc	_	_	_	_	_	_	_	_
+6	une	_	_	_	_	_	_	_	_
+7	euh	_	_	_	_	_	_	_	_
+8	une	_	_	_	_	_	_	_	_
+9	passante	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	dénoncé	_	_	_	_	_	_	_	_
+12	la	_	_	_	_	_	_	_	_
+13	jeune	_	_	_	_	_	_	_	_
+14	fille	_	_	_	_	_	_	_	_
+15	au	_	_	_	_	_	_	_	_
+16	livreur	_	_	_	_	_	_	_	_
+17	qui	_	_	_	_	_	_	_	_
+18	a	_	_	_	_	_	_	_	_
+19	couru	_	_	_	_	_	_	_	_
+20	après	_	_	_	_	_	_	_	_
+21	la	_	_	_	_	_	_	_	_
+22	jeune	_	_	_	_	_	_	_	_
+23	fille	_	_	_	_	_	_	_	_
+24	euh	_	_	_	_	_	_	_	_
+
+# sent_id = 2163
+# text = puisque quand on sait euh la quantité euh le nombre de kilos de litres effectivement de produits de nettoyage qui sont déversés partout euh dans le monde par an eh bien là vous allez vraiment faire un joli geste
+1	puisque	_	_	_	_	_	_	_	_
+2	quand	_	_	_	_	_	_	_	_
+3	on	_	_	_	_	_	_	_	_
+4	sait	_	_	_	_	_	_	_	_
+5	euh	_	_	_	_	_	_	_	_
+6	la	_	_	_	_	_	_	_	_
+7	quantité	_	_	_	_	_	_	_	_
+8	euh	_	_	_	_	_	_	_	_
+9	le	_	_	_	_	_	_	_	_
+10	nombre	_	_	_	_	_	_	_	_
+11	de	_	_	_	_	_	_	_	_
+12	kilos	_	_	_	_	_	_	_	_
+13	de	_	_	_	_	_	_	_	_
+14	litres	_	_	_	_	_	_	_	_
+15	effectivement	_	_	_	_	_	_	_	_
+16	de	_	_	_	_	_	_	_	_
+17	produits	_	_	_	_	_	_	_	_
+18	de	_	_	_	_	_	_	_	_
+19	nettoyage	_	_	_	_	_	_	_	_
+20	qui	_	_	_	_	_	_	_	_
+21	sont	_	_	_	_	_	_	_	_
+22	déversés	_	_	_	_	_	_	_	_
+23	partout	_	_	_	_	_	_	_	_
+24	euh	_	_	_	_	_	_	_	_
+25	dans	_	_	_	_	_	_	_	_
+26	le	_	_	_	_	_	_	_	_
+27	monde	_	_	_	_	_	_	_	_
+28	par	_	_	_	_	_	_	_	_
+29	an	_	_	_	_	_	_	_	_
+30	eh	_	_	_	_	_	_	_	_
+31	bien	_	_	_	_	_	_	_	_
+32	là	_	_	_	_	_	_	_	_
+33	vous	_	_	_	_	_	_	_	_
+34	allez	_	_	_	_	_	_	_	_
+35	vraiment	_	_	_	_	_	_	_	_
+36	faire	_	_	_	_	_	_	_	_
+37	un	_	_	_	_	_	_	_	_
+38	joli	_	_	_	_	_	_	_	_
+39	geste	_	_	_	_	_	_	_	_
+
+# sent_id = 1003
+# text = il n' y a pas de jouissance d' écrire sans jouissance de lire
+1	il	_	_	_	_	_	_	_	_
+2	n'	_	_	_	_	_	_	_	_
+3	y	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	pas	_	_	_	_	_	_	_	_
+6	de	_	_	_	_	_	_	_	_
+7	jouissance	_	_	_	_	_	_	_	_
+8	d'	_	_	_	_	_	_	_	_
+9	écrire	_	_	_	_	_	_	_	_
+10	sans	_	_	_	_	_	_	_	_
+11	jouissance	_	_	_	_	_	_	_	_
+12	de	_	_	_	_	_	_	_	_
+13	lire	_	_	_	_	_	_	_	_
+
+# sent_id = 411
+# text = au début il n' y avait pratiquement pas d' informatique
+1	au	_	_	_	_	_	_	_	_
+2	début	_	_	_	_	_	_	_	_
+3	il	_	_	_	_	_	_	_	_
+4	n'	_	_	_	_	_	_	_	_
+5	y	_	_	_	_	_	_	_	_
+6	avait	_	_	_	_	_	_	_	_
+7	pratiquement	_	_	_	_	_	_	_	_
+8	pas	_	_	_	_	_	_	_	_
+9	d'	_	_	_	_	_	_	_	_
+10	informatique	_	_	_	_	_	_	_	_
+
+# sent_id = 460
+# text = bon peu que tu l' utilises tu sais très bien que ça va ça va pas toujours tout seul hein
+1	bon	_	_	_	_	_	_	_	_
+2	peu	_	_	_	_	_	_	_	_
+3	que	_	_	_	_	_	_	_	_
+4	tu	_	_	_	_	_	_	_	_
+5	l'	_	_	_	_	_	_	_	_
+6	utilises	_	_	_	_	_	_	_	_
+7	tu	_	_	_	_	_	_	_	_
+8	sais	_	_	_	_	_	_	_	_
+9	très	_	_	_	_	_	_	_	_
+10	bien	_	_	_	_	_	_	_	_
+11	que	_	_	_	_	_	_	_	_
+12	ça	_	_	_	_	_	_	_	_
+13	va	_	_	_	_	_	_	_	_
+14	ça	_	_	_	_	_	_	_	_
+15	va	_	_	_	_	_	_	_	_
+16	pas	_	_	_	_	_	_	_	_
+17	toujours	_	_	_	_	_	_	_	_
+18	tout	_	_	_	_	_	_	_	_
+19	seul	_	_	_	_	_	_	_	_
+20	hein	_	_	_	_	_	_	_	_
+
+# sent_id = 2508
+# text = il guérit en donnant la vie en donnant sa propre vie
+1	il	_	_	_	_	_	_	_	_
+2	guérit	_	_	_	_	_	_	_	_
+3	en	_	_	_	_	_	_	_	_
+4	donnant	_	_	_	_	_	_	_	_
+5	la	_	_	_	_	_	_	_	_
+6	vie	_	_	_	_	_	_	_	_
+7	en	_	_	_	_	_	_	_	_
+8	donnant	_	_	_	_	_	_	_	_
+9	sa	_	_	_	_	_	_	_	_
+10	propre	_	_	_	_	_	_	_	_
+11	vie	_	_	_	_	_	_	_	_
+
+# sent_id = 1855
+# text = alors mon père avait passé ses nuits à faire ça
+1	alors	_	_	_	_	_	_	_	_
+2	mon	_	_	_	_	_	_	_	_
+3	père	_	_	_	_	_	_	_	_
+4	avait	_	_	_	_	_	_	_	_
+5	passé	_	_	_	_	_	_	_	_
+6	ses	_	_	_	_	_	_	_	_
+7	nuits	_	_	_	_	_	_	_	_
+8	à	_	_	_	_	_	_	_	_
+9	faire	_	_	_	_	_	_	_	_
+10	ça	_	_	_	_	_	_	_	_
+
+# sent_id = 2309
+# text = il avait un côté aristocrate un côté dandy un côté esthète qu' il gardera jusqu' à la fin de sa vie
+1	il	_	_	_	_	_	_	_	_
+2	avait	_	_	_	_	_	_	_	_
+3	un	_	_	_	_	_	_	_	_
+4	côté	_	_	_	_	_	_	_	_
+5	aristocrate	_	_	_	_	_	_	_	_
+6	un	_	_	_	_	_	_	_	_
+7	côté	_	_	_	_	_	_	_	_
+8	dandy	_	_	_	_	_	_	_	_
+9	un	_	_	_	_	_	_	_	_
+10	côté	_	_	_	_	_	_	_	_
+11	esthète	_	_	_	_	_	_	_	_
+12	qu'	_	_	_	_	_	_	_	_
+13	il	_	_	_	_	_	_	_	_
+14	gardera	_	_	_	_	_	_	_	_
+15	jusqu'	_	_	_	_	_	_	_	_
+16	à	_	_	_	_	_	_	_	_
+17	la	_	_	_	_	_	_	_	_
+18	fin	_	_	_	_	_	_	_	_
+19	de	_	_	_	_	_	_	_	_
+20	sa	_	_	_	_	_	_	_	_
+21	vie	_	_	_	_	_	_	_	_
+
+# sent_id = 2357
+# text = c' est
+1	c'	_	_	_	_	_	_	_	_
+2	est	_	_	_	_	_	_	_	_
+
+# sent_id = 2036
+# text = euh les horaires sont également satisfaisants
+1	euh	_	_	_	_	_	_	_	_
+2	les	_	_	_	_	_	_	_	_
+3	horaires	_	_	_	_	_	_	_	_
+4	sont	_	_	_	_	_	_	_	_
+5	également	_	_	_	_	_	_	_	_
+6	satisfaisants	_	_	_	_	_	_	_	_
+
+# sent_id = 429
+# text = ils savaient pas travailler un
+1	ils	_	_	_	_	_	_	_	_
+2	savaient	_	_	_	_	_	_	_	_
+3	pas	_	_	_	_	_	_	_	_
+4	travailler	_	_	_	_	_	_	_	_
+5	un	_	_	_	_	_	_	_	_
+
+# sent_id = 969
+# text = au même moment arrive un un policier
+1	au	_	_	_	_	_	_	_	_
+2	même	_	_	_	_	_	_	_	_
+3	moment	_	_	_	_	_	_	_	_
+4	arrive	_	_	_	_	_	_	_	_
+5	un	_	_	_	_	_	_	_	_
+6	un	_	_	_	_	_	_	_	_
+7	policier	_	_	_	_	_	_	_	_
+
+# sent_id = 892
+# text = comme ça vous pouvez pas vous perdre
+1	comme	_	_	_	_	_	_	_	_
+2	ça	_	_	_	_	_	_	_	_
+3	vous	_	_	_	_	_	_	_	_
+4	pouvez	_	_	_	_	_	_	_	_
+5	pas	_	_	_	_	_	_	_	_
+6	vous	_	_	_	_	_	_	_	_
+7	perdre	_	_	_	_	_	_	_	_
+
+# sent_id = 1803
+# text = j' avais la réputation d' être très doué
+1	j'	_	_	_	_	_	_	_	_
+2	avais	_	_	_	_	_	_	_	_
+3	la	_	_	_	_	_	_	_	_
+4	réputation	_	_	_	_	_	_	_	_
+5	d'	_	_	_	_	_	_	_	_
+6	être	_	_	_	_	_	_	_	_
+7	très	_	_	_	_	_	_	_	_
+8	doué	_	_	_	_	_	_	_	_
+
+# sent_id = 1212
+# text = votre vos camarades sont à peu près sur la même longueur d' ondes
+1	votre	_	_	_	_	_	_	_	_
+2	vos	_	_	_	_	_	_	_	_
+3	camarades	_	_	_	_	_	_	_	_
+4	sont	_	_	_	_	_	_	_	_
+5	à	_	_	_	_	_	_	_	_
+6	peu	_	_	_	_	_	_	_	_
+7	près	_	_	_	_	_	_	_	_
+8	sur	_	_	_	_	_	_	_	_
+9	la	_	_	_	_	_	_	_	_
+10	même	_	_	_	_	_	_	_	_
+11	longueur	_	_	_	_	_	_	_	_
+12	d'	_	_	_	_	_	_	_	_
+13	ondes	_	_	_	_	_	_	_	_
+
+# sent_id = 2382
+# text = eh bien on peut dire un peu de la même façon qu' aujourd'hui ce que l'on voit c' est un prémice de démarrage de pandémie euh
+1	eh	_	_	_	_	_	_	_	_
+2	bien	_	_	_	_	_	_	_	_
+3	on	_	_	_	_	_	_	_	_
+4	peut	_	_	_	_	_	_	_	_
+5	dire	_	_	_	_	_	_	_	_
+6	un	_	_	_	_	_	_	_	_
+7	peu	_	_	_	_	_	_	_	_
+8	de	_	_	_	_	_	_	_	_
+9	la	_	_	_	_	_	_	_	_
+10	même	_	_	_	_	_	_	_	_
+11	façon	_	_	_	_	_	_	_	_
+12	qu'	_	_	_	_	_	_	_	_
+13	aujourd'hui	_	_	_	_	_	_	_	_
+14	ce	_	_	_	_	_	_	_	_
+15	que	_	_	_	_	_	_	_	_
+16	l'on	_	_	_	_	_	_	_	_
+17	voit	_	_	_	_	_	_	_	_
+18	c'	_	_	_	_	_	_	_	_
+19	est	_	_	_	_	_	_	_	_
+20	un	_	_	_	_	_	_	_	_
+21	prémice	_	_	_	_	_	_	_	_
+22	de	_	_	_	_	_	_	_	_
+23	démarrage	_	_	_	_	_	_	_	_
+24	de	_	_	_	_	_	_	_	_
+25	pandémie	_	_	_	_	_	_	_	_
+26	euh	_	_	_	_	_	_	_	_
+
+# sent_id = 2259
+# text = qui il y a dans qui y a - t - il dans la voiture noire
+1	qui	_	_	_	_	_	_	_	_
+2	il	_	_	_	_	_	_	_	_
+3	y	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	dans	_	_	_	_	_	_	_	_
+6	qui	_	_	_	_	_	_	_	_
+7	y	_	_	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	-	_	_	_	_	_	_	_	_
+10	t	_	_	_	_	_	_	_	_
+11	-	_	_	_	_	_	_	_	_
+12	il	_	_	_	_	_	_	_	_
+13	dans	_	_	_	_	_	_	_	_
+14	la	_	_	_	_	_	_	_	_
+15	voiture	_	_	_	_	_	_	_	_
+16	noire	_	_	_	_	_	_	_	_
+
+# sent_id = 934
+# text = on traverse la rue
+1	on	_	_	_	_	_	_	_	_
+2	traverse	_	_	_	_	_	_	_	_
+3	la	_	_	_	_	_	_	_	_
+4	rue	_	_	_	_	_	_	_	_
+
+# sent_id = 1181
+# text = et c' est des principes éducatifs des parents
+1	et	_	_	_	_	_	_	_	_
+2	c'	_	_	_	_	_	_	_	_
+3	est	_	_	_	_	_	_	_	_
+4	des	_	_	_	_	_	_	_	_
+5	principes	_	_	_	_	_	_	_	_
+6	éducatifs	_	_	_	_	_	_	_	_
+7	des	_	_	_	_	_	_	_	_
+8	parents	_	_	_	_	_	_	_	_
+
+# sent_id = 2539
+# text = et j' apprécie vraiment ce que je fais
+1	et	_	_	_	_	_	_	_	_
+2	j'	_	_	_	_	_	_	_	_
+3	apprécie	_	_	_	_	_	_	_	_
+4	vraiment	_	_	_	_	_	_	_	_
+5	ce	_	_	_	_	_	_	_	_
+6	que	_	_	_	_	_	_	_	_
+7	je	_	_	_	_	_	_	_	_
+8	fais	_	_	_	_	_	_	_	_
+
+# sent_id = 2180
+# text = vraiment il doit être
+1	vraiment	_	_	_	_	_	_	_	_
+2	il	_	_	_	_	_	_	_	_
+3	doit	_	_	_	_	_	_	_	_
+4	être	_	_	_	_	_	_	_	_
+
+# sent_id = 1915
+# text = mh mh mais je pense surtout que euh dans le sixième arrondissement les maternelles euh il y a suffisamment d' enseignants mais que mais que oui il faudrait qu' ils puissent parler plus
+1	mh	_	_	_	_	_	_	_	_
+2	mh	_	_	_	_	_	_	_	_
+3	mais	_	_	_	_	_	_	_	_
+4	je	_	_	_	_	_	_	_	_
+5	pense	_	_	_	_	_	_	_	_
+6	surtout	_	_	_	_	_	_	_	_
+7	que	_	_	_	_	_	_	_	_
+8	euh	_	_	_	_	_	_	_	_
+9	dans	_	_	_	_	_	_	_	_
+10	le	_	_	_	_	_	_	_	_
+11	sixième	_	_	_	_	_	_	_	_
+12	arrondissement	_	_	_	_	_	_	_	_
+13	les	_	_	_	_	_	_	_	_
+14	maternelles	_	_	_	_	_	_	_	_
+15	euh	_	_	_	_	_	_	_	_
+16	il	_	_	_	_	_	_	_	_
+17	y	_	_	_	_	_	_	_	_
+18	a	_	_	_	_	_	_	_	_
+19	suffisamment	_	_	_	_	_	_	_	_
+20	d'	_	_	_	_	_	_	_	_
+21	enseignants	_	_	_	_	_	_	_	_
+22	mais	_	_	_	_	_	_	_	_
+23	que	_	_	_	_	_	_	_	_
+24	mais	_	_	_	_	_	_	_	_
+25	que	_	_	_	_	_	_	_	_
+26	oui	_	_	_	_	_	_	_	_
+27	il	_	_	_	_	_	_	_	_
+28	faudrait	_	_	_	_	_	_	_	_
+29	qu'	_	_	_	_	_	_	_	_
+30	ils	_	_	_	_	_	_	_	_
+31	puissent	_	_	_	_	_	_	_	_
+32	parler	_	_	_	_	_	_	_	_
+33	plus	_	_	_	_	_	_	_	_
+
+# sent_id = 890
+# text = vous pouvez pas le louper
+1	vous	_	_	_	_	_	_	_	_
+2	pouvez	_	_	_	_	_	_	_	_
+3	pas	_	_	_	_	_	_	_	_
+4	le	_	_	_	_	_	_	_	_
+5	louper	_	_	_	_	_	_	_	_
+
+# sent_id = 1071
+# text = mais euh du coup vous pouvez pas travailler par exemple avec les lycées
+1	mais	_	_	_	_	_	_	_	_
+2	euh	_	_	_	_	_	_	_	_
+3	du	_	_	_	_	_	_	_	_
+4	coup	_	_	_	_	_	_	_	_
+5	vous	_	_	_	_	_	_	_	_
+6	pouvez	_	_	_	_	_	_	_	_
+7	pas	_	_	_	_	_	_	_	_
+8	travailler	_	_	_	_	_	_	_	_
+9	par	_	_	_	_	_	_	_	_
+10	exemple	_	_	_	_	_	_	_	_
+11	avec	_	_	_	_	_	_	_	_
+12	les	_	_	_	_	_	_	_	_
+13	lycées	_	_	_	_	_	_	_	_
+
+# sent_id = 738
+# text = quand tu arrives à l' arrêt de tram là tu tournes à gauche
+1	quand	_	_	_	_	_	_	_	_
+2	tu	_	_	_	_	_	_	_	_
+3	arrives	_	_	_	_	_	_	_	_
+4	à	_	_	_	_	_	_	_	_
+5	l'	_	_	_	_	_	_	_	_
+6	arrêt	_	_	_	_	_	_	_	_
+7	de	_	_	_	_	_	_	_	_
+8	tram	_	_	_	_	_	_	_	_
+9	là	_	_	_	_	_	_	_	_
+10	tu	_	_	_	_	_	_	_	_
+11	tournes	_	_	_	_	_	_	_	_
+12	à	_	_	_	_	_	_	_	_
+13	gauche	_	_	_	_	_	_	_	_
+
+# sent_id = 2351
+# text = votre dernier livre À la conquête des virus euh vient lui de paraître chez Belin
+1	votre	_	_	_	_	_	_	_	_
+2	dernier	_	_	_	_	_	_	_	_
+3	livre	_	_	_	_	_	_	_	_
+4	À	_	_	_	_	_	_	_	_
+5	la	_	_	_	_	_	_	_	_
+6	conquête	_	_	_	_	_	_	_	_
+7	des	_	_	_	_	_	_	_	_
+8	virus	_	_	_	_	_	_	_	_
+9	euh	_	_	_	_	_	_	_	_
+10	vient	_	_	_	_	_	_	_	_
+11	lui	_	_	_	_	_	_	_	_
+12	de	_	_	_	_	_	_	_	_
+13	paraître	_	_	_	_	_	_	_	_
+14	chez	_	_	_	_	_	_	_	_
+15	Belin	_	_	_	_	_	_	_	_
+
+# sent_id = 421
+# text = donc euh bon ben là maintenant je s~ je suis plus ou moins aidé euh par quelqu'un à mi - temps heureusement
+1	donc	_	_	_	_	_	_	_	_
+2	euh	_	_	_	_	_	_	_	_
+3	bon	_	_	_	_	_	_	_	_
+4	ben	_	_	_	_	_	_	_	_
+5	là	_	_	_	_	_	_	_	_
+6	maintenant	_	_	_	_	_	_	_	_
+7	je	_	_	_	_	_	_	_	_
+8	s~	_	_	_	_	_	_	_	_
+9	je	_	_	_	_	_	_	_	_
+10	suis	_	_	_	_	_	_	_	_
+11	plus	_	_	_	_	_	_	_	_
+12	ou	_	_	_	_	_	_	_	_
+13	moins	_	_	_	_	_	_	_	_
+14	aidé	_	_	_	_	_	_	_	_
+15	euh	_	_	_	_	_	_	_	_
+16	par	_	_	_	_	_	_	_	_
+17	quelqu'un	_	_	_	_	_	_	_	_
+18	à	_	_	_	_	_	_	_	_
+19	mi	_	_	_	_	_	_	_	_
+20	-	_	_	_	_	_	_	_	_
+21	temps	_	_	_	_	_	_	_	_
+22	heureusement	_	_	_	_	_	_	_	_
+
+# sent_id = 1401
+# text = et euh donc euh vous rencontrez à ce moment -là le le tram que vous pouvez longer que vous pouvez suivre euh en prenant à gauche
+1	et	_	_	_	_	_	_	_	_
+2	euh	_	_	_	_	_	_	_	_
+3	donc	_	_	_	_	_	_	_	_
+4	euh	_	_	_	_	_	_	_	_
+5	vous	_	_	_	_	_	_	_	_
+6	rencontrez	_	_	_	_	_	_	_	_
+7	à	_	_	_	_	_	_	_	_
+8	ce	_	_	_	_	_	_	_	_
+9	moment	_	_	_	_	_	_	_	_
+10	-là	_	_	_	_	_	_	_	_
+11	le	_	_	_	_	_	_	_	_
+12	le	_	_	_	_	_	_	_	_
+13	tram	_	_	_	_	_	_	_	_
+14	que	_	_	_	_	_	_	_	_
+15	vous	_	_	_	_	_	_	_	_
+16	pouvez	_	_	_	_	_	_	_	_
+17	longer	_	_	_	_	_	_	_	_
+18	que	_	_	_	_	_	_	_	_
+19	vous	_	_	_	_	_	_	_	_
+20	pouvez	_	_	_	_	_	_	_	_
+21	suivre	_	_	_	_	_	_	_	_
+22	euh	_	_	_	_	_	_	_	_
+23	en	_	_	_	_	_	_	_	_
+24	prenant	_	_	_	_	_	_	_	_
+25	à	_	_	_	_	_	_	_	_
+26	gauche	_	_	_	_	_	_	_	_
+
+# sent_id = 2588
+# text = et puis je suis toujours étonnée maintenant plus
+1	et	_	_	_	_	_	_	_	_
+2	puis	_	_	_	_	_	_	_	_
+3	je	_	_	_	_	_	_	_	_
+4	suis	_	_	_	_	_	_	_	_
+5	toujours	_	_	_	_	_	_	_	_
+6	étonnée	_	_	_	_	_	_	_	_
+7	maintenant	_	_	_	_	_	_	_	_
+8	plus	_	_	_	_	_	_	_	_
+
+# sent_id = 722
+# text = et il se dit que
+1	et	_	_	_	_	_	_	_	_
+2	il	_	_	_	_	_	_	_	_
+3	se	_	_	_	_	_	_	_	_
+4	dit	_	_	_	_	_	_	_	_
+5	que	_	_	_	_	_	_	_	_
+
+# sent_id = 438
+# text = ça va
+1	ça	_	_	_	_	_	_	_	_
+2	va	_	_	_	_	_	_	_	_
+
+# sent_id = 651
+# text = et ça j' en garde de toutes ces années un excellent souvenir
+1	et	_	_	_	_	_	_	_	_
+2	ça	_	_	_	_	_	_	_	_
+3	j'	_	_	_	_	_	_	_	_
+4	en	_	_	_	_	_	_	_	_
+5	garde	_	_	_	_	_	_	_	_
+6	de	_	_	_	_	_	_	_	_
+7	toutes	_	_	_	_	_	_	_	_
+8	ces	_	_	_	_	_	_	_	_
+9	années	_	_	_	_	_	_	_	_
+10	un	_	_	_	_	_	_	_	_
+11	excellent	_	_	_	_	_	_	_	_
+12	souvenir	_	_	_	_	_	_	_	_
+
+# sent_id = 255
+# text = Gutiérrez qui reste complètement seul
+1	Gutiérrez	_	_	_	_	_	_	_	_
+2	qui	_	_	_	_	_	_	_	_
+3	reste	_	_	_	_	_	_	_	_
+4	complètement	_	_	_	_	_	_	_	_
+5	seul	_	_	_	_	_	_	_	_
+
+# sent_id = 1798
+# text = et et et m~ mon idée c' était de faire des études de mathématiques puisque c' était le domaine dans lequel je me trouvais être le plus doué pour ensuite revenir à la littérature
+1	et	_	_	_	_	_	_	_	_
+2	et	_	_	_	_	_	_	_	_
+3	et	_	_	_	_	_	_	_	_
+4	m~	_	_	_	_	_	_	_	_
+5	mon	_	_	_	_	_	_	_	_
+6	idée	_	_	_	_	_	_	_	_
+7	c'	_	_	_	_	_	_	_	_
+8	était	_	_	_	_	_	_	_	_
+9	de	_	_	_	_	_	_	_	_
+10	faire	_	_	_	_	_	_	_	_
+11	des	_	_	_	_	_	_	_	_
+12	études	_	_	_	_	_	_	_	_
+13	de	_	_	_	_	_	_	_	_
+14	mathématiques	_	_	_	_	_	_	_	_
+15	puisque	_	_	_	_	_	_	_	_
+16	c'	_	_	_	_	_	_	_	_
+17	était	_	_	_	_	_	_	_	_
+18	le	_	_	_	_	_	_	_	_
+19	domaine	_	_	_	_	_	_	_	_
+20	dans	_	_	_	_	_	_	_	_
+21	lequel	_	_	_	_	_	_	_	_
+22	je	_	_	_	_	_	_	_	_
+23	me	_	_	_	_	_	_	_	_
+24	trouvais	_	_	_	_	_	_	_	_
+25	être	_	_	_	_	_	_	_	_
+26	le	_	_	_	_	_	_	_	_
+27	plus	_	_	_	_	_	_	_	_
+28	doué	_	_	_	_	_	_	_	_
+29	pour	_	_	_	_	_	_	_	_
+30	ensuite	_	_	_	_	_	_	_	_
+31	revenir	_	_	_	_	_	_	_	_
+32	à	_	_	_	_	_	_	_	_
+33	la	_	_	_	_	_	_	_	_
+34	littérature	_	_	_	_	_	_	_	_
+
+# sent_id = 187
+# text = Marseille fut pour l' UMP pour toute la majorité présidentielle une bouée dans le naufrage d' un soir de municipales écrit Roger Antech dans Midi Libre
+1	Marseille	_	_	_	_	_	_	_	_
+2	fut	_	_	_	_	_	_	_	_
+3	pour	_	_	_	_	_	_	_	_
+4	l'	_	_	_	_	_	_	_	_
+5	UMP	_	_	_	_	_	_	_	_
+6	pour	_	_	_	_	_	_	_	_
+7	toute	_	_	_	_	_	_	_	_
+8	la	_	_	_	_	_	_	_	_
+9	majorité	_	_	_	_	_	_	_	_
+10	présidentielle	_	_	_	_	_	_	_	_
+11	une	_	_	_	_	_	_	_	_
+12	bouée	_	_	_	_	_	_	_	_
+13	dans	_	_	_	_	_	_	_	_
+14	le	_	_	_	_	_	_	_	_
+15	naufrage	_	_	_	_	_	_	_	_
+16	d'	_	_	_	_	_	_	_	_
+17	un	_	_	_	_	_	_	_	_
+18	soir	_	_	_	_	_	_	_	_
+19	de	_	_	_	_	_	_	_	_
+20	municipales	_	_	_	_	_	_	_	_
+21	écrit	_	_	_	_	_	_	_	_
+22	Roger	_	_	_	_	_	_	_	_
+23	Antech	_	_	_	_	_	_	_	_
+24	dans	_	_	_	_	_	_	_	_
+25	Midi	_	_	_	_	_	_	_	_
+26	Libre	_	_	_	_	_	_	_	_
+
+# sent_id = 72
+# text = ça je dois dire je crois que j' en j' en suis à la la vingt~ vingt-deuxième depuis depuis que je suis là
+1	ça	_	_	_	_	_	_	_	_
+2	je	_	_	_	_	_	_	_	_
+3	dois	_	_	_	_	_	_	_	_
+4	dire	_	_	_	_	_	_	_	_
+5	je	_	_	_	_	_	_	_	_
+6	crois	_	_	_	_	_	_	_	_
+7	que	_	_	_	_	_	_	_	_
+8	j'	_	_	_	_	_	_	_	_
+9	en	_	_	_	_	_	_	_	_
+10	j'	_	_	_	_	_	_	_	_
+11	en	_	_	_	_	_	_	_	_
+12	suis	_	_	_	_	_	_	_	_
+13	à	_	_	_	_	_	_	_	_
+14	la	_	_	_	_	_	_	_	_
+15	la	_	_	_	_	_	_	_	_
+16	vingt~	_	_	_	_	_	_	_	_
+17	vingt-deuxième	_	_	_	_	_	_	_	_
+18	depuis	_	_	_	_	_	_	_	_
+19	depuis	_	_	_	_	_	_	_	_
+20	que	_	_	_	_	_	_	_	_
+21	je	_	_	_	_	_	_	_	_
+22	suis	_	_	_	_	_	_	_	_
+23	là	_	_	_	_	_	_	_	_
+
+# sent_id = 2400
+# text = les estimations inquiétantes euh elles ne me semblent pas beau~ pas très probables
+1	les	_	_	_	_	_	_	_	_
+2	estimations	_	_	_	_	_	_	_	_
+3	inquiétantes	_	_	_	_	_	_	_	_
+4	euh	_	_	_	_	_	_	_	_
+5	elles	_	_	_	_	_	_	_	_
+6	ne	_	_	_	_	_	_	_	_
+7	me	_	_	_	_	_	_	_	_
+8	semblent	_	_	_	_	_	_	_	_
+9	pas	_	_	_	_	_	_	_	_
+10	beau~	_	_	_	_	_	_	_	_
+11	pas	_	_	_	_	_	_	_	_
+12	très	_	_	_	_	_	_	_	_
+13	probables	_	_	_	_	_	_	_	_
+
+# sent_id = 911
+# text = alors à la fin de ce boulevard vous allez arriver euh au niveau du tram
+1	alors	_	_	_	_	_	_	_	_
+2	à	_	_	_	_	_	_	_	_
+3	la	_	_	_	_	_	_	_	_
+4	fin	_	_	_	_	_	_	_	_
+5	de	_	_	_	_	_	_	_	_
+6	ce	_	_	_	_	_	_	_	_
+7	boulevard	_	_	_	_	_	_	_	_
+8	vous	_	_	_	_	_	_	_	_
+9	allez	_	_	_	_	_	_	_	_
+10	arriver	_	_	_	_	_	_	_	_
+11	euh	_	_	_	_	_	_	_	_
+12	au	_	_	_	_	_	_	_	_
+13	niveau	_	_	_	_	_	_	_	_
+14	du	_	_	_	_	_	_	_	_
+15	tram	_	_	_	_	_	_	_	_
+
+# sent_id = 1468
+# text = crois -tu que c' est
+1	crois	_	_	_	_	_	_	_	_
+2	-tu	_	_	_	_	_	_	_	_
+3	que	_	_	_	_	_	_	_	_
+4	c'	_	_	_	_	_	_	_	_
+5	est	_	_	_	_	_	_	_	_
+
+# sent_id = 302
+# text = et le ballon est sorti pour euh l' équipe de France là non pour les Argentins
+1	et	_	_	_	_	_	_	_	_
+2	le	_	_	_	_	_	_	_	_
+3	ballon	_	_	_	_	_	_	_	_
+4	est	_	_	_	_	_	_	_	_
+5	sorti	_	_	_	_	_	_	_	_
+6	pour	_	_	_	_	_	_	_	_
+7	euh	_	_	_	_	_	_	_	_
+8	l'	_	_	_	_	_	_	_	_
+9	équipe	_	_	_	_	_	_	_	_
+10	de	_	_	_	_	_	_	_	_
+11	France	_	_	_	_	_	_	_	_
+12	là	_	_	_	_	_	_	_	_
+13	non	_	_	_	_	_	_	_	_
+14	pour	_	_	_	_	_	_	_	_
+15	les	_	_	_	_	_	_	_	_
+16	Argentins	_	_	_	_	_	_	_	_
+
+# sent_id = 2315
+# text = c' est - à - dire nous sommes dans cette Pologne euh encore occupée mais où euh la la vie artistique est est très importante et où se coalise en quelque sorte le le le mouvement de la jeune Pologne
+1	c'	_	_	_	_	_	_	_	_
+2	est	_	_	_	_	_	_	_	_
+3	-	_	_	_	_	_	_	_	_
+4	à	_	_	_	_	_	_	_	_
+5	-	_	_	_	_	_	_	_	_
+6	dire	_	_	_	_	_	_	_	_
+7	nous	_	_	_	_	_	_	_	_
+8	sommes	_	_	_	_	_	_	_	_
+9	dans	_	_	_	_	_	_	_	_
+10	cette	_	_	_	_	_	_	_	_
+11	Pologne	_	_	_	_	_	_	_	_
+12	euh	_	_	_	_	_	_	_	_
+13	encore	_	_	_	_	_	_	_	_
+14	occupée	_	_	_	_	_	_	_	_
+15	mais	_	_	_	_	_	_	_	_
+16	où	_	_	_	_	_	_	_	_
+17	euh	_	_	_	_	_	_	_	_
+18	la	_	_	_	_	_	_	_	_
+19	la	_	_	_	_	_	_	_	_
+20	vie	_	_	_	_	_	_	_	_
+21	artistique	_	_	_	_	_	_	_	_
+22	est	_	_	_	_	_	_	_	_
+23	est	_	_	_	_	_	_	_	_
+24	très	_	_	_	_	_	_	_	_
+25	importante	_	_	_	_	_	_	_	_
+26	et	_	_	_	_	_	_	_	_
+27	où	_	_	_	_	_	_	_	_
+28	se	_	_	_	_	_	_	_	_
+29	coalise	_	_	_	_	_	_	_	_
+30	en	_	_	_	_	_	_	_	_
+31	quelque	_	_	_	_	_	_	_	_
+32	sorte	_	_	_	_	_	_	_	_
+33	le	_	_	_	_	_	_	_	_
+34	le	_	_	_	_	_	_	_	_
+35	le	_	_	_	_	_	_	_	_
+36	mouvement	_	_	_	_	_	_	_	_
+37	de	_	_	_	_	_	_	_	_
+38	la	_	_	_	_	_	_	_	_
+39	jeune	_	_	_	_	_	_	_	_
+40	Pologne	_	_	_	_	_	_	_	_
+
+# sent_id = 874
+# text = donc c' est l~ c' est le au sud de la frontière à l' ouest du soleil page cent quatre-vingt-onze
+1	donc	_	_	_	_	_	_	_	_
+2	c'	_	_	_	_	_	_	_	_
+3	est	_	_	_	_	_	_	_	_
+4	l~	_	_	_	_	_	_	_	_
+5	c'	_	_	_	_	_	_	_	_
+6	est	_	_	_	_	_	_	_	_
+7	le	_	_	_	_	_	_	_	_
+8	au	_	_	_	_	_	_	_	_
+9	sud	_	_	_	_	_	_	_	_
+10	de	_	_	_	_	_	_	_	_
+11	la	_	_	_	_	_	_	_	_
+12	frontière	_	_	_	_	_	_	_	_
+13	à	_	_	_	_	_	_	_	_
+14	l'	_	_	_	_	_	_	_	_
+15	ouest	_	_	_	_	_	_	_	_
+16	du	_	_	_	_	_	_	_	_
+17	soleil	_	_	_	_	_	_	_	_
+18	page	_	_	_	_	_	_	_	_
+19	cent	_	_	_	_	_	_	_	_
+20	quatre-vingt-onze	_	_	_	_	_	_	_	_
+
+# sent_id = 2264
+# text = c' était qu' elles sont dans les musées hein
+1	c'	_	_	_	_	_	_	_	_
+2	était	_	_	_	_	_	_	_	_
+3	qu'	_	_	_	_	_	_	_	_
+4	elles	_	_	_	_	_	_	_	_
+5	sont	_	_	_	_	_	_	_	_
+6	dans	_	_	_	_	_	_	_	_
+7	les	_	_	_	_	_	_	_	_
+8	musées	_	_	_	_	_	_	_	_
+9	hein	_	_	_	_	_	_	_	_
+
+# sent_id = 331
+# text = Messi qui rentre dans la surface de réparation qui est stoppé
+1	Messi	_	_	_	_	_	_	_	_
+2	qui	_	_	_	_	_	_	_	_
+3	rentre	_	_	_	_	_	_	_	_
+4	dans	_	_	_	_	_	_	_	_
+5	la	_	_	_	_	_	_	_	_
+6	surface	_	_	_	_	_	_	_	_
+7	de	_	_	_	_	_	_	_	_
+8	réparation	_	_	_	_	_	_	_	_
+9	qui	_	_	_	_	_	_	_	_
+10	est	_	_	_	_	_	_	_	_
+11	stoppé	_	_	_	_	_	_	_	_
+
+# sent_id = 2331
+# text = et alors ils communient tous dans ce culte de Strauss
+1	et	_	_	_	_	_	_	_	_
+2	alors	_	_	_	_	_	_	_	_
+3	ils	_	_	_	_	_	_	_	_
+4	communient	_	_	_	_	_	_	_	_
+5	tous	_	_	_	_	_	_	_	_
+6	dans	_	_	_	_	_	_	_	_
+7	ce	_	_	_	_	_	_	_	_
+8	culte	_	_	_	_	_	_	_	_
+9	de	_	_	_	_	_	_	_	_
+10	Strauss	_	_	_	_	_	_	_	_
+
+# sent_id = 1445
+# text = mais ce sont les les impacts des coussins qui ont qui ont pénétré dans la paille
+1	mais	_	_	_	_	_	_	_	_
+2	ce	_	_	_	_	_	_	_	_
+3	sont	_	_	_	_	_	_	_	_
+4	les	_	_	_	_	_	_	_	_
+5	les	_	_	_	_	_	_	_	_
+6	impacts	_	_	_	_	_	_	_	_
+7	des	_	_	_	_	_	_	_	_
+8	coussins	_	_	_	_	_	_	_	_
+9	qui	_	_	_	_	_	_	_	_
+10	ont	_	_	_	_	_	_	_	_
+11	qui	_	_	_	_	_	_	_	_
+12	ont	_	_	_	_	_	_	_	_
+13	pénétré	_	_	_	_	_	_	_	_
+14	dans	_	_	_	_	_	_	_	_
+15	la	_	_	_	_	_	_	_	_
+16	paille	_	_	_	_	_	_	_	_
+
+# sent_id = 547
+# text = et elle rentre dans Charlie Chaplin
+1	et	_	_	_	_	_	_	_	_
+2	elle	_	_	_	_	_	_	_	_
+3	rentre	_	_	_	_	_	_	_	_
+4	dans	_	_	_	_	_	_	_	_
+5	Charlie	_	_	_	_	_	_	_	_
+6	Chaplin	_	_	_	_	_	_	_	_
+
+# sent_id = 1516
+# text = parce que du fait que tu as déjà quelque chose d' un d' un fond clair mh je crains que le beige et le et le le jaunâtre un petit peu ça risque de
+1	parce	_	_	_	_	_	_	_	_
+2	que	_	_	_	_	_	_	_	_
+3	du	_	_	_	_	_	_	_	_
+4	fait	_	_	_	_	_	_	_	_
+5	que	_	_	_	_	_	_	_	_
+6	tu	_	_	_	_	_	_	_	_
+7	as	_	_	_	_	_	_	_	_
+8	déjà	_	_	_	_	_	_	_	_
+9	quelque	_	_	_	_	_	_	_	_
+10	chose	_	_	_	_	_	_	_	_
+11	d'	_	_	_	_	_	_	_	_
+12	un	_	_	_	_	_	_	_	_
+13	d'	_	_	_	_	_	_	_	_
+14	un	_	_	_	_	_	_	_	_
+15	fond	_	_	_	_	_	_	_	_
+16	clair	_	_	_	_	_	_	_	_
+17	mh	_	_	_	_	_	_	_	_
+18	je	_	_	_	_	_	_	_	_
+19	crains	_	_	_	_	_	_	_	_
+20	que	_	_	_	_	_	_	_	_
+21	le	_	_	_	_	_	_	_	_
+22	beige	_	_	_	_	_	_	_	_
+23	et	_	_	_	_	_	_	_	_
+24	le	_	_	_	_	_	_	_	_
+25	et	_	_	_	_	_	_	_	_
+26	le	_	_	_	_	_	_	_	_
+27	le	_	_	_	_	_	_	_	_
+28	jaunâtre	_	_	_	_	_	_	_	_
+29	un	_	_	_	_	_	_	_	_
+30	petit	_	_	_	_	_	_	_	_
+31	peu	_	_	_	_	_	_	_	_
+32	ça	_	_	_	_	_	_	_	_
+33	risque	_	_	_	_	_	_	_	_
+34	de	_	_	_	_	_	_	_	_
+
+# sent_id = 235
+# text = et Messi est sur son pied gauche
+1	et	_	_	_	_	_	_	_	_
+2	Messi	_	_	_	_	_	_	_	_
+3	est	_	_	_	_	_	_	_	_
+4	sur	_	_	_	_	_	_	_	_
+5	son	_	_	_	_	_	_	_	_
+6	pied	_	_	_	_	_	_	_	_
+7	gauche	_	_	_	_	_	_	_	_
+
+# sent_id = 2554
+# text = vous êtes euh directrice de L' Express
+1	vous	_	_	_	_	_	_	_	_
+2	êtes	_	_	_	_	_	_	_	_
+3	euh	_	_	_	_	_	_	_	_
+4	directrice	_	_	_	_	_	_	_	_
+5	de	_	_	_	_	_	_	_	_
+6	L'	_	_	_	_	_	_	_	_
+7	Express	_	_	_	_	_	_	_	_
+
+# sent_id = 1207
+# text = euh sinon j' aimerais euh
+1	euh	_	_	_	_	_	_	_	_
+2	sinon	_	_	_	_	_	_	_	_
+3	j'	_	_	_	_	_	_	_	_
+4	aimerais	_	_	_	_	_	_	_	_
+5	euh	_	_	_	_	_	_	_	_
+
+# sent_id = 473
+# text = c' est
+1	c'	_	_	_	_	_	_	_	_
+2	est	_	_	_	_	_	_	_	_
+
+# sent_id = 1766
+# text = donc euh j' ai connu l' Algérie heureuse
+1	donc	_	_	_	_	_	_	_	_
+2	euh	_	_	_	_	_	_	_	_
+3	j'	_	_	_	_	_	_	_	_
+4	ai	_	_	_	_	_	_	_	_
+5	connu	_	_	_	_	_	_	_	_
+6	l'	_	_	_	_	_	_	_	_
+7	Algérie	_	_	_	_	_	_	_	_
+8	heureuse	_	_	_	_	_	_	_	_
+
+# sent_id = 2720
+# text = c' est pour cela que je tenais à vous rencontrer la veille de notre fête nationale
+1	c'	_	_	_	_	_	_	_	_
+2	est	_	_	_	_	_	_	_	_
+3	pour	_	_	_	_	_	_	_	_
+4	cela	_	_	_	_	_	_	_	_
+5	que	_	_	_	_	_	_	_	_
+6	je	_	_	_	_	_	_	_	_
+7	tenais	_	_	_	_	_	_	_	_
+8	à	_	_	_	_	_	_	_	_
+9	vous	_	_	_	_	_	_	_	_
+10	rencontrer	_	_	_	_	_	_	_	_
+11	la	_	_	_	_	_	_	_	_
+12	veille	_	_	_	_	_	_	_	_
+13	de	_	_	_	_	_	_	_	_
+14	notre	_	_	_	_	_	_	_	_
+15	fête	_	_	_	_	_	_	_	_
+16	nationale	_	_	_	_	_	_	_	_
+
+# sent_id = 2440
+# text = le virus il émerge quelque part dans le monde
+1	le	_	_	_	_	_	_	_	_
+2	virus	_	_	_	_	_	_	_	_
+3	il	_	_	_	_	_	_	_	_
+4	émerge	_	_	_	_	_	_	_	_
+5	quelque	_	_	_	_	_	_	_	_
+6	part	_	_	_	_	_	_	_	_
+7	dans	_	_	_	_	_	_	_	_
+8	le	_	_	_	_	_	_	_	_
+9	monde	_	_	_	_	_	_	_	_
+
+# sent_id = 352
+# text = le progrès va se poursuivre avec ses hésitations avec ses limites que nous mesurons bien face aux évènements récents qui nous invitent à l' humilité
+1	le	_	_	_	_	_	_	_	_
+2	progrès	_	_	_	_	_	_	_	_
+3	va	_	_	_	_	_	_	_	_
+4	se	_	_	_	_	_	_	_	_
+5	poursuivre	_	_	_	_	_	_	_	_
+6	avec	_	_	_	_	_	_	_	_
+7	ses	_	_	_	_	_	_	_	_
+8	hésitations	_	_	_	_	_	_	_	_
+9	avec	_	_	_	_	_	_	_	_
+10	ses	_	_	_	_	_	_	_	_
+11	limites	_	_	_	_	_	_	_	_
+12	que	_	_	_	_	_	_	_	_
+13	nous	_	_	_	_	_	_	_	_
+14	mesurons	_	_	_	_	_	_	_	_
+15	bien	_	_	_	_	_	_	_	_
+16	face	_	_	_	_	_	_	_	_
+17	aux	_	_	_	_	_	_	_	_
+18	évènements	_	_	_	_	_	_	_	_
+19	récents	_	_	_	_	_	_	_	_
+20	qui	_	_	_	_	_	_	_	_
+21	nous	_	_	_	_	_	_	_	_
+22	invitent	_	_	_	_	_	_	_	_
+23	à	_	_	_	_	_	_	_	_
+24	l'	_	_	_	_	_	_	_	_
+25	humilité	_	_	_	_	_	_	_	_
+
+# sent_id = 334
+# text = je pense aux nombreuses victimes de la tempête et à toutes les familles endeuillées dont nous partageons la peine
+1	je	_	_	_	_	_	_	_	_
+2	pense	_	_	_	_	_	_	_	_
+3	aux	_	_	_	_	_	_	_	_
+4	nombreuses	_	_	_	_	_	_	_	_
+5	victimes	_	_	_	_	_	_	_	_
+6	de	_	_	_	_	_	_	_	_
+7	la	_	_	_	_	_	_	_	_
+8	tempête	_	_	_	_	_	_	_	_
+9	et	_	_	_	_	_	_	_	_
+10	à	_	_	_	_	_	_	_	_
+11	toutes	_	_	_	_	_	_	_	_
+12	les	_	_	_	_	_	_	_	_
+13	familles	_	_	_	_	_	_	_	_
+14	endeuillées	_	_	_	_	_	_	_	_
+15	dont	_	_	_	_	_	_	_	_
+16	nous	_	_	_	_	_	_	_	_
+17	partageons	_	_	_	_	_	_	_	_
+18	la	_	_	_	_	_	_	_	_
+19	peine	_	_	_	_	_	_	_	_
+

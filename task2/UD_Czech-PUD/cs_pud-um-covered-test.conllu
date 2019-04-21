@@ -1,0 +1,2475 @@
+# newdoc id = w02007
+# sent_id = w02007008
+# text = Jak čas, tak sled událostí tohoto incidentu byly intenzívně diskutovány.
+# orig_file_sentence test009#92
+# text_en = Both the time and the sequence of events of this incident were vigorously discussed.
+1	Jak	_	_	_	_	_	_	_	_
+2	čas	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	tak	_	_	_	_	_	_	_	_
+5	sled	_	_	_	_	_	_	_	_
+6	událostí	_	_	_	_	_	_	_	_
+7	tohoto	_	_	_	_	_	_	_	_
+8	incidentu	_	_	_	_	_	_	_	_
+9	byly	_	_	_	_	_	_	_	_
+10	intenzívně	_	_	_	_	_	_	_	_
+11	diskutovány	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w01013
+# sent_id = w01013083
+# text = Přestože Island byl pod politickou nadvládou Dánska do mnohem pozdější doby (1918), islandština se téměř dokonale ubránila vlivu dánštiny a výpůjčkám z ní.
+# orig_file_sentence test005#5
+# text_en = Although Iceland was under the political control of Denmark until a much later date (1918), very little influence and borrowing from Danish has occurred in the Icelandic language.
+1	Přestože	_	_	_	_	_	_	_	_
+2	Island	_	_	_	_	_	_	_	_
+3	byl	_	_	_	_	_	_	_	_
+4	pod	_	_	_	_	_	_	_	_
+5	politickou	_	_	_	_	_	_	_	_
+6	nadvládou	_	_	_	_	_	_	_	_
+7	Dánska	_	_	_	_	_	_	_	_
+8	do	_	_	_	_	_	_	_	_
+9	mnohem	_	_	_	_	_	_	_	_
+10	pozdější	_	_	_	_	_	_	_	_
+11	doby	_	_	_	_	_	_	_	_
+12	(	_	_	_	_	_	_	_	_
+13	1918	_	_	_	_	_	_	_	_
+14	)	_	_	_	_	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	islandština	_	_	_	_	_	_	_	_
+17	se	_	_	_	_	_	_	_	_
+18	téměř	_	_	_	_	_	_	_	_
+19	dokonale	_	_	_	_	_	_	_	_
+20	ubránila	_	_	_	_	_	_	_	_
+21	vlivu	_	_	_	_	_	_	_	_
+22	dánštiny	_	_	_	_	_	_	_	_
+23	a	_	_	_	_	_	_	_	_
+24	výpůjčkám	_	_	_	_	_	_	_	_
+25	z	_	_	_	_	_	_	_	_
+26	ní	_	_	_	_	_	_	_	_
+27	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01105055
+# text = Tím, že GCA využívá dipólovou anténu s vysokým úhlovým rozlišením, vyvinutou Alvarezem, umožňuje pozemním radarovým operátorům sledovat velmi přesné monitory, a navádět tak přistávající letadla na runway slovními pokyny vysílanými pilotovi.
+# orig_file_sentence test007#36
+# text_en = Using Alvarez's dipole antenna to achieve a very high angular resolution, GCA allows ground-based radar operators watching special precision displays to guide a landing airplane to the runway by transmitting verbal commands to the pilot.
+1	Tím	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	že	_	_	_	_	_	_	_	_
+4	GCA	_	_	_	_	_	_	_	_
+5	využívá	_	_	_	_	_	_	_	_
+6	dipólovou	_	_	_	_	_	_	_	_
+7	anténu	_	_	_	_	_	_	_	_
+8	s	_	_	_	_	_	_	_	_
+9	vysokým	_	_	_	_	_	_	_	_
+10	úhlovým	_	_	_	_	_	_	_	_
+11	rozlišením	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	vyvinutou	_	_	_	_	_	_	_	_
+14	Alvarezem	_	_	_	_	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	umožňuje	_	_	_	_	_	_	_	_
+17	pozemním	_	_	_	_	_	_	_	_
+18	radarovým	_	_	_	_	_	_	_	_
+19	operátorům	_	_	_	_	_	_	_	_
+20	sledovat	_	_	_	_	_	_	_	_
+21	velmi	_	_	_	_	_	_	_	_
+22	přesné	_	_	_	_	_	_	_	_
+23	monitory	_	_	_	_	_	_	_	_
+24	,	_	_	_	_	_	_	_	_
+25	a	_	_	_	_	_	_	_	_
+26	navádět	_	_	_	_	_	_	_	_
+27	tak	_	_	_	_	_	_	_	_
+28	přistávající	_	_	_	_	_	_	_	_
+29	letadla	_	_	_	_	_	_	_	_
+30	na	_	_	_	_	_	_	_	_
+31	runway	_	_	_	_	_	_	_	_
+32	slovními	_	_	_	_	_	_	_	_
+33	pokyny	_	_	_	_	_	_	_	_
+34	vysílanými	_	_	_	_	_	_	_	_
+35	pilotovi	_	_	_	_	_	_	_	_
+36	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w02019
+# sent_id = w02019048
+# text = Springer energicky soukromě i veřejně uskutečňoval usmíření s židovským obyvatelstvem a podnikl mnoho cest do Izraele.
+# orig_file_sentence test010#23
+# text_en = Privately as well as publicly, Springer vigorously pursued reconciliation with the Jewish people and took many trips to Israel.
+1	Springer	_	_	_	_	_	_	_	_
+2	energicky	_	_	_	_	_	_	_	_
+3	soukromě	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	veřejně	_	_	_	_	_	_	_	_
+6	uskutečňoval	_	_	_	_	_	_	_	_
+7	usmíření	_	_	_	_	_	_	_	_
+8	s	_	_	_	_	_	_	_	_
+9	židovským	_	_	_	_	_	_	_	_
+10	obyvatelstvem	_	_	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	podnikl	_	_	_	_	_	_	_	_
+13	mnoho	_	_	_	_	_	_	_	_
+14	cest	_	_	_	_	_	_	_	_
+15	do	_	_	_	_	_	_	_	_
+16	Izraele	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n01072
+# sent_id = n01072010
+# text = Strávil více než čtyři roky v rádiu BBC World Service v Bush House.
+# orig_file_sentence test002#75
+# text_en = He then spent four years with BBC World Service radio at Bush House.
+1	Strávil	_	_	_	_	_	_	_	_
+2	více	_	_	_	_	_	_	_	_
+3	než	_	_	_	_	_	_	_	_
+4	čtyři	_	_	_	_	_	_	_	_
+5	roky	_	_	_	_	_	_	_	_
+6	v	_	_	_	_	_	_	_	_
+7	rádiu	_	_	_	_	_	_	_	_
+8	BBC	_	_	_	_	_	_	_	_
+9	World	_	_	_	_	_	_	_	_
+10	Service	_	_	_	_	_	_	_	_
+11	v	_	_	_	_	_	_	_	_
+12	Bush	_	_	_	_	_	_	_	_
+13	House	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = w02009087
+# text = Král při útěku nepřijal zvláštní opatření a byl během svých pobytů mnohokrát rozpoznán.
+# orig_file_sentence test010#3
+# text_en = The king did not take special precautions during his escape and was recognized multiple times during his stays.
+1	Král	_	_	_	_	_	_	_	_
+2	při	_	_	_	_	_	_	_	_
+3	útěku	_	_	_	_	_	_	_	_
+4	nepřijal	_	_	_	_	_	_	_	_
+5	zvláštní	_	_	_	_	_	_	_	_
+6	opatření	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	byl	_	_	_	_	_	_	_	_
+9	během	_	_	_	_	_	_	_	_
+10	svých	_	_	_	_	_	_	_	_
+11	pobytů	_	_	_	_	_	_	_	_
+12	mnohokrát	_	_	_	_	_	_	_	_
+13	rozpoznán	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01072046
+# text = Ovšem působení Hispanie na nově příchozí bylo rovněž silné.
+# orig_file_sentence test006#59
+# text_en = But the impact of Hispania in the newcomers was also big.
+1	Ovšem	_	_	_	_	_	_	_	_
+2	působení	_	_	_	_	_	_	_	_
+3	Hispanie	_	_	_	_	_	_	_	_
+4	na	_	_	_	_	_	_	_	_
+5	nově	_	_	_	_	_	_	_	_
+6	příchozí	_	_	_	_	_	_	_	_
+7	bylo	_	_	_	_	_	_	_	_
+8	rovněž	_	_	_	_	_	_	_	_
+9	silné	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n01034
+# sent_id = n01034033
+# text = „Pokud se Donald Trump stane prezidentem, zdejší vláda s ním bude stále muset spolupracovat na veškeré společné agendě, abychom zajistili, že kanadské firmy a zájmy jsou ve Washingtonu zastupovány.“
+# orig_file_sentence test001#84
+# text_en = "If Donald Trump becomes president, the government here will still have to work with him to advance whatever shared agenda there is, to ensure that Canadian businesses and interests are represented in Washington."
+1	„	_	_	_	_	_	_	_	_
+2	Pokud	_	_	_	_	_	_	_	_
+3	se	_	_	_	_	_	_	_	_
+4	Donald	_	_	_	_	_	_	_	_
+5	Trump	_	_	_	_	_	_	_	_
+6	stane	_	_	_	_	_	_	_	_
+7	prezidentem	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	zdejší	_	_	_	_	_	_	_	_
+10	vláda	_	_	_	_	_	_	_	_
+11	s	_	_	_	_	_	_	_	_
+12	ním	_	_	_	_	_	_	_	_
+13	bude	_	_	_	_	_	_	_	_
+14	stále	_	_	_	_	_	_	_	_
+15	muset	_	_	_	_	_	_	_	_
+16	spolupracovat	_	_	_	_	_	_	_	_
+17	na	_	_	_	_	_	_	_	_
+18	veškeré	_	_	_	_	_	_	_	_
+19	společné	_	_	_	_	_	_	_	_
+20	agendě	_	_	_	_	_	_	_	_
+21	,	_	_	_	_	_	_	_	_
+22	aby	_	_	_	_	_	_	_	_
+23	bychom	_	_	_	_	_	_	_	_
+24	zajistili	_	_	_	_	_	_	_	_
+25	,	_	_	_	_	_	_	_	_
+26	že	_	_	_	_	_	_	_	_
+27	kanadské	_	_	_	_	_	_	_	_
+28	firmy	_	_	_	_	_	_	_	_
+29	a	_	_	_	_	_	_	_	_
+30	zájmy	_	_	_	_	_	_	_	_
+31	jsou	_	_	_	_	_	_	_	_
+32	ve	_	_	_	_	_	_	_	_
+33	Washingtonu	_	_	_	_	_	_	_	_
+34	zastupovány	_	_	_	_	_	_	_	_
+35	.	_	_	_	_	_	_	_	_
+36	“	_	_	_	_	_	_	_	_
+
+# sent_id = n01105013
+# text = Teď je ale všechno jinak a on vypadá, jako kdyby se pořád hledal.
+# orig_file_sentence test003#56
+# text_en = But right now everything is out of kilter and he seems to be seeking answers all the time.
+1	Teď	_	_	_	_	_	_	_	_
+2	je	_	_	_	_	_	_	_	_
+3	ale	_	_	_	_	_	_	_	_
+4	všechno	_	_	_	_	_	_	_	_
+5	jinak	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	on	_	_	_	_	_	_	_	_
+8	vypadá	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	jako	_	_	_	_	_	_	_	_
+11	když	_	_	_	_	_	_	_	_
+12	by	_	_	_	_	_	_	_	_
+13	se	_	_	_	_	_	_	_	_
+14	pořád	_	_	_	_	_	_	_	_
+15	hledal	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01029011
+# text = Seagal, jehož babička pocházela z Vladivostoku na ruském dálném východě, v posledních letech do Ruska často cestoval a navštívil v září Kamčatku a Sachalin.
+# orig_file_sentence test001#72
+# text_en = Seagal, whose grandmother was from Vladivostok in Russia's far east, has made frequent trips to Russia in recent years and visited Kamchatka and Sakhalin in September.
+1	Seagal	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	jehož	_	_	_	_	_	_	_	_
+4	babička	_	_	_	_	_	_	_	_
+5	pocházela	_	_	_	_	_	_	_	_
+6	z	_	_	_	_	_	_	_	_
+7	Vladivostoku	_	_	_	_	_	_	_	_
+8	na	_	_	_	_	_	_	_	_
+9	ruském	_	_	_	_	_	_	_	_
+10	dálném	_	_	_	_	_	_	_	_
+11	východě	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	v	_	_	_	_	_	_	_	_
+14	posledních	_	_	_	_	_	_	_	_
+15	letech	_	_	_	_	_	_	_	_
+16	do	_	_	_	_	_	_	_	_
+17	Ruska	_	_	_	_	_	_	_	_
+18	často	_	_	_	_	_	_	_	_
+19	cestoval	_	_	_	_	_	_	_	_
+20	a	_	_	_	_	_	_	_	_
+21	navštívil	_	_	_	_	_	_	_	_
+22	v	_	_	_	_	_	_	_	_
+23	září	_	_	_	_	_	_	_	_
+24	Kamčatku	_	_	_	_	_	_	_	_
+25	a	_	_	_	_	_	_	_	_
+26	Sachalin	_	_	_	_	_	_	_	_
+27	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n01007
+# sent_id = n01007012
+# text = Lze tu najít paralely mezi hrami a naším každodenním životem.
+# orig_file_sentence test001#17
+# text_en = There are parallels to draw here between games and our everyday lives.
+1	Lze	_	_	_	_	_	_	_	_
+2	tu	_	_	_	_	_	_	_	_
+3	najít	_	_	_	_	_	_	_	_
+4	paralely	_	_	_	_	_	_	_	_
+5	mezi	_	_	_	_	_	_	_	_
+6	hrami	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	naším	_	_	_	_	_	_	_	_
+9	každodenním	_	_	_	_	_	_	_	_
+10	životem	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01110008
+# text = Pokud by tomu tak bylo, prémiové dluhopisy by se ničím nelišily od běžných spořicích účtů.
+# orig_file_sentence test003#72
+# text_en = If they did, Premium Bonds would be indistinguishable from ordinary savings accounts.
+1	Pokud	_	_	_	_	_	_	_	_
+2	by	_	_	_	_	_	_	_	_
+3	tomu	_	_	_	_	_	_	_	_
+4	tak	_	_	_	_	_	_	_	_
+5	bylo	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	prémiové	_	_	_	_	_	_	_	_
+8	dluhopisy	_	_	_	_	_	_	_	_
+9	by	_	_	_	_	_	_	_	_
+10	se	_	_	_	_	_	_	_	_
+11	ničím	_	_	_	_	_	_	_	_
+12	nelišily	_	_	_	_	_	_	_	_
+13	od	_	_	_	_	_	_	_	_
+14	běžných	_	_	_	_	_	_	_	_
+15	spořicích	_	_	_	_	_	_	_	_
+16	účtů	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n05005
+# sent_id = n05005002
+# text = Federico Fellini jednou řekl: „Klaun je pro lidstvo jako stín pro člověka“.
+# orig_file_sentence test009#65
+# text_en = Federico Fellini once said: "The clown is to humanity as the shadow is to man".
+1	Federico	_	_	_	_	_	_	_	_
+2	Fellini	_	_	_	_	_	_	_	_
+3	jednou	_	_	_	_	_	_	_	_
+4	řekl	_	_	_	_	_	_	_	_
+5	:	_	_	_	_	_	_	_	_
+6	„	_	_	_	_	_	_	_	_
+7	Klaun	_	_	_	_	_	_	_	_
+8	je	_	_	_	_	_	_	_	_
+9	pro	_	_	_	_	_	_	_	_
+10	lidstvo	_	_	_	_	_	_	_	_
+11	jako	_	_	_	_	_	_	_	_
+12	stín	_	_	_	_	_	_	_	_
+13	pro	_	_	_	_	_	_	_	_
+14	člověka	_	_	_	_	_	_	_	_
+15	“	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n01093
+# sent_id = n01093007
+# text = „Pokud nedojde k omezení rybolovu, hrozí tresce obecné vyhynutí,“ uvedl nejmenovaný představitel EU.
+# orig_file_sentence test003#29
+# text_en = “Celtic Sea cod could collapse,” without the proposed limits, one EU official said.
+1	„	_	_	_	_	_	_	_	_
+2	Pokud	_	_	_	_	_	_	_	_
+3	nedojde	_	_	_	_	_	_	_	_
+4	k	_	_	_	_	_	_	_	_
+5	omezení	_	_	_	_	_	_	_	_
+6	rybolovu	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	hrozí	_	_	_	_	_	_	_	_
+9	tresce	_	_	_	_	_	_	_	_
+10	obecné	_	_	_	_	_	_	_	_
+11	vyhynutí	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	“	_	_	_	_	_	_	_	_
+14	uvedl	_	_	_	_	_	_	_	_
+15	nejmenovaný	_	_	_	_	_	_	_	_
+16	představitel	_	_	_	_	_	_	_	_
+17	EU	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n02052
+# sent_id = n02052023
+# text = Podle křesťanské víry byl hrob, který byl obložen vápencem, místem posledního odpočinku Ježíše.
+# orig_file_sentence test008#94
+# text_en = According to Christian belief, a grave which had been embedded in the chalkstone was the last resting place of Jesus.
+1	Podle	_	_	_	_	_	_	_	_
+2	křesťanské	_	_	_	_	_	_	_	_
+3	víry	_	_	_	_	_	_	_	_
+4	byl	_	_	_	_	_	_	_	_
+5	hrob	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	který	_	_	_	_	_	_	_	_
+8	byl	_	_	_	_	_	_	_	_
+9	obložen	_	_	_	_	_	_	_	_
+10	vápencem	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	místem	_	_	_	_	_	_	_	_
+13	posledního	_	_	_	_	_	_	_	_
+14	odpočinku	_	_	_	_	_	_	_	_
+15	Ježíše	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01045004
+# text = Během prvního století rozvoje nebyla španělská dominance na tomto území nikým zpochybňována.
+# orig_file_sentence test005#87
+# text_en = During the first century of development, Spanish dominance in the region remained undisputed.
+1	Během	_	_	_	_	_	_	_	_
+2	prvního	_	_	_	_	_	_	_	_
+3	století	_	_	_	_	_	_	_	_
+4	rozvoje	_	_	_	_	_	_	_	_
+5	nebyla	_	_	_	_	_	_	_	_
+6	španělská	_	_	_	_	_	_	_	_
+7	dominance	_	_	_	_	_	_	_	_
+8	na	_	_	_	_	_	_	_	_
+9	tomto	_	_	_	_	_	_	_	_
+10	území	_	_	_	_	_	_	_	_
+11	nikým	_	_	_	_	_	_	_	_
+12	zpochybňována	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w01083
+# sent_id = w01083007
+# text = Tato idealizovaná verze monarchie Romanovců mu znemožnila vidět skutečný stav jeho země.
+# orig_file_sentence test006#87
+# text_en = This idealized vision of the Romanov monarchy blinded him to the actual state of his country.
+1	Tato	_	_	_	_	_	_	_	_
+2	idealizovaná	_	_	_	_	_	_	_	_
+3	verze	_	_	_	_	_	_	_	_
+4	monarchie	_	_	_	_	_	_	_	_
+5	Romanovců	_	_	_	_	_	_	_	_
+6	mu	_	_	_	_	_	_	_	_
+7	znemožnila	_	_	_	_	_	_	_	_
+8	vidět	_	_	_	_	_	_	_	_
+9	skutečný	_	_	_	_	_	_	_	_
+10	stav	_	_	_	_	_	_	_	_
+11	jeho	_	_	_	_	_	_	_	_
+12	země	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01069023
+# text = Byl naprosto gentlemanský a vzal to jako chlap, zato já jsem za hranicí zuřivosti.
+# orig_file_sentence test002#69
+# text_en = He was utterly gracious and took it like a man, I am beyond furious.
+1	Byl	_	_	_	_	_	_	_	_
+2	naprosto	_	_	_	_	_	_	_	_
+3	gentlemanský	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	vzal	_	_	_	_	_	_	_	_
+6	to	_	_	_	_	_	_	_	_
+7	jako	_	_	_	_	_	_	_	_
+8	chlap	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	zato	_	_	_	_	_	_	_	_
+11	já	_	_	_	_	_	_	_	_
+12	jsem	_	_	_	_	_	_	_	_
+13	za	_	_	_	_	_	_	_	_
+14	hranicí	_	_	_	_	_	_	_	_
+15	zuřivosti	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n03009
+# sent_id = n03009006
+# text = On také poznamenal, že „existence takového dokumentu by mohla vést k důsledkům, které jsou stejně pravděpodobné, jako jsou nepřijatelné“.
+# orig_file_sentence test009#22
+# text_en = He also remarked that "the existence of such a document could lead to consequences that are as likely as they are unacceptable".
+1	On	_	_	_	_	_	_	_	_
+2	také	_	_	_	_	_	_	_	_
+3	poznamenal	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	že	_	_	_	_	_	_	_	_
+6	„	_	_	_	_	_	_	_	_
+7	existence	_	_	_	_	_	_	_	_
+8	takového	_	_	_	_	_	_	_	_
+9	dokumentu	_	_	_	_	_	_	_	_
+10	by	_	_	_	_	_	_	_	_
+11	mohla	_	_	_	_	_	_	_	_
+12	vést	_	_	_	_	_	_	_	_
+13	k	_	_	_	_	_	_	_	_
+14	důsledkům	_	_	_	_	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	které	_	_	_	_	_	_	_	_
+17	jsou	_	_	_	_	_	_	_	_
+18	stejně	_	_	_	_	_	_	_	_
+19	pravděpodobné	_	_	_	_	_	_	_	_
+20	,	_	_	_	_	_	_	_	_
+21	jako	_	_	_	_	_	_	_	_
+22	jsou	_	_	_	_	_	_	_	_
+23	nepřijatelné	_	_	_	_	_	_	_	_
+24	“	_	_	_	_	_	_	_	_
+25	.	_	_	_	_	_	_	_	_
+
+# sent_id = w03005013
+# text = Gramotnost byla ztracená a Mykénské texty zapomenuty, ale Řekové přijali fénickou abecedu, modifikovali ji a vytvořili řeckou abecedu.
+# orig_file_sentence test010#35
+# text_en = Literacy had been lost and Mycenaean script forgotten, but the Greeks adopted the Phoenician alphabet, modifying it to create the Greek alphabet.
+1	Gramotnost	_	_	_	_	_	_	_	_
+2	byla	_	_	_	_	_	_	_	_
+3	ztracená	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	Mykénské	_	_	_	_	_	_	_	_
+6	texty	_	_	_	_	_	_	_	_
+7	zapomenuty	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	ale	_	_	_	_	_	_	_	_
+10	Řekové	_	_	_	_	_	_	_	_
+11	přijali	_	_	_	_	_	_	_	_
+12	fénickou	_	_	_	_	_	_	_	_
+13	abecedu	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	modifikovali	_	_	_	_	_	_	_	_
+16	ji	_	_	_	_	_	_	_	_
+17	a	_	_	_	_	_	_	_	_
+18	vytvořili	_	_	_	_	_	_	_	_
+19	řeckou	_	_	_	_	_	_	_	_
+20	abecedu	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w01070
+# sent_id = w01070031
+# text = V době bronzové tam kolem roku 1900 př. n. l. byla zbudována astronomická observatoř, která sloužila blízko žijící komunitě až zhruba do roku 700 př. n. l.
+# orig_file_sentence test006#51
+# text_en = A Bronze Age astronomical observatory was constructed there around 1900 BC and continuously served the nearby community that lived there until about 700 BC.
+1	V	_	_	_	_	_	_	_	_
+2	době	_	_	_	_	_	_	_	_
+3	bronzové	_	_	_	_	_	_	_	_
+4	tam	_	_	_	_	_	_	_	_
+5	kolem	_	_	_	_	_	_	_	_
+6	roku	_	_	_	_	_	_	_	_
+7	1900	_	_	_	_	_	_	_	_
+8	př	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+10	n	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+12	l	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+14	byla	_	_	_	_	_	_	_	_
+15	zbudována	_	_	_	_	_	_	_	_
+16	astronomická	_	_	_	_	_	_	_	_
+17	observatoř	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	která	_	_	_	_	_	_	_	_
+20	sloužila	_	_	_	_	_	_	_	_
+21	blízko	_	_	_	_	_	_	_	_
+22	žijící	_	_	_	_	_	_	_	_
+23	komunitě	_	_	_	_	_	_	_	_
+24	až	_	_	_	_	_	_	_	_
+25	zhruba	_	_	_	_	_	_	_	_
+26	do	_	_	_	_	_	_	_	_
+27	roku	_	_	_	_	_	_	_	_
+28	700	_	_	_	_	_	_	_	_
+29	př	_	_	_	_	_	_	_	_
+30	.	_	_	_	_	_	_	_	_
+31	n	_	_	_	_	_	_	_	_
+32	.	_	_	_	_	_	_	_	_
+33	l	_	_	_	_	_	_	_	_
+34	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w01020
+# sent_id = w01020016
+# text = Kolem středomořského pobřeží se nacházelo několik starobylých civilizací a ty byly blízkostí moře významně ovlivněny.
+# orig_file_sentence test005#19
+# text_en = Several ancient civilisations were located around the Mediterranean shores, and were greatly influenced by their proximity to the sea.
+1	Kolem	_	_	_	_	_	_	_	_
+2	středomořského	_	_	_	_	_	_	_	_
+3	pobřeží	_	_	_	_	_	_	_	_
+4	se	_	_	_	_	_	_	_	_
+5	nacházelo	_	_	_	_	_	_	_	_
+6	několik	_	_	_	_	_	_	_	_
+7	starobylých	_	_	_	_	_	_	_	_
+8	civilizací	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	ty	_	_	_	_	_	_	_	_
+11	byly	_	_	_	_	_	_	_	_
+12	blízkostí	_	_	_	_	_	_	_	_
+13	moře	_	_	_	_	_	_	_	_
+14	významně	_	_	_	_	_	_	_	_
+15	ovlivněny	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01141077
+# text = O titul si pak zahrála se Sarou Errani, ale byla poražena.
+# orig_file_sentence test008#25
+# text_en = She next faced defending champion and top seed Sara Errani, but was defeated.
+1	O	_	_	_	_	_	_	_	_
+2	titul	_	_	_	_	_	_	_	_
+3	si	_	_	_	_	_	_	_	_
+4	pak	_	_	_	_	_	_	_	_
+5	zahrála	_	_	_	_	_	_	_	_
+6	se	_	_	_	_	_	_	_	_
+7	Sarou	_	_	_	_	_	_	_	_
+8	Errani	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	ale	_	_	_	_	_	_	_	_
+11	byla	_	_	_	_	_	_	_	_
+12	poražena	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n01107
+# sent_id = n01107005
+# text = Zprávy o podvodném jednání, kterého se automobilka dopouštěla řadu let, snížily hodnotu společnosti o desítky miliard eur a stály generálního ředitele Martina Winterkorna jeho funkci.
+# orig_file_sentence test003#62
+# text_en = News of the company’s deceit - which had run for years - wiped tens of billions of euros from VW's value and cost chief executive Martin Winterkorn his job.
+1	Zprávy	_	_	_	_	_	_	_	_
+2	o	_	_	_	_	_	_	_	_
+3	podvodném	_	_	_	_	_	_	_	_
+4	jednání	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	kterého	_	_	_	_	_	_	_	_
+7	se	_	_	_	_	_	_	_	_
+8	automobilka	_	_	_	_	_	_	_	_
+9	dopouštěla	_	_	_	_	_	_	_	_
+10	řadu	_	_	_	_	_	_	_	_
+11	let	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	snížily	_	_	_	_	_	_	_	_
+14	hodnotu	_	_	_	_	_	_	_	_
+15	společnosti	_	_	_	_	_	_	_	_
+16	o	_	_	_	_	_	_	_	_
+17	desítky	_	_	_	_	_	_	_	_
+18	miliard	_	_	_	_	_	_	_	_
+19	eur	_	_	_	_	_	_	_	_
+20	a	_	_	_	_	_	_	_	_
+21	stály	_	_	_	_	_	_	_	_
+22	generálního	_	_	_	_	_	_	_	_
+23	ředitele	_	_	_	_	_	_	_	_
+24	Martina	_	_	_	_	_	_	_	_
+25	Winterkorna	_	_	_	_	_	_	_	_
+26	jeho	_	_	_	_	_	_	_	_
+27	funkci	_	_	_	_	_	_	_	_
+28	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01100049
+# text = V roce 1856 vypukla druhá opiová válka, v níž byli Číňané znovu poraženi a přinuceni přijmout podmínky tiencinské smlouvy z roku 1858 a pekingské dohody z roku 1860.
+# orig_file_sentence test007#26
+# text_en = In 1856, the Second Opium War broke out; the Chinese were again defeated and forced to the terms of the 1858 Treaty of Tientsin and the 1860 Convention of Peking.
+1	V	_	_	_	_	_	_	_	_
+2	roce	_	_	_	_	_	_	_	_
+3	1856	_	_	_	_	_	_	_	_
+4	vypukla	_	_	_	_	_	_	_	_
+5	druhá	_	_	_	_	_	_	_	_
+6	opiová	_	_	_	_	_	_	_	_
+7	válka	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	v	_	_	_	_	_	_	_	_
+10	níž	_	_	_	_	_	_	_	_
+11	byli	_	_	_	_	_	_	_	_
+12	Číňané	_	_	_	_	_	_	_	_
+13	znovu	_	_	_	_	_	_	_	_
+14	poraženi	_	_	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	přinuceni	_	_	_	_	_	_	_	_
+17	přijmout	_	_	_	_	_	_	_	_
+18	podmínky	_	_	_	_	_	_	_	_
+19	tiencinské	_	_	_	_	_	_	_	_
+20	smlouvy	_	_	_	_	_	_	_	_
+21	z	_	_	_	_	_	_	_	_
+22	roku	_	_	_	_	_	_	_	_
+23	1858	_	_	_	_	_	_	_	_
+24	a	_	_	_	_	_	_	_	_
+25	pekingské	_	_	_	_	_	_	_	_
+26	dohody	_	_	_	_	_	_	_	_
+27	z	_	_	_	_	_	_	_	_
+28	roku	_	_	_	_	_	_	_	_
+29	1860	_	_	_	_	_	_	_	_
+30	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n01040
+# sent_id = n01040028
+# text = Studenti jako Rai se ve škole setkávali s poradenskými pracovníky a bavili se o tom, co se stalo, ale řekla, že nejvíce ji utěšilo vidět se s přáteli.
+# orig_file_sentence test001#99
+# text_en = Students like Rai have been meeting with counsellors at the school to talk about what happened, but she said the biggest comfort has come from seeing her friends.
+1	Studenti	_	_	_	_	_	_	_	_
+2	jako	_	_	_	_	_	_	_	_
+3	Rai	_	_	_	_	_	_	_	_
+4	se	_	_	_	_	_	_	_	_
+5	ve	_	_	_	_	_	_	_	_
+6	škole	_	_	_	_	_	_	_	_
+7	setkávali	_	_	_	_	_	_	_	_
+8	s	_	_	_	_	_	_	_	_
+9	poradenskými	_	_	_	_	_	_	_	_
+10	pracovníky	_	_	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	bavili	_	_	_	_	_	_	_	_
+13	se	_	_	_	_	_	_	_	_
+14	o	_	_	_	_	_	_	_	_
+15	tom	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	co	_	_	_	_	_	_	_	_
+18	se	_	_	_	_	_	_	_	_
+19	stalo	_	_	_	_	_	_	_	_
+20	,	_	_	_	_	_	_	_	_
+21	ale	_	_	_	_	_	_	_	_
+22	řekla	_	_	_	_	_	_	_	_
+23	,	_	_	_	_	_	_	_	_
+24	že	_	_	_	_	_	_	_	_
+25	nejvíce	_	_	_	_	_	_	_	_
+26	ji	_	_	_	_	_	_	_	_
+27	utěšilo	_	_	_	_	_	_	_	_
+28	vidět	_	_	_	_	_	_	_	_
+29	se	_	_	_	_	_	_	_	_
+30	s	_	_	_	_	_	_	_	_
+31	přáteli	_	_	_	_	_	_	_	_
+32	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w01102
+# sent_id = w01102020
+# text = Joseph Darnand, který byl důstojníkem SS a vedl polovojenské milice pronásledující členy odporu, byl v říjnu 1945 popraven.
+# orig_file_sentence test007#31
+# text_en = Joseph Darnand, who became an SS officer and led the Milice paramilitaries who hunted down members of the Resistance, was executed in October 1945.
+1	Joseph	_	_	_	_	_	_	_	_
+2	Darnand	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	který	_	_	_	_	_	_	_	_
+5	byl	_	_	_	_	_	_	_	_
+6	důstojníkem	_	_	_	_	_	_	_	_
+7	SS	_	_	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	vedl	_	_	_	_	_	_	_	_
+10	polovojenské	_	_	_	_	_	_	_	_
+11	milice	_	_	_	_	_	_	_	_
+12	pronásledující	_	_	_	_	_	_	_	_
+13	členy	_	_	_	_	_	_	_	_
+14	odporu	_	_	_	_	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	byl	_	_	_	_	_	_	_	_
+17	v	_	_	_	_	_	_	_	_
+18	říjnu	_	_	_	_	_	_	_	_
+19	1945	_	_	_	_	_	_	_	_
+20	popraven	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01127096
+# text = Tou dobou ji málem zničilo utrácení a série špatných investic jejích investorů.
+# orig_file_sentence test007#85
+# text_en = By this time, extravagant spending and a string of bad investments by her investors had left her nearly broke.
+1	Tou	_	_	_	_	_	_	_	_
+2	dobou	_	_	_	_	_	_	_	_
+3	ji	_	_	_	_	_	_	_	_
+4	málem	_	_	_	_	_	_	_	_
+5	zničilo	_	_	_	_	_	_	_	_
+6	utrácení	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	série	_	_	_	_	_	_	_	_
+9	špatných	_	_	_	_	_	_	_	_
+10	investic	_	_	_	_	_	_	_	_
+11	jejích	_	_	_	_	_	_	_	_
+12	investorů	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w01076
+# sent_id = w01076039
+# text = Záruka občanských svobod dávala příslib, že vymizí napětí mezi komunitami a že se říše přemění ve více harmonické místo.
+# orig_file_sentence test006#73
+# text_en = Its guarantee of liberties promised to dissolve inter-communal tensions and transform the empire into a more harmonious place.
+1	Záruka	_	_	_	_	_	_	_	_
+2	občanských	_	_	_	_	_	_	_	_
+3	svobod	_	_	_	_	_	_	_	_
+4	dávala	_	_	_	_	_	_	_	_
+5	příslib	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	že	_	_	_	_	_	_	_	_
+8	vymizí	_	_	_	_	_	_	_	_
+9	napětí	_	_	_	_	_	_	_	_
+10	mezi	_	_	_	_	_	_	_	_
+11	komunitami	_	_	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	že	_	_	_	_	_	_	_	_
+14	se	_	_	_	_	_	_	_	_
+15	říše	_	_	_	_	_	_	_	_
+16	přemění	_	_	_	_	_	_	_	_
+17	ve	_	_	_	_	_	_	_	_
+18	více	_	_	_	_	_	_	_	_
+19	harmonické	_	_	_	_	_	_	_	_
+20	místo	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01095009
+# text = Divoch mu neříkám jen tak pro nic za nic.
+# orig_file_sentence test003#35
+# text_en = I don’t call it a beast lightly.
+1	Divoch	_	_	_	_	_	_	_	_
+2	mu	_	_	_	_	_	_	_	_
+3	neříkám	_	_	_	_	_	_	_	_
+4	jen	_	_	_	_	_	_	_	_
+5	tak	_	_	_	_	_	_	_	_
+6	pro	_	_	_	_	_	_	_	_
+7	nic	_	_	_	_	_	_	_	_
+8	za	_	_	_	_	_	_	_	_
+9	nic	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01111089
+# text = Winstone potkal svou ženu Elaine, když v roce 1979 točil film To léto.
+# orig_file_sentence test007#51
+# text_en = Winstone met his wife, Elaine, while filming That Summer in 1979.
+1	Winstone	_	_	_	_	_	_	_	_
+2	potkal	_	_	_	_	_	_	_	_
+3	svou	_	_	_	_	_	_	_	_
+4	ženu	_	_	_	_	_	_	_	_
+5	Elaine	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	když	_	_	_	_	_	_	_	_
+8	v	_	_	_	_	_	_	_	_
+9	roce	_	_	_	_	_	_	_	_
+10	1979	_	_	_	_	_	_	_	_
+11	točil	_	_	_	_	_	_	_	_
+12	film	_	_	_	_	_	_	_	_
+13	To	_	_	_	_	_	_	_	_
+14	léto	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = w02017061
+# text = Stopy krve na oblečení vypadaly tak, jak vypadaly, když o nich informovaly zprávy v den vraždy.
+# orig_file_sentence test010#21
+# text_en = The traces of blood on the clothes were in the shape that they were reported to have by the news reports on the day of the murder.
+1	Stopy	_	_	_	_	_	_	_	_
+2	krve	_	_	_	_	_	_	_	_
+3	na	_	_	_	_	_	_	_	_
+4	oblečení	_	_	_	_	_	_	_	_
+5	vypadaly	_	_	_	_	_	_	_	_
+6	tak	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	jak	_	_	_	_	_	_	_	_
+9	vypadaly	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	když	_	_	_	_	_	_	_	_
+12	o	_	_	_	_	_	_	_	_
+13	nich	_	_	_	_	_	_	_	_
+14	informovaly	_	_	_	_	_	_	_	_
+15	zprávy	_	_	_	_	_	_	_	_
+16	v	_	_	_	_	_	_	_	_
+17	den	_	_	_	_	_	_	_	_
+18	vraždy	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01022016
+# text = Investice v této oblasti se v roce 2015 zvýšily o 6 % na 221 miliard dolarů.
+# orig_file_sentence test001#49
+# text_en = Investments in this area were up by 6% in 2015 to $221bn.
+1	Investice	_	_	_	_	_	_	_	_
+2	v	_	_	_	_	_	_	_	_
+3	této	_	_	_	_	_	_	_	_
+4	oblasti	_	_	_	_	_	_	_	_
+5	se	_	_	_	_	_	_	_	_
+6	v	_	_	_	_	_	_	_	_
+7	roce	_	_	_	_	_	_	_	_
+8	2015	_	_	_	_	_	_	_	_
+9	zvýšily	_	_	_	_	_	_	_	_
+10	o	_	_	_	_	_	_	_	_
+11	6	_	_	_	_	_	_	_	_
+12	%	_	_	_	_	_	_	_	_
+13	na	_	_	_	_	_	_	_	_
+14	221	_	_	_	_	_	_	_	_
+15	miliard	_	_	_	_	_	_	_	_
+16	dolarů	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w01062
+# sent_id = w01062037
+# text = Tiberius podle dostupných pramenů svého odjezdu litoval a několikrát žádal, aby se směl do Říma vrátit, ale Augustus jeho žádosti pokaždé zamítl.
+# orig_file_sentence test006#30
+# text_en = Tiberius reportedly regretted his departure and requested to return to Rome several times, but each time Augustus refused his requests.
+1	Tiberius	_	_	_	_	_	_	_	_
+2	podle	_	_	_	_	_	_	_	_
+3	dostupných	_	_	_	_	_	_	_	_
+4	pramenů	_	_	_	_	_	_	_	_
+5	svého	_	_	_	_	_	_	_	_
+6	odjezdu	_	_	_	_	_	_	_	_
+7	litoval	_	_	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	několikrát	_	_	_	_	_	_	_	_
+10	žádal	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	aby	_	_	_	_	_	_	_	_
+13	by	_	_	_	_	_	_	_	_
+14	se	_	_	_	_	_	_	_	_
+15	směl	_	_	_	_	_	_	_	_
+16	do	_	_	_	_	_	_	_	_
+17	Říma	_	_	_	_	_	_	_	_
+18	vrátit	_	_	_	_	_	_	_	_
+19	,	_	_	_	_	_	_	_	_
+20	ale	_	_	_	_	_	_	_	_
+21	Augustus	_	_	_	_	_	_	_	_
+22	jeho	_	_	_	_	_	_	_	_
+23	žádosti	_	_	_	_	_	_	_	_
+24	pokaždé	_	_	_	_	_	_	_	_
+25	zamítl	_	_	_	_	_	_	_	_
+26	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w01093
+# sent_id = w01093028
+# text = Ve druhé messénské válce se Sparta stala na Peloponéském poloostrově a ve zbytku Řecka velmocí.
+# orig_file_sentence test007#7
+# text_en = In the Second Messenian War, Sparta established itself as a local power in Peloponnesus and the rest of Greece.
+1	Ve	_	_	_	_	_	_	_	_
+2	druhé	_	_	_	_	_	_	_	_
+3	messénské	_	_	_	_	_	_	_	_
+4	válce	_	_	_	_	_	_	_	_
+5	se	_	_	_	_	_	_	_	_
+6	Sparta	_	_	_	_	_	_	_	_
+7	stala	_	_	_	_	_	_	_	_
+8	na	_	_	_	_	_	_	_	_
+9	Peloponéském	_	_	_	_	_	_	_	_
+10	poloostrově	_	_	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	ve	_	_	_	_	_	_	_	_
+13	zbytku	_	_	_	_	_	_	_	_
+14	Řecka	_	_	_	_	_	_	_	_
+15	velmocí	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w01127
+# sent_id = w01127071
+# text = Wild West z roku 1981 patřilo k jejím nejlépe prodávaným albům.
+# orig_file_sentence test007#84
+# text_en = Her 1981 album Wild West was one of her biggest sellers.
+1	Wild	_	_	_	_	_	_	_	_
+2	West	_	_	_	_	_	_	_	_
+3	z	_	_	_	_	_	_	_	_
+4	roku	_	_	_	_	_	_	_	_
+5	1981	_	_	_	_	_	_	_	_
+6	patřilo	_	_	_	_	_	_	_	_
+7	k	_	_	_	_	_	_	_	_
+8	jejím	_	_	_	_	_	_	_	_
+9	nejlépe	_	_	_	_	_	_	_	_
+10	prodávaným	_	_	_	_	_	_	_	_
+11	albům	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01009027
+# text = Monzun je vytrvalý sezónní vítr, jenž trvá několik měsíců a přináší regionální období dešťů.
+# orig_file_sentence test004#98
+# text_en = A monsoon is a seasonal prevailing wind which lasts for several months, ushering in a region's rainy season.
+1	Monzun	_	_	_	_	_	_	_	_
+2	je	_	_	_	_	_	_	_	_
+3	vytrvalý	_	_	_	_	_	_	_	_
+4	sezónní	_	_	_	_	_	_	_	_
+5	vítr	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	jenž	_	_	_	_	_	_	_	_
+8	trvá	_	_	_	_	_	_	_	_
+9	několik	_	_	_	_	_	_	_	_
+10	měsíců	_	_	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	přináší	_	_	_	_	_	_	_	_
+13	regionální	_	_	_	_	_	_	_	_
+14	období	_	_	_	_	_	_	_	_
+15	dešťů	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = n05009030
+# text = Desítky přívrženců FSLN již oslavují vítězství na Plaza de las Victorias.
+# orig_file_sentence test009#73
+# text_en = Dozens of FSLN followers are already celebrating the victory in the Plaza de las Victorias.
+1	Desítky	_	_	_	_	_	_	_	_
+2	přívrženců	_	_	_	_	_	_	_	_
+3	FSLN	_	_	_	_	_	_	_	_
+4	již	_	_	_	_	_	_	_	_
+5	oslavují	_	_	_	_	_	_	_	_
+6	vítězství	_	_	_	_	_	_	_	_
+7	na	_	_	_	_	_	_	_	_
+8	Plaza	_	_	_	_	_	_	_	_
+9	de	_	_	_	_	_	_	_	_
+10	las	_	_	_	_	_	_	_	_
+11	Victorias	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01060040
+# text = Dalšího uznání u dvora dosáhl, když byl v létě roku 1075 vyslán jako vyslanec do říše Kitanů Liao.
+# orig_file_sentence test006#26
+# text_en = He gained further reputation at court once he was dispatched as an envoy to the Khitan Liao Dynasty in the summer of 1075.
+1	Dalšího	_	_	_	_	_	_	_	_
+2	uznání	_	_	_	_	_	_	_	_
+3	u	_	_	_	_	_	_	_	_
+4	dvora	_	_	_	_	_	_	_	_
+5	dosáhl	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	když	_	_	_	_	_	_	_	_
+8	byl	_	_	_	_	_	_	_	_
+9	v	_	_	_	_	_	_	_	_
+10	létě	_	_	_	_	_	_	_	_
+11	roku	_	_	_	_	_	_	_	_
+12	1075	_	_	_	_	_	_	_	_
+13	vyslán	_	_	_	_	_	_	_	_
+14	jako	_	_	_	_	_	_	_	_
+15	vyslanec	_	_	_	_	_	_	_	_
+16	do	_	_	_	_	_	_	_	_
+17	říše	_	_	_	_	_	_	_	_
+18	Kitanů	_	_	_	_	_	_	_	_
+19	Liao	_	_	_	_	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n01017
+# sent_id = n01017005
+# text = Avšak jeden expert na cestování varoval, že internet za letu byl často nespolehlivý a nebylo pravděpodobné, že by jeho dostupnost ovlivnila, jak si cestující vybírají aerolinky.
+# orig_file_sentence test001#37
+# text_en = But one travel expert warned in-flight internet was often unreliable and was unlikely to influence travellers' airline choices.
+1	Avšak	_	_	_	_	_	_	_	_
+2	jeden	_	_	_	_	_	_	_	_
+3	expert	_	_	_	_	_	_	_	_
+4	na	_	_	_	_	_	_	_	_
+5	cestování	_	_	_	_	_	_	_	_
+6	varoval	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	že	_	_	_	_	_	_	_	_
+9	internet	_	_	_	_	_	_	_	_
+10	za	_	_	_	_	_	_	_	_
+11	letu	_	_	_	_	_	_	_	_
+12	byl	_	_	_	_	_	_	_	_
+13	často	_	_	_	_	_	_	_	_
+14	nespolehlivý	_	_	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	nebylo	_	_	_	_	_	_	_	_
+17	pravděpodobné	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	že	_	_	_	_	_	_	_	_
+20	by	_	_	_	_	_	_	_	_
+21	jeho	_	_	_	_	_	_	_	_
+22	dostupnost	_	_	_	_	_	_	_	_
+23	ovlivnila	_	_	_	_	_	_	_	_
+24	,	_	_	_	_	_	_	_	_
+25	jak	_	_	_	_	_	_	_	_
+26	si	_	_	_	_	_	_	_	_
+27	cestující	_	_	_	_	_	_	_	_
+28	vybírají	_	_	_	_	_	_	_	_
+29	aerolinky	_	_	_	_	_	_	_	_
+30	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w01036
+# sent_id = w01036044
+# text = Papua-Nová Guinea je často označována za potenciálně nejhorší místo na světě z hlediska genderového násilí.
+# orig_file_sentence test005#65
+# text_en = Papua New Guinea is often labelled as potentially the worst place in the world for gender violence.
+1	Papua	_	_	_	_	_	_	_	_
+2	-	_	_	_	_	_	_	_	_
+3	Nová	_	_	_	_	_	_	_	_
+4	Guinea	_	_	_	_	_	_	_	_
+5	je	_	_	_	_	_	_	_	_
+6	často	_	_	_	_	_	_	_	_
+7	označována	_	_	_	_	_	_	_	_
+8	za	_	_	_	_	_	_	_	_
+9	potenciálně	_	_	_	_	_	_	_	_
+10	nejhorší	_	_	_	_	_	_	_	_
+11	místo	_	_	_	_	_	_	_	_
+12	na	_	_	_	_	_	_	_	_
+13	světě	_	_	_	_	_	_	_	_
+14	z	_	_	_	_	_	_	_	_
+15	hlediska	_	_	_	_	_	_	_	_
+16	genderového	_	_	_	_	_	_	_	_
+17	násilí	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n01044
+# sent_id = n01044004
+# text = Gomery, jenž vedl komisi vyšetřující skandál s federálním sponzorováním mezi lety 2004 a 2006, řekl, že taková tělesa jsou nutná, aby veřejnost znovu začala důvěřovat ve výkon spravedlnosti.
+# orig_file_sentence test002#9
+# text_en = Gomery, who led the commission of inquiry into the federal sponsorship scandal between 2004 and 2006, said such bodies are essential to help restore public confidence in the rule of law.
+1	Gomery	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	jenž	_	_	_	_	_	_	_	_
+4	vedl	_	_	_	_	_	_	_	_
+5	komisi	_	_	_	_	_	_	_	_
+6	vyšetřující	_	_	_	_	_	_	_	_
+7	skandál	_	_	_	_	_	_	_	_
+8	s	_	_	_	_	_	_	_	_
+9	federálním	_	_	_	_	_	_	_	_
+10	sponzorováním	_	_	_	_	_	_	_	_
+11	mezi	_	_	_	_	_	_	_	_
+12	lety	_	_	_	_	_	_	_	_
+13	2004	_	_	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	2006	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	řekl	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	že	_	_	_	_	_	_	_	_
+20	taková	_	_	_	_	_	_	_	_
+21	tělesa	_	_	_	_	_	_	_	_
+22	jsou	_	_	_	_	_	_	_	_
+23	nutná	_	_	_	_	_	_	_	_
+24	,	_	_	_	_	_	_	_	_
+25	aby	_	_	_	_	_	_	_	_
+26	by	_	_	_	_	_	_	_	_
+27	veřejnost	_	_	_	_	_	_	_	_
+28	znovu	_	_	_	_	_	_	_	_
+29	začala	_	_	_	_	_	_	_	_
+30	důvěřovat	_	_	_	_	_	_	_	_
+31	ve	_	_	_	_	_	_	_	_
+32	výkon	_	_	_	_	_	_	_	_
+33	spravedlnosti	_	_	_	_	_	_	_	_
+34	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n01083
+# sent_id = n01083013
+# text = Tvrdí, že americké dělníky, jejichž pracovní místa a životní úroveň by to mohlo ohrozit, tohle dostatečně nechrání.
+# orig_file_sentence test002#100
+# text_en = Her reason is that it provides insufficient protection to American workers whose jobs and living standards it might harm.
+1	Tvrdí	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	že	_	_	_	_	_	_	_	_
+4	americké	_	_	_	_	_	_	_	_
+5	dělníky	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	jejichž	_	_	_	_	_	_	_	_
+8	pracovní	_	_	_	_	_	_	_	_
+9	místa	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	životní	_	_	_	_	_	_	_	_
+12	úroveň	_	_	_	_	_	_	_	_
+13	by	_	_	_	_	_	_	_	_
+14	to	_	_	_	_	_	_	_	_
+15	mohlo	_	_	_	_	_	_	_	_
+16	ohrozit	_	_	_	_	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	tohle	_	_	_	_	_	_	_	_
+19	dostatečně	_	_	_	_	_	_	_	_
+20	nechrání	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01053045
+# text = Podle Nového zákona strávil Pavel v Korintu osmnáct měsíců a bylo to asi sedmnáct let po jeho konverzi.
+# orig_file_sentence test006#13
+# text_en = According to the New Testament, Paul spent eighteen months in Corinth, approximately seventeen years after his conversion.
+1	Podle	_	_	_	_	_	_	_	_
+2	Nového	_	_	_	_	_	_	_	_
+3	zákona	_	_	_	_	_	_	_	_
+4	strávil	_	_	_	_	_	_	_	_
+5	Pavel	_	_	_	_	_	_	_	_
+6	v	_	_	_	_	_	_	_	_
+7	Korintu	_	_	_	_	_	_	_	_
+8	osmnáct	_	_	_	_	_	_	_	_
+9	měsíců	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	bylo	_	_	_	_	_	_	_	_
+12	to	_	_	_	_	_	_	_	_
+13	asi	_	_	_	_	_	_	_	_
+14	sedmnáct	_	_	_	_	_	_	_	_
+15	let	_	_	_	_	_	_	_	_
+16	po	_	_	_	_	_	_	_	_
+17	jeho	_	_	_	_	_	_	_	_
+18	konverzi	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n04008
+# sent_id = n04008007
+# text = V průběhu zasedání, které se konalo v Římě, to bylo řečeno studentům univerzity LUISS.
+# orig_file_sentence test009#44
+# text_en = Students at LUISS University were told during the course of a meeting which took place in Rome.
+1	V	_	_	_	_	_	_	_	_
+2	průběhu	_	_	_	_	_	_	_	_
+3	zasedání	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	které	_	_	_	_	_	_	_	_
+6	se	_	_	_	_	_	_	_	_
+7	konalo	_	_	_	_	_	_	_	_
+8	v	_	_	_	_	_	_	_	_
+9	Římě	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	to	_	_	_	_	_	_	_	_
+12	bylo	_	_	_	_	_	_	_	_
+13	řečeno	_	_	_	_	_	_	_	_
+14	studentům	_	_	_	_	_	_	_	_
+15	univerzity	_	_	_	_	_	_	_	_
+16	LUISS	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01065020
+# text = Kanaánské město bylo zničeno požárem, patrně v důsledku vojenského tažení egyptského faraóna Thutmose III.
+# orig_file_sentence test006#35
+# text_en = The Canaanite city was destroyed in a fire, presumably in the wake of a campaign by the Egyptian pharaoh Thutmose III.
+1	Kanaánské	_	_	_	_	_	_	_	_
+2	město	_	_	_	_	_	_	_	_
+3	bylo	_	_	_	_	_	_	_	_
+4	zničeno	_	_	_	_	_	_	_	_
+5	požárem	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	patrně	_	_	_	_	_	_	_	_
+8	v	_	_	_	_	_	_	_	_
+9	důsledku	_	_	_	_	_	_	_	_
+10	vojenského	_	_	_	_	_	_	_	_
+11	tažení	_	_	_	_	_	_	_	_
+12	egyptského	_	_	_	_	_	_	_	_
+13	faraóna	_	_	_	_	_	_	_	_
+14	Thutmose	_	_	_	_	_	_	_	_
+15	III	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w01033
+# sent_id = w01033022
+# text = Obsahuje malou lagunu, která už téměř vyschla.
+# orig_file_sentence test005#54
+# text_en = It contains a tiny lagoon, which has all but dried up.
+1	Obsahuje	_	_	_	_	_	_	_	_
+2	malou	_	_	_	_	_	_	_	_
+3	lagunu	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	která	_	_	_	_	_	_	_	_
+6	už	_	_	_	_	_	_	_	_
+7	téměř	_	_	_	_	_	_	_	_
+8	vyschla	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n01080
+# sent_id = n01080039
+# text = Se svým životem mohu dělat jen tohle.
+# orig_file_sentence test002#96
+# text_en = I can just do that with my life.
+1	Se	_	_	_	_	_	_	_	_
+2	svým	_	_	_	_	_	_	_	_
+3	životem	_	_	_	_	_	_	_	_
+4	mohu	_	_	_	_	_	_	_	_
+5	dělat	_	_	_	_	_	_	_	_
+6	jen	_	_	_	_	_	_	_	_
+7	tohle	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01119100
+# text = V příběhu Jasmína zosobňuje též občanská práva, rasovou toleranci, společenskou hierarchii, stejně jako život, svobodu a cestu za štěstím.
+# orig_file_sentence test007#73
+# text_en = Thematically, Jasmine also represents civil rights, racial tolerance, social hierarchy, as well as life, liberty and the pursuit of happiness.
+1	V	_	_	_	_	_	_	_	_
+2	příběhu	_	_	_	_	_	_	_	_
+3	Jasmína	_	_	_	_	_	_	_	_
+4	zosobňuje	_	_	_	_	_	_	_	_
+5	též	_	_	_	_	_	_	_	_
+6	občanská	_	_	_	_	_	_	_	_
+7	práva	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	rasovou	_	_	_	_	_	_	_	_
+10	toleranci	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	společenskou	_	_	_	_	_	_	_	_
+13	hierarchii	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	stejně	_	_	_	_	_	_	_	_
+16	jako	_	_	_	_	_	_	_	_
+17	život	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	svobodu	_	_	_	_	_	_	_	_
+20	a	_	_	_	_	_	_	_	_
+21	cestu	_	_	_	_	_	_	_	_
+22	za	_	_	_	_	_	_	_	_
+23	štěstím	_	_	_	_	_	_	_	_
+24	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w02004
+# sent_id = w02004008
+# text = Mezi nimi je bývalá křížová chodba z klášterního kostela svatého Petra a Pavla.
+# orig_file_sentence test009#83
+# text_en = Among them is the former cloister from the abbey church of St. Peter and Paul.
+1	Mezi	_	_	_	_	_	_	_	_
+2	nimi	_	_	_	_	_	_	_	_
+3	je	_	_	_	_	_	_	_	_
+4	bývalá	_	_	_	_	_	_	_	_
+5	křížová	_	_	_	_	_	_	_	_
+6	chodba	_	_	_	_	_	_	_	_
+7	z	_	_	_	_	_	_	_	_
+8	klášterního	_	_	_	_	_	_	_	_
+9	kostela	_	_	_	_	_	_	_	_
+10	svatého	_	_	_	_	_	_	_	_
+11	Petra	_	_	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	Pavla	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n01032
+# sent_id = n01032032
+# text = Je však mnoho hluboce věřících členů parlamentu, kteří se staví proti jakékoliv nové legislativní úpravě.
+# orig_file_sentence test001#78
+# text_en = However there are many MLAs with deeply-held religious beliefs who oppose any new legislation.
+1	Je	_	_	_	_	_	_	_	_
+2	však	_	_	_	_	_	_	_	_
+3	mnoho	_	_	_	_	_	_	_	_
+4	hluboce	_	_	_	_	_	_	_	_
+5	věřících	_	_	_	_	_	_	_	_
+6	členů	_	_	_	_	_	_	_	_
+7	parlamentu	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	kteří	_	_	_	_	_	_	_	_
+10	se	_	_	_	_	_	_	_	_
+11	staví	_	_	_	_	_	_	_	_
+12	proti	_	_	_	_	_	_	_	_
+13	jakékoliv	_	_	_	_	_	_	_	_
+14	nové	_	_	_	_	_	_	_	_
+15	legislativní	_	_	_	_	_	_	_	_
+16	úpravě	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01149088
+# text = Wright je přítelem mladého režiséra Gartha Jenningse, pro kterého dělal kameramana ve filmech Stopařův průvodce galaxií a Syn duhy.
+# orig_file_sentence test008#45
+# text_en = Wright is a friend of fellow director Garth Jennings, and made cameos in his films The Hitchhiker's Guide to the Galaxy and Son of Rambow.
+1	Wright	_	_	_	_	_	_	_	_
+2	je	_	_	_	_	_	_	_	_
+3	přítelem	_	_	_	_	_	_	_	_
+4	mladého	_	_	_	_	_	_	_	_
+5	režiséra	_	_	_	_	_	_	_	_
+6	Gartha	_	_	_	_	_	_	_	_
+7	Jenningse	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	pro	_	_	_	_	_	_	_	_
+10	kterého	_	_	_	_	_	_	_	_
+11	dělal	_	_	_	_	_	_	_	_
+12	kameramana	_	_	_	_	_	_	_	_
+13	ve	_	_	_	_	_	_	_	_
+14	filmech	_	_	_	_	_	_	_	_
+15	Stopařův	_	_	_	_	_	_	_	_
+16	průvodce	_	_	_	_	_	_	_	_
+17	galaxií	_	_	_	_	_	_	_	_
+18	a	_	_	_	_	_	_	_	_
+19	Syn	_	_	_	_	_	_	_	_
+20	duhy	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n01066
+# sent_id = n01066045
+# text = V roce 2010 nadace vydala vysázenou edici „Zettelova snu“, což dílo zpřístupnilo těm, pro koho představoval překážku pocit provizornosti z ofsetového tisku.
+# orig_file_sentence test002#60
+# text_en = In 2010, the foundation released a typeset edition of “Zettel’s Traum,” removing the bar to entry for those who balked at the draft-like feel of the photo-offset.
+1	V	_	_	_	_	_	_	_	_
+2	roce	_	_	_	_	_	_	_	_
+3	2010	_	_	_	_	_	_	_	_
+4	nadace	_	_	_	_	_	_	_	_
+5	vydala	_	_	_	_	_	_	_	_
+6	vysázenou	_	_	_	_	_	_	_	_
+7	edici	_	_	_	_	_	_	_	_
+8	„	_	_	_	_	_	_	_	_
+9	Zettelova	_	_	_	_	_	_	_	_
+10	snu	_	_	_	_	_	_	_	_
+11	“	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	což	_	_	_	_	_	_	_	_
+14	dílo	_	_	_	_	_	_	_	_
+15	zpřístupnilo	_	_	_	_	_	_	_	_
+16	těm	_	_	_	_	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	pro	_	_	_	_	_	_	_	_
+19	koho	_	_	_	_	_	_	_	_
+20	představoval	_	_	_	_	_	_	_	_
+21	překážku	_	_	_	_	_	_	_	_
+22	pocit	_	_	_	_	_	_	_	_
+23	provizornosti	_	_	_	_	_	_	_	_
+24	z	_	_	_	_	_	_	_	_
+25	ofsetového	_	_	_	_	_	_	_	_
+26	tisku	_	_	_	_	_	_	_	_
+27	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w01039
+# sent_id = w01039032
+# text = Tady ukradli malou kánoi, kterou tam zanechali místní australští Aboriginci.
+# orig_file_sentence test005#72
+# text_en = It was here they stole a small canoe left by the Australian Aborigines of the region.
+1	Tady	_	_	_	_	_	_	_	_
+2	ukradli	_	_	_	_	_	_	_	_
+3	malou	_	_	_	_	_	_	_	_
+4	kánoi	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	kterou	_	_	_	_	_	_	_	_
+7	tam	_	_	_	_	_	_	_	_
+8	zanechali	_	_	_	_	_	_	_	_
+9	místní	_	_	_	_	_	_	_	_
+10	australští	_	_	_	_	_	_	_	_
+11	Aboriginci	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w01054
+# sent_id = w01054107
+# text = Pevnosti byly budovány i ve starších částech Nové Francie, které ještě nebyly uspořádány.
+# orig_file_sentence test006#16
+# text_en = Forts were also built in the older portions of New France that had not yet been settled.
+1	Pevnosti	_	_	_	_	_	_	_	_
+2	byly	_	_	_	_	_	_	_	_
+3	budovány	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	ve	_	_	_	_	_	_	_	_
+6	starších	_	_	_	_	_	_	_	_
+7	částech	_	_	_	_	_	_	_	_
+8	Nové	_	_	_	_	_	_	_	_
+9	Francie	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	které	_	_	_	_	_	_	_	_
+12	ještě	_	_	_	_	_	_	_	_
+13	nebyly	_	_	_	_	_	_	_	_
+14	uspořádány	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w01029
+# sent_id = w01029015
+# text = Co se týká barvy, listy vykazují velkou rozmanitost zelených odstínů od žlutavých až po modravé.
+# orig_file_sentence test005#42
+# text_en = In color, the leaves show a great variety of greens, ranging from yellowish to bluish.
+1	Co	_	_	_	_	_	_	_	_
+2	se	_	_	_	_	_	_	_	_
+3	týká	_	_	_	_	_	_	_	_
+4	barvy	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	listy	_	_	_	_	_	_	_	_
+7	vykazují	_	_	_	_	_	_	_	_
+8	velkou	_	_	_	_	_	_	_	_
+9	rozmanitost	_	_	_	_	_	_	_	_
+10	zelených	_	_	_	_	_	_	_	_
+11	odstínů	_	_	_	_	_	_	_	_
+12	od	_	_	_	_	_	_	_	_
+13	žlutavých	_	_	_	_	_	_	_	_
+14	až	_	_	_	_	_	_	_	_
+15	po	_	_	_	_	_	_	_	_
+16	modravé	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n01028
+# sent_id = n01028022
+# text = „Naštěstí se ozval někdo ze Sony Australia a řekl, 'Mimochodem, všimli jste si tohohle?'“, říká Pall.
+# orig_file_sentence test001#68
+# text_en = "Luckily, someone in Sony Australia was like, 'Hey, by the way, did you guys notice this?'" says Pall.
+1	„	_	_	_	_	_	_	_	_
+2	Naštěstí	_	_	_	_	_	_	_	_
+3	se	_	_	_	_	_	_	_	_
+4	ozval	_	_	_	_	_	_	_	_
+5	někdo	_	_	_	_	_	_	_	_
+6	ze	_	_	_	_	_	_	_	_
+7	Sony	_	_	_	_	_	_	_	_
+8	Australia	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	řekl	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	'	_	_	_	_	_	_	_	_
+13	Mimochodem	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	všimli	_	_	_	_	_	_	_	_
+16	jste	_	_	_	_	_	_	_	_
+17	si	_	_	_	_	_	_	_	_
+18	tohohle	_	_	_	_	_	_	_	_
+19	?	_	_	_	_	_	_	_	_
+20	'	_	_	_	_	_	_	_	_
+21	“	_	_	_	_	_	_	_	_
+22	,	_	_	_	_	_	_	_	_
+23	říká	_	_	_	_	_	_	_	_
+24	Pall	_	_	_	_	_	_	_	_
+25	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01097104
+# text = Někteří historici jako Chandler a Weller tvrdí, že mohutná síla britské těžké kavalérie byla rozdrcena, když vedla svůj první impozantní útok.
+# orig_file_sentence test007#19
+# text_en = Some historians, such as Chandler and Weller, assert that the British heavy cavalry were destroyed as a viable force following their first, epic charge.
+1	Někteří	_	_	_	_	_	_	_	_
+2	historici	_	_	_	_	_	_	_	_
+3	jako	_	_	_	_	_	_	_	_
+4	Chandler	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	Weller	_	_	_	_	_	_	_	_
+7	tvrdí	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	že	_	_	_	_	_	_	_	_
+10	mohutná	_	_	_	_	_	_	_	_
+11	síla	_	_	_	_	_	_	_	_
+12	britské	_	_	_	_	_	_	_	_
+13	těžké	_	_	_	_	_	_	_	_
+14	kavalérie	_	_	_	_	_	_	_	_
+15	byla	_	_	_	_	_	_	_	_
+16	rozdrcena	_	_	_	_	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	když	_	_	_	_	_	_	_	_
+19	vedla	_	_	_	_	_	_	_	_
+20	svůj	_	_	_	_	_	_	_	_
+21	první	_	_	_	_	_	_	_	_
+22	impozantní	_	_	_	_	_	_	_	_
+23	útok	_	_	_	_	_	_	_	_
+24	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01052006
+# text = Mluvil o ní jako o „pozoruhodné“ a „milující a úžasné“ ženě, jejíž povídky v literárním světě zanechaly nesmazatelnou stopu.
+# orig_file_sentence test002#27
+# text_en = He described her as a "remarkable" and "loving and wonderful" woman who left her mark in the literary world with her stories.
+1	Mluvil	_	_	_	_	_	_	_	_
+2	o	_	_	_	_	_	_	_	_
+3	ní	_	_	_	_	_	_	_	_
+4	jako	_	_	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	„	_	_	_	_	_	_	_	_
+7	pozoruhodné	_	_	_	_	_	_	_	_
+8	“	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	„	_	_	_	_	_	_	_	_
+11	milující	_	_	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	úžasné	_	_	_	_	_	_	_	_
+14	“	_	_	_	_	_	_	_	_
+15	ženě	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	jejíž	_	_	_	_	_	_	_	_
+18	povídky	_	_	_	_	_	_	_	_
+19	v	_	_	_	_	_	_	_	_
+20	literárním	_	_	_	_	_	_	_	_
+21	světě	_	_	_	_	_	_	_	_
+22	zanechaly	_	_	_	_	_	_	_	_
+23	nesmazatelnou	_	_	_	_	_	_	_	_
+24	stopu	_	_	_	_	_	_	_	_
+25	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01074015
+# text = Jihoafrická republika se blíží okamžiku, ze kterého není návratu, a musíme se vyrovnat jejich chuti po vítězství.
+# orig_file_sentence test002#81
+# text_en = South Africa are almost at the point of no return and we have to be able to match their desire.
+1	Jihoafrická	_	_	_	_	_	_	_	_
+2	republika	_	_	_	_	_	_	_	_
+3	se	_	_	_	_	_	_	_	_
+4	blíží	_	_	_	_	_	_	_	_
+5	okamžiku	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	ze	_	_	_	_	_	_	_	_
+8	kterého	_	_	_	_	_	_	_	_
+9	není	_	_	_	_	_	_	_	_
+10	návratu	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	musíme	_	_	_	_	_	_	_	_
+14	se	_	_	_	_	_	_	_	_
+15	vyrovnat	_	_	_	_	_	_	_	_
+16	jejich	_	_	_	_	_	_	_	_
+17	chuti	_	_	_	_	_	_	_	_
+18	po	_	_	_	_	_	_	_	_
+19	vítězství	_	_	_	_	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01041018
+# text = „Obvodní doktoři tyto nástroje nemají, mají pouze recepty a injekce,“ řekl Mailis.
+# orig_file_sentence test001#100
+# text_en = "Physicians don't have these tools, they have only a prescription pad and an injection," Mailis said.
+1	„	_	_	_	_	_	_	_	_
+2	Obvodní	_	_	_	_	_	_	_	_
+3	doktoři	_	_	_	_	_	_	_	_
+4	tyto	_	_	_	_	_	_	_	_
+5	nástroje	_	_	_	_	_	_	_	_
+6	nemají	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	mají	_	_	_	_	_	_	_	_
+9	pouze	_	_	_	_	_	_	_	_
+10	recepty	_	_	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	injekce	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	“	_	_	_	_	_	_	_	_
+15	řekl	_	_	_	_	_	_	_	_
+16	Mailis	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01105023
+# text = Zajímalo by mě, jestli v tom hrál roli Davis Cup.
+# orig_file_sentence test003#55
+# text_en = I also wonder whether the Davis Cup played a part.
+1	Zajímalo	_	_	_	_	_	_	_	_
+2	by	_	_	_	_	_	_	_	_
+3	mě	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	jestli	_	_	_	_	_	_	_	_
+6	v	_	_	_	_	_	_	_	_
+7	tom	_	_	_	_	_	_	_	_
+8	hrál	_	_	_	_	_	_	_	_
+9	roli	_	_	_	_	_	_	_	_
+10	Davis	_	_	_	_	_	_	_	_
+11	Cup	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01116088
+# text = Do roku 2009 byl celkový počet výtisků knihy Moc přítomnosti prodaných v Severní Americe odhadován na 3 miliony a knihy Nová země na 5 milionů.
+# orig_file_sentence test007#66
+# text_en = By 2009, total sales of The Power of Now and A New Earth in North America had been estimated at three million and five million copies respectively.
+1	Do	_	_	_	_	_	_	_	_
+2	roku	_	_	_	_	_	_	_	_
+3	2009	_	_	_	_	_	_	_	_
+4	byl	_	_	_	_	_	_	_	_
+5	celkový	_	_	_	_	_	_	_	_
+6	počet	_	_	_	_	_	_	_	_
+7	výtisků	_	_	_	_	_	_	_	_
+8	knihy	_	_	_	_	_	_	_	_
+9	Moc	_	_	_	_	_	_	_	_
+10	přítomnosti	_	_	_	_	_	_	_	_
+11	prodaných	_	_	_	_	_	_	_	_
+12	v	_	_	_	_	_	_	_	_
+13	Severní	_	_	_	_	_	_	_	_
+14	Americe	_	_	_	_	_	_	_	_
+15	odhadován	_	_	_	_	_	_	_	_
+16	na	_	_	_	_	_	_	_	_
+17	3	_	_	_	_	_	_	_	_
+18	miliony	_	_	_	_	_	_	_	_
+19	a	_	_	_	_	_	_	_	_
+20	knihy	_	_	_	_	_	_	_	_
+21	Nová	_	_	_	_	_	_	_	_
+22	země	_	_	_	_	_	_	_	_
+23	na	_	_	_	_	_	_	_	_
+24	5	_	_	_	_	_	_	_	_
+25	milionů	_	_	_	_	_	_	_	_
+26	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01125036
+# text = George byl hluboce zbožný, trávil hodiny v modlitbách, bratři s ním však jeho zbožnost nesdíleli.
+# orig_file_sentence test007#81
+# text_en = George was deeply devout and spent hours in prayer, but his piety was not shared by his brothers.
+1	George	_	_	_	_	_	_	_	_
+2	byl	_	_	_	_	_	_	_	_
+3	hluboce	_	_	_	_	_	_	_	_
+4	zbožný	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	trávil	_	_	_	_	_	_	_	_
+7	hodiny	_	_	_	_	_	_	_	_
+8	v	_	_	_	_	_	_	_	_
+9	modlitbách	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	bratři	_	_	_	_	_	_	_	_
+12	s	_	_	_	_	_	_	_	_
+13	ním	_	_	_	_	_	_	_	_
+14	však	_	_	_	_	_	_	_	_
+15	jeho	_	_	_	_	_	_	_	_
+16	zbožnost	_	_	_	_	_	_	_	_
+17	nesdíleli	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = w03003039
+# text = Při expedici Endurance v roce 1914 se britská loď Endurance pod vedením kapitána Ernesta Shackletona vydala s dvaceti osmi muži na palubě překonat Antarktidu.
+# orig_file_sentence test010#31
+# text_en = In the Endurance expedition in 1914, the British ship Endurance, captained by Sir Ernest Shackleton, set sail with twenty eight men to cross the Antarctic.
+1	Při	_	_	_	_	_	_	_	_
+2	expedici	_	_	_	_	_	_	_	_
+3	Endurance	_	_	_	_	_	_	_	_
+4	v	_	_	_	_	_	_	_	_
+5	roce	_	_	_	_	_	_	_	_
+6	1914	_	_	_	_	_	_	_	_
+7	se	_	_	_	_	_	_	_	_
+8	britská	_	_	_	_	_	_	_	_
+9	loď	_	_	_	_	_	_	_	_
+10	Endurance	_	_	_	_	_	_	_	_
+11	pod	_	_	_	_	_	_	_	_
+12	vedením	_	_	_	_	_	_	_	_
+13	kapitána	_	_	_	_	_	_	_	_
+14	Ernesta	_	_	_	_	_	_	_	_
+15	Shackletona	_	_	_	_	_	_	_	_
+16	vydala	_	_	_	_	_	_	_	_
+17	s	_	_	_	_	_	_	_	_
+18	dvaceti	_	_	_	_	_	_	_	_
+19	osmi	_	_	_	_	_	_	_	_
+20	muži	_	_	_	_	_	_	_	_
+21	na	_	_	_	_	_	_	_	_
+22	palubě	_	_	_	_	_	_	_	_
+23	překonat	_	_	_	_	_	_	_	_
+24	Antarktidu	_	_	_	_	_	_	_	_
+25	.	_	_	_	_	_	_	_	_
+
+# sent_id = w04007049
+# text = Napoleon si byl jistý, že jednoznačný úspěch u Slavkova by mohl vést k obecné mírové smlouvě, ale jeho naděje byly brzy přerušeny: nový britský premiér, lord Grenville odmítl jakoukoliv dohodu, a stejně tak i car Alexandr.
+# orig_file_sentence test010#67
+# text_en = Napoleon was confident that the clear success of Austerlitz could lead to a general peace treaty, but his hopes were soon dashed: the new British Prime Minister Lord Grenville refused any agreement, and so did Tsar Alexander.
+1	Napoleon	_	_	_	_	_	_	_	_
+2	si	_	_	_	_	_	_	_	_
+3	byl	_	_	_	_	_	_	_	_
+4	jistý	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	že	_	_	_	_	_	_	_	_
+7	jednoznačný	_	_	_	_	_	_	_	_
+8	úspěch	_	_	_	_	_	_	_	_
+9	u	_	_	_	_	_	_	_	_
+10	Slavkova	_	_	_	_	_	_	_	_
+11	by	_	_	_	_	_	_	_	_
+12	mohl	_	_	_	_	_	_	_	_
+13	vést	_	_	_	_	_	_	_	_
+14	k	_	_	_	_	_	_	_	_
+15	obecné	_	_	_	_	_	_	_	_
+16	mírové	_	_	_	_	_	_	_	_
+17	smlouvě	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	ale	_	_	_	_	_	_	_	_
+20	jeho	_	_	_	_	_	_	_	_
+21	naděje	_	_	_	_	_	_	_	_
+22	byly	_	_	_	_	_	_	_	_
+23	brzy	_	_	_	_	_	_	_	_
+24	přerušeny	_	_	_	_	_	_	_	_
+25	:	_	_	_	_	_	_	_	_
+26	nový	_	_	_	_	_	_	_	_
+27	britský	_	_	_	_	_	_	_	_
+28	premiér	_	_	_	_	_	_	_	_
+29	,	_	_	_	_	_	_	_	_
+30	lord	_	_	_	_	_	_	_	_
+31	Grenville	_	_	_	_	_	_	_	_
+32	odmítl	_	_	_	_	_	_	_	_
+33	jakoukoliv	_	_	_	_	_	_	_	_
+34	dohodu	_	_	_	_	_	_	_	_
+35	,	_	_	_	_	_	_	_	_
+36	a	_	_	_	_	_	_	_	_
+37	stejně	_	_	_	_	_	_	_	_
+38	tak	_	_	_	_	_	_	_	_
+39	i	_	_	_	_	_	_	_	_
+40	car	_	_	_	_	_	_	_	_
+41	Alexandr	_	_	_	_	_	_	_	_
+42	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01017008
+# text = „Ale je možné, že BA a IAG to překonaly a mohou nabízet něco trochu spolehlivého.“
+# orig_file_sentence test001#35
+# text_en = "But it may be that BA and IAG have cracked it and can offer something vaguely reliable."
+1	„	_	_	_	_	_	_	_	_
+2	Ale	_	_	_	_	_	_	_	_
+3	je	_	_	_	_	_	_	_	_
+4	možné	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	že	_	_	_	_	_	_	_	_
+7	BA	_	_	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	IAG	_	_	_	_	_	_	_	_
+10	to	_	_	_	_	_	_	_	_
+11	překonaly	_	_	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	mohou	_	_	_	_	_	_	_	_
+14	nabízet	_	_	_	_	_	_	_	_
+15	něco	_	_	_	_	_	_	_	_
+16	trochu	_	_	_	_	_	_	_	_
+17	spolehlivého	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+19	“	_	_	_	_	_	_	_	_
+
+# newdoc id = w04004
+# sent_id = w04004005
+# text = Vnitřní část regionu je plochá a kopcovitá, bez jasného rozlišování přechodu z jedné oblasti do druhé.
+# orig_file_sentence test010#59
+# text_en = The inner part of the region is flat and hilly, with no clear distinction between one area to the next.
+1	Vnitřní	_	_	_	_	_	_	_	_
+2	část	_	_	_	_	_	_	_	_
+3	regionu	_	_	_	_	_	_	_	_
+4	je	_	_	_	_	_	_	_	_
+5	plochá	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	kopcovitá	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	bez	_	_	_	_	_	_	_	_
+10	jasného	_	_	_	_	_	_	_	_
+11	rozlišování	_	_	_	_	_	_	_	_
+12	přechodu	_	_	_	_	_	_	_	_
+13	z	_	_	_	_	_	_	_	_
+14	jedné	_	_	_	_	_	_	_	_
+15	oblasti	_	_	_	_	_	_	_	_
+16	do	_	_	_	_	_	_	_	_
+17	druhé	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n01149
+# sent_id = n01149002
+# text = Pchjongjangské metro se nachází 100 m (328 stop) pod zemí a je jedním z nejhlubších transportních systémů na světě.
+# orig_file_sentence test004#71
+# text_en = Buried 100 meters (328 feet) underground, the Pyongyang Metro is one of the deepest commuter systems in the world.
+1	Pchjongjangské	_	_	_	_	_	_	_	_
+2	metro	_	_	_	_	_	_	_	_
+3	se	_	_	_	_	_	_	_	_
+4	nachází	_	_	_	_	_	_	_	_
+5	100	_	_	_	_	_	_	_	_
+6	m	_	_	_	_	_	_	_	_
+7	(	_	_	_	_	_	_	_	_
+8	328	_	_	_	_	_	_	_	_
+9	stop	_	_	_	_	_	_	_	_
+10	)	_	_	_	_	_	_	_	_
+11	pod	_	_	_	_	_	_	_	_
+12	zemí	_	_	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	je	_	_	_	_	_	_	_	_
+15	jedním	_	_	_	_	_	_	_	_
+16	z	_	_	_	_	_	_	_	_
+17	nejhlubších	_	_	_	_	_	_	_	_
+18	transportních	_	_	_	_	_	_	_	_
+19	systémů	_	_	_	_	_	_	_	_
+20	na	_	_	_	_	_	_	_	_
+21	světě	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w01116
+# sent_id = w01116036
+# text = První vydání mělo pouze 3000 výtisků.
+# orig_file_sentence test007#65
+# text_en = Only 3000 copies were published of the first edition.
+1	První	_	_	_	_	_	_	_	_
+2	vydání	_	_	_	_	_	_	_	_
+3	mělo	_	_	_	_	_	_	_	_
+4	pouze	_	_	_	_	_	_	_	_
+5	3000	_	_	_	_	_	_	_	_
+6	výtisků	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01132081
+# text = Lodě se v prehistorické ikonografii nebo textech z oblasti Mezoameriky neobjevují, namísto toho existuje teorie, že staří Mayové užívali jako hlavní způsob dopravy po vodě kanoe.
+# orig_file_sentence test007#100
+# text_en = Sails are not represented in prehistoric Mesoamerican iconography or texts, instead, it is theorized that canoes were used as a primary mode of water transportation for the ancient Maya.
+1	Lodě	_	_	_	_	_	_	_	_
+2	se	_	_	_	_	_	_	_	_
+3	v	_	_	_	_	_	_	_	_
+4	prehistorické	_	_	_	_	_	_	_	_
+5	ikonografii	_	_	_	_	_	_	_	_
+6	nebo	_	_	_	_	_	_	_	_
+7	textech	_	_	_	_	_	_	_	_
+8	z	_	_	_	_	_	_	_	_
+9	oblasti	_	_	_	_	_	_	_	_
+10	Mezoameriky	_	_	_	_	_	_	_	_
+11	neobjevují	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	namísto	_	_	_	_	_	_	_	_
+14	toho	_	_	_	_	_	_	_	_
+15	existuje	_	_	_	_	_	_	_	_
+16	teorie	_	_	_	_	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	že	_	_	_	_	_	_	_	_
+19	staří	_	_	_	_	_	_	_	_
+20	Mayové	_	_	_	_	_	_	_	_
+21	užívali	_	_	_	_	_	_	_	_
+22	jako	_	_	_	_	_	_	_	_
+23	hlavní	_	_	_	_	_	_	_	_
+24	způsob	_	_	_	_	_	_	_	_
+25	dopravy	_	_	_	_	_	_	_	_
+26	po	_	_	_	_	_	_	_	_
+27	vodě	_	_	_	_	_	_	_	_
+28	kanoe	_	_	_	_	_	_	_	_
+29	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w01048
+# sent_id = w01048027
+# text = V padesátých letech čtrnáctého století, když se začala hroutit dynastie Jüan, mohl král Kongmin konečně reformovat vládu říše Korjo.
+# orig_file_sentence test005#96
+# text_en = In the 1350s, King Gongmin was free at last to reform the Goryeo government when the Yuan dynasty began to crumble.
+1	V	_	_	_	_	_	_	_	_
+2	padesátých	_	_	_	_	_	_	_	_
+3	letech	_	_	_	_	_	_	_	_
+4	čtrnáctého	_	_	_	_	_	_	_	_
+5	století	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	když	_	_	_	_	_	_	_	_
+8	se	_	_	_	_	_	_	_	_
+9	začala	_	_	_	_	_	_	_	_
+10	hroutit	_	_	_	_	_	_	_	_
+11	dynastie	_	_	_	_	_	_	_	_
+12	Jüan	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	mohl	_	_	_	_	_	_	_	_
+15	král	_	_	_	_	_	_	_	_
+16	Kongmin	_	_	_	_	_	_	_	_
+17	konečně	_	_	_	_	_	_	_	_
+18	reformovat	_	_	_	_	_	_	_	_
+19	vládu	_	_	_	_	_	_	_	_
+20	říše	_	_	_	_	_	_	_	_
+21	Korjo	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01134062
+# text = V roce 1955 začal Mišima s posilováním a svůj tréninkový režim sestávající ze tří tréninků týdně nepřerušil posledních 15 let svého života.
+# orig_file_sentence test008#4
+# text_en = In 1955, Mishima took up weight training and his workout regimen of three sessions per week was not disrupted for the final 15 years of his life.
+1	V	_	_	_	_	_	_	_	_
+2	roce	_	_	_	_	_	_	_	_
+3	1955	_	_	_	_	_	_	_	_
+4	začal	_	_	_	_	_	_	_	_
+5	Mišima	_	_	_	_	_	_	_	_
+6	s	_	_	_	_	_	_	_	_
+7	posilováním	_	_	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	svůj	_	_	_	_	_	_	_	_
+10	tréninkový	_	_	_	_	_	_	_	_
+11	režim	_	_	_	_	_	_	_	_
+12	sestávající	_	_	_	_	_	_	_	_
+13	ze	_	_	_	_	_	_	_	_
+14	tří	_	_	_	_	_	_	_	_
+15	tréninků	_	_	_	_	_	_	_	_
+16	týdně	_	_	_	_	_	_	_	_
+17	nepřerušil	_	_	_	_	_	_	_	_
+18	posledních	_	_	_	_	_	_	_	_
+19	15	_	_	_	_	_	_	_	_
+20	let	_	_	_	_	_	_	_	_
+21	svého	_	_	_	_	_	_	_	_
+22	života	_	_	_	_	_	_	_	_
+23	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01118017
+# text = „Filmařina se natolik změnila, že Hollywood se rodinám jako divákům odcizil.“
+# orig_file_sentence test003#92
+# text_en = "Cinema had changed so drastically that Hollywood had alienated the family audience."
+1	„	_	_	_	_	_	_	_	_
+2	Filmařina	_	_	_	_	_	_	_	_
+3	se	_	_	_	_	_	_	_	_
+4	natolik	_	_	_	_	_	_	_	_
+5	změnila	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	že	_	_	_	_	_	_	_	_
+8	Hollywood	_	_	_	_	_	_	_	_
+9	se	_	_	_	_	_	_	_	_
+10	rodinám	_	_	_	_	_	_	_	_
+11	jako	_	_	_	_	_	_	_	_
+12	divákům	_	_	_	_	_	_	_	_
+13	odcizil	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+15	“	_	_	_	_	_	_	_	_
+
+# sent_id = w01084102
+# text = Kontakt se Západem během 16. století, kdy byly vybudovány výnosné obchodní stezky, vedl k období velkého ekonomického rozkvětu.
+# orig_file_sentence test006#90
+# text_en = This contact with the West during the 16th century lead to a period of profound economic growth as lucrative trade routes were established.
+1	Kontakt	_	_	_	_	_	_	_	_
+2	se	_	_	_	_	_	_	_	_
+3	Západem	_	_	_	_	_	_	_	_
+4	během	_	_	_	_	_	_	_	_
+5	16	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+7	století	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	kdy	_	_	_	_	_	_	_	_
+10	byly	_	_	_	_	_	_	_	_
+11	vybudovány	_	_	_	_	_	_	_	_
+12	výnosné	_	_	_	_	_	_	_	_
+13	obchodní	_	_	_	_	_	_	_	_
+14	stezky	_	_	_	_	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	vedl	_	_	_	_	_	_	_	_
+17	k	_	_	_	_	_	_	_	_
+18	období	_	_	_	_	_	_	_	_
+19	velkého	_	_	_	_	_	_	_	_
+20	ekonomického	_	_	_	_	_	_	_	_
+21	rozkvětu	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01142008
+# text = „Musím pogratulovat Andymu – stát se světovou jedničkou je neuvěřitelný úspěch,“ řekl Američan.
+# orig_file_sentence test004#51
+# text_en = "I have to congratulate Andy -- to get to No. 1 in the world that's an incredible achievement," the American said.
+1	„	_	_	_	_	_	_	_	_
+2	Musím	_	_	_	_	_	_	_	_
+3	pogratulovat	_	_	_	_	_	_	_	_
+4	Andymu	_	_	_	_	_	_	_	_
+5	–	_	_	_	_	_	_	_	_
+6	stát	_	_	_	_	_	_	_	_
+7	se	_	_	_	_	_	_	_	_
+8	světovou	_	_	_	_	_	_	_	_
+9	jedničkou	_	_	_	_	_	_	_	_
+10	je	_	_	_	_	_	_	_	_
+11	neuvěřitelný	_	_	_	_	_	_	_	_
+12	úspěch	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	“	_	_	_	_	_	_	_	_
+15	řekl	_	_	_	_	_	_	_	_
+16	Američan	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01115013
+# text = Minulý rok byl neuvěřitelný a těším se na to, že v roce 2017 bude další ještě lepší ročník.
+# orig_file_sentence test003#83
+# text_en = Last year was an incredible year and I’m ready for us to come back even better in 2017.
+1	Minulý	_	_	_	_	_	_	_	_
+2	rok	_	_	_	_	_	_	_	_
+3	byl	_	_	_	_	_	_	_	_
+4	neuvěřitelný	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	těším	_	_	_	_	_	_	_	_
+7	se	_	_	_	_	_	_	_	_
+8	na	_	_	_	_	_	_	_	_
+9	to	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	že	_	_	_	_	_	_	_	_
+12	v	_	_	_	_	_	_	_	_
+13	roce	_	_	_	_	_	_	_	_
+14	2017	_	_	_	_	_	_	_	_
+15	bude	_	_	_	_	_	_	_	_
+16	další	_	_	_	_	_	_	_	_
+17	ještě	_	_	_	_	_	_	_	_
+18	lepší	_	_	_	_	_	_	_	_
+19	ročník	_	_	_	_	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01004017
+# text = Ve čtvrté třídě dosahují národního průměru, a v osmé jsou nad ním.
+# orig_file_sentence test001#11
+# text_en = They are at the national average in grade 4 and better than national average in grade 8.
+1	Ve	_	_	_	_	_	_	_	_
+2	čtvrté	_	_	_	_	_	_	_	_
+3	třídě	_	_	_	_	_	_	_	_
+4	dosahují	_	_	_	_	_	_	_	_
+5	národního	_	_	_	_	_	_	_	_
+6	průměru	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	v	_	_	_	_	_	_	_	_
+10	osmé	_	_	_	_	_	_	_	_
+11	jsou	_	_	_	_	_	_	_	_
+12	nad	_	_	_	_	_	_	_	_
+13	ním	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = w02013093
+# text = Po ruské revoluci v roce 1917 získaly některé země, například Finsko, Polsko a Pobaltí, svou nezávislost.
+# orig_file_sentence test010#10
+# text_en = After the Russian Revolution in 1917, some countries, such as Finland, Poland and the Baltic States, won their independence.
+1	Po	_	_	_	_	_	_	_	_
+2	ruské	_	_	_	_	_	_	_	_
+3	revoluci	_	_	_	_	_	_	_	_
+4	v	_	_	_	_	_	_	_	_
+5	roce	_	_	_	_	_	_	_	_
+6	1917	_	_	_	_	_	_	_	_
+7	získaly	_	_	_	_	_	_	_	_
+8	některé	_	_	_	_	_	_	_	_
+9	země	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	například	_	_	_	_	_	_	_	_
+12	Finsko	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	Polsko	_	_	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	Pobaltí	_	_	_	_	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	svou	_	_	_	_	_	_	_	_
+19	nezávislost	_	_	_	_	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w01003
+# sent_id = w01003051
+# text = Dobrými příklady jsou Liniové ostrovy v Tichém oceánu a Maledivy v Indickém oceánu.
+# orig_file_sentence test004#80
+# text_en = Examples are the Line Islands in the Pacific and the Maldives in the Indian Ocean.
+1	Dobrými	_	_	_	_	_	_	_	_
+2	příklady	_	_	_	_	_	_	_	_
+3	jsou	_	_	_	_	_	_	_	_
+4	Liniové	_	_	_	_	_	_	_	_
+5	ostrovy	_	_	_	_	_	_	_	_
+6	v	_	_	_	_	_	_	_	_
+7	Tichém	_	_	_	_	_	_	_	_
+8	oceánu	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	Maledivy	_	_	_	_	_	_	_	_
+11	v	_	_	_	_	_	_	_	_
+12	Indickém	_	_	_	_	_	_	_	_
+13	oceánu	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = w02013076
+# text = Po převzetí moci národními socialisty v roce 1933 existovaly roztroušené snahy získat zpět staré kolonie.
+# orig_file_sentence test010#9
+# text_en = After the seizure of power by the National Socialists in 1933 there were dispersed attempts to win back the old colonies.
+1	Po	_	_	_	_	_	_	_	_
+2	převzetí	_	_	_	_	_	_	_	_
+3	moci	_	_	_	_	_	_	_	_
+4	národními	_	_	_	_	_	_	_	_
+5	socialisty	_	_	_	_	_	_	_	_
+6	v	_	_	_	_	_	_	_	_
+7	roce	_	_	_	_	_	_	_	_
+8	1933	_	_	_	_	_	_	_	_
+9	existovaly	_	_	_	_	_	_	_	_
+10	roztroušené	_	_	_	_	_	_	_	_
+11	snahy	_	_	_	_	_	_	_	_
+12	získat	_	_	_	_	_	_	_	_
+13	zpět	_	_	_	_	_	_	_	_
+14	staré	_	_	_	_	_	_	_	_
+15	kolonie	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01001013
+# text = Pro ty, kteří sledují předávání účtů na sociálních sítích na Capitol Hill, to bude trochu jiné.
+# orig_file_sentence test001#2
+# text_en = For those who follow social media transitions on Capitol Hill, this will be a little different.
+1	Pro	_	_	_	_	_	_	_	_
+2	ty	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	kteří	_	_	_	_	_	_	_	_
+5	sledují	_	_	_	_	_	_	_	_
+6	předávání	_	_	_	_	_	_	_	_
+7	účtů	_	_	_	_	_	_	_	_
+8	na	_	_	_	_	_	_	_	_
+9	sociálních	_	_	_	_	_	_	_	_
+10	sítích	_	_	_	_	_	_	_	_
+11	na	_	_	_	_	_	_	_	_
+12	Capitol	_	_	_	_	_	_	_	_
+13	Hill	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	to	_	_	_	_	_	_	_	_
+16	bude	_	_	_	_	_	_	_	_
+17	trochu	_	_	_	_	_	_	_	_
+18	jiné	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01073054
+# text = Editor Stephen Wheeler nedopřál Kiplingovi oddechu, ale Kiplingova potřeba psát byla neúnavná.
+# orig_file_sentence test006#64
+# text_en = Stephen Wheeler, the editor, worked Kipling hard, but Kipling's need to write was unstoppable.
+1	Editor	_	_	_	_	_	_	_	_
+2	Stephen	_	_	_	_	_	_	_	_
+3	Wheeler	_	_	_	_	_	_	_	_
+4	nedopřál	_	_	_	_	_	_	_	_
+5	Kiplingovi	_	_	_	_	_	_	_	_
+6	oddechu	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	ale	_	_	_	_	_	_	_	_
+9	Kiplingova	_	_	_	_	_	_	_	_
+10	potřeba	_	_	_	_	_	_	_	_
+11	psát	_	_	_	_	_	_	_	_
+12	byla	_	_	_	_	_	_	_	_
+13	neúnavná	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n02081
+# sent_id = n02081019
+# text = Proto protivné příznaky zcela nezmizí: Podle informací ze zpráv agentury DPA budou aktivovány například pouze v případě, že umělec nebo hudební vydavatelství nejsou členem svazu GEMA a nemají smlouvu s YouTube.
+# orig_file_sentence test008#78
+# text_en = Therefore the irksome signs will not completely disappear: According to information from the news agency dpa, they will only be activated if, for instance, the artist or record label is not a member of GEMA and does not have an agreement with YouTube.
+1	Proto	_	_	_	_	_	_	_	_
+2	protivné	_	_	_	_	_	_	_	_
+3	příznaky	_	_	_	_	_	_	_	_
+4	zcela	_	_	_	_	_	_	_	_
+5	nezmizí	_	_	_	_	_	_	_	_
+6	:	_	_	_	_	_	_	_	_
+7	Podle	_	_	_	_	_	_	_	_
+8	informací	_	_	_	_	_	_	_	_
+9	ze	_	_	_	_	_	_	_	_
+10	zpráv	_	_	_	_	_	_	_	_
+11	agentury	_	_	_	_	_	_	_	_
+12	DPA	_	_	_	_	_	_	_	_
+13	budou	_	_	_	_	_	_	_	_
+14	aktivovány	_	_	_	_	_	_	_	_
+15	například	_	_	_	_	_	_	_	_
+16	pouze	_	_	_	_	_	_	_	_
+17	v	_	_	_	_	_	_	_	_
+18	případě	_	_	_	_	_	_	_	_
+19	,	_	_	_	_	_	_	_	_
+20	že	_	_	_	_	_	_	_	_
+21	umělec	_	_	_	_	_	_	_	_
+22	nebo	_	_	_	_	_	_	_	_
+23	hudební	_	_	_	_	_	_	_	_
+24	vydavatelství	_	_	_	_	_	_	_	_
+25	nejsou	_	_	_	_	_	_	_	_
+26	členem	_	_	_	_	_	_	_	_
+27	svazu	_	_	_	_	_	_	_	_
+28	GEMA	_	_	_	_	_	_	_	_
+29	a	_	_	_	_	_	_	_	_
+30	nemají	_	_	_	_	_	_	_	_
+31	smlouvu	_	_	_	_	_	_	_	_
+32	s	_	_	_	_	_	_	_	_
+33	YouTube	_	_	_	_	_	_	_	_
+34	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01035025
+# text = „Nejsme toho názoru, že podezřelý má vazby k této škole, k těmto dvěma dívkám nebo specificky k oblasti Abbotsfordu,“ řekla.
+# orig_file_sentence test001#88
+# text_en = "We do not believe the suspect has ties to this school, or to the two girls, or specifically to the Abbotsford area," she said.
+1	„	_	_	_	_	_	_	_	_
+2	Nejsme	_	_	_	_	_	_	_	_
+3	toho	_	_	_	_	_	_	_	_
+4	názoru	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	že	_	_	_	_	_	_	_	_
+7	podezřelý	_	_	_	_	_	_	_	_
+8	má	_	_	_	_	_	_	_	_
+9	vazby	_	_	_	_	_	_	_	_
+10	k	_	_	_	_	_	_	_	_
+11	této	_	_	_	_	_	_	_	_
+12	škole	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	k	_	_	_	_	_	_	_	_
+15	těmto	_	_	_	_	_	_	_	_
+16	dvěma	_	_	_	_	_	_	_	_
+17	dívkám	_	_	_	_	_	_	_	_
+18	nebo	_	_	_	_	_	_	_	_
+19	specificky	_	_	_	_	_	_	_	_
+20	k	_	_	_	_	_	_	_	_
+21	oblasti	_	_	_	_	_	_	_	_
+22	Abbotsfordu	_	_	_	_	_	_	_	_
+23	,	_	_	_	_	_	_	_	_
+24	“	_	_	_	_	_	_	_	_
+25	řekla	_	_	_	_	_	_	_	_
+26	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01039039
+# text = Trumpova manželka, Melanie Trumpová, se poprvé od republikánského sjezdu ukázala v kampani.
+# orig_file_sentence test001#98
+# text_en = Trump's wife, Melania Trump, made her first appearance on the trail since the Republican convention in July.
+1	Trumpova	_	_	_	_	_	_	_	_
+2	manželka	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	Melanie	_	_	_	_	_	_	_	_
+5	Trumpová	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	se	_	_	_	_	_	_	_	_
+8	poprvé	_	_	_	_	_	_	_	_
+9	od	_	_	_	_	_	_	_	_
+10	republikánského	_	_	_	_	_	_	_	_
+11	sjezdu	_	_	_	_	_	_	_	_
+12	ukázala	_	_	_	_	_	_	_	_
+13	v	_	_	_	_	_	_	_	_
+14	kampani	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01109022
+# text = Je to drahý standard nebo zálohový tarif?
+# orig_file_sentence test003#68
+# text_en = Or is it an expensive standard or prepayment tariff?
+1	Je	_	_	_	_	_	_	_	_
+2	to	_	_	_	_	_	_	_	_
+3	drahý	_	_	_	_	_	_	_	_
+4	standard	_	_	_	_	_	_	_	_
+5	nebo	_	_	_	_	_	_	_	_
+6	zálohový	_	_	_	_	_	_	_	_
+7	tarif	_	_	_	_	_	_	_	_
+8	?	_	_	_	_	_	_	_	_
+
+# sent_id = w01115024
+# text = 21. dubna 1882 zakončil studium a obdržel titul M.A.
+# orig_file_sentence test007#62
+# text_en = He graduated and obtained an M.A. on 21 April 1882.
+1	21	_	_	_	_	_	_	_	_
+2	.	_	_	_	_	_	_	_	_
+3	dubna	_	_	_	_	_	_	_	_
+4	1882	_	_	_	_	_	_	_	_
+5	zakončil	_	_	_	_	_	_	_	_
+6	studium	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	obdržel	_	_	_	_	_	_	_	_
+9	titul	_	_	_	_	_	_	_	_
+10	M	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+12	A	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w04003
+# sent_id = w04003025
+# text = V srpnu 1969 papež Pavel VI. odstranil trest smrti z vatikánského zákona a zrušil ho při všech trestných činech.
+# orig_file_sentence test010#57
+# text_en = In August 1969, Pope Paul VI removed the death penalty from the Vatican law and revoked it from all offences.
+1	V	_	_	_	_	_	_	_	_
+2	srpnu	_	_	_	_	_	_	_	_
+3	1969	_	_	_	_	_	_	_	_
+4	papež	_	_	_	_	_	_	_	_
+5	Pavel	_	_	_	_	_	_	_	_
+6	VI	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+8	odstranil	_	_	_	_	_	_	_	_
+9	trest	_	_	_	_	_	_	_	_
+10	smrti	_	_	_	_	_	_	_	_
+11	z	_	_	_	_	_	_	_	_
+12	vatikánského	_	_	_	_	_	_	_	_
+13	zákona	_	_	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	zrušil	_	_	_	_	_	_	_	_
+16	ho	_	_	_	_	_	_	_	_
+17	při	_	_	_	_	_	_	_	_
+18	všech	_	_	_	_	_	_	_	_
+19	trestných	_	_	_	_	_	_	_	_
+20	činech	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01092040
+# text = Bylo citováno jeho následující prohlášení: „Intenzivně přemýšlíme, jak otevřít možnost soudit se pouze těm, kteří mají v projektu nějakou konkrétní roli.“
+# orig_file_sentence test003#24
+# text_en = “We are actively thinking of possible ways to limit the scope of litigation to only those with a real standing in a project,” he was quoted as saying.
+1	Bylo	_	_	_	_	_	_	_	_
+2	citováno	_	_	_	_	_	_	_	_
+3	jeho	_	_	_	_	_	_	_	_
+4	následující	_	_	_	_	_	_	_	_
+5	prohlášení	_	_	_	_	_	_	_	_
+6	:	_	_	_	_	_	_	_	_
+7	„	_	_	_	_	_	_	_	_
+8	Intenzivně	_	_	_	_	_	_	_	_
+9	přemýšlíme	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	jak	_	_	_	_	_	_	_	_
+12	otevřít	_	_	_	_	_	_	_	_
+13	možnost	_	_	_	_	_	_	_	_
+14	soudit	_	_	_	_	_	_	_	_
+15	se	_	_	_	_	_	_	_	_
+16	pouze	_	_	_	_	_	_	_	_
+17	těm	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	kteří	_	_	_	_	_	_	_	_
+20	mají	_	_	_	_	_	_	_	_
+21	v	_	_	_	_	_	_	_	_
+22	projektu	_	_	_	_	_	_	_	_
+23	nějakou	_	_	_	_	_	_	_	_
+24	konkrétní	_	_	_	_	_	_	_	_
+25	roli	_	_	_	_	_	_	_	_
+26	.	_	_	_	_	_	_	_	_
+27	“	_	_	_	_	_	_	_	_
+
+# newdoc id = w01084
+# sent_id = w01084085
+# text = Tento městský stát vznikl ve stejné době jako Sukhothai.
+# orig_file_sentence test006#89
+# text_en = This city-state emerged in the same period as Sukhothai.
+1	Tento	_	_	_	_	_	_	_	_
+2	městský	_	_	_	_	_	_	_	_
+3	stát	_	_	_	_	_	_	_	_
+4	vznikl	_	_	_	_	_	_	_	_
+5	ve	_	_	_	_	_	_	_	_
+6	stejné	_	_	_	_	_	_	_	_
+7	době	_	_	_	_	_	_	_	_
+8	jako	_	_	_	_	_	_	_	_
+9	Sukhothai	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = n03006008
+# text = I když většina situací, které vznikají na pracovišti, může být vyřešena bez konfliktu.
+# orig_file_sentence test009#12
+# text_en = Even if the majority of situations that arise in the workplace can be resolved without conflict.
+1	I	_	_	_	_	_	_	_	_
+2	když	_	_	_	_	_	_	_	_
+3	většina	_	_	_	_	_	_	_	_
+4	situací	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	které	_	_	_	_	_	_	_	_
+7	vznikají	_	_	_	_	_	_	_	_
+8	na	_	_	_	_	_	_	_	_
+9	pracovišti	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	může	_	_	_	_	_	_	_	_
+12	být	_	_	_	_	_	_	_	_
+13	vyřešena	_	_	_	_	_	_	_	_
+14	bez	_	_	_	_	_	_	_	_
+15	konfliktu	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01091017
+# text = Jeff Knott, jejich šéf zodpovědný za životní prostředí, uvedl: „Divil bych se, kdyby to vedlo k zákazu nebo k povolení.“
+# orig_file_sentence test003#23
+# text_en = Their head of nature policy, Jeff Knott, stated: “I’d be amazed if either a ban or licensing was introduced off the back of it”.
+1	Jeff	_	_	_	_	_	_	_	_
+2	Knott	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	jejich	_	_	_	_	_	_	_	_
+5	šéf	_	_	_	_	_	_	_	_
+6	zodpovědný	_	_	_	_	_	_	_	_
+7	za	_	_	_	_	_	_	_	_
+8	životní	_	_	_	_	_	_	_	_
+9	prostředí	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	uvedl	_	_	_	_	_	_	_	_
+12	:	_	_	_	_	_	_	_	_
+13	„	_	_	_	_	_	_	_	_
+14	Divil	_	_	_	_	_	_	_	_
+15	bych	_	_	_	_	_	_	_	_
+16	se	_	_	_	_	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	když	_	_	_	_	_	_	_	_
+19	by	_	_	_	_	_	_	_	_
+20	to	_	_	_	_	_	_	_	_
+21	vedlo	_	_	_	_	_	_	_	_
+22	k	_	_	_	_	_	_	_	_
+23	zákazu	_	_	_	_	_	_	_	_
+24	nebo	_	_	_	_	_	_	_	_
+25	k	_	_	_	_	_	_	_	_
+26	povolení	_	_	_	_	_	_	_	_
+27	.	_	_	_	_	_	_	_	_
+28	“	_	_	_	_	_	_	_	_
+
+# sent_id = w02011029
+# text = Prohlašuji první mezinárodní olympijské hry za skončené.
+# orig_file_sentence test010#5
+# text_en = I declare the first international Olympic games over.
+1	Prohlašuji	_	_	_	_	_	_	_	_
+2	první	_	_	_	_	_	_	_	_
+3	mezinárodní	_	_	_	_	_	_	_	_
+4	olympijské	_	_	_	_	_	_	_	_
+5	hry	_	_	_	_	_	_	_	_
+6	za	_	_	_	_	_	_	_	_
+7	skončené	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w01004
+# sent_id = w01004051
+# text = Řecký městský stát Atény, jenž byl v pátém století před Kristem zcela závislý na dovozu obilí ze Skýtie, udržoval životně důležitá spojenectví s městy, která kontrolovala průlivy, například s megarskou kolonií Byzantion.
+# orig_file_sentence test004#83
+# text_en = The Greek city-state of Athens in the 5th century BC, which was dependent on grain imports from Scythia, maintained critical alliances with cities which controlled the straits, such as the Megarian colony Byzantium.
+1	Řecký	_	_	_	_	_	_	_	_
+2	městský	_	_	_	_	_	_	_	_
+3	stát	_	_	_	_	_	_	_	_
+4	Atény	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	jenž	_	_	_	_	_	_	_	_
+7	byl	_	_	_	_	_	_	_	_
+8	v	_	_	_	_	_	_	_	_
+9	pátém	_	_	_	_	_	_	_	_
+10	století	_	_	_	_	_	_	_	_
+11	před	_	_	_	_	_	_	_	_
+12	Kristem	_	_	_	_	_	_	_	_
+13	zcela	_	_	_	_	_	_	_	_
+14	závislý	_	_	_	_	_	_	_	_
+15	na	_	_	_	_	_	_	_	_
+16	dovozu	_	_	_	_	_	_	_	_
+17	obilí	_	_	_	_	_	_	_	_
+18	ze	_	_	_	_	_	_	_	_
+19	Skýtie	_	_	_	_	_	_	_	_
+20	,	_	_	_	_	_	_	_	_
+21	udržoval	_	_	_	_	_	_	_	_
+22	životně	_	_	_	_	_	_	_	_
+23	důležitá	_	_	_	_	_	_	_	_
+24	spojenectví	_	_	_	_	_	_	_	_
+25	s	_	_	_	_	_	_	_	_
+26	městy	_	_	_	_	_	_	_	_
+27	,	_	_	_	_	_	_	_	_
+28	která	_	_	_	_	_	_	_	_
+29	kontrolovala	_	_	_	_	_	_	_	_
+30	průlivy	_	_	_	_	_	_	_	_
+31	,	_	_	_	_	_	_	_	_
+32	například	_	_	_	_	_	_	_	_
+33	s	_	_	_	_	_	_	_	_
+34	megarskou	_	_	_	_	_	_	_	_
+35	kolonií	_	_	_	_	_	_	_	_
+36	Byzantion	_	_	_	_	_	_	_	_
+37	.	_	_	_	_	_	_	_	_
+
+# sent_id = n05003022
+# text = Baron de Claret, jediný ve vládě se vznešeným titulem.
+# orig_file_sentence test009#58
+# text_en = Barón de Claret, the only one in Government with a noble title.
+1	Baron	_	_	_	_	_	_	_	_
+2	de	_	_	_	_	_	_	_	_
+3	Claret	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	jediný	_	_	_	_	_	_	_	_
+6	ve	_	_	_	_	_	_	_	_
+7	vládě	_	_	_	_	_	_	_	_
+8	se	_	_	_	_	_	_	_	_
+9	vznešeným	_	_	_	_	_	_	_	_
+10	titulem	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n01011
+# sent_id = n01011004
+# text = Byla také obviněna z pokusu o zabití své dvouleté dcery.
+# orig_file_sentence test001#23
+# text_en = She has also been charged with trying to kill her two-year-old daughter.
+1	Byla	_	_	_	_	_	_	_	_
+2	také	_	_	_	_	_	_	_	_
+3	obviněna	_	_	_	_	_	_	_	_
+4	z	_	_	_	_	_	_	_	_
+5	pokusu	_	_	_	_	_	_	_	_
+6	o	_	_	_	_	_	_	_	_
+7	zabití	_	_	_	_	_	_	_	_
+8	své	_	_	_	_	_	_	_	_
+9	dvouleté	_	_	_	_	_	_	_	_
+10	dcery	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01009054
+# text = „Požádali jsme jiné země, aby nám pomohly rozšířit zoo o další druhy zvířat, včetně prasete,“ uvedl Saqib.
+# orig_file_sentence test001#20
+# text_en = “We’ve requested other nations to help us populate the zoo with different species of animals, including a pig,” Saqib said.
+1	„	_	_	_	_	_	_	_	_
+2	Požádali	_	_	_	_	_	_	_	_
+3	jsme	_	_	_	_	_	_	_	_
+4	jiné	_	_	_	_	_	_	_	_
+5	země	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	aby	_	_	_	_	_	_	_	_
+8	by	_	_	_	_	_	_	_	_
+9	nám	_	_	_	_	_	_	_	_
+10	pomohly	_	_	_	_	_	_	_	_
+11	rozšířit	_	_	_	_	_	_	_	_
+12	zoo	_	_	_	_	_	_	_	_
+13	o	_	_	_	_	_	_	_	_
+14	další	_	_	_	_	_	_	_	_
+15	druhy	_	_	_	_	_	_	_	_
+16	zvířat	_	_	_	_	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	včetně	_	_	_	_	_	_	_	_
+19	prasete	_	_	_	_	_	_	_	_
+20	,	_	_	_	_	_	_	_	_
+21	“	_	_	_	_	_	_	_	_
+22	uvedl	_	_	_	_	_	_	_	_
+23	Saqib	_	_	_	_	_	_	_	_
+24	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n01106
+# sent_id = n01106008
+# text = Z ročního průzkumu rovněž vyplynulo, že obavy z uzavírání nových finančních závazků vzrostly.
+# orig_file_sentence test003#59
+# text_en = The annual survey also revealed that worries about taking on fresh financial burdens has rocketed.
+1	Z	_	_	_	_	_	_	_	_
+2	ročního	_	_	_	_	_	_	_	_
+3	průzkumu	_	_	_	_	_	_	_	_
+4	rovněž	_	_	_	_	_	_	_	_
+5	vyplynulo	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	že	_	_	_	_	_	_	_	_
+8	obavy	_	_	_	_	_	_	_	_
+9	z	_	_	_	_	_	_	_	_
+10	uzavírání	_	_	_	_	_	_	_	_
+11	nových	_	_	_	_	_	_	_	_
+12	finančních	_	_	_	_	_	_	_	_
+13	závazků	_	_	_	_	_	_	_	_
+14	vzrostly	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01064096
+# text = Stejně jako mnoho mých známých jsem poslední měsíce trávil dlouhé večery u strašidelných průzkumů preferencí.
+# orig_file_sentence test002#55
+# text_en = Like many people I know, I’ve spent recent months staying up late, reading polls in terror.
+1	Stejně	_	_	_	_	_	_	_	_
+2	jako	_	_	_	_	_	_	_	_
+3	mnoho	_	_	_	_	_	_	_	_
+4	mých	_	_	_	_	_	_	_	_
+5	známých	_	_	_	_	_	_	_	_
+6	jsem	_	_	_	_	_	_	_	_
+7	poslední	_	_	_	_	_	_	_	_
+8	měsíce	_	_	_	_	_	_	_	_
+9	trávil	_	_	_	_	_	_	_	_
+10	dlouhé	_	_	_	_	_	_	_	_
+11	večery	_	_	_	_	_	_	_	_
+12	u	_	_	_	_	_	_	_	_
+13	strašidelných	_	_	_	_	_	_	_	_
+14	průzkumů	_	_	_	_	_	_	_	_
+15	preferencí	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+

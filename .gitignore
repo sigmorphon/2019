@@ -1,0 +1,5 @@
+task1/*/*-test
+!task1/*/*-test-covered
+
+task2/*/*-test.conllu
+!task2/*/*-covered-test.conllu

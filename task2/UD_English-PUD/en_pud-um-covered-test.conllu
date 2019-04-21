@@ -1,0 +1,2376 @@
+# sent_id = n01003012
+# text = The gathering was originally slated for Washington’s private Metropolitan Club on H Street a few blocks away.
+1	The	_	_	_	_	_	_	_	_
+2	gathering	_	_	_	_	_	_	_	_
+3	was	_	_	_	_	_	_	_	_
+4	originally	_	_	_	_	_	_	_	_
+5	slated	_	_	_	_	_	_	_	_
+6	for	_	_	_	_	_	_	_	_
+7	Washington	_	_	_	_	_	_	_	_
+8	’s	_	_	_	_	_	_	_	_
+9	private	_	_	_	_	_	_	_	_
+10	Metropolitan	_	_	_	_	_	_	_	_
+11	Club	_	_	_	_	_	_	_	_
+12	on	_	_	_	_	_	_	_	_
+13	H	_	_	_	_	_	_	_	_
+14	Street	_	_	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	few	_	_	_	_	_	_	_	_
+17	blocks	_	_	_	_	_	_	_	_
+18	away	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = n03006028
+# text = The Force Ouvrière union regrets that its remarks on the content of the guide were not included: "There wasn't really any consultation," said Ms. Gillard.
+1	The	_	_	_	_	_	_	_	_
+2	Force	_	_	_	_	_	_	_	_
+3	Ouvrière	_	_	_	_	_	_	_	_
+4	union	_	_	_	_	_	_	_	_
+5	regrets	_	_	_	_	_	_	_	_
+6	that	_	_	_	_	_	_	_	_
+7	its	_	_	_	_	_	_	_	_
+8	remarks	_	_	_	_	_	_	_	_
+9	on	_	_	_	_	_	_	_	_
+10	the	_	_	_	_	_	_	_	_
+11	content	_	_	_	_	_	_	_	_
+12	of	_	_	_	_	_	_	_	_
+13	the	_	_	_	_	_	_	_	_
+14	guide	_	_	_	_	_	_	_	_
+15	were	_	_	_	_	_	_	_	_
+16	not	_	_	_	_	_	_	_	_
+17	included	_	_	_	_	_	_	_	_
+18	:	_	_	_	_	_	_	_	_
+19	"	_	_	_	_	_	_	_	_
+20	There	_	_	_	_	_	_	_	_
+21	was	_	_	_	_	_	_	_	_
+22	n't	_	_	_	_	_	_	_	_
+23	really	_	_	_	_	_	_	_	_
+24	any	_	_	_	_	_	_	_	_
+25	consultation	_	_	_	_	_	_	_	_
+26	,	_	_	_	_	_	_	_	_
+27	"	_	_	_	_	_	_	_	_
+28	said	_	_	_	_	_	_	_	_
+29	Ms.	_	_	_	_	_	_	_	_
+30	Gillard	_	_	_	_	_	_	_	_
+31	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01051080
+# text = Indeed, the first scholarly report on the battle, by James Henry Breasted in 1903, praised the sources that allowed the reconstruction the battle with certainty.
+1	Indeed	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	the	_	_	_	_	_	_	_	_
+4	first	_	_	_	_	_	_	_	_
+5	scholarly	_	_	_	_	_	_	_	_
+6	report	_	_	_	_	_	_	_	_
+7	on	_	_	_	_	_	_	_	_
+8	the	_	_	_	_	_	_	_	_
+9	battle	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	by	_	_	_	_	_	_	_	_
+12	James	_	_	_	_	_	_	_	_
+13	Henry	_	_	_	_	_	_	_	_
+14	Breasted	_	_	_	_	_	_	_	_
+15	in	_	_	_	_	_	_	_	_
+16	1903	_	_	_	_	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	praised	_	_	_	_	_	_	_	_
+19	the	_	_	_	_	_	_	_	_
+20	sources	_	_	_	_	_	_	_	_
+21	that	_	_	_	_	_	_	_	_
+22	allowed	_	_	_	_	_	_	_	_
+23	the	_	_	_	_	_	_	_	_
+24	reconstruction	_	_	_	_	_	_	_	_
+25	the	_	_	_	_	_	_	_	_
+26	battle	_	_	_	_	_	_	_	_
+27	with	_	_	_	_	_	_	_	_
+28	certainty	_	_	_	_	_	_	_	_
+29	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w01112
+# sent_id = w01112060
+# text = Disney also found out that Universal owned the intellectual property rights to Oswald.
+1	Disney	_	_	_	_	_	_	_	_
+2	also	_	_	_	_	_	_	_	_
+3	found	_	_	_	_	_	_	_	_
+4	out	_	_	_	_	_	_	_	_
+5	that	_	_	_	_	_	_	_	_
+6	Universal	_	_	_	_	_	_	_	_
+7	owned	_	_	_	_	_	_	_	_
+8	the	_	_	_	_	_	_	_	_
+9	intellectual	_	_	_	_	_	_	_	_
+10	property	_	_	_	_	_	_	_	_
+11	rights	_	_	_	_	_	_	_	_
+12	to	_	_	_	_	_	_	_	_
+13	Oswald	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01002042
+# text = The new spending is fueled by Clinton’s large bank account.
+1	The	_	_	_	_	_	_	_	_
+2	new	_	_	_	_	_	_	_	_
+3	spending	_	_	_	_	_	_	_	_
+4	is	_	_	_	_	_	_	_	_
+5	fueled	_	_	_	_	_	_	_	_
+6	by	_	_	_	_	_	_	_	_
+7	Clinton	_	_	_	_	_	_	_	_
+8	’s	_	_	_	_	_	_	_	_
+9	large	_	_	_	_	_	_	_	_
+10	bank	_	_	_	_	_	_	_	_
+11	account	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w01149
+# sent_id = w01149002
+# text = Wright was born in Poole, Dorset, but grew up predominantly in Wells, Somerset.
+1	Wright	_	_	_	_	_	_	_	_
+2	was	_	_	_	_	_	_	_	_
+3	born	_	_	_	_	_	_	_	_
+4	in	_	_	_	_	_	_	_	_
+5	Poole	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	Dorset	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	but	_	_	_	_	_	_	_	_
+10	grew	_	_	_	_	_	_	_	_
+11	up	_	_	_	_	_	_	_	_
+12	predominantly	_	_	_	_	_	_	_	_
+13	in	_	_	_	_	_	_	_	_
+14	Wells	_	_	_	_	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	Somerset	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n05003
+# sent_id = n05003006
+# text = The Minister of Defense has allowed her to remain General Secretary of the party for now.
+1	The	_	_	_	_	_	_	_	_
+2	Minister	_	_	_	_	_	_	_	_
+3	of	_	_	_	_	_	_	_	_
+4	Defense	_	_	_	_	_	_	_	_
+5	has	_	_	_	_	_	_	_	_
+6	allowed	_	_	_	_	_	_	_	_
+7	her	_	_	_	_	_	_	_	_
+8	to	_	_	_	_	_	_	_	_
+9	remain	_	_	_	_	_	_	_	_
+10	General	_	_	_	_	_	_	_	_
+11	Secretary	_	_	_	_	_	_	_	_
+12	of	_	_	_	_	_	_	_	_
+13	the	_	_	_	_	_	_	_	_
+14	party	_	_	_	_	_	_	_	_
+15	for	_	_	_	_	_	_	_	_
+16	now	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01105013
+# text = But right now everything is out of kilter and he seems to be seeking answers all the time.
+1	But	_	_	_	_	_	_	_	_
+2	right	_	_	_	_	_	_	_	_
+3	now	_	_	_	_	_	_	_	_
+4	everything	_	_	_	_	_	_	_	_
+5	is	_	_	_	_	_	_	_	_
+6	out	_	_	_	_	_	_	_	_
+7	of	_	_	_	_	_	_	_	_
+8	kilter	_	_	_	_	_	_	_	_
+9	and	_	_	_	_	_	_	_	_
+10	he	_	_	_	_	_	_	_	_
+11	seems	_	_	_	_	_	_	_	_
+12	to	_	_	_	_	_	_	_	_
+13	be	_	_	_	_	_	_	_	_
+14	seeking	_	_	_	_	_	_	_	_
+15	answers	_	_	_	_	_	_	_	_
+16	all	_	_	_	_	_	_	_	_
+17	the	_	_	_	_	_	_	_	_
+18	time	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01144086
+# text = Reagan believed that God had spared his life so that he might go on to fulfill a greater purpose.
+1	Reagan	_	_	_	_	_	_	_	_
+2	believed	_	_	_	_	_	_	_	_
+3	that	_	_	_	_	_	_	_	_
+4	God	_	_	_	_	_	_	_	_
+5	had	_	_	_	_	_	_	_	_
+6	spared	_	_	_	_	_	_	_	_
+7	his	_	_	_	_	_	_	_	_
+8	life	_	_	_	_	_	_	_	_
+9	so	_	_	_	_	_	_	_	_
+10	that	_	_	_	_	_	_	_	_
+11	he	_	_	_	_	_	_	_	_
+12	might	_	_	_	_	_	_	_	_
+13	go	_	_	_	_	_	_	_	_
+14	on	_	_	_	_	_	_	_	_
+15	to	_	_	_	_	_	_	_	_
+16	fulfill	_	_	_	_	_	_	_	_
+17	a	_	_	_	_	_	_	_	_
+18	greater	_	_	_	_	_	_	_	_
+19	purpose	_	_	_	_	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = w03002055
+# text = Amnesty International cites newspaper articles from 2008 describing the murder of fifty people accused of witchcraft.
+1	Amnesty	_	_	_	_	_	_	_	_
+2	International	_	_	_	_	_	_	_	_
+3	cites	_	_	_	_	_	_	_	_
+4	newspaper	_	_	_	_	_	_	_	_
+5	articles	_	_	_	_	_	_	_	_
+6	from	_	_	_	_	_	_	_	_
+7	2008	_	_	_	_	_	_	_	_
+8	describing	_	_	_	_	_	_	_	_
+9	the	_	_	_	_	_	_	_	_
+10	murder	_	_	_	_	_	_	_	_
+11	of	_	_	_	_	_	_	_	_
+12	fifty	_	_	_	_	_	_	_	_
+13	people	_	_	_	_	_	_	_	_
+14	accused	_	_	_	_	_	_	_	_
+15	of	_	_	_	_	_	_	_	_
+16	witchcraft	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = n05002023
+# text = Furthermore, the Government will have to deal with another "hot potato".
+1	Furthermore	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	the	_	_	_	_	_	_	_	_
+4	Government	_	_	_	_	_	_	_	_
+5	will	_	_	_	_	_	_	_	_
+6	have	_	_	_	_	_	_	_	_
+7	to	_	_	_	_	_	_	_	_
+8	deal	_	_	_	_	_	_	_	_
+9	with	_	_	_	_	_	_	_	_
+10	another	_	_	_	_	_	_	_	_
+11	"	_	_	_	_	_	_	_	_
+12	hot	_	_	_	_	_	_	_	_
+13	potato	_	_	_	_	_	_	_	_
+14	"	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01125037
+# text = George was appalled by what he saw as their loose morals.
+1	George	_	_	_	_	_	_	_	_
+2	was	_	_	_	_	_	_	_	_
+3	appalled	_	_	_	_	_	_	_	_
+4	by	_	_	_	_	_	_	_	_
+5	what	_	_	_	_	_	_	_	_
+6	he	_	_	_	_	_	_	_	_
+7	saw	_	_	_	_	_	_	_	_
+8	as	_	_	_	_	_	_	_	_
+9	their	_	_	_	_	_	_	_	_
+10	loose	_	_	_	_	_	_	_	_
+11	morals	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01047071
+# text = She also took advantage of her personal connections with many government scientists, who supplied her with confidential information.
+1	She	_	_	_	_	_	_	_	_
+2	also	_	_	_	_	_	_	_	_
+3	took	_	_	_	_	_	_	_	_
+4	advantage	_	_	_	_	_	_	_	_
+5	of	_	_	_	_	_	_	_	_
+6	her	_	_	_	_	_	_	_	_
+7	personal	_	_	_	_	_	_	_	_
+8	connections	_	_	_	_	_	_	_	_
+9	with	_	_	_	_	_	_	_	_
+10	many	_	_	_	_	_	_	_	_
+11	government	_	_	_	_	_	_	_	_
+12	scientists	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	who	_	_	_	_	_	_	_	_
+15	supplied	_	_	_	_	_	_	_	_
+16	her	_	_	_	_	_	_	_	_
+17	with	_	_	_	_	_	_	_	_
+18	confidential	_	_	_	_	_	_	_	_
+19	information	_	_	_	_	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01003013
+# text = Maybe the dress code was too stuffy.
+1	Maybe	_	_	_	_	_	_	_	_
+2	the	_	_	_	_	_	_	_	_
+3	dress	_	_	_	_	_	_	_	_
+4	code	_	_	_	_	_	_	_	_
+5	was	_	_	_	_	_	_	_	_
+6	too	_	_	_	_	_	_	_	_
+7	stuffy	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01075044
+# text = Australia, hardened by their recent games in the Rugby Championship, were in a higher gear.
+1	Australia	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	hardened	_	_	_	_	_	_	_	_
+4	by	_	_	_	_	_	_	_	_
+5	their	_	_	_	_	_	_	_	_
+6	recent	_	_	_	_	_	_	_	_
+7	games	_	_	_	_	_	_	_	_
+8	in	_	_	_	_	_	_	_	_
+9	the	_	_	_	_	_	_	_	_
+10	Rugby	_	_	_	_	_	_	_	_
+11	Championship	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	were	_	_	_	_	_	_	_	_
+14	in	_	_	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	higher	_	_	_	_	_	_	_	_
+17	gear	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n04006
+# sent_id = n04006003
+# text = From the 1st of January there will be an increase in petrol and diesel.
+1	From	_	_	_	_	_	_	_	_
+2	the	_	_	_	_	_	_	_	_
+3	1st	_	_	_	_	_	_	_	_
+4	of	_	_	_	_	_	_	_	_
+5	January	_	_	_	_	_	_	_	_
+6	there	_	_	_	_	_	_	_	_
+7	will	_	_	_	_	_	_	_	_
+8	be	_	_	_	_	_	_	_	_
+9	an	_	_	_	_	_	_	_	_
+10	increase	_	_	_	_	_	_	_	_
+11	in	_	_	_	_	_	_	_	_
+12	petrol	_	_	_	_	_	_	_	_
+13	and	_	_	_	_	_	_	_	_
+14	diesel	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01138026
+# text = New episodes are followed by after show, "The Talking Dead."
+1	New	_	_	_	_	_	_	_	_
+2	episodes	_	_	_	_	_	_	_	_
+3	are	_	_	_	_	_	_	_	_
+4	followed	_	_	_	_	_	_	_	_
+5	by	_	_	_	_	_	_	_	_
+6	after	_	_	_	_	_	_	_	_
+7	show	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	"	_	_	_	_	_	_	_	_
+10	The	_	_	_	_	_	_	_	_
+11	Talking	_	_	_	_	_	_	_	_
+12	Dead	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+14	"	_	_	_	_	_	_	_	_
+
+# sent_id = w01117034
+# text = She found the transition to fiction easy, explaining, "Every book is a learning curve, and you have to keep an open mind."
+1	She	_	_	_	_	_	_	_	_
+2	found	_	_	_	_	_	_	_	_
+3	the	_	_	_	_	_	_	_	_
+4	transition	_	_	_	_	_	_	_	_
+5	to	_	_	_	_	_	_	_	_
+6	fiction	_	_	_	_	_	_	_	_
+7	easy	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	explaining	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	"	_	_	_	_	_	_	_	_
+12	Every	_	_	_	_	_	_	_	_
+13	book	_	_	_	_	_	_	_	_
+14	is	_	_	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	learning	_	_	_	_	_	_	_	_
+17	curve	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	and	_	_	_	_	_	_	_	_
+20	you	_	_	_	_	_	_	_	_
+21	have	_	_	_	_	_	_	_	_
+22	to	_	_	_	_	_	_	_	_
+23	keep	_	_	_	_	_	_	_	_
+24	an	_	_	_	_	_	_	_	_
+25	open	_	_	_	_	_	_	_	_
+26	mind	_	_	_	_	_	_	_	_
+27	.	_	_	_	_	_	_	_	_
+28	"	_	_	_	_	_	_	_	_
+
+# sent_id = w01150047
+# text = After it became obvious that Ottoman Empire would lose all of Macedonia and its territorial connection with Albania, the Great Powers realized they had to change their decision.
+1	After	_	_	_	_	_	_	_	_
+2	it	_	_	_	_	_	_	_	_
+3	became	_	_	_	_	_	_	_	_
+4	obvious	_	_	_	_	_	_	_	_
+5	that	_	_	_	_	_	_	_	_
+6	Ottoman	_	_	_	_	_	_	_	_
+7	Empire	_	_	_	_	_	_	_	_
+8	would	_	_	_	_	_	_	_	_
+9	lose	_	_	_	_	_	_	_	_
+10	all	_	_	_	_	_	_	_	_
+11	of	_	_	_	_	_	_	_	_
+12	Macedonia	_	_	_	_	_	_	_	_
+13	and	_	_	_	_	_	_	_	_
+14	its	_	_	_	_	_	_	_	_
+15	territorial	_	_	_	_	_	_	_	_
+16	connection	_	_	_	_	_	_	_	_
+17	with	_	_	_	_	_	_	_	_
+18	Albania	_	_	_	_	_	_	_	_
+19	,	_	_	_	_	_	_	_	_
+20	the	_	_	_	_	_	_	_	_
+21	Great	_	_	_	_	_	_	_	_
+22	Powers	_	_	_	_	_	_	_	_
+23	realized	_	_	_	_	_	_	_	_
+24	they	_	_	_	_	_	_	_	_
+25	had	_	_	_	_	_	_	_	_
+26	to	_	_	_	_	_	_	_	_
+27	change	_	_	_	_	_	_	_	_
+28	their	_	_	_	_	_	_	_	_
+29	decision	_	_	_	_	_	_	_	_
+30	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01068038
+# text = His skill in getting answers for taxpayers will be sorely missed.
+1	His	_	_	_	_	_	_	_	_
+2	skill	_	_	_	_	_	_	_	_
+3	in	_	_	_	_	_	_	_	_
+4	getting	_	_	_	_	_	_	_	_
+5	answers	_	_	_	_	_	_	_	_
+6	for	_	_	_	_	_	_	_	_
+7	taxpayers	_	_	_	_	_	_	_	_
+8	will	_	_	_	_	_	_	_	_
+9	be	_	_	_	_	_	_	_	_
+10	sorely	_	_	_	_	_	_	_	_
+11	missed	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01136006
+# text = As the movie makes clear, the Lovings -- and Richard in particular -- were reluctant participants in history.
+1	As	_	_	_	_	_	_	_	_
+2	the	_	_	_	_	_	_	_	_
+3	movie	_	_	_	_	_	_	_	_
+4	makes	_	_	_	_	_	_	_	_
+5	clear	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	the	_	_	_	_	_	_	_	_
+8	Lovings	_	_	_	_	_	_	_	_
+9	--	_	_	_	_	_	_	_	_
+10	and	_	_	_	_	_	_	_	_
+11	Richard	_	_	_	_	_	_	_	_
+12	in	_	_	_	_	_	_	_	_
+13	particular	_	_	_	_	_	_	_	_
+14	--	_	_	_	_	_	_	_	_
+15	were	_	_	_	_	_	_	_	_
+16	reluctant	_	_	_	_	_	_	_	_
+17	participants	_	_	_	_	_	_	_	_
+18	in	_	_	_	_	_	_	_	_
+19	history	_	_	_	_	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01049082
+# text = First and foremost was the provision of open space for the benefit of townspeople and local residents within an area that was being rapidly built up.
+1	First	_	_	_	_	_	_	_	_
+2	and	_	_	_	_	_	_	_	_
+3	foremost	_	_	_	_	_	_	_	_
+4	was	_	_	_	_	_	_	_	_
+5	the	_	_	_	_	_	_	_	_
+6	provision	_	_	_	_	_	_	_	_
+7	of	_	_	_	_	_	_	_	_
+8	open	_	_	_	_	_	_	_	_
+9	space	_	_	_	_	_	_	_	_
+10	for	_	_	_	_	_	_	_	_
+11	the	_	_	_	_	_	_	_	_
+12	benefit	_	_	_	_	_	_	_	_
+13	of	_	_	_	_	_	_	_	_
+14	townspeople	_	_	_	_	_	_	_	_
+15	and	_	_	_	_	_	_	_	_
+16	local	_	_	_	_	_	_	_	_
+17	residents	_	_	_	_	_	_	_	_
+18	within	_	_	_	_	_	_	_	_
+19	an	_	_	_	_	_	_	_	_
+20	area	_	_	_	_	_	_	_	_
+21	that	_	_	_	_	_	_	_	_
+22	was	_	_	_	_	_	_	_	_
+23	being	_	_	_	_	_	_	_	_
+24	rapidly	_	_	_	_	_	_	_	_
+25	built	_	_	_	_	_	_	_	_
+26	up	_	_	_	_	_	_	_	_
+27	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w01004
+# sent_id = w01004051
+# text = The Greek city-state of Athens in the 5th century BC, which was dependent on grain imports from Scythia, maintained critical alliances with cities which controlled the straits, such as the Megarian colony Byzantium.
+1	The	_	_	_	_	_	_	_	_
+2	Greek	_	_	_	_	_	_	_	_
+3	city	_	_	_	_	_	_	_	_
+4	-	_	_	_	_	_	_	_	_
+5	state	_	_	_	_	_	_	_	_
+6	of	_	_	_	_	_	_	_	_
+7	Athens	_	_	_	_	_	_	_	_
+8	in	_	_	_	_	_	_	_	_
+9	the	_	_	_	_	_	_	_	_
+10	5th	_	_	_	_	_	_	_	_
+11	century	_	_	_	_	_	_	_	_
+12	BC	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	which	_	_	_	_	_	_	_	_
+15	was	_	_	_	_	_	_	_	_
+16	dependent	_	_	_	_	_	_	_	_
+17	on	_	_	_	_	_	_	_	_
+18	grain	_	_	_	_	_	_	_	_
+19	imports	_	_	_	_	_	_	_	_
+20	from	_	_	_	_	_	_	_	_
+21	Scythia	_	_	_	_	_	_	_	_
+22	,	_	_	_	_	_	_	_	_
+23	maintained	_	_	_	_	_	_	_	_
+24	critical	_	_	_	_	_	_	_	_
+25	alliances	_	_	_	_	_	_	_	_
+26	with	_	_	_	_	_	_	_	_
+27	cities	_	_	_	_	_	_	_	_
+28	which	_	_	_	_	_	_	_	_
+29	controlled	_	_	_	_	_	_	_	_
+30	the	_	_	_	_	_	_	_	_
+31	straits	_	_	_	_	_	_	_	_
+32	,	_	_	_	_	_	_	_	_
+33	such	_	_	_	_	_	_	_	_
+34	as	_	_	_	_	_	_	_	_
+35	the	_	_	_	_	_	_	_	_
+36	Megarian	_	_	_	_	_	_	_	_
+37	colony	_	_	_	_	_	_	_	_
+38	Byzantium	_	_	_	_	_	_	_	_
+39	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n01092
+# sent_id = n01092008
+# text = Let’s just say he’s wrong.
+1	Let	_	_	_	_	_	_	_	_
+2	’s	_	_	_	_	_	_	_	_
+3	just	_	_	_	_	_	_	_	_
+4	say	_	_	_	_	_	_	_	_
+5	he	_	_	_	_	_	_	_	_
+6	’s	_	_	_	_	_	_	_	_
+7	wrong	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01133016
+# text = Concurrently in the mid-1970s, Starlin contributed a cache of stories to the independently published science-fiction anthology Star Reach.
+1	Concurrently	_	_	_	_	_	_	_	_
+2	in	_	_	_	_	_	_	_	_
+3	the	_	_	_	_	_	_	_	_
+4	mid-1970s	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	Starlin	_	_	_	_	_	_	_	_
+7	contributed	_	_	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	cache	_	_	_	_	_	_	_	_
+10	of	_	_	_	_	_	_	_	_
+11	stories	_	_	_	_	_	_	_	_
+12	to	_	_	_	_	_	_	_	_
+13	the	_	_	_	_	_	_	_	_
+14	independently	_	_	_	_	_	_	_	_
+15	published	_	_	_	_	_	_	_	_
+16	science	_	_	_	_	_	_	_	_
+17	-	_	_	_	_	_	_	_	_
+18	fiction	_	_	_	_	_	_	_	_
+19	anthology	_	_	_	_	_	_	_	_
+20	Star	_	_	_	_	_	_	_	_
+21	Reach	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w01017
+# sent_id = w01017004
+# text = Shaped by global plate tectonic forces that have created the East African Rift, East Africa is the site of Mount Kilimanjaro and Mount Kenya, the two tallest peaks in Africa.
+1	Shaped	_	_	_	_	_	_	_	_
+2	by	_	_	_	_	_	_	_	_
+3	global	_	_	_	_	_	_	_	_
+4	plate	_	_	_	_	_	_	_	_
+5	tectonic	_	_	_	_	_	_	_	_
+6	forces	_	_	_	_	_	_	_	_
+7	that	_	_	_	_	_	_	_	_
+8	have	_	_	_	_	_	_	_	_
+9	created	_	_	_	_	_	_	_	_
+10	the	_	_	_	_	_	_	_	_
+11	East	_	_	_	_	_	_	_	_
+12	African	_	_	_	_	_	_	_	_
+13	Rift	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	East	_	_	_	_	_	_	_	_
+16	Africa	_	_	_	_	_	_	_	_
+17	is	_	_	_	_	_	_	_	_
+18	the	_	_	_	_	_	_	_	_
+19	site	_	_	_	_	_	_	_	_
+20	of	_	_	_	_	_	_	_	_
+21	Mount	_	_	_	_	_	_	_	_
+22	Kilimanjaro	_	_	_	_	_	_	_	_
+23	and	_	_	_	_	_	_	_	_
+24	Mount	_	_	_	_	_	_	_	_
+25	Kenya	_	_	_	_	_	_	_	_
+26	,	_	_	_	_	_	_	_	_
+27	the	_	_	_	_	_	_	_	_
+28	two	_	_	_	_	_	_	_	_
+29	tallest	_	_	_	_	_	_	_	_
+30	peaks	_	_	_	_	_	_	_	_
+31	in	_	_	_	_	_	_	_	_
+32	Africa	_	_	_	_	_	_	_	_
+33	.	_	_	_	_	_	_	_	_
+
+# sent_id = n03007011
+# text = The working time undertaken in this first hour is more or less equal to 45 minutes.
+1	The	_	_	_	_	_	_	_	_
+2	working	_	_	_	_	_	_	_	_
+3	time	_	_	_	_	_	_	_	_
+4	undertaken	_	_	_	_	_	_	_	_
+5	in	_	_	_	_	_	_	_	_
+6	this	_	_	_	_	_	_	_	_
+7	first	_	_	_	_	_	_	_	_
+8	hour	_	_	_	_	_	_	_	_
+9	is	_	_	_	_	_	_	_	_
+10	more	_	_	_	_	_	_	_	_
+11	or	_	_	_	_	_	_	_	_
+12	less	_	_	_	_	_	_	_	_
+13	equal	_	_	_	_	_	_	_	_
+14	to	_	_	_	_	_	_	_	_
+15	45	_	_	_	_	_	_	_	_
+16	minutes	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01073075
+# text = By this time, he had been increasingly thinking about the future.
+1	By	_	_	_	_	_	_	_	_
+2	this	_	_	_	_	_	_	_	_
+3	time	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	he	_	_	_	_	_	_	_	_
+6	had	_	_	_	_	_	_	_	_
+7	been	_	_	_	_	_	_	_	_
+8	increasingly	_	_	_	_	_	_	_	_
+9	thinking	_	_	_	_	_	_	_	_
+10	about	_	_	_	_	_	_	_	_
+11	the	_	_	_	_	_	_	_	_
+12	future	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n01033
+# sent_id = n01033005
+# text = Researchers say analysing tumour DNA may help explain the underlying causes of other cancers.
+1	Researchers	_	_	_	_	_	_	_	_
+2	say	_	_	_	_	_	_	_	_
+3	analysing	_	_	_	_	_	_	_	_
+4	tumour	_	_	_	_	_	_	_	_
+5	DNA	_	_	_	_	_	_	_	_
+6	may	_	_	_	_	_	_	_	_
+7	help	_	_	_	_	_	_	_	_
+8	explain	_	_	_	_	_	_	_	_
+9	the	_	_	_	_	_	_	_	_
+10	underlying	_	_	_	_	_	_	_	_
+11	causes	_	_	_	_	_	_	_	_
+12	of	_	_	_	_	_	_	_	_
+13	other	_	_	_	_	_	_	_	_
+14	cancers	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01135036
+# text = Also that year, she briefly appeared in Disney's The Muppets, as Miss Piggy's receptionist.
+1	Also	_	_	_	_	_	_	_	_
+2	that	_	_	_	_	_	_	_	_
+3	year	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	she	_	_	_	_	_	_	_	_
+6	briefly	_	_	_	_	_	_	_	_
+7	appeared	_	_	_	_	_	_	_	_
+8	in	_	_	_	_	_	_	_	_
+9	Disney	_	_	_	_	_	_	_	_
+10	's	_	_	_	_	_	_	_	_
+11	The	_	_	_	_	_	_	_	_
+12	Muppets	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	as	_	_	_	_	_	_	_	_
+15	Miss	_	_	_	_	_	_	_	_
+16	Piggy	_	_	_	_	_	_	_	_
+17	's	_	_	_	_	_	_	_	_
+18	receptionist	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w01001
+# sent_id = w01001049
+# text = The charter allowed for the creation of a merchants' guild, run by the town's burgesses to tax people passing through the borough.
+1	The	_	_	_	_	_	_	_	_
+2	charter	_	_	_	_	_	_	_	_
+3	allowed	_	_	_	_	_	_	_	_
+4	for	_	_	_	_	_	_	_	_
+5	the	_	_	_	_	_	_	_	_
+6	creation	_	_	_	_	_	_	_	_
+7	of	_	_	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	merchants	_	_	_	_	_	_	_	_
+10	'	_	_	_	_	_	_	_	_
+11	guild	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	run	_	_	_	_	_	_	_	_
+14	by	_	_	_	_	_	_	_	_
+15	the	_	_	_	_	_	_	_	_
+16	town	_	_	_	_	_	_	_	_
+17	's	_	_	_	_	_	_	_	_
+18	burgesses	_	_	_	_	_	_	_	_
+19	to	_	_	_	_	_	_	_	_
+20	tax	_	_	_	_	_	_	_	_
+21	people	_	_	_	_	_	_	_	_
+22	passing	_	_	_	_	_	_	_	_
+23	through	_	_	_	_	_	_	_	_
+24	the	_	_	_	_	_	_	_	_
+25	borough	_	_	_	_	_	_	_	_
+26	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01063051
+# text = Their revivals underscore the appeal of a good challenge, artistic or otherwise: discomfort, growth, and a meaningful connection.
+1	Their	_	_	_	_	_	_	_	_
+2	revivals	_	_	_	_	_	_	_	_
+3	underscore	_	_	_	_	_	_	_	_
+4	the	_	_	_	_	_	_	_	_
+5	appeal	_	_	_	_	_	_	_	_
+6	of	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	good	_	_	_	_	_	_	_	_
+9	challenge	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	artistic	_	_	_	_	_	_	_	_
+12	or	_	_	_	_	_	_	_	_
+13	otherwise	_	_	_	_	_	_	_	_
+14	:	_	_	_	_	_	_	_	_
+15	discomfort	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	growth	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	and	_	_	_	_	_	_	_	_
+20	a	_	_	_	_	_	_	_	_
+21	meaningful	_	_	_	_	_	_	_	_
+22	connection	_	_	_	_	_	_	_	_
+23	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01134020
+# text = But it only came forward after the U.S. Environmental Protection Agency alerted the world to the issue.
+1	But	_	_	_	_	_	_	_	_
+2	it	_	_	_	_	_	_	_	_
+3	only	_	_	_	_	_	_	_	_
+4	came	_	_	_	_	_	_	_	_
+5	forward	_	_	_	_	_	_	_	_
+6	after	_	_	_	_	_	_	_	_
+7	the	_	_	_	_	_	_	_	_
+8	U.S.	_	_	_	_	_	_	_	_
+9	Environmental	_	_	_	_	_	_	_	_
+10	Protection	_	_	_	_	_	_	_	_
+11	Agency	_	_	_	_	_	_	_	_
+12	alerted	_	_	_	_	_	_	_	_
+13	the	_	_	_	_	_	_	_	_
+14	world	_	_	_	_	_	_	_	_
+15	to	_	_	_	_	_	_	_	_
+16	the	_	_	_	_	_	_	_	_
+17	issue	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01017010
+# text = The company told the BBC it would be the responsibility of each airline brand to decide whether to charge passengers an access fee.
+1	The	_	_	_	_	_	_	_	_
+2	company	_	_	_	_	_	_	_	_
+3	told	_	_	_	_	_	_	_	_
+4	the	_	_	_	_	_	_	_	_
+5	BBC	_	_	_	_	_	_	_	_
+6	it	_	_	_	_	_	_	_	_
+7	would	_	_	_	_	_	_	_	_
+8	be	_	_	_	_	_	_	_	_
+9	the	_	_	_	_	_	_	_	_
+10	responsibility	_	_	_	_	_	_	_	_
+11	of	_	_	_	_	_	_	_	_
+12	each	_	_	_	_	_	_	_	_
+13	airline	_	_	_	_	_	_	_	_
+14	brand	_	_	_	_	_	_	_	_
+15	to	_	_	_	_	_	_	_	_
+16	decide	_	_	_	_	_	_	_	_
+17	whether	_	_	_	_	_	_	_	_
+18	to	_	_	_	_	_	_	_	_
+19	charge	_	_	_	_	_	_	_	_
+20	passengers	_	_	_	_	_	_	_	_
+21	an	_	_	_	_	_	_	_	_
+22	access	_	_	_	_	_	_	_	_
+23	fee	_	_	_	_	_	_	_	_
+24	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01017013
+# text = "Most people would find airport wi-fi more useful than being able to send emails on a plane."
+1	"	_	_	_	_	_	_	_	_
+2	Most	_	_	_	_	_	_	_	_
+3	people	_	_	_	_	_	_	_	_
+4	would	_	_	_	_	_	_	_	_
+5	find	_	_	_	_	_	_	_	_
+6	airport	_	_	_	_	_	_	_	_
+7	wi-fi	_	_	_	_	_	_	_	_
+8	more	_	_	_	_	_	_	_	_
+9	useful	_	_	_	_	_	_	_	_
+10	than	_	_	_	_	_	_	_	_
+11	being	_	_	_	_	_	_	_	_
+12	able	_	_	_	_	_	_	_	_
+13	to	_	_	_	_	_	_	_	_
+14	send	_	_	_	_	_	_	_	_
+15	emails	_	_	_	_	_	_	_	_
+16	on	_	_	_	_	_	_	_	_
+17	a	_	_	_	_	_	_	_	_
+18	plane	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+20	"	_	_	_	_	_	_	_	_
+
+# newdoc id = w01045
+# sent_id = w01045002
+# text = The name "Caribbean" derives from the Caribs, one of the dominant Native American groups in the region at the time of European contact during the late 15th century.
+1	The	_	_	_	_	_	_	_	_
+2	name	_	_	_	_	_	_	_	_
+3	"	_	_	_	_	_	_	_	_
+4	Caribbean	_	_	_	_	_	_	_	_
+5	"	_	_	_	_	_	_	_	_
+6	derives	_	_	_	_	_	_	_	_
+7	from	_	_	_	_	_	_	_	_
+8	the	_	_	_	_	_	_	_	_
+9	Caribs	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	one	_	_	_	_	_	_	_	_
+12	of	_	_	_	_	_	_	_	_
+13	the	_	_	_	_	_	_	_	_
+14	dominant	_	_	_	_	_	_	_	_
+15	Native	_	_	_	_	_	_	_	_
+16	American	_	_	_	_	_	_	_	_
+17	groups	_	_	_	_	_	_	_	_
+18	in	_	_	_	_	_	_	_	_
+19	the	_	_	_	_	_	_	_	_
+20	region	_	_	_	_	_	_	_	_
+21	at	_	_	_	_	_	_	_	_
+22	the	_	_	_	_	_	_	_	_
+23	time	_	_	_	_	_	_	_	_
+24	of	_	_	_	_	_	_	_	_
+25	European	_	_	_	_	_	_	_	_
+26	contact	_	_	_	_	_	_	_	_
+27	during	_	_	_	_	_	_	_	_
+28	the	_	_	_	_	_	_	_	_
+29	late	_	_	_	_	_	_	_	_
+30	15th	_	_	_	_	_	_	_	_
+31	century	_	_	_	_	_	_	_	_
+32	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01057041
+# text = It was foretold that he would either die of old age after an uneventful life, or die young in a battlefield and gain immortality through poetry.
+1	It	_	_	_	_	_	_	_	_
+2	was	_	_	_	_	_	_	_	_
+3	foretold	_	_	_	_	_	_	_	_
+4	that	_	_	_	_	_	_	_	_
+5	he	_	_	_	_	_	_	_	_
+6	would	_	_	_	_	_	_	_	_
+7	either	_	_	_	_	_	_	_	_
+8	die	_	_	_	_	_	_	_	_
+9	of	_	_	_	_	_	_	_	_
+10	old	_	_	_	_	_	_	_	_
+11	age	_	_	_	_	_	_	_	_
+12	after	_	_	_	_	_	_	_	_
+13	an	_	_	_	_	_	_	_	_
+14	uneventful	_	_	_	_	_	_	_	_
+15	life	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	or	_	_	_	_	_	_	_	_
+18	die	_	_	_	_	_	_	_	_
+19	young	_	_	_	_	_	_	_	_
+20	in	_	_	_	_	_	_	_	_
+21	a	_	_	_	_	_	_	_	_
+22	battlefield	_	_	_	_	_	_	_	_
+23	and	_	_	_	_	_	_	_	_
+24	gain	_	_	_	_	_	_	_	_
+25	immortality	_	_	_	_	_	_	_	_
+26	through	_	_	_	_	_	_	_	_
+27	poetry	_	_	_	_	_	_	_	_
+28	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01130103
+# text = These were the last two records Rafferty produced with Hugh Murphy, who died in 1998.
+1	These	_	_	_	_	_	_	_	_
+2	were	_	_	_	_	_	_	_	_
+3	the	_	_	_	_	_	_	_	_
+4	last	_	_	_	_	_	_	_	_
+5	two	_	_	_	_	_	_	_	_
+6	records	_	_	_	_	_	_	_	_
+7	Rafferty	_	_	_	_	_	_	_	_
+8	produced	_	_	_	_	_	_	_	_
+9	with	_	_	_	_	_	_	_	_
+10	Hugh	_	_	_	_	_	_	_	_
+11	Murphy	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	who	_	_	_	_	_	_	_	_
+14	died	_	_	_	_	_	_	_	_
+15	in	_	_	_	_	_	_	_	_
+16	1998	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01089068
+# text = As Greece sent out colonies west towards Sicily and Italy (Pithekoussae, Cumae), the influence of their new alphabet extended further.
+1	As	_	_	_	_	_	_	_	_
+2	Greece	_	_	_	_	_	_	_	_
+3	sent	_	_	_	_	_	_	_	_
+4	out	_	_	_	_	_	_	_	_
+5	colonies	_	_	_	_	_	_	_	_
+6	west	_	_	_	_	_	_	_	_
+7	towards	_	_	_	_	_	_	_	_
+8	Sicily	_	_	_	_	_	_	_	_
+9	and	_	_	_	_	_	_	_	_
+10	Italy	_	_	_	_	_	_	_	_
+11	(	_	_	_	_	_	_	_	_
+12	Pithekoussae	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	Cumae	_	_	_	_	_	_	_	_
+15	)	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	the	_	_	_	_	_	_	_	_
+18	influence	_	_	_	_	_	_	_	_
+19	of	_	_	_	_	_	_	_	_
+20	their	_	_	_	_	_	_	_	_
+21	new	_	_	_	_	_	_	_	_
+22	alphabet	_	_	_	_	_	_	_	_
+23	extended	_	_	_	_	_	_	_	_
+24	further	_	_	_	_	_	_	_	_
+25	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n01141
+# sent_id = n01141002
+# text = Microsoft announced on Wednesday a new workplace chat tool poised to take on industry darling Slack.
+1	Microsoft	_	_	_	_	_	_	_	_
+2	announced	_	_	_	_	_	_	_	_
+3	on	_	_	_	_	_	_	_	_
+4	Wednesday	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	new	_	_	_	_	_	_	_	_
+7	workplace	_	_	_	_	_	_	_	_
+8	chat	_	_	_	_	_	_	_	_
+9	tool	_	_	_	_	_	_	_	_
+10	poised	_	_	_	_	_	_	_	_
+11	to	_	_	_	_	_	_	_	_
+12	take	_	_	_	_	_	_	_	_
+13	on	_	_	_	_	_	_	_	_
+14	industry	_	_	_	_	_	_	_	_
+15	darling	_	_	_	_	_	_	_	_
+16	Slack	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n01044
+# sent_id = n01044004
+# text = Gomery, who led the commission of inquiry into the federal sponsorship scandal between 2004 and 2006, said such bodies are essential to help restore public confidence in the rule of law.
+1	Gomery	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	who	_	_	_	_	_	_	_	_
+4	led	_	_	_	_	_	_	_	_
+5	the	_	_	_	_	_	_	_	_
+6	commission	_	_	_	_	_	_	_	_
+7	of	_	_	_	_	_	_	_	_
+8	inquiry	_	_	_	_	_	_	_	_
+9	into	_	_	_	_	_	_	_	_
+10	the	_	_	_	_	_	_	_	_
+11	federal	_	_	_	_	_	_	_	_
+12	sponsorship	_	_	_	_	_	_	_	_
+13	scandal	_	_	_	_	_	_	_	_
+14	between	_	_	_	_	_	_	_	_
+15	2004	_	_	_	_	_	_	_	_
+16	and	_	_	_	_	_	_	_	_
+17	2006	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	said	_	_	_	_	_	_	_	_
+20	such	_	_	_	_	_	_	_	_
+21	bodies	_	_	_	_	_	_	_	_
+22	are	_	_	_	_	_	_	_	_
+23	essential	_	_	_	_	_	_	_	_
+24	to	_	_	_	_	_	_	_	_
+25	help	_	_	_	_	_	_	_	_
+26	restore	_	_	_	_	_	_	_	_
+27	public	_	_	_	_	_	_	_	_
+28	confidence	_	_	_	_	_	_	_	_
+29	in	_	_	_	_	_	_	_	_
+30	the	_	_	_	_	_	_	_	_
+31	rule	_	_	_	_	_	_	_	_
+32	of	_	_	_	_	_	_	_	_
+33	law	_	_	_	_	_	_	_	_
+34	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n01136
+# sent_id = n01136005
+# text = With help from the American Civil Liberties Union, they eventually challenged the state, in a case that eventually went to the U.S. Supreme Court.
+1	With	_	_	_	_	_	_	_	_
+2	help	_	_	_	_	_	_	_	_
+3	from	_	_	_	_	_	_	_	_
+4	the	_	_	_	_	_	_	_	_
+5	American	_	_	_	_	_	_	_	_
+6	Civil	_	_	_	_	_	_	_	_
+7	Liberties	_	_	_	_	_	_	_	_
+8	Union	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	they	_	_	_	_	_	_	_	_
+11	eventually	_	_	_	_	_	_	_	_
+12	challenged	_	_	_	_	_	_	_	_
+13	the	_	_	_	_	_	_	_	_
+14	state	_	_	_	_	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	in	_	_	_	_	_	_	_	_
+17	a	_	_	_	_	_	_	_	_
+18	case	_	_	_	_	_	_	_	_
+19	that	_	_	_	_	_	_	_	_
+20	eventually	_	_	_	_	_	_	_	_
+21	went	_	_	_	_	_	_	_	_
+22	to	_	_	_	_	_	_	_	_
+23	the	_	_	_	_	_	_	_	_
+24	U.S.	_	_	_	_	_	_	_	_
+25	Supreme	_	_	_	_	_	_	_	_
+26	Court	_	_	_	_	_	_	_	_
+27	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w01122
+# sent_id = w01122031
+# text = Really Really Love You was released in August and reach the top 50; "Shaky Ground", the related single, appeared in September but Geyer was already in the US.
+1	Really	_	_	_	_	_	_	_	_
+2	Really	_	_	_	_	_	_	_	_
+3	Love	_	_	_	_	_	_	_	_
+4	You	_	_	_	_	_	_	_	_
+5	was	_	_	_	_	_	_	_	_
+6	released	_	_	_	_	_	_	_	_
+7	in	_	_	_	_	_	_	_	_
+8	August	_	_	_	_	_	_	_	_
+9	and	_	_	_	_	_	_	_	_
+10	reach	_	_	_	_	_	_	_	_
+11	the	_	_	_	_	_	_	_	_
+12	top	_	_	_	_	_	_	_	_
+13	50	_	_	_	_	_	_	_	_
+14	;	_	_	_	_	_	_	_	_
+15	"	_	_	_	_	_	_	_	_
+16	Shaky	_	_	_	_	_	_	_	_
+17	Ground	_	_	_	_	_	_	_	_
+18	"	_	_	_	_	_	_	_	_
+19	,	_	_	_	_	_	_	_	_
+20	the	_	_	_	_	_	_	_	_
+21	related	_	_	_	_	_	_	_	_
+22	single	_	_	_	_	_	_	_	_
+23	,	_	_	_	_	_	_	_	_
+24	appeared	_	_	_	_	_	_	_	_
+25	in	_	_	_	_	_	_	_	_
+26	September	_	_	_	_	_	_	_	_
+27	but	_	_	_	_	_	_	_	_
+28	Geyer	_	_	_	_	_	_	_	_
+29	was	_	_	_	_	_	_	_	_
+30	already	_	_	_	_	_	_	_	_
+31	in	_	_	_	_	_	_	_	_
+32	the	_	_	_	_	_	_	_	_
+33	US	_	_	_	_	_	_	_	_
+34	.	_	_	_	_	_	_	_	_
+
+# sent_id = w05002032
+# text = The central Andes belong to the so-called 'Andes de tipo andino' which were formed by the subduction of the oceanic crust.
+1	The	_	_	_	_	_	_	_	_
+2	central	_	_	_	_	_	_	_	_
+3	Andes	_	_	_	_	_	_	_	_
+4	belong	_	_	_	_	_	_	_	_
+5	to	_	_	_	_	_	_	_	_
+6	the	_	_	_	_	_	_	_	_
+7	so	_	_	_	_	_	_	_	_
+8	-	_	_	_	_	_	_	_	_
+9	called	_	_	_	_	_	_	_	_
+10	'	_	_	_	_	_	_	_	_
+11	Andes	_	_	_	_	_	_	_	_
+12	de	_	_	_	_	_	_	_	_
+13	tipo	_	_	_	_	_	_	_	_
+14	andino	_	_	_	_	_	_	_	_
+15	'	_	_	_	_	_	_	_	_
+16	which	_	_	_	_	_	_	_	_
+17	were	_	_	_	_	_	_	_	_
+18	formed	_	_	_	_	_	_	_	_
+19	by	_	_	_	_	_	_	_	_
+20	the	_	_	_	_	_	_	_	_
+21	subduction	_	_	_	_	_	_	_	_
+22	of	_	_	_	_	_	_	_	_
+23	the	_	_	_	_	_	_	_	_
+24	oceanic	_	_	_	_	_	_	_	_
+25	crust	_	_	_	_	_	_	_	_
+26	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01124049
+# text = Following her dismissal, Peniston took playing as Glinda the Good Witch in a theatrical production of musical play The Wiz.
+1	Following	_	_	_	_	_	_	_	_
+2	her	_	_	_	_	_	_	_	_
+3	dismissal	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	Peniston	_	_	_	_	_	_	_	_
+6	took	_	_	_	_	_	_	_	_
+7	playing	_	_	_	_	_	_	_	_
+8	as	_	_	_	_	_	_	_	_
+9	Glinda	_	_	_	_	_	_	_	_
+10	the	_	_	_	_	_	_	_	_
+11	Good	_	_	_	_	_	_	_	_
+12	Witch	_	_	_	_	_	_	_	_
+13	in	_	_	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	theatrical	_	_	_	_	_	_	_	_
+16	production	_	_	_	_	_	_	_	_
+17	of	_	_	_	_	_	_	_	_
+18	musical	_	_	_	_	_	_	_	_
+19	play	_	_	_	_	_	_	_	_
+20	The	_	_	_	_	_	_	_	_
+21	Wiz	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n01076
+# sent_id = n01076006
+# text = A Donald Trump victory would immediately make the world more worrying and unsettled than it already is.
+1	A	_	_	_	_	_	_	_	_
+2	Donald	_	_	_	_	_	_	_	_
+3	Trump	_	_	_	_	_	_	_	_
+4	victory	_	_	_	_	_	_	_	_
+5	would	_	_	_	_	_	_	_	_
+6	immediately	_	_	_	_	_	_	_	_
+7	make	_	_	_	_	_	_	_	_
+8	the	_	_	_	_	_	_	_	_
+9	world	_	_	_	_	_	_	_	_
+10	more	_	_	_	_	_	_	_	_
+11	worrying	_	_	_	_	_	_	_	_
+12	and	_	_	_	_	_	_	_	_
+13	unsettled	_	_	_	_	_	_	_	_
+14	than	_	_	_	_	_	_	_	_
+15	it	_	_	_	_	_	_	_	_
+16	already	_	_	_	_	_	_	_	_
+17	is	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01027041
+# text = I asked her afterwards if she understood why people might vote for Trump.
+1	I	_	_	_	_	_	_	_	_
+2	asked	_	_	_	_	_	_	_	_
+3	her	_	_	_	_	_	_	_	_
+4	afterwards	_	_	_	_	_	_	_	_
+5	if	_	_	_	_	_	_	_	_
+6	she	_	_	_	_	_	_	_	_
+7	understood	_	_	_	_	_	_	_	_
+8	why	_	_	_	_	_	_	_	_
+9	people	_	_	_	_	_	_	_	_
+10	might	_	_	_	_	_	_	_	_
+11	vote	_	_	_	_	_	_	_	_
+12	for	_	_	_	_	_	_	_	_
+13	Trump	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01123024
+# text = Perhaps it won’t matter as I won’t be troubled long.
+1	Perhaps	_	_	_	_	_	_	_	_
+2	it	_	_	_	_	_	_	_	_
+3	wo	_	_	_	_	_	_	_	_
+4	n’t	_	_	_	_	_	_	_	_
+5	matter	_	_	_	_	_	_	_	_
+6	as	_	_	_	_	_	_	_	_
+7	I	_	_	_	_	_	_	_	_
+8	wo	_	_	_	_	_	_	_	_
+9	n’t	_	_	_	_	_	_	_	_
+10	be	_	_	_	_	_	_	_	_
+11	troubled	_	_	_	_	_	_	_	_
+12	long	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w05009
+# sent_id = w05009044
+# text = In 1976 he met with a friend who worked with his record label The Rocket Record Company, Kiki Dee, to record what would be another remarkable success for him: "Don't Go Breaking My Heart".
+# Checktree: how to represet "to record what would be another remarkable success"
+1	In	_	_	_	_	_	_	_	_
+2	1976	_	_	_	_	_	_	_	_
+3	he	_	_	_	_	_	_	_	_
+4	met	_	_	_	_	_	_	_	_
+5	with	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	friend	_	_	_	_	_	_	_	_
+8	who	_	_	_	_	_	_	_	_
+9	worked	_	_	_	_	_	_	_	_
+10	with	_	_	_	_	_	_	_	_
+11	his	_	_	_	_	_	_	_	_
+12	record	_	_	_	_	_	_	_	_
+13	label	_	_	_	_	_	_	_	_
+14	The	_	_	_	_	_	_	_	_
+15	Rocket	_	_	_	_	_	_	_	_
+16	Record	_	_	_	_	_	_	_	_
+17	Company	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	Kiki	_	_	_	_	_	_	_	_
+20	Dee	_	_	_	_	_	_	_	_
+21	,	_	_	_	_	_	_	_	_
+22	to	_	_	_	_	_	_	_	_
+23	record	_	_	_	_	_	_	_	_
+24	what	_	_	_	_	_	_	_	_
+25	would	_	_	_	_	_	_	_	_
+26	be	_	_	_	_	_	_	_	_
+27	another	_	_	_	_	_	_	_	_
+28	remarkable	_	_	_	_	_	_	_	_
+29	success	_	_	_	_	_	_	_	_
+30	for	_	_	_	_	_	_	_	_
+31	him	_	_	_	_	_	_	_	_
+32	:	_	_	_	_	_	_	_	_
+33	"	_	_	_	_	_	_	_	_
+34	Do	_	_	_	_	_	_	_	_
+35	n't	_	_	_	_	_	_	_	_
+36	Go	_	_	_	_	_	_	_	_
+37	Breaking	_	_	_	_	_	_	_	_
+38	My	_	_	_	_	_	_	_	_
+39	Heart	_	_	_	_	_	_	_	_
+40	"	_	_	_	_	_	_	_	_
+41	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w04006
+# sent_id = w04006023
+# text = Historian David Crouch suggests that Stephen abandoned from the challenge around this time to focus on other issues.
+1	Historian	_	_	_	_	_	_	_	_
+2	David	_	_	_	_	_	_	_	_
+3	Crouch	_	_	_	_	_	_	_	_
+4	suggests	_	_	_	_	_	_	_	_
+5	that	_	_	_	_	_	_	_	_
+6	Stephen	_	_	_	_	_	_	_	_
+7	abandoned	_	_	_	_	_	_	_	_
+8	from	_	_	_	_	_	_	_	_
+9	the	_	_	_	_	_	_	_	_
+10	challenge	_	_	_	_	_	_	_	_
+11	around	_	_	_	_	_	_	_	_
+12	this	_	_	_	_	_	_	_	_
+13	time	_	_	_	_	_	_	_	_
+14	to	_	_	_	_	_	_	_	_
+15	focus	_	_	_	_	_	_	_	_
+16	on	_	_	_	_	_	_	_	_
+17	other	_	_	_	_	_	_	_	_
+18	issues	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n01064
+# sent_id = n01064009
+# text = It would be much safer, Plato thought, to entrust power to carefully educated guardians.
+1	It	_	_	_	_	_	_	_	_
+2	would	_	_	_	_	_	_	_	_
+3	be	_	_	_	_	_	_	_	_
+4	much	_	_	_	_	_	_	_	_
+5	safer	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	Plato	_	_	_	_	_	_	_	_
+8	thought	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	to	_	_	_	_	_	_	_	_
+11	entrust	_	_	_	_	_	_	_	_
+12	power	_	_	_	_	_	_	_	_
+13	to	_	_	_	_	_	_	_	_
+14	carefully	_	_	_	_	_	_	_	_
+15	educated	_	_	_	_	_	_	_	_
+16	guardians	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = w02007061
+# text = The Ottomans wanted to prevent grain from being further transported because they had a great need for it.
+1	The	_	_	_	_	_	_	_	_
+2	Ottomans	_	_	_	_	_	_	_	_
+3	wanted	_	_	_	_	_	_	_	_
+4	to	_	_	_	_	_	_	_	_
+5	prevent	_	_	_	_	_	_	_	_
+6	grain	_	_	_	_	_	_	_	_
+7	from	_	_	_	_	_	_	_	_
+8	being	_	_	_	_	_	_	_	_
+9	further	_	_	_	_	_	_	_	_
+10	transported	_	_	_	_	_	_	_	_
+11	because	_	_	_	_	_	_	_	_
+12	they	_	_	_	_	_	_	_	_
+13	had	_	_	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	great	_	_	_	_	_	_	_	_
+16	need	_	_	_	_	_	_	_	_
+17	for	_	_	_	_	_	_	_	_
+18	it	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n03003
+# sent_id = n03003025
+# text = The AKP's Islamic conservatives have taken this refusal as justification for the questionings.
+1	The	_	_	_	_	_	_	_	_
+2	AKP	_	_	_	_	_	_	_	_
+3	's	_	_	_	_	_	_	_	_
+4	Islamic	_	_	_	_	_	_	_	_
+5	conservatives	_	_	_	_	_	_	_	_
+6	have	_	_	_	_	_	_	_	_
+7	taken	_	_	_	_	_	_	_	_
+8	this	_	_	_	_	_	_	_	_
+9	refusal	_	_	_	_	_	_	_	_
+10	as	_	_	_	_	_	_	_	_
+11	justification	_	_	_	_	_	_	_	_
+12	for	_	_	_	_	_	_	_	_
+13	the	_	_	_	_	_	_	_	_
+14	questionings	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w01100
+# sent_id = w01100046
+# text = In 1839, China found itself fighting the First Opium War with Great Britain after the Governor-General of Hunan and Hubei, Lin Zexu, banned the foreign trade of opium.
+1	In	_	_	_	_	_	_	_	_
+2	1839	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	China	_	_	_	_	_	_	_	_
+5	found	_	_	_	_	_	_	_	_
+6	itself	_	_	_	_	_	_	_	_
+7	fighting	_	_	_	_	_	_	_	_
+8	the	_	_	_	_	_	_	_	_
+9	First	_	_	_	_	_	_	_	_
+10	Opium	_	_	_	_	_	_	_	_
+11	War	_	_	_	_	_	_	_	_
+12	with	_	_	_	_	_	_	_	_
+13	Great	_	_	_	_	_	_	_	_
+14	Britain	_	_	_	_	_	_	_	_
+15	after	_	_	_	_	_	_	_	_
+16	the	_	_	_	_	_	_	_	_
+17	Governor	_	_	_	_	_	_	_	_
+18	-	_	_	_	_	_	_	_	_
+19	General	_	_	_	_	_	_	_	_
+20	of	_	_	_	_	_	_	_	_
+21	Hunan	_	_	_	_	_	_	_	_
+22	and	_	_	_	_	_	_	_	_
+23	Hubei	_	_	_	_	_	_	_	_
+24	,	_	_	_	_	_	_	_	_
+25	Lin	_	_	_	_	_	_	_	_
+26	Zexu	_	_	_	_	_	_	_	_
+27	,	_	_	_	_	_	_	_	_
+28	banned	_	_	_	_	_	_	_	_
+29	the	_	_	_	_	_	_	_	_
+30	foreign	_	_	_	_	_	_	_	_
+31	trade	_	_	_	_	_	_	_	_
+32	of	_	_	_	_	_	_	_	_
+33	opium	_	_	_	_	_	_	_	_
+34	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n04005
+# sent_id = n04005003
+# text = Those of age will be offered 500 euros by the state, to be spent by 31st December 2017.
+# Checktree: relation 31st following email-enronsent13_01-0054
+1	Those	_	_	_	_	_	_	_	_
+2	of	_	_	_	_	_	_	_	_
+3	age	_	_	_	_	_	_	_	_
+4	will	_	_	_	_	_	_	_	_
+5	be	_	_	_	_	_	_	_	_
+6	offered	_	_	_	_	_	_	_	_
+7	500	_	_	_	_	_	_	_	_
+8	euros	_	_	_	_	_	_	_	_
+9	by	_	_	_	_	_	_	_	_
+10	the	_	_	_	_	_	_	_	_
+11	state	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	to	_	_	_	_	_	_	_	_
+14	be	_	_	_	_	_	_	_	_
+15	spent	_	_	_	_	_	_	_	_
+16	by	_	_	_	_	_	_	_	_
+17	31st	_	_	_	_	_	_	_	_
+18	December	_	_	_	_	_	_	_	_
+19	2017	_	_	_	_	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01039058
+# text = As Brisbane grew, the condition of the river worsened until at its worst it was no more than an open sewer and waste dump.
+1	As	_	_	_	_	_	_	_	_
+2	Brisbane	_	_	_	_	_	_	_	_
+3	grew	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	the	_	_	_	_	_	_	_	_
+6	condition	_	_	_	_	_	_	_	_
+7	of	_	_	_	_	_	_	_	_
+8	the	_	_	_	_	_	_	_	_
+9	river	_	_	_	_	_	_	_	_
+10	worsened	_	_	_	_	_	_	_	_
+11	until	_	_	_	_	_	_	_	_
+12	at	_	_	_	_	_	_	_	_
+13	its	_	_	_	_	_	_	_	_
+14	worst	_	_	_	_	_	_	_	_
+15	it	_	_	_	_	_	_	_	_
+16	was	_	_	_	_	_	_	_	_
+17	no	_	_	_	_	_	_	_	_
+18	more	_	_	_	_	_	_	_	_
+19	than	_	_	_	_	_	_	_	_
+20	an	_	_	_	_	_	_	_	_
+21	open	_	_	_	_	_	_	_	_
+22	sewer	_	_	_	_	_	_	_	_
+23	and	_	_	_	_	_	_	_	_
+24	waste	_	_	_	_	_	_	_	_
+25	dump	_	_	_	_	_	_	_	_
+26	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01067103
+# text = Despite this, they both seem to have held at least parts of lower Egypt.
+1	Despite	_	_	_	_	_	_	_	_
+2	this	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	they	_	_	_	_	_	_	_	_
+5	both	_	_	_	_	_	_	_	_
+6	seem	_	_	_	_	_	_	_	_
+7	to	_	_	_	_	_	_	_	_
+8	have	_	_	_	_	_	_	_	_
+9	held	_	_	_	_	_	_	_	_
+10	at	_	_	_	_	_	_	_	_
+11	least	_	_	_	_	_	_	_	_
+12	parts	_	_	_	_	_	_	_	_
+13	of	_	_	_	_	_	_	_	_
+14	lower	_	_	_	_	_	_	_	_
+15	Egypt	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01073023
+# text = Was their divine right to the mantle as the world’s best no longer warranted?
+1	Was	_	_	_	_	_	_	_	_
+2	their	_	_	_	_	_	_	_	_
+3	divine	_	_	_	_	_	_	_	_
+4	right	_	_	_	_	_	_	_	_
+5	to	_	_	_	_	_	_	_	_
+6	the	_	_	_	_	_	_	_	_
+7	mantle	_	_	_	_	_	_	_	_
+8	as	_	_	_	_	_	_	_	_
+9	the	_	_	_	_	_	_	_	_
+10	world	_	_	_	_	_	_	_	_
+11	’s	_	_	_	_	_	_	_	_
+12	best	_	_	_	_	_	_	_	_
+13	no	_	_	_	_	_	_	_	_
+14	longer	_	_	_	_	_	_	_	_
+15	warranted	_	_	_	_	_	_	_	_
+16	?	_	_	_	_	_	_	_	_
+
+# sent_id = n03002010
+# text = On the other hand, Ms. Clinton's relations with the continent over the past twenty years leave much to be desired.
+1	On	_	_	_	_	_	_	_	_
+2	the	_	_	_	_	_	_	_	_
+3	other	_	_	_	_	_	_	_	_
+4	hand	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	Ms.	_	_	_	_	_	_	_	_
+7	Clinton	_	_	_	_	_	_	_	_
+8	's	_	_	_	_	_	_	_	_
+9	relations	_	_	_	_	_	_	_	_
+10	with	_	_	_	_	_	_	_	_
+11	the	_	_	_	_	_	_	_	_
+12	continent	_	_	_	_	_	_	_	_
+13	over	_	_	_	_	_	_	_	_
+14	the	_	_	_	_	_	_	_	_
+15	past	_	_	_	_	_	_	_	_
+16	twenty	_	_	_	_	_	_	_	_
+17	years	_	_	_	_	_	_	_	_
+18	leave	_	_	_	_	_	_	_	_
+19	much	_	_	_	_	_	_	_	_
+20	to	_	_	_	_	_	_	_	_
+21	be	_	_	_	_	_	_	_	_
+22	desired	_	_	_	_	_	_	_	_
+23	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n01053
+# sent_id = n01053008
+# text = "Some men get it and Bono is one of those guys," Leive said in a recent interview.
+1	"	_	_	_	_	_	_	_	_
+2	Some	_	_	_	_	_	_	_	_
+3	men	_	_	_	_	_	_	_	_
+4	get	_	_	_	_	_	_	_	_
+5	it	_	_	_	_	_	_	_	_
+6	and	_	_	_	_	_	_	_	_
+7	Bono	_	_	_	_	_	_	_	_
+8	is	_	_	_	_	_	_	_	_
+9	one	_	_	_	_	_	_	_	_
+10	of	_	_	_	_	_	_	_	_
+11	those	_	_	_	_	_	_	_	_
+12	guys	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	"	_	_	_	_	_	_	_	_
+15	Leive	_	_	_	_	_	_	_	_
+16	said	_	_	_	_	_	_	_	_
+17	in	_	_	_	_	_	_	_	_
+18	a	_	_	_	_	_	_	_	_
+19	recent	_	_	_	_	_	_	_	_
+20	interview	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01095009
+# text = I don’t call it a beast lightly.
+1	I	_	_	_	_	_	_	_	_
+2	do	_	_	_	_	_	_	_	_
+3	n’t	_	_	_	_	_	_	_	_
+4	call	_	_	_	_	_	_	_	_
+5	it	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	beast	_	_	_	_	_	_	_	_
+8	lightly	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n02042
+# sent_id = n02042005
+# text = It was August 30, 2015, as an army of ducks conquered the internet.
+1	It	_	_	_	_	_	_	_	_
+2	was	_	_	_	_	_	_	_	_
+3	August	_	_	_	_	_	_	_	_
+4	30	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	2015	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	as	_	_	_	_	_	_	_	_
+9	an	_	_	_	_	_	_	_	_
+10	army	_	_	_	_	_	_	_	_
+11	of	_	_	_	_	_	_	_	_
+12	ducks	_	_	_	_	_	_	_	_
+13	conquered	_	_	_	_	_	_	_	_
+14	the	_	_	_	_	_	_	_	_
+15	internet	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w01073
+# sent_id = w01073007
+# text = They had been so moved by the beauty of the Rudyard Lake area that when their first child was born they referenced it when naming him.
+1	They	_	_	_	_	_	_	_	_
+2	had	_	_	_	_	_	_	_	_
+3	been	_	_	_	_	_	_	_	_
+4	so	_	_	_	_	_	_	_	_
+5	moved	_	_	_	_	_	_	_	_
+6	by	_	_	_	_	_	_	_	_
+7	the	_	_	_	_	_	_	_	_
+8	beauty	_	_	_	_	_	_	_	_
+9	of	_	_	_	_	_	_	_	_
+10	the	_	_	_	_	_	_	_	_
+11	Rudyard	_	_	_	_	_	_	_	_
+12	Lake	_	_	_	_	_	_	_	_
+13	area	_	_	_	_	_	_	_	_
+14	that	_	_	_	_	_	_	_	_
+15	when	_	_	_	_	_	_	_	_
+16	their	_	_	_	_	_	_	_	_
+17	first	_	_	_	_	_	_	_	_
+18	child	_	_	_	_	_	_	_	_
+19	was	_	_	_	_	_	_	_	_
+20	born	_	_	_	_	_	_	_	_
+21	they	_	_	_	_	_	_	_	_
+22	referenced	_	_	_	_	_	_	_	_
+23	it	_	_	_	_	_	_	_	_
+24	when	_	_	_	_	_	_	_	_
+25	naming	_	_	_	_	_	_	_	_
+26	him	_	_	_	_	_	_	_	_
+27	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01120020
+# text = All the medics were armed, except me.
+1	All	_	_	_	_	_	_	_	_
+2	the	_	_	_	_	_	_	_	_
+3	medics	_	_	_	_	_	_	_	_
+4	were	_	_	_	_	_	_	_	_
+5	armed	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	except	_	_	_	_	_	_	_	_
+8	me	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = n05003010
+# text = The consulted sources have said that it is "100% Cospedal".
+1	The	_	_	_	_	_	_	_	_
+2	consulted	_	_	_	_	_	_	_	_
+3	sources	_	_	_	_	_	_	_	_
+4	have	_	_	_	_	_	_	_	_
+5	said	_	_	_	_	_	_	_	_
+6	that	_	_	_	_	_	_	_	_
+7	it	_	_	_	_	_	_	_	_
+8	is	_	_	_	_	_	_	_	_
+9	"	_	_	_	_	_	_	_	_
+10	100	_	_	_	_	_	_	_	_
+11	%	_	_	_	_	_	_	_	_
+12	Cospedal	_	_	_	_	_	_	_	_
+13	"	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01144023
+# text = He kept on turning up at my barn and I joked to the guy that clearly he didn't want to be sold.
+1	He	_	_	_	_	_	_	_	_
+2	kept	_	_	_	_	_	_	_	_
+3	on	_	_	_	_	_	_	_	_
+4	turning	_	_	_	_	_	_	_	_
+5	up	_	_	_	_	_	_	_	_
+6	at	_	_	_	_	_	_	_	_
+7	my	_	_	_	_	_	_	_	_
+8	barn	_	_	_	_	_	_	_	_
+9	and	_	_	_	_	_	_	_	_
+10	I	_	_	_	_	_	_	_	_
+11	joked	_	_	_	_	_	_	_	_
+12	to	_	_	_	_	_	_	_	_
+13	the	_	_	_	_	_	_	_	_
+14	guy	_	_	_	_	_	_	_	_
+15	that	_	_	_	_	_	_	_	_
+16	clearly	_	_	_	_	_	_	_	_
+17	he	_	_	_	_	_	_	_	_
+18	did	_	_	_	_	_	_	_	_
+19	n't	_	_	_	_	_	_	_	_
+20	want	_	_	_	_	_	_	_	_
+21	to	_	_	_	_	_	_	_	_
+22	be	_	_	_	_	_	_	_	_
+23	sold	_	_	_	_	_	_	_	_
+24	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01095093
+# text = Outside Japan, beginning with Emperor Shōwa, the Emperors are often referred to by their given names, both whilst alive and posthumously.
+1	Outside	_	_	_	_	_	_	_	_
+2	Japan	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	beginning	_	_	_	_	_	_	_	_
+5	with	_	_	_	_	_	_	_	_
+6	Emperor	_	_	_	_	_	_	_	_
+7	Shōwa	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	the	_	_	_	_	_	_	_	_
+10	Emperors	_	_	_	_	_	_	_	_
+11	are	_	_	_	_	_	_	_	_
+12	often	_	_	_	_	_	_	_	_
+13	referred	_	_	_	_	_	_	_	_
+14	to	_	_	_	_	_	_	_	_
+15	by	_	_	_	_	_	_	_	_
+16	their	_	_	_	_	_	_	_	_
+17	given	_	_	_	_	_	_	_	_
+18	names	_	_	_	_	_	_	_	_
+19	,	_	_	_	_	_	_	_	_
+20	both	_	_	_	_	_	_	_	_
+21	whilst	_	_	_	_	_	_	_	_
+22	alive	_	_	_	_	_	_	_	_
+23	and	_	_	_	_	_	_	_	_
+24	posthumously	_	_	_	_	_	_	_	_
+25	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01036033
+# text = Currently, the maximum fine RECO can levy against an agent is $25,000.
+1	Currently	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	the	_	_	_	_	_	_	_	_
+4	maximum	_	_	_	_	_	_	_	_
+5	fine	_	_	_	_	_	_	_	_
+6	RECO	_	_	_	_	_	_	_	_
+7	can	_	_	_	_	_	_	_	_
+8	levy	_	_	_	_	_	_	_	_
+9	against	_	_	_	_	_	_	_	_
+10	an	_	_	_	_	_	_	_	_
+11	agent	_	_	_	_	_	_	_	_
+12	is	_	_	_	_	_	_	_	_
+13	$	_	_	_	_	_	_	_	_
+14	25,000	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n01007
+# sent_id = n01007012
+# text = There are parallels to draw here between games and our everyday lives.
+1	There	_	_	_	_	_	_	_	_
+2	are	_	_	_	_	_	_	_	_
+3	parallels	_	_	_	_	_	_	_	_
+4	to	_	_	_	_	_	_	_	_
+5	draw	_	_	_	_	_	_	_	_
+6	here	_	_	_	_	_	_	_	_
+7	between	_	_	_	_	_	_	_	_
+8	games	_	_	_	_	_	_	_	_
+9	and	_	_	_	_	_	_	_	_
+10	our	_	_	_	_	_	_	_	_
+11	everyday	_	_	_	_	_	_	_	_
+12	lives	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01097104
+# text = Some historians, such as Chandler and Weller, assert that the British heavy cavalry were destroyed as a viable force following their first, epic charge.
+1	Some	_	_	_	_	_	_	_	_
+2	historians	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	such	_	_	_	_	_	_	_	_
+5	as	_	_	_	_	_	_	_	_
+6	Chandler	_	_	_	_	_	_	_	_
+7	and	_	_	_	_	_	_	_	_
+8	Weller	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	assert	_	_	_	_	_	_	_	_
+11	that	_	_	_	_	_	_	_	_
+12	the	_	_	_	_	_	_	_	_
+13	British	_	_	_	_	_	_	_	_
+14	heavy	_	_	_	_	_	_	_	_
+15	cavalry	_	_	_	_	_	_	_	_
+16	were	_	_	_	_	_	_	_	_
+17	destroyed	_	_	_	_	_	_	_	_
+18	as	_	_	_	_	_	_	_	_
+19	a	_	_	_	_	_	_	_	_
+20	viable	_	_	_	_	_	_	_	_
+21	force	_	_	_	_	_	_	_	_
+22	following	_	_	_	_	_	_	_	_
+23	their	_	_	_	_	_	_	_	_
+24	first	_	_	_	_	_	_	_	_
+25	,	_	_	_	_	_	_	_	_
+26	epic	_	_	_	_	_	_	_	_
+27	charge	_	_	_	_	_	_	_	_
+28	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01070033
+# text = Three markings locate sunrise at the summer and winter solstices and at the two equinoxes.
+1	Three	_	_	_	_	_	_	_	_
+2	markings	_	_	_	_	_	_	_	_
+3	locate	_	_	_	_	_	_	_	_
+4	sunrise	_	_	_	_	_	_	_	_
+5	at	_	_	_	_	_	_	_	_
+6	the	_	_	_	_	_	_	_	_
+7	summer	_	_	_	_	_	_	_	_
+8	and	_	_	_	_	_	_	_	_
+9	winter	_	_	_	_	_	_	_	_
+10	solstices	_	_	_	_	_	_	_	_
+11	and	_	_	_	_	_	_	_	_
+12	at	_	_	_	_	_	_	_	_
+13	the	_	_	_	_	_	_	_	_
+14	two	_	_	_	_	_	_	_	_
+15	equinoxes	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01101007
+# text = The oath involves lawmakers swearing allegiance to Hong Kong as part of the People’s Republic of China.
+1	The	_	_	_	_	_	_	_	_
+2	oath	_	_	_	_	_	_	_	_
+3	involves	_	_	_	_	_	_	_	_
+4	lawmakers	_	_	_	_	_	_	_	_
+5	swearing	_	_	_	_	_	_	_	_
+6	allegiance	_	_	_	_	_	_	_	_
+7	to	_	_	_	_	_	_	_	_
+8	Hong	_	_	_	_	_	_	_	_
+9	Kong	_	_	_	_	_	_	_	_
+10	as	_	_	_	_	_	_	_	_
+11	part	_	_	_	_	_	_	_	_
+12	of	_	_	_	_	_	_	_	_
+13	the	_	_	_	_	_	_	_	_
+14	People	_	_	_	_	_	_	_	_
+15	’s	_	_	_	_	_	_	_	_
+16	Republic	_	_	_	_	_	_	_	_
+17	of	_	_	_	_	_	_	_	_
+18	China	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = w04004059
+# text = During the thirteenth century, the name Apulia was used by some authors to signify the southern part of the Italian peninsula.
+1	During	_	_	_	_	_	_	_	_
+2	the	_	_	_	_	_	_	_	_
+3	thirteenth	_	_	_	_	_	_	_	_
+4	century	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	the	_	_	_	_	_	_	_	_
+7	name	_	_	_	_	_	_	_	_
+8	Apulia	_	_	_	_	_	_	_	_
+9	was	_	_	_	_	_	_	_	_
+10	used	_	_	_	_	_	_	_	_
+11	by	_	_	_	_	_	_	_	_
+12	some	_	_	_	_	_	_	_	_
+13	authors	_	_	_	_	_	_	_	_
+14	to	_	_	_	_	_	_	_	_
+15	signify	_	_	_	_	_	_	_	_
+16	the	_	_	_	_	_	_	_	_
+17	southern	_	_	_	_	_	_	_	_
+18	part	_	_	_	_	_	_	_	_
+19	of	_	_	_	_	_	_	_	_
+20	the	_	_	_	_	_	_	_	_
+21	Italian	_	_	_	_	_	_	_	_
+22	peninsula	_	_	_	_	_	_	_	_
+23	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n01118
+# sent_id = n01118003
+# text = Drop the mic.
+1	Drop	_	_	_	_	_	_	_	_
+2	the	_	_	_	_	_	_	_	_
+3	mic	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w01089
+# sent_id = w01089017
+# text = Most of the information about the period comes from burial sites and the grave goods contained within them.
+1	Most	_	_	_	_	_	_	_	_
+2	of	_	_	_	_	_	_	_	_
+3	the	_	_	_	_	_	_	_	_
+4	information	_	_	_	_	_	_	_	_
+5	about	_	_	_	_	_	_	_	_
+6	the	_	_	_	_	_	_	_	_
+7	period	_	_	_	_	_	_	_	_
+8	comes	_	_	_	_	_	_	_	_
+9	from	_	_	_	_	_	_	_	_
+10	burial	_	_	_	_	_	_	_	_
+11	sites	_	_	_	_	_	_	_	_
+12	and	_	_	_	_	_	_	_	_
+13	the	_	_	_	_	_	_	_	_
+14	grave	_	_	_	_	_	_	_	_
+15	goods	_	_	_	_	_	_	_	_
+16	contained	_	_	_	_	_	_	_	_
+17	within	_	_	_	_	_	_	_	_
+18	them	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w01058
+# sent_id = w01058009
+# text = However this was reversed when Julian was killed in battle in 363.
+1	However	_	_	_	_	_	_	_	_
+2	this	_	_	_	_	_	_	_	_
+3	was	_	_	_	_	_	_	_	_
+4	reversed	_	_	_	_	_	_	_	_
+5	when	_	_	_	_	_	_	_	_
+6	Julian	_	_	_	_	_	_	_	_
+7	was	_	_	_	_	_	_	_	_
+8	killed	_	_	_	_	_	_	_	_
+9	in	_	_	_	_	_	_	_	_
+10	battle	_	_	_	_	_	_	_	_
+11	in	_	_	_	_	_	_	_	_
+12	363	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n02034
+# sent_id = n02034018
+# text = The witching hour starts up at least by the time the scary organ is played, such as in the 60s hit Monster Mash.
+1	The	_	_	_	_	_	_	_	_
+2	witching	_	_	_	_	_	_	_	_
+3	hour	_	_	_	_	_	_	_	_
+4	starts	_	_	_	_	_	_	_	_
+5	up	_	_	_	_	_	_	_	_
+6	at	_	_	_	_	_	_	_	_
+7	least	_	_	_	_	_	_	_	_
+8	by	_	_	_	_	_	_	_	_
+9	the	_	_	_	_	_	_	_	_
+10	time	_	_	_	_	_	_	_	_
+11	the	_	_	_	_	_	_	_	_
+12	scary	_	_	_	_	_	_	_	_
+13	organ	_	_	_	_	_	_	_	_
+14	is	_	_	_	_	_	_	_	_
+15	played	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	such	_	_	_	_	_	_	_	_
+18	as	_	_	_	_	_	_	_	_
+19	in	_	_	_	_	_	_	_	_
+20	the	_	_	_	_	_	_	_	_
+21	60s	_	_	_	_	_	_	_	_
+22	hit	_	_	_	_	_	_	_	_
+23	Monster	_	_	_	_	_	_	_	_
+24	Mash	_	_	_	_	_	_	_	_
+25	.	_	_	_	_	_	_	_	_
+
+# sent_id = w02017061
+# text = The traces of blood on the clothes were in the shape that they were reported to have by the news reports on the day of the murder.
+1	The	_	_	_	_	_	_	_	_
+2	traces	_	_	_	_	_	_	_	_
+3	of	_	_	_	_	_	_	_	_
+4	blood	_	_	_	_	_	_	_	_
+5	on	_	_	_	_	_	_	_	_
+6	the	_	_	_	_	_	_	_	_
+7	clothes	_	_	_	_	_	_	_	_
+8	were	_	_	_	_	_	_	_	_
+9	in	_	_	_	_	_	_	_	_
+10	the	_	_	_	_	_	_	_	_
+11	shape	_	_	_	_	_	_	_	_
+12	that	_	_	_	_	_	_	_	_
+13	they	_	_	_	_	_	_	_	_
+14	were	_	_	_	_	_	_	_	_
+15	reported	_	_	_	_	_	_	_	_
+16	to	_	_	_	_	_	_	_	_
+17	have	_	_	_	_	_	_	_	_
+18	by	_	_	_	_	_	_	_	_
+19	the	_	_	_	_	_	_	_	_
+20	news	_	_	_	_	_	_	_	_
+21	reports	_	_	_	_	_	_	_	_
+22	on	_	_	_	_	_	_	_	_
+23	the	_	_	_	_	_	_	_	_
+24	day	_	_	_	_	_	_	_	_
+25	of	_	_	_	_	_	_	_	_
+26	the	_	_	_	_	_	_	_	_
+27	murder	_	_	_	_	_	_	_	_
+28	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01047104
+# text = This brought the book to the attention of the chemical industry and its lobbyists, as well as a wide swath of the American populace.
+1	This	_	_	_	_	_	_	_	_
+2	brought	_	_	_	_	_	_	_	_
+3	the	_	_	_	_	_	_	_	_
+4	book	_	_	_	_	_	_	_	_
+5	to	_	_	_	_	_	_	_	_
+6	the	_	_	_	_	_	_	_	_
+7	attention	_	_	_	_	_	_	_	_
+8	of	_	_	_	_	_	_	_	_
+9	the	_	_	_	_	_	_	_	_
+10	chemical	_	_	_	_	_	_	_	_
+11	industry	_	_	_	_	_	_	_	_
+12	and	_	_	_	_	_	_	_	_
+13	its	_	_	_	_	_	_	_	_
+14	lobbyists	_	_	_	_	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	as	_	_	_	_	_	_	_	_
+17	well	_	_	_	_	_	_	_	_
+18	as	_	_	_	_	_	_	_	_
+19	a	_	_	_	_	_	_	_	_
+20	wide	_	_	_	_	_	_	_	_
+21	swath	_	_	_	_	_	_	_	_
+22	of	_	_	_	_	_	_	_	_
+23	the	_	_	_	_	_	_	_	_
+24	American	_	_	_	_	_	_	_	_
+25	populace	_	_	_	_	_	_	_	_
+26	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01011011
+# text = She killed Andre Price III by pressing his face into an air mattress in her sitting room before trying to do the same to her daughter, Angel, police said.
+1	She	_	_	_	_	_	_	_	_
+2	killed	_	_	_	_	_	_	_	_
+3	Andre	_	_	_	_	_	_	_	_
+4	Price	_	_	_	_	_	_	_	_
+5	III	_	_	_	_	_	_	_	_
+6	by	_	_	_	_	_	_	_	_
+7	pressing	_	_	_	_	_	_	_	_
+8	his	_	_	_	_	_	_	_	_
+9	face	_	_	_	_	_	_	_	_
+10	into	_	_	_	_	_	_	_	_
+11	an	_	_	_	_	_	_	_	_
+12	air	_	_	_	_	_	_	_	_
+13	mattress	_	_	_	_	_	_	_	_
+14	in	_	_	_	_	_	_	_	_
+15	her	_	_	_	_	_	_	_	_
+16	sitting	_	_	_	_	_	_	_	_
+17	room	_	_	_	_	_	_	_	_
+18	before	_	_	_	_	_	_	_	_
+19	trying	_	_	_	_	_	_	_	_
+20	to	_	_	_	_	_	_	_	_
+21	do	_	_	_	_	_	_	_	_
+22	the	_	_	_	_	_	_	_	_
+23	same	_	_	_	_	_	_	_	_
+24	to	_	_	_	_	_	_	_	_
+25	her	_	_	_	_	_	_	_	_
+26	daughter	_	_	_	_	_	_	_	_
+27	,	_	_	_	_	_	_	_	_
+28	Angel	_	_	_	_	_	_	_	_
+29	,	_	_	_	_	_	_	_	_
+30	police	_	_	_	_	_	_	_	_
+31	said	_	_	_	_	_	_	_	_
+32	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01140031
+# text = Once Hans Pettersson was able to secure funds to pay Rona's expenses, Joliot-Curie allowed her to come and study polonium separation at the Curie Institute in Paris.
+1	Once	_	_	_	_	_	_	_	_
+2	Hans	_	_	_	_	_	_	_	_
+3	Pettersson	_	_	_	_	_	_	_	_
+4	was	_	_	_	_	_	_	_	_
+5	able	_	_	_	_	_	_	_	_
+6	to	_	_	_	_	_	_	_	_
+7	secure	_	_	_	_	_	_	_	_
+8	funds	_	_	_	_	_	_	_	_
+9	to	_	_	_	_	_	_	_	_
+10	pay	_	_	_	_	_	_	_	_
+11	Rona	_	_	_	_	_	_	_	_
+12	's	_	_	_	_	_	_	_	_
+13	expenses	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	Joliot	_	_	_	_	_	_	_	_
+16	-	_	_	_	_	_	_	_	_
+17	Curie	_	_	_	_	_	_	_	_
+18	allowed	_	_	_	_	_	_	_	_
+19	her	_	_	_	_	_	_	_	_
+20	to	_	_	_	_	_	_	_	_
+21	come	_	_	_	_	_	_	_	_
+22	and	_	_	_	_	_	_	_	_
+23	study	_	_	_	_	_	_	_	_
+24	polonium	_	_	_	_	_	_	_	_
+25	separation	_	_	_	_	_	_	_	_
+26	at	_	_	_	_	_	_	_	_
+27	the	_	_	_	_	_	_	_	_
+28	Curie	_	_	_	_	_	_	_	_
+29	Institute	_	_	_	_	_	_	_	_
+30	in	_	_	_	_	_	_	_	_
+31	Paris	_	_	_	_	_	_	_	_
+32	.	_	_	_	_	_	_	_	_
+
+# sent_id = n04007018
+# text = This is what has been written in a note to Mps after the decision of the ex-minister to leave the party.
+1	This	_	_	_	_	_	_	_	_
+2	is	_	_	_	_	_	_	_	_
+3	what	_	_	_	_	_	_	_	_
+4	has	_	_	_	_	_	_	_	_
+5	been	_	_	_	_	_	_	_	_
+6	written	_	_	_	_	_	_	_	_
+7	in	_	_	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	note	_	_	_	_	_	_	_	_
+10	to	_	_	_	_	_	_	_	_
+11	Mps	_	_	_	_	_	_	_	_
+12	after	_	_	_	_	_	_	_	_
+13	the	_	_	_	_	_	_	_	_
+14	decision	_	_	_	_	_	_	_	_
+15	of	_	_	_	_	_	_	_	_
+16	the	_	_	_	_	_	_	_	_
+17	ex-minister	_	_	_	_	_	_	_	_
+18	to	_	_	_	_	_	_	_	_
+19	leave	_	_	_	_	_	_	_	_
+20	the	_	_	_	_	_	_	_	_
+21	party	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# sent_id = w05005086
+# text = The expedition was led by General Joseph Burgoyne who intended to reach Albany.
+1	The	_	_	_	_	_	_	_	_
+2	expedition	_	_	_	_	_	_	_	_
+3	was	_	_	_	_	_	_	_	_
+4	led	_	_	_	_	_	_	_	_
+5	by	_	_	_	_	_	_	_	_
+6	General	_	_	_	_	_	_	_	_
+7	Joseph	_	_	_	_	_	_	_	_
+8	Burgoyne	_	_	_	_	_	_	_	_
+9	who	_	_	_	_	_	_	_	_
+10	intended	_	_	_	_	_	_	_	_
+11	to	_	_	_	_	_	_	_	_
+12	reach	_	_	_	_	_	_	_	_
+13	Albany	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01033061
+# text = Investigation and expeditions to the island continue.
+1	Investigation	_	_	_	_	_	_	_	_
+2	and	_	_	_	_	_	_	_	_
+3	expeditions	_	_	_	_	_	_	_	_
+4	to	_	_	_	_	_	_	_	_
+5	the	_	_	_	_	_	_	_	_
+6	island	_	_	_	_	_	_	_	_
+7	continue	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01053045
+# text = According to the New Testament, Paul spent eighteen months in Corinth, approximately seventeen years after his conversion.
+1	According	_	_	_	_	_	_	_	_
+2	to	_	_	_	_	_	_	_	_
+3	the	_	_	_	_	_	_	_	_
+4	New	_	_	_	_	_	_	_	_
+5	Testament	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	Paul	_	_	_	_	_	_	_	_
+8	spent	_	_	_	_	_	_	_	_
+9	eighteen	_	_	_	_	_	_	_	_
+10	months	_	_	_	_	_	_	_	_
+11	in	_	_	_	_	_	_	_	_
+12	Corinth	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	approximately	_	_	_	_	_	_	_	_
+15	seventeen	_	_	_	_	_	_	_	_
+16	years	_	_	_	_	_	_	_	_
+17	after	_	_	_	_	_	_	_	_
+18	his	_	_	_	_	_	_	_	_
+19	conversion	_	_	_	_	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = n05006013
+# text = Emphasis, fine irony, blunt innuendos and other well used verbal devices fit into parliamentary oratory, but flicking at each other and slapstick comedy do not.
+1	Emphasis	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	fine	_	_	_	_	_	_	_	_
+4	irony	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	blunt	_	_	_	_	_	_	_	_
+7	innuendos	_	_	_	_	_	_	_	_
+8	and	_	_	_	_	_	_	_	_
+9	other	_	_	_	_	_	_	_	_
+10	well	_	_	_	_	_	_	_	_
+11	used	_	_	_	_	_	_	_	_
+12	verbal	_	_	_	_	_	_	_	_
+13	devices	_	_	_	_	_	_	_	_
+14	fit	_	_	_	_	_	_	_	_
+15	into	_	_	_	_	_	_	_	_
+16	parliamentary	_	_	_	_	_	_	_	_
+17	oratory	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	but	_	_	_	_	_	_	_	_
+20	flicking	_	_	_	_	_	_	_	_
+21	at	_	_	_	_	_	_	_	_
+22	each	_	_	_	_	_	_	_	_
+23	other	_	_	_	_	_	_	_	_
+24	and	_	_	_	_	_	_	_	_
+25	slapstick	_	_	_	_	_	_	_	_
+26	comedy	_	_	_	_	_	_	_	_
+27	do	_	_	_	_	_	_	_	_
+28	not	_	_	_	_	_	_	_	_
+29	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01145028
+# text = "There are 1200 volunteers working for the parade alone," González Anaya says.
+1	"	_	_	_	_	_	_	_	_
+2	There	_	_	_	_	_	_	_	_
+3	are	_	_	_	_	_	_	_	_
+4	1200	_	_	_	_	_	_	_	_
+5	volunteers	_	_	_	_	_	_	_	_
+6	working	_	_	_	_	_	_	_	_
+7	for	_	_	_	_	_	_	_	_
+8	the	_	_	_	_	_	_	_	_
+9	parade	_	_	_	_	_	_	_	_
+10	alone	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	"	_	_	_	_	_	_	_	_
+13	González	_	_	_	_	_	_	_	_
+14	Anaya	_	_	_	_	_	_	_	_
+15	says	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01016034
+# text = During rains precipitation, the water droplets absorb and dissolve carbon dioxide from the surrounding air.
+1	During	_	_	_	_	_	_	_	_
+2	rains	_	_	_	_	_	_	_	_
+3	precipitation	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	the	_	_	_	_	_	_	_	_
+6	water	_	_	_	_	_	_	_	_
+7	droplets	_	_	_	_	_	_	_	_
+8	absorb	_	_	_	_	_	_	_	_
+9	and	_	_	_	_	_	_	_	_
+10	dissolve	_	_	_	_	_	_	_	_
+11	carbon	_	_	_	_	_	_	_	_
+12	dioxide	_	_	_	_	_	_	_	_
+13	from	_	_	_	_	_	_	_	_
+14	the	_	_	_	_	_	_	_	_
+15	surrounding	_	_	_	_	_	_	_	_
+16	air	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = w02013033
+# text = The Suez Crisis showed the limits of the old colonial powers such as Great Britain and France in a changing world.
+1	The	_	_	_	_	_	_	_	_
+2	Suez	_	_	_	_	_	_	_	_
+3	Crisis	_	_	_	_	_	_	_	_
+4	showed	_	_	_	_	_	_	_	_
+5	the	_	_	_	_	_	_	_	_
+6	limits	_	_	_	_	_	_	_	_
+7	of	_	_	_	_	_	_	_	_
+8	the	_	_	_	_	_	_	_	_
+9	old	_	_	_	_	_	_	_	_
+10	colonial	_	_	_	_	_	_	_	_
+11	powers	_	_	_	_	_	_	_	_
+12	such	_	_	_	_	_	_	_	_
+13	as	_	_	_	_	_	_	_	_
+14	Great	_	_	_	_	_	_	_	_
+15	Britain	_	_	_	_	_	_	_	_
+16	and	_	_	_	_	_	_	_	_
+17	France	_	_	_	_	_	_	_	_
+18	in	_	_	_	_	_	_	_	_
+19	a	_	_	_	_	_	_	_	_
+20	changing	_	_	_	_	_	_	_	_
+21	world	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n01042
+# sent_id = n01042004
+# text = The Ontario Independent Police Review Director, Gerry McNeilly, set the terms for his review this week after "alarming questions" were raised about how officers interact with Indigenous peoples.
+1	The	_	_	_	_	_	_	_	_
+2	Ontario	_	_	_	_	_	_	_	_
+3	Independent	_	_	_	_	_	_	_	_
+4	Police	_	_	_	_	_	_	_	_
+5	Review	_	_	_	_	_	_	_	_
+6	Director	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	Gerry	_	_	_	_	_	_	_	_
+9	McNeilly	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	set	_	_	_	_	_	_	_	_
+12	the	_	_	_	_	_	_	_	_
+13	terms	_	_	_	_	_	_	_	_
+14	for	_	_	_	_	_	_	_	_
+15	his	_	_	_	_	_	_	_	_
+16	review	_	_	_	_	_	_	_	_
+17	this	_	_	_	_	_	_	_	_
+18	week	_	_	_	_	_	_	_	_
+19	after	_	_	_	_	_	_	_	_
+20	"	_	_	_	_	_	_	_	_
+21	alarming	_	_	_	_	_	_	_	_
+22	questions	_	_	_	_	_	_	_	_
+23	"	_	_	_	_	_	_	_	_
+24	were	_	_	_	_	_	_	_	_
+25	raised	_	_	_	_	_	_	_	_
+26	about	_	_	_	_	_	_	_	_
+27	how	_	_	_	_	_	_	_	_
+28	officers	_	_	_	_	_	_	_	_
+29	interact	_	_	_	_	_	_	_	_
+30	with	_	_	_	_	_	_	_	_
+31	Indigenous	_	_	_	_	_	_	_	_
+32	peoples	_	_	_	_	_	_	_	_
+33	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n03008
+# sent_id = n03008011
+# text = "ETA is on its way out," the French contingent revealed.
+1	"	_	_	_	_	_	_	_	_
+2	ETA	_	_	_	_	_	_	_	_
+3	is	_	_	_	_	_	_	_	_
+4	on	_	_	_	_	_	_	_	_
+5	its	_	_	_	_	_	_	_	_
+6	way	_	_	_	_	_	_	_	_
+7	out	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	"	_	_	_	_	_	_	_	_
+10	the	_	_	_	_	_	_	_	_
+11	French	_	_	_	_	_	_	_	_
+12	contingent	_	_	_	_	_	_	_	_
+13	revealed	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w03003
+# sent_id = w03003023
+# text = Von Bellingshausen sighted Antarctica on the 27th of January 1820, three days before Bransfield sighted land, and ten months before Palmer did so in November 1820.
+1	Von	_	_	_	_	_	_	_	_
+2	Bellingshausen	_	_	_	_	_	_	_	_
+3	sighted	_	_	_	_	_	_	_	_
+4	Antarctica	_	_	_	_	_	_	_	_
+5	on	_	_	_	_	_	_	_	_
+6	the	_	_	_	_	_	_	_	_
+7	27th	_	_	_	_	_	_	_	_
+8	of	_	_	_	_	_	_	_	_
+9	January	_	_	_	_	_	_	_	_
+10	1820	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	three	_	_	_	_	_	_	_	_
+13	days	_	_	_	_	_	_	_	_
+14	before	_	_	_	_	_	_	_	_
+15	Bransfield	_	_	_	_	_	_	_	_
+16	sighted	_	_	_	_	_	_	_	_
+17	land	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	and	_	_	_	_	_	_	_	_
+20	ten	_	_	_	_	_	_	_	_
+21	months	_	_	_	_	_	_	_	_
+22	before	_	_	_	_	_	_	_	_
+23	Palmer	_	_	_	_	_	_	_	_
+24	did	_	_	_	_	_	_	_	_
+25	so	_	_	_	_	_	_	_	_
+26	in	_	_	_	_	_	_	_	_
+27	November	_	_	_	_	_	_	_	_
+28	1820	_	_	_	_	_	_	_	_
+29	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01111093
+# text = Winstone was declared bankrupt on 4 October 1988 and again on 19 March 1993.
+1	Winstone	_	_	_	_	_	_	_	_
+2	was	_	_	_	_	_	_	_	_
+3	declared	_	_	_	_	_	_	_	_
+4	bankrupt	_	_	_	_	_	_	_	_
+5	on	_	_	_	_	_	_	_	_
+6	4	_	_	_	_	_	_	_	_
+7	October	_	_	_	_	_	_	_	_
+8	1988	_	_	_	_	_	_	_	_
+9	and	_	_	_	_	_	_	_	_
+10	again	_	_	_	_	_	_	_	_
+11	on	_	_	_	_	_	_	_	_
+12	19	_	_	_	_	_	_	_	_
+13	March	_	_	_	_	_	_	_	_
+14	1993	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n01106
+# sent_id = n01106008
+# text = The annual survey also revealed that worries about taking on fresh financial burdens has rocketed.
+1	The	_	_	_	_	_	_	_	_
+2	annual	_	_	_	_	_	_	_	_
+3	survey	_	_	_	_	_	_	_	_
+4	also	_	_	_	_	_	_	_	_
+5	revealed	_	_	_	_	_	_	_	_
+6	that	_	_	_	_	_	_	_	_
+7	worries	_	_	_	_	_	_	_	_
+8	about	_	_	_	_	_	_	_	_
+9	taking	_	_	_	_	_	_	_	_
+10	on	_	_	_	_	_	_	_	_
+11	fresh	_	_	_	_	_	_	_	_
+12	financial	_	_	_	_	_	_	_	_
+13	burdens	_	_	_	_	_	_	_	_
+14	has	_	_	_	_	_	_	_	_
+15	rocketed	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = w03001058
+# text = The history of Carcassonne is directly linked to that of its fortified city.
+1	The	_	_	_	_	_	_	_	_
+2	history	_	_	_	_	_	_	_	_
+3	of	_	_	_	_	_	_	_	_
+4	Carcassonne	_	_	_	_	_	_	_	_
+5	is	_	_	_	_	_	_	_	_
+6	directly	_	_	_	_	_	_	_	_
+7	linked	_	_	_	_	_	_	_	_
+8	to	_	_	_	_	_	_	_	_
+9	that	_	_	_	_	_	_	_	_
+10	of	_	_	_	_	_	_	_	_
+11	its	_	_	_	_	_	_	_	_
+12	fortified	_	_	_	_	_	_	_	_
+13	city	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n01073
+# sent_id = n01073004
+# text = Who can stop this Australia side?
+1	Who	_	_	_	_	_	_	_	_
+2	can	_	_	_	_	_	_	_	_
+3	stop	_	_	_	_	_	_	_	_
+4	this	_	_	_	_	_	_	_	_
+5	Australia	_	_	_	_	_	_	_	_
+6	side	_	_	_	_	_	_	_	_
+7	?	_	_	_	_	_	_	_	_
+
+# sent_id = n01041018
+# text = "Physicians don't have these tools, they have only a prescription pad and an injection," Mailis said.
+1	"	_	_	_	_	_	_	_	_
+2	Physicians	_	_	_	_	_	_	_	_
+3	do	_	_	_	_	_	_	_	_
+4	n't	_	_	_	_	_	_	_	_
+5	have	_	_	_	_	_	_	_	_
+6	these	_	_	_	_	_	_	_	_
+7	tools	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	they	_	_	_	_	_	_	_	_
+10	have	_	_	_	_	_	_	_	_
+11	only	_	_	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	prescription	_	_	_	_	_	_	_	_
+14	pad	_	_	_	_	_	_	_	_
+15	and	_	_	_	_	_	_	_	_
+16	an	_	_	_	_	_	_	_	_
+17	injection	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	"	_	_	_	_	_	_	_	_
+20	Mailis	_	_	_	_	_	_	_	_
+21	said	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01141022
+# text = But its latest effort into the workplace chat game is a part of a larger trend from tech companies.
+1	But	_	_	_	_	_	_	_	_
+2	its	_	_	_	_	_	_	_	_
+3	latest	_	_	_	_	_	_	_	_
+4	effort	_	_	_	_	_	_	_	_
+5	into	_	_	_	_	_	_	_	_
+6	the	_	_	_	_	_	_	_	_
+7	workplace	_	_	_	_	_	_	_	_
+8	chat	_	_	_	_	_	_	_	_
+9	game	_	_	_	_	_	_	_	_
+10	is	_	_	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	part	_	_	_	_	_	_	_	_
+13	of	_	_	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	larger	_	_	_	_	_	_	_	_
+16	trend	_	_	_	_	_	_	_	_
+17	from	_	_	_	_	_	_	_	_
+18	tech	_	_	_	_	_	_	_	_
+19	companies	_	_	_	_	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01086037
+# text = By 1563, the population of Venice had dropped to about 168,000 people.
+1	By	_	_	_	_	_	_	_	_
+2	1563	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	the	_	_	_	_	_	_	_	_
+5	population	_	_	_	_	_	_	_	_
+6	of	_	_	_	_	_	_	_	_
+7	Venice	_	_	_	_	_	_	_	_
+8	had	_	_	_	_	_	_	_	_
+9	dropped	_	_	_	_	_	_	_	_
+10	to	_	_	_	_	_	_	_	_
+11	about	_	_	_	_	_	_	_	_
+12	168,000	_	_	_	_	_	_	_	_
+13	people	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w01115
+# sent_id = w01115022
+# text = With advice from Alexander, he was able to work out a compromise: he would attend a university, but would study literature.
+1	With	_	_	_	_	_	_	_	_
+2	advice	_	_	_	_	_	_	_	_
+3	from	_	_	_	_	_	_	_	_
+4	Alexander	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	he	_	_	_	_	_	_	_	_
+7	was	_	_	_	_	_	_	_	_
+8	able	_	_	_	_	_	_	_	_
+9	to	_	_	_	_	_	_	_	_
+10	work	_	_	_	_	_	_	_	_
+11	out	_	_	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	compromise	_	_	_	_	_	_	_	_
+14	:	_	_	_	_	_	_	_	_
+15	he	_	_	_	_	_	_	_	_
+16	would	_	_	_	_	_	_	_	_
+17	attend	_	_	_	_	_	_	_	_
+18	a	_	_	_	_	_	_	_	_
+19	university	_	_	_	_	_	_	_	_
+20	,	_	_	_	_	_	_	_	_
+21	but	_	_	_	_	_	_	_	_
+22	would	_	_	_	_	_	_	_	_
+23	study	_	_	_	_	_	_	_	_
+24	literature	_	_	_	_	_	_	_	_
+25	.	_	_	_	_	_	_	_	_
+

@@ -1,0 +1,1344 @@
+# sent_id = wiki:wikibank.vislcg.txt:114:3084
+# text = Di nava salên 1973 – 79 berpirsiyariya konseptên pêşketinê yê du kantonên Swîsreyê kiriye.
+1	Di	_	_	_	_	_	_	_	_
+2	nava	_	_	_	_	_	_	_	_
+3	salên	_	_	_	_	_	_	_	_
+4	1973	_	_	_	_	_	_	_	_
+5	–	_	_	_	_	_	_	_	_
+6	79	_	_	_	_	_	_	_	_
+7	berpirsiyariya	_	_	_	_	_	_	_	_
+8	konseptên	_	_	_	_	_	_	_	_
+9	pêşketinê	_	_	_	_	_	_	_	_
+10	yê	_	_	_	_	_	_	_	_
+11	du	_	_	_	_	_	_	_	_
+12	kantonên	_	_	_	_	_	_	_	_
+13	Swîsreyê	_	_	_	_	_	_	_	_
+14	kiriye	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock10.vislcg.txt:9:343
+# text = Lê nizanim ji wan ta mîratan re hewce hebû.
+1	Lê	_	_	_	_	_	_	_	_
+2	nizanim	_	_	_	_	_	_	_	_
+3	ji	_	_	_	_	_	_	_	_
+4	wan	_	_	_	_	_	_	_	_
+5	ta	_	_	_	_	_	_	_	_
+6	mîratan	_	_	_	_	_	_	_	_
+7	re	_	_	_	_	_	_	_	_
+8	hewce	_	_	_	_	_	_	_	_
+9	hebû	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:242:6627
+# text = Yek jê Keşîşê Reş e ku Hisên Mihemed (Husein Muhammed) wergerandiye.
+1	Yek	_	_	_	_	_	_	_	_
+2	jê	_	_	_	_	_	_	_	_
+3	_	_	_	_	_	_	_	_	_
+4	Keşîşê	_	_	_	_	_	_	_	_
+5	Reş	_	_	_	_	_	_	_	_
+6	e	_	_	_	_	_	_	_	_
+7	ku	_	_	_	_	_	_	_	_
+8	Hisên	_	_	_	_	_	_	_	_
+9	Mihemed	_	_	_	_	_	_	_	_
+10	(	_	_	_	_	_	_	_	_
+11	Husein	_	_	_	_	_	_	_	_
+12	Muhammed	_	_	_	_	_	_	_	_
+13	)	_	_	_	_	_	_	_	_
+14	wergerandiye	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock15.vislcg.txt:3:45
+# text = Saet bû bû yanzdeh.
+1	Saet	_	_	_	_	_	_	_	_
+2	bû bû	_	_	_	_	_	_	_	_
+3	yanzdeh	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock03.vislcg.txt:3:94
+# text = Dr. Rweylot gelek hej heywanên Hindistanê kiri bûn.
+1	Dr.	_	_	_	_	_	_	_	_
+2	Rweylot	_	_	_	_	_	_	_	_
+3	gelek	_	_	_	_	_	_	_	_
+4	hej	_	_	_	_	_	_	_	_
+5	heywanên	_	_	_	_	_	_	_	_
+6	Hindistanê	_	_	_	_	_	_	_	_
+7	kiri bûn	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock08.vislcg.txt:2:44
+# text = Rweylot: (bi kerb) Tu dixwazî ji min xelas bibî: Ez te nas dikim û dizanim tu çi melûn.
+1	Rweylot	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	(	_	_	_	_	_	_	_	_
+4	bi	_	_	_	_	_	_	_	_
+5	kerb	_	_	_	_	_	_	_	_
+6	)	_	_	_	_	_	_	_	_
+7	Tu	_	_	_	_	_	_	_	_
+8	dixwazî	_	_	_	_	_	_	_	_
+9	ji	_	_	_	_	_	_	_	_
+10	min	_	_	_	_	_	_	_	_
+11	xelas	_	_	_	_	_	_	_	_
+12	bibî	_	_	_	_	_	_	_	_
+13	:	_	_	_	_	_	_	_	_
+14	Ez	_	_	_	_	_	_	_	_
+15	te	_	_	_	_	_	_	_	_
+16	nas dikim	_	_	_	_	_	_	_	_
+17	û	_	_	_	_	_	_	_	_
+18	dizanim	_	_	_	_	_	_	_	_
+19	tu	_	_	_	_	_	_	_	_
+20	çi	_	_	_	_	_	_	_	_
+21	melûn	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock02.vislcg.txt:8:190
+# text = Holmes serê xwe hejand û got: ev nav ji min re ne jî nenas e.
+1	Holmes	_	_	_	_	_	_	_	_
+2	serê	_	_	_	_	_	_	_	_
+3	xwe	_	_	_	_	_	_	_	_
+4	hejand	_	_	_	_	_	_	_	_
+5	û	_	_	_	_	_	_	_	_
+6	got	_	_	_	_	_	_	_	_
+7	:	_	_	_	_	_	_	_	_
+8	ev	_	_	_	_	_	_	_	_
+9	nav	_	_	_	_	_	_	_	_
+10	ji	_	_	_	_	_	_	_	_
+11	min	_	_	_	_	_	_	_	_
+12	re	_	_	_	_	_	_	_	_
+13	ne	_	_	_	_	_	_	_	_
+14	jî	_	_	_	_	_	_	_	_
+15	nenas	_	_	_	_	_	_	_	_
+16	e	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:176:4819
+# text = Ji ber vê yekê, xwediyê agahiyeke fireh a çanda hunerê bû.
+1	Ji	_	_	_	_	_	_	_	_
+2	ber	_	_	_	_	_	_	_	_
+3	vê	_	_	_	_	_	_	_	_
+4	yekê	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	xwediyê	_	_	_	_	_	_	_	_
+7	agahiyeke	_	_	_	_	_	_	_	_
+8	fireh	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	çanda	_	_	_	_	_	_	_	_
+11	hunerê	_	_	_	_	_	_	_	_
+12	bû	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:382:10607
+# text = Piştî 4 hejmaran, navê xwe dike Kulîlka Ciwan.
+1	Piştî	_	_	_	_	_	_	_	_
+2	4	_	_	_	_	_	_	_	_
+3	hejmaran	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	navê	_	_	_	_	_	_	_	_
+6	xwe	_	_	_	_	_	_	_	_
+7	dike	_	_	_	_	_	_	_	_
+8	Kulîlka	_	_	_	_	_	_	_	_
+9	Ciwan	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:5:105
+# text = Ev Nûner heta Hukumeta Iraqê hat avakirin li Duhokê ma.
+1	Ev	_	_	_	_	_	_	_	_
+2	Nûner	_	_	_	_	_	_	_	_
+3	heta	_	_	_	_	_	_	_	_
+4	Hukumeta	_	_	_	_	_	_	_	_
+5	Iraqê	_	_	_	_	_	_	_	_
+6	hat	_	_	_	_	_	_	_	_
+7	avakirin	_	_	_	_	_	_	_	_
+8	li	_	_	_	_	_	_	_	_
+9	Duhokê	_	_	_	_	_	_	_	_
+10	ma	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock03.vislcg.txt:13:356
+# text = Deriyên wan tev de li lîwanekê vedibin.
+1	Deriyên	_	_	_	_	_	_	_	_
+2	wan	_	_	_	_	_	_	_	_
+3	tev	_	_	_	_	_	_	_	_
+4	de	_	_	_	_	_	_	_	_
+5	li	_	_	_	_	_	_	_	_
+6	lîwanekê	_	_	_	_	_	_	_	_
+7	vedibin	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:218:5946
+# text = Bi biharan û havînan xweza xwe li vir bêhempa dixemilîne.
+1	Bi	_	_	_	_	_	_	_	_
+2	biharan	_	_	_	_	_	_	_	_
+3	û	_	_	_	_	_	_	_	_
+4	havînan	_	_	_	_	_	_	_	_
+5	xweza	_	_	_	_	_	_	_	_
+6	xwe	_	_	_	_	_	_	_	_
+7	li	_	_	_	_	_	_	_	_
+8	vir	_	_	_	_	_	_	_	_
+9	bêhempa	_	_	_	_	_	_	_	_
+10	dixemilîne	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:189:5152
+# text = Di vê berhema xwe de ji dîrokên kevnar heya roja xwe bav û kalên kurdan girtiye dest.
+1	Di	_	_	_	_	_	_	_	_
+2	vê	_	_	_	_	_	_	_	_
+3	berhema	_	_	_	_	_	_	_	_
+4	xwe	_	_	_	_	_	_	_	_
+5	de	_	_	_	_	_	_	_	_
+6	ji	_	_	_	_	_	_	_	_
+7	dîrokên	_	_	_	_	_	_	_	_
+8	kevnar	_	_	_	_	_	_	_	_
+9	heya	_	_	_	_	_	_	_	_
+10	roja	_	_	_	_	_	_	_	_
+11	xwe	_	_	_	_	_	_	_	_
+12	bav	_	_	_	_	_	_	_	_
+13	û	_	_	_	_	_	_	_	_
+14	kalên	_	_	_	_	_	_	_	_
+15	kurdan	_	_	_	_	_	_	_	_
+16	girtiye	_	_	_	_	_	_	_	_
+17	dest	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:84:2330
+# text = Di sala 1932'an de li Şamê kovara bi navûdeng Hawar dest bi weşanê kir.
+1	Di	_	_	_	_	_	_	_	_
+2	sala	_	_	_	_	_	_	_	_
+3	1932'an	_	_	_	_	_	_	_	_
+4	de	_	_	_	_	_	_	_	_
+5	li	_	_	_	_	_	_	_	_
+6	Şamê	_	_	_	_	_	_	_	_
+7	kovara	_	_	_	_	_	_	_	_
+8	bi	_	_	_	_	_	_	_	_
+9	navûdeng	_	_	_	_	_	_	_	_
+10	Hawar	_	_	_	_	_	_	_	_
+11	dest	_	_	_	_	_	_	_	_
+12	bi	_	_	_	_	_	_	_	_
+13	weşanê	_	_	_	_	_	_	_	_
+14	kir	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:322:8837
+# text = Lam (ل) herfa bîst û sêyem a alfabeya erebî ye.
+1	Lam	_	_	_	_	_	_	_	_
+2	(	_	_	_	_	_	_	_	_
+3	ل	_	_	_	_	_	_	_	_
+4	)	_	_	_	_	_	_	_	_
+5	herfa	_	_	_	_	_	_	_	_
+6	bîst	_	_	_	_	_	_	_	_
+7	û	_	_	_	_	_	_	_	_
+8	sêyem	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	alfabeya	_	_	_	_	_	_	_	_
+11	erebî	_	_	_	_	_	_	_	_
+12	ye	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:250:6846
+# text = Ji ajalên herî bihêz ên erd ezmanan pêk hatine.
+1	Ji	_	_	_	_	_	_	_	_
+2	ajalên	_	_	_	_	_	_	_	_
+3	herî	_	_	_	_	_	_	_	_
+4	bihêz	_	_	_	_	_	_	_	_
+5	ên	_	_	_	_	_	_	_	_
+6	erd	_	_	_	_	_	_	_	_
+7	ezmanan	_	_	_	_	_	_	_	_
+8	pêk	_	_	_	_	_	_	_	_
+9	hatine	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:44:1200
+# text = Li gorî vê yekê, gotinên ne baş jî qedexe ne.
+1	Li	_	_	_	_	_	_	_	_
+2	gorî	_	_	_	_	_	_	_	_
+3	vê	_	_	_	_	_	_	_	_
+4	yekê	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	gotinên	_	_	_	_	_	_	_	_
+7	ne	_	_	_	_	_	_	_	_
+8	baş	_	_	_	_	_	_	_	_
+9	jî	_	_	_	_	_	_	_	_
+10	qedexe	_	_	_	_	_	_	_	_
+11	ne	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:298:8227
+# text = Piştî Şerê şeş-rojî bi Îsraîlê re, hat berdan.
+1	Piştî	_	_	_	_	_	_	_	_
+2	Şerê	_	_	_	_	_	_	_	_
+3	şeş	_	_	_	_	_	_	_	_
+4	-	_	_	_	_	_	_	_	_
+5	rojî	_	_	_	_	_	_	_	_
+6	bi	_	_	_	_	_	_	_	_
+7	Îsraîlê	_	_	_	_	_	_	_	_
+8	re	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	hat	_	_	_	_	_	_	_	_
+11	berdan	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:391:10852
+# text = Li cem malbatê dewlemend ji bo perê nan xebitî.
+1	Li	_	_	_	_	_	_	_	_
+2	cem	_	_	_	_	_	_	_	_
+3	malbatê	_	_	_	_	_	_	_	_
+4	dewlemend	_	_	_	_	_	_	_	_
+5	ji	_	_	_	_	_	_	_	_
+6	bo	_	_	_	_	_	_	_	_
+7	perê	_	_	_	_	_	_	_	_
+8	nan	_	_	_	_	_	_	_	_
+9	xebitî	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:342:9401
+# text = Ji bilî alfabeyên ku em dê li jêrê bidin, kurdan xet aramî, suryanî û grekî jî bi kar anîne.
+1	Ji	_	_	_	_	_	_	_	_
+2	bilî	_	_	_	_	_	_	_	_
+3	alfabeyên	_	_	_	_	_	_	_	_
+4	ku	_	_	_	_	_	_	_	_
+5	em	_	_	_	_	_	_	_	_
+6	dê	_	_	_	_	_	_	_	_
+7	li	_	_	_	_	_	_	_	_
+8	jêrê	_	_	_	_	_	_	_	_
+9	bidin	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	kurdan	_	_	_	_	_	_	_	_
+12	xet	_	_	_	_	_	_	_	_
+13	aramî	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	suryanî	_	_	_	_	_	_	_	_
+16	û	_	_	_	_	_	_	_	_
+17	grekî	_	_	_	_	_	_	_	_
+18	jî	_	_	_	_	_	_	_	_
+19	bi	_	_	_	_	_	_	_	_
+20	kar	_	_	_	_	_	_	_	_
+21	anîne	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock18.vislcg.txt:10:185
+# text = Holmes rahişt, zolê ko li ser ejnûyên mirî bû û ew avête stoyê mar û pê mar rakir û ew danî nav dolabê, dolab girt.
+1	Holmes	_	_	_	_	_	_	_	_
+2	rahişt	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	zolê	_	_	_	_	_	_	_	_
+5	ko	_	_	_	_	_	_	_	_
+6	li	_	_	_	_	_	_	_	_
+7	ser	_	_	_	_	_	_	_	_
+8	ejnûyên	_	_	_	_	_	_	_	_
+9	mirî	_	_	_	_	_	_	_	_
+10	bû	_	_	_	_	_	_	_	_
+11	û	_	_	_	_	_	_	_	_
+12	ew	_	_	_	_	_	_	_	_
+13	avête	_	_	_	_	_	_	_	_
+14	stoyê	_	_	_	_	_	_	_	_
+15	mar	_	_	_	_	_	_	_	_
+16	û	_	_	_	_	_	_	_	_
+17	pê	_	_	_	_	_	_	_	_
+18	_	_	_	_	_	_	_	_	_
+19	mar	_	_	_	_	_	_	_	_
+20	rakir	_	_	_	_	_	_	_	_
+21	û	_	_	_	_	_	_	_	_
+22	ew	_	_	_	_	_	_	_	_
+23	danî	_	_	_	_	_	_	_	_
+24	nav	_	_	_	_	_	_	_	_
+25	dolabê	_	_	_	_	_	_	_	_
+26	,	_	_	_	_	_	_	_	_
+27	dolab	_	_	_	_	_	_	_	_
+28	girt	_	_	_	_	_	_	_	_
+29	.	_	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock14.vislcg.txt:13:350
+# text = Hingûra şevê dadiket, Dr. hat, li erebekê siwar bû û berê xwe da qesirê.
+1	Hingûra	_	_	_	_	_	_	_	_
+2	şevê	_	_	_	_	_	_	_	_
+3	dadiket	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	Dr.	_	_	_	_	_	_	_	_
+6	hat	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	li	_	_	_	_	_	_	_	_
+9	erebekê	_	_	_	_	_	_	_	_
+10	siwar	_	_	_	_	_	_	_	_
+11	bû	_	_	_	_	_	_	_	_
+12	û	_	_	_	_	_	_	_	_
+13	berê	_	_	_	_	_	_	_	_
+14	xwe	_	_	_	_	_	_	_	_
+15	da	_	_	_	_	_	_	_	_
+16	qesirê	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:406:11238
+# text = Li herêmê pirraniya navên cografîk bi Kurdî û Ermenî ne.
+1	Li	_	_	_	_	_	_	_	_
+2	herêmê	_	_	_	_	_	_	_	_
+3	pirraniya	_	_	_	_	_	_	_	_
+4	navên	_	_	_	_	_	_	_	_
+5	cografîk	_	_	_	_	_	_	_	_
+6	bi	_	_	_	_	_	_	_	_
+7	Kurdî	_	_	_	_	_	_	_	_
+8	û	_	_	_	_	_	_	_	_
+9	Ermenî	_	_	_	_	_	_	_	_
+10	ne	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:78:2174
+# text = Qey hûn nizanin Resûlê Xwedê di derheqê wî de çi gotiye?
+1	Qey	_	_	_	_	_	_	_	_
+2	hûn	_	_	_	_	_	_	_	_
+3	nizanin	_	_	_	_	_	_	_	_
+4	Resûlê	_	_	_	_	_	_	_	_
+5	Xwedê	_	_	_	_	_	_	_	_
+6	di	_	_	_	_	_	_	_	_
+7	derheqê	_	_	_	_	_	_	_	_
+8	wî	_	_	_	_	_	_	_	_
+9	de	_	_	_	_	_	_	_	_
+10	çi	_	_	_	_	_	_	_	_
+11	gotiye	_	_	_	_	_	_	_	_
+12	?	_	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:76:2112
+# text = Di warê endezyarî û teknolojiyê de wek zanîngeha teknîk a herî baş a dinyayê tê qebûlkirin.
+1	Di	_	_	_	_	_	_	_	_
+2	warê	_	_	_	_	_	_	_	_
+3	endezyarî	_	_	_	_	_	_	_	_
+4	û	_	_	_	_	_	_	_	_
+5	teknolojiyê	_	_	_	_	_	_	_	_
+6	de	_	_	_	_	_	_	_	_
+7	wek	_	_	_	_	_	_	_	_
+8	zanîngeha	_	_	_	_	_	_	_	_
+9	teknîk	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	herî	_	_	_	_	_	_	_	_
+12	baş	_	_	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	dinyayê	_	_	_	_	_	_	_	_
+15	tê	_	_	_	_	_	_	_	_
+16	qebûlkirin	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:292:8017
+# text = Meksîk pêkanîna federasyonê ya ji 31 dewletan û navçeyên federal e, ku bi paytexta xwe ye û nifûsa bajarê herî mezin e.
+1	Meksîk	_	_	_	_	_	_	_	_
+2	pêkanîna	_	_	_	_	_	_	_	_
+3	federasyonê	_	_	_	_	_	_	_	_
+4	ya	_	_	_	_	_	_	_	_
+5	ji	_	_	_	_	_	_	_	_
+6	31	_	_	_	_	_	_	_	_
+7	dewletan	_	_	_	_	_	_	_	_
+8	û	_	_	_	_	_	_	_	_
+9	navçeyên	_	_	_	_	_	_	_	_
+10	federal	_	_	_	_	_	_	_	_
+11	e	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	ku	_	_	_	_	_	_	_	_
+14	bi	_	_	_	_	_	_	_	_
+15	paytexta	_	_	_	_	_	_	_	_
+16	xwe	_	_	_	_	_	_	_	_
+17	ye	_	_	_	_	_	_	_	_
+18	û	_	_	_	_	_	_	_	_
+19	nifûsa	_	_	_	_	_	_	_	_
+20	bajarê	_	_	_	_	_	_	_	_
+21	herî	_	_	_	_	_	_	_	_
+22	mezin	_	_	_	_	_	_	_	_
+23	e	_	_	_	_	_	_	_	_
+24	.	_	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock11.vislcg.txt:2:41
+# text = Em vegeriyan hundirê qesirê û ketin oda ko banû Stonêr îro tê de radiket, oda ko xweha wê tê de miri bû.
+1	Em	_	_	_	_	_	_	_	_
+2	vegeriyan	_	_	_	_	_	_	_	_
+3	hundirê	_	_	_	_	_	_	_	_
+4	qesirê	_	_	_	_	_	_	_	_
+5	û	_	_	_	_	_	_	_	_
+6	ketin	_	_	_	_	_	_	_	_
+7	oda	_	_	_	_	_	_	_	_
+8	ko	_	_	_	_	_	_	_	_
+9	banû	_	_	_	_	_	_	_	_
+10	Stonêr	_	_	_	_	_	_	_	_
+11	îro	_	_	_	_	_	_	_	_
+12	tê	_	_	_	_	_	_	_	_
+13	_	_	_	_	_	_	_	_	_
+14	de	_	_	_	_	_	_	_	_
+15	radiket	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	oda	_	_	_	_	_	_	_	_
+18	ko	_	_	_	_	_	_	_	_
+19	xweha	_	_	_	_	_	_	_	_
+20	wê	_	_	_	_	_	_	_	_
+21	tê	_	_	_	_	_	_	_	_
+22	_	_	_	_	_	_	_	_	_
+23	de	_	_	_	_	_	_	_	_
+24	miri bû	_	_	_	_	_	_	_	_
+25	.	_	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock18.vislcg.txt:15:323
+# text = Emê wan ji devê Şerlok Holmes bi xwe bibihîsin.
+1	Emê	_	_	_	_	_	_	_	_
+2	_	_	_	_	_	_	_	_	_
+3	wan	_	_	_	_	_	_	_	_
+4	ji	_	_	_	_	_	_	_	_
+5	devê	_	_	_	_	_	_	_	_
+6	Şerlok	_	_	_	_	_	_	_	_
+7	Holmes	_	_	_	_	_	_	_	_
+8	bi	_	_	_	_	_	_	_	_
+9	xwe	_	_	_	_	_	_	_	_
+10	bibihîsin	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock13.vislcg.txt:16:474
+# text = Stonêrê, hinek heyirî lê nihêrt û got: Ez hati bûm nik te da tu ji min re sira mirina xweha min keşif bikî.
+1	Stonêrê	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	hinek	_	_	_	_	_	_	_	_
+4	heyirî	_	_	_	_	_	_	_	_
+5	lê	_	_	_	_	_	_	_	_
+6	_	_	_	_	_	_	_	_	_
+7	nihêrt	_	_	_	_	_	_	_	_
+8	û	_	_	_	_	_	_	_	_
+9	got	_	_	_	_	_	_	_	_
+10	:	_	_	_	_	_	_	_	_
+11	Ez	_	_	_	_	_	_	_	_
+12	hati bûm	_	_	_	_	_	_	_	_
+13	nik	_	_	_	_	_	_	_	_
+14	te	_	_	_	_	_	_	_	_
+15	da	_	_	_	_	_	_	_	_
+16	tu	_	_	_	_	_	_	_	_
+17	ji	_	_	_	_	_	_	_	_
+18	min	_	_	_	_	_	_	_	_
+19	re	_	_	_	_	_	_	_	_
+20	sira	_	_	_	_	_	_	_	_
+21	mirina	_	_	_	_	_	_	_	_
+22	xweha	_	_	_	_	_	_	_	_
+23	min	_	_	_	_	_	_	_	_
+24	keşif	_	_	_	_	_	_	_	_
+25	bikî	_	_	_	_	_	_	_	_
+26	.	_	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock13.vislcg.txt:15:438
+# text = Holmes: Divêt ez û hevalê xwe, emê şeva xwe di oda te de biborînin.
+1	Holmes	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Divêt	_	_	_	_	_	_	_	_
+4	ez	_	_	_	_	_	_	_	_
+5	û	_	_	_	_	_	_	_	_
+6	hevalê	_	_	_	_	_	_	_	_
+7	xwe	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	emê	_	_	_	_	_	_	_	_
+10	ê	_	_	_	_	_	_	_	_
+11	şeva	_	_	_	_	_	_	_	_
+12	xwe	_	_	_	_	_	_	_	_
+13	di	_	_	_	_	_	_	_	_
+14	oda	_	_	_	_	_	_	_	_
+15	te	_	_	_	_	_	_	_	_
+16	de	_	_	_	_	_	_	_	_
+17	biborînin	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock10.vislcg.txt:7:188
+# text = Em gihaşti bûn lîwana ko deriyên her sê odan lê vedibûn, Holmes li wan nihêrt, oda pêjîn şanî wê da û gote Stonêrê: Ev oda te ye, a navîn oda xweha te a rehmetî, a siseyan jî oda Dr. e, ne we ye?
+1	Em	_	_	_	_	_	_	_	_
+2	gihaşti bûn	_	_	_	_	_	_	_	_
+3	lîwana	_	_	_	_	_	_	_	_
+4	ko	_	_	_	_	_	_	_	_
+5	deriyên	_	_	_	_	_	_	_	_
+6	her	_	_	_	_	_	_	_	_
+7	sê	_	_	_	_	_	_	_	_
+8	odan	_	_	_	_	_	_	_	_
+9	lê	_	_	_	_	_	_	_	_
+10	_	_	_	_	_	_	_	_	_
+11	vedibûn	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	Holmes	_	_	_	_	_	_	_	_
+14	li	_	_	_	_	_	_	_	_
+15	wan	_	_	_	_	_	_	_	_
+16	nihêrt	_	_	_	_	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	oda	_	_	_	_	_	_	_	_
+19	pêjîn	_	_	_	_	_	_	_	_
+20	şanî	_	_	_	_	_	_	_	_
+21	wê	_	_	_	_	_	_	_	_
+22	da	_	_	_	_	_	_	_	_
+23	û	_	_	_	_	_	_	_	_
+24	gote	_	_	_	_	_	_	_	_
+25	Stonêrê	_	_	_	_	_	_	_	_
+26	:	_	_	_	_	_	_	_	_
+27	Ev	_	_	_	_	_	_	_	_
+28	oda	_	_	_	_	_	_	_	_
+29	te	_	_	_	_	_	_	_	_
+30	ye	_	_	_	_	_	_	_	_
+31	,	_	_	_	_	_	_	_	_
+32	a	_	_	_	_	_	_	_	_
+33	navîn	_	_	_	_	_	_	_	_
+34	oda	_	_	_	_	_	_	_	_
+35	xweha	_	_	_	_	_	_	_	_
+36	te	_	_	_	_	_	_	_	_
+37	a	_	_	_	_	_	_	_	_
+38	rehmetî	_	_	_	_	_	_	_	_
+39	,	_	_	_	_	_	_	_	_
+40	a	_	_	_	_	_	_	_	_
+41	siseyan	_	_	_	_	_	_	_	_
+42	jî	_	_	_	_	_	_	_	_
+43	oda	_	_	_	_	_	_	_	_
+44	Dr.	_	_	_	_	_	_	_	_
+45	e	_	_	_	_	_	_	_	_
+46	,	_	_	_	_	_	_	_	_
+47	ne	_	_	_	_	_	_	_	_
+48	we	_	_	_	_	_	_	_	_
+49	ye	_	_	_	_	_	_	_	_
+50	?	_	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock02.vislcg.txt:13:332
+# text = Qesir di eyaleta Sariyê di Stokmoranê de ye.
+1	Qesir	_	_	_	_	_	_	_	_
+2	di	_	_	_	_	_	_	_	_
+3	eyaleta	_	_	_	_	_	_	_	_
+4	Sariyê	_	_	_	_	_	_	_	_
+5	di	_	_	_	_	_	_	_	_
+6	Stokmoranê	_	_	_	_	_	_	_	_
+7	de	_	_	_	_	_	_	_	_
+8	ye	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:208:5684
+# text = Ev yek li gor lêkolînên zanistî jî hatiye pejirandin.
+1	Ev	_	_	_	_	_	_	_	_
+2	yek	_	_	_	_	_	_	_	_
+3	li	_	_	_	_	_	_	_	_
+4	gor	_	_	_	_	_	_	_	_
+5	lêkolînên	_	_	_	_	_	_	_	_
+6	zanistî	_	_	_	_	_	_	_	_
+7	jî	_	_	_	_	_	_	_	_
+8	hatiye	_	_	_	_	_	_	_	_
+9	pejirandin	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock05.vislcg.txt:16:412
+# text = Ji cane xweha min dikir ko tukesî jî dest ne da bûye.
+1	Ji	_	_	_	_	_	_	_	_
+2	cane	_	_	_	_	_	_	_	_
+3	xweha	_	_	_	_	_	_	_	_
+4	min	_	_	_	_	_	_	_	_
+5	dikir	_	_	_	_	_	_	_	_
+6	ko	_	_	_	_	_	_	_	_
+7	tukesî	_	_	_	_	_	_	_	_
+8	jî	_	_	_	_	_	_	_	_
+9	dest	_	_	_	_	_	_	_	_
+10	ne	_	_	_	_	_	_	_	_
+11	da bûye	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock17.vislcg.txt:7:131
+# text = Min di emirê xwe de tiştekî welê ne bihîsti bû.
+1	Min	_	_	_	_	_	_	_	_
+2	di	_	_	_	_	_	_	_	_
+3	emirê	_	_	_	_	_	_	_	_
+4	xwe	_	_	_	_	_	_	_	_
+5	de	_	_	_	_	_	_	_	_
+6	tiştekî	_	_	_	_	_	_	_	_
+7	welê	_	_	_	_	_	_	_	_
+8	ne	_	_	_	_	_	_	_	_
+9	bihîsti bû	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:60:1636
+# text = Pirtûk, di destpêka sala 2015an de ji weşanên Soran hat weşandin.
+1	Pirtûk	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	di	_	_	_	_	_	_	_	_
+4	destpêka	_	_	_	_	_	_	_	_
+5	sala	_	_	_	_	_	_	_	_
+6	2015an	_	_	_	_	_	_	_	_
+7	de	_	_	_	_	_	_	_	_
+8	ji	_	_	_	_	_	_	_	_
+9	weşanên	_	_	_	_	_	_	_	_
+10	Soran	_	_	_	_	_	_	_	_
+11	hat	_	_	_	_	_	_	_	_
+12	weşandin	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:52:1418
+# text = Rojname bi zimanê Tirkî û Kurdî weşanê dike.
+1	Rojname	_	_	_	_	_	_	_	_
+2	bi	_	_	_	_	_	_	_	_
+3	zimanê	_	_	_	_	_	_	_	_
+4	Tirkî	_	_	_	_	_	_	_	_
+5	û	_	_	_	_	_	_	_	_
+6	Kurdî	_	_	_	_	_	_	_	_
+7	weşanê	_	_	_	_	_	_	_	_
+8	dike	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:216:5895
+# text = Sigmund Freud kesê ku cara yekemîn behsa ravekirina derûniyê kiriye ye.
+1	Sigmund	_	_	_	_	_	_	_	_
+2	Freud	_	_	_	_	_	_	_	_
+3	kesê	_	_	_	_	_	_	_	_
+4	ku	_	_	_	_	_	_	_	_
+5	cara	_	_	_	_	_	_	_	_
+6	yekemîn	_	_	_	_	_	_	_	_
+7	behsa	_	_	_	_	_	_	_	_
+8	ravekirina	_	_	_	_	_	_	_	_
+9	derûniyê	_	_	_	_	_	_	_	_
+10	kiriye	_	_	_	_	_	_	_	_
+11	ye	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:247:6775
+# text = Gund cara pêşîn di sedsala 19emîn de koçberî daye.
+1	Gund	_	_	_	_	_	_	_	_
+2	cara	_	_	_	_	_	_	_	_
+3	pêşîn	_	_	_	_	_	_	_	_
+4	di	_	_	_	_	_	_	_	_
+5	sedsala	_	_	_	_	_	_	_	_
+6	19emîn	_	_	_	_	_	_	_	_
+7	de	_	_	_	_	_	_	_	_
+8	koçberî	_	_	_	_	_	_	_	_
+9	daye	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock03.vislcg.txt:21:597
+# text = Te nebihîst?
+1	Te	_	_	_	_	_	_	_	_
+2	nebihîst	_	_	_	_	_	_	_	_
+3	?	_	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:267:7328
+# text = Fîlmên min li hemû deverên cîhanê dihatin nîşandan.
+1	Fîlmên	_	_	_	_	_	_	_	_
+2	min	_	_	_	_	_	_	_	_
+3	li	_	_	_	_	_	_	_	_
+4	hemû	_	_	_	_	_	_	_	_
+5	deverên	_	_	_	_	_	_	_	_
+6	cîhanê	_	_	_	_	_	_	_	_
+7	dihatin	_	_	_	_	_	_	_	_
+8	nîşandan	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:91:2517
+# text = Wî heta temenê çar saliyê babê xwe nedît ve.
+1	Wî	_	_	_	_	_	_	_	_
+2	heta	_	_	_	_	_	_	_	_
+3	temenê	_	_	_	_	_	_	_	_
+4	çar	_	_	_	_	_	_	_	_
+5	saliyê	_	_	_	_	_	_	_	_
+6	babê	_	_	_	_	_	_	_	_
+7	xwe	_	_	_	_	_	_	_	_
+8	nedît	_	_	_	_	_	_	_	_
+9	ve	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:197:5387
+# text = Osmanî, malbata Mîr Mihemed jî li wî dikin dijmin.
+1	Osmanî	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	malbata	_	_	_	_	_	_	_	_
+4	Mîr	_	_	_	_	_	_	_	_
+5	Mihemed	_	_	_	_	_	_	_	_
+6	jî	_	_	_	_	_	_	_	_
+7	li	_	_	_	_	_	_	_	_
+8	wî	_	_	_	_	_	_	_	_
+9	dikin	_	_	_	_	_	_	_	_
+10	dijmin	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:278:7614
+# text = Li Amedê li piranî saziyan de xebat meşandiye.
+1	Li	_	_	_	_	_	_	_	_
+2	Amedê	_	_	_	_	_	_	_	_
+3	li	_	_	_	_	_	_	_	_
+4	piranî	_	_	_	_	_	_	_	_
+5	saziyan	_	_	_	_	_	_	_	_
+6	de	_	_	_	_	_	_	_	_
+7	xebat	_	_	_	_	_	_	_	_
+8	meşandiye	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock13.vislcg.txt:5:85
+# text = Lê şîrê ko di vî misînî diçe nakeve serê min ko têra wî bike.
+1	Lê	_	_	_	_	_	_	_	_
+2	şîrê	_	_	_	_	_	_	_	_
+3	ko	_	_	_	_	_	_	_	_
+4	di	_	_	_	_	_	_	_	_
+5	vî	_	_	_	_	_	_	_	_
+6	misînî	_	_	_	_	_	_	_	_
+7	diçe	_	_	_	_	_	_	_	_
+8	nakeve	_	_	_	_	_	_	_	_
+9	serê	_	_	_	_	_	_	_	_
+10	min	_	_	_	_	_	_	_	_
+11	ko	_	_	_	_	_	_	_	_
+12	têra	_	_	_	_	_	_	_	_
+13	wî	_	_	_	_	_	_	_	_
+14	bike	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock15.vislcg.txt:12:257
+# text = Min da pey.
+1	Min	_	_	_	_	_	_	_	_
+2	da	_	_	_	_	_	_	_	_
+3	pey	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:404:11198
+# text = Di sala 2012'a de hejmara rûniştvanên bajarê Sineyê 375765 bû.
+1	Di	_	_	_	_	_	_	_	_
+2	sala	_	_	_	_	_	_	_	_
+3	2012'a	_	_	_	_	_	_	_	_
+4	de	_	_	_	_	_	_	_	_
+5	hejmara	_	_	_	_	_	_	_	_
+6	rûniştvanên	_	_	_	_	_	_	_	_
+7	bajarê	_	_	_	_	_	_	_	_
+8	Sineyê	_	_	_	_	_	_	_	_
+9	375765	_	_	_	_	_	_	_	_
+10	bû	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:246:6734
+# text = Lê hin mehên ji pê re bi navên împeratoran wek "Julius" û "August" hat navendin.
+1	Lê	_	_	_	_	_	_	_	_
+2	hin	_	_	_	_	_	_	_	_
+3	mehên	_	_	_	_	_	_	_	_
+4	ji	_	_	_	_	_	_	_	_
+5	pê	_	_	_	_	_	_	_	_
+6	re	_	_	_	_	_	_	_	_
+7	bi	_	_	_	_	_	_	_	_
+8	navên	_	_	_	_	_	_	_	_
+9	împeratoran	_	_	_	_	_	_	_	_
+10	wek	_	_	_	_	_	_	_	_
+11	"	_	_	_	_	_	_	_	_
+12	Julius	_	_	_	_	_	_	_	_
+13	"	_	_	_	_	_	_	_	_
+14	û	_	_	_	_	_	_	_	_
+15	"	_	_	_	_	_	_	_	_
+16	August	_	_	_	_	_	_	_	_
+17	"	_	_	_	_	_	_	_	_
+18	hat	_	_	_	_	_	_	_	_
+19	navendin	_	_	_	_	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:142:3888
+# text = Cilên spî li xwe dikin, kumê reş didin serê xwe şaşikeke sor didin dora kum.
+1	Cilên	_	_	_	_	_	_	_	_
+2	spî	_	_	_	_	_	_	_	_
+3	li	_	_	_	_	_	_	_	_
+4	xwe	_	_	_	_	_	_	_	_
+5	dikin	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	kumê	_	_	_	_	_	_	_	_
+8	reş	_	_	_	_	_	_	_	_
+9	didin	_	_	_	_	_	_	_	_
+10	serê	_	_	_	_	_	_	_	_
+11	xwe	_	_	_	_	_	_	_	_
+12	şaşikeke	_	_	_	_	_	_	_	_
+13	sor	_	_	_	_	_	_	_	_
+14	didin	_	_	_	_	_	_	_	_
+15	dora	_	_	_	_	_	_	_	_
+16	kum	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:380:10537
+# text = Di 28'ê avrêla 1997'an de, vedigere Yêrêvanê, mala xwe a ku bi xwe çêkiribû.
+1	Di	_	_	_	_	_	_	_	_
+2	28'ê	_	_	_	_	_	_	_	_
+3	avrêla	_	_	_	_	_	_	_	_
+4	1997'an	_	_	_	_	_	_	_	_
+5	de	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	vedigere	_	_	_	_	_	_	_	_
+8	Yêrêvanê	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	mala	_	_	_	_	_	_	_	_
+11	xwe	_	_	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	ku	_	_	_	_	_	_	_	_
+14	bi	_	_	_	_	_	_	_	_
+15	xwe	_	_	_	_	_	_	_	_
+16	çêkiribû	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock07.vislcg.txt:3:48
+# text = Holmes: Baş e, emê tev de herin Stokmoranê.
+1	Holmes	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Baş	_	_	_	_	_	_	_	_
+4	e	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	emê	_	_	_	_	_	_	_	_
+7	ê	_	_	_	_	_	_	_	_
+8	tev	_	_	_	_	_	_	_	_
+9	de	_	_	_	_	_	_	_	_
+10	herin	_	_	_	_	_	_	_	_
+11	Stokmoranê	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:108:2906
+# text = Li gor yarîyên di pirtûkê de di hicreya xwe de bêyî textikê kişikê di serê xwe de dest bi lîstikê dike.
+1	Li	_	_	_	_	_	_	_	_
+2	gor	_	_	_	_	_	_	_	_
+3	yarîyên	_	_	_	_	_	_	_	_
+4	di	_	_	_	_	_	_	_	_
+5	pirtûkê	_	_	_	_	_	_	_	_
+6	de	_	_	_	_	_	_	_	_
+7	di	_	_	_	_	_	_	_	_
+8	hicreya	_	_	_	_	_	_	_	_
+9	xwe	_	_	_	_	_	_	_	_
+10	de	_	_	_	_	_	_	_	_
+11	bêyî	_	_	_	_	_	_	_	_
+12	textikê	_	_	_	_	_	_	_	_
+13	kişikê	_	_	_	_	_	_	_	_
+14	di	_	_	_	_	_	_	_	_
+15	serê	_	_	_	_	_	_	_	_
+16	xwe	_	_	_	_	_	_	_	_
+17	de	_	_	_	_	_	_	_	_
+18	dest	_	_	_	_	_	_	_	_
+19	bi	_	_	_	_	_	_	_	_
+20	lîstikê	_	_	_	_	_	_	_	_
+21	dike	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock08.vislcg.txt:8:240
+# text = Dr. Rweylot rotikê hesinîn yê ko li ber tifikê bû girt û ew tewand û gote Holmes «Carekê din ji te re dibêjim, te hay ji xwe hebe...» hesin avête tifikê û terka me da, çû.
+1	Dr.	_	_	_	_	_	_	_	_
+2	Rweylot	_	_	_	_	_	_	_	_
+3	rotikê	_	_	_	_	_	_	_	_
+4	hesinîn	_	_	_	_	_	_	_	_
+5	yê	_	_	_	_	_	_	_	_
+6	ko	_	_	_	_	_	_	_	_
+7	li	_	_	_	_	_	_	_	_
+8	ber	_	_	_	_	_	_	_	_
+9	tifikê	_	_	_	_	_	_	_	_
+10	bû	_	_	_	_	_	_	_	_
+11	girt	_	_	_	_	_	_	_	_
+12	û	_	_	_	_	_	_	_	_
+13	ew	_	_	_	_	_	_	_	_
+14	tewand	_	_	_	_	_	_	_	_
+15	û	_	_	_	_	_	_	_	_
+16	gote	_	_	_	_	_	_	_	_
+17	Holmes	_	_	_	_	_	_	_	_
+18	«	_	_	_	_	_	_	_	_
+19	Carekê	_	_	_	_	_	_	_	_
+20	din	_	_	_	_	_	_	_	_
+21	ji	_	_	_	_	_	_	_	_
+22	te	_	_	_	_	_	_	_	_
+23	re	_	_	_	_	_	_	_	_
+24	dibêjim	_	_	_	_	_	_	_	_
+25	,	_	_	_	_	_	_	_	_
+26	te	_	_	_	_	_	_	_	_
+27	hay	_	_	_	_	_	_	_	_
+28	ji	_	_	_	_	_	_	_	_
+29	xwe	_	_	_	_	_	_	_	_
+30	hebe	_	_	_	_	_	_	_	_
+31	...	_	_	_	_	_	_	_	_
+32	»	_	_	_	_	_	_	_	_
+33	hesin	_	_	_	_	_	_	_	_
+34	avête	_	_	_	_	_	_	_	_
+35	tifikê	_	_	_	_	_	_	_	_
+36	û	_	_	_	_	_	_	_	_
+37	terka	_	_	_	_	_	_	_	_
+38	me	_	_	_	_	_	_	_	_
+39	da	_	_	_	_	_	_	_	_
+40	,	_	_	_	_	_	_	_	_
+41	çû	_	_	_	_	_	_	_	_
+42	.	_	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock03.vislcg.txt:1:0
+# text = Herçî zirbavê me piştî ko saline dirêj di germa Hindistanê de derbas kirin yekcar bû bû esebî.
+1	Herçî	_	_	_	_	_	_	_	_
+2	zirbavê	_	_	_	_	_	_	_	_
+3	me	_	_	_	_	_	_	_	_
+4	piştî	_	_	_	_	_	_	_	_
+5	ko	_	_	_	_	_	_	_	_
+6	saline	_	_	_	_	_	_	_	_
+7	dirêj	_	_	_	_	_	_	_	_
+8	di	_	_	_	_	_	_	_	_
+9	germa	_	_	_	_	_	_	_	_
+10	Hindistanê	_	_	_	_	_	_	_	_
+11	de	_	_	_	_	_	_	_	_
+12	derbas	_	_	_	_	_	_	_	_
+13	kirin	_	_	_	_	_	_	_	_
+14	yekcar	_	_	_	_	_	_	_	_
+15	bû bû	_	_	_	_	_	_	_	_
+16	esebî	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock19.vislcg.txt:1:0
+# text = Li ser kursî min şopa lingan dîti bû.
+1	Li	_	_	_	_	_	_	_	_
+2	ser	_	_	_	_	_	_	_	_
+3	kursî	_	_	_	_	_	_	_	_
+4	min	_	_	_	_	_	_	_	_
+5	şopa	_	_	_	_	_	_	_	_
+6	lingan	_	_	_	_	_	_	_	_
+7	dîti bû	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:290:7952
+# text = Fêkiya wê pir tirş e, jê tirşê simaqê çêdibe.
+1	Fêkiya	_	_	_	_	_	_	_	_
+2	wê	_	_	_	_	_	_	_	_
+3	pir	_	_	_	_	_	_	_	_
+4	tirş	_	_	_	_	_	_	_	_
+5	e	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	jê	_	_	_	_	_	_	_	_
+8	_	_	_	_	_	_	_	_	_
+9	tirşê	_	_	_	_	_	_	_	_
+10	simaqê	_	_	_	_	_	_	_	_
+11	çêdibe	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:237:6468
+# text = Hin ronakbîr Özal wekî duyemîn girîngtir kesê di dîroka Komara Tirkiyeyê de dinirxînin.
+1	Hin	_	_	_	_	_	_	_	_
+2	ronakbîr	_	_	_	_	_	_	_	_
+3	Özal	_	_	_	_	_	_	_	_
+4	wekî	_	_	_	_	_	_	_	_
+5	duyemîn	_	_	_	_	_	_	_	_
+6	girîngtir	_	_	_	_	_	_	_	_
+7	kesê	_	_	_	_	_	_	_	_
+8	di	_	_	_	_	_	_	_	_
+9	dîroka	_	_	_	_	_	_	_	_
+10	Komara	_	_	_	_	_	_	_	_
+11	Tirkiyeyê	_	_	_	_	_	_	_	_
+12	de	_	_	_	_	_	_	_	_
+13	dinirxînin	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:261:7125
+# text = Bijîşkiya nûjen jî jê gelek dermanan çêdike.
+1	Bijîşkiya	_	_	_	_	_	_	_	_
+2	nûjen	_	_	_	_	_	_	_	_
+3	jî	_	_	_	_	_	_	_	_
+4	jê	_	_	_	_	_	_	_	_
+5	_	_	_	_	_	_	_	_	_
+6	gelek	_	_	_	_	_	_	_	_
+7	dermanan	_	_	_	_	_	_	_	_
+8	çêdike	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock05.vislcg.txt:17:437
+# text = Holmes: Işê jehrê...
+1	Holmes	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Işê	_	_	_	_	_	_	_	_
+4	jehrê	_	_	_	_	_	_	_	_
+5	...	_	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock12.vislcg.txt:1:0
+# text = Paşê serê werîs girt û ew kişand.
+1	Paşê	_	_	_	_	_	_	_	_
+2	serê	_	_	_	_	_	_	_	_
+3	werîs	_	_	_	_	_	_	_	_
+4	girt	_	_	_	_	_	_	_	_
+5	û	_	_	_	_	_	_	_	_
+6	ew	_	_	_	_	_	_	_	_
+7	kişand	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock15.vislcg.txt:15:356
+# text = Ode weke xwe bû, tu tişt lê ne hati bû guhartin.
+1	Ode	_	_	_	_	_	_	_	_
+2	weke	_	_	_	_	_	_	_	_
+3	xwe	_	_	_	_	_	_	_	_
+4	bû	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	tu	_	_	_	_	_	_	_	_
+7	tişt	_	_	_	_	_	_	_	_
+8	lê	_	_	_	_	_	_	_	_
+9	_	_	_	_	_	_	_	_	_
+10	ne	_	_	_	_	_	_	_	_
+11	hati bû	_	_	_	_	_	_	_	_
+12	guhartin	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:59:1607
+# text = Mele Osmanê Goyê gotiye;” Şêx Evdirehmanê Garisî helbestvanekî bi navûdeng bûye.
+1	Mele	_	_	_	_	_	_	_	_
+2	Osmanê	_	_	_	_	_	_	_	_
+3	Goyê	_	_	_	_	_	_	_	_
+4	gotiye	_	_	_	_	_	_	_	_
+5	;	_	_	_	_	_	_	_	_
+6	”	_	_	_	_	_	_	_	_
+7	Şêx	_	_	_	_	_	_	_	_
+8	Evdirehmanê	_	_	_	_	_	_	_	_
+9	Garisî	_	_	_	_	_	_	_	_
+10	helbestvanekî	_	_	_	_	_	_	_	_
+11	bi	_	_	_	_	_	_	_	_
+12	navûdeng	_	_	_	_	_	_	_	_
+13	bûye	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock01.vislcg.txt:21:513
+# text = -- Ji ber tirsê...
+1	--	_	_	_	_	_	_	_	_
+2	Ji	_	_	_	_	_	_	_	_
+3	ber	_	_	_	_	_	_	_	_
+4	tirsê	_	_	_	_	_	_	_	_
+5	...	_	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock12.vislcg.txt:15:343
+# text = Holmes bi destê xwe li dolabê da û got: Ma tê de çi heye?
+1	Holmes	_	_	_	_	_	_	_	_
+2	bi	_	_	_	_	_	_	_	_
+3	destê	_	_	_	_	_	_	_	_
+4	xwe	_	_	_	_	_	_	_	_
+5	li	_	_	_	_	_	_	_	_
+6	dolabê	_	_	_	_	_	_	_	_
+7	da	_	_	_	_	_	_	_	_
+8	û	_	_	_	_	_	_	_	_
+9	got	_	_	_	_	_	_	_	_
+10	:	_	_	_	_	_	_	_	_
+11	Ma	_	_	_	_	_	_	_	_
+12	tê	_	_	_	_	_	_	_	_
+13	_	_	_	_	_	_	_	_	_
+14	de	_	_	_	_	_	_	_	_
+15	çi	_	_	_	_	_	_	_	_
+16	heye	_	_	_	_	_	_	_	_
+17	?	_	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock01.vislcg.txt:4:54
+# text = Gava min Şerlok Holmes li ber serê xwe dît, min da xwe û ez li ser pişta xwe rabûm.
+1	Gava	_	_	_	_	_	_	_	_
+2	min	_	_	_	_	_	_	_	_
+3	Şerlok	_	_	_	_	_	_	_	_
+4	Holmes	_	_	_	_	_	_	_	_
+5	li	_	_	_	_	_	_	_	_
+6	ber	_	_	_	_	_	_	_	_
+7	serê	_	_	_	_	_	_	_	_
+8	xwe	_	_	_	_	_	_	_	_
+9	dît	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	min	_	_	_	_	_	_	_	_
+12	da	_	_	_	_	_	_	_	_
+13	xwe	_	_	_	_	_	_	_	_
+14	û	_	_	_	_	_	_	_	_
+15	ez	_	_	_	_	_	_	_	_
+16	li	_	_	_	_	_	_	_	_
+17	ser	_	_	_	_	_	_	_	_
+18	pişta	_	_	_	_	_	_	_	_
+19	xwe	_	_	_	_	_	_	_	_
+20	rabûm	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:311:8548
+# text = Gundî debara xwe bi sewalan û çandiniyê dike.
+1	Gundî	_	_	_	_	_	_	_	_
+2	debara	_	_	_	_	_	_	_	_
+3	xwe	_	_	_	_	_	_	_	_
+4	bi	_	_	_	_	_	_	_	_
+5	sewalan	_	_	_	_	_	_	_	_
+6	û	_	_	_	_	_	_	_	_
+7	çandiniyê	_	_	_	_	_	_	_	_
+8	dike	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:230:6274
+# text = Ji bo wan xakan di dîrok de gelek ceng û şêr bûne.
+1	Ji	_	_	_	_	_	_	_	_
+2	bo	_	_	_	_	_	_	_	_
+3	wan	_	_	_	_	_	_	_	_
+4	xakan	_	_	_	_	_	_	_	_
+5	di	_	_	_	_	_	_	_	_
+6	dîrok	_	_	_	_	_	_	_	_
+7	de	_	_	_	_	_	_	_	_
+8	gelek	_	_	_	_	_	_	_	_
+9	ceng	_	_	_	_	_	_	_	_
+10	û	_	_	_	_	_	_	_	_
+11	şêr	_	_	_	_	_	_	_	_
+12	bûne	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:32:801
+# text = Ferheng (peyvname, bêjename) pirtûkek yan qeydek dî ye ku peyv û bêje tê de hatine rêzkirin û şîrovekirin.
+1	Ferheng	_	_	_	_	_	_	_	_
+2	(	_	_	_	_	_	_	_	_
+3	peyvname	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	bêjename	_	_	_	_	_	_	_	_
+6	)	_	_	_	_	_	_	_	_
+7	pirtûkek	_	_	_	_	_	_	_	_
+8	yan	_	_	_	_	_	_	_	_
+9	qeydek	_	_	_	_	_	_	_	_
+10	dî	_	_	_	_	_	_	_	_
+11	ye	_	_	_	_	_	_	_	_
+12	ku	_	_	_	_	_	_	_	_
+13	peyv	_	_	_	_	_	_	_	_
+14	û	_	_	_	_	_	_	_	_
+15	bêje	_	_	_	_	_	_	_	_
+16	tê	_	_	_	_	_	_	_	_
+17	_	_	_	_	_	_	_	_	_
+18	de	_	_	_	_	_	_	_	_
+19	hatine	_	_	_	_	_	_	_	_
+20	rêzkirin	_	_	_	_	_	_	_	_
+21	û	_	_	_	_	_	_	_	_
+22	şîrovekirin	_	_	_	_	_	_	_	_
+23	.	_	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:279:7633
+# text = Hilma ku ji erd û deryayê bilind dibe bi çavan nayê dîtin.
+1	Hilma	_	_	_	_	_	_	_	_
+2	ku	_	_	_	_	_	_	_	_
+3	ji	_	_	_	_	_	_	_	_
+4	erd	_	_	_	_	_	_	_	_
+5	û	_	_	_	_	_	_	_	_
+6	deryayê	_	_	_	_	_	_	_	_
+7	bilind	_	_	_	_	_	_	_	_
+8	dibe	_	_	_	_	_	_	_	_
+9	bi	_	_	_	_	_	_	_	_
+10	çavan	_	_	_	_	_	_	_	_
+11	nayê	_	_	_	_	_	_	_	_
+12	dîtin	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:204:5578
+# text = Ew ji lêzimên xwe re pereyan dişînin û di warê aborî de alîkarî dikin.
+1	Ew	_	_	_	_	_	_	_	_
+2	ji	_	_	_	_	_	_	_	_
+3	lêzimên	_	_	_	_	_	_	_	_
+4	xwe	_	_	_	_	_	_	_	_
+5	re	_	_	_	_	_	_	_	_
+6	pereyan	_	_	_	_	_	_	_	_
+7	dişînin	_	_	_	_	_	_	_	_
+8	û	_	_	_	_	_	_	_	_
+9	di	_	_	_	_	_	_	_	_
+10	warê	_	_	_	_	_	_	_	_
+11	aborî	_	_	_	_	_	_	_	_
+12	de	_	_	_	_	_	_	_	_
+13	alîkarî	_	_	_	_	_	_	_	_
+14	dikin	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock19.vislcg.txt:8:239
+# text = Dengê zencîrê jî dengê girtina deriyê dolaba hesinîn e, ma lê de şik heye.
+1	Dengê	_	_	_	_	_	_	_	_
+2	zencîrê	_	_	_	_	_	_	_	_
+3	jî	_	_	_	_	_	_	_	_
+4	dengê	_	_	_	_	_	_	_	_
+5	girtina	_	_	_	_	_	_	_	_
+6	deriyê	_	_	_	_	_	_	_	_
+7	dolaba	_	_	_	_	_	_	_	_
+8	hesinîn	_	_	_	_	_	_	_	_
+9	e	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	ma	_	_	_	_	_	_	_	_
+12	lê	_	_	_	_	_	_	_	_
+13	_	_	_	_	_	_	_	_	_
+14	de	_	_	_	_	_	_	_	_
+15	şik	_	_	_	_	_	_	_	_
+16	heye	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:10:234
+# text = Gelek fîlmên dirêj û şowên taybet hatin çêkirin.
+1	Gelek	_	_	_	_	_	_	_	_
+2	fîlmên	_	_	_	_	_	_	_	_
+3	dirêj	_	_	_	_	_	_	_	_
+4	û	_	_	_	_	_	_	_	_
+5	şowên	_	_	_	_	_	_	_	_
+6	taybet	_	_	_	_	_	_	_	_
+7	hatin	_	_	_	_	_	_	_	_
+8	çêkirin	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = wiki:wikibank.vislcg.txt:158:4367
+# text = Di hêla Victor Hugo (1802-1885) de gelek pêşdikeve.
+1	Di	_	_	_	_	_	_	_	_
+2	hêla	_	_	_	_	_	_	_	_
+3	Victor	_	_	_	_	_	_	_	_
+4	Hugo	_	_	_	_	_	_	_	_
+5	(	_	_	_	_	_	_	_	_
+6	1802	_	_	_	_	_	_	_	_
+7	-	_	_	_	_	_	_	_	_
+8	1885	_	_	_	_	_	_	_	_
+9	)	_	_	_	_	_	_	_	_
+10	de	_	_	_	_	_	_	_	_
+11	gelek	_	_	_	_	_	_	_	_
+12	pêşdikeve	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock19.vislcg.txt:4:98
+# text = Ji ber ko herwekî Cûlyayê, Hêlêne jî fîkandina mêr carekê du caran bihîsti bû, Cûlyayê gava Hêlên ew li ber derî û bêhiş li erdê dîti bû ji xweha xwe re goti bû «Şelîta belek».
+1	Ji	_	_	_	_	_	_	_	_
+2	ber	_	_	_	_	_	_	_	_
+3	ko	_	_	_	_	_	_	_	_
+4	herwekî	_	_	_	_	_	_	_	_
+5	Cûlyayê	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	Hêlêne	_	_	_	_	_	_	_	_
+8	jî	_	_	_	_	_	_	_	_
+9	fîkandina	_	_	_	_	_	_	_	_
+10	mêr	_	_	_	_	_	_	_	_
+11	carekê	_	_	_	_	_	_	_	_
+12	du	_	_	_	_	_	_	_	_
+13	caran	_	_	_	_	_	_	_	_
+14	bihîsti bû	_	_	_	_	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	Cûlyayê	_	_	_	_	_	_	_	_
+17	gava	_	_	_	_	_	_	_	_
+18	Hêlên	_	_	_	_	_	_	_	_
+19	ew	_	_	_	_	_	_	_	_
+20	li	_	_	_	_	_	_	_	_
+21	ber	_	_	_	_	_	_	_	_
+22	derî	_	_	_	_	_	_	_	_
+23	û	_	_	_	_	_	_	_	_
+24	bêhiş	_	_	_	_	_	_	_	_
+25	li	_	_	_	_	_	_	_	_
+26	erdê	_	_	_	_	_	_	_	_
+27	dîti	_	_	_	_	_	_	_	_
+28	bû	_	_	_	_	_	_	_	_
+29	ji	_	_	_	_	_	_	_	_
+30	xweha	_	_	_	_	_	_	_	_
+31	xwe	_	_	_	_	_	_	_	_
+32	re	_	_	_	_	_	_	_	_
+33	goti bû	_	_	_	_	_	_	_	_
+34	«	_	_	_	_	_	_	_	_
+35	Şelîta	_	_	_	_	_	_	_	_
+36	belek	_	_	_	_	_	_	_	_
+37	»	_	_	_	_	_	_	_	_
+38	.	_	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock13.vislcg.txt:1:0
+# text = Stonêrê: Li cem me tu pising nînin.
+1	Stonêrê	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Li	_	_	_	_	_	_	_	_
+4	cem	_	_	_	_	_	_	_	_
+5	me	_	_	_	_	_	_	_	_
+6	tu	_	_	_	_	_	_	_	_
+7	pising	_	_	_	_	_	_	_	_
+8	nînin	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = sherlock:sherlock17.vislcg.txt:16:324
+# text = Dr. Rweylot li ber masê, li ser kursî rûniştî bû; her du milên xwe berda bûn kêlekên xwe; serê wî keti bû paş, çavên wî ber bi bên bûn.
+1	Dr.	_	_	_	_	_	_	_	_
+2	Rweylot	_	_	_	_	_	_	_	_
+3	li	_	_	_	_	_	_	_	_
+4	ber	_	_	_	_	_	_	_	_
+5	masê	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	li	_	_	_	_	_	_	_	_
+8	ser	_	_	_	_	_	_	_	_
+9	kursî	_	_	_	_	_	_	_	_
+10	rûniştî bû	_	_	_	_	_	_	_	_
+11	;	_	_	_	_	_	_	_	_
+12	her	_	_	_	_	_	_	_	_
+13	du	_	_	_	_	_	_	_	_
+14	milên	_	_	_	_	_	_	_	_
+15	xwe	_	_	_	_	_	_	_	_
+16	berda bûn	_	_	_	_	_	_	_	_
+17	kêlekên	_	_	_	_	_	_	_	_
+18	xwe	_	_	_	_	_	_	_	_
+19	;	_	_	_	_	_	_	_	_
+20	serê	_	_	_	_	_	_	_	_
+21	wî	_	_	_	_	_	_	_	_
+22	keti bû	_	_	_	_	_	_	_	_
+23	paş	_	_	_	_	_	_	_	_
+24	,	_	_	_	_	_	_	_	_
+25	çavên	_	_	_	_	_	_	_	_
+26	wî	_	_	_	_	_	_	_	_
+27	ber	_	_	_	_	_	_	_	_
+28	bi	_	_	_	_	_	_	_	_
+29	bên	_	_	_	_	_	_	_	_
+30	bûn	_	_	_	_	_	_	_	_
+31	.	_	_	_	_	_	_	_	_
+

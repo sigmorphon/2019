@@ -1,0 +1,6199 @@
+# sent_id = train-s596
+# text = Meld op die aansoekvorm of jy die permit sal kom haal en of dit aan jou gepos moet word.
+# org_sent_id = 596
+1	Meld	_	_	_	_	_	_	_	_
+2	op	_	_	_	_	_	_	_	_
+3	die	_	_	_	_	_	_	_	_
+4	aansoekvorm	_	_	_	_	_	_	_	_
+5	of	_	_	_	_	_	_	_	_
+6	jy	_	_	_	_	_	_	_	_
+7	die	_	_	_	_	_	_	_	_
+8	permit	_	_	_	_	_	_	_	_
+9	sal	_	_	_	_	_	_	_	_
+10	kom	_	_	_	_	_	_	_	_
+11	haal	_	_	_	_	_	_	_	_
+12	en	_	_	_	_	_	_	_	_
+13	of	_	_	_	_	_	_	_	_
+14	dit	_	_	_	_	_	_	_	_
+15	aan	_	_	_	_	_	_	_	_
+16	jou	_	_	_	_	_	_	_	_
+17	gepos	_	_	_	_	_	_	_	_
+18	moet	_	_	_	_	_	_	_	_
+19	word	_	_	_	_	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s216
+# text = Wanneer die bestaande invoerpermit verval, moet jy om 'n nuwe invoerpermit aansoek doen.
+# org_sent_id = 216
+1	Wanneer	_	_	_	_	_	_	_	_
+2	die	_	_	_	_	_	_	_	_
+3	bestaande	_	_	_	_	_	_	_	_
+4	invoerpermit	_	_	_	_	_	_	_	_
+5	verval	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	moet	_	_	_	_	_	_	_	_
+8	jy	_	_	_	_	_	_	_	_
+9	om	_	_	_	_	_	_	_	_
+10	'n	_	_	_	_	_	_	_	_
+11	nuwe	_	_	_	_	_	_	_	_
+12	invoerpermit	_	_	_	_	_	_	_	_
+13	aansoek	_	_	_	_	_	_	_	_
+14	doen	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s1169
+# text = Die indruk wat ons kry onder alle sektore van die Suid-Afrikaanse gemeenskap en oor ons grense heen, en wat verteenwoordig word deur die werklike daaglikse vooruitgang wat gemaak word in ons algehele voorbereidings is een van "Besigheid Buitengewoon": almal aan boord vir 2010!
+# org_sent_id = 1169
+1	Die	_	_	_	_	_	_	_	_
+2	indruk	_	_	_	_	_	_	_	_
+3	wat	_	_	_	_	_	_	_	_
+4	ons	_	_	_	_	_	_	_	_
+5	kry	_	_	_	_	_	_	_	_
+6	onder	_	_	_	_	_	_	_	_
+7	alle	_	_	_	_	_	_	_	_
+8	sektore	_	_	_	_	_	_	_	_
+9	van	_	_	_	_	_	_	_	_
+10	die	_	_	_	_	_	_	_	_
+11	Suid-Afrikaanse	_	_	_	_	_	_	_	_
+12	gemeenskap	_	_	_	_	_	_	_	_
+13	en	_	_	_	_	_	_	_	_
+14	oor	_	_	_	_	_	_	_	_
+15	ons	_	_	_	_	_	_	_	_
+16	grense	_	_	_	_	_	_	_	_
+17	heen	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	en	_	_	_	_	_	_	_	_
+20	wat	_	_	_	_	_	_	_	_
+21	verteenwoordig	_	_	_	_	_	_	_	_
+22	word	_	_	_	_	_	_	_	_
+23	deur	_	_	_	_	_	_	_	_
+24	die	_	_	_	_	_	_	_	_
+25	werklike	_	_	_	_	_	_	_	_
+26	daaglikse	_	_	_	_	_	_	_	_
+27	vooruitgang	_	_	_	_	_	_	_	_
+28	wat	_	_	_	_	_	_	_	_
+29	gemaak	_	_	_	_	_	_	_	_
+30	word	_	_	_	_	_	_	_	_
+31	in	_	_	_	_	_	_	_	_
+32	ons	_	_	_	_	_	_	_	_
+33	algehele	_	_	_	_	_	_	_	_
+34	voorbereidings	_	_	_	_	_	_	_	_
+35	is	_	_	_	_	_	_	_	_
+36	een	_	_	_	_	_	_	_	_
+37	van	_	_	_	_	_	_	_	_
+38	"	_	_	_	_	_	_	_	_
+39	Besigheid	_	_	_	_	_	_	_	_
+40	Buitengewoon	_	_	_	_	_	_	_	_
+41	"	_	_	_	_	_	_	_	_
+42	:	_	_	_	_	_	_	_	_
+43	almal	_	_	_	_	_	_	_	_
+44	aan	_	_	_	_	_	_	_	_
+45	boord	_	_	_	_	_	_	_	_
+46	vir	_	_	_	_	_	_	_	_
+47	2010	_	_	_	_	_	_	_	_
+48	!	_	_	_	_	_	_	_	_
+
+# sent_id = train-s411
+# text = Dit moedig interkulturele begrip, toegang tot ander perspektiewe en 'n kritiese begrip van die konsep kultuur aan.
+# org_sent_id = 411
+1	Dit	_	_	_	_	_	_	_	_
+2	moedig	_	_	_	_	_	_	_	_
+3	interkulturele	_	_	_	_	_	_	_	_
+4	begrip	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	toegang	_	_	_	_	_	_	_	_
+7	tot	_	_	_	_	_	_	_	_
+8	ander	_	_	_	_	_	_	_	_
+9	perspektiewe	_	_	_	_	_	_	_	_
+10	en	_	_	_	_	_	_	_	_
+11	'n	_	_	_	_	_	_	_	_
+12	kritiese	_	_	_	_	_	_	_	_
+13	begrip	_	_	_	_	_	_	_	_
+14	van	_	_	_	_	_	_	_	_
+15	die	_	_	_	_	_	_	_	_
+16	konsep	_	_	_	_	_	_	_	_
+17	kultuur	_	_	_	_	_	_	_	_
+18	aan	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-s42
+# text = 'n Verdere uitbreiding van openbare-werkskeppingsprogramme is ook reeds aan die gang.
+# org_sent_id = 1782
+1	'n	_	_	_	_	_	_	_	_
+2	Verdere	_	_	_	_	_	_	_	_
+3	uitbreiding	_	_	_	_	_	_	_	_
+4	van	_	_	_	_	_	_	_	_
+5	openbare-werkskeppingsprogramme	_	_	_	_	_	_	_	_
+6	is	_	_	_	_	_	_	_	_
+7	ook	_	_	_	_	_	_	_	_
+8	reeds	_	_	_	_	_	_	_	_
+9	aan	_	_	_	_	_	_	_	_
+10	die	_	_	_	_	_	_	_	_
+11	gang	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s1298
+# text = Dit is my voorreg om die Gesamentlike Sitting van die Parlement van die Republiek van Suid-Afrika toe te spreek met die aanvang van hierdie laaste sessie van ons Derde Demokratiese Parlement.
+# org_sent_id = 1298
+1	Dit	_	_	_	_	_	_	_	_
+2	is	_	_	_	_	_	_	_	_
+3	my	_	_	_	_	_	_	_	_
+4	voorreg	_	_	_	_	_	_	_	_
+5	om	_	_	_	_	_	_	_	_
+6	die	_	_	_	_	_	_	_	_
+7	Gesamentlike	_	_	_	_	_	_	_	_
+8	Sitting	_	_	_	_	_	_	_	_
+9	van	_	_	_	_	_	_	_	_
+10	die	_	_	_	_	_	_	_	_
+11	Parlement	_	_	_	_	_	_	_	_
+12	van	_	_	_	_	_	_	_	_
+13	die	_	_	_	_	_	_	_	_
+14	Republiek	_	_	_	_	_	_	_	_
+15	van	_	_	_	_	_	_	_	_
+16	Suid-Afrika	_	_	_	_	_	_	_	_
+17	toe	_	_	_	_	_	_	_	_
+18	te	_	_	_	_	_	_	_	_
+19	spreek	_	_	_	_	_	_	_	_
+20	met	_	_	_	_	_	_	_	_
+21	die	_	_	_	_	_	_	_	_
+22	aanvang	_	_	_	_	_	_	_	_
+23	van	_	_	_	_	_	_	_	_
+24	hierdie	_	_	_	_	_	_	_	_
+25	laaste	_	_	_	_	_	_	_	_
+26	sessie	_	_	_	_	_	_	_	_
+27	van	_	_	_	_	_	_	_	_
+28	ons	_	_	_	_	_	_	_	_
+29	Derde	_	_	_	_	_	_	_	_
+30	Demokratiese	_	_	_	_	_	_	_	_
+31	Parlement	_	_	_	_	_	_	_	_
+32	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s847
+# text = Plaaslike omstandighede in die land speel ook 'n rol.
+# org_sent_id = 847
+1	Plaaslike	_	_	_	_	_	_	_	_
+2	omstandighede	_	_	_	_	_	_	_	_
+3	in	_	_	_	_	_	_	_	_
+4	die	_	_	_	_	_	_	_	_
+5	land	_	_	_	_	_	_	_	_
+6	speel	_	_	_	_	_	_	_	_
+7	ook	_	_	_	_	_	_	_	_
+8	'n	_	_	_	_	_	_	_	_
+9	rol	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s1242
+# text = Ons sal voortgaan om gelei te word deur die Regering se volkome verbintenis om georganiseerde misdaad te beveg en om die bestuur, doeltreffendheid en koördinering van ons wetstoepassingsagentskappe te verbeter.
+# org_sent_id = 1242
+1	Ons	_	_	_	_	_	_	_	_
+2	sal	_	_	_	_	_	_	_	_
+3	voortgaan	_	_	_	_	_	_	_	_
+4	om	_	_	_	_	_	_	_	_
+5	gelei	_	_	_	_	_	_	_	_
+6	te	_	_	_	_	_	_	_	_
+7	word	_	_	_	_	_	_	_	_
+8	deur	_	_	_	_	_	_	_	_
+9	die	_	_	_	_	_	_	_	_
+10	Regering	_	_	_	_	_	_	_	_
+11	se	_	_	_	_	_	_	_	_
+12	volkome	_	_	_	_	_	_	_	_
+13	verbintenis	_	_	_	_	_	_	_	_
+14	om	_	_	_	_	_	_	_	_
+15	georganiseerde	_	_	_	_	_	_	_	_
+16	misdaad	_	_	_	_	_	_	_	_
+17	te	_	_	_	_	_	_	_	_
+18	beveg	_	_	_	_	_	_	_	_
+19	en	_	_	_	_	_	_	_	_
+20	om	_	_	_	_	_	_	_	_
+21	die	_	_	_	_	_	_	_	_
+22	bestuur	_	_	_	_	_	_	_	_
+23	,	_	_	_	_	_	_	_	_
+24	doeltreffendheid	_	_	_	_	_	_	_	_
+25	en	_	_	_	_	_	_	_	_
+26	koördinering	_	_	_	_	_	_	_	_
+27	van	_	_	_	_	_	_	_	_
+28	ons	_	_	_	_	_	_	_	_
+29	wetstoepassingsagentskappe	_	_	_	_	_	_	_	_
+30	te	_	_	_	_	_	_	_	_
+31	verbeter	_	_	_	_	_	_	_	_
+32	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s643
+# text = Per geregistreerde pos of spoedpos- Sluit 'n selfgeadresseerde, voorafbetaalde (want geen kontant word aanvaar nie) A4-koevert in sodat die attesteringsafdeling die dokumente aan jou kan terugstuur.
+# org_sent_id = 643
+1	Per	_	_	_	_	_	_	_	_
+2	geregistreerde	_	_	_	_	_	_	_	_
+3	pos	_	_	_	_	_	_	_	_
+4	of	_	_	_	_	_	_	_	_
+5	spoedpos	_	_	_	_	_	_	_	_
+6	-	_	_	_	_	_	_	_	_
+7	Sluit	_	_	_	_	_	_	_	_
+8	'n	_	_	_	_	_	_	_	_
+9	selfgeadresseerde	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	voorafbetaalde	_	_	_	_	_	_	_	_
+12	(	_	_	_	_	_	_	_	_
+13	want	_	_	_	_	_	_	_	_
+14	geen	_	_	_	_	_	_	_	_
+15	kontant	_	_	_	_	_	_	_	_
+16	word	_	_	_	_	_	_	_	_
+17	aanvaar	_	_	_	_	_	_	_	_
+18	nie	_	_	_	_	_	_	_	_
+19	)	_	_	_	_	_	_	_	_
+20	A4-koevert	_	_	_	_	_	_	_	_
+21	in	_	_	_	_	_	_	_	_
+22	sodat	_	_	_	_	_	_	_	_
+23	die	_	_	_	_	_	_	_	_
+24	attesteringsafdeling	_	_	_	_	_	_	_	_
+25	die	_	_	_	_	_	_	_	_
+26	dokumente	_	_	_	_	_	_	_	_
+27	aan	_	_	_	_	_	_	_	_
+28	jou	_	_	_	_	_	_	_	_
+29	kan	_	_	_	_	_	_	_	_
+30	terugstuur	_	_	_	_	_	_	_	_
+31	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s181
+# text = Wanneer 'n bestaande rekreasie-invoerpermit verval, moet jy om 'n nuwe rekreasie-invoerpermit aansoek doen.
+# org_sent_id = 181
+1	Wanneer	_	_	_	_	_	_	_	_
+2	'n	_	_	_	_	_	_	_	_
+3	bestaande	_	_	_	_	_	_	_	_
+4	rekreasie-invoerpermit	_	_	_	_	_	_	_	_
+5	verval	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	moet	_	_	_	_	_	_	_	_
+8	jy	_	_	_	_	_	_	_	_
+9	om	_	_	_	_	_	_	_	_
+10	'n	_	_	_	_	_	_	_	_
+11	nuwe	_	_	_	_	_	_	_	_
+12	rekreasie-invoerpermit	_	_	_	_	_	_	_	_
+13	aansoek	_	_	_	_	_	_	_	_
+14	doen	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-s61
+# text = Ons sal 'n aantal sleutelaktiwiteite onderneem ter bereiking van hierdie uitkomste.
+# org_sent_id = 1801
+1	Ons	_	_	_	_	_	_	_	_
+2	sal	_	_	_	_	_	_	_	_
+3	'n	_	_	_	_	_	_	_	_
+4	aantal	_	_	_	_	_	_	_	_
+5	sleutelaktiwiteite	_	_	_	_	_	_	_	_
+6	onderneem	_	_	_	_	_	_	_	_
+7	ter	_	_	_	_	_	_	_	_
+8	bereiking	_	_	_	_	_	_	_	_
+9	van	_	_	_	_	_	_	_	_
+10	hierdie	_	_	_	_	_	_	_	_
+11	uitkomste	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s1121
+# text = In hierdie opsig wil ek graag my waardering uitspreek teenoor en ten volle saamstem met die opmerkings wat gemaak is deur die Hoof Uitvoerende Beampte van Anglo- American, Cynthia Caroll, toe sy die Mynberaad hier in Kaapstad vroeër vandeesweek- op Dinsdag, 5 Februarie- toegespreek het.
+# org_sent_id = 1121
+1	In	_	_	_	_	_	_	_	_
+2	hierdie	_	_	_	_	_	_	_	_
+3	opsig	_	_	_	_	_	_	_	_
+4	wil	_	_	_	_	_	_	_	_
+5	ek	_	_	_	_	_	_	_	_
+6	graag	_	_	_	_	_	_	_	_
+7	my	_	_	_	_	_	_	_	_
+8	waardering	_	_	_	_	_	_	_	_
+9	uitspreek	_	_	_	_	_	_	_	_
+10	teenoor	_	_	_	_	_	_	_	_
+11	en	_	_	_	_	_	_	_	_
+12	ten	_	_	_	_	_	_	_	_
+13	volle	_	_	_	_	_	_	_	_
+14	saamstem	_	_	_	_	_	_	_	_
+15	met	_	_	_	_	_	_	_	_
+16	die	_	_	_	_	_	_	_	_
+17	opmerkings	_	_	_	_	_	_	_	_
+18	wat	_	_	_	_	_	_	_	_
+19	gemaak	_	_	_	_	_	_	_	_
+20	is	_	_	_	_	_	_	_	_
+21	deur	_	_	_	_	_	_	_	_
+22	die	_	_	_	_	_	_	_	_
+23	Hoof	_	_	_	_	_	_	_	_
+24	Uitvoerende	_	_	_	_	_	_	_	_
+25	Beampte	_	_	_	_	_	_	_	_
+26	van	_	_	_	_	_	_	_	_
+27	Anglo-	_	_	_	_	_	_	_	_
+28	American	_	_	_	_	_	_	_	_
+29	,	_	_	_	_	_	_	_	_
+30	Cynthia	_	_	_	_	_	_	_	_
+31	Caroll	_	_	_	_	_	_	_	_
+32	,	_	_	_	_	_	_	_	_
+33	toe	_	_	_	_	_	_	_	_
+34	sy	_	_	_	_	_	_	_	_
+35	die	_	_	_	_	_	_	_	_
+36	Mynberaad	_	_	_	_	_	_	_	_
+37	hier	_	_	_	_	_	_	_	_
+38	in	_	_	_	_	_	_	_	_
+39	Kaapstad	_	_	_	_	_	_	_	_
+40	vroeër	_	_	_	_	_	_	_	_
+41	vandeesweek	_	_	_	_	_	_	_	_
+42	-	_	_	_	_	_	_	_	_
+43	op	_	_	_	_	_	_	_	_
+44	Dinsdag	_	_	_	_	_	_	_	_
+45	,	_	_	_	_	_	_	_	_
+46	5	_	_	_	_	_	_	_	_
+47	Februarie	_	_	_	_	_	_	_	_
+48	-	_	_	_	_	_	_	_	_
+49	toegespreek	_	_	_	_	_	_	_	_
+50	het	_	_	_	_	_	_	_	_
+51	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-s183
+# text = Ons moet dus tot sy eer 'n sukses van die Wêreldbeker maak.
+# org_sent_id = 1923
+1	Ons	_	_	_	_	_	_	_	_
+2	moet	_	_	_	_	_	_	_	_
+3	dus	_	_	_	_	_	_	_	_
+4	tot	_	_	_	_	_	_	_	_
+5	sy	_	_	_	_	_	_	_	_
+6	eer	_	_	_	_	_	_	_	_
+7	'n	_	_	_	_	_	_	_	_
+8	sukses	_	_	_	_	_	_	_	_
+9	van	_	_	_	_	_	_	_	_
+10	die	_	_	_	_	_	_	_	_
+11	Wêreldbeker	_	_	_	_	_	_	_	_
+12	maak	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s1249
+# text = Tweedens behoort alle senior bestuurders hul prestasieooreenkomste teen Mei van elke jaar (en binne twee maande na die aanvang van die finansiële jaar op plaaslike regeringsvlak) by die betrokke owerhede ingedien het.
+# org_sent_id = 1249
+1	Tweedens	_	_	_	_	_	_	_	_
+2	behoort	_	_	_	_	_	_	_	_
+3	alle	_	_	_	_	_	_	_	_
+4	senior	_	_	_	_	_	_	_	_
+5	bestuurders	_	_	_	_	_	_	_	_
+6	hul	_	_	_	_	_	_	_	_
+7	prestasieooreenkomste	_	_	_	_	_	_	_	_
+8	teen	_	_	_	_	_	_	_	_
+9	Mei	_	_	_	_	_	_	_	_
+10	van	_	_	_	_	_	_	_	_
+11	elke	_	_	_	_	_	_	_	_
+12	jaar	_	_	_	_	_	_	_	_
+13	(	_	_	_	_	_	_	_	_
+14	en	_	_	_	_	_	_	_	_
+15	binne	_	_	_	_	_	_	_	_
+16	twee	_	_	_	_	_	_	_	_
+17	maande	_	_	_	_	_	_	_	_
+18	na	_	_	_	_	_	_	_	_
+19	die	_	_	_	_	_	_	_	_
+20	aanvang	_	_	_	_	_	_	_	_
+21	van	_	_	_	_	_	_	_	_
+22	die	_	_	_	_	_	_	_	_
+23	finansiële	_	_	_	_	_	_	_	_
+24	jaar	_	_	_	_	_	_	_	_
+25	op	_	_	_	_	_	_	_	_
+26	plaaslike	_	_	_	_	_	_	_	_
+27	regeringsvlak	_	_	_	_	_	_	_	_
+28	)	_	_	_	_	_	_	_	_
+29	by	_	_	_	_	_	_	_	_
+30	die	_	_	_	_	_	_	_	_
+31	betrokke	_	_	_	_	_	_	_	_
+32	owerhede	_	_	_	_	_	_	_	_
+33	ingedien	_	_	_	_	_	_	_	_
+34	het	_	_	_	_	_	_	_	_
+35	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-s207
+# text = Vergun my om aan Lucas Mahlangu, broer van Kalushi, wat die Mahlangu-familie verteenwoordig, erkenning te gee.
+# org_sent_id = 1335
+1	Vergun	_	_	_	_	_	_	_	_
+2	my	_	_	_	_	_	_	_	_
+3	om	_	_	_	_	_	_	_	_
+4	aan	_	_	_	_	_	_	_	_
+5	Lucas	_	_	_	_	_	_	_	_
+6	Mahlangu	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	broer	_	_	_	_	_	_	_	_
+9	van	_	_	_	_	_	_	_	_
+10	Kalushi	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	wat	_	_	_	_	_	_	_	_
+13	die	_	_	_	_	_	_	_	_
+14	Mahlangu-familie	_	_	_	_	_	_	_	_
+15	verteenwoordig	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	erkenning	_	_	_	_	_	_	_	_
+18	te	_	_	_	_	_	_	_	_
+19	gee	_	_	_	_	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s123
+# text = Die aansoek om registrasie van dierevoer en misstowwe bestaan uit 'n Dekbrief van die registrasiehouer of dié se aangewese verteenwoordiger.
+# org_sent_id = 123
+1	Die	_	_	_	_	_	_	_	_
+2	aansoek	_	_	_	_	_	_	_	_
+3	om	_	_	_	_	_	_	_	_
+4	registrasie	_	_	_	_	_	_	_	_
+5	van	_	_	_	_	_	_	_	_
+6	dierevoer	_	_	_	_	_	_	_	_
+7	en	_	_	_	_	_	_	_	_
+8	misstowwe	_	_	_	_	_	_	_	_
+9	bestaan	_	_	_	_	_	_	_	_
+10	uit	_	_	_	_	_	_	_	_
+11	'n	_	_	_	_	_	_	_	_
+12	Dekbrief	_	_	_	_	_	_	_	_
+13	van	_	_	_	_	_	_	_	_
+14	die	_	_	_	_	_	_	_	_
+15	registrasiehouer	_	_	_	_	_	_	_	_
+16	of	_	_	_	_	_	_	_	_
+17	dié	_	_	_	_	_	_	_	_
+18	se	_	_	_	_	_	_	_	_
+19	aangewese	_	_	_	_	_	_	_	_
+20	verteenwoordiger	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-s374
+# text = Dit impliseer ook 'n vinnige afname in regeringskuldvlakke wanneer toestande weer 'n gunstige wending neem.
+# org_sent_id = 1502
+1	Dit	_	_	_	_	_	_	_	_
+2	impliseer	_	_	_	_	_	_	_	_
+3	ook	_	_	_	_	_	_	_	_
+4	'n	_	_	_	_	_	_	_	_
+5	vinnige	_	_	_	_	_	_	_	_
+6	afname	_	_	_	_	_	_	_	_
+7	in	_	_	_	_	_	_	_	_
+8	regeringskuldvlakke	_	_	_	_	_	_	_	_
+9	wanneer	_	_	_	_	_	_	_	_
+10	toestande	_	_	_	_	_	_	_	_
+11	weer	_	_	_	_	_	_	_	_
+12	'n	_	_	_	_	_	_	_	_
+13	gunstige	_	_	_	_	_	_	_	_
+14	wending	_	_	_	_	_	_	_	_
+15	neem	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-s328
+# text = Dit kan geensins ontken word dat die vooruitgang sedert 1994 gemeet aan enige maatstaf indrukwekkend is nie.
+# org_sent_id = 1456
+1	Dit	_	_	_	_	_	_	_	_
+2	kan	_	_	_	_	_	_	_	_
+3	geensins	_	_	_	_	_	_	_	_
+4	ontken	_	_	_	_	_	_	_	_
+5	word	_	_	_	_	_	_	_	_
+6	dat	_	_	_	_	_	_	_	_
+7	die	_	_	_	_	_	_	_	_
+8	vooruitgang	_	_	_	_	_	_	_	_
+9	sedert	_	_	_	_	_	_	_	_
+10	1994	_	_	_	_	_	_	_	_
+11	gemeet	_	_	_	_	_	_	_	_
+12	aan	_	_	_	_	_	_	_	_
+13	enige	_	_	_	_	_	_	_	_
+14	maatstaf	_	_	_	_	_	_	_	_
+15	indrukwekkend	_	_	_	_	_	_	_	_
+16	is	_	_	_	_	_	_	_	_
+17	nie	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-s129
+# text = Ons mikpunt is dat 60% van huishoudings in hierdie terreine teen 2014 uit eie produksie in hul voedselbehoeftes sal voorsien.
+# org_sent_id = 1869
+1	Ons	_	_	_	_	_	_	_	_
+2	mikpunt	_	_	_	_	_	_	_	_
+3	is	_	_	_	_	_	_	_	_
+4	dat	_	_	_	_	_	_	_	_
+5	60%	_	_	_	_	_	_	_	_
+6	van	_	_	_	_	_	_	_	_
+7	huishoudings	_	_	_	_	_	_	_	_
+8	in	_	_	_	_	_	_	_	_
+9	hierdie	_	_	_	_	_	_	_	_
+10	terreine	_	_	_	_	_	_	_	_
+11	teen	_	_	_	_	_	_	_	_
+12	2014	_	_	_	_	_	_	_	_
+13	uit	_	_	_	_	_	_	_	_
+14	eie	_	_	_	_	_	_	_	_
+15	produksie	_	_	_	_	_	_	_	_
+16	in	_	_	_	_	_	_	_	_
+17	hul	_	_	_	_	_	_	_	_
+18	voedselbehoeftes	_	_	_	_	_	_	_	_
+19	sal	_	_	_	_	_	_	_	_
+20	voorsien	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s277
+# text = Ingevolge die gewoontereg het die vrou nou die handelingsbevoegdheid om 'n kontrak te sluit sonder die bystand van die man.
+# org_sent_id = 277
+1	Ingevolge	_	_	_	_	_	_	_	_
+2	die	_	_	_	_	_	_	_	_
+3	gewoontereg	_	_	_	_	_	_	_	_
+4	het	_	_	_	_	_	_	_	_
+5	die	_	_	_	_	_	_	_	_
+6	vrou	_	_	_	_	_	_	_	_
+7	nou	_	_	_	_	_	_	_	_
+8	die	_	_	_	_	_	_	_	_
+9	handelingsbevoegdheid	_	_	_	_	_	_	_	_
+10	om	_	_	_	_	_	_	_	_
+11	'n	_	_	_	_	_	_	_	_
+12	kontrak	_	_	_	_	_	_	_	_
+13	te	_	_	_	_	_	_	_	_
+14	sluit	_	_	_	_	_	_	_	_
+15	sonder	_	_	_	_	_	_	_	_
+16	die	_	_	_	_	_	_	_	_
+17	bystand	_	_	_	_	_	_	_	_
+18	van	_	_	_	_	_	_	_	_
+19	die	_	_	_	_	_	_	_	_
+20	man	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-s36
+# text = Bepaalde koppelings in die webdiensverskaffer lei tot bronne wat onderhou word deur derde partye oor wie die GCIS geen beheer het nie.
+# org_sent_id = 1582
+1	Bepaalde	_	_	_	_	_	_	_	_
+2	koppelings	_	_	_	_	_	_	_	_
+3	in	_	_	_	_	_	_	_	_
+4	die	_	_	_	_	_	_	_	_
+5	webdiensverskaffer	_	_	_	_	_	_	_	_
+6	lei	_	_	_	_	_	_	_	_
+7	tot	_	_	_	_	_	_	_	_
+8	bronne	_	_	_	_	_	_	_	_
+9	wat	_	_	_	_	_	_	_	_
+10	onderhou	_	_	_	_	_	_	_	_
+11	word	_	_	_	_	_	_	_	_
+12	deur	_	_	_	_	_	_	_	_
+13	derde	_	_	_	_	_	_	_	_
+14	partye	_	_	_	_	_	_	_	_
+15	oor	_	_	_	_	_	_	_	_
+16	wie	_	_	_	_	_	_	_	_
+17	die	_	_	_	_	_	_	_	_
+18	GCIS	_	_	_	_	_	_	_	_
+19	geen	_	_	_	_	_	_	_	_
+20	beheer	_	_	_	_	_	_	_	_
+21	het	_	_	_	_	_	_	_	_
+22	nie	_	_	_	_	_	_	_	_
+23	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-s162
+# text = Ons het ook mnr Nkululeko Cele hier by ons, wat bygestaan is om sy identieitsdokument te kry sodat hy by die Tshwane Universiteit van Tegnologie kon inskryf.
+# org_sent_id = 1902
+1	Ons	_	_	_	_	_	_	_	_
+2	het	_	_	_	_	_	_	_	_
+3	ook	_	_	_	_	_	_	_	_
+4	mnr	_	_	_	_	_	_	_	_
+5	Nkululeko	_	_	_	_	_	_	_	_
+6	Cele	_	_	_	_	_	_	_	_
+7	hier	_	_	_	_	_	_	_	_
+8	by	_	_	_	_	_	_	_	_
+9	ons	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	wat	_	_	_	_	_	_	_	_
+12	bygestaan	_	_	_	_	_	_	_	_
+13	is	_	_	_	_	_	_	_	_
+14	om	_	_	_	_	_	_	_	_
+15	sy	_	_	_	_	_	_	_	_
+16	identieitsdokument	_	_	_	_	_	_	_	_
+17	te	_	_	_	_	_	_	_	_
+18	kry	_	_	_	_	_	_	_	_
+19	sodat	_	_	_	_	_	_	_	_
+20	hy	_	_	_	_	_	_	_	_
+21	by	_	_	_	_	_	_	_	_
+22	die	_	_	_	_	_	_	_	_
+23	Tshwane	_	_	_	_	_	_	_	_
+24	Universiteit	_	_	_	_	_	_	_	_
+25	van	_	_	_	_	_	_	_	_
+26	Tegnologie	_	_	_	_	_	_	_	_
+27	kon	_	_	_	_	_	_	_	_
+28	inskryf	_	_	_	_	_	_	_	_
+29	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s271
+# text = Huwelike volgens die Gewoontereg en Gemeenskap van Goedere?
+# org_sent_id = 271
+1	Huwelike	_	_	_	_	_	_	_	_
+2	volgens	_	_	_	_	_	_	_	_
+3	die	_	_	_	_	_	_	_	_
+4	Gewoontereg	_	_	_	_	_	_	_	_
+5	en	_	_	_	_	_	_	_	_
+6	Gemeenskap	_	_	_	_	_	_	_	_
+7	van	_	_	_	_	_	_	_	_
+8	Goedere	_	_	_	_	_	_	_	_
+9	?	_	_	_	_	_	_	_	_
+
+# sent_id = test-s126
+# text = Toegang tot gesondheids- en onderwysgeriewe het verbeter.
+# org_sent_id = 1866
+1	Toegang	_	_	_	_	_	_	_	_
+2	tot	_	_	_	_	_	_	_	_
+3	gesondheids-	_	_	_	_	_	_	_	_
+4	en	_	_	_	_	_	_	_	_
+5	onderwysgeriewe	_	_	_	_	_	_	_	_
+6	het	_	_	_	_	_	_	_	_
+7	verbeter	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s1219
+# text = Die uitbreiding van die openbare werke-program, wat, deur die vasgestelde doelwitte te oortref, die potensiaal getoon het om meer nuwelinge te absorbeer.
+# org_sent_id = 1219
+1	Die	_	_	_	_	_	_	_	_
+2	uitbreiding	_	_	_	_	_	_	_	_
+3	van	_	_	_	_	_	_	_	_
+4	die	_	_	_	_	_	_	_	_
+5	openbare	_	_	_	_	_	_	_	_
+6	werke-program	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	wat	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	deur	_	_	_	_	_	_	_	_
+11	die	_	_	_	_	_	_	_	_
+12	vasgestelde	_	_	_	_	_	_	_	_
+13	doelwitte	_	_	_	_	_	_	_	_
+14	te	_	_	_	_	_	_	_	_
+15	oortref	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	die	_	_	_	_	_	_	_	_
+18	potensiaal	_	_	_	_	_	_	_	_
+19	getoon	_	_	_	_	_	_	_	_
+20	het	_	_	_	_	_	_	_	_
+21	om	_	_	_	_	_	_	_	_
+22	meer	_	_	_	_	_	_	_	_
+23	nuwelinge	_	_	_	_	_	_	_	_
+24	te	_	_	_	_	_	_	_	_
+25	absorbeer	_	_	_	_	_	_	_	_
+26	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-s142
+# text = Hierdie is 'n beskermingsmaatreël, en is nie onderhandelbaar nie.
+# org_sent_id = 1688
+1	Hierdie	_	_	_	_	_	_	_	_
+2	is	_	_	_	_	_	_	_	_
+3	'n	_	_	_	_	_	_	_	_
+4	beskermingsmaatreël	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	en	_	_	_	_	_	_	_	_
+7	is	_	_	_	_	_	_	_	_
+8	nie	_	_	_	_	_	_	_	_
+9	onderhandelbaar	_	_	_	_	_	_	_	_
+10	nie	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-s290
+# text = Ons is ook bemoedig dat navorsing oor die voorkoms van MIV stabilisasie 'n effense afname in die tempo van infeksie toon.
+# org_sent_id = 1418
+1	Ons	_	_	_	_	_	_	_	_
+2	is	_	_	_	_	_	_	_	_
+3	ook	_	_	_	_	_	_	_	_
+4	bemoedig	_	_	_	_	_	_	_	_
+5	dat	_	_	_	_	_	_	_	_
+6	navorsing	_	_	_	_	_	_	_	_
+7	oor	_	_	_	_	_	_	_	_
+8	die	_	_	_	_	_	_	_	_
+9	voorkoms	_	_	_	_	_	_	_	_
+10	van	_	_	_	_	_	_	_	_
+11	MIV	_	_	_	_	_	_	_	_
+12	stabilisasie	_	_	_	_	_	_	_	_
+13	'n	_	_	_	_	_	_	_	_
+14	effense	_	_	_	_	_	_	_	_
+15	afname	_	_	_	_	_	_	_	_
+16	in	_	_	_	_	_	_	_	_
+17	die	_	_	_	_	_	_	_	_
+18	tempo	_	_	_	_	_	_	_	_
+19	van	_	_	_	_	_	_	_	_
+20	infeksie	_	_	_	_	_	_	_	_
+21	toon	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s1304
+# text = Hierdie Suid-Afrikaners verteenwoordig die hoop en deursettingsvermoë wat ons nasie kenmerk.
+# org_sent_id = 1304
+1	Hierdie	_	_	_	_	_	_	_	_
+2	Suid-Afrikaners	_	_	_	_	_	_	_	_
+3	verteenwoordig	_	_	_	_	_	_	_	_
+4	die	_	_	_	_	_	_	_	_
+5	hoop	_	_	_	_	_	_	_	_
+6	en	_	_	_	_	_	_	_	_
+7	deursettingsvermoë	_	_	_	_	_	_	_	_
+8	wat	_	_	_	_	_	_	_	_
+9	ons	_	_	_	_	_	_	_	_
+10	nasie	_	_	_	_	_	_	_	_
+11	kenmerk	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s288
+# text = Die aansoek moet by 'n registrasiebeampte of 'n aangewese persoon ingedien word wat jou dan van 'n erkenning van ontvangs van die aansoek moet voorsien in die vorm van Vorm B: Acknowledgement of receipt of application for registration of customary marriage.
+# org_sent_id = 288
+1	Die	_	_	_	_	_	_	_	_
+2	aansoek	_	_	_	_	_	_	_	_
+3	moet	_	_	_	_	_	_	_	_
+4	by	_	_	_	_	_	_	_	_
+5	'n	_	_	_	_	_	_	_	_
+6	registrasiebeampte	_	_	_	_	_	_	_	_
+7	of	_	_	_	_	_	_	_	_
+8	'n	_	_	_	_	_	_	_	_
+9	aangewese	_	_	_	_	_	_	_	_
+10	persoon	_	_	_	_	_	_	_	_
+11	ingedien	_	_	_	_	_	_	_	_
+12	word	_	_	_	_	_	_	_	_
+13	wat	_	_	_	_	_	_	_	_
+14	jou	_	_	_	_	_	_	_	_
+15	dan	_	_	_	_	_	_	_	_
+16	van	_	_	_	_	_	_	_	_
+17	'n	_	_	_	_	_	_	_	_
+18	erkenning	_	_	_	_	_	_	_	_
+19	van	_	_	_	_	_	_	_	_
+20	ontvangs	_	_	_	_	_	_	_	_
+21	van	_	_	_	_	_	_	_	_
+22	die	_	_	_	_	_	_	_	_
+23	aansoek	_	_	_	_	_	_	_	_
+24	moet	_	_	_	_	_	_	_	_
+25	voorsien	_	_	_	_	_	_	_	_
+26	in	_	_	_	_	_	_	_	_
+27	die	_	_	_	_	_	_	_	_
+28	vorm	_	_	_	_	_	_	_	_
+29	van	_	_	_	_	_	_	_	_
+30	Vorm	_	_	_	_	_	_	_	_
+31	B	_	_	_	_	_	_	_	_
+32	:	_	_	_	_	_	_	_	_
+33	Acknowledgement	_	_	_	_	_	_	_	_
+34	of	_	_	_	_	_	_	_	_
+35	receipt	_	_	_	_	_	_	_	_
+36	of	_	_	_	_	_	_	_	_
+37	application	_	_	_	_	_	_	_	_
+38	for	_	_	_	_	_	_	_	_
+39	registration	_	_	_	_	_	_	_	_
+40	of	_	_	_	_	_	_	_	_
+41	customary	_	_	_	_	_	_	_	_
+42	marriage	_	_	_	_	_	_	_	_
+43	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s897
+# text = Daar is ook geen twyfel nie dat ons meer selfwerksaamheid kan skep deur middel van klein en mikro-ondernemings.
+# org_sent_id = 897
+1	Daar	_	_	_	_	_	_	_	_
+2	is	_	_	_	_	_	_	_	_
+3	ook	_	_	_	_	_	_	_	_
+4	geen	_	_	_	_	_	_	_	_
+5	twyfel	_	_	_	_	_	_	_	_
+6	nie	_	_	_	_	_	_	_	_
+7	dat	_	_	_	_	_	_	_	_
+8	ons	_	_	_	_	_	_	_	_
+9	meer	_	_	_	_	_	_	_	_
+10	selfwerksaamheid	_	_	_	_	_	_	_	_
+11	kan	_	_	_	_	_	_	_	_
+12	skep	_	_	_	_	_	_	_	_
+13	deur	_	_	_	_	_	_	_	_
+14	middel	_	_	_	_	_	_	_	_
+15	van	_	_	_	_	_	_	_	_
+16	klein	_	_	_	_	_	_	_	_
+17	en	_	_	_	_	_	_	_	_
+18	mikro-ondernemings	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s913
+# text = Waterhervorming wat op hierdie reg gebaseer is, het die land in staat gestel om toegang uit te brei en die erflating van rasseongelykheid, wat 'n apartheidsnalatenskap was, deels deur regsgebaseerde geregtigheid te oorkom".
+# org_sent_id = 913
+1	Waterhervorming	_	_	_	_	_	_	_	_
+2	wat	_	_	_	_	_	_	_	_
+3	op	_	_	_	_	_	_	_	_
+4	hierdie	_	_	_	_	_	_	_	_
+5	reg	_	_	_	_	_	_	_	_
+6	gebaseer	_	_	_	_	_	_	_	_
+7	is	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	het	_	_	_	_	_	_	_	_
+10	die	_	_	_	_	_	_	_	_
+11	land	_	_	_	_	_	_	_	_
+12	in	_	_	_	_	_	_	_	_
+13	staat	_	_	_	_	_	_	_	_
+14	gestel	_	_	_	_	_	_	_	_
+15	om	_	_	_	_	_	_	_	_
+16	toegang	_	_	_	_	_	_	_	_
+17	uit	_	_	_	_	_	_	_	_
+18	te	_	_	_	_	_	_	_	_
+19	brei	_	_	_	_	_	_	_	_
+20	en	_	_	_	_	_	_	_	_
+21	die	_	_	_	_	_	_	_	_
+22	erflating	_	_	_	_	_	_	_	_
+23	van	_	_	_	_	_	_	_	_
+24	rasseongelykheid	_	_	_	_	_	_	_	_
+25	,	_	_	_	_	_	_	_	_
+26	wat	_	_	_	_	_	_	_	_
+27	'n	_	_	_	_	_	_	_	_
+28	apartheidsnalatenskap	_	_	_	_	_	_	_	_
+29	was	_	_	_	_	_	_	_	_
+30	,	_	_	_	_	_	_	_	_
+31	deels	_	_	_	_	_	_	_	_
+32	deur	_	_	_	_	_	_	_	_
+33	regsgebaseerde	_	_	_	_	_	_	_	_
+34	geregtigheid	_	_	_	_	_	_	_	_
+35	te	_	_	_	_	_	_	_	_
+36	oorkom	_	_	_	_	_	_	_	_
+37	"	_	_	_	_	_	_	_	_
+38	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-s176
+# text = Hierdie oomblikke in ons geskiedenis demonstreer ons vermoë om saam te werk, selfs onder moeilike omstandighede, en om die land se belange bo alle ander oorwegings te stel.
+# org_sent_id = 1722
+1	Hierdie	_	_	_	_	_	_	_	_
+2	oomblikke	_	_	_	_	_	_	_	_
+3	in	_	_	_	_	_	_	_	_
+4	ons	_	_	_	_	_	_	_	_
+5	geskiedenis	_	_	_	_	_	_	_	_
+6	demonstreer	_	_	_	_	_	_	_	_
+7	ons	_	_	_	_	_	_	_	_
+8	vermoë	_	_	_	_	_	_	_	_
+9	om	_	_	_	_	_	_	_	_
+10	saam	_	_	_	_	_	_	_	_
+11	te	_	_	_	_	_	_	_	_
+12	werk	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	selfs	_	_	_	_	_	_	_	_
+15	onder	_	_	_	_	_	_	_	_
+16	moeilike	_	_	_	_	_	_	_	_
+17	omstandighede	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	en	_	_	_	_	_	_	_	_
+20	om	_	_	_	_	_	_	_	_
+21	die	_	_	_	_	_	_	_	_
+22	land	_	_	_	_	_	_	_	_
+23	se	_	_	_	_	_	_	_	_
+24	belange	_	_	_	_	_	_	_	_
+25	bo	_	_	_	_	_	_	_	_
+26	alle	_	_	_	_	_	_	_	_
+27	ander	_	_	_	_	_	_	_	_
+28	oorwegings	_	_	_	_	_	_	_	_
+29	te	_	_	_	_	_	_	_	_
+30	stel	_	_	_	_	_	_	_	_
+31	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-s69
+# text = Van vanjaar af sal alle leerders in graad 3, 6 en 9 geletterdheids- en gesyferdheidstoetse skryf, wat onafhanklik gemodereer word.
+# org_sent_id = 1809
+1	Van	_	_	_	_	_	_	_	_
+2	vanjaar	_	_	_	_	_	_	_	_
+3	af	_	_	_	_	_	_	_	_
+4	sal	_	_	_	_	_	_	_	_
+5	alle	_	_	_	_	_	_	_	_
+6	leerders	_	_	_	_	_	_	_	_
+7	in	_	_	_	_	_	_	_	_
+8	graad	_	_	_	_	_	_	_	_
+9	3	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	6	_	_	_	_	_	_	_	_
+12	en	_	_	_	_	_	_	_	_
+13	9	_	_	_	_	_	_	_	_
+14	geletterdheids-	_	_	_	_	_	_	_	_
+15	en	_	_	_	_	_	_	_	_
+16	gesyferdheidstoetse	_	_	_	_	_	_	_	_
+17	skryf	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	wat	_	_	_	_	_	_	_	_
+20	onafhanklik	_	_	_	_	_	_	_	_
+21	gemodereer	_	_	_	_	_	_	_	_
+22	word	_	_	_	_	_	_	_	_
+23	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s714
+# text = As Februarie as finansiële einddatum swaarkry sal veroorsaak en jy toestemming van die SAID verkry het om jou finansiële state op 'n ander datum voor te lê, kan jy ook toestemming vra om opgawes vir voorlopige belasting in te dien op dié datum wat as einddatum van die finansiële jaar goedgekeur is.
+# org_sent_id = 714
+1	As	_	_	_	_	_	_	_	_
+2	Februarie	_	_	_	_	_	_	_	_
+3	as	_	_	_	_	_	_	_	_
+4	finansiële	_	_	_	_	_	_	_	_
+5	einddatum	_	_	_	_	_	_	_	_
+6	swaarkry	_	_	_	_	_	_	_	_
+7	sal	_	_	_	_	_	_	_	_
+8	veroorsaak	_	_	_	_	_	_	_	_
+9	en	_	_	_	_	_	_	_	_
+10	jy	_	_	_	_	_	_	_	_
+11	toestemming	_	_	_	_	_	_	_	_
+12	van	_	_	_	_	_	_	_	_
+13	die	_	_	_	_	_	_	_	_
+14	SAID	_	_	_	_	_	_	_	_
+15	verkry	_	_	_	_	_	_	_	_
+16	het	_	_	_	_	_	_	_	_
+17	om	_	_	_	_	_	_	_	_
+18	jou	_	_	_	_	_	_	_	_
+19	finansiële	_	_	_	_	_	_	_	_
+20	state	_	_	_	_	_	_	_	_
+21	op	_	_	_	_	_	_	_	_
+22	'n	_	_	_	_	_	_	_	_
+23	ander	_	_	_	_	_	_	_	_
+24	datum	_	_	_	_	_	_	_	_
+25	voor	_	_	_	_	_	_	_	_
+26	te	_	_	_	_	_	_	_	_
+27	lê	_	_	_	_	_	_	_	_
+28	,	_	_	_	_	_	_	_	_
+29	kan	_	_	_	_	_	_	_	_
+30	jy	_	_	_	_	_	_	_	_
+31	ook	_	_	_	_	_	_	_	_
+32	toestemming	_	_	_	_	_	_	_	_
+33	vra	_	_	_	_	_	_	_	_
+34	om	_	_	_	_	_	_	_	_
+35	opgawes	_	_	_	_	_	_	_	_
+36	vir	_	_	_	_	_	_	_	_
+37	voorlopige	_	_	_	_	_	_	_	_
+38	belasting	_	_	_	_	_	_	_	_
+39	in	_	_	_	_	_	_	_	_
+40	te	_	_	_	_	_	_	_	_
+41	dien	_	_	_	_	_	_	_	_
+42	op	_	_	_	_	_	_	_	_
+43	dié	_	_	_	_	_	_	_	_
+44	datum	_	_	_	_	_	_	_	_
+45	wat	_	_	_	_	_	_	_	_
+46	as	_	_	_	_	_	_	_	_
+47	einddatum	_	_	_	_	_	_	_	_
+48	van	_	_	_	_	_	_	_	_
+49	die	_	_	_	_	_	_	_	_
+50	finansiële	_	_	_	_	_	_	_	_
+51	jaar	_	_	_	_	_	_	_	_
+52	goedgekeur	_	_	_	_	_	_	_	_
+53	is	_	_	_	_	_	_	_	_
+54	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s630
+# text = As privaat grond onwettig beset word sonder dat daar spesiale omstandighede bestaan, moet die grondeienaar die hof onmiddellik vra om 'n uitsettingsbevel ingevolge die Wet op die Voorkoming van Onwettige Uitsetting en Onregmatige Besetting van Grond, 1998 uit te reik.
+# org_sent_id = 630
+1	As	_	_	_	_	_	_	_	_
+2	privaat	_	_	_	_	_	_	_	_
+3	grond	_	_	_	_	_	_	_	_
+4	onwettig	_	_	_	_	_	_	_	_
+5	beset	_	_	_	_	_	_	_	_
+6	word	_	_	_	_	_	_	_	_
+7	sonder	_	_	_	_	_	_	_	_
+8	dat	_	_	_	_	_	_	_	_
+9	daar	_	_	_	_	_	_	_	_
+10	spesiale	_	_	_	_	_	_	_	_
+11	omstandighede	_	_	_	_	_	_	_	_
+12	bestaan	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	moet	_	_	_	_	_	_	_	_
+15	die	_	_	_	_	_	_	_	_
+16	grondeienaar	_	_	_	_	_	_	_	_
+17	die	_	_	_	_	_	_	_	_
+18	hof	_	_	_	_	_	_	_	_
+19	onmiddellik	_	_	_	_	_	_	_	_
+20	vra	_	_	_	_	_	_	_	_
+21	om	_	_	_	_	_	_	_	_
+22	'n	_	_	_	_	_	_	_	_
+23	uitsettingsbevel	_	_	_	_	_	_	_	_
+24	ingevolge	_	_	_	_	_	_	_	_
+25	die	_	_	_	_	_	_	_	_
+26	Wet	_	_	_	_	_	_	_	_
+27	op	_	_	_	_	_	_	_	_
+28	die	_	_	_	_	_	_	_	_
+29	Voorkoming	_	_	_	_	_	_	_	_
+30	van	_	_	_	_	_	_	_	_
+31	Onwettige	_	_	_	_	_	_	_	_
+32	Uitsetting	_	_	_	_	_	_	_	_
+33	en	_	_	_	_	_	_	_	_
+34	Onregmatige	_	_	_	_	_	_	_	_
+35	Besetting	_	_	_	_	_	_	_	_
+36	van	_	_	_	_	_	_	_	_
+37	Grond	_	_	_	_	_	_	_	_
+38	,	_	_	_	_	_	_	_	_
+39	1998	_	_	_	_	_	_	_	_
+40	uit	_	_	_	_	_	_	_	_
+41	te	_	_	_	_	_	_	_	_
+42	reik	_	_	_	_	_	_	_	_
+43	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s789
+# text = Hoe gou nadat iemand gesekwestreer is kan die insolvent om rehabilitasie aansoek doen?
+# org_sent_id = 789
+1	Hoe	_	_	_	_	_	_	_	_
+2	gou	_	_	_	_	_	_	_	_
+3	nadat	_	_	_	_	_	_	_	_
+4	iemand	_	_	_	_	_	_	_	_
+5	gesekwestreer	_	_	_	_	_	_	_	_
+6	is	_	_	_	_	_	_	_	_
+7	kan	_	_	_	_	_	_	_	_
+8	die	_	_	_	_	_	_	_	_
+9	insolvent	_	_	_	_	_	_	_	_
+10	om	_	_	_	_	_	_	_	_
+11	rehabilitasie	_	_	_	_	_	_	_	_
+12	aansoek	_	_	_	_	_	_	_	_
+13	doen	_	_	_	_	_	_	_	_
+14	?	_	_	_	_	_	_	_	_
+
+# sent_id = train-s62
+# text = 'n Maatskappy wat ooreenkomstig Artikel 21 van die Maatskappywet, 1973 ingelyf is.
+# org_sent_id = 62
+1	'n	_	_	_	_	_	_	_	_
+2	Maatskappy	_	_	_	_	_	_	_	_
+3	wat	_	_	_	_	_	_	_	_
+4	ooreenkomstig	_	_	_	_	_	_	_	_
+5	Artikel	_	_	_	_	_	_	_	_
+6	21	_	_	_	_	_	_	_	_
+7	van	_	_	_	_	_	_	_	_
+8	die	_	_	_	_	_	_	_	_
+9	Maatskappywet	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	1973	_	_	_	_	_	_	_	_
+12	ingelyf	_	_	_	_	_	_	_	_
+13	is	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s362
+# text = Assessering behoort leerders ook te help om hul eie prestasievlak te evalueer, om doelwitte vir vordering te stel en om verdere leer aan te moedig.
+# org_sent_id = 362
+1	Assessering	_	_	_	_	_	_	_	_
+2	behoort	_	_	_	_	_	_	_	_
+3	leerders	_	_	_	_	_	_	_	_
+4	ook	_	_	_	_	_	_	_	_
+5	te	_	_	_	_	_	_	_	_
+6	help	_	_	_	_	_	_	_	_
+7	om	_	_	_	_	_	_	_	_
+8	hul	_	_	_	_	_	_	_	_
+9	eie	_	_	_	_	_	_	_	_
+10	prestasievlak	_	_	_	_	_	_	_	_
+11	te	_	_	_	_	_	_	_	_
+12	evalueer	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	om	_	_	_	_	_	_	_	_
+15	doelwitte	_	_	_	_	_	_	_	_
+16	vir	_	_	_	_	_	_	_	_
+17	vordering	_	_	_	_	_	_	_	_
+18	te	_	_	_	_	_	_	_	_
+19	stel	_	_	_	_	_	_	_	_
+20	en	_	_	_	_	_	_	_	_
+21	om	_	_	_	_	_	_	_	_
+22	verdere	_	_	_	_	_	_	_	_
+23	leer	_	_	_	_	_	_	_	_
+24	aan	_	_	_	_	_	_	_	_
+25	te	_	_	_	_	_	_	_	_
+26	moedig	_	_	_	_	_	_	_	_
+27	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-s234
+# text = Op die ou einde het die uitdagings net soveel met regulering te doen as wat dit met konsekwente toepassing te doen het.
+# org_sent_id = 1362
+1	Op	_	_	_	_	_	_	_	_
+2	die	_	_	_	_	_	_	_	_
+3	ou	_	_	_	_	_	_	_	_
+4	einde	_	_	_	_	_	_	_	_
+5	het	_	_	_	_	_	_	_	_
+6	die	_	_	_	_	_	_	_	_
+7	uitdagings	_	_	_	_	_	_	_	_
+8	net	_	_	_	_	_	_	_	_
+9	soveel	_	_	_	_	_	_	_	_
+10	met	_	_	_	_	_	_	_	_
+11	regulering	_	_	_	_	_	_	_	_
+12	te	_	_	_	_	_	_	_	_
+13	doen	_	_	_	_	_	_	_	_
+14	as	_	_	_	_	_	_	_	_
+15	wat	_	_	_	_	_	_	_	_
+16	dit	_	_	_	_	_	_	_	_
+17	met	_	_	_	_	_	_	_	_
+18	konsekwente	_	_	_	_	_	_	_	_
+19	toepassing	_	_	_	_	_	_	_	_
+20	te	_	_	_	_	_	_	_	_
+21	doen	_	_	_	_	_	_	_	_
+22	het	_	_	_	_	_	_	_	_
+23	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-s3
+# text = Baie mense wat hul werk verloor het, was die broodwinners van arm families.
+# org_sent_id = 1743
+1	Baie	_	_	_	_	_	_	_	_
+2	mense	_	_	_	_	_	_	_	_
+3	wat	_	_	_	_	_	_	_	_
+4	hul	_	_	_	_	_	_	_	_
+5	werk	_	_	_	_	_	_	_	_
+6	verloor	_	_	_	_	_	_	_	_
+7	het	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	was	_	_	_	_	_	_	_	_
+10	die	_	_	_	_	_	_	_	_
+11	broodwinners	_	_	_	_	_	_	_	_
+12	van	_	_	_	_	_	_	_	_
+13	arm	_	_	_	_	_	_	_	_
+14	families	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s1025
+# text = Die werking van die Departement van Binnelandse Sake tot sy volle kapasiteit uitbou deur vakante poste te vul, stelsels te verbeter en ander aanbevelings deur die taakspan wat met die minister saamgewerk het om die werk van hierdie onmisbare instansie te verbeter, implementeer.
+# org_sent_id = 1025
+1	Die	_	_	_	_	_	_	_	_
+2	werking	_	_	_	_	_	_	_	_
+3	van	_	_	_	_	_	_	_	_
+4	die	_	_	_	_	_	_	_	_
+5	Departement	_	_	_	_	_	_	_	_
+6	van	_	_	_	_	_	_	_	_
+7	Binnelandse	_	_	_	_	_	_	_	_
+8	Sake	_	_	_	_	_	_	_	_
+9	tot	_	_	_	_	_	_	_	_
+10	sy	_	_	_	_	_	_	_	_
+11	volle	_	_	_	_	_	_	_	_
+12	kapasiteit	_	_	_	_	_	_	_	_
+13	uitbou	_	_	_	_	_	_	_	_
+14	deur	_	_	_	_	_	_	_	_
+15	vakante	_	_	_	_	_	_	_	_
+16	poste	_	_	_	_	_	_	_	_
+17	te	_	_	_	_	_	_	_	_
+18	vul	_	_	_	_	_	_	_	_
+19	,	_	_	_	_	_	_	_	_
+20	stelsels	_	_	_	_	_	_	_	_
+21	te	_	_	_	_	_	_	_	_
+22	verbeter	_	_	_	_	_	_	_	_
+23	en	_	_	_	_	_	_	_	_
+24	ander	_	_	_	_	_	_	_	_
+25	aanbevelings	_	_	_	_	_	_	_	_
+26	deur	_	_	_	_	_	_	_	_
+27	die	_	_	_	_	_	_	_	_
+28	taakspan	_	_	_	_	_	_	_	_
+29	wat	_	_	_	_	_	_	_	_
+30	met	_	_	_	_	_	_	_	_
+31	die	_	_	_	_	_	_	_	_
+32	minister	_	_	_	_	_	_	_	_
+33	saamgewerk	_	_	_	_	_	_	_	_
+34	het	_	_	_	_	_	_	_	_
+35	om	_	_	_	_	_	_	_	_
+36	die	_	_	_	_	_	_	_	_
+37	werk	_	_	_	_	_	_	_	_
+38	van	_	_	_	_	_	_	_	_
+39	hierdie	_	_	_	_	_	_	_	_
+40	onmisbare	_	_	_	_	_	_	_	_
+41	instansie	_	_	_	_	_	_	_	_
+42	te	_	_	_	_	_	_	_	_
+43	verbeter	_	_	_	_	_	_	_	_
+44	,	_	_	_	_	_	_	_	_
+45	implementeer	_	_	_	_	_	_	_	_
+46	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s943
+# text = En die misbruik van vroue en kinders word teen 'n onaanvaarbaar hoë koers voortgesit.
+# org_sent_id = 943
+1	En	_	_	_	_	_	_	_	_
+2	die	_	_	_	_	_	_	_	_
+3	misbruik	_	_	_	_	_	_	_	_
+4	van	_	_	_	_	_	_	_	_
+5	vroue	_	_	_	_	_	_	_	_
+6	en	_	_	_	_	_	_	_	_
+7	kinders	_	_	_	_	_	_	_	_
+8	word	_	_	_	_	_	_	_	_
+9	teen	_	_	_	_	_	_	_	_
+10	'n	_	_	_	_	_	_	_	_
+11	onaanvaarbaar	_	_	_	_	_	_	_	_
+12	hoë	_	_	_	_	_	_	_	_
+13	koers	_	_	_	_	_	_	_	_
+14	voortgesit	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s1289
+# text = Aanstaande jaar sal ons die gasheer wees vir die Hersieningskonferensie om die implementering te evalueer van die besluite wat geneem is op die Wêreldkongres teen Rassisme wat in ons land gehou gehou is in 2001.
+# org_sent_id = 1289
+1	Aanstaande	_	_	_	_	_	_	_	_
+2	jaar	_	_	_	_	_	_	_	_
+3	sal	_	_	_	_	_	_	_	_
+4	ons	_	_	_	_	_	_	_	_
+5	die	_	_	_	_	_	_	_	_
+6	gasheer	_	_	_	_	_	_	_	_
+7	wees	_	_	_	_	_	_	_	_
+8	vir	_	_	_	_	_	_	_	_
+9	die	_	_	_	_	_	_	_	_
+10	Hersieningskonferensie	_	_	_	_	_	_	_	_
+11	om	_	_	_	_	_	_	_	_
+12	die	_	_	_	_	_	_	_	_
+13	implementering	_	_	_	_	_	_	_	_
+14	te	_	_	_	_	_	_	_	_
+15	evalueer	_	_	_	_	_	_	_	_
+16	van	_	_	_	_	_	_	_	_
+17	die	_	_	_	_	_	_	_	_
+18	besluite	_	_	_	_	_	_	_	_
+19	wat	_	_	_	_	_	_	_	_
+20	geneem	_	_	_	_	_	_	_	_
+21	is	_	_	_	_	_	_	_	_
+22	op	_	_	_	_	_	_	_	_
+23	die	_	_	_	_	_	_	_	_
+24	Wêreldkongres	_	_	_	_	_	_	_	_
+25	teen	_	_	_	_	_	_	_	_
+26	Rassisme	_	_	_	_	_	_	_	_
+27	wat	_	_	_	_	_	_	_	_
+28	in	_	_	_	_	_	_	_	_
+29	ons	_	_	_	_	_	_	_	_
+30	land	_	_	_	_	_	_	_	_
+31	gehou	_	_	_	_	_	_	_	_
+32	gehou	_	_	_	_	_	_	_	_
+33	is	_	_	_	_	_	_	_	_
+34	in	_	_	_	_	_	_	_	_
+35	2001	_	_	_	_	_	_	_	_
+36	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s559
+# text = 'n Vrywaringsverklaring (vir ingevoerde diere of voëls wat onder kwarantyn is) moet ingevul en aan die aansoekvorm geheg word.
+# org_sent_id = 559
+1	'n	_	_	_	_	_	_	_	_
+2	Vrywaringsverklaring	_	_	_	_	_	_	_	_
+3	(	_	_	_	_	_	_	_	_
+4	vir	_	_	_	_	_	_	_	_
+5	ingevoerde	_	_	_	_	_	_	_	_
+6	diere	_	_	_	_	_	_	_	_
+7	of	_	_	_	_	_	_	_	_
+8	voëls	_	_	_	_	_	_	_	_
+9	wat	_	_	_	_	_	_	_	_
+10	onder	_	_	_	_	_	_	_	_
+11	kwarantyn	_	_	_	_	_	_	_	_
+12	is	_	_	_	_	_	_	_	_
+13	)	_	_	_	_	_	_	_	_
+14	moet	_	_	_	_	_	_	_	_
+15	ingevul	_	_	_	_	_	_	_	_
+16	en	_	_	_	_	_	_	_	_
+17	aan	_	_	_	_	_	_	_	_
+18	die	_	_	_	_	_	_	_	_
+19	aansoekvorm	_	_	_	_	_	_	_	_
+20	geheg	_	_	_	_	_	_	_	_
+21	word	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-s375
+# text = Ons pogings sal ook ingelig word deur die wete dat die maatreÃ«ls om die omgewing te beskerm en om die impak van klimaatsverandering af te weer ook kan bydra tot werkskepping.
+# org_sent_id = 1503
+1	Ons	_	_	_	_	_	_	_	_
+2	pogings	_	_	_	_	_	_	_	_
+3	sal	_	_	_	_	_	_	_	_
+4	ook	_	_	_	_	_	_	_	_
+5	ingelig	_	_	_	_	_	_	_	_
+6	word	_	_	_	_	_	_	_	_
+7	deur	_	_	_	_	_	_	_	_
+8	die	_	_	_	_	_	_	_	_
+9	wete	_	_	_	_	_	_	_	_
+10	dat	_	_	_	_	_	_	_	_
+11	die	_	_	_	_	_	_	_	_
+12	maatreÃ«ls	_	_	_	_	_	_	_	_
+13	om	_	_	_	_	_	_	_	_
+14	die	_	_	_	_	_	_	_	_
+15	omgewing	_	_	_	_	_	_	_	_
+16	te	_	_	_	_	_	_	_	_
+17	beskerm	_	_	_	_	_	_	_	_
+18	en	_	_	_	_	_	_	_	_
+19	om	_	_	_	_	_	_	_	_
+20	die	_	_	_	_	_	_	_	_
+21	impak	_	_	_	_	_	_	_	_
+22	van	_	_	_	_	_	_	_	_
+23	klimaatsverandering	_	_	_	_	_	_	_	_
+24	af	_	_	_	_	_	_	_	_
+25	te	_	_	_	_	_	_	_	_
+26	weer	_	_	_	_	_	_	_	_
+27	ook	_	_	_	_	_	_	_	_
+28	kan	_	_	_	_	_	_	_	_
+29	bydra	_	_	_	_	_	_	_	_
+30	tot	_	_	_	_	_	_	_	_
+31	werkskepping	_	_	_	_	_	_	_	_
+32	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s98
+# text = Indien die respondent instem om onderhoud te betaal, sal 'n landdros die relevante dokumente nagaan.
+# org_sent_id = 98
+1	Indien	_	_	_	_	_	_	_	_
+2	die	_	_	_	_	_	_	_	_
+3	respondent	_	_	_	_	_	_	_	_
+4	instem	_	_	_	_	_	_	_	_
+5	om	_	_	_	_	_	_	_	_
+6	onderhoud	_	_	_	_	_	_	_	_
+7	te	_	_	_	_	_	_	_	_
+8	betaal	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	sal	_	_	_	_	_	_	_	_
+11	'n	_	_	_	_	_	_	_	_
+12	landdros	_	_	_	_	_	_	_	_
+13	die	_	_	_	_	_	_	_	_
+14	relevante	_	_	_	_	_	_	_	_
+15	dokumente	_	_	_	_	_	_	_	_
+16	nagaan	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s1149
+# text = Gesamentlike pogings en beraadslaging is die kern in ons antwoord op hierdie noodtoestand.
+# org_sent_id = 1149
+1	Gesamentlike	_	_	_	_	_	_	_	_
+2	pogings	_	_	_	_	_	_	_	_
+3	en	_	_	_	_	_	_	_	_
+4	beraadslaging	_	_	_	_	_	_	_	_
+5	is	_	_	_	_	_	_	_	_
+6	die	_	_	_	_	_	_	_	_
+7	kern	_	_	_	_	_	_	_	_
+8	in	_	_	_	_	_	_	_	_
+9	ons	_	_	_	_	_	_	_	_
+10	antwoord	_	_	_	_	_	_	_	_
+11	op	_	_	_	_	_	_	_	_
+12	hierdie	_	_	_	_	_	_	_	_
+13	noodtoestand	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-s243
+# text = Dit is ook 'n gevolg van beleide om die klimaat vir privaatsektor-beleggings te verbeter; en om fiskale en monetÃªre beleid so te bestuur dat dit toegang tot dienste verbeter en die inflasielas verminder, en terselfdertyd makro-ekonomiese stabiliteit en volhoubaarheid verseker.
+# org_sent_id = 1371
+1	Dit	_	_	_	_	_	_	_	_
+2	is	_	_	_	_	_	_	_	_
+3	ook	_	_	_	_	_	_	_	_
+4	'n	_	_	_	_	_	_	_	_
+5	gevolg	_	_	_	_	_	_	_	_
+6	van	_	_	_	_	_	_	_	_
+7	beleide	_	_	_	_	_	_	_	_
+8	om	_	_	_	_	_	_	_	_
+9	die	_	_	_	_	_	_	_	_
+10	klimaat	_	_	_	_	_	_	_	_
+11	vir	_	_	_	_	_	_	_	_
+12	privaatsektor-beleggings	_	_	_	_	_	_	_	_
+13	te	_	_	_	_	_	_	_	_
+14	verbeter	_	_	_	_	_	_	_	_
+15	;	_	_	_	_	_	_	_	_
+16	en	_	_	_	_	_	_	_	_
+17	om	_	_	_	_	_	_	_	_
+18	fiskale	_	_	_	_	_	_	_	_
+19	en	_	_	_	_	_	_	_	_
+20	monetÃªre	_	_	_	_	_	_	_	_
+21	beleid	_	_	_	_	_	_	_	_
+22	so	_	_	_	_	_	_	_	_
+23	te	_	_	_	_	_	_	_	_
+24	bestuur	_	_	_	_	_	_	_	_
+25	dat	_	_	_	_	_	_	_	_
+26	dit	_	_	_	_	_	_	_	_
+27	toegang	_	_	_	_	_	_	_	_
+28	tot	_	_	_	_	_	_	_	_
+29	dienste	_	_	_	_	_	_	_	_
+30	verbeter	_	_	_	_	_	_	_	_
+31	en	_	_	_	_	_	_	_	_
+32	die	_	_	_	_	_	_	_	_
+33	inflasielas	_	_	_	_	_	_	_	_
+34	verminder	_	_	_	_	_	_	_	_
+35	,	_	_	_	_	_	_	_	_
+36	en	_	_	_	_	_	_	_	_
+37	terselfdertyd	_	_	_	_	_	_	_	_
+38	makro-ekonomiese	_	_	_	_	_	_	_	_
+39	stabiliteit	_	_	_	_	_	_	_	_
+40	en	_	_	_	_	_	_	_	_
+41	volhoubaarheid	_	_	_	_	_	_	_	_
+42	verseker	_	_	_	_	_	_	_	_
+43	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s894
+# text = Dit is bemoedigend dat 300 000 van die werksgeleenthede wat net in die jaar van Maart 2005 tot Maart 2006 geskep is, in die formele sektor, buite die landbousektor, val- dit verteenwoordig 'n groeikoers van sowat 4%.
+# org_sent_id = 894
+1	Dit	_	_	_	_	_	_	_	_
+2	is	_	_	_	_	_	_	_	_
+3	bemoedigend	_	_	_	_	_	_	_	_
+4	dat	_	_	_	_	_	_	_	_
+5	300	_	_	_	_	_	_	_	_
+6	000	_	_	_	_	_	_	_	_
+7	van	_	_	_	_	_	_	_	_
+8	die	_	_	_	_	_	_	_	_
+9	werksgeleenthede	_	_	_	_	_	_	_	_
+10	wat	_	_	_	_	_	_	_	_
+11	net	_	_	_	_	_	_	_	_
+12	in	_	_	_	_	_	_	_	_
+13	die	_	_	_	_	_	_	_	_
+14	jaar	_	_	_	_	_	_	_	_
+15	van	_	_	_	_	_	_	_	_
+16	Maart	_	_	_	_	_	_	_	_
+17	2005	_	_	_	_	_	_	_	_
+18	tot	_	_	_	_	_	_	_	_
+19	Maart	_	_	_	_	_	_	_	_
+20	2006	_	_	_	_	_	_	_	_
+21	geskep	_	_	_	_	_	_	_	_
+22	is	_	_	_	_	_	_	_	_
+23	,	_	_	_	_	_	_	_	_
+24	in	_	_	_	_	_	_	_	_
+25	die	_	_	_	_	_	_	_	_
+26	formele	_	_	_	_	_	_	_	_
+27	sektor	_	_	_	_	_	_	_	_
+28	,	_	_	_	_	_	_	_	_
+29	buite	_	_	_	_	_	_	_	_
+30	die	_	_	_	_	_	_	_	_
+31	landbousektor	_	_	_	_	_	_	_	_
+32	,	_	_	_	_	_	_	_	_
+33	val	_	_	_	_	_	_	_	_
+34	-	_	_	_	_	_	_	_	_
+35	dit	_	_	_	_	_	_	_	_
+36	verteenwoordig	_	_	_	_	_	_	_	_
+37	'n	_	_	_	_	_	_	_	_
+38	groeikoers	_	_	_	_	_	_	_	_
+39	van	_	_	_	_	_	_	_	_
+40	sowat	_	_	_	_	_	_	_	_
+41	4%	_	_	_	_	_	_	_	_
+42	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s1074
+# text = Mevrou die Speaker, ek praat vandag in die teenwoordigheid van my moeder, Epainette Mbeki, MaMofokeng, wat 'n ondubbelsinnige boodskap gebring het van die landelike mense van Transkei, tussen wie sy al dekades lank woon.
+# org_sent_id = 1074
+1	Mevrou	_	_	_	_	_	_	_	_
+2	die	_	_	_	_	_	_	_	_
+3	Speaker	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	ek	_	_	_	_	_	_	_	_
+6	praat	_	_	_	_	_	_	_	_
+7	vandag	_	_	_	_	_	_	_	_
+8	in	_	_	_	_	_	_	_	_
+9	die	_	_	_	_	_	_	_	_
+10	teenwoordigheid	_	_	_	_	_	_	_	_
+11	van	_	_	_	_	_	_	_	_
+12	my	_	_	_	_	_	_	_	_
+13	moeder	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	Epainette	_	_	_	_	_	_	_	_
+16	Mbeki	_	_	_	_	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	MaMofokeng	_	_	_	_	_	_	_	_
+19	,	_	_	_	_	_	_	_	_
+20	wat	_	_	_	_	_	_	_	_
+21	'n	_	_	_	_	_	_	_	_
+22	ondubbelsinnige	_	_	_	_	_	_	_	_
+23	boodskap	_	_	_	_	_	_	_	_
+24	gebring	_	_	_	_	_	_	_	_
+25	het	_	_	_	_	_	_	_	_
+26	van	_	_	_	_	_	_	_	_
+27	die	_	_	_	_	_	_	_	_
+28	landelike	_	_	_	_	_	_	_	_
+29	mense	_	_	_	_	_	_	_	_
+30	van	_	_	_	_	_	_	_	_
+31	Transkei	_	_	_	_	_	_	_	_
+32	,	_	_	_	_	_	_	_	_
+33	tussen	_	_	_	_	_	_	_	_
+34	wie	_	_	_	_	_	_	_	_
+35	sy	_	_	_	_	_	_	_	_
+36	al	_	_	_	_	_	_	_	_
+37	dekades	_	_	_	_	_	_	_	_
+38	lank	_	_	_	_	_	_	_	_
+39	woon	_	_	_	_	_	_	_	_
+40	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s510
+# text = 'n Gemiddelde of saamgevoegde punt verbloem die feit dat 'n leerder in een opsig goed aan die verlangde vereiste voldoen het, maar nie in 'n ander nie.
+# org_sent_id = 510
+1	'n	_	_	_	_	_	_	_	_
+2	Gemiddelde	_	_	_	_	_	_	_	_
+3	of	_	_	_	_	_	_	_	_
+4	saamgevoegde	_	_	_	_	_	_	_	_
+5	punt	_	_	_	_	_	_	_	_
+6	verbloem	_	_	_	_	_	_	_	_
+7	die	_	_	_	_	_	_	_	_
+8	feit	_	_	_	_	_	_	_	_
+9	dat	_	_	_	_	_	_	_	_
+10	'n	_	_	_	_	_	_	_	_
+11	leerder	_	_	_	_	_	_	_	_
+12	in	_	_	_	_	_	_	_	_
+13	een	_	_	_	_	_	_	_	_
+14	opsig	_	_	_	_	_	_	_	_
+15	goed	_	_	_	_	_	_	_	_
+16	aan	_	_	_	_	_	_	_	_
+17	die	_	_	_	_	_	_	_	_
+18	verlangde	_	_	_	_	_	_	_	_
+19	vereiste	_	_	_	_	_	_	_	_
+20	voldoen	_	_	_	_	_	_	_	_
+21	het	_	_	_	_	_	_	_	_
+22	,	_	_	_	_	_	_	_	_
+23	maar	_	_	_	_	_	_	_	_
+24	nie	_	_	_	_	_	_	_	_
+25	in	_	_	_	_	_	_	_	_
+26	'n	_	_	_	_	_	_	_	_
+27	ander	_	_	_	_	_	_	_	_
+28	nie	_	_	_	_	_	_	_	_
+29	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s991
+# text = In hierdie verband wil ons ons reëlingskomitee (OC) en ander vennote gelukwens met die uitmuntende werk wat hulle verrig.
+# org_sent_id = 991
+1	In	_	_	_	_	_	_	_	_
+2	hierdie	_	_	_	_	_	_	_	_
+3	verband	_	_	_	_	_	_	_	_
+4	wil	_	_	_	_	_	_	_	_
+5	ons	_	_	_	_	_	_	_	_
+6	ons	_	_	_	_	_	_	_	_
+7	reëlingskomitee	_	_	_	_	_	_	_	_
+8	(	_	_	_	_	_	_	_	_
+9	OC	_	_	_	_	_	_	_	_
+10	)	_	_	_	_	_	_	_	_
+11	en	_	_	_	_	_	_	_	_
+12	ander	_	_	_	_	_	_	_	_
+13	vennote	_	_	_	_	_	_	_	_
+14	gelukwens	_	_	_	_	_	_	_	_
+15	met	_	_	_	_	_	_	_	_
+16	die	_	_	_	_	_	_	_	_
+17	uitmuntende	_	_	_	_	_	_	_	_
+18	werk	_	_	_	_	_	_	_	_
+19	wat	_	_	_	_	_	_	_	_
+20	hulle	_	_	_	_	_	_	_	_
+21	verrig	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-s57
+# text = Departemente se werk sal gemeet word deur uitkomste, wat op grond van ons prestasie-monitering-en-evalueringstelsel ontwikkel word.
+# org_sent_id = 1797
+1	Departemente	_	_	_	_	_	_	_	_
+2	se	_	_	_	_	_	_	_	_
+3	werk	_	_	_	_	_	_	_	_
+4	sal	_	_	_	_	_	_	_	_
+5	gemeet	_	_	_	_	_	_	_	_
+6	word	_	_	_	_	_	_	_	_
+7	deur	_	_	_	_	_	_	_	_
+8	uitkomste	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	wat	_	_	_	_	_	_	_	_
+11	op	_	_	_	_	_	_	_	_
+12	grond	_	_	_	_	_	_	_	_
+13	van	_	_	_	_	_	_	_	_
+14	ons	_	_	_	_	_	_	_	_
+15	prestasie-monitering-en-evalueringstelsel	_	_	_	_	_	_	_	_
+16	ontwikkel	_	_	_	_	_	_	_	_
+17	word	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-s62
+# text = Ons het onderwys en vaardigheidsontwikkeling as die middelpunt van hierdie regering se beleide gestel.
+# org_sent_id = 1802
+1	Ons	_	_	_	_	_	_	_	_
+2	het	_	_	_	_	_	_	_	_
+3	onderwys	_	_	_	_	_	_	_	_
+4	en	_	_	_	_	_	_	_	_
+5	vaardigheidsontwikkeling	_	_	_	_	_	_	_	_
+6	as	_	_	_	_	_	_	_	_
+7	die	_	_	_	_	_	_	_	_
+8	middelpunt	_	_	_	_	_	_	_	_
+9	van	_	_	_	_	_	_	_	_
+10	hierdie	_	_	_	_	_	_	_	_
+11	regering	_	_	_	_	_	_	_	_
+12	se	_	_	_	_	_	_	_	_
+13	beleide	_	_	_	_	_	_	_	_
+14	gestel	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-s421
+# text = Dit is Suid-Afrika se mense wat die land se vooruitgang verseker; en dit is hulle wat ons demokrasie sal verseker in die jare wat voorlÃª.
+# org_sent_id = 1318
+1	Dit	_	_	_	_	_	_	_	_
+2	is	_	_	_	_	_	_	_	_
+3	Suid-Afrika	_	_	_	_	_	_	_	_
+4	se	_	_	_	_	_	_	_	_
+5	mense	_	_	_	_	_	_	_	_
+6	wat	_	_	_	_	_	_	_	_
+7	die	_	_	_	_	_	_	_	_
+8	land	_	_	_	_	_	_	_	_
+9	se	_	_	_	_	_	_	_	_
+10	vooruitgang	_	_	_	_	_	_	_	_
+11	verseker	_	_	_	_	_	_	_	_
+12	;	_	_	_	_	_	_	_	_
+13	en	_	_	_	_	_	_	_	_
+14	dit	_	_	_	_	_	_	_	_
+15	is	_	_	_	_	_	_	_	_
+16	hulle	_	_	_	_	_	_	_	_
+17	wat	_	_	_	_	_	_	_	_
+18	ons	_	_	_	_	_	_	_	_
+19	demokrasie	_	_	_	_	_	_	_	_
+20	sal	_	_	_	_	_	_	_	_
+21	verseker	_	_	_	_	_	_	_	_
+22	in	_	_	_	_	_	_	_	_
+23	die	_	_	_	_	_	_	_	_
+24	jare	_	_	_	_	_	_	_	_
+25	wat	_	_	_	_	_	_	_	_
+26	voorlÃª	_	_	_	_	_	_	_	_
+27	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s1070
+# text = Veroorloof my om by hierdie geleentheid van die voorlaaste Gesamentlike Sitting van die derde Parlement vir die jaarlikse debat oor die stand van ons nasie, al die agbare lede van die Parlement 'n voorspoedige en produktiewe nuwe jaar toe te wens.
+# org_sent_id = 1070
+1	Veroorloof	_	_	_	_	_	_	_	_
+2	my	_	_	_	_	_	_	_	_
+3	om	_	_	_	_	_	_	_	_
+4	by	_	_	_	_	_	_	_	_
+5	hierdie	_	_	_	_	_	_	_	_
+6	geleentheid	_	_	_	_	_	_	_	_
+7	van	_	_	_	_	_	_	_	_
+8	die	_	_	_	_	_	_	_	_
+9	voorlaaste	_	_	_	_	_	_	_	_
+10	Gesamentlike	_	_	_	_	_	_	_	_
+11	Sitting	_	_	_	_	_	_	_	_
+12	van	_	_	_	_	_	_	_	_
+13	die	_	_	_	_	_	_	_	_
+14	derde	_	_	_	_	_	_	_	_
+15	Parlement	_	_	_	_	_	_	_	_
+16	vir	_	_	_	_	_	_	_	_
+17	die	_	_	_	_	_	_	_	_
+18	jaarlikse	_	_	_	_	_	_	_	_
+19	debat	_	_	_	_	_	_	_	_
+20	oor	_	_	_	_	_	_	_	_
+21	die	_	_	_	_	_	_	_	_
+22	stand	_	_	_	_	_	_	_	_
+23	van	_	_	_	_	_	_	_	_
+24	ons	_	_	_	_	_	_	_	_
+25	nasie	_	_	_	_	_	_	_	_
+26	,	_	_	_	_	_	_	_	_
+27	al	_	_	_	_	_	_	_	_
+28	die	_	_	_	_	_	_	_	_
+29	agbare	_	_	_	_	_	_	_	_
+30	lede	_	_	_	_	_	_	_	_
+31	van	_	_	_	_	_	_	_	_
+32	die	_	_	_	_	_	_	_	_
+33	Parlement	_	_	_	_	_	_	_	_
+34	'n	_	_	_	_	_	_	_	_
+35	voorspoedige	_	_	_	_	_	_	_	_
+36	en	_	_	_	_	_	_	_	_
+37	produktiewe	_	_	_	_	_	_	_	_
+38	nuwe	_	_	_	_	_	_	_	_
+39	jaar	_	_	_	_	_	_	_	_
+40	toe	_	_	_	_	_	_	_	_
+41	te	_	_	_	_	_	_	_	_
+42	wens	_	_	_	_	_	_	_	_
+43	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s1164
+# text = Laat ons dus hierdie noodtoestand gebruik om die eerste boublokke te lê van die noodsaaklike energiedoeltreffende toekoms wat ons nie kan vermy nie.
+# org_sent_id = 1164
+1	Laat	_	_	_	_	_	_	_	_
+2	ons	_	_	_	_	_	_	_	_
+3	dus	_	_	_	_	_	_	_	_
+4	hierdie	_	_	_	_	_	_	_	_
+5	noodtoestand	_	_	_	_	_	_	_	_
+6	gebruik	_	_	_	_	_	_	_	_
+7	om	_	_	_	_	_	_	_	_
+8	die	_	_	_	_	_	_	_	_
+9	eerste	_	_	_	_	_	_	_	_
+10	boublokke	_	_	_	_	_	_	_	_
+11	te	_	_	_	_	_	_	_	_
+12	lê	_	_	_	_	_	_	_	_
+13	van	_	_	_	_	_	_	_	_
+14	die	_	_	_	_	_	_	_	_
+15	noodsaaklike	_	_	_	_	_	_	_	_
+16	energiedoeltreffende	_	_	_	_	_	_	_	_
+17	toekoms	_	_	_	_	_	_	_	_
+18	wat	_	_	_	_	_	_	_	_
+19	ons	_	_	_	_	_	_	_	_
+20	nie	_	_	_	_	_	_	_	_
+21	kan	_	_	_	_	_	_	_	_
+22	vermy	_	_	_	_	_	_	_	_
+23	nie	_	_	_	_	_	_	_	_
+24	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s1260
+# text = Om die diens wat aan kwesbare sektore soos veterane, vroue en jongmense gelewer word nog verder te verbeter, sal ons die strukture wat opdrag gegee is om hierdie funksies te verrig, hersien en die mees gepaste reëlings bestudeer, insluitend die evaluering van regeringstrukture wat spesifiek ingestel is om op die ontwikkeling en bemagtiging van die jeug te konsentreer.
+# org_sent_id = 1260
+1	Om	_	_	_	_	_	_	_	_
+2	die	_	_	_	_	_	_	_	_
+3	diens	_	_	_	_	_	_	_	_
+4	wat	_	_	_	_	_	_	_	_
+5	aan	_	_	_	_	_	_	_	_
+6	kwesbare	_	_	_	_	_	_	_	_
+7	sektore	_	_	_	_	_	_	_	_
+8	soos	_	_	_	_	_	_	_	_
+9	veterane	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	vroue	_	_	_	_	_	_	_	_
+12	en	_	_	_	_	_	_	_	_
+13	jongmense	_	_	_	_	_	_	_	_
+14	gelewer	_	_	_	_	_	_	_	_
+15	word	_	_	_	_	_	_	_	_
+16	nog	_	_	_	_	_	_	_	_
+17	verder	_	_	_	_	_	_	_	_
+18	te	_	_	_	_	_	_	_	_
+19	verbeter	_	_	_	_	_	_	_	_
+20	,	_	_	_	_	_	_	_	_
+21	sal	_	_	_	_	_	_	_	_
+22	ons	_	_	_	_	_	_	_	_
+23	die	_	_	_	_	_	_	_	_
+24	strukture	_	_	_	_	_	_	_	_
+25	wat	_	_	_	_	_	_	_	_
+26	opdrag	_	_	_	_	_	_	_	_
+27	gegee	_	_	_	_	_	_	_	_
+28	is	_	_	_	_	_	_	_	_
+29	om	_	_	_	_	_	_	_	_
+30	hierdie	_	_	_	_	_	_	_	_
+31	funksies	_	_	_	_	_	_	_	_
+32	te	_	_	_	_	_	_	_	_
+33	verrig	_	_	_	_	_	_	_	_
+34	,	_	_	_	_	_	_	_	_
+35	hersien	_	_	_	_	_	_	_	_
+36	en	_	_	_	_	_	_	_	_
+37	die	_	_	_	_	_	_	_	_
+38	mees	_	_	_	_	_	_	_	_
+39	gepaste	_	_	_	_	_	_	_	_
+40	reëlings	_	_	_	_	_	_	_	_
+41	bestudeer	_	_	_	_	_	_	_	_
+42	,	_	_	_	_	_	_	_	_
+43	insluitend	_	_	_	_	_	_	_	_
+44	die	_	_	_	_	_	_	_	_
+45	evaluering	_	_	_	_	_	_	_	_
+46	van	_	_	_	_	_	_	_	_
+47	regeringstrukture	_	_	_	_	_	_	_	_
+48	wat	_	_	_	_	_	_	_	_
+49	spesifiek	_	_	_	_	_	_	_	_
+50	ingestel	_	_	_	_	_	_	_	_
+51	is	_	_	_	_	_	_	_	_
+52	om	_	_	_	_	_	_	_	_
+53	op	_	_	_	_	_	_	_	_
+54	die	_	_	_	_	_	_	_	_
+55	ontwikkeling	_	_	_	_	_	_	_	_
+56	en	_	_	_	_	_	_	_	_
+57	bemagtiging	_	_	_	_	_	_	_	_
+58	van	_	_	_	_	_	_	_	_
+59	die	_	_	_	_	_	_	_	_
+60	jeug	_	_	_	_	_	_	_	_
+61	te	_	_	_	_	_	_	_	_
+62	konsentreer	_	_	_	_	_	_	_	_
+63	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s1231
+# text = Die tweede aangeleentheid het te doen met geografiese en plekname, wat 'n gesinchroniseerde proses regoor al die provinsies verg sodat ons 'n basis kan vorm vir die veranderings wat ons voorstel.
+# org_sent_id = 1231
+1	Die	_	_	_	_	_	_	_	_
+2	tweede	_	_	_	_	_	_	_	_
+3	aangeleentheid	_	_	_	_	_	_	_	_
+4	het	_	_	_	_	_	_	_	_
+5	te	_	_	_	_	_	_	_	_
+6	doen	_	_	_	_	_	_	_	_
+7	met	_	_	_	_	_	_	_	_
+8	geografiese	_	_	_	_	_	_	_	_
+9	en	_	_	_	_	_	_	_	_
+10	plekname	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	wat	_	_	_	_	_	_	_	_
+13	'n	_	_	_	_	_	_	_	_
+14	gesinchroniseerde	_	_	_	_	_	_	_	_
+15	proses	_	_	_	_	_	_	_	_
+16	regoor	_	_	_	_	_	_	_	_
+17	al	_	_	_	_	_	_	_	_
+18	die	_	_	_	_	_	_	_	_
+19	provinsies	_	_	_	_	_	_	_	_
+20	verg	_	_	_	_	_	_	_	_
+21	sodat	_	_	_	_	_	_	_	_
+22	ons	_	_	_	_	_	_	_	_
+23	'n	_	_	_	_	_	_	_	_
+24	basis	_	_	_	_	_	_	_	_
+25	kan	_	_	_	_	_	_	_	_
+26	vorm	_	_	_	_	_	_	_	_
+27	vir	_	_	_	_	_	_	_	_
+28	die	_	_	_	_	_	_	_	_
+29	veranderings	_	_	_	_	_	_	_	_
+30	wat	_	_	_	_	_	_	_	_
+31	ons	_	_	_	_	_	_	_	_
+32	voorstel	_	_	_	_	_	_	_	_
+33	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-s52
+# text = Ons bou 'n staat wat op effektiewe werkverrigting fokus.
+# org_sent_id = 1792
+1	Ons	_	_	_	_	_	_	_	_
+2	bou	_	_	_	_	_	_	_	_
+3	'n	_	_	_	_	_	_	_	_
+4	staat	_	_	_	_	_	_	_	_
+5	wat	_	_	_	_	_	_	_	_
+6	op	_	_	_	_	_	_	_	_
+7	effektiewe	_	_	_	_	_	_	_	_
+8	werkverrigting	_	_	_	_	_	_	_	_
+9	fokus	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-s58
+# text = Let asseblief daarop dat hierdie werf skakels kan hê met ander werwe wat nie aan hierdie privaatheidsverklaring onderhewig is nie.
+# org_sent_id = 1604
+1	Let	_	_	_	_	_	_	_	_
+2	asseblief	_	_	_	_	_	_	_	_
+3	daarop	_	_	_	_	_	_	_	_
+4	dat	_	_	_	_	_	_	_	_
+5	hierdie	_	_	_	_	_	_	_	_
+6	werf	_	_	_	_	_	_	_	_
+7	skakels	_	_	_	_	_	_	_	_
+8	kan	_	_	_	_	_	_	_	_
+9	hê	_	_	_	_	_	_	_	_
+10	met	_	_	_	_	_	_	_	_
+11	ander	_	_	_	_	_	_	_	_
+12	werwe	_	_	_	_	_	_	_	_
+13	wat	_	_	_	_	_	_	_	_
+14	nie	_	_	_	_	_	_	_	_
+15	aan	_	_	_	_	_	_	_	_
+16	hierdie	_	_	_	_	_	_	_	_
+17	privaatheidsverklaring	_	_	_	_	_	_	_	_
+18	onderhewig	_	_	_	_	_	_	_	_
+19	is	_	_	_	_	_	_	_	_
+20	nie	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s1181
+# text = Op makro-ekonomiese vlak sal ons voortgaan om 'n fiskale beleid vol te hou wat voortdurende ekonomiese groei en ontwikkeling ondersteun en ons eksterne kwesbaarheid verminder.
+# org_sent_id = 1181
+1	Op	_	_	_	_	_	_	_	_
+2	makro-ekonomiese	_	_	_	_	_	_	_	_
+3	vlak	_	_	_	_	_	_	_	_
+4	sal	_	_	_	_	_	_	_	_
+5	ons	_	_	_	_	_	_	_	_
+6	voortgaan	_	_	_	_	_	_	_	_
+7	om	_	_	_	_	_	_	_	_
+8	'n	_	_	_	_	_	_	_	_
+9	fiskale	_	_	_	_	_	_	_	_
+10	beleid	_	_	_	_	_	_	_	_
+11	vol	_	_	_	_	_	_	_	_
+12	te	_	_	_	_	_	_	_	_
+13	hou	_	_	_	_	_	_	_	_
+14	wat	_	_	_	_	_	_	_	_
+15	voortdurende	_	_	_	_	_	_	_	_
+16	ekonomiese	_	_	_	_	_	_	_	_
+17	groei	_	_	_	_	_	_	_	_
+18	en	_	_	_	_	_	_	_	_
+19	ontwikkeling	_	_	_	_	_	_	_	_
+20	ondersteun	_	_	_	_	_	_	_	_
+21	en	_	_	_	_	_	_	_	_
+22	ons	_	_	_	_	_	_	_	_
+23	eksterne	_	_	_	_	_	_	_	_
+24	kwesbaarheid	_	_	_	_	_	_	_	_
+25	verminder	_	_	_	_	_	_	_	_
+26	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s289
+# text = Die registrasiebeampte of aangewese persoon sal die aansoek aanstuur na die naaste streeks- of distrikskantoor van die Departement sodat dit in die bevolkingsregister ingesluit kan word.
+# org_sent_id = 289
+1	Die	_	_	_	_	_	_	_	_
+2	registrasiebeampte	_	_	_	_	_	_	_	_
+3	of	_	_	_	_	_	_	_	_
+4	aangewese	_	_	_	_	_	_	_	_
+5	persoon	_	_	_	_	_	_	_	_
+6	sal	_	_	_	_	_	_	_	_
+7	die	_	_	_	_	_	_	_	_
+8	aansoek	_	_	_	_	_	_	_	_
+9	aanstuur	_	_	_	_	_	_	_	_
+10	na	_	_	_	_	_	_	_	_
+11	die	_	_	_	_	_	_	_	_
+12	naaste	_	_	_	_	_	_	_	_
+13	streeks-	_	_	_	_	_	_	_	_
+14	of	_	_	_	_	_	_	_	_
+15	distrikskantoor	_	_	_	_	_	_	_	_
+16	van	_	_	_	_	_	_	_	_
+17	die	_	_	_	_	_	_	_	_
+18	Departement	_	_	_	_	_	_	_	_
+19	sodat	_	_	_	_	_	_	_	_
+20	dit	_	_	_	_	_	_	_	_
+21	in	_	_	_	_	_	_	_	_
+22	die	_	_	_	_	_	_	_	_
+23	bevolkingsregister	_	_	_	_	_	_	_	_
+24	ingesluit	_	_	_	_	_	_	_	_
+25	kan	_	_	_	_	_	_	_	_
+26	word	_	_	_	_	_	_	_	_
+27	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s978
+# text = Hierbenewens sal Telkom, as deel van die poging om die besigheidsproses-uitbestedingsektor (BPO-sektor) te vergroot, 'n spesiale lae tarief vir internasionale bandwydte hef aan 10 ontwikkelingsoproepsentra wat elk 1 000 werknemers in diens het.
+# org_sent_id = 978
+1	Hierbenewens	_	_	_	_	_	_	_	_
+2	sal	_	_	_	_	_	_	_	_
+3	Telkom	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	as	_	_	_	_	_	_	_	_
+6	deel	_	_	_	_	_	_	_	_
+7	van	_	_	_	_	_	_	_	_
+8	die	_	_	_	_	_	_	_	_
+9	poging	_	_	_	_	_	_	_	_
+10	om	_	_	_	_	_	_	_	_
+11	die	_	_	_	_	_	_	_	_
+12	besigheidsproses-uitbestedingsektor	_	_	_	_	_	_	_	_
+13	(	_	_	_	_	_	_	_	_
+14	BPO-sektor	_	_	_	_	_	_	_	_
+15	)	_	_	_	_	_	_	_	_
+16	te	_	_	_	_	_	_	_	_
+17	vergroot	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	'n	_	_	_	_	_	_	_	_
+20	spesiale	_	_	_	_	_	_	_	_
+21	lae	_	_	_	_	_	_	_	_
+22	tarief	_	_	_	_	_	_	_	_
+23	vir	_	_	_	_	_	_	_	_
+24	internasionale	_	_	_	_	_	_	_	_
+25	bandwydte	_	_	_	_	_	_	_	_
+26	hef	_	_	_	_	_	_	_	_
+27	aan	_	_	_	_	_	_	_	_
+28	10	_	_	_	_	_	_	_	_
+29	ontwikkelingsoproepsentra	_	_	_	_	_	_	_	_
+30	wat	_	_	_	_	_	_	_	_
+31	elk	_	_	_	_	_	_	_	_
+32	1	_	_	_	_	_	_	_	_
+33	000	_	_	_	_	_	_	_	_
+34	werknemers	_	_	_	_	_	_	_	_
+35	in	_	_	_	_	_	_	_	_
+36	diens	_	_	_	_	_	_	_	_
+37	het	_	_	_	_	_	_	_	_
+38	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-s398
+# text = En dit is om hierdie rede, en slegs om hierdie rede, dat ons aanhou om die mense van Zimbabwe te probeer help om 'n blywende oplossing vir die krisis in daardie land te vind.
+# org_sent_id = 1526
+1	En	_	_	_	_	_	_	_	_
+2	dit	_	_	_	_	_	_	_	_
+3	is	_	_	_	_	_	_	_	_
+4	om	_	_	_	_	_	_	_	_
+5	hierdie	_	_	_	_	_	_	_	_
+6	rede	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	en	_	_	_	_	_	_	_	_
+9	slegs	_	_	_	_	_	_	_	_
+10	om	_	_	_	_	_	_	_	_
+11	hierdie	_	_	_	_	_	_	_	_
+12	rede	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	dat	_	_	_	_	_	_	_	_
+15	ons	_	_	_	_	_	_	_	_
+16	aanhou	_	_	_	_	_	_	_	_
+17	om	_	_	_	_	_	_	_	_
+18	die	_	_	_	_	_	_	_	_
+19	mense	_	_	_	_	_	_	_	_
+20	van	_	_	_	_	_	_	_	_
+21	Zimbabwe	_	_	_	_	_	_	_	_
+22	te	_	_	_	_	_	_	_	_
+23	probeer	_	_	_	_	_	_	_	_
+24	help	_	_	_	_	_	_	_	_
+25	om	_	_	_	_	_	_	_	_
+26	'n	_	_	_	_	_	_	_	_
+27	blywende	_	_	_	_	_	_	_	_
+28	oplossing	_	_	_	_	_	_	_	_
+29	vir	_	_	_	_	_	_	_	_
+30	die	_	_	_	_	_	_	_	_
+31	krisis	_	_	_	_	_	_	_	_
+32	in	_	_	_	_	_	_	_	_
+33	daardie	_	_	_	_	_	_	_	_
+34	land	_	_	_	_	_	_	_	_
+35	te	_	_	_	_	_	_	_	_
+36	vind	_	_	_	_	_	_	_	_
+37	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-s94
+# text = Hierdie dienste word deur munisipaliteite gelewer en behels 'n minimum hoeveelheid elektrisiteit, water en sanitasie; genoeg om in die basiese behoeftes van 'n arm huishouding te voorsien.
+# org_sent_id = 1640
+1	Hierdie	_	_	_	_	_	_	_	_
+2	dienste	_	_	_	_	_	_	_	_
+3	word	_	_	_	_	_	_	_	_
+4	deur	_	_	_	_	_	_	_	_
+5	munisipaliteite	_	_	_	_	_	_	_	_
+6	gelewer	_	_	_	_	_	_	_	_
+7	en	_	_	_	_	_	_	_	_
+8	behels	_	_	_	_	_	_	_	_
+9	'n	_	_	_	_	_	_	_	_
+10	minimum	_	_	_	_	_	_	_	_
+11	hoeveelheid	_	_	_	_	_	_	_	_
+12	elektrisiteit	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	water	_	_	_	_	_	_	_	_
+15	en	_	_	_	_	_	_	_	_
+16	sanitasie	_	_	_	_	_	_	_	_
+17	;	_	_	_	_	_	_	_	_
+18	genoeg	_	_	_	_	_	_	_	_
+19	om	_	_	_	_	_	_	_	_
+20	in	_	_	_	_	_	_	_	_
+21	die	_	_	_	_	_	_	_	_
+22	basiese	_	_	_	_	_	_	_	_
+23	behoeftes	_	_	_	_	_	_	_	_
+24	van	_	_	_	_	_	_	_	_
+25	'n	_	_	_	_	_	_	_	_
+26	arm	_	_	_	_	_	_	_	_
+27	huishouding	_	_	_	_	_	_	_	_
+28	te	_	_	_	_	_	_	_	_
+29	voorsien	_	_	_	_	_	_	_	_
+30	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-s144
+# text = 'n Verwysingsnommer sal op die skerm verskyn sodra jy die vorm ingedien het.
+# org_sent_id = 1690
+1	'n	_	_	_	_	_	_	_	_
+2	Verwysingsnommer	_	_	_	_	_	_	_	_
+3	sal	_	_	_	_	_	_	_	_
+4	op	_	_	_	_	_	_	_	_
+5	die	_	_	_	_	_	_	_	_
+6	skerm	_	_	_	_	_	_	_	_
+7	verskyn	_	_	_	_	_	_	_	_
+8	sodra	_	_	_	_	_	_	_	_
+9	jy	_	_	_	_	_	_	_	_
+10	die	_	_	_	_	_	_	_	_
+11	vorm	_	_	_	_	_	_	_	_
+12	ingedien	_	_	_	_	_	_	_	_
+13	het	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-s262
+# text = Om die voordele van groei te deel sluit ook versnelde implementering van regstellende aksie in, insluitend breÃ« swart ekonomiese bemagtiging.
+# org_sent_id = 1390
+1	Om	_	_	_	_	_	_	_	_
+2	die	_	_	_	_	_	_	_	_
+3	voordele	_	_	_	_	_	_	_	_
+4	van	_	_	_	_	_	_	_	_
+5	groei	_	_	_	_	_	_	_	_
+6	te	_	_	_	_	_	_	_	_
+7	deel	_	_	_	_	_	_	_	_
+8	sluit	_	_	_	_	_	_	_	_
+9	ook	_	_	_	_	_	_	_	_
+10	versnelde	_	_	_	_	_	_	_	_
+11	implementering	_	_	_	_	_	_	_	_
+12	van	_	_	_	_	_	_	_	_
+13	regstellende	_	_	_	_	_	_	_	_
+14	aksie	_	_	_	_	_	_	_	_
+15	in	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	insluitend	_	_	_	_	_	_	_	_
+18	breÃ«	_	_	_	_	_	_	_	_
+19	swart	_	_	_	_	_	_	_	_
+20	ekonomiese	_	_	_	_	_	_	_	_
+21	bemagtiging	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s1044
+# text = Die doen en late van hierdie 30 000 individue sal oor 'n lang tydperk gevolg word om ons begrip van sake soos migrasie, skuiwe in die arbeidsmark, mobiliteit tussen generasies onderling en huishoudelike inligting en ontbinding te verhoog.
+# org_sent_id = 1044
+1	Die	_	_	_	_	_	_	_	_
+2	doen	_	_	_	_	_	_	_	_
+3	en	_	_	_	_	_	_	_	_
+4	late	_	_	_	_	_	_	_	_
+5	van	_	_	_	_	_	_	_	_
+6	hierdie	_	_	_	_	_	_	_	_
+7	30	_	_	_	_	_	_	_	_
+8	000	_	_	_	_	_	_	_	_
+9	individue	_	_	_	_	_	_	_	_
+10	sal	_	_	_	_	_	_	_	_
+11	oor	_	_	_	_	_	_	_	_
+12	'n	_	_	_	_	_	_	_	_
+13	lang	_	_	_	_	_	_	_	_
+14	tydperk	_	_	_	_	_	_	_	_
+15	gevolg	_	_	_	_	_	_	_	_
+16	word	_	_	_	_	_	_	_	_
+17	om	_	_	_	_	_	_	_	_
+18	ons	_	_	_	_	_	_	_	_
+19	begrip	_	_	_	_	_	_	_	_
+20	van	_	_	_	_	_	_	_	_
+21	sake	_	_	_	_	_	_	_	_
+22	soos	_	_	_	_	_	_	_	_
+23	migrasie	_	_	_	_	_	_	_	_
+24	,	_	_	_	_	_	_	_	_
+25	skuiwe	_	_	_	_	_	_	_	_
+26	in	_	_	_	_	_	_	_	_
+27	die	_	_	_	_	_	_	_	_
+28	arbeidsmark	_	_	_	_	_	_	_	_
+29	,	_	_	_	_	_	_	_	_
+30	mobiliteit	_	_	_	_	_	_	_	_
+31	tussen	_	_	_	_	_	_	_	_
+32	generasies	_	_	_	_	_	_	_	_
+33	onderling	_	_	_	_	_	_	_	_
+34	en	_	_	_	_	_	_	_	_
+35	huishoudelike	_	_	_	_	_	_	_	_
+36	inligting	_	_	_	_	_	_	_	_
+37	en	_	_	_	_	_	_	_	_
+38	ontbinding	_	_	_	_	_	_	_	_
+39	te	_	_	_	_	_	_	_	_
+40	verhoog	_	_	_	_	_	_	_	_
+41	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s58
+# text = Indien die Direkteur-generaal, of 'n vereniging of voorlopige vereniging, of enige lid van die vereniging, of enige ander belanghebbende persoon aansoek doen dat 'n vereniging of voorlopige vereniging deur die Direkteur-generaal onder administrasie geplaas of gelikwideer moet word, kan die Minister beslis ingevolge watter prosedure die Direkteur-generaal die vereniging of voorlopige vereniging onder administrasie moet plaas of likwideer.
+# org_sent_id = 58
+1	Indien	_	_	_	_	_	_	_	_
+2	die	_	_	_	_	_	_	_	_
+3	Direkteur-generaal	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	of	_	_	_	_	_	_	_	_
+6	'n	_	_	_	_	_	_	_	_
+7	vereniging	_	_	_	_	_	_	_	_
+8	of	_	_	_	_	_	_	_	_
+9	voorlopige	_	_	_	_	_	_	_	_
+10	vereniging	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	of	_	_	_	_	_	_	_	_
+13	enige	_	_	_	_	_	_	_	_
+14	lid	_	_	_	_	_	_	_	_
+15	van	_	_	_	_	_	_	_	_
+16	die	_	_	_	_	_	_	_	_
+17	vereniging	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	of	_	_	_	_	_	_	_	_
+20	enige	_	_	_	_	_	_	_	_
+21	ander	_	_	_	_	_	_	_	_
+22	belanghebbende	_	_	_	_	_	_	_	_
+23	persoon	_	_	_	_	_	_	_	_
+24	aansoek	_	_	_	_	_	_	_	_
+25	doen	_	_	_	_	_	_	_	_
+26	dat	_	_	_	_	_	_	_	_
+27	'n	_	_	_	_	_	_	_	_
+28	vereniging	_	_	_	_	_	_	_	_
+29	of	_	_	_	_	_	_	_	_
+30	voorlopige	_	_	_	_	_	_	_	_
+31	vereniging	_	_	_	_	_	_	_	_
+32	deur	_	_	_	_	_	_	_	_
+33	die	_	_	_	_	_	_	_	_
+34	Direkteur-generaal	_	_	_	_	_	_	_	_
+35	onder	_	_	_	_	_	_	_	_
+36	administrasie	_	_	_	_	_	_	_	_
+37	geplaas	_	_	_	_	_	_	_	_
+38	of	_	_	_	_	_	_	_	_
+39	gelikwideer	_	_	_	_	_	_	_	_
+40	moet	_	_	_	_	_	_	_	_
+41	word	_	_	_	_	_	_	_	_
+42	,	_	_	_	_	_	_	_	_
+43	kan	_	_	_	_	_	_	_	_
+44	die	_	_	_	_	_	_	_	_
+45	Minister	_	_	_	_	_	_	_	_
+46	beslis	_	_	_	_	_	_	_	_
+47	ingevolge	_	_	_	_	_	_	_	_
+48	watter	_	_	_	_	_	_	_	_
+49	prosedure	_	_	_	_	_	_	_	_
+50	die	_	_	_	_	_	_	_	_
+51	Direkteur-generaal	_	_	_	_	_	_	_	_
+52	die	_	_	_	_	_	_	_	_
+53	vereniging	_	_	_	_	_	_	_	_
+54	of	_	_	_	_	_	_	_	_
+55	voorlopige	_	_	_	_	_	_	_	_
+56	vereniging	_	_	_	_	_	_	_	_
+57	onder	_	_	_	_	_	_	_	_
+58	administrasie	_	_	_	_	_	_	_	_
+59	moet	_	_	_	_	_	_	_	_
+60	plaas	_	_	_	_	_	_	_	_
+61	of	_	_	_	_	_	_	_	_
+62	likwideer	_	_	_	_	_	_	_	_
+63	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-s339
+# text = Ek noem nie hierdie kwessies omdat hulle omvattend is of omdat ons alle probleme in ons samelewing sal oplos as ons hulle identifiseer nie.
+# org_sent_id = 1467
+1	Ek	_	_	_	_	_	_	_	_
+2	noem	_	_	_	_	_	_	_	_
+3	nie	_	_	_	_	_	_	_	_
+4	hierdie	_	_	_	_	_	_	_	_
+5	kwessies	_	_	_	_	_	_	_	_
+6	omdat	_	_	_	_	_	_	_	_
+7	hulle	_	_	_	_	_	_	_	_
+8	omvattend	_	_	_	_	_	_	_	_
+9	is	_	_	_	_	_	_	_	_
+10	of	_	_	_	_	_	_	_	_
+11	omdat	_	_	_	_	_	_	_	_
+12	ons	_	_	_	_	_	_	_	_
+13	alle	_	_	_	_	_	_	_	_
+14	probleme	_	_	_	_	_	_	_	_
+15	in	_	_	_	_	_	_	_	_
+16	ons	_	_	_	_	_	_	_	_
+17	samelewing	_	_	_	_	_	_	_	_
+18	sal	_	_	_	_	_	_	_	_
+19	oplos	_	_	_	_	_	_	_	_
+20	as	_	_	_	_	_	_	_	_
+21	ons	_	_	_	_	_	_	_	_
+22	hulle	_	_	_	_	_	_	_	_
+23	identifiseer	_	_	_	_	_	_	_	_
+24	nie	_	_	_	_	_	_	_	_
+25	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s508
+# text = Indien leerders meer as een assesseringsaktiwiteit gedoen het, bestaan die versoeking om die punte op te tel en die gemiddeld uit te werk.
+# org_sent_id = 508
+1	Indien	_	_	_	_	_	_	_	_
+2	leerders	_	_	_	_	_	_	_	_
+3	meer	_	_	_	_	_	_	_	_
+4	as	_	_	_	_	_	_	_	_
+5	een	_	_	_	_	_	_	_	_
+6	assesseringsaktiwiteit	_	_	_	_	_	_	_	_
+7	gedoen	_	_	_	_	_	_	_	_
+8	het	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	bestaan	_	_	_	_	_	_	_	_
+11	die	_	_	_	_	_	_	_	_
+12	versoeking	_	_	_	_	_	_	_	_
+13	om	_	_	_	_	_	_	_	_
+14	die	_	_	_	_	_	_	_	_
+15	punte	_	_	_	_	_	_	_	_
+16	op	_	_	_	_	_	_	_	_
+17	te	_	_	_	_	_	_	_	_
+18	tel	_	_	_	_	_	_	_	_
+19	en	_	_	_	_	_	_	_	_
+20	die	_	_	_	_	_	_	_	_
+21	gemiddeld	_	_	_	_	_	_	_	_
+22	uit	_	_	_	_	_	_	_	_
+23	te	_	_	_	_	_	_	_	_
+24	werk	_	_	_	_	_	_	_	_
+25	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s820
+# text = Elke voorlopige belastingbetaler moet self bepaal wanneer 'n aanvullende derde betaling nodig is.
+# org_sent_id = 820
+1	Elke	_	_	_	_	_	_	_	_
+2	voorlopige	_	_	_	_	_	_	_	_
+3	belastingbetaler	_	_	_	_	_	_	_	_
+4	moet	_	_	_	_	_	_	_	_
+5	self	_	_	_	_	_	_	_	_
+6	bepaal	_	_	_	_	_	_	_	_
+7	wanneer	_	_	_	_	_	_	_	_
+8	'n	_	_	_	_	_	_	_	_
+9	aanvullende	_	_	_	_	_	_	_	_
+10	derde	_	_	_	_	_	_	_	_
+11	betaling	_	_	_	_	_	_	_	_
+12	nodig	_	_	_	_	_	_	_	_
+13	is	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s877
+# text = Vyftig jaar gelede, toe hulle besig was om voor te berei vir die sameroeping van die Volkskongres, wat die Vryheidsmanifes aanvaar het, het die patriotte van destyds gesê:" Laat ons saam praat, ons almal saam- Afrikaan en Europeaan, Indiër en Gekleurde... al die mense van Suid-Afrika...
+# org_sent_id = 877
+1	Vyftig	_	_	_	_	_	_	_	_
+2	jaar	_	_	_	_	_	_	_	_
+3	gelede	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	toe	_	_	_	_	_	_	_	_
+6	hulle	_	_	_	_	_	_	_	_
+7	besig	_	_	_	_	_	_	_	_
+8	was	_	_	_	_	_	_	_	_
+9	om	_	_	_	_	_	_	_	_
+10	voor	_	_	_	_	_	_	_	_
+11	te	_	_	_	_	_	_	_	_
+12	berei	_	_	_	_	_	_	_	_
+13	vir	_	_	_	_	_	_	_	_
+14	die	_	_	_	_	_	_	_	_
+15	sameroeping	_	_	_	_	_	_	_	_
+16	van	_	_	_	_	_	_	_	_
+17	die	_	_	_	_	_	_	_	_
+18	Volkskongres	_	_	_	_	_	_	_	_
+19	,	_	_	_	_	_	_	_	_
+20	wat	_	_	_	_	_	_	_	_
+21	die	_	_	_	_	_	_	_	_
+22	Vryheidsmanifes	_	_	_	_	_	_	_	_
+23	aanvaar	_	_	_	_	_	_	_	_
+24	het	_	_	_	_	_	_	_	_
+25	,	_	_	_	_	_	_	_	_
+26	het	_	_	_	_	_	_	_	_
+27	die	_	_	_	_	_	_	_	_
+28	patriotte	_	_	_	_	_	_	_	_
+29	van	_	_	_	_	_	_	_	_
+30	destyds	_	_	_	_	_	_	_	_
+31	gesê	_	_	_	_	_	_	_	_
+32	:	_	_	_	_	_	_	_	_
+33	"	_	_	_	_	_	_	_	_
+34	Laat	_	_	_	_	_	_	_	_
+35	ons	_	_	_	_	_	_	_	_
+36	saam	_	_	_	_	_	_	_	_
+37	praat	_	_	_	_	_	_	_	_
+38	,	_	_	_	_	_	_	_	_
+39	ons	_	_	_	_	_	_	_	_
+40	almal	_	_	_	_	_	_	_	_
+41	saam	_	_	_	_	_	_	_	_
+42	-	_	_	_	_	_	_	_	_
+43	Afrikaan	_	_	_	_	_	_	_	_
+44	en	_	_	_	_	_	_	_	_
+45	Europeaan	_	_	_	_	_	_	_	_
+46	,	_	_	_	_	_	_	_	_
+47	Indiër	_	_	_	_	_	_	_	_
+48	en	_	_	_	_	_	_	_	_
+49	Gekleurde	_	_	_	_	_	_	_	_
+50	.	_	_	_	_	_	_	_	_
+51	.	_	_	_	_	_	_	_	_
+52	.	_	_	_	_	_	_	_	_
+53	al	_	_	_	_	_	_	_	_
+54	die	_	_	_	_	_	_	_	_
+55	mense	_	_	_	_	_	_	_	_
+56	van	_	_	_	_	_	_	_	_
+57	Suid-Afrika	_	_	_	_	_	_	_	_
+58	.	_	_	_	_	_	_	_	_
+59	.	_	_	_	_	_	_	_	_
+60	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s259
+# text = Die Wet op Erkenning van Gebruiklike Huwelike, 1998 het op 15 November 2000 in werking getree.
+# org_sent_id = 259
+1	Die	_	_	_	_	_	_	_	_
+2	Wet	_	_	_	_	_	_	_	_
+3	op	_	_	_	_	_	_	_	_
+4	Erkenning	_	_	_	_	_	_	_	_
+5	van	_	_	_	_	_	_	_	_
+6	Gebruiklike	_	_	_	_	_	_	_	_
+7	Huwelike	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	1998	_	_	_	_	_	_	_	_
+10	het	_	_	_	_	_	_	_	_
+11	op	_	_	_	_	_	_	_	_
+12	15	_	_	_	_	_	_	_	_
+13	November	_	_	_	_	_	_	_	_
+14	2000	_	_	_	_	_	_	_	_
+15	in	_	_	_	_	_	_	_	_
+16	werking	_	_	_	_	_	_	_	_
+17	getree	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s772
+# text = As jy dit doen, sal jy jou aansoek eers moet wysig om slegs die produkte of dienste in te sluit wat in daardie klas val.
+# org_sent_id = 772
+1	As	_	_	_	_	_	_	_	_
+2	jy	_	_	_	_	_	_	_	_
+3	dit	_	_	_	_	_	_	_	_
+4	doen	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	sal	_	_	_	_	_	_	_	_
+7	jy	_	_	_	_	_	_	_	_
+8	jou	_	_	_	_	_	_	_	_
+9	aansoek	_	_	_	_	_	_	_	_
+10	eers	_	_	_	_	_	_	_	_
+11	moet	_	_	_	_	_	_	_	_
+12	wysig	_	_	_	_	_	_	_	_
+13	om	_	_	_	_	_	_	_	_
+14	slegs	_	_	_	_	_	_	_	_
+15	die	_	_	_	_	_	_	_	_
+16	produkte	_	_	_	_	_	_	_	_
+17	of	_	_	_	_	_	_	_	_
+18	dienste	_	_	_	_	_	_	_	_
+19	in	_	_	_	_	_	_	_	_
+20	te	_	_	_	_	_	_	_	_
+21	sluit	_	_	_	_	_	_	_	_
+22	wat	_	_	_	_	_	_	_	_
+23	in	_	_	_	_	_	_	_	_
+24	daardie	_	_	_	_	_	_	_	_
+25	klas	_	_	_	_	_	_	_	_
+26	val	_	_	_	_	_	_	_	_
+27	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s219
+# text = 'n Aansoek om 'n invoerpermit vir lewende varswatervis of tropiese vis moet by die Departement van Landbou ingedien word.
+# org_sent_id = 219
+1	'n	_	_	_	_	_	_	_	_
+2	Aansoek	_	_	_	_	_	_	_	_
+3	om	_	_	_	_	_	_	_	_
+4	'n	_	_	_	_	_	_	_	_
+5	invoerpermit	_	_	_	_	_	_	_	_
+6	vir	_	_	_	_	_	_	_	_
+7	lewende	_	_	_	_	_	_	_	_
+8	varswatervis	_	_	_	_	_	_	_	_
+9	of	_	_	_	_	_	_	_	_
+10	tropiese	_	_	_	_	_	_	_	_
+11	vis	_	_	_	_	_	_	_	_
+12	moet	_	_	_	_	_	_	_	_
+13	by	_	_	_	_	_	_	_	_
+14	die	_	_	_	_	_	_	_	_
+15	Departement	_	_	_	_	_	_	_	_
+16	van	_	_	_	_	_	_	_	_
+17	Landbou	_	_	_	_	_	_	_	_
+18	ingedien	_	_	_	_	_	_	_	_
+19	word	_	_	_	_	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-s123
+# text = In hierdie verband het ons in Augustus verlede jaar die eerste loodsterrein van die Omvattende Landelike-ontwikkelingsprogram in Giyani, Limpopo, geloods.
+# org_sent_id = 1863
+1	In	_	_	_	_	_	_	_	_
+2	hierdie	_	_	_	_	_	_	_	_
+3	verband	_	_	_	_	_	_	_	_
+4	het	_	_	_	_	_	_	_	_
+5	ons	_	_	_	_	_	_	_	_
+6	in	_	_	_	_	_	_	_	_
+7	Augustus	_	_	_	_	_	_	_	_
+8	verlede	_	_	_	_	_	_	_	_
+9	jaar	_	_	_	_	_	_	_	_
+10	die	_	_	_	_	_	_	_	_
+11	eerste	_	_	_	_	_	_	_	_
+12	loodsterrein	_	_	_	_	_	_	_	_
+13	van	_	_	_	_	_	_	_	_
+14	die	_	_	_	_	_	_	_	_
+15	Omvattende	_	_	_	_	_	_	_	_
+16	Landelike-ontwikkelingsprogram	_	_	_	_	_	_	_	_
+17	in	_	_	_	_	_	_	_	_
+18	Giyani	_	_	_	_	_	_	_	_
+19	,	_	_	_	_	_	_	_	_
+20	Limpopo	_	_	_	_	_	_	_	_
+21	,	_	_	_	_	_	_	_	_
+22	geloods	_	_	_	_	_	_	_	_
+23	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-s265
+# text = Die feit dat die privaatsektor nie genoeg doen om die demografie van bestuurs- en vaardigheidsberoepe in ondernemingsontwikkeling en so meer te verander nie, maak van ons land deels 'n agtergeblewene in hoÃ«groei-aandele.
+# org_sent_id = 1393
+1	Die	_	_	_	_	_	_	_	_
+2	feit	_	_	_	_	_	_	_	_
+3	dat	_	_	_	_	_	_	_	_
+4	die	_	_	_	_	_	_	_	_
+5	privaatsektor	_	_	_	_	_	_	_	_
+6	nie	_	_	_	_	_	_	_	_
+7	genoeg	_	_	_	_	_	_	_	_
+8	doen	_	_	_	_	_	_	_	_
+9	om	_	_	_	_	_	_	_	_
+10	die	_	_	_	_	_	_	_	_
+11	demografie	_	_	_	_	_	_	_	_
+12	van	_	_	_	_	_	_	_	_
+13	bestuurs-	_	_	_	_	_	_	_	_
+14	en	_	_	_	_	_	_	_	_
+15	vaardigheidsberoepe	_	_	_	_	_	_	_	_
+16	in	_	_	_	_	_	_	_	_
+17	ondernemingsontwikkeling	_	_	_	_	_	_	_	_
+18	en	_	_	_	_	_	_	_	_
+19	so	_	_	_	_	_	_	_	_
+20	meer	_	_	_	_	_	_	_	_
+21	te	_	_	_	_	_	_	_	_
+22	verander	_	_	_	_	_	_	_	_
+23	nie	_	_	_	_	_	_	_	_
+24	,	_	_	_	_	_	_	_	_
+25	maak	_	_	_	_	_	_	_	_
+26	van	_	_	_	_	_	_	_	_
+27	ons	_	_	_	_	_	_	_	_
+28	land	_	_	_	_	_	_	_	_
+29	deels	_	_	_	_	_	_	_	_
+30	'n	_	_	_	_	_	_	_	_
+31	agtergeblewene	_	_	_	_	_	_	_	_
+32	in	_	_	_	_	_	_	_	_
+33	hoÃ«groei-aandele	_	_	_	_	_	_	_	_
+34	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s637
+# text = Die dokument is hoogstens een jaar oud.
+# org_sent_id = 637
+1	Die	_	_	_	_	_	_	_	_
+2	dokument	_	_	_	_	_	_	_	_
+3	is	_	_	_	_	_	_	_	_
+4	hoogstens	_	_	_	_	_	_	_	_
+5	een	_	_	_	_	_	_	_	_
+6	jaar	_	_	_	_	_	_	_	_
+7	oud	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s1220
+# text = Dit sal insluit 'n verhoogde inname van jongmense in die program om openbare infrastruktuur in stand te hou, die verdubbeling in die aantal kinders wat ingeskryf is vir programme vir vroeë ontwikkeling van kinders na 600 000 deur die totstandkoming van 1 000 nuwe persele met meer as 3 500 praktisyns wat opgelei en in diens geneem is, en deur die aantal versorgers te verhoog.
+# org_sent_id = 1220
+1	Dit	_	_	_	_	_	_	_	_
+2	sal	_	_	_	_	_	_	_	_
+3	insluit	_	_	_	_	_	_	_	_
+4	'n	_	_	_	_	_	_	_	_
+5	verhoogde	_	_	_	_	_	_	_	_
+6	inname	_	_	_	_	_	_	_	_
+7	van	_	_	_	_	_	_	_	_
+8	jongmense	_	_	_	_	_	_	_	_
+9	in	_	_	_	_	_	_	_	_
+10	die	_	_	_	_	_	_	_	_
+11	program	_	_	_	_	_	_	_	_
+12	om	_	_	_	_	_	_	_	_
+13	openbare	_	_	_	_	_	_	_	_
+14	infrastruktuur	_	_	_	_	_	_	_	_
+15	in	_	_	_	_	_	_	_	_
+16	stand	_	_	_	_	_	_	_	_
+17	te	_	_	_	_	_	_	_	_
+18	hou	_	_	_	_	_	_	_	_
+19	,	_	_	_	_	_	_	_	_
+20	die	_	_	_	_	_	_	_	_
+21	verdubbeling	_	_	_	_	_	_	_	_
+22	in	_	_	_	_	_	_	_	_
+23	die	_	_	_	_	_	_	_	_
+24	aantal	_	_	_	_	_	_	_	_
+25	kinders	_	_	_	_	_	_	_	_
+26	wat	_	_	_	_	_	_	_	_
+27	ingeskryf	_	_	_	_	_	_	_	_
+28	is	_	_	_	_	_	_	_	_
+29	vir	_	_	_	_	_	_	_	_
+30	programme	_	_	_	_	_	_	_	_
+31	vir	_	_	_	_	_	_	_	_
+32	vroeë	_	_	_	_	_	_	_	_
+33	ontwikkeling	_	_	_	_	_	_	_	_
+34	van	_	_	_	_	_	_	_	_
+35	kinders	_	_	_	_	_	_	_	_
+36	na	_	_	_	_	_	_	_	_
+37	600	_	_	_	_	_	_	_	_
+38	000	_	_	_	_	_	_	_	_
+39	deur	_	_	_	_	_	_	_	_
+40	die	_	_	_	_	_	_	_	_
+41	totstandkoming	_	_	_	_	_	_	_	_
+42	van	_	_	_	_	_	_	_	_
+43	1	_	_	_	_	_	_	_	_
+44	000	_	_	_	_	_	_	_	_
+45	nuwe	_	_	_	_	_	_	_	_
+46	persele	_	_	_	_	_	_	_	_
+47	met	_	_	_	_	_	_	_	_
+48	meer	_	_	_	_	_	_	_	_
+49	as	_	_	_	_	_	_	_	_
+50	3	_	_	_	_	_	_	_	_
+51	500	_	_	_	_	_	_	_	_
+52	praktisyns	_	_	_	_	_	_	_	_
+53	wat	_	_	_	_	_	_	_	_
+54	opgelei	_	_	_	_	_	_	_	_
+55	en	_	_	_	_	_	_	_	_
+56	in	_	_	_	_	_	_	_	_
+57	diens	_	_	_	_	_	_	_	_
+58	geneem	_	_	_	_	_	_	_	_
+59	is	_	_	_	_	_	_	_	_
+60	,	_	_	_	_	_	_	_	_
+61	en	_	_	_	_	_	_	_	_
+62	deur	_	_	_	_	_	_	_	_
+63	die	_	_	_	_	_	_	_	_
+64	aantal	_	_	_	_	_	_	_	_
+65	versorgers	_	_	_	_	_	_	_	_
+66	te	_	_	_	_	_	_	_	_
+67	verhoog	_	_	_	_	_	_	_	_
+68	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-s140
+# text = Saam met Brasilië, Indië en China, en in samewerking met die Verenigde State, wat die ontwikkelde wêreld verteenwoordig, het ons 'n wesenlike bydrae gelewer tot die ooreenkoms wat in Desember verlede jaar by die Klimaatberaad in Kopenhagen aanvaar is.
+# org_sent_id = 1880
+1	Saam	_	_	_	_	_	_	_	_
+2	met	_	_	_	_	_	_	_	_
+3	Brasilië	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	Indië	_	_	_	_	_	_	_	_
+6	en	_	_	_	_	_	_	_	_
+7	China	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	en	_	_	_	_	_	_	_	_
+10	in	_	_	_	_	_	_	_	_
+11	samewerking	_	_	_	_	_	_	_	_
+12	met	_	_	_	_	_	_	_	_
+13	die	_	_	_	_	_	_	_	_
+14	Verenigde	_	_	_	_	_	_	_	_
+15	State	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	wat	_	_	_	_	_	_	_	_
+18	die	_	_	_	_	_	_	_	_
+19	ontwikkelde	_	_	_	_	_	_	_	_
+20	wêreld	_	_	_	_	_	_	_	_
+21	verteenwoordig	_	_	_	_	_	_	_	_
+22	,	_	_	_	_	_	_	_	_
+23	het	_	_	_	_	_	_	_	_
+24	ons	_	_	_	_	_	_	_	_
+25	'n	_	_	_	_	_	_	_	_
+26	wesenlike	_	_	_	_	_	_	_	_
+27	bydrae	_	_	_	_	_	_	_	_
+28	gelewer	_	_	_	_	_	_	_	_
+29	tot	_	_	_	_	_	_	_	_
+30	die	_	_	_	_	_	_	_	_
+31	ooreenkoms	_	_	_	_	_	_	_	_
+32	wat	_	_	_	_	_	_	_	_
+33	in	_	_	_	_	_	_	_	_
+34	Desember	_	_	_	_	_	_	_	_
+35	verlede	_	_	_	_	_	_	_	_
+36	jaar	_	_	_	_	_	_	_	_
+37	by	_	_	_	_	_	_	_	_
+38	die	_	_	_	_	_	_	_	_
+39	Klimaatberaad	_	_	_	_	_	_	_	_
+40	in	_	_	_	_	_	_	_	_
+41	Kopenhagen	_	_	_	_	_	_	_	_
+42	aanvaar	_	_	_	_	_	_	_	_
+43	is	_	_	_	_	_	_	_	_
+44	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s76
+# text = Die onderhoudsplig ontstaan deur middel van bloedverwantskap, aanneming, of huweliksluiting van die partye met mekaar.
+# org_sent_id = 76
+1	Die	_	_	_	_	_	_	_	_
+2	onderhoudsplig	_	_	_	_	_	_	_	_
+3	ontstaan	_	_	_	_	_	_	_	_
+4	deur	_	_	_	_	_	_	_	_
+5	middel	_	_	_	_	_	_	_	_
+6	van	_	_	_	_	_	_	_	_
+7	bloedverwantskap	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	aanneming	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	of	_	_	_	_	_	_	_	_
+12	huweliksluiting	_	_	_	_	_	_	_	_
+13	van	_	_	_	_	_	_	_	_
+14	die	_	_	_	_	_	_	_	_
+15	partye	_	_	_	_	_	_	_	_
+16	met	_	_	_	_	_	_	_	_
+17	mekaar	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s1275
+# text = Ons sluit dus aan by die SADC se staats- en regeringshoofde wanneer ons diegene gelukwens wat betrokke was by die Zimbabwe-samesprekings met hul prysenswaardige prestasies, en ons moedig hulle aan om saam te werk om die oorblywende prosessuele aangeleentheid op te los.
+# org_sent_id = 1275
+1	Ons	_	_	_	_	_	_	_	_
+2	sluit	_	_	_	_	_	_	_	_
+3	dus	_	_	_	_	_	_	_	_
+4	aan	_	_	_	_	_	_	_	_
+5	by	_	_	_	_	_	_	_	_
+6	die	_	_	_	_	_	_	_	_
+7	SADC	_	_	_	_	_	_	_	_
+8	se	_	_	_	_	_	_	_	_
+9	staats-	_	_	_	_	_	_	_	_
+10	en	_	_	_	_	_	_	_	_
+11	regeringshoofde	_	_	_	_	_	_	_	_
+12	wanneer	_	_	_	_	_	_	_	_
+13	ons	_	_	_	_	_	_	_	_
+14	diegene	_	_	_	_	_	_	_	_
+15	gelukwens	_	_	_	_	_	_	_	_
+16	wat	_	_	_	_	_	_	_	_
+17	betrokke	_	_	_	_	_	_	_	_
+18	was	_	_	_	_	_	_	_	_
+19	by	_	_	_	_	_	_	_	_
+20	die	_	_	_	_	_	_	_	_
+21	Zimbabwe-samesprekings	_	_	_	_	_	_	_	_
+22	met	_	_	_	_	_	_	_	_
+23	hul	_	_	_	_	_	_	_	_
+24	prysenswaardige	_	_	_	_	_	_	_	_
+25	prestasies	_	_	_	_	_	_	_	_
+26	,	_	_	_	_	_	_	_	_
+27	en	_	_	_	_	_	_	_	_
+28	ons	_	_	_	_	_	_	_	_
+29	moedig	_	_	_	_	_	_	_	_
+30	hulle	_	_	_	_	_	_	_	_
+31	aan	_	_	_	_	_	_	_	_
+32	om	_	_	_	_	_	_	_	_
+33	saam	_	_	_	_	_	_	_	_
+34	te	_	_	_	_	_	_	_	_
+35	werk	_	_	_	_	_	_	_	_
+36	om	_	_	_	_	_	_	_	_
+37	die	_	_	_	_	_	_	_	_
+38	oorblywende	_	_	_	_	_	_	_	_
+39	prosessuele	_	_	_	_	_	_	_	_
+40	aangeleentheid	_	_	_	_	_	_	_	_
+41	op	_	_	_	_	_	_	_	_
+42	te	_	_	_	_	_	_	_	_
+43	los	_	_	_	_	_	_	_	_
+44	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-s47
+# text = Ons het gesê dat dit 'n staat sou wees wat op die mense se behoeftes en aspirasies reageer, en wat beter en vinniger presteer.
+# org_sent_id = 1787
+1	Ons	_	_	_	_	_	_	_	_
+2	het	_	_	_	_	_	_	_	_
+3	gesê	_	_	_	_	_	_	_	_
+4	dat	_	_	_	_	_	_	_	_
+5	dit	_	_	_	_	_	_	_	_
+6	'n	_	_	_	_	_	_	_	_
+7	staat	_	_	_	_	_	_	_	_
+8	sou	_	_	_	_	_	_	_	_
+9	wees	_	_	_	_	_	_	_	_
+10	wat	_	_	_	_	_	_	_	_
+11	op	_	_	_	_	_	_	_	_
+12	die	_	_	_	_	_	_	_	_
+13	mense	_	_	_	_	_	_	_	_
+14	se	_	_	_	_	_	_	_	_
+15	behoeftes	_	_	_	_	_	_	_	_
+16	en	_	_	_	_	_	_	_	_
+17	aspirasies	_	_	_	_	_	_	_	_
+18	reageer	_	_	_	_	_	_	_	_
+19	,	_	_	_	_	_	_	_	_
+20	en	_	_	_	_	_	_	_	_
+21	wat	_	_	_	_	_	_	_	_
+22	beter	_	_	_	_	_	_	_	_
+23	en	_	_	_	_	_	_	_	_
+24	vinniger	_	_	_	_	_	_	_	_
+25	presteer	_	_	_	_	_	_	_	_
+26	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-s38
+# text = Ten einde 'n inklusiewe ekonomie te verseker wat groei en ontwikkeling bevorder, het ons die Adviesraad oor Breë Swart Ekonomiese Bemagtiging in die lewe geroep, onder voorsitterskap van die President.
+# org_sent_id = 1778
+1	Ten	_	_	_	_	_	_	_	_
+2	einde	_	_	_	_	_	_	_	_
+3	'n	_	_	_	_	_	_	_	_
+4	inklusiewe	_	_	_	_	_	_	_	_
+5	ekonomie	_	_	_	_	_	_	_	_
+6	te	_	_	_	_	_	_	_	_
+7	verseker	_	_	_	_	_	_	_	_
+8	wat	_	_	_	_	_	_	_	_
+9	groei	_	_	_	_	_	_	_	_
+10	en	_	_	_	_	_	_	_	_
+11	ontwikkeling	_	_	_	_	_	_	_	_
+12	bevorder	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	het	_	_	_	_	_	_	_	_
+15	ons	_	_	_	_	_	_	_	_
+16	die	_	_	_	_	_	_	_	_
+17	Adviesraad	_	_	_	_	_	_	_	_
+18	oor	_	_	_	_	_	_	_	_
+19	Breë	_	_	_	_	_	_	_	_
+20	Swart	_	_	_	_	_	_	_	_
+21	Ekonomiese	_	_	_	_	_	_	_	_
+22	Bemagtiging	_	_	_	_	_	_	_	_
+23	in	_	_	_	_	_	_	_	_
+24	die	_	_	_	_	_	_	_	_
+25	lewe	_	_	_	_	_	_	_	_
+26	geroep	_	_	_	_	_	_	_	_
+27	,	_	_	_	_	_	_	_	_
+28	onder	_	_	_	_	_	_	_	_
+29	voorsitterskap	_	_	_	_	_	_	_	_
+30	van	_	_	_	_	_	_	_	_
+31	die	_	_	_	_	_	_	_	_
+32	President	_	_	_	_	_	_	_	_
+33	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-s267
+# text = Agbare lede sal bekend wees met meeste van die data oor kwessies rakende maatskaplike dienste.
+# org_sent_id = 1395
+1	Agbare	_	_	_	_	_	_	_	_
+2	lede	_	_	_	_	_	_	_	_
+3	sal	_	_	_	_	_	_	_	_
+4	bekend	_	_	_	_	_	_	_	_
+5	wees	_	_	_	_	_	_	_	_
+6	met	_	_	_	_	_	_	_	_
+7	meeste	_	_	_	_	_	_	_	_
+8	van	_	_	_	_	_	_	_	_
+9	die	_	_	_	_	_	_	_	_
+10	data	_	_	_	_	_	_	_	_
+11	oor	_	_	_	_	_	_	_	_
+12	kwessies	_	_	_	_	_	_	_	_
+13	rakende	_	_	_	_	_	_	_	_
+14	maatskaplike	_	_	_	_	_	_	_	_
+15	dienste	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s355
+# text = In die Senior Fase is daar agt leerprogramme gebaseer op die leerareaverklarings.
+# org_sent_id = 355
+1	In	_	_	_	_	_	_	_	_
+2	die	_	_	_	_	_	_	_	_
+3	Senior	_	_	_	_	_	_	_	_
+4	Fase	_	_	_	_	_	_	_	_
+5	is	_	_	_	_	_	_	_	_
+6	daar	_	_	_	_	_	_	_	_
+7	agt	_	_	_	_	_	_	_	_
+8	leerprogramme	_	_	_	_	_	_	_	_
+9	gebaseer	_	_	_	_	_	_	_	_
+10	op	_	_	_	_	_	_	_	_
+11	die	_	_	_	_	_	_	_	_
+12	leerareaverklarings	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s100
+# text = Indien die persoon wat na bewering aanspreeklik is vir die betaling van onderhoud nie toestem tot die verlening van 'n onderhoudsbevel nie, moet hy of sy in die hof verskyn, waar getuienis van albei die partye én hulle onderskeie getuies aangehoor sal word.
+# org_sent_id = 100
+1	Indien	_	_	_	_	_	_	_	_
+2	die	_	_	_	_	_	_	_	_
+3	persoon	_	_	_	_	_	_	_	_
+4	wat	_	_	_	_	_	_	_	_
+5	na	_	_	_	_	_	_	_	_
+6	bewering	_	_	_	_	_	_	_	_
+7	aanspreeklik	_	_	_	_	_	_	_	_
+8	is	_	_	_	_	_	_	_	_
+9	vir	_	_	_	_	_	_	_	_
+10	die	_	_	_	_	_	_	_	_
+11	betaling	_	_	_	_	_	_	_	_
+12	van	_	_	_	_	_	_	_	_
+13	onderhoud	_	_	_	_	_	_	_	_
+14	nie	_	_	_	_	_	_	_	_
+15	toestem	_	_	_	_	_	_	_	_
+16	tot	_	_	_	_	_	_	_	_
+17	die	_	_	_	_	_	_	_	_
+18	verlening	_	_	_	_	_	_	_	_
+19	van	_	_	_	_	_	_	_	_
+20	'n	_	_	_	_	_	_	_	_
+21	onderhoudsbevel	_	_	_	_	_	_	_	_
+22	nie	_	_	_	_	_	_	_	_
+23	,	_	_	_	_	_	_	_	_
+24	moet	_	_	_	_	_	_	_	_
+25	hy	_	_	_	_	_	_	_	_
+26	of	_	_	_	_	_	_	_	_
+27	sy	_	_	_	_	_	_	_	_
+28	in	_	_	_	_	_	_	_	_
+29	die	_	_	_	_	_	_	_	_
+30	hof	_	_	_	_	_	_	_	_
+31	verskyn	_	_	_	_	_	_	_	_
+32	,	_	_	_	_	_	_	_	_
+33	waar	_	_	_	_	_	_	_	_
+34	getuienis	_	_	_	_	_	_	_	_
+35	van	_	_	_	_	_	_	_	_
+36	albei	_	_	_	_	_	_	_	_
+37	die	_	_	_	_	_	_	_	_
+38	partye	_	_	_	_	_	_	_	_
+39	én	_	_	_	_	_	_	_	_
+40	hulle	_	_	_	_	_	_	_	_
+41	onderskeie	_	_	_	_	_	_	_	_
+42	getuies	_	_	_	_	_	_	_	_
+43	aangehoor	_	_	_	_	_	_	_	_
+44	sal	_	_	_	_	_	_	_	_
+45	word	_	_	_	_	_	_	_	_
+46	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s418
+# text = Leeruitkoms 6 hou verband met die kern van taal- klanke, woorde en grammatika- in tekste.
+# org_sent_id = 418
+1	Leeruitkoms	_	_	_	_	_	_	_	_
+2	6	_	_	_	_	_	_	_	_
+3	hou	_	_	_	_	_	_	_	_
+4	verband	_	_	_	_	_	_	_	_
+5	met	_	_	_	_	_	_	_	_
+6	die	_	_	_	_	_	_	_	_
+7	kern	_	_	_	_	_	_	_	_
+8	van	_	_	_	_	_	_	_	_
+9	taal	_	_	_	_	_	_	_	_
+10	-	_	_	_	_	_	_	_	_
+11	klanke	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	woorde	_	_	_	_	_	_	_	_
+14	en	_	_	_	_	_	_	_	_
+15	grammatika	_	_	_	_	_	_	_	_
+16	-	_	_	_	_	_	_	_	_
+17	in	_	_	_	_	_	_	_	_
+18	tekste	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s1262
+# text = Daarom, as deel van ons top-prioriteite, sal ons in die komende tydperk die prosesse afhandel wat ons in staat sal stel om die Regering se kapasiteit te verbeter om realistiese en geïntegreerde planne in werking te stel wat alle sfere van die Regering sal dek.
+# org_sent_id = 1262
+1	Daarom	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	as	_	_	_	_	_	_	_	_
+4	deel	_	_	_	_	_	_	_	_
+5	van	_	_	_	_	_	_	_	_
+6	ons	_	_	_	_	_	_	_	_
+7	top-prioriteite	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	sal	_	_	_	_	_	_	_	_
+10	ons	_	_	_	_	_	_	_	_
+11	in	_	_	_	_	_	_	_	_
+12	die	_	_	_	_	_	_	_	_
+13	komende	_	_	_	_	_	_	_	_
+14	tydperk	_	_	_	_	_	_	_	_
+15	die	_	_	_	_	_	_	_	_
+16	prosesse	_	_	_	_	_	_	_	_
+17	afhandel	_	_	_	_	_	_	_	_
+18	wat	_	_	_	_	_	_	_	_
+19	ons	_	_	_	_	_	_	_	_
+20	in	_	_	_	_	_	_	_	_
+21	staat	_	_	_	_	_	_	_	_
+22	sal	_	_	_	_	_	_	_	_
+23	stel	_	_	_	_	_	_	_	_
+24	om	_	_	_	_	_	_	_	_
+25	die	_	_	_	_	_	_	_	_
+26	Regering	_	_	_	_	_	_	_	_
+27	se	_	_	_	_	_	_	_	_
+28	kapasiteit	_	_	_	_	_	_	_	_
+29	te	_	_	_	_	_	_	_	_
+30	verbeter	_	_	_	_	_	_	_	_
+31	om	_	_	_	_	_	_	_	_
+32	realistiese	_	_	_	_	_	_	_	_
+33	en	_	_	_	_	_	_	_	_
+34	geïntegreerde	_	_	_	_	_	_	_	_
+35	planne	_	_	_	_	_	_	_	_
+36	in	_	_	_	_	_	_	_	_
+37	werking	_	_	_	_	_	_	_	_
+38	te	_	_	_	_	_	_	_	_
+39	stel	_	_	_	_	_	_	_	_
+40	wat	_	_	_	_	_	_	_	_
+41	alle	_	_	_	_	_	_	_	_
+42	sfere	_	_	_	_	_	_	_	_
+43	van	_	_	_	_	_	_	_	_
+44	die	_	_	_	_	_	_	_	_
+45	Regering	_	_	_	_	_	_	_	_
+46	sal	_	_	_	_	_	_	_	_
+47	dek	_	_	_	_	_	_	_	_
+48	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s64
+# text = 'n Trust met 'n stigtingsdokument en 'n trustakte.
+# org_sent_id = 64
+1	'n	_	_	_	_	_	_	_	_
+2	Trust	_	_	_	_	_	_	_	_
+3	met	_	_	_	_	_	_	_	_
+4	'n	_	_	_	_	_	_	_	_
+5	stigtingsdokument	_	_	_	_	_	_	_	_
+6	en	_	_	_	_	_	_	_	_
+7	'n	_	_	_	_	_	_	_	_
+8	trustakte	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-s153
+# text = Ons is tevrede met die vordering van die regering op sommige terreine.
+# org_sent_id = 1893
+1	Ons	_	_	_	_	_	_	_	_
+2	is	_	_	_	_	_	_	_	_
+3	tevrede	_	_	_	_	_	_	_	_
+4	met	_	_	_	_	_	_	_	_
+5	die	_	_	_	_	_	_	_	_
+6	vordering	_	_	_	_	_	_	_	_
+7	van	_	_	_	_	_	_	_	_
+8	die	_	_	_	_	_	_	_	_
+9	regering	_	_	_	_	_	_	_	_
+10	op	_	_	_	_	_	_	_	_
+11	sommige	_	_	_	_	_	_	_	_
+12	terreine	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-s146
+# text = Indien jy vir 'n beloning in aanmerking kom (en jy wel daarvoor aansoek gedoen het), sal die ondersoekbeampte die bedrag van die beloning vasstel en die eis ooreenkomstig National Information 2 / 2001 (Nasionale Inligting 2 / 2001) verwerk.
+# org_sent_id = 1692
+1	Indien	_	_	_	_	_	_	_	_
+2	jy	_	_	_	_	_	_	_	_
+3	vir	_	_	_	_	_	_	_	_
+4	'n	_	_	_	_	_	_	_	_
+5	beloning	_	_	_	_	_	_	_	_
+6	in	_	_	_	_	_	_	_	_
+7	aanmerking	_	_	_	_	_	_	_	_
+8	kom	_	_	_	_	_	_	_	_
+9	(	_	_	_	_	_	_	_	_
+10	en	_	_	_	_	_	_	_	_
+11	jy	_	_	_	_	_	_	_	_
+12	wel	_	_	_	_	_	_	_	_
+13	daarvoor	_	_	_	_	_	_	_	_
+14	aansoek	_	_	_	_	_	_	_	_
+15	gedoen	_	_	_	_	_	_	_	_
+16	het	_	_	_	_	_	_	_	_
+17	)	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	sal	_	_	_	_	_	_	_	_
+20	die	_	_	_	_	_	_	_	_
+21	ondersoekbeampte	_	_	_	_	_	_	_	_
+22	die	_	_	_	_	_	_	_	_
+23	bedrag	_	_	_	_	_	_	_	_
+24	van	_	_	_	_	_	_	_	_
+25	die	_	_	_	_	_	_	_	_
+26	beloning	_	_	_	_	_	_	_	_
+27	vasstel	_	_	_	_	_	_	_	_
+28	en	_	_	_	_	_	_	_	_
+29	die	_	_	_	_	_	_	_	_
+30	eis	_	_	_	_	_	_	_	_
+31	ooreenkomstig	_	_	_	_	_	_	_	_
+32	National	_	_	_	_	_	_	_	_
+33	Information	_	_	_	_	_	_	_	_
+34	2	_	_	_	_	_	_	_	_
+35	/	_	_	_	_	_	_	_	_
+36	2001	_	_	_	_	_	_	_	_
+37	(	_	_	_	_	_	_	_	_
+38	Nasionale	_	_	_	_	_	_	_	_
+39	Inligting	_	_	_	_	_	_	_	_
+40	2	_	_	_	_	_	_	_	_
+41	/	_	_	_	_	_	_	_	_
+42	2001	_	_	_	_	_	_	_	_
+43	)	_	_	_	_	_	_	_	_
+44	verwerk	_	_	_	_	_	_	_	_
+45	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-s132
+# text = Jy kan kriminele bedrywighede ook elektronies op die Suid-Afrikaanse Polisiediens (SAPD) se webwerf aanmeld.
+# org_sent_id = 1678
+1	Jy	_	_	_	_	_	_	_	_
+2	kan	_	_	_	_	_	_	_	_
+3	kriminele	_	_	_	_	_	_	_	_
+4	bedrywighede	_	_	_	_	_	_	_	_
+5	ook	_	_	_	_	_	_	_	_
+6	elektronies	_	_	_	_	_	_	_	_
+7	op	_	_	_	_	_	_	_	_
+8	die	_	_	_	_	_	_	_	_
+9	Suid-Afrikaanse	_	_	_	_	_	_	_	_
+10	Polisiediens	_	_	_	_	_	_	_	_
+11	(	_	_	_	_	_	_	_	_
+12	SAPD	_	_	_	_	_	_	_	_
+13	)	_	_	_	_	_	_	_	_
+14	se	_	_	_	_	_	_	_	_
+15	webwerf	_	_	_	_	_	_	_	_
+16	aanmeld	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-s92
+# text = Ons sal al die ondernemings wat op Wêreldvigsdag met betrekking tot die voorkoming van nuwe MIV-infeksies en die behandeling daarvan gemaak is, implementeer.
+# org_sent_id = 1832
+1	Ons	_	_	_	_	_	_	_	_
+2	sal	_	_	_	_	_	_	_	_
+3	al	_	_	_	_	_	_	_	_
+4	die	_	_	_	_	_	_	_	_
+5	ondernemings	_	_	_	_	_	_	_	_
+6	wat	_	_	_	_	_	_	_	_
+7	op	_	_	_	_	_	_	_	_
+8	Wêreldvigsdag	_	_	_	_	_	_	_	_
+9	met	_	_	_	_	_	_	_	_
+10	betrekking	_	_	_	_	_	_	_	_
+11	tot	_	_	_	_	_	_	_	_
+12	die	_	_	_	_	_	_	_	_
+13	voorkoming	_	_	_	_	_	_	_	_
+14	van	_	_	_	_	_	_	_	_
+15	nuwe	_	_	_	_	_	_	_	_
+16	MIV-infeksies	_	_	_	_	_	_	_	_
+17	en	_	_	_	_	_	_	_	_
+18	die	_	_	_	_	_	_	_	_
+19	behandeling	_	_	_	_	_	_	_	_
+20	daarvan	_	_	_	_	_	_	_	_
+21	gemaak	_	_	_	_	_	_	_	_
+22	is	_	_	_	_	_	_	_	_
+23	,	_	_	_	_	_	_	_	_
+24	implementeer	_	_	_	_	_	_	_	_
+25	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s885
+# text = Daar was bestendige vooruitgang in swart mense se vordering binne die ekonomie.
+# org_sent_id = 885
+1	Daar	_	_	_	_	_	_	_	_
+2	was	_	_	_	_	_	_	_	_
+3	bestendige	_	_	_	_	_	_	_	_
+4	vooruitgang	_	_	_	_	_	_	_	_
+5	in	_	_	_	_	_	_	_	_
+6	swart	_	_	_	_	_	_	_	_
+7	mense	_	_	_	_	_	_	_	_
+8	se	_	_	_	_	_	_	_	_
+9	vordering	_	_	_	_	_	_	_	_
+10	binne	_	_	_	_	_	_	_	_
+11	die	_	_	_	_	_	_	_	_
+12	ekonomie	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s491
+# text = Die skoolassesseringsprogram bepaal die besonderhede van hoe verslagboeke ingevul moet word.
+# org_sent_id = 491
+1	Die	_	_	_	_	_	_	_	_
+2	skoolassesseringsprogram	_	_	_	_	_	_	_	_
+3	bepaal	_	_	_	_	_	_	_	_
+4	die	_	_	_	_	_	_	_	_
+5	besonderhede	_	_	_	_	_	_	_	_
+6	van	_	_	_	_	_	_	_	_
+7	hoe	_	_	_	_	_	_	_	_
+8	verslagboeke	_	_	_	_	_	_	_	_
+9	ingevul	_	_	_	_	_	_	_	_
+10	moet	_	_	_	_	_	_	_	_
+11	word	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-s74
+# text = Ons beoog om die aantal matriekstudente met universiteitstoelating teen 2014 tot 175 000 per jaar te verhoog.
+# org_sent_id = 1814
+1	Ons	_	_	_	_	_	_	_	_
+2	beoog	_	_	_	_	_	_	_	_
+3	om	_	_	_	_	_	_	_	_
+4	die	_	_	_	_	_	_	_	_
+5	aantal	_	_	_	_	_	_	_	_
+6	matriekstudente	_	_	_	_	_	_	_	_
+7	met	_	_	_	_	_	_	_	_
+8	universiteitstoelating	_	_	_	_	_	_	_	_
+9	teen	_	_	_	_	_	_	_	_
+10	2014	_	_	_	_	_	_	_	_
+11	tot	_	_	_	_	_	_	_	_
+12	175	_	_	_	_	_	_	_	_
+13	000	_	_	_	_	_	_	_	_
+14	per	_	_	_	_	_	_	_	_
+15	jaar	_	_	_	_	_	_	_	_
+16	te	_	_	_	_	_	_	_	_
+17	verhoog	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-s297
+# text = Om aan te sluit hierby, dui neigings in prestasie, beide vir onderwys en leer, 'n kommerwekkende ooreenstemming met die sosiale verdeeldheid van die verlede.
+# org_sent_id = 1425
+1	Om	_	_	_	_	_	_	_	_
+2	aan	_	_	_	_	_	_	_	_
+3	te	_	_	_	_	_	_	_	_
+4	sluit	_	_	_	_	_	_	_	_
+5	hierby	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	dui	_	_	_	_	_	_	_	_
+8	neigings	_	_	_	_	_	_	_	_
+9	in	_	_	_	_	_	_	_	_
+10	prestasie	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	beide	_	_	_	_	_	_	_	_
+13	vir	_	_	_	_	_	_	_	_
+14	onderwys	_	_	_	_	_	_	_	_
+15	en	_	_	_	_	_	_	_	_
+16	leer	_	_	_	_	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	'n	_	_	_	_	_	_	_	_
+19	kommerwekkende	_	_	_	_	_	_	_	_
+20	ooreenstemming	_	_	_	_	_	_	_	_
+21	met	_	_	_	_	_	_	_	_
+22	die	_	_	_	_	_	_	_	_
+23	sosiale	_	_	_	_	_	_	_	_
+24	verdeeldheid	_	_	_	_	_	_	_	_
+25	van	_	_	_	_	_	_	_	_
+26	die	_	_	_	_	_	_	_	_
+27	verlede	_	_	_	_	_	_	_	_
+28	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s955
+# text = In hierdie opsig is die toepassing van die prestasieooreenkomsstelsel, veral op senior bestuursvlak, van kritieke belang.
+# org_sent_id = 955
+1	In	_	_	_	_	_	_	_	_
+2	hierdie	_	_	_	_	_	_	_	_
+3	opsig	_	_	_	_	_	_	_	_
+4	is	_	_	_	_	_	_	_	_
+5	die	_	_	_	_	_	_	_	_
+6	toepassing	_	_	_	_	_	_	_	_
+7	van	_	_	_	_	_	_	_	_
+8	die	_	_	_	_	_	_	_	_
+9	prestasieooreenkomsstelsel	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	veral	_	_	_	_	_	_	_	_
+12	op	_	_	_	_	_	_	_	_
+13	senior	_	_	_	_	_	_	_	_
+14	bestuursvlak	_	_	_	_	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	van	_	_	_	_	_	_	_	_
+17	kritieke	_	_	_	_	_	_	_	_
+18	belang	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s526
+# text = 'n Portefeulje is 'n assesseringsmetode wat die leerder en onderwyser saam geleentheid bied om werk wat vir etlike assesseringsaktiwiteite gedoen is, in ag te neem.
+# org_sent_id = 526
+1	'n	_	_	_	_	_	_	_	_
+2	Portefeulje	_	_	_	_	_	_	_	_
+3	is	_	_	_	_	_	_	_	_
+4	'n	_	_	_	_	_	_	_	_
+5	assesseringsmetode	_	_	_	_	_	_	_	_
+6	wat	_	_	_	_	_	_	_	_
+7	die	_	_	_	_	_	_	_	_
+8	leerder	_	_	_	_	_	_	_	_
+9	en	_	_	_	_	_	_	_	_
+10	onderwyser	_	_	_	_	_	_	_	_
+11	saam	_	_	_	_	_	_	_	_
+12	geleentheid	_	_	_	_	_	_	_	_
+13	bied	_	_	_	_	_	_	_	_
+14	om	_	_	_	_	_	_	_	_
+15	werk	_	_	_	_	_	_	_	_
+16	wat	_	_	_	_	_	_	_	_
+17	vir	_	_	_	_	_	_	_	_
+18	etlike	_	_	_	_	_	_	_	_
+19	assesseringsaktiwiteite	_	_	_	_	_	_	_	_
+20	gedoen	_	_	_	_	_	_	_	_
+21	is	_	_	_	_	_	_	_	_
+22	,	_	_	_	_	_	_	_	_
+23	in	_	_	_	_	_	_	_	_
+24	ag	_	_	_	_	_	_	_	_
+25	te	_	_	_	_	_	_	_	_
+26	neem	_	_	_	_	_	_	_	_
+27	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-s69
+# text = Wanneer 'n gebruiker kies om aanlyn te registreer vir 'n gebeurtenis waarvoor die GCIS die gasheer is, sal die GCIS die inligting wat die gebruiker indien, gebruik om op die gebruiker se versoek te reageer.
+# org_sent_id = 1615
+1	Wanneer	_	_	_	_	_	_	_	_
+2	'n	_	_	_	_	_	_	_	_
+3	gebruiker	_	_	_	_	_	_	_	_
+4	kies	_	_	_	_	_	_	_	_
+5	om	_	_	_	_	_	_	_	_
+6	aanlyn	_	_	_	_	_	_	_	_
+7	te	_	_	_	_	_	_	_	_
+8	registreer	_	_	_	_	_	_	_	_
+9	vir	_	_	_	_	_	_	_	_
+10	'n	_	_	_	_	_	_	_	_
+11	gebeurtenis	_	_	_	_	_	_	_	_
+12	waarvoor	_	_	_	_	_	_	_	_
+13	die	_	_	_	_	_	_	_	_
+14	GCIS	_	_	_	_	_	_	_	_
+15	die	_	_	_	_	_	_	_	_
+16	gasheer	_	_	_	_	_	_	_	_
+17	is	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	sal	_	_	_	_	_	_	_	_
+20	die	_	_	_	_	_	_	_	_
+21	GCIS	_	_	_	_	_	_	_	_
+22	die	_	_	_	_	_	_	_	_
+23	inligting	_	_	_	_	_	_	_	_
+24	wat	_	_	_	_	_	_	_	_
+25	die	_	_	_	_	_	_	_	_
+26	gebruiker	_	_	_	_	_	_	_	_
+27	indien	_	_	_	_	_	_	_	_
+28	,	_	_	_	_	_	_	_	_
+29	gebruik	_	_	_	_	_	_	_	_
+30	om	_	_	_	_	_	_	_	_
+31	op	_	_	_	_	_	_	_	_
+32	die	_	_	_	_	_	_	_	_
+33	gebruiker	_	_	_	_	_	_	_	_
+34	se	_	_	_	_	_	_	_	_
+35	versoek	_	_	_	_	_	_	_	_
+36	te	_	_	_	_	_	_	_	_
+37	reageer	_	_	_	_	_	_	_	_
+38	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s1177
+# text = Die Regering sal voortgaan met ons industrialiseringsprogram en om geleenthede te skep vir groei en werkskepping.
+# org_sent_id = 1177
+1	Die	_	_	_	_	_	_	_	_
+2	Regering	_	_	_	_	_	_	_	_
+3	sal	_	_	_	_	_	_	_	_
+4	voortgaan	_	_	_	_	_	_	_	_
+5	met	_	_	_	_	_	_	_	_
+6	ons	_	_	_	_	_	_	_	_
+7	industrialiseringsprogram	_	_	_	_	_	_	_	_
+8	en	_	_	_	_	_	_	_	_
+9	om	_	_	_	_	_	_	_	_
+10	geleenthede	_	_	_	_	_	_	_	_
+11	te	_	_	_	_	_	_	_	_
+12	skep	_	_	_	_	_	_	_	_
+13	vir	_	_	_	_	_	_	_	_
+14	groei	_	_	_	_	_	_	_	_
+15	en	_	_	_	_	_	_	_	_
+16	werkskepping	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s438
+# text = Hulle kan byvoorbeeld van ander lande en kulture leer.
+# org_sent_id = 438
+1	Hulle	_	_	_	_	_	_	_	_
+2	kan	_	_	_	_	_	_	_	_
+3	byvoorbeeld	_	_	_	_	_	_	_	_
+4	van	_	_	_	_	_	_	_	_
+5	ander	_	_	_	_	_	_	_	_
+6	lande	_	_	_	_	_	_	_	_
+7	en	_	_	_	_	_	_	_	_
+8	kulture	_	_	_	_	_	_	_	_
+9	leer	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s54
+# text = Indien 'n vereniging, maatskappy of beslote korporasie nie sy skuld kan of wil betaal nie en ook nie sy verpligtinge kan nakom nie (weens insolvensie, wanbestuur of om enige ander rede) mag die Direkteur-generaal van Handel en Nywerheid 'n sakeonderneming onder administrasie plaas of laat likwideer.
+# org_sent_id = 54
+1	Indien	_	_	_	_	_	_	_	_
+2	'n	_	_	_	_	_	_	_	_
+3	vereniging	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	maatskappy	_	_	_	_	_	_	_	_
+6	of	_	_	_	_	_	_	_	_
+7	beslote	_	_	_	_	_	_	_	_
+8	korporasie	_	_	_	_	_	_	_	_
+9	nie	_	_	_	_	_	_	_	_
+10	sy	_	_	_	_	_	_	_	_
+11	skuld	_	_	_	_	_	_	_	_
+12	kan	_	_	_	_	_	_	_	_
+13	of	_	_	_	_	_	_	_	_
+14	wil	_	_	_	_	_	_	_	_
+15	betaal	_	_	_	_	_	_	_	_
+16	nie	_	_	_	_	_	_	_	_
+17	en	_	_	_	_	_	_	_	_
+18	ook	_	_	_	_	_	_	_	_
+19	nie	_	_	_	_	_	_	_	_
+20	sy	_	_	_	_	_	_	_	_
+21	verpligtinge	_	_	_	_	_	_	_	_
+22	kan	_	_	_	_	_	_	_	_
+23	nakom	_	_	_	_	_	_	_	_
+24	nie	_	_	_	_	_	_	_	_
+25	(	_	_	_	_	_	_	_	_
+26	weens	_	_	_	_	_	_	_	_
+27	insolvensie	_	_	_	_	_	_	_	_
+28	,	_	_	_	_	_	_	_	_
+29	wanbestuur	_	_	_	_	_	_	_	_
+30	of	_	_	_	_	_	_	_	_
+31	om	_	_	_	_	_	_	_	_
+32	enige	_	_	_	_	_	_	_	_
+33	ander	_	_	_	_	_	_	_	_
+34	rede	_	_	_	_	_	_	_	_
+35	)	_	_	_	_	_	_	_	_
+36	mag	_	_	_	_	_	_	_	_
+37	die	_	_	_	_	_	_	_	_
+38	Direkteur-generaal	_	_	_	_	_	_	_	_
+39	van	_	_	_	_	_	_	_	_
+40	Handel	_	_	_	_	_	_	_	_
+41	en	_	_	_	_	_	_	_	_
+42	Nywerheid	_	_	_	_	_	_	_	_
+43	'n	_	_	_	_	_	_	_	_
+44	sakeonderneming	_	_	_	_	_	_	_	_
+45	onder	_	_	_	_	_	_	_	_
+46	administrasie	_	_	_	_	_	_	_	_
+47	plaas	_	_	_	_	_	_	_	_
+48	of	_	_	_	_	_	_	_	_
+49	laat	_	_	_	_	_	_	_	_
+50	likwideer	_	_	_	_	_	_	_	_
+51	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-s303
+# text = Hetsy in onderwys, gesondheid, behuising, water of sanitasie, die sentrale vraag waarmee ons elke dag gekonfronteer word, is hoe om die kwaliteit van hierdie dienste te verbeter!
+# org_sent_id = 1431
+1	Hetsy	_	_	_	_	_	_	_	_
+2	in	_	_	_	_	_	_	_	_
+3	onderwys	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	gesondheid	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	behuising	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	water	_	_	_	_	_	_	_	_
+10	of	_	_	_	_	_	_	_	_
+11	sanitasie	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	die	_	_	_	_	_	_	_	_
+14	sentrale	_	_	_	_	_	_	_	_
+15	vraag	_	_	_	_	_	_	_	_
+16	waarmee	_	_	_	_	_	_	_	_
+17	ons	_	_	_	_	_	_	_	_
+18	elke	_	_	_	_	_	_	_	_
+19	dag	_	_	_	_	_	_	_	_
+20	gekonfronteer	_	_	_	_	_	_	_	_
+21	word	_	_	_	_	_	_	_	_
+22	,	_	_	_	_	_	_	_	_
+23	is	_	_	_	_	_	_	_	_
+24	hoe	_	_	_	_	_	_	_	_
+25	om	_	_	_	_	_	_	_	_
+26	die	_	_	_	_	_	_	_	_
+27	kwaliteit	_	_	_	_	_	_	_	_
+28	van	_	_	_	_	_	_	_	_
+29	hierdie	_	_	_	_	_	_	_	_
+30	dienste	_	_	_	_	_	_	_	_
+31	te	_	_	_	_	_	_	_	_
+32	verbeter	_	_	_	_	_	_	_	_
+33	!	_	_	_	_	_	_	_	_
+
+# sent_id = test-s115
+# text = Dit sal verseker dat die plaaslike regering oor die korrekte bestuurs-, administratiewe en tegniese vaardighede beskik.
+# org_sent_id = 1855
+1	Dit	_	_	_	_	_	_	_	_
+2	sal	_	_	_	_	_	_	_	_
+3	verseker	_	_	_	_	_	_	_	_
+4	dat	_	_	_	_	_	_	_	_
+5	die	_	_	_	_	_	_	_	_
+6	plaaslike	_	_	_	_	_	_	_	_
+7	regering	_	_	_	_	_	_	_	_
+8	oor	_	_	_	_	_	_	_	_
+9	die	_	_	_	_	_	_	_	_
+10	korrekte	_	_	_	_	_	_	_	_
+11	bestuurs-	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	administratiewe	_	_	_	_	_	_	_	_
+14	en	_	_	_	_	_	_	_	_
+15	tegniese	_	_	_	_	_	_	_	_
+16	vaardighede	_	_	_	_	_	_	_	_
+17	beskik	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-s39
+# text = Beleidsverandering moet fokus op ingrypings om werksgeleenthede vir jongmense te skep.
+# org_sent_id = 1779
+1	Beleidsverandering	_	_	_	_	_	_	_	_
+2	moet	_	_	_	_	_	_	_	_
+3	fokus	_	_	_	_	_	_	_	_
+4	op	_	_	_	_	_	_	_	_
+5	ingrypings	_	_	_	_	_	_	_	_
+6	om	_	_	_	_	_	_	_	_
+7	werksgeleenthede	_	_	_	_	_	_	_	_
+8	vir	_	_	_	_	_	_	_	_
+9	jongmense	_	_	_	_	_	_	_	_
+10	te	_	_	_	_	_	_	_	_
+11	skep	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s1041
+# text = Met hierdie doel voor oë sal twee groot opnames in 2007 gemaak word.
+# org_sent_id = 1041
+1	Met	_	_	_	_	_	_	_	_
+2	hierdie	_	_	_	_	_	_	_	_
+3	doel	_	_	_	_	_	_	_	_
+4	voor	_	_	_	_	_	_	_	_
+5	oë	_	_	_	_	_	_	_	_
+6	sal	_	_	_	_	_	_	_	_
+7	twee	_	_	_	_	_	_	_	_
+8	groot	_	_	_	_	_	_	_	_
+9	opnames	_	_	_	_	_	_	_	_
+10	in	_	_	_	_	_	_	_	_
+11	2007	_	_	_	_	_	_	_	_
+12	gemaak	_	_	_	_	_	_	_	_
+13	word	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s209
+# text = As die vis wel vars en vir menslike verbruik bedoel is, moet jy die Hawegesondheid in kennis stel.
+# org_sent_id = 209
+1	As	_	_	_	_	_	_	_	_
+2	die	_	_	_	_	_	_	_	_
+3	vis	_	_	_	_	_	_	_	_
+4	wel	_	_	_	_	_	_	_	_
+5	vars	_	_	_	_	_	_	_	_
+6	en	_	_	_	_	_	_	_	_
+7	vir	_	_	_	_	_	_	_	_
+8	menslike	_	_	_	_	_	_	_	_
+9	verbruik	_	_	_	_	_	_	_	_
+10	bedoel	_	_	_	_	_	_	_	_
+11	is	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	moet	_	_	_	_	_	_	_	_
+14	jy	_	_	_	_	_	_	_	_
+15	die	_	_	_	_	_	_	_	_
+16	Hawegesondheid	_	_	_	_	_	_	_	_
+17	in	_	_	_	_	_	_	_	_
+18	kennis	_	_	_	_	_	_	_	_
+19	stel	_	_	_	_	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s470
+# text = Leerders het almal hul eie leerstyl en leer teen hul eie tempo.
+# org_sent_id = 470
+1	Leerders	_	_	_	_	_	_	_	_
+2	het	_	_	_	_	_	_	_	_
+3	almal	_	_	_	_	_	_	_	_
+4	hul	_	_	_	_	_	_	_	_
+5	eie	_	_	_	_	_	_	_	_
+6	leerstyl	_	_	_	_	_	_	_	_
+7	en	_	_	_	_	_	_	_	_
+8	leer	_	_	_	_	_	_	_	_
+9	teen	_	_	_	_	_	_	_	_
+10	hul	_	_	_	_	_	_	_	_
+11	eie	_	_	_	_	_	_	_	_
+12	tempo	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s461
+# text = Opbouende terugvoering word gegee om leerders in staat stel om te groei.
+# org_sent_id = 461
+1	Opbouende	_	_	_	_	_	_	_	_
+2	terugvoering	_	_	_	_	_	_	_	_
+3	word	_	_	_	_	_	_	_	_
+4	gegee	_	_	_	_	_	_	_	_
+5	om	_	_	_	_	_	_	_	_
+6	leerders	_	_	_	_	_	_	_	_
+7	in	_	_	_	_	_	_	_	_
+8	staat	_	_	_	_	_	_	_	_
+9	stel	_	_	_	_	_	_	_	_
+10	om	_	_	_	_	_	_	_	_
+11	te	_	_	_	_	_	_	_	_
+12	groei	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-s101
+# text = Kom ons hou op om gesteelde goedere te koop.
+# org_sent_id = 1841
+1	Kom	_	_	_	_	_	_	_	_
+2	ons	_	_	_	_	_	_	_	_
+3	hou	_	_	_	_	_	_	_	_
+4	op	_	_	_	_	_	_	_	_
+5	om	_	_	_	_	_	_	_	_
+6	gesteelde	_	_	_	_	_	_	_	_
+7	goedere	_	_	_	_	_	_	_	_
+8	te	_	_	_	_	_	_	_	_
+9	koop	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-s94
+# text = Ons sal ook voortgaan met ons voorbereidings vir die instelling van 'n nasionale gesondheidsorgversekeringstelsel.
+# org_sent_id = 1834
+1	Ons	_	_	_	_	_	_	_	_
+2	sal	_	_	_	_	_	_	_	_
+3	ook	_	_	_	_	_	_	_	_
+4	voortgaan	_	_	_	_	_	_	_	_
+5	met	_	_	_	_	_	_	_	_
+6	ons	_	_	_	_	_	_	_	_
+7	voorbereidings	_	_	_	_	_	_	_	_
+8	vir	_	_	_	_	_	_	_	_
+9	die	_	_	_	_	_	_	_	_
+10	instelling	_	_	_	_	_	_	_	_
+11	van	_	_	_	_	_	_	_	_
+12	'n	_	_	_	_	_	_	_	_
+13	nasionale	_	_	_	_	_	_	_	_
+14	gesondheidsorgversekeringstelsel	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s1010
+# text = Uitbreiding van die opleiding en indiensneming van verpleegsters en maatskaplike werkers én helpers; uitbreiding van die getal opleidingsinstansies, met opleiding van hoër gehalte; en die inwerkingstelling van 'n beursstelsel.
+# org_sent_id = 1010
+1	Uitbreiding	_	_	_	_	_	_	_	_
+2	van	_	_	_	_	_	_	_	_
+3	die	_	_	_	_	_	_	_	_
+4	opleiding	_	_	_	_	_	_	_	_
+5	en	_	_	_	_	_	_	_	_
+6	indiensneming	_	_	_	_	_	_	_	_
+7	van	_	_	_	_	_	_	_	_
+8	verpleegsters	_	_	_	_	_	_	_	_
+9	en	_	_	_	_	_	_	_	_
+10	maatskaplike	_	_	_	_	_	_	_	_
+11	werkers	_	_	_	_	_	_	_	_
+12	én	_	_	_	_	_	_	_	_
+13	helpers	_	_	_	_	_	_	_	_
+14	;	_	_	_	_	_	_	_	_
+15	uitbreiding	_	_	_	_	_	_	_	_
+16	van	_	_	_	_	_	_	_	_
+17	die	_	_	_	_	_	_	_	_
+18	getal	_	_	_	_	_	_	_	_
+19	opleidingsinstansies	_	_	_	_	_	_	_	_
+20	,	_	_	_	_	_	_	_	_
+21	met	_	_	_	_	_	_	_	_
+22	opleiding	_	_	_	_	_	_	_	_
+23	van	_	_	_	_	_	_	_	_
+24	hoër	_	_	_	_	_	_	_	_
+25	gehalte	_	_	_	_	_	_	_	_
+26	;	_	_	_	_	_	_	_	_
+27	en	_	_	_	_	_	_	_	_
+28	die	_	_	_	_	_	_	_	_
+29	inwerkingstelling	_	_	_	_	_	_	_	_
+30	van	_	_	_	_	_	_	_	_
+31	'n	_	_	_	_	_	_	_	_
+32	beursstelsel	_	_	_	_	_	_	_	_
+33	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-s76
+# text = In toepaslike gevalle mag persoonlike inligting geopenbaar word aan wetstoepassers, regulerings- of ander regeringsagentskappe, of aan derde partye waar dit nodig of wenslik is ten einde te voldoen aan regs- of reguleringspligte, of vir die doeleindes wat hierbo vermeld is.
+# org_sent_id = 1622
+1	In	_	_	_	_	_	_	_	_
+2	toepaslike	_	_	_	_	_	_	_	_
+3	gevalle	_	_	_	_	_	_	_	_
+4	mag	_	_	_	_	_	_	_	_
+5	persoonlike	_	_	_	_	_	_	_	_
+6	inligting	_	_	_	_	_	_	_	_
+7	geopenbaar	_	_	_	_	_	_	_	_
+8	word	_	_	_	_	_	_	_	_
+9	aan	_	_	_	_	_	_	_	_
+10	wetstoepassers	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	regulerings-	_	_	_	_	_	_	_	_
+13	of	_	_	_	_	_	_	_	_
+14	ander	_	_	_	_	_	_	_	_
+15	regeringsagentskappe	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	of	_	_	_	_	_	_	_	_
+18	aan	_	_	_	_	_	_	_	_
+19	derde	_	_	_	_	_	_	_	_
+20	partye	_	_	_	_	_	_	_	_
+21	waar	_	_	_	_	_	_	_	_
+22	dit	_	_	_	_	_	_	_	_
+23	nodig	_	_	_	_	_	_	_	_
+24	of	_	_	_	_	_	_	_	_
+25	wenslik	_	_	_	_	_	_	_	_
+26	is	_	_	_	_	_	_	_	_
+27	ten	_	_	_	_	_	_	_	_
+28	einde	_	_	_	_	_	_	_	_
+29	te	_	_	_	_	_	_	_	_
+30	voldoen	_	_	_	_	_	_	_	_
+31	aan	_	_	_	_	_	_	_	_
+32	regs-	_	_	_	_	_	_	_	_
+33	of	_	_	_	_	_	_	_	_
+34	reguleringspligte	_	_	_	_	_	_	_	_
+35	,	_	_	_	_	_	_	_	_
+36	of	_	_	_	_	_	_	_	_
+37	vir	_	_	_	_	_	_	_	_
+38	die	_	_	_	_	_	_	_	_
+39	doeleindes	_	_	_	_	_	_	_	_
+40	wat	_	_	_	_	_	_	_	_
+41	hierbo	_	_	_	_	_	_	_	_
+42	vermeld	_	_	_	_	_	_	_	_
+43	is	_	_	_	_	_	_	_	_
+44	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s1217
+# text = 'n Verskerping van die Nasionale Jeugdiensprogram wat sal insluit 'n verhoging in die inname in die Militêre Vaardigheidsontwikkelingsprogram van die Suid-Afrikaanse Nasionale Weermag (SANDF) van die huidige 4 000 tot 10 000.
+# org_sent_id = 1217
+1	'n	_	_	_	_	_	_	_	_
+2	Verskerping	_	_	_	_	_	_	_	_
+3	van	_	_	_	_	_	_	_	_
+4	die	_	_	_	_	_	_	_	_
+5	Nasionale	_	_	_	_	_	_	_	_
+6	Jeugdiensprogram	_	_	_	_	_	_	_	_
+7	wat	_	_	_	_	_	_	_	_
+8	sal	_	_	_	_	_	_	_	_
+9	insluit	_	_	_	_	_	_	_	_
+10	'n	_	_	_	_	_	_	_	_
+11	verhoging	_	_	_	_	_	_	_	_
+12	in	_	_	_	_	_	_	_	_
+13	die	_	_	_	_	_	_	_	_
+14	inname	_	_	_	_	_	_	_	_
+15	in	_	_	_	_	_	_	_	_
+16	die	_	_	_	_	_	_	_	_
+17	Militêre	_	_	_	_	_	_	_	_
+18	Vaardigheidsontwikkelingsprogram	_	_	_	_	_	_	_	_
+19	van	_	_	_	_	_	_	_	_
+20	die	_	_	_	_	_	_	_	_
+21	Suid-Afrikaanse	_	_	_	_	_	_	_	_
+22	Nasionale	_	_	_	_	_	_	_	_
+23	Weermag	_	_	_	_	_	_	_	_
+24	(	_	_	_	_	_	_	_	_
+25	SANDF	_	_	_	_	_	_	_	_
+26	)	_	_	_	_	_	_	_	_
+27	van	_	_	_	_	_	_	_	_
+28	die	_	_	_	_	_	_	_	_
+29	huidige	_	_	_	_	_	_	_	_
+30	4	_	_	_	_	_	_	_	_
+31	000	_	_	_	_	_	_	_	_
+32	tot	_	_	_	_	_	_	_	_
+33	10	_	_	_	_	_	_	_	_
+34	000	_	_	_	_	_	_	_	_
+35	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s580
+# text = Hulle reik slegs hierdie permit uit sodra jy toestemming by die Medisynebeheerraad verkry het en bewys van daardie toestemming aan hulle voorgelê het.
+# org_sent_id = 580
+1	Hulle	_	_	_	_	_	_	_	_
+2	reik	_	_	_	_	_	_	_	_
+3	slegs	_	_	_	_	_	_	_	_
+4	hierdie	_	_	_	_	_	_	_	_
+5	permit	_	_	_	_	_	_	_	_
+6	uit	_	_	_	_	_	_	_	_
+7	sodra	_	_	_	_	_	_	_	_
+8	jy	_	_	_	_	_	_	_	_
+9	toestemming	_	_	_	_	_	_	_	_
+10	by	_	_	_	_	_	_	_	_
+11	die	_	_	_	_	_	_	_	_
+12	Medisynebeheerraad	_	_	_	_	_	_	_	_
+13	verkry	_	_	_	_	_	_	_	_
+14	het	_	_	_	_	_	_	_	_
+15	en	_	_	_	_	_	_	_	_
+16	bewys	_	_	_	_	_	_	_	_
+17	van	_	_	_	_	_	_	_	_
+18	daardie	_	_	_	_	_	_	_	_
+19	toestemming	_	_	_	_	_	_	_	_
+20	aan	_	_	_	_	_	_	_	_
+21	hulle	_	_	_	_	_	_	_	_
+22	voorgelê	_	_	_	_	_	_	_	_
+23	het	_	_	_	_	_	_	_	_
+24	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s41
+# text = Soms neem dit lank om PDF-dokumente oop te maak.
+# org_sent_id = 41
+1	Soms	_	_	_	_	_	_	_	_
+2	neem	_	_	_	_	_	_	_	_
+3	dit	_	_	_	_	_	_	_	_
+4	lank	_	_	_	_	_	_	_	_
+5	om	_	_	_	_	_	_	_	_
+6	PDF-dokumente	_	_	_	_	_	_	_	_
+7	oop	_	_	_	_	_	_	_	_
+8	te	_	_	_	_	_	_	_	_
+9	maak	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-s151
+# text = Die Regering werk reeds aan die ontwikkeling en implementering van 'n staatsdiens-ontwikkelingsprogram, wat die norme en standaarde vir staatsamptenare in alle sfere sal bepaal.
+# org_sent_id = 1891
+1	Die	_	_	_	_	_	_	_	_
+2	Regering	_	_	_	_	_	_	_	_
+3	werk	_	_	_	_	_	_	_	_
+4	reeds	_	_	_	_	_	_	_	_
+5	aan	_	_	_	_	_	_	_	_
+6	die	_	_	_	_	_	_	_	_
+7	ontwikkeling	_	_	_	_	_	_	_	_
+8	en	_	_	_	_	_	_	_	_
+9	implementering	_	_	_	_	_	_	_	_
+10	van	_	_	_	_	_	_	_	_
+11	'n	_	_	_	_	_	_	_	_
+12	staatsdiens-ontwikkelingsprogram	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	wat	_	_	_	_	_	_	_	_
+15	die	_	_	_	_	_	_	_	_
+16	norme	_	_	_	_	_	_	_	_
+17	en	_	_	_	_	_	_	_	_
+18	standaarde	_	_	_	_	_	_	_	_
+19	vir	_	_	_	_	_	_	_	_
+20	staatsamptenare	_	_	_	_	_	_	_	_
+21	in	_	_	_	_	_	_	_	_
+22	alle	_	_	_	_	_	_	_	_
+23	sfere	_	_	_	_	_	_	_	_
+24	sal	_	_	_	_	_	_	_	_
+25	bepaal	_	_	_	_	_	_	_	_
+26	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-s413
+# text = Ons is bevoorreg om hierdie jaar die einde van die eerste dekade van ons diplomatiese verhouding met China te vier.
+# org_sent_id = 1541
+1	Ons	_	_	_	_	_	_	_	_
+2	is	_	_	_	_	_	_	_	_
+3	bevoorreg	_	_	_	_	_	_	_	_
+4	om	_	_	_	_	_	_	_	_
+5	hierdie	_	_	_	_	_	_	_	_
+6	jaar	_	_	_	_	_	_	_	_
+7	die	_	_	_	_	_	_	_	_
+8	einde	_	_	_	_	_	_	_	_
+9	van	_	_	_	_	_	_	_	_
+10	die	_	_	_	_	_	_	_	_
+11	eerste	_	_	_	_	_	_	_	_
+12	dekade	_	_	_	_	_	_	_	_
+13	van	_	_	_	_	_	_	_	_
+14	ons	_	_	_	_	_	_	_	_
+15	diplomatiese	_	_	_	_	_	_	_	_
+16	verhouding	_	_	_	_	_	_	_	_
+17	met	_	_	_	_	_	_	_	_
+18	China	_	_	_	_	_	_	_	_
+19	te	_	_	_	_	_	_	_	_
+20	vier	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s462
+# text = Sommerende assessering gee 'n geheelbeeld van 'n leerder se vordering op 'n gegewe tydstip, soos aan die einde van 'n kwartaal of jaar of wanneer 'n leerder na 'n ander skool gaan.
+# org_sent_id = 462
+1	Sommerende	_	_	_	_	_	_	_	_
+2	assessering	_	_	_	_	_	_	_	_
+3	gee	_	_	_	_	_	_	_	_
+4	'n	_	_	_	_	_	_	_	_
+5	geheelbeeld	_	_	_	_	_	_	_	_
+6	van	_	_	_	_	_	_	_	_
+7	'n	_	_	_	_	_	_	_	_
+8	leerder	_	_	_	_	_	_	_	_
+9	se	_	_	_	_	_	_	_	_
+10	vordering	_	_	_	_	_	_	_	_
+11	op	_	_	_	_	_	_	_	_
+12	'n	_	_	_	_	_	_	_	_
+13	gegewe	_	_	_	_	_	_	_	_
+14	tydstip	_	_	_	_	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	soos	_	_	_	_	_	_	_	_
+17	aan	_	_	_	_	_	_	_	_
+18	die	_	_	_	_	_	_	_	_
+19	einde	_	_	_	_	_	_	_	_
+20	van	_	_	_	_	_	_	_	_
+21	'n	_	_	_	_	_	_	_	_
+22	kwartaal	_	_	_	_	_	_	_	_
+23	of	_	_	_	_	_	_	_	_
+24	jaar	_	_	_	_	_	_	_	_
+25	of	_	_	_	_	_	_	_	_
+26	wanneer	_	_	_	_	_	_	_	_
+27	'n	_	_	_	_	_	_	_	_
+28	leerder	_	_	_	_	_	_	_	_
+29	na	_	_	_	_	_	_	_	_
+30	'n	_	_	_	_	_	_	_	_
+31	ander	_	_	_	_	_	_	_	_
+32	skool	_	_	_	_	_	_	_	_
+33	gaan	_	_	_	_	_	_	_	_
+34	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-s24
+# text = Dit bied nie volledige inligting oor die betrokke onderwerp of onderwerpe nie.
+# org_sent_id = 1570
+1	Dit	_	_	_	_	_	_	_	_
+2	bied	_	_	_	_	_	_	_	_
+3	nie	_	_	_	_	_	_	_	_
+4	volledige	_	_	_	_	_	_	_	_
+5	inligting	_	_	_	_	_	_	_	_
+6	oor	_	_	_	_	_	_	_	_
+7	die	_	_	_	_	_	_	_	_
+8	betrokke	_	_	_	_	_	_	_	_
+9	onderwerp	_	_	_	_	_	_	_	_
+10	of	_	_	_	_	_	_	_	_
+11	onderwerpe	_	_	_	_	_	_	_	_
+12	nie	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s982
+# text = Hierdie stappe sluit onder meer die volgende in: 'n verlaging van die koste om sake te doen en die bevordering van beleggings, die praktiese inwerkingstelling van die Regulatory Impact Assessment-stelsel (RIA-stelsel), die ontwikkeling van breëbandkapasiteit vir nasionale en internasionale gebruik, die finalisering van planne wat spoor- en haweoperateurs se kapasiteit sal verhoog, en die verbetering van ons mededingingsowerhede se doeltreffendheid.
+# org_sent_id = 982
+1	Hierdie	_	_	_	_	_	_	_	_
+2	stappe	_	_	_	_	_	_	_	_
+3	sluit	_	_	_	_	_	_	_	_
+4	onder	_	_	_	_	_	_	_	_
+5	meer	_	_	_	_	_	_	_	_
+6	die	_	_	_	_	_	_	_	_
+7	volgende	_	_	_	_	_	_	_	_
+8	in	_	_	_	_	_	_	_	_
+9	:	_	_	_	_	_	_	_	_
+10	'n	_	_	_	_	_	_	_	_
+11	verlaging	_	_	_	_	_	_	_	_
+12	van	_	_	_	_	_	_	_	_
+13	die	_	_	_	_	_	_	_	_
+14	koste	_	_	_	_	_	_	_	_
+15	om	_	_	_	_	_	_	_	_
+16	sake	_	_	_	_	_	_	_	_
+17	te	_	_	_	_	_	_	_	_
+18	doen	_	_	_	_	_	_	_	_
+19	en	_	_	_	_	_	_	_	_
+20	die	_	_	_	_	_	_	_	_
+21	bevordering	_	_	_	_	_	_	_	_
+22	van	_	_	_	_	_	_	_	_
+23	beleggings	_	_	_	_	_	_	_	_
+24	,	_	_	_	_	_	_	_	_
+25	die	_	_	_	_	_	_	_	_
+26	praktiese	_	_	_	_	_	_	_	_
+27	inwerkingstelling	_	_	_	_	_	_	_	_
+28	van	_	_	_	_	_	_	_	_
+29	die	_	_	_	_	_	_	_	_
+30	Regulatory	_	_	_	_	_	_	_	_
+31	Impact	_	_	_	_	_	_	_	_
+32	Assessment-stelsel	_	_	_	_	_	_	_	_
+33	(	_	_	_	_	_	_	_	_
+34	RIA-stelsel	_	_	_	_	_	_	_	_
+35	)	_	_	_	_	_	_	_	_
+36	,	_	_	_	_	_	_	_	_
+37	die	_	_	_	_	_	_	_	_
+38	ontwikkeling	_	_	_	_	_	_	_	_
+39	van	_	_	_	_	_	_	_	_
+40	breëbandkapasiteit	_	_	_	_	_	_	_	_
+41	vir	_	_	_	_	_	_	_	_
+42	nasionale	_	_	_	_	_	_	_	_
+43	en	_	_	_	_	_	_	_	_
+44	internasionale	_	_	_	_	_	_	_	_
+45	gebruik	_	_	_	_	_	_	_	_
+46	,	_	_	_	_	_	_	_	_
+47	die	_	_	_	_	_	_	_	_
+48	finalisering	_	_	_	_	_	_	_	_
+49	van	_	_	_	_	_	_	_	_
+50	planne	_	_	_	_	_	_	_	_
+51	wat	_	_	_	_	_	_	_	_
+52	spoor-	_	_	_	_	_	_	_	_
+53	en	_	_	_	_	_	_	_	_
+54	haweoperateurs	_	_	_	_	_	_	_	_
+55	se	_	_	_	_	_	_	_	_
+56	kapasiteit	_	_	_	_	_	_	_	_
+57	sal	_	_	_	_	_	_	_	_
+58	verhoog	_	_	_	_	_	_	_	_
+59	,	_	_	_	_	_	_	_	_
+60	en	_	_	_	_	_	_	_	_
+61	die	_	_	_	_	_	_	_	_
+62	verbetering	_	_	_	_	_	_	_	_
+63	van	_	_	_	_	_	_	_	_
+64	ons	_	_	_	_	_	_	_	_
+65	mededingingsowerhede	_	_	_	_	_	_	_	_
+66	se	_	_	_	_	_	_	_	_
+67	doeltreffendheid	_	_	_	_	_	_	_	_
+68	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s524
+# text = Persoonlike inligting in 'n leerderprofiel behoort nooit vir onregverdige of diskriminerende optrede teen 'n leerder gebruik te word nie.
+# org_sent_id = 524
+1	Persoonlike	_	_	_	_	_	_	_	_
+2	inligting	_	_	_	_	_	_	_	_
+3	in	_	_	_	_	_	_	_	_
+4	'n	_	_	_	_	_	_	_	_
+5	leerderprofiel	_	_	_	_	_	_	_	_
+6	behoort	_	_	_	_	_	_	_	_
+7	nooit	_	_	_	_	_	_	_	_
+8	vir	_	_	_	_	_	_	_	_
+9	onregverdige	_	_	_	_	_	_	_	_
+10	of	_	_	_	_	_	_	_	_
+11	diskriminerende	_	_	_	_	_	_	_	_
+12	optrede	_	_	_	_	_	_	_	_
+13	teen	_	_	_	_	_	_	_	_
+14	'n	_	_	_	_	_	_	_	_
+15	leerder	_	_	_	_	_	_	_	_
+16	gebruik	_	_	_	_	_	_	_	_
+17	te	_	_	_	_	_	_	_	_
+18	word	_	_	_	_	_	_	_	_
+19	nie	_	_	_	_	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s1266
+# text = 'n Belangrike stap in hierdie opsig is die konsolidasie van streeksinstellings en aktiwiteite wat gemik is op die verwesenliking van streeksintegrasie.
+# org_sent_id = 1266
+1	'n	_	_	_	_	_	_	_	_
+2	Belangrike	_	_	_	_	_	_	_	_
+3	stap	_	_	_	_	_	_	_	_
+4	in	_	_	_	_	_	_	_	_
+5	hierdie	_	_	_	_	_	_	_	_
+6	opsig	_	_	_	_	_	_	_	_
+7	is	_	_	_	_	_	_	_	_
+8	die	_	_	_	_	_	_	_	_
+9	konsolidasie	_	_	_	_	_	_	_	_
+10	van	_	_	_	_	_	_	_	_
+11	streeksinstellings	_	_	_	_	_	_	_	_
+12	en	_	_	_	_	_	_	_	_
+13	aktiwiteite	_	_	_	_	_	_	_	_
+14	wat	_	_	_	_	_	_	_	_
+15	gemik	_	_	_	_	_	_	_	_
+16	is	_	_	_	_	_	_	_	_
+17	op	_	_	_	_	_	_	_	_
+18	die	_	_	_	_	_	_	_	_
+19	verwesenliking	_	_	_	_	_	_	_	_
+20	van	_	_	_	_	_	_	_	_
+21	streeksintegrasie	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-s376
+# text = In beide die G20-vergaderings en ander interaksies met multilaterale instansies het ons regering redes aangevoer vir toepaslike en dringende ingrypings, veral ten opsigte van ontwikkelde lande waar die krisis ontstaan het en waar dit die ergste gevoel word.
+# org_sent_id = 1504
+1	In	_	_	_	_	_	_	_	_
+2	beide	_	_	_	_	_	_	_	_
+3	die	_	_	_	_	_	_	_	_
+4	G20-vergaderings	_	_	_	_	_	_	_	_
+5	en	_	_	_	_	_	_	_	_
+6	ander	_	_	_	_	_	_	_	_
+7	interaksies	_	_	_	_	_	_	_	_
+8	met	_	_	_	_	_	_	_	_
+9	multilaterale	_	_	_	_	_	_	_	_
+10	instansies	_	_	_	_	_	_	_	_
+11	het	_	_	_	_	_	_	_	_
+12	ons	_	_	_	_	_	_	_	_
+13	regering	_	_	_	_	_	_	_	_
+14	redes	_	_	_	_	_	_	_	_
+15	aangevoer	_	_	_	_	_	_	_	_
+16	vir	_	_	_	_	_	_	_	_
+17	toepaslike	_	_	_	_	_	_	_	_
+18	en	_	_	_	_	_	_	_	_
+19	dringende	_	_	_	_	_	_	_	_
+20	ingrypings	_	_	_	_	_	_	_	_
+21	,	_	_	_	_	_	_	_	_
+22	veral	_	_	_	_	_	_	_	_
+23	ten	_	_	_	_	_	_	_	_
+24	opsigte	_	_	_	_	_	_	_	_
+25	van	_	_	_	_	_	_	_	_
+26	ontwikkelde	_	_	_	_	_	_	_	_
+27	lande	_	_	_	_	_	_	_	_
+28	waar	_	_	_	_	_	_	_	_
+29	die	_	_	_	_	_	_	_	_
+30	krisis	_	_	_	_	_	_	_	_
+31	ontstaan	_	_	_	_	_	_	_	_
+32	het	_	_	_	_	_	_	_	_
+33	en	_	_	_	_	_	_	_	_
+34	waar	_	_	_	_	_	_	_	_
+35	dit	_	_	_	_	_	_	_	_
+36	die	_	_	_	_	_	_	_	_
+37	ergste	_	_	_	_	_	_	_	_
+38	gevoel	_	_	_	_	_	_	_	_
+39	word	_	_	_	_	_	_	_	_
+40	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s528
+# text = Die leerderprofiel, daarenteen, is 'n rekord wat inligting oor 'n leerder bevat.
+# org_sent_id = 528
+1	Die	_	_	_	_	_	_	_	_
+2	leerderprofiel	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	daarenteen	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	is	_	_	_	_	_	_	_	_
+7	'n	_	_	_	_	_	_	_	_
+8	rekord	_	_	_	_	_	_	_	_
+9	wat	_	_	_	_	_	_	_	_
+10	inligting	_	_	_	_	_	_	_	_
+11	oor	_	_	_	_	_	_	_	_
+12	'n	_	_	_	_	_	_	_	_
+13	leerder	_	_	_	_	_	_	_	_
+14	bevat	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s790
+# text = Die aansoek moet ingedien word voordat die tien jaar verstryk.
+# org_sent_id = 790
+1	Die	_	_	_	_	_	_	_	_
+2	aansoek	_	_	_	_	_	_	_	_
+3	moet	_	_	_	_	_	_	_	_
+4	ingedien	_	_	_	_	_	_	_	_
+5	word	_	_	_	_	_	_	_	_
+6	voordat	_	_	_	_	_	_	_	_
+7	die	_	_	_	_	_	_	_	_
+8	tien	_	_	_	_	_	_	_	_
+9	jaar	_	_	_	_	_	_	_	_
+10	verstryk	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-s129
+# text = Sekere Crime Stop-oproepsentrums verbind informante ook regstreeks met ondersoekbeamptes deur die telefoonkonferensiestelsel te gebruik.
+# org_sent_id = 1675
+1	Sekere	_	_	_	_	_	_	_	_
+2	Crime	_	_	_	_	_	_	_	_
+3	Stop-oproepsentrums	_	_	_	_	_	_	_	_
+4	verbind	_	_	_	_	_	_	_	_
+5	informante	_	_	_	_	_	_	_	_
+6	ook	_	_	_	_	_	_	_	_
+7	regstreeks	_	_	_	_	_	_	_	_
+8	met	_	_	_	_	_	_	_	_
+9	ondersoekbeamptes	_	_	_	_	_	_	_	_
+10	deur	_	_	_	_	_	_	_	_
+11	die	_	_	_	_	_	_	_	_
+12	telefoonkonferensiestelsel	_	_	_	_	_	_	_	_
+13	te	_	_	_	_	_	_	_	_
+14	gebruik	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-s417
+# text = Ons afgryse met die onlangse eskalasie van die konflik en massiewe lewensverlies van veral burgerlikes- insluitend kinders, vroue en bejaardes- kan nie in woorde uitgedruk word nie.
+# org_sent_id = 1545
+1	Ons	_	_	_	_	_	_	_	_
+2	afgryse	_	_	_	_	_	_	_	_
+3	met	_	_	_	_	_	_	_	_
+4	die	_	_	_	_	_	_	_	_
+5	onlangse	_	_	_	_	_	_	_	_
+6	eskalasie	_	_	_	_	_	_	_	_
+7	van	_	_	_	_	_	_	_	_
+8	die	_	_	_	_	_	_	_	_
+9	konflik	_	_	_	_	_	_	_	_
+10	en	_	_	_	_	_	_	_	_
+11	massiewe	_	_	_	_	_	_	_	_
+12	lewensverlies	_	_	_	_	_	_	_	_
+13	van	_	_	_	_	_	_	_	_
+14	veral	_	_	_	_	_	_	_	_
+15	burgerlikes	_	_	_	_	_	_	_	_
+16	-	_	_	_	_	_	_	_	_
+17	insluitend	_	_	_	_	_	_	_	_
+18	kinders	_	_	_	_	_	_	_	_
+19	,	_	_	_	_	_	_	_	_
+20	vroue	_	_	_	_	_	_	_	_
+21	en	_	_	_	_	_	_	_	_
+22	bejaardes	_	_	_	_	_	_	_	_
+23	-	_	_	_	_	_	_	_	_
+24	kan	_	_	_	_	_	_	_	_
+25	nie	_	_	_	_	_	_	_	_
+26	in	_	_	_	_	_	_	_	_
+27	woorde	_	_	_	_	_	_	_	_
+28	uitgedruk	_	_	_	_	_	_	_	_
+29	word	_	_	_	_	_	_	_	_
+30	nie	_	_	_	_	_	_	_	_
+31	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s930
+# text = Bogenoemde sal sorg dat mense wat maatskaplike bystand ontvang op sistematiese wyse met munisipale dienste en werksgeleenthede gekoppel word, en sal ons voortdurend gerig hou op ons taak om soveel moontlik van ons mense van hulle afhanklikheid van maatskaplike toelaes te speen en hulle tot die arbeidsmark te laat toetree.
+# org_sent_id = 930
+1	Bogenoemde	_	_	_	_	_	_	_	_
+2	sal	_	_	_	_	_	_	_	_
+3	sorg	_	_	_	_	_	_	_	_
+4	dat	_	_	_	_	_	_	_	_
+5	mense	_	_	_	_	_	_	_	_
+6	wat	_	_	_	_	_	_	_	_
+7	maatskaplike	_	_	_	_	_	_	_	_
+8	bystand	_	_	_	_	_	_	_	_
+9	ontvang	_	_	_	_	_	_	_	_
+10	op	_	_	_	_	_	_	_	_
+11	sistematiese	_	_	_	_	_	_	_	_
+12	wyse	_	_	_	_	_	_	_	_
+13	met	_	_	_	_	_	_	_	_
+14	munisipale	_	_	_	_	_	_	_	_
+15	dienste	_	_	_	_	_	_	_	_
+16	en	_	_	_	_	_	_	_	_
+17	werksgeleenthede	_	_	_	_	_	_	_	_
+18	gekoppel	_	_	_	_	_	_	_	_
+19	word	_	_	_	_	_	_	_	_
+20	,	_	_	_	_	_	_	_	_
+21	en	_	_	_	_	_	_	_	_
+22	sal	_	_	_	_	_	_	_	_
+23	ons	_	_	_	_	_	_	_	_
+24	voortdurend	_	_	_	_	_	_	_	_
+25	gerig	_	_	_	_	_	_	_	_
+26	hou	_	_	_	_	_	_	_	_
+27	op	_	_	_	_	_	_	_	_
+28	ons	_	_	_	_	_	_	_	_
+29	taak	_	_	_	_	_	_	_	_
+30	om	_	_	_	_	_	_	_	_
+31	soveel	_	_	_	_	_	_	_	_
+32	moontlik	_	_	_	_	_	_	_	_
+33	van	_	_	_	_	_	_	_	_
+34	ons	_	_	_	_	_	_	_	_
+35	mense	_	_	_	_	_	_	_	_
+36	van	_	_	_	_	_	_	_	_
+37	hulle	_	_	_	_	_	_	_	_
+38	afhanklikheid	_	_	_	_	_	_	_	_
+39	van	_	_	_	_	_	_	_	_
+40	maatskaplike	_	_	_	_	_	_	_	_
+41	toelaes	_	_	_	_	_	_	_	_
+42	te	_	_	_	_	_	_	_	_
+43	speen	_	_	_	_	_	_	_	_
+44	en	_	_	_	_	_	_	_	_
+45	hulle	_	_	_	_	_	_	_	_
+46	tot	_	_	_	_	_	_	_	_
+47	die	_	_	_	_	_	_	_	_
+48	arbeidsmark	_	_	_	_	_	_	_	_
+49	te	_	_	_	_	_	_	_	_
+50	laat	_	_	_	_	_	_	_	_
+51	toetree	_	_	_	_	_	_	_	_
+52	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-s122
+# text = Ons het gesê hulle moet sportsentrums en beter inkopiesentrums hê soos dié in die stede.
+# org_sent_id = 1862
+1	Ons	_	_	_	_	_	_	_	_
+2	het	_	_	_	_	_	_	_	_
+3	gesê	_	_	_	_	_	_	_	_
+4	hulle	_	_	_	_	_	_	_	_
+5	moet	_	_	_	_	_	_	_	_
+6	sportsentrums	_	_	_	_	_	_	_	_
+7	en	_	_	_	_	_	_	_	_
+8	beter	_	_	_	_	_	_	_	_
+9	inkopiesentrums	_	_	_	_	_	_	_	_
+10	hê	_	_	_	_	_	_	_	_
+11	soos	_	_	_	_	_	_	_	_
+12	dié	_	_	_	_	_	_	_	_
+13	in	_	_	_	_	_	_	_	_
+14	die	_	_	_	_	_	_	_	_
+15	stede	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s9
+# text = Hierdie lewensgebeure is verder in kategorieë volgens lewensfases ingedeel.
+# org_sent_id = 9
+1	Hierdie	_	_	_	_	_	_	_	_
+2	lewensgebeure	_	_	_	_	_	_	_	_
+3	is	_	_	_	_	_	_	_	_
+4	verder	_	_	_	_	_	_	_	_
+5	in	_	_	_	_	_	_	_	_
+6	kategorieë	_	_	_	_	_	_	_	_
+7	volgens	_	_	_	_	_	_	_	_
+8	lewensfases	_	_	_	_	_	_	_	_
+9	ingedeel	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s572
+# text = As jy 'n ongeregistreerde entstof vir proewe na Suid-Afrika wil invoer, moet jy twee permitte hê.
+# org_sent_id = 572
+1	As	_	_	_	_	_	_	_	_
+2	jy	_	_	_	_	_	_	_	_
+3	'n	_	_	_	_	_	_	_	_
+4	ongeregistreerde	_	_	_	_	_	_	_	_
+5	entstof	_	_	_	_	_	_	_	_
+6	vir	_	_	_	_	_	_	_	_
+7	proewe	_	_	_	_	_	_	_	_
+8	na	_	_	_	_	_	_	_	_
+9	Suid-Afrika	_	_	_	_	_	_	_	_
+10	wil	_	_	_	_	_	_	_	_
+11	invoer	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	moet	_	_	_	_	_	_	_	_
+14	jy	_	_	_	_	_	_	_	_
+15	twee	_	_	_	_	_	_	_	_
+16	permitte	_	_	_	_	_	_	_	_
+17	hê	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s142
+# text = Die wetlik aangewese persoon, wat verkieslik die registrateur se kontakpersoon by die maatskappy moet wees, moet die aansoekvorms teken.
+# org_sent_id = 142
+1	Die	_	_	_	_	_	_	_	_
+2	wetlik	_	_	_	_	_	_	_	_
+3	aangewese	_	_	_	_	_	_	_	_
+4	persoon	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	wat	_	_	_	_	_	_	_	_
+7	verkieslik	_	_	_	_	_	_	_	_
+8	die	_	_	_	_	_	_	_	_
+9	registrateur	_	_	_	_	_	_	_	_
+10	se	_	_	_	_	_	_	_	_
+11	kontakpersoon	_	_	_	_	_	_	_	_
+12	by	_	_	_	_	_	_	_	_
+13	die	_	_	_	_	_	_	_	_
+14	maatskappy	_	_	_	_	_	_	_	_
+15	moet	_	_	_	_	_	_	_	_
+16	wees	_	_	_	_	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	moet	_	_	_	_	_	_	_	_
+19	die	_	_	_	_	_	_	_	_
+20	aansoekvorms	_	_	_	_	_	_	_	_
+21	teken	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s632
+# text = As privaat grond onwettig beset word en daar wel spesiale omstandighede bestaan, kan die grondeienaar die plaaslike munisipaliteit van daardie gebied of, indien nodig, die provinsiale of nasionale Departement van Behuising om hulp vra as die besetters die grond beset omdat hulle behuising nodig het.
+# org_sent_id = 632
+1	As	_	_	_	_	_	_	_	_
+2	privaat	_	_	_	_	_	_	_	_
+3	grond	_	_	_	_	_	_	_	_
+4	onwettig	_	_	_	_	_	_	_	_
+5	beset	_	_	_	_	_	_	_	_
+6	word	_	_	_	_	_	_	_	_
+7	en	_	_	_	_	_	_	_	_
+8	daar	_	_	_	_	_	_	_	_
+9	wel	_	_	_	_	_	_	_	_
+10	spesiale	_	_	_	_	_	_	_	_
+11	omstandighede	_	_	_	_	_	_	_	_
+12	bestaan	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	kan	_	_	_	_	_	_	_	_
+15	die	_	_	_	_	_	_	_	_
+16	grondeienaar	_	_	_	_	_	_	_	_
+17	die	_	_	_	_	_	_	_	_
+18	plaaslike	_	_	_	_	_	_	_	_
+19	munisipaliteit	_	_	_	_	_	_	_	_
+20	van	_	_	_	_	_	_	_	_
+21	daardie	_	_	_	_	_	_	_	_
+22	gebied	_	_	_	_	_	_	_	_
+23	of	_	_	_	_	_	_	_	_
+24	,	_	_	_	_	_	_	_	_
+25	indien	_	_	_	_	_	_	_	_
+26	nodig	_	_	_	_	_	_	_	_
+27	,	_	_	_	_	_	_	_	_
+28	die	_	_	_	_	_	_	_	_
+29	provinsiale	_	_	_	_	_	_	_	_
+30	of	_	_	_	_	_	_	_	_
+31	nasionale	_	_	_	_	_	_	_	_
+32	Departement	_	_	_	_	_	_	_	_
+33	van	_	_	_	_	_	_	_	_
+34	Behuising	_	_	_	_	_	_	_	_
+35	om	_	_	_	_	_	_	_	_
+36	hulp	_	_	_	_	_	_	_	_
+37	vra	_	_	_	_	_	_	_	_
+38	as	_	_	_	_	_	_	_	_
+39	die	_	_	_	_	_	_	_	_
+40	besetters	_	_	_	_	_	_	_	_
+41	die	_	_	_	_	_	_	_	_
+42	grond	_	_	_	_	_	_	_	_
+43	beset	_	_	_	_	_	_	_	_
+44	omdat	_	_	_	_	_	_	_	_
+45	hulle	_	_	_	_	_	_	_	_
+46	behuising	_	_	_	_	_	_	_	_
+47	nodig	_	_	_	_	_	_	_	_
+48	het	_	_	_	_	_	_	_	_
+49	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-s160
+# text = Ons kan mev Buziwe Ngaleka van Mount Frere hier noem, wie se oproep oor haar oorlede man se pensioen die eerste oproep was wat ons op die eerste dag van die klagtelyn geneem het.
+# org_sent_id = 1900
+1	Ons	_	_	_	_	_	_	_	_
+2	kan	_	_	_	_	_	_	_	_
+3	mev	_	_	_	_	_	_	_	_
+4	Buziwe	_	_	_	_	_	_	_	_
+5	Ngaleka	_	_	_	_	_	_	_	_
+6	van	_	_	_	_	_	_	_	_
+7	Mount	_	_	_	_	_	_	_	_
+8	Frere	_	_	_	_	_	_	_	_
+9	hier	_	_	_	_	_	_	_	_
+10	noem	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	wie	_	_	_	_	_	_	_	_
+13	se	_	_	_	_	_	_	_	_
+14	oproep	_	_	_	_	_	_	_	_
+15	oor	_	_	_	_	_	_	_	_
+16	haar	_	_	_	_	_	_	_	_
+17	oorlede	_	_	_	_	_	_	_	_
+18	man	_	_	_	_	_	_	_	_
+19	se	_	_	_	_	_	_	_	_
+20	pensioen	_	_	_	_	_	_	_	_
+21	die	_	_	_	_	_	_	_	_
+22	eerste	_	_	_	_	_	_	_	_
+23	oproep	_	_	_	_	_	_	_	_
+24	was	_	_	_	_	_	_	_	_
+25	wat	_	_	_	_	_	_	_	_
+26	ons	_	_	_	_	_	_	_	_
+27	op	_	_	_	_	_	_	_	_
+28	die	_	_	_	_	_	_	_	_
+29	eerste	_	_	_	_	_	_	_	_
+30	dag	_	_	_	_	_	_	_	_
+31	van	_	_	_	_	_	_	_	_
+32	die	_	_	_	_	_	_	_	_
+33	klagtelyn	_	_	_	_	_	_	_	_
+34	geneem	_	_	_	_	_	_	_	_
+35	het	_	_	_	_	_	_	_	_
+36	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-s333
+# text = Ek het 'n oomblik geneem om te rus, om vlugtig na die roemryke vista rondom my te kyk, om terug te kyk oor die afstand wat ek al afgelÃª het.
+# org_sent_id = 1461
+1	Ek	_	_	_	_	_	_	_	_
+2	het	_	_	_	_	_	_	_	_
+3	'n	_	_	_	_	_	_	_	_
+4	oomblik	_	_	_	_	_	_	_	_
+5	geneem	_	_	_	_	_	_	_	_
+6	om	_	_	_	_	_	_	_	_
+7	te	_	_	_	_	_	_	_	_
+8	rus	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	om	_	_	_	_	_	_	_	_
+11	vlugtig	_	_	_	_	_	_	_	_
+12	na	_	_	_	_	_	_	_	_
+13	die	_	_	_	_	_	_	_	_
+14	roemryke	_	_	_	_	_	_	_	_
+15	vista	_	_	_	_	_	_	_	_
+16	rondom	_	_	_	_	_	_	_	_
+17	my	_	_	_	_	_	_	_	_
+18	te	_	_	_	_	_	_	_	_
+19	kyk	_	_	_	_	_	_	_	_
+20	,	_	_	_	_	_	_	_	_
+21	om	_	_	_	_	_	_	_	_
+22	terug	_	_	_	_	_	_	_	_
+23	te	_	_	_	_	_	_	_	_
+24	kyk	_	_	_	_	_	_	_	_
+25	oor	_	_	_	_	_	_	_	_
+26	die	_	_	_	_	_	_	_	_
+27	afstand	_	_	_	_	_	_	_	_
+28	wat	_	_	_	_	_	_	_	_
+29	ek	_	_	_	_	_	_	_	_
+30	al	_	_	_	_	_	_	_	_
+31	afgelÃª	_	_	_	_	_	_	_	_
+32	het	_	_	_	_	_	_	_	_
+33	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-s348
+# text = Maar tog is ons belangrikste en noodsaaklikste taak om die algehele gevolge van hierdie verwikkelinge op ons eie ekonomie en ons streek behoorlik te verstaan, en om antwoorde te vind wat die impak daarvan sal beperk, veral op die kwesbaarste sektore van ons samelewing.
+# org_sent_id = 1476
+1	Maar	_	_	_	_	_	_	_	_
+2	tog	_	_	_	_	_	_	_	_
+3	is	_	_	_	_	_	_	_	_
+4	ons	_	_	_	_	_	_	_	_
+5	belangrikste	_	_	_	_	_	_	_	_
+6	en	_	_	_	_	_	_	_	_
+7	noodsaaklikste	_	_	_	_	_	_	_	_
+8	taak	_	_	_	_	_	_	_	_
+9	om	_	_	_	_	_	_	_	_
+10	die	_	_	_	_	_	_	_	_
+11	algehele	_	_	_	_	_	_	_	_
+12	gevolge	_	_	_	_	_	_	_	_
+13	van	_	_	_	_	_	_	_	_
+14	hierdie	_	_	_	_	_	_	_	_
+15	verwikkelinge	_	_	_	_	_	_	_	_
+16	op	_	_	_	_	_	_	_	_
+17	ons	_	_	_	_	_	_	_	_
+18	eie	_	_	_	_	_	_	_	_
+19	ekonomie	_	_	_	_	_	_	_	_
+20	en	_	_	_	_	_	_	_	_
+21	ons	_	_	_	_	_	_	_	_
+22	streek	_	_	_	_	_	_	_	_
+23	behoorlik	_	_	_	_	_	_	_	_
+24	te	_	_	_	_	_	_	_	_
+25	verstaan	_	_	_	_	_	_	_	_
+26	,	_	_	_	_	_	_	_	_
+27	en	_	_	_	_	_	_	_	_
+28	om	_	_	_	_	_	_	_	_
+29	antwoorde	_	_	_	_	_	_	_	_
+30	te	_	_	_	_	_	_	_	_
+31	vind	_	_	_	_	_	_	_	_
+32	wat	_	_	_	_	_	_	_	_
+33	die	_	_	_	_	_	_	_	_
+34	impak	_	_	_	_	_	_	_	_
+35	daarvan	_	_	_	_	_	_	_	_
+36	sal	_	_	_	_	_	_	_	_
+37	beperk	_	_	_	_	_	_	_	_
+38	,	_	_	_	_	_	_	_	_
+39	veral	_	_	_	_	_	_	_	_
+40	op	_	_	_	_	_	_	_	_
+41	die	_	_	_	_	_	_	_	_
+42	kwesbaarste	_	_	_	_	_	_	_	_
+43	sektore	_	_	_	_	_	_	_	_
+44	van	_	_	_	_	_	_	_	_
+45	ons	_	_	_	_	_	_	_	_
+46	samelewing	_	_	_	_	_	_	_	_
+47	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s60
+# text = In die geval van 'n maatskappy of beslote korporasie (BK) kan enige belanghebbende party, direkteur of ouditeur van die maatskappy, die Suid-Afrikaanse Inkomstediens (SAID) of die Registrateur van Maatskappye om die deregistrasie van 'n maatskappy of BK aansoek doen.
+# org_sent_id = 60
+1	In	_	_	_	_	_	_	_	_
+2	die	_	_	_	_	_	_	_	_
+3	geval	_	_	_	_	_	_	_	_
+4	van	_	_	_	_	_	_	_	_
+5	'n	_	_	_	_	_	_	_	_
+6	maatskappy	_	_	_	_	_	_	_	_
+7	of	_	_	_	_	_	_	_	_
+8	beslote	_	_	_	_	_	_	_	_
+9	korporasie	_	_	_	_	_	_	_	_
+10	(	_	_	_	_	_	_	_	_
+11	BK	_	_	_	_	_	_	_	_
+12	)	_	_	_	_	_	_	_	_
+13	kan	_	_	_	_	_	_	_	_
+14	enige	_	_	_	_	_	_	_	_
+15	belanghebbende	_	_	_	_	_	_	_	_
+16	party	_	_	_	_	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	direkteur	_	_	_	_	_	_	_	_
+19	of	_	_	_	_	_	_	_	_
+20	ouditeur	_	_	_	_	_	_	_	_
+21	van	_	_	_	_	_	_	_	_
+22	die	_	_	_	_	_	_	_	_
+23	maatskappy	_	_	_	_	_	_	_	_
+24	,	_	_	_	_	_	_	_	_
+25	die	_	_	_	_	_	_	_	_
+26	Suid-Afrikaanse	_	_	_	_	_	_	_	_
+27	Inkomstediens	_	_	_	_	_	_	_	_
+28	(	_	_	_	_	_	_	_	_
+29	SAID	_	_	_	_	_	_	_	_
+30	)	_	_	_	_	_	_	_	_
+31	of	_	_	_	_	_	_	_	_
+32	die	_	_	_	_	_	_	_	_
+33	Registrateur	_	_	_	_	_	_	_	_
+34	van	_	_	_	_	_	_	_	_
+35	Maatskappye	_	_	_	_	_	_	_	_
+36	om	_	_	_	_	_	_	_	_
+37	die	_	_	_	_	_	_	_	_
+38	deregistrasie	_	_	_	_	_	_	_	_
+39	van	_	_	_	_	_	_	_	_
+40	'n	_	_	_	_	_	_	_	_
+41	maatskappy	_	_	_	_	_	_	_	_
+42	of	_	_	_	_	_	_	_	_
+43	BK	_	_	_	_	_	_	_	_
+44	aansoek	_	_	_	_	_	_	_	_
+45	doen	_	_	_	_	_	_	_	_
+46	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s1272
+# text = Dit sluit in aangeleenthede ten opsigte van die Grondwet, sekuriteit, media en verkiesingswette, en ander aangeleenthede wat vir baie jare reeds twispunte was.
+# org_sent_id = 1272
+1	Dit	_	_	_	_	_	_	_	_
+2	sluit	_	_	_	_	_	_	_	_
+3	in	_	_	_	_	_	_	_	_
+4	aangeleenthede	_	_	_	_	_	_	_	_
+5	ten	_	_	_	_	_	_	_	_
+6	opsigte	_	_	_	_	_	_	_	_
+7	van	_	_	_	_	_	_	_	_
+8	die	_	_	_	_	_	_	_	_
+9	Grondwet	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	sekuriteit	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	media	_	_	_	_	_	_	_	_
+14	en	_	_	_	_	_	_	_	_
+15	verkiesingswette	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	en	_	_	_	_	_	_	_	_
+18	ander	_	_	_	_	_	_	_	_
+19	aangeleenthede	_	_	_	_	_	_	_	_
+20	wat	_	_	_	_	_	_	_	_
+21	vir	_	_	_	_	_	_	_	_
+22	baie	_	_	_	_	_	_	_	_
+23	jare	_	_	_	_	_	_	_	_
+24	reeds	_	_	_	_	_	_	_	_
+25	twispunte	_	_	_	_	_	_	_	_
+26	was	_	_	_	_	_	_	_	_
+27	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-s411
+# text = Ons wil graag van die geleentheid gebruik maak om die mense en leierskorps van ZambiÃ«, Ghana en die Verenigde State van Amerika geluk te wens met verkiesings wat simbolies die nougesette grense van hul lande oorgesteek het.
+# org_sent_id = 1539
+1	Ons	_	_	_	_	_	_	_	_
+2	wil	_	_	_	_	_	_	_	_
+3	graag	_	_	_	_	_	_	_	_
+4	van	_	_	_	_	_	_	_	_
+5	die	_	_	_	_	_	_	_	_
+6	geleentheid	_	_	_	_	_	_	_	_
+7	gebruik	_	_	_	_	_	_	_	_
+8	maak	_	_	_	_	_	_	_	_
+9	om	_	_	_	_	_	_	_	_
+10	die	_	_	_	_	_	_	_	_
+11	mense	_	_	_	_	_	_	_	_
+12	en	_	_	_	_	_	_	_	_
+13	leierskorps	_	_	_	_	_	_	_	_
+14	van	_	_	_	_	_	_	_	_
+15	ZambiÃ«	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	Ghana	_	_	_	_	_	_	_	_
+18	en	_	_	_	_	_	_	_	_
+19	die	_	_	_	_	_	_	_	_
+20	Verenigde	_	_	_	_	_	_	_	_
+21	State	_	_	_	_	_	_	_	_
+22	van	_	_	_	_	_	_	_	_
+23	Amerika	_	_	_	_	_	_	_	_
+24	geluk	_	_	_	_	_	_	_	_
+25	te	_	_	_	_	_	_	_	_
+26	wens	_	_	_	_	_	_	_	_
+27	met	_	_	_	_	_	_	_	_
+28	verkiesings	_	_	_	_	_	_	_	_
+29	wat	_	_	_	_	_	_	_	_
+30	simbolies	_	_	_	_	_	_	_	_
+31	die	_	_	_	_	_	_	_	_
+32	nougesette	_	_	_	_	_	_	_	_
+33	grense	_	_	_	_	_	_	_	_
+34	van	_	_	_	_	_	_	_	_
+35	hul	_	_	_	_	_	_	_	_
+36	lande	_	_	_	_	_	_	_	_
+37	oorgesteek	_	_	_	_	_	_	_	_
+38	het	_	_	_	_	_	_	_	_
+39	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s471
+# text = Alle leerders hoef nie terselfdertyd en op dieselfde manier geassesseer te word nie.
+# org_sent_id = 471
+1	Alle	_	_	_	_	_	_	_	_
+2	leerders	_	_	_	_	_	_	_	_
+3	hoef	_	_	_	_	_	_	_	_
+4	nie	_	_	_	_	_	_	_	_
+5	terselfdertyd	_	_	_	_	_	_	_	_
+6	en	_	_	_	_	_	_	_	_
+7	op	_	_	_	_	_	_	_	_
+8	dieselfde	_	_	_	_	_	_	_	_
+9	manier	_	_	_	_	_	_	_	_
+10	geassesseer	_	_	_	_	_	_	_	_
+11	te	_	_	_	_	_	_	_	_
+12	word	_	_	_	_	_	_	_	_
+13	nie	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s908
+# text = Hierdie en baie ander inisiatiewe is deel van 'n omvattende passasiersvervoerstrategie wat pad en spoor kombineer.
+# org_sent_id = 908
+1	Hierdie	_	_	_	_	_	_	_	_
+2	en	_	_	_	_	_	_	_	_
+3	baie	_	_	_	_	_	_	_	_
+4	ander	_	_	_	_	_	_	_	_
+5	inisiatiewe	_	_	_	_	_	_	_	_
+6	is	_	_	_	_	_	_	_	_
+7	deel	_	_	_	_	_	_	_	_
+8	van	_	_	_	_	_	_	_	_
+9	'n	_	_	_	_	_	_	_	_
+10	omvattende	_	_	_	_	_	_	_	_
+11	passasiersvervoerstrategie	_	_	_	_	_	_	_	_
+12	wat	_	_	_	_	_	_	_	_
+13	pad	_	_	_	_	_	_	_	_
+14	en	_	_	_	_	_	_	_	_
+15	spoor	_	_	_	_	_	_	_	_
+16	kombineer	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s838
+# text = Dit stel Suid-Afrikaners wat ingevolge buitelandse jurisdiksie gearresteer is, aangehou word of in gevangenskap verkeer in staat om te verstaan wat hulle regte is en watter dienste die Suid-Afrikaanse regering hulle bied.
+# org_sent_id = 838
+1	Dit	_	_	_	_	_	_	_	_
+2	stel	_	_	_	_	_	_	_	_
+3	Suid-Afrikaners	_	_	_	_	_	_	_	_
+4	wat	_	_	_	_	_	_	_	_
+5	ingevolge	_	_	_	_	_	_	_	_
+6	buitelandse	_	_	_	_	_	_	_	_
+7	jurisdiksie	_	_	_	_	_	_	_	_
+8	gearresteer	_	_	_	_	_	_	_	_
+9	is	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	aangehou	_	_	_	_	_	_	_	_
+12	word	_	_	_	_	_	_	_	_
+13	of	_	_	_	_	_	_	_	_
+14	in	_	_	_	_	_	_	_	_
+15	gevangenskap	_	_	_	_	_	_	_	_
+16	verkeer	_	_	_	_	_	_	_	_
+17	in	_	_	_	_	_	_	_	_
+18	staat	_	_	_	_	_	_	_	_
+19	om	_	_	_	_	_	_	_	_
+20	te	_	_	_	_	_	_	_	_
+21	verstaan	_	_	_	_	_	_	_	_
+22	wat	_	_	_	_	_	_	_	_
+23	hulle	_	_	_	_	_	_	_	_
+24	regte	_	_	_	_	_	_	_	_
+25	is	_	_	_	_	_	_	_	_
+26	en	_	_	_	_	_	_	_	_
+27	watter	_	_	_	_	_	_	_	_
+28	dienste	_	_	_	_	_	_	_	_
+29	die	_	_	_	_	_	_	_	_
+30	Suid-Afrikaanse	_	_	_	_	_	_	_	_
+31	regering	_	_	_	_	_	_	_	_
+32	hulle	_	_	_	_	_	_	_	_
+33	bied	_	_	_	_	_	_	_	_
+34	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-s76
+# text = Ons verwelkom verlede maand se verklaring deur die drie onderwysersvakbonde, NAPTOSA, SADTU en SAOU, waarin hulle hulle vanaf die begin van 2010 herverbind het tot die Kwaliteit Leer- en Onderrigveldtog.
+# org_sent_id = 1816
+1	Ons	_	_	_	_	_	_	_	_
+2	verwelkom	_	_	_	_	_	_	_	_
+3	verlede	_	_	_	_	_	_	_	_
+4	maand	_	_	_	_	_	_	_	_
+5	se	_	_	_	_	_	_	_	_
+6	verklaring	_	_	_	_	_	_	_	_
+7	deur	_	_	_	_	_	_	_	_
+8	die	_	_	_	_	_	_	_	_
+9	drie	_	_	_	_	_	_	_	_
+10	onderwysersvakbonde	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	NAPTOSA	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	SADTU	_	_	_	_	_	_	_	_
+15	en	_	_	_	_	_	_	_	_
+16	SAOU	_	_	_	_	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	waarin	_	_	_	_	_	_	_	_
+19	hulle	_	_	_	_	_	_	_	_
+20	hulle	_	_	_	_	_	_	_	_
+21	vanaf	_	_	_	_	_	_	_	_
+22	die	_	_	_	_	_	_	_	_
+23	begin	_	_	_	_	_	_	_	_
+24	van	_	_	_	_	_	_	_	_
+25	2010	_	_	_	_	_	_	_	_
+26	herverbind	_	_	_	_	_	_	_	_
+27	het	_	_	_	_	_	_	_	_
+28	tot	_	_	_	_	_	_	_	_
+29	die	_	_	_	_	_	_	_	_
+30	Kwaliteit	_	_	_	_	_	_	_	_
+31	Leer-	_	_	_	_	_	_	_	_
+32	en	_	_	_	_	_	_	_	_
+33	Onderrigveldtog	_	_	_	_	_	_	_	_
+34	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s685
+# text = Voorlopige belasting is bedoel om belastingbetalers te help om hulle belastingverpligtinge op 'n deurlopende basis na te kom in plaas daarvan om een maal per jaar 'n groot bedrag te moet betaal wanneer hulle aangeslaan word.
+# org_sent_id = 685
+1	Voorlopige	_	_	_	_	_	_	_	_
+2	belasting	_	_	_	_	_	_	_	_
+3	is	_	_	_	_	_	_	_	_
+4	bedoel	_	_	_	_	_	_	_	_
+5	om	_	_	_	_	_	_	_	_
+6	belastingbetalers	_	_	_	_	_	_	_	_
+7	te	_	_	_	_	_	_	_	_
+8	help	_	_	_	_	_	_	_	_
+9	om	_	_	_	_	_	_	_	_
+10	hulle	_	_	_	_	_	_	_	_
+11	belastingverpligtinge	_	_	_	_	_	_	_	_
+12	op	_	_	_	_	_	_	_	_
+13	'n	_	_	_	_	_	_	_	_
+14	deurlopende	_	_	_	_	_	_	_	_
+15	basis	_	_	_	_	_	_	_	_
+16	na	_	_	_	_	_	_	_	_
+17	te	_	_	_	_	_	_	_	_
+18	kom	_	_	_	_	_	_	_	_
+19	in	_	_	_	_	_	_	_	_
+20	plaas	_	_	_	_	_	_	_	_
+21	daarvan	_	_	_	_	_	_	_	_
+22	om	_	_	_	_	_	_	_	_
+23	een	_	_	_	_	_	_	_	_
+24	maal	_	_	_	_	_	_	_	_
+25	per	_	_	_	_	_	_	_	_
+26	jaar	_	_	_	_	_	_	_	_
+27	'n	_	_	_	_	_	_	_	_
+28	groot	_	_	_	_	_	_	_	_
+29	bedrag	_	_	_	_	_	_	_	_
+30	te	_	_	_	_	_	_	_	_
+31	moet	_	_	_	_	_	_	_	_
+32	betaal	_	_	_	_	_	_	_	_
+33	wanneer	_	_	_	_	_	_	_	_
+34	hulle	_	_	_	_	_	_	_	_
+35	aangeslaan	_	_	_	_	_	_	_	_
+36	word	_	_	_	_	_	_	_	_
+37	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s1134
+# text = Ons maan alle huishoudings wat dit kan bekostig om dit te oorweeg om onmiddellik hierdie energiebesparingsmaatreëls te implementeer.
+# org_sent_id = 1134
+1	Ons	_	_	_	_	_	_	_	_
+2	maan	_	_	_	_	_	_	_	_
+3	alle	_	_	_	_	_	_	_	_
+4	huishoudings	_	_	_	_	_	_	_	_
+5	wat	_	_	_	_	_	_	_	_
+6	dit	_	_	_	_	_	_	_	_
+7	kan	_	_	_	_	_	_	_	_
+8	bekostig	_	_	_	_	_	_	_	_
+9	om	_	_	_	_	_	_	_	_
+10	dit	_	_	_	_	_	_	_	_
+11	te	_	_	_	_	_	_	_	_
+12	oorweeg	_	_	_	_	_	_	_	_
+13	om	_	_	_	_	_	_	_	_
+14	onmiddellik	_	_	_	_	_	_	_	_
+15	hierdie	_	_	_	_	_	_	_	_
+16	energiebesparingsmaatreëls	_	_	_	_	_	_	_	_
+17	te	_	_	_	_	_	_	_	_
+18	implementeer	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s1087
+# text = Die Regering het dus 'n oorsig gedoen van die vordering wat gemaak is met betrekking tot die implementering van die mandaat wat deur die mense gegee is in 2004.
+# org_sent_id = 1087
+1	Die	_	_	_	_	_	_	_	_
+2	Regering	_	_	_	_	_	_	_	_
+3	het	_	_	_	_	_	_	_	_
+4	dus	_	_	_	_	_	_	_	_
+5	'n	_	_	_	_	_	_	_	_
+6	oorsig	_	_	_	_	_	_	_	_
+7	gedoen	_	_	_	_	_	_	_	_
+8	van	_	_	_	_	_	_	_	_
+9	die	_	_	_	_	_	_	_	_
+10	vordering	_	_	_	_	_	_	_	_
+11	wat	_	_	_	_	_	_	_	_
+12	gemaak	_	_	_	_	_	_	_	_
+13	is	_	_	_	_	_	_	_	_
+14	met	_	_	_	_	_	_	_	_
+15	betrekking	_	_	_	_	_	_	_	_
+16	tot	_	_	_	_	_	_	_	_
+17	die	_	_	_	_	_	_	_	_
+18	implementering	_	_	_	_	_	_	_	_
+19	van	_	_	_	_	_	_	_	_
+20	die	_	_	_	_	_	_	_	_
+21	mandaat	_	_	_	_	_	_	_	_
+22	wat	_	_	_	_	_	_	_	_
+23	deur	_	_	_	_	_	_	_	_
+24	die	_	_	_	_	_	_	_	_
+25	mense	_	_	_	_	_	_	_	_
+26	gegee	_	_	_	_	_	_	_	_
+27	is	_	_	_	_	_	_	_	_
+28	in	_	_	_	_	_	_	_	_
+29	2004	_	_	_	_	_	_	_	_
+30	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-s107
+# text = Dit het waardevolle insig in die uitdagings op die terrein van plaaslike regering gebied.
+# org_sent_id = 1847
+1	Dit	_	_	_	_	_	_	_	_
+2	het	_	_	_	_	_	_	_	_
+3	waardevolle	_	_	_	_	_	_	_	_
+4	insig	_	_	_	_	_	_	_	_
+5	in	_	_	_	_	_	_	_	_
+6	die	_	_	_	_	_	_	_	_
+7	uitdagings	_	_	_	_	_	_	_	_
+8	op	_	_	_	_	_	_	_	_
+9	die	_	_	_	_	_	_	_	_
+10	terrein	_	_	_	_	_	_	_	_
+11	van	_	_	_	_	_	_	_	_
+12	plaaslike	_	_	_	_	_	_	_	_
+13	regering	_	_	_	_	_	_	_	_
+14	gebied	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s1204
+# text = Sommige van die belangrikste intervensies is: die uitbreiding van die openbare werke-program, werksubsidies vir direkte werkskepping vir geoogmerkte groepe, verbetering van werksoekvermoë, verbetering van onderwys en opleiding, verbetering van dienste aan en bates van arm gemeenskappe, spesifieke ingrypings in arm huishoudings, en om die doeltreffendheid te verseker van instellings wat vroue en ander sektore ondersteun.
+# org_sent_id = 1204
+1	Sommige	_	_	_	_	_	_	_	_
+2	van	_	_	_	_	_	_	_	_
+3	die	_	_	_	_	_	_	_	_
+4	belangrikste	_	_	_	_	_	_	_	_
+5	intervensies	_	_	_	_	_	_	_	_
+6	is	_	_	_	_	_	_	_	_
+7	:	_	_	_	_	_	_	_	_
+8	die	_	_	_	_	_	_	_	_
+9	uitbreiding	_	_	_	_	_	_	_	_
+10	van	_	_	_	_	_	_	_	_
+11	die	_	_	_	_	_	_	_	_
+12	openbare	_	_	_	_	_	_	_	_
+13	werke-program	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	werksubsidies	_	_	_	_	_	_	_	_
+16	vir	_	_	_	_	_	_	_	_
+17	direkte	_	_	_	_	_	_	_	_
+18	werkskepping	_	_	_	_	_	_	_	_
+19	vir	_	_	_	_	_	_	_	_
+20	geoogmerkte	_	_	_	_	_	_	_	_
+21	groepe	_	_	_	_	_	_	_	_
+22	,	_	_	_	_	_	_	_	_
+23	verbetering	_	_	_	_	_	_	_	_
+24	van	_	_	_	_	_	_	_	_
+25	werksoekvermoë	_	_	_	_	_	_	_	_
+26	,	_	_	_	_	_	_	_	_
+27	verbetering	_	_	_	_	_	_	_	_
+28	van	_	_	_	_	_	_	_	_
+29	onderwys	_	_	_	_	_	_	_	_
+30	en	_	_	_	_	_	_	_	_
+31	opleiding	_	_	_	_	_	_	_	_
+32	,	_	_	_	_	_	_	_	_
+33	verbetering	_	_	_	_	_	_	_	_
+34	van	_	_	_	_	_	_	_	_
+35	dienste	_	_	_	_	_	_	_	_
+36	aan	_	_	_	_	_	_	_	_
+37	en	_	_	_	_	_	_	_	_
+38	bates	_	_	_	_	_	_	_	_
+39	van	_	_	_	_	_	_	_	_
+40	arm	_	_	_	_	_	_	_	_
+41	gemeenskappe	_	_	_	_	_	_	_	_
+42	,	_	_	_	_	_	_	_	_
+43	spesifieke	_	_	_	_	_	_	_	_
+44	ingrypings	_	_	_	_	_	_	_	_
+45	in	_	_	_	_	_	_	_	_
+46	arm	_	_	_	_	_	_	_	_
+47	huishoudings	_	_	_	_	_	_	_	_
+48	,	_	_	_	_	_	_	_	_
+49	en	_	_	_	_	_	_	_	_
+50	om	_	_	_	_	_	_	_	_
+51	die	_	_	_	_	_	_	_	_
+52	doeltreffendheid	_	_	_	_	_	_	_	_
+53	te	_	_	_	_	_	_	_	_
+54	verseker	_	_	_	_	_	_	_	_
+55	van	_	_	_	_	_	_	_	_
+56	instellings	_	_	_	_	_	_	_	_
+57	wat	_	_	_	_	_	_	_	_
+58	vroue	_	_	_	_	_	_	_	_
+59	en	_	_	_	_	_	_	_	_
+60	ander	_	_	_	_	_	_	_	_
+61	sektore	_	_	_	_	_	_	_	_
+62	ondersteun	_	_	_	_	_	_	_	_
+63	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-s367
+# text = Vierdens, sal die Regering maatskaplike besteding handhaaf en uitbrei, insluitend om toenemend die Kindersorgtoelae na kinders tot en met 18 jaar uit te brei en die ouderdom waarop mans geregtig is om ouderdomspensioen te ontvang na 60 jaar verminder.
+# org_sent_id = 1495
+1	Vierdens	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	sal	_	_	_	_	_	_	_	_
+4	die	_	_	_	_	_	_	_	_
+5	Regering	_	_	_	_	_	_	_	_
+6	maatskaplike	_	_	_	_	_	_	_	_
+7	besteding	_	_	_	_	_	_	_	_
+8	handhaaf	_	_	_	_	_	_	_	_
+9	en	_	_	_	_	_	_	_	_
+10	uitbrei	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	insluitend	_	_	_	_	_	_	_	_
+13	om	_	_	_	_	_	_	_	_
+14	toenemend	_	_	_	_	_	_	_	_
+15	die	_	_	_	_	_	_	_	_
+16	Kindersorgtoelae	_	_	_	_	_	_	_	_
+17	na	_	_	_	_	_	_	_	_
+18	kinders	_	_	_	_	_	_	_	_
+19	tot	_	_	_	_	_	_	_	_
+20	en	_	_	_	_	_	_	_	_
+21	met	_	_	_	_	_	_	_	_
+22	18	_	_	_	_	_	_	_	_
+23	jaar	_	_	_	_	_	_	_	_
+24	uit	_	_	_	_	_	_	_	_
+25	te	_	_	_	_	_	_	_	_
+26	brei	_	_	_	_	_	_	_	_
+27	en	_	_	_	_	_	_	_	_
+28	die	_	_	_	_	_	_	_	_
+29	ouderdom	_	_	_	_	_	_	_	_
+30	waarop	_	_	_	_	_	_	_	_
+31	mans	_	_	_	_	_	_	_	_
+32	geregtig	_	_	_	_	_	_	_	_
+33	is	_	_	_	_	_	_	_	_
+34	om	_	_	_	_	_	_	_	_
+35	ouderdomspensioen	_	_	_	_	_	_	_	_
+36	te	_	_	_	_	_	_	_	_
+37	ontvang	_	_	_	_	_	_	_	_
+38	na	_	_	_	_	_	_	_	_
+39	60	_	_	_	_	_	_	_	_
+40	jaar	_	_	_	_	_	_	_	_
+41	verminder	_	_	_	_	_	_	_	_
+42	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-s191
+# text = Dit is 'n ideaal waarvoor ek hoop om te lewe en te bereik.
+# org_sent_id = 1931
+1	Dit	_	_	_	_	_	_	_	_
+2	is	_	_	_	_	_	_	_	_
+3	'n	_	_	_	_	_	_	_	_
+4	ideaal	_	_	_	_	_	_	_	_
+5	waarvoor	_	_	_	_	_	_	_	_
+6	ek	_	_	_	_	_	_	_	_
+7	hoop	_	_	_	_	_	_	_	_
+8	om	_	_	_	_	_	_	_	_
+9	te	_	_	_	_	_	_	_	_
+10	lewe	_	_	_	_	_	_	_	_
+11	en	_	_	_	_	_	_	_	_
+12	te	_	_	_	_	_	_	_	_
+13	bereik	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-s16
+# text = Indien die gebruiker nie deur hierdie bepalings en voorwaardes gebind wil wees nie, mag die gebruiker hierdie webwerf nie besoek of die inhoud wat op hierdie webwerf beskikbaar is, vertoon, gebruik of aflaai en / of andersins kopieer of versprei nie.
+# org_sent_id = 1562
+1	Indien	_	_	_	_	_	_	_	_
+2	die	_	_	_	_	_	_	_	_
+3	gebruiker	_	_	_	_	_	_	_	_
+4	nie	_	_	_	_	_	_	_	_
+5	deur	_	_	_	_	_	_	_	_
+6	hierdie	_	_	_	_	_	_	_	_
+7	bepalings	_	_	_	_	_	_	_	_
+8	en	_	_	_	_	_	_	_	_
+9	voorwaardes	_	_	_	_	_	_	_	_
+10	gebind	_	_	_	_	_	_	_	_
+11	wil	_	_	_	_	_	_	_	_
+12	wees	_	_	_	_	_	_	_	_
+13	nie	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	mag	_	_	_	_	_	_	_	_
+16	die	_	_	_	_	_	_	_	_
+17	gebruiker	_	_	_	_	_	_	_	_
+18	hierdie	_	_	_	_	_	_	_	_
+19	webwerf	_	_	_	_	_	_	_	_
+20	nie	_	_	_	_	_	_	_	_
+21	besoek	_	_	_	_	_	_	_	_
+22	of	_	_	_	_	_	_	_	_
+23	die	_	_	_	_	_	_	_	_
+24	inhoud	_	_	_	_	_	_	_	_
+25	wat	_	_	_	_	_	_	_	_
+26	op	_	_	_	_	_	_	_	_
+27	hierdie	_	_	_	_	_	_	_	_
+28	webwerf	_	_	_	_	_	_	_	_
+29	beskikbaar	_	_	_	_	_	_	_	_
+30	is	_	_	_	_	_	_	_	_
+31	,	_	_	_	_	_	_	_	_
+32	vertoon	_	_	_	_	_	_	_	_
+33	,	_	_	_	_	_	_	_	_
+34	gebruik	_	_	_	_	_	_	_	_
+35	of	_	_	_	_	_	_	_	_
+36	aflaai	_	_	_	_	_	_	_	_
+37	en	_	_	_	_	_	_	_	_
+38	/	_	_	_	_	_	_	_	_
+39	of	_	_	_	_	_	_	_	_
+40	andersins	_	_	_	_	_	_	_	_
+41	kopieer	_	_	_	_	_	_	_	_
+42	of	_	_	_	_	_	_	_	_
+43	versprei	_	_	_	_	_	_	_	_
+44	nie	_	_	_	_	_	_	_	_
+45	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s149
+# text = Voortplantingsmateriaal van daardie variëteit nog nie vir langer as een jaar in Suid-Afrika verkoop word nie.
+# org_sent_id = 149
+1	Voortplantingsmateriaal	_	_	_	_	_	_	_	_
+2	van	_	_	_	_	_	_	_	_
+3	daardie	_	_	_	_	_	_	_	_
+4	variëteit	_	_	_	_	_	_	_	_
+5	nog	_	_	_	_	_	_	_	_
+6	nie	_	_	_	_	_	_	_	_
+7	vir	_	_	_	_	_	_	_	_
+8	langer	_	_	_	_	_	_	_	_
+9	as	_	_	_	_	_	_	_	_
+10	een	_	_	_	_	_	_	_	_
+11	jaar	_	_	_	_	_	_	_	_
+12	in	_	_	_	_	_	_	_	_
+13	Suid-Afrika	_	_	_	_	_	_	_	_
+14	verkoop	_	_	_	_	_	_	_	_
+15	word	_	_	_	_	_	_	_	_
+16	nie	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s91
+# text = Jou plaaslike hof sal vir jou kan sê by watter hof jy om onderhoud aansoek moet doen indien jy nie seker is nie.
+# org_sent_id = 91
+1	Jou	_	_	_	_	_	_	_	_
+2	plaaslike	_	_	_	_	_	_	_	_
+3	hof	_	_	_	_	_	_	_	_
+4	sal	_	_	_	_	_	_	_	_
+5	vir	_	_	_	_	_	_	_	_
+6	jou	_	_	_	_	_	_	_	_
+7	kan	_	_	_	_	_	_	_	_
+8	sê	_	_	_	_	_	_	_	_
+9	by	_	_	_	_	_	_	_	_
+10	watter	_	_	_	_	_	_	_	_
+11	hof	_	_	_	_	_	_	_	_
+12	jy	_	_	_	_	_	_	_	_
+13	om	_	_	_	_	_	_	_	_
+14	onderhoud	_	_	_	_	_	_	_	_
+15	aansoek	_	_	_	_	_	_	_	_
+16	moet	_	_	_	_	_	_	_	_
+17	doen	_	_	_	_	_	_	_	_
+18	indien	_	_	_	_	_	_	_	_
+19	jy	_	_	_	_	_	_	_	_
+20	nie	_	_	_	_	_	_	_	_
+21	seker	_	_	_	_	_	_	_	_
+22	is	_	_	_	_	_	_	_	_
+23	nie	_	_	_	_	_	_	_	_
+24	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s281
+# text = Wat gebeur indien ons 'n burgerlike huwelik wil aangaan nadat ons reeds volgens die gewoontereg getroud is?
+# org_sent_id = 281
+1	Wat	_	_	_	_	_	_	_	_
+2	gebeur	_	_	_	_	_	_	_	_
+3	indien	_	_	_	_	_	_	_	_
+4	ons	_	_	_	_	_	_	_	_
+5	'n	_	_	_	_	_	_	_	_
+6	burgerlike	_	_	_	_	_	_	_	_
+7	huwelik	_	_	_	_	_	_	_	_
+8	wil	_	_	_	_	_	_	_	_
+9	aangaan	_	_	_	_	_	_	_	_
+10	nadat	_	_	_	_	_	_	_	_
+11	ons	_	_	_	_	_	_	_	_
+12	reeds	_	_	_	_	_	_	_	_
+13	volgens	_	_	_	_	_	_	_	_
+14	die	_	_	_	_	_	_	_	_
+15	gewoontereg	_	_	_	_	_	_	_	_
+16	getroud	_	_	_	_	_	_	_	_
+17	is	_	_	_	_	_	_	_	_
+18	?	_	_	_	_	_	_	_	_
+
+# sent_id = train-s1190
+# text = In die lig van die traagheid waarmee die Regering aansoeke verwerk ten opsigte van beleggings met betrekking tot aangeleenthede soos grondverkryging, infrastruktuur en omgewingsimpakevaluerings- waarvan almal somtyds beleggers se besluite positief of negatief kan beïnvloed- het ons besluit, in die gees van "Besigheid Buitengewoon", om so gou moontlik 'n inbelsentrum op te rig sodat beleggers en die Regering hierdie prosesse kan moniteer.
+# org_sent_id = 1190
+1	In	_	_	_	_	_	_	_	_
+2	die	_	_	_	_	_	_	_	_
+3	lig	_	_	_	_	_	_	_	_
+4	van	_	_	_	_	_	_	_	_
+5	die	_	_	_	_	_	_	_	_
+6	traagheid	_	_	_	_	_	_	_	_
+7	waarmee	_	_	_	_	_	_	_	_
+8	die	_	_	_	_	_	_	_	_
+9	Regering	_	_	_	_	_	_	_	_
+10	aansoeke	_	_	_	_	_	_	_	_
+11	verwerk	_	_	_	_	_	_	_	_
+12	ten	_	_	_	_	_	_	_	_
+13	opsigte	_	_	_	_	_	_	_	_
+14	van	_	_	_	_	_	_	_	_
+15	beleggings	_	_	_	_	_	_	_	_
+16	met	_	_	_	_	_	_	_	_
+17	betrekking	_	_	_	_	_	_	_	_
+18	tot	_	_	_	_	_	_	_	_
+19	aangeleenthede	_	_	_	_	_	_	_	_
+20	soos	_	_	_	_	_	_	_	_
+21	grondverkryging	_	_	_	_	_	_	_	_
+22	,	_	_	_	_	_	_	_	_
+23	infrastruktuur	_	_	_	_	_	_	_	_
+24	en	_	_	_	_	_	_	_	_
+25	omgewingsimpakevaluerings	_	_	_	_	_	_	_	_
+26	-	_	_	_	_	_	_	_	_
+27	waarvan	_	_	_	_	_	_	_	_
+28	almal	_	_	_	_	_	_	_	_
+29	somtyds	_	_	_	_	_	_	_	_
+30	beleggers	_	_	_	_	_	_	_	_
+31	se	_	_	_	_	_	_	_	_
+32	besluite	_	_	_	_	_	_	_	_
+33	positief	_	_	_	_	_	_	_	_
+34	of	_	_	_	_	_	_	_	_
+35	negatief	_	_	_	_	_	_	_	_
+36	kan	_	_	_	_	_	_	_	_
+37	beïnvloed	_	_	_	_	_	_	_	_
+38	-	_	_	_	_	_	_	_	_
+39	het	_	_	_	_	_	_	_	_
+40	ons	_	_	_	_	_	_	_	_
+41	besluit	_	_	_	_	_	_	_	_
+42	,	_	_	_	_	_	_	_	_
+43	in	_	_	_	_	_	_	_	_
+44	die	_	_	_	_	_	_	_	_
+45	gees	_	_	_	_	_	_	_	_
+46	van	_	_	_	_	_	_	_	_
+47	"	_	_	_	_	_	_	_	_
+48	Besigheid	_	_	_	_	_	_	_	_
+49	Buitengewoon	_	_	_	_	_	_	_	_
+50	"	_	_	_	_	_	_	_	_
+51	,	_	_	_	_	_	_	_	_
+52	om	_	_	_	_	_	_	_	_
+53	so	_	_	_	_	_	_	_	_
+54	gou	_	_	_	_	_	_	_	_
+55	moontlik	_	_	_	_	_	_	_	_
+56	'n	_	_	_	_	_	_	_	_
+57	inbelsentrum	_	_	_	_	_	_	_	_
+58	op	_	_	_	_	_	_	_	_
+59	te	_	_	_	_	_	_	_	_
+60	rig	_	_	_	_	_	_	_	_
+61	sodat	_	_	_	_	_	_	_	_
+62	beleggers	_	_	_	_	_	_	_	_
+63	en	_	_	_	_	_	_	_	_
+64	die	_	_	_	_	_	_	_	_
+65	Regering	_	_	_	_	_	_	_	_
+66	hierdie	_	_	_	_	_	_	_	_
+67	prosesse	_	_	_	_	_	_	_	_
+68	kan	_	_	_	_	_	_	_	_
+69	moniteer	_	_	_	_	_	_	_	_
+70	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s989
+# text = Soos die agbare lede weet, het ons die getal skole waar geen skoolgeld betaalbaar is nie, ook beduidend verhoog.
+# org_sent_id = 989
+1	Soos	_	_	_	_	_	_	_	_
+2	die	_	_	_	_	_	_	_	_
+3	agbare	_	_	_	_	_	_	_	_
+4	lede	_	_	_	_	_	_	_	_
+5	weet	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	het	_	_	_	_	_	_	_	_
+8	ons	_	_	_	_	_	_	_	_
+9	die	_	_	_	_	_	_	_	_
+10	getal	_	_	_	_	_	_	_	_
+11	skole	_	_	_	_	_	_	_	_
+12	waar	_	_	_	_	_	_	_	_
+13	geen	_	_	_	_	_	_	_	_
+14	skoolgeld	_	_	_	_	_	_	_	_
+15	betaalbaar	_	_	_	_	_	_	_	_
+16	is	_	_	_	_	_	_	_	_
+17	nie	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	ook	_	_	_	_	_	_	_	_
+20	beduidend	_	_	_	_	_	_	_	_
+21	verhoog	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s497
+# text = Dit is ook nuttig vir rapportering oor leerderprestasie ten opsigte van assesseringstandaarde.
+# org_sent_id = 497
+1	Dit	_	_	_	_	_	_	_	_
+2	is	_	_	_	_	_	_	_	_
+3	ook	_	_	_	_	_	_	_	_
+4	nuttig	_	_	_	_	_	_	_	_
+5	vir	_	_	_	_	_	_	_	_
+6	rapportering	_	_	_	_	_	_	_	_
+7	oor	_	_	_	_	_	_	_	_
+8	leerderprestasie	_	_	_	_	_	_	_	_
+9	ten	_	_	_	_	_	_	_	_
+10	opsigte	_	_	_	_	_	_	_	_
+11	van	_	_	_	_	_	_	_	_
+12	assesseringstandaarde	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s840
+# text = Die frekwensie van die gevangenisbesoeke hang van die huidige beleid, die ligging, kultuur en wette van die staat wat die arres opgelê het, asook van die heersende veiligheidsituasie in die land en die gevangenis af.
+# org_sent_id = 840
+1	Die	_	_	_	_	_	_	_	_
+2	frekwensie	_	_	_	_	_	_	_	_
+3	van	_	_	_	_	_	_	_	_
+4	die	_	_	_	_	_	_	_	_
+5	gevangenisbesoeke	_	_	_	_	_	_	_	_
+6	hang	_	_	_	_	_	_	_	_
+7	van	_	_	_	_	_	_	_	_
+8	die	_	_	_	_	_	_	_	_
+9	huidige	_	_	_	_	_	_	_	_
+10	beleid	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	die	_	_	_	_	_	_	_	_
+13	ligging	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	kultuur	_	_	_	_	_	_	_	_
+16	en	_	_	_	_	_	_	_	_
+17	wette	_	_	_	_	_	_	_	_
+18	van	_	_	_	_	_	_	_	_
+19	die	_	_	_	_	_	_	_	_
+20	staat	_	_	_	_	_	_	_	_
+21	wat	_	_	_	_	_	_	_	_
+22	die	_	_	_	_	_	_	_	_
+23	arres	_	_	_	_	_	_	_	_
+24	opgelê	_	_	_	_	_	_	_	_
+25	het	_	_	_	_	_	_	_	_
+26	,	_	_	_	_	_	_	_	_
+27	asook	_	_	_	_	_	_	_	_
+28	van	_	_	_	_	_	_	_	_
+29	die	_	_	_	_	_	_	_	_
+30	heersende	_	_	_	_	_	_	_	_
+31	veiligheidsituasie	_	_	_	_	_	_	_	_
+32	in	_	_	_	_	_	_	_	_
+33	die	_	_	_	_	_	_	_	_
+34	land	_	_	_	_	_	_	_	_
+35	en	_	_	_	_	_	_	_	_
+36	die	_	_	_	_	_	_	_	_
+37	gevangenis	_	_	_	_	_	_	_	_
+38	af	_	_	_	_	_	_	_	_
+39	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-s18
+# text = Ons weet egter dat hierdie en ander maatreëls nie die uitwerkings van die resessie heeltemal kan temper nie.
+# org_sent_id = 1758
+1	Ons	_	_	_	_	_	_	_	_
+2	weet	_	_	_	_	_	_	_	_
+3	egter	_	_	_	_	_	_	_	_
+4	dat	_	_	_	_	_	_	_	_
+5	hierdie	_	_	_	_	_	_	_	_
+6	en	_	_	_	_	_	_	_	_
+7	ander	_	_	_	_	_	_	_	_
+8	maatreëls	_	_	_	_	_	_	_	_
+9	nie	_	_	_	_	_	_	_	_
+10	die	_	_	_	_	_	_	_	_
+11	uitwerkings	_	_	_	_	_	_	_	_
+12	van	_	_	_	_	_	_	_	_
+13	die	_	_	_	_	_	_	_	_
+14	resessie	_	_	_	_	_	_	_	_
+15	heeltemal	_	_	_	_	_	_	_	_
+16	kan	_	_	_	_	_	_	_	_
+17	temper	_	_	_	_	_	_	_	_
+18	nie	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-s29
+# text = Die GCIS ontken uitdruklik enige aanspreeklikheid ten opsigte van geïmpliseerde waarborge, met inbegrip van, maar nie beperk nie tot, waarborge oor bemarkbaarheid, titel, geskiktheid vir 'n bepaalde doel, nie-inbreukmaking, versoenbaarheid, sekuriteit en akkuraatheid, en maak geen uitdruklike of geïmpliseerde voorstelling of waarborg ten opsigte van die inhoud van die webwerf, of dat die webwerf só saamgestel is of sodanige inligting verskaf dat dit aan die gebruiker se individuele vereistes sal voldoen nie.
+# org_sent_id = 1575
+1	Die	_	_	_	_	_	_	_	_
+2	GCIS	_	_	_	_	_	_	_	_
+3	ontken	_	_	_	_	_	_	_	_
+4	uitdruklik	_	_	_	_	_	_	_	_
+5	enige	_	_	_	_	_	_	_	_
+6	aanspreeklikheid	_	_	_	_	_	_	_	_
+7	ten	_	_	_	_	_	_	_	_
+8	opsigte	_	_	_	_	_	_	_	_
+9	van	_	_	_	_	_	_	_	_
+10	geïmpliseerde	_	_	_	_	_	_	_	_
+11	waarborge	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	met	_	_	_	_	_	_	_	_
+14	inbegrip	_	_	_	_	_	_	_	_
+15	van	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	maar	_	_	_	_	_	_	_	_
+18	nie	_	_	_	_	_	_	_	_
+19	beperk	_	_	_	_	_	_	_	_
+20	nie	_	_	_	_	_	_	_	_
+21	tot	_	_	_	_	_	_	_	_
+22	,	_	_	_	_	_	_	_	_
+23	waarborge	_	_	_	_	_	_	_	_
+24	oor	_	_	_	_	_	_	_	_
+25	bemarkbaarheid	_	_	_	_	_	_	_	_
+26	,	_	_	_	_	_	_	_	_
+27	titel	_	_	_	_	_	_	_	_
+28	,	_	_	_	_	_	_	_	_
+29	geskiktheid	_	_	_	_	_	_	_	_
+30	vir	_	_	_	_	_	_	_	_
+31	'n	_	_	_	_	_	_	_	_
+32	bepaalde	_	_	_	_	_	_	_	_
+33	doel	_	_	_	_	_	_	_	_
+34	,	_	_	_	_	_	_	_	_
+35	nie-inbreukmaking	_	_	_	_	_	_	_	_
+36	,	_	_	_	_	_	_	_	_
+37	versoenbaarheid	_	_	_	_	_	_	_	_
+38	,	_	_	_	_	_	_	_	_
+39	sekuriteit	_	_	_	_	_	_	_	_
+40	en	_	_	_	_	_	_	_	_
+41	akkuraatheid	_	_	_	_	_	_	_	_
+42	,	_	_	_	_	_	_	_	_
+43	en	_	_	_	_	_	_	_	_
+44	maak	_	_	_	_	_	_	_	_
+45	geen	_	_	_	_	_	_	_	_
+46	uitdruklike	_	_	_	_	_	_	_	_
+47	of	_	_	_	_	_	_	_	_
+48	geïmpliseerde	_	_	_	_	_	_	_	_
+49	voorstelling	_	_	_	_	_	_	_	_
+50	of	_	_	_	_	_	_	_	_
+51	waarborg	_	_	_	_	_	_	_	_
+52	ten	_	_	_	_	_	_	_	_
+53	opsigte	_	_	_	_	_	_	_	_
+54	van	_	_	_	_	_	_	_	_
+55	die	_	_	_	_	_	_	_	_
+56	inhoud	_	_	_	_	_	_	_	_
+57	van	_	_	_	_	_	_	_	_
+58	die	_	_	_	_	_	_	_	_
+59	webwerf	_	_	_	_	_	_	_	_
+60	,	_	_	_	_	_	_	_	_
+61	of	_	_	_	_	_	_	_	_
+62	dat	_	_	_	_	_	_	_	_
+63	die	_	_	_	_	_	_	_	_
+64	webwerf	_	_	_	_	_	_	_	_
+65	só	_	_	_	_	_	_	_	_
+66	saamgestel	_	_	_	_	_	_	_	_
+67	is	_	_	_	_	_	_	_	_
+68	of	_	_	_	_	_	_	_	_
+69	sodanige	_	_	_	_	_	_	_	_
+70	inligting	_	_	_	_	_	_	_	_
+71	verskaf	_	_	_	_	_	_	_	_
+72	dat	_	_	_	_	_	_	_	_
+73	dit	_	_	_	_	_	_	_	_
+74	aan	_	_	_	_	_	_	_	_
+75	die	_	_	_	_	_	_	_	_
+76	gebruiker	_	_	_	_	_	_	_	_
+77	se	_	_	_	_	_	_	_	_
+78	individuele	_	_	_	_	_	_	_	_
+79	vereistes	_	_	_	_	_	_	_	_
+80	sal	_	_	_	_	_	_	_	_
+81	voldoen	_	_	_	_	_	_	_	_
+82	nie	_	_	_	_	_	_	_	_
+83	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s370
+# text = Die leerareaverklaring vir elke amptelike taal verskyn in drie afsonderlike dele: Huistaal, Eerste Addisionele Taal en Tweede Addisionele Taal.
+# org_sent_id = 370
+1	Die	_	_	_	_	_	_	_	_
+2	leerareaverklaring	_	_	_	_	_	_	_	_
+3	vir	_	_	_	_	_	_	_	_
+4	elke	_	_	_	_	_	_	_	_
+5	amptelike	_	_	_	_	_	_	_	_
+6	taal	_	_	_	_	_	_	_	_
+7	verskyn	_	_	_	_	_	_	_	_
+8	in	_	_	_	_	_	_	_	_
+9	drie	_	_	_	_	_	_	_	_
+10	afsonderlike	_	_	_	_	_	_	_	_
+11	dele	_	_	_	_	_	_	_	_
+12	:	_	_	_	_	_	_	_	_
+13	Huistaal	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	Eerste	_	_	_	_	_	_	_	_
+16	Addisionele	_	_	_	_	_	_	_	_
+17	Taal	_	_	_	_	_	_	_	_
+18	en	_	_	_	_	_	_	_	_
+19	Tweede	_	_	_	_	_	_	_	_
+20	Addisionele	_	_	_	_	_	_	_	_
+21	Taal	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-s130
+# text = Dit stel die ondersoekbeampte in staat om die informant regstreeks te ondervra.
+# org_sent_id = 1676
+1	Dit	_	_	_	_	_	_	_	_
+2	stel	_	_	_	_	_	_	_	_
+3	die	_	_	_	_	_	_	_	_
+4	ondersoekbeampte	_	_	_	_	_	_	_	_
+5	in	_	_	_	_	_	_	_	_
+6	staat	_	_	_	_	_	_	_	_
+7	om	_	_	_	_	_	_	_	_
+8	die	_	_	_	_	_	_	_	_
+9	informant	_	_	_	_	_	_	_	_
+10	regstreeks	_	_	_	_	_	_	_	_
+11	te	_	_	_	_	_	_	_	_
+12	ondervra	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s230
+# text = Jy kan vra dat die onderhoudsbedrag wat betaal word, verander moet word, hetsy omdat dit onvoldoende geword het of omdat jy nie langer kan bekostig om die huidige bedrag aan onderhoud te betaal nie.
+# org_sent_id = 230
+1	Jy	_	_	_	_	_	_	_	_
+2	kan	_	_	_	_	_	_	_	_
+3	vra	_	_	_	_	_	_	_	_
+4	dat	_	_	_	_	_	_	_	_
+5	die	_	_	_	_	_	_	_	_
+6	onderhoudsbedrag	_	_	_	_	_	_	_	_
+7	wat	_	_	_	_	_	_	_	_
+8	betaal	_	_	_	_	_	_	_	_
+9	word	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	verander	_	_	_	_	_	_	_	_
+12	moet	_	_	_	_	_	_	_	_
+13	word	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	hetsy	_	_	_	_	_	_	_	_
+16	omdat	_	_	_	_	_	_	_	_
+17	dit	_	_	_	_	_	_	_	_
+18	onvoldoende	_	_	_	_	_	_	_	_
+19	geword	_	_	_	_	_	_	_	_
+20	het	_	_	_	_	_	_	_	_
+21	of	_	_	_	_	_	_	_	_
+22	omdat	_	_	_	_	_	_	_	_
+23	jy	_	_	_	_	_	_	_	_
+24	nie	_	_	_	_	_	_	_	_
+25	langer	_	_	_	_	_	_	_	_
+26	kan	_	_	_	_	_	_	_	_
+27	bekostig	_	_	_	_	_	_	_	_
+28	om	_	_	_	_	_	_	_	_
+29	die	_	_	_	_	_	_	_	_
+30	huidige	_	_	_	_	_	_	_	_
+31	bedrag	_	_	_	_	_	_	_	_
+32	aan	_	_	_	_	_	_	_	_
+33	onderhoud	_	_	_	_	_	_	_	_
+34	te	_	_	_	_	_	_	_	_
+35	betaal	_	_	_	_	_	_	_	_
+36	nie	_	_	_	_	_	_	_	_
+37	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s278
+# text = Wat gebeur indien my man met 'n ander vrou wil trou?
+# org_sent_id = 278
+1	Wat	_	_	_	_	_	_	_	_
+2	gebeur	_	_	_	_	_	_	_	_
+3	indien	_	_	_	_	_	_	_	_
+4	my	_	_	_	_	_	_	_	_
+5	man	_	_	_	_	_	_	_	_
+6	met	_	_	_	_	_	_	_	_
+7	'n	_	_	_	_	_	_	_	_
+8	ander	_	_	_	_	_	_	_	_
+9	vrou	_	_	_	_	_	_	_	_
+10	wil	_	_	_	_	_	_	_	_
+11	trou	_	_	_	_	_	_	_	_
+12	?	_	_	_	_	_	_	_	_
+
+# sent_id = train-s648
+# text = Aannemingsdokumente wat deur die Registrateur van Aannemings by die Departement van Justisie onderteken en gestempel is.
+# org_sent_id = 648
+1	Aannemingsdokumente	_	_	_	_	_	_	_	_
+2	wat	_	_	_	_	_	_	_	_
+3	deur	_	_	_	_	_	_	_	_
+4	die	_	_	_	_	_	_	_	_
+5	Registrateur	_	_	_	_	_	_	_	_
+6	van	_	_	_	_	_	_	_	_
+7	Aannemings	_	_	_	_	_	_	_	_
+8	by	_	_	_	_	_	_	_	_
+9	die	_	_	_	_	_	_	_	_
+10	Departement	_	_	_	_	_	_	_	_
+11	van	_	_	_	_	_	_	_	_
+12	Justisie	_	_	_	_	_	_	_	_
+13	onderteken	_	_	_	_	_	_	_	_
+14	en	_	_	_	_	_	_	_	_
+15	gestempel	_	_	_	_	_	_	_	_
+16	is	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s781
+# text = Indien 'n beswaar ontvang word, sal die Registrateur van Handelsmerke 'n beregtigingsverhoor reël waarby die aansoeker en die beswaarmaker(s) teenwoordig moet wees.
+# org_sent_id = 781
+1	Indien	_	_	_	_	_	_	_	_
+2	'n	_	_	_	_	_	_	_	_
+3	beswaar	_	_	_	_	_	_	_	_
+4	ontvang	_	_	_	_	_	_	_	_
+5	word	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	sal	_	_	_	_	_	_	_	_
+8	die	_	_	_	_	_	_	_	_
+9	Registrateur	_	_	_	_	_	_	_	_
+10	van	_	_	_	_	_	_	_	_
+11	Handelsmerke	_	_	_	_	_	_	_	_
+12	'n	_	_	_	_	_	_	_	_
+13	beregtigingsverhoor	_	_	_	_	_	_	_	_
+14	reël	_	_	_	_	_	_	_	_
+15	waarby	_	_	_	_	_	_	_	_
+16	die	_	_	_	_	_	_	_	_
+17	aansoeker	_	_	_	_	_	_	_	_
+18	en	_	_	_	_	_	_	_	_
+19	die	_	_	_	_	_	_	_	_
+20	beswaarmaker(s)	_	_	_	_	_	_	_	_
+21	teenwoordig	_	_	_	_	_	_	_	_
+22	moet	_	_	_	_	_	_	_	_
+23	wees	_	_	_	_	_	_	_	_
+24	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-s331
+# text = Ek het probeer om nie struikel nie; ek het 'n paar misstappe langs die pad gegee.
+# org_sent_id = 1459
+1	Ek	_	_	_	_	_	_	_	_
+2	het	_	_	_	_	_	_	_	_
+3	probeer	_	_	_	_	_	_	_	_
+4	om	_	_	_	_	_	_	_	_
+5	nie	_	_	_	_	_	_	_	_
+6	struikel	_	_	_	_	_	_	_	_
+7	nie	_	_	_	_	_	_	_	_
+8	;	_	_	_	_	_	_	_	_
+9	ek	_	_	_	_	_	_	_	_
+10	het	_	_	_	_	_	_	_	_
+11	'n	_	_	_	_	_	_	_	_
+12	paar	_	_	_	_	_	_	_	_
+13	misstappe	_	_	_	_	_	_	_	_
+14	langs	_	_	_	_	_	_	_	_
+15	die	_	_	_	_	_	_	_	_
+16	pad	_	_	_	_	_	_	_	_
+17	gegee	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-s88
+# text = Veranderings aan hierdie bepalings en voorwaardes vir gebruik word van krag sodra hierdie veranderings op hierdie webwerf aangebring word.
+# org_sent_id = 1634
+1	Veranderings	_	_	_	_	_	_	_	_
+2	aan	_	_	_	_	_	_	_	_
+3	hierdie	_	_	_	_	_	_	_	_
+4	bepalings	_	_	_	_	_	_	_	_
+5	en	_	_	_	_	_	_	_	_
+6	voorwaardes	_	_	_	_	_	_	_	_
+7	vir	_	_	_	_	_	_	_	_
+8	gebruik	_	_	_	_	_	_	_	_
+9	word	_	_	_	_	_	_	_	_
+10	van	_	_	_	_	_	_	_	_
+11	krag	_	_	_	_	_	_	_	_
+12	sodra	_	_	_	_	_	_	_	_
+13	hierdie	_	_	_	_	_	_	_	_
+14	veranderings	_	_	_	_	_	_	_	_
+15	op	_	_	_	_	_	_	_	_
+16	hierdie	_	_	_	_	_	_	_	_
+17	webwerf	_	_	_	_	_	_	_	_
+18	aangebring	_	_	_	_	_	_	_	_
+19	word	_	_	_	_	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s794
+# text = Die boedel van 'n gestorwene moet binne 14 dae van die sterfte by die Meester se kantoor aangemeld word.
+# org_sent_id = 794
+1	Die	_	_	_	_	_	_	_	_
+2	boedel	_	_	_	_	_	_	_	_
+3	van	_	_	_	_	_	_	_	_
+4	'n	_	_	_	_	_	_	_	_
+5	gestorwene	_	_	_	_	_	_	_	_
+6	moet	_	_	_	_	_	_	_	_
+7	binne	_	_	_	_	_	_	_	_
+8	14	_	_	_	_	_	_	_	_
+9	dae	_	_	_	_	_	_	_	_
+10	van	_	_	_	_	_	_	_	_
+11	die	_	_	_	_	_	_	_	_
+12	sterfte	_	_	_	_	_	_	_	_
+13	by	_	_	_	_	_	_	_	_
+14	die	_	_	_	_	_	_	_	_
+15	Meester	_	_	_	_	_	_	_	_
+16	se	_	_	_	_	_	_	_	_
+17	kantoor	_	_	_	_	_	_	_	_
+18	aangemeld	_	_	_	_	_	_	_	_
+19	word	_	_	_	_	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s860
+# text = Maar omdat ons ook geweet het dat sy die volharding van gees en die wilskrag het om die stryd saam met die lewendes voort te sit, was dit ons voorneme om haar en ander lede van haar gesin as ons gaste by hierdie deurlugtige geleentheid te verwelkom.
+# org_sent_id = 860
+1	Maar	_	_	_	_	_	_	_	_
+2	omdat	_	_	_	_	_	_	_	_
+3	ons	_	_	_	_	_	_	_	_
+4	ook	_	_	_	_	_	_	_	_
+5	geweet	_	_	_	_	_	_	_	_
+6	het	_	_	_	_	_	_	_	_
+7	dat	_	_	_	_	_	_	_	_
+8	sy	_	_	_	_	_	_	_	_
+9	die	_	_	_	_	_	_	_	_
+10	volharding	_	_	_	_	_	_	_	_
+11	van	_	_	_	_	_	_	_	_
+12	gees	_	_	_	_	_	_	_	_
+13	en	_	_	_	_	_	_	_	_
+14	die	_	_	_	_	_	_	_	_
+15	wilskrag	_	_	_	_	_	_	_	_
+16	het	_	_	_	_	_	_	_	_
+17	om	_	_	_	_	_	_	_	_
+18	die	_	_	_	_	_	_	_	_
+19	stryd	_	_	_	_	_	_	_	_
+20	saam	_	_	_	_	_	_	_	_
+21	met	_	_	_	_	_	_	_	_
+22	die	_	_	_	_	_	_	_	_
+23	lewendes	_	_	_	_	_	_	_	_
+24	voort	_	_	_	_	_	_	_	_
+25	te	_	_	_	_	_	_	_	_
+26	sit	_	_	_	_	_	_	_	_
+27	,	_	_	_	_	_	_	_	_
+28	was	_	_	_	_	_	_	_	_
+29	dit	_	_	_	_	_	_	_	_
+30	ons	_	_	_	_	_	_	_	_
+31	voorneme	_	_	_	_	_	_	_	_
+32	om	_	_	_	_	_	_	_	_
+33	haar	_	_	_	_	_	_	_	_
+34	en	_	_	_	_	_	_	_	_
+35	ander	_	_	_	_	_	_	_	_
+36	lede	_	_	_	_	_	_	_	_
+37	van	_	_	_	_	_	_	_	_
+38	haar	_	_	_	_	_	_	_	_
+39	gesin	_	_	_	_	_	_	_	_
+40	as	_	_	_	_	_	_	_	_
+41	ons	_	_	_	_	_	_	_	_
+42	gaste	_	_	_	_	_	_	_	_
+43	by	_	_	_	_	_	_	_	_
+44	hierdie	_	_	_	_	_	_	_	_
+45	deurlugtige	_	_	_	_	_	_	_	_
+46	geleentheid	_	_	_	_	_	_	_	_
+47	te	_	_	_	_	_	_	_	_
+48	verwelkom	_	_	_	_	_	_	_	_
+49	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s924
+# text = Daar is ook nog steeds swakhede in die implementering van die programme vir basiese volwasse onderrig (ABET).
+# org_sent_id = 924
+1	Daar	_	_	_	_	_	_	_	_
+2	is	_	_	_	_	_	_	_	_
+3	ook	_	_	_	_	_	_	_	_
+4	nog	_	_	_	_	_	_	_	_
+5	steeds	_	_	_	_	_	_	_	_
+6	swakhede	_	_	_	_	_	_	_	_
+7	in	_	_	_	_	_	_	_	_
+8	die	_	_	_	_	_	_	_	_
+9	implementering	_	_	_	_	_	_	_	_
+10	van	_	_	_	_	_	_	_	_
+11	die	_	_	_	_	_	_	_	_
+12	programme	_	_	_	_	_	_	_	_
+13	vir	_	_	_	_	_	_	_	_
+14	basiese	_	_	_	_	_	_	_	_
+15	volwasse	_	_	_	_	_	_	_	_
+16	onderrig	_	_	_	_	_	_	_	_
+17	(	_	_	_	_	_	_	_	_
+18	ABET	_	_	_	_	_	_	_	_
+19	)	_	_	_	_	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s873
+# text = Met u vergunning wil ek graag verder teruggaan, en in die herinnering roep wat ons, as verteenwoordigers van ons mense, in 2004 gesê het in die teenwoordigheid van ons vriende van die res van die wêreld, wat byeengekom by die regeringsetel by die Uniegebou in Pretoria, op Vryheidsdag, die 10de herdenking van ons bevryding, en in deelname aan die inhuldiging van die President van die Republiek, wat deur ons Parlement verkies is ooreenkomstig die wil wat ons mense op demokratiese wyse tydens die 2004-verkiesing uitgespreek het.
+# org_sent_id = 873
+1	Met	_	_	_	_	_	_	_	_
+2	u	_	_	_	_	_	_	_	_
+3	vergunning	_	_	_	_	_	_	_	_
+4	wil	_	_	_	_	_	_	_	_
+5	ek	_	_	_	_	_	_	_	_
+6	graag	_	_	_	_	_	_	_	_
+7	verder	_	_	_	_	_	_	_	_
+8	teruggaan	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	en	_	_	_	_	_	_	_	_
+11	in	_	_	_	_	_	_	_	_
+12	die	_	_	_	_	_	_	_	_
+13	herinnering	_	_	_	_	_	_	_	_
+14	roep	_	_	_	_	_	_	_	_
+15	wat	_	_	_	_	_	_	_	_
+16	ons	_	_	_	_	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	as	_	_	_	_	_	_	_	_
+19	verteenwoordigers	_	_	_	_	_	_	_	_
+20	van	_	_	_	_	_	_	_	_
+21	ons	_	_	_	_	_	_	_	_
+22	mense	_	_	_	_	_	_	_	_
+23	,	_	_	_	_	_	_	_	_
+24	in	_	_	_	_	_	_	_	_
+25	2004	_	_	_	_	_	_	_	_
+26	gesê	_	_	_	_	_	_	_	_
+27	het	_	_	_	_	_	_	_	_
+28	in	_	_	_	_	_	_	_	_
+29	die	_	_	_	_	_	_	_	_
+30	teenwoordigheid	_	_	_	_	_	_	_	_
+31	van	_	_	_	_	_	_	_	_
+32	ons	_	_	_	_	_	_	_	_
+33	vriende	_	_	_	_	_	_	_	_
+34	van	_	_	_	_	_	_	_	_
+35	die	_	_	_	_	_	_	_	_
+36	res	_	_	_	_	_	_	_	_
+37	van	_	_	_	_	_	_	_	_
+38	die	_	_	_	_	_	_	_	_
+39	wêreld	_	_	_	_	_	_	_	_
+40	,	_	_	_	_	_	_	_	_
+41	wat	_	_	_	_	_	_	_	_
+42	byeengekom	_	_	_	_	_	_	_	_
+43	by	_	_	_	_	_	_	_	_
+44	die	_	_	_	_	_	_	_	_
+45	regeringsetel	_	_	_	_	_	_	_	_
+46	by	_	_	_	_	_	_	_	_
+47	die	_	_	_	_	_	_	_	_
+48	Uniegebou	_	_	_	_	_	_	_	_
+49	in	_	_	_	_	_	_	_	_
+50	Pretoria	_	_	_	_	_	_	_	_
+51	,	_	_	_	_	_	_	_	_
+52	op	_	_	_	_	_	_	_	_
+53	Vryheidsdag	_	_	_	_	_	_	_	_
+54	,	_	_	_	_	_	_	_	_
+55	die	_	_	_	_	_	_	_	_
+56	10de	_	_	_	_	_	_	_	_
+57	herdenking	_	_	_	_	_	_	_	_
+58	van	_	_	_	_	_	_	_	_
+59	ons	_	_	_	_	_	_	_	_
+60	bevryding	_	_	_	_	_	_	_	_
+61	,	_	_	_	_	_	_	_	_
+62	en	_	_	_	_	_	_	_	_
+63	in	_	_	_	_	_	_	_	_
+64	deelname	_	_	_	_	_	_	_	_
+65	aan	_	_	_	_	_	_	_	_
+66	die	_	_	_	_	_	_	_	_
+67	inhuldiging	_	_	_	_	_	_	_	_
+68	van	_	_	_	_	_	_	_	_
+69	die	_	_	_	_	_	_	_	_
+70	President	_	_	_	_	_	_	_	_
+71	van	_	_	_	_	_	_	_	_
+72	die	_	_	_	_	_	_	_	_
+73	Republiek	_	_	_	_	_	_	_	_
+74	,	_	_	_	_	_	_	_	_
+75	wat	_	_	_	_	_	_	_	_
+76	deur	_	_	_	_	_	_	_	_
+77	ons	_	_	_	_	_	_	_	_
+78	Parlement	_	_	_	_	_	_	_	_
+79	verkies	_	_	_	_	_	_	_	_
+80	is	_	_	_	_	_	_	_	_
+81	ooreenkomstig	_	_	_	_	_	_	_	_
+82	die	_	_	_	_	_	_	_	_
+83	wil	_	_	_	_	_	_	_	_
+84	wat	_	_	_	_	_	_	_	_
+85	ons	_	_	_	_	_	_	_	_
+86	mense	_	_	_	_	_	_	_	_
+87	op	_	_	_	_	_	_	_	_
+88	demokratiese	_	_	_	_	_	_	_	_
+89	wyse	_	_	_	_	_	_	_	_
+90	tydens	_	_	_	_	_	_	_	_
+91	die	_	_	_	_	_	_	_	_
+92	2004-verkiesing	_	_	_	_	_	_	_	_
+93	uitgespreek	_	_	_	_	_	_	_	_
+94	het	_	_	_	_	_	_	_	_
+95	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s871
+# text = Verlede maand, tydens sy jaarlikse lekgotla of bosberaad in Januarie, het die nasionale Kabinet, wat aan die spits staan van die regeringstelsel wat ons die voorreg het om te bestuur, besin oor die feit dat daardie ontmoeting die halfpadmerk verteenwoordig het in die bestaan van die Regering wat tydens ons mees onlangse verkiesing, in 2004, in die lewe geroep is.
+# org_sent_id = 871
+1	Verlede	_	_	_	_	_	_	_	_
+2	maand	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	tydens	_	_	_	_	_	_	_	_
+5	sy	_	_	_	_	_	_	_	_
+6	jaarlikse	_	_	_	_	_	_	_	_
+7	lekgotla	_	_	_	_	_	_	_	_
+8	of	_	_	_	_	_	_	_	_
+9	bosberaad	_	_	_	_	_	_	_	_
+10	in	_	_	_	_	_	_	_	_
+11	Januarie	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	het	_	_	_	_	_	_	_	_
+14	die	_	_	_	_	_	_	_	_
+15	nasionale	_	_	_	_	_	_	_	_
+16	Kabinet	_	_	_	_	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	wat	_	_	_	_	_	_	_	_
+19	aan	_	_	_	_	_	_	_	_
+20	die	_	_	_	_	_	_	_	_
+21	spits	_	_	_	_	_	_	_	_
+22	staan	_	_	_	_	_	_	_	_
+23	van	_	_	_	_	_	_	_	_
+24	die	_	_	_	_	_	_	_	_
+25	regeringstelsel	_	_	_	_	_	_	_	_
+26	wat	_	_	_	_	_	_	_	_
+27	ons	_	_	_	_	_	_	_	_
+28	die	_	_	_	_	_	_	_	_
+29	voorreg	_	_	_	_	_	_	_	_
+30	het	_	_	_	_	_	_	_	_
+31	om	_	_	_	_	_	_	_	_
+32	te	_	_	_	_	_	_	_	_
+33	bestuur	_	_	_	_	_	_	_	_
+34	,	_	_	_	_	_	_	_	_
+35	besin	_	_	_	_	_	_	_	_
+36	oor	_	_	_	_	_	_	_	_
+37	die	_	_	_	_	_	_	_	_
+38	feit	_	_	_	_	_	_	_	_
+39	dat	_	_	_	_	_	_	_	_
+40	daardie	_	_	_	_	_	_	_	_
+41	ontmoeting	_	_	_	_	_	_	_	_
+42	die	_	_	_	_	_	_	_	_
+43	halfpadmerk	_	_	_	_	_	_	_	_
+44	verteenwoordig	_	_	_	_	_	_	_	_
+45	het	_	_	_	_	_	_	_	_
+46	in	_	_	_	_	_	_	_	_
+47	die	_	_	_	_	_	_	_	_
+48	bestaan	_	_	_	_	_	_	_	_
+49	van	_	_	_	_	_	_	_	_
+50	die	_	_	_	_	_	_	_	_
+51	Regering	_	_	_	_	_	_	_	_
+52	wat	_	_	_	_	_	_	_	_
+53	tydens	_	_	_	_	_	_	_	_
+54	ons	_	_	_	_	_	_	_	_
+55	mees	_	_	_	_	_	_	_	_
+56	onlangse	_	_	_	_	_	_	_	_
+57	verkiesing	_	_	_	_	_	_	_	_
+58	,	_	_	_	_	_	_	_	_
+59	in	_	_	_	_	_	_	_	_
+60	2004	_	_	_	_	_	_	_	_
+61	,	_	_	_	_	_	_	_	_
+62	in	_	_	_	_	_	_	_	_
+63	die	_	_	_	_	_	_	_	_
+64	lewe	_	_	_	_	_	_	_	_
+65	geroep	_	_	_	_	_	_	_	_
+66	is	_	_	_	_	_	_	_	_
+67	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s721
+# text = Indien betaling elektronies geskied, moet jy voorsiening maak vir jou bank se afsluittye en 'n verrekeningstyd van tussen twee en vyf dae.
+# org_sent_id = 721
+1	Indien	_	_	_	_	_	_	_	_
+2	betaling	_	_	_	_	_	_	_	_
+3	elektronies	_	_	_	_	_	_	_	_
+4	geskied	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	moet	_	_	_	_	_	_	_	_
+7	jy	_	_	_	_	_	_	_	_
+8	voorsiening	_	_	_	_	_	_	_	_
+9	maak	_	_	_	_	_	_	_	_
+10	vir	_	_	_	_	_	_	_	_
+11	jou	_	_	_	_	_	_	_	_
+12	bank	_	_	_	_	_	_	_	_
+13	se	_	_	_	_	_	_	_	_
+14	afsluittye	_	_	_	_	_	_	_	_
+15	en	_	_	_	_	_	_	_	_
+16	'n	_	_	_	_	_	_	_	_
+17	verrekeningstyd	_	_	_	_	_	_	_	_
+18	van	_	_	_	_	_	_	_	_
+19	tussen	_	_	_	_	_	_	_	_
+20	twee	_	_	_	_	_	_	_	_
+21	en	_	_	_	_	_	_	_	_
+22	vyf	_	_	_	_	_	_	_	_
+23	dae	_	_	_	_	_	_	_	_
+24	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-s80
+# text = Ons werk saam met hoëronderwysinstellings om te verseker dat studente wat daarvoor kwalifiseer, deur die Nasionale Finansiële Hulpskema vir Studente finansiële bystand ontvang.
+# org_sent_id = 1820
+1	Ons	_	_	_	_	_	_	_	_
+2	werk	_	_	_	_	_	_	_	_
+3	saam	_	_	_	_	_	_	_	_
+4	met	_	_	_	_	_	_	_	_
+5	hoëronderwysinstellings	_	_	_	_	_	_	_	_
+6	om	_	_	_	_	_	_	_	_
+7	te	_	_	_	_	_	_	_	_
+8	verseker	_	_	_	_	_	_	_	_
+9	dat	_	_	_	_	_	_	_	_
+10	studente	_	_	_	_	_	_	_	_
+11	wat	_	_	_	_	_	_	_	_
+12	daarvoor	_	_	_	_	_	_	_	_
+13	kwalifiseer	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	deur	_	_	_	_	_	_	_	_
+16	die	_	_	_	_	_	_	_	_
+17	Nasionale	_	_	_	_	_	_	_	_
+18	Finansiële	_	_	_	_	_	_	_	_
+19	Hulpskema	_	_	_	_	_	_	_	_
+20	vir	_	_	_	_	_	_	_	_
+21	Studente	_	_	_	_	_	_	_	_
+22	finansiële	_	_	_	_	_	_	_	_
+23	bystand	_	_	_	_	_	_	_	_
+24	ontvang	_	_	_	_	_	_	_	_
+25	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-s258
+# text = Wat belangrik is, is dat die voordele van groei werkskepping moet insluit en moet verseker dat daar behoorlike werk is.
+# org_sent_id = 1386
+1	Wat	_	_	_	_	_	_	_	_
+2	belangrik	_	_	_	_	_	_	_	_
+3	is	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	is	_	_	_	_	_	_	_	_
+6	dat	_	_	_	_	_	_	_	_
+7	die	_	_	_	_	_	_	_	_
+8	voordele	_	_	_	_	_	_	_	_
+9	van	_	_	_	_	_	_	_	_
+10	groei	_	_	_	_	_	_	_	_
+11	werkskepping	_	_	_	_	_	_	_	_
+12	moet	_	_	_	_	_	_	_	_
+13	insluit	_	_	_	_	_	_	_	_
+14	en	_	_	_	_	_	_	_	_
+15	moet	_	_	_	_	_	_	_	_
+16	verseker	_	_	_	_	_	_	_	_
+17	dat	_	_	_	_	_	_	_	_
+18	daar	_	_	_	_	_	_	_	_
+19	behoorlike	_	_	_	_	_	_	_	_
+20	werk	_	_	_	_	_	_	_	_
+21	is	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# sent_id = dev-s26
+# text = Inligting, idees en menings wat op hierdie werf vervat is, moet nie beskou word as professionele advies, of as die amptelike mening van die GCIS, of enige regspersoon namens wie inligting, idees en menings op hierdie webwerf gegee word nie.
+# org_sent_id = 1572
+1	Inligting	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	idees	_	_	_	_	_	_	_	_
+4	en	_	_	_	_	_	_	_	_
+5	menings	_	_	_	_	_	_	_	_
+6	wat	_	_	_	_	_	_	_	_
+7	op	_	_	_	_	_	_	_	_
+8	hierdie	_	_	_	_	_	_	_	_
+9	werf	_	_	_	_	_	_	_	_
+10	vervat	_	_	_	_	_	_	_	_
+11	is	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	moet	_	_	_	_	_	_	_	_
+14	nie	_	_	_	_	_	_	_	_
+15	beskou	_	_	_	_	_	_	_	_
+16	word	_	_	_	_	_	_	_	_
+17	as	_	_	_	_	_	_	_	_
+18	professionele	_	_	_	_	_	_	_	_
+19	advies	_	_	_	_	_	_	_	_
+20	,	_	_	_	_	_	_	_	_
+21	of	_	_	_	_	_	_	_	_
+22	as	_	_	_	_	_	_	_	_
+23	die	_	_	_	_	_	_	_	_
+24	amptelike	_	_	_	_	_	_	_	_
+25	mening	_	_	_	_	_	_	_	_
+26	van	_	_	_	_	_	_	_	_
+27	die	_	_	_	_	_	_	_	_
+28	GCIS	_	_	_	_	_	_	_	_
+29	,	_	_	_	_	_	_	_	_
+30	of	_	_	_	_	_	_	_	_
+31	enige	_	_	_	_	_	_	_	_
+32	regspersoon	_	_	_	_	_	_	_	_
+33	namens	_	_	_	_	_	_	_	_
+34	wie	_	_	_	_	_	_	_	_
+35	inligting	_	_	_	_	_	_	_	_
+36	,	_	_	_	_	_	_	_	_
+37	idees	_	_	_	_	_	_	_	_
+38	en	_	_	_	_	_	_	_	_
+39	menings	_	_	_	_	_	_	_	_
+40	op	_	_	_	_	_	_	_	_
+41	hierdie	_	_	_	_	_	_	_	_
+42	webwerf	_	_	_	_	_	_	_	_
+43	gegee	_	_	_	_	_	_	_	_
+44	word	_	_	_	_	_	_	_	_
+45	nie	_	_	_	_	_	_	_	_
+46	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s911
+# text = Teen 2005 het Suid-Afrika reeds die Millenniumontwikkelingsdoelwit met betrekking tot basiese watervoorsiening bereik deurdat toegang tot water van 59% in 1994 tot 83% in 2006 toegeneem het.
+# org_sent_id = 911
+1	Teen	_	_	_	_	_	_	_	_
+2	2005	_	_	_	_	_	_	_	_
+3	het	_	_	_	_	_	_	_	_
+4	Suid-Afrika	_	_	_	_	_	_	_	_
+5	reeds	_	_	_	_	_	_	_	_
+6	die	_	_	_	_	_	_	_	_
+7	Millenniumontwikkelingsdoelwit	_	_	_	_	_	_	_	_
+8	met	_	_	_	_	_	_	_	_
+9	betrekking	_	_	_	_	_	_	_	_
+10	tot	_	_	_	_	_	_	_	_
+11	basiese	_	_	_	_	_	_	_	_
+12	watervoorsiening	_	_	_	_	_	_	_	_
+13	bereik	_	_	_	_	_	_	_	_
+14	deurdat	_	_	_	_	_	_	_	_
+15	toegang	_	_	_	_	_	_	_	_
+16	tot	_	_	_	_	_	_	_	_
+17	water	_	_	_	_	_	_	_	_
+18	van	_	_	_	_	_	_	_	_
+19	59%	_	_	_	_	_	_	_	_
+20	in	_	_	_	_	_	_	_	_
+21	1994	_	_	_	_	_	_	_	_
+22	tot	_	_	_	_	_	_	_	_
+23	83%	_	_	_	_	_	_	_	_
+24	in	_	_	_	_	_	_	_	_
+25	2006	_	_	_	_	_	_	_	_
+26	toegeneem	_	_	_	_	_	_	_	_
+27	het	_	_	_	_	_	_	_	_
+28	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-s44
+# text = Verlede jaar het ons die Nasionale Jeugontwikkelingsagentskap in die lewe geroep.
+# org_sent_id = 1784
+1	Verlede	_	_	_	_	_	_	_	_
+2	jaar	_	_	_	_	_	_	_	_
+3	het	_	_	_	_	_	_	_	_
+4	ons	_	_	_	_	_	_	_	_
+5	die	_	_	_	_	_	_	_	_
+6	Nasionale	_	_	_	_	_	_	_	_
+7	Jeugontwikkelingsagentskap	_	_	_	_	_	_	_	_
+8	in	_	_	_	_	_	_	_	_
+9	die	_	_	_	_	_	_	_	_
+10	lewe	_	_	_	_	_	_	_	_
+11	geroep	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s1124
+# text = Gedurende die afgelope twee weke het die ministers van minerale en energiesake en van openbare ondernemings die aard van die noodtoestand wat ons in die gesig staar, omskryf asook wat elkeen van ons kan doen om die toestand te normaliseer.
+# org_sent_id = 1124
+1	Gedurende	_	_	_	_	_	_	_	_
+2	die	_	_	_	_	_	_	_	_
+3	afgelope	_	_	_	_	_	_	_	_
+4	twee	_	_	_	_	_	_	_	_
+5	weke	_	_	_	_	_	_	_	_
+6	het	_	_	_	_	_	_	_	_
+7	die	_	_	_	_	_	_	_	_
+8	ministers	_	_	_	_	_	_	_	_
+9	van	_	_	_	_	_	_	_	_
+10	minerale	_	_	_	_	_	_	_	_
+11	en	_	_	_	_	_	_	_	_
+12	energiesake	_	_	_	_	_	_	_	_
+13	en	_	_	_	_	_	_	_	_
+14	van	_	_	_	_	_	_	_	_
+15	openbare	_	_	_	_	_	_	_	_
+16	ondernemings	_	_	_	_	_	_	_	_
+17	die	_	_	_	_	_	_	_	_
+18	aard	_	_	_	_	_	_	_	_
+19	van	_	_	_	_	_	_	_	_
+20	die	_	_	_	_	_	_	_	_
+21	noodtoestand	_	_	_	_	_	_	_	_
+22	wat	_	_	_	_	_	_	_	_
+23	ons	_	_	_	_	_	_	_	_
+24	in	_	_	_	_	_	_	_	_
+25	die	_	_	_	_	_	_	_	_
+26	gesig	_	_	_	_	_	_	_	_
+27	staar	_	_	_	_	_	_	_	_
+28	,	_	_	_	_	_	_	_	_
+29	omskryf	_	_	_	_	_	_	_	_
+30	asook	_	_	_	_	_	_	_	_
+31	wat	_	_	_	_	_	_	_	_
+32	elkeen	_	_	_	_	_	_	_	_
+33	van	_	_	_	_	_	_	_	_
+34	ons	_	_	_	_	_	_	_	_
+35	kan	_	_	_	_	_	_	_	_
+36	doen	_	_	_	_	_	_	_	_
+37	om	_	_	_	_	_	_	_	_
+38	die	_	_	_	_	_	_	_	_
+39	toestand	_	_	_	_	_	_	_	_
+40	te	_	_	_	_	_	_	_	_
+41	normaliseer	_	_	_	_	_	_	_	_
+42	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s918
+# text = Ons is op koers om hierdie ontmenslikende stelsel in hierdie gebiede teen die einde van die jaar heeltemal tot 'n einde te bring.
+# org_sent_id = 918
+1	Ons	_	_	_	_	_	_	_	_
+2	is	_	_	_	_	_	_	_	_
+3	op	_	_	_	_	_	_	_	_
+4	koers	_	_	_	_	_	_	_	_
+5	om	_	_	_	_	_	_	_	_
+6	hierdie	_	_	_	_	_	_	_	_
+7	ontmenslikende	_	_	_	_	_	_	_	_
+8	stelsel	_	_	_	_	_	_	_	_
+9	in	_	_	_	_	_	_	_	_
+10	hierdie	_	_	_	_	_	_	_	_
+11	gebiede	_	_	_	_	_	_	_	_
+12	teen	_	_	_	_	_	_	_	_
+13	die	_	_	_	_	_	_	_	_
+14	einde	_	_	_	_	_	_	_	_
+15	van	_	_	_	_	_	_	_	_
+16	die	_	_	_	_	_	_	_	_
+17	jaar	_	_	_	_	_	_	_	_
+18	heeltemal	_	_	_	_	_	_	_	_
+19	tot	_	_	_	_	_	_	_	_
+20	'n	_	_	_	_	_	_	_	_
+21	einde	_	_	_	_	_	_	_	_
+22	te	_	_	_	_	_	_	_	_
+23	bring	_	_	_	_	_	_	_	_
+24	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-s155
+# text = Ons Inter-Ministeriële Komitee op Korrupsie ondersoek maniere om korrupsie doelgerig die nek in te slaan.
+# org_sent_id = 1895
+1	Ons	_	_	_	_	_	_	_	_
+2	Inter-Ministeriële	_	_	_	_	_	_	_	_
+3	Komitee	_	_	_	_	_	_	_	_
+4	op	_	_	_	_	_	_	_	_
+5	Korrupsie	_	_	_	_	_	_	_	_
+6	ondersoek	_	_	_	_	_	_	_	_
+7	maniere	_	_	_	_	_	_	_	_
+8	om	_	_	_	_	_	_	_	_
+9	korrupsie	_	_	_	_	_	_	_	_
+10	doelgerig	_	_	_	_	_	_	_	_
+11	die	_	_	_	_	_	_	_	_
+12	nek	_	_	_	_	_	_	_	_
+13	in	_	_	_	_	_	_	_	_
+14	te	_	_	_	_	_	_	_	_
+15	slaan	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-s25
+# text = Dit is nou die tyd om die basis te lê vir sterker groei in die toekoms en vir groei wat tot meer werksgeleenthede lei.
+# org_sent_id = 1765
+1	Dit	_	_	_	_	_	_	_	_
+2	is	_	_	_	_	_	_	_	_
+3	nou	_	_	_	_	_	_	_	_
+4	die	_	_	_	_	_	_	_	_
+5	tyd	_	_	_	_	_	_	_	_
+6	om	_	_	_	_	_	_	_	_
+7	die	_	_	_	_	_	_	_	_
+8	basis	_	_	_	_	_	_	_	_
+9	te	_	_	_	_	_	_	_	_
+10	lê	_	_	_	_	_	_	_	_
+11	vir	_	_	_	_	_	_	_	_
+12	sterker	_	_	_	_	_	_	_	_
+13	groei	_	_	_	_	_	_	_	_
+14	in	_	_	_	_	_	_	_	_
+15	die	_	_	_	_	_	_	_	_
+16	toekoms	_	_	_	_	_	_	_	_
+17	en	_	_	_	_	_	_	_	_
+18	vir	_	_	_	_	_	_	_	_
+19	groei	_	_	_	_	_	_	_	_
+20	wat	_	_	_	_	_	_	_	_
+21	tot	_	_	_	_	_	_	_	_
+22	meer	_	_	_	_	_	_	_	_
+23	werksgeleenthede	_	_	_	_	_	_	_	_
+24	lei	_	_	_	_	_	_	_	_
+25	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s876
+# text = Ons belowe plegtig teenoor al die helde en heldinne wat offers gebring het ter wille van ons vryheid, asook teenoor... ons vriende uit die res van die wêreld, dat ons nooit die vertroue sal verraai wat julle in ons gestel het toe julle gehelp het om ons die kans te gee om Suid-Afrika in 'n demokratiese, vreedsame, nie-rassige, nie-seksistiese en vooruitstrewende land te verander nie, toegewy aan die edel visie van menslike solidariteit.
+# org_sent_id = 876
+1	Ons	_	_	_	_	_	_	_	_
+2	belowe	_	_	_	_	_	_	_	_
+3	plegtig	_	_	_	_	_	_	_	_
+4	teenoor	_	_	_	_	_	_	_	_
+5	al	_	_	_	_	_	_	_	_
+6	die	_	_	_	_	_	_	_	_
+7	helde	_	_	_	_	_	_	_	_
+8	en	_	_	_	_	_	_	_	_
+9	heldinne	_	_	_	_	_	_	_	_
+10	wat	_	_	_	_	_	_	_	_
+11	offers	_	_	_	_	_	_	_	_
+12	gebring	_	_	_	_	_	_	_	_
+13	het	_	_	_	_	_	_	_	_
+14	ter	_	_	_	_	_	_	_	_
+15	wille	_	_	_	_	_	_	_	_
+16	van	_	_	_	_	_	_	_	_
+17	ons	_	_	_	_	_	_	_	_
+18	vryheid	_	_	_	_	_	_	_	_
+19	,	_	_	_	_	_	_	_	_
+20	asook	_	_	_	_	_	_	_	_
+21	teenoor	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+23	.	_	_	_	_	_	_	_	_
+24	.	_	_	_	_	_	_	_	_
+25	ons	_	_	_	_	_	_	_	_
+26	vriende	_	_	_	_	_	_	_	_
+27	uit	_	_	_	_	_	_	_	_
+28	die	_	_	_	_	_	_	_	_
+29	res	_	_	_	_	_	_	_	_
+30	van	_	_	_	_	_	_	_	_
+31	die	_	_	_	_	_	_	_	_
+32	wêreld	_	_	_	_	_	_	_	_
+33	,	_	_	_	_	_	_	_	_
+34	dat	_	_	_	_	_	_	_	_
+35	ons	_	_	_	_	_	_	_	_
+36	nooit	_	_	_	_	_	_	_	_
+37	die	_	_	_	_	_	_	_	_
+38	vertroue	_	_	_	_	_	_	_	_
+39	sal	_	_	_	_	_	_	_	_
+40	verraai	_	_	_	_	_	_	_	_
+41	wat	_	_	_	_	_	_	_	_
+42	julle	_	_	_	_	_	_	_	_
+43	in	_	_	_	_	_	_	_	_
+44	ons	_	_	_	_	_	_	_	_
+45	gestel	_	_	_	_	_	_	_	_
+46	het	_	_	_	_	_	_	_	_
+47	toe	_	_	_	_	_	_	_	_
+48	julle	_	_	_	_	_	_	_	_
+49	gehelp	_	_	_	_	_	_	_	_
+50	het	_	_	_	_	_	_	_	_
+51	om	_	_	_	_	_	_	_	_
+52	ons	_	_	_	_	_	_	_	_
+53	die	_	_	_	_	_	_	_	_
+54	kans	_	_	_	_	_	_	_	_
+55	te	_	_	_	_	_	_	_	_
+56	gee	_	_	_	_	_	_	_	_
+57	om	_	_	_	_	_	_	_	_
+58	Suid-Afrika	_	_	_	_	_	_	_	_
+59	in	_	_	_	_	_	_	_	_
+60	'n	_	_	_	_	_	_	_	_
+61	demokratiese	_	_	_	_	_	_	_	_
+62	,	_	_	_	_	_	_	_	_
+63	vreedsame	_	_	_	_	_	_	_	_
+64	,	_	_	_	_	_	_	_	_
+65	nie-rassige	_	_	_	_	_	_	_	_
+66	,	_	_	_	_	_	_	_	_
+67	nie-seksistiese	_	_	_	_	_	_	_	_
+68	en	_	_	_	_	_	_	_	_
+69	vooruitstrewende	_	_	_	_	_	_	_	_
+70	land	_	_	_	_	_	_	_	_
+71	te	_	_	_	_	_	_	_	_
+72	verander	_	_	_	_	_	_	_	_
+73	nie	_	_	_	_	_	_	_	_
+74	,	_	_	_	_	_	_	_	_
+75	toegewy	_	_	_	_	_	_	_	_
+76	aan	_	_	_	_	_	_	_	_
+77	die	_	_	_	_	_	_	_	_
+78	edel	_	_	_	_	_	_	_	_
+79	visie	_	_	_	_	_	_	_	_
+80	van	_	_	_	_	_	_	_	_
+81	menslike	_	_	_	_	_	_	_	_
+82	solidariteit	_	_	_	_	_	_	_	_
+83	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-s58
+# text = Die ministers wat vir 'n bepaalde uitkoms verantwoordelik is, sal 'n gedetailleerde leweringsooreenkoms met die president onderteken.
+# org_sent_id = 1798
+1	Die	_	_	_	_	_	_	_	_
+2	ministers	_	_	_	_	_	_	_	_
+3	wat	_	_	_	_	_	_	_	_
+4	vir	_	_	_	_	_	_	_	_
+5	'n	_	_	_	_	_	_	_	_
+6	bepaalde	_	_	_	_	_	_	_	_
+7	uitkoms	_	_	_	_	_	_	_	_
+8	verantwoordelik	_	_	_	_	_	_	_	_
+9	is	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	sal	_	_	_	_	_	_	_	_
+12	'n	_	_	_	_	_	_	_	_
+13	gedetailleerde	_	_	_	_	_	_	_	_
+14	leweringsooreenkoms	_	_	_	_	_	_	_	_
+15	met	_	_	_	_	_	_	_	_
+16	die	_	_	_	_	_	_	_	_
+17	president	_	_	_	_	_	_	_	_
+18	onderteken	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-s13
+# text = Ek wil beklemtoon dat dit nie poste in die hoofstroom-ekonomie is nie.
+# org_sent_id = 1753
+1	Ek	_	_	_	_	_	_	_	_
+2	wil	_	_	_	_	_	_	_	_
+3	beklemtoon	_	_	_	_	_	_	_	_
+4	dat	_	_	_	_	_	_	_	_
+5	dit	_	_	_	_	_	_	_	_
+6	nie	_	_	_	_	_	_	_	_
+7	poste	_	_	_	_	_	_	_	_
+8	in	_	_	_	_	_	_	_	_
+9	die	_	_	_	_	_	_	_	_
+10	hoofstroom-ekonomie	_	_	_	_	_	_	_	_
+11	is	_	_	_	_	_	_	_	_
+12	nie	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s1195
+# text = Bykomend tot hierdie onderneming is ons prioriteit gedurende die komende tydperk ook verdere ingrypings in die voortgesette onderwys- en opleidingskolleges (VOO-kolleges), die sektorale onderwys- en opleidingsowerhede (SETAs), befondsing van skole in die laagste drie kwintiele sodat hulle vrygeskeld kan word van die verantwoordelikheid om fondse te verhaal, en die bespoediging van indiensopleiding vir professionele gegradueerdes.
+# org_sent_id = 1195
+1	Bykomend	_	_	_	_	_	_	_	_
+2	tot	_	_	_	_	_	_	_	_
+3	hierdie	_	_	_	_	_	_	_	_
+4	onderneming	_	_	_	_	_	_	_	_
+5	is	_	_	_	_	_	_	_	_
+6	ons	_	_	_	_	_	_	_	_
+7	prioriteit	_	_	_	_	_	_	_	_
+8	gedurende	_	_	_	_	_	_	_	_
+9	die	_	_	_	_	_	_	_	_
+10	komende	_	_	_	_	_	_	_	_
+11	tydperk	_	_	_	_	_	_	_	_
+12	ook	_	_	_	_	_	_	_	_
+13	verdere	_	_	_	_	_	_	_	_
+14	ingrypings	_	_	_	_	_	_	_	_
+15	in	_	_	_	_	_	_	_	_
+16	die	_	_	_	_	_	_	_	_
+17	voortgesette	_	_	_	_	_	_	_	_
+18	onderwys-	_	_	_	_	_	_	_	_
+19	en	_	_	_	_	_	_	_	_
+20	opleidingskolleges	_	_	_	_	_	_	_	_
+21	(	_	_	_	_	_	_	_	_
+22	VOO-kolleges	_	_	_	_	_	_	_	_
+23	)	_	_	_	_	_	_	_	_
+24	,	_	_	_	_	_	_	_	_
+25	die	_	_	_	_	_	_	_	_
+26	sektorale	_	_	_	_	_	_	_	_
+27	onderwys-	_	_	_	_	_	_	_	_
+28	en	_	_	_	_	_	_	_	_
+29	opleidingsowerhede	_	_	_	_	_	_	_	_
+30	(	_	_	_	_	_	_	_	_
+31	SETAs	_	_	_	_	_	_	_	_
+32	)	_	_	_	_	_	_	_	_
+33	,	_	_	_	_	_	_	_	_
+34	befondsing	_	_	_	_	_	_	_	_
+35	van	_	_	_	_	_	_	_	_
+36	skole	_	_	_	_	_	_	_	_
+37	in	_	_	_	_	_	_	_	_
+38	die	_	_	_	_	_	_	_	_
+39	laagste	_	_	_	_	_	_	_	_
+40	drie	_	_	_	_	_	_	_	_
+41	kwintiele	_	_	_	_	_	_	_	_
+42	sodat	_	_	_	_	_	_	_	_
+43	hulle	_	_	_	_	_	_	_	_
+44	vrygeskeld	_	_	_	_	_	_	_	_
+45	kan	_	_	_	_	_	_	_	_
+46	word	_	_	_	_	_	_	_	_
+47	van	_	_	_	_	_	_	_	_
+48	die	_	_	_	_	_	_	_	_
+49	verantwoordelikheid	_	_	_	_	_	_	_	_
+50	om	_	_	_	_	_	_	_	_
+51	fondse	_	_	_	_	_	_	_	_
+52	te	_	_	_	_	_	_	_	_
+53	verhaal	_	_	_	_	_	_	_	_
+54	,	_	_	_	_	_	_	_	_
+55	en	_	_	_	_	_	_	_	_
+56	die	_	_	_	_	_	_	_	_
+57	bespoediging	_	_	_	_	_	_	_	_
+58	van	_	_	_	_	_	_	_	_
+59	indiensopleiding	_	_	_	_	_	_	_	_
+60	vir	_	_	_	_	_	_	_	_
+61	professionele	_	_	_	_	_	_	_	_
+62	gegradueerdes	_	_	_	_	_	_	_	_
+63	.	_	_	_	_	_	_	_	_
+
+# sent_id = test-s210
+# text = 'n Groep moedige soldate het 40 jaar gelede weggebreek van NUSAS om die Suid-Afrikaanse Studente-organisasie (Saso) te stig.
+# org_sent_id = 1338
+1	'n	_	_	_	_	_	_	_	_
+2	Groep	_	_	_	_	_	_	_	_
+3	moedige	_	_	_	_	_	_	_	_
+4	soldate	_	_	_	_	_	_	_	_
+5	het	_	_	_	_	_	_	_	_
+6	40	_	_	_	_	_	_	_	_
+7	jaar	_	_	_	_	_	_	_	_
+8	gelede	_	_	_	_	_	_	_	_
+9	weggebreek	_	_	_	_	_	_	_	_
+10	van	_	_	_	_	_	_	_	_
+11	NUSAS	_	_	_	_	_	_	_	_
+12	om	_	_	_	_	_	_	_	_
+13	die	_	_	_	_	_	_	_	_
+14	Suid-Afrikaanse	_	_	_	_	_	_	_	_
+15	Studente-organisasie	_	_	_	_	_	_	_	_
+16	(	_	_	_	_	_	_	_	_
+17	Saso	_	_	_	_	_	_	_	_
+18	)	_	_	_	_	_	_	_	_
+19	te	_	_	_	_	_	_	_	_
+20	stig	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = train-s1115
+# text = Die werklike uitdaging is om op hierdie besorgdhede ag te slaan op so 'n wyse dat dit 'n duidelike boodskap aan almal in ons land uitdra en aan die miljoene mense in Afrika en elders in die wêreld wat ons land met belangstelling dophou.
+# org_sent_id = 1115
+1	Die	_	_	_	_	_	_	_	_
+2	werklike	_	_	_	_	_	_	_	_
+3	uitdaging	_	_	_	_	_	_	_	_
+4	is	_	_	_	_	_	_	_	_
+5	om	_	_	_	_	_	_	_	_
+6	op	_	_	_	_	_	_	_	_
+7	hierdie	_	_	_	_	_	_	_	_
+8	besorgdhede	_	_	_	_	_	_	_	_
+9	ag	_	_	_	_	_	_	_	_
+10	te	_	_	_	_	_	_	_	_
+11	slaan	_	_	_	_	_	_	_	_
+12	op	_	_	_	_	_	_	_	_
+13	so	_	_	_	_	_	_	_	_
+14	'n	_	_	_	_	_	_	_	_
+15	wyse	_	_	_	_	_	_	_	_
+16	dat	_	_	_	_	_	_	_	_
+17	dit	_	_	_	_	_	_	_	_
+18	'n	_	_	_	_	_	_	_	_
+19	duidelike	_	_	_	_	_	_	_	_
+20	boodskap	_	_	_	_	_	_	_	_
+21	aan	_	_	_	_	_	_	_	_
+22	almal	_	_	_	_	_	_	_	_
+23	in	_	_	_	_	_	_	_	_
+24	ons	_	_	_	_	_	_	_	_
+25	land	_	_	_	_	_	_	_	_
+26	uitdra	_	_	_	_	_	_	_	_
+27	en	_	_	_	_	_	_	_	_
+28	aan	_	_	_	_	_	_	_	_
+29	die	_	_	_	_	_	_	_	_
+30	miljoene	_	_	_	_	_	_	_	_
+31	mense	_	_	_	_	_	_	_	_
+32	in	_	_	_	_	_	_	_	_
+33	Afrika	_	_	_	_	_	_	_	_
+34	en	_	_	_	_	_	_	_	_
+35	elders	_	_	_	_	_	_	_	_
+36	in	_	_	_	_	_	_	_	_
+37	die	_	_	_	_	_	_	_	_
+38	wêreld	_	_	_	_	_	_	_	_
+39	wat	_	_	_	_	_	_	_	_
+40	ons	_	_	_	_	_	_	_	_
+41	land	_	_	_	_	_	_	_	_
+42	met	_	_	_	_	_	_	_	_
+43	belangstelling	_	_	_	_	_	_	_	_
+44	dophou	_	_	_	_	_	_	_	_
+45	.	_	_	_	_	_	_	_	_
+

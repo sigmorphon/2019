@@ -1,0 +1,3604 @@
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@399
+# text = Verbis non moveor tuis;
+1	Verbis	_	_	_	_	_	_	_	_
+2	non	_	_	_	_	_	_	_	_
+3	moveor	_	_	_	_	_	_	_	_
+4	tuis	_	_	_	_	_	_	_	_
+5	;	_	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@224
+# text = Equidem omni cura morem servabo senis;
+1	Equidem	_	_	_	_	_	_	_	_
+2	omni	_	_	_	_	_	_	_	_
+3	cura	_	_	_	_	_	_	_	_
+4	morem	_	_	_	_	_	_	_	_
+5	servabo	_	_	_	_	_	_	_	_
+6	senis	_	_	_	_	_	_	_	_
+7	;	_	_	_	_	_	_	_	_
+
+# sent_id = phi0631.phi001.perseus-lat1.tb.xml@520
+# text = Placet igitur eos dimitti et augeri exercitum Catilinae?
+1	Placet	_	_	_	_	_	_	_	_
+2	igitur	_	_	_	_	_	_	_	_
+3	eos	_	_	_	_	_	_	_	_
+4	dimitti	_	_	_	_	_	_	_	_
+5	et	_	_	_	_	_	_	_	_
+6	augeri	_	_	_	_	_	_	_	_
+7	exercitum	_	_	_	_	_	_	_	_
+8	Catilinae	_	_	_	_	_	_	_	_
+9	?	_	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@375
+# text = Scimus te prae litteras fatuum esse.
+1	Scimus	_	_	_	_	_	_	_	_
+2	te	_	_	_	_	_	_	_	_
+3	prae	_	_	_	_	_	_	_	_
+4	litteras	_	_	_	_	_	_	_	_
+5	fatuum	_	_	_	_	_	_	_	_
+6	esse	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = tlg0031.tlg027.perseus-lat1.tb.xml@397
+# text = et blasphemaverunt nomen Dei habentis potestatem super has plagas que ne egerunt paenitentiam ut darent illi gloriam.
+1	et	_	_	_	_	_	_	_	_
+2	blasphemaverunt	_	_	_	_	_	_	_	_
+3	nomen	_	_	_	_	_	_	_	_
+4	Dei	_	_	_	_	_	_	_	_
+5	habentis	_	_	_	_	_	_	_	_
+6	potestatem	_	_	_	_	_	_	_	_
+7	super	_	_	_	_	_	_	_	_
+8	has	_	_	_	_	_	_	_	_
+9	plagas	_	_	_	_	_	_	_	_
+10	que	_	_	_	_	_	_	_	_
+11	ne	_	_	_	_	_	_	_	_
+12	egerunt	_	_	_	_	_	_	_	_
+13	paenitentiam	_	_	_	_	_	_	_	_
+14	ut	_	_	_	_	_	_	_	_
+15	darent	_	_	_	_	_	_	_	_
+16	illi	_	_	_	_	_	_	_	_
+17	gloriam	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0474.phi013.perseus-lat1.tb.xml@149
+# text = tametsi video, si mea voce perterritus ire in exsilium animum induxeris, quanta tempestas invidiae nobis, si minus in praesens tempus recenti memoria scelerum tuorum, at in posteritatem impendeat.
+1	tametsi	_	_	_	_	_	_	_	_
+2	video	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	si	_	_	_	_	_	_	_	_
+5	mea	_	_	_	_	_	_	_	_
+6	voce	_	_	_	_	_	_	_	_
+7	perterritus	_	_	_	_	_	_	_	_
+8	ire	_	_	_	_	_	_	_	_
+9	in	_	_	_	_	_	_	_	_
+10	exsilium	_	_	_	_	_	_	_	_
+11	animum	_	_	_	_	_	_	_	_
+12	induxeris	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	quanta	_	_	_	_	_	_	_	_
+15	tempestas	_	_	_	_	_	_	_	_
+16	invidiae	_	_	_	_	_	_	_	_
+17	nobis	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	si	_	_	_	_	_	_	_	_
+20	minus	_	_	_	_	_	_	_	_
+21	in	_	_	_	_	_	_	_	_
+22	praesens	_	_	_	_	_	_	_	_
+23	tempus	_	_	_	_	_	_	_	_
+24	recenti	_	_	_	_	_	_	_	_
+25	memoria	_	_	_	_	_	_	_	_
+26	scelerum	_	_	_	_	_	_	_	_
+27	tuorum	_	_	_	_	_	_	_	_
+28	,	_	_	_	_	_	_	_	_
+29	at	_	_	_	_	_	_	_	_
+30	in	_	_	_	_	_	_	_	_
+31	posteritatem	_	_	_	_	_	_	_	_
+32	impendeat	_	_	_	_	_	_	_	_
+33	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0959.phi006.perseus-lat1.tb.xml@16
+# text = Nam quamquam ferus hostis erat, tamen illud ab uno corpore et ex una pendebat origine bellum.
+1	Nam	_	_	_	_	_	_	_	_
+2	quamquam	_	_	_	_	_	_	_	_
+3	ferus	_	_	_	_	_	_	_	_
+4	hostis	_	_	_	_	_	_	_	_
+5	erat	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	tamen	_	_	_	_	_	_	_	_
+8	illud	_	_	_	_	_	_	_	_
+9	ab	_	_	_	_	_	_	_	_
+10	uno	_	_	_	_	_	_	_	_
+11	corpore	_	_	_	_	_	_	_	_
+12	et	_	_	_	_	_	_	_	_
+13	ex	_	_	_	_	_	_	_	_
+14	una	_	_	_	_	_	_	_	_
+15	pendebat	_	_	_	_	_	_	_	_
+16	origine	_	_	_	_	_	_	_	_
+17	bellum	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@167
+# text = Libitinarius fuit.
+1	Libitinarius	_	_	_	_	_	_	_	_
+2	fuit	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0631.phi001.perseus-lat1.tb.xml@327
+# text = id adeo more suo videbatur facere.
+1	id	_	_	_	_	_	_	_	_
+2	adeo	_	_	_	_	_	_	_	_
+3	more	_	_	_	_	_	_	_	_
+4	suo	_	_	_	_	_	_	_	_
+5	videbatur	_	_	_	_	_	_	_	_
+6	facere	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = tlg0031.tlg027.perseus-lat1.tb.xml@157
+# text = et cum aperuisset quintum sigillum vidi subtus altare animas interfectorum propter verbum Dei et propter testimonium quod habebant.
+1	et	_	_	_	_	_	_	_	_
+2	cum	_	_	_	_	_	_	_	_
+3	aperuisset	_	_	_	_	_	_	_	_
+4	quintum	_	_	_	_	_	_	_	_
+5	sigillum	_	_	_	_	_	_	_	_
+6	vidi	_	_	_	_	_	_	_	_
+7	subtus	_	_	_	_	_	_	_	_
+8	altare	_	_	_	_	_	_	_	_
+9	animas	_	_	_	_	_	_	_	_
+10	interfectorum	_	_	_	_	_	_	_	_
+11	propter	_	_	_	_	_	_	_	_
+12	verbum	_	_	_	_	_	_	_	_
+13	Dei	_	_	_	_	_	_	_	_
+14	et	_	_	_	_	_	_	_	_
+15	propter	_	_	_	_	_	_	_	_
+16	testimonium	_	_	_	_	_	_	_	_
+17	quod	_	_	_	_	_	_	_	_
+18	habebant	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0631.phi001.perseus-lat1.tb.xml@533
+# text = capta urbe nihil fit reliqui victis.
+1	capta	_	_	_	_	_	_	_	_
+2	urbe	_	_	_	_	_	_	_	_
+3	nihil	_	_	_	_	_	_	_	_
+4	fit	_	_	_	_	_	_	_	_
+5	reliqui	_	_	_	_	_	_	_	_
+6	victis	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@50
+# text = Tum, quia plus valeo, me sequetur tertia;
+1	Tum	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	quia	_	_	_	_	_	_	_	_
+4	plus	_	_	_	_	_	_	_	_
+5	valeo	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	me	_	_	_	_	_	_	_	_
+8	sequetur	_	_	_	_	_	_	_	_
+9	tertia	_	_	_	_	_	_	_	_
+10	;	_	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@196
+# text = Vulpes ab ara rapuit ardentem facem Totam que flammis arborem circumdedit, Hosti dolorem damno miscens sanguinis.
+1	Vulpes	_	_	_	_	_	_	_	_
+2	ab	_	_	_	_	_	_	_	_
+3	ara	_	_	_	_	_	_	_	_
+4	rapuit	_	_	_	_	_	_	_	_
+5	ardentem	_	_	_	_	_	_	_	_
+6	facem	_	_	_	_	_	_	_	_
+7	Totam	_	_	_	_	_	_	_	_
+8	que	_	_	_	_	_	_	_	_
+9	flammis	_	_	_	_	_	_	_	_
+10	arborem	_	_	_	_	_	_	_	_
+11	circumdedit	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	Hosti	_	_	_	_	_	_	_	_
+14	dolorem	_	_	_	_	_	_	_	_
+15	damno	_	_	_	_	_	_	_	_
+16	miscens	_	_	_	_	_	_	_	_
+17	sanguinis	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@386
+# text = Ego illi iam tres cardeles occidi, et dixi quod mustella comedit.
+1	Ego	_	_	_	_	_	_	_	_
+2	illi	_	_	_	_	_	_	_	_
+3	iam	_	_	_	_	_	_	_	_
+4	tres	_	_	_	_	_	_	_	_
+5	cardeles	_	_	_	_	_	_	_	_
+6	occidi	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	et	_	_	_	_	_	_	_	_
+9	dixi	_	_	_	_	_	_	_	_
+10	quod	_	_	_	_	_	_	_	_
+11	mustella	_	_	_	_	_	_	_	_
+12	comedit	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0620.phi001.perseus-lat1.tb.xml@97
+# text = tu patrui meritas conare anteire securis, et vetera oblitis iura refer sociis.
+1	tu	_	_	_	_	_	_	_	_
+2	patrui	_	_	_	_	_	_	_	_
+3	meritas	_	_	_	_	_	_	_	_
+4	conare	_	_	_	_	_	_	_	_
+5	anteire	_	_	_	_	_	_	_	_
+6	securis	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	et	_	_	_	_	_	_	_	_
+9	vetera	_	_	_	_	_	_	_	_
+10	oblitis	_	_	_	_	_	_	_	_
+11	iura	_	_	_	_	_	_	_	_
+12	refer	_	_	_	_	_	_	_	_
+13	sociis	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@60
+# text = O quanta species, inquit, cerebrum non habet!
+1	O	_	_	_	_	_	_	_	_
+2	quanta	_	_	_	_	_	_	_	_
+3	species	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	inquit	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	cerebrum	_	_	_	_	_	_	_	_
+8	non	_	_	_	_	_	_	_	_
+9	habet	_	_	_	_	_	_	_	_
+10	!	_	_	_	_	_	_	_	_
+
+# sent_id = phi0631.phi001.perseus-lat1.tb.xml@407
+# text = igitur confirmato animo vocari ad sese iubet Lentulum, Cethegum, Statilium, Gabinium que item Caeparium Terracinensem, qui in Apuliam ad concitanda servitia proficisci parabat.
+1	igitur	_	_	_	_	_	_	_	_
+2	confirmato	_	_	_	_	_	_	_	_
+3	animo	_	_	_	_	_	_	_	_
+4	vocari	_	_	_	_	_	_	_	_
+5	ad	_	_	_	_	_	_	_	_
+6	sese	_	_	_	_	_	_	_	_
+7	iubet	_	_	_	_	_	_	_	_
+8	Lentulum	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	Cethegum	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	Statilium	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	Gabinium	_	_	_	_	_	_	_	_
+15	que	_	_	_	_	_	_	_	_
+16	item	_	_	_	_	_	_	_	_
+17	Caeparium	_	_	_	_	_	_	_	_
+18	Terracinensem	_	_	_	_	_	_	_	_
+19	,	_	_	_	_	_	_	_	_
+20	qui	_	_	_	_	_	_	_	_
+21	in	_	_	_	_	_	_	_	_
+22	Apuliam	_	_	_	_	_	_	_	_
+23	ad	_	_	_	_	_	_	_	_
+24	concitanda	_	_	_	_	_	_	_	_
+25	servitia	_	_	_	_	_	_	_	_
+26	proficisci	_	_	_	_	_	_	_	_
+27	parabat	_	_	_	_	_	_	_	_
+28	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi1348.abo012.perseus-lat1.tb.xml@170
+# text = ' ita mihi saluam ac sospitem rem p. sistere in sua sede liceat atque eius rei fructum percipere, quem peto, ut optimi status auctor dicar et moriens ut feram mecum spem, mansura in uestigio suo fundamenta rei p. quae iecero. '
+1	'	_	_	_	_	_	_	_	_
+2	ita	_	_	_	_	_	_	_	_
+3	mihi	_	_	_	_	_	_	_	_
+4	saluam	_	_	_	_	_	_	_	_
+5	ac	_	_	_	_	_	_	_	_
+6	sospitem	_	_	_	_	_	_	_	_
+7	rem	_	_	_	_	_	_	_	_
+8	p.	_	_	_	_	_	_	_	_
+9	sistere	_	_	_	_	_	_	_	_
+10	in	_	_	_	_	_	_	_	_
+11	sua	_	_	_	_	_	_	_	_
+12	sede	_	_	_	_	_	_	_	_
+13	liceat	_	_	_	_	_	_	_	_
+14	atque	_	_	_	_	_	_	_	_
+15	eius	_	_	_	_	_	_	_	_
+16	rei	_	_	_	_	_	_	_	_
+17	fructum	_	_	_	_	_	_	_	_
+18	percipere	_	_	_	_	_	_	_	_
+19	,	_	_	_	_	_	_	_	_
+20	quem	_	_	_	_	_	_	_	_
+21	peto	_	_	_	_	_	_	_	_
+22	,	_	_	_	_	_	_	_	_
+23	ut	_	_	_	_	_	_	_	_
+24	optimi	_	_	_	_	_	_	_	_
+25	status	_	_	_	_	_	_	_	_
+26	auctor	_	_	_	_	_	_	_	_
+27	dicar	_	_	_	_	_	_	_	_
+28	et	_	_	_	_	_	_	_	_
+29	moriens	_	_	_	_	_	_	_	_
+30	ut	_	_	_	_	_	_	_	_
+31	feram	_	_	_	_	_	_	_	_
+32	mecum	_	_	_	_	_	_	_	_
+33	spem	_	_	_	_	_	_	_	_
+34	,	_	_	_	_	_	_	_	_
+35	mansura	_	_	_	_	_	_	_	_
+36	in	_	_	_	_	_	_	_	_
+37	uestigio	_	_	_	_	_	_	_	_
+38	suo	_	_	_	_	_	_	_	_
+39	fundamenta	_	_	_	_	_	_	_	_
+40	rei	_	_	_	_	_	_	_	_
+41	p.	_	_	_	_	_	_	_	_
+42	quae	_	_	_	_	_	_	_	_
+43	iecero	_	_	_	_	_	_	_	_
+44	.	_	_	_	_	_	_	_	_
+45	'	_	_	_	_	_	_	_	_
+
+# sent_id = phi0474.phi013.perseus-lat1.tb.xml@236
+# text = exeant, proficiscantur, ne patiantur desiderio sui Catilinam miserum tabescere.
+1	exeant	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	proficiscantur	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	ne	_	_	_	_	_	_	_	_
+6	patiantur	_	_	_	_	_	_	_	_
+7	desiderio	_	_	_	_	_	_	_	_
+8	sui	_	_	_	_	_	_	_	_
+9	Catilinam	_	_	_	_	_	_	_	_
+10	miserum	_	_	_	_	_	_	_	_
+11	tabescere	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@696
+# text = Ipse Trimalchio in pulvino consedit, et cum Homeristae Graecis versibus colloquerentur, ut insolenter solent, ille canora voce Latine legebat librum.
+1	Ipse	_	_	_	_	_	_	_	_
+2	Trimalchio	_	_	_	_	_	_	_	_
+3	in	_	_	_	_	_	_	_	_
+4	pulvino	_	_	_	_	_	_	_	_
+5	consedit	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	et	_	_	_	_	_	_	_	_
+8	cum	_	_	_	_	_	_	_	_
+9	Homeristae	_	_	_	_	_	_	_	_
+10	Graecis	_	_	_	_	_	_	_	_
+11	versibus	_	_	_	_	_	_	_	_
+12	colloquerentur	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	ut	_	_	_	_	_	_	_	_
+15	insolenter	_	_	_	_	_	_	_	_
+16	solent	_	_	_	_	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	ille	_	_	_	_	_	_	_	_
+19	canora	_	_	_	_	_	_	_	_
+20	voce	_	_	_	_	_	_	_	_
+21	Latine	_	_	_	_	_	_	_	_
+22	legebat	_	_	_	_	_	_	_	_
+23	librum	_	_	_	_	_	_	_	_
+24	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@770
+# text = Cum ergo illum mater misella plangeret et nos tum plures in tristimonio essemus, subito strigae stridere coeperunt;
+1	Cum	_	_	_	_	_	_	_	_
+2	ergo	_	_	_	_	_	_	_	_
+3	illum	_	_	_	_	_	_	_	_
+4	mater	_	_	_	_	_	_	_	_
+5	misella	_	_	_	_	_	_	_	_
+6	plangeret	_	_	_	_	_	_	_	_
+7	et	_	_	_	_	_	_	_	_
+8	nos	_	_	_	_	_	_	_	_
+9	tum	_	_	_	_	_	_	_	_
+10	plures	_	_	_	_	_	_	_	_
+11	in	_	_	_	_	_	_	_	_
+12	tristimonio	_	_	_	_	_	_	_	_
+13	essemus	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	subito	_	_	_	_	_	_	_	_
+16	strigae	_	_	_	_	_	_	_	_
+17	stridere	_	_	_	_	_	_	_	_
+18	coeperunt	_	_	_	_	_	_	_	_
+19	;	_	_	_	_	_	_	_	_
+
+# sent_id = phi0631.phi001.perseus-lat1.tb.xml@443
+# text = ' Omnis homines, patres conscripti, qui de rebus dubiis consultant, ab odio, amicitia, ira atque misericordia vacuos esse decet.
+1	'	_	_	_	_	_	_	_	_
+2	Omnis	_	_	_	_	_	_	_	_
+3	homines	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	patres	_	_	_	_	_	_	_	_
+6	conscripti	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	qui	_	_	_	_	_	_	_	_
+9	de	_	_	_	_	_	_	_	_
+10	rebus	_	_	_	_	_	_	_	_
+11	dubiis	_	_	_	_	_	_	_	_
+12	consultant	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	ab	_	_	_	_	_	_	_	_
+15	odio	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	amicitia	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	ira	_	_	_	_	_	_	_	_
+20	atque	_	_	_	_	_	_	_	_
+21	misericordia	_	_	_	_	_	_	_	_
+22	vacuos	_	_	_	_	_	_	_	_
+23	esse	_	_	_	_	_	_	_	_
+24	decet	_	_	_	_	_	_	_	_
+25	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@277
+# text = Multo maioris alapae mecum veneunt.
+1	Multo	_	_	_	_	_	_	_	_
+2	maioris	_	_	_	_	_	_	_	_
+3	alapae	_	_	_	_	_	_	_	_
+4	mecum	_	_	_	_	_	_	_	_
+5	veneunt	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@212
+# text = Expulsus regno nemoris qui profugerit, Paludis in secreta veniet latibula Et proculcatas obteret duro pede.
+1	Expulsus	_	_	_	_	_	_	_	_
+2	regno	_	_	_	_	_	_	_	_
+3	nemoris	_	_	_	_	_	_	_	_
+4	qui	_	_	_	_	_	_	_	_
+5	profugerit	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	Paludis	_	_	_	_	_	_	_	_
+8	in	_	_	_	_	_	_	_	_
+9	secreta	_	_	_	_	_	_	_	_
+10	veniet	_	_	_	_	_	_	_	_
+11	latibula	_	_	_	_	_	_	_	_
+12	Et	_	_	_	_	_	_	_	_
+13	proculcatas	_	_	_	_	_	_	_	_
+14	obteret	_	_	_	_	_	_	_	_
+15	duro	_	_	_	_	_	_	_	_
+16	pede	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0631.phi001.perseus-lat1.tb.xml@449
+# text = bello Macedonico, quod cum rege Perse gessimus, Rhodiorum civitas magna atque magnifica, quae populi Romani opibus creverat, infida et advorsa nobis fuit.
+1	bello	_	_	_	_	_	_	_	_
+2	Macedonico	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	quod	_	_	_	_	_	_	_	_
+5	cum	_	_	_	_	_	_	_	_
+6	rege	_	_	_	_	_	_	_	_
+7	Perse	_	_	_	_	_	_	_	_
+8	gessimus	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	Rhodiorum	_	_	_	_	_	_	_	_
+11	civitas	_	_	_	_	_	_	_	_
+12	magna	_	_	_	_	_	_	_	_
+13	atque	_	_	_	_	_	_	_	_
+14	magnifica	_	_	_	_	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	quae	_	_	_	_	_	_	_	_
+17	populi	_	_	_	_	_	_	_	_
+18	Romani	_	_	_	_	_	_	_	_
+19	opibus	_	_	_	_	_	_	_	_
+20	creverat	_	_	_	_	_	_	_	_
+21	,	_	_	_	_	_	_	_	_
+22	infida	_	_	_	_	_	_	_	_
+23	et	_	_	_	_	_	_	_	_
+24	advorsa	_	_	_	_	_	_	_	_
+25	nobis	_	_	_	_	_	_	_	_
+26	fuit	_	_	_	_	_	_	_	_
+27	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi1348.abo012.perseus-lat1.tb.xml@252
+# text = nam et inuecta urbi Alexandrino triumpho regia gaza tantam copiam nummariae rei effecit, ut faenore deminuto plurimum agrorum pretiis accesserit, et postea, quotiens ex damnatorum bonis pecunia superflueret, usum eius gratuitum iis, qui cauere in duplum possent, ad certum tempus indulsit.
+1	nam	_	_	_	_	_	_	_	_
+2	et	_	_	_	_	_	_	_	_
+3	inuecta	_	_	_	_	_	_	_	_
+4	urbi	_	_	_	_	_	_	_	_
+5	Alexandrino	_	_	_	_	_	_	_	_
+6	triumpho	_	_	_	_	_	_	_	_
+7	regia	_	_	_	_	_	_	_	_
+8	gaza	_	_	_	_	_	_	_	_
+9	tantam	_	_	_	_	_	_	_	_
+10	copiam	_	_	_	_	_	_	_	_
+11	nummariae	_	_	_	_	_	_	_	_
+12	rei	_	_	_	_	_	_	_	_
+13	effecit	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	ut	_	_	_	_	_	_	_	_
+16	faenore	_	_	_	_	_	_	_	_
+17	deminuto	_	_	_	_	_	_	_	_
+18	plurimum	_	_	_	_	_	_	_	_
+19	agrorum	_	_	_	_	_	_	_	_
+20	pretiis	_	_	_	_	_	_	_	_
+21	accesserit	_	_	_	_	_	_	_	_
+22	,	_	_	_	_	_	_	_	_
+23	et	_	_	_	_	_	_	_	_
+24	postea	_	_	_	_	_	_	_	_
+25	,	_	_	_	_	_	_	_	_
+26	quotiens	_	_	_	_	_	_	_	_
+27	ex	_	_	_	_	_	_	_	_
+28	damnatorum	_	_	_	_	_	_	_	_
+29	bonis	_	_	_	_	_	_	_	_
+30	pecunia	_	_	_	_	_	_	_	_
+31	superflueret	_	_	_	_	_	_	_	_
+32	,	_	_	_	_	_	_	_	_
+33	usum	_	_	_	_	_	_	_	_
+34	eius	_	_	_	_	_	_	_	_
+35	gratuitum	_	_	_	_	_	_	_	_
+36	iis	_	_	_	_	_	_	_	_
+37	,	_	_	_	_	_	_	_	_
+38	qui	_	_	_	_	_	_	_	_
+39	cauere	_	_	_	_	_	_	_	_
+40	in	_	_	_	_	_	_	_	_
+41	duplum	_	_	_	_	_	_	_	_
+42	possent	_	_	_	_	_	_	_	_
+43	,	_	_	_	_	_	_	_	_
+44	ad	_	_	_	_	_	_	_	_
+45	certum	_	_	_	_	_	_	_	_
+46	tempus	_	_	_	_	_	_	_	_
+47	indulsit	_	_	_	_	_	_	_	_
+48	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0620.phi001.perseus-lat1.tb.xml@130
+# text = rumpantur iniqui!
+1	rumpantur	_	_	_	_	_	_	_	_
+2	iniqui	_	_	_	_	_	_	_	_
+3	!	_	_	_	_	_	_	_	_
+
+# sent_id = phi0959.phi006.perseus-lat1.tb.xml@268
+# text = Ipse procul montis sublime cacumen occupat, unde sedens partes speculatur in omnes.
+1	Ipse	_	_	_	_	_	_	_	_
+2	procul	_	_	_	_	_	_	_	_
+3	montis	_	_	_	_	_	_	_	_
+4	sublime	_	_	_	_	_	_	_	_
+5	cacumen	_	_	_	_	_	_	_	_
+6	occupat	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	unde	_	_	_	_	_	_	_	_
+9	sedens	_	_	_	_	_	_	_	_
+10	partes	_	_	_	_	_	_	_	_
+11	speculatur	_	_	_	_	_	_	_	_
+12	in	_	_	_	_	_	_	_	_
+13	omnes	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@391
+# text = Emi ergo nunc puero aliquot libra rubricata, quia volo illum ad domusionem aliquid de iure gustare.
+1	Emi	_	_	_	_	_	_	_	_
+2	ergo	_	_	_	_	_	_	_	_
+3	nunc	_	_	_	_	_	_	_	_
+4	puero	_	_	_	_	_	_	_	_
+5	aliquot	_	_	_	_	_	_	_	_
+6	libra	_	_	_	_	_	_	_	_
+7	rubricata	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	quia	_	_	_	_	_	_	_	_
+10	volo	_	_	_	_	_	_	_	_
+11	illum	_	_	_	_	_	_	_	_
+12	ad	_	_	_	_	_	_	_	_
+13	domusionem	_	_	_	_	_	_	_	_
+14	aliquid	_	_	_	_	_	_	_	_
+15	de	_	_	_	_	_	_	_	_
+16	iure	_	_	_	_	_	_	_	_
+17	gustare	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0474.phi013.perseus-lat1.tb.xml@253
+# text = nihil cogitant nisi caedem, nisi incendia, nisi rapinas.
+1	nihil	_	_	_	_	_	_	_	_
+2	cogitant	_	_	_	_	_	_	_	_
+3	nisi	_	_	_	_	_	_	_	_
+4	caedem	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	nisi	_	_	_	_	_	_	_	_
+7	incendia	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	nisi	_	_	_	_	_	_	_	_
+10	rapinas	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0631.phi001.perseus-lat1.tb.xml@139
+# text = postremo captus amore Aureliae Orestillae, quoius praeter formam nihil umquam bonus laudavit, quod ea nubere illi dubitabat timens privignum adulta aetate, pro certo creditur necato filio vacuam domum scelestis nuptiis fecisse.
+1	postremo	_	_	_	_	_	_	_	_
+2	captus	_	_	_	_	_	_	_	_
+3	amore	_	_	_	_	_	_	_	_
+4	Aureliae	_	_	_	_	_	_	_	_
+5	Orestillae	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	quoius	_	_	_	_	_	_	_	_
+8	praeter	_	_	_	_	_	_	_	_
+9	formam	_	_	_	_	_	_	_	_
+10	nihil	_	_	_	_	_	_	_	_
+11	umquam	_	_	_	_	_	_	_	_
+12	bonus	_	_	_	_	_	_	_	_
+13	laudavit	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	quod	_	_	_	_	_	_	_	_
+16	ea	_	_	_	_	_	_	_	_
+17	nubere	_	_	_	_	_	_	_	_
+18	illi	_	_	_	_	_	_	_	_
+19	dubitabat	_	_	_	_	_	_	_	_
+20	timens	_	_	_	_	_	_	_	_
+21	privignum	_	_	_	_	_	_	_	_
+22	adulta	_	_	_	_	_	_	_	_
+23	aetate	_	_	_	_	_	_	_	_
+24	,	_	_	_	_	_	_	_	_
+25	pro	_	_	_	_	_	_	_	_
+26	certo	_	_	_	_	_	_	_	_
+27	creditur	_	_	_	_	_	_	_	_
+28	necato	_	_	_	_	_	_	_	_
+29	filio	_	_	_	_	_	_	_	_
+30	vacuam	_	_	_	_	_	_	_	_
+31	domum	_	_	_	_	_	_	_	_
+32	scelestis	_	_	_	_	_	_	_	_
+33	nuptiis	_	_	_	_	_	_	_	_
+34	fecisse	_	_	_	_	_	_	_	_
+35	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi1348.abo012.perseus-lat1.tb.xml@231
+# text = numerum praetorum auxit.
+1	numerum	_	_	_	_	_	_	_	_
+2	praetorum	_	_	_	_	_	_	_	_
+3	auxit	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi1348.abo012.perseus-lat1.tb.xml@201
+# text = igitur grassaturas dispositis per oportuna loca stationibus inhibuit, ergastula recognouit, collegia praeter antiqua et legitima dissoluit.
+1	igitur	_	_	_	_	_	_	_	_
+2	grassaturas	_	_	_	_	_	_	_	_
+3	dispositis	_	_	_	_	_	_	_	_
+4	per	_	_	_	_	_	_	_	_
+5	oportuna	_	_	_	_	_	_	_	_
+6	loca	_	_	_	_	_	_	_	_
+7	stationibus	_	_	_	_	_	_	_	_
+8	inhibuit	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	ergastula	_	_	_	_	_	_	_	_
+11	recognouit	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	collegia	_	_	_	_	_	_	_	_
+14	praeter	_	_	_	_	_	_	_	_
+15	antiqua	_	_	_	_	_	_	_	_
+16	et	_	_	_	_	_	_	_	_
+17	legitima	_	_	_	_	_	_	_	_
+18	dissoluit	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = tlg0031.tlg027.perseus-lat1.tb.xml@553
+# text = qui vicerit possidebit haec et ero illi Deus et ille erit mihi filius.
+1	qui	_	_	_	_	_	_	_	_
+2	vicerit	_	_	_	_	_	_	_	_
+3	possidebit	_	_	_	_	_	_	_	_
+4	haec	_	_	_	_	_	_	_	_
+5	et	_	_	_	_	_	_	_	_
+6	ero	_	_	_	_	_	_	_	_
+7	illi	_	_	_	_	_	_	_	_
+8	Deus	_	_	_	_	_	_	_	_
+9	et	_	_	_	_	_	_	_	_
+10	ille	_	_	_	_	_	_	_	_
+11	erit	_	_	_	_	_	_	_	_
+12	mihi	_	_	_	_	_	_	_	_
+13	filius	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0690.phi003.perseus-lat1.tb.xml@34
+# text = Et talia fata conticuit.
+1	Et	_	_	_	_	_	_	_	_
+2	talia	_	_	_	_	_	_	_	_
+3	fata	_	_	_	_	_	_	_	_
+4	conticuit	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0474.phi013.perseus-lat1.tb.xml@48
+# text = recognosce mecum tandem noctem illam superiorem;
+1	recognosce	_	_	_	_	_	_	_	_
+2	mecum	_	_	_	_	_	_	_	_
+3	tandem	_	_	_	_	_	_	_	_
+4	noctem	_	_	_	_	_	_	_	_
+5	illam	_	_	_	_	_	_	_	_
+6	superiorem	_	_	_	_	_	_	_	_
+7	;	_	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@302
+# text = Spatium diei noctis excipiunt vices.
+1	Spatium	_	_	_	_	_	_	_	_
+2	diei	_	_	_	_	_	_	_	_
+3	noctis	_	_	_	_	_	_	_	_
+4	excipiunt	_	_	_	_	_	_	_	_
+5	vices	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0620.phi001.perseus-lat1.tb.xml@8
+# text = tantum in amore preces et bene facta valent.
+1	tantum	_	_	_	_	_	_	_	_
+2	in	_	_	_	_	_	_	_	_
+3	amore	_	_	_	_	_	_	_	_
+4	preces	_	_	_	_	_	_	_	_
+5	et	_	_	_	_	_	_	_	_
+6	bene	_	_	_	_	_	_	_	_
+7	facta	_	_	_	_	_	_	_	_
+8	valent	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi1221.phi007.perseus-lat1.tb.xml@80
+# text = Eo bello servorum qui fugerant a dominis suis et arma contra rem publicam ceperant triginta fere millia capta dominis ad supplicium sumendum tradidi.
+1	Eo	_	_	_	_	_	_	_	_
+2	bello	_	_	_	_	_	_	_	_
+3	servorum	_	_	_	_	_	_	_	_
+4	qui	_	_	_	_	_	_	_	_
+5	fugerant	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	dominis	_	_	_	_	_	_	_	_
+8	suis	_	_	_	_	_	_	_	_
+9	et	_	_	_	_	_	_	_	_
+10	arma	_	_	_	_	_	_	_	_
+11	contra	_	_	_	_	_	_	_	_
+12	rem	_	_	_	_	_	_	_	_
+13	publicam	_	_	_	_	_	_	_	_
+14	ceperant	_	_	_	_	_	_	_	_
+15	triginta	_	_	_	_	_	_	_	_
+16	fere	_	_	_	_	_	_	_	_
+17	millia	_	_	_	_	_	_	_	_
+18	capta	_	_	_	_	_	_	_	_
+19	dominis	_	_	_	_	_	_	_	_
+20	ad	_	_	_	_	_	_	_	_
+21	supplicium	_	_	_	_	_	_	_	_
+22	sumendum	_	_	_	_	_	_	_	_
+23	tradidi	_	_	_	_	_	_	_	_
+24	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@58
+# text = Ego experiri volui, an tota familia cantaret, itaque potionem poposci.
+1	Ego	_	_	_	_	_	_	_	_
+2	experiri	_	_	_	_	_	_	_	_
+3	volui	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	an	_	_	_	_	_	_	_	_
+6	tota	_	_	_	_	_	_	_	_
+7	familia	_	_	_	_	_	_	_	_
+8	cantaret	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	itaque	_	_	_	_	_	_	_	_
+11	potionem	_	_	_	_	_	_	_	_
+12	poposci	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0959.phi006.perseus-lat1.tb.xml@140
+# text = Sic ubi deseruit madidos septemfluus agros Nilus et antiquo sua flumina reddidit alveo que aetherio recens exarsit sidere limus, plurima cultores versis animalia glaebis inveniunt, et in his quaedam modo coepta per ipsum nascendi spatium, quaedam inperfecta que suis trunca vident numeris;
+1	Sic	_	_	_	_	_	_	_	_
+2	ubi	_	_	_	_	_	_	_	_
+3	deseruit	_	_	_	_	_	_	_	_
+4	madidos	_	_	_	_	_	_	_	_
+5	septemfluus	_	_	_	_	_	_	_	_
+6	agros	_	_	_	_	_	_	_	_
+7	Nilus	_	_	_	_	_	_	_	_
+8	et	_	_	_	_	_	_	_	_
+9	antiquo	_	_	_	_	_	_	_	_
+10	sua	_	_	_	_	_	_	_	_
+11	flumina	_	_	_	_	_	_	_	_
+12	reddidit	_	_	_	_	_	_	_	_
+13	alveo	_	_	_	_	_	_	_	_
+14	que	_	_	_	_	_	_	_	_
+15	aetherio	_	_	_	_	_	_	_	_
+16	recens	_	_	_	_	_	_	_	_
+17	exarsit	_	_	_	_	_	_	_	_
+18	sidere	_	_	_	_	_	_	_	_
+19	limus	_	_	_	_	_	_	_	_
+20	,	_	_	_	_	_	_	_	_
+21	plurima	_	_	_	_	_	_	_	_
+22	cultores	_	_	_	_	_	_	_	_
+23	versis	_	_	_	_	_	_	_	_
+24	animalia	_	_	_	_	_	_	_	_
+25	glaebis	_	_	_	_	_	_	_	_
+26	inveniunt	_	_	_	_	_	_	_	_
+27	,	_	_	_	_	_	_	_	_
+28	et	_	_	_	_	_	_	_	_
+29	in	_	_	_	_	_	_	_	_
+30	his	_	_	_	_	_	_	_	_
+31	quaedam	_	_	_	_	_	_	_	_
+32	modo	_	_	_	_	_	_	_	_
+33	coepta	_	_	_	_	_	_	_	_
+34	per	_	_	_	_	_	_	_	_
+35	ipsum	_	_	_	_	_	_	_	_
+36	nascendi	_	_	_	_	_	_	_	_
+37	spatium	_	_	_	_	_	_	_	_
+38	,	_	_	_	_	_	_	_	_
+39	quaedam	_	_	_	_	_	_	_	_
+40	inperfecta	_	_	_	_	_	_	_	_
+41	que	_	_	_	_	_	_	_	_
+42	suis	_	_	_	_	_	_	_	_
+43	trunca	_	_	_	_	_	_	_	_
+44	vident	_	_	_	_	_	_	_	_
+45	numeris	_	_	_	_	_	_	_	_
+46	;	_	_	_	_	_	_	_	_
+
+# sent_id = phi0620.phi001.perseus-lat1.tb.xml@214
+# text = dum tibi deceptis augetur fama puellis, certus et in nullo quaeris amore moram, perditus in quadam tardis pallescere curis incipis, et primo lapsus abire gradu.
+1	dum	_	_	_	_	_	_	_	_
+2	tibi	_	_	_	_	_	_	_	_
+3	deceptis	_	_	_	_	_	_	_	_
+4	augetur	_	_	_	_	_	_	_	_
+5	fama	_	_	_	_	_	_	_	_
+6	puellis	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	certus	_	_	_	_	_	_	_	_
+9	et	_	_	_	_	_	_	_	_
+10	in	_	_	_	_	_	_	_	_
+11	nullo	_	_	_	_	_	_	_	_
+12	quaeris	_	_	_	_	_	_	_	_
+13	amore	_	_	_	_	_	_	_	_
+14	moram	_	_	_	_	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	perditus	_	_	_	_	_	_	_	_
+17	in	_	_	_	_	_	_	_	_
+18	quadam	_	_	_	_	_	_	_	_
+19	tardis	_	_	_	_	_	_	_	_
+20	pallescere	_	_	_	_	_	_	_	_
+21	curis	_	_	_	_	_	_	_	_
+22	incipis	_	_	_	_	_	_	_	_
+23	,	_	_	_	_	_	_	_	_
+24	et	_	_	_	_	_	_	_	_
+25	primo	_	_	_	_	_	_	_	_
+26	lapsus	_	_	_	_	_	_	_	_
+27	abire	_	_	_	_	_	_	_	_
+28	gradu	_	_	_	_	_	_	_	_
+29	.	_	_	_	_	_	_	_	_
+
+# newdoc id = phi0631.phi001.perseus-lat1.tb.xml
+# sent_id = phi0631.phi001.perseus-lat1.tb.xml@3
+# text = animi imperio, corporis servitio magis utimur;
+1	animi	_	_	_	_	_	_	_	_
+2	imperio	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	corporis	_	_	_	_	_	_	_	_
+5	servitio	_	_	_	_	_	_	_	_
+6	magis	_	_	_	_	_	_	_	_
+7	utimur	_	_	_	_	_	_	_	_
+8	;	_	_	_	_	_	_	_	_
+
+# sent_id = phi0631.phi001.perseus-lat1.tb.xml@150
+# text = scilicet ne per otium torpescerent manus aut animus, gratuito potius malus atque crudelis erat.
+1	scilicet	_	_	_	_	_	_	_	_
+2	ne	_	_	_	_	_	_	_	_
+3	per	_	_	_	_	_	_	_	_
+4	otium	_	_	_	_	_	_	_	_
+5	torpescerent	_	_	_	_	_	_	_	_
+6	manus	_	_	_	_	_	_	_	_
+7	aut	_	_	_	_	_	_	_	_
+8	animus	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	gratuito	_	_	_	_	_	_	_	_
+11	potius	_	_	_	_	_	_	_	_
+12	malus	_	_	_	_	_	_	_	_
+13	atque	_	_	_	_	_	_	_	_
+14	crudelis	_	_	_	_	_	_	_	_
+15	erat	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@1020
+# text = At ego dum bonatus ago et nolo videri levis, ipse mihi asciam in crus impegi.
+1	At	_	_	_	_	_	_	_	_
+2	ego	_	_	_	_	_	_	_	_
+3	dum	_	_	_	_	_	_	_	_
+4	bonatus	_	_	_	_	_	_	_	_
+5	ago	_	_	_	_	_	_	_	_
+6	et	_	_	_	_	_	_	_	_
+7	nolo	_	_	_	_	_	_	_	_
+8	videri	_	_	_	_	_	_	_	_
+9	levis	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	ipse	_	_	_	_	_	_	_	_
+12	mihi	_	_	_	_	_	_	_	_
+13	asciam	_	_	_	_	_	_	_	_
+14	in	_	_	_	_	_	_	_	_
+15	crus	_	_	_	_	_	_	_	_
+16	impegi	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0631.phi001.perseus-lat1.tb.xml@355
+# text = haec ubi dixit, Allobroges in maxumam spem adducti Umbrenum orare, ut sui misereretur:
+1	haec	_	_	_	_	_	_	_	_
+2	ubi	_	_	_	_	_	_	_	_
+3	dixit	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	Allobroges	_	_	_	_	_	_	_	_
+6	in	_	_	_	_	_	_	_	_
+7	maxumam	_	_	_	_	_	_	_	_
+8	spem	_	_	_	_	_	_	_	_
+9	adducti	_	_	_	_	_	_	_	_
+10	Umbrenum	_	_	_	_	_	_	_	_
+11	orare	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	ut	_	_	_	_	_	_	_	_
+14	sui	_	_	_	_	_	_	_	_
+15	misereretur	_	_	_	_	_	_	_	_
+16	:	_	_	_	_	_	_	_	_
+
+# sent_id = phi0959.phi006.perseus-lat1.tb.xml@90
+# text = Obruerat tumulos inmensa licentia ponti, que pulsabant novi montana cacumina fluctus.
+1	Obruerat	_	_	_	_	_	_	_	_
+2	tumulos	_	_	_	_	_	_	_	_
+3	inmensa	_	_	_	_	_	_	_	_
+4	licentia	_	_	_	_	_	_	_	_
+5	ponti	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	que	_	_	_	_	_	_	_	_
+8	pulsabant	_	_	_	_	_	_	_	_
+9	novi	_	_	_	_	_	_	_	_
+10	montana	_	_	_	_	_	_	_	_
+11	cacumina	_	_	_	_	_	_	_	_
+12	fluctus	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@753
+# text = Qui mori timore nisi ego?
+1	Qui	_	_	_	_	_	_	_	_
+2	mori	_	_	_	_	_	_	_	_
+3	timore	_	_	_	_	_	_	_	_
+4	nisi	_	_	_	_	_	_	_	_
+5	ego	_	_	_	_	_	_	_	_
+6	?	_	_	_	_	_	_	_	_
+
+# sent_id = phi0631.phi001.perseus-lat1.tb.xml@608
+# text = negotiis amicorum intentus sua neglegere, nihil denegare quod dono dignum esset;
+1	negotiis	_	_	_	_	_	_	_	_
+2	amicorum	_	_	_	_	_	_	_	_
+3	intentus	_	_	_	_	_	_	_	_
+4	sua	_	_	_	_	_	_	_	_
+5	neglegere	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	nihil	_	_	_	_	_	_	_	_
+8	denegare	_	_	_	_	_	_	_	_
+9	quod	_	_	_	_	_	_	_	_
+10	dono	_	_	_	_	_	_	_	_
+11	dignum	_	_	_	_	_	_	_	_
+12	esset	_	_	_	_	_	_	_	_
+13	;	_	_	_	_	_	_	_	_
+
+# sent_id = phi0474.phi013.perseus-lat1.tb.xml@141
+# text = patiuntur, tacent.
+1	patiuntur	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	tacent	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@95
+# text = Quare tengomenas faciamus.
+1	Quare	_	_	_	_	_	_	_	_
+2	tengomenas	_	_	_	_	_	_	_	_
+3	faciamus	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi1348.abo012.perseus-lat1.tb.xml@102
+# text = nihil enim exprimi quaestione potuit.
+1	nihil	_	_	_	_	_	_	_	_
+2	enim	_	_	_	_	_	_	_	_
+3	exprimi	_	_	_	_	_	_	_	_
+4	quaestione	_	_	_	_	_	_	_	_
+5	potuit	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi1348.abo012.perseus-lat1.tb.xml@242
+# text = ac comitiis tribuniciis si deessent candidati senatores, ex equitibus R. creauit, ita ut potestate transacta in utro uellent ordine manerent.
+1	ac	_	_	_	_	_	_	_	_
+2	comitiis	_	_	_	_	_	_	_	_
+3	tribuniciis	_	_	_	_	_	_	_	_
+4	si	_	_	_	_	_	_	_	_
+5	deessent	_	_	_	_	_	_	_	_
+6	candidati	_	_	_	_	_	_	_	_
+7	senatores	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	ex	_	_	_	_	_	_	_	_
+10	equitibus	_	_	_	_	_	_	_	_
+11	R.	_	_	_	_	_	_	_	_
+12	creauit	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	ita	_	_	_	_	_	_	_	_
+15	ut	_	_	_	_	_	_	_	_
+16	potestate	_	_	_	_	_	_	_	_
+17	transacta	_	_	_	_	_	_	_	_
+18	in	_	_	_	_	_	_	_	_
+19	utro	_	_	_	_	_	_	_	_
+20	uellent	_	_	_	_	_	_	_	_
+21	ordine	_	_	_	_	_	_	_	_
+22	manerent	_	_	_	_	_	_	_	_
+23	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0959.phi006.perseus-lat1.tb.xml@224
+# text = sed quam non invenit usquam.
+1	sed	_	_	_	_	_	_	_	_
+2	quam	_	_	_	_	_	_	_	_
+3	non	_	_	_	_	_	_	_	_
+4	invenit	_	_	_	_	_	_	_	_
+5	usquam	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@305
+# text = transit etiam vilicus, Nec ille quicquam sentit.
+1	transit	_	_	_	_	_	_	_	_
+2	etiam	_	_	_	_	_	_	_	_
+3	vilicus	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	Nec	_	_	_	_	_	_	_	_
+6	ille	_	_	_	_	_	_	_	_
+7	quicquam	_	_	_	_	_	_	_	_
+8	sentit	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@321
+# text = Si livor obtrectare curam voluerit, Non tamen eripiet laudis conscientiam.
+1	Si	_	_	_	_	_	_	_	_
+2	livor	_	_	_	_	_	_	_	_
+3	obtrectare	_	_	_	_	_	_	_	_
+4	curam	_	_	_	_	_	_	_	_
+5	voluerit	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	Non	_	_	_	_	_	_	_	_
+8	tamen	_	_	_	_	_	_	_	_
+9	eripiet	_	_	_	_	_	_	_	_
+10	laudis	_	_	_	_	_	_	_	_
+11	conscientiam	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@359
+# text = Et revera, quid ille nobis boni fecit?
+1	Et	_	_	_	_	_	_	_	_
+2	revera	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	quid	_	_	_	_	_	_	_	_
+5	ille	_	_	_	_	_	_	_	_
+6	nobis	_	_	_	_	_	_	_	_
+7	boni	_	_	_	_	_	_	_	_
+8	fecit	_	_	_	_	_	_	_	_
+9	?	_	_	_	_	_	_	_	_
+
+# sent_id = phi0620.phi001.perseus-lat1.tb.xml@232
+# text = quae tibi sit felix, quoniam novus incidit error;
+1	quae	_	_	_	_	_	_	_	_
+2	tibi	_	_	_	_	_	_	_	_
+3	sit	_	_	_	_	_	_	_	_
+4	felix	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	quoniam	_	_	_	_	_	_	_	_
+7	novus	_	_	_	_	_	_	_	_
+8	incidit	_	_	_	_	_	_	_	_
+9	error	_	_	_	_	_	_	_	_
+10	;	_	_	_	_	_	_	_	_
+
+# sent_id = phi0620.phi001.perseus-lat1.tb.xml@331
+# text = quam vereor, ne te contempto, Cynthia, busto abstrahat a nostro pulvere iniquus Amor, cogat et invitam lacrimas siccare cadentis!
+1	quam	_	_	_	_	_	_	_	_
+2	vereor	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	ne	_	_	_	_	_	_	_	_
+5	te	_	_	_	_	_	_	_	_
+6	contempto	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	Cynthia	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	busto	_	_	_	_	_	_	_	_
+11	abstrahat	_	_	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	nostro	_	_	_	_	_	_	_	_
+14	pulvere	_	_	_	_	_	_	_	_
+15	iniquus	_	_	_	_	_	_	_	_
+16	Amor	_	_	_	_	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	cogat	_	_	_	_	_	_	_	_
+19	et	_	_	_	_	_	_	_	_
+20	invitam	_	_	_	_	_	_	_	_
+21	lacrimas	_	_	_	_	_	_	_	_
+22	siccare	_	_	_	_	_	_	_	_
+23	cadentis	_	_	_	_	_	_	_	_
+24	!	_	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@523
+# text = His demonstrare voluit auctor versibus Obsistere homines legibus, meritis capi.
+1	His	_	_	_	_	_	_	_	_
+2	demonstrare	_	_	_	_	_	_	_	_
+3	voluit	_	_	_	_	_	_	_	_
+4	auctor	_	_	_	_	_	_	_	_
+5	versibus	_	_	_	_	_	_	_	_
+6	Obsistere	_	_	_	_	_	_	_	_
+7	homines	_	_	_	_	_	_	_	_
+8	legibus	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	meritis	_	_	_	_	_	_	_	_
+11	capi	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0620.phi001.perseus-lat1.tb.xml@157
+# text = haec est venturi prima favilla mali.
+1	haec	_	_	_	_	_	_	_	_
+2	est	_	_	_	_	_	_	_	_
+3	venturi	_	_	_	_	_	_	_	_
+4	prima	_	_	_	_	_	_	_	_
+5	favilla	_	_	_	_	_	_	_	_
+6	mali	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@1012
+# text = Immo puer quoque officiosus urceolum frigidum ad malam eius admovit, super quem incumbens Fortunata gemere ac flere coepit.
+1	Immo	_	_	_	_	_	_	_	_
+2	puer	_	_	_	_	_	_	_	_
+3	quoque	_	_	_	_	_	_	_	_
+4	officiosus	_	_	_	_	_	_	_	_
+5	urceolum	_	_	_	_	_	_	_	_
+6	frigidum	_	_	_	_	_	_	_	_
+7	ad	_	_	_	_	_	_	_	_
+8	malam	_	_	_	_	_	_	_	_
+9	eius	_	_	_	_	_	_	_	_
+10	admovit	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	super	_	_	_	_	_	_	_	_
+13	quem	_	_	_	_	_	_	_	_
+14	incumbens	_	_	_	_	_	_	_	_
+15	Fortunata	_	_	_	_	_	_	_	_
+16	gemere	_	_	_	_	_	_	_	_
+17	ac	_	_	_	_	_	_	_	_
+18	flere	_	_	_	_	_	_	_	_
+19	coepit	_	_	_	_	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0631.phi001.perseus-lat1.tb.xml@279
+# text = Quis rebus permota civitas atque inmutata urbis facies erat.
+1	Quis	_	_	_	_	_	_	_	_
+2	rebus	_	_	_	_	_	_	_	_
+3	permota	_	_	_	_	_	_	_	_
+4	civitas	_	_	_	_	_	_	_	_
+5	atque	_	_	_	_	_	_	_	_
+6	inmutata	_	_	_	_	_	_	_	_
+7	urbis	_	_	_	_	_	_	_	_
+8	facies	_	_	_	_	_	_	_	_
+9	erat	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@309
+# text = Haec colonia retroversus crescit tanquam coda vituli.
+1	Haec	_	_	_	_	_	_	_	_
+2	colonia	_	_	_	_	_	_	_	_
+3	retroversus	_	_	_	_	_	_	_	_
+4	crescit	_	_	_	_	_	_	_	_
+5	tanquam	_	_	_	_	_	_	_	_
+6	coda	_	_	_	_	_	_	_	_
+7	vituli	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@449
+# text = Periculosum est credere et non credere.
+1	Periculosum	_	_	_	_	_	_	_	_
+2	est	_	_	_	_	_	_	_	_
+3	credere	_	_	_	_	_	_	_	_
+4	et	_	_	_	_	_	_	_	_
+5	non	_	_	_	_	_	_	_	_
+6	credere	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@282
+# text = Opimam sane praedam rapuisti unguibus;
+1	Opimam	_	_	_	_	_	_	_	_
+2	sane	_	_	_	_	_	_	_	_
+3	praedam	_	_	_	_	_	_	_	_
+4	rapuisti	_	_	_	_	_	_	_	_
+5	unguibus	_	_	_	_	_	_	_	_
+6	;	_	_	_	_	_	_	_	_
+
+# sent_id = phi0620.phi001.perseus-lat1.tb.xml@302
+# text = Haec certe deserta loca et taciturna querenti, et vacuum Zephyri possidet aura nemus.
+1	Haec	_	_	_	_	_	_	_	_
+2	certe	_	_	_	_	_	_	_	_
+3	deserta	_	_	_	_	_	_	_	_
+4	loca	_	_	_	_	_	_	_	_
+5	et	_	_	_	_	_	_	_	_
+6	taciturna	_	_	_	_	_	_	_	_
+7	querenti	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	et	_	_	_	_	_	_	_	_
+10	vacuum	_	_	_	_	_	_	_	_
+11	Zephyri	_	_	_	_	_	_	_	_
+12	possidet	_	_	_	_	_	_	_	_
+13	aura	_	_	_	_	_	_	_	_
+14	nemus	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0690.phi003.perseus-lat1.tb.xml@63
+# text = ea frena furenti concutit, et stimulos sub pectore vertit Apollo.
+1	ea	_	_	_	_	_	_	_	_
+2	frena	_	_	_	_	_	_	_	_
+3	furenti	_	_	_	_	_	_	_	_
+4	concutit	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	et	_	_	_	_	_	_	_	_
+7	stimulos	_	_	_	_	_	_	_	_
+8	sub	_	_	_	_	_	_	_	_
+9	pectore	_	_	_	_	_	_	_	_
+10	vertit	_	_	_	_	_	_	_	_
+11	Apollo	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@492
+# text = Fuci recusant:
+1	Fuci	_	_	_	_	_	_	_	_
+2	recusant	_	_	_	_	_	_	_	_
+3	:	_	_	_	_	_	_	_	_
+
+# sent_id = phi0474.phi013.perseus-lat1.tb.xml@110
+# text = quis te ex hac tanta frequentia, tot ex tuis amicis ac necessariis salutavit?
+1	quis	_	_	_	_	_	_	_	_
+2	te	_	_	_	_	_	_	_	_
+3	ex	_	_	_	_	_	_	_	_
+4	hac	_	_	_	_	_	_	_	_
+5	tanta	_	_	_	_	_	_	_	_
+6	frequentia	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	tot	_	_	_	_	_	_	_	_
+9	ex	_	_	_	_	_	_	_	_
+10	tuis	_	_	_	_	_	_	_	_
+11	amicis	_	_	_	_	_	_	_	_
+12	ac	_	_	_	_	_	_	_	_
+13	necessariis	_	_	_	_	_	_	_	_
+14	salutavit	_	_	_	_	_	_	_	_
+15	?	_	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@525
+# text = sublata in horreum ex area tritici millia modium quingenta;
+1	sublata	_	_	_	_	_	_	_	_
+2	in	_	_	_	_	_	_	_	_
+3	horreum	_	_	_	_	_	_	_	_
+4	ex	_	_	_	_	_	_	_	_
+5	area	_	_	_	_	_	_	_	_
+6	tritici	_	_	_	_	_	_	_	_
+7	millia	_	_	_	_	_	_	_	_
+8	modium	_	_	_	_	_	_	_	_
+9	quingenta	_	_	_	_	_	_	_	_
+10	;	_	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@649
+# text = Io Saturnalia, rogo, mensis december est?
+1	Io	_	_	_	_	_	_	_	_
+2	Saturnalia	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	rogo	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	mensis	_	_	_	_	_	_	_	_
+7	december	_	_	_	_	_	_	_	_
+8	est	_	_	_	_	_	_	_	_
+9	?	_	_	_	_	_	_	_	_
+
+# sent_id = phi0631.phi001.perseus-lat1.tb.xml@398
+# text = rem omnem aperit, quoius gratia mittebantur;
+1	rem	_	_	_	_	_	_	_	_
+2	omnem	_	_	_	_	_	_	_	_
+3	aperit	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	quoius	_	_	_	_	_	_	_	_
+6	gratia	_	_	_	_	_	_	_	_
+7	mittebantur	_	_	_	_	_	_	_	_
+8	;	_	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@107
+# text = Virtute semper praevalet sapientia.
+1	Virtute	_	_	_	_	_	_	_	_
+2	semper	_	_	_	_	_	_	_	_
+3	praevalet	_	_	_	_	_	_	_	_
+4	sapientia	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@686
+# text = Aut numera mapalia:
+1	Aut	_	_	_	_	_	_	_	_
+2	numera	_	_	_	_	_	_	_	_
+3	mapalia	_	_	_	_	_	_	_	_
+4	:	_	_	_	_	_	_	_	_
+
+# sent_id = phi0474.phi013.perseus-lat1.tb.xml@128
+# text = haec si tecum, ut dixi, patria loquatur, nonne impetrare debeat, etiam si vim adhibere non possit?
+1	haec	_	_	_	_	_	_	_	_
+2	si	_	_	_	_	_	_	_	_
+3	tecum	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	ut	_	_	_	_	_	_	_	_
+6	dixi	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	patria	_	_	_	_	_	_	_	_
+9	loquatur	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	nonne	_	_	_	_	_	_	_	_
+12	impetrare	_	_	_	_	_	_	_	_
+13	debeat	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	etiam	_	_	_	_	_	_	_	_
+16	si	_	_	_	_	_	_	_	_
+17	vim	_	_	_	_	_	_	_	_
+18	adhibere	_	_	_	_	_	_	_	_
+19	non	_	_	_	_	_	_	_	_
+20	possit	_	_	_	_	_	_	_	_
+21	?	_	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@983
+# text = Deinde ut lassatus consedit, invitatus balnei sono diduxit usque ad cameramos ebrium et coepit Menecratis cantica lacerare, sicut illi dicebant, qui linguam eius intellegebant.
+1	Deinde	_	_	_	_	_	_	_	_
+2	ut	_	_	_	_	_	_	_	_
+3	lassatus	_	_	_	_	_	_	_	_
+4	consedit	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	invitatus	_	_	_	_	_	_	_	_
+7	balnei	_	_	_	_	_	_	_	_
+8	sono	_	_	_	_	_	_	_	_
+9	diduxit	_	_	_	_	_	_	_	_
+10	usque	_	_	_	_	_	_	_	_
+11	ad	_	_	_	_	_	_	_	_
+12	cameramos	_	_	_	_	_	_	_	_
+13	ebrium	_	_	_	_	_	_	_	_
+14	et	_	_	_	_	_	_	_	_
+15	coepit	_	_	_	_	_	_	_	_
+16	Menecratis	_	_	_	_	_	_	_	_
+17	cantica	_	_	_	_	_	_	_	_
+18	lacerare	_	_	_	_	_	_	_	_
+19	,	_	_	_	_	_	_	_	_
+20	sicut	_	_	_	_	_	_	_	_
+21	illi	_	_	_	_	_	_	_	_
+22	dicebant	_	_	_	_	_	_	_	_
+23	,	_	_	_	_	_	_	_	_
+24	qui	_	_	_	_	_	_	_	_
+25	linguam	_	_	_	_	_	_	_	_
+26	eius	_	_	_	_	_	_	_	_
+27	intellegebant	_	_	_	_	_	_	_	_
+28	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@274
+# text = Ille enimvero assilit, Donationis alacer certae gaudio.
+1	Ille	_	_	_	_	_	_	_	_
+2	enimvero	_	_	_	_	_	_	_	_
+3	assilit	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	Donationis	_	_	_	_	_	_	_	_
+6	alacer	_	_	_	_	_	_	_	_
+7	certae	_	_	_	_	_	_	_	_
+8	gaudio	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0631.phi001.perseus-lat1.tb.xml@474
+# text = equidem ego sic existumo, patres conscripti.
+1	equidem	_	_	_	_	_	_	_	_
+2	ego	_	_	_	_	_	_	_	_
+3	sic	_	_	_	_	_	_	_	_
+4	existumo	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	patres	_	_	_	_	_	_	_	_
+7	conscripti	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = tlg0031.tlg027.perseus-lat1.tb.xml@324
+# text = et fecit signa magna ut etiam ignem faceret de caelo descendere in terram in conspectu hominum.
+1	et	_	_	_	_	_	_	_	_
+2	fecit	_	_	_	_	_	_	_	_
+3	signa	_	_	_	_	_	_	_	_
+4	magna	_	_	_	_	_	_	_	_
+5	ut	_	_	_	_	_	_	_	_
+6	etiam	_	_	_	_	_	_	_	_
+7	ignem	_	_	_	_	_	_	_	_
+8	faceret	_	_	_	_	_	_	_	_
+9	de	_	_	_	_	_	_	_	_
+10	caelo	_	_	_	_	_	_	_	_
+11	descendere	_	_	_	_	_	_	_	_
+12	in	_	_	_	_	_	_	_	_
+13	terram	_	_	_	_	_	_	_	_
+14	in	_	_	_	_	_	_	_	_
+15	conspectu	_	_	_	_	_	_	_	_
+16	hominum	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0620.phi001.perseus-lat1.tb.xml@346
+# text = ille sub extrema pendens secluditur ala et volucres ramo summovet insidias.
+1	ille	_	_	_	_	_	_	_	_
+2	sub	_	_	_	_	_	_	_	_
+3	extrema	_	_	_	_	_	_	_	_
+4	pendens	_	_	_	_	_	_	_	_
+5	secluditur	_	_	_	_	_	_	_	_
+6	ala	_	_	_	_	_	_	_	_
+7	et	_	_	_	_	_	_	_	_
+8	volucres	_	_	_	_	_	_	_	_
+9	ramo	_	_	_	_	_	_	_	_
+10	summovet	_	_	_	_	_	_	_	_
+11	insidias	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0690.phi003.perseus-lat1.tb.xml@78
+# text = noctes atque dies patet atri ianua Ditis;
+1	noctes	_	_	_	_	_	_	_	_
+2	atque	_	_	_	_	_	_	_	_
+3	dies	_	_	_	_	_	_	_	_
+4	patet	_	_	_	_	_	_	_	_
+5	atri	_	_	_	_	_	_	_	_
+6	ianua	_	_	_	_	_	_	_	_
+7	Ditis	_	_	_	_	_	_	_	_
+8	;	_	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@184
+# text = huic rostrum inserens Satiatur ipsa et torquet convivam fame.
+1	huic	_	_	_	_	_	_	_	_
+2	rostrum	_	_	_	_	_	_	_	_
+3	inserens	_	_	_	_	_	_	_	_
+4	Satiatur	_	_	_	_	_	_	_	_
+5	ipsa	_	_	_	_	_	_	_	_
+6	et	_	_	_	_	_	_	_	_
+7	torquet	_	_	_	_	_	_	_	_
+8	convivam	_	_	_	_	_	_	_	_
+9	fame	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@529
+# text = Eodem die:
+1	Eodem	_	_	_	_	_	_	_	_
+2	die	_	_	_	_	_	_	_	_
+3	:	_	_	_	_	_	_	_	_
+
+# sent_id = tlg0031.tlg027.perseus-lat1.tb.xml@112
+# text = procidebant viginti quattuor seniores ante sedentem in throno et adorabant viventem in saecula saeculorum et mittebant coronas suas ante thronum dicentes:
+1	procidebant	_	_	_	_	_	_	_	_
+2	viginti	_	_	_	_	_	_	_	_
+3	quattuor	_	_	_	_	_	_	_	_
+4	seniores	_	_	_	_	_	_	_	_
+5	ante	_	_	_	_	_	_	_	_
+6	sedentem	_	_	_	_	_	_	_	_
+7	in	_	_	_	_	_	_	_	_
+8	throno	_	_	_	_	_	_	_	_
+9	et	_	_	_	_	_	_	_	_
+10	adorabant	_	_	_	_	_	_	_	_
+11	viventem	_	_	_	_	_	_	_	_
+12	in	_	_	_	_	_	_	_	_
+13	saecula	_	_	_	_	_	_	_	_
+14	saeculorum	_	_	_	_	_	_	_	_
+15	et	_	_	_	_	_	_	_	_
+16	mittebant	_	_	_	_	_	_	_	_
+17	coronas	_	_	_	_	_	_	_	_
+18	suas	_	_	_	_	_	_	_	_
+19	ante	_	_	_	_	_	_	_	_
+20	thronum	_	_	_	_	_	_	_	_
+21	dicentes	_	_	_	_	_	_	_	_
+22	:	_	_	_	_	_	_	_	_
+
+# sent_id = phi0631.phi001.perseus-lat1.tb.xml@291
+# text = deinde se ex curia domum proripuit.
+1	deinde	_	_	_	_	_	_	_	_
+2	se	_	_	_	_	_	_	_	_
+3	ex	_	_	_	_	_	_	_	_
+4	curia	_	_	_	_	_	_	_	_
+5	domum	_	_	_	_	_	_	_	_
+6	proripuit	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0620.phi001.perseus-lat1.tb.xml@205
+# text = mutat via longa puellas.
+1	mutat	_	_	_	_	_	_	_	_
+2	via	_	_	_	_	_	_	_	_
+3	longa	_	_	_	_	_	_	_	_
+4	puellas	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = tlg0031.tlg027.perseus-lat1.tb.xml@461
+# text = et miserunt pulverem super capita sua et clamaverunt flentes et lugentes dicentes:
+1	et	_	_	_	_	_	_	_	_
+2	miserunt	_	_	_	_	_	_	_	_
+3	pulverem	_	_	_	_	_	_	_	_
+4	super	_	_	_	_	_	_	_	_
+5	capita	_	_	_	_	_	_	_	_
+6	sua	_	_	_	_	_	_	_	_
+7	et	_	_	_	_	_	_	_	_
+8	clamaverunt	_	_	_	_	_	_	_	_
+9	flentes	_	_	_	_	_	_	_	_
+10	et	_	_	_	_	_	_	_	_
+11	lugentes	_	_	_	_	_	_	_	_
+12	dicentes	_	_	_	_	_	_	_	_
+13	:	_	_	_	_	_	_	_	_
+
+# sent_id = phi0620.phi001.perseus-lat1.tb.xml@347
+# text = iam Pandioniae cessit genus Orithyiae:
+1	iam	_	_	_	_	_	_	_	_
+2	Pandioniae	_	_	_	_	_	_	_	_
+3	cessit	_	_	_	_	_	_	_	_
+4	genus	_	_	_	_	_	_	_	_
+5	Orithyiae	_	_	_	_	_	_	_	_
+6	:	_	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@920
+# text = Pudet referre, quae secuntur:
+1	Pudet	_	_	_	_	_	_	_	_
+2	referre	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	quae	_	_	_	_	_	_	_	_
+5	secuntur	_	_	_	_	_	_	_	_
+6	:	_	_	_	_	_	_	_	_
+
+# sent_id = phi0620.phi001.perseus-lat1.tb.xml@239
+# text = tum mihi cessuros spondent mea gaudia reges:
+1	tum	_	_	_	_	_	_	_	_
+2	mihi	_	_	_	_	_	_	_	_
+3	cessuros	_	_	_	_	_	_	_	_
+4	spondent	_	_	_	_	_	_	_	_
+5	mea	_	_	_	_	_	_	_	_
+6	gaudia	_	_	_	_	_	_	_	_
+7	reges	_	_	_	_	_	_	_	_
+8	:	_	_	_	_	_	_	_	_
+
+# sent_id = phi0631.phi001.perseus-lat1.tb.xml@623
+# text = Dum ea Romae geruntur, Catilina ex omni copia, quam et ipse adduxerat et Manlius habuerat, duas legiones instituit, cohortis pro numero militum conplet.
+1	Dum	_	_	_	_	_	_	_	_
+2	ea	_	_	_	_	_	_	_	_
+3	Romae	_	_	_	_	_	_	_	_
+4	geruntur	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	Catilina	_	_	_	_	_	_	_	_
+7	ex	_	_	_	_	_	_	_	_
+8	omni	_	_	_	_	_	_	_	_
+9	copia	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	quam	_	_	_	_	_	_	_	_
+12	et	_	_	_	_	_	_	_	_
+13	ipse	_	_	_	_	_	_	_	_
+14	adduxerat	_	_	_	_	_	_	_	_
+15	et	_	_	_	_	_	_	_	_
+16	Manlius	_	_	_	_	_	_	_	_
+17	habuerat	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	duas	_	_	_	_	_	_	_	_
+20	legiones	_	_	_	_	_	_	_	_
+21	instituit	_	_	_	_	_	_	_	_
+22	,	_	_	_	_	_	_	_	_
+23	cohortis	_	_	_	_	_	_	_	_
+24	pro	_	_	_	_	_	_	_	_
+25	numero	_	_	_	_	_	_	_	_
+26	militum	_	_	_	_	_	_	_	_
+27	conplet	_	_	_	_	_	_	_	_
+28	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@520
+# text = Nihil autem tam inaequale erat;
+1	Nihil	_	_	_	_	_	_	_	_
+2	autem	_	_	_	_	_	_	_	_
+3	tam	_	_	_	_	_	_	_	_
+4	inaequale	_	_	_	_	_	_	_	_
+5	erat	_	_	_	_	_	_	_	_
+6	;	_	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@86
+# text = Hic auritulus Clamorem subito totis tollit viribus Novo que turbat bestias miraculo.
+1	Hic	_	_	_	_	_	_	_	_
+2	auritulus	_	_	_	_	_	_	_	_
+3	Clamorem	_	_	_	_	_	_	_	_
+4	subito	_	_	_	_	_	_	_	_
+5	totis	_	_	_	_	_	_	_	_
+6	tollit	_	_	_	_	_	_	_	_
+7	viribus	_	_	_	_	_	_	_	_
+8	Novo	_	_	_	_	_	_	_	_
+9	que	_	_	_	_	_	_	_	_
+10	turbat	_	_	_	_	_	_	_	_
+11	bestias	_	_	_	_	_	_	_	_
+12	miraculo	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0620.phi001.perseus-lat1.tb.xml@305
+# text = quod mihi das flendi, Cynthia, principium?
+1	quod	_	_	_	_	_	_	_	_
+2	mihi	_	_	_	_	_	_	_	_
+3	das	_	_	_	_	_	_	_	_
+4	flendi	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	Cynthia	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	principium	_	_	_	_	_	_	_	_
+9	?	_	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@475
+# text = Erit ille notus quem per te cognoveris.
+1	Erit	_	_	_	_	_	_	_	_
+2	ille	_	_	_	_	_	_	_	_
+3	notus	_	_	_	_	_	_	_	_
+4	quem	_	_	_	_	_	_	_	_
+5	per	_	_	_	_	_	_	_	_
+6	te	_	_	_	_	_	_	_	_
+7	cognoveris	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0474.phi013.perseus-lat1.tb.xml@239
+# text = si accelerare volent, ad vesperam consequentur.
+1	si	_	_	_	_	_	_	_	_
+2	accelerare	_	_	_	_	_	_	_	_
+3	volent	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	ad	_	_	_	_	_	_	_	_
+6	vesperam	_	_	_	_	_	_	_	_
+7	consequentur	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = tlg0031.tlg027.perseus-lat1.tb.xml@473
+# text = et iterum dixerunt:
+1	et	_	_	_	_	_	_	_	_
+2	iterum	_	_	_	_	_	_	_	_
+3	dixerunt	_	_	_	_	_	_	_	_
+4	:	_	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@416
+# text = nunc patior nives Imbres que in silvis asperam vitam trahens:
+1	nunc	_	_	_	_	_	_	_	_
+2	patior	_	_	_	_	_	_	_	_
+3	nives	_	_	_	_	_	_	_	_
+4	Imbres	_	_	_	_	_	_	_	_
+5	que	_	_	_	_	_	_	_	_
+6	in	_	_	_	_	_	_	_	_
+7	silvis	_	_	_	_	_	_	_	_
+8	asperam	_	_	_	_	_	_	_	_
+9	vitam	_	_	_	_	_	_	_	_
+10	trahens	_	_	_	_	_	_	_	_
+11	:	_	_	_	_	_	_	_	_
+
+# sent_id = phi0631.phi001.perseus-lat1.tb.xml@95
+# text = pro his superbiam, crudelitatem, deos neglegere, omnia venalia habere edocuit.
+1	pro	_	_	_	_	_	_	_	_
+2	his	_	_	_	_	_	_	_	_
+3	superbiam	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	crudelitatem	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	deos	_	_	_	_	_	_	_	_
+8	neglegere	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	omnia	_	_	_	_	_	_	_	_
+11	venalia	_	_	_	_	_	_	_	_
+12	habere	_	_	_	_	_	_	_	_
+13	edocuit	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0620.phi001.perseus-lat1.tb.xml@240
+# text = quae maneant, dum me fata perire volent!
+1	quae	_	_	_	_	_	_	_	_
+2	maneant	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	dum	_	_	_	_	_	_	_	_
+5	me	_	_	_	_	_	_	_	_
+6	fata	_	_	_	_	_	_	_	_
+7	perire	_	_	_	_	_	_	_	_
+8	volent	_	_	_	_	_	_	_	_
+9	!	_	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@609
+# text = Ridet.
+1	Ridet	_	_	_	_	_	_	_	_
+2	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@80
+# text = insignis amicitias iuvenis ambitiose coluerat;
+1	insignis	_	_	_	_	_	_	_	_
+2	amicitias	_	_	_	_	_	_	_	_
+3	iuvenis	_	_	_	_	_	_	_	_
+4	ambitiose	_	_	_	_	_	_	_	_
+5	coluerat	_	_	_	_	_	_	_	_
+6	;	_	_	_	_	_	_	_	_
+
+# sent_id = phi0690.phi003.perseus-lat1.tb.xml@115
+# text = Sic effatus vestigia pressit, observans quae signa ferant, quo tendere pergant.
+1	Sic	_	_	_	_	_	_	_	_
+2	effatus	_	_	_	_	_	_	_	_
+3	vestigia	_	_	_	_	_	_	_	_
+4	pressit	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	observans	_	_	_	_	_	_	_	_
+7	quae	_	_	_	_	_	_	_	_
+8	signa	_	_	_	_	_	_	_	_
+9	ferant	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	quo	_	_	_	_	_	_	_	_
+12	tendere	_	_	_	_	_	_	_	_
+13	pergant	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@385
+# text = Ingeniosus est et bono filo, etiam si in aves morbosus est.
+1	Ingeniosus	_	_	_	_	_	_	_	_
+2	est	_	_	_	_	_	_	_	_
+3	et	_	_	_	_	_	_	_	_
+4	bono	_	_	_	_	_	_	_	_
+5	filo	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	etiam	_	_	_	_	_	_	_	_
+8	si	_	_	_	_	_	_	_	_
+9	in	_	_	_	_	_	_	_	_
+10	aves	_	_	_	_	_	_	_	_
+11	morbosus	_	_	_	_	_	_	_	_
+12	est	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@246
+# text = Successus improborum plures allicit.
+1	Successus	_	_	_	_	_	_	_	_
+2	improborum	_	_	_	_	_	_	_	_
+3	plures	_	_	_	_	_	_	_	_
+4	allicit	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@72
+# text = Quid ita cessarunt pedes?
+1	Quid	_	_	_	_	_	_	_	_
+2	ita	_	_	_	_	_	_	_	_
+3	cessarunt	_	_	_	_	_	_	_	_
+4	pedes	_	_	_	_	_	_	_	_
+5	?	_	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@265
+# text = Hanc emendare, si tamen possum, volo Vera fabella:
+1	Hanc	_	_	_	_	_	_	_	_
+2	emendare	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	si	_	_	_	_	_	_	_	_
+5	tamen	_	_	_	_	_	_	_	_
+6	possum	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	volo	_	_	_	_	_	_	_	_
+9	Vera	_	_	_	_	_	_	_	_
+10	fabella	_	_	_	_	_	_	_	_
+11	:	_	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@660
+# text = Curabo, longe tibi sit comula ista besalis et dominus dupunduarius.
+1	Curabo	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	longe	_	_	_	_	_	_	_	_
+4	tibi	_	_	_	_	_	_	_	_
+5	sit	_	_	_	_	_	_	_	_
+6	comula	_	_	_	_	_	_	_	_
+7	ista	_	_	_	_	_	_	_	_
+8	besalis	_	_	_	_	_	_	_	_
+9	et	_	_	_	_	_	_	_	_
+10	dominus	_	_	_	_	_	_	_	_
+11	dupunduarius	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@88
+# text = Qui postquam caede fessus est, asinum evocat Iubet que vocem premere.
+1	Qui	_	_	_	_	_	_	_	_
+2	postquam	_	_	_	_	_	_	_	_
+3	caede	_	_	_	_	_	_	_	_
+4	fessus	_	_	_	_	_	_	_	_
+5	est	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	asinum	_	_	_	_	_	_	_	_
+8	evocat	_	_	_	_	_	_	_	_
+9	Iubet	_	_	_	_	_	_	_	_
+10	que	_	_	_	_	_	_	_	_
+11	vocem	_	_	_	_	_	_	_	_
+12	premere	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi1348.abo012.perseus-lat1.tb.xml@326
+# text = nam in urbe quidem pertinacissime abstinuit hoc honore;
+1	nam	_	_	_	_	_	_	_	_
+2	in	_	_	_	_	_	_	_	_
+3	urbe	_	_	_	_	_	_	_	_
+4	quidem	_	_	_	_	_	_	_	_
+5	pertinacissime	_	_	_	_	_	_	_	_
+6	abstinuit	_	_	_	_	_	_	_	_
+7	hoc	_	_	_	_	_	_	_	_
+8	honore	_	_	_	_	_	_	_	_
+9	;	_	_	_	_	_	_	_	_
+
+# sent_id = phi0631.phi001.perseus-lat1.tb.xml@246
+# text = lubido sic accensa, ut saepius peteret viros quam peteretur.
+1	lubido	_	_	_	_	_	_	_	_
+2	sic	_	_	_	_	_	_	_	_
+3	accensa	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	ut	_	_	_	_	_	_	_	_
+6	saepius	_	_	_	_	_	_	_	_
+7	peteret	_	_	_	_	_	_	_	_
+8	viros	_	_	_	_	_	_	_	_
+9	quam	_	_	_	_	_	_	_	_
+10	peteretur	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@352
+# text = colubra restem non parit.
+1	colubra	_	_	_	_	_	_	_	_
+2	restem	_	_	_	_	_	_	_	_
+3	non	_	_	_	_	_	_	_	_
+4	parit	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0959.phi006.perseus-lat1.tb.xml@248
+# text = Luce sinit pasci;
+1	Luce	_	_	_	_	_	_	_	_
+2	sinit	_	_	_	_	_	_	_	_
+3	pasci	_	_	_	_	_	_	_	_
+4	;	_	_	_	_	_	_	_	_
+
+# sent_id = phi0959.phi006.perseus-lat1.tb.xml@2
+# text = di, coeptis ( nam vos mutastis et illas ) adspirate meis que prima ab origine mundi ad mea perpetuum deducite tempora carmen.
+1	di	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	coeptis	_	_	_	_	_	_	_	_
+4	(	_	_	_	_	_	_	_	_
+5	nam	_	_	_	_	_	_	_	_
+6	vos	_	_	_	_	_	_	_	_
+7	mutastis	_	_	_	_	_	_	_	_
+8	et	_	_	_	_	_	_	_	_
+9	illas	_	_	_	_	_	_	_	_
+10	)	_	_	_	_	_	_	_	_
+11	adspirate	_	_	_	_	_	_	_	_
+12	meis	_	_	_	_	_	_	_	_
+13	que	_	_	_	_	_	_	_	_
+14	prima	_	_	_	_	_	_	_	_
+15	ab	_	_	_	_	_	_	_	_
+16	origine	_	_	_	_	_	_	_	_
+17	mundi	_	_	_	_	_	_	_	_
+18	ad	_	_	_	_	_	_	_	_
+19	mea	_	_	_	_	_	_	_	_
+20	perpetuum	_	_	_	_	_	_	_	_
+21	deducite	_	_	_	_	_	_	_	_
+22	tempora	_	_	_	_	_	_	_	_
+23	carmen	_	_	_	_	_	_	_	_
+24	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@14
+# text = Respondit agnus:
+1	Respondit	_	_	_	_	_	_	_	_
+2	agnus	_	_	_	_	_	_	_	_
+3	:	_	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@158
+# text = Quid ille qui libertini loco iacet, quam bene se habuit.
+1	Quid	_	_	_	_	_	_	_	_
+2	ille	_	_	_	_	_	_	_	_
+3	qui	_	_	_	_	_	_	_	_
+4	libertini	_	_	_	_	_	_	_	_
+5	loco	_	_	_	_	_	_	_	_
+6	iacet	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	quam	_	_	_	_	_	_	_	_
+9	bene	_	_	_	_	_	_	_	_
+10	se	_	_	_	_	_	_	_	_
+11	habuit	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0959.phi006.perseus-lat1.tb.xml@69
+# text = Sternuntur segetes et deplorata coloni vota iacent, que longi perit labor inritus anni.
+1	Sternuntur	_	_	_	_	_	_	_	_
+2	segetes	_	_	_	_	_	_	_	_
+3	et	_	_	_	_	_	_	_	_
+4	deplorata	_	_	_	_	_	_	_	_
+5	coloni	_	_	_	_	_	_	_	_
+6	vota	_	_	_	_	_	_	_	_
+7	iacent	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	que	_	_	_	_	_	_	_	_
+10	longi	_	_	_	_	_	_	_	_
+11	perit	_	_	_	_	_	_	_	_
+12	labor	_	_	_	_	_	_	_	_
+13	inritus	_	_	_	_	_	_	_	_
+14	anni	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0631.phi001.perseus-lat1.tb.xml@391
+# text = consideres, quid tuae rationes postulent.
+1	consideres	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	quid	_	_	_	_	_	_	_	_
+4	tuae	_	_	_	_	_	_	_	_
+5	rationes	_	_	_	_	_	_	_	_
+6	postulent	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@328
+# text = Aliquae venient feriae, Quae me soluto pectore ad studium vocent.
+1	Aliquae	_	_	_	_	_	_	_	_
+2	venient	_	_	_	_	_	_	_	_
+3	feriae	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	Quae	_	_	_	_	_	_	_	_
+6	me	_	_	_	_	_	_	_	_
+7	soluto	_	_	_	_	_	_	_	_
+8	pectore	_	_	_	_	_	_	_	_
+9	ad	_	_	_	_	_	_	_	_
+10	studium	_	_	_	_	_	_	_	_
+11	vocent	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = tlg0031.tlg027.perseus-lat1.tb.xml@379
+# text = et nemo poterat introire in templum donec consummarentur septem plagae septem angelorum.
+1	et	_	_	_	_	_	_	_	_
+2	nemo	_	_	_	_	_	_	_	_
+3	poterat	_	_	_	_	_	_	_	_
+4	introire	_	_	_	_	_	_	_	_
+5	in	_	_	_	_	_	_	_	_
+6	templum	_	_	_	_	_	_	_	_
+7	donec	_	_	_	_	_	_	_	_
+8	consummarentur	_	_	_	_	_	_	_	_
+9	septem	_	_	_	_	_	_	_	_
+10	plagae	_	_	_	_	_	_	_	_
+11	septem	_	_	_	_	_	_	_	_
+12	angelorum	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@221
+# text = Puer detraxit pilleum apro que capiti suo imposuit.
+1	Puer	_	_	_	_	_	_	_	_
+2	detraxit	_	_	_	_	_	_	_	_
+3	pilleum	_	_	_	_	_	_	_	_
+4	apro	_	_	_	_	_	_	_	_
+5	que	_	_	_	_	_	_	_	_
+6	capiti	_	_	_	_	_	_	_	_
+7	suo	_	_	_	_	_	_	_	_
+8	imposuit	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0620.phi001.perseus-lat1.tb.xml@290
+# text = aspice, quam saevas increpat aura minas.
+1	aspice	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	quam	_	_	_	_	_	_	_	_
+4	saevas	_	_	_	_	_	_	_	_
+5	increpat	_	_	_	_	_	_	_	_
+6	aura	_	_	_	_	_	_	_	_
+7	minas	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@695
+# text = Intravit factio statim que hastis scuta concrepuit.
+1	Intravit	_	_	_	_	_	_	_	_
+2	factio	_	_	_	_	_	_	_	_
+3	statim	_	_	_	_	_	_	_	_
+4	que	_	_	_	_	_	_	_	_
+5	hastis	_	_	_	_	_	_	_	_
+6	scuta	_	_	_	_	_	_	_	_
+7	concrepuit	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0631.phi001.perseus-lat1.tb.xml@661
+# text = audacia pro muro habetur.
+1	audacia	_	_	_	_	_	_	_	_
+2	pro	_	_	_	_	_	_	_	_
+3	muro	_	_	_	_	_	_	_	_
+4	habetur	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi1221.phi007.perseus-lat1.tb.xml@26
+# text = Pontifex maximus, augur, XV virum sacris faciundis, VII virum epulonum, frater arvalis, sodalis Titius, fetialis fui.
+1	Pontifex	_	_	_	_	_	_	_	_
+2	maximus	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	augur	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	XV	_	_	_	_	_	_	_	_
+7	virum	_	_	_	_	_	_	_	_
+8	sacris	_	_	_	_	_	_	_	_
+9	faciundis	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	VII	_	_	_	_	_	_	_	_
+12	virum	_	_	_	_	_	_	_	_
+13	epulonum	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	frater	_	_	_	_	_	_	_	_
+16	arvalis	_	_	_	_	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	sodalis	_	_	_	_	_	_	_	_
+19	Titius	_	_	_	_	_	_	_	_
+20	,	_	_	_	_	_	_	_	_
+21	fetialis	_	_	_	_	_	_	_	_
+22	fui	_	_	_	_	_	_	_	_
+23	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@368
+# text = et ego tibi plodo.
+1	et	_	_	_	_	_	_	_	_
+2	ego	_	_	_	_	_	_	_	_
+3	tibi	_	_	_	_	_	_	_	_
+4	plodo	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@61
+# text = proximae tamen Germanicis exercitibus Galliarum civitates non eodem honore habitae, quaedam etiam finibus ademptis pari dolore commoda aliena ac suas iniurias metiebantur.
+1	proximae	_	_	_	_	_	_	_	_
+2	tamen	_	_	_	_	_	_	_	_
+3	Germanicis	_	_	_	_	_	_	_	_
+4	exercitibus	_	_	_	_	_	_	_	_
+5	Galliarum	_	_	_	_	_	_	_	_
+6	civitates	_	_	_	_	_	_	_	_
+7	non	_	_	_	_	_	_	_	_
+8	eodem	_	_	_	_	_	_	_	_
+9	honore	_	_	_	_	_	_	_	_
+10	habitae	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	quaedam	_	_	_	_	_	_	_	_
+13	etiam	_	_	_	_	_	_	_	_
+14	finibus	_	_	_	_	_	_	_	_
+15	ademptis	_	_	_	_	_	_	_	_
+16	pari	_	_	_	_	_	_	_	_
+17	dolore	_	_	_	_	_	_	_	_
+18	commoda	_	_	_	_	_	_	_	_
+19	aliena	_	_	_	_	_	_	_	_
+20	ac	_	_	_	_	_	_	_	_
+21	suas	_	_	_	_	_	_	_	_
+22	iniurias	_	_	_	_	_	_	_	_
+23	metiebantur	_	_	_	_	_	_	_	_
+24	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0959.phi006.perseus-lat1.tb.xml@105
+# text = possedit cetera pontus.
+1	possedit	_	_	_	_	_	_	_	_
+2	cetera	_	_	_	_	_	_	_	_
+3	pontus	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0631.phi001.perseus-lat1.tb.xml@308
+# text = earum exemplum infra scriptum est.
+1	earum	_	_	_	_	_	_	_	_
+2	exemplum	_	_	_	_	_	_	_	_
+3	infra	_	_	_	_	_	_	_	_
+4	scriptum	_	_	_	_	_	_	_	_
+5	est	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@245
+# text = Noli coram pluribus Hoc facere canibus, ne nos vivos devorent, Cum scierint esse tale culpae praemium.
+1	Noli	_	_	_	_	_	_	_	_
+2	coram	_	_	_	_	_	_	_	_
+3	pluribus	_	_	_	_	_	_	_	_
+4	Hoc	_	_	_	_	_	_	_	_
+5	facere	_	_	_	_	_	_	_	_
+6	canibus	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	ne	_	_	_	_	_	_	_	_
+9	nos	_	_	_	_	_	_	_	_
+10	vivos	_	_	_	_	_	_	_	_
+11	devorent	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	Cum	_	_	_	_	_	_	_	_
+14	scierint	_	_	_	_	_	_	_	_
+15	esse	_	_	_	_	_	_	_	_
+16	tale	_	_	_	_	_	_	_	_
+17	culpae	_	_	_	_	_	_	_	_
+18	praemium	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0959.phi006.perseus-lat1.tb.xml@180
+# text = nympha, mane!
+1	nympha	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	mane	_	_	_	_	_	_	_	_
+4	!	_	_	_	_	_	_	_	_
+
+# sent_id = phi0620.phi001.perseus-lat1.tb.xml@204
+# text = non sum ego qui fueram:
+1	non	_	_	_	_	_	_	_	_
+2	sum	_	_	_	_	_	_	_	_
+3	ego	_	_	_	_	_	_	_	_
+4	qui	_	_	_	_	_	_	_	_
+5	fueram	_	_	_	_	_	_	_	_
+6	:	_	_	_	_	_	_	_	_
+
+# sent_id = phi0631.phi001.perseus-lat1.tb.xml@656
+# text = quia illa foeda atque intoleranda viris videbantur, haec sequi decrevistis.
+1	quia	_	_	_	_	_	_	_	_
+2	illa	_	_	_	_	_	_	_	_
+3	foeda	_	_	_	_	_	_	_	_
+4	atque	_	_	_	_	_	_	_	_
+5	intoleranda	_	_	_	_	_	_	_	_
+6	viris	_	_	_	_	_	_	_	_
+7	videbantur	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	haec	_	_	_	_	_	_	_	_
+10	sequi	_	_	_	_	_	_	_	_
+11	decrevistis	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0631.phi001.perseus-lat1.tb.xml@629
+# text = interea servitia repudiabat, quoius initio ad eum magnae copiae concurrebant, opibus coniurationis fretus, simul alienum suis rationibus existumans videri causam civium cum servis fugitivis communicavisse.
+1	interea	_	_	_	_	_	_	_	_
+2	servitia	_	_	_	_	_	_	_	_
+3	repudiabat	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	quoius	_	_	_	_	_	_	_	_
+6	initio	_	_	_	_	_	_	_	_
+7	ad	_	_	_	_	_	_	_	_
+8	eum	_	_	_	_	_	_	_	_
+9	magnae	_	_	_	_	_	_	_	_
+10	copiae	_	_	_	_	_	_	_	_
+11	concurrebant	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	opibus	_	_	_	_	_	_	_	_
+14	coniurationis	_	_	_	_	_	_	_	_
+15	fretus	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	simul	_	_	_	_	_	_	_	_
+18	alienum	_	_	_	_	_	_	_	_
+19	suis	_	_	_	_	_	_	_	_
+20	rationibus	_	_	_	_	_	_	_	_
+21	existumans	_	_	_	_	_	_	_	_
+22	videri	_	_	_	_	_	_	_	_
+23	causam	_	_	_	_	_	_	_	_
+24	civium	_	_	_	_	_	_	_	_
+25	cum	_	_	_	_	_	_	_	_
+26	servis	_	_	_	_	_	_	_	_
+27	fugitivis	_	_	_	_	_	_	_	_
+28	communicavisse	_	_	_	_	_	_	_	_
+29	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0959.phi006.perseus-lat1.tb.xml@112
+# text = O utinam possim populos reparare paternis artibus atque animas formatae infundere terrae!
+1	O	_	_	_	_	_	_	_	_
+2	utinam	_	_	_	_	_	_	_	_
+3	possim	_	_	_	_	_	_	_	_
+4	populos	_	_	_	_	_	_	_	_
+5	reparare	_	_	_	_	_	_	_	_
+6	paternis	_	_	_	_	_	_	_	_
+7	artibus	_	_	_	_	_	_	_	_
+8	atque	_	_	_	_	_	_	_	_
+9	animas	_	_	_	_	_	_	_	_
+10	formatae	_	_	_	_	_	_	_	_
+11	infundere	_	_	_	_	_	_	_	_
+12	terrae	_	_	_	_	_	_	_	_
+13	!	_	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@346
+# text = Hoc est se ipsum traducere.
+1	Hoc	_	_	_	_	_	_	_	_
+2	est	_	_	_	_	_	_	_	_
+3	se	_	_	_	_	_	_	_	_
+4	ipsum	_	_	_	_	_	_	_	_
+5	traducere	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# newdoc id = phi1351.phi005.perseus-lat1.tb.xml
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@2
+# text = nam post conditam urbem octingentos et viginti prioris aevi annos multi auctores rettulerunt, dum res populi Romani memorabantur pari eloquentia ac libertate:
+1	nam	_	_	_	_	_	_	_	_
+2	post	_	_	_	_	_	_	_	_
+3	conditam	_	_	_	_	_	_	_	_
+4	urbem	_	_	_	_	_	_	_	_
+5	octingentos	_	_	_	_	_	_	_	_
+6	et	_	_	_	_	_	_	_	_
+7	viginti	_	_	_	_	_	_	_	_
+8	prioris	_	_	_	_	_	_	_	_
+9	aevi	_	_	_	_	_	_	_	_
+10	annos	_	_	_	_	_	_	_	_
+11	multi	_	_	_	_	_	_	_	_
+12	auctores	_	_	_	_	_	_	_	_
+13	rettulerunt	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	dum	_	_	_	_	_	_	_	_
+16	res	_	_	_	_	_	_	_	_
+17	populi	_	_	_	_	_	_	_	_
+18	Romani	_	_	_	_	_	_	_	_
+19	memorabantur	_	_	_	_	_	_	_	_
+20	pari	_	_	_	_	_	_	_	_
+21	eloquentia	_	_	_	_	_	_	_	_
+22	ac	_	_	_	_	_	_	_	_
+23	libertate	_	_	_	_	_	_	_	_
+24	:	_	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@357
+# text = Videre agrestes:
+1	Videre	_	_	_	_	_	_	_	_
+2	agrestes	_	_	_	_	_	_	_	_
+3	:	_	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@341
+# text = Huic excusatum me velim nihilominus:
+1	Huic	_	_	_	_	_	_	_	_
+2	excusatum	_	_	_	_	_	_	_	_
+3	me	_	_	_	_	_	_	_	_
+4	velim	_	_	_	_	_	_	_	_
+5	nihilominus	_	_	_	_	_	_	_	_
+6	:	_	_	_	_	_	_	_	_
+
+# sent_id = phi0474.phi013.perseus-lat1.tb.xml@228
+# text = Catilina ipse pertimuit, profugit:
+1	Catilina	_	_	_	_	_	_	_	_
+2	ipse	_	_	_	_	_	_	_	_
+3	pertimuit	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	profugit	_	_	_	_	_	_	_	_
+6	:	_	_	_	_	_	_	_	_
+
+# sent_id = phi1348.abo012.perseus-lat1.tb.xml@60
+# text = et quo magis paenitentiam prioris sectae approbaret, Nursinos grandi pecunia et quam pendere nequirent multatos extorres oppido egit, quod Mutinensi acie interemptorum ciuium tumulo publice extructo ascripserant pro libertate eos occubuisse.
+1	et	_	_	_	_	_	_	_	_
+2	quo	_	_	_	_	_	_	_	_
+3	magis	_	_	_	_	_	_	_	_
+4	paenitentiam	_	_	_	_	_	_	_	_
+5	prioris	_	_	_	_	_	_	_	_
+6	sectae	_	_	_	_	_	_	_	_
+7	approbaret	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	Nursinos	_	_	_	_	_	_	_	_
+10	grandi	_	_	_	_	_	_	_	_
+11	pecunia	_	_	_	_	_	_	_	_
+12	et	_	_	_	_	_	_	_	_
+13	quam	_	_	_	_	_	_	_	_
+14	pendere	_	_	_	_	_	_	_	_
+15	nequirent	_	_	_	_	_	_	_	_
+16	multatos	_	_	_	_	_	_	_	_
+17	extorres	_	_	_	_	_	_	_	_
+18	oppido	_	_	_	_	_	_	_	_
+19	egit	_	_	_	_	_	_	_	_
+20	,	_	_	_	_	_	_	_	_
+21	quod	_	_	_	_	_	_	_	_
+22	Mutinensi	_	_	_	_	_	_	_	_
+23	acie	_	_	_	_	_	_	_	_
+24	interemptorum	_	_	_	_	_	_	_	_
+25	ciuium	_	_	_	_	_	_	_	_
+26	tumulo	_	_	_	_	_	_	_	_
+27	publice	_	_	_	_	_	_	_	_
+28	extructo	_	_	_	_	_	_	_	_
+29	ascripserant	_	_	_	_	_	_	_	_
+30	pro	_	_	_	_	_	_	_	_
+31	libertate	_	_	_	_	_	_	_	_
+32	eos	_	_	_	_	_	_	_	_
+33	occubuisse	_	_	_	_	_	_	_	_
+34	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@322
+# text = Si nostrum studium ad aures pervenit tuas Et arte fictas animus sentit fabulas, Omnem querelam submovet felicitas.
+1	Si	_	_	_	_	_	_	_	_
+2	nostrum	_	_	_	_	_	_	_	_
+3	studium	_	_	_	_	_	_	_	_
+4	ad	_	_	_	_	_	_	_	_
+5	aures	_	_	_	_	_	_	_	_
+6	pervenit	_	_	_	_	_	_	_	_
+7	tuas	_	_	_	_	_	_	_	_
+8	Et	_	_	_	_	_	_	_	_
+9	arte	_	_	_	_	_	_	_	_
+10	fictas	_	_	_	_	_	_	_	_
+11	animus	_	_	_	_	_	_	_	_
+12	sentit	_	_	_	_	_	_	_	_
+13	fabulas	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	Omnem	_	_	_	_	_	_	_	_
+16	querelam	_	_	_	_	_	_	_	_
+17	submovet	_	_	_	_	_	_	_	_
+18	felicitas	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@894
+# text = Sic me salvum habeatis, ut ego sic solebam ipsumam meam debattuere, ut etiam dominus suspicaretur;
+1	Sic	_	_	_	_	_	_	_	_
+2	me	_	_	_	_	_	_	_	_
+3	salvum	_	_	_	_	_	_	_	_
+4	habeatis	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	ut	_	_	_	_	_	_	_	_
+7	ego	_	_	_	_	_	_	_	_
+8	sic	_	_	_	_	_	_	_	_
+9	solebam	_	_	_	_	_	_	_	_
+10	ipsumam	_	_	_	_	_	_	_	_
+11	meam	_	_	_	_	_	_	_	_
+12	debattuere	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	ut	_	_	_	_	_	_	_	_
+15	etiam	_	_	_	_	_	_	_	_
+16	dominus	_	_	_	_	_	_	_	_
+17	suspicaretur	_	_	_	_	_	_	_	_
+18	;	_	_	_	_	_	_	_	_
+
+# sent_id = tlg0031.tlg027.perseus-lat1.tb.xml@333
+# text = et numerus eius est sescenti sexaginta sex.
+1	et	_	_	_	_	_	_	_	_
+2	numerus	_	_	_	_	_	_	_	_
+3	eius	_	_	_	_	_	_	_	_
+4	est	_	_	_	_	_	_	_	_
+5	sescenti	_	_	_	_	_	_	_	_
+6	sexaginta	_	_	_	_	_	_	_	_
+7	sex	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@848
+# text = Ultimo etiam periscelides resolvit et reticulum aureum, quem ex obrussa esse dicebat.
+1	Ultimo	_	_	_	_	_	_	_	_
+2	etiam	_	_	_	_	_	_	_	_
+3	periscelides	_	_	_	_	_	_	_	_
+4	resolvit	_	_	_	_	_	_	_	_
+5	et	_	_	_	_	_	_	_	_
+6	reticulum	_	_	_	_	_	_	_	_
+7	aureum	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	quem	_	_	_	_	_	_	_	_
+10	ex	_	_	_	_	_	_	_	_
+11	obrussa	_	_	_	_	_	_	_	_
+12	esse	_	_	_	_	_	_	_	_
+13	dicebat	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = tlg0031.tlg027.perseus-lat1.tb.xml@117
+# text = et nemo poterat in caelo que ne in terra que ne subtus terram aperire librum que ne respicere illum.
+1	et	_	_	_	_	_	_	_	_
+2	nemo	_	_	_	_	_	_	_	_
+3	poterat	_	_	_	_	_	_	_	_
+4	in	_	_	_	_	_	_	_	_
+5	caelo	_	_	_	_	_	_	_	_
+6	que	_	_	_	_	_	_	_	_
+7	ne	_	_	_	_	_	_	_	_
+8	in	_	_	_	_	_	_	_	_
+9	terra	_	_	_	_	_	_	_	_
+10	que	_	_	_	_	_	_	_	_
+11	ne	_	_	_	_	_	_	_	_
+12	subtus	_	_	_	_	_	_	_	_
+13	terram	_	_	_	_	_	_	_	_
+14	aperire	_	_	_	_	_	_	_	_
+15	librum	_	_	_	_	_	_	_	_
+16	que	_	_	_	_	_	_	_	_
+17	ne	_	_	_	_	_	_	_	_
+18	respicere	_	_	_	_	_	_	_	_
+19	illum	_	_	_	_	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@18
+# text = iam vero Italia novis cladibus vel post longam saeculorum seriem repetitis adflicta.
+1	iam	_	_	_	_	_	_	_	_
+2	vero	_	_	_	_	_	_	_	_
+3	Italia	_	_	_	_	_	_	_	_
+4	novis	_	_	_	_	_	_	_	_
+5	cladibus	_	_	_	_	_	_	_	_
+6	vel	_	_	_	_	_	_	_	_
+7	post	_	_	_	_	_	_	_	_
+8	longam	_	_	_	_	_	_	_	_
+9	saeculorum	_	_	_	_	_	_	_	_
+10	seriem	_	_	_	_	_	_	_	_
+11	repetitis	_	_	_	_	_	_	_	_
+12	adflicta	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@503
+# text = Ille se torquet diu Nec quaestionis positae causam intellegit.
+1	Ille	_	_	_	_	_	_	_	_
+2	se	_	_	_	_	_	_	_	_
+3	torquet	_	_	_	_	_	_	_	_
+4	diu	_	_	_	_	_	_	_	_
+5	Nec	_	_	_	_	_	_	_	_
+6	quaestionis	_	_	_	_	_	_	_	_
+7	positae	_	_	_	_	_	_	_	_
+8	causam	_	_	_	_	_	_	_	_
+9	intellegit	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0474.phi013.perseus-lat1.tb.xml@109
+# text = venisti paulo ante in senatum.
+1	venisti	_	_	_	_	_	_	_	_
+2	paulo	_	_	_	_	_	_	_	_
+3	ante	_	_	_	_	_	_	_	_
+4	in	_	_	_	_	_	_	_	_
+5	senatum	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@510
+# text = Ille dimissus circa mensam percucurrit.
+1	Ille	_	_	_	_	_	_	_	_
+2	dimissus	_	_	_	_	_	_	_	_
+3	circa	_	_	_	_	_	_	_	_
+4	mensam	_	_	_	_	_	_	_	_
+5	percucurrit	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0959.phi006.perseus-lat1.tb.xml@125
+# text = Magna parens terra est, lapides in corpore terrae ossa reor dici;
+1	Magna	_	_	_	_	_	_	_	_
+2	parens	_	_	_	_	_	_	_	_
+3	terra	_	_	_	_	_	_	_	_
+4	est	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	lapides	_	_	_	_	_	_	_	_
+7	in	_	_	_	_	_	_	_	_
+8	corpore	_	_	_	_	_	_	_	_
+9	terrae	_	_	_	_	_	_	_	_
+10	ossa	_	_	_	_	_	_	_	_
+11	reor	_	_	_	_	_	_	_	_
+12	dici	_	_	_	_	_	_	_	_
+13	;	_	_	_	_	_	_	_	_
+
+# sent_id = phi0631.phi001.perseus-lat1.tb.xml@582
+# text = ignoscite Cethegi adulescentiae, nisi iterum patriae bellum fecit.
+1	ignoscite	_	_	_	_	_	_	_	_
+2	Cethegi	_	_	_	_	_	_	_	_
+3	adulescentiae	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	nisi	_	_	_	_	_	_	_	_
+6	iterum	_	_	_	_	_	_	_	_
+7	patriae	_	_	_	_	_	_	_	_
+8	bellum	_	_	_	_	_	_	_	_
+9	fecit	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = tlg0031.tlg027.perseus-lat1.tb.xml@319
+# text = si quis habet aurem audiat:
+1	si	_	_	_	_	_	_	_	_
+2	quis	_	_	_	_	_	_	_	_
+3	habet	_	_	_	_	_	_	_	_
+4	aurem	_	_	_	_	_	_	_	_
+5	audiat	_	_	_	_	_	_	_	_
+6	:	_	_	_	_	_	_	_	_
+
+# sent_id = phi0620.phi001.perseus-lat1.tb.xml@181
+# text = is poterit felix una remanere puella, qui numquam vacuo pectore liber erit.
+1	is	_	_	_	_	_	_	_	_
+2	poterit	_	_	_	_	_	_	_	_
+3	felix	_	_	_	_	_	_	_	_
+4	una	_	_	_	_	_	_	_	_
+5	remanere	_	_	_	_	_	_	_	_
+6	puella	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	qui	_	_	_	_	_	_	_	_
+9	numquam	_	_	_	_	_	_	_	_
+10	vacuo	_	_	_	_	_	_	_	_
+11	pectore	_	_	_	_	_	_	_	_
+12	liber	_	_	_	_	_	_	_	_
+13	erit	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0620.phi001.perseus-lat1.tb.xml@3
+# text = et mihi iam toto furor hic non deficit anno, cum tamen adversos cogor habere deos.
+1	et	_	_	_	_	_	_	_	_
+2	mihi	_	_	_	_	_	_	_	_
+3	iam	_	_	_	_	_	_	_	_
+4	toto	_	_	_	_	_	_	_	_
+5	furor	_	_	_	_	_	_	_	_
+6	hic	_	_	_	_	_	_	_	_
+7	non	_	_	_	_	_	_	_	_
+8	deficit	_	_	_	_	_	_	_	_
+9	anno	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	cum	_	_	_	_	_	_	_	_
+12	tamen	_	_	_	_	_	_	_	_
+13	adversos	_	_	_	_	_	_	_	_
+14	cogor	_	_	_	_	_	_	_	_
+15	habere	_	_	_	_	_	_	_	_
+16	deos	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0631.phi001.perseus-lat1.tb.xml@652
+# text = nos pro patria, pro libertate, pro vita certamus;
+1	nos	_	_	_	_	_	_	_	_
+2	pro	_	_	_	_	_	_	_	_
+3	patria	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	pro	_	_	_	_	_	_	_	_
+6	libertate	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	pro	_	_	_	_	_	_	_	_
+9	vita	_	_	_	_	_	_	_	_
+10	certamus	_	_	_	_	_	_	_	_
+11	;	_	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@949
+# text = Facias et totum populum sibi suaviter facientem.
+1	Facias	_	_	_	_	_	_	_	_
+2	et	_	_	_	_	_	_	_	_
+3	totum	_	_	_	_	_	_	_	_
+4	populum	_	_	_	_	_	_	_	_
+5	sibi	_	_	_	_	_	_	_	_
+6	suaviter	_	_	_	_	_	_	_	_
+7	facientem	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0631.phi001.perseus-lat1.tb.xml@144
+# text = prorsus in facie que voltu vecordia inerat.
+1	prorsus	_	_	_	_	_	_	_	_
+2	in	_	_	_	_	_	_	_	_
+3	facie	_	_	_	_	_	_	_	_
+4	que	_	_	_	_	_	_	_	_
+5	voltu	_	_	_	_	_	_	_	_
+6	vecordia	_	_	_	_	_	_	_	_
+7	inerat	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@525
+# text = Cicada acerbum noctuae convicium Faciebat, solitae victum in tenebris quaerere Cavo que ramo capere somnum interdiu.
+1	Cicada	_	_	_	_	_	_	_	_
+2	acerbum	_	_	_	_	_	_	_	_
+3	noctuae	_	_	_	_	_	_	_	_
+4	convicium	_	_	_	_	_	_	_	_
+5	Faciebat	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	solitae	_	_	_	_	_	_	_	_
+8	victum	_	_	_	_	_	_	_	_
+9	in	_	_	_	_	_	_	_	_
+10	tenebris	_	_	_	_	_	_	_	_
+11	quaerere	_	_	_	_	_	_	_	_
+12	Cavo	_	_	_	_	_	_	_	_
+13	que	_	_	_	_	_	_	_	_
+14	ramo	_	_	_	_	_	_	_	_
+15	capere	_	_	_	_	_	_	_	_
+16	somnum	_	_	_	_	_	_	_	_
+17	interdiu	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0959.phi006.perseus-lat1.tb.xml@271
+# text = Haec ubi disposuit, patria Iove natus ab arce desilit in terras.
+1	Haec	_	_	_	_	_	_	_	_
+2	ubi	_	_	_	_	_	_	_	_
+3	disposuit	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	patria	_	_	_	_	_	_	_	_
+6	Iove	_	_	_	_	_	_	_	_
+7	natus	_	_	_	_	_	_	_	_
+8	ab	_	_	_	_	_	_	_	_
+9	arce	_	_	_	_	_	_	_	_
+10	desilit	_	_	_	_	_	_	_	_
+11	in	_	_	_	_	_	_	_	_
+12	terras	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@43
+# text = accessit Galbae vox pro re publica honesta, ipsi anceps, legi a se militem, non emi;
+1	accessit	_	_	_	_	_	_	_	_
+2	Galbae	_	_	_	_	_	_	_	_
+3	vox	_	_	_	_	_	_	_	_
+4	pro	_	_	_	_	_	_	_	_
+5	re	_	_	_	_	_	_	_	_
+6	publica	_	_	_	_	_	_	_	_
+7	honesta	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	ipsi	_	_	_	_	_	_	_	_
+10	anceps	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	legi	_	_	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	se	_	_	_	_	_	_	_	_
+15	militem	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	non	_	_	_	_	_	_	_	_
+18	emi	_	_	_	_	_	_	_	_
+19	;	_	_	_	_	_	_	_	_
+
+# sent_id = phi0448.phi001.perseus-lat1.tb.xml@32
+# text = Ubi neutri transeundi initium faciunt, secundiore equitum proelio nostris Caesar suos in castra reduxit.
+1	Ubi	_	_	_	_	_	_	_	_
+2	neutri	_	_	_	_	_	_	_	_
+3	transeundi	_	_	_	_	_	_	_	_
+4	initium	_	_	_	_	_	_	_	_
+5	faciunt	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	secundiore	_	_	_	_	_	_	_	_
+8	equitum	_	_	_	_	_	_	_	_
+9	proelio	_	_	_	_	_	_	_	_
+10	nostris	_	_	_	_	_	_	_	_
+11	Caesar	_	_	_	_	_	_	_	_
+12	suos	_	_	_	_	_	_	_	_
+13	in	_	_	_	_	_	_	_	_
+14	castra	_	_	_	_	_	_	_	_
+15	reduxit	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0620.phi001.perseus-lat1.tb.xml@274
+# text = cur numquam reserata meos admittis amores, nescia furtivas reddere mota preces?
+1	cur	_	_	_	_	_	_	_	_
+2	numquam	_	_	_	_	_	_	_	_
+3	reserata	_	_	_	_	_	_	_	_
+4	meos	_	_	_	_	_	_	_	_
+5	admittis	_	_	_	_	_	_	_	_
+6	amores	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	nescia	_	_	_	_	_	_	_	_
+9	furtivas	_	_	_	_	_	_	_	_
+10	reddere	_	_	_	_	_	_	_	_
+11	mota	_	_	_	_	_	_	_	_
+12	preces	_	_	_	_	_	_	_	_
+13	?	_	_	_	_	_	_	_	_
+
+# sent_id = phi0959.phi006.perseus-lat1.tb.xml@158
+# text = fugat hoc, facit illud amorem.
+1	fugat	_	_	_	_	_	_	_	_
+2	hoc	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	facit	_	_	_	_	_	_	_	_
+5	illud	_	_	_	_	_	_	_	_
+6	amorem	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0620.phi001.perseus-lat1.tb.xml@159
+# text = nullus Amor cuiquam facilis ita praebuit alas, ut non alterna presserit ille manu.
+1	nullus	_	_	_	_	_	_	_	_
+2	Amor	_	_	_	_	_	_	_	_
+3	cuiquam	_	_	_	_	_	_	_	_
+4	facilis	_	_	_	_	_	_	_	_
+5	ita	_	_	_	_	_	_	_	_
+6	praebuit	_	_	_	_	_	_	_	_
+7	alas	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	ut	_	_	_	_	_	_	_	_
+10	non	_	_	_	_	_	_	_	_
+11	alterna	_	_	_	_	_	_	_	_
+12	presserit	_	_	_	_	_	_	_	_
+13	ille	_	_	_	_	_	_	_	_
+14	manu	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@194
+# text = Et ideo iam dudum nihil super illum posui, ne genesim meam premerem.
+1	Et	_	_	_	_	_	_	_	_
+2	ideo	_	_	_	_	_	_	_	_
+3	iam	_	_	_	_	_	_	_	_
+4	dudum	_	_	_	_	_	_	_	_
+5	nihil	_	_	_	_	_	_	_	_
+6	super	_	_	_	_	_	_	_	_
+7	illum	_	_	_	_	_	_	_	_
+8	posui	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	ne	_	_	_	_	_	_	_	_
+11	genesim	_	_	_	_	_	_	_	_
+12	meam	_	_	_	_	_	_	_	_
+13	premerem	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0631.phi001.perseus-lat1.tb.xml@539
+# text = qui mihi atque animo meo nullius umquam delicti gratiam fecissem, haud facile alterius lubidini male facta condonabam.
+1	qui	_	_	_	_	_	_	_	_
+2	mihi	_	_	_	_	_	_	_	_
+3	atque	_	_	_	_	_	_	_	_
+4	animo	_	_	_	_	_	_	_	_
+5	meo	_	_	_	_	_	_	_	_
+6	nullius	_	_	_	_	_	_	_	_
+7	umquam	_	_	_	_	_	_	_	_
+8	delicti	_	_	_	_	_	_	_	_
+9	gratiam	_	_	_	_	_	_	_	_
+10	fecissem	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	haud	_	_	_	_	_	_	_	_
+13	facile	_	_	_	_	_	_	_	_
+14	alterius	_	_	_	_	_	_	_	_
+15	lubidini	_	_	_	_	_	_	_	_
+16	male	_	_	_	_	_	_	_	_
+17	facta	_	_	_	_	_	_	_	_
+18	condonabam	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0959.phi006.perseus-lat1.tb.xml@296
+# text = Quem simul ac tetigit, positis in margine ripae procubuit genibus que resupino ardua collo, quos potuit solos, tollens ad sidera vultus et gemitu et lacrimis et luctisono mugitu cum Iove visa queri que finem orare malorum.
+1	Quem	_	_	_	_	_	_	_	_
+2	simul	_	_	_	_	_	_	_	_
+3	ac	_	_	_	_	_	_	_	_
+4	tetigit	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	positis	_	_	_	_	_	_	_	_
+7	in	_	_	_	_	_	_	_	_
+8	margine	_	_	_	_	_	_	_	_
+9	ripae	_	_	_	_	_	_	_	_
+10	procubuit	_	_	_	_	_	_	_	_
+11	genibus	_	_	_	_	_	_	_	_
+12	que	_	_	_	_	_	_	_	_
+13	resupino	_	_	_	_	_	_	_	_
+14	ardua	_	_	_	_	_	_	_	_
+15	collo	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	quos	_	_	_	_	_	_	_	_
+18	potuit	_	_	_	_	_	_	_	_
+19	solos	_	_	_	_	_	_	_	_
+20	,	_	_	_	_	_	_	_	_
+21	tollens	_	_	_	_	_	_	_	_
+22	ad	_	_	_	_	_	_	_	_
+23	sidera	_	_	_	_	_	_	_	_
+24	vultus	_	_	_	_	_	_	_	_
+25	et	_	_	_	_	_	_	_	_
+26	gemitu	_	_	_	_	_	_	_	_
+27	et	_	_	_	_	_	_	_	_
+28	lacrimis	_	_	_	_	_	_	_	_
+29	et	_	_	_	_	_	_	_	_
+30	luctisono	_	_	_	_	_	_	_	_
+31	mugitu	_	_	_	_	_	_	_	_
+32	cum	_	_	_	_	_	_	_	_
+33	Iove	_	_	_	_	_	_	_	_
+34	visa	_	_	_	_	_	_	_	_
+35	queri	_	_	_	_	_	_	_	_
+36	que	_	_	_	_	_	_	_	_
+37	finem	_	_	_	_	_	_	_	_
+38	orare	_	_	_	_	_	_	_	_
+39	malorum	_	_	_	_	_	_	_	_
+40	.	_	_	_	_	_	_	_	_
+
+# sent_id = tlg0031.tlg027.perseus-lat1.tb.xml@267
+# text = et cum finierint testimonium suum bestia quae ascendit de abysso faciet adversus illos bellum et vincet eos et occidet illos.
+1	et	_	_	_	_	_	_	_	_
+2	cum	_	_	_	_	_	_	_	_
+3	finierint	_	_	_	_	_	_	_	_
+4	testimonium	_	_	_	_	_	_	_	_
+5	suum	_	_	_	_	_	_	_	_
+6	bestia	_	_	_	_	_	_	_	_
+7	quae	_	_	_	_	_	_	_	_
+8	ascendit	_	_	_	_	_	_	_	_
+9	de	_	_	_	_	_	_	_	_
+10	abysso	_	_	_	_	_	_	_	_
+11	faciet	_	_	_	_	_	_	_	_
+12	adversus	_	_	_	_	_	_	_	_
+13	illos	_	_	_	_	_	_	_	_
+14	bellum	_	_	_	_	_	_	_	_
+15	et	_	_	_	_	_	_	_	_
+16	vincet	_	_	_	_	_	_	_	_
+17	eos	_	_	_	_	_	_	_	_
+18	et	_	_	_	_	_	_	_	_
+19	occidet	_	_	_	_	_	_	_	_
+20	illos	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi1348.abo012.perseus-lat1.tb.xml@118
+# text = hac nuntiata excubias per urbem indixit, ne quis tumultus existeret, et praesidibus prouinciarum propagauit imperium, ut a peritis et assuetis socii continerentur.
+1	hac	_	_	_	_	_	_	_	_
+2	nuntiata	_	_	_	_	_	_	_	_
+3	excubias	_	_	_	_	_	_	_	_
+4	per	_	_	_	_	_	_	_	_
+5	urbem	_	_	_	_	_	_	_	_
+6	indixit	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	ne	_	_	_	_	_	_	_	_
+9	quis	_	_	_	_	_	_	_	_
+10	tumultus	_	_	_	_	_	_	_	_
+11	existeret	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	et	_	_	_	_	_	_	_	_
+14	praesidibus	_	_	_	_	_	_	_	_
+15	prouinciarum	_	_	_	_	_	_	_	_
+16	propagauit	_	_	_	_	_	_	_	_
+17	imperium	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	ut	_	_	_	_	_	_	_	_
+20	a	_	_	_	_	_	_	_	_
+21	peritis	_	_	_	_	_	_	_	_
+22	et	_	_	_	_	_	_	_	_
+23	assuetis	_	_	_	_	_	_	_	_
+24	socii	_	_	_	_	_	_	_	_
+25	continerentur	_	_	_	_	_	_	_	_
+26	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0620.phi001.perseus-lat1.tb.xml@269
+# text = nec possum infamis dominae defendere noctes, nobilis obscenis tradita carminibus;
+1	nec	_	_	_	_	_	_	_	_
+2	possum	_	_	_	_	_	_	_	_
+3	infamis	_	_	_	_	_	_	_	_
+4	dominae	_	_	_	_	_	_	_	_
+5	defendere	_	_	_	_	_	_	_	_
+6	noctes	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	nobilis	_	_	_	_	_	_	_	_
+9	obscenis	_	_	_	_	_	_	_	_
+10	tradita	_	_	_	_	_	_	_	_
+11	carminibus	_	_	_	_	_	_	_	_
+12	;	_	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@518
+# text = Et prodisset in medium, nisi Fortunata ad aurem accessisset;
+1	Et	_	_	_	_	_	_	_	_
+2	prodisset	_	_	_	_	_	_	_	_
+3	in	_	_	_	_	_	_	_	_
+4	medium	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	nisi	_	_	_	_	_	_	_	_
+7	Fortunata	_	_	_	_	_	_	_	_
+8	ad	_	_	_	_	_	_	_	_
+9	aurem	_	_	_	_	_	_	_	_
+10	accessisset	_	_	_	_	_	_	_	_
+11	;	_	_	_	_	_	_	_	_
+
+# sent_id = phi0474.phi013.perseus-lat1.tb.xml@79
+# text = Cum proximis comitiis consularibus me consulem in campo et competitores tuos interficere voluisti, compressi conatus tuos nefarios amicorum praesidio et copiis nullo tumultu publice concitato;
+1	Cum	_	_	_	_	_	_	_	_
+2	proximis	_	_	_	_	_	_	_	_
+3	comitiis	_	_	_	_	_	_	_	_
+4	consularibus	_	_	_	_	_	_	_	_
+5	me	_	_	_	_	_	_	_	_
+6	consulem	_	_	_	_	_	_	_	_
+7	in	_	_	_	_	_	_	_	_
+8	campo	_	_	_	_	_	_	_	_
+9	et	_	_	_	_	_	_	_	_
+10	competitores	_	_	_	_	_	_	_	_
+11	tuos	_	_	_	_	_	_	_	_
+12	interficere	_	_	_	_	_	_	_	_
+13	voluisti	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	compressi	_	_	_	_	_	_	_	_
+16	conatus	_	_	_	_	_	_	_	_
+17	tuos	_	_	_	_	_	_	_	_
+18	nefarios	_	_	_	_	_	_	_	_
+19	amicorum	_	_	_	_	_	_	_	_
+20	praesidio	_	_	_	_	_	_	_	_
+21	et	_	_	_	_	_	_	_	_
+22	copiis	_	_	_	_	_	_	_	_
+23	nullo	_	_	_	_	_	_	_	_
+24	tumultu	_	_	_	_	_	_	_	_
+25	publice	_	_	_	_	_	_	_	_
+26	concitato	_	_	_	_	_	_	_	_
+27	;	_	_	_	_	_	_	_	_
+
+# sent_id = phi0631.phi001.perseus-lat1.tb.xml@69
+# text = virtus omnia domuerat.
+1	virtus	_	_	_	_	_	_	_	_
+2	omnia	_	_	_	_	_	_	_	_
+3	domuerat	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0631.phi001.perseus-lat1.tb.xml@461
+# text = fana atque domos spoliari;
+1	fana	_	_	_	_	_	_	_	_
+2	atque	_	_	_	_	_	_	_	_
+3	domos	_	_	_	_	_	_	_	_
+4	spoliari	_	_	_	_	_	_	_	_
+5	;	_	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@224
+# text = Laudavimus dictum Trimalchionis et circumeuntem puerum sane perbasiamus.
+1	Laudavimus	_	_	_	_	_	_	_	_
+2	dictum	_	_	_	_	_	_	_	_
+3	Trimalchionis	_	_	_	_	_	_	_	_
+4	et	_	_	_	_	_	_	_	_
+5	circumeuntem	_	_	_	_	_	_	_	_
+6	puerum	_	_	_	_	_	_	_	_
+7	sane	_	_	_	_	_	_	_	_
+8	perbasiamus	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@287
+# text = Haec Phileros dixit, illa Ganymedes:
+1	Haec	_	_	_	_	_	_	_	_
+2	Phileros	_	_	_	_	_	_	_	_
+3	dixit	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	illa	_	_	_	_	_	_	_	_
+6	Ganymedes	_	_	_	_	_	_	_	_
+7	:	_	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@353
+# text = Glyco, Glyco dedit suas;
+1	Glyco	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	Glyco	_	_	_	_	_	_	_	_
+4	dedit	_	_	_	_	_	_	_	_
+5	suas	_	_	_	_	_	_	_	_
+6	;	_	_	_	_	_	_	_	_
+
+# sent_id = phi0959.phi006.perseus-lat1.tb.xml@238
+# text = Quid faciat?
+1	Quid	_	_	_	_	_	_	_	_
+2	faciat	_	_	_	_	_	_	_	_
+3	?	_	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@45
+# text = Ceterum ut pariter movimus dextros gressus, servus nobis despoliatus procubuit ad pedes ac rogare coepit, ut se poenae eriperemus:
+1	Ceterum	_	_	_	_	_	_	_	_
+2	ut	_	_	_	_	_	_	_	_
+3	pariter	_	_	_	_	_	_	_	_
+4	movimus	_	_	_	_	_	_	_	_
+5	dextros	_	_	_	_	_	_	_	_
+6	gressus	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	servus	_	_	_	_	_	_	_	_
+9	nobis	_	_	_	_	_	_	_	_
+10	despoliatus	_	_	_	_	_	_	_	_
+11	procubuit	_	_	_	_	_	_	_	_
+12	ad	_	_	_	_	_	_	_	_
+13	pedes	_	_	_	_	_	_	_	_
+14	ac	_	_	_	_	_	_	_	_
+15	rogare	_	_	_	_	_	_	_	_
+16	coepit	_	_	_	_	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	ut	_	_	_	_	_	_	_	_
+19	se	_	_	_	_	_	_	_	_
+20	poenae	_	_	_	_	_	_	_	_
+21	eriperemus	_	_	_	_	_	_	_	_
+22	:	_	_	_	_	_	_	_	_
+
+# sent_id = phi0959.phi006.perseus-lat1.tb.xml@249
+# text = cum sol tellure sub alta est, claudit et indigno circumdat vincula collo.
+1	cum	_	_	_	_	_	_	_	_
+2	sol	_	_	_	_	_	_	_	_
+3	tellure	_	_	_	_	_	_	_	_
+4	sub	_	_	_	_	_	_	_	_
+5	alta	_	_	_	_	_	_	_	_
+6	est	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	claudit	_	_	_	_	_	_	_	_
+9	et	_	_	_	_	_	_	_	_
+10	indigno	_	_	_	_	_	_	_	_
+11	circumdat	_	_	_	_	_	_	_	_
+12	vincula	_	_	_	_	_	_	_	_
+13	collo	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@951
+# text = et catellam cingulo alligatam ducat:
+1	et	_	_	_	_	_	_	_	_
+2	catellam	_	_	_	_	_	_	_	_
+3	cingulo	_	_	_	_	_	_	_	_
+4	alligatam	_	_	_	_	_	_	_	_
+5	ducat	_	_	_	_	_	_	_	_
+6	:	_	_	_	_	_	_	_	_
+
+# sent_id = phi0474.phi013.perseus-lat1.tb.xml@206
+# text = palam iam cum hoste nullo impediente bellum iustum geremus.
+1	palam	_	_	_	_	_	_	_	_
+2	iam	_	_	_	_	_	_	_	_
+3	cum	_	_	_	_	_	_	_	_
+4	hoste	_	_	_	_	_	_	_	_
+5	nullo	_	_	_	_	_	_	_	_
+6	impediente	_	_	_	_	_	_	_	_
+7	bellum	_	_	_	_	_	_	_	_
+8	iustum	_	_	_	_	_	_	_	_
+9	geremus	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@1089
+# text = Nemo unquam tibi parem gratiam refert.
+1	Nemo	_	_	_	_	_	_	_	_
+2	unquam	_	_	_	_	_	_	_	_
+3	tibi	_	_	_	_	_	_	_	_
+4	parem	_	_	_	_	_	_	_	_
+5	gratiam	_	_	_	_	_	_	_	_
+6	refert	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@482
+# text = ego malo mihi vitrea, certe non olunt.
+1	ego	_	_	_	_	_	_	_	_
+2	malo	_	_	_	_	_	_	_	_
+3	mihi	_	_	_	_	_	_	_	_
+4	vitrea	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	certe	_	_	_	_	_	_	_	_
+7	non	_	_	_	_	_	_	_	_
+8	olunt	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0631.phi001.perseus-lat1.tb.xml@268
+# text = ita illi ianua prohibiti tantum facinus frustra susceperant.
+1	ita	_	_	_	_	_	_	_	_
+2	illi	_	_	_	_	_	_	_	_
+3	ianua	_	_	_	_	_	_	_	_
+4	prohibiti	_	_	_	_	_	_	_	_
+5	tantum	_	_	_	_	_	_	_	_
+6	facinus	_	_	_	_	_	_	_	_
+7	frustra	_	_	_	_	_	_	_	_
+8	susceperant	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@354
+# text = itaque quamdiu vixerit, habebit stigmam, c ne illam nisi Orcus delebit.
+1	itaque	_	_	_	_	_	_	_	_
+2	quamdiu	_	_	_	_	_	_	_	_
+3	vixerit	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	habebit	_	_	_	_	_	_	_	_
+6	stigmam	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	c	_	_	_	_	_	_	_	_
+9	ne	_	_	_	_	_	_	_	_
+10	illam	_	_	_	_	_	_	_	_
+11	nisi	_	_	_	_	_	_	_	_
+12	Orcus	_	_	_	_	_	_	_	_
+13	delebit	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0631.phi001.perseus-lat1.tb.xml@60
+# text = hi vel aetate vel curae similitudine patres appellabantur.
+1	hi	_	_	_	_	_	_	_	_
+2	vel	_	_	_	_	_	_	_	_
+3	aetate	_	_	_	_	_	_	_	_
+4	vel	_	_	_	_	_	_	_	_
+5	curae	_	_	_	_	_	_	_	_
+6	similitudine	_	_	_	_	_	_	_	_
+7	patres	_	_	_	_	_	_	_	_
+8	appellabantur	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0474.phi013.perseus-lat1.tb.xml@268
+# text = quae sanari poterunt quacumque ratione sanabo, quae resecanda erunt non patiar ad perniciem civitatis manere.
+1	quae	_	_	_	_	_	_	_	_
+2	sanari	_	_	_	_	_	_	_	_
+3	poterunt	_	_	_	_	_	_	_	_
+4	quacumque	_	_	_	_	_	_	_	_
+5	ratione	_	_	_	_	_	_	_	_
+6	sanabo	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	quae	_	_	_	_	_	_	_	_
+9	resecanda	_	_	_	_	_	_	_	_
+10	erunt	_	_	_	_	_	_	_	_
+11	non	_	_	_	_	_	_	_	_
+12	patiar	_	_	_	_	_	_	_	_
+13	ad	_	_	_	_	_	_	_	_
+14	perniciem	_	_	_	_	_	_	_	_
+15	civitatis	_	_	_	_	_	_	_	_
+16	manere	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0620.phi001.perseus-lat1.tb.xml@308
+# text = quae te mihi carmina mutant?
+1	quae	_	_	_	_	_	_	_	_
+2	te	_	_	_	_	_	_	_	_
+3	mihi	_	_	_	_	_	_	_	_
+4	carmina	_	_	_	_	_	_	_	_
+5	mutant	_	_	_	_	_	_	_	_
+6	?	_	_	_	_	_	_	_	_
+
+# sent_id = phi0959.phi006.perseus-lat1.tb.xml@61
+# text = poena placet diversa, genus mortale sub undis perdere et ex omni nimbos demittere caelo.
+1	poena	_	_	_	_	_	_	_	_
+2	placet	_	_	_	_	_	_	_	_
+3	diversa	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	genus	_	_	_	_	_	_	_	_
+6	mortale	_	_	_	_	_	_	_	_
+7	sub	_	_	_	_	_	_	_	_
+8	undis	_	_	_	_	_	_	_	_
+9	perdere	_	_	_	_	_	_	_	_
+10	et	_	_	_	_	_	_	_	_
+11	ex	_	_	_	_	_	_	_	_
+12	omni	_	_	_	_	_	_	_	_
+13	nimbos	_	_	_	_	_	_	_	_
+14	demittere	_	_	_	_	_	_	_	_
+15	caelo	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@42
+# text = Canis per flumen carnem cum ferret natans, Lympharum in speculo vidit simulacrum suum, Aliam que praedam ab altero ferri putans Eripere voluit;
+1	Canis	_	_	_	_	_	_	_	_
+2	per	_	_	_	_	_	_	_	_
+3	flumen	_	_	_	_	_	_	_	_
+4	carnem	_	_	_	_	_	_	_	_
+5	cum	_	_	_	_	_	_	_	_
+6	ferret	_	_	_	_	_	_	_	_
+7	natans	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	Lympharum	_	_	_	_	_	_	_	_
+10	in	_	_	_	_	_	_	_	_
+11	speculo	_	_	_	_	_	_	_	_
+12	vidit	_	_	_	_	_	_	_	_
+13	simulacrum	_	_	_	_	_	_	_	_
+14	suum	_	_	_	_	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	Aliam	_	_	_	_	_	_	_	_
+17	que	_	_	_	_	_	_	_	_
+18	praedam	_	_	_	_	_	_	_	_
+19	ab	_	_	_	_	_	_	_	_
+20	altero	_	_	_	_	_	_	_	_
+21	ferri	_	_	_	_	_	_	_	_
+22	putans	_	_	_	_	_	_	_	_
+23	Eripere	_	_	_	_	_	_	_	_
+24	voluit	_	_	_	_	_	_	_	_
+25	;	_	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@47
+# text = subducta enim sibi vestimenta dispensatoris in balneo, quae vix fuissent decem sestertiorum.
+1	subducta	_	_	_	_	_	_	_	_
+2	enim	_	_	_	_	_	_	_	_
+3	sibi	_	_	_	_	_	_	_	_
+4	vestimenta	_	_	_	_	_	_	_	_
+5	dispensatoris	_	_	_	_	_	_	_	_
+6	in	_	_	_	_	_	_	_	_
+7	balneo	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	quae	_	_	_	_	_	_	_	_
+10	vix	_	_	_	_	_	_	_	_
+11	fuissent	_	_	_	_	_	_	_	_
+12	decem	_	_	_	_	_	_	_	_
+13	sestertiorum	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0631.phi001.perseus-lat1.tb.xml@469
+# text = qui demissi in obscuro vitam habent, si quid iracundia deliquere, pauci sciunt, fama atque fortuna eorum pares sunt;
+1	qui	_	_	_	_	_	_	_	_
+2	demissi	_	_	_	_	_	_	_	_
+3	in	_	_	_	_	_	_	_	_
+4	obscuro	_	_	_	_	_	_	_	_
+5	vitam	_	_	_	_	_	_	_	_
+6	habent	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	si	_	_	_	_	_	_	_	_
+9	quid	_	_	_	_	_	_	_	_
+10	iracundia	_	_	_	_	_	_	_	_
+11	deliquere	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	pauci	_	_	_	_	_	_	_	_
+14	sciunt	_	_	_	_	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	fama	_	_	_	_	_	_	_	_
+17	atque	_	_	_	_	_	_	_	_
+18	fortuna	_	_	_	_	_	_	_	_
+19	eorum	_	_	_	_	_	_	_	_
+20	pares	_	_	_	_	_	_	_	_
+21	sunt	_	_	_	_	_	_	_	_
+22	;	_	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@1010
+# text = Illa tanquam oculum perdidisset, exclamavit que manus trementes ad faciem suam admovit.
+1	Illa	_	_	_	_	_	_	_	_
+2	tanquam	_	_	_	_	_	_	_	_
+3	oculum	_	_	_	_	_	_	_	_
+4	perdidisset	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	exclamavit	_	_	_	_	_	_	_	_
+7	que	_	_	_	_	_	_	_	_
+8	manus	_	_	_	_	_	_	_	_
+9	trementes	_	_	_	_	_	_	_	_
+10	ad	_	_	_	_	_	_	_	_
+11	faciem	_	_	_	_	_	_	_	_
+12	suam	_	_	_	_	_	_	_	_
+13	admovit	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@702
+# text = Vicit scilicet et Iphigeniam, filiam suam, Achilli dedit uxorem.
+1	Vicit	_	_	_	_	_	_	_	_
+2	scilicet	_	_	_	_	_	_	_	_
+3	et	_	_	_	_	_	_	_	_
+4	Iphigeniam	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	filiam	_	_	_	_	_	_	_	_
+7	suam	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	Achilli	_	_	_	_	_	_	_	_
+10	dedit	_	_	_	_	_	_	_	_
+11	uxorem	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@358
+# text = alii fustes congerunt, Alii onerant saxis;
+1	alii	_	_	_	_	_	_	_	_
+2	fustes	_	_	_	_	_	_	_	_
+3	congerunt	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	Alii	_	_	_	_	_	_	_	_
+6	onerant	_	_	_	_	_	_	_	_
+7	saxis	_	_	_	_	_	_	_	_
+8	;	_	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@489
+# text = At ille sustulit phialam de terra;
+1	At	_	_	_	_	_	_	_	_
+2	ille	_	_	_	_	_	_	_	_
+3	sustulit	_	_	_	_	_	_	_	_
+4	phialam	_	_	_	_	_	_	_	_
+5	de	_	_	_	_	_	_	_	_
+6	terra	_	_	_	_	_	_	_	_
+7	;	_	_	_	_	_	_	_	_
+
+# sent_id = phi1348.abo012.perseus-lat1.tb.xml@277
+# text = postea nihil sane praeterquam adulescentulum Lycium honeste natum exhibuit, tantum ut ostenderet, quod erat bipedali minor, librarum septemdecim ac uocis immensae.
+1	postea	_	_	_	_	_	_	_	_
+2	nihil	_	_	_	_	_	_	_	_
+3	sane	_	_	_	_	_	_	_	_
+4	praeterquam	_	_	_	_	_	_	_	_
+5	adulescentulum	_	_	_	_	_	_	_	_
+6	Lycium	_	_	_	_	_	_	_	_
+7	honeste	_	_	_	_	_	_	_	_
+8	natum	_	_	_	_	_	_	_	_
+9	exhibuit	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	tantum	_	_	_	_	_	_	_	_
+12	ut	_	_	_	_	_	_	_	_
+13	ostenderet	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	quod	_	_	_	_	_	_	_	_
+16	erat	_	_	_	_	_	_	_	_
+17	bipedali	_	_	_	_	_	_	_	_
+18	minor	_	_	_	_	_	_	_	_
+19	,	_	_	_	_	_	_	_	_
+20	librarum	_	_	_	_	_	_	_	_
+21	septemdecim	_	_	_	_	_	_	_	_
+22	ac	_	_	_	_	_	_	_	_
+23	uocis	_	_	_	_	_	_	_	_
+24	immensae	_	_	_	_	_	_	_	_
+25	.	_	_	_	_	_	_	_	_
+
+# sent_id = tlg0031.tlg027.perseus-lat1.tb.xml@491
+# text = et dicit mihi:
+1	et	_	_	_	_	_	_	_	_
+2	dicit	_	_	_	_	_	_	_	_
+3	mihi	_	_	_	_	_	_	_	_
+4	:	_	_	_	_	_	_	_	_
+
+# sent_id = phi0620.phi001.perseus-lat1.tb.xml@103
+# text = hanc me militiam fata subire volunt.
+1	hanc	_	_	_	_	_	_	_	_
+2	me	_	_	_	_	_	_	_	_
+3	militiam	_	_	_	_	_	_	_	_
+4	fata	_	_	_	_	_	_	_	_
+5	subire	_	_	_	_	_	_	_	_
+6	volunt	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0474.phi013.perseus-lat1.tb.xml@159
+# text = Neque enim tibi haec res adfert dolorem, sed quandam incredibilem voluptatem.
+1	Neque	_	_	_	_	_	_	_	_
+2	enim	_	_	_	_	_	_	_	_
+3	tibi	_	_	_	_	_	_	_	_
+4	haec	_	_	_	_	_	_	_	_
+5	res	_	_	_	_	_	_	_	_
+6	adfert	_	_	_	_	_	_	_	_
+7	dolorem	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	sed	_	_	_	_	_	_	_	_
+10	quandam	_	_	_	_	_	_	_	_
+11	incredibilem	_	_	_	_	_	_	_	_
+12	voluptatem	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0620.phi001.perseus-lat1.tb.xml@325
+# text = illic quidquid ero, semper tua dicar imago:
+1	illic	_	_	_	_	_	_	_	_
+2	quidquid	_	_	_	_	_	_	_	_
+3	ero	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	semper	_	_	_	_	_	_	_	_
+6	tua	_	_	_	_	_	_	_	_
+7	dicar	_	_	_	_	_	_	_	_
+8	imago	_	_	_	_	_	_	_	_
+9	:	_	_	_	_	_	_	_	_
+
+# sent_id = phi0620.phi001.perseus-lat1.tb.xml@150
+# text = quid tibi nunc misero prodest grave dicere carmen aut Amphioniae moenia flere lyrae?
+1	quid	_	_	_	_	_	_	_	_
+2	tibi	_	_	_	_	_	_	_	_
+3	nunc	_	_	_	_	_	_	_	_
+4	misero	_	_	_	_	_	_	_	_
+5	prodest	_	_	_	_	_	_	_	_
+6	grave	_	_	_	_	_	_	_	_
+7	dicere	_	_	_	_	_	_	_	_
+8	carmen	_	_	_	_	_	_	_	_
+9	aut	_	_	_	_	_	_	_	_
+10	Amphioniae	_	_	_	_	_	_	_	_
+11	moenia	_	_	_	_	_	_	_	_
+12	flere	_	_	_	_	_	_	_	_
+13	lyrae	_	_	_	_	_	_	_	_
+14	?	_	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@1048
+# text = Sed, ut coeperam dicere, ad hanc me fortunam frugalitas mea perduxit.
+1	Sed	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	ut	_	_	_	_	_	_	_	_
+4	coeperam	_	_	_	_	_	_	_	_
+5	dicere	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	ad	_	_	_	_	_	_	_	_
+8	hanc	_	_	_	_	_	_	_	_
+9	me	_	_	_	_	_	_	_	_
+10	fortunam	_	_	_	_	_	_	_	_
+11	frugalitas	_	_	_	_	_	_	_	_
+12	mea	_	_	_	_	_	_	_	_
+13	perduxit	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@221
+# text = Exemplis continetur Aesopi genus;
+1	Exemplis	_	_	_	_	_	_	_	_
+2	continetur	_	_	_	_	_	_	_	_
+3	Aesopi	_	_	_	_	_	_	_	_
+4	genus	_	_	_	_	_	_	_	_
+5	;	_	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@345
+# text = Glyco autem, sestertiarius homo, dispensatorem ad bestias dedit.
+1	Glyco	_	_	_	_	_	_	_	_
+2	autem	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	sestertiarius	_	_	_	_	_	_	_	_
+5	homo	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	dispensatorem	_	_	_	_	_	_	_	_
+8	ad	_	_	_	_	_	_	_	_
+9	bestias	_	_	_	_	_	_	_	_
+10	dedit	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# newdoc id = phi0448.phi001.perseus-lat1.tb.xml
+# sent_id = phi0448.phi001.perseus-lat1.tb.xml@5
+# text = qui minus facile eam rem imperio nostro consequi poterant.
+1	qui	_	_	_	_	_	_	_	_
+2	minus	_	_	_	_	_	_	_	_
+3	facile	_	_	_	_	_	_	_	_
+4	eam	_	_	_	_	_	_	_	_
+5	rem	_	_	_	_	_	_	_	_
+6	imperio	_	_	_	_	_	_	_	_
+7	nostro	_	_	_	_	_	_	_	_
+8	consequi	_	_	_	_	_	_	_	_
+9	poterant	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@188
+# text = itaque adiecit:
+1	itaque	_	_	_	_	_	_	_	_
+2	adiecit	_	_	_	_	_	_	_	_
+3	:	_	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@965
+# text = Sic vos felices videam, coniciamus nos in balneum, meo periculo, non paenitebit.
+1	Sic	_	_	_	_	_	_	_	_
+2	vos	_	_	_	_	_	_	_	_
+3	felices	_	_	_	_	_	_	_	_
+4	videam	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	coniciamus	_	_	_	_	_	_	_	_
+7	nos	_	_	_	_	_	_	_	_
+8	in	_	_	_	_	_	_	_	_
+9	balneum	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	meo	_	_	_	_	_	_	_	_
+12	periculo	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	non	_	_	_	_	_	_	_	_
+15	paenitebit	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@162
+# text = ipso enim homo melior non est;
+1	ipso	_	_	_	_	_	_	_	_
+2	enim	_	_	_	_	_	_	_	_
+3	homo	_	_	_	_	_	_	_	_
+4	melior	_	_	_	_	_	_	_	_
+5	non	_	_	_	_	_	_	_	_
+6	est	_	_	_	_	_	_	_	_
+7	;	_	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@13
+# text = Et iam non loquebatur Menelaus cum Trimalchio digitos concrepuit, ad quod signum matellam spado ludenti subiecit.
+1	Et	_	_	_	_	_	_	_	_
+2	iam	_	_	_	_	_	_	_	_
+3	non	_	_	_	_	_	_	_	_
+4	loquebatur	_	_	_	_	_	_	_	_
+5	Menelaus	_	_	_	_	_	_	_	_
+6	cum	_	_	_	_	_	_	_	_
+7	Trimalchio	_	_	_	_	_	_	_	_
+8	digitos	_	_	_	_	_	_	_	_
+9	concrepuit	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	ad	_	_	_	_	_	_	_	_
+12	quod	_	_	_	_	_	_	_	_
+13	signum	_	_	_	_	_	_	_	_
+14	matellam	_	_	_	_	_	_	_	_
+15	spado	_	_	_	_	_	_	_	_
+16	ludenti	_	_	_	_	_	_	_	_
+17	subiecit	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@165
+# text = Namque ista subita me iubet benignitas Vigilare, facias ne mea culpa lucrum.
+1	Namque	_	_	_	_	_	_	_	_
+2	ista	_	_	_	_	_	_	_	_
+3	subita	_	_	_	_	_	_	_	_
+4	me	_	_	_	_	_	_	_	_
+5	iubet	_	_	_	_	_	_	_	_
+6	benignitas	_	_	_	_	_	_	_	_
+7	Vigilare	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	facias	_	_	_	_	_	_	_	_
+10	ne	_	_	_	_	_	_	_	_
+11	mea	_	_	_	_	_	_	_	_
+12	culpa	_	_	_	_	_	_	_	_
+13	lucrum	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0631.phi001.perseus-lat1.tb.xml@7
+# text = Sed diu magnum inter mortalis certamen fuit, vine corporis an virtute animi res militaris magis procederet.
+1	Sed	_	_	_	_	_	_	_	_
+2	diu	_	_	_	_	_	_	_	_
+3	magnum	_	_	_	_	_	_	_	_
+4	inter	_	_	_	_	_	_	_	_
+5	mortalis	_	_	_	_	_	_	_	_
+6	certamen	_	_	_	_	_	_	_	_
+7	fuit	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	vine	_	_	_	_	_	_	_	_
+10	corporis	_	_	_	_	_	_	_	_
+11	an	_	_	_	_	_	_	_	_
+12	virtute	_	_	_	_	_	_	_	_
+13	animi	_	_	_	_	_	_	_	_
+14	res	_	_	_	_	_	_	_	_
+15	militaris	_	_	_	_	_	_	_	_
+16	magis	_	_	_	_	_	_	_	_
+17	procederet	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0959.phi006.perseus-lat1.tb.xml@210
+# text = Cui deus ' at quoniam coniunx mea non potes esse, arbor eris certe ' dixit ' mea.
+1	Cui	_	_	_	_	_	_	_	_
+2	deus	_	_	_	_	_	_	_	_
+3	'	_	_	_	_	_	_	_	_
+4	at	_	_	_	_	_	_	_	_
+5	quoniam	_	_	_	_	_	_	_	_
+6	coniunx	_	_	_	_	_	_	_	_
+7	mea	_	_	_	_	_	_	_	_
+8	non	_	_	_	_	_	_	_	_
+9	potes	_	_	_	_	_	_	_	_
+10	esse	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	arbor	_	_	_	_	_	_	_	_
+13	eris	_	_	_	_	_	_	_	_
+14	certe	_	_	_	_	_	_	_	_
+15	'	_	_	_	_	_	_	_	_
+16	dixit	_	_	_	_	_	_	_	_
+17	'	_	_	_	_	_	_	_	_
+18	mea	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0620.phi001.perseus-lat1.tb.xml@224
+# text = non sic Haemonio Salmonida mixtus Enipeo Taenarius facili pressit amore deus, nec sic caelestem flagrans amor Herculis Heben sensit in Oetaeis gaudia prima iugis.
+1	non	_	_	_	_	_	_	_	_
+2	sic	_	_	_	_	_	_	_	_
+3	Haemonio	_	_	_	_	_	_	_	_
+4	Salmonida	_	_	_	_	_	_	_	_
+5	mixtus	_	_	_	_	_	_	_	_
+6	Enipeo	_	_	_	_	_	_	_	_
+7	Taenarius	_	_	_	_	_	_	_	_
+8	facili	_	_	_	_	_	_	_	_
+9	pressit	_	_	_	_	_	_	_	_
+10	amore	_	_	_	_	_	_	_	_
+11	deus	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	nec	_	_	_	_	_	_	_	_
+14	sic	_	_	_	_	_	_	_	_
+15	caelestem	_	_	_	_	_	_	_	_
+16	flagrans	_	_	_	_	_	_	_	_
+17	amor	_	_	_	_	_	_	_	_
+18	Herculis	_	_	_	_	_	_	_	_
+19	Heben	_	_	_	_	_	_	_	_
+20	sensit	_	_	_	_	_	_	_	_
+21	in	_	_	_	_	_	_	_	_
+22	Oetaeis	_	_	_	_	_	_	_	_
+23	gaudia	_	_	_	_	_	_	_	_
+24	prima	_	_	_	_	_	_	_	_
+25	iugis	_	_	_	_	_	_	_	_
+26	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@134
+# text = Instante partu mulier actis mensibus Humi iacebat flebilis gemitus ciens.
+1	Instante	_	_	_	_	_	_	_	_
+2	partu	_	_	_	_	_	_	_	_
+3	mulier	_	_	_	_	_	_	_	_
+4	actis	_	_	_	_	_	_	_	_
+5	mensibus	_	_	_	_	_	_	_	_
+6	Humi	_	_	_	_	_	_	_	_
+7	iacebat	_	_	_	_	_	_	_	_
+8	flebilis	_	_	_	_	_	_	_	_
+9	gemitus	_	_	_	_	_	_	_	_
+10	ciens	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0631.phi001.perseus-lat1.tb.xml@297
+# text = que ne quoiquam nostrum licuit more maiorum lege uti que ne amisso patrimonio liberum corpus habere:
+1	que	_	_	_	_	_	_	_	_
+2	ne	_	_	_	_	_	_	_	_
+3	quoiquam	_	_	_	_	_	_	_	_
+4	nostrum	_	_	_	_	_	_	_	_
+5	licuit	_	_	_	_	_	_	_	_
+6	more	_	_	_	_	_	_	_	_
+7	maiorum	_	_	_	_	_	_	_	_
+8	lege	_	_	_	_	_	_	_	_
+9	uti	_	_	_	_	_	_	_	_
+10	que	_	_	_	_	_	_	_	_
+11	ne	_	_	_	_	_	_	_	_
+12	amisso	_	_	_	_	_	_	_	_
+13	patrimonio	_	_	_	_	_	_	_	_
+14	liberum	_	_	_	_	_	_	_	_
+15	corpus	_	_	_	_	_	_	_	_
+16	habere	_	_	_	_	_	_	_	_
+17	:	_	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@743
+# text = Erat autem miles, fortis tanquam Orcus.
+1	Erat	_	_	_	_	_	_	_	_
+2	autem	_	_	_	_	_	_	_	_
+3	miles	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	fortis	_	_	_	_	_	_	_	_
+6	tanquam	_	_	_	_	_	_	_	_
+7	Orcus	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@573
+# text = Stultum admovere tibi preces existimo, Proclivis ultro cum sit misericordia.
+1	Stultum	_	_	_	_	_	_	_	_
+2	admovere	_	_	_	_	_	_	_	_
+3	tibi	_	_	_	_	_	_	_	_
+4	preces	_	_	_	_	_	_	_	_
+5	existimo	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	Proclivis	_	_	_	_	_	_	_	_
+8	ultro	_	_	_	_	_	_	_	_
+9	cum	_	_	_	_	_	_	_	_
+10	sit	_	_	_	_	_	_	_	_
+11	misericordia	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0972.phi001.perseus-lat1.xml@559
+# text = et supra nos Fortuna negotia curat.
+1	et	_	_	_	_	_	_	_	_
+2	supra	_	_	_	_	_	_	_	_
+3	nos	_	_	_	_	_	_	_	_
+4	Fortuna	_	_	_	_	_	_	_	_
+5	negotia	_	_	_	_	_	_	_	_
+6	curat	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0474.phi013.perseus-lat1.tb.xml@87
+# text = exire ex urbe iubet consul hostem.
+1	exire	_	_	_	_	_	_	_	_
+2	ex	_	_	_	_	_	_	_	_
+3	urbe	_	_	_	_	_	_	_	_
+4	iubet	_	_	_	_	_	_	_	_
+5	consul	_	_	_	_	_	_	_	_
+6	hostem	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = tlg0031.tlg027.perseus-lat1.tb.xml@168
+# text = post haec vidi quattuor angelos stantes super quattuor angulos terrae tenentes quattuor ventos terrae ne flaret ventus super terram que ne super mare que ne in ullam arborem.
+1	post	_	_	_	_	_	_	_	_
+2	haec	_	_	_	_	_	_	_	_
+3	vidi	_	_	_	_	_	_	_	_
+4	quattuor	_	_	_	_	_	_	_	_
+5	angelos	_	_	_	_	_	_	_	_
+6	stantes	_	_	_	_	_	_	_	_
+7	super	_	_	_	_	_	_	_	_
+8	quattuor	_	_	_	_	_	_	_	_
+9	angulos	_	_	_	_	_	_	_	_
+10	terrae	_	_	_	_	_	_	_	_
+11	tenentes	_	_	_	_	_	_	_	_
+12	quattuor	_	_	_	_	_	_	_	_
+13	ventos	_	_	_	_	_	_	_	_
+14	terrae	_	_	_	_	_	_	_	_
+15	ne	_	_	_	_	_	_	_	_
+16	flaret	_	_	_	_	_	_	_	_
+17	ventus	_	_	_	_	_	_	_	_
+18	super	_	_	_	_	_	_	_	_
+19	terram	_	_	_	_	_	_	_	_
+20	que	_	_	_	_	_	_	_	_
+21	ne	_	_	_	_	_	_	_	_
+22	super	_	_	_	_	_	_	_	_
+23	mare	_	_	_	_	_	_	_	_
+24	que	_	_	_	_	_	_	_	_
+25	ne	_	_	_	_	_	_	_	_
+26	in	_	_	_	_	_	_	_	_
+27	ullam	_	_	_	_	_	_	_	_
+28	arborem	_	_	_	_	_	_	_	_
+29	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi1351.phi005.perseus-lat1.tb.xml@127
+# text = secundae res acrioribus stimulis animos explorant, quia miseriae tolerantur, felicitate corrumpimur.
+1	secundae	_	_	_	_	_	_	_	_
+2	res	_	_	_	_	_	_	_	_
+3	acrioribus	_	_	_	_	_	_	_	_
+4	stimulis	_	_	_	_	_	_	_	_
+5	animos	_	_	_	_	_	_	_	_
+6	explorant	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	quia	_	_	_	_	_	_	_	_
+9	miseriae	_	_	_	_	_	_	_	_
+10	tolerantur	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	felicitate	_	_	_	_	_	_	_	_
+13	corrumpimur	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = phi0959.phi006.perseus-lat1.tb.xml@212
+# text = tu ducibus Latiis aderis, cum laeta triumphum vox canet et visent longas Capitolia pompas:
+1	tu	_	_	_	_	_	_	_	_
+2	ducibus	_	_	_	_	_	_	_	_
+3	Latiis	_	_	_	_	_	_	_	_
+4	aderis	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	cum	_	_	_	_	_	_	_	_
+7	laeta	_	_	_	_	_	_	_	_
+8	triumphum	_	_	_	_	_	_	_	_
+9	vox	_	_	_	_	_	_	_	_
+10	canet	_	_	_	_	_	_	_	_
+11	et	_	_	_	_	_	_	_	_
+12	visent	_	_	_	_	_	_	_	_
+13	longas	_	_	_	_	_	_	_	_
+14	Capitolia	_	_	_	_	_	_	_	_
+15	pompas	_	_	_	_	_	_	_	_
+16	:	_	_	_	_	_	_	_	_
+
+# sent_id = tlg0031.tlg027.perseus-lat1.tb.xml@109
+# text = et requiem non habent die et nocte dicentia:
+1	et	_	_	_	_	_	_	_	_
+2	requiem	_	_	_	_	_	_	_	_
+3	non	_	_	_	_	_	_	_	_
+4	habent	_	_	_	_	_	_	_	_
+5	die	_	_	_	_	_	_	_	_
+6	et	_	_	_	_	_	_	_	_
+7	nocte	_	_	_	_	_	_	_	_
+8	dicentia	_	_	_	_	_	_	_	_
+9	:	_	_	_	_	_	_	_	_
+
+# sent_id = phi0975.phi001.perseus-lat1.tb.xml@234
+# text = Et, quae debetur pars tuae modestiae, Audacter tolle.
+1	Et	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	quae	_	_	_	_	_	_	_	_
+4	debetur	_	_	_	_	_	_	_	_
+5	pars	_	_	_	_	_	_	_	_
+6	tuae	_	_	_	_	_	_	_	_
+7	modestiae	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	Audacter	_	_	_	_	_	_	_	_
+10	tolle	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+

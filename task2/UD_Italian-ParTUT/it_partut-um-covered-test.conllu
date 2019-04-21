@@ -1,0 +1,6005 @@
+# sent_id = it_partut-ud-127
+# text = Comunque sia, questo punto non è previsto nelle discussioni sui problemi di attualità di giovedì.
+1	Comunque	_	_	_	_	_	_	_	_
+2	sia	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	questo	_	_	_	_	_	_	_	_
+5	punto	_	_	_	_	_	_	_	_
+6	non	_	_	_	_	_	_	_	_
+7	è	_	_	_	_	_	_	_	_
+8	previsto	_	_	_	_	_	_	_	_
+9	in	_	_	_	_	_	_	_	_
+10	le	_	_	_	_	_	_	_	_
+11	discussioni	_	_	_	_	_	_	_	_
+12	su	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	problemi	_	_	_	_	_	_	_	_
+15	di	_	_	_	_	_	_	_	_
+16	attualità	_	_	_	_	_	_	_	_
+17	di	_	_	_	_	_	_	_	_
+18	giovedì	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-2075
+# text = Nel 1591 le autorità riportarono che John Shakespeare non andava in chiesa "per paura di un processo per debiti", una dispensa comune fra i cattolici.
+1	In	_	_	_	_	_	_	_	_
+2	il	_	_	_	_	_	_	_	_
+3	1591	_	_	_	_	_	_	_	_
+4	le	_	_	_	_	_	_	_	_
+5	autorità	_	_	_	_	_	_	_	_
+6	riportarono	_	_	_	_	_	_	_	_
+7	che	_	_	_	_	_	_	_	_
+8	John	_	_	_	_	_	_	_	_
+9	Shakespeare	_	_	_	_	_	_	_	_
+10	non	_	_	_	_	_	_	_	_
+11	andava	_	_	_	_	_	_	_	_
+12	in	_	_	_	_	_	_	_	_
+13	chiesa	_	_	_	_	_	_	_	_
+14	"	_	_	_	_	_	_	_	_
+15	per	_	_	_	_	_	_	_	_
+16	paura	_	_	_	_	_	_	_	_
+17	di	_	_	_	_	_	_	_	_
+18	un	_	_	_	_	_	_	_	_
+19	processo	_	_	_	_	_	_	_	_
+20	per	_	_	_	_	_	_	_	_
+21	debiti	_	_	_	_	_	_	_	_
+22	"	_	_	_	_	_	_	_	_
+23	,	_	_	_	_	_	_	_	_
+24	una	_	_	_	_	_	_	_	_
+25	dispensa	_	_	_	_	_	_	_	_
+26	comune	_	_	_	_	_	_	_	_
+27	fra	_	_	_	_	_	_	_	_
+28	i	_	_	_	_	_	_	_	_
+29	cattolici	_	_	_	_	_	_	_	_
+30	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-292
+# text = Vorrei chiedere alla vicepresidente se oggi è in grado di dirci qualcosa sullo stato di avanzamento degli sforzi di armonizzazione da parte delle due organizzazioni summenzionate e se l' Unione Europea ha la possibilità di accelerare l' armonizzazione adottando principi il più possibile semplici .
+1	Vorrei	_	_	_	_	_	_	_	_
+2	chiedere	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	la	_	_	_	_	_	_	_	_
+5	vicepresidente	_	_	_	_	_	_	_	_
+6	se	_	_	_	_	_	_	_	_
+7	oggi	_	_	_	_	_	_	_	_
+8	è	_	_	_	_	_	_	_	_
+9	in	_	_	_	_	_	_	_	_
+10	grado	_	_	_	_	_	_	_	_
+11	di	_	_	_	_	_	_	_	_
+12	dir	_	_	_	_	_	_	_	_
+13	ci	_	_	_	_	_	_	_	_
+14	qualcosa	_	_	_	_	_	_	_	_
+15	su	_	_	_	_	_	_	_	_
+16	lo	_	_	_	_	_	_	_	_
+17	stato	_	_	_	_	_	_	_	_
+18	di	_	_	_	_	_	_	_	_
+19	avanzamento	_	_	_	_	_	_	_	_
+20	di	_	_	_	_	_	_	_	_
+21	gli	_	_	_	_	_	_	_	_
+22	sforzi	_	_	_	_	_	_	_	_
+23	di	_	_	_	_	_	_	_	_
+24	armonizzazione	_	_	_	_	_	_	_	_
+25	da	_	_	_	_	_	_	_	_
+26	parte	_	_	_	_	_	_	_	_
+27	di	_	_	_	_	_	_	_	_
+28	le	_	_	_	_	_	_	_	_
+29	due	_	_	_	_	_	_	_	_
+30	organizzazioni	_	_	_	_	_	_	_	_
+31	summenzionate	_	_	_	_	_	_	_	_
+32	e	_	_	_	_	_	_	_	_
+33	se	_	_	_	_	_	_	_	_
+34	l'	_	_	_	_	_	_	_	_
+35	Unione	_	_	_	_	_	_	_	_
+36	Europea	_	_	_	_	_	_	_	_
+37	ha	_	_	_	_	_	_	_	_
+38	la	_	_	_	_	_	_	_	_
+39	possibilità	_	_	_	_	_	_	_	_
+40	di	_	_	_	_	_	_	_	_
+41	accelerare	_	_	_	_	_	_	_	_
+42	l'	_	_	_	_	_	_	_	_
+43	armonizzazione	_	_	_	_	_	_	_	_
+44	adottando	_	_	_	_	_	_	_	_
+45	principi	_	_	_	_	_	_	_	_
+46	il	_	_	_	_	_	_	_	_
+47	più	_	_	_	_	_	_	_	_
+48	possibile	_	_	_	_	_	_	_	_
+49	semplici	_	_	_	_	_	_	_	_
+50	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-770
+# text = Questo diritto non potrà essere invocato qualora l'individuo sia realmente ricercato per reati non politici o per azioni contrarie ai fini e ai principi delle Nazioni Unite.
+1	Questo	_	_	_	_	_	_	_	_
+2	diritto	_	_	_	_	_	_	_	_
+3	non	_	_	_	_	_	_	_	_
+4	potrà	_	_	_	_	_	_	_	_
+5	essere	_	_	_	_	_	_	_	_
+6	invocato	_	_	_	_	_	_	_	_
+7	qualora	_	_	_	_	_	_	_	_
+8	l'	_	_	_	_	_	_	_	_
+9	individuo	_	_	_	_	_	_	_	_
+10	sia	_	_	_	_	_	_	_	_
+11	realmente	_	_	_	_	_	_	_	_
+12	ricercato	_	_	_	_	_	_	_	_
+13	per	_	_	_	_	_	_	_	_
+14	reati	_	_	_	_	_	_	_	_
+15	non	_	_	_	_	_	_	_	_
+16	politici	_	_	_	_	_	_	_	_
+17	o	_	_	_	_	_	_	_	_
+18	per	_	_	_	_	_	_	_	_
+19	azioni	_	_	_	_	_	_	_	_
+20	contrarie	_	_	_	_	_	_	_	_
+21	a	_	_	_	_	_	_	_	_
+22	i	_	_	_	_	_	_	_	_
+23	fini	_	_	_	_	_	_	_	_
+24	e	_	_	_	_	_	_	_	_
+25	a	_	_	_	_	_	_	_	_
+26	i	_	_	_	_	_	_	_	_
+27	principi	_	_	_	_	_	_	_	_
+28	di	_	_	_	_	_	_	_	_
+29	le	_	_	_	_	_	_	_	_
+30	Nazioni	_	_	_	_	_	_	_	_
+31	Unite	_	_	_	_	_	_	_	_
+32	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1020
+# text = Le scorte di cui al paragrafo 1 sono detratte dalla quantità che supera le scorte normali di riporto.
+1	Le	_	_	_	_	_	_	_	_
+2	scorte	_	_	_	_	_	_	_	_
+3	di	_	_	_	_	_	_	_	_
+4	cui	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	il	_	_	_	_	_	_	_	_
+7	paragrafo	_	_	_	_	_	_	_	_
+8	1	_	_	_	_	_	_	_	_
+9	sono	_	_	_	_	_	_	_	_
+10	detratte	_	_	_	_	_	_	_	_
+11	da	_	_	_	_	_	_	_	_
+12	la	_	_	_	_	_	_	_	_
+13	quantità	_	_	_	_	_	_	_	_
+14	che	_	_	_	_	_	_	_	_
+15	supera	_	_	_	_	_	_	_	_
+16	le	_	_	_	_	_	_	_	_
+17	scorte	_	_	_	_	_	_	_	_
+18	normali	_	_	_	_	_	_	_	_
+19	di	_	_	_	_	_	_	_	_
+20	riporto	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-675
+# text = - Il programma deve restare a disposizione di tutti gli stati membri ma va concessa la priorità (in primo luogo) a quegli stati che hanno aderito poco alle iniziative o non hanno organizzato interventi durante il primo programma, e ai nuovi stati membri.
+1	-	_	_	_	_	_	_	_	_
+2	Il	_	_	_	_	_	_	_	_
+3	programma	_	_	_	_	_	_	_	_
+4	deve	_	_	_	_	_	_	_	_
+5	restare	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	disposizione	_	_	_	_	_	_	_	_
+8	di	_	_	_	_	_	_	_	_
+9	tutti	_	_	_	_	_	_	_	_
+10	gli	_	_	_	_	_	_	_	_
+11	stati	_	_	_	_	_	_	_	_
+12	membri	_	_	_	_	_	_	_	_
+13	ma	_	_	_	_	_	_	_	_
+14	va	_	_	_	_	_	_	_	_
+15	concessa	_	_	_	_	_	_	_	_
+16	la	_	_	_	_	_	_	_	_
+17	priorità	_	_	_	_	_	_	_	_
+18	(	_	_	_	_	_	_	_	_
+19	in	_	_	_	_	_	_	_	_
+20	primo	_	_	_	_	_	_	_	_
+21	luogo	_	_	_	_	_	_	_	_
+22	)	_	_	_	_	_	_	_	_
+23	a	_	_	_	_	_	_	_	_
+24	quegli	_	_	_	_	_	_	_	_
+25	stati	_	_	_	_	_	_	_	_
+26	che	_	_	_	_	_	_	_	_
+27	hanno	_	_	_	_	_	_	_	_
+28	aderito	_	_	_	_	_	_	_	_
+29	poco	_	_	_	_	_	_	_	_
+30	a	_	_	_	_	_	_	_	_
+31	le	_	_	_	_	_	_	_	_
+32	iniziative	_	_	_	_	_	_	_	_
+33	o	_	_	_	_	_	_	_	_
+34	non	_	_	_	_	_	_	_	_
+35	hanno	_	_	_	_	_	_	_	_
+36	organizzato	_	_	_	_	_	_	_	_
+37	interventi	_	_	_	_	_	_	_	_
+38	durante	_	_	_	_	_	_	_	_
+39	il	_	_	_	_	_	_	_	_
+40	primo	_	_	_	_	_	_	_	_
+41	programma	_	_	_	_	_	_	_	_
+42	,	_	_	_	_	_	_	_	_
+43	e	_	_	_	_	_	_	_	_
+44	a	_	_	_	_	_	_	_	_
+45	i	_	_	_	_	_	_	_	_
+46	nuovi	_	_	_	_	_	_	_	_
+47	stati	_	_	_	_	_	_	_	_
+48	membri	_	_	_	_	_	_	_	_
+49	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-692
+# text = Da segnalare tuttavia che lo scambio di personale ha acquisito sempre maggiore importanza e può essere ora qualificato come una peculiarità del programma Pericle.
+1	Da	_	_	_	_	_	_	_	_
+2	segnalare	_	_	_	_	_	_	_	_
+3	tuttavia	_	_	_	_	_	_	_	_
+4	che	_	_	_	_	_	_	_	_
+5	lo	_	_	_	_	_	_	_	_
+6	scambio	_	_	_	_	_	_	_	_
+7	di	_	_	_	_	_	_	_	_
+8	personale	_	_	_	_	_	_	_	_
+9	ha	_	_	_	_	_	_	_	_
+10	acquisito	_	_	_	_	_	_	_	_
+11	sempre	_	_	_	_	_	_	_	_
+12	maggiore	_	_	_	_	_	_	_	_
+13	importanza	_	_	_	_	_	_	_	_
+14	e	_	_	_	_	_	_	_	_
+15	può	_	_	_	_	_	_	_	_
+16	essere	_	_	_	_	_	_	_	_
+17	ora	_	_	_	_	_	_	_	_
+18	qualificato	_	_	_	_	_	_	_	_
+19	come	_	_	_	_	_	_	_	_
+20	una	_	_	_	_	_	_	_	_
+21	peculiarità	_	_	_	_	_	_	_	_
+22	di	_	_	_	_	_	_	_	_
+23	il	_	_	_	_	_	_	_	_
+24	programma	_	_	_	_	_	_	_	_
+25	Pericle	_	_	_	_	_	_	_	_
+26	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-783
+# text = Nessuno può essere costretto a far parte di un'associazione.
+1	Nessuno	_	_	_	_	_	_	_	_
+2	può	_	_	_	_	_	_	_	_
+3	essere	_	_	_	_	_	_	_	_
+4	costretto	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	far	_	_	_	_	_	_	_	_
+7	parte	_	_	_	_	_	_	_	_
+8	di	_	_	_	_	_	_	_	_
+9	un'	_	_	_	_	_	_	_	_
+10	associazione	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1131
+# text = Ci sono stati molti feriti, ma i cittadini hanno prevalso.
+1	Ci	_	_	_	_	_	_	_	_
+2	sono	_	_	_	_	_	_	_	_
+3	stati	_	_	_	_	_	_	_	_
+4	molti	_	_	_	_	_	_	_	_
+5	feriti	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	ma	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	cittadini	_	_	_	_	_	_	_	_
+10	hanno	_	_	_	_	_	_	_	_
+11	prevalso	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1082
+# text = Inoltre, gli indiani non hanno accesso ai piani assicurativi, in particolar modo per quanto riguarda le cure ambulatoriali.
+1	Inoltre	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	gli	_	_	_	_	_	_	_	_
+4	indiani	_	_	_	_	_	_	_	_
+5	non	_	_	_	_	_	_	_	_
+6	hanno	_	_	_	_	_	_	_	_
+7	accesso	_	_	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	i	_	_	_	_	_	_	_	_
+10	piani	_	_	_	_	_	_	_	_
+11	assicurativi	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	in	_	_	_	_	_	_	_	_
+14	particolar	_	_	_	_	_	_	_	_
+15	modo	_	_	_	_	_	_	_	_
+16	per	_	_	_	_	_	_	_	_
+17	quanto	_	_	_	_	_	_	_	_
+18	riguarda	_	_	_	_	_	_	_	_
+19	le	_	_	_	_	_	_	_	_
+20	cure	_	_	_	_	_	_	_	_
+21	ambulatoriali	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1323
+# text = Il futuro della Corea del sud è donna.
+1	Il	_	_	_	_	_	_	_	_
+2	futuro	_	_	_	_	_	_	_	_
+3	di	_	_	_	_	_	_	_	_
+4	la	_	_	_	_	_	_	_	_
+5	Corea	_	_	_	_	_	_	_	_
+6	di	_	_	_	_	_	_	_	_
+7	il	_	_	_	_	_	_	_	_
+8	sud	_	_	_	_	_	_	_	_
+9	è	_	_	_	_	_	_	_	_
+10	donna	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-337
+# text = Questo aspetto, insieme alle carenze delle reti di infrastrutture e servizi e a un'offerta di lavoro in generale molto ridotta e al massimo stagionale e poco diversificata, accentua l'esodo dalle zone rurali.
+1	Questo	_	_	_	_	_	_	_	_
+2	aspetto	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	insieme	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	le	_	_	_	_	_	_	_	_
+7	carenze	_	_	_	_	_	_	_	_
+8	di	_	_	_	_	_	_	_	_
+9	le	_	_	_	_	_	_	_	_
+10	reti	_	_	_	_	_	_	_	_
+11	di	_	_	_	_	_	_	_	_
+12	infrastrutture	_	_	_	_	_	_	_	_
+13	e	_	_	_	_	_	_	_	_
+14	servizi	_	_	_	_	_	_	_	_
+15	e	_	_	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	un'	_	_	_	_	_	_	_	_
+18	offerta	_	_	_	_	_	_	_	_
+19	di	_	_	_	_	_	_	_	_
+20	lavoro	_	_	_	_	_	_	_	_
+21	in	_	_	_	_	_	_	_	_
+22	generale	_	_	_	_	_	_	_	_
+23	molto	_	_	_	_	_	_	_	_
+24	ridotta	_	_	_	_	_	_	_	_
+25	e	_	_	_	_	_	_	_	_
+26	a	_	_	_	_	_	_	_	_
+27	il	_	_	_	_	_	_	_	_
+28	massimo	_	_	_	_	_	_	_	_
+29	stagionale	_	_	_	_	_	_	_	_
+30	e	_	_	_	_	_	_	_	_
+31	poco	_	_	_	_	_	_	_	_
+32	diversificata	_	_	_	_	_	_	_	_
+33	,	_	_	_	_	_	_	_	_
+34	accentua	_	_	_	_	_	_	_	_
+35	l'	_	_	_	_	_	_	_	_
+36	esodo	_	_	_	_	_	_	_	_
+37	da	_	_	_	_	_	_	_	_
+38	le	_	_	_	_	_	_	_	_
+39	zone	_	_	_	_	_	_	_	_
+40	rurali	_	_	_	_	_	_	_	_
+41	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-270
+# text = Nella proposta della commissione si era pensato che meno venti gradi sarebbero stati sufficienti;
+1	In	_	_	_	_	_	_	_	_
+2	la	_	_	_	_	_	_	_	_
+3	proposta	_	_	_	_	_	_	_	_
+4	di	_	_	_	_	_	_	_	_
+5	la	_	_	_	_	_	_	_	_
+6	commissione	_	_	_	_	_	_	_	_
+7	si	_	_	_	_	_	_	_	_
+8	era	_	_	_	_	_	_	_	_
+9	pensato	_	_	_	_	_	_	_	_
+10	che	_	_	_	_	_	_	_	_
+11	meno	_	_	_	_	_	_	_	_
+12	venti	_	_	_	_	_	_	_	_
+13	gradi	_	_	_	_	_	_	_	_
+14	sarebbero	_	_	_	_	_	_	_	_
+15	stati	_	_	_	_	_	_	_	_
+16	sufficienti	_	_	_	_	_	_	_	_
+17	;	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1828
+# text = Fu il terzo di otto figli e il più vecchio a sopravvivere.
+1	Fu	_	_	_	_	_	_	_	_
+2	il	_	_	_	_	_	_	_	_
+3	terzo	_	_	_	_	_	_	_	_
+4	di	_	_	_	_	_	_	_	_
+5	otto	_	_	_	_	_	_	_	_
+6	figli	_	_	_	_	_	_	_	_
+7	e	_	_	_	_	_	_	_	_
+8	il	_	_	_	_	_	_	_	_
+9	più	_	_	_	_	_	_	_	_
+10	vecchio	_	_	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	sopravvivere	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1734
+# text = Mentre ammirava e traeva ispirazione dallo stile romantico del romanziere scozzese Walter Scott, Balzac cercava di presentare l'esistenza umana attraverso l'uso dei particolari.
+1	Mentre	_	_	_	_	_	_	_	_
+2	ammirava	_	_	_	_	_	_	_	_
+3	e	_	_	_	_	_	_	_	_
+4	traeva	_	_	_	_	_	_	_	_
+5	ispirazione	_	_	_	_	_	_	_	_
+6	da	_	_	_	_	_	_	_	_
+7	lo	_	_	_	_	_	_	_	_
+8	stile	_	_	_	_	_	_	_	_
+9	romantico	_	_	_	_	_	_	_	_
+10	di	_	_	_	_	_	_	_	_
+11	il	_	_	_	_	_	_	_	_
+12	romanziere	_	_	_	_	_	_	_	_
+13	scozzese	_	_	_	_	_	_	_	_
+14	Walter	_	_	_	_	_	_	_	_
+15	Scott	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	Balzac	_	_	_	_	_	_	_	_
+18	cercava	_	_	_	_	_	_	_	_
+19	di	_	_	_	_	_	_	_	_
+20	presentare	_	_	_	_	_	_	_	_
+21	l'	_	_	_	_	_	_	_	_
+22	esistenza	_	_	_	_	_	_	_	_
+23	umana	_	_	_	_	_	_	_	_
+24	attraverso	_	_	_	_	_	_	_	_
+25	l'	_	_	_	_	_	_	_	_
+26	uso	_	_	_	_	_	_	_	_
+27	di	_	_	_	_	_	_	_	_
+28	i	_	_	_	_	_	_	_	_
+29	particolari	_	_	_	_	_	_	_	_
+30	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-715
+# text = Conformemente all'articolo 5 della decisione Pericle, l'attuazione e il coordinamento del programma sono realizzati in stretto partenariato fra la commissione e gli stati membri.
+1	Conformemente	_	_	_	_	_	_	_	_
+2	a	_	_	_	_	_	_	_	_
+3	l'	_	_	_	_	_	_	_	_
+4	articolo	_	_	_	_	_	_	_	_
+5	5	_	_	_	_	_	_	_	_
+6	di	_	_	_	_	_	_	_	_
+7	la	_	_	_	_	_	_	_	_
+8	decisione	_	_	_	_	_	_	_	_
+9	Pericle	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	l'	_	_	_	_	_	_	_	_
+12	attuazione	_	_	_	_	_	_	_	_
+13	e	_	_	_	_	_	_	_	_
+14	il	_	_	_	_	_	_	_	_
+15	coordinamento	_	_	_	_	_	_	_	_
+16	di	_	_	_	_	_	_	_	_
+17	il	_	_	_	_	_	_	_	_
+18	programma	_	_	_	_	_	_	_	_
+19	sono	_	_	_	_	_	_	_	_
+20	realizzati	_	_	_	_	_	_	_	_
+21	in	_	_	_	_	_	_	_	_
+22	stretto	_	_	_	_	_	_	_	_
+23	partenariato	_	_	_	_	_	_	_	_
+24	fra	_	_	_	_	_	_	_	_
+25	la	_	_	_	_	_	_	_	_
+26	commissione	_	_	_	_	_	_	_	_
+27	e	_	_	_	_	_	_	_	_
+28	gli	_	_	_	_	_	_	_	_
+29	stati	_	_	_	_	_	_	_	_
+30	membri	_	_	_	_	_	_	_	_
+31	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1598
+# text = Era disperato del suo essere "un commesso, una macchina, un mero scribacchino, che mangia, beve e dorme ad ore fisse.
+1	Era	_	_	_	_	_	_	_	_
+2	disperato	_	_	_	_	_	_	_	_
+3	di	_	_	_	_	_	_	_	_
+4	il	_	_	_	_	_	_	_	_
+5	suo	_	_	_	_	_	_	_	_
+6	essere	_	_	_	_	_	_	_	_
+7	"	_	_	_	_	_	_	_	_
+8	un	_	_	_	_	_	_	_	_
+9	commesso	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	una	_	_	_	_	_	_	_	_
+12	macchina	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	un	_	_	_	_	_	_	_	_
+15	mero	_	_	_	_	_	_	_	_
+16	scribacchino	_	_	_	_	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	che	_	_	_	_	_	_	_	_
+19	mangia	_	_	_	_	_	_	_	_
+20	,	_	_	_	_	_	_	_	_
+21	beve	_	_	_	_	_	_	_	_
+22	e	_	_	_	_	_	_	_	_
+23	dorme	_	_	_	_	_	_	_	_
+24	ad	_	_	_	_	_	_	_	_
+25	ore	_	_	_	_	_	_	_	_
+26	fisse	_	_	_	_	_	_	_	_
+27	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-384
+# text = Spesso sono stati finanziati progetti che non hanno prodotto alcun vantaggio permanente alla regione interessata.
+1	Spesso	_	_	_	_	_	_	_	_
+2	sono	_	_	_	_	_	_	_	_
+3	stati	_	_	_	_	_	_	_	_
+4	finanziati	_	_	_	_	_	_	_	_
+5	progetti	_	_	_	_	_	_	_	_
+6	che	_	_	_	_	_	_	_	_
+7	non	_	_	_	_	_	_	_	_
+8	hanno	_	_	_	_	_	_	_	_
+9	prodotto	_	_	_	_	_	_	_	_
+10	alcun	_	_	_	_	_	_	_	_
+11	vantaggio	_	_	_	_	_	_	_	_
+12	permanente	_	_	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	la	_	_	_	_	_	_	_	_
+15	regione	_	_	_	_	_	_	_	_
+16	interessata	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1150
+# text = Ma l'Ucraina avrà bisogno di aiuti esterni che solo l'Ue può dare:
+1	Ma	_	_	_	_	_	_	_	_
+2	l'	_	_	_	_	_	_	_	_
+3	Ucraina	_	_	_	_	_	_	_	_
+4	avrà	_	_	_	_	_	_	_	_
+5	bisogno	_	_	_	_	_	_	_	_
+6	di	_	_	_	_	_	_	_	_
+7	aiuti	_	_	_	_	_	_	_	_
+8	esterni	_	_	_	_	_	_	_	_
+9	che	_	_	_	_	_	_	_	_
+10	solo	_	_	_	_	_	_	_	_
+11	l'	_	_	_	_	_	_	_	_
+12	Ue	_	_	_	_	_	_	_	_
+13	può	_	_	_	_	_	_	_	_
+14	dare	_	_	_	_	_	_	_	_
+15	:	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1610
+# text = essi non ne rimasero positivamente impressionati.
+1	essi	_	_	_	_	_	_	_	_
+2	non	_	_	_	_	_	_	_	_
+3	ne	_	_	_	_	_	_	_	_
+4	rimasero	_	_	_	_	_	_	_	_
+5	positivamente	_	_	_	_	_	_	_	_
+6	impressionati	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-864
+# text = E quella quantità così concentrata passava negli esseri umani che mangiavano quella carne.
+1	E	_	_	_	_	_	_	_	_
+2	quella	_	_	_	_	_	_	_	_
+3	quantità	_	_	_	_	_	_	_	_
+4	così	_	_	_	_	_	_	_	_
+5	concentrata	_	_	_	_	_	_	_	_
+6	passava	_	_	_	_	_	_	_	_
+7	in	_	_	_	_	_	_	_	_
+8	gli	_	_	_	_	_	_	_	_
+9	esseri	_	_	_	_	_	_	_	_
+10	umani	_	_	_	_	_	_	_	_
+11	che	_	_	_	_	_	_	_	_
+12	mangiavano	_	_	_	_	_	_	_	_
+13	quella	_	_	_	_	_	_	_	_
+14	carne	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1665
+# text = Nel 1836 Balzac prese il timone del Chronique de Paris, un giornale settimanale di società e politica.
+1	In	_	_	_	_	_	_	_	_
+2	il	_	_	_	_	_	_	_	_
+3	1836	_	_	_	_	_	_	_	_
+4	Balzac	_	_	_	_	_	_	_	_
+5	prese	_	_	_	_	_	_	_	_
+6	il	_	_	_	_	_	_	_	_
+7	timone	_	_	_	_	_	_	_	_
+8	di	_	_	_	_	_	_	_	_
+9	il	_	_	_	_	_	_	_	_
+10	Chronique	_	_	_	_	_	_	_	_
+11	de	_	_	_	_	_	_	_	_
+12	Paris	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	un	_	_	_	_	_	_	_	_
+15	giornale	_	_	_	_	_	_	_	_
+16	settimanale	_	_	_	_	_	_	_	_
+17	di	_	_	_	_	_	_	_	_
+18	società	_	_	_	_	_	_	_	_
+19	e	_	_	_	_	_	_	_	_
+20	politica	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1195
+# text = Tra i due partner sono sorti conflitti su un'ampia gamma di questioni, tra cui il commercio, il tasso di cambio del renminbi, la sicurezza regionale, la proprietà intellettuale e gli attacchi informatici, per citarne alcuni.
+1	Tra	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	due	_	_	_	_	_	_	_	_
+4	partner	_	_	_	_	_	_	_	_
+5	sono	_	_	_	_	_	_	_	_
+6	sorti	_	_	_	_	_	_	_	_
+7	conflitti	_	_	_	_	_	_	_	_
+8	su	_	_	_	_	_	_	_	_
+9	un'	_	_	_	_	_	_	_	_
+10	ampia	_	_	_	_	_	_	_	_
+11	gamma	_	_	_	_	_	_	_	_
+12	di	_	_	_	_	_	_	_	_
+13	questioni	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	tra	_	_	_	_	_	_	_	_
+16	cui	_	_	_	_	_	_	_	_
+17	il	_	_	_	_	_	_	_	_
+18	commercio	_	_	_	_	_	_	_	_
+19	,	_	_	_	_	_	_	_	_
+20	il	_	_	_	_	_	_	_	_
+21	tasso	_	_	_	_	_	_	_	_
+22	di	_	_	_	_	_	_	_	_
+23	cambio	_	_	_	_	_	_	_	_
+24	di	_	_	_	_	_	_	_	_
+25	il	_	_	_	_	_	_	_	_
+26	renminbi	_	_	_	_	_	_	_	_
+27	,	_	_	_	_	_	_	_	_
+28	la	_	_	_	_	_	_	_	_
+29	sicurezza	_	_	_	_	_	_	_	_
+30	regionale	_	_	_	_	_	_	_	_
+31	,	_	_	_	_	_	_	_	_
+32	la	_	_	_	_	_	_	_	_
+33	proprietà	_	_	_	_	_	_	_	_
+34	intellettuale	_	_	_	_	_	_	_	_
+35	e	_	_	_	_	_	_	_	_
+36	gli	_	_	_	_	_	_	_	_
+37	attacchi	_	_	_	_	_	_	_	_
+38	informatici	_	_	_	_	_	_	_	_
+39	,	_	_	_	_	_	_	_	_
+40	per	_	_	_	_	_	_	_	_
+41	citar	_	_	_	_	_	_	_	_
+42	ne	_	_	_	_	_	_	_	_
+43	alcuni	_	_	_	_	_	_	_	_
+44	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-853
+# text = Ovviamente, siamo noi.
+1	Ovviamente	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	siamo	_	_	_	_	_	_	_	_
+4	noi	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-20
+# text = creazione e riproduzione di un'Opera derivata;
+1	creazione	_	_	_	_	_	_	_	_
+2	e	_	_	_	_	_	_	_	_
+3	riproduzione	_	_	_	_	_	_	_	_
+4	di	_	_	_	_	_	_	_	_
+5	un'	_	_	_	_	_	_	_	_
+6	Opera	_	_	_	_	_	_	_	_
+7	derivata	_	_	_	_	_	_	_	_
+8	;	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1273
+# text = In modo analogo, il nostro parametro PIL non riflette il costo della forte insicurezza percepita dai cittadini che rischiano di perdere il lavoro.
+1	In	_	_	_	_	_	_	_	_
+2	modo	_	_	_	_	_	_	_	_
+3	analogo	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	il	_	_	_	_	_	_	_	_
+6	nostro	_	_	_	_	_	_	_	_
+7	parametro	_	_	_	_	_	_	_	_
+8	PIL	_	_	_	_	_	_	_	_
+9	non	_	_	_	_	_	_	_	_
+10	riflette	_	_	_	_	_	_	_	_
+11	il	_	_	_	_	_	_	_	_
+12	costo	_	_	_	_	_	_	_	_
+13	di	_	_	_	_	_	_	_	_
+14	la	_	_	_	_	_	_	_	_
+15	forte	_	_	_	_	_	_	_	_
+16	insicurezza	_	_	_	_	_	_	_	_
+17	percepita	_	_	_	_	_	_	_	_
+18	da	_	_	_	_	_	_	_	_
+19	i	_	_	_	_	_	_	_	_
+20	cittadini	_	_	_	_	_	_	_	_
+21	che	_	_	_	_	_	_	_	_
+22	rischiano	_	_	_	_	_	_	_	_
+23	di	_	_	_	_	_	_	_	_
+24	perdere	_	_	_	_	_	_	_	_
+25	il	_	_	_	_	_	_	_	_
+26	lavoro	_	_	_	_	_	_	_	_
+27	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1454
+# text = Il nostro governo ha negoziato un accordo per un prestito in standby con il fondo monetario internazionale che ci fornirà alcuni degli strumenti di cui abbiamo bisogno per riordinare i nostri conti finanziari ed economici.
+1	Il	_	_	_	_	_	_	_	_
+2	nostro	_	_	_	_	_	_	_	_
+3	governo	_	_	_	_	_	_	_	_
+4	ha	_	_	_	_	_	_	_	_
+5	negoziato	_	_	_	_	_	_	_	_
+6	un	_	_	_	_	_	_	_	_
+7	accordo	_	_	_	_	_	_	_	_
+8	per	_	_	_	_	_	_	_	_
+9	un	_	_	_	_	_	_	_	_
+10	prestito	_	_	_	_	_	_	_	_
+11	in	_	_	_	_	_	_	_	_
+12	standby	_	_	_	_	_	_	_	_
+13	con	_	_	_	_	_	_	_	_
+14	il	_	_	_	_	_	_	_	_
+15	fondo	_	_	_	_	_	_	_	_
+16	monetario	_	_	_	_	_	_	_	_
+17	internazionale	_	_	_	_	_	_	_	_
+18	che	_	_	_	_	_	_	_	_
+19	ci	_	_	_	_	_	_	_	_
+20	fornirà	_	_	_	_	_	_	_	_
+21	alcuni	_	_	_	_	_	_	_	_
+22	di	_	_	_	_	_	_	_	_
+23	gli	_	_	_	_	_	_	_	_
+24	strumenti	_	_	_	_	_	_	_	_
+25	di	_	_	_	_	_	_	_	_
+26	cui	_	_	_	_	_	_	_	_
+27	abbiamo	_	_	_	_	_	_	_	_
+28	bisogno	_	_	_	_	_	_	_	_
+29	per	_	_	_	_	_	_	_	_
+30	riordinare	_	_	_	_	_	_	_	_
+31	i	_	_	_	_	_	_	_	_
+32	nostri	_	_	_	_	_	_	_	_
+33	conti	_	_	_	_	_	_	_	_
+34	finanziari	_	_	_	_	_	_	_	_
+35	ed	_	_	_	_	_	_	_	_
+36	economici	_	_	_	_	_	_	_	_
+37	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1968
+# text = Nel poema Venere e Adone, un innocente Adone rifiuta le avances sessuali di Venus;
+1	In	_	_	_	_	_	_	_	_
+2	il	_	_	_	_	_	_	_	_
+3	poema	_	_	_	_	_	_	_	_
+4	Venere	_	_	_	_	_	_	_	_
+5	e	_	_	_	_	_	_	_	_
+6	Adone	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	un	_	_	_	_	_	_	_	_
+9	innocente	_	_	_	_	_	_	_	_
+10	Adone	_	_	_	_	_	_	_	_
+11	rifiuta	_	_	_	_	_	_	_	_
+12	le	_	_	_	_	_	_	_	_
+13	avances	_	_	_	_	_	_	_	_
+14	sessuali	_	_	_	_	_	_	_	_
+15	di	_	_	_	_	_	_	_	_
+16	Venus	_	_	_	_	_	_	_	_
+17	;	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1823
+# text = Le sue opere teatrali rimangono oggi molto popolari e sono costantemente studiate, messe in scena e reinterpretate in diversi contesti politici e culturali in tutto il mondo.
+1	Le	_	_	_	_	_	_	_	_
+2	sue	_	_	_	_	_	_	_	_
+3	opere	_	_	_	_	_	_	_	_
+4	teatrali	_	_	_	_	_	_	_	_
+5	rimangono	_	_	_	_	_	_	_	_
+6	oggi	_	_	_	_	_	_	_	_
+7	molto	_	_	_	_	_	_	_	_
+8	popolari	_	_	_	_	_	_	_	_
+9	e	_	_	_	_	_	_	_	_
+10	sono	_	_	_	_	_	_	_	_
+11	costantemente	_	_	_	_	_	_	_	_
+12	studiate	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	messe	_	_	_	_	_	_	_	_
+15	in	_	_	_	_	_	_	_	_
+16	scena	_	_	_	_	_	_	_	_
+17	e	_	_	_	_	_	_	_	_
+18	reinterpretate	_	_	_	_	_	_	_	_
+19	in	_	_	_	_	_	_	_	_
+20	diversi	_	_	_	_	_	_	_	_
+21	contesti	_	_	_	_	_	_	_	_
+22	politici	_	_	_	_	_	_	_	_
+23	e	_	_	_	_	_	_	_	_
+24	culturali	_	_	_	_	_	_	_	_
+25	in	_	_	_	_	_	_	_	_
+26	tutto	_	_	_	_	_	_	_	_
+27	il	_	_	_	_	_	_	_	_
+28	mondo	_	_	_	_	_	_	_	_
+29	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-2084
+# text = Nessun documento contemporaneo descrive l'aspetto fisico di Shakespeare e non ci sono prove che lui abbia mai commissionato un suo ritratto, così, il ritratto di Droeshout che Ben Jonson considerò veritiero, e il suo monumento a Stratford forniscono la migliore testimonianza del suo aspetto fisico.
+1	Nessun	_	_	_	_	_	_	_	_
+2	documento	_	_	_	_	_	_	_	_
+3	contemporaneo	_	_	_	_	_	_	_	_
+4	descrive	_	_	_	_	_	_	_	_
+5	l'	_	_	_	_	_	_	_	_
+6	aspetto	_	_	_	_	_	_	_	_
+7	fisico	_	_	_	_	_	_	_	_
+8	di	_	_	_	_	_	_	_	_
+9	Shakespeare	_	_	_	_	_	_	_	_
+10	e	_	_	_	_	_	_	_	_
+11	non	_	_	_	_	_	_	_	_
+12	ci	_	_	_	_	_	_	_	_
+13	sono	_	_	_	_	_	_	_	_
+14	prove	_	_	_	_	_	_	_	_
+15	che	_	_	_	_	_	_	_	_
+16	lui	_	_	_	_	_	_	_	_
+17	abbia	_	_	_	_	_	_	_	_
+18	mai	_	_	_	_	_	_	_	_
+19	commissionato	_	_	_	_	_	_	_	_
+20	un	_	_	_	_	_	_	_	_
+21	suo	_	_	_	_	_	_	_	_
+22	ritratto	_	_	_	_	_	_	_	_
+23	,	_	_	_	_	_	_	_	_
+24	così	_	_	_	_	_	_	_	_
+25	,	_	_	_	_	_	_	_	_
+26	il	_	_	_	_	_	_	_	_
+27	ritratto	_	_	_	_	_	_	_	_
+28	di	_	_	_	_	_	_	_	_
+29	Droeshout	_	_	_	_	_	_	_	_
+30	che	_	_	_	_	_	_	_	_
+31	Ben	_	_	_	_	_	_	_	_
+32	Jonson	_	_	_	_	_	_	_	_
+33	considerò	_	_	_	_	_	_	_	_
+34	veritiero	_	_	_	_	_	_	_	_
+35	,	_	_	_	_	_	_	_	_
+36	e	_	_	_	_	_	_	_	_
+37	il	_	_	_	_	_	_	_	_
+38	suo	_	_	_	_	_	_	_	_
+39	monumento	_	_	_	_	_	_	_	_
+40	a	_	_	_	_	_	_	_	_
+41	Stratford	_	_	_	_	_	_	_	_
+42	forniscono	_	_	_	_	_	_	_	_
+43	la	_	_	_	_	_	_	_	_
+44	migliore	_	_	_	_	_	_	_	_
+45	testimonianza	_	_	_	_	_	_	_	_
+46	di	_	_	_	_	_	_	_	_
+47	il	_	_	_	_	_	_	_	_
+48	suo	_	_	_	_	_	_	_	_
+49	aspetto	_	_	_	_	_	_	_	_
+50	fisico	_	_	_	_	_	_	_	_
+51	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1023
+# text = PRINCETON - Come sono mutate rapidamente le sorti dei mercati emergenti.
+1	PRINCETON	_	_	_	_	_	_	_	_
+2	-	_	_	_	_	_	_	_	_
+3	Come	_	_	_	_	_	_	_	_
+4	sono	_	_	_	_	_	_	_	_
+5	mutate	_	_	_	_	_	_	_	_
+6	rapidamente	_	_	_	_	_	_	_	_
+7	le	_	_	_	_	_	_	_	_
+8	sorti	_	_	_	_	_	_	_	_
+9	di	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	mercati	_	_	_	_	_	_	_	_
+12	emergenti	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1681
+# text = La loro lunghezza non era prestabilita.
+1	La	_	_	_	_	_	_	_	_
+2	loro	_	_	_	_	_	_	_	_
+3	lunghezza	_	_	_	_	_	_	_	_
+4	non	_	_	_	_	_	_	_	_
+5	era	_	_	_	_	_	_	_	_
+6	prestabilita	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1504
+# text = Oggi, il metodo principale utilizzato per la riduzione delle zanzare (la cosiddetta "tecnica di sterilizzazione degli insetti" (Sit)) si basa sull'emissione di radiazioni per la sterilizzazione della zanzara maschio che viene poi rilasciata nell'area infestata per l'accoppiamento.
+1	Oggi	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	il	_	_	_	_	_	_	_	_
+4	metodo	_	_	_	_	_	_	_	_
+5	principale	_	_	_	_	_	_	_	_
+6	utilizzato	_	_	_	_	_	_	_	_
+7	per	_	_	_	_	_	_	_	_
+8	la	_	_	_	_	_	_	_	_
+9	riduzione	_	_	_	_	_	_	_	_
+10	di	_	_	_	_	_	_	_	_
+11	le	_	_	_	_	_	_	_	_
+12	zanzare	_	_	_	_	_	_	_	_
+13	(	_	_	_	_	_	_	_	_
+14	la	_	_	_	_	_	_	_	_
+15	cosiddetta	_	_	_	_	_	_	_	_
+16	"	_	_	_	_	_	_	_	_
+17	tecnica	_	_	_	_	_	_	_	_
+18	di	_	_	_	_	_	_	_	_
+19	sterilizzazione	_	_	_	_	_	_	_	_
+20	di	_	_	_	_	_	_	_	_
+21	gli	_	_	_	_	_	_	_	_
+22	insetti	_	_	_	_	_	_	_	_
+23	"	_	_	_	_	_	_	_	_
+24	(	_	_	_	_	_	_	_	_
+25	Sit	_	_	_	_	_	_	_	_
+26	)	_	_	_	_	_	_	_	_
+27	)	_	_	_	_	_	_	_	_
+28	si	_	_	_	_	_	_	_	_
+29	basa	_	_	_	_	_	_	_	_
+30	su	_	_	_	_	_	_	_	_
+31	l'	_	_	_	_	_	_	_	_
+32	emissione	_	_	_	_	_	_	_	_
+33	di	_	_	_	_	_	_	_	_
+34	radiazioni	_	_	_	_	_	_	_	_
+35	per	_	_	_	_	_	_	_	_
+36	la	_	_	_	_	_	_	_	_
+37	sterilizzazione	_	_	_	_	_	_	_	_
+38	di	_	_	_	_	_	_	_	_
+39	la	_	_	_	_	_	_	_	_
+40	zanzara	_	_	_	_	_	_	_	_
+41	maschio	_	_	_	_	_	_	_	_
+42	che	_	_	_	_	_	_	_	_
+43	viene	_	_	_	_	_	_	_	_
+44	poi	_	_	_	_	_	_	_	_
+45	rilasciata	_	_	_	_	_	_	_	_
+46	in	_	_	_	_	_	_	_	_
+47	l'	_	_	_	_	_	_	_	_
+48	area	_	_	_	_	_	_	_	_
+49	infestata	_	_	_	_	_	_	_	_
+50	per	_	_	_	_	_	_	_	_
+51	l'	_	_	_	_	_	_	_	_
+52	accoppiamento	_	_	_	_	_	_	_	_
+53	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-247
+# text = L'ordine del giorno reca la relazione (A5-0104/1999) presentata dall'onorevole Koch a nome della commissione per la politica regionale, i trasporti e il turismo sulla proposta di direttiva del Parlamento europeo e del Consiglio [COM (1999) 158 - C5-0004/1999 - 1999/0083 (COD)] che modifica la direttiva 94/55/CE concernente il ravvicinamento delle legislazioni degli stati membri relative al trasporto di merci pericolose su strada.
+1	L'	_	_	_	_	_	_	_	_
+2	ordine	_	_	_	_	_	_	_	_
+3	di	_	_	_	_	_	_	_	_
+4	il	_	_	_	_	_	_	_	_
+5	giorno	_	_	_	_	_	_	_	_
+6	reca	_	_	_	_	_	_	_	_
+7	la	_	_	_	_	_	_	_	_
+8	relazione	_	_	_	_	_	_	_	_
+9	(	_	_	_	_	_	_	_	_
+10	A5-0104	_	_	_	_	_	_	_	_
+11	/	_	_	_	_	_	_	_	_
+12	1999	_	_	_	_	_	_	_	_
+13	)	_	_	_	_	_	_	_	_
+14	presentata	_	_	_	_	_	_	_	_
+15	da	_	_	_	_	_	_	_	_
+16	l'	_	_	_	_	_	_	_	_
+17	onorevole	_	_	_	_	_	_	_	_
+18	Koch	_	_	_	_	_	_	_	_
+19	a	_	_	_	_	_	_	_	_
+20	nome	_	_	_	_	_	_	_	_
+21	di	_	_	_	_	_	_	_	_
+22	la	_	_	_	_	_	_	_	_
+23	commissione	_	_	_	_	_	_	_	_
+24	per	_	_	_	_	_	_	_	_
+25	la	_	_	_	_	_	_	_	_
+26	politica	_	_	_	_	_	_	_	_
+27	regionale	_	_	_	_	_	_	_	_
+28	,	_	_	_	_	_	_	_	_
+29	i	_	_	_	_	_	_	_	_
+30	trasporti	_	_	_	_	_	_	_	_
+31	e	_	_	_	_	_	_	_	_
+32	il	_	_	_	_	_	_	_	_
+33	turismo	_	_	_	_	_	_	_	_
+34	su	_	_	_	_	_	_	_	_
+35	la	_	_	_	_	_	_	_	_
+36	proposta	_	_	_	_	_	_	_	_
+37	di	_	_	_	_	_	_	_	_
+38	direttiva	_	_	_	_	_	_	_	_
+39	di	_	_	_	_	_	_	_	_
+40	il	_	_	_	_	_	_	_	_
+41	Parlamento	_	_	_	_	_	_	_	_
+42	europeo	_	_	_	_	_	_	_	_
+43	e	_	_	_	_	_	_	_	_
+44	di	_	_	_	_	_	_	_	_
+45	il	_	_	_	_	_	_	_	_
+46	Consiglio	_	_	_	_	_	_	_	_
+47	[	_	_	_	_	_	_	_	_
+48	COM	_	_	_	_	_	_	_	_
+49	(	_	_	_	_	_	_	_	_
+50	1999	_	_	_	_	_	_	_	_
+51	)	_	_	_	_	_	_	_	_
+52	158	_	_	_	_	_	_	_	_
+53	-	_	_	_	_	_	_	_	_
+54	C5-0004	_	_	_	_	_	_	_	_
+55	/	_	_	_	_	_	_	_	_
+56	1999	_	_	_	_	_	_	_	_
+57	-	_	_	_	_	_	_	_	_
+58	1999	_	_	_	_	_	_	_	_
+59	/	_	_	_	_	_	_	_	_
+60	0083	_	_	_	_	_	_	_	_
+61	(	_	_	_	_	_	_	_	_
+62	COD	_	_	_	_	_	_	_	_
+63	)	_	_	_	_	_	_	_	_
+64	]	_	_	_	_	_	_	_	_
+65	che	_	_	_	_	_	_	_	_
+66	modifica	_	_	_	_	_	_	_	_
+67	la	_	_	_	_	_	_	_	_
+68	direttiva	_	_	_	_	_	_	_	_
+69	94	_	_	_	_	_	_	_	_
+70	/	_	_	_	_	_	_	_	_
+71	55	_	_	_	_	_	_	_	_
+72	/	_	_	_	_	_	_	_	_
+73	CE	_	_	_	_	_	_	_	_
+74	concernente	_	_	_	_	_	_	_	_
+75	il	_	_	_	_	_	_	_	_
+76	ravvicinamento	_	_	_	_	_	_	_	_
+77	di	_	_	_	_	_	_	_	_
+78	le	_	_	_	_	_	_	_	_
+79	legislazioni	_	_	_	_	_	_	_	_
+80	di	_	_	_	_	_	_	_	_
+81	gli	_	_	_	_	_	_	_	_
+82	stati	_	_	_	_	_	_	_	_
+83	membri	_	_	_	_	_	_	_	_
+84	relative	_	_	_	_	_	_	_	_
+85	a	_	_	_	_	_	_	_	_
+86	il	_	_	_	_	_	_	_	_
+87	trasporto	_	_	_	_	_	_	_	_
+88	di	_	_	_	_	_	_	_	_
+89	merci	_	_	_	_	_	_	_	_
+90	pericolose	_	_	_	_	_	_	_	_
+91	su	_	_	_	_	_	_	_	_
+92	strada	_	_	_	_	_	_	_	_
+93	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-370
+# text = In conclusione, le linee direttrici devono essere ampie, indicative e flessibili, per fornire assistenza ai gestori dei programmi e ai beneficiari dei fondi e per sfruttare al massimo il potenziale dei nostri nuovi ambiti di recupero.
+1	In	_	_	_	_	_	_	_	_
+2	conclusione	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	le	_	_	_	_	_	_	_	_
+5	linee	_	_	_	_	_	_	_	_
+6	direttrici	_	_	_	_	_	_	_	_
+7	devono	_	_	_	_	_	_	_	_
+8	essere	_	_	_	_	_	_	_	_
+9	ampie	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	indicative	_	_	_	_	_	_	_	_
+12	e	_	_	_	_	_	_	_	_
+13	flessibili	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	per	_	_	_	_	_	_	_	_
+16	fornire	_	_	_	_	_	_	_	_
+17	assistenza	_	_	_	_	_	_	_	_
+18	a	_	_	_	_	_	_	_	_
+19	i	_	_	_	_	_	_	_	_
+20	gestori	_	_	_	_	_	_	_	_
+21	di	_	_	_	_	_	_	_	_
+22	i	_	_	_	_	_	_	_	_
+23	programmi	_	_	_	_	_	_	_	_
+24	e	_	_	_	_	_	_	_	_
+25	a	_	_	_	_	_	_	_	_
+26	i	_	_	_	_	_	_	_	_
+27	beneficiari	_	_	_	_	_	_	_	_
+28	di	_	_	_	_	_	_	_	_
+29	i	_	_	_	_	_	_	_	_
+30	fondi	_	_	_	_	_	_	_	_
+31	e	_	_	_	_	_	_	_	_
+32	per	_	_	_	_	_	_	_	_
+33	sfruttare	_	_	_	_	_	_	_	_
+34	a	_	_	_	_	_	_	_	_
+35	il	_	_	_	_	_	_	_	_
+36	massimo	_	_	_	_	_	_	_	_
+37	il	_	_	_	_	_	_	_	_
+38	potenziale	_	_	_	_	_	_	_	_
+39	di	_	_	_	_	_	_	_	_
+40	i	_	_	_	_	_	_	_	_
+41	nostri	_	_	_	_	_	_	_	_
+42	nuovi	_	_	_	_	_	_	_	_
+43	ambiti	_	_	_	_	_	_	_	_
+44	di	_	_	_	_	_	_	_	_
+45	recupero	_	_	_	_	_	_	_	_
+46	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-2062
+# text = Il drammaturgo e regista marxista Bertolt Brecht immaginò un teatro epico sotto l'influenza di Shakespeare.
+1	Il	_	_	_	_	_	_	_	_
+2	drammaturgo	_	_	_	_	_	_	_	_
+3	e	_	_	_	_	_	_	_	_
+4	regista	_	_	_	_	_	_	_	_
+5	marxista	_	_	_	_	_	_	_	_
+6	Bertolt	_	_	_	_	_	_	_	_
+7	Brecht	_	_	_	_	_	_	_	_
+8	immaginò	_	_	_	_	_	_	_	_
+9	un	_	_	_	_	_	_	_	_
+10	teatro	_	_	_	_	_	_	_	_
+11	epico	_	_	_	_	_	_	_	_
+12	sotto	_	_	_	_	_	_	_	_
+13	l'	_	_	_	_	_	_	_	_
+14	influenza	_	_	_	_	_	_	_	_
+15	di	_	_	_	_	_	_	_	_
+16	Shakespeare	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1829
+# text = Sebbene non sopravviva alcun documento del periodo, la maggior parte dei biografi sono concordi nel sostenere che Shakespeare probabilmente frequentò la King's New School a Stratford, un istituto pubblico autorizzato dal 1553, distante circa un quarto di miglio da casa sua.
+1	Sebbene	_	_	_	_	_	_	_	_
+2	non	_	_	_	_	_	_	_	_
+3	sopravviva	_	_	_	_	_	_	_	_
+4	alcun	_	_	_	_	_	_	_	_
+5	documento	_	_	_	_	_	_	_	_
+6	di	_	_	_	_	_	_	_	_
+7	il	_	_	_	_	_	_	_	_
+8	periodo	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	la	_	_	_	_	_	_	_	_
+11	maggior	_	_	_	_	_	_	_	_
+12	parte	_	_	_	_	_	_	_	_
+13	di	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	biografi	_	_	_	_	_	_	_	_
+16	sono	_	_	_	_	_	_	_	_
+17	concordi	_	_	_	_	_	_	_	_
+18	in	_	_	_	_	_	_	_	_
+19	il	_	_	_	_	_	_	_	_
+20	sostenere	_	_	_	_	_	_	_	_
+21	che	_	_	_	_	_	_	_	_
+22	Shakespeare	_	_	_	_	_	_	_	_
+23	probabilmente	_	_	_	_	_	_	_	_
+24	frequentò	_	_	_	_	_	_	_	_
+25	la	_	_	_	_	_	_	_	_
+26	King's	_	_	_	_	_	_	_	_
+27	New	_	_	_	_	_	_	_	_
+28	School	_	_	_	_	_	_	_	_
+29	a	_	_	_	_	_	_	_	_
+30	Stratford	_	_	_	_	_	_	_	_
+31	,	_	_	_	_	_	_	_	_
+32	un	_	_	_	_	_	_	_	_
+33	istituto	_	_	_	_	_	_	_	_
+34	pubblico	_	_	_	_	_	_	_	_
+35	autorizzato	_	_	_	_	_	_	_	_
+36	da	_	_	_	_	_	_	_	_
+37	il	_	_	_	_	_	_	_	_
+38	1553	_	_	_	_	_	_	_	_
+39	,	_	_	_	_	_	_	_	_
+40	distante	_	_	_	_	_	_	_	_
+41	circa	_	_	_	_	_	_	_	_
+42	un	_	_	_	_	_	_	_	_
+43	quarto	_	_	_	_	_	_	_	_
+44	di	_	_	_	_	_	_	_	_
+45	miglio	_	_	_	_	_	_	_	_
+46	da	_	_	_	_	_	_	_	_
+47	casa	_	_	_	_	_	_	_	_
+48	sua	_	_	_	_	_	_	_	_
+49	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-2056
+# text = insormontabile.
+1	insormontabile	_	_	_	_	_	_	_	_
+2	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-460
+# text = Prima di effettuare la registrazione.
+1	Prima	_	_	_	_	_	_	_	_
+2	di	_	_	_	_	_	_	_	_
+3	effettuare	_	_	_	_	_	_	_	_
+4	la	_	_	_	_	_	_	_	_
+5	registrazione	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-243
+# text = Ringrazio ancora una volta tutti coloro che sono intervenuti, e in particolare il relatore onorevole Koch.
+1	Ringrazio	_	_	_	_	_	_	_	_
+2	ancora	_	_	_	_	_	_	_	_
+3	una	_	_	_	_	_	_	_	_
+4	volta	_	_	_	_	_	_	_	_
+5	tutti	_	_	_	_	_	_	_	_
+6	coloro	_	_	_	_	_	_	_	_
+7	che	_	_	_	_	_	_	_	_
+8	sono	_	_	_	_	_	_	_	_
+9	intervenuti	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	e	_	_	_	_	_	_	_	_
+12	in	_	_	_	_	_	_	_	_
+13	particolare	_	_	_	_	_	_	_	_
+14	il	_	_	_	_	_	_	_	_
+15	relatore	_	_	_	_	_	_	_	_
+16	onorevole	_	_	_	_	_	_	_	_
+17	Koch	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-14
+# text = "Opera", l'opera dell'ingegno suscettibile di protezione in forza delle leggi sul diritto d'autore, la cui utilizzazione è offerta nel rispetto dei termini della presente licenza;
+1	"	_	_	_	_	_	_	_	_
+2	Opera	_	_	_	_	_	_	_	_
+3	"	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	l'	_	_	_	_	_	_	_	_
+6	opera	_	_	_	_	_	_	_	_
+7	di	_	_	_	_	_	_	_	_
+8	l'	_	_	_	_	_	_	_	_
+9	ingegno	_	_	_	_	_	_	_	_
+10	suscettibile	_	_	_	_	_	_	_	_
+11	di	_	_	_	_	_	_	_	_
+12	protezione	_	_	_	_	_	_	_	_
+13	in	_	_	_	_	_	_	_	_
+14	forza	_	_	_	_	_	_	_	_
+15	di	_	_	_	_	_	_	_	_
+16	le	_	_	_	_	_	_	_	_
+17	leggi	_	_	_	_	_	_	_	_
+18	su	_	_	_	_	_	_	_	_
+19	il	_	_	_	_	_	_	_	_
+20	diritto	_	_	_	_	_	_	_	_
+21	d'	_	_	_	_	_	_	_	_
+22	autore	_	_	_	_	_	_	_	_
+23	,	_	_	_	_	_	_	_	_
+24	la	_	_	_	_	_	_	_	_
+25	cui	_	_	_	_	_	_	_	_
+26	utilizzazione	_	_	_	_	_	_	_	_
+27	è	_	_	_	_	_	_	_	_
+28	offerta	_	_	_	_	_	_	_	_
+29	in	_	_	_	_	_	_	_	_
+30	il	_	_	_	_	_	_	_	_
+31	rispetto	_	_	_	_	_	_	_	_
+32	di	_	_	_	_	_	_	_	_
+33	i	_	_	_	_	_	_	_	_
+34	termini	_	_	_	_	_	_	_	_
+35	di	_	_	_	_	_	_	_	_
+36	la	_	_	_	_	_	_	_	_
+37	presente	_	_	_	_	_	_	_	_
+38	licenza	_	_	_	_	_	_	_	_
+39	;	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1157
+# text = Per incoraggiare la partecipazione, la banca europea per la ricostruzione e lo sviluppo (Ebrd) potrebbe investire in società accanto a investitori esteri e locali, come ha fatto in Europa centrale.
+1	Per	_	_	_	_	_	_	_	_
+2	incoraggiare	_	_	_	_	_	_	_	_
+3	la	_	_	_	_	_	_	_	_
+4	partecipazione	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	la	_	_	_	_	_	_	_	_
+7	banca	_	_	_	_	_	_	_	_
+8	europea	_	_	_	_	_	_	_	_
+9	per	_	_	_	_	_	_	_	_
+10	la	_	_	_	_	_	_	_	_
+11	ricostruzione	_	_	_	_	_	_	_	_
+12	e	_	_	_	_	_	_	_	_
+13	lo	_	_	_	_	_	_	_	_
+14	sviluppo	_	_	_	_	_	_	_	_
+15	(	_	_	_	_	_	_	_	_
+16	Ebrd	_	_	_	_	_	_	_	_
+17	)	_	_	_	_	_	_	_	_
+18	potrebbe	_	_	_	_	_	_	_	_
+19	investire	_	_	_	_	_	_	_	_
+20	in	_	_	_	_	_	_	_	_
+21	società	_	_	_	_	_	_	_	_
+22	accanto	_	_	_	_	_	_	_	_
+23	a	_	_	_	_	_	_	_	_
+24	investitori	_	_	_	_	_	_	_	_
+25	esteri	_	_	_	_	_	_	_	_
+26	e	_	_	_	_	_	_	_	_
+27	locali	_	_	_	_	_	_	_	_
+28	,	_	_	_	_	_	_	_	_
+29	come	_	_	_	_	_	_	_	_
+30	ha	_	_	_	_	_	_	_	_
+31	fatto	_	_	_	_	_	_	_	_
+32	in	_	_	_	_	_	_	_	_
+33	Europa	_	_	_	_	_	_	_	_
+34	centrale	_	_	_	_	_	_	_	_
+35	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-181
+# text = A tale proposito chiedo alla signora commissario competente, e qui presente, di presentare al più presto una proposta in merito, affinché in futuro si possa garantire maggiore sicurezza nei trasporti in galleria per non dover più assistere in Europa a sciagure di tale gravità!
+1	A	_	_	_	_	_	_	_	_
+2	tale	_	_	_	_	_	_	_	_
+3	proposito	_	_	_	_	_	_	_	_
+4	chiedo	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	la	_	_	_	_	_	_	_	_
+7	signora	_	_	_	_	_	_	_	_
+8	commissario	_	_	_	_	_	_	_	_
+9	competente	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	e	_	_	_	_	_	_	_	_
+12	qui	_	_	_	_	_	_	_	_
+13	presente	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	di	_	_	_	_	_	_	_	_
+16	presentare	_	_	_	_	_	_	_	_
+17	a	_	_	_	_	_	_	_	_
+18	il	_	_	_	_	_	_	_	_
+19	più	_	_	_	_	_	_	_	_
+20	presto	_	_	_	_	_	_	_	_
+21	una	_	_	_	_	_	_	_	_
+22	proposta	_	_	_	_	_	_	_	_
+23	in	_	_	_	_	_	_	_	_
+24	merito	_	_	_	_	_	_	_	_
+25	,	_	_	_	_	_	_	_	_
+26	affinché	_	_	_	_	_	_	_	_
+27	in	_	_	_	_	_	_	_	_
+28	futuro	_	_	_	_	_	_	_	_
+29	si	_	_	_	_	_	_	_	_
+30	possa	_	_	_	_	_	_	_	_
+31	garantire	_	_	_	_	_	_	_	_
+32	maggiore	_	_	_	_	_	_	_	_
+33	sicurezza	_	_	_	_	_	_	_	_
+34	in	_	_	_	_	_	_	_	_
+35	i	_	_	_	_	_	_	_	_
+36	trasporti	_	_	_	_	_	_	_	_
+37	in	_	_	_	_	_	_	_	_
+38	galleria	_	_	_	_	_	_	_	_
+39	per	_	_	_	_	_	_	_	_
+40	non	_	_	_	_	_	_	_	_
+41	dover	_	_	_	_	_	_	_	_
+42	più	_	_	_	_	_	_	_	_
+43	assistere	_	_	_	_	_	_	_	_
+44	in	_	_	_	_	_	_	_	_
+45	Europa	_	_	_	_	_	_	_	_
+46	a	_	_	_	_	_	_	_	_
+47	sciagure	_	_	_	_	_	_	_	_
+48	di	_	_	_	_	_	_	_	_
+49	tale	_	_	_	_	_	_	_	_
+50	gravità	_	_	_	_	_	_	_	_
+51	!	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-305
+# text = Come sicuramente saprete, gran parte del Galles ha ottenuto lo status di regione dell'obiettivo 1 nell'ambito del programma dei fondi strutturali.
+1	Come	_	_	_	_	_	_	_	_
+2	sicuramente	_	_	_	_	_	_	_	_
+3	saprete	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	gran	_	_	_	_	_	_	_	_
+6	parte	_	_	_	_	_	_	_	_
+7	di	_	_	_	_	_	_	_	_
+8	il	_	_	_	_	_	_	_	_
+9	Galles	_	_	_	_	_	_	_	_
+10	ha	_	_	_	_	_	_	_	_
+11	ottenuto	_	_	_	_	_	_	_	_
+12	lo	_	_	_	_	_	_	_	_
+13	status	_	_	_	_	_	_	_	_
+14	di	_	_	_	_	_	_	_	_
+15	regione	_	_	_	_	_	_	_	_
+16	di	_	_	_	_	_	_	_	_
+17	l'	_	_	_	_	_	_	_	_
+18	obiettivo	_	_	_	_	_	_	_	_
+19	1	_	_	_	_	_	_	_	_
+20	in	_	_	_	_	_	_	_	_
+21	l'	_	_	_	_	_	_	_	_
+22	ambito	_	_	_	_	_	_	_	_
+23	di	_	_	_	_	_	_	_	_
+24	il	_	_	_	_	_	_	_	_
+25	programma	_	_	_	_	_	_	_	_
+26	di	_	_	_	_	_	_	_	_
+27	i	_	_	_	_	_	_	_	_
+28	fondi	_	_	_	_	_	_	_	_
+29	strutturali	_	_	_	_	_	_	_	_
+30	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-817
+# text = Questa è un'immagine di Cannery Row nel 1932.
+1	Questa	_	_	_	_	_	_	_	_
+2	è	_	_	_	_	_	_	_	_
+3	un'	_	_	_	_	_	_	_	_
+4	immagine	_	_	_	_	_	_	_	_
+5	di	_	_	_	_	_	_	_	_
+6	Cannery	_	_	_	_	_	_	_	_
+7	Row	_	_	_	_	_	_	_	_
+8	in	_	_	_	_	_	_	_	_
+9	il	_	_	_	_	_	_	_	_
+10	1932	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-909
+# text = Per primo ho proposto, agli inizi degli anni '90, l'idea che il micelio fosse l'internet naturale della terra.
+1	Per	_	_	_	_	_	_	_	_
+2	primo	_	_	_	_	_	_	_	_
+3	ho	_	_	_	_	_	_	_	_
+4	proposto	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	gli	_	_	_	_	_	_	_	_
+8	inizi	_	_	_	_	_	_	_	_
+9	di	_	_	_	_	_	_	_	_
+10	gli	_	_	_	_	_	_	_	_
+11	anni	_	_	_	_	_	_	_	_
+12	'90	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	l'	_	_	_	_	_	_	_	_
+15	idea	_	_	_	_	_	_	_	_
+16	che	_	_	_	_	_	_	_	_
+17	il	_	_	_	_	_	_	_	_
+18	micelio	_	_	_	_	_	_	_	_
+19	fosse	_	_	_	_	_	_	_	_
+20	l'	_	_	_	_	_	_	_	_
+21	internet	_	_	_	_	_	_	_	_
+22	naturale	_	_	_	_	_	_	_	_
+23	di	_	_	_	_	_	_	_	_
+24	la	_	_	_	_	_	_	_	_
+25	terra	_	_	_	_	_	_	_	_
+26	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1129
+# text = NEW YORK - Dopo un crescendo di violenza, la rivolta ucraina ha avuto un esito sorprendentemente positivo.
+1	NEW	_	_	_	_	_	_	_	_
+2	YORK	_	_	_	_	_	_	_	_
+3	-	_	_	_	_	_	_	_	_
+4	Dopo	_	_	_	_	_	_	_	_
+5	un	_	_	_	_	_	_	_	_
+6	crescendo	_	_	_	_	_	_	_	_
+7	di	_	_	_	_	_	_	_	_
+8	violenza	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	la	_	_	_	_	_	_	_	_
+11	rivolta	_	_	_	_	_	_	_	_
+12	ucraina	_	_	_	_	_	_	_	_
+13	ha	_	_	_	_	_	_	_	_
+14	avuto	_	_	_	_	_	_	_	_
+15	un	_	_	_	_	_	_	_	_
+16	esito	_	_	_	_	_	_	_	_
+17	sorprendentemente	_	_	_	_	_	_	_	_
+18	positivo	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-126
+# text = Non sappiamo cosa stia succedendo e quindi mi chiedo perché si debba permettere ai produttori di armi dell'Ue di trarne profitto a scapito di persone innocenti.
+1	Non	_	_	_	_	_	_	_	_
+2	sappiamo	_	_	_	_	_	_	_	_
+3	cosa	_	_	_	_	_	_	_	_
+4	stia	_	_	_	_	_	_	_	_
+5	succedendo	_	_	_	_	_	_	_	_
+6	e	_	_	_	_	_	_	_	_
+7	quindi	_	_	_	_	_	_	_	_
+8	mi	_	_	_	_	_	_	_	_
+9	chiedo	_	_	_	_	_	_	_	_
+10	perché	_	_	_	_	_	_	_	_
+11	si	_	_	_	_	_	_	_	_
+12	debba	_	_	_	_	_	_	_	_
+13	permettere	_	_	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	produttori	_	_	_	_	_	_	_	_
+17	di	_	_	_	_	_	_	_	_
+18	armi	_	_	_	_	_	_	_	_
+19	di	_	_	_	_	_	_	_	_
+20	l'	_	_	_	_	_	_	_	_
+21	Ue	_	_	_	_	_	_	_	_
+22	di	_	_	_	_	_	_	_	_
+23	trar	_	_	_	_	_	_	_	_
+24	ne	_	_	_	_	_	_	_	_
+25	profitto	_	_	_	_	_	_	_	_
+26	a	_	_	_	_	_	_	_	_
+27	scapito	_	_	_	_	_	_	_	_
+28	di	_	_	_	_	_	_	_	_
+29	persone	_	_	_	_	_	_	_	_
+30	innocenti	_	_	_	_	_	_	_	_
+31	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-124
+# text = Gli stati membri dell'unione sono stati irresponsabili a non rinnovare l'embargo.
+1	Gli	_	_	_	_	_	_	_	_
+2	stati	_	_	_	_	_	_	_	_
+3	membri	_	_	_	_	_	_	_	_
+4	di	_	_	_	_	_	_	_	_
+5	l'	_	_	_	_	_	_	_	_
+6	unione	_	_	_	_	_	_	_	_
+7	sono	_	_	_	_	_	_	_	_
+8	stati	_	_	_	_	_	_	_	_
+9	irresponsabili	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	non	_	_	_	_	_	_	_	_
+12	rinnovare	_	_	_	_	_	_	_	_
+13	l'	_	_	_	_	_	_	_	_
+14	embargo	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-125
+# text = Com'è già stato detto, la situazione in Indonesia è davvero esplosiva, con un forte rischio che in futuro si verifichi un colpo di stato.
+1	Com'	_	_	_	_	_	_	_	_
+2	è	_	_	_	_	_	_	_	_
+3	già	_	_	_	_	_	_	_	_
+4	stato	_	_	_	_	_	_	_	_
+5	detto	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	la	_	_	_	_	_	_	_	_
+8	situazione	_	_	_	_	_	_	_	_
+9	in	_	_	_	_	_	_	_	_
+10	Indonesia	_	_	_	_	_	_	_	_
+11	è	_	_	_	_	_	_	_	_
+12	davvero	_	_	_	_	_	_	_	_
+13	esplosiva	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	con	_	_	_	_	_	_	_	_
+16	un	_	_	_	_	_	_	_	_
+17	forte	_	_	_	_	_	_	_	_
+18	rischio	_	_	_	_	_	_	_	_
+19	che	_	_	_	_	_	_	_	_
+20	in	_	_	_	_	_	_	_	_
+21	futuro	_	_	_	_	_	_	_	_
+22	si	_	_	_	_	_	_	_	_
+23	verifichi	_	_	_	_	_	_	_	_
+24	un	_	_	_	_	_	_	_	_
+25	colpo	_	_	_	_	_	_	_	_
+26	di	_	_	_	_	_	_	_	_
+27	stato	_	_	_	_	_	_	_	_
+28	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-200
+# text = Di conseguenza tali aziende sono costrette a rinunciare al loro carico oppure a mescolarlo ad un altro carico , con i seri problemi che ciò genera .
+1	Di	_	_	_	_	_	_	_	_
+2	conseguenza	_	_	_	_	_	_	_	_
+3	tali	_	_	_	_	_	_	_	_
+4	aziende	_	_	_	_	_	_	_	_
+5	sono	_	_	_	_	_	_	_	_
+6	costrette	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	rinunciare	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	il	_	_	_	_	_	_	_	_
+11	loro	_	_	_	_	_	_	_	_
+12	carico	_	_	_	_	_	_	_	_
+13	oppure	_	_	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	mescolar	_	_	_	_	_	_	_	_
+16	lo	_	_	_	_	_	_	_	_
+17	ad	_	_	_	_	_	_	_	_
+18	un	_	_	_	_	_	_	_	_
+19	altro	_	_	_	_	_	_	_	_
+20	carico	_	_	_	_	_	_	_	_
+21	,	_	_	_	_	_	_	_	_
+22	con	_	_	_	_	_	_	_	_
+23	i	_	_	_	_	_	_	_	_
+24	seri	_	_	_	_	_	_	_	_
+25	problemi	_	_	_	_	_	_	_	_
+26	che	_	_	_	_	_	_	_	_
+27	ciò	_	_	_	_	_	_	_	_
+28	genera	_	_	_	_	_	_	_	_
+29	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1715
+# text = Fisiologia del matrimonio e Scene di vita coniugale.
+1	Fisiologia	_	_	_	_	_	_	_	_
+2	di	_	_	_	_	_	_	_	_
+3	il	_	_	_	_	_	_	_	_
+4	matrimonio	_	_	_	_	_	_	_	_
+5	e	_	_	_	_	_	_	_	_
+6	Scene	_	_	_	_	_	_	_	_
+7	di	_	_	_	_	_	_	_	_
+8	vita	_	_	_	_	_	_	_	_
+9	coniugale	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-294
+# text = Signor presidente, mi congratulo nuovamente con l'onorevole Koch per il lavoro svolto a proposito di quest'altra relazione che, in un certo qual modo, completa il dibattito che abbiamo tenuto lo scorso ottobre sul trasporto ferroviario.
+1	Signor	_	_	_	_	_	_	_	_
+2	presidente	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	mi	_	_	_	_	_	_	_	_
+5	congratulo	_	_	_	_	_	_	_	_
+6	nuovamente	_	_	_	_	_	_	_	_
+7	con	_	_	_	_	_	_	_	_
+8	l'	_	_	_	_	_	_	_	_
+9	onorevole	_	_	_	_	_	_	_	_
+10	Koch	_	_	_	_	_	_	_	_
+11	per	_	_	_	_	_	_	_	_
+12	il	_	_	_	_	_	_	_	_
+13	lavoro	_	_	_	_	_	_	_	_
+14	svolto	_	_	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	proposito	_	_	_	_	_	_	_	_
+17	di	_	_	_	_	_	_	_	_
+18	quest'	_	_	_	_	_	_	_	_
+19	altra	_	_	_	_	_	_	_	_
+20	relazione	_	_	_	_	_	_	_	_
+21	che	_	_	_	_	_	_	_	_
+22	,	_	_	_	_	_	_	_	_
+23	in	_	_	_	_	_	_	_	_
+24	un	_	_	_	_	_	_	_	_
+25	certo	_	_	_	_	_	_	_	_
+26	qual	_	_	_	_	_	_	_	_
+27	modo	_	_	_	_	_	_	_	_
+28	,	_	_	_	_	_	_	_	_
+29	completa	_	_	_	_	_	_	_	_
+30	il	_	_	_	_	_	_	_	_
+31	dibattito	_	_	_	_	_	_	_	_
+32	che	_	_	_	_	_	_	_	_
+33	abbiamo	_	_	_	_	_	_	_	_
+34	tenuto	_	_	_	_	_	_	_	_
+35	lo	_	_	_	_	_	_	_	_
+36	scorso	_	_	_	_	_	_	_	_
+37	ottobre	_	_	_	_	_	_	_	_
+38	su	_	_	_	_	_	_	_	_
+39	il	_	_	_	_	_	_	_	_
+40	trasporto	_	_	_	_	_	_	_	_
+41	ferroviario	_	_	_	_	_	_	_	_
+42	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1379
+# text = Le donne hanno poi maggiori responsabilità nella crescita dei figli e nella cura della casa rispetto agli uomini, il che rende difficile dedicare maggior tempo al lavoro agricolo o supervisionare la forza lavoro assunta.
+1	Le	_	_	_	_	_	_	_	_
+2	donne	_	_	_	_	_	_	_	_
+3	hanno	_	_	_	_	_	_	_	_
+4	poi	_	_	_	_	_	_	_	_
+5	maggiori	_	_	_	_	_	_	_	_
+6	responsabilità	_	_	_	_	_	_	_	_
+7	in	_	_	_	_	_	_	_	_
+8	la	_	_	_	_	_	_	_	_
+9	crescita	_	_	_	_	_	_	_	_
+10	di	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	figli	_	_	_	_	_	_	_	_
+13	e	_	_	_	_	_	_	_	_
+14	in	_	_	_	_	_	_	_	_
+15	la	_	_	_	_	_	_	_	_
+16	cura	_	_	_	_	_	_	_	_
+17	di	_	_	_	_	_	_	_	_
+18	la	_	_	_	_	_	_	_	_
+19	casa	_	_	_	_	_	_	_	_
+20	rispetto	_	_	_	_	_	_	_	_
+21	a	_	_	_	_	_	_	_	_
+22	gli	_	_	_	_	_	_	_	_
+23	uomini	_	_	_	_	_	_	_	_
+24	,	_	_	_	_	_	_	_	_
+25	il	_	_	_	_	_	_	_	_
+26	che	_	_	_	_	_	_	_	_
+27	rende	_	_	_	_	_	_	_	_
+28	difficile	_	_	_	_	_	_	_	_
+29	dedicare	_	_	_	_	_	_	_	_
+30	maggior	_	_	_	_	_	_	_	_
+31	tempo	_	_	_	_	_	_	_	_
+32	a	_	_	_	_	_	_	_	_
+33	il	_	_	_	_	_	_	_	_
+34	lavoro	_	_	_	_	_	_	_	_
+35	agricolo	_	_	_	_	_	_	_	_
+36	o	_	_	_	_	_	_	_	_
+37	supervisionare	_	_	_	_	_	_	_	_
+38	la	_	_	_	_	_	_	_	_
+39	forza	_	_	_	_	_	_	_	_
+40	lavoro	_	_	_	_	_	_	_	_
+41	assunta	_	_	_	_	_	_	_	_
+42	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-2040
+# text = Gli autori dei pezzi teatrali del Parnassus del St John's College di Cambridge l'hanno citato insieme a Chaucer, Gower e Spenser.
+1	Gli	_	_	_	_	_	_	_	_
+2	autori	_	_	_	_	_	_	_	_
+3	di	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	pezzi	_	_	_	_	_	_	_	_
+6	teatrali	_	_	_	_	_	_	_	_
+7	di	_	_	_	_	_	_	_	_
+8	il	_	_	_	_	_	_	_	_
+9	Parnassus	_	_	_	_	_	_	_	_
+10	di	_	_	_	_	_	_	_	_
+11	il	_	_	_	_	_	_	_	_
+12	St	_	_	_	_	_	_	_	_
+13	John's	_	_	_	_	_	_	_	_
+14	College	_	_	_	_	_	_	_	_
+15	di	_	_	_	_	_	_	_	_
+16	Cambridge	_	_	_	_	_	_	_	_
+17	l'	_	_	_	_	_	_	_	_
+18	hanno	_	_	_	_	_	_	_	_
+19	citato	_	_	_	_	_	_	_	_
+20	insieme	_	_	_	_	_	_	_	_
+21	a	_	_	_	_	_	_	_	_
+22	Chaucer	_	_	_	_	_	_	_	_
+23	,	_	_	_	_	_	_	_	_
+24	Gower	_	_	_	_	_	_	_	_
+25	e	_	_	_	_	_	_	_	_
+26	Spenser	_	_	_	_	_	_	_	_
+27	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1054
+# text = Il problema più grave riguarda l'eccessiva finanziarizzazione dell'economia globale che si è verificata a partire dagli anni '90.
+1	Il	_	_	_	_	_	_	_	_
+2	problema	_	_	_	_	_	_	_	_
+3	più	_	_	_	_	_	_	_	_
+4	grave	_	_	_	_	_	_	_	_
+5	riguarda	_	_	_	_	_	_	_	_
+6	l'	_	_	_	_	_	_	_	_
+7	eccessiva	_	_	_	_	_	_	_	_
+8	finanziarizzazione	_	_	_	_	_	_	_	_
+9	di	_	_	_	_	_	_	_	_
+10	l'	_	_	_	_	_	_	_	_
+11	economia	_	_	_	_	_	_	_	_
+12	globale	_	_	_	_	_	_	_	_
+13	che	_	_	_	_	_	_	_	_
+14	si	_	_	_	_	_	_	_	_
+15	è	_	_	_	_	_	_	_	_
+16	verificata	_	_	_	_	_	_	_	_
+17	a	_	_	_	_	_	_	_	_
+18	partire	_	_	_	_	_	_	_	_
+19	da	_	_	_	_	_	_	_	_
+20	gli	_	_	_	_	_	_	_	_
+21	anni	_	_	_	_	_	_	_	_
+22	'90	_	_	_	_	_	_	_	_
+23	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-866
+# text = Ma è una tragedia anche per le persone che li mangiano perché non sanno che si tratta di carne tossica .
+1	Ma	_	_	_	_	_	_	_	_
+2	è	_	_	_	_	_	_	_	_
+3	una	_	_	_	_	_	_	_	_
+4	tragedia	_	_	_	_	_	_	_	_
+5	anche	_	_	_	_	_	_	_	_
+6	per	_	_	_	_	_	_	_	_
+7	le	_	_	_	_	_	_	_	_
+8	persone	_	_	_	_	_	_	_	_
+9	che	_	_	_	_	_	_	_	_
+10	li	_	_	_	_	_	_	_	_
+11	mangiano	_	_	_	_	_	_	_	_
+12	perché	_	_	_	_	_	_	_	_
+13	non	_	_	_	_	_	_	_	_
+14	sanno	_	_	_	_	_	_	_	_
+15	che	_	_	_	_	_	_	_	_
+16	si	_	_	_	_	_	_	_	_
+17	tratta	_	_	_	_	_	_	_	_
+18	di	_	_	_	_	_	_	_	_
+19	carne	_	_	_	_	_	_	_	_
+20	tossica	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-38
+# text = Non puoi distribuire, comunicare al pubblico, rappresentare, eseguire, recitare o esporre in pubblico l'opera, neanche in forma digitale, usando misure tecnologiche miranti a controllare l'accesso all'opera ovvero l'uso dell'opera, in maniera incompatibile con i termini della presente licenza.
+1	Non	_	_	_	_	_	_	_	_
+2	puoi	_	_	_	_	_	_	_	_
+3	distribuire	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	comunicare	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	il	_	_	_	_	_	_	_	_
+8	pubblico	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	rappresentare	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	eseguire	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	recitare	_	_	_	_	_	_	_	_
+15	o	_	_	_	_	_	_	_	_
+16	esporre	_	_	_	_	_	_	_	_
+17	in	_	_	_	_	_	_	_	_
+18	pubblico	_	_	_	_	_	_	_	_
+19	l'	_	_	_	_	_	_	_	_
+20	opera	_	_	_	_	_	_	_	_
+21	,	_	_	_	_	_	_	_	_
+22	neanche	_	_	_	_	_	_	_	_
+23	in	_	_	_	_	_	_	_	_
+24	forma	_	_	_	_	_	_	_	_
+25	digitale	_	_	_	_	_	_	_	_
+26	,	_	_	_	_	_	_	_	_
+27	usando	_	_	_	_	_	_	_	_
+28	misure	_	_	_	_	_	_	_	_
+29	tecnologiche	_	_	_	_	_	_	_	_
+30	miranti	_	_	_	_	_	_	_	_
+31	a	_	_	_	_	_	_	_	_
+32	controllare	_	_	_	_	_	_	_	_
+33	l'	_	_	_	_	_	_	_	_
+34	accesso	_	_	_	_	_	_	_	_
+35	a	_	_	_	_	_	_	_	_
+36	l'	_	_	_	_	_	_	_	_
+37	opera	_	_	_	_	_	_	_	_
+38	ovvero	_	_	_	_	_	_	_	_
+39	l'	_	_	_	_	_	_	_	_
+40	uso	_	_	_	_	_	_	_	_
+41	di	_	_	_	_	_	_	_	_
+42	l'	_	_	_	_	_	_	_	_
+43	opera	_	_	_	_	_	_	_	_
+44	,	_	_	_	_	_	_	_	_
+45	in	_	_	_	_	_	_	_	_
+46	maniera	_	_	_	_	_	_	_	_
+47	incompatibile	_	_	_	_	_	_	_	_
+48	con	_	_	_	_	_	_	_	_
+49	i	_	_	_	_	_	_	_	_
+50	termini	_	_	_	_	_	_	_	_
+51	di	_	_	_	_	_	_	_	_
+52	la	_	_	_	_	_	_	_	_
+53	presente	_	_	_	_	_	_	_	_
+54	licenza	_	_	_	_	_	_	_	_
+55	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1489
+# text = L'auspicio dei diplomatici di trovare una soluzione pacifica alla crisi dell'Ucraina è comprensibile.
+1	L'	_	_	_	_	_	_	_	_
+2	auspicio	_	_	_	_	_	_	_	_
+3	di	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	diplomatici	_	_	_	_	_	_	_	_
+6	di	_	_	_	_	_	_	_	_
+7	trovare	_	_	_	_	_	_	_	_
+8	una	_	_	_	_	_	_	_	_
+9	soluzione	_	_	_	_	_	_	_	_
+10	pacifica	_	_	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	la	_	_	_	_	_	_	_	_
+13	crisi	_	_	_	_	_	_	_	_
+14	di	_	_	_	_	_	_	_	_
+15	l'	_	_	_	_	_	_	_	_
+16	Ucraina	_	_	_	_	_	_	_	_
+17	è	_	_	_	_	_	_	_	_
+18	comprensibile	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1948
+# text = Nonostante le documentazioni sulle esibizioni siano irregolari, i King's Men interpretarono a corte sette opere di Shakespeare fra il 1 novembre 1604 e il 31 ottobre 1605, fra cui due interpretazioni del mercante di Venezia.
+1	Nonostante	_	_	_	_	_	_	_	_
+2	le	_	_	_	_	_	_	_	_
+3	documentazioni	_	_	_	_	_	_	_	_
+4	su	_	_	_	_	_	_	_	_
+5	le	_	_	_	_	_	_	_	_
+6	esibizioni	_	_	_	_	_	_	_	_
+7	siano	_	_	_	_	_	_	_	_
+8	irregolari	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	King's	_	_	_	_	_	_	_	_
+12	Men	_	_	_	_	_	_	_	_
+13	interpretarono	_	_	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	corte	_	_	_	_	_	_	_	_
+16	sette	_	_	_	_	_	_	_	_
+17	opere	_	_	_	_	_	_	_	_
+18	di	_	_	_	_	_	_	_	_
+19	Shakespeare	_	_	_	_	_	_	_	_
+20	fra	_	_	_	_	_	_	_	_
+21	il	_	_	_	_	_	_	_	_
+22	1	_	_	_	_	_	_	_	_
+23	novembre	_	_	_	_	_	_	_	_
+24	1604	_	_	_	_	_	_	_	_
+25	e	_	_	_	_	_	_	_	_
+26	il	_	_	_	_	_	_	_	_
+27	31	_	_	_	_	_	_	_	_
+28	ottobre	_	_	_	_	_	_	_	_
+29	1605	_	_	_	_	_	_	_	_
+30	,	_	_	_	_	_	_	_	_
+31	fra	_	_	_	_	_	_	_	_
+32	cui	_	_	_	_	_	_	_	_
+33	due	_	_	_	_	_	_	_	_
+34	interpretazioni	_	_	_	_	_	_	_	_
+35	di	_	_	_	_	_	_	_	_
+36	il	_	_	_	_	_	_	_	_
+37	mercante	_	_	_	_	_	_	_	_
+38	di	_	_	_	_	_	_	_	_
+39	Venezia	_	_	_	_	_	_	_	_
+40	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1527
+# text = Allo stesso modo, finché gli stati membri manterranno la sovranità fiscale, neanche un nuovo strumento per mettere in guardia i paesi che sfidano le regole di bilancio europee potrà cambiare nulla.
+1	A	_	_	_	_	_	_	_	_
+2	lo	_	_	_	_	_	_	_	_
+3	stesso	_	_	_	_	_	_	_	_
+4	modo	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	finché	_	_	_	_	_	_	_	_
+7	gli	_	_	_	_	_	_	_	_
+8	stati	_	_	_	_	_	_	_	_
+9	membri	_	_	_	_	_	_	_	_
+10	manterranno	_	_	_	_	_	_	_	_
+11	la	_	_	_	_	_	_	_	_
+12	sovranità	_	_	_	_	_	_	_	_
+13	fiscale	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	neanche	_	_	_	_	_	_	_	_
+16	un	_	_	_	_	_	_	_	_
+17	nuovo	_	_	_	_	_	_	_	_
+18	strumento	_	_	_	_	_	_	_	_
+19	per	_	_	_	_	_	_	_	_
+20	mettere	_	_	_	_	_	_	_	_
+21	in	_	_	_	_	_	_	_	_
+22	guardia	_	_	_	_	_	_	_	_
+23	i	_	_	_	_	_	_	_	_
+24	paesi	_	_	_	_	_	_	_	_
+25	che	_	_	_	_	_	_	_	_
+26	sfidano	_	_	_	_	_	_	_	_
+27	le	_	_	_	_	_	_	_	_
+28	regole	_	_	_	_	_	_	_	_
+29	di	_	_	_	_	_	_	_	_
+30	bilancio	_	_	_	_	_	_	_	_
+31	europee	_	_	_	_	_	_	_	_
+32	potrà	_	_	_	_	_	_	_	_
+33	cambiare	_	_	_	_	_	_	_	_
+34	nulla	_	_	_	_	_	_	_	_
+35	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-503
+# text = Non rivelare a nessuno la domanda di sicurezza.
+1	Non	_	_	_	_	_	_	_	_
+2	rivelare	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	nessuno	_	_	_	_	_	_	_	_
+5	la	_	_	_	_	_	_	_	_
+6	domanda	_	_	_	_	_	_	_	_
+7	di	_	_	_	_	_	_	_	_
+8	sicurezza	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-32
+# text = Non puoi distribuire, comunicare al pubblico, rappresentare, eseguire, recitare o esporre in pubblico l'opera, neanche in forma digitale, usando misure tecnologiche miranti a controllare l'accesso all'opera ovvero l'uso dell'opera, in maniera incompatibile con i termini della presente licenza.
+1	Non	_	_	_	_	_	_	_	_
+2	puoi	_	_	_	_	_	_	_	_
+3	distribuire	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	comunicare	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	il	_	_	_	_	_	_	_	_
+8	pubblico	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	rappresentare	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	eseguire	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	recitare	_	_	_	_	_	_	_	_
+15	o	_	_	_	_	_	_	_	_
+16	esporre	_	_	_	_	_	_	_	_
+17	in	_	_	_	_	_	_	_	_
+18	pubblico	_	_	_	_	_	_	_	_
+19	l'	_	_	_	_	_	_	_	_
+20	opera	_	_	_	_	_	_	_	_
+21	,	_	_	_	_	_	_	_	_
+22	neanche	_	_	_	_	_	_	_	_
+23	in	_	_	_	_	_	_	_	_
+24	forma	_	_	_	_	_	_	_	_
+25	digitale	_	_	_	_	_	_	_	_
+26	,	_	_	_	_	_	_	_	_
+27	usando	_	_	_	_	_	_	_	_
+28	misure	_	_	_	_	_	_	_	_
+29	tecnologiche	_	_	_	_	_	_	_	_
+30	miranti	_	_	_	_	_	_	_	_
+31	a	_	_	_	_	_	_	_	_
+32	controllare	_	_	_	_	_	_	_	_
+33	l'	_	_	_	_	_	_	_	_
+34	accesso	_	_	_	_	_	_	_	_
+35	a	_	_	_	_	_	_	_	_
+36	l'	_	_	_	_	_	_	_	_
+37	opera	_	_	_	_	_	_	_	_
+38	ovvero	_	_	_	_	_	_	_	_
+39	l'	_	_	_	_	_	_	_	_
+40	uso	_	_	_	_	_	_	_	_
+41	di	_	_	_	_	_	_	_	_
+42	l'	_	_	_	_	_	_	_	_
+43	opera	_	_	_	_	_	_	_	_
+44	,	_	_	_	_	_	_	_	_
+45	in	_	_	_	_	_	_	_	_
+46	maniera	_	_	_	_	_	_	_	_
+47	incompatibile	_	_	_	_	_	_	_	_
+48	con	_	_	_	_	_	_	_	_
+49	i	_	_	_	_	_	_	_	_
+50	termini	_	_	_	_	_	_	_	_
+51	di	_	_	_	_	_	_	_	_
+52	la	_	_	_	_	_	_	_	_
+53	presente	_	_	_	_	_	_	_	_
+54	licenza	_	_	_	_	_	_	_	_
+55	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-617
+# text = Dovrebbero essere agevolati uno scambio di informazioni sull'analisi della prestazione ambientale del ciclo di vita e sulle realizzazioni di soluzioni di progettazione.
+1	Dovrebbero	_	_	_	_	_	_	_	_
+2	essere	_	_	_	_	_	_	_	_
+3	agevolati	_	_	_	_	_	_	_	_
+4	uno	_	_	_	_	_	_	_	_
+5	scambio	_	_	_	_	_	_	_	_
+6	di	_	_	_	_	_	_	_	_
+7	informazioni	_	_	_	_	_	_	_	_
+8	su	_	_	_	_	_	_	_	_
+9	l'	_	_	_	_	_	_	_	_
+10	analisi	_	_	_	_	_	_	_	_
+11	di	_	_	_	_	_	_	_	_
+12	la	_	_	_	_	_	_	_	_
+13	prestazione	_	_	_	_	_	_	_	_
+14	ambientale	_	_	_	_	_	_	_	_
+15	di	_	_	_	_	_	_	_	_
+16	il	_	_	_	_	_	_	_	_
+17	ciclo	_	_	_	_	_	_	_	_
+18	di	_	_	_	_	_	_	_	_
+19	vita	_	_	_	_	_	_	_	_
+20	e	_	_	_	_	_	_	_	_
+21	su	_	_	_	_	_	_	_	_
+22	le	_	_	_	_	_	_	_	_
+23	realizzazioni	_	_	_	_	_	_	_	_
+24	di	_	_	_	_	_	_	_	_
+25	soluzioni	_	_	_	_	_	_	_	_
+26	di	_	_	_	_	_	_	_	_
+27	progettazione	_	_	_	_	_	_	_	_
+28	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1260
+# text = Ad un'indagine più attenta, però, divenne chiaro che gran parte di questa innovazione implicasse concepire modi migliori di imbrogliare gli altri, manipolare i mercati senza essere beccati (almeno per un lungo periodo) e sfruttare la forza dei mercati.
+1	Ad	_	_	_	_	_	_	_	_
+2	un'	_	_	_	_	_	_	_	_
+3	indagine	_	_	_	_	_	_	_	_
+4	più	_	_	_	_	_	_	_	_
+5	attenta	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	però	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	divenne	_	_	_	_	_	_	_	_
+10	chiaro	_	_	_	_	_	_	_	_
+11	che	_	_	_	_	_	_	_	_
+12	gran	_	_	_	_	_	_	_	_
+13	parte	_	_	_	_	_	_	_	_
+14	di	_	_	_	_	_	_	_	_
+15	questa	_	_	_	_	_	_	_	_
+16	innovazione	_	_	_	_	_	_	_	_
+17	implicasse	_	_	_	_	_	_	_	_
+18	concepire	_	_	_	_	_	_	_	_
+19	modi	_	_	_	_	_	_	_	_
+20	migliori	_	_	_	_	_	_	_	_
+21	di	_	_	_	_	_	_	_	_
+22	imbrogliare	_	_	_	_	_	_	_	_
+23	gli	_	_	_	_	_	_	_	_
+24	altri	_	_	_	_	_	_	_	_
+25	,	_	_	_	_	_	_	_	_
+26	manipolare	_	_	_	_	_	_	_	_
+27	i	_	_	_	_	_	_	_	_
+28	mercati	_	_	_	_	_	_	_	_
+29	senza	_	_	_	_	_	_	_	_
+30	essere	_	_	_	_	_	_	_	_
+31	beccati	_	_	_	_	_	_	_	_
+32	(	_	_	_	_	_	_	_	_
+33	almeno	_	_	_	_	_	_	_	_
+34	per	_	_	_	_	_	_	_	_
+35	un	_	_	_	_	_	_	_	_
+36	lungo	_	_	_	_	_	_	_	_
+37	periodo	_	_	_	_	_	_	_	_
+38	)	_	_	_	_	_	_	_	_
+39	e	_	_	_	_	_	_	_	_
+40	sfruttare	_	_	_	_	_	_	_	_
+41	la	_	_	_	_	_	_	_	_
+42	forza	_	_	_	_	_	_	_	_
+43	di	_	_	_	_	_	_	_	_
+44	i	_	_	_	_	_	_	_	_
+45	mercati	_	_	_	_	_	_	_	_
+46	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1252
+# text = Ciò che avviene oggi è analogo agli accadimenti di alcuni decenni fa, all'inizio dell'era dei personal computer.
+1	Ciò	_	_	_	_	_	_	_	_
+2	che	_	_	_	_	_	_	_	_
+3	avviene	_	_	_	_	_	_	_	_
+4	oggi	_	_	_	_	_	_	_	_
+5	è	_	_	_	_	_	_	_	_
+6	analogo	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	gli	_	_	_	_	_	_	_	_
+9	accadimenti	_	_	_	_	_	_	_	_
+10	di	_	_	_	_	_	_	_	_
+11	alcuni	_	_	_	_	_	_	_	_
+12	decenni	_	_	_	_	_	_	_	_
+13	fa	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	l'	_	_	_	_	_	_	_	_
+17	inizio	_	_	_	_	_	_	_	_
+18	di	_	_	_	_	_	_	_	_
+19	l'	_	_	_	_	_	_	_	_
+20	era	_	_	_	_	_	_	_	_
+21	di	_	_	_	_	_	_	_	_
+22	i	_	_	_	_	_	_	_	_
+23	personal	_	_	_	_	_	_	_	_
+24	computer	_	_	_	_	_	_	_	_
+25	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-578
+# text = Il risparmio energetico è uno dei modi più efficaci, sotto il profilo dei costi, per aumentare la sicurezza dell'approvvigionamento e ridurre la dipendenza dalle importazioni.
+1	Il	_	_	_	_	_	_	_	_
+2	risparmio	_	_	_	_	_	_	_	_
+3	energetico	_	_	_	_	_	_	_	_
+4	è	_	_	_	_	_	_	_	_
+5	uno	_	_	_	_	_	_	_	_
+6	di	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	modi	_	_	_	_	_	_	_	_
+9	più	_	_	_	_	_	_	_	_
+10	efficaci	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	sotto	_	_	_	_	_	_	_	_
+13	il	_	_	_	_	_	_	_	_
+14	profilo	_	_	_	_	_	_	_	_
+15	di	_	_	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	costi	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	per	_	_	_	_	_	_	_	_
+20	aumentare	_	_	_	_	_	_	_	_
+21	la	_	_	_	_	_	_	_	_
+22	sicurezza	_	_	_	_	_	_	_	_
+23	di	_	_	_	_	_	_	_	_
+24	l'	_	_	_	_	_	_	_	_
+25	approvvigionamento	_	_	_	_	_	_	_	_
+26	e	_	_	_	_	_	_	_	_
+27	ridurre	_	_	_	_	_	_	_	_
+28	la	_	_	_	_	_	_	_	_
+29	dipendenza	_	_	_	_	_	_	_	_
+30	da	_	_	_	_	_	_	_	_
+31	le	_	_	_	_	_	_	_	_
+32	importazioni	_	_	_	_	_	_	_	_
+33	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-626
+# text = Nel caso di specifiche generiche di progettazione ecocompatibile, le norme armonizzate potrebbero contribuire notevolmente a guidare i fabbricanti nella definizione del profilo ecologico dei loro prodotti secondo le condizioni della misura di esecuzione applicabile.
+1	In	_	_	_	_	_	_	_	_
+2	il	_	_	_	_	_	_	_	_
+3	caso	_	_	_	_	_	_	_	_
+4	di	_	_	_	_	_	_	_	_
+5	specifiche	_	_	_	_	_	_	_	_
+6	generiche	_	_	_	_	_	_	_	_
+7	di	_	_	_	_	_	_	_	_
+8	progettazione	_	_	_	_	_	_	_	_
+9	ecocompatibile	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	le	_	_	_	_	_	_	_	_
+12	norme	_	_	_	_	_	_	_	_
+13	armonizzate	_	_	_	_	_	_	_	_
+14	potrebbero	_	_	_	_	_	_	_	_
+15	contribuire	_	_	_	_	_	_	_	_
+16	notevolmente	_	_	_	_	_	_	_	_
+17	a	_	_	_	_	_	_	_	_
+18	guidare	_	_	_	_	_	_	_	_
+19	i	_	_	_	_	_	_	_	_
+20	fabbricanti	_	_	_	_	_	_	_	_
+21	in	_	_	_	_	_	_	_	_
+22	la	_	_	_	_	_	_	_	_
+23	definizione	_	_	_	_	_	_	_	_
+24	di	_	_	_	_	_	_	_	_
+25	il	_	_	_	_	_	_	_	_
+26	profilo	_	_	_	_	_	_	_	_
+27	ecologico	_	_	_	_	_	_	_	_
+28	di	_	_	_	_	_	_	_	_
+29	i	_	_	_	_	_	_	_	_
+30	loro	_	_	_	_	_	_	_	_
+31	prodotti	_	_	_	_	_	_	_	_
+32	secondo	_	_	_	_	_	_	_	_
+33	le	_	_	_	_	_	_	_	_
+34	condizioni	_	_	_	_	_	_	_	_
+35	di	_	_	_	_	_	_	_	_
+36	la	_	_	_	_	_	_	_	_
+37	misura	_	_	_	_	_	_	_	_
+38	di	_	_	_	_	_	_	_	_
+39	esecuzione	_	_	_	_	_	_	_	_
+40	applicabile	_	_	_	_	_	_	_	_
+41	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-257
+# text = agli stati membri vengono attribuite maggiori competenze.
+1	a	_	_	_	_	_	_	_	_
+2	gli	_	_	_	_	_	_	_	_
+3	stati	_	_	_	_	_	_	_	_
+4	membri	_	_	_	_	_	_	_	_
+5	vengono	_	_	_	_	_	_	_	_
+6	attribuite	_	_	_	_	_	_	_	_
+7	maggiori	_	_	_	_	_	_	_	_
+8	competenze	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1875
+# text = Qui affittò camere da un ugonotto francese chiamato Christopher Moutjoy, un produttore di parrucche da donna e altri copricapi.
+1	Qui	_	_	_	_	_	_	_	_
+2	affittò	_	_	_	_	_	_	_	_
+3	camere	_	_	_	_	_	_	_	_
+4	da	_	_	_	_	_	_	_	_
+5	un	_	_	_	_	_	_	_	_
+6	ugonotto	_	_	_	_	_	_	_	_
+7	francese	_	_	_	_	_	_	_	_
+8	chiamato	_	_	_	_	_	_	_	_
+9	Christopher	_	_	_	_	_	_	_	_
+10	Moutjoy	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	un	_	_	_	_	_	_	_	_
+13	produttore	_	_	_	_	_	_	_	_
+14	di	_	_	_	_	_	_	_	_
+15	parrucche	_	_	_	_	_	_	_	_
+16	da	_	_	_	_	_	_	_	_
+17	donna	_	_	_	_	_	_	_	_
+18	e	_	_	_	_	_	_	_	_
+19	altri	_	_	_	_	_	_	_	_
+20	copricapi	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-378
+# text = A questo punto penso sia più importante concentrarsi nella valutazione dei processi ed in che modo questi potranno permettere di gestire la politica regionale dell'unione, ricordando che l'obiettivo che si desidera raggiungere è quello di ridurre la disuguaglianza locale.
+1	A	_	_	_	_	_	_	_	_
+2	questo	_	_	_	_	_	_	_	_
+3	punto	_	_	_	_	_	_	_	_
+4	penso	_	_	_	_	_	_	_	_
+5	sia	_	_	_	_	_	_	_	_
+6	più	_	_	_	_	_	_	_	_
+7	importante	_	_	_	_	_	_	_	_
+8	concentrar	_	_	_	_	_	_	_	_
+9	si	_	_	_	_	_	_	_	_
+10	in	_	_	_	_	_	_	_	_
+11	la	_	_	_	_	_	_	_	_
+12	valutazione	_	_	_	_	_	_	_	_
+13	di	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	processi	_	_	_	_	_	_	_	_
+16	ed	_	_	_	_	_	_	_	_
+17	in	_	_	_	_	_	_	_	_
+18	che	_	_	_	_	_	_	_	_
+19	modo	_	_	_	_	_	_	_	_
+20	questi	_	_	_	_	_	_	_	_
+21	potranno	_	_	_	_	_	_	_	_
+22	permettere	_	_	_	_	_	_	_	_
+23	di	_	_	_	_	_	_	_	_
+24	gestire	_	_	_	_	_	_	_	_
+25	la	_	_	_	_	_	_	_	_
+26	politica	_	_	_	_	_	_	_	_
+27	regionale	_	_	_	_	_	_	_	_
+28	di	_	_	_	_	_	_	_	_
+29	l'	_	_	_	_	_	_	_	_
+30	unione	_	_	_	_	_	_	_	_
+31	,	_	_	_	_	_	_	_	_
+32	ricordando	_	_	_	_	_	_	_	_
+33	che	_	_	_	_	_	_	_	_
+34	l'	_	_	_	_	_	_	_	_
+35	obiettivo	_	_	_	_	_	_	_	_
+36	che	_	_	_	_	_	_	_	_
+37	si	_	_	_	_	_	_	_	_
+38	desidera	_	_	_	_	_	_	_	_
+39	raggiungere	_	_	_	_	_	_	_	_
+40	è	_	_	_	_	_	_	_	_
+41	quello	_	_	_	_	_	_	_	_
+42	di	_	_	_	_	_	_	_	_
+43	ridurre	_	_	_	_	_	_	_	_
+44	la	_	_	_	_	_	_	_	_
+45	disuguaglianza	_	_	_	_	_	_	_	_
+46	locale	_	_	_	_	_	_	_	_
+47	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-300
+# text = Tutti i contributi della commissione parlamentare e del relatore, onorevole Koch, tradotti in vari emendamenti, che sono concretamente quattro, sono stati accolti dalla commissione.
+1	Tutti	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	contributi	_	_	_	_	_	_	_	_
+4	di	_	_	_	_	_	_	_	_
+5	la	_	_	_	_	_	_	_	_
+6	commissione	_	_	_	_	_	_	_	_
+7	parlamentare	_	_	_	_	_	_	_	_
+8	e	_	_	_	_	_	_	_	_
+9	di	_	_	_	_	_	_	_	_
+10	il	_	_	_	_	_	_	_	_
+11	relatore	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	onorevole	_	_	_	_	_	_	_	_
+14	Koch	_	_	_	_	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	tradotti	_	_	_	_	_	_	_	_
+17	in	_	_	_	_	_	_	_	_
+18	vari	_	_	_	_	_	_	_	_
+19	emendamenti	_	_	_	_	_	_	_	_
+20	,	_	_	_	_	_	_	_	_
+21	che	_	_	_	_	_	_	_	_
+22	sono	_	_	_	_	_	_	_	_
+23	concretamente	_	_	_	_	_	_	_	_
+24	quattro	_	_	_	_	_	_	_	_
+25	,	_	_	_	_	_	_	_	_
+26	sono	_	_	_	_	_	_	_	_
+27	stati	_	_	_	_	_	_	_	_
+28	accolti	_	_	_	_	_	_	_	_
+29	da	_	_	_	_	_	_	_	_
+30	la	_	_	_	_	_	_	_	_
+31	commissione	_	_	_	_	_	_	_	_
+32	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1696
+# text = "Ciò nonostante trascorreva spesso dei lunghi periodi al castello di Saché, vicino a Tours, la casa del suo amico Jean de Margonne, amante di sua madre e padre del figlio più piccolo di quest'ultima.
+1	"	_	_	_	_	_	_	_	_
+2	Ciò	_	_	_	_	_	_	_	_
+3	nonostante	_	_	_	_	_	_	_	_
+4	trascorreva	_	_	_	_	_	_	_	_
+5	spesso	_	_	_	_	_	_	_	_
+6	dei	_	_	_	_	_	_	_	_
+7	lunghi	_	_	_	_	_	_	_	_
+8	periodi	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	il	_	_	_	_	_	_	_	_
+11	castello	_	_	_	_	_	_	_	_
+12	di	_	_	_	_	_	_	_	_
+13	Saché	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	vicino	_	_	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	Tours	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	la	_	_	_	_	_	_	_	_
+20	casa	_	_	_	_	_	_	_	_
+21	di	_	_	_	_	_	_	_	_
+22	il	_	_	_	_	_	_	_	_
+23	suo	_	_	_	_	_	_	_	_
+24	amico	_	_	_	_	_	_	_	_
+25	Jean	_	_	_	_	_	_	_	_
+26	de	_	_	_	_	_	_	_	_
+27	Margonne	_	_	_	_	_	_	_	_
+28	,	_	_	_	_	_	_	_	_
+29	amante	_	_	_	_	_	_	_	_
+30	di	_	_	_	_	_	_	_	_
+31	sua	_	_	_	_	_	_	_	_
+32	madre	_	_	_	_	_	_	_	_
+33	e	_	_	_	_	_	_	_	_
+34	padre	_	_	_	_	_	_	_	_
+35	di	_	_	_	_	_	_	_	_
+36	il	_	_	_	_	_	_	_	_
+37	figlio	_	_	_	_	_	_	_	_
+38	più	_	_	_	_	_	_	_	_
+39	piccolo	_	_	_	_	_	_	_	_
+40	di	_	_	_	_	_	_	_	_
+41	quest'	_	_	_	_	_	_	_	_
+42	ultima	_	_	_	_	_	_	_	_
+43	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-448
+# text = Nella fattispecie noi proponiamo un'imposta unificata sul patrimonio che consentirebbe di alimentare fondi destinati alle misure di accompagnamento per armonizzare i sistemi di previdenza sociale e la riduzione dell'orario di lavoro a livello europeo.
+1	In	_	_	_	_	_	_	_	_
+2	la	_	_	_	_	_	_	_	_
+3	fattispecie	_	_	_	_	_	_	_	_
+4	noi	_	_	_	_	_	_	_	_
+5	proponiamo	_	_	_	_	_	_	_	_
+6	un'	_	_	_	_	_	_	_	_
+7	imposta	_	_	_	_	_	_	_	_
+8	unificata	_	_	_	_	_	_	_	_
+9	su	_	_	_	_	_	_	_	_
+10	il	_	_	_	_	_	_	_	_
+11	patrimonio	_	_	_	_	_	_	_	_
+12	che	_	_	_	_	_	_	_	_
+13	consentirebbe	_	_	_	_	_	_	_	_
+14	di	_	_	_	_	_	_	_	_
+15	alimentare	_	_	_	_	_	_	_	_
+16	fondi	_	_	_	_	_	_	_	_
+17	destinati	_	_	_	_	_	_	_	_
+18	a	_	_	_	_	_	_	_	_
+19	le	_	_	_	_	_	_	_	_
+20	misure	_	_	_	_	_	_	_	_
+21	di	_	_	_	_	_	_	_	_
+22	accompagnamento	_	_	_	_	_	_	_	_
+23	per	_	_	_	_	_	_	_	_
+24	armonizzare	_	_	_	_	_	_	_	_
+25	i	_	_	_	_	_	_	_	_
+26	sistemi	_	_	_	_	_	_	_	_
+27	di	_	_	_	_	_	_	_	_
+28	previdenza	_	_	_	_	_	_	_	_
+29	sociale	_	_	_	_	_	_	_	_
+30	e	_	_	_	_	_	_	_	_
+31	la	_	_	_	_	_	_	_	_
+32	riduzione	_	_	_	_	_	_	_	_
+33	di	_	_	_	_	_	_	_	_
+34	l'	_	_	_	_	_	_	_	_
+35	orario	_	_	_	_	_	_	_	_
+36	di	_	_	_	_	_	_	_	_
+37	lavoro	_	_	_	_	_	_	_	_
+38	a	_	_	_	_	_	_	_	_
+39	livello	_	_	_	_	_	_	_	_
+40	europeo	_	_	_	_	_	_	_	_
+41	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-218
+# text = Ciò non va imputato soltanto alla commissione ma credo che dobbiamo attivarci più rapidamente per giungere a un'armonizzazione anche in questo ambito.
+1	Ciò	_	_	_	_	_	_	_	_
+2	non	_	_	_	_	_	_	_	_
+3	va	_	_	_	_	_	_	_	_
+4	imputato	_	_	_	_	_	_	_	_
+5	soltanto	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	la	_	_	_	_	_	_	_	_
+8	commissione	_	_	_	_	_	_	_	_
+9	ma	_	_	_	_	_	_	_	_
+10	credo	_	_	_	_	_	_	_	_
+11	che	_	_	_	_	_	_	_	_
+12	dobbiamo	_	_	_	_	_	_	_	_
+13	attivar	_	_	_	_	_	_	_	_
+14	ci	_	_	_	_	_	_	_	_
+15	più	_	_	_	_	_	_	_	_
+16	rapidamente	_	_	_	_	_	_	_	_
+17	per	_	_	_	_	_	_	_	_
+18	giungere	_	_	_	_	_	_	_	_
+19	a	_	_	_	_	_	_	_	_
+20	un'	_	_	_	_	_	_	_	_
+21	armonizzazione	_	_	_	_	_	_	_	_
+22	anche	_	_	_	_	_	_	_	_
+23	in	_	_	_	_	_	_	_	_
+24	questo	_	_	_	_	_	_	_	_
+25	ambito	_	_	_	_	_	_	_	_
+26	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-495
+# text = Avere una domanda di sicurezza è un modo utile per verificare il tuo account nel caso perdessi l'accesso a esso.
+1	Avere	_	_	_	_	_	_	_	_
+2	una	_	_	_	_	_	_	_	_
+3	domanda	_	_	_	_	_	_	_	_
+4	di	_	_	_	_	_	_	_	_
+5	sicurezza	_	_	_	_	_	_	_	_
+6	è	_	_	_	_	_	_	_	_
+7	un	_	_	_	_	_	_	_	_
+8	modo	_	_	_	_	_	_	_	_
+9	utile	_	_	_	_	_	_	_	_
+10	per	_	_	_	_	_	_	_	_
+11	verificare	_	_	_	_	_	_	_	_
+12	il	_	_	_	_	_	_	_	_
+13	tuo	_	_	_	_	_	_	_	_
+14	account	_	_	_	_	_	_	_	_
+15	in	_	_	_	_	_	_	_	_
+16	il	_	_	_	_	_	_	_	_
+17	caso	_	_	_	_	_	_	_	_
+18	perdessi	_	_	_	_	_	_	_	_
+19	l'	_	_	_	_	_	_	_	_
+20	accesso	_	_	_	_	_	_	_	_
+21	a	_	_	_	_	_	_	_	_
+22	esso	_	_	_	_	_	_	_	_
+23	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1549
+# text = La Commedia Umana rispecchia le difficoltà della sua vita reale e include scene della propria esperienza.
+1	La	_	_	_	_	_	_	_	_
+2	Commedia	_	_	_	_	_	_	_	_
+3	Umana	_	_	_	_	_	_	_	_
+4	rispecchia	_	_	_	_	_	_	_	_
+5	le	_	_	_	_	_	_	_	_
+6	difficoltà	_	_	_	_	_	_	_	_
+7	di	_	_	_	_	_	_	_	_
+8	la	_	_	_	_	_	_	_	_
+9	sua	_	_	_	_	_	_	_	_
+10	vita	_	_	_	_	_	_	_	_
+11	reale	_	_	_	_	_	_	_	_
+12	e	_	_	_	_	_	_	_	_
+13	include	_	_	_	_	_	_	_	_
+14	scene	_	_	_	_	_	_	_	_
+15	di	_	_	_	_	_	_	_	_
+16	la	_	_	_	_	_	_	_	_
+17	propria	_	_	_	_	_	_	_	_
+18	esperienza	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-729
+# text = l'introduzione della flessibilità nel numero delle domande presentate da ciascuno stato membro e conseguente coordinamento;
+1	l'	_	_	_	_	_	_	_	_
+2	introduzione	_	_	_	_	_	_	_	_
+3	di	_	_	_	_	_	_	_	_
+4	la	_	_	_	_	_	_	_	_
+5	flessibilità	_	_	_	_	_	_	_	_
+6	in	_	_	_	_	_	_	_	_
+7	il	_	_	_	_	_	_	_	_
+8	numero	_	_	_	_	_	_	_	_
+9	di	_	_	_	_	_	_	_	_
+10	le	_	_	_	_	_	_	_	_
+11	domande	_	_	_	_	_	_	_	_
+12	presentate	_	_	_	_	_	_	_	_
+13	da	_	_	_	_	_	_	_	_
+14	ciascuno	_	_	_	_	_	_	_	_
+15	stato	_	_	_	_	_	_	_	_
+16	membro	_	_	_	_	_	_	_	_
+17	e	_	_	_	_	_	_	_	_
+18	conseguente	_	_	_	_	_	_	_	_
+19	coordinamento	_	_	_	_	_	_	_	_
+20	;	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-310
+# text = Ci aspettiamo che la commissione affronti le questioni legate all'addizionalità.
+1	Ci	_	_	_	_	_	_	_	_
+2	aspettiamo	_	_	_	_	_	_	_	_
+3	che	_	_	_	_	_	_	_	_
+4	la	_	_	_	_	_	_	_	_
+5	commissione	_	_	_	_	_	_	_	_
+6	affronti	_	_	_	_	_	_	_	_
+7	le	_	_	_	_	_	_	_	_
+8	questioni	_	_	_	_	_	_	_	_
+9	legate	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	l'	_	_	_	_	_	_	_	_
+12	addizionalità	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1134
+# text = Il principio dell'incertezza nella meccanica quantistica di Werner Heisenberg offre una metafora calzante.
+1	Il	_	_	_	_	_	_	_	_
+2	principio	_	_	_	_	_	_	_	_
+3	di	_	_	_	_	_	_	_	_
+4	l'	_	_	_	_	_	_	_	_
+5	incertezza	_	_	_	_	_	_	_	_
+6	in	_	_	_	_	_	_	_	_
+7	la	_	_	_	_	_	_	_	_
+8	meccanica	_	_	_	_	_	_	_	_
+9	quantistica	_	_	_	_	_	_	_	_
+10	di	_	_	_	_	_	_	_	_
+11	Werner	_	_	_	_	_	_	_	_
+12	Heisenberg	_	_	_	_	_	_	_	_
+13	offre	_	_	_	_	_	_	_	_
+14	una	_	_	_	_	_	_	_	_
+15	metafora	_	_	_	_	_	_	_	_
+16	calzante	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-480
+# text = Se non sei ancora un membro di Facebook e vorresti iscriverti, puoi usare questa e-mail per avviare la procedura di registrazione.
+1	Se	_	_	_	_	_	_	_	_
+2	non	_	_	_	_	_	_	_	_
+3	sei	_	_	_	_	_	_	_	_
+4	ancora	_	_	_	_	_	_	_	_
+5	un	_	_	_	_	_	_	_	_
+6	membro	_	_	_	_	_	_	_	_
+7	di	_	_	_	_	_	_	_	_
+8	Facebook	_	_	_	_	_	_	_	_
+9	e	_	_	_	_	_	_	_	_
+10	vorresti	_	_	_	_	_	_	_	_
+11	iscriver	_	_	_	_	_	_	_	_
+12	ti	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	puoi	_	_	_	_	_	_	_	_
+15	usare	_	_	_	_	_	_	_	_
+16	questa	_	_	_	_	_	_	_	_
+17	e-mail	_	_	_	_	_	_	_	_
+18	per	_	_	_	_	_	_	_	_
+19	avviare	_	_	_	_	_	_	_	_
+20	la	_	_	_	_	_	_	_	_
+21	procedura	_	_	_	_	_	_	_	_
+22	di	_	_	_	_	_	_	_	_
+23	registrazione	_	_	_	_	_	_	_	_
+24	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-6
+# text = La licenza.
+1	La	_	_	_	_	_	_	_	_
+2	licenza	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-203
+# text = Permettetemi di indicare un ultimo punto, sempre concernente l'applicazione delle norme.
+1	Permettete	_	_	_	_	_	_	_	_
+2	mi	_	_	_	_	_	_	_	_
+3	di	_	_	_	_	_	_	_	_
+4	indicare	_	_	_	_	_	_	_	_
+5	un	_	_	_	_	_	_	_	_
+6	ultimo	_	_	_	_	_	_	_	_
+7	punto	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	sempre	_	_	_	_	_	_	_	_
+10	concernente	_	_	_	_	_	_	_	_
+11	l'	_	_	_	_	_	_	_	_
+12	applicazione	_	_	_	_	_	_	_	_
+13	di	_	_	_	_	_	_	_	_
+14	le	_	_	_	_	_	_	_	_
+15	norme	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1072
+# text = L'aumento degli investimenti diretti stranieri comporterebbe inoltre la creazione di 1.800 nuovi posti di lavoro nell'industria farmaceutica.
+1	L'	_	_	_	_	_	_	_	_
+2	aumento	_	_	_	_	_	_	_	_
+3	di	_	_	_	_	_	_	_	_
+4	gli	_	_	_	_	_	_	_	_
+5	investimenti	_	_	_	_	_	_	_	_
+6	diretti	_	_	_	_	_	_	_	_
+7	stranieri	_	_	_	_	_	_	_	_
+8	comporterebbe	_	_	_	_	_	_	_	_
+9	inoltre	_	_	_	_	_	_	_	_
+10	la	_	_	_	_	_	_	_	_
+11	creazione	_	_	_	_	_	_	_	_
+12	di	_	_	_	_	_	_	_	_
+13	1.800	_	_	_	_	_	_	_	_
+14	nuovi	_	_	_	_	_	_	_	_
+15	posti	_	_	_	_	_	_	_	_
+16	di	_	_	_	_	_	_	_	_
+17	lavoro	_	_	_	_	_	_	_	_
+18	in	_	_	_	_	_	_	_	_
+19	l'	_	_	_	_	_	_	_	_
+20	industria	_	_	_	_	_	_	_	_
+21	farmaceutica	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-733
+# text = - fornire formazione/informazioni al personale di nuova assunzione ed estendere la formazione anche ai settori che hanno meno fruito del programma Pericle (agenti finanziari, pubblici ministeri e personale tecnico);
+1	-	_	_	_	_	_	_	_	_
+2	fornire	_	_	_	_	_	_	_	_
+3	formazione	_	_	_	_	_	_	_	_
+4	/	_	_	_	_	_	_	_	_
+5	informazioni	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	il	_	_	_	_	_	_	_	_
+8	personale	_	_	_	_	_	_	_	_
+9	di	_	_	_	_	_	_	_	_
+10	nuova	_	_	_	_	_	_	_	_
+11	assunzione	_	_	_	_	_	_	_	_
+12	ed	_	_	_	_	_	_	_	_
+13	estendere	_	_	_	_	_	_	_	_
+14	la	_	_	_	_	_	_	_	_
+15	formazione	_	_	_	_	_	_	_	_
+16	anche	_	_	_	_	_	_	_	_
+17	a	_	_	_	_	_	_	_	_
+18	i	_	_	_	_	_	_	_	_
+19	settori	_	_	_	_	_	_	_	_
+20	che	_	_	_	_	_	_	_	_
+21	hanno	_	_	_	_	_	_	_	_
+22	meno	_	_	_	_	_	_	_	_
+23	fruito	_	_	_	_	_	_	_	_
+24	di	_	_	_	_	_	_	_	_
+25	il	_	_	_	_	_	_	_	_
+26	programma	_	_	_	_	_	_	_	_
+27	Pericle	_	_	_	_	_	_	_	_
+28	(	_	_	_	_	_	_	_	_
+29	agenti	_	_	_	_	_	_	_	_
+30	finanziari	_	_	_	_	_	_	_	_
+31	,	_	_	_	_	_	_	_	_
+32	pubblici	_	_	_	_	_	_	_	_
+33	ministeri	_	_	_	_	_	_	_	_
+34	e	_	_	_	_	_	_	_	_
+35	personale	_	_	_	_	_	_	_	_
+36	tecnico	_	_	_	_	_	_	_	_
+37	)	_	_	_	_	_	_	_	_
+38	;	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-821
+# text = Dissero:
+1	Dissero	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1941
+# text = Il frontespizio dell'edizione del 1594 del Tito Andronico rivela che l'opera era stata recitata da tre troupe teatrali differenti.
+1	Il	_	_	_	_	_	_	_	_
+2	frontespizio	_	_	_	_	_	_	_	_
+3	di	_	_	_	_	_	_	_	_
+4	l'	_	_	_	_	_	_	_	_
+5	edizione	_	_	_	_	_	_	_	_
+6	di	_	_	_	_	_	_	_	_
+7	il	_	_	_	_	_	_	_	_
+8	1594	_	_	_	_	_	_	_	_
+9	di	_	_	_	_	_	_	_	_
+10	il	_	_	_	_	_	_	_	_
+11	Tito	_	_	_	_	_	_	_	_
+12	Andronico	_	_	_	_	_	_	_	_
+13	rivela	_	_	_	_	_	_	_	_
+14	che	_	_	_	_	_	_	_	_
+15	l'	_	_	_	_	_	_	_	_
+16	opera	_	_	_	_	_	_	_	_
+17	era	_	_	_	_	_	_	_	_
+18	stata	_	_	_	_	_	_	_	_
+19	recitata	_	_	_	_	_	_	_	_
+20	da	_	_	_	_	_	_	_	_
+21	tre	_	_	_	_	_	_	_	_
+22	troupe	_	_	_	_	_	_	_	_
+23	teatrali	_	_	_	_	_	_	_	_
+24	differenti	_	_	_	_	_	_	_	_
+25	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-371
+# text = Signor presidente, signor commissario, onorevoli colleghi, desidero prima di tutto ringraziare la onorevole Schroedter per l'ottima relazione.
+1	Signor	_	_	_	_	_	_	_	_
+2	presidente	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	signor	_	_	_	_	_	_	_	_
+5	commissario	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	onorevoli	_	_	_	_	_	_	_	_
+8	colleghi	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	desidero	_	_	_	_	_	_	_	_
+11	prima	_	_	_	_	_	_	_	_
+12	di	_	_	_	_	_	_	_	_
+13	tutto	_	_	_	_	_	_	_	_
+14	ringraziare	_	_	_	_	_	_	_	_
+15	la	_	_	_	_	_	_	_	_
+16	onorevole	_	_	_	_	_	_	_	_
+17	Schroedter	_	_	_	_	_	_	_	_
+18	per	_	_	_	_	_	_	_	_
+19	l'	_	_	_	_	_	_	_	_
+20	ottima	_	_	_	_	_	_	_	_
+21	relazione	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1059
+# text = Nel frattempo, l'Unione Europea e la Cina stanno facendo pressioni per chiudere i loro accordi con l'Asia e altre regioni.
+1	In	_	_	_	_	_	_	_	_
+2	il	_	_	_	_	_	_	_	_
+3	frattempo	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	l'	_	_	_	_	_	_	_	_
+6	Unione	_	_	_	_	_	_	_	_
+7	Europea	_	_	_	_	_	_	_	_
+8	e	_	_	_	_	_	_	_	_
+9	la	_	_	_	_	_	_	_	_
+10	Cina	_	_	_	_	_	_	_	_
+11	stanno	_	_	_	_	_	_	_	_
+12	facendo	_	_	_	_	_	_	_	_
+13	pressioni	_	_	_	_	_	_	_	_
+14	per	_	_	_	_	_	_	_	_
+15	chiudere	_	_	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	loro	_	_	_	_	_	_	_	_
+18	accordi	_	_	_	_	_	_	_	_
+19	con	_	_	_	_	_	_	_	_
+20	l'	_	_	_	_	_	_	_	_
+21	Asia	_	_	_	_	_	_	_	_
+22	e	_	_	_	_	_	_	_	_
+23	altre	_	_	_	_	_	_	_	_
+24	regioni	_	_	_	_	_	_	_	_
+25	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-250
+# text = In particolare, gli allegati non hanno potuto essere adeguati ai più recenti sviluppi nel settore tecnologico e industriale.
+1	In	_	_	_	_	_	_	_	_
+2	particolare	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	gli	_	_	_	_	_	_	_	_
+5	allegati	_	_	_	_	_	_	_	_
+6	non	_	_	_	_	_	_	_	_
+7	hanno	_	_	_	_	_	_	_	_
+8	potuto	_	_	_	_	_	_	_	_
+9	essere	_	_	_	_	_	_	_	_
+10	adeguati	_	_	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	più	_	_	_	_	_	_	_	_
+14	recenti	_	_	_	_	_	_	_	_
+15	sviluppi	_	_	_	_	_	_	_	_
+16	in	_	_	_	_	_	_	_	_
+17	il	_	_	_	_	_	_	_	_
+18	settore	_	_	_	_	_	_	_	_
+19	tecnologico	_	_	_	_	_	_	_	_
+20	e	_	_	_	_	_	_	_	_
+21	industriale	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-755
+# text = Nessun individuo potrà essere sottoposto a tortura o a trattamento o a punizione crudeli, inumani o degradanti.
+1	Nessun	_	_	_	_	_	_	_	_
+2	individuo	_	_	_	_	_	_	_	_
+3	potrà	_	_	_	_	_	_	_	_
+4	essere	_	_	_	_	_	_	_	_
+5	sottoposto	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	tortura	_	_	_	_	_	_	_	_
+8	o	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	trattamento	_	_	_	_	_	_	_	_
+11	o	_	_	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	punizione	_	_	_	_	_	_	_	_
+14	crudeli	_	_	_	_	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	inumani	_	_	_	_	_	_	_	_
+17	o	_	_	_	_	_	_	_	_
+18	degradanti	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1165
+# text = Un replay della guerra fredda causerebbe danni ingenti sia alla Russia che all'Europa, e soprattutto all'Ucraina, che si trova nel mezzo.
+1	Un	_	_	_	_	_	_	_	_
+2	replay	_	_	_	_	_	_	_	_
+3	di	_	_	_	_	_	_	_	_
+4	la	_	_	_	_	_	_	_	_
+5	guerra	_	_	_	_	_	_	_	_
+6	fredda	_	_	_	_	_	_	_	_
+7	causerebbe	_	_	_	_	_	_	_	_
+8	danni	_	_	_	_	_	_	_	_
+9	ingenti	_	_	_	_	_	_	_	_
+10	sia	_	_	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	la	_	_	_	_	_	_	_	_
+13	Russia	_	_	_	_	_	_	_	_
+14	che	_	_	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	l'	_	_	_	_	_	_	_	_
+17	Europa	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	e	_	_	_	_	_	_	_	_
+20	soprattutto	_	_	_	_	_	_	_	_
+21	a	_	_	_	_	_	_	_	_
+22	l'	_	_	_	_	_	_	_	_
+23	Ucraina	_	_	_	_	_	_	_	_
+24	,	_	_	_	_	_	_	_	_
+25	che	_	_	_	_	_	_	_	_
+26	si	_	_	_	_	_	_	_	_
+27	trova	_	_	_	_	_	_	_	_
+28	in	_	_	_	_	_	_	_	_
+29	il	_	_	_	_	_	_	_	_
+30	mezzo	_	_	_	_	_	_	_	_
+31	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1320
+# text = Ma, senza un forte sostegno interno per il cambiamento, l'impatto di tali incontri è limitato.
+1	Ma	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	senza	_	_	_	_	_	_	_	_
+4	un	_	_	_	_	_	_	_	_
+5	forte	_	_	_	_	_	_	_	_
+6	sostegno	_	_	_	_	_	_	_	_
+7	interno	_	_	_	_	_	_	_	_
+8	per	_	_	_	_	_	_	_	_
+9	il	_	_	_	_	_	_	_	_
+10	cambiamento	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	l'	_	_	_	_	_	_	_	_
+13	impatto	_	_	_	_	_	_	_	_
+14	di	_	_	_	_	_	_	_	_
+15	tali	_	_	_	_	_	_	_	_
+16	incontri	_	_	_	_	_	_	_	_
+17	è	_	_	_	_	_	_	_	_
+18	limitato	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1176
+# text = alla fine, però, differenziare è la scelta vincente.
+1	a	_	_	_	_	_	_	_	_
+2	la	_	_	_	_	_	_	_	_
+3	fine	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	però	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	differenziare	_	_	_	_	_	_	_	_
+8	è	_	_	_	_	_	_	_	_
+9	la	_	_	_	_	_	_	_	_
+10	scelta	_	_	_	_	_	_	_	_
+11	vincente	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1873
+# text = Si spostò lungo il fiume a Southwark dal 1599, l'anno in cui la sua compagnia costruì il Globe Theatre.
+1	Si	_	_	_	_	_	_	_	_
+2	spostò	_	_	_	_	_	_	_	_
+3	lungo	_	_	_	_	_	_	_	_
+4	il	_	_	_	_	_	_	_	_
+5	fiume	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	Southwark	_	_	_	_	_	_	_	_
+8	da	_	_	_	_	_	_	_	_
+9	il	_	_	_	_	_	_	_	_
+10	1599	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	l'	_	_	_	_	_	_	_	_
+13	anno	_	_	_	_	_	_	_	_
+14	in	_	_	_	_	_	_	_	_
+15	cui	_	_	_	_	_	_	_	_
+16	la	_	_	_	_	_	_	_	_
+17	sua	_	_	_	_	_	_	_	_
+18	compagnia	_	_	_	_	_	_	_	_
+19	costruì	_	_	_	_	_	_	_	_
+20	il	_	_	_	_	_	_	_	_
+21	Globe	_	_	_	_	_	_	_	_
+22	Theatre	_	_	_	_	_	_	_	_
+23	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-443
+# text = Signor presidente, la priorità attribuita ai criteri finanziari e monetari rafforza il dilagare delle ineguaglianze di ogni genere.
+1	Signor	_	_	_	_	_	_	_	_
+2	presidente	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	la	_	_	_	_	_	_	_	_
+5	priorità	_	_	_	_	_	_	_	_
+6	attribuita	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	criteri	_	_	_	_	_	_	_	_
+10	finanziari	_	_	_	_	_	_	_	_
+11	e	_	_	_	_	_	_	_	_
+12	monetari	_	_	_	_	_	_	_	_
+13	rafforza	_	_	_	_	_	_	_	_
+14	il	_	_	_	_	_	_	_	_
+15	dilagare	_	_	_	_	_	_	_	_
+16	di	_	_	_	_	_	_	_	_
+17	le	_	_	_	_	_	_	_	_
+18	ineguaglianze	_	_	_	_	_	_	_	_
+19	di	_	_	_	_	_	_	_	_
+20	ogni	_	_	_	_	_	_	_	_
+21	genere	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-17
+# text = 3. Concessione della licenza.
+1	3	_	_	_	_	_	_	_	_
+2	.	_	_	_	_	_	_	_	_
+3	Concessione	_	_	_	_	_	_	_	_
+4	di	_	_	_	_	_	_	_	_
+5	la	_	_	_	_	_	_	_	_
+6	licenza	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-606
+# text = partecipazione aperta, valore aggiunto, rappresentatività, obiettivi quantificati e scaglionati, coinvolgimento della società civile, monitoraggio e relazioni, rapporto costi/efficacia della gestione di un'iniziativa di autoregolamentazione, sostenibilità.
+1	partecipazione	_	_	_	_	_	_	_	_
+2	aperta	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	valore	_	_	_	_	_	_	_	_
+5	aggiunto	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	rappresentatività	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	obiettivi	_	_	_	_	_	_	_	_
+10	quantificati	_	_	_	_	_	_	_	_
+11	e	_	_	_	_	_	_	_	_
+12	scaglionati	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	coinvolgimento	_	_	_	_	_	_	_	_
+15	di	_	_	_	_	_	_	_	_
+16	la	_	_	_	_	_	_	_	_
+17	società	_	_	_	_	_	_	_	_
+18	civile	_	_	_	_	_	_	_	_
+19	,	_	_	_	_	_	_	_	_
+20	monitoraggio	_	_	_	_	_	_	_	_
+21	e	_	_	_	_	_	_	_	_
+22	relazioni	_	_	_	_	_	_	_	_
+23	,	_	_	_	_	_	_	_	_
+24	rapporto	_	_	_	_	_	_	_	_
+25	costi	_	_	_	_	_	_	_	_
+26	/	_	_	_	_	_	_	_	_
+27	efficacia	_	_	_	_	_	_	_	_
+28	di	_	_	_	_	_	_	_	_
+29	la	_	_	_	_	_	_	_	_
+30	gestione	_	_	_	_	_	_	_	_
+31	di	_	_	_	_	_	_	_	_
+32	un'	_	_	_	_	_	_	_	_
+33	iniziativa	_	_	_	_	_	_	_	_
+34	di	_	_	_	_	_	_	_	_
+35	autoregolamentazione	_	_	_	_	_	_	_	_
+36	,	_	_	_	_	_	_	_	_
+37	sostenibilità	_	_	_	_	_	_	_	_
+38	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-947
+# text = Le condizioni e le modalità di ammissione sono contenute nel protocollo allegato al presente trattato.
+1	Le	_	_	_	_	_	_	_	_
+2	condizioni	_	_	_	_	_	_	_	_
+3	e	_	_	_	_	_	_	_	_
+4	le	_	_	_	_	_	_	_	_
+5	modalità	_	_	_	_	_	_	_	_
+6	di	_	_	_	_	_	_	_	_
+7	ammissione	_	_	_	_	_	_	_	_
+8	sono	_	_	_	_	_	_	_	_
+9	contenute	_	_	_	_	_	_	_	_
+10	in	_	_	_	_	_	_	_	_
+11	il	_	_	_	_	_	_	_	_
+12	protocollo	_	_	_	_	_	_	_	_
+13	allegato	_	_	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	il	_	_	_	_	_	_	_	_
+16	presente	_	_	_	_	_	_	_	_
+17	trattato	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1418
+# text = Le ultime indicazioni sono che i repubblicani non ne saranno tanto persuasi.
+1	Le	_	_	_	_	_	_	_	_
+2	ultime	_	_	_	_	_	_	_	_
+3	indicazioni	_	_	_	_	_	_	_	_
+4	sono	_	_	_	_	_	_	_	_
+5	che	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	repubblicani	_	_	_	_	_	_	_	_
+8	non	_	_	_	_	_	_	_	_
+9	ne	_	_	_	_	_	_	_	_
+10	saranno	_	_	_	_	_	_	_	_
+11	tanto	_	_	_	_	_	_	_	_
+12	persuasi	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1623
+# text = La sua prima iniziativa fu un'impresa editoriale per pubblicare in edizione economica in un singolo volume dei classici francesi tra cui le opere di Molière.
+1	La	_	_	_	_	_	_	_	_
+2	sua	_	_	_	_	_	_	_	_
+3	prima	_	_	_	_	_	_	_	_
+4	iniziativa	_	_	_	_	_	_	_	_
+5	fu	_	_	_	_	_	_	_	_
+6	un'	_	_	_	_	_	_	_	_
+7	impresa	_	_	_	_	_	_	_	_
+8	editoriale	_	_	_	_	_	_	_	_
+9	per	_	_	_	_	_	_	_	_
+10	pubblicare	_	_	_	_	_	_	_	_
+11	in	_	_	_	_	_	_	_	_
+12	edizione	_	_	_	_	_	_	_	_
+13	economica	_	_	_	_	_	_	_	_
+14	in	_	_	_	_	_	_	_	_
+15	un	_	_	_	_	_	_	_	_
+16	singolo	_	_	_	_	_	_	_	_
+17	volume	_	_	_	_	_	_	_	_
+18	dei	_	_	_	_	_	_	_	_
+19	classici	_	_	_	_	_	_	_	_
+20	francesi	_	_	_	_	_	_	_	_
+21	tra	_	_	_	_	_	_	_	_
+22	cui	_	_	_	_	_	_	_	_
+23	le	_	_	_	_	_	_	_	_
+24	opere	_	_	_	_	_	_	_	_
+25	di	_	_	_	_	_	_	_	_
+26	Molière	_	_	_	_	_	_	_	_
+27	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-220
+# text = In generale sono dell'idea che in numerosi settori all'interno dei trasporti sarebbero auspicabili una maggiore flessibilità e normative nazionali.
+1	In	_	_	_	_	_	_	_	_
+2	generale	_	_	_	_	_	_	_	_
+3	sono	_	_	_	_	_	_	_	_
+4	di	_	_	_	_	_	_	_	_
+5	l'	_	_	_	_	_	_	_	_
+6	idea	_	_	_	_	_	_	_	_
+7	che	_	_	_	_	_	_	_	_
+8	in	_	_	_	_	_	_	_	_
+9	numerosi	_	_	_	_	_	_	_	_
+10	settori	_	_	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	l'	_	_	_	_	_	_	_	_
+13	interno	_	_	_	_	_	_	_	_
+14	di	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	trasporti	_	_	_	_	_	_	_	_
+17	sarebbero	_	_	_	_	_	_	_	_
+18	auspicabili	_	_	_	_	_	_	_	_
+19	una	_	_	_	_	_	_	_	_
+20	maggiore	_	_	_	_	_	_	_	_
+21	flessibilità	_	_	_	_	_	_	_	_
+22	e	_	_	_	_	_	_	_	_
+23	normative	_	_	_	_	_	_	_	_
+24	nazionali	_	_	_	_	_	_	_	_
+25	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-64
+# text = Creative Commons non è parte della presente licenza e non dà alcuna garanzia connessa all'opera.
+1	Creative	_	_	_	_	_	_	_	_
+2	Commons	_	_	_	_	_	_	_	_
+3	non	_	_	_	_	_	_	_	_
+4	è	_	_	_	_	_	_	_	_
+5	parte	_	_	_	_	_	_	_	_
+6	di	_	_	_	_	_	_	_	_
+7	la	_	_	_	_	_	_	_	_
+8	presente	_	_	_	_	_	_	_	_
+9	licenza	_	_	_	_	_	_	_	_
+10	e	_	_	_	_	_	_	_	_
+11	non	_	_	_	_	_	_	_	_
+12	dà	_	_	_	_	_	_	_	_
+13	alcuna	_	_	_	_	_	_	_	_
+14	garanzia	_	_	_	_	_	_	_	_
+15	connessa	_	_	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	l'	_	_	_	_	_	_	_	_
+18	opera	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1109
+# text = Stephen G. Cecchetti e Enisse Kharroubi della Bank For International Settlements - un gruppo che rappresenta le banche centrali - si spingono oltre.
+1	Stephen	_	_	_	_	_	_	_	_
+2	G.	_	_	_	_	_	_	_	_
+3	Cecchetti	_	_	_	_	_	_	_	_
+4	e	_	_	_	_	_	_	_	_
+5	Enisse	_	_	_	_	_	_	_	_
+6	Kharroubi	_	_	_	_	_	_	_	_
+7	di	_	_	_	_	_	_	_	_
+8	la	_	_	_	_	_	_	_	_
+9	Bank	_	_	_	_	_	_	_	_
+10	For	_	_	_	_	_	_	_	_
+11	International	_	_	_	_	_	_	_	_
+12	Settlements	_	_	_	_	_	_	_	_
+13	-	_	_	_	_	_	_	_	_
+14	un	_	_	_	_	_	_	_	_
+15	gruppo	_	_	_	_	_	_	_	_
+16	che	_	_	_	_	_	_	_	_
+17	rappresenta	_	_	_	_	_	_	_	_
+18	le	_	_	_	_	_	_	_	_
+19	banche	_	_	_	_	_	_	_	_
+20	centrali	_	_	_	_	_	_	_	_
+21	-	_	_	_	_	_	_	_	_
+22	si	_	_	_	_	_	_	_	_
+23	spingono	_	_	_	_	_	_	_	_
+24	oltre	_	_	_	_	_	_	_	_
+25	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1519
+# text = In altre parole, le agenzie di regolamentazione dovrebbero considerare i costi ed i benefici relativi alla sanità che queste innovazioni potrebbero comportare e velocizzare le procedure di revisione.
+1	In	_	_	_	_	_	_	_	_
+2	altre	_	_	_	_	_	_	_	_
+3	parole	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	le	_	_	_	_	_	_	_	_
+6	agenzie	_	_	_	_	_	_	_	_
+7	di	_	_	_	_	_	_	_	_
+8	regolamentazione	_	_	_	_	_	_	_	_
+9	dovrebbero	_	_	_	_	_	_	_	_
+10	considerare	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	costi	_	_	_	_	_	_	_	_
+13	ed	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	benefici	_	_	_	_	_	_	_	_
+16	relativi	_	_	_	_	_	_	_	_
+17	a	_	_	_	_	_	_	_	_
+18	la	_	_	_	_	_	_	_	_
+19	sanità	_	_	_	_	_	_	_	_
+20	che	_	_	_	_	_	_	_	_
+21	queste	_	_	_	_	_	_	_	_
+22	innovazioni	_	_	_	_	_	_	_	_
+23	potrebbero	_	_	_	_	_	_	_	_
+24	comportare	_	_	_	_	_	_	_	_
+25	e	_	_	_	_	_	_	_	_
+26	velocizzare	_	_	_	_	_	_	_	_
+27	le	_	_	_	_	_	_	_	_
+28	procedure	_	_	_	_	_	_	_	_
+29	di	_	_	_	_	_	_	_	_
+30	revisione	_	_	_	_	_	_	_	_
+31	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1591
+# text = Abel-François Villemain, arrivato di recente dal Collège Charlemagne, teneva lezioni di francese e di letteratura classica.
+1	Abel	_	_	_	_	_	_	_	_
+2	-	_	_	_	_	_	_	_	_
+3	François	_	_	_	_	_	_	_	_
+4	Villemain	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	arrivato	_	_	_	_	_	_	_	_
+7	di	_	_	_	_	_	_	_	_
+8	recente	_	_	_	_	_	_	_	_
+9	da	_	_	_	_	_	_	_	_
+10	il	_	_	_	_	_	_	_	_
+11	Collège	_	_	_	_	_	_	_	_
+12	Charlemagne	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	teneva	_	_	_	_	_	_	_	_
+15	lezioni	_	_	_	_	_	_	_	_
+16	di	_	_	_	_	_	_	_	_
+17	francese	_	_	_	_	_	_	_	_
+18	e	_	_	_	_	_	_	_	_
+19	di	_	_	_	_	_	_	_	_
+20	letteratura	_	_	_	_	_	_	_	_
+21	classica	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-82
+# text = Signora presidente, un richiamo al regolamento.
+1	Signora	_	_	_	_	_	_	_	_
+2	presidente	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	un	_	_	_	_	_	_	_	_
+5	richiamo	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	il	_	_	_	_	_	_	_	_
+8	regolamento	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-2037
+# text = Espressioni come "col fiato sospeso" (Mercante di Venezia) e "risultato scontato" (Otello) sono diventati comuni nell'inglese parlato di tutti i giorni.
+1	Espressioni	_	_	_	_	_	_	_	_
+2	come	_	_	_	_	_	_	_	_
+3	"	_	_	_	_	_	_	_	_
+4	con	_	_	_	_	_	_	_	_
+5	il	_	_	_	_	_	_	_	_
+6	fiato	_	_	_	_	_	_	_	_
+7	sospeso	_	_	_	_	_	_	_	_
+8	"	_	_	_	_	_	_	_	_
+9	(	_	_	_	_	_	_	_	_
+10	Mercante	_	_	_	_	_	_	_	_
+11	di	_	_	_	_	_	_	_	_
+12	Venezia	_	_	_	_	_	_	_	_
+13	)	_	_	_	_	_	_	_	_
+14	e	_	_	_	_	_	_	_	_
+15	"	_	_	_	_	_	_	_	_
+16	risultato	_	_	_	_	_	_	_	_
+17	scontato	_	_	_	_	_	_	_	_
+18	"	_	_	_	_	_	_	_	_
+19	(	_	_	_	_	_	_	_	_
+20	Otello	_	_	_	_	_	_	_	_
+21	)	_	_	_	_	_	_	_	_
+22	sono	_	_	_	_	_	_	_	_
+23	diventati	_	_	_	_	_	_	_	_
+24	comuni	_	_	_	_	_	_	_	_
+25	in	_	_	_	_	_	_	_	_
+26	l'	_	_	_	_	_	_	_	_
+27	inglese	_	_	_	_	_	_	_	_
+28	parlato	_	_	_	_	_	_	_	_
+29	di	_	_	_	_	_	_	_	_
+30	tutti	_	_	_	_	_	_	_	_
+31	i	_	_	_	_	_	_	_	_
+32	giorni	_	_	_	_	_	_	_	_
+33	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-2038
+# text = Shakespeare non è stato apprezzato quando era in vita, ma ha ricevuto molti elogi.
+1	Shakespeare	_	_	_	_	_	_	_	_
+2	non	_	_	_	_	_	_	_	_
+3	è	_	_	_	_	_	_	_	_
+4	stato	_	_	_	_	_	_	_	_
+5	apprezzato	_	_	_	_	_	_	_	_
+6	quando	_	_	_	_	_	_	_	_
+7	era	_	_	_	_	_	_	_	_
+8	in	_	_	_	_	_	_	_	_
+9	vita	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	ma	_	_	_	_	_	_	_	_
+12	ha	_	_	_	_	_	_	_	_
+13	ricevuto	_	_	_	_	_	_	_	_
+14	molti	_	_	_	_	_	_	_	_
+15	elogi	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-533
+# text = Ogni cliente potenziale è stato ottenuto con una spesa di 10,25 dollari, a partire da un CPC di 1,25 dollari.
+1	Ogni	_	_	_	_	_	_	_	_
+2	cliente	_	_	_	_	_	_	_	_
+3	potenziale	_	_	_	_	_	_	_	_
+4	è	_	_	_	_	_	_	_	_
+5	stato	_	_	_	_	_	_	_	_
+6	ottenuto	_	_	_	_	_	_	_	_
+7	con	_	_	_	_	_	_	_	_
+8	una	_	_	_	_	_	_	_	_
+9	spesa	_	_	_	_	_	_	_	_
+10	di	_	_	_	_	_	_	_	_
+11	10,25	_	_	_	_	_	_	_	_
+12	dollari	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	partire	_	_	_	_	_	_	_	_
+16	da	_	_	_	_	_	_	_	_
+17	un	_	_	_	_	_	_	_	_
+18	CPC	_	_	_	_	_	_	_	_
+19	di	_	_	_	_	_	_	_	_
+20	1,25	_	_	_	_	_	_	_	_
+21	dollari	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1559
+# text = Dopo il regno del terrore (1793-94), fu inviato a Tours per coordinare i rifornimenti per l'esercito.
+1	Dopo	_	_	_	_	_	_	_	_
+2	il	_	_	_	_	_	_	_	_
+3	regno	_	_	_	_	_	_	_	_
+4	di	_	_	_	_	_	_	_	_
+5	il	_	_	_	_	_	_	_	_
+6	terrore	_	_	_	_	_	_	_	_
+7	(	_	_	_	_	_	_	_	_
+8	1793	_	_	_	_	_	_	_	_
+9	-	_	_	_	_	_	_	_	_
+10	94	_	_	_	_	_	_	_	_
+11	)	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	fu	_	_	_	_	_	_	_	_
+14	inviato	_	_	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	Tours	_	_	_	_	_	_	_	_
+17	per	_	_	_	_	_	_	_	_
+18	coordinare	_	_	_	_	_	_	_	_
+19	i	_	_	_	_	_	_	_	_
+20	rifornimenti	_	_	_	_	_	_	_	_
+21	per	_	_	_	_	_	_	_	_
+22	l'	_	_	_	_	_	_	_	_
+23	esercito	_	_	_	_	_	_	_	_
+24	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1659
+# text = Nel 1833 Balzac pubblicò Eugénie Grandet, il suo primo romanzo campione di vendite.
+1	In	_	_	_	_	_	_	_	_
+2	il	_	_	_	_	_	_	_	_
+3	1833	_	_	_	_	_	_	_	_
+4	Balzac	_	_	_	_	_	_	_	_
+5	pubblicò	_	_	_	_	_	_	_	_
+6	Eugénie	_	_	_	_	_	_	_	_
+7	Grandet	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	il	_	_	_	_	_	_	_	_
+10	suo	_	_	_	_	_	_	_	_
+11	primo	_	_	_	_	_	_	_	_
+12	romanzo	_	_	_	_	_	_	_	_
+13	campione	_	_	_	_	_	_	_	_
+14	di	_	_	_	_	_	_	_	_
+15	vendite	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-438
+# text = E' noto che spetta agli stati membri ridistribuire una parte dei finanziamenti.
+1	E'	_	_	_	_	_	_	_	_
+2	noto	_	_	_	_	_	_	_	_
+3	che	_	_	_	_	_	_	_	_
+4	spetta	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	gli	_	_	_	_	_	_	_	_
+7	stati	_	_	_	_	_	_	_	_
+8	membri	_	_	_	_	_	_	_	_
+9	ridistribuire	_	_	_	_	_	_	_	_
+10	una	_	_	_	_	_	_	_	_
+11	parte	_	_	_	_	_	_	_	_
+12	di	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	finanziamenti	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1874
+# text = Nel 1604, si spostò di nuovo a nord del fiume, in un'area a nord della cattedrale di Saint Paul con molte case eleganti.
+1	In	_	_	_	_	_	_	_	_
+2	il	_	_	_	_	_	_	_	_
+3	1604	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	si	_	_	_	_	_	_	_	_
+6	spostò	_	_	_	_	_	_	_	_
+7	di	_	_	_	_	_	_	_	_
+8	nuovo	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	nord	_	_	_	_	_	_	_	_
+11	di	_	_	_	_	_	_	_	_
+12	il	_	_	_	_	_	_	_	_
+13	fiume	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	in	_	_	_	_	_	_	_	_
+16	un'	_	_	_	_	_	_	_	_
+17	area	_	_	_	_	_	_	_	_
+18	a	_	_	_	_	_	_	_	_
+19	nord	_	_	_	_	_	_	_	_
+20	di	_	_	_	_	_	_	_	_
+21	la	_	_	_	_	_	_	_	_
+22	cattedrale	_	_	_	_	_	_	_	_
+23	di	_	_	_	_	_	_	_	_
+24	Saint	_	_	_	_	_	_	_	_
+25	Paul	_	_	_	_	_	_	_	_
+26	con	_	_	_	_	_	_	_	_
+27	molte	_	_	_	_	_	_	_	_
+28	case	_	_	_	_	_	_	_	_
+29	eleganti	_	_	_	_	_	_	_	_
+30	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-285
+# text = Le condizioni contingenti variano notevolmente da un paese all'altro.
+1	Le	_	_	_	_	_	_	_	_
+2	condizioni	_	_	_	_	_	_	_	_
+3	contingenti	_	_	_	_	_	_	_	_
+4	variano	_	_	_	_	_	_	_	_
+5	notevolmente	_	_	_	_	_	_	_	_
+6	da	_	_	_	_	_	_	_	_
+7	un	_	_	_	_	_	_	_	_
+8	paese	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	l'	_	_	_	_	_	_	_	_
+11	altro	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-769
+# text = Ogni individuo ha il diritto di cercare e di godere in altri paesi asilo dalle persecuzioni.
+1	Ogni	_	_	_	_	_	_	_	_
+2	individuo	_	_	_	_	_	_	_	_
+3	ha	_	_	_	_	_	_	_	_
+4	il	_	_	_	_	_	_	_	_
+5	diritto	_	_	_	_	_	_	_	_
+6	di	_	_	_	_	_	_	_	_
+7	cercare	_	_	_	_	_	_	_	_
+8	e	_	_	_	_	_	_	_	_
+9	di	_	_	_	_	_	_	_	_
+10	godere	_	_	_	_	_	_	_	_
+11	in	_	_	_	_	_	_	_	_
+12	altri	_	_	_	_	_	_	_	_
+13	paesi	_	_	_	_	_	_	_	_
+14	asilo	_	_	_	_	_	_	_	_
+15	da	_	_	_	_	_	_	_	_
+16	le	_	_	_	_	_	_	_	_
+17	persecuzioni	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1175
+# text = Nella morsa di una crisi, si tende a generalizzare;
+1	In	_	_	_	_	_	_	_	_
+2	la	_	_	_	_	_	_	_	_
+3	morsa	_	_	_	_	_	_	_	_
+4	di	_	_	_	_	_	_	_	_
+5	una	_	_	_	_	_	_	_	_
+6	crisi	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	si	_	_	_	_	_	_	_	_
+9	tende	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	generalizzare	_	_	_	_	_	_	_	_
+12	;	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-437
+# text = Concludendo, in un periodo di catastrofi naturali come quello che stiamo attraversando, mi preme evocare il problema dell'utilizzo dei fondi strutturali.
+1	Concludendo	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	in	_	_	_	_	_	_	_	_
+4	un	_	_	_	_	_	_	_	_
+5	periodo	_	_	_	_	_	_	_	_
+6	di	_	_	_	_	_	_	_	_
+7	catastrofi	_	_	_	_	_	_	_	_
+8	naturali	_	_	_	_	_	_	_	_
+9	come	_	_	_	_	_	_	_	_
+10	quello	_	_	_	_	_	_	_	_
+11	che	_	_	_	_	_	_	_	_
+12	stiamo	_	_	_	_	_	_	_	_
+13	attraversando	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	mi	_	_	_	_	_	_	_	_
+16	preme	_	_	_	_	_	_	_	_
+17	evocare	_	_	_	_	_	_	_	_
+18	il	_	_	_	_	_	_	_	_
+19	problema	_	_	_	_	_	_	_	_
+20	di	_	_	_	_	_	_	_	_
+21	l'	_	_	_	_	_	_	_	_
+22	utilizzo	_	_	_	_	_	_	_	_
+23	di	_	_	_	_	_	_	_	_
+24	i	_	_	_	_	_	_	_	_
+25	fondi	_	_	_	_	_	_	_	_
+26	strutturali	_	_	_	_	_	_	_	_
+27	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-281
+# text = Il relatore, onorevole Koch, al quale esprimiamo la nostra gratitudine per il lavoro svolto, ha fatto rilevare che avrebbero già potuto essere compiuti alcuni progressi se non si fossero verificati ritardi nei lavori del CEN dovuti alla lentezza nell'elaborazione e nel ravvicinamento della direttiva.
+1	Il	_	_	_	_	_	_	_	_
+2	relatore	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	onorevole	_	_	_	_	_	_	_	_
+5	Koch	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	il	_	_	_	_	_	_	_	_
+9	quale	_	_	_	_	_	_	_	_
+10	esprimiamo	_	_	_	_	_	_	_	_
+11	la	_	_	_	_	_	_	_	_
+12	nostra	_	_	_	_	_	_	_	_
+13	gratitudine	_	_	_	_	_	_	_	_
+14	per	_	_	_	_	_	_	_	_
+15	il	_	_	_	_	_	_	_	_
+16	lavoro	_	_	_	_	_	_	_	_
+17	svolto	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	ha	_	_	_	_	_	_	_	_
+20	fatto	_	_	_	_	_	_	_	_
+21	rilevare	_	_	_	_	_	_	_	_
+22	che	_	_	_	_	_	_	_	_
+23	avrebbero	_	_	_	_	_	_	_	_
+24	già	_	_	_	_	_	_	_	_
+25	potuto	_	_	_	_	_	_	_	_
+26	essere	_	_	_	_	_	_	_	_
+27	compiuti	_	_	_	_	_	_	_	_
+28	alcuni	_	_	_	_	_	_	_	_
+29	progressi	_	_	_	_	_	_	_	_
+30	se	_	_	_	_	_	_	_	_
+31	non	_	_	_	_	_	_	_	_
+32	si	_	_	_	_	_	_	_	_
+33	fossero	_	_	_	_	_	_	_	_
+34	verificati	_	_	_	_	_	_	_	_
+35	ritardi	_	_	_	_	_	_	_	_
+36	in	_	_	_	_	_	_	_	_
+37	i	_	_	_	_	_	_	_	_
+38	lavori	_	_	_	_	_	_	_	_
+39	di	_	_	_	_	_	_	_	_
+40	il	_	_	_	_	_	_	_	_
+41	CEN	_	_	_	_	_	_	_	_
+42	dovuti	_	_	_	_	_	_	_	_
+43	a	_	_	_	_	_	_	_	_
+44	la	_	_	_	_	_	_	_	_
+45	lentezza	_	_	_	_	_	_	_	_
+46	in	_	_	_	_	_	_	_	_
+47	l'	_	_	_	_	_	_	_	_
+48	elaborazione	_	_	_	_	_	_	_	_
+49	e	_	_	_	_	_	_	_	_
+50	in	_	_	_	_	_	_	_	_
+51	il	_	_	_	_	_	_	_	_
+52	ravvicinamento	_	_	_	_	_	_	_	_
+53	di	_	_	_	_	_	_	_	_
+54	la	_	_	_	_	_	_	_	_
+55	direttiva	_	_	_	_	_	_	_	_
+56	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1731
+# text = Lo stile frammentario riflette la vita stessa dell'autore, un possibile tentativo di renderla stabile attraverso la narrazione.
+1	Lo	_	_	_	_	_	_	_	_
+2	stile	_	_	_	_	_	_	_	_
+3	frammentario	_	_	_	_	_	_	_	_
+4	riflette	_	_	_	_	_	_	_	_
+5	la	_	_	_	_	_	_	_	_
+6	vita	_	_	_	_	_	_	_	_
+7	stessa	_	_	_	_	_	_	_	_
+8	di	_	_	_	_	_	_	_	_
+9	l'	_	_	_	_	_	_	_	_
+10	autore	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	un	_	_	_	_	_	_	_	_
+13	possibile	_	_	_	_	_	_	_	_
+14	tentativo	_	_	_	_	_	_	_	_
+15	di	_	_	_	_	_	_	_	_
+16	render	_	_	_	_	_	_	_	_
+17	la	_	_	_	_	_	_	_	_
+18	stabile	_	_	_	_	_	_	_	_
+19	attraverso	_	_	_	_	_	_	_	_
+20	la	_	_	_	_	_	_	_	_
+21	narrazione	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1149
+# text = La fondazione ora è pronta a sostenere il forte desiderio degli ucraini di creare istituzioni democratiche forti (soprattutto un sistema giudiziario indipendente e professionale).
+1	La	_	_	_	_	_	_	_	_
+2	fondazione	_	_	_	_	_	_	_	_
+3	ora	_	_	_	_	_	_	_	_
+4	è	_	_	_	_	_	_	_	_
+5	pronta	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	sostenere	_	_	_	_	_	_	_	_
+8	il	_	_	_	_	_	_	_	_
+9	forte	_	_	_	_	_	_	_	_
+10	desiderio	_	_	_	_	_	_	_	_
+11	di	_	_	_	_	_	_	_	_
+12	gli	_	_	_	_	_	_	_	_
+13	ucraini	_	_	_	_	_	_	_	_
+14	di	_	_	_	_	_	_	_	_
+15	creare	_	_	_	_	_	_	_	_
+16	istituzioni	_	_	_	_	_	_	_	_
+17	democratiche	_	_	_	_	_	_	_	_
+18	forti	_	_	_	_	_	_	_	_
+19	(	_	_	_	_	_	_	_	_
+20	soprattutto	_	_	_	_	_	_	_	_
+21	un	_	_	_	_	_	_	_	_
+22	sistema	_	_	_	_	_	_	_	_
+23	giudiziario	_	_	_	_	_	_	_	_
+24	indipendente	_	_	_	_	_	_	_	_
+25	e	_	_	_	_	_	_	_	_
+26	professionale	_	_	_	_	_	_	_	_
+27	)	_	_	_	_	_	_	_	_
+28	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-48
+# text = Salvi i limiti stabiliti dalla legge applicabile, il licenziante non sarà in alcun caso responsabile nei tuoi confronti a qualunque titolo per alcun tipo di danno, sia esso speciale, incidentale, consequenziale, punitivo od esemplare, derivante dalla presente licenza o dall'uso dell'opera, anche nel caso in cui il Licenziante sia stato edotto sulla possibilità di tali danni.
+1	Salvi	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	limiti	_	_	_	_	_	_	_	_
+4	stabiliti	_	_	_	_	_	_	_	_
+5	da	_	_	_	_	_	_	_	_
+6	la	_	_	_	_	_	_	_	_
+7	legge	_	_	_	_	_	_	_	_
+8	applicabile	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	il	_	_	_	_	_	_	_	_
+11	licenziante	_	_	_	_	_	_	_	_
+12	non	_	_	_	_	_	_	_	_
+13	sarà	_	_	_	_	_	_	_	_
+14	in	_	_	_	_	_	_	_	_
+15	alcun	_	_	_	_	_	_	_	_
+16	caso	_	_	_	_	_	_	_	_
+17	responsabile	_	_	_	_	_	_	_	_
+18	in	_	_	_	_	_	_	_	_
+19	i	_	_	_	_	_	_	_	_
+20	tuoi	_	_	_	_	_	_	_	_
+21	confronti	_	_	_	_	_	_	_	_
+22	a	_	_	_	_	_	_	_	_
+23	qualunque	_	_	_	_	_	_	_	_
+24	titolo	_	_	_	_	_	_	_	_
+25	per	_	_	_	_	_	_	_	_
+26	alcun	_	_	_	_	_	_	_	_
+27	tipo	_	_	_	_	_	_	_	_
+28	di	_	_	_	_	_	_	_	_
+29	danno	_	_	_	_	_	_	_	_
+30	,	_	_	_	_	_	_	_	_
+31	sia	_	_	_	_	_	_	_	_
+32	esso	_	_	_	_	_	_	_	_
+33	speciale	_	_	_	_	_	_	_	_
+34	,	_	_	_	_	_	_	_	_
+35	incidentale	_	_	_	_	_	_	_	_
+36	,	_	_	_	_	_	_	_	_
+37	consequenziale	_	_	_	_	_	_	_	_
+38	,	_	_	_	_	_	_	_	_
+39	punitivo	_	_	_	_	_	_	_	_
+40	od	_	_	_	_	_	_	_	_
+41	esemplare	_	_	_	_	_	_	_	_
+42	,	_	_	_	_	_	_	_	_
+43	derivante	_	_	_	_	_	_	_	_
+44	da	_	_	_	_	_	_	_	_
+45	la	_	_	_	_	_	_	_	_
+46	presente	_	_	_	_	_	_	_	_
+47	licenza	_	_	_	_	_	_	_	_
+48	o	_	_	_	_	_	_	_	_
+49	da	_	_	_	_	_	_	_	_
+50	l'	_	_	_	_	_	_	_	_
+51	uso	_	_	_	_	_	_	_	_
+52	di	_	_	_	_	_	_	_	_
+53	l'	_	_	_	_	_	_	_	_
+54	opera	_	_	_	_	_	_	_	_
+55	,	_	_	_	_	_	_	_	_
+56	anche	_	_	_	_	_	_	_	_
+57	in	_	_	_	_	_	_	_	_
+58	il	_	_	_	_	_	_	_	_
+59	caso	_	_	_	_	_	_	_	_
+60	in	_	_	_	_	_	_	_	_
+61	cui	_	_	_	_	_	_	_	_
+62	il	_	_	_	_	_	_	_	_
+63	Licenziante	_	_	_	_	_	_	_	_
+64	sia	_	_	_	_	_	_	_	_
+65	stato	_	_	_	_	_	_	_	_
+66	edotto	_	_	_	_	_	_	_	_
+67	su	_	_	_	_	_	_	_	_
+68	la	_	_	_	_	_	_	_	_
+69	possibilità	_	_	_	_	_	_	_	_
+70	di	_	_	_	_	_	_	_	_
+71	tali	_	_	_	_	_	_	_	_
+72	danni	_	_	_	_	_	_	_	_
+73	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-2033
+# text = L'artista svizzero romantico Henry Fuseli, amico di William Blake, ha perfino tradotto Macbeth in tedesco.
+1	L'	_	_	_	_	_	_	_	_
+2	artista	_	_	_	_	_	_	_	_
+3	svizzero	_	_	_	_	_	_	_	_
+4	romantico	_	_	_	_	_	_	_	_
+5	Henry	_	_	_	_	_	_	_	_
+6	Fuseli	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	amico	_	_	_	_	_	_	_	_
+9	di	_	_	_	_	_	_	_	_
+10	William	_	_	_	_	_	_	_	_
+11	Blake	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	ha	_	_	_	_	_	_	_	_
+14	perfino	_	_	_	_	_	_	_	_
+15	tradotto	_	_	_	_	_	_	_	_
+16	Macbeth	_	_	_	_	_	_	_	_
+17	in	_	_	_	_	_	_	_	_
+18	tedesco	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1211
+# text = Ma le future generazioni, soprattutto nelle economie avanzate, soddisferanno tali aspettative?
+1	Ma	_	_	_	_	_	_	_	_
+2	le	_	_	_	_	_	_	_	_
+3	future	_	_	_	_	_	_	_	_
+4	generazioni	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	soprattutto	_	_	_	_	_	_	_	_
+7	in	_	_	_	_	_	_	_	_
+8	le	_	_	_	_	_	_	_	_
+9	economie	_	_	_	_	_	_	_	_
+10	avanzate	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	soddisferanno	_	_	_	_	_	_	_	_
+13	tali	_	_	_	_	_	_	_	_
+14	aspettative	_	_	_	_	_	_	_	_
+15	?	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1179
+# text = E, naturalmente, le smisurate garanzie pubbliche della Cina, pari a 3.800 miliardi di dollari in riserve di valuta estera, offrono un'ampia assicurazione in caso di contagio finanziario.
+1	E	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	naturalmente	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	le	_	_	_	_	_	_	_	_
+6	smisurate	_	_	_	_	_	_	_	_
+7	garanzie	_	_	_	_	_	_	_	_
+8	pubbliche	_	_	_	_	_	_	_	_
+9	di	_	_	_	_	_	_	_	_
+10	la	_	_	_	_	_	_	_	_
+11	Cina	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	pari	_	_	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	3.800	_	_	_	_	_	_	_	_
+16	miliardi	_	_	_	_	_	_	_	_
+17	di	_	_	_	_	_	_	_	_
+18	dollari	_	_	_	_	_	_	_	_
+19	in	_	_	_	_	_	_	_	_
+20	riserve	_	_	_	_	_	_	_	_
+21	di	_	_	_	_	_	_	_	_
+22	valuta	_	_	_	_	_	_	_	_
+23	estera	_	_	_	_	_	_	_	_
+24	,	_	_	_	_	_	_	_	_
+25	offrono	_	_	_	_	_	_	_	_
+26	un'	_	_	_	_	_	_	_	_
+27	ampia	_	_	_	_	_	_	_	_
+28	assicurazione	_	_	_	_	_	_	_	_
+29	in	_	_	_	_	_	_	_	_
+30	caso	_	_	_	_	_	_	_	_
+31	di	_	_	_	_	_	_	_	_
+32	contagio	_	_	_	_	_	_	_	_
+33	finanziario	_	_	_	_	_	_	_	_
+34	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-638
+# text = La direttiva 78/170/CEE deve pertanto essere abrogata.
+1	La	_	_	_	_	_	_	_	_
+2	direttiva	_	_	_	_	_	_	_	_
+3	78	_	_	_	_	_	_	_	_
+4	/	_	_	_	_	_	_	_	_
+5	170	_	_	_	_	_	_	_	_
+6	/	_	_	_	_	_	_	_	_
+7	CEE	_	_	_	_	_	_	_	_
+8	deve	_	_	_	_	_	_	_	_
+9	pertanto	_	_	_	_	_	_	_	_
+10	essere	_	_	_	_	_	_	_	_
+11	abrogata	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1213
+# text = Sinora, ogni previsione nell'era moderna sul peggioramento della sorte dell'umanità, da Thomas Malthus a Karl Marx, si è rivelata clamorosamente errata.
+1	Sinora	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	ogni	_	_	_	_	_	_	_	_
+4	previsione	_	_	_	_	_	_	_	_
+5	in	_	_	_	_	_	_	_	_
+6	l'	_	_	_	_	_	_	_	_
+7	era	_	_	_	_	_	_	_	_
+8	moderna	_	_	_	_	_	_	_	_
+9	su	_	_	_	_	_	_	_	_
+10	il	_	_	_	_	_	_	_	_
+11	peggioramento	_	_	_	_	_	_	_	_
+12	di	_	_	_	_	_	_	_	_
+13	la	_	_	_	_	_	_	_	_
+14	sorte	_	_	_	_	_	_	_	_
+15	di	_	_	_	_	_	_	_	_
+16	l'	_	_	_	_	_	_	_	_
+17	umanità	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	da	_	_	_	_	_	_	_	_
+20	Thomas	_	_	_	_	_	_	_	_
+21	Malthus	_	_	_	_	_	_	_	_
+22	a	_	_	_	_	_	_	_	_
+23	Karl	_	_	_	_	_	_	_	_
+24	Marx	_	_	_	_	_	_	_	_
+25	,	_	_	_	_	_	_	_	_
+26	si	_	_	_	_	_	_	_	_
+27	è	_	_	_	_	_	_	_	_
+28	rivelata	_	_	_	_	_	_	_	_
+29	clamorosamente	_	_	_	_	_	_	_	_
+30	errata	_	_	_	_	_	_	_	_
+31	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1755
+# text = A volte i dettagli complessi sui luoghi si estendono dalle quindici alle venti pagine.
+1	A	_	_	_	_	_	_	_	_
+2	volte	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	dettagli	_	_	_	_	_	_	_	_
+5	complessi	_	_	_	_	_	_	_	_
+6	su	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	luoghi	_	_	_	_	_	_	_	_
+9	si	_	_	_	_	_	_	_	_
+10	estendono	_	_	_	_	_	_	_	_
+11	da	_	_	_	_	_	_	_	_
+12	le	_	_	_	_	_	_	_	_
+13	quindici	_	_	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	le	_	_	_	_	_	_	_	_
+16	venti	_	_	_	_	_	_	_	_
+17	pagine	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-449
+# text = Ebbene, la commissione, che sarebbe tenuta a presentare le linee direttrici, ha assolto a tale compito in modo vago e poco convinto.
+1	Ebbene	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	la	_	_	_	_	_	_	_	_
+4	commissione	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	che	_	_	_	_	_	_	_	_
+7	sarebbe	_	_	_	_	_	_	_	_
+8	tenuta	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	presentare	_	_	_	_	_	_	_	_
+11	le	_	_	_	_	_	_	_	_
+12	linee	_	_	_	_	_	_	_	_
+13	direttrici	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	ha	_	_	_	_	_	_	_	_
+16	assolto	_	_	_	_	_	_	_	_
+17	a	_	_	_	_	_	_	_	_
+18	tale	_	_	_	_	_	_	_	_
+19	compito	_	_	_	_	_	_	_	_
+20	in	_	_	_	_	_	_	_	_
+21	modo	_	_	_	_	_	_	_	_
+22	vago	_	_	_	_	_	_	_	_
+23	e	_	_	_	_	_	_	_	_
+24	poco	_	_	_	_	_	_	_	_
+25	convinto	_	_	_	_	_	_	_	_
+26	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1933
+# text = In questo dramma Shakespeare aggiunge alla struttura tragica un elemento soprannaturale.
+1	In	_	_	_	_	_	_	_	_
+2	questo	_	_	_	_	_	_	_	_
+3	dramma	_	_	_	_	_	_	_	_
+4	Shakespeare	_	_	_	_	_	_	_	_
+5	aggiunge	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	la	_	_	_	_	_	_	_	_
+8	struttura	_	_	_	_	_	_	_	_
+9	tragica	_	_	_	_	_	_	_	_
+10	un	_	_	_	_	_	_	_	_
+11	elemento	_	_	_	_	_	_	_	_
+12	soprannaturale	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1351
+# text = L'attuale sistema, infatti, tende a rafforzare i ruoli di genere, incoraggiando i bambini a seguire percorsi culturalmente strutturati, invece di nutrirne gli interessi e le potenzialità individuali.
+1	L'	_	_	_	_	_	_	_	_
+2	attuale	_	_	_	_	_	_	_	_
+3	sistema	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	infatti	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	tende	_	_	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	rafforzare	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	ruoli	_	_	_	_	_	_	_	_
+12	di	_	_	_	_	_	_	_	_
+13	genere	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	incoraggiando	_	_	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	bambini	_	_	_	_	_	_	_	_
+18	a	_	_	_	_	_	_	_	_
+19	seguire	_	_	_	_	_	_	_	_
+20	percorsi	_	_	_	_	_	_	_	_
+21	culturalmente	_	_	_	_	_	_	_	_
+22	strutturati	_	_	_	_	_	_	_	_
+23	,	_	_	_	_	_	_	_	_
+24	invece	_	_	_	_	_	_	_	_
+25	di	_	_	_	_	_	_	_	_
+26	nutrir	_	_	_	_	_	_	_	_
+27	ne	_	_	_	_	_	_	_	_
+28	gli	_	_	_	_	_	_	_	_
+29	interessi	_	_	_	_	_	_	_	_
+30	e	_	_	_	_	_	_	_	_
+31	le	_	_	_	_	_	_	_	_
+32	potenzialità	_	_	_	_	_	_	_	_
+33	individuali	_	_	_	_	_	_	_	_
+34	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-950
+# text = Il presente trattato è ratificato dalle Alte parti contraenti secondo le rispettive norme costituzionali.
+1	Il	_	_	_	_	_	_	_	_
+2	presente	_	_	_	_	_	_	_	_
+3	trattato	_	_	_	_	_	_	_	_
+4	è	_	_	_	_	_	_	_	_
+5	ratificato	_	_	_	_	_	_	_	_
+6	da	_	_	_	_	_	_	_	_
+7	le	_	_	_	_	_	_	_	_
+8	Alte	_	_	_	_	_	_	_	_
+9	parti	_	_	_	_	_	_	_	_
+10	contraenti	_	_	_	_	_	_	_	_
+11	secondo	_	_	_	_	_	_	_	_
+12	le	_	_	_	_	_	_	_	_
+13	rispettive	_	_	_	_	_	_	_	_
+14	norme	_	_	_	_	_	_	_	_
+15	costituzionali	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-320
+# text = In passato la povertà e la ricchezza dipendevano soprattutto dalla struttura del tessuto economico locale.
+1	In	_	_	_	_	_	_	_	_
+2	passato	_	_	_	_	_	_	_	_
+3	la	_	_	_	_	_	_	_	_
+4	povertà	_	_	_	_	_	_	_	_
+5	e	_	_	_	_	_	_	_	_
+6	la	_	_	_	_	_	_	_	_
+7	ricchezza	_	_	_	_	_	_	_	_
+8	dipendevano	_	_	_	_	_	_	_	_
+9	soprattutto	_	_	_	_	_	_	_	_
+10	da	_	_	_	_	_	_	_	_
+11	la	_	_	_	_	_	_	_	_
+12	struttura	_	_	_	_	_	_	_	_
+13	di	_	_	_	_	_	_	_	_
+14	il	_	_	_	_	_	_	_	_
+15	tessuto	_	_	_	_	_	_	_	_
+16	economico	_	_	_	_	_	_	_	_
+17	locale	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-383
+# text = L'efficacia dei progetti, perseguiti con il sostegnoo dell'unione, è stata spesso ridotta a causa della lentezza dei processi decisionali e della complessità amministrativa.
+1	L'	_	_	_	_	_	_	_	_
+2	efficacia	_	_	_	_	_	_	_	_
+3	di	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	progetti	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	perseguiti	_	_	_	_	_	_	_	_
+8	con	_	_	_	_	_	_	_	_
+9	il	_	_	_	_	_	_	_	_
+10	sostegnoo	_	_	_	_	_	_	_	_
+11	di	_	_	_	_	_	_	_	_
+12	l'	_	_	_	_	_	_	_	_
+13	unione	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	è	_	_	_	_	_	_	_	_
+16	stata	_	_	_	_	_	_	_	_
+17	spesso	_	_	_	_	_	_	_	_
+18	ridotta	_	_	_	_	_	_	_	_
+19	a	_	_	_	_	_	_	_	_
+20	causa	_	_	_	_	_	_	_	_
+21	di	_	_	_	_	_	_	_	_
+22	la	_	_	_	_	_	_	_	_
+23	lentezza	_	_	_	_	_	_	_	_
+24	di	_	_	_	_	_	_	_	_
+25	i	_	_	_	_	_	_	_	_
+26	processi	_	_	_	_	_	_	_	_
+27	decisionali	_	_	_	_	_	_	_	_
+28	e	_	_	_	_	_	_	_	_
+29	di	_	_	_	_	_	_	_	_
+30	la	_	_	_	_	_	_	_	_
+31	complessità	_	_	_	_	_	_	_	_
+32	amministrativa	_	_	_	_	_	_	_	_
+33	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-779
+# text = Ogni individuo ha diritto alla libertà di pensiero, di coscienza e di religione;
+1	Ogni	_	_	_	_	_	_	_	_
+2	individuo	_	_	_	_	_	_	_	_
+3	ha	_	_	_	_	_	_	_	_
+4	diritto	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	la	_	_	_	_	_	_	_	_
+7	libertà	_	_	_	_	_	_	_	_
+8	di	_	_	_	_	_	_	_	_
+9	pensiero	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	di	_	_	_	_	_	_	_	_
+12	coscienza	_	_	_	_	_	_	_	_
+13	e	_	_	_	_	_	_	_	_
+14	di	_	_	_	_	_	_	_	_
+15	religione	_	_	_	_	_	_	_	_
+16	;	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1400
+# text = Ma nei corridoi del congresso degli Stati Uniti, poche persone gli prestano attenzione.
+1	Ma	_	_	_	_	_	_	_	_
+2	in	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	corridoi	_	_	_	_	_	_	_	_
+5	di	_	_	_	_	_	_	_	_
+6	il	_	_	_	_	_	_	_	_
+7	congresso	_	_	_	_	_	_	_	_
+8	di	_	_	_	_	_	_	_	_
+9	gli	_	_	_	_	_	_	_	_
+10	Stati	_	_	_	_	_	_	_	_
+11	Uniti	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	poche	_	_	_	_	_	_	_	_
+14	persone	_	_	_	_	_	_	_	_
+15	gli	_	_	_	_	_	_	_	_
+16	prestano	_	_	_	_	_	_	_	_
+17	attenzione	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1813
+# text = Shakespeare produsse la maggior parte dei suoi lavori conosciuti tra il 1589 e il 1613.
+1	Shakespeare	_	_	_	_	_	_	_	_
+2	produsse	_	_	_	_	_	_	_	_
+3	la	_	_	_	_	_	_	_	_
+4	maggior	_	_	_	_	_	_	_	_
+5	parte	_	_	_	_	_	_	_	_
+6	di	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	suoi	_	_	_	_	_	_	_	_
+9	lavori	_	_	_	_	_	_	_	_
+10	conosciuti	_	_	_	_	_	_	_	_
+11	tra	_	_	_	_	_	_	_	_
+12	il	_	_	_	_	_	_	_	_
+13	1589	_	_	_	_	_	_	_	_
+14	e	_	_	_	_	_	_	_	_
+15	il	_	_	_	_	_	_	_	_
+16	1613	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-764
+# text = Non potrà del pari essere inflitta alcuna pena superiore a quella applicabile al momento in cui il reato sia stato commesso.
+1	Non	_	_	_	_	_	_	_	_
+2	potrà	_	_	_	_	_	_	_	_
+3	di	_	_	_	_	_	_	_	_
+4	il	_	_	_	_	_	_	_	_
+5	pari	_	_	_	_	_	_	_	_
+6	essere	_	_	_	_	_	_	_	_
+7	inflitta	_	_	_	_	_	_	_	_
+8	alcuna	_	_	_	_	_	_	_	_
+9	pena	_	_	_	_	_	_	_	_
+10	superiore	_	_	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	quella	_	_	_	_	_	_	_	_
+13	applicabile	_	_	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	il	_	_	_	_	_	_	_	_
+16	momento	_	_	_	_	_	_	_	_
+17	in	_	_	_	_	_	_	_	_
+18	cui	_	_	_	_	_	_	_	_
+19	il	_	_	_	_	_	_	_	_
+20	reato	_	_	_	_	_	_	_	_
+21	sia	_	_	_	_	_	_	_	_
+22	stato	_	_	_	_	_	_	_	_
+23	commesso	_	_	_	_	_	_	_	_
+24	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1363
+# text = Come dimostra la storia di Joyce, l'agricoltura è fondamentale per il futuro dell'Africa.
+1	Come	_	_	_	_	_	_	_	_
+2	dimostra	_	_	_	_	_	_	_	_
+3	la	_	_	_	_	_	_	_	_
+4	storia	_	_	_	_	_	_	_	_
+5	di	_	_	_	_	_	_	_	_
+6	Joyce	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	l'	_	_	_	_	_	_	_	_
+9	agricoltura	_	_	_	_	_	_	_	_
+10	è	_	_	_	_	_	_	_	_
+11	fondamentale	_	_	_	_	_	_	_	_
+12	per	_	_	_	_	_	_	_	_
+13	il	_	_	_	_	_	_	_	_
+14	futuro	_	_	_	_	_	_	_	_
+15	di	_	_	_	_	_	_	_	_
+16	l'	_	_	_	_	_	_	_	_
+17	Africa	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1556
+# text = Nel 1760 il vecchio Balzac si era trasferito a Parigi con in tasca solo una moneta da un Luigi, determinato a migliorare la sua posizione sociale;
+1	In	_	_	_	_	_	_	_	_
+2	il	_	_	_	_	_	_	_	_
+3	1760	_	_	_	_	_	_	_	_
+4	il	_	_	_	_	_	_	_	_
+5	vecchio	_	_	_	_	_	_	_	_
+6	Balzac	_	_	_	_	_	_	_	_
+7	si	_	_	_	_	_	_	_	_
+8	era	_	_	_	_	_	_	_	_
+9	trasferito	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	Parigi	_	_	_	_	_	_	_	_
+12	con	_	_	_	_	_	_	_	_
+13	in	_	_	_	_	_	_	_	_
+14	tasca	_	_	_	_	_	_	_	_
+15	solo	_	_	_	_	_	_	_	_
+16	una	_	_	_	_	_	_	_	_
+17	moneta	_	_	_	_	_	_	_	_
+18	da	_	_	_	_	_	_	_	_
+19	un	_	_	_	_	_	_	_	_
+20	Luigi	_	_	_	_	_	_	_	_
+21	,	_	_	_	_	_	_	_	_
+22	determinato	_	_	_	_	_	_	_	_
+23	a	_	_	_	_	_	_	_	_
+24	migliorare	_	_	_	_	_	_	_	_
+25	la	_	_	_	_	_	_	_	_
+26	sua	_	_	_	_	_	_	_	_
+27	posizione	_	_	_	_	_	_	_	_
+28	sociale	_	_	_	_	_	_	_	_
+29	;	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-787
+# text = tale volontà deve essere espressa attraverso periodiche e veritiere elezioni, effettuate a suffragio universale ed eguale, ed a voto segreto, o secondo una procedura equivalente di libera votazione.
+1	tale	_	_	_	_	_	_	_	_
+2	volontà	_	_	_	_	_	_	_	_
+3	deve	_	_	_	_	_	_	_	_
+4	essere	_	_	_	_	_	_	_	_
+5	espressa	_	_	_	_	_	_	_	_
+6	attraverso	_	_	_	_	_	_	_	_
+7	periodiche	_	_	_	_	_	_	_	_
+8	e	_	_	_	_	_	_	_	_
+9	veritiere	_	_	_	_	_	_	_	_
+10	elezioni	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	effettuate	_	_	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	suffragio	_	_	_	_	_	_	_	_
+15	universale	_	_	_	_	_	_	_	_
+16	ed	_	_	_	_	_	_	_	_
+17	eguale	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	ed	_	_	_	_	_	_	_	_
+20	a	_	_	_	_	_	_	_	_
+21	voto	_	_	_	_	_	_	_	_
+22	segreto	_	_	_	_	_	_	_	_
+23	,	_	_	_	_	_	_	_	_
+24	o	_	_	_	_	_	_	_	_
+25	secondo	_	_	_	_	_	_	_	_
+26	una	_	_	_	_	_	_	_	_
+27	procedura	_	_	_	_	_	_	_	_
+28	equivalente	_	_	_	_	_	_	_	_
+29	di	_	_	_	_	_	_	_	_
+30	libera	_	_	_	_	_	_	_	_
+31	votazione	_	_	_	_	_	_	_	_
+32	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-47
+# text = 6. Limitazione di responsabilità.
+1	6	_	_	_	_	_	_	_	_
+2	.	_	_	_	_	_	_	_	_
+3	Limitazione	_	_	_	_	_	_	_	_
+4	di	_	_	_	_	_	_	_	_
+5	responsabilità	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1739
+# text = Ilromanziere francese Èmile Zola ha dichiarato Balzac il padre del romanzo naturalista.
+1	Il	_	_	_	_	_	_	_	_
+2	romanziere	_	_	_	_	_	_	_	_
+3	francese	_	_	_	_	_	_	_	_
+4	Èmile	_	_	_	_	_	_	_	_
+5	Zola	_	_	_	_	_	_	_	_
+6	ha	_	_	_	_	_	_	_	_
+7	dichiarato	_	_	_	_	_	_	_	_
+8	Balzac	_	_	_	_	_	_	_	_
+9	il	_	_	_	_	_	_	_	_
+10	padre	_	_	_	_	_	_	_	_
+11	di	_	_	_	_	_	_	_	_
+12	il	_	_	_	_	_	_	_	_
+13	romanzo	_	_	_	_	_	_	_	_
+14	naturalista	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-882
+# text = Amo le foreste primarie, e sono un americano patriottico proprio grazie a loro.
+1	Amo	_	_	_	_	_	_	_	_
+2	le	_	_	_	_	_	_	_	_
+3	foreste	_	_	_	_	_	_	_	_
+4	primarie	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	e	_	_	_	_	_	_	_	_
+7	sono	_	_	_	_	_	_	_	_
+8	un	_	_	_	_	_	_	_	_
+9	americano	_	_	_	_	_	_	_	_
+10	patriottico	_	_	_	_	_	_	_	_
+11	proprio	_	_	_	_	_	_	_	_
+12	grazie	_	_	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	loro	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-191
+# text = Ringrazio innanzi tutto il relatore per il suo lavoro estremamente preciso e tecnico sul fascicolo in parola, e in secondo luogo la commissione per la proposta presentata.
+1	Ringrazio	_	_	_	_	_	_	_	_
+2	innanzi	_	_	_	_	_	_	_	_
+3	tutto	_	_	_	_	_	_	_	_
+4	il	_	_	_	_	_	_	_	_
+5	relatore	_	_	_	_	_	_	_	_
+6	per	_	_	_	_	_	_	_	_
+7	il	_	_	_	_	_	_	_	_
+8	suo	_	_	_	_	_	_	_	_
+9	lavoro	_	_	_	_	_	_	_	_
+10	estremamente	_	_	_	_	_	_	_	_
+11	preciso	_	_	_	_	_	_	_	_
+12	e	_	_	_	_	_	_	_	_
+13	tecnico	_	_	_	_	_	_	_	_
+14	su	_	_	_	_	_	_	_	_
+15	il	_	_	_	_	_	_	_	_
+16	fascicolo	_	_	_	_	_	_	_	_
+17	in	_	_	_	_	_	_	_	_
+18	parola	_	_	_	_	_	_	_	_
+19	,	_	_	_	_	_	_	_	_
+20	e	_	_	_	_	_	_	_	_
+21	in	_	_	_	_	_	_	_	_
+22	secondo	_	_	_	_	_	_	_	_
+23	luogo	_	_	_	_	_	_	_	_
+24	la	_	_	_	_	_	_	_	_
+25	commissione	_	_	_	_	_	_	_	_
+26	per	_	_	_	_	_	_	_	_
+27	la	_	_	_	_	_	_	_	_
+28	proposta	_	_	_	_	_	_	_	_
+29	presentata	_	_	_	_	_	_	_	_
+30	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1041
+# text = In realtà, sono poche le economie in grado di sopportare i necessari allineamenti valutari senza soffrire.
+1	In	_	_	_	_	_	_	_	_
+2	realtà	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	sono	_	_	_	_	_	_	_	_
+5	poche	_	_	_	_	_	_	_	_
+6	le	_	_	_	_	_	_	_	_
+7	economie	_	_	_	_	_	_	_	_
+8	in	_	_	_	_	_	_	_	_
+9	grado	_	_	_	_	_	_	_	_
+10	di	_	_	_	_	_	_	_	_
+11	sopportare	_	_	_	_	_	_	_	_
+12	i	_	_	_	_	_	_	_	_
+13	necessari	_	_	_	_	_	_	_	_
+14	allineamenti	_	_	_	_	_	_	_	_
+15	valutari	_	_	_	_	_	_	_	_
+16	senza	_	_	_	_	_	_	_	_
+17	soffrire	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1897
+# text = Nel suo testamento, Shakespeare appena menziona sua moglie, Anne, che probabilmente era automaticamente instestataria di un terzo delle sue proprietà.
+1	In	_	_	_	_	_	_	_	_
+2	il	_	_	_	_	_	_	_	_
+3	suo	_	_	_	_	_	_	_	_
+4	testamento	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	Shakespeare	_	_	_	_	_	_	_	_
+7	appena	_	_	_	_	_	_	_	_
+8	menziona	_	_	_	_	_	_	_	_
+9	sua	_	_	_	_	_	_	_	_
+10	moglie	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	Anne	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	che	_	_	_	_	_	_	_	_
+15	probabilmente	_	_	_	_	_	_	_	_
+16	era	_	_	_	_	_	_	_	_
+17	automaticamente	_	_	_	_	_	_	_	_
+18	instestataria	_	_	_	_	_	_	_	_
+19	di	_	_	_	_	_	_	_	_
+20	un	_	_	_	_	_	_	_	_
+21	terzo	_	_	_	_	_	_	_	_
+22	di	_	_	_	_	_	_	_	_
+23	le	_	_	_	_	_	_	_	_
+24	sue	_	_	_	_	_	_	_	_
+25	proprietà	_	_	_	_	_	_	_	_
+26	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-302
+# text = Coordinamento Fondi strutturali/Fondo di coesione.
+1	Coordinamento	_	_	_	_	_	_	_	_
+2	Fondi	_	_	_	_	_	_	_	_
+3	strutturali	_	_	_	_	_	_	_	_
+4	/	_	_	_	_	_	_	_	_
+5	Fondo	_	_	_	_	_	_	_	_
+6	di	_	_	_	_	_	_	_	_
+7	coesione	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1332
+# text = A suo merito, va detto che la Corea del sud ha fondato la propria società su una relativa parità di genere.
+1	A	_	_	_	_	_	_	_	_
+2	suo	_	_	_	_	_	_	_	_
+3	merito	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	va	_	_	_	_	_	_	_	_
+6	detto	_	_	_	_	_	_	_	_
+7	che	_	_	_	_	_	_	_	_
+8	la	_	_	_	_	_	_	_	_
+9	Corea	_	_	_	_	_	_	_	_
+10	di	_	_	_	_	_	_	_	_
+11	il	_	_	_	_	_	_	_	_
+12	sud	_	_	_	_	_	_	_	_
+13	ha	_	_	_	_	_	_	_	_
+14	fondato	_	_	_	_	_	_	_	_
+15	la	_	_	_	_	_	_	_	_
+16	propria	_	_	_	_	_	_	_	_
+17	società	_	_	_	_	_	_	_	_
+18	su	_	_	_	_	_	_	_	_
+19	una	_	_	_	_	_	_	_	_
+20	relativa	_	_	_	_	_	_	_	_
+21	parità	_	_	_	_	_	_	_	_
+22	di	_	_	_	_	_	_	_	_
+23	genere	_	_	_	_	_	_	_	_
+24	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-575
+# text = (4) Il miglioramento dell'efficienza energetica - una delle cui opzioni disponibili è l'uso più efficiente dell'elettricità - è considerato un contributo sostanziale al raggiungimento degli obiettivi di riduzione delle emissioni di gas a effetto serra nella comunità.
+1	(	_	_	_	_	_	_	_	_
+2	4	_	_	_	_	_	_	_	_
+3	)	_	_	_	_	_	_	_	_
+4	Il	_	_	_	_	_	_	_	_
+5	miglioramento	_	_	_	_	_	_	_	_
+6	di	_	_	_	_	_	_	_	_
+7	l'	_	_	_	_	_	_	_	_
+8	efficienza	_	_	_	_	_	_	_	_
+9	energetica	_	_	_	_	_	_	_	_
+10	-	_	_	_	_	_	_	_	_
+11	una	_	_	_	_	_	_	_	_
+12	di	_	_	_	_	_	_	_	_
+13	le	_	_	_	_	_	_	_	_
+14	cui	_	_	_	_	_	_	_	_
+15	opzioni	_	_	_	_	_	_	_	_
+16	disponibili	_	_	_	_	_	_	_	_
+17	è	_	_	_	_	_	_	_	_
+18	l'	_	_	_	_	_	_	_	_
+19	uso	_	_	_	_	_	_	_	_
+20	più	_	_	_	_	_	_	_	_
+21	efficiente	_	_	_	_	_	_	_	_
+22	di	_	_	_	_	_	_	_	_
+23	l'	_	_	_	_	_	_	_	_
+24	elettricità	_	_	_	_	_	_	_	_
+25	-	_	_	_	_	_	_	_	_
+26	è	_	_	_	_	_	_	_	_
+27	considerato	_	_	_	_	_	_	_	_
+28	un	_	_	_	_	_	_	_	_
+29	contributo	_	_	_	_	_	_	_	_
+30	sostanziale	_	_	_	_	_	_	_	_
+31	a	_	_	_	_	_	_	_	_
+32	il	_	_	_	_	_	_	_	_
+33	raggiungimento	_	_	_	_	_	_	_	_
+34	di	_	_	_	_	_	_	_	_
+35	gli	_	_	_	_	_	_	_	_
+36	obiettivi	_	_	_	_	_	_	_	_
+37	di	_	_	_	_	_	_	_	_
+38	riduzione	_	_	_	_	_	_	_	_
+39	di	_	_	_	_	_	_	_	_
+40	le	_	_	_	_	_	_	_	_
+41	emissioni	_	_	_	_	_	_	_	_
+42	di	_	_	_	_	_	_	_	_
+43	gas	_	_	_	_	_	_	_	_
+44	a	_	_	_	_	_	_	_	_
+45	effetto	_	_	_	_	_	_	_	_
+46	serra	_	_	_	_	_	_	_	_
+47	in	_	_	_	_	_	_	_	_
+48	la	_	_	_	_	_	_	_	_
+49	comunità	_	_	_	_	_	_	_	_
+50	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1453
+# text = Gli uomini e le donne del nostro paese si stanno offrendo come volontari per il servizio militare come mai era accaduto prima.
+1	Gli	_	_	_	_	_	_	_	_
+2	uomini	_	_	_	_	_	_	_	_
+3	e	_	_	_	_	_	_	_	_
+4	le	_	_	_	_	_	_	_	_
+5	donne	_	_	_	_	_	_	_	_
+6	di	_	_	_	_	_	_	_	_
+7	il	_	_	_	_	_	_	_	_
+8	nostro	_	_	_	_	_	_	_	_
+9	paese	_	_	_	_	_	_	_	_
+10	si	_	_	_	_	_	_	_	_
+11	stanno	_	_	_	_	_	_	_	_
+12	offrendo	_	_	_	_	_	_	_	_
+13	come	_	_	_	_	_	_	_	_
+14	volontari	_	_	_	_	_	_	_	_
+15	per	_	_	_	_	_	_	_	_
+16	il	_	_	_	_	_	_	_	_
+17	servizio	_	_	_	_	_	_	_	_
+18	militare	_	_	_	_	_	_	_	_
+19	come	_	_	_	_	_	_	_	_
+20	mai	_	_	_	_	_	_	_	_
+21	era	_	_	_	_	_	_	_	_
+22	accaduto	_	_	_	_	_	_	_	_
+23	prima	_	_	_	_	_	_	_	_
+24	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-286
+# text = Con l'approvazione di questo emendamento si terrebbe conto del fatto che nelle regioni settentrionali dell'Unione può fare molto freddo.
+1	Con	_	_	_	_	_	_	_	_
+2	l'	_	_	_	_	_	_	_	_
+3	approvazione	_	_	_	_	_	_	_	_
+4	di	_	_	_	_	_	_	_	_
+5	questo	_	_	_	_	_	_	_	_
+6	emendamento	_	_	_	_	_	_	_	_
+7	si	_	_	_	_	_	_	_	_
+8	terrebbe	_	_	_	_	_	_	_	_
+9	conto	_	_	_	_	_	_	_	_
+10	di	_	_	_	_	_	_	_	_
+11	il	_	_	_	_	_	_	_	_
+12	fatto	_	_	_	_	_	_	_	_
+13	che	_	_	_	_	_	_	_	_
+14	in	_	_	_	_	_	_	_	_
+15	le	_	_	_	_	_	_	_	_
+16	regioni	_	_	_	_	_	_	_	_
+17	settentrionali	_	_	_	_	_	_	_	_
+18	di	_	_	_	_	_	_	_	_
+19	l'	_	_	_	_	_	_	_	_
+20	Unione	_	_	_	_	_	_	_	_
+21	può	_	_	_	_	_	_	_	_
+22	fare	_	_	_	_	_	_	_	_
+23	molto	_	_	_	_	_	_	_	_
+24	freddo	_	_	_	_	_	_	_	_
+25	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-842
+# text = Penetrano nella catena alimentare.
+1	Penetrano	_	_	_	_	_	_	_	_
+2	in	_	_	_	_	_	_	_	_
+3	la	_	_	_	_	_	_	_	_
+4	catena	_	_	_	_	_	_	_	_
+5	alimentare	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1253
+# text = Nel 1987 l'economista Robert Solow - insignito del Premio Nobel per il suo pionieristico lavoro sulla crescita - lamentava che "l'era informatica si manifestava dappertutto meno che nelle statistiche sulla produttività".
+1	In	_	_	_	_	_	_	_	_
+2	il	_	_	_	_	_	_	_	_
+3	1987	_	_	_	_	_	_	_	_
+4	l'	_	_	_	_	_	_	_	_
+5	economista	_	_	_	_	_	_	_	_
+6	Robert	_	_	_	_	_	_	_	_
+7	Solow	_	_	_	_	_	_	_	_
+8	-	_	_	_	_	_	_	_	_
+9	insignito	_	_	_	_	_	_	_	_
+10	di	_	_	_	_	_	_	_	_
+11	il	_	_	_	_	_	_	_	_
+12	Premio	_	_	_	_	_	_	_	_
+13	Nobel	_	_	_	_	_	_	_	_
+14	per	_	_	_	_	_	_	_	_
+15	il	_	_	_	_	_	_	_	_
+16	suo	_	_	_	_	_	_	_	_
+17	pionieristico	_	_	_	_	_	_	_	_
+18	lavoro	_	_	_	_	_	_	_	_
+19	su	_	_	_	_	_	_	_	_
+20	la	_	_	_	_	_	_	_	_
+21	crescita	_	_	_	_	_	_	_	_
+22	-	_	_	_	_	_	_	_	_
+23	lamentava	_	_	_	_	_	_	_	_
+24	che	_	_	_	_	_	_	_	_
+25	"	_	_	_	_	_	_	_	_
+26	l'	_	_	_	_	_	_	_	_
+27	era	_	_	_	_	_	_	_	_
+28	informatica	_	_	_	_	_	_	_	_
+29	si	_	_	_	_	_	_	_	_
+30	manifestava	_	_	_	_	_	_	_	_
+31	dappertutto	_	_	_	_	_	_	_	_
+32	meno	_	_	_	_	_	_	_	_
+33	che	_	_	_	_	_	_	_	_
+34	in	_	_	_	_	_	_	_	_
+35	le	_	_	_	_	_	_	_	_
+36	statistiche	_	_	_	_	_	_	_	_
+37	su	_	_	_	_	_	_	_	_
+38	la	_	_	_	_	_	_	_	_
+39	produttività	_	_	_	_	_	_	_	_
+40	"	_	_	_	_	_	_	_	_
+41	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1369
+# text = Ci sono, almeno dal 2011, diverse testimonianze a livello mondiale di questo divario di genere, ma i dati relativi all'ambito, alle dimensioni e alle cause di questo divario sono tuttavia limitati.
+1	Ci	_	_	_	_	_	_	_	_
+2	sono	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	almeno	_	_	_	_	_	_	_	_
+5	da	_	_	_	_	_	_	_	_
+6	il	_	_	_	_	_	_	_	_
+7	2011	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	diverse	_	_	_	_	_	_	_	_
+10	testimonianze	_	_	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	livello	_	_	_	_	_	_	_	_
+13	mondiale	_	_	_	_	_	_	_	_
+14	di	_	_	_	_	_	_	_	_
+15	questo	_	_	_	_	_	_	_	_
+16	divario	_	_	_	_	_	_	_	_
+17	di	_	_	_	_	_	_	_	_
+18	genere	_	_	_	_	_	_	_	_
+19	,	_	_	_	_	_	_	_	_
+20	ma	_	_	_	_	_	_	_	_
+21	i	_	_	_	_	_	_	_	_
+22	dati	_	_	_	_	_	_	_	_
+23	relativi	_	_	_	_	_	_	_	_
+24	a	_	_	_	_	_	_	_	_
+25	l'	_	_	_	_	_	_	_	_
+26	ambito	_	_	_	_	_	_	_	_
+27	,	_	_	_	_	_	_	_	_
+28	a	_	_	_	_	_	_	_	_
+29	le	_	_	_	_	_	_	_	_
+30	dimensioni	_	_	_	_	_	_	_	_
+31	e	_	_	_	_	_	_	_	_
+32	a	_	_	_	_	_	_	_	_
+33	le	_	_	_	_	_	_	_	_
+34	cause	_	_	_	_	_	_	_	_
+35	di	_	_	_	_	_	_	_	_
+36	questo	_	_	_	_	_	_	_	_
+37	divario	_	_	_	_	_	_	_	_
+38	sono	_	_	_	_	_	_	_	_
+39	tuttavia	_	_	_	_	_	_	_	_
+40	limitati	_	_	_	_	_	_	_	_
+41	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1858
+# text = Dopo la morte della Regina Elisabetta nel 1603, la compagnia ottenne una licenza reale dal nuovo re, Giacomo I e cambiò il suo nome in The King's Men.
+1	Dopo	_	_	_	_	_	_	_	_
+2	la	_	_	_	_	_	_	_	_
+3	morte	_	_	_	_	_	_	_	_
+4	di	_	_	_	_	_	_	_	_
+5	la	_	_	_	_	_	_	_	_
+6	Regina	_	_	_	_	_	_	_	_
+7	Elisabetta	_	_	_	_	_	_	_	_
+8	in	_	_	_	_	_	_	_	_
+9	il	_	_	_	_	_	_	_	_
+10	1603	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	la	_	_	_	_	_	_	_	_
+13	compagnia	_	_	_	_	_	_	_	_
+14	ottenne	_	_	_	_	_	_	_	_
+15	una	_	_	_	_	_	_	_	_
+16	licenza	_	_	_	_	_	_	_	_
+17	reale	_	_	_	_	_	_	_	_
+18	da	_	_	_	_	_	_	_	_
+19	il	_	_	_	_	_	_	_	_
+20	nuovo	_	_	_	_	_	_	_	_
+21	re	_	_	_	_	_	_	_	_
+22	,	_	_	_	_	_	_	_	_
+23	Giacomo	_	_	_	_	_	_	_	_
+24	I	_	_	_	_	_	_	_	_
+25	e	_	_	_	_	_	_	_	_
+26	cambiò	_	_	_	_	_	_	_	_
+27	il	_	_	_	_	_	_	_	_
+28	suo	_	_	_	_	_	_	_	_
+29	nome	_	_	_	_	_	_	_	_
+30	in	_	_	_	_	_	_	_	_
+31	The	_	_	_	_	_	_	_	_
+32	King's	_	_	_	_	_	_	_	_
+33	Men	_	_	_	_	_	_	_	_
+34	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-922
+# text = Quindi i funghi ed il micelio sequestrano la Co2 sotto forma di ossalati di calcio.
+1	Quindi	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	funghi	_	_	_	_	_	_	_	_
+4	ed	_	_	_	_	_	_	_	_
+5	il	_	_	_	_	_	_	_	_
+6	micelio	_	_	_	_	_	_	_	_
+7	sequestrano	_	_	_	_	_	_	_	_
+8	la	_	_	_	_	_	_	_	_
+9	Co2	_	_	_	_	_	_	_	_
+10	sotto	_	_	_	_	_	_	_	_
+11	forma	_	_	_	_	_	_	_	_
+12	di	_	_	_	_	_	_	_	_
+13	ossalati	_	_	_	_	_	_	_	_
+14	di	_	_	_	_	_	_	_	_
+15	calcio	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1528
+# text = Negli ultimi due decenni, qualunque sforzo per disciplinare i paesi Ue inadempienti è fallito per la mancanza di un'autorità che facesse rispettare la legge.
+1	In	_	_	_	_	_	_	_	_
+2	gli	_	_	_	_	_	_	_	_
+3	ultimi	_	_	_	_	_	_	_	_
+4	due	_	_	_	_	_	_	_	_
+5	decenni	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	qualunque	_	_	_	_	_	_	_	_
+8	sforzo	_	_	_	_	_	_	_	_
+9	per	_	_	_	_	_	_	_	_
+10	disciplinare	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	paesi	_	_	_	_	_	_	_	_
+13	Ue	_	_	_	_	_	_	_	_
+14	inadempienti	_	_	_	_	_	_	_	_
+15	è	_	_	_	_	_	_	_	_
+16	fallito	_	_	_	_	_	_	_	_
+17	per	_	_	_	_	_	_	_	_
+18	la	_	_	_	_	_	_	_	_
+19	mancanza	_	_	_	_	_	_	_	_
+20	di	_	_	_	_	_	_	_	_
+21	un'	_	_	_	_	_	_	_	_
+22	autorità	_	_	_	_	_	_	_	_
+23	che	_	_	_	_	_	_	_	_
+24	facesse	_	_	_	_	_	_	_	_
+25	rispettare	_	_	_	_	_	_	_	_
+26	la	_	_	_	_	_	_	_	_
+27	legge	_	_	_	_	_	_	_	_
+28	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1848
+# text = Non si sa con esattezza quando Shakespeare iniziò a scrivere, ma teorie contemporanee e gli archivi delle performance mostrano che molte delle sue opere venivano messe in scena sui palchi londinesi già dal 1592.
+1	Non	_	_	_	_	_	_	_	_
+2	si	_	_	_	_	_	_	_	_
+3	sa	_	_	_	_	_	_	_	_
+4	con	_	_	_	_	_	_	_	_
+5	esattezza	_	_	_	_	_	_	_	_
+6	quando	_	_	_	_	_	_	_	_
+7	Shakespeare	_	_	_	_	_	_	_	_
+8	iniziò	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	scrivere	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	ma	_	_	_	_	_	_	_	_
+13	teorie	_	_	_	_	_	_	_	_
+14	contemporanee	_	_	_	_	_	_	_	_
+15	e	_	_	_	_	_	_	_	_
+16	gli	_	_	_	_	_	_	_	_
+17	archivi	_	_	_	_	_	_	_	_
+18	di	_	_	_	_	_	_	_	_
+19	le	_	_	_	_	_	_	_	_
+20	performance	_	_	_	_	_	_	_	_
+21	mostrano	_	_	_	_	_	_	_	_
+22	che	_	_	_	_	_	_	_	_
+23	molte	_	_	_	_	_	_	_	_
+24	di	_	_	_	_	_	_	_	_
+25	le	_	_	_	_	_	_	_	_
+26	sue	_	_	_	_	_	_	_	_
+27	opere	_	_	_	_	_	_	_	_
+28	venivano	_	_	_	_	_	_	_	_
+29	messe	_	_	_	_	_	_	_	_
+30	in	_	_	_	_	_	_	_	_
+31	scena	_	_	_	_	_	_	_	_
+32	su	_	_	_	_	_	_	_	_
+33	i	_	_	_	_	_	_	_	_
+34	palchi	_	_	_	_	_	_	_	_
+35	londinesi	_	_	_	_	_	_	_	_
+36	già	_	_	_	_	_	_	_	_
+37	da	_	_	_	_	_	_	_	_
+38	il	_	_	_	_	_	_	_	_
+39	1592	_	_	_	_	_	_	_	_
+40	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-94
+# text = Signora presidente, vorrei richiamare l'attenzione su un caso che il parlamento segue da tempo, ossia il caso di Alexander Nikitin.
+1	Signora	_	_	_	_	_	_	_	_
+2	presidente	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	vorrei	_	_	_	_	_	_	_	_
+5	richiamare	_	_	_	_	_	_	_	_
+6	l'	_	_	_	_	_	_	_	_
+7	attenzione	_	_	_	_	_	_	_	_
+8	su	_	_	_	_	_	_	_	_
+9	un	_	_	_	_	_	_	_	_
+10	caso	_	_	_	_	_	_	_	_
+11	che	_	_	_	_	_	_	_	_
+12	il	_	_	_	_	_	_	_	_
+13	parlamento	_	_	_	_	_	_	_	_
+14	segue	_	_	_	_	_	_	_	_
+15	da	_	_	_	_	_	_	_	_
+16	tempo	_	_	_	_	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	ossia	_	_	_	_	_	_	_	_
+19	il	_	_	_	_	_	_	_	_
+20	caso	_	_	_	_	_	_	_	_
+21	di	_	_	_	_	_	_	_	_
+22	Alexander	_	_	_	_	_	_	_	_
+23	Nikitin	_	_	_	_	_	_	_	_
+24	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1007
+# text = Tali adattamenti, se adottati dopo l'adesione, sono applicabili dalla data di adesione.
+1	Tali	_	_	_	_	_	_	_	_
+2	adattamenti	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	se	_	_	_	_	_	_	_	_
+5	adottati	_	_	_	_	_	_	_	_
+6	dopo	_	_	_	_	_	_	_	_
+7	l'	_	_	_	_	_	_	_	_
+8	adesione	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	sono	_	_	_	_	_	_	_	_
+11	applicabili	_	_	_	_	_	_	_	_
+12	da	_	_	_	_	_	_	_	_
+13	la	_	_	_	_	_	_	_	_
+14	data	_	_	_	_	_	_	_	_
+15	di	_	_	_	_	_	_	_	_
+16	adesione	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-135
+# text = A sentire il suo presidente , è in grado di farlo .
+1	A	_	_	_	_	_	_	_	_
+2	sentire	_	_	_	_	_	_	_	_
+3	il	_	_	_	_	_	_	_	_
+4	suo	_	_	_	_	_	_	_	_
+5	presidente	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	è	_	_	_	_	_	_	_	_
+8	in	_	_	_	_	_	_	_	_
+9	grado	_	_	_	_	_	_	_	_
+10	di	_	_	_	_	_	_	_	_
+11	far	_	_	_	_	_	_	_	_
+12	lo	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-941
+# text = Il più largo organismo al mondo è un tappeto miceliale, dello spessore di una parete cellulare.
+1	Il	_	_	_	_	_	_	_	_
+2	più	_	_	_	_	_	_	_	_
+3	largo	_	_	_	_	_	_	_	_
+4	organismo	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	il	_	_	_	_	_	_	_	_
+7	mondo	_	_	_	_	_	_	_	_
+8	è	_	_	_	_	_	_	_	_
+9	un	_	_	_	_	_	_	_	_
+10	tappeto	_	_	_	_	_	_	_	_
+11	miceliale	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	di	_	_	_	_	_	_	_	_
+14	lo	_	_	_	_	_	_	_	_
+15	spessore	_	_	_	_	_	_	_	_
+16	di	_	_	_	_	_	_	_	_
+17	una	_	_	_	_	_	_	_	_
+18	parete	_	_	_	_	_	_	_	_
+19	cellulare	_	_	_	_	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1926
+# text = "essere o non essere, questo è il problema".
+1	"	_	_	_	_	_	_	_	_
+2	essere	_	_	_	_	_	_	_	_
+3	o	_	_	_	_	_	_	_	_
+4	non	_	_	_	_	_	_	_	_
+5	essere	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	questo	_	_	_	_	_	_	_	_
+8	è	_	_	_	_	_	_	_	_
+9	il	_	_	_	_	_	_	_	_
+10	problema	_	_	_	_	_	_	_	_
+11	"	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-565
+# text = Hai già una Pagina Facebook?
+1	Hai	_	_	_	_	_	_	_	_
+2	già	_	_	_	_	_	_	_	_
+3	una	_	_	_	_	_	_	_	_
+4	Pagina	_	_	_	_	_	_	_	_
+5	Facebook	_	_	_	_	_	_	_	_
+6	?	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-101
+# text = Tuttavia, signora presidente, non è ancora stato dato seguito alla mia richiesta.
+1	Tuttavia	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	signora	_	_	_	_	_	_	_	_
+4	presidente	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	non	_	_	_	_	_	_	_	_
+7	è	_	_	_	_	_	_	_	_
+8	ancora	_	_	_	_	_	_	_	_
+9	stato	_	_	_	_	_	_	_	_
+10	dato	_	_	_	_	_	_	_	_
+11	seguito	_	_	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	la	_	_	_	_	_	_	_	_
+14	mia	_	_	_	_	_	_	_	_
+15	richiesta	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-831
+# text = Ora, per farvi capire meglio, ho pensato di inventare un gioco.
+1	Ora	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	per	_	_	_	_	_	_	_	_
+4	far	_	_	_	_	_	_	_	_
+5	vi	_	_	_	_	_	_	_	_
+6	capire	_	_	_	_	_	_	_	_
+7	meglio	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	ho	_	_	_	_	_	_	_	_
+10	pensato	_	_	_	_	_	_	_	_
+11	di	_	_	_	_	_	_	_	_
+12	inventare	_	_	_	_	_	_	_	_
+13	un	_	_	_	_	_	_	_	_
+14	gioco	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1974
+# text = I critici ritengono che le sue ottime doti vengano limitate da risultati poco brillanti.
+1	I	_	_	_	_	_	_	_	_
+2	critici	_	_	_	_	_	_	_	_
+3	ritengono	_	_	_	_	_	_	_	_
+4	che	_	_	_	_	_	_	_	_
+5	le	_	_	_	_	_	_	_	_
+6	sue	_	_	_	_	_	_	_	_
+7	ottime	_	_	_	_	_	_	_	_
+8	doti	_	_	_	_	_	_	_	_
+9	vengano	_	_	_	_	_	_	_	_
+10	limitate	_	_	_	_	_	_	_	_
+11	da	_	_	_	_	_	_	_	_
+12	risultati	_	_	_	_	_	_	_	_
+13	poco	_	_	_	_	_	_	_	_
+14	brillanti	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1594
+# text = per tre anni fu apprendista e lavorò presso l'ufficio di Victor Passez, un amico di famiglia.
+1	per	_	_	_	_	_	_	_	_
+2	tre	_	_	_	_	_	_	_	_
+3	anni	_	_	_	_	_	_	_	_
+4	fu	_	_	_	_	_	_	_	_
+5	apprendista	_	_	_	_	_	_	_	_
+6	e	_	_	_	_	_	_	_	_
+7	lavorò	_	_	_	_	_	_	_	_
+8	presso	_	_	_	_	_	_	_	_
+9	l'	_	_	_	_	_	_	_	_
+10	ufficio	_	_	_	_	_	_	_	_
+11	di	_	_	_	_	_	_	_	_
+12	Victor	_	_	_	_	_	_	_	_
+13	Passez	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	un	_	_	_	_	_	_	_	_
+16	amico	_	_	_	_	_	_	_	_
+17	di	_	_	_	_	_	_	_	_
+18	famiglia	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1564
+# text = "Honoré (dal nome Saint Honoré di Amiens, che si ricorda il 16 maggio, quattro giorni prima del compleanno di Balzac) era in realtà il secondogenito dei Balzac;
+1	"	_	_	_	_	_	_	_	_
+2	Honoré	_	_	_	_	_	_	_	_
+3	(	_	_	_	_	_	_	_	_
+4	da	_	_	_	_	_	_	_	_
+5	il	_	_	_	_	_	_	_	_
+6	nome	_	_	_	_	_	_	_	_
+7	Saint	_	_	_	_	_	_	_	_
+8	Honoré	_	_	_	_	_	_	_	_
+9	di	_	_	_	_	_	_	_	_
+10	Amiens	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	che	_	_	_	_	_	_	_	_
+13	si	_	_	_	_	_	_	_	_
+14	ricorda	_	_	_	_	_	_	_	_
+15	il	_	_	_	_	_	_	_	_
+16	16	_	_	_	_	_	_	_	_
+17	maggio	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	quattro	_	_	_	_	_	_	_	_
+20	giorni	_	_	_	_	_	_	_	_
+21	prima	_	_	_	_	_	_	_	_
+22	di	_	_	_	_	_	_	_	_
+23	il	_	_	_	_	_	_	_	_
+24	compleanno	_	_	_	_	_	_	_	_
+25	di	_	_	_	_	_	_	_	_
+26	Balzac	_	_	_	_	_	_	_	_
+27	)	_	_	_	_	_	_	_	_
+28	era	_	_	_	_	_	_	_	_
+29	in	_	_	_	_	_	_	_	_
+30	realtà	_	_	_	_	_	_	_	_
+31	il	_	_	_	_	_	_	_	_
+32	secondogenito	_	_	_	_	_	_	_	_
+33	di	_	_	_	_	_	_	_	_
+34	i	_	_	_	_	_	_	_	_
+35	Balzac	_	_	_	_	_	_	_	_
+36	;	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-914
+# text = Quindi, credo che l'invenzione di Internet sia un'inevitabile conseguenza di un modello che già si era dimostrato biologicamente valido.
+1	Quindi	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	credo	_	_	_	_	_	_	_	_
+4	che	_	_	_	_	_	_	_	_
+5	l'	_	_	_	_	_	_	_	_
+6	invenzione	_	_	_	_	_	_	_	_
+7	di	_	_	_	_	_	_	_	_
+8	Internet	_	_	_	_	_	_	_	_
+9	sia	_	_	_	_	_	_	_	_
+10	un'	_	_	_	_	_	_	_	_
+11	inevitabile	_	_	_	_	_	_	_	_
+12	conseguenza	_	_	_	_	_	_	_	_
+13	di	_	_	_	_	_	_	_	_
+14	un	_	_	_	_	_	_	_	_
+15	modello	_	_	_	_	_	_	_	_
+16	che	_	_	_	_	_	_	_	_
+17	già	_	_	_	_	_	_	_	_
+18	si	_	_	_	_	_	_	_	_
+19	era	_	_	_	_	_	_	_	_
+20	dimostrato	_	_	_	_	_	_	_	_
+21	biologicamente	_	_	_	_	_	_	_	_
+22	valido	_	_	_	_	_	_	_	_
+23	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1841
+# text = I biografi cercando di rendere conto di questo periodo riportarono molti fatti inventati.
+1	I	_	_	_	_	_	_	_	_
+2	biografi	_	_	_	_	_	_	_	_
+3	cercando	_	_	_	_	_	_	_	_
+4	di	_	_	_	_	_	_	_	_
+5	rendere	_	_	_	_	_	_	_	_
+6	conto	_	_	_	_	_	_	_	_
+7	di	_	_	_	_	_	_	_	_
+8	questo	_	_	_	_	_	_	_	_
+9	periodo	_	_	_	_	_	_	_	_
+10	riportarono	_	_	_	_	_	_	_	_
+11	molti	_	_	_	_	_	_	_	_
+12	fatti	_	_	_	_	_	_	_	_
+13	inventati	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1197
+# text = Il ribilanciamento della Cina consentirà al paese di assorbire il surplus di risparmio, che sarà utilizzato per costruire una rete di sicurezza sociale e incrementare i mezzi delle famiglie cinesi.
+1	Il	_	_	_	_	_	_	_	_
+2	ribilanciamento	_	_	_	_	_	_	_	_
+3	di	_	_	_	_	_	_	_	_
+4	la	_	_	_	_	_	_	_	_
+5	Cina	_	_	_	_	_	_	_	_
+6	consentirà	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	il	_	_	_	_	_	_	_	_
+9	paese	_	_	_	_	_	_	_	_
+10	di	_	_	_	_	_	_	_	_
+11	assorbire	_	_	_	_	_	_	_	_
+12	il	_	_	_	_	_	_	_	_
+13	surplus	_	_	_	_	_	_	_	_
+14	di	_	_	_	_	_	_	_	_
+15	risparmio	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	che	_	_	_	_	_	_	_	_
+18	sarà	_	_	_	_	_	_	_	_
+19	utilizzato	_	_	_	_	_	_	_	_
+20	per	_	_	_	_	_	_	_	_
+21	costruire	_	_	_	_	_	_	_	_
+22	una	_	_	_	_	_	_	_	_
+23	rete	_	_	_	_	_	_	_	_
+24	di	_	_	_	_	_	_	_	_
+25	sicurezza	_	_	_	_	_	_	_	_
+26	sociale	_	_	_	_	_	_	_	_
+27	e	_	_	_	_	_	_	_	_
+28	incrementare	_	_	_	_	_	_	_	_
+29	i	_	_	_	_	_	_	_	_
+30	mezzi	_	_	_	_	_	_	_	_
+31	di	_	_	_	_	_	_	_	_
+32	le	_	_	_	_	_	_	_	_
+33	famiglie	_	_	_	_	_	_	_	_
+34	cinesi	_	_	_	_	_	_	_	_
+35	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1242
+# text = Ma quanto ci metteranno i governi ad agire resta una questione del tutto aperta.
+1	Ma	_	_	_	_	_	_	_	_
+2	quanto	_	_	_	_	_	_	_	_
+3	ci	_	_	_	_	_	_	_	_
+4	metteranno	_	_	_	_	_	_	_	_
+5	i	_	_	_	_	_	_	_	_
+6	governi	_	_	_	_	_	_	_	_
+7	ad	_	_	_	_	_	_	_	_
+8	agire	_	_	_	_	_	_	_	_
+9	resta	_	_	_	_	_	_	_	_
+10	una	_	_	_	_	_	_	_	_
+11	questione	_	_	_	_	_	_	_	_
+12	di	_	_	_	_	_	_	_	_
+13	il	_	_	_	_	_	_	_	_
+14	tutto	_	_	_	_	_	_	_	_
+15	aperta	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-456
+# text = L'Italia, ad esempio, negli ultimi anni ha avuto problemi nell'utilizzo dei fondi strutturali, soprattutto a causa di un'eccessiva burocrazia, di un'informazione carente e dello scarso coinvolgimento degli operatori economici e sociali a livello locale.
+1	L'	_	_	_	_	_	_	_	_
+2	Italia	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	ad	_	_	_	_	_	_	_	_
+5	esempio	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	in	_	_	_	_	_	_	_	_
+8	gli	_	_	_	_	_	_	_	_
+9	ultimi	_	_	_	_	_	_	_	_
+10	anni	_	_	_	_	_	_	_	_
+11	ha	_	_	_	_	_	_	_	_
+12	avuto	_	_	_	_	_	_	_	_
+13	problemi	_	_	_	_	_	_	_	_
+14	in	_	_	_	_	_	_	_	_
+15	l'	_	_	_	_	_	_	_	_
+16	utilizzo	_	_	_	_	_	_	_	_
+17	di	_	_	_	_	_	_	_	_
+18	i	_	_	_	_	_	_	_	_
+19	fondi	_	_	_	_	_	_	_	_
+20	strutturali	_	_	_	_	_	_	_	_
+21	,	_	_	_	_	_	_	_	_
+22	soprattutto	_	_	_	_	_	_	_	_
+23	a	_	_	_	_	_	_	_	_
+24	causa	_	_	_	_	_	_	_	_
+25	di	_	_	_	_	_	_	_	_
+26	un'	_	_	_	_	_	_	_	_
+27	eccessiva	_	_	_	_	_	_	_	_
+28	burocrazia	_	_	_	_	_	_	_	_
+29	,	_	_	_	_	_	_	_	_
+30	di	_	_	_	_	_	_	_	_
+31	un'	_	_	_	_	_	_	_	_
+32	informazione	_	_	_	_	_	_	_	_
+33	carente	_	_	_	_	_	_	_	_
+34	e	_	_	_	_	_	_	_	_
+35	di	_	_	_	_	_	_	_	_
+36	lo	_	_	_	_	_	_	_	_
+37	scarso	_	_	_	_	_	_	_	_
+38	coinvolgimento	_	_	_	_	_	_	_	_
+39	di	_	_	_	_	_	_	_	_
+40	gli	_	_	_	_	_	_	_	_
+41	operatori	_	_	_	_	_	_	_	_
+42	economici	_	_	_	_	_	_	_	_
+43	e	_	_	_	_	_	_	_	_
+44	sociali	_	_	_	_	_	_	_	_
+45	a	_	_	_	_	_	_	_	_
+46	livello	_	_	_	_	_	_	_	_
+47	locale	_	_	_	_	_	_	_	_
+48	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-620
+# text = (27) Tenendo conto dell'importanza di evitare la non conformità, gli stati membri dovrebbero assicurare che siano disponibili gli strumenti necessari per un'efficace sorveglianza del mercato.
+1	(	_	_	_	_	_	_	_	_
+2	27	_	_	_	_	_	_	_	_
+3	)	_	_	_	_	_	_	_	_
+4	Tenendo	_	_	_	_	_	_	_	_
+5	conto	_	_	_	_	_	_	_	_
+6	di	_	_	_	_	_	_	_	_
+7	l'	_	_	_	_	_	_	_	_
+8	importanza	_	_	_	_	_	_	_	_
+9	di	_	_	_	_	_	_	_	_
+10	evitare	_	_	_	_	_	_	_	_
+11	la	_	_	_	_	_	_	_	_
+12	non	_	_	_	_	_	_	_	_
+13	conformità	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	gli	_	_	_	_	_	_	_	_
+16	stati	_	_	_	_	_	_	_	_
+17	membri	_	_	_	_	_	_	_	_
+18	dovrebbero	_	_	_	_	_	_	_	_
+19	assicurare	_	_	_	_	_	_	_	_
+20	che	_	_	_	_	_	_	_	_
+21	siano	_	_	_	_	_	_	_	_
+22	disponibili	_	_	_	_	_	_	_	_
+23	gli	_	_	_	_	_	_	_	_
+24	strumenti	_	_	_	_	_	_	_	_
+25	necessari	_	_	_	_	_	_	_	_
+26	per	_	_	_	_	_	_	_	_
+27	un'	_	_	_	_	_	_	_	_
+28	efficace	_	_	_	_	_	_	_	_
+29	sorveglianza	_	_	_	_	_	_	_	_
+30	di	_	_	_	_	_	_	_	_
+31	il	_	_	_	_	_	_	_	_
+32	mercato	_	_	_	_	_	_	_	_
+33	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-349
+# text = La ringrazio inoltre per la disponibilità al dialogo che ha dimostrato nei confronti degli altri gruppi politici, quando si è trattato di trovare formulazioni di compromesso di fronte alla valanga di emendamenti, forse più numerosi del previsto, ma che in realtà segnalano la rilevanza della relazione in discussione.
+1	La	_	_	_	_	_	_	_	_
+2	ringrazio	_	_	_	_	_	_	_	_
+3	inoltre	_	_	_	_	_	_	_	_
+4	per	_	_	_	_	_	_	_	_
+5	la	_	_	_	_	_	_	_	_
+6	disponibilità	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	il	_	_	_	_	_	_	_	_
+9	dialogo	_	_	_	_	_	_	_	_
+10	che	_	_	_	_	_	_	_	_
+11	ha	_	_	_	_	_	_	_	_
+12	dimostrato	_	_	_	_	_	_	_	_
+13	in	_	_	_	_	_	_	_	_
+14	i	_	_	_	_	_	_	_	_
+15	confronti	_	_	_	_	_	_	_	_
+16	di	_	_	_	_	_	_	_	_
+17	gli	_	_	_	_	_	_	_	_
+18	altri	_	_	_	_	_	_	_	_
+19	gruppi	_	_	_	_	_	_	_	_
+20	politici	_	_	_	_	_	_	_	_
+21	,	_	_	_	_	_	_	_	_
+22	quando	_	_	_	_	_	_	_	_
+23	si	_	_	_	_	_	_	_	_
+24	è	_	_	_	_	_	_	_	_
+25	trattato	_	_	_	_	_	_	_	_
+26	di	_	_	_	_	_	_	_	_
+27	trovare	_	_	_	_	_	_	_	_
+28	formulazioni	_	_	_	_	_	_	_	_
+29	di	_	_	_	_	_	_	_	_
+30	compromesso	_	_	_	_	_	_	_	_
+31	di	_	_	_	_	_	_	_	_
+32	fronte	_	_	_	_	_	_	_	_
+33	a	_	_	_	_	_	_	_	_
+34	la	_	_	_	_	_	_	_	_
+35	valanga	_	_	_	_	_	_	_	_
+36	di	_	_	_	_	_	_	_	_
+37	emendamenti	_	_	_	_	_	_	_	_
+38	,	_	_	_	_	_	_	_	_
+39	forse	_	_	_	_	_	_	_	_
+40	più	_	_	_	_	_	_	_	_
+41	numerosi	_	_	_	_	_	_	_	_
+42	di	_	_	_	_	_	_	_	_
+43	il	_	_	_	_	_	_	_	_
+44	previsto	_	_	_	_	_	_	_	_
+45	,	_	_	_	_	_	_	_	_
+46	ma	_	_	_	_	_	_	_	_
+47	che	_	_	_	_	_	_	_	_
+48	in	_	_	_	_	_	_	_	_
+49	realtà	_	_	_	_	_	_	_	_
+50	segnalano	_	_	_	_	_	_	_	_
+51	la	_	_	_	_	_	_	_	_
+52	rilevanza	_	_	_	_	_	_	_	_
+53	di	_	_	_	_	_	_	_	_
+54	la	_	_	_	_	_	_	_	_
+55	relazione	_	_	_	_	_	_	_	_
+56	in	_	_	_	_	_	_	_	_
+57	discussione	_	_	_	_	_	_	_	_
+58	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1416
+# text = Questa è un'accorta tattica legislativa, ma non è convincente come strategia economica.
+1	Questa	_	_	_	_	_	_	_	_
+2	è	_	_	_	_	_	_	_	_
+3	un'	_	_	_	_	_	_	_	_
+4	accorta	_	_	_	_	_	_	_	_
+5	tattica	_	_	_	_	_	_	_	_
+6	legislativa	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	ma	_	_	_	_	_	_	_	_
+9	non	_	_	_	_	_	_	_	_
+10	è	_	_	_	_	_	_	_	_
+11	convincente	_	_	_	_	_	_	_	_
+12	come	_	_	_	_	_	_	_	_
+13	strategia	_	_	_	_	_	_	_	_
+14	economica	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1348
+# text = Allo stato attuale, pur se il settore dei servizi rappresenta oltre il 70% dell'occupazione del paese, il suo tasso di produttività resta molto al di sotto di quello del settore manifatturiero.
+1	A	_	_	_	_	_	_	_	_
+2	lo	_	_	_	_	_	_	_	_
+3	stato	_	_	_	_	_	_	_	_
+4	attuale	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	pur	_	_	_	_	_	_	_	_
+7	se	_	_	_	_	_	_	_	_
+8	il	_	_	_	_	_	_	_	_
+9	settore	_	_	_	_	_	_	_	_
+10	di	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	servizi	_	_	_	_	_	_	_	_
+13	rappresenta	_	_	_	_	_	_	_	_
+14	oltre	_	_	_	_	_	_	_	_
+15	il	_	_	_	_	_	_	_	_
+16	70	_	_	_	_	_	_	_	_
+17	%	_	_	_	_	_	_	_	_
+18	di	_	_	_	_	_	_	_	_
+19	l'	_	_	_	_	_	_	_	_
+20	occupazione	_	_	_	_	_	_	_	_
+21	di	_	_	_	_	_	_	_	_
+22	il	_	_	_	_	_	_	_	_
+23	paese	_	_	_	_	_	_	_	_
+24	,	_	_	_	_	_	_	_	_
+25	il	_	_	_	_	_	_	_	_
+26	suo	_	_	_	_	_	_	_	_
+27	tasso	_	_	_	_	_	_	_	_
+28	di	_	_	_	_	_	_	_	_
+29	produttività	_	_	_	_	_	_	_	_
+30	resta	_	_	_	_	_	_	_	_
+31	molto	_	_	_	_	_	_	_	_
+32	a	_	_	_	_	_	_	_	_
+33	il	_	_	_	_	_	_	_	_
+34	di	_	_	_	_	_	_	_	_
+35	sotto	_	_	_	_	_	_	_	_
+36	di	_	_	_	_	_	_	_	_
+37	quello	_	_	_	_	_	_	_	_
+38	di	_	_	_	_	_	_	_	_
+39	il	_	_	_	_	_	_	_	_
+40	settore	_	_	_	_	_	_	_	_
+41	manifatturiero	_	_	_	_	_	_	_	_
+42	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1105
+# text = I due fattori principali che hanno guidato questo incremento sono stati l'espansione del credito e il rapido aumento delle risorse dedite alla gestione degli asset (associata, non a caso, alla crescita esponenziale delle entrate del settore finanziario).
+1	I	_	_	_	_	_	_	_	_
+2	due	_	_	_	_	_	_	_	_
+3	fattori	_	_	_	_	_	_	_	_
+4	principali	_	_	_	_	_	_	_	_
+5	che	_	_	_	_	_	_	_	_
+6	hanno	_	_	_	_	_	_	_	_
+7	guidato	_	_	_	_	_	_	_	_
+8	questo	_	_	_	_	_	_	_	_
+9	incremento	_	_	_	_	_	_	_	_
+10	sono	_	_	_	_	_	_	_	_
+11	stati	_	_	_	_	_	_	_	_
+12	l'	_	_	_	_	_	_	_	_
+13	espansione	_	_	_	_	_	_	_	_
+14	di	_	_	_	_	_	_	_	_
+15	il	_	_	_	_	_	_	_	_
+16	credito	_	_	_	_	_	_	_	_
+17	e	_	_	_	_	_	_	_	_
+18	il	_	_	_	_	_	_	_	_
+19	rapido	_	_	_	_	_	_	_	_
+20	aumento	_	_	_	_	_	_	_	_
+21	di	_	_	_	_	_	_	_	_
+22	le	_	_	_	_	_	_	_	_
+23	risorse	_	_	_	_	_	_	_	_
+24	dedite	_	_	_	_	_	_	_	_
+25	a	_	_	_	_	_	_	_	_
+26	la	_	_	_	_	_	_	_	_
+27	gestione	_	_	_	_	_	_	_	_
+28	di	_	_	_	_	_	_	_	_
+29	gli	_	_	_	_	_	_	_	_
+30	asset	_	_	_	_	_	_	_	_
+31	(	_	_	_	_	_	_	_	_
+32	associata	_	_	_	_	_	_	_	_
+33	,	_	_	_	_	_	_	_	_
+34	non	_	_	_	_	_	_	_	_
+35	a	_	_	_	_	_	_	_	_
+36	caso	_	_	_	_	_	_	_	_
+37	,	_	_	_	_	_	_	_	_
+38	a	_	_	_	_	_	_	_	_
+39	la	_	_	_	_	_	_	_	_
+40	crescita	_	_	_	_	_	_	_	_
+41	esponenziale	_	_	_	_	_	_	_	_
+42	di	_	_	_	_	_	_	_	_
+43	le	_	_	_	_	_	_	_	_
+44	entrate	_	_	_	_	_	_	_	_
+45	di	_	_	_	_	_	_	_	_
+46	il	_	_	_	_	_	_	_	_
+47	settore	_	_	_	_	_	_	_	_
+48	finanziario	_	_	_	_	_	_	_	_
+49	)	_	_	_	_	_	_	_	_
+50	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1617
+# text = Secondo Saintsbury, "essi erano brutti in modo curioso, attraente ed affascinante.
+1	Secondo	_	_	_	_	_	_	_	_
+2	Saintsbury	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	"	_	_	_	_	_	_	_	_
+5	essi	_	_	_	_	_	_	_	_
+6	erano	_	_	_	_	_	_	_	_
+7	brutti	_	_	_	_	_	_	_	_
+8	in	_	_	_	_	_	_	_	_
+9	modo	_	_	_	_	_	_	_	_
+10	curioso	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	attraente	_	_	_	_	_	_	_	_
+13	ed	_	_	_	_	_	_	_	_
+14	affascinante	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-562
+# text = Le persone potranno vedere solo le cose che condividi pubblicamente.
+1	Le	_	_	_	_	_	_	_	_
+2	persone	_	_	_	_	_	_	_	_
+3	potranno	_	_	_	_	_	_	_	_
+4	vedere	_	_	_	_	_	_	_	_
+5	solo	_	_	_	_	_	_	_	_
+6	le	_	_	_	_	_	_	_	_
+7	cose	_	_	_	_	_	_	_	_
+8	che	_	_	_	_	_	_	_	_
+9	condividi	_	_	_	_	_	_	_	_
+10	pubblicamente	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-176
+# text = La nostra risposta a incidenti di questo genere deve essere la prevenzione e il progetto di direttiva oggi in discussione rappresenta un importante presupposto per assicurare un'adeguata formazione ai consulenti per la sicurezza, affinché si intervenga nel modo e nel momento opportuno.
+1	La	_	_	_	_	_	_	_	_
+2	nostra	_	_	_	_	_	_	_	_
+3	risposta	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	incidenti	_	_	_	_	_	_	_	_
+6	di	_	_	_	_	_	_	_	_
+7	questo	_	_	_	_	_	_	_	_
+8	genere	_	_	_	_	_	_	_	_
+9	deve	_	_	_	_	_	_	_	_
+10	essere	_	_	_	_	_	_	_	_
+11	la	_	_	_	_	_	_	_	_
+12	prevenzione	_	_	_	_	_	_	_	_
+13	e	_	_	_	_	_	_	_	_
+14	il	_	_	_	_	_	_	_	_
+15	progetto	_	_	_	_	_	_	_	_
+16	di	_	_	_	_	_	_	_	_
+17	direttiva	_	_	_	_	_	_	_	_
+18	oggi	_	_	_	_	_	_	_	_
+19	in	_	_	_	_	_	_	_	_
+20	discussione	_	_	_	_	_	_	_	_
+21	rappresenta	_	_	_	_	_	_	_	_
+22	un	_	_	_	_	_	_	_	_
+23	importante	_	_	_	_	_	_	_	_
+24	presupposto	_	_	_	_	_	_	_	_
+25	per	_	_	_	_	_	_	_	_
+26	assicurare	_	_	_	_	_	_	_	_
+27	un'	_	_	_	_	_	_	_	_
+28	adeguata	_	_	_	_	_	_	_	_
+29	formazione	_	_	_	_	_	_	_	_
+30	a	_	_	_	_	_	_	_	_
+31	i	_	_	_	_	_	_	_	_
+32	consulenti	_	_	_	_	_	_	_	_
+33	per	_	_	_	_	_	_	_	_
+34	la	_	_	_	_	_	_	_	_
+35	sicurezza	_	_	_	_	_	_	_	_
+36	,	_	_	_	_	_	_	_	_
+37	affinché	_	_	_	_	_	_	_	_
+38	si	_	_	_	_	_	_	_	_
+39	intervenga	_	_	_	_	_	_	_	_
+40	in	_	_	_	_	_	_	_	_
+41	il	_	_	_	_	_	_	_	_
+42	modo	_	_	_	_	_	_	_	_
+43	e	_	_	_	_	_	_	_	_
+44	in	_	_	_	_	_	_	_	_
+45	il	_	_	_	_	_	_	_	_
+46	momento	_	_	_	_	_	_	_	_
+47	opportuno	_	_	_	_	_	_	_	_
+48	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-183
+# text = Mi congratulo con lui per l'eccellente relazione.
+1	Mi	_	_	_	_	_	_	_	_
+2	congratulo	_	_	_	_	_	_	_	_
+3	con	_	_	_	_	_	_	_	_
+4	lui	_	_	_	_	_	_	_	_
+5	per	_	_	_	_	_	_	_	_
+6	l'	_	_	_	_	_	_	_	_
+7	eccellente	_	_	_	_	_	_	_	_
+8	relazione	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-268
+# text = Ritengo sia importante che questa direttiva sia approvata adesso;
+1	Ritengo	_	_	_	_	_	_	_	_
+2	sia	_	_	_	_	_	_	_	_
+3	importante	_	_	_	_	_	_	_	_
+4	che	_	_	_	_	_	_	_	_
+5	questa	_	_	_	_	_	_	_	_
+6	direttiva	_	_	_	_	_	_	_	_
+7	sia	_	_	_	_	_	_	_	_
+8	approvata	_	_	_	_	_	_	_	_
+9	adesso	_	_	_	_	_	_	_	_
+10	;	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1529
+# text = Mentre la Bundesbank tedesca si opponeva ferocemente (e giustamente) a questo programma perché troppo incentrato sulla solvibilità dei paesi, anziché sul rischio di liquidità - dando così adito a un'unione fiscale clandestina - il governo è stato alleggerito dal fatto che la corte costituzionale tedesca, nel valutare la legalità del programma, abbia passato la patata bollente alla corte di giustizia europea.
+1	Mentre	_	_	_	_	_	_	_	_
+2	la	_	_	_	_	_	_	_	_
+3	Bundesbank	_	_	_	_	_	_	_	_
+4	tedesca	_	_	_	_	_	_	_	_
+5	si	_	_	_	_	_	_	_	_
+6	opponeva	_	_	_	_	_	_	_	_
+7	ferocemente	_	_	_	_	_	_	_	_
+8	(	_	_	_	_	_	_	_	_
+9	e	_	_	_	_	_	_	_	_
+10	giustamente	_	_	_	_	_	_	_	_
+11	)	_	_	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	questo	_	_	_	_	_	_	_	_
+14	programma	_	_	_	_	_	_	_	_
+15	perché	_	_	_	_	_	_	_	_
+16	troppo	_	_	_	_	_	_	_	_
+17	incentrato	_	_	_	_	_	_	_	_
+18	su	_	_	_	_	_	_	_	_
+19	la	_	_	_	_	_	_	_	_
+20	solvibilità	_	_	_	_	_	_	_	_
+21	di	_	_	_	_	_	_	_	_
+22	i	_	_	_	_	_	_	_	_
+23	paesi	_	_	_	_	_	_	_	_
+24	,	_	_	_	_	_	_	_	_
+25	anziché	_	_	_	_	_	_	_	_
+26	su	_	_	_	_	_	_	_	_
+27	il	_	_	_	_	_	_	_	_
+28	rischio	_	_	_	_	_	_	_	_
+29	di	_	_	_	_	_	_	_	_
+30	liquidità	_	_	_	_	_	_	_	_
+31	-	_	_	_	_	_	_	_	_
+32	dando	_	_	_	_	_	_	_	_
+33	così	_	_	_	_	_	_	_	_
+34	adito	_	_	_	_	_	_	_	_
+35	a	_	_	_	_	_	_	_	_
+36	un'	_	_	_	_	_	_	_	_
+37	unione	_	_	_	_	_	_	_	_
+38	fiscale	_	_	_	_	_	_	_	_
+39	clandestina	_	_	_	_	_	_	_	_
+40	-	_	_	_	_	_	_	_	_
+41	il	_	_	_	_	_	_	_	_
+42	governo	_	_	_	_	_	_	_	_
+43	è	_	_	_	_	_	_	_	_
+44	stato	_	_	_	_	_	_	_	_
+45	alleggerito	_	_	_	_	_	_	_	_
+46	da	_	_	_	_	_	_	_	_
+47	il	_	_	_	_	_	_	_	_
+48	fatto	_	_	_	_	_	_	_	_
+49	che	_	_	_	_	_	_	_	_
+50	la	_	_	_	_	_	_	_	_
+51	corte	_	_	_	_	_	_	_	_
+52	costituzionale	_	_	_	_	_	_	_	_
+53	tedesca	_	_	_	_	_	_	_	_
+54	,	_	_	_	_	_	_	_	_
+55	in	_	_	_	_	_	_	_	_
+56	il	_	_	_	_	_	_	_	_
+57	valutare	_	_	_	_	_	_	_	_
+58	la	_	_	_	_	_	_	_	_
+59	legalità	_	_	_	_	_	_	_	_
+60	di	_	_	_	_	_	_	_	_
+61	il	_	_	_	_	_	_	_	_
+62	programma	_	_	_	_	_	_	_	_
+63	,	_	_	_	_	_	_	_	_
+64	abbia	_	_	_	_	_	_	_	_
+65	passato	_	_	_	_	_	_	_	_
+66	la	_	_	_	_	_	_	_	_
+67	patata	_	_	_	_	_	_	_	_
+68	bollente	_	_	_	_	_	_	_	_
+69	a	_	_	_	_	_	_	_	_
+70	la	_	_	_	_	_	_	_	_
+71	corte	_	_	_	_	_	_	_	_
+72	di	_	_	_	_	_	_	_	_
+73	giustizia	_	_	_	_	_	_	_	_
+74	europea	_	_	_	_	_	_	_	_
+75	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1898
+# text = Unico punto degno di nota, il desiderio di lasciarle "il secondo mio letto migliore", un lascito che ha dato adito a non poche speculazioni.
+1	Unico	_	_	_	_	_	_	_	_
+2	punto	_	_	_	_	_	_	_	_
+3	degno	_	_	_	_	_	_	_	_
+4	di	_	_	_	_	_	_	_	_
+5	nota	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	il	_	_	_	_	_	_	_	_
+8	desiderio	_	_	_	_	_	_	_	_
+9	di	_	_	_	_	_	_	_	_
+10	lasciar	_	_	_	_	_	_	_	_
+11	le	_	_	_	_	_	_	_	_
+12	"	_	_	_	_	_	_	_	_
+13	il	_	_	_	_	_	_	_	_
+14	secondo	_	_	_	_	_	_	_	_
+15	mio	_	_	_	_	_	_	_	_
+16	letto	_	_	_	_	_	_	_	_
+17	migliore	_	_	_	_	_	_	_	_
+18	"	_	_	_	_	_	_	_	_
+19	,	_	_	_	_	_	_	_	_
+20	un	_	_	_	_	_	_	_	_
+21	lascito	_	_	_	_	_	_	_	_
+22	che	_	_	_	_	_	_	_	_
+23	ha	_	_	_	_	_	_	_	_
+24	dato	_	_	_	_	_	_	_	_
+25	adito	_	_	_	_	_	_	_	_
+26	a	_	_	_	_	_	_	_	_
+27	non	_	_	_	_	_	_	_	_
+28	poche	_	_	_	_	_	_	_	_
+29	speculazioni	_	_	_	_	_	_	_	_
+30	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-689
+# text = per il 2005 sono previste altre 18 azioni, promosse dagli stati membri e dalla commissione.
+1	per	_	_	_	_	_	_	_	_
+2	il	_	_	_	_	_	_	_	_
+3	2005	_	_	_	_	_	_	_	_
+4	sono	_	_	_	_	_	_	_	_
+5	previste	_	_	_	_	_	_	_	_
+6	altre	_	_	_	_	_	_	_	_
+7	18	_	_	_	_	_	_	_	_
+8	azioni	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	promosse	_	_	_	_	_	_	_	_
+11	da	_	_	_	_	_	_	_	_
+12	gli	_	_	_	_	_	_	_	_
+13	stati	_	_	_	_	_	_	_	_
+14	membri	_	_	_	_	_	_	_	_
+15	e	_	_	_	_	_	_	_	_
+16	da	_	_	_	_	_	_	_	_
+17	la	_	_	_	_	_	_	_	_
+18	commissione	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-752
+# text = Ogni individuo ha diritto alla vita, alla libertà ed alla sicurezza della propria persona.
+1	Ogni	_	_	_	_	_	_	_	_
+2	individuo	_	_	_	_	_	_	_	_
+3	ha	_	_	_	_	_	_	_	_
+4	diritto	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	la	_	_	_	_	_	_	_	_
+7	vita	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	la	_	_	_	_	_	_	_	_
+11	libertà	_	_	_	_	_	_	_	_
+12	ed	_	_	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	la	_	_	_	_	_	_	_	_
+15	sicurezza	_	_	_	_	_	_	_	_
+16	di	_	_	_	_	_	_	_	_
+17	la	_	_	_	_	_	_	_	_
+18	propria	_	_	_	_	_	_	_	_
+19	persona	_	_	_	_	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1283
+# text = Ma come possiamo confrontare queste innovazioni con quelle come il laser, il transistor, la macchina di Turing e la mappatura del genoma umano, che hanno portato tutte un'ondata di prodotti rivoluzionari?
+1	Ma	_	_	_	_	_	_	_	_
+2	come	_	_	_	_	_	_	_	_
+3	possiamo	_	_	_	_	_	_	_	_
+4	confrontare	_	_	_	_	_	_	_	_
+5	queste	_	_	_	_	_	_	_	_
+6	innovazioni	_	_	_	_	_	_	_	_
+7	con	_	_	_	_	_	_	_	_
+8	quelle	_	_	_	_	_	_	_	_
+9	come	_	_	_	_	_	_	_	_
+10	il	_	_	_	_	_	_	_	_
+11	laser	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	il	_	_	_	_	_	_	_	_
+14	transistor	_	_	_	_	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	la	_	_	_	_	_	_	_	_
+17	macchina	_	_	_	_	_	_	_	_
+18	di	_	_	_	_	_	_	_	_
+19	Turing	_	_	_	_	_	_	_	_
+20	e	_	_	_	_	_	_	_	_
+21	la	_	_	_	_	_	_	_	_
+22	mappatura	_	_	_	_	_	_	_	_
+23	di	_	_	_	_	_	_	_	_
+24	il	_	_	_	_	_	_	_	_
+25	genoma	_	_	_	_	_	_	_	_
+26	umano	_	_	_	_	_	_	_	_
+27	,	_	_	_	_	_	_	_	_
+28	che	_	_	_	_	_	_	_	_
+29	hanno	_	_	_	_	_	_	_	_
+30	portato	_	_	_	_	_	_	_	_
+31	tutte	_	_	_	_	_	_	_	_
+32	un'	_	_	_	_	_	_	_	_
+33	ondata	_	_	_	_	_	_	_	_
+34	di	_	_	_	_	_	_	_	_
+35	prodotti	_	_	_	_	_	_	_	_
+36	rivoluzionari	_	_	_	_	_	_	_	_
+37	?	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1673
+# text = "Splendeurs et miséres des courtisanes" (Splendori e miserie delle cortigiane, 1847), è il prosieguo della storia di Lucien.
+1	"	_	_	_	_	_	_	_	_
+2	Splendeurs	_	_	_	_	_	_	_	_
+3	et	_	_	_	_	_	_	_	_
+4	miséres	_	_	_	_	_	_	_	_
+5	des	_	_	_	_	_	_	_	_
+6	courtisanes	_	_	_	_	_	_	_	_
+7	"	_	_	_	_	_	_	_	_
+8	(	_	_	_	_	_	_	_	_
+9	Splendori	_	_	_	_	_	_	_	_
+10	e	_	_	_	_	_	_	_	_
+11	miserie	_	_	_	_	_	_	_	_
+12	di	_	_	_	_	_	_	_	_
+13	le	_	_	_	_	_	_	_	_
+14	cortigiane	_	_	_	_	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	1847	_	_	_	_	_	_	_	_
+17	)	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	è	_	_	_	_	_	_	_	_
+20	il	_	_	_	_	_	_	_	_
+21	prosieguo	_	_	_	_	_	_	_	_
+22	di	_	_	_	_	_	_	_	_
+23	la	_	_	_	_	_	_	_	_
+24	storia	_	_	_	_	_	_	_	_
+25	di	_	_	_	_	_	_	_	_
+26	Lucien	_	_	_	_	_	_	_	_
+27	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-144
+# text = La ringrazio, onorevole Poettering.
+1	La	_	_	_	_	_	_	_	_
+2	ringrazio	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	onorevole	_	_	_	_	_	_	_	_
+5	Poettering	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-920
+# text = Sbriciola le rocce ed è il primo passo nella formazione del suolo.
+1	Sbriciola	_	_	_	_	_	_	_	_
+2	le	_	_	_	_	_	_	_	_
+3	rocce	_	_	_	_	_	_	_	_
+4	ed	_	_	_	_	_	_	_	_
+5	è	_	_	_	_	_	_	_	_
+6	il	_	_	_	_	_	_	_	_
+7	primo	_	_	_	_	_	_	_	_
+8	passo	_	_	_	_	_	_	_	_
+9	in	_	_	_	_	_	_	_	_
+10	la	_	_	_	_	_	_	_	_
+11	formazione	_	_	_	_	_	_	_	_
+12	di	_	_	_	_	_	_	_	_
+13	il	_	_	_	_	_	_	_	_
+14	suolo	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-737
+# text = Assemblea generale delle Nazioni Unite.
+1	Assemblea	_	_	_	_	_	_	_	_
+2	generale	_	_	_	_	_	_	_	_
+3	di	_	_	_	_	_	_	_	_
+4	le	_	_	_	_	_	_	_	_
+5	Nazioni	_	_	_	_	_	_	_	_
+6	Unite	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1467
+# text = Ma il benessere della democrazia ucraina non è quello che ha in mente Putin;
+1	Ma	_	_	_	_	_	_	_	_
+2	il	_	_	_	_	_	_	_	_
+3	benessere	_	_	_	_	_	_	_	_
+4	di	_	_	_	_	_	_	_	_
+5	la	_	_	_	_	_	_	_	_
+6	democrazia	_	_	_	_	_	_	_	_
+7	ucraina	_	_	_	_	_	_	_	_
+8	non	_	_	_	_	_	_	_	_
+9	è	_	_	_	_	_	_	_	_
+10	quello	_	_	_	_	_	_	_	_
+11	che	_	_	_	_	_	_	_	_
+12	ha	_	_	_	_	_	_	_	_
+13	in	_	_	_	_	_	_	_	_
+14	mente	_	_	_	_	_	_	_	_
+15	Putin	_	_	_	_	_	_	_	_
+16	;	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-419
+# text = Ciò, tuttavia, da isolano quale sono tengo a denunciare la scarsa attenzione prestata alla problematica dello sviluppo insulare.
+1	Ciò	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	tuttavia	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	da	_	_	_	_	_	_	_	_
+6	isolano	_	_	_	_	_	_	_	_
+7	quale	_	_	_	_	_	_	_	_
+8	sono	_	_	_	_	_	_	_	_
+9	tengo	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	denunciare	_	_	_	_	_	_	_	_
+12	la	_	_	_	_	_	_	_	_
+13	scarsa	_	_	_	_	_	_	_	_
+14	attenzione	_	_	_	_	_	_	_	_
+15	prestata	_	_	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	la	_	_	_	_	_	_	_	_
+18	problematica	_	_	_	_	_	_	_	_
+19	di	_	_	_	_	_	_	_	_
+20	lo	_	_	_	_	_	_	_	_
+21	sviluppo	_	_	_	_	_	_	_	_
+22	insulare	_	_	_	_	_	_	_	_
+23	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1152
+# text = Nella considerevole trasformazione delle economie dell'Europa centrale avvenuta negli anni 90, l'esperienza nella gestione e l'accesso ai mercati erano il risultato dei massicci investimenti delle aziende tedesche ed europee, che integravano i produttori locali nelle catene di distribuzione globali.
+1	In	_	_	_	_	_	_	_	_
+2	la	_	_	_	_	_	_	_	_
+3	considerevole	_	_	_	_	_	_	_	_
+4	trasformazione	_	_	_	_	_	_	_	_
+5	di	_	_	_	_	_	_	_	_
+6	le	_	_	_	_	_	_	_	_
+7	economie	_	_	_	_	_	_	_	_
+8	di	_	_	_	_	_	_	_	_
+9	l'	_	_	_	_	_	_	_	_
+10	Europa	_	_	_	_	_	_	_	_
+11	centrale	_	_	_	_	_	_	_	_
+12	avvenuta	_	_	_	_	_	_	_	_
+13	in	_	_	_	_	_	_	_	_
+14	gli	_	_	_	_	_	_	_	_
+15	anni	_	_	_	_	_	_	_	_
+16	90	_	_	_	_	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	l'	_	_	_	_	_	_	_	_
+19	esperienza	_	_	_	_	_	_	_	_
+20	in	_	_	_	_	_	_	_	_
+21	la	_	_	_	_	_	_	_	_
+22	gestione	_	_	_	_	_	_	_	_
+23	e	_	_	_	_	_	_	_	_
+24	l'	_	_	_	_	_	_	_	_
+25	accesso	_	_	_	_	_	_	_	_
+26	a	_	_	_	_	_	_	_	_
+27	i	_	_	_	_	_	_	_	_
+28	mercati	_	_	_	_	_	_	_	_
+29	erano	_	_	_	_	_	_	_	_
+30	il	_	_	_	_	_	_	_	_
+31	risultato	_	_	_	_	_	_	_	_
+32	di	_	_	_	_	_	_	_	_
+33	i	_	_	_	_	_	_	_	_
+34	massicci	_	_	_	_	_	_	_	_
+35	investimenti	_	_	_	_	_	_	_	_
+36	di	_	_	_	_	_	_	_	_
+37	le	_	_	_	_	_	_	_	_
+38	aziende	_	_	_	_	_	_	_	_
+39	tedesche	_	_	_	_	_	_	_	_
+40	ed	_	_	_	_	_	_	_	_
+41	europee	_	_	_	_	_	_	_	_
+42	,	_	_	_	_	_	_	_	_
+43	che	_	_	_	_	_	_	_	_
+44	integravano	_	_	_	_	_	_	_	_
+45	i	_	_	_	_	_	_	_	_
+46	produttori	_	_	_	_	_	_	_	_
+47	locali	_	_	_	_	_	_	_	_
+48	in	_	_	_	_	_	_	_	_
+49	le	_	_	_	_	_	_	_	_
+50	catene	_	_	_	_	_	_	_	_
+51	di	_	_	_	_	_	_	_	_
+52	distribuzione	_	_	_	_	_	_	_	_
+53	globali	_	_	_	_	_	_	_	_
+54	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-985
+# text = Esse possono tuttavia essere applicate oltre il periodo specificato nel primo comma finché tali carenze persistono.
+1	Esse	_	_	_	_	_	_	_	_
+2	possono	_	_	_	_	_	_	_	_
+3	tuttavia	_	_	_	_	_	_	_	_
+4	essere	_	_	_	_	_	_	_	_
+5	applicate	_	_	_	_	_	_	_	_
+6	oltre	_	_	_	_	_	_	_	_
+7	il	_	_	_	_	_	_	_	_
+8	periodo	_	_	_	_	_	_	_	_
+9	specificato	_	_	_	_	_	_	_	_
+10	in	_	_	_	_	_	_	_	_
+11	il	_	_	_	_	_	_	_	_
+12	primo	_	_	_	_	_	_	_	_
+13	comma	_	_	_	_	_	_	_	_
+14	finché	_	_	_	_	_	_	_	_
+15	tali	_	_	_	_	_	_	_	_
+16	carenze	_	_	_	_	_	_	_	_
+17	persistono	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-59
+# text = In nessun caso i termini e le disposizioni di cui alla presente licenza possono essere considerati rinunciati, né alcuna violazione può essere considerata consentita, salvo che tale rinuncia o consenso risultino per iscritto da una dichiarazione firmata dalla parte contro cui operi tale rinuncia o consenso.
+1	In	_	_	_	_	_	_	_	_
+2	nessun	_	_	_	_	_	_	_	_
+3	caso	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	termini	_	_	_	_	_	_	_	_
+6	e	_	_	_	_	_	_	_	_
+7	le	_	_	_	_	_	_	_	_
+8	disposizioni	_	_	_	_	_	_	_	_
+9	di	_	_	_	_	_	_	_	_
+10	cui	_	_	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	la	_	_	_	_	_	_	_	_
+13	presente	_	_	_	_	_	_	_	_
+14	licenza	_	_	_	_	_	_	_	_
+15	possono	_	_	_	_	_	_	_	_
+16	essere	_	_	_	_	_	_	_	_
+17	considerati	_	_	_	_	_	_	_	_
+18	rinunciati	_	_	_	_	_	_	_	_
+19	,	_	_	_	_	_	_	_	_
+20	né	_	_	_	_	_	_	_	_
+21	alcuna	_	_	_	_	_	_	_	_
+22	violazione	_	_	_	_	_	_	_	_
+23	può	_	_	_	_	_	_	_	_
+24	essere	_	_	_	_	_	_	_	_
+25	considerata	_	_	_	_	_	_	_	_
+26	consentita	_	_	_	_	_	_	_	_
+27	,	_	_	_	_	_	_	_	_
+28	salvo	_	_	_	_	_	_	_	_
+29	che	_	_	_	_	_	_	_	_
+30	tale	_	_	_	_	_	_	_	_
+31	rinuncia	_	_	_	_	_	_	_	_
+32	o	_	_	_	_	_	_	_	_
+33	consenso	_	_	_	_	_	_	_	_
+34	risultino	_	_	_	_	_	_	_	_
+35	per	_	_	_	_	_	_	_	_
+36	iscritto	_	_	_	_	_	_	_	_
+37	da	_	_	_	_	_	_	_	_
+38	una	_	_	_	_	_	_	_	_
+39	dichiarazione	_	_	_	_	_	_	_	_
+40	firmata	_	_	_	_	_	_	_	_
+41	da	_	_	_	_	_	_	_	_
+42	la	_	_	_	_	_	_	_	_
+43	parte	_	_	_	_	_	_	_	_
+44	contro	_	_	_	_	_	_	_	_
+45	cui	_	_	_	_	_	_	_	_
+46	operi	_	_	_	_	_	_	_	_
+47	tale	_	_	_	_	_	_	_	_
+48	rinuncia	_	_	_	_	_	_	_	_
+49	o	_	_	_	_	_	_	_	_
+50	consenso	_	_	_	_	_	_	_	_
+51	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1391
+# text = La crisi ucraina può rivelarsi un'occasione, anche se al momento non molto probabile - il che potrebbe andar bene, se una delle conseguenze indesiderate non fosse la concessione di un prestito al paese più grande di quello effettivamente necessario.
+1	La	_	_	_	_	_	_	_	_
+2	crisi	_	_	_	_	_	_	_	_
+3	ucraina	_	_	_	_	_	_	_	_
+4	può	_	_	_	_	_	_	_	_
+5	rivelar	_	_	_	_	_	_	_	_
+6	si	_	_	_	_	_	_	_	_
+7	un'	_	_	_	_	_	_	_	_
+8	occasione	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	anche	_	_	_	_	_	_	_	_
+11	se	_	_	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	il	_	_	_	_	_	_	_	_
+14	momento	_	_	_	_	_	_	_	_
+15	non	_	_	_	_	_	_	_	_
+16	molto	_	_	_	_	_	_	_	_
+17	probabile	_	_	_	_	_	_	_	_
+18	-	_	_	_	_	_	_	_	_
+19	il	_	_	_	_	_	_	_	_
+20	che	_	_	_	_	_	_	_	_
+21	potrebbe	_	_	_	_	_	_	_	_
+22	andar	_	_	_	_	_	_	_	_
+23	bene	_	_	_	_	_	_	_	_
+24	,	_	_	_	_	_	_	_	_
+25	se	_	_	_	_	_	_	_	_
+26	una	_	_	_	_	_	_	_	_
+27	di	_	_	_	_	_	_	_	_
+28	le	_	_	_	_	_	_	_	_
+29	conseguenze	_	_	_	_	_	_	_	_
+30	indesiderate	_	_	_	_	_	_	_	_
+31	non	_	_	_	_	_	_	_	_
+32	fosse	_	_	_	_	_	_	_	_
+33	la	_	_	_	_	_	_	_	_
+34	concessione	_	_	_	_	_	_	_	_
+35	di	_	_	_	_	_	_	_	_
+36	un	_	_	_	_	_	_	_	_
+37	prestito	_	_	_	_	_	_	_	_
+38	a	_	_	_	_	_	_	_	_
+39	il	_	_	_	_	_	_	_	_
+40	paese	_	_	_	_	_	_	_	_
+41	più	_	_	_	_	_	_	_	_
+42	grande	_	_	_	_	_	_	_	_
+43	di	_	_	_	_	_	_	_	_
+44	quello	_	_	_	_	_	_	_	_
+45	effettivamente	_	_	_	_	_	_	_	_
+46	necessario	_	_	_	_	_	_	_	_
+47	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1724
+# text = "Oggi", disse Hugo alla cerimonia, "siamo vestiti di nero perché è morto un uomo di talento;
+1	"	_	_	_	_	_	_	_	_
+2	Oggi	_	_	_	_	_	_	_	_
+3	"	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	disse	_	_	_	_	_	_	_	_
+6	Hugo	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	la	_	_	_	_	_	_	_	_
+9	cerimonia	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	"	_	_	_	_	_	_	_	_
+12	siamo	_	_	_	_	_	_	_	_
+13	vestiti	_	_	_	_	_	_	_	_
+14	di	_	_	_	_	_	_	_	_
+15	nero	_	_	_	_	_	_	_	_
+16	perché	_	_	_	_	_	_	_	_
+17	è	_	_	_	_	_	_	_	_
+18	morto	_	_	_	_	_	_	_	_
+19	un	_	_	_	_	_	_	_	_
+20	uomo	_	_	_	_	_	_	_	_
+21	di	_	_	_	_	_	_	_	_
+22	talento	_	_	_	_	_	_	_	_
+23	;	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1444
+# text = Dopotutto, in un mondo fatto di agricoltori, artigiani utili, aristocratici dissoluti e di lacchè, la domanda per i prodotti manifatturieri e per i lacchè era limitata dall'utilizzo che ne facevano gli aristocratici.
+1	Dopotutto	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	in	_	_	_	_	_	_	_	_
+4	un	_	_	_	_	_	_	_	_
+5	mondo	_	_	_	_	_	_	_	_
+6	fatto	_	_	_	_	_	_	_	_
+7	di	_	_	_	_	_	_	_	_
+8	agricoltori	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	artigiani	_	_	_	_	_	_	_	_
+11	utili	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	aristocratici	_	_	_	_	_	_	_	_
+14	dissoluti	_	_	_	_	_	_	_	_
+15	e	_	_	_	_	_	_	_	_
+16	di	_	_	_	_	_	_	_	_
+17	lacchè	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	la	_	_	_	_	_	_	_	_
+20	domanda	_	_	_	_	_	_	_	_
+21	per	_	_	_	_	_	_	_	_
+22	i	_	_	_	_	_	_	_	_
+23	prodotti	_	_	_	_	_	_	_	_
+24	manifatturieri	_	_	_	_	_	_	_	_
+25	e	_	_	_	_	_	_	_	_
+26	per	_	_	_	_	_	_	_	_
+27	i	_	_	_	_	_	_	_	_
+28	lacchè	_	_	_	_	_	_	_	_
+29	era	_	_	_	_	_	_	_	_
+30	limitata	_	_	_	_	_	_	_	_
+31	da	_	_	_	_	_	_	_	_
+32	l'	_	_	_	_	_	_	_	_
+33	utilizzo	_	_	_	_	_	_	_	_
+34	che	_	_	_	_	_	_	_	_
+35	ne	_	_	_	_	_	_	_	_
+36	facevano	_	_	_	_	_	_	_	_
+37	gli	_	_	_	_	_	_	_	_
+38	aristocratici	_	_	_	_	_	_	_	_
+39	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1732
+# text = "L'uomo evanescente", scrive Pritchett, "che deve essere seguito dalla Rue Cassini a ... Versailles, a ville d'Avray, in Italia e a Vienna può costruire una dimora stabile solo nella sua opera.
+1	"	_	_	_	_	_	_	_	_
+2	L'	_	_	_	_	_	_	_	_
+3	uomo	_	_	_	_	_	_	_	_
+4	evanescente	_	_	_	_	_	_	_	_
+5	"	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	scrive	_	_	_	_	_	_	_	_
+8	Pritchett	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	"	_	_	_	_	_	_	_	_
+11	che	_	_	_	_	_	_	_	_
+12	deve	_	_	_	_	_	_	_	_
+13	essere	_	_	_	_	_	_	_	_
+14	seguito	_	_	_	_	_	_	_	_
+15	da	_	_	_	_	_	_	_	_
+16	la	_	_	_	_	_	_	_	_
+17	Rue	_	_	_	_	_	_	_	_
+18	Cassini	_	_	_	_	_	_	_	_
+19	a	_	_	_	_	_	_	_	_
+20	...	_	_	_	_	_	_	_	_
+21	Versailles	_	_	_	_	_	_	_	_
+22	,	_	_	_	_	_	_	_	_
+23	a	_	_	_	_	_	_	_	_
+24	ville	_	_	_	_	_	_	_	_
+25	d'	_	_	_	_	_	_	_	_
+26	Avray	_	_	_	_	_	_	_	_
+27	,	_	_	_	_	_	_	_	_
+28	in	_	_	_	_	_	_	_	_
+29	Italia	_	_	_	_	_	_	_	_
+30	e	_	_	_	_	_	_	_	_
+31	a	_	_	_	_	_	_	_	_
+32	Vienna	_	_	_	_	_	_	_	_
+33	può	_	_	_	_	_	_	_	_
+34	costruire	_	_	_	_	_	_	_	_
+35	una	_	_	_	_	_	_	_	_
+36	dimora	_	_	_	_	_	_	_	_
+37	stabile	_	_	_	_	_	_	_	_
+38	solo	_	_	_	_	_	_	_	_
+39	in	_	_	_	_	_	_	_	_
+40	la	_	_	_	_	_	_	_	_
+41	sua	_	_	_	_	_	_	_	_
+42	opera	_	_	_	_	_	_	_	_
+43	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-564
+# text = Per maggiori informazioni sul pulsante "ricevi gli aggiornamenti", consulta il centro assistenza.
+1	Per	_	_	_	_	_	_	_	_
+2	maggiori	_	_	_	_	_	_	_	_
+3	informazioni	_	_	_	_	_	_	_	_
+4	su	_	_	_	_	_	_	_	_
+5	il	_	_	_	_	_	_	_	_
+6	pulsante	_	_	_	_	_	_	_	_
+7	"	_	_	_	_	_	_	_	_
+8	ricevi	_	_	_	_	_	_	_	_
+9	gli	_	_	_	_	_	_	_	_
+10	aggiornamenti	_	_	_	_	_	_	_	_
+11	"	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	consulta	_	_	_	_	_	_	_	_
+14	il	_	_	_	_	_	_	_	_
+15	centro	_	_	_	_	_	_	_	_
+16	assistenza	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1438
+# text = Quanti di noi possono essere assunti nel settore dei servizi personali e come si possono pagare stipendi elevati per queste occupazioni (in termini assoluti)?
+1	Quanti	_	_	_	_	_	_	_	_
+2	di	_	_	_	_	_	_	_	_
+3	noi	_	_	_	_	_	_	_	_
+4	possono	_	_	_	_	_	_	_	_
+5	essere	_	_	_	_	_	_	_	_
+6	assunti	_	_	_	_	_	_	_	_
+7	in	_	_	_	_	_	_	_	_
+8	il	_	_	_	_	_	_	_	_
+9	settore	_	_	_	_	_	_	_	_
+10	di	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	servizi	_	_	_	_	_	_	_	_
+13	personali	_	_	_	_	_	_	_	_
+14	e	_	_	_	_	_	_	_	_
+15	come	_	_	_	_	_	_	_	_
+16	si	_	_	_	_	_	_	_	_
+17	possono	_	_	_	_	_	_	_	_
+18	pagare	_	_	_	_	_	_	_	_
+19	stipendi	_	_	_	_	_	_	_	_
+20	elevati	_	_	_	_	_	_	_	_
+21	per	_	_	_	_	_	_	_	_
+22	queste	_	_	_	_	_	_	_	_
+23	occupazioni	_	_	_	_	_	_	_	_
+24	(	_	_	_	_	_	_	_	_
+25	in	_	_	_	_	_	_	_	_
+26	termini	_	_	_	_	_	_	_	_
+27	assoluti	_	_	_	_	_	_	_	_
+28	)	_	_	_	_	_	_	_	_
+29	?	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-213
+# text = Infine, l'emendamento proposto dal relatore è più che logico e pertanto può contare su tutto il mio appoggio.
+1	Infine	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	l'	_	_	_	_	_	_	_	_
+4	emendamento	_	_	_	_	_	_	_	_
+5	proposto	_	_	_	_	_	_	_	_
+6	da	_	_	_	_	_	_	_	_
+7	il	_	_	_	_	_	_	_	_
+8	relatore	_	_	_	_	_	_	_	_
+9	è	_	_	_	_	_	_	_	_
+10	più	_	_	_	_	_	_	_	_
+11	che	_	_	_	_	_	_	_	_
+12	logico	_	_	_	_	_	_	_	_
+13	e	_	_	_	_	_	_	_	_
+14	pertanto	_	_	_	_	_	_	_	_
+15	può	_	_	_	_	_	_	_	_
+16	contare	_	_	_	_	_	_	_	_
+17	su	_	_	_	_	_	_	_	_
+18	tutto	_	_	_	_	_	_	_	_
+19	il	_	_	_	_	_	_	_	_
+20	mio	_	_	_	_	_	_	_	_
+21	appoggio	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-814
+# text = Ci siamo passati tutti.
+1	Ci	_	_	_	_	_	_	_	_
+2	siamo	_	_	_	_	_	_	_	_
+3	passati	_	_	_	_	_	_	_	_
+4	tutti	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-1690
+# text = Se da un lato alcuni dei suoi libri non hanno mai raggiunto uno stato finale, alcuni di questi - come Les employés (Gli Impiegati, 1841) - sono tuttavia considerati dai critici.
+1	Se	_	_	_	_	_	_	_	_
+2	da	_	_	_	_	_	_	_	_
+3	un	_	_	_	_	_	_	_	_
+4	lato	_	_	_	_	_	_	_	_
+5	alcuni	_	_	_	_	_	_	_	_
+6	di	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	suoi	_	_	_	_	_	_	_	_
+9	libri	_	_	_	_	_	_	_	_
+10	non	_	_	_	_	_	_	_	_
+11	hanno	_	_	_	_	_	_	_	_
+12	mai	_	_	_	_	_	_	_	_
+13	raggiunto	_	_	_	_	_	_	_	_
+14	uno	_	_	_	_	_	_	_	_
+15	stato	_	_	_	_	_	_	_	_
+16	finale	_	_	_	_	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	alcuni	_	_	_	_	_	_	_	_
+19	di	_	_	_	_	_	_	_	_
+20	questi	_	_	_	_	_	_	_	_
+21	-	_	_	_	_	_	_	_	_
+22	come	_	_	_	_	_	_	_	_
+23	Les	_	_	_	_	_	_	_	_
+24	employés	_	_	_	_	_	_	_	_
+25	(	_	_	_	_	_	_	_	_
+26	Gli	_	_	_	_	_	_	_	_
+27	Impiegati	_	_	_	_	_	_	_	_
+28	,	_	_	_	_	_	_	_	_
+29	1841	_	_	_	_	_	_	_	_
+30	)	_	_	_	_	_	_	_	_
+31	-	_	_	_	_	_	_	_	_
+32	sono	_	_	_	_	_	_	_	_
+33	tuttavia	_	_	_	_	_	_	_	_
+34	considerati	_	_	_	_	_	_	_	_
+35	da	_	_	_	_	_	_	_	_
+36	i	_	_	_	_	_	_	_	_
+37	critici	_	_	_	_	_	_	_	_
+38	.	_	_	_	_	_	_	_	_
+
+# sent_id = it_partut-ud-412
+# text = Infine, sebbene a partire dal Fondo europeo di sviluppo regionale e dal Fondo di coesione siano stati finanziati progetti infrastrutturali essenziali, non dovremmo dimenticare che il Fondo sociale europeo ha svolto un ruolo importantissimo nell'assistere i meno abbienti nella nostra società.
+1	Infine	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	sebbene	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	partire	_	_	_	_	_	_	_	_
+6	da	_	_	_	_	_	_	_	_
+7	il	_	_	_	_	_	_	_	_
+8	Fondo	_	_	_	_	_	_	_	_
+9	europeo	_	_	_	_	_	_	_	_
+10	di	_	_	_	_	_	_	_	_
+11	sviluppo	_	_	_	_	_	_	_	_
+12	regionale	_	_	_	_	_	_	_	_
+13	e	_	_	_	_	_	_	_	_
+14	da	_	_	_	_	_	_	_	_
+15	il	_	_	_	_	_	_	_	_
+16	Fondo	_	_	_	_	_	_	_	_
+17	di	_	_	_	_	_	_	_	_
+18	coesione	_	_	_	_	_	_	_	_
+19	siano	_	_	_	_	_	_	_	_
+20	stati	_	_	_	_	_	_	_	_
+21	finanziati	_	_	_	_	_	_	_	_
+22	progetti	_	_	_	_	_	_	_	_
+23	infrastrutturali	_	_	_	_	_	_	_	_
+24	essenziali	_	_	_	_	_	_	_	_
+25	,	_	_	_	_	_	_	_	_
+26	non	_	_	_	_	_	_	_	_
+27	dovremmo	_	_	_	_	_	_	_	_
+28	dimenticare	_	_	_	_	_	_	_	_
+29	che	_	_	_	_	_	_	_	_
+30	il	_	_	_	_	_	_	_	_
+31	Fondo	_	_	_	_	_	_	_	_
+32	sociale	_	_	_	_	_	_	_	_
+33	europeo	_	_	_	_	_	_	_	_
+34	ha	_	_	_	_	_	_	_	_
+35	svolto	_	_	_	_	_	_	_	_
+36	un	_	_	_	_	_	_	_	_
+37	ruolo	_	_	_	_	_	_	_	_
+38	importantissimo	_	_	_	_	_	_	_	_
+39	in	_	_	_	_	_	_	_	_
+40	l'	_	_	_	_	_	_	_	_
+41	assistere	_	_	_	_	_	_	_	_
+42	i	_	_	_	_	_	_	_	_
+43	meno	_	_	_	_	_	_	_	_
+44	abbienti	_	_	_	_	_	_	_	_
+45	in	_	_	_	_	_	_	_	_
+46	la	_	_	_	_	_	_	_	_
+47	nostra	_	_	_	_	_	_	_	_
+48	società	_	_	_	_	_	_	_	_
+49	.	_	_	_	_	_	_	_	_
+

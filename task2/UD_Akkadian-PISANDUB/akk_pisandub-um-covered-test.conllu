@@ -1,0 +1,244 @@
+# sent_id = babylon8_Cyrus_II_03_01
+# text = m-ku-raš LUGAL KUR-KUR ra-ʾi-im é-sag-íl u é-zi-da A m-kam-bu-zi-ia MAN dan-nu a-na-ku
+# text_eng = Cyrus II, king of the lands, the one who loves Esagil and Ezida, the son of Cambyses I, strong king, I.
+1	m-ku-raš	_	_	_	_	_	_	_	_
+2	LUGAL	_	_	_	_	_	_	_	_
+3	KUR-KUR	_	_	_	_	_	_	_	_
+4	ra-ʾi-im	_	_	_	_	_	_	_	_
+5	é-sag-íl	_	_	_	_	_	_	_	_
+6	u	_	_	_	_	_	_	_	_
+7	é-zi-da	_	_	_	_	_	_	_	_
+8	A	_	_	_	_	_	_	_	_
+9	m-kam-bu-zi-ia	_	_	_	_	_	_	_	_
+10	MAN	_	_	_	_	_	_	_	_
+11	dan-nu	_	_	_	_	_	_	_	_
+12	a-na-ku	_	_	_	_	_	_	_	_
+
+# sent_id = babylon8_Cyrus_II_01_2d
+# text = ⸢UN⸣-MEŠ -šú i-na ab-ša-a-ni la ta-ap-šu-úḫ-tim ú-ḫal-li-iq
+# text_en =  His [pe]ople, he brought ruin on all of them with an unrelenting yoke.
+1	⸢UN⸣-MEŠ	_	_	_	_	_	_	_	_
+2	-šú	_	_	_	_	_	_	_	_
+3	i-na	_	_	_	_	_	_	_	_
+4	ab-ša-a-ni	_	_	_	_	_	_	_	_
+5	la	_	_	_	_	_	_	_	_
+6	ta-ap-šu-úḫ-tim	_	_	_	_	_	_	_	_
+7	ú-ḫal-li-iq	_	_	_	_	_	_	_	_
+
+# sent_id = babylon8_Cyrus_II_01_4d
+# text = d-AMAR-UTU EN GAL ta-ru-ú UN-MEŠ -šú ep-še-e-ti -ša dam-qa-a-ta ù lìb-ba -šu i-ša-ra ḫa-di-iš ip-pa-li-⸢is⸣
+# text_en = The god Marduk, the great lord, the one who nurtures his people, look[ed] with pleasure upon his good deeds and righteous heart.
+1	d-AMAR-UTU	_	_	_	_	_	_	_	_
+2	EN	_	_	_	_	_	_	_	_
+3	GAL	_	_	_	_	_	_	_	_
+4	ta-ru-ú	_	_	_	_	_	_	_	_
+5	UN-MEŠ	_	_	_	_	_	_	_	_
+6	-šú	_	_	_	_	_	_	_	_
+7	ep-še-e-ti	_	_	_	_	_	_	_	_
+8	-ša	_	_	_	_	_	_	_	_
+9	dam-qa-a-ta	_	_	_	_	_	_	_	_
+10	ù	_	_	_	_	_	_	_	_
+11	lìb-ba	_	_	_	_	_	_	_	_
+12	-šu	_	_	_	_	_	_	_	_
+13	i-ša-ra	_	_	_	_	_	_	_	_
+14	ḫa-di-iš	_	_	_	_	_	_	_	_
+15	ip-pa-li-⸢is⸣	_	_	_	_	_	_	_	_
+
+# sent_id = babylon10_8
+# text = KUR-KUR-MEŠ TA ṣi-it d-UTU-ši a-di e-re-eb d-UTU-ši lik-šu-du ŠU-MIN -a-a man-da-at-ti -ši-nu lu-us-ni-iq -ma a-na šuk-lu-lu é-sag-íl ù é-zi-da lu-bi-il
+# text_en = May I conquer the lands from the rising to the setting of the sun; may my hands inventory their tribute and may I bring it to perfect Esagil and Ezida.
+1	KUR-KUR-MEŠ	_	_	_	_	_	_	_	_
+2	TA	_	_	_	_	_	_	_	_
+3	ṣi-it	_	_	_	_	_	_	_	_
+4	d-UTU-ši	_	_	_	_	_	_	_	_
+5	a-di	_	_	_	_	_	_	_	_
+6	e-re-eb	_	_	_	_	_	_	_	_
+7	d-UTU-ši	_	_	_	_	_	_	_	_
+8	lik-šu-du	_	_	_	_	_	_	_	_
+9	ŠU-MIN	_	_	_	_	_	_	_	_
+10	-a-a	_	_	_	_	_	_	_	_
+11	man-da-at-ti	_	_	_	_	_	_	_	_
+12	-ši-nu	_	_	_	_	_	_	_	_
+13	lu-us-ni-iq	_	_	_	_	_	_	_	_
+14	-ma	_	_	_	_	_	_	_	_
+15	a-na	_	_	_	_	_	_	_	_
+16	šuk-lu-lu	_	_	_	_	_	_	_	_
+17	é-sag-íl	_	_	_	_	_	_	_	_
+18	ù	_	_	_	_	_	_	_	_
+19	é-zi-da	_	_	_	_	_	_	_	_
+20	lu-bi-il	_	_	_	_	_	_	_	_
+
+# sent_id = babylon8_Cyrus_II_01_9b
+# text = ṣir-ti nap-ḫar LUGAL a-ši-ib BÁRA-MEŠ ša ka-li-iš kib-ra-a-ta iš-tu tam-tim e-li-tim a-di tam-tim šap-li-tim a-ši-ib ⸢na⸣-[gi-i né-su-tim] LUGAL-MEŠ KUR a-mur-ri-i a-ši-ib kuš-ta-ri ka-li -šú-un bi-lat -su-nu ka-bi-it-tim ú-bi-lu -nim -ma qé-er-ba šu-an-na-KI ú-na-áš-ši-qu še-pu -ú-a
+# text_en = All of the kings who sit on (royal) daises, from every quarter (of the world), from the Upper Sea to the Lower Sea, those who live in [remote] re[gions], (and) the kings of the land of Amurru who live in tents, everyone of them, brought their substantial tribute inside Šuanna (Babylon) (and) kissed my feet.
+1	ṣir-ti	_	_	_	_	_	_	_	_
+2	nap-ḫar	_	_	_	_	_	_	_	_
+3	LUGAL	_	_	_	_	_	_	_	_
+4	a-ši-ib	_	_	_	_	_	_	_	_
+5	BÁRA-MEŠ	_	_	_	_	_	_	_	_
+6	ša	_	_	_	_	_	_	_	_
+7	ka-li-iš	_	_	_	_	_	_	_	_
+8	kib-ra-a-ta	_	_	_	_	_	_	_	_
+9	iš-tu	_	_	_	_	_	_	_	_
+10	tam-tim	_	_	_	_	_	_	_	_
+11	e-li-tim	_	_	_	_	_	_	_	_
+12	a-di	_	_	_	_	_	_	_	_
+13	tam-tim	_	_	_	_	_	_	_	_
+14	šap-li-tim	_	_	_	_	_	_	_	_
+15	a-ši-ib	_	_	_	_	_	_	_	_
+16	⸢na⸣-[gi-i	_	_	_	_	_	_	_	_
+17	né-su-tim]	_	_	_	_	_	_	_	_
+18	LUGAL-MEŠ	_	_	_	_	_	_	_	_
+19	KUR	_	_	_	_	_	_	_	_
+20	a-mur-ri-i	_	_	_	_	_	_	_	_
+21	a-ši-ib	_	_	_	_	_	_	_	_
+22	kuš-ta-ri	_	_	_	_	_	_	_	_
+23	ka-li	_	_	_	_	_	_	_	_
+24	-šú-un	_	_	_	_	_	_	_	_
+25	bi-lat	_	_	_	_	_	_	_	_
+26	-su-nu	_	_	_	_	_	_	_	_
+27	ka-bi-it-tim	_	_	_	_	_	_	_	_
+28	ú-bi-lu	_	_	_	_	_	_	_	_
+29	-nim	_	_	_	_	_	_	_	_
+30	-ma	_	_	_	_	_	_	_	_
+31	qé-er-ba	_	_	_	_	_	_	_	_
+32	šu-an-na-KI	_	_	_	_	_	_	_	_
+33	ú-na-áš-ši-qu	_	_	_	_	_	_	_	_
+34	še-pu	_	_	_	_	_	_	_	_
+35	-ú-a	_	_	_	_	_	_	_	_
+
+# sent_id = babylon7_nabopolassar_03_02
+# text = i-nu-um i-na mé-eṣ-ḫe-ru-ti -ia DUMU la ma-am-ma-na-ma a-nu-ku-ma áš-rat d-AG ù d-AMAR-UTU EN -e-a áš-te-né-eʾ-e-a ka-a-a-nim šá ku-un-ni pa-ar-ṣi -šu-nu ù šu-ul-lu-mu ki-du-de-e -šu-nu i-ta-ma-a ka-ba-at-tim a-na kit-ti ù mi-ša-ri ba-ša-a uz-na -a-a
+1	i-nu-um	_	_	_	_	_	_	_	_
+2	i-na	_	_	_	_	_	_	_	_
+3	mé-eṣ-ḫe-ru-ti	_	_	_	_	_	_	_	_
+4	-ia	_	_	_	_	_	_	_	_
+5	DUMU	_	_	_	_	_	_	_	_
+6	la	_	_	_	_	_	_	_	_
+7	ma-am-ma-na-ma	_	_	_	_	_	_	_	_
+8	a-nu-ku-ma	_	_	_	_	_	_	_	_
+9	áš-rat	_	_	_	_	_	_	_	_
+10	d-AG	_	_	_	_	_	_	_	_
+11	ù	_	_	_	_	_	_	_	_
+12	d-AMAR-UTU	_	_	_	_	_	_	_	_
+13	EN	_	_	_	_	_	_	_	_
+14	-e-a	_	_	_	_	_	_	_	_
+15	áš-te-né-eʾ-e-a	_	_	_	_	_	_	_	_
+16	ka-a-a-nim	_	_	_	_	_	_	_	_
+17	šá	_	_	_	_	_	_	_	_
+18	ku-un-ni	_	_	_	_	_	_	_	_
+19	pa-ar-ṣi	_	_	_	_	_	_	_	_
+20	-šu-nu	_	_	_	_	_	_	_	_
+21	ù	_	_	_	_	_	_	_	_
+22	šu-ul-lu-mu	_	_	_	_	_	_	_	_
+23	ki-du-de-e	_	_	_	_	_	_	_	_
+24	-šu-nu	_	_	_	_	_	_	_	_
+25	i-ta-ma-a	_	_	_	_	_	_	_	_
+26	ka-ba-at-tim	_	_	_	_	_	_	_	_
+27	a-na	_	_	_	_	_	_	_	_
+28	kit-ti	_	_	_	_	_	_	_	_
+29	ù	_	_	_	_	_	_	_	_
+30	mi-ša-ri	_	_	_	_	_	_	_	_
+31	ba-ša-a	_	_	_	_	_	_	_	_
+32	uz-na	_	_	_	_	_	_	_	_
+33	-a-a	_	_	_	_	_	_	_	_
+
+# sent_id = babylon8_Cyrus_II_01_5a
+# text = a-na URU -šu KÁ-DINGIR-MEŠ-KI a-la-ak -šu iq-bi
+# text_en = He (Marduk) commanded that he (Cyrus) should march against his city, Babylon.
+1	a-na	_	_	_	_	_	_	_	_
+2	URU	_	_	_	_	_	_	_	_
+3	-šu	_	_	_	_	_	_	_	_
+4	KÁ-DINGIR-MEŠ-KI	_	_	_	_	_	_	_	_
+5	a-la-ak	_	_	_	_	_	_	_	_
+6	-šu	_	_	_	_	_	_	_	_
+7	iq-bi	_	_	_	_	_	_	_	_
+
+# sent_id = babylon7_amel-marduk_2_01
+# text = É-GAL LÚ-dAMAR-UTU LUGAL TIN-⸢TIR⸣-[KI] IBILA d-AG-ku-dúr-ri-ÙRU LUGAL TIN-⸢TIR⸣-[KI]
+1	É-GAL	_	_	_	_	_	_	_	_
+2	LÚ-dAMAR-UTU	_	_	_	_	_	_	_	_
+3	LUGAL	_	_	_	_	_	_	_	_
+4	TIN-⸢TIR⸣-[KI]	_	_	_	_	_	_	_	_
+5	IBILA	_	_	_	_	_	_	_	_
+6	d-AG-ku-dúr-ri-ÙRU	_	_	_	_	_	_	_	_
+7	LUGAL	_	_	_	_	_	_	_	_
+8	TIN-⸢TIR⸣-[KI]	_	_	_	_	_	_	_	_
+
+# sent_id = babylon8_Cyrus_II_01_3a
+# text = kul-lat -si-in a-na ta-zi-im-ti -ši-na D-EN-LÍL DINGIR-MEŠ ez-zi-iš i-gu-ug -⸢ma⸣ [xx] ki-su-úr -šu-un
+# text_en =  The Enlil of the gods became furiously angry at their complaints an[d ...] their territory.
+1	kul-lat	_	_	_	_	_	_	_	_
+2	-si-in	_	_	_	_	_	_	_	_
+3	a-na	_	_	_	_	_	_	_	_
+4	ta-zi-im-ti	_	_	_	_	_	_	_	_
+5	-ši-na	_	_	_	_	_	_	_	_
+6	D-EN-LÍL	_	_	_	_	_	_	_	_
+7	DINGIR-MEŠ	_	_	_	_	_	_	_	_
+8	ez-zi-iš	_	_	_	_	_	_	_	_
+9	i-gu-ug	_	_	_	_	_	_	_	_
+10	-⸢ma⸣	_	_	_	_	_	_	_	_
+11	[xx]	_	_	_	_	_	_	_	_
+12	ki-su-úr	_	_	_	_	_	_	_	_
+13	-šu-un	_	_	_	_	_	_	_	_
+
+# sent_id = babylon8_Cyrus_II_01_14
+# text = [xx GIŠ-IG-MEŠ GIŠ-EREN MAḪ]-MEŠ ta-aḫ-lu-up-tim ZABAR as-ku-up-pu ù nu-ku-⸢še⸣-[e pi-ti-iq e-ri-i e-ma KÁ-MEŠ] -⸢ši⸣-na [ú-ra-at-ti]
+# text_en =  [... tall doors of cedar] covered with bronze. [Wherever th]eir [gates were, I installed] thresholds and fittin[gs of cast copper].
+1	[xx	_	_	_	_	_	_	_	_
+2	GIŠ-IG-MEŠ	_	_	_	_	_	_	_	_
+3	GIŠ-EREN	_	_	_	_	_	_	_	_
+4	MAḪ]-MEŠ	_	_	_	_	_	_	_	_
+5	ta-aḫ-lu-up-tim	_	_	_	_	_	_	_	_
+6	ZABAR	_	_	_	_	_	_	_	_
+7	as-ku-up-pu	_	_	_	_	_	_	_	_
+8	ù	_	_	_	_	_	_	_	_
+9	nu-ku-⸢še⸣-[e	_	_	_	_	_	_	_	_
+10	pi-ti-iq	_	_	_	_	_	_	_	_
+11	e-ri-i	_	_	_	_	_	_	_	_
+12	e-ma	_	_	_	_	_	_	_	_
+13	KÁ-MEŠ]	_	_	_	_	_	_	_	_
+14	-⸢ši⸣-na	_	_	_	_	_	_	_	_
+15	[ú-ra-at-ti]	_	_	_	_	_	_	_	_
+
+# sent_id = babylon8_Cyrus_II_01_1a
+# text = [i-nu d-AMAR]-⸢UTU⸣ LUGAL kiš-šat AN-e u KI-tim x [xx šá ina] x-si-šú ú-nam-mu-[ú xx] x-ni-šú [xx ra-pa]-áš uz-nam xxx[xx ḫa-a-a-iṭ ki]-ib-ra-a-tim [xx ṣi-it] ⸢lìb-bi -šu⸣ GAL ma-ṭu-ú iš-šak-na a-na e-nu-tu ma-ti -šú x[xx] ⸢tam-ši⸣-li ú-ša-áš-ki-na ṣe-ru -šu-un
+# text_en =  [When the god Mard]uk, the king of all of heaven and earth, [... who] lays to waste his [...] ... [through] his ..., [... bro]ad in intelligence, ... [..., the one who inspects the (four) qu]arters (of the world), [...], his eldest [off]spring (Belshazzar), a lowly person, was installed as the ruler of his land, [...] he caused [..., a re]plica, to be set up over them. He bu[ilt] a replica of Esagil [and ...] for (the city) Ur and the rest of the cult-center(s).
+1	[i-nu	_	_	_	_	_	_	_	_
+2	d-AMAR]-⸢UTU⸣	_	_	_	_	_	_	_	_
+3	LUGAL	_	_	_	_	_	_	_	_
+4	kiš-šat	_	_	_	_	_	_	_	_
+5	AN-e	_	_	_	_	_	_	_	_
+6	u	_	_	_	_	_	_	_	_
+7	KI-tim	_	_	_	_	_	_	_	_
+8	x	_	_	_	_	_	_	_	_
+9	[xx	_	_	_	_	_	_	_	_
+10	šá	_	_	_	_	_	_	_	_
+11	ina]	_	_	_	_	_	_	_	_
+12	x-si-šú	_	_	_	_	_	_	_	_
+13	ú-nam-mu-[ú	_	_	_	_	_	_	_	_
+14	xx]	_	_	_	_	_	_	_	_
+15	x-ni-šú	_	_	_	_	_	_	_	_
+16	[xx	_	_	_	_	_	_	_	_
+17	ra-pa]-áš	_	_	_	_	_	_	_	_
+18	uz-nam	_	_	_	_	_	_	_	_
+19	xxx[xx	_	_	_	_	_	_	_	_
+20	ḫa-a-a-iṭ	_	_	_	_	_	_	_	_
+21	ki]-ib-ra-a-tim	_	_	_	_	_	_	_	_
+22	[xx	_	_	_	_	_	_	_	_
+23	ṣi-it]	_	_	_	_	_	_	_	_
+24	⸢lìb-bi	_	_	_	_	_	_	_	_
+25	-šu⸣	_	_	_	_	_	_	_	_
+26	GAL	_	_	_	_	_	_	_	_
+27	ma-ṭu-ú	_	_	_	_	_	_	_	_
+28	iš-šak-na	_	_	_	_	_	_	_	_
+29	a-na	_	_	_	_	_	_	_	_
+30	e-nu-tu	_	_	_	_	_	_	_	_
+31	ma-ti	_	_	_	_	_	_	_	_
+32	-šú	_	_	_	_	_	_	_	_
+33	x[xx]	_	_	_	_	_	_	_	_
+34	⸢tam-ši⸣-li	_	_	_	_	_	_	_	_
+35	ú-ša-áš-ki-na	_	_	_	_	_	_	_	_
+36	ṣe-ru	_	_	_	_	_	_	_	_
+37	-šu-un	_	_	_	_	_	_	_	_
+

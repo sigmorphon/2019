@@ -1,0 +1,2011 @@
+# sent_id = w01142031
+# text = Juhana Gent kuoli vuonna 1399.
+# text_en = John of Gaunt died in 1399.
+1	Juhana	_	_	_	_	_	_	_	_
+2	Gent	_	_	_	_	_	_	_	_
+3	kuoli	_	_	_	_	_	_	_	_
+4	vuonna	_	_	_	_	_	_	_	_
+5	1399	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = w02015086
+# text = Ruotsalaiset joukot tuhosivat Rupertsbergin luostarin kolmikymmenvuotisen sodan aikana.
+# text_en = The Rupertsberg cloister was destroyed during the Thirty Years' War in 1632 by Swedish troops.
+1	Ruotsalaiset	_	_	_	_	_	_	_	_
+2	joukot	_	_	_	_	_	_	_	_
+3	tuhosivat	_	_	_	_	_	_	_	_
+4	Rupertsbergin	_	_	_	_	_	_	_	_
+5	luostarin	_	_	_	_	_	_	_	_
+6	kolmikymmenvuotisen	_	_	_	_	_	_	_	_
+7	sodan	_	_	_	_	_	_	_	_
+8	aikana	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01149077
+# text = Wrightilla on veli, Oscar, joka on sarjakuvataiteilija ja on tehnyt kuvakäsikirjoituksia, konseptitaidetta ja promootiokuvia Edgarin elokuviin.
+# text_en = Wright has a brother, Oscar, who is a comic book artist, contributing storyboards, conceptual art and promotional pictures for Edgar's films.
+1	Wrightilla	_	_	_	_	_	_	_	_
+2	on	_	_	_	_	_	_	_	_
+3	veli	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	Oscar	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	joka	_	_	_	_	_	_	_	_
+8	on	_	_	_	_	_	_	_	_
+9	sarjakuvataiteilija	_	_	_	_	_	_	_	_
+10	ja	_	_	_	_	_	_	_	_
+11	on	_	_	_	_	_	_	_	_
+12	tehnyt	_	_	_	_	_	_	_	_
+13	kuvakäsikirjoituksia	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	konseptitaidetta	_	_	_	_	_	_	_	_
+16	ja	_	_	_	_	_	_	_	_
+17	promootiokuvia	_	_	_	_	_	_	_	_
+18	Edgarin	_	_	_	_	_	_	_	_
+19	elokuviin	_	_	_	_	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01107063
+# text = Joskus Hitchcockin elokuvissa on hahmoja, jotka kamppailevat äitisuhteensa kanssa.
+# text_en = Hitchcock's films sometimes feature characters struggling in their relationships with their mothers.
+1	Joskus	_	_	_	_	_	_	_	_
+2	Hitchcockin	_	_	_	_	_	_	_	_
+3	elokuvissa	_	_	_	_	_	_	_	_
+4	on	_	_	_	_	_	_	_	_
+5	hahmoja	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	jotka	_	_	_	_	_	_	_	_
+8	kamppailevat	_	_	_	_	_	_	_	_
+9	äitisuhteensa	_	_	_	_	_	_	_	_
+10	kanssa	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01091017
+# text = Heidän luonto-ohjelmansa päällikkö, Jeff Knott, sanoi: ”Olen hämmästynyt, jos tästä seuraa kielto tai luvitus.”
+# text_en = Their head of nature policy, Jeff Knott, stated: “I’d be amazed if either a ban or licensing was introduced off the back of it”.
+1	Heidän	_	_	_	_	_	_	_	_
+2	luonto-ohjelmansa	_	_	_	_	_	_	_	_
+3	päällikkö	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	Jeff	_	_	_	_	_	_	_	_
+6	Knott	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	sanoi	_	_	_	_	_	_	_	_
+9	:	_	_	_	_	_	_	_	_
+10	”	_	_	_	_	_	_	_	_
+11	Olen	_	_	_	_	_	_	_	_
+12	hämmästynyt	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	jos	_	_	_	_	_	_	_	_
+15	tästä	_	_	_	_	_	_	_	_
+16	seuraa	_	_	_	_	_	_	_	_
+17	kielto	_	_	_	_	_	_	_	_
+18	tai	_	_	_	_	_	_	_	_
+19	luvitus	_	_	_	_	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+21	”	_	_	_	_	_	_	_	_
+
+# sent_id = w01125036
+# text = George oli harras uskovainen ja vietti tunteja rukouksessa, mutta hänen veljensä eivät jakaneet Georgen hurskautta.
+# text_en = George was deeply devout and spent hours in prayer, but his piety was not shared by his brothers.
+1	George	_	_	_	_	_	_	_	_
+2	oli	_	_	_	_	_	_	_	_
+3	harras	_	_	_	_	_	_	_	_
+4	uskovainen	_	_	_	_	_	_	_	_
+5	ja	_	_	_	_	_	_	_	_
+6	vietti	_	_	_	_	_	_	_	_
+7	tunteja	_	_	_	_	_	_	_	_
+8	rukouksessa	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	mutta	_	_	_	_	_	_	_	_
+11	hänen	_	_	_	_	_	_	_	_
+12	veljensä	_	_	_	_	_	_	_	_
+13	eivät	_	_	_	_	_	_	_	_
+14	jakaneet	_	_	_	_	_	_	_	_
+15	Georgen	_	_	_	_	_	_	_	_
+16	hurskautta	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n01091
+# sent_id = n01091013
+# text = Parhaimmillaan se on naiivia ja pahimmillaan se voisi jälleen päästää metsästyseturyhmän pälkähästä.
+# text_en = At best it is naive and at worst it would yet again let the shooting lobby off the hook.
+1	Parhaimmillaan	_	_	_	_	_	_	_	_
+2	se	_	_	_	_	_	_	_	_
+3	on	_	_	_	_	_	_	_	_
+4	naiivia	_	_	_	_	_	_	_	_
+5	ja	_	_	_	_	_	_	_	_
+6	pahimmillaan	_	_	_	_	_	_	_	_
+7	se	_	_	_	_	_	_	_	_
+8	voisi	_	_	_	_	_	_	_	_
+9	jälleen	_	_	_	_	_	_	_	_
+10	päästää	_	_	_	_	_	_	_	_
+11	metsästyseturyhmän	_	_	_	_	_	_	_	_
+12	pälkähästä	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01044009
+# text = Tämä johti kahden viime päivän aikana paljastuksiin, joiden mukaan vähintään kuusi muuta quebeciläistä toimittajaa oli kohteena provinssin poliisin tarkkailuoperaatiossa.
+# text_en = That led to revelations over the last two days that at least six other Quebec journalists were targeted by provincial police surveillance operations.
+1	Tämä	_	_	_	_	_	_	_	_
+2	johti	_	_	_	_	_	_	_	_
+3	kahden	_	_	_	_	_	_	_	_
+4	viime	_	_	_	_	_	_	_	_
+5	päivän	_	_	_	_	_	_	_	_
+6	aikana	_	_	_	_	_	_	_	_
+7	paljastuksiin	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	joiden	_	_	_	_	_	_	_	_
+10	mukaan	_	_	_	_	_	_	_	_
+11	vähintään	_	_	_	_	_	_	_	_
+12	kuusi	_	_	_	_	_	_	_	_
+13	muuta	_	_	_	_	_	_	_	_
+14	quebeciläistä	_	_	_	_	_	_	_	_
+15	toimittajaa	_	_	_	_	_	_	_	_
+16	oli	_	_	_	_	_	_	_	_
+17	kohteena	_	_	_	_	_	_	_	_
+18	provinssin	_	_	_	_	_	_	_	_
+19	poliisin	_	_	_	_	_	_	_	_
+20	tarkkailuoperaatiossa	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w01114
+# sent_id = w01114053
+# text = Hänen virallisessa omaelämänkerrassa myös väitetään, että Kim sävelsi kuusi oopperaa ja nauttii taidokkaiden musikaalien lavastamisesta.
+# text_en = His official biography also claims that Kim composed six operas and enjoys staging elaborate musicals.
+1	Hänen	_	_	_	_	_	_	_	_
+2	virallisessa	_	_	_	_	_	_	_	_
+3	omaelämänkerrassa	_	_	_	_	_	_	_	_
+4	myös	_	_	_	_	_	_	_	_
+5	väitetään	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	että	_	_	_	_	_	_	_	_
+8	Kim	_	_	_	_	_	_	_	_
+9	sävelsi	_	_	_	_	_	_	_	_
+10	kuusi	_	_	_	_	_	_	_	_
+11	oopperaa	_	_	_	_	_	_	_	_
+12	ja	_	_	_	_	_	_	_	_
+13	nauttii	_	_	_	_	_	_	_	_
+14	taidokkaiden	_	_	_	_	_	_	_	_
+15	musikaalien	_	_	_	_	_	_	_	_
+16	lavastamisesta	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01027035
+# text = Pohjois-Algeria sijaitsee lauhkealla vyöhykkeellä ja siellä vallitsee leuto välimerellinen ilmasto.
+# text_en = Northern Algeria is in the temperate zone and enjoys a mild, Mediterranean climate.
+1	Pohjois-Algeria	_	_	_	_	_	_	_	_
+2	sijaitsee	_	_	_	_	_	_	_	_
+3	lauhkealla	_	_	_	_	_	_	_	_
+4	vyöhykkeellä	_	_	_	_	_	_	_	_
+5	ja	_	_	_	_	_	_	_	_
+6	siellä	_	_	_	_	_	_	_	_
+7	vallitsee	_	_	_	_	_	_	_	_
+8	leuto	_	_	_	_	_	_	_	_
+9	välimerellinen	_	_	_	_	_	_	_	_
+10	ilmasto	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n02036
+# sent_id = n02036018
+# text = Von Beust oikeutti kulujen lisääntymisen yksityiskohtaisen suunnittelun puutteella.
+# text_en = Von Beust justified the cost increases as lack of detailed planning.
+1	Von	_	_	_	_	_	_	_	_
+2	Beust	_	_	_	_	_	_	_	_
+3	oikeutti	_	_	_	_	_	_	_	_
+4	kulujen	_	_	_	_	_	_	_	_
+5	lisääntymisen	_	_	_	_	_	_	_	_
+6	yksityiskohtaisen	_	_	_	_	_	_	_	_
+7	suunnittelun	_	_	_	_	_	_	_	_
+8	puutteella	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01105023
+# text = Mietin myös, oliko Davis Cupilla jonkinlainen osa.
+# text_en = I also wonder whether the Davis Cup played a part.
+1	Mietin	_	_	_	_	_	_	_	_
+2	myös	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	oliko	_	_	_	_	_	_	_	_
+5	Davis	_	_	_	_	_	_	_	_
+6	Cupilla	_	_	_	_	_	_	_	_
+7	jonkinlainen	_	_	_	_	_	_	_	_
+8	osa	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n01076
+# sent_id = n01076006
+# text = Donald Trumpin voitto tekisi maailmasta heti nykyistä vielä huolestuttavamman ja rauhattomamman.
+# text_en = A Donald Trump victory would immediately make the world more worrying and unsettled than it already is.
+1	Donald	_	_	_	_	_	_	_	_
+2	Trumpin	_	_	_	_	_	_	_	_
+3	voitto	_	_	_	_	_	_	_	_
+4	tekisi	_	_	_	_	_	_	_	_
+5	maailmasta	_	_	_	_	_	_	_	_
+6	heti	_	_	_	_	_	_	_	_
+7	nykyistä	_	_	_	_	_	_	_	_
+8	vielä	_	_	_	_	_	_	_	_
+9	huolestuttavamman	_	_	_	_	_	_	_	_
+10	ja	_	_	_	_	_	_	_	_
+11	rauhattomamman	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n01040
+# sent_id = n01040028
+# text = Rai ja hänen kaltaisensa opiskelijat ovat tavanneet neuvonantajia koulussa keskustellakseen tapahtuneesta, mutta Rai sanoi, että suurin lohdutus on tullut hänen ystäviensä tapaamisesta.
+# text_en = Students like Rai have been meeting with counsellors at the school to talk about what happened, but she said the biggest comfort has come from seeing her friends.
+1	Rai	_	_	_	_	_	_	_	_
+2	ja	_	_	_	_	_	_	_	_
+3	hänen	_	_	_	_	_	_	_	_
+4	kaltaisensa	_	_	_	_	_	_	_	_
+5	opiskelijat	_	_	_	_	_	_	_	_
+6	ovat	_	_	_	_	_	_	_	_
+7	tavanneet	_	_	_	_	_	_	_	_
+8	neuvonantajia	_	_	_	_	_	_	_	_
+9	koulussa	_	_	_	_	_	_	_	_
+10	keskustellakseen	_	_	_	_	_	_	_	_
+11	tapahtuneesta	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	mutta	_	_	_	_	_	_	_	_
+14	Rai	_	_	_	_	_	_	_	_
+15	sanoi	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	että	_	_	_	_	_	_	_	_
+18	suurin	_	_	_	_	_	_	_	_
+19	lohdutus	_	_	_	_	_	_	_	_
+20	on	_	_	_	_	_	_	_	_
+21	tullut	_	_	_	_	_	_	_	_
+22	hänen	_	_	_	_	_	_	_	_
+23	ystäviensä	_	_	_	_	_	_	_	_
+24	tapaamisesta	_	_	_	_	_	_	_	_
+25	.	_	_	_	_	_	_	_	_
+
+# sent_id = n05002023
+# text = Lisäksi hallituksen täytyy käsitellä toista vaikeaa asiaa.
+# text_en = Furthermore, the Government will have to deal with another "hot potato".
+1	Lisäksi	_	_	_	_	_	_	_	_
+2	hallituksen	_	_	_	_	_	_	_	_
+3	täytyy	_	_	_	_	_	_	_	_
+4	käsitellä	_	_	_	_	_	_	_	_
+5	toista	_	_	_	_	_	_	_	_
+6	vaikeaa	_	_	_	_	_	_	_	_
+7	asiaa	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01018101
+# text = Työministeriön tutkimuksessa pahimmista lapsityövoiman muodoista raportoitiin, että 56 % 5-14-vuotiaista lapsista työskentelee, ja että lähes 53 % 7-14-vuotiaista lapsista käy töissä ja koulussa.
+# text_en = Department of Labor Findings on the Worst Forms of Child Labor reported that 56% of children aged 5 to 14 were working children and that almost 53% of children aged 7 to 14 combined work and school.
+1	Työministeriön	_	_	_	_	_	_	_	_
+2	tutkimuksessa	_	_	_	_	_	_	_	_
+3	pahimmista	_	_	_	_	_	_	_	_
+4	lapsityövoiman	_	_	_	_	_	_	_	_
+5	muodoista	_	_	_	_	_	_	_	_
+6	raportoitiin	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	että	_	_	_	_	_	_	_	_
+9	56	_	_	_	_	_	_	_	_
+10	%	_	_	_	_	_	_	_	_
+11	5	_	_	_	_	_	_	_	_
+12	-	_	_	_	_	_	_	_	_
+13	14	_	_	_	_	_	_	_	_
+14	-vuotiaista	_	_	_	_	_	_	_	_
+15	lapsista	_	_	_	_	_	_	_	_
+16	työskentelee	_	_	_	_	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	ja	_	_	_	_	_	_	_	_
+19	että	_	_	_	_	_	_	_	_
+20	lähes	_	_	_	_	_	_	_	_
+21	53	_	_	_	_	_	_	_	_
+22	%	_	_	_	_	_	_	_	_
+23	7	_	_	_	_	_	_	_	_
+24	-	_	_	_	_	_	_	_	_
+25	14	_	_	_	_	_	_	_	_
+26	-vuotiaista	_	_	_	_	_	_	_	_
+27	lapsista	_	_	_	_	_	_	_	_
+28	käy	_	_	_	_	_	_	_	_
+29	töissä	_	_	_	_	_	_	_	_
+30	ja	_	_	_	_	_	_	_	_
+31	koulussa	_	_	_	_	_	_	_	_
+32	.	_	_	_	_	_	_	_	_
+
+# sent_id = n02044009
+# text = Australian avointen sensaation jälkeen 28-vuotias hävisi ensimmäisen kerran finaalipelissä Serena Williamsia vastaan.
+# text_en = After the sensation at the Australian Open, the 28 year-old lost for the first time in the final game against Serena Williams.
+1	Australian	_	_	_	_	_	_	_	_
+2	avointen	_	_	_	_	_	_	_	_
+3	sensaation	_	_	_	_	_	_	_	_
+4	jälkeen	_	_	_	_	_	_	_	_
+5	28-vuotias	_	_	_	_	_	_	_	_
+6	hävisi	_	_	_	_	_	_	_	_
+7	ensimmäisen	_	_	_	_	_	_	_	_
+8	kerran	_	_	_	_	_	_	_	_
+9	finaalipelissä	_	_	_	_	_	_	_	_
+10	Serena	_	_	_	_	_	_	_	_
+11	Williamsia	_	_	_	_	_	_	_	_
+12	vastaan	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01002013
+# text = Kaukaisimmassa lounaassa hallitsee taiga, joka peittää merkittävän osan koko Siperiasta.
+# text_en = Outside the extreme northwest, the taiga is dominant, covering a significant fraction of the entirety of Siberia.
+1	Kaukaisimmassa	_	_	_	_	_	_	_	_
+2	lounaassa	_	_	_	_	_	_	_	_
+3	hallitsee	_	_	_	_	_	_	_	_
+4	taiga	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	joka	_	_	_	_	_	_	_	_
+7	peittää	_	_	_	_	_	_	_	_
+8	merkittävän	_	_	_	_	_	_	_	_
+9	osan	_	_	_	_	_	_	_	_
+10	koko	_	_	_	_	_	_	_	_
+11	Siperiasta	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n01018
+# sent_id = n01018024
+# text = Joskus se on kuin supervoima.
+# text_en = It's like a super power sometimes.
+1	Joskus	_	_	_	_	_	_	_	_
+2	se	_	_	_	_	_	_	_	_
+3	on	_	_	_	_	_	_	_	_
+4	kuin	_	_	_	_	_	_	_	_
+5	supervoima	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w01019
+# sent_id = w01019014
+# text = Sahelin ilmasto on samankaltainen, mutta ei yhtä äärimmäinen, kuin heti pohjoisessa sijaitsevan Saharan aavikon ilmasto.
+# text_en = The Sahel's climate is similar to, but less extreme than, the climate of the Sahara desert located just to the north.
+1	Sahelin	_	_	_	_	_	_	_	_
+2	ilmasto	_	_	_	_	_	_	_	_
+3	on	_	_	_	_	_	_	_	_
+4	samankaltainen	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	mutta	_	_	_	_	_	_	_	_
+7	ei	_	_	_	_	_	_	_	_
+8	yhtä	_	_	_	_	_	_	_	_
+9	äärimmäinen	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	kuin	_	_	_	_	_	_	_	_
+12	heti	_	_	_	_	_	_	_	_
+13	pohjoisessa	_	_	_	_	_	_	_	_
+14	sijaitsevan	_	_	_	_	_	_	_	_
+15	Saharan	_	_	_	_	_	_	_	_
+16	aavikon	_	_	_	_	_	_	_	_
+17	ilmasto	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01146099
+# text = Oikea teologia pitäisi siis muotoilla sen tulevaisuuden tavoitteen valossa.
+# text_en = A proper theology would therefore have to be constructed in the light of its future goal.
+1	Oikea	_	_	_	_	_	_	_	_
+2	teologia	_	_	_	_	_	_	_	_
+3	pitäisi	_	_	_	_	_	_	_	_
+4	siis	_	_	_	_	_	_	_	_
+5	muotoilla	_	_	_	_	_	_	_	_
+6	sen	_	_	_	_	_	_	_	_
+7	tulevaisuuden	_	_	_	_	_	_	_	_
+8	tavoitteen	_	_	_	_	_	_	_	_
+9	valossa	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = n05008018
+# text = Aikaisen äänestyksen tulokset antavat ymmärtää, että tällä kertaa latinalaisamerikkalaiset tulevat äänestämään suuremmissa määrin, mutta on epäselvää, onko tällä lisäyksellä vaikutusta.
+# text_en = The early voting suggests that this time the Latin Americans will come out to vote in greater numbers, but it is unclear whether the increase will have an impact.
+1	Aikaisen	_	_	_	_	_	_	_	_
+2	äänestyksen	_	_	_	_	_	_	_	_
+3	tulokset	_	_	_	_	_	_	_	_
+4	antavat	_	_	_	_	_	_	_	_
+5	ymmärtää	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	että	_	_	_	_	_	_	_	_
+8	tällä	_	_	_	_	_	_	_	_
+9	kertaa	_	_	_	_	_	_	_	_
+10	latinalaisamerikkalaiset	_	_	_	_	_	_	_	_
+11	tulevat	_	_	_	_	_	_	_	_
+12	äänestämään	_	_	_	_	_	_	_	_
+13	suuremmissa	_	_	_	_	_	_	_	_
+14	määrin	_	_	_	_	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	mutta	_	_	_	_	_	_	_	_
+17	on	_	_	_	_	_	_	_	_
+18	epäselvää	_	_	_	_	_	_	_	_
+19	,	_	_	_	_	_	_	_	_
+20	onko	_	_	_	_	_	_	_	_
+21	tällä	_	_	_	_	_	_	_	_
+22	lisäyksellä	_	_	_	_	_	_	_	_
+23	vaikutusta	_	_	_	_	_	_	_	_
+24	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01112014
+# text = Tammikuullisessa tärkeässä selvityksessä todettiin, että vuoteen 2050 mennessä valtamerissä on enemmän muovia kuin kaloja, ellei maailma toimi radikaalisti ja lopeta jätteen päästämistä meriin.
+# text_en = A major report in January said oceans would contain more plastic than fish by 2050 unless the world took radical action to stop rubbish leaking into the seas.
+1	Tammikuullisessa	_	_	_	_	_	_	_	_
+2	tärkeässä	_	_	_	_	_	_	_	_
+3	selvityksessä	_	_	_	_	_	_	_	_
+4	todettiin	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	että	_	_	_	_	_	_	_	_
+7	vuoteen	_	_	_	_	_	_	_	_
+8	2050	_	_	_	_	_	_	_	_
+9	mennessä	_	_	_	_	_	_	_	_
+10	valtamerissä	_	_	_	_	_	_	_	_
+11	on	_	_	_	_	_	_	_	_
+12	enemmän	_	_	_	_	_	_	_	_
+13	muovia	_	_	_	_	_	_	_	_
+14	kuin	_	_	_	_	_	_	_	_
+15	kaloja	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	ellei	_	_	_	_	_	_	_	_
+18	maailma	_	_	_	_	_	_	_	_
+19	toimi	_	_	_	_	_	_	_	_
+20	radikaalisti	_	_	_	_	_	_	_	_
+21	ja	_	_	_	_	_	_	_	_
+22	lopeta	_	_	_	_	_	_	_	_
+23	jätteen	_	_	_	_	_	_	_	_
+24	päästämistä	_	_	_	_	_	_	_	_
+25	meriin	_	_	_	_	_	_	_	_
+26	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01029083
+# text = Kristityt kirkot Luoteis-Euroopassa ja Ukrainassa käyttivät usein pajunoksia palmujen sijasta palmusunnuntain seremonioissa.
+# text_en = Christian churches in northwestern Europe and Ukraine often used willow branches in place of palms in the ceremonies on Palm Sunday.
+1	Kristityt	_	_	_	_	_	_	_	_
+2	kirkot	_	_	_	_	_	_	_	_
+3	Luoteis-Euroopassa	_	_	_	_	_	_	_	_
+4	ja	_	_	_	_	_	_	_	_
+5	Ukrainassa	_	_	_	_	_	_	_	_
+6	käyttivät	_	_	_	_	_	_	_	_
+7	usein	_	_	_	_	_	_	_	_
+8	pajunoksia	_	_	_	_	_	_	_	_
+9	palmujen	_	_	_	_	_	_	_	_
+10	sijasta	_	_	_	_	_	_	_	_
+11	palmusunnuntain	_	_	_	_	_	_	_	_
+12	seremonioissa	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01130101
+# text = Levyllä oli kolme kappaletta, jotka oli tehty yhdessä Raffertyn Jim-veljen kanssa. Hän on myös laulaja-lauluntekijä, ja oli ollut kiinnitettynä Decca Records -yhtiölle 1970-luvulla.
+# text_en = It included three tracks cowritten with Rafferty's brother Jim, also a singer-songwriter, who had been signed to Decca Records in the 1970s.
+1	Levyllä	_	_	_	_	_	_	_	_
+2	oli	_	_	_	_	_	_	_	_
+3	kolme	_	_	_	_	_	_	_	_
+4	kappaletta	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	jotka	_	_	_	_	_	_	_	_
+7	oli	_	_	_	_	_	_	_	_
+8	tehty	_	_	_	_	_	_	_	_
+9	yhdessä	_	_	_	_	_	_	_	_
+10	Raffertyn	_	_	_	_	_	_	_	_
+11	Jim	_	_	_	_	_	_	_	_
+12	-veljen	_	_	_	_	_	_	_	_
+13	kanssa	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+15	Hän	_	_	_	_	_	_	_	_
+16	on	_	_	_	_	_	_	_	_
+17	myös	_	_	_	_	_	_	_	_
+18	laulaja-lauluntekijä	_	_	_	_	_	_	_	_
+19	,	_	_	_	_	_	_	_	_
+20	ja	_	_	_	_	_	_	_	_
+21	oli	_	_	_	_	_	_	_	_
+22	ollut	_	_	_	_	_	_	_	_
+23	kiinnitettynä	_	_	_	_	_	_	_	_
+24	Decca	_	_	_	_	_	_	_	_
+25	Records	_	_	_	_	_	_	_	_
+26	-yhtiölle	_	_	_	_	_	_	_	_
+27	1970-luvulla	_	_	_	_	_	_	_	_
+28	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01136074
+# text = Joseph Schenck oli kiinnostunut laittamaan vaimonsa, Norma Talmadgen, näyttelemään Valentinon vastanäyttelijänä versiossa Romeosta ja Juliasta.
+# text_en = Joseph Schenck was interested in casting his wife, Norma Talmadge, opposite Valentino in a version of Romeo and Juliet.
+1	Joseph	_	_	_	_	_	_	_	_
+2	Schenck	_	_	_	_	_	_	_	_
+3	oli	_	_	_	_	_	_	_	_
+4	kiinnostunut	_	_	_	_	_	_	_	_
+5	laittamaan	_	_	_	_	_	_	_	_
+6	vaimonsa	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	Norma	_	_	_	_	_	_	_	_
+9	Talmadgen	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	näyttelemään	_	_	_	_	_	_	_	_
+12	Valentinon	_	_	_	_	_	_	_	_
+13	vastanäyttelijänä	_	_	_	_	_	_	_	_
+14	versiossa	_	_	_	_	_	_	_	_
+15	Romeosta	_	_	_	_	_	_	_	_
+16	ja	_	_	_	_	_	_	_	_
+17	Juliasta	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w01014
+# sent_id = w01014002
+# text = Kaukasian pohjoisosa tunnetaan Pohjois-Kaukasiana ja eteläosa Etelä-Kaukasiana.
+# text_en = The northern portion of the Caucasus is known as the Ciscaucasus and the southern portion as the Transcaucasus.
+1	Kaukasian	_	_	_	_	_	_	_	_
+2	pohjoisosa	_	_	_	_	_	_	_	_
+3	tunnetaan	_	_	_	_	_	_	_	_
+4	Pohjois-Kaukasiana	_	_	_	_	_	_	_	_
+5	ja	_	_	_	_	_	_	_	_
+6	eteläosa	_	_	_	_	_	_	_	_
+6.1	tunnetaan	_	_	_	_	_	_	_	_
+7	Etelä-Kaukasiana	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01065019
+# text = Näiden megaliittien tarkasta tarkoituksesta keskustellaan yhä, mutta ne ovat saattaneet muodostaa kanaanilaisten ”korkean paikan” keskipronssikaudelta, noin 1600 eKr.
+# text_en = The exact purpose of these megaliths is still debated, but they may have constituted a Canaanite "high place" from the Middle Bronze Age, ca. 1600 B.C.E.
+1	Näiden	_	_	_	_	_	_	_	_
+2	megaliittien	_	_	_	_	_	_	_	_
+3	tarkasta	_	_	_	_	_	_	_	_
+4	tarkoituksesta	_	_	_	_	_	_	_	_
+5	keskustellaan	_	_	_	_	_	_	_	_
+6	yhä	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	mutta	_	_	_	_	_	_	_	_
+9	ne	_	_	_	_	_	_	_	_
+10	ovat	_	_	_	_	_	_	_	_
+11	saattaneet	_	_	_	_	_	_	_	_
+12	muodostaa	_	_	_	_	_	_	_	_
+13	kanaanilaisten	_	_	_	_	_	_	_	_
+14	”	_	_	_	_	_	_	_	_
+15	korkean	_	_	_	_	_	_	_	_
+16	paikan	_	_	_	_	_	_	_	_
+17	”	_	_	_	_	_	_	_	_
+18	keskipronssikaudelta	_	_	_	_	_	_	_	_
+19	,	_	_	_	_	_	_	_	_
+20	noin	_	_	_	_	_	_	_	_
+21	1600	_	_	_	_	_	_	_	_
+22	eKr.	_	_	_	_	_	_	_	_
+
+# sent_id = w01129053
+# text = Vuonna 2003 hän dominoi pistetilastoja ja johti 33 viimeistä kisaa yhteensä 36 kisasta, ja hänestä tuli 2003 NASCAR Winston Cup -mestari, viimeinen kuski, joka koskaan sai tittelin.
+# text_en = In 2003, he dominated in the points standings and leading the last 33 of 36 races and became the 2003 NASCAR Winston Cup champion, the last driver to ever hold that title.
+1	Vuonna	_	_	_	_	_	_	_	_
+2	2003	_	_	_	_	_	_	_	_
+3	hän	_	_	_	_	_	_	_	_
+4	dominoi	_	_	_	_	_	_	_	_
+5	pistetilastoja	_	_	_	_	_	_	_	_
+6	ja	_	_	_	_	_	_	_	_
+7	johti	_	_	_	_	_	_	_	_
+8	33	_	_	_	_	_	_	_	_
+9	viimeistä	_	_	_	_	_	_	_	_
+10	kisaa	_	_	_	_	_	_	_	_
+11	yhteensä	_	_	_	_	_	_	_	_
+12	36	_	_	_	_	_	_	_	_
+13	kisasta	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	ja	_	_	_	_	_	_	_	_
+16	hänestä	_	_	_	_	_	_	_	_
+17	tuli	_	_	_	_	_	_	_	_
+18	2003	_	_	_	_	_	_	_	_
+19	NASCAR	_	_	_	_	_	_	_	_
+20	Winston	_	_	_	_	_	_	_	_
+21	Cup	_	_	_	_	_	_	_	_
+22	-mestari	_	_	_	_	_	_	_	_
+23	,	_	_	_	_	_	_	_	_
+24	viimeinen	_	_	_	_	_	_	_	_
+25	kuski	_	_	_	_	_	_	_	_
+26	,	_	_	_	_	_	_	_	_
+27	joka	_	_	_	_	_	_	_	_
+28	koskaan	_	_	_	_	_	_	_	_
+29	sai	_	_	_	_	_	_	_	_
+30	tittelin	_	_	_	_	_	_	_	_
+31	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01147018
+# text = Kesha ja Pebe kirjoittivat laulun nimeltä ”Stephen” yhdessä Keshan ollessa 16-vuotias. Sen jälkeen Kesha löysi ihailemansa tuottaja David Gamsonin Scritti Polittista, ja tämä suostui tuottamaan laulun.
+# text_en = Kesha and Pebe co-wrote the song "Stephen" together when Kesha was 16, Kesha then tracked down David Gamson, a producer that she admired, from Scritti Politti who agreed to produce the song.
+1	Kesha	_	_	_	_	_	_	_	_
+2	ja	_	_	_	_	_	_	_	_
+3	Pebe	_	_	_	_	_	_	_	_
+4	kirjoittivat	_	_	_	_	_	_	_	_
+5	laulun	_	_	_	_	_	_	_	_
+6	nimeltä	_	_	_	_	_	_	_	_
+7	”	_	_	_	_	_	_	_	_
+8	Stephen	_	_	_	_	_	_	_	_
+9	”	_	_	_	_	_	_	_	_
+10	yhdessä	_	_	_	_	_	_	_	_
+11	Keshan	_	_	_	_	_	_	_	_
+12	ollessa	_	_	_	_	_	_	_	_
+13	16-vuotias	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+15	Sen	_	_	_	_	_	_	_	_
+16	jälkeen	_	_	_	_	_	_	_	_
+17	Kesha	_	_	_	_	_	_	_	_
+18	löysi	_	_	_	_	_	_	_	_
+19	ihailemansa	_	_	_	_	_	_	_	_
+20	tuottaja	_	_	_	_	_	_	_	_
+21	David	_	_	_	_	_	_	_	_
+22	Gamsonin	_	_	_	_	_	_	_	_
+23	Scritti	_	_	_	_	_	_	_	_
+24	Polittista	_	_	_	_	_	_	_	_
+25	,	_	_	_	_	_	_	_	_
+26	ja	_	_	_	_	_	_	_	_
+27	tämä	_	_	_	_	_	_	_	_
+28	suostui	_	_	_	_	_	_	_	_
+29	tuottamaan	_	_	_	_	_	_	_	_
+30	laulun	_	_	_	_	_	_	_	_
+31	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01066040
+# text = Kiinalainen uusivuosi ja muut Thaimaan kiinalaisten juhlimat päivät vaihtelevat kunnioittaen molempia, sillä ne lasketaan kiinalaisen kalenterin mukaan.
+# text_en = Chinese New Year and other feasts observed by Thai Chinese vary with respect to both, as these are calculated according to the Chinese calendar.
+1	Kiinalainen	_	_	_	_	_	_	_	_
+2	uusivuosi	_	_	_	_	_	_	_	_
+3	ja	_	_	_	_	_	_	_	_
+4	muut	_	_	_	_	_	_	_	_
+5	Thaimaan	_	_	_	_	_	_	_	_
+6	kiinalaisten	_	_	_	_	_	_	_	_
+7	juhlimat	_	_	_	_	_	_	_	_
+8	päivät	_	_	_	_	_	_	_	_
+9	vaihtelevat	_	_	_	_	_	_	_	_
+10	kunnioittaen	_	_	_	_	_	_	_	_
+11	molempia	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	sillä	_	_	_	_	_	_	_	_
+14	ne	_	_	_	_	_	_	_	_
+15	lasketaan	_	_	_	_	_	_	_	_
+16	kiinalaisen	_	_	_	_	_	_	_	_
+17	kalenterin	_	_	_	_	_	_	_	_
+18	mukaan	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = w03007039
+# text = Kaupankäynti kehitettiin luomalla kauppaetuvartioita kaikkialle Välimeren alueelle, mitä tekniikkaa ei oltu aiemmin käytetty.
+# text_en = Trade was developed by establishing commercial outposts throughout the Mediterranean, a technique that had not been used until then.
+1	Kaupankäynti	_	_	_	_	_	_	_	_
+2	kehitettiin	_	_	_	_	_	_	_	_
+3	luomalla	_	_	_	_	_	_	_	_
+4	kauppaetuvartioita	_	_	_	_	_	_	_	_
+5	kaikkialle	_	_	_	_	_	_	_	_
+6	Välimeren	_	_	_	_	_	_	_	_
+7	alueelle	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	mitä	_	_	_	_	_	_	_	_
+10	tekniikkaa	_	_	_	_	_	_	_	_
+11	ei	_	_	_	_	_	_	_	_
+12	oltu	_	_	_	_	_	_	_	_
+13	aiemmin	_	_	_	_	_	_	_	_
+14	käytetty	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n01148
+# sent_id = n01148029
+# text = Se on myös ruokkinut modernien kerrostalojen yleistymistä - esimerkkinä uraauurtava MahaNakhon, Bangkokin korkein rakennus.
+# text_en = It's also fuelled the emergence of modern high-rises -- like the visionary MahaNakhon, Bangkok's tallest building.
+1	Se	_	_	_	_	_	_	_	_
+2	on	_	_	_	_	_	_	_	_
+3	myös	_	_	_	_	_	_	_	_
+4	ruokkinut	_	_	_	_	_	_	_	_
+5	modernien	_	_	_	_	_	_	_	_
+6	kerrostalojen	_	_	_	_	_	_	_	_
+7	yleistymistä	_	_	_	_	_	_	_	_
+8	-	_	_	_	_	_	_	_	_
+9	esimerkkinä	_	_	_	_	_	_	_	_
+10	uraauurtava	_	_	_	_	_	_	_	_
+11	MahaNakhon	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	Bangkokin	_	_	_	_	_	_	_	_
+14	korkein	_	_	_	_	_	_	_	_
+15	rakennus	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = w05005087
+# text = Heidän matkansa kuitenkin katkaistiin, ja heidän täytyi taistella Freemanissa, lähellä Hudson-jokea.
+# text_en = However, they were intercepted and had to do battle in Freeman, close to the Hudson River.
+1	Heidän	_	_	_	_	_	_	_	_
+2	matkansa	_	_	_	_	_	_	_	_
+3	kuitenkin	_	_	_	_	_	_	_	_
+4	katkaistiin	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	ja	_	_	_	_	_	_	_	_
+7	heidän	_	_	_	_	_	_	_	_
+8	täytyi	_	_	_	_	_	_	_	_
+9	taistella	_	_	_	_	_	_	_	_
+10	Freemanissa	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	lähellä	_	_	_	_	_	_	_	_
+13	Hudson-jokea	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w01115
+# sent_id = w01115022
+# text = Alexanderin neuvojen avulla hän pystyi tekemään kompromissin: hän menisi yliopistoon, mutta opiskelisi kirjallisuutta.
+# text_en = With advice from Alexander, he was able to work out a compromise: he would attend a university, but would study literature.
+1	Alexanderin	_	_	_	_	_	_	_	_
+2	neuvojen	_	_	_	_	_	_	_	_
+3	avulla	_	_	_	_	_	_	_	_
+4	hän	_	_	_	_	_	_	_	_
+5	pystyi	_	_	_	_	_	_	_	_
+6	tekemään	_	_	_	_	_	_	_	_
+7	kompromissin	_	_	_	_	_	_	_	_
+8	:	_	_	_	_	_	_	_	_
+9	hän	_	_	_	_	_	_	_	_
+10	menisi	_	_	_	_	_	_	_	_
+11	yliopistoon	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	mutta	_	_	_	_	_	_	_	_
+14	opiskelisi	_	_	_	_	_	_	_	_
+15	kirjallisuutta	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w01080
+# sent_id = w01080128
+# text = Makedonian itäinen raja Traakian kanssa oli nyt turvattu Néstos- eli Mesta-joella.
+# text_en = The Macedonian eastern border with Thrace was now secured at the river Nestus (Mesta).
+1	Makedonian	_	_	_	_	_	_	_	_
+2	itäinen	_	_	_	_	_	_	_	_
+3	raja	_	_	_	_	_	_	_	_
+4	Traakian	_	_	_	_	_	_	_	_
+5	kanssa	_	_	_	_	_	_	_	_
+6	oli	_	_	_	_	_	_	_	_
+7	nyt	_	_	_	_	_	_	_	_
+8	turvattu	_	_	_	_	_	_	_	_
+9	Néstos-	_	_	_	_	_	_	_	_
+10	eli	_	_	_	_	_	_	_	_
+11	Mesta	_	_	_	_	_	_	_	_
+12	-joella	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01035082
+# text = Viimeisen 50 vuoden aikana maatalousmaata ympäröivän elinympäristön tuhoutuminen on huonontanut noin 40 % maailman maatalousmaasta eroosion, suolapitoisuuden kasvun, tiivistymisen, ravinteiden ehtymisen, saastumisen ja kaupungistumisen myötä.
+# text_en = Over the past 50 years, the destruction of habitat surrounding agricultural land has degraded approximately 40% of agricultural land worldwide via erosion, salinization, compaction, nutrient depletion, pollution, and urbanization.
+1	Viimeisen	_	_	_	_	_	_	_	_
+2	50	_	_	_	_	_	_	_	_
+3	vuoden	_	_	_	_	_	_	_	_
+4	aikana	_	_	_	_	_	_	_	_
+5	maatalousmaata	_	_	_	_	_	_	_	_
+6	ympäröivän	_	_	_	_	_	_	_	_
+7	elinympäristön	_	_	_	_	_	_	_	_
+8	tuhoutuminen	_	_	_	_	_	_	_	_
+9	on	_	_	_	_	_	_	_	_
+10	huonontanut	_	_	_	_	_	_	_	_
+11	noin	_	_	_	_	_	_	_	_
+12	40	_	_	_	_	_	_	_	_
+13	%	_	_	_	_	_	_	_	_
+14	maailman	_	_	_	_	_	_	_	_
+15	maatalousmaasta	_	_	_	_	_	_	_	_
+16	eroosion	_	_	_	_	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	suolapitoisuuden	_	_	_	_	_	_	_	_
+19	kasvun	_	_	_	_	_	_	_	_
+20	,	_	_	_	_	_	_	_	_
+21	tiivistymisen	_	_	_	_	_	_	_	_
+22	,	_	_	_	_	_	_	_	_
+23	ravinteiden	_	_	_	_	_	_	_	_
+24	ehtymisen	_	_	_	_	_	_	_	_
+25	,	_	_	_	_	_	_	_	_
+26	saastumisen	_	_	_	_	_	_	_	_
+27	ja	_	_	_	_	_	_	_	_
+28	kaupungistumisen	_	_	_	_	_	_	_	_
+29	myötä	_	_	_	_	_	_	_	_
+30	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01029007
+# text = Innokkaana kitaristina hän esiintyi siellä konsertissa samana vuonna.
+# text_en = A keen guitarist, he played a concert there the same year.
+1	Innokkaana	_	_	_	_	_	_	_	_
+2	kitaristina	_	_	_	_	_	_	_	_
+3	hän	_	_	_	_	_	_	_	_
+4	esiintyi	_	_	_	_	_	_	_	_
+5	siellä	_	_	_	_	_	_	_	_
+6	konsertissa	_	_	_	_	_	_	_	_
+7	samana	_	_	_	_	_	_	_	_
+8	vuonna	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01144056
+# text = Vuoden 1980 presidentinvaalikampanja Reaganin ja istuvan presidentti Jimmy Carterin välillä käytiin keskellä kotimaan huolia ja käynnissä olevaa Iranin panttivankikriisiä.
+# text_en = The 1980 presidential campaign between Reagan and incumbent President Jimmy Carter was conducted during domestic concerns and the ongoing Iran hostage crisis.
+1	Vuoden	_	_	_	_	_	_	_	_
+2	1980	_	_	_	_	_	_	_	_
+3	presidentinvaalikampanja	_	_	_	_	_	_	_	_
+4	Reaganin	_	_	_	_	_	_	_	_
+5	ja	_	_	_	_	_	_	_	_
+6	istuvan	_	_	_	_	_	_	_	_
+7	presidentti	_	_	_	_	_	_	_	_
+8	Jimmy	_	_	_	_	_	_	_	_
+9	Carterin	_	_	_	_	_	_	_	_
+10	välillä	_	_	_	_	_	_	_	_
+11	käytiin	_	_	_	_	_	_	_	_
+12	keskellä	_	_	_	_	_	_	_	_
+13	kotimaan	_	_	_	_	_	_	_	_
+14	huolia	_	_	_	_	_	_	_	_
+15	ja	_	_	_	_	_	_	_	_
+16	käynnissä	_	_	_	_	_	_	_	_
+17	olevaa	_	_	_	_	_	_	_	_
+18	Iranin	_	_	_	_	_	_	_	_
+19	panttivankikriisiä	_	_	_	_	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01022092
+# text = Makeanveden järvet, kuten vuonot, ovat usein syviä.
+# text_en = Like fjords, freshwater lakes are often deep.
+1	Makeanveden	_	_	_	_	_	_	_	_
+2	järvet	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	kuten	_	_	_	_	_	_	_	_
+5	vuonot	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	ovat	_	_	_	_	_	_	_	_
+8	usein	_	_	_	_	_	_	_	_
+9	syviä	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01150047
+# text = Sen jälkeen kun kävi selväksi, että Osmanien valtakunta menettäisi koko Makedonian ja alueyhteyden Albaniaan, suurvallat ymmärsivät, että niiden täytyi muuttaa päätöstään.
+# text_en = After it became obvious that Ottoman Empire would lose all of Macedonia and its territorial connection with Albania, the Great Powers realized they had to change their decision.
+1	Sen	_	_	_	_	_	_	_	_
+2	jälkeen	_	_	_	_	_	_	_	_
+3	kun	_	_	_	_	_	_	_	_
+4	kävi	_	_	_	_	_	_	_	_
+5	selväksi	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	että	_	_	_	_	_	_	_	_
+8	Osmanien	_	_	_	_	_	_	_	_
+9	valtakunta	_	_	_	_	_	_	_	_
+10	menettäisi	_	_	_	_	_	_	_	_
+11	koko	_	_	_	_	_	_	_	_
+12	Makedonian	_	_	_	_	_	_	_	_
+13	ja	_	_	_	_	_	_	_	_
+14	alueyhteyden	_	_	_	_	_	_	_	_
+15	Albaniaan	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	suurvallat	_	_	_	_	_	_	_	_
+18	ymmärsivät	_	_	_	_	_	_	_	_
+19	,	_	_	_	_	_	_	_	_
+20	että	_	_	_	_	_	_	_	_
+21	niiden	_	_	_	_	_	_	_	_
+22	täytyi	_	_	_	_	_	_	_	_
+23	muuttaa	_	_	_	_	_	_	_	_
+24	päätöstään	_	_	_	_	_	_	_	_
+25	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01087035
+# text = ”Rakastin trooppisia värejä”, hän sanoo.
+# text_en = “I loved the tropical colours,” he says.
+1	”	_	_	_	_	_	_	_	_
+2	Rakastin	_	_	_	_	_	_	_	_
+3	trooppisia	_	_	_	_	_	_	_	_
+4	värejä	_	_	_	_	_	_	_	_
+5	”	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	hän	_	_	_	_	_	_	_	_
+8	sanoo	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w04002
+# sent_id = w04002008
+# text = Tätä olettamusta tukeva asia on intohimoisesti kasvatettu kuninkaallinen hevoskarja, joka sijaitsi Villa Peluccassa Sesto San Giovannilla.
+# text_en = An element supporting this hypothesis would be the intense royal livestock of horses that took place at Villa Pelucca, in Sesto San Giovanni.
+1	Tätä	_	_	_	_	_	_	_	_
+2	olettamusta	_	_	_	_	_	_	_	_
+3	tukeva	_	_	_	_	_	_	_	_
+4	asia	_	_	_	_	_	_	_	_
+5	on	_	_	_	_	_	_	_	_
+6	intohimoisesti	_	_	_	_	_	_	_	_
+7	kasvatettu	_	_	_	_	_	_	_	_
+8	kuninkaallinen	_	_	_	_	_	_	_	_
+9	hevoskarja	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	joka	_	_	_	_	_	_	_	_
+12	sijaitsi	_	_	_	_	_	_	_	_
+13	Villa	_	_	_	_	_	_	_	_
+14	Peluccassa	_	_	_	_	_	_	_	_
+15	Sesto	_	_	_	_	_	_	_	_
+16	San	_	_	_	_	_	_	_	_
+17	Giovannilla	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01046056
+# text = Cape Townin paikallinen hallinto on City of Cape Townissa, joka on kaupunginhallintoalue.
+# text_en = Cape Town's local government is the City of Cape Town, which is a metropolitan municipality.
+1	Cape	_	_	_	_	_	_	_	_
+2	Townin	_	_	_	_	_	_	_	_
+3	paikallinen	_	_	_	_	_	_	_	_
+4	hallinto	_	_	_	_	_	_	_	_
+5	on	_	_	_	_	_	_	_	_
+6	City	_	_	_	_	_	_	_	_
+7	of	_	_	_	_	_	_	_	_
+8	Cape	_	_	_	_	_	_	_	_
+9	Townissa	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	joka	_	_	_	_	_	_	_	_
+12	on	_	_	_	_	_	_	_	_
+13	kaupunginhallintoalue	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w01052
+# sent_id = w01052022
+# text = Ramses ei pystynyt logistisesti ylläpitämään pitkää piiritystä ja palasi Egyptiin.
+# text_en = Ramesses, logistically unable to sustain a long siege, returned to Egypt.
+1	Ramses	_	_	_	_	_	_	_	_
+2	ei	_	_	_	_	_	_	_	_
+3	pystynyt	_	_	_	_	_	_	_	_
+4	logistisesti	_	_	_	_	_	_	_	_
+5	ylläpitämään	_	_	_	_	_	_	_	_
+6	pitkää	_	_	_	_	_	_	_	_
+7	piiritystä	_	_	_	_	_	_	_	_
+8	ja	_	_	_	_	_	_	_	_
+9	palasi	_	_	_	_	_	_	_	_
+10	Egyptiin	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01064113
+# text = Caplan hylkää ajatuksen taannehtivasta äänestämisestä lainaten kahta tutkijaa, jotka kutsuvat sitä ”ei sen järkevämmäksi kuin faaraon tappaminen silloin, kun Niili ei tulvi.”
+# text_en = Caplan dismisses retrospective voting, quoting a pair of scholars who call it “no more rational than killing the pharaoh when the Nile does not flood.”
+1	Caplan	_	_	_	_	_	_	_	_
+2	hylkää	_	_	_	_	_	_	_	_
+3	ajatuksen	_	_	_	_	_	_	_	_
+4	taannehtivasta	_	_	_	_	_	_	_	_
+5	äänestämisestä	_	_	_	_	_	_	_	_
+6	lainaten	_	_	_	_	_	_	_	_
+7	kahta	_	_	_	_	_	_	_	_
+8	tutkijaa	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	jotka	_	_	_	_	_	_	_	_
+11	kutsuvat	_	_	_	_	_	_	_	_
+12	sitä	_	_	_	_	_	_	_	_
+13	”	_	_	_	_	_	_	_	_
+14	ei	_	_	_	_	_	_	_	_
+15	sen	_	_	_	_	_	_	_	_
+16	järkevämmäksi	_	_	_	_	_	_	_	_
+17	kuin	_	_	_	_	_	_	_	_
+18	faaraon	_	_	_	_	_	_	_	_
+19	tappaminen	_	_	_	_	_	_	_	_
+20	silloin	_	_	_	_	_	_	_	_
+21	,	_	_	_	_	_	_	_	_
+22	kun	_	_	_	_	_	_	_	_
+23	Niili	_	_	_	_	_	_	_	_
+24	ei	_	_	_	_	_	_	_	_
+25	tulvi	_	_	_	_	_	_	_	_
+26	.	_	_	_	_	_	_	_	_
+27	”	_	_	_	_	_	_	_	_
+
+# sent_id = w01039058
+# text = Kun Brisbane kasvoi, joen tilanne huononi, kunnes huonoimmillaan se ei ollut kuin avoin viemäri ja kaatopaikka.
+# text_en = As Brisbane grew, the condition of the river worsened until at its worst it was no more than an open sewer and waste dump.
+1	Kun	_	_	_	_	_	_	_	_
+2	Brisbane	_	_	_	_	_	_	_	_
+3	kasvoi	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	joen	_	_	_	_	_	_	_	_
+6	tilanne	_	_	_	_	_	_	_	_
+7	huononi	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	kunnes	_	_	_	_	_	_	_	_
+10	huonoimmillaan	_	_	_	_	_	_	_	_
+11	se	_	_	_	_	_	_	_	_
+12	ei	_	_	_	_	_	_	_	_
+13	ollut	_	_	_	_	_	_	_	_
+14	kuin	_	_	_	_	_	_	_	_
+15	avoin	_	_	_	_	_	_	_	_
+16	viemäri	_	_	_	_	_	_	_	_
+17	ja	_	_	_	_	_	_	_	_
+18	kaatopaikka	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n02022
+# sent_id = n02022015
+# text = Ei tiedetä, millä tavalla molemmat näytelmäkirjailijat olisivat voineet työskennellä yhdessä.
+# text_en = One doesn't know in which way both dramatists would have worked together.
+1	Ei	_	_	_	_	_	_	_	_
+2	tiedetä	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	millä	_	_	_	_	_	_	_	_
+5	tavalla	_	_	_	_	_	_	_	_
+6	molemmat	_	_	_	_	_	_	_	_
+7	näytelmäkirjailijat	_	_	_	_	_	_	_	_
+8	olisivat	_	_	_	_	_	_	_	_
+9	voineet	_	_	_	_	_	_	_	_
+10	työskennellä	_	_	_	_	_	_	_	_
+11	yhdessä	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w01129
+# sent_id = w01129019
+# text = Auto leimahti liekkeihin ja Kenseth käveli pois.
+# text_en = The car burst into flames, and Kenseth walked away.
+1	Auto	_	_	_	_	_	_	_	_
+2	leimahti	_	_	_	_	_	_	_	_
+3	liekkeihin	_	_	_	_	_	_	_	_
+4	ja	_	_	_	_	_	_	_	_
+5	Kenseth	_	_	_	_	_	_	_	_
+6	käveli	_	_	_	_	_	_	_	_
+7	pois	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01065020
+# text = Kanaanilaisten kaupunki tuhoutui tulipalossa, oletettavasti egyptiläisfaarao Thutmosis III:n sotaretken jäljiltä.
+# text_en = The Canaanite city was destroyed in a fire, presumably in the wake of a campaign by the Egyptian pharaoh Thutmose III.
+1	Kanaanilaisten	_	_	_	_	_	_	_	_
+2	kaupunki	_	_	_	_	_	_	_	_
+3	tuhoutui	_	_	_	_	_	_	_	_
+4	tulipalossa	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	oletettavasti	_	_	_	_	_	_	_	_
+7	egyptiläisfaarao	_	_	_	_	_	_	_	_
+8	Thutmosis	_	_	_	_	_	_	_	_
+9	III:n	_	_	_	_	_	_	_	_
+10	sotaretken	_	_	_	_	_	_	_	_
+11	jäljiltä	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w01020
+# sent_id = w01020016
+# text = Monet muinaiset sivilisaatiot sijaitsivat Välimeren rannoilla, ja meren läheisyys vaikutti niihin suuresti.
+# text_en = Several ancient civilisations were located around the Mediterranean shores, and were greatly influenced by their proximity to the sea.
+1	Monet	_	_	_	_	_	_	_	_
+2	muinaiset	_	_	_	_	_	_	_	_
+3	sivilisaatiot	_	_	_	_	_	_	_	_
+4	sijaitsivat	_	_	_	_	_	_	_	_
+5	Välimeren	_	_	_	_	_	_	_	_
+6	rannoilla	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	ja	_	_	_	_	_	_	_	_
+9	meren	_	_	_	_	_	_	_	_
+10	läheisyys	_	_	_	_	_	_	_	_
+11	vaikutti	_	_	_	_	_	_	_	_
+12	niihin	_	_	_	_	_	_	_	_
+13	suuresti	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01050068
+# text = Mutta vastaperustettu Kiinan tasavalta piti Mongoliaa osana omaa aluettaan.
+# text_en = But, the newly established Republic of China considered Mongolia to be part of its own territory.
+1	Mutta	_	_	_	_	_	_	_	_
+2	vastaperustettu	_	_	_	_	_	_	_	_
+3	Kiinan	_	_	_	_	_	_	_	_
+4	tasavalta	_	_	_	_	_	_	_	_
+5	piti	_	_	_	_	_	_	_	_
+6	Mongoliaa	_	_	_	_	_	_	_	_
+7	osana	_	_	_	_	_	_	_	_
+8	omaa	_	_	_	_	_	_	_	_
+9	aluettaan	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01013096
+# text = On myös kieliä, jotka juontuvat suomesta ja ovat kehittyneet erillään, eli meänkieli Ruotsissa ja kveenin kieli Norjassa.
+# text_en = There are also languages derived from Finnish, having evolved separately, known as Meänkieli in Sweden and Kven in Norway.
+1	On	_	_	_	_	_	_	_	_
+2	myös	_	_	_	_	_	_	_	_
+3	kieliä	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	jotka	_	_	_	_	_	_	_	_
+6	juontuvat	_	_	_	_	_	_	_	_
+7	suomesta	_	_	_	_	_	_	_	_
+8	ja	_	_	_	_	_	_	_	_
+9	ovat	_	_	_	_	_	_	_	_
+10	kehittyneet	_	_	_	_	_	_	_	_
+11	erillään	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	eli	_	_	_	_	_	_	_	_
+14	meänkieli	_	_	_	_	_	_	_	_
+15	Ruotsissa	_	_	_	_	_	_	_	_
+16	ja	_	_	_	_	_	_	_	_
+17	kveenin	_	_	_	_	_	_	_	_
+18	kieli	_	_	_	_	_	_	_	_
+19	Norjassa	_	_	_	_	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n01147
+# sent_id = n01147026
+# text = F1-lipulla pääsee saman päivän konserttiin.
+# text_en = An F1 ticket grants access to the concert on the same day.
+1	F1-lipulla	_	_	_	_	_	_	_	_
+2	pääsee	_	_	_	_	_	_	_	_
+3	saman	_	_	_	_	_	_	_	_
+4	päivän	_	_	_	_	_	_	_	_
+5	konserttiin	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n01110
+# sent_id = n01110006
+# text = Sijoittaja, jolla on keskinkertainen onni ja 10 000 puntaa kiinni velkakirjoissa voi odottaa saavansa 125 punnan voitot vuodessa.
+# text_en = An investor with average luck and £10,000 in bonds could expect to receive £125 in prizes per year.
+1	Sijoittaja	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	jolla	_	_	_	_	_	_	_	_
+4	on	_	_	_	_	_	_	_	_
+5	keskinkertainen	_	_	_	_	_	_	_	_
+6	onni	_	_	_	_	_	_	_	_
+7	ja	_	_	_	_	_	_	_	_
+8	10 000	_	_	_	_	_	_	_	_
+9	puntaa	_	_	_	_	_	_	_	_
+10	kiinni	_	_	_	_	_	_	_	_
+11	velkakirjoissa	_	_	_	_	_	_	_	_
+12	voi	_	_	_	_	_	_	_	_
+13	odottaa	_	_	_	_	_	_	_	_
+14	saavansa	_	_	_	_	_	_	_	_
+15	125	_	_	_	_	_	_	_	_
+16	punnan	_	_	_	_	_	_	_	_
+17	voitot	_	_	_	_	_	_	_	_
+18	vuodessa	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n01062
+# sent_id = n01062035
+# text = Yleensä ne ovat viihdetaiteilijoita, jotka haluavat tehdä kaikenlaista.
+# text_en = They’re usually artists who want to do a bunch of stuff.
+1	Yleensä	_	_	_	_	_	_	_	_
+2	ne	_	_	_	_	_	_	_	_
+3	ovat	_	_	_	_	_	_	_	_
+4	viihdetaiteilijoita	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	jotka	_	_	_	_	_	_	_	_
+7	haluavat	_	_	_	_	_	_	_	_
+8	tehdä	_	_	_	_	_	_	_	_
+9	kaikenlaista	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = w02008055
+# text = He olivat pääasiassa kukkuloilla.
+# text_en = They were primarily on hills.
+1	He	_	_	_	_	_	_	_	_
+2	olivat	_	_	_	_	_	_	_	_
+3	pääasiassa	_	_	_	_	_	_	_	_
+4	kukkuloilla	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = n02066011
+# text = Australialaiset asiantuntijat tekivät uusia päätelmiä tutkittuaan itäafrikkalaisen Tansanian rannikolle huuhtoutuneen Boeingin laskusiivekettä.
+# text_en = The Australian experts drew new conclusions from the investigation of a landing flap from Boeing that had washed up in Tanzania in East Africa.
+1	Australialaiset	_	_	_	_	_	_	_	_
+2	asiantuntijat	_	_	_	_	_	_	_	_
+3	tekivät	_	_	_	_	_	_	_	_
+4	uusia	_	_	_	_	_	_	_	_
+5	päätelmiä	_	_	_	_	_	_	_	_
+6	tutkittuaan	_	_	_	_	_	_	_	_
+7	itäafrikkalaisen	_	_	_	_	_	_	_	_
+8	Tansanian	_	_	_	_	_	_	_	_
+9	rannikolle	_	_	_	_	_	_	_	_
+10	huuhtoutuneen	_	_	_	_	_	_	_	_
+11	Boeingin	_	_	_	_	_	_	_	_
+12	laskusiivekettä	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w04004
+# sent_id = w04004005
+# text = Seudun sisäosa on tasaista ja kukkulaista, eikä eri alueiden välillä ole selkeitä eroja.
+# text_en = The inner part of the region is flat and hilly, with no clear distinction between one area to the next.
+1	Seudun	_	_	_	_	_	_	_	_
+2	sisäosa	_	_	_	_	_	_	_	_
+3	on	_	_	_	_	_	_	_	_
+4	tasaista	_	_	_	_	_	_	_	_
+5	ja	_	_	_	_	_	_	_	_
+6	kukkulaista	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	eikä	_	_	_	_	_	_	_	_
+9	eri	_	_	_	_	_	_	_	_
+10	alueiden	_	_	_	_	_	_	_	_
+11	välillä	_	_	_	_	_	_	_	_
+12	ole	_	_	_	_	_	_	_	_
+13	selkeitä	_	_	_	_	_	_	_	_
+14	eroja	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01010047
+# text = Ensimmäinen kuningas oli Mojmír I (hallitsi 830-846).
+# text_en = Their first king was Mojmír I (ruled 830–846).
+1	Ensimmäinen	_	_	_	_	_	_	_	_
+2	kuningas	_	_	_	_	_	_	_	_
+3	oli	_	_	_	_	_	_	_	_
+4	Mojmír	_	_	_	_	_	_	_	_
+5	I	_	_	_	_	_	_	_	_
+6	(	_	_	_	_	_	_	_	_
+7	hallitsi	_	_	_	_	_	_	_	_
+8	830	_	_	_	_	_	_	_	_
+9	-	_	_	_	_	_	_	_	_
+10	846	_	_	_	_	_	_	_	_
+11	)	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01066068
+# text = Kokeilin etym-yksiköiden löytämistä keskustellen Woodsin kanssa sähköpostitse.
+# text_en = Corresponding with Woods by e-mail, I tried my hand at uncovering an etym.
+1	Kokeilin	_	_	_	_	_	_	_	_
+2	etym-yksiköiden	_	_	_	_	_	_	_	_
+3	löytämistä	_	_	_	_	_	_	_	_
+4	keskustellen	_	_	_	_	_	_	_	_
+5	Woodsin	_	_	_	_	_	_	_	_
+6	kanssa	_	_	_	_	_	_	_	_
+7	sähköpostitse	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01033067
+# text = Tällaiset siirtokunnat alkoivat todennäköisesti vuoden 1000 eKr. tienoilla, kun itäiset melanesialaiset matkustivat pohjoiseen.
+# text_en = Such settlements probably began around 1000 BC, when eastern Melanesians travelled north.
+1	Tällaiset	_	_	_	_	_	_	_	_
+2	siirtokunnat	_	_	_	_	_	_	_	_
+3	alkoivat	_	_	_	_	_	_	_	_
+4	todennäköisesti	_	_	_	_	_	_	_	_
+5	vuoden	_	_	_	_	_	_	_	_
+6	1000	_	_	_	_	_	_	_	_
+7	eKr.	_	_	_	_	_	_	_	_
+8	tienoilla	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	kun	_	_	_	_	_	_	_	_
+11	itäiset	_	_	_	_	_	_	_	_
+12	melanesialaiset	_	_	_	_	_	_	_	_
+13	matkustivat	_	_	_	_	_	_	_	_
+14	pohjoiseen	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01059025
+# text = ”En tiedä, mitä bkt:n kasvu oli Washingtonin ja Lincolnin hallintojen aikana, mutta noiden kausien institutionaalisella kehityksellä oli suuria ja pitkäkestoisia vaikutuksia.”
+# text_en = “I don’t know what G.D.P. growth was during the Washington and Lincoln Administrations, but the institutional developments in those terms had large and long-lasting effects.”
+1	”	_	_	_	_	_	_	_	_
+2	En	_	_	_	_	_	_	_	_
+3	tiedä	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	mitä	_	_	_	_	_	_	_	_
+6	bkt:n	_	_	_	_	_	_	_	_
+7	kasvu	_	_	_	_	_	_	_	_
+8	oli	_	_	_	_	_	_	_	_
+9	Washingtonin	_	_	_	_	_	_	_	_
+10	ja	_	_	_	_	_	_	_	_
+11	Lincolnin	_	_	_	_	_	_	_	_
+12	hallintojen	_	_	_	_	_	_	_	_
+13	aikana	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	mutta	_	_	_	_	_	_	_	_
+16	noiden	_	_	_	_	_	_	_	_
+17	kausien	_	_	_	_	_	_	_	_
+18	institutionaalisella	_	_	_	_	_	_	_	_
+19	kehityksellä	_	_	_	_	_	_	_	_
+20	oli	_	_	_	_	_	_	_	_
+21	suuria	_	_	_	_	_	_	_	_
+22	ja	_	_	_	_	_	_	_	_
+23	pitkäkestoisia	_	_	_	_	_	_	_	_
+24	vaikutuksia	_	_	_	_	_	_	_	_
+25	.	_	_	_	_	_	_	_	_
+26	”	_	_	_	_	_	_	_	_
+
+# newdoc id = w01072
+# sent_id = w01072002
+# text = Sanan ’Hispania’ alkuperä on hyvin kiistanalainen, ja eri päättelyiden todisteet perustuvat parhaimmillaankin ainoastaan todennäköisesti sattumanvaraisiin yhtäläisyyksiin sekä epäilyjä tukeviin todisteisiin.
+# text_en = The origin of the word Hispania is much disputed and the evidence for the various speculations are based merely upon what are at best mere resemblances, likely to be accidental, and suspect supporting evidence.
+1	Sanan	_	_	_	_	_	_	_	_
+2	’	_	_	_	_	_	_	_	_
+3	Hispania	_	_	_	_	_	_	_	_
+4	’	_	_	_	_	_	_	_	_
+5	alkuperä	_	_	_	_	_	_	_	_
+6	on	_	_	_	_	_	_	_	_
+7	hyvin	_	_	_	_	_	_	_	_
+8	kiistanalainen	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	ja	_	_	_	_	_	_	_	_
+11	eri	_	_	_	_	_	_	_	_
+12	päättelyiden	_	_	_	_	_	_	_	_
+13	todisteet	_	_	_	_	_	_	_	_
+14	perustuvat	_	_	_	_	_	_	_	_
+15	parhaimmillaankin	_	_	_	_	_	_	_	_
+16	ainoastaan	_	_	_	_	_	_	_	_
+17	todennäköisesti	_	_	_	_	_	_	_	_
+18	sattumanvaraisiin	_	_	_	_	_	_	_	_
+19	yhtäläisyyksiin	_	_	_	_	_	_	_	_
+20	sekä	_	_	_	_	_	_	_	_
+21	epäilyjä	_	_	_	_	_	_	_	_
+22	tukeviin	_	_	_	_	_	_	_	_
+23	todisteisiin	_	_	_	_	_	_	_	_
+24	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01002058
+# text = Mitä hän sanoo ja mitä hän tekee, se - itse asiassa se on uskomatonta.
+# text_en = What she’s saying and what she’s doing, it — actually, it’s unbelievable.
+1	Mitä	_	_	_	_	_	_	_	_
+2	hän	_	_	_	_	_	_	_	_
+3	sanoo	_	_	_	_	_	_	_	_
+4	ja	_	_	_	_	_	_	_	_
+5	mitä	_	_	_	_	_	_	_	_
+6	hän	_	_	_	_	_	_	_	_
+7	tekee	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	se	_	_	_	_	_	_	_	_
+10	-	_	_	_	_	_	_	_	_
+11	itse	_	_	_	_	_	_	_	_
+12	asiassa	_	_	_	_	_	_	_	_
+13	se	_	_	_	_	_	_	_	_
+14	on	_	_	_	_	_	_	_	_
+15	uskomatonta	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01024016
+# text = RHS-seura keräsi kokeeseen osallistuneilta koululaisilta ja opettajilta kommentteja.
+# text_en = The RHS collected comments sent in by schoolchildren and teachers involved in the experiment.
+1	RHS-seura	_	_	_	_	_	_	_	_
+2	keräsi	_	_	_	_	_	_	_	_
+3	kokeeseen	_	_	_	_	_	_	_	_
+4	osallistuneilta	_	_	_	_	_	_	_	_
+5	koululaisilta	_	_	_	_	_	_	_	_
+6	ja	_	_	_	_	_	_	_	_
+7	opettajilta	_	_	_	_	_	_	_	_
+8	kommentteja	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n01061
+# sent_id = n01061016
+# text = Mutta kun kritiikki Clintonista presidentin puolisona muuttui purevammaksi, Karelista tuli myötätuntoisempi.
+# text_en = But, as the criticism of Clinton as First Lady became more caustic, Karel became more empathetic.
+1	Mutta	_	_	_	_	_	_	_	_
+2	kun	_	_	_	_	_	_	_	_
+3	kritiikki	_	_	_	_	_	_	_	_
+4	Clintonista	_	_	_	_	_	_	_	_
+5	presidentin	_	_	_	_	_	_	_	_
+6	puolisona	_	_	_	_	_	_	_	_
+7	muuttui	_	_	_	_	_	_	_	_
+8	purevammaksi	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	Karelista	_	_	_	_	_	_	_	_
+11	tuli	_	_	_	_	_	_	_	_
+12	myötätuntoisempi	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01139090
+# text = Toinen Skylark-romaanien teema käsittelee modernin informaatioteknologian edeltäjiä.
+# text_en = Another theme of the Skylark novels involves precursors of modern information technology.
+1	Toinen	_	_	_	_	_	_	_	_
+2	Skylark-romaanien	_	_	_	_	_	_	_	_
+3	teema	_	_	_	_	_	_	_	_
+4	käsittelee	_	_	_	_	_	_	_	_
+5	modernin	_	_	_	_	_	_	_	_
+6	informaatioteknologian	_	_	_	_	_	_	_	_
+7	edeltäjiä	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w02017
+# sent_id = w02017046
+# text = Sensuuri hävitti kaikki epätoivottavat vaihtoehdot, julkiseen elämään osallistumisesta oli tullut käytännössä mahdotonta.
+# text_en = The censorship disposed of all undesirable opinions; participation in public life had become practically impossible.
+1	Sensuuri	_	_	_	_	_	_	_	_
+2	hävitti	_	_	_	_	_	_	_	_
+3	kaikki	_	_	_	_	_	_	_	_
+4	epätoivottavat	_	_	_	_	_	_	_	_
+5	vaihtoehdot	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	julkiseen	_	_	_	_	_	_	_	_
+8	elämään	_	_	_	_	_	_	_	_
+9	osallistumisesta	_	_	_	_	_	_	_	_
+10	oli	_	_	_	_	_	_	_	_
+11	tullut	_	_	_	_	_	_	_	_
+12	käytännössä	_	_	_	_	_	_	_	_
+13	mahdotonta	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = w05010026
+# text = Kun senaatti vastasi hänelle lopullisesti kieltäen häntä kilpailemasta konsulaatissa ja antaen hänelle vaihtoehdoiksi joko vetää joukkonsa pois tai tulla yhteiskunnan viholliseksi, hän ymmärsi, että riippumatta valitusta vaihtoehdosta, hän antautuisi aseitta poliittisten vihollistensa käsiin.
+# text_en = But when the Senate answered him definitively by prohibiting him from competing at the consolate and giving him the option of either withdrawing his troops or becoming a public enemy, he understood that, whatever alternative he chose, he would surrender unarmed into the hands of his political enemies.
+1	Kun	_	_	_	_	_	_	_	_
+2	senaatti	_	_	_	_	_	_	_	_
+3	vastasi	_	_	_	_	_	_	_	_
+4	hänelle	_	_	_	_	_	_	_	_
+5	lopullisesti	_	_	_	_	_	_	_	_
+6	kieltäen	_	_	_	_	_	_	_	_
+7	häntä	_	_	_	_	_	_	_	_
+8	kilpailemasta	_	_	_	_	_	_	_	_
+9	konsulaatissa	_	_	_	_	_	_	_	_
+10	ja	_	_	_	_	_	_	_	_
+11	antaen	_	_	_	_	_	_	_	_
+12	hänelle	_	_	_	_	_	_	_	_
+13	vaihtoehdoiksi	_	_	_	_	_	_	_	_
+14	joko	_	_	_	_	_	_	_	_
+15	vetää	_	_	_	_	_	_	_	_
+16	joukkonsa	_	_	_	_	_	_	_	_
+17	pois	_	_	_	_	_	_	_	_
+18	tai	_	_	_	_	_	_	_	_
+19	tulla	_	_	_	_	_	_	_	_
+20	yhteiskunnan	_	_	_	_	_	_	_	_
+21	viholliseksi	_	_	_	_	_	_	_	_
+22	,	_	_	_	_	_	_	_	_
+23	hän	_	_	_	_	_	_	_	_
+24	ymmärsi	_	_	_	_	_	_	_	_
+25	,	_	_	_	_	_	_	_	_
+26	että	_	_	_	_	_	_	_	_
+27	riippumatta	_	_	_	_	_	_	_	_
+28	valitusta	_	_	_	_	_	_	_	_
+29	vaihtoehdosta	_	_	_	_	_	_	_	_
+30	,	_	_	_	_	_	_	_	_
+31	hän	_	_	_	_	_	_	_	_
+32	antautuisi	_	_	_	_	_	_	_	_
+33	aseitta	_	_	_	_	_	_	_	_
+34	poliittisten	_	_	_	_	_	_	_	_
+35	vihollistensa	_	_	_	_	_	_	_	_
+36	käsiin	_	_	_	_	_	_	_	_
+37	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01002075
+# text = Vuoden 2019 talviuniversiadit järjestää Krasnoyarsk.
+# text_en = The 2019 Winter Universiade will be hosted by Krasnoyarsk.
+1	Vuoden	_	_	_	_	_	_	_	_
+2	2019	_	_	_	_	_	_	_	_
+3	talviuniversiadit	_	_	_	_	_	_	_	_
+4	järjestää	_	_	_	_	_	_	_	_
+5	Krasnoyarsk	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w01119
+# sent_id = w01119059
+# text = Voidakseen välttää samanlaisen ongelman Jasminen kanssa, elokuvantekijät lopulta päättivät, että prinsessa animoitiin kokonaan yhdessä studiossa.
+# text_en = To avoid experiencing a similar dilemma with Jasmine, the filmmakers ultimately decided to have the princess animated entirely at one studio.
+1	Voidakseen	_	_	_	_	_	_	_	_
+2	välttää	_	_	_	_	_	_	_	_
+3	samanlaisen	_	_	_	_	_	_	_	_
+4	ongelman	_	_	_	_	_	_	_	_
+5	Jasminen	_	_	_	_	_	_	_	_
+6	kanssa	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	elokuvantekijät	_	_	_	_	_	_	_	_
+9	lopulta	_	_	_	_	_	_	_	_
+10	päättivät	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	että	_	_	_	_	_	_	_	_
+13	prinsessa	_	_	_	_	_	_	_	_
+14	animoitiin	_	_	_	_	_	_	_	_
+15	kokonaan	_	_	_	_	_	_	_	_
+16	yhdessä	_	_	_	_	_	_	_	_
+17	studiossa	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w03009
+# sent_id = w03009029
+# text = Nämä koulut, jotka rahoitettiin täysin Bernard Tapien omilla rahoilla, suljettiin vuonna 1994, kun hänet julistettiin konkurssiin.
+# text_en = Financed entirely with Bernard Tapie's own money, these schools were closed in 1994 when he was declared bankrupt.
+1	Nämä	_	_	_	_	_	_	_	_
+2	koulut	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	jotka	_	_	_	_	_	_	_	_
+5	rahoitettiin	_	_	_	_	_	_	_	_
+6	täysin	_	_	_	_	_	_	_	_
+7	Bernard	_	_	_	_	_	_	_	_
+8	Tapien	_	_	_	_	_	_	_	_
+9	omilla	_	_	_	_	_	_	_	_
+10	rahoilla	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	suljettiin	_	_	_	_	_	_	_	_
+13	vuonna	_	_	_	_	_	_	_	_
+14	1994	_	_	_	_	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	kun	_	_	_	_	_	_	_	_
+17	hänet	_	_	_	_	_	_	_	_
+18	julistettiin	_	_	_	_	_	_	_	_
+19	konkurssiin	_	_	_	_	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01100050
+# text = Sopimus avasi uusia satamia kaupalle ja mahdollisti ulkomaalaisten matkustamisen sisämaassa.
+# text_en = The treaty opened new ports to trade and allowed foreigners to travel in the interior.
+1	Sopimus	_	_	_	_	_	_	_	_
+2	avasi	_	_	_	_	_	_	_	_
+3	uusia	_	_	_	_	_	_	_	_
+4	satamia	_	_	_	_	_	_	_	_
+5	kaupalle	_	_	_	_	_	_	_	_
+6	ja	_	_	_	_	_	_	_	_
+7	mahdollisti	_	_	_	_	_	_	_	_
+8	ulkomaalaisten	_	_	_	_	_	_	_	_
+9	matkustamisen	_	_	_	_	_	_	_	_
+10	sisämaassa	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01109036
+# text = Lenny on vannoutunut poikamies, jolla on huono onni naisten kanssa.
+# text_en = Lenny is a persistent bachelor who has poor luck with women.
+1	Lenny	_	_	_	_	_	_	_	_
+2	on	_	_	_	_	_	_	_	_
+3	vannoutunut	_	_	_	_	_	_	_	_
+4	poikamies	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	jolla	_	_	_	_	_	_	_	_
+7	on	_	_	_	_	_	_	_	_
+8	huono	_	_	_	_	_	_	_	_
+9	onni	_	_	_	_	_	_	_	_
+10	naisten	_	_	_	_	_	_	_	_
+11	kanssa	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# newdoc id = w01084
+# sent_id = w01084085
+# text = Tämä kaupunkivaltio syntyi samana aikakautena kuin Sukhothai.
+# text_en = This city-state emerged in the same period as Sukhothai.
+1	Tämä	_	_	_	_	_	_	_	_
+2	kaupunkivaltio	_	_	_	_	_	_	_	_
+3	syntyi	_	_	_	_	_	_	_	_
+4	samana	_	_	_	_	_	_	_	_
+5	aikakautena	_	_	_	_	_	_	_	_
+6	kuin	_	_	_	_	_	_	_	_
+7	Sukhothai	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n05006
+# sent_id = n05006002
+# text = Sotaelokuvien tai cowboy- ja intiaanielokuvien taistelut, tappelut ja pahoinpitelyt olivat mielettömiä.
+# text_en = In the war films or cowboy and Indian films the battles, fights and beatings were out of this world.
+1	Sotaelokuvien	_	_	_	_	_	_	_	_
+2	tai	_	_	_	_	_	_	_	_
+3	cowboy-	_	_	_	_	_	_	_	_
+4	ja	_	_	_	_	_	_	_	_
+5	intiaanielokuvien	_	_	_	_	_	_	_	_
+6	taistelut	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	tappelut	_	_	_	_	_	_	_	_
+9	ja	_	_	_	_	_	_	_	_
+10	pahoinpitelyt	_	_	_	_	_	_	_	_
+11	olivat	_	_	_	_	_	_	_	_
+12	mielettömiä	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01045006
+# text = Karibianmeri pysyi Euraasian asukkaille tuntemattomana vuoteen 1492 asti, jolloin Kristoffer Kolumbus purjehti ensimmäisenä Karibian vesille etsiessään merireittiä Aasiaan.
+# text_en = The Caribbean Sea had been unknown to the populations of Eurasia until 1492, when Christopher Columbus first sailed into Caribbean waters on a quest to find a sea route to Asia.
+1	Karibianmeri	_	_	_	_	_	_	_	_
+2	pysyi	_	_	_	_	_	_	_	_
+3	Euraasian	_	_	_	_	_	_	_	_
+4	asukkaille	_	_	_	_	_	_	_	_
+5	tuntemattomana	_	_	_	_	_	_	_	_
+6	vuoteen	_	_	_	_	_	_	_	_
+7	1492	_	_	_	_	_	_	_	_
+8	asti	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	jolloin	_	_	_	_	_	_	_	_
+11	Kristoffer	_	_	_	_	_	_	_	_
+12	Kolumbus	_	_	_	_	_	_	_	_
+13	purjehti	_	_	_	_	_	_	_	_
+14	ensimmäisenä	_	_	_	_	_	_	_	_
+15	Karibian	_	_	_	_	_	_	_	_
+16	vesille	_	_	_	_	_	_	_	_
+17	etsiessään	_	_	_	_	_	_	_	_
+18	merireittiä	_	_	_	_	_	_	_	_
+19	Aasiaan	_	_	_	_	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = w05005084
+# text = Tämä oli se armonlaukaus ja rohkaisu, jota uudisasukkaat tarvitsivat saadakseen itsenäisyytensä.
+# text_en = This was the coup de grâce and encouragement the settlers needed to get their independence.
+1	Tämä	_	_	_	_	_	_	_	_
+2	oli	_	_	_	_	_	_	_	_
+3	se	_	_	_	_	_	_	_	_
+4	armonlaukaus	_	_	_	_	_	_	_	_
+5	ja	_	_	_	_	_	_	_	_
+6	rohkaisu	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	jota	_	_	_	_	_	_	_	_
+9	uudisasukkaat	_	_	_	_	_	_	_	_
+10	tarvitsivat	_	_	_	_	_	_	_	_
+11	saadakseen	_	_	_	_	_	_	_	_
+12	itsenäisyytensä	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = n05007025
+# text = Ja heitä pitää tervehtiä avoimin hengin ja selkein mielin, sillä he muodostavat kauneuden ja toivon uuden sukupolven.
+# text_en = And they must be greeted with an open spirit and clear mind because they form the new generation of beauty and hope.
+1	Ja	_	_	_	_	_	_	_	_
+2	heitä	_	_	_	_	_	_	_	_
+3	pitää	_	_	_	_	_	_	_	_
+4	tervehtiä	_	_	_	_	_	_	_	_
+5	avoimin	_	_	_	_	_	_	_	_
+6	hengin	_	_	_	_	_	_	_	_
+7	ja	_	_	_	_	_	_	_	_
+8	selkein	_	_	_	_	_	_	_	_
+9	mielin	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	sillä	_	_	_	_	_	_	_	_
+12	he	_	_	_	_	_	_	_	_
+13	muodostavat	_	_	_	_	_	_	_	_
+14	kauneuden	_	_	_	_	_	_	_	_
+15	ja	_	_	_	_	_	_	_	_
+16	toivon	_	_	_	_	_	_	_	_
+17	uuden	_	_	_	_	_	_	_	_
+18	sukupolven	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01079049
+# text = Vuonna 1538 Espanjan inkvisitio varoitti jäseniään uskomasta kaikkea, mitä Malleus sanoi.
+# text_en = In 1538 the Spanish Inquisition cautioned its members not to believe everything the Malleus said.
+1	Vuonna	_	_	_	_	_	_	_	_
+2	1538	_	_	_	_	_	_	_	_
+3	Espanjan	_	_	_	_	_	_	_	_
+4	inkvisitio	_	_	_	_	_	_	_	_
+5	varoitti	_	_	_	_	_	_	_	_
+6	jäseniään	_	_	_	_	_	_	_	_
+7	uskomasta	_	_	_	_	_	_	_	_
+8	kaikkea	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	mitä	_	_	_	_	_	_	_	_
+11	Malleus	_	_	_	_	_	_	_	_
+12	sanoi	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n01050
+# sent_id = n01050006
+# text = Rauta on keholle välttämätöntä, jotta se pystyy tuottamaan hemoglobiinia. Se on proteiini, jota on veren punasoluissa, jotka kuljettavat happea kehon kudoksiin.
+# text_en = Iron is an essential element the body requires to produce hemoglobin, the protein found in red blood cells that's responsible for transporting oxygen to tissues in the body.
+1	Rauta	_	_	_	_	_	_	_	_
+2	on	_	_	_	_	_	_	_	_
+3	keholle	_	_	_	_	_	_	_	_
+4	välttämätöntä	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	jotta	_	_	_	_	_	_	_	_
+7	se	_	_	_	_	_	_	_	_
+8	pystyy	_	_	_	_	_	_	_	_
+9	tuottamaan	_	_	_	_	_	_	_	_
+10	hemoglobiinia	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+12	Se	_	_	_	_	_	_	_	_
+13	on	_	_	_	_	_	_	_	_
+14	proteiini	_	_	_	_	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	jota	_	_	_	_	_	_	_	_
+17	on	_	_	_	_	_	_	_	_
+18	veren	_	_	_	_	_	_	_	_
+19	punasoluissa	_	_	_	_	_	_	_	_
+20	,	_	_	_	_	_	_	_	_
+21	jotka	_	_	_	_	_	_	_	_
+22	kuljettavat	_	_	_	_	_	_	_	_
+23	happea	_	_	_	_	_	_	_	_
+24	kehon	_	_	_	_	_	_	_	_
+25	kudoksiin	_	_	_	_	_	_	_	_
+26	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01140032
+# text = Rona kehitti parannetun tavan polonium-lähteiden valmisteluun ja alfaemissioiden tuottamiseen.
+# text_en = Rona developed an enhanced method of preparing polonium sources and producing alpha-emissions.
+1	Rona	_	_	_	_	_	_	_	_
+2	kehitti	_	_	_	_	_	_	_	_
+3	parannetun	_	_	_	_	_	_	_	_
+4	tavan	_	_	_	_	_	_	_	_
+5	polonium-lähteiden	_	_	_	_	_	_	_	_
+6	valmisteluun	_	_	_	_	_	_	_	_
+7	ja	_	_	_	_	_	_	_	_
+8	alfaemissioiden	_	_	_	_	_	_	_	_
+9	tuottamiseen	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01054017
+# text = Monet ihmiset, mukaan lukien alkuperäisryhmittymät, väittävät, että puvut väheksyvät Kanadan reservaatti-intiaanien kulttuuria.
+# text_en = Many people, including Indigenous groups, argue they trivialize First Nations culture.
+1	Monet	_	_	_	_	_	_	_	_
+2	ihmiset	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	mukaan	_	_	_	_	_	_	_	_
+5	lukien	_	_	_	_	_	_	_	_
+6	alkuperäisryhmittymät	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	väittävät	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	että	_	_	_	_	_	_	_	_
+11	puvut	_	_	_	_	_	_	_	_
+12	väheksyvät	_	_	_	_	_	_	_	_
+13	Kanadan	_	_	_	_	_	_	_	_
+14	reservaatti-intiaanien	_	_	_	_	_	_	_	_
+15	kulttuuria	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n02027
+# sent_id = n02027007
+# text = Parkerin mukaan Venäjän salaisen palvelun aktiivisia agentteja on Isossa-Britanniassa paljon.
+# text_en = According to Parker, Russian Secret Service agents are active in large numbers in Great Britain.
+1	Parkerin	_	_	_	_	_	_	_	_
+2	mukaan	_	_	_	_	_	_	_	_
+3	Venäjän	_	_	_	_	_	_	_	_
+4	salaisen	_	_	_	_	_	_	_	_
+5	palvelun	_	_	_	_	_	_	_	_
+6	aktiivisia	_	_	_	_	_	_	_	_
+7	agentteja	_	_	_	_	_	_	_	_
+8	on	_	_	_	_	_	_	_	_
+9	Isossa-Britanniassa	_	_	_	_	_	_	_	_
+10	paljon	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01028069
+# text = Kansallinen reaktio Kansasin tapahtumiin osoitti, kuinka syvästi jakautunut maasta oli tullut.
+# text_en = National reaction to the events in Kansas demonstrated how deeply divided the country had become.
+1	Kansallinen	_	_	_	_	_	_	_	_
+2	reaktio	_	_	_	_	_	_	_	_
+3	Kansasin	_	_	_	_	_	_	_	_
+4	tapahtumiin	_	_	_	_	_	_	_	_
+5	osoitti	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	kuinka	_	_	_	_	_	_	_	_
+8	syvästi	_	_	_	_	_	_	_	_
+9	jakautunut	_	_	_	_	_	_	_	_
+10	maasta	_	_	_	_	_	_	_	_
+11	oli	_	_	_	_	_	_	_	_
+12	tullut	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01065022
+# text = 1300-luvulta eKr. peräisin olevat Amarna-kirjeet pitävät sisällään kymmenen kirjettä Gezerin kuninkailta, joissa he vannovat uskollisuutta Egyptin faaraolle.
+# text_en = The Tell Amarna letters, dating from the 14th century BCE, include ten letters from the kings of Gezer swearing loyalty to the Egyptian pharaoh.
+1	1300-luvulta	_	_	_	_	_	_	_	_
+2	eKr.	_	_	_	_	_	_	_	_
+3	peräisin	_	_	_	_	_	_	_	_
+4	olevat	_	_	_	_	_	_	_	_
+5	Amarna	_	_	_	_	_	_	_	_
+6	-kirjeet	_	_	_	_	_	_	_	_
+7	pitävät	_	_	_	_	_	_	_	_
+8	sisällään	_	_	_	_	_	_	_	_
+9	kymmenen	_	_	_	_	_	_	_	_
+10	kirjettä	_	_	_	_	_	_	_	_
+11	Gezerin	_	_	_	_	_	_	_	_
+12	kuninkailta	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	joissa	_	_	_	_	_	_	_	_
+15	he	_	_	_	_	_	_	_	_
+16	vannovat	_	_	_	_	_	_	_	_
+17	uskollisuutta	_	_	_	_	_	_	_	_
+18	Egyptin	_	_	_	_	_	_	_	_
+19	faaraolle	_	_	_	_	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01072021
+# text = Yhdessä heidän useista surevista Facebook-julkaisuistaan oli rivi, joka olisi riemastuttanut Chrisiä: ”Afrikkalaisempaa kuin sinä en ole tavannut.”
+# text_en = One of their many grieving Facebook posts has a line which would have delighted Chris: “More African than you, I have not known.”
+1	Yhdessä	_	_	_	_	_	_	_	_
+2	heidän	_	_	_	_	_	_	_	_
+3	useista	_	_	_	_	_	_	_	_
+4	surevista	_	_	_	_	_	_	_	_
+5	Facebook-julkaisuistaan	_	_	_	_	_	_	_	_
+6	oli	_	_	_	_	_	_	_	_
+7	rivi	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	joka	_	_	_	_	_	_	_	_
+10	olisi	_	_	_	_	_	_	_	_
+11	riemastuttanut	_	_	_	_	_	_	_	_
+12	Chrisiä	_	_	_	_	_	_	_	_
+13	:	_	_	_	_	_	_	_	_
+14	”	_	_	_	_	_	_	_	_
+15	Afrikkalaisempaa	_	_	_	_	_	_	_	_
+16	kuin	_	_	_	_	_	_	_	_
+17	sinä	_	_	_	_	_	_	_	_
+18	en	_	_	_	_	_	_	_	_
+19	ole	_	_	_	_	_	_	_	_
+20	tavannut	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+22	”	_	_	_	_	_	_	_	_
+
+# newdoc id = n02075
+# sent_id = n02075020
+# text = Dündar varoitti Eurooppaa osoittamasta liikaa ymmärrystä Erdoganin menettelytavoille.
+# text_en = Dündar warned Europe about having too much understanding for Erdogan's course.
+1	Dündar	_	_	_	_	_	_	_	_
+2	varoitti	_	_	_	_	_	_	_	_
+3	Eurooppaa	_	_	_	_	_	_	_	_
+4	osoittamasta	_	_	_	_	_	_	_	_
+5	liikaa	_	_	_	_	_	_	_	_
+6	ymmärrystä	_	_	_	_	_	_	_	_
+7	Erdoganin	_	_	_	_	_	_	_	_
+8	menettelytavoille	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01048090
+# text = 1960-luvulta lähtien Etelä-Korean talous on kasvanut suunnattomasti, ja taloudellinen rakenne on muuttunut radikaalisti.
+# text_en = Since the 1960s, the South Korean economy has grown enormously and the economic structure was radically transformed.
+1	1960-luvulta	_	_	_	_	_	_	_	_
+2	lähtien	_	_	_	_	_	_	_	_
+3	Etelä-Korean	_	_	_	_	_	_	_	_
+4	talous	_	_	_	_	_	_	_	_
+5	on	_	_	_	_	_	_	_	_
+6	kasvanut	_	_	_	_	_	_	_	_
+7	suunnattomasti	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	ja	_	_	_	_	_	_	_	_
+10	taloudellinen	_	_	_	_	_	_	_	_
+11	rakenne	_	_	_	_	_	_	_	_
+12	on	_	_	_	_	_	_	_	_
+13	muuttunut	_	_	_	_	_	_	_	_
+14	radikaalisti	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01132056
+# text = Thompsonin artikkelissa oletetaan, että mayat olivat perimmiltään ”rauhaa rakastava” kansa, koska heillä ei ollut selkeitä puolustuksia.
+# text_en = The article by Thompson assumes that the Maya were ultimately “peaceful” people since they lacked apparent defenses.
+1	Thompsonin	_	_	_	_	_	_	_	_
+2	artikkelissa	_	_	_	_	_	_	_	_
+3	oletetaan	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	että	_	_	_	_	_	_	_	_
+6	mayat	_	_	_	_	_	_	_	_
+7	olivat	_	_	_	_	_	_	_	_
+8	perimmiltään	_	_	_	_	_	_	_	_
+9	”	_	_	_	_	_	_	_	_
+10	rauhaa	_	_	_	_	_	_	_	_
+11	rakastava	_	_	_	_	_	_	_	_
+12	”	_	_	_	_	_	_	_	_
+13	kansa	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	koska	_	_	_	_	_	_	_	_
+16	heillä	_	_	_	_	_	_	_	_
+17	ei	_	_	_	_	_	_	_	_
+18	ollut	_	_	_	_	_	_	_	_
+19	selkeitä	_	_	_	_	_	_	_	_
+20	puolustuksia	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n01130
+# sent_id = n01130003
+# text = Pohjois-Carolina on nollapiste näissä vaaleissa.
+# text_en = North Carolina is ground zero in this election.
+1	Pohjois-Carolina	_	_	_	_	_	_	_	_
+2	on	_	_	_	_	_	_	_	_
+3	nollapiste	_	_	_	_	_	_	_	_
+4	näissä	_	_	_	_	_	_	_	_
+5	vaaleissa	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = w03009044
+# text = Vaikka saksalaisyhtiö oli maailman suurin tarvikkeiden ja tekstiilien jakelija, se oli taloudellisissa vaikeuksissa.
+# text_en = Despite being the number one distributor of equipment and textiles worldwide, the German company was in financial trouble.
+1	Vaikka	_	_	_	_	_	_	_	_
+2	saksalaisyhtiö	_	_	_	_	_	_	_	_
+3	oli	_	_	_	_	_	_	_	_
+4	maailman	_	_	_	_	_	_	_	_
+5	suurin	_	_	_	_	_	_	_	_
+6	tarvikkeiden	_	_	_	_	_	_	_	_
+7	ja	_	_	_	_	_	_	_	_
+8	tekstiilien	_	_	_	_	_	_	_	_
+9	jakelija	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	se	_	_	_	_	_	_	_	_
+12	oli	_	_	_	_	_	_	_	_
+13	taloudellisissa	_	_	_	_	_	_	_	_
+14	vaikeuksissa	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n01008
+# sent_id = n01008017
+# text = Osuus on noussut tasaisesti vuosien kuluessa - väestörekisterin mukaan vain 11 prosenttia kokonaisäänistä oli annettuennen vuoden 1996 vaalipäivää  - ja todennäköisesti nousee nopeasti taas tänä vuonna.
+# text_en = That share has been rising steadily over the years — only 11 percent of the total vote was cast before Election Day in 1996, according to the Census Bureau  -- and seems likely to jump again this year.
+1	Osuus	_	_	_	_	_	_	_	_
+2	on	_	_	_	_	_	_	_	_
+3	noussut	_	_	_	_	_	_	_	_
+4	tasaisesti	_	_	_	_	_	_	_	_
+5	vuosien	_	_	_	_	_	_	_	_
+6	kuluessa	_	_	_	_	_	_	_	_
+7	-	_	_	_	_	_	_	_	_
+8	väestörekisterin	_	_	_	_	_	_	_	_
+9	mukaan	_	_	_	_	_	_	_	_
+10	vain	_	_	_	_	_	_	_	_
+11	11	_	_	_	_	_	_	_	_
+12	prosenttia	_	_	_	_	_	_	_	_
+13	kokonaisäänistä	_	_	_	_	_	_	_	_
+14	oli	_	_	_	_	_	_	_	_
+15	annettu	_	_	_	_	_	_	_	_
+16	ennen	_	_	_	_	_	_	_	_
+17	vuoden	_	_	_	_	_	_	_	_
+18	1996	_	_	_	_	_	_	_	_
+19	vaalipäivää	_	_	_	_	_	_	_	_
+20	-	_	_	_	_	_	_	_	_
+21	ja	_	_	_	_	_	_	_	_
+22	todennäköisesti	_	_	_	_	_	_	_	_
+23	nousee	_	_	_	_	_	_	_	_
+24	nopeasti	_	_	_	_	_	_	_	_
+25	taas	_	_	_	_	_	_	_	_
+26	tänä	_	_	_	_	_	_	_	_
+27	vuonna	_	_	_	_	_	_	_	_
+28	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n01029
+# sent_id = n01029006
+# text = Seagal oli otsikoissa sen jälkeen, kun hän kuvasi Venäjän toimia sen vuonna 2014 haltuun ottamalla Krimillä ”erittäin perustelluiksi”.
+# text_en = Seagal made headlines when he described Russia's actions in Crimea, which it annexed in 2014, as "very reasonable".
+1	Seagal	_	_	_	_	_	_	_	_
+2	oli	_	_	_	_	_	_	_	_
+3	otsikoissa	_	_	_	_	_	_	_	_
+4	sen	_	_	_	_	_	_	_	_
+5	jälkeen	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	kun	_	_	_	_	_	_	_	_
+8	hän	_	_	_	_	_	_	_	_
+9	kuvasi	_	_	_	_	_	_	_	_
+10	Venäjän	_	_	_	_	_	_	_	_
+11	toimia	_	_	_	_	_	_	_	_
+12	sen	_	_	_	_	_	_	_	_
+13	vuonna	_	_	_	_	_	_	_	_
+14	2014	_	_	_	_	_	_	_	_
+15	haltuun	_	_	_	_	_	_	_	_
+16	ottamalla	_	_	_	_	_	_	_	_
+17	Krimillä	_	_	_	_	_	_	_	_
+18	”	_	_	_	_	_	_	_	_
+19	erittäin	_	_	_	_	_	_	_	_
+20	perustelluiksi	_	_	_	_	_	_	_	_
+21	”	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01073042
+# text = Viettäessään aikaa siellä, Kipling myös tapasi ja rakastui Florence Garrardiin, joka oli täysihoidossa Trixin luona Southseassa (jonne Trix oli palannut).
+# text_en = During his time there, Kipling also met and fell in love with Florence Garrard who was boarding with Trix at Southsea (to which Trix had returned).
+1	Viettäessään	_	_	_	_	_	_	_	_
+2	aikaa	_	_	_	_	_	_	_	_
+3	siellä	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	Kipling	_	_	_	_	_	_	_	_
+6	myös	_	_	_	_	_	_	_	_
+7	tapasi	_	_	_	_	_	_	_	_
+8	ja	_	_	_	_	_	_	_	_
+9	rakastui	_	_	_	_	_	_	_	_
+10	Florence	_	_	_	_	_	_	_	_
+11	Garrardiin	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	joka	_	_	_	_	_	_	_	_
+14	oli	_	_	_	_	_	_	_	_
+15	täysihoidossa	_	_	_	_	_	_	_	_
+16	Trixin	_	_	_	_	_	_	_	_
+17	luona	_	_	_	_	_	_	_	_
+18	Southseassa	_	_	_	_	_	_	_	_
+19	(	_	_	_	_	_	_	_	_
+20	jonne	_	_	_	_	_	_	_	_
+21	Trix	_	_	_	_	_	_	_	_
+22	oli	_	_	_	_	_	_	_	_
+23	palannut	_	_	_	_	_	_	_	_
+24	)	_	_	_	_	_	_	_	_
+25	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01043014
+# text = Sen vuosibudjetti on yli 1,4 miljardia dollaria ja se työllistää yli 6000 henkeä.
+# text_en = Its annual budget is more than $1.4 billion, and it employs more than 6,000 people.
+1	Sen	_	_	_	_	_	_	_	_
+2	vuosibudjetti	_	_	_	_	_	_	_	_
+3	on	_	_	_	_	_	_	_	_
+4	yli	_	_	_	_	_	_	_	_
+5	1,4	_	_	_	_	_	_	_	_
+6	miljardia	_	_	_	_	_	_	_	_
+7	dollaria	_	_	_	_	_	_	_	_
+8	ja	_	_	_	_	_	_	_	_
+9	se	_	_	_	_	_	_	_	_
+10	työllistää	_	_	_	_	_	_	_	_
+11	yli	_	_	_	_	_	_	_	_
+12	6000	_	_	_	_	_	_	_	_
+13	henkeä	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# newdoc id = n01041
+# sent_id = n01041006
+# text = ”Tämä on katastrofi kipupotilaille”, Mailis sanoi CBC News -uutistoimiston haastattelussa torstaina.
+# text_en = "This is a disaster for pain patients," Mailis said in an interview Thursday with CBC News.
+1	”	_	_	_	_	_	_	_	_
+2	Tämä	_	_	_	_	_	_	_	_
+3	on	_	_	_	_	_	_	_	_
+4	katastrofi	_	_	_	_	_	_	_	_
+5	kipupotilaille	_	_	_	_	_	_	_	_
+6	”	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	Mailis	_	_	_	_	_	_	_	_
+9	sanoi	_	_	_	_	_	_	_	_
+10	CBC	_	_	_	_	_	_	_	_
+11	News	_	_	_	_	_	_	_	_
+12	-uutistoimiston	_	_	_	_	_	_	_	_
+13	haastattelussa	_	_	_	_	_	_	_	_
+14	torstaina	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = w01115024
+# text = Hän valmistui ja sai maisterin arvon 21. huhtikuuta 1882.
+# text_en = He graduated and obtained an M.A. on 21 April 1882.
+1	Hän	_	_	_	_	_	_	_	_
+2	valmistui	_	_	_	_	_	_	_	_
+3	ja	_	_	_	_	_	_	_	_
+4	sai	_	_	_	_	_	_	_	_
+5	maisterin	_	_	_	_	_	_	_	_
+6	arvon	_	_	_	_	_	_	_	_
+7	21.	_	_	_	_	_	_	_	_
+8	huhtikuuta	_	_	_	_	_	_	_	_
+9	1882	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = n01034060
+# text = Trudeau esittää tuon kutsun Yhdysvaltain 45. presidentille, kuka hän sitten onkaan.
+# text_en = Trudeau will extend that invitation to the 45th president of the United States, whoever he or she may be.
+1	Trudeau	_	_	_	_	_	_	_	_
+2	esittää	_	_	_	_	_	_	_	_
+3	tuon	_	_	_	_	_	_	_	_
+4	kutsun	_	_	_	_	_	_	_	_
+5	Yhdysvaltain	_	_	_	_	_	_	_	_
+6	45.	_	_	_	_	_	_	_	_
+7	presidentille	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	kuka	_	_	_	_	_	_	_	_
+10	hän	_	_	_	_	_	_	_	_
+11	sitten	_	_	_	_	_	_	_	_
+12	onkaan	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+

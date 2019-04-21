@@ -1,0 +1,695 @@
+# newpar id = 129
+# sent_id = 129
+# text = Žinoma, tai tinkamiausias būdas: todėl visą savo sąmoningą gyvenimą pasisakydavau ir dabar pasisakau už nepriklausomą Lietuvą.
+1	Žinoma	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	tai	_	_	_	_	_	_	_	_
+4	tinkamiausias	_	_	_	_	_	_	_	_
+5	būdas	_	_	_	_	_	_	_	_
+6	:	_	_	_	_	_	_	_	_
+7	todėl	_	_	_	_	_	_	_	_
+8	visą	_	_	_	_	_	_	_	_
+9	savo	_	_	_	_	_	_	_	_
+10	sąmoningą	_	_	_	_	_	_	_	_
+11	gyvenimą	_	_	_	_	_	_	_	_
+12	pasisakydavau	_	_	_	_	_	_	_	_
+13	ir	_	_	_	_	_	_	_	_
+14	dabar	_	_	_	_	_	_	_	_
+15	pasisakau	_	_	_	_	_	_	_	_
+16	už	_	_	_	_	_	_	_	_
+17	nepriklausomą	_	_	_	_	_	_	_	_
+18	Lietuvą	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# newpar id = lt-ru-5-p9
+# sent_id = lt-ru-5-p9-18
+# text = Sovietiniais laikais „Vilmoje“ dirbęs dabartinis socialdemokratų partijos politikas Algirdas Sysas pasakojo žinojęs, jog kituose skyriuose gaminami prietaisai ir lėktuvams, ir kitai karinei technikai.
+1	Sovietiniais	_	_	_	_	_	_	_	_
+2	laikais	_	_	_	_	_	_	_	_
+3	„	_	_	_	_	_	_	_	_
+4	Vilmoje	_	_	_	_	_	_	_	_
+5	“	_	_	_	_	_	_	_	_
+6	dirbęs	_	_	_	_	_	_	_	_
+7	dabartinis	_	_	_	_	_	_	_	_
+8	socialdemokratų	_	_	_	_	_	_	_	_
+9	partijos	_	_	_	_	_	_	_	_
+10	politikas	_	_	_	_	_	_	_	_
+11	Algirdas	_	_	_	_	_	_	_	_
+12	Sysas	_	_	_	_	_	_	_	_
+13	pasakojo	_	_	_	_	_	_	_	_
+14	žinojęs	_	_	_	_	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	jog	_	_	_	_	_	_	_	_
+17	kituose	_	_	_	_	_	_	_	_
+18	skyriuose	_	_	_	_	_	_	_	_
+19	gaminami	_	_	_	_	_	_	_	_
+20	prietaisai	_	_	_	_	_	_	_	_
+21	ir	_	_	_	_	_	_	_	_
+22	lėktuvams	_	_	_	_	_	_	_	_
+23	,	_	_	_	_	_	_	_	_
+24	ir	_	_	_	_	_	_	_	_
+25	kitai	_	_	_	_	_	_	_	_
+26	karinei	_	_	_	_	_	_	_	_
+27	technikai	_	_	_	_	_	_	_	_
+28	.	_	_	_	_	_	_	_	_
+
+# newpar id = 157
+# sent_id = 157
+# text = Dabar, ko gero, daug sunkiau užgesinti priešiškumą, negu anuomet.
+1	Dabar	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	ko	_	_	_	_	_	_	_	_
+4	gero	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	daug	_	_	_	_	_	_	_	_
+7	sunkiau	_	_	_	_	_	_	_	_
+8	užgesinti	_	_	_	_	_	_	_	_
+9	priešiškumą	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	negu	_	_	_	_	_	_	_	_
+12	anuomet	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# newpar id = 132
+# sent_id = 132
+# text = Beje, ateityje (tiesa, gana tolimoje) nepriklausomas valstybes iš viso galbūt pavaduos globalinė sąjungą, kurios bruožai pastebimi ir dabar: tai anaiptol nereiškia, kad išnyks tautiniai skirtingumai, kalbos ir tradicijos.
+1	Beje	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	ateityje	_	_	_	_	_	_	_	_
+4	(	_	_	_	_	_	_	_	_
+5	tiesa	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	gana	_	_	_	_	_	_	_	_
+8	tolimoje	_	_	_	_	_	_	_	_
+9	)	_	_	_	_	_	_	_	_
+10	nepriklausomas	_	_	_	_	_	_	_	_
+11	valstybes	_	_	_	_	_	_	_	_
+12	iš	_	_	_	_	_	_	_	_
+13	viso	_	_	_	_	_	_	_	_
+14	galbūt	_	_	_	_	_	_	_	_
+15	pavaduos	_	_	_	_	_	_	_	_
+16	globalinė	_	_	_	_	_	_	_	_
+17	sąjungą	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	kurios	_	_	_	_	_	_	_	_
+20	bruožai	_	_	_	_	_	_	_	_
+21	pastebimi	_	_	_	_	_	_	_	_
+22	ir	_	_	_	_	_	_	_	_
+23	dabar	_	_	_	_	_	_	_	_
+24	:	_	_	_	_	_	_	_	_
+25	tai	_	_	_	_	_	_	_	_
+26	anaiptol	_	_	_	_	_	_	_	_
+27	nereiškia	_	_	_	_	_	_	_	_
+28	,	_	_	_	_	_	_	_	_
+29	kad	_	_	_	_	_	_	_	_
+30	išnyks	_	_	_	_	_	_	_	_
+31	tautiniai	_	_	_	_	_	_	_	_
+32	skirtingumai	_	_	_	_	_	_	_	_
+33	,	_	_	_	_	_	_	_	_
+34	kalbos	_	_	_	_	_	_	_	_
+35	ir	_	_	_	_	_	_	_	_
+36	tradicijos	_	_	_	_	_	_	_	_
+37	.	_	_	_	_	_	_	_	_
+
+# sent_id = lt-ru-5-p3-5
+# text = Tokių nukritusiame lėktuve, kuris gruodžio 25 dieną pražudė 92 žmones, buvo trys.
+1	Tokių	_	_	_	_	_	_	_	_
+2	nukritusiame	_	_	_	_	_	_	_	_
+3	lėktuve	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	kuris	_	_	_	_	_	_	_	_
+6	gruodžio	_	_	_	_	_	_	_	_
+7	25	_	_	_	_	_	_	_	_
+8	dieną	_	_	_	_	_	_	_	_
+9	pražudė	_	_	_	_	_	_	_	_
+10	92	_	_	_	_	_	_	_	_
+11	žmones	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	buvo	_	_	_	_	_	_	_	_
+14	trys	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# newpar id = 41
+# sent_id = 41
+# text = Mūsų Sokratas buvo Vytautas Kavolis.
+1	Mūsų	_	_	_	_	_	_	_	_
+2	Sokratas	_	_	_	_	_	_	_	_
+3	buvo	_	_	_	_	_	_	_	_
+4	Vytautas	_	_	_	_	_	_	_	_
+5	Kavolis	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# newpar id = 87
+# sent_id = 87
+# text = Dar blogiau yra Vengrijoje ir Slovakijoje, kur fašistoidinės tendencijos toli prasiskverbė į valdžią, o pasipriešinimo joms ne tiek daug.
+1	Dar	_	_	_	_	_	_	_	_
+2	blogiau	_	_	_	_	_	_	_	_
+3	yra	_	_	_	_	_	_	_	_
+4	Vengrijoje	_	_	_	_	_	_	_	_
+5	ir	_	_	_	_	_	_	_	_
+6	Slovakijoje	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	kur	_	_	_	_	_	_	_	_
+9	fašistoidinės	_	_	_	_	_	_	_	_
+10	tendencijos	_	_	_	_	_	_	_	_
+11	toli	_	_	_	_	_	_	_	_
+12	prasiskverbė	_	_	_	_	_	_	_	_
+13	į	_	_	_	_	_	_	_	_
+14	valdžią	_	_	_	_	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	o	_	_	_	_	_	_	_	_
+17	pasipriešinimo	_	_	_	_	_	_	_	_
+18	joms	_	_	_	_	_	_	_	_
+19	ne	_	_	_	_	_	_	_	_
+20	tiek	_	_	_	_	_	_	_	_
+21	daug	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# newpar id = 2
+# sent_id = 2
+# text = Konkurse tada ji užėmė tik trečią vietą: pirmąją gavo Kratinas už komediją „Butelis“ (apie paties dramaturgo kovą su alkoholizmu), antrąją Amipsijus, apie kurį beveik nieko nežinome.
+1	Konkurse	_	_	_	_	_	_	_	_
+2	tada	_	_	_	_	_	_	_	_
+3	ji	_	_	_	_	_	_	_	_
+4	užėmė	_	_	_	_	_	_	_	_
+5	tik	_	_	_	_	_	_	_	_
+6	trečią	_	_	_	_	_	_	_	_
+7	vietą	_	_	_	_	_	_	_	_
+8	:	_	_	_	_	_	_	_	_
+9	pirmąją	_	_	_	_	_	_	_	_
+10	gavo	_	_	_	_	_	_	_	_
+11	Kratinas	_	_	_	_	_	_	_	_
+12	už	_	_	_	_	_	_	_	_
+13	komediją	_	_	_	_	_	_	_	_
+14	„	_	_	_	_	_	_	_	_
+15	Butelis	_	_	_	_	_	_	_	_
+16	“	_	_	_	_	_	_	_	_
+17	(	_	_	_	_	_	_	_	_
+18	apie	_	_	_	_	_	_	_	_
+19	paties	_	_	_	_	_	_	_	_
+20	dramaturgo	_	_	_	_	_	_	_	_
+21	kovą	_	_	_	_	_	_	_	_
+22	su	_	_	_	_	_	_	_	_
+23	alkoholizmu	_	_	_	_	_	_	_	_
+24	)	_	_	_	_	_	_	_	_
+25	,	_	_	_	_	_	_	_	_
+26	antrąją	_	_	_	_	_	_	_	_
+27	Amipsijus	_	_	_	_	_	_	_	_
+28	,	_	_	_	_	_	_	_	_
+29	apie	_	_	_	_	_	_	_	_
+30	kurį	_	_	_	_	_	_	_	_
+31	beveik	_	_	_	_	_	_	_	_
+32	nieko	_	_	_	_	_	_	_	_
+33	nežinome	_	_	_	_	_	_	_	_
+34	.	_	_	_	_	_	_	_	_
+
+# newpar id = 140
+# sent_id = 140
+# text = Esu ne kartą kalbėjęs apie pavojingą „lietuviškąją triadą“ (sakyčiau, lietuviškąjį Bermudų trikampį) – nesutarimus su rusais, lenkais ir žydais, arba su Rusija, Lenkija ir Izraeliu.
+1	Esu	_	_	_	_	_	_	_	_
+2	ne	_	_	_	_	_	_	_	_
+3	kartą	_	_	_	_	_	_	_	_
+4	kalbėjęs	_	_	_	_	_	_	_	_
+5	apie	_	_	_	_	_	_	_	_
+6	pavojingą	_	_	_	_	_	_	_	_
+7	„	_	_	_	_	_	_	_	_
+8	lietuviškąją	_	_	_	_	_	_	_	_
+9	triadą	_	_	_	_	_	_	_	_
+10	“	_	_	_	_	_	_	_	_
+11	(	_	_	_	_	_	_	_	_
+12	sakyčiau	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	lietuviškąjį	_	_	_	_	_	_	_	_
+15	Bermudų	_	_	_	_	_	_	_	_
+16	trikampį	_	_	_	_	_	_	_	_
+17	)	_	_	_	_	_	_	_	_
+18	–	_	_	_	_	_	_	_	_
+19	nesutarimus	_	_	_	_	_	_	_	_
+20	su	_	_	_	_	_	_	_	_
+21	rusais	_	_	_	_	_	_	_	_
+22	,	_	_	_	_	_	_	_	_
+23	lenkais	_	_	_	_	_	_	_	_
+24	ir	_	_	_	_	_	_	_	_
+25	žydais	_	_	_	_	_	_	_	_
+26	,	_	_	_	_	_	_	_	_
+27	arba	_	_	_	_	_	_	_	_
+28	su	_	_	_	_	_	_	_	_
+29	Rusija	_	_	_	_	_	_	_	_
+30	,	_	_	_	_	_	_	_	_
+31	Lenkija	_	_	_	_	_	_	_	_
+32	ir	_	_	_	_	_	_	_	_
+33	Izraeliu	_	_	_	_	_	_	_	_
+34	.	_	_	_	_	_	_	_	_
+
+# newpar id = 193
+# sent_id = 193
+# text = Vienas jų sako: „Vajėzau!
+1	Vienas	_	_	_	_	_	_	_	_
+2	jų	_	_	_	_	_	_	_	_
+3	sako	_	_	_	_	_	_	_	_
+4	:	_	_	_	_	_	_	_	_
+5	„	_	_	_	_	_	_	_	_
+6	Vajėzau	_	_	_	_	_	_	_	_
+7	!	_	_	_	_	_	_	_	_
+
+# newpar id = 26
+# sent_id = 26
+# text = Geroje dramoje nebūna taip, kad viena pusė būtų visiškai neteisi.
+1	Geroje	_	_	_	_	_	_	_	_
+2	dramoje	_	_	_	_	_	_	_	_
+3	nebūna	_	_	_	_	_	_	_	_
+4	taip	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	kad	_	_	_	_	_	_	_	_
+7	viena	_	_	_	_	_	_	_	_
+8	pusė	_	_	_	_	_	_	_	_
+9	būtų	_	_	_	_	_	_	_	_
+10	visiškai	_	_	_	_	_	_	_	_
+11	neteisi	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# newpar id = 82
+# sent_id = 82
+# text = Jį stiprina nauji istorijos reiškiniai – didėjanti nelygybė, naujoviška beatodairiška korupcija, pasaulinė ekonominė krizė ir dėl to atsiradusi vartotojiškų siekių frustracija (kaip tik dėl tokių dalykų kadaise atsirado nacizmas, o, beje, ir komunizmas).
+1	Jį	_	_	_	_	_	_	_	_
+2	stiprina	_	_	_	_	_	_	_	_
+3	nauji	_	_	_	_	_	_	_	_
+4	istorijos	_	_	_	_	_	_	_	_
+5	reiškiniai	_	_	_	_	_	_	_	_
+6	–	_	_	_	_	_	_	_	_
+7	didėjanti	_	_	_	_	_	_	_	_
+8	nelygybė	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	naujoviška	_	_	_	_	_	_	_	_
+11	beatodairiška	_	_	_	_	_	_	_	_
+12	korupcija	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	pasaulinė	_	_	_	_	_	_	_	_
+15	ekonominė	_	_	_	_	_	_	_	_
+16	krizė	_	_	_	_	_	_	_	_
+17	ir	_	_	_	_	_	_	_	_
+18	dėl	_	_	_	_	_	_	_	_
+19	to	_	_	_	_	_	_	_	_
+20	atsiradusi	_	_	_	_	_	_	_	_
+21	vartotojiškų	_	_	_	_	_	_	_	_
+22	siekių	_	_	_	_	_	_	_	_
+23	frustracija	_	_	_	_	_	_	_	_
+24	(	_	_	_	_	_	_	_	_
+25	kaip	_	_	_	_	_	_	_	_
+26	tik	_	_	_	_	_	_	_	_
+27	dėl	_	_	_	_	_	_	_	_
+28	tokių	_	_	_	_	_	_	_	_
+29	dalykų	_	_	_	_	_	_	_	_
+30	kadaise	_	_	_	_	_	_	_	_
+31	atsirado	_	_	_	_	_	_	_	_
+32	nacizmas	_	_	_	_	_	_	_	_
+33	,	_	_	_	_	_	_	_	_
+34	o	_	_	_	_	_	_	_	_
+35	,	_	_	_	_	_	_	_	_
+36	beje	_	_	_	_	_	_	_	_
+37	,	_	_	_	_	_	_	_	_
+38	ir	_	_	_	_	_	_	_	_
+39	komunizmas	_	_	_	_	_	_	_	_
+40	)	_	_	_	_	_	_	_	_
+41	.	_	_	_	_	_	_	_	_
+
+# newpar id = 47
+# sent_id = 47
+# text = Kalbama apie tradicines Lietuvos vertybes, kurios yra priešingos ir priešiškos abejotinoms Europos bei globalizmo vertybėms.
+1	Kalbama	_	_	_	_	_	_	_	_
+2	apie	_	_	_	_	_	_	_	_
+3	tradicines	_	_	_	_	_	_	_	_
+4	Lietuvos	_	_	_	_	_	_	_	_
+5	vertybes	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	kurios	_	_	_	_	_	_	_	_
+8	yra	_	_	_	_	_	_	_	_
+9	priešingos	_	_	_	_	_	_	_	_
+10	ir	_	_	_	_	_	_	_	_
+11	priešiškos	_	_	_	_	_	_	_	_
+12	abejotinoms	_	_	_	_	_	_	_	_
+13	Europos	_	_	_	_	_	_	_	_
+14	bei	_	_	_	_	_	_	_	_
+15	globalizmo	_	_	_	_	_	_	_	_
+16	vertybėms	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = lt-ru-5-p17-35
+# text = Bet kokiu atveju trijų MARS BM mikrofonų užtenka, mat, anot R. Beniušio, „Vilma“ gamino itin jautrią įrangą – tokios troško ir pasiklausymo aparatūrą naudojęs KGB.
+1	Bet	_	_	_	_	_	_	_	_
+2	kokiu	_	_	_	_	_	_	_	_
+3	atveju	_	_	_	_	_	_	_	_
+4	trijų	_	_	_	_	_	_	_	_
+5	MARS	_	_	_	_	_	_	_	_
+6	BM	_	_	_	_	_	_	_	_
+7	mikrofonų	_	_	_	_	_	_	_	_
+8	užtenka	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	mat	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	anot	_	_	_	_	_	_	_	_
+13	R.	_	_	_	_	_	_	_	_
+14	Beniušio	_	_	_	_	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	„	_	_	_	_	_	_	_	_
+17	Vilma	_	_	_	_	_	_	_	_
+18	“	_	_	_	_	_	_	_	_
+19	gamino	_	_	_	_	_	_	_	_
+20	itin	_	_	_	_	_	_	_	_
+21	jautrią	_	_	_	_	_	_	_	_
+22	įrangą	_	_	_	_	_	_	_	_
+23	–	_	_	_	_	_	_	_	_
+24	tokios	_	_	_	_	_	_	_	_
+25	troško	_	_	_	_	_	_	_	_
+26	ir	_	_	_	_	_	_	_	_
+27	pasiklausymo	_	_	_	_	_	_	_	_
+28	aparatūrą	_	_	_	_	_	_	_	_
+29	naudojęs	_	_	_	_	_	_	_	_
+30	KGB	_	_	_	_	_	_	_	_
+31	.	_	_	_	_	_	_	_	_
+
+# newpar id = 142
+# sent_id = 142
+# text = Deja, taip nėra – šiandien jie pastebimai aštrėja.
+1	Deja	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	taip	_	_	_	_	_	_	_	_
+4	nėra	_	_	_	_	_	_	_	_
+5	–	_	_	_	_	_	_	_	_
+6	šiandien	_	_	_	_	_	_	_	_
+7	jie	_	_	_	_	_	_	_	_
+8	pastebimai	_	_	_	_	_	_	_	_
+9	aštrėja	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# newpar id = 188
+# sent_id = 188
+# text = Kiekvienas Rusijos priešas – net jeigu jis neatsakingas, nekompetentingas arba ne itin civilizuotas – automatiškai yra Lietuvos draugas.
+1	Kiekvienas	_	_	_	_	_	_	_	_
+2	Rusijos	_	_	_	_	_	_	_	_
+3	priešas	_	_	_	_	_	_	_	_
+4	–	_	_	_	_	_	_	_	_
+5	net	_	_	_	_	_	_	_	_
+6	jeigu	_	_	_	_	_	_	_	_
+7	jis	_	_	_	_	_	_	_	_
+8	neatsakingas	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	nekompetentingas	_	_	_	_	_	_	_	_
+11	arba	_	_	_	_	_	_	_	_
+12	ne	_	_	_	_	_	_	_	_
+13	itin	_	_	_	_	_	_	_	_
+14	civilizuotas	_	_	_	_	_	_	_	_
+15	–	_	_	_	_	_	_	_	_
+16	automatiškai	_	_	_	_	_	_	_	_
+17	yra	_	_	_	_	_	_	_	_
+18	Lietuvos	_	_	_	_	_	_	_	_
+19	draugas	_	_	_	_	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+
+# newpar id = lt-ru-5-p12
+# sent_id = lt-ru-5-p12-25
+# text = Anot kito gamykloje dirbusio lietuvio, Romualdo Beniušio, vėliau pradėti gaminti ir magnetofonai prietaisams MARS BM, kuriuos kruopščiai tikrindavo saugumiečiai.
+1	Anot	_	_	_	_	_	_	_	_
+2	kito	_	_	_	_	_	_	_	_
+3	gamykloje	_	_	_	_	_	_	_	_
+4	dirbusio	_	_	_	_	_	_	_	_
+5	lietuvio	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	Romualdo	_	_	_	_	_	_	_	_
+8	Beniušio	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	vėliau	_	_	_	_	_	_	_	_
+11	pradėti	_	_	_	_	_	_	_	_
+12	gaminti	_	_	_	_	_	_	_	_
+13	ir	_	_	_	_	_	_	_	_
+14	magnetofonai	_	_	_	_	_	_	_	_
+15	prietaisams	_	_	_	_	_	_	_	_
+16	MARS	_	_	_	_	_	_	_	_
+17	BM	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	kuriuos	_	_	_	_	_	_	_	_
+20	kruopščiai	_	_	_	_	_	_	_	_
+21	tikrindavo	_	_	_	_	_	_	_	_
+22	saugumiečiai	_	_	_	_	_	_	_	_
+23	.	_	_	_	_	_	_	_	_
+
+# newpar id = lt-ru-5-p4
+# sent_id = lt-ru-5-p4-7
+# text = Paprastai, kai į lėktuvai nukrenta į jūrą, nustatyti katastrofos priežastis būna ypač sunku.
+1	Paprastai	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	kai	_	_	_	_	_	_	_	_
+4	į	_	_	_	_	_	_	_	_
+5	lėktuvai	_	_	_	_	_	_	_	_
+6	nukrenta	_	_	_	_	_	_	_	_
+7	į	_	_	_	_	_	_	_	_
+8	jūrą	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	nustatyti	_	_	_	_	_	_	_	_
+11	katastrofos	_	_	_	_	_	_	_	_
+12	priežastis	_	_	_	_	_	_	_	_
+13	būna	_	_	_	_	_	_	_	_
+14	ypač	_	_	_	_	_	_	_	_
+15	sunku	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# newpar id = 211
+# sent_id = 211
+# text = Gali turėti savo politiką, bet negali dieną naktį skelbti tos politikos priešininkų išdavikais ir svetimųjų agentais, kuriems nėra vietos Lietuvoje.
+1	Gali	_	_	_	_	_	_	_	_
+2	turėti	_	_	_	_	_	_	_	_
+3	savo	_	_	_	_	_	_	_	_
+4	politiką	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	bet	_	_	_	_	_	_	_	_
+7	negali	_	_	_	_	_	_	_	_
+8	dieną	_	_	_	_	_	_	_	_
+9	naktį	_	_	_	_	_	_	_	_
+10	skelbti	_	_	_	_	_	_	_	_
+11	tos	_	_	_	_	_	_	_	_
+12	politikos	_	_	_	_	_	_	_	_
+13	priešininkų	_	_	_	_	_	_	_	_
+14	išdavikais	_	_	_	_	_	_	_	_
+15	ir	_	_	_	_	_	_	_	_
+16	svetimųjų	_	_	_	_	_	_	_	_
+17	agentais	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	kuriems	_	_	_	_	_	_	_	_
+20	nėra	_	_	_	_	_	_	_	_
+21	vietos	_	_	_	_	_	_	_	_
+22	Lietuvoje	_	_	_	_	_	_	_	_
+23	.	_	_	_	_	_	_	_	_
+
+# newpar id = 133
+# sent_id = 133
+# text = Absoliučiai nepriklausoma šių dienų pasaulyje yra nebent Šiaurės Korėja; visos kitos šalys, įskaitant JAV ir Rusiją, daugiau ar mažiau riboja savo veikimo laisvę, atsižvelgdamos į kitų interesus (būna, kad ir neatsižvelgia, bet tada yra teisingai baramos).
+1	Absoliučiai	_	_	_	_	_	_	_	_
+2	nepriklausoma	_	_	_	_	_	_	_	_
+3	šių	_	_	_	_	_	_	_	_
+4	dienų	_	_	_	_	_	_	_	_
+5	pasaulyje	_	_	_	_	_	_	_	_
+6	yra	_	_	_	_	_	_	_	_
+7	nebent	_	_	_	_	_	_	_	_
+8	Šiaurės	_	_	_	_	_	_	_	_
+9	Korėja	_	_	_	_	_	_	_	_
+10	;	_	_	_	_	_	_	_	_
+11	visos	_	_	_	_	_	_	_	_
+12	kitos	_	_	_	_	_	_	_	_
+13	šalys	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	įskaitant	_	_	_	_	_	_	_	_
+16	JAV	_	_	_	_	_	_	_	_
+17	ir	_	_	_	_	_	_	_	_
+18	Rusiją	_	_	_	_	_	_	_	_
+19	,	_	_	_	_	_	_	_	_
+20	daugiau	_	_	_	_	_	_	_	_
+21	ar	_	_	_	_	_	_	_	_
+22	mažiau	_	_	_	_	_	_	_	_
+23	riboja	_	_	_	_	_	_	_	_
+24	savo	_	_	_	_	_	_	_	_
+25	veikimo	_	_	_	_	_	_	_	_
+26	laisvę	_	_	_	_	_	_	_	_
+27	,	_	_	_	_	_	_	_	_
+28	atsižvelgdamos	_	_	_	_	_	_	_	_
+29	į	_	_	_	_	_	_	_	_
+30	kitų	_	_	_	_	_	_	_	_
+31	interesus	_	_	_	_	_	_	_	_
+32	(	_	_	_	_	_	_	_	_
+33	būna	_	_	_	_	_	_	_	_
+34	,	_	_	_	_	_	_	_	_
+35	kad	_	_	_	_	_	_	_	_
+36	ir	_	_	_	_	_	_	_	_
+37	neatsižvelgia	_	_	_	_	_	_	_	_
+38	,	_	_	_	_	_	_	_	_
+39	bet	_	_	_	_	_	_	_	_
+40	tada	_	_	_	_	_	_	_	_
+41	yra	_	_	_	_	_	_	_	_
+42	teisingai	_	_	_	_	_	_	_	_
+43	baramos	_	_	_	_	_	_	_	_
+44	)	_	_	_	_	_	_	_	_
+45	.	_	_	_	_	_	_	_	_
+
+# newpar id = 27
+# sent_id = 27
+# text = Taip nėra ir Strepsiado-Sokrato (tiksliau, Aristofano-Sokrato) konflikte.
+1	Taip	_	_	_	_	_	_	_	_
+2	nėra	_	_	_	_	_	_	_	_
+3	ir	_	_	_	_	_	_	_	_
+4	Strepsiado	_	_	_	_	_	_	_	_
+5	-	_	_	_	_	_	_	_	_
+6	Sokrato	_	_	_	_	_	_	_	_
+7	(	_	_	_	_	_	_	_	_
+8	tiksliau	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	Aristofano	_	_	_	_	_	_	_	_
+11	-	_	_	_	_	_	_	_	_
+12	Sokrato	_	_	_	_	_	_	_	_
+13	)	_	_	_	_	_	_	_	_
+14	konflikte	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# newpar id = 103
+# sent_id = 103
+# text = Taip, dekonstruojama anachroniška, XIX amžiaus ir Smetonos laikų valstybinė ir tautinė sąmonė, kurią užkonservavo sovietmetis, ir kurią dekonstruoti seniai laikas.
+1	Taip	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	dekonstruojama	_	_	_	_	_	_	_	_
+4	anachroniška	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	XIX	_	_	_	_	_	_	_	_
+7	amžiaus	_	_	_	_	_	_	_	_
+8	ir	_	_	_	_	_	_	_	_
+9	Smetonos	_	_	_	_	_	_	_	_
+10	laikų	_	_	_	_	_	_	_	_
+11	valstybinė	_	_	_	_	_	_	_	_
+12	ir	_	_	_	_	_	_	_	_
+13	tautinė	_	_	_	_	_	_	_	_
+14	sąmonė	_	_	_	_	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	kurią	_	_	_	_	_	_	_	_
+17	užkonservavo	_	_	_	_	_	_	_	_
+18	sovietmetis	_	_	_	_	_	_	_	_
+19	,	_	_	_	_	_	_	_	_
+20	ir	_	_	_	_	_	_	_	_
+21	kurią	_	_	_	_	_	_	_	_
+22	dekonstruoti	_	_	_	_	_	_	_	_
+23	seniai	_	_	_	_	_	_	_	_
+24	laikas	_	_	_	_	_	_	_	_
+25	.	_	_	_	_	_	_	_	_
+
+# newpar id = 111
+# sent_id = 111
+# text = Pirmiausia, interneto ir lėktuvų epochoje silpnėja ryšys tarp tautos ir teritorijos.
+1	Pirmiausia	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	interneto	_	_	_	_	_	_	_	_
+4	ir	_	_	_	_	_	_	_	_
+5	lėktuvų	_	_	_	_	_	_	_	_
+6	epochoje	_	_	_	_	_	_	_	_
+7	silpnėja	_	_	_	_	_	_	_	_
+8	ryšys	_	_	_	_	_	_	_	_
+9	tarp	_	_	_	_	_	_	_	_
+10	tautos	_	_	_	_	_	_	_	_
+11	ir	_	_	_	_	_	_	_	_
+12	teritorijos	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# newpar id = 63
+# sent_id = 63
+# text = Deja, neatsitiko nieko ypatingo: panašios tendencijos ryškėjo dar Sąjūdžio laikais, nors tad laisvės siekimas buvo toks uždegantis ir patrauklus, kad norėjosi jų nepastebėti.
+1	Deja	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	neatsitiko	_	_	_	_	_	_	_	_
+4	nieko	_	_	_	_	_	_	_	_
+5	ypatingo	_	_	_	_	_	_	_	_
+6	:	_	_	_	_	_	_	_	_
+7	panašios	_	_	_	_	_	_	_	_
+8	tendencijos	_	_	_	_	_	_	_	_
+9	ryškėjo	_	_	_	_	_	_	_	_
+10	dar	_	_	_	_	_	_	_	_
+11	Sąjūdžio	_	_	_	_	_	_	_	_
+12	laikais	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	nors	_	_	_	_	_	_	_	_
+15	tad	_	_	_	_	_	_	_	_
+16	laisvės	_	_	_	_	_	_	_	_
+17	siekimas	_	_	_	_	_	_	_	_
+18	buvo	_	_	_	_	_	_	_	_
+19	toks	_	_	_	_	_	_	_	_
+20	uždegantis	_	_	_	_	_	_	_	_
+21	ir	_	_	_	_	_	_	_	_
+22	patrauklus	_	_	_	_	_	_	_	_
+23	,	_	_	_	_	_	_	_	_
+24	kad	_	_	_	_	_	_	_	_
+25	norėjosi	_	_	_	_	_	_	_	_
+26	jų	_	_	_	_	_	_	_	_
+27	nepastebėti	_	_	_	_	_	_	_	_
+28	.	_	_	_	_	_	_	_	_
+
+# newpar id = 15
+# sent_id = 15
+# text = Šiandien daug kas įtartų, kad Sokratas yra žydas, ar bent turėjo žydę motiną, o jei ne, tai jo žmona Ksantipė tikriausia žydė.
+1	Šiandien	_	_	_	_	_	_	_	_
+2	daug	_	_	_	_	_	_	_	_
+3	kas	_	_	_	_	_	_	_	_
+4	įtartų	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	kad	_	_	_	_	_	_	_	_
+7	Sokratas	_	_	_	_	_	_	_	_
+8	yra	_	_	_	_	_	_	_	_
+9	žydas	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	ar	_	_	_	_	_	_	_	_
+12	bent	_	_	_	_	_	_	_	_
+13	turėjo	_	_	_	_	_	_	_	_
+14	žydę	_	_	_	_	_	_	_	_
+15	motiną	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	o	_	_	_	_	_	_	_	_
+18	jei	_	_	_	_	_	_	_	_
+19	ne	_	_	_	_	_	_	_	_
+20	,	_	_	_	_	_	_	_	_
+21	tai	_	_	_	_	_	_	_	_
+22	jo	_	_	_	_	_	_	_	_
+23	žmona	_	_	_	_	_	_	_	_
+24	Ksantipė	_	_	_	_	_	_	_	_
+25	tikriausia	_	_	_	_	_	_	_	_
+26	žydė	_	_	_	_	_	_	_	_
+27	.	_	_	_	_	_	_	_	_
+
+# newpar id = lt-ru-3-p2
+# sent_id = lt-ru-3-p1-2
+# text = Rašytoja Vanda Juknaitė šeštadienį Vytauto Didžiojo universitete Kaune paskelbta 2016-ųjų Tolerancijos žmogumi.
+1	Rašytoja	_	_	_	_	_	_	_	_
+2	Vanda	_	_	_	_	_	_	_	_
+3	Juknaitė	_	_	_	_	_	_	_	_
+4	šeštadienį	_	_	_	_	_	_	_	_
+5	Vytauto	_	_	_	_	_	_	_	_
+6	Didžiojo	_	_	_	_	_	_	_	_
+7	universitete	_	_	_	_	_	_	_	_
+8	Kaune	_	_	_	_	_	_	_	_
+9	paskelbta	_	_	_	_	_	_	_	_
+10	2016-ųjų	_	_	_	_	_	_	_	_
+11	Tolerancijos	_	_	_	_	_	_	_	_
+12	žmogumi	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# newpar id = 148
+# sent_id = 148
+# text = Kada Vilnija grįžo Lietuvai, daugelis tenykščių gyventojų dar nesunkiai galėjo pakrypti Lietuvos pusėn.
+1	Kada	_	_	_	_	_	_	_	_
+2	Vilnija	_	_	_	_	_	_	_	_
+3	grįžo	_	_	_	_	_	_	_	_
+4	Lietuvai	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	daugelis	_	_	_	_	_	_	_	_
+7	tenykščių	_	_	_	_	_	_	_	_
+8	gyventojų	_	_	_	_	_	_	_	_
+9	dar	_	_	_	_	_	_	_	_
+10	nesunkiai	_	_	_	_	_	_	_	_
+11	galėjo	_	_	_	_	_	_	_	_
+12	pakrypti	_	_	_	_	_	_	_	_
+13	Lietuvos	_	_	_	_	_	_	_	_
+14	pusėn	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+

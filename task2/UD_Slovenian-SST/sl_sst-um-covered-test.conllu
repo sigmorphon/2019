@@ -1,0 +1,3566 @@
+# sent_id = gos.053-0467
+# text = se nisi še zbudila danes
+1	se	_	_	_	_	_	_	_	_
+2	nisi	_	_	_	_	_	_	_	_
+3	še	_	_	_	_	_	_	_	_
+4	zbudila	_	_	_	_	_	_	_	_
+5	danes	_	_	_	_	_	_	_	_
+
+# sent_id = gos.176-0796
+# text = eee … ja lani pa en dan izjemoma zaradi tega ker so se pač praznik pa eee tako zgodaj je bilo ne
+1	eee	_	_	_	_	_	_	_	_
+2	…	_	_	_	_	_	_	_	_
+3	ja	_	_	_	_	_	_	_	_
+4	lani	_	_	_	_	_	_	_	_
+5	pa	_	_	_	_	_	_	_	_
+6	en	_	_	_	_	_	_	_	_
+7	dan	_	_	_	_	_	_	_	_
+8	izjemoma	_	_	_	_	_	_	_	_
+9	zaradi	_	_	_	_	_	_	_	_
+10	tega	_	_	_	_	_	_	_	_
+11	ker	_	_	_	_	_	_	_	_
+12	so	_	_	_	_	_	_	_	_
+13	se	_	_	_	_	_	_	_	_
+14	pač	_	_	_	_	_	_	_	_
+15	praznik	_	_	_	_	_	_	_	_
+16	pa	_	_	_	_	_	_	_	_
+17	eee	_	_	_	_	_	_	_	_
+18	tako	_	_	_	_	_	_	_	_
+19	zgodaj	_	_	_	_	_	_	_	_
+20	je	_	_	_	_	_	_	_	_
+21	bilo	_	_	_	_	_	_	_	_
+22	ne	_	_	_	_	_	_	_	_
+
+# sent_id = gos.239-0009
+# text = ja razu [gap] imaš enega imaš nekoga od eee od foha ja
+1	ja	_	_	_	_	_	_	_	_
+2	razu	_	_	_	_	_	_	_	_
+3	[gap]	_	_	_	_	_	_	_	_
+4	imaš	_	_	_	_	_	_	_	_
+5	enega	_	_	_	_	_	_	_	_
+6	imaš	_	_	_	_	_	_	_	_
+7	nekoga	_	_	_	_	_	_	_	_
+8	od	_	_	_	_	_	_	_	_
+9	eee	_	_	_	_	_	_	_	_
+10	od	_	_	_	_	_	_	_	_
+11	foha	_	_	_	_	_	_	_	_
+12	ja	_	_	_	_	_	_	_	_
+
+# sent_id = gos.224-0099
+# text = [name:personal] sem videla v cerkvi
+1	[name:personal]	_	_	_	_	_	_	_	_
+2	sem	_	_	_	_	_	_	_	_
+3	videla	_	_	_	_	_	_	_	_
+4	v	_	_	_	_	_	_	_	_
+5	cerkvi	_	_	_	_	_	_	_	_
+
+# sent_id = gos.003-0204
+# text = se pravi imamo v resnici ravnotežno situacijo to je tako kot da nimamo nobenega mikrovalovnega gretja
+1	se	_	_	_	_	_	_	_	_
+2	pravi	_	_	_	_	_	_	_	_
+3	imamo	_	_	_	_	_	_	_	_
+4	v	_	_	_	_	_	_	_	_
+5	resnici	_	_	_	_	_	_	_	_
+6	ravnotežno	_	_	_	_	_	_	_	_
+7	situacijo	_	_	_	_	_	_	_	_
+8	to	_	_	_	_	_	_	_	_
+9	je	_	_	_	_	_	_	_	_
+10	tako	_	_	_	_	_	_	_	_
+11	kot	_	_	_	_	_	_	_	_
+12	da	_	_	_	_	_	_	_	_
+13	nimamo	_	_	_	_	_	_	_	_
+14	nobenega	_	_	_	_	_	_	_	_
+15	mikrovalovnega	_	_	_	_	_	_	_	_
+16	gretja	_	_	_	_	_	_	_	_
+
+# sent_id = gos.249-0189
+# text = ja
+1	ja	_	_	_	_	_	_	_	_
+
+# sent_id = gos.209-0082
+# text = mhm
+1	mhm	_	_	_	_	_	_	_	_
+
+# sent_id = gos.260-0234
+# text = ne kaj pa eee ja daj daj
+1	ne	_	_	_	_	_	_	_	_
+2	kaj	_	_	_	_	_	_	_	_
+3	pa	_	_	_	_	_	_	_	_
+4	eee	_	_	_	_	_	_	_	_
+5	ja	_	_	_	_	_	_	_	_
+6	daj	_	_	_	_	_	_	_	_
+7	daj	_	_	_	_	_	_	_	_
+
+# sent_id = gos.182-0181
+# text = pa tudi pač mislim se da videti na več koncih
+1	pa	_	_	_	_	_	_	_	_
+2	tudi	_	_	_	_	_	_	_	_
+3	pač	_	_	_	_	_	_	_	_
+4	mislim	_	_	_	_	_	_	_	_
+5	se	_	_	_	_	_	_	_	_
+6	da	_	_	_	_	_	_	_	_
+7	videti	_	_	_	_	_	_	_	_
+8	na	_	_	_	_	_	_	_	_
+9	več	_	_	_	_	_	_	_	_
+10	koncih	_	_	_	_	_	_	_	_
+
+# sent_id = gos.197-0047
+# text = ja to je verjetno so zobni vratovi ki so razgaljeni ne [gap]
+1	ja	_	_	_	_	_	_	_	_
+2	to	_	_	_	_	_	_	_	_
+3	je	_	_	_	_	_	_	_	_
+4	verjetno	_	_	_	_	_	_	_	_
+5	so	_	_	_	_	_	_	_	_
+6	zobni	_	_	_	_	_	_	_	_
+7	vratovi	_	_	_	_	_	_	_	_
+8	ki	_	_	_	_	_	_	_	_
+9	so	_	_	_	_	_	_	_	_
+10	razgaljeni	_	_	_	_	_	_	_	_
+11	ne	_	_	_	_	_	_	_	_
+12	[gap]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.145-0216
+# text = po svoje ne
+1	po	_	_	_	_	_	_	_	_
+2	svoje	_	_	_	_	_	_	_	_
+3	ne	_	_	_	_	_	_	_	_
+
+# sent_id = gos.057-0249
+# text = [pause]
+1	[pause]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.164-0505
+# text = to imaš zdaj super veš [incident]
+1	to	_	_	_	_	_	_	_	_
+2	imaš	_	_	_	_	_	_	_	_
+3	zdaj	_	_	_	_	_	_	_	_
+4	super	_	_	_	_	_	_	_	_
+5	veš	_	_	_	_	_	_	_	_
+6	[incident]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.169-0153
+# text = tudi francozinja v težavah
+1	tudi	_	_	_	_	_	_	_	_
+2	francozinja	_	_	_	_	_	_	_	_
+3	v	_	_	_	_	_	_	_	_
+4	težavah	_	_	_	_	_	_	_	_
+
+# sent_id = gos.285-0193
+# text = [gap]
+1	[gap]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.053-0465
+# text = kateri atomi tvorijo katione [name:personal] ?
+1	kateri	_	_	_	_	_	_	_	_
+2	atomi	_	_	_	_	_	_	_	_
+3	tvorijo	_	_	_	_	_	_	_	_
+4	katione	_	_	_	_	_	_	_	_
+5	[name:personal]	_	_	_	_	_	_	_	_
+6	?	_	_	_	_	_	_	_	_
+
+# sent_id = gos.060-0620
+# text = ja
+1	ja	_	_	_	_	_	_	_	_
+
+# sent_id = gos.171-0271
+# text = [pause]
+1	[pause]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.058-0305
+# text = [pause]
+1	[pause]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.072-0216
+# text = v nadaljevanju ne vemo kam grejo kupnine od prodanih državnih podjetij
+1	v	_	_	_	_	_	_	_	_
+2	nadaljevanju	_	_	_	_	_	_	_	_
+3	ne	_	_	_	_	_	_	_	_
+4	vemo	_	_	_	_	_	_	_	_
+5	kam	_	_	_	_	_	_	_	_
+6	grejo	_	_	_	_	_	_	_	_
+7	kupnine	_	_	_	_	_	_	_	_
+8	od	_	_	_	_	_	_	_	_
+9	prodanih	_	_	_	_	_	_	_	_
+10	državnih	_	_	_	_	_	_	_	_
+11	podjetij	_	_	_	_	_	_	_	_
+
+# sent_id = gos.045-0304
+# text = eee to pomeni z tistim minimalnim še potrebnim eee številom ljudi eee z [gap] tudi zaradi tega da so te eee ti stroški čim manjši
+1	eee	_	_	_	_	_	_	_	_
+2	to	_	_	_	_	_	_	_	_
+3	pomeni	_	_	_	_	_	_	_	_
+4	z	_	_	_	_	_	_	_	_
+5	tistim	_	_	_	_	_	_	_	_
+6	minimalnim	_	_	_	_	_	_	_	_
+7	še	_	_	_	_	_	_	_	_
+8	potrebnim	_	_	_	_	_	_	_	_
+9	eee	_	_	_	_	_	_	_	_
+10	številom	_	_	_	_	_	_	_	_
+11	ljudi	_	_	_	_	_	_	_	_
+12	eee	_	_	_	_	_	_	_	_
+13	z	_	_	_	_	_	_	_	_
+14	[gap]	_	_	_	_	_	_	_	_
+15	tudi	_	_	_	_	_	_	_	_
+16	zaradi	_	_	_	_	_	_	_	_
+17	tega	_	_	_	_	_	_	_	_
+18	da	_	_	_	_	_	_	_	_
+19	so	_	_	_	_	_	_	_	_
+20	te	_	_	_	_	_	_	_	_
+21	eee	_	_	_	_	_	_	_	_
+22	ti	_	_	_	_	_	_	_	_
+23	stroški	_	_	_	_	_	_	_	_
+24	čim	_	_	_	_	_	_	_	_
+25	manjši	_	_	_	_	_	_	_	_
+
+# sent_id = gos.277-0071
+# text = [gap] ker kaj a ste delali kake nove vaje ?
+1	[gap]	_	_	_	_	_	_	_	_
+2	ker	_	_	_	_	_	_	_	_
+3	kaj	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	ste	_	_	_	_	_	_	_	_
+6	delali	_	_	_	_	_	_	_	_
+7	kake	_	_	_	_	_	_	_	_
+8	nove	_	_	_	_	_	_	_	_
+9	vaje	_	_	_	_	_	_	_	_
+10	?	_	_	_	_	_	_	_	_
+
+# sent_id = gos.235-0243
+# text = no to je … ta je pa še stara … ja eee še [:voice]
+1	no	_	_	_	_	_	_	_	_
+2	to	_	_	_	_	_	_	_	_
+3	je	_	_	_	_	_	_	_	_
+4	…	_	_	_	_	_	_	_	_
+5	ta	_	_	_	_	_	_	_	_
+6	je	_	_	_	_	_	_	_	_
+7	pa	_	_	_	_	_	_	_	_
+8	še	_	_	_	_	_	_	_	_
+9	stara	_	_	_	_	_	_	_	_
+10	…	_	_	_	_	_	_	_	_
+11	ja	_	_	_	_	_	_	_	_
+12	eee	_	_	_	_	_	_	_	_
+13	še	_	_	_	_	_	_	_	_
+14	[:voice]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.084-0002
+# text = videli smo veliko navdušenje podpornikov obame ti si bila pred belo hišo
+1	videli	_	_	_	_	_	_	_	_
+2	smo	_	_	_	_	_	_	_	_
+3	veliko	_	_	_	_	_	_	_	_
+4	navdušenje	_	_	_	_	_	_	_	_
+5	podpornikov	_	_	_	_	_	_	_	_
+6	obame	_	_	_	_	_	_	_	_
+7	ti	_	_	_	_	_	_	_	_
+8	si	_	_	_	_	_	_	_	_
+9	bila	_	_	_	_	_	_	_	_
+10	pred	_	_	_	_	_	_	_	_
+11	belo	_	_	_	_	_	_	_	_
+12	hišo	_	_	_	_	_	_	_	_
+
+# sent_id = gos.143-0117
+# text = tako [name:personal] in [name:personal] sta povedala kako delate kako nekako začnete z ustvarjanjem ampak potem ko je treba to spraviti na oder pa najbrž kar potrebno vaditi ne ?
+1	tako	_	_	_	_	_	_	_	_
+2	[name:personal]	_	_	_	_	_	_	_	_
+3	in	_	_	_	_	_	_	_	_
+4	[name:personal]	_	_	_	_	_	_	_	_
+5	sta	_	_	_	_	_	_	_	_
+6	povedala	_	_	_	_	_	_	_	_
+7	kako	_	_	_	_	_	_	_	_
+8	delate	_	_	_	_	_	_	_	_
+9	kako	_	_	_	_	_	_	_	_
+10	nekako	_	_	_	_	_	_	_	_
+11	začnete	_	_	_	_	_	_	_	_
+12	z	_	_	_	_	_	_	_	_
+13	ustvarjanjem	_	_	_	_	_	_	_	_
+14	ampak	_	_	_	_	_	_	_	_
+15	potem	_	_	_	_	_	_	_	_
+16	ko	_	_	_	_	_	_	_	_
+17	je	_	_	_	_	_	_	_	_
+18	treba	_	_	_	_	_	_	_	_
+19	to	_	_	_	_	_	_	_	_
+20	spraviti	_	_	_	_	_	_	_	_
+21	na	_	_	_	_	_	_	_	_
+22	oder	_	_	_	_	_	_	_	_
+23	pa	_	_	_	_	_	_	_	_
+24	najbrž	_	_	_	_	_	_	_	_
+25	kar	_	_	_	_	_	_	_	_
+26	potrebno	_	_	_	_	_	_	_	_
+27	vaditi	_	_	_	_	_	_	_	_
+28	ne	_	_	_	_	_	_	_	_
+29	?	_	_	_	_	_	_	_	_
+
+# sent_id = gos.152-0135
+# text = eee sicer pa ja seksoslovje mogoče je zanimivo no
+1	eee	_	_	_	_	_	_	_	_
+2	sicer	_	_	_	_	_	_	_	_
+3	pa	_	_	_	_	_	_	_	_
+4	ja	_	_	_	_	_	_	_	_
+5	seksoslovje	_	_	_	_	_	_	_	_
+6	mogoče	_	_	_	_	_	_	_	_
+7	je	_	_	_	_	_	_	_	_
+8	zanimivo	_	_	_	_	_	_	_	_
+9	no	_	_	_	_	_	_	_	_
+
+# sent_id = gos.073-0374
+# text = samo takšni pomembni vsebinski problemi se ne re [gap] ne rešujejo na ta način na takšno razpravo kot to
+1	samo	_	_	_	_	_	_	_	_
+2	takšni	_	_	_	_	_	_	_	_
+3	pomembni	_	_	_	_	_	_	_	_
+4	vsebinski	_	_	_	_	_	_	_	_
+5	problemi	_	_	_	_	_	_	_	_
+6	se	_	_	_	_	_	_	_	_
+7	ne	_	_	_	_	_	_	_	_
+8	re	_	_	_	_	_	_	_	_
+9	[gap]	_	_	_	_	_	_	_	_
+10	ne	_	_	_	_	_	_	_	_
+11	rešujejo	_	_	_	_	_	_	_	_
+12	na	_	_	_	_	_	_	_	_
+13	ta	_	_	_	_	_	_	_	_
+14	način	_	_	_	_	_	_	_	_
+15	na	_	_	_	_	_	_	_	_
+16	takšno	_	_	_	_	_	_	_	_
+17	razpravo	_	_	_	_	_	_	_	_
+18	kot	_	_	_	_	_	_	_	_
+19	to	_	_	_	_	_	_	_	_
+
+# sent_id = gos.268-0211
+# text = eh
+1	eh	_	_	_	_	_	_	_	_
+
+# sent_id = gos.262-0116
+# text = kje pri kraju ?
+1	kje	_	_	_	_	_	_	_	_
+2	pri	_	_	_	_	_	_	_	_
+3	kraju	_	_	_	_	_	_	_	_
+4	?	_	_	_	_	_	_	_	_
+
+# sent_id = gos.183-0372
+# text = [pause]
+1	[pause]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.183-0378
+# text = tako ja meter je koliko je meter meter je tam okoli štiriindvajset devetindevetdeset ne ali koliko je
+1	tako	_	_	_	_	_	_	_	_
+2	ja	_	_	_	_	_	_	_	_
+3	meter	_	_	_	_	_	_	_	_
+4	je	_	_	_	_	_	_	_	_
+5	koliko	_	_	_	_	_	_	_	_
+6	je	_	_	_	_	_	_	_	_
+7	meter	_	_	_	_	_	_	_	_
+8	meter	_	_	_	_	_	_	_	_
+9	je	_	_	_	_	_	_	_	_
+10	tam	_	_	_	_	_	_	_	_
+11	okoli	_	_	_	_	_	_	_	_
+12	štiriindvajset	_	_	_	_	_	_	_	_
+13	devetindevetdeset	_	_	_	_	_	_	_	_
+14	ne	_	_	_	_	_	_	_	_
+15	ali	_	_	_	_	_	_	_	_
+16	koliko	_	_	_	_	_	_	_	_
+17	je	_	_	_	_	_	_	_	_
+
+# sent_id = gos.018-0317
+# text = [gap] takšna ena eee z blata hiša [gap]
+1	[gap]	_	_	_	_	_	_	_	_
+2	takšna	_	_	_	_	_	_	_	_
+3	ena	_	_	_	_	_	_	_	_
+4	eee	_	_	_	_	_	_	_	_
+5	z	_	_	_	_	_	_	_	_
+6	blata	_	_	_	_	_	_	_	_
+7	hiša	_	_	_	_	_	_	_	_
+8	[gap]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.244-0404
+# text = kaj pa imaš ?
+1	kaj	_	_	_	_	_	_	_	_
+2	pa	_	_	_	_	_	_	_	_
+3	imaš	_	_	_	_	_	_	_	_
+4	?	_	_	_	_	_	_	_	_
+
+# sent_id = gos.241-0159
+# text = to glih toliko napolni [gap] takrat energije porabi pa to s [gap] ker stalno niha ne poraba pa to ne
+1	to	_	_	_	_	_	_	_	_
+2	glih	_	_	_	_	_	_	_	_
+3	toliko	_	_	_	_	_	_	_	_
+4	napolni	_	_	_	_	_	_	_	_
+5	[gap]	_	_	_	_	_	_	_	_
+6	takrat	_	_	_	_	_	_	_	_
+7	energije	_	_	_	_	_	_	_	_
+8	porabi	_	_	_	_	_	_	_	_
+9	pa	_	_	_	_	_	_	_	_
+10	to	_	_	_	_	_	_	_	_
+11	s	_	_	_	_	_	_	_	_
+12	[gap]	_	_	_	_	_	_	_	_
+13	ker	_	_	_	_	_	_	_	_
+14	stalno	_	_	_	_	_	_	_	_
+15	niha	_	_	_	_	_	_	_	_
+16	ne	_	_	_	_	_	_	_	_
+17	poraba	_	_	_	_	_	_	_	_
+18	pa	_	_	_	_	_	_	_	_
+19	to	_	_	_	_	_	_	_	_
+20	ne	_	_	_	_	_	_	_	_
+
+# sent_id = gos.286-0383
+# text = [:voice] no ja eee kaj zdaj ona hodi tudi na salso ?
+1	[:voice]	_	_	_	_	_	_	_	_
+2	no	_	_	_	_	_	_	_	_
+3	ja	_	_	_	_	_	_	_	_
+4	eee	_	_	_	_	_	_	_	_
+5	kaj	_	_	_	_	_	_	_	_
+6	zdaj	_	_	_	_	_	_	_	_
+7	ona	_	_	_	_	_	_	_	_
+8	hodi	_	_	_	_	_	_	_	_
+9	tudi	_	_	_	_	_	_	_	_
+10	na	_	_	_	_	_	_	_	_
+11	salso	_	_	_	_	_	_	_	_
+12	?	_	_	_	_	_	_	_	_
+
+# sent_id = gos.252-0351
+# text = tisti ki ima rejski program
+1	tisti	_	_	_	_	_	_	_	_
+2	ki	_	_	_	_	_	_	_	_
+3	ima	_	_	_	_	_	_	_	_
+4	rejski	_	_	_	_	_	_	_	_
+5	program	_	_	_	_	_	_	_	_
+
+# sent_id = gos.220-0060
+# text = glih tako je bilo lepo lahko je majica glej
+1	glih	_	_	_	_	_	_	_	_
+2	tako	_	_	_	_	_	_	_	_
+3	je	_	_	_	_	_	_	_	_
+4	bilo	_	_	_	_	_	_	_	_
+5	lepo	_	_	_	_	_	_	_	_
+6	lahko	_	_	_	_	_	_	_	_
+7	je	_	_	_	_	_	_	_	_
+8	majica	_	_	_	_	_	_	_	_
+9	glej	_	_	_	_	_	_	_	_
+
+# sent_id = gos.178-0187
+# text = ja če se vam zdi za za bolj za klasifikacijo nezasebno kot zasebno komot
+1	ja	_	_	_	_	_	_	_	_
+2	če	_	_	_	_	_	_	_	_
+3	se	_	_	_	_	_	_	_	_
+4	vam	_	_	_	_	_	_	_	_
+5	zdi	_	_	_	_	_	_	_	_
+6	za	_	_	_	_	_	_	_	_
+7	za	_	_	_	_	_	_	_	_
+8	bolj	_	_	_	_	_	_	_	_
+9	za	_	_	_	_	_	_	_	_
+10	klasifikacijo	_	_	_	_	_	_	_	_
+11	nezasebno	_	_	_	_	_	_	_	_
+12	kot	_	_	_	_	_	_	_	_
+13	zasebno	_	_	_	_	_	_	_	_
+14	komot	_	_	_	_	_	_	_	_
+
+# sent_id = gos.014-0639
+# text = a je zdaj zaključeno kroženje ?
+1	a	_	_	_	_	_	_	_	_
+2	je	_	_	_	_	_	_	_	_
+3	zdaj	_	_	_	_	_	_	_	_
+4	zaključeno	_	_	_	_	_	_	_	_
+5	kroženje	_	_	_	_	_	_	_	_
+6	?	_	_	_	_	_	_	_	_
+
+# sent_id = gos.020-0397
+# text = [gap]
+1	[gap]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.285-0188
+# text = [gap]
+1	[gap]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.194-0577
+# text = ne
+1	ne	_	_	_	_	_	_	_	_
+
+# sent_id = gos.165-0185
+# text = no in potem so eee na kranjski koči na ledinah jim je ravnokar odpovedala oskrbnica in sem pri devetnajstih letih ljubljančanka z ruzakom prišla gor in sem bila kar naenkrat en mesec pa pol tam oskrbnica
+1	no	_	_	_	_	_	_	_	_
+2	in	_	_	_	_	_	_	_	_
+3	potem	_	_	_	_	_	_	_	_
+4	so	_	_	_	_	_	_	_	_
+5	eee	_	_	_	_	_	_	_	_
+6	na	_	_	_	_	_	_	_	_
+7	kranjski	_	_	_	_	_	_	_	_
+8	koči	_	_	_	_	_	_	_	_
+9	na	_	_	_	_	_	_	_	_
+10	ledinah	_	_	_	_	_	_	_	_
+11	jim	_	_	_	_	_	_	_	_
+12	je	_	_	_	_	_	_	_	_
+13	ravnokar	_	_	_	_	_	_	_	_
+14	odpovedala	_	_	_	_	_	_	_	_
+15	oskrbnica	_	_	_	_	_	_	_	_
+16	in	_	_	_	_	_	_	_	_
+17	sem	_	_	_	_	_	_	_	_
+18	pri	_	_	_	_	_	_	_	_
+19	devetnajstih	_	_	_	_	_	_	_	_
+20	letih	_	_	_	_	_	_	_	_
+21	ljubljančanka	_	_	_	_	_	_	_	_
+22	z	_	_	_	_	_	_	_	_
+23	ruzakom	_	_	_	_	_	_	_	_
+24	prišla	_	_	_	_	_	_	_	_
+25	gor	_	_	_	_	_	_	_	_
+26	in	_	_	_	_	_	_	_	_
+27	sem	_	_	_	_	_	_	_	_
+28	bila	_	_	_	_	_	_	_	_
+29	kar	_	_	_	_	_	_	_	_
+30	naenkrat	_	_	_	_	_	_	_	_
+31	en	_	_	_	_	_	_	_	_
+32	mesec	_	_	_	_	_	_	_	_
+33	pa	_	_	_	_	_	_	_	_
+34	pol	_	_	_	_	_	_	_	_
+35	tam	_	_	_	_	_	_	_	_
+36	oskrbnica	_	_	_	_	_	_	_	_
+
+# sent_id = gos.253-0087
+# text = [:voice] a sok je meni dober ne v bistvu iz jabolk mi je ful všeč
+1	[:voice]	_	_	_	_	_	_	_	_
+2	a	_	_	_	_	_	_	_	_
+3	sok	_	_	_	_	_	_	_	_
+4	je	_	_	_	_	_	_	_	_
+5	meni	_	_	_	_	_	_	_	_
+6	dober	_	_	_	_	_	_	_	_
+7	ne	_	_	_	_	_	_	_	_
+8	v	_	_	_	_	_	_	_	_
+9	bistvu	_	_	_	_	_	_	_	_
+10	iz	_	_	_	_	_	_	_	_
+11	jabolk	_	_	_	_	_	_	_	_
+12	mi	_	_	_	_	_	_	_	_
+13	je	_	_	_	_	_	_	_	_
+14	ful	_	_	_	_	_	_	_	_
+15	všeč	_	_	_	_	_	_	_	_
+
+# sent_id = gos.179-0170
+# text = hrvaška
+1	hrvaška	_	_	_	_	_	_	_	_
+
+# sent_id = gos.240-0108
+# text = aja
+1	aja	_	_	_	_	_	_	_	_
+
+# sent_id = gos.145-0209
+# text = aha pet [gap] [gap] [all:laughter] … resno ?
+1	aha	_	_	_	_	_	_	_	_
+2	pet	_	_	_	_	_	_	_	_
+3	[gap]	_	_	_	_	_	_	_	_
+4	[gap]	_	_	_	_	_	_	_	_
+5	[all:laughter]	_	_	_	_	_	_	_	_
+6	…	_	_	_	_	_	_	_	_
+7	resno	_	_	_	_	_	_	_	_
+8	?	_	_	_	_	_	_	_	_
+
+# sent_id = gos.138-0023
+# text = [speaker:laughter] [name:personal] kako pa vi kaj ste v redu spali ste v redu ?
+1	[speaker:laughter]	_	_	_	_	_	_	_	_
+2	[name:personal]	_	_	_	_	_	_	_	_
+3	kako	_	_	_	_	_	_	_	_
+4	pa	_	_	_	_	_	_	_	_
+5	vi	_	_	_	_	_	_	_	_
+6	kaj	_	_	_	_	_	_	_	_
+7	ste	_	_	_	_	_	_	_	_
+8	v	_	_	_	_	_	_	_	_
+9	redu	_	_	_	_	_	_	_	_
+10	spali	_	_	_	_	_	_	_	_
+11	ste	_	_	_	_	_	_	_	_
+12	v	_	_	_	_	_	_	_	_
+13	redu	_	_	_	_	_	_	_	_
+14	?	_	_	_	_	_	_	_	_
+
+# sent_id = gos.225-0357
+# text = [gap] če si ti [gap] v kozarec [gap]
+1	[gap]	_	_	_	_	_	_	_	_
+2	če	_	_	_	_	_	_	_	_
+3	si	_	_	_	_	_	_	_	_
+4	ti	_	_	_	_	_	_	_	_
+5	[gap]	_	_	_	_	_	_	_	_
+6	v	_	_	_	_	_	_	_	_
+7	kozarec	_	_	_	_	_	_	_	_
+8	[gap]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.254-0590
+# text = aja ja dobro [gap]
+1	aja	_	_	_	_	_	_	_	_
+2	ja	_	_	_	_	_	_	_	_
+3	dobro	_	_	_	_	_	_	_	_
+4	[gap]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.184-0169
+# text = v spletni trgovini
+1	v	_	_	_	_	_	_	_	_
+2	spletni	_	_	_	_	_	_	_	_
+3	trgovini	_	_	_	_	_	_	_	_
+
+# sent_id = gos.038-0280
+# text = gospod [name:surname] eee kaj torej če ne pride do eee sprejetja tega sklepa
+1	gospod	_	_	_	_	_	_	_	_
+2	[name:surname]	_	_	_	_	_	_	_	_
+3	eee	_	_	_	_	_	_	_	_
+4	kaj	_	_	_	_	_	_	_	_
+5	torej	_	_	_	_	_	_	_	_
+6	če	_	_	_	_	_	_	_	_
+7	ne	_	_	_	_	_	_	_	_
+8	pride	_	_	_	_	_	_	_	_
+9	do	_	_	_	_	_	_	_	_
+10	eee	_	_	_	_	_	_	_	_
+11	sprejetja	_	_	_	_	_	_	_	_
+12	tega	_	_	_	_	_	_	_	_
+13	sklepa	_	_	_	_	_	_	_	_
+
+# sent_id = gos.164-0508
+# text = pa če noče zaspati ko je še mala pa ji špilaš pred posteljico veš [audience:laughter] tako delaš ti di di pa še igraš
+1	pa	_	_	_	_	_	_	_	_
+2	če	_	_	_	_	_	_	_	_
+3	noče	_	_	_	_	_	_	_	_
+4	zaspati	_	_	_	_	_	_	_	_
+5	ko	_	_	_	_	_	_	_	_
+6	je	_	_	_	_	_	_	_	_
+7	še	_	_	_	_	_	_	_	_
+8	mala	_	_	_	_	_	_	_	_
+9	pa	_	_	_	_	_	_	_	_
+10	ji	_	_	_	_	_	_	_	_
+11	špilaš	_	_	_	_	_	_	_	_
+12	pred	_	_	_	_	_	_	_	_
+13	posteljico	_	_	_	_	_	_	_	_
+14	veš	_	_	_	_	_	_	_	_
+15	[audience:laughter]	_	_	_	_	_	_	_	_
+16	tako	_	_	_	_	_	_	_	_
+17	delaš	_	_	_	_	_	_	_	_
+18	ti	_	_	_	_	_	_	_	_
+19	di	_	_	_	_	_	_	_	_
+20	di	_	_	_	_	_	_	_	_
+21	pa	_	_	_	_	_	_	_	_
+22	še	_	_	_	_	_	_	_	_
+23	igraš	_	_	_	_	_	_	_	_
+
+# sent_id = gos.126-0006
+# text = torej za istrabenzom je eno eee obdobje rasti
+1	torej	_	_	_	_	_	_	_	_
+2	za	_	_	_	_	_	_	_	_
+3	istrabenzom	_	_	_	_	_	_	_	_
+4	je	_	_	_	_	_	_	_	_
+5	eno	_	_	_	_	_	_	_	_
+6	eee	_	_	_	_	_	_	_	_
+7	obdobje	_	_	_	_	_	_	_	_
+8	rasti	_	_	_	_	_	_	_	_
+
+# sent_id = gos.280-0018
+# text = eee in sem šla pol dol
+1	eee	_	_	_	_	_	_	_	_
+2	in	_	_	_	_	_	_	_	_
+3	sem	_	_	_	_	_	_	_	_
+4	šla	_	_	_	_	_	_	_	_
+5	pol	_	_	_	_	_	_	_	_
+6	dol	_	_	_	_	_	_	_	_
+
+# sent_id = gos.232-0091
+# text = mi gremo pa v petek dol in pridemo v nedeljo nazaj t [gap] on je pa glih v soboto
+1	mi	_	_	_	_	_	_	_	_
+2	gremo	_	_	_	_	_	_	_	_
+3	pa	_	_	_	_	_	_	_	_
+4	v	_	_	_	_	_	_	_	_
+5	petek	_	_	_	_	_	_	_	_
+6	dol	_	_	_	_	_	_	_	_
+7	in	_	_	_	_	_	_	_	_
+8	pridemo	_	_	_	_	_	_	_	_
+9	v	_	_	_	_	_	_	_	_
+10	nedeljo	_	_	_	_	_	_	_	_
+11	nazaj	_	_	_	_	_	_	_	_
+12	t	_	_	_	_	_	_	_	_
+13	[gap]	_	_	_	_	_	_	_	_
+14	on	_	_	_	_	_	_	_	_
+15	je	_	_	_	_	_	_	_	_
+16	pa	_	_	_	_	_	_	_	_
+17	glih	_	_	_	_	_	_	_	_
+18	v	_	_	_	_	_	_	_	_
+19	soboto	_	_	_	_	_	_	_	_
+
+# sent_id = gos.176-0797
+# text = pa lani so lani bilo samo en dan ampak to izjemoma ne … mhm
+1	pa	_	_	_	_	_	_	_	_
+2	lani	_	_	_	_	_	_	_	_
+3	so	_	_	_	_	_	_	_	_
+4	lani	_	_	_	_	_	_	_	_
+5	bilo	_	_	_	_	_	_	_	_
+6	samo	_	_	_	_	_	_	_	_
+7	en	_	_	_	_	_	_	_	_
+8	dan	_	_	_	_	_	_	_	_
+9	ampak	_	_	_	_	_	_	_	_
+10	to	_	_	_	_	_	_	_	_
+11	izjemoma	_	_	_	_	_	_	_	_
+12	ne	_	_	_	_	_	_	_	_
+13	…	_	_	_	_	_	_	_	_
+14	mhm	_	_	_	_	_	_	_	_
+
+# sent_id = gos.164-0500
+# text = ooo [incident]
+1	ooo	_	_	_	_	_	_	_	_
+2	[incident]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.142-0169
+# text = saj saj je zelo enostavno www pika [name:personal] [name:surname] pika com
+1	saj	_	_	_	_	_	_	_	_
+2	saj	_	_	_	_	_	_	_	_
+3	je	_	_	_	_	_	_	_	_
+4	zelo	_	_	_	_	_	_	_	_
+5	enostavno	_	_	_	_	_	_	_	_
+6	www	_	_	_	_	_	_	_	_
+7	pika	_	_	_	_	_	_	_	_
+8	[name:personal]	_	_	_	_	_	_	_	_
+9	[name:surname]	_	_	_	_	_	_	_	_
+10	pika	_	_	_	_	_	_	_	_
+11	com	_	_	_	_	_	_	_	_
+
+# sent_id = gos.183-0382
+# text = [pause]
+1	[pause]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.243-0102
+# text = ja to to pa res ja
+1	ja	_	_	_	_	_	_	_	_
+2	to	_	_	_	_	_	_	_	_
+3	to	_	_	_	_	_	_	_	_
+4	pa	_	_	_	_	_	_	_	_
+5	res	_	_	_	_	_	_	_	_
+6	ja	_	_	_	_	_	_	_	_
+
+# sent_id = gos.246-0343
+# text = in je urbanist
+1	in	_	_	_	_	_	_	_	_
+2	je	_	_	_	_	_	_	_	_
+3	urbanist	_	_	_	_	_	_	_	_
+
+# sent_id = gos.061-0423
+# text = tako teče proti njemu
+1	tako	_	_	_	_	_	_	_	_
+2	teče	_	_	_	_	_	_	_	_
+3	proti	_	_	_	_	_	_	_	_
+4	njemu	_	_	_	_	_	_	_	_
+
+# sent_id = gos.222-0280
+# text = ne daj novo ta mama je bila malo hipi sploh jih ni [audience:laughter] kagirala tipo če so se oddaljile
+1	ne	_	_	_	_	_	_	_	_
+2	daj	_	_	_	_	_	_	_	_
+3	novo	_	_	_	_	_	_	_	_
+4	ta	_	_	_	_	_	_	_	_
+5	mama	_	_	_	_	_	_	_	_
+6	je	_	_	_	_	_	_	_	_
+7	bila	_	_	_	_	_	_	_	_
+8	malo	_	_	_	_	_	_	_	_
+9	hipi	_	_	_	_	_	_	_	_
+10	sploh	_	_	_	_	_	_	_	_
+11	jih	_	_	_	_	_	_	_	_
+12	ni	_	_	_	_	_	_	_	_
+13	[audience:laughter]	_	_	_	_	_	_	_	_
+14	kagirala	_	_	_	_	_	_	_	_
+15	tipo	_	_	_	_	_	_	_	_
+16	če	_	_	_	_	_	_	_	_
+17	so	_	_	_	_	_	_	_	_
+18	se	_	_	_	_	_	_	_	_
+19	oddaljile	_	_	_	_	_	_	_	_
+
+# sent_id = gos.278-0278
+# text = ja saj mislim to moraš ono drugo kepo na prvo nekako prevaliti in ja [speaker:laughter]
+1	ja	_	_	_	_	_	_	_	_
+2	saj	_	_	_	_	_	_	_	_
+3	mislim	_	_	_	_	_	_	_	_
+4	to	_	_	_	_	_	_	_	_
+5	moraš	_	_	_	_	_	_	_	_
+6	ono	_	_	_	_	_	_	_	_
+7	drugo	_	_	_	_	_	_	_	_
+8	kepo	_	_	_	_	_	_	_	_
+9	na	_	_	_	_	_	_	_	_
+10	prvo	_	_	_	_	_	_	_	_
+11	nekako	_	_	_	_	_	_	_	_
+12	prevaliti	_	_	_	_	_	_	_	_
+13	in	_	_	_	_	_	_	_	_
+14	ja	_	_	_	_	_	_	_	_
+15	[speaker:laughter]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.281-0266
+# text = mhm
+1	mhm	_	_	_	_	_	_	_	_
+
+# sent_id = gos.258-0072
+# text = ja ja … ja ja ja
+1	ja	_	_	_	_	_	_	_	_
+2	ja	_	_	_	_	_	_	_	_
+3	…	_	_	_	_	_	_	_	_
+4	ja	_	_	_	_	_	_	_	_
+5	ja	_	_	_	_	_	_	_	_
+6	ja	_	_	_	_	_	_	_	_
+
+# sent_id = gos.201-0021
+# text = ja nnn ja
+1	ja	_	_	_	_	_	_	_	_
+2	nnn	_	_	_	_	_	_	_	_
+3	ja	_	_	_	_	_	_	_	_
+
+# sent_id = gos.039-0178
+# text = eee to te mora pač eee resnično eee zanimati
+1	eee	_	_	_	_	_	_	_	_
+2	to	_	_	_	_	_	_	_	_
+3	te	_	_	_	_	_	_	_	_
+4	mora	_	_	_	_	_	_	_	_
+5	pač	_	_	_	_	_	_	_	_
+6	eee	_	_	_	_	_	_	_	_
+7	resnično	_	_	_	_	_	_	_	_
+8	eee	_	_	_	_	_	_	_	_
+9	zanimati	_	_	_	_	_	_	_	_
+
+# sent_id = gos.246-0344
+# text = in mi je ponudil petsto evrov
+1	in	_	_	_	_	_	_	_	_
+2	mi	_	_	_	_	_	_	_	_
+3	je	_	_	_	_	_	_	_	_
+4	ponudil	_	_	_	_	_	_	_	_
+5	petsto	_	_	_	_	_	_	_	_
+6	evrov	_	_	_	_	_	_	_	_
+
+# sent_id = gos.183-0377
+# text = [pause]
+1	[pause]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.283-0256
+# text = ja [gap] s copati s copati [gap]
+1	ja	_	_	_	_	_	_	_	_
+2	[gap]	_	_	_	_	_	_	_	_
+3	s	_	_	_	_	_	_	_	_
+4	copati	_	_	_	_	_	_	_	_
+5	s	_	_	_	_	_	_	_	_
+6	copati	_	_	_	_	_	_	_	_
+7	[gap]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.176-0764
+# text = edino če od prodaje [gap]
+1	edino	_	_	_	_	_	_	_	_
+2	če	_	_	_	_	_	_	_	_
+3	od	_	_	_	_	_	_	_	_
+4	prodaje	_	_	_	_	_	_	_	_
+5	[gap]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.277-0066
+# text = pa kaj še ?
+1	pa	_	_	_	_	_	_	_	_
+2	kaj	_	_	_	_	_	_	_	_
+3	še	_	_	_	_	_	_	_	_
+4	?	_	_	_	_	_	_	_	_
+
+# sent_id = gos.167-0135
+# text = ja [incident]
+1	ja	_	_	_	_	_	_	_	_
+2	[incident]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.073-0388
+# text = in pričakujemo od gospoda pahorja da si bo vzel čas in obadva akterja ali pa gospoda [name:personal] [name:surname] poklical in poskušal najti en dialog
+1	in	_	_	_	_	_	_	_	_
+2	pričakujemo	_	_	_	_	_	_	_	_
+3	od	_	_	_	_	_	_	_	_
+4	gospoda	_	_	_	_	_	_	_	_
+5	pahorja	_	_	_	_	_	_	_	_
+6	da	_	_	_	_	_	_	_	_
+7	si	_	_	_	_	_	_	_	_
+8	bo	_	_	_	_	_	_	_	_
+9	vzel	_	_	_	_	_	_	_	_
+10	čas	_	_	_	_	_	_	_	_
+11	in	_	_	_	_	_	_	_	_
+12	obadva	_	_	_	_	_	_	_	_
+13	akterja	_	_	_	_	_	_	_	_
+14	ali	_	_	_	_	_	_	_	_
+15	pa	_	_	_	_	_	_	_	_
+16	gospoda	_	_	_	_	_	_	_	_
+17	[name:personal]	_	_	_	_	_	_	_	_
+18	[name:surname]	_	_	_	_	_	_	_	_
+19	poklical	_	_	_	_	_	_	_	_
+20	in	_	_	_	_	_	_	_	_
+21	poskušal	_	_	_	_	_	_	_	_
+22	najti	_	_	_	_	_	_	_	_
+23	en	_	_	_	_	_	_	_	_
+24	dialog	_	_	_	_	_	_	_	_
+
+# sent_id = gos.219-0096
+# text = ja
+1	ja	_	_	_	_	_	_	_	_
+
+# sent_id = gos.253-0093
+# text = [pause]
+1	[pause]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.001-0017
+# text = vidite lahko da je zelo zelo natančno vse nekaj izrisano na tej vaški situli
+1	vidite	_	_	_	_	_	_	_	_
+2	lahko	_	_	_	_	_	_	_	_
+3	da	_	_	_	_	_	_	_	_
+4	je	_	_	_	_	_	_	_	_
+5	zelo	_	_	_	_	_	_	_	_
+6	zelo	_	_	_	_	_	_	_	_
+7	natančno	_	_	_	_	_	_	_	_
+8	vse	_	_	_	_	_	_	_	_
+9	nekaj	_	_	_	_	_	_	_	_
+10	izrisano	_	_	_	_	_	_	_	_
+11	na	_	_	_	_	_	_	_	_
+12	tej	_	_	_	_	_	_	_	_
+13	vaški	_	_	_	_	_	_	_	_
+14	situli	_	_	_	_	_	_	_	_
+
+# sent_id = gos.179-0165
+# text = to bi bilo tudi pol zanimivo pogledati naprej ne kaj so to za eni
+1	to	_	_	_	_	_	_	_	_
+2	bi	_	_	_	_	_	_	_	_
+3	bilo	_	_	_	_	_	_	_	_
+4	tudi	_	_	_	_	_	_	_	_
+5	pol	_	_	_	_	_	_	_	_
+6	zanimivo	_	_	_	_	_	_	_	_
+7	pogledati	_	_	_	_	_	_	_	_
+8	naprej	_	_	_	_	_	_	_	_
+9	ne	_	_	_	_	_	_	_	_
+10	kaj	_	_	_	_	_	_	_	_
+11	so	_	_	_	_	_	_	_	_
+12	to	_	_	_	_	_	_	_	_
+13	za	_	_	_	_	_	_	_	_
+14	eni	_	_	_	_	_	_	_	_
+
+# sent_id = gos.130-0158
+# text = to je pa dober občutek … ja
+1	to	_	_	_	_	_	_	_	_
+2	je	_	_	_	_	_	_	_	_
+3	pa	_	_	_	_	_	_	_	_
+4	dober	_	_	_	_	_	_	_	_
+5	občutek	_	_	_	_	_	_	_	_
+6	…	_	_	_	_	_	_	_	_
+7	ja	_	_	_	_	_	_	_	_
+
+# sent_id = gos.157-0155
+# text = ali pa je skozi minus
+1	ali	_	_	_	_	_	_	_	_
+2	pa	_	_	_	_	_	_	_	_
+3	je	_	_	_	_	_	_	_	_
+4	skozi	_	_	_	_	_	_	_	_
+5	minus	_	_	_	_	_	_	_	_
+
+# sent_id = gos.248-0186
+# text = eee ne ne pustijo eee ljudi k sebi ne
+1	eee	_	_	_	_	_	_	_	_
+2	ne	_	_	_	_	_	_	_	_
+3	ne	_	_	_	_	_	_	_	_
+4	pustijo	_	_	_	_	_	_	_	_
+5	eee	_	_	_	_	_	_	_	_
+6	ljudi	_	_	_	_	_	_	_	_
+7	k	_	_	_	_	_	_	_	_
+8	sebi	_	_	_	_	_	_	_	_
+9	ne	_	_	_	_	_	_	_	_
+
+# sent_id = gos.030-0027
+# text = [name:personal] hvala
+1	[name:personal]	_	_	_	_	_	_	_	_
+2	hvala	_	_	_	_	_	_	_	_
+
+# sent_id = gos.059-0111
+# text = kako veš da je to osebna oblika ?
+1	kako	_	_	_	_	_	_	_	_
+2	veš	_	_	_	_	_	_	_	_
+3	da	_	_	_	_	_	_	_	_
+4	je	_	_	_	_	_	_	_	_
+5	to	_	_	_	_	_	_	_	_
+6	osebna	_	_	_	_	_	_	_	_
+7	oblika	_	_	_	_	_	_	_	_
+8	?	_	_	_	_	_	_	_	_
+
+# sent_id = gos.185-0169
+# text = [speaker:laughter] ja … smo vse [gap] midve se s tem srečava
+1	[speaker:laughter]	_	_	_	_	_	_	_	_
+2	ja	_	_	_	_	_	_	_	_
+3	…	_	_	_	_	_	_	_	_
+4	smo	_	_	_	_	_	_	_	_
+5	vse	_	_	_	_	_	_	_	_
+6	[gap]	_	_	_	_	_	_	_	_
+7	midve	_	_	_	_	_	_	_	_
+8	se	_	_	_	_	_	_	_	_
+9	s	_	_	_	_	_	_	_	_
+10	tem	_	_	_	_	_	_	_	_
+11	srečava	_	_	_	_	_	_	_	_
+
+# sent_id = gos.180-0288
+# text = mogoče je boljše da naredimo vse nek [gap] betonsko neko betonsko podlago
+1	mogoče	_	_	_	_	_	_	_	_
+2	je	_	_	_	_	_	_	_	_
+3	boljše	_	_	_	_	_	_	_	_
+4	da	_	_	_	_	_	_	_	_
+5	naredimo	_	_	_	_	_	_	_	_
+6	vse	_	_	_	_	_	_	_	_
+7	nek	_	_	_	_	_	_	_	_
+8	[gap]	_	_	_	_	_	_	_	_
+9	betonsko	_	_	_	_	_	_	_	_
+10	neko	_	_	_	_	_	_	_	_
+11	betonsko	_	_	_	_	_	_	_	_
+12	podlago	_	_	_	_	_	_	_	_
+
+# sent_id = gos.013-0173
+# text = ja
+1	ja	_	_	_	_	_	_	_	_
+
+# sent_id = gos.121-0024
+# text = torej moja ocena je da je vsaj tretjina držav članic eee na strani slovenije ker ve da nepripravljene kandidatke ne morejo sprejeti v evropsko unijo
+1	torej	_	_	_	_	_	_	_	_
+2	moja	_	_	_	_	_	_	_	_
+3	ocena	_	_	_	_	_	_	_	_
+4	je	_	_	_	_	_	_	_	_
+5	da	_	_	_	_	_	_	_	_
+6	je	_	_	_	_	_	_	_	_
+7	vsaj	_	_	_	_	_	_	_	_
+8	tretjina	_	_	_	_	_	_	_	_
+9	držav	_	_	_	_	_	_	_	_
+10	članic	_	_	_	_	_	_	_	_
+11	eee	_	_	_	_	_	_	_	_
+12	na	_	_	_	_	_	_	_	_
+13	strani	_	_	_	_	_	_	_	_
+14	slovenije	_	_	_	_	_	_	_	_
+15	ker	_	_	_	_	_	_	_	_
+16	ve	_	_	_	_	_	_	_	_
+17	da	_	_	_	_	_	_	_	_
+18	nepripravljene	_	_	_	_	_	_	_	_
+19	kandidatke	_	_	_	_	_	_	_	_
+20	ne	_	_	_	_	_	_	_	_
+21	morejo	_	_	_	_	_	_	_	_
+22	sprejeti	_	_	_	_	_	_	_	_
+23	v	_	_	_	_	_	_	_	_
+24	evropsko	_	_	_	_	_	_	_	_
+25	unijo	_	_	_	_	_	_	_	_
+
+# sent_id = gos.012-0228
+# text = [pause]
+1	[pause]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.169-0159
+# text = bertrandova je prišla na četrto mesto
+1	bertrandova	_	_	_	_	_	_	_	_
+2	je	_	_	_	_	_	_	_	_
+3	prišla	_	_	_	_	_	_	_	_
+4	na	_	_	_	_	_	_	_	_
+5	četrto	_	_	_	_	_	_	_	_
+6	mesto	_	_	_	_	_	_	_	_
+
+# sent_id = gos.181-0393
+# text = [gap]
+1	[gap]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.050-0143
+# text = ja lionizem je tudi morda največja socialna mreža v svetu
+1	ja	_	_	_	_	_	_	_	_
+2	lionizem	_	_	_	_	_	_	_	_
+3	je	_	_	_	_	_	_	_	_
+4	tudi	_	_	_	_	_	_	_	_
+5	morda	_	_	_	_	_	_	_	_
+6	največja	_	_	_	_	_	_	_	_
+7	socialna	_	_	_	_	_	_	_	_
+8	mreža	_	_	_	_	_	_	_	_
+9	v	_	_	_	_	_	_	_	_
+10	svetu	_	_	_	_	_	_	_	_
+
+# sent_id = gos.185-0173
+# text = že odkar je [gap] majčken
+1	že	_	_	_	_	_	_	_	_
+2	odkar	_	_	_	_	_	_	_	_
+3	je	_	_	_	_	_	_	_	_
+4	[gap]	_	_	_	_	_	_	_	_
+5	majčken	_	_	_	_	_	_	_	_
+
+# sent_id = gos.200-0074
+# text = eee gor ste pa tudi najbrž prebrali priporočila tega zdravnika iz celja
+1	eee	_	_	_	_	_	_	_	_
+2	gor	_	_	_	_	_	_	_	_
+3	ste	_	_	_	_	_	_	_	_
+4	pa	_	_	_	_	_	_	_	_
+5	tudi	_	_	_	_	_	_	_	_
+6	najbrž	_	_	_	_	_	_	_	_
+7	prebrali	_	_	_	_	_	_	_	_
+8	priporočila	_	_	_	_	_	_	_	_
+9	tega	_	_	_	_	_	_	_	_
+10	zdravnika	_	_	_	_	_	_	_	_
+11	iz	_	_	_	_	_	_	_	_
+12	celja	_	_	_	_	_	_	_	_
+
+# sent_id = gos.227-0066
+# text = eno hišo in eno vilo in ne vem [gap]
+1	eno	_	_	_	_	_	_	_	_
+2	hišo	_	_	_	_	_	_	_	_
+3	in	_	_	_	_	_	_	_	_
+4	eno	_	_	_	_	_	_	_	_
+5	vilo	_	_	_	_	_	_	_	_
+6	in	_	_	_	_	_	_	_	_
+7	ne	_	_	_	_	_	_	_	_
+8	vem	_	_	_	_	_	_	_	_
+9	[gap]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.254-0588
+# text = [audience:laughter] aja
+1	[audience:laughter]	_	_	_	_	_	_	_	_
+2	aja	_	_	_	_	_	_	_	_
+
+# sent_id = gos.125-0069
+# text = zdaj nekateri pravijo da j [gap] dvojni agent trojni agent da j [gap] trojanski konj ne vem kaj
+1	zdaj	_	_	_	_	_	_	_	_
+2	nekateri	_	_	_	_	_	_	_	_
+3	pravijo	_	_	_	_	_	_	_	_
+4	da	_	_	_	_	_	_	_	_
+5	j	_	_	_	_	_	_	_	_
+6	[gap]	_	_	_	_	_	_	_	_
+7	dvojni	_	_	_	_	_	_	_	_
+8	agent	_	_	_	_	_	_	_	_
+9	trojni	_	_	_	_	_	_	_	_
+10	agent	_	_	_	_	_	_	_	_
+11	da	_	_	_	_	_	_	_	_
+12	j	_	_	_	_	_	_	_	_
+13	[gap]	_	_	_	_	_	_	_	_
+14	trojanski	_	_	_	_	_	_	_	_
+15	konj	_	_	_	_	_	_	_	_
+16	ne	_	_	_	_	_	_	_	_
+17	vem	_	_	_	_	_	_	_	_
+18	kaj	_	_	_	_	_	_	_	_
+
+# sent_id = gos.089-0044
+# text = eee se upravičeno bojijo ? kaj to pomeni če jih bodo prevzemali ?
+1	eee	_	_	_	_	_	_	_	_
+2	se	_	_	_	_	_	_	_	_
+3	upravičeno	_	_	_	_	_	_	_	_
+4	bojijo	_	_	_	_	_	_	_	_
+5	?	_	_	_	_	_	_	_	_
+6	kaj	_	_	_	_	_	_	_	_
+7	to	_	_	_	_	_	_	_	_
+8	pomeni	_	_	_	_	_	_	_	_
+9	če	_	_	_	_	_	_	_	_
+10	jih	_	_	_	_	_	_	_	_
+11	bodo	_	_	_	_	_	_	_	_
+12	prevzemali	_	_	_	_	_	_	_	_
+13	?	_	_	_	_	_	_	_	_
+
+# sent_id = gos.009-0230
+# text = a
+1	a	_	_	_	_	_	_	_	_
+
+# sent_id = gos.257-0118
+# text = takrat ko sem … no pa ko ste imeli birmo je [name:personal] ali pa [name:personal] sta berilo brala no pa nima veze … no njihov tudi ni nič znal pa t [gap] je tam pa veš z [gap] zakaj je fajn pa rečeš ob enih se dobimo pa tlele pri tejle koči
+1	takrat	_	_	_	_	_	_	_	_
+2	ko	_	_	_	_	_	_	_	_
+3	sem	_	_	_	_	_	_	_	_
+4	…	_	_	_	_	_	_	_	_
+5	no	_	_	_	_	_	_	_	_
+6	pa	_	_	_	_	_	_	_	_
+7	ko	_	_	_	_	_	_	_	_
+8	ste	_	_	_	_	_	_	_	_
+9	imeli	_	_	_	_	_	_	_	_
+10	birmo	_	_	_	_	_	_	_	_
+11	je	_	_	_	_	_	_	_	_
+12	[name:personal]	_	_	_	_	_	_	_	_
+13	ali	_	_	_	_	_	_	_	_
+14	pa	_	_	_	_	_	_	_	_
+15	[name:personal]	_	_	_	_	_	_	_	_
+16	sta	_	_	_	_	_	_	_	_
+17	berilo	_	_	_	_	_	_	_	_
+18	brala	_	_	_	_	_	_	_	_
+19	no	_	_	_	_	_	_	_	_
+20	pa	_	_	_	_	_	_	_	_
+21	nima	_	_	_	_	_	_	_	_
+22	veze	_	_	_	_	_	_	_	_
+23	…	_	_	_	_	_	_	_	_
+24	no	_	_	_	_	_	_	_	_
+25	njihov	_	_	_	_	_	_	_	_
+26	tudi	_	_	_	_	_	_	_	_
+27	ni	_	_	_	_	_	_	_	_
+28	nič	_	_	_	_	_	_	_	_
+29	znal	_	_	_	_	_	_	_	_
+30	pa	_	_	_	_	_	_	_	_
+31	t	_	_	_	_	_	_	_	_
+32	[gap]	_	_	_	_	_	_	_	_
+33	je	_	_	_	_	_	_	_	_
+34	tam	_	_	_	_	_	_	_	_
+35	pa	_	_	_	_	_	_	_	_
+36	veš	_	_	_	_	_	_	_	_
+37	z	_	_	_	_	_	_	_	_
+38	[gap]	_	_	_	_	_	_	_	_
+39	zakaj	_	_	_	_	_	_	_	_
+40	je	_	_	_	_	_	_	_	_
+41	fajn	_	_	_	_	_	_	_	_
+42	pa	_	_	_	_	_	_	_	_
+43	rečeš	_	_	_	_	_	_	_	_
+44	ob	_	_	_	_	_	_	_	_
+45	enih	_	_	_	_	_	_	_	_
+46	se	_	_	_	_	_	_	_	_
+47	dobimo	_	_	_	_	_	_	_	_
+48	pa	_	_	_	_	_	_	_	_
+49	tlele	_	_	_	_	_	_	_	_
+50	pri	_	_	_	_	_	_	_	_
+51	tejle	_	_	_	_	_	_	_	_
+52	koči	_	_	_	_	_	_	_	_
+
+# sent_id = gos.041-0154
+# text = to so ljudje ki imajo globlje eee pobude za za storitev tega dejanja in brez skrbi bodite da jim hujša zagrožena kazen ne bo preprečila da to naredijo
+1	to	_	_	_	_	_	_	_	_
+2	so	_	_	_	_	_	_	_	_
+3	ljudje	_	_	_	_	_	_	_	_
+4	ki	_	_	_	_	_	_	_	_
+5	imajo	_	_	_	_	_	_	_	_
+6	globlje	_	_	_	_	_	_	_	_
+7	eee	_	_	_	_	_	_	_	_
+8	pobude	_	_	_	_	_	_	_	_
+9	za	_	_	_	_	_	_	_	_
+10	za	_	_	_	_	_	_	_	_
+11	storitev	_	_	_	_	_	_	_	_
+12	tega	_	_	_	_	_	_	_	_
+13	dejanja	_	_	_	_	_	_	_	_
+14	in	_	_	_	_	_	_	_	_
+15	brez	_	_	_	_	_	_	_	_
+16	skrbi	_	_	_	_	_	_	_	_
+17	bodite	_	_	_	_	_	_	_	_
+18	da	_	_	_	_	_	_	_	_
+19	jim	_	_	_	_	_	_	_	_
+20	hujša	_	_	_	_	_	_	_	_
+21	zagrožena	_	_	_	_	_	_	_	_
+22	kazen	_	_	_	_	_	_	_	_
+23	ne	_	_	_	_	_	_	_	_
+24	bo	_	_	_	_	_	_	_	_
+25	preprečila	_	_	_	_	_	_	_	_
+26	da	_	_	_	_	_	_	_	_
+27	to	_	_	_	_	_	_	_	_
+28	naredijo	_	_	_	_	_	_	_	_
+
+# sent_id = gos.259-0025
+# text = ja [gap]
+1	ja	_	_	_	_	_	_	_	_
+2	[gap]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.277-0055
+# text = [gap]
+1	[gap]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.140-0015
+# text = pajdaš bil so bili dober pajdaš mojemu očetu pa te so že gor prišli ka tisti to dela pa so ga iskali
+1	pajdaš	_	_	_	_	_	_	_	_
+2	bil	_	_	_	_	_	_	_	_
+3	so	_	_	_	_	_	_	_	_
+4	bili	_	_	_	_	_	_	_	_
+5	dober	_	_	_	_	_	_	_	_
+6	pajdaš	_	_	_	_	_	_	_	_
+7	mojemu	_	_	_	_	_	_	_	_
+8	očetu	_	_	_	_	_	_	_	_
+9	pa	_	_	_	_	_	_	_	_
+10	te	_	_	_	_	_	_	_	_
+11	so	_	_	_	_	_	_	_	_
+12	že	_	_	_	_	_	_	_	_
+13	gor	_	_	_	_	_	_	_	_
+14	prišli	_	_	_	_	_	_	_	_
+15	ka	_	_	_	_	_	_	_	_
+16	tisti	_	_	_	_	_	_	_	_
+17	to	_	_	_	_	_	_	_	_
+18	dela	_	_	_	_	_	_	_	_
+19	pa	_	_	_	_	_	_	_	_
+20	so	_	_	_	_	_	_	_	_
+21	ga	_	_	_	_	_	_	_	_
+22	iskali	_	_	_	_	_	_	_	_
+
+# sent_id = gos.069-0013
+# text = [gap] [incident] če ne bi
+1	[gap]	_	_	_	_	_	_	_	_
+2	[incident]	_	_	_	_	_	_	_	_
+3	če	_	_	_	_	_	_	_	_
+4	ne	_	_	_	_	_	_	_	_
+5	bi	_	_	_	_	_	_	_	_
+
+# sent_id = gos.169-0157
+# text = zelo nestabilno vreme v v cel teden praktično
+1	zelo	_	_	_	_	_	_	_	_
+2	nestabilno	_	_	_	_	_	_	_	_
+3	vreme	_	_	_	_	_	_	_	_
+4	v	_	_	_	_	_	_	_	_
+5	v	_	_	_	_	_	_	_	_
+6	cel	_	_	_	_	_	_	_	_
+7	teden	_	_	_	_	_	_	_	_
+8	praktično	_	_	_	_	_	_	_	_
+
+# sent_id = gos.265-0053
+# text = da ja
+1	da	_	_	_	_	_	_	_	_
+2	ja	_	_	_	_	_	_	_	_
+
+# sent_id = gos.054-0147
+# text = škoda ker se ne vidi na sliki ne
+1	škoda	_	_	_	_	_	_	_	_
+2	ker	_	_	_	_	_	_	_	_
+3	se	_	_	_	_	_	_	_	_
+4	ne	_	_	_	_	_	_	_	_
+5	vidi	_	_	_	_	_	_	_	_
+6	na	_	_	_	_	_	_	_	_
+7	sliki	_	_	_	_	_	_	_	_
+8	ne	_	_	_	_	_	_	_	_
+
+# sent_id = gos.224-0088
+# text = ja no saj tisti [gap]
+1	ja	_	_	_	_	_	_	_	_
+2	no	_	_	_	_	_	_	_	_
+3	saj	_	_	_	_	_	_	_	_
+4	tisti	_	_	_	_	_	_	_	_
+5	[gap]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.273-0086
+# text = [all:laughter] vse je imel v glavnem vse
+1	[all:laughter]	_	_	_	_	_	_	_	_
+2	vse	_	_	_	_	_	_	_	_
+3	je	_	_	_	_	_	_	_	_
+4	imel	_	_	_	_	_	_	_	_
+5	v	_	_	_	_	_	_	_	_
+6	glavnem	_	_	_	_	_	_	_	_
+7	vse	_	_	_	_	_	_	_	_
+
+# sent_id = gos.035-0036
+# text = nima smisla [gap] nima posluha ne
+1	nima	_	_	_	_	_	_	_	_
+2	smisla	_	_	_	_	_	_	_	_
+3	[gap]	_	_	_	_	_	_	_	_
+4	nima	_	_	_	_	_	_	_	_
+5	posluha	_	_	_	_	_	_	_	_
+6	ne	_	_	_	_	_	_	_	_
+
+# sent_id = gos.120-0008
+# text = referendum za hrvate v nobenem primeru ni obvezen
+1	referendum	_	_	_	_	_	_	_	_
+2	za	_	_	_	_	_	_	_	_
+3	hrvate	_	_	_	_	_	_	_	_
+4	v	_	_	_	_	_	_	_	_
+5	nobenem	_	_	_	_	_	_	_	_
+6	primeru	_	_	_	_	_	_	_	_
+7	ni	_	_	_	_	_	_	_	_
+8	obvezen	_	_	_	_	_	_	_	_
+
+# sent_id = gos.194-0593
+# text = to je to [name:personal]
+1	to	_	_	_	_	_	_	_	_
+2	je	_	_	_	_	_	_	_	_
+3	to	_	_	_	_	_	_	_	_
+4	[name:personal]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.014-0634
+# text = v redu kam pa ?
+1	v	_	_	_	_	_	_	_	_
+2	redu	_	_	_	_	_	_	_	_
+3	kam	_	_	_	_	_	_	_	_
+4	pa	_	_	_	_	_	_	_	_
+5	?	_	_	_	_	_	_	_	_
+
+# sent_id = gos.147-0035
+# text = štiri minute in dvajset sekund do pol sedmih je ura [incident] tole jutro se evo tudi z žvrgolenjem ptičkov prebuja pomlad je tukaj danes pa je petindvajseti marec in materinski dan danes zdajle ne rabiš nič govoriti [name:personal]
+1	štiri	_	_	_	_	_	_	_	_
+2	minute	_	_	_	_	_	_	_	_
+3	in	_	_	_	_	_	_	_	_
+4	dvajset	_	_	_	_	_	_	_	_
+5	sekund	_	_	_	_	_	_	_	_
+6	do	_	_	_	_	_	_	_	_
+7	pol	_	_	_	_	_	_	_	_
+8	sedmih	_	_	_	_	_	_	_	_
+9	je	_	_	_	_	_	_	_	_
+10	ura	_	_	_	_	_	_	_	_
+11	[incident]	_	_	_	_	_	_	_	_
+12	tole	_	_	_	_	_	_	_	_
+13	jutro	_	_	_	_	_	_	_	_
+14	se	_	_	_	_	_	_	_	_
+15	evo	_	_	_	_	_	_	_	_
+16	tudi	_	_	_	_	_	_	_	_
+17	z	_	_	_	_	_	_	_	_
+18	žvrgolenjem	_	_	_	_	_	_	_	_
+19	ptičkov	_	_	_	_	_	_	_	_
+20	prebuja	_	_	_	_	_	_	_	_
+21	pomlad	_	_	_	_	_	_	_	_
+22	je	_	_	_	_	_	_	_	_
+23	tukaj	_	_	_	_	_	_	_	_
+24	danes	_	_	_	_	_	_	_	_
+25	pa	_	_	_	_	_	_	_	_
+26	je	_	_	_	_	_	_	_	_
+27	petindvajseti	_	_	_	_	_	_	_	_
+28	marec	_	_	_	_	_	_	_	_
+29	in	_	_	_	_	_	_	_	_
+30	materinski	_	_	_	_	_	_	_	_
+31	dan	_	_	_	_	_	_	_	_
+32	danes	_	_	_	_	_	_	_	_
+33	zdajle	_	_	_	_	_	_	_	_
+34	ne	_	_	_	_	_	_	_	_
+35	rabiš	_	_	_	_	_	_	_	_
+36	nič	_	_	_	_	_	_	_	_
+37	govoriti	_	_	_	_	_	_	_	_
+38	[name:personal]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.261-0070
+# text = ne edino če starši se trudijo ne ampak ja ja ja
+1	ne	_	_	_	_	_	_	_	_
+2	edino	_	_	_	_	_	_	_	_
+3	če	_	_	_	_	_	_	_	_
+4	starši	_	_	_	_	_	_	_	_
+5	se	_	_	_	_	_	_	_	_
+6	trudijo	_	_	_	_	_	_	_	_
+7	ne	_	_	_	_	_	_	_	_
+8	ampak	_	_	_	_	_	_	_	_
+9	ja	_	_	_	_	_	_	_	_
+10	ja	_	_	_	_	_	_	_	_
+11	ja	_	_	_	_	_	_	_	_
+
+# sent_id = gos.047-0145
+# text = znani smo po vinih visokih kakovostih [gap] vina suhi jagodni izbori
+1	znani	_	_	_	_	_	_	_	_
+2	smo	_	_	_	_	_	_	_	_
+3	po	_	_	_	_	_	_	_	_
+4	vinih	_	_	_	_	_	_	_	_
+5	visokih	_	_	_	_	_	_	_	_
+6	kakovostih	_	_	_	_	_	_	_	_
+7	[gap]	_	_	_	_	_	_	_	_
+8	vina	_	_	_	_	_	_	_	_
+9	suhi	_	_	_	_	_	_	_	_
+10	jagodni	_	_	_	_	_	_	_	_
+11	izbori	_	_	_	_	_	_	_	_
+
+# sent_id = gos.259-0024
+# text = kar se tiče tega
+1	kar	_	_	_	_	_	_	_	_
+2	se	_	_	_	_	_	_	_	_
+3	tiče	_	_	_	_	_	_	_	_
+4	tega	_	_	_	_	_	_	_	_
+
+# sent_id = gos.079-0003
+# text = sem zgrešila sploh nisem vedela da je danes
+1	sem	_	_	_	_	_	_	_	_
+2	zgrešila	_	_	_	_	_	_	_	_
+3	sploh	_	_	_	_	_	_	_	_
+4	nisem	_	_	_	_	_	_	_	_
+5	vedela	_	_	_	_	_	_	_	_
+6	da	_	_	_	_	_	_	_	_
+7	je	_	_	_	_	_	_	_	_
+8	danes	_	_	_	_	_	_	_	_
+
+# sent_id = gos.213-0079
+# text = [gap] … mhm
+1	[gap]	_	_	_	_	_	_	_	_
+2	…	_	_	_	_	_	_	_	_
+3	mhm	_	_	_	_	_	_	_	_
+
+# sent_id = gos.193-0146
+# text = [pause]
+1	[pause]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.217-0094
+# text = je dovolj pol
+1	je	_	_	_	_	_	_	_	_
+2	dovolj	_	_	_	_	_	_	_	_
+3	pol	_	_	_	_	_	_	_	_
+
+# sent_id = gos.017-0275
+# text = aam ja jaz pa mislim da je bilo aam to v šestem razredu
+1	aam	_	_	_	_	_	_	_	_
+2	ja	_	_	_	_	_	_	_	_
+3	jaz	_	_	_	_	_	_	_	_
+4	pa	_	_	_	_	_	_	_	_
+5	mislim	_	_	_	_	_	_	_	_
+6	da	_	_	_	_	_	_	_	_
+7	je	_	_	_	_	_	_	_	_
+8	bilo	_	_	_	_	_	_	_	_
+9	aam	_	_	_	_	_	_	_	_
+10	to	_	_	_	_	_	_	_	_
+11	v	_	_	_	_	_	_	_	_
+12	šestem	_	_	_	_	_	_	_	_
+13	razredu	_	_	_	_	_	_	_	_
+
+# sent_id = gos.059-0114
+# text = osebo ne da je on zaspal
+1	osebo	_	_	_	_	_	_	_	_
+2	ne	_	_	_	_	_	_	_	_
+3	da	_	_	_	_	_	_	_	_
+4	je	_	_	_	_	_	_	_	_
+5	on	_	_	_	_	_	_	_	_
+6	zaspal	_	_	_	_	_	_	_	_
+
+# sent_id = gos.147-0034
+# text = tole so mister mister broken wings bili so to časi osemdesetih let ko se je pač tale pesem držala pa še vedno se
+1	tole	_	_	_	_	_	_	_	_
+2	so	_	_	_	_	_	_	_	_
+3	mister	_	_	_	_	_	_	_	_
+4	mister	_	_	_	_	_	_	_	_
+5	broken	_	_	_	_	_	_	_	_
+6	wings	_	_	_	_	_	_	_	_
+7	bili	_	_	_	_	_	_	_	_
+8	so	_	_	_	_	_	_	_	_
+9	to	_	_	_	_	_	_	_	_
+10	časi	_	_	_	_	_	_	_	_
+11	osemdesetih	_	_	_	_	_	_	_	_
+12	let	_	_	_	_	_	_	_	_
+13	ko	_	_	_	_	_	_	_	_
+14	se	_	_	_	_	_	_	_	_
+15	je	_	_	_	_	_	_	_	_
+16	pač	_	_	_	_	_	_	_	_
+17	tale	_	_	_	_	_	_	_	_
+18	pesem	_	_	_	_	_	_	_	_
+19	držala	_	_	_	_	_	_	_	_
+20	pa	_	_	_	_	_	_	_	_
+21	še	_	_	_	_	_	_	_	_
+22	vedno	_	_	_	_	_	_	_	_
+23	se	_	_	_	_	_	_	_	_
+
+# sent_id = gos.177-0082
+# text = korpus
+1	korpus	_	_	_	_	_	_	_	_
+
+# sent_id = gos.278-0279
+# text = ne ful je ogromen pa eee ne vem no pa še kar zmeraj stoji še zmeraj isto velik kakor je bil takrat ko je bilo ful snega [audience:laughter]
+1	ne	_	_	_	_	_	_	_	_
+2	ful	_	_	_	_	_	_	_	_
+3	je	_	_	_	_	_	_	_	_
+4	ogromen	_	_	_	_	_	_	_	_
+5	pa	_	_	_	_	_	_	_	_
+6	eee	_	_	_	_	_	_	_	_
+7	ne	_	_	_	_	_	_	_	_
+8	vem	_	_	_	_	_	_	_	_
+9	no	_	_	_	_	_	_	_	_
+10	pa	_	_	_	_	_	_	_	_
+11	še	_	_	_	_	_	_	_	_
+12	kar	_	_	_	_	_	_	_	_
+13	zmeraj	_	_	_	_	_	_	_	_
+14	stoji	_	_	_	_	_	_	_	_
+15	še	_	_	_	_	_	_	_	_
+16	zmeraj	_	_	_	_	_	_	_	_
+17	isto	_	_	_	_	_	_	_	_
+18	velik	_	_	_	_	_	_	_	_
+19	kakor	_	_	_	_	_	_	_	_
+20	je	_	_	_	_	_	_	_	_
+21	bil	_	_	_	_	_	_	_	_
+22	takrat	_	_	_	_	_	_	_	_
+23	ko	_	_	_	_	_	_	_	_
+24	je	_	_	_	_	_	_	_	_
+25	bilo	_	_	_	_	_	_	_	_
+26	ful	_	_	_	_	_	_	_	_
+27	snega	_	_	_	_	_	_	_	_
+28	[audience:laughter]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.287-0050
+# text = mmm
+1	mmm	_	_	_	_	_	_	_	_
+
+# sent_id = gos.155-0112
+# text = što imam od života
+1	što	_	_	_	_	_	_	_	_
+2	imam	_	_	_	_	_	_	_	_
+3	od	_	_	_	_	_	_	_	_
+4	života	_	_	_	_	_	_	_	_
+
+# sent_id = gos.026-0025
+# text = aktualno na aktualu
+1	aktualno	_	_	_	_	_	_	_	_
+2	na	_	_	_	_	_	_	_	_
+3	aktualu	_	_	_	_	_	_	_	_
+
+# sent_id = gos.167-0139
+# text = mi doma si eee podarimo praktična darila
+1	mi	_	_	_	_	_	_	_	_
+2	doma	_	_	_	_	_	_	_	_
+3	si	_	_	_	_	_	_	_	_
+4	eee	_	_	_	_	_	_	_	_
+5	podarimo	_	_	_	_	_	_	_	_
+6	praktična	_	_	_	_	_	_	_	_
+7	darila	_	_	_	_	_	_	_	_
+
+# sent_id = gos.043-0084
+# text = no jaz osebno sem prepričan da eee eee je eee treba se zavedati kje pravzaprav živimo da živimo v sloveniji ne
+1	no	_	_	_	_	_	_	_	_
+2	jaz	_	_	_	_	_	_	_	_
+3	osebno	_	_	_	_	_	_	_	_
+4	sem	_	_	_	_	_	_	_	_
+5	prepričan	_	_	_	_	_	_	_	_
+6	da	_	_	_	_	_	_	_	_
+7	eee	_	_	_	_	_	_	_	_
+8	eee	_	_	_	_	_	_	_	_
+9	je	_	_	_	_	_	_	_	_
+10	eee	_	_	_	_	_	_	_	_
+11	treba	_	_	_	_	_	_	_	_
+12	se	_	_	_	_	_	_	_	_
+13	zavedati	_	_	_	_	_	_	_	_
+14	kje	_	_	_	_	_	_	_	_
+15	pravzaprav	_	_	_	_	_	_	_	_
+16	živimo	_	_	_	_	_	_	_	_
+17	da	_	_	_	_	_	_	_	_
+18	živimo	_	_	_	_	_	_	_	_
+19	v	_	_	_	_	_	_	_	_
+20	sloveniji	_	_	_	_	_	_	_	_
+21	ne	_	_	_	_	_	_	_	_
+
+# sent_id = gos.009-0221
+# text = ja
+1	ja	_	_	_	_	_	_	_	_
+
+# sent_id = gos.205-0065
+# text = mhm … ja … mhm
+1	mhm	_	_	_	_	_	_	_	_
+2	…	_	_	_	_	_	_	_	_
+3	ja	_	_	_	_	_	_	_	_
+4	…	_	_	_	_	_	_	_	_
+5	mhm	_	_	_	_	_	_	_	_
+
+# sent_id = gos.186-0138
+# text = točno to ne
+1	točno	_	_	_	_	_	_	_	_
+2	to	_	_	_	_	_	_	_	_
+3	ne	_	_	_	_	_	_	_	_
+
+# sent_id = gos.230-0099
+# text = a pa je to sesalec ali to samo umiva kako ?
+1	a	_	_	_	_	_	_	_	_
+2	pa	_	_	_	_	_	_	_	_
+3	je	_	_	_	_	_	_	_	_
+4	to	_	_	_	_	_	_	_	_
+5	sesalec	_	_	_	_	_	_	_	_
+6	ali	_	_	_	_	_	_	_	_
+7	to	_	_	_	_	_	_	_	_
+8	samo	_	_	_	_	_	_	_	_
+9	umiva	_	_	_	_	_	_	_	_
+10	kako	_	_	_	_	_	_	_	_
+11	?	_	_	_	_	_	_	_	_
+
+# sent_id = gos.259-0019
+# text = ampak vsak ima svojo sobo in eee
+1	ampak	_	_	_	_	_	_	_	_
+2	vsak	_	_	_	_	_	_	_	_
+3	ima	_	_	_	_	_	_	_	_
+4	svojo	_	_	_	_	_	_	_	_
+5	sobo	_	_	_	_	_	_	_	_
+6	in	_	_	_	_	_	_	_	_
+7	eee	_	_	_	_	_	_	_	_
+
+# sent_id = gos.241-0158
+# text = ja ja
+1	ja	_	_	_	_	_	_	_	_
+2	ja	_	_	_	_	_	_	_	_
+
+# sent_id = gos.123-0084
+# text = tudi to je šlo mimo naše javnosti
+1	tudi	_	_	_	_	_	_	_	_
+2	to	_	_	_	_	_	_	_	_
+3	je	_	_	_	_	_	_	_	_
+4	šlo	_	_	_	_	_	_	_	_
+5	mimo	_	_	_	_	_	_	_	_
+6	naše	_	_	_	_	_	_	_	_
+7	javnosti	_	_	_	_	_	_	_	_
+
+# sent_id = gos.256-0072
+# text = mislim da so to naše jako hitro naredile [audience:laughter]
+1	mislim	_	_	_	_	_	_	_	_
+2	da	_	_	_	_	_	_	_	_
+3	so	_	_	_	_	_	_	_	_
+4	to	_	_	_	_	_	_	_	_
+5	naše	_	_	_	_	_	_	_	_
+6	jako	_	_	_	_	_	_	_	_
+7	hitro	_	_	_	_	_	_	_	_
+8	naredile	_	_	_	_	_	_	_	_
+9	[audience:laughter]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.280-0023
+# text = ja [name:personal] pa eee mama sta šla … ja
+1	ja	_	_	_	_	_	_	_	_
+2	[name:personal]	_	_	_	_	_	_	_	_
+3	pa	_	_	_	_	_	_	_	_
+4	eee	_	_	_	_	_	_	_	_
+5	mama	_	_	_	_	_	_	_	_
+6	sta	_	_	_	_	_	_	_	_
+7	šla	_	_	_	_	_	_	_	_
+8	…	_	_	_	_	_	_	_	_
+9	ja	_	_	_	_	_	_	_	_
+
+# sent_id = gos.010-0445
+# text = mhm
+1	mhm	_	_	_	_	_	_	_	_
+
+# sent_id = gos.136-0398
+# text = [pause]
+1	[pause]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.225-0349
+# text = naj požri ja
+1	naj	_	_	_	_	_	_	_	_
+2	požri	_	_	_	_	_	_	_	_
+3	ja	_	_	_	_	_	_	_	_
+
+# sent_id = gos.157-0137
+# text = [gap] daj [gap]
+1	[gap]	_	_	_	_	_	_	_	_
+2	daj	_	_	_	_	_	_	_	_
+3	[gap]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.053-0462
+# text = kation
+1	kation	_	_	_	_	_	_	_	_
+
+# sent_id = gos.011-0221
+# text = pa da so se skrili pred plenilci
+1	pa	_	_	_	_	_	_	_	_
+2	da	_	_	_	_	_	_	_	_
+3	so	_	_	_	_	_	_	_	_
+4	se	_	_	_	_	_	_	_	_
+5	skrili	_	_	_	_	_	_	_	_
+6	pred	_	_	_	_	_	_	_	_
+7	plenilci	_	_	_	_	_	_	_	_
+
+# sent_id = gos.231-0060
+# text = eee in je rekla je rekla bom jaz probala pravi
+1	eee	_	_	_	_	_	_	_	_
+2	in	_	_	_	_	_	_	_	_
+3	je	_	_	_	_	_	_	_	_
+4	rekla	_	_	_	_	_	_	_	_
+5	je	_	_	_	_	_	_	_	_
+6	rekla	_	_	_	_	_	_	_	_
+7	bom	_	_	_	_	_	_	_	_
+8	jaz	_	_	_	_	_	_	_	_
+9	probala	_	_	_	_	_	_	_	_
+10	pravi	_	_	_	_	_	_	_	_
+
+# sent_id = gos.162-0500
+# text = vem to j [gap] [gap]
+1	vem	_	_	_	_	_	_	_	_
+2	to	_	_	_	_	_	_	_	_
+3	j	_	_	_	_	_	_	_	_
+4	[gap]	_	_	_	_	_	_	_	_
+5	[gap]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.232-0084
+# text = pa [:voice] mislim če bi šla bi šla na sinclairja
+1	pa	_	_	_	_	_	_	_	_
+2	[:voice]	_	_	_	_	_	_	_	_
+3	mislim	_	_	_	_	_	_	_	_
+4	če	_	_	_	_	_	_	_	_
+5	bi	_	_	_	_	_	_	_	_
+6	šla	_	_	_	_	_	_	_	_
+7	bi	_	_	_	_	_	_	_	_
+8	šla	_	_	_	_	_	_	_	_
+9	na	_	_	_	_	_	_	_	_
+10	sinclairja	_	_	_	_	_	_	_	_
+
+# sent_id = gos.033-0034
+# text = ne zdi se mi smiselno obsojati ljudi je pa res da je toliko pomoči in eee toliko ponudb da se da rešiti to
+1	ne	_	_	_	_	_	_	_	_
+2	zdi	_	_	_	_	_	_	_	_
+3	se	_	_	_	_	_	_	_	_
+4	mi	_	_	_	_	_	_	_	_
+5	smiselno	_	_	_	_	_	_	_	_
+6	obsojati	_	_	_	_	_	_	_	_
+7	ljudi	_	_	_	_	_	_	_	_
+8	je	_	_	_	_	_	_	_	_
+9	pa	_	_	_	_	_	_	_	_
+10	res	_	_	_	_	_	_	_	_
+11	da	_	_	_	_	_	_	_	_
+12	je	_	_	_	_	_	_	_	_
+13	toliko	_	_	_	_	_	_	_	_
+14	pomoči	_	_	_	_	_	_	_	_
+15	in	_	_	_	_	_	_	_	_
+16	eee	_	_	_	_	_	_	_	_
+17	toliko	_	_	_	_	_	_	_	_
+18	ponudb	_	_	_	_	_	_	_	_
+19	da	_	_	_	_	_	_	_	_
+20	se	_	_	_	_	_	_	_	_
+21	da	_	_	_	_	_	_	_	_
+22	rešiti	_	_	_	_	_	_	_	_
+23	to	_	_	_	_	_	_	_	_
+
+# sent_id = gos.180-0283
+# text = eee
+1	eee	_	_	_	_	_	_	_	_
+
+# sent_id = gos.176-0800
+# text = eee in tudi vedno so problemi a moram priti a mi ni treba priti ne zato ker oni so zdaj pač za svoje vzeli eee to avgust
+1	eee	_	_	_	_	_	_	_	_
+2	in	_	_	_	_	_	_	_	_
+3	tudi	_	_	_	_	_	_	_	_
+4	vedno	_	_	_	_	_	_	_	_
+5	so	_	_	_	_	_	_	_	_
+6	problemi	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	moram	_	_	_	_	_	_	_	_
+9	priti	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	mi	_	_	_	_	_	_	_	_
+12	ni	_	_	_	_	_	_	_	_
+13	treba	_	_	_	_	_	_	_	_
+14	priti	_	_	_	_	_	_	_	_
+15	ne	_	_	_	_	_	_	_	_
+16	zato	_	_	_	_	_	_	_	_
+17	ker	_	_	_	_	_	_	_	_
+18	oni	_	_	_	_	_	_	_	_
+19	so	_	_	_	_	_	_	_	_
+20	zdaj	_	_	_	_	_	_	_	_
+21	pač	_	_	_	_	_	_	_	_
+22	za	_	_	_	_	_	_	_	_
+23	svoje	_	_	_	_	_	_	_	_
+24	vzeli	_	_	_	_	_	_	_	_
+25	eee	_	_	_	_	_	_	_	_
+26	to	_	_	_	_	_	_	_	_
+27	avgust	_	_	_	_	_	_	_	_
+
+# sent_id = gos.053-0457
+# text = prosim
+1	prosim	_	_	_	_	_	_	_	_
+
+# sent_id = gos.253-0094
+# text = samo ni tukla ni jabolčnik
+1	samo	_	_	_	_	_	_	_	_
+2	ni	_	_	_	_	_	_	_	_
+3	tukla	_	_	_	_	_	_	_	_
+4	ni	_	_	_	_	_	_	_	_
+5	jabolčnik	_	_	_	_	_	_	_	_
+
+# sent_id = gos.279-0009
+# text = ja pa tam mati pa foter itak televizijo gledata kaj naj pol jaz
+1	ja	_	_	_	_	_	_	_	_
+2	pa	_	_	_	_	_	_	_	_
+3	tam	_	_	_	_	_	_	_	_
+4	mati	_	_	_	_	_	_	_	_
+5	pa	_	_	_	_	_	_	_	_
+6	foter	_	_	_	_	_	_	_	_
+7	itak	_	_	_	_	_	_	_	_
+8	televizijo	_	_	_	_	_	_	_	_
+9	gledata	_	_	_	_	_	_	_	_
+10	kaj	_	_	_	_	_	_	_	_
+11	naj	_	_	_	_	_	_	_	_
+12	pol	_	_	_	_	_	_	_	_
+13	jaz	_	_	_	_	_	_	_	_
+
+# sent_id = gos.161-0151
+# text = no v dvesto petdeset letih smo ga tako posvojili da smo zanj pripravljeni narediti marsikaj
+1	no	_	_	_	_	_	_	_	_
+2	v	_	_	_	_	_	_	_	_
+3	dvesto	_	_	_	_	_	_	_	_
+4	petdeset	_	_	_	_	_	_	_	_
+5	letih	_	_	_	_	_	_	_	_
+6	smo	_	_	_	_	_	_	_	_
+7	ga	_	_	_	_	_	_	_	_
+8	tako	_	_	_	_	_	_	_	_
+9	posvojili	_	_	_	_	_	_	_	_
+10	da	_	_	_	_	_	_	_	_
+11	smo	_	_	_	_	_	_	_	_
+12	zanj	_	_	_	_	_	_	_	_
+13	pripravljeni	_	_	_	_	_	_	_	_
+14	narediti	_	_	_	_	_	_	_	_
+15	marsikaj	_	_	_	_	_	_	_	_
+
+# sent_id = gos.038-0282
+# text = [pause]
+1	[pause]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.115-0080
+# text = se bo to kaj poznalo na majhni sloveniji ?
+1	se	_	_	_	_	_	_	_	_
+2	bo	_	_	_	_	_	_	_	_
+3	to	_	_	_	_	_	_	_	_
+4	kaj	_	_	_	_	_	_	_	_
+5	poznalo	_	_	_	_	_	_	_	_
+6	na	_	_	_	_	_	_	_	_
+7	majhni	_	_	_	_	_	_	_	_
+8	sloveniji	_	_	_	_	_	_	_	_
+9	?	_	_	_	_	_	_	_	_
+
+# sent_id = gos.010-0438
+# text = tako je
+1	tako	_	_	_	_	_	_	_	_
+2	je	_	_	_	_	_	_	_	_
+
+# sent_id = gos.216-0233
+# text = ne vem z biomaso je tako biomaso imate vi zdaj tri vrste bi rekel tri vrste ali imate klasična polena
+1	ne	_	_	_	_	_	_	_	_
+2	vem	_	_	_	_	_	_	_	_
+3	z	_	_	_	_	_	_	_	_
+4	biomaso	_	_	_	_	_	_	_	_
+5	je	_	_	_	_	_	_	_	_
+6	tako	_	_	_	_	_	_	_	_
+7	biomaso	_	_	_	_	_	_	_	_
+8	imate	_	_	_	_	_	_	_	_
+9	vi	_	_	_	_	_	_	_	_
+10	zdaj	_	_	_	_	_	_	_	_
+11	tri	_	_	_	_	_	_	_	_
+12	vrste	_	_	_	_	_	_	_	_
+13	bi	_	_	_	_	_	_	_	_
+14	rekel	_	_	_	_	_	_	_	_
+15	tri	_	_	_	_	_	_	_	_
+16	vrste	_	_	_	_	_	_	_	_
+17	ali	_	_	_	_	_	_	_	_
+18	imate	_	_	_	_	_	_	_	_
+19	klasična	_	_	_	_	_	_	_	_
+20	polena	_	_	_	_	_	_	_	_
+
+# sent_id = gos.235-0252
+# text = aha to tudi so jim kar dali [gap] jah to je takoj na ekonomiji pa takoj denar biznis laufa
+1	aha	_	_	_	_	_	_	_	_
+2	to	_	_	_	_	_	_	_	_
+3	tudi	_	_	_	_	_	_	_	_
+4	so	_	_	_	_	_	_	_	_
+5	jim	_	_	_	_	_	_	_	_
+6	kar	_	_	_	_	_	_	_	_
+7	dali	_	_	_	_	_	_	_	_
+8	[gap]	_	_	_	_	_	_	_	_
+9	jah	_	_	_	_	_	_	_	_
+10	to	_	_	_	_	_	_	_	_
+11	je	_	_	_	_	_	_	_	_
+12	takoj	_	_	_	_	_	_	_	_
+13	na	_	_	_	_	_	_	_	_
+14	ekonomiji	_	_	_	_	_	_	_	_
+15	pa	_	_	_	_	_	_	_	_
+16	takoj	_	_	_	_	_	_	_	_
+17	denar	_	_	_	_	_	_	_	_
+18	biznis	_	_	_	_	_	_	_	_
+19	laufa	_	_	_	_	_	_	_	_
+
+# sent_id = gos.176-0799
+# text = eee letos spet nazaj na dva dneva ne ob tem da se seveda eee nekako eee lektorji stu sicer manj identificirajo s tem junijskim
+1	eee	_	_	_	_	_	_	_	_
+2	letos	_	_	_	_	_	_	_	_
+3	spet	_	_	_	_	_	_	_	_
+4	nazaj	_	_	_	_	_	_	_	_
+5	na	_	_	_	_	_	_	_	_
+6	dva	_	_	_	_	_	_	_	_
+7	dneva	_	_	_	_	_	_	_	_
+8	ne	_	_	_	_	_	_	_	_
+9	ob	_	_	_	_	_	_	_	_
+10	tem	_	_	_	_	_	_	_	_
+11	da	_	_	_	_	_	_	_	_
+12	se	_	_	_	_	_	_	_	_
+13	seveda	_	_	_	_	_	_	_	_
+14	eee	_	_	_	_	_	_	_	_
+15	nekako	_	_	_	_	_	_	_	_
+16	eee	_	_	_	_	_	_	_	_
+17	lektorji	_	_	_	_	_	_	_	_
+18	stu	_	_	_	_	_	_	_	_
+19	sicer	_	_	_	_	_	_	_	_
+20	manj	_	_	_	_	_	_	_	_
+21	identificirajo	_	_	_	_	_	_	_	_
+22	s	_	_	_	_	_	_	_	_
+23	tem	_	_	_	_	_	_	_	_
+24	junijskim	_	_	_	_	_	_	_	_
+
+# sent_id = gos.256-0075
+# text = popravljale
+1	popravljale	_	_	_	_	_	_	_	_
+
+# sent_id = gos.041-0155
+# text = kje pa vi vidite rešitev ?
+1	kje	_	_	_	_	_	_	_	_
+2	pa	_	_	_	_	_	_	_	_
+3	vi	_	_	_	_	_	_	_	_
+4	vidite	_	_	_	_	_	_	_	_
+5	rešitev	_	_	_	_	_	_	_	_
+6	?	_	_	_	_	_	_	_	_
+
+# sent_id = gos.182-0171
+# text = pa kakšen mozolj zbrisali na hrbtu
+1	pa	_	_	_	_	_	_	_	_
+2	kakšen	_	_	_	_	_	_	_	_
+3	mozolj	_	_	_	_	_	_	_	_
+4	zbrisali	_	_	_	_	_	_	_	_
+5	na	_	_	_	_	_	_	_	_
+6	hrbtu	_	_	_	_	_	_	_	_
+
+# sent_id = gos.135-0645
+# text = [pause]
+1	[pause]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.158-0107
+# text = eee pre [gap] eee seveda moramo najprej narediti našo protokolarno obveznost da eee [name:personal] fotografiramo za najino eee eee lu [gap] kaj se že temu reče luknja slavnih … ne v redu ?
+1	eee	_	_	_	_	_	_	_	_
+2	pre	_	_	_	_	_	_	_	_
+3	[gap]	_	_	_	_	_	_	_	_
+4	eee	_	_	_	_	_	_	_	_
+5	seveda	_	_	_	_	_	_	_	_
+6	moramo	_	_	_	_	_	_	_	_
+7	najprej	_	_	_	_	_	_	_	_
+8	narediti	_	_	_	_	_	_	_	_
+9	našo	_	_	_	_	_	_	_	_
+10	protokolarno	_	_	_	_	_	_	_	_
+11	obveznost	_	_	_	_	_	_	_	_
+12	da	_	_	_	_	_	_	_	_
+13	eee	_	_	_	_	_	_	_	_
+14	[name:personal]	_	_	_	_	_	_	_	_
+15	fotografiramo	_	_	_	_	_	_	_	_
+16	za	_	_	_	_	_	_	_	_
+17	najino	_	_	_	_	_	_	_	_
+18	eee	_	_	_	_	_	_	_	_
+19	eee	_	_	_	_	_	_	_	_
+20	lu	_	_	_	_	_	_	_	_
+21	[gap]	_	_	_	_	_	_	_	_
+22	kaj	_	_	_	_	_	_	_	_
+23	se	_	_	_	_	_	_	_	_
+24	že	_	_	_	_	_	_	_	_
+25	temu	_	_	_	_	_	_	_	_
+26	reče	_	_	_	_	_	_	_	_
+27	luknja	_	_	_	_	_	_	_	_
+28	slavnih	_	_	_	_	_	_	_	_
+29	…	_	_	_	_	_	_	_	_
+30	ne	_	_	_	_	_	_	_	_
+31	v	_	_	_	_	_	_	_	_
+32	redu	_	_	_	_	_	_	_	_
+33	?	_	_	_	_	_	_	_	_
+
+# sent_id = gos.165-0179
+# text = ja
+1	ja	_	_	_	_	_	_	_	_
+
+# sent_id = gos.287-0048
+# text = pol sem pa jaz lačna postala pa sem rekla če gremo na pico
+1	pol	_	_	_	_	_	_	_	_
+2	sem	_	_	_	_	_	_	_	_
+3	pa	_	_	_	_	_	_	_	_
+4	jaz	_	_	_	_	_	_	_	_
+5	lačna	_	_	_	_	_	_	_	_
+6	postala	_	_	_	_	_	_	_	_
+7	pa	_	_	_	_	_	_	_	_
+8	sem	_	_	_	_	_	_	_	_
+9	rekla	_	_	_	_	_	_	_	_
+10	če	_	_	_	_	_	_	_	_
+11	gremo	_	_	_	_	_	_	_	_
+12	na	_	_	_	_	_	_	_	_
+13	pico	_	_	_	_	_	_	_	_
+
+# sent_id = gos.073-0381
+# text = ampak želim nekaj drugega poudariti
+1	ampak	_	_	_	_	_	_	_	_
+2	želim	_	_	_	_	_	_	_	_
+3	nekaj	_	_	_	_	_	_	_	_
+4	drugega	_	_	_	_	_	_	_	_
+5	poudariti	_	_	_	_	_	_	_	_
+
+# sent_id = gos.016-0602
+# text = s katerimi rastlinami v povezavi
+1	s	_	_	_	_	_	_	_	_
+2	katerimi	_	_	_	_	_	_	_	_
+3	rastlinami	_	_	_	_	_	_	_	_
+4	v	_	_	_	_	_	_	_	_
+5	povezavi	_	_	_	_	_	_	_	_
+
+# sent_id = gos.268-0220
+# text = samo je dobro veš
+1	samo	_	_	_	_	_	_	_	_
+2	je	_	_	_	_	_	_	_	_
+3	dobro	_	_	_	_	_	_	_	_
+4	veš	_	_	_	_	_	_	_	_
+
+# sent_id = gos.135-0626
+# text = bruno na svidenje lahko greste ja … ja ja [all:laughter]
+1	bruno	_	_	_	_	_	_	_	_
+2	na	_	_	_	_	_	_	_	_
+3	svidenje	_	_	_	_	_	_	_	_
+4	lahko	_	_	_	_	_	_	_	_
+5	greste	_	_	_	_	_	_	_	_
+6	ja	_	_	_	_	_	_	_	_
+7	…	_	_	_	_	_	_	_	_
+8	ja	_	_	_	_	_	_	_	_
+9	ja	_	_	_	_	_	_	_	_
+10	[all:laughter]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.073-0384
+# text = poglejte kako se streže to v tujini
+1	poglejte	_	_	_	_	_	_	_	_
+2	kako	_	_	_	_	_	_	_	_
+3	se	_	_	_	_	_	_	_	_
+4	streže	_	_	_	_	_	_	_	_
+5	to	_	_	_	_	_	_	_	_
+6	v	_	_	_	_	_	_	_	_
+7	tujini	_	_	_	_	_	_	_	_
+
+# sent_id = gos.268-0216
+# text = ne
+1	ne	_	_	_	_	_	_	_	_
+
+# sent_id = gos.220-0058
+# text = ma ja to mi hodi gor ma ni lepo da [gap] v elastiki
+1	ma	_	_	_	_	_	_	_	_
+2	ja	_	_	_	_	_	_	_	_
+3	to	_	_	_	_	_	_	_	_
+4	mi	_	_	_	_	_	_	_	_
+5	hodi	_	_	_	_	_	_	_	_
+6	gor	_	_	_	_	_	_	_	_
+7	ma	_	_	_	_	_	_	_	_
+8	ni	_	_	_	_	_	_	_	_
+9	lepo	_	_	_	_	_	_	_	_
+10	da	_	_	_	_	_	_	_	_
+11	[gap]	_	_	_	_	_	_	_	_
+12	v	_	_	_	_	_	_	_	_
+13	elastiki	_	_	_	_	_	_	_	_
+
+# sent_id = gos.209-0070
+# text = ampak eee sandali kakšne superge recimo tudi pridejo v poštev
+1	ampak	_	_	_	_	_	_	_	_
+2	eee	_	_	_	_	_	_	_	_
+3	sandali	_	_	_	_	_	_	_	_
+4	kakšne	_	_	_	_	_	_	_	_
+5	superge	_	_	_	_	_	_	_	_
+6	recimo	_	_	_	_	_	_	_	_
+7	tudi	_	_	_	_	_	_	_	_
+8	pridejo	_	_	_	_	_	_	_	_
+9	v	_	_	_	_	_	_	_	_
+10	poštev	_	_	_	_	_	_	_	_
+
+# sent_id = gos.072-0220
+# text = hvala lepa gospod [name:surname] replika [incident] gospod [name:surname]
+1	hvala	_	_	_	_	_	_	_	_
+2	lepa	_	_	_	_	_	_	_	_
+3	gospod	_	_	_	_	_	_	_	_
+4	[name:surname]	_	_	_	_	_	_	_	_
+5	replika	_	_	_	_	_	_	_	_
+6	[incident]	_	_	_	_	_	_	_	_
+7	gospod	_	_	_	_	_	_	_	_
+8	[name:surname]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.179-0155
+# text = ja
+1	ja	_	_	_	_	_	_	_	_
+
+# sent_id = gos.061-0424
+# text = mi smo sedaj v nekem drugem okolju ne kot smo navajeni
+1	mi	_	_	_	_	_	_	_	_
+2	smo	_	_	_	_	_	_	_	_
+3	sedaj	_	_	_	_	_	_	_	_
+4	v	_	_	_	_	_	_	_	_
+5	nekem	_	_	_	_	_	_	_	_
+6	drugem	_	_	_	_	_	_	_	_
+7	okolju	_	_	_	_	_	_	_	_
+8	ne	_	_	_	_	_	_	_	_
+9	kot	_	_	_	_	_	_	_	_
+10	smo	_	_	_	_	_	_	_	_
+11	navajeni	_	_	_	_	_	_	_	_
+
+# sent_id = gos.170-0138
+# text = [pause]
+1	[pause]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.141-0344
+# text = samo kasneje verjetno ne
+1	samo	_	_	_	_	_	_	_	_
+2	kasneje	_	_	_	_	_	_	_	_
+3	verjetno	_	_	_	_	_	_	_	_
+4	ne	_	_	_	_	_	_	_	_
+
+# sent_id = gos.199-0326
+# text = eee pa če dijaki želijo jim lahko to pošljeva po elektronski pošti
+1	eee	_	_	_	_	_	_	_	_
+2	pa	_	_	_	_	_	_	_	_
+3	če	_	_	_	_	_	_	_	_
+4	dijaki	_	_	_	_	_	_	_	_
+5	želijo	_	_	_	_	_	_	_	_
+6	jim	_	_	_	_	_	_	_	_
+7	lahko	_	_	_	_	_	_	_	_
+8	to	_	_	_	_	_	_	_	_
+9	pošljeva	_	_	_	_	_	_	_	_
+10	po	_	_	_	_	_	_	_	_
+11	elektronski	_	_	_	_	_	_	_	_
+12	pošti	_	_	_	_	_	_	_	_
+
+# sent_id = gos.231-0062
+# text = eno veterinarko prav
+1	eno	_	_	_	_	_	_	_	_
+2	veterinarko	_	_	_	_	_	_	_	_
+3	prav	_	_	_	_	_	_	_	_
+
+# sent_id = gos.183-0375
+# text = aha z [name:personal] vse uštimamo
+1	aha	_	_	_	_	_	_	_	_
+2	z	_	_	_	_	_	_	_	_
+3	[name:personal]	_	_	_	_	_	_	_	_
+4	vse	_	_	_	_	_	_	_	_
+5	uštimamo	_	_	_	_	_	_	_	_
+
+# sent_id = gos.254-0598
+# text = šestindvajseti prej ne prej
+1	šestindvajseti	_	_	_	_	_	_	_	_
+2	prej	_	_	_	_	_	_	_	_
+3	ne	_	_	_	_	_	_	_	_
+4	prej	_	_	_	_	_	_	_	_
+
+# sent_id = gos.067-0003
+# text = dobro jutro bom rekel sicer je že ma [gap] še malo zgodaj za zjutraj
+1	dobro	_	_	_	_	_	_	_	_
+2	jutro	_	_	_	_	_	_	_	_
+3	bom	_	_	_	_	_	_	_	_
+4	rekel	_	_	_	_	_	_	_	_
+5	sicer	_	_	_	_	_	_	_	_
+6	je	_	_	_	_	_	_	_	_
+7	že	_	_	_	_	_	_	_	_
+8	ma	_	_	_	_	_	_	_	_
+9	[gap]	_	_	_	_	_	_	_	_
+10	še	_	_	_	_	_	_	_	_
+11	malo	_	_	_	_	_	_	_	_
+12	zgodaj	_	_	_	_	_	_	_	_
+13	za	_	_	_	_	_	_	_	_
+14	zjutraj	_	_	_	_	_	_	_	_
+
+# sent_id = gos.014-0647
+# text = eem potem ta voda gre v druge dele rastline pa se p [gap] tudi predela v sladkor s fotosintezo
+1	eem	_	_	_	_	_	_	_	_
+2	potem	_	_	_	_	_	_	_	_
+3	ta	_	_	_	_	_	_	_	_
+4	voda	_	_	_	_	_	_	_	_
+5	gre	_	_	_	_	_	_	_	_
+6	v	_	_	_	_	_	_	_	_
+7	druge	_	_	_	_	_	_	_	_
+8	dele	_	_	_	_	_	_	_	_
+9	rastline	_	_	_	_	_	_	_	_
+10	pa	_	_	_	_	_	_	_	_
+11	se	_	_	_	_	_	_	_	_
+12	p	_	_	_	_	_	_	_	_
+13	[gap]	_	_	_	_	_	_	_	_
+14	tudi	_	_	_	_	_	_	_	_
+15	predela	_	_	_	_	_	_	_	_
+16	v	_	_	_	_	_	_	_	_
+17	sladkor	_	_	_	_	_	_	_	_
+18	s	_	_	_	_	_	_	_	_
+19	fotosintezo	_	_	_	_	_	_	_	_
+
+# sent_id = gos.155-0113
+# text = jah zdaj kakor kateri ne eni imajo dosti
+1	jah	_	_	_	_	_	_	_	_
+2	zdaj	_	_	_	_	_	_	_	_
+3	kakor	_	_	_	_	_	_	_	_
+4	kateri	_	_	_	_	_	_	_	_
+5	ne	_	_	_	_	_	_	_	_
+6	eni	_	_	_	_	_	_	_	_
+7	imajo	_	_	_	_	_	_	_	_
+8	dosti	_	_	_	_	_	_	_	_
+
+# sent_id = gos.252-0361
+# text = da se noben nič ne more tam zmeniti
+1	da	_	_	_	_	_	_	_	_
+2	se	_	_	_	_	_	_	_	_
+3	noben	_	_	_	_	_	_	_	_
+4	nič	_	_	_	_	_	_	_	_
+5	ne	_	_	_	_	_	_	_	_
+6	more	_	_	_	_	_	_	_	_
+7	tam	_	_	_	_	_	_	_	_
+8	zmeniti	_	_	_	_	_	_	_	_
+
+# sent_id = gos.009-0225
+# text = nisem ga iskala ampak sem srečala v tečaj slovenščine na začetku eem sem srečala moj z [gap] zdaj [gap] eee moj
+1	nisem	_	_	_	_	_	_	_	_
+2	ga	_	_	_	_	_	_	_	_
+3	iskala	_	_	_	_	_	_	_	_
+4	ampak	_	_	_	_	_	_	_	_
+5	sem	_	_	_	_	_	_	_	_
+6	srečala	_	_	_	_	_	_	_	_
+7	v	_	_	_	_	_	_	_	_
+8	tečaj	_	_	_	_	_	_	_	_
+9	slovenščine	_	_	_	_	_	_	_	_
+10	na	_	_	_	_	_	_	_	_
+11	začetku	_	_	_	_	_	_	_	_
+12	eem	_	_	_	_	_	_	_	_
+13	sem	_	_	_	_	_	_	_	_
+14	srečala	_	_	_	_	_	_	_	_
+15	moj	_	_	_	_	_	_	_	_
+16	z	_	_	_	_	_	_	_	_
+17	[gap]	_	_	_	_	_	_	_	_
+18	zdaj	_	_	_	_	_	_	_	_
+19	[gap]	_	_	_	_	_	_	_	_
+20	eee	_	_	_	_	_	_	_	_
+21	moj	_	_	_	_	_	_	_	_
+
+# sent_id = gos.041-0151
+# text = množičen morilec ali eee zakrknjen storilec kakšnega hudega kaznivega dejanja ne razmišlja o kazni
+1	množičen	_	_	_	_	_	_	_	_
+2	morilec	_	_	_	_	_	_	_	_
+3	ali	_	_	_	_	_	_	_	_
+4	eee	_	_	_	_	_	_	_	_
+5	zakrknjen	_	_	_	_	_	_	_	_
+6	storilec	_	_	_	_	_	_	_	_
+7	kakšnega	_	_	_	_	_	_	_	_
+8	hudega	_	_	_	_	_	_	_	_
+9	kaznivega	_	_	_	_	_	_	_	_
+10	dejanja	_	_	_	_	_	_	_	_
+11	ne	_	_	_	_	_	_	_	_
+12	razmišlja	_	_	_	_	_	_	_	_
+13	o	_	_	_	_	_	_	_	_
+14	kazni	_	_	_	_	_	_	_	_
+
+# sent_id = gos.286-0380
+# text = ja še ja [audience:laughter]
+1	ja	_	_	_	_	_	_	_	_
+2	še	_	_	_	_	_	_	_	_
+3	ja	_	_	_	_	_	_	_	_
+4	[audience:laughter]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.229-0333
+# text = še celo spočit ker si bil dosti na zraku
+1	še	_	_	_	_	_	_	_	_
+2	celo	_	_	_	_	_	_	_	_
+3	spočit	_	_	_	_	_	_	_	_
+4	ker	_	_	_	_	_	_	_	_
+5	si	_	_	_	_	_	_	_	_
+6	bil	_	_	_	_	_	_	_	_
+7	dosti	_	_	_	_	_	_	_	_
+8	na	_	_	_	_	_	_	_	_
+9	zraku	_	_	_	_	_	_	_	_
+
+# sent_id = gos.219-0079
+# text = tudi ko pri štirje revni veš špila na glavnik pa to
+1	tudi	_	_	_	_	_	_	_	_
+2	ko	_	_	_	_	_	_	_	_
+3	pri	_	_	_	_	_	_	_	_
+4	štirje	_	_	_	_	_	_	_	_
+5	revni	_	_	_	_	_	_	_	_
+6	veš	_	_	_	_	_	_	_	_
+7	špila	_	_	_	_	_	_	_	_
+8	na	_	_	_	_	_	_	_	_
+9	glavnik	_	_	_	_	_	_	_	_
+10	pa	_	_	_	_	_	_	_	_
+11	to	_	_	_	_	_	_	_	_
+
+# sent_id = gos.256-0069
+# text = ni ?
+1	ni	_	_	_	_	_	_	_	_
+2	?	_	_	_	_	_	_	_	_
+
+# sent_id = gos.277-0067
+# text = mene je strah [audience:laughter] ker se snema [all:laughter]
+1	mene	_	_	_	_	_	_	_	_
+2	je	_	_	_	_	_	_	_	_
+3	strah	_	_	_	_	_	_	_	_
+4	[audience:laughter]	_	_	_	_	_	_	_	_
+5	ker	_	_	_	_	_	_	_	_
+6	se	_	_	_	_	_	_	_	_
+7	snema	_	_	_	_	_	_	_	_
+8	[all:laughter]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.274-0030
+# text = no fajn
+1	no	_	_	_	_	_	_	_	_
+2	fajn	_	_	_	_	_	_	_	_
+
+# sent_id = gos.134-0079
+# text = a lahko jaz tako kot kot robi [gap] hahahaha
+1	a	_	_	_	_	_	_	_	_
+2	lahko	_	_	_	_	_	_	_	_
+3	jaz	_	_	_	_	_	_	_	_
+4	tako	_	_	_	_	_	_	_	_
+5	kot	_	_	_	_	_	_	_	_
+6	kot	_	_	_	_	_	_	_	_
+7	robi	_	_	_	_	_	_	_	_
+8	[gap]	_	_	_	_	_	_	_	_
+9	hahahaha	_	_	_	_	_	_	_	_
+
+# sent_id = gos.153-0036
+# text = ja ja pa moraš malo dohajati a ne da [speaker:laughter]
+1	ja	_	_	_	_	_	_	_	_
+2	ja	_	_	_	_	_	_	_	_
+3	pa	_	_	_	_	_	_	_	_
+4	moraš	_	_	_	_	_	_	_	_
+5	malo	_	_	_	_	_	_	_	_
+6	dohajati	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	ne	_	_	_	_	_	_	_	_
+9	da	_	_	_	_	_	_	_	_
+10	[speaker:laughter]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.190-0083
+# text = [gap] bolj zalivate ?
+1	[gap]	_	_	_	_	_	_	_	_
+2	bolj	_	_	_	_	_	_	_	_
+3	zalivate	_	_	_	_	_	_	_	_
+4	?	_	_	_	_	_	_	_	_
+
+# sent_id = gos.238-0161
+# text = š [gap]
+1	š	_	_	_	_	_	_	_	_
+2	[gap]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.270-0188
+# text = pizda ej
+1	pizda	_	_	_	_	_	_	_	_
+2	ej	_	_	_	_	_	_	_	_
+
+# sent_id = gos.120-0007
+# text = [pause]
+1	[pause]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.001-0019
+# text = tale druga vrsta a ne kaže na to kako so tale sedi in ta mu iz ene posode toči pijačo
+1	tale	_	_	_	_	_	_	_	_
+2	druga	_	_	_	_	_	_	_	_
+3	vrsta	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	ne	_	_	_	_	_	_	_	_
+6	kaže	_	_	_	_	_	_	_	_
+7	na	_	_	_	_	_	_	_	_
+8	to	_	_	_	_	_	_	_	_
+9	kako	_	_	_	_	_	_	_	_
+10	so	_	_	_	_	_	_	_	_
+11	tale	_	_	_	_	_	_	_	_
+12	sedi	_	_	_	_	_	_	_	_
+13	in	_	_	_	_	_	_	_	_
+14	ta	_	_	_	_	_	_	_	_
+15	mu	_	_	_	_	_	_	_	_
+16	iz	_	_	_	_	_	_	_	_
+17	ene	_	_	_	_	_	_	_	_
+18	posode	_	_	_	_	_	_	_	_
+19	toči	_	_	_	_	_	_	_	_
+20	pijačo	_	_	_	_	_	_	_	_
+
+# sent_id = gos.061-0418
+# text = se ga oče razveseli ali ne ?
+1	se	_	_	_	_	_	_	_	_
+2	ga	_	_	_	_	_	_	_	_
+3	oče	_	_	_	_	_	_	_	_
+4	razveseli	_	_	_	_	_	_	_	_
+5	ali	_	_	_	_	_	_	_	_
+6	ne	_	_	_	_	_	_	_	_
+7	?	_	_	_	_	_	_	_	_
+
+# sent_id = gos.136-0400
+# text = ne vem ne vem glede na to da ima vsa pooblastila da ga tudi odpusti
+1	ne	_	_	_	_	_	_	_	_
+2	vem	_	_	_	_	_	_	_	_
+3	ne	_	_	_	_	_	_	_	_
+4	vem	_	_	_	_	_	_	_	_
+5	glede	_	_	_	_	_	_	_	_
+6	na	_	_	_	_	_	_	_	_
+7	to	_	_	_	_	_	_	_	_
+8	da	_	_	_	_	_	_	_	_
+9	ima	_	_	_	_	_	_	_	_
+10	vsa	_	_	_	_	_	_	_	_
+11	pooblastila	_	_	_	_	_	_	_	_
+12	da	_	_	_	_	_	_	_	_
+13	ga	_	_	_	_	_	_	_	_
+14	tudi	_	_	_	_	_	_	_	_
+15	odpusti	_	_	_	_	_	_	_	_
+
+# sent_id = gos.260-0232
+# text = mhm
+1	mhm	_	_	_	_	_	_	_	_
+
+# sent_id = gos.153-0031
+# text = mh ja hm
+1	mh	_	_	_	_	_	_	_	_
+2	ja	_	_	_	_	_	_	_	_
+3	hm	_	_	_	_	_	_	_	_
+
+# sent_id = gos.074-0275
+# text = ta strah je očitno implantiral tisti človek ki je pravzaprav tajkune ustvaril ne
+1	ta	_	_	_	_	_	_	_	_
+2	strah	_	_	_	_	_	_	_	_
+3	je	_	_	_	_	_	_	_	_
+4	očitno	_	_	_	_	_	_	_	_
+5	implantiral	_	_	_	_	_	_	_	_
+6	tisti	_	_	_	_	_	_	_	_
+7	človek	_	_	_	_	_	_	_	_
+8	ki	_	_	_	_	_	_	_	_
+9	je	_	_	_	_	_	_	_	_
+10	pravzaprav	_	_	_	_	_	_	_	_
+11	tajkune	_	_	_	_	_	_	_	_
+12	ustvaril	_	_	_	_	_	_	_	_
+13	ne	_	_	_	_	_	_	_	_
+
+# sent_id = gos.176-0777
+# text = [pause]
+1	[pause]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.253-0090
+# text = pa že pride plot standardno [gap] se pet minut meniva kaj bova spila kaj [speaker:laughter] jabolčnik [all:laughter]
+1	pa	_	_	_	_	_	_	_	_
+2	že	_	_	_	_	_	_	_	_
+3	pride	_	_	_	_	_	_	_	_
+4	plot	_	_	_	_	_	_	_	_
+5	standardno	_	_	_	_	_	_	_	_
+6	[gap]	_	_	_	_	_	_	_	_
+7	se	_	_	_	_	_	_	_	_
+8	pet	_	_	_	_	_	_	_	_
+9	minut	_	_	_	_	_	_	_	_
+10	meniva	_	_	_	_	_	_	_	_
+11	kaj	_	_	_	_	_	_	_	_
+12	bova	_	_	_	_	_	_	_	_
+13	spila	_	_	_	_	_	_	_	_
+14	kaj	_	_	_	_	_	_	_	_
+15	[speaker:laughter]	_	_	_	_	_	_	_	_
+16	jabolčnik	_	_	_	_	_	_	_	_
+17	[all:laughter]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.184-0168
+# text = preveč ? kje ?
+1	preveč	_	_	_	_	_	_	_	_
+2	?	_	_	_	_	_	_	_	_
+3	kje	_	_	_	_	_	_	_	_
+4	?	_	_	_	_	_	_	_	_
+
+# sent_id = gos.210-0013
+# text = dajte mi še naslov povedati prosim
+1	dajte	_	_	_	_	_	_	_	_
+2	mi	_	_	_	_	_	_	_	_
+3	še	_	_	_	_	_	_	_	_
+4	naslov	_	_	_	_	_	_	_	_
+5	povedati	_	_	_	_	_	_	_	_
+6	prosim	_	_	_	_	_	_	_	_
+
+# sent_id = gos.031-0109
+# text = lansko leto oziroma za letošnje leto že je to kar nekaj milijonov evrov za oba programa
+1	lansko	_	_	_	_	_	_	_	_
+2	leto	_	_	_	_	_	_	_	_
+3	oziroma	_	_	_	_	_	_	_	_
+4	za	_	_	_	_	_	_	_	_
+5	letošnje	_	_	_	_	_	_	_	_
+6	leto	_	_	_	_	_	_	_	_
+7	že	_	_	_	_	_	_	_	_
+8	je	_	_	_	_	_	_	_	_
+9	to	_	_	_	_	_	_	_	_
+10	kar	_	_	_	_	_	_	_	_
+11	nekaj	_	_	_	_	_	_	_	_
+12	milijonov	_	_	_	_	_	_	_	_
+13	evrov	_	_	_	_	_	_	_	_
+14	za	_	_	_	_	_	_	_	_
+15	oba	_	_	_	_	_	_	_	_
+16	programa	_	_	_	_	_	_	_	_
+
+# sent_id = gos.013-0166
+# text = [gap]
+1	[gap]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.186-0134
+# text = tu sem ti napisal že v uvodnem delu da predlagam recimo ko daš slovenski prevo [gap] eee prevod ne da vseeno mogoče v oklepaju daš še angleško eem dejansko n [gap] na na nek način še enkrat prevedeš nazaj ne
+1	tu	_	_	_	_	_	_	_	_
+2	sem	_	_	_	_	_	_	_	_
+3	ti	_	_	_	_	_	_	_	_
+4	napisal	_	_	_	_	_	_	_	_
+5	že	_	_	_	_	_	_	_	_
+6	v	_	_	_	_	_	_	_	_
+7	uvodnem	_	_	_	_	_	_	_	_
+8	delu	_	_	_	_	_	_	_	_
+9	da	_	_	_	_	_	_	_	_
+10	predlagam	_	_	_	_	_	_	_	_
+11	recimo	_	_	_	_	_	_	_	_
+12	ko	_	_	_	_	_	_	_	_
+13	daš	_	_	_	_	_	_	_	_
+14	slovenski	_	_	_	_	_	_	_	_
+15	prevo	_	_	_	_	_	_	_	_
+16	[gap]	_	_	_	_	_	_	_	_
+17	eee	_	_	_	_	_	_	_	_
+18	prevod	_	_	_	_	_	_	_	_
+19	ne	_	_	_	_	_	_	_	_
+20	da	_	_	_	_	_	_	_	_
+21	vseeno	_	_	_	_	_	_	_	_
+22	mogoče	_	_	_	_	_	_	_	_
+23	v	_	_	_	_	_	_	_	_
+24	oklepaju	_	_	_	_	_	_	_	_
+25	daš	_	_	_	_	_	_	_	_
+26	še	_	_	_	_	_	_	_	_
+27	angleško	_	_	_	_	_	_	_	_
+28	eem	_	_	_	_	_	_	_	_
+29	dejansko	_	_	_	_	_	_	_	_
+30	n	_	_	_	_	_	_	_	_
+31	[gap]	_	_	_	_	_	_	_	_
+32	na	_	_	_	_	_	_	_	_
+33	na	_	_	_	_	_	_	_	_
+34	nek	_	_	_	_	_	_	_	_
+35	način	_	_	_	_	_	_	_	_
+36	še	_	_	_	_	_	_	_	_
+37	enkrat	_	_	_	_	_	_	_	_
+38	prevedeš	_	_	_	_	_	_	_	_
+39	nazaj	_	_	_	_	_	_	_	_
+40	ne	_	_	_	_	_	_	_	_
+
+# sent_id = gos.250-0469
+# text = no [gap]
+1	no	_	_	_	_	_	_	_	_
+2	[gap]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.040-0153
+# text = kjer ne nastopa nobena žival nobena muca nobene miške nobeni zajčki
+1	kjer	_	_	_	_	_	_	_	_
+2	ne	_	_	_	_	_	_	_	_
+3	nastopa	_	_	_	_	_	_	_	_
+4	nobena	_	_	_	_	_	_	_	_
+5	žival	_	_	_	_	_	_	_	_
+6	nobena	_	_	_	_	_	_	_	_
+7	muca	_	_	_	_	_	_	_	_
+8	nobene	_	_	_	_	_	_	_	_
+9	miške	_	_	_	_	_	_	_	_
+10	nobeni	_	_	_	_	_	_	_	_
+11	zajčki	_	_	_	_	_	_	_	_
+
+# sent_id = gos.085-0006
+# text = no imamo še kapacitete na posameznih postajah policijskih ne tako da prostora nam ne zmanjka
+1	no	_	_	_	_	_	_	_	_
+2	imamo	_	_	_	_	_	_	_	_
+3	še	_	_	_	_	_	_	_	_
+4	kapacitete	_	_	_	_	_	_	_	_
+5	na	_	_	_	_	_	_	_	_
+6	posameznih	_	_	_	_	_	_	_	_
+7	postajah	_	_	_	_	_	_	_	_
+8	policijskih	_	_	_	_	_	_	_	_
+9	ne	_	_	_	_	_	_	_	_
+10	tako	_	_	_	_	_	_	_	_
+11	da	_	_	_	_	_	_	_	_
+12	prostora	_	_	_	_	_	_	_	_
+13	nam	_	_	_	_	_	_	_	_
+14	ne	_	_	_	_	_	_	_	_
+15	zmanjka	_	_	_	_	_	_	_	_
+
+# sent_id = gos.182-0183
+# text = [speaker:laughter] a res so mlajši [gap] takrat ko smo bili mi d [gap] stari dvanajst ko smo jih poslušali
+1	[speaker:laughter]	_	_	_	_	_	_	_	_
+2	a	_	_	_	_	_	_	_	_
+3	res	_	_	_	_	_	_	_	_
+4	so	_	_	_	_	_	_	_	_
+5	mlajši	_	_	_	_	_	_	_	_
+6	[gap]	_	_	_	_	_	_	_	_
+7	takrat	_	_	_	_	_	_	_	_
+8	ko	_	_	_	_	_	_	_	_
+9	smo	_	_	_	_	_	_	_	_
+10	bili	_	_	_	_	_	_	_	_
+11	mi	_	_	_	_	_	_	_	_
+12	d	_	_	_	_	_	_	_	_
+13	[gap]	_	_	_	_	_	_	_	_
+14	stari	_	_	_	_	_	_	_	_
+15	dvanajst	_	_	_	_	_	_	_	_
+16	ko	_	_	_	_	_	_	_	_
+17	smo	_	_	_	_	_	_	_	_
+18	jih	_	_	_	_	_	_	_	_
+19	poslušali	_	_	_	_	_	_	_	_
+
+# sent_id = gos.146-0141
+# text = drugače štejejo res je
+1	drugače	_	_	_	_	_	_	_	_
+2	štejejo	_	_	_	_	_	_	_	_
+3	res	_	_	_	_	_	_	_	_
+4	je	_	_	_	_	_	_	_	_
+
+# sent_id = gos.276-0041
+# text = ja ja ja kaj pa … mislim brez veze saj saj
+1	ja	_	_	_	_	_	_	_	_
+2	ja	_	_	_	_	_	_	_	_
+3	ja	_	_	_	_	_	_	_	_
+4	kaj	_	_	_	_	_	_	_	_
+5	pa	_	_	_	_	_	_	_	_
+6	…	_	_	_	_	_	_	_	_
+7	mislim	_	_	_	_	_	_	_	_
+8	brez	_	_	_	_	_	_	_	_
+9	veze	_	_	_	_	_	_	_	_
+10	saj	_	_	_	_	_	_	_	_
+11	saj	_	_	_	_	_	_	_	_
+
+# sent_id = gos.143-0116
+# text = kvinton plošča razirklinga in skladba led
+1	kvinton	_	_	_	_	_	_	_	_
+2	plošča	_	_	_	_	_	_	_	_
+3	razirklinga	_	_	_	_	_	_	_	_
+4	in	_	_	_	_	_	_	_	_
+5	skladba	_	_	_	_	_	_	_	_
+6	led	_	_	_	_	_	_	_	_
+
+# sent_id = gos.122-0041
+# text = ja predvsem gre v prvi vrsti za preventivne ukrepe [:voice] mislim da je lahko zelo preprost primer
+1	ja	_	_	_	_	_	_	_	_
+2	predvsem	_	_	_	_	_	_	_	_
+3	gre	_	_	_	_	_	_	_	_
+4	v	_	_	_	_	_	_	_	_
+5	prvi	_	_	_	_	_	_	_	_
+6	vrsti	_	_	_	_	_	_	_	_
+7	za	_	_	_	_	_	_	_	_
+8	preventivne	_	_	_	_	_	_	_	_
+9	ukrepe	_	_	_	_	_	_	_	_
+10	[:voice]	_	_	_	_	_	_	_	_
+11	mislim	_	_	_	_	_	_	_	_
+12	da	_	_	_	_	_	_	_	_
+13	je	_	_	_	_	_	_	_	_
+14	lahko	_	_	_	_	_	_	_	_
+15	zelo	_	_	_	_	_	_	_	_
+16	preprost	_	_	_	_	_	_	_	_
+17	primer	_	_	_	_	_	_	_	_
+
+# sent_id = gos.054-0156
+# text = še bolj proti levi ne
+1	še	_	_	_	_	_	_	_	_
+2	bolj	_	_	_	_	_	_	_	_
+3	proti	_	_	_	_	_	_	_	_
+4	levi	_	_	_	_	_	_	_	_
+5	ne	_	_	_	_	_	_	_	_
+
+# sent_id = gos.013-0171
+# text = ne
+1	ne	_	_	_	_	_	_	_	_
+
+# sent_id = gos.245-0581
+# text = res
+1	res	_	_	_	_	_	_	_	_
+
+# sent_id = gos.182-0176
+# text = a si videla oni plakat krasen za hazard ?
+1	a	_	_	_	_	_	_	_	_
+2	si	_	_	_	_	_	_	_	_
+3	videla	_	_	_	_	_	_	_	_
+4	oni	_	_	_	_	_	_	_	_
+5	plakat	_	_	_	_	_	_	_	_
+6	krasen	_	_	_	_	_	_	_	_
+7	za	_	_	_	_	_	_	_	_
+8	hazard	_	_	_	_	_	_	_	_
+9	?	_	_	_	_	_	_	_	_
+
+# sent_id = gos.059-0118
+# text = zaspala
+1	zaspala	_	_	_	_	_	_	_	_
+
+# sent_id = gos.282-0261
+# text = kaj te zdaj če pride en oni eee vlomilec ne bo videl vse vse kaj imamo kje
+1	kaj	_	_	_	_	_	_	_	_
+2	te	_	_	_	_	_	_	_	_
+3	zdaj	_	_	_	_	_	_	_	_
+4	če	_	_	_	_	_	_	_	_
+5	pride	_	_	_	_	_	_	_	_
+6	en	_	_	_	_	_	_	_	_
+7	oni	_	_	_	_	_	_	_	_
+8	eee	_	_	_	_	_	_	_	_
+9	vlomilec	_	_	_	_	_	_	_	_
+10	ne	_	_	_	_	_	_	_	_
+11	bo	_	_	_	_	_	_	_	_
+12	videl	_	_	_	_	_	_	_	_
+13	vse	_	_	_	_	_	_	_	_
+14	vse	_	_	_	_	_	_	_	_
+15	kaj	_	_	_	_	_	_	_	_
+16	imamo	_	_	_	_	_	_	_	_
+17	kje	_	_	_	_	_	_	_	_
+
+# sent_id = gos.053-0476
+# text = zato poznamo ion ena plus ion dva plus in ion tri plus
+1	zato	_	_	_	_	_	_	_	_
+2	poznamo	_	_	_	_	_	_	_	_
+3	ion	_	_	_	_	_	_	_	_
+4	ena	_	_	_	_	_	_	_	_
+5	plus	_	_	_	_	_	_	_	_
+6	ion	_	_	_	_	_	_	_	_
+7	dva	_	_	_	_	_	_	_	_
+8	plus	_	_	_	_	_	_	_	_
+9	in	_	_	_	_	_	_	_	_
+10	ion	_	_	_	_	_	_	_	_
+11	tri	_	_	_	_	_	_	_	_
+12	plus	_	_	_	_	_	_	_	_
+
+# sent_id = gos.242-0050
+# text = [all:laughter] saj zdaj si pa kot m [gap] ne vem beavis and butthead
+1	[all:laughter]	_	_	_	_	_	_	_	_
+2	saj	_	_	_	_	_	_	_	_
+3	zdaj	_	_	_	_	_	_	_	_
+4	si	_	_	_	_	_	_	_	_
+5	pa	_	_	_	_	_	_	_	_
+6	kot	_	_	_	_	_	_	_	_
+7	m	_	_	_	_	_	_	_	_
+8	[gap]	_	_	_	_	_	_	_	_
+9	ne	_	_	_	_	_	_	_	_
+10	vem	_	_	_	_	_	_	_	_
+11	beavis	_	_	_	_	_	_	_	_
+12	and	_	_	_	_	_	_	_	_
+13	butthead	_	_	_	_	_	_	_	_
+
+# sent_id = gos.171-0264
+# text = [pause]
+1	[pause]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.253-0096
+# text = tukla je vodo vlijejo na tropine gor pa stisnejo [gap] to je tukla
+1	tukla	_	_	_	_	_	_	_	_
+2	je	_	_	_	_	_	_	_	_
+3	vodo	_	_	_	_	_	_	_	_
+4	vlijejo	_	_	_	_	_	_	_	_
+5	na	_	_	_	_	_	_	_	_
+6	tropine	_	_	_	_	_	_	_	_
+7	gor	_	_	_	_	_	_	_	_
+8	pa	_	_	_	_	_	_	_	_
+9	stisnejo	_	_	_	_	_	_	_	_
+10	[gap]	_	_	_	_	_	_	_	_
+11	to	_	_	_	_	_	_	_	_
+12	je	_	_	_	_	_	_	_	_
+13	tukla	_	_	_	_	_	_	_	_
+
+# sent_id = gos.062-0438
+# text = gospod
+1	gospod	_	_	_	_	_	_	_	_
+
+# sent_id = gos.229-0339
+# text = ja od [gap] zdaj spremenilo se je vse a ne
+1	ja	_	_	_	_	_	_	_	_
+2	od	_	_	_	_	_	_	_	_
+3	[gap]	_	_	_	_	_	_	_	_
+4	zdaj	_	_	_	_	_	_	_	_
+5	spremenilo	_	_	_	_	_	_	_	_
+6	se	_	_	_	_	_	_	_	_
+7	je	_	_	_	_	_	_	_	_
+8	vse	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	ne	_	_	_	_	_	_	_	_
+
+# sent_id = gos.013-0157
+# text = [gap]
+1	[gap]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.225-0344
+# text = tisti ki je žejen bo spil
+1	tisti	_	_	_	_	_	_	_	_
+2	ki	_	_	_	_	_	_	_	_
+3	je	_	_	_	_	_	_	_	_
+4	žejen	_	_	_	_	_	_	_	_
+5	bo	_	_	_	_	_	_	_	_
+6	spil	_	_	_	_	_	_	_	_
+
+# sent_id = gos.017-0286
+# text = aha potem je [name:personal] pravi prijatelj a ne ki ti privošči boljšo oceno no
+1	aha	_	_	_	_	_	_	_	_
+2	potem	_	_	_	_	_	_	_	_
+3	je	_	_	_	_	_	_	_	_
+4	[name:personal]	_	_	_	_	_	_	_	_
+5	pravi	_	_	_	_	_	_	_	_
+6	prijatelj	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	ne	_	_	_	_	_	_	_	_
+9	ki	_	_	_	_	_	_	_	_
+10	ti	_	_	_	_	_	_	_	_
+11	privošči	_	_	_	_	_	_	_	_
+12	boljšo	_	_	_	_	_	_	_	_
+13	oceno	_	_	_	_	_	_	_	_
+14	no	_	_	_	_	_	_	_	_
+
+# sent_id = gos.226-0086
+# text = ja
+1	ja	_	_	_	_	_	_	_	_
+
+# sent_id = gos.219-0095
+# text = ne
+1	ne	_	_	_	_	_	_	_	_
+
+# sent_id = gos.246-0351
+# text = super super
+1	super	_	_	_	_	_	_	_	_
+2	super	_	_	_	_	_	_	_	_
+
+# sent_id = gos.165-0175
+# text = aha … aha [speaker:laughter] joj zdaj mi bo zameril [all:laughter]
+1	aha	_	_	_	_	_	_	_	_
+2	…	_	_	_	_	_	_	_	_
+3	aha	_	_	_	_	_	_	_	_
+4	[speaker:laughter]	_	_	_	_	_	_	_	_
+5	joj	_	_	_	_	_	_	_	_
+6	zdaj	_	_	_	_	_	_	_	_
+7	mi	_	_	_	_	_	_	_	_
+8	bo	_	_	_	_	_	_	_	_
+9	zameril	_	_	_	_	_	_	_	_
+10	[all:laughter]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.216-0241
+# text = je tudi vso j [gap] vse je tudi regulirano temperaturno imate vse o [gap] vse senzorje zgoraj in potem tudi o [gap] potreben izpih zraka tako da vam regulira eee tudi lahko temperaturo tako [gap] tako da vam plamen regulira glede na to koliko rabite energije ne
+1	je	_	_	_	_	_	_	_	_
+2	tudi	_	_	_	_	_	_	_	_
+3	vso	_	_	_	_	_	_	_	_
+4	j	_	_	_	_	_	_	_	_
+5	[gap]	_	_	_	_	_	_	_	_
+6	vse	_	_	_	_	_	_	_	_
+7	je	_	_	_	_	_	_	_	_
+8	tudi	_	_	_	_	_	_	_	_
+9	regulirano	_	_	_	_	_	_	_	_
+10	temperaturno	_	_	_	_	_	_	_	_
+11	imate	_	_	_	_	_	_	_	_
+12	vse	_	_	_	_	_	_	_	_
+13	o	_	_	_	_	_	_	_	_
+14	[gap]	_	_	_	_	_	_	_	_
+15	vse	_	_	_	_	_	_	_	_
+16	senzorje	_	_	_	_	_	_	_	_
+17	zgoraj	_	_	_	_	_	_	_	_
+18	in	_	_	_	_	_	_	_	_
+19	potem	_	_	_	_	_	_	_	_
+20	tudi	_	_	_	_	_	_	_	_
+21	o	_	_	_	_	_	_	_	_
+22	[gap]	_	_	_	_	_	_	_	_
+23	potreben	_	_	_	_	_	_	_	_
+24	izpih	_	_	_	_	_	_	_	_
+25	zraka	_	_	_	_	_	_	_	_
+26	tako	_	_	_	_	_	_	_	_
+27	da	_	_	_	_	_	_	_	_
+28	vam	_	_	_	_	_	_	_	_
+29	regulira	_	_	_	_	_	_	_	_
+30	eee	_	_	_	_	_	_	_	_
+31	tudi	_	_	_	_	_	_	_	_
+32	lahko	_	_	_	_	_	_	_	_
+33	temperaturo	_	_	_	_	_	_	_	_
+34	tako	_	_	_	_	_	_	_	_
+35	[gap]	_	_	_	_	_	_	_	_
+36	tako	_	_	_	_	_	_	_	_
+37	da	_	_	_	_	_	_	_	_
+38	vam	_	_	_	_	_	_	_	_
+39	plamen	_	_	_	_	_	_	_	_
+40	regulira	_	_	_	_	_	_	_	_
+41	glede	_	_	_	_	_	_	_	_
+42	na	_	_	_	_	_	_	_	_
+43	to	_	_	_	_	_	_	_	_
+44	koliko	_	_	_	_	_	_	_	_
+45	rabite	_	_	_	_	_	_	_	_
+46	energije	_	_	_	_	_	_	_	_
+47	ne	_	_	_	_	_	_	_	_
+
+# sent_id = gos.036-0011
+# text = [audience:laughter] [name:personal] [name:surname] je že starejša oseba ki je že pred enim letom vstopila v tretjo fazo življenja se pravi v penzion
+1	[audience:laughter]	_	_	_	_	_	_	_	_
+2	[name:personal]	_	_	_	_	_	_	_	_
+3	[name:surname]	_	_	_	_	_	_	_	_
+4	je	_	_	_	_	_	_	_	_
+5	že	_	_	_	_	_	_	_	_
+6	starejša	_	_	_	_	_	_	_	_
+7	oseba	_	_	_	_	_	_	_	_
+8	ki	_	_	_	_	_	_	_	_
+9	je	_	_	_	_	_	_	_	_
+10	že	_	_	_	_	_	_	_	_
+11	pred	_	_	_	_	_	_	_	_
+12	enim	_	_	_	_	_	_	_	_
+13	letom	_	_	_	_	_	_	_	_
+14	vstopila	_	_	_	_	_	_	_	_
+15	v	_	_	_	_	_	_	_	_
+16	tretjo	_	_	_	_	_	_	_	_
+17	fazo	_	_	_	_	_	_	_	_
+18	življenja	_	_	_	_	_	_	_	_
+19	se	_	_	_	_	_	_	_	_
+20	pravi	_	_	_	_	_	_	_	_
+21	v	_	_	_	_	_	_	_	_
+22	penzion	_	_	_	_	_	_	_	_
+
+# sent_id = gos.236-0371
+# text = pa ne reci [gap] šparala pol
+1	pa	_	_	_	_	_	_	_	_
+2	ne	_	_	_	_	_	_	_	_
+3	reci	_	_	_	_	_	_	_	_
+4	[gap]	_	_	_	_	_	_	_	_
+5	šparala	_	_	_	_	_	_	_	_
+6	pol	_	_	_	_	_	_	_	_
+
+# sent_id = gos.011-0230
+# text = on je samo iskal
+1	on	_	_	_	_	_	_	_	_
+2	je	_	_	_	_	_	_	_	_
+3	samo	_	_	_	_	_	_	_	_
+4	iskal	_	_	_	_	_	_	_	_
+
+# sent_id = gos.176-0767
+# text = [pause]
+1	[pause]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.020-0406
+# text = ne [gap]
+1	ne	_	_	_	_	_	_	_	_
+2	[gap]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.145-0215
+# text = okej [name:personal] vidim da eee si ljubitelj informacij in podatkov
+1	okej	_	_	_	_	_	_	_	_
+2	[name:personal]	_	_	_	_	_	_	_	_
+3	vidim	_	_	_	_	_	_	_	_
+4	da	_	_	_	_	_	_	_	_
+5	eee	_	_	_	_	_	_	_	_
+6	si	_	_	_	_	_	_	_	_
+7	ljubitelj	_	_	_	_	_	_	_	_
+8	informacij	_	_	_	_	_	_	_	_
+9	in	_	_	_	_	_	_	_	_
+10	podatkov	_	_	_	_	_	_	_	_
+
+# sent_id = gos.055-0415
+# text = prikazovalno
+1	prikazovalno	_	_	_	_	_	_	_	_
+
+# sent_id = gos.145-0233
+# text = ne
+1	ne	_	_	_	_	_	_	_	_
+
+# sent_id = gos.063-0550
+# text = kdaj pa pride sem logična enka če sklenem tole stikalo iz zadnjega izhoda ?
+1	kdaj	_	_	_	_	_	_	_	_
+2	pa	_	_	_	_	_	_	_	_
+3	pride	_	_	_	_	_	_	_	_
+4	sem	_	_	_	_	_	_	_	_
+5	logična	_	_	_	_	_	_	_	_
+6	enka	_	_	_	_	_	_	_	_
+7	če	_	_	_	_	_	_	_	_
+8	sklenem	_	_	_	_	_	_	_	_
+9	tole	_	_	_	_	_	_	_	_
+10	stikalo	_	_	_	_	_	_	_	_
+11	iz	_	_	_	_	_	_	_	_
+12	zadnjega	_	_	_	_	_	_	_	_
+13	izhoda	_	_	_	_	_	_	_	_
+14	?	_	_	_	_	_	_	_	_
+
+# sent_id = gos.176-0776
+# text = [gap]
+1	[gap]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.142-0167
+# text = eee a jo povem lahko ?
+1	eee	_	_	_	_	_	_	_	_
+2	a	_	_	_	_	_	_	_	_
+3	jo	_	_	_	_	_	_	_	_
+4	povem	_	_	_	_	_	_	_	_
+5	lahko	_	_	_	_	_	_	_	_
+6	?	_	_	_	_	_	_	_	_
+
+# sent_id = gos.191-0426
+# text = dva … štiri
+1	dva	_	_	_	_	_	_	_	_
+2	…	_	_	_	_	_	_	_	_
+3	štiri	_	_	_	_	_	_	_	_
+
+# sent_id = gos.022-0130
+# text = [pause]
+1	[pause]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.191-0438
+# text = tako
+1	tako	_	_	_	_	_	_	_	_
+
+# sent_id = gos.164-0550
+# text = eee
+1	eee	_	_	_	_	_	_	_	_
+
+# sent_id = gos.152-0139
+# text = mogoče … ja ja … ja
+1	mogoče	_	_	_	_	_	_	_	_
+2	…	_	_	_	_	_	_	_	_
+3	ja	_	_	_	_	_	_	_	_
+4	ja	_	_	_	_	_	_	_	_
+5	…	_	_	_	_	_	_	_	_
+6	ja	_	_	_	_	_	_	_	_
+
+# sent_id = gos.162-0497
+# text = ne ne ne
+1	ne	_	_	_	_	_	_	_	_
+2	ne	_	_	_	_	_	_	_	_
+3	ne	_	_	_	_	_	_	_	_
+
+# sent_id = gos.218-0574
+# text = tale malbuch je pa fajn ta
+1	tale	_	_	_	_	_	_	_	_
+2	malbuch	_	_	_	_	_	_	_	_
+3	je	_	_	_	_	_	_	_	_
+4	pa	_	_	_	_	_	_	_	_
+5	fajn	_	_	_	_	_	_	_	_
+6	ta	_	_	_	_	_	_	_	_
+
+# sent_id = gos.244-0401
+# text = ja klinc zdaj sem pa v tam v [gap]
+1	ja	_	_	_	_	_	_	_	_
+2	klinc	_	_	_	_	_	_	_	_
+3	zdaj	_	_	_	_	_	_	_	_
+4	sem	_	_	_	_	_	_	_	_
+5	pa	_	_	_	_	_	_	_	_
+6	v	_	_	_	_	_	_	_	_
+7	tam	_	_	_	_	_	_	_	_
+8	v	_	_	_	_	_	_	_	_
+9	[gap]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.006-0122
+# text = [pause]
+1	[pause]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.162-0504
+# text = saj veš dobro
+1	saj	_	_	_	_	_	_	_	_
+2	veš	_	_	_	_	_	_	_	_
+3	dobro	_	_	_	_	_	_	_	_
+
+# sent_id = gos.245-0569
+# text = [all:laughter] džingli so res za popizditi hudi
+1	[all:laughter]	_	_	_	_	_	_	_	_
+2	džingli	_	_	_	_	_	_	_	_
+3	so	_	_	_	_	_	_	_	_
+4	res	_	_	_	_	_	_	_	_
+5	za	_	_	_	_	_	_	_	_
+6	popizditi	_	_	_	_	_	_	_	_
+7	hudi	_	_	_	_	_	_	_	_
+
+# sent_id = gos.245-0568
+# text = če ne drugega imajo hude džingle no
+1	če	_	_	_	_	_	_	_	_
+2	ne	_	_	_	_	_	_	_	_
+3	drugega	_	_	_	_	_	_	_	_
+4	imajo	_	_	_	_	_	_	_	_
+5	hude	_	_	_	_	_	_	_	_
+6	džingle	_	_	_	_	_	_	_	_
+7	no	_	_	_	_	_	_	_	_
+
+# sent_id = gos.212-0020
+# text = [name:address] ulica devet
+1	[name:address]	_	_	_	_	_	_	_	_
+2	ulica	_	_	_	_	_	_	_	_
+3	devet	_	_	_	_	_	_	_	_
+
+# sent_id = gos.178-0174
+# text = a ne ne ne to da da ti prideš tja pa zac [gap] [gap] kompliciraš tako ja
+1	a	_	_	_	_	_	_	_	_
+2	ne	_	_	_	_	_	_	_	_
+3	ne	_	_	_	_	_	_	_	_
+4	ne	_	_	_	_	_	_	_	_
+5	to	_	_	_	_	_	_	_	_
+6	da	_	_	_	_	_	_	_	_
+7	da	_	_	_	_	_	_	_	_
+8	ti	_	_	_	_	_	_	_	_
+9	prideš	_	_	_	_	_	_	_	_
+10	tja	_	_	_	_	_	_	_	_
+11	pa	_	_	_	_	_	_	_	_
+12	zac	_	_	_	_	_	_	_	_
+13	[gap]	_	_	_	_	_	_	_	_
+14	[gap]	_	_	_	_	_	_	_	_
+15	kompliciraš	_	_	_	_	_	_	_	_
+16	tako	_	_	_	_	_	_	_	_
+17	ja	_	_	_	_	_	_	_	_
+
+# sent_id = gos.281-0271
+# text = pol sem pol sem pa dojel kaj je bila poanta
+1	pol	_	_	_	_	_	_	_	_
+2	sem	_	_	_	_	_	_	_	_
+3	pol	_	_	_	_	_	_	_	_
+4	sem	_	_	_	_	_	_	_	_
+5	pa	_	_	_	_	_	_	_	_
+6	dojel	_	_	_	_	_	_	_	_
+7	kaj	_	_	_	_	_	_	_	_
+8	je	_	_	_	_	_	_	_	_
+9	bila	_	_	_	_	_	_	_	_
+10	poanta	_	_	_	_	_	_	_	_
+
+# sent_id = gos.146-0147
+# text = no to je za nas raziskal [name:personal] [name:surname]
+1	no	_	_	_	_	_	_	_	_
+2	to	_	_	_	_	_	_	_	_
+3	je	_	_	_	_	_	_	_	_
+4	za	_	_	_	_	_	_	_	_
+5	nas	_	_	_	_	_	_	_	_
+6	raziskal	_	_	_	_	_	_	_	_
+7	[name:personal]	_	_	_	_	_	_	_	_
+8	[name:surname]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.185-0165
+# text = [all:laughter] ja
+1	[all:laughter]	_	_	_	_	_	_	_	_
+2	ja	_	_	_	_	_	_	_	_
+
+# sent_id = gos.233-0360
+# text = je g [gap] ta je grozna
+1	je	_	_	_	_	_	_	_	_
+2	g	_	_	_	_	_	_	_	_
+3	[gap]	_	_	_	_	_	_	_	_
+4	ta	_	_	_	_	_	_	_	_
+5	je	_	_	_	_	_	_	_	_
+6	grozna	_	_	_	_	_	_	_	_
+
+# sent_id = gos.277-0069
+# text = [gap] ni me strah ej a [name:personal] je bil ?
+1	[gap]	_	_	_	_	_	_	_	_
+2	ni	_	_	_	_	_	_	_	_
+3	me	_	_	_	_	_	_	_	_
+4	strah	_	_	_	_	_	_	_	_
+5	ej	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	[name:personal]	_	_	_	_	_	_	_	_
+8	je	_	_	_	_	_	_	_	_
+9	bil	_	_	_	_	_	_	_	_
+10	?	_	_	_	_	_	_	_	_
+
+# sent_id = gos.221-0118
+# text = ali pa ista mmm zadeva je dol če greš med parmo in la spezio
+1	ali	_	_	_	_	_	_	_	_
+2	pa	_	_	_	_	_	_	_	_
+3	ista	_	_	_	_	_	_	_	_
+4	mmm	_	_	_	_	_	_	_	_
+5	zadeva	_	_	_	_	_	_	_	_
+6	je	_	_	_	_	_	_	_	_
+7	dol	_	_	_	_	_	_	_	_
+8	če	_	_	_	_	_	_	_	_
+9	greš	_	_	_	_	_	_	_	_
+10	med	_	_	_	_	_	_	_	_
+11	parmo	_	_	_	_	_	_	_	_
+12	in	_	_	_	_	_	_	_	_
+13	la	_	_	_	_	_	_	_	_
+14	spezio	_	_	_	_	_	_	_	_
+
+# sent_id = gos.158-0120
+# text = tvoj obražček bo šel tule skozi
+1	tvoj	_	_	_	_	_	_	_	_
+2	obražček	_	_	_	_	_	_	_	_
+3	bo	_	_	_	_	_	_	_	_
+4	šel	_	_	_	_	_	_	_	_
+5	tule	_	_	_	_	_	_	_	_
+6	skozi	_	_	_	_	_	_	_	_
+
+# sent_id = gos.159-0581
+# text = po [gap] povsod so fe [gap] fernki
+1	po	_	_	_	_	_	_	_	_
+2	[gap]	_	_	_	_	_	_	_	_
+3	povsod	_	_	_	_	_	_	_	_
+4	so	_	_	_	_	_	_	_	_
+5	fe	_	_	_	_	_	_	_	_
+6	[gap]	_	_	_	_	_	_	_	_
+7	fernki	_	_	_	_	_	_	_	_
+
+# sent_id = gos.008-0063
+# text = oceni katera verjetnost je pri posamezni povezavi teh eee besed pravzaprav največja
+1	oceni	_	_	_	_	_	_	_	_
+2	katera	_	_	_	_	_	_	_	_
+3	verjetnost	_	_	_	_	_	_	_	_
+4	je	_	_	_	_	_	_	_	_
+5	pri	_	_	_	_	_	_	_	_
+6	posamezni	_	_	_	_	_	_	_	_
+7	povezavi	_	_	_	_	_	_	_	_
+8	teh	_	_	_	_	_	_	_	_
+9	eee	_	_	_	_	_	_	_	_
+10	besed	_	_	_	_	_	_	_	_
+11	pravzaprav	_	_	_	_	_	_	_	_
+12	največja	_	_	_	_	_	_	_	_
+
+# sent_id = gos.199-0324
+# text = mhm
+1	mhm	_	_	_	_	_	_	_	_
+
+# sent_id = gos.250-0463
+# text = mmm čakaj
+1	mmm	_	_	_	_	_	_	_	_
+2	čakaj	_	_	_	_	_	_	_	_
+
+# sent_id = gos.170-0139
+# text = tu david healy in nigel worthington menedžer oziroma selektor reprezentance
+1	tu	_	_	_	_	_	_	_	_
+2	david	_	_	_	_	_	_	_	_
+3	healy	_	_	_	_	_	_	_	_
+4	in	_	_	_	_	_	_	_	_
+5	nigel	_	_	_	_	_	_	_	_
+6	worthington	_	_	_	_	_	_	_	_
+7	menedžer	_	_	_	_	_	_	_	_
+8	oziroma	_	_	_	_	_	_	_	_
+9	selektor	_	_	_	_	_	_	_	_
+10	reprezentance	_	_	_	_	_	_	_	_
+
+# sent_id = gos.145-0234
+# text = najprej sta bila za glavno vlogo predvidena hugh jackman in mark wahlberg drži ali ne drži ?
+1	najprej	_	_	_	_	_	_	_	_
+2	sta	_	_	_	_	_	_	_	_
+3	bila	_	_	_	_	_	_	_	_
+4	za	_	_	_	_	_	_	_	_
+5	glavno	_	_	_	_	_	_	_	_
+6	vlogo	_	_	_	_	_	_	_	_
+7	predvidena	_	_	_	_	_	_	_	_
+8	hugh	_	_	_	_	_	_	_	_
+9	jackman	_	_	_	_	_	_	_	_
+10	in	_	_	_	_	_	_	_	_
+11	mark	_	_	_	_	_	_	_	_
+12	wahlberg	_	_	_	_	_	_	_	_
+13	drži	_	_	_	_	_	_	_	_
+14	ali	_	_	_	_	_	_	_	_
+15	ne	_	_	_	_	_	_	_	_
+16	drži	_	_	_	_	_	_	_	_
+17	?	_	_	_	_	_	_	_	_
+
+# sent_id = gos.031-0107
+# text = mislim da je to velik problem
+1	mislim	_	_	_	_	_	_	_	_
+2	da	_	_	_	_	_	_	_	_
+3	je	_	_	_	_	_	_	_	_
+4	to	_	_	_	_	_	_	_	_
+5	velik	_	_	_	_	_	_	_	_
+6	problem	_	_	_	_	_	_	_	_
+
+# sent_id = gos.182-0180
+# text = [:voice]
+1	[:voice]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.136-0392
+# text = z zvezdniki
+1	z	_	_	_	_	_	_	_	_
+2	zvezdniki	_	_	_	_	_	_	_	_
+
+# sent_id = gos.273-0089
+# text = ful je bilo vroče mislim krakow je ful lep šla sva čisto na slepo
+1	ful	_	_	_	_	_	_	_	_
+2	je	_	_	_	_	_	_	_	_
+3	bilo	_	_	_	_	_	_	_	_
+4	vroče	_	_	_	_	_	_	_	_
+5	mislim	_	_	_	_	_	_	_	_
+6	krakow	_	_	_	_	_	_	_	_
+7	je	_	_	_	_	_	_	_	_
+8	ful	_	_	_	_	_	_	_	_
+9	lep	_	_	_	_	_	_	_	_
+10	šla	_	_	_	_	_	_	_	_
+11	sva	_	_	_	_	_	_	_	_
+12	čisto	_	_	_	_	_	_	_	_
+13	na	_	_	_	_	_	_	_	_
+14	slepo	_	_	_	_	_	_	_	_
+
+# sent_id = gos.225-0367
+# text = [gap] iščem pa [gap] ne te najdem [audience:laughter]
+1	[gap]	_	_	_	_	_	_	_	_
+2	iščem	_	_	_	_	_	_	_	_
+3	pa	_	_	_	_	_	_	_	_
+4	[gap]	_	_	_	_	_	_	_	_
+5	ne	_	_	_	_	_	_	_	_
+6	te	_	_	_	_	_	_	_	_
+7	najdem	_	_	_	_	_	_	_	_
+8	[audience:laughter]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.229-0335
+# text = ja
+1	ja	_	_	_	_	_	_	_	_
+
+# sent_id = gos.056-0469
+# text = [pause]
+1	[pause]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.074-0281
+# text = ampak tisto kar
+1	ampak	_	_	_	_	_	_	_	_
+2	tisto	_	_	_	_	_	_	_	_
+3	kar	_	_	_	_	_	_	_	_
+
+# sent_id = gos.280-0022
+# text = kdo te je pa peljal ?
+1	kdo	_	_	_	_	_	_	_	_
+2	te	_	_	_	_	_	_	_	_
+3	je	_	_	_	_	_	_	_	_
+4	pa	_	_	_	_	_	_	_	_
+5	peljal	_	_	_	_	_	_	_	_
+6	?	_	_	_	_	_	_	_	_
+
+# sent_id = gos.053-0454
+# text = torej ioni nastajajo iz atomov
+1	torej	_	_	_	_	_	_	_	_
+2	ioni	_	_	_	_	_	_	_	_
+3	nastajajo	_	_	_	_	_	_	_	_
+4	iz	_	_	_	_	_	_	_	_
+5	atomov	_	_	_	_	_	_	_	_
+
+# sent_id = gos.262-0114
+# text = ja
+1	ja	_	_	_	_	_	_	_	_
+
+# sent_id = gos.145-0229
+# text = ne
+1	ne	_	_	_	_	_	_	_	_
+
+# sent_id = gos.202-0069
+# text = videoteka ?
+1	videoteka	_	_	_	_	_	_	_	_
+2	?	_	_	_	_	_	_	_	_
+
+# sent_id = gos.166-0151
+# text = jaz sem bil vso življenje kar malce iznajdljiv ne
+1	jaz	_	_	_	_	_	_	_	_
+2	sem	_	_	_	_	_	_	_	_
+3	bil	_	_	_	_	_	_	_	_
+4	vso	_	_	_	_	_	_	_	_
+5	življenje	_	_	_	_	_	_	_	_
+6	kar	_	_	_	_	_	_	_	_
+7	malce	_	_	_	_	_	_	_	_
+8	iznajdljiv	_	_	_	_	_	_	_	_
+9	ne	_	_	_	_	_	_	_	_
+
+# sent_id = gos.046-0008
+# text = eee
+1	eee	_	_	_	_	_	_	_	_
+
+# sent_id = gos.238-0163
+# text = je že moglo biti
+1	je	_	_	_	_	_	_	_	_
+2	že	_	_	_	_	_	_	_	_
+3	moglo	_	_	_	_	_	_	_	_
+4	biti	_	_	_	_	_	_	_	_
+
+# sent_id = gos.223-0355
+# text = ki je bila tam nekaj pri [name:personal] ali nekaj takega ma para da je ona
+1	ki	_	_	_	_	_	_	_	_
+2	je	_	_	_	_	_	_	_	_
+3	bila	_	_	_	_	_	_	_	_
+4	tam	_	_	_	_	_	_	_	_
+5	nekaj	_	_	_	_	_	_	_	_
+6	pri	_	_	_	_	_	_	_	_
+7	[name:personal]	_	_	_	_	_	_	_	_
+8	ali	_	_	_	_	_	_	_	_
+9	nekaj	_	_	_	_	_	_	_	_
+10	takega	_	_	_	_	_	_	_	_
+11	ma	_	_	_	_	_	_	_	_
+12	para	_	_	_	_	_	_	_	_
+13	da	_	_	_	_	_	_	_	_
+14	je	_	_	_	_	_	_	_	_
+15	ona	_	_	_	_	_	_	_	_
+
+# sent_id = gos.239-0017
+# text = aha aha aha aha aha aha a [gap] … eee ba [gap] babure ja … ja ki jo jaz poznam tako rekoč dedca poznam
+1	aha	_	_	_	_	_	_	_	_
+2	aha	_	_	_	_	_	_	_	_
+3	aha	_	_	_	_	_	_	_	_
+4	aha	_	_	_	_	_	_	_	_
+5	aha	_	_	_	_	_	_	_	_
+6	aha	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	[gap]	_	_	_	_	_	_	_	_
+9	…	_	_	_	_	_	_	_	_
+10	eee	_	_	_	_	_	_	_	_
+11	ba	_	_	_	_	_	_	_	_
+12	[gap]	_	_	_	_	_	_	_	_
+13	babure	_	_	_	_	_	_	_	_
+14	ja	_	_	_	_	_	_	_	_
+15	…	_	_	_	_	_	_	_	_
+16	ja	_	_	_	_	_	_	_	_
+17	ki	_	_	_	_	_	_	_	_
+18	jo	_	_	_	_	_	_	_	_
+19	jaz	_	_	_	_	_	_	_	_
+20	poznam	_	_	_	_	_	_	_	_
+21	tako	_	_	_	_	_	_	_	_
+22	rekoč	_	_	_	_	_	_	_	_
+23	dedca	_	_	_	_	_	_	_	_
+24	poznam	_	_	_	_	_	_	_	_
+
+# sent_id = gos.240-0091
+# text = aha petdeset
+1	aha	_	_	_	_	_	_	_	_
+2	petdeset	_	_	_	_	_	_	_	_
+
+# sent_id = gos.198-0232
+# text = te te so v glavnem za okras te se ne prodajajo
+1	te	_	_	_	_	_	_	_	_
+2	te	_	_	_	_	_	_	_	_
+3	so	_	_	_	_	_	_	_	_
+4	v	_	_	_	_	_	_	_	_
+5	glavnem	_	_	_	_	_	_	_	_
+6	za	_	_	_	_	_	_	_	_
+7	okras	_	_	_	_	_	_	_	_
+8	te	_	_	_	_	_	_	_	_
+9	se	_	_	_	_	_	_	_	_
+10	ne	_	_	_	_	_	_	_	_
+11	prodajajo	_	_	_	_	_	_	_	_
+
+# sent_id = gos.199-0320
+# text = eem dobro bi bilo eee še tudi ostale stvari i [gap] da poveva ali zapiševa velikost pisave
+1	eem	_	_	_	_	_	_	_	_
+2	dobro	_	_	_	_	_	_	_	_
+3	bi	_	_	_	_	_	_	_	_
+4	bilo	_	_	_	_	_	_	_	_
+5	eee	_	_	_	_	_	_	_	_
+6	še	_	_	_	_	_	_	_	_
+7	tudi	_	_	_	_	_	_	_	_
+8	ostale	_	_	_	_	_	_	_	_
+9	stvari	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	[gap]	_	_	_	_	_	_	_	_
+12	da	_	_	_	_	_	_	_	_
+13	poveva	_	_	_	_	_	_	_	_
+14	ali	_	_	_	_	_	_	_	_
+15	zapiševa	_	_	_	_	_	_	_	_
+16	velikost	_	_	_	_	_	_	_	_
+17	pisave	_	_	_	_	_	_	_	_
+
+# sent_id = gos.055-0414
+# text = prikazovalno
+1	prikazovalno	_	_	_	_	_	_	_	_
+
+# sent_id = gos.145-0220
+# text = tako da pazi
+1	tako	_	_	_	_	_	_	_	_
+2	da	_	_	_	_	_	_	_	_
+3	pazi	_	_	_	_	_	_	_	_
+
+# sent_id = gos.168-0197
+# text = [pause]
+1	[pause]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.072-0227
+# text = kar se tiče mure bil sem v tej tovarni eee nekajkrat v zadnjih letih nazadnje pred dvanajstimi dnevi
+1	kar	_	_	_	_	_	_	_	_
+2	se	_	_	_	_	_	_	_	_
+3	tiče	_	_	_	_	_	_	_	_
+4	mure	_	_	_	_	_	_	_	_
+5	bil	_	_	_	_	_	_	_	_
+6	sem	_	_	_	_	_	_	_	_
+7	v	_	_	_	_	_	_	_	_
+8	tej	_	_	_	_	_	_	_	_
+9	tovarni	_	_	_	_	_	_	_	_
+10	eee	_	_	_	_	_	_	_	_
+11	nekajkrat	_	_	_	_	_	_	_	_
+12	v	_	_	_	_	_	_	_	_
+13	zadnjih	_	_	_	_	_	_	_	_
+14	letih	_	_	_	_	_	_	_	_
+15	nazadnje	_	_	_	_	_	_	_	_
+16	pred	_	_	_	_	_	_	_	_
+17	dvanajstimi	_	_	_	_	_	_	_	_
+18	dnevi	_	_	_	_	_	_	_	_
+
+# sent_id = gos.280-0017
+# text = [name:personal] pri vratih stoji moraš iti dol zato ker dol pečemo
+1	[name:personal]	_	_	_	_	_	_	_	_
+2	pri	_	_	_	_	_	_	_	_
+3	vratih	_	_	_	_	_	_	_	_
+4	stoji	_	_	_	_	_	_	_	_
+5	moraš	_	_	_	_	_	_	_	_
+6	iti	_	_	_	_	_	_	_	_
+7	dol	_	_	_	_	_	_	_	_
+8	zato	_	_	_	_	_	_	_	_
+9	ker	_	_	_	_	_	_	_	_
+10	dol	_	_	_	_	_	_	_	_
+11	pečemo	_	_	_	_	_	_	_	_
+
+# sent_id = gos.137-0573
+# text = ja … tako
+1	ja	_	_	_	_	_	_	_	_
+2	…	_	_	_	_	_	_	_	_
+3	tako	_	_	_	_	_	_	_	_
+
+# sent_id = gos.165-0186
+# text = no ne me vprašati kako sem se uvajala v vsa ta dela
+1	no	_	_	_	_	_	_	_	_
+2	ne	_	_	_	_	_	_	_	_
+3	me	_	_	_	_	_	_	_	_
+4	vprašati	_	_	_	_	_	_	_	_
+5	kako	_	_	_	_	_	_	_	_
+6	sem	_	_	_	_	_	_	_	_
+7	se	_	_	_	_	_	_	_	_
+8	uvajala	_	_	_	_	_	_	_	_
+9	v	_	_	_	_	_	_	_	_
+10	vsa	_	_	_	_	_	_	_	_
+11	ta	_	_	_	_	_	_	_	_
+12	dela	_	_	_	_	_	_	_	_
+
+# sent_id = gos.176-0778
+# text = relativno pozno
+1	relativno	_	_	_	_	_	_	_	_
+2	pozno	_	_	_	_	_	_	_	_
+
+# sent_id = gos.030-0026
+# text = skratka to bo danes na sredi
+1	skratka	_	_	_	_	_	_	_	_
+2	to	_	_	_	_	_	_	_	_
+3	bo	_	_	_	_	_	_	_	_
+4	danes	_	_	_	_	_	_	_	_
+5	na	_	_	_	_	_	_	_	_
+6	sredi	_	_	_	_	_	_	_	_
+
+# sent_id = gos.058-0313
+# text = [:voice] [gap]
+1	[:voice]	_	_	_	_	_	_	_	_
+2	[gap]	_	_	_	_	_	_	_	_
+
+# sent_id = gos.205-0068
+# text = rada našla ne vem ali … tako da nekje pristanemo in imamo žur no na ne vem ali
+1	rada	_	_	_	_	_	_	_	_
+2	našla	_	_	_	_	_	_	_	_
+3	ne	_	_	_	_	_	_	_	_
+4	vem	_	_	_	_	_	_	_	_
+5	ali	_	_	_	_	_	_	_	_
+6	…	_	_	_	_	_	_	_	_
+7	tako	_	_	_	_	_	_	_	_
+8	da	_	_	_	_	_	_	_	_
+9	nekje	_	_	_	_	_	_	_	_
+10	pristanemo	_	_	_	_	_	_	_	_
+11	in	_	_	_	_	_	_	_	_
+12	imamo	_	_	_	_	_	_	_	_
+13	žur	_	_	_	_	_	_	_	_
+14	no	_	_	_	_	_	_	_	_
+15	na	_	_	_	_	_	_	_	_
+16	ne	_	_	_	_	_	_	_	_
+17	vem	_	_	_	_	_	_	_	_
+18	ali	_	_	_	_	_	_	_	_
+
+# sent_id = gos.061-0413
+# text = ja
+1	ja	_	_	_	_	_	_	_	_
+
+# sent_id = gos.144-0303
+# text = bolj seksi pa tako naprej ne
+1	bolj	_	_	_	_	_	_	_	_
+2	seksi	_	_	_	_	_	_	_	_
+3	pa	_	_	_	_	_	_	_	_
+4	tako	_	_	_	_	_	_	_	_
+5	naprej	_	_	_	_	_	_	_	_
+6	ne	_	_	_	_	_	_	_	_
+
