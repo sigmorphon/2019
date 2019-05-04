@@ -1,0 +1,695 @@
+# newpar id = 129
+# sent_id = 129
+# text = Žinoma, tai tinkamiausias būdas: todėl visą savo sąmoningą gyvenimą pasisakydavau ir dabar pasisakau už nepriklausomą Lietuvą.
+1	Žinoma	žinoti	_	_	INDF;NEUT;POS;PRS;PASS;V.PTCP;V	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	tai	tai	_	_	PRO	_	_	_	_
+4	tinkamiausias	tinkamas	_	_	ADJ;INDF;NOM;MASC;SG;RL	_	_	_	_
+5	būdas	būdas	_	_	NOM;MASC;SG;N	_	_	_	_
+6	:	:	_	_	_	_	_	_	_
+7	todėl	todėl	_	_	ADV	_	_	_	_
+8	visą	visas	_	_	MASC;SG;DET;ACC	_	_	_	_
+9	savo	savo	_	_	DET	_	_	_	_
+10	sąmoningą	sąmoningas	_	_	ADJ;INDF;MASC;SG;ACC	_	_	_	_
+11	gyvenimą	gyvenimas	_	_	MASC;SG;N;ACC	_	_	_	_
+12	pasisakydavau	pasisakyti	_	_	SG;ACT;POS;REFL;IND;FIN;1;V	_	_	_	_
+13	ir	ir	_	_	CONJ	_	_	_	_
+14	dabar	dabar	_	_	ADV	_	_	_	_
+15	pasisakau	pasisakyti	_	_	SG;ACT;POS;PRS;IND;FIN;1;V	_	_	_	_
+16	už	už	_	_	ADP	_	_	_	_
+17	nepriklausomą	nepriklausyti	_	_	INDF;MASC;SG;ACC;PRS;PASS;NEG;V.PTCP;V	_	_	_	_
+18	Lietuvą	Lietuva	_	_	SG;PROPN;FEM;ACC	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# newpar id = lt-ru-5-p9
+# sent_id = lt-ru-5-p9-18
+# text = Sovietiniais laikais „Vilmoje“ dirbęs dabartinis socialdemokratų partijos politikas Algirdas Sysas pasakojo žinojęs, jog kituose skyriuose gaminami prietaisai ir lėktuvams, ir kitai karinei technikai.
+1	Sovietiniais	sovietinis	_	_	MASC;INDF;ADJ;PL;INS	_	_	_	_
+2	laikais	laikas	_	_	PL;MASC;N;INS	_	_	_	_
+3	„	„	_	_	_	_	_	_	_
+4	Vilmoje	Vilma	_	_	FEM;PROPN;ESS;SG	_	_	_	_
+5	“	“	_	_	_	_	_	_	_
+6	dirbęs	dirbti	_	_	ACT;MASC;V.PTCP;NOM;INDF;POS;V;SG	_	_	_	_
+7	dabartinis	dabartinis	_	_	MASC;NOM;INDF;ADJ;SG	_	_	_	_
+8	socialdemokratų	socialdemokratas	_	_	PL;MASC;N;GEN	_	_	_	_
+9	partijos	partija	_	_	FEM;N;SG;GEN	_	_	_	_
+10	politikas	politikas	_	_	MASC;N;SG;NOM	_	_	_	_
+11	Algirdas	Algirdas	_	_	MASC;PROPN;SG;NOM	_	_	_	_
+12	Sysas	Sysas	_	_	MASC;PROPN;SG;NOM	_	_	_	_
+13	pasakojo	pasakoti	_	_	FIN;PST;ACT;IND;3;POS;V;SG	_	_	_	_
+14	žinojęs	žinoti	_	_	ACT;MASC;V.PTCP;NOM;INDF;POS;V;SG	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	jog	jog	_	_	CONJ	_	_	_	_
+17	kituose	kitas	_	_	MASC;INDF;ESS;ADJ;PL	_	_	_	_
+18	skyriuose	skyrius	_	_	PL;MASC;N;NOM	_	_	_	_
+19	gaminami	gaminti	_	_	ACT;MASC;V.PTCP;NOM;INDF;POS;V;PL;PRS	_	_	_	_
+20	prietaisai	prietaisas	_	_	PL;MASC;N;NOM	_	_	_	_
+21	ir	ir	_	_	CONJ	_	_	_	_
+22	lėktuvams	lėktuvas	_	_	PL;MASC;DAT;N	_	_	_	_
+23	,	,	_	_	_	_	_	_	_
+24	ir	ir	_	_	CONJ	_	_	_	_
+25	kitai	kitas	_	_	DAT;FEM;INDF;ADJ;SG	_	_	_	_
+26	karinei	karinas	_	_	DAT;FEM;INDF;ADJ;SG	_	_	_	_
+27	technikai	technikas	_	_	PL;MASC;N;NOM	_	_	_	_
+28	.	.	_	_	_	_	_	_	_
+
+# newpar id = 157
+# sent_id = 157
+# text = Dabar, ko gero, daug sunkiau užgesinti priešiškumą, negu anuomet.
+1	Dabar	dabar	_	_	ADV	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	ko	ko	_	_	PART	_	_	_	_
+4	gero	geras	_	_	INDF;ADJ;MASC;SG;GEN	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	daug	daug	_	_	NOM;SG;MASC;N	_	_	_	_
+7	sunkiau	sunkiai	_	_	CMPR;ADV	_	_	_	_
+8	užgesinti	užgesinti	_	_	INDF;NOM;POS;V.PTCP;PL;V;MASC;PST;PASS	_	_	_	_
+9	priešiškumą	priešiškumas	_	_	SG;MASC;N;ACC	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	negu	negu	_	_	CONJ	_	_	_	_
+12	anuomet	anuomet	_	_	ADV	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# newpar id = 132
+# sent_id = 132
+# text = Beje, ateityje (tiesa, gana tolimoje) nepriklausomas valstybes iš viso galbūt pavaduos globalinė sąjungą, kurios bruožai pastebimi ir dabar: tai anaiptol nereiškia, kad išnyks tautiniai skirtingumai, kalbos ir tradicijos.
+1	Beje	beje	_	_	PART	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	ateityje	ateitis	_	_	SG;ESS;FEM;N	_	_	_	_
+4	(	(	_	_	_	_	_	_	_
+5	tiesa	tiesa	_	_	NOM;SG;FEM;N	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	gana	gana	_	_	ADV	_	_	_	_
+8	tolimoje	tolimas	_	_	ADJ;INDF;SG;ESS;FEM	_	_	_	_
+9	)	)	_	_	_	_	_	_	_
+10	nepriklausomas	nepriklausomas	_	_	ADJ;INDF;PL;ACC;NEG;FEM	_	_	_	_
+11	valstybes	valstybė	_	_	PL;FEM;N;ACC	_	_	_	_
+12	iš	iš	_	_	ADP	_	_	_	_
+13	viso	visas	_	_	MASC;PRO;SG;GEN	_	_	_	_
+14	galbūt	galbūt	_	_	PART	_	_	_	_
+15	pavaduos	pavaduoti	_	_	FUT;SG;ACT;3;POS;IND;FIN;V	_	_	_	_
+16	globalinė	globalinis	_	_	ADJ;INDF;NOM;SG;FEM	_	_	_	_
+17	sąjungą	sąjunga	_	_	NOM;SG;FEM;N	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	kurios	kuris	_	_	SG;PRO;GEN;FEM	_	_	_	_
+20	bruožai	bruožas	_	_	NOM;MASC;PL;N	_	_	_	_
+21	pastebimi	pastebėti	_	_	INDF;NOM;MASC;PL;POS;PRS;PASS;V.PTCP;V	_	_	_	_
+22	ir	ir	_	_	PART	_	_	_	_
+23	dabar	dabar	_	_	ADV	_	_	_	_
+24	:	:	_	_	_	_	_	_	_
+25	tai	tai	_	_	PRO	_	_	_	_
+26	anaiptol	anaiptol	_	_	ADV	_	_	_	_
+27	nereiškia	reikšti	_	_	SG;ACT;3;PRS;NEG;IND;FIN;V	_	_	_	_
+28	,	,	_	_	_	_	_	_	_
+29	kad	kad	_	_	CONJ	_	_	_	_
+30	išnyks	išnykti	_	_	FUT;PL;ACT;3;POS;IND;FIN;V	_	_	_	_
+31	tautiniai	tautinis	_	_	ADJ;INDF;NOM;MASC;PL	_	_	_	_
+32	skirtingumai	skirtingumas	_	_	NOM;MASC;PL;N	_	_	_	_
+33	,	,	_	_	_	_	_	_	_
+34	kalbos	kalba	_	_	NOM;PL;FEM;N	_	_	_	_
+35	ir	ir	_	_	CONJ	_	_	_	_
+36	tradicijos	tradicija	_	_	NOM;PL;FEM;N	_	_	_	_
+37	.	.	_	_	_	_	_	_	_
+
+# sent_id = lt-ru-5-p3-5
+# text = Tokių nukritusiame lėktuve, kuris gruodžio 25 dieną pražudė 92 žmones, buvo trys.
+1	Tokių	toks	_	_	MASC;PRO;PL;GEN	_	_	_	_
+2	nukritusiame	nukristi	_	_	ACT;MASC;V.PTCP;INDF;ESS;POS;V;SG	_	_	_	_
+3	lėktuve	lėktuvas	_	_	MASC;N;ESS;SG	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	kuris	kuris	_	_	MASC;PRO;SG;NOM	_	_	_	_
+6	gruodžio	gruodis	_	_	MASC;N;SG;GEN	_	_	_	_
+7	25	25	_	_	ADJ	_	_	_	_
+8	dieną	diena	_	_	FEM;ACC;N;SG	_	_	_	_
+9	pražudė	pražudyti	_	_	FIN;PST;ACT;IND;3;POS;V;SG	_	_	_	_
+10	92	92	_	_	NUM	_	_	_	_
+11	žmones	žmogus	_	_	PL;MASC;ACC;N	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	buvo	būti	_	_	FIN;PST;ACT;V;IND;3;POS;PL	_	_	_	_
+14	trys	trys	_	_	MASC;NUM;NOM	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# newpar id = 41
+# sent_id = 41
+# text = Mūsų Sokratas buvo Vytautas Kavolis.
+1	Mūsų	mūsų	_	_	DET	_	_	_	_
+2	Sokratas	Sokratas	_	_	NOM;MASC;SG;PROPN	_	_	_	_
+3	buvo	būti	_	_	SG;ACT;POS;3;PST;IND;FIN;V	_	_	_	_
+4	Vytautas	Vytautas	_	_	NOM;MASC;SG;PROPN	_	_	_	_
+5	Kavolis	Kavolis	_	_	NOM;MASC;SG;PROPN	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# newpar id = 87
+# sent_id = 87
+# text = Dar blogiau yra Vengrijoje ir Slovakijoje, kur fašistoidinės tendencijos toli prasiskverbė į valdžią, o pasipriešinimo joms ne tiek daug.
+1	Dar	dar	_	_	ADV	_	_	_	_
+2	blogiau	blogai	_	_	ADV;CMPR	_	_	_	_
+3	yra	būti	_	_	SG;ACT;POS;3;PRS;IND;FIN;V	_	_	_	_
+4	Vengrijoje	Vengrija	_	_	SG;ESS;PROPN;FEM	_	_	_	_
+5	ir	ir	_	_	CONJ	_	_	_	_
+6	Slovakijoje	Slovakija	_	_	SG;ESS;PROPN;FEM	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	kur	kur	_	_	ADV	_	_	_	_
+9	fašistoidinės	fašistoidinės	_	_	SG;GEN;FEM;N	_	_	_	_
+10	tendencijos	tendencija	_	_	SG;GEN;FEM;N	_	_	_	_
+11	toli	toli	_	_	ADV	_	_	_	_
+12	prasiskverbė	prasiskverbti	_	_	SG;ACT;3;POS;PST;REFL;IND;FIN;V	_	_	_	_
+13	į	į	_	_	ADP	_	_	_	_
+14	valdžią	valdžia	_	_	SG;FEM;N;ACC	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	o	o	_	_	CONJ	_	_	_	_
+17	pasipriešinimo	pasipriešinimas	_	_	MASC;SG;GEN;N	_	_	_	_
+18	joms	jie	_	_	PRO;PL;DAT;3	_	_	_	_
+19	ne	ne	_	_	PART;NEG	_	_	_	_
+20	tiek	tiek	_	_	ADV	_	_	_	_
+21	daug	daug	_	_	ADV	_	_	_	_
+22	.	.	_	_	_	_	_	_	_
+
+# newpar id = 2
+# sent_id = 2
+# text = Konkurse tada ji užėmė tik trečią vietą: pirmąją gavo Kratinas už komediją „Butelis“ (apie paties dramaturgo kovą su alkoholizmu), antrąją Amipsijus, apie kurį beveik nieko nežinome.
+1	Konkurse	konkursas	_	_	MASC;ESS;SG;N	_	_	_	_
+2	tada	tada	_	_	ADV	_	_	_	_
+3	ji	ji	_	_	NOM;PRO;SG;3;FEM	_	_	_	_
+4	užėmė	užimti	_	_	SG;ACT;3;POS;PST;IND;FIN;V	_	_	_	_
+5	tik	tik	_	_	ADV	_	_	_	_
+6	trečią	trečias	_	_	ADJ;INDF;SG;ACC;FEM	_	_	_	_
+7	vietą	vieta	_	_	SG;FEM;N;ACC	_	_	_	_
+8	:	:	_	_	_	_	_	_	_
+9	pirmąją	pirmas	_	_	ADJ;SG;ACC;DEF;FEM	_	_	_	_
+10	gavo	gauti	_	_	SG;ACT;3;POS;PST;IND;FIN;V	_	_	_	_
+11	Kratinas	Kratinas	_	_	NOM;MASC;SG;PROPN	_	_	_	_
+12	už	už	_	_	ADP	_	_	_	_
+13	komediją	komedija	_	_	SG;FEM;N;ACC	_	_	_	_
+14	„	„	_	_	_	_	_	_	_
+15	Butelis	Butelis	_	_	NOM;MASC;SG;N	_	_	_	_
+16	“	“	_	_	_	_	_	_	_
+17	(	(	_	_	_	_	_	_	_
+18	apie	apie	_	_	ADP	_	_	_	_
+19	paties	pats	_	_	MASC;SG;GEN;DET	_	_	_	_
+20	dramaturgo	dramaturgas	_	_	MASC;SG;GEN;N	_	_	_	_
+21	kovą	kova	_	_	SG;FEM;N;ACC	_	_	_	_
+22	su	su	_	_	ADP	_	_	_	_
+23	alkoholizmu	alkoholizmas	_	_	MASC;SG;INS;N	_	_	_	_
+24	)	)	_	_	_	_	_	_	_
+25	,	,	_	_	_	_	_	_	_
+26	antrąją	antras	_	_	ADJ;SG;ACC;DEF;FEM	_	_	_	_
+27	Amipsijus	Amipsijus	_	_	NOM;MASC;SG;PROPN	_	_	_	_
+28	,	,	_	_	_	_	_	_	_
+29	apie	apie	_	_	ADP	_	_	_	_
+30	kurį	kuris	_	_	MASC;PRO;SG;ACC	_	_	_	_
+31	beveik	beveik	_	_	ADV	_	_	_	_
+32	nieko	niekas	_	_	MASC;SG;GEN;N	_	_	_	_
+33	nežinome	žinoti	_	_	PL;ACT;PRS;NEG;IND;FIN;1;V	_	_	_	_
+34	.	.	_	_	_	_	_	_	_
+
+# newpar id = 140
+# sent_id = 140
+# text = Esu ne kartą kalbėjęs apie pavojingą „lietuviškąją triadą“ (sakyčiau, lietuviškąjį Bermudų trikampį) – nesutarimus su rusais, lenkais ir žydais, arba su Rusija, Lenkija ir Izraeliu.
+1	Esu	būti	_	_	SG;ACT;POS;PRS;IND;FIN;V;1	_	_	_	_
+2	ne	ne	_	_	PART;NEG	_	_	_	_
+3	kartą	kartas	_	_	MASC;SG;N;ACC	_	_	_	_
+4	kalbėjęs	kalbėti	_	_	INDF;NOM;SG;MASC;ACT;POS;V.PTCP;V	_	_	_	_
+5	apie	apie	_	_	ADP	_	_	_	_
+6	pavojingą	pavojingas	_	_	ADJ;INDF;MASC;SG;ACC	_	_	_	_
+7	„	„	_	_	_	_	_	_	_
+8	lietuviškąją	lietuviškas	_	_	ADJ;INDF;SG;ACC;FEM	_	_	_	_
+9	triadą	triada	_	_	SG;FEM;N;ACC	_	_	_	_
+10	“	“	_	_	_	_	_	_	_
+11	(	(	_	_	_	_	_	_	_
+12	sakyčiau	sakyti	_	_	COND;ACT;POS;FIN;V	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	lietuviškąjį	lietuviškas	_	_	ADJ;INDF;MASC;SG;ACC	_	_	_	_
+15	Bermudų	Bermudai	_	_	MASC;SG;GEN;PROPN	_	_	_	_
+16	trikampį	trikampis	_	_	MASC;SG;N;ACC	_	_	_	_
+17	)	)	_	_	_	_	_	_	_
+18	–	–	_	_	_	_	_	_	_
+19	nesutarimus	nesutarimas	_	_	MASC;PL;N;ACC;NEG	_	_	_	_
+20	su	su	_	_	ADP	_	_	_	_
+21	rusais	rusas	_	_	MASC;PL;INS;N	_	_	_	_
+22	,	,	_	_	_	_	_	_	_
+23	lenkais	lenkas	_	_	MASC;PL;INS;N	_	_	_	_
+24	ir	ir	_	_	CONJ	_	_	_	_
+25	žydais	žydas	_	_	MASC;PL;INS;N	_	_	_	_
+26	,	,	_	_	_	_	_	_	_
+27	arba	arba	_	_	CONJ	_	_	_	_
+28	su	su	_	_	ADP	_	_	_	_
+29	Rusija	Rusija	_	_	NOM;SG;PROPN;FEM	_	_	_	_
+30	,	,	_	_	_	_	_	_	_
+31	Lenkija	Lenkija	_	_	NOM;SG;PROPN;FEM	_	_	_	_
+32	ir	ir	_	_	CONJ	_	_	_	_
+33	Izraeliu	Izraelis	_	_	MASC;SG;PROPN;INS	_	_	_	_
+34	.	.	_	_	_	_	_	_	_
+
+# newpar id = 193
+# sent_id = 193
+# text = Vienas jų sako: „Vajėzau!
+1	Vienas	vienas	_	_	INDF;ADJ;NOM;MASC;SG	_	_	_	_
+2	jų	jų	_	_	DET	_	_	_	_
+3	sako	sakyti	_	_	IND;PRS;3;POS;V;ACT;FIN;SG	_	_	_	_
+4	:	:	_	_	_	_	_	_	_
+5	„	„	_	_	_	_	_	_	_
+6	Vajėzau	vajėzau	_	_	INTJ	_	_	_	_
+7	!	!	_	_	_	_	_	_	_
+
+# newpar id = 26
+# sent_id = 26
+# text = Geroje dramoje nebūna taip, kad viena pusė būtų visiškai neteisi.
+1	Geroje	geras	_	_	ADJ;INDF;SG;ESS;FEM	_	_	_	_
+2	dramoje	drama	_	_	SG;ESS;FEM;N	_	_	_	_
+3	nebūna	būti	_	_	SG;3;ACT;NEG;IND;FIN;V	_	_	_	_
+4	taip	taip	_	_	ADV	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	kad	kad	_	_	CONJ	_	_	_	_
+7	viena	vienas	_	_	ADJ;INDF;NOM;SG;FEM	_	_	_	_
+8	pusė	pusė	_	_	NOM;SG;FEM;N	_	_	_	_
+9	būtų	būti	_	_	COND;SG;ACT;POS;3;FIN;V	_	_	_	_
+10	visiškai	visiškai	_	_	ADV	_	_	_	_
+11	neteisi	neteisi	_	_	ADJ;INDF;NOM;SG;FEM	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# newpar id = 82
+# sent_id = 82
+# text = Jį stiprina nauji istorijos reiškiniai – didėjanti nelygybė, naujoviška beatodairiška korupcija, pasaulinė ekonominė krizė ir dėl to atsiradusi vartotojiškų siekių frustracija (kaip tik dėl tokių dalykų kadaise atsirado nacizmas, o, beje, ir komunizmas).
+1	Jį	jis	_	_	MASC;PRO;SG;3;ACC	_	_	_	_
+2	stiprina	stiprinti	_	_	SG;ACT;3;POS;PRS;IND;FIN;V	_	_	_	_
+3	nauji	naujas	_	_	ADJ;INDF;NOM;MASC;PL	_	_	_	_
+4	istorijos	istorija	_	_	SG;GEN;FEM;N	_	_	_	_
+5	reiškiniai	reiškinys	_	_	NOM;MASC;PL;N	_	_	_	_
+6	–	–	_	_	_	_	_	_	_
+7	didėjanti	didėti	_	_	INDF;NOM;SG;ACT;POS;PRS;V.PTCP;FEM;V	_	_	_	_
+8	nelygybė	nelygybė	_	_	NOM;SG;FEM;N	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	naujoviška	naujoviškas	_	_	ADJ;INDF;NOM;SG;FEM	_	_	_	_
+11	beatodairiška	beatodairiškas	_	_	ADJ;INDF;NOM;SG;FEM	_	_	_	_
+12	korupcija	korupcija	_	_	NOM;SG;FEM;N	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	pasaulinė	pasaulinis	_	_	ADJ;INDF;NOM;SG;FEM	_	_	_	_
+15	ekonominė	ekonominis	_	_	ADJ;INDF;NOM;SG;FEM	_	_	_	_
+16	krizė	krizė	_	_	NOM;SG;FEM;N	_	_	_	_
+17	ir	ir	_	_	CONJ	_	_	_	_
+18	dėl	dėl	_	_	ADP	_	_	_	_
+19	to	tas	_	_	MASC;PRO;SG;GEN	_	_	_	_
+20	atsiradusi	atsirasti	_	_	INDF;NOM;SG;ACT;POS;PST;REFL;V.PTCP;FEM;V	_	_	_	_
+21	vartotojiškų	vartotojiškas	_	_	ADJ;INDF;GEN;MASC;PL	_	_	_	_
+22	siekių	siekis	_	_	MASC;GEN;PL;N	_	_	_	_
+23	frustracija	frustracija	_	_	NOM;SG;FEM;N	_	_	_	_
+24	(	(	_	_	_	_	_	_	_
+25	kaip	kaip	_	_	CONJ	_	_	_	_
+26	tik	tik	_	_	ADV	_	_	_	_
+27	dėl	dėl	_	_	ADP	_	_	_	_
+28	tokių	toks	_	_	MASC;PL;GEN;DET	_	_	_	_
+29	dalykų	dalykas	_	_	MASC;GEN;PL;N	_	_	_	_
+30	kadaise	kadaise	_	_	ADV	_	_	_	_
+31	atsirado	atsirasti	_	_	SG;ACT;3;POS;PST;IND;FIN;V	_	_	_	_
+32	nacizmas	nacizmas	_	_	NOM;MASC;SG;N	_	_	_	_
+33	,	,	_	_	_	_	_	_	_
+34	o	o	_	_	CONJ	_	_	_	_
+35	,	,	_	_	_	_	_	_	_
+36	beje	beje	_	_	PART	_	_	_	_
+37	,	,	_	_	_	_	_	_	_
+38	ir	ir	_	_	CONJ	_	_	_	_
+39	komunizmas	komunizmas	_	_	NOM;MASC;SG;N	_	_	_	_
+40	)	)	_	_	_	_	_	_	_
+41	.	.	_	_	_	_	_	_	_
+
+# newpar id = 47
+# sent_id = 47
+# text = Kalbama apie tradicines Lietuvos vertybes, kurios yra priešingos ir priešiškos abejotinoms Europos bei globalizmo vertybėms.
+1	Kalbama	kalbėti	_	_	INDF;NEUT;POS;PRS;PASS;V.PTCP;V	_	_	_	_
+2	apie	apie	_	_	ADP	_	_	_	_
+3	tradicines	tradicinis	_	_	ADJ;INDF;PL;ACC;FEM	_	_	_	_
+4	Lietuvos	Lietuva	_	_	SG;GEN;PROPN;FEM	_	_	_	_
+5	vertybes	vertybė	_	_	PL;FEM;N;ACC	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	kurios	kuris	_	_	NOM;PRO;PL;FEM	_	_	_	_
+8	yra	būti	_	_	PL;ACT;POS;3;PRS;IND;FIN;V	_	_	_	_
+9	priešingos	priešingas	_	_	ADJ;INDF;NOM;PL;FEM	_	_	_	_
+10	ir	ir	_	_	CONJ	_	_	_	_
+11	priešiškos	priešiškas	_	_	ADJ;INDF;NOM;PL;FEM	_	_	_	_
+12	abejotinoms	abejotinas	_	_	ADJ;INDF;PL;FEM;DAT	_	_	_	_
+13	Europos	Europa	_	_	SG;GEN;PROPN;FEM	_	_	_	_
+14	bei	bei	_	_	CONJ	_	_	_	_
+15	globalizmo	globalizmas	_	_	MASC;SG;GEN;N	_	_	_	_
+16	vertybėms	vertybė	_	_	FEM;PL;DAT;N	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = lt-ru-5-p17-35
+# text = Bet kokiu atveju trijų MARS BM mikrofonų užtenka, mat, anot R. Beniušio, „Vilma“ gamino itin jautrią įrangą – tokios troško ir pasiklausymo aparatūrą naudojęs KGB.
+1	Bet	bet	_	_	CONJ	_	_	_	_
+2	kokiu	koks	_	_	DET;MASC;SG;INS	_	_	_	_
+3	atveju	atvejis	_	_	MASC;N;INS;SG	_	_	_	_
+4	trijų	trys	_	_	MASC;NUM;GEN	_	_	_	_
+5	MARS	MARS	_	_	PROPN	_	_	_	_
+6	BM	BM	_	_	PROPN	_	_	_	_
+7	mikrofonų	mikrofonas	_	_	PL;MASC;N;GEN	_	_	_	_
+8	užtenka	užtekti	_	_	FIN;PST;ACT;IND;3;POS;V;SG	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	mat	mat	_	_	PART	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	anot	anot	_	_	ADP	_	_	_	_
+13	R.	r.	_	_	PROPN	_	_	_	_
+14	Beniušio	Beniušis	_	_	MASC;PROPN;SG;GEN	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	„	„	_	_	_	_	_	_	_
+17	Vilma	Vilma	_	_	FEM;PROPN;SG;NOM	_	_	_	_
+18	“	“	_	_	_	_	_	_	_
+19	gamino	gaminti	_	_	FIN;PST;ACT;IND;3;POS;V;SG	_	_	_	_
+20	itin	itin	_	_	ADV	_	_	_	_
+21	jautrią	jautrus	_	_	FEM;ACC;INDF;ADJ;SG	_	_	_	_
+22	įrangą	įranga	_	_	FEM;ACC;N;SG	_	_	_	_
+23	–	–	_	_	_	_	_	_	_
+24	tokios	toks	_	_	DET;FEM;SG;GEN	_	_	_	_
+25	troško	trokšti	_	_	FIN;PST;ACT;IND;3;POS;V;SG	_	_	_	_
+26	ir	ir	_	_	CONJ	_	_	_	_
+27	pasiklausymo	pasiklausymas	_	_	MASC;REFL;N;SG;GEN	_	_	_	_
+28	aparatūrą	aparatūra	_	_	FEM;ACC;N;SG	_	_	_	_
+29	naudojęs	naudoti	_	_	ACT;MASC;V.PTCP;NOM;INDF;POS;V;SG	_	_	_	_
+30	KGB	KGB	_	_	PROPN	_	_	_	_
+31	.	.	_	_	_	_	_	_	_
+
+# newpar id = 142
+# sent_id = 142
+# text = Deja, taip nėra – šiandien jie pastebimai aštrėja.
+1	Deja	deja	_	_	INTJ	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	taip	taip	_	_	PART	_	_	_	_
+4	nėra	būti	_	_	SG;ACT;3;PRS;NEG;IND;FIN;V	_	_	_	_
+5	–	–	_	_	_	_	_	_	_
+6	šiandien	šiandien	_	_	ADV	_	_	_	_
+7	jie	jie	_	_	NOM;PRO;MASC;PL;3	_	_	_	_
+8	pastebimai	pastebimai	_	_	ADV	_	_	_	_
+9	aštrėja	aštrėti	_	_	PL;ACT;3;POS;PRS;IND;FIN;V	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# newpar id = 188
+# sent_id = 188
+# text = Kiekvienas Rusijos priešas – net jeigu jis neatsakingas, nekompetentingas arba ne itin civilizuotas – automatiškai yra Lietuvos draugas.
+1	Kiekvienas	kiekvienas	_	_	NOM;SG;MASC;DET	_	_	_	_
+2	Rusijos	Rusija	_	_	PROPN;SG;FEM;GEN	_	_	_	_
+3	priešas	priešas	_	_	NOM;SG;MASC;N	_	_	_	_
+4	–	–	_	_	_	_	_	_	_
+5	net	net	_	_	PART	_	_	_	_
+6	jeigu	jeigu	_	_	CONJ	_	_	_	_
+7	jis	jis	_	_	NOM;3;MASC;PRO;SG	_	_	_	_
+8	neatsakingas	neatsakingas	_	_	INDF;ADJ;NOM;NEG;MASC;SG	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	nekompetentingas	nekompetentingas	_	_	INDF;ADJ;NOM;NEG;MASC;SG	_	_	_	_
+11	arba	arba	_	_	CONJ	_	_	_	_
+12	ne	ne	_	_	NEG;PART	_	_	_	_
+13	itin	itin	_	_	ADV	_	_	_	_
+14	civilizuotas	civilizuoti	_	_	INDF;NOM;POS;V.PTCP;V;MASC;PST;PASS;SG	_	_	_	_
+15	–	–	_	_	_	_	_	_	_
+16	automatiškai	automatiškai	_	_	ADV	_	_	_	_
+17	yra	būti	_	_	IND;PRS;3;POS;V;ACT;FIN;SG	_	_	_	_
+18	Lietuvos	Lietuva	_	_	PROPN;SG;FEM;GEN	_	_	_	_
+19	draugas	draugas	_	_	NOM;SG;MASC;N	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# newpar id = lt-ru-5-p12
+# sent_id = lt-ru-5-p12-25
+# text = Anot kito gamykloje dirbusio lietuvio, Romualdo Beniušio, vėliau pradėti gaminti ir magnetofonai prietaisams MARS BM, kuriuos kruopščiai tikrindavo saugumiečiai.
+1	Anot	anot	_	_	ADP	_	_	_	_
+2	kito	kitas	_	_	MASC;INDF;ADJ;SG;GEN	_	_	_	_
+3	gamykloje	gamykla	_	_	FEM;N;ESS;SG	_	_	_	_
+4	dirbusio	dirbti	_	_	ACT;MASC;V.PTCP;INDF;POS;V;SG;GEN	_	_	_	_
+5	lietuvio	lietuvis	_	_	MASC;INDF;ADJ;SG;GEN	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	Romualdo	Romualdas	_	_	MASC;PROPN;SG;GEN	_	_	_	_
+8	Beniušio	Beniušis	_	_	MASC;PROPN;SG;GEN	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	vėliau	vėlai	_	_	ADV;CMPR	_	_	_	_
+11	pradėti	pradėti	_	_	PST;MASC;V.PTCP;PASS;NOM;INDF;POS;V;PL	_	_	_	_
+12	gaminti	gaminti	_	_	ACT;NFIN;POS;V	_	_	_	_
+13	ir	ir	_	_	PART	_	_	_	_
+14	magnetofonai	magnetofonas	_	_	PL;MASC;N;NOM	_	_	_	_
+15	prietaisams	prietaisas	_	_	PL;MASC;DAT;N	_	_	_	_
+16	MARS	MARS	_	_	PROPN	_	_	_	_
+17	BM	BM	_	_	PROPN	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	kuriuos	kuris	_	_	PL;MASC;PRO;ACC	_	_	_	_
+20	kruopščiai	kruopščiai	_	_	ADV	_	_	_	_
+21	tikrindavo	tikrinti	_	_	FIN;ACT;IND;3;POS;V;PL	_	_	_	_
+22	saugumiečiai	saugumietis	_	_	PL;MASC;N;NOM	_	_	_	_
+23	.	.	_	_	_	_	_	_	_
+
+# newpar id = lt-ru-5-p4
+# sent_id = lt-ru-5-p4-7
+# text = Paprastai, kai į lėktuvai nukrenta į jūrą, nustatyti katastrofos priežastis būna ypač sunku.
+1	Paprastai	paprastai	_	_	ADV	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	kai	kai	_	_	CONJ	_	_	_	_
+4	į	į	_	_	ADP	_	_	_	_
+5	lėktuvai	lėktuvas	_	_	PL;MASC;N;NOM	_	_	_	_
+6	nukrenta	nukristi	_	_	FIN;ACT;IND;3;POS;V;PL;PRS	_	_	_	_
+7	į	į	_	_	ADP	_	_	_	_
+8	jūrą	jūra	_	_	FEM;ACC;N;SG	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	nustatyti	nustatyti	_	_	ACT;NFIN;POS;V	_	_	_	_
+11	katastrofos	katastrofa	_	_	FEM;N;SG;GEN	_	_	_	_
+12	priežastis	priežastis	_	_	FEM;N;SG;NOM	_	_	_	_
+13	būna	būti	_	_	FIN;ACT;V;IND;3;POS;SG;PRS	_	_	_	_
+14	ypač	ypač	_	_	ADV	_	_	_	_
+15	sunku	sunkus	_	_	INDF;ADJ;NEUT	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# newpar id = 211
+# sent_id = 211
+# text = Gali turėti savo politiką, bet negali dieną naktį skelbti tos politikos priešininkų išdavikais ir svetimųjų agentais, kuriems nėra vietos Lietuvoje.
+1	Gali	galėti	_	_	FIN;ACT;IND;3;POS;V;SG;PRS	_	_	_	_
+2	turėti	turėti	_	_	ACT;NFIN;POS;V	_	_	_	_
+3	savo	savo	_	_	DET	_	_	_	_
+4	politiką	politika	_	_	FEM;ACC;N;SG	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	bet	bet	_	_	CONJ	_	_	_	_
+7	negali	galėti	_	_	FIN;ACT;IND;NEG;3;V;SG;PRS	_	_	_	_
+8	dieną	diena	_	_	FEM;ACC;N;SG	_	_	_	_
+9	naktį	naktis	_	_	FEM;ACC;N;SG	_	_	_	_
+10	skelbti	skelbti	_	_	ACT;NFIN;POS;V	_	_	_	_
+11	tos	tas	_	_	DET;FEM;SG;GEN	_	_	_	_
+12	politikos	politika	_	_	FEM;N;SG;GEN	_	_	_	_
+13	priešininkų	priešininkas	_	_	PL;MASC;N;GEN	_	_	_	_
+14	išdavikais	išdavikas	_	_	PL;MASC;N;INS	_	_	_	_
+15	ir	ir	_	_	CONJ	_	_	_	_
+16	svetimųjų	svetimas	_	_	MASC;DEF;ADJ;PL;GEN	_	_	_	_
+17	agentais	agentas	_	_	PL;MASC;N;INS	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	kuriems	kuris	_	_	PL;MASC;PRO;DAT	_	_	_	_
+20	nėra	būti	_	_	FIN;ACT;V;IND;NEG;3;SG;PRS	_	_	_	_
+21	vietos	vieta	_	_	FEM;N;SG;GEN	_	_	_	_
+22	Lietuvoje	Lietuva	_	_	FEM;PROPN;ESS;SG	_	_	_	_
+23	.	.	_	_	_	_	_	_	_
+
+# newpar id = 133
+# sent_id = 133
+# text = Absoliučiai nepriklausoma šių dienų pasaulyje yra nebent Šiaurės Korėja; visos kitos šalys, įskaitant JAV ir Rusiją, daugiau ar mažiau riboja savo veikimo laisvę, atsižvelgdamos į kitų interesus (būna, kad ir neatsižvelgia, bet tada yra teisingai baramos).
+1	Absoliučiai	absoliučiai	_	_	ADV	_	_	_	_
+2	nepriklausoma	priklausyti	_	_	INDF;NOM;SG;PRS;PASS;NEG;V.PTCP;FEM;V	_	_	_	_
+3	šių	šis	_	_	DET	_	_	_	_
+4	dienų	diena	_	_	GEN;PL;FEM;N	_	_	_	_
+5	pasaulyje	pasaulis	_	_	MASC;ESS;SG;N	_	_	_	_
+6	yra	būti	_	_	SG;ACT;POS;3;PRS;IND;FIN;V	_	_	_	_
+7	nebent	nebent	_	_	CONJ	_	_	_	_
+8	Šiaurės	šiaurė	_	_	SG;GEN;PROPN;FEM	_	_	_	_
+9	Korėja	Korėja	_	_	NOM;SG;PROPN;FEM	_	_	_	_
+10	;	;	_	_	_	_	_	_	_
+11	visos	visas	_	_	NOM;PL;DET;FEM	_	_	_	_
+12	kitos	kitas	_	_	ADJ;INDF;NOM;PL;FEM	_	_	_	_
+13	šalys	šalis	_	_	NOM;PL;FEM;N	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	įskaitant	įskaityti	_	_	ACT;POS;PRS;V	_	_	_	_
+16	JAV	JAV	_	_	PROPN	_	_	_	_
+17	ir	ir	_	_	CONJ	_	_	_	_
+18	Rusiją	Rusija	_	_	SG;PROPN;FEM;ACC	_	_	_	_
+19	,	,	_	_	_	_	_	_	_
+20	daugiau	daug	_	_	ADV;CMPR	_	_	_	_
+21	ar	ar	_	_	CONJ	_	_	_	_
+22	mažiau	mažiai	_	_	ADV;CMPR	_	_	_	_
+23	riboja	riboti	_	_	PL;ACT;3;POS;PRS;IND;FIN;V	_	_	_	_
+24	savo	savo	_	_	DET	_	_	_	_
+25	veikimo	veikimas	_	_	MASC;SG;GEN;N	_	_	_	_
+26	laisvę	laisvė	_	_	SG;FEM;N;ACC	_	_	_	_
+27	,	,	_	_	_	_	_	_	_
+28	atsižvelgdamos	atsižvelgti	_	_	PL;POS;ACT;REFL;FEM;V	_	_	_	_
+29	į	į	_	_	ADP	_	_	_	_
+30	kitų	kitas	_	_	ADJ;INDF;GEN;MASC;PL	_	_	_	_
+31	interesus	interesas	_	_	MASC;PL;N;ACC	_	_	_	_
+32	(	(	_	_	_	_	_	_	_
+33	būna	būti	_	_	SG;3;POS;ACT;IND;FIN;V	_	_	_	_
+34	,	,	_	_	_	_	_	_	_
+35	kad	kad	_	_	CONJ	_	_	_	_
+36	ir	ir	_	_	PART	_	_	_	_
+37	neatsižvelgia	atsižvelgti	_	_	SG;ACT;3;PRS;NEG;REFL;IND;FIN;V	_	_	_	_
+38	,	,	_	_	_	_	_	_	_
+39	bet	bet	_	_	CONJ	_	_	_	_
+40	tada	tada	_	_	ADV	_	_	_	_
+41	yra	būti	_	_	SG;ACT;POS;3;PRS;IND;FIN;V	_	_	_	_
+42	teisingai	teisingai	_	_	ADV	_	_	_	_
+43	baramos	barti	_	_	INDF;GEN;SG;POS;PRS;PASS;V.PTCP;FEM;V	_	_	_	_
+44	)	)	_	_	_	_	_	_	_
+45	.	.	_	_	_	_	_	_	_
+
+# newpar id = 27
+# sent_id = 27
+# text = Taip nėra ir Strepsiado-Sokrato (tiksliau, Aristofano-Sokrato) konflikte.
+1	Taip	taip	_	_	ADV	_	_	_	_
+2	nėra	būti	_	_	SG;ACT;3;PRS;NEG;IND;FIN;V	_	_	_	_
+3	ir	ir	_	_	PART	_	_	_	_
+4	Strepsiado	Strepsiado	_	_	MASC;SG;GEN;PROPN	_	_	_	_
+5	-	-	_	_	_	_	_	_	_
+6	Sokrato	Sokratas	_	_	MASC;SG;GEN;PROPN	_	_	_	_
+7	(	(	_	_	_	_	_	_	_
+8	tiksliau	tiksliai	_	_	ADV;CMPR	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	Aristofano	Aristofanas	_	_	MASC;SG;GEN;PROPN	_	_	_	_
+11	-	-	_	_	_	_	_	_	_
+12	Sokrato	Sokratas	_	_	MASC;SG;GEN;PROPN	_	_	_	_
+13	)	)	_	_	_	_	_	_	_
+14	konflikte	konfliktas	_	_	MASC;ESS;SG;N	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# newpar id = 103
+# sent_id = 103
+# text = Taip, dekonstruojama anachroniška, XIX amžiaus ir Smetonos laikų valstybinė ir tautinė sąmonė, kurią užkonservavo sovietmetis, ir kurią dekonstruoti seniai laikas.
+1	Taip	taip	_	_	PART	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	dekonstruojama	dekonstruoti	_	_	INDF;NOM;SG;POS;PRS;PASS;V.PTCP;FEM;V	_	_	_	_
+4	anachroniška	anachroniškas	_	_	ADJ;INDF;NOM;SG;FEM	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	XIX	XIX	_	_	ADJ	_	_	_	_
+7	amžiaus	amžius	_	_	MASC;SG;GEN;N	_	_	_	_
+8	ir	ir	_	_	CONJ	_	_	_	_
+9	Smetonos	Smetona	_	_	SG;GEN;PROPN;FEM	_	_	_	_
+10	laikų	laikas	_	_	MASC;GEN;PL;N	_	_	_	_
+11	valstybinė	valstybinis	_	_	ADJ;INDF;NOM;SG;FEM	_	_	_	_
+12	ir	ir	_	_	CONJ	_	_	_	_
+13	tautinė	tautinis	_	_	ADJ;INDF;NOM;SG;FEM	_	_	_	_
+14	sąmonė	sąmonė	_	_	NOM;SG;FEM;N	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	kurią	kuris	_	_	SG;PRO;FEM;ACC	_	_	_	_
+17	užkonservavo	užkonservuoti	_	_	SG;ACT;3;POS;PST;IND;FIN;V	_	_	_	_
+18	sovietmetis	sovietmetis	_	_	NOM;MASC;SG;N	_	_	_	_
+19	,	,	_	_	_	_	_	_	_
+20	ir	ir	_	_	CONJ	_	_	_	_
+21	kurią	kuris	_	_	SG;PRO;FEM;ACC	_	_	_	_
+22	dekonstruoti	dekonstruoti	_	_	V;ACT;POS;NFIN	_	_	_	_
+23	seniai	seniai	_	_	ADV	_	_	_	_
+24	laikas	laikas	_	_	NOM;MASC;SG;N	_	_	_	_
+25	.	.	_	_	_	_	_	_	_
+
+# newpar id = 111
+# sent_id = 111
+# text = Pirmiausia, interneto ir lėktuvų epochoje silpnėja ryšys tarp tautos ir teritorijos.
+1	Pirmiausia	pirmiausia	_	_	RL;ADV	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	interneto	internetas	_	_	MASC;SG;GEN;N	_	_	_	_
+4	ir	ir	_	_	CONJ	_	_	_	_
+5	lėktuvų	lėktuvas	_	_	MASC;GEN;PL;N	_	_	_	_
+6	epochoje	epocha	_	_	SG;ESS;FEM;N	_	_	_	_
+7	silpnėja	silpnėti	_	_	SG;ACT;3;POS;PRS;IND;FIN;V	_	_	_	_
+8	ryšys	ryšys	_	_	NOM;MASC;SG;N	_	_	_	_
+9	tarp	tarp	_	_	ADP	_	_	_	_
+10	tautos	tauta	_	_	SG;GEN;FEM;N	_	_	_	_
+11	ir	ir	_	_	CONJ	_	_	_	_
+12	teritorijos	teritorija	_	_	SG;GEN;FEM;N	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# newpar id = 63
+# sent_id = 63
+# text = Deja, neatsitiko nieko ypatingo: panašios tendencijos ryškėjo dar Sąjūdžio laikais, nors tad laisvės siekimas buvo toks uždegantis ir patrauklus, kad norėjosi jų nepastebėti.
+1	Deja	deja	_	_	INTJ	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	neatsitiko	atsitikti	_	_	SG;ACT;3;PST;NEG;REFL;IND;FIN;V	_	_	_	_
+4	nieko	niekas	_	_	MASC;PRO;SG;GEN	_	_	_	_
+5	ypatingo	ypatingas	_	_	ADJ;INDF;GEN;MASC;SG	_	_	_	_
+6	:	:	_	_	_	_	_	_	_
+7	panašios	panašus	_	_	ADJ;INDF;NOM;PL;FEM	_	_	_	_
+8	tendencijos	tendencija	_	_	NOM;PL;FEM;N	_	_	_	_
+9	ryškėjo	ryškėti	_	_	PL;ACT;3;POS;PST;IND;FIN;V	_	_	_	_
+10	dar	dar	_	_	ADV	_	_	_	_
+11	Sąjūdžio	Sąjūdis	_	_	MASC;SG;GEN;PROPN	_	_	_	_
+12	laikais	laikas	_	_	MASC;PL;INS;N	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	nors	nors	_	_	CONJ	_	_	_	_
+15	tad	tad	_	_	ADV	_	_	_	_
+16	laisvės	laisvė	_	_	SG;GEN;FEM;N	_	_	_	_
+17	siekimas	siekimas	_	_	NOM;MASC;SG;N	_	_	_	_
+18	buvo	būti	_	_	SG;ACT;POS;3;PST;IND;FIN;V	_	_	_	_
+19	toks	toks	_	_	ADV	_	_	_	_
+20	uždegantis	uždegti	_	_	INDF;NOM;SG;MASC;ACT;POS;PRS;V.PTCP;V	_	_	_	_
+21	ir	ir	_	_	CONJ	_	_	_	_
+22	patrauklus	patrauklus	_	_	ADJ;INDF;NOM;MASC;SG	_	_	_	_
+23	,	,	_	_	_	_	_	_	_
+24	kad	kad	_	_	CONJ	_	_	_	_
+25	norėjosi	norėtis	_	_	SG;ACT;3;POS;PST;REFL;IND;FIN;V	_	_	_	_
+26	jų	jie	_	_	PRO;GEN;PL;3	_	_	_	_
+27	nepastebėti	pastebėti	_	_	V;ACT;NEG;NFIN	_	_	_	_
+28	.	.	_	_	_	_	_	_	_
+
+# newpar id = 15
+# sent_id = 15
+# text = Šiandien daug kas įtartų, kad Sokratas yra žydas, ar bent turėjo žydę motiną, o jei ne, tai jo žmona Ksantipė tikriausia žydė.
+1	Šiandien	šiandien	_	_	ADV	_	_	_	_
+2	daug	daug	_	_	ADV	_	_	_	_
+3	kas	kas	_	_	NOM;PRO	_	_	_	_
+4	įtartų	įtarti	_	_	COND;PL;ACT;3;POS;FIN;V	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	kad	kad	_	_	CONJ	_	_	_	_
+7	Sokratas	Sokratas	_	_	NOM;MASC;SG;PROPN	_	_	_	_
+8	yra	būti	_	_	SG;ACT;POS;3;PRS;IND;FIN;V	_	_	_	_
+9	žydas	žydas	_	_	NOM;MASC;SG;N	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	ar	ar	_	_	CONJ	_	_	_	_
+12	bent	bent	_	_	PART	_	_	_	_
+13	turėjo	turėti	_	_	SG;ACT;3;POS;PST;IND;FIN;V	_	_	_	_
+14	žydę	žydė	_	_	SG;FEM;N;ACC	_	_	_	_
+15	motiną	motina	_	_	SG;FEM;N;ACC	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	o	o	_	_	CONJ	_	_	_	_
+18	jei	jei	_	_	CONJ	_	_	_	_
+19	ne	ne	_	_	PART;NEG	_	_	_	_
+20	,	,	_	_	_	_	_	_	_
+21	tai	tai	_	_	CONJ	_	_	_	_
+22	jo	jis	_	_	DET	_	_	_	_
+23	žmona	žmona	_	_	NOM;SG;FEM;N	_	_	_	_
+24	Ksantipė	Ksantipė	_	_	NOM;SG;PROPN;FEM	_	_	_	_
+25	tikriausia	tikras	_	_	ADJ;INDF;NOM;SG;RL;FEM	_	_	_	_
+26	žydė	žydė	_	_	NOM;SG;FEM;N	_	_	_	_
+27	.	.	_	_	_	_	_	_	_
+
+# newpar id = lt-ru-3-p2
+# sent_id = lt-ru-3-p1-2
+# text = Rašytoja Vanda Juknaitė šeštadienį Vytauto Didžiojo universitete Kaune paskelbta 2016-ųjų Tolerancijos žmogumi.
+1	Rašytoja	rašytoja	_	_	NOM;SG;FEM;N	_	_	_	_
+2	Vanda	vanda	_	_	NOM;SG;PROPN;FEM	_	_	_	_
+3	Juknaitė	Juknaitė	_	_	NOM;SG;PROPN;FEM	_	_	_	_
+4	šeštadienį	šeštadienis	_	_	MASC;SG;N;ACC	_	_	_	_
+5	Vytauto	vytautas	_	_	MASC;SG;GEN;PROPN	_	_	_	_
+6	Didžiojo	didis	_	_	ADJ;GEN;MASC;SG;DEF	_	_	_	_
+7	universitete	universitetas	_	_	MASC;ESS;SG;N	_	_	_	_
+8	Kaune	Kaunas	_	_	MASC;ESS;SG;PROPN	_	_	_	_
+9	paskelbta	paskelbti	_	_	INDF;NOM;SG;POS;PST;PASS;V.PTCP;FEM;V	_	_	_	_
+10	2016-ųjų	2016-as	_	_	ADJ;INDF;GEN;MASC;PL	_	_	_	_
+11	Tolerancijos	tolerancija	_	_	SG;GEN;FEM;N	_	_	_	_
+12	žmogumi	žmogus	_	_	MASC;SG;INS;N	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# newpar id = 148
+# sent_id = 148
+# text = Kada Vilnija grįžo Lietuvai, daugelis tenykščių gyventojų dar nesunkiai galėjo pakrypti Lietuvos pusėn.
+1	Kada	kada	_	_	ADV	_	_	_	_
+2	Vilnija	Vilnija	_	_	NOM;PROPN;SG;FEM	_	_	_	_
+3	grįžo	grįžti	_	_	IND;3;POS;V;PST;ACT;FIN;SG	_	_	_	_
+4	Lietuvai	Lietuva	_	_	PROPN;SG;DAT;FEM	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	daugelis	daugelis	_	_	NOM;SG;MASC;N	_	_	_	_
+7	tenykščių	tenykštis	_	_	INDF;ADJ;PL;MASC;GEN	_	_	_	_
+8	gyventojų	gyventojas	_	_	MASC;PL;N;GEN	_	_	_	_
+9	dar	dar	_	_	ADV	_	_	_	_
+10	nesunkiai	nesunkiai	_	_	NEG;ADV	_	_	_	_
+11	galėjo	galėti	_	_	IND;3;POS;V;PST;ACT;FIN;SG	_	_	_	_
+12	pakrypti	pakrypti	_	_	POS;V;ACT;NFIN	_	_	_	_
+13	Lietuvos	Lietuva	_	_	PROPN;SG;FEM;GEN	_	_	_	_
+14	pusėn	pusėn	_	_	N	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+

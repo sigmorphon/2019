@@ -1,0 +1,2376 @@
+# sent_id = n01003012
+# text = The gathering was originally slated for Washington’s private Metropolitan Club on H Street a few blocks away.
+1	The	the	_	_	DET;DEF	_	_	_	_
+2	gathering	gathering	_	_	N;SG	_	_	_	_
+3	was	be	_	_	3;FIN;V;IND;PST;SG	_	_	_	_
+4	originally	originally	_	_	ADV	_	_	_	_
+5	slated	slate	_	_	PST;V.PTCP;V	_	_	_	_
+6	for	for	_	_	ADP	_	_	_	_
+7	Washington	Washington	_	_	SG;PROPN	_	_	_	_
+8	’s	’s	_	_	PART	_	_	_	_
+9	private	private	_	_	ADJ	_	_	_	_
+10	Metropolitan	metropolitan	_	_	ADJ	_	_	_	_
+11	Club	club	_	_	N;SG	_	_	_	_
+12	on	on	_	_	ADP	_	_	_	_
+13	H	h	_	_	SG;PROPN	_	_	_	_
+14	Street	street	_	_	SG;PROPN	_	_	_	_
+15	a	a	_	_	DET;INDF	_	_	_	_
+16	few	few	_	_	ADJ	_	_	_	_
+17	blocks	block	_	_	N;PL	_	_	_	_
+18	away	away	_	_	ADV	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# sent_id = n03006028
+# text = The Force Ouvrière union regrets that its remarks on the content of the guide were not included: "There wasn't really any consultation," said Ms. Gillard.
+1	The	the	_	_	DET;DEF	_	_	_	_
+2	Force	force	_	_	_	_	_	_	_
+3	Ouvrière	ouvrière	_	_	_	_	_	_	_
+4	union	union	_	_	N;SG	_	_	_	_
+5	regrets	regret	_	_	PRS;3;FIN;IND;V;SG	_	_	_	_
+6	that	that	_	_	CONJ	_	_	_	_
+7	its	its	_	_	NEUT;3;PRO;SG	_	_	_	_
+8	remarks	remark	_	_	N;PL	_	_	_	_
+9	on	on	_	_	ADP	_	_	_	_
+10	the	the	_	_	DET;DEF	_	_	_	_
+11	content	content	_	_	N;SG	_	_	_	_
+12	of	of	_	_	ADP	_	_	_	_
+13	the	the	_	_	DET;DEF	_	_	_	_
+14	guide	guide	_	_	N;SG	_	_	_	_
+15	were	be	_	_	PST;IND;FIN;V	_	_	_	_
+16	not	not	_	_	PART;NEG	_	_	_	_
+17	included	include	_	_	PST;V.PTCP;V	_	_	_	_
+18	:	:	_	_	_	_	_	_	_
+19	"	"	_	_	_	_	_	_	_
+20	There	there	_	_	PRO	_	_	_	_
+21	was	be	_	_	3;FIN;V;IND;PST;SG	_	_	_	_
+22	n't	not	_	_	NEG;ADV	_	_	_	_
+23	really	really	_	_	ADV	_	_	_	_
+24	any	any	_	_	DET	_	_	_	_
+25	consultation	consultation	_	_	N;SG	_	_	_	_
+26	,	,	_	_	_	_	_	_	_
+27	"	"	_	_	_	_	_	_	_
+28	said	say	_	_	PST;IND;FIN;V	_	_	_	_
+29	Ms.	ms.	_	_	SG;PROPN	_	_	_	_
+30	Gillard	Gillard	_	_	SG;PROPN	_	_	_	_
+31	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01051080
+# text = Indeed, the first scholarly report on the battle, by James Henry Breasted in 1903, praised the sources that allowed the reconstruction the battle with certainty.
+1	Indeed	indeed	_	_	ADV	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	the	the	_	_	DET;DEF	_	_	_	_
+4	first	first	_	_	ADJ	_	_	_	_
+5	scholarly	scholarly	_	_	ADJ	_	_	_	_
+6	report	report	_	_	N;SG	_	_	_	_
+7	on	on	_	_	ADP	_	_	_	_
+8	the	the	_	_	DET;DEF	_	_	_	_
+9	battle	battle	_	_	N;SG	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	by	by	_	_	ADP	_	_	_	_
+12	James	James	_	_	SG;PROPN	_	_	_	_
+13	Henry	Henry	_	_	SG;PROPN	_	_	_	_
+14	Breasted	Breasted	_	_	SG;PROPN	_	_	_	_
+15	in	in	_	_	ADP	_	_	_	_
+16	1903	1903	_	_	NUM	_	_	_	_
+17	,	,	_	_	_	_	_	_	_
+18	praised	praise	_	_	PST;IND;FIN;V	_	_	_	_
+19	the	the	_	_	DET;DEF	_	_	_	_
+20	sources	source	_	_	N;PL	_	_	_	_
+21	that	that	_	_	PRO	_	_	_	_
+22	allowed	allow	_	_	PST;IND;FIN;V	_	_	_	_
+23	the	the	_	_	DET;DEF	_	_	_	_
+24	reconstruction	reconstruction	_	_	N;SG	_	_	_	_
+25	the	the	_	_	DET;DEF	_	_	_	_
+26	battle	battle	_	_	N;SG	_	_	_	_
+27	with	with	_	_	ADP	_	_	_	_
+28	certainty	certainty	_	_	N;SG	_	_	_	_
+29	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01112
+# sent_id = w01112060
+# text = Disney also found out that Universal owned the intellectual property rights to Oswald.
+1	Disney	Disney	_	_	SG;PROPN	_	_	_	_
+2	also	also	_	_	ADV	_	_	_	_
+3	found	find	_	_	PST;IND;FIN;V	_	_	_	_
+4	out	out	_	_	ADP	_	_	_	_
+5	that	that	_	_	CONJ	_	_	_	_
+6	Universal	universal	_	_	SG;PROPN	_	_	_	_
+7	owned	own	_	_	PST;IND;FIN;V	_	_	_	_
+8	the	the	_	_	DET;DEF	_	_	_	_
+9	intellectual	intellectual	_	_	ADJ	_	_	_	_
+10	property	property	_	_	N;SG	_	_	_	_
+11	rights	rights	_	_	N;PL	_	_	_	_
+12	to	to	_	_	ADP	_	_	_	_
+13	Oswald	Oswald	_	_	SG;PROPN	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01002042
+# text = The new spending is fueled by Clinton’s large bank account.
+1	The	the	_	_	DET;DEF	_	_	_	_
+2	new	new	_	_	ADJ	_	_	_	_
+3	spending	spending	_	_	N;SG	_	_	_	_
+4	is	be	_	_	PRS;3;FIN;V;IND;SG	_	_	_	_
+5	fueled	fuel	_	_	PST;V.PTCP;V	_	_	_	_
+6	by	by	_	_	ADP	_	_	_	_
+7	Clinton	Clinton	_	_	SG;PROPN	_	_	_	_
+8	’s	’s	_	_	PART	_	_	_	_
+9	large	large	_	_	ADJ	_	_	_	_
+10	bank	bank	_	_	N;SG	_	_	_	_
+11	account	account	_	_	N;SG	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01149
+# sent_id = w01149002
+# text = Wright was born in Poole, Dorset, but grew up predominantly in Wells, Somerset.
+1	Wright	Wright	_	_	SG;PROPN	_	_	_	_
+2	was	be	_	_	3;FIN;V;IND;PST;SG	_	_	_	_
+3	born	bear	_	_	PST;V.PTCP;V	_	_	_	_
+4	in	in	_	_	ADP	_	_	_	_
+5	Poole	Poole	_	_	SG;PROPN	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	Dorset	Dorset	_	_	SG;PROPN	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	but	but	_	_	CONJ	_	_	_	_
+10	grew	grow	_	_	PST;IND;FIN;V	_	_	_	_
+11	up	up	_	_	ADP	_	_	_	_
+12	predominantly	predominantly	_	_	ADV	_	_	_	_
+13	in	in	_	_	ADP	_	_	_	_
+14	Wells	Wells	_	_	SG;PROPN	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	Somerset	Somerset	_	_	SG;PROPN	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n05003
+# sent_id = n05003006
+# text = The Minister of Defense has allowed her to remain General Secretary of the party for now.
+1	The	the	_	_	DET;DEF	_	_	_	_
+2	Minister	minister	_	_	N;SG	_	_	_	_
+3	of	of	_	_	ADP	_	_	_	_
+4	Defense	defense	_	_	N;SG	_	_	_	_
+5	has	have	_	_	PRS;3;FIN;V;IND;SG	_	_	_	_
+6	allowed	allow	_	_	PST;V.PTCP;V	_	_	_	_
+7	her	she	_	_	3;ACC;FEM;PRO;SG	_	_	_	_
+8	to	to	_	_	PART	_	_	_	_
+9	remain	remain	_	_	NFIN;V	_	_	_	_
+10	General	general	_	_	ADJ	_	_	_	_
+11	Secretary	secretary	_	_	N;SG	_	_	_	_
+12	of	of	_	_	ADP	_	_	_	_
+13	the	the	_	_	DET;DEF	_	_	_	_
+14	party	party	_	_	N;SG	_	_	_	_
+15	for	for	_	_	ADP	_	_	_	_
+16	now	now	_	_	ADV	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01105013
+# text = But right now everything is out of kilter and he seems to be seeking answers all the time.
+1	But	but	_	_	CONJ	_	_	_	_
+2	right	right	_	_	ADV	_	_	_	_
+3	now	now	_	_	ADV	_	_	_	_
+4	everything	everything	_	_	N;SG	_	_	_	_
+5	is	be	_	_	PRS;3;FIN;V;IND;SG	_	_	_	_
+6	out	out	_	_	ADP	_	_	_	_
+7	of	of	_	_	ADP	_	_	_	_
+8	kilter	kilter	_	_	N;SG	_	_	_	_
+9	and	and	_	_	CONJ	_	_	_	_
+10	he	he	_	_	MASC;3;NOM;PRO;SG	_	_	_	_
+11	seems	seem	_	_	PRS;3;FIN;IND;V;SG	_	_	_	_
+12	to	to	_	_	PART	_	_	_	_
+13	be	be	_	_	V;NFIN	_	_	_	_
+14	seeking	seek	_	_	PRS;V.PTCP;V	_	_	_	_
+15	answers	answer	_	_	N;PL	_	_	_	_
+16	all	all	_	_	DET	_	_	_	_
+17	the	the	_	_	DET;DEF	_	_	_	_
+18	time	time	_	_	N;SG	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01144086
+# text = Reagan believed that God had spared his life so that he might go on to fulfill a greater purpose.
+1	Reagan	Reagan	_	_	SG;PROPN	_	_	_	_
+2	believed	believe	_	_	PST;IND;FIN;V	_	_	_	_
+3	that	that	_	_	CONJ	_	_	_	_
+4	God	god	_	_	SG;PROPN	_	_	_	_
+5	had	have	_	_	PST;IND;FIN;V	_	_	_	_
+6	spared	spare	_	_	PST;V.PTCP;V	_	_	_	_
+7	his	he	_	_	MASC;3;PRO;SG	_	_	_	_
+8	life	life	_	_	N;SG	_	_	_	_
+9	so	so	_	_	CONJ	_	_	_	_
+10	that	that	_	_	CONJ	_	_	_	_
+11	he	he	_	_	MASC;3;NOM;PRO;SG	_	_	_	_
+12	might	might	_	_	FIN;V	_	_	_	_
+13	go	go	_	_	NFIN;V	_	_	_	_
+14	on	on	_	_	ADV	_	_	_	_
+15	to	to	_	_	PART	_	_	_	_
+16	fulfill	fulfill	_	_	NFIN;V	_	_	_	_
+17	a	a	_	_	DET;INDF	_	_	_	_
+18	greater	greater	_	_	CMPR;ADJ	_	_	_	_
+19	purpose	purpose	_	_	N;SG	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# sent_id = w03002055
+# text = Amnesty International cites newspaper articles from 2008 describing the murder of fifty people accused of witchcraft.
+1	Amnesty	amnesty	_	_	SG;PROPN	_	_	_	_
+2	International	international	_	_	SG;PROPN	_	_	_	_
+3	cites	cite	_	_	PRS;3;FIN;IND;V;SG	_	_	_	_
+4	newspaper	newspaper	_	_	N;SG	_	_	_	_
+5	articles	article	_	_	N;PL	_	_	_	_
+6	from	from	_	_	ADP	_	_	_	_
+7	2008	2008	_	_	NUM	_	_	_	_
+8	describing	describe	_	_	V.MSDR;V	_	_	_	_
+9	the	the	_	_	DET;DEF	_	_	_	_
+10	murder	murder	_	_	N;SG	_	_	_	_
+11	of	of	_	_	ADP	_	_	_	_
+12	fifty	fifty	_	_	NUM	_	_	_	_
+13	people	people	_	_	N;PL	_	_	_	_
+14	accused	accuse	_	_	PST;V.PTCP;V	_	_	_	_
+15	of	of	_	_	ADP	_	_	_	_
+16	witchcraft	witchcraft	_	_	N;SG	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = n05002023
+# text = Furthermore, the Government will have to deal with another "hot potato".
+1	Furthermore	furthermore	_	_	ADV	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	the	the	_	_	DET;DEF	_	_	_	_
+4	Government	government	_	_	N;SG	_	_	_	_
+5	will	will	_	_	FIN;V	_	_	_	_
+6	have	have	_	_	NFIN;V	_	_	_	_
+7	to	to	_	_	PART	_	_	_	_
+8	deal	deal	_	_	NFIN;V	_	_	_	_
+9	with	with	_	_	ADP	_	_	_	_
+10	another	another	_	_	DET	_	_	_	_
+11	"	"	_	_	_	_	_	_	_
+12	hot	hot	_	_	ADJ	_	_	_	_
+13	potato	potato	_	_	N;SG	_	_	_	_
+14	"	"	_	_	_	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01125037
+# text = George was appalled by what he saw as their loose morals.
+1	George	George	_	_	SG;PROPN	_	_	_	_
+2	was	be	_	_	3;FIN;IND;V;PST;SG	_	_	_	_
+3	appalled	appal	_	_	PST;V.PTCP;V	_	_	_	_
+4	by	by	_	_	ADP	_	_	_	_
+5	what	what	_	_	PRO	_	_	_	_
+6	he	he	_	_	MASC;3;NOM;PRO;SG	_	_	_	_
+7	saw	see	_	_	PST;IND;FIN;V	_	_	_	_
+8	as	as	_	_	ADP	_	_	_	_
+9	their	they	_	_	PL;3;PRO	_	_	_	_
+10	loose	loose	_	_	ADJ	_	_	_	_
+11	morals	moral	_	_	N;PL	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01047071
+# text = She also took advantage of her personal connections with many government scientists, who supplied her with confidential information.
+1	She	she	_	_	3;FEM;NOM;PRO;SG	_	_	_	_
+2	also	also	_	_	ADV	_	_	_	_
+3	took	take	_	_	PST;IND;FIN;V	_	_	_	_
+4	advantage	advantage	_	_	N;SG	_	_	_	_
+5	of	of	_	_	ADP	_	_	_	_
+6	her	she	_	_	3;FEM;PRO;SG	_	_	_	_
+7	personal	personal	_	_	ADJ	_	_	_	_
+8	connections	connection	_	_	N;PL	_	_	_	_
+9	with	with	_	_	ADP	_	_	_	_
+10	many	many	_	_	ADJ	_	_	_	_
+11	government	government	_	_	N;SG	_	_	_	_
+12	scientists	scientist	_	_	N;PL	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	who	who	_	_	PRO	_	_	_	_
+15	supplied	supply	_	_	PST;IND;FIN;V	_	_	_	_
+16	her	she	_	_	3;ACC;FEM;PRO;SG	_	_	_	_
+17	with	with	_	_	ADP	_	_	_	_
+18	confidential	confidential	_	_	ADJ	_	_	_	_
+19	information	information	_	_	N;SG	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01003013
+# text = Maybe the dress code was too stuffy.
+1	Maybe	maybe	_	_	ADV	_	_	_	_
+2	the	the	_	_	DET;DEF	_	_	_	_
+3	dress	dress	_	_	N;SG	_	_	_	_
+4	code	code	_	_	N;SG	_	_	_	_
+5	was	be	_	_	3;FIN;V;IND;PST;SG	_	_	_	_
+6	too	too	_	_	ADV	_	_	_	_
+7	stuffy	stuffy	_	_	ADJ	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01075044
+# text = Australia, hardened by their recent games in the Rugby Championship, were in a higher gear.
+1	Australia	Australia	_	_	SG;PROPN	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	hardened	harden	_	_	PST;V.PTCP;V	_	_	_	_
+4	by	by	_	_	ADP	_	_	_	_
+5	their	they	_	_	PL;3;PRO	_	_	_	_
+6	recent	recent	_	_	ADJ	_	_	_	_
+7	games	game	_	_	N;PL	_	_	_	_
+8	in	in	_	_	ADP	_	_	_	_
+9	the	the	_	_	DET;DEF	_	_	_	_
+10	Rugby	rugby	_	_	N;SG	_	_	_	_
+11	Championship	championship	_	_	N;SG	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	were	be	_	_	PST;IND;FIN;V	_	_	_	_
+14	in	in	_	_	ADP	_	_	_	_
+15	a	a	_	_	DET;INDF	_	_	_	_
+16	higher	higher	_	_	CMPR;ADJ	_	_	_	_
+17	gear	gear	_	_	N;SG	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n04006
+# sent_id = n04006003
+# text = From the 1st of January there will be an increase in petrol and diesel.
+1	From	from	_	_	ADP	_	_	_	_
+2	the	the	_	_	DET;DEF	_	_	_	_
+3	1st	1st	_	_	N;SG	_	_	_	_
+4	of	of	_	_	ADP	_	_	_	_
+5	January	January	_	_	SG;PROPN	_	_	_	_
+6	there	there	_	_	PRO	_	_	_	_
+7	will	will	_	_	FIN;V	_	_	_	_
+8	be	be	_	_	V;NFIN	_	_	_	_
+9	an	a	_	_	DET;INDF	_	_	_	_
+10	increase	increase	_	_	N;SG	_	_	_	_
+11	in	in	_	_	ADP	_	_	_	_
+12	petrol	petrol	_	_	N;SG	_	_	_	_
+13	and	and	_	_	CONJ	_	_	_	_
+14	diesel	diesel	_	_	N;SG	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01138026
+# text = New episodes are followed by after show, "The Talking Dead."
+1	New	new	_	_	ADJ	_	_	_	_
+2	episodes	episode	_	_	N;PL	_	_	_	_
+3	are	be	_	_	IND;PRS;FIN;V	_	_	_	_
+4	followed	follow	_	_	PST;V.PTCP;V	_	_	_	_
+5	by	by	_	_	ADP	_	_	_	_
+6	after	after	_	_	ADP	_	_	_	_
+7	show	show	_	_	N;SG	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	"	"	_	_	_	_	_	_	_
+10	The	the	_	_	DET;DEF	_	_	_	_
+11	Talking	talk	_	_	V.MSDR;V	_	_	_	_
+12	Dead	dead	_	_	N;SG	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+14	"	"	_	_	_	_	_	_	_
+
+# sent_id = w01117034
+# text = She found the transition to fiction easy, explaining, "Every book is a learning curve, and you have to keep an open mind."
+1	She	she	_	_	3;FEM;NOM;PRO;SG	_	_	_	_
+2	found	find	_	_	PST;IND;FIN;V	_	_	_	_
+3	the	the	_	_	DET;DEF	_	_	_	_
+4	transition	transition	_	_	N;SG	_	_	_	_
+5	to	to	_	_	ADP	_	_	_	_
+6	fiction	fiction	_	_	N;SG	_	_	_	_
+7	easy	easy	_	_	ADJ	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	explaining	explain	_	_	V.MSDR;V	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	"	"	_	_	_	_	_	_	_
+12	Every	every	_	_	DET	_	_	_	_
+13	book	book	_	_	N;SG	_	_	_	_
+14	is	be	_	_	PRS;3;FIN;V;IND;SG	_	_	_	_
+15	a	a	_	_	DET;INDF	_	_	_	_
+16	learning	learning	_	_	N;SG	_	_	_	_
+17	curve	curve	_	_	N;SG	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	and	and	_	_	CONJ	_	_	_	_
+20	you	you	_	_	2;PRO;NOM	_	_	_	_
+21	have	have	_	_	IND;PRS;FIN;V	_	_	_	_
+22	to	to	_	_	PART	_	_	_	_
+23	keep	keep	_	_	NFIN;V	_	_	_	_
+24	an	a	_	_	DET;INDF	_	_	_	_
+25	open	open	_	_	ADJ	_	_	_	_
+26	mind	mind	_	_	N;SG	_	_	_	_
+27	.	.	_	_	_	_	_	_	_
+28	"	"	_	_	_	_	_	_	_
+
+# sent_id = w01150047
+# text = After it became obvious that Ottoman Empire would lose all of Macedonia and its territorial connection with Albania, the Great Powers realized they had to change their decision.
+1	After	after	_	_	CONJ	_	_	_	_
+2	it	it	_	_	NEUT;3;NOM;PRO;SG	_	_	_	_
+3	became	become	_	_	PST;IND;FIN;V	_	_	_	_
+4	obvious	obvious	_	_	ADJ	_	_	_	_
+5	that	that	_	_	CONJ	_	_	_	_
+6	Ottoman	Ottoman	_	_	SG;PROPN	_	_	_	_
+7	Empire	empire	_	_	SG;PROPN	_	_	_	_
+8	would	would	_	_	FIN;V	_	_	_	_
+9	lose	lose	_	_	NFIN;V	_	_	_	_
+10	all	all	_	_	DET	_	_	_	_
+11	of	of	_	_	ADP	_	_	_	_
+12	Macedonia	Macedonia	_	_	SG;PROPN	_	_	_	_
+13	and	and	_	_	CONJ	_	_	_	_
+14	its	its	_	_	NEUT;3;PRO;SG	_	_	_	_
+15	territorial	territorial	_	_	ADJ	_	_	_	_
+16	connection	connection	_	_	N;SG	_	_	_	_
+17	with	with	_	_	ADP	_	_	_	_
+18	Albania	Albania	_	_	SG;PROPN	_	_	_	_
+19	,	,	_	_	_	_	_	_	_
+20	the	the	_	_	DET;DEF	_	_	_	_
+21	Great	great	_	_	ADJ	_	_	_	_
+22	Powers	power	_	_	PL;PROPN	_	_	_	_
+23	realized	realize	_	_	PST;IND;FIN;V	_	_	_	_
+24	they	they	_	_	PL;3;NOM;PRO	_	_	_	_
+25	had	have	_	_	PST;IND;FIN;V	_	_	_	_
+26	to	to	_	_	PART	_	_	_	_
+27	change	change	_	_	NFIN;V	_	_	_	_
+28	their	they	_	_	PL;3;PRO	_	_	_	_
+29	decision	decision	_	_	N;SG	_	_	_	_
+30	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01068038
+# text = His skill in getting answers for taxpayers will be sorely missed.
+1	His	he	_	_	MASC;3;PRO;SG	_	_	_	_
+2	skill	skill	_	_	N;SG	_	_	_	_
+3	in	in	_	_	CONJ	_	_	_	_
+4	getting	get	_	_	V.MSDR;V	_	_	_	_
+5	answers	answer	_	_	N;PL	_	_	_	_
+6	for	for	_	_	ADP	_	_	_	_
+7	taxpayers	taxpayer	_	_	N;PL	_	_	_	_
+8	will	will	_	_	FIN;V	_	_	_	_
+9	be	be	_	_	V;NFIN	_	_	_	_
+10	sorely	sorely	_	_	ADV	_	_	_	_
+11	missed	miss	_	_	PST;V.PTCP;V	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01136006
+# text = As the movie makes clear, the Lovings -- and Richard in particular -- were reluctant participants in history.
+1	As	as	_	_	CONJ	_	_	_	_
+2	the	the	_	_	DET;DEF	_	_	_	_
+3	movie	movie	_	_	N;SG	_	_	_	_
+4	makes	make	_	_	PRS;3;FIN;IND;V;SG	_	_	_	_
+5	clear	clear	_	_	ADJ	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	the	the	_	_	DET;DEF	_	_	_	_
+8	Lovings	Lovings	_	_	PL;PROPN	_	_	_	_
+9	--	--	_	_	_	_	_	_	_
+10	and	and	_	_	CONJ	_	_	_	_
+11	Richard	Richard	_	_	SG;PROPN	_	_	_	_
+12	in	in	_	_	ADP	_	_	_	_
+13	particular	particular	_	_	ADJ	_	_	_	_
+14	--	--	_	_	_	_	_	_	_
+15	were	be	_	_	PST;IND;FIN;V	_	_	_	_
+16	reluctant	reluctant	_	_	ADJ	_	_	_	_
+17	participants	participant	_	_	N;PL	_	_	_	_
+18	in	in	_	_	ADP	_	_	_	_
+19	history	history	_	_	N;SG	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01049082
+# text = First and foremost was the provision of open space for the benefit of townspeople and local residents within an area that was being rapidly built up.
+1	First	first	_	_	ADV	_	_	_	_
+2	and	and	_	_	CONJ	_	_	_	_
+3	foremost	foremost	_	_	ADV	_	_	_	_
+4	was	be	_	_	3;FIN;V;IND;PST;SG	_	_	_	_
+5	the	the	_	_	DET;DEF	_	_	_	_
+6	provision	provision	_	_	N;SG	_	_	_	_
+7	of	of	_	_	ADP	_	_	_	_
+8	open	open	_	_	ADJ	_	_	_	_
+9	space	space	_	_	N;SG	_	_	_	_
+10	for	for	_	_	ADP	_	_	_	_
+11	the	the	_	_	DET;DEF	_	_	_	_
+12	benefit	benefit	_	_	N;SG	_	_	_	_
+13	of	of	_	_	ADP	_	_	_	_
+14	townspeople	townspeople	_	_	N;PL	_	_	_	_
+15	and	and	_	_	CONJ	_	_	_	_
+16	local	local	_	_	ADJ	_	_	_	_
+17	residents	resident	_	_	N;PL	_	_	_	_
+18	within	within	_	_	ADP	_	_	_	_
+19	an	a	_	_	DET;INDF	_	_	_	_
+20	area	area	_	_	N;SG	_	_	_	_
+21	that	that	_	_	PRO	_	_	_	_
+22	was	be	_	_	3;FIN;V;IND;PST;SG	_	_	_	_
+23	being	be	_	_	V.MSDR;V	_	_	_	_
+24	rapidly	rapidly	_	_	ADV	_	_	_	_
+25	built	build	_	_	PST;V.PTCP;V	_	_	_	_
+26	up	up	_	_	ADP	_	_	_	_
+27	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01004
+# sent_id = w01004051
+# text = The Greek city-state of Athens in the 5th century BC, which was dependent on grain imports from Scythia, maintained critical alliances with cities which controlled the straits, such as the Megarian colony Byzantium.
+1	The	the	_	_	DET;DEF	_	_	_	_
+2	Greek	greek	_	_	ADJ	_	_	_	_
+3	city	city	_	_	N;SG	_	_	_	_
+4	-	-	_	_	_	_	_	_	_
+5	state	state	_	_	N;SG	_	_	_	_
+6	of	of	_	_	ADP	_	_	_	_
+7	Athens	Athens	_	_	SG;PROPN	_	_	_	_
+8	in	in	_	_	ADP	_	_	_	_
+9	the	the	_	_	DET;DEF	_	_	_	_
+10	5th	5th	_	_	ADJ	_	_	_	_
+11	century	century	_	_	N;SG	_	_	_	_
+12	BC	bc	_	_	N;SG	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	which	which	_	_	PRO	_	_	_	_
+15	was	be	_	_	3;FIN;V;IND;PST;SG	_	_	_	_
+16	dependent	dependent	_	_	ADJ	_	_	_	_
+17	on	on	_	_	ADP	_	_	_	_
+18	grain	grain	_	_	N;SG	_	_	_	_
+19	imports	import	_	_	N;PL	_	_	_	_
+20	from	from	_	_	ADP	_	_	_	_
+21	Scythia	Scythia	_	_	SG;PROPN	_	_	_	_
+22	,	,	_	_	_	_	_	_	_
+23	maintained	maintain	_	_	PST;IND;FIN;V	_	_	_	_
+24	critical	critical	_	_	ADJ	_	_	_	_
+25	alliances	alliance	_	_	N;PL	_	_	_	_
+26	with	with	_	_	ADP	_	_	_	_
+27	cities	city	_	_	N;PL	_	_	_	_
+28	which	which	_	_	PRO	_	_	_	_
+29	controlled	control	_	_	PST;IND;FIN;V	_	_	_	_
+30	the	the	_	_	DET;DEF	_	_	_	_
+31	straits	strait	_	_	N;PL	_	_	_	_
+32	,	,	_	_	_	_	_	_	_
+33	such	such	_	_	ADJ	_	_	_	_
+34	as	as	_	_	ADP	_	_	_	_
+35	the	the	_	_	DET;DEF	_	_	_	_
+36	Megarian	megarian	_	_	ADJ	_	_	_	_
+37	colony	colony	_	_	N;SG	_	_	_	_
+38	Byzantium	Byzantium	_	_	SG;PROPN	_	_	_	_
+39	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01092
+# sent_id = n01092008
+# text = Let’s just say he’s wrong.
+1	Let	let	_	_	NFIN;V	_	_	_	_
+2	’s	’s	_	_	PRO	_	_	_	_
+3	just	just	_	_	ADV	_	_	_	_
+4	say	say	_	_	IND;PRS;FIN;V	_	_	_	_
+5	he	he	_	_	MASC;3;NOM;PRO;SG	_	_	_	_
+6	’s	’s	_	_	PRS;3;FIN;V;IND;SG	_	_	_	_
+7	wrong	wrong	_	_	ADJ	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01133016
+# text = Concurrently in the mid-1970s, Starlin contributed a cache of stories to the independently published science-fiction anthology Star Reach.
+1	Concurrently	concurrently	_	_	ADV	_	_	_	_
+2	in	in	_	_	ADP	_	_	_	_
+3	the	the	_	_	DET;DEF	_	_	_	_
+4	mid-1970s	mid-1970	_	_	N;PL	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	Starlin	Starlin	_	_	SG;PROPN	_	_	_	_
+7	contributed	contribute	_	_	PST;IND;FIN;V	_	_	_	_
+8	a	a	_	_	DET;INDF	_	_	_	_
+9	cache	cache	_	_	N;SG	_	_	_	_
+10	of	of	_	_	ADP	_	_	_	_
+11	stories	story	_	_	N;PL	_	_	_	_
+12	to	to	_	_	ADP	_	_	_	_
+13	the	the	_	_	DET;DEF	_	_	_	_
+14	independently	independently	_	_	ADV	_	_	_	_
+15	published	publish	_	_	PST;V.PTCP;V	_	_	_	_
+16	science	science	_	_	N;SG	_	_	_	_
+17	-	-	_	_	_	_	_	_	_
+18	fiction	fiction	_	_	N;SG	_	_	_	_
+19	anthology	anthology	_	_	N;SG	_	_	_	_
+20	Star	star	_	_	N;SG	_	_	_	_
+21	Reach	reach	_	_	N;SG	_	_	_	_
+22	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01017
+# sent_id = w01017004
+# text = Shaped by global plate tectonic forces that have created the East African Rift, East Africa is the site of Mount Kilimanjaro and Mount Kenya, the two tallest peaks in Africa.
+1	Shaped	shape	_	_	PST;V.PTCP;V	_	_	_	_
+2	by	by	_	_	ADP	_	_	_	_
+3	global	global	_	_	ADJ	_	_	_	_
+4	plate	plate	_	_	N;SG	_	_	_	_
+5	tectonic	tectonic	_	_	ADJ	_	_	_	_
+6	forces	force	_	_	N;PL	_	_	_	_
+7	that	that	_	_	PRO	_	_	_	_
+8	have	have	_	_	IND;PRS;FIN;V	_	_	_	_
+9	created	create	_	_	PST;V.PTCP;V	_	_	_	_
+10	the	the	_	_	DET;DEF	_	_	_	_
+11	East	east	_	_	ADJ	_	_	_	_
+12	African	african	_	_	ADJ	_	_	_	_
+13	Rift	rift	_	_	SG;PROPN	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	East	East	_	_	SG;PROPN	_	_	_	_
+16	Africa	Africa	_	_	SG;PROPN	_	_	_	_
+17	is	be	_	_	PRS;3;FIN;V;IND;SG	_	_	_	_
+18	the	the	_	_	DET;DEF	_	_	_	_
+19	site	site	_	_	N;SG	_	_	_	_
+20	of	of	_	_	ADP	_	_	_	_
+21	Mount	mount	_	_	SG;PROPN	_	_	_	_
+22	Kilimanjaro	Kilimanjaro	_	_	SG;PROPN	_	_	_	_
+23	and	and	_	_	CONJ	_	_	_	_
+24	Mount	mount	_	_	SG;PROPN	_	_	_	_
+25	Kenya	Kenya	_	_	SG;PROPN	_	_	_	_
+26	,	,	_	_	_	_	_	_	_
+27	the	the	_	_	DET;DEF	_	_	_	_
+28	two	two	_	_	NUM	_	_	_	_
+29	tallest	tallest	_	_	RL;ADJ	_	_	_	_
+30	peaks	peak	_	_	N;PL	_	_	_	_
+31	in	in	_	_	ADP	_	_	_	_
+32	Africa	Africa	_	_	SG;PROPN	_	_	_	_
+33	.	.	_	_	_	_	_	_	_
+
+# sent_id = n03007011
+# text = The working time undertaken in this first hour is more or less equal to 45 minutes.
+1	The	the	_	_	DET;DEF	_	_	_	_
+2	working	working	_	_	SG;V	_	_	_	_
+3	time	time	_	_	N;SG	_	_	_	_
+4	undertaken	undertake	_	_	PST;V.PTCP;V	_	_	_	_
+5	in	in	_	_	ADP	_	_	_	_
+6	this	this	_	_	DET;SG	_	_	_	_
+7	first	first	_	_	ADJ	_	_	_	_
+8	hour	hour	_	_	N;SG	_	_	_	_
+9	is	be	_	_	PRS;3;FIN;V;IND;SG	_	_	_	_
+10	more	more	_	_	ADV	_	_	_	_
+11	or	or	_	_	CONJ	_	_	_	_
+12	less	less	_	_	CMPR;ADV	_	_	_	_
+13	equal	equal	_	_	ADJ	_	_	_	_
+14	to	to	_	_	ADP	_	_	_	_
+15	45	45	_	_	NUM	_	_	_	_
+16	minutes	minute	_	_	N;PL	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01073075
+# text = By this time, he had been increasingly thinking about the future.
+1	By	by	_	_	ADP	_	_	_	_
+2	this	this	_	_	DET;SG	_	_	_	_
+3	time	time	_	_	N;SG	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	he	he	_	_	MASC;3;NOM;PRO;SG	_	_	_	_
+6	had	have	_	_	PST;IND;FIN;V	_	_	_	_
+7	been	be	_	_	PST;V.PTCP;V	_	_	_	_
+8	increasingly	increasingly	_	_	ADV	_	_	_	_
+9	thinking	think	_	_	PRS;V.PTCP;V	_	_	_	_
+10	about	about	_	_	ADP	_	_	_	_
+11	the	the	_	_	DET;DEF	_	_	_	_
+12	future	future	_	_	N;SG	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01033
+# sent_id = n01033005
+# text = Researchers say analysing tumour DNA may help explain the underlying causes of other cancers.
+1	Researchers	researcher	_	_	N;PL	_	_	_	_
+2	say	say	_	_	IND;PRS;FIN;V	_	_	_	_
+3	analysing	analyse	_	_	V.MSDR;V	_	_	_	_
+4	tumour	tumour	_	_	N;SG	_	_	_	_
+5	DNA	dna	_	_	N;SG	_	_	_	_
+6	may	may	_	_	FIN;V	_	_	_	_
+7	help	help	_	_	NFIN;V	_	_	_	_
+8	explain	explain	_	_	NFIN;V	_	_	_	_
+9	the	the	_	_	DET;DEF	_	_	_	_
+10	underlying	underlying	_	_	ADJ	_	_	_	_
+11	causes	cause	_	_	N;PL	_	_	_	_
+12	of	of	_	_	ADP	_	_	_	_
+13	other	other	_	_	ADJ	_	_	_	_
+14	cancers	cancer	_	_	N;PL	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01135036
+# text = Also that year, she briefly appeared in Disney's The Muppets, as Miss Piggy's receptionist.
+1	Also	also	_	_	ADV	_	_	_	_
+2	that	that	_	_	DET;SG	_	_	_	_
+3	year	year	_	_	N;SG	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	she	she	_	_	3;FEM;NOM;PRO;SG	_	_	_	_
+6	briefly	briefly	_	_	ADV	_	_	_	_
+7	appeared	appear	_	_	PST;IND;FIN;V	_	_	_	_
+8	in	in	_	_	ADP	_	_	_	_
+9	Disney	Disney	_	_	SG;PROPN	_	_	_	_
+10	's	's	_	_	PART	_	_	_	_
+11	The	the	_	_	DET;DEF	_	_	_	_
+12	Muppets	Muppets	_	_	PL;PROPN	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	as	as	_	_	ADP	_	_	_	_
+15	Miss	miss	_	_	SG;PROPN	_	_	_	_
+16	Piggy	Piggy	_	_	SG;PROPN	_	_	_	_
+17	's	's	_	_	PART	_	_	_	_
+18	receptionist	receptionist	_	_	N;SG	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01001
+# sent_id = w01001049
+# text = The charter allowed for the creation of a merchants' guild, run by the town's burgesses to tax people passing through the borough.
+1	The	the	_	_	DET;DEF	_	_	_	_
+2	charter	charter	_	_	N;SG	_	_	_	_
+3	allowed	allow	_	_	PST;IND;FIN;V	_	_	_	_
+4	for	for	_	_	ADP	_	_	_	_
+5	the	the	_	_	DET;DEF	_	_	_	_
+6	creation	creation	_	_	N;SG	_	_	_	_
+7	of	of	_	_	ADP	_	_	_	_
+8	a	a	_	_	DET;INDF	_	_	_	_
+9	merchants	merchant	_	_	N;PL	_	_	_	_
+10	'	'	_	_	PART	_	_	_	_
+11	guild	guild	_	_	N;SG	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	run	run	_	_	PST;V.PTCP;V	_	_	_	_
+14	by	by	_	_	ADP	_	_	_	_
+15	the	the	_	_	DET;DEF	_	_	_	_
+16	town	town	_	_	N;SG	_	_	_	_
+17	's	's	_	_	PART	_	_	_	_
+18	burgesses	burgess	_	_	N;PL	_	_	_	_
+19	to	to	_	_	PART	_	_	_	_
+20	tax	tax	_	_	NFIN;V	_	_	_	_
+21	people	people	_	_	N;PL	_	_	_	_
+22	passing	pass	_	_	V.MSDR;V	_	_	_	_
+23	through	through	_	_	ADP	_	_	_	_
+24	the	the	_	_	DET;DEF	_	_	_	_
+25	borough	borough	_	_	N;SG	_	_	_	_
+26	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01063051
+# text = Their revivals underscore the appeal of a good challenge, artistic or otherwise: discomfort, growth, and a meaningful connection.
+1	Their	they	_	_	PL;3;PRO	_	_	_	_
+2	revivals	revival	_	_	N;PL	_	_	_	_
+3	underscore	underscore	_	_	IND;PRS;FIN;V	_	_	_	_
+4	the	the	_	_	DET;DEF	_	_	_	_
+5	appeal	appeal	_	_	N;SG	_	_	_	_
+6	of	of	_	_	ADP	_	_	_	_
+7	a	a	_	_	DET;INDF	_	_	_	_
+8	good	good	_	_	ADJ	_	_	_	_
+9	challenge	challenge	_	_	N;SG	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	artistic	artistic	_	_	ADJ	_	_	_	_
+12	or	or	_	_	CONJ	_	_	_	_
+13	otherwise	otherwise	_	_	ADV	_	_	_	_
+14	:	:	_	_	_	_	_	_	_
+15	discomfort	discomfort	_	_	N;SG	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	growth	growth	_	_	N;SG	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	and	and	_	_	CONJ	_	_	_	_
+20	a	a	_	_	DET;INDF	_	_	_	_
+21	meaningful	meaningful	_	_	ADJ	_	_	_	_
+22	connection	connection	_	_	N;SG	_	_	_	_
+23	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01134020
+# text = But it only came forward after the U.S. Environmental Protection Agency alerted the world to the issue.
+1	But	but	_	_	CONJ	_	_	_	_
+2	it	it	_	_	NEUT;3;NOM;PRO;SG	_	_	_	_
+3	only	only	_	_	ADV	_	_	_	_
+4	came	come	_	_	PST;IND;FIN;V	_	_	_	_
+5	forward	forward	_	_	ADV	_	_	_	_
+6	after	after	_	_	CONJ	_	_	_	_
+7	the	the	_	_	DET;DEF	_	_	_	_
+8	U.S.	U.S.	_	_	SG;PROPN	_	_	_	_
+9	Environmental	environmental	_	_	N;SG	_	_	_	_
+10	Protection	protection	_	_	N;SG	_	_	_	_
+11	Agency	agency	_	_	N;SG	_	_	_	_
+12	alerted	alert	_	_	PST;IND;FIN;V	_	_	_	_
+13	the	the	_	_	DET;DEF	_	_	_	_
+14	world	world	_	_	N;SG	_	_	_	_
+15	to	to	_	_	ADP	_	_	_	_
+16	the	the	_	_	DET;DEF	_	_	_	_
+17	issue	issue	_	_	N;SG	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01017010
+# text = The company told the BBC it would be the responsibility of each airline brand to decide whether to charge passengers an access fee.
+1	The	the	_	_	DET;DEF	_	_	_	_
+2	company	company	_	_	N;SG	_	_	_	_
+3	told	tell	_	_	PST;IND;FIN;V	_	_	_	_
+4	the	the	_	_	DET;DEF	_	_	_	_
+5	BBC	BBC	_	_	SG;PROPN	_	_	_	_
+6	it	it	_	_	NEUT;3;NOM;PRO;SG	_	_	_	_
+7	would	would	_	_	FIN;V	_	_	_	_
+8	be	be	_	_	V;NFIN	_	_	_	_
+9	the	the	_	_	DET;DEF	_	_	_	_
+10	responsibility	responsibility	_	_	N;SG	_	_	_	_
+11	of	of	_	_	ADP	_	_	_	_
+12	each	each	_	_	DET	_	_	_	_
+13	airline	airline	_	_	N;SG	_	_	_	_
+14	brand	brand	_	_	N;SG	_	_	_	_
+15	to	to	_	_	PART	_	_	_	_
+16	decide	decide	_	_	NFIN;V	_	_	_	_
+17	whether	whether	_	_	CONJ	_	_	_	_
+18	to	to	_	_	PART	_	_	_	_
+19	charge	charge	_	_	NFIN;V	_	_	_	_
+20	passengers	passenger	_	_	N;PL	_	_	_	_
+21	an	a	_	_	DET;INDF	_	_	_	_
+22	access	access	_	_	N;SG	_	_	_	_
+23	fee	fee	_	_	N;SG	_	_	_	_
+24	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01017013
+# text = "Most people would find airport wi-fi more useful than being able to send emails on a plane."
+1	"	"	_	_	_	_	_	_	_
+2	Most	most	_	_	RL;ADJ	_	_	_	_
+3	people	people	_	_	N;PL	_	_	_	_
+4	would	would	_	_	FIN;V	_	_	_	_
+5	find	find	_	_	NFIN;V	_	_	_	_
+6	airport	airport	_	_	N;SG	_	_	_	_
+7	wi-fi	wi-fi	_	_	N;SG	_	_	_	_
+8	more	more	_	_	ADV	_	_	_	_
+9	useful	useful	_	_	ADJ	_	_	_	_
+10	than	than	_	_	CONJ	_	_	_	_
+11	being	be	_	_	V.MSDR;V	_	_	_	_
+12	able	able	_	_	ADJ	_	_	_	_
+13	to	to	_	_	PART	_	_	_	_
+14	send	send	_	_	NFIN;V	_	_	_	_
+15	emails	email	_	_	N;PL	_	_	_	_
+16	on	on	_	_	ADP	_	_	_	_
+17	a	a	_	_	DET;INDF	_	_	_	_
+18	plane	plane	_	_	N;SG	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+20	"	"	_	_	_	_	_	_	_
+
+# newdoc id = w01045
+# sent_id = w01045002
+# text = The name "Caribbean" derives from the Caribs, one of the dominant Native American groups in the region at the time of European contact during the late 15th century.
+1	The	the	_	_	DET;DEF	_	_	_	_
+2	name	name	_	_	N;SG	_	_	_	_
+3	"	"	_	_	_	_	_	_	_
+4	Caribbean	Caribbean	_	_	SG;PROPN	_	_	_	_
+5	"	"	_	_	_	_	_	_	_
+6	derives	derive	_	_	PRS;3;FIN;IND;V;SG	_	_	_	_
+7	from	from	_	_	ADP	_	_	_	_
+8	the	the	_	_	DET;DEF	_	_	_	_
+9	Caribs	Caribs	_	_	PL;PROPN	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	one	one	_	_	NUM	_	_	_	_
+12	of	of	_	_	ADP	_	_	_	_
+13	the	the	_	_	DET;DEF	_	_	_	_
+14	dominant	dominant	_	_	ADJ	_	_	_	_
+15	Native	Native	_	_	SG;PROPN	_	_	_	_
+16	American	American	_	_	SG;PROPN	_	_	_	_
+17	groups	group	_	_	N;PL	_	_	_	_
+18	in	in	_	_	ADP	_	_	_	_
+19	the	the	_	_	DET;DEF	_	_	_	_
+20	region	region	_	_	N;SG	_	_	_	_
+21	at	at	_	_	ADP	_	_	_	_
+22	the	the	_	_	DET;DEF	_	_	_	_
+23	time	time	_	_	N;SG	_	_	_	_
+24	of	of	_	_	ADP	_	_	_	_
+25	European	european	_	_	ADJ	_	_	_	_
+26	contact	contact	_	_	N;SG	_	_	_	_
+27	during	during	_	_	ADP	_	_	_	_
+28	the	the	_	_	DET;DEF	_	_	_	_
+29	late	late	_	_	ADJ	_	_	_	_
+30	15th	15th	_	_	ADJ	_	_	_	_
+31	century	century	_	_	N;SG	_	_	_	_
+32	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01057041
+# text = It was foretold that he would either die of old age after an uneventful life, or die young in a battlefield and gain immortality through poetry.
+1	It	it	_	_	NEUT;3;NOM;PRO;SG	_	_	_	_
+2	was	be	_	_	3;FIN;V;IND;PST;SG	_	_	_	_
+3	foretold	foretell	_	_	PST;V.PTCP;V	_	_	_	_
+4	that	that	_	_	CONJ	_	_	_	_
+5	he	he	_	_	MASC;3;NOM;PRO;SG	_	_	_	_
+6	would	would	_	_	FIN;V	_	_	_	_
+7	either	either	_	_	CONJ	_	_	_	_
+8	die	die	_	_	NFIN;V	_	_	_	_
+9	of	of	_	_	ADP	_	_	_	_
+10	old	old	_	_	ADJ	_	_	_	_
+11	age	age	_	_	N;SG	_	_	_	_
+12	after	after	_	_	ADP	_	_	_	_
+13	an	a	_	_	DET;INDF	_	_	_	_
+14	uneventful	uneventful	_	_	ADJ	_	_	_	_
+15	life	life	_	_	N;SG	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	or	or	_	_	CONJ	_	_	_	_
+18	die	die	_	_	NFIN;V	_	_	_	_
+19	young	young	_	_	ADJ	_	_	_	_
+20	in	in	_	_	ADP	_	_	_	_
+21	a	a	_	_	DET;INDF	_	_	_	_
+22	battlefield	battlefield	_	_	N;SG	_	_	_	_
+23	and	and	_	_	CONJ	_	_	_	_
+24	gain	gain	_	_	NFIN;V	_	_	_	_
+25	immortality	immortality	_	_	N;SG	_	_	_	_
+26	through	through	_	_	ADP	_	_	_	_
+27	poetry	poetry	_	_	N;SG	_	_	_	_
+28	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01130103
+# text = These were the last two records Rafferty produced with Hugh Murphy, who died in 1998.
+1	These	these	_	_	PL;PRO	_	_	_	_
+2	were	be	_	_	PST;IND;FIN;V	_	_	_	_
+3	the	the	_	_	DET;DEF	_	_	_	_
+4	last	last	_	_	ADJ	_	_	_	_
+5	two	two	_	_	NUM	_	_	_	_
+6	records	record	_	_	N;PL	_	_	_	_
+7	Rafferty	Rafferty	_	_	SG;PROPN	_	_	_	_
+8	produced	produce	_	_	PST;IND;FIN;V	_	_	_	_
+9	with	with	_	_	ADP	_	_	_	_
+10	Hugh	Hugh	_	_	SG;PROPN	_	_	_	_
+11	Murphy	Murphy	_	_	SG;PROPN	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	who	who	_	_	PRO	_	_	_	_
+14	died	die	_	_	PST;IND;FIN;V	_	_	_	_
+15	in	in	_	_	ADP	_	_	_	_
+16	1998	1998	_	_	NUM	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01089068
+# text = As Greece sent out colonies west towards Sicily and Italy (Pithekoussae, Cumae), the influence of their new alphabet extended further.
+1	As	as	_	_	CONJ	_	_	_	_
+2	Greece	Greece	_	_	SG;PROPN	_	_	_	_
+3	sent	send	_	_	PST;IND;FIN;V	_	_	_	_
+4	out	out	_	_	ADP	_	_	_	_
+5	colonies	colony	_	_	N;PL	_	_	_	_
+6	west	west	_	_	ADV	_	_	_	_
+7	towards	towards	_	_	ADP	_	_	_	_
+8	Sicily	Sicily	_	_	SG;PROPN	_	_	_	_
+9	and	and	_	_	CONJ	_	_	_	_
+10	Italy	Italy	_	_	SG;PROPN	_	_	_	_
+11	(	(	_	_	_	_	_	_	_
+12	Pithekoussae	Pithekoussae	_	_	SG;PROPN	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	Cumae	Cumae	_	_	SG;PROPN	_	_	_	_
+15	)	)	_	_	_	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	the	the	_	_	DET;DEF	_	_	_	_
+18	influence	influence	_	_	N;SG	_	_	_	_
+19	of	of	_	_	ADP	_	_	_	_
+20	their	they	_	_	PL;3;PRO	_	_	_	_
+21	new	new	_	_	ADJ	_	_	_	_
+22	alphabet	alphabet	_	_	N;SG	_	_	_	_
+23	extended	extend	_	_	PST;IND;FIN;V	_	_	_	_
+24	further	further	_	_	CMPR;ADV	_	_	_	_
+25	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01141
+# sent_id = n01141002
+# text = Microsoft announced on Wednesday a new workplace chat tool poised to take on industry darling Slack.
+1	Microsoft	Microsoft	_	_	SG;PROPN	_	_	_	_
+2	announced	announce	_	_	PST;IND;FIN;V	_	_	_	_
+3	on	on	_	_	ADP	_	_	_	_
+4	Wednesday	Wednesday	_	_	SG;PROPN	_	_	_	_
+5	a	a	_	_	DET;INDF	_	_	_	_
+6	new	new	_	_	ADJ	_	_	_	_
+7	workplace	workplace	_	_	N;SG	_	_	_	_
+8	chat	chat	_	_	N;SG	_	_	_	_
+9	tool	tool	_	_	N;SG	_	_	_	_
+10	poised	poise	_	_	PST;V.PTCP;V	_	_	_	_
+11	to	to	_	_	PART	_	_	_	_
+12	take	take	_	_	NFIN;V	_	_	_	_
+13	on	on	_	_	ADP	_	_	_	_
+14	industry	industry	_	_	N;SG	_	_	_	_
+15	darling	darling	_	_	N;SG	_	_	_	_
+16	Slack	slack	_	_	SG;PROPN	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01044
+# sent_id = n01044004
+# text = Gomery, who led the commission of inquiry into the federal sponsorship scandal between 2004 and 2006, said such bodies are essential to help restore public confidence in the rule of law.
+1	Gomery	Gomery	_	_	SG;PROPN	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	who	who	_	_	PRO	_	_	_	_
+4	led	lead	_	_	PST;IND;FIN;V	_	_	_	_
+5	the	the	_	_	DET;DEF	_	_	_	_
+6	commission	commission	_	_	N;SG	_	_	_	_
+7	of	of	_	_	ADP	_	_	_	_
+8	inquiry	inquiry	_	_	N;SG	_	_	_	_
+9	into	into	_	_	ADP	_	_	_	_
+10	the	the	_	_	DET;DEF	_	_	_	_
+11	federal	federal	_	_	ADJ	_	_	_	_
+12	sponsorship	sponsorship	_	_	N;SG	_	_	_	_
+13	scandal	scandal	_	_	N;SG	_	_	_	_
+14	between	between	_	_	ADP	_	_	_	_
+15	2004	2004	_	_	NUM	_	_	_	_
+16	and	and	_	_	CONJ	_	_	_	_
+17	2006	2006	_	_	NUM	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	said	say	_	_	PST;IND;FIN;V	_	_	_	_
+20	such	such	_	_	ADJ	_	_	_	_
+21	bodies	body	_	_	N;PL	_	_	_	_
+22	are	be	_	_	IND;PRS;FIN;V	_	_	_	_
+23	essential	essential	_	_	ADJ	_	_	_	_
+24	to	to	_	_	PART	_	_	_	_
+25	help	help	_	_	NFIN;V	_	_	_	_
+26	restore	restore	_	_	NFIN;V	_	_	_	_
+27	public	public	_	_	ADJ	_	_	_	_
+28	confidence	confidence	_	_	N;SG	_	_	_	_
+29	in	in	_	_	ADP	_	_	_	_
+30	the	the	_	_	DET;DEF	_	_	_	_
+31	rule	rule	_	_	N;SG	_	_	_	_
+32	of	of	_	_	ADP	_	_	_	_
+33	law	law	_	_	N;SG	_	_	_	_
+34	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01136
+# sent_id = n01136005
+# text = With help from the American Civil Liberties Union, they eventually challenged the state, in a case that eventually went to the U.S. Supreme Court.
+1	With	with	_	_	ADP	_	_	_	_
+2	help	help	_	_	N;SG	_	_	_	_
+3	from	from	_	_	ADP	_	_	_	_
+4	the	the	_	_	DET;DEF	_	_	_	_
+5	American	american	_	_	ADJ	_	_	_	_
+6	Civil	civil	_	_	ADJ	_	_	_	_
+7	Liberties	liberty	_	_	N;PL	_	_	_	_
+8	Union	union	_	_	N;SG	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	they	they	_	_	PL;3;NOM;PRO	_	_	_	_
+11	eventually	eventually	_	_	ADV	_	_	_	_
+12	challenged	challenge	_	_	PST;IND;FIN;V	_	_	_	_
+13	the	the	_	_	DET;DEF	_	_	_	_
+14	state	state	_	_	N;SG	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	in	in	_	_	ADP	_	_	_	_
+17	a	a	_	_	DET;INDF	_	_	_	_
+18	case	case	_	_	N;SG	_	_	_	_
+19	that	that	_	_	PRO	_	_	_	_
+20	eventually	eventually	_	_	ADV	_	_	_	_
+21	went	go	_	_	PST;IND;FIN;V	_	_	_	_
+22	to	to	_	_	ADP	_	_	_	_
+23	the	the	_	_	DET;DEF	_	_	_	_
+24	U.S.	U.S.	_	_	SG;PROPN	_	_	_	_
+25	Supreme	Supreme	_	_	SG;PROPN	_	_	_	_
+26	Court	Court	_	_	SG;PROPN	_	_	_	_
+27	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01122
+# sent_id = w01122031
+# text = Really Really Love You was released in August and reach the top 50; "Shaky Ground", the related single, appeared in September but Geyer was already in the US.
+1	Really	really	_	_	ADV	_	_	_	_
+2	Really	really	_	_	ADV	_	_	_	_
+3	Love	love	_	_	IND;PRS;FIN;V	_	_	_	_
+4	You	you	_	_	ACC;PRO;2	_	_	_	_
+5	was	be	_	_	3;FIN;V;IND;PST;SG	_	_	_	_
+6	released	release	_	_	PST;V.PTCP;V	_	_	_	_
+7	in	in	_	_	ADP	_	_	_	_
+8	August	August	_	_	SG;PROPN	_	_	_	_
+9	and	and	_	_	CONJ	_	_	_	_
+10	reach	reach	_	_	NFIN;V	_	_	_	_
+11	the	the	_	_	DET;DEF	_	_	_	_
+12	top	top	_	_	ADJ	_	_	_	_
+13	50	50	_	_	NUM	_	_	_	_
+14	;	;	_	_	_	_	_	_	_
+15	"	"	_	_	_	_	_	_	_
+16	Shaky	shaky	_	_	ADJ	_	_	_	_
+17	Ground	ground	_	_	SG;PROPN	_	_	_	_
+18	"	"	_	_	_	_	_	_	_
+19	,	,	_	_	_	_	_	_	_
+20	the	the	_	_	DET;DEF	_	_	_	_
+21	related	related	_	_	ADJ	_	_	_	_
+22	single	single	_	_	ADJ	_	_	_	_
+23	,	,	_	_	_	_	_	_	_
+24	appeared	appear	_	_	PST;IND;FIN;V	_	_	_	_
+25	in	in	_	_	ADP	_	_	_	_
+26	September	September	_	_	SG;PROPN	_	_	_	_
+27	but	but	_	_	CONJ	_	_	_	_
+28	Geyer	Geyer	_	_	SG;PROPN	_	_	_	_
+29	was	be	_	_	3;FIN;V;IND;PST;SG	_	_	_	_
+30	already	already	_	_	ADV	_	_	_	_
+31	in	in	_	_	ADP	_	_	_	_
+32	the	the	_	_	DET;DEF	_	_	_	_
+33	US	US	_	_	SG;PROPN	_	_	_	_
+34	.	.	_	_	_	_	_	_	_
+
+# sent_id = w05002032
+# text = The central Andes belong to the so-called 'Andes de tipo andino' which were formed by the subduction of the oceanic crust.
+1	The	the	_	_	DET;DEF	_	_	_	_
+2	central	central	_	_	ADJ	_	_	_	_
+3	Andes	Andes	_	_	PL;PROPN	_	_	_	_
+4	belong	belong	_	_	IND;PRS;FIN;V	_	_	_	_
+5	to	to	_	_	ADP	_	_	_	_
+6	the	the	_	_	DET;DEF	_	_	_	_
+7	so	so	_	_	ADV	_	_	_	_
+8	-	-	_	_	_	_	_	_	_
+9	called	called	_	_	ADJ	_	_	_	_
+10	'	'	_	_	_	_	_	_	_
+11	Andes	andes	_	_	_	_	_	_	_
+12	de	de	_	_	_	_	_	_	_
+13	tipo	tipo	_	_	_	_	_	_	_
+14	andino	andino	_	_	_	_	_	_	_
+15	'	'	_	_	_	_	_	_	_
+16	which	which	_	_	PRO	_	_	_	_
+17	were	be	_	_	PST;IND;FIN;V	_	_	_	_
+18	formed	form	_	_	PST;V.PTCP;V	_	_	_	_
+19	by	by	_	_	ADP	_	_	_	_
+20	the	the	_	_	DET;DEF	_	_	_	_
+21	subduction	subduction	_	_	N;SG	_	_	_	_
+22	of	of	_	_	ADP	_	_	_	_
+23	the	the	_	_	DET;DEF	_	_	_	_
+24	oceanic	oceanic	_	_	ADJ	_	_	_	_
+25	crust	crust	_	_	N;SG	_	_	_	_
+26	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01124049
+# text = Following her dismissal, Peniston took playing as Glinda the Good Witch in a theatrical production of musical play The Wiz.
+1	Following	follow	_	_	V.MSDR;V	_	_	_	_
+2	her	she	_	_	3;FEM;PRO;SG	_	_	_	_
+3	dismissal	dismissal	_	_	N;SG	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	Peniston	Peniston	_	_	SG;PROPN	_	_	_	_
+6	took	take	_	_	PST;IND;FIN;V	_	_	_	_
+7	playing	play	_	_	V.MSDR;V	_	_	_	_
+8	as	as	_	_	ADP	_	_	_	_
+9	Glinda	Glinda	_	_	SG;PROPN	_	_	_	_
+10	the	the	_	_	DET;DEF	_	_	_	_
+11	Good	good	_	_	ADJ	_	_	_	_
+12	Witch	witch	_	_	N;SG	_	_	_	_
+13	in	in	_	_	ADP	_	_	_	_
+14	a	a	_	_	DET;INDF	_	_	_	_
+15	theatrical	theatrical	_	_	ADJ	_	_	_	_
+16	production	production	_	_	N;SG	_	_	_	_
+17	of	of	_	_	ADP	_	_	_	_
+18	musical	musical	_	_	ADJ	_	_	_	_
+19	play	play	_	_	N;SG	_	_	_	_
+20	The	the	_	_	DET;DEF	_	_	_	_
+21	Wiz	Wiz	_	_	SG;PROPN	_	_	_	_
+22	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01076
+# sent_id = n01076006
+# text = A Donald Trump victory would immediately make the world more worrying and unsettled than it already is.
+1	A	a	_	_	DET;INDF	_	_	_	_
+2	Donald	Donald	_	_	SG;PROPN	_	_	_	_
+3	Trump	Trump	_	_	SG;PROPN	_	_	_	_
+4	victory	victory	_	_	N;SG	_	_	_	_
+5	would	would	_	_	FIN;V	_	_	_	_
+6	immediately	immediately	_	_	ADV	_	_	_	_
+7	make	make	_	_	NFIN;V	_	_	_	_
+8	the	the	_	_	DET;DEF	_	_	_	_
+9	world	world	_	_	N;SG	_	_	_	_
+10	more	more	_	_	ADV	_	_	_	_
+11	worrying	worrying	_	_	ADJ	_	_	_	_
+12	and	and	_	_	CONJ	_	_	_	_
+13	unsettled	unsettled	_	_	ADJ	_	_	_	_
+14	than	than	_	_	CONJ	_	_	_	_
+15	it	it	_	_	NEUT;3;NOM;PRO;SG	_	_	_	_
+16	already	already	_	_	ADV	_	_	_	_
+17	is	be	_	_	PRS;3;FIN;IND;V;SG	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01027041
+# text = I asked her afterwards if she understood why people might vote for Trump.
+1	I	I	_	_	1;NOM;PRO;SG	_	_	_	_
+2	asked	ask	_	_	PST;IND;FIN;V	_	_	_	_
+3	her	she	_	_	3;ACC;FEM;PRO;SG	_	_	_	_
+4	afterwards	afterwards	_	_	ADV	_	_	_	_
+5	if	if	_	_	CONJ	_	_	_	_
+6	she	she	_	_	3;FEM;NOM;PRO;SG	_	_	_	_
+7	understood	understand	_	_	PST;IND;FIN;V	_	_	_	_
+8	why	why	_	_	ADV	_	_	_	_
+9	people	people	_	_	N;PL	_	_	_	_
+10	might	might	_	_	FIN;V	_	_	_	_
+11	vote	vote	_	_	NFIN;V	_	_	_	_
+12	for	for	_	_	ADP	_	_	_	_
+13	Trump	Trump	_	_	SG;PROPN	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01123024
+# text = Perhaps it won’t matter as I won’t be troubled long.
+1	Perhaps	perhaps	_	_	ADV	_	_	_	_
+2	it	it	_	_	NEUT;3;NOM;PRO;SG	_	_	_	_
+3	wo	will	_	_	FIN;V	_	_	_	_
+4	n’t	n’t	_	_	NEG;ADV	_	_	_	_
+5	matter	matter	_	_	NFIN;V	_	_	_	_
+6	as	as	_	_	CONJ	_	_	_	_
+7	I	I	_	_	1;NOM;PRO;SG	_	_	_	_
+8	wo	will	_	_	FIN;V	_	_	_	_
+9	n’t	n’t	_	_	NEG;ADV	_	_	_	_
+10	be	be	_	_	V;NFIN	_	_	_	_
+11	troubled	trouble	_	_	PST;V.PTCP;V	_	_	_	_
+12	long	long	_	_	ADV	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w05009
+# sent_id = w05009044
+# text = In 1976 he met with a friend who worked with his record label The Rocket Record Company, Kiki Dee, to record what would be another remarkable success for him: "Don't Go Breaking My Heart".
+# Checktree: how to represet "to record what would be another remarkable success"
+1	In	in	_	_	ADP	_	_	_	_
+2	1976	1976	_	_	NUM	_	_	_	_
+3	he	he	_	_	MASC;3;NOM;PRO;SG	_	_	_	_
+4	met	meet	_	_	PST;IND;FIN;V	_	_	_	_
+5	with	with	_	_	ADP	_	_	_	_
+6	a	a	_	_	DET;INDF	_	_	_	_
+7	friend	friend	_	_	N;SG	_	_	_	_
+8	who	who	_	_	PRO	_	_	_	_
+9	worked	work	_	_	PST;IND;FIN;V	_	_	_	_
+10	with	with	_	_	ADP	_	_	_	_
+11	his	he	_	_	MASC;3;PRO;SG	_	_	_	_
+12	record	record	_	_	N;SG	_	_	_	_
+13	label	label	_	_	N;SG	_	_	_	_
+14	The	the	_	_	DET;DEF	_	_	_	_
+15	Rocket	rocket	_	_	SG;PROPN	_	_	_	_
+16	Record	record	_	_	SG;PROPN	_	_	_	_
+17	Company	company	_	_	SG;PROPN	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	Kiki	Kiki	_	_	SG;PROPN	_	_	_	_
+20	Dee	Dee	_	_	SG;PROPN	_	_	_	_
+21	,	,	_	_	_	_	_	_	_
+22	to	to	_	_	PART	_	_	_	_
+23	record	record	_	_	NFIN;V	_	_	_	_
+24	what	what	_	_	PRO	_	_	_	_
+25	would	would	_	_	FIN;V	_	_	_	_
+26	be	be	_	_	V;NFIN	_	_	_	_
+27	another	another	_	_	DET	_	_	_	_
+28	remarkable	remarkable	_	_	ADJ	_	_	_	_
+29	success	success	_	_	N;SG	_	_	_	_
+30	for	for	_	_	ADP	_	_	_	_
+31	him	he	_	_	MASC;3;ACC;PRO;SG	_	_	_	_
+32	:	:	_	_	_	_	_	_	_
+33	"	"	_	_	_	_	_	_	_
+34	Do	do	_	_	IND;PRS;FIN;V	_	_	_	_
+35	n't	not	_	_	PART;NEG	_	_	_	_
+36	Go	go	_	_	NFIN;V	_	_	_	_
+37	Breaking	break	_	_	V.MSDR;V	_	_	_	_
+38	My	my	_	_	1;PRO;SG	_	_	_	_
+39	Heart	heart	_	_	N;SG	_	_	_	_
+40	"	"	_	_	_	_	_	_	_
+41	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w04006
+# sent_id = w04006023
+# text = Historian David Crouch suggests that Stephen abandoned from the challenge around this time to focus on other issues.
+1	Historian	historian	_	_	SG;ADJ	_	_	_	_
+2	David	David	_	_	SG;PROPN	_	_	_	_
+3	Crouch	Crouch	_	_	SG;PROPN	_	_	_	_
+4	suggests	suggest	_	_	PRS;3;FIN;IND;V;SG	_	_	_	_
+5	that	that	_	_	CONJ	_	_	_	_
+6	Stephen	Stephen	_	_	SG;PROPN	_	_	_	_
+7	abandoned	abandon	_	_	PST;IND;FIN;V	_	_	_	_
+8	from	from	_	_	ADP	_	_	_	_
+9	the	the	_	_	DET;DEF	_	_	_	_
+10	challenge	challenge	_	_	N;SG	_	_	_	_
+11	around	around	_	_	ADP	_	_	_	_
+12	this	this	_	_	DET;SG	_	_	_	_
+13	time	time	_	_	N;SG	_	_	_	_
+14	to	to	_	_	PART	_	_	_	_
+15	focus	focus	_	_	NFIN;V	_	_	_	_
+16	on	on	_	_	ADP	_	_	_	_
+17	other	other	_	_	ADJ	_	_	_	_
+18	issues	issue	_	_	N;PL	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01064
+# sent_id = n01064009
+# text = It would be much safer, Plato thought, to entrust power to carefully educated guardians.
+1	It	it	_	_	NEUT;3;NOM;PRO;SG	_	_	_	_
+2	would	would	_	_	FIN;V	_	_	_	_
+3	be	be	_	_	V;NFIN	_	_	_	_
+4	much	much	_	_	ADV	_	_	_	_
+5	safer	safer	_	_	CMPR;ADJ	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	Plato	Plato	_	_	SG;PROPN	_	_	_	_
+8	thought	think	_	_	PST;IND;FIN;V	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	to	to	_	_	PART	_	_	_	_
+11	entrust	entrust	_	_	NFIN;V	_	_	_	_
+12	power	power	_	_	N;SG	_	_	_	_
+13	to	to	_	_	ADP	_	_	_	_
+14	carefully	carefully	_	_	ADV	_	_	_	_
+15	educated	educate	_	_	PST;V.PTCP;V	_	_	_	_
+16	guardians	guardian	_	_	N;PL	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = w02007061
+# text = The Ottomans wanted to prevent grain from being further transported because they had a great need for it.
+1	The	the	_	_	DET;DEF	_	_	_	_
+2	Ottomans	Ottomans	_	_	PL;PROPN	_	_	_	_
+3	wanted	want	_	_	PST;IND;FIN;V	_	_	_	_
+4	to	to	_	_	PART	_	_	_	_
+5	prevent	prevent	_	_	NFIN;V	_	_	_	_
+6	grain	grain	_	_	N;SG	_	_	_	_
+7	from	from	_	_	CONJ	_	_	_	_
+8	being	be	_	_	V.MSDR;V	_	_	_	_
+9	further	further	_	_	ADV	_	_	_	_
+10	transported	transport	_	_	PST;V.PTCP;V	_	_	_	_
+11	because	because	_	_	CONJ	_	_	_	_
+12	they	they	_	_	PL;3;NOM;PRO	_	_	_	_
+13	had	have	_	_	PST;IND;FIN;V	_	_	_	_
+14	a	a	_	_	DET;INDF	_	_	_	_
+15	great	great	_	_	ADJ	_	_	_	_
+16	need	need	_	_	N;SG	_	_	_	_
+17	for	for	_	_	ADP	_	_	_	_
+18	it	it	_	_	NEUT;3;ACC;PRO;SG	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n03003
+# sent_id = n03003025
+# text = The AKP's Islamic conservatives have taken this refusal as justification for the questionings.
+1	The	the	_	_	DET;DEF	_	_	_	_
+2	AKP	AKP	_	_	SG;PROPN	_	_	_	_
+3	's	's	_	_	PART	_	_	_	_
+4	Islamic	islamic	_	_	ADJ	_	_	_	_
+5	conservatives	conservative	_	_	N;PL	_	_	_	_
+6	have	have	_	_	IND;PRS;FIN;V	_	_	_	_
+7	taken	take	_	_	PST;V.PTCP;V	_	_	_	_
+8	this	this	_	_	DET;SG	_	_	_	_
+9	refusal	refusal	_	_	N;SG	_	_	_	_
+10	as	as	_	_	ADP	_	_	_	_
+11	justification	justification	_	_	N;SG	_	_	_	_
+12	for	for	_	_	ADP	_	_	_	_
+13	the	the	_	_	DET;DEF	_	_	_	_
+14	questionings	questioning	_	_	N;PL	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01100
+# sent_id = w01100046
+# text = In 1839, China found itself fighting the First Opium War with Great Britain after the Governor-General of Hunan and Hubei, Lin Zexu, banned the foreign trade of opium.
+1	In	in	_	_	ADP	_	_	_	_
+2	1839	1839	_	_	NUM	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	China	China	_	_	SG;PROPN	_	_	_	_
+5	found	find	_	_	PST;IND;FIN;V	_	_	_	_
+6	itself	itself	_	_	NEUT;3;ACC;REFL;PRO;SG	_	_	_	_
+7	fighting	fight	_	_	V.MSDR;V	_	_	_	_
+8	the	the	_	_	DET;DEF	_	_	_	_
+9	First	First	_	_	SG;PROPN	_	_	_	_
+10	Opium	Opium	_	_	SG;PROPN	_	_	_	_
+11	War	War	_	_	SG;PROPN	_	_	_	_
+12	with	with	_	_	ADP	_	_	_	_
+13	Great	Great	_	_	SG;PROPN	_	_	_	_
+14	Britain	Britain	_	_	SG;PROPN	_	_	_	_
+15	after	after	_	_	CONJ	_	_	_	_
+16	the	the	_	_	DET;DEF	_	_	_	_
+17	Governor	Governor	_	_	N;SG	_	_	_	_
+18	-	-	_	_	_	_	_	_	_
+19	General	General	_	_	N;SG	_	_	_	_
+20	of	of	_	_	ADP	_	_	_	_
+21	Hunan	Hunan	_	_	SG;PROPN	_	_	_	_
+22	and	and	_	_	CONJ	_	_	_	_
+23	Hubei	Hubei	_	_	SG;PROPN	_	_	_	_
+24	,	,	_	_	_	_	_	_	_
+25	Lin	Lin	_	_	SG;PROPN	_	_	_	_
+26	Zexu	Zexu	_	_	SG;PROPN	_	_	_	_
+27	,	,	_	_	_	_	_	_	_
+28	banned	ban	_	_	PST;IND;FIN;V	_	_	_	_
+29	the	the	_	_	DET;DEF	_	_	_	_
+30	foreign	foreign	_	_	ADJ	_	_	_	_
+31	trade	trade	_	_	N;SG	_	_	_	_
+32	of	of	_	_	ADP	_	_	_	_
+33	opium	opium	_	_	N;SG	_	_	_	_
+34	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n04005
+# sent_id = n04005003
+# text = Those of age will be offered 500 euros by the state, to be spent by 31st December 2017.
+# Checktree: relation 31st following email-enronsent13_01-0054
+1	Those	those	_	_	PL;PRO	_	_	_	_
+2	of	of	_	_	ADP	_	_	_	_
+3	age	age	_	_	N;SG	_	_	_	_
+4	will	will	_	_	FIN;V	_	_	_	_
+5	be	be	_	_	V;NFIN	_	_	_	_
+6	offered	offer	_	_	PST;V.PTCP;V	_	_	_	_
+7	500	500	_	_	NUM	_	_	_	_
+8	euros	euro	_	_	N;PL	_	_	_	_
+9	by	by	_	_	ADP	_	_	_	_
+10	the	the	_	_	DET;DEF	_	_	_	_
+11	state	state	_	_	N;SG	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	to	to	_	_	PART	_	_	_	_
+14	be	be	_	_	V;NFIN	_	_	_	_
+15	spent	spend	_	_	PST;V.PTCP;V	_	_	_	_
+16	by	by	_	_	ADP	_	_	_	_
+17	31st	31st	_	_	N;SG	_	_	_	_
+18	December	December	_	_	SG;PROPN	_	_	_	_
+19	2017	2017	_	_	NUM	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01039058
+# text = As Brisbane grew, the condition of the river worsened until at its worst it was no more than an open sewer and waste dump.
+1	As	as	_	_	CONJ	_	_	_	_
+2	Brisbane	Brisbane	_	_	SG;PROPN	_	_	_	_
+3	grew	grow	_	_	PST;IND;FIN;V	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	the	the	_	_	DET;DEF	_	_	_	_
+6	condition	condition	_	_	N;SG	_	_	_	_
+7	of	of	_	_	ADP	_	_	_	_
+8	the	the	_	_	DET;DEF	_	_	_	_
+9	river	river	_	_	N;SG	_	_	_	_
+10	worsened	worsen	_	_	PST;IND;FIN;V	_	_	_	_
+11	until	until	_	_	CONJ	_	_	_	_
+12	at	at	_	_	ADP	_	_	_	_
+13	its	its	_	_	NEUT;3;PRO;SG	_	_	_	_
+14	worst	worst	_	_	RL;ADJ	_	_	_	_
+15	it	it	_	_	NEUT;3;NOM;PRO;SG	_	_	_	_
+16	was	be	_	_	3;FIN;V;IND;PST;SG	_	_	_	_
+17	no	no	_	_	DET;NEG	_	_	_	_
+18	more	more	_	_	CMPR;ADJ	_	_	_	_
+19	than	than	_	_	ADP	_	_	_	_
+20	an	a	_	_	DET;INDF	_	_	_	_
+21	open	open	_	_	ADJ	_	_	_	_
+22	sewer	sewer	_	_	N;SG	_	_	_	_
+23	and	and	_	_	CONJ	_	_	_	_
+24	waste	waste	_	_	N;SG	_	_	_	_
+25	dump	dump	_	_	N;SG	_	_	_	_
+26	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01067103
+# text = Despite this, they both seem to have held at least parts of lower Egypt.
+1	Despite	despite	_	_	ADP	_	_	_	_
+2	this	this	_	_	PRO;SG	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	they	they	_	_	PL;3;NOM;PRO	_	_	_	_
+5	both	both	_	_	DET	_	_	_	_
+6	seem	seem	_	_	IND;PRS;FIN;V	_	_	_	_
+7	to	to	_	_	PART	_	_	_	_
+8	have	have	_	_	V;NFIN	_	_	_	_
+9	held	hold	_	_	PST;V.PTCP;V	_	_	_	_
+10	at	at	_	_	ADP	_	_	_	_
+11	least	least	_	_	RL;ADJ	_	_	_	_
+12	parts	part	_	_	N;PL	_	_	_	_
+13	of	of	_	_	ADP	_	_	_	_
+14	lower	lower	_	_	ADJ	_	_	_	_
+15	Egypt	Egypt	_	_	SG;PROPN	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01073023
+# text = Was their divine right to the mantle as the world’s best no longer warranted?
+1	Was	be	_	_	3;FIN;V;IND;PST;SG	_	_	_	_
+2	their	they	_	_	PL;3;PRO	_	_	_	_
+3	divine	divine	_	_	ADJ	_	_	_	_
+4	right	right	_	_	N;SG	_	_	_	_
+5	to	to	_	_	ADP	_	_	_	_
+6	the	the	_	_	DET;DEF	_	_	_	_
+7	mantle	mantle	_	_	N;SG	_	_	_	_
+8	as	as	_	_	ADP	_	_	_	_
+9	the	the	_	_	DET;DEF	_	_	_	_
+10	world	world	_	_	N;SG	_	_	_	_
+11	’s	’s	_	_	PART	_	_	_	_
+12	best	best	_	_	RL;ADJ	_	_	_	_
+13	no	no	_	_	NEG;ADV	_	_	_	_
+14	longer	longer	_	_	CMPR;ADV	_	_	_	_
+15	warranted	warrant	_	_	PST;V.PTCP;V	_	_	_	_
+16	?	?	_	_	_	_	_	_	_
+
+# sent_id = n03002010
+# text = On the other hand, Ms. Clinton's relations with the continent over the past twenty years leave much to be desired.
+1	On	on	_	_	ADP	_	_	_	_
+2	the	the	_	_	DET;DEF	_	_	_	_
+3	other	other	_	_	ADJ	_	_	_	_
+4	hand	hand	_	_	N;SG	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	Ms.	ms.	_	_	SG;PROPN	_	_	_	_
+7	Clinton	Clinton	_	_	SG;PROPN	_	_	_	_
+8	's	's	_	_	PART	_	_	_	_
+9	relations	relation	_	_	N;PL	_	_	_	_
+10	with	with	_	_	ADP	_	_	_	_
+11	the	the	_	_	DET;DEF	_	_	_	_
+12	continent	continent	_	_	N;SG	_	_	_	_
+13	over	over	_	_	ADP	_	_	_	_
+14	the	the	_	_	DET;DEF	_	_	_	_
+15	past	past	_	_	ADJ	_	_	_	_
+16	twenty	twenty	_	_	NUM	_	_	_	_
+17	years	year	_	_	N;PL	_	_	_	_
+18	leave	leave	_	_	IND;PRS;FIN;V	_	_	_	_
+19	much	much	_	_	ADJ	_	_	_	_
+20	to	to	_	_	PART	_	_	_	_
+21	be	be	_	_	V;NFIN	_	_	_	_
+22	desired	desire	_	_	PST;V.PTCP;V	_	_	_	_
+23	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01053
+# sent_id = n01053008
+# text = "Some men get it and Bono is one of those guys," Leive said in a recent interview.
+1	"	"	_	_	_	_	_	_	_
+2	Some	some	_	_	DET	_	_	_	_
+3	men	man	_	_	N;PL	_	_	_	_
+4	get	get	_	_	IND;PRS;FIN;V	_	_	_	_
+5	it	it	_	_	NEUT;3;ACC;PRO;SG	_	_	_	_
+6	and	and	_	_	CONJ	_	_	_	_
+7	Bono	Bono	_	_	SG;PROPN	_	_	_	_
+8	is	be	_	_	PRS;3;FIN;V;IND;SG	_	_	_	_
+9	one	one	_	_	NUM	_	_	_	_
+10	of	of	_	_	ADP	_	_	_	_
+11	those	those	_	_	DET;PL	_	_	_	_
+12	guys	guy	_	_	N;PL	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	"	"	_	_	_	_	_	_	_
+15	Leive	Leive	_	_	SG;PROPN	_	_	_	_
+16	said	say	_	_	PST;IND;FIN;V	_	_	_	_
+17	in	in	_	_	ADP	_	_	_	_
+18	a	a	_	_	DET;INDF	_	_	_	_
+19	recent	recent	_	_	ADJ	_	_	_	_
+20	interview	interview	_	_	N;SG	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01095009
+# text = I don’t call it a beast lightly.
+1	I	I	_	_	1;NOM;PRO;SG	_	_	_	_
+2	do	do	_	_	IND;PRS;FIN;V	_	_	_	_
+3	n’t	n’t	_	_	PART;NEG	_	_	_	_
+4	call	call	_	_	NFIN;V	_	_	_	_
+5	it	it	_	_	NEUT;3;ACC;PRO;SG	_	_	_	_
+6	a	a	_	_	DET;INDF	_	_	_	_
+7	beast	beast	_	_	N;SG	_	_	_	_
+8	lightly	lightly	_	_	ADV	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n02042
+# sent_id = n02042005
+# text = It was August 30, 2015, as an army of ducks conquered the internet.
+1	It	it	_	_	NEUT;3;NOM;PRO;SG	_	_	_	_
+2	was	be	_	_	3;FIN;V;IND;PST;SG	_	_	_	_
+3	August	August	_	_	SG;PROPN	_	_	_	_
+4	30	30	_	_	NUM	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	2015	2015	_	_	NUM	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	as	as	_	_	CONJ	_	_	_	_
+9	an	a	_	_	DET;INDF	_	_	_	_
+10	army	army	_	_	N;SG	_	_	_	_
+11	of	of	_	_	ADP	_	_	_	_
+12	ducks	duck	_	_	N;PL	_	_	_	_
+13	conquered	conquer	_	_	PST;IND;FIN;V	_	_	_	_
+14	the	the	_	_	DET;DEF	_	_	_	_
+15	internet	internet	_	_	N;SG	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01073
+# sent_id = w01073007
+# text = They had been so moved by the beauty of the Rudyard Lake area that when their first child was born they referenced it when naming him.
+1	They	they	_	_	PL;3;NOM;PRO	_	_	_	_
+2	had	have	_	_	PST;IND;FIN;V	_	_	_	_
+3	been	be	_	_	PST;V.PTCP;V	_	_	_	_
+4	so	so	_	_	ADV	_	_	_	_
+5	moved	move	_	_	PST;V.PTCP;V	_	_	_	_
+6	by	by	_	_	ADP	_	_	_	_
+7	the	the	_	_	DET;DEF	_	_	_	_
+8	beauty	beauty	_	_	N;SG	_	_	_	_
+9	of	of	_	_	ADP	_	_	_	_
+10	the	the	_	_	DET;DEF	_	_	_	_
+11	Rudyard	Rudyard	_	_	SG;PROPN	_	_	_	_
+12	Lake	lake	_	_	SG;PROPN	_	_	_	_
+13	area	area	_	_	N;SG	_	_	_	_
+14	that	that	_	_	CONJ	_	_	_	_
+15	when	when	_	_	ADV	_	_	_	_
+16	their	they	_	_	PL;3;PRO	_	_	_	_
+17	first	first	_	_	ADJ	_	_	_	_
+18	child	child	_	_	N;SG	_	_	_	_
+19	was	be	_	_	3;FIN;V;IND;PST;SG	_	_	_	_
+20	born	bear	_	_	PST;V.PTCP;V	_	_	_	_
+21	they	they	_	_	PL;3;NOM;PRO	_	_	_	_
+22	referenced	reference	_	_	PST;IND;FIN;V	_	_	_	_
+23	it	it	_	_	NEUT;3;ACC;PRO;SG	_	_	_	_
+24	when	when	_	_	ADV	_	_	_	_
+25	naming	name	_	_	V.MSDR;V	_	_	_	_
+26	him	he	_	_	MASC;3;ACC;PRO;SG	_	_	_	_
+27	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01120020
+# text = All the medics were armed, except me.
+1	All	all	_	_	DET	_	_	_	_
+2	the	the	_	_	DET;DEF	_	_	_	_
+3	medics	medic	_	_	N;PL	_	_	_	_
+4	were	be	_	_	PST;IND;FIN;V	_	_	_	_
+5	armed	armed	_	_	ADJ	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	except	except	_	_	ADP	_	_	_	_
+8	me	I	_	_	ACC;1;PRO;SG	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = n05003010
+# text = The consulted sources have said that it is "100% Cospedal".
+1	The	the	_	_	DET;DEF	_	_	_	_
+2	consulted	consult	_	_	PST;V.PTCP;V	_	_	_	_
+3	sources	source	_	_	N;PL	_	_	_	_
+4	have	have	_	_	IND;PRS;FIN;V	_	_	_	_
+5	said	say	_	_	PST;V.PTCP;V	_	_	_	_
+6	that	that	_	_	CONJ	_	_	_	_
+7	it	it	_	_	NEUT;3;NOM;PRO;SG	_	_	_	_
+8	is	be	_	_	PRS;3;FIN;V;IND;SG	_	_	_	_
+9	"	"	_	_	_	_	_	_	_
+10	100	100	_	_	NUM	_	_	_	_
+11	%	%	_	_	SG	_	_	_	_
+12	Cospedal	Cospedal	_	_	SG;PROPN	_	_	_	_
+13	"	"	_	_	_	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01144023
+# text = He kept on turning up at my barn and I joked to the guy that clearly he didn't want to be sold.
+1	He	he	_	_	MASC;3;NOM;PRO;SG	_	_	_	_
+2	kept	keep	_	_	PST;IND;FIN;V	_	_	_	_
+3	on	on	_	_	ADP	_	_	_	_
+4	turning	turn	_	_	V.MSDR;V	_	_	_	_
+5	up	up	_	_	ADP	_	_	_	_
+6	at	at	_	_	ADP	_	_	_	_
+7	my	my	_	_	1;PRO;SG	_	_	_	_
+8	barn	barn	_	_	N;SG	_	_	_	_
+9	and	and	_	_	CONJ	_	_	_	_
+10	I	I	_	_	1;NOM;PRO;SG	_	_	_	_
+11	joked	joke	_	_	PST;IND;FIN;V	_	_	_	_
+12	to	to	_	_	ADP	_	_	_	_
+13	the	the	_	_	DET;DEF	_	_	_	_
+14	guy	guy	_	_	N;SG	_	_	_	_
+15	that	that	_	_	CONJ	_	_	_	_
+16	clearly	clearly	_	_	ADV	_	_	_	_
+17	he	he	_	_	MASC;3;NOM;PRO;SG	_	_	_	_
+18	did	do	_	_	PST;IND;FIN;V	_	_	_	_
+19	n't	not	_	_	PART;NEG	_	_	_	_
+20	want	want	_	_	NFIN;V	_	_	_	_
+21	to	to	_	_	PART	_	_	_	_
+22	be	be	_	_	V;NFIN	_	_	_	_
+23	sold	sell	_	_	PST;V.PTCP;V	_	_	_	_
+24	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01095093
+# text = Outside Japan, beginning with Emperor Shōwa, the Emperors are often referred to by their given names, both whilst alive and posthumously.
+1	Outside	outside	_	_	ADP	_	_	_	_
+2	Japan	Japan	_	_	SG;PROPN	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	beginning	begin	_	_	V.MSDR;V	_	_	_	_
+5	with	with	_	_	ADP	_	_	_	_
+6	Emperor	emperor	_	_	N;SG	_	_	_	_
+7	Shōwa	Shōwa	_	_	SG;PROPN	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	the	the	_	_	DET;DEF	_	_	_	_
+10	Emperors	emperor	_	_	N;PL	_	_	_	_
+11	are	be	_	_	IND;PRS;FIN;V	_	_	_	_
+12	often	often	_	_	ADV	_	_	_	_
+13	referred	refer	_	_	PST;V.PTCP;V	_	_	_	_
+14	to	to	_	_	ADP	_	_	_	_
+15	by	by	_	_	ADP	_	_	_	_
+16	their	they	_	_	PL;3;PRO	_	_	_	_
+17	given	give	_	_	PST;V.PTCP;V	_	_	_	_
+18	names	name	_	_	N;PL	_	_	_	_
+19	,	,	_	_	_	_	_	_	_
+20	both	both	_	_	CONJ	_	_	_	_
+21	whilst	whilst	_	_	ADP	_	_	_	_
+22	alive	alive	_	_	ADJ	_	_	_	_
+23	and	and	_	_	CONJ	_	_	_	_
+24	posthumously	posthumously	_	_	ADV	_	_	_	_
+25	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01036033
+# text = Currently, the maximum fine RECO can levy against an agent is $25,000.
+1	Currently	currently	_	_	ADV	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	the	the	_	_	DET;DEF	_	_	_	_
+4	maximum	maximum	_	_	ADJ	_	_	_	_
+5	fine	fine	_	_	N;SG	_	_	_	_
+6	RECO	RECO	_	_	SG;PROPN	_	_	_	_
+7	can	can	_	_	FIN;V	_	_	_	_
+8	levy	levy	_	_	NFIN;V	_	_	_	_
+9	against	against	_	_	ADP	_	_	_	_
+10	an	a	_	_	DET;INDF	_	_	_	_
+11	agent	agent	_	_	N;SG	_	_	_	_
+12	is	be	_	_	PRS;3;FIN;V;IND;SG	_	_	_	_
+13	$	$	_	_	_	_	_	_	_
+14	25,000	25,000	_	_	NUM	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01007
+# sent_id = n01007012
+# text = There are parallels to draw here between games and our everyday lives.
+1	There	there	_	_	PRO	_	_	_	_
+2	are	be	_	_	IND;PRS;FIN;V	_	_	_	_
+3	parallels	parallel	_	_	N;PL	_	_	_	_
+4	to	to	_	_	PART	_	_	_	_
+5	draw	draw	_	_	NFIN;V	_	_	_	_
+6	here	here	_	_	ADV	_	_	_	_
+7	between	between	_	_	ADP	_	_	_	_
+8	games	game	_	_	N;PL	_	_	_	_
+9	and	and	_	_	CONJ	_	_	_	_
+10	our	we	_	_	PL;1;PRO	_	_	_	_
+11	everyday	everyday	_	_	ADJ	_	_	_	_
+12	lives	life	_	_	N;PL	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01097104
+# text = Some historians, such as Chandler and Weller, assert that the British heavy cavalry were destroyed as a viable force following their first, epic charge.
+1	Some	some	_	_	DET	_	_	_	_
+2	historians	historian	_	_	N;PL	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	such	such	_	_	ADJ	_	_	_	_
+5	as	as	_	_	ADP	_	_	_	_
+6	Chandler	Chandler	_	_	SG;PROPN	_	_	_	_
+7	and	and	_	_	CONJ	_	_	_	_
+8	Weller	Weller	_	_	SG;PROPN	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	assert	assert	_	_	IND;PRS;FIN;V	_	_	_	_
+11	that	that	_	_	CONJ	_	_	_	_
+12	the	the	_	_	DET;DEF	_	_	_	_
+13	British	british	_	_	ADJ	_	_	_	_
+14	heavy	heavy	_	_	ADJ	_	_	_	_
+15	cavalry	cavalry	_	_	N;SG	_	_	_	_
+16	were	be	_	_	PST;IND;FIN;V	_	_	_	_
+17	destroyed	destroy	_	_	PST;V.PTCP;V	_	_	_	_
+18	as	as	_	_	ADP	_	_	_	_
+19	a	a	_	_	DET;INDF	_	_	_	_
+20	viable	viable	_	_	ADJ	_	_	_	_
+21	force	force	_	_	N;SG	_	_	_	_
+22	following	follow	_	_	V.MSDR;V	_	_	_	_
+23	their	they	_	_	PL;3;PRO	_	_	_	_
+24	first	first	_	_	ADJ	_	_	_	_
+25	,	,	_	_	_	_	_	_	_
+26	epic	epic	_	_	ADJ	_	_	_	_
+27	charge	charge	_	_	N;SG	_	_	_	_
+28	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01070033
+# text = Three markings locate sunrise at the summer and winter solstices and at the two equinoxes.
+1	Three	three	_	_	NUM	_	_	_	_
+2	markings	marking	_	_	N;PL	_	_	_	_
+3	locate	locate	_	_	NFIN;V	_	_	_	_
+4	sunrise	sunrise	_	_	N;SG	_	_	_	_
+5	at	at	_	_	ADP	_	_	_	_
+6	the	the	_	_	DET;DEF	_	_	_	_
+7	summer	summer	_	_	N;SG	_	_	_	_
+8	and	and	_	_	CONJ	_	_	_	_
+9	winter	winter	_	_	N;SG	_	_	_	_
+10	solstices	solstice	_	_	N;PL	_	_	_	_
+11	and	and	_	_	CONJ	_	_	_	_
+12	at	at	_	_	ADP	_	_	_	_
+13	the	the	_	_	DET;DEF	_	_	_	_
+14	two	two	_	_	NUM	_	_	_	_
+15	equinoxes	equinox	_	_	N;PL	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01101007
+# text = The oath involves lawmakers swearing allegiance to Hong Kong as part of the People’s Republic of China.
+1	The	the	_	_	DET;DEF	_	_	_	_
+2	oath	oath	_	_	N;SG	_	_	_	_
+3	involves	involve	_	_	PRS;3;FIN;IND;V;SG	_	_	_	_
+4	lawmakers	lawmaker	_	_	N;PL	_	_	_	_
+5	swearing	swear	_	_	V.MSDR;V	_	_	_	_
+6	allegiance	allegiance	_	_	N;SG	_	_	_	_
+7	to	to	_	_	ADP	_	_	_	_
+8	Hong	Hong	_	_	SG;PROPN	_	_	_	_
+9	Kong	Kong	_	_	SG;PROPN	_	_	_	_
+10	as	as	_	_	ADP	_	_	_	_
+11	part	part	_	_	N;SG	_	_	_	_
+12	of	of	_	_	ADP	_	_	_	_
+13	the	the	_	_	DET;DEF	_	_	_	_
+14	People	people	_	_	N;PL	_	_	_	_
+15	’s	’s	_	_	PART	_	_	_	_
+16	Republic	republic	_	_	N;SG	_	_	_	_
+17	of	of	_	_	ADP	_	_	_	_
+18	China	China	_	_	SG;PROPN	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# sent_id = w04004059
+# text = During the thirteenth century, the name Apulia was used by some authors to signify the southern part of the Italian peninsula.
+1	During	during	_	_	ADP	_	_	_	_
+2	the	the	_	_	DET;DEF	_	_	_	_
+3	thirteenth	thirteenth	_	_	ADJ	_	_	_	_
+4	century	century	_	_	N;SG	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	the	the	_	_	DET;DEF	_	_	_	_
+7	name	name	_	_	N;SG	_	_	_	_
+8	Apulia	Apulia	_	_	SG;PROPN	_	_	_	_
+9	was	be	_	_	3;FIN;V;IND;PST;SG	_	_	_	_
+10	used	use	_	_	PST;V.PTCP;V	_	_	_	_
+11	by	by	_	_	ADP	_	_	_	_
+12	some	some	_	_	DET	_	_	_	_
+13	authors	author	_	_	N;PL	_	_	_	_
+14	to	to	_	_	PART	_	_	_	_
+15	signify	signify	_	_	NFIN;V	_	_	_	_
+16	the	the	_	_	DET;DEF	_	_	_	_
+17	southern	southern	_	_	ADJ	_	_	_	_
+18	part	part	_	_	N;SG	_	_	_	_
+19	of	of	_	_	ADP	_	_	_	_
+20	the	the	_	_	DET;DEF	_	_	_	_
+21	Italian	italian	_	_	ADJ	_	_	_	_
+22	peninsula	peninsula	_	_	N;SG	_	_	_	_
+23	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01118
+# sent_id = n01118003
+# text = Drop the mic.
+1	Drop	drop	_	_	NFIN;V	_	_	_	_
+2	the	the	_	_	DET;DEF	_	_	_	_
+3	mic	mic	_	_	N;SG	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01089
+# sent_id = w01089017
+# text = Most of the information about the period comes from burial sites and the grave goods contained within them.
+1	Most	most	_	_	RL;ADJ	_	_	_	_
+2	of	of	_	_	ADP	_	_	_	_
+3	the	the	_	_	DET;DEF	_	_	_	_
+4	information	information	_	_	N;SG	_	_	_	_
+5	about	about	_	_	ADP	_	_	_	_
+6	the	the	_	_	DET;DEF	_	_	_	_
+7	period	period	_	_	N;SG	_	_	_	_
+8	comes	come	_	_	PRS;3;FIN;IND;V;SG	_	_	_	_
+9	from	from	_	_	ADP	_	_	_	_
+10	burial	burial	_	_	N;SG	_	_	_	_
+11	sites	site	_	_	N;PL	_	_	_	_
+12	and	and	_	_	CONJ	_	_	_	_
+13	the	the	_	_	DET;DEF	_	_	_	_
+14	grave	grave	_	_	N;SG	_	_	_	_
+15	goods	goods	_	_	N;PL	_	_	_	_
+16	contained	contain	_	_	PST;V.PTCP;V	_	_	_	_
+17	within	within	_	_	ADP	_	_	_	_
+18	them	they	_	_	PL;3;ACC;PRO	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01058
+# sent_id = w01058009
+# text = However this was reversed when Julian was killed in battle in 363.
+1	However	however	_	_	ADV	_	_	_	_
+2	this	this	_	_	PRO;SG	_	_	_	_
+3	was	be	_	_	3;FIN;V;IND;PST;SG	_	_	_	_
+4	reversed	reverse	_	_	PST;V.PTCP;V	_	_	_	_
+5	when	when	_	_	ADV	_	_	_	_
+6	Julian	Julian	_	_	SG;PROPN	_	_	_	_
+7	was	be	_	_	3;FIN;V;IND;PST;SG	_	_	_	_
+8	killed	kill	_	_	PST;V.PTCP;V	_	_	_	_
+9	in	in	_	_	ADP	_	_	_	_
+10	battle	battle	_	_	N;SG	_	_	_	_
+11	in	in	_	_	ADP	_	_	_	_
+12	363	363	_	_	NUM	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n02034
+# sent_id = n02034018
+# text = The witching hour starts up at least by the time the scary organ is played, such as in the 60s hit Monster Mash.
+1	The	the	_	_	DET;DEF	_	_	_	_
+2	witching	witching	_	_	N;SG	_	_	_	_
+3	hour	hour	_	_	N;SG	_	_	_	_
+4	starts	start	_	_	PRS;3;FIN;IND;V;SG	_	_	_	_
+5	up	up	_	_	ADP	_	_	_	_
+6	at	at	_	_	ADP	_	_	_	_
+7	least	least	_	_	RL;ADV	_	_	_	_
+8	by	by	_	_	ADP	_	_	_	_
+9	the	the	_	_	DET;DEF	_	_	_	_
+10	time	time	_	_	N;SG	_	_	_	_
+11	the	the	_	_	DET;DEF	_	_	_	_
+12	scary	scary	_	_	ADJ	_	_	_	_
+13	organ	organ	_	_	N;SG	_	_	_	_
+14	is	be	_	_	PRS;3;FIN;V;IND;SG	_	_	_	_
+15	played	play	_	_	PST;V.PTCP;V	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	such	such	_	_	ADJ	_	_	_	_
+18	as	as	_	_	ADP	_	_	_	_
+19	in	in	_	_	ADP	_	_	_	_
+20	the	the	_	_	DET;DEF	_	_	_	_
+21	60s	60	_	_	N;PL	_	_	_	_
+22	hit	hit	_	_	PST;IND;N;FIN	_	_	_	_
+23	Monster	monster	_	_	SG;PROPN	_	_	_	_
+24	Mash	mash	_	_	SG;PROPN	_	_	_	_
+25	.	.	_	_	_	_	_	_	_
+
+# sent_id = w02017061
+# text = The traces of blood on the clothes were in the shape that they were reported to have by the news reports on the day of the murder.
+1	The	the	_	_	DET;DEF	_	_	_	_
+2	traces	trace	_	_	N;PL	_	_	_	_
+3	of	of	_	_	ADP	_	_	_	_
+4	blood	blood	_	_	N;SG	_	_	_	_
+5	on	on	_	_	ADP	_	_	_	_
+6	the	the	_	_	DET;DEF	_	_	_	_
+7	clothes	clothes	_	_	N;PL	_	_	_	_
+8	were	be	_	_	PST;IND;FIN;V	_	_	_	_
+9	in	in	_	_	ADP	_	_	_	_
+10	the	the	_	_	DET;DEF	_	_	_	_
+11	shape	shape	_	_	N;SG	_	_	_	_
+12	that	that	_	_	PRO	_	_	_	_
+13	they	they	_	_	PL;3;NOM;PRO	_	_	_	_
+14	were	be	_	_	PST;IND;FIN;V	_	_	_	_
+15	reported	report	_	_	PST;V.PTCP;V	_	_	_	_
+16	to	to	_	_	PART	_	_	_	_
+17	have	have	_	_	NFIN;V	_	_	_	_
+18	by	by	_	_	ADP	_	_	_	_
+19	the	the	_	_	DET;DEF	_	_	_	_
+20	news	news	_	_	N;SG	_	_	_	_
+21	reports	report	_	_	N;PL	_	_	_	_
+22	on	on	_	_	ADP	_	_	_	_
+23	the	the	_	_	DET;DEF	_	_	_	_
+24	day	day	_	_	N;SG	_	_	_	_
+25	of	of	_	_	ADP	_	_	_	_
+26	the	the	_	_	DET;DEF	_	_	_	_
+27	murder	murder	_	_	N;SG	_	_	_	_
+28	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01047104
+# text = This brought the book to the attention of the chemical industry and its lobbyists, as well as a wide swath of the American populace.
+1	This	this	_	_	PRO;SG	_	_	_	_
+2	brought	bring	_	_	PST;IND;FIN;V	_	_	_	_
+3	the	the	_	_	DET;DEF	_	_	_	_
+4	book	book	_	_	N;SG	_	_	_	_
+5	to	to	_	_	ADP	_	_	_	_
+6	the	the	_	_	DET;DEF	_	_	_	_
+7	attention	attention	_	_	N;SG	_	_	_	_
+8	of	of	_	_	ADP	_	_	_	_
+9	the	the	_	_	DET;DEF	_	_	_	_
+10	chemical	chemical	_	_	N;SG	_	_	_	_
+11	industry	industry	_	_	N;SG	_	_	_	_
+12	and	and	_	_	CONJ	_	_	_	_
+13	its	its	_	_	NEUT;3;PRO;SG	_	_	_	_
+14	lobbyists	lobbyist	_	_	N;PL	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	as	as	_	_	ADV	_	_	_	_
+17	well	well	_	_	ADV	_	_	_	_
+18	as	as	_	_	ADP	_	_	_	_
+19	a	a	_	_	DET;INDF	_	_	_	_
+20	wide	wide	_	_	ADJ	_	_	_	_
+21	swath	swath	_	_	N;SG	_	_	_	_
+22	of	of	_	_	ADP	_	_	_	_
+23	the	the	_	_	DET;DEF	_	_	_	_
+24	American	american	_	_	ADJ	_	_	_	_
+25	populace	populace	_	_	N;SG	_	_	_	_
+26	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01011011
+# text = She killed Andre Price III by pressing his face into an air mattress in her sitting room before trying to do the same to her daughter, Angel, police said.
+1	She	she	_	_	3;FEM;NOM;PRO;SG	_	_	_	_
+2	killed	kill	_	_	PST;IND;FIN;V	_	_	_	_
+3	Andre	Andre	_	_	SG;PROPN	_	_	_	_
+4	Price	Price	_	_	SG;PROPN	_	_	_	_
+5	III	III	_	_	SG;PROPN	_	_	_	_
+6	by	by	_	_	CONJ	_	_	_	_
+7	pressing	press	_	_	V.MSDR;V	_	_	_	_
+8	his	he	_	_	MASC;3;PRO;SG	_	_	_	_
+9	face	face	_	_	N;SG	_	_	_	_
+10	into	into	_	_	ADP	_	_	_	_
+11	an	a	_	_	DET;INDF	_	_	_	_
+12	air	air	_	_	N;SG	_	_	_	_
+13	mattress	mattress	_	_	N;SG	_	_	_	_
+14	in	in	_	_	ADP	_	_	_	_
+15	her	she	_	_	3;FEM;PRO;SG	_	_	_	_
+16	sitting	sitting	_	_	N;SG	_	_	_	_
+17	room	room	_	_	N;SG	_	_	_	_
+18	before	before	_	_	CONJ	_	_	_	_
+19	trying	try	_	_	V.MSDR;V	_	_	_	_
+20	to	to	_	_	PART	_	_	_	_
+21	do	do	_	_	NFIN;V	_	_	_	_
+22	the	the	_	_	DET;DEF	_	_	_	_
+23	same	same	_	_	ADJ	_	_	_	_
+24	to	to	_	_	ADP	_	_	_	_
+25	her	she	_	_	3;FEM;PRO;SG	_	_	_	_
+26	daughter	daughter	_	_	N;SG	_	_	_	_
+27	,	,	_	_	_	_	_	_	_
+28	Angel	Angel	_	_	SG;PROPN	_	_	_	_
+29	,	,	_	_	_	_	_	_	_
+30	police	police	_	_	N;PL	_	_	_	_
+31	said	say	_	_	PST;IND;FIN;V	_	_	_	_
+32	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01140031
+# text = Once Hans Pettersson was able to secure funds to pay Rona's expenses, Joliot-Curie allowed her to come and study polonium separation at the Curie Institute in Paris.
+1	Once	once	_	_	CONJ	_	_	_	_
+2	Hans	Hans	_	_	SG;PROPN	_	_	_	_
+3	Pettersson	Pettersson	_	_	SG;PROPN	_	_	_	_
+4	was	be	_	_	3;FIN;V;IND;PST;SG	_	_	_	_
+5	able	able	_	_	ADJ	_	_	_	_
+6	to	to	_	_	PART	_	_	_	_
+7	secure	secure	_	_	NFIN;V	_	_	_	_
+8	funds	fund	_	_	N;PL	_	_	_	_
+9	to	to	_	_	PART	_	_	_	_
+10	pay	pay	_	_	NFIN;V	_	_	_	_
+11	Rona	Rona	_	_	SG;PROPN	_	_	_	_
+12	's	's	_	_	PART	_	_	_	_
+13	expenses	expense	_	_	N;PL	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	Joliot	Joliot	_	_	SG;PROPN	_	_	_	_
+16	-	-	_	_	_	_	_	_	_
+17	Curie	Curie	_	_	SG;PROPN	_	_	_	_
+18	allowed	allow	_	_	PST;IND;FIN;V	_	_	_	_
+19	her	she	_	_	3;ACC;FEM;PRO;SG	_	_	_	_
+20	to	to	_	_	PART	_	_	_	_
+21	come	come	_	_	NFIN;V	_	_	_	_
+22	and	and	_	_	CONJ	_	_	_	_
+23	study	study	_	_	NFIN;V	_	_	_	_
+24	polonium	polonium	_	_	N;SG	_	_	_	_
+25	separation	separation	_	_	N;SG	_	_	_	_
+26	at	at	_	_	ADP	_	_	_	_
+27	the	the	_	_	DET;DEF	_	_	_	_
+28	Curie	Curie	_	_	SG;PROPN	_	_	_	_
+29	Institute	institute	_	_	SG;PROPN	_	_	_	_
+30	in	in	_	_	ADP	_	_	_	_
+31	Paris	Paris	_	_	SG;PROPN	_	_	_	_
+32	.	.	_	_	_	_	_	_	_
+
+# sent_id = n04007018
+# text = This is what has been written in a note to Mps after the decision of the ex-minister to leave the party.
+1	This	this	_	_	PRO;SG	_	_	_	_
+2	is	be	_	_	PRS;3;FIN;V;IND;SG	_	_	_	_
+3	what	what	_	_	PRO	_	_	_	_
+4	has	have	_	_	PRS;3;FIN;V;IND;SG	_	_	_	_
+5	been	be	_	_	PST;V.PTCP;V	_	_	_	_
+6	written	write	_	_	PST;V.PTCP;V	_	_	_	_
+7	in	in	_	_	ADP	_	_	_	_
+8	a	a	_	_	DET;INDF	_	_	_	_
+9	note	note	_	_	N;SG	_	_	_	_
+10	to	to	_	_	ADP	_	_	_	_
+11	Mps	Mps	_	_	SG;PROPN	_	_	_	_
+12	after	after	_	_	ADP	_	_	_	_
+13	the	the	_	_	DET;DEF	_	_	_	_
+14	decision	decision	_	_	N;SG	_	_	_	_
+15	of	of	_	_	ADP	_	_	_	_
+16	the	the	_	_	DET;DEF	_	_	_	_
+17	ex-minister	ex-minister	_	_	N;SG	_	_	_	_
+18	to	to	_	_	PART	_	_	_	_
+19	leave	leave	_	_	NFIN;V	_	_	_	_
+20	the	the	_	_	DET;DEF	_	_	_	_
+21	party	party	_	_	N;SG	_	_	_	_
+22	.	.	_	_	_	_	_	_	_
+
+# sent_id = w05005086
+# text = The expedition was led by General Joseph Burgoyne who intended to reach Albany.
+1	The	the	_	_	DET;DEF	_	_	_	_
+2	expedition	expedition	_	_	N;SG	_	_	_	_
+3	was	be	_	_	3;FIN;V;IND;PST;SG	_	_	_	_
+4	led	lead	_	_	PST;V.PTCP;V	_	_	_	_
+5	by	by	_	_	ADP	_	_	_	_
+6	General	general	_	_	SG;PROPN	_	_	_	_
+7	Joseph	Joseph	_	_	SG;PROPN	_	_	_	_
+8	Burgoyne	Burgoyne	_	_	SG;PROPN	_	_	_	_
+9	who	who	_	_	PRO	_	_	_	_
+10	intended	intend	_	_	PST;IND;FIN;V	_	_	_	_
+11	to	to	_	_	PART	_	_	_	_
+12	reach	reach	_	_	NFIN;V	_	_	_	_
+13	Albany	Albany	_	_	SG;PROPN	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01033061
+# text = Investigation and expeditions to the island continue.
+1	Investigation	investigation	_	_	N;SG	_	_	_	_
+2	and	and	_	_	CONJ	_	_	_	_
+3	expeditions	expedition	_	_	N;PL	_	_	_	_
+4	to	to	_	_	ADP	_	_	_	_
+5	the	the	_	_	DET;DEF	_	_	_	_
+6	island	island	_	_	N;SG	_	_	_	_
+7	continue	continue	_	_	IND;PRS;FIN;V	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01053045
+# text = According to the New Testament, Paul spent eighteen months in Corinth, approximately seventeen years after his conversion.
+1	According	accord	_	_	V.MSDR;V	_	_	_	_
+2	to	to	_	_	ADP	_	_	_	_
+3	the	the	_	_	DET;DEF	_	_	_	_
+4	New	New	_	_	SG;PROPN	_	_	_	_
+5	Testament	testament	_	_	SG;PROPN	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	Paul	Paul	_	_	SG;PROPN	_	_	_	_
+8	spent	spend	_	_	PST;IND;FIN;V	_	_	_	_
+9	eighteen	eighteen	_	_	NUM	_	_	_	_
+10	months	month	_	_	N;PL	_	_	_	_
+11	in	in	_	_	ADP	_	_	_	_
+12	Corinth	Corinth	_	_	SG;PROPN	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	approximately	approximately	_	_	ADV	_	_	_	_
+15	seventeen	seventeen	_	_	NUM	_	_	_	_
+16	years	year	_	_	N;PL	_	_	_	_
+17	after	after	_	_	ADP	_	_	_	_
+18	his	he	_	_	MASC;3;PRO;SG	_	_	_	_
+19	conversion	conversion	_	_	N;SG	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# sent_id = n05006013
+# text = Emphasis, fine irony, blunt innuendos and other well used verbal devices fit into parliamentary oratory, but flicking at each other and slapstick comedy do not.
+1	Emphasis	emphasis	_	_	N;SG	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	fine	fine	_	_	ADJ	_	_	_	_
+4	irony	irony	_	_	N;SG	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	blunt	blunt	_	_	ADJ	_	_	_	_
+7	innuendos	innuendo	_	_	N;PL	_	_	_	_
+8	and	and	_	_	CONJ	_	_	_	_
+9	other	other	_	_	ADJ	_	_	_	_
+10	well	well	_	_	ADV	_	_	_	_
+11	used	use	_	_	PST;V.PTCP;V	_	_	_	_
+12	verbal	verbal	_	_	ADJ	_	_	_	_
+13	devices	device	_	_	N;PL	_	_	_	_
+14	fit	fit	_	_	IND;PRS;FIN;V	_	_	_	_
+15	into	into	_	_	ADP	_	_	_	_
+16	parliamentary	parliamentary	_	_	ADJ	_	_	_	_
+17	oratory	oratory	_	_	N;SG	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	but	but	_	_	CONJ	_	_	_	_
+20	flicking	flick	_	_	V.MSDR;V	_	_	_	_
+21	at	at	_	_	ADP	_	_	_	_
+22	each	each	_	_	DET	_	_	_	_
+23	other	other	_	_	ADJ	_	_	_	_
+24	and	and	_	_	CONJ	_	_	_	_
+25	slapstick	slapstick	_	_	N;SG	_	_	_	_
+26	comedy	comedy	_	_	N;SG	_	_	_	_
+27	do	do	_	_	IND;PRS;FIN;V	_	_	_	_
+28	not	not	_	_	NEG;ADV	_	_	_	_
+29	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01145028
+# text = "There are 1200 volunteers working for the parade alone," González Anaya says.
+1	"	"	_	_	_	_	_	_	_
+2	There	there	_	_	PRO	_	_	_	_
+3	are	be	_	_	IND;PRS;FIN;V	_	_	_	_
+4	1200	1200	_	_	NUM	_	_	_	_
+5	volunteers	volunteer	_	_	N;PL	_	_	_	_
+6	working	work	_	_	V.MSDR;V	_	_	_	_
+7	for	for	_	_	ADP	_	_	_	_
+8	the	the	_	_	DET;DEF	_	_	_	_
+9	parade	parade	_	_	N;SG	_	_	_	_
+10	alone	alone	_	_	ADV	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	"	"	_	_	_	_	_	_	_
+13	González	González	_	_	SG;PROPN	_	_	_	_
+14	Anaya	Anaya	_	_	SG;PROPN	_	_	_	_
+15	says	say	_	_	PRS;3;FIN;IND;V;SG	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01016034
+# text = During rains precipitation, the water droplets absorb and dissolve carbon dioxide from the surrounding air.
+1	During	during	_	_	ADP	_	_	_	_
+2	rains	rain	_	_	N;PL	_	_	_	_
+3	precipitation	precipitation	_	_	N;SG	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	the	the	_	_	DET;DEF	_	_	_	_
+6	water	water	_	_	N;SG	_	_	_	_
+7	droplets	droplet	_	_	N;PL	_	_	_	_
+8	absorb	absorb	_	_	IND;PRS;FIN;V	_	_	_	_
+9	and	and	_	_	CONJ	_	_	_	_
+10	dissolve	dissolve	_	_	IND;PRS;FIN;V	_	_	_	_
+11	carbon	carbon	_	_	N;SG	_	_	_	_
+12	dioxide	dioxide	_	_	N;SG	_	_	_	_
+13	from	from	_	_	ADP	_	_	_	_
+14	the	the	_	_	DET;DEF	_	_	_	_
+15	surrounding	surround	_	_	V.MSDR;V	_	_	_	_
+16	air	air	_	_	N;SG	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = w02013033
+# text = The Suez Crisis showed the limits of the old colonial powers such as Great Britain and France in a changing world.
+1	The	the	_	_	DET;DEF	_	_	_	_
+2	Suez	Suez	_	_	SG;PROPN	_	_	_	_
+3	Crisis	crisis	_	_	SG;PROPN	_	_	_	_
+4	showed	show	_	_	PST;IND;FIN;V	_	_	_	_
+5	the	the	_	_	DET;DEF	_	_	_	_
+6	limits	limit	_	_	N;PL	_	_	_	_
+7	of	of	_	_	ADP	_	_	_	_
+8	the	the	_	_	DET;DEF	_	_	_	_
+9	old	old	_	_	ADJ	_	_	_	_
+10	colonial	colonial	_	_	ADJ	_	_	_	_
+11	powers	power	_	_	N;PL	_	_	_	_
+12	such	such	_	_	ADJ	_	_	_	_
+13	as	as	_	_	ADP	_	_	_	_
+14	Great	great	_	_	ADJ	_	_	_	_
+15	Britain	Britain	_	_	SG;PROPN	_	_	_	_
+16	and	and	_	_	CONJ	_	_	_	_
+17	France	France	_	_	SG;PROPN	_	_	_	_
+18	in	in	_	_	ADP	_	_	_	_
+19	a	a	_	_	DET;INDF	_	_	_	_
+20	changing	change	_	_	V.MSDR;V	_	_	_	_
+21	world	world	_	_	N;SG	_	_	_	_
+22	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01042
+# sent_id = n01042004
+# text = The Ontario Independent Police Review Director, Gerry McNeilly, set the terms for his review this week after "alarming questions" were raised about how officers interact with Indigenous peoples.
+1	The	the	_	_	DET;DEF	_	_	_	_
+2	Ontario	Ontario	_	_	SG;PROPN	_	_	_	_
+3	Independent	independent	_	_	ADJ	_	_	_	_
+4	Police	police	_	_	N;PL	_	_	_	_
+5	Review	review	_	_	N;SG	_	_	_	_
+6	Director	director	_	_	N;SG	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	Gerry	Gerry	_	_	SG;PROPN	_	_	_	_
+9	McNeilly	McNeilly	_	_	SG;PROPN	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	set	set	_	_	PST;IND;FIN;V	_	_	_	_
+12	the	the	_	_	DET;DEF	_	_	_	_
+13	terms	term	_	_	N;PL	_	_	_	_
+14	for	for	_	_	ADP	_	_	_	_
+15	his	he	_	_	MASC;3;PRO;SG	_	_	_	_
+16	review	review	_	_	N;SG	_	_	_	_
+17	this	this	_	_	DET;SG	_	_	_	_
+18	week	week	_	_	N;SG	_	_	_	_
+19	after	after	_	_	CONJ	_	_	_	_
+20	"	"	_	_	_	_	_	_	_
+21	alarming	alarming	_	_	ADJ	_	_	_	_
+22	questions	question	_	_	N;PL	_	_	_	_
+23	"	"	_	_	_	_	_	_	_
+24	were	be	_	_	PST;IND;FIN;V	_	_	_	_
+25	raised	raise	_	_	PST;V.PTCP;V	_	_	_	_
+26	about	about	_	_	CONJ	_	_	_	_
+27	how	how	_	_	ADV	_	_	_	_
+28	officers	officer	_	_	N;PL	_	_	_	_
+29	interact	interact	_	_	IND;PRS;FIN;V	_	_	_	_
+30	with	with	_	_	ADP	_	_	_	_
+31	Indigenous	indigenous	_	_	ADJ	_	_	_	_
+32	peoples	people	_	_	N;PL	_	_	_	_
+33	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n03008
+# sent_id = n03008011
+# text = "ETA is on its way out," the French contingent revealed.
+1	"	"	_	_	_	_	_	_	_
+2	ETA	ETA	_	_	SG;PROPN	_	_	_	_
+3	is	be	_	_	PRS;3;FIN;IND;V;SG	_	_	_	_
+4	on	on	_	_	ADP	_	_	_	_
+5	its	its	_	_	NEUT;3;PRO;SG	_	_	_	_
+6	way	way	_	_	N;SG	_	_	_	_
+7	out	out	_	_	ADV	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	"	"	_	_	_	_	_	_	_
+10	the	the	_	_	DET;DEF	_	_	_	_
+11	French	french	_	_	ADJ	_	_	_	_
+12	contingent	contingent	_	_	N;SG	_	_	_	_
+13	revealed	reveal	_	_	PST;IND;FIN;V	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w03003
+# sent_id = w03003023
+# text = Von Bellingshausen sighted Antarctica on the 27th of January 1820, three days before Bransfield sighted land, and ten months before Palmer did so in November 1820.
+1	Von	Von	_	_	SG;PROPN	_	_	_	_
+2	Bellingshausen	Bellingshausen	_	_	SG;PROPN	_	_	_	_
+3	sighted	sight	_	_	PST;IND;FIN;V	_	_	_	_
+4	Antarctica	Antarctica	_	_	SG;PROPN	_	_	_	_
+5	on	on	_	_	ADP	_	_	_	_
+6	the	the	_	_	DET;DEF	_	_	_	_
+7	27th	27th	_	_	N;SG	_	_	_	_
+8	of	of	_	_	ADP	_	_	_	_
+9	January	January	_	_	SG;PROPN	_	_	_	_
+10	1820	1820	_	_	NUM	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	three	three	_	_	NUM	_	_	_	_
+13	days	day	_	_	N;PL	_	_	_	_
+14	before	before	_	_	CONJ	_	_	_	_
+15	Bransfield	Bransfield	_	_	SG;PROPN	_	_	_	_
+16	sighted	sight	_	_	PST;IND;FIN;V	_	_	_	_
+17	land	land	_	_	N;SG	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	and	and	_	_	CONJ	_	_	_	_
+20	ten	ten	_	_	NUM	_	_	_	_
+21	months	month	_	_	N;PL	_	_	_	_
+22	before	before	_	_	ADP	_	_	_	_
+23	Palmer	Palmer	_	_	SG;PROPN	_	_	_	_
+24	did	do	_	_	PST;IND;FIN;V	_	_	_	_
+25	so	so	_	_	ADV	_	_	_	_
+26	in	in	_	_	ADP	_	_	_	_
+27	November	November	_	_	SG;PROPN	_	_	_	_
+28	1820	1820	_	_	NUM	_	_	_	_
+29	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01111093
+# text = Winstone was declared bankrupt on 4 October 1988 and again on 19 March 1993.
+1	Winstone	Winstone	_	_	SG;PROPN	_	_	_	_
+2	was	be	_	_	3;FIN;V;IND;PST;SG	_	_	_	_
+3	declared	declare	_	_	PST;V.PTCP;V	_	_	_	_
+4	bankrupt	bankrupt	_	_	ADJ	_	_	_	_
+5	on	on	_	_	ADP	_	_	_	_
+6	4	4	_	_	NUM	_	_	_	_
+7	October	October	_	_	SG;PROPN	_	_	_	_
+8	1988	1988	_	_	NUM	_	_	_	_
+9	and	and	_	_	CONJ	_	_	_	_
+10	again	again	_	_	ADV	_	_	_	_
+11	on	on	_	_	ADP	_	_	_	_
+12	19	19	_	_	NUM	_	_	_	_
+13	March	March	_	_	SG;PROPN	_	_	_	_
+14	1993	1993	_	_	NUM	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01106
+# sent_id = n01106008
+# text = The annual survey also revealed that worries about taking on fresh financial burdens has rocketed.
+1	The	the	_	_	DET;DEF	_	_	_	_
+2	annual	annual	_	_	ADJ	_	_	_	_
+3	survey	survey	_	_	N;SG	_	_	_	_
+4	also	also	_	_	ADV	_	_	_	_
+5	revealed	reveal	_	_	PST;IND;FIN;V	_	_	_	_
+6	that	that	_	_	CONJ	_	_	_	_
+7	worries	worry	_	_	N;PL	_	_	_	_
+8	about	about	_	_	CONJ	_	_	_	_
+9	taking	take	_	_	V.MSDR;V	_	_	_	_
+10	on	on	_	_	ADP	_	_	_	_
+11	fresh	fresh	_	_	ADJ	_	_	_	_
+12	financial	financial	_	_	ADJ	_	_	_	_
+13	burdens	burden	_	_	N;PL	_	_	_	_
+14	has	have	_	_	PRS;3;FIN;V;IND;SG	_	_	_	_
+15	rocketed	rocket	_	_	PST;V.PTCP;V	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = w03001058
+# text = The history of Carcassonne is directly linked to that of its fortified city.
+1	The	the	_	_	DET;DEF	_	_	_	_
+2	history	history	_	_	N;SG	_	_	_	_
+3	of	of	_	_	ADP	_	_	_	_
+4	Carcassonne	Carcassonne	_	_	SG;PROPN	_	_	_	_
+5	is	be	_	_	PRS;3;FIN;V;IND;SG	_	_	_	_
+6	directly	directly	_	_	ADV	_	_	_	_
+7	linked	link	_	_	PST;V.PTCP;V	_	_	_	_
+8	to	to	_	_	ADP	_	_	_	_
+9	that	that	_	_	PRO;SG	_	_	_	_
+10	of	of	_	_	ADP	_	_	_	_
+11	its	its	_	_	NEUT;3;PRO;SG	_	_	_	_
+12	fortified	fortify	_	_	PST;V.PTCP;V	_	_	_	_
+13	city	city	_	_	N;SG	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01073
+# sent_id = n01073004
+# text = Who can stop this Australia side?
+1	Who	who	_	_	PRO	_	_	_	_
+2	can	can	_	_	FIN;V	_	_	_	_
+3	stop	stop	_	_	NFIN;V	_	_	_	_
+4	this	this	_	_	DET;SG	_	_	_	_
+5	Australia	Australia	_	_	SG;PROPN	_	_	_	_
+6	side	side	_	_	N;SG	_	_	_	_
+7	?	?	_	_	_	_	_	_	_
+
+# sent_id = n01041018
+# text = "Physicians don't have these tools, they have only a prescription pad and an injection," Mailis said.
+1	"	"	_	_	_	_	_	_	_
+2	Physicians	physician	_	_	N;PL	_	_	_	_
+3	do	do	_	_	IND;PRS;FIN;V	_	_	_	_
+4	n't	not	_	_	PART;NEG	_	_	_	_
+5	have	have	_	_	NFIN;V	_	_	_	_
+6	these	these	_	_	DET;PL	_	_	_	_
+7	tools	tool	_	_	N;PL	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	they	they	_	_	PL;3;NOM;PRO	_	_	_	_
+10	have	have	_	_	IND;PRS;FIN;V	_	_	_	_
+11	only	only	_	_	ADV	_	_	_	_
+12	a	a	_	_	DET;INDF	_	_	_	_
+13	prescription	prescription	_	_	N;SG	_	_	_	_
+14	pad	pad	_	_	N;SG	_	_	_	_
+15	and	and	_	_	CONJ	_	_	_	_
+16	an	a	_	_	DET;INDF	_	_	_	_
+17	injection	injection	_	_	N;SG	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	"	"	_	_	_	_	_	_	_
+20	Mailis	Mailis	_	_	SG;PROPN	_	_	_	_
+21	said	say	_	_	PST;IND;FIN;V	_	_	_	_
+22	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01141022
+# text = But its latest effort into the workplace chat game is a part of a larger trend from tech companies.
+1	But	but	_	_	CONJ	_	_	_	_
+2	its	its	_	_	NEUT;3;PRO;SG	_	_	_	_
+3	latest	latest	_	_	RL;ADJ	_	_	_	_
+4	effort	effort	_	_	N;SG	_	_	_	_
+5	into	into	_	_	ADP	_	_	_	_
+6	the	the	_	_	DET;DEF	_	_	_	_
+7	workplace	workplace	_	_	N;SG	_	_	_	_
+8	chat	chat	_	_	N;SG	_	_	_	_
+9	game	game	_	_	N;SG	_	_	_	_
+10	is	be	_	_	PRS;3;FIN;V;IND;SG	_	_	_	_
+11	a	a	_	_	DET;INDF	_	_	_	_
+12	part	part	_	_	N;SG	_	_	_	_
+13	of	of	_	_	ADP	_	_	_	_
+14	a	a	_	_	DET;INDF	_	_	_	_
+15	larger	larger	_	_	CMPR;ADJ	_	_	_	_
+16	trend	trend	_	_	N;SG	_	_	_	_
+17	from	from	_	_	ADP	_	_	_	_
+18	tech	tech	_	_	N;SG	_	_	_	_
+19	companies	company	_	_	N;PL	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01086037
+# text = By 1563, the population of Venice had dropped to about 168,000 people.
+1	By	by	_	_	ADP	_	_	_	_
+2	1563	1563	_	_	NUM	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	the	the	_	_	DET;DEF	_	_	_	_
+5	population	population	_	_	N;SG	_	_	_	_
+6	of	of	_	_	ADP	_	_	_	_
+7	Venice	Venice	_	_	SG;PROPN	_	_	_	_
+8	had	have	_	_	PST;IND;FIN;V	_	_	_	_
+9	dropped	drop	_	_	PST;V.PTCP;V	_	_	_	_
+10	to	to	_	_	ADP	_	_	_	_
+11	about	about	_	_	ADV	_	_	_	_
+12	168,000	168,000	_	_	NUM	_	_	_	_
+13	people	people	_	_	N;PL	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01115
+# sent_id = w01115022
+# text = With advice from Alexander, he was able to work out a compromise: he would attend a university, but would study literature.
+1	With	with	_	_	ADP	_	_	_	_
+2	advice	advice	_	_	N;SG	_	_	_	_
+3	from	from	_	_	ADP	_	_	_	_
+4	Alexander	Alexander	_	_	SG;PROPN	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	he	he	_	_	MASC;3;NOM;PRO;SG	_	_	_	_
+7	was	be	_	_	3;FIN;V;IND;PST;SG	_	_	_	_
+8	able	able	_	_	ADJ	_	_	_	_
+9	to	to	_	_	PART	_	_	_	_
+10	work	work	_	_	NFIN;V	_	_	_	_
+11	out	out	_	_	ADP	_	_	_	_
+12	a	a	_	_	DET;INDF	_	_	_	_
+13	compromise	compromise	_	_	N;SG	_	_	_	_
+14	:	:	_	_	_	_	_	_	_
+15	he	he	_	_	MASC;3;NOM;PRO;SG	_	_	_	_
+16	would	would	_	_	FIN;V	_	_	_	_
+17	attend	attend	_	_	NFIN;V	_	_	_	_
+18	a	a	_	_	DET;INDF	_	_	_	_
+19	university	university	_	_	N;SG	_	_	_	_
+20	,	,	_	_	_	_	_	_	_
+21	but	but	_	_	CONJ	_	_	_	_
+22	would	would	_	_	FIN;V	_	_	_	_
+23	study	study	_	_	NFIN;V	_	_	_	_
+24	literature	literature	_	_	N;SG	_	_	_	_
+25	.	.	_	_	_	_	_	_	_
+

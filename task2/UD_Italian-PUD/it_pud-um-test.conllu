@@ -1,0 +1,2865 @@
+# newdoc id = n01133
+# sent_id = n01133014
+# text = Gli studenti olandesi devono ancora decidere se metteranno in commercio la loro motocicletta elettrica.
+# text_en = The Dutch students have yet to decide if they will be commercializing their electric motorcycle.
+1	Gli	il	_	_	DET;MASC;PL	_	_	_	_
+2	studenti	studente	_	_	N;MASC;PL	_	_	_	_
+3	olandesi	olandese	_	_	ADJ;MASC;PL	_	_	_	_
+4	devono	dovere	_	_	V;3;IND;PL;PRS;ACT	_	_	_	_
+5	ancora	ancora	_	_	ADV	_	_	_	_
+6	decidere	decidere	_	_	V;ACT	_	_	_	_
+7	se	se	_	_	ADP	_	_	_	_
+8	metteranno	mettere	_	_	3;FUT;IND;PL;V;ACT	_	_	_	_
+9	in	in	_	_	ADP	_	_	_	_
+10	commercio	commercio	_	_	SG;N;MASC	_	_	_	_
+11	la	il	_	_	DET;SG;FEM	_	_	_	_
+12	loro	loro	_	_	PSSP;PRO;3;SG;FEM	_	_	_	_
+13	motocicletta	motocicletta	_	_	N;SG;FEM	_	_	_	_
+14	elettrica	elettrico	_	_	ADJ;SG;FEM	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01050068
+# text = Tuttavia, la neocostituita Repubblica di Cina considerava la Mongolia parte del suo territorio.
+# text_en = But, the newly established Republic of China considered Mongolia to be part of its own territory.
+1	Tuttavia	tuttavia	_	_	ADV	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	la	il	_	_	DET;SG;FEM	_	_	_	_
+4	neocostituita	neocostituita	_	_	ADJ;SG;FEM	_	_	_	_
+5	Repubblica	Repubblica	_	_	PROPN;SG;FEM	_	_	_	_
+6	di	di	_	_	ADP	_	_	_	_
+7	Cina	Cina	_	_	PROPN;SG;FEM	_	_	_	_
+8	considerava	considerare	_	_	PST;3;SG;IND;IPFV;V;ACT	_	_	_	_
+9	la	il	_	_	DET;SG;FEM	_	_	_	_
+10	Mongolia	Mongolia	_	_	PROPN;SG;FEM	_	_	_	_
+11	parte	parte	_	_	N;SG;FEM	_	_	_	_
+12	di	di	_	_	ADP	_	_	_	_
+13	il	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+14	suo	suo	_	_	PSSS;PRO;3;SG;MASC	_	_	_	_
+15	territorio	territorio	_	_	SG;N;MASC	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = n03001030
+# text = Secondo il programma, parlerà alle 23:45.
+# text_en = According to the programme, she will speak at 23.45.
+1	Secondo	secondo	_	_	ADP	_	_	_	_
+2	il	il	_	_	DET;SG;MASC	_	_	_	_
+3	programma	programma	_	_	SG;N;MASC	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	parlerà	parlare	_	_	3;FUT;SG;IND;V;ACT	_	_	_	_
+6	a	a	_	_	ADP	_	_	_	_
+7	le	il	_	_	DET;DEF;PL;FEM	_	_	_	_
+8	23:45	23:45	_	_	NUM	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01050014
+# text = È possibile avere livelli normali di emoglobina ma avere riserve di ferro molto basse, afferma il Canadian Blood Services (CBS).
+# text_en = It's possible to have normal hemoglobin levels, but to have low iron stores overall, says Canadian Blood Services (CBS).
+1	È	essere	_	_	V;3;SG;IND;PRS;ACT	_	_	_	_
+2	possibile	possibile	_	_	ADJ;SG;MASC	_	_	_	_
+3	avere	avere	_	_	V;ACT	_	_	_	_
+4	livelli	livello	_	_	N;MASC;PL	_	_	_	_
+5	normali	normale	_	_	ADJ;MASC;PL	_	_	_	_
+6	di	di	_	_	ADP	_	_	_	_
+7	emoglobina	emoglobina	_	_	N;SG;FEM	_	_	_	_
+8	ma	ma	_	_	CONJ	_	_	_	_
+9	avere	avere	_	_	V;ACT	_	_	_	_
+10	riserve	riserva	_	_	PL;N;FEM	_	_	_	_
+11	di	di	_	_	ADP	_	_	_	_
+12	ferro	ferro	_	_	SG;N;MASC	_	_	_	_
+13	molto	molto	_	_	ADV	_	_	_	_
+14	basse	basso	_	_	PL;ADJ;FEM	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	afferma	affermare	_	_	3;SG;IND;V;PRS;ACT	_	_	_	_
+17	il	il	_	_	DET;SG;MASC	_	_	_	_
+18	Canadian	Canadian	_	_	PROPN;SG;MASC	_	_	_	_
+19	Blood	Blood	_	_	PROPN;SG;MASC	_	_	_	_
+20	Services	Services	_	_	PROPN;SG;MASC	_	_	_	_
+21	(	(	_	_	_	_	_	_	_
+22	CBS	CBS	_	_	PROPN;SG;MASC	_	_	_	_
+23	)	)	_	_	_	_	_	_	_
+24	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w03003
+# sent_id = w03003023
+# text = Von Bellingshausen avvistò l'Antartide il 27 gennaio 1820, tre giorni prima che Bransfield avvistasse terra e ben 10 mesi prima che Palmer facesse lo stesso nel novembre 1820.
+# text_en = Von Bellingshausen sighted Antarctica on the 27th of January 1820, three days before Bransfield sighted land, and ten months before Palmer did so in November 1820.
+1	Von	Von	_	_	PROPN;SG;MASC	_	_	_	_
+2	Bellingshausen	Bellingshausen	_	_	PROPN;SG;MASC	_	_	_	_
+3	avvistò	avvistare	_	_	PST;3;SG;IND;V;PFV;ACT	_	_	_	_
+4	l'	il	_	_	DET;SG;MASC	_	_	_	_
+5	Antartide	Antartide	_	_	PROPN;SG;MASC	_	_	_	_
+6	il	il	_	_	DET;SG;MASC	_	_	_	_
+7	27	27	_	_	NUM	_	_	_	_
+8	gennaio	gennaio	_	_	SG;N;MASC	_	_	_	_
+9	1820	1820	_	_	NUM	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	tre	tre	_	_	NUM	_	_	_	_
+12	giorni	giorno	_	_	N;MASC;PL	_	_	_	_
+13	prima	prima	_	_	ADV	_	_	_	_
+14	che	che	_	_	CONJ	_	_	_	_
+15	Bransfield	Bransfield	_	_	PROPN;SG;MASC	_	_	_	_
+16	avvistasse	avvistare	_	_	SBJV;PST;3;SG;V;ACT	_	_	_	_
+17	terra	terra	_	_	N;SG;FEM	_	_	_	_
+18	e	e	_	_	CONJ	_	_	_	_
+19	ben	bene	_	_	ADV	_	_	_	_
+20	10	10	_	_	NUM	_	_	_	_
+21	mesi	mese	_	_	N;MASC;PL	_	_	_	_
+22	prima	prima	_	_	ADV	_	_	_	_
+23	che	che	_	_	CONJ	_	_	_	_
+24	Palmer	Palmer	_	_	PROPN;SG;MASC	_	_	_	_
+25	facesse	fare	_	_	SBJV;PST;3;SG;V;ACT	_	_	_	_
+26	lo	lo	_	_	DET;SG;MASC	_	_	_	_
+27	stesso	stesso	_	_	SG;N;MASC	_	_	_	_
+28	in	in	_	_	ADP	_	_	_	_
+29	il	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+30	novembre	novembre	_	_	SG;N;MASC	_	_	_	_
+31	1820	1820	_	_	NUM	_	_	_	_
+32	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01086
+# sent_id = n01086013
+# text = Il mondo può furente e assurdo - ciò nonostante, almeno qualcuno ha l'amor proprio di continuare a protestare contro quella vicenda.
+# text_en = The world may be enraging and absurd – yet at least someone has the self-respect to keep protesting against that fact.
+1	Il	il	_	_	DET;SG;MASC	_	_	_	_
+2	mondo	mondo	_	_	SG;N;MASC	_	_	_	_
+3	può	potere	_	_	3;SG;IND;V;PRS;ACT	_	_	_	_
+4	furente	furente	_	_	ADJ;SG;MASC	_	_	_	_
+5	e	e	_	_	CONJ	_	_	_	_
+6	assurdo	assurdo	_	_	ADJ;SG;MASC	_	_	_	_
+7	-	-	_	_	_	_	_	_	_
+8	ciò	ciò	_	_	DET;SG;MASC	_	_	_	_
+9	nonostante	nonostante	_	_	ADP	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	almeno	almeno	_	_	ADV	_	_	_	_
+12	qualcuno	qualcuno	_	_	SG;N;MASC	_	_	_	_
+13	ha	avere	_	_	3;SG;IND;V;PRS;ACT	_	_	_	_
+14	l'	il	_	_	DET;SG;MASC	_	_	_	_
+15	amor	amor	_	_	SG;N;MASC	_	_	_	_
+16	proprio	proprio	_	_	ADJ;SG;MASC	_	_	_	_
+17	di	di	_	_	ADP	_	_	_	_
+18	continuare	continuare	_	_	V;ACT	_	_	_	_
+19	a	a	_	_	ADP	_	_	_	_
+20	protestare	protestare	_	_	V;ACT	_	_	_	_
+21	contro	contro	_	_	ADP	_	_	_	_
+22	quella	quello	_	_	DET;SG;FEM	_	_	_	_
+23	vicenda	vicenda	_	_	N;SG;FEM	_	_	_	_
+24	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01129021
+# text = Molti di quelli, nelle aree altamente contestate, causeranno il caos il giorno delle elezioni.
+# text_en = Enough of those, in a highly contested area, will lead to chaos election day.
+1	Molti	molto	_	_	N;MASC;PL	_	_	_	_
+2	di	di	_	_	ADP	_	_	_	_
+3	quelli	quello	_	_	PRO;MASC;PL	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	in	in	_	_	ADP	_	_	_	_
+6	le	il	_	_	DET;DEF;PL;FEM	_	_	_	_
+7	aree	area	_	_	PL;N;FEM	_	_	_	_
+8	altamente	alto	_	_	ADV	_	_	_	_
+9	contestate	contestare	_	_	PL;ADJ;FEM	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	causeranno	causare	_	_	3;FUT;IND;PL;V;ACT	_	_	_	_
+12	il	il	_	_	DET;SG;MASC	_	_	_	_
+13	caos	caos	_	_	SG;N;MASC	_	_	_	_
+14	il	il	_	_	DET;SG;MASC	_	_	_	_
+15	giorno	giorno	_	_	SG;N;MASC	_	_	_	_
+16	di	di	_	_	ADP	_	_	_	_
+17	le	il	_	_	DET;DEF;PL;FEM	_	_	_	_
+18	elezioni	elezione	_	_	PL;N;FEM	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01130103
+# text = Questi furono gli ultimi due dischi che Rafferty produsse con Hugh Murphy, che morì nel 1998.
+# text_en = These were the last two records Rafferty produced with Hugh Murphy, who died in 1998.
+1	Questi	questo	_	_	PRO;MASC;PL	_	_	_	_
+2	furono	essere	_	_	PST;V;3;IND;PL;PFV;ACT	_	_	_	_
+3	gli	il	_	_	DET;MASC;PL	_	_	_	_
+4	ultimi	ultimo	_	_	ADJ;MASC;PL	_	_	_	_
+5	due	due	_	_	NUM	_	_	_	_
+6	dischi	disco	_	_	N;MASC;PL	_	_	_	_
+7	che	che	_	_	PRO;MASC;PL	_	_	_	_
+8	Rafferty	Rafferty	_	_	PROPN;SG;MASC	_	_	_	_
+9	produsse	produrre	_	_	PST;3;SG;IND;V;PFV;ACT	_	_	_	_
+10	con	con	_	_	ADP	_	_	_	_
+11	Hugh	Hugh	_	_	PROPN;SG;MASC	_	_	_	_
+12	Murphy	Murphy	_	_	PROPN;SG;MASC	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	che	che	_	_	SG;PRO;MASC	_	_	_	_
+15	morì	morire	_	_	PST;3;SG;IND;V;PFV;ACT	_	_	_	_
+16	in	in	_	_	ADP	_	_	_	_
+17	il	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+18	1998	1998	_	_	NUM	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01032
+# sent_id = w01032139
+# text = Il riscaldamento globale ha provocato un cambiamento nel ciclo delle stagioni delle piogge.
+# text_en = Global warming has caused a change in the pattern of the rainy seasons.
+1	Il	il	_	_	DET;SG;MASC	_	_	_	_
+2	riscaldamento	riscaldamento	_	_	SG;N;MASC	_	_	_	_
+3	globale	globale	_	_	ADJ;SG;MASC	_	_	_	_
+4	ha	avere	_	_	V;3;SG;IND;PRS;ACT	_	_	_	_
+5	provocato	provocare	_	_	V;PST	_	_	_	_
+6	un	uno	_	_	DET;SG;MASC	_	_	_	_
+7	cambiamento	cambiamento	_	_	SG;N;MASC	_	_	_	_
+8	in	in	_	_	ADP	_	_	_	_
+9	il	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+10	ciclo	ciclo	_	_	SG;N;MASC	_	_	_	_
+11	di	di	_	_	ADP	_	_	_	_
+12	le	il	_	_	DET;DEF;PL;FEM	_	_	_	_
+13	stagioni	stagione	_	_	PL;N;FEM	_	_	_	_
+14	di	di	_	_	ADP	_	_	_	_
+15	le	il	_	_	DET;DEF;PL;FEM	_	_	_	_
+16	piogge	pioggia	_	_	PL;N;FEM	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01049
+# sent_id = w01049051
+# text = Solitamente consiste in un basso livello di sviluppo, come aree rustiche per picnic, panchine e sentieri.
+# text_en = It usually involves a low level of development, such as rustic picnic areas, benches and trails.
+1	Solitamente	solitamente	_	_	ADV	_	_	_	_
+2	consiste	consistere	_	_	3;SG;IND;V;PRS;ACT	_	_	_	_
+3	in	in	_	_	ADP	_	_	_	_
+4	un	uno	_	_	DET;SG;MASC	_	_	_	_
+5	basso	basso	_	_	ADJ;SG;MASC	_	_	_	_
+6	livello	livello	_	_	SG;N;MASC	_	_	_	_
+7	di	di	_	_	ADP	_	_	_	_
+8	sviluppo	sviluppo	_	_	SG;N;MASC	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	come	come	_	_	ADP	_	_	_	_
+11	aree	area	_	_	PL;N;FEM	_	_	_	_
+12	rustiche	rustico	_	_	PL;ADJ;FEM	_	_	_	_
+13	per	per	_	_	ADP	_	_	_	_
+14	picnic	picnic	_	_	N;MASC;PL	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	panchine	panchina	_	_	PL;N;FEM	_	_	_	_
+17	e	e	_	_	CONJ	_	_	_	_
+18	sentieri	sentiero	_	_	N;MASC;PL	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01135038
+# text = Nel gennaio del 2011 Blunt iniziò le riprese per Looper, un film americano di fantascienza diretto da Rian Jonhson e con Bruce Willis e Joseph Gordon-Levitt come co-protagonisti; il film uscì nelle sale nel settembre del 2012.
+# text_en = In January 2011, Blunt began filming an American science-fiction film, Looper, directed by Rian Johnson and co-starring Bruce Willis and Joseph Gordon-Levitt; the film was released in September 2012.
+1	In	in	_	_	ADP	_	_	_	_
+2	il	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+3	gennaio	gennaio	_	_	SG;N;MASC	_	_	_	_
+4	di	di	_	_	ADP	_	_	_	_
+5	il	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+6	2011	2011	_	_	NUM	_	_	_	_
+7	Blunt	Blunt	_	_	PROPN;SG;FEM	_	_	_	_
+8	iniziò	iniziare	_	_	PST;3;SG;IND;V;PFV;ACT	_	_	_	_
+9	le	il	_	_	PL;DET;FEM	_	_	_	_
+10	riprese	ripresa	_	_	PL;N;FEM	_	_	_	_
+11	per	per	_	_	ADP	_	_	_	_
+12	Looper	Looper	_	_	PROPN;SG;MASC	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	un	uno	_	_	DET;SG;MASC	_	_	_	_
+15	film	film	_	_	SG;N;MASC	_	_	_	_
+16	americano	americano	_	_	ADJ;SG;MASC	_	_	_	_
+17	di	di	_	_	ADP	_	_	_	_
+18	fantascienza	fantascienza	_	_	N;SG;FEM	_	_	_	_
+19	diretto	dirigere	_	_	PST;PASS;SG;MASC;V	_	_	_	_
+20	da	da	_	_	ADP	_	_	_	_
+21	Rian	Rian	_	_	PROPN;SG;MASC	_	_	_	_
+22	Jonhson	Jonhson	_	_	PROPN;SG;MASC	_	_	_	_
+23	e	e	_	_	CONJ	_	_	_	_
+24	con	con	_	_	ADP	_	_	_	_
+25	Bruce	Bruce	_	_	PROPN;SG;MASC	_	_	_	_
+26	Willis	Willis	_	_	PROPN;SG;MASC	_	_	_	_
+27	e	e	_	_	CONJ	_	_	_	_
+28	Joseph	Joseph	_	_	PROPN;SG;MASC	_	_	_	_
+29	Gordon	Gordon	_	_	PROPN;SG;MASC	_	_	_	_
+30	-	-	_	_	_	_	_	_	_
+31	Levitt	Levitt	_	_	PROPN;SG;MASC	_	_	_	_
+32	come	come	_	_	ADP	_	_	_	_
+33	co-protagonisti	co-protagonisti	_	_	_	_	_	_	_
+34	;	;	_	_	_	_	_	_	_
+35	il	il	_	_	DET;SG;MASC	_	_	_	_
+36	film	film	_	_	SG;N;MASC	_	_	_	_
+37	uscì	uscire	_	_	PST;3;SG;IND;V;PFV;ACT	_	_	_	_
+38	in	in	_	_	ADP	_	_	_	_
+39	le	il	_	_	DET;DEF;PL;FEM	_	_	_	_
+40	sale	sala	_	_	PL;N;FEM	_	_	_	_
+41	in	in	_	_	ADP	_	_	_	_
+42	il	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+43	settembre	settembre	_	_	SG;N;MASC	_	_	_	_
+44	di	di	_	_	ADP	_	_	_	_
+45	il	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+46	2012	2012	_	_	NUM	_	_	_	_
+47	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01058064
+# text = Ha potuto scoprire gli effetti dell'elezione intorno a lui, con lo scoppio di conflitti e l'interessante scambio di nuove idee con quelle più antiche.
+# text_en = He could detect the effects of the election around him, in the bursts of conflict and the curious intersection of new ideas with old ones.
+1	Ha	avere	_	_	V;3;SG;IND;PRS;ACT	_	_	_	_
+2	potuto	potere	_	_	PST;V	_	_	_	_
+3	scoprire	scoprire	_	_	V;ACT	_	_	_	_
+4	gli	il	_	_	DET;MASC;PL	_	_	_	_
+5	effetti	effetto	_	_	N;MASC;PL	_	_	_	_
+6	di	di	_	_	ADP	_	_	_	_
+7	l'	il	_	_	DET;SG;DEF;FEM	_	_	_	_
+8	elezione	elezione	_	_	N;SG;FEM	_	_	_	_
+9	intorno	intorno	_	_	ADV	_	_	_	_
+10	a	a	_	_	ADP	_	_	_	_
+11	lui	lui	_	_	ACC;PRO;3;SG;MASC	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	con	con	_	_	ADP	_	_	_	_
+14	lo	il	_	_	DET;SG;MASC	_	_	_	_
+15	scoppio	scoppio	_	_	SG;N;MASC	_	_	_	_
+16	di	di	_	_	ADP	_	_	_	_
+17	conflitti	conflitto	_	_	N;MASC;PL	_	_	_	_
+18	e	e	_	_	CONJ	_	_	_	_
+19	l'	il	_	_	DET;SG;MASC	_	_	_	_
+20	interessante	interessante	_	_	ADJ;SG;MASC	_	_	_	_
+21	scambio	scambio	_	_	SG;N;MASC	_	_	_	_
+22	di	di	_	_	ADP	_	_	_	_
+23	nuove	nuovo	_	_	PL;ADJ;FEM	_	_	_	_
+24	idee	idea	_	_	PL;N;FEM	_	_	_	_
+25	con	con	_	_	ADP	_	_	_	_
+26	quelle	quello	_	_	PL;PRO;FEM	_	_	_	_
+27	più	più	_	_	ADV	_	_	_	_
+28	antiche	antico	_	_	PL;ADJ;FEM	_	_	_	_
+29	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01142
+# sent_id = n01142007
+# text = Anche Isner, che ha giocato il suo miglior tennis pareggiando in un set e rendendo necessario un set decisivo, ha reso omaggio.
+# text_en = Isner, who produced some of his best tennis as he leveled at one set all and forced a decider, also paid his tribute.
+1	Anche	anche	_	_	ADV	_	_	_	_
+2	Isner	Isner	_	_	PROPN;SG;MASC	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	che	che	_	_	SG;PRO;MASC	_	_	_	_
+5	ha	avere	_	_	V;3;SG;IND;PRS;ACT	_	_	_	_
+6	giocato	giocare	_	_	V;PST	_	_	_	_
+7	il	il	_	_	DET;SG;MASC	_	_	_	_
+8	suo	suo	_	_	PSSS;PRO;3;SG;MASC	_	_	_	_
+9	miglior	miglior	_	_	ADJ;SG;MASC;AB	_	_	_	_
+10	tennis	tennis	_	_	SG;N;MASC	_	_	_	_
+11	pareggiando	pareggiare	_	_	V;ACT	_	_	_	_
+12	in	in	_	_	ADP	_	_	_	_
+13	un	uno	_	_	DET;SG;MASC	_	_	_	_
+14	set	set	_	_	SG;N;MASC	_	_	_	_
+15	e	e	_	_	CONJ	_	_	_	_
+16	rendendo	rendere	_	_	V;ACT	_	_	_	_
+17	necessario	necessario	_	_	ADJ;SG;MASC	_	_	_	_
+18	un	uno	_	_	DET;SG;MASC	_	_	_	_
+19	set	set	_	_	SG;N;MASC	_	_	_	_
+20	decisivo	decisivo	_	_	ADJ;SG;MASC	_	_	_	_
+21	,	,	_	_	_	_	_	_	_
+22	ha	avere	_	_	V;3;SG;IND;PRS;ACT	_	_	_	_
+23	reso	rendere	_	_	V;PST	_	_	_	_
+24	omaggio	omaggio	_	_	SG;N;MASC	_	_	_	_
+25	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01144
+# sent_id = w01144031
+# text = Decise di non cercare un terzo mandato nel successivo ciclo elettorale.
+# text_en = He chose not to seek a third term in the following election cycle.
+1	Decise	decidere	_	_	PST;3;SG;IND;V;PFV;ACT	_	_	_	_
+2	di	di	_	_	ADP	_	_	_	_
+3	non	non	_	_	ADV;NEG	_	_	_	_
+4	cercare	cercare	_	_	V;ACT	_	_	_	_
+5	un	uno	_	_	DET;SG;MASC	_	_	_	_
+6	terzo	terzo	_	_	ADJ;SG;MASC	_	_	_	_
+7	mandato	mandato	_	_	SG;N;MASC	_	_	_	_
+8	in	in	_	_	ADP	_	_	_	_
+9	il	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+10	successivo	successivo	_	_	ADJ;SG;MASC	_	_	_	_
+11	ciclo	ciclo	_	_	SG;N;MASC	_	_	_	_
+12	elettorale	elettorale	_	_	ADJ;SG;MASC	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01107
+# sent_id = n01107005
+# text = La notizia sulla frode dell'azienda - che aveva gestito per anni - ha cancellato decine di miliardi di euro dal valore della VW e ha causato la perdita del posto di lavoro all'Amministratore Delegato Martin Winterkorn.
+# text_en = News of the company’s deceit - which had run for years - wiped tens of billions of euros from VW's value and cost chief executive Martin Winterkorn his job.
+1	La	il	_	_	DET;SG;FEM	_	_	_	_
+2	notizia	notizia	_	_	N;SG;FEM	_	_	_	_
+3	su	su	_	_	ADP	_	_	_	_
+4	la	il	_	_	DET;SG;DEF;FEM	_	_	_	_
+5	frode	frode	_	_	N;SG;FEM	_	_	_	_
+6	di	di	_	_	ADP	_	_	_	_
+7	l'	il	_	_	DET;SG;DEF;FEM	_	_	_	_
+8	azienda	azienda	_	_	N;SG;FEM	_	_	_	_
+9	-	-	_	_	_	_	_	_	_
+10	che	che	_	_	SG;PRO;FEM	_	_	_	_
+11	aveva	avere	_	_	PST;V;3;SG;IND;IPFV;ACT	_	_	_	_
+12	gestito	gestire	_	_	V;PST	_	_	_	_
+13	per	per	_	_	ADP	_	_	_	_
+14	anni	anno	_	_	N;MASC;PL	_	_	_	_
+15	-	-	_	_	_	_	_	_	_
+16	ha	avere	_	_	V;3;SG;IND;PRS;ACT	_	_	_	_
+17	cancellato	cancellare	_	_	V;PST	_	_	_	_
+18	decine	decina	_	_	PL;N;FEM	_	_	_	_
+19	di	di	_	_	ADP	_	_	_	_
+20	miliardi	miliardo	_	_	N;MASC;PL	_	_	_	_
+21	di	di	_	_	ADP	_	_	_	_
+22	euro	euro	_	_	N;MASC;PL	_	_	_	_
+23	da	da	_	_	ADP	_	_	_	_
+24	il	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+25	valore	valore	_	_	SG;N;MASC	_	_	_	_
+26	di	di	_	_	ADP	_	_	_	_
+27	la	il	_	_	DET;SG;DEF;FEM	_	_	_	_
+28	VW	VW	_	_	PROPN;SG;FEM	_	_	_	_
+29	e	e	_	_	CONJ	_	_	_	_
+30	ha	avere	_	_	V;3;SG;IND;PRS;ACT	_	_	_	_
+31	causato	causare	_	_	V;PST	_	_	_	_
+32	la	il	_	_	DET;SG;FEM	_	_	_	_
+33	perdita	perdita	_	_	N;SG;FEM	_	_	_	_
+34	di	di	_	_	ADP	_	_	_	_
+35	il	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+36	posto	posto	_	_	SG;N;MASC	_	_	_	_
+37	di	di	_	_	ADP	_	_	_	_
+38	lavoro	lavoro	_	_	SG;N;MASC	_	_	_	_
+39	a	a	_	_	ADP	_	_	_	_
+40	l'	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+41	Amministratore	Amministratore	_	_	SG;N;MASC	_	_	_	_
+42	Delegato	Delegato	_	_	ADJ;SG;MASC	_	_	_	_
+43	Martin	Martin	_	_	PROPN;SG;MASC	_	_	_	_
+44	Winterkorn	Winterkorn	_	_	PROPN;SG;MASC	_	_	_	_
+45	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01030093
+# text = Sebbene l'area ricopra solo l'11% della superficie europea, le Alpi forniscono fino al 90% di acqua all'Europa pianeggiante, in modo particolare alle aree aride e durante i mesi estivi.
+# text_en = Although the area is only about 11 percent of the surface area of Europe, the Alps provide up to 90 percent of water to lowland Europe, particularly to arid areas and during the summer months.
+1	Sebbene	sebbene	_	_	CONJ	_	_	_	_
+2	l'	il	_	_	DET;SG;FEM	_	_	_	_
+3	area	area	_	_	N;SG;FEM	_	_	_	_
+4	ricopra	ricoprire	_	_	SBJV;3;SG;V;PRS;ACT	_	_	_	_
+5	solo	solo	_	_	ADV	_	_	_	_
+6	l'	il	_	_	DET;SG;MASC	_	_	_	_
+7	11	11	_	_	NUM	_	_	_	_
+8	%	%	_	_	_	_	_	_	_
+9	di	di	_	_	ADP	_	_	_	_
+10	la	il	_	_	DET;SG;DEF;FEM	_	_	_	_
+11	superficie	superficie	_	_	N;SG;FEM	_	_	_	_
+12	europea	europeo	_	_	ADJ;SG;FEM	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	le	il	_	_	PL;DET;FEM	_	_	_	_
+15	Alpi	Alpi	_	_	PL;PROPN;FEM	_	_	_	_
+16	forniscono	fornire	_	_	3;IND;PL;V;PRS;ACT	_	_	_	_
+17	fino	fino	_	_	ADP	_	_	_	_
+18	al	a	_	_	SG;ADP;MASC	_	_	_	_
+19	90	90	_	_	NUM	_	_	_	_
+20	%	%	_	_	_	_	_	_	_
+21	di	di	_	_	ADP	_	_	_	_
+22	acqua	acqua	_	_	N;SG;FEM	_	_	_	_
+23	a	a	_	_	ADP	_	_	_	_
+24	l'	il	_	_	DET;SG;DEF;FEM	_	_	_	_
+25	Europa	Europa	_	_	PROPN;SG;FEM	_	_	_	_
+26	pianeggiante	pianeggiante	_	_	ADJ;SG;FEM	_	_	_	_
+27	,	,	_	_	_	_	_	_	_
+28	in	in	_	_	ADP	_	_	_	_
+29	modo	modo	_	_	SG;N;MASC	_	_	_	_
+30	particolare	particolare	_	_	ADJ;SG;MASC	_	_	_	_
+31	a	a	_	_	ADP	_	_	_	_
+32	le	il	_	_	DET;DEF;PL;FEM	_	_	_	_
+33	aree	area	_	_	PL;N;FEM	_	_	_	_
+34	aride	arido	_	_	PL;ADJ;FEM	_	_	_	_
+35	e	e	_	_	CONJ	_	_	_	_
+36	durante	durante	_	_	ADP	_	_	_	_
+37	i	il	_	_	DET;MASC;PL	_	_	_	_
+38	mesi	mese	_	_	N;MASC;PL	_	_	_	_
+39	estivi	estivo	_	_	ADJ;MASC;PL	_	_	_	_
+40	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01024
+# sent_id = n01024010
+# text = Poco più del 70% delle piante cresciute da semi terrestri erano vive dopo 17 giorni - una percentuale leggermente maggiore di quella delle piante cresciute da semi nello spazio, pari a poco più del 66%.
+# text_en = Just over 70% of the plants grown from Earth seeds were alive after 17 days - just slightly more than the plants grown from space seeds - just over 66%.
+1	Poco	poco	_	_	ADV	_	_	_	_
+2	più	più	_	_	SG;N;MASC	_	_	_	_
+3	di	di	_	_	ADP	_	_	_	_
+4	il	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+5	70	70	_	_	NUM	_	_	_	_
+6	%	%	_	_	_	_	_	_	_
+7	di	di	_	_	ADP	_	_	_	_
+8	le	il	_	_	DET;DEF;PL;FEM	_	_	_	_
+9	piante	pianta	_	_	PL;N;FEM	_	_	_	_
+10	cresciute	crescere	_	_	PST;PL;FEM;V;ACT	_	_	_	_
+11	da	da	_	_	ADP	_	_	_	_
+12	semi	seme	_	_	N;MASC;PL	_	_	_	_
+13	terrestri	terrestre	_	_	ADJ;MASC;PL	_	_	_	_
+14	erano	essere	_	_	PST;V;3;IND;PL;IPFV;ACT	_	_	_	_
+15	vive	vivo	_	_	PL;ADJ;FEM	_	_	_	_
+16	dopo	dopo	_	_	ADP	_	_	_	_
+17	17	17	_	_	NUM	_	_	_	_
+18	giorni	giorno	_	_	N;MASC;PL	_	_	_	_
+19	-	-	_	_	_	_	_	_	_
+20	una	uno	_	_	DET;SG;FEM	_	_	_	_
+21	percentuale	percentuale	_	_	N;SG;FEM	_	_	_	_
+22	leggermente	leggermente	_	_	ADV	_	_	_	_
+23	maggiore	maggiore	_	_	ADJ;SG;FEM	_	_	_	_
+24	di	di	_	_	ADP	_	_	_	_
+25	quella	quello	_	_	SG;PRO;FEM	_	_	_	_
+26	di	di	_	_	ADP	_	_	_	_
+27	le	il	_	_	DET;DEF;PL;FEM	_	_	_	_
+28	piante	pianta	_	_	PL;N;FEM	_	_	_	_
+29	cresciute	crescere	_	_	PST;PL;FEM;V;ACT	_	_	_	_
+30	da	da	_	_	ADP	_	_	_	_
+31	semi	seme	_	_	N;MASC;PL	_	_	_	_
+32	in	in	_	_	ADP	_	_	_	_
+33	lo	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+34	spazio	spazio	_	_	SG;N;MASC	_	_	_	_
+35	,	,	_	_	_	_	_	_	_
+36	pari	pari	_	_	ADJ;SG;FEM	_	_	_	_
+37	a	a	_	_	ADP	_	_	_	_
+38	poco	poco	_	_	ADV	_	_	_	_
+39	più	più	_	_	SG;N;MASC	_	_	_	_
+40	di	di	_	_	ADP	_	_	_	_
+41	il	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+42	66	66	_	_	NUM	_	_	_	_
+43	%	%	_	_	_	_	_	_	_
+44	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01070032
+# text = Lo spazio centrale veniva utilizzato per osservare il sorgere del sole e della luna piena.
+# text_en = The central space was used to observe the rising of the sun and full moon.
+1	Lo	il	_	_	DET;SG;MASC	_	_	_	_
+2	spazio	spazio	_	_	SG;N;MASC	_	_	_	_
+3	centrale	centrale	_	_	ADJ;SG;MASC	_	_	_	_
+4	veniva	venire	_	_	PST;PASS;3;SG;IND;IPFV;V	_	_	_	_
+5	utilizzato	utilizzare	_	_	V;PST;SG;MASC	_	_	_	_
+6	per	per	_	_	ADP	_	_	_	_
+7	osservare	osservare	_	_	V;ACT	_	_	_	_
+8	il	il	_	_	DET;SG;MASC	_	_	_	_
+9	sorgere	sorgere	_	_	SG;N;MASC	_	_	_	_
+10	di	di	_	_	ADP	_	_	_	_
+11	il	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+12	sole	sole	_	_	SG;N;MASC	_	_	_	_
+13	e	e	_	_	CONJ	_	_	_	_
+14	di	di	_	_	ADP	_	_	_	_
+15	la	il	_	_	DET;SG;DEF;FEM	_	_	_	_
+16	luna	luna	_	_	N;SG;FEM	_	_	_	_
+17	piena	pieno	_	_	ADJ;SG;FEM	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n02082
+# sent_id = n02082017
+# text = I contaminanti non solo attaccano i polmoni non sviluppati dei più piccoli ma possono anche portare a invalidità a lungo termine nello sviluppo del cervello in adolescenza.
+# text_en = The contaminants not only attack the undeveloped lungs of the little ones; they can also lead to long-term impairment in the development of the adolescent brain.
+1	I	il	_	_	DET;MASC;PL	_	_	_	_
+2	contaminanti	contaminare	_	_	N;MASC;PL	_	_	_	_
+3	non	non	_	_	ADV	_	_	_	_
+4	solo	solo	_	_	ADV	_	_	_	_
+5	attaccano	attaccare	_	_	3;IND;PL;V;PRS;ACT	_	_	_	_
+6	i	il	_	_	DET;MASC;PL	_	_	_	_
+7	polmoni	polmone	_	_	N;MASC;PL	_	_	_	_
+8	non	non	_	_	ADV;NEG	_	_	_	_
+9	sviluppati	sviluppato	_	_	ADJ;MASC;PL	_	_	_	_
+10	di	di	_	_	ADP	_	_	_	_
+11	i	il	_	_	DET;MASC;DEF;PL	_	_	_	_
+12	più	più	_	_	ADV	_	_	_	_
+13	piccoli	piccolo	_	_	ADJ;MASC;PL	_	_	_	_
+14	ma	ma	_	_	CONJ	_	_	_	_
+15	possono	potere	_	_	V;3;IND;PL;PRS;ACT	_	_	_	_
+16	anche	anche	_	_	ADV	_	_	_	_
+17	portare	portare	_	_	V;ACT	_	_	_	_
+18	a	a	_	_	ADP	_	_	_	_
+19	invalidità	invalidità	_	_	PL;N;FEM	_	_	_	_
+20	a	a	_	_	ADP	_	_	_	_
+21	lungo	lungo	_	_	ADJ;SG;MASC	_	_	_	_
+22	termine	termine	_	_	SG;N;MASC	_	_	_	_
+23	in	in	_	_	ADP	_	_	_	_
+24	lo	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+25	sviluppo	sviluppo	_	_	SG;N;MASC	_	_	_	_
+26	di	di	_	_	ADP	_	_	_	_
+27	il	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+28	cervello	cervello	_	_	SG;N;MASC	_	_	_	_
+29	in	in	_	_	ADP	_	_	_	_
+30	adolescenza	adolescenza	_	_	N;SG;FEM	_	_	_	_
+31	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01129010
+# text = Questa è una questione di sicurezza interna di carattere estremamente esistenziale.
+# text_en = This is a homeland security issue of the most existential kind.
+1	Questa	questo	_	_	SG;PRO;FEM	_	_	_	_
+2	è	essere	_	_	V;3;SG;IND;PRS;ACT	_	_	_	_
+3	una	uno	_	_	DET;SG;FEM	_	_	_	_
+4	questione	questione	_	_	N;SG;FEM	_	_	_	_
+5	di	di	_	_	ADP	_	_	_	_
+6	sicurezza	sicurezza	_	_	N;SG;FEM	_	_	_	_
+7	interna	interno	_	_	ADJ;SG;FEM	_	_	_	_
+8	di	di	_	_	ADP	_	_	_	_
+9	carattere	carattere	_	_	SG;N;MASC	_	_	_	_
+10	estremamente	estremo	_	_	ADV	_	_	_	_
+11	esistenziale	esistenziale	_	_	ADJ;SG;MASC	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01031021
+# text = Ha aggiunto: "Questo è stato uno dei passi di un lungo viaggio verso la scoperta della giusta combinazione per la contraccezione ormonale maschile".
+# text_en = He added: "This has been one step in a long journey of finding the right combination for male hormonal contraception."
+1	Ha	avere	_	_	V;3;SG;IND;PRS;ACT	_	_	_	_
+2	aggiunto	aggiungere	_	_	V;PST	_	_	_	_
+3	:	:	_	_	_	_	_	_	_
+4	"	"	_	_	_	_	_	_	_
+5	Questo	questo	_	_	SG;PRO;MASC	_	_	_	_
+6	è	essere	_	_	V;3;SG;IND;PRS;ACT	_	_	_	_
+7	stato	essere	_	_	PST;SG;V;MASC	_	_	_	_
+8	uno	uno	_	_	NUM;MASC	_	_	_	_
+9	di	di	_	_	ADP	_	_	_	_
+10	i	il	_	_	DET;MASC;DEF;PL	_	_	_	_
+11	passi	passo	_	_	N;MASC;PL	_	_	_	_
+12	di	di	_	_	ADP	_	_	_	_
+13	un	uno	_	_	DET;SG;MASC	_	_	_	_
+14	lungo	lungo	_	_	ADJ;SG;MASC	_	_	_	_
+15	viaggio	viaggio	_	_	SG;N;MASC	_	_	_	_
+16	verso	verso	_	_	ADP	_	_	_	_
+17	la	il	_	_	DET;SG;FEM	_	_	_	_
+18	scoperta	scoperta	_	_	N;SG;FEM	_	_	_	_
+19	di	di	_	_	ADP	_	_	_	_
+20	la	il	_	_	DET;SG;DEF;FEM	_	_	_	_
+21	giusta	giusto	_	_	ADJ;SG;FEM	_	_	_	_
+22	combinazione	combinazione	_	_	N;SG;FEM	_	_	_	_
+23	per	per	_	_	ADP	_	_	_	_
+24	la	il	_	_	DET;SG;FEM	_	_	_	_
+25	contraccezione	contraccezione	_	_	N;SG;FEM	_	_	_	_
+26	ormonale	ormonale	_	_	ADJ;SG;FEM	_	_	_	_
+27	maschile	maschile	_	_	ADJ;SG;FEM	_	_	_	_
+28	"	"	_	_	_	_	_	_	_
+29	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01040
+# sent_id = n01040028
+# text = Studenti come Rai hanno incontrato alcuni consiglieri presso la scuola per discutere dell'accaduto, ma ha affermato che la più grande consolazione è stata per lei vedere i propri amici.
+# text_en = Students like Rai have been meeting with counsellors at the school to talk about what happened, but she said the biggest comfort has come from seeing her friends.
+1	Studenti	studente	_	_	N;MASC;PL	_	_	_	_
+2	come	come	_	_	ADP	_	_	_	_
+3	Rai	Rai	_	_	PROPN;SG;FEM	_	_	_	_
+4	hanno	avere	_	_	V;3;IND;PL;PRS;ACT	_	_	_	_
+5	incontrato	incontrare	_	_	V;PST	_	_	_	_
+6	alcuni	alcuno	_	_	DET;MASC;PL	_	_	_	_
+7	consiglieri	consigliere	_	_	N;MASC;PL	_	_	_	_
+8	presso	presso	_	_	ADP	_	_	_	_
+9	la	il	_	_	DET;SG;FEM	_	_	_	_
+10	scuola	scuola	_	_	N;SG;FEM	_	_	_	_
+11	per	per	_	_	ADP	_	_	_	_
+12	discutere	discutere	_	_	V;ACT	_	_	_	_
+13	di	di	_	_	ADP	_	_	_	_
+14	l'	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+15	accaduto	accadere	_	_	SG;N;MASC	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	ma	ma	_	_	CONJ	_	_	_	_
+18	ha	avere	_	_	V;3;SG;IND;PRS;ACT	_	_	_	_
+19	affermato	affermare	_	_	V;PST	_	_	_	_
+20	che	che	_	_	CONJ	_	_	_	_
+21	la	il	_	_	DET;SG;FEM	_	_	_	_
+22	più	più	_	_	ADV	_	_	_	_
+23	grande	grande	_	_	ADJ;SG;FEM	_	_	_	_
+24	consolazione	consolazione	_	_	N;SG;FEM	_	_	_	_
+25	è	essere	_	_	V;3;SG;IND;PRS;ACT	_	_	_	_
+26	stata	essere	_	_	PST;SG;V;FEM	_	_	_	_
+27	per	per	_	_	ADP	_	_	_	_
+28	lei	lei	_	_	ACC;PRO;3;SG;FEM	_	_	_	_
+29	vedere	vedere	_	_	V;ACT	_	_	_	_
+30	i	il	_	_	DET;MASC;PL	_	_	_	_
+31	propri	proprio	_	_	PSSS;PRO;3;MASC;PL	_	_	_	_
+32	amici	amico	_	_	N;MASC;PL	_	_	_	_
+33	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01007087
+# text = Gli attuali progetti di reclamo dei territori includono l'estensione del distretto di Fontvieille.
+# text_en = Current land reclamation projects include extending the district of Fontvieille.
+1	Gli	il	_	_	DET;MASC;PL	_	_	_	_
+2	attuali	attuale	_	_	ADJ;MASC;PL	_	_	_	_
+3	progetti	progetto	_	_	N;MASC;PL	_	_	_	_
+4	di	di	_	_	ADP	_	_	_	_
+5	reclamo	reclamo	_	_	SG;N;MASC	_	_	_	_
+6	di	di	_	_	ADP	_	_	_	_
+7	i	il	_	_	DET;MASC;DEF;PL	_	_	_	_
+8	territori	territorio	_	_	N;MASC;PL	_	_	_	_
+9	includono	includere	_	_	3;IND;PL;V;PRS;ACT	_	_	_	_
+10	l'	il	_	_	DET;SG;FEM	_	_	_	_
+11	estensione	estensione	_	_	N;SG;FEM	_	_	_	_
+12	di	di	_	_	ADP	_	_	_	_
+13	il	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+14	distretto	distretto	_	_	SG;N;MASC	_	_	_	_
+15	di	di	_	_	ADP	_	_	_	_
+16	Fontvieille	Fontvieille	_	_	PROPN;SG;MASC	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01039
+# sent_id = n01039013
+# text = Clinton e i suoi alleati, nel frattempo, cercano di mantenere i riflettori puntati su Trump, accusandolo del fatto che i suoi commenti dispregiativi su donne e minoranze, oltre al suo temperamento, lo rendano inadeguato al ruolo.
+# text_en = Clinton and allies, meanwhile, are seeking to keep the spotlight on Trump, charging that his disparaging comments about women and minorities, and his temperament make him unfit for office.
+1	Clinton	Clinton	_	_	PROPN;SG;FEM	_	_	_	_
+2	e	e	_	_	CONJ	_	_	_	_
+3	i	il	_	_	DET;MASC;PL	_	_	_	_
+4	suoi	suo	_	_	PSSS;PRO;3;MASC;PL	_	_	_	_
+5	alleati	alleato	_	_	N;MASC;PL	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	in	in	_	_	ADP	_	_	_	_
+8	il	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+9	frattempo	frattempo	_	_	SG;N;MASC	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	cercano	cercare	_	_	3;IND;PL;V;PRS;ACT	_	_	_	_
+12	di	di	_	_	ADP	_	_	_	_
+13	mantenere	mantenere	_	_	V;ACT	_	_	_	_
+14	i	il	_	_	DET;MASC;PL	_	_	_	_
+15	riflettori	riflettore	_	_	N;MASC;PL	_	_	_	_
+16	puntati	puntare	_	_	PASS;PST;MASC;PL;V	_	_	_	_
+17	su	su	_	_	ADP	_	_	_	_
+18	Trump	Trump	_	_	PROPN;SG;MASC	_	_	_	_
+19	,	,	_	_	_	_	_	_	_
+20	accusando	accusare	_	_	V;ACT	_	_	_	_
+21	lo	lo	_	_	ACC;PRO;3;SG;MASC	_	_	_	_
+22	di	di	_	_	ADP	_	_	_	_
+23	il	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+24	fatto	fatto	_	_	SG;N;MASC	_	_	_	_
+25	che	che	_	_	CONJ	_	_	_	_
+26	i	il	_	_	DET;MASC;PL	_	_	_	_
+27	suoi	suo	_	_	PSSS;PRO;3;MASC;PL	_	_	_	_
+28	commenti	commento	_	_	N;MASC;PL	_	_	_	_
+29	dispregiativi	dispregiativo	_	_	ADJ;MASC;PL	_	_	_	_
+30	su	su	_	_	ADP	_	_	_	_
+31	donne	donna	_	_	PL;N;FEM	_	_	_	_
+32	e	e	_	_	CONJ	_	_	_	_
+33	minoranze	minoranza	_	_	PL;N;FEM	_	_	_	_
+34	,	,	_	_	_	_	_	_	_
+35	oltre	oltre	_	_	ADV	_	_	_	_
+36	al	a	_	_	SG;ADP;MASC	_	_	_	_
+37	suo	suo	_	_	PSSS;PRO;3;SG;MASC	_	_	_	_
+38	temperamento	temperamento	_	_	SG;N;MASC	_	_	_	_
+39	,	,	_	_	_	_	_	_	_
+40	lo	lo	_	_	ACC;PRO;3;SG;MASC	_	_	_	_
+41	rendano	rendere	_	_	SBJV;3;PL;V;PRS;ACT	_	_	_	_
+42	inadeguato	inadeguato	_	_	ADJ;SG;MASC	_	_	_	_
+43	a	a	_	_	ADP	_	_	_	_
+44	il	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+45	ruolo	ruolo	_	_	SG;N;MASC	_	_	_	_
+46	.	.	_	_	_	_	_	_	_
+
+# sent_id = n02078011
+# text = Ci si potrebbe aspettare un colpo al boom del mercato immobiliare e una crescita delle spese federali.
+# text_en = One expects a bump from the booming real estate market and increasing federal expenditures.
+1	Ci	ci	_	_	PRO	_	_	_	_
+2	si	si	_	_	SG;PRO;3	_	_	_	_
+3	potrebbe	potere	_	_	V;3;SG;COND;PRS;ACT	_	_	_	_
+4	aspettare	aspettare	_	_	V;ACT	_	_	_	_
+5	un	uno	_	_	DET;SG;MASC	_	_	_	_
+6	colpo	colpo	_	_	SG;N;MASC	_	_	_	_
+7	a	a	_	_	ADP	_	_	_	_
+8	il	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+9	boom	boom	_	_	SG;N;MASC	_	_	_	_
+10	di	di	_	_	ADP	_	_	_	_
+11	il	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+12	mercato	mercato	_	_	SG;N;MASC	_	_	_	_
+13	immobiliare	immobiliare	_	_	ADJ;SG;MASC	_	_	_	_
+14	e	e	_	_	CONJ	_	_	_	_
+15	una	uno	_	_	DET;SG;FEM	_	_	_	_
+16	crescita	crescita	_	_	N;SG;FEM	_	_	_	_
+17	di	di	_	_	ADP	_	_	_	_
+18	le	il	_	_	DET;DEF;PL;FEM	_	_	_	_
+19	spese	spesa	_	_	PL;N;FEM	_	_	_	_
+20	federali	federale	_	_	PL;ADJ;FEM	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n04002
+# sent_id = n04002020
+# text = È difficile credere che l'Italia abbia meno chilometri di metropolitana di Madrid.
+# text_en = It is difficult to think that Italy has fewer km of underground line than Madrid.
+1	È	essere	_	_	V;3;SG;IND;PRS;ACT	_	_	_	_
+2	difficile	difficile	_	_	ADJ;SG;MASC	_	_	_	_
+3	credere	credere	_	_	V;ACT	_	_	_	_
+4	che	che	_	_	CONJ	_	_	_	_
+5	l'	il	_	_	DET;SG;FEM	_	_	_	_
+6	Italia	Italia	_	_	PROPN;SG;FEM	_	_	_	_
+7	abbia	avere	_	_	SBJV;3;SG;V;PRS;ACT	_	_	_	_
+8	meno	meno	_	_	ADV	_	_	_	_
+9	chilometri	chilometro	_	_	N;MASC;PL	_	_	_	_
+10	di	di	_	_	ADP	_	_	_	_
+11	metropolitana	metropolitano	_	_	N;SG;FEM	_	_	_	_
+12	di	di	_	_	ADP	_	_	_	_
+13	Madrid	Madrid	_	_	PROPN;SG;FEM	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01045
+# sent_id = n01045010
+# text = Non vi devono essere un accesso preferenziale al governo o una parvenza di accesso preferenziale concessi a individui oppure organizzazioni in virtù di contributi finanziari a politici o a partiti politici, si legge nelle linee guida.
+# text_en = "There should be no preferential access to government, or appearance of preferential access, accorded to individuals or organizations because they have made financial contributions to politicians and political parties," the guidelines read.
+1	Non	non	_	_	ADV;NEG	_	_	_	_
+2	vi	vi	_	_	PRO	_	_	_	_
+3	devono	dovere	_	_	V;3;IND;PL;PRS;ACT	_	_	_	_
+4	essere	essere	_	_	V;ACT	_	_	_	_
+5	un	uno	_	_	DET;SG;MASC	_	_	_	_
+6	accesso	accesso	_	_	SG;N;MASC	_	_	_	_
+7	preferenziale	preferenziale	_	_	ADJ;SG;MASC	_	_	_	_
+8	a	a	_	_	ADP	_	_	_	_
+9	il	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+10	governo	governo	_	_	SG;N;MASC	_	_	_	_
+11	o	o	_	_	CONJ	_	_	_	_
+12	una	uno	_	_	DET;SG;FEM	_	_	_	_
+13	parvenza	parvenza	_	_	N;SG;FEM	_	_	_	_
+14	di	di	_	_	ADP	_	_	_	_
+15	accesso	accesso	_	_	SG;N;MASC	_	_	_	_
+16	preferenziale	preferenziale	_	_	ADJ;SG;MASC	_	_	_	_
+17	concessi	concedere	_	_	PASS;PST;MASC;PL;V	_	_	_	_
+18	a	a	_	_	ADP	_	_	_	_
+19	individui	individuo	_	_	N;MASC;PL	_	_	_	_
+20	oppure	oppure	_	_	CONJ	_	_	_	_
+21	organizzazioni	organizzazione	_	_	PL;N;FEM	_	_	_	_
+22	in	in	_	_	ADP	_	_	_	_
+23	virtù	virtù	_	_	N;SG;FEM	_	_	_	_
+24	di	di	_	_	ADP	_	_	_	_
+25	contributi	contributo	_	_	N;MASC;PL	_	_	_	_
+26	finanziari	finanziario	_	_	ADJ;MASC;PL	_	_	_	_
+27	a	a	_	_	ADP	_	_	_	_
+28	politici	politico	_	_	N;MASC;PL	_	_	_	_
+29	o	o	_	_	CONJ	_	_	_	_
+30	a	a	_	_	ADP	_	_	_	_
+31	partiti	partito	_	_	N;MASC;PL	_	_	_	_
+32	politici	politico	_	_	ADJ;MASC;PL	_	_	_	_
+33	,	,	_	_	_	_	_	_	_
+34	si	si	_	_	SG;PRO;3	_	_	_	_
+35	legge	leggere	_	_	3;SG;IND;V;PRS;ACT	_	_	_	_
+36	in	in	_	_	ADP	_	_	_	_
+37	le	il	_	_	DET;DEF;PL;FEM	_	_	_	_
+38	linee	linea	_	_	PL;N;FEM	_	_	_	_
+39	guida	guida	_	_	N;SG;FEM	_	_	_	_
+40	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w03002
+# sent_id = w03002048
+# text = Nei primi anni 2000, c'erano 5 dottori per 100.000 abitanti.
+# text_en = In the early 2000s, there were five doctors per 100,000 inhabitants.
+1	In	in	_	_	ADP	_	_	_	_
+2	i	il	_	_	DET;MASC;DEF;PL	_	_	_	_
+3	primi	primo	_	_	ADJ;MASC;PL	_	_	_	_
+4	anni	anno	_	_	N;MASC;PL	_	_	_	_
+5	2000	2000	_	_	NUM	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	c'	ci	_	_	PRO	_	_	_	_
+8	erano	essere	_	_	PST;3;IND;PL;IPFV;V;ACT	_	_	_	_
+9	5	5	_	_	NUM	_	_	_	_
+10	dottori	dottore	_	_	N;MASC;PL	_	_	_	_
+11	per	per	_	_	ADP	_	_	_	_
+12	100.000	100.000	_	_	NUM	_	_	_	_
+13	abitanti	abitante	_	_	N;MASC;PL	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01022055
+# text = In danese, la parola può essere utilizzata anche per riferirsi a lagune poco profonde.
+# text_en = In Danish, the word may even apply to shallow lagoons.
+1	In	in	_	_	ADP	_	_	_	_
+2	danese	danese	_	_	PROPN;SG;MASC	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	la	il	_	_	DET;SG;FEM	_	_	_	_
+5	parola	parola	_	_	N;SG;FEM	_	_	_	_
+6	può	potere	_	_	V;3;SG;IND;PRS;ACT	_	_	_	_
+7	essere	essere	_	_	V;PASS	_	_	_	_
+8	utilizzata	utilizzare	_	_	V;PST;SG;FEM	_	_	_	_
+9	anche	anche	_	_	ADV	_	_	_	_
+10	per	per	_	_	ADP	_	_	_	_
+11	riferir	riferire	_	_	V;ACT	_	_	_	_
+12	si	si	_	_	SG;PRO;3	_	_	_	_
+13	a	a	_	_	ADP	_	_	_	_
+14	lagune	laguna	_	_	PL;N;FEM	_	_	_	_
+15	poco	poco	_	_	ADV	_	_	_	_
+16	profonde	profondo	_	_	PL;ADJ;FEM	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01103
+# sent_id = n01103013
+# text = È suo desiderio terminare qui la sua carriera.
+# text_en = It is his dream to end his career here.
+1	È	essere	_	_	V;3;SG;IND;PRS;ACT	_	_	_	_
+2	suo	suo	_	_	PSSS;PRO;3;SG;MASC	_	_	_	_
+3	desiderio	desiderio	_	_	SG;N;MASC	_	_	_	_
+4	terminare	terminare	_	_	V;ACT	_	_	_	_
+5	qui	qui	_	_	ADV	_	_	_	_
+6	la	il	_	_	DET;SG;FEM	_	_	_	_
+7	sua	suo	_	_	PSSS;PRO;3;SG;FEM	_	_	_	_
+8	carriera	carriera	_	_	N;SG;FEM	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01111
+# sent_id = n01111018
+# text = Ciò non ha impedito che gli investitori affluissero numerosi a mettere il loro denaro nei fondi.
+# text_en = This has not stopped investors flocking to put their money in the funds.
+1	Ciò	ciò	_	_	DET;SG;MASC	_	_	_	_
+2	non	non	_	_	ADV;NEG	_	_	_	_
+3	ha	avere	_	_	V;3;SG;IND;PRS;ACT	_	_	_	_
+4	impedito	impedire	_	_	V;PST	_	_	_	_
+5	che	che	_	_	CONJ	_	_	_	_
+6	gli	il	_	_	DET;MASC;PL	_	_	_	_
+7	investitori	investitore	_	_	N;MASC;PL	_	_	_	_
+8	affluissero	affluire	_	_	SBJV;PST;3;PL;V;ACT	_	_	_	_
+9	numerosi	numeroso	_	_	ADJ;MASC;PL	_	_	_	_
+10	a	a	_	_	ADP	_	_	_	_
+11	mettere	mettere	_	_	V;ACT	_	_	_	_
+12	il	il	_	_	DET;SG;MASC	_	_	_	_
+13	loro	loro	_	_	PSSP;PRO;3;SG;MASC	_	_	_	_
+14	denaro	denaro	_	_	SG;N;MASC	_	_	_	_
+15	in	in	_	_	ADP	_	_	_	_
+16	i	il	_	_	DET;MASC;DEF;PL	_	_	_	_
+17	fondi	fondo	_	_	N;MASC;PL	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01128033
+# text = Infine, dobbiamo rendere semplice la segnalazione di violazioni sospette ed e-mail dannose da parte delle persone.
+# text_en = Finally, we must make it easy for people to report suspected breaches and malicious emails.
+1	Infine	infine	_	_	ADV	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	dobbiamo	dovere	_	_	V;1;IND;PL;PRS;ACT	_	_	_	_
+4	rendere	rendere	_	_	V;ACT	_	_	_	_
+5	semplice	semplice	_	_	ADJ;SG;FEM	_	_	_	_
+6	la	il	_	_	DET;SG;FEM	_	_	_	_
+7	segnalazione	segnalazione	_	_	N;SG;FEM	_	_	_	_
+8	di	di	_	_	ADP	_	_	_	_
+9	violazioni	violazione	_	_	PL;N;FEM	_	_	_	_
+10	sospette	sospetto	_	_	PL;ADJ;FEM	_	_	_	_
+11	ed	e	_	_	CONJ	_	_	_	_
+12	e-mail	e-mail	_	_	PL;N;FEM	_	_	_	_
+13	dannose	dannoso	_	_	PL;ADJ;FEM	_	_	_	_
+14	da	da	_	_	ADP	_	_	_	_
+15	parte	parte	_	_	N;SG;FEM	_	_	_	_
+16	di	di	_	_	ADP	_	_	_	_
+17	le	il	_	_	DET;DEF;PL;FEM	_	_	_	_
+18	persone	persona	_	_	PL;N;FEM	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01079
+# sent_id = w01079038
+# text = Il prete dominicano Heinrich Kramer era assistente dell'arcivescovo di Salisburgo.
+# text_en = Dominican priest Heinrich Kramer was assistant to the Archbishop of Salzburg.
+1	Il	il	_	_	DET;SG;MASC	_	_	_	_
+2	prete	prete	_	_	SG;N;MASC	_	_	_	_
+3	dominicano	dominicano	_	_	ADJ;SG;MASC	_	_	_	_
+4	Heinrich	Heinrich	_	_	PROPN;SG;MASC	_	_	_	_
+5	Kramer	Kramer	_	_	PROPN;SG;MASC	_	_	_	_
+6	era	essere	_	_	PST;V;3;SG;IND;IPFV;ACT	_	_	_	_
+7	assistente	assistente	_	_	SG;N;MASC	_	_	_	_
+8	di	di	_	_	ADP	_	_	_	_
+9	l'	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+10	arcivescovo	arcivescovo	_	_	SG;N;MASC	_	_	_	_
+11	di	di	_	_	ADP	_	_	_	_
+12	Salisburgo	Salisburgo	_	_	PROPN;SG;FEM	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01045003
+# text = Dopo la scoperta dell'America da parte di Cristoforo Colombo nel 1492, il termine spagnolo Antille veniva utilizzato per le terre; a partire da questo, "Mar delle Antille" divenne un nome alternativo comune per "Mar dei Caraibi" in molte lingue europee.
+# text_en = After the discovery of America by Christopher Columbus in 1492, the Spanish term Antillas applied to the lands; stemming from this, "Sea of the Antilles" became a common alternative name for "Caribbean Sea" in various European languages.
+1	Dopo	dopo	_	_	ADP	_	_	_	_
+2	la	il	_	_	DET;SG;FEM	_	_	_	_
+3	scoperta	scoperta	_	_	N;SG;FEM	_	_	_	_
+4	di	di	_	_	ADP	_	_	_	_
+5	l'	il	_	_	DET;SG;DEF;FEM	_	_	_	_
+6	America	America	_	_	PROPN;SG;FEM	_	_	_	_
+7	da	da	_	_	ADP	_	_	_	_
+8	parte	parte	_	_	N;SG;FEM	_	_	_	_
+9	di	di	_	_	ADP	_	_	_	_
+10	Cristoforo	Cristoforo	_	_	PROPN;SG;MASC	_	_	_	_
+11	Colombo	Colombo	_	_	PROPN;SG;MASC	_	_	_	_
+12	in	in	_	_	ADP	_	_	_	_
+13	il	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+14	1492	1492	_	_	NUM	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	il	il	_	_	DET;SG;MASC	_	_	_	_
+17	termine	termine	_	_	SG;N;MASC	_	_	_	_
+18	spagnolo	spagnolo	_	_	ADJ;SG;MASC	_	_	_	_
+19	Antille	Antille	_	_	PROPN;SG;MASC	_	_	_	_
+20	veniva	venire	_	_	PST;PASS;3;SG;IND;IPFV;V	_	_	_	_
+21	utilizzato	utilizzare	_	_	V;PST;SG;MASC	_	_	_	_
+22	per	per	_	_	ADP	_	_	_	_
+23	le	il	_	_	PL;DET;FEM	_	_	_	_
+24	terre	terra	_	_	PL;N;FEM	_	_	_	_
+25	;	;	_	_	_	_	_	_	_
+26	a	a	_	_	ADP	_	_	_	_
+27	partire	partire	_	_	V;ACT	_	_	_	_
+28	da	da	_	_	ADP	_	_	_	_
+29	questo	questo	_	_	SG;PRO;MASC	_	_	_	_
+30	,	,	_	_	_	_	_	_	_
+31	"	"	_	_	_	_	_	_	_
+32	Mar	Mar	_	_	PROPN;SG;MASC	_	_	_	_
+33	di	di	_	_	ADP	_	_	_	_
+34	le	il	_	_	DET;DEF;PL;FEM	_	_	_	_
+35	Antille	Antille	_	_	PL;PROPN;FEM	_	_	_	_
+36	"	"	_	_	_	_	_	_	_
+37	divenne	divenire	_	_	PST;3;SG;IND;V;PFV;ACT	_	_	_	_
+38	un	uno	_	_	DET;SG;MASC	_	_	_	_
+39	nome	nome	_	_	SG;N;MASC	_	_	_	_
+40	alternativo	alternativo	_	_	ADJ;SG;MASC	_	_	_	_
+41	comune	comune	_	_	ADJ;SG;MASC	_	_	_	_
+42	per	per	_	_	ADP	_	_	_	_
+43	"	"	_	_	_	_	_	_	_
+44	Mar	Mar	_	_	PROPN;SG;MASC	_	_	_	_
+45	di	di	_	_	ADP	_	_	_	_
+46	i	il	_	_	DET;MASC;DEF;PL	_	_	_	_
+47	Caraibi	Caraibi	_	_	PROPN;MASC;PL	_	_	_	_
+48	"	"	_	_	_	_	_	_	_
+49	in	in	_	_	ADP	_	_	_	_
+50	molte	molto	_	_	PL;DET;FEM	_	_	_	_
+51	lingue	lingua	_	_	PL;N;FEM	_	_	_	_
+52	europee	europeo	_	_	PL;ADJ;FEM	_	_	_	_
+53	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01127096
+# text = A quel punto, spese folli e qualche cattivo investimento fatto dai suoi investitori l'avevano lasciata quasi al verde.
+# text_en = By this time, extravagant spending and a string of bad investments by her investors had left her nearly broke.
+1	A	a	_	_	ADP	_	_	_	_
+2	quel	quello	_	_	DET;SG;MASC	_	_	_	_
+3	punto	punto	_	_	SG;N;MASC	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	spese	spesa	_	_	PL;N;FEM	_	_	_	_
+6	folli	folle	_	_	PL;ADJ;FEM	_	_	_	_
+7	e	e	_	_	CONJ	_	_	_	_
+8	qualche	qualche	_	_	DET;SG;MASC	_	_	_	_
+9	cattivo	cattivo	_	_	ADJ;SG;MASC	_	_	_	_
+10	investimento	investimento	_	_	SG;N;MASC	_	_	_	_
+11	fatto	fare	_	_	PST;PASS;SG;MASC;V	_	_	_	_
+12	da	da	_	_	ADP	_	_	_	_
+13	i	il	_	_	DET;MASC;DEF;PL	_	_	_	_
+14	suoi	suo	_	_	PSSS;PRO;3;MASC;PL	_	_	_	_
+15	investitori	investitore	_	_	N;MASC;PL	_	_	_	_
+16	l'	il	_	_	ACC;PRO;3;SG;FEM	_	_	_	_
+17	avevano	avere	_	_	PST;V;3;IND;PL;IPFV;ACT	_	_	_	_
+18	lasciata	lasciare	_	_	V;PST;SG;FEM	_	_	_	_
+19	quasi	quasi	_	_	ADV	_	_	_	_
+20	a	a	_	_	ADP	_	_	_	_
+21	il	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+22	verde	verde	_	_	SG;N;MASC	_	_	_	_
+23	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w05006
+# sent_id = w05006024
+# text = Lo spagnolo del secolo d'oro o spagnolo della prima età moderna è una variante linguistica che costituisce la transizione dallo spagnolo medioevale a quello moderno.
+# text_en = Golden Age Spanish or Early Modern Spanish is the variant of the language that constitutes the transition from Medieval Spanish to Modern Spanish.
+1	Lo	il	_	_	DET;SG;MASC	_	_	_	_
+2	spagnolo	spagnolo	_	_	PROPN;SG;MASC	_	_	_	_
+3	di	di	_	_	ADP	_	_	_	_
+4	il	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+5	secolo	secolo	_	_	PROPN;SG;MASC	_	_	_	_
+6	d'	di	_	_	ADP	_	_	_	_
+7	oro	oro	_	_	PROPN;SG;MASC	_	_	_	_
+8	o	o	_	_	CONJ	_	_	_	_
+9	spagnolo	spagnolo	_	_	PROPN;SG;MASC	_	_	_	_
+10	di	di	_	_	ADP	_	_	_	_
+11	la	il	_	_	DET;SG;DEF;FEM	_	_	_	_
+12	prima	primo	_	_	ADJ;SG;FEM	_	_	_	_
+13	età	età	_	_	N;SG;FEM	_	_	_	_
+14	moderna	moderno	_	_	ADJ;SG;FEM	_	_	_	_
+15	è	essere	_	_	V;3;SG;IND;PRS;ACT	_	_	_	_
+16	una	uno	_	_	DET;SG;FEM	_	_	_	_
+17	variante	variante	_	_	N;SG;FEM	_	_	_	_
+18	linguistica	linguistico	_	_	ADJ;SG;FEM	_	_	_	_
+19	che	che	_	_	SG;PRO;FEM	_	_	_	_
+20	costituisce	costituire	_	_	3;SG;IND;V;PRS;ACT	_	_	_	_
+21	la	il	_	_	DET;SG;FEM	_	_	_	_
+22	transizione	transizione	_	_	N;SG;FEM	_	_	_	_
+23	da	da	_	_	ADP	_	_	_	_
+24	lo	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+25	spagnolo	spagnolo	_	_	PROPN;SG;MASC	_	_	_	_
+26	medioevale	medioevale	_	_	ADJ;SG;MASC	_	_	_	_
+27	a	a	_	_	ADP	_	_	_	_
+28	quello	quello	_	_	SG;PRO;MASC	_	_	_	_
+29	moderno	moderno	_	_	ADJ;SG;MASC	_	_	_	_
+30	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01133022
+# text = Una portavoce della Harley-Davidson ha affermato che le tempistiche gonfiate dai media -- 2017 o 2020 -- non sono accurate.
+# text_en = A Harley-Davidson spokeswoman said timelines that have been floated in the media -- 2017 or 2020 -- aren't accurate.
+1	Una	uno	_	_	DET;SG;FEM	_	_	_	_
+2	portavoce	portavoce	_	_	N;SG;FEM	_	_	_	_
+3	di	di	_	_	ADP	_	_	_	_
+4	la	il	_	_	DET;SG;DEF;FEM	_	_	_	_
+5	Harley	Harley	_	_	PROPN;SG;FEM	_	_	_	_
+6	-	-	_	_	_	_	_	_	_
+7	Davidson	Davidson	_	_	PROPN;SG;FEM	_	_	_	_
+8	ha	avere	_	_	V;3;SG;IND;PRS;ACT	_	_	_	_
+9	affermato	affermare	_	_	V;PST	_	_	_	_
+10	che	che	_	_	CONJ	_	_	_	_
+11	le	il	_	_	PL;DET;FEM	_	_	_	_
+12	tempistiche	tempistiche	_	_	PL;N;FEM	_	_	_	_
+13	gonfiate	gonfiare	_	_	PST;PASS;PL;FEM;V	_	_	_	_
+14	da	da	_	_	ADP	_	_	_	_
+15	i	il	_	_	DET;MASC;DEF;PL	_	_	_	_
+16	media	medio	_	_	N;MASC;PL	_	_	_	_
+17	--	--	_	_	_	_	_	_	_
+18	2017	2017	_	_	NUM	_	_	_	_
+19	o	o	_	_	CONJ	_	_	_	_
+20	2020	2020	_	_	NUM	_	_	_	_
+21	--	--	_	_	_	_	_	_	_
+22	non	non	_	_	ADV;NEG	_	_	_	_
+23	sono	essere	_	_	V;3;IND;PL;PRS;ACT	_	_	_	_
+24	accurate	accurato	_	_	PL;ADJ;FEM	_	_	_	_
+25	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01057
+# sent_id = w01057006
+# text = Ogni poema racconta solo una parte della guerra.
+# text_en = Each poem narrates only a part of the war.
+1	Ogni	ogni	_	_	DET;SG;MASC	_	_	_	_
+2	poema	poema	_	_	SG;N;MASC	_	_	_	_
+3	racconta	raccontare	_	_	3;SG;IND;V;PRS;ACT	_	_	_	_
+4	solo	solo	_	_	ADV	_	_	_	_
+5	una	uno	_	_	DET;SG;FEM	_	_	_	_
+6	parte	parte	_	_	N;SG;FEM	_	_	_	_
+7	di	di	_	_	ADP	_	_	_	_
+8	la	il	_	_	DET;SG;DEF;FEM	_	_	_	_
+9	guerra	guerra	_	_	N;SG;FEM	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01027030
+# text = Quest'anno, da parte del partito democratico, gran parte del dibattito è stato focalizzato sull'identità dei maschi bianchi.
+# text_en = Much of the debate, from the Democratic side this year, has been about white male identity.
+1	Quest'	questo	_	_	DET;SG;MASC	_	_	_	_
+2	anno	anno	_	_	SG;N;MASC	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	da	da	_	_	ADP	_	_	_	_
+5	parte	parte	_	_	N;SG;FEM	_	_	_	_
+6	di	di	_	_	ADP	_	_	_	_
+7	il	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+8	partito	partito	_	_	PROPN;SG;MASC	_	_	_	_
+9	democratico	democratico	_	_	ADJ;SG;MASC	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	gran	grande	_	_	ADJ;SG;FEM	_	_	_	_
+12	parte	parte	_	_	N;SG;FEM	_	_	_	_
+13	di	di	_	_	ADP	_	_	_	_
+14	il	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+15	dibattito	dibattito	_	_	SG;N;MASC	_	_	_	_
+16	è	essere	_	_	V;3;SG;IND;PRS;ACT	_	_	_	_
+17	stato	essere	_	_	PST;SG;V;MASC	_	_	_	_
+18	focalizzato	focalizzare	_	_	V;PST;SG;MASC	_	_	_	_
+19	su	su	_	_	ADP	_	_	_	_
+20	l'	il	_	_	DET;SG;DEF;FEM	_	_	_	_
+21	identità	identità	_	_	N;SG;FEM	_	_	_	_
+22	di	di	_	_	ADP	_	_	_	_
+23	i	il	_	_	DET;MASC;DEF;PL	_	_	_	_
+24	maschi	maschio	_	_	N;MASC;PL	_	_	_	_
+25	bianchi	bianco	_	_	ADJ;MASC;PL	_	_	_	_
+26	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01079049
+# text = Nel 1538 l'Inquisizione spagnola esortò i suoi membri di non credere a tutto ciò che diceva il Malleus maleficarum.
+# text_en = In 1538 the Spanish Inquisition cautioned its members not to believe everything the Malleus said.
+1	In	in	_	_	ADP	_	_	_	_
+2	il	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+3	1538	1538	_	_	NUM	_	_	_	_
+4	l'	il	_	_	DET;SG;FEM	_	_	_	_
+5	Inquisizione	Inquisizione	_	_	PROPN;SG;FEM	_	_	_	_
+6	spagnola	spagnolo	_	_	ADJ;SG;FEM	_	_	_	_
+7	esortò	esortare	_	_	PST;3;SG;IND;V;PFV;ACT	_	_	_	_
+8	i	il	_	_	DET;MASC;PL	_	_	_	_
+9	suoi	suo	_	_	PSSS;PRO;3;MASC;PL	_	_	_	_
+10	membri	membro	_	_	N;MASC;PL	_	_	_	_
+11	di	di	_	_	ADP	_	_	_	_
+12	non	non	_	_	ADV;NEG	_	_	_	_
+13	credere	credere	_	_	V;ACT	_	_	_	_
+14	a	a	_	_	ADP	_	_	_	_
+15	tutto	tutto	_	_	ADJ;SG;MASC	_	_	_	_
+16	ciò	ciò	_	_	DET;SG;MASC	_	_	_	_
+17	che	che	_	_	SG;PRO;MASC	_	_	_	_
+18	diceva	dire	_	_	PST;3;SG;IND;IPFV;V;ACT	_	_	_	_
+19	il	il	_	_	DET;SG;MASC	_	_	_	_
+20	Malleus	Malleus	_	_	PROPN;SG;MASC	_	_	_	_
+21	maleficarum	maleficarum	_	_	PROPN;SG;MASC	_	_	_	_
+22	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01036033
+# text = Al momento, la sanzione massima che il RECO può imporre a un agente è di 25.000 dollari.
+# text_en = Currently, the maximum fine RECO can levy against an agent is $25,000.
+1	A	a	_	_	ADP	_	_	_	_
+2	il	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+3	momento	momento	_	_	SG;N;MASC	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	la	il	_	_	DET;SG;FEM	_	_	_	_
+6	sanzione	sanzione	_	_	N;SG;FEM	_	_	_	_
+7	massima	massimo	_	_	FEM;ADJ;SG;AB	_	_	_	_
+8	che	che	_	_	SG;PRO;FEM	_	_	_	_
+9	il	il	_	_	DET;SG;MASC	_	_	_	_
+10	RECO	RECO	_	_	PROPN;SG;MASC	_	_	_	_
+11	può	potere	_	_	V;3;SG;IND;PRS;ACT	_	_	_	_
+12	imporre	imporre	_	_	V;ACT	_	_	_	_
+13	a	a	_	_	ADP	_	_	_	_
+14	un	uno	_	_	DET;SG;MASC	_	_	_	_
+15	agente	agente	_	_	SG;N;MASC	_	_	_	_
+16	è	essere	_	_	V;3;SG;IND;PRS;ACT	_	_	_	_
+17	di	di	_	_	ADP	_	_	_	_
+18	25.000	25.000	_	_	NUM	_	_	_	_
+19	dollari	dollaro	_	_	N;MASC;PL	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01084036
+# text = Con ciò, teoricamente, è possibile accedere ai propri soldi quando lo si desidera.
+# text_en = With this, in theory, you are able to access your money whenever you like.
+1	Con	con	_	_	ADP	_	_	_	_
+2	ciò	ciò	_	_	DET;SG;MASC	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	teoricamente	teorico	_	_	ADV	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	è	essere	_	_	V;3;SG;IND;PRS;ACT	_	_	_	_
+7	possibile	possibile	_	_	ADJ;SG	_	_	_	_
+8	accedere	accedere	_	_	V;ACT	_	_	_	_
+9	a	a	_	_	ADP	_	_	_	_
+10	i	il	_	_	DET;MASC;DEF;PL	_	_	_	_
+11	propri	proprio	_	_	PSSS;PRO;3;MASC;PL	_	_	_	_
+12	soldi	soldo	_	_	N;MASC;PL	_	_	_	_
+13	quando	quando	_	_	CONJ	_	_	_	_
+14	lo	lo	_	_	ACC;PRO;3;SG;MASC	_	_	_	_
+15	si	si	_	_	SG;PRO;3	_	_	_	_
+16	desidera	desiderare	_	_	3;SG;IND;V;PRS;ACT	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01005024
+# text = Inoltre, molti membri dell'élite macedone e persiana si unirono con matrimoni misti.
+# text_en = Moreover, many of the Macedonian and Persian elite intermarried.
+1	Inoltre	inoltre	_	_	ADV	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	molti	molto	_	_	DET;MASC;PL	_	_	_	_
+4	membri	membro	_	_	N;MASC;PL	_	_	_	_
+5	di	di	_	_	ADP	_	_	_	_
+6	l'	il	_	_	DET;SG;DEF;FEM	_	_	_	_
+7	élite	élite	_	_	N;SG;FEM	_	_	_	_
+8	macedone	macedone	_	_	ADJ;SG;FEM	_	_	_	_
+9	e	e	_	_	CONJ	_	_	_	_
+10	persiana	persiana|persiano	_	_	ADJ;SG;FEM	_	_	_	_
+11	si	si	_	_	PRO;3;PL	_	_	_	_
+12	unirono	unire	_	_	PST;3;IND;PL;V;PFV;ACT	_	_	_	_
+13	con	con	_	_	ADP	_	_	_	_
+14	matrimoni	matrimonio	_	_	N;MASC;PL	_	_	_	_
+15	misti	misto	_	_	ADJ;MASC;PL	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01020017
+# text = Questo apriva strade per il commercio, la colonizzazione e la guerra, ed era inoltre una fonte di cibo (dal pesce ai vari tipi di frutti di mare) per numerose comunità nel corso dei tempi.
+# text_en = It provided routes for trade, colonisation, and war, as well as food (from fishing and the gathering of other seafood) for numerous communities throughout the ages.
+1	Questo	questo	_	_	SG;PRO;MASC	_	_	_	_
+2	apriva	aprire	_	_	PST;3;SG;IND;IPFV;V;ACT	_	_	_	_
+3	strade	strada	_	_	PL;N;FEM	_	_	_	_
+4	per	per	_	_	ADP	_	_	_	_
+5	il	il	_	_	DET;SG;MASC	_	_	_	_
+6	commercio	commercio	_	_	SG;N;MASC	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	la	il	_	_	DET;SG;FEM	_	_	_	_
+9	colonizzazione	colonizzazione	_	_	N;SG;FEM	_	_	_	_
+10	e	e	_	_	CONJ	_	_	_	_
+11	la	il	_	_	DET;SG;FEM	_	_	_	_
+12	guerra	guerra	_	_	N;SG;FEM	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	ed	e	_	_	CONJ	_	_	_	_
+15	era	essere	_	_	PST;V;3;SG;IND;IPFV;ACT	_	_	_	_
+16	inoltre	inoltre	_	_	ADV	_	_	_	_
+17	una	uno	_	_	DET;SG;FEM	_	_	_	_
+18	fonte	fonte	_	_	N;SG;FEM	_	_	_	_
+19	di	di	_	_	ADP	_	_	_	_
+20	cibo	cibo	_	_	SG;N;MASC	_	_	_	_
+21	(	(	_	_	_	_	_	_	_
+22	da	da	_	_	ADP	_	_	_	_
+23	il	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+24	pesce	pesce	_	_	SG;N;MASC	_	_	_	_
+25	a	a	_	_	ADP	_	_	_	_
+26	i	il	_	_	DET;MASC;DEF;PL	_	_	_	_
+27	vari	vario|varo	_	_	DET;MASC;PL	_	_	_	_
+28	tipi	tipo	_	_	N;MASC;PL	_	_	_	_
+29	di	di	_	_	ADP	_	_	_	_
+30	frutti	frutto	_	_	N;MASC;PL	_	_	_	_
+31	di	di	_	_	ADP	_	_	_	_
+32	mare	mare	_	_	SG;N;MASC	_	_	_	_
+33	)	)	_	_	_	_	_	_	_
+34	per	per	_	_	ADP	_	_	_	_
+35	numerose	numerose	_	_	PL;DET;FEM	_	_	_	_
+36	comunità	comunità	_	_	PL;N;FEM	_	_	_	_
+37	in	in	_	_	ADP	_	_	_	_
+38	il	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+39	corso	corso	_	_	SG;N;MASC	_	_	_	_
+40	di	di	_	_	ADP	_	_	_	_
+41	i	il	_	_	DET;MASC;DEF;PL	_	_	_	_
+42	tempi	tempo	_	_	N;MASC;PL	_	_	_	_
+43	.	.	_	_	_	_	_	_	_
+
+# sent_id = w03005013
+# text = La scrittura era andata perduta e i manoscritti micenei dimenticati, ma i greci adottarono l'alfabeto fenicio, modificandolo per creare quello greco.
+# text_en = Literacy had been lost and Mycenaean script forgotten, but the Greeks adopted the Phoenician alphabet, modifying it to create the Greek alphabet.
+1	La	il	_	_	DET;SG;FEM	_	_	_	_
+2	scrittura	scrittura	_	_	N;SG;FEM	_	_	_	_
+3	era	essere	_	_	PST;V;3;SG;IND;IPFV;ACT	_	_	_	_
+4	andata	andare	_	_	V;PST;SG;FEM	_	_	_	_
+5	perduta	perduto	_	_	PST;PASS;SG;FEM;V	_	_	_	_
+6	e	e	_	_	CONJ	_	_	_	_
+7	i	il	_	_	DET;MASC;PL	_	_	_	_
+8	manoscritti	manoscritto	_	_	N;MASC;PL	_	_	_	_
+9	micenei	miceneo	_	_	ADJ;MASC;PL	_	_	_	_
+10	dimenticati	dimenticare	_	_	PASS;PST;MASC;PL;V	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	ma	ma	_	_	CONJ	_	_	_	_
+13	i	il	_	_	DET;MASC;PL	_	_	_	_
+14	greci	greco	_	_	PROPN;MASC;PL	_	_	_	_
+15	adottarono	adottare	_	_	PST;3;IND;PL;V;PFV;ACT	_	_	_	_
+16	l'	il	_	_	DET;SG;MASC	_	_	_	_
+17	alfabeto	alfabeto	_	_	SG;N;MASC	_	_	_	_
+18	fenicio	fenicio	_	_	ADJ;SG;MASC	_	_	_	_
+19	,	,	_	_	_	_	_	_	_
+20	modificando	modificare	_	_	V;ACT	_	_	_	_
+21	lo	lo	_	_	ACC;PRO;3;SG;MASC	_	_	_	_
+22	per	per	_	_	ADP	_	_	_	_
+23	creare	creare	_	_	V;ACT	_	_	_	_
+24	quello	quello	_	_	SG;PRO;MASC	_	_	_	_
+25	greco	greco	_	_	ADJ;SG;MASC	_	_	_	_
+26	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01075
+# sent_id = n01075028
+# text = È stato come se, lanciando con destrezza la palla avanti e indietro, fosse un mago che fa il gioco delle tre tazze.
+# text_en = It was as though he was flicking the ball back and forth underneath three upturned cups.
+1	È	essere	_	_	V;3;SG;IND;PRS;ACT	_	_	_	_
+2	stato	essere	_	_	V;PST;SG;MASC	_	_	_	_
+3	come	come	_	_	ADP	_	_	_	_
+4	se	se	_	_	ADP	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	lanciando	lanciare	_	_	V;ACT	_	_	_	_
+7	con	con	_	_	ADP	_	_	_	_
+8	destrezza	destrezza	_	_	N;SG;FEM	_	_	_	_
+9	la	il	_	_	DET;SG;FEM	_	_	_	_
+10	palla	palla	_	_	N;SG;FEM	_	_	_	_
+11	avanti	avanti	_	_	ADV	_	_	_	_
+12	e	e	_	_	CONJ	_	_	_	_
+13	indietro	indietro	_	_	ADV	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	fosse	essere	_	_	SBJV;PST;V;3;SG;ACT	_	_	_	_
+16	un	uno	_	_	DET;SG;MASC	_	_	_	_
+17	mago	mago	_	_	SG;N;MASC	_	_	_	_
+18	che	che	_	_	SG;PRO;MASC	_	_	_	_
+19	fa	fare	_	_	3;SG;IND;V;PRS;ACT	_	_	_	_
+20	il	il	_	_	DET;SG;MASC	_	_	_	_
+21	gioco	gioco	_	_	SG;N;MASC	_	_	_	_
+22	di	di	_	_	ADP	_	_	_	_
+23	le	il	_	_	DET;DEF;PL;FEM	_	_	_	_
+24	tre	tre	_	_	NUM	_	_	_	_
+25	tazze	tazza	_	_	PL;N;FEM	_	_	_	_
+26	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n02041
+# sent_id = n02041014
+# text = La produzione del modello di smartphone venne completamente accantonata.
+# text_en = Production of the smartphone model was completely discontinued.
+1	La	il	_	_	DET;SG;FEM	_	_	_	_
+2	produzione	produzione	_	_	N;SG;FEM	_	_	_	_
+3	di	di	_	_	ADP	_	_	_	_
+4	il	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+5	modello	modello	_	_	SG;N;MASC	_	_	_	_
+6	di	di	_	_	ADP	_	_	_	_
+7	smartphone	smartphone	_	_	N;MASC	_	_	_	_
+8	venne	venire	_	_	PST;PASS;3;SG;IND;V;PFV	_	_	_	_
+9	completamente	completo	_	_	ADV	_	_	_	_
+10	accantonata	accantonare	_	_	V;PST;SG;FEM	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01070035
+# text = Due misurano le durate dei mesi lunari.
+# text_en = Two measure the lengths of lunar months.
+1	Due	due	_	_	NUM	_	_	_	_
+2	misurano	misurare	_	_	3;IND;PL;V;PRS;ACT	_	_	_	_
+3	le	il	_	_	PL;DET;FEM	_	_	_	_
+4	durate	durata	_	_	PL;N;FEM	_	_	_	_
+5	di	di	_	_	ADP	_	_	_	_
+6	i	il	_	_	DET;MASC;DEF;PL	_	_	_	_
+7	mesi	mese	_	_	N;MASC;PL	_	_	_	_
+8	lunari	lunare	_	_	ADJ;MASC;PL	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01079077
+# text = La Spagna espulse la sua popolazione sefardita nel 1492; molti di questi ebrei spagnoli lasciarono la Spagna per il Portogallo, ma alla fine vennero presi di mira anche lì.
+# text_en = Spain had expelled its Sephardic population in 1492; many of these Spanish Jews left Spain for Portugal but eventually were targeted there as well.
+1	La	il	_	_	DET;SG;FEM	_	_	_	_
+2	Spagna	Spagna	_	_	PROPN;SG;FEM	_	_	_	_
+3	espulse	espellere	_	_	PST;3;SG;IND;V;PFV;ACT	_	_	_	_
+4	la	il	_	_	DET;SG;FEM	_	_	_	_
+5	sua	suo	_	_	PSSS;PRO;3;SG;FEM	_	_	_	_
+6	popolazione	popolazione	_	_	N;SG;FEM	_	_	_	_
+7	sefardita	sefardita	_	_	ADJ;SG;FEM	_	_	_	_
+8	in	in	_	_	ADP	_	_	_	_
+9	il	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+10	1492	1492	_	_	NUM	_	_	_	_
+11	;	;	_	_	_	_	_	_	_
+12	molti	molto	_	_	DET;MASC;PL	_	_	_	_
+13	di	di	_	_	ADP	_	_	_	_
+14	questi	questo	_	_	DET;MASC;PL	_	_	_	_
+15	ebrei	ebreo	_	_	N;MASC;PL	_	_	_	_
+16	spagnoli	spagnolo	_	_	ADJ;MASC;PL	_	_	_	_
+17	lasciarono	lasciare	_	_	PST;3;IND;PL;V;PFV;ACT	_	_	_	_
+18	la	il	_	_	DET;SG;FEM	_	_	_	_
+19	Spagna	Spagna	_	_	PROPN;SG;FEM	_	_	_	_
+20	per	per	_	_	ADP	_	_	_	_
+21	il	il	_	_	DET;SG;MASC	_	_	_	_
+22	Portogallo	Portogallo	_	_	PROPN;SG;MASC	_	_	_	_
+23	,	,	_	_	_	_	_	_	_
+24	ma	ma	_	_	CONJ	_	_	_	_
+25	a	a	_	_	ADP	_	_	_	_
+26	la	il	_	_	DET;SG;DEF;FEM	_	_	_	_
+27	fine	fine	_	_	N;SG;FEM	_	_	_	_
+28	vennero	venire	_	_	PST;PASS;3;IND;PL;V;PFV	_	_	_	_
+29	presi	prendere	_	_	V;PST;MASC;PL	_	_	_	_
+30	di	di	_	_	ADP	_	_	_	_
+31	mira	mira	_	_	N;SG;FEM	_	_	_	_
+32	anche	anche	_	_	ADV	_	_	_	_
+33	lì	lì	_	_	ADV	_	_	_	_
+34	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01111030
+# text = Ciò significa che non hanno beneficiato del rilancio dei beni d'oltremare causato dal deprezzamento della sterlina.
+# text_en = This means that they have not benefited from the uplift that the fall in sterling has given to overseas assets.
+1	Ciò	ciò	_	_	DET;SG;MASC	_	_	_	_
+2	significa	significare	_	_	3;SG;IND;V;PRS;ACT	_	_	_	_
+3	che	che	_	_	CONJ	_	_	_	_
+4	non	non	_	_	ADV;NEG	_	_	_	_
+5	hanno	avere	_	_	V;3;IND;PL;PRS;ACT	_	_	_	_
+6	beneficiato	beneficiare	_	_	V;PST	_	_	_	_
+7	di	di	_	_	ADP	_	_	_	_
+8	il	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+9	rilancio	rilancio	_	_	SG;N;MASC	_	_	_	_
+10	di	di	_	_	ADP	_	_	_	_
+11	i	il	_	_	DET;MASC;DEF;PL	_	_	_	_
+12	beni	bene	_	_	N;MASC;PL	_	_	_	_
+13	d'	di	_	_	ADP	_	_	_	_
+14	oltremare	oltremare	_	_	SG;N;MASC	_	_	_	_
+15	causato	causare	_	_	PST;PASS;SG;MASC;V	_	_	_	_
+16	da	da	_	_	ADP	_	_	_	_
+17	il	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+18	deprezzamento	deprezzamento	_	_	SG;N;MASC	_	_	_	_
+19	di	di	_	_	ADP	_	_	_	_
+20	la	il	_	_	DET;SG;DEF;FEM	_	_	_	_
+21	sterlina	sterlina	_	_	N;SG;FEM	_	_	_	_
+22	.	.	_	_	_	_	_	_	_
+
+# sent_id = w03010099
+# text = In estate, Georges e sua moglie tornarono in Svizzera, accompagnati da Rosane, una ragazza di 18 anni figlia di uno degli amici di Germaine.
+# text_en = In the summer, Georges and his wife returned to Switzerland, accompanied by Rosane, an 18 year old who was the daughter of one of Germaine's friends.
+1	In	in	_	_	ADP	_	_	_	_
+2	estate	estate	_	_	N;SG;FEM	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	Georges	Georges	_	_	PROPN;SG;MASC	_	_	_	_
+5	e	e	_	_	CONJ	_	_	_	_
+6	sua	suo	_	_	PSSS;PRO;3;SG;FEM	_	_	_	_
+7	moglie	moglie	_	_	N;SG;FEM	_	_	_	_
+8	tornarono	tornare	_	_	PST;3;IND;PL;V;PFV;ACT	_	_	_	_
+9	in	in	_	_	ADP	_	_	_	_
+10	Svizzera	Svizzera	_	_	PROPN;SG;FEM	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	accompagnati	accompagnare	_	_	PASS;PST;MASC;PL;V	_	_	_	_
+13	da	da	_	_	ADP	_	_	_	_
+14	Rosane	Rosane	_	_	PROPN;SG;FEM	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	una	uno	_	_	DET;SG;FEM	_	_	_	_
+17	ragazza	ragazzo	_	_	N;SG;FEM	_	_	_	_
+18	di	di	_	_	ADP	_	_	_	_
+19	18	18	_	_	NUM	_	_	_	_
+20	anni	anno	_	_	N;MASC;PL	_	_	_	_
+21	figlia	figlio	_	_	N;SG;FEM	_	_	_	_
+22	di	di	_	_	ADP	_	_	_	_
+23	uno	uno	_	_	NUM;MASC	_	_	_	_
+24	di	di	_	_	ADP	_	_	_	_
+25	gli	il	_	_	DET;MASC;DEF;PL	_	_	_	_
+26	amici	amico	_	_	N;MASC;PL	_	_	_	_
+27	di	di	_	_	ADP	_	_	_	_
+28	Germaine	Germaine	_	_	PROPN;SG;FEM	_	_	_	_
+29	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01009
+# sent_id = n01009027
+# text = Oggi, si può considerare Khanzir un maiale solitario, ma non è sempre solo.
+# text_en = Today, Khanzir may be a lonely pig, but he isn’t always alone.
+1	Oggi	oggi	_	_	ADV	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	si	si	_	_	SG;PRO;3	_	_	_	_
+4	può	potere	_	_	V;3;SG;IND;PRS;ACT	_	_	_	_
+5	considerare	considerare	_	_	V;ACT	_	_	_	_
+6	Khanzir	Khanzir	_	_	PROPN;SG;MASC	_	_	_	_
+7	un	uno	_	_	DET;SG;MASC	_	_	_	_
+8	maiale	maiale	_	_	SG;N;MASC	_	_	_	_
+9	solitario	solitario	_	_	ADJ;SG;MASC	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	ma	ma	_	_	CONJ	_	_	_	_
+12	non	non	_	_	ADV;NEG	_	_	_	_
+13	è	essere	_	_	V;3;SG;IND;PRS;ACT	_	_	_	_
+14	sempre	sempre	_	_	ADV	_	_	_	_
+15	solo	solo	_	_	ADJ;SG;MASC	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01137087
+# text = A maggio, alcune guardie del confine ceco spararono a due agricoltori tedeschi dei Sudeti che stavano tentando di attraversare la frontiera per andare in Cecoslovacchia senza fermarsi ai controlli di confine.
+# text_en = In May, Czech border guards shot two Sudeten German farmers who were trying to cross the border into Czechoslovakia without stopping for border controls.
+1	A	a	_	_	ADP	_	_	_	_
+2	maggio	maggio	_	_	SG;N;MASC	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	alcune	alcuno	_	_	PL;DET;FEM	_	_	_	_
+5	guardie	guardia	_	_	PL;N;FEM	_	_	_	_
+6	di	di	_	_	ADP	_	_	_	_
+7	il	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+8	confine	confine	_	_	SG;N;MASC	_	_	_	_
+9	ceco	ceco	_	_	ADJ;SG;MASC	_	_	_	_
+10	spararono	sparare	_	_	PST;3;IND;PL;V;PFV;ACT	_	_	_	_
+11	a	a	_	_	ADP	_	_	_	_
+12	due	due	_	_	NUM	_	_	_	_
+13	agricoltori	agricoltore	_	_	N;MASC;PL	_	_	_	_
+14	tedeschi	tedesco	_	_	ADJ;MASC;PL	_	_	_	_
+15	di	di	_	_	ADP	_	_	_	_
+16	i	il	_	_	DET;MASC;DEF;PL	_	_	_	_
+17	Sudeti	Sudeti	_	_	PROPN;MASC;PL	_	_	_	_
+18	che	che	_	_	PRO;MASC;PL	_	_	_	_
+19	stavano	stare	_	_	PST;V;3;IND;PL;IPFV;ACT	_	_	_	_
+20	tentando	tentare	_	_	V;ACT	_	_	_	_
+21	di	di	_	_	ADP	_	_	_	_
+22	attraversare	attraversare	_	_	V;ACT	_	_	_	_
+23	la	il	_	_	DET;SG;FEM	_	_	_	_
+24	frontiera	frontiera	_	_	N;SG;FEM	_	_	_	_
+25	per	per	_	_	ADP	_	_	_	_
+26	andare	andare	_	_	V;ACT	_	_	_	_
+27	in	in	_	_	ADP	_	_	_	_
+28	Cecoslovacchia	Cecoslovacchia	_	_	PROPN;SG;FEM	_	_	_	_
+29	senza	senza	_	_	ADP	_	_	_	_
+30	fermar	fermare	_	_	V;ACT	_	_	_	_
+31	si	si	_	_	SG;PRO;3	_	_	_	_
+32	a	a	_	_	ADP	_	_	_	_
+33	i	il	_	_	DET;MASC;DEF;PL	_	_	_	_
+34	controlli	controllo	_	_	N;MASC;PL	_	_	_	_
+35	di	di	_	_	ADP	_	_	_	_
+36	confine	confine	_	_	SG;N;MASC	_	_	_	_
+37	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01001013
+# text = Per chiunque segua le transizioni di Capitol Hill sui social media, questo sarà leggermente diverso.
+# text_en = For those who follow social media transitions on Capitol Hill, this will be a little different.
+1	Per	per	_	_	ADP	_	_	_	_
+2	chiunque	chiunque	_	_	SG;PRO	_	_	_	_
+3	segua	seguire	_	_	SBJV;3;SG;V;PRS;ACT	_	_	_	_
+4	le	il	_	_	PL;DET;FEM	_	_	_	_
+5	transizioni	transizione	_	_	PL;N;FEM	_	_	_	_
+6	di	di	_	_	ADP	_	_	_	_
+7	Capitol	Capitol	_	_	PROPN;SG;MASC	_	_	_	_
+8	Hill	Hill	_	_	PROPN;SG;MASC	_	_	_	_
+9	su	su	_	_	ADP	_	_	_	_
+10	i	il	_	_	DET;MASC;DEF;PL	_	_	_	_
+11	social	social	_	_	N;MASC;PL	_	_	_	_
+12	media	media	_	_	_	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	questo	questo	_	_	SG;PRO;MASC	_	_	_	_
+15	sarà	essere	_	_	V;FUT;3;SG;IND;ACT	_	_	_	_
+16	leggermente	leggermente	_	_	ADV	_	_	_	_
+17	diverso	diverso	_	_	ADJ;SG;MASC	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = n05002017
+# text = I sindacati sono stati molto agguerriti e in diverse occasioni hanno richiesto l'abrogazione della legislazione di cui Fátima Báñez è molto orgogliosa.
+# text_en = The unions have been very combative and on several occasions have called for the repeal of the legislation that Fátima Báñez is proudest of.
+1	I	il	_	_	DET;MASC;PL	_	_	_	_
+2	sindacati	sindacato	_	_	N;MASC;PL	_	_	_	_
+3	sono	essere	_	_	V;3;IND;PL;PRS;ACT	_	_	_	_
+4	stati	essere	_	_	PST;V;MASC;PL	_	_	_	_
+5	molto	molto	_	_	ADV	_	_	_	_
+6	agguerriti	agguerrire	_	_	ADJ;MASC;PL	_	_	_	_
+7	e	e	_	_	CONJ	_	_	_	_
+8	in	in	_	_	ADP	_	_	_	_
+9	diverse	diverso	_	_	PL;DET;FEM	_	_	_	_
+10	occasioni	occasione	_	_	PL;N;FEM	_	_	_	_
+11	hanno	avere	_	_	V;3;IND;PL;PRS;ACT	_	_	_	_
+12	richiesto	richiedere	_	_	V;PST	_	_	_	_
+13	l'	il	_	_	DET;SG;FEM	_	_	_	_
+14	abrogazione	abrogazione	_	_	N;SG;FEM	_	_	_	_
+15	di	di	_	_	ADP	_	_	_	_
+16	la	il	_	_	DET;SG;DEF;FEM	_	_	_	_
+17	legislazione	legislazione	_	_	N;SG;FEM	_	_	_	_
+18	di	di	_	_	ADP	_	_	_	_
+19	cui	cui	_	_	SG;PRO;FEM	_	_	_	_
+20	Fátima	Fátima	_	_	PROPN;SG;FEM	_	_	_	_
+21	Báñez	Báñez	_	_	PROPN;SG;FEM	_	_	_	_
+22	è	essere	_	_	V;3;SG;IND;PRS;ACT	_	_	_	_
+23	molto	molto	_	_	ADV	_	_	_	_
+24	orgogliosa	orgoglioso	_	_	ADJ;SG;FEM	_	_	_	_
+25	.	.	_	_	_	_	_	_	_
+
+# sent_id = n04005016
+# text = Quindi si genera il buono che può essere salvato sullo smartphone o stampato e presentato alla cassa.
+# text_en = A voucher is generated that can be saved on your smartphone, or presented at the till.
+1	Quindi	quindi	_	_	ADV	_	_	_	_
+2	si	si	_	_	SG;PRO;3	_	_	_	_
+3	genera	generare	_	_	3;SG;IND;V;PRS;ACT	_	_	_	_
+4	il	il	_	_	DET;SG;MASC	_	_	_	_
+5	buono	buono	_	_	SG;N;MASC	_	_	_	_
+6	che	che	_	_	SG;PRO;MASC	_	_	_	_
+7	può	potere	_	_	V;3;SG;IND;PRS;ACT	_	_	_	_
+8	essere	essere	_	_	V;PASS	_	_	_	_
+9	salvato	salvare	_	_	V;PST;SG;MASC	_	_	_	_
+10	su	su	_	_	ADP	_	_	_	_
+11	lo	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+12	smartphone	smartphone	_	_	SG;N;MASC	_	_	_	_
+13	o	o	_	_	CONJ	_	_	_	_
+14	stampato	stampare	_	_	PST;PASS;SG;MASC;V	_	_	_	_
+15	e	e	_	_	CONJ	_	_	_	_
+16	presentato	presentare	_	_	PST;PASS;SG;MASC;V	_	_	_	_
+17	a	a	_	_	ADP	_	_	_	_
+18	la	il	_	_	DET;SG;DEF;FEM	_	_	_	_
+19	cassa	cassa	_	_	N;SG;FEM	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n03007
+# sent_id = n03007003
+# text = La clausola include il tempo impiegato per recarsi a casa dei clienti durante l'orario di lavoro.
+# text_en = This clause included the time taken to travel to clients' homes in working hours.
+1	La	il	_	_	DET;SG;FEM	_	_	_	_
+2	clausola	clausola	_	_	N;SG;FEM	_	_	_	_
+3	include	includere	_	_	3;SG;IND;V;PRS;ACT	_	_	_	_
+4	il	il	_	_	DET;SG;MASC	_	_	_	_
+5	tempo	tempo	_	_	SG;N;MASC	_	_	_	_
+6	impiegato	impiegare	_	_	PST;PASS;SG;MASC;V	_	_	_	_
+7	per	per	_	_	ADP	_	_	_	_
+8	recar	recare	_	_	V;ACT	_	_	_	_
+9	si	si	_	_	SG;PRO;3	_	_	_	_
+10	a	a	_	_	ADP	_	_	_	_
+11	casa	casa	_	_	N;SG;FEM	_	_	_	_
+12	di	di	_	_	ADP	_	_	_	_
+13	i	il	_	_	DET;MASC;DEF;PL	_	_	_	_
+14	clienti	cliente	_	_	N;MASC;PL	_	_	_	_
+15	durante	durante	_	_	ADP	_	_	_	_
+16	l'	il	_	_	DET;SG;MASC	_	_	_	_
+17	orario	orario	_	_	SG;N;MASC	_	_	_	_
+18	di	di	_	_	ADP	_	_	_	_
+19	lavoro	lavoro	_	_	SG;N;MASC	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01024013
+# text = I risultati di questo esperimento rappresentano un ulteriore sostegno all'ipotesi secondo cui i semi di rucola possono essere trasportati nell'atmosfera e immagazzinati nella Stazione Spaziale Internazionale per sei mesi, senza che questo intacchi in modo particolare la loro abilità di germogliare e crescere sulla Terra.
+# text_en = The results from this experiment provides further support that rocket seeds can be flown and stored on the International Space Station for six months without having any significant impacts on their ability to germinate and grow on Earth.
+1	I	il	_	_	DET;MASC;PL	_	_	_	_
+2	risultati	risultato	_	_	N;MASC;PL	_	_	_	_
+3	di	di	_	_	ADP	_	_	_	_
+4	questo	questo	_	_	DET;SG;MASC	_	_	_	_
+5	esperimento	esperimento	_	_	SG;N;MASC	_	_	_	_
+6	rappresentano	rappresentare	_	_	3;IND;PL;V;PRS;ACT	_	_	_	_
+7	un	uno	_	_	DET;SG;MASC	_	_	_	_
+8	ulteriore	ulteriore	_	_	ADJ;SG;MASC	_	_	_	_
+9	sostegno	sostegno	_	_	SG;N;MASC	_	_	_	_
+10	a	a	_	_	ADP	_	_	_	_
+11	l'	il	_	_	DET;SG;DEF;FEM	_	_	_	_
+12	ipotesi	ipotesi	_	_	N;SG;FEM	_	_	_	_
+13	secondo	secondo	_	_	ADP	_	_	_	_
+14	cui	cui	_	_	SG;PRO;FEM	_	_	_	_
+15	i	il	_	_	DET;MASC;PL	_	_	_	_
+16	semi	seme	_	_	N;MASC;PL	_	_	_	_
+17	di	di	_	_	ADP	_	_	_	_
+18	rucola	rucola	_	_	N;SG;FEM	_	_	_	_
+19	possono	potere	_	_	V;3;IND;PL;PRS;ACT	_	_	_	_
+20	essere	essere	_	_	V;PASS	_	_	_	_
+21	trasportati	trasportare	_	_	V;PST;MASC;PL	_	_	_	_
+22	in	in	_	_	ADP	_	_	_	_
+23	l'	il	_	_	DET;SG;DEF;FEM	_	_	_	_
+24	atmosfera	atmosfera	_	_	N;SG;FEM	_	_	_	_
+25	e	e	_	_	CONJ	_	_	_	_
+26	immagazzinati	immagazzinare	_	_	PASS;PST;MASC;PL;V	_	_	_	_
+27	in	in	_	_	ADP	_	_	_	_
+28	la	il	_	_	DET;SG;DEF;FEM	_	_	_	_
+29	Stazione	Stazione	_	_	PROPN;SG;FEM	_	_	_	_
+30	Spaziale	Spaziale	_	_	ADJ;SG;FEM	_	_	_	_
+31	Internazionale	Internazionale	_	_	ADJ;SG;FEM	_	_	_	_
+32	per	per	_	_	ADP	_	_	_	_
+33	sei	sei	_	_	NUM	_	_	_	_
+34	mesi	mese	_	_	N;MASC;PL	_	_	_	_
+35	,	,	_	_	_	_	_	_	_
+36	senza	senza	_	_	ADP	_	_	_	_
+37	che	che	_	_	ADP	_	_	_	_
+38	questo	questo	_	_	SG;PRO;MASC	_	_	_	_
+39	intacchi	intaccare	_	_	SBJV;3;SG;V;PRS;ACT	_	_	_	_
+40	in	in	_	_	ADP	_	_	_	_
+41	modo	modo	_	_	SG;N;MASC	_	_	_	_
+42	particolare	particolare	_	_	ADJ;SG;MASC	_	_	_	_
+43	la	il	_	_	DET;SG;FEM	_	_	_	_
+44	loro	loro	_	_	PSSP;PRO;3;SG;FEM	_	_	_	_
+45	abilità	abilità	_	_	N;SG;FEM	_	_	_	_
+46	di	di	_	_	ADP	_	_	_	_
+47	germogliare	germogliare	_	_	V;ACT	_	_	_	_
+48	e	e	_	_	CONJ	_	_	_	_
+49	crescere	crescere	_	_	V;ACT	_	_	_	_
+50	su	su	_	_	ADP	_	_	_	_
+51	la	il	_	_	DET;SG;DEF;FEM	_	_	_	_
+52	Terra	Terra	_	_	PROPN;SG;FEM	_	_	_	_
+53	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01098044
+# text = A ogni stazione, una guardia con il cappello rosso presidia la banchina e un addetto al controllo delle ruote cammina lungo il treno con un martello, colpendo delicatamente il telaio.
+# text_en = At each station, a red-capped guard presides over the platform and a wheel-tapper walks along the train with a hammer, gently knocking the undercarriage.
+1	A	a	_	_	ADP	_	_	_	_
+2	ogni	ogni	_	_	DET;SG;FEM	_	_	_	_
+3	stazione	stazione	_	_	N;SG;FEM	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	una	uno	_	_	DET;SG;FEM	_	_	_	_
+6	guardia	guardia	_	_	N;SG;FEM	_	_	_	_
+7	con	con	_	_	ADP	_	_	_	_
+8	il	il	_	_	DET;SG;MASC	_	_	_	_
+9	cappello	cappello	_	_	SG;N;MASC	_	_	_	_
+10	rosso	rosso	_	_	ADJ;SG;MASC	_	_	_	_
+11	presidia	presidiare	_	_	3;SG;IND;V;PRS;ACT	_	_	_	_
+12	la	il	_	_	DET;SG;FEM	_	_	_	_
+13	banchina	banchina	_	_	N;SG;FEM	_	_	_	_
+14	e	e	_	_	CONJ	_	_	_	_
+15	un	uno	_	_	DET;SG;MASC	_	_	_	_
+16	addetto	addetto	_	_	SG;N;MASC	_	_	_	_
+17	a	a	_	_	ADP	_	_	_	_
+18	il	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+19	controllo	controllo	_	_	SG;N;MASC	_	_	_	_
+20	di	di	_	_	ADP	_	_	_	_
+21	le	il	_	_	DET;DEF;PL;FEM	_	_	_	_
+22	ruote	ruota	_	_	PL;N;FEM	_	_	_	_
+23	cammina	camminare	_	_	3;SG;IND;V;PRS;ACT	_	_	_	_
+24	lungo	lungo	_	_	ADP	_	_	_	_
+25	il	il	_	_	DET;SG;MASC	_	_	_	_
+26	treno	treno	_	_	SG;N;MASC	_	_	_	_
+27	con	con	_	_	ADP	_	_	_	_
+28	un	uno	_	_	DET;SG;MASC	_	_	_	_
+29	martello	martello	_	_	SG;N;MASC	_	_	_	_
+30	,	,	_	_	_	_	_	_	_
+31	colpendo	colpire	_	_	V;ACT	_	_	_	_
+32	delicatamente	delicato	_	_	ADV	_	_	_	_
+33	il	il	_	_	DET;SG;MASC	_	_	_	_
+34	telaio	telaio	_	_	SG;N;MASC	_	_	_	_
+35	.	.	_	_	_	_	_	_	_
+
+# sent_id = w02013076
+# text = Dopo la conquista del potere da parte dei nazionalsocialisti nel 1933 ci furono tentativi sparsi di riconquistare le vecchie colonie.
+# text_en = After the seizure of power by the National Socialists in 1933 there were dispersed attempts to win back the old colonies.
+1	Dopo	dopo	_	_	ADP	_	_	_	_
+2	la	il	_	_	DET;SG;FEM	_	_	_	_
+3	conquista	conquista	_	_	N;SG;FEM	_	_	_	_
+4	di	di	_	_	ADP	_	_	_	_
+5	il	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+6	potere	potere	_	_	SG;N;MASC	_	_	_	_
+7	da	da	_	_	ADP	_	_	_	_
+8	parte	parte	_	_	N;SG;FEM	_	_	_	_
+9	di	di	_	_	ADP	_	_	_	_
+10	i	il	_	_	DET;MASC;DEF;PL	_	_	_	_
+11	nazionalsocialisti	nazionalsocialista	_	_	N;MASC;PL	_	_	_	_
+12	in	in	_	_	ADP	_	_	_	_
+13	il	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+14	1933	1933	_	_	NUM	_	_	_	_
+15	ci	ci	_	_	PRO	_	_	_	_
+16	furono	essere	_	_	PST;3;IND;PL;V;PFV;ACT	_	_	_	_
+17	tentativi	tentativo	_	_	N;MASC;PL	_	_	_	_
+18	sparsi	sparso	_	_	ADJ;MASC;PL	_	_	_	_
+19	di	di	_	_	ADP	_	_	_	_
+20	riconquistare	riconquistare	_	_	V;ACT	_	_	_	_
+21	le	il	_	_	PL;DET;FEM	_	_	_	_
+22	vecchie	vecchio	_	_	PL;ADJ;FEM	_	_	_	_
+23	colonie	colonia	_	_	PL;N;FEM	_	_	_	_
+24	.	.	_	_	_	_	_	_	_
+
+# sent_id = w02014030
+# text = Dopo il compromesso, l'imperatore e re Francesco Giuseppe I si preoccupò di trattare entrambe le sue monarchie allo stesso modo.
+# text_en = After the Compromise, Emperor and King Franz Joseph I. took great care to treat both of his monarchies equally.
+1	Dopo	dopo	_	_	ADP	_	_	_	_
+2	il	il	_	_	DET;SG;MASC	_	_	_	_
+3	compromesso	compromesso	_	_	SG;N;MASC	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	l'	il	_	_	DET;SG;MASC	_	_	_	_
+6	imperatore	imperatore	_	_	SG;N;MASC	_	_	_	_
+7	e	e	_	_	CONJ	_	_	_	_
+8	re	re	_	_	SG;N;MASC	_	_	_	_
+9	Francesco	Francesco	_	_	PROPN;SG;MASC	_	_	_	_
+10	Giuseppe	Giuseppe	_	_	PROPN;SG;MASC	_	_	_	_
+11	I	I	_	_	ADJ;SG;MASC	_	_	_	_
+12	si	si	_	_	SG;PRO;3	_	_	_	_
+13	preoccupò	preoccupare	_	_	PST;3;SG;IND;V;PFV;ACT	_	_	_	_
+14	di	di	_	_	ADP	_	_	_	_
+15	trattare	trattare	_	_	V;ACT	_	_	_	_
+16	entrambe	entrambi	_	_	PL;ADJ;FEM	_	_	_	_
+17	le	il	_	_	PL;DET;FEM	_	_	_	_
+18	sue	suo	_	_	PSSS;PRO;3;PL;FEM	_	_	_	_
+19	monarchie	monarchia	_	_	PL;N;FEM	_	_	_	_
+20	a	a	_	_	ADP	_	_	_	_
+21	lo	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+22	stesso	stesso	_	_	ADJ;SG;MASC	_	_	_	_
+23	modo	modo	_	_	SG;N;MASC	_	_	_	_
+24	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01099
+# sent_id = w01099012
+# text = Le spiegazioni sull'origine della musica dipendono da come viene definita la musica.
+# text_en = Explanations of the origin of music depend on how music is defined.
+1	Le	il	_	_	PL;DET;FEM	_	_	_	_
+2	spiegazioni	spiegazione	_	_	PL;N;FEM	_	_	_	_
+3	su	su	_	_	ADP	_	_	_	_
+4	l'	il	_	_	DET;SG;DEF;FEM	_	_	_	_
+5	origine	origine	_	_	N;SG;FEM	_	_	_	_
+6	di	di	_	_	ADP	_	_	_	_
+7	la	il	_	_	DET;SG;DEF;FEM	_	_	_	_
+8	musica	musica	_	_	N;SG;FEM	_	_	_	_
+9	dipendono	dipendere	_	_	3;IND;PL;V;PRS;ACT	_	_	_	_
+10	da	da	_	_	ADP	_	_	_	_
+11	come	come	_	_	ADV	_	_	_	_
+12	viene	venire	_	_	PASS;3;SG;IND;V;PRS	_	_	_	_
+13	definita	definire	_	_	V;PST;SG;FEM	_	_	_	_
+14	la	il	_	_	DET;SG;FEM	_	_	_	_
+15	musica	musica	_	_	N;SG;FEM	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = n04007015
+# text = Come detto, la decisione è prerogativa della BCE e sarebbe inopportuno per la Banca parlare a suo nome escludendo la possibilità di esaminare altre alternative.
+# text_en = As stated, the decision is the prerogative of the ECB and would appear inappropriate for the Bank to speak on its behalf by excluding the possibility of looking at other alternatives.
+1	Come	come	_	_	CONJ	_	_	_	_
+2	detto	dire	_	_	PST;PASS;SG;MASC;V	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	la	il	_	_	DET;SG;FEM	_	_	_	_
+5	decisione	decisione	_	_	N;SG;FEM	_	_	_	_
+6	è	essere	_	_	V;3;SG;IND;PRS;ACT	_	_	_	_
+7	prerogativa	prerogativa	_	_	N;SG;FEM	_	_	_	_
+8	di	di	_	_	ADP	_	_	_	_
+9	la	il	_	_	DET;SG;DEF;FEM	_	_	_	_
+10	BCE	BCE	_	_	PROPN;SG;FEM	_	_	_	_
+11	e	e	_	_	CONJ	_	_	_	_
+12	sarebbe	essere	_	_	V;3;SG;COND;PRS;ACT	_	_	_	_
+13	inopportuno	inopportuno	_	_	ADJ;SG;MASC	_	_	_	_
+14	per	per	_	_	ADP	_	_	_	_
+15	la	il	_	_	DET;SG;FEM	_	_	_	_
+16	Banca	Banca	_	_	N;SG;FEM	_	_	_	_
+17	parlare	parlare	_	_	V;ACT	_	_	_	_
+18	a	a	_	_	ADP	_	_	_	_
+19	suo	suo	_	_	PSSS;PRO;3;SG;MASC	_	_	_	_
+20	nome	nome	_	_	SG;N;MASC	_	_	_	_
+21	escludendo	escludere	_	_	V;ACT	_	_	_	_
+22	la	il	_	_	DET;SG;FEM	_	_	_	_
+23	possibilità	possibilità	_	_	N;SG;FEM	_	_	_	_
+24	di	di	_	_	ADP	_	_	_	_
+25	esaminare	esaminare	_	_	V;ACT	_	_	_	_
+26	altre	altro	_	_	PL;DET;FEM	_	_	_	_
+27	alternative	alternativa	_	_	PL;N;FEM	_	_	_	_
+28	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01107124
+# text = Hitchcock preferì lavorare con i migliori professionisti di quel tempo - illustratori di locandine cinematografiche come Bill Gold e Saul Bass -che erano in grado di realizzare locandine che rappresentavano accuratamente i suoi film.
+# text_en = Hitchcock preferred to work with the best talent of his day—film poster designers such as Bill Gold and Saul Bass—who would produce posters that accurately represented his films.
+1	Hitchcock	Hitchcock	_	_	PROPN;SG;MASC	_	_	_	_
+2	preferì	preferire	_	_	PST;3;SG;IND;V;PFV;ACT	_	_	_	_
+3	lavorare	lavorare	_	_	V;ACT	_	_	_	_
+4	con	con	_	_	ADP	_	_	_	_
+5	i	il	_	_	DET;MASC;PL	_	_	_	_
+6	migliori	migliore	_	_	PL;ADJ;MASC;AB	_	_	_	_
+7	professionisti	professionista	_	_	N;MASC;PL	_	_	_	_
+8	di	di	_	_	ADP	_	_	_	_
+9	quel	quello	_	_	DET;SG;MASC	_	_	_	_
+10	tempo	tempo	_	_	SG;N;MASC	_	_	_	_
+11	-	-	_	_	_	_	_	_	_
+12	illustratori	illustratore	_	_	N;MASC;PL	_	_	_	_
+13	di	di	_	_	ADP	_	_	_	_
+14	locandine	locandina	_	_	PL;N;FEM	_	_	_	_
+15	cinematografiche	cinematografico	_	_	PL;ADJ;FEM	_	_	_	_
+16	come	come	_	_	ADP	_	_	_	_
+17	Bill	Bill	_	_	PROPN;SG;MASC	_	_	_	_
+18	Gold	Gold	_	_	PROPN;SG;MASC	_	_	_	_
+19	e	e	_	_	CONJ	_	_	_	_
+20	Saul	Saul	_	_	PROPN;SG;MASC	_	_	_	_
+21	Bass	Bass	_	_	PROPN;SG;MASC	_	_	_	_
+22	-	-	_	_	_	_	_	_	_
+23	che	che	_	_	PRO;MASC;PL	_	_	_	_
+24	erano	essere	_	_	PST;V;3;IND;PL;IPFV;ACT	_	_	_	_
+25	in	in	_	_	ADP	_	_	_	_
+26	grado	grado	_	_	SG;N;MASC	_	_	_	_
+27	di	di	_	_	ADP	_	_	_	_
+28	realizzare	realizzare	_	_	V;ACT	_	_	_	_
+29	locandine	locandina	_	_	PL;N;FEM	_	_	_	_
+30	che	che	_	_	PL;PRO;FEM	_	_	_	_
+31	rappresentavano	rappresentare	_	_	PST;3;IND;PL;IPFV;V;ACT	_	_	_	_
+32	accuratamente	accurato	_	_	ADV	_	_	_	_
+33	i	il	_	_	DET;MASC;PL	_	_	_	_
+34	suoi	suo	_	_	PSSS;PRO;3;MASC;PL	_	_	_	_
+35	film	film	_	_	N;MASC;PL	_	_	_	_
+36	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01007
+# sent_id = w01007004
+# text = Nel luglio del 1918 fu firmato il trattato franco-monegasco, il quale garantiva un livello limitato di protezione da parte della Francia su Montecarlo.
+# text_en = In July 1918, the Franco-Monegasque Treaty was signed, providing for limited French protection over Monaco.
+1	In	in	_	_	ADP	_	_	_	_
+2	il	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+3	luglio	luglio	_	_	SG;N;MASC	_	_	_	_
+4	di	di	_	_	ADP	_	_	_	_
+5	il	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+6	1918	1918	_	_	NUM	_	_	_	_
+7	fu	essere	_	_	PST;PASS;3;SG;IND;V;PFV	_	_	_	_
+8	firmato	firmare	_	_	V;PST;SG;MASC	_	_	_	_
+9	il	il	_	_	DET;SG;MASC	_	_	_	_
+10	trattato	trattato	_	_	SG;N;MASC	_	_	_	_
+11	franco-monegasco	franco-monegasco	_	_	_	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	il	il	_	_	DET;SG;MASC	_	_	_	_
+14	quale	quale	_	_	SG;PRO;MASC	_	_	_	_
+15	garantiva	garantire	_	_	PST;3;SG;IND;IPFV;V;ACT	_	_	_	_
+16	un	uno	_	_	DET;SG;MASC	_	_	_	_
+17	livello	livello	_	_	SG;N;MASC	_	_	_	_
+18	limitato	limitare	_	_	ADJ;SG;MASC	_	_	_	_
+19	di	di	_	_	ADP	_	_	_	_
+20	protezione	protezione	_	_	N;SG;FEM	_	_	_	_
+21	da	da	_	_	ADP	_	_	_	_
+22	parte	parte	_	_	N;SG;FEM	_	_	_	_
+23	della	di	_	_	SG;ADP;FEM	_	_	_	_
+24	Francia	Francia	_	_	PROPN;SG;FEM	_	_	_	_
+25	su	su	_	_	ADP	_	_	_	_
+26	Montecarlo	Montecarlo	_	_	PROPN;SG;FEM	_	_	_	_
+27	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01116035
+# text = Ma avendo permesso a Glenda di esprimersi in una performance eccellente, chi lo può biasimare?
+# text_en = But having allowed Glenda to score such a blinder, who can blame it?
+1	Ma	ma	_	_	CONJ	_	_	_	_
+2	avendo	avere	_	_	V;ACT	_	_	_	_
+3	permesso	permettere	_	_	V;PST	_	_	_	_
+4	a	a	_	_	ADP	_	_	_	_
+5	Glenda	Glenda	_	_	PROPN;SG;FEM	_	_	_	_
+6	di	di	_	_	ADP	_	_	_	_
+7	esprimer	esprimere	_	_	V;ACT	_	_	_	_
+8	si	si	_	_	SG;PRO;3	_	_	_	_
+9	in	in	_	_	ADP	_	_	_	_
+10	una	uno	_	_	DET;SG;FEM	_	_	_	_
+11	performance	performance	_	_	N;SG;FEM	_	_	_	_
+12	eccellente	eccellente	_	_	ADJ;SG;FEM	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	chi	chi	_	_	SG;PRO	_	_	_	_
+15	lo	lo	_	_	ACC;PRO;3;SG;MASC	_	_	_	_
+16	può	potere	_	_	V;3;SG;IND;PRS;ACT	_	_	_	_
+17	biasimare	biasimare	_	_	V;ACT	_	_	_	_
+18	?	?	_	_	_	_	_	_	_
+
+# newdoc id = n01004
+# sent_id = n01004009
+# text = Invece di insegnare il metodo scientifico considerandolo come un'unità a sé stante, per esempio, gli studenti impareranno contenuti relativi alla scienza tramite l'applicazione.
+# text_en = Rather than teaching the scientific method as a separate unit, for example, students learn science content by applying it.
+1	Invece	invece	_	_	ADV	_	_	_	_
+2	di	di	_	_	ADP	_	_	_	_
+3	insegnare	insegnare	_	_	V;ACT	_	_	_	_
+4	il	il	_	_	DET;SG;MASC	_	_	_	_
+5	metodo	metodo	_	_	SG;N;MASC	_	_	_	_
+6	scientifico	scientifico	_	_	ADJ;SG;MASC	_	_	_	_
+7	considerando	considerare	_	_	V;ACT	_	_	_	_
+8	lo	lo	_	_	ACC;PRO;3;SG;MASC	_	_	_	_
+9	come	come	_	_	ADP	_	_	_	_
+10	un'	uno	_	_	DET;SG;FEM	_	_	_	_
+11	unità	unità	_	_	N;SG;FEM	_	_	_	_
+12	a	a	_	_	ADP	_	_	_	_
+13	sé	sé	_	_	SG;N;MASC	_	_	_	_
+14	stante	stante	_	_	V;PRS;SG;ACT	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	per	per	_	_	ADP	_	_	_	_
+17	esempio	esempio	_	_	SG;N;MASC	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	gli	il	_	_	DET;MASC;PL	_	_	_	_
+20	studenti	studente	_	_	N;MASC;PL	_	_	_	_
+21	impareranno	imparare	_	_	3;FUT;IND;PL;V;ACT	_	_	_	_
+22	contenuti	contenuto	_	_	N;MASC;PL	_	_	_	_
+23	relativi	relativo	_	_	ADJ;MASC;PL	_	_	_	_
+24	a	a	_	_	ADP	_	_	_	_
+25	la	il	_	_	DET;SG;DEF;FEM	_	_	_	_
+26	scienza	scienza	_	_	N;SG;FEM	_	_	_	_
+27	tramite	tramite	_	_	ADP	_	_	_	_
+28	l'	il	_	_	DET;SG;FEM	_	_	_	_
+29	applicazione	applicazione	_	_	N;SG;FEM	_	_	_	_
+30	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01085011
+# text = Per quanto possa sembrare sorprendente, persino le nuvole di pioggia acida possono avere un risvolto positivo.
+# text_en = Surprising as it may seem, even acid rain clouds can have a silver lining.
+1	Per	per	_	_	ADP	_	_	_	_
+2	quanto	quanto	_	_	ADV	_	_	_	_
+3	possa	potere	_	_	SBJV;V;3;SG;PRS;ACT	_	_	_	_
+4	sembrare	sembrare	_	_	V;ACT	_	_	_	_
+5	sorprendente	sorprendente	_	_	ADJ;SG	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	persino	persino	_	_	ADV	_	_	_	_
+8	le	il	_	_	PL;DET;FEM	_	_	_	_
+9	nuvole	nuvola	_	_	PL;N;FEM	_	_	_	_
+10	di	di	_	_	ADP	_	_	_	_
+11	pioggia	pioggia	_	_	N;SG;FEM	_	_	_	_
+12	acida	acido	_	_	ADJ;SG;FEM	_	_	_	_
+13	possono	potere	_	_	V;3;IND;PL;PRS;ACT	_	_	_	_
+14	avere	avere	_	_	V;ACT	_	_	_	_
+15	un	uno	_	_	DET;SG;MASC	_	_	_	_
+16	risvolto	risvolto	_	_	SG;N;MASC	_	_	_	_
+17	positivo	positivo	_	_	ADJ;SG;MASC	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01105023
+# text = Mi chiedo anche se la Coppa Davis abbia svolto un ruolo.
+# text_en = I also wonder whether the Davis Cup played a part.
+1	Mi	mi	_	_	1;SG;PRO	_	_	_	_
+2	chiedo	chiedere	_	_	1;SG;IND;V;PRS;ACT	_	_	_	_
+3	anche	anche	_	_	ADV	_	_	_	_
+4	se	se	_	_	ADP	_	_	_	_
+5	la	il	_	_	DET;SG;FEM	_	_	_	_
+6	Coppa	Coppa	_	_	PROPN;SG;FEM	_	_	_	_
+7	Davis	Davis	_	_	PROPN;SG;FEM	_	_	_	_
+8	abbia	avere	_	_	SBJV;V;3;SG;PRS;ACT	_	_	_	_
+9	svolto	svolgere	_	_	V;PST	_	_	_	_
+10	un	uno	_	_	DET;SG;MASC	_	_	_	_
+11	ruolo	ruolo	_	_	SG;N;MASC	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = w03005016
+# text = Le città stato cominciarono ad apparire intorno all'VIII secolo a.C: piccoli territori autogovernati con il loro proprio sistema politico.
+# text_en = From about the 8th century BC city states began to appear: small, self-governing territories with their own political systems.
+1	Le	il	_	_	PL;DET;FEM	_	_	_	_
+2	città	città	_	_	PL;N;FEM	_	_	_	_
+3	stato	stato	_	_	SG;N;MASC	_	_	_	_
+4	cominciarono	cominciare	_	_	3;IND;PL;V;PRS;PFV;ACT	_	_	_	_
+5	ad	ad	_	_	ADP	_	_	_	_
+6	apparire	apparire	_	_	V;ACT	_	_	_	_
+7	intorno	intorno	_	_	ADV	_	_	_	_
+8	all'	a	_	_	SG;ADP;MASC	_	_	_	_
+9	VIII	VIII	_	_	ADJ;SG;MASC	_	_	_	_
+10	secolo	secolo	_	_	SG;N;MASC	_	_	_	_
+11	a.C	a.C	_	_	_	_	_	_	_
+12	:	:	_	_	_	_	_	_	_
+13	piccoli	piccolo	_	_	ADJ;MASC;PL	_	_	_	_
+14	territori	territorio	_	_	N;MASC;PL	_	_	_	_
+15	autogovernati	autogovernati	_	_	ADJ;MASC;PL	_	_	_	_
+16	con	con	_	_	ADP	_	_	_	_
+17	il	il	_	_	DET;SG;MASC	_	_	_	_
+18	loro	loro	_	_	PSSP;PRO;3;SG;MASC	_	_	_	_
+19	proprio	proprio	_	_	PSSP;PRO;3;SG;MASC	_	_	_	_
+20	sistema	sistema	_	_	SG;N;MASC	_	_	_	_
+21	politico	politico	_	_	ADJ;SG;MASC	_	_	_	_
+22	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01043014
+# text = Il suo bilancio annuale è superiore a 1,4 miliardi di dollari e occupa oltre 6.000 persone.
+# text_en = Its annual budget is more than $1.4 billion, and it employs more than 6,000 people.
+1	Il	il	_	_	DET;SG;MASC	_	_	_	_
+2	suo	suo	_	_	PSSS;PRO;3;SG;MASC	_	_	_	_
+3	bilancio	bilancio	_	_	SG;N;MASC	_	_	_	_
+4	annuale	annuale	_	_	ADJ;SG;MASC	_	_	_	_
+5	è	essere	_	_	V;3;SG;IND;PRS;ACT	_	_	_	_
+6	superiore	superiore	_	_	ADJ;SG;MASC	_	_	_	_
+7	a	a	_	_	ADP	_	_	_	_
+8	1,4	1,4	_	_	NUM	_	_	_	_
+9	miliardi	miliardo	_	_	NUM	_	_	_	_
+10	di	di	_	_	ADP	_	_	_	_
+11	dollari	dollaro	_	_	N;MASC;PL	_	_	_	_
+12	e	e	_	_	CONJ	_	_	_	_
+13	occupa	occupare	_	_	3;SG;IND;V;PRS;ACT	_	_	_	_
+14	oltre	oltre	_	_	ADV	_	_	_	_
+15	6.000	6.000	_	_	NUM	_	_	_	_
+16	persone	persona	_	_	PL;N;FEM	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01070017
+# text = Vega ha commentato che, a causa della loro età, molti sono ignari della sua storia.
+# text_en = Vega suggested that, because of their age, many would be unaware of its history.
+1	Vega	Vega	_	_	PROPN;SG;FEM	_	_	_	_
+2	ha	avere	_	_	V;3;SG;IND;PRS;ACT	_	_	_	_
+3	commentato	commentare	_	_	V;PST	_	_	_	_
+4	che	che	_	_	CONJ	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	a	a	_	_	ADP	_	_	_	_
+7	causa	causa	_	_	N;SG;FEM	_	_	_	_
+8	di	di	_	_	ADP	_	_	_	_
+9	la	il	_	_	DET;SG;DEF;FEM	_	_	_	_
+10	loro	loro	_	_	PSSP;PRO;3;SG;FEM	_	_	_	_
+11	età	età	_	_	N;SG;FEM	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	molti	molto	_	_	DET;MASC;PL	_	_	_	_
+14	sono	essere	_	_	V;3;IND;PL;PRS;ACT	_	_	_	_
+15	ignari	ignaro	_	_	ADJ;MASC;PL	_	_	_	_
+16	di	di	_	_	ADP	_	_	_	_
+17	la	il	_	_	DET;SG;DEF;FEM	_	_	_	_
+18	sua	suo	_	_	PSSS;PRO;3;SG;FEM	_	_	_	_
+19	storia	storia	_	_	N;SG;FEM	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# sent_id = w02008065
+# text = Inoltre, il suo processo di doratura del rame è tecnologicamente degno di nota.
+# text_en = In addition, its process of gilding copper is technologically noteworthy.
+1	Inoltre	inoltre	_	_	ADV	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	il	il	_	_	DET;SG;MASC	_	_	_	_
+4	suo	suo	_	_	PSSS;PRO;3;SG;MASC	_	_	_	_
+5	processo	processo	_	_	SG;N;MASC	_	_	_	_
+6	di	di	_	_	ADP	_	_	_	_
+7	doratura	doratura	_	_	N;SG;FEM	_	_	_	_
+8	di	di	_	_	ADP	_	_	_	_
+9	il	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+10	rame	rame	_	_	SG;N;MASC	_	_	_	_
+11	è	essere	_	_	V;3;SG;IND;PRS;ACT	_	_	_	_
+12	tecnologicamente	tecnologico	_	_	ADV	_	_	_	_
+13	degno	degno	_	_	ADJ;SG;MASC	_	_	_	_
+14	di	di	_	_	ADP	_	_	_	_
+15	nota	nota	_	_	N;SG;FEM	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01005
+# sent_id = n01005023
+# text = In confronto, il costo di costruzione della stazione della metro NoMa, aperta nel 2004 su un tracciato già utilizzato da altre linee, è di 103,7 milioni di dollari.
+# text_en = By comparison, it cost $103.7 million to build the NoMa infill Metro station, which opened in 2004.
+1	In	in	_	_	ADP	_	_	_	_
+2	confronto	confronto	_	_	SG;N;MASC	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	il	il	_	_	DET;SG;MASC	_	_	_	_
+5	costo	costo	_	_	SG;N;MASC	_	_	_	_
+6	di	di	_	_	ADP	_	_	_	_
+7	costruzione	costruzione	_	_	N;SG;FEM	_	_	_	_
+8	di	di	_	_	ADP	_	_	_	_
+9	la	il	_	_	DET;SG;DEF;FEM	_	_	_	_
+10	stazione	stazione	_	_	N;SG;FEM	_	_	_	_
+11	di	di	_	_	ADP	_	_	_	_
+12	la	il	_	_	DET;SG;DEF;FEM	_	_	_	_
+13	metro	metro	_	_	N;SG;FEM	_	_	_	_
+14	NoMa	NoMa	_	_	PROPN;SG;FEM	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	aperta	aprire	_	_	PST;PASS;SG;FEM;V	_	_	_	_
+17	in	in	_	_	ADP	_	_	_	_
+18	il	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+19	2004	2004	_	_	NUM	_	_	_	_
+20	su	su	_	_	ADP	_	_	_	_
+21	un	uno	_	_	DET;SG;MASC	_	_	_	_
+22	tracciato	tracciato	_	_	SG;N;MASC	_	_	_	_
+23	già	già	_	_	ADV	_	_	_	_
+24	utilizzato	utilizzare	_	_	PST;PASS;SG;MASC;V	_	_	_	_
+25	da	da	_	_	ADP	_	_	_	_
+26	altre	altro	_	_	PL;DET;FEM	_	_	_	_
+27	linee	linea	_	_	PL;N;FEM	_	_	_	_
+28	,	,	_	_	_	_	_	_	_
+29	è	essere	_	_	V;3;SG;IND;PRS;ACT	_	_	_	_
+30	di	di	_	_	ADP	_	_	_	_
+31	103,7	103,7	_	_	NUM	_	_	_	_
+32	milioni	milione	_	_	NUM	_	_	_	_
+33	di	di	_	_	ADP	_	_	_	_
+34	dollari	dollaro	_	_	N;MASC;PL	_	_	_	_
+35	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01143
+# sent_id = w01143015
+# text = Non molto tempo fa l'attrice Gloria Holden divorziò da lui, ma egli continuò ad amarla anche dopo la rottura coniugale.
+# text_en = Not long ago he was divorced from the actress, Gloria Holden, but carried the torch after the marital rift.
+1	Non	non	_	_	ADV;NEG	_	_	_	_
+2	molto	molto	_	_	DET;SG;MASC	_	_	_	_
+3	tempo	tempo	_	_	SG;N;MASC	_	_	_	_
+4	fa	fare	_	_	ADV	_	_	_	_
+5	l'	il	_	_	DET;SG;FEM	_	_	_	_
+6	attrice	attore	_	_	N;SG;FEM	_	_	_	_
+7	Gloria	Gloria	_	_	PROPN;SG;FEM	_	_	_	_
+8	Holden	Holden	_	_	PROPN;SG;FEM	_	_	_	_
+9	divorziò	divorziare	_	_	PST;3;SG;IND;V;PFV;ACT	_	_	_	_
+10	da	da	_	_	ADP	_	_	_	_
+11	lui	lui	_	_	ACC;PRO;3;SG;MASC	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	ma	ma	_	_	CONJ	_	_	_	_
+14	egli	egli	_	_	PRO;3;SG;MASC;NOM	_	_	_	_
+15	continuò	continuare	_	_	PST;3;SG;IND;V;PFV;ACT	_	_	_	_
+16	ad	ad	_	_	ADP	_	_	_	_
+17	amar	amare	_	_	V;ACT	_	_	_	_
+18	la	la	_	_	ACC;PRO;3;SG;FEM	_	_	_	_
+19	anche	anche	_	_	ADV	_	_	_	_
+20	dopo	dopo	_	_	ADP	_	_	_	_
+21	la	il	_	_	DET;SG;FEM	_	_	_	_
+22	rottura	rottura	_	_	N;SG;FEM	_	_	_	_
+23	coniugale	coniugale	_	_	ADJ;SG;FEM	_	_	_	_
+24	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01018040
+# text = Si tratta di una strategia basata su sponsor e pubblicità a fini di guadagno.
+# text_en = The scheme makes money through sponsorship and advertising.
+1	Si	si	_	_	SG;PRO;3	_	_	_	_
+2	tratta	trattare	_	_	3;SG;IND;V;PRS;ACT	_	_	_	_
+3	di	di	_	_	ADP	_	_	_	_
+4	una	uno	_	_	DET;SG;FEM	_	_	_	_
+5	strategia	strategia	_	_	N;SG;FEM	_	_	_	_
+6	basata	basare	_	_	PST;SG;FEM;V;ACT	_	_	_	_
+7	su	su	_	_	ADP	_	_	_	_
+8	sponsor	sponsor	_	_	N;MASC;PL	_	_	_	_
+9	e	e	_	_	CONJ	_	_	_	_
+10	pubblicità	pubblicità	_	_	PL;N;FEM	_	_	_	_
+11	a	a	_	_	ADP	_	_	_	_
+12	fini	fini	_	_	N;MASC;PL	_	_	_	_
+13	di	di	_	_	ADP	_	_	_	_
+14	guadagno	guadagno	_	_	SG;N;MASC	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01069094
+# text = La lotta contro l'Impero Ottomano nel Mar Mediterraneo mise dei limiti considerevoli al potere militare che avrebbe potuto sfruttare nella lotta contro i ribelli nei Paesi Bassi.
+# text_en = Its struggle against the Ottoman Empire in the Mediterranean Sea put serious limits on the military power it could deploy against the rebels in the Netherlands.
+1	La	il	_	_	DET;SG;FEM	_	_	_	_
+2	lotta	lotta	_	_	N;SG;FEM	_	_	_	_
+3	contro	contro	_	_	ADP	_	_	_	_
+4	l'	il	_	_	DET;SG;MASC	_	_	_	_
+5	Impero	Impero	_	_	PROPN;SG;MASC	_	_	_	_
+6	Ottomano	Ottomano	_	_	ADJ;SG;MASC	_	_	_	_
+7	in	in	_	_	ADP	_	_	_	_
+8	il	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+9	Mar	Mar	_	_	PROPN;SG;MASC	_	_	_	_
+10	Mediterraneo	Mediterraneo	_	_	PROPN;SG;MASC	_	_	_	_
+11	mise	mettere	_	_	PST;3;SG;IND;V;PFV;ACT	_	_	_	_
+12	dei	di	_	_	DET;MASC;PL	_	_	_	_
+13	limiti	limite	_	_	N;MASC;PL	_	_	_	_
+14	considerevoli	considerevole	_	_	ADJ;MASC;PL	_	_	_	_
+15	a	a	_	_	ADP	_	_	_	_
+16	il	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+17	potere	potere	_	_	SG;N;MASC	_	_	_	_
+18	militare	militare	_	_	ADJ;SG;MASC	_	_	_	_
+19	che	che	_	_	SG;PRO;MASC	_	_	_	_
+20	avrebbe	avere	_	_	V;3;SG;COND;PRS;ACT	_	_	_	_
+21	potuto	potere	_	_	PST;V	_	_	_	_
+22	sfruttare	sfruttare	_	_	V;ACT	_	_	_	_
+23	in	in	_	_	ADP	_	_	_	_
+24	la	il	_	_	DET;SG;DEF;FEM	_	_	_	_
+25	lotta	lotta	_	_	N;SG;FEM	_	_	_	_
+26	contro	contro	_	_	ADP	_	_	_	_
+27	i	il	_	_	DET;MASC;PL	_	_	_	_
+28	ribelli	ribelle	_	_	N;MASC;PL	_	_	_	_
+29	in	in	_	_	ADP	_	_	_	_
+30	i	il	_	_	DET;MASC;DEF;PL	_	_	_	_
+31	Paesi	Paesi	_	_	PROPN;MASC;PL	_	_	_	_
+32	Bassi	Bassi	_	_	PROPN;MASC;PL	_	_	_	_
+33	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w03008
+# sent_id = w03008011
+# text = Questa relazione può essere considerata come punto di inizio per la sua carriera di rivoluzionario radicale.
+# text_en = This affair can be seen as the starting point for his career as a radical revolutionary.
+1	Questa	questo	_	_	DET;SG;FEM	_	_	_	_
+2	relazione	relazione	_	_	N;SG;FEM	_	_	_	_
+3	può	potere	_	_	V;3;SG;IND;PRS;ACT	_	_	_	_
+4	essere	essere	_	_	V;PASS	_	_	_	_
+5	considerata	considerare	_	_	V;PST;SG;FEM	_	_	_	_
+6	come	come	_	_	ADP	_	_	_	_
+7	punto	punto	_	_	SG;N;MASC	_	_	_	_
+8	di	di	_	_	ADP	_	_	_	_
+9	inizio	inizio	_	_	SG;N;MASC	_	_	_	_
+10	per	per	_	_	ADP	_	_	_	_
+11	la	il	_	_	DET;SG;FEM	_	_	_	_
+12	sua	suo	_	_	PSSS;PRO;3;SG;FEM	_	_	_	_
+13	carriera	carriera	_	_	N;SG;FEM	_	_	_	_
+14	di	di	_	_	ADP	_	_	_	_
+15	rivoluzionario	rivoluzionario	_	_	SG;N;MASC	_	_	_	_
+16	radicale	radicale	_	_	ADJ;SG;MASC	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01095009
+# text = Non lo definisco una bestia con leggerezza.
+# text_en = I don’t call it a beast lightly.
+1	Non	non	_	_	ADV;NEG	_	_	_	_
+2	lo	lo	_	_	ACC;PRO;3;SG;MASC	_	_	_	_
+3	definisco	definire	_	_	1;SG;IND;V;PRS;ACT	_	_	_	_
+4	una	uno	_	_	DET;SG;FEM	_	_	_	_
+5	bestia	bestia	_	_	N;SG;FEM	_	_	_	_
+6	con	con	_	_	ADP	_	_	_	_
+7	leggerezza	leggerezza	_	_	N;SG;FEM	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n04006
+# sent_id = n04006003
+# text = Dal primo gennaio aumenteranno benzina e gasolio.
+# text_en = From the 1st of January there will be an increase in petrol and diesel.
+1	Da	da	_	_	ADP	_	_	_	_
+2	il	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+3	primo	primo	_	_	NUM	_	_	_	_
+4	gennaio	gennaio	_	_	SG;N;MASC	_	_	_	_
+5	aumenteranno	aumentare	_	_	3;FUT;IND;PL;V;ACT	_	_	_	_
+6	benzina	benzina	_	_	N;SG;FEM	_	_	_	_
+7	e	e	_	_	CONJ	_	_	_	_
+8	gasolio	gasolio	_	_	SG;N;MASC	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01011
+# sent_id = n01011004
+# text = È stata anche accusata del tentato omicidio della figlia di due anni.
+# text_en = She has also been charged with trying to kill her two-year-old daughter.
+1	È	essere	_	_	PASS;3;SG;IND;V;PRS	_	_	_	_
+2	stata	essere	_	_	V;PST;SG;FEM	_	_	_	_
+3	anche	anche	_	_	ADV	_	_	_	_
+4	accusata	accusare	_	_	V;PST;SG;FEM	_	_	_	_
+5	di	di	_	_	ADP	_	_	_	_
+6	il	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+7	tentato	tentare	_	_	ADJ;SG;MASC	_	_	_	_
+8	omicidio	omicidio	_	_	SG;N;MASC	_	_	_	_
+9	di	di	_	_	ADP	_	_	_	_
+10	la	il	_	_	DET;SG;DEF;FEM	_	_	_	_
+11	figlia	figlio	_	_	N;SG;FEM	_	_	_	_
+12	di	di	_	_	ADP	_	_	_	_
+13	due	due	_	_	NUM	_	_	_	_
+14	anni	anno	_	_	N;MASC;PL	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01062
+# sent_id = w01062037
+# text = Presumibilmente, Tiberio si pentì della sua partenza e richiese di tornare a Roma molte volte, ma Augusto rifiutò le sue richieste ogni volta.
+# text_en = Tiberius reportedly regretted his departure and requested to return to Rome several times, but each time Augustus refused his requests.
+1	Presumibilmente	presumibilmente	_	_	ADV	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	Tiberio	Tiberio	_	_	PROPN;SG;MASC	_	_	_	_
+4	si	si	_	_	SG;PRO;3	_	_	_	_
+5	pentì	pentire	_	_	PST;3;SG;IND;V;PFV;ACT	_	_	_	_
+6	di	di	_	_	ADP	_	_	_	_
+7	la	il	_	_	DET;SG;DEF;FEM	_	_	_	_
+8	sua	suo	_	_	PSSS;PRO;3;SG;FEM	_	_	_	_
+9	partenza	partenza	_	_	N;SG;FEM	_	_	_	_
+10	e	e	_	_	CONJ	_	_	_	_
+11	richiese	richiedere	_	_	PST;3;SG;IND;V;PFV;ACT	_	_	_	_
+12	di	di	_	_	ADP	_	_	_	_
+13	tornare	tornare	_	_	V;ACT	_	_	_	_
+14	a	a	_	_	ADP	_	_	_	_
+15	Roma	Roma	_	_	PROPN;SG;FEM	_	_	_	_
+16	molte	molto	_	_	PL;DET;FEM	_	_	_	_
+17	volte	volta	_	_	PL;N;FEM	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	ma	ma	_	_	CONJ	_	_	_	_
+20	Augusto	Augusto	_	_	PROPN;SG;MASC	_	_	_	_
+21	rifiutò	rifiutare	_	_	PST;3;SG;IND;V;PFV;ACT	_	_	_	_
+22	le	il	_	_	PL;DET;FEM	_	_	_	_
+23	sue	suo	_	_	PSSS;PRO;3;PL;FEM	_	_	_	_
+24	richieste	richiesta	_	_	PL;N;FEM	_	_	_	_
+25	ogni	ogni	_	_	DET;SG;FEM	_	_	_	_
+26	volta	volta	_	_	N;SG;FEM	_	_	_	_
+27	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n02007
+# sent_id = n02007010
+# text = Con 71 goal in 137 partite internazionali, ha segnato un numero record di reti nella Bundesliga.
+# text_en = With 71 goals in 137 international matches, he has shot a record number of goals for the DFB.
+1	Con	con	_	_	ADP	_	_	_	_
+2	71	71	_	_	NUM	_	_	_	_
+3	goal	goal	_	_	N;MASC;PL	_	_	_	_
+4	in	in	_	_	ADP	_	_	_	_
+5	137	137	_	_	NUM	_	_	_	_
+6	partite	partita	_	_	PL;N;FEM	_	_	_	_
+7	internazionali	internazionale	_	_	PL;ADJ;FEM	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	ha	avere	_	_	V;3;SG;IND;PRS;ACT	_	_	_	_
+10	segnato	segnare	_	_	V;PST	_	_	_	_
+11	un	uno	_	_	DET;SG;MASC	_	_	_	_
+12	numero	numero	_	_	SG;N;MASC	_	_	_	_
+13	record	record	_	_	ADJ;SG;MASC	_	_	_	_
+14	di	di	_	_	ADP	_	_	_	_
+15	reti	rete	_	_	PL;N;FEM	_	_	_	_
+16	in	in	_	_	ADP	_	_	_	_
+17	la	il	_	_	DET;SG;DEF;FEM	_	_	_	_
+18	Bundesliga	Bundesliga	_	_	PROPN;SG;FEM	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01138017
+# text = Norman è uno dei miei cari amici, quindi mi ha seccato parecchio vederlo in quello stato emotivo.
+# text_en = "Norman is one of my good buddies, so it totally sucked to see him in that emotional state."
+1	Norman	Norman	_	_	PROPN;SG;MASC	_	_	_	_
+2	è	essere	_	_	V;3;SG;IND;PRS;ACT	_	_	_	_
+3	uno	uno	_	_	NUM;MASC	_	_	_	_
+4	di	di	_	_	ADP	_	_	_	_
+5	i	il	_	_	DET;MASC;DEF;PL	_	_	_	_
+6	miei	mio	_	_	PSSS;PRO;1;MASC;PL	_	_	_	_
+7	cari	caro	_	_	ADJ;MASC;PL	_	_	_	_
+8	amici	amico	_	_	N;MASC;PL	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	quindi	quindi	_	_	ADV	_	_	_	_
+11	mi	mi	_	_	1;ACC;SG;PRO	_	_	_	_
+12	ha	avere	_	_	V;3;SG;IND;PRS;ACT	_	_	_	_
+13	seccato	seccare	_	_	V;PST	_	_	_	_
+14	parecchio	parecchio	_	_	ADV	_	_	_	_
+15	veder	vedere	_	_	V;ACT	_	_	_	_
+16	lo	lo	_	_	ACC;PRO;3;SG;MASC	_	_	_	_
+17	in	in	_	_	ADP	_	_	_	_
+18	quello	quello	_	_	DET;SG;MASC	_	_	_	_
+19	stato	stato	_	_	SG;N;MASC	_	_	_	_
+20	emotivo	emotivo	_	_	ADJ;SG;MASC	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01146
+# sent_id = w01146051
+# text = Bloch vuole instaurare la speranza come principio guida del suo marxismo e sottolinea l'implicito umanismo intrinseco alla tradizione mistica.
+# text_en = Bloch is concerned to establish hope as the guiding principle of his Marxism and stresses the implied humanism inherent in mystical tradition.
+1	Bloch	Bloch	_	_	PROPN;SG;MASC	_	_	_	_
+2	vuole	volere	_	_	3;SG;IND;V;PRS;ACT	_	_	_	_
+3	instaurare	instaurare	_	_	V;ACT	_	_	_	_
+4	la	il	_	_	DET;SG;FEM	_	_	_	_
+5	speranza	speranza	_	_	N;SG;FEM	_	_	_	_
+6	come	come	_	_	ADP	_	_	_	_
+7	principio	principio	_	_	SG;N;MASC	_	_	_	_
+8	guida	guida	_	_	N;SG;FEM	_	_	_	_
+9	di	di	_	_	ADP	_	_	_	_
+10	il	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+11	suo	suo	_	_	PSSS;PRO;3;SG;MASC	_	_	_	_
+12	marxismo	marxismo	_	_	SG;N;MASC	_	_	_	_
+13	e	e	_	_	CONJ	_	_	_	_
+14	sottolinea	sottolineare	_	_	3;SG;IND;V;PRS;ACT	_	_	_	_
+15	l'	il	_	_	DET;SG;MASC	_	_	_	_
+16	implicito	implicito	_	_	ADJ;SG;MASC	_	_	_	_
+17	umanismo	umanismo	_	_	SG;N;MASC	_	_	_	_
+18	intrinseco	intrinseco	_	_	ADJ;SG;MASC	_	_	_	_
+19	a	a	_	_	ADP	_	_	_	_
+20	la	il	_	_	DET;SG;DEF;FEM	_	_	_	_
+21	tradizione	tradizione	_	_	N;SG;FEM	_	_	_	_
+22	mistica	mistico	_	_	ADJ;SG;FEM	_	_	_	_
+23	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01073
+# sent_id = n01073004
+# text = Chi è in grado di fermare questa squadra australiana?
+# text_en = Who can stop this Australia side?
+1	Chi	chi	_	_	SG;PRO	_	_	_	_
+2	è	essere	_	_	V;3;SG;IND;PRS;ACT	_	_	_	_
+3	in	in	_	_	ADP	_	_	_	_
+4	grado	grado	_	_	SG;N;MASC	_	_	_	_
+5	di	di	_	_	ADP	_	_	_	_
+6	fermare	fermare	_	_	V;ACT	_	_	_	_
+7	questa	questo	_	_	DET;SG;FEM	_	_	_	_
+8	squadra	squadra	_	_	N;SG;FEM	_	_	_	_
+9	australiana	australiano	_	_	ADJ;SG;FEM	_	_	_	_
+10	?	?	_	_	_	_	_	_	_
+
+# newdoc id = n01093
+# sent_id = n01093007
+# text = "Il merluzzo del Mar Celtico potrebbe esaurirsi", in assenza dei limiti proposti, ha detto un funzionario della UE.
+# text_en = “Celtic Sea cod could collapse,” without the proposed limits, one EU official said.
+1	"	"	_	_	_	_	_	_	_
+2	Il	Il	_	_	DET;SG;MASC	_	_	_	_
+3	merluzzo	merluzzo	_	_	SG;N;MASC	_	_	_	_
+4	di	di	_	_	ADP	_	_	_	_
+5	il	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+6	Mar	Mar	_	_	PROPN;SG;MASC	_	_	_	_
+7	Celtico	Celtico	_	_	PROPN;SG;MASC	_	_	_	_
+8	potrebbe	potere	_	_	V;3;SG;COND;PRS;ACT	_	_	_	_
+9	esaurir	esaurire	_	_	V;ACT	_	_	_	_
+10	si	si	_	_	SG;PRO;3	_	_	_	_
+11	"	"	_	_	_	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	in	in	_	_	ADP	_	_	_	_
+14	assenza	assenza	_	_	N;SG;FEM	_	_	_	_
+15	di	di	_	_	ADP	_	_	_	_
+16	i	il	_	_	DET;MASC;DEF;PL	_	_	_	_
+17	limiti	limite	_	_	N;MASC;PL	_	_	_	_
+18	proposti	proporre	_	_	PASS;PST;MASC;PL;V	_	_	_	_
+19	,	,	_	_	_	_	_	_	_
+20	ha	avere	_	_	V;3;SG;IND;PRS;ACT	_	_	_	_
+21	detto	dire	_	_	V;PST	_	_	_	_
+22	un	uno	_	_	DET;SG;MASC	_	_	_	_
+23	funzionario	funzionario	_	_	SG;N;MASC	_	_	_	_
+24	di	di	_	_	ADP	_	_	_	_
+25	la	il	_	_	DET;SG;DEF;FEM	_	_	_	_
+26	UE	UE	_	_	PROPN;SG;FEM	_	_	_	_
+27	.	.	_	_	_	_	_	_	_
+
+# sent_id = w03010098
+# text = Nella primavera del 1948, nella speranza di adattare Tintin per il cinema, l'artista belga scrisse una lettera a Walt Disney chiedendo invano il suo supporto.
+# text_en = In spring 1948, in hopes of adapting Tintin for the cinema, the Belgian artist wrote a letter to Walt Disney, asking in vain for his support.
+1	In	in	_	_	ADP	_	_	_	_
+2	la	il	_	_	DET;SG;DEF;FEM	_	_	_	_
+3	primavera	primavera	_	_	N;SG;FEM	_	_	_	_
+4	di	di	_	_	ADP	_	_	_	_
+5	il	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+6	1948	1948	_	_	NUM	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	in	in	_	_	ADP	_	_	_	_
+9	la	il	_	_	DET;SG;DEF;FEM	_	_	_	_
+10	speranza	speranza	_	_	N;SG;FEM	_	_	_	_
+11	di	di	_	_	ADP	_	_	_	_
+12	adattare	adattare	_	_	V;ACT	_	_	_	_
+13	Tintin	Tintin	_	_	PROPN;SG;MASC	_	_	_	_
+14	per	per	_	_	ADP	_	_	_	_
+15	il	il	_	_	DET;SG;MASC	_	_	_	_
+16	cinema	cinema	_	_	SG;N;MASC	_	_	_	_
+17	,	,	_	_	_	_	_	_	_
+18	l'	il	_	_	DET;SG;MASC	_	_	_	_
+19	artista	artista	_	_	SG;N;MASC	_	_	_	_
+20	belga	belga	_	_	ADJ;SG;MASC	_	_	_	_
+21	scrisse	scrivere	_	_	PST;3;SG;IND;V;PFV;ACT	_	_	_	_
+22	una	uno	_	_	DET;SG;FEM	_	_	_	_
+23	lettera	lettera	_	_	N;SG;FEM	_	_	_	_
+24	a	a	_	_	ADP	_	_	_	_
+25	Walt	Walt	_	_	PROPN;SG;MASC	_	_	_	_
+26	Disney	Disney	_	_	PROPN;SG;MASC	_	_	_	_
+27	chiedendo	chiedere	_	_	V;ACT	_	_	_	_
+28	invano	invano	_	_	ADV	_	_	_	_
+29	il	il	_	_	DET;SG;MASC	_	_	_	_
+30	suo	suo	_	_	PSSS;PRO;3;SG;MASC	_	_	_	_
+31	supporto	supporto	_	_	SG;N;MASC	_	_	_	_
+32	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01039039
+# text = La moglie di Trump, Melania Trump, ha fatto la sua prima apparizione in campagna elettorale dalla convention repubblicana a luglio.
+# text_en = Trump's wife, Melania Trump, made her first appearance on the trail since the Republican convention in July.
+1	La	il	_	_	DET;SG;FEM	_	_	_	_
+2	moglie	moglie	_	_	N;SG;FEM	_	_	_	_
+3	di	di	_	_	ADP	_	_	_	_
+4	Trump	Trump	_	_	PROPN;SG;MASC	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	Melania	Melania	_	_	PROPN;SG;FEM	_	_	_	_
+7	Trump	Trump	_	_	PROPN;SG;FEM	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	ha	avere	_	_	V;3;SG;IND;PRS;ACT	_	_	_	_
+10	fatto	fare	_	_	V;PST	_	_	_	_
+11	la	il	_	_	DET;SG;FEM	_	_	_	_
+12	sua	suo	_	_	PSSS;PRO;3;SG;FEM	_	_	_	_
+13	prima	primo	_	_	ADJ;SG;FEM	_	_	_	_
+14	apparizione	apparizione	_	_	N;SG;FEM	_	_	_	_
+15	in	in	_	_	ADP	_	_	_	_
+16	campagna	campagna	_	_	N;SG;FEM	_	_	_	_
+17	elettorale	elettorale	_	_	ADJ;SG;FEM	_	_	_	_
+18	da	da	_	_	ADP	_	_	_	_
+19	la	il	_	_	DET;SG;DEF;FEM	_	_	_	_
+20	convention	convention	_	_	N;SG;FEM	_	_	_	_
+21	repubblicana	repubblicano	_	_	ADJ;SG;FEM	_	_	_	_
+22	a	a	_	_	ADP	_	_	_	_
+23	luglio	luglio	_	_	SG;N;MASC	_	_	_	_
+24	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01101007
+# text = La promessa solenne prevede che i legislatori giurino fedeltà a Hong Kong come parte della Repubblica Popolare Cinese.
+# text_en = The oath involves lawmakers swearing allegiance to Hong Kong as part of the People’s Republic of China.
+1	La	il	_	_	DET;SG;FEM	_	_	_	_
+2	promessa	promessa	_	_	N;SG;FEM	_	_	_	_
+3	solenne	solenne	_	_	ADJ;SG;FEM	_	_	_	_
+4	prevede	prevedere	_	_	3;SG;IND;V;PRS;ACT	_	_	_	_
+5	che	che	_	_	CONJ	_	_	_	_
+6	i	il	_	_	DET;MASC;PL	_	_	_	_
+7	legislatori	legislatore	_	_	N;MASC;PL	_	_	_	_
+8	giurino	giurare	_	_	SBJV;3;PL;V;PRS;ACT	_	_	_	_
+9	fedeltà	fedeltà	_	_	N;SG;FEM	_	_	_	_
+10	a	a	_	_	ADP	_	_	_	_
+11	Hong	Hong	_	_	PROPN;SG;FEM	_	_	_	_
+12	Kong	Kong	_	_	PROPN;SG;FEM	_	_	_	_
+13	come	come	_	_	ADP	_	_	_	_
+14	parte	parte	_	_	N;SG;FEM	_	_	_	_
+15	di	di	_	_	ADP	_	_	_	_
+16	la	il	_	_	DET;SG;DEF;FEM	_	_	_	_
+17	Repubblica	Repubblica	_	_	PROPN;SG;FEM	_	_	_	_
+18	Popolare	Popolare	_	_	PROPN;SG;FEM	_	_	_	_
+19	Cinese	Cinese	_	_	PROPN;SG;FEM	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# sent_id = w02003070
+# text = I cittadini islamici che si sono stabiliti fin dagli inizi degli anni '60, emigrarono prevalentemente dalla Turchia.
+# text_en = The Islamic citizens who have settled since the beginning of the 1960s emigrated primarily from Turkey.
+1	I	il	_	_	DET;MASC;PL	_	_	_	_
+2	cittadini	cittadino	_	_	N;MASC;PL	_	_	_	_
+3	islamici	islamico	_	_	ADJ;MASC;PL	_	_	_	_
+4	che	che	_	_	PRO;MASC;PL	_	_	_	_
+5	si	si	_	_	PRO;3;PL	_	_	_	_
+6	sono	essere	_	_	V;3;IND;PL;PRS;ACT	_	_	_	_
+7	stabiliti	stabilire	_	_	V;PST;MASC;PL	_	_	_	_
+8	fin	fino	_	_	ADV	_	_	_	_
+9	dagli	da	_	_	ADP;MASC;PL	_	_	_	_
+10	inizi	iniziare	_	_	N;MASC;PL	_	_	_	_
+11	di	di	_	_	ADP	_	_	_	_
+12	gli	il	_	_	DET;MASC;DEF;PL	_	_	_	_
+13	anni	anno	_	_	N;MASC;PL	_	_	_	_
+14	'60	'60	_	_	NUM	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	emigrarono	emigrare	_	_	PST;3;IND;PL;V;PFV;ACT	_	_	_	_
+17	prevalentemente	prevalentemente	_	_	ADV	_	_	_	_
+18	da	da	_	_	ADP	_	_	_	_
+19	la	il	_	_	DET;SG;DEF;FEM	_	_	_	_
+20	Turchia	Turchia	_	_	PROPN;SG;FEM	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n02017
+# sent_id = n02017008
+# text = La foto mostra chiaramente la sottile barra touch sopra la tastiera, come anticipato dai rumor.
+# text_en = The photo clearly shows the narrow touch display bar above the keyboard that has been anticipated in rumors.
+1	La	il	_	_	DET;SG;FEM	_	_	_	_
+2	foto	foto	_	_	N;SG;FEM	_	_	_	_
+3	mostra	mostrare	_	_	3;SG;IND;V;PRS;ACT	_	_	_	_
+4	chiaramente	chiaro	_	_	ADV	_	_	_	_
+5	la	il	_	_	DET;SG;FEM	_	_	_	_
+6	sottile	sottile	_	_	ADJ;SG;FEM	_	_	_	_
+7	barra	barra	_	_	N;SG;FEM	_	_	_	_
+8	touch	touch	_	_	ADJ;SG;FEM	_	_	_	_
+9	sopra	sopra	_	_	ADP	_	_	_	_
+10	la	il	_	_	DET;SG;FEM	_	_	_	_
+11	tastiera	tastiera	_	_	N;SG;FEM	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	come	come	_	_	CONJ	_	_	_	_
+14	anticipato	anticipare	_	_	PST;PASS;SG;MASC;V	_	_	_	_
+15	da	da	_	_	ADP	_	_	_	_
+16	i	il	_	_	DET;MASC;DEF;PL	_	_	_	_
+17	rumor	rumor	_	_	N;MASC;PL	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01056
+# sent_id = w01056103
+# text = Questo pose la base per l'integrazione dove i meccanismi economici e giudiziari dello stato potevano essere applicati in tutto il Mediterraneo come veniva fatto una volta dal Lazio in tutta l'Italia.
+# text_en = It set the basis for integration where the economic and judicial mechanisms of the state could be applied throughout the Mediterranean as was once done from Latium into all Italy.
+1	Questo	questo	_	_	SG;PRO;MASC	_	_	_	_
+2	pose	porre	_	_	PST;3;SG;IND;V;PFV;ACT	_	_	_	_
+3	la	il	_	_	DET;SG;FEM	_	_	_	_
+4	base	base	_	_	N;SG;FEM	_	_	_	_
+5	per	per	_	_	ADP	_	_	_	_
+6	l'	il	_	_	DET;SG;FEM	_	_	_	_
+7	integrazione	integrazione	_	_	N;SG;FEM	_	_	_	_
+8	dove	dove	_	_	PRO	_	_	_	_
+9	i	il	_	_	DET;MASC;PL	_	_	_	_
+10	meccanismi	meccanismo	_	_	N;MASC;PL	_	_	_	_
+11	economici	economico	_	_	ADJ;MASC;PL	_	_	_	_
+12	e	e	_	_	CONJ	_	_	_	_
+13	giudiziari	giudiziario	_	_	ADJ;MASC;PL	_	_	_	_
+14	di	di	_	_	ADP	_	_	_	_
+15	lo	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+16	stato	stato	_	_	SG;N;MASC	_	_	_	_
+17	potevano	potere	_	_	PST;V;3;IND;PL;IPFV;ACT	_	_	_	_
+18	essere	essere	_	_	V;PASS	_	_	_	_
+19	applicati	applicare	_	_	V;PST;MASC;PL	_	_	_	_
+20	in	in	_	_	ADP	_	_	_	_
+21	tutto	tutto	_	_	ADJ;SG;MASC	_	_	_	_
+22	il	il	_	_	DET;SG;MASC	_	_	_	_
+23	Mediterraneo	Mediterraneo	_	_	PROPN;SG;MASC	_	_	_	_
+24	come	come	_	_	CONJ	_	_	_	_
+25	veniva	venire	_	_	PST;PASS;3;SG;IND;IPFV;V	_	_	_	_
+26	fatto	fare	_	_	V;PST;SG;MASC	_	_	_	_
+27	una	uno	_	_	DET;SG;FEM	_	_	_	_
+28	volta	volta	_	_	N;SG;FEM	_	_	_	_
+29	da	da	_	_	ADP	_	_	_	_
+30	il	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+31	Lazio	Lazio	_	_	PROPN;SG;MASC	_	_	_	_
+32	in	in	_	_	ADP	_	_	_	_
+33	tutta	tutto	_	_	ADJ;SG;FEM	_	_	_	_
+34	l'	il	_	_	DET;SG;FEM	_	_	_	_
+35	Italia	Italia	_	_	PROPN;SG;FEM	_	_	_	_
+36	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01053036
+# text = A soli 20 anni, è una voce forte contro il bullismo, e ha un'influenza positiva nell'aiutare le ragazze che tentano di accettare i propri standard di bellezza.
+# text_en = At just 20, she is a strong voice against bullying and a positive one in helping girls embrace their own standards of beauty.
+1	A	a	_	_	ADP	_	_	_	_
+2	soli	solo	_	_	ADJ;MASC;PL	_	_	_	_
+3	20	20	_	_	NUM	_	_	_	_
+4	anni	anno	_	_	N;MASC;PL	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	è	essere	_	_	V;3;SG;IND;PRS;ACT	_	_	_	_
+7	una	uno	_	_	DET;SG;FEM	_	_	_	_
+8	voce	voce	_	_	N;SG;FEM	_	_	_	_
+9	forte	forte	_	_	ADJ;SG;FEM	_	_	_	_
+10	contro	contro	_	_	ADP	_	_	_	_
+11	il	il	_	_	DET;SG;MASC	_	_	_	_
+12	bullismo	bullismo	_	_	SG;N;MASC	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	e	e	_	_	CONJ	_	_	_	_
+15	ha	avere	_	_	3;SG;IND;V;PRS;ACT	_	_	_	_
+16	un'	uno	_	_	DET;SG;FEM	_	_	_	_
+17	influenza	influenza	_	_	N;SG;FEM	_	_	_	_
+18	positiva	positivo	_	_	ADJ;SG;FEM	_	_	_	_
+19	in	in	_	_	ADP	_	_	_	_
+20	l'	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+21	aiutare	aiutare	_	_	V;ACT	_	_	_	_
+22	le	il	_	_	PL;DET;FEM	_	_	_	_
+23	ragazze	ragazzo	_	_	PL;N;FEM	_	_	_	_
+24	che	che	_	_	PL;PRO;FEM	_	_	_	_
+25	tentano	tentare	_	_	3;IND;PL;V;PRS;ACT	_	_	_	_
+26	di	di	_	_	ADP	_	_	_	_
+27	accettare	accettare	_	_	V;ACT	_	_	_	_
+28	i	il	_	_	DET;MASC;PL	_	_	_	_
+29	propri	proprio	_	_	PSSP;PRO;3;MASC;PL	_	_	_	_
+30	standard	standard	_	_	N;MASC;PL	_	_	_	_
+31	di	di	_	_	ADP	_	_	_	_
+32	bellezza	bellezza	_	_	N;SG;FEM	_	_	_	_
+33	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01075039
+# text = In altre parole, è meno probabile che uomini in età giovanile (che comprendono la maggior parte dei combattenti nelle guerre civili) si uniscano a una rivolta se hanno accesso all'istruzione o hanno uno stipendio adeguato che gli faccia ritenere di poter avere un futuro prospero.
+# text_en = Phrased another way: young males (who make up the vast majority of combatants in civil wars) are less likely to join a rebellion if they are getting an education or have a comfortable salary, and can reasonably assume that they will prosper in the future.
+1	In	in	_	_	ADP	_	_	_	_
+2	altre	altro	_	_	PL;DET;FEM	_	_	_	_
+3	parole	parola	_	_	PL;N;FEM	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	è	essere	_	_	V;3;SG;IND;PRS;ACT	_	_	_	_
+6	meno	meno	_	_	ADV	_	_	_	_
+7	probabile	probabile	_	_	ADJ;SG;MASC	_	_	_	_
+8	che	che	_	_	CONJ	_	_	_	_
+9	uomini	uomo	_	_	N;MASC;PL	_	_	_	_
+10	in	in	_	_	ADP	_	_	_	_
+11	età	età	_	_	N;SG;FEM	_	_	_	_
+12	giovanile	giovanile	_	_	ADJ;SG;FEM	_	_	_	_
+13	(	(	_	_	_	_	_	_	_
+14	che	che	_	_	PRO;MASC;PL	_	_	_	_
+15	comprendono	comprendere	_	_	3;IND;PL;V;PRS;ACT	_	_	_	_
+16	la	il	_	_	DET;SG;FEM	_	_	_	_
+17	maggior	maggiore	_	_	RL;ADJ;SG;FEM	_	_	_	_
+18	parte	parte	_	_	N;SG;FEM	_	_	_	_
+19	di	di	_	_	ADP	_	_	_	_
+20	i	il	_	_	DET;MASC;DEF;PL	_	_	_	_
+21	combattenti	combattente	_	_	N;MASC;PL	_	_	_	_
+22	in	in	_	_	ADP	_	_	_	_
+23	le	il	_	_	DET;DEF;PL;FEM	_	_	_	_
+24	guerre	guerra	_	_	PL;N;FEM	_	_	_	_
+25	civili	civile	_	_	PL;ADJ;FEM	_	_	_	_
+26	)	)	_	_	_	_	_	_	_
+27	si	si	_	_	PRO;3;PL	_	_	_	_
+28	uniscano	unire	_	_	SBJV;3;PL;V;PRS;ACT	_	_	_	_
+29	a	a	_	_	ADP	_	_	_	_
+30	una	uno	_	_	DET;SG;FEM	_	_	_	_
+31	rivolta	rivolta	_	_	N;SG;FEM	_	_	_	_
+32	se	se	_	_	CONJ	_	_	_	_
+33	hanno	avere	_	_	3;IND;PL;V;PRS;ACT	_	_	_	_
+34	accesso	accesso	_	_	SG;N;MASC	_	_	_	_
+35	a	a	_	_	ADP	_	_	_	_
+36	l'	il	_	_	DET;SG;DEF;FEM	_	_	_	_
+37	istruzione	istruzione	_	_	N;SG;FEM	_	_	_	_
+38	o	o	_	_	CONJ	_	_	_	_
+39	hanno	avere	_	_	3;IND;PL;V;PRS;ACT	_	_	_	_
+40	uno	uno	_	_	DET;SG;MASC	_	_	_	_
+41	stipendio	stipendio	_	_	SG;N;MASC	_	_	_	_
+42	adeguato	adeguato	_	_	ADJ;SG;MASC	_	_	_	_
+43	che	che	_	_	SG;PRO;MASC	_	_	_	_
+44	gli	gli	_	_	ACC;PRO;3;SG;MASC	_	_	_	_
+45	faccia	fare	_	_	SBJV;3;SG;V;PRS;ACT	_	_	_	_
+46	ritenere	ritenere	_	_	V;ACT	_	_	_	_
+47	di	di	_	_	ADP	_	_	_	_
+48	poter	potere	_	_	V;ACT	_	_	_	_
+49	avere	avere	_	_	V;ACT	_	_	_	_
+50	un	uno	_	_	DET;SG;MASC	_	_	_	_
+51	futuro	futuro	_	_	SG;N;MASC	_	_	_	_
+52	prospero	prospero	_	_	ADJ;SG;MASC	_	_	_	_
+53	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w03005
+# sent_id = w03005012
+# text = Nell'VIII secolo a.C, la Grecia iniziò ad emergere dai secolo bui che seguirono la caduta della civiltà micenea.
+# text_en = In the 8th century BC, Greece began to emerge from the Dark Ages which followed the fall of the Mycenaean civilization.
+1	In	in	_	_	ADP	_	_	_	_
+2	l'	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+3	VIII	VIII	_	_	ADJ;SG;MASC	_	_	_	_
+4	secolo	secolo	_	_	SG;N;MASC	_	_	_	_
+5	a.C	a.C	_	_	_	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	la	il	_	_	DET;SG;FEM	_	_	_	_
+8	Grecia	Grecia	_	_	PROPN;SG;FEM	_	_	_	_
+9	iniziò	iniziare	_	_	PST;3;SG;IND;V;PFV;ACT	_	_	_	_
+10	ad	ad	_	_	ADP	_	_	_	_
+11	emergere	emergere	_	_	V;ACT	_	_	_	_
+12	da	da	_	_	ADP	_	_	_	_
+13	i	il	_	_	DET;MASC;DEF;PL	_	_	_	_
+14	secolo	secolo	_	_	N;MASC;PL	_	_	_	_
+15	bui	buio	_	_	ADJ;MASC;PL	_	_	_	_
+16	che	che	_	_	PRO;MASC;PL	_	_	_	_
+17	seguirono	seguire	_	_	3;IND;PL;V;PRS;ACT	_	_	_	_
+18	la	il	_	_	DET;SG;FEM	_	_	_	_
+19	caduta	caduta	_	_	N;SG;FEM	_	_	_	_
+20	di	di	_	_	ADP	_	_	_	_
+21	la	il	_	_	DET;SG;DEF;FEM	_	_	_	_
+22	civiltà	civiltà	_	_	N;SG;FEM	_	_	_	_
+23	micenea	miceneo	_	_	ADJ;SG;FEM	_	_	_	_
+24	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01130025
+# text = Donald Trump è un individuo presuntuoso, arrogante e viziato, a cui importa solo di se stesso, e il suo temperamento è tossico per gli Stati Uniti.
+# text_en = Donald Trump is a pompous, arrogant, entitled person that cares about himself, and his temperament is toxic to the United States.
+1	Donald	Donald	_	_	PROPN;SG;MASC	_	_	_	_
+2	Trump	Trump	_	_	PROPN;SG;MASC	_	_	_	_
+3	è	essere	_	_	V;3;SG;IND;PRS;ACT	_	_	_	_
+4	un	uno	_	_	DET;SG;MASC	_	_	_	_
+5	individuo	individuo	_	_	SG;N;MASC	_	_	_	_
+6	presuntuoso	presuntuoso	_	_	ADJ;SG;MASC	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	arrogante	arrogante	_	_	ADJ;SG;MASC	_	_	_	_
+9	e	e	_	_	CONJ	_	_	_	_
+10	viziato	viziare	_	_	ADJ;SG;MASC	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	a	a	_	_	ADP	_	_	_	_
+13	cui	cui	_	_	SG;PRO;MASC	_	_	_	_
+14	importa	importare	_	_	3;SG;IND;V;PRS;ACT	_	_	_	_
+15	solo	solo	_	_	ADV	_	_	_	_
+16	di	di	_	_	ADP	_	_	_	_
+17	se	se	_	_	PRO;3;SG;MASC;REFL	_	_	_	_
+18	stesso	stesso	_	_	ADJ;SG;MASC	_	_	_	_
+19	,	,	_	_	_	_	_	_	_
+20	e	e	_	_	CONJ	_	_	_	_
+21	il	il	_	_	DET;SG;MASC	_	_	_	_
+22	suo	suo	_	_	PSSS;PRO;3;SG;MASC	_	_	_	_
+23	temperamento	temperamento	_	_	SG;N;MASC	_	_	_	_
+24	è	essere	_	_	V;3;SG;IND;PRS;ACT	_	_	_	_
+25	tossico	tossico	_	_	ADJ;SG;MASC	_	_	_	_
+26	per	per	_	_	ADP	_	_	_	_
+27	gli	il	_	_	DET;MASC;PL	_	_	_	_
+28	Stati	Stati	_	_	PROPN;MASC;PL	_	_	_	_
+29	Uniti	Uniti	_	_	PROPN;MASC;PL	_	_	_	_
+30	.	.	_	_	_	_	_	_	_
+
+# sent_id = n02042026
+# text = La generazione degli smartphone ha ricevuto l'app che si merita dove, nel miglior caso possibile, la situazione più stupida ha avuto un pubblico di milioni di persone.
+# text_en = The smartphone generation received an app it deserved, where, in the best case scenario, the most idiotic situation received an audience of millions.
+1	La	il	_	_	DET;SG;FEM	_	_	_	_
+2	generazione	generazione	_	_	N;SG;FEM	_	_	_	_
+3	di	di	_	_	ADP	_	_	_	_
+4	gli	il	_	_	DET;MASC;DEF;PL	_	_	_	_
+5	smartphone	smartphone	_	_	N;MASC;PL	_	_	_	_
+6	ha	avere	_	_	V;3;SG;IND;PRS;ACT	_	_	_	_
+7	ricevuto	ricevere	_	_	V;PST	_	_	_	_
+8	l'	il	_	_	DET;SG;FEM	_	_	_	_
+9	app	app	_	_	N;SG;FEM	_	_	_	_
+10	che	che	_	_	SG;PRO;FEM	_	_	_	_
+11	si	si	_	_	SG;PRO;3	_	_	_	_
+12	merita	meritare	_	_	3;SG;IND;V;PRS;ACT	_	_	_	_
+13	dove	dove	_	_	ADV	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	in	in	_	_	ADP	_	_	_	_
+16	il	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+17	miglior	miglior	_	_	RL;ADJ;SG;MASC	_	_	_	_
+18	caso	caso	_	_	SG;N;MASC	_	_	_	_
+19	possibile	possibile	_	_	ADJ;SG;MASC	_	_	_	_
+20	,	,	_	_	_	_	_	_	_
+21	la	il	_	_	DET;SG;FEM	_	_	_	_
+22	situazione	situazione	_	_	N;SG;FEM	_	_	_	_
+23	più	più	_	_	ADV	_	_	_	_
+24	stupida	stupido	_	_	ADJ;SG;FEM	_	_	_	_
+25	ha	avere	_	_	V;3;SG;IND;PRS;ACT	_	_	_	_
+26	avuto	avere	_	_	V;PST	_	_	_	_
+27	un	uno	_	_	DET;SG;MASC	_	_	_	_
+28	pubblico	pubblico	_	_	SG;N;MASC	_	_	_	_
+29	di	di	_	_	ADP	_	_	_	_
+30	milioni	milione	_	_	N;MASC;PL	_	_	_	_
+31	di	di	_	_	ADP	_	_	_	_
+32	persone	persona	_	_	PL;N;FEM	_	_	_	_
+33	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01025040
+# text = In Cina, i capelli vengono solitamente sottoposti a un bagno chimico al fine di rimuovere completamente le cuticole, spiega Tarlo.
+# text_en = In China the hair is typically put in a chemical bath to remove the cuticle completely, Tarlo explains.
+1	In	in	_	_	ADP	_	_	_	_
+2	Cina	Cina	_	_	PROPN;SG;FEM	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	i	il	_	_	DET;MASC;PL	_	_	_	_
+5	capelli	capello	_	_	N;MASC;PL	_	_	_	_
+6	vengono	venire	_	_	PASS;3;IND;PL;V;PRS	_	_	_	_
+7	solitamente	solito	_	_	ADV	_	_	_	_
+8	sottoposti	sottoporre	_	_	V;PST;MASC;PL	_	_	_	_
+9	a	a	_	_	ADP	_	_	_	_
+10	un	uno	_	_	DET;SG;MASC	_	_	_	_
+11	bagno	bagno	_	_	SG;N;MASC	_	_	_	_
+12	chimico	chimico	_	_	ADJ;SG;MASC	_	_	_	_
+13	a	a	_	_	ADP	_	_	_	_
+14	il	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+15	fine	fine	_	_	SG;N;MASC	_	_	_	_
+16	di	di	_	_	ADP	_	_	_	_
+17	rimuovere	rimuovere	_	_	V;ACT	_	_	_	_
+18	completamente	completo	_	_	ADV	_	_	_	_
+19	le	il	_	_	PL;DET;FEM	_	_	_	_
+20	cuticole	cuticola	_	_	PL;N;FEM	_	_	_	_
+21	,	,	_	_	_	_	_	_	_
+22	spiega	spiegare	_	_	3;SG;IND;V;PRS;ACT	_	_	_	_
+23	Tarlo	Tarlo	_	_	PROPN;SG;MASC	_	_	_	_
+24	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01114025
+# text = Quattro adulti su 10 sono stati feriti a causa del maltempo, mentre nove su 10 sottovalutano le rigide temperature che si possono raggiungere in Gran Bretagna durante l'inverno.
+# text_en = Four in 10 adults have been injured due to bad weather while nine in 10 underestimate how chilly Britain can get in the winter time.
+1	Quattro	quattro	_	_	NUM	_	_	_	_
+2	adulti	adulto	_	_	N;MASC;PL	_	_	_	_
+3	su	su	_	_	ADP	_	_	_	_
+4	10	10	_	_	NUM	_	_	_	_
+5	sono	essere	_	_	PASS;3;IND;PL;V;PRS	_	_	_	_
+6	stati	essere	_	_	V;PST;MASC;PL	_	_	_	_
+7	feriti	feriti	_	_	V;PST;MASC;PL	_	_	_	_
+8	a	a	_	_	ADP	_	_	_	_
+9	causa	causa	_	_	N;SG;FEM	_	_	_	_
+10	di	di	_	_	ADP	_	_	_	_
+11	il	il	_	_	DET;SG;MASC;DEF	_	_	_	_
+12	maltempo	maltempo	_	_	SG;N;MASC	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	mentre	mentre	_	_	ADP	_	_	_	_
+15	nove	nove	_	_	NUM	_	_	_	_
+16	su	su	_	_	ADP	_	_	_	_
+17	10	10	_	_	NUM	_	_	_	_
+18	sottovalutano	sottovalutare	_	_	3;IND;PL;V;PRS;ACT	_	_	_	_
+19	le	il	_	_	PL;DET;FEM	_	_	_	_
+20	rigide	rigido	_	_	PL;ADJ;FEM	_	_	_	_
+21	temperature	temperatura	_	_	PL;N;FEM	_	_	_	_
+22	che	che	_	_	PL;PRO;FEM	_	_	_	_
+23	si	si	_	_	PRO;3;PL	_	_	_	_
+24	possono	potere	_	_	V;3;IND;PL;PRS;ACT	_	_	_	_
+25	raggiungere	raggiungere	_	_	V;ACT	_	_	_	_
+26	in	in	_	_	ADP	_	_	_	_
+27	Gran	Gran	_	_	PROPN;SG;FEM	_	_	_	_
+28	Bretagna	Bretagna	_	_	PROPN;SG;FEM	_	_	_	_
+29	durante	durante	_	_	ADP	_	_	_	_
+30	l'	il	_	_	DET;SG;MASC	_	_	_	_
+31	inverno	inverno	_	_	SG;N;MASC	_	_	_	_
+32	.	.	_	_	_	_	_	_	_
+

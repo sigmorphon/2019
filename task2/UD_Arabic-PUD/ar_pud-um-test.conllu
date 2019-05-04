@@ -1,0 +1,2558 @@
+# newdoc id = n01027
+# sent_id = n01027041
+# text = سألتها بعد ذلك إن كانت تفهم السبب الذي قد يدعو الناس للتصويت لصالح ترامب.
+# original_text = سألتها بعد ذلك إن كانت تفهم السبب الذي قد يدعو الناس للتصويت لصالح ترامب.
+# text_en = I asked her afterwards if she understood why people might vote for Trump.
+1	سألت	sa>al-a_1	_	_	PFV;PST;ACT;V;SG;3;FEM	_	_	_	_
+2	ها	hA	_	_	ACC;SG;PRO;3;FEM	_	_	_	_
+3	بعد	baEod_1	_	_	ADP	_	_	_	_
+4	ذلك	*`lika_1	_	_	PRO;MASC;SG;GEN	_	_	_	_
+5	إن	<ino_1	_	_	ADP	_	_	_	_
+6	كانت	kAn-u_1	_	_	PFV;PST;ACT;V;SG;3;FEM	_	_	_	_
+7	تفهم	fahim-a_1	_	_	PRS;ACT;IPFV;V;IND;SG;3;FEM	_	_	_	_
+8	السبب	sabab_1	_	_	NHUM;ACC;DEF;MASC;SG;N	_	_	_	_
+9	الذي	Al~a*iy_1	_	_	PRO;MASC;SG;ACC	_	_	_	_
+10	قد	qado_1	_	_	PART	_	_	_	_
+11	يدعو	daEA-u_1	_	_	ACT;IPFV;V;MASC;IND;SG;3;PRS	_	_	_	_
+12	الناس	nAs_1	_	_	ACC;PL;DEF;MASC;N;HUM	_	_	_	_
+13	ل	l	_	_	ADP	_	_	_	_
+14	لتصويت	taSowiyt_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+15	ل	l	_	_	ADP	_	_	_	_
+16	صالح	SAliH_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+17	ترامب	trAmb_0	_	_	MASC;PROPN;HUM;SG	_	_	_	_
+18	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = n01029
+# sent_id = n01029007
+# text = عازف جيتارٍ موهوب, وقد عزف في حفلٍ هناك في ذات العام.
+# original_text = عازف جيتار موهوب, وقد عزف في حفل هناك في ذات العام.
+# text_en = A keen guitarist, he played a concert there the same year.
+1	عازف	EAzif_1	_	_	MASC;SG;N;HUM;NOM;INDF	_	_	_	_
+2	جيتارٍ	jytAr_0	_	_	MASC;PROPN;NHUM;SG	_	_	_	_
+3	موهوب	mawohuwb_1	_	_	MASC;SG;NOM;ADJ;INDF	_	_	_	_
+4	,	,_0	_	_	_	_	_	_	_
+5	و	w	_	_	CONJ	_	_	_	_
+6	قد	qado_1	_	_	PART	_	_	_	_
+7	عزف	Eazaf-i_1	_	_	PFV;PST;ACT;V;MASC;SG;3	_	_	_	_
+8	في	fiy_1	_	_	ADP	_	_	_	_
+9	حفلٍ	Hafol_1	_	_	NHUM;GEN;MASC;SG;N;INDF	_	_	_	_
+10	هناك	hunAka_1	_	_	ADV	_	_	_	_
+11	في	fiy_1	_	_	ADP	_	_	_	_
+12	ذات	*At_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+13	العام	EAm~_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+14	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = w05010
+# sent_id = w05010023
+# text = تولى بومبي قيادة فيلقين في كابوا وبدأ برفع الضرائب بشكل غير قانوني, وهو تصرفٌ, بقدر ما كان متوقعاً, استغل أتباع قيصر الذين كانوا في صفه.
+# original_text = تولى بومبي قيادة فيلقين في كابوا وبدأ برفع الضرائب بشكل غير قانوني, وهو تصرف, بقدر ما كان متوقعا, استغل أتباع قيصر الذين كانوا في صفه.
+# text_en = Pompey took command of two legions in Capua and began to raise levies illegally, an act that, as was predictable, took advantage of the Caesarians who were in his favor.
+1	تولى	tawal~aY_1	_	_	PFV;PST;ACT;V;MASC;SG;3	_	_	_	_
+2	بومبي	bwmby_0	_	_	MASC;PROPN;HUM;SG	_	_	_	_
+3	قيادة	qiyAdap_1	_	_	NHUM;ACC;SG;N;FEM;INDF	_	_	_	_
+4	فيلقين	fayolaq_1	_	_	NHUM;PL;GEN;MASC;N;INDF	_	_	_	_
+5	في	fiy_1	_	_	ADP	_	_	_	_
+6	كابوا	>abowA_1	_	_	PROPN;NHUM;FEM;SG	_	_	_	_
+7	و	w	_	_	CONJ	_	_	_	_
+8	بدأ	bada>-a_1	_	_	PFV;PST;ACT;V;MASC;SG;3	_	_	_	_
+9	ب	b	_	_	ADP	_	_	_	_
+10	رفع	rafoE_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+11	الضرائب	Dariybap_1	_	_	NHUM;PL;GEN;DEF;N;FEM	_	_	_	_
+12	ب	b	_	_	ADP	_	_	_	_
+13	شكل	$akol_1	_	_	NHUM;GEN;MASC;SG;N;INDF	_	_	_	_
+14	غير	gayor_1	_	_	NEG;PART	_	_	_	_
+15	قانوني	qAnuwniy~_1	_	_	GEN;MASC;SG;ADJ;INDF	_	_	_	_
+16	,	,_0	_	_	_	_	_	_	_
+17	و	w	_	_	PART	_	_	_	_
+18	هو	huwa_1	_	_	MASC;SG;NOM;PRO;3	_	_	_	_
+19	تصرفٌ	taSar~uf_1	_	_	NHUM;MASC;SG;N;NOM;INDF	_	_	_	_
+20	,	,_0	_	_	_	_	_	_	_
+21	ب	b	_	_	ADP	_	_	_	_
+22	قدر	qador_1	_	_	NHUM;GEN;MASC;SG;N;INDF	_	_	_	_
+23	ما	mA_1	_	_	PRO;GEN	_	_	_	_
+24	كان	kAn-u_1	_	_	PFV;PST;ACT;V;MASC;SG;3	_	_	_	_
+25	متوقعاً	mutawaq~aE_1	_	_	ACC;MASC;SG;ADJ;INDF	_	_	_	_
+26	,	,_0	_	_	_	_	_	_	_
+27	استغل	{isotagal~_1	_	_	PFV;PST;ACT;V;MASC;SG;3	_	_	_	_
+28	أتباع	tabaE_1	_	_	ACC;PL;DEF;MASC;N;HUM	_	_	_	_
+29	قيصر	qayoSar_2	_	_	GEN;MASC;SG;HUM;PROPN	_	_	_	_
+30	الذين	Al~a*iy_1	_	_	PRO;MASC;ACC;PL	_	_	_	_
+31	كانوا	kAn-u_1	_	_	PFV;PST;ACT;PL;V;MASC;3	_	_	_	_
+32	في	fiy_1	_	_	ADP	_	_	_	_
+33	صف	Saf~_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+34	ه	h	_	_	GEN;MASC;SG;PRO;3	_	_	_	_
+35	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = w01122
+# sent_id = w01122031
+# text = صدرت أسطوانة "أحبك جداً جداً" في آب ووصلت إلى مصاف أفضل 50 أسطوانة, وطرحت الأغنية المنفردة "أرض مهتزة" في أيلول لكن غيير كانت في الولايات المتحدة.
+# original_text = صدرت أسطوانة "أحبك جدا جدا" في آب ووصلت إلى مصاف أفضل 50 أسطوانة, وطرحت الأغنية المنفردة "أرض مهتزة" في أيلول لكن غيير كانت في الولايات المتحدة.
+# text_en = Really Really Love You was released in August and reach the top 50; "Shaky Ground", the related single, appeared in September but Geyer was already in the US.
+1	صدرت	Sadar-u_1	_	_	PFV;PST;ACT;V;SG;3;FEM	_	_	_	_
+2	أسطوانة	>usoTuwAnap_1	_	_	NHUM;DEF;SG;N;NOM;FEM	_	_	_	_
+3	"	"_0	_	_	_	_	_	_	_
+4	أحب	>aHab~_1	_	_	ACT;IPFV;V;IND;SG;1;PRS	_	_	_	_
+5	ك	k	_	_	PRO;2;SG;ACC	_	_	_	_
+6	جداً	jid~_1	_	_	ADV	_	_	_	_
+7	جداً	jid~_1	_	_	ADV	_	_	_	_
+8	"	"_0	_	_	_	_	_	_	_
+9	في	fiy_1	_	_	ADP	_	_	_	_
+10	آب	|b_1	_	_	MASC;PROPN;NHUM;SG	_	_	_	_
+11	و	w	_	_	CONJ	_	_	_	_
+12	وصلت	waSal-i_1	_	_	PFV;PST;ACT;V;SG;3;FEM	_	_	_	_
+13	إلى	<ilaY_1	_	_	ADP	_	_	_	_
+14	مصاف	maSaf~_2	_	_	NHUM;GEN;MASC;SG;N;INDF	_	_	_	_
+15	أفضل	>afoDal_2	_	_	ADJ;GEN;INDF	_	_	_	_
+16	50	50_0	_	_	NUM	_	_	_	_
+17	أسطوانة	>usoTuwAnap_1	_	_	NHUM;GEN;SG;N;FEM;INDF	_	_	_	_
+18	,	,_0	_	_	_	_	_	_	_
+19	و	w	_	_	CONJ	_	_	_	_
+20	طرحت	TaraH-a_1	_	_	PFV;PST;PASS;V;SG;3;FEM	_	_	_	_
+21	الأغنية	>ugoniyap_1	_	_	NHUM;DEF;SG;N;NOM;FEM	_	_	_	_
+22	المنفردة	munofarid_1	_	_	DEF;SG;FEM;NOM;ADJ	_	_	_	_
+23	"	"_0	_	_	_	_	_	_	_
+24	أرض	>aroD_1	_	_	NHUM;SG;NOM;PROPN;FEM;INDF	_	_	_	_
+25	مهتزة	muhotaz~_1	_	_	SG;FEM;NOM;ADJ;INDF	_	_	_	_
+26	"	"_0	_	_	_	_	_	_	_
+27	في	fiy_1	_	_	ADP	_	_	_	_
+28	أيلول	>ayoluwl_1	_	_	MASC;PROPN;NHUM;SG	_	_	_	_
+29	لكن	l`kin~a_1	_	_	ADP	_	_	_	_
+30	غيير	gyyr_0	_	_	PROPN;NHUM;FEM;SG	_	_	_	_
+31	كانت	kAn-u_1	_	_	PFV;PST;ACT;V;SG;3;FEM	_	_	_	_
+32	في	fiy_1	_	_	ADP	_	_	_	_
+33	الولايات	wilAyap_1	_	_	NHUM;PL;GEN;DEF;PROPN;FEM	_	_	_	_
+34	المتحدة	mut~aHid_1	_	_	GEN;DEF;SG;ADJ;FEM	_	_	_	_
+35	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = w01040
+# sent_id = w01040101
+# text = عادةً ما تبدأ العواصف الترابية في أطراف الصحاري وليس داخل الصجاري ذاتها حيث تكون الحبيبات الأدق حجماً قد هبت متطايرةً بالفعل.
+# original_text = عادة ما تبدأ العواصف الترابية في أطراف الصحاري وليس داخل الصجاري ذاتها حيث تكون الحبيبات الأدق حجما قد هبت متطايرة بالفعل.
+# text_en = Dust storms usually start in desert margins rather than the deserts themselves where the finer materials have already been blown away.
+1	عادةً	EAdap_1	_	_	ADV	_	_	_	_
+2	ما	mA_1	_	_	PART	_	_	_	_
+3	تبدأ	bada>-a_1	_	_	PRS;ACT;IPFV;V;IND;SG;3;FEM	_	_	_	_
+4	العواصف	EASifap_1	_	_	NHUM;PL;DEF;N;NOM;FEM	_	_	_	_
+5	الترابية	turAbiy~_1	_	_	DEF;SG;FEM;NOM;ADJ	_	_	_	_
+6	في	fiy_1	_	_	ADP	_	_	_	_
+7	أطراف	Taraf_1	_	_	NHUM;PL;GEN;DEF;MASC;N	_	_	_	_
+8	الصحاري	SaHorA'_1	_	_	NHUM;PL;GEN;DEF;N;FEM	_	_	_	_
+9	و	w	_	_	CONJ	_	_	_	_
+10	ليس	layosa_2	_	_	NEG;PART	_	_	_	_
+11	داخل	dAxil_1	_	_	ADP	_	_	_	_
+12	الصجاري	SjAry_0	_	_	NHUM;PL;GEN;DEF;N;FEM	_	_	_	_
+13	ذات	*At_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+14	ها	hA	_	_	GEN;SG;PRO;3;FEM	_	_	_	_
+15	حيث	Hayovu_1	_	_	ADP	_	_	_	_
+16	تكون	kAn-u_1	_	_	PRS;ACT;IPFV;V;IND;SG;3;FEM	_	_	_	_
+17	الحبيبات	Habiyb_1	_	_	NHUM;PL;DEF;N;NOM;FEM	_	_	_	_
+18	الأدق	>adaq~_2	_	_	NOM;ADJ;DEF	_	_	_	_
+19	حجماً	Hajom_1	_	_	NHUM;ACC;MASC;SG;N;INDF	_	_	_	_
+20	قد	qado_1	_	_	PART	_	_	_	_
+21	هبت	hab~-u_1	_	_	PFV;PST;ACT;V;SG;3;FEM	_	_	_	_
+22	متطايرةً	mutaTAyr_1	_	_	ACC;SG;FEM;ADJ;INDF	_	_	_	_
+23	ب	b	_	_	ADP	_	_	_	_
+24	الفعل	fiEol_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+25	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = n01079
+# sent_id = n01079065
+# text = يتواصل الفنانون مع الناس بقلوبهم, إنها المرة الوحيدة التي نلتقي فيها في مكانٍ واحد وننحي خلافاتنا جانباً.
+# original_text = يتواصل الفنانون مع الناس بقلوبهم, إنها المرة الوحيدة التي نلتقي فيها في مكان واحد وننحي خلافاتنا جانبا.
+# text_en = Artists reach people at their heart; it’s the only time we meet in one place and put our differences aside.
+1	يتواصل	tawASal_1	_	_	ACT;IPFV;V;MASC;IND;SG;3;PRS	_	_	_	_
+2	الفنانون	fan~An_1	_	_	PL;DEF;MASC;N;HUM;NOM	_	_	_	_
+3	مع	maE_1	_	_	ADP	_	_	_	_
+4	الناس	nAs_1	_	_	PL;GEN;DEF;MASC;N;HUM	_	_	_	_
+5	ب	b	_	_	ADP	_	_	_	_
+6	قلوب	qalob_3	_	_	NHUM;PL;GEN;DEF;MASC;N	_	_	_	_
+7	هم	hm	_	_	PL;GEN;MASC;PRO;3	_	_	_	_
+8	,	,_0	_	_	_	_	_	_	_
+9	إن	<in~a_1	_	_	ADP	_	_	_	_
+10	ها	hA	_	_	ACC;SG;PRO;3;FEM	_	_	_	_
+11	المرة	mar~ap_1	_	_	NHUM;DEF;SG;N;NOM;FEM	_	_	_	_
+12	الوحيدة	waHiyd_2	_	_	DEF;SG;FEM;NOM;ADJ	_	_	_	_
+13	التي	Al~a*iy_1	_	_	PRO;SG;FEM;NOM	_	_	_	_
+14	نلتقي	{ilotaqaY_1	_	_	ACT;IPFV;V;PL;IND;1;PRS	_	_	_	_
+15	في	fiy_1	_	_	ADP	_	_	_	_
+16	ها	hA	_	_	GEN;SG;PRO;3;FEM	_	_	_	_
+17	في	fiy_1	_	_	ADP	_	_	_	_
+18	مكانٍ	makAn_1	_	_	NHUM;GEN;MASC;SG;N;INDF	_	_	_	_
+19	واحد	wAHid_1	_	_	GEN;MASC;SG;ADJ;INDF	_	_	_	_
+20	و	w	_	_	CONJ	_	_	_	_
+21	ننحي	naH~aY_1	_	_	ACT;IPFV;V;PL;IND;1;PRS	_	_	_	_
+22	خلافات	xilAf_1	_	_	NHUM;ACC;PL;DEF;MASC;N	_	_	_	_
+23	نا	nA	_	_	PRO;1;PL;GEN	_	_	_	_
+24	جانباً	jAnib_1	_	_	ADV	_	_	_	_
+25	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = w04001
+# sent_id = w04001037
+# text = علاوةً على ذلك, فإن حدوث أعاصير في الجزيرة محتملٌ خلال الصيف.
+# original_text = علاوة على ذلك, فإن حدوث أعاصير في الجزيرة محتمل خلال الصيف.
+# text_en = Furthermore, the occurrence of hurricanes on the island is possible during the summer.
+1	علاوةً	EilAwap_1	_	_	ACC;N;FEM;INDF	_	_	_	_
+2	على	EalaY_1	_	_	ADP	_	_	_	_
+3	ذلك	*`lika_1	_	_	PRO;MASC;SG;GEN	_	_	_	_
+4	,	,_0	_	_	_	_	_	_	_
+5	ف	f	_	_	PART	_	_	_	_
+6	إن	<in~a_1	_	_	PART	_	_	_	_
+7	حدوث	Huduwv_1	_	_	NHUM;ACC;MASC;SG;N;INDF	_	_	_	_
+8	أعاصير	<iEoSAr_1	_	_	NHUM;PL;GEN;MASC;N;INDF	_	_	_	_
+9	في	fiy_1	_	_	ADP	_	_	_	_
+10	الجزيرة	jaziyrap_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+11	محتملٌ	muHotamal_1	_	_	MASC;SG;NOM;ADJ;INDF	_	_	_	_
+12	خلال	xilAl_1	_	_	ADP	_	_	_	_
+13	الصيف	Sayof_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+14	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = w01141
+# sent_id = w01141025
+# text = خارج فترة الموسم عام 2013 ظهرت في قناة "سي تي في مونتريال" كمقدمة نشرة جوية ضيفة.
+# original_text = خارج فترة الموسم عام 2013 ظهرت في قناة "سي تي في مونتريال" كمقدمة نشرة جوية ضيفة.
+# text_en = During the 2013 off-season she appeared on CTV Montreal as a guest weather anchor.
+1	خارج	xArij_1	_	_	ADP	_	_	_	_
+2	فترة	fatorap_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+3	الموسم	mawosim_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+4	عام	EAm_1	_	_	ADV	_	_	_	_
+5	2013	2013_0	_	_	NUM;GEN	_	_	_	_
+6	ظهرت	Zahar-a_1	_	_	PFV;PST;ACT;V;SG;3;FEM	_	_	_	_
+7	في	fiy_1	_	_	ADP	_	_	_	_
+8	قناة	qanAp_1	_	_	PROPN	_	_	_	_
+9	"	"_0	_	_	_	_	_	_	_
+10	سي	siy_1	_	_	PROPN	_	_	_	_
+11	تي	tiy_1	_	_	PROPN	_	_	_	_
+12	في	fiy_2	_	_	PROPN	_	_	_	_
+13	مونتريال	muwnotriyAl_1	_	_	PROPN;NHUM;FEM;SG	_	_	_	_
+14	"	"_0	_	_	_	_	_	_	_
+15	ك	k	_	_	GEN;SG;PRO;2;FEM	_	_	_	_
+16	مقدمة	muqad~imap_1	_	_	SG;N;HUM;NOM;FEM;INDF	_	_	_	_
+17	نشرة	na$orap_1	_	_	NHUM;GEN;SG;N;FEM;INDF	_	_	_	_
+18	جوية	jaw~iy~_1	_	_	GEN;SG;ADJ;FEM;INDF	_	_	_	_
+19	ضيفة	Dayof_1	_	_	GEN;SG;N;HUM;FEM;INDF	_	_	_	_
+20	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = n01075
+# sent_id = n01075044
+# text = كان المنتخب الأسترالي, الذي تمرس خلال مبارياته الأخيرة في بطولة الرغبي, أقوى وأسرع.
+# original_text = كان المنتخب الأسترالي, الذي تمرس خلال مبارياته الأخيرة في بطولة الرغبي, أقوى وأسرع.
+# text_en = Australia, hardened by their recent games in the Rugby Championship, were in a higher gear.
+1	كان	kAn-u_1	_	_	PFV;PST;ACT;V;MASC;SG;3	_	_	_	_
+2	المنتخب	munotaxab_1	_	_	NHUM;DEF;MASC;SG;N;NOM	_	_	_	_
+3	الأسترالي	>usoturAliy~_1	_	_	DEF;MASC;SG;NOM;ADJ	_	_	_	_
+4	,	,_0	_	_	_	_	_	_	_
+5	الذي	Al~a*iy_1	_	_	PRO;MASC;SG;NOM	_	_	_	_
+6	تمرس	tamar~as_1	_	_	PFV;PST;ACT;V;MASC;SG;3	_	_	_	_
+7	خلال	xilAl_1	_	_	ADP	_	_	_	_
+8	مباريات	mubArAp_1	_	_	NHUM;PL;GEN;DEF;N;FEM	_	_	_	_
+9	ه	h	_	_	GEN;MASC;SG;PRO;3	_	_	_	_
+10	الأخيرة	>axiyr_1	_	_	GEN;DEF;SG;ADJ;FEM	_	_	_	_
+11	في	fiy_1	_	_	ADP	_	_	_	_
+12	بطولة	buTuwlap_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+13	الرغبي	rgby_0	_	_	NHUM;GEN;DEF;MASC;SG;PROPN	_	_	_	_
+14	,	,_0	_	_	_	_	_	_	_
+15	أقوى	>aqowaY_2	_	_	ACC;MASC;SG;ADJ;INDF	_	_	_	_
+16	و	w	_	_	CONJ	_	_	_	_
+17	أسرع	>asoraE_2	_	_	ACC;MASC;SG;ADJ;INDF	_	_	_	_
+18	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = w02004
+# sent_id = w02004065
+# text = ثمة نظريات مختلفة حول أسباب ترك المكان.
+# original_text = ثمة نظريات مختلفة حول أسباب ترك المكان.
+# text_en = There are different theories about the reasons for leaving the place.
+1	ثمة	vam~apa_1	_	_	ADV	_	_	_	_
+2	نظريات	naZariy~ap_1	_	_	NHUM;PL;N;NOM;FEM;INDF	_	_	_	_
+3	مختلفة	muxotalif_1	_	_	SG;FEM;NOM;ADJ;INDF	_	_	_	_
+4	حول	Hawol_1	_	_	ADP	_	_	_	_
+5	أسباب	sabab_1	_	_	NHUM;PL;GEN;DEF;MASC;N	_	_	_	_
+6	ترك	tarok_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+7	المكان	makAn_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+8	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = w02013
+# sent_id = w02013033
+# text = أظهرت أزمة السويس حدود قدرات القوى الاستعمارية القديمة مثل بريطانيا العظمى وفرنسا في عالمٍ متغير.
+# original_text = أظهرت أزمة السويس حدود قدرات القوى الاستعمارية القديمة مثل بريطانيا العظمى وفرنسا في عالم متغير.
+# text_en = The Suez Crisis showed the limits of the old colonial powers such as Great Britain and France in a changing world.
+1	أظهرت	>aZohar_1	_	_	PFV;PST;ACT;V;SG;3;FEM	_	_	_	_
+2	أزمة	>azomap_1	_	_	NHUM;DEF;SG;N;NOM;FEM	_	_	_	_
+3	السويس	suwayos_1	_	_	NHUM;GEN;SG;PROPN;FEM	_	_	_	_
+4	حدود	Had~_2	_	_	NHUM;ACC;PL;DEF;MASC;N	_	_	_	_
+5	قدرات	qudorap_1	_	_	NHUM;PL;GEN;DEF;N;FEM	_	_	_	_
+6	القوى	qawiy~_1	_	_	NHUM;PL;GEN;DEF;N;FEM	_	_	_	_
+7	الاستعمارية	{isotiEomAriy~_1	_	_	GEN;DEF;SG;ADJ;FEM	_	_	_	_
+8	القديمة	qadiym_1	_	_	GEN;DEF;SG;ADJ;FEM	_	_	_	_
+9	مثل	mivol_1	_	_	ADP	_	_	_	_
+10	بريطانيا	briyTAniyA_1	_	_	PROPN;NHUM;FEM;SG	_	_	_	_
+11	العظمى	>aEoZam_2	_	_	GEN;DEF;SG;ADJ;FEM	_	_	_	_
+12	و	w	_	_	CONJ	_	_	_	_
+13	فرنسا	faranosA_1	_	_	PROPN;NHUM;FEM;SG	_	_	_	_
+14	في	fiy_1	_	_	ADP	_	_	_	_
+15	عالمٍ	EAlam_1	_	_	NHUM;GEN;MASC;SG;N;INDF	_	_	_	_
+16	متغير	mutagay~ir_1	_	_	GEN;MASC;SG;ADJ;INDF	_	_	_	_
+17	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = n03006
+# sent_id = n03006008
+# text = حتى لو كانت الغالبية العظمى من الحالات التي تنشأ في مكانا لعمل يمكن حلها من دون نزاعات.
+# original_text = حتى لو كانت الغالبية العظمى من الحالات التي تنشأ في مكانا لعمل يمكن حلها من دون نزاعات.
+# text_en = Even if the majority of situations that arise in the workplace can be resolved without conflict.
+1	حتى	Hat~aY_3	_	_	PART	_	_	_	_
+2	لو	lawo_1	_	_	ADP	_	_	_	_
+3	كانت	kAn-u_1	_	_	PFV;PST;ACT;V;SG;3;FEM	_	_	_	_
+4	الغالبية	gAlibiy~ap_1	_	_	NOM;N;DEF	_	_	_	_
+5	العظمى	>aEoZam_2	_	_	DEF;SG;FEM;NOM;ADJ	_	_	_	_
+6	من	min_1	_	_	ADP	_	_	_	_
+7	الحالات	HAlap_1	_	_	NHUM;PL;GEN;DEF;N;FEM	_	_	_	_
+8	التي	Al~a*iy_1	_	_	PRO;SG;FEM;GEN	_	_	_	_
+9	تنشأ	>ano$a>_1	_	_	PRS;ACT;IPFV;V;IND;SG;3;FEM	_	_	_	_
+10	في	fiy_1	_	_	ADP	_	_	_	_
+11	مكانا	makAn_1	_	_	NHUM;ACC;MASC;SG;N;INDF	_	_	_	_
+12	ل	l	_	_	ADP	_	_	_	_
+13	عمل	Eamal_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+14	يمكن	>amokan_1	_	_	ACT;IPFV;V;MASC;IND;SG;3;PRS	_	_	_	_
+15	حل	Hil~_1	_	_	NHUM;DEF;MASC;SG;N;NOM	_	_	_	_
+16	ها	hA	_	_	GEN;SG;PRO;3;FEM	_	_	_	_
+17	من	min_1	_	_	ADP	_	_	_	_
+18	دون	duwn_1	_	_	ADP	_	_	_	_
+19	نزاعات	nizAE_1	_	_	NHUM;PL;GEN;MASC;N;INDF	_	_	_	_
+20	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = w04002
+# sent_id = w04002008
+# text = ومن الأشياء التي تدعم هذه النظرية وجود قطيع ملكي كبير من الخيول في فيلا بيلوكا, في سستو سان جوفاني.
+# original_text = ومن الأشياء التي تدعم هذه النظرية وجود قطيع ملكي كبير من الخيول في فيلا بيلوكا, في سستو سان جوفاني.
+# text_en = An element supporting this hypothesis would be the intense royal livestock of horses that took place at Villa Pelucca, in Sesto San Giovanni.
+1	و	w	_	_	PART	_	_	_	_
+2	من	min_1	_	_	ADP	_	_	_	_
+3	الأشياء	$ayo'_1	_	_	NHUM;PL;GEN;DEF;MASC;N	_	_	_	_
+4	التي	Al~a*iy_1	_	_	PRO;SG;FEM;GEN	_	_	_	_
+5	تدعم	daEam-a_1	_	_	PRS;ACT;IPFV;V;IND;SG;3;FEM	_	_	_	_
+6	هذه	h`*A_1	_	_	PRO;SG;ACC;FEM	_	_	_	_
+7	النظرية	naZariy~ap_1	_	_	NHUM;ACC;DEF;SG;N;FEM	_	_	_	_
+8	وجود	wujuwd_1	_	_	NHUM;MASC;SG;N;NOM;INDF	_	_	_	_
+9	قطيع	qaTiyE_1	_	_	NHUM;GEN;MASC;SG;N;INDF	_	_	_	_
+10	ملكي	mulokiy~_1	_	_	GEN;MASC;SG;ADJ;INDF	_	_	_	_
+11	كبير	kabiyr_1	_	_	GEN;MASC;SG;ADJ;INDF	_	_	_	_
+12	من	min_1	_	_	ADP	_	_	_	_
+13	الخيول	xayol_1	_	_	NHUM;PL;GEN;DEF;MASC;N	_	_	_	_
+14	في	fiy_1	_	_	ADP	_	_	_	_
+15	فيلا	fiyl~A_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+16	بيلوكا	bylwkA_0	_	_	MASC;PROPN;HUM;SG	_	_	_	_
+17	,	,_0	_	_	_	_	_	_	_
+18	في	fiy_1	_	_	ADP	_	_	_	_
+19	سستو	sstw_0	_	_	PROPN;NHUM;FEM;SG	_	_	_	_
+20	سان	sAn_1	_	_	MASC;PROPN;NHUM;SG	_	_	_	_
+21	جوفاني	juwfAniy_1	_	_	MASC;PROPN;NHUM;SG	_	_	_	_
+22	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = w04007
+# sent_id = w04007006
+# text = خلال حرب التحالف الأول, سرعان ما سلطت الأضواء على ضابط مدفعية كورسيكي شاب, في أعقاب الثورة الفرنسية: نابليون بونابرت.
+# original_text = خلال حرب التحالف الأول, سرعان ما سلطت الأضواء على ضابط مدفعية كورسيكي شاب, في أعقاب الثورة الفرنسية: نابليون بونابرت.
+# text_en = During the War of the First Coalition, light quickly began to be shed upon a young Corsican artillery officer, following the French Revolution: Napoleon Bonaparte.
+1	خلال	xilAl_1	_	_	ADP	_	_	_	_
+2	حرب	Harob_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+3	التحالف	taHAluf_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+4	الأول	>aw~al_2	_	_	GEN;DEF;MASC;SG;ADJ	_	_	_	_
+5	,	,_0	_	_	_	_	_	_	_
+6	سرعان	surEAna_1	_	_	ADV	_	_	_	_
+7	ما	mA_4	_	_	PART	_	_	_	_
+8	سلطت	sal~aT_1	_	_	PFV;PST;PASS;V;SG;3;FEM	_	_	_	_
+9	الأضواء	Dawo'_1	_	_	NHUM;PL;DEF;MASC;N;NOM	_	_	_	_
+10	على	EalaY_1	_	_	ADP	_	_	_	_
+11	ضابط	DAbiT_1	_	_	GEN;MASC;SG;N;HUM;INDF	_	_	_	_
+12	مدفعية	midofaEiy~_1	_	_	NHUM;GEN;SG;N;FEM;INDF	_	_	_	_
+13	كورسيكي	kwrsyky_0	_	_	GEN;MASC;SG;ADJ;INDF	_	_	_	_
+14	شاب	$Ab~_1	_	_	GEN;MASC;SG;ADJ;INDF	_	_	_	_
+15	,	,_0	_	_	_	_	_	_	_
+16	في	fiy_1	_	_	ADP	_	_	_	_
+17	أعقاب	Euqob_1	_	_	NHUM;PL;GEN;DEF;MASC;N	_	_	_	_
+18	الثورة	vaworap_1	_	_	NHUM;GEN;DEF;SG;PROPN;FEM	_	_	_	_
+19	الفرنسية	faranosiy~_1	_	_	GEN;DEF;SG;ADJ;FEM	_	_	_	_
+20	:	:_0	_	_	_	_	_	_	_
+21	نابليون	nAbiloyuwn_1	_	_	MASC;PROPN;HUM;SG	_	_	_	_
+22	بونابرت	bwnAbrt_0	_	_	MASC;PROPN;HUM;SG	_	_	_	_
+23	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = n01055
+# sent_id = n01055038
+# text = وهذا لا ينطبق فقط على المحتوى الترفيهي, بل أيضاً على التعليم, والأبحاث العلمية, وـربما هذا الأهمـ على الخطاب السياسي.
+# original_text = وهذا لا ينطبق فقط على المحتوى الترفيهي, بل أيضا على التعليم, والأبحاث العلمية, و_ربما هذا الأهم_ على الخطاب السياسي.
+# text_en = This would not only apply to entertainment content, but equally to education, to scientific research and, perhaps most importantly, to political discourse.
+1	و	w	_	_	PART	_	_	_	_
+2	هذا	h`*A_1	_	_	PRO;MASC;SG;NOM	_	_	_	_
+3	لا	lA_1	_	_	NEG;PART	_	_	_	_
+4	ينطبق	{inoTabaq_1	_	_	ACT;IPFV;V;MASC;IND;SG;3;PRS	_	_	_	_
+5	فقط	faqaT_1	_	_	ADV	_	_	_	_
+6	على	EalaY_1	_	_	ADP	_	_	_	_
+7	المحتوى	muHotawaY_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+8	الترفيهي	tarofiyhiy~_1	_	_	GEN;DEF;MASC;SG;ADJ	_	_	_	_
+9	,	,_0	_	_	_	_	_	_	_
+10	بل	balo_1	_	_	CONJ	_	_	_	_
+11	أيضاً	>ayoDAF_1	_	_	ADV	_	_	_	_
+12	على	EalaY_1	_	_	ADP	_	_	_	_
+13	التعليم	taEoliym_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+14	,	,_0	_	_	_	_	_	_	_
+15	و	w	_	_	CONJ	_	_	_	_
+16	الأبحاث	baHov_2	_	_	NHUM;PL;GEN;DEF;MASC;N	_	_	_	_
+17	العلمية	Eilomiy~_1	_	_	GEN;DEF;SG;ADJ;FEM	_	_	_	_
+18	,	,_0	_	_	_	_	_	_	_
+19	و	wa_1	_	_	CONJ	_	_	_	_
+20	ـ	__0	_	_	_	_	_	_	_
+21	ربما	rub~amA_1	_	_	ADV	_	_	_	_
+22	هذا	h`*A_1	_	_	PRO;MASC;SG;NOM	_	_	_	_
+23	الأهم	>aham~_2	_	_	NOM;ADJ;DEF	_	_	_	_
+24	ـ	__0	_	_	_	_	_	_	_
+25	على	EalaY_1	_	_	ADP	_	_	_	_
+26	الخطاب	xiTAb_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+27	السياسي	siyAsiy~_1	_	_	GEN;DEF;MASC;SG;ADJ	_	_	_	_
+28	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = n01067
+# sent_id = n01067023
+# text = كما عرضت لأول مرة خرائط خاصة بوزارة الدفاع البريطانية التي تخيلت معارك الحرب الباردة والتي كانت تستخدم في امتحانات الكلية الحربية.
+# original_text = كما عرضت لأول مرة خرائط خاصة بوزارة الدفاع البريطانية التي تخيلت معارك الحرب الباردة والتي كانت تستخدم في امتحانات الكلية الحربية.
+# text_en = Also being exhibited for the first time are British Ministry of Defence maps which imagine cold war battles and which were used in military college exams.
+1	كما	kamA_1	_	_	PART	_	_	_	_
+2	عرضت	EaraD-i_1	_	_	PFV;PST;PASS;V;SG;3;FEM	_	_	_	_
+3	ل	l	_	_	ADP	_	_	_	_
+4	أول	>aw~al_2	_	_	ADJ;GEN;INDF	_	_	_	_
+5	مرة	mar~ap_1	_	_	NHUM;GEN;SG;N;FEM;INDF	_	_	_	_
+6	خرائط	xariyTap_1	_	_	PL;FEM;NOM;ADJ;INDF	_	_	_	_
+7	خاصة	xAS~_1	_	_	V.PTCP;ACT;SG;FEM;NOM;ADJ;INDF	_	_	_	_
+8	ب	b	_	_	ADP	_	_	_	_
+9	وزارة	wizArap_1	_	_	NHUM;GEN;DEF;SG;PROPN;FEM	_	_	_	_
+10	الدفاع	difAE_1	_	_	NHUM;GEN;DEF;MASC;SG;PROPN	_	_	_	_
+11	البريطانية	briyTAniy~_1	_	_	GEN;DEF;SG;ADJ;FEM	_	_	_	_
+12	التي	Al~a*iy_1	_	_	PRO;SG;FEM;GEN	_	_	_	_
+13	تخيلت	taxay~al_1	_	_	PFV;PST;ACT;V;SG;3;FEM	_	_	_	_
+14	معارك	maEorakap_1	_	_	NHUM;ACC;PL;DEF;N;FEM	_	_	_	_
+15	الحرب	Harob_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+16	الباردة	bArid_1	_	_	GEN;DEF;SG;ADJ;FEM	_	_	_	_
+17	و	w	_	_	CONJ	_	_	_	_
+18	التي	Al~a*iy_1	_	_	PRO;SG;FEM;GEN	_	_	_	_
+19	كانت	kAn-u_1	_	_	PFV;PST;ACT;V;SG;3;FEM	_	_	_	_
+20	تستخدم	{isotaxodam_1	_	_	PRS;PASS;IPFV;V;IND;SG;3;FEM	_	_	_	_
+21	في	fiy_1	_	_	ADP	_	_	_	_
+22	امتحانات	{imotiHAn_1	_	_	NHUM;PL;GEN;DEF;MASC;N	_	_	_	_
+23	الكلية	kul~iy~ap_1	_	_	NHUM;GEN;DEF;SG;PROPN;FEM	_	_	_	_
+24	الحربية	Harobiy~_1	_	_	GEN;DEF;SG;ADJ;FEM	_	_	_	_
+25	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = w01033
+# sent_id = w01033067
+# text = من المحتمل أن مثل هذه المستوطنات بدأت عام 1000 ق.ب تقريباً, عندما توجه الميلانيزيون شمالاً.
+# original_text = من المحتمل أن مثل هذه المستوطنات بدأت عام 1000 ق.ب تقريبا, عندما توجه الميلانيزيون شمالا.
+# text_en = Such settlements probably began around 1000 BC, when eastern Melanesians travelled north.
+1	من	min_1	_	_	ADP	_	_	_	_
+2	المحتمل	muHotamal_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+3	أن	>an~a_1	_	_	CONJ	_	_	_	_
+4	مثل	mivol_1	_	_	ADP	_	_	_	_
+5	هذه	h`*A_1	_	_	PRO;SG;FEM;GEN	_	_	_	_
+6	المستوطنات	musotawoTanap_1	_	_	NHUM;PL;GEN;DEF;MASC;N	_	_	_	_
+7	بدأت	bada>-a_1	_	_	PFV;PST;ACT;V;SG;3;FEM	_	_	_	_
+8	عام	EAm_1	_	_	ADV	_	_	_	_
+9	1000	1000_0	_	_	NUM;GEN	_	_	_	_
+10	ق	q_1	_	_	ADP	_	_	_	_
+11	.	._0	_	_	_	_	_	_	_
+12	ب	bi_1	_	_	N;INDF	_	_	_	_
+13	تقريباً	taqoriyb_1	_	_	ADV	_	_	_	_
+14	,	,_0	_	_	_	_	_	_	_
+15	عندما	Einod_1	_	_	ADP	_	_	_	_
+16	توجه	tawaj~ah_1	_	_	PFV;PST;ACT;V;MASC;SG;3	_	_	_	_
+17	الميلانيزيون	mylAnyzywn_0	_	_	PL;DEF;MASC;N;HUM;NOM	_	_	_	_
+18	شمالاً	$amAl_1	_	_	ADV	_	_	_	_
+19	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = n02032
+# sent_id = n02032022
+# text = من وجهة النظر هذه, فإن البنى الفاسدة والنخب القانعة هي سبب تردي أوضاع النظام الصحي والتعليم والتجارة الخارجية في الولايات المتحدة الأمريكية.
+# original_text = من وجهة النظر هذه, فإن البنى الفاسدة والنخب القانعة هي سبب تردي أوضاع النظام الصحي والتعليم والتجارة الخارجية في الولايات المتحدة الأمريكية.
+# text_en = From this point of view, stale structures and a self-satisfied elite are the reason why the health system, education and foreign trade in the USA is in such bad shape.
+1	من	min_1	_	_	ADP	_	_	_	_
+2	وجهة	wijohap_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+3	النظر	naZar_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+4	هذه	h`*A_1	_	_	PRO;SG;FEM;GEN	_	_	_	_
+5	,	,_0	_	_	_	_	_	_	_
+6	ف	f	_	_	PART	_	_	_	_
+7	إن	<in~a_1	_	_	PART	_	_	_	_
+8	البنى	bin_1	_	_	NHUM;ACC;DEF;SG;N;FEM	_	_	_	_
+9	الفاسدة	fAsid_1	_	_	ACC;DEF;SG;FEM;ADJ	_	_	_	_
+10	و	w	_	_	CONJ	_	_	_	_
+11	النخب	nuxobap_1	_	_	NHUM;ACC;PL;DEF;N;FEM	_	_	_	_
+12	القانعة	qAniE_1	_	_	ACC;DEF;SG;FEM;ADJ	_	_	_	_
+13	هي	hiya_1	_	_	PRO;SG;3;FEM	_	_	_	_
+14	سبب	sabab_1	_	_	NHUM;DEF;MASC;SG;N;NOM	_	_	_	_
+15	تردي	tarad~iy_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+16	أوضاع	waDoE_2	_	_	NHUM;PL;GEN;DEF;MASC;N	_	_	_	_
+17	النظام	niZAm_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+18	الصحي	SiH~iy~_1	_	_	GEN;DEF;MASC;SG;ADJ	_	_	_	_
+19	و	w	_	_	CONJ	_	_	_	_
+20	التعليم	taEoliym_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+21	و	w	_	_	CONJ	_	_	_	_
+22	التجارة	tijArap_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+23	الخارجية	xArijiy~_1	_	_	GEN;DEF;SG;ADJ;FEM	_	_	_	_
+24	في	fiy_1	_	_	ADP	_	_	_	_
+25	الولايات	wilAyap_1	_	_	NHUM;PL;GEN;DEF;PROPN;FEM	_	_	_	_
+26	المتحدة	mut~aHid_1	_	_	GEN;DEF;SG;ADJ;FEM	_	_	_	_
+27	الأمريكية	>amoriykiy~_1	_	_	GEN;DEF;SG;ADJ;FEM	_	_	_	_
+28	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = w01069
+# sent_id = w01069094
+# text = تسبب صراعها ضد الإمبراطورية العثمانية في البحر المتوسط بتقييدٍ كبيرٍ للقوة العسكرية التي كان يمكن توجييها ضد المتمردين في هولندا.
+# original_text = تسبب صراعها ضد الإمبراطورية العثمانية في البحر المتوسط بتقييد كبير للقوة العسكرية التي كان يمكن توجييها ضد المتمردين في هولندا.
+# text_en = Its struggle against the Ottoman Empire in the Mediterranean Sea put serious limits on the military power it could deploy against the rebels in the Netherlands.
+1	تسبب	tasab~ab_1	_	_	PFV;PST;ACT;V;MASC;SG;3	_	_	_	_
+2	صراع	SirAE_1	_	_	NHUM;DEF;MASC;SG;N;NOM	_	_	_	_
+3	ها	hA	_	_	GEN;SG;PRO;3;FEM	_	_	_	_
+4	ضد	Did~_1	_	_	ADP	_	_	_	_
+5	الإمبراطورية	<imobirATuwriy~ap_1	_	_	NHUM;GEN;DEF;SG;PROPN;FEM	_	_	_	_
+6	العثمانية	EuvomAniy~_1	_	_	GEN;DEF;SG;ADJ;FEM	_	_	_	_
+7	في	fiy_1	_	_	ADP	_	_	_	_
+8	البحر	baHor_1	_	_	NHUM;GEN;DEF;MASC;SG;PROPN	_	_	_	_
+9	المتوسط	mutawas~iT_1	_	_	GEN;DEF;MASC;SG;ADJ	_	_	_	_
+10	ب	b	_	_	ADP	_	_	_	_
+11	تقييدٍ	taqoyiyd_1	_	_	NHUM;GEN;MASC;SG;N;INDF	_	_	_	_
+12	كبيرٍ	kabiyr_1	_	_	GEN;MASC;SG;ADJ;INDF	_	_	_	_
+13	ل	l	_	_	ADP	_	_	_	_
+14	لقوة	quw~ap_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+15	العسكرية	Easokariy~_1	_	_	GEN;DEF;SG;ADJ;FEM	_	_	_	_
+16	التي	Al~a*iy_1	_	_	PRO;SG;FEM;GEN	_	_	_	_
+17	كان	kAn-u_1	_	_	PFV;PST;ACT;V;MASC;SG;3	_	_	_	_
+18	يمكن	>amokan_1	_	_	ACT;IPFV;V;MASC;IND;SG;3;PRS	_	_	_	_
+19	توجيي	wajiyh_1	_	_	NHUM;DEF;MASC;SG;N;NOM	_	_	_	_
+20	ها	hA	_	_	GEN;SG;PRO;3;FEM	_	_	_	_
+21	ضد	Did~_1	_	_	ADP	_	_	_	_
+22	المتمردين	mutamar~id_1	_	_	PL;GEN;DEF;MASC;N;HUM	_	_	_	_
+23	في	fiy_1	_	_	ADP	_	_	_	_
+24	هولندا	huwlAnodA_1	_	_	PROPN;NHUM;FEM;SG	_	_	_	_
+25	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = n01096
+# sent_id = n01096040
+# text = لكن يمكنهم على الأقل وضع شراك خادعة للردع والتشويش, وهذا مفهومٌ يعرف باسم "الدفاع النشط".
+# original_text = لكن يمكنهم على الأقل وضع شراك خادعة للردع والتشويش, وهذا مفهوم يعرف باسم "الدفاع النشط".
+# text_en = But they can at least lay booby-traps to confuse and deter – a concept known as “active defence”.
+1	لكن	l`kin~a_1	_	_	PART	_	_	_	_
+2	يمكن	>amokan_1	_	_	ACT;IPFV;V;MASC;IND;SG;3;PRS	_	_	_	_
+3	هم	hm	_	_	ACC;PL;MASC;PRO;3	_	_	_	_
+4	على	EalaY_1	_	_	ADP	_	_	_	_
+5	الأقل	>aqal~_2	_	_	GEN;DEF;MASC;SG;ADJ	_	_	_	_
+6	وضع	waDoE_1	_	_	NHUM;MASC;SG;N;NOM;INDF	_	_	_	_
+7	شراك	$iraY_1	_	_	NHUM;PL;GEN;N;FEM;INDF	_	_	_	_
+8	خادعة	xAdiE_1	_	_	GEN;SG;ADJ;FEM;INDF	_	_	_	_
+9	ل	l	_	_	ADP	_	_	_	_
+10	لردع	radoE_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+11	و	w	_	_	CONJ	_	_	_	_
+12	التشويش	ta$owiy$_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+13	,	,_0	_	_	_	_	_	_	_
+14	و	w	_	_	CONJ	_	_	_	_
+15	هذا	h`*A_1	_	_	PRO;MASC;SG;NOM	_	_	_	_
+16	مفهومٌ	mafohuwm_2	_	_	NHUM;MASC;SG;N;NOM;INDF	_	_	_	_
+17	يعرف	Earaf-i_1	_	_	PASS;IPFV;V;MASC;IND;SG;3;PRS	_	_	_	_
+18	ب	b	_	_	ADP	_	_	_	_
+19	اسم	{isom_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+20	"	"_0	_	_	_	_	_	_	_
+21	الدفاع	difAE_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+22	النشط	na$iT_1	_	_	GEN;DEF;MASC;SG;ADJ	_	_	_	_
+23	"	"_0	_	_	_	_	_	_	_
+24	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = w05005
+# sent_id = w05005085
+# text = الهنود الحمر الذين وصلوا من كندا, بقيادة جوزيف برانت, دعموا البريطانيين لأن المستعمرين كانوا يصادرون المزيد والمزيد من أراضيهم.
+# original_text = الهنود الحمر الذين وصلوا من كندا, بقيادة جوزيف برانت, دعموا البريطانيين لأن المستعمرين كانوا يصادرون المزيد والمزيد من أراضيهم.
+# text_en = Indians arrived from Canada, led by Joseph Brant; they supported the British because the colonists were expropriating more and more of their lands.
+1	الهنود	hinodiy~_1	_	_	PL;DEF;MASC;N;HUM;NOM	_	_	_	_
+2	الحمر	>aHomar_1	_	_	PL;DEF;MASC;NOM;ADJ	_	_	_	_
+3	الذين	Al~a*iy_1	_	_	PRO;MASC;PL;NOM	_	_	_	_
+4	وصلوا	waSal-i_1	_	_	PFV;PST;ACT;PL;V;MASC;3	_	_	_	_
+5	من	min_1	_	_	ADP	_	_	_	_
+6	كندا	kanadA_1	_	_	PROPN;NHUM;FEM;SG	_	_	_	_
+7	,	,_0	_	_	_	_	_	_	_
+8	ب	b	_	_	ADP	_	_	_	_
+9	قيادة	qiyAdap_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+10	جوزيف	juwziyf_1	_	_	MASC;PROPN;HUM;SG	_	_	_	_
+11	برانت	brAnt_0	_	_	MASC;PROPN;HUM;SG	_	_	_	_
+12	,	,_0	_	_	_	_	_	_	_
+13	دعموا	daE~am_1	_	_	PFV;PST;ACT;PL;V;MASC;3	_	_	_	_
+14	البريطانيين	briyTAniy~_1	_	_	ACC;PL;DEF;MASC;N;HUM	_	_	_	_
+15	ل	l	_	_	ADP	_	_	_	_
+16	أن	>an~a_1	_	_	CONJ	_	_	_	_
+17	المستعمرين	musotaEomir_1	_	_	ACC;PL;DEF;MASC;N;HUM	_	_	_	_
+18	كانوا	kAn-u_1	_	_	PFV;PST;ACT;PL;V;MASC;3	_	_	_	_
+19	يصادرون	SAdar_1	_	_	ACT;IPFV;V;PL;MASC;IND;3;PRS	_	_	_	_
+20	المزيد	maziyd_1	_	_	NHUM;ACC;DEF;MASC;SG;N	_	_	_	_
+21	و	w	_	_	CONJ	_	_	_	_
+22	المزيد	maziyd_1	_	_	NHUM;ACC;DEF;MASC;SG;N	_	_	_	_
+23	من	min_1	_	_	ADP	_	_	_	_
+24	أراضي	>aroD_1	_	_	NHUM;PL;GEN;DEF;N;FEM	_	_	_	_
+25	هم	hm	_	_	PL;GEN;MASC;PRO;3	_	_	_	_
+26	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = w01005
+# sent_id = w01005021
+# text = غزت القوات الأخمينية تراقيا والمدن الإغريقية الساحلية والبايونيين.
+# original_text = غزت القوات الأخمينية تراقيا والمدن الإغريقية الساحلية والبايونيين.
+# text_en = The Achaemenid troops conquered Thrace, the coastal Greek cities, and the Paeonians.
+1	غزت	gazA-u_1	_	_	PFV;PST;ACT;V;SG;3;FEM	_	_	_	_
+2	القوات	quw~ap_1	_	_	NHUM;PL;DEF;N;NOM;FEM	_	_	_	_
+3	الأخمينية	Axmynyh_0	_	_	DEF;SG;FEM;NOM;ADJ	_	_	_	_
+4	تراقيا	rAqiy_1	_	_	PROPN;NHUM;FEM;SG	_	_	_	_
+5	و	w	_	_	CONJ	_	_	_	_
+6	المدن	madiynap_1	_	_	NHUM;ACC;PL;DEF;N;FEM	_	_	_	_
+7	الإغريقية	<igoriyqiy~_2	_	_	ACC;DEF;SG;FEM;ADJ	_	_	_	_
+8	الساحلية	sAHiliy~_1	_	_	ACC;DEF;SG;FEM;ADJ	_	_	_	_
+9	و	w	_	_	CONJ	_	_	_	_
+10	البايونيين	AlbAywnyyn_0	_	_	ACC;PL;DEF;MASC;N;HUM	_	_	_	_
+11	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = w05003
+# sent_id = w05003012
+# text = مع ذلك, أثار الانفصال بينه وبين ليناريس ووقف الخط التقدمي ثورة الحقوق التي أطاحت به عام 1879.
+# original_text = مع ذلك, أثار الانفصال بينه وبين ليناريس ووقف الخط التقدمي ثورة الحقوق التي أطاحت به عام 1879.
+# text_en = However, the breakdown between him and Linares and the discontinuation of the progressive line provoked the Revolution of Vindication which overthrew him in 1879.
+1	مع	maE_1	_	_	ADP	_	_	_	_
+2	ذلك	*`lika_1	_	_	PRO;MASC;SG;GEN	_	_	_	_
+3	,	,_0	_	_	_	_	_	_	_
+4	أثار	>avAr_1	_	_	PFV;PST;ACT;V;MASC;SG;3	_	_	_	_
+5	الانفصال	{inofiSAl_1	_	_	NHUM;DEF;MASC;SG;N;NOM	_	_	_	_
+6	بين	bayona_1	_	_	ADP	_	_	_	_
+7	ه	h	_	_	GEN;MASC;SG;PRO;3	_	_	_	_
+8	و	w	_	_	CONJ	_	_	_	_
+9	بين	bayona_1	_	_	ADP	_	_	_	_
+10	ليناريس	lynArys_0	_	_	MASC;PROPN;HUM;SG	_	_	_	_
+11	و	w	_	_	CONJ	_	_	_	_
+12	وقف	waqof_1	_	_	NHUM;DEF;MASC;SG;N;NOM	_	_	_	_
+13	الخط	xaT~_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+14	التقدمي	taqad~umiy~_1	_	_	GEN;DEF;MASC;SG;ADJ	_	_	_	_
+15	ثورة	vaworap_1	_	_	NHUM;ACC;DEF;SG;N;FEM	_	_	_	_
+16	الحقوق	Haq~_1	_	_	NHUM;PL;GEN;DEF;MASC;N	_	_	_	_
+17	التي	Al~a*iy_1	_	_	PRO;SG;ACC;FEM	_	_	_	_
+18	أطاحت	>aTAH_1	_	_	PFV;PST;ACT;V;SG;3;FEM	_	_	_	_
+19	ب	bi_1	_	_	ADP	_	_	_	_
+20	ه	h	_	_	GEN;MASC;SG;PRO;3	_	_	_	_
+21	عام	EAm_1	_	_	ADV	_	_	_	_
+22	1879	1879_0	_	_	NUM;GEN	_	_	_	_
+23	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = w01134
+# sent_id = w01134078
+# text = اعتنق ميشيما شعاراً شديد التفرد في القومية قبيل نهاية حياته.
+# original_text = اعتنق ميشيما شعارا شديد التفرد في القومية قبيل نهاية حياته.
+# text_en = Mishima espoused a very individual brand of nationalism towards the end of his life.
+1	اعتنق	{iEotanaq_1	_	_	PFV;PST;ACT;V;MASC;SG;3	_	_	_	_
+2	ميشيما	my$ymA_0	_	_	MASC;PROPN;HUM;SG	_	_	_	_
+3	شعاراً	$iEAr_1	_	_	NHUM;ACC;MASC;SG;N;INDF	_	_	_	_
+4	شديد	$adiyd_1	_	_	ACC;MASC;SG;ADJ;INDF	_	_	_	_
+5	التفرد	tafar~ud_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+6	في	fiy_1	_	_	ADP	_	_	_	_
+7	القومية	qawomiy~_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+8	قبيل	qubayol_1	_	_	ADP	_	_	_	_
+9	نهاية	nihAyap_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+10	حيات	HayAp_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+11	ه	h	_	_	GEN;MASC;SG;PRO;3	_	_	_	_
+12	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = w02006
+# sent_id = w02006036
+# text = منذ الستينيات, يشهد اقتصاد المدينة انخفاضاً حاداً.
+# original_text = منذ الستينيات, يشهد اقتصاد المدينة انخفاضا حادا.
+# text_en = Since the 1960s, the city's economy has been in steep decline.
+1	منذ	muno*u_1	_	_	ADP	_	_	_	_
+2	الستينيات	sit~iyniy~_1	_	_	NHUM;PL;GEN;DEF;N;FEM	_	_	_	_
+3	,	,_0	_	_	_	_	_	_	_
+4	يشهد	$ahid-a_1	_	_	ACT;IPFV;V;MASC;IND;SG;3;PRS	_	_	_	_
+5	اقتصاد	{iqotiSAd_1	_	_	NHUM;DEF;MASC;SG;N;NOM	_	_	_	_
+6	المدينة	madiynap_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+7	انخفاضاً	{inoxifAD_1	_	_	NHUM;ACC;MASC;SG;N;INDF	_	_	_	_
+8	حاداً	HAd~_2	_	_	ACC;MASC;SG;ADJ;INDF	_	_	_	_
+9	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = n05007
+# sent_id = n05007006
+# text = هو يعتقد أن لا أحد ينتظرنا ينتظرنا.
+# original_text = هو يعتقد أن لا أحد ينتظرنا ينتظرنا.
+# text_en = He believes that nobody waiting for us waits for us.
+1	هو	huwa_1	_	_	MASC;SG;NOM;PRO;3	_	_	_	_
+2	يعتقد	{iEotaqad_1	_	_	ACT;IPFV;V;MASC;IND;SG;3;PRS	_	_	_	_
+3	أن	>an~a_1	_	_	CONJ	_	_	_	_
+4	لا	lA_3	_	_	NEG;PART	_	_	_	_
+5	أحد	>aHad_1	_	_	ACC;MASC;SG;N;HUM;INDF	_	_	_	_
+6	ينتظر	{inotaZar_1	_	_	ACT;IPFV;V;MASC;IND;SG;3;PRS	_	_	_	_
+7	نا	nA	_	_	PRO;ACC;PL;1	_	_	_	_
+8	ينتظر	{inotaZar_1	_	_	ACT;IPFV;V;MASC;IND;SG;3;PRS	_	_	_	_
+9	نا	nA	_	_	PRO;ACC;PL;1	_	_	_	_
+10	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = n01024
+# sent_id = n01024013
+# text = تقدم النتائج المستخلصة من هذه التجربة تأكيداً إضافياً على أنه يمكن نقل البذور الصاروخية وتخزينها في المحطة الفضائية الدولية لمدة ستة أشهر من دون أن يكون لذلك أي تأثيرات كبيرة على قدرتها على الإنبات والنمو على الأرض.
+# original_text = تقدم النتائج المستخلصة من هذه التجربة تأكيدا إضافيا على أنه يمكن نقل البذور الصاروخية وتخزينها في المحطة الفضائية الدولية لمدة ستة أشهر من دون أن يكون لذلك أي تأثيرات كبيرة على قدرتها على الإنبات والنمو على الأرض.
+# text_en = The results from this experiment provides further support that rocket seeds can be flown and stored on the International Space Station for six months without having any significant impacts on their ability to germinate and grow on Earth.
+1	تقدم	taqad~am_1	_	_	PRS;ACT;IPFV;V;IND;SG;3;FEM	_	_	_	_
+2	النتائج	natiyjap_1	_	_	NHUM;PL;DEF;N;NOM;FEM	_	_	_	_
+3	المستخلصة	musotaxolaS_1	_	_	V.PTCP;PASS;DEF;SG;N;NOM;FEM	_	_	_	_
+4	من	min_1	_	_	ADP	_	_	_	_
+5	هذه	h`*A_1	_	_	PRO;SG;FEM;GEN	_	_	_	_
+6	التجربة	tajoribap_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+7	تأكيداً	ta>okiyd_1	_	_	NHUM;ACC;MASC;SG;N;INDF	_	_	_	_
+8	إضافياً	<iDAfiy~_1	_	_	ACC;MASC;SG;ADJ;INDF	_	_	_	_
+9	على	EalaY_1	_	_	ADP	_	_	_	_
+10	أن	>an~a_1	_	_	CONJ	_	_	_	_
+11	ه	h	_	_	PRO	_	_	_	_
+12	يمكن	>amokan_1	_	_	ACT;IPFV;V;MASC;IND;SG;3;PRS	_	_	_	_
+13	نقل	naqol_1	_	_	NHUM;DEF;MASC;SG;N;NOM	_	_	_	_
+14	البذور	ba*or_2	_	_	NHUM;PL;GEN;DEF;N;FEM	_	_	_	_
+15	الصاروخية	SAruwxiy~_1	_	_	GEN;DEF;SG;ADJ;FEM	_	_	_	_
+16	و	w	_	_	CONJ	_	_	_	_
+17	تخزين	taxoziyn_1	_	_	NHUM;DEF;MASC;SG;N;NOM	_	_	_	_
+18	ها	hA	_	_	GEN;SG;PRO;3;FEM	_	_	_	_
+19	في	fiy_1	_	_	ADP	_	_	_	_
+20	المحطة	maHaT~ap_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+21	الفضائية	faDA}iy~_1	_	_	GEN;DEF;SG;ADJ;FEM	_	_	_	_
+22	الدولية	duwaliy~_1	_	_	GEN;DEF;SG;ADJ;FEM	_	_	_	_
+23	ل	l	_	_	ADP	_	_	_	_
+24	مدة	mud~ap_1	_	_	NHUM;GEN;SG;N;FEM;INDF	_	_	_	_
+25	ستة	sit~_1	_	_	PL;NUM;FEM;GEN	_	_	_	_
+26	أشهر	$ahor_1	_	_	NHUM;PL;GEN;MASC;N;INDF	_	_	_	_
+27	من	min_1	_	_	ADP	_	_	_	_
+28	دون	duwn_1	_	_	ADP	_	_	_	_
+29	أن	>ano_1	_	_	ADP	_	_	_	_
+30	يكون	kAn-u_1	_	_	SBJV;ACT;IPFV;V;MASC;SG;3;PRS	_	_	_	_
+31	ل	l	_	_	ADP	_	_	_	_
+32	ذلك	*`lika_1	_	_	PRO;MASC;SG;GEN	_	_	_	_
+33	أي	>ay~_1	_	_	DET;NOM	_	_	_	_
+34	تأثيرات	ta>oviyr_1	_	_	NHUM;PL;GEN;MASC;N;INDF	_	_	_	_
+35	كبيرة	kabiyr_1	_	_	GEN;SG;ADJ;FEM;INDF	_	_	_	_
+36	على	EalaY_1	_	_	ADP	_	_	_	_
+37	قدرت	qudorap_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+38	ها	hA	_	_	GEN;SG;PRO;3;FEM	_	_	_	_
+39	على	EalaY_1	_	_	ADP	_	_	_	_
+40	الإنبات	AnbAt_0	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+41	و	w	_	_	CONJ	_	_	_	_
+42	النمو	numuw~_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+43	على	EalaY_1	_	_	ADP	_	_	_	_
+44	الأرض	>aroD_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+45	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = w02011
+# sent_id = w02011029
+# text = أعلن نهاية أول ألعاب أولمبية دولية.
+# original_text = أعلن نهاية أول ألعاب أولمبية دولية.
+# text_en = I declare the first international Olympic games over.
+1	أعلن	>aEolan_1	_	_	PFV;PST;PASS;V;MASC;SG;3	_	_	_	_
+2	نهاية	nihAyap_1	_	_	NHUM;SG;N;NOM;FEM;INDF	_	_	_	_
+3	أول	>aw~al_2	_	_	ADJ;GEN;INDF	_	_	_	_
+4	ألعاب	laEob_1	_	_	NHUM;PL;GEN;N;FEM;INDF	_	_	_	_
+5	أولمبية	>uwlimobiy~_1	_	_	GEN;SG;ADJ;FEM;INDF	_	_	_	_
+6	دولية	duwaliy~_1	_	_	GEN;SG;ADJ;FEM;INDF	_	_	_	_
+7	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = w04004
+# sent_id = w04004005
+# text = الجزء الداخلي من المنطقة مسطح ومليء بالتلال, بحيث لا يمكن تمييز جزءٍ عن آخر.
+# original_text = الجزء الداخلي من المنطقة مسطح ومليء بالتلال, بحيث لا يمكن تمييز جزء عن آخر.
+# text_en = The inner part of the region is flat and hilly, with no clear distinction between one area to the next.
+1	الجزء	juzo'_1	_	_	NHUM;DEF;MASC;SG;N;NOM	_	_	_	_
+2	الداخلي	dAxiliy~_1	_	_	DEF;MASC;SG;NOM;ADJ	_	_	_	_
+3	من	min_1	_	_	ADP	_	_	_	_
+4	المنطقة	minoTaqap_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+5	مسطح	musaT~aH_1	_	_	MASC;SG;NOM;ADJ;INDF	_	_	_	_
+6	و	w	_	_	CONJ	_	_	_	_
+7	مليء	maliy'_1	_	_	ACT;MASC;SG;NOM;ADJ;INDF	_	_	_	_
+8	ب	b	_	_	ADP	_	_	_	_
+9	التلال	tal~_2	_	_	NHUM;PL;GEN;DEF;MASC;N	_	_	_	_
+10	,	,_0	_	_	_	_	_	_	_
+11	ب	b	_	_	ADP	_	_	_	_
+12	حيث	Hayovu_1	_	_	ADP	_	_	_	_
+13	لا	lA_1	_	_	NEG;PART	_	_	_	_
+14	يمكن	>amokan_1	_	_	ACT;IPFV;V;MASC;IND;SG;3;PRS	_	_	_	_
+15	تمييز	tamoyiyz_1	_	_	NHUM;MASC;SG;N;NOM;INDF	_	_	_	_
+16	جزءٍ	juzo'_1	_	_	NHUM;GEN;MASC;SG;N;INDF	_	_	_	_
+17	عن	Ean_1	_	_	ADP	_	_	_	_
+18	آخر	|xar_1	_	_	GEN;MASC;SG;ADJ;INDF	_	_	_	_
+19	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = w01067
+# sent_id = w01067032
+# text = بالإضافة إلى ذلك, عزز الدفاعات بين مصر وآسيا, مشيداً أسوار الحاكم في منطقة شرق الدلتا.
+# original_text = بالإضافة إلى ذلك, عزز الدفاعات بين مصر وآسيا, مشيدا أسوار الحاكم في منطقة شرق الدلتا.
+# text_en = In addition, he strengthened defenses between Egypt and Asia, building the Walls of the Ruler in the East Delta region.
+1	ب	b	_	_	ADP	_	_	_	_
+2	الإضافة	<iDAfap_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+3	إلى	<ilaY_1	_	_	ADP	_	_	_	_
+4	ذلك	*`lika_1	_	_	PRO;MASC;SG;GEN	_	_	_	_
+5	,	,_0	_	_	_	_	_	_	_
+6	عزز	Eaz~az_1	_	_	PFV;PST;ACT;V;MASC;SG;3	_	_	_	_
+7	الدفاعات	daf~AE_1	_	_	NHUM;ACC;PL;DEF;MASC;N	_	_	_	_
+8	بين	bayona_1	_	_	ADP	_	_	_	_
+9	مصر	miSor_1	_	_	NHUM;GEN;SG;PROPN;FEM	_	_	_	_
+10	و	w	_	_	CONJ	_	_	_	_
+11	آسيا	>asoyA_1	_	_	PROPN;NHUM;FEM;SG	_	_	_	_
+12	,	,_0	_	_	_	_	_	_	_
+13	مشيداً	mu$ay~id_1	_	_	V.PTCP;ACT;ACC;MASC;SG;N;INDF	_	_	_	_
+14	أسوار	suwr_1	_	_	NHUM;ACC;PL;DEF;MASC;N	_	_	_	_
+15	الحاكم	HAkim_1	_	_	GEN;DEF;MASC;SG;N;HUM	_	_	_	_
+16	في	fiy_1	_	_	ADP	_	_	_	_
+17	منطقة	minoTaqap_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+18	شرق	$aroq_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+19	الدلتا	dilotA_1	_	_	NHUM;GEN;SG;PROPN;FEM	_	_	_	_
+20	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = w03001
+# sent_id = w03001037
+# text = تضم منطقتا فيغييه ولا كونت غالبية المساكن الاجتماعية في المدينة, حيث يتشكل السكان بشكلٍ أساسي من المهاجرين أو من أبناء المهاجرين.
+# original_text = تضم منطقتا فيغييه ولا كونت غالبية المساكن الاجتماعية في المدينة, حيث يتشكل السكان بشكل أساسي من المهاجرين أو من أبناء المهاجرين.
+# text_en = The Viguier and La Conte districts contain the majority of the city's social housing, where the population is mainly made up of immigrants or those of immigrant origin.
+1	تضم	Dam~-u_1	_	_	PRS;ACT;IPFV;V;IND;SG;3;FEM	_	_	_	_
+2	منطقتا	minoTaqap_1	_	_	DU;NHUM;DEF;N;NOM;FEM	_	_	_	_
+3	فيغييه	fygyyh_0	_	_	PROPN;NHUM;FEM;SG	_	_	_	_
+4	و	w	_	_	CONJ	_	_	_	_
+5	لا	lA_1	_	_	PROPN;NHUM	_	_	_	_
+6	كونت	kaw~an_1	_	_	MASC;PROPN;NHUM;SG	_	_	_	_
+7	غالبية	gAlibiy~ap_1	_	_	DET;ACC	_	_	_	_
+8	المساكن	masokan_1	_	_	NHUM;PL;GEN;DEF;MASC;N	_	_	_	_
+9	الاجتماعية	{ijotimAEiy~_1	_	_	GEN;DEF;SG;ADJ;FEM	_	_	_	_
+10	في	fiy_1	_	_	ADP	_	_	_	_
+11	المدينة	madiynap_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+12	,	,_0	_	_	_	_	_	_	_
+13	حيث	Hayovu_1	_	_	ADP	_	_	_	_
+14	يتشكل	ta$ak~al_1	_	_	ACT;IPFV;V;MASC;IND;SG;3;PRS	_	_	_	_
+15	السكان	sAkin_1	_	_	PL;GEN;DEF;MASC;N;HUM	_	_	_	_
+16	ب	b	_	_	ADP	_	_	_	_
+17	شكلٍ	$akol_1	_	_	NHUM;GEN;MASC;SG;N;INDF	_	_	_	_
+18	أساسي	>asAsiy~_1	_	_	GEN;MASC;SG;ADJ;INDF	_	_	_	_
+19	من	min_1	_	_	ADP	_	_	_	_
+20	المهاجرين	muhAjir_1	_	_	PL;GEN;DEF;MASC;N;HUM	_	_	_	_
+21	أو	>awo_1	_	_	CONJ	_	_	_	_
+22	من	min_1	_	_	ADP	_	_	_	_
+23	أبناء	{ibon_1	_	_	PL;GEN;DEF;MASC;N;HUM	_	_	_	_
+24	المهاجرين	muhAjir_1	_	_	PL;GEN;DEF;MASC;N;HUM	_	_	_	_
+25	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = w05010
+# sent_id = w05010027
+# text = في 1 كانون الثاني من عام 49 ق.م, قرأ مارك أنطونيو تصريحاً من قيصر يعلن فيه الحاكم نفسه صديقاً للسلام.
+# original_text = في 1 كانون الثاني من عام 49 ق.م, قرأ مارك أنطونيو تصريحا من قيصر يعلن فيه الحاكم نفسه صديقا للسلام.
+# text_en = On the 1st January 49 BC, Marco Antonio read a declaration from Caesar in which the proconsul declared himself a friend of peace.
+1	في	fiy_1	_	_	ADP	_	_	_	_
+2	1	1_0	_	_	NUM	_	_	_	_
+3	كانون	kAnuwn_2	_	_	NHUM;GEN;MASC;SG;PROPN	_	_	_	_
+4	الثاني	vAniy_1	_	_	GEN;DEF;MASC;SG;ADJ	_	_	_	_
+5	من	min_1	_	_	ADP	_	_	_	_
+6	عام	EAm_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+7	49	49_0	_	_	NUM	_	_	_	_
+8	ق	q_1	_	_	ADP	_	_	_	_
+9	.	._0	_	_	_	_	_	_	_
+10	م	m_1	_	_	N;DEF	_	_	_	_
+11	,	,_0	_	_	_	_	_	_	_
+12	قرأ	qara>-a_1	_	_	PFV;PST;ACT;V;MASC;SG;3	_	_	_	_
+13	مارك	mArok_1	_	_	MASC;PROPN;HUM;SG	_	_	_	_
+14	أنطونيو	>anoTuwniyuw_1	_	_	MASC;PROPN;HUM;SG	_	_	_	_
+15	تصريحاً	taSoriyH_1	_	_	NHUM;ACC;MASC;SG;N;INDF	_	_	_	_
+16	من	min_1	_	_	ADP	_	_	_	_
+17	قيصر	qayoSar_2	_	_	GEN;MASC;SG;HUM;PROPN	_	_	_	_
+18	يعلن	>aEolan_1	_	_	ACT;V;IPFV;MASC;SG;IND;3;PRS	_	_	_	_
+19	في	fiy_1	_	_	ADP	_	_	_	_
+20	ه	h	_	_	GEN;MASC;SG;PRO;3	_	_	_	_
+21	الحاكم	HAkim_1	_	_	DEF;MASC;SG;N;HUM;NOM	_	_	_	_
+22	نفس	nafos_1	_	_	NHUM;ACC;DEF;SG;N;FEM	_	_	_	_
+23	ه	h	_	_	GEN;MASC;SG;PRO;3	_	_	_	_
+24	صديقاً	Sadiyq_1	_	_	ACC;MASC;SG;N;HUM;INDF	_	_	_	_
+25	ل	l	_	_	ADP	_	_	_	_
+26	لسلام	salAm_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+27	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = n04009
+# sent_id = n04009003
+# text = أحد أمثلة بحثٍ مطبقٍ في ظل إجراءات سلامة أنتج أيضاً إنساناً آلياً لمنافسة فالنتينو روسي.
+# original_text = أحد أمثلة بحث مطبق في ظل إجراءات سلامة أنتج أيضا إنسانا آليا لمنافسة فالنتينو روسي.
+# text_en = One of the examples of research applied under safety measures has also produced a humanoid robot to compete with Valentino Rossi.
+1	أحد	>aHad_1	_	_	DET;NOM	_	_	_	_
+2	أمثلة	mivAl_1	_	_	PL;GEN;N;HUM;INDF	_	_	_	_
+3	بحثٍ	baHov_1	_	_	NHUM;GEN;MASC;SG;N;INDF	_	_	_	_
+4	مطبقٍ	muTab~aq_1	_	_	V.PTCP;PASS;GEN;MASC;SG;ADJ;INDF	_	_	_	_
+5	في	fiy_1	_	_	ADP	_	_	_	_
+6	ظل	Zil~_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+7	إجراءات	<ijorA'_3	_	_	NHUM;PL;GEN;DEF;MASC;N	_	_	_	_
+8	سلامة	salAmap_2	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+9	أنتج	>anotaj_1	_	_	PFV;PST;ACT;V;MASC;SG;3	_	_	_	_
+10	أيضاً	>ayoDAF_1	_	_	ADV	_	_	_	_
+11	إنساناً	<inosAn_1	_	_	NHUM;ACC;MASC;SG;N;INDF	_	_	_	_
+12	آلياً	|liy~_1	_	_	ACC;MASC;SG;ADJ;INDF	_	_	_	_
+13	ل	l	_	_	ADP	_	_	_	_
+14	منافسة	munAfasap_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+15	فالنتينو	Alntynw_0	_	_	MASC;PROPN;HUM;SG	_	_	_	_
+16	روسي	ruwsiy~_1	_	_	MASC;PROPN;HUM;SG	_	_	_	_
+17	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = n01042
+# sent_id = n01042008
+# text = يمر التحقيق أيضاً على المنشورات التحريضية في فيسبوك منذ شهر أيلول والتي يزعم أنها تصدر عن ضباطٍ شرطة في المدينة الواقعة شمال أونتاريو.
+# original_text = يمر التحقيق أيضا على المنشورات التحريضية في فيسبوك منذ شهر أيلول والتي يزعم أنها تصدر عن ضباط شرطة في المدينة الواقعة شمال أونتاريو.
+# text_en = The review is also investigating inflammatory Facebook posts from September, alleged to come from police officers in the northern Ontario city.
+1	يمر	>amar~_1	_	_	ACT;IPFV;V;MASC;IND;SG;3;PRS	_	_	_	_
+2	التحقيق	taHoqiyq_1	_	_	NHUM;DEF;MASC;SG;N;NOM	_	_	_	_
+3	أيضاً	>ayoDAF_1	_	_	ADV	_	_	_	_
+4	على	EalaY_1	_	_	ADP	_	_	_	_
+5	المنشورات	mano$uwr_1	_	_	NHUM;PL;GEN;DEF;MASC;N	_	_	_	_
+6	التحريضية	taHoriyDiy~_1	_	_	GEN;DEF;SG;ADJ;FEM	_	_	_	_
+7	في	fiy_1	_	_	ADP	_	_	_	_
+8	فيسبوك	sab~-u_1	_	_	MASC;PROPN;NHUM;SG	_	_	_	_
+9	منذ	muno*u_1	_	_	ADP	_	_	_	_
+10	شهر	$ahor_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+11	أيلول	>ayoluwl_1	_	_	MASC;PROPN;NHUM;SG	_	_	_	_
+12	و	w	_	_	PART	_	_	_	_
+13	التي	Al~a*iy_1	_	_	PRO;SG;FEM;GEN	_	_	_	_
+14	يزعم	zaEam-u_1	_	_	PASS;IPFV;V;MASC;IND;SG;3;PRS	_	_	_	_
+15	أن	>an~a_1	_	_	CONJ	_	_	_	_
+16	ها	hA	_	_	ACC;SG;PRO;3;FEM	_	_	_	_
+17	تصدر	Sadar-u_1	_	_	PRS;ACT;IPFV;V;IND;SG;3;FEM	_	_	_	_
+18	عن	Ean_1	_	_	ADP	_	_	_	_
+19	ضباطٍ	DAbiT_2	_	_	PL;GEN;DEF;MASC;N;HUM	_	_	_	_
+20	شرطة	$uroTap_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+21	في	fiy_1	_	_	ADP	_	_	_	_
+22	المدينة	madiynap_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+23	الواقعة	wAqiE_2	_	_	V.PTCP;ACT;GEN;DEF;SG;ADJ;FEM	_	_	_	_
+24	شمال	$amAl_1	_	_	ADP	_	_	_	_
+25	أونتاريو	AwntAryw_0	_	_	PROPN;NHUM;FEM;SG	_	_	_	_
+26	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = n01064
+# sent_id = n01064009
+# text = رأى أفلاطون أن تسليم السلطة إلى أوصياء متعلمين كما يجب أكثر أماناً.
+# original_text = رأى أفلاطون أن تسليم السلطة إلى أوصياء متعلمين كما يجب أكثر أمانا.
+# text_en = It would be much safer, Plato thought, to entrust power to carefully educated guardians.
+1	رأى	ra>aY-a_1	_	_	PFV;PST;ACT;V;MASC;SG;3	_	_	_	_
+2	أفلاطون	>afolATuwn_1	_	_	MASC;PROPN;HUM;SG	_	_	_	_
+3	أن	>an~a_1	_	_	CONJ	_	_	_	_
+4	تسليم	tasoliym_1	_	_	NHUM;ACC;DEF;MASC;SG;N	_	_	_	_
+5	السلطة	suloTap_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+6	إلى	<ilaY_1	_	_	ADP	_	_	_	_
+7	أوصياء	waSiy~_1	_	_	PL;GEN;MASC;N;HUM;INDF	_	_	_	_
+8	متعلمين	mutaEal~im_1	_	_	PL;GEN;MASC;ADJ;INDF	_	_	_	_
+9	كما	mA_1	_	_	ADP	_	_	_	_
+10	يجب	wajab-i_1	_	_	ACT;IPFV;V;MASC;IND;SG;3;PRS	_	_	_	_
+11	أكثر	>akovar_2	_	_	NOM;ADJ;INDF	_	_	_	_
+12	أماناً	>amAn_1	_	_	NHUM;ACC;MASC;SG;N;INDF	_	_	_	_
+13	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = w01053
+# sent_id = w01053015
+# text = يشكل تحديد السنة الدقيقة لزواج هيرودوس أنتيباس بهيروديا مثار جدلٍ بين الباحثين.
+# original_text = يشكل تحديد السنة الدقيقة لزواج هيرودوس أنتيباس بهيروديا مثار جدل بين الباحثين.
+# text_en = The exact year of the marriage of Herod Antipas and Herodias is subject to debate among scholars.
+1	يشكل	$ak~al_1	_	_	ACT;IPFV;V;MASC;IND;SG;3;PRS	_	_	_	_
+2	تحديد	taHodiyd_1	_	_	NHUM;DEF;MASC;SG;N;NOM	_	_	_	_
+3	السنة	sanap_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+4	الدقيقة	daqiyq_1	_	_	GEN;DEF;SG;ADJ;FEM	_	_	_	_
+5	ل	l	_	_	ADP	_	_	_	_
+6	زواج	zawAj_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+7	هيرودوس	hyrwdws_0	_	_	MASC;PROPN;HUM;SG	_	_	_	_
+8	أنتيباس	AntybAs_0	_	_	MASC;PROPN;HUM;SG	_	_	_	_
+9	ب	b	_	_	ADP	_	_	_	_
+10	هيروديا	hyrwdyA_0	_	_	PROPN;FEM;HUM;SG	_	_	_	_
+11	مثار	mavAr_1	_	_	NHUM;ACC;MASC;SG;N;INDF	_	_	_	_
+12	جدلٍ	jadal_1	_	_	NHUM;GEN;MASC;SG;N;INDF	_	_	_	_
+13	بين	bayona_1	_	_	ADP	_	_	_	_
+14	الباحثين	bAHiv_1	_	_	PL;GEN;DEF;MASC;N;HUM	_	_	_	_
+15	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = w02019
+# sent_id = w02019077
+# text = احترق الشاليه تماماً.
+# original_text = احترق الشاليه تماما.
+# text_en = The chalet burned completely down.
+1	احترق	{iHotaraq_1	_	_	PFV;PST;ACT;V;MASC;SG;3	_	_	_	_
+2	الشاليه	$Aliyh_1	_	_	NHUM;DEF;MASC;SG;N	_	_	_	_
+3	تماماً	tamAm_1	_	_	ADV	_	_	_	_
+4	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = n01128
+# sent_id = n01128025
+# text = أولاً, علينا أن نعلم الناس كيفية حماية أنفسهم بشكلٍ أفضل على الإنترنت.
+# original_text = أولا, علينا أن نعلم الناس كيفية حماية أنفسهم بشكل أفضل على الإنترنت.
+# text_en = First, we must educate people on how to protect themselves better online.
+1	أولاً	>aw~al_2	_	_	ADV	_	_	_	_
+2	,	,_0	_	_	_	_	_	_	_
+3	علي	EalaY_1	_	_	ADP	_	_	_	_
+4	نا	nA	_	_	PRO;1;PL;GEN	_	_	_	_
+5	أن	>an~a_1	_	_	CONJ	_	_	_	_
+6	نعلم	Eal~am_1	_	_	SBJV;ACT;IPFV;V;PL;1;PRS	_	_	_	_
+7	الناس	nAs_1	_	_	ACC;PL;DEF;MASC;N;HUM	_	_	_	_
+8	كيفية	kayofiy~ap_1	_	_	NHUM;ACC;DEF;SG;N;FEM	_	_	_	_
+9	حماية	HimAyap_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+10	أنفس	nafos_1	_	_	NHUM;PL;GEN;DEF;N;FEM	_	_	_	_
+11	هم	hm	_	_	PL;GEN;MASC;PRO;3	_	_	_	_
+12	ب	b	_	_	ADP	_	_	_	_
+13	شكلٍ	$akol_1	_	_	NHUM;GEN;MASC;SG;N;INDF	_	_	_	_
+14	أفضل	>afoDal_2	_	_	GEN;MASC;SG;ADJ;INDF	_	_	_	_
+15	على	EalaY_1	_	_	ADP	_	_	_	_
+16	الإنترنت	<inotironit_1	_	_	NHUM;DEF;MASC;SG;N	_	_	_	_
+17	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = n01051
+# sent_id = n01051007
+# text = هذا أكثر الأورام شيوعاً عند الأجنة, ويظهر في واحدٍ من كل 35000 مولود.
+# original_text = هذا أكثر الأورام شيوعا عند الأجنة, ويظهر في واحد من كل 35000 مولود.
+# text_en = It is the most common tumour found in babies, occurring in one of every 35,000 births.
+1	هذا	h`*A_1	_	_	PRO;MASC;SG;NOM	_	_	_	_
+2	أكثر	>akovar_2	_	_	DET;NOM	_	_	_	_
+3	الأورام	waram_1	_	_	NHUM;PL;GEN;DEF;MASC;N	_	_	_	_
+4	شيوعاً	$uyuwE_1	_	_	NHUM;ACC;MASC;SG;N;INDF	_	_	_	_
+5	عند	Einod_1	_	_	ADP	_	_	_	_
+6	الأجنة	janiyn_2	_	_	NHUM;PL;GEN;DEF;MASC;N	_	_	_	_
+7	,	,_0	_	_	_	_	_	_	_
+8	و	w	_	_	CONJ	_	_	_	_
+9	يظهر	Zahar-a_1	_	_	ACT;IPFV;V;MASC;IND;SG;3;PRS	_	_	_	_
+10	في	fiy_1	_	_	ADP	_	_	_	_
+11	واحدٍ	wAHid_1	_	_	N;GEN;INDF	_	_	_	_
+12	من	min_1	_	_	ADP	_	_	_	_
+13	كل	kul~_1	_	_	DET;GEN	_	_	_	_
+14	35000	35000_0	_	_	NUM	_	_	_	_
+15	مولود	mawoluwd_1	_	_	GEN;MASC;SG;N;HUM;INDF	_	_	_	_
+16	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = n01111
+# sent_id = n01111030
+# text = هذا يعني أنها لم تستفد من الدفعة التي أحدثها انخفاض الجنيه الإسترليني للأصول الخارجية.
+# original_text = هذا يعني أنها لم تستفد من الدفعة التي أحدثها انخفاض الجنيه الإسترليني للأصول الخارجية.
+# text_en = This means that they have not benefited from the uplift that the fall in sterling has given to overseas assets.
+1	هذا	h`*A_1	_	_	PRO;MASC;SG;NOM	_	_	_	_
+2	يعني	EanaY-i_1	_	_	ACT;IPFV;V;MASC;IND;SG;3;PRS	_	_	_	_
+3	أن	>an~a_1	_	_	CONJ	_	_	_	_
+4	ها	hA	_	_	ACC;SG;PRO;3;FEM	_	_	_	_
+5	لم	lamo_1	_	_	NEG;PART	_	_	_	_
+6	تستفد	{isotafAd_1	_	_	PST;ACT;3;IPFV;V;SG;IMP;FEM	_	_	_	_
+7	من	min_1	_	_	ADP	_	_	_	_
+8	الدفعة	dafoEap_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+9	التي	Al~a*iy_1	_	_	PRO;SG;FEM;GEN	_	_	_	_
+10	أحدث	>aHodav_1	_	_	PFV;PST;ACT;V;MASC;SG;3	_	_	_	_
+11	ها	hA	_	_	ACC;SG;PRO;3;FEM	_	_	_	_
+12	انخفاض	{inoxifAD_1	_	_	NHUM;DEF;MASC;SG;N;NOM	_	_	_	_
+13	الجنيه	junayoh_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+14	الإسترليني	<isotaroliyniy~_1	_	_	DEF;MASC;SG;NOM;ADJ	_	_	_	_
+15	ل	l	_	_	ADP	_	_	_	_
+16	لأصول	>aSol_1	_	_	NHUM;PL;GEN;DEF;MASC;N	_	_	_	_
+17	الخارجية	xArijiy~_1	_	_	GEN;DEF;SG;ADJ;FEM	_	_	_	_
+18	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = w01071
+# sent_id = w01071036
+# text = تكمن أهميته في حقيقتين.
+# original_text = تكمن أهميته في حقيقتين.
+# text_en = Its importance resides in two facts.
+1	تكمن	kaman-u_1	_	_	PRS;ACT;IPFV;V;IND;SG;3;FEM	_	_	_	_
+2	أهميت	>aham~iy~ap_1	_	_	NHUM;DEF;SG;N;NOM;FEM	_	_	_	_
+3	ه	h	_	_	GEN;MASC;SG;PRO;3	_	_	_	_
+4	في	fiy_1	_	_	ADP	_	_	_	_
+5	حقيقتين	Haqiyqap_1	_	_	DU;NHUM;GEN;N;FEM;INDF	_	_	_	_
+6	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = n01150
+# sent_id = n01150007
+# text = لكن يمكن للعمارة أن تبني جسراً بين الأحياء والأموات, وتطمس الحدود إلى حدٍ ما.
+# original_text = لكن يمكن للعمارة أن تبني جسرا بين الأحياء والأموات, وتطمس الحدود إلى حد ما.
+# text_en = "But architecture can build a bridge between the living and the dead and, to some extent, blur the boundaries."
+1	لكن	l`kin~a_1	_	_	PART	_	_	_	_
+2	يمكن	>amokan_1	_	_	ACT;IPFV;V;MASC;IND;SG;3;PRS	_	_	_	_
+3	ل	l	_	_	ADP	_	_	_	_
+4	لعمارة	EimArap_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+5	أن	>ano_1	_	_	ADP	_	_	_	_
+6	تبني	taban~iy_1	_	_	SBJV;PRS;ACT;IPFV;SG;N;3;FEM	_	_	_	_
+7	جسراً	jisor_1	_	_	NHUM;ACC;MASC;SG;N;INDF	_	_	_	_
+8	بين	bayona_1	_	_	ADP	_	_	_	_
+9	الأحياء	Hay~_2	_	_	PL;GEN;DEF;MASC;N;HUM	_	_	_	_
+10	و	w	_	_	CONJ	_	_	_	_
+11	الأموات	may~it_1	_	_	PL;GEN;DEF;MASC;N;HUM	_	_	_	_
+12	,	,_0	_	_	_	_	_	_	_
+13	و	w	_	_	CONJ	_	_	_	_
+14	تطمس	Tamas-i_1	_	_	SBJV;PRS;ACT;IPFV;V;SG;3;FEM	_	_	_	_
+15	الحدود	Had~_2	_	_	NHUM;ACC;PL;DEF;MASC;N	_	_	_	_
+16	إلى	<ilaY_1	_	_	ADP	_	_	_	_
+17	حدٍ	Had~_1	_	_	NHUM;GEN;MASC;SG;N;INDF	_	_	_	_
+18	ما	mA_6	_	_	PRO;GEN	_	_	_	_
+19	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = n01145
+# sent_id = n01145008
+# text = ليس هناك موكب عرض, ولم يكن هناك قط.
+# original_text = ليس هناك موكب عرض, ولم يكن هناك قط.
+# text_en = There is no parade and there never has been.
+1	ليس	layosa_1	_	_	ACT;IPFV;V;MASC;SG;3;PRS	_	_	_	_
+2	هناك	hunAka_1	_	_	ADV	_	_	_	_
+3	موكب	mawokib_1	_	_	NHUM;MASC;SG;N;NOM;INDF	_	_	_	_
+4	عرض	EaroD_1	_	_	NHUM;GEN;MASC;SG;N;INDF	_	_	_	_
+5	,	,_0	_	_	_	_	_	_	_
+6	و	w	_	_	CONJ	_	_	_	_
+7	لم	lamo_1	_	_	NEG;PART	_	_	_	_
+8	يكن	kAn-u_1	_	_	PST;ACT;3;IPFV;V;MASC;SG;IMP	_	_	_	_
+9	هناك	hunAka_1	_	_	ADV	_	_	_	_
+10	قط	qaT~_1	_	_	ADV	_	_	_	_
+11	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = w04009
+# sent_id = w04009042
+# text = أخبره الرجل أن الحرب بين العالمين قادمة, وكان قد تنبأ هو ووالتر, أن ثمة سبباً وجيهاً أن وليفيا, من بين الآخرين, دربت عندما كانت طفلة.
+# original_text = أخبره الرجل أن الحرب بين العالمين قادمة, وكان قد تنبأ هو ووالتر, أن ثمة سببا وجيها أن وليفيا, من بين الآخرين, دربت عندما كانت طفلة.
+# text_en = The man told him that a war between the two universes is coming, as he and Walter had predicted; it is for this reason that Olivia, among others, was trained as a child.
+1	أخبر	>axobar_1	_	_	PFV;PST;ACT;V;MASC;SG;3	_	_	_	_
+2	ه	h	_	_	ACC;MASC;SG;PRO;3	_	_	_	_
+3	الرجل	rajul_1	_	_	DEF;MASC;SG;N;HUM;NOM	_	_	_	_
+4	أن	>an~a_1	_	_	CONJ	_	_	_	_
+5	الحرب	Harob_1	_	_	NHUM;ACC;DEF;SG;N;FEM	_	_	_	_
+6	بين	bayona_1	_	_	ADP	_	_	_	_
+7	العالمين	EAlam_1	_	_	DU;GEN;DEF;MASC;N;HUM	_	_	_	_
+8	قادمة	qAdim_1	_	_	ACT;SG;FEM;NOM;ADJ;INDF	_	_	_	_
+9	,	,_0	_	_	_	_	_	_	_
+10	و	w	_	_	CONJ	_	_	_	_
+11	كان	kAn-u_1	_	_	PFV;PST;ACT;V;MASC;SG;3	_	_	_	_
+12	قد	qado_1	_	_	PART	_	_	_	_
+13	تنبأ	tanab~a>_1	_	_	PFV;PST;ACT;V;MASC;SG;3	_	_	_	_
+14	هو	huwa_1	_	_	PRO;MASC;SG;3	_	_	_	_
+15	و	w	_	_	CONJ	_	_	_	_
+16	والتر	wAlotir_1	_	_	MASC;PROPN;HUM;SG	_	_	_	_
+17	,	,_0	_	_	_	_	_	_	_
+18	أن	>an~a_1	_	_	CONJ	_	_	_	_
+19	ثمة	vam~apa_1	_	_	ADV	_	_	_	_
+20	سبباً	sabab_1	_	_	NHUM;ACC;MASC;SG;N;INDF	_	_	_	_
+21	وجيهاً	wajiyh_1	_	_	ACC;MASC;SG;ADJ;INDF	_	_	_	_
+22	أن	>ano_1	_	_	ADP	_	_	_	_
+23	وليفيا	liyfiy~_1	_	_	PROPN;FEM;HUM;SG	_	_	_	_
+24	,	,_0	_	_	_	_	_	_	_
+25	من	min_1	_	_	ADP	_	_	_	_
+26	بين	bayona_1	_	_	ADP	_	_	_	_
+27	الآخرين	|xar_1	_	_	PL;GEN;DEF;MASC;N;HUM	_	_	_	_
+28	,	,_0	_	_	_	_	_	_	_
+29	دربت	dar~ab_1	_	_	PFV;PST;PASS;V;SG;3;FEM	_	_	_	_
+30	عندما	Einod_1	_	_	ADP	_	_	_	_
+31	كانت	kAn-u_1	_	_	PFV;PST;ACT;V;SG;3;FEM	_	_	_	_
+32	طفلة	Tifol_1	_	_	ACC;SG;N;HUM;FEM;INDF	_	_	_	_
+33	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = w01131
+# sent_id = w01131076
+# text = كان ستالين قد بدأ بتشجيع أباكوموف لتشكيل شبكته الخاصة داخل وزارة أمن الدولة لمجابهة هيمنة بيريا على الوزارات السلطوية.
+# original_text = كان ستالين قد بدأ بتشجيع أباكوموف لتشكيل شبكته الخاصة داخل وزارة أمن الدولة لمجابهة هيمنة بيريا على الوزارات السلطوية.
+# text_en = Stalin had begun to encourage Abakumov to form his own network inside the MGB to counter Beria's dominance of the power ministries.
+1	كان	kAn-u_1	_	_	PFV;PST;ACT;V;MASC;SG;3	_	_	_	_
+2	ستالين	stAliyn_1	_	_	MASC;PROPN;HUM;SG	_	_	_	_
+3	قد	qado_1	_	_	PART	_	_	_	_
+4	بدأ	bada>-a_1	_	_	PFV;PST;ACT;V;MASC;SG;3	_	_	_	_
+5	ب	b	_	_	ADP	_	_	_	_
+6	تشجيع	ta$ojiyE_1	_	_	NHUM;GEN;MASC;SG;N;INDF	_	_	_	_
+7	أباكوموف	AbAkwmwf_0	_	_	MASC;PROPN;HUM;SG	_	_	_	_
+8	ل	l	_	_	ADP	_	_	_	_
+9	تشكيل	ta$okiyl_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+10	شبكت	$abakap_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+11	ه	h	_	_	GEN;MASC;SG;PRO;3	_	_	_	_
+12	الخاصة	xAS~_1	_	_	GEN;DEF;SG;ADJ;FEM	_	_	_	_
+13	داخل	dAxil_1	_	_	ADP	_	_	_	_
+14	وزارة	wizArap_1	_	_	NHUM;GEN;DEF;SG;PROPN;FEM	_	_	_	_
+15	أمن	>amon_1	_	_	NHUM;GEN;DEF;MASC;SG;PROPN	_	_	_	_
+16	الدولة	dawolap_1	_	_	NHUM;GEN;DEF;SG;PROPN;FEM	_	_	_	_
+17	ل	l	_	_	ADP	_	_	_	_
+18	مجابهة	mujAbahap_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+19	هيمنة	hayomanap_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+20	بيريا	byryA_0	_	_	PROPN;NHUM;FEM;SG	_	_	_	_
+21	على	EalaY_1	_	_	ADP	_	_	_	_
+22	الوزارات	wizArap_1	_	_	NHUM;PL;GEN;DEF;N;FEM	_	_	_	_
+23	السلطوية	suloTawiy~_1	_	_	GEN;DEF;SG;ADJ;FEM	_	_	_	_
+24	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = w01094
+# sent_id = w01094066
+# text = النجاح الذي لقيته سيارات رامبلر صغيرة الحجم التي كانت تصنعها شركة أميريكان موتورز دفع شركتي جنرال موتورز وفورد لطرح سياراتها صغيرة الحجم عام 1960.
+# original_text = النجاح الذي لقيته سيارات رامبلر صغيرة الحجم التي كانت تصنعها شركة أميريكان موتورز دفع شركتي جنرال موتورز وفورد لطرح سياراتها صغيرة الحجم عام 1960.
+# text_en = The success American Motors' compact-sized Rambler models spurred GM and Ford to introduce their own downsized cars in 1960.
+1	النجاح	najAH_1	_	_	NHUM;DEF;MASC;SG;N;NOM	_	_	_	_
+2	الذي	Al~a*iy_1	_	_	PRO;MASC;SG;NOM	_	_	_	_
+3	لقيت	laqiy-a_1	_	_	PFV;PST;ACT;V;SG;3;FEM	_	_	_	_
+4	ه	h	_	_	ACC;MASC;SG;PRO;3	_	_	_	_
+5	سيارات	say~Arap_1	_	_	NHUM;PL;DEF;N;NOM;FEM	_	_	_	_
+6	رامبلر	rAmblr_0	_	_	PROPN;NHUM;FEM;SG	_	_	_	_
+7	صغيرة	Sagiyr_1	_	_	DEF;SG;FEM;NOM;ADJ	_	_	_	_
+8	الحجم	Hajom_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+9	التي	Al~a*iy_1	_	_	PRO;SG;FEM;NOM	_	_	_	_
+10	كانت	kAn-u_1	_	_	PFV;PST;ACT;V;SG;3;FEM	_	_	_	_
+11	تصنع	SanaE-a_1	_	_	PRS;ACT;IPFV;V;IND;SG;3;FEM	_	_	_	_
+12	ها	hA	_	_	ACC;SG;PRO;3;FEM	_	_	_	_
+13	شركة	$arikap_1	_	_	NHUM;DEF;SG;N;NOM;FEM	_	_	_	_
+14	أميريكان	AmyrykAn_0	_	_	PROPN;NHUM;SG	_	_	_	_
+15	موتورز	muwtuwrz_1	_	_	PROPN;NHUM;SG	_	_	_	_
+16	دفع	dafoE_1	_	_	PFV;PST;ACT;MASC;SG;N;3	_	_	_	_
+17	شركتي	$arikap_1	_	_	DU;NHUM;ACC;DEF;N;FEM	_	_	_	_
+18	جنرال	jinirAl_1	_	_	PROPN;NHUM;SG	_	_	_	_
+19	موتورز	muwtuwrz_1	_	_	PROPN;NHUM;SG	_	_	_	_
+20	و	w	_	_	CONJ	_	_	_	_
+21	فورد	fwrd_0	_	_	PROPN;NHUM;SG	_	_	_	_
+22	ل	l	_	_	ADP	_	_	_	_
+23	طرح	TaroH_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+24	سيارات	say~Arap_1	_	_	NHUM;PL;GEN;DEF;N;FEM	_	_	_	_
+25	ها	hA	_	_	GEN;SG;PRO;3;FEM	_	_	_	_
+26	صغيرة	Sagiyr_1	_	_	GEN;DEF;SG;ADJ;FEM	_	_	_	_
+27	الحجم	Hajom_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+28	عام	EAm_1	_	_	ADV	_	_	_	_
+29	1960	1960_0	_	_	NUM;GEN	_	_	_	_
+30	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = w01026
+# sent_id = w01026037
+# text = يقع الجزء الأكبر من دلتا الدانوب في رومانيا (مقاطعة تولتشيا), في حين أن الجزء الشمالي عند الضفة اليسرى من فرع كيليا فيقع في أوكرانيا (أوديسا أوبلاست).
+# original_text = يقع الجزء الأكبر من دلتا الدانوب في رومانيا (مقاطعة تولتشيا), في حين أن الجزء الشمالي عند الضفة اليسرى من فرع كيليا فيقع في أوكرانيا (أوديسا أوبلاست).
+# text_en = The greater part of the Danube Delta lies in Romania (Tulcea county), while its northern part, on the left bank of the Chilia arm, is situated in Ukraine (Odessa Oblast).
+1	يقع	waqaE-a_1	_	_	ACT;IPFV;V;MASC;IND;SG;3;PRS	_	_	_	_
+2	الجزء	juzo'_1	_	_	NHUM;DEF;MASC;SG;N;NOM	_	_	_	_
+3	الأكبر	>akobar_2	_	_	DEF;MASC;SG;NOM;ADJ	_	_	_	_
+4	من	min_1	_	_	ADP	_	_	_	_
+5	دلتا	dilotA_1	_	_	NHUM;PL;GEN;DEF;PROPN;FEM	_	_	_	_
+6	الدانوب	dAnuwb_1	_	_	NHUM;GEN;SG;PROPN;FEM	_	_	_	_
+7	في	fiy_1	_	_	ADP	_	_	_	_
+8	رومانيا	ruwmAniyA_1	_	_	PROPN;NHUM;FEM;SG	_	_	_	_
+9	(	(_0	_	_	_	_	_	_	_
+10	مقاطعة	muqATaEap_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+11	تولتشيا	twlt$yA_0	_	_	PROPN;NHUM;FEM;SG	_	_	_	_
+12	)	)_0	_	_	_	_	_	_	_
+13	,	,_0	_	_	_	_	_	_	_
+14	في	fiy_1	_	_	ADP	_	_	_	_
+15	حين	Hiyn_1	_	_	ADP	_	_	_	_
+16	أن	>an~a_1	_	_	CONJ	_	_	_	_
+17	الجزء	juzo'_1	_	_	NHUM;ACC;DEF;MASC;SG;N	_	_	_	_
+18	الشمالي	$amAliy~_1	_	_	ACC;DEF;MASC;SG;ADJ	_	_	_	_
+19	عند	Einod_1	_	_	ADP	_	_	_	_
+20	الضفة	Dif~ap_2	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+21	اليسرى	>ayosar_2	_	_	GEN;DEF;SG;ADJ;FEM	_	_	_	_
+22	من	min_1	_	_	ADP	_	_	_	_
+23	فرع	faroE_1	_	_	NHUM;MASC;SG;N;INDF	_	_	_	_
+24	كيليا	kayoliy~_1	_	_	PROPN;NHUM;FEM;SG	_	_	_	_
+25	ف	f	_	_	PART	_	_	_	_
+26	يقع	waqaE-a_1	_	_	ACT;IPFV;V;MASC;IND;SG;3;PRS	_	_	_	_
+27	في	fiy_1	_	_	ADP	_	_	_	_
+28	أوكرانيا	>uwkrAniyA_1	_	_	PROPN;NHUM;FEM;SG	_	_	_	_
+29	(	(_0	_	_	_	_	_	_	_
+30	أوديسا	AwdysA_0	_	_	PROPN;NHUM;SG	_	_	_	_
+31	أوبلاست	AwblAst_0	_	_	PROPN;NHUM;SG	_	_	_	_
+32	)	)_0	_	_	_	_	_	_	_
+33	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = w01018
+# sent_id = w01018029
+# text = في 1 تشرين الأول من عام 1961, اتحدت الكاميرون الجنوبية البريطانية سابقاً مع الكاميرون الفرنسية وتشكلت جمهورية الكاميرون الاتحادية.
+# original_text = في 1 تشرين الأول من عام 1961, اتحدت الكاميرون الجنوبية البريطانية سابقا مع الكاميرون الفرنسية وتشكلت جمهورية الكاميرون الاتحادية.
+# text_en = On 1 October 1961, the formerly British Southern Cameroons united with French Cameroun to form the Federal Republic of Cameroon.
+1	في	fiy_1	_	_	ADP	_	_	_	_
+2	1	1_0	_	_	NUM	_	_	_	_
+3	تشرين	ti$oriyn_1	_	_	MASC;PROPN;NHUM;SG	_	_	_	_
+4	الأول	>aw~al_2	_	_	GEN;DEF;MASC;SG;ADJ	_	_	_	_
+5	من	min_1	_	_	ADP	_	_	_	_
+6	عام	EAm_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+7	1961	1961_0	_	_	NUM	_	_	_	_
+8	,	,_0	_	_	_	_	_	_	_
+9	اتحدت	{it~aHad_1	_	_	PFV;PST;ACT;V;SG;3;FEM	_	_	_	_
+10	الكاميرون	kamiruwn_1	_	_	PROPN;NHUM;FEM;SG	_	_	_	_
+11	الجنوبية	januwbiy~_1	_	_	DEF;SG;FEM;NOM;ADJ	_	_	_	_
+12	البريطانية	briyTAniy~_1	_	_	DEF;SG;FEM;NOM;ADJ	_	_	_	_
+13	سابقاً	sAbiq_1	_	_	ADV	_	_	_	_
+14	مع	maE_1	_	_	ADP	_	_	_	_
+15	الكاميرون	kamiruwn_1	_	_	NHUM;DEF;SG;N;FEM	_	_	_	_
+16	الفرنسية	faranosiy~_1	_	_	GEN;DEF;SG;ADJ;FEM	_	_	_	_
+17	و	w	_	_	CONJ	_	_	_	_
+18	تشكلت	ta$ak~al_1	_	_	PFV;PST;ACT;V;SG;3;FEM	_	_	_	_
+19	جمهورية	jumohuwriy~ap_1	_	_	NHUM;DEF;SG;NOM;PROPN;FEM	_	_	_	_
+20	الكاميرون	kamiruwn_1	_	_	PROPN;NHUM;FEM;SG	_	_	_	_
+21	الاتحادية	{it~iHAdiy~_1	_	_	DEF;SG;FEM;NOM;ADJ	_	_	_	_
+22	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = n01042
+# sent_id = n01042004
+# text = بدأ مدير التحقيق المستقل الخاص بشرطة أوتاريو جيري مكنيلي تحقيقه هذا الأسبوع بعد أن طرحت "أسئلة مقلقة" عن كيفية تعامل ضباط الشرطة مع السكان الأصليين.
+# original_text = بدأ مدير التحقيق المستقل الخاص بشرطة أوتاريو جيري مكنيلي تحقيقه هذا الأسبوع بعد أن طرحت "أسئلة مقلقة" عن كيفية تعامل ضباط الشرطة مع السكان الأصليين.
+# text_en = The Ontario Independent Police Review Director, Gerry McNeilly, set the terms for his review this week after "alarming questions" were raised about how officers interact with Indigenous peoples.
+1	بدأ	bada>-a_1	_	_	PFV;PST;ACT;V;MASC;SG;3	_	_	_	_
+2	مدير	mudiyr_1	_	_	DEF;MASC;SG;N;HUM;NOM	_	_	_	_
+3	التحقيق	taHoqiyq_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+4	المستقل	musotaqil~_1	_	_	GEN;DEF;MASC;SG;ADJ	_	_	_	_
+5	الخاص	xAS~_1	_	_	V.PTCP;ACT;GEN;DEF;MASC;SG;ADJ	_	_	_	_
+6	ب	b	_	_	ADP	_	_	_	_
+7	شرطة	$uroTap_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+8	أوتاريو	AwtAryw_0	_	_	MASC;PROPN;HUM;SG	_	_	_	_
+9	جيري	jiyriy~_1	_	_	MASC;PROPN;HUM;SG	_	_	_	_
+10	مكنيلي	mknyly_0	_	_	MASC;PROPN;HUM;SG	_	_	_	_
+11	تحقيق	taHoqiyq_1	_	_	NHUM;ACC;DEF;MASC;SG;N	_	_	_	_
+12	ه	h	_	_	GEN;MASC;SG;PRO;3	_	_	_	_
+13	هذا	h`*A_1	_	_	PRO;MASC;SG;ACC	_	_	_	_
+14	الأسبوع	>usobuwE_1	_	_	ADV	_	_	_	_
+15	بعد	baEod_1	_	_	ADP	_	_	_	_
+16	أن	>ano_1	_	_	ADP	_	_	_	_
+17	طرحت	TaraH-a_1	_	_	PFV;PST;PASS;V;SG;3;FEM	_	_	_	_
+18	"	"_0	_	_	_	_	_	_	_
+19	أسئلة	su&Al_1	_	_	NHUM;PL;MASC;N;NOM;INDF	_	_	_	_
+20	مقلقة	muqoliq_1	_	_	SG;FEM;NOM;ADJ;INDF	_	_	_	_
+21	"	"_0	_	_	_	_	_	_	_
+22	عن	Ean_1	_	_	ADP	_	_	_	_
+23	كيفية	kayofiy~ap_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+24	تعامل	taEAmul_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+25	ضباط	DAbiT_2	_	_	PL;GEN;DEF;MASC;N;HUM	_	_	_	_
+26	الشرطة	$uroTap_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+27	مع	maE_1	_	_	ADP	_	_	_	_
+28	السكان	sAkin_1	_	_	PL;GEN;DEF;MASC;N;HUM	_	_	_	_
+29	الأصليين	>aSoliy~_1	_	_	PL;GEN;DEF;MASC;ADJ	_	_	_	_
+30	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = w01003
+# sent_id = w01003062
+# text = من الأمثلة على الجزر الصحراوية تلك الجزر الصغيرة الموجودة قبالة سواحل باخا كاليفورنيا, المكسيك.
+# original_text = من الأمثلة على الجزر الصحراوية تلك الجزر الصغيرة الموجودة قبالة سواحل باخا كاليفورنيا, المكسيك.
+# text_en = An example of a desert island would be the small islands off the coast of Baja California, Mexico.
+1	من	min_1	_	_	ADP	_	_	_	_
+2	الأمثلة	mivAl_1	_	_	NHUM;PL;GEN;DEF;MASC;N	_	_	_	_
+3	على	EalaY_1	_	_	ADP	_	_	_	_
+4	الجزر	jaziyrap_1	_	_	NHUM;PL;GEN;DEF;N;FEM	_	_	_	_
+5	الصحراوية	SaHorAwiy~_1	_	_	GEN;DEF;SG;ADJ;FEM	_	_	_	_
+6	تلك	*`lika_1	_	_	PRO;SG;FEM;NOM	_	_	_	_
+7	الجزر	jaziyrap_1	_	_	NHUM;PL;DEF;N;NOM;FEM	_	_	_	_
+8	الصغيرة	Sagiyr_1	_	_	DEF;SG;FEM;NOM;ADJ	_	_	_	_
+9	الموجودة	mawojuwd_1	_	_	V.PTCP;PASS;DEF;SG;FEM;NOM;ADJ	_	_	_	_
+10	قبالة	qubAlap_1	_	_	ADP	_	_	_	_
+11	سواحل	sAHil_1	_	_	NHUM;PL;GEN;DEF;MASC;N	_	_	_	_
+12	باخا	>ax_1	_	_	PROPN;NHUM;SG	_	_	_	_
+13	كاليفورنيا	kAliyfuwroniyA_1	_	_	PROPN;NHUM;FEM;SG	_	_	_	_
+14	,	,_0	_	_	_	_	_	_	_
+15	المكسيك	makosiyk_1	_	_	PROPN;NHUM;FEM;SG	_	_	_	_
+16	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = w01007
+# sent_id = w01007004
+# text = في تموز من عام 1918, وقعت المعاهدة بين فرنسا وموناكو, والتي قضت بحماية فرنسية محدودة على موناكو.
+# original_text = في تموز من عام 1918, وقعت المعاهدة بين فرنسا وموناكو, والتي قضت بحماية فرنسية محدودة على موناكو.
+# text_en = In July 1918, the Franco-Monegasque Treaty was signed, providing for limited French protection over Monaco.
+1	في	fiy_1	_	_	ADP	_	_	_	_
+2	تموز	tam~uwz_1	_	_	NHUM;GEN;MASC;SG;PROPN	_	_	_	_
+3	من	min_1	_	_	ADP	_	_	_	_
+4	عام	EAm_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+5	1918	1918_0	_	_	NUM	_	_	_	_
+6	,	,_0	_	_	_	_	_	_	_
+7	وقعت	waq~aE_1	_	_	PFV;PST;PASS;V;SG;3;FEM	_	_	_	_
+8	المعاهدة	muEAhadap_1	_	_	NHUM;DEF;SG;N;NOM;FEM	_	_	_	_
+9	بين	bayona_1	_	_	ADP	_	_	_	_
+10	فرنسا	faranosA_1	_	_	PROPN;NHUM;FEM;SG	_	_	_	_
+11	و	w	_	_	CONJ	_	_	_	_
+12	موناكو	muwnAkuw_1	_	_	PROPN;NHUM;FEM;SG	_	_	_	_
+13	,	,_0	_	_	_	_	_	_	_
+14	و	w	_	_	PART	_	_	_	_
+15	التي	Al~a*iy_1	_	_	PRO;SG;FEM;NOM	_	_	_	_
+16	قضت	qaDaY-i_1	_	_	PFV;PST;ACT;V;SG;3;FEM	_	_	_	_
+17	ب	b	_	_	ADP	_	_	_	_
+18	حماية	HimAyap_1	_	_	NHUM;GEN;SG;N;FEM;INDF	_	_	_	_
+19	فرنسية	faranosiy~_1	_	_	GEN;SG;ADJ;FEM;INDF	_	_	_	_
+20	محدودة	maHoduwd_1	_	_	GEN;SG;ADJ;FEM;INDF	_	_	_	_
+21	على	EalaY_1	_	_	ADP	_	_	_	_
+22	موناكو	muwnAkuw_1	_	_	PROPN;NHUM;FEM;SG	_	_	_	_
+23	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = w01014
+# sent_id = w01014002
+# text = يعرف الجزء الشمالي من القوقاز باسم القوقاز الأمامي والجزء الجنوبي باسم عبر القوقاز.
+# original_text = يعرف الجزء الشمالي من القوقاز باسم القوقاز الأمامي والجزء الجنوبي باسم عبر القوقاز.
+# text_en = The northern portion of the Caucasus is known as the Ciscaucasus and the southern portion as the Transcaucasus.
+1	يعرف	Earaf-i_1	_	_	PASS;IPFV;V;MASC;IND;SG;3;PRS	_	_	_	_
+2	الجزء	juzo'_1	_	_	NHUM;DEF;MASC;SG;N;NOM	_	_	_	_
+3	الشمالي	$amAliy~_1	_	_	DEF;MASC;SG;NOM;ADJ	_	_	_	_
+4	من	min_1	_	_	ADP	_	_	_	_
+5	القوقاز	qawoqAz_1	_	_	NHUM;GEN;SG;PROPN;FEM	_	_	_	_
+6	ب	b	_	_	ADP	_	_	_	_
+7	اسم	{isom_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+8	القوقاز	qawoqAz_1	_	_	NHUM;GEN;SG;PROPN;FEM	_	_	_	_
+9	الأمامي	>amAmiy~_1	_	_	GEN;DEF;MASC;SG;ADJ	_	_	_	_
+10	و	w	_	_	CONJ	_	_	_	_
+11	الجزء	juzo'_1	_	_	NHUM;DEF;MASC;SG;N;NOM	_	_	_	_
+12	الجنوبي	januwbiy~_1	_	_	DEF;MASC;SG;NOM;ADJ	_	_	_	_
+13	ب	b	_	_	ADP	_	_	_	_
+14	اسم	{isom_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+15	عبر	Eabor_1	_	_	ADP	_	_	_	_
+16	القوقاز	qawoqAz_1	_	_	NHUM;GEN;SG;PROPN;FEM	_	_	_	_
+17	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = n01085
+# sent_id = n01085006
+# text = الكبريت مادة مغذية مهمة للنباتات من أجل نموٍ صحي, لكن التربة في المملكة المتحدة تفتقر بشكلٍ طبيعيٍ إلى هذا المعدن المهم.
+# original_text = الكبريت مادة مغذية مهمة للنباتات من أجل نمو صحي, لكن التربة في المملكة المتحدة تفتقر بشكل طبيعي إلى هذا المعدن المهم.
+# text_en = Sulphur is a key plant nutrient vital to healthy growth, but UK soils are naturally deficient in this essential mineral.
+1	الكبريت	kiboriyt_1	_	_	NHUM;DEF;MASC;SG;N;NOM	_	_	_	_
+2	مادة	mAd~ap_1	_	_	NHUM;SG;N;NOM;FEM;INDF	_	_	_	_
+3	مغذية	muga*~iy_1	_	_	SG;FEM;NOM;ADJ;INDF	_	_	_	_
+4	مهمة	muhim~_1	_	_	SG;FEM;NOM;ADJ;INDF	_	_	_	_
+5	ل	l	_	_	ADP	_	_	_	_
+6	لنباتات	nabAt_1	_	_	NHUM;PL;GEN;DEF;MASC;N	_	_	_	_
+7	من	min_1	_	_	ADP	_	_	_	_
+8	أجل	>ajol_1	_	_	NHUM;GEN;MASC;SG;N;INDF	_	_	_	_
+9	نموٍ	numuw~_1	_	_	NHUM;GEN;MASC;SG;N;INDF	_	_	_	_
+10	صحي	SiH~iy~_1	_	_	GEN;MASC;SG;ADJ;INDF	_	_	_	_
+11	,	,_0	_	_	_	_	_	_	_
+12	لكن	l`kin~a_1	_	_	ADP	_	_	_	_
+13	التربة	turobap_1	_	_	NHUM;ACC;DEF;SG;N;FEM	_	_	_	_
+14	في	fiy_1	_	_	ADP	_	_	_	_
+15	المملكة	mamolakap_1	_	_	NHUM;GEN;DEF;SG;PROPN;FEM	_	_	_	_
+16	المتحدة	mut~aHid_1	_	_	GEN;DEF;SG;ADJ;FEM	_	_	_	_
+17	تفتقر	{ifotaqar_1	_	_	PRS;ACT;IPFV;V;IND;SG;3;FEM	_	_	_	_
+18	ب	b	_	_	ADP	_	_	_	_
+19	شكلٍ	$akol_1	_	_	NHUM;GEN;MASC;SG;N;INDF	_	_	_	_
+20	طبيعيٍ	TabiyEiy~_1	_	_	GEN;MASC;SG;ADJ;INDF	_	_	_	_
+21	إلى	<ilaY_1	_	_	ADP	_	_	_	_
+22	هذا	h`*A_1	_	_	PRO;SG;FEM;GEN	_	_	_	_
+23	المعدن	maEodin_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+24	المهم	muhim~_1	_	_	GEN;DEF;MASC;SG;ADJ	_	_	_	_
+25	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = w01005
+# sent_id = w01005024
+# text = علاوةً على ذلك, حدثت حالات زواجٍ كثيرة بين النخب المقدونية والفارسية.
+# original_text = علاوة على ذلك, حدثت حالات زواج كثيرة بين النخب المقدونية والفارسية.
+# text_en = Moreover, many of the Macedonian and Persian elite intermarried.
+1	علاوةً	EilAwap_1	_	_	ACC;N;FEM;INDF	_	_	_	_
+2	على	EalaY_1	_	_	ADP	_	_	_	_
+3	ذلك	*`lika_1	_	_	PRO;MASC;SG;GEN	_	_	_	_
+4	,	,_0	_	_	_	_	_	_	_
+5	حدثت	Hadav-u_1	_	_	PFV;PST;ACT;V;SG;3;FEM	_	_	_	_
+6	حالات	HAlap_1	_	_	NHUM;PL;N;NOM;FEM;INDF	_	_	_	_
+7	زواجٍ	zawAj_1	_	_	NHUM;GEN;MASC;SG;N;INDF	_	_	_	_
+8	كثيرة	kaviyr_2	_	_	SG;FEM;NOM;ADJ;INDF	_	_	_	_
+9	بين	bayona_1	_	_	ADP	_	_	_	_
+10	النخب	nuxobap_1	_	_	PL;GEN;DEF;N;HUM;FEM	_	_	_	_
+11	المقدونية	maqoduwniy~_2	_	_	GEN;DEF;SG;ADJ;FEM	_	_	_	_
+12	و	w	_	_	CONJ	_	_	_	_
+13	الفارسية	fArisiy~_1	_	_	GEN;DEF;SG;ADJ;FEM	_	_	_	_
+14	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = w01038
+# sent_id = w01038044
+# text = استطونت العديد من الأقوام الأصلية ألاسكا لآلاف السنين قبل وصول الشعوب الأوروبية إلى المنطقة.
+# original_text = استطونت العديد من الأقوام الأصلية ألاسكا لآلاف السنين قبل وصول الشعوب الأوروبية إلى المنطقة.
+# text_en = Numerous indigenous peoples occupied Alaska for thousands of years before the arrival of European peoples to the area.
+1	استطونت	AstTwnt_0	_	_	PFV;PST;ACT;SG;N;3;FEM	_	_	_	_
+2	العديد	Eadiyd_1	_	_	NOM;SG;N;DEF	_	_	_	_
+3	من	min_1	_	_	ADP	_	_	_	_
+4	الأقوام	qawom_1	_	_	PL;GEN;DEF;MASC;N;HUM	_	_	_	_
+5	الأصلية	>aSoliy~_1	_	_	GEN;DEF;SG;ADJ;FEM	_	_	_	_
+6	ألاسكا	>alAsokA_1	_	_	PROPN;NHUM;FEM;SG	_	_	_	_
+7	ل	l	_	_	ADP	_	_	_	_
+8	آلاف	>alof_1	_	_	PL;N;GEN;DEF	_	_	_	_
+9	السنين	sanap_1	_	_	NHUM;PL;GEN;DEF;N;FEM	_	_	_	_
+10	قبل	qabol_1	_	_	ADP	_	_	_	_
+11	وصول	wuSuwl_1	_	_	MASC;N;GEN;DEF	_	_	_	_
+12	الشعوب	$aEob_1	_	_	NHUM;PL;GEN;DEF;MASC;N	_	_	_	_
+13	الأوروبية	>uwrub~iy~_1	_	_	GEN;DEF;SG;ADJ;FEM	_	_	_	_
+14	إلى	<ilaY_1	_	_	ADP	_	_	_	_
+15	المنطقة	minoTaqap_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+16	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = n01143
+# sent_id = n01143009
+# text = أستراليان, لا يجيدان لعب الغولف باعترافهما, تحايلا للمشاركة في بطولة غولف كبيرة في كوريا الشمالية.
+# original_text = أستراليان, لا يجيدان لعب الغولف باعترافهما, تحايلا للمشاركة في بطولة غولف كبيرة في كوريا الشمالية.
+# text_en = Two Australians, who by their own admission are terrible golfers, bluffed their way into a premier golf tournament in North Korea.
+1	أستراليان	>usoturAliy~_1	_	_	DU;MASC;NOM;ADJ;INDF	_	_	_	_
+2	,	,_0	_	_	_	_	_	_	_
+3	لا	lA_1	_	_	NEG;PART	_	_	_	_
+4	يجيدان	>ajAd_1	_	_	DU;ACT;IPFV;V;MASC;IND;3;PRS	_	_	_	_
+5	لعب	luEobap_1	_	_	NHUM;ACC;DEF;MASC;SG;N	_	_	_	_
+6	الغولف	guwlof_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+7	ب	b	_	_	ADP	_	_	_	_
+8	اعتراف	{iEotirAf_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+9	هما	hmA	_	_	PRO;DU;3;GEN	_	_	_	_
+10	,	,_0	_	_	_	_	_	_	_
+11	تحايلا	taHAyul_1	_	_	PFV;PST;DU;ACT;MASC;N;3	_	_	_	_
+12	ل	l	_	_	ADP	_	_	_	_
+13	لمشاركة	mu$Arakap_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+14	في	fiy_1	_	_	ADP	_	_	_	_
+15	بطولة	buTuwlap_1	_	_	NHUM;GEN;SG;N;FEM;INDF	_	_	_	_
+16	غولف	guwlof_1	_	_	NHUM;GEN;MASC;SG;N;INDF	_	_	_	_
+17	كبيرة	kabiyr_1	_	_	GEN;SG;ADJ;FEM;INDF	_	_	_	_
+18	في	fiy_1	_	_	ADP	_	_	_	_
+19	كوريا	kuwriyA_1	_	_	PROPN;NHUM;FEM;SG	_	_	_	_
+20	الشمالية	$amAliy~_1	_	_	GEN;DEF;SG;ADJ;FEM	_	_	_	_
+21	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = w01116
+# sent_id = w01116088
+# text = بحلول عام 2009, قدر إجمالي مبيعات كتابي"قوة الآن" و"أرض جديدة" في أمريكا الشمالية بثلاثة ملايين وخمسة ملايين نسخة على التوالي.
+# original_text = بحلول عام 2009, قدر إجمالي مبيعات كتابي "قوة الآن" و"أرض جديدة" في أمريكا الشمالية بثلاثة ملايين وخمسة ملايين نسخة على التوالي.
+# text_en = By 2009, total sales of The Power of Now and A New Earth in North America had been estimated at three million and five million copies respectively.
+1	ب	b	_	_	ADP	_	_	_	_
+2	حلول	Hal~_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+3	عام	EAm_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+4	2009	2009_0	_	_	NUM	_	_	_	_
+5	,	,_0	_	_	_	_	_	_	_
+6	قدر	qador_1	_	_	PFV;PST;PASS;MASC;SG;N;3	_	_	_	_
+7	إجمالي	<ijomAliy~_1	_	_	NHUM;DEF;MASC;SG;N;NOM	_	_	_	_
+8	مبيعات	mabiyE_1	_	_	NHUM;PL;GEN;DEF;MASC;N	_	_	_	_
+9	كتابي	kitAb_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+10	"	"_0	_	_	_	_	_	_	_
+11	قوة	quw~ap_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+12	الآن	|n_1	_	_	ADV	_	_	_	_
+13	"	"_0	_	_	_	_	_	_	_
+14	و	wa_1	_	_	CONJ	_	_	_	_
+15	"	"_0	_	_	_	_	_	_	_
+16	أرض	>aroD_1	_	_	NHUM;GEN;SG;N;FEM;INDF	_	_	_	_
+17	جديدة	jadiyd_1	_	_	GEN;SG;ADJ;FEM;INDF	_	_	_	_
+18	"	"_0	_	_	_	_	_	_	_
+19	في	fiy_1	_	_	ADP	_	_	_	_
+20	أمريكا	>amoriykA_1	_	_	PROPN;NHUM;FEM;SG	_	_	_	_
+21	الشمالية	$amAliy~_1	_	_	GEN;DEF;SG;ADJ;FEM	_	_	_	_
+22	ب	b	_	_	ADP	_	_	_	_
+23	ثلاثة	valAv_1	_	_	PL;NUM;FEM;GEN	_	_	_	_
+24	ملايين	miloyuwn_1	_	_	NUM;PL;GEN	_	_	_	_
+25	و	w	_	_	CONJ	_	_	_	_
+26	خمسة	xamos_1	_	_	PL;NUM;FEM;GEN	_	_	_	_
+27	ملايين	miloyuwn_1	_	_	NUM;PL;GEN	_	_	_	_
+28	نسخة	nusoxap_1	_	_	NHUM;GEN;SG;N;FEM;INDF	_	_	_	_
+29	على	EalaY_1	_	_	ADP	_	_	_	_
+30	التوالي	tawAliy_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+31	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = w01069
+# sent_id = w01069056
+# text = عام 1566, قدمت مجموعة مكونة من نحو 400 شخص من النبلاء عريضة إلى الحاكمة مارغريت دوقة بارما لوقف الاضطهاد حتى عودة البقية.
+# original_text = عام 1566, قدمت مجموعة مكونة من نحو 400 شخص من النبلاء عريضة إلى الحاكمة مارغريت دوقة بارما لوقف الاضطهاد حتى عودة البقية.
+# text_en = In 1566, a league of about 400 members of the nobility presented a petition to the governor Margaret of Parma, to suspend persecution until the rest had returned.
+1	عام	EAm_1	_	_	ADV	_	_	_	_
+2	1566	1566_0	_	_	NUM;GEN	_	_	_	_
+3	,	,_0	_	_	_	_	_	_	_
+4	قدمت	qad~am_1	_	_	PFV;PST;ACT;V;SG;3;FEM	_	_	_	_
+5	مجموعة	majomuwEap_1	_	_	NHUM;SG;N;NOM;FEM;INDF	_	_	_	_
+6	مكونة	mukaw~an_1	_	_	V.PTCP;PASS;SG;FEM;NOM;ADJ;INDF	_	_	_	_
+7	من	min_1	_	_	ADP	_	_	_	_
+8	نحو	naHow_1	_	_	ADV	_	_	_	_
+9	400	400_0	_	_	NUM	_	_	_	_
+10	شخص	$axoS_1	_	_	GEN;MASC;SG;N;HUM;INDF	_	_	_	_
+11	من	min_1	_	_	ADP	_	_	_	_
+12	النبلاء	nabiyl_1	_	_	PL;GEN;DEF;MASC;N;HUM	_	_	_	_
+13	عريضة	EariyD_1	_	_	NHUM;ACC;SG;N;FEM;INDF	_	_	_	_
+14	إلى	<ilaY_1	_	_	ADP	_	_	_	_
+15	الحاكمة	HAkim_1	_	_	GEN;DEF;SG;N;HUM;FEM	_	_	_	_
+16	مارغريت	mArgryt_0	_	_	PROPN;FEM;HUM;SG	_	_	_	_
+17	دوقة	duwqap_1	_	_	GEN;DEF;SG;N;HUM;FEM	_	_	_	_
+18	بارما	bAromA_1	_	_	PROPN;NHUM;FEM;SG	_	_	_	_
+19	ل	l	_	_	ADP	_	_	_	_
+20	وقف	waqof_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+21	الاضطهاد	{iDoTihAd_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+22	حتى	Hat~aY_1	_	_	ADP	_	_	_	_
+23	عودة	Eawodap_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+24	البقية	baqiy~ap_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+25	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = n01033
+# sent_id = n01033031
+# text = لكن الفحص أظهر أن الورم في رئة الآنسة بيو اليمنى يكبر, فكان عليها أن تترك التجربة.
+# original_text = لكن الفحص أظهر أن الورم في رئة الآنسة بيو اليمنى يكبر, فكان عليها أن تترك التجربة.
+# text_en = But a scan has shown the tumour in Ms Pugh's right lung is growing, and she has had to leave the trial.
+1	لكن	l`kin~a_1	_	_	PART	_	_	_	_
+2	الفحص	faHoS_1	_	_	NHUM;ACC;DEF;MASC;SG;N	_	_	_	_
+3	أظهر	>aZohar_1	_	_	PFV;PST;ACT;V;MASC;SG;3	_	_	_	_
+4	أن	>an~a_1	_	_	CONJ	_	_	_	_
+5	الورم	waram_1	_	_	NHUM;ACC;DEF;MASC;SG;N	_	_	_	_
+6	في	fiy_1	_	_	ADP	_	_	_	_
+7	رئة	ri}ap_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+8	الآنسة	|nisap_1	_	_	GEN;DEF;SG;N;HUM;FEM	_	_	_	_
+9	بيو	yuw_1	_	_	PROPN;FEM;HUM;SG	_	_	_	_
+10	اليمنى	yamaniy~_1	_	_	GEN;DEF;SG;ADJ;FEM	_	_	_	_
+11	يكبر	>akobar_1	_	_	ACT;IPFV;V;MASC;IND;SG;3;PRS	_	_	_	_
+12	,	,_0	_	_	_	_	_	_	_
+13	ف	f	_	_	ADP	_	_	_	_
+14	كان	kAn-u_1	_	_	PFV;PST;ACT;V;MASC;SG;3	_	_	_	_
+15	علي	EalaY_1	_	_	ADP	_	_	_	_
+16	ها	hA	_	_	GEN;SG;PRO;3;FEM	_	_	_	_
+17	أن	>ano_1	_	_	ADP	_	_	_	_
+18	تترك	tarak-u_1	_	_	SBJV;PRS;ACT;IPFV;V;SG;3;FEM	_	_	_	_
+19	التجربة	tajoribap_1	_	_	NHUM;ACC;DEF;SG;N;FEM	_	_	_	_
+20	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = w01028
+# sent_id = w01028069
+# text = أظهر رد الفعل الوطني تجاه الأحداث في كانساس مدى عمق الانقسام الذي وصلت إليه البلاد.
+# original_text = أظهر رد الفعل الوطني تجاه الأحداث في كانساس مدى عمق الانقسام الذي وصلت إليه البلاد.
+# text_en = National reaction to the events in Kansas demonstrated how deeply divided the country had become.
+1	أظهر	>aZohar_1	_	_	PFV;PST;ACT;V;MASC;SG;3	_	_	_	_
+2	رد	rad~_1	_	_	NHUM;DEF;MASC;SG;N;NOM	_	_	_	_
+3	الفعل	fiEol_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+4	الوطني	waTaniy~_1	_	_	DEF;MASC;SG;NOM;ADJ	_	_	_	_
+5	تجاه	tujAh_1	_	_	ADP	_	_	_	_
+6	الأحداث	Hadav_1	_	_	NHUM;PL;GEN;DEF;MASC;N	_	_	_	_
+7	في	fiy_1	_	_	ADP	_	_	_	_
+8	كانساس	kAnsAs_0	_	_	PROPN;NHUM;FEM;SG	_	_	_	_
+9	مدى	madaY_1	_	_	NHUM;ACC;DEF;MASC;SG;N	_	_	_	_
+10	عمق	Eumoq_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+11	الانقسام	{inoqisAm_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+12	الذي	Al~a*iy_1	_	_	PRO;MASC;SG;GEN	_	_	_	_
+13	وصلت	waSal-i_1	_	_	PFV;PST;ACT;V;SG;3;FEM	_	_	_	_
+14	إلي	<ilaY_1	_	_	ADP	_	_	_	_
+15	ه	h	_	_	GEN;MASC;SG;PRO;3	_	_	_	_
+16	البلاد	balad_1	_	_	NHUM;PL;DEF;MASC;N;NOM	_	_	_	_
+17	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = w01113
+# sent_id = w01113046
+# text = كما أنه شيد وجدد خمسة أسواقٍ تقليدية عام 2013 وأربعة أسواقٍ تقليدية عام 2014.
+# original_text = كما أنه شيد وجدد خمسة أسواق تقليدية عام 2013 وأربعة أسواق تقليدية عام 2014.
+# text_en = He also built and renovated five traditional markets in 2013 and four traditional markets in 2014.
+1	كما	kamA_1	_	_	PART	_	_	_	_
+2	أن	>an~a_1	_	_	PART	_	_	_	_
+3	ه	h	_	_	ACC;MASC;SG;PRO;3	_	_	_	_
+4	شيد	$ay~ad_1	_	_	PFV;PST;PASS;V;MASC;SG;3	_	_	_	_
+5	و	w	_	_	CONJ	_	_	_	_
+6	جدد	jad~ad_1	_	_	PFV;PST;ACT;V;MASC;SG;3	_	_	_	_
+7	خمسة	xamos_1	_	_	ACC;NUM;FEM;PL	_	_	_	_
+8	أسواقٍ	suwq_1	_	_	NHUM;PL;GEN;MASC;N;INDF	_	_	_	_
+9	تقليدية	taqoliydiy~_1	_	_	GEN;SG;ADJ;FEM;INDF	_	_	_	_
+10	عام	EAm_1	_	_	ADV	_	_	_	_
+11	2013	2013_0	_	_	NUM;GEN	_	_	_	_
+12	و	w	_	_	CONJ	_	_	_	_
+13	أربعة	>arobaE_1	_	_	NOM;PL;NUM;FEM	_	_	_	_
+14	أسواقٍ	suwq_1	_	_	NHUM;PL;GEN;MASC;N;INDF	_	_	_	_
+15	تقليدية	taqoliydiy~_1	_	_	GEN;SG;ADJ;FEM;INDF	_	_	_	_
+16	عام	EAm_1	_	_	ADV	_	_	_	_
+17	2014	2014_0	_	_	NUM;GEN	_	_	_	_
+18	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = w01080
+# sent_id = w01080132
+# text = بعد أن أمن المناطق الحدودية لمملكة مقدونيا, جمع فيليب جيشاً مقدونياً كبيراً وزحف نحو عمق الأراضي التراقية في حملة غزوٍ طويلة.
+# original_text = بعد أن أمن المناطق الحدودية لمملكة مقدونيا, جمع فيليب جيشا مقدونيا كبيرا وزحف نحو عمق الأراضي التراقية في حملة غزو طويلة.
+# text_en = Having secured the bordering regions of Macedon, Philip assembled a large Macedonian army and marched deep into Thrace for a long conquering campaign.
+1	بعد	baEod_1	_	_	ADP	_	_	_	_
+2	أن	>ano_1	_	_	ADP	_	_	_	_
+3	أمن	>amon_1	_	_	PFV;PST;ACT;MASC;SG;N;3	_	_	_	_
+4	المناطق	minoTaqap_1	_	_	NHUM;ACC;PL;DEF;N;FEM	_	_	_	_
+5	الحدودية	Huduwdiy~_1	_	_	ACC;DEF;SG;FEM;ADJ	_	_	_	_
+6	ل	l	_	_	ADP	_	_	_	_
+7	مملكة	mamolakap_1	_	_	NHUM;GEN;DEF;SG;PROPN;FEM	_	_	_	_
+8	مقدونيا	maqoduwniy~_2	_	_	PROPN;NHUM;FEM;SG	_	_	_	_
+9	,	,_0	_	_	_	_	_	_	_
+10	جمع	jamoE_1	_	_	PFV;PST;ACT;MASC;SG;N;3	_	_	_	_
+11	فيليب	fiyliyb_1	_	_	MASC;PROPN;HUM;SG	_	_	_	_
+12	جيشاً	jayo$_1	_	_	NHUM;ACC;MASC;SG;N;INDF	_	_	_	_
+13	مقدونياً	maqoduwniy~_2	_	_	ACC;MASC;SG;ADJ;INDF	_	_	_	_
+14	كبيراً	kabiyr_1	_	_	ACC;MASC;SG;ADJ;INDF	_	_	_	_
+15	و	w	_	_	CONJ	_	_	_	_
+16	زحف	zaHof_1	_	_	PFV;PST;ACT;MASC;SG;N;3	_	_	_	_
+17	نحو	naHow_1	_	_	ADP	_	_	_	_
+18	عمق	Eumoq_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+19	الأراضي	>aroD_1	_	_	NHUM;PL;GEN;DEF;N;FEM	_	_	_	_
+20	التراقية	trAqyh_0	_	_	GEN;DEF;SG;ADJ;FEM	_	_	_	_
+21	في	fiy_1	_	_	ADP	_	_	_	_
+22	حملة	Hamolap_1	_	_	NHUM;GEN;SG;N;FEM;INDF	_	_	_	_
+23	غزوٍ	gazow_1	_	_	NHUM;GEN;MASC;SG;N;INDF	_	_	_	_
+24	طويلة	Tawiyl_1	_	_	GEN;SG;ADJ;FEM;INDF	_	_	_	_
+25	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = n04002
+# sent_id = n04002027
+# text = تم التأكيد على أننا قطعاً لا نستطيع المواصلة مع أولئك الذين يقفون كلياً ضد إيطالياً.
+# original_text = تم التأكيد على أننا قطعا لا نستطيع المواصلة مع أولئك الذين يقفون كليا ضد إيطاليا.
+# text_en = It has been emphasised that we absolutely cannot continue with those who are completely against Italy.
+1	تم	tam~-i_1	_	_	PFV;PST;ACT;V;MASC;SG;3	_	_	_	_
+2	التأكيد	ta>okiyd_1	_	_	NHUM;DEF;MASC;SG;N;NOM	_	_	_	_
+3	على	EalaY_1	_	_	ADP	_	_	_	_
+4	أن	>an~a_1	_	_	CONJ	_	_	_	_
+5	نا	nA	_	_	PRO;ACC;PL;1	_	_	_	_
+6	قطعاً	qaToE_1	_	_	ADV	_	_	_	_
+7	لا	lA_1	_	_	NEG;PART	_	_	_	_
+8	نستطيع	{isotaTAE_1	_	_	ACT;IPFV;V;PL;IND;1;PRS	_	_	_	_
+9	المواصلة	muwASalap_1	_	_	NHUM;ACC;DEF;SG;N;FEM	_	_	_	_
+10	مع	maE_1	_	_	ADP	_	_	_	_
+11	أولئك	>uwlA}ika_1	_	_	PRO;MASC;PL;GEN	_	_	_	_
+12	الذين	Al~a*iy_1	_	_	PRO;MASC;PL;GEN	_	_	_	_
+13	يقفون	waqaf-i_1	_	_	ACT;IPFV;V;PL;MASC;IND;3;PRS	_	_	_	_
+14	كلياً	kul~iy~_1	_	_	ADV	_	_	_	_
+15	ضد	Did~_1	_	_	ADP	_	_	_	_
+16	إيطالياً	<iyTAliyA_1	_	_	PROPN;NHUM;FEM;SG	_	_	_	_
+17	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = w01039
+# sent_id = w01039032
+# text = من هنا سرقوا قارباً صغيراً تركه سكانٌ أستراليون أصليون كانوا يعيشون في المنطقة.
+# original_text = من هنا سرقوا قاربا صغيرا تركه سكان أستراليون أصليون كانوا يعيشون في المنطقة.
+# text_en = It was here they stole a small canoe left by the Australian Aborigines of the region.
+1	من	min_1	_	_	ADP	_	_	_	_
+2	هنا	hunA_1	_	_	ADV	_	_	_	_
+3	سرقوا	saraq-i_1	_	_	PFV;PST;ACT;PL;V;MASC;3	_	_	_	_
+4	قارباً	qArib_1	_	_	NHUM;ACC;MASC;SG;N;INDF	_	_	_	_
+5	صغيراً	Sagiyr_1	_	_	ACC;MASC;SG;ADJ;INDF	_	_	_	_
+6	ترك	tarak-u_1	_	_	PFV;PST;ACT;V;MASC;SG;3	_	_	_	_
+7	ه	h	_	_	ACC;MASC;SG;PRO;3	_	_	_	_
+8	سكانٌ	sAkin_1	_	_	PL;MASC;N;HUM;NOM;INDF	_	_	_	_
+9	أستراليون	>usoturAliy~_1	_	_	PL;MASC;NOM;ADJ;INDF	_	_	_	_
+10	أصليون	>aSoliy~_1	_	_	PL;MASC;NOM;ADJ;INDF	_	_	_	_
+11	كانوا	kAn-u_1	_	_	PFV;PST;ACT;PL;V;MASC;3	_	_	_	_
+12	يعيشون	EA$_1	_	_	ACT;IPFV;V;PL;MASC;IND;3;PRS	_	_	_	_
+13	في	fiy_1	_	_	ADP	_	_	_	_
+14	المنطقة	minoTaqap_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+15	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = n01117
+# sent_id = n01117007
+# text = عمل في مجال الأخبار والشؤون اليومية في الإذاعة والتلفزيون لعقود.
+# original_text = عمل في مجال الأخبار والشؤون اليومية في الإذاعة والتلفزيون لعقود.
+# text_en = He worked on the news and current affairs side of radio and TV for decades.
+1	عمل	Eamal_1	_	_	PFV;PST;ACT;MASC;SG;N;3	_	_	_	_
+2	في	fiy_1	_	_	ADP	_	_	_	_
+3	مجال	majAl_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+4	الأخبار	xabar_1	_	_	NHUM;PL;GEN;DEF;MASC;N	_	_	_	_
+5	و	w	_	_	CONJ	_	_	_	_
+6	الشؤون	$a>on_1	_	_	NHUM;PL;GEN;DEF;MASC;N	_	_	_	_
+7	اليومية	yawomiy~_1	_	_	GEN;DEF;SG;ADJ;FEM	_	_	_	_
+8	في	fiy_1	_	_	ADP	_	_	_	_
+9	الإذاعة	<i*AEap_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+10	و	w	_	_	CONJ	_	_	_	_
+11	التلفزيون	tilofizyuwn_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+12	ل	l	_	_	ADP	_	_	_	_
+13	عقود	Eaqod_2	_	_	NHUM;PL;GEN;MASC;N;INDF	_	_	_	_
+14	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = n01114
+# sent_id = n01114012
+# text = محذراً من أن هيئة الخدمات الصحية الوطنية ترزح تحت "ضغطٍ هائل", حث الناس على تحمل المزيد من المسؤولية من أجل صحتهم.
+# original_text = محذرا من أن هيئة الخدمات الصحية الوطنية ترزح تحت "ضغط هائل", حث الناس على تحمل المزيد من المسؤولية من أجل صحتهم.
+# text_en = Warning that the NHS was now under "enormous pressure," he urged the public to take more responsibility for their own health.
+1	محذراً	muHa*~ir_1	_	_	ACT;ACC;MASC;SG;ADJ;INDF	_	_	_	_
+2	من	min_1	_	_	ADP	_	_	_	_
+3	أن	>an~a_1	_	_	CONJ	_	_	_	_
+4	هيئة	hayo}ap_1	_	_	NHUM;ACC;DEF;SG;PROPN;FEM	_	_	_	_
+5	الخدمات	xidomap_1	_	_	NHUM;PL;GEN;DEF;PROPN;FEM	_	_	_	_
+6	الصحية	SiH~iy~_1	_	_	GEN;DEF;SG;ADJ;FEM	_	_	_	_
+7	الوطنية	waTaniy~_1	_	_	GEN;DEF;SG;ADJ;FEM	_	_	_	_
+8	ترزح	razaH-a_1	_	_	PRS;ACT;IPFV;V;IND;SG;3;FEM	_	_	_	_
+9	تحت	taHota_1	_	_	ADP	_	_	_	_
+10	"	"_0	_	_	_	_	_	_	_
+11	ضغطٍ	DagoT_1	_	_	NHUM;GEN;MASC;SG;N;INDF	_	_	_	_
+12	هائل	hA}il_1	_	_	GEN;MASC;SG;ADJ;INDF	_	_	_	_
+13	"	"_0	_	_	_	_	_	_	_
+14	,	,_0	_	_	_	_	_	_	_
+15	حث	Hav~-u_1	_	_	PFV;PST;ACT;V;MASC;SG;3	_	_	_	_
+16	الناس	nAs_1	_	_	ACC;PL;DEF;MASC;N;HUM	_	_	_	_
+17	على	EalaY_1	_	_	ADP	_	_	_	_
+18	تحمل	Hamal-i_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+19	المزيد	maziyd_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+20	من	min_1	_	_	ADP	_	_	_	_
+21	المسؤولية	maso&uwliy~ap_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+22	من	min_1	_	_	ADP	_	_	_	_
+23	أجل	>ajol_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+24	صحت	SiH~ap_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+25	هم	hm	_	_	PL;GEN;PRO;3;FEM	_	_	_	_
+26	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = n01088
+# sent_id = n01088026
+# text = لكن عندما اقترحت عليها أن تستعين بفرانكو كعارضٍ لها, ضحكت.
+# original_text = لكن عندما اقترحت عليها أن تستعين بفرانكو كعارض لها, ضحكت.
+# text_en = But, when I suggest that she get Frank to model for her, she laughs.
+1	لكن	l`kin~a_1	_	_	PART	_	_	_	_
+2	عندما	Einod_1	_	_	ADP	_	_	_	_
+3	اقترحت	{iqotaraH_1	_	_	PFV;PST;ACT;V;SG;3;FEM	_	_	_	_
+4	علي	EalaY_1	_	_	ADP	_	_	_	_
+5	ها	hA	_	_	GEN;SG;PRO;3;FEM	_	_	_	_
+6	أن	>an~a_1	_	_	CONJ	_	_	_	_
+7	تستعين	{isotaEAn_1	_	_	SBJV;PRS;ACT;IPFV;V;SG;3;FEM	_	_	_	_
+8	ب	b	_	_	ADP	_	_	_	_
+9	فرانكو	frAnokuw_1	_	_	MASC;PROPN;HUM;SG	_	_	_	_
+10	ك	k	_	_	ADP	_	_	_	_
+11	عارضٍ	EAriD_1	_	_	GEN;SG;N;HUM;FEM;INDF	_	_	_	_
+12	ل	li-_1	_	_	ADP	_	_	_	_
+13	ها	hA	_	_	GEN;SG;PRO;3;FEM	_	_	_	_
+14	,	,_0	_	_	_	_	_	_	_
+15	ضحكت	DaHik-a_1	_	_	PFV;PST;ACT;V;SG;3;FEM	_	_	_	_
+16	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = n01141
+# sent_id = n01141020
+# text = أبرزت هذه الخطوة رغبة الشركة بأن يبدأ المستخدمون بالنظر إلى منتجاتها على أنها أكثر من مجرد أدوات إنتاج.
+# original_text = أبرزت هذه الخطوة رغبة الشركة بأن يبدأ المستخدمون بالنظر إلى منتجاتها على أنها أكثر من مجرد أدوات إنتاج.
+# text_en = The move highlighted the company's desire for users to start thinking of its products as more than just productivity tools.
+1	أبرزت	>aboraz_1	_	_	PFV;PST;ACT;V;SG;3;FEM	_	_	_	_
+2	هذه	h`*A_1	_	_	PRO;SG;FEM;NOM	_	_	_	_
+3	الخطوة	xaTowap_1	_	_	NHUM;DEF;SG;N;NOM;FEM	_	_	_	_
+4	رغبة	ragobap_1	_	_	NHUM;ACC;DEF;SG;N;FEM	_	_	_	_
+5	الشركة	$arikap_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+6	ب	b	_	_	ADP	_	_	_	_
+7	أن	>ano_1	_	_	ADP	_	_	_	_
+8	يبدأ	bada>-a_1	_	_	SBJV;ACT;IPFV;V;MASC;SG;3;PRS	_	_	_	_
+9	المستخدمون	musotaxodam_1	_	_	PL;DEF;MASC;N;HUM;NOM	_	_	_	_
+10	ب	b	_	_	ADP	_	_	_	_
+11	النظر	naZar_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+12	إلى	<ilaY_1	_	_	ADP	_	_	_	_
+13	منتجات	munotaj_1	_	_	NHUM;PL;GEN;DEF;MASC;N	_	_	_	_
+14	ها	hA	_	_	GEN;SG;PRO;3;FEM	_	_	_	_
+15	على	EalaY_1	_	_	ADP	_	_	_	_
+16	أن	>an~a_1	_	_	CONJ	_	_	_	_
+17	ها	hA	_	_	ACC;SG;PRO;3;FEM	_	_	_	_
+18	أكثر	>akovar_2	_	_	NOM;ADJ;INDF	_	_	_	_
+19	من	min_1	_	_	ADP	_	_	_	_
+20	مجرد	mujar~ad_1	_	_	NHUM;GEN;MASC;SG;N;INDF	_	_	_	_
+21	أدوات	>adAp_1	_	_	NHUM;PL;GEN;N;FEM;INDF	_	_	_	_
+22	إنتاج	<inotAj_1	_	_	NHUM;GEN;MASC;SG;N;INDF	_	_	_	_
+23	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = n04007
+# sent_id = n04007023
+# text = سوف يخضع للتقييم.
+# original_text = سوف يخضع للتقييم.
+# text_en = It will go for assessment.
+1	سوف	sawofa_1	_	_	PART	_	_	_	_
+2	يخضع	xaDaE-a_1	_	_	FUT;ACT;IPFV;V;MASC;IND;SG;3	_	_	_	_
+3	ل	l	_	_	ADP	_	_	_	_
+4	لتقييم	taqoyiym_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+5	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = w01146
+# sent_id = w01146051
+# text = بلوتش مهتمٌ بجعل الأمل هو المبدأ الموجه لماركسيته ويشدد على الإنسانية الضمنية الكامنة في التقاليد الروحانية.
+# original_text = بلوتش مهتم بجعل الأمل هو المبدأ الموجه لماركسيته ويشدد على الإنسانية الضمنية الكامنة في التقاليد الروحانية.
+# text_en = Bloch is concerned to establish hope as the guiding principle of his Marxism and stresses the implied humanism inherent in mystical tradition.
+1	بلوتش	blwt$_0	_	_	MASC;PROPN;HUM;SG	_	_	_	_
+2	مهتمٌ	mAh-w_1	_	_	ACT;V;MASC;SG;NOM;INDF	_	_	_	_
+3	ب	b	_	_	ADP	_	_	_	_
+4	جعل	jaEol_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+5	الأمل	>amal_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+6	هو	huwa_1	_	_	PRO;MASC;SG;3	_	_	_	_
+7	المبدأ	maboda>_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+8	الموجه	muwaj~ih_1	_	_	GEN;DEF;MASC;SG;ADJ	_	_	_	_
+9	ل	l	_	_	ADP	_	_	_	_
+10	ماركسيت	mArokisiy~_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+11	ه	h	_	_	GEN;MASC;SG;PRO;3	_	_	_	_
+12	و	w	_	_	CONJ	_	_	_	_
+13	يشدد	$ad~ad_1	_	_	ACT;IPFV;V;MASC;IND;SG;3;PRS	_	_	_	_
+14	على	EalaY_1	_	_	ADP	_	_	_	_
+15	الإنسانية	<inosAniy~ap_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+16	الضمنية	Dimoniy~_1	_	_	GEN;DEF;SG;ADJ;FEM	_	_	_	_
+17	الكامنة	kAmin_1	_	_	V.PTCP;ACT;GEN;DEF;SG;ADJ;FEM	_	_	_	_
+18	في	fiy_1	_	_	ADP	_	_	_	_
+19	التقاليد	taqoliyd_2	_	_	NHUM;PL;GEN;DEF;MASC;N	_	_	_	_
+20	الروحانية	ruwHAniy~ap_1	_	_	GEN;DEF;SG;ADJ;FEM	_	_	_	_
+21	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = n01120
+# sent_id = n01120020
+# text = كان كل المسعفين مسلحين, إلا أنا.
+# original_text = كان كل المسعفين مسلحين, إلا أنا.
+# text_en = All the medics were armed, except me.
+1	كان	kAn-u_1	_	_	PFV;PST;ACT;V;MASC;SG;3	_	_	_	_
+2	كل	kul~_1	_	_	DET;NOM	_	_	_	_
+3	المسعفين	musoEif_1	_	_	PL;GEN;DEF;MASC;N;HUM	_	_	_	_
+4	مسلحين	musal~aH_2	_	_	ACC;PL;MASC;ADJ;INDF	_	_	_	_
+5	,	,_0	_	_	_	_	_	_	_
+6	إلا	<il~A_1	_	_	PART	_	_	_	_
+7	أنا	>anA_1	_	_	PRO;SG;1;NOM	_	_	_	_
+8	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = n01040
+# sent_id = n01040028
+# text = يقابل الطلاب أمثال راي مستشارين نفسيين في المدرسة من أجل الحديث عنما حدث, لكنها تقول أن السلوى الأكبر تأتي من رؤية أصدقائها.
+# original_text = يقابل الطلاب أمثال راي مستشارين نفسيين في المدرسة من أجل الحديث عما حدث, لكنها تقول أن السلوى الأكبر تأتي من رؤية أصدقائها.
+# text_en = Students like Rai have been meeting with counsellors at the school to talk about what happened, but she said the biggest comfort has come from seeing her friends.
+1	يقابل	qAbal_1	_	_	ACT;IPFV;V;MASC;IND;SG;3;PRS	_	_	_	_
+2	الطلاب	TAlib_1	_	_	PL;DEF;MASC;N;HUM;NOM	_	_	_	_
+3	أمثال	mivol_1	_	_	ADP	_	_	_	_
+4	راي	rAy_1	_	_	PROPN;FEM;HUM;SG	_	_	_	_
+5	مستشارين	musota$Ar_1	_	_	ACC;PL;MASC;N;HUM;INDF	_	_	_	_
+6	نفسيين	nafosiy~_1	_	_	ACC;PL;MASC;ADJ;INDF	_	_	_	_
+7	في	fiy_1	_	_	ADP	_	_	_	_
+8	المدرسة	madorasap_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+9	من	min_1	_	_	ADP	_	_	_	_
+10	أجل	>ajol_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+11	الحديث	Hadiyv_2	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+12	عن	Ean_1	_	_	ADP	_	_	_	_
+13	ما	mA	_	_	PRO;GEN	_	_	_	_
+14	حدث	Hadav-u_1	_	_	PFV;PST;ACT;V;MASC;SG;3	_	_	_	_
+15	,	,_0	_	_	_	_	_	_	_
+16	لكن	l`kin~a_1	_	_	ADP	_	_	_	_
+17	ها	hA	_	_	ACC;SG;PRO;3;FEM	_	_	_	_
+18	تقول	qAl-u_1	_	_	PRS;ACT;IPFV;V;IND;SG;3;FEM	_	_	_	_
+19	أن	>an~a_1	_	_	CONJ	_	_	_	_
+20	السلوى	sal~awiy~_1	_	_	NHUM;ACC;DEF;MASC;SG;N	_	_	_	_
+21	الأكبر	>akobar_2	_	_	ACC;DEF;MASC;SG;ADJ	_	_	_	_
+22	تأتي	>ataY-i_1	_	_	PRS;ACT;IPFV;V;IND;SG;3;FEM	_	_	_	_
+23	من	min_1	_	_	ADP	_	_	_	_
+24	رؤية	ru&oyap_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+25	أصدقائ	Sadiyq_1	_	_	PL;GEN;DEF;MASC;N;HUM	_	_	_	_
+26	ها	hA	_	_	GEN;SG;PRO;3;FEM	_	_	_	_
+27	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = n01066
+# sent_id = n01066093
+# text = ذكرت زوجته أليس: "كان يهمل صحته بشكلٍ كامل".
+# original_text = ذكرت زوجته أليس: "كان يهمل صحته بشكل كامل".
+# text_en = “Complete neglect of his own health,” his wife, Alice, reported.
+1	ذكرت	*akar-u_1	_	_	PFV;PST;ACT;V;SG;3;FEM	_	_	_	_
+2	زوجت	zawojap_1	_	_	DEF;SG;N;HUM;NOM;FEM	_	_	_	_
+3	ه	h	_	_	GEN;MASC;SG;PRO;3	_	_	_	_
+4	أليس	>aloyas_1	_	_	PROPN;FEM;HUM;SG	_	_	_	_
+5	:	:_0	_	_	_	_	_	_	_
+6	"	"_0	_	_	_	_	_	_	_
+7	كان	kAn-u_1	_	_	PFV;PST;ACT;V;MASC;SG;3	_	_	_	_
+8	يهمل	>ahomal_1	_	_	ACT;IPFV;V;MASC;IND;SG;3;PRS	_	_	_	_
+9	صحت	SiH~ap_1	_	_	NHUM;ACC;DEF;SG;N;FEM	_	_	_	_
+10	ه	h	_	_	GEN;MASC;SG;PRO;3	_	_	_	_
+11	ب	b	_	_	ADP	_	_	_	_
+12	شكلٍ	$akol_1	_	_	NHUM;GEN;MASC;SG;N;INDF	_	_	_	_
+13	كامل	kAmil_1	_	_	GEN;MASC;SG;ADJ;INDF	_	_	_	_
+14	"	"_0	_	_	_	_	_	_	_
+15	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = w01097
+# sent_id = w01097104
+# text = يؤكد بعض المؤرخين, مثل تشاندلر وويلر, أن فعالية فرقة الخيالة البريطانية الثقيلة أعطبت بعد أول هجومٍ ملحمي.
+# original_text = يؤكد بعض المؤرخين, مثل تشاندلر وويلر, أن فعالية فرقة الخيالة البريطانية الثقيلة أعطبت بعد أول هجوم ملحمي.
+# text_en = Some historians, such as Chandler and Weller, assert that the British heavy cavalry were destroyed as a viable force following their first, epic charge.
+1	يؤكد	>ak~ad_1	_	_	ACT;IPFV;V;MASC;IND;SG;3;PRS	_	_	_	_
+2	بعض	baEoD_1	_	_	DET;NOM	_	_	_	_
+3	المؤرخين	mu&ar~ix_1	_	_	PL;GEN;DEF;MASC;N;HUM	_	_	_	_
+4	,	,_0	_	_	_	_	_	_	_
+5	مثل	mivol_1	_	_	ADP	_	_	_	_
+6	تشاندلر	t$Andlr_0	_	_	MASC;PROPN;HUM;SG	_	_	_	_
+7	و	w	_	_	CONJ	_	_	_	_
+8	ويلر	wylr_0	_	_	MASC;PROPN;HUM;SG	_	_	_	_
+9	,	,_0	_	_	_	_	_	_	_
+10	أن	>an~a_1	_	_	CONJ	_	_	_	_
+11	فعالية	faE~Aliy~ap_1	_	_	NHUM;ACC;DEF;SG;N;FEM	_	_	_	_
+12	فرقة	firoqap_1	_	_	NHUM;DEF;SG;N;FEM	_	_	_	_
+13	الخيالة	xayAlap_1	_	_	NHUM;GEN;DEF;SG;PROPN;FEM	_	_	_	_
+14	البريطانية	briyTAniy~_1	_	_	GEN;DEF;SG;ADJ;FEM	_	_	_	_
+15	الثقيلة	vaqiyl_1	_	_	GEN;DEF;SG;ADJ;FEM	_	_	_	_
+16	أعطبت	>aEoTab_1	_	_	PFV;PST;PASS;V;SG;3;FEM	_	_	_	_
+17	بعد	baEod_1	_	_	ADP	_	_	_	_
+18	أول	>aw~al_2	_	_	GEN;MASC;SG;ADJ;INDF	_	_	_	_
+19	هجومٍ	hujuwm_1	_	_	NHUM;GEN;MASC;SG;N;INDF	_	_	_	_
+20	ملحمي	maloHamiy~_1	_	_	GEN;MASC;SG;ADJ;INDF	_	_	_	_
+21	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = n05006
+# sent_id = n05006002
+# text = في الأفلام الحربية وأفلام رعاة البقر والهنود الحمر, كانت مشاهد القتال والضرب مبهرة إلى أقصى حد.
+# original_text = في الأفلام الحربية وأفلام رعاة البقر والهنود الحمر, كانت مشاهد القتال والضرب مبهرة إلى أقصى حد.
+# text_en = In the war films or cowboy and Indian films the battles, fights and beatings were out of this world.
+1	في	fiy_1	_	_	ADP	_	_	_	_
+2	الأفلام	fiylom_1	_	_	NHUM;PL;GEN;DEF;MASC;N	_	_	_	_
+3	الحربية	Harobiy~_1	_	_	GEN;DEF;SG;ADJ;FEM	_	_	_	_
+4	و	w	_	_	CONJ	_	_	_	_
+5	أفلام	fiylom_1	_	_	NHUM;PL;GEN;DEF;MASC;N	_	_	_	_
+6	رعاة	rAEiy_1	_	_	PL;GEN;DEF;MASC;N;HUM	_	_	_	_
+7	البقر	baqar_1	_	_	NHUM;PL;GEN;DEF;N;FEM	_	_	_	_
+8	و	w	_	_	CONJ	_	_	_	_
+9	الهنود	hinodiy~_1	_	_	PL;GEN;DEF;MASC;N;HUM	_	_	_	_
+10	الحمر	>aHomar_1	_	_	PL;GEN;DEF;MASC;ADJ	_	_	_	_
+11	,	,_0	_	_	_	_	_	_	_
+12	كانت	kAn-u_1	_	_	PFV;PST;ACT;V;SG;3;FEM	_	_	_	_
+13	مشاهد	ma$ohad_1	_	_	NHUM;PL;DEF;MASC;N;NOM	_	_	_	_
+14	القتال	qitAl_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+15	و	w	_	_	CONJ	_	_	_	_
+16	الضرب	Darob_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+17	مبهرة	mbhrh_0	_	_	ACC;SG;FEM;ADJ;INDF	_	_	_	_
+18	إلى	<ilaY_1	_	_	ADP	_	_	_	_
+19	أقصى	>aqoSaY_3	_	_	ADJ;GEN;INDF	_	_	_	_
+20	حد	Had~_1	_	_	NHUM;GEN;MASC;SG;N;INDF	_	_	_	_
+21	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = w01079
+# sent_id = w01079077
+# text = طردت إسبانيا سكانها من اليهود الشرقيين عام 1492, وقد غادر الكثير من أولئك اليهود الإسبان إسبانيا نحو البرتغال لكنهم استهدفوا هناك أيضاً في نهاية المطاف.
+# original_text = طردت إسبانيا سكانها من اليهود الشرقيين عام 1492, وقد غادر الكثير من أولئك اليهود الإسبان إسبانيا نحو البرتغال لكنهم استهدفوا هناك أيضا في نهاية المطاف.
+# text_en = Spain had expelled its Sephardic population in 1492; many of these Spanish Jews left Spain for Portugal but eventually were targeted there as well.
+1	طردت	Tarad-u_1	_	_	PFV;PST;ACT;V;SG;3;FEM	_	_	_	_
+2	إسبانيا	<isobAniyA_1	_	_	PROPN;NHUM;FEM;SG	_	_	_	_
+3	سكان	sAkin_1	_	_	ACC;PL;DEF;MASC;N;HUM	_	_	_	_
+4	ها	hA	_	_	GEN;SG;PRO;3;FEM	_	_	_	_
+5	من	min_1	_	_	ADP	_	_	_	_
+6	اليهود	yahuwdiy~_1	_	_	PL;GEN;DEF;MASC;N;HUM	_	_	_	_
+7	الشرقيين	$aroqiy~_1	_	_	PL;GEN;DEF;MASC;ADJ	_	_	_	_
+8	عام	EAm_1	_	_	ADV	_	_	_	_
+9	1492	1492_0	_	_	NUM;GEN	_	_	_	_
+10	,	,_0	_	_	_	_	_	_	_
+11	و	w	_	_	CONJ	_	_	_	_
+12	قد	qado_1	_	_	PART	_	_	_	_
+13	غادر	gAdar_1	_	_	PFV;PST;ACT;V;MASC;SG;3	_	_	_	_
+14	الكثير	kaviyr_2	_	_	NOM;N;DEF	_	_	_	_
+15	من	min_1	_	_	ADP	_	_	_	_
+16	أولئك	>uwlA}ika_1	_	_	PRO;MASC;PL;GEN	_	_	_	_
+17	اليهود	yahuwdiy~_1	_	_	PL;GEN;DEF;MASC;N;HUM	_	_	_	_
+18	الإسبان	<isobAniy~_2	_	_	PL;GEN;DEF;MASC;ADJ	_	_	_	_
+19	إسبانيا	<isobAniyA_1	_	_	PROPN;NHUM;FEM;SG	_	_	_	_
+20	نحو	naHow_1	_	_	ADP	_	_	_	_
+21	البرتغال	burotugAl_1	_	_	MASC;PROPN;NHUM;SG	_	_	_	_
+22	لكن	l`kin~a_1	_	_	ADP	_	_	_	_
+23	هم	hm	_	_	ACC;PL;MASC;PRO;3	_	_	_	_
+24	استهدفوا	{isotahodaf_1	_	_	PFV;PST;PASS;PL;V;MASC;3	_	_	_	_
+25	هناك	hunAka_1	_	_	ADV	_	_	_	_
+26	أيضاً	>ayoDAF_1	_	_	ADV	_	_	_	_
+27	في	fiy_1	_	_	ADP	_	_	_	_
+28	نهاية	nihAyap_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+29	المطاف	maTAf_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+30	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = n01093
+# sent_id = n01093007
+# text = قال مسؤولٌ أوروبي من دون تحديد أعداد: "أعداد سمك القد في البحر الكلتي تتدهور".
+# original_text = قال مسؤول أوروبي من دون تحديد أعداد: "أعداد سمك القد في البحر الكلتي تتدهور".
+# text_en = “Celtic Sea cod could collapse,” without the proposed limits, one EU official said.
+1	قال	qAl-u_1	_	_	PFV;PST;ACT;V;MASC;SG;3	_	_	_	_
+2	مسؤولٌ	maso&uwl_1	_	_	MASC;SG;N;HUM;NOM;INDF	_	_	_	_
+3	أوروبي	>uwrub~iy~_1	_	_	MASC;SG;NOM;ADJ;INDF	_	_	_	_
+4	من	min_1	_	_	ADP	_	_	_	_
+5	دون	duwn_1	_	_	ADP	_	_	_	_
+6	تحديد	taHodiyd_1	_	_	NHUM;GEN;MASC;SG;N;INDF	_	_	_	_
+7	أعداد	Eadad_1	_	_	NHUM;PL;GEN;MASC;N;INDF	_	_	_	_
+8	:	:_0	_	_	_	_	_	_	_
+9	"	"_0	_	_	_	_	_	_	_
+10	أعداد	Eadad_1	_	_	NHUM;PL;DEF;MASC;N;NOM	_	_	_	_
+11	سمك	sumok_1	_	_	NHUM;PL;GEN;DEF;N;FEM	_	_	_	_
+12	القد	qad~_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+13	في	fiy_1	_	_	ADP	_	_	_	_
+14	البحر	baHor_1	_	_	NHUM;GEN;DEF;MASC;SG;PROPN	_	_	_	_
+15	الكلتي	kil~ap_1	_	_	GEN;DEF;MASC;SG;ADJ	_	_	_	_
+16	تتدهور	tadahowar_1	_	_	PRS;ACT;IPFV;V;IND;SG;3;FEM	_	_	_	_
+17	"	"_0	_	_	_	_	_	_	_
+18	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = w01082
+# sent_id = w01082055
+# text = طوال فترة الحرب, كثر استخدام هجوم بيرل هاربر في الدعاية الأمريكية.
+# original_text = طوال فترة الحرب, كثر استخدام هجوم بيرل هاربر في الدعاية الأمريكية.
+# text_en = Throughout the war, Pearl Harbor was frequently used in American propaganda.
+1	طوال	TawAl_1	_	_	ADP	_	_	_	_
+2	فترة	fatorap_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+3	الحرب	Harob_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+4	,	,_0	_	_	_	_	_	_	_
+5	كثر	kavur-u_1	_	_	PFV;PST;ACT;V;MASC;SG;3	_	_	_	_
+6	استخدام	{isotixodAm_1	_	_	NHUM;DEF;MASC;SG;N;NOM	_	_	_	_
+7	هجوم	hujuwm_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+8	بيرل	biyrl_1	_	_	MASC;PROPN;NHUM;SG	_	_	_	_
+9	هاربر	hArbr_0	_	_	MASC;PROPN;NHUM;SG	_	_	_	_
+10	في	fiy_1	_	_	ADP	_	_	_	_
+11	الدعاية	diEAyap_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+12	الأمريكية	>amoriykiy~_1	_	_	GEN;DEF;SG;ADJ;FEM	_	_	_	_
+13	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = n02042
+# sent_id = n02042028
+# text = من ناحية أخرى, كان فاين فناً في ست ثوانٍ.
+# original_text = من ناحية أخرى, كان فاين فنا في ست ثوان.
+# text_en = On the other hand, Vine was art in six seconds.
+1	من	min_1	_	_	ADP	_	_	_	_
+2	ناحية	nAHiyap_1	_	_	NHUM;GEN;SG;N;FEM;INDF	_	_	_	_
+3	أخرى	>uxoraY_1	_	_	GEN;SG;ADJ;FEM;INDF	_	_	_	_
+4	,	,_0	_	_	_	_	_	_	_
+5	كان	kAn-u_1	_	_	PFV;PST;ACT;V;MASC;SG;3	_	_	_	_
+6	فاين	>ayona_1	_	_	PROPN	_	_	_	_
+7	فناً	fan~_1	_	_	NHUM;ACC;MASC;SG;N;INDF	_	_	_	_
+8	في	fiy_1	_	_	ADP	_	_	_	_
+9	ست	sit~_1	_	_	MASC;NUM;PL;GEN	_	_	_	_
+10	ثوانٍ	vAniyap_1	_	_	NHUM;PL;GEN;N;FEM;INDF	_	_	_	_
+11	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = n01005
+# sent_id = n01005031
+# text = تقدر دراسة الجدوى أن المسافرين سيستغرقون نحو أربع دقائق لعبور نهر بوتوماك على متن الجندول.
+# original_text = تقدر دراسة الجدوى أن المسافرين سيستغرقون نحو أربع دقائق لعبور نهر بوتوماك على متن الجندول.
+# text_en = The feasibility study estimates that it would take passengers about four minutes to cross the Potomac River on the gondola.
+1	تقدر	qad~ar_1	_	_	PRS;PASS;IPFV;V;IND;SG;3;FEM	_	_	_	_
+2	دراسة	dirAsap_1	_	_	NHUM;DEF;SG;N;NOM;FEM	_	_	_	_
+3	الجدوى	jadowaY_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+4	أن	>an~a_1	_	_	CONJ	_	_	_	_
+5	المسافرين	musAfir_1	_	_	ACC;PL;DEF;MASC;N;HUM	_	_	_	_
+6	س	s	_	_	PART	_	_	_	_
+7	يستغرقون	{isotagoraq_1	_	_	FUT;ACT;IPFV;V;PL;MASC;IND;3	_	_	_	_
+8	نحو	naHow_1	_	_	ADV	_	_	_	_
+9	أربع	>arobaE_1	_	_	MASC;NUM;PL;GEN	_	_	_	_
+10	دقائق	daqiyqap_1	_	_	NHUM;PL;GEN;N;FEM;INDF	_	_	_	_
+11	ل	l	_	_	ADP	_	_	_	_
+12	عبور	Eubuwr_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+13	نهر	nahor_1	_	_	NHUM;GEN;DEF;MASC;SG;PROPN	_	_	_	_
+14	بوتوماك	bwtwmAk_0	_	_	MASC;PROPN;NHUM;SG	_	_	_	_
+15	على	EalaY_1	_	_	ADP	_	_	_	_
+16	متن	maton_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+17	الجندول	junoduwl_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+18	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = n01057
+# sent_id = n01057036
+# text = ومع ذلك, ظلت هناك أسئلة بلا إجابة.
+# original_text = ومع ذلك, ظلت هناك أسئلة بلا إجابة.
+# text_en = Still, there are questions left unanswered.
+1	و	w	_	_	PART	_	_	_	_
+2	مع	maE_1	_	_	ADP	_	_	_	_
+3	ذلك	*`lika_1	_	_	PRO;MASC;SG;GEN	_	_	_	_
+4	,	,_0	_	_	_	_	_	_	_
+5	ظلت	Zal~-a_1	_	_	PFV;PST;ACT;V;SG;3;FEM	_	_	_	_
+6	هناك	hunAka_1	_	_	ADV	_	_	_	_
+7	أسئلة	su&Al_1	_	_	NHUM;PL;MASC;N;NOM;INDF	_	_	_	_
+8	ب	b	_	_	ADP	_	_	_	_
+9	لا	lA_1	_	_	NEG;PART	_	_	_	_
+10	إجابة	<ijAbap_1	_	_	NHUM;ACC;SG;N;FEM;INDF	_	_	_	_
+11	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = w02001
+# sent_id = w02001069
+# text = جرى الافتتاح الرسمي في 30 نيسان 1955.
+# original_text = جرى الافتتاح الرسمي في 30 نيسان 1955.
+# text_en = The festive dedication took place on April 30, 1955.
+1	جرى	jaraY-i_1	_	_	PFV;PST;ACT;V;MASC;SG;3	_	_	_	_
+2	الافتتاح	{ifotitAH_1	_	_	NHUM;DEF;MASC;SG;N;NOM	_	_	_	_
+3	الرسمي	rasomiy~_1	_	_	DEF;MASC;SG;NOM;ADJ	_	_	_	_
+4	في	fiy_1	_	_	ADP	_	_	_	_
+5	30	30_0	_	_	NUM	_	_	_	_
+6	نيسان	niysAn_1	_	_	NHUM;GEN;MASC;SG;PROPN	_	_	_	_
+7	1955	1955_0	_	_	NUM	_	_	_	_
+8	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = w02009
+# sent_id = w02009025
+# text = عرف بالأمر في باريس واستمر في إذكاء الاستياء الذي بدأ بالفعل مع استمرار ارتفاع أسعار الخبز وانعدام المؤن.
+# original_text = عرف بالأمر في باريس واستمر في إذكاء الاستياء الذي بدأ بالفعل مع استمرار ارتفاع أسعار الخبز وانعدام المؤن.
+# text_en = The event was known about in Paris and caused more upset in a mood which was already charged by the persistently high price of bread and lack of provisions.
+1	عرف	Earaf-i_1	_	_	PFV;PST;PASS;V;MASC;SG;3	_	_	_	_
+2	ب	b	_	_	ADP	_	_	_	_
+3	الأمر	>amor_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+4	في	fiy_1	_	_	ADP	_	_	_	_
+5	باريس	bAriys_1	_	_	PROPN;NHUM;FEM;SG	_	_	_	_
+6	و	w	_	_	CONJ	_	_	_	_
+7	استمر	{isotamar~_1	_	_	PFV;PST;ACT;V;MASC;SG;3	_	_	_	_
+8	في	fiy_1	_	_	ADP	_	_	_	_
+9	إذكاء	<i*okA'_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+10	الاستياء	{isotiyA'_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+11	الذي	Al~a*iy_1	_	_	PRO;MASC;SG;GEN	_	_	_	_
+12	بدأ	bada>-a_1	_	_	PFV;PST;ACT;V;MASC;SG;3	_	_	_	_
+13	ب	b	_	_	ADP	_	_	_	_
+14	الفعل	fiEol_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+15	مع	maE_1	_	_	ADP	_	_	_	_
+16	استمرار	{isotimorAr_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+17	ارتفاع	{irotifAE_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+18	أسعار	siEor_1	_	_	NHUM;PL;GEN;DEF;MASC;N	_	_	_	_
+19	الخبز	xuboz_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+20	و	w	_	_	CONJ	_	_	_	_
+21	انعدام	{inoEidAm_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+22	المؤن	mu&onap_1	_	_	NHUM;PL;GEN;DEF;N;FEM	_	_	_	_
+23	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = w01069
+# sent_id = w01069007
+# text = عام 1519, أصبح حاكم إمبراطورية هابسبورغ, ثم حاز على لقب الإمبراطور الروماني المقدس عام 1530.
+# original_text = عام 1519, أصبح حاكم إمبراطورية هابسبورغ, ثم حاز على لقب الإمبراطور الروماني المقدس عام 1530.
+# text_en = In 1519, he became ruler of the Habsburg empire, and he gained the title Holy Roman Emperor in 1530.
+1	عام	EAm_1	_	_	ADV	_	_	_	_
+2	1519	1519_0	_	_	NUM;GEN	_	_	_	_
+3	,	,_0	_	_	_	_	_	_	_
+4	أصبح	>aSobaH_1	_	_	PFV;PST;ACT;V;MASC;SG;3	_	_	_	_
+5	حاكم	HAkim_1	_	_	ACC;DEF;MASC;SG;N;HUM	_	_	_	_
+6	إمبراطورية	<imobirATuwriy~ap_1	_	_	NHUM;GEN;DEF;SG;PROPN;FEM	_	_	_	_
+7	هابسبورغ	hAbsbwrg_0	_	_	PROPN;NHUM;FEM;SG	_	_	_	_
+8	,	,_0	_	_	_	_	_	_	_
+9	ثم	vum~a_1	_	_	CONJ	_	_	_	_
+10	حاز	HAz-u_1	_	_	PFV;PST;ACT;V;MASC;SG;3	_	_	_	_
+11	على	EalaY_1	_	_	ADP	_	_	_	_
+12	لقب	laqab_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+13	الإمبراطور	<imobirATuwr_1	_	_	GEN;DEF;MASC;SG;N;HUM	_	_	_	_
+14	الروماني	ruwmAniy~_1	_	_	GEN;DEF;MASC;SG;ADJ	_	_	_	_
+15	المقدس	muqad~as_1	_	_	GEN;DEF;MASC;SG;ADJ	_	_	_	_
+16	عام	EAm_1	_	_	ADV	_	_	_	_
+17	1530	1530_0	_	_	NUM;GEN	_	_	_	_
+18	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = n01127
+# sent_id = n01127130
+# text = بعد سنتين وفي المحكمة العليا في هونغ كونغ, بدا جوتينغ في غاية الهدوء.
+# original_text = بعد سنتين وفي المحكمة العليا في هونغ كونغ, بدا جوتينغ في غاية الهدوء.
+# text_en = In Hong Kong's High Court, two years later, Jutting appeared largely composed.
+1	بعد	baEod_1	_	_	ADP	_	_	_	_
+2	سنتين	sanap_1	_	_	DU;NHUM;GEN;N;FEM;INDF	_	_	_	_
+3	و	w	_	_	CONJ	_	_	_	_
+4	في	fiy_1	_	_	ADP	_	_	_	_
+5	المحكمة	maHokamap_1	_	_	NHUM;GEN;DEF;SG;PROPN;FEM	_	_	_	_
+6	العليا	>aEolaY_2	_	_	GEN;DEF;SG;ADJ;FEM	_	_	_	_
+7	في	fiy_1	_	_	ADP	_	_	_	_
+8	هونغ	huwnoj_1	_	_	PROPN;NHUM;FEM;SG	_	_	_	_
+9	كونغ	kuwnoj_1	_	_	PROPN;NHUM;FEM;SG	_	_	_	_
+10	,	,_0	_	_	_	_	_	_	_
+11	بدا	badA-u_1	_	_	PFV;PST;ACT;V;MASC;SG;3	_	_	_	_
+12	جوتينغ	jwtyng_0	_	_	MASC;PROPN;HUM;SG	_	_	_	_
+13	في	fiy_1	_	_	ADP	_	_	_	_
+14	غاية	gAyap_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+15	الهدوء	huduw'_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+16	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = w01049
+# sent_id = w01049066
+# text = كان منتزه أستراليا الملكي الوطني, الذي أنشئ عام 1879, ثاني منتزه وطني ينشأ رسمياً في العالم.
+# original_text = كان منتزه أستراليا الملكي الوطني, الذي أنشئ عام 1879, ثاني منتزه وطني ينشأ رسميا في العالم.
+# text_en = Australia's Royal National Park, established in 1879, was the world's second officially established national park.
+1	كان	kAn-u_1	_	_	PFV;PST;ACT;V;MASC;SG;3	_	_	_	_
+2	منتزه	munotazah_1	_	_	NHUM;DEF;MASC;SG;N;NOM	_	_	_	_
+3	أستراليا	>usoturAliyA_1	_	_	PROPN;NHUM;FEM;SG	_	_	_	_
+4	الملكي	malakiy~_1	_	_	DEF;MASC;SG;NOM;ADJ	_	_	_	_
+5	الوطني	waTaniy~_1	_	_	DEF;MASC;SG;NOM;ADJ	_	_	_	_
+6	,	,_0	_	_	_	_	_	_	_
+7	الذي	Al~a*iy_1	_	_	PRO;MASC;SG;NOM	_	_	_	_
+8	أنشئ	>ano$a>_1	_	_	PFV;PST;PASS;V;MASC;SG;3	_	_	_	_
+9	عام	EAm_1	_	_	ADV	_	_	_	_
+10	1879	1879_0	_	_	NUM;GEN	_	_	_	_
+11	,	,_0	_	_	_	_	_	_	_
+12	ثاني	vAniy_1	_	_	ACC;MASC;SG;ADJ;INDF	_	_	_	_
+13	منتزه	munotazah_1	_	_	NHUM;GEN;MASC;SG;N;INDF	_	_	_	_
+14	وطني	waTaniy~_1	_	_	GEN;MASC;SG;ADJ;INDF	_	_	_	_
+15	ينشأ	>ano$a>_1	_	_	PASS;IPFV;V;MASC;IND;SG;3;PRS	_	_	_	_
+16	رسمياً	rasomiy~_1	_	_	ADV	_	_	_	_
+17	في	fiy_1	_	_	ADP	_	_	_	_
+18	العالم	EAlam_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+19	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = n03010
+# sent_id = n03010019
+# text = ليس لدى فرنسا سمعة طيبة.
+# original_text = ليس لدى فرنسا سمعة طيبة.
+# text_en = France doesn't have a good reputation.
+1	ليس	layosa_1	_	_	PFV;PST;ACT;V;MASC;SG;3	_	_	_	_
+2	لدى	ladaY_1	_	_	ADP	_	_	_	_
+3	فرنسا	faranosA_1	_	_	PROPN;NHUM;FEM;SG	_	_	_	_
+4	سمعة	sumoEap_1	_	_	NHUM;SG;N;NOM;FEM;INDF	_	_	_	_
+5	طيبة	Tay~ib_1	_	_	SG;FEM;NOM;ADJ;INDF	_	_	_	_
+6	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = w01001
+# sent_id = w01001049
+# text = سمح الميثاق بإنشاء نقابةٍ للتجار يديرها مواطنو البلدة لفرض ضريبة على من يمر من منطقتهم.
+# original_text = سمح الميثاق بإنشاء نقابة للتجار يديرها مواطنو البلدة لفرض ضريبة على من يمر من منطقتهم.
+# text_en = The charter allowed for the creation of a merchants' guild, run by the town's burgesses to tax people passing through the borough.
+1	سمح	samaH-a_1	_	_	PFV;PST;ACT;V;MASC;SG;3	_	_	_	_
+2	الميثاق	miyvAq_1	_	_	NHUM;DEF;MASC;SG;N;NOM	_	_	_	_
+3	ب	b	_	_	ADP	_	_	_	_
+4	إنشاء	<ino$A'_1	_	_	NHUM;GEN;MASC;SG;N;INDF	_	_	_	_
+5	نقابةٍ	niqAbap_1	_	_	NHUM;GEN;SG;N;FEM;INDF	_	_	_	_
+6	ل	l	_	_	ADP	_	_	_	_
+7	لتجار	tAjir_1	_	_	PL;GEN;DEF;MASC;N;HUM	_	_	_	_
+8	يدير	>adAr_1	_	_	ACT;IPFV;V;MASC;IND;SG;3;PRS	_	_	_	_
+9	ها	hA	_	_	ACC;SG;PRO;3;FEM	_	_	_	_
+10	مواطنو	muwATin_1	_	_	PL;DEF;MASC;N;HUM;NOM	_	_	_	_
+11	البلدة	balodap_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+12	ل	l	_	_	ADP	_	_	_	_
+13	فرض	faroD_1	_	_	NHUM;GEN;MASC;SG;N;INDF	_	_	_	_
+14	ضريبة	Dariybap_1	_	_	NHUM;GEN;SG;N;FEM;INDF	_	_	_	_
+15	على	EalaY_1	_	_	ADP	_	_	_	_
+16	من	mano_1	_	_	PRO;GEN	_	_	_	_
+17	يمر	mar~-u_1	_	_	ACT;IPFV;V;MASC;IND;SG;3;PRS	_	_	_	_
+18	من	min_1	_	_	ADP	_	_	_	_
+19	منطقت	minoTaqap_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+20	هم	hm	_	_	PL;GEN;MASC;PRO;3	_	_	_	_
+21	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = w01027
+# sent_id = w01027007
+# text = المناخ جافٌ جداً بحيث تعد هذه السهول أحياناً جزءاً من الصحراء الكبرى.
+# original_text = المناخ جاف جدا بحيث تعد هذه السهول أحيانا جزءا من الصحراء الكبرى.
+# text_en = The climate is so dry that these plains are sometimes thought of as part of the Sahara.
+1	المناخ	munAx_1	_	_	NHUM;DEF;MASC;SG;N;NOM	_	_	_	_
+2	جافٌ	jAf~_1	_	_	SG;FEM;NOM;ADJ;INDF	_	_	_	_
+3	جداً	jid~_1	_	_	ADV	_	_	_	_
+4	ب	b	_	_	ADP	_	_	_	_
+5	حيث	Hayovu_1	_	_	ADP	_	_	_	_
+6	تعد	Ead~-u_1	_	_	PRS;V;PASS;IPFV;IND;SG;3;FEM	_	_	_	_
+7	هذه	h`*A_1	_	_	PRO;SG;FEM;NOM	_	_	_	_
+8	السهول	sahol_2	_	_	NHUM;PL;DEF;MASC;N;NOM	_	_	_	_
+9	أحياناً	Hiyn_1	_	_	ADV	_	_	_	_
+10	جزءاً	juzo'_1	_	_	NHUM;ACC;MASC;SG;N;INDF	_	_	_	_
+11	من	min_1	_	_	ADP	_	_	_	_
+12	الصحراء	SaHorA'_1	_	_	NHUM;GEN;DEF;MASC;SG;PROPN	_	_	_	_
+13	الكبرى	>akobar_2	_	_	GEN;DEF;SG;ADJ;FEM	_	_	_	_
+14	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = w01025
+# sent_id = w01025086
+# text = شكل خبر الانسحاب صدمةً بالنسبة إلى الرأي العام الدنماركي الذي كان يعتبر الدانيفيركه منيعة, وجرد الجنرال دي ميزا فوراً من سلطته.
+# original_text = شكل خبر الانسحاب صدمة بالنسبة إلى الرأي العام الدنماركي الذي كان يعتبر الدانيفيركه منيعة, وجرد الجنرال دي ميزا فورا من سلطته.
+# text_en = News of the retreat came as a great shock to Danish public opinion which had considered the Danevirke to be impregnable, and General de Meza was promptly relieved of his command.
+1	شكل	$ak~al_1	_	_	PFV;PST;ACT;V;MASC;SG;3	_	_	_	_
+2	خبر	xabar_1	_	_	NHUM;DEF;MASC;SG;N;NOM	_	_	_	_
+3	الانسحاب	{inosiHAb_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+4	صدمةً	Sadomap_1	_	_	NHUM;ACC;SG;N;FEM;INDF	_	_	_	_
+5	ب	b	_	_	ADP	_	_	_	_
+6	النسبة	nisobap_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+7	إلى	<ilaY_1	_	_	ADP	_	_	_	_
+8	الرأي	ra>oy_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+9	العام	EAm~_1	_	_	GEN;DEF;MASC;SG;ADJ	_	_	_	_
+10	الدنماركي	danimArokiy~_1	_	_	GEN;DEF;MASC;SG;ADJ	_	_	_	_
+11	الذي	Al~a*iy_1	_	_	PRO;MASC;SG;NOM	_	_	_	_
+12	كان	kAn-u_1	_	_	PFV;PST;ACT;V;MASC;SG;3	_	_	_	_
+13	يعتبر	{iEotabar_1	_	_	ACT;V;IPFV;MASC;SG;IND;3;PRS	_	_	_	_
+14	الدانيفيركه	dAnyfyrkh_0	_	_	NHUM;DEF;SG;N;FEM	_	_	_	_
+15	منيعة	maniyE_1	_	_	NHUM;ACC;SG;N;FEM;INDF	_	_	_	_
+16	,	,_0	_	_	_	_	_	_	_
+17	و	w	_	_	CONJ	_	_	_	_
+18	جرد	jar~ad_1	_	_	PFV;PST;PASS;V;MASC;SG;3	_	_	_	_
+19	الجنرال	jinirAl_2	_	_	PROPN;HUM;SG	_	_	_	_
+20	دي	diy_1	_	_	MASC;PROPN;HUM;SG	_	_	_	_
+21	ميزا	may~az_1	_	_	MASC;PROPN;HUM;SG	_	_	_	_
+22	فوراً	fawor_1	_	_	ADV	_	_	_	_
+23	من	min_1	_	_	ADP	_	_	_	_
+24	سلطت	suloTap_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+25	ه	h	_	_	GEN;MASC;SG;PRO;3	_	_	_	_
+26	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = n01069
+# sent_id = n01069006
+# text = يأمل حزب الديمقراطيين الأحرار الذي كان يمثل الحي الراقي حتى عام 2010 أن ينتزع المقعد مجدداً من خلال مرشحته سارة أولني.
+# original_text = يأمل حزب الديمقراطيين الأحرار الذي كان يمثل الحي الراقي حتى عام 2010 أن ينتزع المقعد مجددا من خلال مرشحته سارة أولني.
+# text_en = The Liberal Democrats, who represented the affluent suburb until 2010, are hoping to snatch it back with their candidate Sarah Olney.
+1	يأمل	>amal-a_1	_	_	ACT;IPFV;V;MASC;IND;SG;3;PRS	_	_	_	_
+2	حزب	Hizob_1	_	_	NHUM;DEF;MASC;SG;N;NOM	_	_	_	_
+3	الديمقراطيين	diymuqrATiy~_1	_	_	PL;GEN;DEF;MASC;HUM;PROPN	_	_	_	_
+4	الأحرار	Hur~_1	_	_	GEN;DEF;MASC;SG;ADJ	_	_	_	_
+5	الذي	Al~a*iy_1	_	_	PRO;MASC;SG;GEN	_	_	_	_
+6	كان	kAn-u_1	_	_	PFV;PST;ACT;V;MASC;SG;3	_	_	_	_
+7	يمثل	mav~al_1	_	_	ACT;IPFV;V;MASC;IND;SG;3;PRS	_	_	_	_
+8	الحي	Hay~_2	_	_	NHUM;ACC;DEF;MASC;SG;N	_	_	_	_
+9	الراقي	rAqiy_1	_	_	ACC;DEF;MASC;SG;ADJ	_	_	_	_
+10	حتى	Hat~aY_1	_	_	ADP	_	_	_	_
+11	عام	EAm_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+12	2010	2010_0	_	_	NUM	_	_	_	_
+13	أن	>ano_1	_	_	ADP	_	_	_	_
+14	ينتزع	{inotazaE_1	_	_	SBJV;ACT;IPFV;V;MASC;SG;3;PRS	_	_	_	_
+15	المقعد	maqoEad_1	_	_	NHUM;ACC;DEF;MASC;SG;N	_	_	_	_
+16	مجدداً	mujad~ad_1	_	_	ADV	_	_	_	_
+17	من	min_1	_	_	ADP	_	_	_	_
+18	خلال	xilAl_1	_	_	ADP	_	_	_	_
+19	مرشحت	mura$~aH_1	_	_	GEN;DEF;SG;N;HUM;FEM	_	_	_	_
+20	ه	h	_	_	GEN;MASC;SG;PRO;3	_	_	_	_
+21	سارة	sAr~_2	_	_	SG;HUM;NOM;PROPN;FEM	_	_	_	_
+22	أولني	>aw~al_1	_	_	MASC;PROPN;HUM;SG	_	_	_	_
+23	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = n05008
+# sent_id = n05008012
+# text = نتيجةً لذلك, ترامب ليس قلقاً جداً بشأن تصويت الأمريكيين اللاتينيين على المستوى الوطني.
+# original_text = نتيجة لذلك, ترامب ليس قلقا جدا بشأن تصويت الأمريكيين اللاتينيين على المستوى الوطني.
+# text_en = As a result, Trump isn't very worried about the Latin American vote at a national level.
+1	نتيجةً	natiyjap_1	_	_	ACC;N;FEM;INDF	_	_	_	_
+2	ل	l	_	_	ADP	_	_	_	_
+3	ذلك	*`lika_1	_	_	PRO;MASC;SG;GEN	_	_	_	_
+4	,	,_0	_	_	_	_	_	_	_
+5	ترامب	trAmb_0	_	_	MASC;PROPN;HUM;SG	_	_	_	_
+6	ليس	layosa_1	_	_	PFV;PST;ACT;V;MASC;SG;3	_	_	_	_
+7	قلقاً	qaliq_1	_	_	ACC;MASC;SG;ADJ;INDF	_	_	_	_
+8	جداً	jid~_1	_	_	ADV	_	_	_	_
+9	ب	b	_	_	ADP	_	_	_	_
+10	شأن	$a>on_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+11	تصويت	taSowiyt_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+12	الأمريكيين	>amoriykiy~_1	_	_	PL;GEN;DEF;MASC;N;HUM	_	_	_	_
+13	اللاتينيين	lAtiyniy~_1	_	_	PL;GEN;DEF;MASC;ADJ	_	_	_	_
+14	على	EalaY_1	_	_	ADP	_	_	_	_
+15	المستوى	musotawaY_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+16	الوطني	waTaniy~_1	_	_	GEN;DEF;MASC;SG;ADJ	_	_	_	_
+17	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = n04010
+# sent_id = n04010021
+# text = رؤساء شركات مثل سبوتيفاي وتسلا وأوبر وسنابتشات سيحضرون اجتماعاً خاصاً بالإضافة إلى قمة ماونتين فيو.
+# original_text = رؤساء شركات مثل سبوتيفاي وتسلا وأوبر وسنابتشات سيحضرون اجتماعا خاصا بالإضافة إلى قمة ماونتين فيو.
+# text_en = Leaders of companies such as Spotify, Tesla, Uber and Snapchat will attend a private event in addition to the Mountain View Summit.
+1	رؤساء	ra}iys_1	_	_	PL;MASC;N;HUM;NOM;INDF	_	_	_	_
+2	شركات	$arikap_1	_	_	NHUM;PL;GEN;N;FEM;INDF	_	_	_	_
+3	مثل	mivol_1	_	_	ADP	_	_	_	_
+4	سبوتيفاي	sbwtyfAy_0	_	_	PROPN;NHUM;SG	_	_	_	_
+5	و	w	_	_	CONJ	_	_	_	_
+6	تسلا	sal~-u_1	_	_	PROPN;NHUM;FEM;SG	_	_	_	_
+7	و	w	_	_	CONJ	_	_	_	_
+8	أوبر	>awobar_1	_	_	PROPN;NHUM;FEM;SG	_	_	_	_
+9	و	w	_	_	CONJ	_	_	_	_
+10	سناب	snAb_0	_	_	PROPN;NHUM;SG	_	_	_	_
+11	تشات	t$At_0	_	_	PROPN;NHUM;SG	_	_	_	_
+12	س	s	_	_	PART	_	_	_	_
+13	يحضرون	HaDar-u_1	_	_	FUT;ACT;IPFV;V;PL;MASC;IND;3	_	_	_	_
+14	اجتماعاً	{ijotimAE_1	_	_	NHUM;ACC;MASC;SG;N;INDF	_	_	_	_
+15	خاصاً	xAS~_1	_	_	ACC;MASC;SG;ADJ;INDF	_	_	_	_
+16	ب	b	_	_	ADP	_	_	_	_
+17	الإضافة	<iDAfap_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+18	إلى	<ilaY_1	_	_	ADP	_	_	_	_
+19	قمة	qim~ap_1	_	_	NHUM;GEN;DEF;SG;PROPN;FEM	_	_	_	_
+20	ماونتين	mAwntyn_0	_	_	PROPN;NHUM;SG	_	_	_	_
+21	فيو	yuw_1	_	_	PROPN;NHUM;SG	_	_	_	_
+22	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = n01005
+# sent_id = n01005023
+# text = على سبيل المقارنة, تكلف الأمر 103,7 مليون دولار أمريكي لبناء محطة مترو "نوما" البينية التي افتتحت عام 2004.
+# original_text = على سبيل المقارنة, تكلف الأمر 103,7 مليون دولار أمريكي لبناء محطة مترو "نوما" البينية التي افتتحت عام 2004.
+# text_en = By comparison, it cost $103.7 million to build the NoMa infill Metro station, which opened in 2004.
+1	على	EalaY_1	_	_	ADP	_	_	_	_
+2	سبيل	sabiyl_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+3	المقارنة	muqAranap_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+4	,	,_0	_	_	_	_	_	_	_
+5	تكلف	kalif-a_1	_	_	PRS;ACT;IPFV;V;IND;SG;3;FEM	_	_	_	_
+6	الأمر	>amor_1	_	_	NHUM;DEF;MASC;SG;N;NOM	_	_	_	_
+7	103,7	103,7_0	_	_	NUM	_	_	_	_
+8	مليون	miloyuwn_1	_	_	MASC;SG;NUM;GEN	_	_	_	_
+9	دولار	duwlAr_1	_	_	NHUM;GEN;MASC;SG;N;INDF	_	_	_	_
+10	أمريكي	>amoriykiy~_1	_	_	GEN;MASC;SG;ADJ;INDF	_	_	_	_
+11	ل	l	_	_	ADP	_	_	_	_
+12	بناء	binA'_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+13	محطة	maHaT~ap_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+14	مترو	mitoruw_1	_	_	PROPN;NHUM;SG	_	_	_	_
+15	"	"_0	_	_	_	_	_	_	_
+16	نوما	nawom_1	_	_	PROPN;NHUM;FEM;SG	_	_	_	_
+17	"	"_0	_	_	_	_	_	_	_
+18	البينية	bayoniy~_1	_	_	GEN;DEF;SG;ADJ;FEM	_	_	_	_
+19	التي	Al~a*iy_1	_	_	PRO;SG;FEM;GEN	_	_	_	_
+20	افتتحت	{ifotataH_1	_	_	PFV;PST;PASS;V;SG;3;FEM	_	_	_	_
+21	عام	EAm_1	_	_	ADV	_	_	_	_
+22	2004	2004_0	_	_	NUM;GEN	_	_	_	_
+23	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = w01135
+# sent_id = w01135036
+# text = في ذلك العام أيضاً, ظهرت بشكلٍ وجيز في فيلم ديزني "الدمى المتحركة", كموظفة الاستقبال الخاصة بالآنسة بيغي.
+# original_text = في ذلك العام أيضا, ظهرت بشكل وجيز في فيلم ديزني "الدمى المتحركة", كموظفة الاستقبال الخاصة بالآنسة بيغي.
+# text_en = Also that year, she briefly appeared in Disney's The Muppets, as Miss Piggy's receptionist.
+1	في	fiy_1	_	_	ADP	_	_	_	_
+2	ذلك	*`lika_1	_	_	PRO;MASC;SG;GEN	_	_	_	_
+3	العام	EAm~_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+4	أيضاً	>ayoDAF_1	_	_	ADV	_	_	_	_
+5	,	,_0	_	_	_	_	_	_	_
+6	ظهرت	Zahar-a_1	_	_	PFV;PST;ACT;V;SG;3;FEM	_	_	_	_
+7	ب	b	_	_	ADP	_	_	_	_
+8	شكلٍ	$akol_1	_	_	NHUM;GEN;MASC;SG;N;INDF	_	_	_	_
+9	وجيز	wajiyz_1	_	_	GEN;MASC;SG;ADJ;INDF	_	_	_	_
+10	في	fiy_1	_	_	ADP	_	_	_	_
+11	فيلم	fiylom_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+12	ديزني	diyzoniy_1	_	_	PROPN;NHUM;SG	_	_	_	_
+13	"	"_0	_	_	_	_	_	_	_
+14	الدمى	dumoyap_1	_	_	NHUM;PL;GEN;DEF;PROPN;FEM	_	_	_	_
+15	المتحركة	mutaHar~ik_1	_	_	GEN;DEF;SG;ADJ;FEM	_	_	_	_
+16	"	"_0	_	_	_	_	_	_	_
+17	,	,_0	_	_	_	_	_	_	_
+18	ك	k	_	_	ADP	_	_	_	_
+19	موظفة	muwaZ~af_2	_	_	GEN;DEF;SG;N;HUM;FEM	_	_	_	_
+20	الاستقبال	{isotiqobAl_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+21	الخاصة	xAS~_1	_	_	V.PTCP;ACT;GEN;DEF;SG;ADJ;FEM	_	_	_	_
+22	ب	b	_	_	ADP	_	_	_	_
+23	الآنسة	|nisap_1	_	_	GEN;DEF;SG;N;HUM;FEM	_	_	_	_
+24	بيغي	bygy_0	_	_	PROPN;FEM;HUM;SG	_	_	_	_
+25	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = n02022
+# sent_id = n02022015
+# text = من غير المعروف كيف تعاون المسرحيان.
+# original_text = من غير المعروف كيف تعاون المسرحيان.
+# text_en = One doesn't know in which way both dramatists would have worked together.
+1	من	min_1	_	_	ADP	_	_	_	_
+2	غير	gayor_1	_	_	NEG;PART	_	_	_	_
+3	المعروف	maEoruwf_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+4	كيف	kayofa_2	_	_	ADV	_	_	_	_
+5	تعاون	taEAwan_1	_	_	PFV;PST;ACT;V;MASC;SG;3	_	_	_	_
+6	المسرحيان	masoraHiy~_1	_	_	DU;DEF;MASC;N;HUM;NOM	_	_	_	_
+7	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = w01098
+# sent_id = w01098043
+# text = وفقاً لدراسة جينية على البيانات الصبغية الخاصة بالغجر, فإن الأصل الآسيوي الجنوبي عند الغجر يعود إلى شمال غرب الهند.
+# original_text = وفقا لدراسة جينية على البيانات الصبغية الخاصة بالغجر, فإن الأصل الآسيوي الجنوبي عند الغجر يعود إلى شمال غرب الهند.
+# text_en = According to a genetic study on autosomal data on Roma the source of Southasian Ancestry in Roma is North-West India.
+1	وفقاً	wifoq_1	_	_	MASC;ACC;N;INDF	_	_	_	_
+2	ل	l	_	_	ADP	_	_	_	_
+3	دراسة	dirAsap_1	_	_	NHUM;GEN;SG;N;FEM;INDF	_	_	_	_
+4	جينية	jiyniy~_1	_	_	GEN;SG;ADJ;FEM;INDF	_	_	_	_
+5	على	EalaY_1	_	_	ADP	_	_	_	_
+6	البيانات	bayAn_1	_	_	NHUM;PL;GEN;DEF;MASC;N	_	_	_	_
+7	الصبغية	Sibogiy~ap_1	_	_	GEN;DEF;SG;ADJ;FEM	_	_	_	_
+8	الخاصة	xAS~_1	_	_	V.PTCP;ACT;GEN;DEF;SG;ADJ;FEM	_	_	_	_
+9	ب	b	_	_	ADP	_	_	_	_
+10	الغجر	gajariy~_1	_	_	GEN;DEF;MASC;SG;N;HUM	_	_	_	_
+11	,	,_0	_	_	_	_	_	_	_
+12	ف	f	_	_	PART	_	_	_	_
+13	إن	<in~a_1	_	_	PART	_	_	_	_
+14	الأصل	>aSol_1	_	_	NHUM;ACC;DEF;MASC;SG;N	_	_	_	_
+15	الآسيوي	>asiyawiy~_1	_	_	ACC;DEF;MASC;SG;ADJ	_	_	_	_
+16	الجنوبي	januwbiy~_1	_	_	ACC;DEF;MASC;SG;ADJ	_	_	_	_
+17	عند	Einod_1	_	_	ADP	_	_	_	_
+18	الغجر	gajariy~_1	_	_	PL;GEN;DEF;MASC;N;HUM	_	_	_	_
+19	يعود	EAd-u_1	_	_	ACT;IPFV;V;MASC;IND;SG;3;PRS	_	_	_	_
+20	إلى	<ilaY_1	_	_	ADP	_	_	_	_
+21	شمال	$amAl_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+22	غرب	garob_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+23	الهند	hinod_1	_	_	NHUM;GEN;SG;PROPN;FEM	_	_	_	_
+24	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = n04009
+# sent_id = n04009002
+# text = طور أربعة طلاب في جامعة روما الثالثة خوذة دراجة نارية يمكنها "قراءة الأفكار" من خلال المساعدة على توقع تصرفات السائقين.
+# original_text = طور أربعة طلاب في جامعة روما الثالثة خوذة دراجة نارية يمكنها "قراءة الأفكار" من خلال المساعدة على توقع تصرفات السائقين.
+# text_en = Four students at Roma Tre University have developed a motorcycle helmet that can 'read thoughts' by helping to anticipate drivers' actions.
+1	طور	Taw~ar_1	_	_	PFV;PST;ACT;V;MASC;SG;3	_	_	_	_
+2	أربعة	>arobaE_1	_	_	NOM;PL;NUM;FEM	_	_	_	_
+3	طلاب	TAlib_1	_	_	PL;GEN;MASC;N;HUM;INDF	_	_	_	_
+4	في	fiy_1	_	_	ADP	_	_	_	_
+5	جامعة	jAmiEap_1	_	_	NHUM;GEN;DEF;SG;PROPN;FEM	_	_	_	_
+6	روما	ruwmA_1	_	_	PROPN;NHUM;FEM;SG	_	_	_	_
+7	الثالثة	vAliv_1	_	_	GEN;DEF;SG;ADJ;FEM	_	_	_	_
+8	خوذة	xuw*ap_1	_	_	NHUM;ACC;SG;N;FEM;INDF	_	_	_	_
+9	دراجة	dar~Ajap_1	_	_	NHUM;GEN;SG;N;FEM;INDF	_	_	_	_
+10	نارية	nAriy~_1	_	_	GEN;SG;ADJ;FEM;INDF	_	_	_	_
+11	يمكن	>amokan_1	_	_	ACT;IPFV;V;MASC;IND;SG;3;PRS	_	_	_	_
+12	ها	hA	_	_	ACC;SG;PRO;3;FEM	_	_	_	_
+13	"	"_0	_	_	_	_	_	_	_
+14	قراءة	qirA'ap_1	_	_	NHUM;DEF;SG;N;NOM;FEM	_	_	_	_
+15	الأفكار	fikor_1	_	_	NHUM;PL;GEN;DEF;MASC;N	_	_	_	_
+16	"	"_0	_	_	_	_	_	_	_
+17	من	min_1	_	_	ADP	_	_	_	_
+18	خلال	xilAl_1	_	_	ADP	_	_	_	_
+19	المساعدة	musAEadap_1	_	_	NHUM;GEN;DEF;SG;N;FEM	_	_	_	_
+20	على	EalaY_1	_	_	ADP	_	_	_	_
+21	توقع	tawaq~uE_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+22	تصرفات	taSar~uf_1	_	_	NHUM;PL;GEN;DEF;MASC;N	_	_	_	_
+23	السائقين	sA}iq_1	_	_	PL;GEN;DEF;MASC;N;HUM	_	_	_	_
+24	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = n05007
+# sent_id = n05007014
+# text = ربما لهذا السبب تغرورق عيناه بالدموع فيما يكشف مقطع الوقت محصوله ويسلم سره إلى المياه المقيدة.
+# original_text = ربما لهذا السبب تغرورق عيناه بالدموع فيما يكشف مقطع الوقت محصوله ويسلم سره إلى المياه المقيدة.
+# text_en = Perhaps that's why a surge of tears clouds his pupils while the syllable of time unearths his crop and surrenders his mystery to the bound waters.
+1	ربما	rub~amA_1	_	_	ADV	_	_	_	_
+2	ل	l	_	_	ADP	_	_	_	_
+3	هذا	h`*A_1	_	_	PRO;MASC;SG;GEN	_	_	_	_
+4	السبب	sabab_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+5	تغرورق	{igoraworaq_1	_	_	PRS;ACT;IPFV;V;IND;SG;3;FEM	_	_	_	_
+6	عينا	Eayon_1	_	_	DU;NHUM;DEF;N;NOM;FEM	_	_	_	_
+7	ه	h	_	_	GEN;MASC;SG;PRO;3	_	_	_	_
+8	ب	b	_	_	ADP	_	_	_	_
+9	الدموع	damoE_1	_	_	NHUM;PL;GEN;DEF;N;FEM	_	_	_	_
+10	فيما	fiymA_1	_	_	ADP	_	_	_	_
+11	يكشف	ka$af-i_1	_	_	ACT;IPFV;V;MASC;IND;SG;3;PRS	_	_	_	_
+12	مقطع	maqoTaE_1	_	_	NHUM;DEF;MASC;SG;N;NOM	_	_	_	_
+13	الوقت	waqot_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+14	محصول	maHoSuwl_1	_	_	NHUM;ACC;DEF;MASC;SG;N	_	_	_	_
+15	ه	h	_	_	GEN;MASC;SG;PRO;3	_	_	_	_
+16	و	w	_	_	CONJ	_	_	_	_
+17	يسلم	sal~am_1	_	_	ACT;IPFV;V;MASC;IND;SG;3;PRS	_	_	_	_
+18	سر	sir~_1	_	_	NHUM;ACC;DEF;MASC;SG;N	_	_	_	_
+19	ه	h	_	_	GEN;MASC;SG;PRO;3	_	_	_	_
+20	إلى	<ilaY_1	_	_	ADP	_	_	_	_
+21	المياه	mA'_1	_	_	NHUM;PL;GEN;DEF;MASC;N	_	_	_	_
+22	المقيدة	muqay~ad_1	_	_	GEN;DEF;SG;ADJ;FEM	_	_	_	_
+23	.	._0	_	_	_	_	_	_	_
+
+# newdoc id = n01109
+# sent_id = n01109022
+# text = أم أنها تكلفة قياسية أو تعرفة مسبقة الدفع؟
+# original_text = أم أنها تكلفة قياسية أو تعرفة مسبقة الدفع؟
+# text_en = Or is it an expensive standard or prepayment tariff?
+1	أم	>amo_1	_	_	PART	_	_	_	_
+2	أن	>an~a_1	_	_	PART	_	_	_	_
+3	ها	hA	_	_	ACC;SG;PRO;3;FEM	_	_	_	_
+4	تكلفة	takoliyf_2	_	_	NHUM;SG;N;NOM;FEM;INDF	_	_	_	_
+5	قياسية	qiyAsiy~_1	_	_	SG;FEM;NOM;ADJ;INDF	_	_	_	_
+6	أو	>awo_1	_	_	CONJ	_	_	_	_
+7	تعرفة	taEorifap_1	_	_	NHUM;DEF;SG;N;NOM;FEM	_	_	_	_
+8	مسبقة	musobaq_1	_	_	SG;FEM;NOM;ADJ;INDF	_	_	_	_
+9	الدفع	dafoE_1	_	_	NHUM;GEN;DEF;MASC;SG;N	_	_	_	_
+10	؟	?_0	_	_	_	_	_	_	_
+

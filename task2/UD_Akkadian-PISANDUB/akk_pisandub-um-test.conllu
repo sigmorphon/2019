@@ -1,0 +1,244 @@
+# sent_id = babylon8_Cyrus_II_03_01
+# text = m-ku-raš LUGAL KUR-KUR ra-ʾi-im é-sag-íl u é-zi-da A m-kam-bu-zi-ia MAN dan-nu a-na-ku
+# text_eng = Cyrus II, king of the lands, the one who loves Esagil and Ezida, the son of Cambyses I, strong king, I.
+1	m-ku-raš	Kuraš	_	_	PROPN	_	_	_	_
+2	LUGAL	šarru	_	_	N	_	_	_	_
+3	KUR-KUR	mātu	_	_	N	_	_	_	_
+4	ra-ʾi-im	rāʾimu	_	_	N	_	_	_	_
+5	é-sag-íl	Esagil	_	_	PROPN	_	_	_	_
+6	u	u	_	_	CONJ	_	_	_	_
+7	é-zi-da	Ezida	_	_	PROPN	_	_	_	_
+8	A	māru	_	_	N	_	_	_	_
+9	m-kam-bu-zi-ia	Kambuziya	_	_	PROPN	_	_	_	_
+10	MAN	šarru	_	_	N	_	_	_	_
+11	dan-nu	dannu	_	_	ADJ	_	_	_	_
+12	a-na-ku	anāku	_	_	PRO	_	_	_	_
+
+# sent_id = babylon8_Cyrus_II_01_2d
+# text = ⸢UN⸣-MEŠ -šú i-na ab-ša-a-ni la ta-ap-šu-úḫ-tim ú-ḫal-li-iq
+# text_en =  His [pe]ople, he brought ruin on all of them with an unrelenting yoke.
+1	⸢UN⸣-MEŠ	nišu	_	_	N	_	_	_	_
+2	-šú	šu	_	_	PRO	_	_	_	_
+3	i-na	ina	_	_	ADP	_	_	_	_
+4	ab-ša-a-ni	abšānu	_	_	N	_	_	_	_
+5	la	lā	_	_	PART	_	_	_	_
+6	ta-ap-šu-úḫ-tim	tapšuhtu	_	_	N	_	_	_	_
+7	ú-ḫal-li-iq	halāqu	_	_	V	_	_	_	_
+
+# sent_id = babylon8_Cyrus_II_01_4d
+# text = d-AMAR-UTU EN GAL ta-ru-ú UN-MEŠ -šú ep-še-e-ti -ša dam-qa-a-ta ù lìb-ba -šu i-ša-ra ḫa-di-iš ip-pa-li-⸢is⸣
+# text_en = The god Marduk, the great lord, the one who nurtures his people, look[ed] with pleasure upon his good deeds and righteous heart.
+1	d-AMAR-UTU	Marduk	_	_	PROPN	_	_	_	_
+2	EN	bēlu	_	_	N	_	_	_	_
+3	GAL	rabû	_	_	ADJ	_	_	_	_
+4	ta-ru-ú	tārû	_	_	N	_	_	_	_
+5	UN-MEŠ	nišu	_	_	N	_	_	_	_
+6	-šú	-šu	_	_	PRO	_	_	_	_
+7	ep-še-e-ti	epištu	_	_	N	_	_	_	_
+8	-ša	-ša	_	_	N	_	_	_	_
+9	dam-qa-a-ta	damqu	_	_	ADJ	_	_	_	_
+10	ù	u	_	_	CONJ	_	_	_	_
+11	lìb-ba	libbu	_	_	N	_	_	_	_
+12	-šu	-šu	_	_	PRO	_	_	_	_
+13	i-ša-ra	išaru	_	_	ADJ	_	_	_	_
+14	ḫa-di-iš	hadîš	_	_	ADV	_	_	_	_
+15	ip-pa-li-⸢is⸣	palāsu	_	_	V	_	_	_	_
+
+# sent_id = babylon10_8
+# text = KUR-KUR-MEŠ TA ṣi-it d-UTU-ši a-di e-re-eb d-UTU-ši lik-šu-du ŠU-MIN -a-a man-da-at-ti -ši-nu lu-us-ni-iq -ma a-na šuk-lu-lu é-sag-íl ù é-zi-da lu-bi-il
+# text_en = May I conquer the lands from the rising to the setting of the sun; may my hands inventory their tribute and may I bring it to perfect Esagil and Ezida.
+1	KUR-KUR-MEŠ	mātu	_	_	N	_	_	_	_
+2	TA	ištu	_	_	ADP	_	_	_	_
+3	ṣi-it	ṣītu	_	_	V	_	_	_	_
+4	d-UTU-ši	šamšu	_	_	PROPN	_	_	_	_
+5	a-di	adi	_	_	ADP	_	_	_	_
+6	e-re-eb	erēbu	_	_	V	_	_	_	_
+7	d-UTU-ši	šamšu	_	_	PROPN	_	_	_	_
+8	lik-šu-du	kašādu	_	_	V	_	_	_	_
+9	ŠU-MIN	qātu	_	_	N	_	_	_	_
+10	-a-a	-ia	_	_	PRO	_	_	_	_
+11	man-da-at-ti	maddattu	_	_	N	_	_	_	_
+12	-ši-nu	-šunu	_	_	PRO	_	_	_	_
+13	lu-us-ni-iq	sanāqu	_	_	V	_	_	_	_
+14	-ma	-ma	_	_	CONJ	_	_	_	_
+15	a-na	ana	_	_	ADP	_	_	_	_
+16	šuk-lu-lu	šuklulu	_	_	V	_	_	_	_
+17	é-sag-íl	Esagil	_	_	PROPN	_	_	_	_
+18	ù	u	_	_	CONJ	_	_	_	_
+19	é-zi-da	Ezida	_	_	PROPN	_	_	_	_
+20	lu-bi-il	wabālu	_	_	V	_	_	_	_
+
+# sent_id = babylon8_Cyrus_II_01_9b
+# text = ṣir-ti nap-ḫar LUGAL a-ši-ib BÁRA-MEŠ ša ka-li-iš kib-ra-a-ta iš-tu tam-tim e-li-tim a-di tam-tim šap-li-tim a-ši-ib ⸢na⸣-[gi-i né-su-tim] LUGAL-MEŠ KUR a-mur-ri-i a-ši-ib kuš-ta-ri ka-li -šú-un bi-lat -su-nu ka-bi-it-tim ú-bi-lu -nim -ma qé-er-ba šu-an-na-KI ú-na-áš-ši-qu še-pu -ú-a
+# text_en = All of the kings who sit on (royal) daises, from every quarter (of the world), from the Upper Sea to the Lower Sea, those who live in [remote] re[gions], (and) the kings of the land of Amurru who live in tents, everyone of them, brought their substantial tribute inside Šuanna (Babylon) (and) kissed my feet.
+1	ṣir-ti	ṣīru	_	_	ADJ	_	_	_	_
+2	nap-ḫar	napharu	_	_	N	_	_	_	_
+3	LUGAL	šarru	_	_	N	_	_	_	_
+4	a-ši-ib	wāšibu	_	_	N	_	_	_	_
+5	BÁRA-MEŠ	parakku	_	_	N	_	_	_	_
+6	ša	ša	_	_	DET	_	_	_	_
+7	ka-li-iš	kalîš	_	_	ADJ	_	_	_	_
+8	kib-ra-a-ta	kibru	_	_	N	_	_	_	_
+9	iš-tu	ištu	_	_	ADP	_	_	_	_
+10	tam-tim	tiāmtu	_	_	N	_	_	_	_
+11	e-li-tim	elû	_	_	ADJ	_	_	_	_
+12	a-di	adi	_	_	ADP	_	_	_	_
+13	tam-tim	tiāmtu	_	_	N	_	_	_	_
+14	šap-li-tim	šaplû	_	_	ADJ	_	_	_	_
+15	a-ši-ib	wāšibu	_	_	N	_	_	_	_
+16	⸢na⸣-[gi-i	nagû	_	_	N	_	_	_	_
+17	né-su-tim]	nesû	_	_	ADJ	_	_	_	_
+18	LUGAL-MEŠ	šarru	_	_	N	_	_	_	_
+19	KUR	mātu	_	_	N	_	_	_	_
+20	a-mur-ri-i	Amurru	_	_	PROPN	_	_	_	_
+21	a-ši-ib	wāšibu	_	_	N	_	_	_	_
+22	kuš-ta-ri	kuštāru	_	_	N	_	_	_	_
+23	ka-li	kalû	_	_	N	_	_	_	_
+24	-šú-un	-šunu	_	_	PRO	_	_	_	_
+25	bi-lat	biltu	_	_	N	_	_	_	_
+26	-su-nu	-šunu	_	_	PRO	_	_	_	_
+27	ka-bi-it-tim	kabtu	_	_	ADJ	_	_	_	_
+28	ú-bi-lu	wabālu	_	_	V	_	_	_	_
+29	-nim	-nim	_	_	PRO	_	_	_	_
+30	-ma	-ma	_	_	CONJ	_	_	_	_
+31	qé-er-ba	qerbu	_	_	N	_	_	_	_
+32	šu-an-na-KI	Šuanna	_	_	PROPN	_	_	_	_
+33	ú-na-áš-ši-qu	našāqu	_	_	V	_	_	_	_
+34	še-pu	šēpu	_	_	N	_	_	_	_
+35	-ú-a	-ia	_	_	PRO	_	_	_	_
+
+# sent_id = babylon7_nabopolassar_03_02
+# text = i-nu-um i-na mé-eṣ-ḫe-ru-ti -ia DUMU la ma-am-ma-na-ma a-nu-ku-ma áš-rat d-AG ù d-AMAR-UTU EN -e-a áš-te-né-eʾ-e-a ka-a-a-nim šá ku-un-ni pa-ar-ṣi -šu-nu ù šu-ul-lu-mu ki-du-de-e -šu-nu i-ta-ma-a ka-ba-at-tim a-na kit-ti ù mi-ša-ri ba-ša-a uz-na -a-a
+1	i-nu-um	inu	_	_	CONJ	_	_	_	_
+2	i-na	ina	_	_	ADP	_	_	_	_
+3	mé-eṣ-ḫe-ru-ti	meṣherūtu	_	_	N	_	_	_	_
+4	-ia	-ia	_	_	PRO	_	_	_	_
+5	DUMU	māru	_	_	N	_	_	_	_
+6	la	lā	_	_	PART	_	_	_	_
+7	ma-am-ma-na-ma	mammāna	_	_	PRO	_	_	_	_
+8	a-nu-ku-ma	anāku	_	_	PRO	_	_	_	_
+9	áš-rat	ešertu&nbsp;	_	_	N	_	_	_	_
+10	d-AG	Nabu	_	_	PROPN	_	_	_	_
+11	ù	u	_	_	CONJ	_	_	_	_
+12	d-AMAR-UTU	Marduk	_	_	PROPN	_	_	_	_
+13	EN	bēlu	_	_	N	_	_	_	_
+14	-e-a	-ia	_	_	PRO	_	_	_	_
+15	áš-te-né-eʾ-e-a	šeʾû	_	_	V	_	_	_	_
+16	ka-a-a-nim	kayyānu	_	_	ADV	_	_	_	_
+17	šá	ša	_	_	DET	_	_	_	_
+18	ku-un-ni	kânu	_	_	V	_	_	_	_
+19	pa-ar-ṣi	parṣu	_	_	N	_	_	_	_
+20	-šu-nu	-šunu	_	_	PRO	_	_	_	_
+21	ù	u	_	_	CONJ	_	_	_	_
+22	šu-ul-lu-mu	šalāmu	_	_	N	_	_	_	_
+23	ki-du-de-e	kidudû	_	_	N	_	_	_	_
+24	-šu-nu	-šunu	_	_	PRO	_	_	_	_
+25	i-ta-ma-a	awû	_	_	V	_	_	_	_
+26	ka-ba-at-tim	kabattu	_	_	N	_	_	_	_
+27	a-na	ana	_	_	ADP	_	_	_	_
+28	kit-ti	kittu	_	_	N	_	_	_	_
+29	ù	u	_	_	CONJ	_	_	_	_
+30	mi-ša-ri	mīšaru	_	_	N	_	_	_	_
+31	ba-ša-a	bāšû	_	_	ADJ	_	_	_	_
+32	uz-na	uznu	_	_	N	_	_	_	_
+33	-a-a	-ia	_	_	PRO	_	_	_	_
+
+# sent_id = babylon8_Cyrus_II_01_5a
+# text = a-na URU -šu KÁ-DINGIR-MEŠ-KI a-la-ak -šu iq-bi
+# text_en = He (Marduk) commanded that he (Cyrus) should march against his city, Babylon.
+1	a-na	ana	_	_	ADP	_	_	_	_
+2	URU	ālu	_	_	N	_	_	_	_
+3	-šu	-šu	_	_	PRO	_	_	_	_
+4	KÁ-DINGIR-MEŠ-KI	Babili	_	_	PROPN	_	_	_	_
+5	a-la-ak	alāku	_	_	V	_	_	_	_
+6	-šu	-šu	_	_	PRO	_	_	_	_
+7	iq-bi	qabû	_	_	V	_	_	_	_
+
+# sent_id = babylon7_amel-marduk_2_01
+# text = É-GAL LÚ-dAMAR-UTU LUGAL TIN-⸢TIR⸣-[KI] IBILA d-AG-ku-dúr-ri-ÙRU LUGAL TIN-⸢TIR⸣-[KI]
+1	É-GAL	ēkallu	_	_	N	_	_	_	_
+2	LÚ-dAMAR-UTU	Amel-Marduk	_	_	PROPN	_	_	_	_
+3	LUGAL	šarru	_	_	N	_	_	_	_
+4	TIN-⸢TIR⸣-[KI]	Babili	_	_	PROPN	_	_	_	_
+5	IBILA	aplu	_	_	N	_	_	_	_
+6	d-AG-ku-dúr-ri-ÙRU	Nabu-kudurri-uṣur	_	_	PROPN	_	_	_	_
+7	LUGAL	šarru	_	_	N	_	_	_	_
+8	TIN-⸢TIR⸣-[KI]	Babili	_	_	PROPN	_	_	_	_
+
+# sent_id = babylon8_Cyrus_II_01_3a
+# text = kul-lat -si-in a-na ta-zi-im-ti -ši-na D-EN-LÍL DINGIR-MEŠ ez-zi-iš i-gu-ug -⸢ma⸣ [xx] ki-su-úr -šu-un
+# text_en =  The Enlil of the gods became furiously angry at their complaints an[d ...] their territory.
+1	kul-lat	kullatu	_	_	N	_	_	_	_
+2	-si-in	-šina	_	_	PRO	_	_	_	_
+3	a-na	ana	_	_	ADP	_	_	_	_
+4	ta-zi-im-ti	tazzimtu	_	_	N	_	_	_	_
+5	-ši-na	-šina	_	_	PRO	_	_	_	_
+6	D-EN-LÍL	Enlil	_	_	PROPN	_	_	_	_
+7	DINGIR-MEŠ	ilu	_	_	N	_	_	_	_
+8	ez-zi-iš	ezziš	_	_	ADV	_	_	_	_
+9	i-gu-ug	agāgu	_	_	V	_	_	_	_
+10	-⸢ma⸣	-ma	_	_	CONJ	_	_	_	_
+11	[xx]	_	_	_	_	_	_	_	_
+12	ki-su-úr	kisurrû	_	_	N	_	_	_	_
+13	-šu-un	-šunu	_	_	PRO	_	_	_	_
+
+# sent_id = babylon8_Cyrus_II_01_14
+# text = [xx GIŠ-IG-MEŠ GIŠ-EREN MAḪ]-MEŠ ta-aḫ-lu-up-tim ZABAR as-ku-up-pu ù nu-ku-⸢še⸣-[e pi-ti-iq e-ri-i e-ma KÁ-MEŠ] -⸢ši⸣-na [ú-ra-at-ti]
+# text_en =  [... tall doors of cedar] covered with bronze. [Wherever th]eir [gates were, I installed] thresholds and fittin[gs of cast copper].
+1	[xx	_	_	_	_	_	_	_	_
+2	GIŠ-IG-MEŠ	daltu	_	_	N	_	_	_	_
+3	GIŠ-EREN	erēnu	_	_	N	_	_	_	_
+4	MAḪ]-MEŠ	ṣīru	_	_	ADJ	_	_	_	_
+5	ta-aḫ-lu-up-tim	tahluptu	_	_	N	_	_	_	_
+6	ZABAR	siparru	_	_	N	_	_	_	_
+7	as-ku-up-pu	askuppu	_	_	N	_	_	_	_
+8	ù	u	_	_	CONJ	_	_	_	_
+9	nu-ku-⸢še⸣-[e	nukuššû	_	_	N	_	_	_	_
+10	pi-ti-iq	pitqu	_	_	N	_	_	_	_
+11	e-ri-i	werû	_	_	N	_	_	_	_
+12	e-ma	ēm	_	_	ADP	_	_	_	_
+13	KÁ-MEŠ]	bābu	_	_	N	_	_	_	_
+14	-⸢ši⸣-na	-šina	_	_	PRO	_	_	_	_
+15	[ú-ra-at-ti]	retû	_	_	V	_	_	_	_
+
+# sent_id = babylon8_Cyrus_II_01_1a
+# text = [i-nu d-AMAR]-⸢UTU⸣ LUGAL kiš-šat AN-e u KI-tim x [xx šá ina] x-si-šú ú-nam-mu-[ú xx] x-ni-šú [xx ra-pa]-áš uz-nam xxx[xx ḫa-a-a-iṭ ki]-ib-ra-a-tim [xx ṣi-it] ⸢lìb-bi -šu⸣ GAL ma-ṭu-ú iš-šak-na a-na e-nu-tu ma-ti -šú x[xx] ⸢tam-ši⸣-li ú-ša-áš-ki-na ṣe-ru -šu-un
+# text_en =  [When the god Mard]uk, the king of all of heaven and earth, [... who] lays to waste his [...] ... [through] his ..., [... bro]ad in intelligence, ... [..., the one who inspects the (four) qu]arters (of the world), [...], his eldest [off]spring (Belshazzar), a lowly person, was installed as the ruler of his land, [...] he caused [..., a re]plica, to be set up over them. He bu[ilt] a replica of Esagil [and ...] for (the city) Ur and the rest of the cult-center(s).
+1	[i-nu	inu	_	_	CONJ	_	_	_	_
+2	d-AMAR]-⸢UTU⸣	Marduk	_	_	PROPN	_	_	_	_
+3	LUGAL	šarru	_	_	N	_	_	_	_
+4	kiš-šat	kiššatu	_	_	N	_	_	_	_
+5	AN-e	šamû	_	_	N	_	_	_	_
+6	u	u	_	_	CONJ	_	_	_	_
+7	KI-tim	erṣetu	_	_	N	_	_	_	_
+8	x	_	_	_	_	_	_	_	_
+9	[xx	_	_	_	_	_	_	_	_
+10	šá	ša	_	_	CONJ	_	_	_	_
+11	ina]	ina	_	_	ADP	_	_	_	_
+12	x-si-šú	_	_	_	_	_	_	_	_
+13	ú-nam-mu-[ú	nawû	_	_	V	_	_	_	_
+14	xx]	_	_	_	_	_	_	_	_
+15	x-ni-šú	_	_	_	_	_	_	_	_
+16	[xx	_	_	_	_	_	_	_	_
+17	ra-pa]-áš	rapšu	_	_	ADJ	_	_	_	_
+18	uz-nam	uznu	_	_	N	_	_	_	_
+19	xxx[xx	_	_	_	_	_	_	_	_
+20	ḫa-a-a-iṭ	hāʾiṭu	_	_	N	_	_	_	_
+21	ki]-ib-ra-a-tim	kibru	_	_	N	_	_	_	_
+22	[xx	_	_	_	_	_	_	_	_
+23	ṣi-it]	ṣītu	_	_	N	_	_	_	_
+24	⸢lìb-bi	libbu	_	_	N	_	_	_	_
+25	-šu⸣	-šu⸣	_	_	PRO	_	_	_	_
+26	GAL	rabû	_	_	ADJ	_	_	_	_
+27	ma-ṭu-ú	maṭû	_	_	N	_	_	_	_
+28	iš-šak-na	šakānu	_	_	V	_	_	_	_
+29	a-na	ana	_	_	ADP	_	_	_	_
+30	e-nu-tu	enūtu	_	_	N	_	_	_	_
+31	ma-ti	mātu	_	_	N	_	_	_	_
+32	-šú	-šu	_	_	PRO	_	_	_	_
+33	x[xx]	_	_	_	_	_	_	_	_
+34	⸢tam-ši⸣-li	tamšīlu	_	_	N	_	_	_	_
+35	ú-ša-áš-ki-na	šakānu	_	_	V	_	_	_	_
+36	ṣe-ru	ṣēru	_	_	N	_	_	_	_
+37	-šu-un	-šunu	_	_	PRO	_	_	_	_
+
