@@ -1,0 +1,2475 @@
+# newdoc id = w02007
+# sent_id = w02007008
+# text = Jak čas, tak sled událostí tohoto incidentu byly intenzívně diskutovány.
+# orig_file_sentence test009#92
+# text_en = Both the time and the sequence of events of this incident were vigorously discussed.
+1	Jak	jak	_	_	ADV	_	_	_	_
+2	čas	čas	_	_	SG;MASC;POS;NOM;N;INAN	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	tak	tak	_	_	ADV	_	_	_	_
+5	sled	sled	_	_	SG;MASC;POS;NOM;N;INAN	_	_	_	_
+6	událostí	událost	_	_	GEN;PL;FEM;POS;N	_	_	_	_
+7	tohoto	tento	_	_	GEN;{MASC/NEUT};SG;DET	_	_	_	_
+8	incidentu	incident	_	_	GEN;SG;MASC;POS;N;INAN	_	_	_	_
+9	byly	být	_	_	{FEM/MASC};V.PTCP;ACT;PL;POS;PST;V;INAN	_	_	_	_
+10	intenzívně	intenzívně	_	_	ADV;POS	_	_	_	_
+11	diskutovány	diskutovaný	_	_	{FEM/MASC};V.PTCP;PL;POS;ADJ;IPFV;PASS;INAN	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01013
+# sent_id = w01013083
+# text = Přestože Island byl pod politickou nadvládou Dánska do mnohem pozdější doby (1918), islandština se téměř dokonale ubránila vlivu dánštiny a výpůjčkám z ní.
+# orig_file_sentence test005#5
+# text_en = Although Iceland was under the political control of Denmark until a much later date (1918), very little influence and borrowing from Danish has occurred in the Icelandic language.
+1	Přestože	přestože	_	_	CONJ	_	_	_	_
+2	Island	Island	_	_	SG;MASC;PROPN;POS;NOM;INAN	_	_	_	_
+3	byl	být	_	_	V.PTCP;ACT;SG;MASC;POS;PST;V	_	_	_	_
+4	pod	pod	_	_	ADP;INS	_	_	_	_
+5	politickou	politický	_	_	FEM;SG;POS;ADJ;INS	_	_	_	_
+6	nadvládou	nadvláda	_	_	FEM;SG;POS;N;INS	_	_	_	_
+7	Dánska	Dánsko	_	_	GEN;NEUT;SG;PROPN;POS	_	_	_	_
+8	do	do	_	_	ADP;GEN	_	_	_	_
+9	mnohem	mnohem	_	_	ADV	_	_	_	_
+10	pozdější	pozdní	_	_	GEN;FEM;SG;POS;ADJ;CMPR	_	_	_	_
+11	doby	doba	_	_	GEN;SG;FEM;POS;N	_	_	_	_
+12	(	(	_	_	_	_	_	_	_
+13	1918	1918	_	_	NUM	_	_	_	_
+14	)	)	_	_	_	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	islandština	islandština	_	_	SG;FEM;POS;NOM;N	_	_	_	_
+17	se	se	_	_	PRO;REFL;ACC	_	_	_	_
+18	téměř	téměř	_	_	ADV	_	_	_	_
+19	dokonale	dokonale	_	_	ADV;POS	_	_	_	_
+20	ubránila	ubránit	_	_	V.PTCP;ACT;{PL/SG};PFV;POS;PST;V;{FEM/NEUT}	_	_	_	_
+21	vlivu	vliv	_	_	DAT;SG;MASC;POS;N;INAN	_	_	_	_
+22	dánštiny	dánština	_	_	GEN;SG;FEM;POS;N	_	_	_	_
+23	a	a	_	_	CONJ	_	_	_	_
+24	výpůjčkám	výpůjčka	_	_	DAT;PL;FEM;POS;N	_	_	_	_
+25	z	z	_	_	ADP;GEN	_	_	_	_
+26	ní	on	_	_	GEN;PRO;SG;FEM;3	_	_	_	_
+27	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01105055
+# text = Tím, že GCA využívá dipólovou anténu s vysokým úhlovým rozlišením, vyvinutou Alvarezem, umožňuje pozemním radarovým operátorům sledovat velmi přesné monitory, a navádět tak přistávající letadla na runway slovními pokyny vysílanými pilotovi.
+# orig_file_sentence test007#36
+# text_en = Using Alvarez's dipole antenna to achieve a very high angular resolution, GCA allows ground-based radar operators watching special precision displays to guide a landing airplane to the runway by transmitting verbal commands to the pilot.
+1	Tím	ten	_	_	{MASC/NEUT};SG;DET;INS	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	že	že	_	_	CONJ	_	_	_	_
+4	GCA	GCA	_	_	N;POS	_	_	_	_
+5	využívá	využívat	_	_	IND;ACT;SG;PRS;POS;V;IPFV;3;FIN	_	_	_	_
+6	dipólovou	dipólový	_	_	FEM;SG;ACC;POS;ADJ	_	_	_	_
+7	anténu	anténa	_	_	FEM;SG;POS;ACC;N	_	_	_	_
+8	s	s	_	_	ADP;INS	_	_	_	_
+9	vysokým	vysoký	_	_	NEUT;SG;POS;ADJ;INS	_	_	_	_
+10	úhlovým	úhlový	_	_	NEUT;SG;POS;ADJ;INS	_	_	_	_
+11	rozlišením	rozlišení	_	_	NEUT;SG;POS;N;INS	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	vyvinutou	vyvinutý	_	_	FEM;SG;POS;ADJ;INS	_	_	_	_
+14	Alvarezem	Alvarez	_	_	SG;MASC;ANIM;PROPN;POS;INS	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	umožňuje	umožňovat	_	_	IND;ACT;SG;PRS;POS;V;IPFV;3;FIN	_	_	_	_
+17	pozemním	pozemní	_	_	DAT;PL;MASC;ANIM;POS;ADJ	_	_	_	_
+18	radarovým	radarový	_	_	DAT;PL;MASC;ANIM;POS;ADJ	_	_	_	_
+19	operátorům	operátor	_	_	DAT;PL;MASC;ANIM;POS;N	_	_	_	_
+20	sledovat	sledovat	_	_	POS;IPFV;NFIN;V	_	_	_	_
+21	velmi	velmi	_	_	ADV	_	_	_	_
+22	přesné	přesný	_	_	PL;MASC;ACC;POS;ADJ;INAN	_	_	_	_
+23	monitory	monitor	_	_	PL;MASC;ACC;POS;N;INAN	_	_	_	_
+24	,	,	_	_	_	_	_	_	_
+25	a	a	_	_	CONJ	_	_	_	_
+26	navádět	navádět	_	_	POS;IPFV;NFIN;V	_	_	_	_
+27	tak	tak	_	_	ADV	_	_	_	_
+28	přistávající	přistávající	_	_	V.PTCP;ACT;PL;NEUT;PRS;ACC;POS;ADJ;IPFV	_	_	_	_
+29	letadla	letadlo	_	_	PL;NEUT;POS;ACC;N	_	_	_	_
+30	na	na	_	_	ADP;ACC	_	_	_	_
+31	runway	ranvej	_	_	FEM;SG;ACC;POS;N	_	_	_	_
+32	slovními	slovní	_	_	PL;MASC;POS;ADJ;INAN;INS	_	_	_	_
+33	pokyny	pokyn	_	_	PL;MASC;POS;N;INAN;INS	_	_	_	_
+34	vysílanými	vysílaný	_	_	PL;MASC;POS;ADJ;INAN;INS	_	_	_	_
+35	pilotovi	pilot	_	_	DAT;SG;MASC;ANIM;POS;N	_	_	_	_
+36	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w02019
+# sent_id = w02019048
+# text = Springer energicky soukromě i veřejně uskutečňoval usmíření s židovským obyvatelstvem a podnikl mnoho cest do Izraele.
+# orig_file_sentence test010#23
+# text_en = Privately as well as publicly, Springer vigorously pursued reconciliation with the Jewish people and took many trips to Israel.
+1	Springer	Springer	_	_	SG;MASC;ANIM;PROPN;POS;NOM	_	_	_	_
+2	energicky	energicky	_	_	ADV;POS	_	_	_	_
+3	soukromě	soukromě	_	_	ADV;POS	_	_	_	_
+4	i	i	_	_	CONJ	_	_	_	_
+5	veřejně	veřejně	_	_	ADV;POS	_	_	_	_
+6	uskutečňoval	uskutečňovat	_	_	V.PTCP;ACT;SG;MASC;POS;PST;V;IPFV	_	_	_	_
+7	usmíření	usmíření	_	_	NEUT;SG;POS;ACC;N	_	_	_	_
+8	s	s	_	_	ADP;INS	_	_	_	_
+9	židovským	židovský	_	_	NEUT;SG;POS;ADJ;INS	_	_	_	_
+10	obyvatelstvem	obyvatelstvo	_	_	NEUT;SG;POS;N;INS	_	_	_	_
+11	a	a	_	_	CONJ	_	_	_	_
+12	podnikl	podniknout	_	_	V.PTCP;ACT;SG;MASC;PFV;POS;PST;V	_	_	_	_
+13	mnoho	mnoho	_	_	DET;ACC	_	_	_	_
+14	cest	cesta	_	_	GEN;PL;FEM;POS;N	_	_	_	_
+15	do	do	_	_	ADP;GEN	_	_	_	_
+16	Izraele	Izrael	_	_	GEN;SG;MASC;PROPN;POS;INAN	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01072
+# sent_id = n01072010
+# text = Strávil více než čtyři roky v rádiu BBC World Service v Bush House.
+# orig_file_sentence test002#75
+# text_en = He then spent four years with BBC World Service radio at Bush House.
+1	Strávil	strávit	_	_	V.PTCP;ACT;SG;MASC;PFV;POS;PST;V	_	_	_	_
+2	více	hodně	_	_	ADV;CMPR;POS	_	_	_	_
+3	než	než	_	_	CONJ	_	_	_	_
+4	čtyři	čtyři	_	_	PL;NUM;ACC	_	_	_	_
+5	roky	rok	_	_	PL;MASC;ACC;POS;N;INAN	_	_	_	_
+6	v	v	_	_	ADP;ESS	_	_	_	_
+7	rádiu	rádium	_	_	NEUT;SG;POS;ESS;N	_	_	_	_
+8	BBC	BBC	_	_	FEM;PROPN;POS	_	_	_	_
+9	World	World	_	_	POS;ADJ	_	_	_	_
+10	Service	service	_	_	N;POS	_	_	_	_
+11	v	v	_	_	ADP;ESS	_	_	_	_
+12	Bush	Bush	_	_	POS;PROPN	_	_	_	_
+13	House	House	_	_	POS;PROPN	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = w02009087
+# text = Král při útěku nepřijal zvláštní opatření a byl během svých pobytů mnohokrát rozpoznán.
+# orig_file_sentence test010#3
+# text_en = The king did not take special precautions during his escape and was recognized multiple times during his stays.
+1	Král	král	_	_	SG;MASC;ANIM;POS;NOM;N	_	_	_	_
+2	při	při	_	_	ADP;ESS	_	_	_	_
+3	útěku	útěk	_	_	SG;MASC;POS;ESS;N;INAN	_	_	_	_
+4	nepřijal	přijmout	_	_	V.PTCP;ACT;SG;NEG;MASC;PST;V	_	_	_	_
+5	zvláštní	zvláštní	_	_	PL;NEUT;ACC;POS;ADJ	_	_	_	_
+6	opatření	opatření	_	_	PL;NEUT;POS;ACC;N	_	_	_	_
+7	a	a	_	_	CONJ	_	_	_	_
+8	byl	být	_	_	V.PTCP;ACT;SG;MASC;POS;PST;V	_	_	_	_
+9	během	během	_	_	ADP;GEN	_	_	_	_
+10	svých	svůj	_	_	GEN;PL;DET;REFL	_	_	_	_
+11	pobytů	pobyt	_	_	GEN;PL;MASC;POS;N;INAN	_	_	_	_
+12	mnohokrát	mnohokrát	_	_	ADV	_	_	_	_
+13	rozpoznán	rozpoznaný	_	_	V.PTCP;SG;MASC;PFV;POS;ADJ;PASS	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01072046
+# text = Ovšem působení Hispanie na nově příchozí bylo rovněž silné.
+# orig_file_sentence test006#59
+# text_en = But the impact of Hispania in the newcomers was also big.
+1	Ovšem	ovšem	_	_	CONJ	_	_	_	_
+2	působení	působení	_	_	NEUT;SG;POS;NOM;N	_	_	_	_
+3	Hispanie	Hispanie	_	_	GEN;SG;FEM;PROPN;POS	_	_	_	_
+4	na	na	_	_	ADP;ACC	_	_	_	_
+5	nově	nově	_	_	ADV;POS	_	_	_	_
+6	příchozí	příchozí	_	_	PL;MASC;ANIM;ACC;POS;ADJ	_	_	_	_
+7	bylo	být	_	_	V.PTCP;ACT;NEUT;SG;POS;PST;V	_	_	_	_
+8	rovněž	rovněž	_	_	ADV	_	_	_	_
+9	silné	silný	_	_	NEUT;SG;POS;ADJ;NOM	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01034
+# sent_id = n01034033
+# text = „Pokud se Donald Trump stane prezidentem, zdejší vláda s ním bude stále muset spolupracovat na veškeré společné agendě, abychom zajistili, že kanadské firmy a zájmy jsou ve Washingtonu zastupovány.“
+# orig_file_sentence test001#84
+# text_en = "If Donald Trump becomes president, the government here will still have to work with him to advance whatever shared agenda there is, to ensure that Canadian businesses and interests are represented in Washington."
+1	„	"	_	_	_	_	_	_	_
+2	Pokud	pokud	_	_	CONJ	_	_	_	_
+3	se	se	_	_	PRO;REFL;ACC	_	_	_	_
+4	Donald	Donald	_	_	SG;MASC;ANIM;PROPN;POS;NOM	_	_	_	_
+5	Trump	Trump	_	_	SG;MASC;ANIM;PROPN;POS;NOM	_	_	_	_
+6	stane	stát	_	_	IND;ACT;SG;PRS;POS;V;3;FIN	_	_	_	_
+7	prezidentem	prezident	_	_	SG;MASC;ANIM;POS;N;INS	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	zdejší	zdejší	_	_	FEM;SG;POS;ADJ;NOM	_	_	_	_
+10	vláda	vláda	_	_	SG;FEM;POS;NOM;N	_	_	_	_
+11	s	s	_	_	ADP;INS	_	_	_	_
+12	ním	on	_	_	{MASC/NEUT};PRO;SG;3;INS	_	_	_	_
+13	bude	být	_	_	IND;ACT;SG;FUT;POS;V;3;FIN	_	_	_	_
+14	stále	stále	_	_	ADV	_	_	_	_
+15	muset	muset	_	_	POS;NFIN;V	_	_	_	_
+16	spolupracovat	spolupracovat	_	_	POS;IPFV;NFIN;V	_	_	_	_
+17	na	na	_	_	ADP;ESS	_	_	_	_
+18	veškeré	veškerý	_	_	PRO;SG;FEM;ESS	_	_	_	_
+19	společné	společný	_	_	FEM;SG;POS;ESS;ADJ	_	_	_	_
+20	agendě	agenda	_	_	SG;FEM;POS;ESS;N	_	_	_	_
+21	,	,	_	_	_	_	_	_	_
+22	aby	aby	_	_	CONJ	_	_	_	_
+23	bychom	být	_	_	COND;PL;1;V;FIN	_	_	_	_
+24	zajistili	zajistit	_	_	V.PTCP;ACT;PL;MASC;ANIM;PFV;POS;PST;V	_	_	_	_
+25	,	,	_	_	_	_	_	_	_
+26	že	že	_	_	CONJ	_	_	_	_
+27	kanadské	kanadský	_	_	PL;FEM;POS;ADJ;NOM	_	_	_	_
+28	firmy	firma	_	_	PL;FEM;POS;NOM;N	_	_	_	_
+29	a	a	_	_	CONJ	_	_	_	_
+30	zájmy	zájem	_	_	PL;MASC;POS;NOM;N;INAN	_	_	_	_
+31	jsou	být	_	_	IND;ACT;PL;PRS;POS;V;3;FIN	_	_	_	_
+32	ve	v	_	_	ADP;ESS	_	_	_	_
+33	Washingtonu	Washington	_	_	SG;MASC;PROPN;POS;ESS;INAN	_	_	_	_
+34	zastupovány	zastupovaný	_	_	{FEM/MASC};V.PTCP;PL;POS;ADJ;IPFV;PASS;INAN	_	_	_	_
+35	.	.	_	_	_	_	_	_	_
+36	“	"	_	_	_	_	_	_	_
+
+# sent_id = n01105013
+# text = Teď je ale všechno jinak a on vypadá, jako kdyby se pořád hledal.
+# orig_file_sentence test003#56
+# text_en = But right now everything is out of kilter and he seems to be seeking answers all the time.
+1	Teď	teď	_	_	ADV	_	_	_	_
+2	je	být	_	_	IND;ACT;SG;PRS;POS;V;3;FIN	_	_	_	_
+3	ale	ale	_	_	CONJ	_	_	_	_
+4	všechno	všechen	_	_	NEUT;SG;DET;NOM	_	_	_	_
+5	jinak	jinak	_	_	ADV	_	_	_	_
+6	a	a	_	_	CONJ	_	_	_	_
+7	on	on	_	_	PRO;SG;MASC;NOM;3	_	_	_	_
+8	vypadá	vypadat	_	_	IND;ACT;SG;PRS;POS;V;IPFV;3;FIN	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	jako	jako	_	_	CONJ	_	_	_	_
+11	když	když	_	_	CONJ	_	_	_	_
+12	by	být	_	_	V;3;COND;FIN	_	_	_	_
+13	se	se	_	_	PRO;REFL;ACC	_	_	_	_
+14	pořád	pořád	_	_	ADV	_	_	_	_
+15	hledal	hledat	_	_	V.PTCP;ACT;SG;MASC;POS;PST;V;IPFV	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01029011
+# text = Seagal, jehož babička pocházela z Vladivostoku na ruském dálném východě, v posledních letech do Ruska často cestoval a navštívil v září Kamčatku a Sachalin.
+# orig_file_sentence test001#72
+# text_en = Seagal, whose grandmother was from Vladivostok in Russia's far east, has made frequent trips to Russia in recent years and visited Kamchatka and Sakhalin in September.
+1	Seagal	Seagal	_	_	SG;MASC;ANIM;PROPN;POS;NOM	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	jehož	jenž	_	_	PSSS;DET;3	_	_	_	_
+4	babička	babička	_	_	SG;FEM;POS;NOM;N	_	_	_	_
+5	pocházela	pocházet	_	_	V.PTCP;ACT;{PL/SG};{FEM/NEUT};POS;PST;V;IPFV	_	_	_	_
+6	z	z	_	_	ADP;GEN	_	_	_	_
+7	Vladivostoku	Vladivostok	_	_	GEN;SG;MASC;PROPN;POS;INAN	_	_	_	_
+8	na	na	_	_	ADP;ESS	_	_	_	_
+9	ruském	ruský	_	_	SG;MASC;POS;ESS;ADJ;INAN	_	_	_	_
+10	dálném	dálný	_	_	SG;MASC;POS;ESS;ADJ;INAN	_	_	_	_
+11	východě	východ	_	_	SG;MASC;POS;ESS;N;INAN	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	v	v	_	_	ADP;ESS	_	_	_	_
+14	posledních	poslední	_	_	PL;NEUT;POS;ESS;ADJ	_	_	_	_
+15	letech	rok	_	_	PL;NEUT;POS;ESS;N	_	_	_	_
+16	do	do	_	_	ADP;GEN	_	_	_	_
+17	Ruska	Rusko	_	_	GEN;NEUT;SG;PROPN;POS	_	_	_	_
+18	často	často	_	_	ADV;POS	_	_	_	_
+19	cestoval	cestovat	_	_	V.PTCP;ACT;SG;MASC;POS;PST;V;IPFV	_	_	_	_
+20	a	a	_	_	CONJ	_	_	_	_
+21	navštívil	navštívit	_	_	V.PTCP;ACT;SG;MASC;PFV;POS;PST;V	_	_	_	_
+22	v	v	_	_	ADP;ESS	_	_	_	_
+23	září	září	_	_	NEUT;SG;POS;ESS;N	_	_	_	_
+24	Kamčatku	Kamčatka	_	_	FEM;SG;PROPN;ACC;POS	_	_	_	_
+25	a	a	_	_	CONJ	_	_	_	_
+26	Sachalin	Sachalin	_	_	SG;MASC;PROPN;ACC;POS;INAN	_	_	_	_
+27	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01007
+# sent_id = n01007012
+# text = Lze tu najít paralely mezi hrami a naším každodenním životem.
+# orig_file_sentence test001#17
+# text_en = There are parallels to draw here between games and our everyday lives.
+1	Lze	lze	_	_	IND;ACT;SG;PRS;POS;V;3;FIN	_	_	_	_
+2	tu	tu	_	_	ADV	_	_	_	_
+3	najít	najít	_	_	POS;NFIN;V	_	_	_	_
+4	paralely	paralela	_	_	PL;FEM;POS;ACC;N	_	_	_	_
+5	mezi	mezi	_	_	ADP;INS	_	_	_	_
+6	hrami	hra	_	_	PL;FEM;POS;N;INS	_	_	_	_
+7	a	a	_	_	CONJ	_	_	_	_
+8	naším	můj	_	_	PSSP;{MASC/NEUT};SG;DET;1;INS	_	_	_	_
+9	každodenním	každodenní	_	_	SG;MASC;POS;ADJ;INAN;INS	_	_	_	_
+10	životem	život	_	_	SG;MASC;POS;N;INAN;INS	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01110008
+# text = Pokud by tomu tak bylo, prémiové dluhopisy by se ničím nelišily od běžných spořicích účtů.
+# orig_file_sentence test003#72
+# text_en = If they did, Premium Bonds would be indistinguishable from ordinary savings accounts.
+1	Pokud	pokud	_	_	CONJ	_	_	_	_
+2	by	být	_	_	V;COND;FIN	_	_	_	_
+3	tomu	ten	_	_	DAT;{MASC/NEUT};SG;DET	_	_	_	_
+4	tak	tak	_	_	ADV	_	_	_	_
+5	bylo	být	_	_	V.PTCP;ACT;NEUT;SG;POS;PST;V	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	prémiové	prémiový	_	_	PL;MASC;ACC;POS;ADJ;INAN	_	_	_	_
+8	dluhopisy	dluhopis	_	_	PL;MASC;ACC;POS;N;INAN	_	_	_	_
+9	by	být	_	_	V;COND;FIN	_	_	_	_
+10	se	se	_	_	PRO;REFL;ACC	_	_	_	_
+11	ničím	nic	_	_	PRO;INS	_	_	_	_
+12	nelišily	lišit	_	_	{FEM/MASC};V.PTCP;ACT;PL;NEG;PST;V;IPFV;INAN	_	_	_	_
+13	od	od	_	_	ADP;GEN	_	_	_	_
+14	běžných	běžný	_	_	GEN;PL;MASC;POS;ADJ;INAN	_	_	_	_
+15	spořicích	spořicí	_	_	GEN;PL;MASC;POS;ADJ;INAN	_	_	_	_
+16	účtů	účet	_	_	GEN;PL;MASC;POS;N;INAN	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n05005
+# sent_id = n05005002
+# text = Federico Fellini jednou řekl: „Klaun je pro lidstvo jako stín pro člověka“.
+# orig_file_sentence test009#65
+# text_en = Federico Fellini once said: "The clown is to humanity as the shadow is to man".
+1	Federico	Federico	_	_	SG;MASC;ANIM;PROPN;POS;NOM	_	_	_	_
+2	Fellini	Fellini	_	_	SG;MASC;ANIM;PROPN;POS;NOM	_	_	_	_
+3	jednou	jednou	_	_	ADV	_	_	_	_
+4	řekl	říci	_	_	V.PTCP;ACT;SG;MASC;POS;PST;V	_	_	_	_
+5	:	:	_	_	_	_	_	_	_
+6	„	"	_	_	_	_	_	_	_
+7	Klaun	klaun	_	_	SG;MASC;ANIM;POS;NOM;N	_	_	_	_
+8	je	být	_	_	IND;ACT;SG;PRS;POS;V;3;FIN	_	_	_	_
+9	pro	pro	_	_	ADP;ACC	_	_	_	_
+10	lidstvo	lidstvo	_	_	NEUT;SG;POS;ACC;N	_	_	_	_
+11	jako	jako	_	_	CONJ	_	_	_	_
+12	stín	stín	_	_	SG;MASC;POS;NOM;N;INAN	_	_	_	_
+13	pro	pro	_	_	ADP;ACC	_	_	_	_
+14	člověka	člověk	_	_	SG;MASC;ANIM;ACC;POS;N	_	_	_	_
+15	“	"	_	_	_	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01093
+# sent_id = n01093007
+# text = „Pokud nedojde k omezení rybolovu, hrozí tresce obecné vyhynutí,“ uvedl nejmenovaný představitel EU.
+# orig_file_sentence test003#29
+# text_en = “Celtic Sea cod could collapse,” without the proposed limits, one EU official said.
+1	„	"	_	_	_	_	_	_	_
+2	Pokud	pokud	_	_	CONJ	_	_	_	_
+3	nedojde	dojít	_	_	IND;ACT;SG;NEG;PRS;V;3;FIN	_	_	_	_
+4	k	k	_	_	ADP;DAT	_	_	_	_
+5	omezení	omezení	_	_	DAT;NEUT;SG;POS;N	_	_	_	_
+6	rybolovu	rybolov	_	_	GEN;SG;MASC;POS;N;INAN	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	hrozí	hrozit	_	_	IND;ACT;SG;PRS;POS;V;IPFV;3;FIN	_	_	_	_
+9	tresce	treska	_	_	DAT;SG;FEM;POS;N	_	_	_	_
+10	obecné	obecný	_	_	DAT;SG;FEM;POS;ADJ	_	_	_	_
+11	vyhynutí	vyhynutí	_	_	NEUT;SG;POS;NOM;N	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	“	"	_	_	_	_	_	_	_
+14	uvedl	uvést	_	_	V.PTCP;ACT;SG;MASC;POS;PST;V	_	_	_	_
+15	nejmenovaný	jmenovaný	_	_	SG;NEG;MASC;ANIM;ADJ;NOM	_	_	_	_
+16	představitel	představitel	_	_	SG;MASC;ANIM;POS;NOM;N	_	_	_	_
+17	EU	EU	_	_	FEM;PROPN;POS	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n02052
+# sent_id = n02052023
+# text = Podle křesťanské víry byl hrob, který byl obložen vápencem, místem posledního odpočinku Ježíše.
+# orig_file_sentence test008#94
+# text_en = According to Christian belief, a grave which had been embedded in the chalkstone was the last resting place of Jesus.
+1	Podle	podle	_	_	ADP;GEN	_	_	_	_
+2	křesťanské	křesťanský	_	_	GEN;FEM;SG;POS;ADJ	_	_	_	_
+3	víry	víra	_	_	GEN;SG;FEM;POS;N	_	_	_	_
+4	byl	být	_	_	V.PTCP;ACT;SG;MASC;POS;PST;V	_	_	_	_
+5	hrob	hrob	_	_	SG;MASC;POS;NOM;N;INAN	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	který	který	_	_	SG;MASC;DET;NOM	_	_	_	_
+8	byl	být	_	_	V.PTCP;ACT;SG;MASC;POS;PST;V	_	_	_	_
+9	obložen	obložený	_	_	V.PTCP;SG;MASC;PFV;POS;ADJ;PASS	_	_	_	_
+10	vápencem	vápenec	_	_	SG;MASC;POS;N;INAN;INS	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	místem	místo	_	_	NEUT;SG;POS;N;INS	_	_	_	_
+13	posledního	poslední	_	_	GEN;SG;MASC;POS;ADJ;INAN	_	_	_	_
+14	odpočinku	odpočinek	_	_	GEN;SG;MASC;POS;N;INAN	_	_	_	_
+15	Ježíše	Ježíš	_	_	GEN;SG;MASC;ANIM;PROPN;POS	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01045004
+# text = Během prvního století rozvoje nebyla španělská dominance na tomto území nikým zpochybňována.
+# orig_file_sentence test005#87
+# text_en = During the first century of development, Spanish dominance in the region remained undisputed.
+1	Během	během	_	_	ADP;GEN	_	_	_	_
+2	prvního	první	_	_	GEN;NEUT;SG;ADJ	_	_	_	_
+3	století	století	_	_	GEN;NEUT;SG;POS;N	_	_	_	_
+4	rozvoje	rozvoj	_	_	GEN;SG;MASC;POS;N;INAN	_	_	_	_
+5	nebyla	být	_	_	V.PTCP;ACT;NEG;{PL/SG};{FEM/NEUT};PST;V	_	_	_	_
+6	španělská	španělský	_	_	FEM;SG;POS;ADJ;NOM	_	_	_	_
+7	dominance	dominance	_	_	SG;FEM;POS;NOM;N	_	_	_	_
+8	na	na	_	_	ADP;ESS	_	_	_	_
+9	tomto	tento	_	_	{MASC/NEUT};SG;DET;ESS	_	_	_	_
+10	území	území	_	_	NEUT;SG;POS;ESS;N	_	_	_	_
+11	nikým	nikdo	_	_	PRO;MASC;ANIM;INS	_	_	_	_
+12	zpochybňována	zpochybňovaný	_	_	V.PTCP;{PL/SG};{FEM/NEUT};POS;ADJ;IPFV;PASS	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01083
+# sent_id = w01083007
+# text = Tato idealizovaná verze monarchie Romanovců mu znemožnila vidět skutečný stav jeho země.
+# orig_file_sentence test006#87
+# text_en = This idealized vision of the Romanov monarchy blinded him to the actual state of his country.
+1	Tato	tento	_	_	SG;FEM;DET;NOM	_	_	_	_
+2	idealizovaná	idealizovaný	_	_	FEM;SG;POS;ADJ;NOM	_	_	_	_
+3	verze	verze	_	_	SG;FEM;POS;NOM;N	_	_	_	_
+4	monarchie	monarchie	_	_	GEN;SG;FEM;POS;N	_	_	_	_
+5	Romanovců	Romanovec	_	_	GEN;PL;MASC;ANIM;PROPN;POS	_	_	_	_
+6	mu	on	_	_	DAT;{MASC/NEUT};PRO;SG;3	_	_	_	_
+7	znemožnila	znemožnit	_	_	V.PTCP;ACT;{PL/SG};PFV;POS;PST;V;{FEM/NEUT}	_	_	_	_
+8	vidět	vidět	_	_	POS;NFIN;V	_	_	_	_
+9	skutečný	skutečný	_	_	SG;MASC;ACC;POS;ADJ;INAN	_	_	_	_
+10	stav	stav	_	_	SG;MASC;ACC;POS;N;INAN	_	_	_	_
+11	jeho	jeho	_	_	PSSS;DET;3	_	_	_	_
+12	země	země	_	_	GEN;SG;FEM;POS;N	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01069023
+# text = Byl naprosto gentlemanský a vzal to jako chlap, zato já jsem za hranicí zuřivosti.
+# orig_file_sentence test002#69
+# text_en = He was utterly gracious and took it like a man, I am beyond furious.
+1	Byl	být	_	_	V.PTCP;ACT;SG;MASC;POS;PST;V	_	_	_	_
+2	naprosto	naprosto	_	_	ADV	_	_	_	_
+3	gentlemanský	gentlemanský	_	_	SG;MASC;ANIM;POS;ADJ;NOM	_	_	_	_
+4	a	a	_	_	CONJ	_	_	_	_
+5	vzal	vzít	_	_	V.PTCP;ACT;SG;MASC;POS;PST;V	_	_	_	_
+6	to	ten	_	_	NEUT;SG;DET;ACC	_	_	_	_
+7	jako	jako	_	_	CONJ	_	_	_	_
+8	chlap	chlap	_	_	SG;MASC;ANIM;POS;NOM;N	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	zato	zato	_	_	CONJ	_	_	_	_
+11	já	já	_	_	PRO;SG;1;NOM	_	_	_	_
+12	jsem	být	_	_	IND;ACT;SG;PRS;POS;1;V;FIN	_	_	_	_
+13	za	za	_	_	ADP;INS	_	_	_	_
+14	hranicí	hranice	_	_	FEM;SG;POS;N;INS	_	_	_	_
+15	zuřivosti	zuřivost	_	_	GEN;SG;FEM;POS;N	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n03009
+# sent_id = n03009006
+# text = On také poznamenal, že „existence takového dokumentu by mohla vést k důsledkům, které jsou stejně pravděpodobné, jako jsou nepřijatelné“.
+# orig_file_sentence test009#22
+# text_en = He also remarked that "the existence of such a document could lead to consequences that are as likely as they are unacceptable".
+1	On	on	_	_	PRO;SG;MASC;NOM;3	_	_	_	_
+2	také	také	_	_	ADV	_	_	_	_
+3	poznamenal	poznamenat	_	_	V.PTCP;ACT;SG;MASC;PFV;POS;PST;V	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	že	že	_	_	CONJ	_	_	_	_
+6	„	"	_	_	_	_	_	_	_
+7	existence	existence	_	_	SG;FEM;POS;NOM;N	_	_	_	_
+8	takového	takový	_	_	GEN;{MASC/NEUT};SG;DET	_	_	_	_
+9	dokumentu	dokument	_	_	GEN;SG;MASC;POS;N;INAN	_	_	_	_
+10	by	být	_	_	V;COND;FIN	_	_	_	_
+11	mohla	moci	_	_	V.PTCP;ACT;{PL/SG};POS;PST;V;{FEM/NEUT}	_	_	_	_
+12	vést	vést	_	_	POS;NFIN;V	_	_	_	_
+13	k	k	_	_	ADP;DAT	_	_	_	_
+14	důsledkům	důsledek	_	_	DAT;PL;MASC;POS;N;INAN	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	které	který	_	_	PL;MASC;DET;NOM;INAN	_	_	_	_
+17	jsou	být	_	_	IND;ACT;PL;PRS;POS;V;3;FIN	_	_	_	_
+18	stejně	stejně	_	_	ADV;POS	_	_	_	_
+19	pravděpodobné	pravděpodobný	_	_	PL;MASC;POS;ADJ;NOM;INAN	_	_	_	_
+20	,	,	_	_	_	_	_	_	_
+21	jako	jako	_	_	CONJ	_	_	_	_
+22	jsou	být	_	_	IND;ACT;PL;PRS;POS;V;3;FIN	_	_	_	_
+23	nepřijatelné	přijatelný	_	_	PL;NEG;MASC;ADJ;NOM;INAN	_	_	_	_
+24	“	"	_	_	_	_	_	_	_
+25	.	.	_	_	_	_	_	_	_
+
+# sent_id = w03005013
+# text = Gramotnost byla ztracená a Mykénské texty zapomenuty, ale Řekové přijali fénickou abecedu, modifikovali ji a vytvořili řeckou abecedu.
+# orig_file_sentence test010#35
+# text_en = Literacy had been lost and Mycenaean script forgotten, but the Greeks adopted the Phoenician alphabet, modifying it to create the Greek alphabet.
+1	Gramotnost	gramotnost	_	_	SG;FEM;POS;NOM;N	_	_	_	_
+2	byla	být	_	_	V.PTCP;ACT;{PL/SG};{FEM/NEUT};POS;PST;V	_	_	_	_
+3	ztracená	ztracený	_	_	FEM;SG;POS;ADJ;NOM	_	_	_	_
+4	a	a	_	_	CONJ	_	_	_	_
+5	Mykénské	mykénský	_	_	PL;MASC;POS;ADJ;NOM;INAN	_	_	_	_
+6	texty	text	_	_	PL;MASC;POS;NOM;N;INAN	_	_	_	_
+7	zapomenuty	zapomenutý	_	_	{FEM/MASC};V.PTCP;PL;POS;ADJ;PASS;INAN	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	ale	ale	_	_	CONJ	_	_	_	_
+10	Řekové	Řek	_	_	PL;MASC;ANIM;PROPN;POS;NOM	_	_	_	_
+11	přijali	přijmout	_	_	V.PTCP;ACT;PL;MASC;ANIM;POS;PST;V	_	_	_	_
+12	fénickou	fénický	_	_	FEM;SG;ACC;POS;ADJ	_	_	_	_
+13	abecedu	abeceda	_	_	FEM;SG;POS;ACC;N	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	modifikovali	modifikovat	_	_	V.PTCP;ACT;PL;MASC;ANIM;POS;PST;V	_	_	_	_
+16	ji	on	_	_	PRO;FEM;SG;ACC;3	_	_	_	_
+17	a	a	_	_	CONJ	_	_	_	_
+18	vytvořili	vytvořit	_	_	V.PTCP;ACT;PL;MASC;ANIM;PFV;POS;PST;V	_	_	_	_
+19	řeckou	řecký	_	_	FEM;SG;ACC;POS;ADJ	_	_	_	_
+20	abecedu	abeceda	_	_	FEM;SG;POS;ACC;N	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01070
+# sent_id = w01070031
+# text = V době bronzové tam kolem roku 1900 př. n. l. byla zbudována astronomická observatoř, která sloužila blízko žijící komunitě až zhruba do roku 700 př. n. l.
+# orig_file_sentence test006#51
+# text_en = A Bronze Age astronomical observatory was constructed there around 1900 BC and continuously served the nearby community that lived there until about 700 BC.
+1	V	v	_	_	ADP;ESS	_	_	_	_
+2	době	doba	_	_	SG;FEM;POS;ESS;N	_	_	_	_
+3	bronzové	bronzový	_	_	FEM;SG;POS;ESS;ADJ	_	_	_	_
+4	tam	tam	_	_	ADV	_	_	_	_
+5	kolem	kolem	_	_	ADP;GEN	_	_	_	_
+6	roku	rok	_	_	GEN;SG;MASC;POS;N;INAN	_	_	_	_
+7	1900	1900	_	_	NUM	_	_	_	_
+8	př	před	_	_	ADP;INS	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+10	n	můj	_	_	PSSP;{MASC/NEUT};SG;DET;1;INS	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+12	l	letopočet	_	_	SG;MASC;INAN;POS;N;INS	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+14	byla	být	_	_	V.PTCP;ACT;{PL/SG};{FEM/NEUT};POS;PST;V	_	_	_	_
+15	zbudována	zbudovaný	_	_	V.PTCP;{PL/SG};PFV;POS;ADJ;{FEM/NEUT};PASS	_	_	_	_
+16	astronomická	astronomický	_	_	FEM;SG;POS;ADJ;NOM	_	_	_	_
+17	observatoř	observatoř	_	_	SG;FEM;POS;NOM;N	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	která	který	_	_	SG;FEM;DET;NOM	_	_	_	_
+20	sloužila	sloužit	_	_	V.PTCP;ACT;{PL/SG};{FEM/NEUT};POS;PST;V;IPFV	_	_	_	_
+21	blízko	blízko	_	_	ADV;POS	_	_	_	_
+22	žijící	žijící	_	_	DAT;V.PTCP;ACT;SG;FEM;PRS;POS;ADJ;IPFV	_	_	_	_
+23	komunitě	komunita	_	_	DAT;SG;FEM;POS;N	_	_	_	_
+24	až	až	_	_	PART	_	_	_	_
+25	zhruba	zhruba	_	_	ADV	_	_	_	_
+26	do	do	_	_	ADP;GEN	_	_	_	_
+27	roku	rok	_	_	GEN;SG;MASC;POS;N;INAN	_	_	_	_
+28	700	700	_	_	NUM	_	_	_	_
+29	př	před	_	_	ADP;INS	_	_	_	_
+30	.	.	_	_	_	_	_	_	_
+31	n	můj	_	_	PSSP;{MASC/NEUT};SG;DET;1;INS	_	_	_	_
+32	.	.	_	_	_	_	_	_	_
+33	l	letopočet	_	_	SG;MASC;INAN;POS;N;INS	_	_	_	_
+34	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01020
+# sent_id = w01020016
+# text = Kolem středomořského pobřeží se nacházelo několik starobylých civilizací a ty byly blízkostí moře významně ovlivněny.
+# orig_file_sentence test005#19
+# text_en = Several ancient civilisations were located around the Mediterranean shores, and were greatly influenced by their proximity to the sea.
+1	Kolem	kolem	_	_	ADP;GEN	_	_	_	_
+2	středomořského	středomořský	_	_	GEN;NEUT;SG;POS;ADJ	_	_	_	_
+3	pobřeží	pobřeží	_	_	GEN;NEUT;SG;POS;N	_	_	_	_
+4	se	se	_	_	PRO;REFL;ACC	_	_	_	_
+5	nacházelo	nacházet	_	_	V.PTCP;ACT;NEUT;SG;POS;PST;V;IPFV	_	_	_	_
+6	několik	několik	_	_	NOM;DET	_	_	_	_
+7	starobylých	starobylý	_	_	GEN;PL;FEM;POS;ADJ	_	_	_	_
+8	civilizací	civilizace	_	_	GEN;PL;FEM;POS;N	_	_	_	_
+9	a	a	_	_	CONJ	_	_	_	_
+10	ty	ten	_	_	PL;MASC;DET;NOM;INAN	_	_	_	_
+11	byly	být	_	_	{FEM/MASC};V.PTCP;ACT;PL;POS;PST;V;INAN	_	_	_	_
+12	blízkostí	blízkost	_	_	FEM;SG;POS;N;INS	_	_	_	_
+13	moře	moře	_	_	GEN;NEUT;SG;POS;N	_	_	_	_
+14	významně	významně	_	_	ADV;POS	_	_	_	_
+15	ovlivněny	ovlivněný	_	_	{FEM/MASC};V.PTCP;PL;POS;ADJ;PASS;INAN	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01141077
+# text = O titul si pak zahrála se Sarou Errani, ale byla poražena.
+# orig_file_sentence test008#25
+# text_en = She next faced defending champion and top seed Sara Errani, but was defeated.
+1	O	o	_	_	ADP;ACC	_	_	_	_
+2	titul	titul	_	_	SG;MASC;ACC;POS;N;INAN	_	_	_	_
+3	si	se	_	_	DAT;PRO;REFL	_	_	_	_
+4	pak	pak	_	_	ADV	_	_	_	_
+5	zahrála	zahrát	_	_	V.PTCP;ACT;{PL/SG};POS;PST;V;{FEM/NEUT}	_	_	_	_
+6	se	s	_	_	ADP;INS	_	_	_	_
+7	Sarou	Sara	_	_	FEM;SG;PROPN;POS;INS	_	_	_	_
+8	Errani	Errani	_	_	SG;FEM;PROPN;POS	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	ale	ale	_	_	CONJ	_	_	_	_
+11	byla	být	_	_	V.PTCP;ACT;{PL/SG};{FEM/NEUT};POS;PST;V	_	_	_	_
+12	poražena	poražený	_	_	V.PTCP;{PL/SG};POS;ADJ;{FEM/NEUT};PASS	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01107
+# sent_id = n01107005
+# text = Zprávy o podvodném jednání, kterého se automobilka dopouštěla řadu let, snížily hodnotu společnosti o desítky miliard eur a stály generálního ředitele Martina Winterkorna jeho funkci.
+# orig_file_sentence test003#62
+# text_en = News of the company’s deceit - which had run for years - wiped tens of billions of euros from VW's value and cost chief executive Martin Winterkorn his job.
+1	Zprávy	zpráva	_	_	PL;FEM;POS;NOM;N	_	_	_	_
+2	o	o	_	_	ADP;ESS	_	_	_	_
+3	podvodném	podvodný	_	_	NEUT;SG;POS;ESS;ADJ	_	_	_	_
+4	jednání	jednání	_	_	NEUT;SG;POS;ESS;N	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	kterého	který	_	_	GEN;{MASC/NEUT};SG;DET	_	_	_	_
+7	se	se	_	_	PRO;REFL;ACC	_	_	_	_
+8	automobilka	automobilka	_	_	SG;FEM;POS;NOM;N	_	_	_	_
+9	dopouštěla	dopouštět	_	_	V.PTCP;ACT;{PL/SG};{FEM/NEUT};POS;PST;V;IPFV	_	_	_	_
+10	řadu	řada	_	_	FEM;SG;POS;ACC;N	_	_	_	_
+11	let	rok	_	_	GEN;PL;NEUT;POS;N	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	snížily	snížit	_	_	{FEM/MASC};V.PTCP;ACT;PL;PFV;POS;PST;V;INAN	_	_	_	_
+14	hodnotu	hodnota	_	_	FEM;SG;POS;ACC;N	_	_	_	_
+15	společnosti	společnost	_	_	GEN;SG;FEM;POS;N	_	_	_	_
+16	o	o	_	_	ADP;ACC	_	_	_	_
+17	desítky	desítka	_	_	PL;FEM;POS;ACC;N	_	_	_	_
+18	miliard	miliarda	_	_	GEN;PL;FEM;POS;N	_	_	_	_
+19	eur	euro	_	_	GEN;PL;NEUT;POS;N	_	_	_	_
+20	a	a	_	_	CONJ	_	_	_	_
+21	stály	stát	_	_	{FEM/MASC};V.PTCP;ACT;PL;POS;PST;V;INAN	_	_	_	_
+22	generálního	generální	_	_	GEN;SG;MASC;ANIM;POS;ADJ	_	_	_	_
+23	ředitele	ředitel	_	_	GEN;SG;MASC;ANIM;POS;N	_	_	_	_
+24	Martina	Martin	_	_	GEN;SG;MASC;ANIM;PROPN;POS	_	_	_	_
+25	Winterkorna	Winterkorn	_	_	GEN;SG;MASC;ANIM;PROPN;POS	_	_	_	_
+26	jeho	jeho	_	_	PSSS;DET;3	_	_	_	_
+27	funkci	funkce	_	_	FEM;SG;POS;ACC;N	_	_	_	_
+28	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01100049
+# text = V roce 1856 vypukla druhá opiová válka, v níž byli Číňané znovu poraženi a přinuceni přijmout podmínky tiencinské smlouvy z roku 1858 a pekingské dohody z roku 1860.
+# orig_file_sentence test007#26
+# text_en = In 1856, the Second Opium War broke out; the Chinese were again defeated and forced to the terms of the 1858 Treaty of Tientsin and the 1860 Convention of Peking.
+1	V	v	_	_	ADP;ESS	_	_	_	_
+2	roce	rok	_	_	SG;MASC;POS;ESS;N;INAN	_	_	_	_
+3	1856	1856	_	_	NUM	_	_	_	_
+4	vypukla	vypuknout	_	_	V.PTCP;ACT;{PL/SG};PFV;POS;PST;V;{FEM/NEUT}	_	_	_	_
+5	druhá	druhý	_	_	FEM;SG;ADJ;NOM	_	_	_	_
+6	opiová	opiový	_	_	FEM;SG;POS;ADJ;NOM	_	_	_	_
+7	válka	válka	_	_	SG;FEM;POS;NOM;N	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	v	v	_	_	ADP;ESS	_	_	_	_
+10	níž	jenž	_	_	SG;PRO;FEM;ESS	_	_	_	_
+11	byli	být	_	_	V.PTCP;ACT;PL;MASC;ANIM;POS;PST;V	_	_	_	_
+12	Číňané	Číňan	_	_	PL;MASC;ANIM;PROPN;POS;NOM	_	_	_	_
+13	znovu	znovu	_	_	ADV	_	_	_	_
+14	poraženi	poražený	_	_	V.PTCP;PL;MASC;ANIM;POS;ADJ;PASS	_	_	_	_
+15	a	a	_	_	CONJ	_	_	_	_
+16	přinuceni	přinucený	_	_	V.PTCP;PL;MASC;ANIM;PFV;POS;ADJ;PASS	_	_	_	_
+17	přijmout	přijmout	_	_	POS;NFIN;V	_	_	_	_
+18	podmínky	podmínka	_	_	PL;FEM;POS;ACC;N	_	_	_	_
+19	tiencinské	tiencinský	_	_	GEN;FEM;SG;POS;ADJ	_	_	_	_
+20	smlouvy	smlouva	_	_	GEN;SG;FEM;POS;N	_	_	_	_
+21	z	z	_	_	ADP;GEN	_	_	_	_
+22	roku	rok	_	_	GEN;SG;MASC;POS;N;INAN	_	_	_	_
+23	1858	1858	_	_	NUM	_	_	_	_
+24	a	a	_	_	CONJ	_	_	_	_
+25	pekingské	pekingský	_	_	GEN;FEM;SG;POS;ADJ	_	_	_	_
+26	dohody	dohoda	_	_	GEN;SG;FEM;POS;N	_	_	_	_
+27	z	z	_	_	ADP;GEN	_	_	_	_
+28	roku	rok	_	_	GEN;SG;MASC;POS;N;INAN	_	_	_	_
+29	1860	1860	_	_	NUM	_	_	_	_
+30	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01040
+# sent_id = n01040028
+# text = Studenti jako Rai se ve škole setkávali s poradenskými pracovníky a bavili se o tom, co se stalo, ale řekla, že nejvíce ji utěšilo vidět se s přáteli.
+# orig_file_sentence test001#99
+# text_en = Students like Rai have been meeting with counsellors at the school to talk about what happened, but she said the biggest comfort has come from seeing her friends.
+1	Studenti	student	_	_	PL;MASC;ANIM;POS;NOM;N	_	_	_	_
+2	jako	jako	_	_	CONJ	_	_	_	_
+3	Rai	Rai	_	_	SG;MASC;ANIM;PROPN;POS;NOM	_	_	_	_
+4	se	se	_	_	PRO;REFL;ACC	_	_	_	_
+5	ve	v	_	_	ADP;ESS	_	_	_	_
+6	škole	škola	_	_	SG;FEM;POS;ESS;N	_	_	_	_
+7	setkávali	setkávat	_	_	V.PTCP;ACT;PL;MASC;ANIM;POS;PST;V;IPFV	_	_	_	_
+8	s	s	_	_	ADP;INS	_	_	_	_
+9	poradenskými	poradenský	_	_	PL;MASC;ANIM;POS;ADJ;INS	_	_	_	_
+10	pracovníky	pracovník	_	_	PL;MASC;ANIM;POS;N;INS	_	_	_	_
+11	a	a	_	_	CONJ	_	_	_	_
+12	bavili	bavit	_	_	V.PTCP;ACT;PL;MASC;ANIM;POS;PST;V;IPFV	_	_	_	_
+13	se	se	_	_	PRO;REFL;ACC	_	_	_	_
+14	o	o	_	_	ADP;ESS	_	_	_	_
+15	tom	ten	_	_	{MASC/NEUT};SG;DET;ESS	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	co	co	_	_	NOM;INAN;PRO	_	_	_	_
+18	se	se	_	_	PRO;REFL;ACC	_	_	_	_
+19	stalo	stát	_	_	V.PTCP;ACT;NEUT;SG;POS;PST;V	_	_	_	_
+20	,	,	_	_	_	_	_	_	_
+21	ale	ale	_	_	CONJ	_	_	_	_
+22	řekla	říci	_	_	V.PTCP;ACT;{PL/SG};POS;PST;V;{FEM/NEUT}	_	_	_	_
+23	,	,	_	_	_	_	_	_	_
+24	že	že	_	_	CONJ	_	_	_	_
+25	nejvíce	hodně	_	_	RL;ADV;POS	_	_	_	_
+26	ji	on	_	_	PRO;FEM;SG;ACC;3	_	_	_	_
+27	utěšilo	utěšit	_	_	V.PTCP;ACT;NEUT;SG;PFV;POS;PST;V	_	_	_	_
+28	vidět	vidět	_	_	POS;NFIN;V	_	_	_	_
+29	se	se	_	_	PRO;REFL;ACC	_	_	_	_
+30	s	s	_	_	ADP;INS	_	_	_	_
+31	přáteli	přítel	_	_	PL;MASC;ANIM;POS;N;INS	_	_	_	_
+32	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01102
+# sent_id = w01102020
+# text = Joseph Darnand, který byl důstojníkem SS a vedl polovojenské milice pronásledující členy odporu, byl v říjnu 1945 popraven.
+# orig_file_sentence test007#31
+# text_en = Joseph Darnand, who became an SS officer and led the Milice paramilitaries who hunted down members of the Resistance, was executed in October 1945.
+1	Joseph	Joseph	_	_	SG;MASC;ANIM;PROPN;POS;NOM	_	_	_	_
+2	Darnand	Darnand	_	_	SG;MASC;ANIM;PROPN;POS;NOM	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	který	který	_	_	SG;MASC;DET;NOM	_	_	_	_
+5	byl	být	_	_	V.PTCP;ACT;SG;MASC;POS;PST;V	_	_	_	_
+6	důstojníkem	důstojník	_	_	SG;MASC;ANIM;POS;N;INS	_	_	_	_
+7	SS	SS	_	_	POS;PROPN	_	_	_	_
+8	a	a	_	_	CONJ	_	_	_	_
+9	vedl	vést	_	_	V.PTCP;ACT;SG;MASC;POS;PST;V	_	_	_	_
+10	polovojenské	polovojenský	_	_	PL;FEM;ACC;POS;ADJ	_	_	_	_
+11	milice	milice	_	_	PL;FEM;POS;ACC;N	_	_	_	_
+12	pronásledující	pronásledující	_	_	V.PTCP;ACT;PL;FEM;PRS;ACC;POS;ADJ;IPFV	_	_	_	_
+13	členy	člen	_	_	PL;MASC;ANIM;ACC;POS;N	_	_	_	_
+14	odporu	odpor	_	_	GEN;SG;MASC;POS;N;INAN	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	byl	být	_	_	V.PTCP;ACT;SG;MASC;POS;PST;V	_	_	_	_
+17	v	v	_	_	ADP;ESS	_	_	_	_
+18	říjnu	říjen	_	_	SG;MASC;POS;ESS;N;INAN	_	_	_	_
+19	1945	1945	_	_	NUM	_	_	_	_
+20	popraven	popravený	_	_	V.PTCP;SG;MASC;PFV;POS;ADJ;PASS	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01127096
+# text = Tou dobou ji málem zničilo utrácení a série špatných investic jejích investorů.
+# orig_file_sentence test007#85
+# text_en = By this time, extravagant spending and a string of bad investments by her investors had left her nearly broke.
+1	Tou	ten	_	_	FEM;SG;DET;INS	_	_	_	_
+2	dobou	doba	_	_	FEM;SG;POS;N;INS	_	_	_	_
+3	ji	on	_	_	PRO;FEM;SG;ACC;3	_	_	_	_
+4	málem	málem	_	_	ADV	_	_	_	_
+5	zničilo	zničit	_	_	V.PTCP;ACT;NEUT;SG;PFV;POS;PST;V	_	_	_	_
+6	utrácení	utrácení	_	_	NEUT;SG;POS;NOM;N	_	_	_	_
+7	a	a	_	_	CONJ	_	_	_	_
+8	série	série	_	_	SG;FEM;POS;NOM;N	_	_	_	_
+9	špatných	špatný	_	_	GEN;PL;FEM;POS;ADJ	_	_	_	_
+10	investic	investice	_	_	GEN;PL;FEM;POS;N	_	_	_	_
+11	jejích	jeho	_	_	PSSS;GEN;PL;DET;3	_	_	_	_
+12	investorů	investor	_	_	GEN;PL;MASC;ANIM;POS;N	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01076
+# sent_id = w01076039
+# text = Záruka občanských svobod dávala příslib, že vymizí napětí mezi komunitami a že se říše přemění ve více harmonické místo.
+# orig_file_sentence test006#73
+# text_en = Its guarantee of liberties promised to dissolve inter-communal tensions and transform the empire into a more harmonious place.
+1	Záruka	záruka	_	_	SG;FEM;POS;NOM;N	_	_	_	_
+2	občanských	občanský	_	_	GEN;PL;FEM;POS;ADJ	_	_	_	_
+3	svobod	svoboda	_	_	GEN;PL;FEM;POS;N	_	_	_	_
+4	dávala	dávat	_	_	V.PTCP;ACT;{PL/SG};{FEM/NEUT};POS;PST;V;IPFV	_	_	_	_
+5	příslib	příslib	_	_	SG;MASC;ACC;POS;N;INAN	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	že	že	_	_	CONJ	_	_	_	_
+8	vymizí	vymizet	_	_	IND;ACT;SG;PRS;POS;V;3;FIN	_	_	_	_
+9	napětí	napětí	_	_	NEUT;SG;POS;NOM;N	_	_	_	_
+10	mezi	mezi	_	_	ADP;INS	_	_	_	_
+11	komunitami	komunita	_	_	PL;FEM;POS;N;INS	_	_	_	_
+12	a	a	_	_	CONJ	_	_	_	_
+13	že	že	_	_	CONJ	_	_	_	_
+14	se	se	_	_	PRO;REFL;ACC	_	_	_	_
+15	říše	říše	_	_	SG;FEM;POS;NOM;N	_	_	_	_
+16	přemění	přeměnit	_	_	IND;ACT;SG;PRS;PFV;POS;V;3;FIN	_	_	_	_
+17	ve	v	_	_	ADP;ACC	_	_	_	_
+18	více	hodně	_	_	ADV;CMPR;POS	_	_	_	_
+19	harmonické	harmonický	_	_	NEUT;SG;ACC;POS;ADJ	_	_	_	_
+20	místo	místo	_	_	NEUT;SG;POS;ACC;N	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01095009
+# text = Divoch mu neříkám jen tak pro nic za nic.
+# orig_file_sentence test003#35
+# text_en = I don’t call it a beast lightly.
+1	Divoch	divoch	_	_	SG;MASC;ANIM;POS;NOM;N	_	_	_	_
+2	mu	on	_	_	DAT;{MASC/NEUT};PRO;SG;3	_	_	_	_
+3	neříkám	říkat	_	_	IND;ACT;SG;NEG;PRS;1;V;IPFV;FIN	_	_	_	_
+4	jen	jen	_	_	PART	_	_	_	_
+5	tak	tak	_	_	ADV	_	_	_	_
+6	pro	pro	_	_	ADP;ACC	_	_	_	_
+7	nic	nic	_	_	PRO;ACC	_	_	_	_
+8	za	za	_	_	ADP;ACC	_	_	_	_
+9	nic	nic	_	_	PRO;ACC	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01111089
+# text = Winstone potkal svou ženu Elaine, když v roce 1979 točil film To léto.
+# orig_file_sentence test007#51
+# text_en = Winstone met his wife, Elaine, while filming That Summer in 1979.
+1	Winstone	Winstone	_	_	SG;MASC;ANIM;PROPN;POS;NOM	_	_	_	_
+2	potkal	potkat	_	_	V.PTCP;ACT;SG;MASC;PFV;POS;PST;V	_	_	_	_
+3	svou	svůj	_	_	FEM;SG;DET;REFL;ACC	_	_	_	_
+4	ženu	žena	_	_	FEM;SG;POS;ACC;N	_	_	_	_
+5	Elaine	Elaine	_	_	FEM;PROPN;POS	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	když	když	_	_	CONJ	_	_	_	_
+8	v	v	_	_	ADP;ESS	_	_	_	_
+9	roce	rok	_	_	SG;MASC;POS;ESS;N;INAN	_	_	_	_
+10	1979	1979	_	_	NUM	_	_	_	_
+11	točil	točit	_	_	V.PTCP;ACT;SG;MASC;POS;PST;V;IPFV	_	_	_	_
+12	film	film	_	_	SG;MASC;ACC;POS;N;INAN	_	_	_	_
+13	To	ten	_	_	NEUT;SG;DET;NOM	_	_	_	_
+14	léto	léto	_	_	NEUT;SG;POS;NOM;N	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = w02017061
+# text = Stopy krve na oblečení vypadaly tak, jak vypadaly, když o nich informovaly zprávy v den vraždy.
+# orig_file_sentence test010#21
+# text_en = The traces of blood on the clothes were in the shape that they were reported to have by the news reports on the day of the murder.
+1	Stopy	stopa	_	_	PL;FEM;POS;NOM;N	_	_	_	_
+2	krve	krev	_	_	GEN;SG;FEM;POS;N	_	_	_	_
+3	na	na	_	_	ADP;ESS	_	_	_	_
+4	oblečení	oblečení	_	_	NEUT;SG;POS;ESS;N	_	_	_	_
+5	vypadaly	vypadat	_	_	{FEM/MASC};V.PTCP;ACT;PL;POS;PST;V;IPFV;INAN	_	_	_	_
+6	tak	tak	_	_	ADV	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	jak	jak	_	_	ADV	_	_	_	_
+9	vypadaly	vypadat	_	_	{FEM/MASC};V.PTCP;ACT;PL;POS;PST;V;IPFV;INAN	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	když	když	_	_	CONJ	_	_	_	_
+12	o	o	_	_	ADP;ESS	_	_	_	_
+13	nich	on	_	_	PL;PRO;ESS;3	_	_	_	_
+14	informovaly	informovat	_	_	{FEM/MASC};V.PTCP;ACT;PL;POS;PST;V;INAN	_	_	_	_
+15	zprávy	zpráva	_	_	PL;FEM;POS;NOM;N	_	_	_	_
+16	v	v	_	_	ADP;ACC	_	_	_	_
+17	den	den	_	_	SG;MASC;ACC;POS;N;INAN	_	_	_	_
+18	vraždy	vražda	_	_	GEN;SG;FEM;POS;N	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01022016
+# text = Investice v této oblasti se v roce 2015 zvýšily o 6 % na 221 miliard dolarů.
+# orig_file_sentence test001#49
+# text_en = Investments in this area were up by 6% in 2015 to $221bn.
+1	Investice	investice	_	_	PL;FEM;POS;NOM;N	_	_	_	_
+2	v	v	_	_	ADP;ESS	_	_	_	_
+3	této	tento	_	_	SG;FEM;DET;ESS	_	_	_	_
+4	oblasti	oblast	_	_	SG;FEM;POS;ESS;N	_	_	_	_
+5	se	se	_	_	PRO;REFL;ACC	_	_	_	_
+6	v	v	_	_	ADP;ESS	_	_	_	_
+7	roce	rok	_	_	SG;MASC;POS;ESS;N;INAN	_	_	_	_
+8	2015	2015	_	_	NUM	_	_	_	_
+9	zvýšily	zvýšit	_	_	{FEM/MASC};V.PTCP;ACT;PL;PFV;POS;PST;V;INAN	_	_	_	_
+10	o	o	_	_	ADP;ACC	_	_	_	_
+11	6	6	_	_	NUM	_	_	_	_
+12	%	%	_	_	_	_	_	_	_
+13	na	na	_	_	ADP;ACC	_	_	_	_
+14	221	221	_	_	NUM	_	_	_	_
+15	miliard	miliarda	_	_	GEN;PL;FEM;POS;N	_	_	_	_
+16	dolarů	dolar	_	_	GEN;PL;MASC;POS;N;INAN	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01062
+# sent_id = w01062037
+# text = Tiberius podle dostupných pramenů svého odjezdu litoval a několikrát žádal, aby se směl do Říma vrátit, ale Augustus jeho žádosti pokaždé zamítl.
+# orig_file_sentence test006#30
+# text_en = Tiberius reportedly regretted his departure and requested to return to Rome several times, but each time Augustus refused his requests.
+1	Tiberius	Tiberius	_	_	SG;MASC;ANIM;PROPN;POS;NOM	_	_	_	_
+2	podle	podle	_	_	ADP;GEN	_	_	_	_
+3	dostupných	dostupný	_	_	GEN;PL;MASC;POS;ADJ;INAN	_	_	_	_
+4	pramenů	pramen	_	_	GEN;PL;MASC;POS;N;INAN	_	_	_	_
+5	svého	svůj	_	_	GEN;{MASC/NEUT};SG;DET;REFL	_	_	_	_
+6	odjezdu	odjezd	_	_	GEN;SG;MASC;POS;N;INAN	_	_	_	_
+7	litoval	litovat	_	_	V.PTCP;ACT;SG;MASC;POS;PST;V;IPFV	_	_	_	_
+8	a	a	_	_	CONJ	_	_	_	_
+9	několikrát	několikrát	_	_	ADV	_	_	_	_
+10	žádal	žádat	_	_	V.PTCP;ACT;SG;MASC;POS;PST;V;IPFV	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	aby	aby	_	_	CONJ	_	_	_	_
+13	by	být	_	_	V;3;COND;FIN	_	_	_	_
+14	se	se	_	_	PRO;REFL;ACC	_	_	_	_
+15	směl	smět	_	_	V.PTCP;ACT;SG;MASC;POS;PST;V;IPFV	_	_	_	_
+16	do	do	_	_	ADP;GEN	_	_	_	_
+17	Říma	Řím	_	_	GEN;SG;MASC;PROPN;POS;INAN	_	_	_	_
+18	vrátit	vrátit	_	_	POS;NFIN;PFV;V	_	_	_	_
+19	,	,	_	_	_	_	_	_	_
+20	ale	ale	_	_	CONJ	_	_	_	_
+21	Augustus	Augustus	_	_	SG;MASC;ANIM;PROPN;POS;NOM	_	_	_	_
+22	jeho	jeho	_	_	PSSS;DET;3	_	_	_	_
+23	žádosti	žádost	_	_	PL;FEM;POS;ACC;N	_	_	_	_
+24	pokaždé	pokaždé	_	_	ADV	_	_	_	_
+25	zamítl	zamítnout	_	_	V.PTCP;ACT;SG;MASC;PFV;POS;PST;V	_	_	_	_
+26	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01093
+# sent_id = w01093028
+# text = Ve druhé messénské válce se Sparta stala na Peloponéském poloostrově a ve zbytku Řecka velmocí.
+# orig_file_sentence test007#7
+# text_en = In the Second Messenian War, Sparta established itself as a local power in Peloponnesus and the rest of Greece.
+1	Ve	v	_	_	ADP;ESS	_	_	_	_
+2	druhé	druhý	_	_	FEM;SG;ESS;ADJ	_	_	_	_
+3	messénské	messénský	_	_	FEM;SG;POS;ESS;ADJ	_	_	_	_
+4	válce	válka	_	_	SG;FEM;POS;ESS;N	_	_	_	_
+5	se	se	_	_	PRO;REFL;ACC	_	_	_	_
+6	Sparta	Sparta	_	_	SG;FEM;PROPN;POS;NOM	_	_	_	_
+7	stala	stát	_	_	V.PTCP;ACT;{PL/SG};POS;PST;V;{FEM/NEUT}	_	_	_	_
+8	na	na	_	_	ADP;ESS	_	_	_	_
+9	Peloponéském	Peloponéský	_	_	SG;MASC;POS;ESS;ADJ;INAN	_	_	_	_
+10	poloostrově	poloostrov	_	_	SG;MASC;POS;ESS;N;INAN	_	_	_	_
+11	a	a	_	_	CONJ	_	_	_	_
+12	ve	v	_	_	ADP;ESS	_	_	_	_
+13	zbytku	zbytek	_	_	SG;MASC;POS;ESS;N;INAN	_	_	_	_
+14	Řecka	Řecko	_	_	GEN;NEUT;SG;PROPN;POS	_	_	_	_
+15	velmocí	velmoc	_	_	FEM;SG;POS;N;INS	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01127
+# sent_id = w01127071
+# text = Wild West z roku 1981 patřilo k jejím nejlépe prodávaným albům.
+# orig_file_sentence test007#84
+# text_en = Her 1981 album Wild West was one of her biggest sellers.
+1	Wild	Wild	_	_	N;POS	_	_	_	_
+2	West	West	_	_	N;POS	_	_	_	_
+3	z	z	_	_	ADP;GEN	_	_	_	_
+4	roku	rok	_	_	GEN;SG;MASC;POS;N;INAN	_	_	_	_
+5	1981	1981	_	_	NUM	_	_	_	_
+6	patřilo	patřit	_	_	V.PTCP;ACT;NEUT;SG;POS;PST;V;IPFV	_	_	_	_
+7	k	k	_	_	ADP;DAT	_	_	_	_
+8	jejím	jeho	_	_	PSSS;DAT;PL;DET;3	_	_	_	_
+9	nejlépe	dobře	_	_	RL;ADV;POS	_	_	_	_
+10	prodávaným	prodávaný	_	_	DAT;PL;NEUT;POS;ADJ	_	_	_	_
+11	albům	album	_	_	DAT;PL;NEUT;POS;N	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01009027
+# text = Monzun je vytrvalý sezónní vítr, jenž trvá několik měsíců a přináší regionální období dešťů.
+# orig_file_sentence test004#98
+# text_en = A monsoon is a seasonal prevailing wind which lasts for several months, ushering in a region's rainy season.
+1	Monzun	monzun	_	_	SG;MASC;POS;NOM;N;INAN	_	_	_	_
+2	je	být	_	_	IND;ACT;SG;PRS;POS;V;3;FIN	_	_	_	_
+3	vytrvalý	vytrvalý	_	_	SG;MASC;POS;ADJ;NOM;INAN	_	_	_	_
+4	sezónní	sezónní	_	_	SG;MASC;POS;ADJ;NOM;INAN	_	_	_	_
+5	vítr	vítr	_	_	SG;MASC;POS;NOM;N;INAN	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	jenž	jenž	_	_	PRO;SG;MASC;NOM	_	_	_	_
+8	trvá	trvat	_	_	IND;ACT;SG;PRS;POS;V;IPFV;3;FIN	_	_	_	_
+9	několik	několik	_	_	DET;ACC	_	_	_	_
+10	měsíců	měsíc	_	_	GEN;PL;MASC;POS;N;INAN	_	_	_	_
+11	a	a	_	_	CONJ	_	_	_	_
+12	přináší	přinášet	_	_	IND;ACT;SG;PRS;POS;V;IPFV;3;FIN	_	_	_	_
+13	regionální	regionální	_	_	NEUT;SG;ACC;POS;ADJ	_	_	_	_
+14	období	období	_	_	NEUT;SG;POS;ACC;N	_	_	_	_
+15	dešťů	déšť	_	_	GEN;PL;MASC;POS;N;INAN	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = n05009030
+# text = Desítky přívrženců FSLN již oslavují vítězství na Plaza de las Victorias.
+# orig_file_sentence test009#73
+# text_en = Dozens of FSLN followers are already celebrating the victory in the Plaza de las Victorias.
+1	Desítky	desítka	_	_	PL;FEM;POS;NOM;N	_	_	_	_
+2	přívrženců	přívrženec	_	_	GEN;PL;MASC;ANIM;POS;N	_	_	_	_
+3	FSLN	FSLN	_	_	PROPN;POS	_	_	_	_
+4	již	již	_	_	ADV	_	_	_	_
+5	oslavují	oslavovat	_	_	IND;ACT;PL;PRS;POS;V;IPFV;3;FIN	_	_	_	_
+6	vítězství	vítězství	_	_	NEUT;SG;POS;ACC;N	_	_	_	_
+7	na	na	_	_	ADP;ACC	_	_	_	_
+8	Plaza	Plaza	_	_	N;POS	_	_	_	_
+9	de	de	_	_	ADP;NOM	_	_	_	_
+10	las	las	_	_	N;POS	_	_	_	_
+11	Victorias	Victorias	_	_	N;POS	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01060040
+# text = Dalšího uznání u dvora dosáhl, když byl v létě roku 1075 vyslán jako vyslanec do říše Kitanů Liao.
+# orig_file_sentence test006#26
+# text_en = He gained further reputation at court once he was dispatched as an envoy to the Khitan Liao Dynasty in the summer of 1075.
+1	Dalšího	další	_	_	GEN;NEUT;SG;POS;ADJ	_	_	_	_
+2	uznání	uznání	_	_	GEN;NEUT;SG;POS;N	_	_	_	_
+3	u	u	_	_	ADP;GEN	_	_	_	_
+4	dvora	dvůr	_	_	GEN;SG;MASC;POS;N;INAN	_	_	_	_
+5	dosáhl	dosáhnout	_	_	V.PTCP;ACT;SG;MASC;POS;PST;V	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	když	když	_	_	CONJ	_	_	_	_
+8	byl	být	_	_	V.PTCP;ACT;SG;MASC;POS;PST;V	_	_	_	_
+9	v	v	_	_	ADP;ESS	_	_	_	_
+10	létě	léto	_	_	NEUT;SG;POS;ESS;N	_	_	_	_
+11	roku	rok	_	_	GEN;SG;MASC;POS;N;INAN	_	_	_	_
+12	1075	1075	_	_	NUM	_	_	_	_
+13	vyslán	vyslaný	_	_	V.PTCP;SG;MASC;POS;ADJ;PASS	_	_	_	_
+14	jako	jako	_	_	CONJ	_	_	_	_
+15	vyslanec	vyslanec	_	_	SG;MASC;ANIM;POS;NOM;N	_	_	_	_
+16	do	do	_	_	ADP;GEN	_	_	_	_
+17	říše	říše	_	_	GEN;SG;FEM;POS;N	_	_	_	_
+18	Kitanů	Kitan	_	_	GEN;PL;MASC;ANIM;PROPN;POS	_	_	_	_
+19	Liao	Liao	_	_	PROPN;POS	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01017
+# sent_id = n01017005
+# text = Avšak jeden expert na cestování varoval, že internet za letu byl často nespolehlivý a nebylo pravděpodobné, že by jeho dostupnost ovlivnila, jak si cestující vybírají aerolinky.
+# orig_file_sentence test001#37
+# text_en = But one travel expert warned in-flight internet was often unreliable and was unlikely to influence travellers' airline choices.
+1	Avšak	avšak	_	_	CONJ	_	_	_	_
+2	jeden	jeden	_	_	SG;MASC;NUM;NOM	_	_	_	_
+3	expert	expert	_	_	SG;MASC;ANIM;POS;NOM;N	_	_	_	_
+4	na	na	_	_	ADP;ACC	_	_	_	_
+5	cestování	cestování	_	_	NEUT;SG;POS;ACC;N	_	_	_	_
+6	varoval	varovat	_	_	V.PTCP;ACT;SG;MASC;POS;PST;V;IPFV	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	že	že	_	_	CONJ	_	_	_	_
+9	internet	internet	_	_	SG;MASC;POS;NOM;N;INAN	_	_	_	_
+10	za	za	_	_	ADP;GEN	_	_	_	_
+11	letu	let	_	_	GEN;SG;MASC;POS;N;INAN	_	_	_	_
+12	byl	být	_	_	V.PTCP;ACT;SG;MASC;POS;PST;V	_	_	_	_
+13	často	často	_	_	ADV;POS	_	_	_	_
+14	nespolehlivý	spolehlivý	_	_	SG;NEG;MASC;ADJ;NOM;INAN	_	_	_	_
+15	a	a	_	_	CONJ	_	_	_	_
+16	nebylo	být	_	_	V.PTCP;ACT;NEUT;SG;NEG;PST;V	_	_	_	_
+17	pravděpodobné	pravděpodobný	_	_	NEUT;SG;POS;ADJ;NOM	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	že	že	_	_	CONJ	_	_	_	_
+20	by	být	_	_	V;COND;FIN	_	_	_	_
+21	jeho	jeho	_	_	PSSS;DET;3	_	_	_	_
+22	dostupnost	dostupnost	_	_	SG;FEM;POS;NOM;N	_	_	_	_
+23	ovlivnila	ovlivnit	_	_	V.PTCP;ACT;{PL/SG};PFV;POS;PST;V;{FEM/NEUT}	_	_	_	_
+24	,	,	_	_	_	_	_	_	_
+25	jak	jak	_	_	ADV	_	_	_	_
+26	si	se	_	_	DAT;PRO;REFL	_	_	_	_
+27	cestující	cestující	_	_	PL;FEM;POS;NOM;N	_	_	_	_
+28	vybírají	vybírat	_	_	IND;ACT;PL;PRS;POS;V;IPFV;3;FIN	_	_	_	_
+29	aerolinky	aerolinka	_	_	PL;FEM;POS;ACC;N	_	_	_	_
+30	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01036
+# sent_id = w01036044
+# text = Papua-Nová Guinea je často označována za potenciálně nejhorší místo na světě z hlediska genderového násilí.
+# orig_file_sentence test005#65
+# text_en = Papua New Guinea is often labelled as potentially the worst place in the world for gender violence.
+1	Papua	Papua	_	_	SG;FEM;PROPN;POS;NOM	_	_	_	_
+2	-	-	_	_	_	_	_	_	_
+3	Nová	nový	_	_	FEM;SG;POS;ADJ;NOM	_	_	_	_
+4	Guinea	Guinea	_	_	SG;FEM;PROPN;POS;NOM	_	_	_	_
+5	je	být	_	_	IND;ACT;SG;PRS;POS;V;3;FIN	_	_	_	_
+6	často	často	_	_	ADV;POS	_	_	_	_
+7	označována	označovaný	_	_	V.PTCP;{PL/SG};{FEM/NEUT};POS;ADJ;IPFV;PASS	_	_	_	_
+8	za	za	_	_	ADP;ACC	_	_	_	_
+9	potenciálně	potenciálně	_	_	ADV;POS	_	_	_	_
+10	nejhorší	špatný	_	_	RL;NEUT;SG;ACC;POS;ADJ	_	_	_	_
+11	místo	místo	_	_	NEUT;SG;POS;ACC;N	_	_	_	_
+12	na	na	_	_	ADP;ESS	_	_	_	_
+13	světě	svět	_	_	SG;MASC;POS;ESS;N;INAN	_	_	_	_
+14	z	z	_	_	ADP;GEN	_	_	_	_
+15	hlediska	hledisko	_	_	GEN;NEUT;SG;POS;N	_	_	_	_
+16	genderového	genderový	_	_	GEN;NEUT;SG;POS;ADJ	_	_	_	_
+17	násilí	násilí	_	_	GEN;NEUT;SG;POS;N	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01044
+# sent_id = n01044004
+# text = Gomery, jenž vedl komisi vyšetřující skandál s federálním sponzorováním mezi lety 2004 a 2006, řekl, že taková tělesa jsou nutná, aby veřejnost znovu začala důvěřovat ve výkon spravedlnosti.
+# orig_file_sentence test002#9
+# text_en = Gomery, who led the commission of inquiry into the federal sponsorship scandal between 2004 and 2006, said such bodies are essential to help restore public confidence in the rule of law.
+1	Gomery	Gomera	_	_	PL;FEM;PROPN;POS;NOM	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	jenž	jenž	_	_	PRO;SG;MASC;NOM	_	_	_	_
+4	vedl	vést	_	_	V.PTCP;ACT;SG;MASC;POS;PST;V	_	_	_	_
+5	komisi	komise	_	_	FEM;SG;POS;ACC;N	_	_	_	_
+6	vyšetřující	vyšetřující	_	_	V.PTCP;ACT;SG;FEM;PRS;ACC;POS;ADJ;IPFV	_	_	_	_
+7	skandál	skandál	_	_	SG;MASC;ACC;POS;N;INAN	_	_	_	_
+8	s	s	_	_	ADP;INS	_	_	_	_
+9	federálním	federální	_	_	NEUT;SG;POS;ADJ;INS	_	_	_	_
+10	sponzorováním	sponzorování	_	_	NEUT;SG;POS;N;INS	_	_	_	_
+11	mezi	mezi	_	_	ADP;INS	_	_	_	_
+12	lety	rok	_	_	PL;NEUT;POS;N;INS	_	_	_	_
+13	2004	2004	_	_	NUM	_	_	_	_
+14	a	a	_	_	CONJ	_	_	_	_
+15	2006	2006	_	_	NUM	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	řekl	říci	_	_	V.PTCP;ACT;SG;MASC;POS;PST;V	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	že	že	_	_	CONJ	_	_	_	_
+20	taková	takový	_	_	PL;NEUT;DET;NOM	_	_	_	_
+21	tělesa	těleso	_	_	PL;NEUT;POS;NOM;N	_	_	_	_
+22	jsou	být	_	_	IND;ACT;PL;PRS;POS;V;3;FIN	_	_	_	_
+23	nutná	nutný	_	_	PL;NEUT;POS;ADJ;NOM	_	_	_	_
+24	,	,	_	_	_	_	_	_	_
+25	aby	aby	_	_	CONJ	_	_	_	_
+26	by	být	_	_	V;3;COND;FIN	_	_	_	_
+27	veřejnost	veřejnost	_	_	SG;FEM;POS;NOM;N	_	_	_	_
+28	znovu	znovu	_	_	ADV	_	_	_	_
+29	začala	začít	_	_	V.PTCP;ACT;{PL/SG};POS;PST;V;{FEM/NEUT}	_	_	_	_
+30	důvěřovat	důvěřovat	_	_	POS;IPFV;NFIN;V	_	_	_	_
+31	ve	v	_	_	ADP;ACC	_	_	_	_
+32	výkon	výkon	_	_	SG;MASC;ACC;POS;N;INAN	_	_	_	_
+33	spravedlnosti	spravedlnost	_	_	GEN;SG;FEM;POS;N	_	_	_	_
+34	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01083
+# sent_id = n01083013
+# text = Tvrdí, že americké dělníky, jejichž pracovní místa a životní úroveň by to mohlo ohrozit, tohle dostatečně nechrání.
+# orig_file_sentence test002#100
+# text_en = Her reason is that it provides insufficient protection to American workers whose jobs and living standards it might harm.
+1	Tvrdí	tvrdit	_	_	IND;ACT;SG;PRS;POS;V;IPFV;3;FIN	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	že	že	_	_	CONJ	_	_	_	_
+4	americké	americký	_	_	PL;MASC;ANIM;ACC;POS;ADJ	_	_	_	_
+5	dělníky	dělník	_	_	PL;MASC;ANIM;ACC;POS;N	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	jejichž	jenž	_	_	PSSP;DET;3	_	_	_	_
+8	pracovní	pracovní	_	_	PL;NEUT;ACC;POS;ADJ	_	_	_	_
+9	místa	místo	_	_	PL;NEUT;POS;ACC;N	_	_	_	_
+10	a	a	_	_	CONJ	_	_	_	_
+11	životní	životní	_	_	FEM;SG;ACC;POS;ADJ	_	_	_	_
+12	úroveň	úroveň	_	_	FEM;SG;POS;ACC;N	_	_	_	_
+13	by	být	_	_	V;COND;FIN	_	_	_	_
+14	to	ten	_	_	NEUT;SG;DET;NOM	_	_	_	_
+15	mohlo	moci	_	_	V.PTCP;ACT;NEUT;SG;POS;PST;V	_	_	_	_
+16	ohrozit	ohrozit	_	_	POS;NFIN;PFV;V	_	_	_	_
+17	,	,	_	_	_	_	_	_	_
+18	tohle	tenhle	_	_	NEUT;SG;DET;NOM	_	_	_	_
+19	dostatečně	dostatečně	_	_	ADV;POS	_	_	_	_
+20	nechrání	chránit	_	_	IND;ACT;SG;NEG;PRS;V;IPFV;3;FIN	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01053045
+# text = Podle Nového zákona strávil Pavel v Korintu osmnáct měsíců a bylo to asi sedmnáct let po jeho konverzi.
+# orig_file_sentence test006#13
+# text_en = According to the New Testament, Paul spent eighteen months in Corinth, approximately seventeen years after his conversion.
+1	Podle	podle	_	_	ADP;GEN	_	_	_	_
+2	Nového	nový	_	_	GEN;SG;MASC;POS;ADJ;INAN	_	_	_	_
+3	zákona	zákon	_	_	GEN;SG;MASC;POS;N;INAN	_	_	_	_
+4	strávil	strávit	_	_	V.PTCP;ACT;SG;MASC;PFV;POS;PST;V	_	_	_	_
+5	Pavel	Pavel	_	_	SG;MASC;ANIM;PROPN;POS;NOM	_	_	_	_
+6	v	v	_	_	ADP;ESS	_	_	_	_
+7	Korintu	Korint	_	_	SG;MASC;PROPN;POS;ESS;INAN	_	_	_	_
+8	osmnáct	osmnáct	_	_	SG;NUM;ACC	_	_	_	_
+9	měsíců	měsíc	_	_	GEN;PL;MASC;POS;N;INAN	_	_	_	_
+10	a	a	_	_	CONJ	_	_	_	_
+11	bylo	být	_	_	V.PTCP;ACT;NEUT;SG;POS;PST;V	_	_	_	_
+12	to	ten	_	_	NEUT;SG;DET;NOM	_	_	_	_
+13	asi	asi	_	_	PART	_	_	_	_
+14	sedmnáct	sedmnáct	_	_	SG;NUM;NOM	_	_	_	_
+15	let	rok	_	_	GEN;PL;NEUT;POS;N	_	_	_	_
+16	po	po	_	_	ADP;ESS	_	_	_	_
+17	jeho	jeho	_	_	PSSS;DET;3	_	_	_	_
+18	konverzi	konverze	_	_	SG;FEM;POS;ESS;N	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n04008
+# sent_id = n04008007
+# text = V průběhu zasedání, které se konalo v Římě, to bylo řečeno studentům univerzity LUISS.
+# orig_file_sentence test009#44
+# text_en = Students at LUISS University were told during the course of a meeting which took place in Rome.
+1	V	v	_	_	ADP;ESS	_	_	_	_
+2	průběhu	průběh	_	_	SG;MASC;POS;ESS;N;INAN	_	_	_	_
+3	zasedání	zasedání	_	_	GEN;NEUT;SG;POS;N	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	které	který	_	_	NEUT;SG;DET;NOM	_	_	_	_
+6	se	se	_	_	PRO;REFL;ACC	_	_	_	_
+7	konalo	konat	_	_	V.PTCP;ACT;NEUT;SG;POS;PST;V;IPFV	_	_	_	_
+8	v	v	_	_	ADP;ESS	_	_	_	_
+9	Římě	Řím	_	_	SG;MASC;PROPN;POS;ESS;INAN	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	to	ten	_	_	NEUT;SG;DET;NOM	_	_	_	_
+12	bylo	být	_	_	V.PTCP;ACT;NEUT;SG;POS;PST;V	_	_	_	_
+13	řečeno	řečený	_	_	V.PTCP;SG;NEUT;POS;ADJ;PASS	_	_	_	_
+14	studentům	student	_	_	DAT;PL;MASC;ANIM;POS;N	_	_	_	_
+15	univerzity	univerzita	_	_	GEN;SG;FEM;POS;N	_	_	_	_
+16	LUISS	LUISS	_	_	N;POS	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01065020
+# text = Kanaánské město bylo zničeno požárem, patrně v důsledku vojenského tažení egyptského faraóna Thutmose III.
+# orig_file_sentence test006#35
+# text_en = The Canaanite city was destroyed in a fire, presumably in the wake of a campaign by the Egyptian pharaoh Thutmose III.
+1	Kanaánské	kanaánský	_	_	NEUT;SG;POS;ADJ;NOM	_	_	_	_
+2	město	město	_	_	NEUT;SG;POS;NOM;N	_	_	_	_
+3	bylo	být	_	_	V.PTCP;ACT;NEUT;SG;POS;PST;V	_	_	_	_
+4	zničeno	zničený	_	_	V.PTCP;NEUT;SG;PFV;POS;ADJ;PASS	_	_	_	_
+5	požárem	požár	_	_	SG;MASC;POS;N;INAN;INS	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	patrně	patrně	_	_	ADV;POS	_	_	_	_
+8	v	v	_	_	ADP;ESS	_	_	_	_
+9	důsledku	důsledek	_	_	SG;MASC;POS;ESS;N;INAN	_	_	_	_
+10	vojenského	vojenský	_	_	GEN;NEUT;SG;POS;ADJ	_	_	_	_
+11	tažení	tažení	_	_	GEN;NEUT;SG;POS;N	_	_	_	_
+12	egyptského	egyptský	_	_	GEN;SG;MASC;ANIM;POS;ADJ	_	_	_	_
+13	faraóna	faraón	_	_	GEN;SG;MASC;ANIM;POS;N	_	_	_	_
+14	Thutmose	Thutmose	_	_	GEN;SG;MASC;ANIM;PROPN;POS	_	_	_	_
+15	III	III	_	_	NUM	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01033
+# sent_id = w01033022
+# text = Obsahuje malou lagunu, která už téměř vyschla.
+# orig_file_sentence test005#54
+# text_en = It contains a tiny lagoon, which has all but dried up.
+1	Obsahuje	obsahovat	_	_	IND;ACT;SG;PRS;POS;V;IPFV;3;FIN	_	_	_	_
+2	malou	malý	_	_	FEM;SG;ACC;POS;ADJ	_	_	_	_
+3	lagunu	laguna	_	_	FEM;SG;POS;ACC;N	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	která	který	_	_	SG;FEM;DET;NOM	_	_	_	_
+6	už	už	_	_	ADV	_	_	_	_
+7	téměř	téměř	_	_	ADV	_	_	_	_
+8	vyschla	vyschnout	_	_	V.PTCP;ACT;{PL/SG};PFV;POS;PST;V;{FEM/NEUT}	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01080
+# sent_id = n01080039
+# text = Se svým životem mohu dělat jen tohle.
+# orig_file_sentence test002#96
+# text_en = I can just do that with my life.
+1	Se	s	_	_	ADP;INS	_	_	_	_
+2	svým	svůj	_	_	{MASC/NEUT};SG;DET;REFL;INS	_	_	_	_
+3	životem	život	_	_	SG;MASC;POS;N;INAN;INS	_	_	_	_
+4	mohu	moci	_	_	IND;ACT;SG;PRS;POS;1;V;FIN	_	_	_	_
+5	dělat	dělat	_	_	POS;IPFV;NFIN;V	_	_	_	_
+6	jen	jen	_	_	PART	_	_	_	_
+7	tohle	tenhle	_	_	NEUT;SG;DET;ACC	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01119100
+# text = V příběhu Jasmína zosobňuje též občanská práva, rasovou toleranci, společenskou hierarchii, stejně jako život, svobodu a cestu za štěstím.
+# orig_file_sentence test007#73
+# text_en = Thematically, Jasmine also represents civil rights, racial tolerance, social hierarchy, as well as life, liberty and the pursuit of happiness.
+1	V	v	_	_	ADP;ESS	_	_	_	_
+2	příběhu	příběh	_	_	SG;MASC;POS;ESS;N;INAN	_	_	_	_
+3	Jasmína	Jasmína	_	_	SG;FEM;PROPN;POS;NOM	_	_	_	_
+4	zosobňuje	zosobňovat	_	_	IND;ACT;SG;PRS;POS;V;IPFV;3;FIN	_	_	_	_
+5	též	též	_	_	ADV	_	_	_	_
+6	občanská	občanský	_	_	PL;NEUT;ACC;POS;ADJ	_	_	_	_
+7	práva	právo	_	_	PL;NEUT;POS;ACC;N	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	rasovou	rasový	_	_	FEM;SG;ACC;POS;ADJ	_	_	_	_
+10	toleranci	tolerance	_	_	FEM;SG;POS;ACC;N	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	společenskou	společenský	_	_	FEM;SG;ACC;POS;ADJ	_	_	_	_
+13	hierarchii	hierarchie	_	_	FEM;SG;POS;ACC;N	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	stejně	stejně	_	_	ADV;POS	_	_	_	_
+16	jako	jako	_	_	CONJ	_	_	_	_
+17	život	život	_	_	SG;MASC;ACC;POS;N;INAN	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	svobodu	svoboda	_	_	FEM;SG;POS;ACC;N	_	_	_	_
+20	a	a	_	_	CONJ	_	_	_	_
+21	cestu	cesta	_	_	FEM;SG;POS;ACC;N	_	_	_	_
+22	za	za	_	_	ADP;INS	_	_	_	_
+23	štěstím	štěstí	_	_	NEUT;SG;POS;N;INS	_	_	_	_
+24	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w02004
+# sent_id = w02004008
+# text = Mezi nimi je bývalá křížová chodba z klášterního kostela svatého Petra a Pavla.
+# orig_file_sentence test009#83
+# text_en = Among them is the former cloister from the abbey church of St. Peter and Paul.
+1	Mezi	mezi	_	_	ADP;INS	_	_	_	_
+2	nimi	on	_	_	PL;PRO;3;INS	_	_	_	_
+3	je	být	_	_	IND;ACT;SG;PRS;POS;V;3;FIN	_	_	_	_
+4	bývalá	bývalý	_	_	FEM;SG;POS;ADJ;NOM;INAN	_	_	_	_
+5	křížová	křížová	_	_	FEM;SG;POS;ADJ;NOM;INAN	_	_	_	_
+6	chodba	chodba	_	_	SG;FEM;POS;NOM;N;INAN	_	_	_	_
+7	z	z	_	_	ADP;GEN	_	_	_	_
+8	klášterního	klášterní	_	_	GEN;NEUT;SG;POS;ADJ	_	_	_	_
+9	kostela	kostel	_	_	GEN;SG;MASC;POS;N;INAN	_	_	_	_
+10	svatého	svatý	_	_	GEN;SG;MASC;ANIM;POS;ADJ	_	_	_	_
+11	Petra	Petr	_	_	GEN;SG;MASC;ANIM;PROPN;POS	_	_	_	_
+12	a	a	_	_	CONJ	_	_	_	_
+13	Pavla	Pavel	_	_	GEN;SG;MASC;ANIM;PROPN;POS	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01032
+# sent_id = n01032032
+# text = Je však mnoho hluboce věřících členů parlamentu, kteří se staví proti jakékoliv nové legislativní úpravě.
+# orig_file_sentence test001#78
+# text_en = However there are many MLAs with deeply-held religious beliefs who oppose any new legislation.
+1	Je	být	_	_	IND;ACT;SG;PRS;POS;V;3;FIN	_	_	_	_
+2	však	však	_	_	CONJ	_	_	_	_
+3	mnoho	mnoho	_	_	NOM;DET	_	_	_	_
+4	hluboce	hluboce	_	_	ADV;POS	_	_	_	_
+5	věřících	věřící	_	_	GEN;V.PTCP;ACT;PL;MASC;ANIM;PRS;POS;ADJ;IPFV	_	_	_	_
+6	členů	člen	_	_	GEN;PL;MASC;ANIM;POS;N	_	_	_	_
+7	parlamentu	parlament	_	_	GEN;SG;MASC;POS;N;INAN	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	kteří	který	_	_	PL;MASC;ANIM;DET;NOM	_	_	_	_
+10	se	se	_	_	PRO;REFL;ACC	_	_	_	_
+11	staví	stavit	_	_	IND;ACT;PL;PRS;POS;V;3;FIN	_	_	_	_
+12	proti	proti	_	_	ADP;DAT	_	_	_	_
+13	jakékoliv	jakýkoli	_	_	DAT;SG;FEM;DET	_	_	_	_
+14	nové	nový	_	_	DAT;SG;FEM;POS;ADJ	_	_	_	_
+15	legislativní	legislativní	_	_	DAT;SG;FEM;POS;ADJ	_	_	_	_
+16	úpravě	úprava	_	_	DAT;SG;FEM;POS;N	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01149088
+# text = Wright je přítelem mladého režiséra Gartha Jenningse, pro kterého dělal kameramana ve filmech Stopařův průvodce galaxií a Syn duhy.
+# orig_file_sentence test008#45
+# text_en = Wright is a friend of fellow director Garth Jennings, and made cameos in his films The Hitchhiker's Guide to the Galaxy and Son of Rambow.
+1	Wright	Wright	_	_	SG;MASC;ANIM;PROPN;POS;NOM	_	_	_	_
+2	je	být	_	_	IND;ACT;SG;PRS;POS;V;3;FIN	_	_	_	_
+3	přítelem	přítel	_	_	SG;MASC;ANIM;POS;N;INS	_	_	_	_
+4	mladého	mladý	_	_	GEN;SG;MASC;ANIM;POS;ADJ	_	_	_	_
+5	režiséra	režisér	_	_	GEN;SG;MASC;ANIM;POS;N	_	_	_	_
+6	Gartha	Garth	_	_	GEN;SG;MASC;ANIM;PROPN;POS	_	_	_	_
+7	Jenningse	Jennings	_	_	GEN;SG;MASC;ANIM;PROPN;POS	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	pro	pro	_	_	ADP;ACC	_	_	_	_
+10	kterého	který	_	_	SG;MASC;ANIM;DET;ACC	_	_	_	_
+11	dělal	dělat	_	_	V.PTCP;ACT;SG;MASC;POS;PST;V;IPFV	_	_	_	_
+12	kameramana	kameraman	_	_	SG;MASC;ANIM;ACC;POS;N	_	_	_	_
+13	ve	v	_	_	ADP;ESS	_	_	_	_
+14	filmech	film	_	_	PL;MASC;POS;ESS;N;INAN	_	_	_	_
+15	Stopařův	stopařův	_	_	PSS;SG;MASC;ADJ;NOM;INAN	_	_	_	_
+16	průvodce	průvodce	_	_	SG;MASC;POS;NOM;N;INAN	_	_	_	_
+17	galaxií	galaxie	_	_	FEM;SG;POS;N;INS	_	_	_	_
+18	a	a	_	_	CONJ	_	_	_	_
+19	Syn	syn	_	_	SG;MASC;ANIM;POS;NOM;N	_	_	_	_
+20	duhy	duha	_	_	GEN;SG;FEM;POS;N	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01066
+# sent_id = n01066045
+# text = V roce 2010 nadace vydala vysázenou edici „Zettelova snu“, což dílo zpřístupnilo těm, pro koho představoval překážku pocit provizornosti z ofsetového tisku.
+# orig_file_sentence test002#60
+# text_en = In 2010, the foundation released a typeset edition of “Zettel’s Traum,” removing the bar to entry for those who balked at the draft-like feel of the photo-offset.
+1	V	v	_	_	ADP;ESS	_	_	_	_
+2	roce	rok	_	_	SG;MASC;POS;ESS;N;INAN	_	_	_	_
+3	2010	2010	_	_	NUM	_	_	_	_
+4	nadace	nadace	_	_	SG;FEM;POS;NOM;N	_	_	_	_
+5	vydala	vydat	_	_	V.PTCP;ACT;{PL/SG};PFV;POS;PST;V;{FEM/NEUT}	_	_	_	_
+6	vysázenou	vysázený	_	_	FEM;SG;ACC;POS;ADJ	_	_	_	_
+7	edici	edice	_	_	FEM;SG;POS;ACC;N	_	_	_	_
+8	„	"	_	_	_	_	_	_	_
+9	Zettelova	Zettelův	_	_	PSS;GEN;SG;MASC;ADJ;INAN	_	_	_	_
+10	snu	sen	_	_	GEN;SG;MASC;POS;N;INAN	_	_	_	_
+11	“	"	_	_	_	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	což	což	_	_	NOM;PRO	_	_	_	_
+14	dílo	dílo	_	_	NEUT;SG;POS;ACC;N	_	_	_	_
+15	zpřístupnilo	zpřístupnit	_	_	V.PTCP;ACT;NEUT;SG;PFV;POS;PST;V	_	_	_	_
+16	těm	ten	_	_	DAT;DET;PL	_	_	_	_
+17	,	,	_	_	_	_	_	_	_
+18	pro	pro	_	_	ADP;ACC	_	_	_	_
+19	koho	kdo	_	_	PRO;MASC;ANIM;ACC	_	_	_	_
+20	představoval	představovat	_	_	V.PTCP;ACT;SG;MASC;POS;PST;V;IPFV	_	_	_	_
+21	překážku	překážka	_	_	FEM;SG;POS;ACC;N	_	_	_	_
+22	pocit	pocit	_	_	SG;MASC;POS;NOM;N;INAN	_	_	_	_
+23	provizornosti	provizornost	_	_	GEN;SG;FEM;POS;N	_	_	_	_
+24	z	z	_	_	ADP;GEN	_	_	_	_
+25	ofsetového	ofsetový	_	_	GEN;SG;MASC;POS;ADJ;INAN	_	_	_	_
+26	tisku	tisk	_	_	GEN;SG;MASC;POS;N;INAN	_	_	_	_
+27	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01039
+# sent_id = w01039032
+# text = Tady ukradli malou kánoi, kterou tam zanechali místní australští Aboriginci.
+# orig_file_sentence test005#72
+# text_en = It was here they stole a small canoe left by the Australian Aborigines of the region.
+1	Tady	tady	_	_	ADV	_	_	_	_
+2	ukradli	ukrást	_	_	V.PTCP;ACT;PL;MASC;ANIM;PFV;POS;PST;V	_	_	_	_
+3	malou	malý	_	_	FEM;SG;ACC;POS;ADJ	_	_	_	_
+4	kánoi	kánoe	_	_	FEM;SG;POS;ACC;N	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	kterou	který	_	_	FEM;SG;DET;ACC	_	_	_	_
+7	tam	tam	_	_	ADV	_	_	_	_
+8	zanechali	zanechat	_	_	V.PTCP;ACT;PL;MASC;ANIM;PFV;POS;PST;V	_	_	_	_
+9	místní	místní	_	_	PL;MASC;ANIM;POS;ADJ;NOM	_	_	_	_
+10	australští	australský	_	_	PL;MASC;ANIM;POS;ADJ;NOM	_	_	_	_
+11	Aboriginci	Aboriginec	_	_	PL;MASC;ANIM;PROPN;POS;NOM	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01054
+# sent_id = w01054107
+# text = Pevnosti byly budovány i ve starších částech Nové Francie, které ještě nebyly uspořádány.
+# orig_file_sentence test006#16
+# text_en = Forts were also built in the older portions of New France that had not yet been settled.
+1	Pevnosti	pevnost	_	_	PL;FEM;POS;NOM;N	_	_	_	_
+2	byly	být	_	_	{FEM/MASC};V.PTCP;ACT;PL;POS;PST;V;INAN	_	_	_	_
+3	budovány	budovaný	_	_	{FEM/MASC};V.PTCP;PL;POS;ADJ;IPFV;PASS;INAN	_	_	_	_
+4	i	i	_	_	CONJ	_	_	_	_
+5	ve	v	_	_	ADP;ESS	_	_	_	_
+6	starších	starý	_	_	PL;FEM;POS;ESS;ADJ;CMPR	_	_	_	_
+7	částech	část	_	_	PL;FEM;POS;ESS;N	_	_	_	_
+8	Nové	nový	_	_	GEN;FEM;SG;POS;ADJ	_	_	_	_
+9	Francie	Francie	_	_	GEN;SG;FEM;PROPN;POS	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	které	který	_	_	PL;FEM;DET;NOM	_	_	_	_
+12	ještě	ještě	_	_	ADV	_	_	_	_
+13	nebyly	být	_	_	{FEM/MASC};V.PTCP;ACT;PL;NEG;PST;V;INAN	_	_	_	_
+14	uspořádány	uspořádaný	_	_	{FEM/MASC};V.PTCP;PL;PFV;POS;ADJ;PASS;INAN	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01029
+# sent_id = w01029015
+# text = Co se týká barvy, listy vykazují velkou rozmanitost zelených odstínů od žlutavých až po modravé.
+# orig_file_sentence test005#42
+# text_en = In color, the leaves show a great variety of greens, ranging from yellowish to bluish.
+1	Co	co	_	_	NOM;INAN;PRO	_	_	_	_
+2	se	se	_	_	PRO;REFL;ACC	_	_	_	_
+3	týká	týkat	_	_	IND;ACT;SG;PRS;POS;V;IPFV;3;FIN	_	_	_	_
+4	barvy	barva	_	_	GEN;SG;FEM;POS;N	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	listy	list	_	_	PL;MASC;POS;NOM;N;INAN	_	_	_	_
+7	vykazují	vykazovat	_	_	IND;ACT;PL;PRS;POS;V;IPFV;3;FIN	_	_	_	_
+8	velkou	velký	_	_	FEM;SG;ACC;POS;ADJ	_	_	_	_
+9	rozmanitost	rozmanitost	_	_	FEM;SG;POS;ACC;N	_	_	_	_
+10	zelených	zelený	_	_	GEN;PL;MASC;POS;ADJ;INAN	_	_	_	_
+11	odstínů	odstín	_	_	GEN;PL;MASC;POS;N;INAN	_	_	_	_
+12	od	od	_	_	ADP;GEN	_	_	_	_
+13	žlutavých	žlutavý	_	_	GEN;PL;MASC;POS;ADJ;INAN	_	_	_	_
+14	až	až	_	_	PART	_	_	_	_
+15	po	po	_	_	ADP;ACC	_	_	_	_
+16	modravé	modravý	_	_	PL;MASC;ACC;POS;ADJ;INAN	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01028
+# sent_id = n01028022
+# text = „Naštěstí se ozval někdo ze Sony Australia a řekl, 'Mimochodem, všimli jste si tohohle?'“, říká Pall.
+# orig_file_sentence test001#68
+# text_en = "Luckily, someone in Sony Australia was like, 'Hey, by the way, did you guys notice this?'" says Pall.
+1	„	"	_	_	_	_	_	_	_
+2	Naštěstí	naštěstí	_	_	ADV	_	_	_	_
+3	se	se	_	_	PRO;REFL;ACC	_	_	_	_
+4	ozval	ozvat	_	_	V.PTCP;ACT;SG;MASC;POS;PST;V	_	_	_	_
+5	někdo	někdo	_	_	PRO;MASC;ANIM;NOM	_	_	_	_
+6	ze	z	_	_	ADP;GEN	_	_	_	_
+7	Sony	Sony	_	_	FEM;PROPN;POS	_	_	_	_
+8	Australia	Austrálie	_	_	FEM;PROPN;POS	_	_	_	_
+9	a	a	_	_	CONJ	_	_	_	_
+10	řekl	říci	_	_	V.PTCP;ACT;SG;MASC;POS;PST;V	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	'	'	_	_	_	_	_	_	_
+13	Mimochodem	mimochodem	_	_	ADV	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	všimli	všimnout	_	_	V.PTCP;ACT;PL;MASC;ANIM;PFV;POS;PST;V	_	_	_	_
+16	jste	být	_	_	IND;ACT;PL;2;PRS;POS;V;FIN	_	_	_	_
+17	si	se	_	_	DAT;PRO;REFL	_	_	_	_
+18	tohohle	tenhle	_	_	GEN;{MASC/NEUT};SG;DET	_	_	_	_
+19	?	?	_	_	_	_	_	_	_
+20	'	'	_	_	_	_	_	_	_
+21	“	"	_	_	_	_	_	_	_
+22	,	,	_	_	_	_	_	_	_
+23	říká	říkat	_	_	IND;ACT;SG;PRS;POS;V;IPFV;3;FIN	_	_	_	_
+24	Pall	Pall	_	_	SG;MASC;ANIM;PROPN;POS;NOM	_	_	_	_
+25	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01097104
+# text = Někteří historici jako Chandler a Weller tvrdí, že mohutná síla britské těžké kavalérie byla rozdrcena, když vedla svůj první impozantní útok.
+# orig_file_sentence test007#19
+# text_en = Some historians, such as Chandler and Weller, assert that the British heavy cavalry were destroyed as a viable force following their first, epic charge.
+1	Někteří	některý	_	_	PL;MASC;ANIM;DET;NOM	_	_	_	_
+2	historici	historik	_	_	PL;MASC;ANIM;POS;NOM;N	_	_	_	_
+3	jako	jako	_	_	CONJ	_	_	_	_
+4	Chandler	Chandler	_	_	SG;MASC;ANIM;PROPN;POS;NOM	_	_	_	_
+5	a	a	_	_	CONJ	_	_	_	_
+6	Weller	Weller	_	_	SG;MASC;ANIM;PROPN;POS;NOM	_	_	_	_
+7	tvrdí	tvrdit	_	_	IND;ACT;PL;PRS;POS;V;IPFV;3;FIN	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	že	že	_	_	CONJ	_	_	_	_
+10	mohutná	mohutný	_	_	FEM;SG;POS;ADJ;NOM	_	_	_	_
+11	síla	síla	_	_	SG;FEM;POS;NOM;N	_	_	_	_
+12	britské	britský	_	_	GEN;FEM;SG;POS;ADJ	_	_	_	_
+13	těžké	těžký	_	_	GEN;FEM;SG;POS;ADJ	_	_	_	_
+14	kavalérie	kavalerie	_	_	GEN;SG;FEM;POS;N	_	_	_	_
+15	byla	být	_	_	V.PTCP;ACT;{PL/SG};{FEM/NEUT};POS;PST;V	_	_	_	_
+16	rozdrcena	rozdrcený	_	_	V.PTCP;{PL/SG};PFV;POS;ADJ;{FEM/NEUT};PASS	_	_	_	_
+17	,	,	_	_	_	_	_	_	_
+18	když	když	_	_	CONJ	_	_	_	_
+19	vedla	vést	_	_	V.PTCP;ACT;{PL/SG};POS;PST;V;{FEM/NEUT}	_	_	_	_
+20	svůj	svůj	_	_	SG;MASC;DET;REFL;ACC;INAN	_	_	_	_
+21	první	první	_	_	SG;MASC;ACC;ADJ;INAN	_	_	_	_
+22	impozantní	impozantní	_	_	SG;MASC;ACC;POS;ADJ;INAN	_	_	_	_
+23	útok	útok	_	_	SG;MASC;ACC;POS;N;INAN	_	_	_	_
+24	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01052006
+# text = Mluvil o ní jako o „pozoruhodné“ a „milující a úžasné“ ženě, jejíž povídky v literárním světě zanechaly nesmazatelnou stopu.
+# orig_file_sentence test002#27
+# text_en = He described her as a "remarkable" and "loving and wonderful" woman who left her mark in the literary world with her stories.
+1	Mluvil	mluvit	_	_	V.PTCP;ACT;SG;MASC;POS;PST;V;IPFV	_	_	_	_
+2	o	o	_	_	ADP;ESS	_	_	_	_
+3	ní	on	_	_	PRO;SG;FEM;ESS;3	_	_	_	_
+4	jako	jako	_	_	CONJ	_	_	_	_
+5	o	o	_	_	ADP;ESS	_	_	_	_
+6	„	"	_	_	_	_	_	_	_
+7	pozoruhodné	pozoruhodný	_	_	FEM;SG;POS;ESS;ADJ	_	_	_	_
+8	“	"	_	_	_	_	_	_	_
+9	a	a	_	_	CONJ	_	_	_	_
+10	„	"	_	_	_	_	_	_	_
+11	milující	milující	_	_	V.PTCP;ACT;FEM;SG;PRS;POS;ESS;ADJ;IPFV	_	_	_	_
+12	a	a	_	_	CONJ	_	_	_	_
+13	úžasné	úžasný	_	_	FEM;SG;POS;ESS;ADJ	_	_	_	_
+14	“	"	_	_	_	_	_	_	_
+15	ženě	žena	_	_	SG;FEM;POS;ESS;N	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	jejíž	jenž	_	_	PSSS;SG;FEM;DET;3	_	_	_	_
+18	povídky	povídka	_	_	PL;FEM;POS;NOM;N	_	_	_	_
+19	v	v	_	_	ADP;ESS	_	_	_	_
+20	literárním	literární	_	_	SG;MASC;POS;ESS;ADJ;INAN	_	_	_	_
+21	světě	svět	_	_	SG;MASC;POS;ESS;N;INAN	_	_	_	_
+22	zanechaly	zanechat	_	_	{FEM/MASC};V.PTCP;ACT;PL;PFV;POS;PST;V;INAN	_	_	_	_
+23	nesmazatelnou	smazatelný	_	_	FEM;SG;NEG;ACC;ADJ	_	_	_	_
+24	stopu	stopa	_	_	FEM;SG;POS;ACC;N	_	_	_	_
+25	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01074015
+# text = Jihoafrická republika se blíží okamžiku, ze kterého není návratu, a musíme se vyrovnat jejich chuti po vítězství.
+# orig_file_sentence test002#81
+# text_en = South Africa are almost at the point of no return and we have to be able to match their desire.
+1	Jihoafrická	jihoafrický	_	_	FEM;SG;POS;ADJ;NOM	_	_	_	_
+2	republika	republika	_	_	SG;FEM;POS;NOM;N	_	_	_	_
+3	se	se	_	_	PRO;REFL;ACC	_	_	_	_
+4	blíží	blížit	_	_	IND;ACT;SG;PRS;POS;V;IPFV;3;FIN	_	_	_	_
+5	okamžiku	okamžik	_	_	DAT;SG;MASC;POS;N;INAN	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	ze	z	_	_	ADP;GEN	_	_	_	_
+8	kterého	který	_	_	GEN;{MASC/NEUT};SG;DET	_	_	_	_
+9	není	být	_	_	IND;ACT;SG;NEG;PRS;V;3;FIN	_	_	_	_
+10	návratu	návrat	_	_	GEN;SG;MASC;POS;N;INAN	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	a	a	_	_	CONJ	_	_	_	_
+13	musíme	muset	_	_	IND;ACT;PL;PRS;POS;1;V;FIN	_	_	_	_
+14	se	se	_	_	PRO;REFL;ACC	_	_	_	_
+15	vyrovnat	vyrovnat	_	_	POS;NFIN;PFV;V	_	_	_	_
+16	jejich	jeho	_	_	PSSP;DET;3	_	_	_	_
+17	chuti	chuť	_	_	DAT;SG;FEM;POS;N	_	_	_	_
+18	po	po	_	_	ADP;ESS	_	_	_	_
+19	vítězství	vítězství	_	_	NEUT;SG;POS;ESS;N	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01041018
+# text = „Obvodní doktoři tyto nástroje nemají, mají pouze recepty a injekce,“ řekl Mailis.
+# orig_file_sentence test001#100
+# text_en = "Physicians don't have these tools, they have only a prescription pad and an injection," Mailis said.
+1	„	"	_	_	_	_	_	_	_
+2	Obvodní	obvodní	_	_	PL;MASC;ANIM;POS;ADJ;NOM	_	_	_	_
+3	doktoři	doktor	_	_	PL;MASC;ANIM;POS;NOM;N	_	_	_	_
+4	tyto	tento	_	_	PL;MASC;DET;ACC;INAN	_	_	_	_
+5	nástroje	nástroj	_	_	PL;MASC;ACC;POS;N;INAN	_	_	_	_
+6	nemají	mít	_	_	IND;ACT;PL;NEG;PRS;V;3;FIN	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	mají	mít	_	_	IND;ACT;PL;PRS;POS;V;3;FIN	_	_	_	_
+9	pouze	pouze	_	_	ADV	_	_	_	_
+10	recepty	recept	_	_	PL;MASC;ACC;POS;N;INAN	_	_	_	_
+11	a	a	_	_	CONJ	_	_	_	_
+12	injekce	injekce	_	_	PL;FEM;POS;ACC;N	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	“	"	_	_	_	_	_	_	_
+15	řekl	říci	_	_	V.PTCP;ACT;SG;MASC;POS;PST;V	_	_	_	_
+16	Mailis	Mailis	_	_	SG;MASC;ANIM;PROPN;POS;NOM	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01105023
+# text = Zajímalo by mě, jestli v tom hrál roli Davis Cup.
+# orig_file_sentence test003#55
+# text_en = I also wonder whether the Davis Cup played a part.
+1	Zajímalo	zajímat	_	_	V.PTCP;ACT;NEUT;SG;POS;PST;V;IPFV	_	_	_	_
+2	by	být	_	_	V;COND;FIN	_	_	_	_
+3	mě	já	_	_	PRO;SG;ACC;1	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	jestli	jestli	_	_	CONJ	_	_	_	_
+6	v	v	_	_	ADP;ESS	_	_	_	_
+7	tom	ten	_	_	{MASC/NEUT};SG;DET;ESS	_	_	_	_
+8	hrál	hrát	_	_	V.PTCP;ACT;SG;MASC;POS;PST;V	_	_	_	_
+9	roli	role	_	_	FEM;SG;POS;ACC;N	_	_	_	_
+10	Davis	Davis	_	_	PROPN;POS	_	_	_	_
+11	Cup	Cup	_	_	SG;MASC;PROPN;POS;NOM;INAN	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01116088
+# text = Do roku 2009 byl celkový počet výtisků knihy Moc přítomnosti prodaných v Severní Americe odhadován na 3 miliony a knihy Nová země na 5 milionů.
+# orig_file_sentence test007#66
+# text_en = By 2009, total sales of The Power of Now and A New Earth in North America had been estimated at three million and five million copies respectively.
+1	Do	do	_	_	ADP;GEN	_	_	_	_
+2	roku	rok	_	_	GEN;SG;MASC;POS;N;INAN	_	_	_	_
+3	2009	2009	_	_	NUM	_	_	_	_
+4	byl	být	_	_	V.PTCP;ACT;SG;MASC;POS;PST;V	_	_	_	_
+5	celkový	celkový	_	_	SG;MASC;POS;ADJ;NOM;INAN	_	_	_	_
+6	počet	počet	_	_	SG;MASC;POS;NOM;N;INAN	_	_	_	_
+7	výtisků	výtisk	_	_	GEN;PL;MASC;POS;N;INAN	_	_	_	_
+8	knihy	kniha	_	_	GEN;SG;FEM;POS;N	_	_	_	_
+9	Moc	moc	_	_	SG;FEM;POS;NOM;N	_	_	_	_
+10	přítomnosti	přítomnost	_	_	GEN;SG;FEM;POS;N	_	_	_	_
+11	prodaných	prodaný	_	_	GEN;PL;MASC;POS;ADJ;INAN	_	_	_	_
+12	v	v	_	_	ADP;ESS	_	_	_	_
+13	Severní	severní	_	_	FEM;SG;POS;ESS;ADJ	_	_	_	_
+14	Americe	Amerika	_	_	SG;FEM;PROPN;POS;ESS	_	_	_	_
+15	odhadován	odhadovaný	_	_	V.PTCP;SG;MASC;POS;ADJ;IPFV;PASS	_	_	_	_
+16	na	na	_	_	ADP;ACC	_	_	_	_
+17	3	3	_	_	NUM	_	_	_	_
+18	miliony	milión	_	_	PL;MASC;ACC;POS;N;INAN	_	_	_	_
+19	a	a	_	_	CONJ	_	_	_	_
+20	knihy	kniha	_	_	GEN;SG;FEM;POS;N	_	_	_	_
+21	Nová	nový	_	_	FEM;SG;POS;ADJ;NOM	_	_	_	_
+22	země	země	_	_	SG;FEM;POS;NOM;N	_	_	_	_
+23	na	na	_	_	ADP;ACC	_	_	_	_
+24	5	5	_	_	NUM	_	_	_	_
+25	milionů	milión	_	_	GEN;PL;MASC;POS;N;INAN	_	_	_	_
+26	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01125036
+# text = George byl hluboce zbožný, trávil hodiny v modlitbách, bratři s ním však jeho zbožnost nesdíleli.
+# orig_file_sentence test007#81
+# text_en = George was deeply devout and spent hours in prayer, but his piety was not shared by his brothers.
+1	George	George	_	_	SG;MASC;ANIM;PROPN;POS;NOM	_	_	_	_
+2	byl	být	_	_	V.PTCP;ACT;SG;MASC;POS;PST;V	_	_	_	_
+3	hluboce	hluboce	_	_	ADV;POS	_	_	_	_
+4	zbožný	zbožný	_	_	SG;MASC;ANIM;POS;ADJ;NOM	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	trávil	trávit	_	_	V.PTCP;ACT;SG;MASC;POS;PST;V;IPFV	_	_	_	_
+7	hodiny	hodina	_	_	PL;FEM;POS;ACC;N	_	_	_	_
+8	v	v	_	_	ADP;ESS	_	_	_	_
+9	modlitbách	modlitba	_	_	PL;FEM;POS;ESS;N	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	bratři	bratr	_	_	PL;MASC;ANIM;POS;NOM;N	_	_	_	_
+12	s	s	_	_	ADP;INS	_	_	_	_
+13	ním	on	_	_	{MASC/NEUT};PRO;SG;3;INS	_	_	_	_
+14	však	však	_	_	CONJ	_	_	_	_
+15	jeho	jeho	_	_	PSSS;DET;3	_	_	_	_
+16	zbožnost	zbožnost	_	_	FEM;SG;POS;ACC;N	_	_	_	_
+17	nesdíleli	sdílet	_	_	V.PTCP;ACT;PL;NEG;MASC;ANIM;PST;V;IPFV	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = w03003039
+# text = Při expedici Endurance v roce 1914 se britská loď Endurance pod vedením kapitána Ernesta Shackletona vydala s dvaceti osmi muži na palubě překonat Antarktidu.
+# orig_file_sentence test010#31
+# text_en = In the Endurance expedition in 1914, the British ship Endurance, captained by Sir Ernest Shackleton, set sail with twenty eight men to cross the Antarctic.
+1	Při	při	_	_	ADP;ESS	_	_	_	_
+2	expedici	expedice	_	_	SG;FEM;POS;ESS;N	_	_	_	_
+3	Endurance	Endurance	_	_	SG;MASC;PROPN;POS;INAN	_	_	_	_
+4	v	v	_	_	ADP;ESS	_	_	_	_
+5	roce	rok	_	_	SG;MASC;POS;ESS;N;INAN	_	_	_	_
+6	1914	1914	_	_	NUM	_	_	_	_
+7	se	se	_	_	PRO;REFL;ACC	_	_	_	_
+8	britská	britský	_	_	FEM;SG;POS;ADJ;NOM	_	_	_	_
+9	loď	loď	_	_	SG;FEM;POS;NOM;N	_	_	_	_
+10	Endurance	Endurance	_	_	SG;MASC;PROPN;POS;INAN	_	_	_	_
+11	pod	pod	_	_	ADP;INS	_	_	_	_
+12	vedením	vedení	_	_	FEM;SG;POS;N;INS	_	_	_	_
+13	kapitána	kapitán	_	_	GEN;SG;MASC;ANIM;POS;N	_	_	_	_
+14	Ernesta	Ernest	_	_	GEN;SG;MASC;ANIM;PROPN;POS	_	_	_	_
+15	Shackletona	Shackleton	_	_	GEN;SG;MASC;ANIM;PROPN;POS	_	_	_	_
+16	vydala	vydat	_	_	V.PTCP;ACT;{PL/SG};PFV;POS;PST;V;{FEM/NEUT}	_	_	_	_
+17	s	s	_	_	ADP;INS	_	_	_	_
+18	dvaceti	dvacet	_	_	PL;NUM;INS	_	_	_	_
+19	osmi	osm	_	_	PL;NUM;INS	_	_	_	_
+20	muži	muž	_	_	PL;MASC;ANIM;POS;N;INS	_	_	_	_
+21	na	na	_	_	ADP;ESS	_	_	_	_
+22	palubě	paluba	_	_	SG;FEM;POS;ESS;N	_	_	_	_
+23	překonat	překonat	_	_	POS;NFIN;ACT;V	_	_	_	_
+24	Antarktidu	Antarktida	_	_	FEM;SG;PROPN;POS;ACC	_	_	_	_
+25	.	.	_	_	_	_	_	_	_
+
+# sent_id = w04007049
+# text = Napoleon si byl jistý, že jednoznačný úspěch u Slavkova by mohl vést k obecné mírové smlouvě, ale jeho naděje byly brzy přerušeny: nový britský premiér, lord Grenville odmítl jakoukoliv dohodu, a stejně tak i car Alexandr.
+# orig_file_sentence test010#67
+# text_en = Napoleon was confident that the clear success of Austerlitz could lead to a general peace treaty, but his hopes were soon dashed: the new British Prime Minister Lord Grenville refused any agreement, and so did Tsar Alexander.
+1	Napoleon	Napoleon	_	_	SG;MASC;ANIM;PROPN;POS;NOM	_	_	_	_
+2	si	se	_	_	DAT;PRO;REFL	_	_	_	_
+3	byl	být	_	_	V.PTCP;ACT;SG;MASC;POS;PST;V	_	_	_	_
+4	jistý	jistý	_	_	SG;MASC;ANIM;POS;ADJ;NOM	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	že	že	_	_	CONJ	_	_	_	_
+7	jednoznačný	jednoznačný	_	_	SG;MASC;POS;ADJ;NOM;INAN	_	_	_	_
+8	úspěch	úspěch	_	_	SG;MASC;POS;NOM;N;INAN	_	_	_	_
+9	u	u	_	_	ADP;GEN	_	_	_	_
+10	Slavkova	Slavkov	_	_	GEN;SG;MASC;PROPN;POS;INAN	_	_	_	_
+11	by	být	_	_	V;COND;FIN	_	_	_	_
+12	mohl	moci	_	_	V.PTCP;ACT;SG;MASC;POS;PST;V	_	_	_	_
+13	vést	vést	_	_	POS;NFIN;V	_	_	_	_
+14	k	k	_	_	ADP;DAT	_	_	_	_
+15	obecné	obecný	_	_	DAT;SG;FEM;POS;ADJ	_	_	_	_
+16	mírové	mírový	_	_	DAT;SG;FEM;POS;ADJ	_	_	_	_
+17	smlouvě	smlouva	_	_	DAT;SG;FEM;POS;N	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	ale	ale	_	_	CONJ	_	_	_	_
+20	jeho	jeho	_	_	PSSS;DET;3	_	_	_	_
+21	naděje	naděje	_	_	PL;FEM;POS;NOM;N	_	_	_	_
+22	byly	být	_	_	{FEM/MASC};V.PTCP;ACT;PL;POS;PST;V;INAN	_	_	_	_
+23	brzy	brzy	_	_	ADV;POS	_	_	_	_
+24	přerušeny	přerušený	_	_	{FEM/MASC};V.PTCP;PL;PFV;POS;ADJ;PASS;INAN	_	_	_	_
+25	:	:	_	_	_	_	_	_	_
+26	nový	nový	_	_	SG;MASC;ANIM;POS;ADJ;NOM	_	_	_	_
+27	britský	britský	_	_	SG;MASC;ANIM;POS;ADJ;NOM	_	_	_	_
+28	premiér	premiér	_	_	SG;MASC;ANIM;POS;NOM;N	_	_	_	_
+29	,	,	_	_	_	_	_	_	_
+30	lord	lord	_	_	SG;MASC;ANIM;POS;NOM;N	_	_	_	_
+31	Grenville	Grenville	_	_	SG;MASC;ANIM;PROPN;POS;NOM	_	_	_	_
+32	odmítl	odmítnout	_	_	V.PTCP;ACT;SG;MASC;PFV;POS;PST;V	_	_	_	_
+33	jakoukoliv	jakýkoli	_	_	FEM;SG;DET;ACC	_	_	_	_
+34	dohodu	dohoda	_	_	FEM;SG;POS;ACC;N	_	_	_	_
+35	,	,	_	_	_	_	_	_	_
+36	a	a	_	_	CONJ	_	_	_	_
+37	stejně	stejně	_	_	ADV;POS	_	_	_	_
+38	tak	tak	_	_	ADV	_	_	_	_
+39	i	i	_	_	CONJ	_	_	_	_
+40	car	car	_	_	SG;MASC;ANIM;POS;NOM;N	_	_	_	_
+41	Alexandr	Alexandr	_	_	SG;MASC;ANIM;PROPN;POS;NOM	_	_	_	_
+42	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01017008
+# text = „Ale je možné, že BA a IAG to překonaly a mohou nabízet něco trochu spolehlivého.“
+# orig_file_sentence test001#35
+# text_en = "But it may be that BA and IAG have cracked it and can offer something vaguely reliable."
+1	„	"	_	_	_	_	_	_	_
+2	Ale	ale	_	_	CONJ	_	_	_	_
+3	je	být	_	_	IND;ACT;SG;PRS;POS;V;3;FIN	_	_	_	_
+4	možné	možný	_	_	NEUT;SG;POS;ADJ;NOM	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	že	že	_	_	CONJ	_	_	_	_
+7	BA	BA	_	_	FEM;PROPN;POS	_	_	_	_
+8	a	a	_	_	CONJ	_	_	_	_
+9	IAG	IAG	_	_	POS;PROPN	_	_	_	_
+10	to	ten	_	_	NEUT;SG;DET;ACC	_	_	_	_
+11	překonaly	překonat	_	_	{FEM/MASC};V.PTCP;ACT;PL;PFV;POS;PST;V;INAN	_	_	_	_
+12	a	a	_	_	CONJ	_	_	_	_
+13	mohou	moci	_	_	IND;ACT;PL;PRS;POS;V;3;FIN	_	_	_	_
+14	nabízet	nabízet	_	_	POS;IPFV;NFIN;V	_	_	_	_
+15	něco	něco	_	_	PRO;ACC	_	_	_	_
+16	trochu	trochu	_	_	ADV	_	_	_	_
+17	spolehlivého	spolehlivý	_	_	GEN;NEUT;SG;POS;ADJ	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+19	“	"	_	_	_	_	_	_	_
+
+# newdoc id = w04004
+# sent_id = w04004005
+# text = Vnitřní část regionu je plochá a kopcovitá, bez jasného rozlišování přechodu z jedné oblasti do druhé.
+# orig_file_sentence test010#59
+# text_en = The inner part of the region is flat and hilly, with no clear distinction between one area to the next.
+1	Vnitřní	vnitřní	_	_	FEM;SG;POS;ADJ;NOM	_	_	_	_
+2	část	část	_	_	SG;FEM;POS;NOM;N	_	_	_	_
+3	regionu	region	_	_	GEN;SG;MASC;POS;N;INAN	_	_	_	_
+4	je	být	_	_	IND;ACT;SG;PRS;POS;V;3;FIN	_	_	_	_
+5	plochá	plochý	_	_	FEM;SG;POS;ADJ;NOM	_	_	_	_
+6	a	a	_	_	CONJ	_	_	_	_
+7	kopcovitá	kopcovitý	_	_	FEM;SG;POS;ADJ;NOM	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	bez	bez	_	_	ADP;GEN	_	_	_	_
+10	jasného	jasný	_	_	GEN;NEUT;SG;POS;ADJ	_	_	_	_
+11	rozlišování	rozlišování	_	_	GEN;NEUT;SG;POS;N	_	_	_	_
+12	přechodu	přechod	_	_	GEN;SG;MASC;POS;N;INAN	_	_	_	_
+13	z	z	_	_	ADP;GEN	_	_	_	_
+14	jedné	jeden	_	_	GEN;SG;FEM;NUM	_	_	_	_
+15	oblasti	oblast	_	_	GEN;SG;FEM;POS;N	_	_	_	_
+16	do	do	_	_	ADP;GEN	_	_	_	_
+17	druhé	druhý	_	_	GEN;FEM;SG;ADJ	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01149
+# sent_id = n01149002
+# text = Pchjongjangské metro se nachází 100 m (328 stop) pod zemí a je jedním z nejhlubších transportních systémů na světě.
+# orig_file_sentence test004#71
+# text_en = Buried 100 meters (328 feet) underground, the Pyongyang Metro is one of the deepest commuter systems in the world.
+1	Pchjongjangské	pchjongjangský	_	_	NEUT;SG;POS;ADJ;NOM	_	_	_	_
+2	metro	metro	_	_	NEUT;SG;POS;NOM;N	_	_	_	_
+3	se	se	_	_	PRO;REFL;ACC	_	_	_	_
+4	nachází	nacházet	_	_	IND;ACT;SG;PRS;POS;V;IPFV;3;FIN	_	_	_	_
+5	100	100	_	_	NUM	_	_	_	_
+6	m	metr	_	_	MASC;INAN;POS;N	_	_	_	_
+7	(	(	_	_	_	_	_	_	_
+8	328	328	_	_	NUM	_	_	_	_
+9	stop	stopa	_	_	GEN;PL;FEM;POS;N	_	_	_	_
+10	)	)	_	_	_	_	_	_	_
+11	pod	pod	_	_	ADP;INS	_	_	_	_
+12	zemí	země	_	_	FEM;SG;POS;N;INS	_	_	_	_
+13	a	a	_	_	CONJ	_	_	_	_
+14	je	být	_	_	IND;ACT;SG;PRS;POS;V;3;FIN	_	_	_	_
+15	jedním	jeden	_	_	{MASC/NEUT};SG;NUM;INS	_	_	_	_
+16	z	z	_	_	ADP;GEN	_	_	_	_
+17	nejhlubších	hluboký	_	_	GEN;RL;PL;MASC;POS;ADJ;INAN	_	_	_	_
+18	transportních	transportní	_	_	GEN;PL;MASC;POS;ADJ;INAN	_	_	_	_
+19	systémů	systém	_	_	GEN;PL;MASC;POS;N;INAN	_	_	_	_
+20	na	na	_	_	ADP;ESS	_	_	_	_
+21	světě	svět	_	_	SG;MASC;POS;ESS;N;INAN	_	_	_	_
+22	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01116
+# sent_id = w01116036
+# text = První vydání mělo pouze 3000 výtisků.
+# orig_file_sentence test007#65
+# text_en = Only 3000 copies were published of the first edition.
+1	První	první	_	_	NEUT;SG;ADJ;NOM	_	_	_	_
+2	vydání	vydání	_	_	NEUT;SG;POS;NOM;N	_	_	_	_
+3	mělo	mít	_	_	V.PTCP;ACT;NEUT;SG;POS;PST;V	_	_	_	_
+4	pouze	pouze	_	_	ADV	_	_	_	_
+5	3000	3000	_	_	NUM	_	_	_	_
+6	výtisků	výtisk	_	_	GEN;PL;MASC;POS;N;INAN	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01132081
+# text = Lodě se v prehistorické ikonografii nebo textech z oblasti Mezoameriky neobjevují, namísto toho existuje teorie, že staří Mayové užívali jako hlavní způsob dopravy po vodě kanoe.
+# orig_file_sentence test007#100
+# text_en = Sails are not represented in prehistoric Mesoamerican iconography or texts, instead, it is theorized that canoes were used as a primary mode of water transportation for the ancient Maya.
+1	Lodě	loď	_	_	PL;FEM;POS;NOM;N	_	_	_	_
+2	se	se	_	_	PRO;REFL;ACC	_	_	_	_
+3	v	v	_	_	ADP;ESS	_	_	_	_
+4	prehistorické	prehistorický	_	_	FEM;SG;POS;ESS;ADJ	_	_	_	_
+5	ikonografii	ikonografie	_	_	SG;FEM;POS;ESS;N	_	_	_	_
+6	nebo	nebo	_	_	CONJ	_	_	_	_
+7	textech	text	_	_	PL;MASC;POS;ESS;N;INAN	_	_	_	_
+8	z	z	_	_	ADP;GEN	_	_	_	_
+9	oblasti	oblast	_	_	GEN;SG;FEM;POS;N	_	_	_	_
+10	Mezoameriky	Mezoamerika	_	_	GEN;SG;FEM;PROPN;POS	_	_	_	_
+11	neobjevují	objevovat	_	_	IND;ACT;PL;NEG;PRS;V;IPFV;3;FIN	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	namísto	namísto	_	_	ADP;GEN	_	_	_	_
+14	toho	ten	_	_	GEN;{MASC/NEUT};SG;DET	_	_	_	_
+15	existuje	existovat	_	_	IND;ACT;SG;PRS;POS;V;IPFV;3;FIN	_	_	_	_
+16	teorie	teorie	_	_	SG;FEM;POS;NOM;N	_	_	_	_
+17	,	,	_	_	_	_	_	_	_
+18	že	že	_	_	CONJ	_	_	_	_
+19	staří	starý	_	_	PL;MASC;ANIM;POS;ADJ;NOM	_	_	_	_
+20	Mayové	May	_	_	PL;MASC;ANIM;PROPN;POS;NOM	_	_	_	_
+21	užívali	užívat	_	_	V.PTCP;ACT;PL;MASC;ANIM;POS;PST;V;IPFV	_	_	_	_
+22	jako	jako	_	_	CONJ	_	_	_	_
+23	hlavní	hlavní	_	_	SG;MASC;ACC;POS;ADJ;INAN	_	_	_	_
+24	způsob	způsob	_	_	SG;MASC;ACC;POS;N;INAN	_	_	_	_
+25	dopravy	doprava	_	_	GEN;SG;FEM;POS;N	_	_	_	_
+26	po	po	_	_	ADP;ESS	_	_	_	_
+27	vodě	voda	_	_	SG;FEM;POS;ESS;N	_	_	_	_
+28	kanoe	kánoe	_	_	PL;FEM;POS;ACC;N	_	_	_	_
+29	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01048
+# sent_id = w01048027
+# text = V padesátých letech čtrnáctého století, když se začala hroutit dynastie Jüan, mohl král Kongmin konečně reformovat vládu říše Korjo.
+# orig_file_sentence test005#96
+# text_en = In the 1350s, King Gongmin was free at last to reform the Goryeo government when the Yuan dynasty began to crumble.
+1	V	v	_	_	ADP;ESS	_	_	_	_
+2	padesátých	padesátý	_	_	PL;NEUT;ESS;ADJ	_	_	_	_
+3	letech	rok	_	_	PL;NEUT;POS;ESS;N	_	_	_	_
+4	čtrnáctého	čtrnáctý	_	_	GEN;NEUT;SG;ADJ	_	_	_	_
+5	století	století	_	_	GEN;NEUT;SG;POS;N	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	když	když	_	_	CONJ	_	_	_	_
+8	se	se	_	_	PRO;REFL;ACC	_	_	_	_
+9	začala	začít	_	_	V.PTCP;ACT;{PL/SG};POS;PST;V;{FEM/NEUT}	_	_	_	_
+10	hroutit	hroutit	_	_	POS;IPFV;NFIN;V	_	_	_	_
+11	dynastie	dynastie	_	_	SG;FEM;POS;NOM;N	_	_	_	_
+12	Jüan	Jüan	_	_	POS;PROPN	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	mohl	moci	_	_	V.PTCP;ACT;SG;MASC;POS;PST;V	_	_	_	_
+15	král	král	_	_	SG;MASC;ANIM;POS;NOM;N	_	_	_	_
+16	Kongmin	Kongmin	_	_	SG;MASC;ANIM;PROPN;POS;NOM	_	_	_	_
+17	konečně	konečně	_	_	ADV;POS	_	_	_	_
+18	reformovat	reformovat	_	_	POS;IPFV;NFIN;V	_	_	_	_
+19	vládu	vláda	_	_	FEM;SG;POS;ACC;N	_	_	_	_
+20	říše	říše	_	_	GEN;SG;FEM;POS;N	_	_	_	_
+21	Korjo	Korjo	_	_	POS;PROPN	_	_	_	_
+22	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01134062
+# text = V roce 1955 začal Mišima s posilováním a svůj tréninkový režim sestávající ze tří tréninků týdně nepřerušil posledních 15 let svého života.
+# orig_file_sentence test008#4
+# text_en = In 1955, Mishima took up weight training and his workout regimen of three sessions per week was not disrupted for the final 15 years of his life.
+1	V	v	_	_	ADP;ESS	_	_	_	_
+2	roce	rok	_	_	SG;MASC;POS;ESS;N;INAN	_	_	_	_
+3	1955	1955	_	_	NUM	_	_	_	_
+4	začal	začít	_	_	V.PTCP;ACT;SG;MASC;POS;PST;V	_	_	_	_
+5	Mišima	Mišima	_	_	SG;MASC;ANIM;PROPN;POS;NOM	_	_	_	_
+6	s	s	_	_	ADP;INS	_	_	_	_
+7	posilováním	posilování	_	_	NEUT;SG;POS;N;INS	_	_	_	_
+8	a	a	_	_	CONJ	_	_	_	_
+9	svůj	svůj	_	_	SG;MASC;DET;REFL;ACC;INAN	_	_	_	_
+10	tréninkový	tréninkový	_	_	SG;MASC;ACC;POS;ADJ;INAN	_	_	_	_
+11	režim	režim	_	_	SG;MASC;ACC;POS;N;INAN	_	_	_	_
+12	sestávající	sestávající	_	_	V.PTCP;ACT;SG;MASC;PRS;ACC;POS;ADJ;IPFV;INAN	_	_	_	_
+13	ze	z	_	_	ADP;GEN	_	_	_	_
+14	tří	tři	_	_	GEN;PL;NUM	_	_	_	_
+15	tréninků	trénink	_	_	GEN;PL;MASC;POS;N;INAN	_	_	_	_
+16	týdně	týdně	_	_	ADV	_	_	_	_
+17	nepřerušil	přerušit	_	_	V.PTCP;ACT;SG;NEG;MASC;PFV;PST;V	_	_	_	_
+18	posledních	poslední	_	_	GEN;PL;NEUT;POS;ADJ	_	_	_	_
+19	15	15	_	_	NUM	_	_	_	_
+20	let	rok	_	_	GEN;PL;NEUT;POS;N	_	_	_	_
+21	svého	svůj	_	_	GEN;{MASC/NEUT};SG;DET;REFL	_	_	_	_
+22	života	život	_	_	GEN;SG;MASC;POS;N;INAN	_	_	_	_
+23	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01118017
+# text = „Filmařina se natolik změnila, že Hollywood se rodinám jako divákům odcizil.“
+# orig_file_sentence test003#92
+# text_en = "Cinema had changed so drastically that Hollywood had alienated the family audience."
+1	„	"	_	_	_	_	_	_	_
+2	Filmařina	filmařina	_	_	SG;FEM;POS;NOM;N	_	_	_	_
+3	se	se	_	_	PRO;REFL;ACC	_	_	_	_
+4	natolik	natolik	_	_	ADV	_	_	_	_
+5	změnila	změnit	_	_	V.PTCP;ACT;{PL/SG};PFV;POS;PST;V;{FEM/NEUT}	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	že	že	_	_	CONJ	_	_	_	_
+8	Hollywood	Hollywood	_	_	SG;MASC;PROPN;POS;NOM;INAN	_	_	_	_
+9	se	se	_	_	PRO;REFL;ACC	_	_	_	_
+10	rodinám	rodina	_	_	DAT;PL;FEM;POS;N	_	_	_	_
+11	jako	jako	_	_	CONJ	_	_	_	_
+12	divákům	divák	_	_	DAT;PL;MASC;ANIM;POS;N	_	_	_	_
+13	odcizil	odcizit	_	_	V.PTCP;ACT;SG;MASC;PFV;POS;PST;V	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+15	“	"	_	_	_	_	_	_	_
+
+# sent_id = w01084102
+# text = Kontakt se Západem během 16. století, kdy byly vybudovány výnosné obchodní stezky, vedl k období velkého ekonomického rozkvětu.
+# orig_file_sentence test006#90
+# text_en = This contact with the West during the 16th century lead to a period of profound economic growth as lucrative trade routes were established.
+1	Kontakt	kontakt	_	_	SG;MASC;POS;NOM;N;INAN	_	_	_	_
+2	se	s	_	_	ADP;INS	_	_	_	_
+3	Západem	západ	_	_	SG;MASC;POS;N;INAN;INS	_	_	_	_
+4	během	během	_	_	ADP;GEN	_	_	_	_
+5	16	16	_	_	NUM	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+7	století	století	_	_	GEN;NEUT;SG;POS;N	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	kdy	kdy	_	_	ADV	_	_	_	_
+10	byly	být	_	_	{FEM/MASC};V.PTCP;ACT;PL;POS;PST;V;INAN	_	_	_	_
+11	vybudovány	vybudovaný	_	_	{FEM/MASC};V.PTCP;PL;PFV;POS;ADJ;PASS;INAN	_	_	_	_
+12	výnosné	výnosný	_	_	PL;FEM;POS;ADJ;NOM	_	_	_	_
+13	obchodní	obchodní	_	_	PL;FEM;POS;ADJ;NOM	_	_	_	_
+14	stezky	stezka	_	_	PL;FEM;POS;NOM;N	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	vedl	vést	_	_	V.PTCP;ACT;SG;MASC;POS;PST;V	_	_	_	_
+17	k	k	_	_	ADP;DAT	_	_	_	_
+18	období	období	_	_	DAT;NEUT;SG;POS;N	_	_	_	_
+19	velkého	velký	_	_	GEN;SG;MASC;POS;ADJ;INAN	_	_	_	_
+20	ekonomického	ekonomický	_	_	GEN;SG;MASC;POS;ADJ;INAN	_	_	_	_
+21	rozkvětu	rozkvět	_	_	GEN;SG;MASC;POS;N;INAN	_	_	_	_
+22	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01142008
+# text = „Musím pogratulovat Andymu – stát se světovou jedničkou je neuvěřitelný úspěch,“ řekl Američan.
+# orig_file_sentence test004#51
+# text_en = "I have to congratulate Andy -- to get to No. 1 in the world that's an incredible achievement," the American said.
+1	„	"	_	_	_	_	_	_	_
+2	Musím	muset	_	_	IND;ACT;SG;PRS;POS;1;V;FIN	_	_	_	_
+3	pogratulovat	pogratulovat	_	_	POS;NFIN;PFV;V	_	_	_	_
+4	Andymu	Andy	_	_	DAT;SG;MASC;ANIM;PROPN;POS	_	_	_	_
+5	–	–	_	_	_	_	_	_	_
+6	stát	stát	_	_	POS;NFIN;V	_	_	_	_
+7	se	se	_	_	PRO;REFL;ACC	_	_	_	_
+8	světovou	světový	_	_	FEM;SG;POS;ADJ;INS	_	_	_	_
+9	jedničkou	jednička	_	_	FEM;SG;POS;N;INS	_	_	_	_
+10	je	být	_	_	IND;ACT;SG;PRS;POS;V;3;FIN	_	_	_	_
+11	neuvěřitelný	uvěřitelný	_	_	SG;NEG;MASC;ADJ;NOM;INAN	_	_	_	_
+12	úspěch	úspěch	_	_	SG;MASC;POS;NOM;N;INAN	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	“	"	_	_	_	_	_	_	_
+15	řekl	říci	_	_	V.PTCP;ACT;SG;MASC;POS;PST;V	_	_	_	_
+16	Američan	Američan	_	_	SG;MASC;ANIM;PROPN;POS;NOM	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01115013
+# text = Minulý rok byl neuvěřitelný a těším se na to, že v roce 2017 bude další ještě lepší ročník.
+# orig_file_sentence test003#83
+# text_en = Last year was an incredible year and I’m ready for us to come back even better in 2017.
+1	Minulý	minulý	_	_	SG;MASC;POS;ADJ;NOM;INAN	_	_	_	_
+2	rok	rok	_	_	SG;MASC;POS;NOM;N;INAN	_	_	_	_
+3	byl	být	_	_	V.PTCP;ACT;SG;MASC;POS;PST;V	_	_	_	_
+4	neuvěřitelný	uvěřitelný	_	_	SG;NEG;MASC;ADJ;NOM;INAN	_	_	_	_
+5	a	a	_	_	CONJ	_	_	_	_
+6	těším	těšit	_	_	IND;ACT;SG;PRS;POS;1;V;IPFV;FIN	_	_	_	_
+7	se	se	_	_	PRO;REFL;ACC	_	_	_	_
+8	na	na	_	_	ADP;ACC	_	_	_	_
+9	to	ten	_	_	NEUT;SG;DET;ACC	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	že	že	_	_	CONJ	_	_	_	_
+12	v	v	_	_	ADP;ESS	_	_	_	_
+13	roce	rok	_	_	SG;MASC;POS;ESS;N;INAN	_	_	_	_
+14	2017	2017	_	_	NUM	_	_	_	_
+15	bude	být	_	_	IND;ACT;SG;FUT;POS;V;3;FIN	_	_	_	_
+16	další	další	_	_	SG;MASC;POS;ADJ;NOM;INAN	_	_	_	_
+17	ještě	ještě	_	_	ADV	_	_	_	_
+18	lepší	dobrý	_	_	SG;MASC;POS;ADJ;NOM;INAN;CMPR	_	_	_	_
+19	ročník	ročník	_	_	SG;MASC;POS;NOM;N;INAN	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01004017
+# text = Ve čtvrté třídě dosahují národního průměru, a v osmé jsou nad ním.
+# orig_file_sentence test001#11
+# text_en = They are at the national average in grade 4 and better than national average in grade 8.
+1	Ve	v	_	_	ADP;ESS	_	_	_	_
+2	čtvrté	čtvrtý	_	_	FEM;SG;ESS;ADJ	_	_	_	_
+3	třídě	třída	_	_	SG;FEM;POS;ESS;N	_	_	_	_
+4	dosahují	dosahovat	_	_	IND;ACT;PL;PRS;POS;V;IPFV;3;FIN	_	_	_	_
+5	národního	národní	_	_	GEN;SG;MASC;POS;ADJ;INAN	_	_	_	_
+6	průměru	průměr	_	_	GEN;SG;MASC;POS;N;INAN	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	a	a	_	_	CONJ	_	_	_	_
+9	v	v	_	_	ADP;ESS	_	_	_	_
+10	osmé	osmý	_	_	FEM;SG;ESS;ADJ	_	_	_	_
+11	jsou	být	_	_	IND;ACT;PL;PRS;POS;V;3;FIN	_	_	_	_
+12	nad	nad	_	_	ADP;INS	_	_	_	_
+13	ním	on	_	_	{MASC/NEUT};PRO;SG;3;INS	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = w02013093
+# text = Po ruské revoluci v roce 1917 získaly některé země, například Finsko, Polsko a Pobaltí, svou nezávislost.
+# orig_file_sentence test010#10
+# text_en = After the Russian Revolution in 1917, some countries, such as Finland, Poland and the Baltic States, won their independence.
+1	Po	po	_	_	ADP;ESS	_	_	_	_
+2	ruské	ruský	_	_	FEM;SG;POS;ESS;ADJ	_	_	_	_
+3	revoluci	revoluce	_	_	SG;FEM;POS;ESS;N	_	_	_	_
+4	v	v	_	_	ADP;ESS	_	_	_	_
+5	roce	rok	_	_	SG;MASC;POS;ESS;N;INAN	_	_	_	_
+6	1917	1917	_	_	NUM	_	_	_	_
+7	získaly	získat	_	_	{FEM/MASC};V.PTCP;ACT;PL;POS;PST;V;INAN	_	_	_	_
+8	některé	některý	_	_	PL;FEM;DET;NOM	_	_	_	_
+9	země	země	_	_	PL;FEM;POS;NOM;N	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	například	například	_	_	ADV	_	_	_	_
+12	Finsko	Finsko	_	_	NEUT;SG;PROPN;POS;NOM	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	Polsko	Polsko	_	_	NEUT;SG;PROPN;POS;NOM	_	_	_	_
+15	a	a	_	_	CONJ	_	_	_	_
+16	Pobaltí	Pobaltí	_	_	NEUT;SG;PROPN;POS;NOM	_	_	_	_
+17	,	,	_	_	_	_	_	_	_
+18	svou	svůj	_	_	FEM;SG;DET;REFL;ACC	_	_	_	_
+19	nezávislost	závislost	_	_	FEM;NEG;SG;ACC;N	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01003
+# sent_id = w01003051
+# text = Dobrými příklady jsou Liniové ostrovy v Tichém oceánu a Maledivy v Indickém oceánu.
+# orig_file_sentence test004#80
+# text_en = Examples are the Line Islands in the Pacific and the Maldives in the Indian Ocean.
+1	Dobrými	dobrý	_	_	PL;MASC;POS;ADJ;INAN;INS	_	_	_	_
+2	příklady	příklad	_	_	PL;MASC;POS;N;INAN;INS	_	_	_	_
+3	jsou	být	_	_	IND;ACT;PL;PRS;POS;V;3;FIN	_	_	_	_
+4	Liniové	liniový	_	_	PL;MASC;POS;ADJ;NOM;INAN	_	_	_	_
+5	ostrovy	ostrov	_	_	PL;MASC;POS;NOM;N;INAN	_	_	_	_
+6	v	v	_	_	ADP;ESS	_	_	_	_
+7	Tichém	tichý	_	_	SG;MASC;POS;ESS;ADJ;INAN	_	_	_	_
+8	oceánu	oceán	_	_	SG;MASC;POS;ESS;N;INAN	_	_	_	_
+9	a	a	_	_	CONJ	_	_	_	_
+10	Maledivy	Maledivy	_	_	PL;FEM;PROPN;POS;NOM	_	_	_	_
+11	v	v	_	_	ADP;ESS	_	_	_	_
+12	Indickém	indický	_	_	SG;MASC;POS;ESS;ADJ;INAN	_	_	_	_
+13	oceánu	oceán	_	_	SG;MASC;POS;ESS;N;INAN	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = w02013076
+# text = Po převzetí moci národními socialisty v roce 1933 existovaly roztroušené snahy získat zpět staré kolonie.
+# orig_file_sentence test010#9
+# text_en = After the seizure of power by the National Socialists in 1933 there were dispersed attempts to win back the old colonies.
+1	Po	po	_	_	ADP;ESS	_	_	_	_
+2	převzetí	převzetí	_	_	NEUT;SG;POS;ESS;N	_	_	_	_
+3	moci	moc	_	_	GEN;SG;FEM;POS;N	_	_	_	_
+4	národními	národní	_	_	PL;MASC;ANIM;POS;ADJ;INS	_	_	_	_
+5	socialisty	socialista	_	_	PL;MASC;ANIM;POS;N;INS	_	_	_	_
+6	v	v	_	_	ADP;ESS	_	_	_	_
+7	roce	rok	_	_	SG;MASC;POS;ESS;N;INAN	_	_	_	_
+8	1933	1933	_	_	NUM	_	_	_	_
+9	existovaly	existovat	_	_	{FEM/MASC};V.PTCP;ACT;PL;POS;PST;V;IPFV;INAN	_	_	_	_
+10	roztroušené	roztroušený	_	_	PL;FEM;POS;ADJ;NOM	_	_	_	_
+11	snahy	snaha	_	_	PL;FEM;POS;NOM;N	_	_	_	_
+12	získat	získat	_	_	POS;NFIN;PFV;V	_	_	_	_
+13	zpět	zpět	_	_	ADV	_	_	_	_
+14	staré	starý	_	_	PL;FEM;ACC;POS;ADJ	_	_	_	_
+15	kolonie	kolonie	_	_	PL;FEM;POS;ACC;N	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01001013
+# text = Pro ty, kteří sledují předávání účtů na sociálních sítích na Capitol Hill, to bude trochu jiné.
+# orig_file_sentence test001#2
+# text_en = For those who follow social media transitions on Capitol Hill, this will be a little different.
+1	Pro	pro	_	_	ADP;ACC	_	_	_	_
+2	ty	ten	_	_	PL;MASC;ANIM;DET;ACC	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	kteří	který	_	_	PL;MASC;ANIM;DET;NOM	_	_	_	_
+5	sledují	sledovat	_	_	IND;ACT;PL;PRS;POS;V;IPFV;3;FIN	_	_	_	_
+6	předávání	předávání	_	_	NEUT;SG;POS;ACC;N	_	_	_	_
+7	účtů	účet	_	_	GEN;PL;MASC;POS;N;INAN	_	_	_	_
+8	na	na	_	_	ADP;ESS	_	_	_	_
+9	sociálních	sociální	_	_	PL;FEM;POS;ESS;ADJ	_	_	_	_
+10	sítích	síť	_	_	PL;FEM;POS;ESS;N	_	_	_	_
+11	na	na	_	_	ADP;ACC	_	_	_	_
+12	Capitol	Kapitol	_	_	SG;MASC;PROPN;ACC;POS;INAN	_	_	_	_
+13	Hill	Hill	_	_	SG;MASC;PROPN;ACC;POS;INAN	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	to	ten	_	_	NEUT;SG;DET;NOM	_	_	_	_
+16	bude	být	_	_	IND;ACT;SG;FUT;POS;V;3;FIN	_	_	_	_
+17	trochu	trochu	_	_	ADV	_	_	_	_
+18	jiné	jiný	_	_	NEUT;SG;POS;ADJ;NOM	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# sent_id = w01073054
+# text = Editor Stephen Wheeler nedopřál Kiplingovi oddechu, ale Kiplingova potřeba psát byla neúnavná.
+# orig_file_sentence test006#64
+# text_en = Stephen Wheeler, the editor, worked Kipling hard, but Kipling's need to write was unstoppable.
+1	Editor	editor	_	_	SG;MASC;ANIM;POS;NOM;N	_	_	_	_
+2	Stephen	Stephen	_	_	SG;MASC;ANIM;PROPN;POS;NOM	_	_	_	_
+3	Wheeler	Wheeler	_	_	SG;MASC;ANIM;PROPN;POS;NOM	_	_	_	_
+4	nedopřál	dopřát	_	_	V.PTCP;ACT;SG;NEG;MASC;PST;V	_	_	_	_
+5	Kiplingovi	Kipling	_	_	DAT;SG;MASC;ANIM;PROPN;POS	_	_	_	_
+6	oddechu	oddech	_	_	GEN;SG;MASC;POS;N;INAN	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	ale	ale	_	_	CONJ	_	_	_	_
+9	Kiplingova	Kiplingův	_	_	PSS;FEM;SG;ADJ;NOM	_	_	_	_
+10	potřeba	potřeba	_	_	SG;FEM;POS;NOM;N	_	_	_	_
+11	psát	psát	_	_	POS;NFIN;V	_	_	_	_
+12	byla	být	_	_	V.PTCP;ACT;{PL/SG};{FEM/NEUT};POS;PST;V	_	_	_	_
+13	neúnavná	únavný	_	_	FEM;SG;NEG;ADJ;NOM	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n02081
+# sent_id = n02081019
+# text = Proto protivné příznaky zcela nezmizí: Podle informací ze zpráv agentury DPA budou aktivovány například pouze v případě, že umělec nebo hudební vydavatelství nejsou členem svazu GEMA a nemají smlouvu s YouTube.
+# orig_file_sentence test008#78
+# text_en = Therefore the irksome signs will not completely disappear: According to information from the news agency dpa, they will only be activated if, for instance, the artist or record label is not a member of GEMA and does not have an agreement with YouTube.
+1	Proto	proto	_	_	CONJ	_	_	_	_
+2	protivné	protivný	_	_	PL;MASC;POS;ADJ;NOM;INAN	_	_	_	_
+3	příznaky	příznak	_	_	PL;MASC;POS;NOM;N;INAN	_	_	_	_
+4	zcela	zcela	_	_	ADV	_	_	_	_
+5	nezmizí	zmizet	_	_	IND;ACT;PL;NEG;PRS;V;3;FIN	_	_	_	_
+6	:	:	_	_	_	_	_	_	_
+7	Podle	podle	_	_	ADP;GEN	_	_	_	_
+8	informací	informace	_	_	GEN;PL;FEM;POS;N	_	_	_	_
+9	ze	z	_	_	ADP;GEN	_	_	_	_
+10	zpráv	zpráva	_	_	GEN;PL;FEM;POS;N	_	_	_	_
+11	agentury	agentura	_	_	GEN;SG;FEM;POS;N	_	_	_	_
+12	DPA	DPA	_	_	FEM;PROPN;POS	_	_	_	_
+13	budou	být	_	_	IND;ACT;PL;FUT;POS;V;3;FIN	_	_	_	_
+14	aktivovány	aktivovaný	_	_	{FEM/MASC};V.PTCP;PL;POS;ADJ;IPFV;PASS;INAN	_	_	_	_
+15	například	například	_	_	ADV	_	_	_	_
+16	pouze	pouze	_	_	ADV	_	_	_	_
+17	v	v	_	_	ADP;ESS	_	_	_	_
+18	případě	případ	_	_	SG;MASC;POS;ESS;N;INAN	_	_	_	_
+19	,	,	_	_	_	_	_	_	_
+20	že	že	_	_	CONJ	_	_	_	_
+21	umělec	umělec	_	_	SG;MASC;ANIM;POS;NOM;N	_	_	_	_
+22	nebo	nebo	_	_	CONJ	_	_	_	_
+23	hudební	hudební	_	_	NEUT;SG;POS;ADJ;NOM	_	_	_	_
+24	vydavatelství	vydavatelství	_	_	NEUT;SG;POS;NOM;N	_	_	_	_
+25	nejsou	být	_	_	IND;ACT;PL;NEG;PRS;V;3;FIN	_	_	_	_
+26	členem	člen	_	_	SG;MASC;ANIM;POS;N;INS	_	_	_	_
+27	svazu	svaz	_	_	GEN;SG;MASC;POS;N;INAN	_	_	_	_
+28	GEMA	GEMA	_	_	N;POS	_	_	_	_
+29	a	a	_	_	CONJ	_	_	_	_
+30	nemají	mít	_	_	IND;ACT;PL;NEG;PRS;V;3;FIN	_	_	_	_
+31	smlouvu	smlouva	_	_	FEM;SG;POS;ACC;N	_	_	_	_
+32	s	s	_	_	ADP;INS	_	_	_	_
+33	YouTube	youtube	_	_	PROPN;POS	_	_	_	_
+34	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01035025
+# text = „Nejsme toho názoru, že podezřelý má vazby k této škole, k těmto dvěma dívkám nebo specificky k oblasti Abbotsfordu,“ řekla.
+# orig_file_sentence test001#88
+# text_en = "We do not believe the suspect has ties to this school, or to the two girls, or specifically to the Abbotsford area," she said.
+1	„	"	_	_	_	_	_	_	_
+2	Nejsme	být	_	_	IND;ACT;PL;NEG;PRS;1;V;FIN	_	_	_	_
+3	toho	ten	_	_	GEN;{MASC/NEUT};SG;DET	_	_	_	_
+4	názoru	názor	_	_	GEN;SG;MASC;POS;N;INAN	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	že	že	_	_	CONJ	_	_	_	_
+7	podezřelý	podezřelý	_	_	SG;MASC;ANIM;POS;ADJ;NOM	_	_	_	_
+8	má	mít	_	_	IND;ACT;SG;PRS;POS;V;3;FIN	_	_	_	_
+9	vazby	vazba	_	_	PL;FEM;POS;ACC;N	_	_	_	_
+10	k	k	_	_	ADP;DAT	_	_	_	_
+11	této	tento	_	_	DAT;SG;FEM;DET	_	_	_	_
+12	škole	škola	_	_	DAT;SG;FEM;POS;N	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	k	k	_	_	ADP;DAT	_	_	_	_
+15	těmto	tento	_	_	DAT;DET;PL	_	_	_	_
+16	dvěma	dva	_	_	DAT;PL;NUM	_	_	_	_
+17	dívkám	dívka	_	_	DAT;PL;FEM;POS;N	_	_	_	_
+18	nebo	nebo	_	_	CONJ	_	_	_	_
+19	specificky	specificky	_	_	ADV;POS	_	_	_	_
+20	k	k	_	_	ADP;DAT	_	_	_	_
+21	oblasti	oblast	_	_	DAT;SG;FEM;POS;N	_	_	_	_
+22	Abbotsfordu	Abbotsford	_	_	GEN;SG;MASC;PROPN;POS;INAN	_	_	_	_
+23	,	,	_	_	_	_	_	_	_
+24	“	"	_	_	_	_	_	_	_
+25	řekla	říci	_	_	V.PTCP;ACT;{PL/SG};POS;PST;V;{FEM/NEUT}	_	_	_	_
+26	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01039039
+# text = Trumpova manželka, Melanie Trumpová, se poprvé od republikánského sjezdu ukázala v kampani.
+# orig_file_sentence test001#98
+# text_en = Trump's wife, Melania Trump, made her first appearance on the trail since the Republican convention in July.
+1	Trumpova	Trumpův	_	_	PSS;FEM;SG;ADJ;NOM	_	_	_	_
+2	manželka	manželka	_	_	SG;FEM;POS;NOM;N	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	Melanie	Melanie	_	_	SG;FEM;PROPN;POS;NOM	_	_	_	_
+5	Trumpová	Trumpová	_	_	SG;FEM;PROPN;POS;NOM	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	se	se	_	_	PRO;REFL;ACC	_	_	_	_
+8	poprvé	poprvé	_	_	ADV	_	_	_	_
+9	od	od	_	_	ADP;GEN	_	_	_	_
+10	republikánského	republikánský	_	_	GEN;SG;MASC;POS;ADJ;INAN	_	_	_	_
+11	sjezdu	sjezd	_	_	GEN;SG;MASC;POS;N;INAN	_	_	_	_
+12	ukázala	ukázat	_	_	V.PTCP;ACT;{PL/SG};POS;PST;V;{FEM/NEUT}	_	_	_	_
+13	v	v	_	_	ADP;ESS	_	_	_	_
+14	kampani	kampaň	_	_	SG;FEM;POS;ESS;N	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01109022
+# text = Je to drahý standard nebo zálohový tarif?
+# orig_file_sentence test003#68
+# text_en = Or is it an expensive standard or prepayment tariff?
+1	Je	být	_	_	IND;ACT;SG;PRS;POS;V;3;FIN	_	_	_	_
+2	to	ten	_	_	NEUT;SG;DET;NOM	_	_	_	_
+3	drahý	drahý	_	_	SG;MASC;POS;ADJ;NOM;INAN	_	_	_	_
+4	standard	standard	_	_	SG;MASC;POS;NOM;N;INAN	_	_	_	_
+5	nebo	nebo	_	_	CONJ	_	_	_	_
+6	zálohový	zálohový	_	_	SG;MASC;POS;ADJ;NOM;INAN	_	_	_	_
+7	tarif	tarif	_	_	SG;MASC;POS;NOM;N;INAN	_	_	_	_
+8	?	?	_	_	_	_	_	_	_
+
+# sent_id = w01115024
+# text = 21. dubna 1882 zakončil studium a obdržel titul M.A.
+# orig_file_sentence test007#62
+# text_en = He graduated and obtained an M.A. on 21 April 1882.
+1	21	21	_	_	NUM	_	_	_	_
+2	.	.	_	_	_	_	_	_	_
+3	dubna	duben	_	_	GEN;SG;MASC;POS;N;INAN	_	_	_	_
+4	1882	1882	_	_	NUM	_	_	_	_
+5	zakončil	zakončit	_	_	V.PTCP;ACT;SG;MASC;PFV;POS;PST;V	_	_	_	_
+6	studium	studium	_	_	NEUT;SG;POS;ACC;N	_	_	_	_
+7	a	a	_	_	CONJ	_	_	_	_
+8	obdržel	obdržet	_	_	V.PTCP;ACT;SG;MASC;POS;PST;V	_	_	_	_
+9	titul	titul	_	_	SG;MASC;ACC;POS;N;INAN	_	_	_	_
+10	M	M	_	_	N;POS	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+12	A	A	_	_	N;POS	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w04003
+# sent_id = w04003025
+# text = V srpnu 1969 papež Pavel VI. odstranil trest smrti z vatikánského zákona a zrušil ho při všech trestných činech.
+# orig_file_sentence test010#57
+# text_en = In August 1969, Pope Paul VI removed the death penalty from the Vatican law and revoked it from all offences.
+1	V	v	_	_	ADP;ESS	_	_	_	_
+2	srpnu	srpen	_	_	SG;MASC;POS;ESS;N;INAN	_	_	_	_
+3	1969	1969	_	_	NUM	_	_	_	_
+4	papež	papež	_	_	SG;MASC;ANIM;POS;NOM;N	_	_	_	_
+5	Pavel	Pavel	_	_	SG;MASC;ANIM;PROPN;POS;NOM	_	_	_	_
+6	VI	VI	_	_	NUM	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+8	odstranil	odstranit	_	_	V.PTCP;ACT;SG;MASC;PFV;POS;PST;V	_	_	_	_
+9	trest	trest	_	_	SG;MASC;ACC;POS;N;INAN	_	_	_	_
+10	smrti	smrt	_	_	GEN;SG;FEM;POS;N	_	_	_	_
+11	z	z	_	_	ADP;GEN	_	_	_	_
+12	vatikánského	vatikánský	_	_	GEN;SG;MASC;POS;ADJ;INAN	_	_	_	_
+13	zákona	zákon	_	_	GEN;SG;MASC;POS;N;INAN	_	_	_	_
+14	a	a	_	_	CONJ	_	_	_	_
+15	zrušil	zrušit	_	_	V.PTCP;ACT;SG;MASC;PFV;POS;PST;V	_	_	_	_
+16	ho	on	_	_	{MASC/NEUT};PRO;SG;ACC;3	_	_	_	_
+17	při	při	_	_	ADP;ESS	_	_	_	_
+18	všech	všechen	_	_	DET;ESS;PL	_	_	_	_
+19	trestných	trestný	_	_	PL;MASC;POS;ESS;ADJ;INAN	_	_	_	_
+20	činech	čin	_	_	PL;MASC;POS;ESS;N;INAN	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01092040
+# text = Bylo citováno jeho následující prohlášení: „Intenzivně přemýšlíme, jak otevřít možnost soudit se pouze těm, kteří mají v projektu nějakou konkrétní roli.“
+# orig_file_sentence test003#24
+# text_en = “We are actively thinking of possible ways to limit the scope of litigation to only those with a real standing in a project,” he was quoted as saying.
+1	Bylo	být	_	_	V.PTCP;ACT;NEUT;SG;POS;PST;V	_	_	_	_
+2	citováno	citovaný	_	_	V.PTCP;NEUT;SG;POS;ADJ;IPFV;PASS	_	_	_	_
+3	jeho	jeho	_	_	PSSS;DET;3	_	_	_	_
+4	následující	následující	_	_	V.PTCP;ACT;NEUT;SG;PRS;POS;ADJ;IPFV;NOM	_	_	_	_
+5	prohlášení	prohlášení	_	_	NEUT;SG;POS;NOM;N	_	_	_	_
+6	:	:	_	_	_	_	_	_	_
+7	„	"	_	_	_	_	_	_	_
+8	Intenzivně	intenzivně	_	_	ADV;POS	_	_	_	_
+9	přemýšlíme	přemýšlet	_	_	IND;ACT;PL;PRS;POS;1;V;IPFV;FIN	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	jak	jak	_	_	ADV	_	_	_	_
+12	otevřít	otevřít	_	_	POS;NFIN;V	_	_	_	_
+13	možnost	možnost	_	_	FEM;SG;POS;ACC;N	_	_	_	_
+14	soudit	soudit	_	_	POS;IPFV;NFIN;V	_	_	_	_
+15	se	se	_	_	PRO;REFL;ACC	_	_	_	_
+16	pouze	pouze	_	_	ADV	_	_	_	_
+17	těm	ten	_	_	DAT;DET;PL	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	kteří	který	_	_	PL;MASC;ANIM;DET;NOM	_	_	_	_
+20	mají	mít	_	_	IND;ACT;PL;PRS;POS;V;3;FIN	_	_	_	_
+21	v	v	_	_	ADP;ESS	_	_	_	_
+22	projektu	projekt	_	_	SG;MASC;POS;ESS;N;INAN	_	_	_	_
+23	nějakou	nějaký	_	_	FEM;SG;DET;ACC	_	_	_	_
+24	konkrétní	konkrétní	_	_	FEM;SG;ACC;POS;ADJ	_	_	_	_
+25	roli	role	_	_	FEM;SG;POS;ACC;N	_	_	_	_
+26	.	.	_	_	_	_	_	_	_
+27	“	"	_	_	_	_	_	_	_
+
+# newdoc id = w01084
+# sent_id = w01084085
+# text = Tento městský stát vznikl ve stejné době jako Sukhothai.
+# orig_file_sentence test006#89
+# text_en = This city-state emerged in the same period as Sukhothai.
+1	Tento	tento	_	_	SG;MASC;DET;NOM	_	_	_	_
+2	městský	městský	_	_	SG;MASC;POS;ADJ;NOM;INAN	_	_	_	_
+3	stát	stát	_	_	SG;MASC;POS;NOM;N;INAN	_	_	_	_
+4	vznikl	vzniknout	_	_	V.PTCP;ACT;SG;MASC;PFV;POS;PST;V	_	_	_	_
+5	ve	v	_	_	ADP;ESS	_	_	_	_
+6	stejné	stejný	_	_	FEM;SG;POS;ESS;ADJ	_	_	_	_
+7	době	doba	_	_	SG;FEM;POS;ESS;N	_	_	_	_
+8	jako	jako	_	_	CONJ	_	_	_	_
+9	Sukhothai	Sukhothai	_	_	N;POS	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = n03006008
+# text = I když většina situací, které vznikají na pracovišti, může být vyřešena bez konfliktu.
+# orig_file_sentence test009#12
+# text_en = Even if the majority of situations that arise in the workplace can be resolved without conflict.
+1	I	i	_	_	CONJ	_	_	_	_
+2	když	když	_	_	CONJ	_	_	_	_
+3	většina	většina	_	_	SG;FEM;POS;NOM;N	_	_	_	_
+4	situací	situace	_	_	GEN;PL;FEM;POS;N	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	které	který	_	_	PL;FEM;DET;NOM	_	_	_	_
+7	vznikají	vznikat	_	_	IND;ACT;PL;PRS;POS;V;IPFV;3;FIN	_	_	_	_
+8	na	na	_	_	ADP;ESS	_	_	_	_
+9	pracovišti	pracoviště	_	_	NEUT;SG;POS;ESS;N	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	může	moci	_	_	IND;ACT;SG;PRS;POS;V;3;FIN	_	_	_	_
+12	být	být	_	_	V;NFIN;POS	_	_	_	_
+13	vyřešena	vyřešený	_	_	V.PTCP;{PL/SG};PFV;POS;ADJ;{FEM/NEUT};PASS	_	_	_	_
+14	bez	bez	_	_	ADP;GEN	_	_	_	_
+15	konfliktu	konflikt	_	_	GEN;SG;MASC;POS;N;INAN	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01091017
+# text = Jeff Knott, jejich šéf zodpovědný za životní prostředí, uvedl: „Divil bych se, kdyby to vedlo k zákazu nebo k povolení.“
+# orig_file_sentence test003#23
+# text_en = Their head of nature policy, Jeff Knott, stated: “I’d be amazed if either a ban or licensing was introduced off the back of it”.
+1	Jeff	Jeff	_	_	SG;MASC;ANIM;PROPN;POS;NOM	_	_	_	_
+2	Knott	Knott	_	_	SG;MASC;ANIM;PROPN;POS;NOM	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	jejich	jeho	_	_	PSSP;DET;3	_	_	_	_
+5	šéf	šéf	_	_	SG;MASC;ANIM;POS;NOM;N	_	_	_	_
+6	zodpovědný	zodpovědný	_	_	SG;MASC;ANIM;POS;ADJ;NOM	_	_	_	_
+7	za	za	_	_	ADP;ACC	_	_	_	_
+8	životní	životní	_	_	NEUT;SG;ACC;POS;ADJ	_	_	_	_
+9	prostředí	prostředí	_	_	NEUT;SG;POS;ACC;N	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	uvedl	uvést	_	_	V.PTCP;ACT;SG;MASC;POS;PST;V	_	_	_	_
+12	:	:	_	_	_	_	_	_	_
+13	„	"	_	_	_	_	_	_	_
+14	Divil	divit	_	_	V.PTCP;ACT;SG;MASC;POS;PST;V;IPFV	_	_	_	_
+15	bych	být	_	_	COND;SG;1;V;FIN	_	_	_	_
+16	se	se	_	_	PRO;REFL;ACC	_	_	_	_
+17	,	,	_	_	_	_	_	_	_
+18	když	když	_	_	CONJ	_	_	_	_
+19	by	být	_	_	V;3;COND;FIN	_	_	_	_
+20	to	ten	_	_	NEUT;SG;DET;NOM	_	_	_	_
+21	vedlo	vést	_	_	V.PTCP;ACT;NEUT;SG;POS;PST;V	_	_	_	_
+22	k	k	_	_	ADP;DAT	_	_	_	_
+23	zákazu	zákaz	_	_	DAT;SG;MASC;POS;N;INAN	_	_	_	_
+24	nebo	nebo	_	_	CONJ	_	_	_	_
+25	k	k	_	_	ADP;DAT	_	_	_	_
+26	povolení	povolení	_	_	DAT;NEUT;SG;POS;N	_	_	_	_
+27	.	.	_	_	_	_	_	_	_
+28	“	"	_	_	_	_	_	_	_
+
+# sent_id = w02011029
+# text = Prohlašuji první mezinárodní olympijské hry za skončené.
+# orig_file_sentence test010#5
+# text_en = I declare the first international Olympic games over.
+1	Prohlašuji	prohlašovat	_	_	IND;ACT;SG;PRS;POS;1;V;IPFV;FIN	_	_	_	_
+2	první	první	_	_	PL;FEM;ACC;ADJ	_	_	_	_
+3	mezinárodní	mezinárodní	_	_	PL;FEM;ACC;POS;ADJ	_	_	_	_
+4	olympijské	olympijský	_	_	PL;FEM;ACC;POS;ADJ	_	_	_	_
+5	hry	hra	_	_	PL;FEM;POS;ACC;N	_	_	_	_
+6	za	za	_	_	ADP;ACC	_	_	_	_
+7	skončené	skončený	_	_	PL;FEM;ACC;POS;ADJ	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# newdoc id = w01004
+# sent_id = w01004051
+# text = Řecký městský stát Atény, jenž byl v pátém století před Kristem zcela závislý na dovozu obilí ze Skýtie, udržoval životně důležitá spojenectví s městy, která kontrolovala průlivy, například s megarskou kolonií Byzantion.
+# orig_file_sentence test004#83
+# text_en = The Greek city-state of Athens in the 5th century BC, which was dependent on grain imports from Scythia, maintained critical alliances with cities which controlled the straits, such as the Megarian colony Byzantium.
+1	Řecký	řecký	_	_	SG;MASC;POS;ADJ;NOM;INAN	_	_	_	_
+2	městský	městský	_	_	SG;MASC;POS;ADJ;NOM;INAN	_	_	_	_
+3	stát	stát	_	_	SG;MASC;POS;NOM;N;INAN	_	_	_	_
+4	Atény	Atény	_	_	PL;FEM;PROPN;POS;NOM	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	jenž	jenž	_	_	PRO;SG;MASC;NOM	_	_	_	_
+7	byl	být	_	_	V.PTCP;ACT;SG;MASC;POS;PST;V	_	_	_	_
+8	v	v	_	_	ADP;ESS	_	_	_	_
+9	pátém	pátý	_	_	NEUT;SG;ESS;ADJ	_	_	_	_
+10	století	století	_	_	NEUT;SG;POS;ESS;N	_	_	_	_
+11	před	před	_	_	ADP;INS	_	_	_	_
+12	Kristem	Kristus	_	_	SG;MASC;ANIM;PROPN;POS;INS	_	_	_	_
+13	zcela	zcela	_	_	ADV	_	_	_	_
+14	závislý	závislý	_	_	SG;MASC;POS;ADJ;NOM;INAN	_	_	_	_
+15	na	na	_	_	ADP;ESS	_	_	_	_
+16	dovozu	dovoz	_	_	SG;MASC;POS;ESS;N;INAN	_	_	_	_
+17	obilí	obilí	_	_	GEN;NEUT;SG;POS;N	_	_	_	_
+18	ze	z	_	_	ADP;GEN	_	_	_	_
+19	Skýtie	Skýtie	_	_	GEN;SG;FEM;PROPN;POS	_	_	_	_
+20	,	,	_	_	_	_	_	_	_
+21	udržoval	udržovat	_	_	V.PTCP;ACT;SG;MASC;POS;PST;V;IPFV	_	_	_	_
+22	životně	životně	_	_	ADV;POS	_	_	_	_
+23	důležitá	důležitý	_	_	PL;NEUT;ACC;POS;ADJ	_	_	_	_
+24	spojenectví	spojenectví	_	_	PL;NEUT;POS;ACC;N	_	_	_	_
+25	s	s	_	_	ADP;INS	_	_	_	_
+26	městy	město	_	_	PL;NEUT;POS;N;INS	_	_	_	_
+27	,	,	_	_	_	_	_	_	_
+28	která	který	_	_	PL;FEM;DET;NOM	_	_	_	_
+29	kontrolovala	kontrolovat	_	_	V.PTCP;ACT;{PL/SG};{FEM/NEUT};POS;PST;V;IPFV	_	_	_	_
+30	průlivy	průliv	_	_	PL;MASC;ACC;POS;N;INAN	_	_	_	_
+31	,	,	_	_	_	_	_	_	_
+32	například	například	_	_	ADV	_	_	_	_
+33	s	s	_	_	ADP;INS	_	_	_	_
+34	megarskou	megarský	_	_	FEM;SG;POS;ADJ;INS	_	_	_	_
+35	kolonií	kolonie	_	_	FEM;SG;POS;N;INS	_	_	_	_
+36	Byzantion	Byzantion	_	_	SG;MASC;PROPN;POS;NOM;INAN	_	_	_	_
+37	.	.	_	_	_	_	_	_	_
+
+# sent_id = n05003022
+# text = Baron de Claret, jediný ve vládě se vznešeným titulem.
+# orig_file_sentence test009#58
+# text_en = Barón de Claret, the only one in Government with a noble title.
+1	Baron	baron	_	_	SG;MASC;ANIM;POS;NOM;N	_	_	_	_
+2	de	de	_	_	ADP;NOM	_	_	_	_
+3	Claret	Claret	_	_	SG;MASC;ANIM;POS;NOM;N	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	jediný	jediný	_	_	SG;MASC;ANIM;POS;ADJ;NOM	_	_	_	_
+6	ve	v	_	_	ADP;ESS	_	_	_	_
+7	vládě	vláda	_	_	SG;FEM;POS;ESS;N	_	_	_	_
+8	se	s	_	_	ADP;INS	_	_	_	_
+9	vznešeným	vznešený	_	_	SG;MASC;POS;ADJ;INAN;INS	_	_	_	_
+10	titulem	titul	_	_	SG;MASC;POS;N;INAN;INS	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01011
+# sent_id = n01011004
+# text = Byla také obviněna z pokusu o zabití své dvouleté dcery.
+# orig_file_sentence test001#23
+# text_en = She has also been charged with trying to kill her two-year-old daughter.
+1	Byla	být	_	_	V.PTCP;ACT;{PL/SG};{FEM/NEUT};POS;PST;V	_	_	_	_
+2	také	také	_	_	ADV	_	_	_	_
+3	obviněna	obviněný	_	_	V.PTCP;{PL/SG};PFV;POS;ADJ;{FEM/NEUT};PASS	_	_	_	_
+4	z	z	_	_	ADP;GEN	_	_	_	_
+5	pokusu	pokus	_	_	GEN;SG;MASC;POS;N;INAN	_	_	_	_
+6	o	o	_	_	ADP;ACC	_	_	_	_
+7	zabití	zabití	_	_	NEUT;SG;POS;ACC;N	_	_	_	_
+8	své	svůj	_	_	GEN;SG;FEM;DET;REFL	_	_	_	_
+9	dvouleté	dvouletý	_	_	GEN;FEM;SG;POS;ADJ	_	_	_	_
+10	dcery	dcera	_	_	GEN;SG;FEM;POS;N	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01009054
+# text = „Požádali jsme jiné země, aby nám pomohly rozšířit zoo o další druhy zvířat, včetně prasete,“ uvedl Saqib.
+# orig_file_sentence test001#20
+# text_en = “We’ve requested other nations to help us populate the zoo with different species of animals, including a pig,” Saqib said.
+1	„	"	_	_	_	_	_	_	_
+2	Požádali	požádat	_	_	V.PTCP;ACT;PL;MASC;ANIM;PFV;POS;PST;V	_	_	_	_
+3	jsme	být	_	_	IND;ACT;PL;PRS;POS;1;V;FIN	_	_	_	_
+4	jiné	jiný	_	_	PL;FEM;ACC;POS;ADJ	_	_	_	_
+5	země	země	_	_	PL;FEM;POS;ACC;N	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	aby	aby	_	_	CONJ	_	_	_	_
+8	by	být	_	_	V;3;COND;FIN	_	_	_	_
+9	nám	já	_	_	DAT;PL;PRO;1	_	_	_	_
+10	pomohly	pomoci	_	_	{FEM/MASC};V.PTCP;ACT;PL;POS;PST;V;INAN	_	_	_	_
+11	rozšířit	rozšířit	_	_	POS;NFIN;PFV;V	_	_	_	_
+12	zoo	ZOO	_	_	POS;N;FEM	_	_	_	_
+13	o	o	_	_	ADP;ACC	_	_	_	_
+14	další	další	_	_	PL;MASC;ACC;POS;ADJ;INAN	_	_	_	_
+15	druhy	druh	_	_	PL;MASC;ACC;POS;N;INAN	_	_	_	_
+16	zvířat	zvíře	_	_	GEN;PL;NEUT;POS;N	_	_	_	_
+17	,	,	_	_	_	_	_	_	_
+18	včetně	včetně	_	_	ADP;GEN	_	_	_	_
+19	prasete	prase	_	_	GEN;NEUT;SG;POS;N	_	_	_	_
+20	,	,	_	_	_	_	_	_	_
+21	“	"	_	_	_	_	_	_	_
+22	uvedl	uvést	_	_	V.PTCP;ACT;SG;MASC;POS;PST;V	_	_	_	_
+23	Saqib	Saqib	_	_	SG;MASC;ANIM;PROPN;POS;NOM	_	_	_	_
+24	.	.	_	_	_	_	_	_	_
+
+# newdoc id = n01106
+# sent_id = n01106008
+# text = Z ročního průzkumu rovněž vyplynulo, že obavy z uzavírání nových finančních závazků vzrostly.
+# orig_file_sentence test003#59
+# text_en = The annual survey also revealed that worries about taking on fresh financial burdens has rocketed.
+1	Z	z	_	_	ADP;GEN	_	_	_	_
+2	ročního	roční	_	_	GEN;SG;MASC;POS;ADJ;INAN	_	_	_	_
+3	průzkumu	průzkum	_	_	GEN;SG;MASC;POS;N;INAN	_	_	_	_
+4	rovněž	rovněž	_	_	ADV	_	_	_	_
+5	vyplynulo	vyplynout	_	_	V.PTCP;ACT;NEUT;SG;POS;PST;V	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	že	že	_	_	CONJ	_	_	_	_
+8	obavy	obava	_	_	PL;FEM;POS;NOM;N	_	_	_	_
+9	z	z	_	_	ADP;GEN	_	_	_	_
+10	uzavírání	uzavírání	_	_	GEN;NEUT;SG;POS;N	_	_	_	_
+11	nových	nový	_	_	GEN;PL;MASC;POS;ADJ;INAN	_	_	_	_
+12	finančních	finanční	_	_	GEN;PL;MASC;POS;ADJ;INAN	_	_	_	_
+13	závazků	závazek	_	_	GEN;PL;MASC;POS;N;INAN	_	_	_	_
+14	vzrostly	vzrůst	_	_	{FEM/MASC};V.PTCP;ACT;PL;POS;PST;V;INAN	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = n01064096
+# text = Stejně jako mnoho mých známých jsem poslední měsíce trávil dlouhé večery u strašidelných průzkumů preferencí.
+# orig_file_sentence test002#55
+# text_en = Like many people I know, I’ve spent recent months staying up late, reading polls in terror.
+1	Stejně	stejně	_	_	ADV;POS	_	_	_	_
+2	jako	jako	_	_	CONJ	_	_	_	_
+3	mnoho	mnoho	_	_	NOM;DET	_	_	_	_
+4	mých	můj	_	_	PSSS;GEN;PL;DET;1	_	_	_	_
+5	známých	známý	_	_	GEN;PL;MASC;ANIM;POS;N	_	_	_	_
+6	jsem	být	_	_	IND;ACT;SG;PRS;POS;1;V;FIN	_	_	_	_
+7	poslední	poslední	_	_	PL;MASC;ACC;POS;ADJ;INAN	_	_	_	_
+8	měsíce	měsíc	_	_	PL;MASC;ACC;POS;N;INAN	_	_	_	_
+9	trávil	trávit	_	_	V.PTCP;ACT;SG;MASC;POS;PST;V;IPFV	_	_	_	_
+10	dlouhé	dlouhý	_	_	PL;MASC;ACC;POS;ADJ;INAN	_	_	_	_
+11	večery	večer	_	_	PL;MASC;ACC;POS;N;INAN	_	_	_	_
+12	u	u	_	_	ADP;GEN	_	_	_	_
+13	strašidelných	strašidelný	_	_	GEN;PL;MASC;POS;ADJ;INAN	_	_	_	_
+14	průzkumů	průzkum	_	_	GEN;PL;MASC;POS;N;INAN	_	_	_	_
+15	preferencí	preference	_	_	GEN;PL;FEM;POS;N	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
